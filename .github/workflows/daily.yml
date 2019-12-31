@@ -1,0 +1,29 @@
+name: daily trending update
+on: [push]
+  # schedule: 
+  #   - cron: '40 * * * *'
+
+jobs:
+  fetch-and-update:
+    name: update
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+        with:
+          fetch-depth: 1
+      - name: checkout branch
+        run: |
+          git checkout -b daily-$(date +%F)
+      - name: update
+        run: |
+          ./update
+          git add src/
+          git commit -m "update"$(date)
+      - name: push changes
+        uses: repo-sync/pull-request@v2
+        with:
+          source_branch: daily-$(date +%F)      # If blank, default: triggered branch
+          destination_branch: "master"          # If blank, default: master
+          pr_title: "Daily update" + $(date +%F)
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+       
