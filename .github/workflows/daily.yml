@@ -17,6 +17,8 @@ jobs:
           echo ::set-env name=pr_title::"Daily update "$(date +%F)
       - name: update
         run: |
+          git config --global user.email "you@example.com"
+          git config --global user.name "Your Name"
           git checkout -b ${{ env.update_branch }}
           ./update daily
           git add src/
