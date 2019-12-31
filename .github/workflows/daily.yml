@@ -18,7 +18,7 @@ jobs:
       - name: update
         run: |
           git checkout -b ${{ env.update_branch }}
-          ./update
+          ./update daily
           git add src/
           git commit -m "daily update "$(date +%F)
       - name: create pull request
