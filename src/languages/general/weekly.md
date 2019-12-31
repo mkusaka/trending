@@ -1,0 +1,51 @@
+# general
+- [Hippy](https://github.com/Tencent/Hippy) : C++
+  - A cross platform framework designed for Web developer. Introduction video - https://v.qq.com/x/page/i3038urj2mt.html
+- [12306](https://github.com/testerSunshine/12306) : Python
+  - 12306智能刷票，订票
+- [py12306](https://github.com/pjialin/py12306) : Python
+  - 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
+- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) : JavaScript
+  - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+- [Motrix](https://github.com/agalwood/Motrix) : JavaScript
+  - A full-featured download manager.
+- [easy12306](https://github.com/zhaipro/easy12306) : Python
+  - 使用机器学习算法完成对12306验证码的自动识别
+- [advanced-java](https://github.com/doocs/advanced-java) : Java
+  - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
+- [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) : Java
+  - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+- [JustAuth](https://github.com/justauth/JustAuth) : Java
+  - 💯 史上最全的整合第三方登录的开源库。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么和推特等第三方平台的授权登录。 Login, so easy!
+- [seata](https://github.com/seata/seata) : Java
+  - 🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution.
+- [trojan](https://github.com/trojan-gfw/trojan) : C++
+  - An unidentifiable mechanism that helps you bypass GFW.
+- [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) : TeX
+  - Cheat Sheets
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
+  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) : 
+  - 📚 免费的计算机编程类中文书籍，欢迎投稿
+- [p3c](https://github.com/alibaba/p3c) : Kotlin
+  - Alibaba Java Coding Guidelines pmd implements and IDE plugin
+- [druid](https://github.com/alibaba/druid) : Java
+  - 阿里巴巴数据库事业部出品，为监控而生的数据库连接池
+- [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) : Swift
+  - Next Generation of ShadowsocksX
+- [homepage](https://github.com/omegasisters/homepage) : HTML
+  - おめシスのホームページを作りたい
+- [BigData-Notes](https://github.com/heibaiying/BigData-Notes) : Java
+  - 大数据入门指南 ⭐️
+- [learn-go-with-tests](https://github.com/quii/learn-go-with-tests) : Go
+  - Learn Go with test-driven development
+- [flutterfire](https://github.com/FirebaseExtended/flutterfire) : Dart
+  - 🔥 Firebase plugins for Flutter apps
+- [vhr](https://github.com/lenve/vhr) : Java
+  - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
+- [mall](https://github.com/macrozheng/mall) : Java
+  - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+- [eladmin](https://github.com/elunez/eladmin) : Java
+  - 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
+- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) : JavaScript
+  - Revive unavailable songs for Netease Cloud Music
