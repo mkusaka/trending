@@ -23,6 +23,7 @@ jobs:
           ./update daily
           git add src/
           git commit -m "daily update "$(date +%F)
+          git push origin HEAD
       - name: create pull request
         uses: repo-sync/pull-request@v2
         with:
