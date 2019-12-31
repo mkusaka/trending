@@ -11,19 +11,21 @@ jobs:
       - uses: actions/checkout@v1
         with:
           fetch-depth: 1
-      - name: checkout branch
+      - name: set environment variable
         run: |
-          git checkout -b daily-$(date +%F)
+          echo ::set-env name=update_branch::daily-$(date +%F)
+          echo ::set-env name=pr_title::"Daily update "$(date +%F)
       - name: update
         run: |
+          git checkout -b ${{ env.update_branch }}
           ./update
           git add src/
-          git commit -m "update"$(date)
-      - name: push changes
+          git commit -m "daily update "$(date +%F)
+      - name: create pull request
         uses: repo-sync/pull-request@v2
         with:
-          source_branch: daily-$(date +%F)      # If blank, default: triggered branch
+          source_branch: ${{ env.update_branch }}    # If blank, default: triggered branch
           destination_branch: "master"          # If blank, default: master
-          pr_title: "Daily update" + $(date +%F)
+          pr_title: ${{ env.pr_title }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
        
