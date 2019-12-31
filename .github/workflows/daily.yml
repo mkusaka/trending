@@ -24,7 +24,7 @@ jobs:
           git add src/
           git commit -m "daily update "$(date +%F)
       - name: push current changes
-        uses: ad-m/github-push-action@0.5.0
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
       - name: create pull request
