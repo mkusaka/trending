@@ -23,7 +23,7 @@ jobs:
           ./update daily
           git add src/
           git commit -m "daily update "$(date +%F)
-          git push "https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$INPUT_REPO.git" HEAD
+          git push "https://${{ env.GITHUB_ACTOR }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ env.GITHUB_REPOSITORY }}.git" HEAD
       - name: create pull request
         uses: repo-sync/pull-request@v2
         with:
