@@ -28,7 +28,7 @@
 - [pyo3](https://github.com/PyO3/pyo3)
   - Rust bindings for the Python interpreter
 - [vector](https://github.com/timberio/vector)
-  - A High-Performance, Logs, Metrics, & Events Router
+  - A High-Performance Monitoring & Observability Data Router
 - [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
   - An experimental Rust compiler front-end for IDEs
 - [warp](https://github.com/seanmonstar/warp)

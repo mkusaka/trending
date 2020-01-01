@@ -30,7 +30,7 @@
 - [abseil-cpp](https://github.com/abseil/abseil-cpp)
   - Abseil Common Libraries (C++)
 - [TrinityCore](https://github.com/TrinityCore/TrinityCore)
-  - TrinityCore Open Source MMO Framework (master = 8.2.5.32722, 3.3.5 = 3.3.5a.12340)
+  - TrinityCore Open Source MMO Framework (master = 8.2.5.32750, 3.3.5 = 3.3.5a.12340)
 - [Tasmota](https://github.com/arendst/Tasmota)
   - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
 - [FastLED](https://github.com/FastLED/FastLED)

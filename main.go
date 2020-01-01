@@ -7,6 +7,7 @@ import (
 	"log"
 	"net/http"
 	"os"
+	"strings"
 	"time"
 )
 
@@ -52,12 +53,12 @@ func ParseTrend(RawTrending string) []Trend {
 	return Trends
 }
 
-func GenerateMarkDown(trends []Trend, trendTitle string) string {
-	trendMD := "# " + trendTitle + "\n"
+func GenerateMarkDown(trends []Trend, trendTitle string, depth int) string {
+	trendMD := strings.Repeat("#", depth) + " " + trendTitle + "\n"
 	for _, trend := range trends {
 		if trendTitle == "general" {
 			trendMD += "- [" + trend.Name + "](" + trend.Url + ") : " + trend.Language + "\n"
-			if trend.Description != "" {
+			if strings.TrimSpace(trend.Description) != "" {
 				trendMD += "  - " + trend.Description + "\n"
 			}
 		} else {
@@ -95,7 +96,7 @@ func URLGenerator(period string) func(language string) string {
 	}
 }
 
-func FetchAndGenerateMarkdown(period string) {
+func FetchAndGenerateJSON(period string) {
 	c := NewClient(10 * time.Second)
 	targets := append([]string{General}, Languages...)
 
@@ -114,26 +115,108 @@ func FetchAndGenerateMarkdown(period string) {
 			if err != nil {
 				log.Fatal("Body io convert error")
 			}
-			parsed := ParseTrend(string(body))
 			if language == "" {
 				language = "general"
 			}
-			md := GenerateMarkDown(parsed, language)
-			filename := "src/languages/" + language + "/" + period + ".md"
-			f, err := os.Create(filename)
+			jsonFilename := "src/raw/" + language + "/" + period + ".json"
+			jsonfile, err := os.Create(jsonFilename)
 			if err != nil {
-				log.Fatalf("something wrong with create md file %s", filename)
+				log.Fatalf("something wrong with create md file %s", jsonFilename)
 			}
-			defer f.Close()
+			defer jsonfile.Close()
 
-			f.WriteString(md)
+			jsonfile.WriteString(string(body))
 		}
 		time.Sleep(1 * time.Second)
 	}
 }
 
+func storeToLanguageMarkdown(language, period string) {
+	jsonFilename := "src/raw/" + language + "/" + period + ".json"
+	jsonByteString, err := ioutil.ReadFile(jsonFilename)
+	if err != nil {
+		log.Fatalf("something wrong with read file %s", jsonFilename)
+	}
+
+	parsed := ParseTrend(string(jsonByteString))
+	md := GenerateMarkDown(parsed, language, 1)
+	filename := "src/languages/" + language + "/" + period + ".md"
+	f, err := os.Create(filename)
+	if err != nil {
+		log.Fatalf("something wrong with create md file %s", filename)
+	}
+	defer f.Close()
+
+	f.WriteString(md)
+}
+
+func storeToPeriodMarkdown(period string) {
+	filename := "src/periods/" + period + ".md"
+	f, err := os.Create(filename)
+	if err != nil {
+		log.Fatalf("something wrong with create md file %s", filename)
+	}
+	defer f.Close()
+	md := "# " + period + "\n"
+	for _, language := range append([]string{General}, Languages...) {
+		if language == "" {
+			language = "general"
+		}
+		jsonFilename := "src/raw/" + language + "/" + period + ".json"
+		jsonByteString, err := ioutil.ReadFile(jsonFilename)
+		if err != nil {
+			log.Fatalf("something wrong with read file %s", jsonFilename)
+		}
+
+		parsed := ParseTrend(string(jsonByteString))
+		md += GenerateMarkDown(parsed, language, 2)
+	}
+	f.WriteString(md)
+}
+
+func FetchJSON(period string, isAllPeriod bool) {
+	if isAllPeriod {
+		for _, _period := range Periods {
+			FetchAndGenerateJSON(_period)
+		}
+	} else {
+		FetchAndGenerateJSON(period)
+	}
+}
+
+func GeneratePeriodMarkdown(period string, isAllPeriod bool) {
+	if isAllPeriod {
+		for _, _period := range Periods {
+			storeToPeriodMarkdown(_period)
+		}
+	} else {
+		storeToPeriodMarkdown(period)
+	}
+}
+
+func GenerateLanguageMarkdown(language string, isAllLanguages bool) {
+	if isAllLanguages {
+		for _, _language := range append([]string{General}, Languages...) {
+			if _language == "" {
+				_language = "general"
+			}
+			for _, period := range Periods {
+				storeToLanguageMarkdown(_language, period)
+			}
+		}
+	} else {
+		for _, period := range Periods {
+			storeToLanguageMarkdown(language, period)
+		}
+	}
+}
+
 func main() {
 	period := os.Args[1]
+	language := ""
+	if len(os.Args) >= 3 {
+		language = os.Args[2]
+	}
 	isValidPeriod := false
 	for _, _period := range Periods {
 		if period == _period {
@@ -148,11 +231,23 @@ func main() {
 	if !(isValidPeriod || isAllPeriod) {
 		log.Fatal("invalid Period given. Choose valid period from daily, weekly, monthly or all.")
 	}
-	if isAllPeriod {
-		for _, _period := range Periods {
-			FetchAndGenerateMarkdown(_period)
+
+	FetchJSON(period, isAllPeriod)
+	GeneratePeriodMarkdown(period, isAllPeriod)
+
+	if language != "" {
+		isValidLanguage := false
+		for _, _language := range Languages {
+			if language == _language {
+				isValidLanguage = true
+				break
+			}
 		}
+		if !isValidLanguage {
+			log.Fatal("invalid language")
+		}
+		GenerateLanguageMarkdown(language, false)
 	} else {
-		FetchAndGenerateMarkdown(period)
+		GenerateLanguageMarkdown("", true)
 	}
 }
