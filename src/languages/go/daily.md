@@ -1,0 +1,51 @@
+# go
+- [age](https://github.com/FiloSottile/age)
+  - A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability.
+- [go-spew](https://github.com/davecgh/go-spew)
+  - Implements a deep pretty printer for Go data structures to aid in debugging
+- [helm](https://github.com/helm/helm)
+  - The Kubernetes Package Manager
+- [cobra](https://github.com/spf13/cobra)
+  - A Commander for modern Go CLI interactions
+- [origin](https://github.com/openshift/origin)
+  - The self-managing, auto-upgrading, Kubernetes distribution for everyone
+- [kops](https://github.com/kubernetes/kops)
+  - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
+- [crawlab](https://github.com/crawlab-team/crawlab)
+  - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
+- [gopl.io](https://github.com/adonovan/gopl.io)
+  - Example programs from "The Go Programming Language"
+- [raft](https://github.com/hashicorp/raft)
+  - Golang implementation of the Raft consensus protocol
+- [chromedp](https://github.com/chromedp/chromedp)
+  - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
+- [chubaofs](https://github.com/chubaofs/chubaofs)
+  - A distributed storage system for cloud native applications to separate storage from compute.
+- [ent](https://github.com/facebookincubator/ent)
+  - An entity framework for Go
+- [go](https://github.com/golang/go)
+  - The Go programming language
+- [aws-sdk-go](https://github.com/aws/aws-sdk-go)
+  - AWS SDK for the Go programming language.
+- [kubernetes-ingress-controller](https://github.com/Kong/kubernetes-ingress-controller)
+  - Kong for Kubernetes
+- [amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s)
+  - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
+- [protoc-gen-validate](https://github.com/envoyproxy/protoc-gen-validate)
+  - protoc plugin to generate polyglot message validators
+- [charts](https://github.com/helm/charts)
+  - Curated applications for Kubernetes
+- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
+  - Terraform AWS provider
+- [dig](https://github.com/uber-go/dig)
+  - A reflection based dependency injection toolkit for Go.
+- [vault](https://github.com/hashicorp/vault)
+  - A tool for secrets management, encryption as a service, and privileged access management
+- [packer](https://github.com/hashicorp/packer)
+  - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+- [govmomi](https://github.com/vmware/govmomi)
+  - Go library for the VMware vSphere API
+- [opa](https://github.com/open-policy-agent/opa)
+  - An open source, general-purpose policy engine.
+- [logrus](https://github.com/sirupsen/logrus)
+  - Structured, pluggable logging for Go.
