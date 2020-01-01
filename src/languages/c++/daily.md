@@ -1,51 +1,51 @@
 # c++
-- [trojan](https://github.com/trojan-gfw/trojan)
-  - An unidentifiable mechanism that helps you bypass GFW.
-- [Tasmota](https://github.com/arendst/Tasmota)
-  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
-- [IncludeOS](https://github.com/includeos/IncludeOS)
-  - A minimal, resource efficient unikernel for cloud services
-- [yuzu](https://github.com/yuzu-emu/yuzu)
-  - Nintendo Switch Emulator
 - [snapcast](https://github.com/badaix/snapcast)
   - Synchronous multi-room audio player
-- [widelands](https://github.com/widelands/widelands)
-  - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it.
+- [trojan](https://github.com/trojan-gfw/trojan)
+  - An unidentifiable mechanism that helps you bypass GFW.
 - [blc](https://github.com/cseagle/blc)
   - Integrate Ghidra's decompiler as an Ida plugin
-- [json](https://github.com/nlohmann/json)
-  - JSON for Modern C++
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [videos](https://github.com/OneLoneCoder/videos)
-  - The official distribution of olcConsoleGameEngine, a tool used in javidx9's YouTube videos and projects
-- [cocos2d-x](https://github.com/cocos2d/cocos2d-x)
-  - Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
-- [cereal](https://github.com/USCiLab/cereal)
-  - A C++11 library for serialization
+- [Firmware](https://github.com/PX4/Firmware)
+  - PX4 Autopilot Software
+- [apollo](https://github.com/ApolloAuto/apollo)
+  - An open autonomous driving platform
 - [electron](https://github.com/electron/electron)
   - Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [snappy](https://github.com/google/snappy)
-  - A fast compressor/decompressor
-- [llvm-project](https://github.com/llvm/llvm-project)
-  - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
-- [folly](https://github.com/facebook/folly)
-  - An open-source C++ library developed and used at Facebook.
-- [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native)
-  - Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
+- [Magisk](https://github.com/topjohnwu/Magisk)
+  - A Magic Mask to Alter Android System Systemless-ly
+- [interpret](https://github.com/interpretml/interpret)
+  - Fit interpretable machine learning models. Explain blackbox machine learning.
+- [sys-con](https://github.com/cathery/sys-con)
+  - Nintendo Switch sysmodule that allows support for third-party controllers
+- [BIGTREETECH-SKR-mini-E3](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3)
+  - BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.
+- [yuzu](https://github.com/yuzu-emu/yuzu)
+  - Nintendo Switch Emulator
+- [xeus-cling](https://github.com/jupyter-xeus/xeus-cling)
+  - Jupyter kernel for the C++ programming language
+- [pybind11](https://github.com/pybind/pybind11)
+  - Seamless operability between C++11 and Python
+- [QuantLib](https://github.com/lballabio/QuantLib)
+  - The QuantLib C++ library
+- [onnxruntime](https://github.com/microsoft/onnxruntime)
+  - ONNX Runtime: cross-platform, high performance scoring engine for ML models
+- [openpilot](https://github.com/commaai/openpilot)
+  - open source driving agent
+- [diycamera](https://github.com/IdleHandsProject/diycamera)
+  - An Arduino Based DIY Image Sensor and Camera Body
+- [googletest](https://github.com/google/googletest)
+  - Googletest - Google Testing and Mocking Framework
+- [tdesktop](https://github.com/telegramdesktop/tdesktop)
+  - Telegram Desktop messaging app
 - [ThreadPool](https://github.com/progschj/ThreadPool)
   - A simple C++11 Thread Pool implementation
-- [crow](https://github.com/ipkn/crow)
-  - Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)
-- [Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-  - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
-- [re2](https://github.com/google/re2)
-  - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
-- [rocksdb](https://github.com/facebook/rocksdb)
-  - A library that provides an embeddable, persistent key-value store for fast storage.
-- [hanacoin](https://github.com/hanacoinproject/hanacoin)
-  - 
-- [keepassxc](https://github.com/keepassxreboot/keepassxc)
-  - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
-- [pytorch](https://github.com/pytorch/pytorch)
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [endless-sky](https://github.com/endless-sky/endless-sky)
+  - Space exploration, trading, and combat game.
+- [incubator-brpc](https://github.com/apache/incubator-brpc)
+  - Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services, called "baidu-rpc" inside Baidu.
+- [Marlin](https://github.com/MarlinFirmware/Marlin)
+  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
+- [BIGTREETECH-SKR-V1.3](https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3)
+  - 32bit board with LPC1768, support marlin2.0 and smoothieware, support lcd2004/12864, On-board TMC2130 SPI interface and TMC2208 UART interface no additional wiring is required
+- [MNN](https://github.com/alibaba/MNN)
+  - MNN is a lightweight deep neural network inference engine.

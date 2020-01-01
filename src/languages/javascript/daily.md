@@ -1,49 +1,51 @@
 # javascript
 - [spark-joy](https://github.com/sw-yx/spark-joy)
   - ✨😂easy ways to add design flair, user delight, and whimsy to your product.
-- [magnetW](https://github.com/xiandanin/magnetW)
-  - 磁力链接聚合搜索
-- [keystone](https://github.com/keystonejs/keystone)
-  - A scalable platform and CMS to build Node.js applications
 - [lucky-draw](https://github.com/vitozyf/lucky-draw)
   - 年会抽奖程序
+- [magnetW](https://github.com/xiandanin/magnetW)
+  - 磁力链接聚合搜索
 - [gatsby](https://github.com/gatsbyjs/gatsby)
   - Build blazing fast, modern apps and websites with React
-- [eternal](https://github.com/kousun12/eternal)
-  - 👾~ music, eternal ~ 👾
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [create-react-app](https://github.com/facebook/create-react-app)
-  - Set up a modern web app by running one command.
-- [any-rule](https://github.com/any86/any-rule)
-  - 🦕 常用正则大全, 支持web / vscode插件2种查询方式.
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [jupyterlab](https://github.com/jupyterlab/jupyterlab)
-  - JupyterLab computational environment.
-- [react-query](https://github.com/tannerlinsley/react-query)
-  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
-- [airframe-react](https://github.com/0wczar/airframe-react)
-  - Free Open Source High Quality Dashboard based on Bootstrap 4 & React 16: http://dashboards.webkom.co/react/airframe
-- [mongoose](https://github.com/Automattic/mongoose)
-  - MongoDB object modeling designed to work in an asynchronous environment.
-- [academicpages.github.io](https://github.com/academicpages/academicpages.github.io)
-  - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
+- [massCode](https://github.com/antonreshetov/massCode)
+  - A free and open source code snippets manager for developers.
+- [quasar](https://github.com/quasarframework/quasar)
+  - Quasar Framework - Build high-performance VueJS user interfaces in record time
+- [baiduyun](https://github.com/syhyz1990/baiduyun)
+  - 🖖油猴脚本 一个脚本搞定百度网盘下载 https://www.baiduyun.wiki
 - [Sortable](https://github.com/SortableJS/Sortable)
   - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Ember, Knockout and any CSS library, e.g. Bootstrap.
-- [axios](https://github.com/axios/axios)
-  - Promise based HTTP client for the browser and node.js
-- [leetcode](https://github.com/azl397985856/leetcode)
-  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+- [preact](https://github.com/preactjs/preact)
+  - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
+- [d2-admin](https://github.com/d2-projects/d2-admin)
+  - 🌈 An elegant dashboard
 - [jest](https://github.com/facebook/jest)
   - Delightful JavaScript Testing.
-- [Motrix](https://github.com/agalwood/Motrix)
-  - A full-featured download manager.
-- [three.js](https://github.com/mrdoob/three.js)
-  - JavaScript 3D library.
-- [jeesite](https://github.com/thinkgem/jeesite)
-  - JeeSite 是一个企业信息化开发基础平台，Java企业应用开源框架，Java EE（J2EE）快速开发框架，使用经典技术组合（Spring、Spring MVC、Apache Shiro、MyBatis、Bootstrap UI），包括核心模块如：组织机构、角色用户、权限授权、数据权限、内容管理、工作流等。
-- [ARC](https://github.com/fchollet/ARC)
-  - The Abstraction and Reasoning Corpus
-- [sinon](https://github.com/sinonjs/sinon)
-  - Test spies, stubs and mocks for JavaScript.
+- [bootstrap](https://github.com/twbs/bootstrap)
+  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [next.js](https://github.com/zeit/next.js)
+  - The React Framework
+- [plugins](https://github.com/rollup/plugins)
+  - 🍣 The one-stop shop for official Rollup plugins
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [JSpider](https://github.com/scrapyhub/JSpider)
+  - JSpider会每周更新至少一个网站的JS解密方式，欢迎 Star
+- [react-dates](https://github.com/airbnb/react-dates)
+  - An easily internationalizable, mobile-friendly datepicker library for the web
+- [flowy](https://github.com/alyssaxuu/flowy)
+  - The minimal javascript library to create flowcharts ✨
+- [pako](https://github.com/nodeca/pako)
+  - high speed zlib port to javascript, works in browser & node.js
+- [evil-huawei](https://github.com/evil-huawei/evil-huawei)
+  - Evil Huawei - 华为作过的恶
+- [d3](https://github.com/d3/d3)
+  - Bring data to life with SVG, Canvas and HTML. 📊📈🎉
+- [lottery](https://github.com/fouber/lottery)
+  - 年会抽奖程序
+- [serverless](https://github.com/serverless/serverless)
+  - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+- [node](https://github.com/nodejs/node)
+  - Node.js JavaScript runtime ✨🐢🚀✨
+- [typeahead.js](https://github.com/twitter/typeahead.js)
+  - typeahead.js is a fast and fully-featured autocomplete library

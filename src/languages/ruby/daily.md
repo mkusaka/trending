@@ -1,51 +1,51 @@
 # ruby
 - [dev.to](https://github.com/thepracticaldev/dev.to)
   - Where programmers share ideas and help each other grow
-- [logstash](https://github.com/elastic/logstash)
-  - Logstash - transport and process your logs, events, or other data
-- [jekyll](https://github.com/jekyll/jekyll)
-  - 🌐 Jekyll is a blog-aware static site generator in Ruby
-- [evil-winrm](https://github.com/Hackplayers/evil-winrm)
-  - The ultimate WinRM shell for hacking/pentesting
-- [chartkick](https://github.com/ankane/chartkick)
-  - Create beautiful JavaScript charts with one line of Ruby
 - [sinatra](https://github.com/sinatra/sinatra)
   - Classy web-development dressed in a DSL (official / canonical repo)
-- [webpacker](https://github.com/rails/webpacker)
-  - Use Webpack to manage app-like JavaScript modules in Rails
-- [mastodon](https://github.com/tootsuite/mastodon)
-  - Your self-hosted, globally interconnected microblogging community
-- [lolcat](https://github.com/busyloop/lolcat)
-  - Rainbows and unicorns!
-- [fastlane](https://github.com/fastlane/fastlane)
-  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [ruby](https://github.com/ruby/ruby)
-  - The Ruby Programming Language [mirror]
-- [wicked_pdf](https://github.com/mileszs/wicked_pdf)
-  - PDF generator (from HTML) plugin for Ruby on Rails
-- [huginn](https://github.com/huginn/huginn)
-  - Create agents that monitor and act on your behalf. Your agents are standing by!
-- [rails](https://github.com/rails/rails)
-  - Ruby on Rails
-- [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts)
-  - 🚨 Collection of Prometheus alerting rules
-- [rubocop](https://github.com/rubocop-hq/rubocop)
-  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [webmock](https://github.com/bblimke/webmock)
-  - Library for stubbing and setting expectations on HTTP requests in Ruby.
-- [sidekiq](https://github.com/mperham/sidekiq)
-  - Simple, efficient background processing for Ruby
-- [database_cleaner](https://github.com/DatabaseCleaner/database_cleaner)
-  - Strategies for cleaning databases in Ruby. Can be used to ensure a clean state for testing.
-- [wkhtmltopdf_binary_gem](https://github.com/zakird/wkhtmltopdf_binary_gem)
-  - Ruby gem containing easily installable access to wkhtmltopdf application
-- [jbuilder](https://github.com/rails/jbuilder)
-  - Jbuilder: generate JSON objects with a Builder-style DSL
+- [factory_bot](https://github.com/thoughtbot/factory_bot)
+  - A library for setting up Ruby objects as test data.
+- [active_model_serializers](https://github.com/rails-api/active_model_serializers)
+  - ActiveModel::Serializer implementation and Rails hooks
+- [postal](https://github.com/postalhq/postal)
+  - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
+- [other_video_transcoding](https://github.com/donmelton/other_video_transcoding)
+  - Other tools to transcode videos.
+- [discourse](https://github.com/discourse/discourse)
+  - A platform for community discussion. Free, open, simple.
+- [twitter](https://github.com/sferik/twitter)
+  - A Ruby interface to the Twitter API.
+- [jekyll](https://github.com/jekyll/jekyll)
+  - 🌐 Jekyll is a blog-aware static site generator in Ruby
+- [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator)
+  - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+- [rspec-expectations](https://github.com/rspec/rspec-expectations)
+  - Provides a readable API to express expected outcomes of a code example
 - [activeadmin](https://github.com/activeadmin/activeadmin)
   - The administration framework for Ruby on Rails applications.
-- [pghero](https://github.com/ankane/pghero)
-  - A performance dashboard for Postgres
-- [calico](https://github.com/projectcalico/calico)
-  - Cloud native connectivity and network policy
-- [sequel](https://github.com/jeremyevans/sequel)
-  - Sequel: The Database Toolkit for Ruby
+- [chartkick](https://github.com/ankane/chartkick)
+  - Create beautiful JavaScript charts with one line of Ruby
+- [sidekiq](https://github.com/mperham/sidekiq)
+  - Simple, efficient background processing for Ruby
+- [mastodon](https://github.com/tootsuite/mastodon)
+  - Your self-hosted, globally interconnected microblogging community
+- [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)
+  - Simple one-liner tests for common Rails functionality
+- [rubygems](https://github.com/rubygems/rubygems)
+  - Library packaging and distribution for Ruby.
+- [colorls](https://github.com/athityakumar/colorls)
+  - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. 🎉
+- [chatwoot](https://github.com/chatwoot/chatwoot)
+  - Simple and elegant live chat software 🔥💬
+- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
+  - Ruby implementation of GraphQL
+- [database_cleaner](https://github.com/DatabaseCleaner/database_cleaner)
+  - Strategies for cleaning databases in Ruby. Can be used to ensure a clean state for testing.
+- [searchkick](https://github.com/ankane/searchkick)
+  - Intelligent search made easy with Rails and Elasticsearch
+- [capistrano](https://github.com/capistrano/capistrano)
+  - Remote multi-server automation tool
+- [rspec-mocks](https://github.com/rspec/rspec-mocks)
+  - RSpec's 'test double' framework, with support for stubbing and mocking
+- [chef](https://github.com/chef/chef)
+  - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale

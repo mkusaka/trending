@@ -1,51 +1,51 @@
 # typescript
-- [storybook](https://github.com/storybookjs/storybook)
-  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
-- [hooks](https://github.com/umijs/hooks)
-  - React Hooks Library
-- [verdaccio](https://github.com/verdaccio/verdaccio)
-  - 📦🔐A lightweight private npm proxy registry
-- [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator)
-  - GraphQL code generator with flexible support for custom plugins and templates
 - [grafana](https://github.com/grafana/grafana)
   - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [prisma2](https://github.com/prisma/prisma2)
-  - DB toolkit to query, model and migrate your data. (Prisma replaces ORMs and other database tooling.)
-- [angular-cli](https://github.com/angular/angular-cli)
-  - CLI tool for Angular
-- [vuetify](https://github.com/vuetifyjs/vuetify)
-  - 🐉 Material Component Framework for Vue
-- [deno](https://github.com/denoland/deno)
-  - A secure JavaScript and TypeScript runtime
-- [vscode](https://github.com/microsoft/vscode)
-  - Visual Studio Code
-- [bulletproof-nodejs](https://github.com/santiq/bulletproof-nodejs)
-  - Implementation of a bulletproof node.js API 🛡️
-- [pdf-lib](https://github.com/Hopding/pdf-lib)
-  - Create and modify PDF documents in any JavaScript environment
-- [coc.nvim](https://github.com/neoclide/coc.nvim)
-  - Intellisense engine for vim8 & neovim, full language server protocol support as VSCode
-- [react-diagrams](https://github.com/projectstorm/react-diagrams)
-  - a super simple, no-nonsense diagramming library written in react that just works
+- [aws-cdk](https://github.com/aws/aws-cdk)
+  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+- [electron-builder](https://github.com/electron-userland/electron-builder)
+  - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [angular](https://github.com/angular/angular)
   - One framework. Mobile & desktop.
-- [formik](https://github.com/jaredpalmer/formik)
-  - Build forms in React, without the tears 😭
-- [stencil](https://github.com/ionic-team/stencil)
-  - A Web Component compiler for building fast, reusable UI components and Progressive Web Apps 💎 Built by the Ionic Framework team
+- [terminus](https://github.com/Eugeny/terminus)
+  - A terminal for a more modern age
+- [ag-grid](https://github.com/ag-grid/ag-grid)
+  - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
+- [storybook](https://github.com/storybookjs/storybook)
+  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+- [squoosh](https://github.com/GoogleChromeLabs/squoosh)
+  - Make images smaller using best-in-class codecs, right in the browser.
+- [react-admin](https://github.com/marmelab/react-admin)
+  - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
+- [wechaty](https://github.com/wechaty/wechaty)
+  - WeChat Bot SDK for Individual Account, Powered by TypeScript, Docker, and 💖
+- [blueprint](https://github.com/palantir/blueprint)
+  - A React-based UI toolkit for the web
+- [primeng](https://github.com/primefaces/primeng)
+  - The Most Complete UI Component Library for Angular
+- [n8n](https://github.com/n8n-io/n8n)
+  - Free and open node based Workflow Automation Tool. Easily automate tasks across different services.
+- [graphql-yoga](https://github.com/prisma-labs/graphql-yoga)
+  - 🧘 Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience
+- [deno](https://github.com/denoland/deno)
+  - A secure JavaScript and TypeScript runtime
 - [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
   - ✨ Monorepo for all the tooling which enables ESLint to support TypeScript
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
-  - 📋 React hooks for forms validation without the hassle.
-- [desktop](https://github.com/desktop/desktop)
-  - Simple collaboration from your desktop
-- [ext-saladict](https://github.com/crimx/ext-saladict)
-  - Feature-rich inline translator. Chrome / Firefox Extension.
-- [nx](https://github.com/nrwl/nx)
-  - Extensible Dev Tools for Monorepos
-- [redux](https://github.com/reduxjs/redux)
-  - Predictable state container for JavaScript apps
-- [nteract](https://github.com/nteract/nteract)
-  - 📘 The interactive computing suite for you! ✨
-- [react-icons](https://github.com/react-icons/react-icons)
-  - svg react icons of popular icon packs
+- [javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator)
+  - A powerful obfuscator for JavaScript and Node.js
+- [nest](https://github.com/nestjs/nest)
+  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [formik](https://github.com/jaredpalmer/formik)
+  - Build forms in React, without the tears 😭
+- [pinia](https://github.com/posva/pinia)
+  - 🍍Automatically Typed, Modular and lightweight Store for Vue using the composition api with DevTools support
+- [darkreader](https://github.com/darkreader/darkreader)
+  - Dark Reader Chrome and Firefox extension
+- [TypeScript](https://github.com/microsoft/TypeScript)
+  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [ant-design](https://github.com/ant-design/ant-design)
+  - 🌈 A UI Design Language and React UI library
+- [vuetify](https://github.com/vuetifyjs/vuetify)
+  - 🐉 Material Component Framework for Vue
+- [amplify-cli](https://github.com/aws-amplify/amplify-cli)
+  - A CLI toolchain for simplifying serverless web and mobile development.

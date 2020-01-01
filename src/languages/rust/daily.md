@@ -1,51 +1,51 @@
 # rust
-- [sqlx](https://github.com/launchbadge/sqlx)
-  - 🧰 The Rust SQL Toolkit.
-- [typic](https://github.com/jswrenn/typic)
-  - Type-safe transmutations between layout-compatible types.
-- [rage](https://github.com/str4d/rage)
-  - A simple, secure and modern encryption tool with small explicit keys, no config options, and UNIX-style composability.
-- [kata-containers](https://github.com/kata-containers/kata-containers)
-  - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
-- [findomain](https://github.com/Edu4rdSHL/findomain)
-  - The fastest and cross-platform subdomain enumerator, don't waste your time.
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [pyo3](https://github.com/PyO3/pyo3)
-  - Rust bindings for the Python interpreter
-- [swc](https://github.com/swc-project/swc)
-  - Super-fast typescript / javascript compiler written in rust
-- [librespot](https://github.com/librespot-org/librespot)
-  - Open Source Spotify client library
-- [bat](https://github.com/sharkdp/bat)
-  - A cat(1) clone with wings.
-- [exa](https://github.com/ogham/exa)
-  - A modern version of ‘ls’.
-- [rusoto](https://github.com/rusoto/rusoto)
-  - AWS SDK for Rust
+- [bandwhich](https://github.com/imsnif/bandwhich)
+  - Terminal bandwidth utilization tool (formerly known as "what")
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [parity-ethereum](https://github.com/paritytech/parity-ethereum)
+  - The fast, light, and robust EVM and WASM client.
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
 - [reqwest](https://github.com/seanmonstar/reqwest)
   - An easy and powerful Rust HTTP Client
 - [druid](https://github.com/xi-editor/druid)
   - A data-first Rust-native UI design toolkit.
-- [wasmtime](https://github.com/bytecodealliance/wasmtime)
-  - Standalone JIT-style runtime for WebAssembly, using Cranelift
-- [jormungandr](https://github.com/input-output-hk/jormungandr)
-  - aspiring blockchain node
-- [seed](https://github.com/seed-rs/seed)
-  - A Rust framework for creating web apps
-- [cranelift](https://github.com/bytecodealliance/cranelift)
-  - Cranelift code generator
+- [impls](https://github.com/nvzqz/impls)
+  - A Rust macro to determine if a type implements a logical trait expression
+- [tikv](https://github.com/tikv/tikv)
+  - Distributed transactional key-value database, originally created to complement TiDB
+- [librespot](https://github.com/librespot-org/librespot)
+  - Open Source Spotify client library
+- [tokio](https://github.com/tokio-rs/tokio)
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [rust](https://github.com/rust-lang/rust)
   - Empowering everyone to build reliable and efficient software.
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
-- [native_spark](https://github.com/rajasekarv/native_spark)
-  - A new arguably faster implementation of Apache Spark from scratch in Rust
-- [RustaCUDA](https://github.com/bheisler/RustaCUDA)
-  - Rusty wrapper for the CUDA Driver API
-- [xi-editor](https://github.com/xi-editor/xi-editor)
-  - A modern editor with a backend written in Rust.
-- [rudr](https://github.com/oam-dev/rudr)
-  - A Kubernetes implementation of the Open Application Model specification
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [jormungandr](https://github.com/input-output-hk/jormungandr)
+  - aspiring blockchain node
+- [mdBook](https://github.com/rust-lang/mdBook)
+  - Create book from markdown files. Like Gitbook but implemented in Rust
+- [lemmy](https://github.com/dessalines/lemmy)
+  - 🐀 Building a federated alternative to reddit in rust
+- [tantivy](https://github.com/tantivy-search/tantivy)
+  - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+- [swc](https://github.com/swc-project/swc)
+  - Super-fast typescript / javascript compiler written in rust
+- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
+  - Facilitating high-level interactions between Wasm modules and JavaScript
+- [cargo](https://github.com/rust-lang/cargo)
+  - The Rust package manager
+- [polkadot](https://github.com/paritytech/polkadot)
+  - Polkadot Node Implementation
+- [json](https://github.com/serde-rs/json)
+  - Strongly typed JSON library for Rust
+- [tauri](https://github.com/tauri-apps/tauri)
+  - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
+- [sqlx](https://github.com/launchbadge/sqlx)
+  - 🧰 The Rust SQL Toolkit.
+- [findomain](https://github.com/Edu4rdSHL/findomain)
+  - The fastest and cross-platform subdomain enumerator, don't waste your time.
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
+- [rage](https://github.com/str4d/rage)
+  - A simple, secure and modern encryption tool with small explicit keys, no config options, and UNIX-style composability.
