@@ -23,7 +23,8 @@ jobs:
           ./update daily
           git add src/
           git commit -m "daily update "$(date +%F)
-          echo ::set-env name=pr_body::$(cat src/periods/daily.md)
+          body=$(cat src/periods/monthly.md)
+          echo ::set-env name=pr_body::$body
       - name: push current changes
         uses: ad-m/github-push-action@master
         with:
