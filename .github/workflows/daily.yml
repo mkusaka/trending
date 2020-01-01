@@ -1,7 +1,7 @@
 name: daily trending update
-on:
-  schedule: 
-    - cron: '0 13 * * *'
+on: push
+  # schedule: 
+  #   - cron: '0 13 * * *'
 
 jobs:
   fetch-and-update:
@@ -23,6 +23,7 @@ jobs:
           ./update daily
           git add src/
           git commit -m "daily update "$(date +%F)
+          echo ::set-env name=pr_body::$(cat src/periods/daily.md)
       - name: push current changes
         uses: ad-m/github-push-action@master
         with:
@@ -35,5 +36,6 @@ jobs:
           source_branch: ${{ env.update_branch }}    # If blank, default: triggered branch
           destination_branch: "master"          # If blank, default: master
           pr_title: ${{ env.pr_title }}
+          pr_body: ${{ env.pr_body }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
        
