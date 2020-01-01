@@ -1,49 +1,51 @@
 # general
+- [Publish](https://github.com/JohnSundell/Publish) : Swift
+  - A static site generator for Swift developers
+- [ALBERT](https://github.com/google-research/ALBERT) : Python
+  - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
 - [AI_Sudoku](https://github.com/neeru1207/AI_Sudoku) : Python
   - GUI based Smart Sudoku Solver that tries to extract a sudoku puzzle from a photo and solve it
-- [nni](https://github.com/microsoft/nni) : Python
-  - An open source AutoML toolkit for neural architecture search, model compression and hyper-parameter tuning.
-- [age](https://github.com/FiloSottile/age) : Go
-  - A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability.
-- [trojan](https://github.com/trojan-gfw/trojan) : C++
-  - An unidentifiable mechanism that helps you bypass GFW.
-- [spark-joy](https://github.com/sw-yx/spark-joy) : JavaScript
-  - ✨😂easy ways to add design flair, user delight, and whimsy to your product.
-- [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) : 
-  - 🌇 A collection of links for free stock photography, video and Illustration websites
-- [magnetW](https://github.com/xiandanin/magnetW) : JavaScript
-  - 磁力链接聚合搜索
+- [snapcast](https://github.com/badaix/snapcast) : C++
+  - Synchronous multi-room audio player
+- [java-design-patterns](https://github.com/iluwatar/java-design-patterns) : Java
+  - Design patterns implemented in Java
 - [lede](https://github.com/coolsnowwolf/lede) : C
   - Lean's OpenWrt source
-- [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) : HTML
-  - 💎 A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
-- [runtime](https://github.com/dotnet/runtime) : C#
-  - .NET is a cross-platform runtime for cloud, IoT, and desktop apps.
-- [DevYouTubeList](https://github.com/ErikCH/DevYouTubeList) : 
-  - List of Development YouTube Channels
-- [keystone](https://github.com/keystonejs/keystone) : JavaScript
-  - A scalable platform and CMS to build Node.js applications
-- [mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) : Jupyter Notebook
-  - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
-- [Linkis](https://github.com/WeBankFinTech/Linkis) : Scala
-  - Linkis helps easily connect to various back-end computation/storage engines(Spark, Python, TiDB...), exposes various interfaces(REST, JDBC, Java ...), with multi-tenancy, high performance, and resource control.
-- [lucky-draw](https://github.com/vitozyf/lucky-draw) : JavaScript
-  - 年会抽奖程序
-- [gatsby](https://github.com/gatsbyjs/gatsby) : JavaScript
-  - Build blazing fast, modern apps and websites with React
+- [bandwhich](https://github.com/imsnif/bandwhich) : Rust
+  - Terminal bandwidth utilization tool (formerly known as "what")
+- [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) : 
+  - 🌇 A collection of links for free stock photography, video and Illustration websites
+- [awesome-morocco](https://github.com/DevC-Casa/awesome-morocco) : 
+  - 👩‍💻 🇲🇦List of awesome Moroccan things for developers 🇲🇦👨🏻‍💻
+- [trojan](https://github.com/trojan-gfw/trojan) : C++
+  - An unidentifiable mechanism that helps you bypass GFW.
+- [tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) : CSS
+  - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
 - [numpy-ml](https://github.com/ddbourgin/numpy-ml) : Python
   - Machine learning, in numpy
-- [eternal](https://github.com/kousun12/eternal) : JavaScript
-  - 👾~ music, eternal ~ 👾
-- [my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) : Shell
-  - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
+- [awesome-forensics](https://github.com/alphaSeclab/awesome-forensics) : 
+  - Awesome Forensics Resources. Almost 300 open source forensics tools, and 600 blog posts about forensics.
+- [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) : HTML
+  - 💎 A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
+- [learn-go-with-tests](https://github.com/quii/learn-go-with-tests) : Go
+  - Learn Go with test-driven development
+- [DevYouTubeList](https://github.com/ErikCH/DevYouTubeList) : 
+  - List of Development YouTube Channels
+- [spark-joy](https://github.com/sw-yx/spark-joy) : JavaScript
+  - ✨😂easy ways to add design flair, user delight, and whimsy to your product.
+- [computer-science](https://github.com/ossu/computer-science) : 
+  - 🎓 Path to a free self-taught education in Computer Science!
 - [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) : Java
   - Spring Boot 2.X 专栏更新中，未来更新 Spring Cloud Alibaba 。欢迎胖友 Star 一波
-- [go-spew](https://github.com/davecgh/go-spew) : Go
-  - Implements a deep pretty printer for Go data structures to aid in debugging
-- [storybook](https://github.com/storybookjs/storybook) : TypeScript
-  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
-- [Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch) : Jupyter Notebook
-  - 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。
+- [awesome-rat](https://github.com/alphaSeclab/awesome-rat) : 
+  - Open source RAT collection, and RAT analysis blog/video collection.
+- [blc](https://github.com/cseagle/blc) : C++
+  - Integrate Ghidra's decompiler as an Ida plugin
+- [Mindustry](https://github.com/Anuken/Mindustry) : Java
+  - A sandbox tower defense game
+- [cascadia-code](https://github.com/microsoft/cascadia-code) : Python
+  - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
+- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) : Go
+  - Terraform AWS provider
 - [metabase](https://github.com/metabase/metabase) : Clojure
   - The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋
