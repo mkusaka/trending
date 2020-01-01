@@ -1,0 +1,51 @@
+# rust
+- [sqlx](https://github.com/launchbadge/sqlx)
+  - 🧰 The Rust SQL Toolkit.
+- [typic](https://github.com/jswrenn/typic)
+  - Type-safe transmutations between layout-compatible types.
+- [rage](https://github.com/str4d/rage)
+  - A simple, secure and modern encryption tool with small explicit keys, no config options, and UNIX-style composability.
+- [kata-containers](https://github.com/kata-containers/kata-containers)
+  - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
+- [findomain](https://github.com/Edu4rdSHL/findomain)
+  - The fastest and cross-platform subdomain enumerator, don't waste your time.
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
+- [pyo3](https://github.com/PyO3/pyo3)
+  - Rust bindings for the Python interpreter
+- [swc](https://github.com/swc-project/swc)
+  - Super-fast typescript / javascript compiler written in rust
+- [librespot](https://github.com/librespot-org/librespot)
+  - Open Source Spotify client library
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
+- [exa](https://github.com/ogham/exa)
+  - A modern version of ‘ls’.
+- [rusoto](https://github.com/rusoto/rusoto)
+  - AWS SDK for Rust
+- [reqwest](https://github.com/seanmonstar/reqwest)
+  - An easy and powerful Rust HTTP Client
+- [druid](https://github.com/xi-editor/druid)
+  - A data-first Rust-native UI design toolkit.
+- [wasmtime](https://github.com/bytecodealliance/wasmtime)
+  - Standalone JIT-style runtime for WebAssembly, using Cranelift
+- [jormungandr](https://github.com/input-output-hk/jormungandr)
+  - aspiring blockchain node
+- [seed](https://github.com/seed-rs/seed)
+  - A Rust framework for creating web apps
+- [cranelift](https://github.com/bytecodealliance/cranelift)
+  - Cranelift code generator
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
+- [native_spark](https://github.com/rajasekarv/native_spark)
+  - A new arguably faster implementation of Apache Spark from scratch in Rust
+- [RustaCUDA](https://github.com/bheisler/RustaCUDA)
+  - Rusty wrapper for the CUDA Driver API
+- [xi-editor](https://github.com/xi-editor/xi-editor)
+  - A modern editor with a backend written in Rust.
+- [rudr](https://github.com/oam-dev/rudr)
+  - A Kubernetes implementation of the Open Application Model specification
+- [996.ICU](https://github.com/996icu/996.ICU)
+  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
