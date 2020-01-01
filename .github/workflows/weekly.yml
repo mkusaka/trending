@@ -1,7 +1,7 @@
 name: weekly trending update
 on:
   schedule: 
-    - cron: '0 21 * * MON'
+    - cron: '0 12 * * MON'
 
 jobs:
   fetch-and-update:
