@@ -1,51 +1,51 @@
 # ruby
 - [dev.to](https://github.com/thepracticaldev/dev.to)
   - Where programmers share ideas and help each other grow
-- [sinatra](https://github.com/sinatra/sinatra)
-  - Classy web-development dressed in a DSL (official / canonical repo)
-- [factory_bot](https://github.com/thoughtbot/factory_bot)
-  - A library for setting up Ruby objects as test data.
-- [active_model_serializers](https://github.com/rails-api/active_model_serializers)
-  - ActiveModel::Serializer implementation and Rails hooks
-- [postal](https://github.com/postalhq/postal)
-  - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
-- [other_video_transcoding](https://github.com/donmelton/other_video_transcoding)
-  - Other tools to transcode videos.
-- [discourse](https://github.com/discourse/discourse)
-  - A platform for community discussion. Free, open, simple.
-- [twitter](https://github.com/sferik/twitter)
-  - A Ruby interface to the Twitter API.
-- [jekyll](https://github.com/jekyll/jekyll)
-  - 🌐 Jekyll is a blog-aware static site generator in Ruby
-- [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator)
-  - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
-- [rspec-expectations](https://github.com/rspec/rspec-expectations)
-  - Provides a readable API to express expected outcomes of a code example
-- [activeadmin](https://github.com/activeadmin/activeadmin)
-  - The administration framework for Ruby on Rails applications.
-- [chartkick](https://github.com/ankane/chartkick)
-  - Create beautiful JavaScript charts with one line of Ruby
+- [D-Link-DIR-859-RCE](https://github.com/s1kr10s/D-Link-DIR-859-RCE)
+  - D-Link DIR-859 - RCE UnAutenticated (CVE-2019–17621)
 - [sidekiq](https://github.com/mperham/sidekiq)
   - Simple, efficient background processing for Ruby
-- [mastodon](https://github.com/tootsuite/mastodon)
-  - Your self-hosted, globally interconnected microblogging community
-- [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)
-  - Simple one-liner tests for common Rails functionality
-- [rubygems](https://github.com/rubygems/rubygems)
-  - Library packaging and distribution for Ruby.
-- [colorls](https://github.com/athityakumar/colorls)
-  - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. 🎉
-- [chatwoot](https://github.com/chatwoot/chatwoot)
-  - Simple and elegant live chat software 🔥💬
-- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
-  - Ruby implementation of GraphQL
-- [database_cleaner](https://github.com/DatabaseCleaner/database_cleaner)
-  - Strategies for cleaning databases in Ruby. Can be used to ensure a clean state for testing.
-- [searchkick](https://github.com/ankane/searchkick)
-  - Intelligent search made easy with Rails and Elasticsearch
-- [capistrano](https://github.com/capistrano/capistrano)
-  - Remote multi-server automation tool
-- [rspec-mocks](https://github.com/rspec/rspec-mocks)
-  - RSpec's 'test double' framework, with support for stubbing and mocking
-- [chef](https://github.com/chef/chef)
-  - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
+- [openproject](https://github.com/opf/openproject)
+  - OpenProject is the leading open source project management software.
+- [voctoweb](https://github.com/voc/voctoweb)
+  - voctoweb – the frontend and backend software behind media.ccc.de
+- [peatio](https://github.com/peatio/peatio)
+  - An open-source assets exchange.
+- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+- [other_video_transcoding](https://github.com/donmelton/other_video_transcoding)
+  - Other tools to transcode videos.
+- [video_transcoding](https://github.com/donmelton/video_transcoding)
+  - Tools to transcode, inspect and convert videos.
+- [WhatWeb](https://github.com/urbanadventurer/WhatWeb)
+  - Next generation web scanner
+- [html-fundamentals-document-structure-lab-dumbo-web-010620](https://github.com/learn-co-students/html-fundamentals-document-structure-lab-dumbo-web-010620)
+  - 
+- [html-basics-a-tag-with-href-attributes-lab-dumbo-web-010620](https://github.com/learn-co-students/html-basics-a-tag-with-href-attributes-lab-dumbo-web-010620)
+  - 
+- [programming-univbasics-nds-nds-to-insight-with-methods-seattle-web-012720](https://github.com/learn-co-students/programming-univbasics-nds-nds-to-insight-with-methods-seattle-web-012720)
+  - 
+- [html-fundamentals-text-formatting-lab-dumbo-web-010620](https://github.com/learn-co-students/html-fundamentals-text-formatting-lab-dumbo-web-010620)
+  - 
+- [sample_app_6th_ed](https://github.com/mhartl/sample_app_6th_ed)
+  - The main sample app for the Ruby on Rails Tutorial, 6th Edition
+- [debugging-practice-using-pry-nyc-web-010620](https://github.com/learn-co-students/debugging-practice-using-pry-nyc-web-010620)
+  - 
+- [debugging-practice-fix-our-broken-program-lab-nyc-web-010620](https://github.com/learn-co-students/debugging-practice-fix-our-broken-program-lab-nyc-web-010620)
+  - 
+- [takeaway-challenge](https://github.com/makersacademy/takeaway-challenge)
+  - Use the Twilio Gem to order food
+- [programming-univbasics-3-labs-with-tdd-online-web-prework](https://github.com/learn-co-students/programming-univbasics-3-labs-with-tdd-online-web-prework)
+  - 
+- [ruby-enumerables-hash-practice-emoticon-translator-lab-dumbo-web-010620](https://github.com/learn-co-students/ruby-enumerables-hash-practice-emoticon-translator-lab-dumbo-web-010620)
+  - 
+- [oo-my-pets-online-web-ft-120919](https://github.com/learn-co-students/oo-my-pets-online-web-ft-120919)
+  - 
+- [rails-layouts-and-templates-lab-online-web-ft-100719](https://github.com/learn-co-students/rails-layouts-and-templates-lab-online-web-ft-100719)
+  - 
+- [oo-inheritance-code-along-online-web-ft-120919](https://github.com/learn-co-students/oo-inheritance-code-along-online-web-ft-120919)
+  - 
+- [markup](https://github.com/github/markup)
+  - Determines which markup library to use to render a content file (e.g. README) on GitHub
+- [first-ide-lab-ruby-intro-000](https://github.com/learn-co-students/first-ide-lab-ruby-intro-000)
+  - 

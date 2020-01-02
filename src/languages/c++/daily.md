@@ -1,51 +1,51 @@
 # c++
+- [qBittorrent](https://github.com/qbittorrent/qBittorrent)
+  - qBittorrent BitTorrent client
 - [snapcast](https://github.com/badaix/snapcast)
   - Synchronous multi-room audio player
-- [trojan](https://github.com/trojan-gfw/trojan)
-  - An unidentifiable mechanism that helps you bypass GFW.
-- [blc](https://github.com/cseagle/blc)
-  - Integrate Ghidra's decompiler as an Ida plugin
-- [Firmware](https://github.com/PX4/Firmware)
-  - PX4 Autopilot Software
-- [apollo](https://github.com/ApolloAuto/apollo)
-  - An open autonomous driving platform
-- [electron](https://github.com/electron/electron)
-  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [Magisk](https://github.com/topjohnwu/Magisk)
-  - A Magic Mask to Alter Android System Systemless-ly
-- [interpret](https://github.com/interpretml/interpret)
-  - Fit interpretable machine learning models. Explain blackbox machine learning.
-- [sys-con](https://github.com/cathery/sys-con)
-  - Nintendo Switch sysmodule that allows support for third-party controllers
-- [BIGTREETECH-SKR-mini-E3](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3)
-  - BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.
-- [yuzu](https://github.com/yuzu-emu/yuzu)
-  - Nintendo Switch Emulator
-- [xeus-cling](https://github.com/jupyter-xeus/xeus-cling)
-  - Jupyter kernel for the C++ programming language
-- [pybind11](https://github.com/pybind/pybind11)
-  - Seamless operability between C++11 and Python
-- [QuantLib](https://github.com/lballabio/QuantLib)
-  - The QuantLib C++ library
-- [onnxruntime](https://github.com/microsoft/onnxruntime)
-  - ONNX Runtime: cross-platform, high performance scoring engine for ML models
-- [openpilot](https://github.com/commaai/openpilot)
-  - open source driving agent
-- [diycamera](https://github.com/IdleHandsProject/diycamera)
-  - An Arduino Based DIY Image Sensor and Camera Body
-- [googletest](https://github.com/google/googletest)
-  - Googletest - Google Testing and Mocking Framework
-- [tdesktop](https://github.com/telegramdesktop/tdesktop)
-  - Telegram Desktop messaging app
-- [ThreadPool](https://github.com/progschj/ThreadPool)
-  - A simple C++11 Thread Pool implementation
-- [endless-sky](https://github.com/endless-sky/endless-sky)
-  - Space exploration, trading, and combat game.
-- [incubator-brpc](https://github.com/apache/incubator-brpc)
-  - Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services, called "baidu-rpc" inside Baidu.
+- [JunkDriveOpenSource](https://github.com/zhuhuibeishadiao/JunkDriveOpenSource)
+  - Some garbage drivers written for getting started
+- [WLED](https://github.com/Aircoookie/WLED)
+  - Control WS2812B RGB LEDs with an ESP8266 over WiFi!
+- [3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
+  - 🎮 A step-by-step guide on how to implement SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
+- [olive](https://github.com/olive-editor/olive)
+  - Free open-source non-linear video editor
+- [Competitive-Programming](https://github.com/rishabhgarg25699/Competitive-Programming)
+  - This repository contains some useful codes, techniques, algorithms and problem solutions helpful in Competitive Coding. Join with me on telegram group https://t.me/joinchat/GL4Y8RREZbz-Cp78R869CQ
+- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+  - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+- [PowerToys](https://github.com/microsoft/PowerToys)
+  - Windows system utilities to maximize productivity
+- [subconverter](https://github.com/tindy2013/subconverter)
+  - Utility to convert between various subscription format
+- [FreeCAD](https://github.com/FreeCAD/FreeCAD)
+  - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker
+- [deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu)
+  - Deepin Wine for Ubuntu/Debian
+- [acm-challenge-workbook](https://github.com/yogykwan/acm-challenge-workbook)
+  - 《挑战程序设计竞赛》习题册攻略
+- [udp2raw-tunnel](https://github.com/wangyu-/udp2raw-tunnel)
+  - A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
+- [godot](https://github.com/godotengine/godot)
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [solidity](https://github.com/ethereum/solidity)
+  - Solidity, the Contract-Oriented Programming Language
+- [taichi](https://github.com/yuanming-hu/taichi)
+  - The Taichi programming language
+- [cxxopts](https://github.com/jarro2783/cxxopts)
+  - Lightweight C++ command line option parser
 - [Marlin](https://github.com/MarlinFirmware/Marlin)
   - Optimized firmware for RepRap 3D printers based on the Arduino platform.
-- [BIGTREETECH-SKR-V1.3](https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3)
-  - 32bit board with LPC1768, support marlin2.0 and smoothieware, support lcd2004/12864, On-board TMC2130 SPI interface and TMC2208 UART interface no additional wiring is required
-- [MNN](https://github.com/alibaba/MNN)
-  - MNN is a lightweight deep neural network inference engine.
+- [electron](https://github.com/electron/electron)
+  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [i2cdevlib](https://github.com/jrowberg/i2cdevlib)
+  - I2C device library collection for AVR/Arduino or other C++-based MCUs
+- [vnote](https://github.com/tamlok/vnote)
+  - A note-taking application that knows programmers and Markdown better.
+- [cmake-cookbook](https://github.com/dev-cafe/cmake-cookbook)
+  - CMake Cookbook recipes.
+- [pcsx2](https://github.com/PCSX2/pcsx2)
+  - PCSX2 - The Playstation 2 Emulator
+- [cefpython](https://github.com/cztomczak/cefpython)
+  - Python bindings for the Chromium Embedded Framework (CEF)

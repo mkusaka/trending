@@ -1,51 +1,51 @@
 # general
+- [nodetube](https://github.com/mayeaux/nodetube) : JavaScript
+  - Open-source YouTube alternative that also supports image and audio uploads. Powered by NodeJS
+- [isocity](https://github.com/victorqribeiro/isocity) : JavaScript
+  - A isometric city builder in JavaScript
+- [AndroidKnowledgeSystem](https://github.com/feelschaotic/AndroidKnowledgeSystem) : JavaScript
+  - The most complete Android advanced route knowledge map ⭐️你想要的最全 Android 进阶路线知识图谱+干货资料收集🚀
+- [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) : Java
+  - Spring Boot 2.X 专栏更新中，未来更新 Spring Cloud Alibaba 。欢迎胖友 Star 一波
+- [chaos-mesh](https://github.com/pingcap/chaos-mesh) : Go
+  - A Chaos Engineering Platform for Kubernetes
+- [rhasspy](https://github.com/synesthesiam/rhasspy) : HTML
+  - Rhasspy voice assistant for Home Assistant and Hass.IO
+- [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) : 
+  - GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。
 - [Publish](https://github.com/JohnSundell/Publish) : Swift
   - A static site generator for Swift developers
-- [ALBERT](https://github.com/google-research/ALBERT) : Python
-  - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
-- [AI_Sudoku](https://github.com/neeru1207/AI_Sudoku) : Python
-  - GUI based Smart Sudoku Solver that tries to extract a sudoku puzzle from a photo and solve it
-- [snapcast](https://github.com/badaix/snapcast) : C++
-  - Synchronous multi-room audio player
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) : Java
   - Design patterns implemented in Java
-- [lede](https://github.com/coolsnowwolf/lede) : C
-  - Lean's OpenWrt source
-- [bandwhich](https://github.com/imsnif/bandwhich) : Rust
-  - Terminal bandwidth utilization tool (formerly known as "what")
-- [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) : 
-  - 🌇 A collection of links for free stock photography, video and Illustration websites
-- [awesome-morocco](https://github.com/DevC-Casa/awesome-morocco) : 
-  - 👩‍💻 🇲🇦List of awesome Moroccan things for developers 🇲🇦👨🏻‍💻
-- [trojan](https://github.com/trojan-gfw/trojan) : C++
-  - An unidentifiable mechanism that helps you bypass GFW.
-- [tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) : CSS
-  - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
-- [numpy-ml](https://github.com/ddbourgin/numpy-ml) : Python
-  - Machine learning, in numpy
-- [awesome-forensics](https://github.com/alphaSeclab/awesome-forensics) : 
-  - Awesome Forensics Resources. Almost 300 open source forensics tools, and 600 blog posts about forensics.
-- [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) : HTML
-  - 💎 A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
-- [learn-go-with-tests](https://github.com/quii/learn-go-with-tests) : Go
-  - Learn Go with test-driven development
-- [DevYouTubeList](https://github.com/ErikCH/DevYouTubeList) : 
-  - List of Development YouTube Channels
+- [homebridge](https://github.com/nfarina/homebridge) : JavaScript
+  - HomeKit support for the impatient
 - [spark-joy](https://github.com/sw-yx/spark-joy) : JavaScript
   - ✨😂easy ways to add design flair, user delight, and whimsy to your product.
 - [computer-science](https://github.com/ossu/computer-science) : 
   - 🎓 Path to a free self-taught education in Computer Science!
-- [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) : Java
-  - Spring Boot 2.X 专栏更新中，未来更新 Spring Cloud Alibaba 。欢迎胖友 Star 一波
-- [awesome-rat](https://github.com/alphaSeclab/awesome-rat) : 
-  - Open source RAT collection, and RAT analysis blog/video collection.
-- [blc](https://github.com/cseagle/blc) : C++
-  - Integrate Ghidra's decompiler as an Ida plugin
-- [Mindustry](https://github.com/Anuken/Mindustry) : Java
-  - A sandbox tower defense game
-- [cascadia-code](https://github.com/microsoft/cascadia-code) : Python
-  - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
-- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) : Go
-  - Terraform AWS provider
-- [metabase](https://github.com/metabase/metabase) : Clojure
-  - The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [AI_Sudoku](https://github.com/neeru1207/AI_Sudoku) : Python
+  - GUI based Smart Sudoku Solver that tries to extract a sudoku puzzle from a photo and solve it
+- [awesome-python](https://github.com/vinta/awesome-python) : Python
+  - A curated list of awesome Python frameworks, libraries, software and resources
+- [dlinject](https://github.com/DavidBuchanan314/dlinject) : Python
+  - Inject a shared library (i.e. arbitrary code) into a live linux process, without ptrace
+- [ALBERT](https://github.com/google-research/ALBERT) : Python
+  - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
+- [vue-manage-system](https://github.com/lin-xin/vue-manage-system) : Vue
+  - 基于vue + element的后台管理系统解决方案
+- [qBittorrent](https://github.com/qbittorrent/qBittorrent) : C++
+  - qBittorrent BitTorrent client
+- [overreacted.io](https://github.com/gaearon/overreacted.io) : JavaScript
+  - Personal blog by Dan Abramov.
+- [BurpSuite-collections](https://github.com/Mr-xn/BurpSuite-collections) : Batchfile
+  - BurpSuite收集：包括不限于 Burp 文章、破解版、插件(非BApp Store)、汉化等相关教程，欢迎添砖加瓦---burpsuite-pro burpsuite-extender burpsuite cracked-version hackbar hacktools fuzzing fuzz-testing burp-plugin burp-extensions bapp-store brute-force-attacks brute-force-passwords waf sqlmap jar
+- [snapcast](https://github.com/badaix/snapcast) : C++
+  - Synchronous multi-room audio player
+- [bandwhich](https://github.com/imsnif/bandwhich) : Rust
+  - Terminal bandwidth utilization tool (formerly known as "what")
+- [models](https://github.com/tensorflow/models) : Python
+  - Models and examples built with TensorFlow
+- [StockSharp](https://github.com/StockSharp/StockSharp) : C#
+  - Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins and options).
