@@ -1,51 +1,51 @@
 # javascript
+- [nodetube](https://github.com/mayeaux/nodetube)
+  - Open-source YouTube alternative that also supports image and audio uploads. Powered by NodeJS
+- [isocity](https://github.com/victorqribeiro/isocity)
+  - A isometric city builder in JavaScript
+- [AndroidKnowledgeSystem](https://github.com/feelschaotic/AndroidKnowledgeSystem)
+  - The most complete Android advanced route knowledge map ⭐️你想要的最全 Android 进阶路线知识图谱+干货资料收集🚀
+- [homebridge](https://github.com/nfarina/homebridge)
+  - HomeKit support for the impatient
 - [spark-joy](https://github.com/sw-yx/spark-joy)
   - ✨😂easy ways to add design flair, user delight, and whimsy to your product.
-- [lucky-draw](https://github.com/vitozyf/lucky-draw)
-  - 年会抽奖程序
-- [magnetW](https://github.com/xiandanin/magnetW)
-  - 磁力链接聚合搜索
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
-- [massCode](https://github.com/antonreshetov/massCode)
-  - A free and open source code snippets manager for developers.
-- [quasar](https://github.com/quasarframework/quasar)
-  - Quasar Framework - Build high-performance VueJS user interfaces in record time
-- [baiduyun](https://github.com/syhyz1990/baiduyun)
-  - 🖖油猴脚本 一个脚本搞定百度网盘下载 https://www.baiduyun.wiki
-- [Sortable](https://github.com/SortableJS/Sortable)
-  - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Ember, Knockout and any CSS library, e.g. Bootstrap.
-- [preact](https://github.com/preactjs/preact)
-  - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
-- [d2-admin](https://github.com/d2-projects/d2-admin)
-  - 🌈 An elegant dashboard
-- [jest](https://github.com/facebook/jest)
-  - Delightful JavaScript Testing.
-- [bootstrap](https://github.com/twbs/bootstrap)
-  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [next.js](https://github.com/zeit/next.js)
-  - The React Framework
-- [plugins](https://github.com/rollup/plugins)
-  - 🍣 The one-stop shop for official Rollup plugins
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [overreacted.io](https://github.com/gaearon/overreacted.io)
+  - Personal blog by Dan Abramov.
+- [micro-frontends](https://github.com/neuland/micro-frontends)
+  - extending the microservice paradigms to web development
+- [WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
+  - Play with fluids in your browser (works even on mobile)
+- [store_locator_api](https://github.com/bradtraversy/store_locator_api)
+  - Node, Express, Mongo GeoJSON API & APP
+- [wappalyzer](https://github.com/AliasIO/wappalyzer)
+  - Cross-platform utility that uncovers the technologies used on websites.
+- [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)
+  - A markdown version emoji cheat sheet
+- [generator-jhipster](https://github.com/jhipster/generator-jhipster)
+  - Open Source application platform for creating Spring Boot + Angular/React projects in seconds!
 - [JSpider](https://github.com/scrapyhub/JSpider)
   - JSpider会每周更新至少一个网站的JS解密方式，欢迎 Star
-- [react-dates](https://github.com/airbnb/react-dates)
-  - An easily internationalizable, mobile-friendly datepicker library for the web
-- [flowy](https://github.com/alyssaxuu/flowy)
-  - The minimal javascript library to create flowcharts ✨
-- [pako](https://github.com/nodeca/pako)
-  - high speed zlib port to javascript, works in browser & node.js
-- [evil-huawei](https://github.com/evil-huawei/evil-huawei)
-  - Evil Huawei - 华为作过的恶
-- [d3](https://github.com/d3/d3)
-  - Bring data to life with SVG, Canvas and HTML. 📊📈🎉
-- [lottery](https://github.com/fouber/lottery)
-  - 年会抽奖程序
-- [serverless](https://github.com/serverless/serverless)
-  - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [node](https://github.com/nodejs/node)
   - Node.js JavaScript runtime ✨🐢🚀✨
-- [typeahead.js](https://github.com/twitter/typeahead.js)
-  - typeahead.js is a fast and fully-featured autocomplete library
+- [developerFolio](https://github.com/saadpasta/developerFolio)
+  - Software Developer Portfolio Template that help you showcase your work and skills as a software developer ⚡️
+- [dear-github-2.0](https://github.com/drop-ice/dear-github-2.0)
+  - 📨 An open letter to GitHub from the maintainers of open source projects
+- [TaskConfig](https://github.com/sazs34/TaskConfig)
+  - Quantumult签到(京东/网易/爱奇艺/贴吧)以及天气信息获取，以及surge/qx兼容脚本
+- [massCode](https://github.com/antonreshetov/massCode)
+  - A free and open source code snippets manager for developers.
+- [composition-api](https://github.com/vuejs/composition-api)
+  - Vue2 plugin for the Composition API.
+- [sequelize](https://github.com/sequelize/sequelize)
+  - An easy-to-use multi SQL dialect ORM for Node.js
+- [beam](https://github.com/doodlewind/beam)
+  - ✨Expressive WebGL
+- [graphql-js](https://github.com/graphql/graphql-js)
+  - A reference implementation of GraphQL for JavaScript
+- [design-system](https://github.com/salesforce-ux/design-system)
+  - Salesforce Lightning Design System
+- [deleteDiscordMessages](https://github.com/victornpb/deleteDiscordMessages)
+  - Delete all messages in a Discord channel or DM (Easy and fast)
+- [johnny-five](https://github.com/rwaldron/johnny-five)
+  - JavaScript Robotics and IoT programming framework, developed at Bocoup.
