@@ -74,10 +74,11 @@ var (
 	Languages = []string{
 		"go",
 		"javascript",
+		"typescript",
+		"kotlin",
 		"ruby",
 		"rust",
 		"c++",
-		"typescript",
 	}
 
 	Periods = []string{
