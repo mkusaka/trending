@@ -1,51 +1,51 @@
 # c++
-- [qBittorrent](https://github.com/qbittorrent/qBittorrent)
-  - qBittorrent BitTorrent client
-- [snapcast](https://github.com/badaix/snapcast)
-  - Synchronous multi-room audio player
-- [JunkDriveOpenSource](https://github.com/zhuhuibeishadiao/JunkDriveOpenSource)
-  - Some garbage drivers written for getting started
-- [WLED](https://github.com/Aircoookie/WLED)
-  - Control WS2812B RGB LEDs with an ESP8266 over WiFi!
-- [3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
-  - 🎮 A step-by-step guide on how to implement SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
-- [olive](https://github.com/olive-editor/olive)
-  - Free open-source non-linear video editor
-- [Competitive-Programming](https://github.com/rishabhgarg25699/Competitive-Programming)
-  - This repository contains some useful codes, techniques, algorithms and problem solutions helpful in Competitive Coding. Join with me on telegram group https://t.me/joinchat/GL4Y8RREZbz-Cp78R869CQ
-- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
-  - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
-- [PowerToys](https://github.com/microsoft/PowerToys)
-  - Windows system utilities to maximize productivity
-- [subconverter](https://github.com/tindy2013/subconverter)
-  - Utility to convert between various subscription format
-- [FreeCAD](https://github.com/FreeCAD/FreeCAD)
-  - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker
-- [deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu)
-  - Deepin Wine for Ubuntu/Debian
-- [acm-challenge-workbook](https://github.com/yogykwan/acm-challenge-workbook)
-  - 《挑战程序设计竞赛》习题册攻略
-- [udp2raw-tunnel](https://github.com/wangyu-/udp2raw-tunnel)
-  - A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [solidity](https://github.com/ethereum/solidity)
-  - Solidity, the Contract-Oriented Programming Language
 - [taichi](https://github.com/yuanming-hu/taichi)
   - The Taichi programming language
-- [cxxopts](https://github.com/jarro2783/cxxopts)
-  - Lightweight C++ command line option parser
-- [Marlin](https://github.com/MarlinFirmware/Marlin)
-  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
-- [electron](https://github.com/electron/electron)
-  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [i2cdevlib](https://github.com/jrowberg/i2cdevlib)
-  - I2C device library collection for AVR/Arduino or other C++-based MCUs
-- [vnote](https://github.com/tamlok/vnote)
-  - A note-taking application that knows programmers and Markdown better.
-- [cmake-cookbook](https://github.com/dev-cafe/cmake-cookbook)
-  - CMake Cookbook recipes.
-- [pcsx2](https://github.com/PCSX2/pcsx2)
-  - PCSX2 - The Playstation 2 Emulator
-- [cefpython](https://github.com/cztomczak/cefpython)
-  - Python bindings for the Chromium Embedded Framework (CEF)
+- [MNN](https://github.com/alibaba/MNN)
+  - MNN is a lightweight deep neural network inference engine.
+- [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2)
+  - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
+- [Tasmota](https://github.com/arendst/Tasmota)
+  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
+- [devilutionX](https://github.com/diasurgical/devilutionX)
+  - Diablo build for modern operating systems
+- [glow](https://github.com/pytorch/glow)
+  - Compiler for Neural Network hardware accelerators
+- [googletest](https://github.com/google/googletest)
+  - Googletest - Google Testing and Mocking Framework
+- [rocksdb](https://github.com/facebook/rocksdb)
+  - A library that provides an embeddable, persistent key-value store for fast storage.
+- [protobuf](https://github.com/protocolbuffers/protobuf)
+  - Protocol Buffers - Google's data interchange format
+- [Catch2](https://github.com/catchorg/Catch2)
+  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [concurrentqueue](https://github.com/cameron314/concurrentqueue)
+  - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
+- [Magisk](https://github.com/topjohnwu/Magisk)
+  - A Magic Mask to Alter Android System Systemless-ly
+- [openthread](https://github.com/openthread/openthread)
+  - OpenThread released by Google is an open-source implementation of the Thread networking protocol
+- [onnx-tensorrt](https://github.com/onnx/onnx-tensorrt)
+  - ONNX-TensorRT: TensorRT backend for ONNX
+- [interpret](https://github.com/interpretml/interpret)
+  - Fit interpretable machine learning models. Explain blackbox machine learning.
+- [Trilinos](https://github.com/trilinos/Trilinos)
+  - Primary repository for the Trilinos Project
+- [xournalpp](https://github.com/xournalpp/xournalpp)
+  - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
+- [calculator](https://github.com/microsoft/calculator)
+  - Windows Calculator: A simple yet powerful calculator that ships with Windows
+- [engine](https://github.com/flutter/engine)
+  - The Flutter engine
+- [git-crypt](https://github.com/AGWA/git-crypt)
+  - Transparent file encryption in git
+- [qBittorrent](https://github.com/qbittorrent/qBittorrent)
+  - qBittorrent BitTorrent client
+- [diycamera](https://github.com/IdleHandsProject/diycamera)
+  - An Arduino Based DIY Image Sensor and Camera Body
+- [Console-Based-Projects-C](https://github.com/soumyadip007/Console-Based-Projects-C)
+  - All projects are console based💻 and developed using C📚.All projects are dynamic and developed with the concept of Advance data structure 📁(Dynamic memory allocation,Linkedlist,Stack,Queue,Tree)✏️
+- [node-canvas](https://github.com/Automattic/node-canvas)
+  - Node canvas is a Cairo backed Canvas implementation for NodeJS.
+- [gdal](https://github.com/OSGeo/gdal)
+  - GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats.
