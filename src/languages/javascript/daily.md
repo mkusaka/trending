@@ -1,51 +1,51 @@
 # javascript
+- [AndroidKnowledgeSystem](https://github.com/feelschaotic/AndroidKnowledgeSystem)
+  - The most complete Android advanced route knowledge map ⭐️你想要的最全 Android 进阶路线知识图谱+干货资料收集🚀
 - [nodetube](https://github.com/mayeaux/nodetube)
   - Open-source YouTube alternative that also supports image and audio uploads. Powered by NodeJS
 - [isocity](https://github.com/victorqribeiro/isocity)
   - A isometric city builder in JavaScript
-- [AndroidKnowledgeSystem](https://github.com/feelschaotic/AndroidKnowledgeSystem)
-  - The most complete Android advanced route knowledge map ⭐️你想要的最全 Android 进阶路线知识图谱+干货资料收集🚀
-- [homebridge](https://github.com/nfarina/homebridge)
-  - HomeKit support for the impatient
-- [spark-joy](https://github.com/sw-yx/spark-joy)
-  - ✨😂easy ways to add design flair, user delight, and whimsy to your product.
+- [flowy](https://github.com/alyssaxuu/flowy)
+  - The minimal javascript library to create flowcharts ✨
 - [overreacted.io](https://github.com/gaearon/overreacted.io)
   - Personal blog by Dan Abramov.
-- [micro-frontends](https://github.com/neuland/micro-frontends)
-  - extending the microservice paradigms to web development
-- [WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
-  - Play with fluids in your browser (works even on mobile)
-- [store_locator_api](https://github.com/bradtraversy/store_locator_api)
-  - Node, Express, Mongo GeoJSON API & APP
+- [riot-web](https://github.com/vector-im/riot-web)
+  - A glossy Matrix collaboration client for the web.
+- [react-select](https://github.com/JedWatson/react-select)
+  - The Select Component for React.js
+- [Sortable](https://github.com/SortableJS/Sortable)
+  - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Ember, Knockout and any CSS library, e.g. Bootstrap.
 - [wappalyzer](https://github.com/AliasIO/wappalyzer)
   - Cross-platform utility that uncovers the technologies used on websites.
-- [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)
-  - A markdown version emoji cheat sheet
-- [generator-jhipster](https://github.com/jhipster/generator-jhipster)
-  - Open Source application platform for creating Spring Boot + Angular/React projects in seconds!
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
+  - Short JavaScript code snippets for all your development needs
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
+  - Starter files, final projects and FAQ for my Complete JavaScript course
+- [create-react-app](https://github.com/facebook/create-react-app)
+  - Set up a modern web app by running one command.
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [bootstrap](https://github.com/twbs/bootstrap)
+  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [slick](https://github.com/kenwheeler/slick)
+  - the last carousel you'll ever need
+- [RTCode](https://github.com/gsilvamartin/RTCode)
+  - Real time code sharing web application
+- [elementor](https://github.com/elementor/elementor)
+  - The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
 - [JSpider](https://github.com/scrapyhub/JSpider)
   - JSpider会每周更新至少一个网站的JS解密方式，欢迎 Star
-- [node](https://github.com/nodejs/node)
-  - Node.js JavaScript runtime ✨🐢🚀✨
-- [developerFolio](https://github.com/saadpasta/developerFolio)
-  - Software Developer Portfolio Template that help you showcase your work and skills as a software developer ⚡️
-- [dear-github-2.0](https://github.com/drop-ice/dear-github-2.0)
-  - 📨 An open letter to GitHub from the maintainers of open source projects
-- [TaskConfig](https://github.com/sazs34/TaskConfig)
-  - Quantumult签到(京东/网易/爱奇艺/贴吧)以及天气信息获取，以及surge/qx兼容脚本
-- [massCode](https://github.com/antonreshetov/massCode)
-  - A free and open source code snippets manager for developers.
-- [composition-api](https://github.com/vuejs/composition-api)
-  - Vue2 plugin for the Composition API.
-- [sequelize](https://github.com/sequelize/sequelize)
-  - An easy-to-use multi SQL dialect ORM for Node.js
-- [beam](https://github.com/doodlewind/beam)
-  - ✨Expressive WebGL
-- [graphql-js](https://github.com/graphql/graphql-js)
-  - A reference implementation of GraphQL for JavaScript
-- [design-system](https://github.com/salesforce-ux/design-system)
-  - Salesforce Lightning Design System
-- [deleteDiscordMessages](https://github.com/victornpb/deleteDiscordMessages)
-  - Delete all messages in a Discord channel or DM (Easy and fast)
-- [johnny-five](https://github.com/rwaldron/johnny-five)
-  - JavaScript Robotics and IoT programming framework, developed at Bocoup.
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
+  - Play with fluids in your browser (works even on mobile)
+- [Rhubarb](https://github.com/oguzeroglu/Rhubarb)
+  - A WebSocket library for multiplayer JS games, works on WebWorkers with binary data.
+- [chatify](https://github.com/munafio/chatify)
+  - A package for Laravel PHP Framework to add a complete real-time chat system to your app by only a few steps.
+- [react-leaflet](https://github.com/PaulLeCam/react-leaflet)
+  - ⚛️ React components for 🍃 Leaflet maps

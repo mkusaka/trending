@@ -1,51 +1,51 @@
 # ruby
-- [dev.to](https://github.com/thepracticaldev/dev.to)
-  - Where programmers share ideas and help each other grow
-- [D-Link-DIR-859-RCE](https://github.com/s1kr10s/D-Link-DIR-859-RCE)
-  - D-Link DIR-859 - RCE UnAutenticated (CVE-2019–17621)
+- [faker](https://github.com/faker-ruby/faker)
+  - A library for generating fake data such as names, addresses, and phone numbers.
+- [fastlane](https://github.com/fastlane/fastlane)
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [homebrew-core](https://github.com/Homebrew/homebrew-core)
+  - 🍻 Default formulae for the missing package manager for macOS
+- [octokit.rb](https://github.com/octokit/octokit.rb)
+  - Ruby toolkit for the GitHub API
+- [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)
+  - Simple one-liner tests for common Rails functionality
+- [rubocop](https://github.com/rubocop-hq/rubocop)
+  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+- [bootstrap-sass](https://github.com/twbs/bootstrap-sass)
+  - Official Sass port of Bootstrap 2 and 3.
+- [factory_bot](https://github.com/thoughtbot/factory_bot)
+  - A library for setting up Ruby objects as test data.
+- [liquid](https://github.com/Shopify/liquid)
+  - Liquid markup language. Safe, customer facing template language for flexible web apps.
 - [sidekiq](https://github.com/mperham/sidekiq)
   - Simple, efficient background processing for Ruby
-- [openproject](https://github.com/opf/openproject)
-  - OpenProject is the leading open source project management software.
-- [voctoweb](https://github.com/voc/voctoweb)
-  - voctoweb – the frontend and backend software behind media.ccc.de
-- [peatio](https://github.com/peatio/peatio)
-  - An open-source assets exchange.
-- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-- [other_video_transcoding](https://github.com/donmelton/other_video_transcoding)
-  - Other tools to transcode videos.
-- [video_transcoding](https://github.com/donmelton/video_transcoding)
-  - Tools to transcode, inspect and convert videos.
-- [WhatWeb](https://github.com/urbanadventurer/WhatWeb)
-  - Next generation web scanner
-- [html-fundamentals-document-structure-lab-dumbo-web-010620](https://github.com/learn-co-students/html-fundamentals-document-structure-lab-dumbo-web-010620)
-  - 
-- [html-basics-a-tag-with-href-attributes-lab-dumbo-web-010620](https://github.com/learn-co-students/html-basics-a-tag-with-href-attributes-lab-dumbo-web-010620)
-  - 
-- [programming-univbasics-nds-nds-to-insight-with-methods-seattle-web-012720](https://github.com/learn-co-students/programming-univbasics-nds-nds-to-insight-with-methods-seattle-web-012720)
-  - 
-- [html-fundamentals-text-formatting-lab-dumbo-web-010620](https://github.com/learn-co-students/html-fundamentals-text-formatting-lab-dumbo-web-010620)
-  - 
-- [sample_app_6th_ed](https://github.com/mhartl/sample_app_6th_ed)
-  - The main sample app for the Ruby on Rails Tutorial, 6th Edition
-- [debugging-practice-using-pry-nyc-web-010620](https://github.com/learn-co-students/debugging-practice-using-pry-nyc-web-010620)
-  - 
-- [debugging-practice-fix-our-broken-program-lab-nyc-web-010620](https://github.com/learn-co-students/debugging-practice-fix-our-broken-program-lab-nyc-web-010620)
-  - 
-- [takeaway-challenge](https://github.com/makersacademy/takeaway-challenge)
-  - Use the Twilio Gem to order food
-- [programming-univbasics-3-labs-with-tdd-online-web-prework](https://github.com/learn-co-students/programming-univbasics-3-labs-with-tdd-online-web-prework)
-  - 
-- [ruby-enumerables-hash-practice-emoticon-translator-lab-dumbo-web-010620](https://github.com/learn-co-students/ruby-enumerables-hash-practice-emoticon-translator-lab-dumbo-web-010620)
-  - 
-- [oo-my-pets-online-web-ft-120919](https://github.com/learn-co-students/oo-my-pets-online-web-ft-120919)
-  - 
-- [rails-layouts-and-templates-lab-online-web-ft-100719](https://github.com/learn-co-students/rails-layouts-and-templates-lab-online-web-ft-100719)
-  - 
-- [oo-inheritance-code-along-online-web-ft-120919](https://github.com/learn-co-students/oo-inheritance-code-along-online-web-ft-120919)
-  - 
-- [markup](https://github.com/github/markup)
-  - Determines which markup library to use to render a content file (e.g. README) on GitHub
-- [first-ide-lab-ruby-intro-000](https://github.com/learn-co-students/first-ide-lab-ruby-intro-000)
-  - 
+- [logstash](https://github.com/elastic/logstash)
+  - Logstash - transport and process your logs, events, or other data
+- [spree](https://github.com/spree/spree)
+  - Spree is a complete, modular & API-driven open source ecommerce solution for Ruby on Rails
+- [fluentd](https://github.com/fluent/fluentd)
+  - Fluentd: Unified Logging Layer (project under CNCF)
+- [paper_trail](https://github.com/paper-trail-gem/paper_trail)
+  - Track changes to your rails models
+- [capybara-webkit](https://github.com/thoughtbot/capybara-webkit)
+  - A Capybara driver for headless WebKit to test JavaScript web apps
+- [paperclip](https://github.com/thoughtbot/paperclip)
+  - Easy file attachment management for ActiveRecord
+- [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch)
+  - Ansible playbook for Elasticsearch
+- [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator)
+  - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+- [active_model_serializers](https://github.com/rails-api/active_model_serializers)
+  - ActiveModel::Serializer implementation and Rails hooks
+- [vagrant](https://github.com/hashicorp/vagrant)
+  - Vagrant is a tool for building and distributing development environments.
+- [plots2](https://github.com/publiclab/plots2)
+  - a collaborative knowledge-exchange platform in Rails; we welcome first-time contributors! 🎈
+- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
+  - Ruby implementation of GraphQL
+- [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails)
+  - Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
+- [stripe-ruby](https://github.com/stripe/stripe-ruby)
+  - Ruby library for the Stripe API.
+- [doorkeeper](https://github.com/doorkeeper-gem/doorkeeper)
+  - Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.

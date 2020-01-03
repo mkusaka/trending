@@ -1,51 +1,49 @@
 # general
-- [nodetube](https://github.com/mayeaux/nodetube) : JavaScript
-  - Open-source YouTube alternative that also supports image and audio uploads. Powered by NodeJS
-- [isocity](https://github.com/victorqribeiro/isocity) : JavaScript
-  - A isometric city builder in JavaScript
-- [AndroidKnowledgeSystem](https://github.com/feelschaotic/AndroidKnowledgeSystem) : JavaScript
-  - The most complete Android advanced route knowledge map ⭐️你想要的最全 Android 进阶路线知识图谱+干货资料收集🚀
-- [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) : Java
-  - Spring Boot 2.X 专栏更新中，未来更新 Spring Cloud Alibaba 。欢迎胖友 Star 一波
-- [chaos-mesh](https://github.com/pingcap/chaos-mesh) : Go
-  - A Chaos Engineering Platform for Kubernetes
-- [rhasspy](https://github.com/synesthesiam/rhasspy) : HTML
-  - Rhasspy voice assistant for Home Assistant and Hass.IO
-- [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) : 
-  - GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。
-- [Publish](https://github.com/JohnSundell/Publish) : Swift
-  - A static site generator for Swift developers
+- [Kotlin-Pokedex](https://github.com/mrcsxsiq/Kotlin-Pokedex) : Kotlin
+  - 🌀 A Pokedex app using ViewModel, LiveData, Room and Navigation
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) : Java
   - Design patterns implemented in Java
-- [homebridge](https://github.com/nfarina/homebridge) : JavaScript
-  - HomeKit support for the impatient
-- [spark-joy](https://github.com/sw-yx/spark-joy) : JavaScript
-  - ✨😂easy ways to add design flair, user delight, and whimsy to your product.
+- [chaos-mesh](https://github.com/pingcap/chaos-mesh) : Go
+  - A Chaos Engineering Platform for Kubernetes
+- [deeplearning-models](https://github.com/rasbt/deeplearning-models) : Jupyter Notebook
+  - A collection of various deep learning architectures, models, and tips
+- [AndroidKnowledgeSystem](https://github.com/feelschaotic/AndroidKnowledgeSystem) : JavaScript
+  - The most complete Android advanced route knowledge map ⭐️你想要的最全 Android 进阶路线知识图谱+干货资料收集🚀
+- [fxxkmakeding](https://github.com/xyjoey/fxxkmakeding) : 
+- [pulse-sms-android](https://github.com/klinker-apps/pulse-sms-android) : Kotlin
+  - The ultimate SMS app for Android, available across all of your devices.
+- [nodetube](https://github.com/mayeaux/nodetube) : JavaScript
+  - Open-source YouTube alternative that also supports image and audio uploads. Powered by NodeJS
+- [coding_challenge-25](https://github.com/zero-to-mastery/coding_challenge-25) : 
 - [computer-science](https://github.com/ossu/computer-science) : 
   - 🎓 Path to a free self-taught education in Computer Science!
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [AI_Sudoku](https://github.com/neeru1207/AI_Sudoku) : Python
-  - GUI based Smart Sudoku Solver that tries to extract a sudoku puzzle from a photo and solve it
-- [awesome-python](https://github.com/vinta/awesome-python) : Python
-  - A curated list of awesome Python frameworks, libraries, software and resources
-- [dlinject](https://github.com/DavidBuchanan314/dlinject) : Python
-  - Inject a shared library (i.e. arbitrary code) into a live linux process, without ptrace
+- [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) : 
+  - GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。
 - [ALBERT](https://github.com/google-research/ALBERT) : Python
   - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
-- [vue-manage-system](https://github.com/lin-xin/vue-manage-system) : Vue
-  - 基于vue + element的后台管理系统解决方案
-- [qBittorrent](https://github.com/qbittorrent/qBittorrent) : C++
-  - qBittorrent BitTorrent client
+- [architect-awesome](https://github.com/xingshaocheng/architect-awesome) : 
+  - 后端架构师技术图谱
+- [isocity](https://github.com/victorqribeiro/isocity) : JavaScript
+  - A isometric city builder in JavaScript
+- [dockerlabs](https://github.com/collabnix/dockerlabs) : PHP
+  - Docker - Beginners | Intermediate | Advanced
+- [rhasspy](https://github.com/synesthesiam/rhasspy) : HTML
+  - Rhasspy voice assistant for Home Assistant and Hass.IO
+- [flutter](https://github.com/flutter/flutter) : Dart
+  - Flutter makes it easy and fast to build beautiful mobile apps.
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) : CSS
+  - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
+- [flowy](https://github.com/alyssaxuu/flowy) : JavaScript
+  - The minimal javascript library to create flowcharts ✨
+- [awesome-python](https://github.com/vinta/awesome-python) : Python
+  - A curated list of awesome Python frameworks, libraries, software and resources
 - [overreacted.io](https://github.com/gaearon/overreacted.io) : JavaScript
   - Personal blog by Dan Abramov.
-- [BurpSuite-collections](https://github.com/Mr-xn/BurpSuite-collections) : Batchfile
-  - BurpSuite收集：包括不限于 Burp 文章、破解版、插件(非BApp Store)、汉化等相关教程，欢迎添砖加瓦---burpsuite-pro burpsuite-extender burpsuite cracked-version hackbar hacktools fuzzing fuzz-testing burp-plugin burp-extensions bapp-store brute-force-attacks brute-force-passwords waf sqlmap jar
-- [snapcast](https://github.com/badaix/snapcast) : C++
-  - Synchronous multi-room audio player
-- [bandwhich](https://github.com/imsnif/bandwhich) : Rust
-  - Terminal bandwidth utilization tool (formerly known as "what")
-- [models](https://github.com/tensorflow/models) : Python
-  - Models and examples built with TensorFlow
-- [StockSharp](https://github.com/StockSharp/StockSharp) : C#
-  - Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins and options).
+- [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) : Java
+  - spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 63 个集成demo，已经完成 52 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…
+- [hasskit](https://github.com/tuanha2000vn/hasskit) : Dart
+  - HassKit is a Touch-Friendly - Zero Config App to help users instantly start using Home Assistant
+- [linux](https://github.com/torvalds/linux) : C
+  - Linux kernel source tree

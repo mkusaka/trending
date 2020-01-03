@@ -1,51 +1,51 @@
 # go
 - [chaos-mesh](https://github.com/pingcap/chaos-mesh)
   - A Chaos Engineering Platform for Kubernetes
-- [learn-go-with-tests](https://github.com/quii/learn-go-with-tests)
-  - Learn Go with test-driven development
-- [Tesra](https://github.com/TesraSupernet/Tesra)
-  - tesra
-- [opa](https://github.com/open-policy-agent/opa)
-  - An open source, general-purpose policy engine.
-- [Amass](https://github.com/OWASP/Amass)
-  - In-depth Attack Surface Mapping and Asset Discovery
-- [k3s](https://github.com/rancher/k3s)
-  - Lightweight Kubernetes. 5 less than k8s.
-- [rancher](https://github.com/rancher/rancher)
-  - Complete container management platform
-- [ffuf](https://github.com/ffuf/ffuf)
-  - Fast web fuzzer written in Go
-- [httprobe](https://github.com/tomnomnom/httprobe)
-  - Take a list of domains and probe for working HTTP and HTTPS servers
-- [caddy](https://github.com/caddyserver/caddy)
-  - Fast, cross-platform HTTP/2 web server with automatic HTTPS
-- [oauth2_proxy](https://github.com/pusher/oauth2_proxy)
-  - A reverse proxy that provides authentication with Google, Github or other providers.
-- [tko-subs](https://github.com/anshumanbh/tko-subs)
-  - A tool that can help detect and takeover subdomains with dead DNS records
-- [gophernotes](https://github.com/gopherdata/gophernotes)
-  - The Go kernel for Jupyter notebooks and nteract.
-- [kaniko](https://github.com/GoogleContainerTools/kaniko)
-  - Build Container Images In Kubernetes
-- [statping](https://github.com/hunterlong/statping)
-  - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
-- [filebrowser](https://github.com/filebrowser/filebrowser)
-  - 📂 Web File Browser which can be used as a middleware or standalone app.
-- [kubectl](https://github.com/kubernetes/kubectl)
-  - Issue tracker and mirror of kubectl code
-- [hacks](https://github.com/tomnomnom/hacks)
-  - A collection of hacks and one-off scripts
+- [terraform-provider-google](https://github.com/terraform-providers/terraform-provider-google)
+  - Terraform Google Cloud Platform provider
+- [mongo-go-driver](https://github.com/mongodb/mongo-go-driver)
+  - The Go driver for MongoDB
+- [go-swagger](https://github.com/go-swagger/go-swagger)
+  - Swagger 2.0 implementation for go
+- [kind](https://github.com/kubernetes-sigs/kind)
+  - Kubernetes IN Docker - local clusters for testing Kubernetes
+- [vault](https://github.com/hashicorp/vault)
+  - A tool for secrets management, encryption as a service, and privileged access management
+- [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)
+  - Kubebuilder - SDK for building Kubernetes APIs using CRDs
+- [gqlgen](https://github.com/99designs/gqlgen)
+  - go generate based graphql server library
 - [nomad](https://github.com/hashicorp/nomad)
   - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [ebiten](https://github.com/hajimehoshi/ebiten)
-  - A dead simple 2D game library in Go
-- [eksctl](https://github.com/weaveworks/eksctl)
-  - The official CLI for Amazon EKS
-- [nvm-windows](https://github.com/coreybutler/nvm-windows)
-  - A node.js version management utility for Windows. Ironically written in Go.
-- [GolangTraining](https://github.com/GoesToEleven/GolangTraining)
-  - Training for Golang (go language)
-- [clash](https://github.com/Dreamacro/clash)
-  - A rule-based tunnel in Go.
-- [lorca](https://github.com/zserge/lorca)
-  - Build cross-platform modern desktop apps in Go + HTML5
+- [kubernetes](https://github.com/kubernetes/kubernetes)
+  - Production-Grade Container Scheduling and Management
+- [go](https://github.com/golang/go)
+  - The Go programming language
+- [oauth2_proxy](https://github.com/pusher/oauth2_proxy)
+  - A reverse proxy that provides authentication with Google, Github or other providers.
+- [moby](https://github.com/moby/moby)
+  - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [opa](https://github.com/open-policy-agent/opa)
+  - An open source, general-purpose policy engine.
+- [datadog-agent](https://github.com/DataDog/datadog-agent)
+  - Datadog Agent
+- [kustomize](https://github.com/kubernetes-sigs/kustomize)
+  - Customization of kubernetes YAML configurations
+- [go-elasticsearch](https://github.com/elastic/go-elasticsearch)
+  - The official Go client for Elasticsearch
+- [nats-server](https://github.com/nats-io/nats-server)
+  - High-Performance server for NATS, the cloud native messaging system.
+- [client-go](https://github.com/kubernetes/client-go)
+  - Go client for Kubernetes.
+- [helm](https://github.com/helm/helm)
+  - The Kubernetes Package Manager
+- [charts](https://github.com/helm/charts)
+  - Curated applications for Kubernetes
+- [dashboard](https://github.com/kubernetes/dashboard)
+  - General-purpose web UI for Kubernetes clusters
+- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
+  - Terraform AWS provider
+- [kubesphere](https://github.com/kubesphere/kubesphere)
+  - Easy-to-use Production Ready Container Platform
+- [k9s](https://github.com/derailed/k9s)
+  - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
