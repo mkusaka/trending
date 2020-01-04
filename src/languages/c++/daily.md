@@ -1,51 +1,51 @@
 # c++
-- [taichi](https://github.com/yuanming-hu/taichi)
-  - The Taichi programming language
-- [MNN](https://github.com/alibaba/MNN)
-  - MNN is a lightweight deep neural network inference engine.
-- [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2)
-  - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
-- [Tasmota](https://github.com/arendst/Tasmota)
-  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
-- [devilutionX](https://github.com/diasurgical/devilutionX)
-  - Diablo build for modern operating systems
-- [glow](https://github.com/pytorch/glow)
-  - Compiler for Neural Network hardware accelerators
-- [googletest](https://github.com/google/googletest)
-  - Googletest - Google Testing and Mocking Framework
-- [rocksdb](https://github.com/facebook/rocksdb)
-  - A library that provides an embeddable, persistent key-value store for fast storage.
-- [protobuf](https://github.com/protocolbuffers/protobuf)
-  - Protocol Buffers - Google's data interchange format
-- [Catch2](https://github.com/catchorg/Catch2)
-  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-- [concurrentqueue](https://github.com/cameron314/concurrentqueue)
-  - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
-- [Magisk](https://github.com/topjohnwu/Magisk)
-  - A Magic Mask to Alter Android System Systemless-ly
-- [openthread](https://github.com/openthread/openthread)
-  - OpenThread released by Google is an open-source implementation of the Thread networking protocol
-- [onnx-tensorrt](https://github.com/onnx/onnx-tensorrt)
-  - ONNX-TensorRT: TensorRT backend for ONNX
-- [interpret](https://github.com/interpretml/interpret)
-  - Fit interpretable machine learning models. Explain blackbox machine learning.
-- [Trilinos](https://github.com/trilinos/Trilinos)
-  - Primary repository for the Trilinos Project
-- [xournalpp](https://github.com/xournalpp/xournalpp)
-  - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
-- [calculator](https://github.com/microsoft/calculator)
-  - Windows Calculator: A simple yet powerful calculator that ships with Windows
-- [engine](https://github.com/flutter/engine)
-  - The Flutter engine
+- [Stacer](https://github.com/oguzhaninan/Stacer)
+  - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
+- [uWebSockets.js](https://github.com/uNetworking/uWebSockets.js)
+  - μWebSockets for TypeScript & JavaScript backends
+- [faiss](https://github.com/facebookresearch/faiss)
+  - A library for efficient similarity search and clustering of dense vectors.
 - [git-crypt](https://github.com/AGWA/git-crypt)
   - Transparent file encryption in git
-- [qBittorrent](https://github.com/qbittorrent/qBittorrent)
-  - qBittorrent BitTorrent client
-- [diycamera](https://github.com/IdleHandsProject/diycamera)
-  - An Arduino Based DIY Image Sensor and Camera Body
-- [Console-Based-Projects-C](https://github.com/soumyadip007/Console-Based-Projects-C)
-  - All projects are console based💻 and developed using C📚.All projects are dynamic and developed with the concept of Advance data structure 📁(Dynamic memory allocation,Linkedlist,Stack,Queue,Tree)✏️
-- [node-canvas](https://github.com/Automattic/node-canvas)
-  - Node canvas is a Cairo backed Canvas implementation for NodeJS.
-- [gdal](https://github.com/OSGeo/gdal)
-  - GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats.
+- [re2](https://github.com/google/re2)
+  - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+- [thrift](https://github.com/apache/thrift)
+  - Apache Thrift
+- [librealsense](https://github.com/IntelRealSense/librealsense)
+  - Intel® RealSense™ SDK
+- [taichi](https://github.com/yuanming-hu/taichi)
+  - The Taichi programming language
+- [godot](https://github.com/godotengine/godot)
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [arangodb](https://github.com/arangodb/arangodb)
+  - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
+- [incubator-brpc](https://github.com/apache/incubator-brpc)
+  - Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services, called "baidu-rpc" inside Baidu.
+- [onnx-tensorrt](https://github.com/onnx/onnx-tensorrt)
+  - ONNX-TensorRT: TensorRT backend for ONNX
+- [gperftools](https://github.com/gperftools/gperftools)
+  - Main gperftools repository
+- [books](https://github.com/concerttttt/books)
+  - book list
+- [tesseract](https://github.com/tesseract-ocr/tesseract)
+  - Tesseract Open Source OCR Engine (main repository)
+- [Catch2](https://github.com/catchorg/Catch2)
+  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [opencv](https://github.com/opencv/opencv)
+  - Open Source Computer Vision Library
+- [tinyrenderer](https://github.com/ssloy/tinyrenderer)
+  - A brief computer graphics / rendering course
+- [USD](https://github.com/PixarAnimationStudios/USD)
+  - Universal Scene Description
+- [imgui](https://github.com/ocornut/imgui)
+  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+- [mediasoup](https://github.com/versatica/mediasoup)
+  - Cutting Edge WebRTC Video Conferencing
+- [deconz-rest-plugin](https://github.com/dresden-elektronik/deconz-rest-plugin)
+  - REST API Plugin to control ZigBee lights like Philips Hue and dresden elektroniks wireless electronic ballasts
+- [VideoProcessingFramework](https://github.com/NVIDIA/VideoProcessingFramework)
+  - Set of Python bindings to C++ libraries which provides full HW acceleration for video decoding, encoding and GPU-accelerated color space and pixel format conversions
+- [glow](https://github.com/pytorch/glow)
+  - Compiler for Neural Network hardware accelerators
+- [sentencepiece](https://github.com/google/sentencepiece)
+  - Unsupervised text tokenizer for Neural Network-based text generation.
