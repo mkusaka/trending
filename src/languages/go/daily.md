@@ -1,51 +1,51 @@
 # go
-- [chaos-mesh](https://github.com/pingcap/chaos-mesh)
-  - A Chaos Engineering Platform for Kubernetes
-- [terraform-provider-google](https://github.com/terraform-providers/terraform-provider-google)
-  - Terraform Google Cloud Platform provider
-- [mongo-go-driver](https://github.com/mongodb/mongo-go-driver)
-  - The Go driver for MongoDB
-- [go-swagger](https://github.com/go-swagger/go-swagger)
-  - Swagger 2.0 implementation for go
-- [kind](https://github.com/kubernetes-sigs/kind)
-  - Kubernetes IN Docker - local clusters for testing Kubernetes
-- [vault](https://github.com/hashicorp/vault)
-  - A tool for secrets management, encryption as a service, and privileged access management
-- [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)
-  - Kubebuilder - SDK for building Kubernetes APIs using CRDs
-- [gqlgen](https://github.com/99designs/gqlgen)
-  - go generate based graphql server library
-- [nomad](https://github.com/hashicorp/nomad)
-  - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [kubernetes](https://github.com/kubernetes/kubernetes)
-  - Production-Grade Container Scheduling and Management
-- [go](https://github.com/golang/go)
-  - The Go programming language
-- [oauth2_proxy](https://github.com/pusher/oauth2_proxy)
-  - A reverse proxy that provides authentication with Google, Github or other providers.
-- [moby](https://github.com/moby/moby)
-  - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [opa](https://github.com/open-policy-agent/opa)
-  - An open source, general-purpose policy engine.
-- [datadog-agent](https://github.com/DataDog/datadog-agent)
-  - Datadog Agent
-- [kustomize](https://github.com/kubernetes-sigs/kustomize)
-  - Customization of kubernetes YAML configurations
-- [go-elasticsearch](https://github.com/elastic/go-elasticsearch)
-  - The official Go client for Elasticsearch
-- [nats-server](https://github.com/nats-io/nats-server)
-  - High-Performance server for NATS, the cloud native messaging system.
-- [client-go](https://github.com/kubernetes/client-go)
-  - Go client for Kubernetes.
+- [kubectl-tree](https://github.com/ahmetb/kubectl-tree)
+  - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (using? star the repo!)
 - [helm](https://github.com/helm/helm)
   - The Kubernetes Package Manager
+- [nomad](https://github.com/hashicorp/nomad)
+  - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+- [moby](https://github.com/moby/moby)
+  - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [loki](https://github.com/grafana/loki)
+  - Like Prometheus, but for logs.
 - [charts](https://github.com/helm/charts)
   - Curated applications for Kubernetes
-- [dashboard](https://github.com/kubernetes/dashboard)
-  - General-purpose web UI for Kubernetes clusters
-- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
-  - Terraform AWS provider
-- [kubesphere](https://github.com/kubesphere/kubesphere)
-  - Easy-to-use Production Ready Container Platform
+- [blackbox_exporter](https://github.com/prometheus/blackbox_exporter)
+  - Blackbox prober exporter
+- [go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware)
+  - Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
+- [go-micro](https://github.com/micro/go-micro)
+  - A Go microservices development framework
+- [testify](https://github.com/stretchr/testify)
+  - A toolkit with common assertions and mocks that plays nicely with the standard library
+- [alertmanager](https://github.com/prometheus/alertmanager)
+  - Prometheus Alertmanager
+- [mongo-go-driver](https://github.com/mongodb/mongo-go-driver)
+  - The Go driver for MongoDB
 - [k9s](https://github.com/derailed/k9s)
   - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [sampler](https://github.com/sqshq/sampler)
+  - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
+- [spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator)
+  - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
+- [flux](https://github.com/fluxcd/flux)
+  - The GitOps Kubernetes operator
+- [elastic](https://github.com/olivere/elastic)
+  - Elasticsearch client for Go.
+- [krew](https://github.com/kubernetes-sigs/krew)
+  - 📦 Package manager for kubectl plugins
+- [chaos-mesh](https://github.com/pingcap/chaos-mesh)
+  - A Chaos Engineering Platform for Kubernetes
+- [minikube](https://github.com/kubernetes/minikube)
+  - Run Kubernetes locally
+- [controller-runtime](https://github.com/kubernetes-sigs/controller-runtime)
+  - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
+- [terraform](https://github.com/hashicorp/terraform)
+  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [quorum](https://github.com/jpmorganchase/quorum)
+  - A permissioned implementation of Ethereum supporting data privacy
+- [go-swagger](https://github.com/go-swagger/go-swagger)
+  - Swagger 2.0 implementation for go
+- [cloud-on-k8s](https://github.com/elastic/cloud-on-k8s)
+  - Elastic Cloud on Kubernetes
