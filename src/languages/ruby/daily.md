@@ -1,51 +1,51 @@
 # ruby
-- [linguist](https://github.com/github/linguist)
-  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-- [faker](https://github.com/faker-ruby/faker)
-  - A library for generating fake data such as names, addresses, and phone numbers.
-- [rack](https://github.com/rack/rack)
-  - a modular Ruby webserver interface
-- [calico](https://github.com/projectcalico/calico)
-  - Cloud native connectivity and network policy
+- [dev.to](https://github.com/thepracticaldev/dev.to)
+  - Where programmers share ideas and help each other grow
+- [astuto](https://github.com/riggraz/astuto)
+  - A free, open source, self-hosted customer feedback tool 🦊
+- [tmuxinator](https://github.com/tmuxinator/tmuxinator)
+  - Manage complex tmux sessions easily
+- [devise](https://github.com/plataformatec/devise)
+  - Flexible authentication solution for Rails with Warden.
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
+  - Metasploit Framework
+- [wpscan](https://github.com/wpscanteam/wpscan)
+  - WPScan is a free, for non-commercial use, black box WordPress Vulnerability Scanner written for security professionals and blog maintainers to test the security of their WordPress websites.
+- [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
+  - A curated list of engineering blogs
+- [webpacker](https://github.com/rails/webpacker)
+  - Use Webpack to manage app-like JavaScript modules in Rails
+- [jekyll](https://github.com/jekyll/jekyll)
+  - 🌐 Jekyll is a blog-aware static site generator in Ruby
+- [sonic-pi](https://github.com/samaaron/sonic-pi)
+  - The Live Coding Music Synth for Everyone
+- [mastodon](https://github.com/tootsuite/mastodon)
+  - Your self-hosted, globally interconnected microblogging community
+- [logstash](https://github.com/elastic/logstash)
+  - Logstash - transport and process your logs, events, or other data
+- [openhab-docs](https://github.com/openhab/openhab-docs)
+  - This repository contains the documentation for openHAB.
+- [explore](https://github.com/github/explore)
+  - Community-curated topic and collection pages on GitHub
+- [canvas-lms](https://github.com/instructure/canvas-lms)
+  - The open LMS by Instructure, Inc.
 - [liquid](https://github.com/Shopify/liquid)
   - Liquid markup language. Safe, customer facing template language for flexible web apps.
-- [wicked_pdf](https://github.com/mileszs/wicked_pdf)
-  - PDF generator (from HTML) plugin for Ruby on Rails
-- [solidus](https://github.com/solidusio/solidus)
-  - 🛒Solidus, Rails eCommerce System
-- [brew](https://github.com/Homebrew/brew)
-  - 🍺 The missing package manager for macOS (or Linux)
-- [pundit](https://github.com/varvet/pundit)
-  - Minimal authorization through OO design and pure Ruby classes
+- [administrate](https://github.com/thoughtbot/administrate)
+  - A Rails engine that helps you put together a super-flexible admin dashboard.
+- [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator)
+  - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+  - A curated list of awesome awesomeness
 - [inspec](https://github.com/inspec/inspec)
   - InSpec: Auditing and Testing Framework
-- [fastlane](https://github.com/fastlane/fastlane)
-  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [ruby](https://github.com/ruby/ruby)
-  - The Ruby Programming Language [mirror]
-- [huginn](https://github.com/huginn/huginn)
-  - Create agents that monitor and act on your behalf. Your agents are standing by!
-- [active_model_serializers](https://github.com/rails-api/active_model_serializers)
-  - ActiveModel::Serializer implementation and Rails hooks
-- [spree](https://github.com/spree/spree)
-  - Spree is a complete, modular & API-driven open source ecommerce solution for Ruby on Rails
-- [openproject](https://github.com/opf/openproject)
-  - OpenProject is the leading open source project management software.
-- [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch)
-  - Ansible playbook for Elasticsearch
-- [asciidoctor](https://github.com/asciidoctor/asciidoctor)
-  - 💎 A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
-- [rspec-rails](https://github.com/rspec/rspec-rails)
-  - RSpec for Rails-3+
-- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
-  - Ruby implementation of GraphQL
-- [activeadmin](https://github.com/activeadmin/activeadmin)
-  - The administration framework for Ruby on Rails applications.
-- [sequel](https://github.com/jeremyevans/sequel)
-  - Sequel: The Database Toolkit for Ruby
-- [bootstrap-sass](https://github.com/twbs/bootstrap-sass)
-  - Official Sass port of Bootstrap 2 and 3.
-- [XSpear](https://github.com/hahwul/XSpear)
-  - Powerfull XSS Scanning and Parameter analysis tool&gem
-- [axlsx](https://github.com/randym/axlsx)
-  - xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your…
+- [evil-winrm](https://github.com/Hackplayers/evil-winrm)
+  - The ultimate WinRM shell for hacking/pentesting
+- [ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db)
+  - A database of vulnerable Ruby Gems
+- [simple-partials-reading-online-web-ft-100719](https://github.com/learn-co-students/simple-partials-reading-online-web-ft-100719)
+  - 
+- [rack-responses-lab-dc-web-120919](https://github.com/learn-co-students/rack-responses-lab-dc-web-120919)
+  - 
+- [nessus-client](https://github.com/acquia/nessus-client)
+  - Ruby library and simple cli tool for interacting with the Nessus 6 REST API https://cloud.tenable.com/api#/ -- [Created 2016-03-18 by pwolanin aka peter.wolanin@acquia.com via github.acquia.com]
