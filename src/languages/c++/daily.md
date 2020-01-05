@@ -1,51 +1,51 @@
 # c++
-- [Stacer](https://github.com/oguzhaninan/Stacer)
-  - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
-- [uWebSockets.js](https://github.com/uNetworking/uWebSockets.js)
-  - μWebSockets for TypeScript & JavaScript backends
-- [faiss](https://github.com/facebookresearch/faiss)
-  - A library for efficient similarity search and clustering of dense vectors.
-- [git-crypt](https://github.com/AGWA/git-crypt)
-  - Transparent file encryption in git
-- [re2](https://github.com/google/re2)
-  - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
-- [thrift](https://github.com/apache/thrift)
-  - Apache Thrift
-- [librealsense](https://github.com/IntelRealSense/librealsense)
-  - Intel® RealSense™ SDK
-- [taichi](https://github.com/yuanming-hu/taichi)
-  - The Taichi programming language
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [arangodb](https://github.com/arangodb/arangodb)
-  - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
-- [incubator-brpc](https://github.com/apache/incubator-brpc)
-  - Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services, called "baidu-rpc" inside Baidu.
-- [onnx-tensorrt](https://github.com/onnx/onnx-tensorrt)
-  - ONNX-TensorRT: TensorRT backend for ONNX
-- [gperftools](https://github.com/gperftools/gperftools)
-  - Main gperftools repository
-- [books](https://github.com/concerttttt/books)
-  - book list
-- [tesseract](https://github.com/tesseract-ocr/tesseract)
-  - Tesseract Open Source OCR Engine (main repository)
-- [Catch2](https://github.com/catchorg/Catch2)
-  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-- [opencv](https://github.com/opencv/opencv)
-  - Open Source Computer Vision Library
-- [tinyrenderer](https://github.com/ssloy/tinyrenderer)
-  - A brief computer graphics / rendering course
-- [USD](https://github.com/PixarAnimationStudios/USD)
-  - Universal Scene Description
-- [imgui](https://github.com/ocornut/imgui)
-  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
-- [mediasoup](https://github.com/versatica/mediasoup)
-  - Cutting Edge WebRTC Video Conferencing
-- [deconz-rest-plugin](https://github.com/dresden-elektronik/deconz-rest-plugin)
-  - REST API Plugin to control ZigBee lights like Philips Hue and dresden elektroniks wireless electronic ballasts
-- [VideoProcessingFramework](https://github.com/NVIDIA/VideoProcessingFramework)
-  - Set of Python bindings to C++ libraries which provides full HW acceleration for video decoding, encoding and GPU-accelerated color space and pixel format conversions
+- [calculator](https://github.com/microsoft/calculator)
+  - Windows Calculator: A simple yet powerful calculator that ships with Windows
+- [Tasmota](https://github.com/arendst/Tasmota)
+  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
+- [z3](https://github.com/Z3Prover/z3)
+  - The Z3 Theorem Prover
+- [openpilot](https://github.com/commaai/openpilot)
+  - open source driving agent
+- [allwpilib](https://github.com/wpilibsuite/allwpilib)
+  - Official Repository of WPILibJ and WPILibC
+- [LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL)
+  - Code repository of all OpenGL tutorials found at https://learnopengl.com
+- [BLUESPAWN](https://github.com/ION28/BLUESPAWN)
+  - Windows-based Active Defense and EDR tool to empower Blue Teams
+- [xbmc](https://github.com/xbmc/xbmc)
+  - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
+- [openage](https://github.com/SFTtech/openage)
+  - Free (as in freedom) open source clone of the Age of Empires II engine 🚀
+- [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail)
+  - Sourcetrail - free and open-source interactive source explorer
+- [Hazel](https://github.com/TheCherno/Hazel)
+  - Hazel Engine
+- [MuseScore](https://github.com/musescore/MuseScore)
+  - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
+- [tensorflow](https://github.com/tensorflow/tensorflow)
+  - An Open Source Machine Learning Framework for Everyone
 - [glow](https://github.com/pytorch/glow)
   - Compiler for Neural Network hardware accelerators
-- [sentencepiece](https://github.com/google/sentencepiece)
-  - Unsupervised text tokenizer for Neural Network-based text generation.
+- [dxvk](https://github.com/doitsujin/dxvk)
+  - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
+- [imgui](https://github.com/ocornut/imgui)
+  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+- [books](https://github.com/concerttttt/books)
+  - book list
+- [SFML](https://github.com/SFML/SFML)
+  - Simple and Fast Multimedia Library
+- [dry-comparisons](https://github.com/rollbear/dry-comparisons)
+  - C++17 Utility classes for comparing multiple values in one simple expression
+- [Osiris](https://github.com/danielkrupinski/Osiris)
+  - Free open-source training software / cheat for Counter-Strike: Global Offensive, written in modern C++. GUI powered by imgui.
+- [Proton](https://github.com/ValveSoftware/Proton)
+  - Compatibility tool for Steam Play based on Wine and additional components
+- [Marlin](https://github.com/MarlinFirmware/Marlin)
+  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
+- [Stacer](https://github.com/oguzhaninan/Stacer)
+  - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
+- [i2cdevlib](https://github.com/jrowberg/i2cdevlib)
+  - I2C device library collection for AVR/Arduino or other C++-based MCUs
+- [BIGTREETECH-SKR-V1.3](https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3)
+  - 32bit board with LPC1768, support marlin2.0 and smoothieware, support lcd2004/12864, On-board TMC2130 SPI interface and TMC2208 UART interface no additional wiring is required

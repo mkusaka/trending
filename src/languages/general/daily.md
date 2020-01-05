@@ -1,49 +1,51 @@
 # general
-- [nodetube](https://github.com/mayeaux/nodetube) : JavaScript
-  - Open-source YouTube alternative that also supports image and audio uploads. Powered by NodeJS
+- [d2l-en](https://github.com/d2l-ai/d2l-en) : Python
+  - Dive into Deep Learning: an interactive deep learning book with code, math, and discussions, based on the NumPy interface.
 - [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
   - Course Files for Complete Python 3 Bootcamp Course on Udemy
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) : Rust
+  - Unofficial Bitwarden compatible server written in Rust
 - [excalidraw](https://github.com/excalidraw/excalidraw) : TypeScript
   - Sketch hand-drawn like diagrams
-- [OpenSource-RoadMap-DataScience](https://github.com/DataScienceResearchPeru/OpenSource-RoadMap-DataScience) : Jupyter Notebook
-  - ¡Camino a una educación autodidacta en Ciencia de Datos!
+- [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) : JavaScript
+  - A 30 days of JavaScript programming challenge
+- [awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) : 
+  - An effort to build a single place for all useful android and iOS security related stuff. All references and tools are belong to their respective owners. I'm just maintaining it.
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
   - A long list of (advanced) JavaScript questions, and their explanations ✨
-- [rq](https://github.com/rq/rq) : Python
-  - Simple job queues for Python
-- [beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) : JavaScript
-  - 🔥A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
-- [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) : JavaScript
+- [hakrawler](https://github.com/hakluke/hakrawler) : Go
+  - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
+- [OpenSource-RoadMap-DataScience](https://github.com/DataScienceResearchPeru/OpenSource-RoadMap-DataScience) : Jupyter Notebook
+  - ¡Camino a una educación autodidacta en Ciencia de Datos!
+- [EfficientDet.Pytorch](https://github.com/toandaominh1997/EfficientDet.Pytorch) : Python
+  - Implementation EfficientDet: Scalable and Efficient Object Detection in PyTorch
 - [deeplearning-models](https://github.com/rasbt/deeplearning-models) : Jupyter Notebook
   - A collection of various deep learning architectures, models, and tips
 - [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) : HTML
   - A curated list of awesome warez and piracy links
-- [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) : 
-  - List of "only yours" cloud services for everyday needs 🏴
 - [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) : 
   - A list of resources for those interested in getting started in bug bounties
-- [kubectl-tree](https://github.com/ahmetb/kubectl-tree) : Go
-  - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (using? star the repo!)
-- [architect-awesome](https://github.com/xingshaocheng/architect-awesome) : 
-  - 后端架构师技术图谱
-- [angular](https://github.com/angular/angular) : TypeScript
-  - One framework. Mobile & desktop.
-- [awesome-python](https://github.com/vinta/awesome-python) : Python
-  - A curated list of awesome Python frameworks, libraries, software and resources
-- [java-design-patterns](https://github.com/iluwatar/java-design-patterns) : Java
-  - Design patterns implemented in Java
-- [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) : 
-  - GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [awesome-burp-suite](https://github.com/alphaSeclab/awesome-burp-suite) : 
-  - Awesome Burp Suite Resources. 400+ open source Burp plugins, 500+ posts and videos.
-- [Flutter-Course-Resources](https://github.com/londonappbrewery/Flutter-Course-Resources) : 
-  - Learn to Code While Building Apps - The Complete Flutter Development Bootcamp
-- [fxxkmakeding](https://github.com/xyjoey/fxxkmakeding) : 
 - [Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0) : Jupyter Notebook
   - 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为TensorFlow 2.0实现，项目已得到李沐老师的同意
-- [react](https://github.com/facebook/react) : JavaScript
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [helm](https://github.com/helm/helm) : Go
-  - The Kubernetes Package Manager
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
+  - Roadmap to becoming a web developer in 2020
+- [nodetube](https://github.com/mayeaux/nodetube) : JavaScript
+  - Open-source YouTube alternative that also supports image and audio uploads. Powered by NodeJS
+- [VoxelSpace](https://github.com/s-macke/VoxelSpace) : C
+  - Terrain rendering algorithm in less than 20 lines of code
+- [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) : 
+  - GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。
+- [MagicMirror](https://github.com/MichMich/MagicMirror) : JavaScript
+  - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
+- [calculator](https://github.com/microsoft/calculator) : C++
+  - Windows Calculator: A simple yet powerful calculator that ships with Windows
+- [trackerslist](https://github.com/ngosang/trackerslist) : 
+  - Updated list of public BitTorrent trackers
+- [SecLists](https://github.com/danielmiessler/SecLists) : PHP
+  - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+- [Tasmota](https://github.com/arendst/Tasmota) : C++
+  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
+- [kubectl-tree](https://github.com/ahmetb/kubectl-tree) : Go
+  - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (using? star the repo!)
+- [z3](https://github.com/Z3Prover/z3) : C++
+  - The Z3 Theorem Prover
