@@ -1,51 +1,51 @@
 # general
-- [d2l-en](https://github.com/d2l-ai/d2l-en) : Python
-  - Dive into Deep Learning: an interactive deep learning book with code, math, and discussions, based on the NumPy interface.
-- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
-  - Course Files for Complete Python 3 Bootcamp Course on Udemy
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) : Rust
-  - Unofficial Bitwarden compatible server written in Rust
-- [excalidraw](https://github.com/excalidraw/excalidraw) : TypeScript
-  - Sketch hand-drawn like diagrams
-- [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) : JavaScript
-  - A 30 days of JavaScript programming challenge
-- [awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) : 
-  - An effort to build a single place for all useful android and iOS security related stuff. All references and tools are belong to their respective owners. I'm just maintaining it.
-- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
-  - A long list of (advanced) JavaScript questions, and their explanations ✨
-- [hakrawler](https://github.com/hakluke/hakrawler) : Go
-  - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
-- [OpenSource-RoadMap-DataScience](https://github.com/DataScienceResearchPeru/OpenSource-RoadMap-DataScience) : Jupyter Notebook
-  - ¡Camino a una educación autodidacta en Ciencia de Datos!
-- [EfficientDet.Pytorch](https://github.com/toandaominh1997/EfficientDet.Pytorch) : Python
-  - Implementation EfficientDet: Scalable and Efficient Object Detection in PyTorch
-- [deeplearning-models](https://github.com/rasbt/deeplearning-models) : Jupyter Notebook
-  - A collection of various deep learning architectures, models, and tips
-- [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) : HTML
-  - A curated list of awesome warez and piracy links
-- [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) : 
-  - A list of resources for those interested in getting started in bug bounties
-- [Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0) : Jupyter Notebook
-  - 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为TensorFlow 2.0实现，项目已得到李沐老师的同意
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
-  - Roadmap to becoming a web developer in 2020
-- [nodetube](https://github.com/mayeaux/nodetube) : JavaScript
-  - Open-source YouTube alternative that also supports image and audio uploads. Powered by NodeJS
-- [VoxelSpace](https://github.com/s-macke/VoxelSpace) : C
-  - Terrain rendering algorithm in less than 20 lines of code
-- [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) : 
-  - GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。
-- [MagicMirror](https://github.com/MichMich/MagicMirror) : JavaScript
-  - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
-- [calculator](https://github.com/microsoft/calculator) : C++
-  - Windows Calculator: A simple yet powerful calculator that ships with Windows
-- [trackerslist](https://github.com/ngosang/trackerslist) : 
-  - Updated list of public BitTorrent trackers
-- [SecLists](https://github.com/danielmiessler/SecLists) : PHP
-  - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
-- [Tasmota](https://github.com/arendst/Tasmota) : C++
-  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
+- [JobFunnel](https://github.com/PaulMcInnis/JobFunnel) : Python
+  - Tool for scraping job websites, and filtering and reviewing the job listings
 - [kubectl-tree](https://github.com/ahmetb/kubectl-tree) : Go
   - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (using? star the repo!)
-- [z3](https://github.com/Z3Prover/z3) : C++
-  - The Z3 Theorem Prover
+- [excalidraw](https://github.com/excalidraw/excalidraw) : TypeScript
+  - Sketch hand-drawn like diagrams
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [hakrawler](https://github.com/hakluke/hakrawler) : Go
+  - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
+- [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) : JavaScript
+  - A 30 days of JavaScript programming challenge
+- [AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) : 
+  - Roadmap to becoming an ASP.NET Core developer in 2019
+- [keras-ocr](https://github.com/faustomorales/keras-ocr) : Python
+  - A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model.
+- [MemLabs](https://github.com/stuxnet999/MemLabs) : Roff
+  - Educational, CTF-styled labs for individuals interested in Memory Forensics
+- [parcel](https://github.com/parcel-bundler/parcel) : JavaScript
+  - 📦🚀 Blazing fast, zero configuration web application bundler
+- [awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) : 
+  - An effort to build a single place for all useful android and iOS security related stuff. All references and tools are belong to their respective owners. I'm just maintaining it.
+- [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) : Python
+  - A list of awesome applications, software, tools and other materials for Linux distros.
+- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) : JavaScript
+  - 一个基于 electron 的音乐软件
+- [BedrockFramework](https://github.com/davidfowl/BedrockFramework) : C#
+  - High performance, low level networking APIs for building custom severs and clients.
+- [awesome-java](https://github.com/Snailclimb/awesome-java) : 
+  - Collection of awesome Java project on Github(Github 上非常棒的 Java 开源项目集合).
+- [Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0) : Jupyter Notebook
+  - 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为TensorFlow 2.0实现，项目已得到李沐老师的同意
+- [EfficientDet.Pytorch](https://github.com/toandaominh1997/EfficientDet.Pytorch) : Python
+  - Implementation EfficientDet: Scalable and Efficient Object Detection in PyTorch
+- [cutter](https://github.com/radareorg/cutter) : C++
+  - Free and Open Source Reverse Engineering Platform powered by radare2
+- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
+  - Course Files for Complete Python 3 Bootcamp Course on Udemy
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac) : JavaScript
+  -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [CPython-Internals](https://github.com/zpoint/CPython-Internals) : Python
+  - Dive into CPython internals, trying to illustrate every detail of CPython implementation | CPython 源码阅读笔记, 多图展示底层实现细节
+- [SOTabBar](https://github.com/Ahmadalsofi/SOTabBar) : Swift
+  - Light way to add Fancy bottom bar 📲
+- [0x4447_product_s3_email](https://github.com/0x4447/0x4447_product_s3_email) : 
+  - 📫 A serverless email server on AWS using S3 and SES
+- [halo](https://github.com/halo-dev/halo) : Java
+  - ✍ Halo 一款现代化的个人独立博客系统
+- [vcmi](https://github.com/vcmi/vcmi) : C++
+  - Open-source engine for Heroes of Might and Magic III
