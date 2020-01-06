@@ -1,51 +1,51 @@
 # rust
 - [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
   - Unofficial Bitwarden compatible server written in Rust
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [iced](https://github.com/hecrj/iced)
-  - A cross-platform GUI library for Rust, inspired by Elm
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [amethyst](https://github.com/amethyst/amethyst)
-  - Data-oriented and data-driven game engine written in Rust
-- [rust-raspi3-OS-tutorials](https://github.com/rust-embedded/rust-raspi3-OS-tutorials)
-  - 📚 Learn to write an embedded OS in Rust on the Raspberry Pi 🦀
-- [tonic](https://github.com/hyperium/tonic)
-  - A native gRPC client & server implementation with async/await support.
 - [talent-plan](https://github.com/pingcap/talent-plan)
   - PingCAP training courses
-- [spandoc](https://github.com/yaahc/spandoc)
-  - Proc macro for using doc comments as context for errors/logs/profiling/whatever via `tracing`
-- [rio](https://github.com/spacejam/rio)
-  - pure rust io_uring library, built on libc, thread & async friendly, misuse resistant
-- [rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison)
-  - A comparison of some web frameworks and libs written in Rust
-- [ruffle](https://github.com/ruffle-rs/ruffle)
-  - A Flash Player emulator written in Rust
+- [alacritty](https://github.com/jwilm/alacritty)
+  - A cross-platform, GPU-accelerated terminal emulator
+- [spotify-tui](https://github.com/Rigellute/spotify-tui)
+  - Spotify for the terminal written in Rust 🚀
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix web is a small, pragmatic, and extremely fast rust web framework.
+- [tonic](https://github.com/hyperium/tonic)
+  - A native gRPC client & server implementation with async/await support.
+- [iced](https://github.com/hecrj/iced)
+  - A cross-platform GUI library for Rust, inspired by Elm
 - [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim)
   - Language Server Protocol (LSP) support for vim and neovim.
-- [vector](https://github.com/timberio/vector)
-  - A High-Performance Monitoring & Observability Data Router
-- [incubator-teaclave](https://github.com/apache/incubator-teaclave)
-  - Apache Teaclave (incubating) is an open source universal secure computing platform
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
-- [glutin](https://github.com/rust-windowing/glutin)
-  - A low-level library for OpenGL context creation, written in pure Rust.
-- [tree-sitter](https://github.com/tree-sitter/tree-sitter)
-  - An incremental parsing system for programming tools
-- [crossbeam](https://github.com/crossbeam-rs/crossbeam)
-  - Tools for concurrent programming in Rust
-- [nushell](https://github.com/nushell/nushell)
-  - A modern shell written in Rust
-- [luminance-rs](https://github.com/phaazon/luminance-rs)
-  - Type-safe, type-level and stateless Rust graphics framework
-- [tracing](https://github.com/tokio-rs/tracing)
-  - Application level tracing for Rust.
+- [haskell_bits](https://github.com/clintonmead/haskell_bits)
+  - 
+- [starship](https://github.com/starship/starship)
+  - ☄🌌️ The cross-shell prompt for astronauts
 - [yew](https://github.com/yewstack/yew)
   - Rust / Wasm framework for building client web apps
-- [tower](https://github.com/tower-rs/tower)
-  - async fn(Request) -> Result<Response, Error>
+- [amethyst](https://github.com/amethyst/amethyst)
+  - Data-oriented and data-driven game engine written in Rust
+- [servo](https://github.com/servo/servo)
+  - The Servo Browser Engine
+- [book](https://github.com/rust-lang/book)
+  - The Rust Programming Language
+- [tokio](https://github.com/tokio-rs/tokio)
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
+- [findomain](https://github.com/Edu4rdSHL/findomain)
+  - The fastest and cross-platform subdomain enumerator, don't waste your time.
+- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
+  - Rust bindings to wgpu native library
+- [py-spy](https://github.com/benfred/py-spy)
+  - Sampling profiler for Python programs
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [warp](https://github.com/seanmonstar/warp)
+  - A super-easy, composable, web server framework for warp speeds.
+- [vector](https://github.com/timberio/vector)
+  - A High-Performance Monitoring & Observability Data Router
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
+- [jormungandr](https://github.com/input-output-hk/jormungandr)
+  - aspiring blockchain node
+- [wasmtime](https://github.com/bytecodealliance/wasmtime)
+  - Standalone JIT-style runtime for WebAssembly, using Cranelift

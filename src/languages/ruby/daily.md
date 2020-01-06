@@ -1,51 +1,51 @@
 # ruby
-- [dev.to](https://github.com/thepracticaldev/dev.to)
-  - Where programmers share ideas and help each other grow
-- [astuto](https://github.com/riggraz/astuto)
-  - A free, open source, self-hosted customer feedback tool 🦊
-- [tmuxinator](https://github.com/tmuxinator/tmuxinator)
-  - Manage complex tmux sessions easily
-- [devise](https://github.com/plataformatec/devise)
-  - Flexible authentication solution for Rails with Warden.
-- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
-  - Metasploit Framework
-- [wpscan](https://github.com/wpscanteam/wpscan)
-  - WPScan is a free, for non-commercial use, black box WordPress Vulnerability Scanner written for security professionals and blog maintainers to test the security of their WordPress websites.
 - [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
   - A curated list of engineering blogs
-- [webpacker](https://github.com/rails/webpacker)
-  - Use Webpack to manage app-like JavaScript modules in Rails
-- [jekyll](https://github.com/jekyll/jekyll)
-  - 🌐 Jekyll is a blog-aware static site generator in Ruby
-- [sonic-pi](https://github.com/samaaron/sonic-pi)
-  - The Live Coding Music Synth for Everyone
+- [chatwoot](https://github.com/chatwoot/chatwoot)
+  - Simple and elegant live chat software 🔥💬
 - [mastodon](https://github.com/tootsuite/mastodon)
   - Your self-hosted, globally interconnected microblogging community
-- [logstash](https://github.com/elastic/logstash)
-  - Logstash - transport and process your logs, events, or other data
-- [openhab-docs](https://github.com/openhab/openhab-docs)
-  - This repository contains the documentation for openHAB.
-- [explore](https://github.com/github/explore)
-  - Community-curated topic and collection pages on GitHub
-- [canvas-lms](https://github.com/instructure/canvas-lms)
-  - The open LMS by Instructure, Inc.
-- [liquid](https://github.com/Shopify/liquid)
-  - Liquid markup language. Safe, customer facing template language for flexible web apps.
-- [administrate](https://github.com/thoughtbot/administrate)
-  - A Rails engine that helps you put together a super-flexible admin dashboard.
-- [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator)
-  - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
-- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-  - A curated list of awesome awesomeness
-- [inspec](https://github.com/inspec/inspec)
-  - InSpec: Auditing and Testing Framework
+- [astuto](https://github.com/riggraz/astuto)
+  - A free, open source, self-hosted customer feedback tool 🦊
+- [devise](https://github.com/plataformatec/devise)
+  - Flexible authentication solution for Rails with Warden.
 - [evil-winrm](https://github.com/Hackplayers/evil-winrm)
   - The ultimate WinRM shell for hacking/pentesting
-- [ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db)
-  - A database of vulnerable Ruby Gems
-- [simple-partials-reading-online-web-ft-100719](https://github.com/learn-co-students/simple-partials-reading-online-web-ft-100719)
+- [rubocop](https://github.com/rubocop-hq/rubocop)
+  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+- [asciidoctor-pdf](https://github.com/asciidoctor/asciidoctor-pdf)
+  - 📃 Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.
+- [tmuxinator](https://github.com/tmuxinator/tmuxinator)
+  - Manage complex tmux sessions easily
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
+  - Metasploit Framework
+- [discourse](https://github.com/discourse/discourse)
+  - A platform for community discussion. Free, open, simple.
+- [maximum-awesome](https://github.com/square/maximum-awesome)
+  - Config files for vim and tmux.
+- [explore](https://github.com/github/explore)
+  - Community-curated topic and collection pages on GitHub
+- [brew](https://github.com/Homebrew/brew)
+  - 🍺 The missing package manager for macOS (or Linux)
+- [lolcat](https://github.com/busyloop/lolcat)
+  - Rainbows and unicorns!
+- [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator)
+  - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+- [lobsters](https://github.com/lobsters/lobsters)
+  - Computing-focused community centered around link aggregation and discussion
+- [danbooru](https://github.com/danbooru/danbooru)
+  - Danbooru is a taggable image board written in Rails 6.
+- [dev.to](https://github.com/thepracticaldev/dev.to)
+  - Where programmers share ideas and help each other grow
+- [rails](https://github.com/rails/rails)
+  - Ruby on Rails
+- [shrine](https://github.com/shrinerb/shrine)
+  - File Attachment toolkit for Ruby applications
+- [solargraph](https://github.com/castwide/solargraph)
+  - A Ruby language server.
+- [markup](https://github.com/github/markup)
+  - Determines which markup library to use to render a content file (e.g. README) on GitHub
+- [sinatra-from-scratch-readme](https://github.com/learn-co-curriculum/sinatra-from-scratch-readme)
   - 
-- [rack-responses-lab-dc-web-120919](https://github.com/learn-co-students/rack-responses-lab-dc-web-120919)
-  - 
-- [nessus-client](https://github.com/acquia/nessus-client)
-  - Ruby library and simple cli tool for interacting with the Nessus 6 REST API https://cloud.tenable.com/api#/ -- [Created 2016-03-18 by pwolanin aka peter.wolanin@acquia.com via github.acquia.com]
+- [dotenv](https://github.com/bkeepers/dotenv)
+  - A Ruby gem to load environment variables from `.env`.

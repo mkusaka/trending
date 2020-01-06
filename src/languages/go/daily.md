@@ -1,51 +1,51 @@
 # go
-- [hakrawler](https://github.com/hakluke/hakrawler)
-  - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
 - [kubectl-tree](https://github.com/ahmetb/kubectl-tree)
   - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (using? star the repo!)
-- [webrtc](https://github.com/pion/webrtc)
-  - Pure Go implementation of the WebRTC API
-- [loki](https://github.com/grafana/loki)
-  - Like Prometheus, but for logs.
-- [v2ray-core](https://github.com/v2ray/v2ray-core)
-  - A platform for building proxies to bypass network restrictions.
-- [reviewdog](https://github.com/reviewdog/reviewdog)
-  - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
-- [hub](https://github.com/github/hub)
-  - A command-line tool that makes git easier to use with GitHub.
-- [ReverseProxy](https://github.com/ilanyu/ReverseProxy)
-  - ReverseProxy in golang
-- [gost](https://github.com/ginuerzh/gost)
-  - GO Simple Tunnel - a simple tunnel written in golang
-- [chat](https://github.com/tinode/chat)
-  - Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots
-- [xTeVe](https://github.com/xteve-project/xTeVe)
-  - M3U Proxy for Plex DVR and Emby Live TV
-- [telegraf](https://github.com/influxdata/telegraf)
-  - The plugin-driven server agent for collecting & reporting metrics.
-- [torrent](https://github.com/anacrolix/torrent)
-  - Full-featured BitTorrent-client package and utilities
+- [hakrawler](https://github.com/hakluke/hakrawler)
+  - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
+- [webfs](https://github.com/brendoncarroll/webfs)
+  - A Filesystem Built On Top of the Web.
+- [lazygit](https://github.com/jesseduffield/lazygit)
+  - simple terminal UI for git commands
+- [ghq](https://github.com/motemen/ghq)
+  - Remote repository management made easy
 - [sprig](https://github.com/Masterminds/sprig)
   - Useful template functions for Go templates.
-- [go](https://github.com/golang/go)
-  - The Go programming language
-- [rclone](https://github.com/rclone/rclone)
-  - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
-- [hugo](https://github.com/gohugoio/hugo)
-  - The world’s fastest framework for building websites.
-- [telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api)
-  - Golang bindings for the Telegram Bot API
-- [mapstructure](https://github.com/mitchellh/mapstructure)
-  - Go library for decoding generic map values into native Go structures.
-- [k3os](https://github.com/rancher/k3os)
-  - Purpose-built OS for Kubernetes, fully managed by Kubernetes.
-- [nats-streaming-server](https://github.com/nats-io/nats-streaming-server)
-  - NATS Streaming System Server
-- [moby](https://github.com/moby/moby)
-  - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [controller-runtime](https://github.com/kubernetes-sigs/controller-runtime)
-  - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
+- [torrent](https://github.com/anacrolix/torrent)
+  - Full-featured BitTorrent client package and utilities
+- [qt](https://github.com/therecipe/qt)
+  - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
+- [mattermost-server](https://github.com/mattermost/mattermost-server)
+  - Open source Slack-alternative in Golang and React - Mattermost
 - [goth](https://github.com/markbates/goth)
   - Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications.
-- [go-term-markdown](https://github.com/MichaelMure/go-term-markdown)
-  - A markdown renderer package for the terminal
+- [bettercap](https://github.com/bettercap/bettercap)
+  - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
+- [mysql](https://github.com/go-sql-driver/mysql)
+  - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
+- [micro](https://github.com/zyedidia/micro)
+  - A modern and intuitive terminal-based text editor
+- [perkeep](https://github.com/perkeep/perkeep)
+  - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
+- [colly](https://github.com/gocolly/colly)
+  - Elegant Scraper and Crawler Framework for Golang
+- [domain-list-community](https://github.com/v2ray/domain-list-community)
+  - Community managed domain list
+- [archiver](https://github.com/mholt/archiver)
+  - Easily create & extract archives, and compress & decompress files of various formats
+- [reviewdog](https://github.com/reviewdog/reviewdog)
+  - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
+- [vault](https://github.com/hashicorp/vault)
+  - A tool for secrets management, encryption as a service, and privileged access management
+- [xTeVe](https://github.com/xteve-project/xTeVe)
+  - M3U Proxy for Plex DVR and Emby Live TV
+- [gorm](https://github.com/jinzhu/gorm)
+  - The fantastic ORM library for Golang, aims to be developer friendly
+- [krew](https://github.com/kubernetes-sigs/krew)
+  - 📦 Package manager for kubectl plugins
+- [vitess](https://github.com/vitessio/vitess)
+  - Vitess is a database clustering system for horizontal scaling of MySQL.
+- [rclone](https://github.com/rclone/rclone)
+  - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+- [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy)
+  - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.

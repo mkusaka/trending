@@ -1,51 +1,51 @@
 # typescript
 - [excalidraw](https://github.com/excalidraw/excalidraw)
   - Sketch hand-drawn like diagrams
+- [ionicons](https://github.com/ionic-team/ionicons)
+  - The premium icon font for Ionic Framework and web apps everywhere
+- [code-server](https://github.com/cdr/code-server)
+  - Run VS Code on a remote server.
+- [polaris-react](https://github.com/Shopify/polaris-react)
+  - Shopify’s product component library
+- [kibana](https://github.com/elastic/kibana)
+  - Your window into the Elastic Stack
 - [nest](https://github.com/nestjs/nest)
   - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-- [deno](https://github.com/denoland/deno)
-  - A secure JavaScript and TypeScript runtime
-- [angularfire](https://github.com/angular/angularfire)
-  - The official Angular library for Firebase.
-- [xstate](https://github.com/davidkpiano/xstate)
-  - State machines and statecharts for the modern web.
-- [swr](https://github.com/zeit/swr)
-  - React Hooks library for remote data fetching
-- [caprine](https://github.com/sindresorhus/caprine)
-  - Elegant Facebook Messenger desktop app
-- [ionic](https://github.com/ionic-team/ionic)
-  - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
-- [vscode-live-server](https://github.com/ritwickdey/vscode-live-server)
-  - Launch a development local Server with live reload feature for static & dynamic pages.
-- [darkreader](https://github.com/darkreader/darkreader)
-  - Dark Reader Chrome and Firefox extension
-- [TypeScript](https://github.com/microsoft/TypeScript)
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [amplify-js](https://github.com/aws-amplify/amplify-js)
-  - A declarative JavaScript library for application development using cloud services.
-- [stack](https://github.com/react-navigation/stack)
-  - Stack navigator for React Navigation
+- [tfjs](https://github.com/tensorflow/tfjs)
+  - A WebGL accelerated JavaScript library for training and deploying ML models.
+- [typeorm](https://github.com/typeorm/typeorm)
+  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+- [unform](https://github.com/Rocketseat/unform)
+  - ReactJS form library to create uncontrolled form structures with nested fields, validations and much more!
+- [photonjs](https://github.com/prisma/photonjs)
+  - Type-safe database client for TypeScript & Node.js (ORM replacement)
+- [vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples)
+  - Sample code illustrating the VS Code extension API.
+- [rap2-delos](https://github.com/thx/rap2-delos)
+  - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
+- [craft.js](https://github.com/prevwong/craft.js)
+  - 🚀 A React Framework for building extensible drag and drop page editors
+- [angular](https://github.com/angular/angular)
+  - One framework. Mobile & desktop.
 - [rough](https://github.com/pshihn/rough)
   - Create graphics with a hand-drawn, sketchy, appearance
-- [NativeScript](https://github.com/NativeScript/NativeScript)
-  - NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
+- [rxjs](https://github.com/ReactiveX/rxjs)
+  - A reactive programming library for JavaScript
+- [button-card](https://github.com/custom-cards/button-card)
+  - Lovelace button-card for home assistant
+- [fluent-ui-react](https://github.com/microsoft/fluent-ui-react)
+  - A work in progress; please stand by.
+- [ipod-classic-js](https://github.com/tvillarete/ipod-classic-js)
+  - An iPod Classic built using React Hooks, TypeScript, & GraphQL
 - [solid](https://github.com/ryansolid/solid)
   - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [Babylon.js](https://github.com/BabylonJS/Babylon.js)
-  - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
-- [firebase-js-sdk](https://github.com/firebase/firebase-js-sdk)
-  - Firebase Javascript SDK
-- [material-components-web-components](https://github.com/material-components/material-components-web-components)
-  - Material Design Web Components
-- [vue-next](https://github.com/vuejs/vue-next)
-  - 
-- [JDCouponAssistant](https://github.com/krapnikkk/JDCouponAssistant)
-  - 京东网页领券助手
-- [fp-ts](https://github.com/gcanti/fp-ts)
-  - Functional programming in TypeScript
-- [remax](https://github.com/remaxjs/remax)
-  - 使用真正的 React 构建小程序
-- [Presences](https://github.com/PreMiD/Presences)
-  - 🛒 Storage for Presences located at our Presence Store.
-- [metastream](https://github.com/samuelmaddock/metastream)
-  - Watch streaming media with friends.
+- [HAP-NodeJS](https://github.com/KhaosT/HAP-NodeJS)
+  - Node.js implementation of HomeKit Accessory Server.
+- [vuetify](https://github.com/vuetifyjs/vuetify)
+  - 🐉 Material Component Framework for Vue
+- [angularfire](https://github.com/angular/angularfire)
+  - The official Angular library for Firebase.
+- [tfjs-models](https://github.com/tensorflow/tfjs-models)
+  - Pretrained models for TensorFlow.js
+- [stack](https://github.com/react-navigation/stack)
+  - Stack navigator for React Navigation
