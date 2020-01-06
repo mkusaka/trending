@@ -1,51 +1,51 @@
 # rust
-- [examples](https://github.com/actix/examples)
-  - Actix web examples
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-  - A curated list of Rust code and resources.
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [nushell](https://github.com/nushell/nushell)
-  - A modern shell written in Rust
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix web is a small, pragmatic, and extremely fast rust web framework.
-- [actix](https://github.com/actix/actix)
-  - Actor framework for Rust
-- [ggez](https://github.com/ggez/ggez)
-  - Rust library to create a Good Game Easily
-- [rustlings](https://github.com/rust-lang/rustlings)
-  - Small exercises to get you used to reading and writing Rust code!
-- [winit](https://github.com/rust-windowing/winit)
-  - Window handling library in pure Rust
-- [rust-postgres](https://github.com/sfackler/rust-postgres)
-  - Native PostgreSQL driver for the Rust programming language
-- [amethyst](https://github.com/amethyst/amethyst)
-  - Data-oriented and data-driven game engine written in Rust
 - [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
   - Unofficial Bitwarden compatible server written in Rust
+- [rustlings](https://github.com/rust-lang/rustlings)
+  - Small exercises to get you used to reading and writing Rust code!
+- [sqlx](https://github.com/launchbadge/sqlx)
+  - 🧰 The Rust SQL Toolkit.
+- [amethyst](https://github.com/amethyst/amethyst)
+  - Data-oriented and data-driven game engine written in Rust
+- [996.ICU](https://github.com/996icu/996.ICU)
+  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [xi-editor](https://github.com/xi-editor/xi-editor)
+  - A modern editor with a backend written in Rust.
+- [lemmy](https://github.com/dessalines/lemmy)
+  - 🐀 Building a federated alternative to reddit in rust
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
+- [examples](https://github.com/actix/examples)
+  - Actix web examples
+- [servo](https://github.com/servo/servo)
+  - The Servo Browser Engine
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
 - [reqwest](https://github.com/seanmonstar/reqwest)
   - An easy and powerful Rust HTTP Client
-- [cranelift](https://github.com/bytecodealliance/cranelift)
-  - Cranelift code generator
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
-- [juniper](https://github.com/graphql-rust/juniper)
-  - GraphQL server library for Rust
-- [mio](https://github.com/tokio-rs/mio)
-  - Metal IO library for Rust
-- [wasmtime](https://github.com/bytecodealliance/wasmtime)
-  - Standalone JIT-style runtime for WebAssembly, using Cranelift
-- [futures-rs](https://github.com/rust-lang/futures-rs)
-  - Zero-cost asynchronous programming in Rust
-- [librespot](https://github.com/librespot-org/librespot)
-  - Open Source Spotify client library
-- [book](https://github.com/rust-lang/book)
-  - The Rust Programming Language
-- [spotify-tui](https://github.com/Rigellute/spotify-tui)
-  - Spotify for the terminal written in Rust 🚀
-- [spotifyd](https://github.com/Spotifyd/spotifyd)
-  - A spotify daemon
+- [tauri](https://github.com/tauri-apps/tauri)
+  - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
+- [citybound](https://github.com/citybound/citybound)
+  - A work-in-progress, open-source, multi-player city simulation game.
+- [grin](https://github.com/mimblewimble/grin)
+  - Minimal implementation of the Mimblewimble protocol.
+- [druid](https://github.com/xi-editor/druid)
+  - A data-first Rust-native UI design toolkit.
+- [swc](https://github.com/swc-project/swc)
+  - Super-fast typescript / javascript compiler written in rust
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix web is a small, pragmatic, and extremely fast rust web framework.
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
+- [exa](https://github.com/ogham/exa)
+  - A modern version of ‘ls’.
 - [rusty_v8](https://github.com/denoland/rusty_v8)
   - V8 javascript bindings for Rust
+- [azul](https://github.com/maps4print/azul)
+  - Desktop GUI Framework
+- [xsv](https://github.com/BurntSushi/xsv)
+  - A fast CSV command line toolkit written in Rust.
