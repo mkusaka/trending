@@ -12,7 +12,7 @@
 - [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
   - 一个基于 electron 的音乐软件
 - [selectize.js](https://github.com/selectize/selectize.js)
-  - Selectize is the hybrid of a textbox and <select> box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.
+  - Selectize is the hybrid of a textbox and \<select> box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.
 - [api-platform](https://github.com/api-platform/api-platform)
   - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
 - [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
