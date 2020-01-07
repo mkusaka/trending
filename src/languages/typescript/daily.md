@@ -1,51 +1,51 @@
 # typescript
 - [excalidraw](https://github.com/excalidraw/excalidraw)
   - Sketch hand-drawn like diagrams
-- [ionicons](https://github.com/ionic-team/ionicons)
-  - The premium icon font for Ionic Framework and web apps everywhere
-- [code-server](https://github.com/cdr/code-server)
-  - Run VS Code on a remote server.
-- [polaris-react](https://github.com/Shopify/polaris-react)
-  - Shopify’s product component library
-- [kibana](https://github.com/elastic/kibana)
-  - Your window into the Elastic Stack
-- [nest](https://github.com/nestjs/nest)
-  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-- [tfjs](https://github.com/tensorflow/tfjs)
-  - A WebGL accelerated JavaScript library for training and deploying ML models.
-- [typeorm](https://github.com/typeorm/typeorm)
-  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-- [unform](https://github.com/Rocketseat/unform)
-  - ReactJS form library to create uncontrolled form structures with nested fields, validations and much more!
-- [photonjs](https://github.com/prisma/photonjs)
-  - Type-safe database client for TypeScript & Node.js (ORM replacement)
-- [vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples)
-  - Sample code illustrating the VS Code extension API.
-- [rap2-delos](https://github.com/thx/rap2-delos)
-  - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
-- [craft.js](https://github.com/prevwong/craft.js)
-  - 🚀 A React Framework for building extensible drag and drop page editors
 - [angular](https://github.com/angular/angular)
   - One framework. Mobile & desktop.
-- [rough](https://github.com/pshihn/rough)
-  - Create graphics with a hand-drawn, sketchy, appearance
-- [rxjs](https://github.com/ReactiveX/rxjs)
-  - A reactive programming library for JavaScript
-- [button-card](https://github.com/custom-cards/button-card)
-  - Lovelace button-card for home assistant
+- [html2canvas](https://github.com/niklasvh/html2canvas)
+  - Screenshots with JavaScript
+- [grafana](https://github.com/grafana/grafana)
+  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [ant-design](https://github.com/ant-design/ant-design)
+  - 🌈 A UI Design Language and React UI library
+- [react-intl](https://github.com/formatjs/react-intl)
+  - Internationalize React apps. This library provides React components and an API to format dates, numbers, and strings, including pluralization and handling translations.
+- [aws-cdk](https://github.com/aws/aws-cdk)
+  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+- [vue-next](https://github.com/vuejs/vue-next)
+  - 
+- [ionic](https://github.com/ionic-team/ionic)
+  - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
+- [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
+  - Tasks for Azure Pipelines
+- [kibana](https://github.com/elastic/kibana)
+  - Your window into the Elastic Stack
+- [NativeScript](https://github.com/NativeScript/NativeScript)
+  - NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
+- [tinymce](https://github.com/tinymce/tinymce)
+  - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
+- [craft.js](https://github.com/prevwong/craft.js)
+  - 🚀 A React Framework for building extensible drag and drop page editors
+- [davinci](https://github.com/edp963/davinci)
+  - Davinci is a DVsaaS (Data Visualization as a Service) Platform
+- [sp-dev-fx-webparts](https://github.com/SharePoint/sp-dev-fx-webparts)
+  - SharePoint Framework client-side web part samples and related assets.
+- [azuredatastudio](https://github.com/microsoft/azuredatastudio)
+  - Azure Data Studio is a data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
+- [xstate](https://github.com/davidkpiano/xstate)
+  - State machines and statecharts for the modern web.
 - [fluent-ui-react](https://github.com/microsoft/fluent-ui-react)
   - A work in progress; please stand by.
-- [ipod-classic-js](https://github.com/tvillarete/ipod-classic-js)
-  - An iPod Classic built using React Hooks, TypeScript, & GraphQL
-- [solid](https://github.com/ryansolid/solid)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [HAP-NodeJS](https://github.com/KhaosT/HAP-NodeJS)
-  - Node.js implementation of HomeKit Accessory Server.
-- [vuetify](https://github.com/vuetifyjs/vuetify)
-  - 🐉 Material Component Framework for Vue
-- [angularfire](https://github.com/angular/angularfire)
-  - The official Angular library for Firebase.
-- [tfjs-models](https://github.com/tensorflow/tfjs-models)
-  - Pretrained models for TensorFlow.js
-- [stack](https://github.com/react-navigation/stack)
-  - Stack navigator for React Navigation
+- [notepad](https://github.com/notepad/notepad)
+  - Minimalist blogging.
+- [flatpickr](https://github.com/flatpickr/flatpickr)
+  - lightweight, powerful javascript datetimepicker with no dependencies
+- [theia](https://github.com/eclipse-theia/theia)
+  - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+- [react-use](https://github.com/streamich/react-use)
+  - React Hooks — 👍
+- [redoc](https://github.com/Redocly/redoc)
+  - 📘 OpenAPI/Swagger-generated API Reference Documentation
+- [react-native-paper](https://github.com/callstack/react-native-paper)
+  - Material Design for React Native (Android & iOS)

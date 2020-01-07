@@ -1,51 +1,51 @@
 # c++
-- [cutter](https://github.com/radareorg/cutter)
-  - Free and Open Source Reverse Engineering Platform powered by radare2
+- [taichi](https://github.com/yuanming-hu/taichi)
+  - The Taichi programming language
+- [tesseract](https://github.com/tesseract-ocr/tesseract)
+  - Tesseract Open Source OCR Engine (main repository)
+- [allwpilib](https://github.com/wpilibsuite/allwpilib)
+  - Official Repository of WPILibJ and WPILibC
+- [grpc](https://github.com/grpc/grpc)
+  - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [vcmi](https://github.com/vcmi/vcmi)
   - Open-source engine for Heroes of Might and Magic III
-- [Magisk](https://github.com/topjohnwu/Magisk)
-  - A Magic Mask to Alter Android System Systemless-ly
-- [calculator](https://github.com/microsoft/calculator)
-  - Windows Calculator: A simple yet powerful calculator that ships with Windows
-- [Tasmota](https://github.com/arendst/Tasmota)
-  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
-- [opencv](https://github.com/opencv/opencv)
-  - Open Source Computer Vision Library
-- [MuseScore](https://github.com/musescore/MuseScore)
-  - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
-- [td](https://github.com/tdlib/td)
-  - Cross-platform library for building Telegram clients
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL)
-  - Code repository of all OpenGL tutorials found at https://learnopengl.com
-- [BIGTREETECH-SKR-mini-E3](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3)
-  - BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.
+- [benchmark](https://github.com/google/benchmark)
+  - A microbenchmark support library
+- [faiss](https://github.com/facebookresearch/faiss)
+  - A library for efficient similarity search and clustering of dense vectors.
+- [pybind11](https://github.com/pybind/pybind11)
+  - Seamless operability between C++11 and Python
+- [protobuf](https://github.com/protocolbuffers/protobuf)
+  - Protocol Buffers - Google's data interchange format
+- [ClickHouse](https://github.com/ClickHouse/ClickHouse)
+  - ClickHouse is a free analytics DBMS for big data
+- [grpc-web](https://github.com/grpc/grpc-web)
+  - gRPC for Web Clients
+- [makennbot](https://github.com/IdleHandsProject/makennbot)
+  - A neural network bot for Make
+- [Catch2](https://github.com/catchorg/Catch2)
+  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [librealsense](https://github.com/IntelRealSense/librealsense)
+  - Intel® RealSense™ SDK
+- [pcl](https://github.com/PointCloudLibrary/pcl)
+  - Point Cloud Library (PCL)
+- [cutter](https://github.com/radareorg/cutter)
+  - Free and Open Source Reverse Engineering Platform powered by radare2
+- [openvslam](https://github.com/xdspacelab/openvslam)
+  - OpenVSLAM: A Versatile Visual SLAM Framework
 - [Firmware](https://github.com/PX4/Firmware)
   - PX4 Autopilot Software
-- [leela-zero](https://github.com/leela-zero/leela-zero)
-  - Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.
-- [qTox](https://github.com/qTox/qTox)
-  - qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.
-- [ardupilot](https://github.com/ArduPilot/ardupilot)
-  - ArduPlane, ArduCopter, ArduRover source
-- [DirectX-Graphics-Samples](https://github.com/microsoft/DirectX-Graphics-Samples)
-  - This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows.
-- [aseprite](https://github.com/aseprite/aseprite)
-  - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
-- [olive](https://github.com/olive-editor/olive)
-  - Free open-source non-linear video editor
-- [cherrytree](https://github.com/giuspen/cherrytree)
-  - cherrytree
-- [conky](https://github.com/brndnmtthws/conky)
-  - Light-weight system monitor for X.
-- [yosys](https://github.com/YosysHQ/yosys)
-  - Yosys Open SYnthesis Suite
-- [simdjson](https://github.com/lemire/simdjson)
-  - Parsing gigabytes of JSON per second
-- [dolphin](https://github.com/dolphin-emu/dolphin)
-  - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
-- [Marlin](https://github.com/MarlinFirmware/Marlin)
-  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
-- [citra](https://github.com/citra-emu/citra)
-  - A Nintendo 3DS Emulator
+- [interpret](https://github.com/interpretml/interpret)
+  - Fit interpretable machine learning models. Explain blackbox machine learning.
+- [scylla](https://github.com/scylladb/scylla)
+  - NoSQL data store using the seastar framework, compatible with Apache Cassandra
+- [swift](https://github.com/apple/swift)
+  - The Swift Programming Language
+- [osrm-backend](https://github.com/Project-OSRM/osrm-backend)
+  - Open Source Routing Machine - C++ backend
+- [taichi_mpm](https://github.com/yuanming-hu/taichi_mpm)
+  - High-performance material point method (MPM) solver. (ACM Transactions on Graphics, SIGGRAPH 2018)
+- [pencil](https://github.com/pencil2d/pencil)
+  - Pencil2D is an easy, intuitive tool to make 2D hand-drawn animations. Pencil2D is open source and cross-platform.
+- [assimp](https://github.com/assimp/assimp)
+  - The official Open-Asset-Import-Library Repository. Loads 40+ 3D file formats into one unified and clean data structure.

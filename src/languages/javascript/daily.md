@@ -1,51 +1,51 @@
 # javascript
 - [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript)
   - A 30 days of JavaScript programming challenge
-- [parcel](https://github.com/parcel-bundler/parcel)
-  - 📦🚀 Blazing fast, zero configuration web application bundler
+- [gatsby](https://github.com/gatsbyjs/gatsby)
+  - Build blazing fast, modern apps and websites with React
+- [cypress](https://github.com/cypress-io/cypress)
+  - Fast, easy and reliable testing for anything that runs in a browser.
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [d3](https://github.com/d3/d3)
+  - Bring data to life with SVG, Canvas and HTML. 📊📈🎉
 - [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
   - 一个基于 electron 的音乐软件
-- [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
-  -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui)
-  - A desktop application for downloading Udemy Courses
-- [discord.js](https://github.com/discordjs/discord.js)
-  - A powerful JavaScript library for interacting with the Discord API
-- [MagicMirror](https://github.com/MichMich/MagicMirror)
-  - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
-- [Motrix](https://github.com/agalwood/Motrix)
-  - A full-featured download manager.
-- [beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks)
-  - 🔥A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
-- [flexsearch](https://github.com/nextapps-de/flexsearch)
-  - Next-Generation full text search library for Browser and Node.js
-- [phaser](https://github.com/photonstorm/phaser)
-  - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-- [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
-  - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
-- [webtorrent](https://github.com/webtorrent/webtorrent)
-  - ⚡️ Streaming torrent client for the web
-- [markdown-here](https://github.com/adam-p/markdown-here)
-  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
-- [Script](https://github.com/NobyDa/Script)
-  - 
-- [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap)
-  - Roadmap to becoming a React developer in 2019
-- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
-  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [shri-2020-task-1](https://github.com/yndx-shri-reviewer/shri-2020-task-1)
-  - Задание 1. Реализуйте дизайн-систему — ШРИ, Москва, 2020
-- [node](https://github.com/nodejs/node)
-  - Node.js JavaScript runtime ✨🐢🚀✨
-- [jest](https://github.com/facebook/jest)
-  - Delightful JavaScript Testing.
-- [mattermost-webapp](https://github.com/mattermost/mattermost-webapp)
-  - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
-- [node_passport_login](https://github.com/bradtraversy/node_passport_login)
-  - Node.js login, registration and access control using Express and Passport
-- [gekko](https://github.com/askmike/gekko)
-  - A bitcoin trading bot written in node - https://gekko.wizb.it/
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
-  - 💯 Materials to help you rock your next coding interview
+- [selectize.js](https://github.com/selectize/selectize.js)
+  - Selectize is the hybrid of a textbox and \<select> box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.
+- [api-platform](https://github.com/api-platform/api-platform)
+  - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
+- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
+  - 🎆Interactive Online Platform that Visualizes Algorithms from Code
+- [dash.js](https://github.com/Dash-Industry-Forum/dash.js)
+  - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
+- [theme-ui](https://github.com/system-ui/theme-ui)
+  - Build consistent, themeable React apps based on constraint-based design principles
+- [axios](https://github.com/axios/axios)
+  - Promise based HTTP client for the browser and node.js
+- [parcel](https://github.com/parcel-bundler/parcel)
+  - 📦🚀 Blazing fast, zero configuration web application bundler
+- [generator-jhipster](https://github.com/jhipster/generator-jhipster)
+  - Open Source application platform for creating Spring Boot + Angular/React projects in seconds!
+- [faker.js](https://github.com/Marak/faker.js)
+  - generate massive amounts of realistic fake data in Node.js and the browser
+- [intl-tel-input](https://github.com/jackocnr/intl-tel-input)
+  - A JavaScript plugin for entering and validating international telephone numbers
+- [carbon](https://github.com/carbon-design-system/carbon)
+  - A design system built by IBM
+- [summernote](https://github.com/summernote/summernote)
+  - Super simple WYSIWYG editor
+- [swagger-ui](https://github.com/swagger-api/swagger-ui)
+  - Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
+- [jsPDF](https://github.com/MrRio/jsPDF)
+  - Client-side JavaScript PDF generation for everyone.
+- [next.js](https://github.com/zeit/next.js)
+  - The React Framework
+- [moment](https://github.com/moment/moment)
+  - Parse, validate, manipulate, and display dates in javascript.
+- [oidc-client-js](https://github.com/IdentityModel/oidc-client-js)
+  - OpenID Connect (OIDC) and OAuth2 protocol support for browser-based JavaScript applications
+- [semantic-release](https://github.com/semantic-release/semantic-release)
+  - 📦🚀 Fully automated version management and package publishing
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.

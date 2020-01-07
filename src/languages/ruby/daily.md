@@ -1,51 +1,51 @@
 # ruby
-- [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
-  - A curated list of engineering blogs
-- [chatwoot](https://github.com/chatwoot/chatwoot)
-  - Simple and elegant live chat software 🔥💬
-- [mastodon](https://github.com/tootsuite/mastodon)
-  - Your self-hosted, globally interconnected microblogging community
-- [astuto](https://github.com/riggraz/astuto)
-  - A free, open source, self-hosted customer feedback tool 🦊
-- [devise](https://github.com/plataformatec/devise)
-  - Flexible authentication solution for Rails with Warden.
-- [evil-winrm](https://github.com/Hackplayers/evil-winrm)
-  - The ultimate WinRM shell for hacking/pentesting
 - [rubocop](https://github.com/rubocop-hq/rubocop)
   - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [asciidoctor-pdf](https://github.com/asciidoctor/asciidoctor-pdf)
-  - 📃 Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.
-- [tmuxinator](https://github.com/tmuxinator/tmuxinator)
-  - Manage complex tmux sessions easily
-- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
-  - Metasploit Framework
-- [discourse](https://github.com/discourse/discourse)
-  - A platform for community discussion. Free, open, simple.
-- [maximum-awesome](https://github.com/square/maximum-awesome)
-  - Config files for vim and tmux.
-- [explore](https://github.com/github/explore)
-  - Community-curated topic and collection pages on GitHub
-- [brew](https://github.com/Homebrew/brew)
-  - 🍺 The missing package manager for macOS (or Linux)
-- [lolcat](https://github.com/busyloop/lolcat)
-  - Rainbows and unicorns!
-- [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator)
-  - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
-- [lobsters](https://github.com/lobsters/lobsters)
-  - Computing-focused community centered around link aggregation and discussion
-- [danbooru](https://github.com/danbooru/danbooru)
-  - Danbooru is a taggable image board written in Rails 6.
-- [dev.to](https://github.com/thepracticaldev/dev.to)
-  - Where programmers share ideas and help each other grow
+- [factory_bot](https://github.com/thoughtbot/factory_bot)
+  - A library for setting up Ruby objects as test data.
+- [fastlane](https://github.com/fastlane/fastlane)
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [sidekiq](https://github.com/mperham/sidekiq)
+  - Simple, efficient background processing for Ruby
+- [rspec-rails](https://github.com/rspec/rspec-rails)
+  - RSpec for Rails-3+
+- [webpacker](https://github.com/rails/webpacker)
+  - Use Webpack to manage app-like JavaScript modules in Rails
+- [bullet](https://github.com/flyerhzm/bullet)
+  - help to kill N+1 queries and unused eager loading
+- [activeadmin](https://github.com/activeadmin/activeadmin)
+  - The administration framework for Ruby on Rails applications.
+- [setup](https://github.com/lewagon/setup)
+  - Setup instructions for Le Wagon's students on their first day of camp
+- [vagrant](https://github.com/hashicorp/vagrant)
+  - Vagrant is a tool for building and distributing development environments.
+- [app-host](https://github.com/pluosi/app-host)
+  - 应用内网发布 | iOS OTA (Over-the-Air) | APP publish website like fir.im | 适用于企业 iOS & Android 内网发布测试使用，方便管理和分发 APP 包
+- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+- [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails)
+  - Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
 - [rails](https://github.com/rails/rails)
   - Ruby on Rails
-- [shrine](https://github.com/shrinerb/shrine)
-  - File Attachment toolkit for Ruby applications
-- [solargraph](https://github.com/castwide/solargraph)
-  - A Ruby language server.
-- [markup](https://github.com/github/markup)
-  - Determines which markup library to use to render a content file (e.g. README) on GitHub
-- [sinatra-from-scratch-readme](https://github.com/learn-co-curriculum/sinatra-from-scratch-readme)
-  - 
-- [dotenv](https://github.com/bkeepers/dotenv)
-  - A Ruby gem to load environment variables from `.env`.
+- [chatwoot](https://github.com/chatwoot/chatwoot)
+  - Simple and elegant live chat software 🔥💬
+- [ransack](https://github.com/activerecord-hackery/ransack)
+  - Object-based searching.
+- [puppet](https://github.com/puppetlabs/puppet)
+  - Server automation framework and application
+- [axlsx](https://github.com/randym/axlsx)
+  - xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your…
+- [pghero](https://github.com/ankane/pghero)
+  - A performance dashboard for Postgres
+- [devise](https://github.com/plataformatec/devise)
+  - Flexible authentication solution for Rails with Warden.
+- [faraday](https://github.com/lostisland/faraday)
+  - Simple, but flexible HTTP client library, with support for multiple backends.
+- [elasticsearch-ruby](https://github.com/elastic/elasticsearch-ruby)
+  - Ruby integrations for Elasticsearch
+- [rswag](https://github.com/rswag/rswag)
+  - Seamlessly adds a Swagger to Rails-based API's
+- [capybara-webkit](https://github.com/thoughtbot/capybara-webkit)
+  - A Capybara driver for headless WebKit to test JavaScript web apps
+- [pundit](https://github.com/varvet/pundit)
+  - Minimal authorization through OO design and pure Ruby classes
