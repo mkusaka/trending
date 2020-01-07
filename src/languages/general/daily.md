@@ -1,51 +1,51 @@
 # general
+- [kratos](https://github.com/bilibili/kratos) : Go
+  - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
 - [JobFunnel](https://github.com/PaulMcInnis/JobFunnel) : Python
   - Tool for scraping job websites, and filtering and reviewing the job listings
-- [kubectl-tree](https://github.com/ahmetb/kubectl-tree) : Go
-  - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (using? star the repo!)
 - [excalidraw](https://github.com/excalidraw/excalidraw) : TypeScript
   - Sketch hand-drawn like diagrams
+- [scrcpy](https://github.com/Genymobile/scrcpy) : C
+  - Display and control your Android device
+- [degoogle](https://github.com/tycrek/degoogle) : 
+  - Repo for the r/privacy "degoogle" megathread
+- [practicalAI](https://github.com/practicalAI/practicalAI) : Jupyter Notebook
+  - 📚 A practical approach to machine learning to enable everyone to learn, explore and build.
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
   - A complete computer science study plan to become a software engineer.
-- [hakrawler](https://github.com/hakluke/hakrawler) : Go
-  - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
-- [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) : JavaScript
-  - A 30 days of JavaScript programming challenge
-- [AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) : 
-  - Roadmap to becoming an ASP.NET Core developer in 2019
-- [keras-ocr](https://github.com/faustomorales/keras-ocr) : Python
-  - A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model.
 - [MemLabs](https://github.com/stuxnet999/MemLabs) : Roff
   - Educational, CTF-styled labs for individuals interested in Memory Forensics
-- [parcel](https://github.com/parcel-bundler/parcel) : JavaScript
-  - 📦🚀 Blazing fast, zero configuration web application bundler
-- [awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) : 
-  - An effort to build a single place for all useful android and iOS security related stuff. All references and tools are belong to their respective owners. I'm just maintaining it.
+- [taichi](https://github.com/yuanming-hu/taichi) : C++
+  - The Taichi programming language
+- [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) : JavaScript
+  - A 30 days of JavaScript programming challenge
 - [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) : Python
   - A list of awesome applications, software, tools and other materials for Linux distros.
-- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) : JavaScript
-  - 一个基于 electron 的音乐软件
-- [BedrockFramework](https://github.com/davidfowl/BedrockFramework) : C#
-  - High performance, low level networking APIs for building custom severs and clients.
+- [acwj](https://github.com/DoctorWkt/acwj) : C
+  - A Compiler Writing Journey
+- [predicting-car-price-from-scraped-data](https://github.com/nicolas-gervais/predicting-car-price-from-scraped-data) : Jupyter Notebook
+  - Picture and specifications scraper
+- [2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement](https://github.com/Mingtzge/2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement) : Python
+  - 2019CCF-BDCI大赛 最佳创新探索奖获得者 基于OCR身份证要素提取赛题冠军 天晨破晓团队 赛题源码
+- [toolbox](https://github.com/amitness/toolbox) : 
+  - Curated list of libraries for a faster machine learning workflow
+- [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) : 
+  - A list of resources for those interested in getting started in bug bounties
+- [kubernetes](https://github.com/kubernetes/kubernetes) : Go
+  - Production-Grade Container Scheduling and Management
+- [awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) : 
+  - An effort to build a single place for all useful android and iOS security related stuff. All references and tools are belong to their respective owners. I'm just maintaining it.
 - [awesome-java](https://github.com/Snailclimb/awesome-java) : 
   - Collection of awesome Java project on Github(Github 上非常棒的 Java 开源项目集合).
-- [Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0) : Jupyter Notebook
-  - 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为TensorFlow 2.0实现，项目已得到李沐老师的同意
-- [EfficientDet.Pytorch](https://github.com/toandaominh1997/EfficientDet.Pytorch) : Python
-  - Implementation EfficientDet: Scalable and Efficient Object Detection in PyTorch
-- [cutter](https://github.com/radareorg/cutter) : C++
-  - Free and Open Source Reverse Engineering Platform powered by radare2
-- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
-  - Course Files for Complete Python 3 Bootcamp Course on Udemy
-- [awesome-mac](https://github.com/jaywcjlove/awesome-mac) : JavaScript
-  -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [eng-practices](https://github.com/google/eng-practices) : 
+  - Google's Engineering Practices documentation
+- [gatsby](https://github.com/gatsbyjs/gatsby) : JavaScript
+  - Build blazing fast, modern apps and websites with React
 - [CPython-Internals](https://github.com/zpoint/CPython-Internals) : Python
   - Dive into CPython internals, trying to illustrate every detail of CPython implementation | CPython 源码阅读笔记, 多图展示底层实现细节
-- [SOTabBar](https://github.com/Ahmadalsofi/SOTabBar) : Swift
-  - Light way to add Fancy bottom bar 📲
-- [0x4447_product_s3_email](https://github.com/0x4447/0x4447_product_s3_email) : 
-  - 📫 A serverless email server on AWS using S3 and SES
-- [halo](https://github.com/halo-dev/halo) : Java
-  - ✍ Halo 一款现代化的个人独立博客系统
-- [vcmi](https://github.com/vcmi/vcmi) : C++
-  - Open-source engine for Heroes of Might and Magic III
+- [collapseos](https://github.com/hsoft/collapseos) : Assembly
+  - Bootstrap post-collapse technology
+- [AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) : 
+  - Roadmap to becoming an ASP.NET Core developer in 2019
+- [cypress](https://github.com/cypress-io/cypress) : JavaScript
+  - Fast, easy and reliable testing for anything that runs in a browser.
