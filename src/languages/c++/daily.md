@@ -1,51 +1,51 @@
 # c++
 - [taichi](https://github.com/yuanming-hu/taichi)
   - The Taichi programming language
-- [tesseract](https://github.com/tesseract-ocr/tesseract)
-  - Tesseract Open Source OCR Engine (main repository)
-- [allwpilib](https://github.com/wpilibsuite/allwpilib)
-  - Official Repository of WPILibJ and WPILibC
-- [grpc](https://github.com/grpc/grpc)
-  - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-- [vcmi](https://github.com/vcmi/vcmi)
-  - Open-source engine for Heroes of Might and Magic III
-- [benchmark](https://github.com/google/benchmark)
-  - A microbenchmark support library
-- [faiss](https://github.com/facebookresearch/faiss)
-  - A library for efficient similarity search and clustering of dense vectors.
-- [pybind11](https://github.com/pybind/pybind11)
-  - Seamless operability between C++11 and Python
-- [protobuf](https://github.com/protocolbuffers/protobuf)
-  - Protocol Buffers - Google's data interchange format
-- [ClickHouse](https://github.com/ClickHouse/ClickHouse)
-  - ClickHouse is a free analytics DBMS for big data
-- [grpc-web](https://github.com/grpc/grpc-web)
-  - gRPC for Web Clients
-- [makennbot](https://github.com/IdleHandsProject/makennbot)
-  - A neural network bot for Make
-- [Catch2](https://github.com/catchorg/Catch2)
-  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-- [librealsense](https://github.com/IntelRealSense/librealsense)
-  - Intel® RealSense™ SDK
-- [pcl](https://github.com/PointCloudLibrary/pcl)
-  - Point Cloud Library (PCL)
-- [cutter](https://github.com/radareorg/cutter)
-  - Free and Open Source Reverse Engineering Platform powered by radare2
-- [openvslam](https://github.com/xdspacelab/openvslam)
-  - OpenVSLAM: A Versatile Visual SLAM Framework
-- [Firmware](https://github.com/PX4/Firmware)
-  - PX4 Autopilot Software
-- [interpret](https://github.com/interpretml/interpret)
-  - Fit interpretable machine learning models. Explain blackbox machine learning.
-- [scylla](https://github.com/scylladb/scylla)
-  - NoSQL data store using the seastar framework, compatible with Apache Cassandra
-- [swift](https://github.com/apple/swift)
-  - The Swift Programming Language
-- [osrm-backend](https://github.com/Project-OSRM/osrm-backend)
-  - Open Source Routing Machine - C++ backend
 - [taichi_mpm](https://github.com/yuanming-hu/taichi_mpm)
   - High-performance material point method (MPM) solver. (ACM Transactions on Graphics, SIGGRAPH 2018)
-- [pencil](https://github.com/pencil2d/pencil)
-  - Pencil2D is an easy, intuitive tool to make 2D hand-drawn animations. Pencil2D is open source and cross-platform.
-- [assimp](https://github.com/assimp/assimp)
-  - The official Open-Asset-Import-Library Repository. Loads 40+ 3D file formats into one unified and clean data structure.
+- [json](https://github.com/nlohmann/json)
+  - JSON for Modern C++
+- [GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
+  - Starting code for the GildedRose Refactoring Kata in many programming languages.
+- [skia](https://github.com/google/skia)
+  - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
+- [xgboost](https://github.com/dmlc/xgboost)
+  - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
+- [ClickHouse](https://github.com/ClickHouse/ClickHouse)
+  - ClickHouse is a free analytics DBMS for big data
+- [multipass](https://github.com/canonical/multipass)
+  - Multipass orchestrates virtual Ubuntu instances
+- [protobuf](https://github.com/protocolbuffers/protobuf)
+  - Protocol Buffers - Google's data interchange format
+- [Catch2](https://github.com/catchorg/Catch2)
+  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [spdlog](https://github.com/gabime/spdlog)
+  - Fast C++ logging library.
+- [onnxruntime](https://github.com/microsoft/onnxruntime)
+  - ONNX Runtime: cross-platform, high performance scoring engine for ML models
+- [googletest](https://github.com/google/googletest)
+  - Googletest - Google Testing and Mocking Framework
+- [async-profiler](https://github.com/jvm-profiling-tools/async-profiler)
+  - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events
+- [yosys](https://github.com/YosysHQ/yosys)
+  - Yosys Open SYnthesis Suite
+- [mediapipe](https://github.com/google/mediapipe)
+  - MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
+- [yoga](https://github.com/facebook/yoga)
+  - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
+- [s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse)
+  - FUSE-based file system backed by Amazon S3
+- [cuda-samples](https://github.com/NVIDIA/cuda-samples)
+  - Samples for CUDA Developers which demonstrates features in CUDA Toolkit
+- [pytorch](https://github.com/pytorch/pytorch)
+  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [doxygen](https://github.com/doxygen/doxygen)
+  - Official doxygen git repository
+- [caffe](https://github.com/BVLC/caffe)
+  - Caffe: a fast open framework for deep learning.
+- [eos](https://github.com/EOSIO/eos)
+  - An open source smart contract platform
+- [re2](https://github.com/google/re2)
+  - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+- [electron](https://github.com/electron/electron)
+  - Build cross-platform desktop apps with JavaScript, HTML, and CSS

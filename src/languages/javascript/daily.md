@@ -1,51 +1,51 @@
 # javascript
+- [openlayers](https://github.com/openlayers/openlayers)
+  - OpenLayers
 - [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript)
   - A 30 days of JavaScript programming challenge
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
-- [cypress](https://github.com/cypress-io/cypress)
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [d3](https://github.com/d3/d3)
-  - Bring data to life with SVG, Canvas and HTML. 📊📈🎉
-- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
-  - 一个基于 electron 的音乐软件
-- [selectize.js](https://github.com/selectize/selectize.js)
-  - Selectize is the hybrid of a textbox and \<select> box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.
-- [api-platform](https://github.com/api-platform/api-platform)
-  - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
-- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
-  - 🎆Interactive Online Platform that Visualizes Algorithms from Code
-- [dash.js](https://github.com/Dash-Industry-Forum/dash.js)
-  - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
-- [theme-ui](https://github.com/system-ui/theme-ui)
-  - Build consistent, themeable React apps based on constraint-based design principles
-- [axios](https://github.com/axios/axios)
-  - Promise based HTTP client for the browser and node.js
-- [parcel](https://github.com/parcel-bundler/parcel)
-  - 📦🚀 Blazing fast, zero configuration web application bundler
 - [generator-jhipster](https://github.com/jhipster/generator-jhipster)
   - Open Source application platform for creating Spring Boot + Angular/React projects in seconds!
-- [faker.js](https://github.com/Marak/faker.js)
-  - generate massive amounts of realistic fake data in Node.js and the browser
-- [intl-tel-input](https://github.com/jackocnr/intl-tel-input)
-  - A JavaScript plugin for entering and validating international telephone numbers
-- [carbon](https://github.com/carbon-design-system/carbon)
-  - A design system built by IBM
-- [summernote](https://github.com/summernote/summernote)
-  - Super simple WYSIWYG editor
-- [swagger-ui](https://github.com/swagger-api/swagger-ui)
-  - Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
-- [jsPDF](https://github.com/MrRio/jsPDF)
-  - Client-side JavaScript PDF generation for everyone.
-- [next.js](https://github.com/zeit/next.js)
-  - The React Framework
-- [moment](https://github.com/moment/moment)
-  - Parse, validate, manipulate, and display dates in javascript.
-- [oidc-client-js](https://github.com/IdentityModel/oidc-client-js)
-  - OpenID Connect (OIDC) and OAuth2 protocol support for browser-based JavaScript applications
+- [Thief-Book](https://github.com/cteamx/Thief-Book)
+  - 一款可以在任务栏、桌面、TouchBar上进行摸鱼的最强的跨平台摸鱼神器，支持小说、股票、按键翻页、鼠标翻页、自动翻页让你体验不同的工作 996，上班族必备神器
+- [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
+  - The best design tools and plugins for everything 👉
+- [Script](https://github.com/NobyDa/Script)
+  - 
+- [docusaurus](https://github.com/facebook/docusaurus)
+  - Easy to maintain open source documentation websites.
+- [gatsby](https://github.com/gatsbyjs/gatsby)
+  - Build blazing fast, modern apps and websites with React
+- [axios](https://github.com/axios/axios)
+  - Promise based HTTP client for the browser and node.js
+- [PaperWM](https://github.com/paperwm/PaperWM)
+  - Tiled scrollable window management for Gnome Shell
+- [awx](https://github.com/ansible/awx)
+  - AWX Project
+- [cypress](https://github.com/cypress-io/cypress)
+  - Fast, easy and reliable testing for anything that runs in a browser.
+- [create-react-app](https://github.com/facebook/create-react-app)
+  - Set up a modern web app by running one command.
 - [semantic-release](https://github.com/semantic-release/semantic-release)
   - 📦🚀 Fully automated version management and package publishing
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [examples](https://github.com/serverless/examples)
+  - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
+- [plotly.js](https://github.com/plotly/plotly.js)
+  - Open-source JavaScript charting library behind Plotly and Dash
+- [microservices-demo](https://github.com/lucaschen/microservices-demo)
+  - I've made a full tutorial series on building this! ==>
+- [ramda](https://github.com/ramda/ramda)
+  - 🐏 Practical functional Javascript
+- [markdown-here](https://github.com/adam-p/markdown-here)
+  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+- [javascript](https://github.com/airbnb/javascript)
+  - JavaScript Style Guide
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [carbon](https://github.com/carbon-design-system/carbon)
+  - A design system built by IBM
+- [aws-serverless-workshops](https://github.com/aws-samples/aws-serverless-workshops)
+  - Code and walkthrough labs to set up serverless applications for Wild Rydes workshops
+- [moment](https://github.com/moment/moment)
+  - Parse, validate, manipulate, and display dates in javascript.
+- [vee-validate](https://github.com/logaretm/vee-validate)
+  - ✔ Template Driven Validation Framework for Vue.js

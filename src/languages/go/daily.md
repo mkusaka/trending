@@ -1,51 +1,51 @@
 # go
 - [kratos](https://github.com/bilibili/kratos)
   - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
-- [kubernetes](https://github.com/kubernetes/kubernetes)
-  - Production-Grade Container Scheduling and Management
-- [aws-sdk-go](https://github.com/aws/aws-sdk-go)
-  - AWS SDK for the Go programming language.
-- [hakrawler](https://github.com/hakluke/hakrawler)
-  - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
-- [gin](https://github.com/gin-gonic/gin)
-  - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [sprig](https://github.com/Masterminds/sprig)
-  - Useful template functions for Go templates.
-- [terraform](https://github.com/hashicorp/terraform)
-  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [kubectl-tree](https://github.com/ahmetb/kubectl-tree)
-  - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (using? star the repo!)
+- [Go-Questions](https://github.com/qcrao/Go-Questions)
+  - 从问题切入，串连 Go 语言相关的所有知识，融会贯通。
+- [pipeline](https://github.com/tektoncd/pipeline)
+  - A K8s-native Pipeline resource.
+- [packer](https://github.com/hashicorp/packer)
+  - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+- [kafka-go](https://github.com/segmentio/kafka-go)
+  - Kafka library in Go
+- [gin-jwt](https://github.com/appleboy/gin-jwt)
+  - JWT Middleware for Gin framework
 - [charts](https://github.com/helm/charts)
   - Curated applications for Kubernetes
-- [go-swagger](https://github.com/go-swagger/go-swagger)
-  - Swagger 2.0 implementation for go
-- [grpc-go](https://github.com/grpc/grpc-go)
-  - The Go language implementation of gRPC. HTTP/2 based RPC
-- [protobuf](https://github.com/golang/protobuf)
-  - Go support for Google's protocol buffers
-- [micro](https://github.com/zyedidia/micro)
-  - A modern and intuitive terminal-based text editor
-- [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm)
-  - Terraform provider for Azure Resource Manager
-- [torrent-client](https://github.com/veggiedefender/torrent-client)
-  - Tiny BitTorrent client written in Go
-- [mux](https://github.com/gorilla/mux)
-  - A powerful HTTP router and URL matcher for building Go web servers with 🦍
-- [kops](https://github.com/kubernetes/kops)
-  - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
-- [vitess](https://github.com/vitessio/vitess)
-  - Vitess is a database clustering system for horizontal scaling of MySQL.
-- [containerd](https://github.com/containerd/containerd)
-  - An open and reliable container runtime
-- [client_golang](https://github.com/prometheus/client_golang)
-  - Prometheus instrumentation library for Go applications
+- [mock](https://github.com/golang/mock)
+  - GoMock is a mocking framework for the Go programming language.
 - [argo](https://github.com/argoproj/argo)
   - Argo Workflows: Get stuff done with Kubernetes.
-- [cockroach](https://github.com/cockroachdb/cockroach)
-  - CockroachDB - the open source, cloud-native SQL database.
-- [twirp](https://github.com/twitchtv/twirp)
-  - A simple RPC framework with protobuf service definitions
-- [vegeta](https://github.com/tsenart/vegeta)
-  - HTTP load testing tool and library. It's over 9000!
-- [wire](https://github.com/google/wire)
-  - Compile-time Dependency Injection for Go
+- [oauth2](https://github.com/golang/oauth2)
+  - Go OAuth2
+- [kubernetes](https://github.com/kubernetes/kubernetes)
+  - Production-Grade Container Scheduling and Management
+- [minikube](https://github.com/kubernetes/minikube)
+  - Run Kubernetes locally
+- [fzf](https://github.com/junegunn/fzf)
+  - 🌸 A command-line fuzzy finder
+- [grpc-go](https://github.com/grpc/grpc-go)
+  - The Go language implementation of gRPC. HTTP/2 based RPC
+- [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm)
+  - Terraform provider for Azure Resource Manager
+- [protobuf](https://github.com/golang/protobuf)
+  - Go support for Google's protocol buffers
+- [lazygit](https://github.com/jesseduffield/lazygit)
+  - simple terminal UI for git commands
+- [goconvey](https://github.com/smartystreets/goconvey)
+  - Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
+- [sarama](https://github.com/Shopify/sarama)
+  - Sarama is a Go library for Apache Kafka 0.8, and up.
+- [kustomize](https://github.com/kubernetes-sigs/kustomize)
+  - Customization of kubernetes YAML configurations
+- [operator-sdk](https://github.com/operator-framework/operator-sdk)
+  - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
+- [nomad](https://github.com/hashicorp/nomad)
+  - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+- [flagger](https://github.com/weaveworks/flagger)
+  - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
+- [influxdb](https://github.com/influxdata/influxdb)
+  - Scalable datastore for metrics, events, and real-time analytics
+- [metrics-server](https://github.com/kubernetes-sigs/metrics-server)
+  - Cluster-wide aggregator of resource usage data.

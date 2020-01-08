@@ -1,51 +1,51 @@
 # rust
-- [redshirt](https://github.com/tomaka/redshirt)
-  - Operating system
-- [reqwest](https://github.com/seanmonstar/reqwest)
-  - An easy and powerful Rust HTTP Client
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
-- [papyrus](https://github.com/kurtlawrence/papyrus)
-  - (Rust) repl
-- [spotify-tui](https://github.com/Rigellute/spotify-tui)
-  - Spotify for the terminal written in Rust 🚀
-- [tonic](https://github.com/hyperium/tonic)
-  - A native gRPC client & server implementation with async/await support.
-- [evcxr](https://github.com/google/evcxr)
-  - 
-- [rio](https://github.com/spacejam/rio)
-  - pure rust io_uring library, built on libc, thread & async friendly, misuse resistant
 - [starship](https://github.com/starship/starship)
   - ☄🌌️ The cross-shell prompt for astronauts
-- [substrate](https://github.com/paritytech/substrate)
-  - Substrate: The platform for blockchain innovators
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
-  - Unofficial Bitwarden compatible server written in Rust
-- [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim)
-  - Language Server Protocol (LSP) support for vim and neovim.
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix web is a small, pragmatic, and extremely fast rust web framework.
+- [redshirt](https://github.com/tomaka/redshirt)
+  - Operating system
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
+- [nestur](https://github.com/spieglt/nestur)
+  - The NES you left outside in the rain but let dry and still kind of works
+- [tonic](https://github.com/hyperium/tonic)
+  - A native gRPC client & server implementation with async/await support.
+- [nushell](https://github.com/nushell/nushell)
+  - A modern shell written in Rust
+- [rio](https://github.com/spacejam/rio)
+  - pure rust io_uring library, built on libc, thread & async friendly, misuse resistant
+- [jormungandr](https://github.com/input-output-hk/jormungandr)
+  - aspiring blockchain node
 - [tokio](https://github.com/tokio-rs/tokio)
   - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [cbindgen](https://github.com/eqrion/cbindgen)
-  - A project for generating C bindings from Rust code
-- [rust-fil-proofs](https://github.com/filecoin-project/rust-fil-proofs)
-  - Proofs for Filecoin in Rust
-- [py-spy](https://github.com/benfred/py-spy)
-  - Sampling profiler for Python programs
-- [iced](https://github.com/hecrj/iced)
-  - A cross-platform GUI library for Rust, inspired by Elm
-- [ripgrep](https://github.com/BurntSushi/ripgrep)
-  - ripgrep recursively searches directories for a regex pattern
-- [lsd](https://github.com/Peltoche/lsd)
-  - The next gen ls command
-- [warp](https://github.com/seanmonstar/warp)
-  - A super-easy, composable, web server framework for warp speeds.
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
-- [tock](https://github.com/tock/tock)
-  - A secure embedded operating system for microcontrollers
-- [alacritty](https://github.com/jwilm/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
+- [findomain](https://github.com/Edu4rdSHL/findomain)
+  - The fastest and cross-platform subdomain enumerator, don't waste your time.
 - [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
   - Facilitating high-level interactions between Wasm modules and JavaScript
+- [lsd](https://github.com/Peltoche/lsd)
+  - The next gen ls command
+- [ruffle](https://github.com/ruffle-rs/ruffle)
+  - A Flash Player emulator written in Rust
+- [tock](https://github.com/tock/tock)
+  - A secure embedded operating system for microcontrollers
+- [wasmer](https://github.com/wasmerio/wasmer)
+  - 🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten
+- [polkadot](https://github.com/paritytech/polkadot)
+  - Polkadot Node Implementation
+- [krabs](https://github.com/ellbrid/krabs)
+  - A x86 bootloader written in Rust.
+- [WASI](https://github.com/WebAssembly/WASI)
+  - WebAssembly System Interface
+- [juniper](https://github.com/graphql-rust/juniper)
+  - GraphQL server library for Rust
+- [orbtk](https://github.com/redox-os/orbtk)
+  - The Rust UI-Toolkit.
+- [pyo3](https://github.com/PyO3/pyo3)
+  - Rust bindings for the Python interpreter
+- [alacritty](https://github.com/jwilm/alacritty)
+  - A cross-platform, GPU-accelerated terminal emulator
+- [c2rust](https://github.com/immunant/c2rust)
+  - Migrate C code to Rust
+- [rq](https://github.com/dflemstr/rq)
+  - Record Query - A tool for doing record analysis and transformation
+- [onefetch](https://github.com/o2sh/onefetch)
+  - Git repository summary on your terminal

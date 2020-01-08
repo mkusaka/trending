@@ -1,51 +1,51 @@
 # general
-- [kratos](https://github.com/bilibili/kratos) : Go
-  - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
-- [JobFunnel](https://github.com/PaulMcInnis/JobFunnel) : Python
-  - Tool for scraping job websites, and filtering and reviewing the job listings
-- [excalidraw](https://github.com/excalidraw/excalidraw) : TypeScript
-  - Sketch hand-drawn like diagrams
-- [scrcpy](https://github.com/Genymobile/scrcpy) : C
-  - Display and control your Android device
-- [degoogle](https://github.com/tycrek/degoogle) : 
-  - Repo for the r/privacy "degoogle" megathread
-- [practicalAI](https://github.com/practicalAI/practicalAI) : Jupyter Notebook
-  - 📚 A practical approach to machine learning to enable everyone to learn, explore and build.
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [MemLabs](https://github.com/stuxnet999/MemLabs) : Roff
-  - Educational, CTF-styled labs for individuals interested in Memory Forensics
 - [taichi](https://github.com/yuanming-hu/taichi) : C++
   - The Taichi programming language
+- [openlayers](https://github.com/openlayers/openlayers) : JavaScript
+  - OpenLayers
+- [chatwoot](https://github.com/chatwoot/chatwoot) : Ruby
+  - Simple and elegant live chat software 🔥💬
+- [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) : TeX
+  - Cheat Sheets
+- [kratos](https://github.com/bilibili/kratos) : Go
+  - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
+- [taichi_mpm](https://github.com/yuanming-hu/taichi_mpm) : C++
+  - High-performance material point method (MPM) solver. (ACM Transactions on Graphics, SIGGRAPH 2018)
+- [SlowFast](https://github.com/facebookresearch/SlowFast) : Python
+  - PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.
+- [practicalAI](https://github.com/practicalAI/practicalAI) : Jupyter Notebook
+  - 📚 A practical approach to machine learning to enable everyone to learn, explore and build.
+- [acwj](https://github.com/DoctorWkt/acwj) : C
+  - A Compiler Writing Journey
+- [CPython-Internals](https://github.com/zpoint/CPython-Internals) : Python
+  - Dive into CPython internals, trying to illustrate every detail of CPython implementation | CPython 源码阅读笔记, 多图展示底层实现细节
+- [JobFunnel](https://github.com/PaulMcInnis/JobFunnel) : Python
+  - Tool for scraping job websites, and filtering and reviewing the job listings
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
 - [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) : JavaScript
   - A 30 days of JavaScript programming challenge
 - [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) : Python
   - A list of awesome applications, software, tools and other materials for Linux distros.
-- [acwj](https://github.com/DoctorWkt/acwj) : C
-  - A Compiler Writing Journey
-- [predicting-car-price-from-scraped-data](https://github.com/nicolas-gervais/predicting-car-price-from-scraped-data) : Jupyter Notebook
-  - Picture and specifications scraper
-- [2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement](https://github.com/Mingtzge/2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement) : Python
-  - 2019CCF-BDCI大赛 最佳创新探索奖获得者 基于OCR身份证要素提取赛题冠军 天晨破晓团队 赛题源码
-- [toolbox](https://github.com/amitness/toolbox) : 
-  - Curated list of libraries for a faster machine learning workflow
-- [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) : 
-  - A list of resources for those interested in getting started in bug bounties
-- [kubernetes](https://github.com/kubernetes/kubernetes) : Go
-  - Production-Grade Container Scheduling and Management
-- [awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) : 
-  - An effort to build a single place for all useful android and iOS security related stuff. All references and tools are belong to their respective owners. I'm just maintaining it.
-- [awesome-java](https://github.com/Snailclimb/awesome-java) : 
-  - Collection of awesome Java project on Github(Github 上非常棒的 Java 开源项目集合).
+- [amplify-js](https://github.com/aws-amplify/amplify-js) : TypeScript
+  - A declarative JavaScript library for application development using cloud services.
 - [eng-practices](https://github.com/google/eng-practices) : 
   - Google's Engineering Practices documentation
-- [gatsby](https://github.com/gatsbyjs/gatsby) : JavaScript
-  - Build blazing fast, modern apps and websites with React
-- [CPython-Internals](https://github.com/zpoint/CPython-Internals) : Python
-  - Dive into CPython internals, trying to illustrate every detail of CPython implementation | CPython 源码阅读笔记, 多图展示底层实现细节
-- [collapseos](https://github.com/hsoft/collapseos) : Assembly
-  - Bootstrap post-collapse technology
-- [AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) : 
-  - Roadmap to becoming an ASP.NET Core developer in 2019
-- [cypress](https://github.com/cypress-io/cypress) : JavaScript
-  - Fast, easy and reliable testing for anything that runs in a browser.
+- [blazor-workshop](https://github.com/dotnet-presentations/blazor-workshop) : C#
+  - Blazor workshop
+- [starship](https://github.com/starship/starship) : Rust
+  - ☄🌌️ The cross-shell prompt for astronauts
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
+  - Roadmap to becoming a web developer in 2020
+- [WTM](https://github.com/dotnetcore/WTM) : C#
+  - WTM框架是针对中小规模后台管理系统的开发利器。基于DotNetCore，实现0编码创建项目，0编码生成业务模块。框架严格遵循MVVM的开发模式，并深得MVVM的精髓。对于新手，可以快速上手搭建项目；对于高手，可以把那些繁琐重复的工作交给框架生成，专心攻克需求难点。框架经过数十个真实项目检测，可以极大提高开发效率，降低开发成本。
+- [aspnetcore](https://github.com/dotnet/aspnetcore) : C#
+  - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+- [ProjectOpenCourse](https://github.com/kuaibiancheng/ProjectOpenCourse) : Batchfile
+  - 超高质量免费编程入门课
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
+  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [kubeflow](https://github.com/kubeflow/kubeflow) : Jsonnet
+  - Machine Learning Toolkit for Kubernetes
+- [difftaichi](https://github.com/yuanming-hu/difftaichi) : 
+  - 10 differentiable physical simulators built with Taichi differentiable programming (DiffTaichi, ICLR 2020)
