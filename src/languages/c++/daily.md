@@ -1,51 +1,51 @@
 # c++
-- [taichi](https://github.com/yuanming-hu/taichi)
+- [taichi](https://github.com/taichi-dev/taichi)
   - The Taichi programming language
-- [taichi_mpm](https://github.com/yuanming-hu/taichi_mpm)
-  - High-performance material point method (MPM) solver. (ACM Transactions on Graphics, SIGGRAPH 2018)
-- [json](https://github.com/nlohmann/json)
-  - JSON for Modern C++
-- [GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
-  - Starting code for the GildedRose Refactoring Kata in many programming languages.
-- [skia](https://github.com/google/skia)
-  - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
-- [xgboost](https://github.com/dmlc/xgboost)
-  - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
-- [ClickHouse](https://github.com/ClickHouse/ClickHouse)
-  - ClickHouse is a free analytics DBMS for big data
-- [multipass](https://github.com/canonical/multipass)
-  - Multipass orchestrates virtual Ubuntu instances
-- [protobuf](https://github.com/protocolbuffers/protobuf)
-  - Protocol Buffers - Google's data interchange format
-- [Catch2](https://github.com/catchorg/Catch2)
-  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-- [spdlog](https://github.com/gabime/spdlog)
-  - Fast C++ logging library.
-- [onnxruntime](https://github.com/microsoft/onnxruntime)
-  - ONNX Runtime: cross-platform, high performance scoring engine for ML models
-- [googletest](https://github.com/google/googletest)
-  - Googletest - Google Testing and Mocking Framework
-- [async-profiler](https://github.com/jvm-profiling-tools/async-profiler)
-  - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events
-- [yosys](https://github.com/YosysHQ/yosys)
-  - Yosys Open SYnthesis Suite
-- [mediapipe](https://github.com/google/mediapipe)
-  - MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
-- [yoga](https://github.com/facebook/yoga)
-  - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
-- [s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse)
-  - FUSE-based file system backed by Amazon S3
-- [cuda-samples](https://github.com/NVIDIA/cuda-samples)
-  - Samples for CUDA Developers which demonstrates features in CUDA Toolkit
-- [pytorch](https://github.com/pytorch/pytorch)
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [doxygen](https://github.com/doxygen/doxygen)
-  - Official doxygen git repository
-- [caffe](https://github.com/BVLC/caffe)
-  - Caffe: a fast open framework for deep learning.
-- [eos](https://github.com/EOSIO/eos)
-  - An open source smart contract platform
-- [re2](https://github.com/google/re2)
-  - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 - [electron](https://github.com/electron/electron)
   - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [tensorflow](https://github.com/tensorflow/tensorflow)
+  - An Open Source Machine Learning Framework for Everyone
+- [pybind11](https://github.com/pybind/pybind11)
+  - Seamless operability between C++11 and Python
+- [phantomjs](https://github.com/ariya/phantomjs)
+  - Scriptable Headless Browser
+- [taichi_mpm](https://github.com/yuanming-hu/taichi_mpm)
+  - High-performance material point method (MPM) solver. (ACM Transactions on Graphics, SIGGRAPH 2018)
+- [glow](https://github.com/pytorch/glow)
+  - Compiler for Neural Network hardware accelerators
+- [falco](https://github.com/falcosecurity/falco)
+  - Falco: Container Native Runtime Security
+- [googletest](https://github.com/google/googletest)
+  - Googletest - Google Testing and Mocking Framework
+- [wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf)
+  - Convert HTML to PDF using Webkit (QtWebKit)
+- [onnxruntime](https://github.com/microsoft/onnxruntime)
+  - ONNX Runtime: cross-platform, high performance scoring engine for ML models
+- [or-tools](https://github.com/google/or-tools)
+  - Google's Operations Research tools:
+- [cpp-httplib](https://github.com/yhirose/cpp-httplib)
+  - A C++ header-only HTTP/HTTPS server and client library
+- [aws-sdk-cpp](https://github.com/aws/aws-sdk-cpp)
+  - AWS SDK for C++
+- [GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
+  - Starting code for the GildedRose Refactoring Kata in many programming languages.
+- [protobuf](https://github.com/protocolbuffers/protobuf)
+  - Protocol Buffers - Google's data interchange format
+- [thrift](https://github.com/apache/thrift)
+  - Apache Thrift
+- [spdlog](https://github.com/gabime/spdlog)
+  - Fast C++ logging library.
+- [doxygen](https://github.com/doxygen/doxygen)
+  - Official doxygen git repository
+- [gdal](https://github.com/OSGeo/gdal)
+  - GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats.
+- [rocksdb](https://github.com/facebook/rocksdb)
+  - A library that provides an embeddable, persistent key-value store for fast storage.
+- [carla](https://github.com/carla-simulator/carla)
+  - Open-source simulator for autonomous driving research.
+- [json](https://github.com/nlohmann/json)
+  - JSON for Modern C++
+- [pytorch](https://github.com/pytorch/pytorch)
+  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [re2](https://github.com/google/re2)
+  - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.

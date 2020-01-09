@@ -1,51 +1,51 @@
 # rust
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The cross-shell prompt for astronauts
-- [redshirt](https://github.com/tomaka/redshirt)
-  - Operating system
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
-- [nestur](https://github.com/spieglt/nestur)
-  - The NES you left outside in the rain but let dry and still kind of works
-- [tonic](https://github.com/hyperium/tonic)
-  - A native gRPC client & server implementation with async/await support.
-- [nushell](https://github.com/nushell/nushell)
-  - A modern shell written in Rust
-- [rio](https://github.com/spacejam/rio)
-  - pure rust io_uring library, built on libc, thread & async friendly, misuse resistant
 - [jormungandr](https://github.com/input-output-hk/jormungandr)
   - aspiring blockchain node
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [findomain](https://github.com/Edu4rdSHL/findomain)
-  - The fastest and cross-platform subdomain enumerator, don't waste your time.
-- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
-  - Facilitating high-level interactions between Wasm modules and JavaScript
-- [lsd](https://github.com/Peltoche/lsd)
-  - The next gen ls command
-- [ruffle](https://github.com/ruffle-rs/ruffle)
-  - A Flash Player emulator written in Rust
-- [tock](https://github.com/tock/tock)
-  - A secure embedded operating system for microcontrollers
-- [wasmer](https://github.com/wasmerio/wasmer)
-  - 🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten
-- [polkadot](https://github.com/paritytech/polkadot)
-  - Polkadot Node Implementation
-- [krabs](https://github.com/ellbrid/krabs)
-  - A x86 bootloader written in Rust.
-- [WASI](https://github.com/WebAssembly/WASI)
-  - WebAssembly System Interface
-- [juniper](https://github.com/graphql-rust/juniper)
-  - GraphQL server library for Rust
-- [orbtk](https://github.com/redox-os/orbtk)
-  - The Rust UI-Toolkit.
-- [pyo3](https://github.com/PyO3/pyo3)
-  - Rust bindings for the Python interpreter
-- [alacritty](https://github.com/jwilm/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
+- [starship](https://github.com/starship/starship)
+  - ☄🌌️ The cross-shell prompt for astronauts
 - [c2rust](https://github.com/immunant/c2rust)
   - Migrate C code to Rust
-- [rq](https://github.com/dflemstr/rq)
-  - Record Query - A tool for doing record analysis and transformation
-- [onefetch](https://github.com/o2sh/onefetch)
-  - Git repository summary on your terminal
+- [spotify-tui](https://github.com/Rigellute/spotify-tui)
+  - Spotify for the terminal written in Rust 🚀
+- [occlum](https://github.com/occlum/occlum)
+  - Occlum is a memory-safe, multi-process library OS for Intel SGX
+- [cranelift](https://github.com/bytecodealliance/cranelift)
+  - Cranelift code generator
+- [zexe](https://github.com/scipr-lab/zexe)
+  - Rust library for decentralized private computation
+- [rusoto](https://github.com/rusoto/rusoto)
+  - AWS SDK for Rust
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
+- [nushell](https://github.com/nushell/nushell)
+  - A modern shell written in Rust
+- [spotifyd](https://github.com/Spotifyd/spotifyd)
+  - A spotify daemon
+- [tonic](https://github.com/hyperium/tonic)
+  - A native gRPC client & server implementation with async/await support.
+- [firecracker](https://github.com/firecracker-microvm/firecracker)
+  - Secure and fast microVMs for serverless computing.
+- [pyo3](https://github.com/PyO3/pyo3)
+  - Rust bindings for the Python interpreter
+- [amethyst](https://github.com/amethyst/amethyst)
+  - Data-oriented and data-driven game engine written in Rust
+- [indy-sdk](https://github.com/hyperledger/indy-sdk)
+  - Everything needed to build applications that interact with an Indy distributed identity ledger.
+- [vector](https://github.com/timberio/vector)
+  - A High-Performance Monitoring & Observability Data Router
+- [findomain](https://github.com/Edu4rdSHL/findomain)
+  - The fastest and cross-platform subdomain enumerator, don't waste your time.
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix web is a small, pragmatic, and extremely fast rust web framework.
+- [lsd](https://github.com/Peltoche/lsd)
+  - The next gen ls command
+- [WASI](https://github.com/WebAssembly/WASI)
+  - WebAssembly System Interface
+- [polkadot](https://github.com/paritytech/polkadot)
+  - Polkadot Node Implementation
+- [tokio](https://github.com/tokio-rs/tokio)
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [wasmer](https://github.com/wasmerio/wasmer)
+  - 🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten

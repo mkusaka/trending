@@ -1,51 +1,51 @@
 # go
 - [kratos](https://github.com/bilibili/kratos)
   - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
-- [Go-Questions](https://github.com/qcrao/Go-Questions)
-  - 从问题切入，串连 Go 语言相关的所有知识，融会贯通。
-- [pipeline](https://github.com/tektoncd/pipeline)
-  - A K8s-native Pipeline resource.
-- [packer](https://github.com/hashicorp/packer)
-  - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-- [kafka-go](https://github.com/segmentio/kafka-go)
-  - Kafka library in Go
-- [gin-jwt](https://github.com/appleboy/gin-jwt)
-  - JWT Middleware for Gin framework
-- [charts](https://github.com/helm/charts)
-  - Curated applications for Kubernetes
-- [mock](https://github.com/golang/mock)
-  - GoMock is a mocking framework for the Go programming language.
-- [argo](https://github.com/argoproj/argo)
-  - Argo Workflows: Get stuff done with Kubernetes.
-- [oauth2](https://github.com/golang/oauth2)
-  - Go OAuth2
-- [kubernetes](https://github.com/kubernetes/kubernetes)
-  - Production-Grade Container Scheduling and Management
-- [minikube](https://github.com/kubernetes/minikube)
-  - Run Kubernetes locally
-- [fzf](https://github.com/junegunn/fzf)
-  - 🌸 A command-line fuzzy finder
-- [grpc-go](https://github.com/grpc/grpc-go)
-  - The Go language implementation of gRPC. HTTP/2 based RPC
-- [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm)
-  - Terraform provider for Azure Resource Manager
-- [protobuf](https://github.com/golang/protobuf)
-  - Go support for Google's protocol buffers
-- [lazygit](https://github.com/jesseduffield/lazygit)
-  - simple terminal UI for git commands
-- [goconvey](https://github.com/smartystreets/goconvey)
-  - Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
-- [sarama](https://github.com/Shopify/sarama)
-  - Sarama is a Go library for Apache Kafka 0.8, and up.
+- [testify](https://github.com/stretchr/testify)
+  - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [kustomize](https://github.com/kubernetes-sigs/kustomize)
   - Customization of kubernetes YAML configurations
-- [operator-sdk](https://github.com/operator-framework/operator-sdk)
-  - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
-- [nomad](https://github.com/hashicorp/nomad)
-  - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [flagger](https://github.com/weaveworks/flagger)
-  - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
-- [influxdb](https://github.com/influxdata/influxdb)
-  - Scalable datastore for metrics, events, and real-time analytics
-- [metrics-server](https://github.com/kubernetes-sigs/metrics-server)
-  - Cluster-wide aggregator of resource usage data.
+- [govalidate](https://github.com/rakyll/govalidate)
+  - Validates your Go installation and dependencies.
+- [sarama](https://github.com/Shopify/sarama)
+  - Sarama is a Go library for Apache Kafka 0.8, and up.
+- [thanos](https://github.com/thanos-io/thanos)
+  - Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.
+- [logrus](https://github.com/sirupsen/logrus)
+  - Structured, pluggable logging for Go.
+- [istio](https://github.com/istio/istio)
+  - Connect, secure, control, and observe services.
+- [jql](https://github.com/cube2222/jql)
+  - Easy JSON Query Processor with a Lispy syntax in Go
+- [fyne](https://github.com/fyne-io/fyne)
+  - Cross platform GUI in Go based on Material Design
+- [algo](https://github.com/hoanhan101/algo)
+  - 101+ coding interview problems with detailed solutions, test cases, and program analysis
+- [Go-Questions](https://github.com/qcrao/Go-Questions)
+  - 从问题切入，串连 Go 语言相关的所有知识，融会贯通。
+- [external-dns](https://github.com/kubernetes-sigs/external-dns)
+  - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [hakrevdns](https://github.com/hakluke/hakrevdns)
+  - Small, fast tool for performing reverse DNS lookups en masse.
+- [beats](https://github.com/elastic/beats)
+  - 🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
+- [mock](https://github.com/golang/mock)
+  - GoMock is a mocking framework for the Go programming language.
+- [consul](https://github.com/hashicorp/consul)
+  - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+- [viper](https://github.com/spf13/viper)
+  - Go configuration with fangs
+- [libpod](https://github.com/containers/libpod)
+  - libpod is a library used to create container pods. Home of Podman.
+- [aks-engine](https://github.com/Azure/aks-engine)
+  - AKS Engine: Units of Kubernetes on Azure!
+- [argo](https://github.com/argoproj/argo)
+  - Argo Workflows: Get stuff done with Kubernetes.
+- [rook](https://github.com/rook/rook)
+  - Storage Orchestration for Kubernetes
+- [cortex](https://github.com/cortexproject/cortex)
+  - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
+- [opentracing-go](https://github.com/opentracing/opentracing-go)
+  - OpenTracing API for Go
+- [sarama-cluster](https://github.com/bsm/sarama-cluster)
+  - Cluster extensions for Sarama, the Go client library for Apache Kafka 0.9 [DEPRECATED]

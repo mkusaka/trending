@@ -1,51 +1,51 @@
 # javascript
-- [openlayers](https://github.com/openlayers/openlayers)
-  - OpenLayers
-- [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript)
-  - A 30 days of JavaScript programming challenge
-- [generator-jhipster](https://github.com/jhipster/generator-jhipster)
-  - Open Source application platform for creating Spring Boot + Angular/React projects in seconds!
-- [Thief-Book](https://github.com/cteamx/Thief-Book)
-  - 一款可以在任务栏、桌面、TouchBar上进行摸鱼的最强的跨平台摸鱼神器，支持小说、股票、按键翻页、鼠标翻页、自动翻页让你体验不同的工作 996，上班族必备神器
-- [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
-  - The best design tools and plugins for everything 👉
-- [Script](https://github.com/NobyDa/Script)
-  - 
-- [docusaurus](https://github.com/facebook/docusaurus)
-  - Easy to maintain open source documentation websites.
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
-- [axios](https://github.com/axios/axios)
-  - Promise based HTTP client for the browser and node.js
-- [PaperWM](https://github.com/paperwm/PaperWM)
-  - Tiled scrollable window management for Gnome Shell
-- [awx](https://github.com/ansible/awx)
-  - AWX Project
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+  - 💯 Materials to help you rock your next coding interview
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [cypress](https://github.com/cypress-io/cypress)
   - Fast, easy and reliable testing for anything that runs in a browser.
-- [create-react-app](https://github.com/facebook/create-react-app)
-  - Set up a modern web app by running one command.
-- [semantic-release](https://github.com/semantic-release/semantic-release)
-  - 📦🚀 Fully automated version management and package publishing
-- [examples](https://github.com/serverless/examples)
-  - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
-- [plotly.js](https://github.com/plotly/plotly.js)
-  - Open-source JavaScript charting library behind Plotly and Dash
-- [microservices-demo](https://github.com/lucaschen/microservices-demo)
-  - I've made a full tutorial series on building this! ==>
-- [ramda](https://github.com/ramda/ramda)
-  - 🐏 Practical functional Javascript
-- [markdown-here](https://github.com/adam-p/markdown-here)
-  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
-- [javascript](https://github.com/airbnb/javascript)
-  - JavaScript Style Guide
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
+- [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
+  - The best design tools and plugins for everything 👉
+- [redash](https://github.com/getredash/redash)
+  - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [carbon](https://github.com/carbon-design-system/carbon)
   - A design system built by IBM
-- [aws-serverless-workshops](https://github.com/aws-samples/aws-serverless-workshops)
-  - Code and walkthrough labs to set up serverless applications for Wild Rydes workshops
-- [moment](https://github.com/moment/moment)
-  - Parse, validate, manipulate, and display dates in javascript.
-- [vee-validate](https://github.com/logaretm/vee-validate)
-  - ✔ Template Driven Validation Framework for Vue.js
+- [axios](https://github.com/axios/axios)
+  - Promise based HTTP client for the browser and node.js
+- [openlayers](https://github.com/openlayers/openlayers)
+  - OpenLayers
+- [alpine](https://github.com/alpinejs/alpine)
+  - A rugged, minimal framework for composing JavaScript behavior in your markup.
+- [preact](https://github.com/preactjs/preact)
+  - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [vue](https://github.com/vuejs/vue)
+  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [mobile-first-animation](https://github.com/aholachek/mobile-first-animation)
+  - Gesture-driven animation on the mobile web (React Conf 2019)
+- [docusaurus](https://github.com/facebook/docusaurus)
+  - Easy to maintain open source documentation websites.
+- [strapi](https://github.com/strapi/strapi)
+  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
+  - Microsoft Authentication Library (MSAL) for JS
+- [codelf](https://github.com/unbug/codelf)
+  - A search tool helps dev to solve the naming things problem.
+- [theme-ui](https://github.com/system-ui/theme-ui)
+  - Build consistent, themeable React apps based on constraint-based design principles
+- [redwood](https://github.com/redwoodjs/redwood)
+  - Opinionated, full stack, serverless JAMstack web application framework (formerly the Hammer Framework)
+- [esercizi-di-programmazione-javascript](https://github.com/AlbertoOlla/esercizi-di-programmazione-javascript)
+  - Esercizi di informatica! Impara a programmare, metti alla prova!
+- [dayjs](https://github.com/iamkun/dayjs)
+  - ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API
+- [microservices-demo](https://github.com/lucaschen/microservices-demo)
+  - I've made a full tutorial series on building this! ==>
+- [lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci)
+  - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
+- [Thief-Book](https://github.com/cteamx/Thief-Book)
+  - 一款可以在任务栏、桌面、TouchBar上进行摸鱼的最强的跨平台摸鱼神器，支持小说、股票、按键翻页、鼠标翻页、自动翻页让你体验不同的工作 996，上班族必备神器
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.

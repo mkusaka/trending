@@ -1,51 +1,50 @@
 # general
-- [taichi](https://github.com/yuanming-hu/taichi) : C++
-  - The Taichi programming language
-- [openlayers](https://github.com/openlayers/openlayers) : JavaScript
-  - OpenLayers
-- [chatwoot](https://github.com/chatwoot/chatwoot) : Ruby
-  - Simple and elegant live chat software 🔥💬
-- [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) : TeX
-  - Cheat Sheets
-- [kratos](https://github.com/bilibili/kratos) : Go
-  - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
-- [taichi_mpm](https://github.com/yuanming-hu/taichi_mpm) : C++
-  - High-performance material point method (MPM) solver. (ACM Transactions on Graphics, SIGGRAPH 2018)
-- [SlowFast](https://github.com/facebookresearch/SlowFast) : Python
-  - PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.
-- [practicalAI](https://github.com/practicalAI/practicalAI) : Jupyter Notebook
-  - 📚 A practical approach to machine learning to enable everyone to learn, explore and build.
 - [acwj](https://github.com/DoctorWkt/acwj) : C
   - A Compiler Writing Journey
+- [kratos](https://github.com/bilibili/kratos) : Go
+  - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
+- [CoupleGenerator](https://github.com/irfanICMLL/CoupleGenerator) : Python
+  - Generate your lover with your photo
+- [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) : TeX
+  - Cheat Sheets
+- [taichi](https://github.com/taichi-dev/taichi) : C++
+  - The Taichi programming language
 - [CPython-Internals](https://github.com/zpoint/CPython-Internals) : Python
   - Dive into CPython internals, trying to illustrate every detail of CPython implementation | CPython 源码阅读笔记, 多图展示底层实现细节
-- [JobFunnel](https://github.com/PaulMcInnis/JobFunnel) : Python
-  - Tool for scraping job websites, and filtering and reviewing the job listings
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) : JavaScript
-  - A 30 days of JavaScript programming challenge
-- [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) : Python
-  - A list of awesome applications, software, tools and other materials for Linux distros.
-- [amplify-js](https://github.com/aws-amplify/amplify-js) : TypeScript
-  - A declarative JavaScript library for application development using cloud services.
-- [eng-practices](https://github.com/google/eng-practices) : 
-  - Google's Engineering Practices documentation
-- [blazor-workshop](https://github.com/dotnet-presentations/blazor-workshop) : C#
-  - Blazor workshop
-- [starship](https://github.com/starship/starship) : Rust
-  - ☄🌌️ The cross-shell prompt for astronauts
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
-  - Roadmap to becoming a web developer in 2020
-- [WTM](https://github.com/dotnetcore/WTM) : C#
-  - WTM框架是针对中小规模后台管理系统的开发利器。基于DotNetCore，实现0编码创建项目，0编码生成业务模块。框架严格遵循MVVM的开发模式，并深得MVVM的精髓。对于新手，可以快速上手搭建项目；对于高手，可以把那些繁琐重复的工作交给框架生成，专心攻克需求难点。框架经过数十个真实项目检测，可以极大提高开发效率，降低开发成本。
-- [aspnetcore](https://github.com/dotnet/aspnetcore) : C#
-  - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
-- [ProjectOpenCourse](https://github.com/kuaibiancheng/ProjectOpenCourse) : Batchfile
-  - 超高质量免费编程入门课
+- [ALBERT](https://github.com/google-research/ALBERT) : Python
+  - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
+- [SlowFast](https://github.com/facebookresearch/SlowFast) : Python
+  - PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
   - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [kubeflow](https://github.com/kubeflow/kubeflow) : Jsonnet
-  - Machine Learning Toolkit for Kubernetes
+- [flyte](https://github.com/lyft/flyte) : Shell
+  - develop, execute, and monitor distributed workflows reliably at scale.
+- [azure-powershell](https://github.com/Azure/azure-powershell) : C#
+  - Microsoft Azure PowerShell
+- [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) : C#
+  - Xamarin.Forms Official Home
+- [AltDeploy](https://github.com/pixelomer/AltDeploy) : C
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
+  - 💯 Materials to help you rock your next coding interview
+- [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) : Java
+  - 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [cypress](https://github.com/cypress-io/cypress) : JavaScript
+  - Fast, easy and reliable testing for anything that runs in a browser.
 - [difftaichi](https://github.com/yuanming-hu/difftaichi) : 
   - 10 differentiable physical simulators built with Taichi differentiable programming (DiffTaichi, ICLR 2020)
+- [awesome](https://github.com/sindresorhus/awesome) : 
+  - 😎 Awesome lists about all kinds of interesting topics
+- [Sidekick](https://github.com/domialex/Sidekick) : C#
+  - A Path of Exile helper
+- [practicalAI](https://github.com/practicalAI/practicalAI) : Jupyter Notebook
+  - 📚 A practical approach to machine learning to enable everyone to learn, explore and build.
+- [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) : JavaScript
+  - The best design tools and plugins for everything 👉
+- [chatwoot](https://github.com/chatwoot/chatwoot) : Ruby
+  - Simple and elegant live chat software 🔥💬
+- [testify](https://github.com/stretchr/testify) : Go
+  - A toolkit with common assertions and mocks that plays nicely with the standard library
+- [kustomize](https://github.com/kubernetes-sigs/kustomize) : Go
+  - Customization of kubernetes YAML configurations
