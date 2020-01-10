@@ -1,50 +1,50 @@
 # general
-- [acwj](https://github.com/DoctorWkt/acwj) : C
-  - A Compiler Writing Journey
-- [kratos](https://github.com/bilibili/kratos) : Go
-  - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
-- [CoupleGenerator](https://github.com/irfanICMLL/CoupleGenerator) : Python
-  - Generate your lover with your photo
-- [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) : TeX
-  - Cheat Sheets
-- [taichi](https://github.com/taichi-dev/taichi) : C++
-  - The Taichi programming language
-- [CPython-Internals](https://github.com/zpoint/CPython-Internals) : Python
-  - Dive into CPython internals, trying to illustrate every detail of CPython implementation | CPython 源码阅读笔记, 多图展示底层实现细节
-- [ALBERT](https://github.com/google-research/ALBERT) : Python
-  - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
-- [SlowFast](https://github.com/facebookresearch/SlowFast) : Python
-  - PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
-  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [flyte](https://github.com/lyft/flyte) : Shell
-  - develop, execute, and monitor distributed workflows reliably at scale.
-- [azure-powershell](https://github.com/Azure/azure-powershell) : C#
-  - Microsoft Azure PowerShell
-- [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) : C#
-  - Xamarin.Forms Official Home
-- [AltDeploy](https://github.com/pixelomer/AltDeploy) : C
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
-  - 💯 Materials to help you rock your next coding interview
-- [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) : Java
-  - 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [cypress](https://github.com/cypress-io/cypress) : JavaScript
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [difftaichi](https://github.com/yuanming-hu/difftaichi) : 
-  - 10 differentiable physical simulators built with Taichi differentiable programming (DiffTaichi, ICLR 2020)
-- [awesome](https://github.com/sindresorhus/awesome) : 
-  - 😎 Awesome lists about all kinds of interesting topics
-- [Sidekick](https://github.com/domialex/Sidekick) : C#
-  - A Path of Exile helper
-- [practicalAI](https://github.com/practicalAI/practicalAI) : Jupyter Notebook
-  - 📚 A practical approach to machine learning to enable everyone to learn, explore and build.
-- [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) : JavaScript
-  - The best design tools and plugins for everything 👉
 - [chatwoot](https://github.com/chatwoot/chatwoot) : Ruby
   - Simple and elegant live chat software 🔥💬
+- [angular-cli](https://github.com/angular/angular-cli) : TypeScript
+  - CLI tool for Angular
+- [redash](https://github.com/getredash/redash) : JavaScript
+  - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+- [django](https://github.com/django/django) : Python
+  - The Web framework for perfectionists with deadlines.
+- [difftaichi](https://github.com/yuanming-hu/difftaichi) : 
+  - 10 differentiable physical simulators built with Taichi differentiable programming (DiffTaichi, ICLR 2020)
+- [coding-cheat-sheets](https://github.com/aspittel/coding-cheat-sheets) : 
+  - Various cheat sheets on CS stuff
+- [mlflow](https://github.com/mlflow/mlflow) : Python
+  - Open source platform for the machine learning lifecycle
+- [airlock](https://github.com/laravel/airlock) : PHP
+- [awesome-uses](https://github.com/wesbos/awesome-uses) : 
+  - Awesome Uses Page
+- [manifold](https://github.com/uber/manifold) : JavaScript
+  - A model-agnostic visual debugging tool for machine learning
+- [Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) : 
+  - A collection of open source and commercial tools that aid in red team operations.
+- [how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) : 
+  - Below are some simple methods for exiting vim.
+- [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) : Python
+  - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
+  - 💯 Materials to help you rock your next coding interview
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
+  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) : TeX
+  - Cheat Sheets
+- [postgres](https://github.com/porsager/postgres) : JavaScript
+  - Postgres.js - The Fastest full featured PostgreSQL client for Node.js
+- [azure-powershell](https://github.com/Azure/azure-powershell) : C#
+  - Microsoft Azure PowerShell
+- [jetbrain-activation-code](https://github.com/lubosson/jetbrain-activation-code) : 
+  - jetbrain software全家桶激活码activation code, including intellij idea，pycharm，datagrip, webstorm...
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [luban-h5](https://github.com/ly525/luban-h5) : JavaScript
+  - [WIP]en: web design tool || mobile page builder/editor || mini webflow for mobile page. zh: 类似易企秀的H5制作、建站工具.
+- [beats](https://github.com/elastic/beats) : Go
+  - 🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
 - [testify](https://github.com/stretchr/testify) : Go
   - A toolkit with common assertions and mocks that plays nicely with the standard library
-- [kustomize](https://github.com/kubernetes-sigs/kustomize) : Go
-  - Customization of kubernetes YAML configurations
+- [requests](https://github.com/psf/requests) : Python
+  - A simple, yet elegant HTTP library.
+- [autoscaler](https://github.com/kubernetes/autoscaler) : Go
+  - Autoscaling components for Kubernetes
