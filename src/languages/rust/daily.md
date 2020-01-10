@@ -1,51 +1,51 @@
 # rust
-- [jormungandr](https://github.com/input-output-hk/jormungandr)
-  - aspiring blockchain node
 - [starship](https://github.com/starship/starship)
   - ☄🌌️ The cross-shell prompt for astronauts
-- [c2rust](https://github.com/immunant/c2rust)
-  - Migrate C code to Rust
+- [cxx](https://github.com/dtolnay/cxx)
+  - Safe interop between Rust and C++
 - [spotify-tui](https://github.com/Rigellute/spotify-tui)
   - Spotify for the terminal written in Rust 🚀
-- [occlum](https://github.com/occlum/occlum)
-  - Occlum is a memory-safe, multi-process library OS for Intel SGX
-- [cranelift](https://github.com/bytecodealliance/cranelift)
-  - Cranelift code generator
-- [zexe](https://github.com/scipr-lab/zexe)
-  - Rust library for decentralized private computation
-- [rusoto](https://github.com/rusoto/rusoto)
-  - AWS SDK for Rust
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
-- [nushell](https://github.com/nushell/nushell)
-  - A modern shell written in Rust
 - [spotifyd](https://github.com/Spotifyd/spotifyd)
   - A spotify daemon
-- [tonic](https://github.com/hyperium/tonic)
-  - A native gRPC client & server implementation with async/await support.
+- [nushell](https://github.com/nushell/nushell)
+  - A modern shell written in Rust
+- [cranelift](https://github.com/bytecodealliance/cranelift)
+  - Cranelift code generator
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - ripgrep recursively searches directories for a regex pattern
+- [elasticsearch-rs](https://github.com/elastic/elasticsearch-rs)
+  - Elasticsearch Rust Client
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
 - [firecracker](https://github.com/firecracker-microvm/firecracker)
   - Secure and fast microVMs for serverless computing.
-- [pyo3](https://github.com/PyO3/pyo3)
-  - Rust bindings for the Python interpreter
-- [amethyst](https://github.com/amethyst/amethyst)
-  - Data-oriented and data-driven game engine written in Rust
-- [indy-sdk](https://github.com/hyperledger/indy-sdk)
-  - Everything needed to build applications that interact with an Indy distributed identity ledger.
 - [vector](https://github.com/timberio/vector)
   - A High-Performance Monitoring & Observability Data Router
-- [findomain](https://github.com/Edu4rdSHL/findomain)
-  - The fastest and cross-platform subdomain enumerator, don't waste your time.
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-  - A curated list of Rust code and resources.
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix web is a small, pragmatic, and extremely fast rust web framework.
-- [lsd](https://github.com/Peltoche/lsd)
-  - The next gen ls command
-- [WASI](https://github.com/WebAssembly/WASI)
-  - WebAssembly System Interface
-- [polkadot](https://github.com/paritytech/polkadot)
-  - Polkadot Node Implementation
+- [fd](https://github.com/sharkdp/fd)
+  - A simple, fast and user-friendly alternative to 'find'
+- [jormungandr](https://github.com/input-output-hk/jormungandr)
+  - aspiring blockchain node
+- [rayon](https://github.com/rayon-rs/rayon)
+  - Rayon: A data parallelism library for Rust
 - [tokio](https://github.com/tokio-rs/tokio)
   - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [wasmer](https://github.com/wasmerio/wasmer)
-  - 🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten
+- [rusoto](https://github.com/rusoto/rusoto)
+  - AWS SDK for Rust
+- [arcs](https://github.com/Michael-F-Bryan/arcs)
+  - A Rust CAD System
+- [nom](https://github.com/Geal/nom)
+  - Rust parser combinator framework
+- [exa](https://github.com/ogham/exa)
+  - A modern version of ‘ls’.
+- [proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop)
+  - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
+- [rust-libp2p](https://github.com/libp2p/rust-libp2p)
+  - The Rust Implementation of libp2p networking stack.
+- [py-spy](https://github.com/benfred/py-spy)
+  - Sampling profiler for Python programs
+- [book](https://github.com/rust-lang/book)
+  - The Rust Programming Language
+- [tracing](https://github.com/tokio-rs/tracing)
+  - Application level tracing for Rust.
