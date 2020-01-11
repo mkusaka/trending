@@ -1,50 +1,51 @@
 # general
+- [BLAKE3](https://github.com/BLAKE3-team/BLAKE3) : Rust
+  - The BLAKE3 cryptographic hash function
+- [scalene](https://github.com/emeryberger/scalene) : Python
+  - a high-performance, high-precision CPU and memory profiler for Python
+- [broot](https://github.com/Canop/broot) : Rust
+  - A new way to see and navigate directory trees
+- [awesome-uses](https://github.com/wesbos/awesome-uses) : JavaScript
+  - A list of /uses pages detailing developer setups, gear, software and configs.
 - [chatwoot](https://github.com/chatwoot/chatwoot) : Ruby
   - Simple and elegant live chat software 🔥💬
-- [angular-cli](https://github.com/angular/angular-cli) : TypeScript
-  - CLI tool for Angular
+- [terminal](https://github.com/microsoft/terminal) : C++
+  - The new Windows Terminal, and the original Windows console host - all in the same place!
+- [TencentOS-kernel](https://github.com/Tencent/TencentOS-kernel) : C
+  - 腾讯针对云的场景研发的服务器操作系统
+- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) : Python
+  - 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
 - [redash](https://github.com/getredash/redash) : JavaScript
   - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-- [django](https://github.com/django/django) : Python
-  - The Web framework for perfectionists with deadlines.
-- [difftaichi](https://github.com/yuanming-hu/difftaichi) : 
-  - 10 differentiable physical simulators built with Taichi differentiable programming (DiffTaichi, ICLR 2020)
-- [coding-cheat-sheets](https://github.com/aspittel/coding-cheat-sheets) : 
-  - Various cheat sheets on CS stuff
-- [mlflow](https://github.com/mlflow/mlflow) : Python
-  - Open source platform for the machine learning lifecycle
-- [airlock](https://github.com/laravel/airlock) : PHP
-- [awesome-uses](https://github.com/wesbos/awesome-uses) : 
-  - Awesome Uses Page
-- [manifold](https://github.com/uber/manifold) : JavaScript
-  - A model-agnostic visual debugging tool for machine learning
-- [Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) : 
-  - A collection of open source and commercial tools that aid in red team operations.
-- [how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) : 
-  - Below are some simple methods for exiting vim.
-- [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) : Python
-  - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
+- [awesome-react-components](https://github.com/brillout/awesome-react-components) : 
+  - Curated List of React Components & Libraries.
+- [TencentOS-tiny](https://github.com/Tencent/TencentOS-tiny) : C
+  - 腾讯物联网终端操作系统
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
+  - 📚 Freely available programming books
+- [awesome](https://github.com/sindresorhus/awesome) : 
+  - 😎 Awesome lists about all kinds of interesting topics
+- [browser-2020](https://github.com/luruke/browser-2020) : 
+  - Things you can do with a browser in 2020 ☕️
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
   - 💯 Materials to help you rock your next coding interview
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
-  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) : TeX
-  - Cheat Sheets
+- [alpine](https://github.com/alpinejs/alpine) : JavaScript
+  - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [postgres](https://github.com/porsager/postgres) : JavaScript
   - Postgres.js - The Fastest full featured PostgreSQL client for Node.js
-- [azure-powershell](https://github.com/Azure/azure-powershell) : C#
-  - Microsoft Azure PowerShell
+- [jexcel](https://github.com/paulhodel/jexcel) : JavaScript
+  - jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software.
+- [govalidate](https://github.com/rakyll/govalidate) : Go
+  - Validates your Go installation and dependencies.
+- [coding-cheat-sheets](https://github.com/aspittel/coding-cheat-sheets) : 
+  - Various cheat sheets on CS stuff
 - [jetbrain-activation-code](https://github.com/lubosson/jetbrain-activation-code) : 
   - jetbrain software全家桶激活码activation code, including intellij idea，pycharm，datagrip, webstorm...
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [luban-h5](https://github.com/ly525/luban-h5) : JavaScript
-  - [WIP]en: web design tool || mobile page builder/editor || mini webflow for mobile page. zh: 类似易企秀的H5制作、建站工具.
-- [beats](https://github.com/elastic/beats) : Go
-  - 🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
-- [testify](https://github.com/stretchr/testify) : Go
-  - A toolkit with common assertions and mocks that plays nicely with the standard library
-- [requests](https://github.com/psf/requests) : Python
-  - A simple, yet elegant HTTP library.
-- [autoscaler](https://github.com/kubernetes/autoscaler) : Go
-  - Autoscaling components for Kubernetes
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [json](https://github.com/nlohmann/json) : C++
+  - JSON for Modern C++
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
+  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [L7](https://github.com/antvis/L7) : TypeScript
+  - 🌎 Large-scale WebGL-powered Geospatial Data Visualization

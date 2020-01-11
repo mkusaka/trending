@@ -1,51 +1,51 @@
 # c++
-- [ThreadPool](https://github.com/progschj/ThreadPool)
-  - A simple C++11 Thread Pool implementation
-- [spdlog](https://github.com/gabime/spdlog)
-  - Fast C++ logging library.
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
+- [terminal](https://github.com/microsoft/terminal)
+  - The new Windows Terminal, and the original Windows console host - all in the same place!
 - [json](https://github.com/nlohmann/json)
   - JSON for Modern C++
-- [Beef](https://github.com/beefytech/Beef)
-  - Beef Programming Language
-- [rocksdb](https://github.com/facebook/rocksdb)
-  - A library that provides an embeddable, persistent key-value store for fast storage.
-- [CVE-2019-1215](https://github.com/bluefrostsecurity/CVE-2019-1215)
-  - 
-- [carla](https://github.com/carla-simulator/carla)
-  - Open-source simulator for autonomous driving research.
-- [electron](https://github.com/electron/electron)
-  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [protobuf](https://github.com/protocolbuffers/protobuf)
-  - Protocol Buffers - Google's data interchange format
+- [pybind11](https://github.com/pybind/pybind11)
+  - Seamless operability between C++11 and Python
+- [SFVNetcodeFix](https://github.com/AltimorTASDK/SFVNetcodeFix)
+  - Fix for SFV's online timing desync/one sided rollback bug
+- [milvus](https://github.com/milvus-io/milvus)
+  - Milvus -- the world's fastest vector search engine.
 - [googletest](https://github.com/google/googletest)
   - Googletest - Google Testing and Mocking Framework
+- [Spray-AD](https://github.com/outflanknl/Spray-AD)
+  - A Cobalt Strike tool to audit Active Directory user accounts for weak, well known or easy guessable passwords.
+- [filament](https://github.com/google/filament)
+  - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
+- [pcl](https://github.com/PointCloudLibrary/pcl)
+  - Point Cloud Library (PCL)
+- [tensorflow](https://github.com/tensorflow/tensorflow)
+  - An Open Source Machine Learning Framework for Everyone
+- [cpp-httplib](https://github.com/yhirose/cpp-httplib)
+  - A C++ header-only HTTP/HTTPS server and client library
+- [incubator-brpc](https://github.com/apache/incubator-brpc)
+  - Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services, called "baidu-rpc" inside Baidu.
+- [mlpack](https://github.com/mlpack/mlpack)
+  - mlpack: a scalable C++ machine learning library --
+- [Firmware](https://github.com/PX4/Firmware)
+  - PX4 Autopilot Software
+- [emscripten](https://github.com/emscripten-core/emscripten)
+  - Emscripten: An LLVM-to-Web Compiler
+- [Open3D](https://github.com/intel-isl/Open3D)
+  - Open3D: A Modern Library for 3D Data Processing
 - [loam_livox](https://github.com/hku-mars/loam_livox)
   - A robust LiDAR Odometry and Mapping (LOAM) package for Livox-LiDAR
-- [grpc](https://github.com/grpc/grpc)
-  - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-- [sentencepiece](https://github.com/google/sentencepiece)
-  - Unsupervised text tokenizer for Neural Network-based text generation.
-- [Hippy](https://github.com/Tencent/Hippy)
-  - A cross platform framework designed for Web developer. Introduction video - https://v.qq.com/x/page/i3038urj2mt.html
-- [jetson-inference](https://github.com/dusty-nv/jetson-inference)
-  - Guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
-- [MNN](https://github.com/alibaba/MNN)
-  - MNN is a lightweight deep neural network inference engine.
+- [valhalla](https://github.com/valhalla/valhalla)
+  - Open Source Routing Engine for OpenStreetMap
 - [pytorch](https://github.com/pytorch/pytorch)
   - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [bitcoin](https://github.com/bitcoin/bitcoin)
-  - Bitcoin Core integration/staging tree
-- [swoole-src](https://github.com/swoole/swoole-src)
-  - 🚀 Coroutine-based concurrency library for PHP
-- [envoy](https://github.com/envoyproxy/envoy)
-  - Cloud-native high-performance edge/middle/service proxy
-- [esp-rfid](https://github.com/esprfid/esp-rfid)
-  - ESP8266 RFID (RC522, PN532, Wiegand, RDM6300) Access Control system featuring WebSocket, JSON, NTP Client, Javascript, SPIFFS
-- [RxCpp](https://github.com/ReactiveX/RxCpp)
-  - Reactive Extensions for C++
-- [taichi](https://github.com/taichi-dev/taichi)
-  - The Taichi programming language
-- [SEAL](https://github.com/microsoft/SEAL)
-  - Microsoft SEAL is an easy-to-use and powerful homomorphic encryption library.
+- [Paddle](https://github.com/PaddlePaddle/Paddle)
+  - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
+- [cpprestsdk](https://github.com/microsoft/cpprestsdk)
+  - The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
+- [librealsense](https://github.com/IntelRealSense/librealsense)
+  - Intel® RealSense™ SDK
+- [electron](https://github.com/electron/electron)
+  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [srs](https://github.com/ossrs/srs)
+  - SRS is a simple live streaming cluster, a simple joy.
+- [rocksdb](https://github.com/facebook/rocksdb)
+  - A library that provides an embeddable, persistent key-value store for fast storage.
