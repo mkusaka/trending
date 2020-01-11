@@ -1,51 +1,51 @@
 # rust
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The cross-shell prompt for astronauts
-- [cxx](https://github.com/dtolnay/cxx)
-  - Safe interop between Rust and C++
-- [spotify-tui](https://github.com/Rigellute/spotify-tui)
-  - Spotify for the terminal written in Rust 🚀
-- [spotifyd](https://github.com/Spotifyd/spotifyd)
-  - A spotify daemon
-- [nushell](https://github.com/nushell/nushell)
-  - A modern shell written in Rust
-- [cranelift](https://github.com/bytecodealliance/cranelift)
-  - Cranelift code generator
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [ripgrep](https://github.com/BurntSushi/ripgrep)
-  - ripgrep recursively searches directories for a regex pattern
-- [elasticsearch-rs](https://github.com/elastic/elasticsearch-rs)
-  - Elasticsearch Rust Client
+- [BLAKE3](https://github.com/BLAKE3-team/BLAKE3)
+  - The BLAKE3 cryptographic hash function
+- [broot](https://github.com/Canop/broot)
+  - A new way to see and navigate directory trees
 - [substrate](https://github.com/paritytech/substrate)
   - Substrate: The platform for blockchain innovators
-- [firecracker](https://github.com/firecracker-microvm/firecracker)
-  - Secure and fast microVMs for serverless computing.
-- [vector](https://github.com/timberio/vector)
-  - A High-Performance Monitoring & Observability Data Router
-- [fd](https://github.com/sharkdp/fd)
-  - A simple, fast and user-friendly alternative to 'find'
+- [elasticsearch-rs](https://github.com/elastic/elasticsearch-rs)
+  - Elasticsearch Rust Client
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
 - [jormungandr](https://github.com/input-output-hk/jormungandr)
   - aspiring blockchain node
-- [rayon](https://github.com/rayon-rs/rayon)
-  - Rayon: A data parallelism library for Rust
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [rusoto](https://github.com/rusoto/rusoto)
-  - AWS SDK for Rust
-- [arcs](https://github.com/Michael-F-Bryan/arcs)
-  - A Rust CAD System
-- [nom](https://github.com/Geal/nom)
-  - Rust parser combinator framework
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - ripgrep recursively searches directories for a regex pattern
+- [alacritty](https://github.com/alacritty/alacritty)
+  - A cross-platform, GPU-accelerated terminal emulator
+- [sqlx](https://github.com/launchbadge/sqlx)
+  - 🧰 The Rust SQL Toolkit.
+- [cranelift](https://github.com/bytecodealliance/cranelift)
+  - Cranelift code generator
+- [tonic](https://github.com/hyperium/tonic)
+  - A native gRPC client & server implementation with async/await support.
+- [cxx](https://github.com/dtolnay/cxx)
+  - Safe interop between Rust and C++
+- [rudr](https://github.com/oam-dev/rudr)
+  - A Kubernetes implementation of the Open Application Model specification
 - [exa](https://github.com/ogham/exa)
   - A modern version of ‘ls’.
-- [proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop)
-  - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
-- [rust-libp2p](https://github.com/libp2p/rust-libp2p)
-  - The Rust Implementation of libp2p networking stack.
-- [py-spy](https://github.com/benfred/py-spy)
-  - Sampling profiler for Python programs
-- [book](https://github.com/rust-lang/book)
-  - The Rust Programming Language
+- [rayon](https://github.com/rayon-rs/rayon)
+  - Rayon: A data parallelism library for Rust
+- [Rocket](https://github.com/SergioBenitez/Rocket)
+  - A web framework for Rust.
+- [lsd](https://github.com/Peltoche/lsd)
+  - The next gen ls command
+- [fd](https://github.com/sharkdp/fd)
+  - A simple, fast and user-friendly alternative to 'find'
 - [tracing](https://github.com/tokio-rs/tracing)
   - Application level tracing for Rust.
+- [py-spy](https://github.com/benfred/py-spy)
+  - Sampling profiler for Python programs
+- [spotify-tui](https://github.com/Rigellute/spotify-tui)
+  - Spotify for the terminal written in Rust 🚀
+- [wasmtime](https://github.com/bytecodealliance/wasmtime)
+  - Standalone JIT-style runtime for WebAssembly, using Cranelift
+- [amethyst](https://github.com/amethyst/amethyst)
+  - Data-oriented and data-driven game engine written in Rust
+- [wrangler](https://github.com/cloudflare/wrangler)
+  - 🤠 wrangle your cloudflare workers
+- [clap](https://github.com/clap-rs/clap)
+  - A full featured, fast Command Line Argument Parser for Rust

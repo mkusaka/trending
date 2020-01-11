@@ -1,51 +1,51 @@
 # javascript
+- [awesome-uses](https://github.com/wesbos/awesome-uses)
+  - A list of /uses pages detailing developer setups, gear, software and configs.
 - [redash](https://github.com/getredash/redash)
   - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-- [manifold](https://github.com/uber/manifold)
-  - A model-agnostic visual debugging tool for machine learning
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
   - 💯 Materials to help you rock your next coding interview
-- [postgres](https://github.com/porsager/postgres)
-  - Postgres.js - The Fastest full featured PostgreSQL client for Node.js
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [luban-h5](https://github.com/ly525/luban-h5)
-  - [WIP]en: web design tool || mobile page builder/editor || mini webflow for mobile page. zh: 类似易企秀的H5制作、建站工具.
-- [strapi](https://github.com/strapi/strapi)
-  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
 - [alpine](https://github.com/alpinejs/alpine)
   - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [codelf](https://github.com/unbug/codelf)
-  - A search tool helps dev to solve the naming things problem.
-- [OwlCarousel2](https://github.com/OwlCarousel2/OwlCarousel2)
-  - DEPRECATED jQuery Responsive Carousel.
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [swiper](https://github.com/nolimits4web/swiper)
-  - Most modern mobile touch slider with hardware accelerated transitions
-- [lottie-web](https://github.com/airbnb/lottie-web)
-  - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
-- [material-components-web](https://github.com/material-components/material-components-web)
-  - Modular and customizable Material Design UI components for the web
-- [docusaurus](https://github.com/facebook/docusaurus)
-  - Easy to maintain open source documentation websites.
-- [single-spa](https://github.com/CanopyTax/single-spa)
-  - Microfrontends made easy
-- [next.js](https://github.com/zeit/next.js)
-  - The React Framework
-- [snowpack](https://github.com/pikapkg/snowpack)
-  - 📦✨ Run npm packages directly in the browser. No Webpack, Parcel, or bundlers required.
-- [openlayers](https://github.com/openlayers/openlayers)
-  - OpenLayers
+- [postgres](https://github.com/porsager/postgres)
+  - Postgres.js - The Fastest full featured PostgreSQL client for Node.js
 - [jexcel](https://github.com/paulhodel/jexcel)
   - jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software.
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [strapi](https://github.com/strapi/strapi)
+  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
 - [javascript](https://github.com/airbnb/javascript)
   - JavaScript Style Guide
-- [serverless-offline](https://github.com/dherault/serverless-offline)
-  - Emulate AWS λ and API Gateway locally when developing your Serverless project
-- [d3](https://github.com/d3/d3)
-  - Bring data to life with SVG, Canvas and HTML. 📊📈🎉
-- [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
-  - The best design tools and plugins for everything 👉
-- [airframe-react](https://github.com/0wczar/airframe-react)
-  - Free Open Source High Quality Dashboard based on Bootstrap 4 & React 16: http://dashboards.webkom.co/react/airframe
+- [beautiful-react-hooks](https://github.com/beautifulinteractions/beautiful-react-hooks)
+  - 🔥A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
+- [request](https://github.com/request/request)
+  - 🏊🏾 Simplified HTTP request client.
+- [appium](https://github.com/appium/appium)
+  - 📱 Automation for iOS, Android, and Windows Apps.
+- [renovate](https://github.com/renovatebot/renovate)
+  - Universal dependency update tool that fits into your workflows.
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [sequelize](https://github.com/sequelize/sequelize)
+  - An easy-to-use multi SQL dialect ORM for Node.js
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+  - Headless Chrome Node.js API
+- [styled-components](https://github.com/styled-components/styled-components)
+  - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
+- [html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin)
+  - Simplifies creation of HTML files to serve your webpack bundles
+- [FeHelper](https://github.com/zxlie/FeHelper)
+  - 😍FeHelper--Web前端助手（Awesome！Chrome & Firefox Extension, All in one Toolbox!）
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui)
+  - ⚡️Simple, Modular & Accessible UI Components for your React Applications
+- [husky](https://github.com/typicode/husky)
+  - Git hooks made easy 🐶 woof!
+- [taro](https://github.com/NervJS/taro)
+  - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动/ QQ 小程序/快应用/H5/React Native 等的应用。 https://taro.jd.com/
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [sagemcom-fast-3890-exploit](https://github.com/Lyrebirds/sagemcom-fast-3890-exploit)
+  - 
+- [babel](https://github.com/babel/babel)
+  - 🐠 Babel is a compiler for writing next generation JavaScript.
