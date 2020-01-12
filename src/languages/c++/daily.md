@@ -1,51 +1,51 @@
 # c++
+- [VVVVVV](https://github.com/TerryCavanagh/VVVVVV)
+  - The source code to VVVVVV, now open and public!
+- [godot](https://github.com/godotengine/godot)
+  - Godot Engine – Multi-platform 2D and 3D game engine
 - [terminal](https://github.com/microsoft/terminal)
   - The new Windows Terminal, and the original Windows console host - all in the same place!
 - [json](https://github.com/nlohmann/json)
   - JSON for Modern C++
-- [pybind11](https://github.com/pybind/pybind11)
-  - Seamless operability between C++11 and Python
+- [CRYENGINE](https://github.com/CRYTEK/CRYENGINE)
+  - CRYENGINE is a powerful real-time game development platform created by Crytek.
+- [Marlin](https://github.com/MarlinFirmware/Marlin)
+  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
+- [BIGTREETECH-SKR-V1.3](https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3)
+  - 32bit board with LPC1768, support marlin2.0 and smoothieware, support lcd2004/12864, On-board TMC2130 SPI interface and TMC2208 UART interface no additional wiring is required
+- [llvm-project](https://github.com/llvm/llvm-project)
+  - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
+- [fivem](https://github.com/citizenfx/fivem)
+  - The source code for the FiveM modification framework for GTA V.
+- [Hippy](https://github.com/Tencent/Hippy)
+  - A cross platform framework designed for Web developer. Introduction video - https://v.qq.com/x/page/i3038urj2mt.html
+- [leela-zero](https://github.com/leela-zero/leela-zero)
+  - Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.
+- [allwpilib](https://github.com/wpilibsuite/allwpilib)
+  - Official Repository of WPILibJ and WPILibC
+- [rpcs3](https://github.com/RPCS3/rpcs3)
+  - PS3 emulator/debugger
+- [openpilot](https://github.com/commaai/openpilot)
+  - open source driving agent
 - [SFVNetcodeFix](https://github.com/AltimorTASDK/SFVNetcodeFix)
   - Fix for SFV's online timing desync/one sided rollback bug
+- [imgui](https://github.com/ocornut/imgui)
+  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+- [Tasmota](https://github.com/arendst/Tasmota)
+  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
 - [milvus](https://github.com/milvus-io/milvus)
   - Milvus -- the world's fastest vector search engine.
+- [Vulkan](https://github.com/SaschaWillems/Vulkan)
+  - Examples and demos for the new Vulkan API
+- [xbmc](https://github.com/xbmc/xbmc)
+  - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
+- [FastLED](https://github.com/FastLED/FastLED)
+  - The main FastLED library (successor to FastSPI_LED). Please direct questions/requests for advice to the reddit community - http://fastled.io/r - we'd like to keep issues to just tracking bugs/enhancements/tasks. *NOTE* major library work is currently on hold
 - [googletest](https://github.com/google/googletest)
   - Googletest - Google Testing and Mocking Framework
-- [Spray-AD](https://github.com/outflanknl/Spray-AD)
-  - A Cobalt Strike tool to audit Active Directory user accounts for weak, well known or easy guessable passwords.
-- [filament](https://github.com/google/filament)
-  - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
-- [pcl](https://github.com/PointCloudLibrary/pcl)
-  - Point Cloud Library (PCL)
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [cpp-httplib](https://github.com/yhirose/cpp-httplib)
-  - A C++ header-only HTTP/HTTPS server and client library
-- [incubator-brpc](https://github.com/apache/incubator-brpc)
-  - Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services, called "baidu-rpc" inside Baidu.
-- [mlpack](https://github.com/mlpack/mlpack)
-  - mlpack: a scalable C++ machine learning library --
-- [Firmware](https://github.com/PX4/Firmware)
-  - PX4 Autopilot Software
-- [emscripten](https://github.com/emscripten-core/emscripten)
-  - Emscripten: An LLVM-to-Web Compiler
-- [Open3D](https://github.com/intel-isl/Open3D)
-  - Open3D: A Modern Library for 3D Data Processing
-- [loam_livox](https://github.com/hku-mars/loam_livox)
-  - A robust LiDAR Odometry and Mapping (LOAM) package for Livox-LiDAR
-- [valhalla](https://github.com/valhalla/valhalla)
-  - Open Source Routing Engine for OpenStreetMap
-- [pytorch](https://github.com/pytorch/pytorch)
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [Paddle](https://github.com/PaddlePaddle/Paddle)
-  - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
-- [cpprestsdk](https://github.com/microsoft/cpprestsdk)
-  - The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
-- [librealsense](https://github.com/IntelRealSense/librealsense)
-  - Intel® RealSense™ SDK
-- [electron](https://github.com/electron/electron)
-  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [srs](https://github.com/ossrs/srs)
-  - SRS is a simple live streaming cluster, a simple joy.
-- [rocksdb](https://github.com/facebook/rocksdb)
-  - A library that provides an embeddable, persistent key-value store for fast storage.
+- [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe)
+  - waifu2xのCaffe版
+- [plaidml](https://github.com/plaidml/plaidml)
+  - PlaidML is a framework for making deep learning work everywhere.
+- [xournalpp](https://github.com/xournalpp/xournalpp)
+  - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
