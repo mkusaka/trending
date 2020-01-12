@@ -1,51 +1,51 @@
 # general
-- [BLAKE3](https://github.com/BLAKE3-team/BLAKE3) : Rust
-  - The BLAKE3 cryptographic hash function
-- [scalene](https://github.com/emeryberger/scalene) : Python
-  - a high-performance, high-precision CPU and memory profiler for Python
-- [broot](https://github.com/Canop/broot) : Rust
-  - A new way to see and navigate directory trees
-- [awesome-uses](https://github.com/wesbos/awesome-uses) : JavaScript
-  - A list of /uses pages detailing developer setups, gear, software and configs.
-- [chatwoot](https://github.com/chatwoot/chatwoot) : Ruby
-  - Simple and elegant live chat software 🔥💬
-- [terminal](https://github.com/microsoft/terminal) : C++
-  - The new Windows Terminal, and the original Windows console host - all in the same place!
-- [TencentOS-kernel](https://github.com/Tencent/TencentOS-kernel) : C
-  - 腾讯针对云的场景研发的服务器操作系统
-- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) : Python
-  - 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
-- [redash](https://github.com/getredash/redash) : JavaScript
-  - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-- [awesome-react-components](https://github.com/brillout/awesome-react-components) : 
-  - Curated List of React Components & Libraries.
-- [TencentOS-tiny](https://github.com/Tencent/TencentOS-tiny) : C
-  - 腾讯物联网终端操作系统
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [awesome](https://github.com/sindresorhus/awesome) : 
-  - 😎 Awesome lists about all kinds of interesting topics
-- [browser-2020](https://github.com/luruke/browser-2020) : 
-  - Things you can do with a browser in 2020 ☕️
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
-  - 💯 Materials to help you rock your next coding interview
+- [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) : C++
+  - The source code to VVVVVV, now open and public!
 - [alpine](https://github.com/alpinejs/alpine) : JavaScript
   - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [postgres](https://github.com/porsager/postgres) : JavaScript
-  - Postgres.js - The Fastest full featured PostgreSQL client for Node.js
-- [jexcel](https://github.com/paulhodel/jexcel) : JavaScript
-  - jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software.
-- [govalidate](https://github.com/rakyll/govalidate) : Go
-  - Validates your Go installation and dependencies.
-- [coding-cheat-sheets](https://github.com/aspittel/coding-cheat-sheets) : 
-  - Various cheat sheets on CS stuff
-- [jetbrain-activation-code](https://github.com/lubosson/jetbrain-activation-code) : 
-  - jetbrain software全家桶激活码activation code, including intellij idea，pycharm，datagrip, webstorm...
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [json](https://github.com/nlohmann/json) : C++
-  - JSON for Modern C++
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
-  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [L7](https://github.com/antvis/L7) : TypeScript
-  - 🌎 Large-scale WebGL-powered Geospatial Data Visualization
+- [BLAKE3](https://github.com/BLAKE3-team/BLAKE3) : Rust
+  - The BLAKE3 cryptographic hash function
+- [astuto](https://github.com/riggraz/astuto) : Ruby
+  - A free, open source, self-hosted customer feedback tool 🦊
+- [craft.js](https://github.com/prevwong/craft.js) : TypeScript
+  - 🚀 A React Framework for building extensible drag and drop page editors
+- [godot](https://github.com/godotengine/godot) : C++
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
+  - 📚 Freely available programming books
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) : 
+  - A book series on JavaScript. @YDKJS on twitter.
+- [terminal](https://github.com/microsoft/terminal) : C++
+  - The new Windows Terminal, and the original Windows console host - all in the same place!
+- [awesome-uses](https://github.com/wesbos/awesome-uses) : JavaScript
+  - A list of /uses pages detailing developer setups, gear, software and configs.
+- [redash](https://github.com/getredash/redash) : JavaScript
+  - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+- [lede](https://github.com/coolsnowwolf/lede) : C
+  - Lean's OpenWrt source
+- [mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) : Jupyter Notebook
+  - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
+- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) : Python
+  - 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
+- [magnetW](https://github.com/xiandanin/magnetW) : JavaScript
+  - 磁力链接聚合搜索
+- [pwc](https://github.com/zziz/pwc) : 
+  - Papers with code. Sorted by stars. Updated weekly.
+- [scalene](https://github.com/emeryberger/scalene) : Python
+  - a high-performance, high-precision CPU and memory profiler for Python
+- [strapi](https://github.com/strapi/strapi) : JavaScript
+  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [awesome-python](https://github.com/vinta/awesome-python) : Python
+  - A curated list of awesome Python frameworks, libraries, software and resources
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
+  - 💯 Materials to help you rock your next coding interview
+- [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) : Python
+  - Launched in 2018 Actively developed and supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom layout GUI's simply. Python 2.7 & 3 Support. 200+ Demo programs & Cookbook for rapid start. Extensive documentation. Examples using Machine Learning(GUI, OpenCV Integration, Chatterbot), Floating Desktop Widgets, Matplotlib + Pyplo…
+- [browser-2020](https://github.com/luruke/browser-2020) : 
+  - Things you can do with a browser in 2020 ☕️
+- [autogluon](https://github.com/awslabs/autogluon) : Python
+  - AutoGluon: AutoML Toolkit for Deep Learning
+- [TencentOS-tiny](https://github.com/Tencent/TencentOS-tiny) : C
+  - 腾讯物联网终端操作系统
+- [awful-ai](https://github.com/daviddao/awful-ai) : 
+  - 😈Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness
