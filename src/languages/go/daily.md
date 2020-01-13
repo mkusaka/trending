@@ -1,51 +1,51 @@
 # go
-- [tanka](https://github.com/grafana/tanka)
-  - Flexible, reusable and concise configuration for Kubernetes
-- [goleak](https://github.com/uber-go/goleak)
-  - Goroutine leak detector
 - [sampler](https://github.com/sqshq/sampler)
   - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
+- [go-patterns](https://github.com/tmrts/go-patterns)
+  - Curated list of Go design patterns, recipes and idioms
 - [yay](https://github.com/Jguer/yay)
   - Yet another Yogurt - An AUR Helper written in Go
-- [cortex](https://github.com/cortexlabs/cortex)
-  - Deploy machine learning models in production
-- [dapr](https://github.com/dapr/dapr)
-  - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-- [caddy](https://github.com/caddyserver/caddy)
-  - Fast, cross-platform HTTP/2 web server with automatic HTTPS
-- [hugo](https://github.com/gohugoio/hugo)
-  - The world’s fastest framework for building websites.
-- [lantern](https://github.com/getlantern/lantern)
-  - Lantern官方版本下载 蓝灯 翻墙 科学上网 外网 加速器 梯子 路由 lantern censorship-circumvention censorship gfw vpn accelerator
-- [golang-web-dev](https://github.com/GoesToEleven/golang-web-dev)
-  - 
-- [cloud-torrent](https://github.com/jpillora/cloud-torrent)
-  - ☁️ Cloud Torrent: a self-hosted remote torrent client
+- [syncthing](https://github.com/syncthing/syncthing)
+  - Open Source Continuous File Synchronization
 - [tinygo](https://github.com/tinygo-org/tinygo)
   - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
-- [govmomi](https://github.com/vmware/govmomi)
-  - Go library for the VMware vSphere API
-- [phantom](https://github.com/jhead/phantom)
-  - Use your own Minecraft server with your Xbox or PS4 and play with friends!
-- [clash](https://github.com/Dreamacro/clash)
-  - A rule-based tunnel in Go.
-- [ent](https://github.com/facebookincubator/ent)
-  - An entity framework for Go
-- [govalidate](https://github.com/rakyll/govalidate)
-  - Validates your Go installation and dependencies.
-- [pixel](https://github.com/faiface/pixel)
-  - A hand-crafted 2D game library in Go
+- [hugo](https://github.com/gohugoio/hugo)
+  - The world’s fastest framework for building websites.
+- [ok-zoomer](https://github.com/jbirms/ok-zoomer)
+  - A Go program that takes an image, uses pigo to detect a face, and creates a gif that zooms in on the face
 - [annie](https://github.com/iawia002/annie)
   - 👾 Fast, simple and clean video downloader
-- [gf](https://github.com/gogf/gf)
-  - GoFrame is a modular, full-featured and production-ready application development framework of golang. Providing a series of core components and dozens of practical modules, such as: cache, logging, containers, timer, resource, validator, database orm, etc. Supporting web server integrated with router, cookie, session, middleware, logger, configu…
-- [short](https://github.com/short-d/short)
-  - URL shortening service written in Go and React
-- [lnd](https://github.com/lightningnetwork/lnd)
-  - Lightning Network Daemon ⚡️
-- [argo-cd](https://github.com/argoproj/argo-cd)
-  - Declarative continuous deployment for Kubernetes.
-- [arduino-cli](https://github.com/arduino/arduino-cli)
-  - Arduino command line interface
-- [antrea](https://github.com/vmware-tanzu/antrea)
-  - A Kubernetes networking solution based on Open vSwitch
+- [OctoScreen](https://github.com/Z-Bolt/OctoScreen)
+  - LCD touch interface for our Octoprint
+- [cortex](https://github.com/cortexlabs/cortex)
+  - Deploy machine learning models in production
+- [sourcegraph](https://github.com/sourcegraph/sourcegraph)
+  - Universal code search and navigation tool (self-hosted)
+- [perkeep](https://github.com/perkeep/perkeep)
+  - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
+- [chaos-mesh](https://github.com/pingcap/chaos-mesh)
+  - A Chaos Engineering Platform for Kubernetes
+- [istio](https://github.com/istio/istio)
+  - Connect, secure, control, and observe services.
+- [raft](https://github.com/hashicorp/raft)
+  - Golang implementation of the Raft consensus protocol
+- [go](https://github.com/golang/go)
+  - The Go programming language
+- [rclone](https://github.com/rclone/rclone)
+  - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+- [caddy](https://github.com/caddyserver/caddy)
+  - Fast, cross-platform HTTP/2 web server with automatic HTTPS
+- [glow](https://github.com/charmbracelet/glow)
+  - Render markdown on the CLI, with pizzazz! 💅🏻
+- [tanka](https://github.com/grafana/tanka)
+  - Flexible, reusable and concise configuration for Kubernetes
+- [sqlvet](https://github.com/houqp/sqlvet)
+  - Go fearless SQL. Sqlvet performs static analysis on raw SQL queries in your Go code base.
+- [domain-list-community](https://github.com/v2ray/domain-list-community)
+  - Community managed domain list
+- [goleak](https://github.com/uber-go/goleak)
+  - Goroutine leak detector
+- [gmsm](https://github.com/tjfoc/gmsm)
+  - GM SM2/3/4 library based on Golang (基于Go语言的国密SM2/SM3/SM4算法库)
+- [night-reading-go](https://github.com/developer-learning/night-reading-go)
+  - Night-Reading-Go《Go 夜读》 > Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics. 每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。

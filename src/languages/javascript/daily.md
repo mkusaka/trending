@@ -1,51 +1,51 @@
 # javascript
-- [alpine](https://github.com/alpinejs/alpine)
-  - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [awesome-uses](https://github.com/wesbos/awesome-uses)
-  - A list of /uses pages detailing developer setups, gear, software and configs.
-- [redash](https://github.com/getredash/redash)
-  - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+- [overreacted.io](https://github.com/gaearon/overreacted.io)
+  - Personal blog by Dan Abramov.
 - [magnetW](https://github.com/xiandanin/magnetW)
   - 磁力链接聚合搜索
-- [strapi](https://github.com/strapi/strapi)
-  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
-  - 💯 Materials to help you rock your next coding interview
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
-  - ✅ The largest Node.js best practices list (December 2019)
+- [alpine](https://github.com/alpinejs/alpine)
+  - A rugged, minimal framework for composing JavaScript behavior in your markup.
+- [redash](https://github.com/getredash/redash)
+  - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [beautiful-react-hooks](https://github.com/beautifulinteractions/beautiful-react-hooks)
   - 🔥A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
 - [sagemcom-fast-3890-exploit](https://github.com/Lyrebirds/sagemcom-fast-3890-exploit)
   - 
-- [klona](https://github.com/lukeed/klona)
-  - A tiny (281B) and fast utility to "deep clone" Objects, Arrays, Dates, RegExps, and more!
-- [gt-linalg](https://github.com/QBobWatson/gt-linalg)
-  - Interactive Linear Algebra, free online textbook at Georgia Tech
-- [discord.js](https://github.com/discordjs/discord.js)
-  - A powerful JavaScript library for interacting with the Discord API
-- [jexcel](https://github.com/paulhodel/jexcel)
-  - jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software.
-- [homebridge](https://github.com/nfarina/homebridge)
-  - HomeKit support for the impatient
-- [RSSHub](https://github.com/DIYgod/RSSHub)
-  - 🍰 万物皆可 RSS
-- [snowpack](https://github.com/pikapkg/snowpack)
-  - 📦✨ Run npm packages directly in the browser. No Webpack, Parcel, or bundlers required.
-- [iptv](https://github.com/iptv-org/iptv)
-  - Collection of 8000+ publicly available IPTV channels from all over the world
-- [tuyapi](https://github.com/codetheweb/tuyapi)
-  - 🌧 An easy-to-use API for devices that use Tuya's cloud services. Documentation: https://codetheweb.github.io/tuyapi.
-- [postgres](https://github.com/porsager/postgres)
-  - Postgres.js - The Fastest full featured PostgreSQL client for Node.js
 - [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
   - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
-- [RDR2CollectorsMap](https://github.com/jeanropke/RDR2CollectorsMap)
-  - 
-- [webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop)
-  - ❤️ Streaming torrent app for Mac, Windows, and Linux
-- [ccxt](https://github.com/ccxt/ccxt)
-  - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
+- [awesome-uses](https://github.com/wesbos/awesome-uses)
+  - A list of /uses pages detailing developer setups, gear, software and configs.
+- [iptv](https://github.com/iptv-org/iptv)
+  - Collection of 8000+ publicly available IPTV channels from all over the world
+- [cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor)
+  - nightscout web monitor
+- [klona](https://github.com/lukeed/klona)
+  - A tiny (281B) and fast utility to "deep clone" Objects, Arrays, Dates, RegExps, and more!
+- [edex-ui](https://github.com/GitSquared/edex-ui)
+  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [website](https://github.com/CodingTrain/website)
+  - Coding Train website
+- [leetcode](https://github.com/azl397985856/leetcode)
+  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+- [junior-recruit-scheduler](https://github.com/jojoldu/junior-recruit-scheduler)
+  - 주니어 개발자 채용 정보
+- [next.js](https://github.com/zeit/next.js)
+  - The React Framework
 - [etcher](https://github.com/balena-io/etcher)
   - Flash OS images to SD cards & USB drives, safely and easily.
+- [ethereumbook](https://github.com/ethereumbook/ethereumbook)
+  - Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
+- [showdoc](https://github.com/star7th/showdoc)
+  - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
+- [webui-aria2](https://github.com/ziahamza/webui-aria2)
+  - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
+- [lime](https://github.com/marcotcr/lime)
+  - Lime: Explaining the predictions of any machine learning classifier
+- [homebridge](https://github.com/nfarina/homebridge)
+  - HomeKit support for the impatient
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+  - ✅ The largest Node.js best practices list (December 2019)
