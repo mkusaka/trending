@@ -1,51 +1,50 @@
 # general
-- [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) : C++
-  - The source code to VVVVVV, now open and public!
-- [alpine](https://github.com/alpinejs/alpine) : JavaScript
-  - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [BLAKE3](https://github.com/BLAKE3-team/BLAKE3) : Rust
-  - The BLAKE3 cryptographic hash function
-- [astuto](https://github.com/riggraz/astuto) : Ruby
-  - A free, open source, self-hosted customer feedback tool 🦊
-- [craft.js](https://github.com/prevwong/craft.js) : TypeScript
-  - 🚀 A React Framework for building extensible drag and drop page editors
-- [godot](https://github.com/godotengine/godot) : C++
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
+- [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) : ActionScript
+  - The source code to VVVVVV!
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) : 
   - A book series on JavaScript. @YDKJS on twitter.
-- [terminal](https://github.com/microsoft/terminal) : C++
-  - The new Windows Terminal, and the original Windows console host - all in the same place!
-- [awesome-uses](https://github.com/wesbos/awesome-uses) : JavaScript
-  - A list of /uses pages detailing developer setups, gear, software and configs.
-- [redash](https://github.com/getredash/redash) : JavaScript
-  - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+- [BLAKE3](https://github.com/BLAKE3-team/BLAKE3) : Rust
+  - The BLAKE3 cryptographic hash function
+- [cable-haunt-vulnerability-test](https://github.com/Lyrebirds/cable-haunt-vulnerability-test) : Python
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
+  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
 - [lede](https://github.com/coolsnowwolf/lede) : C
   - Lean's OpenWrt source
-- [mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) : Jupyter Notebook
-  - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
+- [tokenizers](https://github.com/huggingface/tokenizers) : Rust
+  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [home-assistant](https://github.com/home-assistant/home-assistant) : Python
+  - 🏡 Open source home automation that puts local control and privacy first
+- [craft.js](https://github.com/prevwong/craft.js) : TypeScript
+  - 🚀 A React Framework for building extensible drag and drop page editors
 - [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) : Python
   - 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
-- [magnetW](https://github.com/xiandanin/magnetW) : JavaScript
-  - 磁力链接聚合搜索
+- [CVE-2019-19781](https://github.com/projectzeroindia/CVE-2019-19781) : Shell
+  - Remote Code Execution Exploit for Citrix Application Delivery Controller and Citrix Gateway [ CVE-2019-19781 ]
+- [overreacted.io](https://github.com/gaearon/overreacted.io) : JavaScript
+  - Personal blog by Dan Abramov.
 - [pwc](https://github.com/zziz/pwc) : 
   - Papers with code. Sorted by stars. Updated weekly.
-- [scalene](https://github.com/emeryberger/scalene) : Python
-  - a high-performance, high-precision CPU and memory profiler for Python
-- [strapi](https://github.com/strapi/strapi) : JavaScript
-  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
-- [awesome-python](https://github.com/vinta/awesome-python) : Python
-  - A curated list of awesome Python frameworks, libraries, software and resources
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
-  - 💯 Materials to help you rock your next coding interview
-- [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) : Python
-  - Launched in 2018 Actively developed and supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom layout GUI's simply. Python 2.7 & 3 Support. 200+ Demo programs & Cookbook for rapid start. Extensive documentation. Examples using Machine Learning(GUI, OpenCV Integration, Chatterbot), Floating Desktop Widgets, Matplotlib + Pyplo…
+- [cve-2019-19781](https://github.com/trustedsec/cve-2019-19781) : Python
+  - This is a tool published for the Citrix ADC (NetScaler) vulnerability. We are only disclosing this due to others publishing the exploit code first.
+- [mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) : Jupyter Notebook
+  - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
 - [browser-2020](https://github.com/luruke/browser-2020) : 
   - Things you can do with a browser in 2020 ☕️
-- [autogluon](https://github.com/awslabs/autogluon) : Python
-  - AutoGluon: AutoML Toolkit for Deep Learning
-- [TencentOS-tiny](https://github.com/Tencent/TencentOS-tiny) : C
-  - 腾讯物联网终端操作系统
-- [awful-ai](https://github.com/daviddao/awful-ai) : 
-  - 😈Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness
+- [n8n](https://github.com/n8n-io/n8n) : TypeScript
+  - Free and open node based Workflow Automation Tool. Easily automate tasks across different services.
+- [magnetW](https://github.com/xiandanin/magnetW) : JavaScript
+  - 磁力链接聚合搜索
+- [qmk_firmware](https://github.com/qmk/qmk_firmware) : C
+  - Open-source keyboard firmware for Atmel AVR and Arm USB families
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
+  - 📚 Freely available programming books
+- [zuihou-admin-cloud](https://github.com/zuihou/zuihou-admin-cloud) : Java
+  - 基于SpringCloud(Hoxton.SR1) + SpringBoot(2.2.2.RELEASE) 的SaaS 微服务脚手架，具有统一授权、认证后台管理系统，其中包含具备用户管理、资源权限管理、网关API、分布式事务、大文件断点分片续传等多个模块，支持多业务系统并行开发，可以作为后端服务的开发脚手架。代码简洁，架构清晰，适合学习和直接项目中使用。核心技术采用Nacos、Fegin、Ribbon、Zuul、Hystrix、JWT Token、Mybatis、SpringBoot、Redis、RibbitMQ等主要框架和中间件。
+- [NLP-progress](https://github.com/sebastianruder/NLP-progress) : Python
+  - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
+- [checkov](https://github.com/bridgecrewio/checkov) : Python
+  - Prevent cloud misconfigurations during build time
+- [imgui](https://github.com/ocornut/imgui) : C++
+  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+- [terminal](https://github.com/microsoft/terminal) : C++
+  - The new Windows Terminal, and the original Windows console host - all in the same place!
