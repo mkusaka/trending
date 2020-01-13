@@ -1,50 +1,51 @@
 # general
-- [nni](https://github.com/microsoft/nni) : Python
-  - An open source AutoML toolkit for neural architecture search, model compression and hyper-parameter tuning.
-- [Motrix](https://github.com/agalwood/Motrix) : JavaScript
-  - A full-featured download manager.
-- [age](https://github.com/FiloSottile/age) : Go
-  - A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability.
-- [java-design-patterns](https://github.com/iluwatar/java-design-patterns) : Java
-  - Design patterns implemented in Java
-- [trojan](https://github.com/trojan-gfw/trojan) : C++
-  - An unidentifiable mechanism that helps you bypass GFW.
-- [ALBERT](https://github.com/google-research/ALBERT) : Python
-  - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
-- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) : JavaScript
-  - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
-- [py12306](https://github.com/pjialin/py12306) : Python
-  - 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
-- [12306](https://github.com/testerSunshine/12306) : Python
-  - 12306智能刷票，订票
-- [serenity](https://github.com/SerenityOS/serenity) : C++
-  - Serenity Operating System
-- [d2l-en](https://github.com/d2l-ai/d2l-en) : Python
-  - Dive into Deep Learning: an interactive deep learning book with code, math, and discussions, based on the NumPy interface.
-- [advanced-java](https://github.com/doocs/advanced-java) : Java
-  - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
-- [Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) : Shell
-- [learn-go-with-tests](https://github.com/quii/learn-go-with-tests) : Go
-  - Learn Go with test-driven development
-- [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) : Java
-  - spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 63 个集成demo，已经完成 52 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…
-- [ffmpeg-python](https://github.com/kkroening/ffmpeg-python) : Python
-  - Python bindings for FFmpeg - with complex filtering support
-- [Tasmota](https://github.com/arendst/Tasmota) : C++
-  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
-- [OnJava8](https://github.com/LingCoder/OnJava8) : 
-  - 《On Java 8》中文版，又名《Java编程思想》 第5版
-- [pi-hole](https://github.com/pi-hole/pi-hole) : Shell
-  - A black hole for Internet advertisements
-- [gatsby](https://github.com/gatsbyjs/gatsby) : JavaScript
-  - Build blazing fast, modern apps and websites with React
+- [JobFunnel](https://github.com/PaulMcInnis/JobFunnel) : Python
+  - Tool for scraping job websites, and filtering and reviewing the job listings
+- [kratos](https://github.com/bilibili/kratos) : Go
+  - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
+- [excalidraw](https://github.com/excalidraw/excalidraw) : TypeScript
+  - Sketch hand-drawn like diagrams
+- [hakrawler](https://github.com/hakluke/hakrawler) : Go
+  - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
+- [openlayers](https://github.com/openlayers/openlayers) : JavaScript
+  - OpenLayers
+- [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) : JavaScript
+  - A 30 days of JavaScript programming challenge
+- [EfficientDet.Pytorch](https://github.com/toandaominh1997/EfficientDet.Pytorch) : Python
+  - Implementation EfficientDet: Scalable and Efficient Object Detection in PyTorch
+- [blazor-workshop](https://github.com/dotnet-presentations/blazor-workshop) : C#
+  - Blazor workshop
+- [amplify-js](https://github.com/aws-amplify/amplify-js) : TypeScript
+  - A declarative JavaScript library for application development using cloud services.
+- [tailwindcss](https://github.com/tailwindcss/tailwindcss) : CSS
+  - A utility-first CSS framework for rapid UI development.
+- [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) : TeX
+  - Cheat Sheets
+- [starship](https://github.com/starship/starship) : Rust
+  - ☄🌌️ The cross-shell prompt for astronauts
+- [AndroidKnowledgeSystem](https://github.com/feelschaotic/AndroidKnowledgeSystem) : JavaScript
+  - The most complete Android advanced route knowledge map ⭐️你想要的最全 Android 进阶路线知识图谱+干货资料收集🚀
 - [Telegram](https://github.com/DrKLO/Telegram) : Java
   - Telegram for Android source
-- [godot](https://github.com/godotengine/godot) : C++
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [magnetW](https://github.com/xiandanin/magnetW) : JavaScript
-  - 磁力链接聚合搜索
-- [Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch) : Jupyter Notebook
-  - 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。
-- [Mindustry](https://github.com/Anuken/Mindustry) : Java
-  - A sandbox tower defense game
+- [kubectl-tree](https://github.com/ahmetb/kubectl-tree) : Go
+  - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (using? star the repo!)
+- [taro](https://github.com/NervJS/taro) : JavaScript
+  - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动/ QQ 小程序/快应用/H5/React Native 等的应用。 https://taro.jd.com/
+- [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) : C#
+  - Xamarin.Forms Official Home
+- [zuihou-admin-cloud](https://github.com/zuihou/zuihou-admin-cloud) : Java
+  - 基于SpringCloud(Hoxton.SR1) + SpringBoot(2.2.2.RELEASE) 的SaaS 微服务脚手架，具有统一授权、认证后台管理系统，其中包含具备用户管理、资源权限管理、网关API、分布式事务、大文件断点分片续传等多个模块，支持多业务系统并行开发，可以作为后端服务的开发脚手架。代码简洁，架构清晰，适合学习和直接项目中使用。核心技术采用Nacos、Fegin、Ribbon、Zuul、Hystrix、JWT Token、Mybatis、SpringBoot、Redis、RibbitMQ等主要框架和中间件。
+- [takenote](https://github.com/taniarascia/takenote) : TypeScript
+  - 📝 A web-based note-taking app with GitHub sync and Markdown support. (WIP)
+- [sampler](https://github.com/sqshq/sampler) : Go
+  - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
+- [TencentOS-tiny](https://github.com/Tencent/TencentOS-tiny) : C
+  - 腾讯物联网终端操作系统
+- [angular-cli](https://github.com/angular/angular-cli) : TypeScript
+  - CLI tool for Angular
+- [ALBERT](https://github.com/google-research/ALBERT) : Python
+  - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
+- [yolact](https://github.com/dbolya/yolact) : Python
+  - A simple, fully convolutional model for real-time instance segmentation.
+- [micro](https://github.com/zyedidia/micro) : Go
+  - A modern and intuitive terminal-based text editor
