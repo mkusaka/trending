@@ -1,50 +1,47 @@
 # general
-- [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) : ActionScript
-  - The source code to VVVVVV!
+- [nnjhtrkn](https://github.com/omuanko/nnjhtrkn) : Batchfile
+  - Famous Ninja game for NES
+- [wasm3](https://github.com/wasm3/wasm3) : C
+  - 🚀 The fastest WebAssembly interpreter
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) : 
   - A book series on JavaScript. @YDKJS on twitter.
-- [BLAKE3](https://github.com/BLAKE3-team/BLAKE3) : Rust
-  - The BLAKE3 cryptographic hash function
-- [cable-haunt-vulnerability-test](https://github.com/Lyrebirds/cable-haunt-vulnerability-test) : Python
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
-  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
-- [lede](https://github.com/coolsnowwolf/lede) : C
-  - Lean's OpenWrt source
-- [tokenizers](https://github.com/huggingface/tokenizers) : Rust
-  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
-- [home-assistant](https://github.com/home-assistant/home-assistant) : Python
-  - 🏡 Open source home automation that puts local control and privacy first
-- [craft.js](https://github.com/prevwong/craft.js) : TypeScript
-  - 🚀 A React Framework for building extensible drag and drop page editors
-- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) : Python
-  - 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
-- [CVE-2019-19781](https://github.com/projectzeroindia/CVE-2019-19781) : Shell
-  - Remote Code Execution Exploit for Citrix Application Delivery Controller and Citrix Gateway [ CVE-2019-19781 ]
-- [overreacted.io](https://github.com/gaearon/overreacted.io) : JavaScript
-  - Personal blog by Dan Abramov.
-- [pwc](https://github.com/zziz/pwc) : 
-  - Papers with code. Sorted by stars. Updated weekly.
+- [sagemcom-fast-3890-exploit](https://github.com/Lyrebirds/sagemcom-fast-3890-exploit) : JavaScript
 - [cve-2019-19781](https://github.com/trustedsec/cve-2019-19781) : Python
   - This is a tool published for the Citrix ADC (NetScaler) vulnerability. We are only disclosing this due to others publishing the exploit code first.
-- [mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) : Jupyter Notebook
-  - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
+- [tokenizers](https://github.com/huggingface/tokenizers) : Rust
+  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [cable-haunt-vulnerability-test](https://github.com/Lyrebirds/cable-haunt-vulnerability-test) : Python
+- [sqlvet](https://github.com/houqp/sqlvet) : Go
+  - Go fearless SQL. Sqlvet performs static analysis on raw SQL queries in your Go code base.
+- [autogluon](https://github.com/awslabs/autogluon) : Python
+  - AutoGluon: AutoML Toolkit for Deep Learning
+- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) : Python
+  - 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
+  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
+- [CVE-2019-19781](https://github.com/projectzeroindia/CVE-2019-19781) : Shell
+  - Remote Code Execution Exploit for Citrix Application Delivery Controller and Citrix Gateway [ CVE-2019-19781 ]
 - [browser-2020](https://github.com/luruke/browser-2020) : 
   - Things you can do with a browser in 2020 ☕️
-- [n8n](https://github.com/n8n-io/n8n) : TypeScript
-  - Free and open node based Workflow Automation Tool. Easily automate tasks across different services.
-- [magnetW](https://github.com/xiandanin/magnetW) : JavaScript
-  - 磁力链接聚合搜索
-- [qmk_firmware](https://github.com/qmk/qmk_firmware) : C
-  - Open-source keyboard firmware for Atmel AVR and Arm USB families
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [zuihou-admin-cloud](https://github.com/zuihou/zuihou-admin-cloud) : Java
-  - 基于SpringCloud(Hoxton.SR1) + SpringBoot(2.2.2.RELEASE) 的SaaS 微服务脚手架，具有统一授权、认证后台管理系统，其中包含具备用户管理、资源权限管理、网关API、分布式事务、大文件断点分片续传等多个模块，支持多业务系统并行开发，可以作为后端服务的开发脚手架。代码简洁，架构清晰，适合学习和直接项目中使用。核心技术采用Nacos、Fegin、Ribbon、Zuul、Hystrix、JWT Token、Mybatis、SpringBoot、Redis、RibbitMQ等主要框架和中间件。
+- [kibana](https://github.com/elastic/kibana) : TypeScript
+  - Your window into the Elastic Stack
+- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) : JavaScript
+  - Beautiful and accessible drag and drop for lists with React
+- [leetcode](https://github.com/azl397985856/leetcode) : JavaScript
+  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+- [Kotlin-Pokedex](https://github.com/mrcsxsiq/Kotlin-Pokedex) : Kotlin
+  - 🌀 A Pokedex app using ViewModel, LiveData, Room and Navigation
+- [swift-embedded](https://github.com/swift-embedded/swift-embedded) : Swift
+  - Swift for Embedded Systems ✨
+- [craft.js](https://github.com/prevwong/craft.js) : TypeScript
+  - 🚀 A React Framework for building extensible drag and drop page editors
+- [wav2letter](https://github.com/facebookresearch/wav2letter) : C++
+  - Facebook AI Research's Automatic Speech Recognition Toolkit
+- [djl](https://github.com/awslabs/djl) : Java
+  - An Engine-Agnostic Deep Learning Framework
+- [newbee-mall](https://github.com/newbee-ltd/newbee-mall) : Java
+  - newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
 - [NLP-progress](https://github.com/sebastianruder/NLP-progress) : Python
   - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
-- [checkov](https://github.com/bridgecrewio/checkov) : Python
-  - Prevent cloud misconfigurations during build time
-- [imgui](https://github.com/ocornut/imgui) : C++
-  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
-- [terminal](https://github.com/microsoft/terminal) : C++
-  - The new Windows Terminal, and the original Windows console host - all in the same place!
+- [swiper](https://github.com/nolimits4web/swiper) : JavaScript
+  - Most modern mobile touch slider with hardware accelerated transitions
