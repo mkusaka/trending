@@ -1,47 +1,49 @@
 # general
-- [nnjhtrkn](https://github.com/omuanko/nnjhtrkn) : Batchfile
-  - Famous Ninja game for NES
 - [wasm3](https://github.com/wasm3/wasm3) : C
   - 🚀 The fastest WebAssembly interpreter
-- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) : 
-  - A book series on JavaScript. @YDKJS on twitter.
-- [sagemcom-fast-3890-exploit](https://github.com/Lyrebirds/sagemcom-fast-3890-exploit) : JavaScript
-- [cve-2019-19781](https://github.com/trustedsec/cve-2019-19781) : Python
-  - This is a tool published for the Citrix ADC (NetScaler) vulnerability. We are only disclosing this due to others publishing the exploit code first.
-- [tokenizers](https://github.com/huggingface/tokenizers) : Rust
-  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
-- [cable-haunt-vulnerability-test](https://github.com/Lyrebirds/cable-haunt-vulnerability-test) : Python
-- [sqlvet](https://github.com/houqp/sqlvet) : Go
-  - Go fearless SQL. Sqlvet performs static analysis on raw SQL queries in your Go code base.
 - [autogluon](https://github.com/awslabs/autogluon) : Python
   - AutoGluon: AutoML Toolkit for Deep Learning
-- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) : Python
-  - 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
-  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
-- [CVE-2019-19781](https://github.com/projectzeroindia/CVE-2019-19781) : Shell
-  - Remote Code Execution Exploit for Citrix Application Delivery Controller and Citrix Gateway [ CVE-2019-19781 ]
-- [browser-2020](https://github.com/luruke/browser-2020) : 
-  - Things you can do with a browser in 2020 ☕️
-- [kibana](https://github.com/elastic/kibana) : TypeScript
-  - Your window into the Elastic Stack
-- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) : JavaScript
-  - Beautiful and accessible drag and drop for lists with React
-- [leetcode](https://github.com/azl397985856/leetcode) : JavaScript
-  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
-- [Kotlin-Pokedex](https://github.com/mrcsxsiq/Kotlin-Pokedex) : Kotlin
-  - 🌀 A Pokedex app using ViewModel, LiveData, Room and Navigation
-- [swift-embedded](https://github.com/swift-embedded/swift-embedded) : Swift
-  - Swift for Embedded Systems ✨
-- [craft.js](https://github.com/prevwong/craft.js) : TypeScript
-  - 🚀 A React Framework for building extensible drag and drop page editors
+- [cable-haunt-vulnerability-test](https://github.com/Lyrebirds/cable-haunt-vulnerability-test) : Python
+- [tokenizers](https://github.com/huggingface/tokenizers) : Rust
+  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [Parsr](https://github.com/axa-group/Parsr) : TypeScript
+  - Transforms PDF, Documents and Images into Enriched Structured Data
+- [check-cve-2019-19781](https://github.com/cisagov/check-cve-2019-19781) : Python
+  - Test a host for susceptibility to CVE-2019-19781
+- [Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) : C++
+  - Reverse engineering course by Z0F. Focuses on x64 Windows.
 - [wav2letter](https://github.com/facebookresearch/wav2letter) : C++
   - Facebook AI Research's Automatic Speech Recognition Toolkit
-- [djl](https://github.com/awslabs/djl) : Java
-  - An Engine-Agnostic Deep Learning Framework
 - [newbee-mall](https://github.com/newbee-ltd/newbee-mall) : Java
   - newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
-- [NLP-progress](https://github.com/sebastianruder/NLP-progress) : Python
-  - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
-- [swiper](https://github.com/nolimits4web/swiper) : JavaScript
-  - Most modern mobile touch slider with hardware accelerated transitions
+- [devops-exercises](https://github.com/bregman-arie/devops-exercises) : Python
+  - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
+- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) : Python
+  - 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
+- [tonic](https://github.com/hyperium/tonic) : Rust
+  - A native gRPC client & server implementation with async/await support.
+- [AZ-103-MicrosoftAzureAdministrator](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator) : 
+  - AZ-103: Microsoft Azure Administrator
+- [sagemcom-fast-3890-exploit](https://github.com/Lyrebirds/sagemcom-fast-3890-exploit) : JavaScript
+- [nlp-recipes](https://github.com/microsoft/nlp-recipes) : Python
+  - Natural Language Processing Best Practices & Examples
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
+  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) : 
+  - A book series on JavaScript. @YDKJS on twitter.
+- [nnjhtrkn](https://github.com/omuanko/nnjhtrkn) : Batchfile
+  - Famous Ninja game for NES
+- [blazor-workshop](https://github.com/dotnet-presentations/blazor-workshop) : C#
+  - Blazor workshop
+- [klipper](https://github.com/KevinOConnor/klipper) : C
+  - Klipper is a 3d-printer firmware
+- [react](https://github.com/facebook/react) : JavaScript
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [gf](https://github.com/gogf/gf) : Go
+  - GoFrame is a modular, full-featured and production-ready application development framework of golang. Providing a series of core components and dozens of practical modules, such as: cache, logging, containers, timer, resource, validator, database orm, etc. Supporting web server integrated with router, cookie, session, middleware, logger, configu…
+- [transformers](https://github.com/huggingface/transformers) : Python
+  - 🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+- [ui](https://github.com/vlang/ui) : V
+  - Cross-platform UI library written in V
+- [protobuf](https://github.com/golang/protobuf) : Go
+  - Go support for Google's protocol buffers
