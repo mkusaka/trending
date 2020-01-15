@@ -1,51 +1,51 @@
 # javascript
 - [sagemcom-fast-3890-exploit](https://github.com/Lyrebirds/sagemcom-fast-3890-exploit)
   - 
-- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
-  - Beautiful and accessible drag and drop for lists with React
-- [leetcode](https://github.com/azl397985856/leetcode)
-  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
-- [swiper](https://github.com/nolimits4web/swiper)
-  - Most modern mobile touch slider with hardware accelerated transitions
-- [overreacted.io](https://github.com/gaearon/overreacted.io)
-  - Personal blog by Dan Abramov.
-- [next.js](https://github.com/zeit/next.js)
-  - The React Framework
-- [react-pdf](https://github.com/wojtekmaj/react-pdf)
-  - Display PDFs in your React app as easily as if they were images.
-- [showdoc](https://github.com/star7th/showdoc)
-  - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
-- [cypress-example-recipes](https://github.com/cypress-io/cypress-example-recipes)
-  - Various recipes for testing common scenarios with Cypress
-- [three.js](https://github.com/mrdoob/three.js)
-  - JavaScript 3D library.
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
-  - ✅ The largest Node.js best practices list (December 2019)
-- [Sortable](https://github.com/SortableJS/Sortable)
-  - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Ember, Knockout and any CSS library, e.g. Bootstrap.
-- [api-platform](https://github.com/api-platform/api-platform)
-  - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
-- [home-assistant-config](https://github.com/basnijholt/home-assistant-config)
-  - My Home Assistant config files and AppDaemon apps 🏠 🤖
-- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
-  - The ultimate Free Open Source Solution for team communications.
-- [fullcalendar](https://github.com/fullcalendar/fullcalendar)
-  - Full-sized drag & drop event calendar
 - [react](https://github.com/facebook/react)
   - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [parse-server](https://github.com/parse-community/parse-server)
-  - API server module for Node/Express
-- [slate](https://github.com/ianstormtaylor/slate)
-  - A completely customizable framework for building rich text editors. (Currently in beta.)
-- [reveal.js](https://github.com/hakimel/reveal.js)
-  - The HTML Presentation Framework
-- [ieaseMusic](https://github.com/trazyn/ieaseMusic)
-  - 网易云音乐第三方
-- [strapi](https://github.com/strapi/strapi)
-  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
-- [react-virtualized](https://github.com/bvaughn/react-virtualized)
-  - React components for efficiently rendering large lists and tabular data
-- [react-spring](https://github.com/react-spring/react-spring)
-  - ✌️ A spring physics based React animation library
-- [d2-admin](https://github.com/d2-projects/d2-admin)
-  - 🌈 An elegant dashboard
+- [deck.gl](https://github.com/uber/deck.gl)
+  - WebGL2 powered geospatial visualization layers
+- [leetcode](https://github.com/azl397985856/leetcode)
+  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+- [next.js](https://github.com/zeit/next.js)
+  - The React Framework
+- [showdoc](https://github.com/star7th/showdoc)
+  - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
+- [swiper](https://github.com/nolimits4web/swiper)
+  - Most modern mobile touch slider with hardware accelerated transitions
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+  - Headless Chrome Node.js API
+- [objection.js](https://github.com/Vincit/objection.js)
+  - An SQL-friendly ORM for Node.js
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [generator-jhipster](https://github.com/jhipster/generator-jhipster)
+  - Open Source application platform for creating Spring Boot + Angular/React projects in seconds!
+- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
+  - Beautiful and accessible drag and drop for lists with React
+- [vis-timeline](https://github.com/visjs/vis-timeline)
+  - 📈 Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
+- [vue](https://github.com/vuejs/vue)
+  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+  - ✅ The largest Node.js best practices list (December 2019)
+- [semana-omnistack-9](https://github.com/Rocketseat/semana-omnistack-9)
+  - Código do projeto produzido durante a Semana OmniStack 9.0
+- [react-awesome-slider](https://github.com/rcaferati/react-awesome-slider)
+  - React content transition slider. Awesome Slider is a 60fps, light weight, performant component that renders an animated set of production ready UI general purpose sliders. 🖥️📱
+- [examples](https://github.com/serverless/examples)
+  - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
+- [react-native-firebase](https://github.com/invertase/react-native-firebase)
+  - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
+- [jest-dom](https://github.com/testing-library/jest-dom)
+  - 🦉 Custom jest matchers to test the state of the DOM
+- [learnVue](https://github.com/answershuto/learnVue)
+  - Vue.js 源码解析
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [webpack](https://github.com/webpack/webpack)
+  - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+- [three.js](https://github.com/mrdoob/three.js)
+  - JavaScript 3D library.
+- [jszip](https://github.com/Stuk/jszip)
+  - Create, read and edit .zip files with Javascript

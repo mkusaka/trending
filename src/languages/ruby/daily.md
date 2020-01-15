@@ -1,51 +1,51 @@
 # ruby
-- [rack](https://github.com/rack/rack)
-  - a modular Ruby webserver interface
-- [setup](https://github.com/lewagon/setup)
-  - Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp
-- [vagrant](https://github.com/hashicorp/vagrant)
-  - Vagrant is a tool for building and distributing development environments.
-- [linguist](https://github.com/github/linguist)
-  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-- [astuto](https://github.com/riggraz/astuto)
-  - A free, open source, self-hosted customer feedback tool 🦊
-- [activeadmin](https://github.com/activeadmin/activeadmin)
-  - The administration framework for Ruby on Rails applications.
-- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
-  - The Cocoa Dependency Manager.
-- [axlsx](https://github.com/randym/axlsx)
-  - xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your…
 - [spree](https://github.com/spree/spree)
   - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Join our Slack with 4000 users!
-- [fastlane](https://github.com/fastlane/fastlane)
-  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [chef](https://github.com/chef/chef)
-  - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
-- [discourse](https://github.com/discourse/discourse)
-  - A platform for community discussion. Free, open, simple.
-- [fluentd-kubernetes-daemonset](https://github.com/fluent/fluentd-kubernetes-daemonset)
-  - Fluentd daemonset for Kubernetes and it Docker image
-- [dev.to](https://github.com/thepracticaldev/dev.to)
-  - Where programmers share ideas and help each other grow
-- [devise_token_auth](https://github.com/lynndylanhurley/devise_token_auth)
-  - Token based authentication for Rails JSON APIs. Designed to work with jToker and ng-token-auth.
+- [XSpear](https://github.com/hahwul/XSpear)
+  - Powerfull XSS Scanning and Parameter analysis tool&gem
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
+  - Metasploit Framework
+- [faker](https://github.com/faker-ruby/faker)
+  - A library for generating fake data such as names, addresses, and phone numbers.
 - [factory_bot](https://github.com/thoughtbot/factory_bot)
   - A library for setting up Ruby objects as test data.
-- [rails_admin](https://github.com/sferik/rails_admin)
-  - RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data
-- [simple_form](https://github.com/heartcombo/simple_form)
-  - Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
-- [rswag](https://github.com/rswag/rswag)
-  - Seamlessly adds a Swagger to Rails-based API's
-- [dependabot-core](https://github.com/dependabot/dependabot-core)
-  - 🤖The core logic behind Dependabot's update PR creation
-- [foreman](https://github.com/theforeman/foreman)
-  - an application that automates the lifecycle of servers
-- [devdocs](https://github.com/freeCodeCamp/devdocs)
-  - API Documentation Browser
-- [nodejs-learning-guide](https://github.com/chyingp/nodejs-learning-guide)
-  - Nodejs学习笔记以及经验总结，公众号"程序猿小卡"
+- [rack](https://github.com/rack/rack)
+  - a modular Ruby webserver interface
+- [fluentd-kubernetes-daemonset](https://github.com/fluent/fluentd-kubernetes-daemonset)
+  - Fluentd daemonset for Kubernetes and it Docker image
+- [fast_jsonapi](https://github.com/Netflix/fast_jsonapi)
+  - A lightning fast JSON:API serializer for Ruby Objects.
+- [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails)
+  - Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
 - [carrierwave](https://github.com/carrierwaveuploader/carrierwave)
   - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
-- [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch)
-  - Ansible playbook for Elasticsearch
+- [devise](https://github.com/heartcombo/devise)
+  - Flexible authentication solution for Rails with Warden.
+- [doorkeeper](https://github.com/doorkeeper-gem/doorkeeper)
+  - Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.
+- [paper_trail](https://github.com/paper-trail-gem/paper_trail)
+  - Track changes to your rails models
+- [fastlane](https://github.com/fastlane/fastlane)
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [logstash](https://github.com/elastic/logstash)
+  - Logstash - transport and process your logs, events, or other data
+- [rails](https://github.com/rails/rails)
+  - Ruby on Rails
+- [evil-winrm](https://github.com/Hackplayers/evil-winrm)
+  - The ultimate WinRM shell for hacking/pentesting
+- [sinatra](https://github.com/sinatra/sinatra)
+  - Classy web-development dressed in a DSL (official / canonical repo)
+- [axlsx](https://github.com/randym/axlsx)
+  - xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your…
+- [zammad](https://github.com/zammad/zammad)
+  - Zammad is a web based open source helpdesk/customer support system
+- [ruby-saml](https://github.com/onelogin/ruby-saml)
+  - SAML SSO for Ruby
+- [active_model_serializers](https://github.com/rails-api/active_model_serializers)
+  - ActiveModel::Serializer implementation and Rails hooks
+- [fluentd](https://github.com/fluent/fluentd)
+  - Fluentd: Unified Logging Layer (project under CNCF)
+- [formtastic](https://github.com/justinfrench/formtastic)
+  - A Rails form builder plugin with semantically rich and accessible markup.
+- [click-to-deploy](https://github.com/GoogleCloudPlatform/click-to-deploy)
+  - Source for Google Click to Deploy solutions listed on Google Cloud Marketplace.
