@@ -1,51 +1,51 @@
 # c++
+- [reconfigurable_organisms](https://github.com/skriegman/reconfigurable_organisms)
+  - 
 - [Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
   - Reverse engineering course by Z0F. Focuses on x64 Windows.
 - [wav2letter](https://github.com/facebookresearch/wav2letter)
   - Facebook AI Research's Automatic Speech Recognition Toolkit
+- [openpilot](https://github.com/commaai/openpilot)
+  - open source driving agent
 - [mediapipe](https://github.com/google/mediapipe)
   - MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
+- [watchman](https://github.com/facebook/watchman)
+  - Watches files and records, or triggers actions, when they change.
 - [googletest](https://github.com/google/googletest)
   - Googletest - Google Testing and Mocking Framework
-- [bpftrace](https://github.com/iovisor/bpftrace)
-  - High-level tracing language for Linux eBPF
-- [opencv_contrib](https://github.com/opencv/opencv_contrib)
-  - Repository for OpenCV's extra modules
-- [HIP](https://github.com/ROCm-Developer-Tools/HIP)
-  - HIP : Convert CUDA to Portable C++ Code
-- [pytorch](https://github.com/pytorch/pytorch)
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [painlessMesh](https://github.com/gmag11/painlessMesh)
-  - ESP8266 based mesh. This is a mirror copy of https://gitlab.com/painlessMesh/painlessMesh PLEASE ADD COMMENTS, ISSUES and PULL REQUESTS ON GITLAB so that all information is centralized.
-- [ModSecurity](https://github.com/SpiderLabs/ModSecurity)
-  - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
 - [OpenGL](https://github.com/TheCherno/OpenGL)
   - OpenGL support library so you can just dive in and write OpenGL code
-- [quickfix](https://github.com/quickfix/quickfix)
-  - QuickFIX C++ Fix Engine Library
-- [ardupilot](https://github.com/ArduPilot/ardupilot)
-  - ArduPlane, ArduCopter, ArduRover source
-- [DeepSpeech](https://github.com/mozilla/DeepSpeech)
-  - A TensorFlow implementation of Baidu's DeepSpeech architecture
-- [dlib](https://github.com/davisking/dlib)
-  - A toolkit for making real world machine learning and data analysis applications in C++
+- [nebula](https://github.com/vesoft-inc/nebula)
+  - A distributed, fast open-source graph database featuring horizontal scalability and high availability
+- [terminal](https://github.com/microsoft/terminal)
+  - The new Windows Terminal, and the original Windows console host - all in the same place!
+- [librealsense](https://github.com/IntelRealSense/librealsense)
+  - Intel® RealSense™ SDK
+- [protobuf](https://github.com/protocolbuffers/protobuf)
+  - Protocol Buffers - Google's data interchange format
+- [painlessMesh](https://github.com/gmag11/painlessMesh)
+  - ESP8266 based mesh. This is a mirror copy of https://gitlab.com/painlessMesh/painlessMesh PLEASE ADD COMMENTS, ISSUES and PULL REQUESTS ON GITLAB so that all information is centralized.
 - [Catch2](https://github.com/catchorg/Catch2)
   - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-- [LightGBM](https://github.com/microsoft/LightGBM)
-  - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
-- [QGIS](https://github.com/qgis/QGIS)
-  - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
-- [sysdig](https://github.com/draios/sysdig)
-  - Linux system exploration and troubleshooting tool with first class support for containers
-- [opencv](https://github.com/opencv/opencv)
-  - Open Source Computer Vision Library
-- [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2)
-  - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
-- [cpp-taskflow](https://github.com/cpp-taskflow/cpp-taskflow)
-  - A Modern C++ Parallel Task Programming Library
-- [bullet3](https://github.com/bulletphysics/bullet3)
-  - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
-- [mkl-dnn](https://github.com/intel/mkl-dnn)
-  - Deep Neural Network Library (DNNL)
-- [webots](https://github.com/cyberbotics/webots)
-  - Webots Robot Simulator
+- [solidity](https://github.com/ethereum/solidity)
+  - Solidity, the Contract-Oriented Programming Language
+- [osquery](https://github.com/osquery/osquery)
+  - SQL powered operating system instrumentation, monitoring, and analytics.
+- [simdjson](https://github.com/lemire/simdjson)
+  - Parsing gigabytes of JSON per second
+- [swoole-src](https://github.com/swoole/swoole-src)
+  - 🚀 Coroutine-based concurrency library for PHP
+- [spdlog](https://github.com/gabime/spdlog)
+  - Fast C++ logging library.
+- [pytorch](https://github.com/pytorch/pytorch)
+  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [fmt](https://github.com/fmtlib/fmt)
+  - A modern formatting library
+- [envoy](https://github.com/envoyproxy/envoy)
+  - Cloud-native high-performance edge/middle/service proxy
+- [MMKV](https://github.com/Tencent/MMKV)
+  - An efficient, small mobile key-value storage framework developed by WeChat. Works on iOS, Android, macOS and Windows.
+- [react-native-windows](https://github.com/microsoft/react-native-windows)
+  - A framework for building native Windows apps with React.
+- [openage](https://github.com/SFTtech/openage)
+  - Free (as in freedom) open source clone of the Age of Empires II engine 🚀
