@@ -1,51 +1,51 @@
 # rust
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
+- [sqlx](https://github.com/launchbadge/sqlx)
+  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL.
+- [dashmap](https://github.com/xacrimon/dashmap)
+  - Blazing fast concurrent HashMap for Rust.
 - [tokenizers](https://github.com/huggingface/tokenizers)
   - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
-- [tonic](https://github.com/hyperium/tonic)
-  - A native gRPC client & server implementation with async/await support.
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [jormungandr](https://github.com/input-output-hk/jormungandr)
-  - aspiring blockchain node
-- [cranelift](https://github.com/bytecodealliance/cranelift)
-  - Cranelift code generator
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix web is a small, pragmatic, and extremely fast rust web framework.
-- [winit](https://github.com/rust-windowing/winit)
-  - Window handling library in pure Rust
-- [PyOxidizer](https://github.com/indygreg/PyOxidizer)
-  - A modern Python application packaging and distribution tool
-- [rustc_codegen_cranelift](https://github.com/bjorn3/rustc_codegen_cranelift)
-  - Cranelift backend for rustc
-- [quiche](https://github.com/cloudflare/quiche)
-  - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [async-std](https://github.com/async-rs/async-std)
   - Async version of the Rust standard library
-- [grin](https://github.com/mimblewimble/grin)
-  - Minimal implementation of the Mimblewimble protocol.
-- [lucet](https://github.com/bytecodealliance/lucet)
-  - Lucet, the Sandboxing WebAssembly Compiler.
-- [rustrogueliketutorial](https://github.com/thebracket/rustrogueliketutorial)
-  - Roguelike Tutorial in Rust - using RLTK
-- [tower](https://github.com/tower-rs/tower)
-  - async fn(Request) -> Result<Response, Error>
-- [sled](https://github.com/spacejam/sled)
-  - the champagne of beta embedded databases
-- [ggez](https://github.com/ggez/ggez)
-  - Rust library to create a Good Game Easily
-- [juniper](https://github.com/graphql-rust/juniper)
-  - GraphQL server library for Rust
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [tikv](https://github.com/tikv/tikv)
-  - Distributed transactional key-value database, originally created to complement TiDB
-- [substrate](https://github.com/paritytech/substrate)
-  - Substrate: The platform for blockchain innovators
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [jormungandr](https://github.com/input-output-hk/jormungandr)
+  - aspiring blockchain node
+- [tonic](https://github.com/hyperium/tonic)
+  - A native gRPC client & server implementation with async/await support.
+- [RustPython](https://github.com/RustPython/RustPython)
+  - A Python Interpreter written in Rust
+- [rudr](https://github.com/oam-dev/rudr)
+  - A Kubernetes implementation of the Open Application Model specification
+- [bao](https://github.com/oconnor663/bao)
+  - a verified streaming tool based on BLAKE3
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
 - [firecracker](https://github.com/firecracker-microvm/firecracker)
   - Secure and fast microVMs for serverless computing.
-- [talent-plan](https://github.com/pingcap/talent-plan)
-  - PingCAP training courses
-- [indy-sdk](https://github.com/hyperledger/indy-sdk)
-  - Everything needed to build applications that interact with an Indy distributed identity ledger.
-- [tracing](https://github.com/tokio-rs/tracing)
-  - Application level tracing for Rust.
+- [ggez](https://github.com/ggez/ggez)
+  - Rust library to create a Good Game Easily
+- [iced](https://github.com/hecrj/iced)
+  - A cross-platform GUI library for Rust, inspired by Elm
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
+- [tikv](https://github.com/tikv/tikv)
+  - Distributed transactional key-value database, originally created to complement TiDB
+- [swc](https://github.com/swc-project/swc)
+  - Super-fast typescript / javascript compiler written in rust
+- [json](https://github.com/serde-rs/json)
+  - Strongly typed JSON library for Rust
+- [vector](https://github.com/timberio/vector)
+  - A utility for building high performance observability pipelines.
+- [nom](https://github.com/Geal/nom)
+  - Rust parser combinator framework
+- [wgpu](https://github.com/gfx-rs/wgpu)
+  - Native WebGPU implementation based on gfx-hal
+- [actix](https://github.com/actix/actix)
+  - Actor framework for Rust
+- [wasmer](https://github.com/wasmerio/wasmer)
+  - 🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten
+- [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim)
+  - Language Server Protocol (LSP) support for vim and neovim.

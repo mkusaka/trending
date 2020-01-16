@@ -1,49 +1,50 @@
 # general
-- [wasm3](https://github.com/wasm3/wasm3) : C
-  - 🚀 The fastest WebAssembly interpreter
-- [autogluon](https://github.com/awslabs/autogluon) : Python
-  - AutoGluon: AutoML Toolkit for Deep Learning
-- [cable-haunt-vulnerability-test](https://github.com/Lyrebirds/cable-haunt-vulnerability-test) : Python
-- [tokenizers](https://github.com/huggingface/tokenizers) : Rust
-  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [conference-app-2020](https://github.com/DroidKaigi/conference-app-2020) : Kotlin
+  - The Official Conference App for DroidKaigi 2020 Tokyo
+- [v](https://github.com/vlang/v) : V
+  - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero dependencies. Stable 0.2 release in January 2020. https://vlang.io
+- [libra](https://github.com/libra/libra) : Rust
+  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
+  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [cortex](https://github.com/cortexlabs/cortex) : Go
+  - Deploy machine learning models in production
+- [newbee-mall](https://github.com/newbee-ltd/newbee-mall) : Java
+  - newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
+- [nocode](https://github.com/kelseyhightower/nocode) : Dockerfile
+  - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+- [reconfigurable_organisms](https://github.com/skriegman/reconfigurable_organisms) : C++
+- [MobileBlazorBindings](https://github.com/xamarin/MobileBlazorBindings) : C#
+  - Experimental Mobile Blazor Bindings - Build native mobile apps with Blazor
+- [Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) : C++
+  - Reverse engineering course by Z0F. Focuses on x64 Windows.
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) : JavaScript
+  - ✅ The largest Node.js best practices list (December 2019)
+- [devops-exercises](https://github.com/bregman-arie/devops-exercises) : Python
+  - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
+- [wpt](https://github.com/web-platform-tests/wpt) : HTML
+  - Test suites for Web platform specs — including WHATWG, W3C, and others
+- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) : Python
+  - 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
+- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) : JavaScript
+  - Beautiful and accessible drag and drop for lists with React
 - [Parsr](https://github.com/axa-group/Parsr) : TypeScript
   - Transforms PDF, Documents and Images into Enriched Structured Data
 - [check-cve-2019-19781](https://github.com/cisagov/check-cve-2019-19781) : Python
   - Test a host for susceptibility to CVE-2019-19781
-- [Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) : C++
-  - Reverse engineering course by Z0F. Focuses on x64 Windows.
 - [wav2letter](https://github.com/facebookresearch/wav2letter) : C++
   - Facebook AI Research's Automatic Speech Recognition Toolkit
-- [newbee-mall](https://github.com/newbee-ltd/newbee-mall) : Java
-  - newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
-- [devops-exercises](https://github.com/bregman-arie/devops-exercises) : Python
-  - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
-- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) : Python
-  - 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
-- [tonic](https://github.com/hyperium/tonic) : Rust
-  - A native gRPC client & server implementation with async/await support.
-- [AZ-103-MicrosoftAzureAdministrator](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator) : 
-  - AZ-103: Microsoft Azure Administrator
-- [sagemcom-fast-3890-exploit](https://github.com/Lyrebirds/sagemcom-fast-3890-exploit) : JavaScript
-- [nlp-recipes](https://github.com/microsoft/nlp-recipes) : Python
-  - Natural Language Processing Best Practices & Examples
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
-  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
-- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) : 
-  - A book series on JavaScript. @YDKJS on twitter.
-- [nnjhtrkn](https://github.com/omuanko/nnjhtrkn) : Batchfile
-  - Famous Ninja game for NES
-- [blazor-workshop](https://github.com/dotnet-presentations/blazor-workshop) : C#
-  - Blazor workshop
-- [klipper](https://github.com/KevinOConnor/klipper) : C
-  - Klipper is a 3d-printer firmware
-- [react](https://github.com/facebook/react) : JavaScript
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [aws-sdk-go](https://github.com/aws/aws-sdk-go) : Go
+  - AWS SDK for the Go programming language.
 - [gf](https://github.com/gogf/gf) : Go
   - GoFrame is a modular, full-featured and production-ready application development framework of golang. Providing a series of core components and dozens of practical modules, such as: cache, logging, containers, timer, resource, validator, database orm, etc. Supporting web server integrated with router, cookie, session, middleware, logger, configu…
-- [transformers](https://github.com/huggingface/transformers) : Python
-  - 🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
-- [ui](https://github.com/vlang/ui) : V
-  - Cross-platform UI library written in V
-- [protobuf](https://github.com/golang/protobuf) : Go
-  - Go support for Google's protocol buffers
+- [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) : Python
+  - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
+- [difftaichi](https://github.com/yuanming-hu/difftaichi) : 
+  - 10 differentiable physical simulators built with Taichi differentiable programming (DiffTaichi, ICLR 2020)
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) : 
+  - Master the command line, in one page
+- [dgl](https://github.com/dmlc/dgl) : Python
+  - Python package built to ease deep learning on graph, on top of existing DL frameworks.
+- [ZoomRecylerLayout](https://github.com/Spikeysanju/ZoomRecylerLayout) : Kotlin
+  - Zoom Recycler Layout Manager For Android Kotlin

@@ -1,51 +1,51 @@
 # ruby
-- [spree](https://github.com/spree/spree)
-  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Join our Slack with 4000 users!
-- [XSpear](https://github.com/hahwul/XSpear)
-  - Powerfull XSS Scanning and Parameter analysis tool&gem
-- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
-  - Metasploit Framework
-- [faker](https://github.com/faker-ruby/faker)
-  - A library for generating fake data such as names, addresses, and phone numbers.
-- [factory_bot](https://github.com/thoughtbot/factory_bot)
-  - A library for setting up Ruby objects as test data.
 - [rack](https://github.com/rack/rack)
   - a modular Ruby webserver interface
-- [fluentd-kubernetes-daemonset](https://github.com/fluent/fluentd-kubernetes-daemonset)
-  - Fluentd daemonset for Kubernetes and it Docker image
-- [fast_jsonapi](https://github.com/Netflix/fast_jsonapi)
-  - A lightning fast JSON:API serializer for Ruby Objects.
-- [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails)
-  - Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
+- [dev.to](https://github.com/thepracticaldev/dev.to)
+  - Where programmers share ideas and help each other grow
+- [faker](https://github.com/faker-ruby/faker)
+  - A library for generating fake data such as names, addresses, and phone numbers.
+- [oxidized](https://github.com/ytti/oxidized)
+  - Oxidized is a network device configuration backup tool. It's a RANCID replacement!
+- [rails_admin](https://github.com/sferik/rails_admin)
+  - RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data
 - [carrierwave](https://github.com/carrierwaveuploader/carrierwave)
   - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
-- [devise](https://github.com/heartcombo/devise)
-  - Flexible authentication solution for Rails with Warden.
-- [doorkeeper](https://github.com/doorkeeper-gem/doorkeeper)
-  - Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.
-- [paper_trail](https://github.com/paper-trail-gem/paper_trail)
-  - Track changes to your rails models
-- [fastlane](https://github.com/fastlane/fastlane)
-  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [logstash](https://github.com/elastic/logstash)
-  - Logstash - transport and process your logs, events, or other data
-- [rails](https://github.com/rails/rails)
-  - Ruby on Rails
-- [evil-winrm](https://github.com/Hackplayers/evil-winrm)
-  - The ultimate WinRM shell for hacking/pentesting
-- [sinatra](https://github.com/sinatra/sinatra)
-  - Classy web-development dressed in a DSL (official / canonical repo)
-- [axlsx](https://github.com/randym/axlsx)
-  - xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your…
-- [zammad](https://github.com/zammad/zammad)
-  - Zammad is a web based open source helpdesk/customer support system
-- [ruby-saml](https://github.com/onelogin/ruby-saml)
-  - SAML SSO for Ruby
-- [active_model_serializers](https://github.com/rails-api/active_model_serializers)
-  - ActiveModel::Serializer implementation and Rails hooks
+- [spree](https://github.com/spree/spree)
+  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Join our Slack with 4000 users!
+- [activeadmin](https://github.com/activeadmin/activeadmin)
+  - The administration framework for Ruby on Rails applications.
 - [fluentd](https://github.com/fluent/fluentd)
   - Fluentd: Unified Logging Layer (project under CNCF)
-- [formtastic](https://github.com/justinfrench/formtastic)
-  - A Rails form builder plugin with semantically rich and accessible markup.
+- [webpacker](https://github.com/rails/webpacker)
+  - Use Webpack to manage app-like JavaScript modules in Rails
+- [logstash-patterns-core](https://github.com/logstash-plugins/logstash-patterns-core)
+  - 
+- [fluentd-kubernetes-daemonset](https://github.com/fluent/fluentd-kubernetes-daemonset)
+  - Fluentd daemonset for Kubernetes and it Docker image
+- [factory_bot](https://github.com/thoughtbot/factory_bot)
+  - A library for setting up Ruby objects as test data.
+- [chef](https://github.com/chef/chef)
+  - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
+- [xcode-install](https://github.com/xcpretty/xcode-install)
+  - 🔽 Install and update your Xcodes
+- [homebrew-core](https://github.com/Homebrew/homebrew-core)
+  - 🍻 Default formulae for the missing package manager for macOS
+- [mail](https://github.com/mikel/mail)
+  - A Really Ruby Mail Library
+- [wicked_pdf](https://github.com/mileszs/wicked_pdf)
+  - PDF generator (from HTML) plugin for Ruby on Rails
+- [httparty](https://github.com/jnunemaker/httparty)
+  - 🎉 Makes http fun again!
+- [sidekiq](https://github.com/mperham/sidekiq)
+  - Simple, efficient background processing for Ruby
+- [puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib)
+  - Puppet Labs Standard Library module
+- [paper_trail](https://github.com/paper-trail-gem/paper_trail)
+  - Track changes to your rails models
+- [octokit.rb](https://github.com/octokit/octokit.rb)
+  - Ruby toolkit for the GitHub API
+- [sneakers](https://github.com/jondot/sneakers)
+  - A fast background processing framework for Ruby and RabbitMQ
 - [click-to-deploy](https://github.com/GoogleCloudPlatform/click-to-deploy)
   - Source for Google Click to Deploy solutions listed on Google Cloud Marketplace.

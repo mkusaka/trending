@@ -1,51 +1,51 @@
 # javascript
-- [sagemcom-fast-3890-exploit](https://github.com/Lyrebirds/sagemcom-fast-3890-exploit)
-  - 
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [deck.gl](https://github.com/uber/deck.gl)
-  - WebGL2 powered geospatial visualization layers
-- [leetcode](https://github.com/azl397985856/leetcode)
-  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
-- [next.js](https://github.com/zeit/next.js)
-  - The React Framework
-- [showdoc](https://github.com/star7th/showdoc)
-  - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
-- [swiper](https://github.com/nolimits4web/swiper)
-  - Most modern mobile touch slider with hardware accelerated transitions
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [objection.js](https://github.com/Vincit/objection.js)
-  - An SQL-friendly ORM for Node.js
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [generator-jhipster](https://github.com/jhipster/generator-jhipster)
-  - Open Source application platform for creating Spring Boot + Angular/React projects in seconds!
-- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
-  - Beautiful and accessible drag and drop for lists with React
-- [vis-timeline](https://github.com/visjs/vis-timeline)
-  - 📈 Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
-- [vue](https://github.com/vuejs/vue)
-  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
   - ✅ The largest Node.js best practices list (December 2019)
+- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
+  - Beautiful and accessible drag and drop for lists with React
+- [curso-javascript-ninja](https://github.com/da2k/curso-javascript-ninja)
+  - Curso Javascript Ninja
+- [Functional-Light-JS](https://github.com/getify/Functional-Light-JS)
+  - Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter.
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [react-i18next](https://github.com/i18next/react-i18next)
+  - Internationalization for react done right. Using the i18next i18n ecosystem.
+- [gatsby-ja](https://github.com/gatsbyjs/gatsby-ja)
+  - Japanese translation of Gatsbyjs.org
+- [alpine](https://github.com/alpinejs/alpine)
+  - A rugged, minimal framework for composing JavaScript behavior in your markup.
+- [next.js](https://github.com/zeit/next.js)
+  - The React Framework
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
+  - Based on a true story
+- [Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese)
+  - 💻 计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成)
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+  -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+  - Headless Chrome Node.js API
 - [semana-omnistack-9](https://github.com/Rocketseat/semana-omnistack-9)
   - Código do projeto produzido durante a Semana OmniStack 9.0
-- [react-awesome-slider](https://github.com/rcaferati/react-awesome-slider)
-  - React content transition slider. Awesome Slider is a 60fps, light weight, performant component that renders an animated set of production ready UI general purpose sliders. 🖥️📱
-- [examples](https://github.com/serverless/examples)
-  - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
-- [react-native-firebase](https://github.com/invertase/react-native-firebase)
-  - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
-- [jest-dom](https://github.com/testing-library/jest-dom)
-  - 🦉 Custom jest matchers to test the state of the DOM
-- [learnVue](https://github.com/answershuto/learnVue)
-  - Vue.js 源码解析
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [webpack](https://github.com/webpack/webpack)
-  - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
-- [three.js](https://github.com/mrdoob/three.js)
-  - JavaScript 3D library.
-- [jszip](https://github.com/Stuk/jszip)
-  - Create, read and edit .zip files with Javascript
+- [gatsby](https://github.com/gatsbyjs/gatsby)
+  - Build blazing fast, modern apps and websites with React
+- [objection.js](https://github.com/Vincit/objection.js)
+  - An SQL-friendly ORM for Node.js
+- [semantic-release](https://github.com/semantic-release/semantic-release)
+  - 📦🚀 Fully automated version management and package publishing
+- [Inputmask](https://github.com/RobinHerbots/Inputmask)
+  - Input Mask plugin
+- [slick](https://github.com/kenwheeler/slick)
+  - the last carousel you'll ever need
+- [incubator-superset](https://github.com/apache/incubator-superset)
+  - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
+- [vis-timeline](https://github.com/visjs/vis-timeline)
+  - 📈 Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
+- [swagger-ui](https://github.com/swagger-api/swagger-ui)
+  - Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
+- [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api)
+  - Telegram Bot API for NodeJS
