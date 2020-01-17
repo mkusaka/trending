@@ -1,51 +1,51 @@
 # c++
-- [reconfigurable_organisms](https://github.com/skriegman/reconfigurable_organisms)
-  - 
 - [Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
   - Reverse engineering course by Z0F. Focuses on x64 Windows.
-- [wav2letter](https://github.com/facebookresearch/wav2letter)
-  - Facebook AI Research's Automatic Speech Recognition Toolkit
-- [openpilot](https://github.com/commaai/openpilot)
-  - open source driving agent
-- [mediapipe](https://github.com/google/mediapipe)
-  - MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
-- [watchman](https://github.com/facebook/watchman)
-  - Watches files and records, or triggers actions, when they change.
+- [date](https://github.com/HowardHinnant/date)
+  - A date and time library based on the C++11/14/17 <chrono> header
+- [ClickHouse](https://github.com/ClickHouse/ClickHouse)
+  - ClickHouse is a free analytics DBMS for big data
 - [googletest](https://github.com/google/googletest)
   - Googletest - Google Testing and Mocking Framework
-- [OpenGL](https://github.com/TheCherno/OpenGL)
-  - OpenGL support library so you can just dive in and write OpenGL code
-- [nebula](https://github.com/vesoft-inc/nebula)
-  - A distributed, fast open-source graph database featuring horizontal scalability and high availability
-- [terminal](https://github.com/microsoft/terminal)
-  - The new Windows Terminal, and the original Windows console host - all in the same place!
-- [librealsense](https://github.com/IntelRealSense/librealsense)
-  - Intel® RealSense™ SDK
 - [protobuf](https://github.com/protocolbuffers/protobuf)
   - Protocol Buffers - Google's data interchange format
-- [painlessMesh](https://github.com/gmag11/painlessMesh)
-  - ESP8266 based mesh. This is a mirror copy of https://gitlab.com/painlessMesh/painlessMesh PLEASE ADD COMMENTS, ISSUES and PULL REQUESTS ON GITLAB so that all information is centralized.
-- [Catch2](https://github.com/catchorg/Catch2)
-  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-- [solidity](https://github.com/ethereum/solidity)
-  - Solidity, the Contract-Oriented Programming Language
-- [osquery](https://github.com/osquery/osquery)
-  - SQL powered operating system instrumentation, monitoring, and analytics.
+- [benchmark](https://github.com/google/benchmark)
+  - A microbenchmark support library
 - [simdjson](https://github.com/lemire/simdjson)
   - Parsing gigabytes of JSON per second
-- [swoole-src](https://github.com/swoole/swoole-src)
-  - 🚀 Coroutine-based concurrency library for PHP
-- [spdlog](https://github.com/gabime/spdlog)
-  - Fast C++ logging library.
-- [pytorch](https://github.com/pytorch/pytorch)
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [fmt](https://github.com/fmtlib/fmt)
-  - A modern formatting library
-- [envoy](https://github.com/envoyproxy/envoy)
-  - Cloud-native high-performance edge/middle/service proxy
+- [llvm-project](https://github.com/llvm/llvm-project)
+  - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
+- [trojan](https://github.com/trojan-gfw/trojan)
+  - An unidentifiable mechanism that helps you bypass GFW.
+- [tesseract](https://github.com/tesseract-ocr/tesseract)
+  - Tesseract Open Source OCR Engine (main repository)
+- [onnxruntime](https://github.com/microsoft/onnxruntime)
+  - ONNX Runtime: cross-platform, high performance scoring engine for ML models
 - [MMKV](https://github.com/Tencent/MMKV)
   - An efficient, small mobile key-value storage framework developed by WeChat. Works on iOS, Android, macOS and Windows.
-- [react-native-windows](https://github.com/microsoft/react-native-windows)
-  - A framework for building native Windows apps with React.
-- [openage](https://github.com/SFTtech/openage)
-  - Free (as in freedom) open source clone of the Age of Empires II engine 🚀
+- [openpilot](https://github.com/commaai/openpilot)
+  - open source driving agent
+- [godot](https://github.com/godotengine/godot)
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [librealsense](https://github.com/IntelRealSense/librealsense)
+  - Intel® RealSense™ SDK
+- [fmt](https://github.com/fmtlib/fmt)
+  - A modern formatting library
+- [libphonenumber](https://github.com/google/libphonenumber)
+  - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
+- [reconfigurable_organisms](https://github.com/skriegman/reconfigurable_organisms)
+  - 
+- [OpenGL](https://github.com/TheCherno/OpenGL)
+  - OpenGL support library so you can just dive in and write OpenGL code
+- [flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding)
+  - Examples of using, and testbed for, the in-development Flutter for Desktop
+- [KataGo](https://github.com/lightvector/KataGo)
+  - GTP engine and self-play learning in Go
+- [tensorflow](https://github.com/tensorflow/tensorflow)
+  - An Open Source Machine Learning Framework for Everyone
+- [Firmware](https://github.com/PX4/Firmware)
+  - PX4 Autopilot Software
+- [electron](https://github.com/electron/electron)
+  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [RedisDesktopManager](https://github.com/uglide/RedisDesktopManager)
+  - 🔧 Cross-platform GUI management tool for Redis
