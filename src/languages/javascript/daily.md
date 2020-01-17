@@ -1,51 +1,51 @@
 # javascript
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
-  - ✅ The largest Node.js best practices list (December 2019)
-- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
-  - Beautiful and accessible drag and drop for lists with React
-- [curso-javascript-ninja](https://github.com/da2k/curso-javascript-ninja)
-  - Curso Javascript Ninja
-- [Functional-Light-JS](https://github.com/getify/Functional-Light-JS)
-  - Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter.
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [react-i18next](https://github.com/i18next/react-i18next)
-  - Internationalization for react done right. Using the i18next i18n ecosystem.
-- [gatsby-ja](https://github.com/gatsbyjs/gatsby-ja)
-  - Japanese translation of Gatsbyjs.org
-- [alpine](https://github.com/alpinejs/alpine)
-  - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [next.js](https://github.com/zeit/next.js)
-  - The React Framework
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-  - 🛁 Clean Code concepts adapted for JavaScript
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
   - Based on a true story
-- [Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese)
-  - 💻 计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成)
-- [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
-  -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [semana-omnistack-9](https://github.com/Rocketseat/semana-omnistack-9)
-  - Código do projeto produzido durante a Semana OmniStack 9.0
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
-- [objection.js](https://github.com/Vincit/objection.js)
-  - An SQL-friendly ORM for Node.js
-- [semantic-release](https://github.com/semantic-release/semantic-release)
-  - 📦🚀 Fully automated version management and package publishing
-- [Inputmask](https://github.com/RobinHerbots/Inputmask)
-  - Input Mask plugin
+- [hass-config](https://github.com/matt8707/hass-config)
+  - 
+- [devradar](https://github.com/filipedeschamps/devradar)
+  - Projeto resultado da Semana Omnistack #10
 - [slick](https://github.com/kenwheeler/slick)
   - the last carousel you'll ever need
-- [incubator-superset](https://github.com/apache/incubator-superset)
-  - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
-- [vis-timeline](https://github.com/visjs/vis-timeline)
-  - 📈 Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
-- [swagger-ui](https://github.com/swagger-api/swagger-ui)
-  - Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
-- [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api)
-  - Telegram Bot API for NodeJS
+- [gatsby](https://github.com/gatsbyjs/gatsby)
+  - Build blazing fast, modern apps and websites with React
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [home-assistant-config](https://github.com/basnijholt/home-assistant-config)
+  - My Home Assistant config files and AppDaemon apps 🏠 🤖
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+  - ✅ The largest Node.js best practices list (December 2019)
+- [next.js](https://github.com/zeit/next.js)
+  - The React Framework
+- [v3](https://github.com/exercism/v3)
+  - The work-in-progress project for developing v3 tracks
+- [cypress](https://github.com/cypress-io/cypress)
+  - Fast, easy and reliable testing for anything that runs in a browser.
+- [nuxt.js](https://github.com/nuxt/nuxt.js)
+  - The Vue.js Framework
+- [carbon](https://github.com/carbon-design-system/carbon)
+  - A design system built by IBM
+- [samples](https://github.com/webrtc/samples)
+  - WebRTC Web demos and samples
+- [nuclear](https://github.com/nukeop/nuclear)
+  - User freedom-oriented streaming music player
+- [slate](https://github.com/ianstormtaylor/slate)
+  - A completely customizable framework for building rich text editors. (Currently in beta.)
+- [serverless](https://github.com/serverless/serverless)
+  - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+- [single-spa](https://github.com/CanopyTax/single-spa)
+  - Microfrontends made easy
+- [graphql-engine](https://github.com/hasura/graphql-engine)
+  - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+- [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate)
+  - 🔥 A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
+- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
+  - Beautiful and accessible drag and drop for lists with React
+- [react-redux](https://github.com/reduxjs/react-redux)
+  - Official React bindings for Redux
+- [complete-intro-to-react-v5](https://github.com/btholt/complete-intro-to-react-v5)
+  - The Complete Intro to React, the fifth version
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
+  - Short JavaScript code snippets for all your development needs
+- [quasar](https://github.com/quasarframework/quasar)
+  - Quasar Framework - Build high-performance VueJS user interfaces in record time

@@ -1,51 +1,51 @@
 # typescript
-- [Parsr](https://github.com/axa-group/Parsr)
-  - Transforms PDF, Documents and Images into Enriched Structured Data
-- [kibana](https://github.com/elastic/kibana)
-  - Your window into the Elastic Stack
+- [vuetify](https://github.com/vuetifyjs/vuetify)
+  - 🐉 Material Component Framework for Vue
+- [redux](https://github.com/reduxjs/redux)
+  - Predictable state container for JavaScript apps
+- [components](https://github.com/angular/components)
+  - Component infrastructure and Material Design components for Angular
+- [polaris-react](https://github.com/Shopify/polaris-react)
+  - Shopify’s product component library
 - [angular](https://github.com/angular/angular)
   - One framework. Mobile & desktop.
-- [mean](https://github.com/linnovate/mean)
-  - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
-  - 📋 React hooks for forms validation without the hassle.
-- [storybook](https://github.com/storybookjs/storybook)
-  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
-- [vx](https://github.com/hshoff/vx)
-  - 🐯react + d3 = vx | visualization components
-- [react-admin](https://github.com/marmelab/react-admin)
-  - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
-- [notion-blog](https://github.com/ijjk/notion-blog)
-  - A Next.js site using new SSG support with a Notion backed blog
-- [kubeapps](https://github.com/kubeapps/kubeapps)
-  - A web-based UI for deploying and managing applications in Kubernetes clusters
-- [angular-ngrx-material-starter](https://github.com/tomastrajan/angular-ngrx-material-starter)
-  - Angular, NgRx, Angular CLI & Angular Material Starter Project
-- [nteract](https://github.com/nteract/nteract)
-  - 📘 The interactive computing suite for you! ✨
-- [ionic-docs](https://github.com/ionic-team/ionic-docs)
-  - 
-- [redoc](https://github.com/Redocly/redoc)
-  - 📘 OpenAPI/Swagger-generated API Reference Documentation
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+  - The repository for high quality TypeScript type definitions.
+- [TypeScript](https://github.com/microsoft/TypeScript)
+  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [wechaty](https://github.com/wechaty/wechaty)
   - WeChat Bot SDK for Individual Account, Powered by TypeScript, Docker, and 💖
-- [lightweight-charts](https://github.com/tradingview/lightweight-charts)
-  - Financial lightweight charts built with HTML5 canvas
-- [qiankun](https://github.com/umijs/qiankun)
-  - 📦🚀Blazing fast, simple and completed solution for micro frontends.
-- [html2canvas](https://github.com/niklasvh/html2canvas)
-  - Screenshots with JavaScript
-- [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
-  - 💬 The most complete chat UI for React Native
 - [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native)
   - ⚛️📺Projects from the “Can it be done in React Native?” YouTube series
-- [nest](https://github.com/nestjs/nest)
-  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-- [io-ts](https://github.com/gcanti/io-ts)
-  - Runtime type system for IO decoding/encoding
+- [saleor-storefront](https://github.com/mirumee/saleor-storefront)
+  - A GraphQL-powered, PWA, single-page application storefront for Saleor.
+- [Parsr](https://github.com/axa-group/Parsr)
+  - Transforms PDF, Documents and Images into Enriched Structured Data
+- [javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator)
+  - A powerful obfuscator for JavaScript and Node.js
+- [vscode](https://github.com/microsoft/vscode)
+  - Visual Studio Code
+- [WebWindow](https://github.com/SteveSandersonMS/WebWindow)
+  - .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental.
+- [nextjs-firebase-authentication](https://github.com/rwieruch/nextjs-firebase-authentication)
+  - Next.js + Firebase Authentication Starter
+- [ionic](https://github.com/ionic-team/ionic)
+  - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
+- [excalidraw](https://github.com/excalidraw/excalidraw)
+  - Sketch hand-drawn like diagrams
+- [nebular](https://github.com/akveo/nebular)
+  - 💥 Customizable Angular UI Library based on Eva Design System 🌚✨Dark Mode
+- [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator)
+  - GraphQL code generator with flexible support for custom plugins and templates
+- [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
+  - 💥 React Native UI Library based on Eva Design System 🌚✨Dark Mode
 - [ag-grid](https://github.com/ag-grid/ag-grid)
   - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-- [prisma2](https://github.com/prisma/prisma2)
-  - Modern DB toolkit to query, migrate and model your database
-- [rxdb](https://github.com/pubkey/rxdb)
-  - 💻 🔄 📱 A realtime Database for JavaScript Applications
+- [react-admin](https://github.com/marmelab/react-admin)
+  - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
+- [react-native-device-info](https://github.com/react-native-community/react-native-device-info)
+  - Device Information for React Native iOS and Android
+- [nx](https://github.com/nrwl/nx)
+  - Extensible Dev Tools for Monorepos
+- [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+  - ✨ Monorepo for all the tooling which enables ESLint to support TypeScript

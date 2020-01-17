@@ -1,51 +1,51 @@
 # rust
 - [libra](https://github.com/libra/libra)
   - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
+- [warp](https://github.com/seanmonstar/warp)
+  - A super-easy, composable, web server framework for warp speeds.
 - [sqlx](https://github.com/launchbadge/sqlx)
   - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL.
+- [ruffle](https://github.com/ruffle-rs/ruffle)
+  - A Flash Player emulator written in Rust
+- [reqwest](https://github.com/seanmonstar/reqwest)
+  - An easy and powerful Rust HTTP Client
+- [examples](https://github.com/actix/examples)
+  - Actix web examples
 - [dashmap](https://github.com/xacrimon/dashmap)
   - Blazing fast concurrent HashMap for Rust.
-- [tokenizers](https://github.com/huggingface/tokenizers)
-  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
-- [async-std](https://github.com/async-rs/async-std)
-  - Async version of the Rust standard library
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [jormungandr](https://github.com/input-output-hk/jormungandr)
-  - aspiring blockchain node
-- [tonic](https://github.com/hyperium/tonic)
-  - A native gRPC client & server implementation with async/await support.
-- [RustPython](https://github.com/RustPython/RustPython)
-  - A Python Interpreter written in Rust
-- [rudr](https://github.com/oam-dev/rudr)
-  - A Kubernetes implementation of the Open Application Model specification
-- [bao](https://github.com/oconnor663/bao)
-  - a verified streaming tool based on BLAKE3
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [firecracker](https://github.com/firecracker-microvm/firecracker)
-  - Secure and fast microVMs for serverless computing.
-- [ggez](https://github.com/ggez/ggez)
-  - Rust library to create a Good Game Easily
-- [iced](https://github.com/hecrj/iced)
-  - A cross-platform GUI library for Rust, inspired by Elm
-- [bat](https://github.com/sharkdp/bat)
-  - A cat(1) clone with wings.
-- [tikv](https://github.com/tikv/tikv)
-  - Distributed transactional key-value database, originally created to complement TiDB
+- [tokio](https://github.com/tokio-rs/tokio)
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [swc](https://github.com/swc-project/swc)
   - Super-fast typescript / javascript compiler written in rust
-- [json](https://github.com/serde-rs/json)
-  - Strongly typed JSON library for Rust
-- [vector](https://github.com/timberio/vector)
-  - A utility for building high performance observability pipelines.
-- [nom](https://github.com/Geal/nom)
-  - Rust parser combinator framework
+- [async-std](https://github.com/async-rs/async-std)
+  - Async version of the Rust standard library
+- [WASI](https://github.com/WebAssembly/WASI)
+  - WebAssembly System Interface
+- [tikv](https://github.com/tikv/tikv)
+  - Distributed transactional key-value database, originally created to complement TiDB
+- [indy-sdk](https://github.com/hyperledger/indy-sdk)
+  - Everything needed to build applications that interact with an Indy distributed identity ledger.
 - [wgpu](https://github.com/gfx-rs/wgpu)
   - Native WebGPU implementation based on gfx-hal
-- [actix](https://github.com/actix/actix)
-  - Actor framework for Rust
+- [firecracker](https://github.com/firecracker-microvm/firecracker)
+  - Secure and fast microVMs for serverless computing.
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [cranelift](https://github.com/bytecodealliance/cranelift)
+  - Cranelift code generator
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - ripgrep recursively searches directories for a regex pattern
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
+- [jormungandr](https://github.com/input-output-hk/jormungandr)
+  - aspiring blockchain node
+- [polkadot](https://github.com/paritytech/polkadot)
+  - Polkadot Node Implementation
 - [wasmer](https://github.com/wasmerio/wasmer)
   - 🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten
-- [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim)
-  - Language Server Protocol (LSP) support for vim and neovim.
+- [stuck](https://github.com/jonhoo/stuck)
+  - 
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.

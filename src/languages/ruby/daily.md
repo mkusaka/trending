@@ -1,51 +1,51 @@
 # ruby
-- [rack](https://github.com/rack/rack)
-  - a modular Ruby webserver interface
-- [dev.to](https://github.com/thepracticaldev/dev.to)
-  - Where programmers share ideas and help each other grow
-- [faker](https://github.com/faker-ruby/faker)
-  - A library for generating fake data such as names, addresses, and phone numbers.
-- [oxidized](https://github.com/ytti/oxidized)
-  - Oxidized is a network device configuration backup tool. It's a RANCID replacement!
-- [rails_admin](https://github.com/sferik/rails_admin)
-  - RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data
-- [carrierwave](https://github.com/carrierwaveuploader/carrierwave)
-  - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
-- [spree](https://github.com/spree/spree)
-  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Join our Slack with 4000 users!
+- [solidus](https://github.com/solidusio/solidus)
+  - 🛒Solidus, Rails eCommerce System
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
+  - Metasploit Framework
 - [activeadmin](https://github.com/activeadmin/activeadmin)
   - The administration framework for Ruby on Rails applications.
-- [fluentd](https://github.com/fluent/fluentd)
-  - Fluentd: Unified Logging Layer (project under CNCF)
-- [webpacker](https://github.com/rails/webpacker)
-  - Use Webpack to manage app-like JavaScript modules in Rails
-- [logstash-patterns-core](https://github.com/logstash-plugins/logstash-patterns-core)
-  - 
-- [fluentd-kubernetes-daemonset](https://github.com/fluent/fluentd-kubernetes-daemonset)
-  - Fluentd daemonset for Kubernetes and it Docker image
-- [factory_bot](https://github.com/thoughtbot/factory_bot)
-  - A library for setting up Ruby objects as test data.
+- [discourse](https://github.com/discourse/discourse)
+  - A platform for community discussion. Free, open, simple.
+- [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts)
+  - 🚨 Collection of Prometheus alerting rules
+- [annotate_models](https://github.com/ctran/annotate_models)
+  - Annotate Rails classes with schema and routes info
+- [CVE-2020-0601](https://github.com/ollypwn/CVE-2020-0601)
+  - PoC for CVE-2020-0601
+- [Stethoscope](https://github.com/GliaX/Stethoscope)
+  - A research-validated stethoscope whose plans are available Freely and openly. The cost of the entire stethoscope is between $2.5 to $5 to produce
+- [devise](https://github.com/heartcombo/devise)
+  - Flexible authentication solution for Rails with Warden.
+- [grape](https://github.com/ruby-grape/grape)
+  - An opinionated framework for creating REST-like APIs in Ruby.
+- [doorkeeper](https://github.com/doorkeeper-gem/doorkeeper)
+  - Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.
+- [rubocop](https://github.com/rubocop-hq/rubocop)
+  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+- [inspec](https://github.com/inspec/inspec)
+  - InSpec: Auditing and Testing Framework
+- [capistrano](https://github.com/capistrano/capistrano)
+  - Remote multi-server automation tool
+- [redmine](https://github.com/redmine/redmine)
+  - Mirror of redmine code source - Official SVN repository is at https://svn.redmine.org/redmine - contact: @jbbarth or jeanbaptiste.barth (at) gmail (dot) com
+- [logstash](https://github.com/elastic/logstash)
+  - Logstash - transport and process your logs, events, or other data
+- [homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
+  - 🖋 Casks of Ｆ🅾𝓝𝐓𝚂
 - [chef](https://github.com/chef/chef)
   - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
-- [xcode-install](https://github.com/xcpretty/xcode-install)
-  - 🔽 Install and update your Xcodes
-- [homebrew-core](https://github.com/Homebrew/homebrew-core)
-  - 🍻 Default formulae for the missing package manager for macOS
-- [mail](https://github.com/mikel/mail)
-  - A Really Ruby Mail Library
-- [wicked_pdf](https://github.com/mileszs/wicked_pdf)
-  - PDF generator (from HTML) plugin for Ruby on Rails
-- [httparty](https://github.com/jnunemaker/httparty)
-  - 🎉 Makes http fun again!
-- [sidekiq](https://github.com/mperham/sidekiq)
-  - Simple, efficient background processing for Ruby
-- [puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib)
-  - Puppet Labs Standard Library module
-- [paper_trail](https://github.com/paper-trail-gem/paper_trail)
-  - Track changes to your rails models
-- [octokit.rb](https://github.com/octokit/octokit.rb)
-  - Ruby toolkit for the GitHub API
-- [sneakers](https://github.com/jondot/sneakers)
-  - A fast background processing framework for Ruby and RabbitMQ
-- [click-to-deploy](https://github.com/GoogleCloudPlatform/click-to-deploy)
-  - Source for Google Click to Deploy solutions listed on Google Cloud Marketplace.
+- [shrine](https://github.com/shrinerb/shrine)
+  - File Attachment toolkit for Ruby applications
+- [faker](https://github.com/faker-ruby/faker)
+  - A library for generating fake data such as names, addresses, and phone numbers.
+- [webpacker](https://github.com/rails/webpacker)
+  - Use Webpack to manage app-like JavaScript modules in Rails
+- [fluentd](https://github.com/fluent/fluentd)
+  - Fluentd: Unified Logging Layer (project under CNCF)
+- [aasm](https://github.com/aasm/aasm)
+  - AASM - State machines for Ruby classes (plain Ruby, ActiveRecord, Mongoid)
+- [rake](https://github.com/ruby/rake)
+  - A make-like build utility for Ruby.
+- [factory_bot](https://github.com/thoughtbot/factory_bot)
+  - A library for setting up Ruby objects as test data.

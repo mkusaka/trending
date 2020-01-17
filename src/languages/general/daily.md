@@ -1,50 +1,50 @@
 # general
-- [conference-app-2020](https://github.com/DroidKaigi/conference-app-2020) : Kotlin
-  - The Official Conference App for DroidKaigi 2020 Tokyo
-- [v](https://github.com/vlang/v) : V
-  - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero dependencies. Stable 0.2 release in January 2020. https://vlang.io
-- [libra](https://github.com/libra/libra) : Rust
-  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
-- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
-  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-- [cortex](https://github.com/cortexlabs/cortex) : Go
-  - Deploy machine learning models in production
-- [newbee-mall](https://github.com/newbee-ltd/newbee-mall) : Java
-  - newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
 - [nocode](https://github.com/kelseyhightower/nocode) : Dockerfile
   - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-- [reconfigurable_organisms](https://github.com/skriegman/reconfigurable_organisms) : C++
-- [MobileBlazorBindings](https://github.com/xamarin/MobileBlazorBindings) : C#
-  - Experimental Mobile Blazor Bindings - Build native mobile apps with Blazor
-- [Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) : C++
-  - Reverse engineering course by Z0F. Focuses on x64 Windows.
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) : JavaScript
-  - ✅ The largest Node.js best practices list (December 2019)
+- [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) : 
+  - JetBrains Mono – the free and open-source typeface for developers
+- [optuna](https://github.com/optuna/optuna) : Python
+  - A hyperparameter optimization framework
 - [devops-exercises](https://github.com/bregman-arie/devops-exercises) : Python
   - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
-- [wpt](https://github.com/web-platform-tests/wpt) : HTML
-  - Test suites for Web platform specs — including WHATWG, W3C, and others
-- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) : Python
-  - 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
-- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) : JavaScript
-  - Beautiful and accessible drag and drop for lists with React
-- [Parsr](https://github.com/axa-group/Parsr) : TypeScript
-  - Transforms PDF, Documents and Images into Enriched Structured Data
-- [check-cve-2019-19781](https://github.com/cisagov/check-cve-2019-19781) : Python
-  - Test a host for susceptibility to CVE-2019-19781
-- [wav2letter](https://github.com/facebookresearch/wav2letter) : C++
-  - Facebook AI Research's Automatic Speech Recognition Toolkit
-- [aws-sdk-go](https://github.com/aws/aws-sdk-go) : Go
-  - AWS SDK for the Go programming language.
-- [gf](https://github.com/gogf/gf) : Go
-  - GoFrame is a modular, full-featured and production-ready application development framework of golang. Providing a series of core components and dozens of practical modules, such as: cache, logging, containers, timer, resource, validator, database orm, etc. Supporting web server integrated with router, cookie, session, middleware, logger, configu…
-- [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) : Python
-  - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
-- [difftaichi](https://github.com/yuanming-hu/difftaichi) : 
-  - 10 differentiable physical simulators built with Taichi differentiable programming (DiffTaichi, ICLR 2020)
+- [Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) : C++
+  - Reverse engineering course by Z0F. Focuses on x64 Windows.
+- [ddsp](https://github.com/magenta/ddsp) : Python
+  - DDSP: Differentiable Digital Signal Processing
+- [getflutter](https://github.com/ionicfirebaseapp/getflutter) : Dart
+  - Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.
+- [libra](https://github.com/libra/libra) : Rust
+  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) : 
   - Master the command line, in one page
-- [dgl](https://github.com/dmlc/dgl) : Python
-  - Python package built to ease deep learning on graph, on top of existing DL frameworks.
-- [ZoomRecylerLayout](https://github.com/Spikeysanju/ZoomRecylerLayout) : Kotlin
-  - Zoom Recycler Layout Manager For Android Kotlin
+- [Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) : Jupyter Notebook
+  - this repository accompanies the book "Grokking Deep Learning"
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
+  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) : JavaScript
+  - Based on a true story
+- [v](https://github.com/vlang/v) : V
+  - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero dependencies. Stable 0.2 release in January 2020. https://vlang.io
+- [openempires](https://github.com/glouw/openempires) : C
+  - The Age of Empires II reverse engineering
+- [FiraCode](https://github.com/tonsky/FiraCode) : Clojure
+  - Monospaced font with programming ligatures
+- [Store](https://github.com/dropbox/Store) : Kotlin
+  - Kotlin Library for Async Data Loading and Caching
+- [moby](https://github.com/moby/moby) : Go
+  - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [aws-sdk-go](https://github.com/aws/aws-sdk-go) : Go
+  - AWS SDK for the Go programming language.
+- [hass-config](https://github.com/matt8707/hass-config) : JavaScript
+- [conference-app-2020](https://github.com/DroidKaigi/conference-app-2020) : Kotlin
+  - The Official Conference App for DroidKaigi 2020 Tokyo
+- [CLUENER2020](https://github.com/CLUEbenchmark/CLUENER2020) : Python
+  - CLUENER2020 中文细粒度命名实体识别 Fine Grained Named Entity Recognition
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
+  - 🤓 Build your own (insert technology here)
+- [devradar](https://github.com/filipedeschamps/devradar) : JavaScript
+  - Projeto resultado da Semana Omnistack #10
+- [newbee-mall](https://github.com/newbee-ltd/newbee-mall) : Java
+  - newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
+- [redis](https://github.com/go-redis/redis) : Go
+  - Type-safe Redis client for Golang
