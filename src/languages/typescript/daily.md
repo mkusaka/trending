@@ -1,51 +1,51 @@
 # typescript
-- [vuetify](https://github.com/vuetifyjs/vuetify)
-  - 🐉 Material Component Framework for Vue
-- [redux](https://github.com/reduxjs/redux)
-  - Predictable state container for JavaScript apps
-- [components](https://github.com/angular/components)
-  - Component infrastructure and Material Design components for Angular
-- [polaris-react](https://github.com/Shopify/polaris-react)
-  - Shopify’s product component library
 - [angular](https://github.com/angular/angular)
   - One framework. Mobile & desktop.
-- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-  - The repository for high quality TypeScript type definitions.
-- [TypeScript](https://github.com/microsoft/TypeScript)
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [wechaty](https://github.com/wechaty/wechaty)
-  - WeChat Bot SDK for Individual Account, Powered by TypeScript, Docker, and 💖
-- [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native)
-  - ⚛️📺Projects from the “Can it be done in React Native?” YouTube series
-- [saleor-storefront](https://github.com/mirumee/saleor-storefront)
-  - A GraphQL-powered, PWA, single-page application storefront for Saleor.
-- [Parsr](https://github.com/axa-group/Parsr)
-  - Transforms PDF, Documents and Images into Enriched Structured Data
-- [javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator)
-  - A powerful obfuscator for JavaScript and Node.js
-- [vscode](https://github.com/microsoft/vscode)
-  - Visual Studio Code
+- [darkreader](https://github.com/darkreader/darkreader)
+  - Dark Reader Chrome and Firefox extension
 - [WebWindow](https://github.com/SteveSandersonMS/WebWindow)
   - .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental.
-- [nextjs-firebase-authentication](https://github.com/rwieruch/nextjs-firebase-authentication)
-  - Next.js + Firebase Authentication Starter
-- [ionic](https://github.com/ionic-team/ionic)
-  - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
-- [excalidraw](https://github.com/excalidraw/excalidraw)
-  - Sketch hand-drawn like diagrams
-- [nebular](https://github.com/akveo/nebular)
-  - 💥 Customizable Angular UI Library based on Eva Design System 🌚✨Dark Mode
-- [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator)
-  - GraphQL code generator with flexible support for custom plugins and templates
-- [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
-  - 💥 React Native UI Library based on Eva Design System 🌚✨Dark Mode
-- [ag-grid](https://github.com/ag-grid/ag-grid)
-  - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
+- [scully](https://github.com/scullyio/scully)
+  - The Static Site Generator for Angular apps
+- [aws-cdk](https://github.com/aws/aws-cdk)
+  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+- [nest](https://github.com/nestjs/nest)
+  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [wenyan](https://github.com/wenyan-lang/wenyan)
+  - 文言文編程語言 A programming language for the ancient Chinese.
+- [sapper](https://github.com/sveltejs/sapper)
+  - The next small thing in web development, powered by Svelte
 - [react-admin](https://github.com/marmelab/react-admin)
   - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
-- [react-native-device-info](https://github.com/react-native-community/react-native-device-info)
-  - Device Information for React Native iOS and Android
+- [typeorm](https://github.com/typeorm/typeorm)
+  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+- [react-native-reanimated-bottom-sheet](https://github.com/osdnk/react-native-reanimated-bottom-sheet)
+  - Highly configurable bottom sheet component made with react-native-reanimated and react-native-gesture-handler
+- [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native)
+  - ⚛️📺Projects from the “Can it be done in React Native?” YouTube series
+- [utterances](https://github.com/utterance/utterances)
+  - 🔮 A lightweight comments widget built on GitHub issues
+- [platform](https://github.com/ngrx/platform)
+  - Reactive libraries for Angular
+- [react-diagrams](https://github.com/projectstorm/react-diagrams)
+  - a super simple, no-nonsense diagramming library written in react that just works
+- [countUp.js](https://github.com/inorganik/countUp.js)
+  - Animates a numerical value by counting to it
+- [nebular](https://github.com/akveo/nebular)
+  - 💥 Customizable Angular UI Library based on Eva Design System 🌚✨Dark Mode
+- [apollo-client](https://github.com/apollographql/apollo-client)
+  - 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
+- [xstate](https://github.com/davidkpiano/xstate)
+  - State machines and statecharts for the modern web.
 - [nx](https://github.com/nrwl/nx)
   - Extensible Dev Tools for Monorepos
-- [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
-  - ✨ Monorepo for all the tooling which enables ESLint to support TypeScript
+- [material-components-web](https://github.com/material-components/material-components-web)
+  - Modular and customizable Material Design UI components for the web
+- [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
+  - 💬 The most complete chat UI for React Native
+- [Parsr](https://github.com/axa-group/Parsr)
+  - Transforms PDF, Documents and Images into Enriched Structured Data
+- [simplenote-electron](https://github.com/Automattic/simplenote-electron)
+  - A Simplenote React app packaged via Electron for Windows and Linux
+- [chrome](https://github.com/browserless/chrome)
+  - Chrome as a service in docker. Run on our cloud, or bring your own

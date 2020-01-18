@@ -1,51 +1,51 @@
 # c++
+- [verona](https://github.com/microsoft/verona)
+  - Research programming language for concurrent ownership
+- [BIGTREETECH-SKR-mini-E3](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3)
+  - BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.
 - [Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
   - Reverse engineering course by Z0F. Focuses on x64 Windows.
-- [date](https://github.com/HowardHinnant/date)
-  - A date and time library based on the C++11/14/17 <chrono> header
-- [ClickHouse](https://github.com/ClickHouse/ClickHouse)
-  - ClickHouse is a free analytics DBMS for big data
-- [googletest](https://github.com/google/googletest)
-  - Googletest - Google Testing and Mocking Framework
-- [protobuf](https://github.com/protocolbuffers/protobuf)
-  - Protocol Buffers - Google's data interchange format
-- [benchmark](https://github.com/google/benchmark)
-  - A microbenchmark support library
-- [simdjson](https://github.com/lemire/simdjson)
-  - Parsing gigabytes of JSON per second
-- [llvm-project](https://github.com/llvm/llvm-project)
-  - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
-- [trojan](https://github.com/trojan-gfw/trojan)
-  - An unidentifiable mechanism that helps you bypass GFW.
-- [tesseract](https://github.com/tesseract-ocr/tesseract)
-  - Tesseract Open Source OCR Engine (main repository)
-- [onnxruntime](https://github.com/microsoft/onnxruntime)
-  - ONNX Runtime: cross-platform, high performance scoring engine for ML models
-- [MMKV](https://github.com/Tencent/MMKV)
-  - An efficient, small mobile key-value storage framework developed by WeChat. Works on iOS, Android, macOS and Windows.
+- [calculator](https://github.com/microsoft/calculator)
+  - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [openpilot](https://github.com/commaai/openpilot)
   - open source driving agent
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [librealsense](https://github.com/IntelRealSense/librealsense)
-  - Intel® RealSense™ SDK
-- [fmt](https://github.com/fmtlib/fmt)
-  - A modern formatting library
-- [libphonenumber](https://github.com/google/libphonenumber)
-  - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
-- [reconfigurable_organisms](https://github.com/skriegman/reconfigurable_organisms)
-  - 
-- [OpenGL](https://github.com/TheCherno/OpenGL)
-  - OpenGL support library so you can just dive in and write OpenGL code
-- [flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding)
-  - Examples of using, and testbed for, the in-development Flutter for Desktop
-- [KataGo](https://github.com/lightvector/KataGo)
-  - GTP engine and self-play learning in Go
+- [Tasmota](https://github.com/arendst/Tasmota)
+  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
+- [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)
+  - A lightweight utility that makes the Windows taskbar translucent/transparent.
+- [tesseract](https://github.com/tesseract-ocr/tesseract)
+  - Tesseract Open Source OCR Engine (main repository)
+- [gnuradio](https://github.com/gnuradio/gnuradio)
+  - GNU Radio
+- [libigl](https://github.com/libigl/libigl)
+  - Simple C++ geometry processing library.
+- [pytorch](https://github.com/pytorch/pytorch)
+  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [LDSO](https://github.com/tum-vision/LDSO)
+  - DSO with SIM(3) pose graph optimization and loop closure
+- [rapidjson](https://github.com/Tencent/rapidjson)
+  - A fast JSON parser/generator for C++ with both SAX/DOM style API
+- [bgfx](https://github.com/bkaradzic/bgfx)
+  - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 - [tensorflow](https://github.com/tensorflow/tensorflow)
   - An Open Source Machine Learning Framework for Everyone
-- [Firmware](https://github.com/PX4/Firmware)
-  - PX4 Autopilot Software
-- [electron](https://github.com/electron/electron)
-  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [RedisDesktopManager](https://github.com/uglide/RedisDesktopManager)
-  - 🔧 Cross-platform GUI management tool for Redis
+- [godot](https://github.com/godotengine/godot)
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [AppleALC](https://github.com/acidanthera/AppleALC)
+  - Native macOS HD audio for not officially supported codecs
+- [swift](https://github.com/apple/swift)
+  - The Swift Programming Language
+- [phantomjs](https://github.com/ariya/phantomjs)
+  - Scriptable Headless Browser
+- [aseprite](https://github.com/aseprite/aseprite)
+  - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
+- [WProtect](https://github.com/DeDf/WProtect)
+  - 
+- [IRremoteESP8266](https://github.com/crankyoldgit/IRremoteESP8266)
+  - Infrared remote library for ESP8266: send and receive infrared signals with multiple protocols. Based on: https://github.com/shirriff/Arduino-IRremote/
+- [pulseeffects](https://github.com/wwmm/pulseeffects)
+  - Limiter, compressor, reverberation, equalizer and auto volume effects for Pulseaudio applications
+- [open-builder](https://github.com/Hopson97/open-builder)
+  - Open source "Minecraft-like" game with multiplayer support.
+- [e-maxx-eng](https://github.com/e-maxx-eng/e-maxx-eng)
+  - Translation of http://e-maxx.ru into English

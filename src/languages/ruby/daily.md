@@ -1,51 +1,51 @@
 # ruby
-- [solidus](https://github.com/solidusio/solidus)
-  - 🛒Solidus, Rails eCommerce System
-- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
-  - Metasploit Framework
-- [activeadmin](https://github.com/activeadmin/activeadmin)
-  - The administration framework for Ruby on Rails applications.
-- [discourse](https://github.com/discourse/discourse)
-  - A platform for community discussion. Free, open, simple.
-- [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts)
-  - 🚨 Collection of Prometheus alerting rules
-- [annotate_models](https://github.com/ctran/annotate_models)
-  - Annotate Rails classes with schema and routes info
 - [CVE-2020-0601](https://github.com/ollypwn/CVE-2020-0601)
   - PoC for CVE-2020-0601
-- [Stethoscope](https://github.com/GliaX/Stethoscope)
-  - A research-validated stethoscope whose plans are available Freely and openly. The cost of the entire stethoscope is between $2.5 to $5 to produce
-- [devise](https://github.com/heartcombo/devise)
-  - Flexible authentication solution for Rails with Warden.
-- [grape](https://github.com/ruby-grape/grape)
-  - An opinionated framework for creating REST-like APIs in Ruby.
-- [doorkeeper](https://github.com/doorkeeper-gem/doorkeeper)
-  - Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.
+- [discourse](https://github.com/discourse/discourse)
+  - A platform for community discussion. Free, open, simple.
 - [rubocop](https://github.com/rubocop-hq/rubocop)
   - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [inspec](https://github.com/inspec/inspec)
-  - InSpec: Auditing and Testing Framework
-- [capistrano](https://github.com/capistrano/capistrano)
-  - Remote multi-server automation tool
-- [redmine](https://github.com/redmine/redmine)
-  - Mirror of redmine code source - Official SVN repository is at https://svn.redmine.org/redmine - contact: @jbbarth or jeanbaptiste.barth (at) gmail (dot) com
-- [logstash](https://github.com/elastic/logstash)
-  - Logstash - transport and process your logs, events, or other data
-- [homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
-  - 🖋 Casks of Ｆ🅾𝓝𝐓𝚂
-- [chef](https://github.com/chef/chef)
-  - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
-- [shrine](https://github.com/shrinerb/shrine)
-  - File Attachment toolkit for Ruby applications
-- [faker](https://github.com/faker-ruby/faker)
-  - A library for generating fake data such as names, addresses, and phone numbers.
-- [webpacker](https://github.com/rails/webpacker)
-  - Use Webpack to manage app-like JavaScript modules in Rails
-- [fluentd](https://github.com/fluent/fluentd)
-  - Fluentd: Unified Logging Layer (project under CNCF)
-- [aasm](https://github.com/aasm/aasm)
-  - AASM - State machines for Ruby classes (plain Ruby, ActiveRecord, Mongoid)
+- [fast_template](https://github.com/fastai/fast_template)
+  - A template for really easy blogging with GitHub Pages
+- [zammad](https://github.com/zammad/zammad)
+  - Zammad is a web based open source helpdesk/customer support system
 - [rake](https://github.com/ruby/rake)
   - A make-like build utility for Ruby.
-- [factory_bot](https://github.com/thoughtbot/factory_bot)
-  - A library for setting up Ruby objects as test data.
+- [canvas-lms](https://github.com/instructure/canvas-lms)
+  - The open LMS by Instructure, Inc.
+- [vagrant](https://github.com/hashicorp/vagrant)
+  - Vagrant is a tool for building and distributing development environments.
+- [brew](https://github.com/Homebrew/brew)
+  - 🍺 The missing package manager for macOS (or Linux)
+- [hw-ruby-intro](https://github.com/saasbook/hw-ruby-intro)
+  - Ruby Introduction Assignment for Agile Development using Ruby on Rails
+- [workarea](https://github.com/workarea-commerce/workarea)
+  - Workarea is an enterprise-grade Ruby on Rails commerce platform
+- [barber](https://github.com/michaeleisel/barber)
+  - Fast build times for big Swift projects
+- [active-record-translating-from-orm-to-ar-nyc-clarke-web-010620](https://github.com/learn-co-students/active-record-translating-from-orm-to-ar-nyc-clarke-web-010620)
+  - 
+- [closure_tree](https://github.com/ClosureTree/closure_tree)
+  - Easily and efficiently make your ActiveRecord models support hierarchies
+- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+- [programming-univbasics-4-array-methods-lab-nyc04-seng-ft-012720](https://github.com/learn-co-students/programming-univbasics-4-array-methods-lab-nyc04-seng-ft-012720)
+  - 
+- [chitter-challenge](https://github.com/makersacademy/chitter-challenge)
+  - Build a Twitter Clone!
+- [beis-opss-antivirus](https://github.com/UKGovernmentBEIS/beis-opss-antivirus)
+  - Antivirus API used by Cosmetics and PSD apps
+- [gitlabhq](https://github.com/gitlabhq/gitlabhq)
+  - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
+- [sql-aggregate-functions-lab-chi01-seng-ft-010620](https://github.com/learn-co-students/sql-aggregate-functions-lab-chi01-seng-ft-010620)
+  - 
+- [devise](https://github.com/heartcombo/devise)
+  - Flexible authentication solution for Rails with Warden.
+- [rails-pg-extras](https://github.com/pawurb/rails-pg-extras)
+  - Rails PostgreSQL database performance insights. Locks, index usage, buffer cache hit ratios, vacuum stats and more.
+- [rufo](https://github.com/ruby-formatter/rufo)
+  - The Ruby Formatter
+- [solidus](https://github.com/solidusio/solidus)
+  - 🛒Solidus, Rails eCommerce System
+- [CSS-Fundamentals-Lab-v-000](https://github.com/learn-co-students/CSS-Fundamentals-Lab-v-000)
+  - 
