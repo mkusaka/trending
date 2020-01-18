@@ -1,51 +1,51 @@
 # rust
+- [actix](https://github.com/actix/actix)
+  - Actor framework for Rust
+- [actix-web](https://github.com/fafhrd91/actix-web)
+  - Actix web is a small, pragmatic, and extremely fast rust web framework.
 - [libra](https://github.com/libra/libra)
   - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
-- [warp](https://github.com/seanmonstar/warp)
-  - A super-easy, composable, web server framework for warp speeds.
-- [sqlx](https://github.com/launchbadge/sqlx)
-  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL.
-- [ruffle](https://github.com/ruffle-rs/ruffle)
-  - A Flash Player emulator written in Rust
-- [reqwest](https://github.com/seanmonstar/reqwest)
-  - An easy and powerful Rust HTTP Client
-- [examples](https://github.com/actix/examples)
-  - Actix web examples
-- [dashmap](https://github.com/xacrimon/dashmap)
-  - Blazing fast concurrent HashMap for Rust.
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [swc](https://github.com/swc-project/swc)
-  - Super-fast typescript / javascript compiler written in rust
-- [async-std](https://github.com/async-rs/async-std)
-  - Async version of the Rust standard library
-- [WASI](https://github.com/WebAssembly/WASI)
-  - WebAssembly System Interface
-- [tikv](https://github.com/tikv/tikv)
-  - Distributed transactional key-value database, originally created to complement TiDB
-- [indy-sdk](https://github.com/hyperledger/indy-sdk)
-  - Everything needed to build applications that interact with an Indy distributed identity ledger.
-- [wgpu](https://github.com/gfx-rs/wgpu)
-  - Native WebGPU implementation based on gfx-hal
-- [firecracker](https://github.com/firecracker-microvm/firecracker)
-  - Secure and fast microVMs for serverless computing.
 - [rust](https://github.com/rust-lang/rust)
   - Empowering everyone to build reliable and efficient software.
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
-  - Unofficial Bitwarden compatible server written in Rust
-- [cranelift](https://github.com/bytecodealliance/cranelift)
-  - Cranelift code generator
-- [ripgrep](https://github.com/BurntSushi/ripgrep)
-  - ripgrep recursively searches directories for a regex pattern
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
+- [examples](https://github.com/actix/examples)
+  - Actix web examples
+- [rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison)
+  - A comparison of some web frameworks and libs written in Rust
+- [cxx](https://github.com/dtolnay/cxx)
+  - Safe interop between Rust and C++
+- [cargo](https://github.com/rust-lang/cargo)
+  - The Rust package manager
+- [mdBook](https://github.com/rust-lang/mdBook)
+  - Create book from markdown files. Like Gitbook but implemented in Rust
+- [RustPython](https://github.com/RustPython/RustPython)
+  - A Python Interpreter written in Rust
+- [ruffle](https://github.com/ruffle-rs/ruffle)
+  - A Flash Player emulator written in Rust
+- [zola](https://github.com/getzola/zola)
+  - A fast static site generator in a single binary with everything built-in.
+- [lemmy](https://github.com/dessalines/lemmy)
+  - 🐀 Building a federated alternative to reddit in rust
+- [reqwest](https://github.com/seanmonstar/reqwest)
+  - An easy and powerful Rust HTTP Client
+- [tokio](https://github.com/tokio-rs/tokio)
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [996.ICU](https://github.com/996icu/996.ICU)
+  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [Rocket](https://github.com/SergioBenitez/Rocket)
+  - A web framework for Rust.
 - [jormungandr](https://github.com/input-output-hk/jormungandr)
   - aspiring blockchain node
-- [polkadot](https://github.com/paritytech/polkadot)
-  - Polkadot Node Implementation
-- [wasmer](https://github.com/wasmerio/wasmer)
-  - 🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten
-- [stuck](https://github.com/jonhoo/stuck)
-  - 
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-  - A curated list of Rust code and resources.
+- [actix-net](https://github.com/fafhrd91/actix-net)
+  - framework for composable networking services
+- [ureq](https://github.com/algesten/ureq)
+  - Minimal request library in rust.
+- [book](https://github.com/actix/book)
+  - Actix user guides
+- [warp](https://github.com/seanmonstar/warp)
+  - A super-easy, composable, web server framework for warp speeds.
+- [cargo-geiger](https://github.com/anderejd/cargo-geiger)
+  - Detects usage of unsafe Rust in a Rust crate and its dependencies.
+- [tinyvec](https://github.com/Lokathor/tinyvec)
+  - Just, really the littlest Vec you could need. So smol.
+- [rust-san](https://github.com/japaric/rust-san)
+  - How-to: Sanitize your Rust code!

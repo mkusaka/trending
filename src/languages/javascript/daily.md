@@ -1,51 +1,51 @@
 # javascript
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
   - Based on a true story
-- [hass-config](https://github.com/matt8707/hass-config)
-  - 
-- [devradar](https://github.com/filipedeschamps/devradar)
-  - Projeto resultado da Semana Omnistack #10
-- [slick](https://github.com/kenwheeler/slick)
-  - the last carousel you'll ever need
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [home-assistant-config](https://github.com/basnijholt/home-assistant-config)
-  - My Home Assistant config files and AppDaemon apps 🏠 🤖
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
-  - ✅ The largest Node.js best practices list (December 2019)
-- [next.js](https://github.com/zeit/next.js)
-  - The React Framework
 - [v3](https://github.com/exercism/v3)
   - The work-in-progress project for developing v3 tracks
-- [cypress](https://github.com/cypress-io/cypress)
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [nuxt.js](https://github.com/nuxt/nuxt.js)
-  - The Vue.js Framework
-- [carbon](https://github.com/carbon-design-system/carbon)
-  - A design system built by IBM
-- [samples](https://github.com/webrtc/samples)
-  - WebRTC Web demos and samples
-- [nuclear](https://github.com/nukeop/nuclear)
-  - User freedom-oriented streaming music player
-- [slate](https://github.com/ianstormtaylor/slate)
-  - A completely customizable framework for building rich text editors. (Currently in beta.)
-- [serverless](https://github.com/serverless/serverless)
-  - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
-- [single-spa](https://github.com/CanopyTax/single-spa)
-  - Microfrontends made easy
-- [graphql-engine](https://github.com/hasura/graphql-engine)
-  - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
-- [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate)
-  - 🔥 A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
-- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
-  - Beautiful and accessible drag and drop for lists with React
-- [react-redux](https://github.com/reduxjs/react-redux)
-  - Official React bindings for Redux
-- [complete-intro-to-react-v5](https://github.com/btholt/complete-intro-to-react-v5)
-  - The Complete Intro to React, the fifth version
-- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
-  - Short JavaScript code snippets for all your development needs
-- [quasar](https://github.com/quasarframework/quasar)
-  - Quasar Framework - Build high-performance VueJS user interfaces in record time
+- [gatsby](https://github.com/gatsbyjs/gatsby)
+  - Build blazing fast, modern apps and websites with React
+- [devradar](https://github.com/filipedeschamps/devradar)
+  - Projeto resultado da Semana Omnistack #10
+- [alpine](https://github.com/alpinejs/alpine)
+  - A rugged, minimal framework for composing JavaScript behavior in your markup.
+- [homebridge](https://github.com/nfarina/homebridge)
+  - HomeKit support for the impatient
+- [cytoscape.js](https://github.com/cytoscape/cytoscape.js)
+  - Graph theory (network) library for visualisation and analysis
+- [Web](https://github.com/qianguyihao/Web)
+  - 前端入门和进阶学习笔记，超详细的Web前端学习图文教程。从零开始学前端，做一名精致的前端工程师。持续更新...
+- [Recorder](https://github.com/xiangyuecn/Recorder)
+  - html5 js 录音 mp3 wav ogg webm amr 格式，支持pc和Android、ios部分浏览器、和Hybrid App（提供Android IOS App源码），微信也是支持的，提供H5版语音通话聊天示例
+- [generator-jhipster](https://github.com/jhipster/generator-jhipster)
+  - Open Source application platform for creating Spring Boot + Angular/React projects in seconds!
+- [react-router](https://github.com/ReactTraining/react-router)
+  - Declarative routing for React
+- [G2](https://github.com/antvis/G2)
+  - 📊 The Grammar of Graphics in JavaScript
+- [marktext](https://github.com/marktext/marktext)
+  - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+- [react-native-swiper](https://github.com/leecade/react-native-swiper)
+  - The best Swiper component for React Native.
+- [node](https://github.com/nodejs/node)
+  - Node.js JavaScript runtime ✨🐢🚀✨
+- [waka-box](https://github.com/matchai/waka-box)
+  - 📊 Update a pinned gist to contain your weekly WakaTime stats
+- [CyberChef](https://github.com/gchq/CyberChef)
+  - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+- [simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor)
+  - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
+- [pwa-studio](https://github.com/magento/pwa-studio)
+  - 🛠Development tools to build, optimize and deploy Progressive Web Applications for Magento 2.
+- [text-mask](https://github.com/text-mask/text-mask)
+  - Input mask for React, Angular, Ember, Vue, & plain JavaScript
+- [devconnector_2.0](https://github.com/bradtraversy/devconnector_2.0)
+  - Social network for developers, built on the MERN stack
+- [OmniDB](https://github.com/OmniDB/OmniDB)
+  - Web tool for database management
+- [icons](https://github.com/twbs/icons)
+  - Official open source SVG icon library for Bootstrap.
+- [semana-omnistack-9](https://github.com/Rocketseat/semana-omnistack-9)
+  - Código do projeto produzido durante a Semana OmniStack 9.0
+- [json-server](https://github.com/typicode/json-server)
+  - Get a full fake REST API with zero coding in less than 30 seconds (seriously)

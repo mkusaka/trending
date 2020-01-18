@@ -1,50 +1,51 @@
 # general
-- [nocode](https://github.com/kelseyhightower/nocode) : Dockerfile
-  - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-- [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) : 
-  - JetBrains Mono – the free and open-source typeface for developers
-- [optuna](https://github.com/optuna/optuna) : Python
-  - A hyperparameter optimization framework
+- [verona](https://github.com/microsoft/verona) : C++
+  - Research programming language for concurrent ownership
+- [trax](https://github.com/google/trax) : Jupyter Notebook
+  - Trax — your path to advanced deep learning
 - [devops-exercises](https://github.com/bregman-arie/devops-exercises) : Python
   - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
-- [Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) : C++
-  - Reverse engineering course by Z0F. Focuses on x64 Windows.
-- [ddsp](https://github.com/magenta/ddsp) : Python
-  - DDSP: Differentiable Digital Signal Processing
-- [getflutter](https://github.com/ionicfirebaseapp/getflutter) : Dart
-  - Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.
-- [libra](https://github.com/libra/libra) : Rust
-  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
-- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) : 
-  - Master the command line, in one page
-- [Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) : Jupyter Notebook
-  - this repository accompanies the book "Grokking Deep Learning"
+- [reformer-pytorch](https://github.com/lucidrains/reformer-pytorch) : Python
+  - Reformer, the efficient Transformer, implemented in Pytorch
+- [actix](https://github.com/actix/actix) : Rust
+  - Actor framework for Rust
+- [neko](https://github.com/nurdism/neko) : Go
+  - A self hosted virtual browser (rabb.it clone) that runs in docker.
+- [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) : 
+  - JetBrains Mono – the free and open-source typeface for developers
+- [PySyft](https://github.com/OpenMined/PySyft) : Python
+  - A library for encrypted, privacy preserving machine learning
+- [c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) : Python
+  - Sample code for Channel 9 Python for Beginners course
+- [actix-web](https://github.com/fafhrd91/actix-web) : Rust
+  - Actix web is a small, pragmatic, and extremely fast rust web framework.
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
   - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) : 
+  - Master the command line, in one page
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) : JavaScript
   - Based on a true story
-- [v](https://github.com/vlang/v) : V
-  - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero dependencies. Stable 0.2 release in January 2020. https://vlang.io
-- [openempires](https://github.com/glouw/openempires) : C
-  - The Age of Empires II reverse engineering
-- [FiraCode](https://github.com/tonsky/FiraCode) : Clojure
-  - Monospaced font with programming ligatures
-- [Store](https://github.com/dropbox/Store) : Kotlin
-  - Kotlin Library for Async Data Loading and Caching
-- [moby](https://github.com/moby/moby) : Go
-  - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [aws-sdk-go](https://github.com/aws/aws-sdk-go) : Go
-  - AWS SDK for the Go programming language.
-- [hass-config](https://github.com/matt8707/hass-config) : JavaScript
-- [conference-app-2020](https://github.com/DroidKaigi/conference-app-2020) : Kotlin
-  - The Official Conference App for DroidKaigi 2020 Tokyo
-- [CLUENER2020](https://github.com/CLUEbenchmark/CLUENER2020) : Python
-  - CLUENER2020 中文细粒度命名实体识别 Fine Grained Named Entity Recognition
+- [core](https://github.com/codidact/core) : C#
+  - The core Codidact Q&A software implementation
+- [ddsp](https://github.com/magenta/ddsp) : Python
+  - DDSP: Differentiable Digital Signal Processing
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
   - 🤓 Build your own (insert technology here)
-- [devradar](https://github.com/filipedeschamps/devradar) : JavaScript
-  - Projeto resultado da Semana Omnistack #10
-- [newbee-mall](https://github.com/newbee-ltd/newbee-mall) : Java
-  - newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
-- [redis](https://github.com/go-redis/redis) : Go
-  - Type-safe Redis client for Golang
+- [libra](https://github.com/libra/libra) : Rust
+  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
+- [getflutter](https://github.com/ionicfirebaseapp/getflutter) : Dart
+  - Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.
+- [chainoffools](https://github.com/kudelskisecurity/chainoffools) : Python
+  - A PoC for CVE-2020-0601
+- [v3](https://github.com/exercism/v3) : JavaScript
+  - The work-in-progress project for developing v3 tracks
+- [CVE-2020-0601](https://github.com/ollypwn/CVE-2020-0601) : Ruby
+  - PoC for CVE-2020-0601
+- [migration](https://github.com/phodal/migration) : Java
+  - 《系统重构与迁移指南》手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护
+- [gatsby](https://github.com/gatsbyjs/gatsby) : JavaScript
+  - Build blazing fast, modern apps and websites with React
+- [flutterfire](https://github.com/FirebaseExtended/flutterfire) : Dart
+  - 🔥 Firebase plugins for Flutter apps
+- [BIGTREETECH-SKR-mini-E3](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3) : C++
+  - BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.
