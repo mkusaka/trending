@@ -1,51 +1,51 @@
 # typescript
 - [angular](https://github.com/angular/angular)
   - One framework. Mobile & desktop.
-- [darkreader](https://github.com/darkreader/darkreader)
-  - Dark Reader Chrome and Firefox extension
-- [WebWindow](https://github.com/SteveSandersonMS/WebWindow)
-  - .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental.
-- [scully](https://github.com/scullyio/scully)
-  - The Static Site Generator for Angular apps
-- [aws-cdk](https://github.com/aws/aws-cdk)
-  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
-- [nest](https://github.com/nestjs/nest)
-  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-- [wenyan](https://github.com/wenyan-lang/wenyan)
-  - 文言文編程語言 A programming language for the ancient Chinese.
-- [sapper](https://github.com/sveltejs/sapper)
-  - The next small thing in web development, powered by Svelte
 - [react-admin](https://github.com/marmelab/react-admin)
   - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
-- [typeorm](https://github.com/typeorm/typeorm)
-  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-- [react-native-reanimated-bottom-sheet](https://github.com/osdnk/react-native-reanimated-bottom-sheet)
-  - Highly configurable bottom sheet component made with react-native-reanimated and react-native-gesture-handler
-- [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native)
-  - ⚛️📺Projects from the “Can it be done in React Native?” YouTube series
-- [utterances](https://github.com/utterance/utterances)
-  - 🔮 A lightweight comments widget built on GitHub issues
-- [platform](https://github.com/ngrx/platform)
-  - Reactive libraries for Angular
+- [desktop](https://github.com/desktop/desktop)
+  - Simple collaboration from your desktop
+- [lightweight-charts](https://github.com/tradingview/lightweight-charts)
+  - Financial lightweight charts built with HTML5 canvas
+- [fSpy](https://github.com/stuffmatic/fSpy)
+  - A cross platform app for quick and easy still image camera matching
 - [react-diagrams](https://github.com/projectstorm/react-diagrams)
   - a super simple, no-nonsense diagramming library written in react that just works
-- [countUp.js](https://github.com/inorganik/countUp.js)
-  - Animates a numerical value by counting to it
-- [nebular](https://github.com/akveo/nebular)
-  - 💥 Customizable Angular UI Library based on Eva Design System 🌚✨Dark Mode
-- [apollo-client](https://github.com/apollographql/apollo-client)
-  - 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
-- [xstate](https://github.com/davidkpiano/xstate)
-  - State machines and statecharts for the modern web.
-- [nx](https://github.com/nrwl/nx)
-  - Extensible Dev Tools for Monorepos
-- [material-components-web](https://github.com/material-components/material-components-web)
-  - Modular and customizable Material Design UI components for the web
-- [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
-  - 💬 The most complete chat UI for React Native
-- [Parsr](https://github.com/axa-group/Parsr)
-  - Transforms PDF, Documents and Images into Enriched Structured Data
-- [simplenote-electron](https://github.com/Automattic/simplenote-electron)
-  - A Simplenote React app packaged via Electron for Windows and Linux
-- [chrome](https://github.com/browserless/chrome)
-  - Chrome as a service in docker. Run on our cloud, or bring your own
+- [WebWindow](https://github.com/SteveSandersonMS/WebWindow)
+  - .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental.
+- [theia](https://github.com/eclipse-theia/theia)
+  - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+- [typeorm](https://github.com/typeorm/typeorm)
+  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+- [firebase-js-sdk](https://github.com/firebase/firebase-js-sdk)
+  - Firebase Javascript SDK
+- [Hitchhiker](https://github.com/brookshi/Hitchhiker)
+  - a Restful Api test tool
+- [utterances](https://github.com/utterance/utterances)
+  - 🔮 A lightweight comments widget built on GitHub issues
+- [graphql-playground](https://github.com/prisma-labs/graphql-playground)
+  - 🎮 GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
+- [darkreader](https://github.com/darkreader/darkreader)
+  - Dark Reader Chrome and Firefox extension
+- [swr](https://github.com/zeit/swr)
+  - React Hooks library for remote data fetching
+- [playground](https://github.com/tensorflow/playground)
+  - Play with neural networks!
+- [fullstack](https://github.com/TrillCyborg/fullstack)
+  - React/ApolloGraphQL/Node/Mongo demo written in Typescript
+- [ant-design](https://github.com/ant-design/ant-design)
+  - 🌈 A UI Design Language and React UI library
+- [signature_pad](https://github.com/szimek/signature_pad)
+  - HTML5 canvas based smooth signature drawing
+- [davinci](https://github.com/edp963/davinci)
+  - Davinci is a DVsaaS (Data Visualization as a Service) Platform
+- [aws-cdk](https://github.com/aws/aws-cdk)
+  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+- [vuetify](https://github.com/vuetifyjs/vuetify)
+  - 🐉 Material Component Framework for Vue
+- [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
+  - 💥 React Native UI Library based on Eva Design System 🌚✨Dark Mode
+- [prisma2](https://github.com/prisma/prisma2)
+  - Modern DB toolkit to query, migrate and model your database
+- [angularfire](https://github.com/angular/angularfire)
+  - The official Angular library for Firebase.

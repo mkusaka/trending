@@ -1,51 +1,51 @@
 # javascript
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - 🛁 Clean Code concepts adapted for JavaScript
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
   - Based on a true story
+- [esqlate](https://github.com/forbesmyester/esqlate)
+  - Build minimum viable admin panels quickly with just SQL
+- [fetch](https://github.com/github/fetch)
+  - A window.fetch JavaScript polyfill.
+- [OmniStack-10.0](https://github.com/fl4m3x/OmniStack-10.0)
+  - Repositório da Semana OmniStack - 10.0 da RocketSeat!
+- [cli](https://github.com/npm/cli)
+  - the package manager for JavaScript
+- [Opencode-Collaborative-20](https://github.com/opencodeiiita/Opencode-Collaborative-20)
+  - Opencode20 Collabrative website!
+- [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui)
+  - A desktop application for downloading Udemy Courses
+- [QuantumultX](https://github.com/nzw9314/QuantumultX)
+  - QuantumultX
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [iptv](https://github.com/iptv-org/iptv)
+  - Collection of 8000+ publicly available IPTV channels from all over the world
+- [nuclear](https://github.com/nukeop/nuclear)
+  - User freedom-oriented streaming music player - welcoming to new contributors
+- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
+  - Revive unavailable songs for Netease Cloud Music
+- [markdown-here](https://github.com/adam-p/markdown-here)
+  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [v3](https://github.com/exercism/v3)
   - The work-in-progress project for developing v3 tracks
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
+- [Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese)
+  - 💻 计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成)
+- [WatermelonDB](https://github.com/Nozbe/WatermelonDB)
+  - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
 - [devradar](https://github.com/filipedeschamps/devradar)
   - Projeto resultado da Semana Omnistack #10
-- [alpine](https://github.com/alpinejs/alpine)
-  - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [homebridge](https://github.com/nfarina/homebridge)
-  - HomeKit support for the impatient
-- [cytoscape.js](https://github.com/cytoscape/cytoscape.js)
-  - Graph theory (network) library for visualisation and analysis
-- [Web](https://github.com/qianguyihao/Web)
-  - 前端入门和进阶学习笔记，超详细的Web前端学习图文教程。从零开始学前端，做一名精致的前端工程师。持续更新...
-- [Recorder](https://github.com/xiangyuecn/Recorder)
-  - html5 js 录音 mp3 wav ogg webm amr 格式，支持pc和Android、ios部分浏览器、和Hybrid App（提供Android IOS App源码），微信也是支持的，提供H5版语音通话聊天示例
-- [generator-jhipster](https://github.com/jhipster/generator-jhipster)
-  - Open Source application platform for creating Spring Boot + Angular/React projects in seconds!
-- [react-router](https://github.com/ReactTraining/react-router)
-  - Declarative routing for React
-- [G2](https://github.com/antvis/G2)
-  - 📊 The Grammar of Graphics in JavaScript
-- [marktext](https://github.com/marktext/marktext)
-  - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [react-native-swiper](https://github.com/leecade/react-native-swiper)
-  - The best Swiper component for React Native.
-- [node](https://github.com/nodejs/node)
-  - Node.js JavaScript runtime ✨🐢🚀✨
-- [waka-box](https://github.com/matchai/waka-box)
-  - 📊 Update a pinned gist to contain your weekly WakaTime stats
-- [CyberChef](https://github.com/gchq/CyberChef)
-  - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-- [simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor)
-  - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
-- [pwa-studio](https://github.com/magento/pwa-studio)
-  - 🛠Development tools to build, optimize and deploy Progressive Web Applications for Magento 2.
-- [text-mask](https://github.com/text-mask/text-mask)
-  - Input mask for React, Angular, Ember, Vue, & plain JavaScript
-- [devconnector_2.0](https://github.com/bradtraversy/devconnector_2.0)
-  - Social network for developers, built on the MERN stack
-- [OmniDB](https://github.com/OmniDB/OmniDB)
-  - Web tool for database management
-- [icons](https://github.com/twbs/icons)
-  - Official open source SVG icon library for Bootstrap.
-- [semana-omnistack-9](https://github.com/Rocketseat/semana-omnistack-9)
-  - Código do projeto produzido durante a Semana OmniStack 9.0
+- [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
+  - Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full styling.
+- [academicpages.github.io](https://github.com/academicpages/academicpages.github.io)
+  - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
+- [react-360](https://github.com/facebook/react-360)
+  - Create amazing 360 and VR content using React
+- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+  - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+- [particles.js](https://github.com/VincentGarreau/particles.js)
+  - A lightweight JavaScript library for creating particles
 - [json-server](https://github.com/typicode/json-server)
   - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
+- [selenium-ide](https://github.com/SeleniumHQ/selenium-ide)
+  - Open Source record and playback test automation for the web.

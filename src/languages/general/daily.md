@@ -1,51 +1,51 @@
 # general
-- [verona](https://github.com/microsoft/verona) : C++
-  - Research programming language for concurrent ownership
-- [trax](https://github.com/google/trax) : Jupyter Notebook
-  - Trax — your path to advanced deep learning
-- [devops-exercises](https://github.com/bregman-arie/devops-exercises) : Python
-  - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
-- [reformer-pytorch](https://github.com/lucidrains/reformer-pytorch) : Python
-  - Reformer, the efficient Transformer, implemented in Pytorch
+- [SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect) : 
+  - Become a Better Software Architect
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [onedev](https://github.com/theonedev/onedev) : Java
+  - Super Easy All-In-One DevOps Platform
 - [actix](https://github.com/actix/actix) : Rust
   - Actor framework for Rust
 - [neko](https://github.com/nurdism/neko) : Go
   - A self hosted virtual browser (rabb.it clone) that runs in docker.
-- [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) : 
-  - JetBrains Mono – the free and open-source typeface for developers
-- [PySyft](https://github.com/OpenMined/PySyft) : Python
-  - A library for encrypted, privacy preserving machine learning
-- [c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) : Python
-  - Sample code for Channel 9 Python for Beginners course
-- [actix-web](https://github.com/fafhrd91/actix-web) : Rust
-  - Actix web is a small, pragmatic, and extremely fast rust web framework.
-- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
-  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) : 
-  - Master the command line, in one page
+- [actix-web](https://github.com/actix/actix-web) : 
+  - Actix project postmortem
+- [trax](https://github.com/google/trax) : Jupyter Notebook
+  - Trax — your path to advanced deep learning
+- [open-builder](https://github.com/Hopson97/open-builder) : C++
+  - Open source "Minecraft-like" game with multiplayer support.
+- [devops-exercises](https://github.com/bregman-arie/devops-exercises) : Python
+  - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) : JavaScript
   - Based on a true story
-- [core](https://github.com/codidact/core) : C#
-  - The core Codidact Q&A software implementation
-- [ddsp](https://github.com/magenta/ddsp) : Python
-  - DDSP: Differentiable Digital Signal Processing
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
-  - 🤓 Build your own (insert technology here)
-- [libra](https://github.com/libra/libra) : Rust
-  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
-- [getflutter](https://github.com/ionicfirebaseapp/getflutter) : Dart
-  - Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.
-- [chainoffools](https://github.com/kudelskisecurity/chainoffools) : Python
-  - A PoC for CVE-2020-0601
-- [v3](https://github.com/exercism/v3) : JavaScript
-  - The work-in-progress project for developing v3 tracks
-- [CVE-2020-0601](https://github.com/ollypwn/CVE-2020-0601) : Ruby
-  - PoC for CVE-2020-0601
+- [verona](https://github.com/microsoft/verona) : C++
+  - Research programming language for concurrent ownership
+- [sixty5o2](https://github.com/janroesner/sixty5o2) : Assembly
+  - Micro Kernel / Bootloader for Ben Eater's 6502 Computer
+- [actix-web](https://github.com/fafhrd91/actix-web) : Rust
+  - Actix web is a small, pragmatic, and extremely fast rust web framework.
+- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
+  - Course Files for Complete Python 3 Bootcamp Course on Udemy
+- [reformer-pytorch](https://github.com/lucidrains/reformer-pytorch) : Python
+  - Reformer, the efficient Transformer, implemented in Pytorch
+- [kubelabs](https://github.com/collabnix/kubelabs) : HTML
+  - Kubernetes - Beginners | Intermediate | Advanced
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) : 
+  - Master the command line, in one page
+- [esqlate](https://github.com/forbesmyester/esqlate) : JavaScript
+  - Build minimum viable admin panels quickly with just SQL
 - [migration](https://github.com/phodal/migration) : Java
   - 《系统重构与迁移指南》手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护
-- [gatsby](https://github.com/gatsbyjs/gatsby) : JavaScript
-  - Build blazing fast, modern apps and websites with React
-- [flutterfire](https://github.com/FirebaseExtended/flutterfire) : Dart
-  - 🔥 Firebase plugins for Flutter apps
-- [BIGTREETECH-SKR-mini-E3](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3) : C++
-  - BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.
+- [c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) : Python
+  - Sample code for Channel 9 Python for Beginners course
+- [my_iptv](https://github.com/addlew/my_iptv) : 
+  - 我自己搜集整理的iptv频道
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
+  - 🤓 Build your own (insert technology here)
+- [AlgorithmsByPython](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython) : Python
+  - 算法/数据结构/Python/剑指offer/机器学习/leetcode
+- [xbmc](https://github.com/xbmc/xbmc) : C++
+  - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
+- [expo-common-issues](https://github.com/Rocketseat/expo-common-issues) : 
+  - Common issues while developing with Expo
