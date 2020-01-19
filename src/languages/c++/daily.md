@@ -1,51 +1,51 @@
 # c++
-- [verona](https://github.com/microsoft/verona)
-  - Research programming language for concurrent ownership
-- [BIGTREETECH-SKR-mini-E3](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3)
-  - BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.
-- [Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
-  - Reverse engineering course by Z0F. Focuses on x64 Windows.
-- [calculator](https://github.com/microsoft/calculator)
-  - Windows Calculator: A simple yet powerful calculator that ships with Windows
-- [openpilot](https://github.com/commaai/openpilot)
-  - open source driving agent
-- [Tasmota](https://github.com/arendst/Tasmota)
-  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
-- [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)
-  - A lightweight utility that makes the Windows taskbar translucent/transparent.
-- [tesseract](https://github.com/tesseract-ocr/tesseract)
-  - Tesseract Open Source OCR Engine (main repository)
-- [gnuradio](https://github.com/gnuradio/gnuradio)
-  - GNU Radio
-- [libigl](https://github.com/libigl/libigl)
-  - Simple C++ geometry processing library.
-- [pytorch](https://github.com/pytorch/pytorch)
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [LDSO](https://github.com/tum-vision/LDSO)
-  - DSO with SIM(3) pose graph optimization and loop closure
-- [rapidjson](https://github.com/Tencent/rapidjson)
-  - A fast JSON parser/generator for C++ with both SAX/DOM style API
-- [bgfx](https://github.com/bkaradzic/bgfx)
-  - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [AppleALC](https://github.com/acidanthera/AppleALC)
-  - Native macOS HD audio for not officially supported codecs
-- [swift](https://github.com/apple/swift)
-  - The Swift Programming Language
-- [phantomjs](https://github.com/ariya/phantomjs)
-  - Scriptable Headless Browser
-- [aseprite](https://github.com/aseprite/aseprite)
-  - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
-- [WProtect](https://github.com/DeDf/WProtect)
-  - 
-- [IRremoteESP8266](https://github.com/crankyoldgit/IRremoteESP8266)
-  - Infrared remote library for ESP8266: send and receive infrared signals with multiple protocols. Based on: https://github.com/shirriff/Arduino-IRremote/
-- [pulseeffects](https://github.com/wwmm/pulseeffects)
-  - Limiter, compressor, reverberation, equalizer and auto volume effects for Pulseaudio applications
 - [open-builder](https://github.com/Hopson97/open-builder)
   - Open source "Minecraft-like" game with multiplayer support.
-- [e-maxx-eng](https://github.com/e-maxx-eng/e-maxx-eng)
-  - Translation of http://e-maxx.ru into English
+- [verona](https://github.com/microsoft/verona)
+  - Research programming language for concurrent ownership
+- [xbmc](https://github.com/xbmc/xbmc)
+  - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
+- [IRremoteESP8266](https://github.com/crankyoldgit/IRremoteESP8266)
+  - Infrared remote library for ESP8266: send and receive infrared signals with multiple protocols. Based on: https://github.com/shirriff/Arduino-IRremote/
+- [cppcheck](https://github.com/danmar/cppcheck)
+  - static analysis of C/C++ code
+- [openpilot](https://github.com/commaai/openpilot)
+  - open source driving agent
+- [ninja](https://github.com/ninja-build/ninja)
+  - a small build system with a focus on speed
+- [deconz-rest-plugin](https://github.com/dresden-elektronik/deconz-rest-plugin)
+  - REST API Plugin to control ZigBee lights like Philips Hue and dresden elektroniks wireless electronic ballasts
+- [deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu)
+  - Deepin Wine for Ubuntu/Debian
+- [pytorch](https://github.com/pytorch/pytorch)
+  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [z3](https://github.com/Z3Prover/z3)
+  - The Z3 Theorem Prover
+- [Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+  - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
+- [websocketpp](https://github.com/zaphoyd/websocketpp)
+  - C++ websocket client/server library
+- [anbox](https://github.com/anbox/anbox)
+  - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
+- [re2](https://github.com/google/re2)
+  - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+- [Tasmota](https://github.com/arendst/Tasmota)
+  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
+- [muduo](https://github.com/chenshuo/muduo)
+  - Event-driven network library for multi-threaded Linux server in C++11
+- [allwpilib](https://github.com/wpilibsuite/allwpilib)
+  - Official Repository of WPILibJ and WPILibC
+- [SFML](https://github.com/SFML/SFML)
+  - Simple and Fast Multimedia Library
+- [qBittorrent](https://github.com/qbittorrent/qBittorrent)
+  - qBittorrent BitTorrent client
+- [qmc-decoder](https://github.com/Presburger/qmc-decoder)
+  - Fastest & best convert qmc 2 mp3 | flac tools
+- [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
+  - All Algorithms implemented in C++
+- [AudioKit](https://github.com/AudioKit/AudioKit)
+  - Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
+- [youtube](https://github.com/Errichto/youtube)
+  - codes for my streams and YT videos
+- [PrusaSlicer](https://github.com/prusa3d/PrusaSlicer)
+  - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)

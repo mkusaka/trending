@@ -3,49 +3,49 @@
   - Actor framework for Rust
 - [actix-web](https://github.com/fafhrd91/actix-web)
   - Actix web is a small, pragmatic, and extremely fast rust web framework.
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [examples](https://github.com/actix/examples)
-  - Actix web examples
-- [rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison)
-  - A comparison of some web frameworks and libs written in Rust
-- [cxx](https://github.com/dtolnay/cxx)
-  - Safe interop between Rust and C++
-- [cargo](https://github.com/rust-lang/cargo)
-  - The Rust package manager
-- [mdBook](https://github.com/rust-lang/mdBook)
-  - Create book from markdown files. Like Gitbook but implemented in Rust
-- [RustPython](https://github.com/RustPython/RustPython)
-  - A Python Interpreter written in Rust
-- [ruffle](https://github.com/ruffle-rs/ruffle)
-  - A Flash Player emulator written in Rust
-- [zola](https://github.com/getzola/zola)
-  - A fast static site generator in a single binary with everything built-in.
-- [lemmy](https://github.com/dessalines/lemmy)
-  - 🐀 Building a federated alternative to reddit in rust
-- [reqwest](https://github.com/seanmonstar/reqwest)
-  - An easy and powerful Rust HTTP Client
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [Rocket](https://github.com/SergioBenitez/Rocket)
-  - A web framework for Rust.
-- [jormungandr](https://github.com/input-output-hk/jormungandr)
-  - aspiring blockchain node
-- [actix-net](https://github.com/fafhrd91/actix-net)
-  - framework for composable networking services
-- [ureq](https://github.com/algesten/ureq)
-  - Minimal request library in rust.
-- [book](https://github.com/actix/book)
-  - Actix user guides
 - [warp](https://github.com/seanmonstar/warp)
   - A super-easy, composable, web server framework for warp speeds.
-- [cargo-geiger](https://github.com/anderejd/cargo-geiger)
-  - Detects usage of unsafe Rust in a Rust crate and its dependencies.
-- [tinyvec](https://github.com/Lokathor/tinyvec)
-  - Just, really the littlest Vec you could need. So smol.
-- [rust-san](https://github.com/japaric/rust-san)
-  - How-to: Sanitize your Rust code!
+- [actix-net](https://github.com/fafhrd91/actix-net)
+  - framework for composable networking services
+- [lemmy](https://github.com/dessalines/lemmy)
+  - 🐀 Building a federated alternative to reddit in rust
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [azul](https://github.com/maps4print/azul)
+  - Desktop GUI Framework
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
+- [examples](https://github.com/actix/examples)
+  - Actix web examples
+- [book](https://github.com/rust-lang/book)
+  - The Rust Programming Language
+- [ureq](https://github.com/algesten/ureq)
+  - Minimal request library in rust.
+- [wrangler](https://github.com/cloudflare/wrangler)
+  - 🤠 wrangle your cloudflare workers
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - ripgrep recursively searches directories for a regex pattern
+- [cxx](https://github.com/dtolnay/cxx)
+  - Safe interop between Rust and C++
+- [Rocket](https://github.com/SergioBenitez/Rocket)
+  - A web framework for Rust.
+- [reqwest](https://github.com/seanmonstar/reqwest)
+  - An easy and powerful Rust HTTP Client
+- [spotifyd](https://github.com/Spotifyd/spotifyd)
+  - A spotify daemon
+- [wasmer](https://github.com/wasmerio/wasmer)
+  - 🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten
+- [actix-mqtt](https://github.com/fafhrd91/actix-mqtt)
+  - MQTT v3.1.1 Server framework
+- [panda-api](https://github.com/arlicle/panda-api)
+  - Panda api is a simple and powerful api docs manage tools. Panda api是一个简单快速的接口文档管理工具
+- [fasteval](https://github.com/likebike/fasteval)
+  - Fast and safe evaluation of algebraic expressions
+- [miri](https://github.com/rust-lang/miri)
+  - An interpreter for Rust's mid-level intermediate representation
+- [unseemly](https://github.com/paulstansifer/unseemly)
+  - Macros have types!
+- [actix-protobuf](https://github.com/actix/actix-protobuf)
+  - Protobuf integration for actix web
+- [actix-derive](https://github.com/actix/actix-derive)
+  - Derive macro for actix framework

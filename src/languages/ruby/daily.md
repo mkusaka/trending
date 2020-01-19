@@ -1,51 +1,51 @@
 # ruby
-- [CVE-2020-0601](https://github.com/ollypwn/CVE-2020-0601)
-  - PoC for CVE-2020-0601
-- [discourse](https://github.com/discourse/discourse)
-  - A platform for community discussion. Free, open, simple.
-- [rubocop](https://github.com/rubocop-hq/rubocop)
-  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
 - [fast_template](https://github.com/fastai/fast_template)
   - A template for really easy blogging with GitHub Pages
-- [zammad](https://github.com/zammad/zammad)
-  - Zammad is a web based open source helpdesk/customer support system
-- [rake](https://github.com/ruby/rake)
-  - A make-like build utility for Ruby.
-- [canvas-lms](https://github.com/instructure/canvas-lms)
-  - The open LMS by Instructure, Inc.
-- [vagrant](https://github.com/hashicorp/vagrant)
-  - Vagrant is a tool for building and distributing development environments.
-- [brew](https://github.com/Homebrew/brew)
-  - 🍺 The missing package manager for macOS (or Linux)
-- [hw-ruby-intro](https://github.com/saasbook/hw-ruby-intro)
-  - Ruby Introduction Assignment for Agile Development using Ruby on Rails
-- [workarea](https://github.com/workarea-commerce/workarea)
-  - Workarea is an enterprise-grade Ruby on Rails commerce platform
-- [barber](https://github.com/michaeleisel/barber)
-  - Fast build times for big Swift projects
-- [active-record-translating-from-orm-to-ar-nyc-clarke-web-010620](https://github.com/learn-co-students/active-record-translating-from-orm-to-ar-nyc-clarke-web-010620)
-  - 
-- [closure_tree](https://github.com/ClosureTree/closure_tree)
-  - Easily and efficiently make your ActiveRecord models support hierarchies
+- [linguist](https://github.com/github/linguist)
+  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
   - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-- [programming-univbasics-4-array-methods-lab-nyc04-seng-ft-012720](https://github.com/learn-co-students/programming-univbasics-4-array-methods-lab-nyc04-seng-ft-012720)
-  - 
+- [linuxbrew-core](https://github.com/Homebrew/linuxbrew-core)
+  - 🍻🐧 Core formulae for the Homebrew package manager on Linux
+- [homebrew-core](https://github.com/Homebrew/homebrew-core)
+  - 🍻 Default formulae for the missing package manager for macOS
+- [XSpear](https://github.com/hahwul/XSpear)
+  - Powerfull XSS Scanning and Parameter analysis tool&gem
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
+  - Metasploit Framework
+- [styles](https://github.com/citation-style-language/styles)
+  - Official repository for Citation Style Language (CSL) citation styles.
 - [chitter-challenge](https://github.com/makersacademy/chitter-challenge)
   - Build a Twitter Clone!
-- [beis-opss-antivirus](https://github.com/UKGovernmentBEIS/beis-opss-antivirus)
-  - Antivirus API used by Cosmetics and PSD apps
-- [gitlabhq](https://github.com/gitlabhq/gitlabhq)
-  - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
-- [sql-aggregate-functions-lab-chi01-seng-ft-010620](https://github.com/learn-co-students/sql-aggregate-functions-lab-chi01-seng-ft-010620)
+- [programming-univbasics-4-nested-hashes-lab-austin-web-012720](https://github.com/learn-co-students/programming-univbasics-4-nested-hashes-lab-austin-web-012720)
   - 
-- [devise](https://github.com/heartcombo/devise)
-  - Flexible authentication solution for Rails with Warden.
-- [rails-pg-extras](https://github.com/pawurb/rails-pg-extras)
-  - Rails PostgreSQL database performance insights. Locks, index usage, buffer cache hit ratios, vacuum stats and more.
-- [rufo](https://github.com/ruby-formatter/rufo)
-  - The Ruby Formatter
-- [solidus](https://github.com/solidusio/solidus)
-  - 🛒Solidus, Rails eCommerce System
-- [CSS-Fundamentals-Lab-v-000](https://github.com/learn-co-students/CSS-Fundamentals-Lab-v-000)
+- [ruby-objects-has-many-lab-onl01-seng-pt-120819](https://github.com/learn-co-students/ruby-objects-has-many-lab-onl01-seng-pt-120819)
+  - 
+- [discourse](https://github.com/discourse/discourse)
+  - A platform for community discussion. Free, open, simple.
+- [sonic-pi](https://github.com/samaaron/sonic-pi)
+  - The Live Coding Music Synth for Everyone
+- [mastodon](https://github.com/tootsuite/mastodon)
+  - Your self-hosted, globally interconnected microblogging community
+- [carrierwave-riak](https://github.com/motske/carrierwave-riak)
+  - Riak support for CarrierWave
+- [programming-univbasics-4-intro-to-hashes-lab-austin-web-012720](https://github.com/learn-co-students/programming-univbasics-4-intro-to-hashes-lab-austin-web-012720)
+  - 
+- [square_array-online-web-sp-000](https://github.com/learn-co-students/square_array-online-web-sp-000)
+  - 
+- [programming-univbasics-4-nested-hashes-lab-sfo-web-012720](https://github.com/learn-co-students/programming-univbasics-4-nested-hashes-lab-sfo-web-012720)
+  - 
+- [devise-i18n](https://github.com/tigrish/devise-i18n)
+  - Translations for the devise gem
+- [simple-nesting-online-web-sp-000](https://github.com/learn-co-students/simple-nesting-online-web-sp-000)
+  - 
+- [js-rails-as-api-extracting-a-service-class-v-000](https://github.com/learn-co-students/js-rails-as-api-extracting-a-service-class-v-000)
+  - 
+- [sinatra-basic-routes-lab-online-web-pt-100719](https://github.com/learn-co-students/sinatra-basic-routes-lab-online-web-pt-100719)
+  - 
+- [sinatra-hello-world-basics-online-web-pt-100719](https://github.com/learn-co-students/sinatra-hello-world-basics-online-web-pt-100719)
+  - 
+- [fe-zetsy-online-web-sp-000](https://github.com/learn-co-students/fe-zetsy-online-web-sp-000)
+  - 
+- [box-style-lab-online-web-sp-000](https://github.com/learn-co-students/box-style-lab-online-web-sp-000)
   - 
