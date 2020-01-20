@@ -1,51 +1,51 @@
 # c++
-- [taichi](https://github.com/taichi-dev/taichi)
-  - The Taichi programming language
-- [AirSim](https://github.com/microsoft/AirSim)
-  - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
+- [nebula](https://github.com/vesoft-inc/nebula)
+  - A distributed, fast open-source graph database featuring horizontal scalability and high availability
+- [mediapipe](https://github.com/google/mediapipe)
+  - MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
+- [wav2letter](https://github.com/facebookresearch/wav2letter)
+  - Facebook AI Research's Automatic Speech Recognition Toolkit
 - [terminal](https://github.com/microsoft/terminal)
   - The new Windows Terminal, and the original Windows console host - all in the same place!
-- [json](https://github.com/nlohmann/json)
-  - JSON for Modern C++
-- [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway)
-  - MQTT gateway for ESP8266, ESP32, Sonoff RF Bridge or Arduino with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, beacons detection, mi flora / mi jia / LYWSD02/ Mi Scale compatibility, SMS & LORA.
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [allwpilib](https://github.com/wpilibsuite/allwpilib)
-  - Official Repository of WPILibJ and WPILibC
-- [re2](https://github.com/google/re2)
-  - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
-- [skia](https://github.com/google/skia)
-  - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
-- [cpp-httplib](https://github.com/yhirose/cpp-httplib)
-  - A C++ header-only HTTP/HTTPS server and client library
-- [srs](https://github.com/ossrs/srs)
-  - SRS is a simple live streaming cluster, a simple joy.
-- [BIGTREETECH-SKR-V1.3](https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3)
-  - 32bit board with LPC1768, support marlin2.0 and smoothieware, support lcd2004/12864, On-board TMC2130 SPI interface and TMC2208 UART interface no additional wiring is required
-- [electron](https://github.com/electron/electron)
-  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [or-tools](https://github.com/google/or-tools)
-  - Google's Operations Research tools:
+- [googletest](https://github.com/google/googletest)
+  - Googletest - Google Testing and Mocking Framework
 - [spdlog](https://github.com/gabime/spdlog)
   - Fast C++ logging library.
-- [milvus](https://github.com/milvus-io/milvus)
-  - Milvus -- the world's fastest vector search engine.
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [loam_livox](https://github.com/hku-mars/loam_livox)
-  - A robust LiDAR Odometry and Mapping (LOAM) package for Livox-LiDAR
-- [vnpy](https://github.com/vnpy/vnpy)
-  - 基于Python的开源量化交易平台开发框架
-- [ThreadPool](https://github.com/progschj/ThreadPool)
-  - A simple C++11 Thread Pool implementation
-- [apollo](https://github.com/ApolloAuto/apollo)
-  - An open autonomous driving platform
-- [tesseract](https://github.com/tesseract-ocr/tesseract)
-  - Tesseract Open Source OCR Engine (main repository)
 - [openpilot](https://github.com/commaai/openpilot)
   - open source driving agent
-- [RaidFinder](https://github.com/Admiral-Fish/RaidFinder)
-  - Crossplatform RNG tool for Pokemon Sword/Shield raids
-- [vcmi](https://github.com/vcmi/vcmi)
-  - Open-source engine for Heroes of Might and Magic III
+- [json](https://github.com/nlohmann/json)
+  - JSON for Modern C++
+- [fmt](https://github.com/fmtlib/fmt)
+  - A modern formatting library
+- [BIGTREETECH-SKR-mini-E3](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3)
+  - BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.
+- [cpp-taskflow](https://github.com/cpp-taskflow/cpp-taskflow)
+  - A Modern C++ Parallel Task Programming Library
+- [swoole-src](https://github.com/swoole/swoole-src)
+  - 🚀 Coroutine-based concurrency library for PHP
+- [bpftrace](https://github.com/iovisor/bpftrace)
+  - High-level tracing language for Linux eBPF
+- [Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
+  - Reverse engineering course by Z0F. Focuses on x64 Windows.
+- [librealsense](https://github.com/IntelRealSense/librealsense)
+  - Intel® RealSense™ SDK
+- [sysdig](https://github.com/draios/sysdig)
+  - Linux system exploration and troubleshooting tool with first class support for containers
+- [openage](https://github.com/SFTtech/openage)
+  - Free (as in freedom) open source clone of the Age of Empires II engine 🚀
+- [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2)
+  - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
+- [protobuf](https://github.com/protocolbuffers/protobuf)
+  - Protocol Buffers - Google's data interchange format
+- [MNN](https://github.com/alibaba/MNN)
+  - MNN is a lightweight deep neural network inference engine.
+- [QGIS](https://github.com/qgis/QGIS)
+  - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
+- [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native)
+  - Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
+- [trojan](https://github.com/trojan-gfw/trojan)
+  - An unidentifiable mechanism that helps you bypass GFW.
+- [re2](https://github.com/google/re2)
+  - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+- [calculator](https://github.com/microsoft/calculator)
+  - Windows Calculator: A simple yet powerful calculator that ships with Windows

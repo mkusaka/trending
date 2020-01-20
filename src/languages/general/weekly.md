@@ -1,51 +1,48 @@
 # general
-- [JobFunnel](https://github.com/PaulMcInnis/JobFunnel) : Python
-  - Tool for scraping job websites, and filtering and reviewing the job listings
-- [kratos](https://github.com/bilibili/kratos) : Go
-  - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
-- [excalidraw](https://github.com/excalidraw/excalidraw) : TypeScript
-  - Sketch hand-drawn like diagrams
-- [hakrawler](https://github.com/hakluke/hakrawler) : Go
-  - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
-- [openlayers](https://github.com/openlayers/openlayers) : JavaScript
-  - OpenLayers
-- [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) : JavaScript
-  - A 30 days of JavaScript programming challenge
-- [EfficientDet.Pytorch](https://github.com/toandaominh1997/EfficientDet.Pytorch) : Python
-  - Implementation EfficientDet: Scalable and Efficient Object Detection in PyTorch
-- [blazor-workshop](https://github.com/dotnet-presentations/blazor-workshop) : C#
-  - Blazor workshop
-- [amplify-js](https://github.com/aws-amplify/amplify-js) : TypeScript
-  - A declarative JavaScript library for application development using cloud services.
-- [tailwindcss](https://github.com/tailwindcss/tailwindcss) : CSS
-  - A utility-first CSS framework for rapid UI development.
-- [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) : TeX
-  - Cheat Sheets
-- [starship](https://github.com/starship/starship) : Rust
-  - ☄🌌️ The cross-shell prompt for astronauts
-- [AndroidKnowledgeSystem](https://github.com/feelschaotic/AndroidKnowledgeSystem) : JavaScript
-  - The most complete Android advanced route knowledge map ⭐️你想要的最全 Android 进阶路线知识图谱+干货资料收集🚀
-- [Telegram](https://github.com/DrKLO/Telegram) : Java
-  - Telegram for Android source
-- [kubectl-tree](https://github.com/ahmetb/kubectl-tree) : Go
-  - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (using? star the repo!)
-- [taro](https://github.com/NervJS/taro) : JavaScript
-  - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动/ QQ 小程序/快应用/H5/React Native 等的应用。 https://taro.jd.com/
-- [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) : C#
-  - Xamarin.Forms Official Home
+- [autogluon](https://github.com/awslabs/autogluon) : Python
+  - AutoGluon: AutoML Toolkit for Deep Learning
+- [tokenizers](https://github.com/huggingface/tokenizers) : Rust
+  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [cable-haunt-vulnerability-test](https://github.com/Lyrebirds/cable-haunt-vulnerability-test) : Python
+- [newbee-mall](https://github.com/newbee-ltd/newbee-mall) : Java
+  - newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
+- [actix](https://github.com/actix/actix) : Rust
+  - Actor framework for Rust
+- [actix-web](https://github.com/fafhrd91/actix-web) : Rust
+  - Actix web is a small, pragmatic, and extremely fast rust web framework.
 - [zuihou-admin-cloud](https://github.com/zuihou/zuihou-admin-cloud) : Java
   - 基于SpringCloud(Hoxton.SR1) + SpringBoot(2.2.2.RELEASE) 的SaaS 微服务脚手架，具有统一授权、认证后台管理系统，其中包含具备用户管理、资源权限管理、网关API、分布式事务、大文件断点分片续传等多个模块，支持多业务系统并行开发，可以作为后端服务的开发脚手架。代码简洁，架构清晰，适合学习和直接项目中使用。核心技术采用Nacos、Fegin、Ribbon、Zuul、Hystrix、JWT Token、Mybatis、SpringBoot、Redis、RibbitMQ等主要框架和中间件。
-- [takenote](https://github.com/taniarascia/takenote) : TypeScript
-  - 📝 A web-based note-taking app with GitHub sync and Markdown support. (WIP)
-- [sampler](https://github.com/sqshq/sampler) : Go
-  - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
-- [TencentOS-tiny](https://github.com/Tencent/TencentOS-tiny) : C
-  - 腾讯物联网终端操作系统
-- [angular-cli](https://github.com/angular/angular-cli) : TypeScript
-  - CLI tool for Angular
-- [ALBERT](https://github.com/google-research/ALBERT) : Python
-  - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
-- [yolact](https://github.com/dbolya/yolact) : Python
-  - A simple, fully convolutional model for real-time instance segmentation.
-- [micro](https://github.com/zyedidia/micro) : Go
-  - A modern and intuitive terminal-based text editor
+- [cortex](https://github.com/cortexlabs/cortex) : Go
+  - Deploy machine learning models in production
+- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) : JavaScript
+  - Beautiful and accessible drag and drop for lists with React
+- [kibana](https://github.com/elastic/kibana) : TypeScript
+  - Your window into the Elastic Stack
+- [showdoc](https://github.com/star7th/showdoc) : JavaScript
+  - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
+- [manifold](https://github.com/uber/manifold) : JavaScript
+  - A model-agnostic visual debugging tool for machine learning
+- [angular](https://github.com/angular/angular) : TypeScript
+  - One framework. Mobile & desktop.
+- [hooks](https://github.com/umijs/hooks) : TypeScript
+  - React Hooks Library
+- [mlflow](https://github.com/mlflow/mlflow) : Python
+  - Open source platform for the machine learning lifecycle
+- [leetcode](https://github.com/azl397985856/leetcode) : JavaScript
+  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+- [storybook](https://github.com/storybookjs/storybook) : TypeScript
+  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) : JavaScript
+  - ✅ The largest Node.js best practices list (December 2019)
+- [flyte](https://github.com/lyft/flyte) : Shell
+  - develop, execute, and monitor distributed workflows reliably at scale.
+- [Store](https://github.com/dropbox/Store) : Kotlin
+  - Kotlin Library for Async Data Loading and Caching
+- [Logan](https://github.com/Meituan-Dianping/Logan) : C
+  - Logan is a lightweight case logging system based on mobile platform.
+- [nebula](https://github.com/vesoft-inc/nebula) : C++
+  - A distributed, fast open-source graph database featuring horizontal scalability and high availability
+- [wpt](https://github.com/web-platform-tests/wpt) : HTML
+  - Test suites for Web platform specs — including WHATWG, W3C, and others
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
+  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
