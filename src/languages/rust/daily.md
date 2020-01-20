@@ -1,51 +1,51 @@
 # rust
-- [actix](https://github.com/actix/actix)
-  - Actor framework for Rust
 - [actix-web](https://github.com/fafhrd91/actix-web)
   - Actix web is a small, pragmatic, and extremely fast rust web framework.
 - [warp](https://github.com/seanmonstar/warp)
   - A super-easy, composable, web server framework for warp speeds.
-- [actix-net](https://github.com/fafhrd91/actix-net)
-  - framework for composable networking services
-- [lemmy](https://github.com/dessalines/lemmy)
-  - 🐀 Building a federated alternative to reddit in rust
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [azul](https://github.com/maps4print/azul)
-  - Desktop GUI Framework
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [examples](https://github.com/actix/examples)
-  - Actix web examples
-- [book](https://github.com/rust-lang/book)
-  - The Rust Programming Language
-- [ureq](https://github.com/algesten/ureq)
-  - Minimal request library in rust.
-- [wrangler](https://github.com/cloudflare/wrangler)
-  - 🤠 wrangle your cloudflare workers
-- [ripgrep](https://github.com/BurntSushi/ripgrep)
-  - ripgrep recursively searches directories for a regex pattern
-- [cxx](https://github.com/dtolnay/cxx)
-  - Safe interop between Rust and C++
-- [Rocket](https://github.com/SergioBenitez/Rocket)
-  - A web framework for Rust.
-- [reqwest](https://github.com/seanmonstar/reqwest)
-  - An easy and powerful Rust HTTP Client
-- [spotifyd](https://github.com/Spotifyd/spotifyd)
-  - A spotify daemon
-- [wasmer](https://github.com/wasmerio/wasmer)
-  - 🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten
+- [actix](https://github.com/actix/actix)
+  - Actor framework for Rust
 - [actix-mqtt](https://github.com/fafhrd91/actix-mqtt)
   - MQTT v3.1.1 Server framework
-- [panda-api](https://github.com/arlicle/panda-api)
-  - Panda api is a simple and powerful api docs manage tools. Panda api是一个简单快速的接口文档管理工具
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [actix-net](https://github.com/fafhrd91/actix-net)
+  - framework for composable networking services
+- [examples](https://github.com/actix/examples)
+  - Actix web examples
+- [specs](https://github.com/amethyst/specs)
+  - Specs - Parallel ECS
+- [tokio](https://github.com/tokio-rs/tokio)
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
+- [rust-raspi3-OS-tutorials](https://github.com/rust-embedded/rust-raspi3-OS-tutorials)
+  - 📚 Learn to write an embedded OS in Rust on the Raspberry Pi 🦀
+- [rustlings](https://github.com/rust-lang/rustlings)
+  - Small exercises to get you used to reading and writing Rust code!
+- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
+  - Rust bindings to wgpu native library
+- [optimath](https://github.com/djugei/optimath)
+  - 
+- [cxx](https://github.com/dtolnay/cxx)
+  - Safe interop between Rust and C++
+- [clap](https://github.com/clap-rs/clap)
+  - A full featured, fast Command Line Argument Parser for Rust
+- [Rocket](https://github.com/SergioBenitez/Rocket)
+  - A web framework for Rust.
+- [enquirer](https://github.com/termapps/enquirer)
+  - Command Line Utility for Stylish Interactive Prompts
+- [bastion](https://github.com/bastion-rs/bastion)
+  - Highly-available Distributed Fault-tolerant Runtime
 - [fasteval](https://github.com/likebike/fasteval)
   - Fast and safe evaluation of algebraic expressions
-- [miri](https://github.com/rust-lang/miri)
-  - An interpreter for Rust's mid-level intermediate representation
-- [unseemly](https://github.com/paulstansifer/unseemly)
-  - Macros have types!
-- [actix-protobuf](https://github.com/actix/actix-protobuf)
-  - Protobuf integration for actix web
-- [actix-derive](https://github.com/actix/actix-derive)
-  - Derive macro for actix framework
+- [Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack)
+  - Easily testable and working Rust codes with blog posts to explain them.
+- [canduma](https://github.com/clifinger/canduma)
+  - A Rust Boilerplate server with GraphQL API, Diesel, PostgreSQL, session authentication and JWT
+- [Thruster](https://github.com/trezm/Thruster)
+  - A fast, middleware based, web framework written in Rust
+- [nyarnos](https://github.com/utam0k/nyarnos)
+  - Toy OS written in Rust, modeled on xv6
+- [nushell](https://github.com/nushell/nushell)
+  - A modern shell written in Rust

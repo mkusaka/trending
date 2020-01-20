@@ -1,51 +1,51 @@
 # general
 - [SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect) : 
   - Become a Better Software Architect
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [onedev](https://github.com/theonedev/onedev) : Java
-  - Super Easy All-In-One DevOps Platform
-- [actix](https://github.com/actix/actix) : Rust
-  - Actor framework for Rust
-- [neko](https://github.com/nurdism/neko) : Go
-  - A self hosted virtual browser (rabb.it clone) that runs in docker.
-- [actix-web](https://github.com/actix/actix-web) : 
-  - Actix project postmortem
-- [trax](https://github.com/google/trax) : Jupyter Notebook
-  - Trax — your path to advanced deep learning
-- [open-builder](https://github.com/Hopson97/open-builder) : C++
-  - Open source "Minecraft-like" game with multiplayer support.
-- [devops-exercises](https://github.com/bregman-arie/devops-exercises) : Python
-  - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
-- [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) : JavaScript
-  - Based on a true story
-- [verona](https://github.com/microsoft/verona) : C++
-  - Research programming language for concurrent ownership
-- [sixty5o2](https://github.com/janroesner/sixty5o2) : Assembly
-  - Micro Kernel / Bootloader for Ben Eater's 6502 Computer
-- [actix-web](https://github.com/fafhrd91/actix-web) : Rust
-  - Actix web is a small, pragmatic, and extremely fast rust web framework.
-- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
-  - Course Files for Complete Python 3 Bootcamp Course on Udemy
-- [reformer-pytorch](https://github.com/lucidrains/reformer-pytorch) : Python
-  - Reformer, the efficient Transformer, implemented in Pytorch
-- [kubelabs](https://github.com/collabnix/kubelabs) : HTML
-  - Kubernetes - Beginners | Intermediate | Advanced
-- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) : 
-  - Master the command line, in one page
-- [esqlate](https://github.com/forbesmyester/esqlate) : JavaScript
-  - Build minimum viable admin panels quickly with just SQL
+- [sdlpal](https://github.com/sdlpal/sdlpal) : Objective-C
+  - SDL-based reimplementation of the classic Chinese-language RPG "Xiān jiàn Qí Xiá Zhuàn" (also known as PAL).
 - [migration](https://github.com/phodal/migration) : Java
   - 《系统重构与迁移指南》手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护
-- [c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) : Python
-  - Sample code for Channel 9 Python for Beginners course
-- [my_iptv](https://github.com/addlew/my_iptv) : 
-  - 我自己搜集整理的iptv频道
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
-  - 🤓 Build your own (insert technology here)
-- [AlgorithmsByPython](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython) : Python
-  - 算法/数据结构/Python/剑指offer/机器学习/leetcode
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [lanzou-gui](https://github.com/rachpt/lanzou-gui) : Python
+  - 蓝奏云 | 蓝奏云客户端 | 蓝奏网盘 GUI版本
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
+  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [onedev](https://github.com/theonedev/onedev) : Java
+  - Super Easy All-In-One DevOps Platform
+- [ZLMediaKit](https://github.com/xiongziliang/ZLMediaKit) : C++
+  - A lightweight RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV server and client framework based on C++11
+- [devops-exercises](https://github.com/bregman-arie/devops-exercises) : Python
+  - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
+- [kubelabs](https://github.com/collabnix/kubelabs) : HTML
+  - Kubernetes - Beginners | Intermediate | Advanced
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
+  - Roadmap to becoming a web developer in 2020
+- [ApplicationInspector](https://github.com/microsoft/ApplicationInspector) : C#
+  - A software characterization source code analyzer that helps you understand what a program does by identifying interesting features and characteristics using static analysis and a customizable json based rules engine.
+- [doom-emacs](https://github.com/hlissner/doom-emacs) : Emacs Lisp
+  - An Emacs configuration for the stubborn martian vimmer
+- [trax](https://github.com/google/trax) : Jupyter Notebook
+  - Trax — your path to advanced deep learning
+- [realworld](https://github.com/gothinkster/realworld) : JavaScript
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [actix-web](https://github.com/fafhrd91/actix-web) : Rust
+  - Actix web is a small, pragmatic, and extremely fast rust web framework.
+- [sixty5o2](https://github.com/janroesner/sixty5o2) : Assembly
+  - Micro Kernel / Bootloader for Ben Eater's 6502 Computer
 - [xbmc](https://github.com/xbmc/xbmc) : C++
   - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
-- [expo-common-issues](https://github.com/Rocketseat/expo-common-issues) : 
-  - Common issues while developing with Expo
+- [tensortrade](https://github.com/tensortrade-org/tensortrade) : Python
+  - An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.
+- [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) : JavaScript
+  - Based on a true story
+- [Marlin](https://github.com/MarlinFirmware/Marlin) : C++
+  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
+- [apollo](https://github.com/ApolloAuto/apollo) : C++
+  - An open autonomous driving platform
+- [God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData) : 
+  - 大数据面试题，大数据成神之路开启...Flink/Spark/Hadoop/Hbase/Hive...
+- [nndl.github.io](https://github.com/nndl/nndl.github.io) : HTML
+  - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
+  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++

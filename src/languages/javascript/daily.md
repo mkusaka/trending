@@ -1,51 +1,51 @@
 # javascript
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
   - 🛁 Clean Code concepts adapted for JavaScript
+- [realworld](https://github.com/gothinkster/realworld)
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
   - Based on a true story
-- [esqlate](https://github.com/forbesmyester/esqlate)
-  - Build minimum viable admin panels quickly with just SQL
-- [fetch](https://github.com/github/fetch)
-  - A window.fetch JavaScript polyfill.
-- [OmniStack-10.0](https://github.com/fl4m3x/OmniStack-10.0)
-  - Repositório da Semana OmniStack - 10.0 da RocketSeat!
-- [cli](https://github.com/npm/cli)
-  - the package manager for JavaScript
 - [Opencode-Collaborative-20](https://github.com/opencodeiiita/Opencode-Collaborative-20)
   - Opencode20 Collabrative website!
-- [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui)
-  - A desktop application for downloading Udemy Courses
-- [QuantumultX](https://github.com/nzw9314/QuantumultX)
-  - QuantumultX
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
-- [iptv](https://github.com/iptv-org/iptv)
-  - Collection of 8000+ publicly available IPTV channels from all over the world
-- [nuclear](https://github.com/nukeop/nuclear)
-  - User freedom-oriented streaming music player - welcoming to new contributors
-- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
-  - Revive unavailable songs for Netease Cloud Music
-- [markdown-here](https://github.com/adam-p/markdown-here)
-  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
-- [v3](https://github.com/exercism/v3)
-  - The work-in-progress project for developing v3 tracks
-- [Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese)
-  - 💻 计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成)
-- [WatermelonDB](https://github.com/Nozbe/WatermelonDB)
-  - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
+- [three.js](https://github.com/mrdoob/three.js)
+  - JavaScript 3D library.
+- [microservices-demo](https://github.com/lucaschen/microservices-demo)
+  - I've made a full tutorial series on building this! ==>
+- [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+  - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+- [cypress](https://github.com/cypress-io/cypress)
+  - Fast, easy and reliable testing for anything that runs in a browser.
+- [manifest](https://github.com/jonathontoon/manifest)
+  - An instant grid-based pinboard for note taking in your browser.
 - [devradar](https://github.com/filipedeschamps/devradar)
   - Projeto resultado da Semana Omnistack #10
-- [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
-  - Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full styling.
-- [academicpages.github.io](https://github.com/academicpages/academicpages.github.io)
-  - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
-- [react-360](https://github.com/facebook/react-360)
-  - Create amazing 360 and VR content using React
-- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
-  - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-- [particles.js](https://github.com/VincentGarreau/particles.js)
-  - A lightweight JavaScript library for creating particles
-- [json-server](https://github.com/typicode/json-server)
-  - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-- [selenium-ide](https://github.com/SeleniumHQ/selenium-ide)
-  - Open Source record and playback test automation for the web.
+- [OmniStack-10.0](https://github.com/fl4m3x/OmniStack-10.0)
+  - Repositório da Semana OmniStack - 10.0 da RocketSeat!
+- [react-reduction](https://github.com/reduction-admin/react-reduction)
+  - React Reduction - Free Admin Template Built with React and Bootstrap4
+- [remote-jobs](https://github.com/remoteintech/remote-jobs)
+  - A list of semi to fully remote-friendly companies in tech.
+- [simple-peer](https://github.com/feross/simple-peer)
+  - 📡 Simple WebRTC video, voice, and data channels
+- [iptv](https://github.com/iptv-org/iptv)
+  - Collection of 8000+ publicly available IPTV channels from all over the world
+- [brackets](https://github.com/adobe/brackets)
+  - An open source code editor for the web, written in JavaScript, HTML and CSS.
+- [Motrix](https://github.com/agalwood/Motrix)
+  - A full-featured download manager.
+- [Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator)
+  - Web application generating interactive and highly customizable maps
+- [SpringBootDemo](https://github.com/tengj/SpringBootDemo)
+  - Spring Boot学习系列
+- [ivideo](https://github.com/phobal/ivideo)
+  - 一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux） A client that can watch video of domestic(China) mainstream video platform
+- [nuclear](https://github.com/nukeop/nuclear)
+  - User freedom-oriented streaming music player - welcoming to new contributors
+- [eui](https://github.com/elastic/eui)
+  - Elastic UI Framework 🙌
+- [elementor](https://github.com/elementor/elementor)
+  - The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
+- [graphql-engine](https://github.com/hasura/graphql-engine)
+  - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
