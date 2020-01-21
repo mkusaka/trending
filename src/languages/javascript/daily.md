@@ -1,51 +1,51 @@
 # javascript
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-  - 🛁 Clean Code concepts adapted for JavaScript
 - [realworld](https://github.com/gothinkster/realworld)
   - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
-  - Based on a true story
-- [Opencode-Collaborative-20](https://github.com/opencodeiiita/Opencode-Collaborative-20)
-  - Opencode20 Collabrative website!
-- [three.js](https://github.com/mrdoob/three.js)
-  - JavaScript 3D library.
-- [microservices-demo](https://github.com/lucaschen/microservices-demo)
-  - I've made a full tutorial series on building this! ==>
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [cube.js](https://github.com/cube-js/cube.js)
+  - 📊 Cube.js - Open Source Analytics Framework
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [react-router](https://github.com/ReactTraining/react-router)
+  - Declarative routing for React
 - [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
   - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-- [cypress](https://github.com/cypress-io/cypress)
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [manifest](https://github.com/jonathontoon/manifest)
-  - An instant grid-based pinboard for note taking in your browser.
-- [devradar](https://github.com/filipedeschamps/devradar)
-  - Projeto resultado da Semana Omnistack #10
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+  - Headless Chrome Node.js API
+- [create-react-app](https://github.com/facebook/create-react-app)
+  - Set up a modern web app by running one command.
+- [reveal.js](https://github.com/hakimel/reveal.js)
+  - The HTML Presentation Framework
+- [vue-router](https://github.com/vuejs/vue-router)
+  - 🚦 The official router for Vue.js.
 - [OmniStack-10.0](https://github.com/fl4m3x/OmniStack-10.0)
   - Repositório da Semana OmniStack - 10.0 da RocketSeat!
-- [react-reduction](https://github.com/reduction-admin/react-reduction)
-  - React Reduction - Free Admin Template Built with React and Bootstrap4
-- [remote-jobs](https://github.com/remoteintech/remote-jobs)
-  - A list of semi to fully remote-friendly companies in tech.
-- [simple-peer](https://github.com/feross/simple-peer)
-  - 📡 Simple WebRTC video, voice, and data channels
-- [iptv](https://github.com/iptv-org/iptv)
-  - Collection of 8000+ publicly available IPTV channels from all over the world
-- [brackets](https://github.com/adobe/brackets)
-  - An open source code editor for the web, written in JavaScript, HTML and CSS.
-- [Motrix](https://github.com/agalwood/Motrix)
-  - A full-featured download manager.
-- [Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator)
-  - Web application generating interactive and highly customizable maps
-- [SpringBootDemo](https://github.com/tengj/SpringBootDemo)
-  - Spring Boot学习系列
-- [ivideo](https://github.com/phobal/ivideo)
-  - 一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux） A client that can watch video of domestic(China) mainstream video platform
-- [nuclear](https://github.com/nukeop/nuclear)
-  - User freedom-oriented streaming music player - welcoming to new contributors
-- [eui](https://github.com/elastic/eui)
-  - Elastic UI Framework 🙌
-- [elementor](https://github.com/elementor/elementor)
-  - The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
-- [graphql-engine](https://github.com/hasura/graphql-engine)
-  - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [unlock-music](https://github.com/ix64/unlock-music)
+  - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
+- [renovate](https://github.com/renovatebot/renovate)
+  - Universal dependency update tool that fits into your workflows.
+- [json-server](https://github.com/typicode/json-server)
+  - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
+- [typeahead.js](https://github.com/twitter/typeahead.js)
+  - typeahead.js is a fast and fully-featured autocomplete library
+- [drawio-desktop](https://github.com/jgraph/drawio-desktop)
+  - Official electron build of draw.io
+- [webdriverio](https://github.com/webdriverio/webdriverio)
+  - Next-gen WebDriver test automation framework for Node.js
+- [hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
+  - Based on a true story
+- [node-express-realworld-example-app](https://github.com/gothinkster/node-express-realworld-example-app)
+  - 
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup)
+  - Light and responsive lightbox script with focus on performance.
+- [dropzone](https://github.com/enyo/dropzone)
+  - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
+- [jquery-validation](https://github.com/jquery-validation/jquery-validation)
+  - jQuery Validation Plugin library sources
+- [swagger-ui](https://github.com/swagger-api/swagger-ui)
+  - Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.

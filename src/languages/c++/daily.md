@@ -1,51 +1,51 @@
 # c++
 - [ZLMediaKit](https://github.com/xiongziliang/ZLMediaKit)
   - A lightweight RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV server and client framework based on C++11
-- [xbmc](https://github.com/xbmc/xbmc)
-  - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
-- [Marlin](https://github.com/MarlinFirmware/Marlin)
-  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
+- [ospray](https://github.com/ospray/ospray)
+  - An Open, Scalable, Portable, Ray Tracing Based Rendering Engine for High-Fidelity Visualization
+- [AI4Animation](https://github.com/sebastianstarke/AI4Animation)
+  - Bringing Characters to Life with Computer Brains in Unity
+- [Tasmota](https://github.com/arendst/Tasmota)
+  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
+- [googletest](https://github.com/google/googletest)
+  - Googletest - Google Testing and Mocking Framework
+- [imgui](https://github.com/ocornut/imgui)
+  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
 - [apollo](https://github.com/ApolloAuto/apollo)
   - An open autonomous driving platform
-- [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
-  - All Algorithms implemented in C++
-- [open-builder](https://github.com/Hopson97/open-builder)
-  - Open source "Minecraft-like" game with multiplayer support.
-- [yuzu](https://github.com/yuzu-emu/yuzu)
-  - Nintendo Switch Emulator
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [afl-libprotobuf-mutator](https://github.com/thebabush/afl-libprotobuf-mutator)
-  - AFLplusplus + libprotobuf-mutator = love
-- [verona](https://github.com/microsoft/verona)
-  - Research programming language for concurrent ownership
-- [desktop](https://github.com/nextcloud/desktop)
-  - 💻 Desktop sync client for Nextcloud
-- [mindforger](https://github.com/dvorka/mindforger)
-  - Thinking notebook and Markdown editor.
-- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
-  - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [arduinoWebSockets](https://github.com/Links2004/arduinoWebSockets)
-  - arduinoWebSockets
-- [mlpack](https://github.com/mlpack/mlpack)
-  - mlpack: a scalable C++ machine learning library --
-- [openpilot](https://github.com/commaai/openpilot)
-  - open source driving agent
-- [LightGBM](https://github.com/microsoft/LightGBM)
-  - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
-- [ncmdump](https://github.com/anonymous5l/ncmdump)
-  - netease cloud music copyright protection file dump
-- [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
-  - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly
-- [naiveproxy](https://github.com/klzgrad/naiveproxy)
-  - Make a fortune quietly
-- [bitcoin](https://github.com/bitcoin/bitcoin)
-  - Bitcoin Core integration/staging tree
-- [Firmware](https://github.com/PX4/Firmware)
-  - PX4 Autopilot Software
-- [Learning-OpenCV-3_examples](https://github.com/oreillymedia/Learning-OpenCV-3_examples)
-  - 
+- [xbmc](https://github.com/xbmc/xbmc)
+  - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
 - [cpprestsdk](https://github.com/microsoft/cpprestsdk)
   - The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
+- [calculator](https://github.com/microsoft/calculator)
+  - Windows Calculator: A simple yet powerful calculator that ships with Windows
+- [vsomeip](https://github.com/GENIVI/vsomeip)
+  - An implementation of Scalable service-Oriented MiddlewarE over IP
+- [flatbuffers](https://github.com/google/flatbuffers)
+  - FlatBuffers: Memory Efficient Serialization Library
+- [opencv](https://github.com/opencv/opencv)
+  - Open Source Computer Vision Library
+- [grpc](https://github.com/grpc/grpc)
+  - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [entt](https://github.com/skypjack/entt)
+  - Gaming meets modern C++ - a fast and reliable entity-component system (ECS) and much more
+- [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
+  - All Algorithms implemented in C++
+- [qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
+  - Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)
+- [Open3D](https://github.com/intel-isl/Open3D)
+  - Open3D: A Modern Library for 3D Data Processing
+- [or-tools](https://github.com/google/or-tools)
+  - Google's Operations Research tools:
+- [DeepSpeech](https://github.com/mozilla/DeepSpeech)
+  - A TensorFlow implementation of Baidu's DeepSpeech architecture
+- [TinyGSM](https://github.com/vshymanskyy/TinyGSM)
+  - A small Arduino library for GSM modules, that just works
+- [Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows)
+  - An installation and update framework for Windows desktop apps
+- [keepassxc](https://github.com/keepassxreboot/keepassxc)
+  - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+- [electron](https://github.com/electron/electron)
+  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)
+  - Notepad++ official repository

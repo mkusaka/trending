@@ -1,51 +1,51 @@
 # general
-- [SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect) : 
-  - Become a Better Software Architect
-- [sdlpal](https://github.com/sdlpal/sdlpal) : Objective-C
-  - SDL-based reimplementation of the classic Chinese-language RPG "Xiān jiàn Qí Xiá Zhuàn" (also known as PAL).
-- [migration](https://github.com/phodal/migration) : Java
-  - 《系统重构与迁移指南》手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [lanzou-gui](https://github.com/rachpt/lanzou-gui) : Python
-  - 蓝奏云 | 蓝奏云客户端 | 蓝奏网盘 GUI版本
-- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
-  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-- [onedev](https://github.com/theonedev/onedev) : Java
-  - Super Easy All-In-One DevOps Platform
-- [ZLMediaKit](https://github.com/xiongziliang/ZLMediaKit) : C++
-  - A lightweight RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV server and client framework based on C++11
-- [devops-exercises](https://github.com/bregman-arie/devops-exercises) : Python
-  - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
-- [kubelabs](https://github.com/collabnix/kubelabs) : HTML
-  - Kubernetes - Beginners | Intermediate | Advanced
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
-  - Roadmap to becoming a web developer in 2020
+- [templates](https://github.com/kbariotis/templates) : 
+  - A set of standard document templates.
 - [ApplicationInspector](https://github.com/microsoft/ApplicationInspector) : C#
   - A software characterization source code analyzer that helps you understand what a program does by identifying interesting features and characteristics using static analysis and a customizable json based rules engine.
-- [doom-emacs](https://github.com/hlissner/doom-emacs) : Emacs Lisp
-  - An Emacs configuration for the stubborn martian vimmer
-- [trax](https://github.com/google/trax) : Jupyter Notebook
-  - Trax — your path to advanced deep learning
 - [realworld](https://github.com/gothinkster/realworld) : JavaScript
   - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [actix-web](https://github.com/fafhrd91/actix-web) : Rust
-  - Actix web is a small, pragmatic, and extremely fast rust web framework.
-- [sixty5o2](https://github.com/janroesner/sixty5o2) : Assembly
-  - Micro Kernel / Bootloader for Ben Eater's 6502 Computer
-- [xbmc](https://github.com/xbmc/xbmc) : C++
-  - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
+- [ZLMediaKit](https://github.com/xiongziliang/ZLMediaKit) : C++
+  - A lightweight RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV server and client framework based on C++11
+- [SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect) : 
+  - Become a Better Software Architect
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [kubelabs](https://github.com/collabnix/kubelabs) : HTML
+  - Kubernetes - Beginners | Intermediate | Advanced
+- [Red_Team](https://github.com/BankSecurity/Red_Team) : PowerShell
+  - Some scripts useful for red team activities
+- [ospray](https://github.com/ospray/ospray) : C++
+  - An Open, Scalable, Portable, Ray Tracing Based Rendering Engine for High-Fidelity Visualization
+- [onedev](https://github.com/theonedev/onedev) : Java
+  - Super Easy All-In-One DevOps Platform
+- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) : 
+  - 程序员如何优雅的挣零花钱
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) : 
+  - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+- [deno](https://github.com/denoland/deno) : TypeScript
+  - A secure JavaScript and TypeScript runtime
+- [cube.js](https://github.com/cube-js/cube.js) : JavaScript
+  - 📊 Cube.js - Open Source Analytics Framework
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) : Rust
+  - Unofficial Bitwarden compatible server written in Rust
+- [sdlpal](https://github.com/sdlpal/sdlpal) : Objective-C
+  - SDL-based reimplementation of the classic Chinese-language RPG "Xiān jiàn Qí Xiá Zhuàn" (also known as PAL).
+- [AI4Animation](https://github.com/sebastianstarke/AI4Animation) : C++
+  - Bringing Characters to Life with Computer Brains in Unity
+- [gin](https://github.com/gin-gonic/gin) : Go
+  - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+- [go-ipfs](https://github.com/ipfs/go-ipfs) : Go
+  - IPFS implementation in Go
 - [tensortrade](https://github.com/tensortrade-org/tensortrade) : Python
   - An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.
-- [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) : JavaScript
-  - Based on a true story
-- [Marlin](https://github.com/MarlinFirmware/Marlin) : C++
-  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
-- [apollo](https://github.com/ApolloAuto/apollo) : C++
-  - An open autonomous driving platform
-- [God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData) : 
-  - 大数据面试题，大数据成神之路开启...Flink/Spark/Hadoop/Hbase/Hive...
-- [nndl.github.io](https://github.com/nndl/nndl.github.io) : HTML
-  - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
-  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
+- [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) : HTML
+  - A curated list of awesome warez and piracy links
+- [guzzle](https://github.com/guzzle/guzzle) : PHP
+  - Guzzle, an extensible PHP HTTP client
+- [backtobackswe](https://github.com/bephrem1/backtobackswe) : Java
+  - Code Examples For Back To Back SWE Lessons
+- [proposals](https://github.com/tc39/proposals) : 
+  - Tracking ECMAScript Proposals
+- [Micronetes](https://github.com/davidfowl/Micronetes) : C#
+  - Micronetes is a local orchestrator inspired by kubernetes that makes developing and testing microservices and distributed applications easier.

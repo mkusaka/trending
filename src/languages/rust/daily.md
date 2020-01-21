@@ -1,51 +1,51 @@
 # rust
-- [actix-web](https://github.com/fafhrd91/actix-web)
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [actix-web](https://github.com/actix/actix-web)
   - Actix web is a small, pragmatic, and extremely fast rust web framework.
-- [warp](https://github.com/seanmonstar/warp)
-  - A super-easy, composable, web server framework for warp speeds.
-- [actix](https://github.com/actix/actix)
-  - Actor framework for Rust
-- [actix-mqtt](https://github.com/fafhrd91/actix-mqtt)
-  - MQTT v3.1.1 Server framework
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - ripgrep recursively searches directories for a regex pattern
+- [cargo-atcoder](https://github.com/tanakh/cargo-atcoder)
+  - Cargo subcommand for AtCoder
+- [xsv](https://github.com/BurntSushi/xsv)
+  - A fast CSV command line toolkit written in Rust.
 - [rust](https://github.com/rust-lang/rust)
   - Empowering everyone to build reliable and efficient software.
-- [actix-net](https://github.com/fafhrd91/actix-net)
-  - framework for composable networking services
-- [examples](https://github.com/actix/examples)
-  - Actix web examples
-- [specs](https://github.com/amethyst/specs)
-  - Specs - Parallel ECS
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
-- [rust-raspi3-OS-tutorials](https://github.com/rust-embedded/rust-raspi3-OS-tutorials)
-  - 📚 Learn to write an embedded OS in Rust on the Raspberry Pi 🦀
-- [rustlings](https://github.com/rust-lang/rustlings)
-  - Small exercises to get you used to reading and writing Rust code!
-- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
-  - Rust bindings to wgpu native library
-- [optimath](https://github.com/djugei/optimath)
-  - 
-- [cxx](https://github.com/dtolnay/cxx)
-  - Safe interop between Rust and C++
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
-- [Rocket](https://github.com/SergioBenitez/Rocket)
-  - A web framework for Rust.
+- [warp](https://github.com/seanmonstar/warp)
+  - A super-easy, composable, web server framework for warp speeds.
+- [winit](https://github.com/rust-windowing/winit)
+  - Window handling library in pure Rust
+- [diesel](https://github.com/diesel-rs/diesel)
+  - A safe, extensible ORM and Query Builder for Rust
+- [regex](https://github.com/rust-lang/regex)
+  - An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
 - [enquirer](https://github.com/termapps/enquirer)
   - Command Line Utility for Stylish Interactive Prompts
-- [bastion](https://github.com/bastion-rs/bastion)
-  - Highly-available Distributed Fault-tolerant Runtime
-- [fasteval](https://github.com/likebike/fasteval)
-  - Fast and safe evaluation of algebraic expressions
+- [servo](https://github.com/servo/servo)
+  - The Servo Browser Engine
 - [Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack)
   - Easily testable and working Rust codes with blog posts to explain them.
-- [canduma](https://github.com/clifinger/canduma)
-  - A Rust Boilerplate server with GraphQL API, Diesel, PostgreSQL, session authentication and JWT
-- [Thruster](https://github.com/trezm/Thruster)
-  - A fast, middleware based, web framework written in Rust
-- [nyarnos](https://github.com/utam0k/nyarnos)
-  - Toy OS written in Rust, modeled on xv6
-- [nushell](https://github.com/nushell/nushell)
-  - A modern shell written in Rust
+- [rusty_v8](https://github.com/denoland/rusty_v8)
+  - V8 javascript bindings for Rust
+- [tokio](https://github.com/tokio-rs/tokio)
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [examples](https://github.com/actix/examples)
+  - Actix web examples
+- [gotham](https://github.com/gotham-rs/gotham)
+  - A flexible web framework that promotes stability, safety, security and speed.
+- [rust-libp2p](https://github.com/libp2p/rust-libp2p)
+  - The Rust Implementation of libp2p networking stack.
+- [tide](https://github.com/http-rs/tide)
+  - Serve the web – HTTP server framework
+- [firecracker](https://github.com/firecracker-microvm/firecracker)
+  - Secure and fast microVMs for serverless computing.
+- [clap](https://github.com/clap-rs/clap)
+  - A full featured, fast Command Line Argument Parser for Rust
+- [actix](https://github.com/actix/actix)
+  - Actor framework for Rust
+- [cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor)
+  - A rust-vmm based cloud hypervisor
+- [jormungandr](https://github.com/input-output-hk/jormungandr)
+  - aspiring blockchain node
+- [lsd](https://github.com/Peltoche/lsd)
+  - The next gen ls command
