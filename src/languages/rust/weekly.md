@@ -1,51 +1,51 @@
 # rust
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The cross-shell prompt for astronauts
-- [nushell](https://github.com/nushell/nushell)
-  - A modern shell written in Rust
-- [spotify-tui](https://github.com/Rigellute/spotify-tui)
-  - Spotify for the terminal written in Rust 🚀
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [findomain](https://github.com/Edu4rdSHL/findomain)
-  - The fastest and cross-platform subdomain enumerator, don't waste your time.
+- [tokenizers](https://github.com/huggingface/tokenizers)
+  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [actix](https://github.com/actix/actix)
+  - Actor framework for Rust
+- [actix-web](https://github.com/fafhrd91/actix-web)
+  - Actix web is a small, pragmatic, and extremely fast rust web framework.
+- [warp](https://github.com/seanmonstar/warp)
+  - A super-easy, composable, web server framework for warp speeds.
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
 - [tonic](https://github.com/hyperium/tonic)
   - A native gRPC client & server implementation with async/await support.
-- [rust-raspi3-OS-tutorials](https://github.com/rust-embedded/rust-raspi3-OS-tutorials)
-  - 📚 Learn to write an embedded OS in Rust on the Raspberry Pi 🦀
-- [grin](https://github.com/mimblewimble/grin)
-  - Minimal implementation of the Mimblewimble protocol.
+- [BLAKE3](https://github.com/BLAKE3-team/BLAKE3)
+  - The BLAKE3 cryptographic hash function
 - [Rocket](https://github.com/SergioBenitez/Rocket)
   - A web framework for Rust.
-- [polkadot](https://github.com/paritytech/polkadot)
-  - Polkadot Node Implementation
-- [redshirt](https://github.com/tomaka/redshirt)
-  - Operating system
-- [jormungandr](https://github.com/input-output-hk/jormungandr)
-  - aspiring blockchain node
-- [rio](https://github.com/spacejam/rio)
-  - pure rust io_uring library, built on libc, thread & async friendly, misuse resistant
-- [amethyst](https://github.com/amethyst/amethyst)
-  - Data-oriented and data-driven game engine written in Rust
-- [papyrus](https://github.com/kurtlawrence/papyrus)
-  - (Rust) repl
-- [occlum](https://github.com/occlum/occlum)
-  - Occlum is a memory-safe, multi-process library OS for Intel SGX
-- [lsd](https://github.com/Peltoche/lsd)
-  - The next gen ls command
-- [substrate](https://github.com/paritytech/substrate)
-  - Substrate: The platform for blockchain innovators
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
+- [examples](https://github.com/actix/examples)
+  - Actix web examples
+- [lemmy](https://github.com/dessalines/lemmy)
+  - 🐀 Building a federated alternative to reddit in rust
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
 - [tokio](https://github.com/tokio-rs/tokio)
   - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [spotifyd](https://github.com/Spotifyd/spotifyd)
-  - A spotify daemon
-- [proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop)
-  - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
-- [rayon](https://github.com/rayon-rs/rayon)
-  - Rayon: A data parallelism library for Rust
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - ripgrep recursively searches directories for a regex pattern
+- [rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison)
+  - A comparison of some web frameworks and libs written in Rust
+- [quiche](https://github.com/cloudflare/quiche)
+  - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+- [cranelift](https://github.com/bytecodealliance/cranelift)
+  - Cranelift code generator
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [jormungandr](https://github.com/input-output-hk/jormungandr)
+  - aspiring blockchain node
+- [sqlx](https://github.com/launchbadge/sqlx)
+  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL.
+- [firecracker](https://github.com/firecracker-microvm/firecracker)
+  - Secure and fast microVMs for serverless computing.
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
+- [winit](https://github.com/rust-windowing/winit)
+  - Window handling library in pure Rust
+- [rdbc](https://github.com/tokio-rs/rdbc)
+  - Rust DataBase Connectivity (RDBC) :: Common Rust API for database drivers
+- [rudr](https://github.com/oam-dev/rudr)
+  - A Kubernetes implementation of the Open Application Model specification
+- [rustrogueliketutorial](https://github.com/thebracket/rustrogueliketutorial)
+  - Roguelike Tutorial in Rust - using RLTK
