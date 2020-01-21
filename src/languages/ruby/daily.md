@@ -1,51 +1,51 @@
 # ruby
-- [fast_template](https://github.com/fastai/fast_template)
-  - A template for really easy blogging with GitHub Pages
-- [intrigue-core](https://github.com/intrigueio/intrigue-core)
-  - Discover Your Attack Surface
-- [huginn](https://github.com/huginn/huginn)
-  - Create agents that monitor and act on your behalf. Your agents are standing by!
-- [jekyll](https://github.com/jekyll/jekyll)
-  - 🌐 Jekyll is a blog-aware static site generator in Ruby
-- [homebrew-core](https://github.com/Homebrew/homebrew-core)
-  - 🍻 Default formulae for the missing package manager for macOS
-- [octokit.rb](https://github.com/octokit/octokit.rb)
-  - Ruby toolkit for the GitHub API
-- [asciidoctor](https://github.com/asciidoctor/asciidoctor)
-  - 💎 A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
-- [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
-  - A curated list of engineering blogs
-- [vagrant](https://github.com/hashicorp/vagrant)
-  - Vagrant is a tool for building and distributing development environments.
-- [logstash](https://github.com/elastic/logstash)
-  - Logstash - transport and process your logs, events, or other data
-- [railsinstaller_demo](https://github.com/annasba/railsinstaller_demo)
-  - Rails Installer Demo
-- [programming-univbasics-nds-nds-to-insight-with-methods-nyc04-seng-ft-012720](https://github.com/learn-co-students/programming-univbasics-nds-nds-to-insight-with-methods-nyc04-seng-ft-012720)
-  - 
-- [html-iframes-lab-online-web-pt-100719](https://github.com/learn-co-students/html-iframes-lab-online-web-pt-100719)
-  - 
-- [wpscan](https://github.com/wpscanteam/wpscan)
-  - WPScan is a free, for non-commercial use, black box WordPress Vulnerability Scanner written for security professionals and blog maintainers to test the security of their WordPress websites.
-- [programming-univbasics-4-square-array-nyc-web-012720](https://github.com/learn-co-students/programming-univbasics-4-square-array-nyc-web-012720)
-  - 
-- [my-little-rainbow-lab-online-web-pt-100719](https://github.com/learn-co-students/my-little-rainbow-lab-online-web-pt-100719)
-  - 
-- [Wiki](https://github.com/ByungJun25/Wiki)
-  - BJ Studio Wiki Page
-- [active-record-costume-store-lab-nyc-web-010620](https://github.com/learn-co-students/active-record-costume-store-lab-nyc-web-010620)
-  - 
+- [dev.to](https://github.com/thepracticaldev/dev.to)
+  - Where programmers share ideas and help each other grow
 - [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening)
   - This Ansible role provides numerous security-related configurations, providing all-round base protection.
-- [diaspora](https://github.com/diaspora/diaspora)
-  - A privacy-aware, distributed, open source social network.
-- [cli-applications-guessing-game-seattle-web-012720](https://github.com/learn-co-students/cli-applications-guessing-game-seattle-web-012720)
-  - 
-- [activerecord-associations-intro-online-web-pt-100719](https://github.com/learn-co-students/activerecord-associations-intro-online-web-pt-100719)
-  - 
-- [programming-univbasics-4-building-nested-hashes-code-along-nyc-web-021720](https://github.com/learn-co-students/programming-univbasics-4-building-nested-hashes-code-along-nyc-web-021720)
-  - 
-- [activerecord-tvland-online-web-pt-100719](https://github.com/learn-co-students/activerecord-tvland-online-web-pt-100719)
-  - 
-- [intro-to-capybara-onl01-seng-pt-100619](https://github.com/learn-co-students/intro-to-capybara-onl01-seng-pt-100619)
-  - 
+- [webpacker](https://github.com/rails/webpacker)
+  - Use Webpack to manage app-like JavaScript modules in Rails
+- [mastodon](https://github.com/tootsuite/mastodon)
+  - Your self-hosted, globally interconnected microblogging community
+- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
+  - Ruby implementation of GraphQL
+- [activeadmin](https://github.com/activeadmin/activeadmin)
+  - The administration framework for Ruby on Rails applications.
+- [ruby](https://github.com/ruby/ruby)
+  - The Ruby Programming Language [mirror]
+- [fastlane](https://github.com/fastlane/fastlane)
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [openproject](https://github.com/opf/openproject)
+  - OpenProject is the leading open source project management software.
+- [fluentd](https://github.com/fluent/fluentd)
+  - Fluentd: Unified Logging Layer (project under CNCF)
+- [rubocop](https://github.com/rubocop-hq/rubocop)
+  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+- [factory_bot](https://github.com/thoughtbot/factory_bot)
+  - A library for setting up Ruby objects as test data.
+- [administrate](https://github.com/thoughtbot/administrate)
+  - A Rails engine that helps you put together a super-flexible admin dashboard.
+- [gitlabhq](https://github.com/gitlabhq/gitlabhq)
+  - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
+- [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)
+  - Simple one-liner tests for common Rails functionality
+- [rack](https://github.com/rack/rack)
+  - a modular Ruby webserver interface
+- [discourse](https://github.com/discourse/discourse)
+  - A platform for community discussion. Free, open, simple.
+- [decidim](https://github.com/decidim/decidim)
+  - The participatory democracy framework. A generator and multiple gems made with Ruby on Rails
+- [paranoia](https://github.com/rubysherpas/paranoia)
+  - acts_as_paranoid for Rails 3, 4 and 5
+- [searchkick](https://github.com/ankane/searchkick)
+  - Intelligent search made easy with Rails and Elasticsearch
+- [rails](https://github.com/rails/rails)
+  - Ruby on Rails
+- [doorkeeper](https://github.com/doorkeeper-gem/doorkeeper)
+  - Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.
+- [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails)
+  - Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
+- [danger](https://github.com/danger/danger)
+  - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
+- [logstash](https://github.com/elastic/logstash)
+  - Logstash - transport and process your logs, events, or other data
