@@ -1,51 +1,51 @@
 # typescript
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
-- [react-admin](https://github.com/marmelab/react-admin)
-  - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
-- [desktop](https://github.com/desktop/desktop)
-  - Simple collaboration from your desktop
-- [lightweight-charts](https://github.com/tradingview/lightweight-charts)
-  - Financial lightweight charts built with HTML5 canvas
-- [fSpy](https://github.com/stuffmatic/fSpy)
-  - A cross platform app for quick and easy still image camera matching
-- [react-diagrams](https://github.com/projectstorm/react-diagrams)
-  - a super simple, no-nonsense diagramming library written in react that just works
-- [WebWindow](https://github.com/SteveSandersonMS/WebWindow)
-  - .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental.
+- [code-server](https://github.com/cdr/code-server)
+  - Run VS Code on a remote server.
+- [G6](https://github.com/antvis/G6)
+  - ♾ A Graph Visualization Framework in JavaScript
+- [xstate](https://github.com/davidkpiano/xstate)
+  - State machines and statecharts for the modern web.
 - [theia](https://github.com/eclipse-theia/theia)
   - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [typeorm](https://github.com/typeorm/typeorm)
-  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-- [firebase-js-sdk](https://github.com/firebase/firebase-js-sdk)
-  - Firebase Javascript SDK
-- [Hitchhiker](https://github.com/brookshi/Hitchhiker)
-  - a Restful Api test tool
-- [utterances](https://github.com/utterance/utterances)
-  - 🔮 A lightweight comments widget built on GitHub issues
-- [graphql-playground](https://github.com/prisma-labs/graphql-playground)
-  - 🎮 GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
+- [wetty](https://github.com/butlerx/wetty)
+  - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
+- [coc.nvim](https://github.com/neoclide/coc.nvim)
+  - Intellisense engine for vim8 & neovim, full language server protocol support as VSCode
+- [recharts](https://github.com/recharts/recharts)
+  - Redefined chart library built with React and D3
+- [typescript-book](https://github.com/basarat/typescript-book)
+  - 📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖. Free and Open Source 🌹
+- [TypeScript](https://github.com/microsoft/TypeScript)
+  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [grafana](https://github.com/grafana/grafana)
+  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+  - The repository for high quality TypeScript type definitions.
+- [NativeScript](https://github.com/NativeScript/NativeScript)
+  - NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
+- [moveable](https://github.com/daybrush/moveable)
+  - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
+- [hooks](https://github.com/umijs/hooks)
+  - React Hooks Library
+- [ant-design-pro](https://github.com/ant-design/ant-design-pro)
+  - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
+- [LayaAir](https://github.com/layabox/LayaAir)
+  - LayaAir is an open-source 2D/3D engine. LayaAir Engine is designed for high performance games.LayaAir support TypeScript and JavaScript、ActionScript 3.0 programming language.Can develop once, publish for multi platform.
+- [Mailspring](https://github.com/Foundry376/Mailspring)
+  - 💌 A beautiful, fast and maintained fork of @nylas Mail by one of the original authors.
+- [platform](https://github.com/ngrx/platform)
+  - Reactive libraries for Angular
+- [InversifyJS](https://github.com/inversify/InversifyJS)
+  - A powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
 - [darkreader](https://github.com/darkreader/darkreader)
   - Dark Reader Chrome and Firefox extension
-- [swr](https://github.com/zeit/swr)
-  - React Hooks library for remote data fetching
-- [playground](https://github.com/tensorflow/playground)
-  - Play with neural networks!
-- [fullstack](https://github.com/TrillCyborg/fullstack)
-  - React/ApolloGraphQL/Node/Mongo demo written in Typescript
-- [ant-design](https://github.com/ant-design/ant-design)
-  - 🌈 A UI Design Language and React UI library
-- [signature_pad](https://github.com/szimek/signature_pad)
-  - HTML5 canvas based smooth signature drawing
-- [davinci](https://github.com/edp963/davinci)
-  - Davinci is a DVsaaS (Data Visualization as a Service) Platform
-- [aws-cdk](https://github.com/aws/aws-cdk)
-  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
-- [vuetify](https://github.com/vuetifyjs/vuetify)
-  - 🐉 Material Component Framework for Vue
-- [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
-  - 💥 React Native UI Library based on Eva Design System 🌚✨Dark Mode
-- [prisma2](https://github.com/prisma/prisma2)
-  - Modern DB toolkit to query, migrate and model your database
-- [angularfire](https://github.com/angular/angularfire)
-  - The official Angular library for Firebase.
+- [react-native-reanimated-bottom-sheet](https://github.com/osdnk/react-native-reanimated-bottom-sheet)
+  - Highly configurable bottom sheet component made with react-native-reanimated and react-native-gesture-handler
+- [desktop](https://github.com/desktop/desktop)
+  - Simple collaboration from your desktop
+- [botpress](https://github.com/botpress/botpress)
+  - 🤖 The Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants.
+- [angular](https://github.com/angular/angular)
+  - One framework. Mobile & desktop.
+- [ngx-datatable](https://github.com/swimlane/ngx-datatable)
+  - ✨ A feature-rich yet lightweight data-table crafted for Angular

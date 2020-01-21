@@ -1,51 +1,51 @@
 # c++
-- [open-builder](https://github.com/Hopson97/open-builder)
-  - Open source "Minecraft-like" game with multiplayer support.
-- [verona](https://github.com/microsoft/verona)
-  - Research programming language for concurrent ownership
+- [ZLMediaKit](https://github.com/xiongziliang/ZLMediaKit)
+  - A lightweight RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV server and client framework based on C++11
 - [xbmc](https://github.com/xbmc/xbmc)
   - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
-- [IRremoteESP8266](https://github.com/crankyoldgit/IRremoteESP8266)
-  - Infrared remote library for ESP8266: send and receive infrared signals with multiple protocols. Based on: https://github.com/shirriff/Arduino-IRremote/
-- [cppcheck](https://github.com/danmar/cppcheck)
-  - static analysis of C/C++ code
-- [openpilot](https://github.com/commaai/openpilot)
-  - open source driving agent
-- [ninja](https://github.com/ninja-build/ninja)
-  - a small build system with a focus on speed
-- [deconz-rest-plugin](https://github.com/dresden-elektronik/deconz-rest-plugin)
-  - REST API Plugin to control ZigBee lights like Philips Hue and dresden elektroniks wireless electronic ballasts
-- [deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu)
-  - Deepin Wine for Ubuntu/Debian
-- [pytorch](https://github.com/pytorch/pytorch)
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [z3](https://github.com/Z3Prover/z3)
-  - The Z3 Theorem Prover
-- [Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-  - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
-- [websocketpp](https://github.com/zaphoyd/websocketpp)
-  - C++ websocket client/server library
-- [anbox](https://github.com/anbox/anbox)
-  - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
-- [re2](https://github.com/google/re2)
-  - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
-- [Tasmota](https://github.com/arendst/Tasmota)
-  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
-- [muduo](https://github.com/chenshuo/muduo)
-  - Event-driven network library for multi-threaded Linux server in C++11
-- [allwpilib](https://github.com/wpilibsuite/allwpilib)
-  - Official Repository of WPILibJ and WPILibC
-- [SFML](https://github.com/SFML/SFML)
-  - Simple and Fast Multimedia Library
-- [qBittorrent](https://github.com/qbittorrent/qBittorrent)
-  - qBittorrent BitTorrent client
-- [qmc-decoder](https://github.com/Presburger/qmc-decoder)
-  - Fastest & best convert qmc 2 mp3 | flac tools
+- [Marlin](https://github.com/MarlinFirmware/Marlin)
+  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
+- [apollo](https://github.com/ApolloAuto/apollo)
+  - An open autonomous driving platform
 - [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
   - All Algorithms implemented in C++
-- [AudioKit](https://github.com/AudioKit/AudioKit)
-  - Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
-- [youtube](https://github.com/Errichto/youtube)
-  - codes for my streams and YT videos
-- [PrusaSlicer](https://github.com/prusa3d/PrusaSlicer)
-  - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
+- [open-builder](https://github.com/Hopson97/open-builder)
+  - Open source "Minecraft-like" game with multiplayer support.
+- [yuzu](https://github.com/yuzu-emu/yuzu)
+  - Nintendo Switch Emulator
+- [tensorflow](https://github.com/tensorflow/tensorflow)
+  - An Open Source Machine Learning Framework for Everyone
+- [afl-libprotobuf-mutator](https://github.com/thebabush/afl-libprotobuf-mutator)
+  - AFLplusplus + libprotobuf-mutator = love
+- [verona](https://github.com/microsoft/verona)
+  - Research programming language for concurrent ownership
+- [desktop](https://github.com/nextcloud/desktop)
+  - 💻 Desktop sync client for Nextcloud
+- [mindforger](https://github.com/dvorka/mindforger)
+  - Thinking notebook and Markdown editor.
+- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+  - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+- [godot](https://github.com/godotengine/godot)
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [arduinoWebSockets](https://github.com/Links2004/arduinoWebSockets)
+  - arduinoWebSockets
+- [mlpack](https://github.com/mlpack/mlpack)
+  - mlpack: a scalable C++ machine learning library --
+- [openpilot](https://github.com/commaai/openpilot)
+  - open source driving agent
+- [LightGBM](https://github.com/microsoft/LightGBM)
+  - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
+- [ncmdump](https://github.com/anonymous5l/ncmdump)
+  - netease cloud music copyright protection file dump
+- [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
+  - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly
+- [naiveproxy](https://github.com/klzgrad/naiveproxy)
+  - Make a fortune quietly
+- [bitcoin](https://github.com/bitcoin/bitcoin)
+  - Bitcoin Core integration/staging tree
+- [Firmware](https://github.com/PX4/Firmware)
+  - PX4 Autopilot Software
+- [Learning-OpenCV-3_examples](https://github.com/oreillymedia/Learning-OpenCV-3_examples)
+  - 
+- [cpprestsdk](https://github.com/microsoft/cpprestsdk)
+  - The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.

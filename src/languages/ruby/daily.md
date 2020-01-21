@@ -1,51 +1,51 @@
 # ruby
 - [fast_template](https://github.com/fastai/fast_template)
   - A template for really easy blogging with GitHub Pages
-- [linguist](https://github.com/github/linguist)
-  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-- [linuxbrew-core](https://github.com/Homebrew/linuxbrew-core)
-  - 🍻🐧 Core formulae for the Homebrew package manager on Linux
+- [intrigue-core](https://github.com/intrigueio/intrigue-core)
+  - Discover Your Attack Surface
+- [huginn](https://github.com/huginn/huginn)
+  - Create agents that monitor and act on your behalf. Your agents are standing by!
+- [jekyll](https://github.com/jekyll/jekyll)
+  - 🌐 Jekyll is a blog-aware static site generator in Ruby
 - [homebrew-core](https://github.com/Homebrew/homebrew-core)
   - 🍻 Default formulae for the missing package manager for macOS
-- [XSpear](https://github.com/hahwul/XSpear)
-  - Powerfull XSS Scanning and Parameter analysis tool&gem
-- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
-  - Metasploit Framework
-- [styles](https://github.com/citation-style-language/styles)
-  - Official repository for Citation Style Language (CSL) citation styles.
-- [chitter-challenge](https://github.com/makersacademy/chitter-challenge)
-  - Build a Twitter Clone!
-- [programming-univbasics-4-nested-hashes-lab-austin-web-012720](https://github.com/learn-co-students/programming-univbasics-4-nested-hashes-lab-austin-web-012720)
+- [octokit.rb](https://github.com/octokit/octokit.rb)
+  - Ruby toolkit for the GitHub API
+- [asciidoctor](https://github.com/asciidoctor/asciidoctor)
+  - 💎 A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
+- [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
+  - A curated list of engineering blogs
+- [vagrant](https://github.com/hashicorp/vagrant)
+  - Vagrant is a tool for building and distributing development environments.
+- [logstash](https://github.com/elastic/logstash)
+  - Logstash - transport and process your logs, events, or other data
+- [railsinstaller_demo](https://github.com/annasba/railsinstaller_demo)
+  - Rails Installer Demo
+- [programming-univbasics-nds-nds-to-insight-with-methods-nyc04-seng-ft-012720](https://github.com/learn-co-students/programming-univbasics-nds-nds-to-insight-with-methods-nyc04-seng-ft-012720)
   - 
-- [ruby-objects-has-many-lab-onl01-seng-pt-120819](https://github.com/learn-co-students/ruby-objects-has-many-lab-onl01-seng-pt-120819)
+- [html-iframes-lab-online-web-pt-100719](https://github.com/learn-co-students/html-iframes-lab-online-web-pt-100719)
   - 
-- [discourse](https://github.com/discourse/discourse)
-  - A platform for community discussion. Free, open, simple.
-- [sonic-pi](https://github.com/samaaron/sonic-pi)
-  - The Live Coding Music Synth for Everyone
-- [mastodon](https://github.com/tootsuite/mastodon)
-  - Your self-hosted, globally interconnected microblogging community
-- [carrierwave-riak](https://github.com/motske/carrierwave-riak)
-  - Riak support for CarrierWave
-- [programming-univbasics-4-intro-to-hashes-lab-austin-web-012720](https://github.com/learn-co-students/programming-univbasics-4-intro-to-hashes-lab-austin-web-012720)
+- [wpscan](https://github.com/wpscanteam/wpscan)
+  - WPScan is a free, for non-commercial use, black box WordPress Vulnerability Scanner written for security professionals and blog maintainers to test the security of their WordPress websites.
+- [programming-univbasics-4-square-array-nyc-web-012720](https://github.com/learn-co-students/programming-univbasics-4-square-array-nyc-web-012720)
   - 
-- [square_array-online-web-sp-000](https://github.com/learn-co-students/square_array-online-web-sp-000)
+- [my-little-rainbow-lab-online-web-pt-100719](https://github.com/learn-co-students/my-little-rainbow-lab-online-web-pt-100719)
   - 
-- [programming-univbasics-4-nested-hashes-lab-sfo-web-012720](https://github.com/learn-co-students/programming-univbasics-4-nested-hashes-lab-sfo-web-012720)
+- [Wiki](https://github.com/ByungJun25/Wiki)
+  - BJ Studio Wiki Page
+- [active-record-costume-store-lab-nyc-web-010620](https://github.com/learn-co-students/active-record-costume-store-lab-nyc-web-010620)
   - 
-- [devise-i18n](https://github.com/tigrish/devise-i18n)
-  - Translations for the devise gem
-- [simple-nesting-online-web-sp-000](https://github.com/learn-co-students/simple-nesting-online-web-sp-000)
+- [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening)
+  - This Ansible role provides numerous security-related configurations, providing all-round base protection.
+- [diaspora](https://github.com/diaspora/diaspora)
+  - A privacy-aware, distributed, open source social network.
+- [cli-applications-guessing-game-seattle-web-012720](https://github.com/learn-co-students/cli-applications-guessing-game-seattle-web-012720)
   - 
-- [js-rails-as-api-extracting-a-service-class-v-000](https://github.com/learn-co-students/js-rails-as-api-extracting-a-service-class-v-000)
+- [activerecord-associations-intro-online-web-pt-100719](https://github.com/learn-co-students/activerecord-associations-intro-online-web-pt-100719)
   - 
-- [sinatra-basic-routes-lab-online-web-pt-100719](https://github.com/learn-co-students/sinatra-basic-routes-lab-online-web-pt-100719)
+- [programming-univbasics-4-building-nested-hashes-code-along-nyc-web-021720](https://github.com/learn-co-students/programming-univbasics-4-building-nested-hashes-code-along-nyc-web-021720)
   - 
-- [sinatra-hello-world-basics-online-web-pt-100719](https://github.com/learn-co-students/sinatra-hello-world-basics-online-web-pt-100719)
+- [activerecord-tvland-online-web-pt-100719](https://github.com/learn-co-students/activerecord-tvland-online-web-pt-100719)
   - 
-- [fe-zetsy-online-web-sp-000](https://github.com/learn-co-students/fe-zetsy-online-web-sp-000)
-  - 
-- [box-style-lab-online-web-sp-000](https://github.com/learn-co-students/box-style-lab-online-web-sp-000)
+- [intro-to-capybara-onl01-seng-pt-100619](https://github.com/learn-co-students/intro-to-capybara-onl01-seng-pt-100619)
   - 
