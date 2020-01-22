@@ -1,51 +1,51 @@
 # javascript
+- [city-roads](https://github.com/anvaka/city-roads)
+  - Visualization of all roads within any city
 - [realworld](https://github.com/gothinkster/realworld)
   - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
   - 🛁 Clean Code concepts adapted for JavaScript
-- [cube.js](https://github.com/cube-js/cube.js)
-  - 📊 Cube.js - Open Source Analytics Framework
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [react-router](https://github.com/ReactTraining/react-router)
-  - Declarative routing for React
-- [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
-  - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [create-react-app](https://github.com/facebook/create-react-app)
-  - Set up a modern web app by running one command.
-- [reveal.js](https://github.com/hakimel/reveal.js)
-  - The HTML Presentation Framework
-- [vue-router](https://github.com/vuejs/vue-router)
-  - 🚦 The official router for Vue.js.
-- [OmniStack-10.0](https://github.com/fl4m3x/OmniStack-10.0)
-  - Repositório da Semana OmniStack - 10.0 da RocketSeat!
-- [unlock-music](https://github.com/ix64/unlock-music)
-  - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
-- [renovate](https://github.com/renovatebot/renovate)
-  - Universal dependency update tool that fits into your workflows.
-- [json-server](https://github.com/typicode/json-server)
-  - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-- [typeahead.js](https://github.com/twitter/typeahead.js)
-  - typeahead.js is a fast and fully-featured autocomplete library
-- [drawio-desktop](https://github.com/jgraph/drawio-desktop)
-  - Official electron build of draw.io
-- [webdriverio](https://github.com/webdriverio/webdriverio)
-  - Next-gen WebDriver test automation framework for Node.js
-- [hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
-  - Based on a true story
-- [node-express-realworld-example-app](https://github.com/gothinkster/node-express-realworld-example-app)
-  - 
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup)
-  - Light and responsive lightbox script with focus on performance.
+- [awesome-uses](https://github.com/wesbos/awesome-uses)
+  - A list of /uses pages detailing developer setups, gear, software and configs.
+- [appwrite](https://github.com/appwrite/appwrite)
+  - End-to-end backend server for frontend and mobile developers. 🚀
+- [iptv](https://github.com/iptv-org/iptv)
+  - Collection of 8000+ publicly available IPTV channels from all over the world
+- [joplin](https://github.com/laurent22/joplin)
+  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [opensource.guide](https://github.com/github/opensource.guide)
+  - 📚 Community guides for open source creators
+- [Rocket.Chat.ReactNative](https://github.com/RocketChat/Rocket.Chat.ReactNative)
+  - Rocket.Chat mobile clients
+- [strapi](https://github.com/strapi/strapi)
+  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [socket.io](https://github.com/socketio/socket.io)
+  - Realtime application framework (Node.JS server)
+- [matx-react](https://github.com/uilibrary/matx-react)
+  - Matx React Redux Material Design Admin Dashboard Template
+- [semana-omnistack-10](https://github.com/Rocketseat/semana-omnistack-10)
+  - Código da aplicação desenvolvida durante a Semana OmniStack 10.0 🚀
+- [2020-virus-map](https://github.com/lbj96347/2020-virus-map)
+  - Base on China official news to pop up virus cases on map. 基于中国官方新闻公布数据，绘制新型冠状病毒案例于地图上。
+- [html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
+  - A professional front-end template for building fast, robust, and adaptable web apps or sites.
+- [pm2](https://github.com/Unitech/pm2)
+  - Node.js Production Process Manager with a built-in Load Balancer.
 - [dropzone](https://github.com/enyo/dropzone)
   - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
-- [jquery-validation](https://github.com/jquery-validation/jquery-validation)
-  - jQuery Validation Plugin library sources
-- [swagger-ui](https://github.com/swagger-api/swagger-ui)
-  - Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
+- [node-cron](https://github.com/kelektiv/node-cron)
+  - Cron for NodeJS.
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [daterangepicker](https://github.com/dangrossman/daterangepicker)
+  - JavaScript Date Range, Date and Time Picker Component
+- [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+  - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+- [cloudmapper](https://github.com/duo-labs/cloudmapper)
+  - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
+- [slick](https://github.com/kenwheeler/slick)
+  - the last carousel you'll ever need
+- [time-elements](https://github.com/github/time-elements)
+  - Web component extensions to the standard <time> element.
+- [javascript](https://github.com/airbnb/javascript)
+  - JavaScript Style Guide

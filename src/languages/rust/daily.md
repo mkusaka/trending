@@ -3,49 +3,49 @@
   - Unofficial Bitwarden compatible server written in Rust
 - [actix-web](https://github.com/actix/actix-web)
   - Actix web is a small, pragmatic, and extremely fast rust web framework.
-- [ripgrep](https://github.com/BurntSushi/ripgrep)
-  - ripgrep recursively searches directories for a regex pattern
-- [cargo-atcoder](https://github.com/tanakh/cargo-atcoder)
-  - Cargo subcommand for AtCoder
-- [xsv](https://github.com/BurntSushi/xsv)
-  - A fast CSV command line toolkit written in Rust.
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [warp](https://github.com/seanmonstar/warp)
-  - A super-easy, composable, web server framework for warp speeds.
-- [winit](https://github.com/rust-windowing/winit)
-  - Window handling library in pure Rust
-- [diesel](https://github.com/diesel-rs/diesel)
-  - A safe, extensible ORM and Query Builder for Rust
-- [regex](https://github.com/rust-lang/regex)
-  - An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
-- [enquirer](https://github.com/termapps/enquirer)
-  - Command Line Utility for Stylish Interactive Prompts
+- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
+  - Facilitating high-level interactions between Wasm modules and JavaScript
+- [spotifyd](https://github.com/Spotifyd/spotifyd)
+  - A spotify daemon
+- [vulkano](https://github.com/vulkano-rs/vulkano)
+  - Safe and rich Rust wrapper around the Vulkan API
+- [Rocket](https://github.com/SergioBenitez/Rocket)
+  - A web framework for Rust.
 - [servo](https://github.com/servo/servo)
   - The Servo Browser Engine
-- [Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack)
-  - Easily testable and working Rust codes with blog posts to explain them.
-- [rusty_v8](https://github.com/denoland/rusty_v8)
-  - V8 javascript bindings for Rust
+- [vector](https://github.com/timberio/vector)
+  - Collect, transform, & route all observability data with one simple tool.
+- [serenity](https://github.com/serenity-rs/serenity)
+  - A Rust library for the Discord API.
+- [rustlings](https://github.com/rust-lang/rustlings)
+  - Small exercises to get you used to reading and writing Rust code!
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [nom](https://github.com/Geal/nom)
+  - Rust parser combinator framework
 - [tokio](https://github.com/tokio-rs/tokio)
   - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [examples](https://github.com/actix/examples)
-  - Actix web examples
-- [gotham](https://github.com/gotham-rs/gotham)
-  - A flexible web framework that promotes stability, safety, security and speed.
-- [rust-libp2p](https://github.com/libp2p/rust-libp2p)
-  - The Rust Implementation of libp2p networking stack.
-- [tide](https://github.com/http-rs/tide)
-  - Serve the web – HTTP server framework
-- [firecracker](https://github.com/firecracker-microvm/firecracker)
-  - Secure and fast microVMs for serverless computing.
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
-- [actix](https://github.com/actix/actix)
-  - Actor framework for Rust
-- [cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor)
-  - A rust-vmm based cloud hypervisor
-- [jormungandr](https://github.com/input-output-hk/jormungandr)
-  - aspiring blockchain node
-- [lsd](https://github.com/Peltoche/lsd)
-  - The next gen ls command
+- [rust-raspi3-OS-tutorials](https://github.com/rust-embedded/rust-raspi3-OS-tutorials)
+  - 📚 Learn to write an embedded OS in Rust on the Raspberry Pi 🦀
+- [lucet](https://github.com/bytecodealliance/lucet)
+  - Lucet, the Sandboxing WebAssembly Compiler.
+- [i3status-rust](https://github.com/greshake/i3status-rust)
+  - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
+- [alacritty](https://github.com/alacritty/alacritty)
+  - A cross-platform, GPU-accelerated terminal emulator
+- [rweb](https://github.com/kdy1/rweb)
+  - Yet another web server framework for rust
+- [cargo-audit](https://github.com/RustSec/cargo-audit)
+  - Audit Cargo.lock files for crates with security vulnerabilities
+- [mio](https://github.com/tokio-rs/mio)
+  - Metal IO library for Rust
+- [bitmatch](https://github.com/porglezomp/bitmatch)
+  - A Rust crate that allows you to match, bind, and pack the individual bits of integers.
+- [Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack)
+  - Easily testable and working Rust codes with blog posts to explain them.
+- [ttyplot-rs](https://github.com/mogenson/ttyplot-rs)
+  - Plot streaming data from stdin to a tty terminal
+- [rust-csv](https://github.com/BurntSushi/rust-csv)
+  - A CSV parser for Rust, with Serde support.
