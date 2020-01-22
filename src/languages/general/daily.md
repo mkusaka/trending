@@ -1,51 +1,50 @@
 # general
-- [templates](https://github.com/kbariotis/templates) : 
-  - A set of standard document templates.
-- [ApplicationInspector](https://github.com/microsoft/ApplicationInspector) : C#
-  - A software characterization source code analyzer that helps you understand what a program does by identifying interesting features and characteristics using static analysis and a customizable json based rules engine.
-- [realworld](https://github.com/gothinkster/realworld) : JavaScript
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [ZLMediaKit](https://github.com/xiongziliang/ZLMediaKit) : C++
-  - A lightweight RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV server and client framework based on C++11
-- [SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect) : 
-  - Become a Better Software Architect
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [kubelabs](https://github.com/collabnix/kubelabs) : HTML
-  - Kubernetes - Beginners | Intermediate | Advanced
-- [Red_Team](https://github.com/BankSecurity/Red_Team) : PowerShell
-  - Some scripts useful for red team activities
-- [ospray](https://github.com/ospray/ospray) : C++
-  - An Open, Scalable, Portable, Ray Tracing Based Rendering Engine for High-Fidelity Visualization
-- [onedev](https://github.com/theonedev/onedev) : Java
-  - Super Easy All-In-One DevOps Platform
-- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) : 
-  - 程序员如何优雅的挣零花钱
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) : 
   - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+- [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) : TeX
+  - Cheat Sheets
+- [city-roads](https://github.com/anvaka/city-roads) : JavaScript
+  - Visualization of all roads within any city
+- [ApplicationInspector](https://github.com/microsoft/ApplicationInspector) : C#
+  - A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'what's in it' using static analysis with a json based rules engine. Ideal for scanning components before use or for feature level changes.
+- [templates](https://github.com/kbariotis/templates) : 
+  - A set of standard document templates.
 - [deno](https://github.com/denoland/deno) : TypeScript
   - A secure JavaScript and TypeScript runtime
-- [cube.js](https://github.com/cube-js/cube.js) : JavaScript
-  - 📊 Cube.js - Open Source Analytics Framework
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) : Rust
-  - Unofficial Bitwarden compatible server written in Rust
-- [sdlpal](https://github.com/sdlpal/sdlpal) : Objective-C
-  - SDL-based reimplementation of the classic Chinese-language RPG "Xiān jiàn Qí Xiá Zhuàn" (also known as PAL).
-- [AI4Animation](https://github.com/sebastianstarke/AI4Animation) : C++
-  - Bringing Characters to Life with Computer Brains in Unity
-- [gin](https://github.com/gin-gonic/gin) : Go
-  - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [go-ipfs](https://github.com/ipfs/go-ipfs) : Go
-  - IPFS implementation in Go
-- [tensortrade](https://github.com/tensortrade-org/tensortrade) : Python
-  - An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.
 - [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) : HTML
   - A curated list of awesome warez and piracy links
-- [guzzle](https://github.com/guzzle/guzzle) : PHP
-  - Guzzle, an extensible PHP HTTP client
-- [backtobackswe](https://github.com/bephrem1/backtobackswe) : Java
-  - Code Examples For Back To Back SWE Lessons
-- [proposals](https://github.com/tc39/proposals) : 
-  - Tracking ECMAScript Proposals
-- [Micronetes](https://github.com/davidfowl/Micronetes) : C#
-  - Micronetes is a local orchestrator inspired by kubernetes that makes developing and testing microservices and distributed applications easier.
+- [realworld](https://github.com/gothinkster/realworld) : JavaScript
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [istio](https://github.com/istio/istio) : Go
+  - Connect, secure, control, and observe services.
+- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) : 
+  - 程序员如何优雅的挣零花钱
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [bao-hypervisor](https://github.com/bao-project/bao-hypervisor) : C
+  - Bao, a Lightweight Static Partitioning Hypervisor
+- [awesome-uses](https://github.com/wesbos/awesome-uses) : JavaScript
+  - A list of /uses pages detailing developer setups, gear, software and configs.
+- [flax](https://github.com/google-research/flax) : Python
+- [COLA](https://github.com/alibaba/COLA) : Java
+  - Clean Object-oriented & Layered Architecture
+- [appwrite](https://github.com/appwrite/appwrite) : JavaScript
+  - End-to-end backend server for frontend and mobile developers. 🚀
+- [kubelabs](https://github.com/collabnix/kubelabs) : HTML
+  - Kubernetes - Beginners | Intermediate | Advanced
+- [SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect) : 
+  - Path to a Software Architect
+- [gitignore](https://github.com/github/gitignore) : 
+  - A collection of useful .gitignore templates
+- [AWS-JPL-OSR-Challenge](https://github.com/Christopheraburns/AWS-JPL-OSR-Challenge) : C++
+  - Official repo of the AWS-JPL Open Source Rover challenge
+- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) : 
+  - A collection of various awesome lists for hackers, pentesters and security researchers
+- [iptv](https://github.com/iptv-org/iptv) : JavaScript
+  - Collection of 8000+ publicly available IPTV channels from all over the world
+- [assembled-cnn](https://github.com/clovaai/assembled-cnn) : Python
+  - Official implementation of "Compounding the Performance Improvements of Assembled Techniques in a Convolutional Neural Network"
+- [rasa](https://github.com/RasaHQ/rasa) : Python
+  - 💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
+- [TheFatRat](https://github.com/Screetsec/TheFatRat) : C
+  - Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV softw…
