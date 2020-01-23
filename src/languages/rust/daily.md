@@ -1,51 +1,51 @@
 # rust
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
-  - Unofficial Bitwarden compatible server written in Rust
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix web is a small, pragmatic, and extremely fast rust web framework.
-- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
-  - Facilitating high-level interactions between Wasm modules and JavaScript
-- [spotifyd](https://github.com/Spotifyd/spotifyd)
-  - A spotify daemon
-- [vulkano](https://github.com/vulkano-rs/vulkano)
-  - Safe and rich Rust wrapper around the Vulkan API
-- [Rocket](https://github.com/SergioBenitez/Rocket)
-  - A web framework for Rust.
-- [servo](https://github.com/servo/servo)
-  - The Servo Browser Engine
-- [vector](https://github.com/timberio/vector)
-  - Collect, transform, & route all observability data with one simple tool.
-- [serenity](https://github.com/serenity-rs/serenity)
-  - A Rust library for the Discord API.
-- [rustlings](https://github.com/rust-lang/rustlings)
-  - Small exercises to get you used to reading and writing Rust code!
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-  - A curated list of Rust code and resources.
+- [fourier](https://github.com/calebzulawski/fourier)
+  - Fast Fourier transforms (FFTs) in Rust
 - [rust](https://github.com/rust-lang/rust)
   - Empowering everyone to build reliable and efficient software.
-- [nom](https://github.com/Geal/nom)
-  - Rust parser combinator framework
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [rust-raspi3-OS-tutorials](https://github.com/rust-embedded/rust-raspi3-OS-tutorials)
-  - 📚 Learn to write an embedded OS in Rust on the Raspberry Pi 🦀
-- [lucet](https://github.com/bytecodealliance/lucet)
-  - Lucet, the Sandboxing WebAssembly Compiler.
+- [rust-lightning](https://github.com/rust-bitcoin/rust-lightning)
+  - Rust-Lightning, not Rusty's Lightning
+- [krustlet](https://github.com/deislabs/krustlet)
+  - Kubernetes Rust Kubelet
+- [mdBook](https://github.com/rust-lang/mdBook)
+  - Create book from markdown files. Like Gitbook but implemented in Rust
+- [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim)
+  - Language Server Protocol (LSP) support for vim and neovim.
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
+- [tock](https://github.com/tock/tock)
+  - A secure embedded operating system for microcontrollers
+- [fd](https://github.com/sharkdp/fd)
+  - A simple, fast and user-friendly alternative to 'find'
 - [i3status-rust](https://github.com/greshake/i3status-rust)
   - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
+- [serenity](https://github.com/serenity-rs/serenity)
+  - A Rust library for the Discord API.
+- [bastion](https://github.com/bastion-rs/bastion)
+  - Highly-available Distributed Fault-tolerant Runtime
+- [vector](https://github.com/timberio/vector)
+  - Collect, transform, & route all observability data with one simple tool.
+- [specs](https://github.com/amethyst/specs)
+  - Specs - Parallel ECS
+- [tokio](https://github.com/tokio-rs/tokio)
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [cargo](https://github.com/rust-lang/cargo)
+  - The Rust package manager
+- [fasteval](https://github.com/likebike/fasteval)
+  - Fast and safe evaluation of algebraic expressions
+- [rusty-celery](https://github.com/rusty-celery/rusty-celery)
+  - Rust implementation of Celery for producing and consuming background tasks
 - [rweb](https://github.com/kdy1/rweb)
   - Yet another web server framework for rust
-- [cargo-audit](https://github.com/RustSec/cargo-audit)
-  - Audit Cargo.lock files for crates with security vulnerabilities
-- [mio](https://github.com/tokio-rs/mio)
-  - Metal IO library for Rust
-- [bitmatch](https://github.com/porglezomp/bitmatch)
-  - A Rust crate that allows you to match, bind, and pack the individual bits of integers.
-- [Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack)
-  - Easily testable and working Rust codes with blog posts to explain them.
+- [lumen](https://github.com/lumen/lumen)
+  - An alternative BEAM implementation, designed for WebAssembly
+- [verso](https://github.com/nickpascucci/verso)
+  - A new approach to literate programming.
+- [awesome-static-analysis](https://github.com/mre/awesome-static-analysis)
+  - Static analysis tools for all programming languages
 - [ttyplot-rs](https://github.com/mogenson/ttyplot-rs)
   - Plot streaming data from stdin to a tty terminal
-- [rust-csv](https://github.com/BurntSushi/rust-csv)
-  - A CSV parser for Rust, with Serde support.
+- [cargo-audit](https://github.com/RustSec/cargo-audit)
+  - Audit Cargo.lock files for crates with security vulnerabilities
