@@ -1,51 +1,51 @@
 # typescript
 - [deno](https://github.com/denoland/deno)
   - A secure JavaScript and TypeScript runtime
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
-  - 📋 React hooks for forms validation without the hassle.
-- [apollo-server](https://github.com/apollographql/apollo-server)
-  - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
-- [amplify-js](https://github.com/aws-amplify/amplify-js)
-  - A declarative JavaScript library for application development using cloud services.
-- [primeng](https://github.com/primefaces/primeng)
-  - The Most Complete UI Component Library for Angular
-- [jsPDF-AutoTable](https://github.com/simonbengtsson/jsPDF-AutoTable)
-  - jsPDF plugin for generating PDF tables with javascript
-- [excalidraw](https://github.com/excalidraw/excalidraw)
-  - Sketch hand-drawn like diagrams
-- [navigation-ex](https://github.com/react-navigation/navigation-ex)
-  - Routing and navigation for your React Native apps with a component-first API
-- [voice-web](https://github.com/mozilla/voice-web)
-  - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
-- [caprover](https://github.com/caprover/caprover)
-  - [previously CaptainDuckDuck] Automated Scalable PaaS Package (automated Docker+nginx) - Heroku on Steroids
-- [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
-  - ✨ Monorepo for all the tooling which enables ESLint to support TypeScript
-- [react-navigation](https://github.com/react-navigation/react-navigation)
-  - Routing and navigation for your React Native apps
-- [urql](https://github.com/FormidableLabs/urql)
-  - A highly customizable and versatile GraphQL client for React
-- [proton-native](https://github.com/kusti8/proton-native)
-  - A React environment for cross platform desktop apps
-- [cli](https://github.com/react-native-community/cli)
-  - React Native command line tools
-- [typescript-book](https://github.com/basarat/typescript-book)
-  - 📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖. Free and Open Source 🌹
-- [aws-cdk](https://github.com/aws/aws-cdk)
-  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
-- [nebular](https://github.com/akveo/nebular)
-  - 💥 Customizable Angular UI Library based on Eva Design System 🌚✨Dark Mode
-- [platform](https://github.com/ngrx/platform)
-  - Reactive libraries for Angular
-- [react-native-device-info](https://github.com/react-native-community/react-native-device-info)
-  - Device Information for React Native iOS and Android
-- [starter](https://github.com/graphile/starter)
-  - Opinionated quick-start with pre-built user account system for full-stack application development in React, Node.js, GraphQL and PostgreSQL. Powered by PostGraphile, TypeScript, Apollo Client, Graphile Worker, Graphile Migrate, Ant Design and Next.js
-- [azuredatastudio](https://github.com/microsoft/azuredatastudio)
-  - Azure Data Studio is a data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
+- [angular](https://github.com/angular/angular)
+  - One framework. Mobile & desktop.
+- [ant-design](https://github.com/ant-design/ant-design)
+  - 🌈 A UI Design Language and React UI library
+- [lwc](https://github.com/salesforce/lwc)
+  - ⚡️ LWC - A Blazing Fast, Enterprise-Grade Web Components Foundation
 - [vscode](https://github.com/microsoft/vscode)
   - Visual Studio Code
-- [ionic](https://github.com/ionic-team/ionic)
-  - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
-- [prisma-examples](https://github.com/prisma/prisma-examples)
-  - 💡 Examples of Prisma using different languages and technologies
+- [express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate)
+  - A delightful way to building a RESTful API with NodeJs & TypeScript by @w3tecch
+- [tottem](https://github.com/poulainv/tottem)
+  - Library management made social 👏📕🎺
+- [proton-native](https://github.com/kusti8/proton-native)
+  - A React environment for cross platform desktop apps
+- [TypeScript](https://github.com/microsoft/TypeScript)
+  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [typescript-book](https://github.com/basarat/typescript-book)
+  - 📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖. Free and Open Source 🌹
+- [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+  - ✨ Monorepo for all the tooling which enables ESLint to support TypeScript
+- [angular-cli](https://github.com/angular/angular-cli)
+  - CLI tool for Angular
+- [checkout](https://github.com/actions/checkout)
+  - Action for checking out a repo
+- [react-native-paper](https://github.com/callstack/react-native-paper)
+  - Material Design for React Native (Android & iOS)
+- [ioredis](https://github.com/luin/ioredis)
+  - 🚀A robust, performance-focused and full-featured Redis client for Node.js.
+- [xterm.js](https://github.com/xtermjs/xterm.js)
+  - A terminal for the web
+- [google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client)
+  - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
+- [turbolinks](https://github.com/turbolinks/turbolinks)
+  - Turbolinks makes navigating your web application faster
+- [fSpy](https://github.com/stuffmatic/fSpy)
+  - A cross platform app for quick and easy still image camera matching
+- [aws-cdk](https://github.com/aws/aws-cdk)
+  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+- [bit](https://github.com/teambit/bit)
+  - Build, version and distribute reusable components.
+- [apollo-server](https://github.com/apollographql/apollo-server)
+  - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
+- [dagger-browser](https://github.com/Snapchat/dagger-browser)
+  - Simple tool for browsing Dagger graphs generated via an SPI plugin
+- [grafana](https://github.com/grafana/grafana)
+  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [cache](https://github.com/actions/cache)
+  - Cache dependencies and build outputs in GitHub Actions

@@ -1,51 +1,51 @@
 # ruby
-- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
-  - Metasploit Framework
-- [homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
-  - 🖋 Casks of Ｆ🅾𝓝𝐓𝚂
-- [rack](https://github.com/rack/rack)
-  - a modular Ruby webserver interface
-- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
-  - Ruby implementation of GraphQL
-- [rails](https://github.com/rails/rails)
-  - Ruby on Rails
-- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-- [fast_template](https://github.com/fastai/fast_template)
-  - A template for really easy blogging with GitHub Pages
-- [dev.to](https://github.com/thepracticaldev/dev.to)
-  - Where programmers share ideas and help each other grow
-- [google-api-ruby-client](https://github.com/googleapis/google-api-ruby-client)
-  - REST client for Google APIs
-- [asciidoctor](https://github.com/asciidoctor/asciidoctor)
-  - 💎 A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
-- [markup](https://github.com/github/markup)
-  - Determines which markup library to use to render a content file (e.g. README) on GitHub
-- [administrate](https://github.com/thoughtbot/administrate)
-  - A Rails engine that helps you put together a super-flexible admin dashboard.
+- [devise](https://github.com/heartcombo/devise)
+  - Flexible authentication solution for Rails with Warden.
+- [rubocop](https://github.com/rubocop-hq/rubocop)
+  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
 - [vagrant](https://github.com/hashicorp/vagrant)
   - Vagrant is a tool for building and distributing development environments.
-- [dependabot-core](https://github.com/dependabot/dependabot-core)
-  - 🤖The core logic behind Dependabot's update PR creation
-- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-  - A curated list of awesome awesomeness
-- [febe](https://github.com/shadowrider/febe)
+- [dev.to](https://github.com/thepracticaldev/dev.to)
+  - Where programmers share ideas and help each other grow
+- [sorbet](https://github.com/sorbet/sorbet)
+  - A fast, powerful type checker designed for Ruby
+- [evil-winrm](https://github.com/Hackplayers/evil-winrm)
+  - The ultimate WinRM shell for hacking/pentesting
+- [choosealicense.com](https://github.com/github/choosealicense.com)
+  - A site to provide non-judgmental guidance on choosing a license for your open source project
+- [markup](https://github.com/github/markup)
+  - Determines which markup library to use to render a content file (e.g. README) on GitHub
+- [chewy](https://github.com/toptal/chewy)
+  - High-level Elasticsearch Ruby framework based on the official elasticsearch-ruby client
+- [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator)
+  - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+- [linuxbrew-core](https://github.com/Homebrew/linuxbrew-core)
+  - 🍻🐧 Core formulae for the Homebrew package manager on Linux
+- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
+  - The Cocoa Dependency Manager.
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
+  - Metasploit Framework
+- [boltwash](https://github.com/puppetlabs/boltwash)
+  - Populate Wash from your Bolt inventory
+- [say-hello-ruby-onl01-seng-pt-012120](https://github.com/learn-co-students/say-hello-ruby-onl01-seng-pt-012120)
   - 
-- [sql-aggregate-functions-lab-online-web-ft-120919](https://github.com/learn-co-students/sql-aggregate-functions-lab-online-web-ft-120919)
+- [method-arguments-lab-onl01-seng-pt-012120](https://github.com/learn-co-students/method-arguments-lab-onl01-seng-pt-012120)
   - 
-- [SQL-bear-organizer-lab-online-web-ft-120919](https://github.com/learn-co-students/SQL-bear-organizer-lab-online-web-ft-120919)
+- [looping-while-until-onl01-seng-ft-012120](https://github.com/learn-co-students/looping-while-until-onl01-seng-ft-012120)
   - 
-- [beta.wip](https://github.com/betagouv/beta.wip)
-  - Bac à sable pour les travaux de l'Incubateur
-- [rails-activerecord-models-and-rails-readme-online-web-ft-110419](https://github.com/learn-co-students/rails-activerecord-models-and-rails-readme-online-web-ft-110419)
+- [array-methods-lab-onl01-seng-ft-012120](https://github.com/learn-co-students/array-methods-lab-onl01-seng-ft-012120)
   - 
-- [debugging-practice-fix-our-broken-program-lab-seattle-web-012720](https://github.com/learn-co-students/debugging-practice-fix-our-broken-program-lab-seattle-web-012720)
+- [countdown-to-midnight-onl01-seng-ft-012120](https://github.com/learn-co-students/countdown-to-midnight-onl01-seng-ft-012120)
   - 
-- [ruby-inheritance-lab-online-web-pt-120919](https://github.com/learn-co-students/ruby-inheritance-lab-online-web-pt-120919)
+- [say-hello-ruby-onl01-seng-pt-012220](https://github.com/learn-co-students/say-hello-ruby-onl01-seng-pt-012220)
   - 
-- [book-build-apis-2](https://github.com/apisyouwonthate/book-build-apis-2)
-  - Learn how to build and leverage the latest technology in APIs, services, microservices, distributed systems, HATEOAS, query languages, circuit breakers, gateways, discombobulators, flux capacitors, spider monkeys...
-- [ruby-enumerables-generalized-map-and-reduce-lab-nyc04-seng-ft-012720](https://github.com/learn-co-students/ruby-enumerables-generalized-map-and-reduce-lab-nyc04-seng-ft-012720)
+- [method-arguments-lab-onl01-seng-pt-012220](https://github.com/learn-co-students/method-arguments-lab-onl01-seng-pt-012220)
   - 
-- [ruby-variable-assignment-online-web-sp-000](https://github.com/learn-co-students/ruby-variable-assignment-online-web-sp-000)
+- [parrot-ruby-onl01-seng-pt-012120](https://github.com/learn-co-students/parrot-ruby-onl01-seng-pt-012120)
+  - 
+- [speaking-grandma-onl01-seng-pt-012220](https://github.com/learn-co-students/speaking-grandma-onl01-seng-pt-012220)
+  - 
+- [debugging-with-pry-onl01-seng-pt-012120](https://github.com/learn-co-students/debugging-with-pry-onl01-seng-pt-012120)
+  - 
+- [debugging-with-pry-onl01-seng-pt-012220](https://github.com/learn-co-students/debugging-with-pry-onl01-seng-pt-012220)
   - 

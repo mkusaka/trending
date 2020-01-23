@@ -1,50 +1,49 @@
 # general
+- [backendlore](https://github.com/fpereiro/backendlore) : 
+  - How I write backends
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) : 
   - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) : TeX
   - Cheat Sheets
 - [city-roads](https://github.com/anvaka/city-roads) : JavaScript
   - Visualization of all roads within any city
-- [ApplicationInspector](https://github.com/microsoft/ApplicationInspector) : C#
-  - A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'what's in it' using static analysis with a json based rules engine. Ideal for scanning components before use or for feature level changes.
-- [templates](https://github.com/kbariotis/templates) : 
-  - A set of standard document templates.
-- [deno](https://github.com/denoland/deno) : TypeScript
-  - A secure JavaScript and TypeScript runtime
-- [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) : HTML
-  - A curated list of awesome warez and piracy links
-- [realworld](https://github.com/gothinkster/realworld) : JavaScript
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [istio](https://github.com/istio/istio) : Go
-  - Connect, secure, control, and observe services.
-- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) : 
-  - 程序员如何优雅的挣零花钱
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [bao-hypervisor](https://github.com/bao-project/bao-hypervisor) : C
-  - Bao, a Lightweight Static Partitioning Hypervisor
-- [awesome-uses](https://github.com/wesbos/awesome-uses) : JavaScript
-  - A list of /uses pages detailing developer setups, gear, software and configs.
 - [flax](https://github.com/google-research/flax) : Python
-- [COLA](https://github.com/alibaba/COLA) : Java
-  - Clean Object-oriented & Layered Architecture
-- [appwrite](https://github.com/appwrite/appwrite) : JavaScript
-  - End-to-end backend server for frontend and mobile developers. 🚀
-- [kubelabs](https://github.com/collabnix/kubelabs) : HTML
-  - Kubernetes - Beginners | Intermediate | Advanced
-- [SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect) : 
-  - Path to a Software Architect
-- [gitignore](https://github.com/github/gitignore) : 
-  - A collection of useful .gitignore templates
-- [AWS-JPL-OSR-Challenge](https://github.com/Christopheraburns/AWS-JPL-OSR-Challenge) : C++
-  - Official repo of the AWS-JPL Open Source Rover challenge
+- [naabu](https://github.com/projectdiscovery/naabu) : Go
+  - A fast port scanner written in go with focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
+- [awesome-react](https://github.com/enaqx/awesome-react) : 
+  - A collection of awesome things regarding React ecosystem
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) : 
   - A collection of various awesome lists for hackers, pentesters and security researchers
-- [iptv](https://github.com/iptv-org/iptv) : JavaScript
-  - Collection of 8000+ publicly available IPTV channels from all over the world
-- [assembled-cnn](https://github.com/clovaai/assembled-cnn) : Python
-  - Official implementation of "Compounding the Performance Improvements of Assembled Techniques in a Convolutional Neural Network"
-- [rasa](https://github.com/RasaHQ/rasa) : Python
-  - 💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
-- [TheFatRat](https://github.com/Screetsec/TheFatRat) : C
-  - Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV softw…
+- [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) : JavaScript
+  - A 30 days of JavaScript programming challenge
+- [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) : HTML
+  - A curated list of awesome warez and piracy links
+- [MNNKitDemo](https://github.com/alibaba/MNNKitDemo) : Objective-C
+  - MNN Kit Demo
+- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) : 
+  - 程序员如何优雅的挣零花钱
+- [istio](https://github.com/istio/istio) : Go
+  - Connect, secure, control, and observe services.
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) : JavaScript
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [azure-powershell](https://github.com/Azure/azure-powershell) : C#
+  - Microsoft Azure PowerShell
+- [gatsby](https://github.com/gatsbyjs/gatsby) : JavaScript
+  - Build blazing fast, modern apps and websites with React
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
+  - Roadmap to becoming a web developer in 2020
+- [bank_app_neomorphism_flutter](https://github.com/MarcioQuimbundo/bank_app_neomorphism_flutter) : Dart
+- [tools_ui_1c](https://github.com/cpr1c/tools_ui_1c) : 1C Enterprise
+  - Универсальные инструменты 1C для управляемых форм
+- [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo) : Python
+  - A list of all named GANs!
+- [jest](https://github.com/facebook/jest) : JavaScript
+  - Delightful JavaScript Testing.
+- [react-router](https://github.com/ReactTraining/react-router) : JavaScript
+  - Declarative routing for React
+- [deno](https://github.com/denoland/deno) : TypeScript
+  - A secure JavaScript and TypeScript runtime
+- [angular](https://github.com/angular/angular) : TypeScript
+  - One framework. Mobile & desktop.
+- [fourier](https://github.com/calebzulawski/fourier) : Rust
+  - Fast Fourier transforms (FFTs) in Rust
