@@ -1,51 +1,51 @@
 # javascript
+- [playwright](https://github.com/microsoft/playwright)
+  - Node library to automate Chromium, Firefox and WebKit browsers
 - [city-roads](https://github.com/anvaka/city-roads)
   - Visualization of all roads within any city
 - [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript)
   - A 30 days of JavaScript programming challenge
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [awx](https://github.com/ansible/awx)
+  - AWX Project
+- [react-native-firebase](https://github.com/invertase/react-native-firebase)
+  - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
+- [theme-ui](https://github.com/system-ui/theme-ui)
+  - Build consistent, themeable React apps based on constraint-based design principles
 - [gatsby](https://github.com/gatsbyjs/gatsby)
   - Build blazing fast, modern apps and websites with React
-- [jest](https://github.com/facebook/jest)
-  - Delightful JavaScript Testing.
-- [react-router](https://github.com/ReactTraining/react-router)
-  - Declarative routing for React
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [quasar](https://github.com/quasarframework/quasar)
-  - Quasar Framework - Build high-performance VueJS user interfaces in record time
-- [flowy](https://github.com/alyssaxuu/flowy)
-  - The minimal javascript library to create flowcharts ✨
-- [realworld](https://github.com/gothinkster/realworld)
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [next.js](https://github.com/zeit/next.js)
-  - The React Framework
-- [react-vis](https://github.com/uber/react-vis)
-  - Data Visualization Components
-- [2020-virus-map](https://github.com/lbj96347/2020-virus-map)
-  - Base on China official news to pop up virus cases on map. 基于中国官方新闻公布数据，绘制新型冠状病毒案例于地图上。
-- [aws-serverless-workshops](https://github.com/aws-samples/aws-serverless-workshops)
-  - Code and walkthrough labs to set up serverless applications for Wild Rydes workshops
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [matx-react](https://github.com/uilibrary/matx-react)
-  - Matx React Redux Material Design Admin Dashboard Template
-- [airframe-react](https://github.com/0wczar/airframe-react)
-  - Free Open Source High Quality Dashboard based on Bootstrap 4 & React 16: http://dashboards.webkom.co/react/airframe
-- [iptv](https://github.com/iptv-org/iptv)
-  - Collection of 8000+ publicly available IPTV channels from all over the world
+- [Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster)
+  - Marker Clustering plugin for Leaflet
+- [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js)
+  - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 - [semana-omnistack-10](https://github.com/Rocketseat/semana-omnistack-10)
   - Código da aplicação desenvolvida durante a Semana OmniStack 10.0 🚀
-- [realtime](https://github.com/supabase/realtime)
-  - Listen to your to PostgreSQL database in realtime via websockets
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [amphtml](https://github.com/ampproject/amphtml)
+  - The AMP web component framework.
+- [strapi](https://github.com/strapi/strapi)
+  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [react-router](https://github.com/ReactTraining/react-router)
+  - Declarative routing for React
+- [umbriel](https://github.com/Rocketseat/umbriel)
+  - 📪 Mail sending microservice with Node.js, TypeScript and MongoDB
+- [enzyme](https://github.com/airbnb/enzyme)
+  - JavaScript Testing utilities for React
+- [react-leaflet](https://github.com/PaulLeCam/react-leaflet)
+  - ⚛️ React components for 🍃 Leaflet maps
 - [awesome-uses](https://github.com/wesbos/awesome-uses)
   - A list of /uses pages detailing developer setups, gear, software and configs.
-- [async](https://github.com/caolan/async)
-  - Async utilities for node and the browser
-- [react-select](https://github.com/JedWatson/react-select)
-  - The Select Component for React.js
-- [whatsapp-web-reveng](https://github.com/sigalor/whatsapp-web-reveng)
-  - Reverse engineering WhatsApp Web.
-- [awesome-web-animation](https://github.com/sergey-pimenov/awesome-web-animation)
-  - A list of awesome web animation libraries, books, apps etc.
+- [markdown-here](https://github.com/adam-p/markdown-here)
+  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+- [react-popper](https://github.com/popperjs/react-popper)
+  - React wrapper around Popper.js (official)
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [create-react-app](https://github.com/facebook/create-react-app)
+  - Set up a modern web app by running one command.
+- [realtime](https://github.com/supabase/realtime)
+  - Listen to your to PostgreSQL database in realtime via websockets
+- [pro-react-redux](https://github.com/Juriy/pro-react-redux)
+  - Source code for Pro React Redux online course
+- [vue-enterprise-boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate)
+  - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI 3.

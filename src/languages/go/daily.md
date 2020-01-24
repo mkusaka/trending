@@ -1,51 +1,51 @@
 # go
-- [naabu](https://github.com/projectdiscovery/naabu)
-  - A fast port scanner written in go with focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
-- [istio](https://github.com/istio/istio)
-  - Connect, secure, control, and observe services.
+- [sops](https://github.com/mozilla/sops)
+  - Simple and flexible tool for managing secrets
+- [telegraf](https://github.com/influxdata/telegraf)
+  - The plugin-driven server agent for collecting & reporting metrics.
 - [argo](https://github.com/argoproj/argo)
   - Argo Workflows: Get stuff done with Kubernetes.
-- [community](https://github.com/kubernetes/community)
-  - Kubernetes community content
-- [gdrive](https://github.com/gdrive-org/gdrive)
-  - Google Drive CLI Client
-- [kustomize](https://github.com/kubernetes-sigs/kustomize)
-  - Customization of kubernetes YAML configurations
-- [minikube](https://github.com/kubernetes/minikube)
-  - Run Kubernetes locally
-- [autoscaler](https://github.com/kubernetes/autoscaler)
-  - Autoscaling components for Kubernetes
-- [oauth2_proxy](https://github.com/pusher/oauth2_proxy)
-  - A reverse proxy that provides authentication with Google, Github or other providers.
-- [watermill](https://github.com/ThreeDotsLabs/watermill)
-  - Building event-driven applications the easy way in Go.
-- [terraform](https://github.com/hashicorp/terraform)
-  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [aws-vault](https://github.com/99designs/aws-vault)
-  - A vault for securely storing and accessing AWS credentials in development environments
-- [matterbridge](https://github.com/42wim/matterbridge)
-  - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocket.chat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix and more with REST API (mattermost not required!)
-- [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)
-  - Kubebuilder - SDK for building Kubernetes APIs using CRDs
-- [linkerd2](https://github.com/linkerd/linkerd2)
-  - A service mesh for Kubernetes and beyond. Main repo for Linkerd 2.x.
-- [vulcain](https://github.com/dunglas/vulcain)
-  - Use HTTP/2 Server Push to create fast and idiomatic client-driven REST APIs
-- [yq](https://github.com/mikefarah/yq)
-  - yq is a portable command-line YAML processor
-- [delve](https://github.com/go-delve/delve)
-  - Delve is a debugger for the Go programming language.
-- [cilium](https://github.com/cilium/cilium)
-  - API-aware Networking and Security using eBPF and XDP
-- [okteto](https://github.com/okteto/okteto)
-  - Build better applications by developing and testing your code directly in Kubernetes
-- [krew](https://github.com/kubernetes-sigs/krew)
-  - 📦 Find and install kubectl plugins
-- [nomad](https://github.com/hashicorp/nomad)
-  - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [cloud-on-k8s](https://github.com/elastic/cloud-on-k8s)
-  - Elastic Cloud on Kubernetes
+- [atlantis](https://github.com/runatlantis/atlantis)
+  - Terraform Pull Request Automation
+- [pgx](https://github.com/jackc/pgx)
+  - PostgreSQL driver and toolkit for Go
+- [naabu](https://github.com/projectdiscovery/naabu)
+  - A fast port scanner written in go with focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
+- [helm](https://github.com/helm/helm)
+  - The Kubernetes Package Manager
+- [kube-scan](https://github.com/octarinesec/kube-scan)
+  - kube-scan: Octarine k8s cluster risk assessment tool
+- [buildkit](https://github.com/moby/buildkit)
+  - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [skaffold](https://github.com/GoogleContainerTools/skaffold)
+  - Easy and Repeatable Kubernetes Development
+- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
+  - Terraform AWS provider
+- [charts](https://github.com/helm/charts)
+  - Curated applications for Kubernetes
+- [trivy](https://github.com/aquasecurity/trivy)
+  - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
+- [cortex](https://github.com/cortexproject/cortex)
+  - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
+- [mux](https://github.com/gorilla/mux)
+  - A powerful HTTP router and URL matcher for building Go web servers with 🦍
 - [linuxkit](https://github.com/linuxkit/linuxkit)
   - A toolkit for building secure, portable and lean operating systems for containers
-- [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway)
-  - gRPC to JSON proxy generator following the gRPC HTTP spec
+- [pipeline](https://github.com/tektoncd/pipeline)
+  - A K8s-native Pipeline resource.
+- [gophish](https://github.com/gophish/gophish)
+  - Open-Source Phishing Toolkit
+- [satellite](https://github.com/t94j0/satellite)
+  - easy-to-use payload hosting
+- [goa](https://github.com/goadesign/goa)
+  - Design-based APIs and microservices in Go
+- [origin](https://github.com/openshift/origin)
+  - The self-managing, auto-upgrading, Kubernetes distribution for everyone
+- [ingress-nginx](https://github.com/kubernetes/ingress-nginx)
+  - NGINX Ingress Controller for Kubernetes
+- [libpod](https://github.com/containers/libpod)
+  - libpod is a library used to create container pods. Home of Podman.
+- [hcl](https://github.com/hashicorp/hcl)
+  - HCL is the HashiCorp configuration language.
+- [argo-cd](https://github.com/argoproj/argo-cd)
+  - Declarative continuous deployment for Kubernetes.

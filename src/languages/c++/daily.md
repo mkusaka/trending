@@ -1,51 +1,51 @@
 # c++
-- [esphome](https://github.com/esphome/esphome)
-  - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
-- [PowerToys](https://github.com/microsoft/PowerToys)
-  - Windows system utilities to maximize productivity
-- [simdjson](https://github.com/lemire/simdjson)
-  - Parsing gigabytes of JSON per second
-- [AI4Animation](https://github.com/sebastianstarke/AI4Animation)
-  - Bringing Characters to Life with Computer Brains in Unity
-- [seq](https://github.com/seq-lang/seq)
-  - A high-performance, Pythonic language for bioinformatics
-- [osquery](https://github.com/osquery/osquery)
-  - SQL powered operating system instrumentation, monitoring, and analytics.
-- [serenity](https://github.com/SerenityOS/serenity)
-  - Serenity Operating System
+- [bitcoin](https://github.com/bitcoin/bitcoin)
+  - Bitcoin Core integration/staging tree
+- [falco](https://github.com/falcosecurity/falco)
+  - Cloud Native Runtime Security
+- [DeepSpeech](https://github.com/mozilla/DeepSpeech)
+  - A TensorFlow implementation of Baidu's DeepSpeech architecture
+- [Tasmota](https://github.com/arendst/Tasmota)
+  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
+- [The-Open-Book](https://github.com/joeycastillo/The-Open-Book)
+  - 
 - [llvm-project](https://github.com/llvm/llvm-project)
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
-- [GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
-  - Starting code for the GildedRose Refactoring Kata in many programming languages.
-- [openalpr](https://github.com/openalpr/openalpr)
-  - Automatic License Plate Recognition library
-- [srsLTE](https://github.com/srsLTE/srsLTE)
-  - Open source SDR LTE software suite from Software Radio Systems (SRS)
+- [PowerToys](https://github.com/microsoft/PowerToys)
+  - Windows system utilities to maximize productivity
+- [Catch2](https://github.com/catchorg/Catch2)
+  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [swift](https://github.com/apple/swift)
+  - The Swift Programming Language
+- [Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+  - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
 - [habitat-sim](https://github.com/facebookresearch/habitat-sim)
   - A flexible, high-performance 3D simulator for Embodied AI research.
-- [ardupilot](https://github.com/ArduPilot/ardupilot)
-  - ArduPlane, ArduCopter, ArduRover source
-- [gnuradio](https://github.com/gnuradio/gnuradio)
-  - GNU Radio
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [opencv](https://github.com/opencv/opencv)
-  - Open Source Computer Vision Library
-- [AWS-JPL-OSR-Challenge](https://github.com/Christopheraburns/AWS-JPL-OSR-Challenge)
-  - Official repo of the AWS-JPL Open Source Rover challenge
-- [assimp](https://github.com/assimp/assimp)
-  - The official Open-Asset-Import-Library Repository. Loads 40+ 3D file formats into one unified and clean data structure.
-- [perspective](https://github.com/finos/perspective)
-  - Streaming pivot visualization via WebAssembly
-- [PrusaSlicer](https://github.com/prusa3d/PrusaSlicer)
-  - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
-- [endless-sky](https://github.com/endless-sky/endless-sky)
-  - Space exploration, trading, and combat game.
-- [keepassxc](https://github.com/keepassxreboot/keepassxc)
-  - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+- [solidity](https://github.com/ethereum/solidity)
+  - Solidity, the Contract-Oriented Programming Language
+- [yuzu](https://github.com/yuzu-emu/yuzu)
+  - Nintendo Switch Emulator
+- [srsLTE](https://github.com/srsLTE/srsLTE)
+  - Open source SDR LTE software suite from Software Radio Systems (SRS)
+- [arrow](https://github.com/apache/arrow)
+  - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…
+- [foundationdb](https://github.com/apple/foundationdb)
+  - FoundationDB - the open source, distributed, transactional key-value store
+- [sentencepiece](https://github.com/google/sentencepiece)
+  - Unsupervised text tokenizer for Neural Network-based text generation.
+- [googletest](https://github.com/google/googletest)
+  - Googletest - Google Testing and Mocking Framework
+- [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native)
+  - Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
+- [wil](https://github.com/microsoft/wil)
+  - Windows Implementation Library
+- [moveit](https://github.com/ros-planning/moveit)
+  - 🤖 The MoveIt motion planning framework
 - [git-crypt](https://github.com/AGWA/git-crypt)
   - Transparent file encryption in git
-- [z3](https://github.com/Z3Prover/z3)
-  - The Z3 Theorem Prover
-- [tdesktop](https://github.com/telegramdesktop/tdesktop)
-  - Telegram Desktop messaging app
+- [rpcs3](https://github.com/RPCS3/rpcs3)
+  - PS3 emulator/debugger
+- [librealsense](https://github.com/IntelRealSense/librealsense)
+  - Intel® RealSense™ SDK
+- [parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap)
+  - A family of header-only, very fast and memory-friendly hashmap and btree containers.

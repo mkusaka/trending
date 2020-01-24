@@ -1,49 +1,50 @@
 # general
+- [tldr](https://github.com/tldr-pages/tldr) : Shell
+  - 📚 Simplified and community-driven man pages
+- [playwright](https://github.com/microsoft/playwright) : JavaScript
+  - Node library to automate Chromium, Firefox and WebKit browsers
+- [at-ps](https://github.com/specterops/at-ps) : PowerShell
+  - Adversary Tactics - PowerShell Training
 - [backendlore](https://github.com/fpereiro/backendlore) : 
   - How I write backends
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) : 
   - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) : TeX
-  - Cheat Sheets
 - [city-roads](https://github.com/anvaka/city-roads) : JavaScript
   - Visualization of all roads within any city
-- [flax](https://github.com/google-research/flax) : Python
-- [naabu](https://github.com/projectdiscovery/naabu) : Go
-  - A fast port scanner written in go with focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
 - [awesome-react](https://github.com/enaqx/awesome-react) : 
   - A collection of awesome things regarding React ecosystem
-- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) : 
-  - A collection of various awesome lists for hackers, pentesters and security researchers
-- [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) : JavaScript
-  - A 30 days of JavaScript programming challenge
-- [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) : HTML
-  - A curated list of awesome warez and piracy links
-- [MNNKitDemo](https://github.com/alibaba/MNNKitDemo) : Objective-C
-  - MNN Kit Demo
-- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) : 
-  - 程序员如何优雅的挣零花钱
-- [istio](https://github.com/istio/istio) : Go
-  - Connect, secure, control, and observe services.
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) : JavaScript
-  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
-- [azure-powershell](https://github.com/Azure/azure-powershell) : C#
-  - Microsoft Azure PowerShell
-- [gatsby](https://github.com/gatsbyjs/gatsby) : JavaScript
-  - Build blazing fast, modern apps and websites with React
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
-  - Roadmap to becoming a web developer in 2020
-- [bank_app_neomorphism_flutter](https://github.com/MarcioQuimbundo/bank_app_neomorphism_flutter) : Dart
-- [tools_ui_1c](https://github.com/cpr1c/tools_ui_1c) : 1C Enterprise
-  - Универсальные инструменты 1C для управляемых форм
-- [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo) : Python
-  - A list of all named GANs!
-- [jest](https://github.com/facebook/jest) : JavaScript
-  - Delightful JavaScript Testing.
-- [react-router](https://github.com/ReactTraining/react-router) : JavaScript
-  - Declarative routing for React
 - [deno](https://github.com/denoland/deno) : TypeScript
   - A secure JavaScript and TypeScript runtime
-- [angular](https://github.com/angular/angular) : TypeScript
-  - One framework. Mobile & desktop.
-- [fourier](https://github.com/calebzulawski/fourier) : Rust
-  - Fast Fourier transforms (FFTs) in Rust
+- [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) : TeX
+  - Cheat Sheets
+- [DevYouTubeList](https://github.com/ErikCH/DevYouTubeList) : 
+  - List of Development YouTube Channels
+- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) : 
+  - 程序员如何优雅的挣零花钱
+- [public-apis](https://github.com/public-apis/public-apis) : Python
+  - A collective list of free APIs for use in software and web development.
+- [dash](https://github.com/plotly/dash) : Python
+  - Analytical Web Apps for Python & R. No JavaScript Required.
+- [envelope](https://github.com/specialprojects-experiments/envelope) : Kotlin
+  - An experimental app which temporarily transforms your phone into a simpler, calmer device. Currently supports Pixel 3a
+- [sops](https://github.com/mozilla/sops) : Go
+  - Simple and flexible tool for managing secrets
+- [flax](https://github.com/google-research/flax) : Python
+- [amazon-eks-ami](https://github.com/awslabs/amazon-eks-ami) : Shell
+  - Packer configuration for building a custom EKS AMI
+- [telegraf](https://github.com/influxdata/telegraf) : Go
+  - The plugin-driven server agent for collecting & reporting metrics.
+- [vscode](https://github.com/microsoft/vscode) : TypeScript
+  - Visual Studio Code
+- [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) : JavaScript
+  - A 30 days of JavaScript programming challenge
+- [phoenix](https://github.com/phoenixframework/phoenix) : Elixir
+  - Productive. Reliable. Fast.
+- [argo](https://github.com/argoproj/argo) : Go
+  - Argo Workflows: Get stuff done with Kubernetes.
+- [atlantis](https://github.com/runatlantis/atlantis) : Go
+  - Terraform Pull Request Automation
+- [cucumber](https://github.com/cucumber/cucumber) : Java
+  - Cucumber monorepo - building blocks for Cucumber in various languages
+- [awx](https://github.com/ansible/awx) : JavaScript
+  - AWX Project
