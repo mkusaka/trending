@@ -1,51 +1,51 @@
 # ruby
-- [devise](https://github.com/heartcombo/devise)
-  - Flexible authentication solution for Rails with Warden.
-- [rubocop](https://github.com/rubocop-hq/rubocop)
-  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [vagrant](https://github.com/hashicorp/vagrant)
-  - Vagrant is a tool for building and distributing development environments.
-- [dev.to](https://github.com/thepracticaldev/dev.to)
-  - Where programmers share ideas and help each other grow
-- [sorbet](https://github.com/sorbet/sorbet)
-  - A fast, powerful type checker designed for Ruby
-- [evil-winrm](https://github.com/Hackplayers/evil-winrm)
-  - The ultimate WinRM shell for hacking/pentesting
-- [choosealicense.com](https://github.com/github/choosealicense.com)
-  - A site to provide non-judgmental guidance on choosing a license for your open source project
-- [markup](https://github.com/github/markup)
-  - Determines which markup library to use to render a content file (e.g. README) on GitHub
-- [chewy](https://github.com/toptal/chewy)
-  - High-level Elasticsearch Ruby framework based on the official elasticsearch-ruby client
-- [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator)
-  - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
-- [linuxbrew-core](https://github.com/Homebrew/linuxbrew-core)
-  - 🍻🐧 Core formulae for the Homebrew package manager on Linux
-- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
-  - The Cocoa Dependency Manager.
+- [terraforming](https://github.com/dtan4/terraforming)
+  - Export existing AWS resources to Terraform style (tf, tfstate)
+- [rails](https://github.com/rails/rails)
+  - Ruby on Rails
+- [sinatra](https://github.com/sinatra/sinatra)
+  - Classy web-development dressed in a DSL (official / canonical repo)
+- [faker](https://github.com/faker-ruby/faker)
+  - A library for generating fake data such as names, addresses, and phone numbers.
+- [ruby-kafka](https://github.com/zendesk/ruby-kafka)
+  - A Ruby client library for Apache Kafka
 - [metasploit-framework](https://github.com/rapid7/metasploit-framework)
   - Metasploit Framework
-- [boltwash](https://github.com/puppetlabs/boltwash)
-  - Populate Wash from your Bolt inventory
-- [say-hello-ruby-onl01-seng-pt-012120](https://github.com/learn-co-students/say-hello-ruby-onl01-seng-pt-012120)
-  - 
-- [method-arguments-lab-onl01-seng-pt-012120](https://github.com/learn-co-students/method-arguments-lab-onl01-seng-pt-012120)
-  - 
-- [looping-while-until-onl01-seng-ft-012120](https://github.com/learn-co-students/looping-while-until-onl01-seng-ft-012120)
-  - 
-- [array-methods-lab-onl01-seng-ft-012120](https://github.com/learn-co-students/array-methods-lab-onl01-seng-ft-012120)
-  - 
-- [countdown-to-midnight-onl01-seng-ft-012120](https://github.com/learn-co-students/countdown-to-midnight-onl01-seng-ft-012120)
-  - 
-- [say-hello-ruby-onl01-seng-pt-012220](https://github.com/learn-co-students/say-hello-ruby-onl01-seng-pt-012220)
-  - 
-- [method-arguments-lab-onl01-seng-pt-012220](https://github.com/learn-co-students/method-arguments-lab-onl01-seng-pt-012220)
-  - 
-- [parrot-ruby-onl01-seng-pt-012120](https://github.com/learn-co-students/parrot-ruby-onl01-seng-pt-012120)
-  - 
-- [speaking-grandma-onl01-seng-pt-012220](https://github.com/learn-co-students/speaking-grandma-onl01-seng-pt-012220)
-  - 
-- [debugging-with-pry-onl01-seng-pt-012120](https://github.com/learn-co-students/debugging-with-pry-onl01-seng-pt-012120)
-  - 
-- [debugging-with-pry-onl01-seng-pt-012220](https://github.com/learn-co-students/debugging-with-pry-onl01-seng-pt-012220)
-  - 
+- [oxidized](https://github.com/ytti/oxidized)
+  - Oxidized is a network device configuration backup tool. It's a RANCID replacement!
+- [dev.to](https://github.com/thepracticaldev/dev.to)
+  - Where programmers share ideas and help each other grow
+- [grape](https://github.com/ruby-grape/grape)
+  - An opinionated framework for creating REST-like APIs in Ruby.
+- [logstash](https://github.com/elastic/logstash)
+  - Logstash - transport and process your logs, events, or other data
+- [gemoji](https://github.com/github/gemoji)
+  - Emoji images and names.
+- [fast_jsonapi](https://github.com/Netflix/fast_jsonapi)
+  - A lightning fast JSON:API serializer for Ruby Objects.
+- [devise](https://github.com/heartcombo/devise)
+  - Flexible authentication solution for Rails with Warden.
+- [octokit.rb](https://github.com/octokit/octokit.rb)
+  - Ruby toolkit for the GitHub API
+- [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening)
+  - This Ansible role provides numerous security-related configurations, providing all-round base protection.
+- [activeadmin](https://github.com/activeadmin/activeadmin)
+  - The administration framework for Ruby on Rails applications.
+- [factory_bot](https://github.com/thoughtbot/factory_bot)
+  - A library for setting up Ruby objects as test data.
+- [active_model_serializers](https://github.com/rails-api/active_model_serializers)
+  - ActiveModel::Serializer implementation and Rails hooks
+- [WhatWeb](https://github.com/urbanadventurer/WhatWeb)
+  - Next generation web scanner
+- [puppet-elasticsearch](https://github.com/elastic/puppet-elasticsearch)
+  - Elasticsearch Puppet module
+- [carrierwave](https://github.com/carrierwaveuploader/carrierwave)
+  - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
+- [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails)
+  - Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
+- [choosealicense.com](https://github.com/github/choosealicense.com)
+  - A site to provide non-judgmental guidance on choosing a license for your open source project
+- [bundler](https://github.com/rubygems/bundler)
+  - Manage your Ruby application's gem dependencies
+- [sidekiq](https://github.com/mperham/sidekiq)
+  - Simple, efficient background processing for Ruby
