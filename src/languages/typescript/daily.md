@@ -1,51 +1,51 @@
 # typescript
 - [deno](https://github.com/denoland/deno)
   - A secure JavaScript and TypeScript runtime
-- [vscode](https://github.com/microsoft/vscode)
-  - Visual Studio Code
-- [aws-cdk](https://github.com/aws/aws-cdk)
-  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
-- [vscode-cpptools](https://github.com/microsoft/vscode-cpptools)
-  - Official repository for the Microsoft C/C++ extension for VS Code.
-- [storybook](https://github.com/storybookjs/storybook)
-  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
-- [blueprint](https://github.com/palantir/blueprint)
-  - A React-based UI toolkit for the web
-- [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
-  - Tasks for Azure Pipelines
-- [amplify-js](https://github.com/aws-amplify/amplify-js)
-  - A declarative JavaScript library for application development using cloud services.
-- [TypeScript](https://github.com/microsoft/TypeScript)
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [apollo-server](https://github.com/apollographql/apollo-server)
-  - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
-- [graphql-tools](https://github.com/apollographql/graphql-tools)
-  - 🔧 Build, mock, and stitch a GraphQL schema using the schema language
-- [vue-storefront](https://github.com/DivanteLtd/vue-storefront)
-  - Vue Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported. Always Open Source, MIT license. Join us as contributor (contributors@vuestorefront.io).
-- [components](https://github.com/angular/components)
-  - Component infrastructure and Material Design components for Angular
-- [ngx-charts](https://github.com/swimlane/ngx-charts)
-  - 📊 Declarative Charting Framework for Angular
-- [highcharts](https://github.com/highcharts/highcharts)
-  - Highcharts JS, the JavaScript charting framework
-- [tslint](https://github.com/palantir/tslint)
-  - 🚦 An extensible linter for the TypeScript language
-- [sweetalert](https://github.com/t4t5/sweetalert)
-  - A beautiful replacement for JavaScript's "alert"
-- [prisma2](https://github.com/prisma/prisma2)
-  - Modern DB toolkit to query, migrate and model your database
-- [react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide)
-  - The complete guide to static typing in "React & Redux" apps using TypeScript
-- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
-  - The source for REST API specifications for Microsoft Azure.
 - [angular-cli](https://github.com/angular/angular-cli)
   - CLI tool for Angular
-- [ngx-admin](https://github.com/akveo/ngx-admin)
-  - Customizable admin dashboard template based on Angular 8+
-- [react-native-tab-view](https://github.com/react-native-community/react-native-tab-view)
-  - A cross-platform Tab View component for React Native
-- [smooth-scrollbar](https://github.com/idiotWu/smooth-scrollbar)
-  - Customizable, Pluginable, and High Performance Scrollbars!
+- [rough](https://github.com/pshihn/rough)
+  - Create graphics with a hand-drawn, sketchy, appearance
+- [ultimate-backend](https://github.com/juicycleff/ultimate-backend)
+  - Multi tenant SaaS starter kit with cqrs graphql microservice architecture, apollo federation, event source and authentication
+- [spectral](https://github.com/stoplightio/spectral)
+  - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v2 & v3.
+- [the-gems-game](https://github.com/sharpfives/the-gems-game)
+  - A point-and-click action adventure game made for Github Game Off 2019
+- [vscode](https://github.com/microsoft/vscode)
+  - Visual Studio Code
+- [angular](https://github.com/angular/angular)
+  - One framework. Mobile & desktop.
+- [material-ui-pickers](https://github.com/mui-org/material-ui-pickers)
+  - Date & Time pickers, built with ❤️ for @material-ui/core
+- [lwc](https://github.com/salesforce/lwc)
+  - ⚡️ LWC - A Blazing Fast, Enterprise-Grade Web Components Foundation
+- [now](https://github.com/zeit/now)
+  - The easiest way to deploy websites
+- [desktop](https://github.com/desktop/desktop)
+  - Simple collaboration from your desktop
+- [amplify-js](https://github.com/aws-amplify/amplify-js)
+  - A declarative JavaScript library for application development using cloud services.
+- [toolkit](https://github.com/actions/toolkit)
+  - The GitHub ToolKit for developing GitHub Actions.
+- [formik](https://github.com/jaredpalmer/formik)
+  - Build forms in React, without the tears 😭
+- [prisma2](https://github.com/prisma/prisma2)
+  - Modern DB toolkit to query, migrate and model your database
+- [WebWindow](https://github.com/SteveSandersonMS/WebWindow)
+  - .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental.
+- [react-dnd](https://github.com/react-dnd/react-dnd)
+  - Drag and Drop for React
+- [tslint](https://github.com/palantir/tslint)
+  - 🚦 An extensible linter for the TypeScript language
+- [storybook](https://github.com/storybookjs/storybook)
+  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+- [refined-github](https://github.com/sindresorhus/refined-github)
+  - Browser extension that simplifies the GitHub interface and adds useful features
+- [code-settings-sync](https://github.com/shanalikhan/code-settings-sync)
+  - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST 💪🌴
+- [react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide)
+  - The complete guide to static typing in "React & Redux" apps using TypeScript
+- [hospitalrun-frontend](https://github.com/HospitalRun/hospitalrun-frontend)
+  - Frontend for HospitalRun
+- [coc.nvim](https://github.com/neoclide/coc.nvim)
+  - Intellisense engine for vim8 & neovim, full language server protocol support as VSCode

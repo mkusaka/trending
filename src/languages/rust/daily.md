@@ -1,51 +1,51 @@
 # rust
-- [fourier](https://github.com/calebzulawski/fourier)
-  - Fast Fourier transforms (FFTs) in Rust
-- [juniper](https://github.com/graphql-rust/juniper)
-  - GraphQL server library for Rust
-- [wasmtime](https://github.com/bytecodealliance/wasmtime)
-  - Standalone JIT-style runtime for WebAssembly, using Cranelift
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The cross-shell prompt for astronauts
-- [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim)
-  - Language Server Protocol (LSP) support for vim and neovim.
-- [vector](https://github.com/timberio/vector)
-  - Collect, transform, & route all observability data with one simple tool.
-- [rust-graphql-juniper-actix-diesel-postgres](https://github.com/lucperkins/rust-graphql-juniper-actix-diesel-postgres)
-  - An example GraphQL server written in Rust
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [fd](https://github.com/sharkdp/fd)
-  - A simple, fast and user-friendly alternative to 'find'
-- [duck](https://github.com/spectresystems/duck)
-  - A build system agnostic build monitor written in Rust
-- [py-spy](https://github.com/benfred/py-spy)
-  - Sampling profiler for Python programs
-- [krustlet](https://github.com/deislabs/krustlet)
-  - Kubernetes Rust Kubelet
+- [tarkov](https://github.com/dank/tarkov)
+  - A Rust library for the Escape from Tarkov API
+- [rweb](https://github.com/kdy1/rweb)
+  - Yet another web server framework for rust
 - [alacritty](https://github.com/alacritty/alacritty)
   - A cross-platform, GPU-accelerated terminal emulator
-- [libpnet](https://github.com/libpnet/libpnet)
-  - Cross-platform, low level networking using the Rust programming language.
+- [fd](https://github.com/sharkdp/fd)
+  - A simple, fast and user-friendly alternative to 'find'
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
+- [seed](https://github.com/seed-rs/seed)
+  - A Rust framework for creating web apps
 - [rust](https://github.com/rust-lang/rust)
   - Empowering everyone to build reliable and efficient software.
-- [redshirt](https://github.com/tomaka/redshirt)
-  - Operating system
-- [firecracker](https://github.com/firecracker-microvm/firecracker)
-  - Secure and fast microVMs for serverless computing.
+- [ggez](https://github.com/ggez/ggez)
+  - Rust library to create a Good Game Easily
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - ripgrep recursively searches directories for a regex pattern
+- [rustlings](https://github.com/rust-lang/rustlings)
+  - Small exercises to get you used to reading and writing Rust code!
+- [ruffle](https://github.com/ruffle-rs/ruffle)
+  - A Flash Player emulator written in Rust
+- [lumen](https://github.com/lumen/lumen)
+  - An alternative BEAM implementation, designed for WebAssembly
+- [ytop](https://github.com/cjbassi/ytop)
+  - A TUI system monitor written in Rust
+- [handlebars-rust](https://github.com/sunng87/handlebars-rust)
+  - Rust templating with Handlebars
+- [libpnet](https://github.com/libpnet/libpnet)
+  - Cross-platform, low level networking using the Rust programming language.
+- [cargo-generate](https://github.com/ashleygwilliams/cargo-generate)
+  - cargo, make me a project
+- [tauri](https://github.com/tauri-apps/tauri)
+  - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
+- [flutter-rs](https://github.com/flutter-rs/flutter-rs)
+  - Build beautiful desktop apps with flutter and rust. 🌠
+- [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
+  - Ultra relevant, instant, and typo-tolerant full-text search API
+- [duck](https://github.com/spectresystems/duck)
+  - A build system agnostic build monitor written in Rust
+- [parity-ethereum](https://github.com/paritytech/parity-ethereum)
+  - The fast, light, and robust EVM and WASM client.
+- [rust](https://github.com/tensorflow/rust)
+  - Rust language bindings for TensorFlow
 - [tealdeer](https://github.com/dbrgn/tealdeer)
   - A very fast implementation of tldr in Rust.
-- [jormungandr](https://github.com/input-output-hk/jormungandr)
-  - aspiring blockchain node
-- [futures-rs](https://github.com/rust-lang/futures-rs)
-  - Zero-cost asynchronous programming in Rust
-- [rusty_v8](https://github.com/denoland/rusty_v8)
-  - V8 javascript bindings for Rust
-- [rustup](https://github.com/rust-lang/rustup)
-  - The Rust toolchain installer
-- [nushell](https://github.com/nushell/nushell)
-  - A modern shell written in Rust
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
+- [redshirt](https://github.com/tomaka/redshirt)
+  - Operating system
+- [tantivy](https://github.com/tantivy-search/tantivy)
+  - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust

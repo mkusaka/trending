@@ -1,51 +1,51 @@
 # ruby
-- [terraforming](https://github.com/dtan4/terraforming)
-  - Export existing AWS resources to Terraform style (tf, tfstate)
-- [rails](https://github.com/rails/rails)
-  - Ruby on Rails
-- [sinatra](https://github.com/sinatra/sinatra)
-  - Classy web-development dressed in a DSL (official / canonical repo)
-- [faker](https://github.com/faker-ruby/faker)
-  - A library for generating fake data such as names, addresses, and phone numbers.
-- [ruby-kafka](https://github.com/zendesk/ruby-kafka)
-  - A Ruby client library for Apache Kafka
-- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
-  - Metasploit Framework
-- [oxidized](https://github.com/ytti/oxidized)
-  - Oxidized is a network device configuration backup tool. It's a RANCID replacement!
-- [dev.to](https://github.com/thepracticaldev/dev.to)
-  - Where programmers share ideas and help each other grow
-- [grape](https://github.com/ruby-grape/grape)
-  - An opinionated framework for creating REST-like APIs in Ruby.
-- [logstash](https://github.com/elastic/logstash)
-  - Logstash - transport and process your logs, events, or other data
-- [gemoji](https://github.com/github/gemoji)
-  - Emoji images and names.
-- [fast_jsonapi](https://github.com/Netflix/fast_jsonapi)
-  - A lightning fast JSON:API serializer for Ruby Objects.
+- [chatwoot](https://github.com/chatwoot/chatwoot)
+  - Simple and elegant live chat software 🔥💬
+- [actionview-component](https://github.com/github/actionview-component)
+  - View components for Rails
+- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+  - A curated list of awesome awesomeness
+- [linuxbrew-core](https://github.com/Homebrew/linuxbrew-core)
+  - 🍻🐧 Core formulae for the Homebrew package manager on Linux
+- [markup](https://github.com/github/markup)
+  - Determines which markup library to use to render a content file (e.g. README) on GitHub
+- [postal](https://github.com/postalhq/postal)
+  - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
+- [linguist](https://github.com/github/linguist)
+  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+- [fastlane](https://github.com/fastlane/fastlane)
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [scientist](https://github.com/github/scientist)
+  - 🔬 A Ruby library for carefully refactoring critical paths.
 - [devise](https://github.com/heartcombo/devise)
   - Flexible authentication solution for Rails with Warden.
-- [octokit.rb](https://github.com/octokit/octokit.rb)
-  - Ruby toolkit for the GitHub API
-- [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening)
-  - This Ansible role provides numerous security-related configurations, providing all-round base protection.
-- [activeadmin](https://github.com/activeadmin/activeadmin)
-  - The administration framework for Ruby on Rails applications.
-- [factory_bot](https://github.com/thoughtbot/factory_bot)
-  - A library for setting up Ruby objects as test data.
-- [active_model_serializers](https://github.com/rails-api/active_model_serializers)
-  - ActiveModel::Serializer implementation and Rails hooks
-- [WhatWeb](https://github.com/urbanadventurer/WhatWeb)
-  - Next generation web scanner
-- [puppet-elasticsearch](https://github.com/elastic/puppet-elasticsearch)
-  - Elasticsearch Puppet module
-- [carrierwave](https://github.com/carrierwaveuploader/carrierwave)
-  - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
-- [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails)
-  - Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
+- [discourse](https://github.com/discourse/discourse)
+  - A platform for community discussion. Free, open, simple.
 - [choosealicense.com](https://github.com/github/choosealicense.com)
   - A site to provide non-judgmental guidance on choosing a license for your open source project
-- [bundler](https://github.com/rubygems/bundler)
-  - Manage your Ruby application's gem dependencies
-- [sidekiq](https://github.com/mperham/sidekiq)
-  - Simple, efficient background processing for Ruby
+- [homebrew-core](https://github.com/Homebrew/homebrew-core)
+  - 🍻 Default formulae for the missing package manager for macOS
+- [barber](https://github.com/michaeleisel/barber)
+  - Fast build times for big Swift projects
+- [qa](https://github.com/thomas-mcdonald/qa)
+  - QA is a question & answer application (and eternal side-project)
+- [anagram-detector-online-web-sp-000](https://github.com/learn-co-students/anagram-detector-online-web-sp-000)
+  - 
+- [looping-while-until-onl01-seng-pt-012220](https://github.com/learn-co-students/looping-while-until-onl01-seng-pt-012220)
+  - 
+- [array-CRUD-lab-onl01-seng-pt-012220](https://github.com/learn-co-students/array-CRUD-lab-onl01-seng-pt-012220)
+  - 
+- [looping-times-onl01-seng-pt-012120](https://github.com/learn-co-students/looping-times-onl01-seng-pt-012120)
+  - 
+- [other-hash-methods-code-along-onl01-seng-ft-012120](https://github.com/learn-co-students/other-hash-methods-code-along-onl01-seng-ft-012120)
+  - 
+- [triangle-classification-online-web-pt-120919](https://github.com/learn-co-students/triangle-classification-online-web-pt-120919)
+  - 
+- [array-methods-lab-onl01-seng-pt-012220](https://github.com/learn-co-students/array-methods-lab-onl01-seng-pt-012220)
+  - 
+- [countdown-to-midnight-onl01-seng-pt-012220](https://github.com/learn-co-students/countdown-to-midnight-onl01-seng-pt-012220)
+  - 
+- [oo-custom-errors-online-web-pt-120919](https://github.com/learn-co-students/oo-custom-errors-online-web-pt-120919)
+  - 
+- [ruby-intro-to-hashes-lab-onl01-seng-ft-012120](https://github.com/learn-co-students/ruby-intro-to-hashes-lab-onl01-seng-ft-012120)
+  - 

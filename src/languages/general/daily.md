@@ -1,50 +1,51 @@
 # general
-- [tldr](https://github.com/tldr-pages/tldr) : Shell
-  - 📚 Simplified and community-driven man pages
-- [playwright](https://github.com/microsoft/playwright) : JavaScript
-  - Node library to automate Chromium, Firefox and WebKit browsers
-- [at-ps](https://github.com/specterops/at-ps) : PowerShell
-  - Adversary Tactics - PowerShell Training
-- [backendlore](https://github.com/fpereiro/backendlore) : 
-  - How I write backends
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) : 
   - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [city-roads](https://github.com/anvaka/city-roads) : JavaScript
-  - Visualization of all roads within any city
-- [awesome-react](https://github.com/enaqx/awesome-react) : 
-  - A collection of awesome things regarding React ecosystem
-- [deno](https://github.com/denoland/deno) : TypeScript
-  - A secure JavaScript and TypeScript runtime
-- [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) : TeX
-  - Cheat Sheets
+- [playwright](https://github.com/microsoft/playwright) : JavaScript
+  - Node library to automate Chromium, Firefox and WebKit with a single API
+- [spot-sdk](https://github.com/boston-dynamics/spot-sdk) : HTML
+  - Spot SDK repo
+- [backendlore](https://github.com/fpereiro/backendlore) : 
+  - How I write backends
+- [systemd](https://github.com/systemd/systemd) : C
+  - The systemd System and Service Manager
 - [DevYouTubeList](https://github.com/ErikCH/DevYouTubeList) : 
   - List of Development YouTube Channels
-- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) : 
-  - 程序员如何优雅的挣零花钱
+- [at-ps](https://github.com/specterops/at-ps) : PowerShell
+  - Adversary Tactics - PowerShell Training
+- [deno](https://github.com/denoland/deno) : TypeScript
+  - A secure JavaScript and TypeScript runtime
 - [public-apis](https://github.com/public-apis/public-apis) : Python
   - A collective list of free APIs for use in software and web development.
-- [dash](https://github.com/plotly/dash) : Python
-  - Analytical Web Apps for Python & R. No JavaScript Required.
-- [envelope](https://github.com/specialprojects-experiments/envelope) : Kotlin
-  - An experimental app which temporarily transforms your phone into a simpler, calmer device. Currently supports Pixel 3a
-- [sops](https://github.com/mozilla/sops) : Go
-  - Simple and flexible tool for managing secrets
-- [flax](https://github.com/google-research/flax) : Python
-- [amazon-eks-ami](https://github.com/awslabs/amazon-eks-ami) : Shell
-  - Packer configuration for building a custom EKS AMI
-- [telegraf](https://github.com/influxdata/telegraf) : Go
-  - The plugin-driven server agent for collecting & reporting metrics.
-- [vscode](https://github.com/microsoft/vscode) : TypeScript
-  - Visual Studio Code
-- [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) : JavaScript
-  - A 30 days of JavaScript programming challenge
-- [phoenix](https://github.com/phoenixframework/phoenix) : Elixir
-  - Productive. Reliable. Fast.
-- [argo](https://github.com/argoproj/argo) : Go
-  - Argo Workflows: Get stuff done with Kubernetes.
-- [atlantis](https://github.com/runatlantis/atlantis) : Go
-  - Terraform Pull Request Automation
-- [cucumber](https://github.com/cucumber/cucumber) : Java
-  - Cucumber monorepo - building blocks for Cucumber in various languages
-- [awx](https://github.com/ansible/awx) : JavaScript
-  - AWX Project
+- [deeplearning-models](https://github.com/rasbt/deeplearning-models) : Jupyter Notebook
+  - A collection of various deep learning architectures, models, and tips
+- [stat453-deep-learning-ss20](https://github.com/rasbt/stat453-deep-learning-ss20) : TeX
+  - STAT 453: Intro to Deep Learning @ UW-Madison (Spring 2020)
+- [next.js](https://github.com/zeit/next.js) : JavaScript
+  - The React Framework
+- [awesome-nestjs](https://github.com/juliandavidmr/awesome-nestjs) : 
+  - 😏 Curated list of NestJS
+- [city-roads](https://github.com/anvaka/city-roads) : JavaScript
+  - Visualization of all roads within any city
+- [quarkus](https://github.com/quarkusio/quarkus) : Java
+  - Quarkus: Supersonic Subatomic Java.
+- [angular-cli](https://github.com/angular/angular-cli) : TypeScript
+  - CLI tool for Angular
+- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) : 
+  - A list of awesome beginners-friendly projects.
+- [Javascript](https://github.com/TheAlgorithms/Javascript) : JavaScript
+  - A repository for All algorithms implemented in Javascript (for educational purposes only)
+- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) : Go
+  - Terraform AWS provider
+- [Bug-bounty](https://github.com/sehno/Bug-bounty) : 
+  - Ressources for bug bounty hunting
+- [tarkov](https://github.com/dank/tarkov) : Rust
+  - A Rust library for the Escape from Tarkov API
+- [streamlit](https://github.com/streamlit/streamlit) : Python
+  - Streamlit — The fastest way to build custom ML tools
+- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) : 
+  - A topic-centric list of HQ open datasets. PR ☛☛☛
+- [gqlgen](https://github.com/99designs/gqlgen) : Go
+  - go generate based graphql server library
+- [nativefier](https://github.com/jiahaog/nativefier) : JavaScript
+  - Make any web page a desktop application

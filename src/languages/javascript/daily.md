@@ -1,51 +1,51 @@
 # javascript
 - [playwright](https://github.com/microsoft/playwright)
-  - Node library to automate Chromium, Firefox and WebKit browsers
+  - Node library to automate Chromium, Firefox and WebKit with a single API
+- [next.js](https://github.com/zeit/next.js)
+  - The React Framework
 - [city-roads](https://github.com/anvaka/city-roads)
   - Visualization of all roads within any city
-- [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript)
-  - A 30 days of JavaScript programming challenge
-- [awx](https://github.com/ansible/awx)
-  - AWX Project
-- [react-native-firebase](https://github.com/invertase/react-native-firebase)
-  - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
-- [theme-ui](https://github.com/system-ui/theme-ui)
-  - Build consistent, themeable React apps based on constraint-based design principles
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
-- [Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster)
-  - Marker Clustering plugin for Leaflet
-- [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js)
-  - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
+- [Javascript](https://github.com/TheAlgorithms/Javascript)
+  - A repository for All algorithms implemented in Javascript (for educational purposes only)
+- [nativefier](https://github.com/jiahaog/nativefier)
+  - Make any web page a desktop application
 - [semana-omnistack-10](https://github.com/Rocketseat/semana-omnistack-10)
   - Código da aplicação desenvolvida durante a Semana OmniStack 10.0 🚀
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
-- [amphtml](https://github.com/ampproject/amphtml)
-  - The AMP web component framework.
-- [strapi](https://github.com/strapi/strapi)
-  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
-- [react-router](https://github.com/ReactTraining/react-router)
-  - Declarative routing for React
-- [umbriel](https://github.com/Rocketseat/umbriel)
-  - 📪 Mail sending microservice with Node.js, TypeScript and MongoDB
-- [enzyme](https://github.com/airbnb/enzyme)
-  - JavaScript Testing utilities for React
-- [react-leaflet](https://github.com/PaulLeCam/react-leaflet)
-  - ⚛️ React components for 🍃 Leaflet maps
-- [awesome-uses](https://github.com/wesbos/awesome-uses)
-  - A list of /uses pages detailing developer setups, gear, software and configs.
-- [markdown-here](https://github.com/adam-p/markdown-here)
-  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
-- [react-popper](https://github.com/popperjs/react-popper)
-  - React wrapper around Popper.js (official)
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [create-react-app](https://github.com/facebook/create-react-app)
-  - Set up a modern web app by running one command.
-- [realtime](https://github.com/supabase/realtime)
-  - Listen to your to PostgreSQL database in realtime via websockets
-- [pro-react-redux](https://github.com/Juriy/pro-react-redux)
-  - Source code for Pro React Redux online course
-- [vue-enterprise-boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate)
-  - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI 3.
+- [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap)
+  - Roadmap to becoming a React developer in 2019
+- [Krunker_ZER0X](https://github.com/ZaresPlusX/Krunker_ZER0X)
+  - ᴜɴʟɪᴍɪᴛᴇᴅ ℤ𝔼ℝ𝟘𝕏 ᴘᴏᴡᴇʀ
+- [hello-webxr](https://github.com/MozillaReality/hello-webxr)
+  - Hello WebXR
+- [react-email-editor](https://github.com/unlayer/react-email-editor)
+  - Drag-n-Drop Email Editor Component for React.js
+- [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript)
+  - A 30 days of JavaScript programming challenge
+- [ifood-clone](https://github.com/leoobarbosa2/ifood-clone)
+  - Um clone do famoso aplicativo do Ifood, feito inteiramente com Javascript, através da utilização do React Native! Testado no Android & IOS. API com Json Server
+- [react-nice-dates](https://github.com/hernansartorio/react-nice-dates)
+  - A responsive, touch-friendly, and modular date picker library for React.
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+  - Headless Chrome Node.js API
+- [aos](https://github.com/michalsnik/aos)
+  - Animate on scroll library
+- [poolifier](https://github.com/pioardi/poolifier)
+  - Fast and small Nodejs thread pools implemented
+- [nivo](https://github.com/plouc/nivo)
+  - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
+- [gun](https://github.com/amark/gun)
+  - A realtime, decentralized, offline-first, graph protocol to sync the web.
+- [Leaflet](https://github.com/Leaflet/Leaflet)
+  - 🍃 JavaScript library for mobile-friendly interactive maps
+- [grapesjs](https://github.com/artf/grapesjs)
+  - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
+- [airframe-react](https://github.com/0wczar/airframe-react)
+  - Free Open Source High Quality Dashboard based on Bootstrap 4 & React 16: http://dashboards.webkom.co/react/airframe
+- [udacimak](https://github.com/udacimak/udacimak)
+  - Udacity Nanodegree and Course Downloader
+- [react-slack-clone](https://github.com/pusher/react-slack-clone)
+  - Complete chat application, built with Chatkit | by @lukejacksonn
+- [pino](https://github.com/pinojs/pino)
+  - 🌲 super fast, all natural json logger 🌲
+- [phonegap-app-developer](https://github.com/phonegap/phonegap-app-developer)
+  - PhoneGap Developer App
