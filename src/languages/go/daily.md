@@ -1,51 +1,51 @@
 # go
-- [sops](https://github.com/mozilla/sops)
-  - Simple and flexible tool for managing secrets
-- [telegraf](https://github.com/influxdata/telegraf)
-  - The plugin-driven server agent for collecting & reporting metrics.
-- [argo](https://github.com/argoproj/argo)
-  - Argo Workflows: Get stuff done with Kubernetes.
-- [atlantis](https://github.com/runatlantis/atlantis)
-  - Terraform Pull Request Automation
-- [pgx](https://github.com/jackc/pgx)
-  - PostgreSQL driver and toolkit for Go
-- [naabu](https://github.com/projectdiscovery/naabu)
-  - A fast port scanner written in go with focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
-- [helm](https://github.com/helm/helm)
-  - The Kubernetes Package Manager
-- [kube-scan](https://github.com/octarinesec/kube-scan)
-  - kube-scan: Octarine k8s cluster risk assessment tool
-- [buildkit](https://github.com/moby/buildkit)
-  - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [skaffold](https://github.com/GoogleContainerTools/skaffold)
-  - Easy and Repeatable Kubernetes Development
 - [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
   - Terraform AWS provider
-- [charts](https://github.com/helm/charts)
-  - Curated applications for Kubernetes
-- [trivy](https://github.com/aquasecurity/trivy)
-  - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
-- [cortex](https://github.com/cortexproject/cortex)
-  - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
-- [mux](https://github.com/gorilla/mux)
-  - A powerful HTTP router and URL matcher for building Go web servers with 🦍
-- [linuxkit](https://github.com/linuxkit/linuxkit)
-  - A toolkit for building secure, portable and lean operating systems for containers
-- [pipeline](https://github.com/tektoncd/pipeline)
-  - A K8s-native Pipeline resource.
-- [gophish](https://github.com/gophish/gophish)
-  - Open-Source Phishing Toolkit
-- [satellite](https://github.com/t94j0/satellite)
-  - easy-to-use payload hosting
-- [goa](https://github.com/goadesign/goa)
-  - Design-based APIs and microservices in Go
-- [origin](https://github.com/openshift/origin)
-  - The self-managing, auto-upgrading, Kubernetes distribution for everyone
-- [ingress-nginx](https://github.com/kubernetes/ingress-nginx)
-  - NGINX Ingress Controller for Kubernetes
-- [libpod](https://github.com/containers/libpod)
-  - libpod is a library used to create container pods. Home of Podman.
-- [hcl](https://github.com/hashicorp/hcl)
-  - HCL is the HashiCorp configuration language.
-- [argo-cd](https://github.com/argoproj/argo-cd)
-  - Declarative continuous deployment for Kubernetes.
+- [gqlgen](https://github.com/99designs/gqlgen)
+  - go generate based graphql server library
+- [naabu](https://github.com/projectdiscovery/naabu)
+  - A fast port scanner written in go with focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
+- [cli](https://github.com/docker/cli)
+  - The Docker CLI
+- [stripe-cli](https://github.com/stripe/stripe-cli)
+  - A command-line tool for Stripe
+- [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
+  - Network-wide ads & trackers blocking DNS server
+- [hub](https://github.com/github/hub)
+  - A command-line tool that makes git easier to use with GitHub.
+- [helm](https://github.com/helm/helm)
+  - The Kubernetes Package Manager
+- [skaffold](https://github.com/GoogleContainerTools/skaffold)
+  - Easy and Repeatable Kubernetes Development
+- [octant](https://github.com/vmware-tanzu/octant)
+  - A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
+- [k9s](https://github.com/derailed/k9s)
+  - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [go](https://github.com/golang/go)
+  - The Go programming language
+- [glow](https://github.com/charmbracelet/glow)
+  - Render markdown on the CLI, with pizzazz! 💅🏻
+- [traefik](https://github.com/containous/traefik)
+  - The Cloud Native Edge Router
+- [buildah](https://github.com/containers/buildah)
+  - A tool that facilitates building OCI images
+- [dive](https://github.com/wagoodman/dive)
+  - A tool for exploring each layer in a docker image
+- [autoscaler](https://github.com/kubernetes/autoscaler)
+  - Autoscaling components for Kubernetes
+- [go-ethereum](https://github.com/ethereum/go-ethereum)
+  - Official Go implementation of the Ethereum protocol
+- [helmfile](https://github.com/roboll/helmfile)
+  - Deploy Kubernetes Helm Charts
+- [git-sync](https://github.com/kubernetes/git-sync)
+  - A sidecar app which clones a git repo and keeps it in sync with the upstream.
+- [enhancements](https://github.com/kubernetes/enhancements)
+  - Features tracking repo for Kubernetes releases
+- [micro](https://github.com/zyedidia/micro)
+  - A modern and intuitive terminal-based text editor
+- [bolt](https://github.com/boltdb/bolt)
+  - An embedded key/value database for Go.
+- [gdrive](https://github.com/gdrive-org/gdrive)
+  - Google Drive CLI Client
+- [websocket](https://github.com/gorilla/websocket)
+  - A fast, well-tested and widely used WebSocket implementation for Go.

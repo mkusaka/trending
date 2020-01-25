@@ -1,51 +1,51 @@
 # c++
-- [bitcoin](https://github.com/bitcoin/bitcoin)
-  - Bitcoin Core integration/staging tree
-- [falco](https://github.com/falcosecurity/falco)
-  - Cloud Native Runtime Security
-- [DeepSpeech](https://github.com/mozilla/DeepSpeech)
-  - A TensorFlow implementation of Baidu's DeepSpeech architecture
-- [Tasmota](https://github.com/arendst/Tasmota)
-  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
+- [XSpotify](https://github.com/meik97/XSpotify)
+  - A modified Spotify client with DRM bypass.
 - [The-Open-Book](https://github.com/joeycastillo/The-Open-Book)
   - 
-- [llvm-project](https://github.com/llvm/llvm-project)
-  - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
-- [PowerToys](https://github.com/microsoft/PowerToys)
-  - Windows system utilities to maximize productivity
-- [Catch2](https://github.com/catchorg/Catch2)
-  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-- [swift](https://github.com/apple/swift)
-  - The Swift Programming Language
-- [Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-  - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
-- [habitat-sim](https://github.com/facebookresearch/habitat-sim)
-  - A flexible, high-performance 3D simulator for Embodied AI research.
-- [solidity](https://github.com/ethereum/solidity)
-  - Solidity, the Contract-Oriented Programming Language
-- [yuzu](https://github.com/yuzu-emu/yuzu)
-  - Nintendo Switch Emulator
-- [srsLTE](https://github.com/srsLTE/srsLTE)
-  - Open source SDR LTE software suite from Software Radio Systems (SRS)
-- [arrow](https://github.com/apache/arrow)
-  - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…
-- [foundationdb](https://github.com/apple/foundationdb)
-  - FoundationDB - the open source, distributed, transactional key-value store
-- [sentencepiece](https://github.com/google/sentencepiece)
-  - Unsupervised text tokenizer for Neural Network-based text generation.
 - [googletest](https://github.com/google/googletest)
   - Googletest - Google Testing and Mocking Framework
-- [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native)
-  - Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
-- [wil](https://github.com/microsoft/wil)
-  - Windows Implementation Library
-- [moveit](https://github.com/ros-planning/moveit)
-  - 🤖 The MoveIt motion planning framework
-- [git-crypt](https://github.com/AGWA/git-crypt)
-  - Transparent file encryption in git
+- [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)
+  - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects
+- [godot](https://github.com/godotengine/godot)
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [CNTK](https://github.com/microsoft/CNTK)
+  - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
+- [EAST](https://github.com/argman/EAST)
+  - A tensorflow implementation of EAST text detector
+- [Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+  - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
+- [TensorRT](https://github.com/NVIDIA/TensorRT)
+  - TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.
+- [WLED](https://github.com/Aircoookie/WLED)
+  - Control WS2812B RGB LEDs with an ESP8266 over WiFi!
+- [reactphysics3d](https://github.com/DanielChappuis/reactphysics3d)
+  - Open source C++ physics engine library in 3D
+- [ByePg](https://github.com/can1357/ByePg)
+  - Defeating Patchguard universally for Windows 8, Windows 8.1 and all versions of Windows 10 regardless of HVCI
 - [rpcs3](https://github.com/RPCS3/rpcs3)
   - PS3 emulator/debugger
-- [librealsense](https://github.com/IntelRealSense/librealsense)
-  - Intel® RealSense™ SDK
-- [parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap)
-  - A family of header-only, very fast and memory-friendly hashmap and btree containers.
+- [Catch2](https://github.com/catchorg/Catch2)
+  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [tensorflow](https://github.com/tensorflow/tensorflow)
+  - An Open Source Machine Learning Framework for Everyone
+- [simdjson](https://github.com/lemire/simdjson)
+  - Parsing gigabytes of JSON per second
+- [kubedoom](https://github.com/storax/kubedoom)
+  - Kill Kubernetes pods by playing Id's DOOM!
+- [catboost](https://github.com/catboost/catboost)
+  - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
+- [DALI](https://github.com/NVIDIA/DALI)
+  - A library containing both highly optimized building blocks and an execution engine for data pre-processing in deep learning applications
+- [Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows)
+  - An installation and update framework for Windows desktop apps
+- [git-crypt](https://github.com/AGWA/git-crypt)
+  - Transparent file encryption in git
+- [dlib](https://github.com/davisking/dlib)
+  - A toolkit for making real world machine learning and data analysis applications in C++
+- [swift](https://github.com/apple/swift)
+  - The Swift Programming Language
+- [falco](https://github.com/falcosecurity/falco)
+  - Cloud Native Runtime Security
+- [pytorch](https://github.com/pytorch/pytorch)
+  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
