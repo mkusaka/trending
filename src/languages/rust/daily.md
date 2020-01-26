@@ -1,51 +1,51 @@
 # rust
+- [starship](https://github.com/starship/starship)
+  - ☄🌌️ The cross-shell prompt for astronauts
+- [findomain](https://github.com/Edu4rdSHL/findomain)
+  - The fastest and cross-platform subdomain enumerator, don't waste your time.
+- [spotify-tui](https://github.com/Rigellute/spotify-tui)
+  - Spotify for the terminal written in Rust 🚀
 - [tarkov](https://github.com/dank/tarkov)
   - A Rust library for the Escape from Tarkov API
-- [rweb](https://github.com/kdy1/rweb)
-  - Yet another web server framework for rust
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
-- [fd](https://github.com/sharkdp/fd)
-  - A simple, fast and user-friendly alternative to 'find'
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-  - A curated list of Rust code and resources.
-- [seed](https://github.com/seed-rs/seed)
-  - A Rust framework for creating web apps
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [ggez](https://github.com/ggez/ggez)
-  - Rust library to create a Good Game Easily
-- [ripgrep](https://github.com/BurntSushi/ripgrep)
-  - ripgrep recursively searches directories for a regex pattern
-- [rustlings](https://github.com/rust-lang/rustlings)
-  - Small exercises to get you used to reading and writing Rust code!
-- [ruffle](https://github.com/ruffle-rs/ruffle)
-  - A Flash Player emulator written in Rust
-- [lumen](https://github.com/lumen/lumen)
-  - An alternative BEAM implementation, designed for WebAssembly
-- [ytop](https://github.com/cjbassi/ytop)
-  - A TUI system monitor written in Rust
-- [handlebars-rust](https://github.com/sunng87/handlebars-rust)
-  - Rust templating with Handlebars
-- [libpnet](https://github.com/libpnet/libpnet)
-  - Cross-platform, low level networking using the Rust programming language.
-- [cargo-generate](https://github.com/ashleygwilliams/cargo-generate)
-  - cargo, make me a project
+- [jsparagus](https://github.com/mozilla-spidermonkey/jsparagus)
+  - Parser generators
+- [wasm3-rs](https://github.com/Veykril/wasm3-rs)
+  - Rust wrapper for WASM3(https://github.com/wasm3/wasm3)
 - [tauri](https://github.com/tauri-apps/tauri)
   - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
-- [flutter-rs](https://github.com/flutter-rs/flutter-rs)
-  - Build beautiful desktop apps with flutter and rust. 🌠
+- [druid](https://github.com/xi-editor/druid)
+  - A data-first Rust-native UI design toolkit.
+- [ytop](https://github.com/cjbassi/ytop)
+  - A TUI system monitor written in Rust
+- [rusty_v8](https://github.com/denoland/rusty_v8)
+  - V8 javascript bindings for Rust
+- [async-std](https://github.com/async-rs/async-std)
+  - Async version of the Rust standard library
+- [rweb](https://github.com/kdy1/rweb)
+  - Yet another web server framework for rust
+- [grin](https://github.com/mimblewimble/grin)
+  - Minimal implementation of the Mimblewimble protocol.
+- [rltk_rs](https://github.com/thebracket/rltk_rs)
+  - The Roguelike Toolkit (RLTK), implemented for Rust.
+- [alacritty](https://github.com/alacritty/alacritty)
+  - A cross-platform, GPU-accelerated terminal emulator
+- [nushell](https://github.com/nushell/nushell)
+  - A modern shell written in Rust
+- [cargo](https://github.com/rust-lang/cargo)
+  - The Rust package manager
+- [spotifyd](https://github.com/Spotifyd/spotifyd)
+  - A spotify daemon
 - [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
   - Ultra relevant, instant, and typo-tolerant full-text search API
-- [duck](https://github.com/spectresystems/duck)
-  - A build system agnostic build monitor written in Rust
-- [parity-ethereum](https://github.com/paritytech/parity-ethereum)
-  - The fast, light, and robust EVM and WASM client.
-- [rust](https://github.com/tensorflow/rust)
-  - Rust language bindings for TensorFlow
-- [tealdeer](https://github.com/dbrgn/tealdeer)
-  - A very fast implementation of tldr in Rust.
-- [redshirt](https://github.com/tomaka/redshirt)
-  - Operating system
+- [flamegraph](https://github.com/flamegraph-rs/flamegraph)
+  - Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3
+- [seed](https://github.com/seed-rs/seed)
+  - A Rust framework for creating web apps
+- [wasm-flate](https://github.com/drbh/wasm-flate)
+  - 🗜️⚡The fastest compression and decompression in the browser and server. Supports GZIP, ZLIB and DEFLATE
 - [tantivy](https://github.com/tantivy-search/tantivy)
   - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+- [cargo-generate](https://github.com/ashleygwilliams/cargo-generate)
+  - cargo, make me a project
+- [tarpaulin](https://github.com/xd009642/tarpaulin)
+  - A code coverage tool for Rust projects

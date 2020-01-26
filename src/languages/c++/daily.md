@@ -1,51 +1,51 @@
 # c++
 - [XSpotify](https://github.com/meik97/XSpotify)
   - A modified Spotify client with DRM bypass.
-- [The-Open-Book](https://github.com/joeycastillo/The-Open-Book)
-  - 
-- [googletest](https://github.com/google/googletest)
-  - Googletest - Google Testing and Mocking Framework
-- [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)
-  - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects
+- [carla](https://github.com/carla-simulator/carla)
+  - Open-source simulator for autonomous driving research.
 - [godot](https://github.com/godotengine/godot)
   - Godot Engine – Multi-platform 2D and 3D game engine
-- [CNTK](https://github.com/microsoft/CNTK)
-  - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
-- [EAST](https://github.com/argman/EAST)
-  - A tensorflow implementation of EAST text detector
-- [Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-  - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
-- [TensorRT](https://github.com/NVIDIA/TensorRT)
-  - TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.
-- [WLED](https://github.com/Aircoookie/WLED)
-  - Control WS2812B RGB LEDs with an ESP8266 over WiFi!
-- [reactphysics3d](https://github.com/DanielChappuis/reactphysics3d)
-  - Open source C++ physics engine library in 3D
-- [ByePg](https://github.com/can1357/ByePg)
-  - Defeating Patchguard universally for Windows 8, Windows 8.1 and all versions of Windows 10 regardless of HVCI
-- [rpcs3](https://github.com/RPCS3/rpcs3)
-  - PS3 emulator/debugger
-- [Catch2](https://github.com/catchorg/Catch2)
-  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [simdjson](https://github.com/lemire/simdjson)
-  - Parsing gigabytes of JSON per second
-- [kubedoom](https://github.com/storax/kubedoom)
-  - Kill Kubernetes pods by playing Id's DOOM!
-- [catboost](https://github.com/catboost/catboost)
-  - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
-- [DALI](https://github.com/NVIDIA/DALI)
-  - A library containing both highly optimized building blocks and an execution engine for data pre-processing in deep learning applications
-- [Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows)
-  - An installation and update framework for Windows desktop apps
-- [git-crypt](https://github.com/AGWA/git-crypt)
-  - Transparent file encryption in git
-- [dlib](https://github.com/davisking/dlib)
-  - A toolkit for making real world machine learning and data analysis applications in C++
-- [swift](https://github.com/apple/swift)
-  - The Swift Programming Language
-- [falco](https://github.com/falcosecurity/falco)
-  - Cloud Native Runtime Security
-- [pytorch](https://github.com/pytorch/pytorch)
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [BIGTREETECH-SKR-V1.3](https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3)
+  - 32bit board with LPC1768, support marlin2.0 and smoothieware, support lcd2004/12864, On-board TMC2130 SPI interface and TMC2208 UART interface no additional wiring is required
+- [giu](https://github.com/AllenDang/giu)
+  - Cross platform rapid GUI framework for golang based on Dear ImGui
+- [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe)
+  - waifu2xのCaffe版
+- [mame](https://github.com/mamedev/mame)
+  - MAME
+- [filament](https://github.com/google/filament)
+  - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
+- [abseil-cpp](https://github.com/abseil/abseil-cpp)
+  - Abseil Common Libraries (C++)
+- [minetest](https://github.com/minetest/minetest)
+  - Minetest, an open source infinite-world block sandbox game engine with support for survival and crafting. Also see https://github.com/minetest/minetest_game
+- [tdesktop](https://github.com/telegramdesktop/tdesktop)
+  - Telegram Desktop messaging app
+- [keepassxc](https://github.com/keepassxreboot/keepassxc)
+  - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+- [opencv](https://github.com/opencv/opencv)
+  - Open Source Computer Vision Library
+- [LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL)
+  - Code repository of all OpenGL tutorials found at https://learnopengl.com
+- [self-driving-car](https://github.com/ndrplz/self-driving-car)
+  - Udacity Self-Driving Car Engineer Nanodegree projects.
+- [dxvk](https://github.com/doitsujin/dxvk)
+  - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
+- [snapcast](https://github.com/badaix/snapcast)
+  - Synchronous multiroom audio player
+- [bitcoin](https://github.com/bitcoin/bitcoin)
+  - Bitcoin Core integration/staging tree
+- [milvus](https://github.com/milvus-io/milvus)
+  - Milvus -- the world's fastest vector search engine.
+- [aseprite](https://github.com/aseprite/aseprite)
+  - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
+- [llvm-project](https://github.com/llvm/llvm-project)
+  - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
+- [uWebSockets](https://github.com/uNetworking/uWebSockets)
+  - Simple, secure & standards compliant web I/O for the most demanding of applications
+- [conky](https://github.com/brndnmtthws/conky)
+  - Light-weight system monitor for X.
+- [The-Open-Book](https://github.com/joeycastillo/The-Open-Book)
+  - 
+- [bpftrace](https://github.com/iovisor/bpftrace)
+  - High-level tracing language for Linux eBPF

@@ -1,51 +1,51 @@
 # ruby
-- [chatwoot](https://github.com/chatwoot/chatwoot)
-  - Simple and elegant live chat software 🔥💬
-- [actionview-component](https://github.com/github/actionview-component)
-  - View components for Rails
-- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-  - A curated list of awesome awesomeness
-- [linuxbrew-core](https://github.com/Homebrew/linuxbrew-core)
-  - 🍻🐧 Core formulae for the Homebrew package manager on Linux
-- [markup](https://github.com/github/markup)
-  - Determines which markup library to use to render a content file (e.g. README) on GitHub
-- [postal](https://github.com/postalhq/postal)
-  - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
-- [linguist](https://github.com/github/linguist)
-  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-- [fastlane](https://github.com/fastlane/fastlane)
-  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [scientist](https://github.com/github/scientist)
-  - 🔬 A Ruby library for carefully refactoring critical paths.
-- [devise](https://github.com/heartcombo/devise)
-  - Flexible authentication solution for Rails with Warden.
-- [discourse](https://github.com/discourse/discourse)
-  - A platform for community discussion. Free, open, simple.
-- [choosealicense.com](https://github.com/github/choosealicense.com)
-  - A site to provide non-judgmental guidance on choosing a license for your open source project
-- [homebrew-core](https://github.com/Homebrew/homebrew-core)
-  - 🍻 Default formulae for the missing package manager for macOS
+- [faker](https://github.com/faker-ruby/faker)
+  - A library for generating fake data such as names, addresses, and phone numbers.
+- [explore](https://github.com/github/explore)
+  - Community-curated topic and collection pages on GitHub
+- [lobsters](https://github.com/lobsters/lobsters)
+  - Computing-focused community centered around link aggregation and discussion
+- [octokit.rb](https://github.com/octokit/octokit.rb)
+  - Ruby toolkit for the GitHub API
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
+  - Metasploit Framework
+- [brew](https://github.com/Homebrew/brew)
+  - 🍺 The missing package manager for macOS (or Linux)
+- [fast_template](https://github.com/fastai/fast_template)
+  - A template for really easy blogging with GitHub Pages
+- [arachni](https://github.com/Arachni/arachni)
+  - Web Application Security Scanner Framework
+- [rails](https://github.com/rails/rails)
+  - Ruby on Rails
+- [airport_challenge](https://github.com/makersacademy/airport_challenge)
+  - Fly!
+- [rack-intro-chi01-seng-ft-010620](https://github.com/learn-co-students/rack-intro-chi01-seng-ft-010620)
+  - 
+- [sinatra-from-scratch-readme](https://github.com/learn-co-curriculum/sinatra-from-scratch-readme)
+  - 
 - [barber](https://github.com/michaeleisel/barber)
   - Fast build times for big Swift projects
-- [qa](https://github.com/thomas-mcdonald/qa)
-  - QA is a question & answer application (and eternal side-project)
-- [anagram-detector-online-web-sp-000](https://github.com/learn-co-students/anagram-detector-online-web-sp-000)
+- [scraping-reading-online-web-pt-120919](https://github.com/learn-co-students/scraping-reading-online-web-pt-120919)
   - 
-- [looping-while-until-onl01-seng-pt-012220](https://github.com/learn-co-students/looping-while-until-onl01-seng-pt-012220)
+- [nested-hash-iteration-code-along-online-web-sp-000](https://github.com/learn-co-students/nested-hash-iteration-code-along-online-web-sp-000)
   - 
-- [array-CRUD-lab-onl01-seng-pt-012220](https://github.com/learn-co-students/array-CRUD-lab-onl01-seng-pt-012220)
+- [oo-custom-errors-onl01-seng-pt-120819](https://github.com/learn-co-students/oo-custom-errors-onl01-seng-pt-120819)
   - 
-- [looping-times-onl01-seng-pt-012120](https://github.com/learn-co-students/looping-times-onl01-seng-pt-012120)
+- [choosealicense.com](https://github.com/github/choosealicense.com)
+  - A site to provide non-judgmental guidance on choosing a license for your open source project
+- [intro-to-rake-online-web-ft-120919](https://github.com/learn-co-students/intro-to-rake-online-web-ft-120919)
   - 
-- [other-hash-methods-code-along-onl01-seng-ft-012120](https://github.com/learn-co-students/other-hash-methods-code-along-onl01-seng-ft-012120)
+- [translating-orm-to-ar-online-web-ft-120919](https://github.com/learn-co-students/translating-orm-to-ar-online-web-ft-120919)
   - 
-- [triangle-classification-online-web-pt-120919](https://github.com/learn-co-students/triangle-classification-online-web-pt-120919)
+- [mass-assignment-onl01-seng-pt-120819](https://github.com/learn-co-students/mass-assignment-onl01-seng-pt-120819)
   - 
-- [array-methods-lab-onl01-seng-pt-012220](https://github.com/learn-co-students/array-methods-lab-onl01-seng-pt-012220)
+- [devise](https://github.com/heartcombo/devise)
+  - Flexible authentication solution for Rails with Warden.
+- [quine-relay](https://github.com/mame/quine-relay)
+  - An uroboros program with 100+ programming languages
+- [programming-univbasics-nds-nds-to-insight-with-methods-repetition-lab-london-web-012720](https://github.com/learn-co-students/programming-univbasics-nds-nds-to-insight-with-methods-repetition-lab-london-web-012720)
   - 
-- [countdown-to-midnight-onl01-seng-pt-012220](https://github.com/learn-co-students/countdown-to-midnight-onl01-seng-pt-012220)
-  - 
-- [oo-custom-errors-online-web-pt-120919](https://github.com/learn-co-students/oo-custom-errors-online-web-pt-120919)
-  - 
-- [ruby-intro-to-hashes-lab-onl01-seng-ft-012120](https://github.com/learn-co-students/ruby-intro-to-hashes-lab-onl01-seng-ft-012120)
+- [retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig)
+  - RetroArch joypad autoconfig files
+- [activerecord-crud-onl01-seng-pt-100619](https://github.com/learn-co-students/activerecord-crud-onl01-seng-pt-100619)
   - 
