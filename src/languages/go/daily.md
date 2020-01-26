@@ -1,51 +1,51 @@
 # go
-- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
-  - Terraform AWS provider
-- [gqlgen](https://github.com/99designs/gqlgen)
-  - go generate based graphql server library
-- [naabu](https://github.com/projectdiscovery/naabu)
-  - A fast port scanner written in go with focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
-- [cli](https://github.com/docker/cli)
-  - The Docker CLI
-- [stripe-cli](https://github.com/stripe/stripe-cli)
-  - A command-line tool for Stripe
-- [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
-  - Network-wide ads & trackers blocking DNS server
+- [k8s-deployment-strategies](https://github.com/ContainerSolutions/k8s-deployment-strategies)
+  - Kubernetes deployment strategies explained
+- [bettercap](https://github.com/bettercap/bettercap)
+  - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
+- [torrent-client](https://github.com/veggiedefender/torrent-client)
+  - Tiny BitTorrent client written in Go
+- [wzd](https://github.com/eltaline/wzd)
+  - wZD is a powerful storage server, designed for big data storage systems with small and large files for mixed use and dramatically reduces count of small files for extend abilities any normal or clustered POSIX compatible file systems.
 - [hub](https://github.com/github/hub)
   - A command-line tool that makes git easier to use with GitHub.
-- [helm](https://github.com/helm/helm)
-  - The Kubernetes Package Manager
-- [skaffold](https://github.com/GoogleContainerTools/skaffold)
-  - Easy and Repeatable Kubernetes Development
-- [octant](https://github.com/vmware-tanzu/octant)
-  - A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
-- [k9s](https://github.com/derailed/k9s)
-  - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [go](https://github.com/golang/go)
-  - The Go programming language
-- [glow](https://github.com/charmbracelet/glow)
-  - Render markdown on the CLI, with pizzazz! 💅🏻
-- [traefik](https://github.com/containous/traefik)
-  - The Cloud Native Edge Router
-- [buildah](https://github.com/containers/buildah)
-  - A tool that facilitates building OCI images
-- [dive](https://github.com/wagoodman/dive)
-  - A tool for exploring each layer in a docker image
-- [autoscaler](https://github.com/kubernetes/autoscaler)
-  - Autoscaling components for Kubernetes
-- [go-ethereum](https://github.com/ethereum/go-ethereum)
-  - Official Go implementation of the Ethereum protocol
-- [helmfile](https://github.com/roboll/helmfile)
-  - Deploy Kubernetes Helm Charts
-- [git-sync](https://github.com/kubernetes/git-sync)
-  - A sidecar app which clones a git repo and keeps it in sync with the upstream.
-- [enhancements](https://github.com/kubernetes/enhancements)
-  - Features tracking repo for Kubernetes releases
+- [Go](https://github.com/TheAlgorithms/Go)
+  - Algorithms Implemented in GoLang
+- [photoprism](https://github.com/photoprism/photoprism)
+  - Personal Photo Management powered by Go and Google TensorFlow
+- [ink](https://github.com/buchanae/ink)
+  - Creative coding in Go
+- [tview](https://github.com/rivo/tview)
+  - Rich interactive widgets for terminal-based UIs written in Go
+- [cloud-on-k8s](https://github.com/elastic/cloud-on-k8s)
+  - Elastic Cloud on Kubernetes
+- [ko](https://github.com/google/ko)
+  - Build and deploy Go applications on Kubernetes
+- [clash](https://github.com/Dreamacro/clash)
+  - A rule-based tunnel in Go.
+- [statping](https://github.com/hunterlong/statping)
+  - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [micro](https://github.com/zyedidia/micro)
   - A modern and intuitive terminal-based text editor
-- [bolt](https://github.com/boltdb/bolt)
-  - An embedded key/value database for Go.
-- [gdrive](https://github.com/gdrive-org/gdrive)
-  - Google Drive CLI Client
-- [websocket](https://github.com/gorilla/websocket)
-  - A fast, well-tested and widely used WebSocket implementation for Go.
+- [badger](https://github.com/dgraph-io/badger)
+  - Fast key-value DB in Go.
+- [tools](https://github.com/golang/tools)
+  - [mirror] Go Tools
+- [cloud-nuke](https://github.com/gruntwork-io/cloud-nuke)
+  - A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it
+- [community](https://github.com/kubernetes/community)
+  - Kubernetes community content
+- [octant](https://github.com/vmware-tanzu/octant)
+  - A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
+- [gqlgen](https://github.com/99designs/gqlgen)
+  - go generate based graphql server library
+- [k9s](https://github.com/derailed/k9s)
+  - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [brook](https://github.com/txthinking/brook)
+  - Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software
+- [hey](https://github.com/rakyll/hey)
+  - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
+- [skaffold](https://github.com/GoogleContainerTools/skaffold)
+  - Easy and Repeatable Kubernetes Development
+- [thanos](https://github.com/thanos-io/thanos)
+  - Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.

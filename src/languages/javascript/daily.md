@@ -1,51 +1,51 @@
 # javascript
-- [playwright](https://github.com/microsoft/playwright)
-  - Node library to automate Chromium, Firefox and WebKit with a single API
-- [next.js](https://github.com/zeit/next.js)
-  - The React Framework
-- [city-roads](https://github.com/anvaka/city-roads)
-  - Visualization of all roads within any city
+- [miragejs](https://github.com/miragejs/miragejs)
+  - A client-side server to develop, test and prototype your JavaScript app
 - [Javascript](https://github.com/TheAlgorithms/Javascript)
   - A repository for All algorithms implemented in Javascript (for educational purposes only)
-- [nativefier](https://github.com/jiahaog/nativefier)
-  - Make any web page a desktop application
-- [semana-omnistack-10](https://github.com/Rocketseat/semana-omnistack-10)
-  - Código da aplicação desenvolvida durante a Semana OmniStack 10.0 🚀
-- [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap)
-  - Roadmap to becoming a React developer in 2019
-- [Krunker_ZER0X](https://github.com/ZaresPlusX/Krunker_ZER0X)
-  - ᴜɴʟɪᴍɪᴛᴇᴅ ℤ𝔼ℝ𝟘𝕏 ᴘᴏᴡᴇʀ
-- [hello-webxr](https://github.com/MozillaReality/hello-webxr)
-  - Hello WebXR
-- [react-email-editor](https://github.com/unlayer/react-email-editor)
-  - Drag-n-Drop Email Editor Component for React.js
-- [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript)
-  - A 30 days of JavaScript programming challenge
+- [p5.js](https://github.com/processing/p5.js)
+  - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
+- [playwright](https://github.com/microsoft/playwright)
+  - Node library to automate Chromium, Firefox and WebKit with a single API
+- [node](https://github.com/nodejs/node)
+  - Node.js JavaScript runtime ✨🐢🚀✨
+- [userbase](https://github.com/encrypted-dev/userbase)
+  - Create secure and private web apps using only static JavaScript, HTML, and CSS.
+- [atom](https://github.com/atom/atom)
+  - The hackable text editor
+- [homebridge](https://github.com/nfarina/homebridge)
+  - HomeKit support for the impatient
 - [ifood-clone](https://github.com/leoobarbosa2/ifood-clone)
   - Um clone do famoso aplicativo do Ifood, feito inteiramente com Javascript, através da utilização do React Native! Testado no Android & IOS. API com Json Server
-- [react-nice-dates](https://github.com/hernansartorio/react-nice-dates)
-  - A responsive, touch-friendly, and modular date picker library for React.
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [aos](https://github.com/michalsnik/aos)
-  - Animate on scroll library
-- [poolifier](https://github.com/pioardi/poolifier)
-  - Fast and small Nodejs thread pools implemented
-- [nivo](https://github.com/plouc/nivo)
-  - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
-- [gun](https://github.com/amark/gun)
-  - A realtime, decentralized, offline-first, graph protocol to sync the web.
-- [Leaflet](https://github.com/Leaflet/Leaflet)
-  - 🍃 JavaScript library for mobile-friendly interactive maps
+- [svgedit](https://github.com/SVG-Edit/svgedit)
+  - Powerful SVG-Editor for your browser
+- [nsfwjs](https://github.com/infinitered/nsfwjs)
+  - NSFW detection on the client-side via TensorFlow.js
+- [yarn](https://github.com/yarnpkg/yarn)
+  - 📦🐈 Fast, reliable, and secure dependency management.
+- [strapi](https://github.com/strapi/strapi)
+  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [node-course-v3-code](https://github.com/andrewjmead/node-course-v3-code)
+  - Code for version 3 of The Complete Node.js Developer Course
+- [bootswatch](https://github.com/thomaspark/bootswatch)
+  - Themes for Bootstrap
+- [overreacted.io](https://github.com/gaearon/overreacted.io)
+  - Personal blog by Dan Abramov.
+- [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
+  - OpenZeppelin Contracts is a library for secure smart contract development.
+- [deck.gl](https://github.com/uber/deck.gl)
+  - WebGL2 powered geospatial visualization layers
+- [nedb](https://github.com/louischatriot/nedb)
+  - The JavaScript Database, for Node.js, nw.js, electron and the browser
 - [grapesjs](https://github.com/artf/grapesjs)
   - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
-- [airframe-react](https://github.com/0wczar/airframe-react)
-  - Free Open Source High Quality Dashboard based on Bootstrap 4 & React 16: http://dashboards.webkom.co/react/airframe
-- [udacimak](https://github.com/udacimak/udacimak)
-  - Udacity Nanodegree and Course Downloader
-- [react-slack-clone](https://github.com/pusher/react-slack-clone)
-  - Complete chat application, built with Chatkit | by @lukejacksonn
-- [pino](https://github.com/pinojs/pino)
-  - 🌲 super fast, all natural json logger 🌲
-- [phonegap-app-developer](https://github.com/phonegap/phonegap-app-developer)
-  - PhoneGap Developer App
+- [lightbox2](https://github.com/lokesh/lightbox2)
+  - THE original Lightbox script.
+- [awesome-vscode](https://github.com/viatsko/awesome-vscode)
+  - 🎨 A curated list of delightful VS Code packages and resources.
+- [etcher](https://github.com/balena-io/etcher)
+  - Flash OS images to SD cards & USB drives, safely and easily.
+- [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+  - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
+- [P4wnP1_aloa](https://github.com/mame82/P4wnP1_aloa)
+  - P4wnP1 A.L.O.A. by MaMe82 is a framework which turns a Rapsberry Pi Zero W into a flexible, low-cost platform for pentesting, red teaming and physical engagements ... or into "A Little Offensive Appliance".

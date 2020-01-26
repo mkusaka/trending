@@ -1,51 +1,48 @@
 # general
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) : 
   - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [playwright](https://github.com/microsoft/playwright) : JavaScript
-  - Node library to automate Chromium, Firefox and WebKit with a single API
-- [spot-sdk](https://github.com/boston-dynamics/spot-sdk) : HTML
-  - Spot SDK repo
-- [backendlore](https://github.com/fpereiro/backendlore) : 
-  - How I write backends
+- [miragejs](https://github.com/miragejs/miragejs) : JavaScript
+  - A client-side server to develop, test and prototype your JavaScript app
 - [systemd](https://github.com/systemd/systemd) : C
   - The systemd System and Service Manager
-- [DevYouTubeList](https://github.com/ErikCH/DevYouTubeList) : 
-  - List of Development YouTube Channels
-- [at-ps](https://github.com/specterops/at-ps) : PowerShell
-  - Adversary Tactics - PowerShell Training
-- [deno](https://github.com/denoland/deno) : TypeScript
-  - A secure JavaScript and TypeScript runtime
-- [public-apis](https://github.com/public-apis/public-apis) : Python
-  - A collective list of free APIs for use in software and web development.
-- [deeplearning-models](https://github.com/rasbt/deeplearning-models) : Jupyter Notebook
-  - A collection of various deep learning architectures, models, and tips
-- [stat453-deep-learning-ss20](https://github.com/rasbt/stat453-deep-learning-ss20) : TeX
-  - STAT 453: Intro to Deep Learning @ UW-Madison (Spring 2020)
-- [next.js](https://github.com/zeit/next.js) : JavaScript
-  - The React Framework
-- [awesome-nestjs](https://github.com/juliandavidmr/awesome-nestjs) : 
-  - 😏 Curated list of NestJS
-- [city-roads](https://github.com/anvaka/city-roads) : JavaScript
-  - Visualization of all roads within any city
-- [quarkus](https://github.com/quarkusio/quarkus) : Java
-  - Quarkus: Supersonic Subatomic Java.
-- [angular-cli](https://github.com/angular/angular-cli) : TypeScript
-  - CLI tool for Angular
-- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) : 
-  - A list of awesome beginners-friendly projects.
+- [Apple](https://github.com/v2net/Apple) : 
+  - 苹果美区账号 APPLE ID 免费账号共享
 - [Javascript](https://github.com/TheAlgorithms/Javascript) : JavaScript
   - A repository for All algorithms implemented in Javascript (for educational purposes only)
-- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) : Go
-  - Terraform AWS provider
-- [Bug-bounty](https://github.com/sehno/Bug-bounty) : 
-  - Ressources for bug bounty hunting
-- [tarkov](https://github.com/dank/tarkov) : Rust
-  - A Rust library for the Escape from Tarkov API
-- [streamlit](https://github.com/streamlit/streamlit) : Python
-  - Streamlit — The fastest way to build custom ML tools
-- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) : 
-  - A topic-centric list of HQ open datasets. PR ☛☛☛
-- [gqlgen](https://github.com/99designs/gqlgen) : Go
-  - go generate based graphql server library
-- [nativefier](https://github.com/jiahaog/nativefier) : JavaScript
-  - Make any web page a desktop application
+- [thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) : C
+  - Various tips & tricks
+- [public-apis](https://github.com/public-apis/public-apis) : Python
+  - A collective list of free APIs for use in software and web development.
+- [sm64](https://github.com/n64decomp/sm64) : C
+  - A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
+- [DevYouTubeList](https://github.com/ErikCH/DevYouTubeList) : 
+  - List of Development YouTube Channels
+- [deeplearning-models](https://github.com/rasbt/deeplearning-models) : Jupyter Notebook
+  - A collection of various deep learning architectures, models, and tips
+- [NewPipe](https://github.com/TeamNewPipe/NewPipe) : Java
+  - A libre lightweight streaming front-end for Android.
+- [awesome](https://github.com/sindresorhus/awesome) : 
+  - 😎 Awesome lists about all kinds of interesting topics
+- [ModAssistant](https://github.com/Assistant/ModAssistant) : C#
+  - Simple Beat Saber Mod Installer
+- [flutter-tutorials](https://github.com/FilledStacks/flutter-tutorials) : Dart
+  - The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.
+- [Magisk](https://github.com/topjohnwu/Magisk) : Kotlin
+  - A Magic Mask to Alter Android System Systemless-ly
+- [deno](https://github.com/denoland/deno) : TypeScript
+  - A secure JavaScript and TypeScript runtime
+- [XSpotify](https://github.com/meik97/XSpotify) : C++
+  - A modified Spotify client with DRM bypass.
+- [carla](https://github.com/carla-simulator/carla) : C++
+  - Open-source simulator for autonomous driving research.
+- [spot-sdk](https://github.com/boston-dynamics/spot-sdk) : HTML
+  - Spot SDK repo
+- [v2rayN](https://github.com/2dust/v2rayN) : C#
+- [getflutter](https://github.com/ionicfirebaseapp/getflutter) : Dart
+  - Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.
+- [v](https://github.com/vlang/v) : V
+  - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero dependencies. Stable 0.2 release in January 2020. https://vlang.io
+- [starter-workflows](https://github.com/actions/starter-workflows) : 
+  - Accelerating new GitHub Actions workflows
+- [godot](https://github.com/godotengine/godot) : C++
+  - Godot Engine – Multi-platform 2D and 3D game engine
