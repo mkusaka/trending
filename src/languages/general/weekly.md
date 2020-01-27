@@ -1,48 +1,51 @@
 # general
-- [autogluon](https://github.com/awslabs/autogluon) : Python
-  - AutoGluon: AutoML Toolkit for Deep Learning
-- [tokenizers](https://github.com/huggingface/tokenizers) : Rust
-  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
-- [cable-haunt-vulnerability-test](https://github.com/Lyrebirds/cable-haunt-vulnerability-test) : Python
-- [newbee-mall](https://github.com/newbee-ltd/newbee-mall) : Java
-  - newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
-- [actix](https://github.com/actix/actix) : Rust
-  - Actor framework for Rust
-- [actix-web](https://github.com/fafhrd91/actix-web) : Rust
-  - Actix web is a small, pragmatic, and extremely fast rust web framework.
-- [zuihou-admin-cloud](https://github.com/zuihou/zuihou-admin-cloud) : Java
-  - 基于SpringCloud(Hoxton.SR1) + SpringBoot(2.2.2.RELEASE) 的SaaS 微服务脚手架，具有统一授权、认证后台管理系统，其中包含具备用户管理、资源权限管理、网关API、分布式事务、大文件断点分片续传等多个模块，支持多业务系统并行开发，可以作为后端服务的开发脚手架。代码简洁，架构清晰，适合学习和直接项目中使用。核心技术采用Nacos、Fegin、Ribbon、Zuul、Hystrix、JWT Token、Mybatis、SpringBoot、Redis、RibbitMQ等主要框架和中间件。
-- [cortex](https://github.com/cortexlabs/cortex) : Go
-  - Deploy machine learning models in production
-- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) : JavaScript
-  - Beautiful and accessible drag and drop for lists with React
-- [kibana](https://github.com/elastic/kibana) : TypeScript
-  - Your window into the Elastic Stack
-- [showdoc](https://github.com/star7th/showdoc) : JavaScript
-  - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
-- [manifold](https://github.com/uber/manifold) : JavaScript
-  - A model-agnostic visual debugging tool for machine learning
-- [angular](https://github.com/angular/angular) : TypeScript
-  - One framework. Mobile & desktop.
-- [hooks](https://github.com/umijs/hooks) : TypeScript
-  - React Hooks Library
-- [mlflow](https://github.com/mlflow/mlflow) : Python
-  - Open source platform for the machine learning lifecycle
-- [leetcode](https://github.com/azl397985856/leetcode) : JavaScript
-  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
-- [storybook](https://github.com/storybookjs/storybook) : TypeScript
-  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) : JavaScript
-  - ✅ The largest Node.js best practices list (December 2019)
-- [flyte](https://github.com/lyft/flyte) : Shell
-  - develop, execute, and monitor distributed workflows reliably at scale.
-- [Store](https://github.com/dropbox/Store) : Kotlin
-  - Kotlin Library for Async Data Loading and Caching
-- [Logan](https://github.com/Meituan-Dianping/Logan) : C
-  - Logan is a lightweight case logging system based on mobile platform.
-- [nebula](https://github.com/vesoft-inc/nebula) : C++
-  - A distributed, fast open-source graph database featuring horizontal scalability and high availability
-- [wpt](https://github.com/web-platform-tests/wpt) : HTML
-  - Test suites for Web platform specs — including WHATWG, W3C, and others
-- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
-  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [ApplicationInspector](https://github.com/microsoft/ApplicationInspector) : C#
+  - A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'what's in it' using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.
+- [deno](https://github.com/denoland/deno) : TypeScript
+  - A secure JavaScript and TypeScript runtime
+- [verona](https://github.com/microsoft/verona) : C++
+  - Research programming language for concurrent ownership
+- [conference-app-2020](https://github.com/DroidKaigi/conference-app-2020) : Kotlin
+  - The Official Conference App for DroidKaigi 2020 Tokyo
+- [azure-powershell](https://github.com/Azure/azure-powershell) : C#
+  - Microsoft Azure PowerShell
+- [warp](https://github.com/seanmonstar/warp) : Rust
+  - A super-easy, composable, web server framework for warp speeds.
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) : JavaScript
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [woocommerce](https://github.com/woocommerce/woocommerce) : PHP
+  - An open source eCommerce plugin for WordPress.
+- [AZ-103-MicrosoftAzureAdministrator](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator) : 
+  - AZ-103: Microsoft Azure Administrator
+- [Micronetes](https://github.com/davidfowl/Micronetes) : C#
+  - Micronetes is a local orchestrator inspired by kubernetes that makes developing and testing microservices and distributed applications easier.
+- [simdjson](https://github.com/lemire/simdjson) : C++
+  - Parsing gigabytes of JSON per second
+- [grapesjs](https://github.com/artf/grapesjs) : JavaScript
+  - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
+- [ionic](https://github.com/ionic-team/ionic) : TypeScript
+  - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
+- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) : PowerShell
+  - Azure Quickstart Templates
+- [PySyft](https://github.com/OpenMined/PySyft) : Python
+  - A library for encrypted, privacy preserving machine learning
+- [DeepSpeech](https://github.com/mozilla/DeepSpeech) : C++
+  - A TensorFlow implementation of Baidu's DeepSpeech architecture
+- [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) : Kotlin
+  - JetBrains Mono – the free and open-source typeface for developers
+- [expo](https://github.com/expo/expo) : Objective-C
+  - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
+- [terraform](https://github.com/hashicorp/terraform) : Go
+  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [PowerToys](https://github.com/microsoft/PowerToys) : C++
+  - Windows system utilities to maximize productivity
+- [DeOldify](https://github.com/jantic/DeOldify) : Jupyter Notebook
+  - A Deep Learning based project for colorizing and restoring old images (and video!)
+- [material-ui](https://github.com/mui-org/material-ui) : JavaScript
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) : 
+  - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+- [dash](https://github.com/plotly/dash) : Python
+  - Analytical Web Apps for Python & R. No JavaScript Required.
+- [SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect) : 
+  - Path to a Software Architect
