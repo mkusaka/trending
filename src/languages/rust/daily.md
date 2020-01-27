@@ -1,51 +1,51 @@
 # rust
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The cross-shell prompt for astronauts
-- [findomain](https://github.com/Edu4rdSHL/findomain)
-  - The fastest and cross-platform subdomain enumerator, don't waste your time.
-- [spotify-tui](https://github.com/Rigellute/spotify-tui)
-  - Spotify for the terminal written in Rust 🚀
-- [tarkov](https://github.com/dank/tarkov)
-  - A Rust library for the Escape from Tarkov API
-- [jsparagus](https://github.com/mozilla-spidermonkey/jsparagus)
-  - Parser generators
-- [wasm3-rs](https://github.com/Veykril/wasm3-rs)
-  - Rust wrapper for WASM3(https://github.com/wasm3/wasm3)
-- [tauri](https://github.com/tauri-apps/tauri)
-  - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
-- [druid](https://github.com/xi-editor/druid)
-  - A data-first Rust-native UI design toolkit.
-- [ytop](https://github.com/cjbassi/ytop)
-  - A TUI system monitor written in Rust
-- [rusty_v8](https://github.com/denoland/rusty_v8)
-  - V8 javascript bindings for Rust
-- [async-std](https://github.com/async-rs/async-std)
-  - Async version of the Rust standard library
-- [rweb](https://github.com/kdy1/rweb)
-  - Yet another web server framework for rust
-- [grin](https://github.com/mimblewimble/grin)
-  - Minimal implementation of the Mimblewimble protocol.
-- [rltk_rs](https://github.com/thebracket/rltk_rs)
-  - The Roguelike Toolkit (RLTK), implemented for Rust.
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
-- [nushell](https://github.com/nushell/nushell)
-  - A modern shell written in Rust
-- [cargo](https://github.com/rust-lang/cargo)
-  - The Rust package manager
-- [spotifyd](https://github.com/Spotifyd/spotifyd)
-  - A spotify daemon
 - [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
   - Ultra relevant, instant, and typo-tolerant full-text search API
-- [flamegraph](https://github.com/flamegraph-rs/flamegraph)
-  - Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3
-- [seed](https://github.com/seed-rs/seed)
-  - A Rust framework for creating web apps
-- [wasm-flate](https://github.com/drbh/wasm-flate)
-  - 🗜️⚡The fastest compression and decompression in the browser and server. Supports GZIP, ZLIB and DEFLATE
-- [tantivy](https://github.com/tantivy-search/tantivy)
-  - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
-- [cargo-generate](https://github.com/ashleygwilliams/cargo-generate)
-  - cargo, make me a project
+- [lemmy](https://github.com/dessalines/lemmy)
+  - 🐀 Building a federated alternative to reddit in rust
 - [tarpaulin](https://github.com/xd009642/tarpaulin)
   - A code coverage tool for Rust projects
+- [sqlx](https://github.com/launchbadge/sqlx)
+  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL.
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
+- [jsparagus](https://github.com/mozilla-spidermonkey/jsparagus)
+  - Parser generators
+- [druid](https://github.com/xi-editor/druid)
+  - A data-first Rust-native UI design toolkit.
+- [nom](https://github.com/Geal/nom)
+  - Rust parser combinator framework
+- [tokio](https://github.com/tokio-rs/tokio)
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [polkadot](https://github.com/paritytech/polkadot)
+  - Polkadot Node Implementation
+- [starship](https://github.com/starship/starship)
+  - ☄🌌️ The cross-shell prompt for astronauts
+- [rust-music-theory](https://github.com/ozankasikci/rust-music-theory)
+  - A music theory guide written in Rust.
+- [wasm3-rs](https://github.com/Veykril/wasm3-rs)
+  - Rust wrapper for WASM3(https://github.com/wasm3/wasm3)
+- [flamegraph](https://github.com/flamegraph-rs/flamegraph)
+  - Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3
+- [async-std](https://github.com/async-rs/async-std)
+  - Async version of the Rust standard library
+- [warp](https://github.com/seanmonstar/warp)
+  - A super-easy, composable, web server framework for warp speeds.
+- [clap](https://github.com/clap-rs/clap)
+  - A full featured, fast Command Line Argument Parser for Rust
+- [wasm-flate](https://github.com/drbh/wasm-flate)
+  - 🗜️⚡The fastest compression and decompression in the browser and server. Supports GZIP, ZLIB and DEFLATE
+- [snips-nlu-parsers](https://github.com/snipsco/snips-nlu-parsers)
+  - Rust crate for entity parsing
+- [rediSQL](https://github.com/RedBeardLab/rediSQL)
+  - Redis module that provides a completely functional SQL database
+- [RustQIP](https://github.com/Renmusxd/RustQIP)
+  - Quantum computing using rust. Efficient and a borrow-checked no cloning theorem!
+- [rust](https://github.com/tensorflow/rust)
+  - Rust language bindings for TensorFlow
+- [juniper](https://github.com/graphql-rust/juniper)
+  - GraphQL server library for Rust
+- [rage](https://github.com/str4d/rage)
+  - A simple, secure and modern encryption tool with small explicit keys, no config options, and UNIX-style composability.
+- [sonic](https://github.com/valeriansaliou/sonic)
+  - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.

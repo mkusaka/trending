@@ -1,51 +1,51 @@
 # javascript
-- [miragejs](https://github.com/miragejs/miragejs)
-  - A client-side server to develop, test and prototype your JavaScript app
-- [Javascript](https://github.com/TheAlgorithms/Javascript)
-  - A repository for All algorithms implemented in Javascript (for educational purposes only)
-- [p5.js](https://github.com/processing/p5.js)
-  - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
-- [playwright](https://github.com/microsoft/playwright)
-  - Node library to automate Chromium, Firefox and WebKit with a single API
-- [node](https://github.com/nodejs/node)
-  - Node.js JavaScript runtime ✨🐢🚀✨
 - [userbase](https://github.com/encrypted-dev/userbase)
   - Create secure and private web apps using only static JavaScript, HTML, and CSS.
-- [atom](https://github.com/atom/atom)
-  - The hackable text editor
-- [homebridge](https://github.com/nfarina/homebridge)
-  - HomeKit support for the impatient
-- [ifood-clone](https://github.com/leoobarbosa2/ifood-clone)
-  - Um clone do famoso aplicativo do Ifood, feito inteiramente com Javascript, através da utilização do React Native! Testado no Android & IOS. API com Json Server
-- [svgedit](https://github.com/SVG-Edit/svgedit)
-  - Powerful SVG-Editor for your browser
-- [nsfwjs](https://github.com/infinitered/nsfwjs)
-  - NSFW detection on the client-side via TensorFlow.js
+- [vue-apollo](https://github.com/vuejs/vue-apollo)
+  - 🚀 Apollo/GraphQL integration for VueJS
+- [Javascript](https://github.com/TheAlgorithms/Javascript)
+  - A repository for All algorithms implemented in Javascript (for educational purposes only)
+- [permission-manager](https://github.com/sighupio/permission-manager)
+  - Permission Manager is a project that brings sanity to Kubernetes RBAC and Users management, Web UI FTW
+- [QuantumultX](https://github.com/nzw9314/QuantumultX)
+  - QuantumultX
 - [yarn](https://github.com/yarnpkg/yarn)
   - 📦🐈 Fast, reliable, and secure dependency management.
-- [strapi](https://github.com/strapi/strapi)
-  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
-- [node-course-v3-code](https://github.com/andrewjmead/node-course-v3-code)
-  - Code for version 3 of The Complete Node.js Developer Course
-- [bootswatch](https://github.com/thomaspark/bootswatch)
-  - Themes for Bootstrap
-- [overreacted.io](https://github.com/gaearon/overreacted.io)
-  - Personal blog by Dan Abramov.
-- [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
-  - OpenZeppelin Contracts is a library for secure smart contract development.
-- [deck.gl](https://github.com/uber/deck.gl)
-  - WebGL2 powered geospatial visualization layers
-- [nedb](https://github.com/louischatriot/nedb)
-  - The JavaScript Database, for Node.js, nw.js, electron and the browser
-- [grapesjs](https://github.com/artf/grapesjs)
-  - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
-- [lightbox2](https://github.com/lokesh/lightbox2)
-  - THE original Lightbox script.
-- [awesome-vscode](https://github.com/viatsko/awesome-vscode)
-  - 🎨 A curated list of delightful VS Code packages and resources.
-- [etcher](https://github.com/balena-io/etcher)
-  - Flash OS images to SD cards & USB drives, safely and easily.
-- [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
-  - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
-- [P4wnP1_aloa](https://github.com/mame82/P4wnP1_aloa)
-  - P4wnP1 A.L.O.A. by MaMe82 is a framework which turns a Rapsberry Pi Zero W into a flexible, low-cost platform for pentesting, red teaming and physical engagements ... or into "A Little Offensive Appliance".
+- [front-end-interview](https://github.com/Advanced-Interview-Question/front-end-interview)
+  - A list of interview for front-end developer(前端开发者面试清单)
+- [bypass-paywalls-firefox](https://github.com/iamadamdev/bypass-paywalls-firefox)
+  - Bypass Paywalls for Firefox
+- [miragejs](https://github.com/miragejs/miragejs)
+  - A client-side server to develop, test and prototype your JavaScript app
+- [esercizi-di-programmazione-javascript](https://github.com/AlbertoOlla/esercizi-di-programmazione-javascript)
+  - Esercizi di informatica! Impara a programmare, metti alla prova!
+- [curso-javascript-ninja](https://github.com/da2k/curso-javascript-ninja)
+  - Curso Javascript Ninja
+- [Script](https://github.com/NobyDa/Script)
+  - This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.
+- [magnetW](https://github.com/xiandanin/magnetW)
+  - 磁力链接聚合搜索
+- [mocha](https://github.com/mochajs/mocha)
+  - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
+- [bootstrap](https://github.com/twbs/bootstrap)
+  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [AndroidAssetStudio](https://github.com/romannurik/AndroidAssetStudio)
+  - A set of web-based tools for generating graphics and other assets that would eventually be in an Android application's res/ directory.
+- [api-platform](https://github.com/api-platform/api-platform)
+  - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
+- [markdown-here](https://github.com/adam-p/markdown-here)
+  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+- [sweetalert2](https://github.com/sweetalert2/sweetalert2)
+  - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
+- [beautiful-react-hooks](https://github.com/beautifulinteractions/beautiful-react-hooks)
+  - 🔥A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
+- [nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager)
+  - Docker container for managing Nginx proxy hosts with a simple, powerful interface
+- [baiduyun](https://github.com/syhyz1990/baiduyun)
+  - 🖖油猴脚本 一个脚本搞定百度网盘下载 https://www.baiduyun.wiki
+- [nideshop-mini-program](https://github.com/tumobi/nideshop-mini-program)
+  - NideShop：基于Node.js+MySQL开发的开源微信小程序商城（微信小程序）
+- [dash.js](https://github.com/Dash-Industry-Forum/dash.js)
+  - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
+- [jafar](https://github.com/yahoo/jafar)
+  - 🌟!(Just another form application renderer)

@@ -1,48 +1,50 @@
 # general
-- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) : 
-  - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [miragejs](https://github.com/miragejs/miragejs) : JavaScript
-  - A client-side server to develop, test and prototype your JavaScript app
-- [systemd](https://github.com/systemd/systemd) : C
-  - The systemd System and Service Manager
-- [Apple](https://github.com/v2net/Apple) : 
-  - 苹果美区账号 APPLE ID 免费账号共享
-- [Javascript](https://github.com/TheAlgorithms/Javascript) : JavaScript
-  - A repository for All algorithms implemented in Javascript (for educational purposes only)
-- [thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) : C
-  - Various tips & tricks
-- [public-apis](https://github.com/public-apis/public-apis) : Python
-  - A collective list of free APIs for use in software and web development.
-- [sm64](https://github.com/n64decomp/sm64) : C
-  - A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
-- [DevYouTubeList](https://github.com/ErikCH/DevYouTubeList) : 
-  - List of Development YouTube Channels
-- [deeplearning-models](https://github.com/rasbt/deeplearning-models) : Jupyter Notebook
-  - A collection of various deep learning architectures, models, and tips
-- [NewPipe](https://github.com/TeamNewPipe/NewPipe) : Java
-  - A libre lightweight streaming front-end for Android.
-- [awesome](https://github.com/sindresorhus/awesome) : 
-  - 😎 Awesome lists about all kinds of interesting topics
-- [ModAssistant](https://github.com/Assistant/ModAssistant) : C#
-  - Simple Beat Saber Mod Installer
-- [flutter-tutorials](https://github.com/FilledStacks/flutter-tutorials) : Dart
-  - The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.
-- [Magisk](https://github.com/topjohnwu/Magisk) : Kotlin
-  - A Magic Mask to Alter Android System Systemless-ly
-- [deno](https://github.com/denoland/deno) : TypeScript
-  - A secure JavaScript and TypeScript runtime
 - [XSpotify](https://github.com/meik97/XSpotify) : C++
   - A modified Spotify client with DRM bypass.
-- [carla](https://github.com/carla-simulator/carla) : C++
-  - Open-source simulator for autonomous driving research.
-- [spot-sdk](https://github.com/boston-dynamics/spot-sdk) : HTML
-  - Spot SDK repo
-- [v2rayN](https://github.com/2dust/v2rayN) : C#
-- [getflutter](https://github.com/ionicfirebaseapp/getflutter) : Dart
-  - Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) : 
+  - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+- [wuhan2020](https://github.com/wuhan2020/wuhan2020) : 
+  - 武汉新型冠状病毒防疫信息收集平台
+- [hackerEnv](https://github.com/abdulr7mann/hackerEnv) : Shell
+- [hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) : 
+  - 📌 A guide for amateurs pen testers and a collection of hacking tools, resources and references to practice ethical hacking, pen testing and web security.
+- [thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) : C
+  - Various tips & tricks
+- [Apple](https://github.com/v2net/Apple) : 
+  - 苹果美区账号 APPLE ID 免费账号共享
 - [v](https://github.com/vlang/v) : V
   - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero dependencies. Stable 0.2 release in January 2020. https://vlang.io
-- [starter-workflows](https://github.com/actions/starter-workflows) : 
-  - Accelerating new GitHub Actions workflows
-- [godot](https://github.com/godotengine/godot) : C++
-  - Godot Engine – Multi-platform 2D and 3D game engine
+- [SecLists](https://github.com/danielmiessler/SecLists) : PHP
+  - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+- [getflutter](https://github.com/ionicfirebaseapp/getflutter) : Dart
+  - Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.
+- [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) : HTML
+  - 吴恩达老师的机器学习课程个人笔记
+- [reformer-pytorch](https://github.com/lucidrains/reformer-pytorch) : Python
+  - Reformer, the efficient Transformer, in Pytorch
+- [home-assistant](https://github.com/home-assistant/home-assistant) : Python
+  - 🏡 Open source home automation that puts local control and privacy first
+- [deno](https://github.com/denoland/deno) : TypeScript
+  - A secure JavaScript and TypeScript runtime
+- [DevYouTubeList](https://github.com/ErikCH/DevYouTubeList) : 
+  - List of Development YouTube Channels
+- [hyperblog](https://github.com/freddier/hyperblog) : HTML
+  - Un blog increíble para el curso de Git y Github de Platzi
+- [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) : C#
+  - 🐝 A collection of awesome .NET core libraries, tools, frameworks and software
+- [v2ray](https://github.com/233boy/v2ray) : Shell
+  - 最好用的 V2Ray 一键安装脚本 & 管理脚本
+- [ncov](https://github.com/nextstrain/ncov) : Python
+  - Nextstrain build for novel coronavirus (nCoV)
+- [csharp-web](https://github.com/SoftUni/csharp-web) : C#
+  - This is the official GitHub repository for the C# Web Development courses
+- [fish-shell](https://github.com/fish-shell/fish-shell) : Shell
+  - The user-friendly command line shell.
+- [tensorflow](https://github.com/tensorflow/tensorflow) : C++
+  - An Open Source Machine Learning Framework for Everyone
+- [spot-sdk](https://github.com/boston-dynamics/spot-sdk) : HTML
+  - Spot SDK repo
+- [NewPipe](https://github.com/TeamNewPipe/NewPipe) : Java
+  - A libre lightweight streaming front-end for Android.
+- [systemd](https://github.com/systemd/systemd) : C
+  - The systemd System and Service Manager

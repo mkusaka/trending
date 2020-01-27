@@ -1,51 +1,51 @@
 # c++
 - [XSpotify](https://github.com/meik97/XSpotify)
   - A modified Spotify client with DRM bypass.
-- [carla](https://github.com/carla-simulator/carla)
-  - Open-source simulator for autonomous driving research.
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [BIGTREETECH-SKR-V1.3](https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3)
-  - 32bit board with LPC1768, support marlin2.0 and smoothieware, support lcd2004/12864, On-board TMC2130 SPI interface and TMC2208 UART interface no additional wiring is required
-- [giu](https://github.com/AllenDang/giu)
-  - Cross platform rapid GUI framework for golang based on Dear ImGui
-- [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe)
-  - waifu2xのCaffe版
-- [mame](https://github.com/mamedev/mame)
-  - MAME
-- [filament](https://github.com/google/filament)
-  - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
-- [abseil-cpp](https://github.com/abseil/abseil-cpp)
-  - Abseil Common Libraries (C++)
-- [minetest](https://github.com/minetest/minetest)
-  - Minetest, an open source infinite-world block sandbox game engine with support for survival and crafting. Also see https://github.com/minetest/minetest_game
-- [tdesktop](https://github.com/telegramdesktop/tdesktop)
-  - Telegram Desktop messaging app
-- [keepassxc](https://github.com/keepassxreboot/keepassxc)
-  - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+- [tensorflow](https://github.com/tensorflow/tensorflow)
+  - An Open Source Machine Learning Framework for Everyone
+- [Tasmota](https://github.com/arendst/Tasmota)
+  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
 - [opencv](https://github.com/opencv/opencv)
   - Open Source Computer Vision Library
-- [LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL)
-  - Code repository of all OpenGL tutorials found at https://learnopengl.com
-- [self-driving-car](https://github.com/ndrplz/self-driving-car)
-  - Udacity Self-Driving Car Engineer Nanodegree projects.
-- [dxvk](https://github.com/doitsujin/dxvk)
-  - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
-- [snapcast](https://github.com/badaix/snapcast)
-  - Synchronous multiroom audio player
-- [bitcoin](https://github.com/bitcoin/bitcoin)
-  - Bitcoin Core integration/staging tree
-- [milvus](https://github.com/milvus-io/milvus)
-  - Milvus -- the world's fastest vector search engine.
-- [aseprite](https://github.com/aseprite/aseprite)
-  - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
-- [llvm-project](https://github.com/llvm/llvm-project)
-  - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
-- [uWebSockets](https://github.com/uNetworking/uWebSockets)
-  - Simple, secure & standards compliant web I/O for the most demanding of applications
-- [conky](https://github.com/brndnmtthws/conky)
-  - Light-weight system monitor for X.
-- [The-Open-Book](https://github.com/joeycastillo/The-Open-Book)
-  - 
-- [bpftrace](https://github.com/iovisor/bpftrace)
-  - High-level tracing language for Linux eBPF
+- [pytorch-cpp](https://github.com/prabhuomkar/pytorch-cpp)
+  - C++ Implementation of PyTorch Tutorial for Deep Learning Researchers
+- [memhunter](https://github.com/marcosd4h/memhunter)
+  - Live hunting of code injection techniques
+- [tdesktop](https://github.com/telegramdesktop/tdesktop)
+  - Telegram Desktop messaging app
+- [Proton](https://github.com/ValveSoftware/Proton)
+  - Compatibility tool for Steam Play based on Wine and additional components
+- [serenity](https://github.com/SerenityOS/serenity)
+  - Serenity Operating System
+- [esphome](https://github.com/esphome/esphome)
+  - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+- [wav2letter](https://github.com/facebookresearch/wav2letter)
+  - Facebook AI Research's Automatic Speech Recognition Toolkit
+- [openmw](https://github.com/OpenMW/openmw)
+  - OpenMW is an open-source open-world RPG game engine that supports playing Morrowind.
+- [svg-explorer-extension](https://github.com/tibold/svg-explorer-extension)
+  - Extension module for Windows Explorer to render SVG thumbnails, so that you can have an overview of your SVG files
+- [s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse)
+  - FUSE-based file system backed by Amazon S3
+- [ardupilot](https://github.com/ArduPilot/ardupilot)
+  - ArduPlane, ArduCopter, ArduRover source
+- [calculator](https://github.com/microsoft/calculator)
+  - Windows Calculator: A simple yet powerful calculator that ships with Windows
+- [trojan](https://github.com/trojan-gfw/trojan)
+  - An unidentifiable mechanism that helps you bypass GFW.
+- [WeChatRobot](https://github.com/TonyChen56/WeChatRobot)
+  - PC版微信机器人
+- [shotcut](https://github.com/mltframework/shotcut)
+  - cross-platform (Qt), open-source (GPLv3) video editor
+- [carla](https://github.com/carla-simulator/carla)
+  - Open-source simulator for autonomous driving research.
+- [Marlin](https://github.com/MarlinFirmware/Marlin)
+  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
+- [simdjson](https://github.com/lemire/simdjson)
+  - Parsing gigabytes of JSON per second
+- [godot](https://github.com/godotengine/godot)
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [ArduinoJson](https://github.com/bblanchon/ArduinoJson)
+  - 📟 JSON library for Arduino and embedded C++. Simple and efficient.
+- [ESPEasy](https://github.com/letscontrolit/ESPEasy)
+  - Easy MultiSensor device based on ESP8266
