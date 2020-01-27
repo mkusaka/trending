@@ -1,51 +1,51 @@
 # typescript
 - [deno](https://github.com/denoland/deno)
   - A secure JavaScript and TypeScript runtime
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
-- [wuhan2020](https://github.com/wuhan2020/wuhan2020)
-  - 武汉新型冠状病毒防疫信息收集平台
-- [turbolinks](https://github.com/turbolinks/turbolinks)
-  - Turbolinks makes navigating your web application faster
-- [berry](https://github.com/yarnpkg/berry)
-  - 📦🐈 The active development trunk for Yarn 2 ⚒
-- [angular-cli](https://github.com/angular/angular-cli)
-  - CLI tool for Angular
-- [face-api.js](https://github.com/justadudewhohacks/face-api.js)
-  - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
-- [reflect-metadata](https://github.com/rbuckton/reflect-metadata)
-  - Prototype for a Metadata Reflection API for ECMAScript
-- [web](https://github.com/bitwarden/web)
-  - The website vault (vault.bitwarden.com).
-- [reactfire](https://github.com/FirebaseExtended/reactfire)
-  - Hooks, Context Providers, and Components that make it easy to interact with Firebase.
-- [vuetify](https://github.com/vuetifyjs/vuetify)
-  - 🐉 Material Component Framework for Vue
-- [flipper](https://github.com/facebook/flipper)
-  - A desktop debugging platform for mobile developers.
-- [docz](https://github.com/doczjs/docz)
-  - ✍ It has never been so easy to document your things!
 - [utterances](https://github.com/utterance/utterances)
   - 🔮 A lightweight comments widget built on GitHub issues
-- [botpress](https://github.com/botpress/botpress)
-  - 🤖 The Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants.
-- [BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
-  - Dialog creation and management for Microsoft Bot Framework Applications
-- [vscode-live-server](https://github.com/ritwickdey/vscode-live-server)
-  - Launch a development local Server with live reload feature for static & dynamic pages.
-- [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator)
-  - GraphQL code generator with flexible support for custom plugins and templates
-- [Babylon.js](https://github.com/BabylonJS/Babylon.js)
-  - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
-- [desktop](https://github.com/desktop/desktop)
-  - Simple collaboration from your desktop
-- [primeng](https://github.com/primefaces/primeng)
-  - The Most Complete UI Component Library for Angular
-- [storybook](https://github.com/storybookjs/storybook)
-  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
-- [hyper](https://github.com/zeit/hyper)
-  - A terminal built on web technologies
-- [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react)
-  - React components for building Microsoft web experiences.
+- [TypeScript-Babel-Starter](https://github.com/microsoft/TypeScript-Babel-Starter)
+  - A sample setup using Babel CLI to build TypeScript code, and using TypeScript for type-checking.
+- [material-components-web-components](https://github.com/material-components/material-components-web-components)
+  - Material Design Web Components
+- [Parsr](https://github.com/axa-group/Parsr)
+  - Transforms PDF, Documents and Images into Enriched Structured Data
+- [gatsby-theme-novela](https://github.com/narative/gatsby-theme-novela)
+  - Welcome to Novela, the simplest way to start publishing with Gatsby.
+- [bulletproof-nodejs](https://github.com/santiq/bulletproof-nodejs)
+  - Implementation of a bulletproof node.js API 🛡️
+- [react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide)
+  - The complete guide to static typing in "React & Redux" apps using TypeScript
+- [rxjs](https://github.com/ReactiveX/rxjs)
+  - A reactive programming library for JavaScript
+- [OctoDash](https://github.com/UnchartedBull/OctoDash)
+  - OctoDash is a simple, but beautiful dashboard for OctoPrint.
+- [toolkit](https://github.com/actions/toolkit)
+  - The GitHub ToolKit for developing GitHub Actions.
+- [voice-web](https://github.com/mozilla/voice-web)
+  - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
+- [probot](https://github.com/probot/probot)
+  - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [react-flow-chart](https://github.com/MrBlenny/react-flow-chart)
   - A flexible, stateless, declarative flow chart library for react.
+- [clarity](https://github.com/vmware/clarity)
+  - UX guidelines, HTML/CSS framework, and Angular components working together to craft exceptional experiences
+- [react-three-fiber](https://github.com/react-spring/react-three-fiber)
+  - 🇨🇭A react renderer for threejs (web and react-native)
+- [nest](https://github.com/nestjs/nest)
+  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [pnpm](https://github.com/pnpm/pnpm)
+  - 📦🚀 Fast, disk space efficient package manager
+- [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
+  - Foreign language reading and translation assistant based on copy and translate.
+- [components](https://github.com/angular/components)
+  - Component infrastructure and Material Design components for Angular
+- [kutt](https://github.com/thedevs-network/kutt)
+  - Free Modern URL Shortener.
+- [vscode-live-server](https://github.com/ritwickdey/vscode-live-server)
+  - Launch a development local Server with live reload feature for static & dynamic pages.
+- [tailwindcss-classnames](https://github.com/christianalfoni/tailwindcss-classnames)
+  - Functional typed classnames for TailwindCSS
+- [Babylon.js](https://github.com/BabylonJS/Babylon.js)
+  - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
+- [treat](https://github.com/seek-oss/treat)
+  - 🍬 Themeable, statically extracted CSS‑in‑JS with near‑zero runtime.

@@ -1,51 +1,51 @@
 # ruby
-- [faker](https://github.com/faker-ruby/faker)
-  - A library for generating fake data such as names, addresses, and phone numbers.
-- [explore](https://github.com/github/explore)
-  - Community-curated topic and collection pages on GitHub
-- [lobsters](https://github.com/lobsters/lobsters)
-  - Computing-focused community centered around link aggregation and discussion
-- [octokit.rb](https://github.com/octokit/octokit.rb)
-  - Ruby toolkit for the GitHub API
-- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
-  - Metasploit Framework
-- [brew](https://github.com/Homebrew/brew)
-  - 🍺 The missing package manager for macOS (or Linux)
-- [fast_template](https://github.com/fastai/fast_template)
-  - A template for really easy blogging with GitHub Pages
-- [arachni](https://github.com/Arachni/arachni)
-  - Web Application Security Scanner Framework
-- [rails](https://github.com/rails/rails)
-  - Ruby on Rails
-- [airport_challenge](https://github.com/makersacademy/airport_challenge)
-  - Fly!
-- [rack-intro-chi01-seng-ft-010620](https://github.com/learn-co-students/rack-intro-chi01-seng-ft-010620)
-  - 
-- [sinatra-from-scratch-readme](https://github.com/learn-co-curriculum/sinatra-from-scratch-readme)
-  - 
-- [barber](https://github.com/michaeleisel/barber)
-  - Fast build times for big Swift projects
-- [scraping-reading-online-web-pt-120919](https://github.com/learn-co-students/scraping-reading-online-web-pt-120919)
-  - 
-- [nested-hash-iteration-code-along-online-web-sp-000](https://github.com/learn-co-students/nested-hash-iteration-code-along-online-web-sp-000)
-  - 
-- [oo-custom-errors-onl01-seng-pt-120819](https://github.com/learn-co-students/oo-custom-errors-onl01-seng-pt-120819)
-  - 
+- [truffleruby](https://github.com/oracle/truffleruby)
+  - A high performance implementation of the Ruby programming language. Built on the GraalVM by Oracle Labs.
+- [sorbet](https://github.com/sorbet/sorbet)
+  - A fast, powerful type checker designed for Ruby
+- [mastodon](https://github.com/tootsuite/mastodon)
+  - Your self-hosted, globally interconnected microblogging community
 - [choosealicense.com](https://github.com/github/choosealicense.com)
   - A site to provide non-judgmental guidance on choosing a license for your open source project
-- [intro-to-rake-online-web-ft-120919](https://github.com/learn-co-students/intro-to-rake-online-web-ft-120919)
-  - 
-- [translating-orm-to-ar-online-web-ft-120919](https://github.com/learn-co-students/translating-orm-to-ar-online-web-ft-120919)
-  - 
-- [mass-assignment-onl01-seng-pt-120819](https://github.com/learn-co-students/mass-assignment-onl01-seng-pt-120819)
-  - 
 - [devise](https://github.com/heartcombo/devise)
   - Flexible authentication solution for Rails with Warden.
+- [rails](https://github.com/rails/rails)
+  - Ruby on Rails
+- [diaspora](https://github.com/diaspora/diaspora)
+  - A privacy-aware, distributed, open source social network.
+- [jekyll](https://github.com/jekyll/jekyll)
+  - 🌐 Jekyll is a blog-aware static site generator in Ruby
+- [sinatra-hello-world-basics-chi01-seng-ft-010620](https://github.com/learn-co-students/sinatra-hello-world-basics-chi01-seng-ft-010620)
+  - 
+- [sinatra-basic-routes-lab-chi01-seng-ft-010620](https://github.com/learn-co-students/sinatra-basic-routes-lab-chi01-seng-ft-010620)
+  - 
+- [sinatra-shotgun-server-chi01-seng-ft-010620](https://github.com/learn-co-students/sinatra-shotgun-server-chi01-seng-ft-010620)
+  - 
+- [rack-responses-lab-nyc-clarke-web-010620](https://github.com/learn-co-students/rack-responses-lab-nyc-clarke-web-010620)
+  - 
+- [nhs-hack-day-23](https://github.com/madetech/nhs-hack-day-23)
+  - Social Prescription Recommender
+- [sinatra-from-scratch-readme](https://github.com/learn-co-curriculum/sinatra-from-scratch-readme)
+  - 
+- [rack-dynamic-web-apps-nyc-clarke-web-010620](https://github.com/learn-co-students/rack-dynamic-web-apps-nyc-clarke-web-010620)
+  - 
+- [rails-cru-form_for-lab-online-web-ft-110419](https://github.com/learn-co-students/rails-cru-form_for-lab-online-web-ft-110419)
+  - 
+- [scraping-reading-onl01-seng-pt-120819](https://github.com/learn-co-students/scraping-reading-onl01-seng-pt-120819)
+  - 
+- [sinatra-integrating-models-walkthrough-online-web-sp-000](https://github.com/learn-co-students/sinatra-integrating-models-walkthrough-online-web-sp-000)
+  - 
+- [rack-intro-nyc-clarke-web-010620](https://github.com/learn-co-students/rack-intro-nyc-clarke-web-010620)
+  - 
 - [quine-relay](https://github.com/mame/quine-relay)
   - An uroboros program with 100+ programming languages
-- [programming-univbasics-nds-nds-to-insight-with-methods-repetition-lab-london-web-012720](https://github.com/learn-co-students/programming-univbasics-nds-nds-to-insight-with-methods-repetition-lab-london-web-012720)
+- [ttt-1-welcome-rb-cb-gh-000](https://github.com/learn-co-students/ttt-1-welcome-rb-cb-gh-000)
   - 
-- [retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig)
-  - RetroArch joypad autoconfig files
-- [activerecord-crud-onl01-seng-pt-100619](https://github.com/learn-co-students/activerecord-crud-onl01-seng-pt-100619)
+- [hello-world-ruby-cb-gh-000](https://github.com/learn-co-students/hello-world-ruby-cb-gh-000)
+  - 
+- [array-CRUD-lab-onl01-seng-pt-012120](https://github.com/learn-co-students/array-CRUD-lab-onl01-seng-pt-012120)
+  - 
+- [airport_challenge](https://github.com/makersacademy/airport_challenge)
+  - Fly!
+- [dynamic-orms-readme-online-web-ft-120919](https://github.com/learn-co-students/dynamic-orms-readme-online-web-ft-120919)
   - 

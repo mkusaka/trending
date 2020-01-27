@@ -1,51 +1,51 @@
 # go
-- [k8s-deployment-strategies](https://github.com/ContainerSolutions/k8s-deployment-strategies)
-  - Kubernetes deployment strategies explained
-- [bettercap](https://github.com/bettercap/bettercap)
-  - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
-- [torrent-client](https://github.com/veggiedefender/torrent-client)
-  - Tiny BitTorrent client written in Go
-- [wzd](https://github.com/eltaline/wzd)
-  - wZD is a powerful storage server, designed for big data storage systems with small and large files for mixed use and dramatically reduces count of small files for extend abilities any normal or clustered POSIX compatible file systems.
-- [hub](https://github.com/github/hub)
-  - A command-line tool that makes git easier to use with GitHub.
-- [Go](https://github.com/TheAlgorithms/Go)
-  - Algorithms Implemented in GoLang
+- [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy)
+  - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
+- [awesome-go](https://github.com/avelino/awesome-go)
+  - A curated list of awesome Go frameworks, libraries and software
+- [golang-web-dev](https://github.com/GoesToEleven/golang-web-dev)
+  - 
+- [sample-controller](https://github.com/kubernetes/sample-controller)
+  - Repository for sample controller. Complements sample-apiserver
+- [mock](https://github.com/golang/mock)
+  - GoMock is a mocking framework for the Go programming language.
+- [algorithms](https://github.com/priyankchheda/algorithms)
+  - Data Structure Libraries and Algorithms implementation
+- [node_exporter](https://github.com/prometheus/node_exporter)
+  - Exporter for machine metrics
+- [fyne](https://github.com/fyne-io/fyne)
+  - Cross platform GUI in Go based on Material Design
 - [photoprism](https://github.com/photoprism/photoprism)
   - Personal Photo Management powered by Go and Google TensorFlow
-- [ink](https://github.com/buchanae/ink)
-  - Creative coding in Go
-- [tview](https://github.com/rivo/tview)
-  - Rich interactive widgets for terminal-based UIs written in Go
-- [cloud-on-k8s](https://github.com/elastic/cloud-on-k8s)
-  - Elastic Cloud on Kubernetes
-- [ko](https://github.com/google/ko)
-  - Build and deploy Go applications on Kubernetes
-- [clash](https://github.com/Dreamacro/clash)
-  - A rule-based tunnel in Go.
-- [statping](https://github.com/hunterlong/statping)
-  - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
-- [micro](https://github.com/zyedidia/micro)
-  - A modern and intuitive terminal-based text editor
-- [badger](https://github.com/dgraph-io/badger)
-  - Fast key-value DB in Go.
-- [tools](https://github.com/golang/tools)
-  - [mirror] Go Tools
-- [cloud-nuke](https://github.com/gruntwork-io/cloud-nuke)
-  - A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it
-- [community](https://github.com/kubernetes/community)
-  - Kubernetes community content
-- [octant](https://github.com/vmware-tanzu/octant)
-  - A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
-- [gqlgen](https://github.com/99designs/gqlgen)
-  - go generate based graphql server library
-- [k9s](https://github.com/derailed/k9s)
-  - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [brook](https://github.com/txthinking/brook)
-  - Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software
-- [hey](https://github.com/rakyll/hey)
-  - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
-- [skaffold](https://github.com/GoogleContainerTools/skaffold)
-  - Easy and Repeatable Kubernetes Development
-- [thanos](https://github.com/thanos-io/thanos)
-  - Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.
+- [tank](https://github.com/eyebluecn/tank)
+  - 《蓝眼云盘》(Eyeblue Cloud Storage)
+- [argocd-notifications](https://github.com/argoproj-labs/argocd-notifications)
+  - Notifications for Argo CD
+- [gout](https://github.com/guonaihong/gout)
+  - gout to become the Swiss Army Knife of the http client @^^@---> gout 是http client领域的瑞士军刀，小巧，强大，犀利。具体用法可看文档，如使用迷惑或者API用得不爽都可提issues
+- [hugo](https://github.com/gohugoio/hugo)
+  - The world’s fastest framework for building websites.
+- [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
+  - Network-wide ads & trackers blocking DNS server
+- [merlin](https://github.com/Ne0nd0g/merlin)
+  - Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.
+- [kube-scan](https://github.com/octarinesec/kube-scan)
+  - kube-scan: Octarine k8s cluster risk assessment tool
+- [validator](https://github.com/go-playground/validator)
+  - 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+- [klum](https://github.com/ibuildthecloud/klum)
+  - Kubernetes Lazy User Manager
+- [IrisAdminApi](https://github.com/snowlyg/IrisAdminApi)
+  - iris 框架的后台api项目
+- [ghostunnel](https://github.com/square/ghostunnel)
+  - A simple SSL/TLS proxy with mutual authentication for securing non-TLS services
+- [v2ray-web-manager](https://github.com/master-coder-ll/v2ray-web-manager)
+  - v2ray-web-manager 是一个tls+ws+v2ray 一端口多用户解决方案同时增加了流量控制/账号管理/限速等功能。key word: v2ray admin , v2ray pannel ,v2ray web
+- [redis](https://github.com/go-redis/redis)
+  - Type-safe Redis client for Golang
+- [cosmos-sdk](https://github.com/cosmos/cosmos-sdk)
+  - ⛓ A Framework for Building High Value Public Blockchains ✨
+- [annie](https://github.com/iawia002/annie)
+  - 👾 Fast, simple and clean video downloader
+- [lxd](https://github.com/lxc/lxd)
+  - Daemon based on liblxc offering a REST API to manage containers
