@@ -1,51 +1,51 @@
 # javascript
-- [userbase](https://github.com/encrypted-dev/userbase)
-  - Create secure and private web apps using only static JavaScript, HTML, and CSS.
-- [vue-apollo](https://github.com/vuejs/vue-apollo)
-  - 🚀 Apollo/GraphQL integration for VueJS
-- [Javascript](https://github.com/TheAlgorithms/Javascript)
-  - A repository for All algorithms implemented in Javascript (for educational purposes only)
+- [jira_clone](https://github.com/oldboyxx/jira_clone)
+  - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
 - [permission-manager](https://github.com/sighupio/permission-manager)
   - Permission Manager is a project that brings sanity to Kubernetes RBAC and Users management, Web UI FTW
-- [QuantumultX](https://github.com/nzw9314/QuantumultX)
-  - QuantumultX
-- [yarn](https://github.com/yarnpkg/yarn)
-  - 📦🐈 Fast, reliable, and secure dependency management.
-- [front-end-interview](https://github.com/Advanced-Interview-Question/front-end-interview)
-  - A list of interview for front-end developer(前端开发者面试清单)
-- [bypass-paywalls-firefox](https://github.com/iamadamdev/bypass-paywalls-firefox)
-  - Bypass Paywalls for Firefox
-- [miragejs](https://github.com/miragejs/miragejs)
-  - A client-side server to develop, test and prototype your JavaScript app
-- [esercizi-di-programmazione-javascript](https://github.com/AlbertoOlla/esercizi-di-programmazione-javascript)
-  - Esercizi di informatica! Impara a programmare, metti alla prova!
-- [curso-javascript-ninja](https://github.com/da2k/curso-javascript-ninja)
-  - Curso Javascript Ninja
-- [Script](https://github.com/NobyDa/Script)
-  - This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.
-- [magnetW](https://github.com/xiandanin/magnetW)
-  - 磁力链接聚合搜索
-- [mocha](https://github.com/mochajs/mocha)
-  - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [dribbble2react](https://github.com/react-ui-kit/dribbble2react)
+  - Transform Dribbble designs to React-Native code & YouTube video tutorials
 - [bootstrap](https://github.com/twbs/bootstrap)
   - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [AndroidAssetStudio](https://github.com/romannurik/AndroidAssetStudio)
-  - A set of web-based tools for generating graphics and other assets that would eventually be in an Android application's res/ directory.
-- [api-platform](https://github.com/api-platform/api-platform)
-  - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
-- [markdown-here](https://github.com/adam-p/markdown-here)
-  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
-- [sweetalert2](https://github.com/sweetalert2/sweetalert2)
-  - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
-- [beautiful-react-hooks](https://github.com/beautifulinteractions/beautiful-react-hooks)
-  - 🔥A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
+- [deck.gl](https://github.com/uber/deck.gl)
+  - WebGL2 powered geospatial visualization layers
+- [svelte](https://github.com/sveltejs/svelte)
+  - Cybernetically enhanced web apps
+- [netlify-cms](https://github.com/netlify/netlify-cms)
+  - A CMS for Static Site Generators
+- [botium-speech-processing](https://github.com/codeforequity-at/botium-speech-processing)
+  - Botium Speech Processing
+- [CyberChef](https://github.com/gchq/CyberChef)
+  - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+- [awx](https://github.com/ansible/awx)
+  - AWX Project
+- [killedbygoogle](https://github.com/codyogden/killedbygoogle)
+  - Part guillotine, part graveyard for Google's doomed apps, services, and hardware.
+- [vue-enterprise-boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate)
+  - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI 3.
 - [nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager)
   - Docker container for managing Nginx proxy hosts with a simple, powerful interface
-- [baiduyun](https://github.com/syhyz1990/baiduyun)
-  - 🖖油猴脚本 一个脚本搞定百度网盘下载 https://www.baiduyun.wiki
-- [nideshop-mini-program](https://github.com/tumobi/nideshop-mini-program)
-  - NideShop：基于Node.js+MySQL开发的开源微信小程序商城（微信小程序）
-- [dash.js](https://github.com/Dash-Industry-Forum/dash.js)
-  - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
-- [jafar](https://github.com/yahoo/jafar)
-  - 🌟!(Just another form application renderer)
+- [typeofnan-javascript-quizzes](https://github.com/nas5w/typeofnan-javascript-quizzes)
+  - JavaScript quiz questions and explanations!
+- [gridsome](https://github.com/gridsome/gridsome)
+  - ⚡️Build modern JAMstack websites with Vue.js
+- [todomvc](https://github.com/tastejs/todomvc)
+  - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [beautiful-react-hooks](https://github.com/beautifulinteractions/beautiful-react-hooks)
+  - 🔥A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
+- [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper)
+  - 🏆 Swiper component for @vuejs
+- [joplin](https://github.com/laurent22/joplin)
+  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [Javascript](https://github.com/TheAlgorithms/Javascript)
+  - A repository for All algorithms implemented in Javascript (for educational purposes only)
+- [marktext](https://github.com/marktext/marktext)
+  - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+- [select2](https://github.com/select2/select2)
+  - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
+- [fullPage.js](https://github.com/alvarotrigo/fullPage.js)
+  - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple

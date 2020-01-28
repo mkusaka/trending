@@ -1,51 +1,51 @@
 # ruby
-- [truffleruby](https://github.com/oracle/truffleruby)
-  - A high performance implementation of the Ruby programming language. Built on the GraalVM by Oracle Labs.
-- [sorbet](https://github.com/sorbet/sorbet)
-  - A fast, powerful type checker designed for Ruby
-- [mastodon](https://github.com/tootsuite/mastodon)
-  - Your self-hosted, globally interconnected microblogging community
-- [choosealicense.com](https://github.com/github/choosealicense.com)
-  - A site to provide non-judgmental guidance on choosing a license for your open source project
-- [devise](https://github.com/heartcombo/devise)
-  - Flexible authentication solution for Rails with Warden.
-- [rails](https://github.com/rails/rails)
-  - Ruby on Rails
-- [diaspora](https://github.com/diaspora/diaspora)
-  - A privacy-aware, distributed, open source social network.
-- [jekyll](https://github.com/jekyll/jekyll)
-  - 🌐 Jekyll is a blog-aware static site generator in Ruby
-- [sinatra-hello-world-basics-chi01-seng-ft-010620](https://github.com/learn-co-students/sinatra-hello-world-basics-chi01-seng-ft-010620)
-  - 
-- [sinatra-basic-routes-lab-chi01-seng-ft-010620](https://github.com/learn-co-students/sinatra-basic-routes-lab-chi01-seng-ft-010620)
-  - 
-- [sinatra-shotgun-server-chi01-seng-ft-010620](https://github.com/learn-co-students/sinatra-shotgun-server-chi01-seng-ft-010620)
-  - 
-- [rack-responses-lab-nyc-clarke-web-010620](https://github.com/learn-co-students/rack-responses-lab-nyc-clarke-web-010620)
-  - 
-- [nhs-hack-day-23](https://github.com/madetech/nhs-hack-day-23)
-  - Social Prescription Recommender
+- [markup](https://github.com/github/markup)
+  - Determines which markup library to use to render a content file (e.g. README) on GitHub
+- [linguist](https://github.com/github/linguist)
+  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+- [setup](https://github.com/lewagon/setup)
+  - Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp
+- [fast_template](https://github.com/fastai/fast_template)
+  - A template for really easy blogging with GitHub Pages
+- [scientist](https://github.com/github/scientist)
+  - 🔬 A Ruby library for carefully refactoring critical paths.
+- [rubocop](https://github.com/rubocop-hq/rubocop)
+  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
+  - Ruby implementation of GraphQL
+- [dev.to](https://github.com/thepracticaldev/dev.to)
+  - Where programmers share ideas and help each other grow
+- [fastlane](https://github.com/fastlane/fastlane)
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [factory_bot](https://github.com/thoughtbot/factory_bot)
+  - A library for setting up Ruby objects as test data.
+- [ISO-3166-Countries-with-Regional-Codes](https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes)
+  - ISO 3166-1 country lists merged with their UN Geoscheme regional codes in ready-to-use JSON, XML, CSV data sets
+- [nodejs-learning-guide](https://github.com/chyingp/nodejs-learning-guide)
+  - Nodejs学习笔记以及经验总结，公众号"程序猿小卡"
 - [sinatra-from-scratch-readme](https://github.com/learn-co-curriculum/sinatra-from-scratch-readme)
   - 
-- [rack-dynamic-web-apps-nyc-clarke-web-010620](https://github.com/learn-co-students/rack-dynamic-web-apps-nyc-clarke-web-010620)
+- [rack-dynamic-web-apps-dumbo-web-010620](https://github.com/learn-co-students/rack-dynamic-web-apps-dumbo-web-010620)
+  - 
+- [rack-intro-dumbo-web-010620](https://github.com/learn-co-students/rack-intro-dumbo-web-010620)
+  - 
+- [rails-resource-and-scaffold-generator-online-web-ft-110419](https://github.com/learn-co-students/rails-resource-and-scaffold-generator-online-web-ft-110419)
+  - 
+- [bitbar-remaining-time-to-spend-with-my-children](https://github.com/mizoR/bitbar-remaining-time-to-spend-with-my-children)
+  - 
+- [rails-blog-scaffold-online-web-ft-110419](https://github.com/learn-co-students/rails-blog-scaffold-online-web-ft-110419)
+  - 
+- [activerecord-validations-lab-online-web-ft-110419](https://github.com/learn-co-students/activerecord-validations-lab-online-web-ft-110419)
+  - 
+- [scraping-flatiron-code-along-online-web-pt-120919](https://github.com/learn-co-students/scraping-flatiron-code-along-online-web-pt-120919)
   - 
 - [rails-cru-form_for-lab-online-web-ft-110419](https://github.com/learn-co-students/rails-cru-form_for-lab-online-web-ft-110419)
   - 
-- [scraping-reading-onl01-seng-pt-120819](https://github.com/learn-co-students/scraping-reading-onl01-seng-pt-120819)
+- [sinatra-hello-world-basics-nyc-clarke-web-010620](https://github.com/learn-co-students/sinatra-hello-world-basics-nyc-clarke-web-010620)
   - 
-- [sinatra-integrating-models-walkthrough-online-web-sp-000](https://github.com/learn-co-students/sinatra-integrating-models-walkthrough-online-web-sp-000)
+- [barber](https://github.com/michaeleisel/barber)
+  - Fast build times for big Swift projects
+- [cli-applications-simple-blackjack-austin-web-012720](https://github.com/learn-co-students/cli-applications-simple-blackjack-austin-web-012720)
   - 
-- [rack-intro-nyc-clarke-web-010620](https://github.com/learn-co-students/rack-intro-nyc-clarke-web-010620)
-  - 
-- [quine-relay](https://github.com/mame/quine-relay)
-  - An uroboros program with 100+ programming languages
-- [ttt-1-welcome-rb-cb-gh-000](https://github.com/learn-co-students/ttt-1-welcome-rb-cb-gh-000)
-  - 
-- [hello-world-ruby-cb-gh-000](https://github.com/learn-co-students/hello-world-ruby-cb-gh-000)
-  - 
-- [array-CRUD-lab-onl01-seng-pt-012120](https://github.com/learn-co-students/array-CRUD-lab-onl01-seng-pt-012120)
-  - 
-- [airport_challenge](https://github.com/makersacademy/airport_challenge)
-  - Fly!
-- [dynamic-orms-readme-online-web-ft-120919](https://github.com/learn-co-students/dynamic-orms-readme-online-web-ft-120919)
+- [reverse-each-word-onl01-seng-pt-012220](https://github.com/learn-co-students/reverse-each-word-onl01-seng-pt-012220)
   - 
