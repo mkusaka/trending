@@ -1,51 +1,51 @@
 # rust
-- [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
-  - Ultra relevant, instant, and typo-tolerant full-text search API
-- [lemmy](https://github.com/dessalines/lemmy)
-  - 🐀 Building a federated alternative to reddit in rust
-- [tarpaulin](https://github.com/xd009642/tarpaulin)
-  - A code coverage tool for Rust projects
-- [sqlx](https://github.com/launchbadge/sqlx)
-  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL.
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
-- [jsparagus](https://github.com/mozilla-spidermonkey/jsparagus)
-  - Parser generators
-- [druid](https://github.com/xi-editor/druid)
-  - A data-first Rust-native UI design toolkit.
-- [nom](https://github.com/Geal/nom)
-  - Rust parser combinator framework
 - [tokio](https://github.com/tokio-rs/tokio)
   - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [polkadot](https://github.com/paritytech/polkadot)
-  - Polkadot Node Implementation
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The cross-shell prompt for astronauts
 - [rust-music-theory](https://github.com/ozankasikci/rust-music-theory)
   - A music theory guide written in Rust.
-- [wasm3-rs](https://github.com/Veykril/wasm3-rs)
-  - Rust wrapper for WASM3(https://github.com/wasm3/wasm3)
-- [flamegraph](https://github.com/flamegraph-rs/flamegraph)
-  - Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3
-- [async-std](https://github.com/async-rs/async-std)
-  - Async version of the Rust standard library
-- [warp](https://github.com/seanmonstar/warp)
-  - A super-easy, composable, web server framework for warp speeds.
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
-- [wasm-flate](https://github.com/drbh/wasm-flate)
-  - 🗜️⚡The fastest compression and decompression in the browser and server. Supports GZIP, ZLIB and DEFLATE
-- [snips-nlu-parsers](https://github.com/snipsco/snips-nlu-parsers)
-  - Rust crate for entity parsing
-- [rediSQL](https://github.com/RedBeardLab/rediSQL)
-  - Redis module that provides a completely functional SQL database
-- [RustQIP](https://github.com/Renmusxd/RustQIP)
-  - Quantum computing using rust. Efficient and a borrow-checked no cloning theorem!
-- [rust](https://github.com/tensorflow/rust)
-  - Rust language bindings for TensorFlow
-- [juniper](https://github.com/graphql-rust/juniper)
-  - GraphQL server library for Rust
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
+- [sqlx](https://github.com/launchbadge/sqlx)
+  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL.
+- [tock](https://github.com/tock/tock)
+  - A secure embedded operating system for microcontrollers
+- [druid](https://github.com/xi-editor/druid)
+  - A data-first Rust-native UI design toolkit.
+- [tracing](https://github.com/tokio-rs/tracing)
+  - Application level tracing for Rust.
+- [wasmtime](https://github.com/bytecodealliance/wasmtime)
+  - Standalone JIT-style runtime for WebAssembly, using Cranelift
+- [librespot](https://github.com/librespot-org/librespot)
+  - Open Source Spotify client library
+- [996.ICU](https://github.com/996icu/996.ICU)
+  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
+  - Ultra relevant, instant, and typo-tolerant full-text search API
+- [spotify-tui](https://github.com/Rigellute/spotify-tui)
+  - Spotify for the terminal written in Rust 🚀
+- [lemmy](https://github.com/dessalines/lemmy)
+  - 🐀 Building a federated alternative to reddit in rust
+- [neovide](https://github.com/Kethku/neovide)
+  - No Nonsense Neovim Client in Rust
 - [rage](https://github.com/str4d/rage)
   - A simple, secure and modern encryption tool with small explicit keys, no config options, and UNIX-style composability.
+- [rediSQL](https://github.com/RedBeardLab/rediSQL)
+  - Redis module that provides a completely functional SQL database
+- [neon](https://github.com/neon-bindings/neon)
+  - Rust bindings for writing safe and fast native Node.js modules.
 - [sonic](https://github.com/valeriansaliou/sonic)
   - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
+- [BLAKE3](https://github.com/BLAKE3-team/BLAKE3)
+  - The BLAKE3 cryptographic hash function
+- [rust-lib-template](https://github.com/yoshuawuyts/rust-lib-template)
+  - Rust lib template repository
+- [rust-evmap](https://github.com/jonhoo/rust-evmap)
+  - A lock-free, eventually consistent, concurrent multi-value map.
+- [RustQIP](https://github.com/Renmusxd/RustQIP)
+  - Quantum computing using rust. Efficient and a borrow-checked no cloning theorem!
+- [websocat](https://github.com/vi/websocat)
+  - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
+- [coffee](https://github.com/hecrj/coffee)
+  - An opinionated 2D game engine for Rust
+- [azul](https://github.com/maps4print/azul)
+  - Desktop GUI Framework

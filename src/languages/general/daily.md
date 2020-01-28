@@ -1,50 +1,50 @@
 # general
-- [XSpotify](https://github.com/meik97/XSpotify) : C++
-  - A modified Spotify client with DRM bypass.
-- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) : 
-  - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [wuhan2020](https://github.com/wuhan2020/wuhan2020) : 
-  - 武汉新型冠状病毒防疫信息收集平台
-- [hackerEnv](https://github.com/abdulr7mann/hackerEnv) : Shell
+- [jira_clone](https://github.com/oldboyxx/jira_clone) : JavaScript
+  - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
 - [hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) : 
   - 📌 A guide for amateurs pen testers and a collection of hacking tools, resources and references to practice ethical hacking, pen testing and web security.
+- [wuhan2020](https://github.com/wuhan2020/wuhan2020) : 
+  - 武汉新型冠状病毒防疫信息收集平台
+- [XSpotify](https://github.com/meik97/XSpotify) : C++
+  - A modified Spotify client with DRM bypass.
+- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) : 
+  - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+- [awesome-ld-preload](https://github.com/gaul/awesome-ld-preload) : 
+  - List of resources related to LD_PRELOAD, a mechanism for changing application behavior at run-time
+- [NLP-progress](https://github.com/sebastianruder/NLP-progress) : Python
+  - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
+- [wuhan2020.github.io](https://github.com/wuhan2020/wuhan2020.github.io) : TypeScript
+  - 渐进式 Web 应用
+- [dl-keras-tf](https://github.com/rstudio-conf-2020/dl-keras-tf) : HTML
+  - rstudio::conf(2020) deep learning workshop
+- [applied-ml](https://github.com/rstudio-conf-2020/applied-ml) : HTML
+  - Code and Resources for "Applied Machine Learning"
+- [markup](https://github.com/github/markup) : Ruby
+  - Determines which markup library to use to render a content file (e.g. README) on GitHub
+- [AwsOrganizationFormation](https://github.com/OlafConijn/AwsOrganizationFormation) : TypeScript
+  - Better than landingzones!
 - [thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) : C
   - Various tips & tricks
-- [Apple](https://github.com/v2net/Apple) : 
-  - 苹果美区账号 APPLE ID 免费账号共享
-- [v](https://github.com/vlang/v) : V
-  - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero dependencies. Stable 0.2 release in January 2020. https://vlang.io
-- [SecLists](https://github.com/danielmiessler/SecLists) : PHP
-  - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
-- [getflutter](https://github.com/ionicfirebaseapp/getflutter) : Dart
-  - Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.
+- [eng-practices](https://github.com/google/eng-practices) : 
+  - Google's Engineering Practices documentation
+- [call-for-health](https://github.com/lyricat/call-for-health) : Vue
+- [berry](https://github.com/yarnpkg/berry) : TypeScript
+  - 📦🐈 The active development trunk for Yarn 2 ⚒
+- [permission-manager](https://github.com/sighupio/permission-manager) : JavaScript
+  - Permission Manager is a project that brings sanity to Kubernetes RBAC and Users management, Web UI FTW
+- [api-server](https://github.com/wuhan2020/api-server) : Python
+  - 武汉新型冠状病毒防疫信息收集平台后端代理
 - [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) : HTML
   - 吴恩达老师的机器学习课程个人笔记
-- [reformer-pytorch](https://github.com/lucidrains/reformer-pytorch) : Python
-  - Reformer, the efficient Transformer, in Pytorch
 - [home-assistant](https://github.com/home-assistant/home-assistant) : Python
   - 🏡 Open source home automation that puts local control and privacy first
-- [deno](https://github.com/denoland/deno) : TypeScript
-  - A secure JavaScript and TypeScript runtime
-- [DevYouTubeList](https://github.com/ErikCH/DevYouTubeList) : 
-  - List of Development YouTube Channels
-- [hyperblog](https://github.com/freddier/hyperblog) : HTML
-  - Un blog increíble para el curso de Git y Github de Platzi
-- [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) : C#
-  - 🐝 A collection of awesome .NET core libraries, tools, frameworks and software
-- [v2ray](https://github.com/233boy/v2ray) : Shell
-  - 最好用的 V2Ray 一键安装脚本 & 管理脚本
-- [ncov](https://github.com/nextstrain/ncov) : Python
-  - Nextstrain build for novel coronavirus (nCoV)
-- [csharp-web](https://github.com/SoftUni/csharp-web) : C#
-  - This is the official GitHub repository for the C# Web Development courses
-- [fish-shell](https://github.com/fish-shell/fish-shell) : Shell
-  - The user-friendly command line shell.
-- [tensorflow](https://github.com/tensorflow/tensorflow) : C++
-  - An Open Source Machine Learning Framework for Everyone
-- [spot-sdk](https://github.com/boston-dynamics/spot-sdk) : HTML
-  - Spot SDK repo
-- [NewPipe](https://github.com/TeamNewPipe/NewPipe) : Java
-  - A libre lightweight streaming front-end for Android.
-- [systemd](https://github.com/systemd/systemd) : C
-  - The systemd System and Service Manager
+- [pytorch-cpp](https://github.com/prabhuomkar/pytorch-cpp) : C++
+  - C++ Implementation of PyTorch Tutorial for Deep Learning Researchers
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl) : Python
+  - Command-line program to download videos from YouTube.com and other video sites
+- [springcloud-learning](https://github.com/macrozheng/springcloud-learning) : Java
+  - 一套涵盖大部分核心组件使用的Spring Cloud教程，包括Spring Cloud Alibaba及分布式事务Seata，基于Spring Cloud Greenwich及SpringBoot 2.1.7。20篇文章，篇篇精华，30个Demo，涵盖大部分应用场景。
+- [localstack](https://github.com/localstack/localstack) : Python
+  - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
+- [rathena](https://github.com/rathena/rathena) : C++
+  - rAthena is an open-source cross-platform MMORPG server.

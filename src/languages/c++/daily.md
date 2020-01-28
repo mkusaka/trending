@@ -1,51 +1,51 @@
 # c++
 - [XSpotify](https://github.com/meik97/XSpotify)
   - A modified Spotify client with DRM bypass.
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [Tasmota](https://github.com/arendst/Tasmota)
-  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
-- [opencv](https://github.com/opencv/opencv)
-  - Open Source Computer Vision Library
 - [pytorch-cpp](https://github.com/prabhuomkar/pytorch-cpp)
   - C++ Implementation of PyTorch Tutorial for Deep Learning Researchers
+- [rathena](https://github.com/rathena/rathena)
+  - rAthena is an open-source cross-platform MMORPG server.
+- [tensorflow](https://github.com/tensorflow/tensorflow)
+  - An Open Source Machine Learning Framework for Everyone
 - [memhunter](https://github.com/marcosd4h/memhunter)
   - Live hunting of code injection techniques
-- [tdesktop](https://github.com/telegramdesktop/tdesktop)
-  - Telegram Desktop messaging app
-- [Proton](https://github.com/ValveSoftware/Proton)
-  - Compatibility tool for Steam Play based on Wine and additional components
-- [serenity](https://github.com/SerenityOS/serenity)
-  - Serenity Operating System
-- [esphome](https://github.com/esphome/esphome)
-  - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
-- [wav2letter](https://github.com/facebookresearch/wav2letter)
-  - Facebook AI Research's Automatic Speech Recognition Toolkit
-- [openmw](https://github.com/OpenMW/openmw)
-  - OpenMW is an open-source open-world RPG game engine that supports playing Morrowind.
-- [svg-explorer-extension](https://github.com/tibold/svg-explorer-extension)
-  - Extension module for Windows Explorer to render SVG thumbnails, so that you can have an overview of your SVG files
-- [s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse)
-  - FUSE-based file system backed by Amazon S3
-- [ardupilot](https://github.com/ArduPilot/ardupilot)
-  - ArduPlane, ArduCopter, ArduRover source
-- [calculator](https://github.com/microsoft/calculator)
-  - Windows Calculator: A simple yet powerful calculator that ships with Windows
-- [trojan](https://github.com/trojan-gfw/trojan)
-  - An unidentifiable mechanism that helps you bypass GFW.
-- [WeChatRobot](https://github.com/TonyChen56/WeChatRobot)
-  - PC版微信机器人
-- [shotcut](https://github.com/mltframework/shotcut)
-  - cross-platform (Qt), open-source (GPLv3) video editor
-- [carla](https://github.com/carla-simulator/carla)
-  - Open-source simulator for autonomous driving research.
-- [Marlin](https://github.com/MarlinFirmware/Marlin)
-  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
-- [simdjson](https://github.com/lemire/simdjson)
-  - Parsing gigabytes of JSON per second
 - [godot](https://github.com/godotengine/godot)
   - Godot Engine – Multi-platform 2D and 3D game engine
-- [ArduinoJson](https://github.com/bblanchon/ArduinoJson)
-  - 📟 JSON library for Arduino and embedded C++. Simple and efficient.
-- [ESPEasy](https://github.com/letscontrolit/ESPEasy)
-  - Easy MultiSensor device based on ESP8266
+- [serving](https://github.com/tensorflow/serving)
+  - A flexible, high-performance serving system for machine learning models
+- [Learn-Deep-Learn-With-Me](https://github.com/Lauzanhing/Learn-Deep-Learn-With-Me)
+  - 🔥机器学习/深度学习/Python/算法面试/自然语言处理教程 / machine learning/deeplearning/Python/Algorithm interview/NLP Tutorial
+- [Open3D](https://github.com/intel-isl/Open3D)
+  - Open3D: A Modern Library for 3D Data Processing
+- [eos](https://github.com/EOSIO/eos)
+  - An open source smart contract platform
+- [pytorch](https://github.com/pytorch/pytorch)
+  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [terrier](https://github.com/cmu-db/terrier)
+  - You know what this is...
+- [BIGTREETECH-SKR-mini-E3](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3)
+  - BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.
+- [MEGAcmd](https://github.com/meganz/MEGAcmd)
+  - Command Line Interactive and Scriptable Application to access MEGA
+- [cardboard](https://github.com/googlevr/cardboard)
+  - Open source Cardboard SDK and samples
+- [snapcast](https://github.com/badaix/snapcast)
+  - Synchronous multiroom audio player
+- [BIGTREETECH-SKR-V1.3](https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3)
+  - 32bit board with LPC1768, support marlin2.0 and smoothieware, support lcd2004/12864, On-board TMC2130 SPI interface and TMC2208 UART interface no additional wiring is required
+- [spdlog](https://github.com/gabime/spdlog)
+  - Fast C++ logging library.
+- [Catch2](https://github.com/catchorg/Catch2)
+  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [arrow](https://github.com/apache/arrow)
+  - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…
+- [opencv](https://github.com/opencv/opencv)
+  - Open Source Computer Vision Library
+- [unlimited-landeng-for-win](https://github.com/JuncoJet/unlimited-landeng-for-win)
+  - 无限流量灯，你懂的，我不解释
+- [or-tools](https://github.com/google/or-tools)
+  - Google's Operations Research tools:
+- [filament](https://github.com/google/filament)
+  - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
+- [mosh](https://github.com/mobile-shell/mosh)
+  - Mobile Shell
