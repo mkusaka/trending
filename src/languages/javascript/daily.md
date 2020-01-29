@@ -1,51 +1,51 @@
 # javascript
 - [jira_clone](https://github.com/oldboyxx/jira_clone)
   - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
-- [permission-manager](https://github.com/sighupio/permission-manager)
-  - Permission Manager is a project that brings sanity to Kubernetes RBAC and Users management, Web UI FTW
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [dribbble2react](https://github.com/react-ui-kit/dribbble2react)
-  - Transform Dribbble designs to React-Native code & YouTube video tutorials
-- [bootstrap](https://github.com/twbs/bootstrap)
-  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [deck.gl](https://github.com/uber/deck.gl)
-  - WebGL2 powered geospatial visualization layers
-- [svelte](https://github.com/sveltejs/svelte)
-  - Cybernetically enhanced web apps
-- [netlify-cms](https://github.com/netlify/netlify-cms)
-  - A CMS for Static Site Generators
-- [botium-speech-processing](https://github.com/codeforequity-at/botium-speech-processing)
-  - Botium Speech Processing
-- [CyberChef](https://github.com/gchq/CyberChef)
-  - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-- [awx](https://github.com/ansible/awx)
-  - AWX Project
-- [killedbygoogle](https://github.com/codyogden/killedbygoogle)
-  - Part guillotine, part graveyard for Google's doomed apps, services, and hardware.
+- [pneumonia](https://github.com/lispczz/pneumonia)
+  - 中国新型冠状病毒肺炎地级市疫情图
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+  - Headless Chrome Node.js API
+- [Scripts](https://github.com/outflanknl/Scripts)
+  - Small scripts that make life better
 - [vue-enterprise-boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate)
   - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI 3.
-- [nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager)
-  - Docker container for managing Nginx proxy hosts with a simple, powerful interface
-- [typeofnan-javascript-quizzes](https://github.com/nas5w/typeofnan-javascript-quizzes)
-  - JavaScript quiz questions and explanations!
-- [gridsome](https://github.com/gridsome/gridsome)
-  - ⚡️Build modern JAMstack websites with Vue.js
-- [todomvc](https://github.com/tastejs/todomvc)
-  - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [beautiful-react-hooks](https://github.com/beautifulinteractions/beautiful-react-hooks)
-  - 🔥A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
-- [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper)
-  - 🏆 Swiper component for @vuejs
-- [joplin](https://github.com/laurent22/joplin)
-  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
-- [Javascript](https://github.com/TheAlgorithms/Javascript)
-  - A repository for All algorithms implemented in Javascript (for educational purposes only)
-- [marktext](https://github.com/marktext/marktext)
-  - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [select2](https://github.com/select2/select2)
-  - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui)
+  - ⚡️Simple, Modular & Accessible UI Components for your React Applications
+- [react-native-firebase](https://github.com/invertase/react-native-firebase)
+  - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
+- [map-viz](https://github.com/wuhan2020/map-viz)
+  - 通用的地图可视化组件
+- [bootcamp-gostack-desafio-01](https://github.com/Rocketseat/bootcamp-gostack-desafio-01)
+  - Desafio do primeiro módulo do Bootcamp GoStack 🚀👨🏻‍🚀
+- [gulp](https://github.com/gulpjs/gulp)
+  - The streaming build system
+- [gun](https://github.com/amark/gun)
+  - A realtime, decentralized, offline-first, graph protocol to sync the web.
+- [nuxt.js](https://github.com/nuxt/nuxt.js)
+  - The Vue.js Framework
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
+  - Starter files, final projects and FAQ for my Complete JavaScript course
+- [core-js](https://github.com/zloirock/core-js)
+  - Standard Library
+- [Detox](https://github.com/wix/Detox)
+  - Gray box end-to-end testing and automation framework for mobile apps
 - [fullPage.js](https://github.com/alvarotrigo/fullPage.js)
   - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
+- [theme-ui](https://github.com/system-ui/theme-ui)
+  - Build consistent, themeable React apps based on constraint-based design principles
+- [react-chartjs-2](https://github.com/jerairrest/react-chartjs-2)
+  - React wrapper for Chart.js
+- [dribbble2react](https://github.com/react-ui-kit/dribbble2react)
+  - Transform Dribbble designs to React-Native code & YouTube video tutorials
+- [nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager)
+  - Docker container for managing Nginx proxy hosts with a simple, powerful interface
+- [date-fns](https://github.com/date-fns/date-fns)
+  - ⏳ Modern JavaScript date utility library ⌛️
+- [debezium-examples](https://github.com/debezium/debezium-examples)
+  - Examples for running Debezium (Configuration, Docker Compose files etc.)
+- [Inputmask](https://github.com/RobinHerbots/Inputmask)
+  - Input Mask plugin
+- [Chart.js](https://github.com/chartjs/Chart.js)
+  - Simple HTML5 Charts using the <canvas> tag
+- [carbon](https://github.com/carbon-design-system/carbon)
+  - A design system built by IBM

@@ -1,51 +1,51 @@
 # c++
+- [The-Open-Book](https://github.com/joeycastillo/The-Open-Book)
+  - 
 - [XSpotify](https://github.com/meik97/XSpotify)
   - A modified Spotify client with DRM bypass.
-- [pytorch-cpp](https://github.com/prabhuomkar/pytorch-cpp)
-  - C++ Implementation of PyTorch Tutorial for Deep Learning Researchers
+- [Marlin](https://github.com/MarlinFirmware/Marlin)
+  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
+- [rapidjson](https://github.com/Tencent/rapidjson)
+  - A fast JSON parser/generator for C++ with both SAX/DOM style API
 - [rathena](https://github.com/rathena/rathena)
   - rAthena is an open-source cross-platform MMORPG server.
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [memhunter](https://github.com/marcosd4h/memhunter)
-  - Live hunting of code injection techniques
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [serving](https://github.com/tensorflow/serving)
-  - A flexible, high-performance serving system for machine learning models
-- [Learn-Deep-Learn-With-Me](https://github.com/Lauzanhing/Learn-Deep-Learn-With-Me)
-  - 🔥机器学习/深度学习/Python/算法面试/自然语言处理教程 / machine learning/deeplearning/Python/Algorithm interview/NLP Tutorial
-- [Open3D](https://github.com/intel-isl/Open3D)
-  - Open3D: A Modern Library for 3D Data Processing
-- [eos](https://github.com/EOSIO/eos)
-  - An open source smart contract platform
+- [reconfigurable_organisms](https://github.com/skriegman/reconfigurable_organisms)
+  - 
+- [xtensor](https://github.com/xtensor-stack/xtensor)
+  - C++ tensors with broadcasting and lazy computing
+- [googletest](https://github.com/google/googletest)
+  - Googletest - Google Testing and Mocking Framework
+- [grpc-web](https://github.com/grpc/grpc-web)
+  - gRPC for Web Clients
+- [taichi](https://github.com/taichi-dev/taichi)
+  - The Taichi programming language
+- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+  - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+- [Trilinos](https://github.com/trilinos/Trilinos)
+  - Primary repository for the Trilinos Project
+- [electron](https://github.com/electron/electron)
+  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [srt](https://github.com/Haivision/srt)
+  - Secure, Reliable, Transport
+- [protobuf](https://github.com/protocolbuffers/protobuf)
+  - Protocol Buffers - Google's data interchange format
+- [re2](https://github.com/google/re2)
+  - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+- [onnxruntime](https://github.com/microsoft/onnxruntime)
+  - ONNX Runtime: cross-platform, high performance scoring engine for ML models
+- [calculator](https://github.com/microsoft/calculator)
+  - Windows Calculator: A simple yet powerful calculator that ships with Windows
+- [nix](https://github.com/NixOS/nix)
+  - Nix, the purely functional package manager
+- [Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+  - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
 - [pytorch](https://github.com/pytorch/pytorch)
   - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [terrier](https://github.com/cmu-db/terrier)
-  - You know what this is...
-- [BIGTREETECH-SKR-mini-E3](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3)
-  - BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.
-- [MEGAcmd](https://github.com/meganz/MEGAcmd)
-  - Command Line Interactive and Scriptable Application to access MEGA
-- [cardboard](https://github.com/googlevr/cardboard)
-  - Open source Cardboard SDK and samples
-- [snapcast](https://github.com/badaix/snapcast)
-  - Synchronous multiroom audio player
-- [BIGTREETECH-SKR-V1.3](https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3)
-  - 32bit board with LPC1768, support marlin2.0 and smoothieware, support lcd2004/12864, On-board TMC2130 SPI interface and TMC2208 UART interface no additional wiring is required
+- [p4c](https://github.com/p4lang/p4c)
+  - P4_16 prototype compiler
+- [taichi_mpm](https://github.com/yuanming-hu/taichi_mpm)
+  - High-performance material point method (MPM) solver. (ACM Transactions on Graphics, SIGGRAPH 2018)
+- [godot](https://github.com/godotengine/godot)
+  - Godot Engine – Multi-platform 2D and 3D game engine
 - [spdlog](https://github.com/gabime/spdlog)
   - Fast C++ logging library.
-- [Catch2](https://github.com/catchorg/Catch2)
-  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-- [arrow](https://github.com/apache/arrow)
-  - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…
-- [opencv](https://github.com/opencv/opencv)
-  - Open Source Computer Vision Library
-- [unlimited-landeng-for-win](https://github.com/JuncoJet/unlimited-landeng-for-win)
-  - 无限流量灯，你懂的，我不解释
-- [or-tools](https://github.com/google/or-tools)
-  - Google's Operations Research tools:
-- [filament](https://github.com/google/filament)
-  - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
-- [mosh](https://github.com/mobile-shell/mosh)
-  - Mobile Shell

@@ -1,51 +1,51 @@
 # rust
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [rust-music-theory](https://github.com/ozankasikci/rust-music-theory)
-  - A music theory guide written in Rust.
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [sqlx](https://github.com/launchbadge/sqlx)
-  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL.
-- [tock](https://github.com/tock/tock)
-  - A secure embedded operating system for microcontrollers
-- [druid](https://github.com/xi-editor/druid)
-  - A data-first Rust-native UI design toolkit.
-- [tracing](https://github.com/tokio-rs/tracing)
-  - Application level tracing for Rust.
-- [wasmtime](https://github.com/bytecodealliance/wasmtime)
-  - Standalone JIT-style runtime for WebAssembly, using Cranelift
-- [librespot](https://github.com/librespot-org/librespot)
-  - Open Source Spotify client library
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
-  - Ultra relevant, instant, and typo-tolerant full-text search API
-- [spotify-tui](https://github.com/Rigellute/spotify-tui)
-  - Spotify for the terminal written in Rust 🚀
-- [lemmy](https://github.com/dessalines/lemmy)
-  - 🐀 Building a federated alternative to reddit in rust
 - [neovide](https://github.com/Kethku/neovide)
   - No Nonsense Neovim Client in Rust
-- [rage](https://github.com/str4d/rage)
-  - A simple, secure and modern encryption tool with small explicit keys, no config options, and UNIX-style composability.
-- [rediSQL](https://github.com/RedBeardLab/rediSQL)
-  - Redis module that provides a completely functional SQL database
-- [neon](https://github.com/neon-bindings/neon)
-  - Rust bindings for writing safe and fast native Node.js modules.
-- [sonic](https://github.com/valeriansaliou/sonic)
-  - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
-- [BLAKE3](https://github.com/BLAKE3-team/BLAKE3)
-  - The BLAKE3 cryptographic hash function
-- [rust-lib-template](https://github.com/yoshuawuyts/rust-lib-template)
-  - Rust lib template repository
-- [rust-evmap](https://github.com/jonhoo/rust-evmap)
-  - A lock-free, eventually consistent, concurrent multi-value map.
-- [RustQIP](https://github.com/Renmusxd/RustQIP)
-  - Quantum computing using rust. Efficient and a borrow-checked no cloning theorem!
+- [cargo-atcoder](https://github.com/tanakh/cargo-atcoder)
+  - Cargo subcommand for AtCoder
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
+- [cargo](https://github.com/rust-lang/cargo)
+  - The Rust package manager
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - ripgrep recursively searches directories for a regex pattern
+- [tree-sitter](https://github.com/tree-sitter/tree-sitter)
+  - An incremental parsing system for programming tools
+- [sqlx](https://github.com/launchbadge/sqlx)
+  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL.
+- [bandwhich](https://github.com/imsnif/bandwhich)
+  - Terminal bandwidth utilization tool
+- [tokio](https://github.com/tokio-rs/tokio)
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
 - [websocat](https://github.com/vi/websocat)
   - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
-- [coffee](https://github.com/hecrj/coffee)
-  - An opinionated 2D game engine for Rust
-- [azul](https://github.com/maps4print/azul)
-  - Desktop GUI Framework
+- [nushell](https://github.com/nushell/nushell)
+  - A modern shell written in Rust
+- [py-spy](https://github.com/benfred/py-spy)
+  - Sampling profiler for Python programs
+- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
+  - Facilitating high-level interactions between Wasm modules and JavaScript
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
+- [wrangler](https://github.com/cloudflare/wrangler)
+  - 🤠 wrangle your cloudflare workers
+- [yaiouom](https://github.com/Yoric/yaiouom)
+  - Prototype extension of the Rust type system towards checking units-of-measure
+- [librespot](https://github.com/librespot-org/librespot)
+  - Open Source Spotify client library
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [druid](https://github.com/xi-editor/druid)
+  - A data-first Rust-native UI design toolkit.
+- [grin](https://github.com/mimblewimble/grin)
+  - Minimal implementation of the Mimblewimble protocol.
+- [tokenizers](https://github.com/huggingface/tokenizers)
+  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [neon](https://github.com/neon-bindings/neon)
+  - Rust bindings for writing safe and fast native Node.js modules.
