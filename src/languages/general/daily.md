@@ -1,50 +1,50 @@
 # general
-- [wuhan2020.github.io](https://github.com/wuhan2020/wuhan2020.github.io) : TypeScript
-  - 渐进式 Web 应用
-- [jira_clone](https://github.com/oldboyxx/jira_clone) : JavaScript
-  - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
-- [wuhan2020](https://github.com/wuhan2020/wuhan2020) : 
-  - 武汉新型冠状病毒防疫信息收集平台
-- [ApplicationInspector](https://github.com/microsoft/ApplicationInspector) : C#
-  - A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'what's in it' using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.
-- [api-server](https://github.com/wuhan2020/api-server) : Python
-  - 武汉新型冠状病毒防疫信息收集平台后端代理
-- [pneumonia](https://github.com/lispczz/pneumonia) : JavaScript
-  - 中国新型冠状病毒肺炎地级市疫情图
-- [hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) : 
-  - 📌 A guide for amateurs pen testers and a collection of hacking tools, resources and references to practice ethical hacking, pen testing and web security.
-- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) : 
-  - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [puppeteer](https://github.com/puppeteer/puppeteer) : JavaScript
-  - Headless Chrome Node.js API
-- [rex-gym](https://github.com/nicrusso7/rex-gym) : Python
-  - OpenAI Gym environments for an open-source quadruped robot (SpotMicro)
-- [spiderfoot](https://github.com/smicallef/spiderfoot) : Python
-  - SpiderFoot, the most complete OSINT collection and reconnaissance tool.
-- [rich](https://github.com/willmcgugan/rich) : Python
-  - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [swift-doc](https://github.com/SwiftDocOrg/swift-doc) : Swift
-  - Generates documentation for Swift projects
-- [Scripts](https://github.com/outflanknl/Scripts) : JavaScript
-  - Small scripts that make life better
-- [2019-wuhan-coronavirus-data](https://github.com/globalcitizen/2019-wuhan-coronavirus-data) : PHP
-  - 2019 Wuhan Coronavirus data (2019-nCoV)
-- [freelancing-in-finland](https://github.com/sam-hosseini/freelancing-in-finland) : 
-  - The ultimate resource for transitioning to freelancing for software developers 👩‍💻🇫🇮
+- [Guide-RGPD-du-developpeur](https://github.com/LINCnil/Guide-RGPD-du-developpeur) : HTML
+  - La CNIL publie un guide RGPD pour les développeurs
 - [shareOI](https://github.com/hzwer/shareOI) : 
   - OI & ACM 课件分享
+- [difftaichi](https://github.com/yuanming-hu/difftaichi) : 
+  - 10 differentiable physical simulators built with Taichi differentiable programming (DiffTaichi, ICLR 2020)
+- [hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) : 
+  - 📌 A guide for amateurs pen testers and a collection of hacking tools, resources and references to practice ethical hacking, pen testing and web security.
+- [wuhan2020](https://github.com/wuhan2020/wuhan2020) : 
+  - 武汉新型冠状病毒防疫信息收集平台
+- [jira_clone](https://github.com/oldboyxx/jira_clone) : JavaScript
+  - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
+- [DXY-2019-nCoV-Crawler](https://github.com/BlankerL/DXY-2019-nCoV-Crawler) : Python
+  - 2019新型冠状病毒疫情实时爬虫
+- [map-viz](https://github.com/wuhan2020/map-viz) : JavaScript
+  - 通用的地图可视化组件
+- [tutorials](https://github.com/eugenp/tutorials) : Java
+  - Just Announced - "Learn Spring Security OAuth":
+- [freelancing-in-finland](https://github.com/sam-hosseini/freelancing-in-finland) : 
+  - The ultimate resource for transitioning to freelancing for software developers 👩‍💻🇫🇮
+- [2019-wuhan-coronavirus-data](https://github.com/globalcitizen/2019-wuhan-coronavirus-data) : PHP
+  - 2019 Wuhan Coronavirus data (2019-nCoV)
+- [dabl](https://github.com/amueller/dabl) : Jupyter Notebook
+  - Data Analysis Baseline Library
+- [python-cheatsheet](https://github.com/gto76/python-cheatsheet) : Python
+  - Comprehensive Python Cheatsheet
+- [spiderfoot](https://github.com/smicallef/spiderfoot) : Python
+  - SpiderFoot, the most complete OSINT collection and reconnaissance tool.
+- [WebApp](https://github.com/wuhan2020/WebApp) : TypeScript
+  - 渐进式 Web 应用
+- [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) : JavaScript
+  - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
+- [tidytuesday](https://github.com/rfordatascience/tidytuesday) : R
+  - Official repo for the #tidytuesday project
+- [architect-awesome](https://github.com/xingshaocheng/architect-awesome) : 
+  - 后端架构师技术图谱
+- [reconfigurable_organisms](https://github.com/skriegman/reconfigurable_organisms) : C++
 - [NLP-progress](https://github.com/sebastianruder/NLP-progress) : Python
   - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
-- [earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks) : Jupyter Notebook
-  - A collection of 300+ Jupyter Python notebook examples for using Google Earth Engine with interactive mapping
-- [introtodeeplearning](https://github.com/aamini/introtodeeplearning) : Jupyter Notebook
-  - Lab Materials for MIT 6.S191: Introduction to Deep Learning
-- [neovide](https://github.com/Kethku/neovide) : Rust
-  - No Nonsense Neovim Client in Rust
-- [atomic-red-team](https://github.com/redcanaryco/atomic-red-team) : PowerShell
-  - Small and highly portable detection tests based on MITRE's ATT&CK.
-- [DAIN](https://github.com/baowenbo/DAIN) : Python
-  - Depth-Aware Video Frame Interpolation (CVPR 2019)
-- [The-Open-Book](https://github.com/joeycastillo/The-Open-Book) : C++
-- [XSpotify](https://github.com/meik97/XSpotify) : C++
-  - A modified Spotify client with DRM bypass.
+- [sight](https://github.com/rish-16/sight) : Python
+  - 👁Sightseer: State-of-the-art Computer Vision and Object Detection for TensorFlow
+- [computer-science](https://github.com/ossu/computer-science) : 
+  - 🎓 Path to a free self-taught education in Computer Science!
+- [mml-book.github.io](https://github.com/mml-book/mml-book.github.io) : Jupyter Notebook
+  - Companion webpage to the book "Mathematics For Machine Learning"
+- [Awesome](https://github.com/Awesome-Windows/Awesome) : 
+  - 💻 An awesome & curated list of best applications and tools for Windows.
+- [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) : Python
+  - A list of awesome applications, software, tools and other materials for Linux distros.

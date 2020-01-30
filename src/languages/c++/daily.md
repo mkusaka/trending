@@ -1,51 +1,51 @@
 # c++
-- [The-Open-Book](https://github.com/joeycastillo/The-Open-Book)
-  - 
-- [XSpotify](https://github.com/meik97/XSpotify)
-  - A modified Spotify client with DRM bypass.
-- [Marlin](https://github.com/MarlinFirmware/Marlin)
-  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
-- [rapidjson](https://github.com/Tencent/rapidjson)
-  - A fast JSON parser/generator for C++ with both SAX/DOM style API
-- [rathena](https://github.com/rathena/rathena)
-  - rAthena is an open-source cross-platform MMORPG server.
 - [reconfigurable_organisms](https://github.com/skriegman/reconfigurable_organisms)
   - 
-- [xtensor](https://github.com/xtensor-stack/xtensor)
-  - C++ tensors with broadcasting and lazy computing
-- [googletest](https://github.com/google/googletest)
-  - Googletest - Google Testing and Mocking Framework
-- [grpc-web](https://github.com/grpc/grpc-web)
-  - gRPC for Web Clients
-- [taichi](https://github.com/taichi-dev/taichi)
-  - The Taichi programming language
-- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
-  - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
-- [Trilinos](https://github.com/trilinos/Trilinos)
-  - Primary repository for the Trilinos Project
-- [electron](https://github.com/electron/electron)
-  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [srt](https://github.com/Haivision/srt)
-  - Secure, Reliable, Transport
-- [protobuf](https://github.com/protocolbuffers/protobuf)
-  - Protocol Buffers - Google's data interchange format
-- [re2](https://github.com/google/re2)
-  - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
-- [onnxruntime](https://github.com/microsoft/onnxruntime)
-  - ONNX Runtime: cross-platform, high performance scoring engine for ML models
-- [calculator](https://github.com/microsoft/calculator)
-  - Windows Calculator: A simple yet powerful calculator that ships with Windows
-- [nix](https://github.com/NixOS/nix)
-  - Nix, the purely functional package manager
-- [Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-  - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
-- [pytorch](https://github.com/pytorch/pytorch)
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [p4c](https://github.com/p4lang/p4c)
-  - P4_16 prototype compiler
-- [taichi_mpm](https://github.com/yuanming-hu/taichi_mpm)
-  - High-performance material point method (MPM) solver. (ACM Transactions on Graphics, SIGGRAPH 2018)
+- [terminal](https://github.com/microsoft/terminal)
+  - The new Windows Terminal, and the original Windows console host - all in the same place!
+- [The-Open-Book](https://github.com/joeycastillo/The-Open-Book)
+  - 
+- [Temper-ESP8266](https://github.com/mcer12/Temper-ESP8266)
+  - Temper is a compact temperature sensor based on ESP8266 and SHT30 with large 13x7 pixel led display.
+- [lammps](https://github.com/lammps/lammps)
+  - Public development project of the LAMMPS MD software package
 - [godot](https://github.com/godotengine/godot)
   - Godot Engine – Multi-platform 2D and 3D game engine
-- [spdlog](https://github.com/gabime/spdlog)
-  - Fast C++ logging library.
+- [botnets](https://github.com/maestron/botnets)
+  - This is a collection of #botnet source codes, unorganized. For EDUCATIONAL PURPOSES ONLY
+- [fivem](https://github.com/citizenfx/fivem)
+  - The source code for the FiveM modification framework for GTA V.
+- [taichi](https://github.com/taichi-dev/taichi)
+  - The Taichi programming language
+- [FreeCAD](https://github.com/FreeCAD/FreeCAD)
+  - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker
+- [LogonCredentialsSteal](https://github.com/oxfemale/LogonCredentialsSteal)
+  - LOCAL AND REMOTE HOOK msv1_0!SpAcceptCredentials from LSASS.exe and DUMP DOMAIN/LOGIN/PASSWORD IN CLEARTEXT to text file.
+- [realsense-ros](https://github.com/IntelRealSense/realsense-ros)
+  - Intel(R) RealSense(TM) ROS Wrapper for D400 series, SR300 Camera and T265 Tracking Module
+- [Tasmota](https://github.com/arendst/Tasmota)
+  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
+- [bitcoin](https://github.com/bitcoin/bitcoin)
+  - Bitcoin Core integration/staging tree
+- [Proton](https://github.com/ValveSoftware/Proton)
+  - Compatibility tool for Steam Play based on Wine and additional components
+- [ESP3D](https://github.com/luc-github/ESP3D)
+  - FW for ESP8266/ESP8285/ESP32 used with 3D printer
+- [videos](https://github.com/OneLoneCoder/videos)
+  - The official distribution of olcConsoleGameEngine, a tool used in javidx9's YouTube videos and projects
+- [wxWidgets](https://github.com/wxWidgets/wxWidgets)
+  - Cross-Platform GUI Library - Report issues here: https://trac.wxwidgets.org/
+- [ClickHouse](https://github.com/ClickHouse/ClickHouse)
+  - ClickHouse is a free analytics DBMS for big data
+- [nanogui](https://github.com/wjakob/nanogui)
+  - Minimalistic GUI library for OpenGL
+- [benchmark](https://github.com/google/benchmark)
+  - A microbenchmark support library
+- [interpret](https://github.com/interpretml/interpret)
+  - Fit interpretable machine learning models. Explain blackbox machine learning.
+- [cmder](https://github.com/cmderdev/cmder)
+  - Lovely console emulator package for Windows
+- [pytorch](https://github.com/pytorch/pytorch)
+  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [onnxruntime](https://github.com/microsoft/onnxruntime)
+  - ONNX Runtime: cross-platform, high performance scoring engine for ML models

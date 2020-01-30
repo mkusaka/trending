@@ -1,51 +1,51 @@
 # go
-- [cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-  - Home for the Cluster Management API work, a subproject of sig-cluster-lifecycle
-- [remark](https://github.com/umputun/remark)
-  - comment engine
-- [node_exporter](https://github.com/prometheus/node_exporter)
-  - Exporter for machine metrics
-- [flamingo](https://github.com/atredispartners/flamingo)
-  - Flamingo captures credentials sprayed across the network by various IT and security products.
-- [groupcache](https://github.com/golang/groupcache)
-  - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 - [trivy](https://github.com/aquasecurity/trivy)
   - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
-- [websocket](https://github.com/gorilla/websocket)
-  - A fast, well-tested and widely used WebSocket implementation for Go.
-- [kustomize](https://github.com/kubernetes-sigs/kustomize)
-  - Customization of kubernetes YAML configurations
-- [installer](https://github.com/openshift/installer)
-  - Install an OpenShift cluster
-- [google-cloud-go](https://github.com/googleapis/google-cloud-go)
-  - Google Cloud Client Libraries for Go.
-- [concourse](https://github.com/concourse/concourse)
-  - Concourse is a container-based continuous thing-doer written in Go and Elm.
-- [thanos](https://github.com/thanos-io/thanos)
-  - Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.
-- [libpod](https://github.com/containers/libpod)
-  - libpod is a library used to create container pods. Home of Podman.
-- [oauth2_proxy](https://github.com/pusher/oauth2_proxy)
-  - A reverse proxy that provides authentication with Google, Github or other providers.
-- [viper](https://github.com/spf13/viper)
-  - Go configuration with fangs
-- [grpc-go](https://github.com/grpc/grpc-go)
-  - The Go language implementation of gRPC. HTTP/2 based RPC
-- [charts](https://github.com/helm/charts)
-  - Curated applications for Kubernetes
-- [hub](https://github.com/github/hub)
-  - A command-line tool that makes git easier to use with GitHub.
-- [aws-sdk-go](https://github.com/aws/aws-sdk-go)
-  - AWS SDK for the Go programming language.
-- [envconfig](https://github.com/kelseyhightower/envconfig)
-  - Golang library for managing configuration data from environment variables
-- [gitea](https://github.com/go-gitea/gitea)
-  - Git with a cup of tea, painless self-hosted git service
-- [go.uuid](https://github.com/satori/go.uuid)
-  - UUID package for Go
-- [cert-manager](https://github.com/jetstack/cert-manager)
-  - Automatically provision and manage TLS certificates in Kubernetes
+- [go](https://github.com/golang/go)
+  - The Go programming language
+- [opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go)
+  - OpenTelemetry Go API and SDK
+- [singularity](https://github.com/sylabs/singularity)
+  - Singularity: Application containers for Linux
+- [tidb](https://github.com/pingcap/tidb)
+  - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+- [go-github](https://github.com/google/go-github)
+  - Go library for accessing the GitHub API
+- [goproxy](https://github.com/snail007/goproxy)
+  - Proxy是高性能全功能的http代理、https代理、socks5代理、内网穿透、内网穿透p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket代理、TCP代理、UDP代理、DNS代理、DNS加密代理，代理API认证，全能跨平台代理服务器。
 - [metrics-server](https://github.com/kubernetes-sigs/metrics-server)
   - Cluster-wide aggregator of resource usage data.
-- [direnv](https://github.com/direnv/direnv)
-  - unclutter your .profile
+- [v2ray-poseidon](https://github.com/ColetteContreras/v2ray-poseidon)
+  - A buildin V2ray plugin for SSRPanel, V2board and SSPanel-v3-Uim to sync users from database to v2ray, to log traffics/system info
+- [harbor](https://github.com/goharbor/harbor)
+  - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [loki](https://github.com/grafana/loki)
+  - Like Prometheus, but for logs.
+- [kubernetes](https://github.com/kubernetes/kubernetes)
+  - Production-Grade Container Scheduling and Management
+- [filestash](https://github.com/mickael-kerjean/filestash)
+  - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [flamingo](https://github.com/atredispartners/flamingo)
+  - Flamingo captures credentials sprayed across the network by various IT and security products.
+- [consul](https://github.com/hashicorp/consul)
+  - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+- [testify](https://github.com/stretchr/testify)
+  - A toolkit with common assertions and mocks that plays nicely with the standard library
+- [vitess](https://github.com/vitessio/vitess)
+  - Vitess is a database clustering system for horizontal scaling of MySQL.
+- [deviceplane](https://github.com/deviceplane/deviceplane)
+  - Open source device management for embedded systems and edge computing
+- [fyne](https://github.com/fyne-io/fyne)
+  - Cross platform GUI in Go based on Material Design
+- [flagger](https://github.com/weaveworks/flagger)
+  - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
+- [containerd](https://github.com/containerd/containerd)
+  - An open and reliable container runtime
+- [moby](https://github.com/moby/moby)
+  - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm)
+  - Terraform provider for Azure Resource Manager
+- [evilginx2](https://github.com/kgretzky/evilginx2)
+  - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
+- [minikube](https://github.com/kubernetes/minikube)
+  - Run Kubernetes locally

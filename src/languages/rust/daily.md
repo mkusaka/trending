@@ -1,51 +1,51 @@
 # rust
-- [neovide](https://github.com/Kethku/neovide)
-  - No Nonsense Neovim Client in Rust
-- [cargo-atcoder](https://github.com/tanakh/cargo-atcoder)
-  - Cargo subcommand for AtCoder
-- [substrate](https://github.com/paritytech/substrate)
-  - Substrate: The platform for blockchain innovators
-- [cargo](https://github.com/rust-lang/cargo)
-  - The Rust package manager
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
 - [ripgrep](https://github.com/BurntSushi/ripgrep)
   - ripgrep recursively searches directories for a regex pattern
-- [tree-sitter](https://github.com/tree-sitter/tree-sitter)
-  - An incremental parsing system for programming tools
-- [sqlx](https://github.com/launchbadge/sqlx)
-  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL.
-- [bandwhich](https://github.com/imsnif/bandwhich)
-  - Terminal bandwidth utilization tool
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [bat](https://github.com/sharkdp/bat)
-  - A cat(1) clone with wings.
-- [websocat](https://github.com/vi/websocat)
-  - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
-- [nushell](https://github.com/nushell/nushell)
-  - A modern shell written in Rust
-- [py-spy](https://github.com/benfred/py-spy)
-  - Sampling profiler for Python programs
-- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
-  - Facilitating high-level interactions between Wasm modules and JavaScript
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
-- [wrangler](https://github.com/cloudflare/wrangler)
-  - 🤠 wrangle your cloudflare workers
-- [yaiouom](https://github.com/Yoric/yaiouom)
-  - Prototype extension of the Rust type system towards checking units-of-measure
-- [librespot](https://github.com/librespot-org/librespot)
-  - Open Source Spotify client library
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
-  - Unofficial Bitwarden compatible server written in Rust
+- [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
+  - Ultra relevant, instant, and typo-tolerant full-text search API
 - [druid](https://github.com/xi-editor/druid)
   - A data-first Rust-native UI design toolkit.
-- [grin](https://github.com/mimblewimble/grin)
-  - Minimal implementation of the Mimblewimble protocol.
-- [tokenizers](https://github.com/huggingface/tokenizers)
-  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
-- [neon](https://github.com/neon-bindings/neon)
-  - Rust bindings for writing safe and fast native Node.js modules.
+- [neovide](https://github.com/Kethku/neovide)
+  - No Nonsense Neovim Client in Rust
+- [996.ICU](https://github.com/996icu/996.ICU)
+  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
+- [tikv](https://github.com/tikv/tikv)
+  - Distributed transactional key-value database, originally created to complement TiDB
+- [alacritty](https://github.com/alacritty/alacritty)
+  - A cross-platform, GPU-accelerated terminal emulator
+- [nushell](https://github.com/nushell/nushell)
+  - A modern shell written in Rust
+- [diesel](https://github.com/diesel-rs/diesel)
+  - A safe, extensible ORM and Query Builder for Rust
+- [bandwhich](https://github.com/imsnif/bandwhich)
+  - Terminal bandwidth utilization tool
+- [rustlings](https://github.com/rust-lang/rustlings)
+  - Small exercises to get you used to reading and writing Rust code!
+- [self_update](https://github.com/jaemk/self_update)
+  - Self updates for rust executables
+- [espanso](https://github.com/federico-terzi/espanso)
+  - Cross-platform Text Expander written in Rust
+- [mypipe](https://github.com/rust-esgi/mypipe)
+  - 
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
+- [rx](https://github.com/cloudhead/rx)
+  - 👾 Modern and minimalist pixel editor
+- [zebra](https://github.com/ZcashFoundation/zebra)
+  - An ongoing Rust implementation of a Zcash node. 🦓
+- [boa](https://github.com/jasonwilliams/boa)
+  - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
+- [topgrade](https://github.com/r-darwish/topgrade)
+  - Upgrade everything
+- [wrangler](https://github.com/cloudflare/wrangler)
+  - 🤠 wrangle your cloudflare workers
+- [valico](https://github.com/rustless/valico)
+  - Rust JSON Schema validator and JSON coercer
+- [ripgrep-all](https://github.com/phiresky/ripgrep-all)
+  - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+- [winit](https://github.com/rust-windowing/winit)
+  - Window handling library in pure Rust
+- [pest](https://github.com/pest-parser/pest)
+  - The Elegant Parser
