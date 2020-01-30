@@ -1,51 +1,51 @@
 # ruby
-- [markup](https://github.com/github/markup)
-  - Determines which markup library to use to render a content file (e.g. README) on GitHub
-- [rubocop](https://github.com/rubocop-hq/rubocop)
-  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+- [dry-rails](https://github.com/dry-rb/dry-rails)
+  - [WIP] 🚧🛠 The dry-rb railtie 🛠🚧 [WIP]
+- [rack](https://github.com/rack/rack)
+  - a modular Ruby webserver interface
+- [dev.to](https://github.com/thepracticaldev/dev.to)
+  - Where programmers share ideas and help each other grow
+- [diaspora](https://github.com/diaspora/diaspora)
+  - A privacy-aware, distributed, open source social network.
+- [factory_bot](https://github.com/thoughtbot/factory_bot)
+  - A library for setting up Ruby objects as test data.
+- [remote-working](https://github.com/greatghoul/remote-working)
+  - 收集整理远程工作相关的资料
+- [homebrew-core](https://github.com/Homebrew/homebrew-core)
+  - 🍻 Default formulae for the missing package manager for macOS
 - [mastodon](https://github.com/tootsuite/mastodon)
   - Your self-hosted, globally interconnected microblogging community
-- [spree](https://github.com/spree/spree)
-  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Join our Slack with 4000 users!
-- [activeadmin](https://github.com/activeadmin/activeadmin)
-  - The administration framework for Ruby on Rails applications.
+- [devdocs](https://github.com/freeCodeCamp/devdocs)
+  - API Documentation Browser
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
+  - Metasploit Framework
 - [bundler](https://github.com/rubygems/bundler)
   - Manage your Ruby application's gem dependencies
-- [devise_token_auth](https://github.com/lynndylanhurley/devise_token_auth)
-  - Token based authentication for Rails JSON APIs. Designed to work with jToker and ng-token-auth.
-- [fastlane](https://github.com/fastlane/fastlane)
-  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [huginn](https://github.com/huginn/huginn)
-  - Create agents that monitor and act on your behalf. Your agents are standing by!
-- [liquid](https://github.com/Shopify/liquid)
-  - Liquid markup language. Safe, customer facing template language for flexible web apps.
+- [ifme](https://github.com/ifmeorg/ifme)
+  - Free and open source app to share mental health experiences with loved ones
 - [brew](https://github.com/Homebrew/brew)
   - 🍺 The missing package manager for macOS (or Linux)
-- [vagrant](https://github.com/hashicorp/vagrant)
-  - Vagrant is a tool for building and distributing development environments.
-- [linguist](https://github.com/github/linguist)
-  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-- [webpacker](https://github.com/rails/webpacker)
-  - Use Webpack to manage app-like JavaScript modules in Rails
-- [capybara](https://github.com/teamcapybara/capybara)
-  - Acceptance test framework for web applications
-- [simple_form](https://github.com/heartcombo/simple_form)
-  - Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
-- [rack-attack](https://github.com/kickstarter/rack-attack)
-  - Rack middleware for blocking & throttling
-- [theodinproject](https://github.com/TheOdinProject/theodinproject)
-  - Main Website for The Odin Project
-- [resque](https://github.com/resque/resque)
-  - Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.
-- [simplecov](https://github.com/colszowka/simplecov)
-  - Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites
-- [inspec](https://github.com/inspec/inspec)
-  - InSpec: Auditing and Testing Framework
-- [apartment](https://github.com/influitive/apartment)
-  - Database multi-tenancy for Rack (and Rails) applications
-- [java-buildpack](https://github.com/cloudfoundry/java-buildpack)
-  - Cloud Foundry buildpack for running Java applications
-- [fluentd](https://github.com/fluent/fluentd)
-  - Fluentd: Unified Logging Layer (project under CNCF)
-- [active_model_serializers](https://github.com/rails-api/active_model_serializers)
-  - ActiveModel::Serializer implementation and Rails hooks
+- [rps-interface](https://github.com/appdev-projects/rps-interface)
+  - 
+- [ruby-oo-fundamentals-email-parser-lab-nyc-web-012720](https://github.com/learn-co-students/ruby-oo-fundamentals-email-parser-lab-nyc-web-012720)
+  - 
+- [ruby-oo-fundamentals-attribute-accessors-lab-nyc-web-012720](https://github.com/learn-co-students/ruby-oo-fundamentals-attribute-accessors-lab-nyc-web-012720)
+  - 
+- [sinatra-nested-forms-chi01-seng-ft-010620](https://github.com/learn-co-students/sinatra-nested-forms-chi01-seng-ft-010620)
+  - 
+- [ruby-oo-self-count-sentences-lab-austin-web-012720](https://github.com/learn-co-students/ruby-oo-self-count-sentences-lab-austin-web-012720)
+  - 
+- [ruby-oo-fundamentals-object-attributes-lab-nyc-web-012720](https://github.com/learn-co-students/ruby-oo-fundamentals-object-attributes-lab-nyc-web-012720)
+  - 
+- [ruby-oo-self-cash-register-lab-seattle-web-012720](https://github.com/learn-co-students/ruby-oo-self-cash-register-lab-seattle-web-012720)
+  - 
+- [fasterer](https://github.com/DamirSvrtan/fasterer)
+  - ⚡️ Don't make your Rubies go fast. Make them go fasterer ™. ⚡️
+- [displaying-associations-rails-online-web-ft-110419](https://github.com/learn-co-students/displaying-associations-rails-online-web-ft-110419)
+  - 
+- [ruby-oo-self-cash-register-lab-austin-web-012720](https://github.com/learn-co-students/ruby-oo-self-cash-register-lab-austin-web-012720)
+  - 
+- [ruby-oo-complex-objects-school-domain-seattle-web-012720](https://github.com/learn-co-students/ruby-oo-complex-objects-school-domain-seattle-web-012720)
+  - 
+- [join-the-fun-rails-online-web-ft-110419](https://github.com/learn-co-students/join-the-fun-rails-online-web-ft-110419)
+  - 
