@@ -1,51 +1,51 @@
 # rust
-- [ripgrep](https://github.com/BurntSushi/ripgrep)
-  - ripgrep recursively searches directories for a regex pattern
-- [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
-  - Ultra relevant, instant, and typo-tolerant full-text search API
-- [druid](https://github.com/xi-editor/druid)
-  - A data-first Rust-native UI design toolkit.
-- [neovide](https://github.com/Kethku/neovide)
-  - No Nonsense Neovim Client in Rust
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [tikv](https://github.com/tikv/tikv)
-  - Distributed transactional key-value database, originally created to complement TiDB
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
-- [nushell](https://github.com/nushell/nushell)
-  - A modern shell written in Rust
-- [diesel](https://github.com/diesel-rs/diesel)
-  - A safe, extensible ORM and Query Builder for Rust
-- [bandwhich](https://github.com/imsnif/bandwhich)
-  - Terminal bandwidth utilization tool
-- [rustlings](https://github.com/rust-lang/rustlings)
-  - Small exercises to get you used to reading and writing Rust code!
+- [firecracker](https://github.com/firecracker-microvm/firecracker)
+  - Secure and fast microVMs for serverless computing.
 - [self_update](https://github.com/jaemk/self_update)
   - Self updates for rust executables
+- [parity-ethereum](https://github.com/paritytech/parity-ethereum)
+  - The fast, light, and robust EVM and WASM client.
+- [book](https://github.com/rust-lang/book)
+  - The Rust Programming Language
+- [ggez](https://github.com/ggez/ggez)
+  - Rust library to create a Good Game Easily
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
+- [rust-clippy](https://github.com/rust-lang/rust-clippy)
+  - A bunch of lints to catch common mistakes and improve your Rust code
+- [dashmap](https://github.com/xacrimon/dashmap)
+  - Blazing fast concurrent HashMap for Rust.
+- [examples](https://github.com/actix/examples)
+  - Actix web examples
+- [tide](https://github.com/http-rs/tide)
+  - Serve the web – HTTP server framework
+- [iced](https://github.com/hecrj/iced)
+  - A cross-platform GUI library for Rust, inspired by Elm
+- [nix](https://github.com/nix-rust/nix)
+  - Rust friendly bindings to *nix APIs
+- [starship](https://github.com/starship/starship)
+  - ☄🌌️ The cross-shell prompt for astronauts
+- [mio](https://github.com/tokio-rs/mio)
+  - Metal IO library for Rust
+- [oreboot](https://github.com/oreboot/oreboot)
+  - oreboot is a fork of coreboot, with C removed, written in Rust.
+- [orbtk](https://github.com/redox-os/orbtk)
+  - The Rust UI-Toolkit.
+- [miniquad](https://github.com/not-fl3/miniquad)
+  - OpenGL wrapper for the Rust language
+- [tock](https://github.com/tock/tock)
+  - A secure embedded operating system for microcontrollers
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [gfx](https://github.com/gfx-rs/gfx)
+  - A low-overhead Vulkan-like GPU API for Rust.
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [servo](https://github.com/servo/servo)
+  - The Servo Browser Engine
 - [espanso](https://github.com/federico-terzi/espanso)
   - Cross-platform Text Expander written in Rust
-- [mypipe](https://github.com/rust-esgi/mypipe)
-  - 
-- [substrate](https://github.com/paritytech/substrate)
-  - Substrate: The platform for blockchain innovators
-- [rx](https://github.com/cloudhead/rx)
-  - 👾 Modern and minimalist pixel editor
-- [zebra](https://github.com/ZcashFoundation/zebra)
-  - An ongoing Rust implementation of a Zcash node. 🦓
-- [boa](https://github.com/jasonwilliams/boa)
-  - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
-- [topgrade](https://github.com/r-darwish/topgrade)
-  - Upgrade everything
-- [wrangler](https://github.com/cloudflare/wrangler)
-  - 🤠 wrangle your cloudflare workers
-- [valico](https://github.com/rustless/valico)
-  - Rust JSON Schema validator and JSON coercer
-- [ripgrep-all](https://github.com/phiresky/ripgrep-all)
-  - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
-- [winit](https://github.com/rust-windowing/winit)
-  - Window handling library in pure Rust
-- [pest](https://github.com/pest-parser/pest)
-  - The Elegant Parser
+- [pueue](https://github.com/Nukesor/pueue)
+  - 🌠 A daemon for managing long running shell commands.
+- [micro-http](https://github.com/firecracker-microvm/micro-http)
+  - A minimal HTTP implementation used by Firecracker

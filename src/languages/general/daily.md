@@ -1,50 +1,50 @@
 # general
-- [Guide-RGPD-du-developpeur](https://github.com/LINCnil/Guide-RGPD-du-developpeur) : HTML
-  - La CNIL publie un guide RGPD pour les développeurs
-- [shareOI](https://github.com/hzwer/shareOI) : 
-  - OI & ACM 课件分享
-- [difftaichi](https://github.com/yuanming-hu/difftaichi) : 
-  - 10 differentiable physical simulators built with Taichi differentiable programming (DiffTaichi, ICLR 2020)
-- [hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) : 
-  - 📌 A guide for amateurs pen testers and a collection of hacking tools, resources and references to practice ethical hacking, pen testing and web security.
-- [wuhan2020](https://github.com/wuhan2020/wuhan2020) : 
-  - 武汉新型冠状病毒防疫信息收集平台
-- [jira_clone](https://github.com/oldboyxx/jira_clone) : JavaScript
-  - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
-- [DXY-2019-nCoV-Crawler](https://github.com/BlankerL/DXY-2019-nCoV-Crawler) : Python
-  - 2019新型冠状病毒疫情实时爬虫
-- [map-viz](https://github.com/wuhan2020/map-viz) : JavaScript
-  - 通用的地图可视化组件
-- [tutorials](https://github.com/eugenp/tutorials) : Java
-  - Just Announced - "Learn Spring Security OAuth":
-- [freelancing-in-finland](https://github.com/sam-hosseini/freelancing-in-finland) : 
-  - The ultimate resource for transitioning to freelancing for software developers 👩‍💻🇫🇮
-- [2019-wuhan-coronavirus-data](https://github.com/globalcitizen/2019-wuhan-coronavirus-data) : PHP
-  - 2019 Wuhan Coronavirus data (2019-nCoV)
-- [dabl](https://github.com/amueller/dabl) : Jupyter Notebook
-  - Data Analysis Baseline Library
-- [python-cheatsheet](https://github.com/gto76/python-cheatsheet) : Python
-  - Comprehensive Python Cheatsheet
-- [spiderfoot](https://github.com/smicallef/spiderfoot) : Python
-  - SpiderFoot, the most complete OSINT collection and reconnaissance tool.
-- [WebApp](https://github.com/wuhan2020/WebApp) : TypeScript
-  - 渐进式 Web 应用
-- [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) : JavaScript
-  - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
-- [tidytuesday](https://github.com/rfordatascience/tidytuesday) : R
-  - Official repo for the #tidytuesday project
+- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) : JavaScript
+  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) : 
   - 后端架构师技术图谱
-- [reconfigurable_organisms](https://github.com/skriegman/reconfigurable_organisms) : C++
-- [NLP-progress](https://github.com/sebastianruder/NLP-progress) : Python
-  - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
-- [sight](https://github.com/rish-16/sight) : Python
-  - 👁Sightseer: State-of-the-art Computer Vision and Object Detection for TensorFlow
+- [Chaos](https://github.com/jonnyhyman/Chaos) : Python
+  - Visualizations of the connections between chaos theory and fractals through the logistic map; made for Veritasium YouTube video
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac) : JavaScript
+  -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [Guide-RGPD-du-developpeur](https://github.com/LINCnil/Guide-RGPD-du-developpeur) : HTML
+  - La CNIL publie un guide RGPD pour les développeurs
+- [Tips-of-Feature-engineering](https://github.com/Pysamlam/Tips-of-Feature-engineering) : 
+  - A feature engineering kit for each issue, to give you a deeper and deeper understanding of the work of feature engineering!
+- [serenity](https://github.com/SerenityOS/serenity) : C++
+  - Serenity Operating System
+- [hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) : 
+  - 📌 A guide for amateurs pen testers and a collection of hacking tools, resources and references to practice ethical hacking, pen testing and web security.
+- [difftaichi](https://github.com/yuanming-hu/difftaichi) : 
+  - 10 differentiable physical simulators built with Taichi differentiable programming (DiffTaichi, ICLR 2020)
+- [MicrosoftSecurity](https://github.com/MarkSimos/MicrosoftSecurity) : 
+  - Microsoft Security Guidance
+- [freelancing-in-finland](https://github.com/sam-hosseini/freelancing-in-finland) : 
+  - The ultimate resource for transitioning to freelancing for software developers 👩‍💻🇫🇮
+- [shareOI](https://github.com/hzwer/shareOI) : 
+  - 算法竞赛课件分享
+- [google-research](https://github.com/google-research/google-research) : Jupyter Notebook
+  - Google AI Research
+- [python-cheatsheet](https://github.com/gto76/python-cheatsheet) : Python
+  - Comprehensive Python Cheatsheet
+- [jquery](https://github.com/jquery/jquery) : JavaScript
+  - jQuery JavaScript Library
 - [computer-science](https://github.com/ossu/computer-science) : 
   - 🎓 Path to a free self-taught education in Computer Science!
-- [mml-book.github.io](https://github.com/mml-book/mml-book.github.io) : Jupyter Notebook
-  - Companion webpage to the book "Mathematics For Machine Learning"
-- [Awesome](https://github.com/Awesome-Windows/Awesome) : 
-  - 💻 An awesome & curated list of best applications and tools for Windows.
-- [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) : Python
-  - A list of awesome applications, software, tools and other materials for Linux distros.
+- [tinder-swipe-bot](https://github.com/aj-4/tinder-swipe-bot) : Python
+- [charts](https://github.com/helm/charts) : Go
+  - Curated applications for Kubernetes
+- [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) : 
+  - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+- [samples](https://github.com/flutter/samples) : Dart
+  - A collection of Flutter examples and demos.
+- [interpy-zh](https://github.com/eastlakeside/interpy-zh) : Python
+  - 📘《Python进阶》（Intermediate Python 中文版）
+- [gitignore](https://github.com/github/gitignore) : 
+  - A collection of useful .gitignore templates
+- [bitcoin](https://github.com/bitcoin/bitcoin) : C++
+  - Bitcoin Core integration/staging tree
+- [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) : Python
+  - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
+- [tutorials](https://github.com/eugenp/tutorials) : Java
+  - Just Announced - "Learn Spring Security OAuth":
