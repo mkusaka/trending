@@ -1,51 +1,51 @@
 # go
-- [trivy](https://github.com/aquasecurity/trivy)
-  - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
-- [go](https://github.com/golang/go)
-  - The Go programming language
-- [opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go)
-  - OpenTelemetry Go API and SDK
-- [singularity](https://github.com/sylabs/singularity)
-  - Singularity: Application containers for Linux
-- [tidb](https://github.com/pingcap/tidb)
-  - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
-- [go-github](https://github.com/google/go-github)
-  - Go library for accessing the GitHub API
-- [goproxy](https://github.com/snail007/goproxy)
-  - Proxy是高性能全功能的http代理、https代理、socks5代理、内网穿透、内网穿透p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket代理、TCP代理、UDP代理、DNS代理、DNS加密代理，代理API认证，全能跨平台代理服务器。
-- [metrics-server](https://github.com/kubernetes-sigs/metrics-server)
-  - Cluster-wide aggregator of resource usage data.
-- [v2ray-poseidon](https://github.com/ColetteContreras/v2ray-poseidon)
-  - A buildin V2ray plugin for SSRPanel, V2board and SSPanel-v3-Uim to sync users from database to v2ray, to log traffics/system info
-- [harbor](https://github.com/goharbor/harbor)
-  - An open source trusted cloud native registry project that stores, signs, and scans content.
-- [loki](https://github.com/grafana/loki)
-  - Like Prometheus, but for logs.
+- [charts](https://github.com/helm/charts)
+  - Curated applications for Kubernetes
+- [dapr](https://github.com/dapr/dapr)
+  - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [kubernetes](https://github.com/kubernetes/kubernetes)
   - Production-Grade Container Scheduling and Management
-- [filestash](https://github.com/mickael-kerjean/filestash)
-  - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
-- [flamingo](https://github.com/atredispartners/flamingo)
-  - Flamingo captures credentials sprayed across the network by various IT and security products.
-- [consul](https://github.com/hashicorp/consul)
-  - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [testify](https://github.com/stretchr/testify)
-  - A toolkit with common assertions and mocks that plays nicely with the standard library
-- [vitess](https://github.com/vitessio/vitess)
-  - Vitess is a database clustering system for horizontal scaling of MySQL.
-- [deviceplane](https://github.com/deviceplane/deviceplane)
-  - Open source device management for embedded systems and edge computing
-- [fyne](https://github.com/fyne-io/fyne)
-  - Cross platform GUI in Go based on Material Design
-- [flagger](https://github.com/weaveworks/flagger)
-  - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
-- [containerd](https://github.com/containerd/containerd)
-  - An open and reliable container runtime
-- [moby](https://github.com/moby/moby)
-  - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm)
-  - Terraform provider for Azure Resource Manager
-- [evilginx2](https://github.com/kgretzky/evilginx2)
-  - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
-- [minikube](https://github.com/kubernetes/minikube)
-  - Run Kubernetes locally
+- [go-micro](https://github.com/micro/go-micro)
+  - A Go microservices development framework https://go-micro.dev
+- [rancher](https://github.com/rancher/rancher)
+  - Complete container management platform
+- [kiali](https://github.com/kiali/kiali)
+  - Kiali project, observability for the Istio service mesh
+- [runtime](https://github.com/kata-containers/runtime)
+  - Kata Containers runtime
+- [hub](https://github.com/github/hub)
+  - A command-line tool that makes git easier to use with GitHub.
+- [thanos](https://github.com/thanos-io/thanos)
+  - Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.
+- [caire](https://github.com/esimov/caire)
+  - Content aware image resize library
+- [machine](https://github.com/docker/machine)
+  - Machine management for a container-centric world
+- [cli](https://github.com/cli/cli)
+  - the GitHub CLI
+- [vim-man](https://github.com/ozankasikci/vim-man)
+  - A terminal based game that teaches you how to use Vim.
+- [k3s](https://github.com/rancher/k3s)
+  - Lightweight Kubernetes. 5 less than k8s.
+- [golang-samples](https://github.com/GoogleCloudPlatform/golang-samples)
+  - Sample apps and code written for Google Cloud in the Go programming language.
+- [kube-bench](https://github.com/aquasecurity/kube-bench)
+  - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
+- [terraform](https://github.com/hashicorp/terraform)
+  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [drone](https://github.com/drone/drone)
+  - Drone is a Container-Native, Continuous Delivery Platform
+- [k3sup](https://github.com/alexellis/k3sup)
+  - from Zero to KUBECONFIG in < 1 min 🚀
+- [sampler](https://github.com/sqshq/sampler)
+  - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
+- [kaniko](https://github.com/GoogleContainerTools/kaniko)
+  - Build Container Images In Kubernetes
+- [google-cloud-go](https://github.com/googleapis/google-cloud-go)
+  - Google Cloud Client Libraries for Go.
+- [fabric](https://github.com/hyperledger/fabric)
+  - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
+- [gorush](https://github.com/appleboy/gorush)
+  - A push notification server written in Go (Golang).
+- [blackbox_exporter](https://github.com/prometheus/blackbox_exporter)
+  - Blackbox prober exporter

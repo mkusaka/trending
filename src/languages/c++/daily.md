@@ -1,51 +1,51 @@
 # c++
-- [reconfigurable_organisms](https://github.com/skriegman/reconfigurable_organisms)
-  - 
-- [terminal](https://github.com/microsoft/terminal)
-  - The new Windows Terminal, and the original Windows console host - all in the same place!
-- [The-Open-Book](https://github.com/joeycastillo/The-Open-Book)
-  - 
-- [Temper-ESP8266](https://github.com/mcer12/Temper-ESP8266)
-  - Temper is a compact temperature sensor based on ESP8266 and SHT30 with large 13x7 pixel led display.
-- [lammps](https://github.com/lammps/lammps)
-  - Public development project of the LAMMPS MD software package
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [botnets](https://github.com/maestron/botnets)
-  - This is a collection of #botnet source codes, unorganized. For EDUCATIONAL PURPOSES ONLY
-- [fivem](https://github.com/citizenfx/fivem)
-  - The source code for the FiveM modification framework for GTA V.
-- [taichi](https://github.com/taichi-dev/taichi)
-  - The Taichi programming language
-- [FreeCAD](https://github.com/FreeCAD/FreeCAD)
-  - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker
-- [LogonCredentialsSteal](https://github.com/oxfemale/LogonCredentialsSteal)
-  - LOCAL AND REMOTE HOOK msv1_0!SpAcceptCredentials from LSASS.exe and DUMP DOMAIN/LOGIN/PASSWORD IN CLEARTEXT to text file.
-- [realsense-ros](https://github.com/IntelRealSense/realsense-ros)
-  - Intel(R) RealSense(TM) ROS Wrapper for D400 series, SR300 Camera and T265 Tracking Module
-- [Tasmota](https://github.com/arendst/Tasmota)
-  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
+- [serenity](https://github.com/SerenityOS/serenity)
+  - Serenity Operating System
 - [bitcoin](https://github.com/bitcoin/bitcoin)
   - Bitcoin Core integration/staging tree
-- [Proton](https://github.com/ValveSoftware/Proton)
-  - Compatibility tool for Steam Play based on Wine and additional components
-- [ESP3D](https://github.com/luc-github/ESP3D)
-  - FW for ESP8266/ESP8285/ESP32 used with 3D printer
-- [videos](https://github.com/OneLoneCoder/videos)
-  - The official distribution of olcConsoleGameEngine, a tool used in javidx9's YouTube videos and projects
-- [wxWidgets](https://github.com/wxWidgets/wxWidgets)
-  - Cross-Platform GUI Library - Report issues here: https://trac.wxwidgets.org/
-- [ClickHouse](https://github.com/ClickHouse/ClickHouse)
-  - ClickHouse is a free analytics DBMS for big data
-- [nanogui](https://github.com/wjakob/nanogui)
-  - Minimalistic GUI library for OpenGL
-- [benchmark](https://github.com/google/benchmark)
-  - A microbenchmark support library
-- [interpret](https://github.com/interpretml/interpret)
-  - Fit interpretable machine learning models. Explain blackbox machine learning.
-- [cmder](https://github.com/cmderdev/cmder)
-  - Lovely console emulator package for Windows
-- [pytorch](https://github.com/pytorch/pytorch)
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [onnxruntime](https://github.com/microsoft/onnxruntime)
-  - ONNX Runtime: cross-platform, high performance scoring engine for ML models
+- [Osiris](https://github.com/danielkrupinski/Osiris)
+  - Free open-source training software / cheat for Counter-Strike: Global Offensive, written in modern C++. GUI powered by imgui.
+- [gdal](https://github.com/OSGeo/gdal)
+  - GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats.
+- [crocoddyl](https://github.com/loco-3d/crocoddyl)
+  - Crocoddyl is an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms
+- [wav2letter](https://github.com/facebookresearch/wav2letter)
+  - Facebook AI Research's Automatic Speech Recognition Toolkit
+- [mediapipe](https://github.com/google/mediapipe)
+  - MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
+- [foundationdb](https://github.com/apple/foundationdb)
+  - FoundationDB - the open source, distributed, transactional key-value store
+- [phantomjs](https://github.com/ariya/phantomjs)
+  - Scriptable Headless Browser
+- [reconfigurable_organisms](https://github.com/skriegman/reconfigurable_organisms)
+  - 
+- [pinjectra](https://github.com/SafeBreach-Labs/pinjectra)
+  - Pinjectra is a C/C++ OOP-like library that implements Process Injection techniques (with focus on Windows 10 64-bit)
+- [desktop](https://github.com/nextcloud/desktop)
+  - 💻 Desktop sync client for Nextcloud
+- [terminal](https://github.com/microsoft/terminal)
+  - The new Windows Terminal, and the original Windows console host - all in the same place!
+- [Firmware](https://github.com/PX4/Firmware)
+  - PX4 Autopilot Software
+- [osrm-backend](https://github.com/Project-OSRM/osrm-backend)
+  - Open Source Routing Machine - C++ backend
+- [cpprestsdk](https://github.com/microsoft/cpprestsdk)
+  - The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
+- [aria2](https://github.com/aria2/aria2)
+  - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+- [open_vins](https://github.com/rpng/open_vins)
+  - An open source platform for visual-inertial navigation research.
+- [node-sass](https://github.com/sass/node-sass)
+  - 🌈 Node.js bindings to libsass
+- [Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306)
+  - Arduino library for SSD1306 monochrome 128x64 and 128x32 OLEDs
+- [Catch2](https://github.com/catchorg/Catch2)
+  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [json](https://github.com/nlohmann/json)
+  - JSON for Modern C++
+- [deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu)
+  - Deepin Wine for Ubuntu/Debian
+- [NVMeFix](https://github.com/acidanthera/NVMeFix)
+  - 
+- [JUCE](https://github.com/WeAreROLI/JUCE)
+  - The JUCE cross-platform C++ framework

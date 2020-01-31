@@ -1,51 +1,51 @@
 # javascript
-- [jira_clone](https://github.com/oldboyxx/jira_clone)
-  - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
-- [map-viz](https://github.com/wuhan2020/map-viz)
-  - 通用的地图可视化组件
-- [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
-  - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
-- [Rules](https://github.com/lhie1/Rules)
-  - Rules / 规则：Surge / Shadowrocket / QuantumultX / Clash(X|A)
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
-- [svelte](https://github.com/sveltejs/svelte)
-  - Cybernetically enhanced web apps
-- [v3](https://github.com/exercism/v3)
-  - The work-in-progress project for developing v3 tracks
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [leetcode](https://github.com/azl397985856/leetcode)
-  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
-- [netlify-cms](https://github.com/netlify/netlify-cms)
-  - A CMS for Static Site Generators
-- [create-react-app](https://github.com/facebook/create-react-app)
-  - Set up a modern web app by running one command.
 - [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
   - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-- [label-studio](https://github.com/heartexlabs/label-studio)
-  - Label Studio is a multi-type data labeling and annotation tool with standardized output format
-- [2019-ncov](https://github.com/shfshanyue/2019-ncov)
-  - 武汉肺炎疫情实时省市地图
-- [material-table](https://github.com/mbrn/material-table)
-  - Datatable for React based on material-ui's table with additional features
-- [insomnia](https://github.com/Kong/insomnia)
-  - Cross-platform HTTP and GraphQL Client
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
   -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [Sortable](https://github.com/SortableJS/Sortable)
-  - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Ember, Knockout and any CSS library, e.g. Bootstrap.
-- [Scripts](https://github.com/outflanknl/Scripts)
-  - Small scripts that make life better
-- [gridstudio](https://github.com/ricklamers/gridstudio)
-  - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
-- [pneumonia](https://github.com/lispczz/pneumonia)
-  - 中国新型冠状病毒肺炎地级市疫情图
-- [incubator-superset](https://github.com/apache/incubator-superset)
-  - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
-- [Inputmask](https://github.com/RobinHerbots/Inputmask)
-  - Input Mask plugin
+- [jquery](https://github.com/jquery/jquery)
+  - jQuery JavaScript Library
+- [label-studio](https://github.com/heartexlabs/label-studio)
+  - Label Studio is a multi-type data labeling and annotation tool with standardized output format
+- [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
+  - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
+- [fastify](https://github.com/fastify/fastify)
+  - Fast and low overhead web framework, for Node.js
+- [node-elm](https://github.com/bailicangdu/node-elm)
+  - 基于 node.js + Mongodb 构建的后台系统
+- [react-redux-realworld-example-app](https://github.com/gothinkster/react-redux-realworld-example-app)
+  - Exemplary real world application built with React + Redux
+- [coreui-free-react-admin-template](https://github.com/coreui/coreui-free-react-admin-template)
+  - CoreUI React is free React admin template based on Bootstrap 4
 - [sigma.js](https://github.com/jacomyal/sigma.js)
   - A JavaScript library dedicated to graph drawing
-- [goforeat](https://github.com/syun0216/goforeat)
-  - 🍔 日日有得食
+- [ua-parser-js](https://github.com/faisalman/ua-parser-js)
+  - UAParser.js - JavaScript library to detect browser, engine, OS, CPU, and device type/model from userAgent string. Supports browser & node.js environment. Also available as jQuery/Zepto plugin, Bower/Meteor package, RequireJS/AMD module, & CLI tool.
+- [howler.js](https://github.com/goldfire/howler.js)
+  - Javascript audio library for the modern web.
+- [anime](https://github.com/juliangarnier/anime)
+  - JavaScript animation engine
+- [pixi.js](https://github.com/pixijs/pixi.js)
+  - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
+  - The iconic SVG, font, and CSS toolkit
+- [taniarascia.com](https://github.com/taniarascia/taniarascia.com)
+  - 💾 Personal website running on Gatsby, React, and Node.js.
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
+  - Starter files, final projects and FAQ for my Complete JavaScript course
+- [classsed-react-firebase-client](https://github.com/hidjou/classsed-react-firebase-client)
+  - 
+- [cypress](https://github.com/cypress-io/cypress)
+  - Fast, easy and reliable testing for anything that runs in a browser.
+- [bootcamp-gostack-desafio-01](https://github.com/Rocketseat/bootcamp-gostack-desafio-01)
+  - Desafio do primeiro módulo do Bootcamp GoStack 🚀👨🏻‍🚀
+- [bull](https://github.com/OptimalBits/bull)
+  - Premium Queue package for handling distributed jobs and messages in NodeJS.
+- [metamask-extension](https://github.com/MetaMask/metamask-extension)
+  - 🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites.
+- [google-access-helper](https://github.com/haotian-wang/google-access-helper)
+  - 谷歌访问助手破解版
+- [gatsby](https://github.com/gatsbyjs/gatsby)
+  - Build blazing fast, modern apps and websites with React
+- [Detox](https://github.com/wix/Detox)
+  - Gray box end-to-end testing and automation framework for mobile apps
