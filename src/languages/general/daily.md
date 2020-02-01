@@ -1,50 +1,51 @@
 # general
+- [spiderfoot](https://github.com/smicallef/spiderfoot) : Python
+  - SpiderFoot, the most complete OSINT collection and reconnaissance tool.
+- [OpenSK](https://github.com/google/OpenSK) : Rust
+  - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
+- [sovereign](https://github.com/sovereign/sovereign) : Python
+  - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) : JavaScript
   - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-- [architect-awesome](https://github.com/xingshaocheng/architect-awesome) : 
-  - 后端架构师技术图谱
 - [Chaos](https://github.com/jonnyhyman/Chaos) : Python
   - Visualizations of the connections between chaos theory and fractals through the logistic map; made for Veritasium YouTube video
-- [awesome-mac](https://github.com/jaywcjlove/awesome-mac) : JavaScript
-  -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [Guide-RGPD-du-developpeur](https://github.com/LINCnil/Guide-RGPD-du-developpeur) : HTML
-  - La CNIL publie un guide RGPD pour les développeurs
-- [Tips-of-Feature-engineering](https://github.com/Pysamlam/Tips-of-Feature-engineering) : 
-  - A feature engineering kit for each issue, to give you a deeper and deeper understanding of the work of feature engineering!
-- [serenity](https://github.com/SerenityOS/serenity) : C++
-  - Serenity Operating System
-- [hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) : 
-  - 📌 A guide for amateurs pen testers and a collection of hacking tools, resources and references to practice ethical hacking, pen testing and web security.
-- [difftaichi](https://github.com/yuanming-hu/difftaichi) : 
-  - 10 differentiable physical simulators built with Taichi differentiable programming (DiffTaichi, ICLR 2020)
-- [MicrosoftSecurity](https://github.com/MarkSimos/MicrosoftSecurity) : 
-  - Microsoft Security Guidance
-- [freelancing-in-finland](https://github.com/sam-hosseini/freelancing-in-finland) : 
-  - The ultimate resource for transitioning to freelancing for software developers 👩‍💻🇫🇮
+- [spinningup](https://github.com/openai/spinningup) : Python
+  - An educational resource to help anyone learn deep reinforcement learning.
+- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) : JavaScript
+  - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+- [exploits](https://github.com/mm0r1/exploits) : PHP
+  - Pwn stuff.
+- [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) : 
+  - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+- [remote-jobs](https://github.com/remoteintech/remote-jobs) : JavaScript
+  - A list of semi to fully remote-friendly companies in tech.
+- [architect-awesome](https://github.com/xingshaocheng/architect-awesome) : 
+  - 后端架构师技术图谱
+- [snowflake](https://github.com/subhra74/snowflake) : Java
+  - Graphical SFTP client and terminal emulator with helpful utilities
+- [2019-ncov](https://github.com/shfshanyue/2019-ncov) : JavaScript
+  - 武汉肺炎疫情实时省市地图
+- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) : Python
+  - Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
+- [express](https://github.com/expressjs/express) : JavaScript
+  - Fast, unopinionated, minimalist web framework for node.
 - [shareOI](https://github.com/hzwer/shareOI) : 
   - 算法竞赛课件分享
 - [google-research](https://github.com/google-research/google-research) : Jupyter Notebook
   - Google AI Research
-- [python-cheatsheet](https://github.com/gto76/python-cheatsheet) : Python
-  - Comprehensive Python Cheatsheet
-- [jquery](https://github.com/jquery/jquery) : JavaScript
-  - jQuery JavaScript Library
-- [computer-science](https://github.com/ossu/computer-science) : 
-  - 🎓 Path to a free self-taught education in Computer Science!
-- [tinder-swipe-bot](https://github.com/aj-4/tinder-swipe-bot) : Python
-- [charts](https://github.com/helm/charts) : Go
-  - Curated applications for Kubernetes
-- [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) : 
-  - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
-- [samples](https://github.com/flutter/samples) : Dart
-  - A collection of Flutter examples and demos.
-- [interpy-zh](https://github.com/eastlakeside/interpy-zh) : Python
-  - 📘《Python进阶》（Intermediate Python 中文版）
 - [gitignore](https://github.com/github/gitignore) : 
   - A collection of useful .gitignore templates
-- [bitcoin](https://github.com/bitcoin/bitcoin) : C++
-  - Bitcoin Core integration/staging tree
-- [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) : Python
-  - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
-- [tutorials](https://github.com/eugenp/tutorials) : Java
-  - Just Announced - "Learn Spring Security OAuth":
+- [LightGBM](https://github.com/microsoft/LightGBM) : C++
+  - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac) : JavaScript
+  -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [k3s](https://github.com/rancher/k3s) : Go
+  - Lightweight Kubernetes. 5 less than k8s.
+- [fabric](https://github.com/hyperledger/fabric) : Go
+  - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
+- [computer-science](https://github.com/ossu/computer-science) : 
+  - 🎓 Path to a free self-taught education in Computer Science!
+- [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) : Java
+  - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+- [magento2](https://github.com/magento/magento2) : PHP
+  - All Submissions you make to Magento Inc. ("Magento") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, subli…
