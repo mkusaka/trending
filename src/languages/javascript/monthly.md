@@ -1,51 +1,51 @@
 # javascript
-- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
-  - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [Motrix](https://github.com/agalwood/Motrix)
-  - A full-featured download manager.
-- [flowy](https://github.com/alyssaxuu/flowy)
-  - The minimal javascript library to create flowcharts ✨
-- [axios](https://github.com/axios/axios)
-  - Promise based HTTP client for the browser and node.js
-- [svelte](https://github.com/sveltejs/svelte)
-  - Cybernetically enhanced web apps
-- [tesseract.js](https://github.com/naptha/tesseract.js)
-  - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
-- [outline](https://github.com/outline/outline)
-  - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source.
-- [create-react-app](https://github.com/facebook/create-react-app)
-  - Set up a modern web app by running one command.
-- [Google-Play-Music-Desktop-Player-UNOFFICIAL-](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-)
-  - A beautiful cross platform Desktop Player for Google Play Music
-- [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
-  - The best design tools and plugins for everything 👉
-- [incubator-echarts](https://github.com/apache/incubator-echarts)
-  - A powerful, interactive charting and visualization library for browser
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
-  - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
-- [udemy-docker-mastery](https://github.com/BretFisher/udemy-docker-mastery)
-  - Udemy Course to build, compose, deploy, and manage containers from local development to high-availability in the cloud
-- [junior-recruit-scheduler](https://github.com/jojoldu/junior-recruit-scheduler)
-  - 주니어 개발자 채용 정보
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
-  - Starter files, final projects and FAQ for my Complete JavaScript course
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
-- [eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import)
-  - ESLint plugin with rules that help validate proper imports.
-- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
-  - 一个基于 electron 的音乐软件
-- [iptv](https://github.com/iptv-org/iptv)
-  - Collection of 8000+ publicly available IPTV channels from all over the world
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+  - Headless Chrome Node.js API
+- [gatsby](https://github.com/gatsbyjs/gatsby)
+  - Build blazing fast, modern apps and websites with React
+- [MagicMirror](https://github.com/MichMich/MagicMirror)
+  - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
+- [markdown-here](https://github.com/adam-p/markdown-here)
+  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [react-native](https://github.com/facebook/react-native)
   - A framework for building native apps with React.
-- [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)
-  - 网易云音乐 Node.js API service
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
-  - ✅ The largest Node.js best practices list (December 2019)
-- [eui](https://github.com/elastic/eui)
-  - Elastic UI Framework 🙌
+- [axios](https://github.com/axios/axios)
+  - Promise based HTTP client for the browser and node.js
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript)
+  - A 30 days of JavaScript programming challenge
+- [leetcode](https://github.com/azl397985856/leetcode)
+  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+- [alpine](https://github.com/alpinejs/alpine)
+  - A rugged, minimal framework for composing JavaScript behavior in your markup.
+- [airframe-react](https://github.com/0wczar/airframe-react)
+  - Free Open Source High Quality Dashboard based on Bootstrap 4 & React 16: http://dashboards.webkom.co/react/airframe
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+  - 💯 Materials to help you rock your next coding interview
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+  -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [next.js](https://github.com/zeit/next.js)
+  - The React Framework
+- [AndroidKnowledgeSystem](https://github.com/feelschaotic/AndroidKnowledgeSystem)
+  - The most complete Android advanced route knowledge map ⭐️你想要的最全 Android 进阶路线知识图谱+干货资料收集🚀
+- [realworld](https://github.com/gothinkster/realworld)
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [cypress](https://github.com/cypress-io/cypress)
+  - Fast, easy and reliable testing for anything that runs in a browser.
+- [overreacted.io](https://github.com/gaearon/overreacted.io)
+  - Personal blog by Dan Abramov.
+- [create-react-app](https://github.com/facebook/create-react-app)
+  - Set up a modern web app by running one command.
+- [docusaurus](https://github.com/facebook/docusaurus)
+  - Easy to maintain open source documentation websites.
+- [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui)
+  - A desktop application for downloading Udemy Courses
+- [strapi](https://github.com/strapi/strapi)
+  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [ramda](https://github.com/ramda/ramda)
+  - 🐏 Practical functional Javascript

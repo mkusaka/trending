@@ -1,51 +1,51 @@
 # general
-- [12306](https://github.com/testerSunshine/12306) : Python
-  - 12306智能刷票，订票
-- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) : JavaScript
-  - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
-- [architect-awesome](https://github.com/xingshaocheng/architect-awesome) : 
-  - 后端架构师技术图谱
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [halo](https://github.com/halo-dev/halo) : Java
-  - ✍ Halo 一款现代化的个人独立博客系统
-- [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) : Java
-  - spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 63 个集成demo，已经完成 52 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…
-- [BigData-Notes](https://github.com/heibaiying/BigData-Notes) : Java
-  - 大数据入门指南 ⭐️
-- [flutter](https://github.com/flutter/flutter) : Dart
-  - Flutter makes it easy and fast to build beautiful mobile apps.
-- [JavaFamily](https://github.com/AobingJava/JavaFamily) : 
-  - 【互联网一线大厂面试+学习指南】进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看，前端同学我保证你也看得懂，看不懂你加我微信骂我渣男就好了。
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) : Python
-  - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
-- [Motrix](https://github.com/agalwood/Motrix) : JavaScript
-  - A full-featured download manager.
-- [lede](https://github.com/coolsnowwolf/lede) : C
-  - Lean's OpenWrt source
-- [advanced-java](https://github.com/doocs/advanced-java) : Java
-  - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
-- [vhr](https://github.com/lenve/vhr) : Java
-  - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
-- [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) : Java
-  - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
-- [Alink](https://github.com/alibaba/Alink) : Java
-  - Alink is the Machine Learning algorithm platform based on Flink, developed by the PAI team of Alibaba computing platform.
-- [flink-learning](https://github.com/zhisheng17/flink-learning) : Java
-  - flink learning blog. http://www.54tianzhisheng.cn 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。
-- [seata](https://github.com/seata/seata) : Java
-  - 🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution.
-- [nebula](https://github.com/slackhq/nebula) : Go
-  - A scalable overlay networking tool with a focus on performance, simplicity and security
-- [flowy](https://github.com/alyssaxuu/flowy) : JavaScript
-  - The minimal javascript library to create flowcharts ✨
-- [mall](https://github.com/macrozheng/mall) : Java
-  - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
-- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) : Python
-  - Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
-- [jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot) : Java
-  - 一款基于代码生成器的JAVA快速开发平台(低代码开发平台)，开源界“小普元”超越传统商业企业级开发平台！采用前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式(OnlineCoding模式-> 代码生成器模式-> 手工MERGE智能开发)，帮助Java项目解决70%的重复工作，让开发更多关注业务逻辑。既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。JeecgBoot还独创在线开发模式（No代码）：在线表单配置（表单设计器）、移动配置能力、在线工作流配置（流程设计器）、在线报表配置、在线图表配置、插件能力（可插拔）等等
-- [beginner-javascript](https://github.com/wesbos/beginner-javascript) : HTML
-  - Slam Dunk JavaScript
-- [runtime](https://github.com/dotnet/runtime) : C#
-  - .NET is a cross-platform runtime for cloud, IoT, and desktop apps.
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) : 
+  - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+- [deno](https://github.com/denoland/deno) : TypeScript
+  - A secure JavaScript and TypeScript runtime
+- [kratos](https://github.com/bilibili/kratos) : Go
+  - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
+- [EfficientDet.Pytorch](https://github.com/toandaominh1997/EfficientDet.Pytorch) : Python
+  - Implementation EfficientDet: Scalable and Efficient Object Detection in PyTorch
+- [ALBERT](https://github.com/google-research/ALBERT) : Python
+  - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) : 
+  - A book series on JavaScript. @YDKJS on twitter.
+- [fastapi](https://github.com/tiangolo/fastapi) : Python
+  - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [openpilot](https://github.com/commaai/openpilot) : C++
+  - open source driving agent
+- [newbee-mall](https://github.com/newbee-ltd/newbee-mall) : Java
+  - newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
+- [trojan](https://github.com/trojan-gfw/trojan) : C++
+  - An unidentifiable mechanism that helps you bypass GFW.
+- [puppeteer](https://github.com/puppeteer/puppeteer) : JavaScript
+  - Headless Chrome Node.js API
+- [nest](https://github.com/nestjs/nest) : TypeScript
+  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [AZ-103-MicrosoftAzureAdministrator](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator) : 
+  - AZ-103: Microsoft Azure Administrator
+- [gatsby](https://github.com/gatsbyjs/gatsby) : JavaScript
+  - Build blazing fast, modern apps and websites with React
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
+  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [tailwindcss](https://github.com/tailwindcss/tailwindcss) : CSS
+  - A utility-first CSS framework for rapid UI development.
+- [godot](https://github.com/godotengine/godot) : C++
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [MagicMirror](https://github.com/MichMich/MagicMirror) : JavaScript
+  - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
+- [TencentOS-tiny](https://github.com/Tencent/TencentOS-tiny) : C
+  - 腾讯物联网终端操作系统
+- [markdown-here](https://github.com/adam-p/markdown-here) : JavaScript
+  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+- [vault](https://github.com/hashicorp/vault) : Go
+  - A tool for secrets management, encryption as a service, and privileged access management
+- [react-native](https://github.com/facebook/react-native) : JavaScript
+  - A framework for building native apps with React.
+- [axios](https://github.com/axios/axios) : JavaScript
+  - Promise based HTTP client for the browser and node.js
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) : JavaScript
+  - A 30 days of JavaScript programming challenge

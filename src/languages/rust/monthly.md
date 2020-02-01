@@ -1,51 +1,51 @@
 # rust
-- [jormungandr](https://github.com/input-output-hk/jormungandr)
-  - aspiring blockchain node
-- [examples](https://github.com/actix/examples)
-  - Actix web examples
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
-  - Unofficial Bitwarden compatible server written in Rust
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [reqwest](https://github.com/seanmonstar/reqwest)
-  - An easy and powerful Rust HTTP Client
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
-- [hyper](https://github.com/hyperium/hyper)
-  - An HTTP library for Rust
 - [actix-web](https://github.com/actix/actix-web)
   - Actix web is a small, pragmatic, and extremely fast rust web framework.
-- [rustlings](https://github.com/rust-lang/rustlings)
-  - Small exercises to get you used to reading and writing Rust code!
-- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
-  - Facilitating high-level interactions between Wasm modules and JavaScript
 - [actix](https://github.com/actix/actix)
   - Actor framework for Rust
-- [pyo3](https://github.com/PyO3/pyo3)
-  - Rust bindings for the Python interpreter
-- [parity-ethereum](https://github.com/paritytech/parity-ethereum)
-  - The fast, light, and robust EVM and WASM client.
-- [book](https://github.com/rust-lang/book)
-  - The Rust Programming Language
-- [cargo](https://github.com/rust-lang/cargo)
-  - The Rust package manager
-- [winit](https://github.com/rust-windowing/winit)
-  - Window handling library in pure Rust
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [vector](https://github.com/timberio/vector)
-  - A High-Performance Monitoring & Observability Data Router
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-  - A curated list of Rust code and resources.
-- [makepad](https://github.com/makepad/makepad)
-  - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
-- [tikv](https://github.com/tikv/tikv)
-  - Distributed transactional key-value database, originally created to complement TiDB
 - [warp](https://github.com/seanmonstar/warp)
   - A super-easy, composable, web server framework for warp speeds.
-- [orbtk](https://github.com/redox-os/orbtk)
-  - The Rust UI-Toolkit.
-- [alacritty](https://github.com/jwilm/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
+- [spotify-tui](https://github.com/Rigellute/spotify-tui)
+  - Spotify for the terminal written in Rust 🚀
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - ripgrep recursively searches directories for a regex pattern
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [examples](https://github.com/actix/examples)
+  - Actix web examples
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
+- [starship](https://github.com/starship/starship)
+  - ☄🌌️ The cross-shell prompt for astronauts
+- [sqlx](https://github.com/launchbadge/sqlx)
+  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL.
+- [lemmy](https://github.com/dessalines/lemmy)
+  - 🐀 Building a federated alternative to reddit in rust
+- [juniper](https://github.com/graphql-rust/juniper)
+  - GraphQL server library for Rust
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [servo](https://github.com/servo/servo)
+  - The Servo Browser Engine
+- [clap](https://github.com/clap-rs/clap)
+  - A full featured, fast Command Line Argument Parser for Rust
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
+- [spotifyd](https://github.com/Spotifyd/spotifyd)
+  - A spotify daemon
+- [Rocket](https://github.com/SergioBenitez/Rocket)
+  - A web framework for Rust.
+- [tock](https://github.com/tock/tock)
+  - A secure embedded operating system for microcontrollers
+- [tide](https://github.com/http-rs/tide)
+  - Serve the web – HTTP server framework
+- [c2rust](https://github.com/immunant/c2rust)
+  - Migrate C code to Rust
+- [cargo](https://github.com/rust-lang/cargo)
+  - The Rust package manager
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
+- [tokio](https://github.com/tokio-rs/tokio)
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...

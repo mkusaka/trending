@@ -1,51 +1,51 @@
 # go
-- [nebula](https://github.com/slackhq/nebula)
-  - A scalable overlay networking tool with a focus on performance, simplicity and security
-- [fabric](https://github.com/hyperledger/fabric)
-  - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
-- [gin](https://github.com/gin-gonic/gin)
-  - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go)
-  - 百度网盘客户端 - Go语言编写
+- [kratos](https://github.com/bilibili/kratos)
+  - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
+- [vault](https://github.com/hashicorp/vault)
+  - A tool for secrets management, encryption as a service, and privileged access management
+- [chaos-mesh](https://github.com/pingcap/chaos-mesh)
+  - A Chaos Engineering Platform for Kubernetes
+- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
+  - Terraform AWS provider
+- [hub](https://github.com/github/hub)
+  - A command-line tool that makes git easier to use with GitHub.
+- [charts](https://github.com/helm/charts)
+  - Curated applications for Kubernetes
+- [go](https://github.com/golang/go)
+  - The Go programming language
+- [autoscaler](https://github.com/kubernetes/autoscaler)
+  - Autoscaling components for Kubernetes
+- [mock](https://github.com/golang/mock)
+  - GoMock is a mocking framework for the Go programming language.
+- [oauth2_proxy](https://github.com/pusher/oauth2_proxy)
+  - A reverse proxy that provides authentication with Google, Github or other providers.
+- [external-dns](https://github.com/kubernetes-sigs/external-dns)
+  - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [micro](https://github.com/zyedidia/micro)
+  - A modern and intuitive terminal-based text editor
+- [cloud-on-k8s](https://github.com/elastic/cloud-on-k8s)
+  - Elastic Cloud on Kubernetes
+- [testify](https://github.com/stretchr/testify)
+  - A toolkit with common assertions and mocks that plays nicely with the standard library
+- [istio](https://github.com/istio/istio)
+  - Connect, secure, control, and observe services.
+- [direnv](https://github.com/direnv/direnv)
+  - unclutter your .profile
+- [terraform](https://github.com/hashicorp/terraform)
+  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [hugo](https://github.com/gohugoio/hugo)
   - The world’s fastest framework for building websites.
-- [etcd](https://github.com/etcd-io/etcd)
-  - Distributed reliable key-value store for the most critical data of a distributed system
-- [bigcache](https://github.com/allegro/bigcache)
-  - Efficient cache for gigabytes of data written in Go.
-- [crawlab](https://github.com/crawlab-team/crawlab)
-  - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
+- [k9s](https://github.com/derailed/k9s)
+  - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm)
+  - Terraform provider for Azure Resource Manager
+- [cortex](https://github.com/cortexlabs/cortex)
+  - Deploy machine learning models in production
+- [migrate](https://github.com/golang-migrate/migrate)
+  - Database migrations. CLI and Golang library.
 - [kubernetes](https://github.com/kubernetes/kubernetes)
   - Production-Grade Container Scheduling and Management
-- [awesome-go](https://github.com/avelino/awesome-go)
-  - A curated list of awesome Go frameworks, libraries and software
-- [frp](https://github.com/fatedier/frp)
-  - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [learn-go-with-tests](https://github.com/quii/learn-go-with-tests)
-  - Learn Go with test-driven development
-- [photoprism](https://github.com/photoprism/photoprism)
-  - Personal Photo Management powered by Go and Google TensorFlow
-- [fyne](https://github.com/fyne-io/fyne)
-  - Cross platform GUI in Go based on Material Design
-- [gods](https://github.com/emirpasic/gods)
-  - GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet, LinkedHashSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap, LinkedHashMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, …
-- [clash](https://github.com/Dreamacro/clash)
-  - A rule-based tunnel in Go.
-- [colly](https://github.com/gocolly/colly)
-  - Elegant Scraper and Crawler Framework for Golang
-- [ffuf](https://github.com/ffuf/ffuf)
-  - Fast web fuzzer written in Go
-- [go-gin-example](https://github.com/eddycjy/go-gin-example)
-  - An example of gin
-- [dns](https://github.com/miekg/dns)
-  - DNS library in Go
-- [telegraf](https://github.com/influxdata/telegraf)
-  - The plugin-driven server agent for collecting & reporting metrics.
-- [minio](https://github.com/minio/minio)
-  - MinIO is a high performance object storage server compatible with Amazon S3 APIs
-- [rclone](https://github.com/rclone/rclone)
-  - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
-- [moby](https://github.com/moby/moby)
-  - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [nps](https://github.com/cnlh/nps)
-  - 一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。
+- [nomad](https://github.com/hashicorp/nomad)
+  - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+- [cli](https://github.com/docker/cli)
+  - The Docker CLI
