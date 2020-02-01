@@ -1,51 +1,51 @@
 # ruby
-- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
-  - Metasploit Framework
+- [vagrant](https://github.com/hashicorp/vagrant)
+  - Vagrant is a tool for building and distributing development environments.
+- [cmsc330spring20](https://github.com/anwarmamat/cmsc330spring20)
+  - 
+- [logstash](https://github.com/elastic/logstash)
+  - Logstash - transport and process your logs, events, or other data
+- [sonic-pi](https://github.com/samaaron/sonic-pi)
+  - The Live Coding Music Synth for Everyone
+- [database_cleaner](https://github.com/DatabaseCleaner/database_cleaner)
+  - Strategies for cleaning databases in Ruby. Can be used to ensure a clean state for testing.
+- [shopify_app](https://github.com/Shopify/shopify_app)
+  - A Rails Engine for building Shopify Apps
+- [concurrent-ruby](https://github.com/ruby-concurrency/concurrent-ruby)
+  - Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
+- [choosealicense.com](https://github.com/github/choosealicense.com)
+  - A site to provide non-judgmental guidance on choosing a license for your open source project
+- [knock](https://github.com/nsarno/knock)
+  - Seamless JWT authentication for Rails API
 - [linguist](https://github.com/github/linguist)
   - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-- [gemoji](https://github.com/github/gemoji)
-  - Emoji images and names.
-- [graphql-client](https://github.com/github/graphql-client)
-  - A Ruby library for declaring, composing and executing GraphQL queries
-- [openproject](https://github.com/opf/openproject)
-  - OpenProject is the leading open source project management software.
-- [webpacker](https://github.com/rails/webpacker)
-  - Use Webpack to manage app-like JavaScript modules in Rails
-- [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening)
-  - This Ansible role provides numerous security-related configurations, providing all-round base protection.
-- [ruby-oo-self-cash-register-lab-nyc-web-012720](https://github.com/learn-co-students/ruby-oo-self-cash-register-lab-nyc-web-012720)
-  - 
-- [ruby-oo-advanced-class-methods-lab-austin-web-012720](https://github.com/learn-co-students/ruby-oo-advanced-class-methods-lab-austin-web-012720)
-  - 
-- [ruby-oo-class-variables-and-class-methods-lab-seattle-web-012720](https://github.com/learn-co-students/ruby-oo-class-variables-and-class-methods-lab-seattle-web-012720)
-  - 
-- [basic-nested-forms-lab-online-web-ft-110419](https://github.com/learn-co-students/basic-nested-forms-lab-online-web-ft-110419)
-  - 
-- [displaying-has-many-through-rails-lab-online-web-ft-110419](https://github.com/learn-co-students/displaying-has-many-through-rails-lab-online-web-ft-110419)
-  - 
-- [basic-nested-forms-online-web-ft-110419](https://github.com/learn-co-students/basic-nested-forms-online-web-ft-110419)
-  - 
-- [ruby-oo-object-relationships-belongs-to-lab-dc-web-012720](https://github.com/learn-co-students/ruby-oo-object-relationships-belongs-to-lab-dc-web-012720)
-  - 
-- [oo-counting-sentences-onl01-seng-ft-012120](https://github.com/learn-co-students/oo-counting-sentences-onl01-seng-ft-012120)
-  - 
-- [activeinteractor](https://github.com/aaronmallen/activeinteractor)
-  - Ruby interactors based on ActiveModel inspired by interactor
+- [ahoy](https://github.com/ankane/ahoy)
+  - Analytics for Rails
+- [audited](https://github.com/collectiveidea/audited)
+  - Audited (formerly acts_as_audited) is an ORM extension that logs all changes to your Rails models.
+- [devise_token_auth](https://github.com/lynndylanhurley/devise_token_auth)
+  - Token based authentication for Rails JSON APIs. Designed to work with jToker and ng-token-auth.
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
+  - Metasploit Framework
+- [discourse](https://github.com/discourse/discourse)
+  - A platform for community discussion. Free, open, simple.
 - [typhoeus](https://github.com/typhoeus/typhoeus)
   - Typhoeus wraps libcurl in order to make fast and reliable requests.
-- [rps-interface](https://github.com/appdev-projects/rps-interface)
-  - 
-- [fluentd-kubernetes-daemonset](https://github.com/fluent/fluentd-kubernetes-daemonset)
-  - Fluentd daemonset for Kubernetes and it Docker image
-- [displaying-has-many-through-rails-online-web-ft-110419](https://github.com/learn-co-students/displaying-has-many-through-rails-online-web-ft-110419)
-  - 
-- [ruby-oo-advanced-class-methods-lab-dc-web-012720](https://github.com/learn-co-students/ruby-oo-advanced-class-methods-lab-dc-web-012720)
-  - 
-- [ruby-objects-has-many-lab-houston-web-012720](https://github.com/learn-co-students/ruby-objects-has-many-lab-houston-web-012720)
-  - 
-- [forms-and-basic-associations-rails-lab-online-web-ft-110419](https://github.com/learn-co-students/forms-and-basic-associations-rails-lab-online-web-ft-110419)
-  - 
-- [ruby-advanced-class-methods-lab-onl01-seng-ft-012120](https://github.com/learn-co-students/ruby-advanced-class-methods-lab-onl01-seng-ft-012120)
-  - 
-- [interactor](https://github.com/collectiveidea/interactor)
-  - Interactor provides a common interface for performing complex user interactions.
+- [activeadmin](https://github.com/activeadmin/activeadmin)
+  - The administration framework for Ruby on Rails applications.
+- [solidus](https://github.com/solidusio/solidus)
+  - 🛒Solidus, Rails eCommerce System
+- [paper_trail](https://github.com/paper-trail-gem/paper_trail)
+  - Track changes to your rails models
+- [rubocop](https://github.com/rubocop-hq/rubocop)
+  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+- [activeinteractor](https://github.com/aaronmallen/activeinteractor)
+  - Ruby interactors based on ActiveModel inspired by interactor
+- [factory_bot](https://github.com/thoughtbot/factory_bot)
+  - A library for setting up Ruby objects as test data.
+- [rspec-rails](https://github.com/rspec/rspec-rails)
+  - RSpec for Rails-3+
+- [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails)
+  - Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
+- [shrine](https://github.com/shrinerb/shrine)
+  - File Attachment toolkit for Ruby applications

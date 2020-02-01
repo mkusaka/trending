@@ -1,51 +1,51 @@
 # rust
-- [firecracker](https://github.com/firecracker-microvm/firecracker)
-  - Secure and fast microVMs for serverless computing.
-- [self_update](https://github.com/jaemk/self_update)
-  - Self updates for rust executables
-- [parity-ethereum](https://github.com/paritytech/parity-ethereum)
-  - The fast, light, and robust EVM and WASM client.
-- [book](https://github.com/rust-lang/book)
-  - The Rust Programming Language
-- [ggez](https://github.com/ggez/ggez)
-  - Rust library to create a Good Game Easily
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [rust-clippy](https://github.com/rust-lang/rust-clippy)
-  - A bunch of lints to catch common mistakes and improve your Rust code
-- [dashmap](https://github.com/xacrimon/dashmap)
-  - Blazing fast concurrent HashMap for Rust.
-- [examples](https://github.com/actix/examples)
-  - Actix web examples
-- [tide](https://github.com/http-rs/tide)
-  - Serve the web – HTTP server framework
-- [iced](https://github.com/hecrj/iced)
-  - A cross-platform GUI library for Rust, inspired by Elm
-- [nix](https://github.com/nix-rust/nix)
-  - Rust friendly bindings to *nix APIs
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The cross-shell prompt for astronauts
-- [mio](https://github.com/tokio-rs/mio)
-  - Metal IO library for Rust
-- [oreboot](https://github.com/oreboot/oreboot)
-  - oreboot is a fork of coreboot, with C removed, written in Rust.
-- [orbtk](https://github.com/redox-os/orbtk)
-  - The Rust UI-Toolkit.
-- [miniquad](https://github.com/not-fl3/miniquad)
-  - OpenGL wrapper for the Rust language
+- [OpenSK](https://github.com/google/OpenSK)
+  - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
 - [tock](https://github.com/tock/tock)
   - A secure embedded operating system for microcontrollers
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
-  - Unofficial Bitwarden compatible server written in Rust
-- [gfx](https://github.com/gfx-rs/gfx)
-  - A low-overhead Vulkan-like GPU API for Rust.
+- [iced](https://github.com/hecrj/iced)
+  - A cross-platform GUI library for Rust, inspired by Elm
+- [tide](https://github.com/http-rs/tide)
+  - Serve the web – HTTP server framework
 - [rust](https://github.com/rust-lang/rust)
   - Empowering everyone to build reliable and efficient software.
-- [servo](https://github.com/servo/servo)
-  - The Servo Browser Engine
 - [espanso](https://github.com/federico-terzi/espanso)
   - Cross-platform Text Expander written in Rust
-- [pueue](https://github.com/Nukesor/pueue)
-  - 🌠 A daemon for managing long running shell commands.
-- [micro-http](https://github.com/firecracker-microvm/micro-http)
-  - A minimal HTTP implementation used by Firecracker
+- [wasm-pack](https://github.com/rustwasm/wasm-pack)
+  - 📦✨ your favorite rust -> wasm workflow tool!
+- [wgpu](https://github.com/gfx-rs/wgpu)
+  - Native WebGPU implementation based on gfx-hal
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
+- [examples](https://github.com/actix/examples)
+  - Actix web examples
+- [tikv](https://github.com/tikv/tikv)
+  - Distributed transactional key-value database, originally created to complement TiDB
+- [ruffle](https://github.com/ruffle-rs/ruffle)
+  - A Flash Player emulator written in Rust
+- [amethyst](https://github.com/amethyst/amethyst)
+  - Data-oriented and data-driven game engine written in Rust
+- [juniper](https://github.com/graphql-rust/juniper)
+  - GraphQL server library for Rust
+- [hyper](https://github.com/hyperium/hyper)
+  - An HTTP library for Rust
+- [firecracker](https://github.com/firecracker-microvm/firecracker)
+  - Secure and fast microVMs for serverless computing.
+- [Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack)
+  - Easily testable and working Rust codes with blog posts to explain them.
+- [rust-clippy](https://github.com/rust-lang/rust-clippy)
+  - A bunch of lints to catch common mistakes and improve your Rust code
+- [oreboot](https://github.com/oreboot/oreboot)
+  - oreboot is a fork of coreboot, with C removed, written in Rust.
+- [vector](https://github.com/timberio/vector)
+  - Collect, transform, & route all observability data with one simple tool.
+- [wasmtime](https://github.com/bytecodealliance/wasmtime)
+  - Standalone JIT-style runtime for WebAssembly, using Cranelift
+- [tree-sitter](https://github.com/tree-sitter/tree-sitter)
+  - An incremental parsing system for programming tools
+- [sccache](https://github.com/mozilla/sccache)
+  - sccache is ccache with cloud storage
+- [clap](https://github.com/clap-rs/clap)
+  - A full featured, fast Command Line Argument Parser for Rust
+- [servo](https://github.com/servo/servo)
+  - The Servo Browser Engine

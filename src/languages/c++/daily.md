@@ -1,51 +1,51 @@
 # c++
+- [LightGBM](https://github.com/microsoft/LightGBM)
+  - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
+- [benchmark](https://github.com/google/benchmark)
+  - A microbenchmark support library
+- [pybind11](https://github.com/pybind/pybind11)
+  - Seamless operability between C++11 and Python
+- [opencv](https://github.com/opencv/opencv)
+  - Open Source Computer Vision Library
+- [protobuf](https://github.com/protocolbuffers/protobuf)
+  - Protocol Buffers - Google's data interchange format
+- [terminal](https://github.com/microsoft/terminal)
+  - The new Windows Terminal, and the original Windows console host - all in the same place!
+- [Azure-Kinect-Sensor-SDK](https://github.com/microsoft/Azure-Kinect-Sensor-SDK)
+  - A cross platform (Linux and Windows) user mode SDK to read data from your Azure Kinect device.
+- [pytorch](https://github.com/pytorch/pytorch)
+  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [serenity](https://github.com/SerenityOS/serenity)
   - Serenity Operating System
 - [bitcoin](https://github.com/bitcoin/bitcoin)
   - Bitcoin Core integration/staging tree
-- [Osiris](https://github.com/danielkrupinski/Osiris)
-  - Free open-source training software / cheat for Counter-Strike: Global Offensive, written in modern C++. GUI powered by imgui.
-- [gdal](https://github.com/OSGeo/gdal)
-  - GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats.
-- [crocoddyl](https://github.com/loco-3d/crocoddyl)
-  - Crocoddyl is an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms
-- [wav2letter](https://github.com/facebookresearch/wav2letter)
-  - Facebook AI Research's Automatic Speech Recognition Toolkit
+- [grpc](https://github.com/grpc/grpc)
+  - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [tensorflow](https://github.com/tensorflow/tensorflow)
+  - An Open Source Machine Learning Framework for Everyone
+- [Marlin](https://github.com/MarlinFirmware/Marlin)
+  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
+- [electron](https://github.com/electron/electron)
+  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [mediapipe](https://github.com/google/mediapipe)
   - MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
-- [foundationdb](https://github.com/apple/foundationdb)
-  - FoundationDB - the open source, distributed, transactional key-value store
-- [phantomjs](https://github.com/ariya/phantomjs)
-  - Scriptable Headless Browser
-- [reconfigurable_organisms](https://github.com/skriegman/reconfigurable_organisms)
-  - 
-- [pinjectra](https://github.com/SafeBreach-Labs/pinjectra)
-  - Pinjectra is a C/C++ OOP-like library that implements Process Injection techniques (with focus on Windows 10 64-bit)
-- [desktop](https://github.com/nextcloud/desktop)
-  - 💻 Desktop sync client for Nextcloud
-- [terminal](https://github.com/microsoft/terminal)
-  - The new Windows Terminal, and the original Windows console host - all in the same place!
-- [Firmware](https://github.com/PX4/Firmware)
-  - PX4 Autopilot Software
-- [osrm-backend](https://github.com/Project-OSRM/osrm-backend)
-  - Open Source Routing Machine - C++ backend
-- [cpprestsdk](https://github.com/microsoft/cpprestsdk)
-  - The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
-- [aria2](https://github.com/aria2/aria2)
-  - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-- [open_vins](https://github.com/rpng/open_vins)
-  - An open source platform for visual-inertial navigation research.
-- [node-sass](https://github.com/sass/node-sass)
-  - 🌈 Node.js bindings to libsass
-- [Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306)
-  - Arduino library for SSD1306 monochrome 128x64 and 128x32 OLEDs
+- [rocksdb](https://github.com/facebook/rocksdb)
+  - A library that provides an embeddable, persistent key-value store for fast storage.
+- [Paddle](https://github.com/PaddlePaddle/Paddle)
+  - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
+- [bpftrace](https://github.com/iovisor/bpftrace)
+  - High-level tracing language for Linux eBPF
+- [googletest](https://github.com/google/googletest)
+  - Googletest - Google Testing and Mocking Framework
+- [envoy](https://github.com/envoyproxy/envoy)
+  - Cloud-native high-performance edge/middle/service proxy
+- [librealsense](https://github.com/IntelRealSense/librealsense)
+  - Intel® RealSense™ SDK
 - [Catch2](https://github.com/catchorg/Catch2)
   - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [thrift](https://github.com/apache/thrift)
+  - Apache Thrift
 - [json](https://github.com/nlohmann/json)
   - JSON for Modern C++
-- [deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu)
-  - Deepin Wine for Ubuntu/Debian
-- [NVMeFix](https://github.com/acidanthera/NVMeFix)
-  - 
-- [JUCE](https://github.com/WeAreROLI/JUCE)
-  - The JUCE cross-platform C++ framework
+- [openalpr](https://github.com/openalpr/openalpr)
+  - Automatic License Plate Recognition library

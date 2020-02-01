@@ -1,51 +1,51 @@
 # javascript
 - [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
   - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
+  - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+- [remote-jobs](https://github.com/remoteintech/remote-jobs)
+  - A list of semi to fully remote-friendly companies in tech.
+- [2019-ncov](https://github.com/shfshanyue/2019-ncov)
+  - 武汉新型冠状病毒，肺炎疫情实时省市地图
+- [express](https://github.com/expressjs/express)
+  - Fast, unopinionated, minimalist web framework for node.
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
   -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [jquery](https://github.com/jquery/jquery)
-  - jQuery JavaScript Library
-- [label-studio](https://github.com/heartexlabs/label-studio)
-  - Label Studio is a multi-type data labeling and annotation tool with standardized output format
-- [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
-  - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
-- [fastify](https://github.com/fastify/fastify)
-  - Fast and low overhead web framework, for Node.js
-- [node-elm](https://github.com/bailicangdu/node-elm)
-  - 基于 node.js + Mongodb 构建的后台系统
-- [react-redux-realworld-example-app](https://github.com/gothinkster/react-redux-realworld-example-app)
-  - Exemplary real world application built with React + Redux
-- [coreui-free-react-admin-template](https://github.com/coreui/coreui-free-react-admin-template)
-  - CoreUI React is free React admin template based on Bootstrap 4
-- [sigma.js](https://github.com/jacomyal/sigma.js)
-  - A JavaScript library dedicated to graph drawing
-- [ua-parser-js](https://github.com/faisalman/ua-parser-js)
-  - UAParser.js - JavaScript library to detect browser, engine, OS, CPU, and device type/model from userAgent string. Supports browser & node.js environment. Also available as jQuery/Zepto plugin, Bower/Meteor package, RequireJS/AMD module, & CLI tool.
-- [howler.js](https://github.com/goldfire/howler.js)
-  - Javascript audio library for the modern web.
-- [anime](https://github.com/juliangarnier/anime)
-  - JavaScript animation engine
-- [pixi.js](https://github.com/pixijs/pixi.js)
-  - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
-- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
-  - The iconic SVG, font, and CSS toolkit
-- [taniarascia.com](https://github.com/taniarascia/taniarascia.com)
-  - 💾 Personal website running on Gatsby, React, and Node.js.
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
-  - Starter files, final projects and FAQ for my Complete JavaScript course
-- [classsed-react-firebase-client](https://github.com/hidjou/classsed-react-firebase-client)
-  - 
-- [cypress](https://github.com/cypress-io/cypress)
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [bootcamp-gostack-desafio-01](https://github.com/Rocketseat/bootcamp-gostack-desafio-01)
-  - Desafio do primeiro módulo do Bootcamp GoStack 🚀👨🏻‍🚀
-- [bull](https://github.com/OptimalBits/bull)
-  - Premium Queue package for handling distributed jobs and messages in NodeJS.
-- [metamask-extension](https://github.com/MetaMask/metamask-extension)
-  - 🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites.
-- [google-access-helper](https://github.com/haotian-wang/google-access-helper)
-  - 谷歌访问助手破解版
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
-- [Detox](https://github.com/wix/Detox)
-  - Gray box end-to-end testing and automation framework for mobile apps
+- [popper-core](https://github.com/popperjs/popper-core)
+  - 🍿Positioning tooltips and popovers is difficult. Popper is here to help!
+- [jsdom](https://github.com/jsdom/jsdom)
+  - A JavaScript implementation of various web standards, for use with Node.js
+- [phaser](https://github.com/photonstorm/phaser)
+  - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+- [pwa-studio](https://github.com/magento/pwa-studio)
+  - 🛠Development tools to build, optimize and deploy Progressive Web Applications for Magento 2.
+- [fabric.js](https://github.com/fabricjs/fabric.js)
+  - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
+- [airframe-react](https://github.com/0wczar/airframe-react)
+  - Free Open Source High Quality Dashboard based on Bootstrap 4 & React 16: http://dashboards.webkom.co/react/airframe
+- [mattermost-webapp](https://github.com/mattermost/mattermost-webapp)
+  - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
+- [taiko-web](https://github.com/bui/taiko-web)
+  - Taiko no Tatsujin simulator
+- [alpine](https://github.com/alpinejs/alpine)
+  - A rugged, minimal framework for composing JavaScript behavior in your markup.
+- [strapi](https://github.com/strapi/strapi)
+  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [fingerprintjs2](https://github.com/Valve/fingerprintjs2)
+  - Modern & flexible browser fingerprinting library
+- [taro](https://github.com/NervJS/taro)
+  - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动/ QQ 小程序/快应用/H5/React Native 等的应用。 https://taro.jd.com/
+- [evergreen](https://github.com/segmentio/evergreen)
+  - 🌲 Evergreen React UI Framework by Segment
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [wp-calypso](https://github.com/Automattic/wp-calypso)
+  - The JavaScript and API powered WordPress.com
+- [react-map-gl](https://github.com/uber/react-map-gl)
+  - React friendly API wrapper around MapboxGL JS
+- [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)
+  - 网易云音乐 Node.js API service
+- [react-select](https://github.com/JedWatson/react-select)
+  - The Select Component for React.js
+- [incubator-superset](https://github.com/apache/incubator-superset)
+  - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
