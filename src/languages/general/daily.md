@@ -1,51 +1,49 @@
 # general
-- [spiderfoot](https://github.com/smicallef/spiderfoot) : Python
-  - SpiderFoot, the most complete OSINT collection and reconnaissance tool.
 - [OpenSK](https://github.com/google/OpenSK) : Rust
   - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
-- [sovereign](https://github.com/sovereign/sovereign) : Python
-  - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
-- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) : JavaScript
-  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-- [Chaos](https://github.com/jonnyhyman/Chaos) : Python
-  - Visualizations of the connections between chaos theory and fractals through the logistic map; made for Veritasium YouTube video
-- [spinningup](https://github.com/openai/spinningup) : Python
-  - An educational resource to help anyone learn deep reinforcement learning.
-- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) : JavaScript
-  - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
-- [exploits](https://github.com/mm0r1/exploits) : PHP
-  - Pwn stuff.
+- [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) : 
+  - A list of resources for those interested in getting started in bug bounties
+- [ATTCK-PenTester-Book](https://github.com/Dm2333/ATTCK-PenTester-Book) : 
+  - ATTCK-PenTester-Book
+- [hiplot](https://github.com/facebookresearch/hiplot) : TypeScript
+  - HiPlot makes understanding high dimensional data easy
 - [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) : 
   - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
-- [remote-jobs](https://github.com/remoteintech/remote-jobs) : JavaScript
-  - A list of semi to fully remote-friendly companies in tech.
-- [architect-awesome](https://github.com/xingshaocheng/architect-awesome) : 
-  - 后端架构师技术图谱
-- [snowflake](https://github.com/subhra74/snowflake) : Java
-  - Graphical SFTP client and terminal emulator with helpful utilities
-- [2019-ncov](https://github.com/shfshanyue/2019-ncov) : JavaScript
-  - 武汉肺炎疫情实时省市地图
+- [specials](https://github.com/RPiList/specials) : 
+- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) : JavaScript
+  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) : Python
   - Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
-- [express](https://github.com/expressjs/express) : JavaScript
-  - Fast, unopinionated, minimalist web framework for node.
-- [shareOI](https://github.com/hzwer/shareOI) : 
-  - 算法竞赛课件分享
-- [google-research](https://github.com/google-research/google-research) : Jupyter Notebook
-  - Google AI Research
-- [gitignore](https://github.com/github/gitignore) : 
-  - A collection of useful .gitignore templates
-- [LightGBM](https://github.com/microsoft/LightGBM) : C++
-  - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
-- [awesome-mac](https://github.com/jaywcjlove/awesome-mac) : JavaScript
-  -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [k3s](https://github.com/rancher/k3s) : Go
-  - Lightweight Kubernetes. 5 less than k8s.
-- [fabric](https://github.com/hyperledger/fabric) : Go
-  - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
-- [computer-science](https://github.com/ossu/computer-science) : 
-  - 🎓 Path to a free self-taught education in Computer Science!
-- [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) : Java
-  - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
-- [magento2](https://github.com/magento/magento2) : PHP
-  - All Submissions you make to Magento Inc. ("Magento") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, subli…
+- [remote-jobs](https://github.com/remoteintech/remote-jobs) : JavaScript
+  - A list of semi to fully remote-friendly companies in tech.
+- [Chaos](https://github.com/jonnyhyman/Chaos) : Python
+  - Visualizations of the connections between chaos theory and fractals through the logistic map; made for Veritasium YouTube video
+- [spiderfoot](https://github.com/smicallef/spiderfoot) : Python
+  - SpiderFoot, the most complete OSINT collection and reconnaissance tool.
+- [mall](https://github.com/macrozheng/mall) : Java
+  - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+- [new-pac](https://github.com/Alvin9999/new-pac) : 
+  - 科学/自由上网，免费ss/ssr/v2ray/goflyway账号，搭建教程
+- [v2rayN](https://github.com/2dust/v2rayN) : C#
+- [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) : Python
+  - A command line tool to download Android applications directly from the Google Play Store
+- [leetcode](https://github.com/azl397985856/leetcode) : JavaScript
+  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+- [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) : C#
+  - If you want to keep a secret, you must also hide it from yourself.
+- [lantern](https://github.com/getlantern/lantern) : Go
+  - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 lantern proxy vpn censorship-circumvention censorship gfw accelerator
+- [python-small-examples](https://github.com/jackzhenguo/python-small-examples) : Python
+  - Python有趣的小例子一网打尽。Python基础、Python坑点、Python字符串和正则、Python绘图、Python日期和文件、Web开发、数据科学、机器学习、深度学习、TensorFlow、Pytorch，一切都是简单易懂的小例子。
+- [lede](https://github.com/coolsnowwolf/lede) : C
+  - Lean's OpenWrt source
+- [sovereign](https://github.com/sovereign/sovereign) : Python
+  - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
+- [stylegan2](https://github.com/NVlabs/stylegan2) : Python
+  - StyleGAN2 - Official TensorFlow Implementation
+- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) : Jupyter Notebook
+  - Python - 100天从新手到大师
+- [kotlin](https://github.com/JetBrains/kotlin) : Kotlin
+  - The Kotlin Programming Language
+- [Algorithms](https://github.com/williamfiset/Algorithms) : Java
+  - A collection of algorithms and data structures

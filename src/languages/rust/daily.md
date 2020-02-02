@@ -1,51 +1,51 @@
 # rust
 - [OpenSK](https://github.com/google/OpenSK)
   - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
-- [tock](https://github.com/tock/tock)
-  - A secure embedded operating system for microcontrollers
-- [iced](https://github.com/hecrj/iced)
-  - A cross-platform GUI library for Rust, inspired by Elm
-- [tide](https://github.com/http-rs/tide)
-  - Serve the web – HTTP server framework
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [espanso](https://github.com/federico-terzi/espanso)
-  - Cross-platform Text Expander written in Rust
-- [wasm-pack](https://github.com/rustwasm/wasm-pack)
-  - 📦✨ your favorite rust -> wasm workflow tool!
-- [wgpu](https://github.com/gfx-rs/wgpu)
-  - Native WebGPU implementation based on gfx-hal
+- [alacritty](https://github.com/alacritty/alacritty)
+  - A cross-platform, GPU-accelerated terminal emulator
 - [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
   - An experimental Rust compiler front-end for IDEs
-- [examples](https://github.com/actix/examples)
-  - Actix web examples
-- [tikv](https://github.com/tikv/tikv)
-  - Distributed transactional key-value database, originally created to complement TiDB
-- [ruffle](https://github.com/ruffle-rs/ruffle)
-  - A Flash Player emulator written in Rust
-- [amethyst](https://github.com/amethyst/amethyst)
-  - Data-oriented and data-driven game engine written in Rust
-- [juniper](https://github.com/graphql-rust/juniper)
-  - GraphQL server library for Rust
-- [hyper](https://github.com/hyperium/hyper)
-  - An HTTP library for Rust
-- [firecracker](https://github.com/firecracker-microvm/firecracker)
-  - Secure and fast microVMs for serverless computing.
-- [Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack)
-  - Easily testable and working Rust codes with blog posts to explain them.
-- [rust-clippy](https://github.com/rust-lang/rust-clippy)
-  - A bunch of lints to catch common mistakes and improve your Rust code
-- [oreboot](https://github.com/oreboot/oreboot)
-  - oreboot is a fork of coreboot, with C removed, written in Rust.
-- [vector](https://github.com/timberio/vector)
-  - Collect, transform, & route all observability data with one simple tool.
-- [wasmtime](https://github.com/bytecodealliance/wasmtime)
-  - Standalone JIT-style runtime for WebAssembly, using Cranelift
-- [tree-sitter](https://github.com/tree-sitter/tree-sitter)
-  - An incremental parsing system for programming tools
-- [sccache](https://github.com/mozilla/sccache)
-  - sccache is ccache with cloud storage
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
 - [servo](https://github.com/servo/servo)
   - The Servo Browser Engine
+- [WASI](https://github.com/WebAssembly/WASI)
+  - WebAssembly System Interface
+- [argh](https://github.com/google/argh)
+  - Rust derive-based argument parsing optimized for code size
+- [oreboot](https://github.com/oreboot/oreboot)
+  - oreboot is a fork of coreboot, with C removed, written in Rust.
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [nestur](https://github.com/spieglt/nestur)
+  - The NES you left outside in the rain but let dry and still kind of works
+- [clap](https://github.com/clap-rs/clap)
+  - A full featured, fast Command Line Argument Parser for Rust
+- [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
+  - The Mullvad VPN client app for desktop and mobile
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix web is a small, pragmatic, and extremely fast rust web framework.
+- [rustlings](https://github.com/rust-lang/rustlings)
+  - Small exercises to get you used to reading and writing Rust code!
+- [learning-pathways](https://github.com/holochain-devcamp/learning-pathways)
+  - LeaP - a holochain collaborative and learning system
+- [warp](https://github.com/seanmonstar/warp)
+  - A super-easy, composable, web server framework for warp speeds.
+- [amethyst](https://github.com/amethyst/amethyst)
+  - Data-oriented and data-driven game engine written in Rust
+- [Rocket](https://github.com/SergioBenitez/Rocket)
+  - A web framework for Rust.
+- [iced](https://github.com/hecrj/iced)
+  - A cross-platform GUI library for Rust, inspired by Elm
+- [rust-cpython](https://github.com/dgrunwald/rust-cpython)
+  - Rust <-> Python bindings
+- [bastion](https://github.com/bastion-rs/bastion)
+  - Highly-available Distributed Fault-tolerant Runtime
+- [dust](https://github.com/bootandy/dust)
+  - A more intuitive version of du in rust
+- [forest](https://github.com/ChainSafe/forest)
+  - 🌲 Rust Filecoin Node Implementation
+- [hyper](https://github.com/hyperium/hyper)
+  - An HTTP library for Rust
+- [anyhow](https://github.com/dtolnay/anyhow)
+  - Flexible concrete Error type built on std::error::Error
+- [json](https://github.com/serde-rs/json)
+  - Strongly typed JSON library for Rust

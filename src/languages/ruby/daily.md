@@ -1,51 +1,51 @@
 # ruby
-- [vagrant](https://github.com/hashicorp/vagrant)
-  - Vagrant is a tool for building and distributing development environments.
-- [cmsc330spring20](https://github.com/anwarmamat/cmsc330spring20)
-  - 
-- [logstash](https://github.com/elastic/logstash)
-  - Logstash - transport and process your logs, events, or other data
-- [sonic-pi](https://github.com/samaaron/sonic-pi)
-  - The Live Coding Music Synth for Everyone
-- [database_cleaner](https://github.com/DatabaseCleaner/database_cleaner)
-  - Strategies for cleaning databases in Ruby. Can be used to ensure a clean state for testing.
-- [shopify_app](https://github.com/Shopify/shopify_app)
-  - A Rails Engine for building Shopify Apps
-- [concurrent-ruby](https://github.com/ruby-concurrency/concurrent-ruby)
-  - Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
-- [choosealicense.com](https://github.com/github/choosealicense.com)
-  - A site to provide non-judgmental guidance on choosing a license for your open source project
-- [knock](https://github.com/nsarno/knock)
-  - Seamless JWT authentication for Rails API
-- [linguist](https://github.com/github/linguist)
-  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-- [ahoy](https://github.com/ankane/ahoy)
-  - Analytics for Rails
-- [audited](https://github.com/collectiveidea/audited)
-  - Audited (formerly acts_as_audited) is an ORM extension that logs all changes to your Rails models.
-- [devise_token_auth](https://github.com/lynndylanhurley/devise_token_auth)
-  - Token based authentication for Rails JSON APIs. Designed to work with jToker and ng-token-auth.
-- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
-  - Metasploit Framework
+- [gitlabhq](https://github.com/gitlabhq/gitlabhq)
+  - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
+- [setup](https://github.com/lewagon/setup)
+  - Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp
+- [rails](https://github.com/rails/rails)
+  - Ruby on Rails
+- [byebug](https://github.com/deivid-rodriguez/byebug)
+  - Debugging in Ruby 2
+- [brew](https://github.com/Homebrew/brew)
+  - 🍺 The missing package manager for macOS (or Linux)
+- [dev.to](https://github.com/thepracticaldev/dev.to)
+  - Where programmers share ideas and help each other grow
 - [discourse](https://github.com/discourse/discourse)
   - A platform for community discussion. Free, open, simple.
-- [typhoeus](https://github.com/typhoeus/typhoeus)
-  - Typhoeus wraps libcurl in order to make fast and reliable requests.
-- [activeadmin](https://github.com/activeadmin/activeadmin)
-  - The administration framework for Ruby on Rails applications.
-- [solidus](https://github.com/solidusio/solidus)
-  - 🛒Solidus, Rails eCommerce System
-- [paper_trail](https://github.com/paper-trail-gem/paper_trail)
-  - Track changes to your rails models
-- [rubocop](https://github.com/rubocop-hq/rubocop)
-  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [activeinteractor](https://github.com/aaronmallen/activeinteractor)
-  - Ruby interactors based on ActiveModel inspired by interactor
-- [factory_bot](https://github.com/thoughtbot/factory_bot)
-  - A library for setting up Ruby objects as test data.
-- [rspec-rails](https://github.com/rspec/rspec-rails)
-  - RSpec for Rails-3+
-- [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails)
-  - Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
-- [shrine](https://github.com/shrinerb/shrine)
-  - File Attachment toolkit for Ruby applications
+- [twurl](https://github.com/twitter/twurl)
+  - OAuth-enabled curl for the Twitter API
+- [takeaway-challenge](https://github.com/makersacademy/takeaway-challenge)
+  - Use the Twilio Gem to order food
+- [omnicalc-api](https://github.com/appdev-projects/omnicalc-api)
+  - 
+- [programming-univbasics-4-intro-to-hashes-lab-nyc-web-021720](https://github.com/learn-co-students/programming-univbasics-4-intro-to-hashes-lab-nyc-web-021720)
+  - 
+- [ruby-oo-advanced-class-methods-lab-nyc-web-012720](https://github.com/learn-co-students/ruby-oo-advanced-class-methods-lab-nyc-web-012720)
+  - 
+- [rails-static-request-readme-chi01-seng-ft-010620](https://github.com/learn-co-students/rails-static-request-readme-chi01-seng-ft-010620)
+  - 
+- [building-nested-hashes-onl01-seng-pt-012120](https://github.com/learn-co-students/building-nested-hashes-onl01-seng-pt-012120)
+  - 
+- [simple-nesting-onl01-seng-pt-012120](https://github.com/learn-co-students/simple-nesting-onl01-seng-pt-012120)
+  - 
+- [ruby-intro-to-hashes-lab-onl01-seng-pt-012120](https://github.com/learn-co-students/ruby-intro-to-hashes-lab-onl01-seng-pt-012120)
+  - 
+- [my_all-onl01-seng-pt-012120](https://github.com/learn-co-students/my_all-onl01-seng-pt-012120)
+  - 
+- [cartoon-collections-onl01-seng-pt-012120](https://github.com/learn-co-students/cartoon-collections-onl01-seng-pt-012120)
+  - 
+- [sinatra-password-security-onl01-seng-pt-100619](https://github.com/learn-co-students/sinatra-password-security-onl01-seng-pt-100619)
+  - 
+- [prime-ruby-onl01-seng-pt-012120](https://github.com/learn-co-students/prime-ruby-onl01-seng-pt-012120)
+  - 
+- [oo-relationships-practice](https://github.com/learn-co-curriculum/oo-relationships-practice)
+  - 
+- [sinatra-secure-password-lab-onl01-seng-pt-100619](https://github.com/learn-co-students/sinatra-secure-password-lab-onl01-seng-pt-100619)
+  - 
+- [my_find_code_along-onl01-seng-pt-012120](https://github.com/learn-co-students/my_find_code_along-onl01-seng-pt-012120)
+  - 
+- [feedbin](https://github.com/feedbin/feedbin)
+  - RSS Reader
+- [hash-iteration-onl01-seng-pt-012120](https://github.com/learn-co-students/hash-iteration-onl01-seng-pt-012120)
+  - 
