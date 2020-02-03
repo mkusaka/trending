@@ -1,356 +1,356 @@
 # daily
 ## general
-- [OpenSK](https://github.com/google/OpenSK) : Rust
-  - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
-- [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) : 
-  - A list of resources for those interested in getting started in bug bounties
-- [ATTCK-PenTester-Book](https://github.com/Dm2333/ATTCK-PenTester-Book) : 
-  - ATTCK-PenTester-Book
-- [hiplot](https://github.com/facebookresearch/hiplot) : TypeScript
-  - HiPlot makes understanding high dimensional data easy
-- [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) : 
-  - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
-- [specials](https://github.com/RPiList/specials) : 
-- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) : JavaScript
-  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) : Python
-  - Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
-- [remote-jobs](https://github.com/remoteintech/remote-jobs) : JavaScript
-  - A list of semi to fully remote-friendly companies in tech.
-- [Chaos](https://github.com/jonnyhyman/Chaos) : Python
-  - Visualizations of the connections between chaos theory and fractals through the logistic map; made for Veritasium YouTube video
-- [spiderfoot](https://github.com/smicallef/spiderfoot) : Python
-  - SpiderFoot, the most complete OSINT collection and reconnaissance tool.
-- [mall](https://github.com/macrozheng/mall) : Java
-  - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
-- [new-pac](https://github.com/Alvin9999/new-pac) : 
-  - 科学/自由上网，免费ss/ssr/v2ray/goflyway账号，搭建教程
-- [v2rayN](https://github.com/2dust/v2rayN) : C#
-- [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) : Python
-  - A command line tool to download Android applications directly from the Google Play Store
-- [leetcode](https://github.com/azl397985856/leetcode) : JavaScript
-  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
-- [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) : C#
-  - If you want to keep a secret, you must also hide it from yourself.
-- [lantern](https://github.com/getlantern/lantern) : Go
-  - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 lantern proxy vpn censorship-circumvention censorship gfw accelerator
-- [python-small-examples](https://github.com/jackzhenguo/python-small-examples) : Python
-  - Python有趣的小例子一网打尽。Python基础、Python坑点、Python字符串和正则、Python绘图、Python日期和文件、Web开发、数据科学、机器学习、深度学习、TensorFlow、Pytorch，一切都是简单易懂的小例子。
-- [lede](https://github.com/coolsnowwolf/lede) : C
-  - Lean's OpenWrt source
-- [sovereign](https://github.com/sovereign/sovereign) : Python
-  - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
-- [stylegan2](https://github.com/NVlabs/stylegan2) : Python
-  - StyleGAN2 - Official TensorFlow Implementation
-- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) : Jupyter Notebook
-  - Python - 100天从新手到大师
-- [kotlin](https://github.com/JetBrains/kotlin) : Kotlin
-  - The Kotlin Programming Language
+- [algodeck](https://github.com/teivah/algodeck) : 
+  - Algo Deck is an Open-Source Collection of +200 Algorithmic Cards to Help you Preparing your Algorithm & Data Structure Interview
+- [wuhan2020-timeline](https://github.com/Pratitya/wuhan2020-timeline) : 
+  - 记录自2019年12月起武汉新冠肺炎疫情进展的时间线，尽可能搜集经敝人筛查后的信息，因为假若敏感内容，墙内容易炸号，故置于此。
+- [DXY-2019-nCoV-Data](https://github.com/BlankerL/DXY-2019-nCoV-Data) : Python
+  - 2019新型冠状病毒疫情时间序列数据仓库
 - [Algorithms](https://github.com/williamfiset/Algorithms) : Java
   - A collection of algorithms and data structures
+- [remote-jobs](https://github.com/remoteintech/remote-jobs) : JavaScript
+  - A list of semi to fully remote-friendly companies in tech.
+- [stylegan2](https://github.com/NVlabs/stylegan2) : Python
+  - StyleGAN2 - Official TensorFlow Implementation
+- [esercizi-di-programmazione-javascript](https://github.com/AlbertoOlla/esercizi-di-programmazione-javascript) : JavaScript
+  - Esercizi di informatica! Impara a programmare, metti alla prova!
+- [jd-assistant](https://github.com/tychxn/jd-assistant) : Python
+  - 京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能
+- [Ai-learn](https://github.com/tangyudi/Ai-learn) : 
+  - 人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理等热门领域
+- [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) : 
+  - A list of resources for those interested in getting started in bug bounties
+- [Ncov2020HistoryData](https://github.com/norratek/Ncov2020HistoryData) : 
+- [V2Ray_ws-tls_bash_onekey](https://github.com/wulabing/V2Ray_ws-tls_bash_onekey) : Shell
+  - V2Ray Nginx+vmess+ws+tls/ http2 over tls 一键安装脚本
+- [python-small-examples](https://github.com/jackzhenguo/python-small-examples) : Python
+  - Python有趣的小例子一网打尽。Python基础、Python坑点、Python字符串和正则、Python绘图、Python日期和文件、Web开发、数据科学、机器学习、深度学习、TensorFlow、Pytorch，一切都是简单易懂的小例子。
+- [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) : 
+  - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+- [Chaos](https://github.com/jonnyhyman/Chaos) : Python
+  - Visualizations of the connections between chaos theory and fractals through the logistic map; made for Veritasium YouTube video
+- [tinygo](https://github.com/tinygo-org/tinygo) : Go
+  - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
+- [reliable](https://github.com/x-ream/reliable) : Java
+  - mq transaction, tcc, eventually consistency. tx life cycle: all listeners handled, if necessary, produce next message
+- [OpenSK](https://github.com/google/OpenSK) : Rust
+  - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
+  - Roadmap to becoming a web developer in 2020
+- [mall](https://github.com/macrozheng/mall) : Java
+  - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+- [v2rayNG](https://github.com/2dust/v2rayNG) : Kotlin
+- [lede](https://github.com/coolsnowwolf/lede) : C
+  - Lean's OpenWrt source
+- [2019-ncov](https://github.com/shfshanyue/2019-ncov) : JavaScript
+  - 全国新型冠状病毒，肺炎疫情实时省市地图
+- [new-pac](https://github.com/Alvin9999/new-pac) : 
+  - 科学/自由上网，免费ss/ssr/v2ray/goflyway账号，搭建教程
+- [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) : Swift
+  - Next Generation of ShadowsocksX
 ## go
-- [lantern](https://github.com/getlantern/lantern)
-  - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 lantern proxy vpn censorship-circumvention censorship gfw accelerator
+- [tinygo](https://github.com/tinygo-org/tinygo)
+  - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
 - [cli](https://github.com/cli/cli)
   - the GitHub CLI
-- [naabu](https://github.com/projectdiscovery/naabu)
-  - A fast port scanner written in go with focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
+- [delve](https://github.com/go-delve/delve)
+  - Delve is a debugger for the Go programming language.
 - [v2ray-core](https://github.com/v2ray/v2ray-core)
   - A platform for building proxies to bypass network restrictions.
-- [micro](https://github.com/micro/micro)
-  - A microservice runtime environment
-- [certificates](https://github.com/smallstep/certificates)
-  - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
-- [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN)
-  - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-- [sampler](https://github.com/sqshq/sampler)
-  - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
-- [k3s](https://github.com/rancher/k3s)
-  - Lightweight Kubernetes. 5 less than k8s.
-- [geph2](https://github.com/geph-official/geph2)
-  - Geph (迷霧通) is a modular Internet censorship circumvention system designed specifically to deal with national filtering.
-- [nomad](https://github.com/hashicorp/nomad)
-  - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [mkcert](https://github.com/FiloSottile/mkcert)
-  - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-- [lazygit](https://github.com/jesseduffield/lazygit)
-  - simple terminal UI for git commands
-- [go-micro](https://github.com/micro/go-micro)
-  - A Go microservices development framework
-- [lego](https://github.com/go-acme/lego)
-  - Let's Encrypt client and ACME library written in Go
-- [learn-go-with-tests](https://github.com/quii/learn-go-with-tests)
-  - Learn Go with test-driven development
+- [inlets](https://github.com/inlets/inlets)
+  - Reverse proxy and service tunnel written in Go
+- [go](https://github.com/golang/go)
+  - The Go programming language
+- [frp](https://github.com/fatedier/frp)
+  - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+- [libnetwork](https://github.com/docker/libnetwork)
+  - networking for containers
+- [watchtower](https://github.com/containrrr/watchtower)
+  - A process for automating Docker container base image updates.
+- [consul](https://github.com/hashicorp/consul)
+  - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+- [vault](https://github.com/hashicorp/vault)
+  - A tool for secrets management, encryption as a service, and privileged access management
+- [kubesphere](https://github.com/kubesphere/kubesphere)
+  - Easy-to-use Production Ready Container Platform
+- [lantern](https://github.com/getlantern/lantern)
+  - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 lantern proxy vpn censorship-circumvention censorship gfw accelerator
+- [statping](https://github.com/hunterlong/statping)
+  - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
+- [ko](https://github.com/google/ko)
+  - Build and deploy Go applications on Kubernetes
 - [gopl.io](https://github.com/adonovan/gopl.io)
   - Example programs from "The Go Programming Language"
-- [v2ray-poseidon](https://github.com/ColetteContreras/v2ray-poseidon)
-  - A buildin V2ray plugin for SSRPanel, V2board and SSPanel-v3-Uim to sync users from database to v2ray, to log traffics/system info
-- [chaos-mesh](https://github.com/pingcap/chaos-mesh)
-  - A Chaos Engineering Platform for Kubernetes
-- [nps](https://github.com/ehang-io/nps)
-  - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
-- [fabio](https://github.com/fabiolb/fabio)
-  - Consul Load-Balancing made simple
-- [tanka](https://github.com/grafana/tanka)
-  - Flexible, reusable and concise configuration for Kubernetes
-- [kratos](https://github.com/bilibili/kratos)
-  - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
-- [grpc-go](https://github.com/grpc/grpc-go)
-  - The Go language implementation of gRPC. HTTP/2 based RPC
-- [plot](https://github.com/gonum/plot)
-  - A repository for plotting and visualizing data
+- [prometheus](https://github.com/prometheus/prometheus)
+  - The Prometheus monitoring system and time series database.
+- [naabu](https://github.com/projectdiscovery/naabu)
+  - A fast port scanner written in go with focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
+- [echo](https://github.com/labstack/echo)
+  - High performance, minimalist Go web framework
+- [dgraph](https://github.com/dgraph-io/dgraph)
+  - Fast, Distributed Graph DB
+- [go-micro](https://github.com/micro/go-micro)
+  - A Go microservices development framework
+- [learngo](https://github.com/inancgumus/learngo)
+  - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
+- [chromedp](https://github.com/chromedp/chromedp)
+  - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
+- [lorca](https://github.com/zserge/lorca)
+  - Build cross-platform modern desktop apps in Go + HTML5
+- [Go](https://github.com/TheAlgorithms/Go)
+  - Algorithms Implemented in GoLang
 ## javascript
-- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
-  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 - [remote-jobs](https://github.com/remoteintech/remote-jobs)
   - A list of semi to fully remote-friendly companies in tech.
-- [leetcode](https://github.com/azl397985856/leetcode)
-  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+- [esercizi-di-programmazione-javascript](https://github.com/AlbertoOlla/esercizi-di-programmazione-javascript)
+  - Esercizi di informatica! Impara a programmare, metti alla prova!
+- [2019-ncov](https://github.com/shfshanyue/2019-ncov)
+  - 全国新型冠状病毒，肺炎疫情实时省市地图
 - [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript)
   - A 30 days of JavaScript programming challenge
-- [express](https://github.com/expressjs/express)
-  - Fast, unopinionated, minimalist web framework for node.
-- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
-  - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
-- [fingerprintjs2](https://github.com/Valve/fingerprintjs2)
-  - Modern & flexible browser fingerprinting library
-- [2019-ncov](https://github.com/shfshanyue/2019-ncov)
-  - 武汉新型冠状病毒，肺炎疫情实时省市地图
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
-  - ✅ The largest Node.js best practices list (January 2020)
-- [layui](https://github.com/sentsin/layui)
-  - 采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写形式，极低门槛，拿来即用。
-- [showdoc](https://github.com/star7th/showdoc)
-  - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
-- [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
-  -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor)
-  - nightscout web monitor
-- [redux-code](https://github.com/StephenGrider/redux-code)
-  - Companion Repo for a course on Udemy
-- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
-  - 一个基于 electron 的音乐软件
-- [quasar](https://github.com/quasarframework/quasar)
-  - Quasar Framework - Build high-performance VueJS user interfaces in record time
-- [alpine](https://github.com/alpinejs/alpine)
-  - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [md](https://github.com/doocs/md)
-  - ✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
-- [Gekko-Strategies](https://github.com/xFFFFF/Gekko-Strategies)
-  - Strategies to Gekko trading bot with backtests results and some useful tools.
-- [awesome-ctf](https://github.com/apsdehal/awesome-ctf)
-  - A curated list of CTF frameworks, libraries, resources and softwares
-- [taiko-web](https://github.com/bui/taiko-web)
-  - Taiko no Tatsujin simulator
-- [feather](https://github.com/feathericons/feather)
-  - Simply beautiful open source icons
-- [kuboard-press](https://github.com/eip-work/kuboard-press)
-  - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.17 安装手册，(k8s install) 在线答疑，持续更新。
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
+  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+- [leetcode](https://github.com/azl397985856/leetcode)
+  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+- [opencti](https://github.com/OpenCTI-Platform/opencti)
+  - Open Cyber Threat Intelligence Platform
+- [AlgoCasts-JS](https://github.com/yogain123/AlgoCasts-JS)
+  - DSA in JavaScript ✅
+- [MagicMirror](https://github.com/MichMich/MagicMirror)
+  - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+  - The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people.
+- [jumpserver](https://github.com/jumpserver/jumpserver)
+  - Jumpserver是全球首款完全开源的堡垒机，是符合 4A 的专业运维审计系统。
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
+  - Starter files, final projects and FAQ for my Complete JavaScript course
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
   - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [editor.md](https://github.com/pandao/editor.md)
-  - The open source embeddable online markdown editor (component).
+- [vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri)
+  - vue2 + vue-router + vuex 入门项目
+- [appium](https://github.com/appium/appium)
+  - 📱 Automation for iOS, Android, and Windows Apps.
+- [academicpages.github.io](https://github.com/academicpages/academicpages.github.io)
+  - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
+- [quasar](https://github.com/quasarframework/quasar)
+  - Quasar Framework - Build high-performance VueJS user interfaces in record time
+- [size-limit](https://github.com/ai/size-limit)
+  - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
+- [WeApp_Demos](https://github.com/Data-Camp/WeApp_Demos)
+  - 持续更新中的微信小程序和小游戏的源码案例库。目前涵盖了120多个微信小程序或小游戏。
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+  - ✅ The largest Node.js best practices list (January 2020)
+- [BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)
+  - A series of plugins and themes for BetterDiscord.
+- [uBlock](https://github.com/gorhill/uBlock)
+  - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
 ## ruby
-- [gitlabhq](https://github.com/gitlabhq/gitlabhq)
-  - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
-- [setup](https://github.com/lewagon/setup)
-  - Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp
-- [rails](https://github.com/rails/rails)
-  - Ruby on Rails
-- [byebug](https://github.com/deivid-rodriguez/byebug)
-  - Debugging in Ruby 2
-- [brew](https://github.com/Homebrew/brew)
-  - 🍺 The missing package manager for macOS (or Linux)
-- [dev.to](https://github.com/thepracticaldev/dev.to)
-  - Where programmers share ideas and help each other grow
-- [discourse](https://github.com/discourse/discourse)
-  - A platform for community discussion. Free, open, simple.
-- [twurl](https://github.com/twitter/twurl)
-  - OAuth-enabled curl for the Twitter API
-- [takeaway-challenge](https://github.com/makersacademy/takeaway-challenge)
-  - Use the Twilio Gem to order food
+- [OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)
+  - OSCP Exam Report Template in Markdown
+- [cmsc330spring20](https://github.com/anwarmamat/cmsc330spring20)
+  - 
+- [remote-working](https://github.com/greatghoul/remote-working)
+  - 收集整理远程工作相关的资料
+- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+  - A curated list of awesome awesomeness
+- [fpm](https://github.com/jordansissel/fpm)
+  - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
+- [puppet](https://github.com/puppetlabs/puppet)
+  - Server automation framework and application
+- [sharetribe](https://github.com/sharetribe/sharetribe)
+  - Sharetribe Go is a source available marketplace software, also available with SaaS model. See also Sharetribe Flex (https://www.sharetribe.com/flex), a headless marketplace solution.
+- [huginn](https://github.com/huginn/huginn)
+  - Create agents that monitor and act on your behalf. Your agents are standing by!
+- [wpscan](https://github.com/wpscanteam/wpscan)
+  - WPScan is a free, for non-commercial use, black box WordPress Vulnerability Scanner written for security professionals and blog maintainers to test the security of their WordPress websites.
+- [CurveBall](https://github.com/ollypwn/CurveBall)
+  - PoC for CVE-2020-0601- Windows CryptoAPI (Crypt32.dll)
+- [choosealicense.com](https://github.com/github/choosealicense.com)
+  - A site to provide non-judgmental guidance on choosing a license for your open source project
+- [looping-while-until-nyc-fasttrack-020120](https://github.com/learn-co-students/looping-while-until-nyc-fasttrack-020120)
+  - 
+- [ttt-8-turn-nyc-fasttrack-020120](https://github.com/learn-co-students/ttt-8-turn-nyc-fasttrack-020120)
+  - 
+- [ttt-7-valid-move-nyc-fasttrack-020120](https://github.com/learn-co-students/ttt-7-valid-move-nyc-fasttrack-020120)
+  - 
+- [ttt-6-position-taken-rb-nyc-fasttrack-020120](https://github.com/learn-co-students/ttt-6-position-taken-rb-nyc-fasttrack-020120)
+  - 
+- [ttt-5-move-rb-nyc-fasttrack-020120](https://github.com/learn-co-students/ttt-5-move-rb-nyc-fasttrack-020120)
+  - 
+- [rails-generators-readme-online-web-pt-090919](https://github.com/learn-co-students/rails-generators-readme-online-web-pt-090919)
+  - 
+- [rails-url-helpers-lab-dumbo-web-010620](https://github.com/learn-co-students/rails-url-helpers-lab-dumbo-web-010620)
+  - 
+- [classes-and-instances-lab-ruby-onl01-seng-pt-012120](https://github.com/learn-co-students/classes-and-instances-lab-ruby-onl01-seng-pt-012120)
+  - 
+- [other-hash-methods-code-along-onl01-seng-pt-012120](https://github.com/learn-co-students/other-hash-methods-code-along-onl01-seng-pt-012120)
+  - 
+- [ruby-gets-input-nyc-fasttrack-020120](https://github.com/learn-co-students/ruby-gets-input-nyc-fasttrack-020120)
+  - 
 - [omnicalc-api](https://github.com/appdev-projects/omnicalc-api)
   - 
-- [programming-univbasics-4-intro-to-hashes-lab-nyc-web-021720](https://github.com/learn-co-students/programming-univbasics-4-intro-to-hashes-lab-nyc-web-021720)
+- [rails-url-helpers-readme-dumbo-web-010620](https://github.com/learn-co-students/rails-url-helpers-readme-dumbo-web-010620)
   - 
-- [ruby-oo-advanced-class-methods-lab-nyc-web-012720](https://github.com/learn-co-students/ruby-oo-advanced-class-methods-lab-nyc-web-012720)
+- [ruby-oo-object-relationships-belongs-to-lab-nyc-web-012720](https://github.com/learn-co-students/ruby-oo-object-relationships-belongs-to-lab-nyc-web-012720)
   - 
-- [rails-static-request-readme-chi01-seng-ft-010620](https://github.com/learn-co-students/rails-static-request-readme-chi01-seng-ft-010620)
-  - 
-- [building-nested-hashes-onl01-seng-pt-012120](https://github.com/learn-co-students/building-nested-hashes-onl01-seng-pt-012120)
-  - 
-- [simple-nesting-onl01-seng-pt-012120](https://github.com/learn-co-students/simple-nesting-onl01-seng-pt-012120)
-  - 
-- [ruby-intro-to-hashes-lab-onl01-seng-pt-012120](https://github.com/learn-co-students/ruby-intro-to-hashes-lab-onl01-seng-pt-012120)
-  - 
-- [my_all-onl01-seng-pt-012120](https://github.com/learn-co-students/my_all-onl01-seng-pt-012120)
-  - 
-- [cartoon-collections-onl01-seng-pt-012120](https://github.com/learn-co-students/cartoon-collections-onl01-seng-pt-012120)
-  - 
-- [sinatra-password-security-onl01-seng-pt-100619](https://github.com/learn-co-students/sinatra-password-security-onl01-seng-pt-100619)
-  - 
-- [prime-ruby-onl01-seng-pt-012120](https://github.com/learn-co-students/prime-ruby-onl01-seng-pt-012120)
-  - 
-- [oo-relationships-practice](https://github.com/learn-co-curriculum/oo-relationships-practice)
-  - 
-- [sinatra-secure-password-lab-onl01-seng-pt-100619](https://github.com/learn-co-students/sinatra-secure-password-lab-onl01-seng-pt-100619)
-  - 
-- [my_find_code_along-onl01-seng-pt-012120](https://github.com/learn-co-students/my_find_code_along-onl01-seng-pt-012120)
-  - 
-- [feedbin](https://github.com/feedbin/feedbin)
-  - RSS Reader
-- [hash-iteration-onl01-seng-pt-012120](https://github.com/learn-co-students/hash-iteration-onl01-seng-pt-012120)
+- [apples-and-holidays-onl01-seng-pt-012120](https://github.com/learn-co-students/apples-and-holidays-onl01-seng-pt-012120)
   - 
 ## rust
 - [OpenSK](https://github.com/google/OpenSK)
   - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
 - [alacritty](https://github.com/alacritty/alacritty)
   - A cross-platform, GPU-accelerated terminal emulator
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [servo](https://github.com/servo/servo)
-  - The Servo Browser Engine
-- [WASI](https://github.com/WebAssembly/WASI)
-  - WebAssembly System Interface
+- [vector](https://github.com/timberio/vector)
+  - Collect, transform, & route all observability data with one simple tool.
 - [argh](https://github.com/google/argh)
   - Rust derive-based argument parsing optimized for code size
-- [oreboot](https://github.com/oreboot/oreboot)
-  - oreboot is a fork of coreboot, with C removed, written in Rust.
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [nestur](https://github.com/spieglt/nestur)
-  - The NES you left outside in the rain but let dry and still kind of works
+- [996.ICU](https://github.com/996icu/996.ICU)
+  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [clap](https://github.com/clap-rs/clap)
   - A full featured, fast Command Line Argument Parser for Rust
-- [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
-  - The Mullvad VPN client app for desktop and mobile
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix web is a small, pragmatic, and extremely fast rust web framework.
-- [rustlings](https://github.com/rust-lang/rustlings)
-  - Small exercises to get you used to reading and writing Rust code!
-- [learning-pathways](https://github.com/holochain-devcamp/learning-pathways)
-  - LeaP - a holochain collaborative and learning system
-- [warp](https://github.com/seanmonstar/warp)
-  - A super-easy, composable, web server framework for warp speeds.
-- [amethyst](https://github.com/amethyst/amethyst)
-  - Data-oriented and data-driven game engine written in Rust
-- [Rocket](https://github.com/SergioBenitez/Rocket)
-  - A web framework for Rust.
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - ripgrep recursively searches directories for a regex pattern
+- [mdBook](https://github.com/rust-lang/mdBook)
+  - Create book from markdown files. Like Gitbook but implemented in Rust
 - [iced](https://github.com/hecrj/iced)
   - A cross-platform GUI library for Rust, inspired by Elm
-- [rust-cpython](https://github.com/dgrunwald/rust-cpython)
-  - Rust <-> Python bindings
-- [bastion](https://github.com/bastion-rs/bastion)
-  - Highly-available Distributed Fault-tolerant Runtime
-- [dust](https://github.com/bootandy/dust)
-  - A more intuitive version of du in rust
+- [tarkov](https://github.com/dank/tarkov)
+  - A Rust library for the Escape from Tarkov API
+- [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust)
+  - A Rust port of shadowsocks
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
+  - The Mullvad VPN client app for desktop and mobile
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
+- [wasmtime](https://github.com/bytecodealliance/wasmtime)
+  - Standalone JIT-style runtime for WebAssembly, using Cranelift
+- [discovery](https://github.com/rust-embedded/discovery)
+  - Discover the world of microcontrollers through Rust!
 - [forest](https://github.com/ChainSafe/forest)
   - 🌲 Rust Filecoin Node Implementation
-- [hyper](https://github.com/hyperium/hyper)
-  - An HTTP library for Rust
-- [anyhow](https://github.com/dtolnay/anyhow)
-  - Flexible concrete Error type built on std::error::Error
-- [json](https://github.com/serde-rs/json)
-  - Strongly typed JSON library for Rust
+- [findomain](https://github.com/Edu4rdSHL/findomain)
+  - The fastest and cross-platform subdomain enumerator, don't waste your time.
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
+- [dust](https://github.com/bootandy/dust)
+  - A more intuitive version of du in rust
+- [procs](https://github.com/dalance/procs)
+  - A modern replacement for ps written in Rust
+- [servo](https://github.com/servo/servo)
+  - The Servo Browser Engine
+- [rust-cpython](https://github.com/dgrunwald/rust-cpython)
+  - Rust <-> Python bindings
+- [fd](https://github.com/sharkdp/fd)
+  - A simple, fast and user-friendly alternative to 'find'
+- [broot](https://github.com/Canop/broot)
+  - A new way to see and navigate directory trees : https://dystroy.org/broot
 ## c++
-- [trojan](https://github.com/trojan-gfw/trojan)
-  - An unidentifiable mechanism that helps you bypass GFW.
-- [TrinityCore](https://github.com/TrinityCore/TrinityCore)
-  - TrinityCore Open Source MMO Framework (master = 8.2.5.32978, 3.3.5 = 3.3.5a.12340)
-- [protobuf](https://github.com/protocolbuffers/protobuf)
-  - Protocol Buffers - Google's data interchange format
-- [apollo](https://github.com/ApolloAuto/apollo)
-  - An open autonomous driving platform
-- [xgboost](https://github.com/dmlc/xgboost)
-  - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
-- [LightGBM](https://github.com/microsoft/LightGBM)
-  - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
-- [BIGTREETECH-SKR-V1.3](https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3)
-  - 32bit board with LPC1768, support marlin2.0 and smoothieware, support lcd2004/12864, On-board TMC2130 SPI interface and TMC2208 UART interface no additional wiring is required
-- [tiled](https://github.com/bjorn/tiled)
-  - A flexible level editor
-- [aria2](https://github.com/aria2/aria2)
-  - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-- [vnpy](https://github.com/vnpy/vnpy)
-  - 基于Python的开源量化交易平台开发框架
-- [GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
-  - Starting code for the GildedRose Refactoring Kata in many programming languages.
 - [godot](https://github.com/godotengine/godot)
   - Godot Engine – Multi-platform 2D and 3D game engine
-- [PhysX](https://github.com/NVIDIAGameWorks/PhysX)
-  - NVIDIA PhysX SDK
-- [scummvm](https://github.com/scummvm/scummvm)
-  - ScummVM main repository
-- [mysql-server](https://github.com/mysql/mysql-server)
-  - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
-- [electron](https://github.com/electron/electron)
-  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [zeek](https://github.com/zeek/zeek)
-  - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
-- [WLED](https://github.com/Aircoookie/WLED)
-  - Control WS2812B RGB LEDs with an ESP8266 over WiFi!
+- [trojan](https://github.com/trojan-gfw/trojan)
+  - An unidentifiable mechanism that helps you bypass GFW.
+- [ShaderDebugger](https://github.com/dfranx/ShaderDebugger)
+  - C++ library for debugging HLSL & GLSL shaders
+- [watchman](https://github.com/facebook/watchman)
+  - Watches files and records, or triggers actions, when they change.
+- [BIGTREETECH-SKR-mini-E3](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3)
+  - BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.
+- [aria2](https://github.com/aria2/aria2)
+  - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+- [subconverter](https://github.com/tindy2013/subconverter)
+  - Utility to convert between various subscription format
+- [Tasmota](https://github.com/arendst/Tasmota)
+  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
+- [Marlin](https://github.com/MarlinFirmware/Marlin)
+  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
+- [xgboost](https://github.com/dmlc/xgboost)
+  - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
+- [tools](https://github.com/raspberrypi/tools)
+  - 
+- [AirSim](https://github.com/microsoft/AirSim)
+  - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
+- [BIGTREETECH-SKR-V1.3](https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3)
+  - 32bit board with LPC1768, support marlin2.0 and smoothieware, support lcd2004/12864, On-board TMC2130 SPI interface and TMC2208 UART interface no additional wiring is required
+- [tesseract](https://github.com/tesseract-ocr/tesseract)
+  - Tesseract Open Source OCR Engine (main repository)
+- [ModSecurity](https://github.com/SpiderLabs/ModSecurity)
+  - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
+- [ClickHouse](https://github.com/ClickHouse/ClickHouse)
+  - ClickHouse is a free analytics DBMS for big data
+- [swoole-src](https://github.com/swoole/swoole-src)
+  - 🚀 Coroutine-based concurrency library for PHP
+- [interview](https://github.com/huihut/interview)
+  - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。
 - [videos](https://github.com/OneLoneCoder/videos)
   - The official distribution of olcConsoleGameEngine, a tool used in javidx9's YouTube videos and projects
-- [td](https://github.com/tdlib/td)
-  - Cross-platform library for building Telegram clients
-- [cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet)
-  - C++ Syntax, Data Structures, and Algorithms Cheat Sheet
-- [jetson-inference](https://github.com/dusty-nv/jetson-inference)
-  - Guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
-- [qBittorrent](https://github.com/qbittorrent/qBittorrent)
-  - qBittorrent BitTorrent client
-- [AliceVision](https://github.com/alicevision/AliceVision)
-  - Photogrammetric Computer Vision Framework
 - [sudoku](https://github.com/mayerui/sudoku)
   - C++实现的跨平台数独游戏，命令行操作易上手，可以在开发间隙用来放松身心。数百行代码，初学者也可以轻松掌握。
+- [panda3d](https://github.com/panda3d/panda3d)
+  - Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU
+- [Blackbone](https://github.com/DarthTon/Blackbone)
+  - Windows memory hacking library
+- [Qv2ray](https://github.com/Qv2ray/Qv2ray)
+  - 🌟 Linux/Windows/macOS 跨平台 v2ray GUI 🔨 使用 c++ 编写，支持订阅，扫描二维码，支持自定义路由编辑 🌟
+- [ardupilot](https://github.com/ArduPilot/ardupilot)
+  - ArduPlane, ArduCopter, ArduRover source
+- [iSpindel](https://github.com/universam1/iSpindel)
+  - electronic Hydrometer
 ## typescript
-- [hiplot](https://github.com/facebookresearch/hiplot)
-  - HiPlot makes understanding high dimensional data easy
+- [terminus](https://github.com/Eugeny/terminus)
+  - A terminal for a more modern age
+- [angular-realworld-example-app](https://github.com/gothinkster/angular-realworld-example-app)
+  - Exemplary real world application built with Angular
+- [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
+  - Tasks for Azure Pipelines
+- [etcher](https://github.com/balena-io/etcher)
+  - Flash OS images to SD cards & USB drives, safely and easily.
+- [angular-cli](https://github.com/angular/angular-cli)
+  - CLI tool for Angular
+- [polaris-react](https://github.com/Shopify/polaris-react)
+  - Shopify’s product component library
+- [adonis-framework](https://github.com/adonisjs/adonis-framework)
+  - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
+  - 📋 React hooks for forms validation without the hassle.
+- [simplenote-electron](https://github.com/Automattic/simplenote-electron)
+  - A Simplenote React app packaged via Electron for Windows and Linux
 - [instagram-private-api](https://github.com/dilame/instagram-private-api)
   - NodeJS Instagram private API client. Written in TypeScript.
-- [ENNUI](https://github.com/martinjm97/ENNUI)
-  - An Elegant Neural Network User Interface to build drag-and-drop neural networks, train in the browser, visualize during training, and export to Python.
-- [ant-design-pro](https://github.com/ant-design/ant-design-pro)
-  - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
-- [PoE-Overlay](https://github.com/Kyusung4698/PoE-Overlay)
-  - An Overlay for Path of Exile. Built with Electron and Angular.
-- [vue-storefront](https://github.com/DivanteLtd/vue-storefront)
-  - Vue Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported. Always Open Source, MIT license. Join us as contributor (contributors@vuestorefront.io).
-- [theia](https://github.com/eclipse-theia/theia)
-  - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [SideQuest](https://github.com/the-expanse/SideQuest)
-  - A open app store for mobile android based VR devices such as the Oculus Go, Oculus Quest or other android based devices.
-- [GGEditor](https://github.com/alibaba/GGEditor)
-  - A visual graph editor based on G6 and React
-- [TypeScript](https://github.com/microsoft/TypeScript)
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [editor.js](https://github.com/codex-team/editor.js)
-  - A block-styled editor with clean JSON output
-- [graphql-yoga](https://github.com/prisma-labs/graphql-yoga)
-  - 🧘 Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience
+- [redux](https://github.com/reduxjs/redux)
+  - Predictable state container for JavaScript apps
+- [PPet](https://github.com/zenghongtu/PPet)
+  - 👻在你的桌面放一个萌妹子，多一点趣味😏~（支持Mac、Win和Linux）
+- [nest](https://github.com/nestjs/nest)
+  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [sapper](https://github.com/sveltejs/sapper)
+  - The next small thing in web development, powered by Svelte
+- [wenyan](https://github.com/wenyan-lang/wenyan)
+  - 文言文編程語言 A programming language for the ancient Chinese.
+- [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
+  - Foreign language reading and translation assistant based on copy and translate.
 - [desktop](https://github.com/desktop/desktop)
   - Simple collaboration from your desktop
-- [NativeScript](https://github.com/NativeScript/NativeScript)
-  - NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
-- [hooks](https://github.com/umijs/hooks)
-  - React Hooks Library
-- [electron-builder](https://github.com/electron-userland/electron-builder)
-  - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware)
-  - ⚡️ The one-liner node.js http-proxy middleware for connect, express and browser-sync
-- [graphql-ts-server-boilerplate](https://github.com/benawad/graphql-ts-server-boilerplate)
-  - A GraphQL server boilerplate made with Typescript, PostgreSQL, and Redis
-- [desktop](https://github.com/bitwarden/desktop)
-  - The desktop vault (Windows, macOS, & Linux).
-- [swr](https://github.com/zeit/swr)
-  - React Hooks library for remote data fetching
+- [hiplot](https://github.com/facebookresearch/hiplot)
+  - HiPlot makes understanding high dimensional data easy
+- [gatsby-theme-novela](https://github.com/narative/gatsby-theme-novela)
+  - Welcome to Novela, the simplest way to start publishing with Gatsby.
+- [cache](https://github.com/actions/cache)
+  - Cache dependencies and build outputs in GitHub Actions
+- [apollo-client](https://github.com/apollographql/apollo-client)
+  - 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
+- [n8n](https://github.com/n8n-io/n8n)
+  - Free and open node based Workflow Automation Tool. Easily automate tasks across different services.
+- [typescript-book](https://github.com/basarat/typescript-book)
+  - 📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖. Free and Open Source 🌹
 - [webiny-js](https://github.com/webiny/webiny-js)
   - Serverless CMS (GraphQL + React)
-- [vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples)
-  - Sample code illustrating the VS Code extension API.
-- [redoc](https://github.com/Redocly/redoc)
-  - 📘 OpenAPI/Swagger-generated API Reference Documentation
-- [data-sync](https://github.com/wuhan2020/data-sync)
-  - 武汉新型冠状病毒防疫信息收集平台-数据同步服务
-- [recyclerlistview](https://github.com/Flipkart/recyclerlistview)
-  - High performance listview for React Native and web!
+- [material-components-web](https://github.com/material-components/material-components-web)
+  - Modular and customizable Material Design UI components for the web
