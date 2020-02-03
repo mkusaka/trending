@@ -1,49 +1,49 @@
 # general
-- [OpenSK](https://github.com/google/OpenSK) : Rust
-  - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
-- [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) : 
-  - A list of resources for those interested in getting started in bug bounties
-- [ATTCK-PenTester-Book](https://github.com/Dm2333/ATTCK-PenTester-Book) : 
-  - ATTCK-PenTester-Book
-- [hiplot](https://github.com/facebookresearch/hiplot) : TypeScript
-  - HiPlot makes understanding high dimensional data easy
-- [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) : 
-  - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
-- [specials](https://github.com/RPiList/specials) : 
-- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) : JavaScript
-  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) : Python
-  - Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
-- [remote-jobs](https://github.com/remoteintech/remote-jobs) : JavaScript
-  - A list of semi to fully remote-friendly companies in tech.
-- [Chaos](https://github.com/jonnyhyman/Chaos) : Python
-  - Visualizations of the connections between chaos theory and fractals through the logistic map; made for Veritasium YouTube video
-- [spiderfoot](https://github.com/smicallef/spiderfoot) : Python
-  - SpiderFoot, the most complete OSINT collection and reconnaissance tool.
-- [mall](https://github.com/macrozheng/mall) : Java
-  - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
-- [new-pac](https://github.com/Alvin9999/new-pac) : 
-  - 科学/自由上网，免费ss/ssr/v2ray/goflyway账号，搭建教程
-- [v2rayN](https://github.com/2dust/v2rayN) : C#
-- [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) : Python
-  - A command line tool to download Android applications directly from the Google Play Store
-- [leetcode](https://github.com/azl397985856/leetcode) : JavaScript
-  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
-- [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) : C#
-  - If you want to keep a secret, you must also hide it from yourself.
-- [lantern](https://github.com/getlantern/lantern) : Go
-  - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 lantern proxy vpn censorship-circumvention censorship gfw accelerator
-- [python-small-examples](https://github.com/jackzhenguo/python-small-examples) : Python
-  - Python有趣的小例子一网打尽。Python基础、Python坑点、Python字符串和正则、Python绘图、Python日期和文件、Web开发、数据科学、机器学习、深度学习、TensorFlow、Pytorch，一切都是简单易懂的小例子。
-- [lede](https://github.com/coolsnowwolf/lede) : C
-  - Lean's OpenWrt source
-- [sovereign](https://github.com/sovereign/sovereign) : Python
-  - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
-- [stylegan2](https://github.com/NVlabs/stylegan2) : Python
-  - StyleGAN2 - Official TensorFlow Implementation
-- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) : Jupyter Notebook
-  - Python - 100天从新手到大师
-- [kotlin](https://github.com/JetBrains/kotlin) : Kotlin
-  - The Kotlin Programming Language
+- [algodeck](https://github.com/teivah/algodeck) : 
+  - Algo Deck is an Open-Source Collection of +200 Algorithmic Cards to Help you Preparing your Algorithm & Data Structure Interview
+- [wuhan2020-timeline](https://github.com/Pratitya/wuhan2020-timeline) : 
+  - 记录自2019年12月起武汉新冠肺炎疫情进展的时间线，尽可能搜集经敝人筛查后的信息，因为假若敏感内容，墙内容易炸号，故置于此。
+- [DXY-2019-nCoV-Data](https://github.com/BlankerL/DXY-2019-nCoV-Data) : Python
+  - 2019新型冠状病毒疫情时间序列数据仓库
 - [Algorithms](https://github.com/williamfiset/Algorithms) : Java
   - A collection of algorithms and data structures
+- [remote-jobs](https://github.com/remoteintech/remote-jobs) : JavaScript
+  - A list of semi to fully remote-friendly companies in tech.
+- [stylegan2](https://github.com/NVlabs/stylegan2) : Python
+  - StyleGAN2 - Official TensorFlow Implementation
+- [esercizi-di-programmazione-javascript](https://github.com/AlbertoOlla/esercizi-di-programmazione-javascript) : JavaScript
+  - Esercizi di informatica! Impara a programmare, metti alla prova!
+- [jd-assistant](https://github.com/tychxn/jd-assistant) : Python
+  - 京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能
+- [Ai-learn](https://github.com/tangyudi/Ai-learn) : 
+  - 人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理等热门领域
+- [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) : 
+  - A list of resources for those interested in getting started in bug bounties
+- [Ncov2020HistoryData](https://github.com/norratek/Ncov2020HistoryData) : 
+- [V2Ray_ws-tls_bash_onekey](https://github.com/wulabing/V2Ray_ws-tls_bash_onekey) : Shell
+  - V2Ray Nginx+vmess+ws+tls/ http2 over tls 一键安装脚本
+- [python-small-examples](https://github.com/jackzhenguo/python-small-examples) : Python
+  - Python有趣的小例子一网打尽。Python基础、Python坑点、Python字符串和正则、Python绘图、Python日期和文件、Web开发、数据科学、机器学习、深度学习、TensorFlow、Pytorch，一切都是简单易懂的小例子。
+- [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) : 
+  - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+- [Chaos](https://github.com/jonnyhyman/Chaos) : Python
+  - Visualizations of the connections between chaos theory and fractals through the logistic map; made for Veritasium YouTube video
+- [tinygo](https://github.com/tinygo-org/tinygo) : Go
+  - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
+- [reliable](https://github.com/x-ream/reliable) : Java
+  - mq transaction, tcc, eventually consistency. tx life cycle: all listeners handled, if necessary, produce next message
+- [OpenSK](https://github.com/google/OpenSK) : Rust
+  - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
+  - Roadmap to becoming a web developer in 2020
+- [mall](https://github.com/macrozheng/mall) : Java
+  - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+- [v2rayNG](https://github.com/2dust/v2rayNG) : Kotlin
+- [lede](https://github.com/coolsnowwolf/lede) : C
+  - Lean's OpenWrt source
+- [2019-ncov](https://github.com/shfshanyue/2019-ncov) : JavaScript
+  - 全国新型冠状病毒，肺炎疫情实时省市地图
+- [new-pac](https://github.com/Alvin9999/new-pac) : 
+  - 科学/自由上网，免费ss/ssr/v2ray/goflyway账号，搭建教程
+- [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) : Swift
+  - Next Generation of ShadowsocksX

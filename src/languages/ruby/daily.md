@@ -1,51 +1,51 @@
 # ruby
-- [gitlabhq](https://github.com/gitlabhq/gitlabhq)
-  - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
-- [setup](https://github.com/lewagon/setup)
-  - Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp
-- [rails](https://github.com/rails/rails)
-  - Ruby on Rails
-- [byebug](https://github.com/deivid-rodriguez/byebug)
-  - Debugging in Ruby 2
-- [brew](https://github.com/Homebrew/brew)
-  - 🍺 The missing package manager for macOS (or Linux)
-- [dev.to](https://github.com/thepracticaldev/dev.to)
-  - Where programmers share ideas and help each other grow
-- [discourse](https://github.com/discourse/discourse)
-  - A platform for community discussion. Free, open, simple.
-- [twurl](https://github.com/twitter/twurl)
-  - OAuth-enabled curl for the Twitter API
-- [takeaway-challenge](https://github.com/makersacademy/takeaway-challenge)
-  - Use the Twilio Gem to order food
+- [OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)
+  - OSCP Exam Report Template in Markdown
+- [cmsc330spring20](https://github.com/anwarmamat/cmsc330spring20)
+  - 
+- [remote-working](https://github.com/greatghoul/remote-working)
+  - 收集整理远程工作相关的资料
+- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+  - A curated list of awesome awesomeness
+- [fpm](https://github.com/jordansissel/fpm)
+  - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
+- [puppet](https://github.com/puppetlabs/puppet)
+  - Server automation framework and application
+- [sharetribe](https://github.com/sharetribe/sharetribe)
+  - Sharetribe Go is a source available marketplace software, also available with SaaS model. See also Sharetribe Flex (https://www.sharetribe.com/flex), a headless marketplace solution.
+- [huginn](https://github.com/huginn/huginn)
+  - Create agents that monitor and act on your behalf. Your agents are standing by!
+- [wpscan](https://github.com/wpscanteam/wpscan)
+  - WPScan is a free, for non-commercial use, black box WordPress Vulnerability Scanner written for security professionals and blog maintainers to test the security of their WordPress websites.
+- [CurveBall](https://github.com/ollypwn/CurveBall)
+  - PoC for CVE-2020-0601- Windows CryptoAPI (Crypt32.dll)
+- [choosealicense.com](https://github.com/github/choosealicense.com)
+  - A site to provide non-judgmental guidance on choosing a license for your open source project
+- [looping-while-until-nyc-fasttrack-020120](https://github.com/learn-co-students/looping-while-until-nyc-fasttrack-020120)
+  - 
+- [ttt-8-turn-nyc-fasttrack-020120](https://github.com/learn-co-students/ttt-8-turn-nyc-fasttrack-020120)
+  - 
+- [ttt-7-valid-move-nyc-fasttrack-020120](https://github.com/learn-co-students/ttt-7-valid-move-nyc-fasttrack-020120)
+  - 
+- [ttt-6-position-taken-rb-nyc-fasttrack-020120](https://github.com/learn-co-students/ttt-6-position-taken-rb-nyc-fasttrack-020120)
+  - 
+- [ttt-5-move-rb-nyc-fasttrack-020120](https://github.com/learn-co-students/ttt-5-move-rb-nyc-fasttrack-020120)
+  - 
+- [rails-generators-readme-online-web-pt-090919](https://github.com/learn-co-students/rails-generators-readme-online-web-pt-090919)
+  - 
+- [rails-url-helpers-lab-dumbo-web-010620](https://github.com/learn-co-students/rails-url-helpers-lab-dumbo-web-010620)
+  - 
+- [classes-and-instances-lab-ruby-onl01-seng-pt-012120](https://github.com/learn-co-students/classes-and-instances-lab-ruby-onl01-seng-pt-012120)
+  - 
+- [other-hash-methods-code-along-onl01-seng-pt-012120](https://github.com/learn-co-students/other-hash-methods-code-along-onl01-seng-pt-012120)
+  - 
+- [ruby-gets-input-nyc-fasttrack-020120](https://github.com/learn-co-students/ruby-gets-input-nyc-fasttrack-020120)
+  - 
 - [omnicalc-api](https://github.com/appdev-projects/omnicalc-api)
   - 
-- [programming-univbasics-4-intro-to-hashes-lab-nyc-web-021720](https://github.com/learn-co-students/programming-univbasics-4-intro-to-hashes-lab-nyc-web-021720)
+- [rails-url-helpers-readme-dumbo-web-010620](https://github.com/learn-co-students/rails-url-helpers-readme-dumbo-web-010620)
   - 
-- [ruby-oo-advanced-class-methods-lab-nyc-web-012720](https://github.com/learn-co-students/ruby-oo-advanced-class-methods-lab-nyc-web-012720)
+- [ruby-oo-object-relationships-belongs-to-lab-nyc-web-012720](https://github.com/learn-co-students/ruby-oo-object-relationships-belongs-to-lab-nyc-web-012720)
   - 
-- [rails-static-request-readme-chi01-seng-ft-010620](https://github.com/learn-co-students/rails-static-request-readme-chi01-seng-ft-010620)
-  - 
-- [building-nested-hashes-onl01-seng-pt-012120](https://github.com/learn-co-students/building-nested-hashes-onl01-seng-pt-012120)
-  - 
-- [simple-nesting-onl01-seng-pt-012120](https://github.com/learn-co-students/simple-nesting-onl01-seng-pt-012120)
-  - 
-- [ruby-intro-to-hashes-lab-onl01-seng-pt-012120](https://github.com/learn-co-students/ruby-intro-to-hashes-lab-onl01-seng-pt-012120)
-  - 
-- [my_all-onl01-seng-pt-012120](https://github.com/learn-co-students/my_all-onl01-seng-pt-012120)
-  - 
-- [cartoon-collections-onl01-seng-pt-012120](https://github.com/learn-co-students/cartoon-collections-onl01-seng-pt-012120)
-  - 
-- [sinatra-password-security-onl01-seng-pt-100619](https://github.com/learn-co-students/sinatra-password-security-onl01-seng-pt-100619)
-  - 
-- [prime-ruby-onl01-seng-pt-012120](https://github.com/learn-co-students/prime-ruby-onl01-seng-pt-012120)
-  - 
-- [oo-relationships-practice](https://github.com/learn-co-curriculum/oo-relationships-practice)
-  - 
-- [sinatra-secure-password-lab-onl01-seng-pt-100619](https://github.com/learn-co-students/sinatra-secure-password-lab-onl01-seng-pt-100619)
-  - 
-- [my_find_code_along-onl01-seng-pt-012120](https://github.com/learn-co-students/my_find_code_along-onl01-seng-pt-012120)
-  - 
-- [feedbin](https://github.com/feedbin/feedbin)
-  - RSS Reader
-- [hash-iteration-onl01-seng-pt-012120](https://github.com/learn-co-students/hash-iteration-onl01-seng-pt-012120)
+- [apples-and-holidays-onl01-seng-pt-012120](https://github.com/learn-co-students/apples-and-holidays-onl01-seng-pt-012120)
   - 
