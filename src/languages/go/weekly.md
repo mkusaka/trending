@@ -1,51 +1,51 @@
 # go
-- [terraform](https://github.com/hashicorp/terraform)
-  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [istio](https://github.com/istio/istio)
-  - Connect, secure, control, and observe services.
-- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
-  - Terraform AWS provider
-- [origin](https://github.com/openshift/origin)
-  - The self-managing, auto-upgrading, Kubernetes distribution for everyone
-- [hub](https://github.com/github/hub)
-  - A command-line tool that makes git easier to use with GitHub.
+- [naabu](https://github.com/projectdiscovery/naabu)
+  - A fast port scanner written in go with focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
+- [libpod](https://github.com/containers/libpod)
+  - libpod is a library used to create container pods. Home of Podman.
 - [vault](https://github.com/hashicorp/vault)
   - A tool for secrets management, encryption as a service, and privileged access management
-- [argo](https://github.com/argoproj/argo)
-  - Argo Workflows: Get stuff done with Kubernetes.
-- [cli](https://github.com/docker/cli)
-  - The Docker CLI
-- [pipeline](https://github.com/tektoncd/pipeline)
-  - A K8s-native Pipeline resource.
-- [helm](https://github.com/helm/helm)
-  - The Kubernetes Package Manager
-- [charts](https://github.com/helm/charts)
-  - Curated applications for Kubernetes
-- [traefik](https://github.com/containous/traefik)
-  - The Cloud Native Edge Router
+- [hub](https://github.com/github/hub)
+  - A command-line tool that makes git easier to use with GitHub.
+- [go-github](https://github.com/google/go-github)
+  - Go library for accessing the GitHub API
+- [dive](https://github.com/wagoodman/dive)
+  - A tool for exploring each layer in a docker image
+- [perkeep](https://github.com/perkeep/perkeep)
+  - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
+- [moby](https://github.com/moby/moby)
+  - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [helm-operator](https://github.com/fluxcd/helm-operator)
+  - The Flux Helm Operator, for declarative Helming
+- [v2ray-core](https://github.com/v2ray/v2ray-core)
+  - A platform for building proxies to bypass network restrictions.
+- [fabric](https://github.com/hyperledger/fabric)
+  - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
+- [gophish](https://github.com/gophish/gophish)
+  - Open-Source Phishing Toolkit
+- [terraform](https://github.com/hashicorp/terraform)
+  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [trivy](https://github.com/aquasecurity/trivy)
+  - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
+- [whatsapp-media-decrypt](https://github.com/ddz/whatsapp-media-decrypt)
+  - Decrypt WhatsApp encrypted media files
+- [kube-scan](https://github.com/octarinesec/kube-scan)
+  - kube-scan: Octarine k8s cluster risk assessment tool
+- [groupcache](https://github.com/golang/groupcache)
+  - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 - [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm)
   - Terraform provider for Azure Resource Manager
-- [aws-alb-ingress-controller](https://github.com/kubernetes-sigs/aws-alb-ingress-controller)
-  - AWS ALB Ingress Controller for Kubernetes
-- [gqlgen](https://github.com/99designs/gqlgen)
-  - go generate based graphql server library
-- [terraform-provider-google](https://github.com/terraform-providers/terraform-provider-google)
-  - Terraform Google Cloud Platform provider
-- [community](https://github.com/kubernetes/community)
-  - Kubernetes community content
-- [neko](https://github.com/nurdism/neko)
-  - A self hosted virtual browser (rabb.it clone) that runs in docker.
-- [nomad](https://github.com/hashicorp/nomad)
-  - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [prototool](https://github.com/uber/prototool)
-  - Your Swiss Army Knife for Protocol Buffers
-- [cloud-on-k8s](https://github.com/elastic/cloud-on-k8s)
-  - Elastic Cloud on Kubernetes
-- [loki](https://github.com/grafana/loki)
-  - Like Prometheus, but for logs.
-- [go](https://github.com/golang/go)
-  - The Go programming language
-- [hey](https://github.com/rakyll/hey)
-  - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
-- [mock](https://github.com/golang/mock)
-  - GoMock is a mocking framework for the Go programming language.
+- [gravity](https://github.com/gravitational/gravity)
+  - Opinionated image-based Kubernetes packaging and management tools.
+- [charts](https://github.com/helm/charts)
+  - Curated applications for Kubernetes
+- [argo-cd](https://github.com/argoproj/argo-cd)
+  - Declarative continuous deployment for Kubernetes.
+- [traefik](https://github.com/containous/traefik)
+  - The Cloud Native Edge Router
+- [amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s)
+  - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
+- [nebula](https://github.com/slackhq/nebula)
+  - A scalable overlay networking tool with a focus on performance, simplicity and security
+- [matterbridge](https://github.com/42wim/matterbridge)
+  - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix and more with REST API (mattermost not required!)

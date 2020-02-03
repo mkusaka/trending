@@ -1,51 +1,51 @@
 # general
+- [wuhan2020](https://github.com/wuhan2020/wuhan2020) : 
+  - 新型冠状病毒防疫信息收集平台
+- [XSpotify](https://github.com/meik97/XSpotify) : C++
+  - A modified Spotify client with DRM bypass.
+- [DOTSSample](https://github.com/Unity-Technologies/DOTSSample) : C#
+  - A third person, multiplayer sample project. Built with Unity and using the new Data Oriented Tech Stack (DOTS).
 - [ApplicationInspector](https://github.com/microsoft/ApplicationInspector) : C#
   - A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'what's in it' using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.
-- [deno](https://github.com/denoland/deno) : TypeScript
-  - A secure JavaScript and TypeScript runtime
-- [verona](https://github.com/microsoft/verona) : C++
-  - Research programming language for concurrent ownership
-- [conference-app-2020](https://github.com/DroidKaigi/conference-app-2020) : Kotlin
-  - The Official Conference App for DroidKaigi 2020 Tokyo
-- [azure-powershell](https://github.com/Azure/azure-powershell) : C#
-  - Microsoft Azure PowerShell
-- [warp](https://github.com/seanmonstar/warp) : Rust
-  - A super-easy, composable, web server framework for warp speeds.
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) : JavaScript
-  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [google-research](https://github.com/google-research/google-research) : Jupyter Notebook
+  - Google AI Research
+- [pandas](https://github.com/pandas-dev/pandas) : Python
+  - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+- [godot](https://github.com/godotengine/godot) : C++
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [naabu](https://github.com/projectdiscovery/naabu) : Go
+  - A fast port scanner written in go with focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
+- [playwright](https://github.com/microsoft/playwright) : JavaScript
+  - Node library to automate Chromium, Firefox and WebKit with a single API
+- [userbase](https://github.com/encrypted-dev/userbase) : JavaScript
+  - Create secure and private web apps using only static JavaScript, HTML, and CSS.
 - [woocommerce](https://github.com/woocommerce/woocommerce) : PHP
   - An open source eCommerce plugin for WordPress.
-- [AZ-103-MicrosoftAzureAdministrator](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator) : 
-  - AZ-103: Microsoft Azure Administrator
-- [Micronetes](https://github.com/davidfowl/Micronetes) : C#
-  - Micronetes is a local orchestrator inspired by kubernetes that makes developing and testing microservices and distributed applications easier.
-- [simdjson](https://github.com/lemire/simdjson) : C++
-  - Parsing gigabytes of JSON per second
-- [grapesjs](https://github.com/artf/grapesjs) : JavaScript
-  - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
-- [ionic](https://github.com/ionic-team/ionic) : TypeScript
-  - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
-- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) : PowerShell
-  - Azure Quickstart Templates
-- [PySyft](https://github.com/OpenMined/PySyft) : Python
-  - A library for encrypted, privacy preserving machine learning
-- [DeepSpeech](https://github.com/mozilla/DeepSpeech) : C++
-  - A TensorFlow implementation of Baidu's DeepSpeech architecture
-- [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) : Kotlin
-  - JetBrains Mono – the free and open-source typeface for developers
-- [expo](https://github.com/expo/expo) : Objective-C
-  - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
-- [terraform](https://github.com/hashicorp/terraform) : Go
-  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [PowerToys](https://github.com/microsoft/PowerToys) : C++
-  - Windows system utilities to maximize productivity
-- [DeOldify](https://github.com/jantic/DeOldify) : Jupyter Notebook
-  - A Deep Learning based project for colorizing and restoring old images (and video!)
-- [material-ui](https://github.com/mui-org/material-ui) : JavaScript
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) : 
-  - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [dash](https://github.com/plotly/dash) : Python
-  - Analytical Web Apps for Python & R. No JavaScript Required.
-- [SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect) : 
-  - Path to a Software Architect
+- [fastapi](https://github.com/tiangolo/fastapi) : Python
+  - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) : 
+  - 📌 A guide for amateurs pen testers and a collection of hacking tools, resources and references to practice ethical hacking, pen testing and web security.
+- [spiderfoot](https://github.com/smicallef/spiderfoot) : Python
+  - SpiderFoot, the most complete OSINT collection and reconnaissance tool.
+- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) : 
+  - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+- [difftaichi](https://github.com/yuanming-hu/difftaichi) : 
+  - 10 differentiable physical simulators built with Taichi differentiable programming (DiffTaichi, ICLR 2020)
+- [spinningup](https://github.com/openai/spinningup) : Python
+  - An educational resource to help anyone learn deep reinforcement learning.
+- [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) : 
+  - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+- [remote-jobs](https://github.com/remoteintech/remote-jobs) : JavaScript
+  - A list of semi to fully remote-friendly companies in tech.
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) : Rust
+  - An experimental Rust compiler front-end for IDEs
+- [DAIN](https://github.com/baowenbo/DAIN) : Python
+  - Depth-Aware Video Frame Interpolation (CVPR 2019)
+- [python-cheatsheet](https://github.com/gto76/python-cheatsheet) : Python
+  - Comprehensive Python Cheatsheet
+- [thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) : C
+  - Various tips & tricks
+- [new-pac](https://github.com/Alvin9999/new-pac) : 
+  - 科学/自由上网，免费ss/ssr/v2ray/goflyway账号，搭建教程
+- [deno](https://github.com/denoland/deno) : TypeScript
+  - A secure JavaScript and TypeScript runtime
