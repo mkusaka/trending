@@ -1,51 +1,51 @@
 # typescript
-- [terminus](https://github.com/Eugeny/terminus)
-  - A terminal for a more modern age
-- [angular-realworld-example-app](https://github.com/gothinkster/angular-realworld-example-app)
-  - Exemplary real world application built with Angular
-- [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
-  - Tasks for Azure Pipelines
-- [etcher](https://github.com/balena-io/etcher)
-  - Flash OS images to SD cards & USB drives, safely and easily.
-- [angular-cli](https://github.com/angular/angular-cli)
-  - CLI tool for Angular
-- [polaris-react](https://github.com/Shopify/polaris-react)
-  - Shopify’s product component library
-- [adonis-framework](https://github.com/adonisjs/adonis-framework)
-  - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
-  - 📋 React hooks for forms validation without the hassle.
-- [simplenote-electron](https://github.com/Automattic/simplenote-electron)
-  - A Simplenote React app packaged via Electron for Windows and Linux
-- [instagram-private-api](https://github.com/dilame/instagram-private-api)
-  - NodeJS Instagram private API client. Written in TypeScript.
-- [redux](https://github.com/reduxjs/redux)
-  - Predictable state container for JavaScript apps
-- [PPet](https://github.com/zenghongtu/PPet)
-  - 👻在你的桌面放一个萌妹子，多一点趣味😏~（支持Mac、Win和Linux）
 - [nest](https://github.com/nestjs/nest)
   - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-- [sapper](https://github.com/sveltejs/sapper)
-  - The next small thing in web development, powered by Svelte
+- [coc.nvim](https://github.com/neoclide/coc.nvim)
+  - Intellisense engine for vim8 & neovim, full language server protocol support as VSCode
+- [vue-next](https://github.com/vuejs/vue-next)
+  - The next major version of Vue (WIP)
 - [wenyan](https://github.com/wenyan-lang/wenyan)
   - 文言文編程語言 A programming language for the ancient Chinese.
-- [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
-  - Foreign language reading and translation assistant based on copy and translate.
-- [desktop](https://github.com/desktop/desktop)
-  - Simple collaboration from your desktop
 - [hiplot](https://github.com/facebookresearch/hiplot)
   - HiPlot makes understanding high dimensional data easy
-- [gatsby-theme-novela](https://github.com/narative/gatsby-theme-novela)
-  - Welcome to Novela, the simplest way to start publishing with Gatsby.
-- [cache](https://github.com/actions/cache)
-  - Cache dependencies and build outputs in GitHub Actions
-- [apollo-client](https://github.com/apollographql/apollo-client)
-  - 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
-- [n8n](https://github.com/n8n-io/n8n)
-  - Free and open node based Workflow Automation Tool. Easily automate tasks across different services.
-- [typescript-book](https://github.com/basarat/typescript-book)
-  - 📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖. Free and Open Source 🌹
-- [webiny-js](https://github.com/webiny/webiny-js)
-  - Serverless CMS (GraphQL + React)
-- [material-components-web](https://github.com/material-components/material-components-web)
-  - Modular and customizable Material Design UI components for the web
+- [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
+  - 💬 The most complete chat UI for React Native
+- [ant-design-pro](https://github.com/ant-design/ant-design-pro)
+  - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
+- [angular](https://github.com/angular/angular)
+  - One framework. Mobile & desktop.
+- [ngx-admin](https://github.com/akveo/ngx-admin)
+  - Customizable admin dashboard template based on Angular 8+
+- [heimdall](https://github.com/fterh/heimdall)
+  - Self-hosted personal email guardian with one-step deployment
+- [hospitalrun-frontend](https://github.com/HospitalRun/hospitalrun-frontend)
+  - Frontend for HospitalRun
+- [botpress](https://github.com/botpress/botpress)
+  - 🤖 The Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants.
+- [grafana](https://github.com/grafana/grafana)
+  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [auto](https://github.com/intuit/auto)
+  - Generate releases based on semantic version labels on pull requests.
+- [frontity](https://github.com/frontity/frontity)
+  - » Frontity - Create amazing sites using WordPress & React
+- [vscode](https://github.com/microsoft/vscode)
+  - Visual Studio Code
+- [jsQR](https://github.com/cozmo/jsQR)
+  - A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.
+- [vue-storefront](https://github.com/DivanteLtd/vue-storefront)
+  - Vue Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported. Always Open Source, MIT license. Join us as contributor (contributors@vuestorefront.io).
+- [react-sortablejs](https://github.com/SortableJS/react-sortablejs)
+  - A React component built on top of the mature drag and drop library, Sortable.
+- [formily](https://github.com/alibaba/formily)
+  - Alibaba Group Unified Form Solution.
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+  - The repository for high quality TypeScript type definitions.
+- [recharts](https://github.com/recharts/recharts)
+  - Redefined chart library built with React and D3
+- [react-intl](https://github.com/formatjs/react-intl)
+  - Internationalize React apps. This library provides React components and an API to format dates, numbers, and strings, including pluralization and handling translations.
+- [simplenote-electron](https://github.com/Automattic/simplenote-electron)
+  - A Simplenote React app packaged via Electron for Windows and Linux
+- [builder](https://github.com/BuilderIO/builder)
+  - Drag and drop page building for any site

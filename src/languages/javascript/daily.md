@@ -1,51 +1,51 @@
 # javascript
 - [remote-jobs](https://github.com/remoteintech/remote-jobs)
   - A list of semi to fully remote-friendly companies in tech.
-- [esercizi-di-programmazione-javascript](https://github.com/AlbertoOlla/esercizi-di-programmazione-javascript)
-  - Esercizi di informatica! Impara a programmare, metti alla prova!
-- [2019-ncov](https://github.com/shfshanyue/2019-ncov)
-  - 全国新型冠状病毒，肺炎疫情实时省市地图
-- [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript)
-  - A 30 days of JavaScript programming challenge
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [tasks](https://github.com/rolling-scopes-school/tasks)
+  - 
 - [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
   - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+- [gutenberg](https://github.com/WordPress/gutenberg)
+  - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - 🛁 Clean Code concepts adapted for JavaScript
 - [leetcode](https://github.com/azl397985856/leetcode)
   - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
-- [opencti](https://github.com/OpenCTI-Platform/opencti)
-  - Open Cyber Threat Intelligence Platform
-- [AlgoCasts-JS](https://github.com/yogain123/AlgoCasts-JS)
-  - DSA in JavaScript ✅
-- [MagicMirror](https://github.com/MichMich/MagicMirror)
-  - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-  - The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people.
-- [jumpserver](https://github.com/jumpserver/jumpserver)
-  - Jumpserver是全球首款完全开源的堡垒机，是符合 4A 的专业运维审计系统。
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
-  - Starter files, final projects and FAQ for my Complete JavaScript course
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri)
-  - vue2 + vue-router + vuex 入门项目
-- [appium](https://github.com/appium/appium)
-  - 📱 Automation for iOS, Android, and Windows Apps.
-- [academicpages.github.io](https://github.com/academicpages/academicpages.github.io)
-  - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
-- [quasar](https://github.com/quasarframework/quasar)
-  - Quasar Framework - Build high-performance VueJS user interfaces in record time
-- [size-limit](https://github.com/ai/size-limit)
-  - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
+  - Short JavaScript code snippets for all your development needs
+- [hexo](https://github.com/hexojs/hexo)
+  - A fast, simple & powerful blog framework, powered by Node.js.
+- [caniuse](https://github.com/Fyrd/caniuse)
+  - Raw browser/feature support data from caniuse.com
+- [beep-beep](https://github.com/adzialocha/beep-beep)
+  - Fictional p2p protocol
+- [appwrite](https://github.com/appwrite/appwrite)
+  - End-to-end backend server for frontend and mobile developers. 🚀
+- [comments-api](https://github.com/dev-mastery/comments-api)
+  - 
+- [mercury-parser](https://github.com/postlight/mercury-parser)
+  - 📜 Extract meaningful content from the chaos of a web page
+- [theme-ui](https://github.com/system-ui/theme-ui)
+  - Build consistent, themeable React apps based on constraint-based design principles
+- [uppy](https://github.com/transloadit/uppy)
+  - The next open source file uploader for web browsers 🐶
+- [vue](https://github.com/vuejs/vue)
+  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [gatsby-themes](https://github.com/LekoArts/gatsby-themes)
+  - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization options.
+- [joi](https://github.com/hapijs/joi)
+  - The most powerful data validation library for JS
+- [pancake](https://github.com/Rich-Harris/pancake)
+  - Experimental charting library for Svelte
+- [Chart.js](https://github.com/chartjs/Chart.js)
+  - Simple HTML5 Charts using the <canvas> tag
+- [bootstrap](https://github.com/twbs/bootstrap)
+  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+  - 💯 Materials to help you rock your next coding interview
 - [WeApp_Demos](https://github.com/Data-Camp/WeApp_Demos)
   - 持续更新中的微信小程序和小游戏的源码案例库。目前涵盖了120多个微信小程序或小游戏。
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
-  - ✅ The largest Node.js best practices list (January 2020)
-- [BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)
-  - A series of plugins and themes for BetterDiscord.
-- [uBlock](https://github.com/gorhill/uBlock)
-  - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
-  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [react-native-swiper](https://github.com/leecade/react-native-swiper)
+  - The best Swiper component for React Native.

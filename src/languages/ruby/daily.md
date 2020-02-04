@@ -1,51 +1,51 @@
 # ruby
 - [OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)
   - OSCP Exam Report Template in Markdown
-- [cmsc330spring20](https://github.com/anwarmamat/cmsc330spring20)
+- [setup](https://github.com/lewagon/setup)
+  - Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp
+- [fast-ruby](https://github.com/JuanitoFatas/fast-ruby)
+  - 💨 Writing Fast Ruby 😍 -- Collect Common Ruby idioms.
+- [ruby](https://github.com/ruby/ruby)
+  - The Ruby Programming Language [mirror]
+- [linguist](https://github.com/github/linguist)
+  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+- [mastodon](https://github.com/tootsuite/mastodon)
+  - Your self-hosted, globally interconnected microblogging community
+- [sidekiq](https://github.com/mperham/sidekiq)
+  - Simple, efficient background processing for Ruby
+- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
+  - Ruby implementation of GraphQL
+- [logstash-patterns-core](https://github.com/logstash-plugins/logstash-patterns-core)
   - 
-- [remote-working](https://github.com/greatghoul/remote-working)
-  - 收集整理远程工作相关的资料
-- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-  - A curated list of awesome awesomeness
-- [fpm](https://github.com/jordansissel/fpm)
-  - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
-- [puppet](https://github.com/puppetlabs/puppet)
-  - Server automation framework and application
-- [sharetribe](https://github.com/sharetribe/sharetribe)
-  - Sharetribe Go is a source available marketplace software, also available with SaaS model. See also Sharetribe Flex (https://www.sharetribe.com/flex), a headless marketplace solution.
-- [huginn](https://github.com/huginn/huginn)
-  - Create agents that monitor and act on your behalf. Your agents are standing by!
-- [wpscan](https://github.com/wpscanteam/wpscan)
-  - WPScan is a free, for non-commercial use, black box WordPress Vulnerability Scanner written for security professionals and blog maintainers to test the security of their WordPress websites.
-- [CurveBall](https://github.com/ollypwn/CurveBall)
-  - PoC for CVE-2020-0601- Windows CryptoAPI (Crypt32.dll)
-- [choosealicense.com](https://github.com/github/choosealicense.com)
-  - A site to provide non-judgmental guidance on choosing a license for your open source project
-- [looping-while-until-nyc-fasttrack-020120](https://github.com/learn-co-students/looping-while-until-nyc-fasttrack-020120)
+- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
+  - The Cocoa Dependency Manager.
+- [sorbet](https://github.com/sorbet/sorbet)
+  - A fast, powerful type checker designed for Ruby
+- [lexis_nexis](https://github.com/financeit/lexis_nexis)
+  - Financeit Lexis Nexis Integration
+- [rails-create-action-lab-chi01-seng-ft-010620](https://github.com/learn-co-students/rails-create-action-lab-chi01-seng-ft-010620)
   - 
-- [ttt-8-turn-nyc-fasttrack-020120](https://github.com/learn-co-students/ttt-8-turn-nyc-fasttrack-020120)
+- [rails-form_tag-readme-dumbo-web-010620](https://github.com/learn-co-students/rails-form_tag-readme-dumbo-web-010620)
   - 
-- [ttt-7-valid-move-nyc-fasttrack-020120](https://github.com/learn-co-students/ttt-7-valid-move-nyc-fasttrack-020120)
+- [oo-barking-dog-onl01-seng-pt-012120](https://github.com/learn-co-students/oo-barking-dog-onl01-seng-pt-012120)
   - 
-- [ttt-6-position-taken-rb-nyc-fasttrack-020120](https://github.com/learn-co-students/ttt-6-position-taken-rb-nyc-fasttrack-020120)
+- [instance-methods-lab-ruby-onl01-seng-pt-012120](https://github.com/learn-co-students/instance-methods-lab-ruby-onl01-seng-pt-012120)
   - 
-- [ttt-5-move-rb-nyc-fasttrack-020120](https://github.com/learn-co-students/ttt-5-move-rb-nyc-fasttrack-020120)
+- [railsinstaller_demo](https://github.com/simonbreak/railsinstaller_demo)
   - 
-- [rails-generators-readme-online-web-pt-090919](https://github.com/learn-co-students/rails-generators-readme-online-web-pt-090919)
+- [classes-and-instances-lab-ruby-onl01-seng-pt-012220](https://github.com/learn-co-students/classes-and-instances-lab-ruby-onl01-seng-pt-012220)
   - 
-- [rails-url-helpers-lab-dumbo-web-010620](https://github.com/learn-co-students/rails-url-helpers-lab-dumbo-web-010620)
+- [rails-create-action-readme-chi01-seng-ft-010620](https://github.com/learn-co-students/rails-create-action-readme-chi01-seng-ft-010620)
+  - 
+- [oo-cash-register-onl01-seng-ft-012120](https://github.com/learn-co-students/oo-cash-register-onl01-seng-ft-012120)
   - 
 - [classes-and-instances-lab-ruby-onl01-seng-pt-012120](https://github.com/learn-co-students/classes-and-instances-lab-ruby-onl01-seng-pt-012120)
   - 
-- [other-hash-methods-code-along-onl01-seng-pt-012120](https://github.com/learn-co-students/other-hash-methods-code-along-onl01-seng-pt-012120)
+- [sinatra-views-lab-online-web-ft-120919](https://github.com/learn-co-students/sinatra-views-lab-online-web-ft-120919)
   - 
-- [ruby-gets-input-nyc-fasttrack-020120](https://github.com/learn-co-students/ruby-gets-input-nyc-fasttrack-020120)
+- [instance-methods-lab-ruby-onl01-seng-pt-012220](https://github.com/learn-co-students/instance-methods-lab-ruby-onl01-seng-pt-012220)
   - 
-- [omnicalc-api](https://github.com/appdev-projects/omnicalc-api)
+- [sinatra-views-online-web-ft-120919](https://github.com/learn-co-students/sinatra-views-online-web-ft-120919)
   - 
-- [rails-url-helpers-readme-dumbo-web-010620](https://github.com/learn-co-students/rails-url-helpers-readme-dumbo-web-010620)
-  - 
-- [ruby-oo-object-relationships-belongs-to-lab-nyc-web-012720](https://github.com/learn-co-students/ruby-oo-object-relationships-belongs-to-lab-nyc-web-012720)
-  - 
-- [apples-and-holidays-onl01-seng-pt-012120](https://github.com/learn-co-students/apples-and-holidays-onl01-seng-pt-012120)
+- [sinatra-basic-views-lab-online-web-ft-120919](https://github.com/learn-co-students/sinatra-basic-views-lab-online-web-ft-120919)
   - 
