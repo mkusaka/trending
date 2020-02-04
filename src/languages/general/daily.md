@@ -1,49 +1,48 @@
 # general
+- [Fugu](https://github.com/LinusHenze/Fugu) : C
+  - Fugu is the first open source jailbreak based on the checkm8 exploit
 - [algodeck](https://github.com/teivah/algodeck) : 
-  - Algo Deck is an Open-Source Collection of +200 Algorithmic Cards to Help you Preparing your Algorithm & Data Structure Interview
-- [wuhan2020-timeline](https://github.com/Pratitya/wuhan2020-timeline) : 
-  - 记录自2019年12月起武汉新冠肺炎疫情进展的时间线，尽可能搜集经敝人筛查后的信息，因为假若敏感内容，墙内容易炸号，故置于此。
-- [DXY-2019-nCoV-Data](https://github.com/BlankerL/DXY-2019-nCoV-Data) : Python
-  - 2019新型冠状病毒疫情时间序列数据仓库
-- [Algorithms](https://github.com/williamfiset/Algorithms) : Java
-  - A collection of algorithms and data structures
+  - An Open-Source Collection of +200 Algorithmic Flash Cards to Help you Preparing your Algorithm & Data Structure Interview 💯
+- [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) : 
+  - A list of resources for those interested in getting started in bug bounties
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) : 
+  - A book series on JavaScript. @YDKJS on twitter.
 - [remote-jobs](https://github.com/remoteintech/remote-jobs) : JavaScript
   - A list of semi to fully remote-friendly companies in tech.
-- [stylegan2](https://github.com/NVlabs/stylegan2) : Python
-  - StyleGAN2 - Official TensorFlow Implementation
-- [esercizi-di-programmazione-javascript](https://github.com/AlbertoOlla/esercizi-di-programmazione-javascript) : JavaScript
-  - Esercizi di informatica! Impara a programmare, metti alla prova!
+- [Algorithms](https://github.com/williamfiset/Algorithms) : Java
+  - A collection of algorithms and data structures
+- [wuhan2020-timeline](https://github.com/Pratitya/wuhan2020-timeline) : 
+  - 记录自2019年12月起武汉新冠肺炎疫情进展的时间线，尽可能搜集信息，因为假若敏感内容，墙内容易炸号，故置于此。
+- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) : Python
+  - Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
+- [fakelogonscreen](https://github.com/bitsadmin/fakelogonscreen) : C#
+  - Fake Windows logon screen to steal passwords
+- [Micro8](https://github.com/Micropoor/Micro8) : 
+  - Gitbook
+- [trojan](https://github.com/atrandys/trojan) : Shell
 - [jd-assistant](https://github.com/tychxn/jd-assistant) : Python
   - 京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能
 - [Ai-learn](https://github.com/tangyudi/Ai-learn) : 
   - 人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理等热门领域
-- [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) : 
-  - A list of resources for those interested in getting started in bug bounties
-- [Ncov2020HistoryData](https://github.com/norratek/Ncov2020HistoryData) : 
-- [V2Ray_ws-tls_bash_onekey](https://github.com/wulabing/V2Ray_ws-tls_bash_onekey) : Shell
-  - V2Ray Nginx+vmess+ws+tls/ http2 over tls 一键安装脚本
-- [python-small-examples](https://github.com/jackzhenguo/python-small-examples) : Python
-  - Python有趣的小例子一网打尽。Python基础、Python坑点、Python字符串和正则、Python绘图、Python日期和文件、Web开发、数据科学、机器学习、深度学习、TensorFlow、Pytorch，一切都是简单易懂的小例子。
-- [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) : 
-  - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
-- [Chaos](https://github.com/jonnyhyman/Chaos) : Python
-  - Visualizations of the connections between chaos theory and fractals through the logistic map; made for Veritasium YouTube video
-- [tinygo](https://github.com/tinygo-org/tinygo) : Go
-  - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
-- [reliable](https://github.com/x-ream/reliable) : Java
-  - mq transaction, tcc, eventually consistency. tx life cycle: all listeners handled, if necessary, produce next message
-- [OpenSK](https://github.com/google/OpenSK) : Rust
-  - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
-  - Roadmap to becoming a web developer in 2020
-- [mall](https://github.com/macrozheng/mall) : Java
-  - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
-- [v2rayNG](https://github.com/2dust/v2rayNG) : Kotlin
-- [lede](https://github.com/coolsnowwolf/lede) : C
-  - Lean's OpenWrt source
-- [2019-ncov](https://github.com/shfshanyue/2019-ncov) : JavaScript
-  - 全国新型冠状病毒，肺炎疫情实时省市地图
+- [nCov2019](https://github.com/GuangchuangYu/nCov2019) : R
 - [new-pac](https://github.com/Alvin9999/new-pac) : 
   - 科学/自由上网，免费ss/ssr/v2ray/goflyway账号，搭建教程
-- [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) : Swift
-  - Next Generation of ShadowsocksX
+- [CMPEDUDownload](https://github.com/Echowxsy/CMPEDUDownload) : Python
+  - 机械工业出版社PDF下载器
+- [reliable](https://github.com/x-ream/reliable) : Java
+  - mq transaction, tcc, eventually consistency. tx life cycle: all listeners handled, if necessary, produce next message
+- [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) : 
+  - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+- [sm64](https://github.com/n64decomp/sm64) : C
+  - A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
+- [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) : C#
+  - If you want to keep a secret, you must also hide it from yourself.
+- [styleguide](https://github.com/google/styleguide) : HTML
+  - Style guides for Google-originated open-source projects
+- [autonomous-learning-library](https://github.com/cpnota/autonomous-learning-library) : Python
+  - A PyTorch library for building deep reinforcement learning agents.
+- [OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown) : Ruby
+  - OSCP Exam Report Template in Markdown
+- [elasticsearch](https://github.com/elastic/elasticsearch) : Java
+  - Open Source, Distributed, RESTful Search Engine
+- [tasks](https://github.com/rolling-scopes-school/tasks) : JavaScript

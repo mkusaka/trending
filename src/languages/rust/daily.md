@@ -1,51 +1,51 @@
 # rust
-- [OpenSK](https://github.com/google/OpenSK)
-  - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
-- [vector](https://github.com/timberio/vector)
-  - Collect, transform, & route all observability data with one simple tool.
-- [argh](https://github.com/google/argh)
-  - Rust derive-based argument parsing optimized for code size
 - [996.ICU](https://github.com/996icu/996.ICU)
   - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
-- [ripgrep](https://github.com/BurntSushi/ripgrep)
-  - ripgrep recursively searches directories for a regex pattern
-- [mdBook](https://github.com/rust-lang/mdBook)
-  - Create book from markdown files. Like Gitbook but implemented in Rust
-- [iced](https://github.com/hecrj/iced)
-  - A cross-platform GUI library for Rust, inspired by Elm
-- [tarkov](https://github.com/dank/tarkov)
-  - A Rust library for the Escape from Tarkov API
-- [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust)
-  - A Rust port of shadowsocks
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
-  - Unofficial Bitwarden compatible server written in Rust
-- [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
-  - The Mullvad VPN client app for desktop and mobile
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [wasmtime](https://github.com/bytecodealliance/wasmtime)
-  - Standalone JIT-style runtime for WebAssembly, using Cranelift
-- [discovery](https://github.com/rust-embedded/discovery)
-  - Discover the world of microcontrollers through Rust!
-- [forest](https://github.com/ChainSafe/forest)
-  - 🌲 Rust Filecoin Node Implementation
-- [findomain](https://github.com/Edu4rdSHL/findomain)
-  - The fastest and cross-platform subdomain enumerator, don't waste your time.
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-  - A curated list of Rust code and resources.
-- [dust](https://github.com/bootandy/dust)
-  - A more intuitive version of du in rust
-- [procs](https://github.com/dalance/procs)
-  - A modern replacement for ps written in Rust
-- [servo](https://github.com/servo/servo)
-  - The Servo Browser Engine
-- [rust-cpython](https://github.com/dgrunwald/rust-cpython)
-  - Rust <-> Python bindings
-- [fd](https://github.com/sharkdp/fd)
-  - A simple, fast and user-friendly alternative to 'find'
+- [alacritty](https://github.com/alacritty/alacritty)
+  - A cross-platform, GPU-accelerated terminal emulator
+- [firecracker](https://github.com/firecracker-microvm/firecracker)
+  - Secure and fast microVMs for serverless computing.
 - [broot](https://github.com/Canop/broot)
   - A new way to see and navigate directory trees : https://dystroy.org/broot
+- [OpenSK](https://github.com/google/OpenSK)
+  - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
+- [fd](https://github.com/sharkdp/fd)
+  - A simple, fast and user-friendly alternative to 'find'
+- [vector](https://github.com/timberio/vector)
+  - Collect, transform, & route all observability data with one simple tool.
+- [free](https://github.com/adam-mcdaniel/free)
+  - A programming language with an unusual compiler backend
+- [diesel](https://github.com/diesel-rs/diesel)
+  - A safe, extensible ORM and Query Builder for Rust
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [discovery](https://github.com/rust-embedded/discovery)
+  - Discover the world of microcontrollers through Rust!
+- [comfy-table](https://github.com/Nukesor/comfy-table)
+  - 🔶 A library for building beautiful tables with automatic content wrapping
+- [procs](https://github.com/dalance/procs)
+  - A modern replacement for ps written in Rust
+- [grex](https://github.com/pemistahl/grex)
+  - A command-line tool and library for generating regular expressions from user-provided test cases
+- [dust](https://github.com/bootandy/dust)
+  - A more intuitive version of du in rust
+- [unseemly](https://github.com/paulstansifer/unseemly)
+  - Macros have types!
+- [rust](https://github.com/tensorflow/rust)
+  - Rust language bindings for TensorFlow
+- [rust-cpython](https://github.com/dgrunwald/rust-cpython)
+  - Rust <-> Python bindings
+- [dprint](https://github.com/dsherret/dprint)
+  - TypeScript and JSONC code formatter.
+- [gameboy_emulator](https://github.com/benkonz/gameboy_emulator)
+  - Gameboy Emulator written in Rust
+- [json](https://github.com/serde-rs/json)
+  - Strongly typed JSON library for Rust
+- [polkadot](https://github.com/paritytech/polkadot)
+  - Polkadot Node Implementation
+- [imager](https://github.com/imager-io/imager)
+  - Automated image compression for efficiently distributing images on the web.
+- [spotifyd](https://github.com/Spotifyd/spotifyd)
+  - A spotify daemon
+- [exa](https://github.com/ogham/exa)
+  - A modern version of ‘ls’.
