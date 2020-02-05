@@ -1,48 +1,51 @@
 # general
-- [Fugu](https://github.com/LinusHenze/Fugu) : C
-  - Fugu is the first open source jailbreak based on the checkm8 exploit
-- [algodeck](https://github.com/teivah/algodeck) : 
-  - An Open-Source Collection of +200 Algorithmic Flash Cards to Help you Preparing your Algorithm & Data Structure Interview 💯
-- [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) : 
-  - A list of resources for those interested in getting started in bug bounties
-- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) : 
-  - A book series on JavaScript. @YDKJS on twitter.
-- [remote-jobs](https://github.com/remoteintech/remote-jobs) : JavaScript
-  - A list of semi to fully remote-friendly companies in tech.
-- [Algorithms](https://github.com/williamfiset/Algorithms) : Java
-  - A collection of algorithms and data structures
-- [wuhan2020-timeline](https://github.com/Pratitya/wuhan2020-timeline) : 
-  - 记录自2019年12月起武汉新冠肺炎疫情进展的时间线，尽可能搜集信息，因为假若敏感内容，墙内容易炸号，故置于此。
-- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) : Python
-  - Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
-- [fakelogonscreen](https://github.com/bitsadmin/fakelogonscreen) : C#
-  - Fake Windows logon screen to steal passwords
-- [Micro8](https://github.com/Micropoor/Micro8) : 
-  - Gitbook
-- [trojan](https://github.com/atrandys/trojan) : Shell
-- [jd-assistant](https://github.com/tychxn/jd-assistant) : Python
-  - 京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能
-- [Ai-learn](https://github.com/tangyudi/Ai-learn) : 
-  - 人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理等热门领域
-- [nCov2019](https://github.com/GuangchuangYu/nCov2019) : R
-- [new-pac](https://github.com/Alvin9999/new-pac) : 
-  - 科学/自由上网，免费ss/ssr/v2ray/goflyway账号，搭建教程
+- [VirusBroadcast](https://github.com/KikiLetGo/VirusBroadcast) : Java
+  - A java virus broadcast simulation
+- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) : JavaScript
+  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+- [DXY-2019-nCoV-Data](https://github.com/BlankerL/DXY-2019-nCoV-Data) : Python
+  - 2019新型冠状病毒疫情时间序列数据仓库
+- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) : Go
+  - Terraform AWS provider
 - [CMPEDUDownload](https://github.com/Echowxsy/CMPEDUDownload) : Python
   - 机械工业出版社PDF下载器
-- [reliable](https://github.com/x-ream/reliable) : Java
-  - mq transaction, tcc, eventually consistency. tx life cycle: all listeners handled, if necessary, produce next message
-- [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) : 
-  - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+- [amplify-cli](https://github.com/aws-amplify/amplify-cli) : TypeScript
+  - A CLI toolchain for simplifying serverless web and mobile development.
+- [algodeck](https://github.com/teivah/algodeck) : 
+  - An Open-Source Collection of +200 Algorithmic Flash Cards to Help you Preparing your Algorithm & Data Structure Interview 💯
+- [swift-crypto](https://github.com/apple/swift-crypto) : Swift
+  - Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.
+- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) : 
+  - 程序员如何优雅的挣零花钱
+- [Algorithms](https://github.com/williamfiset/Algorithms) : Java
+  - A collection of algorithms and data structures
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) : 
+  - A book series on JavaScript. @YDKJS on twitter.
+- [new-pac](https://github.com/Alvin9999/new-pac) : 
+  - 科学/自由上网，免费ss/ssr/v2ray/goflyway账号，搭建教程
+- [Fugu](https://github.com/LinusHenze/Fugu) : C
+  - Fugu is the first open source jailbreak based on the checkm8 exploit
+- [remote-jobs](https://github.com/remoteintech/remote-jobs) : JavaScript
+  - A list of semi to fully remote-friendly companies in tech.
+- [Ai-learn](https://github.com/tangyudi/Ai-learn) : 
+  - 人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理等热门领域
+- [openlayers](https://github.com/openlayers/openlayers) : JavaScript
+  - OpenLayers
+- [trojan](https://github.com/trojan-gfw/trojan) : C++
+  - An unidentifiable mechanism that helps you bypass GFW.
+- [fakelogonscreen](https://github.com/bitsadmin/fakelogonscreen) : C#
+  - Fake Windows logon screen to steal passwords
+- [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) : 
+  - A list of resources for those interested in getting started in bug bounties
+- [material-ui](https://github.com/mui-org/material-ui) : JavaScript
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js) : JavaScript
+  - Microsoft Authentication Library (MSAL) for JS
 - [sm64](https://github.com/n64decomp/sm64) : C
   - A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
-- [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) : C#
-  - If you want to keep a secret, you must also hide it from yourself.
-- [styleguide](https://github.com/google/styleguide) : HTML
-  - Style guides for Google-originated open-source projects
-- [autonomous-learning-library](https://github.com/cpnota/autonomous-learning-library) : Python
-  - A PyTorch library for building deep reinforcement learning agents.
-- [OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown) : Ruby
-  - OSCP Exam Report Template in Markdown
-- [elasticsearch](https://github.com/elastic/elasticsearch) : Java
-  - Open Source, Distributed, RESTful Search Engine
-- [tasks](https://github.com/rolling-scopes-school/tasks) : JavaScript
+- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) : Python
+  - Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
+- [broot](https://github.com/Canop/broot) : Rust
+  - A new way to see and navigate directory trees : https://dystroy.org/broot
+- [Python](https://github.com/TheAlgorithms/Python) : Python
+  - All Algorithms implemented in Python

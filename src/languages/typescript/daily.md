@@ -1,51 +1,51 @@
 # typescript
-- [nest](https://github.com/nestjs/nest)
-  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-- [coc.nvim](https://github.com/neoclide/coc.nvim)
-  - Intellisense engine for vim8 & neovim, full language server protocol support as VSCode
-- [vue-next](https://github.com/vuejs/vue-next)
-  - The next major version of Vue (WIP)
-- [wenyan](https://github.com/wenyan-lang/wenyan)
-  - 文言文編程語言 A programming language for the ancient Chinese.
-- [hiplot](https://github.com/facebookresearch/hiplot)
-  - HiPlot makes understanding high dimensional data easy
-- [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
-  - 💬 The most complete chat UI for React Native
-- [ant-design-pro](https://github.com/ant-design/ant-design-pro)
-  - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
-- [ngx-admin](https://github.com/akveo/ngx-admin)
-  - Customizable admin dashboard template based on Angular 8+
-- [heimdall](https://github.com/fterh/heimdall)
-  - Self-hosted personal email guardian with one-step deployment
-- [hospitalrun-frontend](https://github.com/HospitalRun/hospitalrun-frontend)
-  - Frontend for HospitalRun
-- [botpress](https://github.com/botpress/botpress)
-  - 🤖 The Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants.
-- [grafana](https://github.com/grafana/grafana)
-  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [auto](https://github.com/intuit/auto)
-  - Generate releases based on semantic version labels on pull requests.
-- [frontity](https://github.com/frontity/frontity)
-  - » Frontity - Create amazing sites using WordPress & React
+- [amplify-cli](https://github.com/aws-amplify/amplify-cli)
+  - A CLI toolchain for simplifying serverless web and mobile development.
 - [vscode](https://github.com/microsoft/vscode)
   - Visual Studio Code
-- [jsQR](https://github.com/cozmo/jsQR)
-  - A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.
-- [vue-storefront](https://github.com/DivanteLtd/vue-storefront)
-  - Vue Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported. Always Open Source, MIT license. Join us as contributor (contributors@vuestorefront.io).
-- [react-sortablejs](https://github.com/SortableJS/react-sortablejs)
-  - A React component built on top of the mature drag and drop library, Sortable.
-- [formily](https://github.com/alibaba/formily)
-  - Alibaba Group Unified Form Solution.
-- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-  - The repository for high quality TypeScript type definitions.
-- [recharts](https://github.com/recharts/recharts)
-  - Redefined chart library built with React and D3
+- [react-native-paper](https://github.com/callstack/react-native-paper)
+  - Material Design for React Native (Android & iOS)
+- [rxdb](https://github.com/pubkey/rxdb)
+  - 💻 🔄 📱 A realtime Database for JavaScript Applications
+- [vue-next](https://github.com/vuejs/vue-next)
+  - The next major version of Vue (WIP)
+- [commitlint](https://github.com/conventional-changelog/commitlint)
+  - 📓 Lint commit messages
+- [wenyan](https://github.com/wenyan-lang/wenyan)
+  - 文言文編程語言 A programming language for the ancient Chinese.
+- [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+  - ✨ Monorepo for all the tooling which enables ESLint to support TypeScript
+- [desktop](https://github.com/desktop/desktop)
+  - Simple collaboration from your desktop
+- [jest](https://github.com/facebook/jest)
+  - Delightful JavaScript Testing.
+- [cli](https://github.com/react-native-community/cli)
+  - React Native command line tools
+- [grafana](https://github.com/grafana/grafana)
+  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [capacitor](https://github.com/ionic-team/capacitor)
+  - Build cross-platform Native Progressive Web Apps for iOS, Android, and the web ⚡️
+- [vuetify](https://github.com/vuetifyjs/vuetify)
+  - 🐉 Material Component Framework for Vue
+- [angular-cli](https://github.com/angular/angular-cli)
+  - CLI tool for Angular
+- [react-diagrams](https://github.com/projectstorm/react-diagrams)
+  - a super simple, no-nonsense diagramming library written in react that just works
+- [ngx-datatable](https://github.com/swimlane/ngx-datatable)
+  - ✨ A feature-rich yet lightweight data-table crafted for Angular
+- [ag-grid](https://github.com/ag-grid/ag-grid)
+  - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
+- [ngx-admin](https://github.com/akveo/ngx-admin)
+  - Customizable admin dashboard template based on Angular 8+
 - [react-intl](https://github.com/formatjs/react-intl)
   - Internationalize React apps. This library provides React components and an API to format dates, numbers, and strings, including pluralization and handling translations.
-- [simplenote-electron](https://github.com/Automattic/simplenote-electron)
-  - A Simplenote React app packaged via Electron for Windows and Linux
-- [builder](https://github.com/BuilderIO/builder)
-  - Drag and drop page building for any site
+- [components](https://github.com/angular/components)
+  - Component infrastructure and Material Design components for Angular
+- [aws-cdk](https://github.com/aws/aws-cdk)
+  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+- [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)
+  - An enterprise-class UI components based on Ant Design and Angular. 🐜
+- [flatpickr](https://github.com/flatpickr/flatpickr)
+  - lightweight, powerful javascript datetimepicker with no dependencies
+- [formily](https://github.com/alibaba/formily)
+  - Alibaba Group Unified Form Solution.
