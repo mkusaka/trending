@@ -1,51 +1,51 @@
 # c++
-- [jetson-inference](https://github.com/dusty-nv/jetson-inference)
-  - Guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
-- [abseil-cpp](https://github.com/abseil/abseil-cpp)
-  - Abseil Common Libraries (C++)
-- [openpilot](https://github.com/commaai/openpilot)
-  - open source driving agent
-- [indicators](https://github.com/p-ranav/indicators)
-  - Activity Indicators for Modern C++
-- [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
-  - 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)
-- [googletest](https://github.com/google/googletest)
-  - Googletest - Google Testing and Mocking Framework
 - [trojan](https://github.com/trojan-gfw/trojan)
   - An unidentifiable mechanism that helps you bypass GFW.
+- [spdlog](https://github.com/gabime/spdlog)
+  - Fast C++ logging library.
+- [rippled](https://github.com/ripple/rippled)
+  - Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger in C++
+- [proxysql](https://github.com/sysown/proxysql)
+  - High-performance MySQL proxy with a GPL license.
+- [EmoCheck](https://github.com/JPCERTCC/EmoCheck)
+  - Emotet detection tool for Windows OS
+- [apollo](https://github.com/ApolloAuto/apollo)
+  - An open autonomous driving platform
+- [scylla](https://github.com/scylladb/scylla)
+  - NoSQL data store using the seastar framework, compatible with Apache Cassandra
+- [llvm-project](https://github.com/llvm/llvm-project)
+  - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
+- [Firmware](https://github.com/PX4/Firmware)
+  - PX4 Autopilot Software
+- [Fast-RTPS](https://github.com/eProsima/Fast-RTPS)
+  - The most complete DDS - Proven: Plenty of success cases.
 - [libzmq](https://github.com/zeromq/libzmq)
   - ZeroMQ core engine in C++, implements ZMTP/3.1
-- [Qv2ray](https://github.com/Qv2ray/Qv2ray)
-  - 🌟 Linux/Windows/macOS 跨平台 v2ray GUI 🔨 使用 c++ 编写，支持订阅，扫描二维码，支持自定义路由编辑 🌟
-- [deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu)
-  - Deepin Wine for Ubuntu/Debian
-- [WLED](https://github.com/Aircoookie/WLED)
-  - Control WS2812B RGB LEDs with an ESP8266 over WiFi!
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
+- [multipass](https://github.com/canonical/multipass)
+  - Multipass orchestrates virtual Ubuntu instances
+- [jsoncpp](https://github.com/open-source-parsers/jsoncpp)
+  - A C++ library for interacting with JSON.
+- [yuzu](https://github.com/yuzu-emu/yuzu)
+  - Nintendo Switch Emulator
+- [thrift](https://github.com/apache/thrift)
+  - Apache Thrift
+- [electron](https://github.com/electron/electron)
+  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [ModSecurity](https://github.com/SpiderLabs/ModSecurity)
   - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
-- [PAT](https://github.com/liuchuo/PAT)
-  - 🍭 浙江大学PAT题解(C/C++/Java/Python) - 努力成为萌萌的程序媛～
-- [leveldb](https://github.com/google/leveldb)
-  - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
-- [ShaderDebugger](https://github.com/dfranx/ShaderDebugger)
-  - C++ library for debugging HLSL & GLSL shaders
-- [GuiLite](https://github.com/idea4good/GuiLite)
-  - ✔️The smallest header-only GUI library(5 KLOC) for all platforms
-- [self-driving-car](https://github.com/ndrplz/self-driving-car)
-  - Udacity Self-Driving Car Engineer Nanodegree projects.
-- [mame](https://github.com/mamedev/mame)
-  - MAME
-- [incubator-doris](https://github.com/apache/incubator-doris)
-  - Apache Doris (Incubating)
+- [Catch2](https://github.com/catchorg/Catch2)
+  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [git-crypt](https://github.com/AGWA/git-crypt)
+  - Transparent file encryption in git
+- [libphonenumber](https://github.com/google/libphonenumber)
+  - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
+- [srs](https://github.com/ossrs/srs)
+  - SRS is a live streaming cluster, high efficiency, stable and simple.
+- [TRTCSDK](https://github.com/tencentyun/TRTCSDK)
+  - 腾讯云TRTC音视频服务，国内下载镜像：
 - [node-sass](https://github.com/sass/node-sass)
   - 🌈 Node.js bindings to libsass
-- [simplewall](https://github.com/henrypp/simplewall)
-  - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
-- [UDPspeeder](https://github.com/wangyu-/UDPspeeder)
-  - A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction,for All Traffics(TCP/UDP/ICMP)
-- [GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
-  - Starting code for the GildedRose Refactoring Kata in many programming languages.
-- [librealsense](https://github.com/IntelRealSense/librealsense)
-  - Intel® RealSense™ SDK
+- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+  - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+- [GSL](https://github.com/microsoft/GSL)
+  - Guidelines Support Library

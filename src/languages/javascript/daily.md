@@ -1,51 +1,51 @@
 # javascript
-- [remote-jobs](https://github.com/remoteintech/remote-jobs)
-  - A list of semi to fully remote-friendly companies in tech.
-- [tasks](https://github.com/rolling-scopes-school/tasks)
-  - 
 - [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
   - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-- [gutenberg](https://github.com/WordPress/gutenberg)
-  - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [leetcode](https://github.com/azl397985856/leetcode)
-  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+- [remote-jobs](https://github.com/remoteintech/remote-jobs)
+  - A list of semi to fully remote-friendly companies in tech.
+- [openlayers](https://github.com/openlayers/openlayers)
+  - OpenLayers
 - [material-ui](https://github.com/mui-org/material-ui)
   - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
-  - Short JavaScript code snippets for all your development needs
-- [hexo](https://github.com/hexojs/hexo)
-  - A fast, simple & powerful blog framework, powered by Node.js.
-- [caniuse](https://github.com/Fyrd/caniuse)
-  - Raw browser/feature support data from caniuse.com
-- [beep-beep](https://github.com/adzialocha/beep-beep)
-  - Fictional p2p protocol
-- [appwrite](https://github.com/appwrite/appwrite)
-  - End-to-end backend server for frontend and mobile developers. 🚀
-- [comments-api](https://github.com/dev-mastery/comments-api)
-  - 
-- [mercury-parser](https://github.com/postlight/mercury-parser)
-  - 📜 Extract meaningful content from the chaos of a web page
-- [theme-ui](https://github.com/system-ui/theme-ui)
-  - Build consistent, themeable React apps based on constraint-based design principles
-- [uppy](https://github.com/transloadit/uppy)
-  - The next open source file uploader for web browsers 🐶
+- [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
+  - Microsoft Authentication Library (MSAL) for JS
+- [curso-javascript-ninja](https://github.com/da2k/curso-javascript-ninja)
+  - Curso Javascript Ninja
+- [buster](https://github.com/dessant/buster)
+  - Captcha solver extension for humans 🐶
+- [gitalk](https://github.com/gitalk/gitalk)
+  - Gitalk is a modern comment component based on Github Issue and Preact.
+- [faker.js](https://github.com/Marak/faker.js)
+  - generate massive amounts of realistic fake data in Node.js and the browser
+- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [vue](https://github.com/vuejs/vue)
   - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [gatsby-themes](https://github.com/LekoArts/gatsby-themes)
-  - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization options.
-- [joi](https://github.com/hapijs/joi)
-  - The most powerful data validation library for JS
-- [pancake](https://github.com/Rich-Harris/pancake)
-  - Experimental charting library for Svelte
-- [Chart.js](https://github.com/chartjs/Chart.js)
-  - Simple HTML5 Charts using the <canvas> tag
-- [bootstrap](https://github.com/twbs/bootstrap)
-  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
-  - 💯 Materials to help you rock your next coding interview
-- [WeApp_Demos](https://github.com/Data-Camp/WeApp_Demos)
-  - 持续更新中的微信小程序和小游戏的源码案例库。目前涵盖了120多个微信小程序或小游戏。
-- [react-native-swiper](https://github.com/leecade/react-native-swiper)
-  - The best Swiper component for React Native.
+- [gutenberg](https://github.com/WordPress/gutenberg)
+  - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
+- [Leaflet](https://github.com/Leaflet/Leaflet)
+  - 🍃 JavaScript library for mobile-friendly interactive maps
+- [gun](https://github.com/amark/gun)
+  - A realtime, decentralized, offline-first, graph protocol to sync the web.
+- [yapi](https://github.com/YMFE/yapi)
+  - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
+- [next.js](https://github.com/zeit/next.js)
+  - The React Framework
+- [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
+  - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
+- [perfect-scrollbar](https://github.com/mdbootstrap/perfect-scrollbar)
+  - Minimalistic but perfect custom scrollbar plugin
+- [graphql-engine](https://github.com/hasura/graphql-engine)
+  - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+- [opensource.guide](https://github.com/github/opensource.guide)
+  - 📚 Community guides for open source creators
+- [Inputmask](https://github.com/RobinHerbots/Inputmask)
+  - Input Mask plugin
+- [lime](https://github.com/marcotcr/lime)
+  - Lime: Explaining the predictions of any machine learning classifier
+- [hexo](https://github.com/hexojs/hexo)
+  - A fast, simple & powerful blog framework, powered by Node.js.
+- [sequelize](https://github.com/sequelize/sequelize)
+  - An easy-to-use multi SQL dialect ORM for Node.js

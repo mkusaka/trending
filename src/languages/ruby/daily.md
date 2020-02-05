@@ -1,51 +1,51 @@
 # ruby
-- [OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)
-  - OSCP Exam Report Template in Markdown
-- [setup](https://github.com/lewagon/setup)
-  - Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp
-- [fast-ruby](https://github.com/JuanitoFatas/fast-ruby)
-  - 💨 Writing Fast Ruby 😍 -- Collect Common Ruby idioms.
-- [ruby](https://github.com/ruby/ruby)
-  - The Ruby Programming Language [mirror]
-- [linguist](https://github.com/github/linguist)
-  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-- [mastodon](https://github.com/tootsuite/mastodon)
-  - Your self-hosted, globally interconnected microblogging community
-- [sidekiq](https://github.com/mperham/sidekiq)
-  - Simple, efficient background processing for Ruby
+- [faker](https://github.com/faker-ruby/faker)
+  - A library for generating fake data such as names, addresses, and phone numbers.
 - [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
   - Ruby implementation of GraphQL
-- [logstash-patterns-core](https://github.com/logstash-plugins/logstash-patterns-core)
-  - 
-- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
-  - The Cocoa Dependency Manager.
-- [sorbet](https://github.com/sorbet/sorbet)
-  - A fast, powerful type checker designed for Ruby
-- [lexis_nexis](https://github.com/financeit/lexis_nexis)
-  - Financeit Lexis Nexis Integration
-- [rails-create-action-lab-chi01-seng-ft-010620](https://github.com/learn-co-students/rails-create-action-lab-chi01-seng-ft-010620)
-  - 
-- [rails-form_tag-readme-dumbo-web-010620](https://github.com/learn-co-students/rails-form_tag-readme-dumbo-web-010620)
-  - 
-- [oo-barking-dog-onl01-seng-pt-012120](https://github.com/learn-co-students/oo-barking-dog-onl01-seng-pt-012120)
-  - 
-- [instance-methods-lab-ruby-onl01-seng-pt-012120](https://github.com/learn-co-students/instance-methods-lab-ruby-onl01-seng-pt-012120)
-  - 
-- [railsinstaller_demo](https://github.com/simonbreak/railsinstaller_demo)
-  - 
-- [classes-and-instances-lab-ruby-onl01-seng-pt-012220](https://github.com/learn-co-students/classes-and-instances-lab-ruby-onl01-seng-pt-012220)
-  - 
-- [rails-create-action-readme-chi01-seng-ft-010620](https://github.com/learn-co-students/rails-create-action-readme-chi01-seng-ft-010620)
-  - 
-- [oo-cash-register-onl01-seng-ft-012120](https://github.com/learn-co-students/oo-cash-register-onl01-seng-ft-012120)
-  - 
-- [classes-and-instances-lab-ruby-onl01-seng-pt-012120](https://github.com/learn-co-students/classes-and-instances-lab-ruby-onl01-seng-pt-012120)
-  - 
-- [sinatra-views-lab-online-web-ft-120919](https://github.com/learn-co-students/sinatra-views-lab-online-web-ft-120919)
-  - 
-- [instance-methods-lab-ruby-onl01-seng-pt-012220](https://github.com/learn-co-students/instance-methods-lab-ruby-onl01-seng-pt-012220)
-  - 
-- [sinatra-views-online-web-ft-120919](https://github.com/learn-co-students/sinatra-views-online-web-ft-120919)
-  - 
-- [sinatra-basic-views-lab-online-web-ft-120919](https://github.com/learn-co-students/sinatra-basic-views-lab-online-web-ft-120919)
-  - 
+- [rails](https://github.com/rails/rails)
+  - Ruby on Rails
+- [shopify_app](https://github.com/Shopify/shopify_app)
+  - A Rails Engine for building Shopify Apps
+- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+  - A curated list of awesome awesomeness
+- [asciidoctor](https://github.com/asciidoctor/asciidoctor)
+  - 💎 A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
+- [capybara](https://github.com/teamcapybara/capybara)
+  - Acceptance test framework for web applications
+- [strong_migrations](https://github.com/ankane/strong_migrations)
+  - Catch unsafe migrations in development
+- [concurrent-ruby](https://github.com/ruby-concurrency/concurrent-ruby)
+  - Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
+- [fastlane](https://github.com/fastlane/fastlane)
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)
+  - OSCP Exam Report Template in Markdown
+- [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails)
+  - Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
+- [capistrano](https://github.com/capistrano/capistrano)
+  - Remote multi-server automation tool
+- [gitlabhq](https://github.com/gitlabhq/gitlabhq)
+  - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
+- [carrierwave](https://github.com/carrierwaveuploader/carrierwave)
+  - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
+- [webpacker](https://github.com/rails/webpacker)
+  - Use Webpack to manage app-like JavaScript modules in Rails
+- [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch)
+  - Ansible playbook for Elasticsearch
+- [paperclip](https://github.com/thoughtbot/paperclip)
+  - Easy file attachment management for ActiveRecord
+- [ansible-vagrant-examples](https://github.com/geerlingguy/ansible-vagrant-examples)
+  - Ansible examples using Vagrant to deploy to local VMs.
+- [annotate_models](https://github.com/ctran/annotate_models)
+  - Annotate Rails classes with schema and routes info
+- [logstash](https://github.com/elastic/logstash)
+  - Logstash - transport and process your logs, events, or other data
+- [brew](https://github.com/Homebrew/brew)
+  - 🍺 The missing package manager for macOS (or Linux)
+- [puppet-elasticsearch](https://github.com/elastic/puppet-elasticsearch)
+  - Elasticsearch Puppet module
+- [paper_trail](https://github.com/paper-trail-gem/paper_trail)
+  - Track changes to your rails models
