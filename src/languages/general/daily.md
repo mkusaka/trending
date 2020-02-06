@@ -1,51 +1,51 @@
 # general
+- [nCovMemory](https://github.com/2019ncovmemory/nCovMemory) : 
+  - 2020新冠肺炎记忆：传媒报道与非虚构写作（持续更新）
+- [GPCS4](https://github.com/Inori/GPCS4) : C++
+  - A Playstation 4 emulator just begin
+- [DarkModeKit](https://github.com/microsoft/DarkModeKit) : Swift
+  - A library for backporting Dark Mode in iOS
+- [31-days-of-API-Security-Tips](https://github.com/smodnix/31-days-of-API-Security-Tips) : 
+  - This challenge is Inon Shkedy's 31 days API Security Tips.
 - [VirusBroadcast](https://github.com/KikiLetGo/VirusBroadcast) : Java
   - A java virus broadcast simulation
-- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) : JavaScript
-  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-- [DXY-2019-nCoV-Data](https://github.com/BlankerL/DXY-2019-nCoV-Data) : Python
-  - 2019新型冠状病毒疫情时间序列数据仓库
-- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) : Go
-  - Terraform AWS provider
-- [CMPEDUDownload](https://github.com/Echowxsy/CMPEDUDownload) : Python
-  - 机械工业出版社PDF下载器
-- [amplify-cli](https://github.com/aws-amplify/amplify-cli) : TypeScript
-  - A CLI toolchain for simplifying serverless web and mobile development.
-- [algodeck](https://github.com/teivah/algodeck) : 
-  - An Open-Source Collection of +200 Algorithmic Flash Cards to Help you Preparing your Algorithm & Data Structure Interview 💯
-- [swift-crypto](https://github.com/apple/swift-crypto) : Swift
-  - Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.
-- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) : 
-  - 程序员如何优雅的挣零花钱
-- [Algorithms](https://github.com/williamfiset/Algorithms) : Java
-  - A collection of algorithms and data structures
-- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) : 
-  - A book series on JavaScript. @YDKJS on twitter.
-- [new-pac](https://github.com/Alvin9999/new-pac) : 
-  - 科学/自由上网，免费ss/ssr/v2ray/goflyway账号，搭建教程
-- [Fugu](https://github.com/LinusHenze/Fugu) : C
-  - Fugu is the first open source jailbreak based on the checkm8 exploit
-- [remote-jobs](https://github.com/remoteintech/remote-jobs) : JavaScript
-  - A list of semi to fully remote-friendly companies in tech.
-- [Ai-learn](https://github.com/tangyudi/Ai-learn) : 
-  - 人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理等热门领域
-- [openlayers](https://github.com/openlayers/openlayers) : JavaScript
-  - OpenLayers
-- [trojan](https://github.com/trojan-gfw/trojan) : C++
-  - An unidentifiable mechanism that helps you bypass GFW.
-- [fakelogonscreen](https://github.com/bitsadmin/fakelogonscreen) : C#
-  - Fake Windows logon screen to steal passwords
-- [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) : 
-  - A list of resources for those interested in getting started in bug bounties
-- [material-ui](https://github.com/mui-org/material-ui) : JavaScript
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js) : JavaScript
-  - Microsoft Authentication Library (MSAL) for JS
-- [sm64](https://github.com/n64decomp/sm64) : C
-  - A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
-- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) : Python
-  - Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
-- [broot](https://github.com/Canop/broot) : Rust
-  - A new way to see and navigate directory trees : https://dystroy.org/broot
+- [chyker-foods](https://github.com/OLayemii/chyker-foods) : Dart
+  - A food ordering app built with flutter and firebase
 - [Python](https://github.com/TheAlgorithms/Python) : Python
   - All Algorithms implemented in Python
+- [fiber](https://github.com/gofiber/fiber) : Go
+  - 🚀 Fiber is an Express.js inspired web framework written in Go 🐿️
+- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) : 
+  - 程序员如何优雅的挣零花钱。Most of this not work outside China , so no English translate, sorry
+- [spleeter](https://github.com/deezer/spleeter) : Python
+  - Deezer source separation library including pretrained models.
+- [angular](https://github.com/angular/angular) : TypeScript
+  - One framework. Mobile & desktop.
+- [awesome-dotnet](https://github.com/quozd/awesome-dotnet) : 
+  - A collection of awesome .NET libraries, tools, frameworks and software
+- [Ai-learn](https://github.com/tangyudi/Ai-learn) : 
+  - 人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理等热门领域
+- [shhgit](https://github.com/eth0izzle/shhgit) : Go
+  - Ah shhgit! Find GitHub secrets in real time
+- [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) : Python
+  - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
+- [TypeScript](https://github.com/microsoft/TypeScript) : TypeScript
+  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) : JavaScript
+  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+- [aspnetcore](https://github.com/dotnet/aspnetcore) : C#
+  - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+- [jd-assistant](https://github.com/tychxn/jd-assistant) : Python
+  - 京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能
+- [mml-book.github.io](https://github.com/mml-book/mml-book.github.io) : Jupyter Notebook
+  - Companion webpage to the book "Mathematics For Machine Learning"
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) : Python
+  - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [DAIN](https://github.com/baowenbo/DAIN) : Python
+  - Depth-Aware Video Frame Interpolation (CVPR 2019)
+- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) : 
+  - 📚 免费的计算机编程类中文书籍，欢迎投稿
+- [awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications) : 
+  - Google Cloud Platform Certification resources.
+- [laravel](https://github.com/laravel/laravel) : PHP
+  - A PHP framework for web artisans

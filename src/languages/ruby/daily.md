@@ -1,51 +1,51 @@
 # ruby
-- [faker](https://github.com/faker-ruby/faker)
-  - A library for generating fake data such as names, addresses, and phone numbers.
-- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
-  - Ruby implementation of GraphQL
-- [rails](https://github.com/rails/rails)
-  - Ruby on Rails
-- [shopify_app](https://github.com/Shopify/shopify_app)
-  - A Rails Engine for building Shopify Apps
-- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+- [sonic-pi](https://github.com/samaaron/sonic-pi)
+  - The Live Coding Music Synth for Everyone
+- [ruby](https://github.com/ruby/ruby)
+  - The Ruby Programming Language [mirror]
+- [CurveBall](https://github.com/ollypwn/CurveBall)
+  - PoC for CVE-2020-0601- Windows CryptoAPI (Crypt32.dll)
+- [factory_bot](https://github.com/thoughtbot/factory_bot)
+  - A library for setting up Ruby objects as test data.
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
   - A curated list of awesome awesomeness
-- [asciidoctor](https://github.com/asciidoctor/asciidoctor)
-  - 💎 A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
-- [capybara](https://github.com/teamcapybara/capybara)
-  - Acceptance test framework for web applications
-- [strong_migrations](https://github.com/ankane/strong_migrations)
-  - Catch unsafe migrations in development
-- [concurrent-ruby](https://github.com/ruby-concurrency/concurrent-ruby)
-  - Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
-- [fastlane](https://github.com/fastlane/fastlane)
-  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)
-  - OSCP Exam Report Template in Markdown
-- [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails)
-  - Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
-- [capistrano](https://github.com/capistrano/capistrano)
-  - Remote multi-server automation tool
-- [gitlabhq](https://github.com/gitlabhq/gitlabhq)
-  - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
-- [carrierwave](https://github.com/carrierwaveuploader/carrierwave)
-  - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
-- [webpacker](https://github.com/rails/webpacker)
-  - Use Webpack to manage app-like JavaScript modules in Rails
-- [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch)
-  - Ansible playbook for Elasticsearch
-- [paperclip](https://github.com/thoughtbot/paperclip)
-  - Easy file attachment management for ActiveRecord
-- [ansible-vagrant-examples](https://github.com/geerlingguy/ansible-vagrant-examples)
-  - Ansible examples using Vagrant to deploy to local VMs.
-- [annotate_models](https://github.com/ctran/annotate_models)
-  - Annotate Rails classes with schema and routes info
-- [logstash](https://github.com/elastic/logstash)
-  - Logstash - transport and process your logs, events, or other data
-- [brew](https://github.com/Homebrew/brew)
-  - 🍺 The missing package manager for macOS (or Linux)
-- [puppet-elasticsearch](https://github.com/elastic/puppet-elasticsearch)
-  - Elasticsearch Puppet module
-- [paper_trail](https://github.com/paper-trail-gem/paper_trail)
-  - Track changes to your rails models
+- [faker](https://github.com/faker-ruby/faker)
+  - A library for generating fake data such as names, addresses, and phone numbers.
+- [scientist](https://github.com/github/scientist)
+  - 🔬 A Ruby library for carefully refactoring critical paths.
+- [lobsters](https://github.com/lobsters/lobsters)
+  - Computing-focused community centered around link aggregation and discussion
+- [homebrew-core](https://github.com/Homebrew/homebrew-core)
+  - 🍻 Default formulae for the missing package manager for macOS
+- [diaspora](https://github.com/diaspora/diaspora)
+  - A privacy-aware, distributed, open source social network.
+- [XSpear](https://github.com/hahwul/XSpear)
+  - Powerfull XSS Scanning and Parameter analysis tool&gem
+- [guides](https://github.com/thoughtbot/guides)
+  - A guide for programming in style.
+- [WhatWeb](https://github.com/urbanadventurer/WhatWeb)
+  - Next generation web scanner
+- [linguist](https://github.com/github/linguist)
+  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+- [sql-organizing-bears-lab-austin-web-012720](https://github.com/learn-co-students/sql-organizing-bears-lab-austin-web-012720)
+  - 
+- [programming-univbasics-nds-nds-to-insight-understand-lab-nyc-web-021720](https://github.com/learn-co-students/programming-univbasics-nds-nds-to-insight-understand-lab-nyc-web-021720)
+  - 
+- [oo-meowing-cat-onl01-seng-pt-012220](https://github.com/learn-co-students/oo-meowing-cat-onl01-seng-pt-012220)
+  - 
+- [jekyll](https://github.com/jekyll/jekyll)
+  - 🌐 Jekyll is a blog-aware static site generator in Ruby
+- [sinatra-nested-forms-lab-superheros-online-web-ft-120919](https://github.com/learn-co-students/sinatra-nested-forms-lab-superheros-online-web-ft-120919)
+  - 
+- [brakeman](https://github.com/presidentbeef/brakeman)
+  - A static analysis security vulnerability scanner for Ruby on Rails applications
+- [namespaced-routes-lab-online-web-ft-110419](https://github.com/learn-co-students/namespaced-routes-lab-online-web-ft-110419)
+  - 
+- [programming-univbasics-nds-nds-to-insight-with-methods-nyc-web-021720](https://github.com/learn-co-students/programming-univbasics-nds-nds-to-insight-with-methods-nyc-web-021720)
+  - 
+- [ipaddr-tree.rb](https://github.com/summon/ipaddr-tree.rb)
+  - map IP address space onto a binary tree
+- [displaying-associations-rails-lab-chi01-seng-ft-010620](https://github.com/learn-co-students/displaying-associations-rails-lab-chi01-seng-ft-010620)
+  - 
+- [displaying-associations-rails-chi01-seng-ft-010620](https://github.com/learn-co-students/displaying-associations-rails-chi01-seng-ft-010620)
+  - 

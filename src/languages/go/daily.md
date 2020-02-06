@@ -1,51 +1,51 @@
 # go
-- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
-  - Terraform AWS provider
+- [fiber](https://github.com/gofiber/fiber)
+  - 🚀 Fiber is an Express.js inspired web framework written in Go 🐿️
+- [shhgit](https://github.com/eth0izzle/shhgit)
+  - Ah shhgit! Find GitHub secrets in real time
+- [charts](https://github.com/helm/charts)
+  - Curated applications for Kubernetes
+- [dgraph](https://github.com/dgraph-io/dgraph)
+  - Fast, Distributed Graph DB
+- [prometheus-operator](https://github.com/coreos/prometheus-operator)
+  - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [minio](https://github.com/minio/minio)
   - MinIO is a high performance object storage server compatible with Amazon S3 APIs
-- [lantern](https://github.com/getlantern/lantern)
-  - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 lantern proxy vpn censorship-circumvention censorship gfw accelerator
-- [dep](https://github.com/golang/dep)
-  - Go dependency management tool
-- [helm](https://github.com/helm/helm)
-  - The Kubernetes Package Manager
-- [eksctl](https://github.com/weaveworks/eksctl)
-  - The official CLI for Amazon EKS
-- [datadog-agent](https://github.com/DataDog/datadog-agent)
-  - Datadog Agent
-- [goproxy.cn](https://github.com/goproxy/goproxy.cn)
-  - The most trusted Go module proxy in China.
-- [logrus](https://github.com/sirupsen/logrus)
-  - Structured, pluggable logging for Go.
-- [fabric](https://github.com/hyperledger/fabric)
-  - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
-- [yaml](https://github.com/go-yaml/yaml)
-  - YAML support for the Go language.
-- [certificates](https://github.com/smallstep/certificates)
-  - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
-- [faas](https://github.com/openfaas/faas)
-  - OpenFaaS - Serverless Functions Made Simple
-- [sqlc](https://github.com/kyleconroy/sqlc)
-  - Generate type safe Go from SQL
-- [validator](https://github.com/go-playground/validator)
-  - 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-- [coredns](https://github.com/coredns/coredns)
-  - CoreDNS is a DNS server that chains plugins
+- [rook](https://github.com/rook/rook)
+  - Storage Orchestration for Kubernetes
+- [origin](https://github.com/openshift/origin)
+  - The self-managing, auto-upgrading, Kubernetes distribution for everyone
+- [etcd](https://github.com/etcd-io/etcd)
+  - Distributed reliable key-value store for the most critical data of a distributed system
+- [night-reading-go](https://github.com/developer-learning/night-reading-go)
+  - Night-Reading-Go《Go 夜读》 > Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics. 每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。
+- [deviceplane](https://github.com/deviceplane/deviceplane)
+  - Open source device management for embedded systems and edge computing
+- [badger](https://github.com/dgraph-io/badger)
+  - Fast key-value DB in Go.
 - [gin](https://github.com/gin-gonic/gin)
   - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [vitess](https://github.com/vitessio/vitess)
-  - Vitess is a database clustering system for horizontal scaling of MySQL.
-- [ginkgo](https://github.com/onsi/ginkgo)
-  - BDD Testing Framework for Go
-- [pprof](https://github.com/google/pprof)
-  - pprof is a tool for visualization and analysis of profiling data
-- [fzf](https://github.com/junegunn/fzf)
-  - 🌸 A command-line fuzzy finder
-- [v2ray-core](https://github.com/v2ray/v2ray-core)
-  - A platform for building proxies to bypass network restrictions.
-- [aws-sdk-go](https://github.com/aws/aws-sdk-go)
-  - AWS SDK for the Go programming language.
-- [client-go](https://github.com/kubernetes/client-go)
-  - Go client for Kubernetes.
-- [hugo](https://github.com/gohugoio/hugo)
-  - The world’s fastest framework for building websites.
+- [flamingo](https://github.com/atredispartners/flamingo)
+  - Flamingo captures credentials sprayed across the network by various IT and security products.
+- [rancher](https://github.com/rancher/rancher)
+  - Complete container management platform
+- [go](https://github.com/golang/go)
+  - The Go programming language
+- [gorm](https://github.com/jinzhu/gorm)
+  - The fantastic ORM library for Golang, aims to be developer friendly
+- [enhancements](https://github.com/kubernetes/enhancements)
+  - Features tracking repo for Kubernetes releases
+- [crawlab](https://github.com/crawlab-team/crawlab)
+  - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
+- [mindoc](https://github.com/lifei6671/mindoc)
+  - Golang实现的基于beego框架的接口在线文档管理系统
+- [cortex](https://github.com/cortexlabs/cortex)
+  - Deploy machine learning models in production
+- [sloop](https://github.com/salesforce/sloop)
+  - Kubernetes History Visualization
+- [community](https://github.com/kubernetes/community)
+  - Kubernetes community content
+- [test-infra](https://github.com/kubernetes/test-infra)
+  - Test infrastructure for the Kubernetes project.
+- [kubefed](https://github.com/kubernetes-sigs/kubefed)
+  - Kubernetes Cluster Federation
