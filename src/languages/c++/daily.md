@@ -1,51 +1,51 @@
 # c++
-- [trojan](https://github.com/trojan-gfw/trojan)
-  - An unidentifiable mechanism that helps you bypass GFW.
-- [spdlog](https://github.com/gabime/spdlog)
-  - Fast C++ logging library.
-- [rippled](https://github.com/ripple/rippled)
-  - Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger in C++
-- [proxysql](https://github.com/sysown/proxysql)
-  - High-performance MySQL proxy with a GPL license.
+- [GPCS4](https://github.com/Inori/GPCS4)
+  - A Playstation 4 emulator just begin
 - [EmoCheck](https://github.com/JPCERTCC/EmoCheck)
   - Emotet detection tool for Windows OS
-- [apollo](https://github.com/ApolloAuto/apollo)
-  - An open autonomous driving platform
-- [scylla](https://github.com/scylladb/scylla)
-  - NoSQL data store using the seastar framework, compatible with Apache Cassandra
 - [llvm-project](https://github.com/llvm/llvm-project)
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
-- [Firmware](https://github.com/PX4/Firmware)
-  - PX4 Autopilot Software
-- [Fast-RTPS](https://github.com/eProsima/Fast-RTPS)
-  - The most complete DDS - Proven: Plenty of success cases.
-- [libzmq](https://github.com/zeromq/libzmq)
-  - ZeroMQ core engine in C++, implements ZMTP/3.1
-- [multipass](https://github.com/canonical/multipass)
-  - Multipass orchestrates virtual Ubuntu instances
-- [jsoncpp](https://github.com/open-source-parsers/jsoncpp)
-  - A C++ library for interacting with JSON.
-- [yuzu](https://github.com/yuzu-emu/yuzu)
-  - Nintendo Switch Emulator
+- [openpilot](https://github.com/commaai/openpilot)
+  - open source driving agent
+- [ceph](https://github.com/ceph/ceph)
+  - Ceph is a distributed object, block, and file storage platform
+- [godot](https://github.com/godotengine/godot)
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [asyncplusplus](https://github.com/Amanieu/asyncplusplus)
+  - Async++ concurrency framework for C++11
+- [jfx](https://github.com/openjdk/jfx)
+  - https://openjdk.java.net/projects/openjfx/
+- [mongo](https://github.com/mongodb/mongo)
+  - The MongoDB Database
+- [trojan](https://github.com/trojan-gfw/trojan)
+  - An unidentifiable mechanism that helps you bypass GFW.
+- [vowpal_wabbit](https://github.com/VowpalWabbit/vowpal_wabbit)
+  - Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
 - [thrift](https://github.com/apache/thrift)
   - Apache Thrift
-- [electron](https://github.com/electron/electron)
-  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [ModSecurity](https://github.com/SpiderLabs/ModSecurity)
-  - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
-- [Catch2](https://github.com/catchorg/Catch2)
-  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-- [git-crypt](https://github.com/AGWA/git-crypt)
-  - Transparent file encryption in git
 - [libphonenumber](https://github.com/google/libphonenumber)
   - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
-- [srs](https://github.com/ossrs/srs)
-  - SRS is a live streaming cluster, high efficiency, stable and simple.
-- [TRTCSDK](https://github.com/tencentyun/TRTCSDK)
-  - 腾讯云TRTC音视频服务，国内下载镜像：
-- [node-sass](https://github.com/sass/node-sass)
-  - 🌈 Node.js bindings to libsass
-- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
-  - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
-- [GSL](https://github.com/microsoft/GSL)
-  - Guidelines Support Library
+- [leveldb](https://github.com/google/leveldb)
+  - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+- [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)
+  - A lightweight utility that makes the Windows taskbar translucent/transparent.
+- [cppcheck](https://github.com/danmar/cppcheck)
+  - static analysis of C/C++ code
+- [TabletDriver](https://github.com/hawku/TabletDriver)
+  - TabletDriver Download: http://hwk.fi/TabletDriver/TabletDriverV0.2.3.zip
+- [opencv](https://github.com/opencv/opencv)
+  - Open Source Computer Vision Library
+- [pytorch](https://github.com/pytorch/pytorch)
+  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [imgui](https://github.com/ocornut/imgui)
+  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+- [s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse)
+  - FUSE-based file system backed by Amazon S3
+- [protobuf](https://github.com/protocolbuffers/protobuf)
+  - Protocol Buffers - Google's data interchange format
+- [arrow](https://github.com/apache/arrow)
+  - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…
+- [terminal](https://github.com/microsoft/terminal)
+  - The new Windows Terminal, and the original Windows console host - all in the same place!
+- [cutter](https://github.com/radareorg/cutter)
+  - Free and Open Source Reverse Engineering Platform powered by radare2
