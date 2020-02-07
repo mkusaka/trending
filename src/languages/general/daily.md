@@ -1,51 +1,51 @@
 # general
-- [nCovMemory](https://github.com/2019ncovmemory/nCovMemory) : 
-  - 2020新冠肺炎记忆：传媒报道与非虚构写作（持续更新）
-- [GPCS4](https://github.com/Inori/GPCS4) : C++
-  - A Playstation 4 emulator just begin
-- [DarkModeKit](https://github.com/microsoft/DarkModeKit) : Swift
-  - A library for backporting Dark Mode in iOS
-- [31-days-of-API-Security-Tips](https://github.com/smodnix/31-days-of-API-Security-Tips) : 
-  - This challenge is Inon Shkedy's 31 days API Security Tips.
+- [nCovMemory](https://github.com/2019ncovmemory/nCovMemory) : JavaScript
+  - 2020新冠肺炎记忆：传媒报道与非虚构写作（持续更新）Memory of 2020 nCov: Media Coverage and Non-fiction Writings (Continuously updating)
 - [VirusBroadcast](https://github.com/KikiLetGo/VirusBroadcast) : Java
   - A java virus broadcast simulation
-- [chyker-foods](https://github.com/OLayemii/chyker-foods) : Dart
-  - A food ordering app built with flutter and firebase
+- [pytorch3d](https://github.com/facebookresearch/pytorch3d) : Python
+  - PyTorch3D is FAIR's library of reusable components for deep learning with 3D data
+- [dongbei](https://github.com/zhanyong-wan/dongbei) : Python
+  - 东北方言编程语言
+- [ai-lab](https://github.com/NVAITC/ai-lab) : JavaScript
+  - All-in-one AI container for rapid prototyping
+- [bsc](https://github.com/B-Lang-org/bsc) : Haskell
+  - Bluespec Compiler (BSC)
 - [Python](https://github.com/TheAlgorithms/Python) : Python
   - All Algorithms implemented in Python
-- [fiber](https://github.com/gofiber/fiber) : Go
-  - 🚀 Fiber is an Express.js inspired web framework written in Go 🐿️
-- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) : 
-  - 程序员如何优雅的挣零花钱。Most of this not work outside China , so no English translate, sorry
-- [spleeter](https://github.com/deezer/spleeter) : Python
-  - Deezer source separation library including pretrained models.
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
+  - 🤓 Build your own (insert technology here)
+- [31-days-of-API-Security-Tips](https://github.com/smodnix/31-days-of-API-Security-Tips) : 
+  - This challenge is Inon Shkedy's 31 days API Security Tips.
+- [WhatTheHack](https://github.com/microsoft/WhatTheHack) : HTML
+  - A collection of challenge based hack-a-thons including student guide, proctor guide, lecture presentations, sample/instructional code and templates.
+- [GPCS4](https://github.com/Inori/GPCS4) : C++
+  - A Playstation 4 emulator just begin
+- [SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect) : 
+  - Path to a Software Architect
 - [angular](https://github.com/angular/angular) : TypeScript
   - One framework. Mobile & desktop.
-- [awesome-dotnet](https://github.com/quozd/awesome-dotnet) : 
-  - A collection of awesome .NET libraries, tools, frameworks and software
-- [Ai-learn](https://github.com/tangyudi/Ai-learn) : 
-  - 人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理等热门领域
-- [shhgit](https://github.com/eth0izzle/shhgit) : Go
-  - Ah shhgit! Find GitHub secrets in real time
-- [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) : Python
-  - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
-- [TypeScript](https://github.com/microsoft/TypeScript) : TypeScript
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) : JavaScript
-  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-- [aspnetcore](https://github.com/dotnet/aspnetcore) : C#
-  - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
-- [jd-assistant](https://github.com/tychxn/jd-assistant) : Python
-  - 京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能
-- [mml-book.github.io](https://github.com/mml-book/mml-book.github.io) : Jupyter Notebook
-  - Companion webpage to the book "Mathematics For Machine Learning"
-- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) : Python
-  - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [fiber](https://github.com/gofiber/fiber) : Go
+  - 🚀 Fiber is an Express.js inspired web framework written in Go 🐿️
+- [chyker-foods](https://github.com/OLayemii/chyker-foods) : Dart
+  - A food ordering app built with flutter and firebase
 - [DAIN](https://github.com/baowenbo/DAIN) : Python
   - Depth-Aware Video Frame Interpolation (CVPR 2019)
-- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) : 
-  - 📚 免费的计算机编程类中文书籍，欢迎投稿
-- [awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications) : 
-  - Google Cloud Platform Certification resources.
-- [laravel](https://github.com/laravel/laravel) : PHP
-  - A PHP framework for web artisans
+- [theia](https://github.com/eclipse-theia/theia) : TypeScript
+  - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+- [javascript](https://github.com/airbnb/javascript) : JavaScript
+  - JavaScript Style Guide
+- [tsdx](https://github.com/jaredpalmer/tsdx) : TypeScript
+  - Zero-config CLI for TypeScript package development
+- [create-react-app](https://github.com/facebook/create-react-app) : JavaScript
+  - Set up a modern web app by running one command.
+- [php-src](https://github.com/php/php-src) : C
+  - The PHP Interpreter
+- [yew](https://github.com/yewstack/yew) : Rust
+  - Rust / Wasm framework for building client web apps
+- [vulhub](https://github.com/vulhub/vulhub) : Shell
+  - Pre-Built Vulnerable Environments Based on Docker-Compose
+- [frontend-challenges](https://github.com/felipefialho/frontend-challenges) : 
+  - 💥 Listing some playful open-source's challenges of jobs to test your knowledge
+- [nps](https://github.com/ehang-io/nps) : Go
+  - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.

@@ -1,51 +1,51 @@
 # javascript
-- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
-  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-- [vue](https://github.com/vuejs/vue)
-  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [bootstrap](https://github.com/twbs/bootstrap)
-  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [ai-lab](https://github.com/NVAITC/ai-lab)
+  - All-in-one AI container for rapid prototyping
 - [javascript](https://github.com/airbnb/javascript)
   - JavaScript Style Guide
-- [curso-javascript-ninja](https://github.com/da2k/curso-javascript-ninja)
-  - Curso Javascript Ninja
-- [atom](https://github.com/atom/atom)
-  - The hackable text editor
-- [html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
-  - A professional front-end template for building fast, robust, and adaptable web apps or sites.
+- [create-react-app](https://github.com/facebook/create-react-app)
+  - Set up a modern web app by running one command.
+- [esercizi-di-programmazione-javascript](https://github.com/AlbertoOlla/esercizi-di-programmazione-javascript)
+  - Esercizi di informatica! Impara a programmare, metti alla prova!
 - [js.org](https://github.com/js-org/js.org)
   - Dedicated to JavaScript and its awesome community since 2015
-- [openlayers](https://github.com/openlayers/openlayers)
-  - OpenLayers
-- [materialize](https://github.com/Dogfalo/materialize)
-  - Materialize, a CSS Framework based on Material Design
-- [react-datepicker](https://github.com/Hacker0x01/react-datepicker)
-  - A simple and reusable datepicker component for React
-- [MQTT.js](https://github.com/mqttjs/MQTT.js)
-  - The MQTT client for Node.js and the browser
-- [micro-frontends](https://github.com/neuland/micro-frontends)
-  - extending the microservice paradigms to web development
-- [stackedit](https://github.com/benweet/stackedit)
-  - In-browser Markdown editor
-- [vuejs.org](https://github.com/vuejs/vuejs.org)
-  - 📄 The official documentation site for Vue.js.
-- [design-reviews](https://github.com/w3ctag/design-reviews)
-  - W3C specs and API reviews
-- [Inputmask](https://github.com/RobinHerbots/Inputmask)
-  - Input Mask plugin
-- [grokking_algorithms](https://github.com/egonSchiele/grokking_algorithms)
-  - Code for the book Grokking Algorithms (https://amzn.to/29rVyHf)
 - [next.js](https://github.com/zeit/next.js)
   - The React Framework
-- [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
-  - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-- [discord.js](https://github.com/discordjs/discord.js)
-  - A powerful JavaScript library for interacting with the Discord API
-- [generator-jhipster](https://github.com/jhipster/generator-jhipster)
-  - Open Source application platform for creating Spring Boot + Angular/React projects in seconds!
-- [Ghost](https://github.com/TryGhost/Ghost)
-  - 👻 The #1 headless Node.js CMS for professional publishing
-- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
-  - 🚀🚀🚀A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.
+- [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe)
+  - Converts .py to .exe using a simple graphical interface
+- [workshop-material](https://github.com/peterj/workshop-material)
+  - Material for Kubernetes and Istio workshop https://learnistio.com
+- [LogonTracer](https://github.com/JPCERTCC/LogonTracer)
+  - Investigate malicious Windows logon by visualizing and analyzing Windows event log
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [x-spreadsheet](https://github.com/myliang/x-spreadsheet)
+  - A web-based JavaScript（canvas） spreadsheet
+- [phonegap-app-developer](https://github.com/phonegap/phonegap-app-developer)
+  - PhoneGap Developer App
+- [vue](https://github.com/vuejs/vue)
+  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [gulp](https://github.com/gulpjs/gulp)
+  - The streaming build system
+- [MikuTools](https://github.com/Ice-Hazymoon/MikuTools)
+  - 一个轻量的工具集合
+- [react-static](https://github.com/react-static/react-static)
+  - ⚛️ 🚀 A progressive static site generator for React.
+- [react-redux](https://github.com/reduxjs/react-redux)
+  - Official React bindings for Redux
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [realworld](https://github.com/gothinkster/realworld)
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [react-datepicker](https://github.com/Hacker0x01/react-datepicker)
+  - A simple and reusable datepicker component for React
+- [stripe-payments-demo](https://github.com/stripe/stripe-payments-demo)
+  - Sample store accepting universal payments on the web with Stripe Elements, Payment Request, Apple Pay, Google Pay, Microsoft Pay, and the PaymentIntents API. 💳🌍✨
+- [fastify](https://github.com/fastify/fastify)
+  - Fast and low overhead web framework, for Node.js
+- [web3.js](https://github.com/ethereum/web3.js)
+  - Ethereum JavaScript API
+- [vant](https://github.com/youzan/vant)
+  - Lightweight Mobile UI Components built on Vue
+- [WebGoat](https://github.com/WebGoat/WebGoat)
+  - WebGoat 8.0

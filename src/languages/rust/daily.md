@@ -1,51 +1,51 @@
 # rust
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack)
-  - Easily testable and working Rust codes with blog posts to explain them.
-- [book](https://github.com/rust-lang/book)
-  - The Rust Programming Language
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
-  - Unofficial Bitwarden compatible server written in Rust
-- [examples](https://github.com/actix/examples)
-  - Actix web examples
-- [lucet](https://github.com/bytecodealliance/lucet)
-  - Lucet, the Sandboxing WebAssembly Compiler.
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix web is a small, pragmatic, and extremely fast rust web framework.
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
+- [tikv](https://github.com/tikv/tikv)
+  - Distributed transactional key-value database, originally created to complement TiDB
+- [zz](https://github.com/aep/zz)
+  - 🍺🐙 ZZ (drunk octopus) a rust inspired transpiler and symbolic verifier to bare metal C
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
 - [libc](https://github.com/rust-lang/libc)
   - Raw bindings to platform APIs for Rust
-- [nom](https://github.com/Geal/nom)
-  - Rust parser combinator framework
 - [wrangler](https://github.com/cloudflare/wrangler)
   - 🤠 wrangle your cloudflare workers
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [tokio](https://github.com/tokio-rs/tokio)
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [parity-ethereum](https://github.com/paritytech/parity-ethereum)
+  - The fast, light, and robust EVM and WASM client.
+- [tokenizers](https://github.com/huggingface/tokenizers)
+  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [rust-clippy](https://github.com/rust-lang/rust-clippy)
+  - A bunch of lints to catch common mistakes and improve your Rust code
 - [sled](https://github.com/spacejam/sled)
   - the champagne of beta embedded databases
-- [actix-net](https://github.com/actix/actix-net)
-  - framework for composable networking services
-- [zola](https://github.com/getzola/zola)
-  - A fast static site generator in a single binary with everything built-in.
-- [broot](https://github.com/Canop/broot)
-  - A new way to see and navigate directory trees : https://dystroy.org/broot
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
-- [amethyst](https://github.com/amethyst/amethyst)
-  - Data-oriented and data-driven game engine written in Rust
-- [actix](https://github.com/actix/actix)
-  - Actor framework for Rust
-- [fontfor](https://github.com/7sDream/fontfor)
-  - Find fonts which can show a specified character and preview them in terminal or browser.
-- [talent-plan](https://github.com/pingcap/talent-plan)
-  - PingCAP training courses
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The cross-shell prompt for astronauts
+- [Rocket](https://github.com/SergioBenitez/Rocket)
+  - A web framework for Rust.
+- [book](https://github.com/rust-lang/book)
+  - The Rust Programming Language
+- [rustup](https://github.com/rust-lang/rustup)
+  - The Rust toolchain installer
+- [faux](https://github.com/nrxus/faux)
+  - Traitless Mocking Library for Rust
+- [tokei](https://github.com/XAMPPRocky/tokei)
+  - Count your code, quickly.
+- [kata-containers](https://github.com/kata-containers/kata-containers)
+  - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
+- [svgbob](https://github.com/ivanceras/svgbob)
+  - Convert your ascii diagram scribbles into happy little SVG
+- [artichoke](https://github.com/artichoke/artichoke)
+  - 💎 Artichoke is a Ruby made with Rust
+- [ripgrep-all](https://github.com/phiresky/ripgrep-all)
+  - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
+  - Rust bindings to wgpu native library
 - [genawaiter](https://github.com/whatisaphone/genawaiter)
   - Stackless generators on stable Rust.
-- [rustler](https://github.com/rusterlium/rustler)
-  - Safe Rust bridge for creating Erlang NIF functions
-- [sandspiel](https://github.com/MaxBittker/sandspiel)
-  - Creative cellular automata browser game
+- [lucet](https://github.com/bytecodealliance/lucet)
+  - Lucet, the Sandboxing WebAssembly Compiler.
+- [ytop](https://github.com/cjbassi/ytop)
+  - A TUI system monitor written in Rust

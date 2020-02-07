@@ -1,51 +1,51 @@
 # typescript
 - [angular](https://github.com/angular/angular)
   - One framework. Mobile & desktop.
-- [TypeScript](https://github.com/microsoft/TypeScript)
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [wenyan](https://github.com/wenyan-lang/wenyan)
-  - 文言文編程語言 A programming language for the ancient Chinese.
-- [code-server](https://github.com/cdr/code-server)
-  - Run VS Code on a remote server.
-- [storybook](https://github.com/storybookjs/storybook)
-  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
-- [desktop](https://github.com/desktop/desktop)
-  - Simple collaboration from your desktop
-- [redoc](https://github.com/Redocly/redoc)
-  - 📘 OpenAPI/Swagger-generated API Reference Documentation
-- [etcher](https://github.com/balena-io/etcher)
-  - Flash OS images to SD cards & USB drives, safely and easily.
-- [react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide)
-  - The complete guide to static typing in "React & Redux" apps using TypeScript
+- [theia](https://github.com/eclipse-theia/theia)
+  - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+- [tsdx](https://github.com/jaredpalmer/tsdx)
+  - Zero-config CLI for TypeScript package development
+- [BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
+  - Dialog creation and management for Microsoft Bot Framework Applications
+- [blueprint](https://github.com/palantir/blueprint)
+  - A React-based UI toolkit for the web
 - [react-navigation](https://github.com/react-navigation/react-navigation)
   - Routing and navigation for your React Native apps
-- [reach-ui](https://github.com/reach/reach-ui)
-  - The Accessible Foundation for React Apps and Design Systems
-- [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap)
-  - Angular powered Bootstrap
-- [redux](https://github.com/reduxjs/redux)
-  - Predictable state container for JavaScript apps
-- [frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp)
-  - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
-- [typescript-starter](https://github.com/nestjs/typescript-starter)
-  - Nest framework TypeScript starter ☕️
-- [amplify-cli](https://github.com/aws-amplify/amplify-cli)
-  - A CLI toolchain for simplifying serverless web and mobile development.
-- [vscode-restclient](https://github.com/Huachao/vscode-restclient)
-  - REST Client Extension for Visual Studio Code
-- [nebular](https://github.com/akveo/nebular)
-  - 💥 Customizable Angular UI Library based on Eva Design System 🌚✨Dark Mode
-- [react-use](https://github.com/streamich/react-use)
-  - React Hooks — 👍
-- [got](https://github.com/sindresorhus/got)
-  - 🌐 Human-friendly and powerful HTTP request library for Node.js
-- [rxjs](https://github.com/ReactiveX/rxjs)
-  - A reactive programming library for JavaScript
-- [playroom](https://github.com/seek-oss/playroom)
-  - Design with JSX, powered by your own component library.
-- [material-ui-pickers](https://github.com/mui-org/material-ui-pickers)
-  - Date & Time pickers, built with ❤️ for @material-ui/core
+- [vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples)
+  - Sample code illustrating the VS Code extension API.
 - [clean-code-typescript](https://github.com/labs42io/clean-code-typescript)
   - Clean Code concepts adapted for TypeScript
-- [homebridge-config-ui-x](https://github.com/oznu/homebridge-config-ui-x)
-  - Homebridge Web UI plugin to monitor, manage and control Homebridge from a browser.
+- [Angular-JumpStart](https://github.com/DanWahlin/Angular-JumpStart)
+  - Angular and TypeScript JumpStart example application
+- [ueli](https://github.com/oliverschwendener/ueli)
+  - This is a keystroke launcher for Windows and macOS.
+- [code-settings-sync](https://github.com/shanalikhan/code-settings-sync)
+  - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST 💪🌴
+- [csslayout](https://github.com/phuoc-ng/csslayout)
+  - A collection of popular layouts and patterns made with CSS. Now it has 90+ patterns and continues growing!
+- [bulletproof-nodejs](https://github.com/santiq/bulletproof-nodejs)
+  - Implementation of a bulletproof node.js API 🛡️
+- [vscode-restclient](https://github.com/Huachao/vscode-restclient)
+  - REST Client Extension for Visual Studio Code
+- [etcher](https://github.com/balena-io/etcher)
+  - Flash OS images to SD cards & USB drives, safely and easily.
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+  - The repository for high quality TypeScript type definitions.
+- [platform](https://github.com/ngrx/platform)
+  - Reactive libraries for Angular
+- [vue-next](https://github.com/vuejs/vue-next)
+  - The next major version of Vue (WIP)
+- [examples](https://github.com/pulumi/examples)
+  - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
+- [typescript-library-starter](https://github.com/alexjoverm/typescript-library-starter)
+  - Starter kit with zero-config for building a library in TypeScript, featuring RollupJS, Jest, Prettier, TSLint, Semantic Release, and more!
+- [react-use](https://github.com/streamich/react-use)
+  - React Hooks — 👍
+- [apollo-server](https://github.com/apollographql/apollo-server)
+  - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
+- [jest](https://github.com/facebook/jest)
+  - Delightful JavaScript Testing.
+- [scully](https://github.com/scullyio/scully)
+  - The Static Site Generator for Angular apps
+- [api-management-developer-portal](https://github.com/Azure/api-management-developer-portal)
+  - Azure API Management developer portal.
