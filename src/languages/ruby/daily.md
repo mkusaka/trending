@@ -1,51 +1,51 @@
 # ruby
-- [sonic-pi](https://github.com/samaaron/sonic-pi)
-  - The Live Coding Music Synth for Everyone
-- [ruby](https://github.com/ruby/ruby)
-  - The Ruby Programming Language [mirror]
-- [CurveBall](https://github.com/ollypwn/CurveBall)
-  - PoC for CVE-2020-0601- Windows CryptoAPI (Crypt32.dll)
-- [factory_bot](https://github.com/thoughtbot/factory_bot)
-  - A library for setting up Ruby objects as test data.
-- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-  - A curated list of awesome awesomeness
-- [faker](https://github.com/faker-ruby/faker)
-  - A library for generating fake data such as names, addresses, and phone numbers.
-- [scientist](https://github.com/github/scientist)
-  - 🔬 A Ruby library for carefully refactoring critical paths.
-- [lobsters](https://github.com/lobsters/lobsters)
-  - Computing-focused community centered around link aggregation and discussion
+- [canvas-lms](https://github.com/instructure/canvas-lms)
+  - The open LMS by Instructure, Inc.
+- [dependabot-core](https://github.com/dependabot/dependabot-core)
+  - 🤖The core logic behind Dependabot's update PR creation
+- [rails](https://github.com/rails/rails)
+  - Ruby on Rails
 - [homebrew-core](https://github.com/Homebrew/homebrew-core)
   - 🍻 Default formulae for the missing package manager for macOS
-- [diaspora](https://github.com/diaspora/diaspora)
-  - A privacy-aware, distributed, open source social network.
-- [XSpear](https://github.com/hahwul/XSpear)
-  - Powerfull XSS Scanning and Parameter analysis tool&gem
-- [guides](https://github.com/thoughtbot/guides)
-  - A guide for programming in style.
-- [WhatWeb](https://github.com/urbanadventurer/WhatWeb)
-  - Next generation web scanner
-- [linguist](https://github.com/github/linguist)
-  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-- [sql-organizing-bears-lab-austin-web-012720](https://github.com/learn-co-students/sql-organizing-bears-lab-austin-web-012720)
-  - 
-- [programming-univbasics-nds-nds-to-insight-understand-lab-nyc-web-021720](https://github.com/learn-co-students/programming-univbasics-nds-nds-to-insight-understand-lab-nyc-web-021720)
-  - 
-- [oo-meowing-cat-onl01-seng-pt-012220](https://github.com/learn-co-students/oo-meowing-cat-onl01-seng-pt-012220)
-  - 
+- [mastodon](https://github.com/tootsuite/mastodon)
+  - Your self-hosted, globally interconnected microblogging community
+- [fast_jsonapi](https://github.com/Netflix/fast_jsonapi)
+  - A lightning fast JSON:API serializer for Ruby Objects.
+- [devdocs](https://github.com/freeCodeCamp/devdocs)
+  - API Documentation Browser
+- [evil-winrm](https://github.com/Hackplayers/evil-winrm)
+  - The ultimate WinRM shell for hacking/pentesting
+- [chatwoot](https://github.com/chatwoot/chatwoot)
+  - Simple and elegant live chat software 🔥💬
+- [sequel](https://github.com/jeremyevans/sequel)
+  - Sequel: The Database Toolkit for Ruby
+- [sidekiq](https://github.com/mperham/sidekiq)
+  - Simple, efficient background processing for Ruby
+- [capybara](https://github.com/teamcapybara/capybara)
+  - Acceptance test framework for web applications
 - [jekyll](https://github.com/jekyll/jekyll)
   - 🌐 Jekyll is a blog-aware static site generator in Ruby
-- [sinatra-nested-forms-lab-superheros-online-web-ft-120919](https://github.com/learn-co-students/sinatra-nested-forms-lab-superheros-online-web-ft-120919)
+- [testapp-capybara-webkit](https://github.com/renderedtext/testapp-capybara-webkit)
   - 
-- [brakeman](https://github.com/presidentbeef/brakeman)
-  - A static analysis security vulnerability scanner for Ruby on Rails applications
-- [namespaced-routes-lab-online-web-ft-110419](https://github.com/learn-co-students/namespaced-routes-lab-online-web-ft-110419)
+- [orms-mapping-classes-to-database-tables-lab-austin-web-012720](https://github.com/learn-co-students/orms-mapping-classes-to-database-tables-lab-austin-web-012720)
   - 
-- [programming-univbasics-nds-nds-to-insight-with-methods-nyc-web-021720](https://github.com/learn-co-students/programming-univbasics-nds-nds-to-insight-with-methods-nyc-web-021720)
+- [photogram-queries](https://github.com/appdev-projects/photogram-queries)
   - 
-- [ipaddr-tree.rb](https://github.com/summon/ipaddr-tree.rb)
-  - map IP address space onto a binary tree
-- [displaying-associations-rails-lab-chi01-seng-ft-010620](https://github.com/learn-co-students/displaying-associations-rails-lab-chi01-seng-ft-010620)
+- [sql-organizing-bears-lab-nyc-web-012720](https://github.com/learn-co-students/sql-organizing-bears-lab-nyc-web-012720)
   - 
-- [displaying-associations-rails-chi01-seng-ft-010620](https://github.com/learn-co-students/displaying-associations-rails-chi01-seng-ft-010620)
+- [ruby-advanced-class-methods-lab-onl01-seng-pt-012220](https://github.com/learn-co-students/ruby-advanced-class-methods-lab-onl01-seng-pt-012220)
+  - 
+- [sinatra-ar-crud-lab-online-web-ft-120919](https://github.com/learn-co-students/sinatra-ar-crud-lab-online-web-ft-120919)
+  - 
+- [sinatra-activerecord-setup-online-web-ft-120919](https://github.com/learn-co-students/sinatra-activerecord-setup-online-web-ft-120919)
+  - 
+- [oo-basics-onl01-seng-pt-012120](https://github.com/learn-co-students/oo-basics-onl01-seng-pt-012120)
+  - 
+- [school-domain-onl01-seng-pt-012220](https://github.com/learn-co-students/school-domain-onl01-seng-pt-012220)
+  - 
+- [orms-updating-records-lab-seattle-web-012720](https://github.com/learn-co-students/orms-updating-records-lab-seattle-web-012720)
+  - 
+- [saas-class.org](https://github.com/alexband/saas-class.org)
+  - course assignment
+- [ruby-object-initialize-lab-onl01-seng-pt-012220](https://github.com/learn-co-students/ruby-object-initialize-lab-onl01-seng-pt-012220)
   - 
