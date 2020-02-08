@@ -1,51 +1,51 @@
 # typescript
+- [grafana](https://github.com/grafana/grafana)
+  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [hiplot](https://github.com/facebookresearch/hiplot)
+  - HiPlot makes understanding high dimensional data easy
 - [angular](https://github.com/angular/angular)
   - One framework. Mobile & desktop.
-- [theia](https://github.com/eclipse-theia/theia)
-  - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [tsdx](https://github.com/jaredpalmer/tsdx)
-  - Zero-config CLI for TypeScript package development
-- [BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
-  - Dialog creation and management for Microsoft Bot Framework Applications
-- [blueprint](https://github.com/palantir/blueprint)
-  - A React-based UI toolkit for the web
-- [react-navigation](https://github.com/react-navigation/react-navigation)
-  - Routing and navigation for your React Native apps
-- [vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples)
-  - Sample code illustrating the VS Code extension API.
-- [clean-code-typescript](https://github.com/labs42io/clean-code-typescript)
-  - Clean Code concepts adapted for TypeScript
-- [Angular-JumpStart](https://github.com/DanWahlin/Angular-JumpStart)
-  - Angular and TypeScript JumpStart example application
-- [ueli](https://github.com/oliverschwendener/ueli)
-  - This is a keystroke launcher for Windows and macOS.
-- [code-settings-sync](https://github.com/shanalikhan/code-settings-sync)
-  - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST 💪🌴
-- [csslayout](https://github.com/phuoc-ng/csslayout)
-  - A collection of popular layouts and patterns made with CSS. Now it has 90+ patterns and continues growing!
-- [bulletproof-nodejs](https://github.com/santiq/bulletproof-nodejs)
-  - Implementation of a bulletproof node.js API 🛡️
-- [vscode-restclient](https://github.com/Huachao/vscode-restclient)
-  - REST Client Extension for Visual Studio Code
-- [etcher](https://github.com/balena-io/etcher)
-  - Flash OS images to SD cards & USB drives, safely and easily.
-- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-  - The repository for high quality TypeScript type definitions.
-- [platform](https://github.com/ngrx/platform)
-  - Reactive libraries for Angular
-- [vue-next](https://github.com/vuejs/vue-next)
-  - The next major version of Vue (WIP)
-- [examples](https://github.com/pulumi/examples)
-  - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
-- [typescript-library-starter](https://github.com/alexjoverm/typescript-library-starter)
-  - Starter kit with zero-config for building a library in TypeScript, featuring RollupJS, Jest, Prettier, TSLint, Semantic Release, and more!
-- [react-use](https://github.com/streamich/react-use)
-  - React Hooks — 👍
-- [apollo-server](https://github.com/apollographql/apollo-server)
-  - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
-- [jest](https://github.com/facebook/jest)
-  - Delightful JavaScript Testing.
 - [scully](https://github.com/scullyio/scully)
   - The Static Site Generator for Angular apps
-- [api-management-developer-portal](https://github.com/Azure/api-management-developer-portal)
-  - Azure API Management developer portal.
+- [csslayout](https://github.com/phuoc-ng/csslayout)
+  - A collection of popular layouts and patterns made with CSS. Now it has 90+ patterns and continues growing!
+- [tsdx](https://github.com/jaredpalmer/tsdx)
+  - Zero-config CLI for TypeScript package development
+- [kutt](https://github.com/thedevs-network/kutt)
+  - Free Modern URL Shortener.
+- [blueprint](https://github.com/palantir/blueprint)
+  - A React-based UI toolkit for the web
+- [yap](https://github.com/youngapp/yap)
+  - Open source GraphQL API Gateway for serverless application. Less code, safer API.
+- [vendure](https://github.com/vendure-ecommerce/vendure)
+  - A headless GraphQL ecommerce framework for the modern web
+- [vscode](https://github.com/microsoft/vscode)
+  - Visual Studio Code
+- [amplify-js](https://github.com/aws-amplify/amplify-js)
+  - A declarative JavaScript library for application development using cloud services.
+- [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
+  - Tasks for Azure Pipelines
+- [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+  - ✨ Monorepo for all the tooling which enables ESLint to support TypeScript
+- [typeorm](https://github.com/typeorm/typeorm)
+  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+- [capacitor](https://github.com/ionic-team/capacitor)
+  - Build cross-platform Native Progressive Web Apps for iOS, Android, and the web ⚡️
+- [kittenTricks](https://github.com/akveo/kittenTricks)
+  - React Native starter kit with over 40 screens and modern Light and Dark theme for creating stunning cross-platform mobile applications.
+- [electron-builder](https://github.com/electron-userland/electron-builder)
+  - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+- [angularfire](https://github.com/angular/angularfire)
+  - The official Angular library for Firebase.
+- [Babylon.js](https://github.com/BabylonJS/Babylon.js)
+  - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
+- [outline-client](https://github.com/Jigsaw-Code/outline-client)
+  - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
+- [sweetalert](https://github.com/t4t5/sweetalert)
+  - A beautiful replacement for JavaScript's "alert"
+- [got](https://github.com/sindresorhus/got)
+  - 🌐 Human-friendly and powerful HTTP request library for Node.js
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+  - The repository for high quality TypeScript type definitions.
+- [react-admin](https://github.com/marmelab/react-admin)
+  - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design

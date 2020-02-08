@@ -1,51 +1,51 @@
 # javascript
-- [ai-lab](https://github.com/NVAITC/ai-lab)
-  - All-in-one AI container for rapid prototyping
+- [nCovMemory](https://github.com/2019ncovmemory/nCovMemory)
+  - 2020新冠肺炎记忆：传媒报道与非虚构写作（持续更新）Memory of 2020 nCov: Media Coverage and Non-fiction Writings (Continuously updating)
+- [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
+  - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
 - [javascript](https://github.com/airbnb/javascript)
   - JavaScript Style Guide
-- [create-react-app](https://github.com/facebook/create-react-app)
-  - Set up a modern web app by running one command.
-- [esercizi-di-programmazione-javascript](https://github.com/AlbertoOlla/esercizi-di-programmazione-javascript)
-  - Esercizi di informatica! Impara a programmare, metti alla prova!
-- [js.org](https://github.com/js-org/js.org)
-  - Dedicated to JavaScript and its awesome community since 2015
-- [next.js](https://github.com/zeit/next.js)
-  - The React Framework
-- [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe)
-  - Converts .py to .exe using a simple graphical interface
-- [workshop-material](https://github.com/peterj/workshop-material)
-  - Material for Kubernetes and Istio workshop https://learnistio.com
-- [LogonTracer](https://github.com/JPCERTCC/LogonTracer)
-  - Investigate malicious Windows logon by visualizing and analyzing Windows event log
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [x-spreadsheet](https://github.com/myliang/x-spreadsheet)
-  - A web-based JavaScript（canvas） spreadsheet
-- [phonegap-app-developer](https://github.com/phonegap/phonegap-app-developer)
-  - PhoneGap Developer App
-- [vue](https://github.com/vuejs/vue)
-  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [gulp](https://github.com/gulpjs/gulp)
-  - The streaming build system
-- [MikuTools](https://github.com/Ice-Hazymoon/MikuTools)
-  - 一个轻量的工具集合
-- [react-static](https://github.com/react-static/react-static)
-  - ⚛️ 🚀 A progressive static site generator for React.
-- [react-redux](https://github.com/reduxjs/react-redux)
-  - Official React bindings for Redux
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-  - 🛁 Clean Code concepts adapted for JavaScript
 - [realworld](https://github.com/gothinkster/realworld)
   - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [react-datepicker](https://github.com/Hacker0x01/react-datepicker)
-  - A simple and reusable datepicker component for React
-- [stripe-payments-demo](https://github.com/stripe/stripe-payments-demo)
-  - Sample store accepting universal payments on the web with Stripe Elements, Payment Request, Apple Pay, Google Pay, Microsoft Pay, and the PaymentIntents API. 💳🌍✨
-- [fastify](https://github.com/fastify/fastify)
-  - Fast and low overhead web framework, for Node.js
-- [web3.js](https://github.com/ethereum/web3.js)
-  - Ethereum JavaScript API
-- [vant](https://github.com/youzan/vant)
-  - Lightweight Mobile UI Components built on Vue
-- [WebGoat](https://github.com/WebGoat/WebGoat)
-  - WebGoat 8.0
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [svelte](https://github.com/sveltejs/svelte)
+  - Cybernetically enhanced web apps
+- [markdown-here](https://github.com/adam-p/markdown-here)
+  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+- [next.js](https://github.com/zeit/next.js)
+  - The React Framework
+- [cypress](https://github.com/cypress-io/cypress)
+  - Fast, easy and reliable testing for anything that runs in a browser.
+- [react-router](https://github.com/ReactTraining/react-router)
+  - Declarative routing for React
+- [pdf.js](https://github.com/mozilla/pdf.js)
+  - PDF Reader in JavaScript
+- [fanqiang](https://github.com/bannedbook/fanqiang)
+  - 翻墙-科学上网
+- [51zhy_pdf](https://github.com/shylocks/51zhy_pdf)
+  - 电子工业出版社“悦读”PDF下载
+- [CyberChef](https://github.com/gchq/CyberChef)
+  - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+- [edex-ui](https://github.com/GitSquared/edex-ui)
+  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+- [shields](https://github.com/badges/shields)
+  - Concise, consistent, and legible badges in SVG and raster format
+- [opensource.guide](https://github.com/github/opensource.guide)
+  - 📚 Community guides for open source creators
+- [x-spreadsheet](https://github.com/myliang/x-spreadsheet)
+  - A web-based JavaScript（canvas） spreadsheet
+- [Script](https://github.com/NobyDa/Script)
+  - This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.
+- [mask-static](https://github.com/PDIS/mask-static)
+  - 健保藥局哪裡有？口罩數量剩多少？
+- [winston](https://github.com/winstonjs/winston)
+  - A logger for just about everything.
+- [sapper-template](https://github.com/sveltejs/sapper-template)
+  - Starter template for Sapper apps
+- [cookieconsent](https://github.com/osano/cookieconsent)
+  - A free solution to the EU, GDPR, and California Cookie Laws
+- [graphql-engine](https://github.com/hasura/graphql-engine)
+  - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+- [You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
+  - List of functions which you can use to replace moment.js + ESLint Plugin
