@@ -1,51 +1,51 @@
 # rust
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
-- [tikv](https://github.com/tikv/tikv)
-  - Distributed transactional key-value database, originally created to complement TiDB
-- [zz](https://github.com/aep/zz)
-  - 🍺🐙 ZZ (drunk octopus) a rust inspired transpiler and symbolic verifier to bare metal C
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-  - A curated list of Rust code and resources.
-- [libc](https://github.com/rust-lang/libc)
-  - Raw bindings to platform APIs for Rust
-- [wrangler](https://github.com/cloudflare/wrangler)
-  - 🤠 wrangle your cloudflare workers
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [parity-ethereum](https://github.com/paritytech/parity-ethereum)
-  - The fast, light, and robust EVM and WASM client.
-- [tokenizers](https://github.com/huggingface/tokenizers)
-  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
-- [rust-clippy](https://github.com/rust-lang/rust-clippy)
-  - A bunch of lints to catch common mistakes and improve your Rust code
+- [996.ICU](https://github.com/996icu/996.ICU)
+  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [sled](https://github.com/spacejam/sled)
   - the champagne of beta embedded databases
-- [Rocket](https://github.com/SergioBenitez/Rocket)
-  - A web framework for Rust.
+- [Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack)
+  - Easily testable and working Rust codes with blog posts to explain them.
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
+- [makepad](https://github.com/makepad/makepad)
+  - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
+- [rusty_v8](https://github.com/denoland/rusty_v8)
+  - V8 javascript bindings for Rust
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
+- [rio](https://github.com/spacejam/rio)
+  - pure rust io_uring library, built on libc, thread & async friendly, misuse resistant
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
+- [warp](https://github.com/seanmonstar/warp)
+  - A super-easy, composable, web server framework for warp speeds.
+- [diesel](https://github.com/diesel-rs/diesel)
+  - A safe, extensible ORM and Query Builder for Rust
 - [book](https://github.com/rust-lang/book)
   - The Rust Programming Language
-- [rustup](https://github.com/rust-lang/rustup)
-  - The Rust toolchain installer
-- [faux](https://github.com/nrxus/faux)
-  - Traitless Mocking Library for Rust
-- [tokei](https://github.com/XAMPPRocky/tokei)
-  - Count your code, quickly.
-- [kata-containers](https://github.com/kata-containers/kata-containers)
-  - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
-- [svgbob](https://github.com/ivanceras/svgbob)
-  - Convert your ascii diagram scribbles into happy little SVG
+- [rustlings](https://github.com/rust-lang/rustlings)
+  - Small exercises to get you used to reading and writing Rust code!
+- [tide](https://github.com/http-rs/tide)
+  - Serve the web – HTTP server framework
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [tikv](https://github.com/tikv/tikv)
+  - Distributed transactional key-value database, originally created to complement TiDB
+- [spotifyd](https://github.com/Spotifyd/spotifyd)
+  - A spotify daemon
+- [sandspiel](https://github.com/MaxBittker/sandspiel)
+  - Creative cellular automata browser game
+- [cargo](https://github.com/rust-lang/cargo)
+  - The Rust package manager
+- [team](https://github.com/rust-lang/team)
+  - Rust teams structure
 - [artichoke](https://github.com/artichoke/artichoke)
   - 💎 Artichoke is a Ruby made with Rust
-- [ripgrep-all](https://github.com/phiresky/ripgrep-all)
-  - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
-- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
-  - Rust bindings to wgpu native library
-- [genawaiter](https://github.com/whatisaphone/genawaiter)
-  - Stackless generators on stable Rust.
-- [lucet](https://github.com/bytecodealliance/lucet)
-  - Lucet, the Sandboxing WebAssembly Compiler.
-- [ytop](https://github.com/cjbassi/ytop)
-  - A TUI system monitor written in Rust
+- [cargo-deny](https://github.com/EmbarkStudios/cargo-deny)
+  - ❌ Cargo plugin for linting your dependencies 🦀
+- [faux](https://github.com/nrxus/faux)
+  - Traitless Mocking Library for Rust
+- [hashbag](https://github.com/jonhoo/hashbag)
+  - An unordered multiset/bag implementation backed by HashMap
+- [pastel](https://github.com/sharkdp/pastel)
+  - A command-line tool to generate, analyze, convert and manipulate colors

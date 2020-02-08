@@ -1,51 +1,51 @@
 # c++
 - [GPCS4](https://github.com/Inori/GPCS4)
   - A Playstation 4 emulator just begin
-- [notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)
-  - Notepad++ official repository
-- [Raze](https://github.com/coelckers/Raze)
-  - Build engine port backed by GZDoom tech
-- [kaolin](https://github.com/NVIDIAGameWorks/kaolin)
-  - A PyTorch Library for Accelerating 3D Deep Learning Research
-- [opencv_contrib](https://github.com/opencv/opencv_contrib)
-  - Repository for OpenCV's extra modules
-- [dfhack](https://github.com/DFHack/dfhack)
-  - Memory hacking library for Dwarf Fortress and a set of tools that use it
-- [The-Forge](https://github.com/ConfettiFX/The-Forge)
-  - The Forge Cross-Platform Rendering Framework PC, Linux, Ray Tracing, macOS / iOS, Android, XBOX, PS4, Switch, Stadia
-- [cppcheck](https://github.com/danmar/cppcheck)
-  - static analysis of C/C++ code
-- [3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
-  - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
+- [swift](https://github.com/apple/swift)
+  - The Swift Programming Language
+- [bitcoin](https://github.com/bitcoin/bitcoin)
+  - Bitcoin Core integration/staging tree
+- [espurna](https://github.com/xoseperez/espurna)
+  - Home automation firmware for ESP8266-based devices
+- [PowerToys](https://github.com/microsoft/PowerToys)
+  - Windows system utilities to maximize productivity
+- [seastar](https://github.com/scylladb/seastar)
+  - High performance server-side application framework
+- [cgal](https://github.com/CGAL/cgal)
+  - The public CGAL repository, see the README below
 - [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
   - All Algorithms implemented in C++
-- [arcore-android-sdk](https://github.com/google-ar/arcore-android-sdk)
-  - ARCore SDK for Android Studio
+- [lmms](https://github.com/LMMS/lmms)
+  - Cross-platform music production software
+- [synergy-core](https://github.com/symless/synergy-core)
+  - Open source core of Synergy, the keyboard and mouse sharing tool
+- [rocksdb](https://github.com/facebook/rocksdb)
+  - A library that provides an embeddable, persistent key-value store for fast storage.
+- [kaolin](https://github.com/NVIDIAGameWorks/kaolin)
+  - A PyTorch Library for Accelerating 3D Deep Learning Research
+- [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)
+  - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects
+- [3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
+  - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
+- [Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows)
+  - An installation and update framework for Windows desktop apps
+- [dxvk](https://github.com/doitsujin/dxvk)
+  - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
+- [DeepSpeech](https://github.com/mozilla/DeepSpeech)
+  - A TensorFlow implementation of Baidu's DeepSpeech architecture
+- [taichi_mpm](https://github.com/yuanming-hu/taichi_mpm)
+  - High-performance material point method (MPM) solver. (ACM Transactions on Graphics, SIGGRAPH 2018)
+- [MNN](https://github.com/alibaba/MNN)
+  - MNN is a lightweight deep neural network inference engine.
+- [srs](https://github.com/ossrs/srs)
+  - SRS is a live streaming cluster, high efficiency, stable and simple.
+- [SketchSynth-Simple](https://github.com/jeonghopark/SketchSynth-Simple)
+  - 
+- [osquery](https://github.com/osquery/osquery)
+  - SQL powered operating system instrumentation, monitoring, and analytics.
 - [trojan](https://github.com/trojan-gfw/trojan)
   - An unidentifiable mechanism that helps you bypass GFW.
-- [tinyxml2](https://github.com/leethomason/tinyxml2)
-  - TinyXML2 is a simple, small, efficient, C++ XML parser that can be easily integrated into other programs.
-- [electron](https://github.com/electron/electron)
-  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [tigervnc](https://github.com/TigerVNC/tigervnc)
-  - High performance, multi-platform VNC client and server
-- [nodegui](https://github.com/nodegui/nodegui)
-  - A library for building cross-platform native desktop applications with Node.js and CSS 🚀. For React NodeGui, visit: https://github.com/nodegui/react-nodegui ⚛️
-- [emscripten](https://github.com/emscripten-core/emscripten)
-  - Emscripten: An LLVM-to-Web Compiler
-- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
-  - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
-- [arrow](https://github.com/apache/arrow)
-  - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…
-- [protobuf](https://github.com/protocolbuffers/protobuf)
-  - Protocol Buffers - Google's data interchange format
-- [loguru](https://github.com/emilk/loguru)
-  - A lightweight C++ logging library
-- [Firmware](https://github.com/PX4/Firmware)
-  - PX4 Autopilot Software
-- [newton-dynamics](https://github.com/MADEAPPS/newton-dynamics)
-  - Newton Dynamics is an integrated solution for real time simulation of physics environments.
-- [turicreate](https://github.com/apple/turicreate)
-  - Turi Create simplifies the development of custom machine learning models.
-- [llvm-project](https://github.com/llvm/llvm-project)
-  - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
+- [grpc](https://github.com/grpc/grpc)
+  - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [annoy](https://github.com/spotify/annoy)
+  - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk

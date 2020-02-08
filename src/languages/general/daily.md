@@ -1,51 +1,51 @@
 # general
-- [nCovMemory](https://github.com/2019ncovmemory/nCovMemory) : JavaScript
-  - 2020新冠肺炎记忆：传媒报道与非虚构写作（持续更新）Memory of 2020 nCov: Media Coverage and Non-fiction Writings (Continuously updating)
-- [VirusBroadcast](https://github.com/KikiLetGo/VirusBroadcast) : Java
-  - A java virus broadcast simulation
 - [pytorch3d](https://github.com/facebookresearch/pytorch3d) : Python
   - PyTorch3D is FAIR's library of reusable components for deep learning with 3D data
-- [dongbei](https://github.com/zhanyong-wan/dongbei) : Python
-  - 东北方言编程语言
-- [ai-lab](https://github.com/NVAITC/ai-lab) : JavaScript
-  - All-in-one AI container for rapid prototyping
-- [bsc](https://github.com/B-Lang-org/bsc) : Haskell
-  - Bluespec Compiler (BSC)
-- [Python](https://github.com/TheAlgorithms/Python) : Python
-  - All Algorithms implemented in Python
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
-  - 🤓 Build your own (insert technology here)
-- [31-days-of-API-Security-Tips](https://github.com/smodnix/31-days-of-API-Security-Tips) : 
-  - This challenge is Inon Shkedy's 31 days API Security Tips.
-- [WhatTheHack](https://github.com/microsoft/WhatTheHack) : HTML
-  - A collection of challenge based hack-a-thons including student guide, proctor guide, lecture presentations, sample/instructional code and templates.
-- [GPCS4](https://github.com/Inori/GPCS4) : C++
-  - A Playstation 4 emulator just begin
-- [SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect) : 
-  - Path to a Software Architect
-- [angular](https://github.com/angular/angular) : TypeScript
-  - One framework. Mobile & desktop.
+- [SysmonCommunityGuide](https://github.com/trustedsec/SysmonCommunityGuide) : CSS
+  - TrustedSec Sysinternals Sysmon Community Guide
+- [zincbase](https://github.com/complexdb/zincbase) : Python
+  - A state of the art knowledge base
+- [nCovMemory](https://github.com/2019ncovmemory/nCovMemory) : Vue
+  - 2020新冠肺炎记忆：传媒报道与非虚构写作（持续更新）Memory of 2020 nCov: Media Coverage and Non-fiction Writings (Continuously updating)
 - [fiber](https://github.com/gofiber/fiber) : Go
-  - 🚀 Fiber is an Express.js inspired web framework written in Go 🐿️
-- [chyker-foods](https://github.com/OLayemii/chyker-foods) : Dart
-  - A food ordering app built with flutter and firebase
-- [DAIN](https://github.com/baowenbo/DAIN) : Python
-  - Depth-Aware Video Frame Interpolation (CVPR 2019)
-- [theia](https://github.com/eclipse-theia/theia) : TypeScript
-  - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [javascript](https://github.com/airbnb/javascript) : JavaScript
-  - JavaScript Style Guide
-- [tsdx](https://github.com/jaredpalmer/tsdx) : TypeScript
-  - Zero-config CLI for TypeScript package development
-- [create-react-app](https://github.com/facebook/create-react-app) : JavaScript
-  - Set up a modern web app by running one command.
-- [php-src](https://github.com/php/php-src) : C
-  - The PHP Interpreter
-- [yew](https://github.com/yewstack/yew) : Rust
-  - Rust / Wasm framework for building client web apps
-- [vulhub](https://github.com/vulhub/vulhub) : Shell
-  - Pre-Built Vulnerable Environments Based on Docker-Compose
+  - 🚀 Fiber is an Express.js inspired web framework written in Go with 💖
 - [frontend-challenges](https://github.com/felipefialho/frontend-challenges) : 
   - 💥 Listing some playful open-source's challenges of jobs to test your knowledge
-- [nps](https://github.com/ehang-io/nps) : Go
-  - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
+- [binwalk](https://github.com/ReFirmLabs/binwalk) : Python
+  - Firmware Analysis Tool
+- [Ai-learn](https://github.com/tangyudi/Ai-learn) : 
+  - 人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理等热门领域
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
+  - 🤓 Build your own (insert technology here)
+- [GPCS4](https://github.com/Inori/GPCS4) : C++
+  - A Playstation 4 emulator just begin
+- [pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) : Python
+  - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
+- [cortex](https://github.com/cortexlabs/cortex) : Go
+  - Deploy machine learning models in production
+- [jdBuyMask](https://github.com/cycz/jdBuyMask) : Python
+  - 京东监控口罩有货爬虫，自动下单爬虫，口罩爬虫
+- [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) : JavaScript
+  - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
+- [Python](https://github.com/TheAlgorithms/Python) : Python
+  - All Algorithms implemented in Python
+- [grafana](https://github.com/grafana/grafana) : TypeScript
+  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [996.ICU](https://github.com/996icu/996.ICU) : Rust
+  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [javascript](https://github.com/airbnb/javascript) : JavaScript
+  - JavaScript Style Guide
+- [CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) : C#
+  - Clean Architecture Solution Template for Angular 8 and .NET Core 3.1
+- [WhatTheHack](https://github.com/microsoft/WhatTheHack) : HTML
+  - A collection of challenge based hack-a-thons including student guide, proctor guide, lecture presentations, sample/instructional code and templates.
+- [realworld](https://github.com/gothinkster/realworld) : JavaScript
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [tlroadmap](https://github.com/tlbootcamp/tlroadmap) : Python
+  - 👩🏼‍💻👨🏻‍💻Карта навыков и модель развития тимлидов
+- [aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) : C#
+  - ASP.NET Boilerplate - Web Application Framework
+- [runtime](https://github.com/dotnet/runtime) : C#
+  - .NET is a cross-platform runtime for cloud, IoT, and desktop apps.
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
