@@ -1,51 +1,51 @@
 # ruby
-- [sonic-pi](https://github.com/samaaron/sonic-pi)
-  - The Live Coding Music Synth for Everyone
-- [guides](https://github.com/thoughtbot/guides)
-  - A guide for programming in style.
-- [homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
-  - 🖋 Casks of Ｆ🅾𝓝𝐓𝚂
-- [markup](https://github.com/github/markup)
-  - Determines which markup library to use to render a content file (e.g. README) on GitHub
-- [jekyll](https://github.com/jekyll/jekyll)
-  - 🌐 Jekyll is a blog-aware static site generator in Ruby
-- [devise](https://github.com/heartcombo/devise)
-  - Flexible authentication solution for Rails with Warden.
-- [ruby](https://github.com/ruby/ruby)
-  - The Ruby Programming Language [mirror]
+- [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
+  - A curated list of engineering blogs
+- [liquid](https://github.com/Shopify/liquid)
+  - Liquid markup language. Safe, customer facing template language for flexible web apps.
+- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+- [setup](https://github.com/lewagon/setup)
+  - Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp
+- [mastodon](https://github.com/tootsuite/mastodon)
+  - Your self-hosted, globally interconnected microblogging community
+- [dev.to](https://github.com/thepracticaldev/dev.to)
+  - Where programmers share ideas and help each other grow
 - [discourse](https://github.com/discourse/discourse)
   - A platform for community discussion. Free, open, simple.
-- [cmsc330spring20](https://github.com/anwarmamat/cmsc330spring20)
+- [jekyll](https://github.com/jekyll/jekyll)
+  - 🌐 Jekyll is a blog-aware static site generator in Ruby
+- [faker](https://github.com/faker-ruby/faker)
+  - A library for generating fake data such as names, addresses, and phone numbers.
+- [openproject](https://github.com/opf/openproject)
+  - OpenProject is the leading open source project management software.
+- [rps-challenge](https://github.com/makersacademy/rps-challenge)
+  - Create the Rock Paper Scissors Game
+- [hello-world-ruby-bootcamp-prep-000](https://github.com/learn-co-students/hello-world-ruby-bootcamp-prep-000)
   - 
-- [fluentd](https://github.com/fluent/fluentd)
-  - Fluentd: Unified Logging Layer (project under CNCF)
-- [bundler](https://github.com/rubygems/bundler)
-  - Manage your Ruby application's gem dependencies
-- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
-  - Ruby implementation of GraphQL
-- [WhatWeb](https://github.com/urbanadventurer/WhatWeb)
-  - Next generation web scanner
-- [choosealicense.com](https://github.com/github/choosealicense.com)
-  - A site to provide non-judgmental guidance on choosing a license for your open source project
-- [linguist](https://github.com/github/linguist)
-  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-- [activerecord-crud-houston-web-012720](https://github.com/learn-co-students/activerecord-crud-houston-web-012720)
+- [petri_flow](https://github.com/hooopo/petri_flow)
+  - Petri Net Workflow Engine for Ruby.
+- [ttt-3-display_board-example-ruby-intro-000](https://github.com/learn-co-students/ttt-3-display_board-example-ruby-intro-000)
   - 
-- [bootstrap-datepicker](https://github.com/rogozin/bootstrap-datepicker)
-  - Twitter bootstrap datepicker component for Rails 3.1
-- [active-record-migrations-seattle-web-012720](https://github.com/learn-co-students/active-record-migrations-seattle-web-012720)
+- [ruby-lecture-reading-error-messages-bootcamp-prep-000](https://github.com/learn-co-students/ruby-lecture-reading-error-messages-bootcamp-prep-000)
   - 
-- [sinatra-activerecord-associations-online-web-ft-120919](https://github.com/learn-co-students/sinatra-activerecord-associations-online-web-ft-120919)
+- [programming-univbasics-nds-green-grocer-nyc-web-021720](https://github.com/learn-co-students/programming-univbasics-nds-green-grocer-nyc-web-021720)
   - 
-- [sinatra-activerecord-using-tux-online-web-ft-120919](https://github.com/learn-co-students/sinatra-activerecord-using-tux-online-web-ft-120919)
+- [active-record-intro-to-rake-nyc-web-012720](https://github.com/learn-co-students/active-record-intro-to-rake-nyc-web-012720)
   - 
-- [active-record-translating-from-orm-to-ar-seattle-web-012720](https://github.com/learn-co-students/active-record-translating-from-orm-to-ar-seattle-web-012720)
+- [activeadmin](https://github.com/activeadmin/activeadmin)
+  - The administration framework for Ruby on Rails applications.
+- [method-arguments-lab-onl01-seng-pt-012220](https://github.com/learn-co-students/method-arguments-lab-onl01-seng-pt-012220)
   - 
-- [truffleruby](https://github.com/oracle/truffleruby)
-  - A high performance implementation of the Ruby programming language. Built on the GraalVM by Oracle Labs.
+- [brew](https://github.com/Homebrew/brew)
+  - 🍺 The missing package manager for macOS (or Linux)
+- [library-challenge](https://github.com/CraftAcademy/library-challenge)
+  - Week 1 Ruby challenge
 - [ruby-oo-inheritance-modules-nyc-web-012720](https://github.com/learn-co-students/ruby-oo-inheritance-modules-nyc-web-012720)
   - 
-- [chef](https://github.com/chef/chef)
-  - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
-- [yeg-rubyists](https://github.com/MathieuGilbert/yeg-rubyists)
+- [ruby-oo-inheritance-defining-inheritance-nyc-web-012720](https://github.com/learn-co-students/ruby-oo-inheritance-defining-inheritance-nyc-web-012720)
+  - 
+- [bullet](https://github.com/flyerhzm/bullet)
+  - help to kill N+1 queries and unused eager loading
+- [crud-with-validations-lab-online-web-pt-090919](https://github.com/learn-co-students/crud-with-validations-lab-online-web-pt-090919)
   - 
