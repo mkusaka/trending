@@ -1,51 +1,51 @@
 # javascript
-- [nCovMemory](https://github.com/2019ncovmemory/nCovMemory)
-  - 2020新冠肺炎记忆：传媒报道与非虚构写作（持续更新）Memory of 2020 nCov: Media Coverage and Non-fiction Writings (Continuously updating)
-- [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
-  - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
-- [javascript](https://github.com/airbnb/javascript)
-  - JavaScript Style Guide
-- [realworld](https://github.com/gothinkster/realworld)
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
   - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [svelte](https://github.com/sveltejs/svelte)
-  - Cybernetically enhanced web apps
-- [markdown-here](https://github.com/adam-p/markdown-here)
-  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
-- [next.js](https://github.com/zeit/next.js)
-  - The React Framework
-- [cypress](https://github.com/cypress-io/cypress)
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [react-router](https://github.com/ReactTraining/react-router)
-  - Declarative routing for React
-- [pdf.js](https://github.com/mozilla/pdf.js)
-  - PDF Reader in JavaScript
-- [fanqiang](https://github.com/bannedbook/fanqiang)
-  - 翻墙-科学上网
-- [51zhy_pdf](https://github.com/shylocks/51zhy_pdf)
-  - 电子工业出版社“悦读”PDF下载
-- [CyberChef](https://github.com/gchq/CyberChef)
-  - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-- [edex-ui](https://github.com/GitSquared/edex-ui)
-  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [shields](https://github.com/badges/shields)
-  - Concise, consistent, and legible badges in SVG and raster format
-- [opensource.guide](https://github.com/github/opensource.guide)
-  - 📚 Community guides for open source creators
-- [x-spreadsheet](https://github.com/myliang/x-spreadsheet)
-  - A web-based JavaScript（canvas） spreadsheet
+- [realworld](https://github.com/gothinkster/realworld)
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+  - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+  - The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people.
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
+  - Starter files, final projects and FAQ for my Complete JavaScript course
+- [bootstrap](https://github.com/twbs/bootstrap)
+  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [js-docs](https://github.com/LeonardoCesca/js-docs)
+  - Este projeto foi desenvolvido para contribuir com o open-source. Se você quiser contribuir basta seguir o README
+- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
+  - The iconic SVG, font, and CSS toolkit
+- [javascript](https://github.com/airbnb/javascript)
+  - JavaScript Style Guide
+- [nuxt.js](https://github.com/nuxt/nuxt.js)
+  - The Vue.js Framework
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [babel](https://github.com/babel/babel)
+  - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [Script](https://github.com/NobyDa/Script)
   - This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.
-- [mask-static](https://github.com/PDIS/mask-static)
-  - 健保藥局哪裡有？口罩數量剩多少？
-- [winston](https://github.com/winstonjs/winston)
-  - A logger for just about everything.
-- [sapper-template](https://github.com/sveltejs/sapper-template)
-  - Starter template for Sapper apps
-- [cookieconsent](https://github.com/osano/cookieconsent)
-  - A free solution to the EU, GDPR, and California Cookie Laws
-- [graphql-engine](https://github.com/hasura/graphql-engine)
-  - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+- [react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart)
+  - 🛍️ Simple ecommerce cart application built with React Redux
+- [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
+  - ⛄️ Possibly the smallest compiler ever
+- [swiper](https://github.com/nolimits4web/swiper)
+  - Most modern mobile touch slider with hardware accelerated transitions
+- [live2d-widget](https://github.com/stevenjoezhang/live2d-widget)
+  - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
+- [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js)
+  - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
+- [octotree](https://github.com/ovity/octotree)
+  - GitHub on steroids
 - [You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
   - List of functions which you can use to replace moment.js + ESLint Plugin
+- [atom](https://github.com/atom/atom)
+  - The hackable text editor
+- [haste-server](https://github.com/seejohnrun/haste-server)
+  - open source pastebin written in node.js
+- [vue-cli](https://github.com/vuejs/vue-cli)
+  - 🛠️ Standard Tooling for Vue.js Development
+- [particles.js](https://github.com/VincentGarreau/particles.js)
+  - A lightweight JavaScript library for creating particles
+- [bootstrap-table](https://github.com/wenzhixin/bootstrap-table)
+  - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)

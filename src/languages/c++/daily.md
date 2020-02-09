@@ -1,51 +1,51 @@
 # c++
+- [AntiCheat-Testing-Framework](https://github.com/niemand-sec/AntiCheat-Testing-Framework)
+  - Framework to test any Anti-Cheat
+- [LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL)
+  - Code repository of all OpenGL tutorials found at https://learnopengl.com
+- [abseil-cpp](https://github.com/abseil/abseil-cpp)
+  - Abseil Common Libraries (C++)
+- [Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice)
+  - 搞定C++👊。C++ Primer 中文版第5版学习仓库，包括笔记和课后练习答案。
+- [vnpy](https://github.com/vnpy/vnpy)
+  - 基于Python的开源量化交易平台开发框架
 - [GPCS4](https://github.com/Inori/GPCS4)
   - A Playstation 4 emulator just begin
-- [swift](https://github.com/apple/swift)
-  - The Swift Programming Language
-- [bitcoin](https://github.com/bitcoin/bitcoin)
-  - Bitcoin Core integration/staging tree
-- [espurna](https://github.com/xoseperez/espurna)
-  - Home automation firmware for ESP8266-based devices
+- [qBittorrent](https://github.com/qbittorrent/qBittorrent)
+  - qBittorrent BitTorrent client
+- [rpcs3](https://github.com/RPCS3/rpcs3)
+  - PS3 emulator/debugger
+- [MVision](https://github.com/Ewenwan/MVision)
+  - 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv PCL 机器学习 无人驾驶
+- [cpp-taskflow](https://github.com/cpp-taskflow/cpp-taskflow)
+  - A Modern C++ Parallel Task Programming Library
+- [endless-sky](https://github.com/endless-sky/endless-sky)
+  - Space exploration, trading, and combat game.
+- [dolphin](https://github.com/dolphin-emu/dolphin)
+  - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
+- [flashlight](https://github.com/facebookresearch/flashlight)
+  - A C++ standalone library for machine learning
+- [opencv_contrib](https://github.com/opencv/opencv_contrib)
+  - Repository for OpenCV's extra modules
+- [terminal](https://github.com/microsoft/terminal)
+  - The new Windows Terminal, and the original Windows console host - all in the same place!
+- [eos](https://github.com/EOSIO/eos)
+  - An open source smart contract platform
+- [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe)
+  - waifu2xのCaffe版
 - [PowerToys](https://github.com/microsoft/PowerToys)
   - Windows system utilities to maximize productivity
-- [seastar](https://github.com/scylladb/seastar)
-  - High performance server-side application framework
-- [cgal](https://github.com/CGAL/cgal)
-  - The public CGAL repository, see the README below
-- [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
-  - All Algorithms implemented in C++
-- [lmms](https://github.com/LMMS/lmms)
-  - Cross-platform music production software
-- [synergy-core](https://github.com/symless/synergy-core)
-  - Open source core of Synergy, the keyboard and mouse sharing tool
-- [rocksdb](https://github.com/facebook/rocksdb)
-  - A library that provides an embeddable, persistent key-value store for fast storage.
-- [kaolin](https://github.com/NVIDIAGameWorks/kaolin)
-  - A PyTorch Library for Accelerating 3D Deep Learning Research
-- [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)
-  - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects
-- [3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
-  - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
-- [Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows)
-  - An installation and update framework for Windows desktop apps
-- [dxvk](https://github.com/doitsujin/dxvk)
-  - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
-- [DeepSpeech](https://github.com/mozilla/DeepSpeech)
-  - A TensorFlow implementation of Baidu's DeepSpeech architecture
-- [taichi_mpm](https://github.com/yuanming-hu/taichi_mpm)
-  - High-performance material point method (MPM) solver. (ACM Transactions on Graphics, SIGGRAPH 2018)
-- [MNN](https://github.com/alibaba/MNN)
-  - MNN is a lightweight deep neural network inference engine.
-- [srs](https://github.com/ossrs/srs)
-  - SRS is a live streaming cluster, high efficiency, stable and simple.
-- [SketchSynth-Simple](https://github.com/jeonghopark/SketchSynth-Simple)
-  - 
-- [osquery](https://github.com/osquery/osquery)
-  - SQL powered operating system instrumentation, monitoring, and analytics.
-- [trojan](https://github.com/trojan-gfw/trojan)
-  - An unidentifiable mechanism that helps you bypass GFW.
-- [grpc](https://github.com/grpc/grpc)
-  - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-- [annoy](https://github.com/spotify/annoy)
-  - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
+- [anbox](https://github.com/anbox/anbox)
+  - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
+- [flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding)
+  - Examples of using, and testbed for, the in-development Flutter for Desktop
+- [MIDAS](https://github.com/bhatiasiddharth/MIDAS)
+  - MIDAS: Detecting Microcluster Anomalies in Edge Streams
+- [multipass](https://github.com/canonical/multipass)
+  - Multipass orchestrates virtual Ubuntu instances
+- [STL](https://github.com/microsoft/STL)
+  - MSVC's implementation of the C++ Standard Library.
+- [devilutionX](https://github.com/diasurgical/devilutionX)
+  - Diablo build for modern operating systems
+- [pytorch](https://github.com/pytorch/pytorch)
+  - Tensors and Dynamic neural networks in Python with strong GPU acceleration

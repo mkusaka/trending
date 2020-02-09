@@ -1,51 +1,51 @@
 # rust
+- [tokenizers](https://github.com/huggingface/tokenizers)
+  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [swc](https://github.com/swc-project/swc)
+  - Super-fast typescript / javascript compiler written in rust
+- [juniper](https://github.com/graphql-rust/juniper)
+  - GraphQL server library for Rust
+- [rustup](https://github.com/rust-lang/rustup)
+  - The Rust toolchain installer
 - [996.ICU](https://github.com/996icu/996.ICU)
   - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [sled](https://github.com/spacejam/sled)
-  - the champagne of beta embedded databases
-- [Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack)
-  - Easily testable and working Rust codes with blog posts to explain them.
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-  - A curated list of Rust code and resources.
-- [makepad](https://github.com/makepad/makepad)
-  - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
-- [rusty_v8](https://github.com/denoland/rusty_v8)
-  - V8 javascript bindings for Rust
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
-- [rio](https://github.com/spacejam/rio)
-  - pure rust io_uring library, built on libc, thread & async friendly, misuse resistant
-- [bat](https://github.com/sharkdp/bat)
-  - A cat(1) clone with wings.
-- [warp](https://github.com/seanmonstar/warp)
-  - A super-easy, composable, web server framework for warp speeds.
-- [diesel](https://github.com/diesel-rs/diesel)
-  - A safe, extensible ORM and Query Builder for Rust
+- [findomain](https://github.com/Edu4rdSHL/findomain)
+  - The fastest and cross-platform subdomain enumerator, do not waste your time.
+- [iced](https://github.com/hecrj/iced)
+  - A cross-platform GUI library for Rust, inspired by Elm
 - [book](https://github.com/rust-lang/book)
   - The Rust Programming Language
-- [rustlings](https://github.com/rust-lang/rustlings)
-  - Small exercises to get you used to reading and writing Rust code!
-- [tide](https://github.com/http-rs/tide)
-  - Serve the web – HTTP server framework
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [tikv](https://github.com/tikv/tikv)
-  - Distributed transactional key-value database, originally created to complement TiDB
-- [spotifyd](https://github.com/Spotifyd/spotifyd)
-  - A spotify daemon
-- [sandspiel](https://github.com/MaxBittker/sandspiel)
-  - Creative cellular automata browser game
-- [cargo](https://github.com/rust-lang/cargo)
-  - The Rust package manager
-- [team](https://github.com/rust-lang/team)
-  - Rust teams structure
-- [artichoke](https://github.com/artichoke/artichoke)
-  - 💎 Artichoke is a Ruby made with Rust
+- [sqlx](https://github.com/launchbadge/sqlx)
+  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL.
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
+- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
+  - Facilitating high-level interactions between Wasm modules and JavaScript
+- [shaku](https://github.com/Mcat12/shaku)
+  - Dependency lnjection library for Rust
+- [lemmy](https://github.com/dessalines/lemmy)
+  - 🐀 Building a federated alternative to reddit in rust
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
+- [procspawn](https://github.com/mitsuhiko/procspawn)
+  - like thread::spawn but for processes
+- [xi-editor](https://github.com/xi-editor/xi-editor)
+  - A modern editor with a backend written in Rust.
 - [cargo-deny](https://github.com/EmbarkStudios/cargo-deny)
   - ❌ Cargo plugin for linting your dependencies 🦀
-- [faux](https://github.com/nrxus/faux)
-  - Traitless Mocking Library for Rust
-- [hashbag](https://github.com/jonhoo/hashbag)
-  - An unordered multiset/bag implementation backed by HashMap
 - [pastel](https://github.com/sharkdp/pastel)
   - A command-line tool to generate, analyze, convert and manipulate colors
+- [image](https://github.com/image-rs/image)
+  - Encoding and decoding images in Rust
+- [makepad](https://github.com/makepad/makepad)
+  - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
+- [Rocket](https://github.com/SergioBenitez/Rocket)
+  - A web framework for Rust.
+- [rio](https://github.com/spacejam/rio)
+  - pure rust io_uring library, built on libc, thread & async friendly, misuse resistant
+- [solana](https://github.com/solana-labs/solana)
+  - Blockchain Rebuilt for Scale
+- [diesel](https://github.com/diesel-rs/diesel)
+  - A safe, extensible ORM and Query Builder for Rust
+- [rusoto](https://github.com/rusoto/rusoto)
+  - AWS SDK for Rust

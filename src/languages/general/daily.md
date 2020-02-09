@@ -1,51 +1,51 @@
 # general
+- [BlenderGIS](https://github.com/domlysz/BlenderGIS) : Python
+  - Blender addons to make the bridge between Blender and geographic data
+- [2020nCov_individual_archives](https://github.com/jiayiliujiayi/2020nCov_individual_archives) : R
+  - Every individual matters. Every individual has a role to play. 备份普通人在疫情期间的记录。（持续更新中）
+- [cortex](https://github.com/cortexlabs/cortex) : Go
+  - Deploy machine learning models in production
 - [pytorch3d](https://github.com/facebookresearch/pytorch3d) : Python
   - PyTorch3D is FAIR's library of reusable components for deep learning with 3D data
-- [SysmonCommunityGuide](https://github.com/trustedsec/SysmonCommunityGuide) : CSS
-  - TrustedSec Sysinternals Sysmon Community Guide
-- [zincbase](https://github.com/complexdb/zincbase) : Python
-  - A state of the art knowledge base
-- [nCovMemory](https://github.com/2019ncovmemory/nCovMemory) : Vue
-  - 2020新冠肺炎记忆：传媒报道与非虚构写作（持续更新）Memory of 2020 nCov: Media Coverage and Non-fiction Writings (Continuously updating)
 - [fiber](https://github.com/gofiber/fiber) : Go
   - 🚀 Fiber is an Express.js inspired web framework written in Go with 💖
+- [Sitrep](https://github.com/twostraws/Sitrep) : Swift
+  - A source code analyzer for Swift projects.
+- [meshrcnn](https://github.com/facebookresearch/meshrcnn) : Python
+  - code for Mesh R-CNN, an academic publication, presented at ICCV 2019
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
+  - 🤓 Build your own (insert technology here)
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [realworld](https://github.com/gothinkster/realworld) : JavaScript
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [Java](https://github.com/TheAlgorithms/Java) : Java
+  - All Algorithms implemented in Java
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
+  - 📚 Freely available programming books
+- [public-apis](https://github.com/public-apis/public-apis) : Python
+  - A collective list of free APIs for use in software and web development.
 - [frontend-challenges](https://github.com/felipefialho/frontend-challenges) : 
   - 💥 Listing some playful open-source's challenges of jobs to test your knowledge
 - [binwalk](https://github.com/ReFirmLabs/binwalk) : Python
   - Firmware Analysis Tool
-- [Ai-learn](https://github.com/tangyudi/Ai-learn) : 
-  - 人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理等热门领域
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
-  - 🤓 Build your own (insert technology here)
-- [GPCS4](https://github.com/Inori/GPCS4) : C++
-  - A Playstation 4 emulator just begin
-- [pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) : Python
-  - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
-- [cortex](https://github.com/cortexlabs/cortex) : Go
-  - Deploy machine learning models in production
-- [jdBuyMask](https://github.com/cycz/jdBuyMask) : Python
-  - 京东监控口罩有货爬虫，自动下单爬虫，口罩爬虫
-- [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) : JavaScript
-  - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
+- [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) : JavaScript
+  - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [Python](https://github.com/TheAlgorithms/Python) : Python
   - All Algorithms implemented in Python
-- [grafana](https://github.com/grafana/grafana) : TypeScript
-  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [996.ICU](https://github.com/996icu/996.ICU) : Rust
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [javascript](https://github.com/airbnb/javascript) : JavaScript
-  - JavaScript Style Guide
-- [CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) : C#
-  - Clean Architecture Solution Template for Angular 8 and .NET Core 3.1
-- [WhatTheHack](https://github.com/microsoft/WhatTheHack) : HTML
-  - A collection of challenge based hack-a-thons including student guide, proctor guide, lecture presentations, sample/instructional code and templates.
-- [realworld](https://github.com/gothinkster/realworld) : JavaScript
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [tlroadmap](https://github.com/tlbootcamp/tlroadmap) : Python
-  - 👩🏼‍💻👨🏻‍💻Карта навыков и модель развития тимлидов
-- [aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) : C#
-  - ASP.NET Boilerplate - Web Application Framework
-- [runtime](https://github.com/dotnet/runtime) : C#
-  - .NET is a cross-platform runtime for cloud, IoT, and desktop apps.
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [hyperblog](https://github.com/freddier/hyperblog) : HTML
+  - Un blog increíble para el curso de Git y Github de Platzi
+- [lede](https://github.com/coolsnowwolf/lede) : C
+  - Lean's OpenWrt source
+- [legado](https://github.com/gedoor/legado) : Kotlin
+  - 阅读3.0
+- [face_recognition](https://github.com/ageitgey/face_recognition) : Python
+  - The world's simplest facial recognition api for Python and the command line
+- [sushi](https://github.com/calebporzio/sushi) : PHP
+  - Eloquent's missing "array" driver.
+- [models](https://github.com/tensorflow/models) : Python
+  - Models and examples built with TensorFlow
+- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
+  - Course Files for Complete Python 3 Bootcamp Course on Udemy
+- [SysmonCommunityGuide](https://github.com/trustedsec/SysmonCommunityGuide) : CSS
+  - TrustedSec Sysinternals Sysmon Community Guide
