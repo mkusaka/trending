@@ -1,51 +1,51 @@
 # c++
-- [AntiCheat-Testing-Framework](https://github.com/niemand-sec/AntiCheat-Testing-Framework)
-  - Framework to test any Anti-Cheat
-- [LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL)
-  - Code repository of all OpenGL tutorials found at https://learnopengl.com
-- [abseil-cpp](https://github.com/abseil/abseil-cpp)
-  - Abseil Common Libraries (C++)
-- [Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice)
-  - 搞定C++👊。C++ Primer 中文版第5版学习仓库，包括笔记和课后练习答案。
 - [vnpy](https://github.com/vnpy/vnpy)
   - 基于Python的开源量化交易平台开发框架
-- [GPCS4](https://github.com/Inori/GPCS4)
-  - A Playstation 4 emulator just begin
+- [bitcoin](https://github.com/bitcoin/bitcoin)
+  - Bitcoin Core integration/staging tree
+- [serenity](https://github.com/SerenityOS/serenity)
+  - Serenity Operating System
+- [TrinityCore](https://github.com/TrinityCore/TrinityCore)
+  - TrinityCore Open Source MMO Framework (master = 8.2.5.32978, 3.3.5 = 3.3.5a.12340)
+- [open-builder](https://github.com/Hopson97/open-builder)
+  - Open source "Minecraft-like" game with multiplayer support.
+- [imgui](https://github.com/ocornut/imgui)
+  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+- [FastLED](https://github.com/FastLED/FastLED)
+  - The FastLED library for colored LED animation on Arduino. Please direct questions/requests for help to the FastLED Reddit community: http://fastled.io/r We'd like to use github "issues" just for tracking library bugs / enhancements.
+- [Rack](https://github.com/VCVRack/Rack)
+  - Virtual Eurorack DAW
+- [algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures)
+  - 180+ Algorithm & Data Structure Problems using C++
+- [work-stealing-queue](https://github.com/tsung-wei-huang/work-stealing-queue)
+  - A fast work-stealing queue library in C++
+- [mactype](https://github.com/snowie2000/mactype)
+  - Better font rendering for Windows.
+- [supercollider](https://github.com/supercollider/supercollider)
+  - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
+- [RedisDesktopManager](https://github.com/uglide/RedisDesktopManager)
+  - 🔧 Cross-platform GUI management tool for Redis
+- [tensorflow](https://github.com/tensorflow/tensorflow)
+  - An Open Source Machine Learning Framework for Everyone
+- [qmc-decoder](https://github.com/Presburger/qmc-decoder)
+  - Fastest & best convert qmc 2 mp3 | flac tools
+- [Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice)
+  - 搞定C++👊。C++ Primer 中文版第5版学习仓库，包括笔记和课后练习答案。
+- [xbmc](https://github.com/xbmc/xbmc)
+  - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
+- [llvm-project](https://github.com/llvm/llvm-project)
+  - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
+- [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2)
+  - An open source re-implementation of RollerCoaster Tycoon 2 🎢
+- [Data-Structres](https://github.com/callmePicacho/Data-Structres)
+  - 浙江大学《数据结构》上课笔记 + 数据结构实现 + 课后题题解
+- [The-Open-Book](https://github.com/joeycastillo/The-Open-Book)
+  - 
 - [qBittorrent](https://github.com/qbittorrent/qBittorrent)
   - qBittorrent BitTorrent client
-- [rpcs3](https://github.com/RPCS3/rpcs3)
-  - PS3 emulator/debugger
-- [MVision](https://github.com/Ewenwan/MVision)
-  - 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv PCL 机器学习 无人驾驶
-- [cpp-taskflow](https://github.com/cpp-taskflow/cpp-taskflow)
-  - A Modern C++ Parallel Task Programming Library
-- [endless-sky](https://github.com/endless-sky/endless-sky)
-  - Space exploration, trading, and combat game.
-- [dolphin](https://github.com/dolphin-emu/dolphin)
-  - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
-- [flashlight](https://github.com/facebookresearch/flashlight)
-  - A C++ standalone library for machine learning
-- [opencv_contrib](https://github.com/opencv/opencv_contrib)
-  - Repository for OpenCV's extra modules
-- [terminal](https://github.com/microsoft/terminal)
-  - The new Windows Terminal, and the original Windows console host - all in the same place!
-- [eos](https://github.com/EOSIO/eos)
-  - An open source smart contract platform
-- [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe)
-  - waifu2xのCaffe版
-- [PowerToys](https://github.com/microsoft/PowerToys)
-  - Windows system utilities to maximize productivity
-- [anbox](https://github.com/anbox/anbox)
-  - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
-- [flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding)
-  - Examples of using, and testbed for, the in-development Flutter for Desktop
-- [MIDAS](https://github.com/bhatiasiddharth/MIDAS)
-  - MIDAS: Detecting Microcluster Anomalies in Edge Streams
-- [multipass](https://github.com/canonical/multipass)
-  - Multipass orchestrates virtual Ubuntu instances
-- [STL](https://github.com/microsoft/STL)
-  - MSVC's implementation of the C++ Standard Library.
-- [devilutionX](https://github.com/diasurgical/devilutionX)
-  - Diablo build for modern operating systems
-- [pytorch](https://github.com/pytorch/pytorch)
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
+  - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
+- [kurento-media-server](https://github.com/Kurento/kurento-media-server)
+  - Media Server responsible for media transmission, processing, loading and recording
+- [apollo](https://github.com/ApolloAuto/apollo)
+  - An open autonomous driving platform
