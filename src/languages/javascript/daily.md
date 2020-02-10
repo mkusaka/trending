@@ -1,51 +1,51 @@
 # javascript
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [realworld](https://github.com/gothinkster/realworld)
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [fatura](https://github.com/f/fatura)
+  - eArşiv / eFatura Fatura Oluşturucu
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
 - [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
   - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-  - The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people.
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
-  - Starter files, final projects and FAQ for my Complete JavaScript course
-- [bootstrap](https://github.com/twbs/bootstrap)
-  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [js-docs](https://github.com/LeonardoCesca/js-docs)
-  - Este projeto foi desenvolvido para contribuir com o open-source. Se você quiser contribuir basta seguir o README
-- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
-  - The iconic SVG, font, and CSS toolkit
-- [javascript](https://github.com/airbnb/javascript)
-  - JavaScript Style Guide
-- [nuxt.js](https://github.com/nuxt/nuxt.js)
-  - The Vue.js Framework
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [babel](https://github.com/babel/babel)
-  - 🐠 Babel is a compiler for writing next generation JavaScript.
+- [realworld](https://github.com/gothinkster/realworld)
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [vue](https://github.com/vuejs/vue)
+  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [fullPage.js](https://github.com/alvarotrigo/fullPage.js)
+  - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
+- [git-setup](https://github.com/doggy8088/git-setup)
+  - A Quick Git Setup Tool ( npx @willh/git-setup )
+- [dino3d](https://github.com/Priler/dino3d)
+  - Google Chrome T-Rex Run! in 3D (WebGL experiment)
+- [p5.js](https://github.com/processing/p5.js)
+  - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
+- [joplin](https://github.com/laurent22/joplin)
+  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [lwc-recipes](https://github.com/trailheadapps/lwc-recipes)
+  - A collection of easy-to-digest code examples for Lightning Web Components on Salesforce Platform
 - [Script](https://github.com/NobyDa/Script)
   - This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.
-- [react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart)
-  - 🛍️ Simple ecommerce cart application built with React Redux
-- [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
-  - ⛄️ Possibly the smallest compiler ever
-- [swiper](https://github.com/nolimits4web/swiper)
-  - Most modern mobile touch slider with hardware accelerated transitions
-- [live2d-widget](https://github.com/stevenjoezhang/live2d-widget)
-  - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
-- [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js)
-  - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
-- [octotree](https://github.com/ovity/octotree)
-  - GitHub on steroids
-- [You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
-  - List of functions which you can use to replace moment.js + ESLint Plugin
-- [atom](https://github.com/atom/atom)
-  - The hackable text editor
-- [haste-server](https://github.com/seejohnrun/haste-server)
-  - open source pastebin written in node.js
-- [vue-cli](https://github.com/vuejs/vue-cli)
-  - 🛠️ Standard Tooling for Vue.js Development
-- [particles.js](https://github.com/VincentGarreau/particles.js)
-  - A lightweight JavaScript library for creating particles
-- [bootstrap-table](https://github.com/wenzhixin/bootstrap-table)
-  - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
+- [baidupankey](https://github.com/wu-dada/baidupankey)
+  - 查询百度网盘&蓝奏盘提取码
+- [react-quill](https://github.com/zenoamaro/react-quill)
+  - A Quill component for React.
+- [cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor)
+  - nightscout web monitor
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+  - The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people.
+- [v4](https://github.com/bchiang7/v4)
+  - Fourth iteration of my personal website
+- [resumake.io](https://github.com/saadq/resumake.io)
+  - 📋 A website for automatically generating elegant LaTeX resumes.
+- [handlebars.js](https://github.com/wycats/handlebars.js)
+  - 
+- [awesome-uses](https://github.com/wesbos/awesome-uses)
+  - A list of /uses pages detailing developer setups, gear, software and configs.
+- [react-native-snap-carousel](https://github.com/archriss/react-native-snap-carousel)
+  - Swiper/carousel component for React Native featuring previews, multiple layouts, parallax images, performant handling of huge numbers of items, and more. Compatible with Android & iOS.
+- [iptv](https://github.com/iptv-org/iptv)
+  - Collection of 8000+ publicly available IPTV channels from all over the world
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
+  - Starter files, final projects and FAQ for my Complete JavaScript course
+- [node-redis](https://github.com/NodeRedis/node-redis)
+  - A high performance Node.js Redis client.

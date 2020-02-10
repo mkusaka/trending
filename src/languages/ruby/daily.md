@@ -1,51 +1,51 @@
 # ruby
-- [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
-  - A curated list of engineering blogs
-- [liquid](https://github.com/Shopify/liquid)
-  - Liquid markup language. Safe, customer facing template language for flexible web apps.
-- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-- [setup](https://github.com/lewagon/setup)
-  - Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp
-- [mastodon](https://github.com/tootsuite/mastodon)
-  - Your self-hosted, globally interconnected microblogging community
-- [dev.to](https://github.com/thepracticaldev/dev.to)
-  - Where programmers share ideas and help each other grow
-- [discourse](https://github.com/discourse/discourse)
-  - A platform for community discussion. Free, open, simple.
-- [jekyll](https://github.com/jekyll/jekyll)
-  - 🌐 Jekyll is a blog-aware static site generator in Ruby
-- [faker](https://github.com/faker-ruby/faker)
-  - A library for generating fake data such as names, addresses, and phone numbers.
-- [openproject](https://github.com/opf/openproject)
-  - OpenProject is the leading open source project management software.
-- [rps-challenge](https://github.com/makersacademy/rps-challenge)
-  - Create the Rock Paper Scissors Game
-- [hello-world-ruby-bootcamp-prep-000](https://github.com/learn-co-students/hello-world-ruby-bootcamp-prep-000)
+- [linguist](https://github.com/github/linguist)
+  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+- [sonic-pi](https://github.com/samaaron/sonic-pi)
+  - The Live Coding Music Synth for Everyone
+- [fluentd](https://github.com/fluent/fluentd)
+  - Fluentd: Unified Logging Layer (project under CNCF)
+- [remote-working](https://github.com/greatghoul/remote-working)
+  - 收集整理远程工作相关的资料
+- [canvas-lms](https://github.com/instructure/canvas-lms)
+  - The open LMS by Instructure, Inc.
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
+  - Metasploit Framework
+- [cookies_and_sessions_lab-chi01-seng-ft-010620](https://github.com/learn-co-students/cookies_and_sessions_lab-chi01-seng-ft-010620)
+  - 
+- [photogram-queries](https://github.com/appdev-projects/photogram-queries)
+  - 
+- [orms-mapping-classes-to-database-tables-lab-nyc-web-012720](https://github.com/learn-co-students/orms-mapping-classes-to-database-tables-lab-nyc-web-012720)
+  - 
+- [orms-mapping-database-records-to-ruby-objects-lab-nyc-web-012720](https://github.com/learn-co-students/orms-mapping-database-records-to-ruby-objects-lab-nyc-web-012720)
+  - 
+- [gemoji](https://github.com/github/gemoji)
+  - Emoji images and names.
+- [oo-counting-sentences-onl01-seng-pt-012220](https://github.com/learn-co-students/oo-counting-sentences-onl01-seng-pt-012220)
   - 
 - [petri_flow](https://github.com/hooopo/petri_flow)
   - Petri Net Workflow Engine for Ruby.
-- [ttt-3-display_board-example-ruby-intro-000](https://github.com/learn-co-students/ttt-3-display_board-example-ruby-intro-000)
+- [rails-layouts-and-templates-lab-nyc-clarke-web-010620](https://github.com/learn-co-students/rails-layouts-and-templates-lab-nyc-clarke-web-010620)
   - 
-- [ruby-lecture-reading-error-messages-bootcamp-prep-000](https://github.com/learn-co-students/ruby-lecture-reading-error-messages-bootcamp-prep-000)
+- [activerecord-tvland-houston-web-012720](https://github.com/learn-co-students/activerecord-tvland-houston-web-012720)
   - 
-- [programming-univbasics-nds-green-grocer-nyc-web-021720](https://github.com/learn-co-students/programming-univbasics-nds-green-grocer-nyc-web-021720)
+- [bringing-it-all-together-onl01-seng-pt-110319](https://github.com/learn-co-students/bringing-it-all-together-onl01-seng-pt-110319)
   - 
-- [active-record-intro-to-rake-nyc-web-012720](https://github.com/learn-co-students/active-record-intro-to-rake-nyc-web-012720)
+- [fe-zetsy-online-web-sp-000](https://github.com/learn-co-students/fe-zetsy-online-web-sp-000)
   - 
-- [activeadmin](https://github.com/activeadmin/activeadmin)
-  - The administration framework for Ruby on Rails applications.
-- [method-arguments-lab-onl01-seng-pt-012220](https://github.com/learn-co-students/method-arguments-lab-onl01-seng-pt-012220)
+- [iOSDevDirectory](https://github.com/daveverwer/iOSDevDirectory)
+  - The iOS Dev Directory
+- [active-record-migrations-nyc-web-012720](https://github.com/learn-co-students/active-record-migrations-nyc-web-012720)
   - 
-- [brew](https://github.com/Homebrew/brew)
-  - 🍺 The missing package manager for macOS (or Linux)
-- [library-challenge](https://github.com/CraftAcademy/library-challenge)
-  - Week 1 Ruby challenge
-- [ruby-oo-inheritance-modules-nyc-web-012720](https://github.com/learn-co-students/ruby-oo-inheritance-modules-nyc-web-012720)
+- [basic-nested-forms-chi01-seng-ft-010620](https://github.com/learn-co-students/basic-nested-forms-chi01-seng-ft-010620)
   - 
-- [ruby-oo-inheritance-defining-inheritance-nyc-web-012720](https://github.com/learn-co-students/ruby-oo-inheritance-defining-inheritance-nyc-web-012720)
+- [Active-Record-Association-Methods-houston-web-012720](https://github.com/learn-co-students/Active-Record-Association-Methods-houston-web-012720)
   - 
-- [bullet](https://github.com/flyerhzm/bullet)
-  - help to kill N+1 queries and unused eager loading
-- [crud-with-validations-lab-online-web-pt-090919](https://github.com/learn-co-students/crud-with-validations-lab-online-web-pt-090919)
-  - 
+- [dotfiles](https://github.com/skwp/dotfiles)
+  - YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen
+- [api](https://github.com/hanami/api)
+  - Minimal, extremely fast, lightweight Ruby framework for HTTP APIs
+- [octokit.rb](https://github.com/octokit/octokit.rb)
+  - Ruby toolkit for the GitHub API
+- [awesome-cli](https://github.com/davetron5000/awesome-cli)
+  - Gem for Build Awesome Command-Line Applications in Ruby

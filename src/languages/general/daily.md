@@ -1,51 +1,50 @@
 # general
+- [Todos](https://github.com/davidfowl/Todos) : C#
+  - Various todo list backend API implementations
+- [deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) : Jupyter Notebook
+  - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
+- [jdBuyMask](https://github.com/cycz/jdBuyMask) : Python
+  - 京东监控口罩有货爬虫，自动下单爬虫，口罩爬虫
 - [BlenderGIS](https://github.com/domlysz/BlenderGIS) : Python
   - Blender addons to make the bridge between Blender and geographic data
-- [2020nCov_individual_archives](https://github.com/jiayiliujiayi/2020nCov_individual_archives) : R
-  - Every individual matters. Every individual has a role to play. 备份普通人在疫情期间的记录。（持续更新中）
-- [cortex](https://github.com/cortexlabs/cortex) : Go
-  - Deploy machine learning models in production
-- [pytorch3d](https://github.com/facebookresearch/pytorch3d) : Python
-  - PyTorch3D is FAIR's library of reusable components for deep learning with 3D data
-- [fiber](https://github.com/gofiber/fiber) : Go
-  - 🚀 Fiber is an Express.js inspired web framework written in Go with 💖
-- [Sitrep](https://github.com/twostraws/Sitrep) : Swift
-  - A source code analyzer for Swift projects.
-- [meshrcnn](https://github.com/facebookresearch/meshrcnn) : Python
-  - code for Mesh R-CNN, an academic publication, presented at ICCV 2019
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
-  - 🤓 Build your own (insert technology here)
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [realworld](https://github.com/gothinkster/realworld) : JavaScript
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [fontpreview](https://github.com/sdushantha/fontpreview) : Shell
+  - 🔡 Very customizable and minimal font previewer written in bash
 - [Java](https://github.com/TheAlgorithms/Java) : Java
   - All Algorithms implemented in Java
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [public-apis](https://github.com/public-apis/public-apis) : Python
-  - A collective list of free APIs for use in software and web development.
-- [frontend-challenges](https://github.com/felipefialho/frontend-challenges) : 
-  - 💥 Listing some playful open-source's challenges of jobs to test your knowledge
-- [binwalk](https://github.com/ReFirmLabs/binwalk) : Python
-  - Firmware Analysis Tool
-- [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) : JavaScript
-  - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
-- [Python](https://github.com/TheAlgorithms/Python) : Python
-  - All Algorithms implemented in Python
-- [hyperblog](https://github.com/freddier/hyperblog) : HTML
-  - Un blog increíble para el curso de Git y Github de Platzi
+- [cortex](https://github.com/cortexlabs/cortex) : Go
+  - Deploy machine learning models in production
+- [DAIN](https://github.com/baowenbo/DAIN) : Python
+  - Depth-Aware Video Frame Interpolation (CVPR 2019)
 - [lede](https://github.com/coolsnowwolf/lede) : C
   - Lean's OpenWrt source
+- [fatura](https://github.com/f/fatura) : JavaScript
+  - eArşiv / eFatura Fatura Oluşturucu
+- [ANDRAX-Mobile-Pentest](https://github.com/The-Cracker-Technology/ANDRAX-Mobile-Pentest) : C
+  - ANDRAX Advanced Penetration Testing Platform for Android Smartphones
+- [ghidra](https://github.com/NationalSecurityAgency/ghidra) : Java
+  - Ghidra is a software reverse engineering (SRE) framework
+- [vnpy](https://github.com/vnpy/vnpy) : C++
+  - 基于Python的开源量化交易平台开发框架
+- [jd-automask](https://github.com/Rlacat/jd-automask) : Python
+  - 防护-京东口罩自动抢购并下单
+- [osu](https://github.com/ppy/osu) : C#
+  - rhythm is just a *click* away!
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
+  - 🤓 Build your own (insert technology here)
+- [fiber](https://github.com/gofiber/fiber) : Go
+  - 🚀 Fiber is an Express.js inspired web framework written in Go with 💖
+- [Profiles](https://github.com/ConnersHua/Profiles) : 
+- [awesome-courses](https://github.com/prakhar1989/awesome-courses) : 
+  - 📚 List of awesome university courses for learning Computer Science!
+- [php-ddd-example](https://github.com/CodelyTV/php-ddd-example) : PHP
+  - 🐘🎯 Hexagonal Architecture + DDD + CQRS applied in PHP using Symfony 5
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
+  - 📚 Freely available programming books
 - [legado](https://github.com/gedoor/legado) : Kotlin
   - 阅读3.0
-- [face_recognition](https://github.com/ageitgey/face_recognition) : Python
-  - The world's simplest facial recognition api for Python and the command line
-- [sushi](https://github.com/calebporzio/sushi) : PHP
-  - Eloquent's missing "array" driver.
-- [models](https://github.com/tensorflow/models) : Python
-  - Models and examples built with TensorFlow
-- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
-  - Course Files for Complete Python 3 Bootcamp Course on Udemy
-- [SysmonCommunityGuide](https://github.com/trustedsec/SysmonCommunityGuide) : CSS
-  - TrustedSec Sysinternals Sysmon Community Guide
+- [zhao](https://github.com/programthink/zhao) : Python
+  - 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵
+- [ESRGAN](https://github.com/xinntao/ESRGAN) : Python
+  - ECCV18 Workshops - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution (Third Region)
+- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) : Swift
+  - 🚀 Awesome list of open source applications for macOS.
