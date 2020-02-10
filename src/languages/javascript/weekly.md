@@ -1,51 +1,51 @@
 # javascript
-- [playwright](https://github.com/microsoft/playwright)
-  - Node library to automate Chromium, Firefox and WebKit with a single API
-- [userbase](https://github.com/encrypted-dev/userbase)
-  - Create secure and private web apps using only static JavaScript, HTML, and CSS.
+- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
+  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 - [remote-jobs](https://github.com/remoteintech/remote-jobs)
   - A list of semi to fully remote-friendly companies in tech.
-- [reveal.js](https://github.com/hakimel/reveal.js)
-  - The HTML Presentation Framework
-- [core-js](https://github.com/zloirock/core-js)
-  - Standard Library
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [v3](https://github.com/exercism/v3)
-  - The work-in-progress project for developing v3 tracks
-- [joplin](https://github.com/laurent22/joplin)
-  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [bootstrap](https://github.com/twbs/bootstrap)
   - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [markdown-here](https://github.com/adam-p/markdown-here)
-  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
-  - Starter files, final projects and FAQ for my Complete JavaScript course
-- [deck.gl](https://github.com/uber/deck.gl)
-  - WebGL2 powered geospatial visualization layers
-- [jquery](https://github.com/jquery/jquery)
-  - jQuery JavaScript Library
-- [city-roads](https://github.com/anvaka/city-roads)
-  - Visualization of all roads within any city
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
+- [2019-ncov](https://github.com/shfshanyue/2019-ncov)
+  - 全国新型冠状病毒，肺炎疫情实时省市地图
+- [react-router](https://github.com/ReactTraining/react-router)
+  - Declarative routing for React
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [fanqiang](https://github.com/bannedbook/fanqiang)
+  - 翻墙-科学上网
 - [create-react-app](https://github.com/facebook/create-react-app)
   - Set up a modern web app by running one command.
-- [airframe-react](https://github.com/0wczar/airframe-react)
-  - Free Open Source High Quality Dashboard based on Bootstrap 4 & React 16: http://dashboards.webkom.co/react/airframe
+- [next.js](https://github.com/zeit/next.js)
+  - The React Framework
+- [javascript](https://github.com/airbnb/javascript)
+  - JavaScript Style Guide
+- [vue](https://github.com/vuejs/vue)
+  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [label-studio](https://github.com/heartexlabs/label-studio)
+  - Label Studio is a multi-type data labeling and annotation tool with standardized output format
+- [realworld](https://github.com/gothinkster/realworld)
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [Rules](https://github.com/lhie1/Rules)
+  - Rules / 规则：Surge / Shadowrocket / QuantumultX / Clash(X|A)
+- [cypress](https://github.com/cypress-io/cypress)
+  - Fast, easy and reliable testing for anything that runs in a browser.
+- [faker.js](https://github.com/Marak/faker.js)
+  - generate massive amounts of realistic fake data in Node.js and the browser
+- [passport](https://github.com/jaredhanson/passport)
+  - Simple, unobtrusive authentication for Node.js.
 - [quasar](https://github.com/quasarframework/quasar)
   - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [selectize.js](https://github.com/selectize/selectize.js)
   - Selectize is the hybrid of a textbox and <select> box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.
-- [brackets](https://github.com/adobe/brackets)
-  - An open source code editor for the web, written in JavaScript, HTML and CSS.
-- [react-router](https://github.com/ReactTraining/react-router)
-  - Declarative routing for React
-- [Chart.js](https://github.com/chartjs/Chart.js)
-  - Simple HTML5 Charts using the <canvas> tag
-- [dribbble2react](https://github.com/react-ui-kit/dribbble2react)
-  - Transform Dribbble designs to React-Native code & YouTube video tutorials
-- [yarn](https://github.com/yarnpkg/yarn)
-  - 📦🐈 Fast, reliable, and secure dependency management.
+- [markdown-here](https://github.com/adam-p/markdown-here)
+  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+- [gutenberg](https://github.com/WordPress/gutenberg)
+  - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
+- [openlayers](https://github.com/openlayers/openlayers)
+  - OpenLayers
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [svelte](https://github.com/sveltejs/svelte)
+  - Cybernetically enhanced web apps
+- [hexo](https://github.com/hexojs/hexo)
+  - A fast, simple & powerful blog framework, powered by Node.js.

@@ -1,51 +1,51 @@
 # general
-- [wuhan2020](https://github.com/wuhan2020/wuhan2020) : 
-  - 新型冠状病毒防疫信息收集平台
-- [XSpotify](https://github.com/meik97/XSpotify) : C++
-  - A modified Spotify client with DRM bypass.
-- [DOTSSample](https://github.com/Unity-Technologies/DOTSSample) : C#
-  - A third person, multiplayer sample project. Built with Unity and using the new Data Oriented Tech Stack (DOTS).
-- [ApplicationInspector](https://github.com/microsoft/ApplicationInspector) : C#
-  - A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'what's in it' using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.
-- [google-research](https://github.com/google-research/google-research) : Jupyter Notebook
-  - Google AI Research
-- [pandas](https://github.com/pandas-dev/pandas) : Python
-  - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
-- [godot](https://github.com/godotengine/godot) : C++
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [naabu](https://github.com/projectdiscovery/naabu) : Go
-  - A fast port scanner written in go with focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
-- [playwright](https://github.com/microsoft/playwright) : JavaScript
-  - Node library to automate Chromium, Firefox and WebKit with a single API
-- [userbase](https://github.com/encrypted-dev/userbase) : JavaScript
-  - Create secure and private web apps using only static JavaScript, HTML, and CSS.
-- [woocommerce](https://github.com/woocommerce/woocommerce) : PHP
-  - An open source eCommerce plugin for WordPress.
-- [fastapi](https://github.com/tiangolo/fastapi) : Python
-  - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) : 
-  - 📌 A guide for amateurs pen testers and a collection of hacking tools, resources and references to practice ethical hacking, pen testing and web security.
-- [spiderfoot](https://github.com/smicallef/spiderfoot) : Python
-  - SpiderFoot, the most complete OSINT collection and reconnaissance tool.
-- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) : 
-  - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [difftaichi](https://github.com/yuanming-hu/difftaichi) : 
-  - 10 differentiable physical simulators built with Taichi differentiable programming (DiffTaichi, ICLR 2020)
-- [spinningup](https://github.com/openai/spinningup) : Python
-  - An educational resource to help anyone learn deep reinforcement learning.
-- [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) : 
-  - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+- [algodeck](https://github.com/teivah/algodeck) : 
+  - An Open-Source Collection of +200 Algorithmic Flash Cards to Help you Preparing your Algorithm & Data Structure Interview 💯
+- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) : JavaScript
+  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+- [jd-assistant](https://github.com/tychxn/jd-assistant) : Python
+  - 京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能
+- [pytorch3d](https://github.com/facebookresearch/pytorch3d) : Python
+  - PyTorch3D is FAIR's library of reusable components for deep learning with 3D data
+- [OpenSK](https://github.com/google/OpenSK) : Rust
+  - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
+- [v2ray-core](https://github.com/v2ray/v2ray-core) : Go
+  - A platform for building proxies to bypass network restrictions.
+- [DXY-2019-nCoV-Crawler](https://github.com/BlankerL/DXY-2019-nCoV-Crawler) : Python
+  - 2019新型冠状病毒疫情实时爬虫
+- [2019-wuhan-coronavirus-data](https://github.com/globalcitizen/2019-wuhan-coronavirus-data) : PHP
+  - 2019 Wuhan Coronavirus data (2019-nCoV)
 - [remote-jobs](https://github.com/remoteintech/remote-jobs) : JavaScript
   - A list of semi to fully remote-friendly companies in tech.
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) : Rust
-  - An experimental Rust compiler front-end for IDEs
-- [DAIN](https://github.com/baowenbo/DAIN) : Python
-  - Depth-Aware Video Frame Interpolation (CVPR 2019)
-- [python-cheatsheet](https://github.com/gto76/python-cheatsheet) : Python
-  - Comprehensive Python Cheatsheet
-- [thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) : C
-  - Various tips & tricks
+- [bootstrap](https://github.com/twbs/bootstrap) : JavaScript
+  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [googletest](https://github.com/google/googletest) : C++
+  - Googletest - Google Testing and Mocking Framework
+- [sm64](https://github.com/n64decomp/sm64) : C
+  - A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
+- [shareOI](https://github.com/hzwer/shareOI) : 
+  - 算法竞赛课件分享
+- [clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) : C#
+  - 🌀 Clean Architecture with .NET Core 3.1 and C# 8. Use cases as central organizing structure, completely testable, decoupled from frameworks
+- [desktop](https://github.com/desktop/desktop) : TypeScript
+  - Simple collaboration from your desktop
+- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) : PowerShell
+  - Azure Quickstart Templates
+- [pandas](https://github.com/pandas-dev/pandas) : Python
+  - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+- [Alamofire](https://github.com/Alamofire/Alamofire) : Swift
+  - Elegant HTTP Networking in Swift
+- [trojan](https://github.com/trojan-gfw/trojan) : C++
+  - An unidentifiable mechanism that helps you bypass GFW.
+- [spinningup](https://github.com/openai/spinningup) : Python
+  - An educational resource to help anyone learn deep reinforcement learning.
+- [Algorithms](https://github.com/williamfiset/Algorithms) : Java
+  - A collection of algorithms and data structures
+- [cli](https://github.com/cli/cli) : Go
+  - the GitHub CLI
 - [new-pac](https://github.com/Alvin9999/new-pac) : 
   - 科学/自由上网，免费ss/ssr/v2ray/goflyway账号，搭建教程
-- [deno](https://github.com/denoland/deno) : TypeScript
-  - A secure JavaScript and TypeScript runtime
+- [navigation-ex](https://github.com/react-navigation/navigation-ex) : TypeScript
+  - Routing and navigation for your React Native apps
+- [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) : 
+  - A list of resources for those interested in getting started in bug bounties
