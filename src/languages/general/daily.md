@@ -1,50 +1,50 @@
 # general
+- [fyne](https://github.com/fyne-io/fyne) : Go
+  - Cross platform GUI in Go based on Material Design
 - [Todos](https://github.com/davidfowl/Todos) : C#
   - Various todo list backend API implementations
-- [deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) : Jupyter Notebook
-  - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
-- [jdBuyMask](https://github.com/cycz/jdBuyMask) : Python
-  - 京东监控口罩有货爬虫，自动下单爬虫，口罩爬虫
-- [BlenderGIS](https://github.com/domlysz/BlenderGIS) : Python
-  - Blender addons to make the bridge between Blender and geographic data
-- [fontpreview](https://github.com/sdushantha/fontpreview) : Shell
-  - 🔡 Very customizable and minimal font previewer written in bash
-- [Java](https://github.com/TheAlgorithms/Java) : Java
-  - All Algorithms implemented in Java
-- [cortex](https://github.com/cortexlabs/cortex) : Go
-  - Deploy machine learning models in production
-- [DAIN](https://github.com/baowenbo/DAIN) : Python
-  - Depth-Aware Video Frame Interpolation (CVPR 2019)
-- [lede](https://github.com/coolsnowwolf/lede) : C
-  - Lean's OpenWrt source
-- [fatura](https://github.com/f/fatura) : JavaScript
-  - eArşiv / eFatura Fatura Oluşturucu
-- [ANDRAX-Mobile-Pentest](https://github.com/The-Cracker-Technology/ANDRAX-Mobile-Pentest) : C
-  - ANDRAX Advanced Penetration Testing Platform for Android Smartphones
-- [ghidra](https://github.com/NationalSecurityAgency/ghidra) : Java
-  - Ghidra is a software reverse engineering (SRE) framework
-- [vnpy](https://github.com/vnpy/vnpy) : C++
-  - 基于Python的开源量化交易平台开发框架
-- [jd-automask](https://github.com/Rlacat/jd-automask) : Python
-  - 防护-京东口罩自动抢购并下单
-- [osu](https://github.com/ppy/osu) : C#
-  - rhythm is just a *click* away!
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
-  - 🤓 Build your own (insert technology here)
+- [2019-nCoV](https://github.com/CSSEGISandData/2019-nCoV) : 
+  - Novel Coronavirus (2019-nCoV) Cases, provided by JHU CSSE
+- [excelize](https://github.com/360EntSecGroup-Skylar/excelize) : Go
+  - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
+- [app-ideas](https://github.com/florinpop17/app-ideas) : 
+  - A Collection of application ideas which can be used to improve your coding skills.
+- [acwa_book_ru](https://github.com/adelf/acwa_book_ru) : 
+  - Книга "Архитектура сложных веб-приложений. С примерами на Laravel"
+- [contextualise](https://github.com/brettkromkamp/contextualise) : Python
+  - Contextualise is a simple and flexible tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
 - [fiber](https://github.com/gofiber/fiber) : Go
   - 🚀 Fiber is an Express.js inspired web framework written in Go with 💖
-- [Profiles](https://github.com/ConnersHua/Profiles) : 
-- [awesome-courses](https://github.com/prakhar1989/awesome-courses) : 
-  - 📚 List of awesome university courses for learning Computer Science!
-- [php-ddd-example](https://github.com/CodelyTV/php-ddd-example) : PHP
-  - 🐘🎯 Hexagonal Architecture + DDD + CQRS applied in PHP using Symfony 5
+- [Java](https://github.com/TheAlgorithms/Java) : Java
+  - All Algorithms implemented in Java
+- [alpine](https://github.com/alpinejs/alpine) : JavaScript
+  - A rugged, minimal framework for composing JavaScript behavior in your markup.
+- [extensions](https://github.com/dotnet/extensions) : C#
+  - .NET APIs for commonly used programming patterns and utilities, such as dependency injection, logging, and configuration.
+- [deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) : Jupyter Notebook
+  - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
+- [cortex](https://github.com/cortexlabs/cortex) : Go
+  - Deploy machine learning models in production
+- [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) : C#
+  - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
+- [vimium](https://github.com/philc/vimium) : CoffeeScript
+  - The hacker's browser.
+- [wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse) : C#
+  - Walk through an infinite, procedurally generated city
+- [bank-vaults](https://github.com/banzaicloud/bank-vaults) : Go
+  - A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods.
+- [Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch) : Jupyter Notebook
+  - 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) : Python
+  - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
   - 📚 Freely available programming books
-- [legado](https://github.com/gedoor/legado) : Kotlin
-  - 阅读3.0
-- [zhao](https://github.com/programthink/zhao) : Python
-  - 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵
-- [ESRGAN](https://github.com/xinntao/ESRGAN) : Python
-  - ECCV18 Workshops - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution (Third Region)
-- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) : Swift
-  - 🚀 Awesome list of open source applications for macOS.
+- [fontpreview](https://github.com/sdushantha/fontpreview) : Shell
+  - 🔡 Very customizable and minimal font previewer written in bash
+- [efatura](https://github.com/furkankadioglu/efatura) : PHP
+  - eArşiv üzerinden Fatura Oluşturucu
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
+  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [kutt](https://github.com/thedevs-network/kutt) : TypeScript
+  - Free Modern URL Shortener.
+- [ton](https://github.com/ton-blockchain/ton) : C++

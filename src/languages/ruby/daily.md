@@ -1,51 +1,51 @@
 # ruby
+- [fastlane](https://github.com/fastlane/fastlane)
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [mastodon](https://github.com/tootsuite/mastodon)
+  - Your self-hosted, globally interconnected microblogging community
+- [sidekiq](https://github.com/mperham/sidekiq)
+  - Simple, efficient background processing for Ruby
+- [annotate_models](https://github.com/ctran/annotate_models)
+  - Annotate Rails classes with schema and routes info
+- [webpacker](https://github.com/rails/webpacker)
+  - Use Webpack to manage app-like JavaScript modules in Rails
+- [strong_migrations](https://github.com/ankane/strong_migrations)
+  - Catch unsafe migrations in development
 - [linguist](https://github.com/github/linguist)
   - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-- [sonic-pi](https://github.com/samaaron/sonic-pi)
-  - The Live Coding Music Synth for Everyone
+- [pay](https://github.com/pay-rails/pay)
+  - A subscription engine for Ruby on Rails.
+- [rubocop](https://github.com/rubocop-hq/rubocop)
+  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+- [scientist](https://github.com/github/scientist)
+  - 🔬 A Ruby library for carefully refactoring critical paths.
+- [rails](https://github.com/rails/rails)
+  - Ruby on Rails
+- [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch)
+  - Ansible playbook for Elasticsearch
+- [rails_admin](https://github.com/sferik/rails_admin)
+  - RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data
+- [active_model_serializers](https://github.com/rails-api/active_model_serializers)
+  - ActiveModel::Serializer implementation and Rails hooks
+- [choosealicense.com](https://github.com/github/choosealicense.com)
+  - A site to provide non-judgmental guidance on choosing a license for your open source project
+- [markup](https://github.com/github/markup)
+  - Determines which markup library to use to render a content file (e.g. README) on GitHub
+- [dev.to](https://github.com/thepracticaldev/dev.to)
+  - Where programmers share ideas and help each other grow
+- [dependabot-core](https://github.com/dependabot/dependabot-core)
+  - 🤖The core logic behind Dependabot's update PR creation
+- [puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib)
+  - Puppet Labs Standard Library module
 - [fluentd](https://github.com/fluent/fluentd)
   - Fluentd: Unified Logging Layer (project under CNCF)
-- [remote-working](https://github.com/greatghoul/remote-working)
-  - 收集整理远程工作相关的资料
-- [canvas-lms](https://github.com/instructure/canvas-lms)
-  - The open LMS by Instructure, Inc.
 - [metasploit-framework](https://github.com/rapid7/metasploit-framework)
   - Metasploit Framework
-- [cookies_and_sessions_lab-chi01-seng-ft-010620](https://github.com/learn-co-students/cookies_and_sessions_lab-chi01-seng-ft-010620)
-  - 
-- [photogram-queries](https://github.com/appdev-projects/photogram-queries)
-  - 
-- [orms-mapping-classes-to-database-tables-lab-nyc-web-012720](https://github.com/learn-co-students/orms-mapping-classes-to-database-tables-lab-nyc-web-012720)
-  - 
-- [orms-mapping-database-records-to-ruby-objects-lab-nyc-web-012720](https://github.com/learn-co-students/orms-mapping-database-records-to-ruby-objects-lab-nyc-web-012720)
-  - 
-- [gemoji](https://github.com/github/gemoji)
-  - Emoji images and names.
-- [oo-counting-sentences-onl01-seng-pt-012220](https://github.com/learn-co-students/oo-counting-sentences-onl01-seng-pt-012220)
-  - 
-- [petri_flow](https://github.com/hooopo/petri_flow)
-  - Petri Net Workflow Engine for Ruby.
-- [rails-layouts-and-templates-lab-nyc-clarke-web-010620](https://github.com/learn-co-students/rails-layouts-and-templates-lab-nyc-clarke-web-010620)
-  - 
-- [activerecord-tvland-houston-web-012720](https://github.com/learn-co-students/activerecord-tvland-houston-web-012720)
-  - 
-- [bringing-it-all-together-onl01-seng-pt-110319](https://github.com/learn-co-students/bringing-it-all-together-onl01-seng-pt-110319)
-  - 
-- [fe-zetsy-online-web-sp-000](https://github.com/learn-co-students/fe-zetsy-online-web-sp-000)
-  - 
-- [iOSDevDirectory](https://github.com/daveverwer/iOSDevDirectory)
-  - The iOS Dev Directory
-- [active-record-migrations-nyc-web-012720](https://github.com/learn-co-students/active-record-migrations-nyc-web-012720)
-  - 
-- [basic-nested-forms-chi01-seng-ft-010620](https://github.com/learn-co-students/basic-nested-forms-chi01-seng-ft-010620)
-  - 
-- [Active-Record-Association-Methods-houston-web-012720](https://github.com/learn-co-students/Active-Record-Association-Methods-houston-web-012720)
-  - 
-- [dotfiles](https://github.com/skwp/dotfiles)
-  - YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen
-- [api](https://github.com/hanami/api)
-  - Minimal, extremely fast, lightweight Ruby framework for HTTP APIs
-- [octokit.rb](https://github.com/octokit/octokit.rb)
-  - Ruby toolkit for the GitHub API
-- [awesome-cli](https://github.com/davetron5000/awesome-cli)
-  - Gem for Build Awesome Command-Line Applications in Ruby
+- [rack](https://github.com/rack/rack)
+  - a modular Ruby webserver interface
+- [onetimesecret](https://github.com/onetimesecret/onetimesecret)
+  - Keep sensitive info out of your email & chat logs.
+- [capybara](https://github.com/teamcapybara/capybara)
+  - Acceptance test framework for web applications
+- [ckeditor](https://github.com/galetahub/ckeditor)
+  - Ckeditor 4.x integration gem for rails

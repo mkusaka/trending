@@ -1,51 +1,51 @@
 # c++
-- [vnpy](https://github.com/vnpy/vnpy)
-  - 基于Python的开源量化交易平台开发框架
-- [bitcoin](https://github.com/bitcoin/bitcoin)
-  - Bitcoin Core integration/staging tree
+- [ton](https://github.com/ton-blockchain/ton)
+  - 
 - [serenity](https://github.com/SerenityOS/serenity)
   - Serenity Operating System
-- [TrinityCore](https://github.com/TrinityCore/TrinityCore)
-  - TrinityCore Open Source MMO Framework (master = 8.2.5.32978, 3.3.5 = 3.3.5a.12340)
+- [googletest](https://github.com/google/googletest)
+  - Googletest - Google Testing and Mocking Framework
+- [ClickHouse](https://github.com/ClickHouse/ClickHouse)
+  - ClickHouse is a free analytics DBMS for big data
+- [pytorch](https://github.com/pytorch/pytorch)
+  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [filament](https://github.com/google/filament)
+  - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
+- [marl](https://github.com/google/marl)
+  - A hybrid thread / fiber task scheduler written in C++ 11
+- [vnpy](https://github.com/vnpy/vnpy)
+  - 基于Python的开源量化交易平台开发框架
+- [Catch2](https://github.com/catchorg/Catch2)
+  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [PowerToys](https://github.com/microsoft/PowerToys)
+  - Windows system utilities to maximize productivity
+- [cpr](https://github.com/whoshuu/cpr)
+  - C++ Requests: Curl for People, a spiritual port of Python Requests
+- [onnxruntime](https://github.com/microsoft/onnxruntime)
+  - ONNX Runtime: cross-platform, high performance scoring engine for ML models
+- [srs](https://github.com/ossrs/srs)
+  - SRS is a live streaming cluster, high efficiency, stable and simple.
+- [mlpack](https://github.com/mlpack/mlpack)
+  - mlpack: a scalable C++ machine learning library --
+- [pybind11](https://github.com/pybind/pybind11)
+  - Seamless operability between C++11 and Python
+- [envoy](https://github.com/envoyproxy/envoy)
+  - Cloud-native high-performance edge/middle/service proxy
+- [ncnn](https://github.com/Tencent/ncnn)
+  - ncnn is a high-performance neural network inference framework optimized for the mobile platform
+- [protobuf](https://github.com/protocolbuffers/protobuf)
+  - Protocol Buffers - Google's data interchange format
+- [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2)
+  - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
+- [spdlog](https://github.com/gabime/spdlog)
+  - Fast C++ logging library.
+- [benchmark](https://github.com/google/benchmark)
+  - A microbenchmark support library
+- [cpp-taskflow](https://github.com/cpp-taskflow/cpp-taskflow)
+  - A Modern C++ Parallel Task Programming Library
+- [SEAL](https://github.com/microsoft/SEAL)
+  - Microsoft SEAL is an easy-to-use and powerful homomorphic encryption library.
 - [open-builder](https://github.com/Hopson97/open-builder)
   - Open source "Minecraft-like" game with multiplayer support.
-- [imgui](https://github.com/ocornut/imgui)
-  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
-- [FastLED](https://github.com/FastLED/FastLED)
-  - The FastLED library for colored LED animation on Arduino. Please direct questions/requests for help to the FastLED Reddit community: http://fastled.io/r We'd like to use github "issues" just for tracking library bugs / enhancements.
-- [Rack](https://github.com/VCVRack/Rack)
-  - Virtual Eurorack DAW
-- [algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures)
-  - 180+ Algorithm & Data Structure Problems using C++
-- [work-stealing-queue](https://github.com/tsung-wei-huang/work-stealing-queue)
-  - A fast work-stealing queue library in C++
-- [mactype](https://github.com/snowie2000/mactype)
-  - Better font rendering for Windows.
-- [supercollider](https://github.com/supercollider/supercollider)
-  - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
-- [RedisDesktopManager](https://github.com/uglide/RedisDesktopManager)
-  - 🔧 Cross-platform GUI management tool for Redis
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [qmc-decoder](https://github.com/Presburger/qmc-decoder)
-  - Fastest & best convert qmc 2 mp3 | flac tools
-- [Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice)
-  - 搞定C++👊。C++ Primer 中文版第5版学习仓库，包括笔记和课后练习答案。
-- [xbmc](https://github.com/xbmc/xbmc)
-  - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
-- [llvm-project](https://github.com/llvm/llvm-project)
-  - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
-- [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2)
-  - An open source re-implementation of RollerCoaster Tycoon 2 🎢
-- [Data-Structres](https://github.com/callmePicacho/Data-Structres)
-  - 浙江大学《数据结构》上课笔记 + 数据结构实现 + 课后题题解
-- [The-Open-Book](https://github.com/joeycastillo/The-Open-Book)
-  - 
-- [qBittorrent](https://github.com/qbittorrent/qBittorrent)
-  - qBittorrent BitTorrent client
-- [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
-  - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
-- [kurento-media-server](https://github.com/Kurento/kurento-media-server)
-  - Media Server responsible for media transmission, processing, loading and recording
-- [apollo](https://github.com/ApolloAuto/apollo)
-  - An open autonomous driving platform
+- [flatbuffers](https://github.com/google/flatbuffers)
+  - FlatBuffers: Memory Efficient Serialization Library
