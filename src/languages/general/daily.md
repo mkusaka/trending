@@ -1,50 +1,50 @@
 # general
+- [tailscale](https://github.com/tailscale/tailscale) : Go
+  - Private WireGuard networks made easy
+- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
+  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
+- [request](https://github.com/request/request) : JavaScript
+  - 🏊🏾 Simplified HTTP request client.
+- [ton](https://github.com/ton-blockchain/ton) : C++
 - [fyne](https://github.com/fyne-io/fyne) : Go
   - Cross platform GUI in Go based on Material Design
-- [Todos](https://github.com/davidfowl/Todos) : C#
-  - Various todo list backend API implementations
-- [2019-nCoV](https://github.com/CSSEGISandData/2019-nCoV) : 
-  - Novel Coronavirus (2019-nCoV) Cases, provided by JHU CSSE
-- [excelize](https://github.com/360EntSecGroup-Skylar/excelize) : Go
-  - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
 - [app-ideas](https://github.com/florinpop17/app-ideas) : 
   - A Collection of application ideas which can be used to improve your coding skills.
-- [acwa_book_ru](https://github.com/adelf/acwa_book_ru) : 
-  - Книга "Архитектура сложных веб-приложений. С примерами на Laravel"
-- [contextualise](https://github.com/brettkromkamp/contextualise) : Python
-  - Contextualise is a simple and flexible tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
-- [fiber](https://github.com/gofiber/fiber) : Go
-  - 🚀 Fiber is an Express.js inspired web framework written in Go with 💖
-- [Java](https://github.com/TheAlgorithms/Java) : Java
-  - All Algorithms implemented in Java
-- [alpine](https://github.com/alpinejs/alpine) : JavaScript
-  - A rugged, minimal framework for composing JavaScript behavior in your markup.
+- [spaCy](https://github.com/explosion/spaCy) : Python
+  - 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython
+- [DeepSpeed](https://github.com/microsoft/DeepSpeed) : Python
+  - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
+  - 🤓 Build your own (insert technology here)
+- [diagrams](https://github.com/mingrammer/diagrams) : Python
+  - 🎨 Diagram as Code for prototyping cloud system architectures
+- [BrasilAPI](https://github.com/filipedeschamps/BrasilAPI) : JavaScript
+  - Vamos transformar o Brasil em uma API?
+- [practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) : C#
+  - Practical samples of aspnet core 2.1, 2.2, 3.0 and 3.1 projects you can use. Readme contains explanations on all projects.
 - [extensions](https://github.com/dotnet/extensions) : C#
   - .NET APIs for commonly used programming patterns and utilities, such as dependency injection, logging, and configuration.
-- [deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) : Jupyter Notebook
-  - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
-- [cortex](https://github.com/cortexlabs/cortex) : Go
-  - Deploy machine learning models in production
-- [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) : C#
-  - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
-- [vimium](https://github.com/philc/vimium) : CoffeeScript
-  - The hacker's browser.
-- [wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse) : C#
-  - Walk through an infinite, procedurally generated city
-- [bank-vaults](https://github.com/banzaicloud/bank-vaults) : Go
-  - A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods.
-- [Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch) : Jupyter Notebook
-  - 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) : Python
-  - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [fontpreview](https://github.com/sdushantha/fontpreview) : Shell
-  - 🔡 Very customizable and minimal font previewer written in bash
-- [efatura](https://github.com/furkankadioglu/efatura) : PHP
-  - eArşiv üzerinden Fatura Oluşturucu
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
   - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [kutt](https://github.com/thedevs-network/kutt) : TypeScript
-  - Free Modern URL Shortener.
-- [ton](https://github.com/ton-blockchain/ton) : C++
+- [awesome-database-learning](https://github.com/pingcap/awesome-database-learning) : 
+  - A list of learning materials to understand databases internals
+- [acwa_book_ru](https://github.com/adelf/acwa_book_ru) : 
+  - Книга "Архитектура сложных веб-приложений. С примерами на Laravel"
+- [etcd](https://github.com/etcd-io/etcd) : Go
+  - Distributed reliable key-value store for the most critical data of a distributed system
+- [react-select](https://github.com/JedWatson/react-select) : JavaScript
+  - The Select Component for React.js
+- [onnx](https://github.com/onnx/onnx) : PureBasic
+  - Open Neural Network Exchange
+- [onnxruntime](https://github.com/microsoft/onnxruntime) : C++
+  - ONNX Runtime: cross-platform, high performance scoring engine for ML models
+- [terraform-provider-kubernetes](https://github.com/terraform-providers/terraform-provider-kubernetes) : Go
+  - Terraform Kubernetes provider
+- [terraform](https://github.com/hashicorp/terraform) : Go
+  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [react-native-windows](https://github.com/microsoft/react-native-windows) : C++
+  - A framework for building native Windows apps with React.
+- [roslyn](https://github.com/dotnet/roslyn) : C#
+  - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
+- [Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) : Jupyter Notebook
+  - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
