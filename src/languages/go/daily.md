@@ -1,51 +1,51 @@
 # go
-- [tailscale](https://github.com/tailscale/tailscale)
-  - Private WireGuard networks made easy
+- [cli](https://github.com/cli/cli)
+  - The GitHub CLI
 - [fyne](https://github.com/fyne-io/fyne)
   - Cross platform GUI in Go based on Material Design
-- [etcd](https://github.com/etcd-io/etcd)
-  - Distributed reliable key-value store for the most critical data of a distributed system
-- [terraform-provider-kubernetes](https://github.com/terraform-providers/terraform-provider-kubernetes)
-  - Terraform Kubernetes provider
-- [terraform](https://github.com/hashicorp/terraform)
-  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [dive](https://github.com/wagoodman/dive)
-  - A tool for exploring each layer in a docker image
-- [grpc-go](https://github.com/grpc/grpc-go)
-  - The Go language implementation of gRPC. HTTP/2 based RPC
-- [bank-vaults](https://github.com/banzaicloud/bank-vaults)
-  - A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods.
-- [excelize](https://github.com/360EntSecGroup-Skylar/excelize)
-  - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
-- [traefik](https://github.com/containous/traefik)
-  - The Cloud Native Edge Router
-- [echo](https://github.com/labstack/echo)
-  - High performance, minimalist Go web framework
-- [kubernetes](https://github.com/kubernetes/kubernetes)
-  - Production-Grade Container Scheduling and Management
-- [pq](https://github.com/lib/pq)
-  - Pure Go Postgres driver for database/sql
-- [external-dns](https://github.com/kubernetes-sigs/external-dns)
-  - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [bashhub-server](https://github.com/nicksherron/bashhub-server)
-  - Private cloud shell history. Open source server for bashhub https://github.com/rcaloras/bashhub-client
-- [aquatone](https://github.com/michenriksen/aquatone)
-  - A Tool for Domain Flyovers
-- [aws-sdk-go](https://github.com/aws/aws-sdk-go)
-  - AWS SDK for the Go programming language.
-- [go](https://github.com/json-iterator/go)
-  - A high-performance 100% compatible drop-in replacement of "encoding/json"
-- [the-evolution-of-a-go-programmer](https://github.com/SuperPaintman/the-evolution-of-a-go-programmer)
-  - 
+- [tailscale](https://github.com/tailscale/tailscale)
+  - Private WireGuard networks made easy
+- [k9s](https://github.com/derailed/k9s)
+  - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [dashboard](https://github.com/kubernetes/dashboard)
+  - General-purpose web UI for Kubernetes clusters
+- [skmz](https://github.com/Shpota/skmz)
+  - A GraphQL-based Web App written with Go, React and MongoDB
+- [kiosk](https://github.com/kiosk-sh/kiosk)
+  - kiosk 🏢 Multi-Tenancy Extension For Kubernetes - Secure Cluster Sharing & Self-Service Namespace Provisioning
+- [cloud-torrent](https://github.com/jpillora/cloud-torrent)
+  - ☁️ Cloud Torrent: a self-hosted remote torrent client
+- [restic](https://github.com/restic/restic)
+  - Fast, secure, efficient backup program
+- [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)
+  - Kubebuilder - SDK for building Kubernetes APIs using CRDs
+- [esbuild](https://github.com/evanw/esbuild)
+  - An extremely fast JavaScript bundler and minifier
+- [micro](https://github.com/zyedidia/micro)
+  - A modern and intuitive terminal-based text editor
+- [community](https://github.com/kubernetes/community)
+  - Kubernetes community content
+- [ssh](https://github.com/gliderlabs/ssh)
+  - Easy SSH servers in Golang
+- [simdjson-go](https://github.com/minio/simdjson-go)
+  - Golang port of simdjson: parsing gigabytes of JSON per second
+- [hub](https://github.com/github/hub)
+  - A command-line tool that makes git easier to use with GitHub.
+- [installer](https://github.com/openshift/installer)
+  - Install an OpenShift cluster
+- [protobuf](https://github.com/gogo/protobuf)
+  - Protocol Buffers for Go with Gadgets
+- [dnscontrol](https://github.com/StackExchange/dnscontrol)
+  - Synchronize your DNS to multiple providers from a simple DSL
 - [velero](https://github.com/vmware-tanzu/velero)
   - Backup and migrate Kubernetes applications and their persistent volumes
-- [opa](https://github.com/open-policy-agent/opa)
-  - An open source, general-purpose policy engine.
-- [godog](https://github.com/cucumber/godog)
-  - Cucumber for golang
-- [client_golang](https://github.com/prometheus/client_golang)
-  - Prometheus instrumentation library for Go applications
-- [syncthing](https://github.com/syncthing/syncthing)
-  - Open Source Continuous File Synchronization
-- [enhancements](https://github.com/kubernetes/enhancements)
-  - Features tracking repo for Kubernetes releases
+- [minio](https://github.com/minio/minio)
+  - MinIO is a high performance object storage server compatible with Amazon S3 APIs
+- [vegeta](https://github.com/tsenart/vegeta)
+  - HTTP load testing tool and library. It's over 9000!
+- [faas](https://github.com/openfaas/faas)
+  - OpenFaaS - Serverless Functions Made Simple
+- [rclone](https://github.com/rclone/rclone)
+  - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+- [lorca](https://github.com/zserge/lorca)
+  - Build cross-platform modern desktop apps in Go + HTML5

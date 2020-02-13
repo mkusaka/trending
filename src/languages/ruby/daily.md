@@ -1,51 +1,51 @@
 # ruby
-- [linguist](https://github.com/github/linguist)
-  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-- [devise](https://github.com/heartcombo/devise)
-  - Flexible authentication solution for Rails with Warden.
-- [ruby](https://github.com/ruby/ruby)
-  - The Ruby Programming Language [mirror]
-- [sidekiq](https://github.com/mperham/sidekiq)
-  - Simple, efficient background processing for Ruby
-- [fastlane](https://github.com/fastlane/fastlane)
-  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [searchkick](https://github.com/ankane/searchkick)
-  - Intelligent search made easy with Rails and Elasticsearch
-- [fast-ruby](https://github.com/JuanitoFatas/fast-ruby)
-  - 💨 Writing Fast Ruby 😍 -- Collect Common Ruby idioms.
-- [simple_form](https://github.com/heartcombo/simple_form)
-  - Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
 - [CocoaPods](https://github.com/CocoaPods/CocoaPods)
   - The Cocoa Dependency Manager.
-- [faker](https://github.com/faker-ruby/faker)
-  - A library for generating fake data such as names, addresses, and phone numbers.
-- [ruby-kafka](https://github.com/zendesk/ruby-kafka)
-  - A Ruby client library for Apache Kafka
-- [logstash-patterns-core](https://github.com/logstash-plugins/logstash-patterns-core)
-  - 
-- [capistrano](https://github.com/capistrano/capistrano)
-  - Remote multi-server automation tool
-- [overcommit](https://github.com/sds/overcommit)
-  - A fully configurable and extendable Git hook manager
-- [bundler](https://github.com/rubygems/bundler)
-  - Manage your Ruby application's gem dependencies
+- [huginn](https://github.com/huginn/huginn)
+  - Create agents that monitor and act on your behalf. Your agents are standing by!
 - [rubocop](https://github.com/rubocop-hq/rubocop)
   - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [spree](https://github.com/spree/spree)
-  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
-- [sorbet](https://github.com/sorbet/sorbet)
-  - A fast, powerful type checker designed for Ruby
-- [zammad](https://github.com/zammad/zammad)
-  - Zammad is a web based open source helpdesk/customer support system
-- [carrierwave](https://github.com/carrierwaveuploader/carrierwave)
-  - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
-- [puppet](https://github.com/puppetlabs/puppet)
-  - Server automation framework and application
-- [Ceedling](https://github.com/ThrowTheSwitch/Ceedling)
-  - Ruby/Rake-based build and test system for C projects
-- [pundit](https://github.com/varvet/pundit)
-  - Minimal authorization through OO design and pure Ruby classes
 - [grape](https://github.com/ruby-grape/grape)
   - An opinionated framework for creating REST-like APIs in Ruby.
-- [simplecov](https://github.com/colszowka/simplecov)
-  - Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites
+- [simple_form](https://github.com/heartcombo/simple_form)
+  - Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
+- [fastlane](https://github.com/fastlane/fastlane)
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [fluentd](https://github.com/fluent/fluentd)
+  - Fluentd: Unified Logging Layer (project under CNCF)
+- [capistrano](https://github.com/capistrano/capistrano)
+  - Remote multi-server automation tool
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
+  - Metasploit Framework
+- [liquid](https://github.com/Shopify/liquid)
+  - Liquid markup language. Safe, customer facing template language for flexible web apps.
+- [remote-working](https://github.com/greatghoul/remote-working)
+  - 收集整理远程工作相关的资料
+- [hello-ruby](https://github.com/kiei451-winter2020/hello-ruby)
+  - 
+- [SNY.OSS.DCK.01.01.00](https://github.com/sunnyvale-academy/SNY.OSS.DCK.01.01.00)
+  - Docker crash course v. 01.00
+- [reverse-each-word-onl01-seng-ft-021020](https://github.com/learn-co-students/reverse-each-word-onl01-seng-ft-021020)
+  - 
+- [hw-sinatra-saas-hangperson](https://github.com/saasbook/hw-sinatra-saas-hangperson)
+  - Hangperson: a scaffolded (!) ESaaS getting-started assignment
+- [yield-and-return-values-onl01-seng-ft-021020](https://github.com/learn-co-students/yield-and-return-values-onl01-seng-ft-021020)
+  - 
+- [debugs_bunny](https://github.com/Zetatango/debugs_bunny)
+  - 
+- [operators-onl01-seng-pt-021020](https://github.com/learn-co-students/operators-onl01-seng-pt-021020)
+  - 
+- [deli-counter-onl01-seng-ft-021020](https://github.com/learn-co-students/deli-counter-onl01-seng-ft-021020)
+  - 
+- [oxford-comma-onl01-seng-ft-021020](https://github.com/learn-co-students/oxford-comma-onl01-seng-ft-021020)
+  - 
+- [my-each-onl01-seng-ft-021020](https://github.com/learn-co-students/my-each-onl01-seng-ft-021020)
+  - 
+- [square_array-onl01-seng-ft-021020](https://github.com/learn-co-students/square_array-onl01-seng-ft-021020)
+  - 
+- [photogram-gui](https://github.com/appdev-projects/photogram-gui)
+  - 
+- [speaking-grandma-onl01-seng-pt-021020](https://github.com/learn-co-students/speaking-grandma-onl01-seng-pt-021020)
+  - 
+- [gitdm](https://github.com/cncf/gitdm)
+  - 📜Fork for tracking CNCF projects

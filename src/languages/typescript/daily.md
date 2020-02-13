@@ -1,51 +1,51 @@
 # typescript
-- [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
-  - Tasks for Azure Pipelines
-- [aws-cdk](https://github.com/aws/aws-cdk)
-  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
-  - 📋 React hooks for forms validation without the hassle.
-- [kittenTricks](https://github.com/akveo/kittenTricks)
-  - React Native starter kit with over 40 screens and modern Light and Dark theme for creating stunning cross-platform mobile applications.
-- [storybook](https://github.com/storybookjs/storybook)
-  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+- [nest](https://github.com/nestjs/nest)
+  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [deno](https://github.com/denoland/deno)
+  - A secure JavaScript and TypeScript runtime
 - [react-navigation](https://github.com/react-navigation/react-navigation)
   - Routing and navigation for your React Native apps
-- [angular-cli](https://github.com/angular/angular-cli)
-  - CLI tool for Angular
-- [kibana](https://github.com/elastic/kibana)
-  - Your window into the Elastic Stack
-- [formik](https://github.com/jaredpalmer/formik)
-  - Build forms in React, without the tears 😭
-- [PoE-Overlay](https://github.com/Kyusung4698/PoE-Overlay)
-  - An Overlay for Path of Exile. Built with Electron and Angular.
-- [nebular](https://github.com/akveo/nebular)
-  - 💥 Customizable Angular UI Library based on Eva Design System 🌚✨Dark Mode
-- [react-data-grid](https://github.com/adazzle/react-data-grid)
-  - Excel-like grid component built with React, with editors, keyboard navigation, copy & paste, and the like http://adazzle.github.io/react-data-grid/
-- [kutt](https://github.com/thedevs-network/kutt)
-  - Free Modern URL Shortener.
-- [bulletproof-nodejs](https://github.com/santiq/bulletproof-nodejs)
-  - Implementation of a bulletproof node.js API 🛡️
-- [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native)
-  - ⚛️📺Projects from the “Can it be done in React Native?” YouTube series
-- [electron-builder](https://github.com/electron-userland/electron-builder)
-  - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-  - The repository for high quality TypeScript type definitions.
-- [apollo-client](https://github.com/apollographql/apollo-client)
-  - 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
-- [clean-code-typescript](https://github.com/labs42io/clean-code-typescript)
-  - Clean Code concepts adapted for TypeScript
-- [xstate](https://github.com/davidkpiano/xstate)
-  - State machines and statecharts for the modern web.
+- [redux-toolkit](https://github.com/reduxjs/redux-toolkit)
+  - The official, opinionated, batteries-included toolset for efficient Redux development
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
+  - 📋 React hooks for forms validation without the hassle.
+- [typeorm](https://github.com/typeorm/typeorm)
+  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+- [fullcalendar-angular](https://github.com/fullcalendar/fullcalendar-angular)
+  - An official Angular component for FullCalendar
+- [ionic](https://github.com/ionic-team/ionic)
+  - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
+- [tfjs-models](https://github.com/tensorflow/tfjs-models)
+  - Pretrained models for TensorFlow.js
+- [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator)
+  - GraphQL code generator with flexible support for custom plugins and templates
+- [rxjs](https://github.com/ReactiveX/rxjs)
+  - A reactive programming library for JavaScript
+- [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
+  - 💬 The most complete chat UI for React Native
+- [storybook](https://github.com/storybookjs/storybook)
+  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+- [PeerTube](https://github.com/Chocobozzz/PeerTube)
+  - ActivityPub federated video streaming platform using P2P directly in the web browser
+- [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
+  - 💥 React Native UI Library based on Eva Design System 🌚✨Dark Mode
+- [botkit](https://github.com/howdyai/botkit)
+  - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
+- [hooks](https://github.com/umijs/hooks)
+  - React Hooks Library
 - [flex-layout](https://github.com/angular/flex-layout)
   - Provides HTML UI layout for Angular applications; using Flexbox and a Responsive API
-- [WebWindow](https://github.com/SteveSandersonMS/WebWindow)
-  - .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental.
-- [components](https://github.com/angular/components)
-  - Component infrastructure and Material Design components for Angular
-- [ant-design-mobile](https://github.com/ant-design/ant-design-mobile)
-  - A configurable Mobile UI
-- [survey-library](https://github.com/surveyjs/survey-library)
-  - JavaScript Survey and Form Library
+- [howtographql](https://github.com/howtographql/howtographql)
+  - The Fullstack Tutorial for GraphQL
+- [ngx-admin](https://github.com/akveo/ngx-admin)
+  - Customizable admin dashboard template based on Angular 8+
+- [Mailspring](https://github.com/Foundry376/Mailspring)
+  - 💌 A beautiful, fast and maintained fork of @nylas Mail by one of the original authors.
+- [tfjs](https://github.com/tensorflow/tfjs)
+  - A WebGL accelerated JavaScript library for training and deploying ML models.
+- [chrome](https://github.com/browserless/chrome)
+  - Chrome as a service in docker. Run on our cloud, or bring your own
+- [twitterClone](https://github.com/Trancever/twitterClone)
+  - 
+- [prism](https://github.com/stoplightio/prism)
+  - Turn any OpenAPI file into an API server with mocking, transformations, validations, and more.

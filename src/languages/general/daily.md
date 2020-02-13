@@ -1,50 +1,51 @@
 # general
-- [tailscale](https://github.com/tailscale/tailscale) : Go
-  - Private WireGuard networks made easy
-- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
-  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [request](https://github.com/request/request) : JavaScript
-  - 🏊🏾 Simplified HTTP request client.
-- [ton](https://github.com/ton-blockchain/ton) : C++
-- [fyne](https://github.com/fyne-io/fyne) : Go
-  - Cross platform GUI in Go based on Material Design
+- [cli](https://github.com/cli/cli) : Go
+  - The GitHub CLI
+- [ABD](https://github.com/malrev/ABD) : Jupyter Notebook
+  - Course materials for Advanced Binary Deobfuscation by NTT Secure Platform Laboratories
 - [app-ideas](https://github.com/florinpop17/app-ideas) : 
   - A Collection of application ideas which can be used to improve your coding skills.
-- [spaCy](https://github.com/explosion/spaCy) : Python
-  - 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython
+- [pymatting](https://github.com/pymatting/pymatting) : Python
+  - A Python library for alpha matting
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed) : Python
   - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.
+- [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) : 
+  - 🎮 The only Front-End Performance Checklist that runs faster than the others
+- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
+  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
+- [geobr](https://github.com/ipeaGIT/geobr) : R
+  - Easy access to official spatial data sets of Brazil in R (and soon in Python too)
+- [text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer) : Python
+  - Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
   - 🤓 Build your own (insert technology here)
-- [diagrams](https://github.com/mingrammer/diagrams) : Python
-  - 🎨 Diagram as Code for prototyping cloud system architectures
-- [BrasilAPI](https://github.com/filipedeschamps/BrasilAPI) : JavaScript
-  - Vamos transformar o Brasil em uma API?
-- [practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) : C#
-  - Practical samples of aspnet core 2.1, 2.2, 3.0 and 3.1 projects you can use. Readme contains explanations on all projects.
-- [extensions](https://github.com/dotnet/extensions) : C#
-  - .NET APIs for commonly used programming patterns and utilities, such as dependency injection, logging, and configuration.
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
-  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [awesome-database-learning](https://github.com/pingcap/awesome-database-learning) : 
-  - A list of learning materials to understand databases internals
-- [acwa_book_ru](https://github.com/adelf/acwa_book_ru) : 
-  - Книга "Архитектура сложных веб-приложений. С примерами на Laravel"
-- [etcd](https://github.com/etcd-io/etcd) : Go
-  - Distributed reliable key-value store for the most critical data of a distributed system
-- [react-select](https://github.com/JedWatson/react-select) : JavaScript
-  - The Select Component for React.js
-- [onnx](https://github.com/onnx/onnx) : PureBasic
-  - Open Neural Network Exchange
-- [onnxruntime](https://github.com/microsoft/onnxruntime) : C++
-  - ONNX Runtime: cross-platform, high performance scoring engine for ML models
-- [terraform-provider-kubernetes](https://github.com/terraform-providers/terraform-provider-kubernetes) : Go
-  - Terraform Kubernetes provider
-- [terraform](https://github.com/hashicorp/terraform) : Go
-  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [react-native-windows](https://github.com/microsoft/react-native-windows) : C++
-  - A framework for building native Windows apps with React.
-- [roslyn](https://github.com/dotnet/roslyn) : C#
-  - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
-- [Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) : Jupyter Notebook
-  - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
+- [c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) : Python
+  - Sample code for Channel 9 Python for Beginners course
+- [d2l-pytorch](https://github.com/dsgiitr/d2l-pytorch) : Jupyter Notebook
+  - This project reproduces the book Dive Into Deep Learning (www.d2l.ai), adapting the code from MXNet into PyTorch.
+- [wpf](https://github.com/dotnet/wpf) : C#
+  - WPF is a .NET Core UI framework for building Windows desktop applications.
+- [devops-exercises](https://github.com/bregman-arie/devops-exercises) : Python
+  - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
+- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) : JavaScript
+  - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+- [jd-automask](https://github.com/Rlacat/jd-automask) : Python
+  - 防护-京东口罩自动抢购并下单
+- [openhardwaremonitor](https://github.com/openhardwaremonitor/openhardwaremonitor) : C#
+  - Open Hardware Monitor
+- [home-assistant-android](https://github.com/home-assistant/home-assistant-android) : Kotlin
+  - 📱 Home Assistant Companion for Android
+- [json](https://github.com/nlohmann/json) : C++
+  - JSON for Modern C++
+- [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) : Jupyter Notebook
+  - Python sample codes for robotics algorithms.
+- [transformers](https://github.com/huggingface/transformers) : Python
+  - 🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) : 
+  - A curated awesome list of lists of interview questions. Feel free to contribute! 🎓
+- [ghidra](https://github.com/NationalSecurityAgency/ghidra) : Java
+  - Ghidra is a software reverse engineering (SRE) framework
+- [serverless](https://github.com/serverless/serverless) : JavaScript
+  - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –

@@ -1,51 +1,51 @@
 # c++
-- [ton](https://github.com/ton-blockchain/ton)
-  - 
-- [onnxruntime](https://github.com/microsoft/onnxruntime)
-  - ONNX Runtime: cross-platform, high performance scoring engine for ML models
-- [react-native-windows](https://github.com/microsoft/react-native-windows)
-  - A framework for building native Windows apps with React.
-- [simdjson](https://github.com/lemire/simdjson)
-  - Parsing gigabytes of JSON per second
-- [imgui](https://github.com/ocornut/imgui)
-  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
 - [json](https://github.com/nlohmann/json)
   - JSON for Modern C++
-- [openpilot](https://github.com/commaai/openpilot)
-  - open source driving agent
+- [kaolin](https://github.com/NVIDIAGameWorks/kaolin)
+  - A PyTorch Library for Accelerating 3D Deep Learning Research
+- [react-native-windows](https://github.com/microsoft/react-native-windows)
+  - A framework for building native Windows apps with React.
+- [onnxruntime](https://github.com/microsoft/onnxruntime)
+  - ONNX Runtime: cross-platform, high performance scoring engine for ML models
+- [wesnoth](https://github.com/wesnoth/wesnoth)
+  - An open source, turn-based strategy game with a high fantasy theme.
+- [Osiris](https://github.com/danielkrupinski/Osiris)
+  - Free open-source training software / cheat for Counter-Strike: Global Offensive, written in modern C++. GUI powered by imgui.
 - [tensorflow](https://github.com/tensorflow/tensorflow)
   - An Open Source Machine Learning Framework for Everyone
-- [jetson-inference](https://github.com/dusty-nv/jetson-inference)
-  - Guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [googletest](https://github.com/google/googletest)
-  - Googletest - Google Testing and Mocking Framework
-- [Paddle](https://github.com/PaddlePaddle/Paddle)
-  - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
-- [pybind11](https://github.com/pybind/pybind11)
-  - Seamless operability between C++11 and Python
-- [protobuf](https://github.com/protocolbuffers/protobuf)
-  - Protocol Buffers - Google's data interchange format
+- [spdlog](https://github.com/gabime/spdlog)
+  - Fast C++ logging library.
+- [Qv2ray](https://github.com/Qv2ray/Qv2ray)
+  - 🌟 Linux / Windows / macOS 跨平台 V2ray GUI 🔨 使用 C++ 编写，支持订阅，扫描二维码，支持自定义路由编辑 🌟
+- [cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet)
+  - C++ Syntax, Data Structures, and Algorithms Cheat Sheet
 - [ThreadPool](https://github.com/progschj/ThreadPool)
   - A simple C++11 Thread Pool implementation
-- [glow](https://github.com/pytorch/glow)
-  - Compiler for Neural Network hardware accelerators
-- [rocksdb](https://github.com/facebook/rocksdb)
-  - A library that provides an embeddable, persistent key-value store for fast storage.
+- [Firmware](https://github.com/PX4/Firmware)
+  - PX4 Autopilot Software
+- [education](https://github.com/aminallam/education)
+  - Education
+- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
+  - C++那些事
+- [youtube](https://github.com/Errichto/youtube)
+  - codes for my streams and YT videos
+- [milvus](https://github.com/milvus-io/milvus)
+  - Milvus -- the world's fastest vector search engine.
 - [pytorch](https://github.com/pytorch/pytorch)
   - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [benchmark](https://github.com/google/benchmark)
-  - A microbenchmark support library
-- [cpp-httplib](https://github.com/yhirose/cpp-httplib)
-  - A C++ header-only HTTP/HTTPS server and client library
-- [pcl](https://github.com/PointCloudLibrary/pcl)
-  - Point Cloud Library (PCL)
-- [arrow](https://github.com/apache/arrow)
-  - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…
-- [Cpp-Primer](https://github.com/Mooophy/Cpp-Primer)
-  - C++ Primer 5 answers
-- [srt](https://github.com/Haivision/srt)
-  - Secure, Reliable, Transport
-- [MNN](https://github.com/alibaba/MNN)
-  - MNN is a lightweight deep neural network inference engine.
+- [slambook](https://github.com/gaoxiang12/slambook)
+  - 
+- [AntiCheat-Testing-Framework](https://github.com/niemand-sec/AntiCheat-Testing-Framework)
+  - Framework to test any Anti-Cheat
+- [simdjson](https://github.com/lemire/simdjson)
+  - Parsing gigabytes of JSON per second
+- [doxygen](https://github.com/doxygen/doxygen)
+  - Official doxygen git repository
+- [open_spiel](https://github.com/deepmind/open_spiel)
+  - OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
+- [flatbuffers](https://github.com/google/flatbuffers)
+  - FlatBuffers: Memory Efficient Serialization Library
+- [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2)
+  - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
+- [bgfx](https://github.com/bkaradzic/bgfx)
+  - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
