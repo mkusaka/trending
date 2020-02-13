@@ -1,51 +1,51 @@
 # rust
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
-- [findomain](https://github.com/Edu4rdSHL/findomain)
-  - The fastest and cross-platform subdomain enumerator, do not waste your time.
-- [seed](https://github.com/seed-rs/seed)
-  - A Rust framework for creating web apps
-- [atm-cli](https://github.com/allthemusicllc/atm-cli)
-  - Command line tool for generating and working with MIDI files.
-- [bandwhich](https://github.com/imsnif/bandwhich)
-  - Terminal bandwidth utilization tool
-- [xsv](https://github.com/BurntSushi/xsv)
-  - A fast CSV command line toolkit written in Rust.
-- [cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor)
-  - A rust-vmm based cloud hypervisor
-- [spotifyd](https://github.com/Spotifyd/spotifyd)
-  - A spotify daemon
-- [rust-raspi3-OS-tutorials](https://github.com/rust-embedded/rust-raspi3-OS-tutorials)
-  - 📚 Learn to write an embedded OS in Rust on the Raspberry Pi 🦀
-- [spotify-tui](https://github.com/Rigellute/spotify-tui)
-  - Spotify for the terminal written in Rust 🚀
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [substrate](https://github.com/paritytech/substrate)
-  - Substrate: The platform for blockchain innovators
-- [tracing](https://github.com/tokio-rs/tracing)
-  - Application level tracing for Rust.
-- [rust-clippy](https://github.com/rust-lang/rust-clippy)
-  - A bunch of lints to catch common mistakes and improve your Rust code
-- [cargo](https://github.com/rust-lang/cargo)
-  - The Rust package manager
-- [servo](https://github.com/servo/servo)
-  - The Servo Browser Engine
-- [warp](https://github.com/seanmonstar/warp)
-  - A super-easy, composable, web server framework for warp speeds.
-- [makepad](https://github.com/makepad/makepad)
-  - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
-- [examples](https://github.com/actix/examples)
-  - Actix web examples
-- [druid](https://github.com/xi-editor/druid)
-  - A data-first Rust-native UI design toolkit.
-- [tower](https://github.com/tower-rs/tower)
-  - async fn(Request) -> Result<Response, Error>
-- [habitat](https://github.com/habitat-sh/habitat)
-  - Modern applications with built-in automation
-- [wasmtime](https://github.com/bytecodealliance/wasmtime)
-  - Standalone JIT-style runtime for WebAssembly, using Cranelift
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
   - A curated list of Rust code and resources.
-- [webrender](https://github.com/servo/webrender)
-  - A GPU-based renderer for the web
+- [crates.io](https://github.com/rust-lang/crates.io)
+  - Source code for crates.io
+- [Rust](https://github.com/TheAlgorithms/Rust)
+  - All Algorithms implemented in Rust
+- [tracing](https://github.com/tokio-rs/tracing)
+  - Application level tracing for Rust.
+- [awesome-static-analysis](https://github.com/mre/awesome-static-analysis)
+  - Static analysis tools for all programming languages
+- [atm-cli](https://github.com/allthemusicllc/atm-cli)
+  - Command line tool for generating and working with MIDI files.
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [xsv](https://github.com/BurntSushi/xsv)
+  - A fast CSV command line toolkit written in Rust.
+- [mdBook](https://github.com/rust-lang/mdBook)
+  - Create book from markdown files. Like Gitbook but implemented in Rust
+- [rustlings](https://github.com/rust-lang/rustlings)
+  - Small exercises to get you used to reading and writing Rust code!
+- [parity-ethereum](https://github.com/paritytech/parity-ethereum)
+  - The fast, light, and robust EVM and WASM client.
+- [cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor)
+  - A rust-vmm based cloud hypervisor
+- [iced](https://github.com/hecrj/iced)
+  - A cross-platform GUI library for Rust, inspired by Elm
+- [tch-rs](https://github.com/LaurentMazare/tch-rs)
+  - Rust bindings for PyTorch
+- [rust-raspi3-OS-tutorials](https://github.com/rust-embedded/rust-raspi3-OS-tutorials)
+  - 📚 Learn to write an embedded OS in Rust on the Raspberry Pi 🦀
+- [cntr](https://github.com/Mic92/cntr)
+  - A container debugging tool based on FUSE
+- [argh](https://github.com/google/argh)
+  - Rust derive-based argument parsing optimized for code size
+- [noria](https://github.com/mit-pdos/noria)
+  - Dynamically changing, partially-stateful data-flow for web application backends.
+- [application-services](https://github.com/mozilla/application-services)
+  - Firefox Application Services
+- [cargo-make](https://github.com/sagiegurari/cargo-make)
+  - Rust task runner and build tool.
+- [rust-openssl](https://github.com/sfackler/rust-openssl)
+  - OpenSSL bindings for Rust
+- [probe-rs](https://github.com/probe-rs/probe-rs)
+  - A debugging toolset and library for debugging ARM cores on a separate host
+- [neon](https://github.com/neon-bindings/neon)
+  - Rust bindings for writing safe and fast native Node.js modules.
+- [luminance-rs](https://github.com/phaazon/luminance-rs)
+  - Type-safe, type-level and stateless Rust graphics framework

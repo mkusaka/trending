@@ -1,51 +1,51 @@
 # javascript
-- [request](https://github.com/request/request)
-  - 🏊🏾 Simplified HTTP request client.
-- [BrasilAPI](https://github.com/filipedeschamps/BrasilAPI)
-  - Vamos transformar o Brasil em uma API?
-- [react-select](https://github.com/JedWatson/react-select)
-  - The Select Component for React.js
-- [sheetjs](https://github.com/SheetJS/sheetjs)
-  - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
-- [renovate](https://github.com/renovatebot/renovate)
-  - Universal dependency update tool that fits into your workflows.
+- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+  - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [serverless](https://github.com/serverless/serverless)
   - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
-- [styled-components](https://github.com/styled-components/styled-components)
-  - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
-- [axios](https://github.com/axios/axios)
-  - Promise based HTTP client for the browser and node.js
-- [Script](https://github.com/NobyDa/Script)
-  - This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.
-- [amphtml](https://github.com/ampproject/amphtml)
-  - The AMP web component framework. Please give us your feedback on AMP @ https://go.amp.dev/devx-survey
-- [react-awesome-slider](https://github.com/rcaferati/react-awesome-slider)
-  - React content transition slider. Awesome Slider is a 60fps, light weight, performant component that renders an animated set of production ready UI general purpose sliders. 🖥️📱
-- [pdf.js](https://github.com/mozilla/pdf.js)
-  - PDF Reader in JavaScript
-- [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
-  - The best design tools and plugins for everything 👉
-- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
-  - The ultimate Free Open Source Solution for team communications.
-- [enzyme](https://github.com/airbnb/enzyme)
-  - JavaScript Testing utilities for React
-- [jsPDF](https://github.com/MrRio/jsPDF)
-  - Client-side JavaScript PDF generation for everyone.
-- [react-table](https://github.com/tannerlinsley/react-table)
-  - ⚛️ Hooks for building fast and extendable tables and datagrids for React
-- [react-native-firebase](https://github.com/invertase/react-native-firebase)
-  - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [sass-loader](https://github.com/webpack-contrib/sass-loader)
-  - Compiles Sass to CSS
-- [QuantumultX](https://github.com/nzw9314/QuantumultX)
-  - QuantumultX
-- [swagger-ui](https://github.com/swagger-api/swagger-ui)
-  - Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
-- [three.js](https://github.com/mrdoob/three.js)
-  - JavaScript 3D library.
-- [graphql-engine](https://github.com/hasura/graphql-engine)
-  - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
-- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
-  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [BrasilAPI](https://github.com/filipedeschamps/BrasilAPI)
+  - Vamos transformar o Brasil em uma API?
+- [joplin](https://github.com/laurent22/joplin)
+  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+  - 💯 Materials to help you rock your next coding interview
+- [jexcel](https://github.com/paulhodel/jexcel)
+  - jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software.
+- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
+  - 🕸 Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
+- [react-tiger-transition](https://github.com/PedroBern/react-tiger-transition)
+  - Full page transitions with react-router.
+- [request](https://github.com/request/request)
+  - 🏊🏾 Simplified HTTP request client.
+- [CF-Worker-Dir](https://github.com/sleepwood/CF-Worker-Dir)
+  - A web directories base on Cloudflare worker.
+- [grokking_algorithms](https://github.com/egonSchiele/grokking_algorithms)
+  - Code for the book Grokking Algorithms (https://amzn.to/29rVyHf)
+- [vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri)
+  - vue2 + vue-router + vuex 入门项目
+- [archerysec](https://github.com/archerysec/archerysec)
+  - Centralize Vulnerability Assessment and Management for DevSecOps Team
+- [meteor](https://github.com/meteor/meteor)
+  - Meteor, the JavaScript App Platform
+- [webdriverio](https://github.com/webdriverio/webdriverio)
+  - Next-gen WebDriver test automation framework for Node.js
+- [strapi](https://github.com/strapi/strapi)
+  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [potree](https://github.com/potree/potree)
+  - WebGL point cloud viewer for large datasets
+- [quill](https://github.com/quilljs/quill)
+  - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
+- [react-vis](https://github.com/uber/react-vis)
+  - Data Visualization Components
+- [react-select](https://github.com/JedWatson/react-select)
+  - The Select Component for React.js
+- [stage.js](https://github.com/shakiba/stage.js)
+  - 2D HTML5 rendering and layout engine for game development
+- [create-react-library](https://github.com/transitive-bullshit/create-react-library)
+  - ⚡CLI for easily creating reusable react libraries.
+- [d3](https://github.com/d3/d3)
+  - Bring data to life with SVG, Canvas and HTML. 📊📈🎉
+- [ethereumbook](https://github.com/ethereumbook/ethereumbook)
+  - Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
