@@ -1,51 +1,51 @@
 # javascript
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui)
+  - ⚡️Simple, Modular & Accessible UI Components for your React Applications
+- [jamstack-ecommerce](https://github.com/jamstack-cms/jamstack-ecommerce)
+  - A starter project for building performant ECommerce applications with Gatsby and React
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
   - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [serverless](https://github.com/serverless/serverless)
   - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
-- [BrasilAPI](https://github.com/filipedeschamps/BrasilAPI)
-  - Vamos transformar o Brasil em uma API?
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [cypress-example-recipes](https://github.com/cypress-io/cypress-example-recipes)
+  - Various recipes for testing common scenarios with Cypress
+- [baucua](https://github.com/conanak99/baucua)
+  - 
+- [release-it](https://github.com/release-it/release-it)
+  - 🚀 Automate versioning and package publishing
 - [joplin](https://github.com/laurent22/joplin)
   - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
-  - 💯 Materials to help you rock your next coding interview
-- [jexcel](https://github.com/paulhodel/jexcel)
-  - jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software.
-- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
-  - 🕸 Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
-- [react-tiger-transition](https://github.com/PedroBern/react-tiger-transition)
-  - Full page transitions with react-router.
-- [request](https://github.com/request/request)
-  - 🏊🏾 Simplified HTTP request client.
-- [CF-Worker-Dir](https://github.com/sleepwood/CF-Worker-Dir)
-  - A web directories base on Cloudflare worker.
-- [grokking_algorithms](https://github.com/egonSchiele/grokking_algorithms)
-  - Code for the book Grokking Algorithms (https://amzn.to/29rVyHf)
-- [vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri)
-  - vue2 + vue-router + vuex 入门项目
-- [archerysec](https://github.com/archerysec/archerysec)
-  - Centralize Vulnerability Assessment and Management for DevSecOps Team
-- [meteor](https://github.com/meteor/meteor)
-  - Meteor, the JavaScript App Platform
-- [webdriverio](https://github.com/webdriverio/webdriverio)
-  - Next-gen WebDriver test automation framework for Node.js
-- [strapi](https://github.com/strapi/strapi)
-  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
-- [potree](https://github.com/potree/potree)
-  - WebGL point cloud viewer for large datasets
-- [quill](https://github.com/quilljs/quill)
-  - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
-- [react-vis](https://github.com/uber/react-vis)
-  - Data Visualization Components
-- [react-select](https://github.com/JedWatson/react-select)
-  - The Select Component for React.js
-- [stage.js](https://github.com/shakiba/stage.js)
-  - 2D HTML5 rendering and layout engine for game development
-- [create-react-library](https://github.com/transitive-bullshit/create-react-library)
-  - ⚡CLI for easily creating reusable react libraries.
-- [d3](https://github.com/d3/d3)
-  - Bring data to life with SVG, Canvas and HTML. 📊📈🎉
-- [ethereumbook](https://github.com/ethereumbook/ethereumbook)
-  - Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
+- [generator-jhipster](https://github.com/jhipster/generator-jhipster)
+  - Open Source application platform for creating Spring Boot + Angular/React projects in seconds!
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+  - The ultimate Free Open Source Solution for team communications.
+- [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js)
+  - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
+- [noVNC](https://github.com/novnc/noVNC)
+  - VNC client web application
+- [graphql-engine](https://github.com/hasura/graphql-engine)
+  - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+- [Sortable](https://github.com/SortableJS/Sortable)
+  - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Ember, Knockout and any CSS library, e.g. Bootstrap.
+- [pdf.js](https://github.com/mozilla/pdf.js)
+  - PDF Reader in JavaScript
+- [react-virtualized](https://github.com/bvaughn/react-virtualized)
+  - React components for efficiently rendering large lists and tabular data
+- [amphtml](https://github.com/ampproject/amphtml)
+  - The AMP web component framework. Please give us your feedback on AMP @ https://go.amp.dev/devx-survey
+- [vant-weapp](https://github.com/youzan/vant-weapp)
+  - 轻量、可靠的小程序 UI 组件库
+- [Rocket.Chat.ReactNative](https://github.com/RocketChat/Rocket.Chat.ReactNative)
+  - Rocket.Chat mobile clients
+- [fanqiang](https://github.com/bannedbook/fanqiang)
+  - 翻墙-科学上网
+- [weui-wxss](https://github.com/Tencent/weui-wxss)
+  - A UI library by WeChat official design team, includes the most useful widgets/modules.
+- [node-postgres](https://github.com/brianc/node-postgres)
+  - PostgreSQL client for node.js.
+- [openlayers](https://github.com/openlayers/openlayers)
+  - OpenLayers
+- [next.js](https://github.com/zeit/next.js)
+  - The React Framework
