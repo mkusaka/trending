@@ -1,51 +1,51 @@
 # c++
-- [json](https://github.com/nlohmann/json)
-  - JSON for Modern C++
-- [kaolin](https://github.com/NVIDIAGameWorks/kaolin)
-  - A PyTorch Library for Accelerating 3D Deep Learning Research
-- [react-native-windows](https://github.com/microsoft/react-native-windows)
-  - A framework for building native Windows apps with React.
-- [onnxruntime](https://github.com/microsoft/onnxruntime)
-  - ONNX Runtime: cross-platform, high performance scoring engine for ML models
-- [wesnoth](https://github.com/wesnoth/wesnoth)
-  - An open source, turn-based strategy game with a high fantasy theme.
-- [Osiris](https://github.com/danielkrupinski/Osiris)
-  - Free open-source training software / cheat for Counter-Strike: Global Offensive, written in modern C++. GUI powered by imgui.
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [spdlog](https://github.com/gabime/spdlog)
-  - Fast C++ logging library.
-- [Qv2ray](https://github.com/Qv2ray/Qv2ray)
-  - 🌟 Linux / Windows / macOS 跨平台 V2ray GUI 🔨 使用 C++ 编写，支持订阅，扫描二维码，支持自定义路由编辑 🌟
-- [cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet)
-  - C++ Syntax, Data Structures, and Algorithms Cheat Sheet
-- [ThreadPool](https://github.com/progschj/ThreadPool)
-  - A simple C++11 Thread Pool implementation
-- [Firmware](https://github.com/PX4/Firmware)
-  - PX4 Autopilot Software
-- [education](https://github.com/aminallam/education)
-  - Education
-- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
-  - C++那些事
-- [youtube](https://github.com/Errichto/youtube)
-  - codes for my streams and YT videos
-- [milvus](https://github.com/milvus-io/milvus)
-  - Milvus -- the world's fastest vector search engine.
+- [Catch2](https://github.com/catchorg/Catch2)
+  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [srs](https://github.com/ossrs/srs)
+  - SRS is a live streaming cluster, high efficiency, stable and simple.
+- [engine](https://github.com/flutter/engine)
+  - The Flutter engine
 - [pytorch](https://github.com/pytorch/pytorch)
   - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [slambook](https://github.com/gaoxiang12/slambook)
+- [tcmalloc](https://github.com/google/tcmalloc)
   - 
-- [AntiCheat-Testing-Framework](https://github.com/niemand-sec/AntiCheat-Testing-Framework)
-  - Framework to test any Anti-Cheat
+- [Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice)
+  - 搞定C++👊。C++ Primer 中文版第5版学习仓库，包括笔记和课后练习答案。
+- [CVE-2020-0683](https://github.com/padovah4ck/CVE-2020-0683)
+  - CVE-2020-0683 - Windows MSI “Installer service” Elevation of Privilege
+- [benchmark](https://github.com/google/benchmark)
+  - A microbenchmark support library
 - [simdjson](https://github.com/lemire/simdjson)
   - Parsing gigabytes of JSON per second
-- [doxygen](https://github.com/doxygen/doxygen)
-  - Official doxygen git repository
-- [open_spiel](https://github.com/deepmind/open_spiel)
-  - OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
-- [flatbuffers](https://github.com/google/flatbuffers)
-  - FlatBuffers: Memory Efficient Serialization Library
-- [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2)
-  - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
-- [bgfx](https://github.com/bkaradzic/bgfx)
-  - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
+- [terminal](https://github.com/microsoft/terminal)
+  - The new Windows Terminal and the original Windows console host, all in the same place!
+- [Cpp-Primer](https://github.com/Mooophy/Cpp-Primer)
+  - C++ Primer 5 answers
+- [Paddle](https://github.com/PaddlePaddle/Paddle)
+  - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
+- [envoy](https://github.com/envoyproxy/envoy)
+  - Cloud-native high-performance edge/middle/service proxy
+- [moveit](https://github.com/ros-planning/moveit)
+  - 🤖 The MoveIt motion planning framework
+- [electron](https://github.com/electron/electron)
+  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [jetson-inference](https://github.com/dusty-nv/jetson-inference)
+  - Guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
+- [json](https://github.com/nlohmann/json)
+  - JSON for Modern C++
+- [googletest](https://github.com/google/googletest)
+  - Googletest - Google Testing and Mocking Framework
+- [minetest](https://github.com/minetest/minetest)
+  - Minetest, an open source infinite-world block sandbox game engine with support for survival and crafting. Also see https://github.com/minetest/minetest_game
+- [taichi](https://github.com/taichi-dev/taichi)
+  - Productive programming language for portable, high-performance, sparse & differentiable computing
+- [Qv2ray](https://github.com/Qv2ray/Qv2ray)
+  - 🌟 Linux / Windows / macOS 跨平台 V2ray GUI 🔨 使用 C++ 编写，支持订阅，扫描二维码，支持自定义路由编辑 🌟
+- [cmssw](https://github.com/cms-sw/cmssw)
+  - CMS Offline Software
+- [ndk-samples](https://github.com/android/ndk-samples)
+  - Android NDK samples with Android Studio
+- [gperftools](https://github.com/gperftools/gperftools)
+  - Main gperftools repository
+- [cxxopts](https://github.com/jarro2783/cxxopts)
+  - Lightweight C++ command line option parser

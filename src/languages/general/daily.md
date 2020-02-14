@@ -1,51 +1,51 @@
 # general
+- [ControlRoom](https://github.com/twostraws/ControlRoom) : Swift
+  - A macOS app to control the Xcode Simulator.
 - [cli](https://github.com/cli/cli) : Go
   - The GitHub CLI
-- [ABD](https://github.com/malrev/ABD) : Jupyter Notebook
-  - Course materials for Advanced Binary Deobfuscation by NTT Secure Platform Laboratories
-- [app-ideas](https://github.com/florinpop17/app-ideas) : 
-  - A Collection of application ideas which can be used to improve your coding skills.
-- [pymatting](https://github.com/pymatting/pymatting) : Python
-  - A Python library for alpha matting
+- [openchakra](https://github.com/premieroctet/openchakra) : TypeScript
+  - ⚡️ Visual editor for Chakra UI
+- [FreeRTOS](https://github.com/FreeRTOS/FreeRTOS) : C
+  - Master copy. Started as Git clone of FreeRTOS SourceForge SVN repo.
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed) : Python
   - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.
-- [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) : 
-  - 🎮 The only Front-End Performance Checklist that runs faster than the others
-- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
-  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [geobr](https://github.com/ipeaGIT/geobr) : R
-  - Easy access to official spatial data sets of Brazil in R (and soon in Python too)
-- [text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer) : Python
-  - Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
-  - 🤓 Build your own (insert technology here)
-- [c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) : Python
-  - Sample code for Channel 9 Python for Beginners course
-- [d2l-pytorch](https://github.com/dsgiitr/d2l-pytorch) : Jupyter Notebook
-  - This project reproduces the book Dive Into Deep Learning (www.d2l.ai), adapting the code from MXNet into PyTorch.
-- [wpf](https://github.com/dotnet/wpf) : C#
-  - WPF is a .NET Core UI framework for building Windows desktop applications.
-- [devops-exercises](https://github.com/bregman-arie/devops-exercises) : Python
-  - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
+- [azure-policy](https://github.com/Azure/azure-policy) : Open Policy Agent
+  - Repository for Azure Resource Policy samples
+- [PySyft](https://github.com/OpenMined/PySyft) : Python
+  - A library for encrypted, privacy preserving machine learning
+- [b1fipl](https://github.com/marcpaq/b1fipl) : 
+  - A Bestiary of Single-File Implementations of Programming Languages
+- [actix](https://github.com/actix/actix) : Rust
+  - Actor framework for Rust
+- [BigData-Notes](https://github.com/heibaiying/BigData-Notes) : Java
+  - 大数据入门指南 ⭐️
+- [broxy](https://github.com/rhaidiz/broxy) : Go
+  - An HTTP/HTTPS intercept proxy written in Go.
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui) : JavaScript
+  - ⚡️Simple, Modular & Accessible UI Components for your React Applications
+- [app-ideas](https://github.com/florinpop17/app-ideas) : 
+  - A Collection of application ideas which can be used to improve your coding skills.
+- [Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) : 
+  - Airplay Receiver SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
+- [jamstack-ecommerce](https://github.com/jamstack-cms/jamstack-ecommerce) : JavaScript
+  - A starter project for building performant ECommerce applications with Gatsby and React
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) : JavaScript
   - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-- [jd-automask](https://github.com/Rlacat/jd-automask) : Python
-  - 防护-京东口罩自动抢购并下单
-- [openhardwaremonitor](https://github.com/openhardwaremonitor/openhardwaremonitor) : C#
-  - Open Hardware Monitor
-- [home-assistant-android](https://github.com/home-assistant/home-assistant-android) : Kotlin
-  - 📱 Home Assistant Companion for Android
-- [json](https://github.com/nlohmann/json) : C++
-  - JSON for Modern C++
-- [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) : Jupyter Notebook
-  - Python sample codes for robotics algorithms.
-- [transformers](https://github.com/huggingface/transformers) : Python
-  - 🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) : 
-  - A curated awesome list of lists of interview questions. Feel free to contribute! 🎓
-- [ghidra](https://github.com/NationalSecurityAgency/ghidra) : Java
-  - Ghidra is a software reverse engineering (SRE) framework
+- [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) : 
+  - 🎮 The only Front-End Performance Checklist that runs faster than the others
+- [swagger-core](https://github.com/swagger-api/swagger-core) : Java
+  - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
+- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
+  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 - [serverless](https://github.com/serverless/serverless) : JavaScript
   - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+- [kubernetes](https://github.com/kubernetes/kubernetes) : Go
+  - Production-Grade Container Scheduling and Management
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [csswg-drafts](https://github.com/w3c/csswg-drafts) : HTML
+  - CSS Working Group Editor Drafts
+- [html](https://github.com/whatwg/html) : HTML
+  - HTML Standard
+- [pymatting](https://github.com/pymatting/pymatting) : Python
+  - A Python library for alpha matting

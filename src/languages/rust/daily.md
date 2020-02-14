@@ -1,51 +1,51 @@
 # rust
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-  - A curated list of Rust code and resources.
-- [crates.io](https://github.com/rust-lang/crates.io)
-  - Source code for crates.io
+- [actix](https://github.com/actix/actix)
+  - Actor framework for Rust
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix web is a small, pragmatic, and extremely fast rust web framework.
+- [wrangler](https://github.com/cloudflare/wrangler)
+  - 🤠 wrangle your cloudflare workers
 - [Rust](https://github.com/TheAlgorithms/Rust)
   - All Algorithms implemented in Rust
-- [tracing](https://github.com/tokio-rs/tracing)
-  - Application level tracing for Rust.
-- [awesome-static-analysis](https://github.com/mre/awesome-static-analysis)
-  - Static analysis tools for all programming languages
+- [WASI](https://github.com/WebAssembly/WASI)
+  - WebAssembly System Interface
+- [swc](https://github.com/swc-project/swc)
+  - Super-fast typescript / javascript compiler written in rust
 - [atm-cli](https://github.com/allthemusicllc/atm-cli)
   - Command line tool for generating and working with MIDI files.
-- [substrate](https://github.com/paritytech/substrate)
-  - Substrate: The platform for blockchain innovators
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
-  - Unofficial Bitwarden compatible server written in Rust
-- [xsv](https://github.com/BurntSushi/xsv)
-  - A fast CSV command line toolkit written in Rust.
-- [mdBook](https://github.com/rust-lang/mdBook)
-  - Create book from markdown files. Like Gitbook but implemented in Rust
-- [rustlings](https://github.com/rust-lang/rustlings)
-  - Small exercises to get you used to reading and writing Rust code!
-- [parity-ethereum](https://github.com/paritytech/parity-ethereum)
-  - The fast, light, and robust EVM and WASM client.
-- [cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor)
-  - A rust-vmm based cloud hypervisor
+- [hyper](https://github.com/hyperium/hyper)
+  - An HTTP library for Rust
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [firecracker](https://github.com/firecracker-microvm/firecracker)
+  - Secure and fast microVMs for serverless computing.
+- [crates.io](https://github.com/rust-lang/crates.io)
+  - Source code for crates.io
+- [jormungandr](https://github.com/input-output-hk/jormungandr)
+  - aspiring blockchain node
 - [iced](https://github.com/hecrj/iced)
   - A cross-platform GUI library for Rust, inspired by Elm
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
+- [clap](https://github.com/clap-rs/clap)
+  - A full featured, fast Command Line Argument Parser for Rust
 - [tch-rs](https://github.com/LaurentMazare/tch-rs)
   - Rust bindings for PyTorch
-- [rust-raspi3-OS-tutorials](https://github.com/rust-embedded/rust-raspi3-OS-tutorials)
-  - 📚 Learn to write an embedded OS in Rust on the Raspberry Pi 🦀
-- [cntr](https://github.com/Mic92/cntr)
-  - A container debugging tool based on FUSE
-- [argh](https://github.com/google/argh)
-  - Rust derive-based argument parsing optimized for code size
-- [noria](https://github.com/mit-pdos/noria)
-  - Dynamically changing, partially-stateful data-flow for web application backends.
-- [application-services](https://github.com/mozilla/application-services)
-  - Firefox Application Services
-- [cargo-make](https://github.com/sagiegurari/cargo-make)
-  - Rust task runner and build tool.
-- [rust-openssl](https://github.com/sfackler/rust-openssl)
-  - OpenSSL bindings for Rust
+- [nom](https://github.com/Geal/nom)
+  - Rust parser combinator framework
+- [reqwest](https://github.com/seanmonstar/reqwest)
+  - An easy and powerful Rust HTTP Client
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
+- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
+  - Rust bindings to wgpu native library
+- [vector](https://github.com/timberio/vector)
+  - Collect, transform, & route all observability data with one simple tool.
 - [probe-rs](https://github.com/probe-rs/probe-rs)
   - A debugging toolset and library for debugging ARM cores on a separate host
-- [neon](https://github.com/neon-bindings/neon)
-  - Rust bindings for writing safe and fast native Node.js modules.
-- [luminance-rs](https://github.com/phaazon/luminance-rs)
-  - Type-safe, type-level and stateless Rust graphics framework
+- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
+  - Facilitating high-level interactions between Wasm modules and JavaScript
+- [warp](https://github.com/seanmonstar/warp)
+  - A super-easy, composable, web server framework for warp speeds.
+- [examples](https://github.com/actix/examples)
+  - Actix web examples
