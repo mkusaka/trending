@@ -1,51 +1,51 @@
 # javascript
+- [lion](https://github.com/ing-bank/lion)
+  - Lion Web Components
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui)
   - ⚡️Simple, Modular & Accessible UI Components for your React Applications
-- [jamstack-ecommerce](https://github.com/jamstack-cms/jamstack-ecommerce)
-  - A starter project for building performant ECommerce applications with Gatsby and React
+- [ARC](https://github.com/fchollet/ARC)
+  - The Abstraction and Reasoning Corpus
+- [surge](https://github.com/yichahucha/surge)
+  - script
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
   - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+- [fullcalendar](https://github.com/fullcalendar/fullcalendar)
+  - Full-sized drag & drop event calendar
+- [You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
+  - List of functions which you can use to replace moment.js + ESLint Plugin
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+  - The https://www.freecodecamp.org open source codebase and curriculum. Learn to code for free together with millions of people.
+- [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable)
+  - Vue drag-and-drop component based on Sortable.js
+- [layuimini](https://github.com/zhongshaofa/layuimini)
+  - 后台admin前端模板，基于 layui 编写的最简洁、易用的后台框架模板。只需提供一个接口就直接初始化整个框架，无需复杂操作。
+- [bent](https://github.com/mikeal/bent)
+  - Functional JS HTTP client (Node.js & Fetch) w/ async await
+- [react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc)
+  - A set of higher-order components to turn any list into an animated, accessible and touch-friendly sortable list✌️
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+  - Headless Chrome Node.js API
 - [serverless](https://github.com/serverless/serverless)
   - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [cypress-example-recipes](https://github.com/cypress-io/cypress-example-recipes)
-  - Various recipes for testing common scenarios with Cypress
-- [baucua](https://github.com/conanak99/baucua)
-  - 
-- [release-it](https://github.com/release-it/release-it)
-  - 🚀 Automate versioning and package publishing
-- [joplin](https://github.com/laurent22/joplin)
-  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [generator-jhipster](https://github.com/jhipster/generator-jhipster)
   - Open Source application platform for creating Spring Boot + Angular/React projects in seconds!
-- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
-  - The ultimate Free Open Source Solution for team communications.
-- [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js)
-  - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
-- [noVNC](https://github.com/novnc/noVNC)
-  - VNC client web application
+- [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
+  - 📜 33 concepts every JavaScript developer should know.
+- [webdriverio](https://github.com/webdriverio/webdriverio)
+  - Next-gen WebDriver test automation framework for Node.js
+- [dtale](https://github.com/man-group/dtale)
+  - Flask/React client for visualizing pandas data structures
+- [taro](https://github.com/NervJS/taro)
+  - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动/ QQ 小程序/快应用/H5/React Native 等的应用。 https://taro.jd.com/
+- [express](https://github.com/expressjs/express)
+  - Fast, unopinionated, minimalist web framework for node.
+- [CodeceptJS](https://github.com/Codeception/CodeceptJS)
+  - Supercharged End 2 End Testing Framework for NodeJS
 - [graphql-engine](https://github.com/hasura/graphql-engine)
   - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
-- [Sortable](https://github.com/SortableJS/Sortable)
-  - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Ember, Knockout and any CSS library, e.g. Bootstrap.
-- [pdf.js](https://github.com/mozilla/pdf.js)
-  - PDF Reader in JavaScript
-- [react-virtualized](https://github.com/bvaughn/react-virtualized)
-  - React components for efficiently rendering large lists and tabular data
-- [amphtml](https://github.com/ampproject/amphtml)
-  - The AMP web component framework. Please give us your feedback on AMP @ https://go.amp.dev/devx-survey
-- [vant-weapp](https://github.com/youzan/vant-weapp)
-  - 轻量、可靠的小程序 UI 组件库
-- [Rocket.Chat.ReactNative](https://github.com/RocketChat/Rocket.Chat.ReactNative)
-  - Rocket.Chat mobile clients
-- [fanqiang](https://github.com/bannedbook/fanqiang)
-  - 翻墙-科学上网
-- [weui-wxss](https://github.com/Tencent/weui-wxss)
-  - A UI library by WeChat official design team, includes the most useful widgets/modules.
-- [node-postgres](https://github.com/brianc/node-postgres)
-  - PostgreSQL client for node.js.
-- [openlayers](https://github.com/openlayers/openlayers)
-  - OpenLayers
-- [next.js](https://github.com/zeit/next.js)
-  - The React Framework
+- [cypress-example-recipes](https://github.com/cypress-io/cypress-example-recipes)
+  - Various recipes for testing common scenarios with Cypress
+- [draft-js](https://github.com/facebook/draft-js)
+  - A React framework for building text editors.
+- [snowpack](https://github.com/pikapkg/snowpack)
+  - 📦✨ Build web applications with less tooling and 10x faster iteration. No bundler required.

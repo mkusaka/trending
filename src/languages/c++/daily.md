@@ -1,51 +1,51 @@
 # c++
-- [Catch2](https://github.com/catchorg/Catch2)
-  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-- [srs](https://github.com/ossrs/srs)
-  - SRS is a live streaming cluster, high efficiency, stable and simple.
-- [engine](https://github.com/flutter/engine)
-  - The Flutter engine
-- [pytorch](https://github.com/pytorch/pytorch)
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [tcmalloc](https://github.com/google/tcmalloc)
-  - 
-- [Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice)
-  - 搞定C++👊。C++ Primer 中文版第5版学习仓库，包括笔记和课后练习答案。
-- [CVE-2020-0683](https://github.com/padovah4ck/CVE-2020-0683)
-  - CVE-2020-0683 - Windows MSI “Installer service” Elevation of Privilege
-- [benchmark](https://github.com/google/benchmark)
-  - A microbenchmark support library
-- [simdjson](https://github.com/lemire/simdjson)
-  - Parsing gigabytes of JSON per second
 - [terminal](https://github.com/microsoft/terminal)
   - The new Windows Terminal and the original Windows console host, all in the same place!
-- [Cpp-Primer](https://github.com/Mooophy/Cpp-Primer)
-  - C++ Primer 5 answers
-- [Paddle](https://github.com/PaddlePaddle/Paddle)
-  - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
-- [envoy](https://github.com/envoyproxy/envoy)
-  - Cloud-native high-performance edge/middle/service proxy
-- [moveit](https://github.com/ros-planning/moveit)
-  - 🤖 The MoveIt motion planning framework
-- [electron](https://github.com/electron/electron)
-  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [jetson-inference](https://github.com/dusty-nv/jetson-inference)
-  - Guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
-- [json](https://github.com/nlohmann/json)
-  - JSON for Modern C++
+- [tcmalloc](https://github.com/google/tcmalloc)
+  - 
+- [ClickHouse](https://github.com/ClickHouse/ClickHouse)
+  - ClickHouse is a free analytics DBMS for big data
 - [googletest](https://github.com/google/googletest)
   - Googletest - Google Testing and Mocking Framework
-- [minetest](https://github.com/minetest/minetest)
-  - Minetest, an open source infinite-world block sandbox game engine with support for survival and crafting. Also see https://github.com/minetest/minetest_game
+- [Catch2](https://github.com/catchorg/Catch2)
+  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [jetson-inference](https://github.com/dusty-nv/jetson-inference)
+  - Guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
+- [waymo-open-dataset](https://github.com/waymo-research/waymo-open-dataset)
+  - Waymo Open Dataset
+- [thrift](https://github.com/apache/thrift)
+  - Apache Thrift
 - [taichi](https://github.com/taichi-dev/taichi)
   - Productive programming language for portable, high-performance, sparse & differentiable computing
-- [Qv2ray](https://github.com/Qv2ray/Qv2ray)
-  - 🌟 Linux / Windows / macOS 跨平台 V2ray GUI 🔨 使用 C++ 编写，支持订阅，扫描二维码，支持自定义路由编辑 🌟
-- [cmssw](https://github.com/cms-sw/cmssw)
-  - CMS Offline Software
-- [ndk-samples](https://github.com/android/ndk-samples)
-  - Android NDK samples with Android Studio
-- [gperftools](https://github.com/gperftools/gperftools)
-  - Main gperftools repository
-- [cxxopts](https://github.com/jarro2783/cxxopts)
-  - Lightweight C++ command line option parser
+- [abseil-cpp](https://github.com/abseil/abseil-cpp)
+  - Abseil Common Libraries (C++)
+- [benchmark](https://github.com/google/benchmark)
+  - A microbenchmark support library
+- [godot](https://github.com/godotengine/godot)
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [simdjson](https://github.com/lemire/simdjson)
+  - Parsing gigabytes of JSON per second
+- [osquery](https://github.com/osquery/osquery)
+  - SQL powered operating system instrumentation, monitoring, and analytics.
+- [bpftrace](https://github.com/iovisor/bpftrace)
+  - High-level tracing language for Linux eBPF
+- [mediapipe](https://github.com/google/mediapipe)
+  - MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
+- [protobuf](https://github.com/protocolbuffers/protobuf)
+  - Protocol Buffers - Google's data interchange format
+- [flatbuffers](https://github.com/google/flatbuffers)
+  - FlatBuffers: Memory Efficient Serialization Library
+- [BIGTREETECH-SKR-mini-E3](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3)
+  - BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.
+- [TensorRT](https://github.com/NVIDIA/TensorRT)
+  - TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.
+- [server](https://github.com/MariaDB/server)
+  - MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.
+- [stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn)
+  - Proxy performance batch tester based on Shadowsocks(R) and V2Ray
+- [LightGBM](https://github.com/microsoft/LightGBM)
+  - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
+- [Windows10-CustomKernelSigners](https://github.com/HyperSine/Windows10-CustomKernelSigners)
+  - Load self-signed drivers without TestSigning or disable DSE. Transferred from https://github.com/DoubleLabyrinth/Windows10-CustomKernelSigners
+- [mongo](https://github.com/mongodb/mongo)
+  - The MongoDB Database

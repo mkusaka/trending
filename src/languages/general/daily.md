@@ -1,51 +1,50 @@
 # general
 - [ControlRoom](https://github.com/twostraws/ControlRoom) : Swift
   - A macOS app to control the Xcode Simulator.
-- [cli](https://github.com/cli/cli) : Go
-  - The GitHub CLI
-- [openchakra](https://github.com/premieroctet/openchakra) : TypeScript
-  - ⚡️ Visual editor for Chakra UI
-- [FreeRTOS](https://github.com/FreeRTOS/FreeRTOS) : C
-  - Master copy. Started as Git clone of FreeRTOS SourceForge SVN repo.
-- [DeepSpeed](https://github.com/microsoft/DeepSpeed) : Python
-  - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.
-- [azure-policy](https://github.com/Azure/azure-policy) : Open Policy Agent
-  - Repository for Azure Resource Policy samples
-- [PySyft](https://github.com/OpenMined/PySyft) : Python
-  - A library for encrypted, privacy preserving machine learning
-- [b1fipl](https://github.com/marcpaq/b1fipl) : 
-  - A Bestiary of Single-File Implementations of Programming Languages
-- [actix](https://github.com/actix/actix) : Rust
-  - Actor framework for Rust
-- [BigData-Notes](https://github.com/heibaiying/BigData-Notes) : Java
-  - 大数据入门指南 ⭐️
-- [broxy](https://github.com/rhaidiz/broxy) : Go
-  - An HTTP/HTTPS intercept proxy written in Go.
+- [lion](https://github.com/ing-bank/lion) : JavaScript
+  - Lion Web Components
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) : JavaScript
   - ⚡️Simple, Modular & Accessible UI Components for your React Applications
-- [app-ideas](https://github.com/florinpop17/app-ideas) : 
-  - A Collection of application ideas which can be used to improve your coding skills.
-- [Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) : 
-  - Airplay Receiver SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
-- [jamstack-ecommerce](https://github.com/jamstack-cms/jamstack-ecommerce) : JavaScript
-  - A starter project for building performant ECommerce applications with Gatsby and React
-- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) : JavaScript
-  - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-- [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) : 
-  - 🎮 The only Front-End Performance Checklist that runs faster than the others
-- [swagger-core](https://github.com/swagger-api/swagger-core) : Java
-  - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
-- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
-  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [serverless](https://github.com/serverless/serverless) : JavaScript
-  - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
-- [kubernetes](https://github.com/kubernetes/kubernetes) : Go
-  - Production-Grade Container Scheduling and Management
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [csswg-drafts](https://github.com/w3c/csswg-drafts) : HTML
-  - CSS Working Group Editor Drafts
-- [html](https://github.com/whatwg/html) : HTML
-  - HTML Standard
-- [pymatting](https://github.com/pymatting/pymatting) : Python
-  - A Python library for alpha matting
+- [terminal](https://github.com/microsoft/terminal) : C++
+  - The new Windows Terminal and the original Windows console host, all in the same place!
+- [cli](https://github.com/cli/cli) : Go
+  - The GitHub CLI
+- [quadsort](https://github.com/scandum/quadsort) : C
+  - merge sort on steroids
+- [bagisto](https://github.com/bagisto/bagisto) : PHP
+  - A Free and Opensource laravel eCommerce framework built for all to build and scale your business.
+- [ARC](https://github.com/fchollet/ARC) : JavaScript
+  - The Abstraction and Reasoning Corpus
+- [nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) : 
+  - The largest Node.js CLI Apps best practices list ✨
+- [crawlab](https://github.com/crawlab-team/crawlab) : Go
+  - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
+- [quibble](https://github.com/maharmstone/quibble) : C
+  - Quibble - the custom Windows bootloader
+- [fluent-ui-react](https://github.com/microsoft/fluent-ui-react) : TypeScript
+  - An ecosystem for building highly customizable enterprise class user interfaces.
+- [openchakra](https://github.com/premieroctet/openchakra) : TypeScript
+  - ⚡️ Visual editor for Chakra UI
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) : 
+  - Master the command line, in one page
+- [justpy](https://github.com/elimintz/justpy) : Python
+  - An object oriented high-level Python Web Framework that requires no frontend programming
+- [tcmalloc](https://github.com/google/tcmalloc) : C++
+- [hooks](https://github.com/umijs/hooks) : TypeScript
+  - React Hooks Library
+- [broxy](https://github.com/rhaidiz/broxy) : Go
+  - An HTTP/HTTPS intercept proxy written in Go.
+- [flutterfire](https://github.com/FirebaseExtended/flutterfire) : Dart
+  - 🔥 Firebase plugins for Flutter apps
+- [lede](https://github.com/coolsnowwolf/lede) : C
+  - Lean's OpenWrt source
+- [RedTeam-Tactics-and-Techniques](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques) : PowerShell
+  - Red Teaming Tactics and Techniques
+- [helm](https://github.com/helm/helm) : Go
+  - The Kubernetes Package Manager
+- [ClickHouse](https://github.com/ClickHouse/ClickHouse) : C++
+  - ClickHouse is a free analytics DBMS for big data
+- [PySyft](https://github.com/OpenMined/PySyft) : Python
+  - A library for encrypted, privacy preserving machine learning
+- [FreeRTOS](https://github.com/FreeRTOS/FreeRTOS) : C
+  - 'Classic' FreeRTOS distribution. Started as Git clone of FreeRTOS SourceForge SVN repo. Submodules the kernel.
