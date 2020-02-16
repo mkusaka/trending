@@ -1,51 +1,51 @@
 # javascript
-- [lion](https://github.com/ing-bank/lion)
-  - Lion Web Components
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui)
-  - ⚡️Simple, Modular & Accessible UI Components for your React Applications
-- [ARC](https://github.com/fchollet/ARC)
-  - The Abstraction and Reasoning Corpus
 - [surge](https://github.com/yichahucha/surge)
   - script
-- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
-  - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
+  - Revive unavailable songs for Netease Cloud Music
+- [lion](https://github.com/ing-bank/lion)
+  - Lion Web Components
+- [scripts](https://github.com/chavyleung/scripts)
+  - 
+- [google-access-helper](https://github.com/haotian-wang/google-access-helper)
+  - 谷歌访问助手破解版
+- [Motrix](https://github.com/agalwood/Motrix)
+  - A full-featured download manager.
+- [netlify-cms](https://github.com/netlify/netlify-cms)
+  - A CMS for Static Site Generators
+- [Workers-Proxy](https://github.com/Siujoeng-Lau/Workers-Proxy)
+  - Lightweight reverse proxy implemented with Cloudflare Workers.
+- [ARC](https://github.com/fchollet/ARC)
+  - The Abstraction and Reasoning Corpus
 - [fullcalendar](https://github.com/fullcalendar/fullcalendar)
   - Full-sized drag & drop event calendar
-- [You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
-  - List of functions which you can use to replace moment.js + ESLint Plugin
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-  - The https://www.freecodecamp.org open source codebase and curriculum. Learn to code for free together with millions of people.
-- [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable)
-  - Vue drag-and-drop component based on Sortable.js
-- [layuimini](https://github.com/zhongshaofa/layuimini)
-  - 后台admin前端模板，基于 layui 编写的最简洁、易用的后台框架模板。只需提供一个接口就直接初始化整个框架，无需复杂操作。
-- [bent](https://github.com/mikeal/bent)
-  - Functional JS HTTP client (Node.js & Fetch) w/ async await
-- [react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc)
-  - A set of higher-order components to turn any list into an animated, accessible and touch-friendly sortable list✌️
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [serverless](https://github.com/serverless/serverless)
-  - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+- [gatsby-starter-netlify-cms](https://github.com/netlify-templates/gatsby-starter-netlify-cms)
+  - Example gatsby + netlify cms project
+- [joplin](https://github.com/laurent22/joplin)
+  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [functions-samples](https://github.com/firebase/functions-samples)
+  - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase
+- [esercizi-di-programmazione-javascript](https://github.com/AlbertoOlla/esercizi-di-programmazione-javascript)
+  - Esercizi di informatica! Impara a programmare, metti alla prova!
 - [generator-jhipster](https://github.com/jhipster/generator-jhipster)
   - Open Source application platform for creating Spring Boot + Angular/React projects in seconds!
-- [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
-  - 📜 33 concepts every JavaScript developer should know.
-- [webdriverio](https://github.com/webdriverio/webdriverio)
-  - Next-gen WebDriver test automation framework for Node.js
-- [dtale](https://github.com/man-group/dtale)
-  - Flask/React client for visualizing pandas data structures
-- [taro](https://github.com/NervJS/taro)
-  - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动/ QQ 小程序/快应用/H5/React Native 等的应用。 https://taro.jd.com/
-- [express](https://github.com/expressjs/express)
-  - Fast, unopinionated, minimalist web framework for node.
-- [CodeceptJS](https://github.com/Codeception/CodeceptJS)
-  - Supercharged End 2 End Testing Framework for NodeJS
-- [graphql-engine](https://github.com/hasura/graphql-engine)
-  - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
-- [cypress-example-recipes](https://github.com/cypress-io/cypress-example-recipes)
-  - Various recipes for testing common scenarios with Cypress
-- [draft-js](https://github.com/facebook/draft-js)
-  - A React framework for building text editors.
+- [readme-md-generator](https://github.com/kefranabg/readme-md-generator)
+  - 📄 CLI that generates beautiful README.md files
 - [snowpack](https://github.com/pikapkg/snowpack)
   - 📦✨ Build web applications with less tooling and 10x faster iteration. No bundler required.
+- [carbon](https://github.com/carbon-app/carbon)
+  - 🎨 Create and share beautiful images of your source code
+- [fabric.js](https://github.com/fabricjs/fabric.js)
+  - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
+- [Clashy](https://github.com/SpongeNobody/Clashy)
+  - A GUI proxy client for Windows / Mac / Ubuntu Desktop based on Clash and Electron. 🛫 Windows / Mac / Ubuntu 适用的Clash客户端
+- [php](https://github.com/threadshare/php)
+  - 为刚刚学习php语言以及web网站开发整理的一套资源，有视频，实战代码，学习路径等。会持续更新。。。
+- [electron-quick-start](https://github.com/electron/electron-quick-start)
+  - Clone to try a simple Electron app
+- [medium-unlimited](https://github.com/manojVivek/medium-unlimited)
+  - A browser extension to read medium.com articles for free without membership.
+- [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
+  - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
+- [project_chat_application](https://github.com/adrianhajdin/project_chat_application)
+  - This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a real time chat application. Covered topics: React.js, Node.js, Express.js, and Socket.io.

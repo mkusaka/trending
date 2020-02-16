@@ -1,51 +1,51 @@
 # rust
+- [gfx](https://github.com/gfx-rs/gfx)
+  - A low-overhead Vulkan-like GPU API for Rust.
 - [reqwest](https://github.com/seanmonstar/reqwest)
   - An easy and powerful Rust HTTP Client
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
-- [tokenizers](https://github.com/huggingface/tokenizers)
-  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
-- [materialize](https://github.com/MaterializeInc/materialize)
-  - The Streaming Data Warehouse
-- [easy-scraper](https://github.com/tanakh/easy-scraper)
-  - Easy scraping library
-- [swc](https://github.com/swc-project/swc)
-  - Super-fast typescript / javascript compiler written in rust
+- [amethyst](https://github.com/amethyst/amethyst)
+  - Data-oriented and data-driven game engine written in Rust
+- [rudr](https://github.com/oam-dev/rudr)
+  - A Kubernetes implementation of the Open Application Model specification
+- [mdBook](https://github.com/rust-lang/mdBook)
+  - Create book from markdown files. Like Gitbook but implemented in Rust
 - [rust](https://github.com/rust-lang/rust)
   - Empowering everyone to build reliable and efficient software.
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-  - A curated list of Rust code and resources.
-- [WASI](https://github.com/WebAssembly/WASI)
-  - WebAssembly System Interface
-- [argh](https://github.com/google/argh)
-  - Rust derive-based argument parsing optimized for code size
-- [panda-api](https://github.com/arlicle/panda-api)
-  - Panda api is a simple and powerful api docs design tool.
 - [tikv](https://github.com/tikv/tikv)
   - Distributed transactional key-value database, originally created to complement TiDB
-- [hyper](https://github.com/hyperium/hyper)
-  - An HTTP library for Rust
-- [tonic](https://github.com/hyperium/tonic)
-  - A native gRPC client & server implementation with async/await support.
-- [jormungandr](https://github.com/input-output-hk/jormungandr)
-  - aspiring blockchain node
-- [iced](https://github.com/hecrj/iced)
-  - A cross-platform GUI library for Rust, inspired by Elm
-- [actix](https://github.com/actix/actix)
-  - Actor framework for Rust
-- [libc](https://github.com/rust-lang/libc)
-  - Raw bindings to platform APIs for Rust
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
+- [svgbob](https://github.com/ivanceras/svgbob)
+  - Convert your ascii diagram scribbles into happy little SVG
+- [rx](https://github.com/cloudhead/rx)
+  - 👾 Modern and minimalist pixel editor
+- [swc](https://github.com/swc-project/swc)
+  - Super-fast typescript / javascript compiler written in rust
+- [pax](https://github.com/nathan/pax)
+  - The fastest JavaScript bundler in the galaxy.
+- [starship](https://github.com/starship/starship)
+  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [argh](https://github.com/google/argh)
+  - Rust derive-based argument parsing optimized for code size
+- [sccache](https://github.com/mozilla/sccache)
+  - sccache is ccache with cloud storage
+- [tarpaulin](https://github.com/xd009642/tarpaulin)
+  - A code coverage tool for Rust projects
+- [panda-api](https://github.com/arlicle/panda-api)
+  - Panda api is a simple and powerful api docs design tool.
+- [boa](https://github.com/jasonwilliams/boa)
+  - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
+- [librespot](https://github.com/librespot-org/librespot)
+  - Open Source Spotify client library
+- [materialize](https://github.com/MaterializeInc/materialize)
+  - The Streaming Data Warehouse
+- [arpx](https://github.com/jaredgorski/arpx)
+  - Automate and relate multiple processes.
 - [rust-postgres](https://github.com/sfackler/rust-postgres)
   - Native PostgreSQL driver for the Rust programming language
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix web is a small, pragmatic, and extremely fast rust web framework.
-- [lucet](https://github.com/bytecodealliance/lucet)
-  - Lucet, the Sandboxing WebAssembly Compiler.
-- [Rust](https://github.com/TheAlgorithms/Rust)
-  - All Algorithms implemented in Rust
-- [cranelift](https://github.com/bytecodealliance/cranelift)
-  - Cranelift code generator
-- [firecracker](https://github.com/firecracker-microvm/firecracker)
-  - Secure and fast microVMs for serverless computing.
-- [solana](https://github.com/solana-labs/solana)
-  - Blockchain Rebuilt for Scale
+- [iron](https://github.com/iron/iron)
+  - An Extensible, Concurrent Web Framework for Rust
+- [pathivu](https://github.com/pathivu/pathivu)
+  - An efficient log ingestion and log aggregation system https://pathivu.io/

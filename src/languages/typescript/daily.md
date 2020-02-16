@@ -1,51 +1,51 @@
 # typescript
-- [fluent-ui-react](https://github.com/microsoft/fluent-ui-react)
-  - An ecosystem for building highly customizable enterprise class user interfaces.
-- [openchakra](https://github.com/premieroctet/openchakra)
-  - ⚡️ Visual editor for Chakra UI
+- [destiny](https://github.com/benawad/destiny)
+  - Prettier for File Structures
+- [PeerTube](https://github.com/Chocobozzz/PeerTube)
+  - ActivityPub federated video streaming platform using P2P directly in the web browser
 - [hooks](https://github.com/umijs/hooks)
   - React Hooks Library
-- [vscode](https://github.com/microsoft/vscode)
-  - Visual Studio Code
-- [typeorm](https://github.com/typeorm/typeorm)
-  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-- [ionic](https://github.com/ionic-team/ionic)
-  - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
-- [vscode-cpptools](https://github.com/microsoft/vscode-cpptools)
-  - Official repository for the Microsoft C/C++ extension for VS Code.
-- [TypeScript](https://github.com/microsoft/TypeScript)
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [aws-cdk](https://github.com/aws/aws-cdk)
-  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
-- [platform](https://github.com/ngrx/platform)
-  - Reactive libraries for Angular
-- [prism](https://github.com/stoplightio/prism)
-  - Turn any OpenAPI file into an API server with mocking, transformations, validations, and more.
-- [apollo-client](https://github.com/apollographql/apollo-client)
-  - 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
-- [cache](https://github.com/actions/cache)
-  - Cache dependencies and build outputs in GitHub Actions
-- [angular-cli](https://github.com/angular/angular-cli)
-  - CLI tool for Angular
-- [verdaccio](https://github.com/verdaccio/verdaccio)
-  - 📦🔐A lightweight private npm proxy registry
-- [cli](https://github.com/react-native-community/cli)
-  - React Native command line tools
-- [storybook](https://github.com/storybookjs/storybook)
-  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
-- [unform](https://github.com/Rocketseat/unform)
-  - Easy peasy high scalable ReactJS & React Native forms! 🚀
-- [kibana](https://github.com/elastic/kibana)
-  - Your window into the Elastic Stack
-- [BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
-  - Dialog creation and management for Microsoft Bot Framework Applications
-- [react-navigation](https://github.com/react-navigation/react-navigation)
-  - Routing and navigation for your React Native apps
-- [amcharts4](https://github.com/amcharts/amcharts4)
-  - The most advanced amCharts charting library for JavaScript and TypeScript apps.
-- [hospitalrun-frontend](https://github.com/HospitalRun/hospitalrun-frontend)
-  - Frontend for HospitalRun
-- [fp-ts](https://github.com/gcanti/fp-ts)
-  - Functional programming in TypeScript
-- [grpc-web](https://github.com/improbable-eng/grpc-web)
-  - gRPC Web implementation for Golang and TypeScript
+- [graphql-editor](https://github.com/graphql-editor/graphql-editor)
+  - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
+- [tfjs](https://github.com/tensorflow/tfjs)
+  - A WebGL accelerated JavaScript library for training and deploying ML models.
+- [next-i18next](https://github.com/isaachinman/next-i18next)
+  - The easiest way to translate your NextJs apps.
+- [teachablemachine-community](https://github.com/googlecreativelab/teachablemachine-community)
+  - Example code snippets and machine learning code for Teachable Machine
+- [vscode-cmake-tools](https://github.com/microsoft/vscode-cmake-tools)
+  - CMake integration in Visual Studio Code
+- [stencil](https://github.com/ionic-team/stencil)
+  - A Web Component compiler for building fast, reusable UI components and Progressive Web Apps 💎 Built by the Ionic Framework team
+- [Angular-GettingStarted](https://github.com/DeborahK/Angular-GettingStarted)
+  - Sample Angular application used in the "Angular: Getting Started" course: http://bit.ly/Angular-GettingStarted
+- [nodejs-api-starter](https://github.com/kriasoft/nodejs-api-starter)
+  - 💥 A GraphQL API boilerplate (template) made with Node.js, TypeScript, and PostgreSQL
+- [nteract](https://github.com/nteract/nteract)
+  - 📘 The interactive computing suite for you! ✨
+- [store](https://github.com/fabiospampinato/store)
+  - A beautifully-simple framework-agnostic modern state management library.
+- [hacker-ui](https://github.com/ricokahler/hacker-ui)
+  - A design system for the modern developer.
+- [ueli](https://github.com/oliverschwendener/ueli)
+  - This is a keystroke launcher for Windows and macOS.
+- [refined-github](https://github.com/sindresorhus/refined-github)
+  - Browser extension that simplifies the GitHub interface and adds useful features
+- [tribeca](https://github.com/michaelgrosner/tribeca)
+  - A high frequency, market making cryptocurrency trading platform in node.js
+- [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
+  - Foreign language reading and translation assistant based on copy and translate.
+- [fluent-ui-react](https://github.com/microsoft/fluent-ui-react)
+  - An ecosystem for building highly customizable enterprise class user interfaces.
+- [xstate](https://github.com/davidkpiano/xstate)
+  - State machines and statecharts for the modern web.
+- [jest](https://github.com/facebook/jest)
+  - Delightful JavaScript Testing.
+- [openchakra](https://github.com/premieroctet/openchakra)
+  - ⚡️ Visual editor for Chakra UI
+- [saleor-storefront](https://github.com/mirumee/saleor-storefront)
+  - A GraphQL-powered, PWA, single-page application storefront for Saleor.
+- [PT-Plugin-Plus](https://github.com/ronggang/PT-Plugin-Plus)
+  - PT 助手 Plus，为 Google Chrome 和 Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。
+- [fireship.io](https://github.com/fireship-io/fireship.io)
+  - Content Designed for Developer Happiness https://fireship.io

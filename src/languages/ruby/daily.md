@@ -1,51 +1,51 @@
 # ruby
-- [rubocop](https://github.com/rubocop-hq/rubocop)
-  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [asciidoctor-pdf](https://github.com/asciidoctor/asciidoctor-pdf)
-  - 📃 Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.
-- [devise](https://github.com/heartcombo/devise)
-  - Flexible authentication solution for Rails with Warden.
-- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
-  - Metasploit Framework
-- [pry](https://github.com/pry/pry)
-  - A runtime developer console and IRB alternative with powerful introspection capabilities.
-- [faker](https://github.com/faker-ruby/faker)
-  - A library for generating fake data such as names, addresses, and phone numbers.
-- [ruby](https://github.com/ruby/ruby)
-  - The Ruby Programming Language [mirror]
-- [ISO-3166-Countries-with-Regional-Codes](https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes)
-  - ISO 3166-1 country lists merged with their UN Geoscheme regional codes in ready-to-use JSON, XML, CSV data sets
-- [fluentd](https://github.com/fluent/fluentd)
-  - Fluentd: Unified Logging Layer (project under CNCF)
-- [inspec](https://github.com/inspec/inspec)
-  - InSpec: Auditing and Testing Framework
-- [decidim](https://github.com/decidim/decidim)
-  - The participatory democracy framework. A generator and multiple gems made with Ruby on Rails
-- [carrierwave](https://github.com/carrierwaveuploader/carrierwave)
-  - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
-- [rails_admin](https://github.com/sferik/rails_admin)
-  - RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data
-- [administrate](https://github.com/thoughtbot/administrate)
-  - A Rails engine that helps you put together a super-flexible admin dashboard.
-- [sidekiq](https://github.com/mperham/sidekiq)
-  - Simple, efficient background processing for Ruby
-- [active_merchant](https://github.com/activemerchant/active_merchant)
-  - Active Merchant is a simple payment abstraction library extracted from Shopify. The aim of the project is to feel natural to Ruby users and to abstract as many parts as possible away from the user to offer a consistent interface across all supported gateways.
-- [homebrew-openjdk](https://github.com/AdoptOpenJDK/homebrew-openjdk)
-  - AdoptOpenJDK HomeBrew Tap
-- [kaminari](https://github.com/kaminari/kaminari)
-  - ⚡ A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps
-- [jsonapi-resources](https://github.com/cerebris/jsonapi-resources)
-  - A resource-focused Rails library for developing JSON:API compliant servers.
-- [redmine](https://github.com/redmine/redmine)
-  - Mirror of redmine code source - Official SVN repository is at https://svn.redmine.org/redmine - contact: @jbbarth or jeanbaptiste.barth (at) gmail (dot) com
-- [acts_as_paranoid](https://github.com/ActsAsParanoid/acts_as_paranoid)
-  - ActiveRecord plugin allowing you to hide and restore records without actually deleting them.
-- [actionview-component](https://github.com/github/actionview-component)
-  - View components for Rails
+- [fast_template](https://github.com/fastai/fast_template)
+  - A template for really easy blogging with GitHub Pages
 - [jekyll](https://github.com/jekyll/jekyll)
   - 🌐 Jekyll is a blog-aware static site generator in Ruby
+- [devdocs](https://github.com/freeCodeCamp/devdocs)
+  - API Documentation Browser
+- [brew](https://github.com/Homebrew/brew)
+  - 🍺 The missing package manager for macOS (or Linux)
+- [vagrant](https://github.com/hashicorp/vagrant)
+  - Vagrant is a tool for building and distributing development environments.
+- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [sinatra](https://github.com/sinatra/sinatra)
   - Classy web-development dressed in a DSL (official / canonical repo)
-- [axlsx](https://github.com/randym/axlsx)
-  - xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your…
+- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+  - A curated list of awesome awesomeness
+- [huginn](https://github.com/huginn/huginn)
+  - Create agents that monitor and act on your behalf. Your agents are standing by!
+- [chitter-challenge](https://github.com/makersacademy/chitter-challenge)
+  - Build a Twitter Clone!
+- [square_array-onl01-seng-pt-021020](https://github.com/learn-co-students/square_array-onl01-seng-pt-021020)
+  - 
+- [array-methods-lab-onl01-seng-pt-021020](https://github.com/learn-co-students/array-methods-lab-onl01-seng-pt-021020)
+  - 
+- [badges-and-schedules-onl01-seng-pt-021020](https://github.com/learn-co-students/badges-and-schedules-onl01-seng-pt-021020)
+  - 
+- [array-CRUD-lab-onl01-seng-pt-021020](https://github.com/learn-co-students/array-CRUD-lab-onl01-seng-pt-021020)
+  - 
+- [Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)
+  - Web CTF CheatSheet 🐈
+- [js-rails-as-api-review-of-rails-mvc-online-web-sp-000](https://github.com/learn-co-students/js-rails-as-api-review-of-rails-mvc-online-web-sp-000)
+  - 
+- [programming-univbasics-4-intro-to-hashes-lab-nyc-web-030920](https://github.com/learn-co-students/programming-univbasics-4-intro-to-hashes-lab-nyc-web-030920)
+  - 
+- [activerecord-obstacle-course](https://github.com/turingschool-projects/activerecord-obstacle-course)
+  - 
+- [gollum](https://github.com/gollum/gollum)
+  - A simple, Git-powered wiki with a sweet API and local frontend.
+- [rails-optimization-task2](https://github.com/hardcode-dev/rails-optimization-task2)
+  - 
+- [speaking-grandma-online-web-sp-000](https://github.com/learn-co-students/speaking-grandma-online-web-sp-000)
+  - 
+- [html-iframes-lab-online-web-sp-000](https://github.com/learn-co-students/html-iframes-lab-online-web-sp-000)
+  - 
+- [bundler](https://github.com/rubygems/bundler)
+  - Manage your Ruby application's gem dependencies
+- [ruby-objects-belong-to-lab-online-web-sp-000](https://github.com/learn-co-students/ruby-objects-belong-to-lab-online-web-sp-000)
+  - 
+- [ttt-2-board-rb-online-web-sp-000](https://github.com/learn-co-students/ttt-2-board-rb-online-web-sp-000)
+  - 
