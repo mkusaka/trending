@@ -1,50 +1,50 @@
 # general
-- [ControlRoom](https://github.com/twostraws/ControlRoom) : Swift
-  - A macOS app to control the Xcode Simulator.
-- [lion](https://github.com/ing-bank/lion) : JavaScript
-  - Lion Web Components
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui) : JavaScript
-  - ⚡️Simple, Modular & Accessible UI Components for your React Applications
-- [terminal](https://github.com/microsoft/terminal) : C++
-  - The new Windows Terminal and the original Windows console host, all in the same place!
-- [cli](https://github.com/cli/cli) : Go
-  - The GitHub CLI
-- [quadsort](https://github.com/scandum/quadsort) : C
-  - merge sort on steroids
-- [bagisto](https://github.com/bagisto/bagisto) : PHP
-  - A Free and Opensource laravel eCommerce framework built for all to build and scale your business.
-- [ARC](https://github.com/fchollet/ARC) : JavaScript
-  - The Abstraction and Reasoning Corpus
-- [nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) : 
-  - The largest Node.js CLI Apps best practices list ✨
-- [crawlab](https://github.com/crawlab-team/crawlab) : Go
-  - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
-- [quibble](https://github.com/maharmstone/quibble) : C
-  - Quibble - the custom Windows bootloader
-- [fluent-ui-react](https://github.com/microsoft/fluent-ui-react) : TypeScript
-  - An ecosystem for building highly customizable enterprise class user interfaces.
-- [openchakra](https://github.com/premieroctet/openchakra) : TypeScript
-  - ⚡️ Visual editor for Chakra UI
+- [python-small-examples](https://github.com/jackzhenguo/python-small-examples) : Python
+  - Python有趣的小例子一网打尽。Python基础、Python坑点、Python字符串和正则、Python绘图、Python日期和文件、Web开发、数据科学、机器学习、深度学习、TensorFlow、Pytorch，一切都是简单易懂的小例子。
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) : 
   - Master the command line, in one page
-- [justpy](https://github.com/elimintz/justpy) : Python
-  - An object oriented high-level Python Web Framework that requires no frontend programming
-- [tcmalloc](https://github.com/google/tcmalloc) : C++
-- [hooks](https://github.com/umijs/hooks) : TypeScript
-  - React Hooks Library
-- [broxy](https://github.com/rhaidiz/broxy) : Go
-  - An HTTP/HTTPS intercept proxy written in Go.
-- [flutterfire](https://github.com/FirebaseExtended/flutterfire) : Dart
-  - 🔥 Firebase plugins for Flutter apps
+- [surge](https://github.com/yichahucha/surge) : JavaScript
+  - script
+- [nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) : 
+  - The largest Node.js CLI Apps best practices list ✨
+- [snoop](https://github.com/snooppr/snoop) : Python
+  - Snoop — инструмент разведки на основе открытых данных
+- [Undecimus](https://github.com/pwn20wndstuff/Undecimus) : C
+  - unc0ver jailbreak for iOS 11.0 - 12.4
+- [Apollo-11](https://github.com/chrislgarry/Apollo-11) : Assembly
+  - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+- [introtodeeplearning](https://github.com/aamini/introtodeeplearning) : Jupyter Notebook
+  - Lab Materials for MIT 6.S191: Introduction to Deep Learning
+- [esbuild](https://github.com/evanw/esbuild) : Go
+  - An extremely fast JavaScript bundler and minifier
+- [trojan](https://github.com/trojan-gfw/trojan) : C++
+  - An unidentifiable mechanism that helps you bypass GFW.
+- [Windows10-CustomKernelSigners](https://github.com/HyperSine/Windows10-CustomKernelSigners) : C++
+  - Load self-signed drivers without TestSigning or disable DSE. Transferred from https://github.com/DoubleLabyrinth/Windows10-CustomKernelSigners
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
+  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [optifine](https://github.com/sp614x/optifine) : 
+- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) : JavaScript
+  - Revive unavailable songs for Netease Cloud Music
+- [lion](https://github.com/ing-bank/lion) : JavaScript
+  - Lion Web Components
+- [Magisk](https://github.com/topjohnwu/Magisk) : Kotlin
+  - A Magic Mask to Alter Android System Systemless-ly
 - [lede](https://github.com/coolsnowwolf/lede) : C
   - Lean's OpenWrt source
-- [RedTeam-Tactics-and-Techniques](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques) : PowerShell
-  - Red Teaming Tactics and Techniques
-- [helm](https://github.com/helm/helm) : Go
-  - The Kubernetes Package Manager
-- [ClickHouse](https://github.com/ClickHouse/ClickHouse) : C++
-  - ClickHouse is a free analytics DBMS for big data
-- [PySyft](https://github.com/OpenMined/PySyft) : Python
-  - A library for encrypted, privacy preserving machine learning
-- [FreeRTOS](https://github.com/FreeRTOS/FreeRTOS) : C
-  - 'Classic' FreeRTOS distribution. Started as Git clone of FreeRTOS SourceForge SVN repo. Submodules the kernel.
+- [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) : C#
+  - If you want to keep a secret, you must also hide it from yourself.
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
+  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
+- [org-roam](https://github.com/jethrokuan/org-roam) : Shell
+  - Rudimentary Roam replica with Org-mode
+- [crawlab](https://github.com/crawlab-team/crawlab) : Go
+  - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
+- [linux](https://github.com/torvalds/linux) : C
+  - Linux kernel source tree
+- [Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) : Shell
+  - Build OpenWrt using GitHub Actions | 使用 GitHub Actions 云编译 OpenWrt
+- [Waking-Up](https://github.com/wolverinn/Waking-Up) : 
+  - 计算机基础面试问题全面总结，包含详细的follow-up question以及答案；模拟面试，知识点复习，快速备战面试...
+- [destiny](https://github.com/benawad/destiny) : TypeScript
+  - Prettier for File Structures
