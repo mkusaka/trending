@@ -1,51 +1,51 @@
 # typescript
 - [destiny](https://github.com/benawad/destiny)
   - Prettier for File Structures
-- [PeerTube](https://github.com/Chocobozzz/PeerTube)
-  - ActivityPub federated video streaming platform using P2P directly in the web browser
-- [hooks](https://github.com/umijs/hooks)
-  - React Hooks Library
-- [graphql-editor](https://github.com/graphql-editor/graphql-editor)
-  - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
-- [tfjs](https://github.com/tensorflow/tfjs)
-  - A WebGL accelerated JavaScript library for training and deploying ML models.
-- [next-i18next](https://github.com/isaachinman/next-i18next)
-  - The easiest way to translate your NextJs apps.
-- [teachablemachine-community](https://github.com/googlecreativelab/teachablemachine-community)
-  - Example code snippets and machine learning code for Teachable Machine
-- [vscode-cmake-tools](https://github.com/microsoft/vscode-cmake-tools)
-  - CMake integration in Visual Studio Code
-- [stencil](https://github.com/ionic-team/stencil)
-  - A Web Component compiler for building fast, reusable UI components and Progressive Web Apps 💎 Built by the Ionic Framework team
-- [Angular-GettingStarted](https://github.com/DeborahK/Angular-GettingStarted)
-  - Sample Angular application used in the "Angular: Getting Started" course: http://bit.ly/Angular-GettingStarted
-- [nodejs-api-starter](https://github.com/kriasoft/nodejs-api-starter)
-  - 💥 A GraphQL API boilerplate (template) made with Node.js, TypeScript, and PostgreSQL
-- [nteract](https://github.com/nteract/nteract)
-  - 📘 The interactive computing suite for you! ✨
-- [store](https://github.com/fabiospampinato/store)
-  - A beautifully-simple framework-agnostic modern state management library.
-- [hacker-ui](https://github.com/ricokahler/hacker-ui)
-  - A design system for the modern developer.
-- [ueli](https://github.com/oliverschwendener/ueli)
-  - This is a keystroke launcher for Windows and macOS.
-- [refined-github](https://github.com/sindresorhus/refined-github)
-  - Browser extension that simplifies the GitHub interface and adds useful features
-- [tribeca](https://github.com/michaelgrosner/tribeca)
-  - A high frequency, market making cryptocurrency trading platform in node.js
+- [vue-next](https://github.com/vuejs/vue-next)
+  - The next major version of Vue (WIP)
 - [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
   - Foreign language reading and translation assistant based on copy and translate.
-- [fluent-ui-react](https://github.com/microsoft/fluent-ui-react)
-  - An ecosystem for building highly customizable enterprise class user interfaces.
-- [xstate](https://github.com/davidkpiano/xstate)
-  - State machines and statecharts for the modern web.
-- [jest](https://github.com/facebook/jest)
-  - Delightful JavaScript Testing.
-- [openchakra](https://github.com/premieroctet/openchakra)
-  - ⚡️ Visual editor for Chakra UI
-- [saleor-storefront](https://github.com/mirumee/saleor-storefront)
-  - A GraphQL-powered, PWA, single-page application storefront for Saleor.
-- [PT-Plugin-Plus](https://github.com/ronggang/PT-Plugin-Plus)
-  - PT 助手 Plus，为 Google Chrome 和 Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。
-- [fireship.io](https://github.com/fireship-io/fireship.io)
-  - Content Designed for Developer Happiness https://fireship.io
+- [tfjs](https://github.com/tensorflow/tfjs)
+  - A WebGL accelerated JavaScript library for training and deploying ML models.
+- [deno](https://github.com/denoland/deno)
+  - A secure JavaScript and TypeScript runtime
+- [next-i18next](https://github.com/isaachinman/next-i18next)
+  - The easiest way to translate your NextJs apps.
+- [react-admin](https://github.com/marmelab/react-admin)
+  - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
+- [rsuite](https://github.com/rsuite/rsuite)
+  - 🧱 A suite of React components .
+- [ionic](https://github.com/ionic-team/ionic)
+  - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
+- [typeorm](https://github.com/typeorm/typeorm)
+  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+- [angularfire](https://github.com/angular/angularfire)
+  - The official Angular library for Firebase.
+- [ant-design-pro](https://github.com/ant-design/ant-design-pro)
+  - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
+- [ng-matero](https://github.com/ng-matero/ng-matero)
+  - Angular Material admin dashboard template.
+- [elsa-designer](https://github.com/elsa-workflows/elsa-designer)
+  - A standards-based Workflow Designer built with StencilJS
+- [squoosh](https://github.com/GoogleChromeLabs/squoosh)
+  - Make images smaller using best-in-class codecs, right in the browser.
+- [desktop](https://github.com/desktop/desktop)
+  - Simple collaboration from your desktop
+- [nodejs-api-starter](https://github.com/kriasoft/nodejs-api-starter)
+  - 💥 A GraphQL API boilerplate (template) made with Node.js, TypeScript, and PostgreSQL
+- [YUKI](https://github.com/project-yuki/YUKI)
+  - YUKI Galgame Translator
+- [tiktok-api](https://github.com/szdc/tiktok-api)
+  - Unofficial API wrapper for TikTok (previously musical.ly)
+- [react-nodegui](https://github.com/nodegui/react-nodegui)
+  - Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀
+- [redux](https://github.com/reduxjs/redux)
+  - Predictable state container for JavaScript apps
+- [Choices](https://github.com/jshjohnson/Choices)
+  - A vanilla JS customisable select box/text input plugin ⚡️
+- [react-diagrams](https://github.com/projectstorm/react-diagrams)
+  - a super simple, no-nonsense diagramming library written in react that just works
+- [tfjs-models](https://github.com/tensorflow/tfjs-models)
+  - Pretrained models for TensorFlow.js
+- [clean-code-typescript](https://github.com/labs42io/clean-code-typescript)
+  - Clean Code concepts adapted for TypeScript

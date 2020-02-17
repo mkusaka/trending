@@ -1,51 +1,51 @@
 # rust
-- [gfx](https://github.com/gfx-rs/gfx)
-  - A low-overhead Vulkan-like GPU API for Rust.
-- [reqwest](https://github.com/seanmonstar/reqwest)
-  - An easy and powerful Rust HTTP Client
-- [amethyst](https://github.com/amethyst/amethyst)
-  - Data-oriented and data-driven game engine written in Rust
-- [rudr](https://github.com/oam-dev/rudr)
-  - A Kubernetes implementation of the Open Application Model specification
-- [mdBook](https://github.com/rust-lang/mdBook)
-  - Create book from markdown files. Like Gitbook but implemented in Rust
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [tikv](https://github.com/tikv/tikv)
-  - Distributed transactional key-value database, originally created to complement TiDB
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-  - A curated list of Rust code and resources.
-- [svgbob](https://github.com/ivanceras/svgbob)
-  - Convert your ascii diagram scribbles into happy little SVG
-- [rx](https://github.com/cloudhead/rx)
-  - 👾 Modern and minimalist pixel editor
-- [swc](https://github.com/swc-project/swc)
-  - Super-fast typescript / javascript compiler written in rust
-- [pax](https://github.com/nathan/pax)
-  - The fastest JavaScript bundler in the galaxy.
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
-  - Unofficial Bitwarden compatible server written in Rust
-- [argh](https://github.com/google/argh)
-  - Rust derive-based argument parsing optimized for code size
+- [topgrade](https://github.com/r-darwish/topgrade)
+  - Upgrade everything
 - [sccache](https://github.com/mozilla/sccache)
   - sccache is ccache with cloud storage
-- [tarpaulin](https://github.com/xd009642/tarpaulin)
-  - A code coverage tool for Rust projects
-- [panda-api](https://github.com/arlicle/panda-api)
-  - Panda api is a simple and powerful api docs design tool.
+- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
+  - Facilitating high-level interactions between Wasm modules and JavaScript
+- [swc](https://github.com/swc-project/swc)
+  - Super-fast typescript / javascript compiler written in rust
 - [boa](https://github.com/jasonwilliams/boa)
   - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
-- [librespot](https://github.com/librespot-org/librespot)
-  - Open Source Spotify client library
-- [materialize](https://github.com/MaterializeInc/materialize)
-  - The Streaming Data Warehouse
-- [arpx](https://github.com/jaredgorski/arpx)
-  - Automate and relate multiple processes.
-- [rust-postgres](https://github.com/sfackler/rust-postgres)
-  - Native PostgreSQL driver for the Rust programming language
-- [iron](https://github.com/iron/iron)
-  - An Extensible, Concurrent Web Framework for Rust
-- [pathivu](https://github.com/pathivu/pathivu)
-  - An efficient log ingestion and log aggregation system https://pathivu.io/
+- [lemmy](https://github.com/dessalines/lemmy)
+  - 🐀 Building a federated alternative to reddit in rust
+- [alacritty](https://github.com/alacritty/alacritty)
+  - A cross-platform, GPU-accelerated terminal emulator
+- [zola](https://github.com/getzola/zola)
+  - A fast static site generator in a single binary with everything built-in.
+- [roa](https://github.com/Hexilee/roa)
+  - async web framework inspired by koajs, lightweight but powerful.
+- [rust-clippy](https://github.com/rust-lang/rust-clippy)
+  - A bunch of lints to catch common mistakes and improve your Rust code
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix web is a small, pragmatic, and extremely fast rust web framework.
+- [996.ICU](https://github.com/996icu/996.ICU)
+  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [rustlings](https://github.com/rust-lang/rustlings)
+  - Small exercises to get you used to reading and writing Rust code!
+- [mdBook](https://github.com/rust-lang/mdBook)
+  - Create book from markdown files. Like Gitbook but implemented in Rust
+- [hyper](https://github.com/hyperium/hyper)
+  - An HTTP library for Rust
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
+- [crates.io](https://github.com/rust-lang/crates.io)
+  - Source code for crates.io
+- [svgbob](https://github.com/ivanceras/svgbob)
+  - Convert your ascii diagram scribbles into happy little SVG
+- [panda-api](https://github.com/arlicle/panda-api)
+  - Panda api is a simple and powerful api docs design tool.
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [sqlx](https://github.com/launchbadge/sqlx)
+  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL.
+- [winit](https://github.com/rust-windowing/winit)
+  - Window handling library in pure Rust
+- [muso](https://github.com/quebin31/muso)
+  - muso: music sorter
+- [procs](https://github.com/dalance/procs)
+  - A modern replacement for ps written in Rust
+- [pax](https://github.com/nathan/pax)
+  - The fastest JavaScript bundler in the galaxy.

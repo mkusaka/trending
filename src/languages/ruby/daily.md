@@ -1,51 +1,51 @@
 # ruby
+- [rails](https://github.com/rails/rails)
+  - Ruby on Rails
+- [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts)
+  - 🚨 Collection of Prometheus alerting rules
+- [fluentd-kubernetes-daemonset](https://github.com/fluent/fluentd-kubernetes-daemonset)
+  - Fluentd daemonset for Kubernetes and it Docker image
+- [redmine](https://github.com/redmine/redmine)
+  - Mirror of redmine code source - Official SVN repository is at https://svn.redmine.org/redmine - contact: @jbbarth or jeanbaptiste.barth (at) gmail (dot) com
+- [oxford-comma-onl01-seng-pt-021020](https://github.com/learn-co-students/oxford-comma-onl01-seng-pt-021020)
+  - 
+- [yield-and-blocks-onl01-seng-pt-021020](https://github.com/learn-co-students/yield-and-blocks-onl01-seng-pt-021020)
+  - 
 - [fast_template](https://github.com/fastai/fast_template)
   - A template for really easy blogging with GitHub Pages
-- [jekyll](https://github.com/jekyll/jekyll)
-  - 🌐 Jekyll is a blog-aware static site generator in Ruby
-- [devdocs](https://github.com/freeCodeCamp/devdocs)
-  - API Documentation Browser
-- [brew](https://github.com/Homebrew/brew)
-  - 🍺 The missing package manager for macOS (or Linux)
-- [vagrant](https://github.com/hashicorp/vagrant)
-  - Vagrant is a tool for building and distributing development environments.
-- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-- [sinatra](https://github.com/sinatra/sinatra)
-  - Classy web-development dressed in a DSL (official / canonical repo)
-- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-  - A curated list of awesome awesomeness
+- [rottenpotatoes-rails-intro](https://github.com/saasbook/rottenpotatoes-rails-intro)
+  - RottenPotatoes app skeleton for saasbook/hw-rails-intro
 - [huginn](https://github.com/huginn/huginn)
   - Create agents that monitor and act on your behalf. Your agents are standing by!
-- [chitter-challenge](https://github.com/makersacademy/chitter-challenge)
-  - Build a Twitter Clone!
+- [swot](https://github.com/leereilly/swot)
+  - 🏫 Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
+- [apples-and-holidays-onl01-seng-ft-021020](https://github.com/learn-co-students/apples-and-holidays-onl01-seng-ft-021020)
+  - 
+- [programming-univbasics-4-intro-to-hashes-lab-houston-web-030920](https://github.com/learn-co-students/programming-univbasics-4-intro-to-hashes-lab-houston-web-030920)
+  - 
+- [rack-get-params-lab-online-web-sp-000](https://github.com/learn-co-students/rack-get-params-lab-online-web-sp-000)
+  - 
+- [git-scm.com](https://github.com/git/git-scm.com)
+  - The git-scm.com website. Note that this repository is only for the website; issues with git itself should go to https://git-scm.com/community.
+- [pentest-env](https://github.com/Sliim/pentest-env)
+  - Pentest environment deployer (kali linux + targets) using vagrant and chef.
 - [square_array-onl01-seng-pt-021020](https://github.com/learn-co-students/square_array-onl01-seng-pt-021020)
   - 
-- [array-methods-lab-onl01-seng-pt-021020](https://github.com/learn-co-students/array-methods-lab-onl01-seng-pt-021020)
+- [reverse-each-word-onl01-seng-pt-021020](https://github.com/learn-co-students/reverse-each-word-onl01-seng-pt-021020)
+  - 
+- [sinatra-from-scratch-readme](https://github.com/learn-co-curriculum/sinatra-from-scratch-readme)
   - 
 - [badges-and-schedules-onl01-seng-pt-021020](https://github.com/learn-co-students/badges-and-schedules-onl01-seng-pt-021020)
   - 
-- [array-CRUD-lab-onl01-seng-pt-021020](https://github.com/learn-co-students/array-CRUD-lab-onl01-seng-pt-021020)
+- [ruby](https://github.com/ruby/ruby)
+  - The Ruby Programming Language [mirror]
+- [refactoring-views-with-helpers-reading-online-web-pt-090919](https://github.com/learn-co-students/refactoring-views-with-helpers-reading-online-web-pt-090919)
   - 
-- [Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)
-  - Web CTF CheatSheet 🐈
-- [js-rails-as-api-review-of-rails-mvc-online-web-sp-000](https://github.com/learn-co-students/js-rails-as-api-review-of-rails-mvc-online-web-sp-000)
+- [deli-counter-onl01-seng-pt-021020](https://github.com/learn-co-students/deli-counter-onl01-seng-pt-021020)
   - 
-- [programming-univbasics-4-intro-to-hashes-lab-nyc-web-030920](https://github.com/learn-co-students/programming-univbasics-4-intro-to-hashes-lab-nyc-web-030920)
+- [vagrant](https://github.com/hashicorp/vagrant)
+  - Vagrant is a tool for building and distributing development environments.
+- [array-CRUD-lab-onl01-seng-ft-012120](https://github.com/learn-co-students/array-CRUD-lab-onl01-seng-ft-012120)
   - 
-- [activerecord-obstacle-course](https://github.com/turingschool-projects/activerecord-obstacle-course)
-  - 
-- [gollum](https://github.com/gollum/gollum)
-  - A simple, Git-powered wiki with a sweet API and local frontend.
-- [rails-optimization-task2](https://github.com/hardcode-dev/rails-optimization-task2)
-  - 
-- [speaking-grandma-online-web-sp-000](https://github.com/learn-co-students/speaking-grandma-online-web-sp-000)
-  - 
-- [html-iframes-lab-online-web-sp-000](https://github.com/learn-co-students/html-iframes-lab-online-web-sp-000)
-  - 
-- [bundler](https://github.com/rubygems/bundler)
-  - Manage your Ruby application's gem dependencies
-- [ruby-objects-belong-to-lab-online-web-sp-000](https://github.com/learn-co-students/ruby-objects-belong-to-lab-online-web-sp-000)
-  - 
-- [ttt-2-board-rb-online-web-sp-000](https://github.com/learn-co-students/ttt-2-board-rb-online-web-sp-000)
+- [joint_dev_task](https://github.com/yoshitokamizato/joint_dev_task)
   - 

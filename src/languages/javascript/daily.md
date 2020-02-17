@@ -1,51 +1,51 @@
 # javascript
-- [surge](https://github.com/yichahucha/surge)
-  - script
-- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
-  - Revive unavailable songs for Netease Cloud Music
-- [lion](https://github.com/ing-bank/lion)
-  - Lion Web Components
-- [scripts](https://github.com/chavyleung/scripts)
-  - 
-- [google-access-helper](https://github.com/haotian-wang/google-access-helper)
-  - 谷歌访问助手破解版
-- [Motrix](https://github.com/agalwood/Motrix)
-  - A full-featured download manager.
-- [netlify-cms](https://github.com/netlify/netlify-cms)
-  - A CMS for Static Site Generators
-- [Workers-Proxy](https://github.com/Siujoeng-Lau/Workers-Proxy)
-  - Lightweight reverse proxy implemented with Cloudflare Workers.
-- [ARC](https://github.com/fchollet/ARC)
-  - The Abstraction and Reasoning Corpus
-- [fullcalendar](https://github.com/fullcalendar/fullcalendar)
-  - Full-sized drag & drop event calendar
-- [gatsby-starter-netlify-cms](https://github.com/netlify-templates/gatsby-starter-netlify-cms)
-  - Example gatsby + netlify cms project
 - [joplin](https://github.com/laurent22/joplin)
   - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
-- [functions-samples](https://github.com/firebase/functions-samples)
-  - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase
-- [esercizi-di-programmazione-javascript](https://github.com/AlbertoOlla/esercizi-di-programmazione-javascript)
-  - Esercizi di informatica! Impara a programmare, metti alla prova!
-- [generator-jhipster](https://github.com/jhipster/generator-jhipster)
-  - Open Source application platform for creating Spring Boot + Angular/React projects in seconds!
+- [todomvc](https://github.com/tastejs/todomvc)
+  - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
+- [magnetW](https://github.com/xiandanin/magnetW)
+  - 磁力链接聚合搜索
+- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
+  - 一个基于 electron 的音乐软件
+- [leon](https://github.com/leon-ai/leon)
+  - 🧠 Leon is your open-source personal assistant.
+- [webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop)
+  - ❤️ Streaming torrent app for Mac, Windows, and Linux
+- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
+  - Revive unavailable songs for Netease Cloud Music
+- [junior-recruit-scheduler](https://github.com/jojoldu/junior-recruit-scheduler)
+  - 주니어 개발자 채용 정보
+- [swagger-bootstrap-ui](https://github.com/xiaoymin/swagger-bootstrap-ui)
+  - Swagger-bootstrap-ui is the Swagger front-end UI implementation, the purpose is to replace the Swagger default UI implementation Swagger-UI, make the document more friendly....
+- [Workers-Proxy](https://github.com/Siujoeng-Lau/Workers-Proxy)
+  - Lightweight reverse proxy implemented with Cloudflare Workers.
+- [react-cloud-music](https://github.com/sanyuan0704/react-cloud-music)
+  - React 16.8打造精美音乐WebApp
+- [MagicMirror](https://github.com/MichMich/MagicMirror)
+  - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator)
   - 📄 CLI that generates beautiful README.md files
-- [snowpack](https://github.com/pikapkg/snowpack)
-  - 📦✨ Build web applications with less tooling and 10x faster iteration. No bundler required.
-- [carbon](https://github.com/carbon-app/carbon)
-  - 🎨 Create and share beautiful images of your source code
-- [fabric.js](https://github.com/fabricjs/fabric.js)
-  - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
-- [Clashy](https://github.com/SpongeNobody/Clashy)
-  - A GUI proxy client for Windows / Mac / Ubuntu Desktop based on Clash and Electron. 🛫 Windows / Mac / Ubuntu 适用的Clash客户端
-- [php](https://github.com/threadshare/php)
-  - 为刚刚学习php语言以及web网站开发整理的一套资源，有视频，实战代码，学习路径等。会持续更新。。。
-- [electron-quick-start](https://github.com/electron/electron-quick-start)
-  - Clone to try a simple Electron app
-- [medium-unlimited](https://github.com/manojVivek/medium-unlimited)
-  - A browser extension to read medium.com articles for free without membership.
-- [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
-  - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
-- [project_chat_application](https://github.com/adrianhajdin/project_chat_application)
-  - This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a real time chat application. Covered topics: React.js, Node.js, Express.js, and Socket.io.
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+  - 💯 Materials to help you rock your next coding interview
+- [functions-samples](https://github.com/firebase/functions-samples)
+  - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase
+- [osu](https://github.com/111116/osu)
+  - web rhythm game http://osugame.online/
+- [terser](https://github.com/terser/terser)
+  - 🗜 JavaScript parser, mangler and compressor toolkit for ES6+
+- [react-native-chart-kit](https://github.com/indiespirit/react-native-chart-kit)
+  - 📊React Native Chart Kit: Line Chart, Bezier Line Chart, Progress Ring, Bar chart, Pie chart, Contribution graph (heatmap)
+- [twitter-dev-salaries-scraper](https://github.com/mathdroid/twitter-dev-salaries-scraper)
+  - https://docs.google.com/spreadsheets/d/1-xIgk7Mw1S5DXTZSbKBgxlsQAn7XGIu7Mfy72lSVHKk/edit?usp=sharing
+- [browserslist](https://github.com/browserslist/browserslist)
+  - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
+- [live2d-widget](https://github.com/stevenjoezhang/live2d-widget)
+  - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
+- [cxmooc-tools](https://github.com/CodFrm/cxmooc-tools)
+  - 一个超星(学习通)和智慧树(知到)刷课工具,火狐,谷歌,油猴支持.全自动任务,视频倍速秒过,作业考试题库,验证码自动打码(੧ᐛ੭挂科模式,启动)
+- [gdb-frontend](https://github.com/rohanrhu/gdb-frontend)
+  - ☕ GDBFrontend is an easy, flexible and extensionable gui debugger.
+- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
+  - Bypass Paywalls for Chrome
+- [curso-javascript-ninja](https://github.com/da2k/curso-javascript-ninja)
+  - Curso Javascript Ninja
