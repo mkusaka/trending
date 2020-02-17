@@ -1,51 +1,51 @@
 # c++
-- [trojan](https://github.com/trojan-gfw/trojan)
-  - An unidentifiable mechanism that helps you bypass GFW.
-- [Windows10-CustomKernelSigners](https://github.com/HyperSine/Windows10-CustomKernelSigners)
-  - Load self-signed drivers without TestSigning or disable DSE. Transferred from https://github.com/DoubleLabyrinth/Windows10-CustomKernelSigners
-- [opencv](https://github.com/opencv/opencv)
-  - Open Source Computer Vision Library
-- [LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL)
-  - Code repository of all OpenGL tutorials found at https://learnopengl.com
-- [subconverter](https://github.com/tindy2013/subconverter)
-  - Utility to convert between various subscription format
-- [mediapipe](https://github.com/google/mediapipe)
-  - MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
-- [Tasmota](https://github.com/arendst/Tasmota)
-  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
-- [CopyQ](https://github.com/hluk/CopyQ)
-  - Clipboard manager with advanced features
-- [corona](https://github.com/coronalabs/corona)
-  - Corona Game Engine main repository
-- [note](https://github.com/arkingc/note)
-  - 学习笔记整理📚
-- [nowic](https://github.com/idebtor/nowic)
-  - Data Structure Lecture Notes By idebtor@gmail.com
-- [MuseScore](https://github.com/musescore/MuseScore)
-  - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
-- [ardupilot](https://github.com/ArduPilot/ardupilot)
-  - ArduPlane, ArduCopter, ArduRover source
-- [BIGTREETECH-SKR-mini-E3](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3)
-  - BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.
-- [cartographer](https://github.com/googlecartographer/cartographer)
-  - Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
-- [Cpp_houjie](https://github.com/harvestlamb/Cpp_houjie)
-  - 侯捷C++课程PPT及代码
-- [tcmalloc](https://github.com/google/tcmalloc)
-  - 
-- [qmc-decoder](https://github.com/Presburger/qmc-decoder)
-  - Fastest & best convert qmc 2 mp3 | flac tools
-- [gnuradio](https://github.com/gnuradio/gnuradio)
-  - GNU Radio
-- [EAST](https://github.com/argman/EAST)
-  - A tensorflow implementation of EAST text detector
-- [aria2](https://github.com/aria2/aria2)
-  - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-- [xournalpp](https://github.com/xournalpp/xournalpp)
-  - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
-- [CodingInterviewChinese2](https://github.com/zhedahht/CodingInterviewChinese2)
-  - 《剑指Offer》第二版源代码
+- [spdlog](https://github.com/gabime/spdlog)
+  - Fast C++ logging library.
 - [llvm-project](https://github.com/llvm/llvm-project)
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
-- [Osiris](https://github.com/danielkrupinski/Osiris)
-  - Free open-source training software / cheat for Counter-Strike: Global Offensive, written in modern C++. GUI powered by imgui.
+- [Hazel](https://github.com/TheCherno/Hazel)
+  - Hazel Engine
+- [BIGTREETECH-SKR-mini-E3](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3)
+  - BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.
+- [wearable-microphone-jamming](https://github.com/y-x-c/wearable-microphone-jamming)
+  - Repository for our paper Wearable Microphone Jamming
+- [trojan](https://github.com/trojan-gfw/trojan)
+  - An unidentifiable mechanism that helps you bypass GFW.
+- [FunnyMeterpreter](https://github.com/dothook/FunnyMeterpreter)
+  - 与反病毒软件老大哥们的打闹日常
+- [WiFiManager](https://github.com/tzapu/WiFiManager)
+  - ESP8266 WiFi Connection manager with web captive portal
+- [zeek](https://github.com/zeek/zeek)
+  - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
+- [pbrt-v3](https://github.com/mmp/pbrt-v3)
+  - Source code for pbrt, the renderer described in the third edition of "Physically Based Rendering: From Theory To Implementation", by Matt Pharr, Wenzel Jakob, and Greg Humphreys.
+- [waymo-open-dataset](https://github.com/waymo-research/waymo-open-dataset)
+  - Waymo Open Dataset
+- [or-tools](https://github.com/google/or-tools)
+  - Google's Operations Research tools:
+- [bitcoin](https://github.com/bitcoin/bitcoin)
+  - Bitcoin Core integration/staging tree
+- [3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
+  - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
+- [FastLED](https://github.com/FastLED/FastLED)
+  - The FastLED library for colored LED animation on Arduino. Please direct questions/requests for help to the FastLED Reddit community: http://fastled.io/r We'd like to use github "issues" just for tracking library bugs / enhancements.
+- [i2cdevlib](https://github.com/jrowberg/i2cdevlib)
+  - I2C device library collection for AVR/Arduino or other C++-based MCUs
+- [opencv](https://github.com/opencv/opencv)
+  - Open Source Computer Vision Library
+- [blynk-library](https://github.com/blynkkk/blynk-library)
+  - Blynk library for embedded hardware. Works with Arduino, ESP8266, Raspberry Pi, Intel Edison/Galileo, LinkIt ONE, Particle Core/Photon, Energia, ARM mbed, etc.
+- [mediapipe](https://github.com/google/mediapipe)
+  - MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
+- [electron](https://github.com/electron/electron)
+  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [swift](https://github.com/apple/swift)
+  - The Swift Programming Language
+- [USD](https://github.com/PixarAnimationStudios/USD)
+  - Universal Scene Description
+- [WickedEngine](https://github.com/turanszkij/WickedEngine)
+  - C++ game engine focusing on modern rendering techniques and performance.
+- [gnuradio](https://github.com/gnuradio/gnuradio)
+  - GNU Radio – the Free and Open Software Radio Ecosystem
+- [ninja](https://github.com/ninja-build/ninja)
+  - a small build system with a focus on speed
