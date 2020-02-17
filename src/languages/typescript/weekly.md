@@ -1,51 +1,51 @@
 # typescript
-- [desktop](https://github.com/desktop/desktop)
-  - Simple collaboration from your desktop
-- [navigation-ex](https://github.com/react-navigation/navigation-ex)
-  - Routing and navigation for your React Native apps
 - [vscode](https://github.com/microsoft/vscode)
   - Visual Studio Code
-- [amplify-cli](https://github.com/aws-amplify/amplify-cli)
-  - A CLI toolchain for simplifying serverless web and mobile development.
-- [grafana](https://github.com/grafana/grafana)
-  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
-- [blueprint](https://github.com/palantir/blueprint)
-  - A React-based UI toolkit for the web
-- [coc.nvim](https://github.com/neoclide/coc.nvim)
-  - Intellisense engine for vim8 & neovim, full language server protocol support as VSCode
-- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-  - The repository for high quality TypeScript type definitions.
-- [ag-grid](https://github.com/ag-grid/ag-grid)
-  - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-- [BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
-  - Dialog creation and management for Microsoft Bot Framework Applications
-- [survey-library](https://github.com/surveyjs/survey-library)
-  - JavaScript Survey and Form Library
+- [react-navigation](https://github.com/react-navigation/react-navigation)
+  - Routing and navigation for your React Native apps
 - [hiplot](https://github.com/facebookresearch/hiplot)
   - HiPlot makes understanding high dimensional data easy
-- [react-native-paper](https://github.com/callstack/react-native-paper)
-  - Material Design for React Native (Android & iOS)
-- [kutt](https://github.com/thedevs-network/kutt)
-  - Free Modern URL Shortener.
-- [map-viz](https://github.com/wuhan2020/map-viz)
-  - 通用的地图可视化组件
-- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
-  - The source for REST API specifications for Microsoft Azure.
-- [capacitor](https://github.com/ionic-team/capacitor)
-  - Build cross-platform Native Progressive Web Apps for iOS, Android, and the web ⚡️
-- [kibana](https://github.com/elastic/kibana)
-  - Your window into the Elastic Stack
+- [PeerTube](https://github.com/Chocobozzz/PeerTube)
+  - ActivityPub federated video streaming platform using P2P directly in the web browser
 - [code-server](https://github.com/cdr/code-server)
   - Run VS Code on a remote server.
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
-  - 📋 React hooks for forms validation without the hassle.
-- [nx](https://github.com/nrwl/nx)
-  - Extensible Dev Tools for Monorepos
-- [toolkit](https://github.com/actions/toolkit)
-  - The GitHub ToolKit for developing GitHub Actions.
-- [TypeScript](https://github.com/microsoft/TypeScript)
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [bulletproof-nodejs](https://github.com/santiq/bulletproof-nodejs)
-  - Implementation of a bulletproof node.js API 🛡️
+- [angular-cli](https://github.com/angular/angular-cli)
+  - CLI tool for Angular
+- [kutt](https://github.com/thedevs-network/kutt)
+  - Free Modern URL Shortener.
+- [cli](https://github.com/react-native-community/cli)
+  - React Native command line tools
+- [angular](https://github.com/angular/angular)
+  - One framework. Mobile & desktop.
+- [PoE-Overlay](https://github.com/Kyusung4698/PoE-Overlay)
+  - An Overlay for Path of Exile. Built with Electron and Angular.
+- [ionicons](https://github.com/ionic-team/ionicons)
+  - The premium icon font for Ionic Framework and web apps everywhere
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+  - The repository for high quality TypeScript type definitions.
+- [kittenTricks](https://github.com/akveo/kittenTricks)
+  - React Native starter kit with over 40 screens and modern Light and Dark theme for creating stunning cross-platform mobile applications.
+- [ionic](https://github.com/ionic-team/ionic)
+  - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
+- [redux-toolkit](https://github.com/reduxjs/redux-toolkit)
+  - The official, opinionated, batteries-included toolset for efficient Redux development
+- [react-use](https://github.com/streamich/react-use)
+  - React Hooks — 👍
+- [fluent-ui-react](https://github.com/microsoft/fluent-ui-react)
+  - An ecosystem for building highly customizable enterprise class user interfaces.
+- [ant-design](https://github.com/ant-design/ant-design)
+  - 🌈 A UI Design Language and React UI library
+- [nest](https://github.com/nestjs/nest)
+  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [proton-native](https://github.com/kusti8/proton-native)
+  - A React environment for cross platform desktop apps
+- [components](https://github.com/angular/components)
+  - Component infrastructure and Material Design components for Angular
+- [vendure](https://github.com/vendure-ecommerce/vendure)
+  - A headless GraphQL ecommerce framework for the modern web
+- [clean-code-typescript](https://github.com/labs42io/clean-code-typescript)
+  - Clean Code concepts adapted for TypeScript
+- [aws-cdk](https://github.com/aws/aws-cdk)
+  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+- [takenote](https://github.com/taniarascia/takenote)
+  - 📝 A web-based note-taking app with GitHub sync and Markdown support. (WIP)
