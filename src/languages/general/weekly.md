@@ -1,51 +1,51 @@
 # general
-- [algodeck](https://github.com/teivah/algodeck) : 
-  - An Open-Source Collection of +200 Algorithmic Flash Cards to Help you Preparing your Algorithm & Data Structure Interview 💯
-- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) : JavaScript
-  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-- [jd-assistant](https://github.com/tychxn/jd-assistant) : Python
-  - 京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能
-- [pytorch3d](https://github.com/facebookresearch/pytorch3d) : Python
-  - PyTorch3D is FAIR's library of reusable components for deep learning with 3D data
-- [OpenSK](https://github.com/google/OpenSK) : Rust
-  - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
-- [v2ray-core](https://github.com/v2ray/v2ray-core) : Go
-  - A platform for building proxies to bypass network restrictions.
-- [DXY-2019-nCoV-Crawler](https://github.com/BlankerL/DXY-2019-nCoV-Crawler) : Python
-  - 2019新型冠状病毒疫情实时爬虫
-- [2019-wuhan-coronavirus-data](https://github.com/globalcitizen/2019-wuhan-coronavirus-data) : PHP
-  - 2019 Wuhan Coronavirus data (2019-nCoV)
-- [remote-jobs](https://github.com/remoteintech/remote-jobs) : JavaScript
-  - A list of semi to fully remote-friendly companies in tech.
-- [bootstrap](https://github.com/twbs/bootstrap) : JavaScript
-  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [googletest](https://github.com/google/googletest) : C++
-  - Googletest - Google Testing and Mocking Framework
-- [sm64](https://github.com/n64decomp/sm64) : C
-  - A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
-- [shareOI](https://github.com/hzwer/shareOI) : 
-  - 算法竞赛课件分享
-- [clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) : C#
-  - 🌀 Clean Architecture with .NET Core 3.1 and C# 8. Use cases as central organizing structure, completely testable, decoupled from frameworks
-- [desktop](https://github.com/desktop/desktop) : TypeScript
-  - Simple collaboration from your desktop
-- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) : PowerShell
-  - Azure Quickstart Templates
-- [pandas](https://github.com/pandas-dev/pandas) : Python
-  - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
-- [Alamofire](https://github.com/Alamofire/Alamofire) : Swift
-  - Elegant HTTP Networking in Swift
+- [cli](https://github.com/cli/cli) : Go
+  - The GitHub CLI
+- [jdBuyMask](https://github.com/cycz/jdBuyMask) : Python
+  - 京东监控口罩有货爬虫，自动下单爬虫，口罩爬虫
+- [fyne](https://github.com/fyne-io/fyne) : Go
+  - Cross platform GUI in Go based on Material Design
+- [V2rayU](https://github.com/yanue/V2rayU) : Swift
+  - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui) : JavaScript
+  - ⚡️Simple, Modular & Accessible UI Components for your React Applications
+- [DXY-COVID-19-Data](https://github.com/BlankerL/DXY-COVID-19-Data) : Python
+  - 2019新型冠状病毒疫情时间序列数据仓库 | COVID-19/2019-nCoV Infection Time Series Data Warehouse
+- [lantern](https://github.com/getlantern/lantern) : Go
+  - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 lantern proxy vpn censorship-circumvention censorship gfw accelerator
 - [trojan](https://github.com/trojan-gfw/trojan) : C++
   - An unidentifiable mechanism that helps you bypass GFW.
-- [spinningup](https://github.com/openai/spinningup) : Python
-  - An educational resource to help anyone learn deep reinforcement learning.
-- [Algorithms](https://github.com/williamfiset/Algorithms) : Java
-  - A collection of algorithms and data structures
-- [cli](https://github.com/cli/cli) : Go
-  - the GitHub CLI
-- [new-pac](https://github.com/Alvin9999/new-pac) : 
-  - 科学/自由上网，免费ss/ssr/v2ray/goflyway账号，搭建教程
-- [navigation-ex](https://github.com/react-navigation/navigation-ex) : TypeScript
-  - Routing and navigation for your React Native apps
-- [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) : 
-  - A list of resources for those interested in getting started in bug bounties
+- [excelize](https://github.com/360EntSecGroup-Skylar/excelize) : Go
+  - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
+- [jd-assistant](https://github.com/tychxn/jd-assistant) : Python
+  - 京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能
+- [eladmin](https://github.com/elunez/eladmin) : Java
+  - 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
+- [lede](https://github.com/coolsnowwolf/lede) : C
+  - Lean's OpenWrt source
+- [XX-Net](https://github.com/XX-net/XX-Net) : Python
+  - a web proxy tool
+- [crystal](https://github.com/crystal-lang/crystal) : Crystal
+  - The Crystal Programming Language
+- [dapr](https://github.com/dapr/dapr) : Go
+  - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+- [chromego](https://github.com/killgcd/chromego) : Rich Text Format
+  - ChromeGo 翻墙工具包
+- [spaCy](https://github.com/explosion/spaCy) : Python
+  - 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython
+- [Java](https://github.com/TheAlgorithms/Java) : Java
+  - All Algorithms implemented in Java
+- [Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) : Python
+  - 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
+- [srs](https://github.com/ossrs/srs) : C++
+  - SRS is a live streaming cluster, high efficiency, stable and simple.
+- [v2ray-core](https://github.com/v2ray/v2ray-core) : Go
+  - A platform for building proxies to bypass network restrictions.
+- [dashboard](https://github.com/kubernetes/dashboard) : Go
+  - General-purpose web UI for Kubernetes clusters
+- [Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch) : Jupyter Notebook
+  - 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。
+- [clash](https://github.com/Dreamacro/clash) : Go
+  - A rule-based tunnel in Go.
+- [d2l-zh](https://github.com/d2l-ai/d2l-zh) : Python
+  - 《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材。

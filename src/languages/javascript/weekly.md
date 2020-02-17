@@ -1,51 +1,51 @@
 # javascript
-- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
-  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-- [remote-jobs](https://github.com/remoteintech/remote-jobs)
-  - A list of semi to fully remote-friendly companies in tech.
-- [bootstrap](https://github.com/twbs/bootstrap)
-  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [2019-ncov](https://github.com/shfshanyue/2019-ncov)
-  - 全国新型冠状病毒，肺炎疫情实时省市地图
-- [react-router](https://github.com/ReactTraining/react-router)
-  - Declarative routing for React
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui)
+  - ⚡️Simple, Modular & Accessible UI Components for your React Applications
+- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+  - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+- [You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
+  - List of functions which you can use to replace moment.js + ESLint Plugin
 - [fanqiang](https://github.com/bannedbook/fanqiang)
   - 翻墙-科学上网
+- [react-router](https://github.com/ReactTraining/react-router)
+  - Declarative routing for React
+- [google-access-helper](https://github.com/haotian-wang/google-access-helper)
+  - 谷歌访问助手破解版
+- [scripts](https://github.com/chavyleung/scripts)
+  - 
+- [joplin](https://github.com/laurent22/joplin)
+  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [fabric.js](https://github.com/fabricjs/fabric.js)
+  - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
+- [Script](https://github.com/NobyDa/Script)
+  - This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.
+- [serverless](https://github.com/serverless/serverless)
+  - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [create-react-app](https://github.com/facebook/create-react-app)
   - Set up a modern web app by running one command.
-- [next.js](https://github.com/zeit/next.js)
-  - The React Framework
-- [javascript](https://github.com/airbnb/javascript)
-  - JavaScript Style Guide
-- [vue](https://github.com/vuejs/vue)
-  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [label-studio](https://github.com/heartexlabs/label-studio)
-  - Label Studio is a multi-type data labeling and annotation tool with standardized output format
-- [realworld](https://github.com/gothinkster/realworld)
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [Rules](https://github.com/lhie1/Rules)
-  - Rules / 规则：Surge / Shadowrocket / QuantumultX / Clash(X|A)
-- [cypress](https://github.com/cypress-io/cypress)
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [faker.js](https://github.com/Marak/faker.js)
-  - generate massive amounts of realistic fake data in Node.js and the browser
-- [passport](https://github.com/jaredhanson/passport)
-  - Simple, unobtrusive authentication for Node.js.
-- [quasar](https://github.com/quasarframework/quasar)
-  - Quasar Framework - Build high-performance VueJS user interfaces in record time
-- [selectize.js](https://github.com/selectize/selectize.js)
-  - Selectize is the hybrid of a textbox and <select> box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.
-- [markdown-here](https://github.com/adam-p/markdown-here)
-  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
-- [gutenberg](https://github.com/WordPress/gutenberg)
-  - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
-- [openlayers](https://github.com/openlayers/openlayers)
-  - OpenLayers
+- [request](https://github.com/request/request)
+  - 🏊🏾 Simplified HTTP request client.
+- [vant](https://github.com/youzan/vant)
+  - Lightweight Mobile UI Components built on Vue
 - [react](https://github.com/facebook/react)
   - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [svelte](https://github.com/sveltejs/svelte)
-  - Cybernetically enhanced web apps
-- [hexo](https://github.com/hexojs/hexo)
-  - A fast, simple & powerful blog framework, powered by Node.js.
+- [sheetjs](https://github.com/SheetJS/sheetjs)
+  - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
+- [relay](https://github.com/facebook/relay)
+  - Relay is a JavaScript framework for building data-driven React applications.
+- [Rules](https://github.com/lhie1/Rules)
+  - Rules / 规则：Surge / Shadowrocket / QuantumultX / Clash(X|A)
+- [surge](https://github.com/yichahucha/surge)
+  - script
+- [meteor](https://github.com/meteor/meteor)
+  - Meteor, the JavaScript App Platform
+- [lighthouse](https://github.com/GoogleChrome/lighthouse)
+  - Automated auditing, performance metrics, and best practices for the web.
+- [renovate](https://github.com/renovatebot/renovate)
+  - Universal dependency update tool that fits into your workflows.
+- [vue](https://github.com/vuejs/vue)
+  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+  - The ultimate Free Open Source Solution for team communications.
+- [vue-devtools](https://github.com/vuejs/vue-devtools)
+  - ⚙️ Browser devtools extension for debugging Vue.js applications.

@@ -1,51 +1,51 @@
 # rust
-- [OpenSK](https://github.com/google/OpenSK)
-  - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
-- [tide](https://github.com/http-rs/tide)
-  - Serve the web – HTTP server framework
 - [rusoto](https://github.com/rusoto/rusoto)
   - AWS SDK for Rust
 - [rust](https://github.com/rust-lang/rust)
   - Empowering everyone to build reliable and efficient software.
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
-- [Rocket](https://github.com/SergioBenitez/Rocket)
-  - A web framework for Rust.
-- [rustlings](https://github.com/rust-lang/rustlings)
-  - Small exercises to get you used to reading and writing Rust code!
-- [wrangler](https://github.com/cloudflare/wrangler)
-  - 🤠 wrangle your cloudflare workers
-- [async-std](https://github.com/async-rs/async-std)
-  - Async version of the Rust standard library
-- [fd](https://github.com/sharkdp/fd)
-  - A simple, fast and user-friendly alternative to 'find'
-- [amethyst](https://github.com/amethyst/amethyst)
-  - Data-oriented and data-driven game engine written in Rust
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [diesel](https://github.com/diesel-rs/diesel)
   - A safe, extensible ORM and Query Builder for Rust
+- [alacritty](https://github.com/alacritty/alacritty)
+  - A cross-platform, GPU-accelerated terminal emulator
+- [actix](https://github.com/actix/actix)
+  - Actor framework for Rust
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
+- [iced](https://github.com/hecrj/iced)
+  - A cross-platform GUI library for Rust, inspired by Elm
+- [spotify-tui](https://github.com/Rigellute/spotify-tui)
+  - Spotify for the terminal written in Rust 🚀
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
   - A curated list of Rust code and resources.
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust)
-  - A Rust port of shadowsocks
-- [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
-  - The Mullvad VPN client app for desktop and mobile
-- [rudr](https://github.com/oam-dev/rudr)
-  - A Kubernetes implementation of the Open Application Model specification
+- [crates.io](https://github.com/rust-lang/crates.io)
+  - Source code for crates.io
+- [tikv](https://github.com/tikv/tikv)
+  - Distributed transactional key-value database, originally created to complement TiDB
+- [futures-rs](https://github.com/rust-lang/futures-rs)
+  - Zero-cost asynchronous programming in Rust
+- [findomain](https://github.com/Edu4rdSHL/findomain)
+  - The fastest and cross-platform subdomain enumerator, do not waste your time.
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
+- [oreboot](https://github.com/oreboot/oreboot)
+  - oreboot is a fork of coreboot, with C removed, written in Rust.
+- [swc](https://github.com/swc-project/swc)
+  - Super-fast typescript / javascript compiler written in rust
+- [wrangler](https://github.com/cloudflare/wrangler)
+  - 🤠 wrangle your cloudflare workers
+- [winit](https://github.com/rust-windowing/winit)
+  - Window handling library in pure Rust
+- [servo](https://github.com/servo/servo)
+  - The Servo Browser Engine
+- [awesome-static-analysis](https://github.com/mre/awesome-static-analysis)
+  - Static analysis tools for all programming languages
 - [nom](https://github.com/Geal/nom)
   - Rust parser combinator framework
-- [free](https://github.com/adam-mcdaniel/free)
-  - An esoteric programming language with an unusual compiler backend
-- [tock](https://github.com/tock/tock)
-  - A secure embedded operating system for microcontrollers
-- [wgpu](https://github.com/gfx-rs/wgpu)
-  - Native WebGPU implementation based on gfx-hal
-- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
-  - Rust bindings to wgpu native library
+- [reqwest](https://github.com/seanmonstar/reqwest)
+  - An easy and powerful Rust HTTP Client
+- [image](https://github.com/image-rs/image)
+  - Encoding and decoding images in Rust
+- [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
+  - The Mullvad VPN client app for desktop and mobile
+- [tracing](https://github.com/tokio-rs/tracing)
+  - Application level tracing for Rust.
