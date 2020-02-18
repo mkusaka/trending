@@ -1,51 +1,51 @@
 # rust
-- [topgrade](https://github.com/r-darwish/topgrade)
-  - Upgrade everything
-- [sccache](https://github.com/mozilla/sccache)
-  - sccache is ccache with cloud storage
-- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
-  - Facilitating high-level interactions between Wasm modules and JavaScript
-- [swc](https://github.com/swc-project/swc)
-  - Super-fast typescript / javascript compiler written in rust
-- [boa](https://github.com/jasonwilliams/boa)
-  - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
-- [lemmy](https://github.com/dessalines/lemmy)
-  - 🐀 Building a federated alternative to reddit in rust
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
-- [zola](https://github.com/getzola/zola)
-  - A fast static site generator in a single binary with everything built-in.
-- [roa](https://github.com/Hexilee/roa)
-  - async web framework inspired by koajs, lightweight but powerful.
-- [rust-clippy](https://github.com/rust-lang/rust-clippy)
-  - A bunch of lints to catch common mistakes and improve your Rust code
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix web is a small, pragmatic, and extremely fast rust web framework.
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [rustlings](https://github.com/rust-lang/rustlings)
-  - Small exercises to get you used to reading and writing Rust code!
-- [mdBook](https://github.com/rust-lang/mdBook)
-  - Create book from markdown files. Like Gitbook but implemented in Rust
-- [hyper](https://github.com/hyperium/hyper)
-  - An HTTP library for Rust
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-  - A curated list of Rust code and resources.
-- [crates.io](https://github.com/rust-lang/crates.io)
-  - Source code for crates.io
-- [svgbob](https://github.com/ivanceras/svgbob)
-  - Convert your ascii diagram scribbles into happy little SVG
-- [panda-api](https://github.com/arlicle/panda-api)
-  - Panda api is a simple and powerful api docs design tool.
+- [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
+  - The Mullvad VPN client app for desktop and mobile
 - [rust](https://github.com/rust-lang/rust)
   - Empowering everyone to build reliable and efficient software.
-- [sqlx](https://github.com/launchbadge/sqlx)
-  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL.
-- [winit](https://github.com/rust-windowing/winit)
-  - Window handling library in pure Rust
-- [muso](https://github.com/quebin31/muso)
-  - muso: music sorter
-- [procs](https://github.com/dalance/procs)
-  - A modern replacement for ps written in Rust
+- [specs](https://github.com/amethyst/specs)
+  - Specs - Parallel ECS
+- [topgrade](https://github.com/r-darwish/topgrade)
+  - Upgrade everything
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - ripgrep recursively searches directories for a regex pattern
 - [pax](https://github.com/nathan/pax)
   - The fastest JavaScript bundler in the galaxy.
+- [swc](https://github.com/swc-project/swc)
+  - Super-fast typescript / javascript compiler written in rust
+- [examples](https://github.com/actix/examples)
+  - Actix web examples
+- [procs](https://github.com/dalance/procs)
+  - A modern replacement for ps written in Rust
+- [zola](https://github.com/getzola/zola)
+  - A fast static site generator in a single binary with everything built-in.
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [mdBook](https://github.com/rust-lang/mdBook)
+  - Create book from markdown files. Like Gitbook but implemented in Rust
+- [warp](https://github.com/seanmonstar/warp)
+  - A super-easy, composable, web server framework for warp speeds.
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix web is a small, pragmatic, and extremely fast rust web framework.
+- [broot](https://github.com/Canop/broot)
+  - A new way to see and navigate directory trees : https://dystroy.org/broot
+- [vector](https://github.com/timberio/vector)
+  - Collect, transform, & route all observability data with one simple tool
+- [rust-rdkafka](https://github.com/fede1024/rust-rdkafka)
+  - A fully asynchronous, futures-based Kafka client library for Rust based on librdkafka
+- [c2rust](https://github.com/immunant/c2rust)
+  - Migrate C code to Rust
+- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
+  - Facilitating high-level interactions between Wasm modules and JavaScript
+- [sccache](https://github.com/mozilla/sccache)
+  - sccache is ccache with cloud storage
+- [roa](https://github.com/Hexilee/roa)
+  - async web framework inspired by koajs, lightweight but powerful.
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
+- [nushell](https://github.com/nushell/nushell)
+  - A modern shell written in Rust
+- [parity-ethereum](https://github.com/paritytech/parity-ethereum)
+  - The fast, light, and robust EVM and WASM client.
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs

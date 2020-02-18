@@ -1,51 +1,51 @@
 # go
-- [istio](https://github.com/istio/istio)
-  - Connect, secure, control, and observe services.
 - [esbuild](https://github.com/evanw/esbuild)
   - An extremely fast JavaScript bundler and minifier
-- [etcd](https://github.com/etcd-io/etcd)
-  - Distributed reliable key-value store for the most critical data of a distributed system
-- [community](https://github.com/kubernetes/community)
-  - Kubernetes community content
+- [go-ethereum](https://github.com/ethereum/go-ethereum)
+  - Official Go implementation of the Ethereum protocol
+- [prometheus-operator](https://github.com/coreos/prometheus-operator)
+  - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+- [helm](https://github.com/helm/helm)
+  - The Kubernetes Package Manager
 - [o365-attack-toolkit](https://github.com/mdsecactivebreach/o365-attack-toolkit)
   - A toolkit to attack Office365
-- [sourcegraph](https://github.com/sourcegraph/sourcegraph)
-  - Universal code search and navigation tool (self-hosted)
+- [mkcert](https://github.com/FiloSottile/mkcert)
+  - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [slack](https://github.com/nlopes/slack)
   - Slack API in Go
-- [gorm](https://github.com/jinzhu/gorm)
-  - The fantastic ORM library for Golang, aims to be developer friendly (v2 is under development, PR based on master branch won't be accepted)
-- [mm-wiki](https://github.com/phachon/mm-wiki)
-  - MM-Wiki 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
-- [Amass](https://github.com/OWASP/Amass)
-  - In-depth Attack Surface Mapping and Asset Discovery
-- [mindoc](https://github.com/lifei6671/mindoc)
-  - Golang实现的基于beego框架的接口在线文档管理系统
-- [node_exporter](https://github.com/prometheus/node_exporter)
-  - Exporter for machine metrics
-- [golangci-lint](https://github.com/golangci/golangci-lint)
-  - Linters Runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config.
-- [golang-samples](https://github.com/GoogleCloudPlatform/golang-samples)
-  - Sample apps and code written for Google Cloud in the Go programming language.
+- [kafka-operator](https://github.com/banzaicloud/kafka-operator)
+  - Oh no! Yet another Kafka operator for Kubernetes
+- [go](https://github.com/golang/go)
+  - The Go programming language
+- [chaos-mesh](https://github.com/pingcap/chaos-mesh)
+  - A Chaos Engineering Platform for Kubernetes
+- [chat](https://github.com/tinode/chat)
+  - Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots
+- [origin](https://github.com/openshift/origin)
+  - The self-managing, auto-upgrading, Kubernetes distribution for everyone
+- [ingress-nginx](https://github.com/kubernetes/ingress-nginx)
+  - NGINX Ingress Controller for Kubernetes
+- [yaml](https://github.com/go-yaml/yaml)
+  - YAML support for the Go language.
+- [tidb](https://github.com/pingcap/tidb)
+  - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+- [telegraf](https://github.com/influxdata/telegraf)
+  - The plugin-driven server agent for collecting & reporting metrics.
+- [testify](https://github.com/stretchr/testify)
+  - A toolkit with common assertions and mocks that plays nicely with the standard library
+- [consul](https://github.com/hashicorp/consul)
+  - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+- [mattermost-server](https://github.com/mattermost/mattermost-server)
+  - Open source Slack-alternative in Golang and React - Mattermost
+- [istio](https://github.com/istio/istio)
+  - Connect, secure, control, and observe services.
+- [community](https://github.com/kubernetes/community)
+  - Kubernetes community content
 - [influxdb](https://github.com/influxdata/influxdb)
   - Scalable datastore for metrics, events, and real-time analytics
-- [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
-  - Network-wide ads & trackers blocking DNS server
-- [gopl.io](https://github.com/adonovan/gopl.io)
-  - Example programs from "The Go Programming Language"
-- [gvisor](https://github.com/google/gvisor)
-  - Container Runtime Sandbox
-- [go-mysql](https://github.com/siddontang/go-mysql)
-  - a powerful mysql toolset with Go
-- [awesome-go](https://github.com/avelino/awesome-go)
-  - A curated list of awesome Go frameworks, libraries and software
-- [OctoScreen](https://github.com/Z-Bolt/OctoScreen)
-  - LCD touch interface for our Octoprint
-- [bettercap](https://github.com/bettercap/bettercap)
-  - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
-- [alertmanager](https://github.com/prometheus/alertmanager)
-  - Prometheus Alertmanager
-- [lint](https://github.com/golang/lint)
-  - [mirror] This is a linter for Go source code.
-- [gopay](https://github.com/iGoogle-ink/gopay)
-  - QQ、微信（WeChat）、支付宝（AliPay）的Go版本SDK。【持续更新，望开发者及时升级】
+- [dashboard](https://github.com/kubernetes/dashboard)
+  - General-purpose web UI for Kubernetes clusters
+- [swag](https://github.com/swaggo/swag)
+  - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
+- [errors](https://github.com/pkg/errors)
+  - Simple error handling primitives

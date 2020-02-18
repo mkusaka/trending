@@ -1,51 +1,51 @@
 # ruby
-- [rails](https://github.com/rails/rails)
-  - Ruby on Rails
-- [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts)
-  - 🚨 Collection of Prometheus alerting rules
-- [fluentd-kubernetes-daemonset](https://github.com/fluent/fluentd-kubernetes-daemonset)
-  - Fluentd daemonset for Kubernetes and it Docker image
-- [redmine](https://github.com/redmine/redmine)
-  - Mirror of redmine code source - Official SVN repository is at https://svn.redmine.org/redmine - contact: @jbbarth or jeanbaptiste.barth (at) gmail (dot) com
-- [oxford-comma-onl01-seng-pt-021020](https://github.com/learn-co-students/oxford-comma-onl01-seng-pt-021020)
-  - 
-- [yield-and-blocks-onl01-seng-pt-021020](https://github.com/learn-co-students/yield-and-blocks-onl01-seng-pt-021020)
-  - 
-- [fast_template](https://github.com/fastai/fast_template)
-  - A template for really easy blogging with GitHub Pages
-- [rottenpotatoes-rails-intro](https://github.com/saasbook/rottenpotatoes-rails-intro)
-  - RottenPotatoes app skeleton for saasbook/hw-rails-intro
 - [huginn](https://github.com/huginn/huginn)
   - Create agents that monitor and act on your behalf. Your agents are standing by!
-- [swot](https://github.com/leereilly/swot)
-  - 🏫 Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
-- [apples-and-holidays-onl01-seng-ft-021020](https://github.com/learn-co-students/apples-and-holidays-onl01-seng-ft-021020)
-  - 
-- [programming-univbasics-4-intro-to-hashes-lab-houston-web-030920](https://github.com/learn-co-students/programming-univbasics-4-intro-to-hashes-lab-houston-web-030920)
-  - 
-- [rack-get-params-lab-online-web-sp-000](https://github.com/learn-co-students/rack-get-params-lab-online-web-sp-000)
-  - 
-- [git-scm.com](https://github.com/git/git-scm.com)
-  - The git-scm.com website. Note that this repository is only for the website; issues with git itself should go to https://git-scm.com/community.
-- [pentest-env](https://github.com/Sliim/pentest-env)
-  - Pentest environment deployer (kali linux + targets) using vagrant and chef.
-- [square_array-onl01-seng-pt-021020](https://github.com/learn-co-students/square_array-onl01-seng-pt-021020)
-  - 
-- [reverse-each-word-onl01-seng-pt-021020](https://github.com/learn-co-students/reverse-each-word-onl01-seng-pt-021020)
-  - 
-- [sinatra-from-scratch-readme](https://github.com/learn-co-curriculum/sinatra-from-scratch-readme)
-  - 
-- [badges-and-schedules-onl01-seng-pt-021020](https://github.com/learn-co-students/badges-and-schedules-onl01-seng-pt-021020)
-  - 
-- [ruby](https://github.com/ruby/ruby)
-  - The Ruby Programming Language [mirror]
-- [refactoring-views-with-helpers-reading-online-web-pt-090919](https://github.com/learn-co-students/refactoring-views-with-helpers-reading-online-web-pt-090919)
-  - 
-- [deli-counter-onl01-seng-pt-021020](https://github.com/learn-co-students/deli-counter-onl01-seng-pt-021020)
-  - 
-- [vagrant](https://github.com/hashicorp/vagrant)
-  - Vagrant is a tool for building and distributing development environments.
-- [array-CRUD-lab-onl01-seng-ft-012120](https://github.com/learn-co-students/array-CRUD-lab-onl01-seng-ft-012120)
-  - 
-- [joint_dev_task](https://github.com/yoshitokamizato/joint_dev_task)
-  - 
+- [sidekiq](https://github.com/mperham/sidekiq)
+  - Simple, efficient background processing for Ruby
+- [canvas-lms](https://github.com/instructure/canvas-lms)
+  - The open LMS by Instructure, Inc.
+- [rails](https://github.com/rails/rails)
+  - Ruby on Rails
+- [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)
+  - Simple one-liner tests for common Rails functionality
+- [logstash](https://github.com/elastic/logstash)
+  - Logstash - transport and process your logs, events, or other data
+- [ransack](https://github.com/activerecord-hackery/ransack)
+  - Object-based searching.
+- [solidus](https://github.com/solidusio/solidus)
+  - 🛒Solidus, Rails eCommerce System
+- [zammad](https://github.com/zammad/zammad)
+  - Zammad is a web based open source helpdesk/customer support system
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
+  - Metasploit Framework
+- [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails)
+  - Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
+- [fluentd](https://github.com/fluent/fluentd)
+  - Fluentd: Unified Logging Layer (project under CNCF)
+- [fastlane](https://github.com/fastlane/fastlane)
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [chef](https://github.com/chef/chef)
+  - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
+- [evil-winrm](https://github.com/Hackplayers/evil-winrm)
+  - The ultimate WinRM shell for hacking/pentesting
+- [devise](https://github.com/heartcombo/devise)
+  - Flexible authentication solution for Rails with Warden.
+- [activeadmin](https://github.com/activeadmin/activeadmin)
+  - The administration framework for Ruby on Rails applications.
+- [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator)
+  - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+- [draper](https://github.com/drapergem/draper)
+  - Decorators/View-Models for Rails Applications
+- [webpacker](https://github.com/rails/webpacker)
+  - Use Webpack to manage app-like JavaScript modules in Rails
+- [linuxbrew-core](https://github.com/Homebrew/linuxbrew-core)
+  - 🍻🐧 Core formulae for the Homebrew package manager on Linux
+- [faker](https://github.com/faker-ruby/faker)
+  - A library for generating fake data such as names, addresses, and phone numbers.
+- [axlsx](https://github.com/randym/axlsx)
+  - xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your…
+- [database_cleaner](https://github.com/DatabaseCleaner/database_cleaner)
+  - Strategies for cleaning databases in Ruby. Can be used to ensure a clean state for testing.
+- [spree](https://github.com/spree/spree)
+  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
