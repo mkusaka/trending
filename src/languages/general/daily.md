@@ -1,51 +1,51 @@
 # general
-- [freespeech](https://github.com/Merkie/freespeech) : Vue
-  - A free program designed to help the non-verbal.
-- [python-small-examples](https://github.com/jackzhenguo/python-small-examples) : Python
-  - Python有趣的小例子一网打尽。Python基础、Python坑点、Python字符串和正则、Python绘图、Python日期和文件、Web开发、数据科学、机器学习、深度学习、TensorFlow、Pytorch，一切都是简单易懂的小例子。
-- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) : 
-  - Master the command line, in one page
-- [Apollo-11](https://github.com/chrislgarry/Apollo-11) : Assembly
-  - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
-- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
-  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-- [awesome-pentest](https://github.com/enaqx/awesome-pentest) : 
-  - A collection of awesome penetration testing resources, tools and other shiny things
-- [joplin](https://github.com/laurent22/joplin) : JavaScript
-  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
-- [todomvc](https://github.com/tastejs/todomvc) : JavaScript
-  - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
-- [introtodeeplearning](https://github.com/aamini/introtodeeplearning) : Jupyter Notebook
-  - Lab Materials for MIT 6.S191: Introduction to Deep Learning
-- [jd-assistant](https://github.com/tychxn/jd-assistant) : Python
-  - 京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能
-- [wuhan2020-timeline](https://github.com/Pratitya/wuhan2020-timeline) : 
-  - 记录自2019年12月起武汉新冠肺炎疫情进展的时间线。
-- [Undecimus](https://github.com/pwn20wndstuff/Undecimus) : C
-  - unc0ver jailbreak for iOS 11.0 - 12.4
-- [openwrt](https://github.com/Lienol/openwrt) : C
-  - Lienol's Modified OpenWrt source
-- [istio](https://github.com/istio/istio) : Go
-  - Connect, secure, control, and observe services.
-- [tachiyomi](https://github.com/inorichi/tachiyomi) : Kotlin
-  - Free and open source manga reader for Android
-- [esbuild](https://github.com/evanw/esbuild) : Go
-  - An extremely fast JavaScript bundler and minifier
-- [NLP-progress](https://github.com/sebastianruder/NLP-progress) : Python
-  - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
-- [linux](https://github.com/torvalds/linux) : C
-  - Linux kernel source tree
+- [1on1-questions](https://github.com/VGraupera/1on1-questions) : JavaScript
+  - Mega list of 1 on 1 meeting questions compiled from a variety to sources
 - [snoop](https://github.com/snooppr/snoop) : Python
   - Snoop — инструмент разведки на основе открытых данных
-- [lede](https://github.com/coolsnowwolf/lede) : C
-  - Lean's OpenWrt source
-- [Hackintosh](https://github.com/daliansky/Hackintosh) : Shell
-  - Hackintosh long-term maintenance model EFI and installation tutorial
-- [efcore](https://github.com/dotnet/efcore) : C#
-  - EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.
+- [esbuild](https://github.com/evanw/esbuild) : Go
+  - An extremely fast JavaScript bundler and minifier
+- [trax](https://github.com/google/trax) : Python
+  - Trax — your path to advanced deep learning
+- [app-ideas](https://github.com/florinpop17/app-ideas) : 
+  - A Collection of application ideas which can be used to improve your coding skills.
+- [gdb-frontend](https://github.com/rohanrhu/gdb-frontend) : JavaScript
+  - ☕ GDBFrontend is an easy, flexible and extensionable gui debugger.
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) : 
+  - Master the command line, in one page
+- [python-small-examples](https://github.com/jackzhenguo/python-small-examples) : Python
+  - Python有趣的小例子一网打尽。Python基础、Python坑点、Python字符串和正则、Python绘图、Python日期和文件、Web开发、数据科学、机器学习、深度学习、TensorFlow、Pytorch，一切都是简单易懂的小例子。
+- [freespeech](https://github.com/Merkie/freespeech) : Vue
+  - A free program designed to help the non-verbal.
+- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) : 
+  - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
+  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [wearable-microphone-jamming](https://github.com/y-x-c/wearable-microphone-jamming) : C++
+  - Repository for our paper Wearable Microphone Jamming
+- [degoogle](https://github.com/tycrek/degoogle) : 
+  - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [sherlock](https://github.com/sherlock-project/sherlock) : Python
   - 🔎 Hunt down social media accounts by username across social networks
+- [leon](https://github.com/leon-ai/leon) : JavaScript
+  - 🧠 Leon is your open-source personal assistant.
+- [awesome-pentest](https://github.com/enaqx/awesome-pentest) : 
+  - A collection of awesome penetration testing resources, tools and other shiny things
+- [playwright](https://github.com/microsoft/playwright) : JavaScript
+  - Node library to automate Chromium, Firefox and WebKit with a single API
+- [joplin](https://github.com/laurent22/joplin) : JavaScript
+  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [introtodeeplearning](https://github.com/aamini/introtodeeplearning) : Jupyter Notebook
+  - Lab Materials for MIT 6.S191: Introduction to Deep Learning
+- [3y](https://github.com/ZhongFuCheng3y/3y) : 
+  - 📓从Java基础、JavaWeb基础到常用的框架再到面试题都有完整的教程，几乎涵盖了Java后端必备的知识点
 - [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
   - Course Files for Complete Python 3 Bootcamp Course on Udemy
-- [spdlog](https://github.com/gabime/spdlog) : C++
-  - Fast C++ logging library.
+- [CleanArchitecture](https://github.com/ardalis/CleanArchitecture) : C#
+  - A starting point for Clean Architecture with ASP.NET Core
+- [efcore](https://github.com/dotnet/efcore) : C#
+  - EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.
+- [Carbon](https://github.com/briannesbitt/Carbon) : PHP
+  - A simple PHP API extension for DateTime.
+- [org-roam](https://github.com/jethrokuan/org-roam) : Emacs Lisp
+  - Rudimentary Roam replica with Org-mode

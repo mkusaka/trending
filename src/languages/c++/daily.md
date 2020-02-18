@@ -1,51 +1,51 @@
 # c++
-- [spdlog](https://github.com/gabime/spdlog)
-  - Fast C++ logging library.
-- [llvm-project](https://github.com/llvm/llvm-project)
-  - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
-- [Hazel](https://github.com/TheCherno/Hazel)
-  - Hazel Engine
-- [BIGTREETECH-SKR-mini-E3](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3)
-  - BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.
 - [wearable-microphone-jamming](https://github.com/y-x-c/wearable-microphone-jamming)
   - Repository for our paper Wearable Microphone Jamming
-- [trojan](https://github.com/trojan-gfw/trojan)
-  - An unidentifiable mechanism that helps you bypass GFW.
-- [FunnyMeterpreter](https://github.com/dothook/FunnyMeterpreter)
-  - 与反病毒软件老大哥们的打闹日常
-- [WiFiManager](https://github.com/tzapu/WiFiManager)
-  - ESP8266 WiFi Connection manager with web captive portal
-- [zeek](https://github.com/zeek/zeek)
-  - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
-- [pbrt-v3](https://github.com/mmp/pbrt-v3)
-  - Source code for pbrt, the renderer described in the third edition of "Physically Based Rendering: From Theory To Implementation", by Matt Pharr, Wenzel Jakob, and Greg Humphreys.
-- [waymo-open-dataset](https://github.com/waymo-research/waymo-open-dataset)
-  - Waymo Open Dataset
-- [or-tools](https://github.com/google/or-tools)
-  - Google's Operations Research tools:
-- [bitcoin](https://github.com/bitcoin/bitcoin)
-  - Bitcoin Core integration/staging tree
-- [3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
-  - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
-- [FastLED](https://github.com/FastLED/FastLED)
-  - The FastLED library for colored LED animation on Arduino. Please direct questions/requests for help to the FastLED Reddit community: http://fastled.io/r We'd like to use github "issues" just for tracking library bugs / enhancements.
-- [i2cdevlib](https://github.com/jrowberg/i2cdevlib)
-  - I2C device library collection for AVR/Arduino or other C++-based MCUs
-- [opencv](https://github.com/opencv/opencv)
-  - Open Source Computer Vision Library
-- [blynk-library](https://github.com/blynkkk/blynk-library)
-  - Blynk library for embedded hardware. Works with Arduino, ESP8266, Raspberry Pi, Intel Edison/Galileo, LinkIt ONE, Particle Core/Photon, Energia, ARM mbed, etc.
+- [tensorflow](https://github.com/tensorflow/tensorflow)
+  - An Open Source Machine Learning Framework for Everyone
+- [godot](https://github.com/godotengine/godot)
+  - Godot Engine – Multi-platform 2D and 3D game engine
 - [mediapipe](https://github.com/google/mediapipe)
   - MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
-- [electron](https://github.com/electron/electron)
-  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [swift](https://github.com/apple/swift)
-  - The Swift Programming Language
-- [USD](https://github.com/PixarAnimationStudios/USD)
-  - Universal Scene Description
-- [WickedEngine](https://github.com/turanszkij/WickedEngine)
-  - C++ game engine focusing on modern rendering techniques and performance.
-- [gnuradio](https://github.com/gnuradio/gnuradio)
-  - GNU Radio – the Free and Open Software Radio Ecosystem
-- [ninja](https://github.com/ninja-build/ninja)
-  - a small build system with a focus on speed
+- [desktop](https://github.com/nextcloud/desktop)
+  - 💻 Desktop sync client for Nextcloud
+- [milvus](https://github.com/milvus-io/milvus)
+  - Milvus -- the world's fastest vector search engine.
+- [googletest](https://github.com/google/googletest)
+  - Googletest - Google Testing and Mocking Framework
+- [terminal](https://github.com/microsoft/terminal)
+  - The new Windows Terminal and the original Windows console host, all in the same place!
+- [spdlog](https://github.com/gabime/spdlog)
+  - Fast C++ logging library.
+- [Vulkan](https://github.com/SaschaWillems/Vulkan)
+  - Examples and demos for the new Vulkan API
+- [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs)
+  - Nodejs bindings to OpenCV 3 and OpenCV 4
+- [fmt](https://github.com/fmtlib/fmt)
+  - A modern formatting library
+- [anbox](https://github.com/anbox/anbox)
+  - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
+- [grpc](https://github.com/grpc/grpc)
+  - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [bitcoin](https://github.com/bitcoin/bitcoin)
+  - Bitcoin Core integration/staging tree
+- [tinyobjloader](https://github.com/syoyo/tinyobjloader)
+  - Tiny but powerful single file wavefront obj loader
+- [MMKV](https://github.com/Tencent/MMKV)
+  - An efficient, small mobile key-value storage framework developed by WeChat. Works on iOS, Android, macOS and Windows.
+- [cmder](https://github.com/cmderdev/cmder)
+  - Lovely console emulator package for Windows
+- [GSL](https://github.com/microsoft/GSL)
+  - Guidelines Support Library
+- [ModSecurity](https://github.com/SpiderLabs/ModSecurity)
+  - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
+- [seastar](https://github.com/scylladb/seastar)
+  - High performance server-side application framework
+- [Cxbx-Reloaded](https://github.com/Cxbx-Reloaded/Cxbx-Reloaded)
+  - Xbox (Original) Emulator
+- [realsense-ros](https://github.com/IntelRealSense/realsense-ros)
+  - Intel(R) RealSense(TM) ROS Wrapper for D400 series, SR300 Camera and T265 Tracking Module
+- [ceph](https://github.com/ceph/ceph)
+  - Ceph is a distributed object, block, and file storage platform
+- [juicy-potato](https://github.com/ohpe/juicy-potato)
+  - A sugared version of RottenPotatoNG, with a bit of juice, i.e. another Local Privilege Escalation tool, from a Windows Service Accounts to NT AUTHORITY\SYSTEM.
