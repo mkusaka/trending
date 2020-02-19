@@ -1,51 +1,51 @@
 # javascript
 - [1on1-questions](https://github.com/VGraupera/1on1-questions)
   - Mega list of 1 on 1 meeting questions compiled from a variety to sources
-- [gdb-frontend](https://github.com/rohanrhu/gdb-frontend)
-  - ☕ GDBFrontend is an easy, flexible and extensionable gui debugger.
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [leon](https://github.com/leon-ai/leon)
   - 🧠 Leon is your open-source personal assistant.
+- [opensource.guide](https://github.com/github/opensource.guide)
+  - 📚 Community guides for open source creators
 - [playwright](https://github.com/microsoft/playwright)
   - Node library to automate Chromium, Firefox and WebKit with a single API
-- [joplin](https://github.com/laurent22/joplin)
-  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
-- [markdown-here](https://github.com/adam-p/markdown-here)
-  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
-- [hs-airdrop](https://github.com/handshake-org/hs-airdrop)
-  - Decentralized airdrop to open source developers
-- [react-native-firebase](https://github.com/invertase/react-native-firebase)
-  - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
-- [juice-shop](https://github.com/bkimminich/juice-shop)
-  - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
-- [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated)
-  - React Native's Animated library reimplemented
-- [moment](https://github.com/moment/moment)
-  - Parse, validate, manipulate, and display dates in javascript.
-- [fullcalendar](https://github.com/fullcalendar/fullcalendar)
-  - Full-sized drag & drop event calendar
-- [nw.js](https://github.com/nwjs/nw.js)
-  - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-  - ⭐️ Companies that don't have a broken hiring process
-- [todomvc](https://github.com/tastejs/todomvc)
-  - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
+- [atom](https://github.com/atom/atom)
+  - The hackable text editor
+- [gdb-frontend](https://github.com/rohanrhu/gdb-frontend)
+  - ☕ GDBFrontend is an easy, flexible and extensionable gui debugger.
 - [x-spreadsheet](https://github.com/myliang/x-spreadsheet)
   - A web-based JavaScript（canvas） spreadsheet
-- [next.js](https://github.com/zeit/next.js)
-  - The React Framework
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [jquery](https://github.com/jquery/jquery)
-  - jQuery JavaScript Library
-- [google-access-helper](https://github.com/haotian-wang/google-access-helper)
-  - 谷歌访问助手破解版
-- [d3](https://github.com/d3/d3)
-  - Bring data to life with SVG, Canvas and HTML. 📊📈🎉
-- [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler)
-  - Declarative API exposing platform native touch and gesture system to React Native.
-- [Chart.js](https://github.com/chartjs/Chart.js)
-  - Simple HTML5 Charts using the <canvas> tag
-- [quasar](https://github.com/quasarframework/quasar)
-  - Quasar Framework - Build high-performance VueJS user interfaces in record time
-- [aos](https://github.com/michalsnik/aos)
-  - Animate on scroll library
+- [react-native-website](https://github.com/facebook/react-native-website)
+  - The site and docs for React Native
+- [gitexplorer](https://github.com/summitech/gitexplorer)
+  - Find the right git commands without digging through the web.
+- [js-docs](https://github.com/LeonardoCesca/js-docs)
+  - Este projeto foi desenvolvido para contribuir com o open-source. Se você quiser contribuir basta seguir o README
+- [v4](https://github.com/bchiang7/v4)
+  - Fourth iteration of my personal website
+- [node](https://github.com/nodejs/node)
+  - Node.js JavaScript runtime ✨🐢🚀✨
+- [nw.js](https://github.com/nwjs/nw.js)
+  - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
+- [label-studio](https://github.com/heartexlabs/label-studio)
+  - Label Studio is a multi-type data labeling and annotation tool with standardized output format
+- [brackets](https://github.com/adobe/brackets)
+  - An open source code editor for the web, written in JavaScript, HTML and CSS.
+- [mui-datatables](https://github.com/gregnb/mui-datatables)
+  - Datatables for React using Material-UI - https://www.material-ui-datatables.com
+- [osu](https://github.com/111116/osu)
+  - web rhythm game http://osugame.online/
+- [create-react-app](https://github.com/facebook/create-react-app)
+  - Set up a modern web app by running one command.
+- [query-string](https://github.com/sindresorhus/query-string)
+  - Parse and stringify URL query strings
+- [mocha](https://github.com/mochajs/mocha)
+  - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
+- [redux-saga](https://github.com/redux-saga/redux-saga)
+  - An alternative side effect model for Redux apps
+- [joplin](https://github.com/laurent22/joplin)
+  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [overreacted.io](https://github.com/gaearon/overreacted.io)
+  - Personal blog by Dan Abramov.
+- [mobx](https://github.com/mobxjs/mobx)
+  - Simple, scalable state management.

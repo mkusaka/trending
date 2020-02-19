@@ -1,51 +1,51 @@
 # rust
-- [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
-  - The Mullvad VPN client app for desktop and mobile
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [specs](https://github.com/amethyst/specs)
-  - Specs - Parallel ECS
-- [topgrade](https://github.com/r-darwish/topgrade)
-  - Upgrade everything
-- [ripgrep](https://github.com/BurntSushi/ripgrep)
-  - ripgrep recursively searches directories for a regex pattern
-- [pax](https://github.com/nathan/pax)
-  - The fastest JavaScript bundler in the galaxy.
-- [swc](https://github.com/swc-project/swc)
-  - Super-fast typescript / javascript compiler written in rust
-- [examples](https://github.com/actix/examples)
-  - Actix web examples
-- [procs](https://github.com/dalance/procs)
-  - A modern replacement for ps written in Rust
-- [zola](https://github.com/getzola/zola)
-  - A fast static site generator in a single binary with everything built-in.
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
-  - Unofficial Bitwarden compatible server written in Rust
-- [mdBook](https://github.com/rust-lang/mdBook)
-  - Create book from markdown files. Like Gitbook but implemented in Rust
+- [materialize](https://github.com/MaterializeInc/materialize)
+  - The Streaming Data Warehouse
 - [warp](https://github.com/seanmonstar/warp)
   - A super-easy, composable, web server framework for warp speeds.
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix web is a small, pragmatic, and extremely fast rust web framework.
-- [broot](https://github.com/Canop/broot)
-  - A new way to see and navigate directory trees : https://dystroy.org/broot
+- [juniper](https://github.com/graphql-rust/juniper)
+  - GraphQL server library for Rust
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [tauri](https://github.com/tauri-apps/tauri)
+  - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
+- [zola](https://github.com/getzola/zola)
+  - A fast static site generator in a single binary with everything built-in.
+- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
+  - Rust bindings to wgpu native library
+- [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
+  - The Mullvad VPN client app for desktop and mobile
+- [krabs](https://github.com/ellbrid/krabs)
+  - An x86 bootloader written in Rust.
+- [tikv](https://github.com/tikv/tikv)
+  - Distributed transactional key-value database, originally created to complement TiDB
+- [occlum](https://github.com/occlum/occlum)
+  - Occlum is a memory-safe, multi-process library OS for Intel SGX
+- [code](https://github.com/rust-in-action/code)
+  - Source code for the book Rust in Action
+- [UniverCity](https://github.com/Thinkofname/UniverCity)
+  - Source code of the game Univercity: https://store.steampowered.com/app/808160/UniverCity/
+- [timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow)
+  - A modular implementation of timely dataflow in Rust
+- [chrono](https://github.com/chronotope/chrono)
+  - Date and time library for Rust
+- [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
+  - Ultra relevant, instant, and typo-tolerant full-text search API
+- [rust](https://github.com/tensorflow/rust)
+  - Rust language bindings for TensorFlow
+- [pathfinder](https://github.com/servo/pathfinder)
+  - A fast, practical GPU rasterizer for fonts and vector graphics
+- [lumen](https://github.com/lumen/lumen)
+  - An alternative BEAM implementation, designed for WebAssembly
+- [mio](https://github.com/tokio-rs/mio)
+  - Metal IO library for Rust
+- [pest](https://github.com/pest-parser/pest)
+  - The Elegant Parser
 - [vector](https://github.com/timberio/vector)
   - Collect, transform, & route all observability data with one simple tool
-- [rust-rdkafka](https://github.com/fede1024/rust-rdkafka)
-  - A fully asynchronous, futures-based Kafka client library for Rust based on librdkafka
-- [c2rust](https://github.com/immunant/c2rust)
-  - Migrate C code to Rust
-- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
-  - Facilitating high-level interactions between Wasm modules and JavaScript
-- [sccache](https://github.com/mozilla/sccache)
-  - sccache is ccache with cloud storage
-- [roa](https://github.com/Hexilee/roa)
-  - async web framework inspired by koajs, lightweight but powerful.
-- [bat](https://github.com/sharkdp/bat)
-  - A cat(1) clone with wings.
-- [nushell](https://github.com/nushell/nushell)
-  - A modern shell written in Rust
-- [parity-ethereum](https://github.com/paritytech/parity-ethereum)
-  - The fast, light, and robust EVM and WASM client.
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
+- [wascc-host](https://github.com/wascc/wascc-host)
+  - Library for hosting actors and capability providers in a host process
+- [examples](https://github.com/actix/examples)
+  - Actix web examples
+- [differential-dataflow](https://github.com/TimelyDataflow/differential-dataflow)
+  - An implementation of differential dataflow using timely dataflow on Rust.
