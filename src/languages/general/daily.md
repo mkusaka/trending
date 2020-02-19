@@ -1,51 +1,51 @@
 # general
-- [1on1-questions](https://github.com/VGraupera/1on1-questions) : JavaScript
-  - Mega list of 1 on 1 meeting questions compiled from a variety to sources
-- [snoop](https://github.com/snooppr/snoop) : Python
-  - Snoop — инструмент разведки на основе открытых данных
-- [esbuild](https://github.com/evanw/esbuild) : Go
-  - An extremely fast JavaScript bundler and minifier
-- [trax](https://github.com/google/trax) : Python
-  - Trax — your path to advanced deep learning
 - [app-ideas](https://github.com/florinpop17/app-ideas) : 
   - A Collection of application ideas which can be used to improve your coding skills.
-- [gdb-frontend](https://github.com/rohanrhu/gdb-frontend) : JavaScript
-  - ☕ GDBFrontend is an easy, flexible and extensionable gui debugger.
-- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) : 
-  - Master the command line, in one page
-- [python-small-examples](https://github.com/jackzhenguo/python-small-examples) : Python
-  - Python有趣的小例子一网打尽。Python基础、Python坑点、Python字符串和正则、Python绘图、Python日期和文件、Web开发、数据科学、机器学习、深度学习、TensorFlow、Pytorch，一切都是简单易懂的小例子。
-- [freespeech](https://github.com/Merkie/freespeech) : Vue
-  - A free program designed to help the non-verbal.
-- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) : 
-  - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
-  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-- [wearable-microphone-jamming](https://github.com/y-x-c/wearable-microphone-jamming) : C++
-  - Repository for our paper Wearable Microphone Jamming
+- [hacker-laws](https://github.com/dwmkerr/hacker-laws) : 
+  - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
+- [computervision-recipes](https://github.com/microsoft/computervision-recipes) : Jupyter Notebook
+  - Best Practices, code samples, and documentation for Computer Vision.
+- [1on1-questions](https://github.com/VGraupera/1on1-questions) : JavaScript
+  - Mega list of 1 on 1 meeting questions compiled from a variety to sources
+- [7days-golang](https://github.com/geektutu/7days-golang) : Go
+  - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, etc) 7天用Go动手写系列[从零实现]
 - [degoogle](https://github.com/tycrek/degoogle) : 
   - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
-- [sherlock](https://github.com/sherlock-project/sherlock) : Python
-  - 🔎 Hunt down social media accounts by username across social networks
-- [leon](https://github.com/leon-ai/leon) : JavaScript
-  - 🧠 Leon is your open-source personal assistant.
-- [awesome-pentest](https://github.com/enaqx/awesome-pentest) : 
-  - A collection of awesome penetration testing resources, tools and other shiny things
-- [playwright](https://github.com/microsoft/playwright) : JavaScript
-  - Node library to automate Chromium, Firefox and WebKit with a single API
-- [joplin](https://github.com/laurent22/joplin) : JavaScript
-  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
-- [introtodeeplearning](https://github.com/aamini/introtodeeplearning) : Jupyter Notebook
-  - Lab Materials for MIT 6.S191: Introduction to Deep Learning
-- [3y](https://github.com/ZhongFuCheng3y/3y) : 
-  - 📓从Java基础、JavaWeb基础到常用的框架再到面试题都有完整的教程，几乎涵盖了Java后端必备的知识点
-- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
-  - Course Files for Complete Python 3 Bootcamp Course on Udemy
-- [CleanArchitecture](https://github.com/ardalis/CleanArchitecture) : C#
-  - A starting point for Clean Architecture with ASP.NET Core
+- [mml-book.github.io](https://github.com/mml-book/mml-book.github.io) : Jupyter Notebook
+  - Companion webpage to the book "Mathematics For Machine Learning"
+- [mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) : Jupyter Notebook
+  - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
+- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) : 
+  - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+- [DAIN](https://github.com/baowenbo/DAIN) : Python
+  - Depth-Aware Video Frame Interpolation (CVPR 2019)
+- [Python-100-Days](https://github.com/ZiniuLu/Python-100-Days) : Python
+  - 出处：https://github.com/jackfrued/Python-100-Days.git
+- [AspNetCore.Docs](https://github.com/aspnet/AspNetCore.Docs) : C#
+  - Documentation for ASP.NET Core
+- [react](https://github.com/facebook/react) : JavaScript
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [efcore](https://github.com/dotnet/efcore) : C#
   - EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.
-- [Carbon](https://github.com/briannesbitt/Carbon) : PHP
-  - A simple PHP API extension for DateTime.
-- [org-roam](https://github.com/jethrokuan/org-roam) : Emacs Lisp
-  - Rudimentary Roam replica with Org-mode
+- [ganhacks](https://github.com/soumith/ganhacks) : 
+  - starter from "How to Train a GAN?" at NIPS2016
+- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
+  - Course Files for Complete Python 3 Bootcamp Course on Udemy
+- [LaZagne](https://github.com/AlessandroZ/LaZagne) : Python
+  - Credentials recovery project
+- [aws-cdk](https://github.com/aws/aws-cdk) : TypeScript
+  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+- [leon](https://github.com/leon-ai/leon) : JavaScript
+  - 🧠 Leon is your open-source personal assistant.
+- [odoo](https://github.com/odoo/odoo) : Python
+  - Odoo. Open Source Apps To Grow Your Business.
+- [gogs](https://github.com/gogs/gogs) : Go
+  - Gogs is a painless self-hosted Git service
+- [ApplicationInspector](https://github.com/microsoft/ApplicationInspector) : C#
+  - A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'what's in it' using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.
+- [airflow](https://github.com/apache/airflow) : Python
+  - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [datahub](https://github.com/linkedin/datahub) : TypeScript
+  - A Generalized Metadata Search & Discovery Tool
+- [opensource.guide](https://github.com/github/opensource.guide) : JavaScript
+  - 📚 Community guides for open source creators

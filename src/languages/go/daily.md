@@ -1,51 +1,51 @@
 # go
+- [7days-golang](https://github.com/geektutu/7days-golang)
+  - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, etc) 7天用Go动手写系列[从零实现]
+- [gogs](https://github.com/gogs/gogs)
+  - Gogs is a painless self-hosted Git service
+- [opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification)
+  - Specifications for OpenTelemetry
+- [traefik](https://github.com/containous/traefik)
+  - The Cloud Native Edge Router
+- [golangci-lint](https://github.com/golangci/golangci-lint)
+  - Linters Runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config.
+- [rook](https://github.com/rook/rook)
+  - Storage Orchestration for Kubernetes
+- [harbor](https://github.com/goharbor/harbor)
+  - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [gitleaks](https://github.com/zricethezav/gitleaks)
+  - Audit git repos for secrets 🔑
 - [esbuild](https://github.com/evanw/esbuild)
   - An extremely fast JavaScript bundler and minifier
-- [go-ethereum](https://github.com/ethereum/go-ethereum)
-  - Official Go implementation of the Ethereum protocol
-- [prometheus-operator](https://github.com/coreos/prometheus-operator)
-  - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [helm](https://github.com/helm/helm)
-  - The Kubernetes Package Manager
-- [o365-attack-toolkit](https://github.com/mdsecactivebreach/o365-attack-toolkit)
-  - A toolkit to attack Office365
+- [gh-ost](https://github.com/github/gh-ost)
+  - GitHub's Online Schema Migrations for MySQL
+- [dex](https://github.com/dexidp/dex)
+  - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
+- [distribution](https://github.com/docker/distribution)
+  - The Docker toolset to pack, ship, store, and deliver content
+- [restic](https://github.com/restic/restic)
+  - Fast, secure, efficient backup program
+- [algorithmswithgo.com](https://github.com/joncalhoun/algorithmswithgo.com)
+  - 
+- [xray](https://github.com/chaitin/xray)
+  - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
+- [cli](https://github.com/urfave/cli)
+  - A simple, fast, and fun package for building command line apps in Go
+- [rancher](https://github.com/rancher/rancher)
+  - Complete container management platform
+- [hydra](https://github.com/ory/hydra)
+  - OAuth2 Server and OpenID Certified™ OpenID Connect Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language.
+- [hub](https://github.com/github/hub)
+  - A command-line tool that makes git easier to use with GitHub.
+- [casbin](https://github.com/casbin/casbin)
+  - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
 - [mkcert](https://github.com/FiloSottile/mkcert)
   - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-- [slack](https://github.com/nlopes/slack)
-  - Slack API in Go
-- [kafka-operator](https://github.com/banzaicloud/kafka-operator)
-  - Oh no! Yet another Kafka operator for Kubernetes
-- [go](https://github.com/golang/go)
-  - The Go programming language
-- [chaos-mesh](https://github.com/pingcap/chaos-mesh)
-  - A Chaos Engineering Platform for Kubernetes
-- [chat](https://github.com/tinode/chat)
-  - Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots
-- [origin](https://github.com/openshift/origin)
-  - The self-managing, auto-upgrading, Kubernetes distribution for everyone
-- [ingress-nginx](https://github.com/kubernetes/ingress-nginx)
-  - NGINX Ingress Controller for Kubernetes
-- [yaml](https://github.com/go-yaml/yaml)
-  - YAML support for the Go language.
-- [tidb](https://github.com/pingcap/tidb)
-  - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
-- [telegraf](https://github.com/influxdata/telegraf)
-  - The plugin-driven server agent for collecting & reporting metrics.
-- [testify](https://github.com/stretchr/testify)
-  - A toolkit with common assertions and mocks that plays nicely with the standard library
-- [consul](https://github.com/hashicorp/consul)
-  - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [mattermost-server](https://github.com/mattermost/mattermost-server)
-  - Open source Slack-alternative in Golang and React - Mattermost
-- [istio](https://github.com/istio/istio)
-  - Connect, secure, control, and observe services.
-- [community](https://github.com/kubernetes/community)
-  - Kubernetes community content
-- [influxdb](https://github.com/influxdata/influxdb)
-  - Scalable datastore for metrics, events, and real-time analytics
-- [dashboard](https://github.com/kubernetes/dashboard)
-  - General-purpose web UI for Kubernetes clusters
-- [swag](https://github.com/swaggo/swag)
-  - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
-- [errors](https://github.com/pkg/errors)
-  - Simple error handling primitives
+- [gh-mysql-tools](https://github.com/github/gh-mysql-tools)
+  - General purpose MySQL tools by GitHub Engineering
+- [apm-server](https://github.com/elastic/apm-server)
+  - APM Server
+- [external-storage](https://github.com/kubernetes-incubator/external-storage)
+  - External storage plugins, provisioners, and helper libraries
+- [bk-cmdb](https://github.com/Tencent/bk-cmdb)
+  - 蓝鲸智云配置平台(BlueKing CMDB)
