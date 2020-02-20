@@ -1,51 +1,51 @@
 # rust
 - [materialize](https://github.com/MaterializeInc/materialize)
   - The Streaming Data Warehouse
+- [firecracker](https://github.com/firecracker-microvm/firecracker)
+  - Secure and fast microVMs for serverless computing.
 - [warp](https://github.com/seanmonstar/warp)
   - A super-easy, composable, web server framework for warp speeds.
-- [juniper](https://github.com/graphql-rust/juniper)
-  - GraphQL server library for Rust
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
-  - Unofficial Bitwarden compatible server written in Rust
+- [talent-plan](https://github.com/pingcap/talent-plan)
+  - PingCAP training courses
+- [nushell](https://github.com/nushell/nushell)
+  - A modern shell written in Rust
+- [jormungandr](https://github.com/input-output-hk/jormungandr)
+  - aspiring blockchain node
+- [crates.io](https://github.com/rust-lang/crates.io)
+  - Source code for crates.io
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
+- [py-spy](https://github.com/benfred/py-spy)
+  - Sampling profiler for Python programs
 - [tauri](https://github.com/tauri-apps/tauri)
   - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
-- [zola](https://github.com/getzola/zola)
-  - A fast static site generator in a single binary with everything built-in.
-- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
-  - Rust bindings to wgpu native library
-- [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
-  - The Mullvad VPN client app for desktop and mobile
-- [krabs](https://github.com/ellbrid/krabs)
-  - An x86 bootloader written in Rust.
 - [tikv](https://github.com/tikv/tikv)
   - Distributed transactional key-value database, originally created to complement TiDB
-- [occlum](https://github.com/occlum/occlum)
-  - Occlum is a memory-safe, multi-process library OS for Intel SGX
-- [code](https://github.com/rust-in-action/code)
-  - Source code for the book Rust in Action
-- [UniverCity](https://github.com/Thinkofname/UniverCity)
-  - Source code of the game Univercity: https://store.steampowered.com/app/808160/UniverCity/
+- [blockstack-core](https://github.com/blockstack/blockstack-core)
+  - The reference implementation of Blockstack
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [tokio](https://github.com/tokio-rs/tokio)
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [topgrade](https://github.com/r-darwish/topgrade)
+  - Upgrade everything
+- [spotify-tui](https://github.com/Rigellute/spotify-tui)
+  - Spotify for the terminal written in Rust 🚀
+- [tokenizers](https://github.com/huggingface/tokenizers)
+  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow)
   - A modular implementation of timely dataflow in Rust
-- [chrono](https://github.com/chronotope/chrono)
-  - Date and time library for Rust
-- [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
-  - Ultra relevant, instant, and typo-tolerant full-text search API
+- [rust-libp2p](https://github.com/libp2p/rust-libp2p)
+  - The Rust Implementation of libp2p networking stack.
+- [book](https://github.com/rust-lang/book)
+  - The Rust Programming Language
 - [rust](https://github.com/tensorflow/rust)
   - Rust language bindings for TensorFlow
-- [pathfinder](https://github.com/servo/pathfinder)
-  - A fast, practical GPU rasterizer for fonts and vector graphics
-- [lumen](https://github.com/lumen/lumen)
-  - An alternative BEAM implementation, designed for WebAssembly
-- [mio](https://github.com/tokio-rs/mio)
-  - Metal IO library for Rust
-- [pest](https://github.com/pest-parser/pest)
-  - The Elegant Parser
-- [vector](https://github.com/timberio/vector)
-  - Collect, transform, & route all observability data with one simple tool
-- [wascc-host](https://github.com/wascc/wascc-host)
-  - Library for hosting actors and capability providers in a host process
-- [examples](https://github.com/actix/examples)
-  - Actix web examples
-- [differential-dataflow](https://github.com/TimelyDataflow/differential-dataflow)
-  - An implementation of differential dataflow using timely dataflow on Rust.
+- [broot](https://github.com/Canop/broot)
+  - A new way to see and navigate directory trees : https://dystroy.org/broot
+- [awesome-static-analysis](https://github.com/mre/awesome-static-analysis)
+  - Static analysis tools for all programming languages
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [OpenSK](https://github.com/google/OpenSK)
+  - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
