@@ -1,51 +1,51 @@
 # ruby
-- [scientist](https://github.com/github/scientist)
-  - 🔬 A Ruby library for carefully refactoring critical paths.
-- [rubocop](https://github.com/rubocop-hq/rubocop)
-  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [linguist](https://github.com/github/linguist)
-  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-- [logstash](https://github.com/elastic/logstash)
-  - Logstash - transport and process your logs, events, or other data
-- [evil-winrm](https://github.com/Hackplayers/evil-winrm)
-  - The ultimate WinRM shell for hacking/pentesting
-- [Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)
-  - Web CTF CheatSheet 🐈
+- [concurrent-ruby](https://github.com/ruby-concurrency/concurrent-ruby)
+  - Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
+- [mastodon](https://github.com/tootsuite/mastodon)
+  - Your self-hosted, globally interconnected microblogging community
+- [guides](https://github.com/thoughtbot/guides)
+  - A guide for programming in style.
 - [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
   - A curated list of engineering blogs
-- [ISO-3166-Countries-with-Regional-Codes](https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes)
-  - ISO 3166-1 country lists merged with their UN Geoscheme regional codes in ready-to-use JSON, XML, CSV data sets
-- [factory_bot](https://github.com/thoughtbot/factory_bot)
-  - A library for setting up Ruby objects as test data.
+- [discourse](https://github.com/discourse/discourse)
+  - A platform for community discussion. Free, open, simple.
+- [capybara](https://github.com/teamcapybara/capybara)
+  - Acceptance test framework for web applications
+- [dev.to](https://github.com/thepracticaldev/dev.to)
+  - Where programmers share ideas and help each other grow
+- [homebrew-openjdk](https://github.com/AdoptOpenJDK/homebrew-openjdk)
+  - AdoptOpenJDK HomeBrew Tap
 - [rails](https://github.com/rails/rails)
   - Ruby on Rails
 - [sonic-pi](https://github.com/samaaron/sonic-pi)
   - The Live Coding Music Synth for Everyone
-- [flow_core](https://github.com/rails-engine/flow_core)
-  - A multi purpose, extendable, Workflow-net-based workflow engine for Rails applications
+- [homebrew-bundle](https://github.com/Homebrew/homebrew-bundle)
+  - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
 - [choosealicense.com](https://github.com/github/choosealicense.com)
   - A site to provide non-judgmental guidance on choosing a license for your open source project
-- [sorbet](https://github.com/sorbet/sorbet)
-  - A fast, powerful type checker designed for Ruby
-- [sinatra-basic-views-lab-nyc-web-012720](https://github.com/learn-co-students/sinatra-basic-views-lab-nyc-web-012720)
-  - 
-- [sinatra-views-nyc-web-012720](https://github.com/learn-co-students/sinatra-views-nyc-web-012720)
-  - 
-- [sinatra-mvc-file-structure-nyc-web-012720](https://github.com/learn-co-students/sinatra-mvc-file-structure-nyc-web-012720)
-  - 
-- [sinatra-basic-routes-lab-nyc-web-012720](https://github.com/learn-co-students/sinatra-basic-routes-lab-nyc-web-012720)
-  - 
-- [ruby-object-attributes-lab-onl01-seng-ft-021020](https://github.com/learn-co-students/ruby-object-attributes-lab-onl01-seng-ft-021020)
-  - 
-- [rack-dynamic-routes-lab-seattle-web-012720](https://github.com/learn-co-students/rack-dynamic-routes-lab-seattle-web-012720)
-  - 
-- [sinatra-hello-world-basics-dc-web-012720](https://github.com/learn-co-students/sinatra-hello-world-basics-dc-web-012720)
-  - 
-- [or-tools](https://github.com/ankane/or-tools)
-  - Operations research tools for Ruby
-- [sinatra-from-scratch-readme](https://github.com/learn-co-curriculum/sinatra-from-scratch-readme)
-  - 
-- [oo-meowing-cat-onl01-seng-ft-021020](https://github.com/learn-co-students/oo-meowing-cat-onl01-seng-ft-021020)
-  - 
-- [sinatra-mvc-file-structure-austin-web-012720](https://github.com/learn-co-students/sinatra-mvc-file-structure-austin-web-012720)
-  - 
+- [solidus](https://github.com/solidusio/solidus)
+  - 🛒Solidus, Rails eCommerce System
+- [devdocs](https://github.com/freeCodeCamp/devdocs)
+  - API Documentation Browser
+- [aws-sdk-ruby](https://github.com/aws/aws-sdk-ruby)
+  - The official AWS SDK for Ruby.
+- [fastlane](https://github.com/fastlane/fastlane)
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [homebrew-core](https://github.com/Homebrew/homebrew-core)
+  - 🍻 Default formulae for the missing package manager for macOS
+- [logstash](https://github.com/elastic/logstash)
+  - Logstash - transport and process your logs, events, or other data
+- [active_model_serializers](https://github.com/rails-api/active_model_serializers)
+  - ActiveModel::Serializer implementation and Rails hooks
+- [sidekiq](https://github.com/mperham/sidekiq)
+  - Simple, efficient background processing for Ruby
+- [carrierwave](https://github.com/carrierwaveuploader/carrierwave)
+  - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
+- [aasm](https://github.com/aasm/aasm)
+  - AASM - State machines for Ruby classes (plain Ruby, ActiveRecord, Mongoid)
+- [fast_jsonapi](https://github.com/Netflix/fast_jsonapi)
+  - A lightning fast JSON:API serializer for Ruby Objects.
+- [liquid](https://github.com/Shopify/liquid)
+  - Liquid markup language. Safe, customer facing template language for flexible web apps.
+- [videos-pt.br-tecnologia](https://github.com/carolcodes/videos-pt.br-tecnologia)
+  - Repositório de canais no Youtube BR sobre desenvolvimento

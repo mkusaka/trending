@@ -1,51 +1,51 @@
 # javascript
-- [1on1-questions](https://github.com/VGraupera/1on1-questions)
-  - Mega list of 1 on 1 meeting questions compiled from a variety to sources
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [leon](https://github.com/leon-ai/leon)
-  - 🧠 Leon is your open-source personal assistant.
+- [Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal)
+  - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
+- [hs-airdrop](https://github.com/handshake-org/hs-airdrop)
+  - Decentralized airdrop to open source developers
+- [kbone](https://github.com/wechat-miniprogram/kbone)
+  - Web 与小程序同构解决方案
+- [cra-template-redux](https://github.com/reduxjs/cra-template-redux)
+  - The official Redux+JS template for Create React App
+- [leetcode](https://github.com/azl397985856/leetcode)
+  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 - [opensource.guide](https://github.com/github/opensource.guide)
   - 📚 Community guides for open source creators
+- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+- [api-platform](https://github.com/api-platform/api-platform)
+  - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
+- [aos](https://github.com/michalsnik/aos)
+  - Animate on scroll library
+- [leon](https://github.com/leon-ai/leon)
+  - 🧠 Leon is your open-source personal assistant.
 - [playwright](https://github.com/microsoft/playwright)
   - Node library to automate Chromium, Firefox and WebKit with a single API
-- [atom](https://github.com/atom/atom)
-  - The hackable text editor
-- [gdb-frontend](https://github.com/rohanrhu/gdb-frontend)
-  - ☕ GDBFrontend is an easy, flexible and extensionable gui debugger.
-- [x-spreadsheet](https://github.com/myliang/x-spreadsheet)
-  - A web-based JavaScript（canvas） spreadsheet
-- [react-native-website](https://github.com/facebook/react-native-website)
-  - The site and docs for React Native
-- [gitexplorer](https://github.com/summitech/gitexplorer)
-  - Find the right git commands without digging through the web.
-- [js-docs](https://github.com/LeonardoCesca/js-docs)
-  - Este projeto foi desenvolvido para contribuir com o open-source. Se você quiser contribuir basta seguir o README
+- [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript)
+  - 30 days of JavaScript programming challenge is a sep by step guide to learn JavaScript programming language in 30 days
+- [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
+  - Microsoft Authentication Library (MSAL) for JS
+- [snapdrop](https://github.com/RobinLinus/snapdrop)
+  - A Progressive Web App for local file sharing
+- [d3](https://github.com/d3/d3)
+  - Bring data to life with SVG, Canvas and HTML. 📊📈🎉
+- [riot-web](https://github.com/vector-im/riot-web)
+  - A glossy Matrix collaboration client for the web.
+- [lerna](https://github.com/lerna/lerna)
+  - 🐉 A tool for managing JavaScript projects with multiple packages.
+- [nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager)
+  - Docker container for managing Nginx proxy hosts with a simple, powerful interface
+- [socket.io](https://github.com/socketio/socket.io)
+  - Realtime application framework (Node.JS server)
 - [v4](https://github.com/bchiang7/v4)
   - Fourth iteration of my personal website
-- [node](https://github.com/nodejs/node)
-  - Node.js JavaScript runtime ✨🐢🚀✨
-- [nw.js](https://github.com/nwjs/nw.js)
-  - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
-- [label-studio](https://github.com/heartexlabs/label-studio)
-  - Label Studio is a multi-type data labeling and annotation tool with standardized output format
-- [brackets](https://github.com/adobe/brackets)
-  - An open source code editor for the web, written in JavaScript, HTML and CSS.
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [mui-datatables](https://github.com/gregnb/mui-datatables)
   - Datatables for React using Material-UI - https://www.material-ui-datatables.com
-- [osu](https://github.com/111116/osu)
-  - web rhythm game http://osugame.online/
-- [create-react-app](https://github.com/facebook/create-react-app)
-  - Set up a modern web app by running one command.
-- [query-string](https://github.com/sindresorhus/query-string)
-  - Parse and stringify URL query strings
-- [mocha](https://github.com/mochajs/mocha)
-  - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
-- [redux-saga](https://github.com/redux-saga/redux-saga)
-  - An alternative side effect model for Redux apps
-- [joplin](https://github.com/laurent22/joplin)
-  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
-- [overreacted.io](https://github.com/gaearon/overreacted.io)
-  - Personal blog by Dan Abramov.
-- [mobx](https://github.com/mobxjs/mobx)
-  - Simple, scalable state management.
+- [react-router](https://github.com/ReactTraining/react-router)
+  - Declarative routing for React
+- [graphql-js](https://github.com/graphql/graphql-js)
+  - A reference implementation of GraphQL for JavaScript
+- [sequelize](https://github.com/sequelize/sequelize)
+  - An easy-to-use multi SQL dialect ORM for Node.js

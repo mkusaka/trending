@@ -1,51 +1,51 @@
 # general
-- [app-ideas](https://github.com/florinpop17/app-ideas) : 
-  - A Collection of application ideas which can be used to improve your coding skills.
-- [hacker-laws](https://github.com/dwmkerr/hacker-laws) : 
-  - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
+- [Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal) : JavaScript
+  - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
+- [wearable-microphone-jamming](https://github.com/y-x-c/wearable-microphone-jamming) : C++
+  - Repository for our paper Wearable Microphone Jamming
 - [computervision-recipes](https://github.com/microsoft/computervision-recipes) : Jupyter Notebook
   - Best Practices, code samples, and documentation for Computer Vision.
-- [1on1-questions](https://github.com/VGraupera/1on1-questions) : JavaScript
-  - Mega list of 1 on 1 meeting questions compiled from a variety to sources
-- [7days-golang](https://github.com/geektutu/7days-golang) : Go
-  - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, etc) 7天用Go动手写系列[从零实现]
+- [computer-vision-basics-in-microsoft-excel](https://github.com/amzn/computer-vision-basics-in-microsoft-excel) : 
+  - Computer Vision Basics in Microsoft Excel (using just formulas)
+- [Apollo-11](https://github.com/chrislgarry/Apollo-11) : Assembly
+  - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+- [hs-airdrop](https://github.com/handshake-org/hs-airdrop) : JavaScript
+  - Decentralized airdrop to open source developers
+- [app-ideas](https://github.com/florinpop17/app-ideas) : 
+  - A Collection of application ideas which can be used to improve your coding skills.
+- [materialize](https://github.com/MaterializeInc/materialize) : Rust
+  - The Streaming Data Warehouse
+- [amazon-sagemaker-examples](https://github.com/awslabs/amazon-sagemaker-examples) : Jupyter Notebook
+  - Example notebooks that show how to apply machine learning, deep learning and reinforcement learning in Amazon SageMaker
+- [updog](https://github.com/sc0tfree/updog) : Python
+  - Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use http basic auth.
 - [degoogle](https://github.com/tycrek/degoogle) : 
   - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
+- [scully](https://github.com/scullyio/scully) : TypeScript
+  - The Static Site Generator for Angular apps
+- [kbone](https://github.com/wechat-miniprogram/kbone) : JavaScript
+  - Web 与小程序同构解决方案
+- [cra-template-redux](https://github.com/reduxjs/cra-template-redux) : JavaScript
+  - The official Redux+JS template for Create React App
+- [RedTeamer](https://github.com/klionsec/RedTeamer) : 
+  - 红方人员作战执行手册
+- [leetcode](https://github.com/azl397985856/leetcode) : JavaScript
+  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+- [Awesome](https://github.com/Awesome-Windows/Awesome) : 
+  - 💻 An awesome & curated list of best applications and tools for Windows.
+- [AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs) : C#
+  - Documentation for ASP.NET Core
 - [mml-book.github.io](https://github.com/mml-book/mml-book.github.io) : Jupyter Notebook
   - Companion webpage to the book "Mathematics For Machine Learning"
-- [mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) : Jupyter Notebook
-  - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
-- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) : 
-  - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [DAIN](https://github.com/baowenbo/DAIN) : Python
-  - Depth-Aware Video Frame Interpolation (CVPR 2019)
-- [Python-100-Days](https://github.com/ZiniuLu/Python-100-Days) : Python
-  - 出处：https://github.com/jackfrued/Python-100-Days.git
-- [AspNetCore.Docs](https://github.com/aspnet/AspNetCore.Docs) : C#
-  - Documentation for ASP.NET Core
-- [react](https://github.com/facebook/react) : JavaScript
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [efcore](https://github.com/dotnet/efcore) : C#
-  - EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.
-- [ganhacks](https://github.com/soumith/ganhacks) : 
-  - starter from "How to Train a GAN?" at NIPS2016
-- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
-  - Course Files for Complete Python 3 Bootcamp Course on Udemy
-- [LaZagne](https://github.com/AlessandroZ/LaZagne) : Python
-  - Credentials recovery project
-- [aws-cdk](https://github.com/aws/aws-cdk) : TypeScript
-  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
-- [leon](https://github.com/leon-ai/leon) : JavaScript
-  - 🧠 Leon is your open-source personal assistant.
-- [odoo](https://github.com/odoo/odoo) : Python
-  - Odoo. Open Source Apps To Grow Your Business.
-- [gogs](https://github.com/gogs/gogs) : Go
-  - Gogs is a painless self-hosted Git service
-- [ApplicationInspector](https://github.com/microsoft/ApplicationInspector) : C#
-  - A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'what's in it' using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.
-- [airflow](https://github.com/apache/airflow) : Python
-  - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [datahub](https://github.com/linkedin/datahub) : TypeScript
-  - A Generalized Metadata Search & Discovery Tool
 - [opensource.guide](https://github.com/github/opensource.guide) : JavaScript
   - 📚 Community guides for open source creators
+- [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native) : TypeScript
+  - ⚛️📺Projects from the “Can it be done in React Native?” YouTube series
+- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) : 
+  - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) : JavaScript
+  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+- [7days-golang](https://github.com/geektutu/7days-golang) : Go
+  - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, etc) 7天用Go动手写系列[从零实现]
+- [h4cker](https://github.com/The-Art-of-Hacking/h4cker) : Rich Text Format
+  - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
