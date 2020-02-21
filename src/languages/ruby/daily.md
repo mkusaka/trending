@@ -1,51 +1,51 @@
 # ruby
-- [concurrent-ruby](https://github.com/ruby-concurrency/concurrent-ruby)
-  - Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
-- [mastodon](https://github.com/tootsuite/mastodon)
-  - Your self-hosted, globally interconnected microblogging community
-- [guides](https://github.com/thoughtbot/guides)
-  - A guide for programming in style.
-- [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
-  - A curated list of engineering blogs
-- [discourse](https://github.com/discourse/discourse)
-  - A platform for community discussion. Free, open, simple.
-- [capybara](https://github.com/teamcapybara/capybara)
-  - Acceptance test framework for web applications
-- [dev.to](https://github.com/thepracticaldev/dev.to)
-  - Where programmers share ideas and help each other grow
-- [homebrew-openjdk](https://github.com/AdoptOpenJDK/homebrew-openjdk)
-  - AdoptOpenJDK HomeBrew Tap
-- [rails](https://github.com/rails/rails)
-  - Ruby on Rails
-- [sonic-pi](https://github.com/samaaron/sonic-pi)
-  - The Live Coding Music Synth for Everyone
-- [homebrew-bundle](https://github.com/Homebrew/homebrew-bundle)
-  - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
+- [jekyll](https://github.com/jekyll/jekyll)
+  - 🌐 Jekyll is a blog-aware static site generator in Ruby
 - [choosealicense.com](https://github.com/github/choosealicense.com)
   - A site to provide non-judgmental guidance on choosing a license for your open source project
-- [solidus](https://github.com/solidusio/solidus)
-  - 🛒Solidus, Rails eCommerce System
+- [scientist](https://github.com/github/scientist)
+  - 🔬 A Ruby library for carefully refactoring critical paths.
+- [openproject](https://github.com/opf/openproject)
+  - OpenProject is the leading open source project management software.
+- [dev.to](https://github.com/thepracticaldev/dev.to)
+  - Where programmers share ideas and help each other grow
 - [devdocs](https://github.com/freeCodeCamp/devdocs)
   - API Documentation Browser
-- [aws-sdk-ruby](https://github.com/aws/aws-sdk-ruby)
-  - The official AWS SDK for Ruby.
-- [fastlane](https://github.com/fastlane/fastlane)
-  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [homebrew-core](https://github.com/Homebrew/homebrew-core)
-  - 🍻 Default formulae for the missing package manager for macOS
-- [logstash](https://github.com/elastic/logstash)
-  - Logstash - transport and process your logs, events, or other data
-- [active_model_serializers](https://github.com/rails-api/active_model_serializers)
-  - ActiveModel::Serializer implementation and Rails hooks
-- [sidekiq](https://github.com/mperham/sidekiq)
-  - Simple, efficient background processing for Ruby
-- [carrierwave](https://github.com/carrierwaveuploader/carrierwave)
-  - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
-- [aasm](https://github.com/aasm/aasm)
-  - AASM - State machines for Ruby classes (plain Ruby, ActiveRecord, Mongoid)
-- [fast_jsonapi](https://github.com/Netflix/fast_jsonapi)
-  - A lightning fast JSON:API serializer for Ruby Objects.
-- [liquid](https://github.com/Shopify/liquid)
-  - Liquid markup language. Safe, customer facing template language for flexible web apps.
-- [videos-pt.br-tecnologia](https://github.com/carolcodes/videos-pt.br-tecnologia)
-  - Repositório de canais no Youtube BR sobre desenvolvimento
+- [markup](https://github.com/github/markup)
+  - Determines which markup library to use to render a content file (e.g. README) on GitHub
+- [ferrum](https://github.com/route/ferrum)
+  - Headless Chrome Ruby API
+- [fake_api](https://github.com/igorkasyanchuk/fake_api)
+  - The fastest way to prototype API in your Rails application
+- [sinatra-nested-forms-nyc-web-012720](https://github.com/learn-co-students/sinatra-nested-forms-nyc-web-012720)
+  - 
+- [ruby-intro-to-hashes-lab-onl01-seng-pt-021020](https://github.com/learn-co-students/ruby-intro-to-hashes-lab-onl01-seng-pt-021020)
+  - 
+- [ruby-class-variables-and-class-methods-lab-onl01-seng-ft-021020](https://github.com/learn-co-students/ruby-class-variables-and-class-methods-lab-onl01-seng-ft-021020)
+  - 
+- [ruby-advanced-class-methods-lab-onl01-seng-ft-021020](https://github.com/learn-co-students/ruby-advanced-class-methods-lab-onl01-seng-ft-021020)
+  - 
+- [ruby-puppy-onl01-seng-ft-021020](https://github.com/learn-co-students/ruby-puppy-onl01-seng-ft-021020)
+  - 
+- [woodhouse](https://github.com/mboeh/woodhouse)
+  - An AMQP-based background worker system for Ruby.
+- [building-nested-hashes-onl01-seng-pt-021020](https://github.com/learn-co-students/building-nested-hashes-onl01-seng-pt-021020)
+  - 
+- [ruby-oo-complex-objects-putting-the-pieces-together-atlanta-web-021720](https://github.com/learn-co-students/ruby-oo-complex-objects-putting-the-pieces-together-atlanta-web-021720)
+  - 
+- [brakeman](https://github.com/presidentbeef/brakeman)
+  - A static analysis security vulnerability scanner for Ruby on Rails applications
+- [packager](https://github.com/luminosity-group/packager)
+  - Force.com asset packager
+- [simple-nesting-onl01-seng-pt-021020](https://github.com/learn-co-students/simple-nesting-onl01-seng-pt-021020)
+  - 
+- [key-for-min-value-onl01-seng-pt-021020](https://github.com/learn-co-students/key-for-min-value-onl01-seng-pt-021020)
+  - 
+- [ruby-oo-complex-objects-school-domain-atlanta-web-021720](https://github.com/learn-co-students/ruby-oo-complex-objects-school-domain-atlanta-web-021720)
+  - 
+- [ruby-oo-self-cash-register-lab-nyc04-seng-ft-021720](https://github.com/learn-co-students/ruby-oo-self-cash-register-lab-nyc04-seng-ft-021720)
+  - 
+- [midas](https://github.com/ankane/midas)
+  - Edge stream anomaly detection for Ruby
+- [modules-reading-onl01-seng-pt-012220](https://github.com/learn-co-students/modules-reading-onl01-seng-pt-012220)
+  - 

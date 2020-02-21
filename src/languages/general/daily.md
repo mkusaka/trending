@@ -1,51 +1,51 @@
 # general
-- [Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal) : JavaScript
-  - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
-- [wearable-microphone-jamming](https://github.com/y-x-c/wearable-microphone-jamming) : C++
-  - Repository for our paper Wearable Microphone Jamming
-- [computervision-recipes](https://github.com/microsoft/computervision-recipes) : Jupyter Notebook
-  - Best Practices, code samples, and documentation for Computer Vision.
-- [computer-vision-basics-in-microsoft-excel](https://github.com/amzn/computer-vision-basics-in-microsoft-excel) : 
-  - Computer Vision Basics in Microsoft Excel (using just formulas)
-- [Apollo-11](https://github.com/chrislgarry/Apollo-11) : Assembly
-  - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
-- [hs-airdrop](https://github.com/handshake-org/hs-airdrop) : JavaScript
-  - Decentralized airdrop to open source developers
-- [app-ideas](https://github.com/florinpop17/app-ideas) : 
-  - A Collection of application ideas which can be used to improve your coding skills.
-- [materialize](https://github.com/MaterializeInc/materialize) : Rust
-  - The Streaming Data Warehouse
-- [amazon-sagemaker-examples](https://github.com/awslabs/amazon-sagemaker-examples) : Jupyter Notebook
-  - Example notebooks that show how to apply machine learning, deep learning and reinforcement learning in Amazon SageMaker
-- [updog](https://github.com/sc0tfree/updog) : Python
-  - Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use http basic auth.
-- [degoogle](https://github.com/tycrek/degoogle) : 
-  - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
-- [scully](https://github.com/scullyio/scully) : TypeScript
-  - The Static Site Generator for Angular apps
-- [kbone](https://github.com/wechat-miniprogram/kbone) : JavaScript
-  - Web 与小程序同构解决方案
-- [cra-template-redux](https://github.com/reduxjs/cra-template-redux) : JavaScript
-  - The official Redux+JS template for Create React App
-- [RedTeamer](https://github.com/klionsec/RedTeamer) : 
-  - 红方人员作战执行手册
-- [leetcode](https://github.com/azl397985856/leetcode) : JavaScript
-  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
-- [Awesome](https://github.com/Awesome-Windows/Awesome) : 
-  - 💻 An awesome & curated list of best applications and tools for Windows.
-- [AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs) : C#
-  - Documentation for ASP.NET Core
-- [mml-book.github.io](https://github.com/mml-book/mml-book.github.io) : Jupyter Notebook
-  - Companion webpage to the book "Mathematics For Machine Learning"
-- [opensource.guide](https://github.com/github/opensource.guide) : JavaScript
-  - 📚 Community guides for open source creators
-- [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native) : TypeScript
-  - ⚛️📺Projects from the “Can it be done in React Native?” YouTube series
-- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) : 
-  - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) : JavaScript
-  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
-- [7days-golang](https://github.com/geektutu/7days-golang) : Go
-  - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, etc) 7天用Go动手写系列[从零实现]
+- [Malware-Analysis-Training](https://github.com/OpenRCE/Malware-Analysis-Training) : HTML
+  - Retired beginner/intermediate malware analysis training materials from @pedramamini and @erocarrera.
 - [h4cker](https://github.com/The-Art-of-Hacking/h4cker) : Rich Text Format
   - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
+- [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go) : Go
+  - 百度网盘客户端 - Go语言编写
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) : JavaScript
+  - ✅ The largest Node.js best practices list (January 2020)
+- [DAIN](https://github.com/baowenbo/DAIN) : Python
+  - Depth-Aware Video Frame Interpolation (CVPR 2019)
+- [computer-vision-basics-in-microsoft-excel](https://github.com/amzn/computer-vision-basics-in-microsoft-excel) : 
+  - Computer Vision Basics in Microsoft Excel (using just formulas)
+- [ClashForAndroid](https://github.com/Kr328/ClashForAndroid) : Kotlin
+  - A rule-based tunnel for Android.
+- [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) : Java
+  - To Be Top Javaer - Java工程师成神之路
+- [AutoDeleteFileOnPCWechat](https://github.com/blackboxo/AutoDeleteFileOnPCWechat) : Python
+  - 自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
+- [Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) : Shell
+  - Build OpenWrt using GitHub Actions | 使用 GitHub Actions 云编译 OpenWrt
+- [computervision-recipes](https://github.com/microsoft/computervision-recipes) : Jupyter Notebook
+  - Best Practices, code samples, and documentation for Computer Vision.
+- [unform](https://github.com/Rocketseat/unform) : TypeScript
+  - Easy peasy high scalable ReactJS & React Native forms! 🚀
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
+  - Roadmap to becoming a web developer in 2020
+- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) : Python
+  - Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) : 
+  - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+- [refined-github](https://github.com/sindresorhus/refined-github) : TypeScript
+  - Browser extension that simplifies the GitHub interface and adds useful features
+- [awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) : 
+  - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+- [Awesome](https://github.com/Awesome-Windows/Awesome) : 
+  - 💻 🎉 An awesome & curated list of best applications and tools for Windows.
+- [7days-golang](https://github.com/geektutu/7days-golang) : Go
+  - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, etc) 7天用Go动手写系列[从零实现]
+- [litemall](https://github.com/linlinjava/litemall) : Java
+  - 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
+- [cra-template-redux](https://github.com/reduxjs/cra-template-redux) : JavaScript
+  - The official Redux+JS template for Create React App
+- [tidytuesday](https://github.com/rfordatascience/tidytuesday) : R
+  - Official repo for the #tidytuesday project
+- [azure-docs](https://github.com/MicrosoftDocs/azure-docs) : PowerShell
+  - Open source documentation of Microsoft Azure
+- [face_recognition](https://github.com/ageitgey/face_recognition) : Python
+  - The world's simplest facial recognition api for Python and the command line
+- [Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal) : JavaScript
+  - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser

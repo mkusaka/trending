@@ -1,51 +1,51 @@
 # c++
-- [wearable-microphone-jamming](https://github.com/y-x-c/wearable-microphone-jamming)
-  - Repository for our paper Wearable Microphone Jamming
+- [serenity](https://github.com/SerenityOS/serenity)
+  - Serenity Operating System
 - [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
   - Image, GIF and Video enlarger/upscaler achieved with waifu2x-ncnn-vulkan, waifu2x-converter and Anime4K.
-- [DeepSpeech](https://github.com/mozilla/DeepSpeech)
-  - A TensorFlow implementation of Baidu's DeepSpeech architecture
-- [ndk-samples](https://github.com/android/ndk-samples)
-  - Android NDK samples with Android Studio
-- [opencv](https://github.com/opencv/opencv)
-  - Open Source Computer Vision Library
-- [srt](https://github.com/Haivision/srt)
-  - Secure, Reliable, Transport
-- [grpc](https://github.com/grpc/grpc)
-  - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-- [matplotlib-cpp](https://github.com/lava/matplotlib-cpp)
-  - Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib
-- [arrow](https://github.com/apache/arrow)
-  - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…
+- [IIS-Raid](https://github.com/0x09AL/IIS-Raid)
+  - A native backdoor module for Microsoft IIS (Internet Information Services)
+- [alibabacloud-AnalyticDB-python-demo-face-recognition](https://github.com/aliyun/alibabacloud-AnalyticDB-python-demo-face-recognition)
+  - alibabacloud-AnalyticDB-python-demo-face-recognition
+- [llvm-project](https://github.com/llvm/llvm-project)
+  - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
+- [wearable-microphone-jamming](https://github.com/y-x-c/wearable-microphone-jamming)
+  - Repository for our paper Wearable Microphone Jamming
+- [LibreCAD](https://github.com/LibreCAD/LibreCAD)
+  - LibreCAD is a cross-platform 2D CAD program written in C++11 using the Qt framework. It can read DXF and DWG files and can write DXF, PDF and SVG files. The user interface is highly customizable, and has dozens of translations.
 - [tensorflow](https://github.com/tensorflow/tensorflow)
   - An Open Source Machine Learning Framework for Everyone
-- [protobuf](https://github.com/protocolbuffers/protobuf)
-  - Protocol Buffers - Google's data interchange format
-- [kenlm](https://github.com/kpu/kenlm)
-  - KenLM: Faster and Smaller Language Model Queries
-- [carla](https://github.com/carla-simulator/carla)
-  - Open-source simulator for autonomous driving research.
-- [Firmware](https://github.com/PX4/Firmware)
-  - PX4 Autopilot Software
-- [ncnn](https://github.com/Tencent/ncnn)
-  - ncnn is a high-performance neural network inference framework optimized for the mobile platform
-- [flatbuffers](https://github.com/google/flatbuffers)
-  - FlatBuffers: Memory Efficient Serialization Library
-- [tesseract](https://github.com/tesseract-ocr/tesseract)
-  - Tesseract Open Source OCR Engine (main repository)
-- [mongo](https://github.com/mongodb/mongo)
-  - The MongoDB Database
-- [azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-  - AzerothCore - MMORPG Server. Based on MaNGOS -> TrinityCore -> SunwellCore
-- [ClickHouse](https://github.com/ClickHouse/ClickHouse)
-  - ClickHouse is a free analytics DBMS for big data
-- [anbox](https://github.com/anbox/anbox)
-  - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
-- [ardupilot](https://github.com/ArduPilot/ardupilot)
-  - ArduPlane, ArduCopter, ArduRover source
-- [wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf)
-  - Convert HTML to PDF using Webkit (QtWebKit)
-- [pybind11](https://github.com/pybind/pybind11)
-  - Seamless operability between C++11 and Python
-- [Catch2](https://github.com/catchorg/Catch2)
-  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [monero](https://github.com/monero-project/monero)
+  - Monero: the secure, private, untraceable cryptocurrency
+- [xournalpp](https://github.com/xournalpp/xournalpp)
+  - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
+- [uWebSockets](https://github.com/uNetworking/uWebSockets)
+  - Simple, secure & standards compliant web I/O for the most demanding of applications
+- [CNTK](https://github.com/microsoft/CNTK)
+  - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
+- [ArduinoJson](https://github.com/bblanchon/ArduinoJson)
+  - 📟 JSON library for Arduino and embedded C++. Simple and efficient.
+- [SeetaFace2](https://github.com/seetafaceengine/SeetaFace2)
+  - SeetaFace 2: open source, full stack face recognization toolkit.
+- [SGI-STL](https://github.com/steveLauwh/SGI-STL)
+  - 剖析 STL 是一种享受的过程！
+- [obs-websocket](https://github.com/Palakis/obs-websocket)
+  - WebSockets API for OBS Studio
+- [catboost](https://github.com/catboost/catboost)
+  - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
+- [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
+  - All Algorithms implemented in C++
+- [wav2letter](https://github.com/facebookresearch/wav2letter)
+  - Facebook AI Research's Automatic Speech Recognition Toolkit
+- [FreeCAD](https://github.com/FreeCAD/FreeCAD)
+  - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker
+- [serving](https://github.com/tensorflow/serving)
+  - A flexible, high-performance serving system for machine learning models
+- [milvus](https://github.com/milvus-io/milvus)
+  - Milvus -- the world's fastest vector search engine.
+- [AWS-JPL-OSR-Challenge](https://github.com/Christopheraburns/AWS-JPL-OSR-Challenge)
+  - Official repo of the AWS-JPL Open Source Rover challenge
+- [CodingInterviewChinese2](https://github.com/zhedahht/CodingInterviewChinese2)
+  - 《剑指Offer》第二版源代码
+- [bitcoin](https://github.com/bitcoin/bitcoin)
+  - Bitcoin Core integration/staging tree
