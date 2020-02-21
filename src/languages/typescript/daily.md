@@ -1,51 +1,51 @@
 # typescript
-- [scully](https://github.com/scullyio/scully)
-  - The Static Site Generator for Angular apps
-- [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native)
-  - ⚛️📺Projects from the “Can it be done in React Native?” YouTube series
-- [react-native-webview](https://github.com/react-native-community/react-native-webview)
-  - React Native Cross-Platform WebView
-- [aws-cdk](https://github.com/aws/aws-cdk)
-  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
-- [ant-design](https://github.com/ant-design/ant-design)
-  - 🌈 A UI Design Language and React UI library
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
 - [unform](https://github.com/Rocketseat/unform)
   - Easy peasy high scalable ReactJS & React Native forms! 🚀
-- [signature_pad](https://github.com/szimek/signature_pad)
-  - HTML5 canvas based smooth signature drawing
-- [blitz](https://github.com/blitz-js/blitz)
-  - ⚡️Framework for building monolithic, full-stack, serverless React apps with zero data-fetching and zero client-side state management
-- [model-viewer](https://github.com/google/model-viewer)
-  - Easily display interactive 3D models on the web and in AR!
-- [amplify-js](https://github.com/aws-amplify/amplify-js)
-  - A declarative JavaScript library for application development using cloud services.
-- [datahub](https://github.com/linkedin/datahub)
-  - A Generalized Metadata Search & Discovery Tool
-- [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
-  - Tasks for Azure Pipelines
-- [vuesion](https://github.com/vuesion/vuesion)
-  - The most complete boilerplate for production-ready PWAs. With focus on performance, development speed, and best practices
-- [electron-builder](https://github.com/electron-userland/electron-builder)
-  - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [code-server](https://github.com/cdr/code-server)
-  - Run VS Code on a remote server.
-- [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware)
-  - ⚡️ The one-liner node.js http-proxy middleware for connect, express and browser-sync
 - [refined-github](https://github.com/sindresorhus/refined-github)
   - Browser extension that simplifies the GitHub interface and adds useful features
+- [storybook](https://github.com/storybookjs/storybook)
+  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+- [ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap)
+  - Fast and reliable Bootstrap widgets in Angular (supports Ivy engine)
+- [squoosh](https://github.com/GoogleChromeLabs/squoosh)
+  - Make images smaller using best-in-class codecs, right in the browser.
+- [blitz](https://github.com/blitz-js/blitz)
+  - ⚡️Framework for building monolithic, full-stack, serverless React apps with zero data-fetching and zero client-side state management
+- [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native)
+  - ⚛️📺Projects from the “Can it be done in React Native?” YouTube series
+- [home-assistant-polymer](https://github.com/home-assistant/home-assistant-polymer)
+  - 🍭 Polymer frontend for Home Assistant
+- [react-intl](https://github.com/formatjs/react-intl)
+  - Internationalize React apps. This library provides React components and an API to format dates, numbers, and strings, including pluralization and handling translations.
+- [hyper](https://github.com/zeit/hyper)
+  - A terminal built on web technologies
+- [tsoa](https://github.com/lukeautry/tsoa)
+  - Build swagger-compliant REST APIs using TypeScript and Node
+- [deno](https://github.com/denoland/deno)
+  - A secure JavaScript and TypeScript runtime
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
   - The repository for high quality TypeScript type definitions.
-- [github-actions](https://github.com/GoogleCloudPlatform/github-actions)
-  - A collection of GitHub Actions for interfacing with Google Cloud Platform.
-- [reach-ui](https://github.com/reach/reach-ui)
-  - The Accessible Foundation for React Apps and Design Systems
-- [redoc](https://github.com/Redocly/redoc)
-  - 📘 OpenAPI/Swagger-generated API Reference Documentation
-- [nebular](https://github.com/akveo/nebular)
-  - 💥 Customizable Angular UI Library based on Eva Design System 🌚✨Dark Mode
-- [stencil](https://github.com/ionic-team/stencil)
-  - A Web Component compiler for building fast, reusable UI components and Progressive Web Apps 💎 Built by the Ionic Framework team
-- [commitlint](https://github.com/conventional-changelog/commitlint)
-  - 📓 Lint commit messages
+- [grafana](https://github.com/grafana/grafana)
+  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [ngx-toastr](https://github.com/scttcper/ngx-toastr)
+  - 🍞 Angular Toastr
+- [jest](https://github.com/facebook/jest)
+  - Delightful JavaScript Testing.
+- [tfjs-models](https://github.com/tensorflow/tfjs-models)
+  - Pretrained models for TensorFlow.js
+- [docz](https://github.com/doczjs/docz)
+  - ✍ It has never been so easy to document your things!
+- [takenote](https://github.com/taniarascia/takenote)
+  - 📝 A web-based note-taking app with GitHub sync and Markdown support. (WIP)
+- [Babylon.js](https://github.com/BabylonJS/Babylon.js)
+  - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
+- [scully](https://github.com/scullyio/scully)
+  - The Static Site Generator for Angular apps
+- [ag-grid](https://github.com/ag-grid/ag-grid)
+  - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
+- [cache](https://github.com/actions/cache)
+  - Cache dependencies and build outputs in GitHub Actions
+- [bulletproof-nodejs](https://github.com/santiq/bulletproof-nodejs)
+  - Implementation of a bulletproof node.js API 🛡️
+- [aws-cdk](https://github.com/aws/aws-cdk)
+  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
