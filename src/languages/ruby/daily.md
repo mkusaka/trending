@@ -1,51 +1,51 @@
 # ruby
-- [jekyll](https://github.com/jekyll/jekyll)
-  - 🌐 Jekyll is a blog-aware static site generator in Ruby
+- [linguist](https://github.com/github/linguist)
+  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
+  - The Cocoa Dependency Manager.
+- [rails](https://github.com/rails/rails)
+  - Ruby on Rails
+- [sonic-pi](https://github.com/samaaron/sonic-pi)
+  - The Live Coding Music Synth for Everyone
 - [choosealicense.com](https://github.com/github/choosealicense.com)
   - A site to provide non-judgmental guidance on choosing a license for your open source project
-- [scientist](https://github.com/github/scientist)
-  - 🔬 A Ruby library for carefully refactoring critical paths.
-- [openproject](https://github.com/opf/openproject)
-  - OpenProject is the leading open source project management software.
-- [dev.to](https://github.com/thepracticaldev/dev.to)
-  - Where programmers share ideas and help each other grow
-- [devdocs](https://github.com/freeCodeCamp/devdocs)
-  - API Documentation Browser
-- [markup](https://github.com/github/markup)
-  - Determines which markup library to use to render a content file (e.g. README) on GitHub
-- [ferrum](https://github.com/route/ferrum)
-  - Headless Chrome Ruby API
-- [fake_api](https://github.com/igorkasyanchuk/fake_api)
-  - The fastest way to prototype API in your Rails application
-- [sinatra-nested-forms-nyc-web-012720](https://github.com/learn-co-students/sinatra-nested-forms-nyc-web-012720)
+- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+- [sidekiq](https://github.com/mperham/sidekiq)
+  - Simple, efficient background processing for Ruby
+- [brew](https://github.com/Homebrew/brew)
+  - 🍺 The missing package manager for macOS (or Linux)
+- [Parsealot](https://github.com/irtefa/Parsealot)
+  - A Text file parser I wrote to curb my enthusiasm.
+- [airport_challenge](https://github.com/makersacademy/airport_challenge)
+  - Fly!
+- [rails-static-request-readme-austin-web-012720](https://github.com/learn-co-students/rails-static-request-readme-austin-web-012720)
   - 
-- [ruby-intro-to-hashes-lab-onl01-seng-pt-021020](https://github.com/learn-co-students/ruby-intro-to-hashes-lab-onl01-seng-pt-021020)
+- [classes-and-instances-lab-ruby-onl01-seng-pt-021020](https://github.com/learn-co-students/classes-and-instances-lab-ruby-onl01-seng-pt-021020)
   - 
-- [ruby-class-variables-and-class-methods-lab-onl01-seng-ft-021020](https://github.com/learn-co-students/ruby-class-variables-and-class-methods-lab-onl01-seng-ft-021020)
+- [instance-methods-lab-ruby-onl01-seng-pt-021020](https://github.com/learn-co-students/instance-methods-lab-ruby-onl01-seng-pt-021020)
   - 
-- [ruby-advanced-class-methods-lab-onl01-seng-ft-021020](https://github.com/learn-co-students/ruby-advanced-class-methods-lab-onl01-seng-ft-021020)
+- [order_up](https://github.com/turingschool-examples/order_up)
   - 
-- [ruby-puppy-onl01-seng-ft-021020](https://github.com/learn-co-students/ruby-puppy-onl01-seng-ft-021020)
+- [rails-dynamic-request-readme-nyc-web-012720](https://github.com/learn-co-students/rails-dynamic-request-readme-nyc-web-012720)
   - 
-- [woodhouse](https://github.com/mboeh/woodhouse)
-  - An AMQP-based background worker system for Ruby.
-- [building-nested-hashes-onl01-seng-pt-021020](https://github.com/learn-co-students/building-nested-hashes-onl01-seng-pt-021020)
+- [rails-restful-index-action-lab-nyc-web-012720](https://github.com/learn-co-students/rails-restful-index-action-lab-nyc-web-012720)
   - 
-- [ruby-oo-complex-objects-putting-the-pieces-together-atlanta-web-021720](https://github.com/learn-co-students/ruby-oo-complex-objects-putting-the-pieces-together-atlanta-web-021720)
+- [dynamic-orm-lab-onl01-seng-ft-012120](https://github.com/learn-co-students/dynamic-orm-lab-onl01-seng-ft-012120)
   - 
-- [brakeman](https://github.com/presidentbeef/brakeman)
-  - A static analysis security vulnerability scanner for Ruby on Rails applications
-- [packager](https://github.com/luminosity-group/packager)
-  - Force.com asset packager
-- [simple-nesting-onl01-seng-pt-021020](https://github.com/learn-co-students/simple-nesting-onl01-seng-pt-021020)
+- [oo-tic-tac-toe-onl01-seng-ft-021020](https://github.com/learn-co-students/oo-tic-tac-toe-onl01-seng-ft-021020)
   - 
-- [key-for-min-value-onl01-seng-pt-021020](https://github.com/learn-co-students/key-for-min-value-onl01-seng-pt-021020)
+- [oo-email-parser-onl01-seng-ft-021020](https://github.com/learn-co-students/oo-email-parser-onl01-seng-ft-021020)
   - 
-- [ruby-oo-complex-objects-school-domain-atlanta-web-021720](https://github.com/learn-co-students/ruby-oo-complex-objects-school-domain-atlanta-web-021720)
+- [rails-url-helpers-readme-nyc-web-012720](https://github.com/learn-co-students/rails-url-helpers-readme-nyc-web-012720)
   - 
-- [ruby-oo-self-cash-register-lab-nyc04-seng-ft-021720](https://github.com/learn-co-students/ruby-oo-self-cash-register-lab-nyc04-seng-ft-021720)
+- [blurhash](https://github.com/Gargron/blurhash)
+  - Encode an image as a small string that can be saved in the database, returned in API responses, and displayed as a blurred preview before the real image loads
+- [rails-dynamic-request-lab-nyc-web-012720](https://github.com/learn-co-students/rails-dynamic-request-lab-nyc-web-012720)
   - 
-- [midas](https://github.com/ankane/midas)
-  - Edge stream anomaly detection for Ruby
-- [modules-reading-onl01-seng-pt-012220](https://github.com/learn-co-students/modules-reading-onl01-seng-pt-012220)
+- [gitlabhq](https://github.com/gitlabhq/gitlabhq)
+  - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
+- [rails-hello-world-lab-nyc-web-012720](https://github.com/learn-co-students/rails-hello-world-lab-nyc-web-012720)
   - 
+- [rails_performance](https://github.com/igorkasyanchuk/rails_performance)
+  - Monitor performance of you Rails applications
