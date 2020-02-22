@@ -1,51 +1,51 @@
 # c++
-- [serenity](https://github.com/SerenityOS/serenity)
-  - Serenity Operating System
-- [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
-  - Image, GIF and Video enlarger/upscaler achieved with waifu2x-ncnn-vulkan, waifu2x-converter and Anime4K.
-- [IIS-Raid](https://github.com/0x09AL/IIS-Raid)
-  - A native backdoor module for Microsoft IIS (Internet Information Services)
-- [alibabacloud-AnalyticDB-python-demo-face-recognition](https://github.com/aliyun/alibabacloud-AnalyticDB-python-demo-face-recognition)
-  - alibabacloud-AnalyticDB-python-demo-face-recognition
-- [llvm-project](https://github.com/llvm/llvm-project)
-  - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
-- [wearable-microphone-jamming](https://github.com/y-x-c/wearable-microphone-jamming)
-  - Repository for our paper Wearable Microphone Jamming
-- [LibreCAD](https://github.com/LibreCAD/LibreCAD)
-  - LibreCAD is a cross-platform 2D CAD program written in C++11 using the Qt framework. It can read DXF and DWG files and can write DXF, PDF and SVG files. The user interface is highly customizable, and has dozens of translations.
+- [tdesktop](https://github.com/telegramdesktop/tdesktop)
+  - Telegram Desktop messaging app
+- [eos](https://github.com/EOSIO/eos)
+  - An open source smart contract platform
 - [tensorflow](https://github.com/tensorflow/tensorflow)
   - An Open Source Machine Learning Framework for Everyone
-- [monero](https://github.com/monero-project/monero)
-  - Monero: the secure, private, untraceable cryptocurrency
-- [xournalpp](https://github.com/xournalpp/xournalpp)
-  - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
-- [uWebSockets](https://github.com/uNetworking/uWebSockets)
-  - Simple, secure & standards compliant web I/O for the most demanding of applications
-- [CNTK](https://github.com/microsoft/CNTK)
-  - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
-- [ArduinoJson](https://github.com/bblanchon/ArduinoJson)
-  - 📟 JSON library for Arduino and embedded C++. Simple and efficient.
-- [SeetaFace2](https://github.com/seetafaceengine/SeetaFace2)
-  - SeetaFace 2: open source, full stack face recognization toolkit.
-- [SGI-STL](https://github.com/steveLauwh/SGI-STL)
-  - 剖析 STL 是一种享受的过程！
-- [obs-websocket](https://github.com/Palakis/obs-websocket)
-  - WebSockets API for OBS Studio
-- [catboost](https://github.com/catboost/catboost)
-  - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
-- [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
-  - All Algorithms implemented in C++
-- [wav2letter](https://github.com/facebookresearch/wav2letter)
-  - Facebook AI Research's Automatic Speech Recognition Toolkit
-- [FreeCAD](https://github.com/FreeCAD/FreeCAD)
-  - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker
-- [serving](https://github.com/tensorflow/serving)
-  - A flexible, high-performance serving system for machine learning models
-- [milvus](https://github.com/milvus-io/milvus)
-  - Milvus -- the world's fastest vector search engine.
-- [AWS-JPL-OSR-Challenge](https://github.com/Christopheraburns/AWS-JPL-OSR-Challenge)
-  - Official repo of the AWS-JPL Open Source Rover challenge
-- [CodingInterviewChinese2](https://github.com/zhedahht/CodingInterviewChinese2)
-  - 《剑指Offer》第二版源代码
-- [bitcoin](https://github.com/bitcoin/bitcoin)
-  - Bitcoin Core integration/staging tree
+- [duilib](https://github.com/duilib/duilib)
+  - 
+- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
+  - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+- [faiss](https://github.com/facebookresearch/faiss)
+  - A library for efficient similarity search and clustering of dense vectors.
+- [DirectX-Graphics-Samples](https://github.com/microsoft/DirectX-Graphics-Samples)
+  - This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows.
+- [protobuf](https://github.com/protocolbuffers/protobuf)
+  - Protocol Buffers - Google's data interchange format
+- [synergy-core](https://github.com/symless/synergy-core)
+  - Open source core of Synergy, the keyboard and mouse sharing tool
+- [folly](https://github.com/facebook/folly)
+  - An open-source C++ library developed and used at Facebook.
+- [singa](https://github.com/apache/singa)
+  - Mirror of Apache Singa
+- [xmr-stak](https://github.com/fireice-uk/xmr-stak)
+  - Free Monero RandomX Miner and unified CryptoNight miner
+- [xmrig](https://github.com/xmrig/xmrig)
+  - RandomX, CryptoNight and Argon2 CPU miner
+- [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
+  - Image, GIF and Video enlarger/upscaler achieved with waifu2x-ncnn-vulkan, waifu2x-converter and Anime4K.
+- [openage](https://github.com/SFTtech/openage)
+  - Free (as in freedom) open source clone of the Age of Empires II engine 🚀
+- [keepassxc](https://github.com/keepassxreboot/keepassxc)
+  - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+- [openscad](https://github.com/openscad/openscad)
+  - OpenSCAD - The Programmers Solid 3D CAD Modeller
+- [slambook](https://github.com/gaoxiang12/slambook)
+  - 
+- [PacVim](https://github.com/jmoon018/PacVim)
+  - 
+- [pdns](https://github.com/PowerDNS/pdns)
+  - PowerDNS
+- [WeChatRobot](https://github.com/TonyChen56/WeChatRobot)
+  - PC版微信机器人
+- [IIS-Raid](https://github.com/0x09AL/IIS-Raid)
+  - A native backdoor module for Microsoft IIS (Internet Information Services)
+- [bpftrace](https://github.com/iovisor/bpftrace)
+  - High-level tracing language for Linux eBPF
+- [SuperWeChatPC](https://github.com/anhkgg/SuperWeChatPC)
+  - 超级微信电脑客户端，支持多开、防消息撤销、语音消息备份...开放WeChatSDK
+- [Adlik](https://github.com/Adlik/Adlik)
+  - Adlik: Toolkit for Accelerating Deep Learning Inference

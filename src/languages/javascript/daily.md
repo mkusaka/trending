@@ -1,51 +1,51 @@
 # javascript
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
   - ✅ The largest Node.js best practices list (January 2020)
-- [cra-template-redux](https://github.com/reduxjs/cra-template-redux)
-  - The official Redux+JS template for Create React App
 - [Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal)
   - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
-- [audio-twitter](https://github.com/nemanjam/audio-twitter)
-  - Twitter clone with audio messages made with React, Apollo and MongoDB.
-- [react-table](https://github.com/tannerlinsley/react-table)
-  - ⚛️ Hooks for building fast and extendable tables and datagrids for React
-- [opencti](https://github.com/OpenCTI-Platform/opencti)
-  - Open Cyber Threat Intelligence Platform
-- [javascript](https://github.com/airbnb/javascript)
-  - JavaScript Style Guide
-- [leetcode](https://github.com/azl397985856/leetcode)
-  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
-- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
-  - Revive unavailable songs for Netease Cloud Music
-- [kbone](https://github.com/wechat-miniprogram/kbone)
-  - Web 与小程序同构解决方案
-- [dtale](https://github.com/man-group/dtale)
-  - Flask/React client for visualizing pandas data structures
-- [hs-airdrop](https://github.com/handshake-org/hs-airdrop)
-  - Decentralized airdrop to open source developers
-- [electron-vue-music](https://github.com/SmallRuralDog/electron-vue-music)
-  - 基于 electron-vue 开发的音乐播放器，界面模仿QQ音乐，技术栈electron-vue+vue+vuex+vue-router+element- UI。欢迎star
-- [HttpReports](https://github.com/SpringLeee/HttpReports)
-  - 使用HttpReports可以快速搭建.Net Core环境下统计,分析,图表,监控一体化的站点，并且支持多种数据库存储，适应.Net Core WebAPI,MVC，Web项目, 通过引用Nuget构建Dashboard面板，非常适合中小项目使用。
-- [taiko](https://github.com/getgauge/taiko)
-  - A node.js library for testing modern web applications
-- [docusaurus](https://github.com/facebook/docusaurus)
-  - Easy to maintain open source documentation websites.
-- [vue-form-making](https://github.com/GavinZhuLei/vue-form-making)
-  - A designer and generator of form base on Vue.js, make form development simple and efficient.（基于Vue的表单设计器，让表单开发简单而高效。）
+- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+  - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+- [html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
+  - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [realworld](https://github.com/gothinkster/realworld)
   - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
 - [react-blog-github](https://github.com/saadpasta/react-blog-github)
   - React + Github Issues 👉 Your Personal Blog 🔥
-- [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
-  -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [emotion](https://github.com/emotion-js/emotion)
-  - 👩‍🎤 CSS-in-JS library designed for high performance style composition
-- [ice](https://github.com/alibaba/ice)
-  - 🚀Simple and friendly front-end development system（飞冰，简单而友好的前端研发体系 ）https://ice.work/
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [dtale](https://github.com/man-group/dtale)
+  - Flask/React client for visualizing pandas data structures
+- [google-access-helper](https://github.com/haotian-wang/google-access-helper)
+  - 谷歌访问助手破解版
+- [javascript](https://github.com/airbnb/javascript)
+  - JavaScript Style Guide
+- [slate](https://github.com/ianstormtaylor/slate)
+  - A completely customizable framework for building rich text editors. (Currently in beta.)
+- [kasaya](https://github.com/syscolabs/kasaya)
+  - A "WYSIWYG" scripting language and runtime for browser automation
+- [alpine](https://github.com/alpinejs/alpine)
+  - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [showdoc](https://github.com/star7th/showdoc)
   - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+  - The https://www.freecodecamp.org open source codebase and curriculum. Learn to code for free together with millions of people.
+- [netlify-cms](https://github.com/netlify/netlify-cms)
+  - A CMS for Static Site Generators
+- [hs-airdrop](https://github.com/handshake-org/hs-airdrop)
+  - Decentralized airdrop to open source developers
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+  -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [next.js](https://github.com/zeit/next.js)
+  - The React Framework
+- [luban-h5](https://github.com/ly525/luban-h5)
+  - [WIP]en: web design tool || mobile page builder/editor || mini webflow for mobile page. zh: 类似易企秀的H5制作、建站工具、可视化搭建系统.
+- [trilium](https://github.com/zadam/trilium)
+  - Build your personal knowledge base with Trilium Notes
+- [sanity](https://github.com/sanity-io/sanity)
+  - The Sanity Studio – Collaborate in real-time on structured content
+- [grapesjs](https://github.com/artf/grapesjs)
+  - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
+- [react-starter-kit](https://github.com/kriasoft/react-starter-kit)
+  - React Starter Kit — isomorphic web app boilerplate (Node.js, Express, GraphQL, React.js, Babel, PostCSS, Webpack, Browsersync)
+- [BaiduyunSpider](https://github.com/k1995/BaiduyunSpider)
+  - 百度云网盘搜索引擎，包含爬虫 & 网站

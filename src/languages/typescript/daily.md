@@ -1,51 +1,51 @@
 # typescript
+- [sapper](https://github.com/sveltejs/sapper)
+  - The next small thing in web development, powered by Svelte
+- [react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide)
+  - The complete guide to static typing in "React & Redux" apps using TypeScript
+- [GitCracken](https://github.com/5cr1pt/GitCracken)
+  - Crack GitKraken
+- [vue-next](https://github.com/vuejs/vue-next)
+  - The next major version of Vue (WIP)
+- [angular](https://github.com/angular/angular)
+  - One framework. Mobile & desktop.
+- [react-stripe-js](https://github.com/stripe/react-stripe-js)
+  - React components for Stripe.js and Stripe Elements
+- [liandi](https://github.com/88250/liandi)
+  - 📕 一款桌面端笔记应用，支持 Windows、Mac 和 Linux。
+- [vscode](https://github.com/microsoft/vscode)
+  - Visual Studio Code
+- [excalidraw](https://github.com/excalidraw/excalidraw)
+  - Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
+- [coc.nvim](https://github.com/neoclide/coc.nvim)
+  - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [unform](https://github.com/Rocketseat/unform)
   - Easy peasy high scalable ReactJS & React Native forms! 🚀
-- [refined-github](https://github.com/sindresorhus/refined-github)
-  - Browser extension that simplifies the GitHub interface and adds useful features
-- [storybook](https://github.com/storybookjs/storybook)
-  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
-- [ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap)
-  - Fast and reliable Bootstrap widgets in Angular (supports Ivy engine)
-- [squoosh](https://github.com/GoogleChromeLabs/squoosh)
-  - Make images smaller using best-in-class codecs, right in the browser.
-- [blitz](https://github.com/blitz-js/blitz)
-  - ⚡️Framework for building monolithic, full-stack, serverless React apps with zero data-fetching and zero client-side state management
-- [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native)
-  - ⚛️📺Projects from the “Can it be done in React Native?” YouTube series
-- [home-assistant-polymer](https://github.com/home-assistant/home-assistant-polymer)
-  - 🍭 Polymer frontend for Home Assistant
-- [react-intl](https://github.com/formatjs/react-intl)
-  - Internationalize React apps. This library provides React components and an API to format dates, numbers, and strings, including pluralization and handling translations.
-- [hyper](https://github.com/zeit/hyper)
-  - A terminal built on web technologies
-- [tsoa](https://github.com/lukeautry/tsoa)
-  - Build swagger-compliant REST APIs using TypeScript and Node
-- [deno](https://github.com/denoland/deno)
-  - A secure JavaScript and TypeScript runtime
+- [ionicons](https://github.com/ionic-team/ionicons)
+  - The premium icon font for Ionic Framework and web apps everywhere
+- [n8n](https://github.com/n8n-io/n8n)
+  - Free and open node based Workflow Automation Tool. Easily automate tasks across different services.
+- [webpack-cli](https://github.com/webpack/webpack-cli)
+  - Webpack's Command Line Interface
+- [redux-toolkit](https://github.com/reduxjs/redux-toolkit)
+  - The official, opinionated, batteries-included toolset for efficient Redux development
+- [components](https://github.com/angular/components)
+  - Component infrastructure and Material Design components for Angular
+- [Tech-Interview-Cheat-Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
+  - Studying for a tech interview sucks. Here's an open source cheat sheet to help
+- [angularfire](https://github.com/angular/angularfire)
+  - The official Angular library for Firebase.
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
   - The repository for high quality TypeScript type definitions.
-- [grafana](https://github.com/grafana/grafana)
-  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [ngx-toastr](https://github.com/scttcper/ngx-toastr)
-  - 🍞 Angular Toastr
-- [jest](https://github.com/facebook/jest)
-  - Delightful JavaScript Testing.
-- [tfjs-models](https://github.com/tensorflow/tfjs-models)
-  - Pretrained models for TensorFlow.js
-- [docz](https://github.com/doczjs/docz)
-  - ✍ It has never been so easy to document your things!
-- [takenote](https://github.com/taniarascia/takenote)
-  - 📝 A web-based note-taking app with GitHub sync and Markdown support. (WIP)
-- [Babylon.js](https://github.com/BabylonJS/Babylon.js)
-  - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
-- [scully](https://github.com/scullyio/scully)
-  - The Static Site Generator for Angular apps
-- [ag-grid](https://github.com/ag-grid/ag-grid)
-  - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-- [cache](https://github.com/actions/cache)
-  - Cache dependencies and build outputs in GitHub Actions
-- [bulletproof-nodejs](https://github.com/santiq/bulletproof-nodejs)
-  - Implementation of a bulletproof node.js API 🛡️
-- [aws-cdk](https://github.com/aws/aws-cdk)
-  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+- [rxjs](https://github.com/ReactiveX/rxjs)
+  - A reactive programming library for JavaScript
+- [react-native-reanimated-bottom-sheet](https://github.com/osdnk/react-native-reanimated-bottom-sheet)
+  - Highly configurable bottom sheet component made with react-native-reanimated and react-native-gesture-handler
+- [utterances](https://github.com/utterance/utterances)
+  - 🔮 A lightweight comments widget built on GitHub issues
+- [refined-github](https://github.com/sindresorhus/refined-github)
+  - Browser extension that simplifies the GitHub interface and adds useful features
+- [now](https://github.com/zeit/now)
+  - The easiest way to deploy websites
+- [nest](https://github.com/nestjs/nest)
+  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀

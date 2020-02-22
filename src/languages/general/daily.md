@@ -1,51 +1,51 @@
 # general
 - [Malware-Analysis-Training](https://github.com/OpenRCE/Malware-Analysis-Training) : HTML
   - Retired beginner/intermediate malware analysis training materials from @pedramamini and @erocarrera.
-- [h4cker](https://github.com/The-Art-of-Hacking/h4cker) : Rich Text Format
-  - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
-- [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go) : Go
-  - 百度网盘客户端 - Go语言编写
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) : JavaScript
   - ✅ The largest Node.js best practices list (January 2020)
-- [DAIN](https://github.com/baowenbo/DAIN) : Python
-  - Depth-Aware Video Frame Interpolation (CVPR 2019)
-- [computer-vision-basics-in-microsoft-excel](https://github.com/amzn/computer-vision-basics-in-microsoft-excel) : 
-  - Computer Vision Basics in Microsoft Excel (using just formulas)
-- [ClashForAndroid](https://github.com/Kr328/ClashForAndroid) : Kotlin
-  - A rule-based tunnel for Android.
-- [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) : Java
-  - To Be Top Javaer - Java工程师成神之路
-- [AutoDeleteFileOnPCWechat](https://github.com/blackboxo/AutoDeleteFileOnPCWechat) : Python
-  - 自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
-- [Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) : Shell
-  - Build OpenWrt using GitHub Actions | 使用 GitHub Actions 云编译 OpenWrt
-- [computervision-recipes](https://github.com/microsoft/computervision-recipes) : Jupyter Notebook
-  - Best Practices, code samples, and documentation for Computer Vision.
-- [unform](https://github.com/Rocketseat/unform) : TypeScript
-  - Easy peasy high scalable ReactJS & React Native forms! 🚀
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
-  - Roadmap to becoming a web developer in 2020
-- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) : Python
-  - Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
-- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) : 
-  - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [refined-github](https://github.com/sindresorhus/refined-github) : TypeScript
-  - Browser extension that simplifies the GitHub interface and adds useful features
-- [awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) : 
-  - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+- [goxygen](https://github.com/Shpota/goxygen) : Go
+  - Generate a modern web project with Go, React and MongoDB in seconds.
 - [Awesome](https://github.com/Awesome-Windows/Awesome) : 
   - 💻 🎉 An awesome & curated list of best applications and tools for Windows.
-- [7days-golang](https://github.com/geektutu/7days-golang) : Go
-  - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, etc) 7天用Go动手写系列[从零实现]
-- [litemall](https://github.com/linlinjava/litemall) : Java
-  - 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
-- [cra-template-redux](https://github.com/reduxjs/cra-template-redux) : JavaScript
-  - The official Redux+JS template for Create React App
-- [tidytuesday](https://github.com/rfordatascience/tidytuesday) : R
-  - Official repo for the #tidytuesday project
-- [azure-docs](https://github.com/MicrosoftDocs/azure-docs) : PowerShell
-  - Open source documentation of Microsoft Azure
-- [face_recognition](https://github.com/ageitgey/face_recognition) : Python
-  - The world's simplest facial recognition api for Python and the command line
+- [blurhash](https://github.com/woltapp/blurhash) : C
+  - A very compact representation of a placeholder for an image.
+- [UTM](https://github.com/utmapp/UTM) : Objective-C
+  - Virtual machines for iOS
+- [posthog](https://github.com/PostHog/posthog) : Python
+  - 🦔 PostHog is developer-friendly, open-source product analytics.
+- [h4cker](https://github.com/The-Art-of-Hacking/h4cker) : Rich Text Format
+  - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
+- [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) : Python
+  - A list of awesome applications, software, tools and other materials for Linux distros.
+- [learnjavabug](https://github.com/threedr3am/learnjavabug) : Java
+  - Java安全相关的漏洞和技术demo，其中包括原生Java、Fastjson、Jackson、Hessian2以及XML反序列化漏洞利用和Dubbo（Hessian2反序列化）、Shiro（PaddingOracleCBC）等框架的exploits，并且还有Java Security Manager绕过、Dubbo-Hessian2安全加固、RMI、tomcat漏洞利用等等实践代码。
 - [Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal) : JavaScript
   - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
+- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) : JavaScript
+  - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+- [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) : JavaScript
+  - A professional front-end template for building fast, robust, and adaptable web apps or sites.
+- [realworld](https://github.com/gothinkster/realworld) : JavaScript
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [react-blog-github](https://github.com/saadpasta/react-blog-github) : JavaScript
+  - React + Github Issues 👉 Your Personal Blog 🔥
+- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) : Python
+  - Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
+- [material-components-android](https://github.com/material-components/material-components-android) : Java
+  - Modular and customizable Material Design UI components for Android
+- [dtale](https://github.com/man-group/dtale) : JavaScript
+  - Flask/React client for visualizing pandas data structures
+- [dm-haiku](https://github.com/deepmind/dm-haiku) : Python
+  - JAX-based neural network library
+- [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) : TeX
+  - The most cited deep learning papers
+- [mall](https://github.com/macrozheng/mall) : Java
+  - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+- [google-access-helper](https://github.com/haotian-wang/google-access-helper) : JavaScript
+  - 谷歌访问助手破解版
+- [javascript](https://github.com/airbnb/javascript) : JavaScript
+  - JavaScript Style Guide
+- [packages](https://github.com/flutter/packages) : Dart
+  - A collection of useful packages maintained by the Flutter team
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) : 
+  - A book series on JavaScript. @YDKJS on twitter.

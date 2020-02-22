@@ -1,51 +1,51 @@
 # rust
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
-- [prost](https://github.com/danburkert/prost)
-  - PROST! a Protocol Buffers implementation for the Rust Language
-- [parity-ethereum](https://github.com/paritytech/parity-ethereum)
-  - The fast, light, and robust EVM and WASM client.
-- [substrate](https://github.com/paritytech/substrate)
-  - Substrate: The platform for blockchain innovators
-- [talent-plan](https://github.com/pingcap/talent-plan)
-  - PingCAP training courses
-- [rusty_v8](https://github.com/denoland/rusty_v8)
-  - V8 javascript bindings for Rust
-- [firecracker](https://github.com/firecracker-microvm/firecracker)
-  - Secure and fast microVMs for serverless computing.
-- [vector](https://github.com/timberio/vector)
-  - Collect, transform, & route all observability data with one simple tool
-- [kibi](https://github.com/ilai-deutel/kibi)
-  - A text editor in ≤1024 lines of code, written in Rust
-- [materialize](https://github.com/MaterializeInc/materialize)
-  - The Streaming Data Warehouse
-- [nushell](https://github.com/nushell/nushell)
-  - A modern shell written in Rust
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [sled](https://github.com/spacejam/sled)
-  - the champagne of beta embedded databases
-- [topgrade](https://github.com/r-darwish/topgrade)
-  - Upgrade everything
-- [rage](https://github.com/str4d/rage)
-  - A simple, secure and modern encryption tool with small explicit keys, no config options, and UNIX-style composability.
-- [teloxide](https://github.com/teloxide/teloxide)
-  - 📮 An elegant Telegram bots framework for Rust
-- [vgtk](https://github.com/bodil/vgtk)
-  - A declarative desktop UI framework for Rust built on GTK and Gtk-rs
-- [ruffle](https://github.com/ruffle-rs/ruffle)
-  - A Flash Player emulator written in Rust
-- [rust-web-developer-roadmap](https://github.com/pepsighan/rust-web-developer-roadmap)
-  - Roadmap to becoming a Rust Web Developer in 2020
+- [panda-api](https://github.com/arlicle/panda-api)
+  - Panda api is a simple and powerful api docs design tool.
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
 - [tantivy](https://github.com/tantivy-search/tantivy)
   - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
-- [py-spy](https://github.com/benfred/py-spy)
-  - Sampling profiler for Python programs
-- [linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy)
-  - The world's best service mesh proxy. Written in Rust.
-- [awesome-static-analysis](https://github.com/mre/awesome-static-analysis)
-  - Static analysis tools for all programming languages
-- [neon](https://github.com/neon-bindings/neon)
-  - Rust bindings for writing safe and fast native Node.js modules.
-- [timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow)
-  - A modular implementation of timely dataflow in Rust
+- [book](https://github.com/rust-lang/book)
+  - The Rust Programming Language
+- [firecracker](https://github.com/firecracker-microvm/firecracker)
+  - Secure and fast microVMs for serverless computing.
+- [sled](https://github.com/spacejam/sled)
+  - the champagne of beta embedded databases
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [tide](https://github.com/http-rs/tide)
+  - Serve the web – HTTP server framework
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
+- [nushell](https://github.com/nushell/nushell)
+  - A modern shell written in Rust
+- [wasmer](https://github.com/wasmerio/wasmer)
+  - 🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten
+- [talent-plan](https://github.com/pingcap/talent-plan)
+  - PingCAP training courses
+- [prost](https://github.com/danburkert/prost)
+  - PROST! a Protocol Buffers implementation for the Rust Language
+- [conrod](https://github.com/PistonDevelopers/conrod)
+  - An easy-to-use, 2D GUI library written entirely in Rust.
+- [tauri](https://github.com/tauri-apps/tauri)
+  - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
+- [vgtk](https://github.com/bodil/vgtk)
+  - A declarative desktop UI framework for Rust built on GTK and Gtk-rs
+- [pyflow](https://github.com/David-OConnor/pyflow)
+  - An installation and dependency system for Python
+- [rust-web-developer-roadmap](https://github.com/pepsighan/rust-web-developer-roadmap)
+  - Roadmap to becoming a Rust Web Developer in 2020
+- [typed-html](https://github.com/bodil/typed-html)
+  - Type checked JSX for Rust
+- [rio](https://github.com/spacejam/rio)
+  - pure rust io_uring library, built on libc, thread & async friendly, misuse resistant
+- [blurhash-rust-wasm](https://github.com/fpapado/blurhash-rust-wasm)
+  - A Rust and WASM implementation of the blurhash algorithm
+- [rage](https://github.com/str4d/rage)
+  - A simple, secure and modern encryption tool with small explicit keys, no config options, and UNIX-style composability.
+- [graphcore](https://github.com/metamolecular/graphcore)
+  - A graph library for Rust.
+- [diesel](https://github.com/diesel-rs/diesel)
+  - A safe, extensible ORM and Query Builder for Rust
