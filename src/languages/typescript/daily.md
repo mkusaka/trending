@@ -1,51 +1,51 @@
 # typescript
 - [sapper](https://github.com/sveltejs/sapper)
   - The next small thing in web development, powered by Svelte
-- [react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide)
-  - The complete guide to static typing in "React & Redux" apps using TypeScript
-- [GitCracken](https://github.com/5cr1pt/GitCracken)
-  - Crack GitKraken
-- [vue-next](https://github.com/vuejs/vue-next)
-  - The next major version of Vue (WIP)
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
+- [react-visual-editor](https://github.com/anye931123/react-visual-editor)
+  - React可视化编辑
+- [naive_functional_programming](https://github.com/alohawav/naive_functional_programming)
+  - A naive approach to functional programming using TypeScript
+- [graphiql](https://github.com/graphql/graphiql)
+  - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [react-stripe-js](https://github.com/stripe/react-stripe-js)
   - React components for Stripe.js and Stripe Elements
-- [liandi](https://github.com/88250/liandi)
-  - 📕 一款桌面端笔记应用，支持 Windows、Mac 和 Linux。
+- [desktop](https://github.com/bitwarden/desktop)
+  - The desktop vault (Windows, macOS, & Linux).
+- [vue-next](https://github.com/vuejs/vue-next)
+  - The next major version of Vue (WIP)
+- [purgecss](https://github.com/FullHuman/purgecss)
+  - Remove unused CSS
+- [code-server](https://github.com/cdr/code-server)
+  - Run VS Code on a remote server.
 - [vscode](https://github.com/microsoft/vscode)
   - Visual Studio Code
-- [excalidraw](https://github.com/excalidraw/excalidraw)
-  - Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
-- [coc.nvim](https://github.com/neoclide/coc.nvim)
-  - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
-- [unform](https://github.com/Rocketseat/unform)
-  - Easy peasy high scalable ReactJS & React Native forms! 🚀
-- [ionicons](https://github.com/ionic-team/ionicons)
-  - The premium icon font for Ionic Framework and web apps everywhere
+- [angular-electron](https://github.com/maximegris/angular-electron)
+  - Ultra-fast bootstrapping with Angular and Electron (Typescript + SASS + Hot Reload) 🚤
+- [recorder](https://github.com/2fps/recorder)
+  - html5 js 浏览器 web端录音
 - [n8n](https://github.com/n8n-io/n8n)
   - Free and open node based Workflow Automation Tool. Easily automate tasks across different services.
-- [webpack-cli](https://github.com/webpack/webpack-cli)
-  - Webpack's Command Line Interface
-- [redux-toolkit](https://github.com/reduxjs/redux-toolkit)
-  - The official, opinionated, batteries-included toolset for efficient Redux development
-- [components](https://github.com/angular/components)
-  - Component infrastructure and Material Design components for Angular
-- [Tech-Interview-Cheat-Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
-  - Studying for a tech interview sucks. Here's an open source cheat sheet to help
-- [angularfire](https://github.com/angular/angularfire)
-  - The official Angular library for Firebase.
-- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-  - The repository for high quality TypeScript type definitions.
-- [rxjs](https://github.com/ReactiveX/rxjs)
-  - A reactive programming library for JavaScript
+- [angular-8-registration-login-example](https://github.com/cornflourblue/angular-8-registration-login-example)
+  - Angular 8 User Registration and Login Example
+- [ext-saladict](https://github.com/crimx/ext-saladict)
+  - Feature-rich inline translator.
+- [liandi](https://github.com/88250/liandi)
+  - 📕 一款桌面端笔记应用，支持 Windows、Mac 和 Linux。
+- [outline-server](https://github.com/Jigsaw-Code/outline-server)
+  - Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS and Linux.
+- [chrome](https://github.com/browserless/chrome)
+  - Chrome as a service in docker. Run on our cloud, or bring your own
+- [angular](https://github.com/angular/angular)
+  - One framework. Mobile & desktop.
+- [excalidraw](https://github.com/excalidraw/excalidraw)
+  - Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
 - [react-native-reanimated-bottom-sheet](https://github.com/osdnk/react-native-reanimated-bottom-sheet)
   - Highly configurable bottom sheet component made with react-native-reanimated and react-native-gesture-handler
-- [utterances](https://github.com/utterance/utterances)
-  - 🔮 A lightweight comments widget built on GitHub issues
-- [refined-github](https://github.com/sindresorhus/refined-github)
-  - Browser extension that simplifies the GitHub interface and adds useful features
-- [now](https://github.com/zeit/now)
-  - The easiest way to deploy websites
-- [nest](https://github.com/nestjs/nest)
-  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [simplenote-electron](https://github.com/Automattic/simplenote-electron)
+  - A Simplenote React app packaged via Electron for Windows and Linux
+- [cucumber-js](https://github.com/cucumber/cucumber-js)
+  - Cucumber for JavaScript
+- [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
+  - 💥 React Native UI Library based on Eva Design System 🌚✨Dark Mode
+- [webpack-cli](https://github.com/webpack/webpack-cli)
+  - Webpack's Command Line Interface

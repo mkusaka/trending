@@ -1,51 +1,51 @@
 # c++
+- [trojan](https://github.com/trojan-gfw/trojan)
+  - An unidentifiable mechanism that helps you bypass GFW.
+- [pytorch](https://github.com/pytorch/pytorch)
+  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [WaykiChain](https://github.com/WaykiChain/WaykiChain)
+  - Public Blockchain as a Decentralized Economy Infrastructure Service Platform
+- [BIGTREETECH-SKR-mini-E3](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3)
+  - BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.
 - [tdesktop](https://github.com/telegramdesktop/tdesktop)
   - Telegram Desktop messaging app
 - [eos](https://github.com/EOSIO/eos)
   - An open source smart contract platform
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [duilib](https://github.com/duilib/duilib)
-  - 
-- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
-  - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
-- [faiss](https://github.com/facebookresearch/faiss)
-  - A library for efficient similarity search and clustering of dense vectors.
-- [DirectX-Graphics-Samples](https://github.com/microsoft/DirectX-Graphics-Samples)
-  - This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows.
-- [protobuf](https://github.com/protocolbuffers/protobuf)
-  - Protocol Buffers - Google's data interchange format
-- [synergy-core](https://github.com/symless/synergy-core)
-  - Open source core of Synergy, the keyboard and mouse sharing tool
-- [folly](https://github.com/facebook/folly)
-  - An open-source C++ library developed and used at Facebook.
-- [singa](https://github.com/apache/singa)
-  - Mirror of Apache Singa
-- [xmr-stak](https://github.com/fireice-uk/xmr-stak)
-  - Free Monero RandomX Miner and unified CryptoNight miner
-- [xmrig](https://github.com/xmrig/xmrig)
-  - RandomX, CryptoNight and Argon2 CPU miner
-- [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
-  - Image, GIF and Video enlarger/upscaler achieved with waifu2x-ncnn-vulkan, waifu2x-converter and Anime4K.
-- [openage](https://github.com/SFTtech/openage)
-  - Free (as in freedom) open source clone of the Age of Empires II engine 🚀
+- [qBittorrent](https://github.com/qbittorrent/qBittorrent)
+  - qBittorrent BitTorrent client
+- [Tasmota](https://github.com/arendst/Tasmota)
+  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
+- [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
+  - Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs
+- [Marlin](https://github.com/MarlinFirmware/Marlin)
+  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
+- [LAVFilters](https://github.com/Nevcairiel/LAVFilters)
+  - LAV Filters - Open-Source DirectShow Media Splitter and Decoders
+- [mongo](https://github.com/mongodb/mongo)
+  - The MongoDB Database
+- [Proton](https://github.com/ValveSoftware/Proton)
+  - Compatibility tool for Steam Play based on Wine and additional components
+- [minetest](https://github.com/minetest/minetest)
+  - Minetest, an open source infinite-world block sandbox game engine with support for survival and crafting. Also see https://github.com/minetest/minetest_game
+- [vnpy](https://github.com/vnpy/vnpy)
+  - 基于Python的开源量化交易平台开发框架
+- [bullet3](https://github.com/bulletphysics/bullet3)
+  - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
+- [CodingInterviewChinese2](https://github.com/zhedahht/CodingInterviewChinese2)
+  - 《剑指Offer》第二版源代码
+- [caffe](https://github.com/BVLC/caffe)
+  - Caffe: a fast open framework for deep learning.
+- [PAT](https://github.com/liuchuo/PAT)
+  - 🍭 浙江大学PAT题解(C/C++/Java/Python) - 努力成为萌萌的程序媛～
+- [AppleIntelWifiAdapter](https://github.com/zxystd/AppleIntelWifiAdapter)
+  - 苹果IO80211Controller调用
+- [OpenVINO-Custom-Layers](https://github.com/david-drew/OpenVINO-Custom-Layers)
+  - Tutorial for Using Custom Layers with OpenVINO (Intel Deep Learning Toolkit)
 - [keepassxc](https://github.com/keepassxreboot/keepassxc)
   - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
-- [openscad](https://github.com/openscad/openscad)
-  - OpenSCAD - The Programmers Solid 3D CAD Modeller
-- [slambook](https://github.com/gaoxiang12/slambook)
-  - 
-- [PacVim](https://github.com/jmoon018/PacVim)
-  - 
-- [pdns](https://github.com/PowerDNS/pdns)
-  - PowerDNS
-- [WeChatRobot](https://github.com/TonyChen56/WeChatRobot)
-  - PC版微信机器人
-- [IIS-Raid](https://github.com/0x09AL/IIS-Raid)
-  - A native backdoor module for Microsoft IIS (Internet Information Services)
-- [bpftrace](https://github.com/iovisor/bpftrace)
-  - High-level tracing language for Linux eBPF
-- [SuperWeChatPC](https://github.com/anhkgg/SuperWeChatPC)
-  - 超级微信电脑客户端，支持多开、防消息撤销、语音消息备份...开放WeChatSDK
-- [Adlik](https://github.com/Adlik/Adlik)
-  - Adlik: Toolkit for Accelerating Deep Learning Inference
+- [td](https://github.com/tdlib/td)
+  - Cross-platform library for building Telegram clients
+- [Osiris](https://github.com/danielkrupinski/Osiris)
+  - Free open-source training software / cheat for Counter-Strike: Global Offensive, written in modern C++. GUI powered by imgui.
+- [Hazel](https://github.com/TheCherno/Hazel)
+  - Hazel Engine

@@ -1,51 +1,51 @@
 # ruby
-- [linguist](https://github.com/github/linguist)
-  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
-  - The Cocoa Dependency Manager.
-- [rails](https://github.com/rails/rails)
-  - Ruby on Rails
-- [sonic-pi](https://github.com/samaaron/sonic-pi)
-  - The Live Coding Music Synth for Everyone
-- [choosealicense.com](https://github.com/github/choosealicense.com)
-  - A site to provide non-judgmental guidance on choosing a license for your open source project
-- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-- [sidekiq](https://github.com/mperham/sidekiq)
-  - Simple, efficient background processing for Ruby
-- [brew](https://github.com/Homebrew/brew)
-  - 🍺 The missing package manager for macOS (or Linux)
-- [Parsealot](https://github.com/irtefa/Parsealot)
-  - A Text file parser I wrote to curb my enthusiasm.
-- [airport_challenge](https://github.com/makersacademy/airport_challenge)
-  - Fly!
-- [rails-static-request-readme-austin-web-012720](https://github.com/learn-co-students/rails-static-request-readme-austin-web-012720)
-  - 
-- [classes-and-instances-lab-ruby-onl01-seng-pt-021020](https://github.com/learn-co-students/classes-and-instances-lab-ruby-onl01-seng-pt-021020)
-  - 
-- [instance-methods-lab-ruby-onl01-seng-pt-021020](https://github.com/learn-co-students/instance-methods-lab-ruby-onl01-seng-pt-021020)
-  - 
-- [order_up](https://github.com/turingschool-examples/order_up)
-  - 
-- [rails-dynamic-request-readme-nyc-web-012720](https://github.com/learn-co-students/rails-dynamic-request-readme-nyc-web-012720)
-  - 
-- [rails-restful-index-action-lab-nyc-web-012720](https://github.com/learn-co-students/rails-restful-index-action-lab-nyc-web-012720)
-  - 
-- [dynamic-orm-lab-onl01-seng-ft-012120](https://github.com/learn-co-students/dynamic-orm-lab-onl01-seng-ft-012120)
-  - 
-- [oo-tic-tac-toe-onl01-seng-ft-021020](https://github.com/learn-co-students/oo-tic-tac-toe-onl01-seng-ft-021020)
-  - 
-- [oo-email-parser-onl01-seng-ft-021020](https://github.com/learn-co-students/oo-email-parser-onl01-seng-ft-021020)
-  - 
-- [rails-url-helpers-readme-nyc-web-012720](https://github.com/learn-co-students/rails-url-helpers-readme-nyc-web-012720)
-  - 
-- [blurhash](https://github.com/Gargron/blurhash)
-  - Encode an image as a small string that can be saved in the database, returned in API responses, and displayed as a blurred preview before the real image loads
-- [rails-dynamic-request-lab-nyc-web-012720](https://github.com/learn-co-students/rails-dynamic-request-lab-nyc-web-012720)
-  - 
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
+  - Metasploit Framework
 - [gitlabhq](https://github.com/gitlabhq/gitlabhq)
   - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
-- [rails-hello-world-lab-nyc-web-012720](https://github.com/learn-co-students/rails-hello-world-lab-nyc-web-012720)
+- [linguist](https://github.com/github/linguist)
+  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+- [explore](https://github.com/github/explore)
+  - Community-curated topic and collection pages on GitHub
+- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+- [wpscan](https://github.com/wpscanteam/wpscan)
+  - WPScan is a free, for non-commercial use, black box WordPress Vulnerability Scanner written for security professionals and blog maintainers to test the security of their WordPress websites.
+- [dotfiles](https://github.com/skwp/dotfiles)
+  - YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen
+- [sonic-pi](https://github.com/samaaron/sonic-pi)
+  - The Live Coding Music Synth for Everyone
+- [ruby-oo-class-variables-and-class-methods-lab-nyc-web-021720](https://github.com/learn-co-students/ruby-oo-class-variables-and-class-methods-lab-nyc-web-021720)
+  - 
+- [airport_challenge](https://github.com/makersacademy/airport_challenge)
+  - Fly!
+- [ruby-oo-class-variables-class-constants-nyc-web-021720](https://github.com/learn-co-students/ruby-oo-class-variables-class-constants-nyc-web-021720)
+  - 
+- [apples-and-holidays-online-web-sp-000](https://github.com/learn-co-students/apples-and-holidays-online-web-sp-000)
+  - 
+- [sinatra-dynamic-routes-lab-online-web-pt-110419](https://github.com/learn-co-students/sinatra-dynamic-routes-lab-online-web-pt-110419)
+  - 
+- [oo-tic-tac-toe-ruby-intro-000](https://github.com/learn-co-students/oo-tic-tac-toe-ruby-intro-000)
+  - 
+- [sinatra-view-and-controller-readme-walkthrough-online-web-pt-110419](https://github.com/learn-co-students/sinatra-view-and-controller-readme-walkthrough-online-web-pt-110419)
+  - 
+- [ruby-object-initialize-lab-ruby-intro-000](https://github.com/learn-co-students/ruby-object-initialize-lab-ruby-intro-000)
+  - 
+- [oo-barking-dog-ruby-intro-000](https://github.com/learn-co-students/oo-barking-dog-ruby-intro-000)
+  - 
+- [rails-url-helpers-lab-nyc-web-012720](https://github.com/learn-co-students/rails-url-helpers-lab-nyc-web-012720)
+  - 
+- [sinatra-forms-params-readme-walkthrough-online-web-pt-110419](https://github.com/learn-co-students/sinatra-forms-params-readme-walkthrough-online-web-pt-110419)
   - 
 - [rails_performance](https://github.com/igorkasyanchuk/rails_performance)
   - Monitor performance of you Rails applications
+- [ruby-oo-self-count-sentences-lab-nyc-web-021720](https://github.com/learn-co-students/ruby-oo-self-count-sentences-lab-nyc-web-021720)
+  - 
+- [array-methods-lab-online-web-sp-000](https://github.com/learn-co-students/array-methods-lab-online-web-sp-000)
+  - 
+- [ruby-instance-variables-lab-onl01-seng-pt-021020](https://github.com/learn-co-students/ruby-instance-variables-lab-onl01-seng-pt-021020)
+  - 
+- [basic-sinatra-forms-lab-online-web-pt-110419](https://github.com/learn-co-students/basic-sinatra-forms-lab-online-web-pt-110419)
+  - 
+- [ruby-intro-to-hashes-lab-onl01-seng-pt-021020](https://github.com/learn-co-students/ruby-intro-to-hashes-lab-onl01-seng-pt-021020)
+  - 

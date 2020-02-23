@@ -1,51 +1,51 @@
 # rust
-- [panda-api](https://github.com/arlicle/panda-api)
-  - Panda api is a simple and powerful api docs design tool.
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
-- [tantivy](https://github.com/tantivy-search/tantivy)
-  - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
-- [book](https://github.com/rust-lang/book)
-  - The Rust Programming Language
-- [firecracker](https://github.com/firecracker-microvm/firecracker)
-  - Secure and fast microVMs for serverless computing.
-- [sled](https://github.com/spacejam/sled)
-  - the champagne of beta embedded databases
 - [rust](https://github.com/rust-lang/rust)
   - Empowering everyone to build reliable and efficient software.
-- [tide](https://github.com/http-rs/tide)
-  - Serve the web – HTTP server framework
-- [substrate](https://github.com/paritytech/substrate)
-  - Substrate: The platform for blockchain innovators
-- [nushell](https://github.com/nushell/nushell)
-  - A modern shell written in Rust
-- [wasmer](https://github.com/wasmerio/wasmer)
-  - 🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten
-- [talent-plan](https://github.com/pingcap/talent-plan)
-  - PingCAP training courses
-- [prost](https://github.com/danburkert/prost)
-  - PROST! a Protocol Buffers implementation for the Rust Language
-- [conrod](https://github.com/PistonDevelopers/conrod)
-  - An easy-to-use, 2D GUI library written entirely in Rust.
 - [tauri](https://github.com/tauri-apps/tauri)
   - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
+- [awesome-static-analysis](https://github.com/mre/awesome-static-analysis)
+  - Static analysis tools for all programming languages
+- [panda-api](https://github.com/arlicle/panda-api)
+  - Panda api is a simple and powerful api docs design tool.
+- [rustlings](https://github.com/rust-lang/rustlings)
+  - Small exercises to get you used to reading and writing Rust code!
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [iced](https://github.com/hecrj/iced)
+  - A cross-platform GUI library for Rust, inspired by Elm
 - [vgtk](https://github.com/bodil/vgtk)
   - A declarative desktop UI framework for Rust built on GTK and Gtk-rs
+- [evcxr](https://github.com/google/evcxr)
+  - 
+- [996.ICU](https://github.com/996icu/996.ICU)
+  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [Rocket](https://github.com/SergioBenitez/Rocket)
+  - A web framework for Rust.
+- [xsv](https://github.com/BurntSushi/xsv)
+  - A fast CSV command line toolkit written in Rust.
+- [cargo](https://github.com/rust-lang/cargo)
+  - The Rust package manager
+- [sled](https://github.com/spacejam/sled)
+  - the champagne of beta embedded databases
+- [pangolin](https://github.com/dpeckett/pangolin)
+  - An enhanced Horizontal Pod Autoscaler for Kubernetes.
+- [near-linkdrop](https://github.com/nearprotocol/near-linkdrop)
+  - Contract to drop tokens via link
+- [exchange](https://github.com/connorwstein/exchange)
+  - 
+- [too-many-lists](https://github.com/rust-unofficial/too-many-lists)
+  - Learn Rust by writing Entirely Too Many linked lists
+- [crabquery](https://github.com/Gonzih/crabquery)
+  - JQuery for Crabs
+- [dua-cli](https://github.com/Byron/dua-cli)
+  - A tool to conveniently learn about the disk usage of directories, fast!
+- [servo](https://github.com/servo/servo)
+  - The Servo Browser Engine
 - [pyflow](https://github.com/David-OConnor/pyflow)
   - An installation and dependency system for Python
-- [rust-web-developer-roadmap](https://github.com/pepsighan/rust-web-developer-roadmap)
-  - Roadmap to becoming a Rust Web Developer in 2020
-- [typed-html](https://github.com/bodil/typed-html)
-  - Type checked JSX for Rust
-- [rio](https://github.com/spacejam/rio)
-  - pure rust io_uring library, built on libc, thread & async friendly, misuse resistant
-- [blurhash-rust-wasm](https://github.com/fpapado/blurhash-rust-wasm)
-  - A Rust and WASM implementation of the blurhash algorithm
-- [rage](https://github.com/str4d/rage)
-  - A simple, secure and modern encryption tool with small explicit keys, no config options, and UNIX-style composability.
 - [graphcore](https://github.com/metamolecular/graphcore)
   - A graph library for Rust.
-- [diesel](https://github.com/diesel-rs/diesel)
-  - A safe, extensible ORM and Query Builder for Rust
+- [ruma](https://github.com/ruma/ruma)
+  - A Matrix homeserver written in Rust.
+- [artichoke](https://github.com/artichoke/artichoke)
+  - 💎 Artichoke is a Ruby made with Rust

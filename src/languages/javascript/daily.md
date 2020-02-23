@@ -1,51 +1,51 @@
 # javascript
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
   - ✅ The largest Node.js best practices list (January 2020)
-- [Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal)
-  - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
-- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
-  - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-- [html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
-  - A professional front-end template for building fast, robust, and adaptable web apps or sites.
-- [realworld](https://github.com/gothinkster/realworld)
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [react-blog-github](https://github.com/saadpasta/react-blog-github)
-  - React + Github Issues 👉 Your Personal Blog 🔥
-- [dtale](https://github.com/man-group/dtale)
-  - Flask/React client for visualizing pandas data structures
 - [google-access-helper](https://github.com/haotian-wang/google-access-helper)
   - 谷歌访问助手破解版
+- [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
+  - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
 - [javascript](https://github.com/airbnb/javascript)
   - JavaScript Style Guide
-- [slate](https://github.com/ianstormtaylor/slate)
-  - A completely customizable framework for building rich text editors. (Currently in beta.)
-- [kasaya](https://github.com/syscolabs/kasaya)
-  - A "WYSIWYG" scripting language and runtime for browser automation
-- [alpine](https://github.com/alpinejs/alpine)
-  - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [showdoc](https://github.com/star7th/showdoc)
-  - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-  - The https://www.freecodecamp.org open source codebase and curriculum. Learn to code for free together with millions of people.
-- [netlify-cms](https://github.com/netlify/netlify-cms)
-  - A CMS for Static Site Generators
-- [hs-airdrop](https://github.com/handshake-org/hs-airdrop)
-  - Decentralized airdrop to open source developers
-- [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
-  -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+  - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
+  - Starter files, final projects and FAQ for my Complete JavaScript course
+- [pm2](https://github.com/Unitech/pm2)
+  - Node.js Production Process Manager with a built-in Load Balancer.
+- [realworld](https://github.com/gothinkster/realworld)
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
+  - Bypass Paywalls for Chrome
+- [OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook)
+  - 🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+  - ⭐️ Companies that don't have a broken hiring process
+- [react-blog-github](https://github.com/saadpasta/react-blog-github)
+  - React + Github Issues 👉 Your Personal Blog 🔥
+- [roadmap.sh](https://github.com/kamranahmedse/roadmap.sh)
+  - Community driven roadmaps, articles and resources for developers
+- [Learn-Vue-Source-Code](https://github.com/NLRX-WJC/Learn-Vue-Source-Code)
+  - 🔥 🔥逐行剖析Vue.js源码 在线阅读地址https://nlrx-wjc.github.io/Learn-Vue-Source-Code/
+- [Neat-URL](https://github.com/Smile4ever/Neat-URL)
+  - Neat URL cleans URLs, removing parameters such as Google Analytics' utm parameters.
+- [conference-app-in-a-box](https://github.com/dabit3/conference-app-in-a-box)
+  - Full stack & cross platform app customizable & themeable for any event or conference.
+- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
+  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 - [next.js](https://github.com/zeit/next.js)
   - The React Framework
-- [luban-h5](https://github.com/ly525/luban-h5)
-  - [WIP]en: web design tool || mobile page builder/editor || mini webflow for mobile page. zh: 类似易企秀的H5制作、建站工具、可视化搭建系统.
-- [trilium](https://github.com/zadam/trilium)
-  - Build your personal knowledge base with Trilium Notes
-- [sanity](https://github.com/sanity-io/sanity)
-  - The Sanity Studio – Collaborate in real-time on structured content
-- [grapesjs](https://github.com/artf/grapesjs)
-  - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
-- [react-starter-kit](https://github.com/kriasoft/react-starter-kit)
-  - React Starter Kit — isomorphic web app boilerplate (Node.js, Express, GraphQL, React.js, Babel, PostCSS, Webpack, Browsersync)
-- [BaiduyunSpider](https://github.com/k1995/BaiduyunSpider)
-  - 百度云网盘搜索引擎，包含爬虫 & 网站
+- [node](https://github.com/nodejs/node)
+  - Node.js JavaScript runtime ✨🐢🚀✨
+- [awesome-uses](https://github.com/wesbos/awesome-uses)
+  - A list of /uses pages detailing developer setups, gear, software and configs.
+- [mocha](https://github.com/mochajs/mocha)
+  - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
+- [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap)
+  - Roadmap to becoming a React developer in 2019
+- [hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia)
+  - 一个简洁优雅的hexo主题 A simple and elegant theme for hexo.
+- [country-json](https://github.com/samayo/country-json)
+  - A simple data of the world by country each in JSON format.
+- [swagger-bootstrap-ui](https://github.com/xiaoymin/swagger-bootstrap-ui)
+  - Swagger-bootstrap-ui is the Swagger front-end UI implementation, the purpose is to replace the Swagger default UI implementation Swagger-UI, make the document more friendly....

@@ -1,51 +1,51 @@
 # general
-- [Malware-Analysis-Training](https://github.com/OpenRCE/Malware-Analysis-Training) : HTML
-  - Retired beginner/intermediate malware analysis training materials from @pedramamini and @erocarrera.
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) : JavaScript
-  - ✅ The largest Node.js best practices list (January 2020)
-- [goxygen](https://github.com/Shpota/goxygen) : Go
-  - Generate a modern web project with Go, React and MongoDB in seconds.
-- [Awesome](https://github.com/Awesome-Windows/Awesome) : 
-  - 💻 🎉 An awesome & curated list of best applications and tools for Windows.
-- [blurhash](https://github.com/woltapp/blurhash) : C
-  - A very compact representation of a placeholder for an image.
 - [UTM](https://github.com/utmapp/UTM) : Objective-C
   - Virtual machines for iOS
-- [posthog](https://github.com/PostHog/posthog) : Python
-  - 🦔 PostHog is developer-friendly, open-source product analytics.
+- [pytudes](https://github.com/norvig/pytudes) : Jupyter Notebook
+  - Python programs to practice or demonstrate skills.
 - [h4cker](https://github.com/The-Art-of-Hacking/h4cker) : Rich Text Format
   - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
-- [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) : Python
-  - A list of awesome applications, software, tools and other materials for Linux distros.
-- [learnjavabug](https://github.com/threedr3am/learnjavabug) : Java
-  - Java安全相关的漏洞和技术demo，其中包括原生Java、Fastjson、Jackson、Hessian2以及XML反序列化漏洞利用和Dubbo（Hessian2反序列化）、Shiro（PaddingOracleCBC）等框架的exploits，并且还有Java Security Manager绕过、Dubbo-Hessian2安全加固、RMI、tomcat漏洞利用等等实践代码。
-- [Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal) : JavaScript
-  - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
-- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) : JavaScript
-  - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-- [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) : JavaScript
-  - A professional front-end template for building fast, robust, and adaptable web apps or sites.
-- [realworld](https://github.com/gothinkster/realworld) : JavaScript
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [react-blog-github](https://github.com/saadpasta/react-blog-github) : JavaScript
-  - React + Github Issues 👉 Your Personal Blog 🔥
-- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) : Python
-  - Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
-- [material-components-android](https://github.com/material-components/material-components-android) : Java
-  - Modular and customizable Material Design UI components for Android
-- [dtale](https://github.com/man-group/dtale) : JavaScript
-  - Flask/React client for visualizing pandas data structures
-- [dm-haiku](https://github.com/deepmind/dm-haiku) : Python
-  - JAX-based neural network library
-- [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) : TeX
-  - The most cited deep learning papers
-- [mall](https://github.com/macrozheng/mall) : Java
-  - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) : JavaScript
+  - ✅ The largest Node.js best practices list (January 2020)
+- [blurhash](https://github.com/woltapp/blurhash) : C
+  - A very compact representation of a placeholder for an image.
 - [google-access-helper](https://github.com/haotian-wang/google-access-helper) : JavaScript
   - 谷歌访问助手破解版
+- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) : Python
+  - Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
+- [goxygen](https://github.com/Shpota/goxygen) : Go
+  - Generate a modern web project with Go, React and MongoDB in seconds.
+- [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) : JavaScript
+  - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
+- [miaosha](https://github.com/qiurunze123/miaosha) : Java
+  - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
+- [centermask2](https://github.com/youngwanLEE/centermask2) : Python
+  - CenterMask2 on top of detectron2
+- [Trojan-Qt5](https://github.com/TheWanderingCoel/Trojan-Qt5) : C
+  - A cross-platform trojan GUI client based on Shadowsocks-qt
+- [darknet](https://github.com/pjreddie/darknet) : C
+  - Convolutional Neural Networks
+- [industry-machine-learning](https://github.com/firmai/industry-machine-learning) : 
+  - A curated list of applied machine learning and data science notebooks and libraries across different industries.
+- [you-get](https://github.com/soimort/you-get) : Python
+  - ⏬ Dumb downloader that scrapes the web
+- [ClashForAndroid](https://github.com/Kr328/ClashForAndroid) : Kotlin
+  - A rule-based tunnel for Android.
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl) : Python
+  - Command-line program to download videos from YouTube.com and other video sites
+- [Most-recommended-programming-books](https://github.com/daolf/Most-recommended-programming-books) : 
+  - The most recommended programming books of all-time.
+- [trojan](https://github.com/trojan-gfw/trojan) : C++
+  - An unidentifiable mechanism that helps you bypass GFW.
+- [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) : Java
+  - To Be Top Javaer - Java工程师成神之路
+- [openwrt](https://github.com/openwrt/openwrt) : C
+  - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org
 - [javascript](https://github.com/airbnb/javascript) : JavaScript
   - JavaScript Style Guide
-- [packages](https://github.com/flutter/packages) : Dart
-  - A collection of useful packages maintained by the Flutter team
-- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) : 
-  - A book series on JavaScript. @YDKJS on twitter.
+- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) : JavaScript
+  - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+- [flutter](https://github.com/flutter/flutter) : Dart
+  - Flutter makes it easy and fast to build beautiful mobile apps.
+- [Malware-Analysis-Training](https://github.com/OpenRCE/Malware-Analysis-Training) : HTML
+  - Retired beginner/intermediate malware analysis training materials from @pedramamini and @erocarrera.
