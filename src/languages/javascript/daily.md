@@ -1,51 +1,51 @@
 # javascript
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
   - ✅ The largest Node.js best practices list (January 2020)
-- [Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal)
-  - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
-- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
-  - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-- [html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
-  - A professional front-end template for building fast, robust, and adaptable web apps or sites.
-- [realworld](https://github.com/gothinkster/realworld)
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [react-blog-github](https://github.com/saadpasta/react-blog-github)
-  - React + Github Issues 👉 Your Personal Blog 🔥
-- [dtale](https://github.com/man-group/dtale)
-  - Flask/React client for visualizing pandas data structures
-- [google-access-helper](https://github.com/haotian-wang/google-access-helper)
-  - 谷歌访问助手破解版
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
+  - Starter files, final projects and FAQ for my Complete JavaScript course
 - [javascript](https://github.com/airbnb/javascript)
   - JavaScript Style Guide
-- [slate](https://github.com/ianstormtaylor/slate)
-  - A completely customizable framework for building rich text editors. (Currently in beta.)
-- [kasaya](https://github.com/syscolabs/kasaya)
-  - A "WYSIWYG" scripting language and runtime for browser automation
-- [alpine](https://github.com/alpinejs/alpine)
-  - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [showdoc](https://github.com/star7th/showdoc)
-  - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-  - The https://www.freecodecamp.org open source codebase and curriculum. Learn to code for free together with millions of people.
-- [netlify-cms](https://github.com/netlify/netlify-cms)
-  - A CMS for Static Site Generators
-- [hs-airdrop](https://github.com/handshake-org/hs-airdrop)
-  - Decentralized airdrop to open source developers
+- [Motrix](https://github.com/agalwood/Motrix)
+  - A full-featured download manager.
+- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
+  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+- [BrasilAPI](https://github.com/filipedeschamps/BrasilAPI)
+  - Vamos transformar o Brasil em uma API?
+- [fanqiang](https://github.com/bannedbook/fanqiang)
+  - 翻墙-科学上网
+- [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
+  - 中文独立博客列表
+- [expense-tracker-react](https://github.com/bradtraversy/expense-tracker-react)
+  - Simple expense tracker using React hooks & context
+- [dingtalk](https://github.com/nashaofu/dingtalk)
+  - 钉钉桌面版，基于electron和钉钉网页版开发，支持Windows、Linux和macOS
+- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+  - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
   -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [next.js](https://github.com/zeit/next.js)
-  - The React Framework
-- [luban-h5](https://github.com/ly525/luban-h5)
-  - [WIP]en: web design tool || mobile page builder/editor || mini webflow for mobile page. zh: 类似易企秀的H5制作、建站工具、可视化搭建系统.
-- [trilium](https://github.com/zadam/trilium)
-  - Build your personal knowledge base with Trilium Notes
-- [sanity](https://github.com/sanity-io/sanity)
-  - The Sanity Studio – Collaborate in real-time on structured content
-- [grapesjs](https://github.com/artf/grapesjs)
-  - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
-- [react-starter-kit](https://github.com/kriasoft/react-starter-kit)
-  - React Starter Kit — isomorphic web app boilerplate (Node.js, Express, GraphQL, React.js, Babel, PostCSS, Webpack, Browsersync)
-- [BaiduyunSpider](https://github.com/k1995/BaiduyunSpider)
-  - 百度云网盘搜索引擎，包含爬虫 & 网站
+- [udemy-docker-mastery](https://github.com/BretFisher/udemy-docker-mastery)
+  - Udemy Course to build, compose, deploy, and manage containers from local development to high-availability in the cloud
+- [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
+  - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
+- [uBlock](https://github.com/gorhill/uBlock)
+  - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+- [developerFolio](https://github.com/saadpasta/developerFolio)
+  - Software Developer Portfolio Template that help you showcase your work and skills as a software developer ⚡️
+- [realworld](https://github.com/gothinkster/realworld)
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [node](https://github.com/nodejs/node)
+  - Node.js JavaScript runtime ✨🐢🚀✨
+- [d3](https://github.com/d3/d3)
+  - Bring data to life with SVG, Canvas and HTML. 📊📈🎉
+- [learnVue](https://github.com/answershuto/learnVue)
+  - Vue.js 源码解析
+- [Spring-Cloud-Admin](https://github.com/wxiaoqi/Spring-Cloud-Admin)
+  - Cloud-Admin是国内首个基于Spring Cloud微服务化开发平台，具有统一授权、认证后台管理系统，其中包含具备用户管理、资源权限管理、网关API管理等多个模块，支持多业务系统并行开发，可以作为后端服务的开发脚手架。代码简洁，架构清晰，适合学习和直接项目中使用。核心技术采用Spring Boot2以及Spring Cloud Gateway相关核心组件，前端采用vue-element-admin组件。
+- [some-scripts](https://github.com/yyuueexxiinngg/some-scripts)
+  - Some random scripts
+- [browser-compat-data](https://github.com/mdn/browser-compat-data)
+  - This repository contains compatibility data for Web technologies as displayed on MDN
+- [node-red](https://github.com/node-red/node-red)
+  - Low-code programming for event-driven applications
+- [TaskConfig](https://github.com/sazs34/TaskConfig)
+  - all_in_one合并脚本，饿了么签到加翻牌，自定义天气，贴吧签到，以及smartjs

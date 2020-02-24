@@ -1,51 +1,51 @@
 # c++
-- [tdesktop](https://github.com/telegramdesktop/tdesktop)
-  - Telegram Desktop messaging app
-- [eos](https://github.com/EOSIO/eos)
-  - An open source smart contract platform
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [duilib](https://github.com/duilib/duilib)
+- [WaykiChain](https://github.com/WaykiChain/WaykiChain)
+  - Public Blockchain as a Decentralized Economy Infrastructure Service Platform
+- [Koppeling](https://github.com/monoxgas/Koppeling)
+  - Adaptive DLL hijacking / dynamic export forwarding
+- [opencv](https://github.com/opencv/opencv)
+  - Open Source Computer Vision Library
+- [Firmware](https://github.com/PX4/Firmware)
+  - PX4 Autopilot Software
+- [Tasmota](https://github.com/arendst/Tasmota)
+  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
+- [Marlin](https://github.com/MarlinFirmware/Marlin)
+  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
+- [trojan](https://github.com/trojan-gfw/trojan)
+  - An unidentifiable mechanism that helps you bypass GFW.
+- [Disease_propagation](https://github.com/angeluriot/Disease_propagation)
+  - Simulation de propagation de maladie.
+- [Algo_Ds_Notes](https://github.com/jainaman224/Algo_Ds_Notes)
+  - It is a repository that is a collection of algorithms and data structures with implementation in various languages.
+- [STL](https://github.com/microsoft/STL)
+  - MSVC's implementation of the C++ Standard Library.
+- [GDevelop](https://github.com/4ian/GDevelop)
+  - 🎮 GDevelop is an open-source, cross-platform game engine designed to be used by everyone.
+- [Hazel](https://github.com/TheCherno/Hazel)
+  - Hazel Engine
+- [notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)
+  - Notepad++ official repository
+- [navicat-keygen](https://github.com/kervin521/navicat-keygen)
   - 
-- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
-  - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
-- [faiss](https://github.com/facebookresearch/faiss)
-  - A library for efficient similarity search and clustering of dense vectors.
-- [DirectX-Graphics-Samples](https://github.com/microsoft/DirectX-Graphics-Samples)
-  - This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows.
-- [protobuf](https://github.com/protocolbuffers/protobuf)
-  - Protocol Buffers - Google's data interchange format
-- [synergy-core](https://github.com/symless/synergy-core)
-  - Open source core of Synergy, the keyboard and mouse sharing tool
-- [folly](https://github.com/facebook/folly)
-  - An open-source C++ library developed and used at Facebook.
-- [singa](https://github.com/apache/singa)
-  - Mirror of Apache Singa
-- [xmr-stak](https://github.com/fireice-uk/xmr-stak)
-  - Free Monero RandomX Miner and unified CryptoNight miner
-- [xmrig](https://github.com/xmrig/xmrig)
-  - RandomX, CryptoNight and Argon2 CPU miner
-- [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
-  - Image, GIF and Video enlarger/upscaler achieved with waifu2x-ncnn-vulkan, waifu2x-converter and Anime4K.
-- [openage](https://github.com/SFTtech/openage)
-  - Free (as in freedom) open source clone of the Age of Empires II engine 🚀
-- [keepassxc](https://github.com/keepassxreboot/keepassxc)
-  - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
-- [openscad](https://github.com/openscad/openscad)
-  - OpenSCAD - The Programmers Solid 3D CAD Modeller
-- [slambook](https://github.com/gaoxiang12/slambook)
-  - 
-- [PacVim](https://github.com/jmoon018/PacVim)
-  - 
-- [pdns](https://github.com/PowerDNS/pdns)
-  - PowerDNS
-- [WeChatRobot](https://github.com/TonyChen56/WeChatRobot)
-  - PC版微信机器人
-- [IIS-Raid](https://github.com/0x09AL/IIS-Raid)
-  - A native backdoor module for Microsoft IIS (Internet Information Services)
-- [bpftrace](https://github.com/iovisor/bpftrace)
-  - High-level tracing language for Linux eBPF
-- [SuperWeChatPC](https://github.com/anhkgg/SuperWeChatPC)
-  - 超级微信电脑客户端，支持多开、防消息撤销、语音消息备份...开放WeChatSDK
-- [Adlik](https://github.com/Adlik/Adlik)
-  - Adlik: Toolkit for Accelerating Deep Learning Inference
+- [godot](https://github.com/godotengine/godot)
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
+  - Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs
+- [aoapc-bac2nd](https://github.com/aoapc-book/aoapc-bac2nd)
+  - Source codes for book <<<BeginningAlgorithmContests>> Second edition
+- [FreeCAD](https://github.com/FreeCAD/FreeCAD)
+  - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker
+- [PAT](https://github.com/liuchuo/PAT)
+  - 🍭 浙江大学PAT题解(C/C++/Java/Python) - 努力成为萌萌的程序媛～
+- [ppsspp](https://github.com/hrydgard/ppsspp)
+  - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or in #ppsspp on freenode (IRC) or just send pull requests / issues. For discussion use the forums on ppsspp.org.
+- [open-builder](https://github.com/Hopson97/open-builder)
+  - Open "Minecraft-like" game with multiplayer support and Lua scripting support for the both client and server
+- [MyTinySTL](https://github.com/Alinshans/MyTinySTL)
+  - Achieve a tiny STL in C++11
+- [Play-Leetcode](https://github.com/liuyubobobo/Play-Leetcode)
+  - My Solutions to Leetcode problems. All solutions support C++ language, some support Java and Python. Multiple solutions will be given by most problems. Enjoy:) 我的Leetcode解答。所有的问题都支持C++语言，一部分问题支持Java语言。近乎所有问题都会提供多个算法解决。大家加油！：）
+- [vnote](https://github.com/tamlok/vnote)
+  - A note-taking application that knows programmers and Markdown better.
+- [arrow](https://github.com/apache/arrow)
+  - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…

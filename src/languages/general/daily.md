@@ -1,51 +1,51 @@
 # general
-- [Malware-Analysis-Training](https://github.com/OpenRCE/Malware-Analysis-Training) : HTML
-  - Retired beginner/intermediate malware analysis training materials from @pedramamini and @erocarrera.
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) : JavaScript
-  - ✅ The largest Node.js best practices list (January 2020)
-- [goxygen](https://github.com/Shpota/goxygen) : Go
-  - Generate a modern web project with Go, React and MongoDB in seconds.
-- [Awesome](https://github.com/Awesome-Windows/Awesome) : 
-  - 💻 🎉 An awesome & curated list of best applications and tools for Windows.
-- [blurhash](https://github.com/woltapp/blurhash) : C
-  - A very compact representation of a placeholder for an image.
+- [WaykiChain](https://github.com/WaykiChain/WaykiChain) : C++
+  - Public Blockchain as a Decentralized Economy Infrastructure Service Platform
+- [Waking-Up](https://github.com/wolverinn/Waking-Up) : 
+  - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击面试；可用于模拟面试、面试前复习、短期内快速备战面试...
+- [h4cker](https://github.com/The-Art-of-Hacking/h4cker) : Python
+  - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
+- [pytudes](https://github.com/norvig/pytudes) : Jupyter Notebook
+  - Python programs to practice or demonstrate skills.
+- [miaosha](https://github.com/qiurunze123/miaosha) : Java
+  - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
 - [UTM](https://github.com/utmapp/UTM) : Objective-C
   - Virtual machines for iOS
-- [posthog](https://github.com/PostHog/posthog) : Python
-  - 🦔 PostHog is developer-friendly, open-source product analytics.
-- [h4cker](https://github.com/The-Art-of-Hacking/h4cker) : Rich Text Format
-  - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
-- [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) : Python
-  - A list of awesome applications, software, tools and other materials for Linux distros.
-- [learnjavabug](https://github.com/threedr3am/learnjavabug) : Java
-  - Java安全相关的漏洞和技术demo，其中包括原生Java、Fastjson、Jackson、Hessian2以及XML反序列化漏洞利用和Dubbo（Hessian2反序列化）、Shiro（PaddingOracleCBC）等框架的exploits，并且还有Java Security Manager绕过、Dubbo-Hessian2安全加固、RMI、tomcat漏洞利用等等实践代码。
-- [Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal) : JavaScript
-  - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
-- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) : JavaScript
-  - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-- [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) : JavaScript
-  - A professional front-end template for building fast, robust, and adaptable web apps or sites.
-- [realworld](https://github.com/gothinkster/realworld) : JavaScript
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [react-blog-github](https://github.com/saadpasta/react-blog-github) : JavaScript
-  - React + Github Issues 👉 Your Personal Blog 🔥
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) : Python
   - Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
-- [material-components-android](https://github.com/material-components/material-components-android) : Java
-  - Modular and customizable Material Design UI components for Android
-- [dtale](https://github.com/man-group/dtale) : JavaScript
-  - Flask/React client for visualizing pandas data structures
-- [dm-haiku](https://github.com/deepmind/dm-haiku) : Python
-  - JAX-based neural network library
-- [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) : TeX
-  - The most cited deep learning papers
-- [mall](https://github.com/macrozheng/mall) : Java
-  - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
-- [google-access-helper](https://github.com/haotian-wang/google-access-helper) : JavaScript
-  - 谷歌访问助手破解版
-- [javascript](https://github.com/airbnb/javascript) : JavaScript
-  - JavaScript Style Guide
-- [packages](https://github.com/flutter/packages) : Dart
-  - A collection of useful packages maintained by the Flutter team
-- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) : 
-  - A book series on JavaScript. @YDKJS on twitter.
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) : JavaScript
+  - ✅ The largest Node.js best practices list (January 2020)
+- [Koppeling](https://github.com/monoxgas/Koppeling) : C++
+  - Adaptive DLL hijacking / dynamic export forwarding
+- [Trojan-Qt5](https://github.com/TheWanderingCoel/Trojan-Qt5) : C
+  - A cross-platform trojan GUI client based on Shadowsocks-qt
+- [glitch-this](https://github.com/TotallyNotChase/glitch-this) : Python
+  - 📷 Glitchify static images to glitched images and GIFs!
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl) : Python
+  - Command-line program to download videos from YouTube.com and other video sites
+- [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) : Java
+  - To Be Top Javaer - Java工程师成神之路
+- [SpaceVim](https://github.com/SpaceVim/SpaceVim) : Vim script
+  - A community-driven modular vim distribution - The ultimate vim configuration
+- [trfl](https://github.com/deepmind/trfl) : Python
+  - TensorFlow Reinforcement Learning
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [architect-awesome](https://github.com/xingshaocheng/architect-awesome) : 
+  - 后端架构师技术图谱
+- [flutter](https://github.com/flutter/flutter) : Dart
+  - Flutter makes it easy and fast to build beautiful mobile apps.
+- [react-visual-editor](https://github.com/anye931123/react-visual-editor) : TypeScript
+  - React可视化编辑
+- [GSOC2020](https://github.com/mozilla/GSOC2020) : 
+  - Mozilla and GSOC 2020
+- [industry-machine-learning](https://github.com/firmai/industry-machine-learning) : 
+  - A curated list of applied machine learning and data science notebooks and libraries across different industries.
+- [goxygen](https://github.com/Shpota/goxygen) : Go
+  - 👩🏻‍💻 Generate a modern web project with Go, React and MongoDB in seconds 🚀
+- [JavaGuide](https://github.com/Snailclimb/JavaGuide) : Java
+  - 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+- [fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) : Java
+  - 🚀 fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course) : JavaScript
+  - Starter files, final projects and FAQ for my Complete JavaScript course
