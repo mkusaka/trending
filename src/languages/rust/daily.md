@@ -1,51 +1,51 @@
 # rust
-- [panda-api](https://github.com/arlicle/panda-api)
-  - Panda api is a simple and powerful api docs design tool.
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
-- [tantivy](https://github.com/tantivy-search/tantivy)
-  - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
-- [book](https://github.com/rust-lang/book)
-  - The Rust Programming Language
-- [firecracker](https://github.com/firecracker-microvm/firecracker)
-  - Secure and fast microVMs for serverless computing.
-- [sled](https://github.com/spacejam/sled)
-  - the champagne of beta embedded databases
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [tide](https://github.com/http-rs/tide)
-  - Serve the web – HTTP server framework
-- [substrate](https://github.com/paritytech/substrate)
-  - Substrate: The platform for blockchain innovators
+- [tui-rs](https://github.com/fdehau/tui-rs)
+  - Build terminal user interfaces and dashboards using Rust
+- [Rocket](https://github.com/SergioBenitez/Rocket)
+  - A web framework for Rust.
+- [starship](https://github.com/starship/starship)
+  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
+  - The Mullvad VPN client app for desktop and mobile
 - [nushell](https://github.com/nushell/nushell)
   - A modern shell written in Rust
-- [wasmer](https://github.com/wasmerio/wasmer)
-  - 🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten
-- [talent-plan](https://github.com/pingcap/talent-plan)
-  - PingCAP training courses
-- [prost](https://github.com/danburkert/prost)
-  - PROST! a Protocol Buffers implementation for the Rust Language
-- [conrod](https://github.com/PistonDevelopers/conrod)
-  - An easy-to-use, 2D GUI library written entirely in Rust.
-- [tauri](https://github.com/tauri-apps/tauri)
-  - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
 - [yew](https://github.com/yewstack/yew)
   - Rust / Wasm framework for building client web apps
-- [vgtk](https://github.com/bodil/vgtk)
-  - A declarative desktop UI framework for Rust built on GTK and Gtk-rs
-- [pyflow](https://github.com/David-OConnor/pyflow)
-  - An installation and dependency system for Python
-- [rust-web-developer-roadmap](https://github.com/pepsighan/rust-web-developer-roadmap)
-  - Roadmap to becoming a Rust Web Developer in 2020
-- [typed-html](https://github.com/bodil/typed-html)
-  - Type checked JSX for Rust
-- [rio](https://github.com/spacejam/rio)
-  - pure rust io_uring library, built on libc, thread & async friendly, misuse resistant
-- [blurhash-rust-wasm](https://github.com/fpapado/blurhash-rust-wasm)
-  - A Rust and WASM implementation of the blurhash algorithm
-- [rage](https://github.com/str4d/rage)
-  - A simple, secure and modern encryption tool with small explicit keys, no config options, and UNIX-style composability.
-- [graphcore](https://github.com/metamolecular/graphcore)
-  - A graph library for Rust.
-- [diesel](https://github.com/diesel-rs/diesel)
-  - A safe, extensible ORM and Query Builder for Rust
+- [book](https://github.com/rust-lang/book)
+  - The Rust Programming Language
+- [ytop](https://github.com/cjbassi/ytop)
+  - A TUI system monitor written in Rust
+- [rustlings](https://github.com/rust-lang/rustlings)
+  - Small exercises to get you used to reading and writing Rust code!
+- [warp](https://github.com/seanmonstar/warp)
+  - A super-easy, composable, web server framework for warp speeds.
+- [tokenizers](https://github.com/huggingface/tokenizers)
+  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [tide](https://github.com/http-rs/tide)
+  - Serve the web – HTTP server framework
+- [oxidator](https://github.com/Ruddle/oxidator)
+  - RTS game/engine in Rust and WebGPU
+- [evcxr](https://github.com/google/evcxr)
+  - 
+- [dtool](https://github.com/guoxbin/dtool)
+  - A command-line tool collection to assist development
+- [grapl](https://github.com/insanitybit/grapl)
+  - Graph platform for Detection and Response
+- [piston](https://github.com/PistonDevelopers/piston)
+  - A modular game engine written in Rust
+- [too-many-lists](https://github.com/rust-unofficial/too-many-lists)
+  - Learn Rust by writing Entirely Too Many linked lists
+- [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust)
+  - A Rust port of shadowsocks
+- [ruma](https://github.com/ruma/ruma)
+  - A Matrix homeserver written in Rust.
+- [pangolin](https://github.com/dpeckett/pangolin)
+  - An enhanced Horizontal Pod Autoscaler for Kubernetes.
+- [amp](https://github.com/jmacdonald/amp)
+  - A complete text editor for your terminal.
+- [crabquery](https://github.com/Gonzih/crabquery)
+  - JQuery for Crabs
+- [dua-cli](https://github.com/Byron/dua-cli)
+  - A tool to conveniently learn about the disk usage of directories, fast!

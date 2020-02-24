@@ -1,51 +1,51 @@
 # typescript
-- [sapper](https://github.com/sveltejs/sapper)
-  - The next small thing in web development, powered by Svelte
-- [react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide)
-  - The complete guide to static typing in "React & Redux" apps using TypeScript
-- [GitCracken](https://github.com/5cr1pt/GitCracken)
-  - Crack GitKraken
-- [vue-next](https://github.com/vuejs/vue-next)
-  - The next major version of Vue (WIP)
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
-- [react-stripe-js](https://github.com/stripe/react-stripe-js)
-  - React components for Stripe.js and Stripe Elements
-- [liandi](https://github.com/88250/liandi)
-  - 📕 一款桌面端笔记应用，支持 Windows、Mac 和 Linux。
+- [react-visual-editor](https://github.com/anye931123/react-visual-editor)
+  - React可视化编辑
+- [desktop](https://github.com/desktop/desktop)
+  - Simple collaboration from your desktop
+- [uppload](https://github.com/elninotech/uppload)
+  - 📁 Uppload is a better JavaScript image uploader with 30+ plugins
+- [storybook](https://github.com/storybookjs/storybook)
+  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+- [platform](https://github.com/ngrx/platform)
+  - Reactive libraries for Angular
 - [vscode](https://github.com/microsoft/vscode)
   - Visual Studio Code
-- [excalidraw](https://github.com/excalidraw/excalidraw)
-  - Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
 - [coc.nvim](https://github.com/neoclide/coc.nvim)
   - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
-- [unform](https://github.com/Rocketseat/unform)
-  - Easy peasy high scalable ReactJS & React Native forms! 🚀
-- [ionicons](https://github.com/ionic-team/ionicons)
-  - The premium icon font for Ionic Framework and web apps everywhere
-- [n8n](https://github.com/n8n-io/n8n)
-  - Free and open node based Workflow Automation Tool. Easily automate tasks across different services.
-- [webpack-cli](https://github.com/webpack/webpack-cli)
-  - Webpack's Command Line Interface
+- [angular](https://github.com/angular/angular)
+  - One framework. Mobile & desktop.
+- [kittenTricks](https://github.com/akveo/kittenTricks)
+  - React Native starter kit with over 40 screens and modern Light and Dark theme for creating stunning cross-platform mobile applications.
 - [redux-toolkit](https://github.com/reduxjs/redux-toolkit)
   - The official, opinionated, batteries-included toolset for efficient Redux development
-- [components](https://github.com/angular/components)
-  - Component infrastructure and Material Design components for Angular
-- [Tech-Interview-Cheat-Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
-  - Studying for a tech interview sucks. Here's an open source cheat sheet to help
-- [angularfire](https://github.com/angular/angularfire)
-  - The official Angular library for Firebase.
-- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-  - The repository for high quality TypeScript type definitions.
-- [rxjs](https://github.com/ReactiveX/rxjs)
-  - A reactive programming library for JavaScript
-- [react-native-reanimated-bottom-sheet](https://github.com/osdnk/react-native-reanimated-bottom-sheet)
-  - Highly configurable bottom sheet component made with react-native-reanimated and react-native-gesture-handler
-- [utterances](https://github.com/utterance/utterances)
-  - 🔮 A lightweight comments widget built on GitHub issues
-- [refined-github](https://github.com/sindresorhus/refined-github)
-  - Browser extension that simplifies the GitHub interface and adds useful features
-- [now](https://github.com/zeit/now)
-  - The easiest way to deploy websites
-- [nest](https://github.com/nestjs/nest)
-  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [type-fest](https://github.com/sindresorhus/type-fest)
+  - A collection of essential TypeScript types
+- [blueprint](https://github.com/palantir/blueprint)
+  - A React-based UI toolkit for the web
+- [loopback-next](https://github.com/strongloop/loopback-next)
+  - LoopBack makes it easy to build modern API applications that require complex integrations.
+- [liandi](https://github.com/88250/liandi)
+  - 📕 一款桌面端笔记应用，支持 Windows、Mac 和 Linux。
+- [graphiql](https://github.com/graphql/graphiql)
+  - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
+- [material-ui-pickers](https://github.com/mui-org/material-ui-pickers)
+  - Date & Time pickers, built with ❤️ for @material-ui/core
+- [ignite](https://github.com/infinitered/ignite)
+  - The hottest CLI for React Native, boilerplates, plugins, generators, and more!
+- [erxes](https://github.com/erxes/erxes)
+  - Open source growth marketing platform
+- [react-native-tab-view](https://github.com/react-native-community/react-native-tab-view)
+  - A cross-platform Tab View component for React Native
+- [PPet](https://github.com/zenghongtu/PPet)
+  - 👻在你的桌面放一个萌妹子，多一点趣味😏~（支持Mac、Win和Linux）
+- [TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter)
+  - A starter template for TypeScript and React with a detailed README describing how to use the two together.
+- [gatsby-theme-novela](https://github.com/narative/gatsby-theme-novela)
+  - Welcome to Novela, the simplest way to start publishing with Gatsby.
+- [angular-electron](https://github.com/maximegris/angular-electron)
+  - Ultra-fast bootstrapping with Angular and Electron (Typescript + SASS + Hot Reload) 🚤
+- [react-use](https://github.com/streamich/react-use)
+  - React Hooks — 👍
+- [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer)
+  - An extension for VS Code that visualizes data during debugging.

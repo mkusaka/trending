@@ -1,51 +1,51 @@
 # ruby
-- [linguist](https://github.com/github/linguist)
-  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
-  - The Cocoa Dependency Manager.
-- [rails](https://github.com/rails/rails)
-  - Ruby on Rails
-- [sonic-pi](https://github.com/samaaron/sonic-pi)
-  - The Live Coding Music Synth for Everyone
-- [choosealicense.com](https://github.com/github/choosealicense.com)
-  - A site to provide non-judgmental guidance on choosing a license for your open source project
-- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-- [sidekiq](https://github.com/mperham/sidekiq)
-  - Simple, efficient background processing for Ruby
 - [brew](https://github.com/Homebrew/brew)
   - 🍺 The missing package manager for macOS (or Linux)
-- [Parsealot](https://github.com/irtefa/Parsealot)
-  - A Text file parser I wrote to curb my enthusiasm.
-- [airport_challenge](https://github.com/makersacademy/airport_challenge)
-  - Fly!
-- [rails-static-request-readme-austin-web-012720](https://github.com/learn-co-students/rails-static-request-readme-austin-web-012720)
+- [explore](https://github.com/github/explore)
+  - Community-curated topic and collection pages on GitHub
+- [nodejs-learning-guide](https://github.com/chyingp/nodejs-learning-guide)
+  - Nodejs学习笔记以及经验总结，公众号"程序猿小卡"
+- [Learning-SICP](https://github.com/DeathKing/Learning-SICP)
+  - MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。
+- [oo-barking-dog-onl01-seng-pt-021020](https://github.com/learn-co-students/oo-barking-dog-onl01-seng-pt-021020)
   - 
-- [classes-and-instances-lab-ruby-onl01-seng-pt-021020](https://github.com/learn-co-students/classes-and-instances-lab-ruby-onl01-seng-pt-021020)
+- [ruby-instance-variables-lab-onl01-seng-pt-021020](https://github.com/learn-co-students/ruby-instance-variables-lab-onl01-seng-pt-021020)
+  - 
+- [ruby-oo-object-relationships-belongs-to-lab-nyc-web-021720](https://github.com/learn-co-students/ruby-oo-object-relationships-belongs-to-lab-nyc-web-021720)
   - 
 - [instance-methods-lab-ruby-onl01-seng-pt-021020](https://github.com/learn-co-students/instance-methods-lab-ruby-onl01-seng-pt-021020)
   - 
-- [order_up](https://github.com/turingschool-examples/order_up)
+- [js-rails-as-api-review-of-rails-mvc-chi01-seng-ft-010620](https://github.com/learn-co-students/js-rails-as-api-review-of-rails-mvc-chi01-seng-ft-010620)
   - 
-- [rails-dynamic-request-readme-nyc-web-012720](https://github.com/learn-co-students/rails-dynamic-request-readme-nyc-web-012720)
+- [classes-and-instances-lab-ruby-onl01-seng-pt-021020](https://github.com/learn-co-students/classes-and-instances-lab-ruby-onl01-seng-pt-021020)
   - 
-- [rails-restful-index-action-lab-nyc-web-012720](https://github.com/learn-co-students/rails-restful-index-action-lab-nyc-web-012720)
+- [rails-hello-world-lab-houston-web-012720](https://github.com/learn-co-students/rails-hello-world-lab-houston-web-012720)
   - 
-- [dynamic-orm-lab-onl01-seng-ft-012120](https://github.com/learn-co-students/dynamic-orm-lab-onl01-seng-ft-012120)
+- [other-hash-methods-code-along-onl01-seng-pt-021020](https://github.com/learn-co-students/other-hash-methods-code-along-onl01-seng-pt-021020)
   - 
-- [oo-tic-tac-toe-onl01-seng-ft-021020](https://github.com/learn-co-students/oo-tic-tac-toe-onl01-seng-ft-021020)
+- [apples-and-holidays-onl01-seng-pt-021020](https://github.com/learn-co-students/apples-and-holidays-onl01-seng-pt-021020)
   - 
-- [oo-email-parser-onl01-seng-ft-021020](https://github.com/learn-co-students/oo-email-parser-onl01-seng-ft-021020)
+- [rails-dynamic-request-readme-houston-web-012720](https://github.com/learn-co-students/rails-dynamic-request-readme-houston-web-012720)
   - 
-- [rails-url-helpers-readme-nyc-web-012720](https://github.com/learn-co-students/rails-url-helpers-readme-nyc-web-012720)
+- [sql-crowdfunding-lab-online-web-pt-120919](https://github.com/learn-co-students/sql-crowdfunding-lab-online-web-pt-120919)
   - 
-- [blurhash](https://github.com/Gargron/blurhash)
-  - Encode an image as a small string that can be saved in the database, returned in API responses, and displayed as a blurred preview before the real image loads
-- [rails-dynamic-request-lab-nyc-web-012720](https://github.com/learn-co-students/rails-dynamic-request-lab-nyc-web-012720)
+- [namespaced-routes-lab-online-web-pt-090919](https://github.com/learn-co-students/namespaced-routes-lab-online-web-pt-090919)
   - 
-- [gitlabhq](https://github.com/gitlabhq/gitlabhq)
-  - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
-- [rails-hello-world-lab-nyc-web-012720](https://github.com/learn-co-students/rails-hello-world-lab-nyc-web-012720)
+- [oo-email-parser-online-web-sp-000](https://github.com/learn-co-students/oo-email-parser-online-web-sp-000)
   - 
-- [rails_performance](https://github.com/igorkasyanchuk/rails_performance)
-  - Monitor performance of you Rails applications
+- [sinatra-shotgun-server-onl01-seng-pt-110319](https://github.com/learn-co-students/sinatra-shotgun-server-onl01-seng-pt-110319)
+  - 
+- [anagram-detector-online-web-sp-000](https://github.com/learn-co-students/anagram-detector-online-web-sp-000)
+  - 
+- [oo-meowing-cat-onl01-seng-pt-021020](https://github.com/learn-co-students/oo-meowing-cat-onl01-seng-pt-021020)
+  - 
+- [oo-basics-onl01-seng-pt-021020](https://github.com/learn-co-students/oo-basics-onl01-seng-pt-021020)
+  - 
+- [ruby-oo-advanced-class-methods-lab-nyc-web-021720](https://github.com/learn-co-students/ruby-oo-advanced-class-methods-lab-nyc-web-021720)
+  - 
+- [simple-nesting-onl01-seng-pt-021020](https://github.com/learn-co-students/simple-nesting-onl01-seng-pt-021020)
+  - 
+- [nested-hash-iteration-code-along-onl01-seng-pt-021020](https://github.com/learn-co-students/nested-hash-iteration-code-along-onl01-seng-pt-021020)
+  - 
+- [model-class-methods-reading-online-web-pt-090919](https://github.com/learn-co-students/model-class-methods-reading-online-web-pt-090919)
+  - 
