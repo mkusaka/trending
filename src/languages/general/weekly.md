@@ -1,51 +1,51 @@
 # general
-- [cli](https://github.com/cli/cli) : Go
-  - The GitHub CLI
-- [jdBuyMask](https://github.com/cycz/jdBuyMask) : Python
-  - 京东监控口罩有货爬虫，自动下单爬虫，口罩爬虫
-- [fyne](https://github.com/fyne-io/fyne) : Go
-  - Cross platform GUI in Go based on Material Design
-- [V2rayU](https://github.com/yanue/V2rayU) : Swift
-  - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui) : JavaScript
-  - ⚡️Simple, Modular & Accessible UI Components for your React Applications
-- [DXY-COVID-19-Data](https://github.com/BlankerL/DXY-COVID-19-Data) : Python
-  - 2019新型冠状病毒疫情时间序列数据仓库 | COVID-19/2019-nCoV Infection Time Series Data Warehouse
-- [lantern](https://github.com/getlantern/lantern) : Go
-  - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 lantern proxy vpn censorship-circumvention censorship gfw accelerator
-- [trojan](https://github.com/trojan-gfw/trojan) : C++
-  - An unidentifiable mechanism that helps you bypass GFW.
-- [excelize](https://github.com/360EntSecGroup-Skylar/excelize) : Go
-  - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
-- [jd-assistant](https://github.com/tychxn/jd-assistant) : Python
-  - 京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能
-- [eladmin](https://github.com/elunez/eladmin) : Java
-  - 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
+- [1on1-questions](https://github.com/VGraupera/1on1-questions) : JavaScript
+  - Mega list of 1 on 1 meeting questions compiled from a variety to sources
+- [esbuild](https://github.com/evanw/esbuild) : Go
+  - An extremely fast JavaScript bundler and minifier
+- [trax](https://github.com/google/trax) : Python
+  - Trax — your path to advanced deep learning
+- [mall](https://github.com/macrozheng/mall) : Java
+  - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+- [computervision-recipes](https://github.com/microsoft/computervision-recipes) : Jupyter Notebook
+  - Best Practices, code samples, and documentation for Computer Vision.
 - [lede](https://github.com/coolsnowwolf/lede) : C
   - Lean's OpenWrt source
-- [XX-Net](https://github.com/XX-net/XX-Net) : Python
-  - a web proxy tool
-- [crystal](https://github.com/crystal-lang/crystal) : Crystal
-  - The Crystal Programming Language
-- [dapr](https://github.com/dapr/dapr) : Go
-  - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-- [chromego](https://github.com/killgcd/chromego) : Rich Text Format
-  - ChromeGo 翻墙工具包
-- [spaCy](https://github.com/explosion/spaCy) : Python
-  - 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython
-- [Java](https://github.com/TheAlgorithms/Java) : Java
-  - All Algorithms implemented in Java
-- [Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) : Python
-  - 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
-- [srs](https://github.com/ossrs/srs) : C++
-  - SRS is a live streaming cluster, high efficiency, stable and simple.
-- [v2ray-core](https://github.com/v2ray/v2ray-core) : Go
-  - A platform for building proxies to bypass network restrictions.
-- [dashboard](https://github.com/kubernetes/dashboard) : Go
-  - General-purpose web UI for Kubernetes clusters
-- [Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch) : Jupyter Notebook
-  - 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。
-- [clash](https://github.com/Dreamacro/clash) : Go
-  - A rule-based tunnel in Go.
-- [d2l-zh](https://github.com/d2l-ai/d2l-zh) : Python
-  - 《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材。
+- [org-roam](https://github.com/jethrokuan/org-roam) : Emacs Lisp
+  - Rudimentary Roam replica with Org-mode
+- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) : JavaScript
+  - Revive unavailable songs for Netease Cloud Music
+- [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go) : Go
+  - 百度网盘客户端 - Go语言编写
+- [trojan](https://github.com/trojan-gfw/trojan) : C++
+  - An unidentifiable mechanism that helps you bypass GFW.
+- [vue](https://github.com/vuejs/vue) : JavaScript
+  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [introtodeeplearning](https://github.com/aamini/introtodeeplearning) : Jupyter Notebook
+  - Lab Materials for MIT 6.S191: Introduction to Deep Learning
+- [druid](https://github.com/alibaba/druid) : Java
+  - 阿里巴巴数据库事业部出品，为监控而生的数据库连接池
+- [litemall](https://github.com/linlinjava/litemall) : Java
+  - 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
+- [gin](https://github.com/gin-gonic/gin) : Go
+  - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
+  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
+- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) : 
+  - The OpenAPI Specification Repository
+- [efcore](https://github.com/dotnet/efcore) : C#
+  - EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.
+- [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) : Java
+  - 🔥 Android developers should collect the following utils(updating).
+- [protobuf](https://github.com/protocolbuffers/protobuf) : C++
+  - Protocol Buffers - Google's data interchange format
+- [jax](https://github.com/google/jax) : Python
+  - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+- [igniter](https://github.com/trojan-gfw/igniter) : Java
+  - A trojan client for Android (UNDER CONSTRUCTION).
+- [ansible](https://github.com/ansible/ansible) : Python
+  - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/
+- [jamstack-ecommerce](https://github.com/jamstack-cms/jamstack-ecommerce) : JavaScript
+  - A starter project for building performant ECommerce applications with Gatsby and React
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
+  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
