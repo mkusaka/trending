@@ -1,51 +1,51 @@
 # general
-- [WaykiChain](https://github.com/WaykiChain/WaykiChain) : C++
-  - Public Blockchain as a Decentralized Economy Infrastructure Service Platform
-- [Waking-Up](https://github.com/wolverinn/Waking-Up) : 
-  - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击面试；可用于模拟面试、面试前复习、短期内快速备战面试...
-- [h4cker](https://github.com/The-Art-of-Hacking/h4cker) : Python
-  - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
-- [pytudes](https://github.com/norvig/pytudes) : Jupyter Notebook
-  - Python programs to practice or demonstrate skills.
-- [miaosha](https://github.com/qiurunze123/miaosha) : Java
-  - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
-- [UTM](https://github.com/utmapp/UTM) : Objective-C
-  - Virtual machines for iOS
-- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) : Python
-  - Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) : JavaScript
-  - ✅ The largest Node.js best practices list (January 2020)
-- [Koppeling](https://github.com/monoxgas/Koppeling) : C++
-  - Adaptive DLL hijacking / dynamic export forwarding
-- [Trojan-Qt5](https://github.com/TheWanderingCoel/Trojan-Qt5) : C
-  - A cross-platform trojan GUI client based on Shadowsocks-qt
-- [glitch-this](https://github.com/TotallyNotChase/glitch-this) : Python
-  - 📷 Glitchify static images to glitched images and GIFs!
-- [youtube-dl](https://github.com/ytdl-org/youtube-dl) : Python
-  - Command-line program to download videos from YouTube.com and other video sites
-- [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) : Java
-  - To Be Top Javaer - Java工程师成神之路
-- [SpaceVim](https://github.com/SpaceVim/SpaceVim) : Vim script
-  - A community-driven modular vim distribution - The ultimate vim configuration
-- [trfl](https://github.com/deepmind/trfl) : Python
-  - TensorFlow Reinforcement Learning
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
   - A complete computer science study plan to become a software engineer.
-- [architect-awesome](https://github.com/xingshaocheng/architect-awesome) : 
-  - 后端架构师技术图谱
+- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
+  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
+- [Waking-Up](https://github.com/wolverinn/Waking-Up) : 
+  - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试；可用于模拟面试、面试前复习、短期内快速备战面试...
+- [h4cker](https://github.com/The-Art-of-Hacking/h4cker) : Python
+  - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
+- [lazygit](https://github.com/jesseduffield/lazygit) : Go
+  - simple terminal UI for git commands
+- [haven](https://github.com/guardianproject/haven) : Java
+  - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
+- [FaceMaskDetection](https://github.com/AIZOOTech/FaceMaskDetection) : Python
+  - 开源人脸口罩检测模型和数据 Detect faces and determine whether people are wearing mask.
+- [mall-swarm](https://github.com/macrozheng/mall-swarm) : Java
+  - mall-swarm是一套微服务商城系统，采用了 Spring Cloud Greenwich、Spring Boot 2、MyBatis、Docker、Elasticsearch等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
+  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) : PHP
+  - Open Source PHP Framework (originally from EllisLab)
+- [plaidml](https://github.com/plaidml/plaidml) : C++
+  - PlaidML is a framework for making deep learning work everywhere.
 - [flutter](https://github.com/flutter/flutter) : Dart
   - Flutter makes it easy and fast to build beautiful mobile apps.
-- [react-visual-editor](https://github.com/anye931123/react-visual-editor) : TypeScript
-  - React可视化编辑
-- [GSOC2020](https://github.com/mozilla/GSOC2020) : 
-  - Mozilla and GSOC 2020
-- [industry-machine-learning](https://github.com/firmai/industry-machine-learning) : 
-  - A curated list of applied machine learning and data science notebooks and libraries across different industries.
-- [goxygen](https://github.com/Shpota/goxygen) : Go
-  - 👩🏻‍💻 Generate a modern web project with Go, React and MongoDB in seconds 🚀
-- [JavaGuide](https://github.com/Snailclimb/JavaGuide) : Java
-  - 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-- [fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) : Java
-  - 🚀 fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course) : JavaScript
-  - Starter files, final projects and FAQ for my Complete JavaScript course
+- [DisneyMotions](https://github.com/skydoves/DisneyMotions) : Kotlin
+  - 🦁 A Disney app using transformation motions based on MVVM (ViewModel, Coroutines, LiveData, Room, Repository, Koin) architecture.
+- [OpenAstroTracker](https://github.com/OpenAstroTech/OpenAstroTracker) : C#
+  - 3D printed DSLR tracking mount
+- [diagrams](https://github.com/mingrammer/diagrams) : Python
+  - 🎨 Diagram as Code for prototyping cloud system architectures
+- [nndl.github.io](https://github.com/nndl/nndl.github.io) : HTML
+  - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
+- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) : Python
+  - Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
+- [oidc-client-js](https://github.com/IdentityModel/oidc-client-js) : JavaScript
+  - OpenID Connect (OIDC) and OAuth2 protocol support for browser-based JavaScript applications
+- [re2](https://github.com/google/re2) : C++
+  - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) : PowerShell
+  - Azure Quickstart Templates
+- [ant-design](https://github.com/ant-design/ant-design) : TypeScript
+  - 🌈 A UI Design Language and React UI library
+- [awesome-datascience](https://github.com/academic/awesome-datascience) : 
+  - 📝 An awesome Data Science repository to learn and apply for real world problems.
+- [vapor](https://github.com/vapor/vapor) : Swift
+  - 💧 A server-side Swift web framework.
+- [spring-security](https://github.com/spring-projects/spring-security) : Java
+  - Spring Security
+- [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm) : Go
+  - Terraform provider for Azure Resource Manager
