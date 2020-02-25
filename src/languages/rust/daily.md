@@ -1,51 +1,51 @@
 # rust
-- [tui-rs](https://github.com/fdehau/tui-rs)
-  - Build terminal user interfaces and dashboards using Rust
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
+- [wasmtime](https://github.com/bytecodealliance/wasmtime)
+  - Standalone JIT-style runtime for WebAssembly, using Cranelift
+- [plotly](https://github.com/igiagkiozis/plotly)
+  - Plotly for Rust
 - [Rocket](https://github.com/SergioBenitez/Rocket)
   - A web framework for Rust.
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
-  - The Mullvad VPN client app for desktop and mobile
-- [nushell](https://github.com/nushell/nushell)
-  - A modern shell written in Rust
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-  - A curated list of Rust code and resources.
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
-- [book](https://github.com/rust-lang/book)
-  - The Rust Programming Language
-- [ytop](https://github.com/cjbassi/ytop)
-  - A TUI system monitor written in Rust
-- [rustlings](https://github.com/rust-lang/rustlings)
-  - Small exercises to get you used to reading and writing Rust code!
-- [warp](https://github.com/seanmonstar/warp)
-  - A super-easy, composable, web server framework for warp speeds.
-- [tokenizers](https://github.com/huggingface/tokenizers)
-  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
-- [tide](https://github.com/http-rs/tide)
-  - Serve the web – HTTP server framework
+- [rust-postgres](https://github.com/sfackler/rust-postgres)
+  - Native PostgreSQL driver for the Rust programming language
+- [spotify-tui](https://github.com/Rigellute/spotify-tui)
+  - Spotify for the terminal written in Rust 🚀
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
+- [tui-rs](https://github.com/fdehau/tui-rs)
+  - Build terminal user interfaces and dashboards using Rust
 - [oxidator](https://github.com/Ruddle/oxidator)
   - RTS game/engine in Rust and WebGPU
-- [evcxr](https://github.com/google/evcxr)
-  - 
-- [dtool](https://github.com/guoxbin/dtool)
-  - A command-line tool collection to assist development
+- [tide](https://github.com/http-rs/tide)
+  - Serve the web – HTTP server framework
+- [starship](https://github.com/starship/starship)
+  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [talent-plan](https://github.com/pingcap/talent-plan)
+  - PingCAP training courses
+- [tock](https://github.com/tock/tock)
+  - A secure embedded operating system for microcontrollers
+- [rustlings](https://github.com/rust-lang/rustlings)
+  - Small exercises to get you used to reading and writing Rust code!
+- [nushell](https://github.com/nushell/nushell)
+  - A modern shell written in Rust
+- [cargo](https://github.com/rust-lang/cargo)
+  - The Rust package manager
+- [tikv](https://github.com/tikv/tikv)
+  - Distributed transactional key-value database, originally created to complement TiDB
+- [examples](https://github.com/actix/examples)
+  - Actix web examples
+- [cranelift](https://github.com/bytecodealliance/cranelift)
+  - Cranelift code generator
+- [atm-cli](https://github.com/allthemusicllc/atm-cli)
+  - Command line tool for generating and working with MIDI files.
 - [grapl](https://github.com/insanitybit/grapl)
   - Graph platform for Detection and Response
-- [piston](https://github.com/PistonDevelopers/piston)
-  - A modular game engine written in Rust
-- [too-many-lists](https://github.com/rust-unofficial/too-many-lists)
-  - Learn Rust by writing Entirely Too Many linked lists
-- [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust)
-  - A Rust port of shadowsocks
-- [ruma](https://github.com/ruma/ruma)
-  - A Matrix homeserver written in Rust.
-- [pangolin](https://github.com/dpeckett/pangolin)
-  - An enhanced Horizontal Pod Autoscaler for Kubernetes.
-- [amp](https://github.com/jmacdonald/amp)
-  - A complete text editor for your terminal.
-- [crabquery](https://github.com/Gonzih/crabquery)
-  - JQuery for Crabs
-- [dua-cli](https://github.com/Byron/dua-cli)
-  - A tool to conveniently learn about the disk usage of directories, fast!
+- [tracing](https://github.com/tokio-rs/tracing)
+  - Application level tracing for Rust.
+- [nom](https://github.com/Geal/nom)
+  - Rust parser combinator framework
+- [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
+  - The Mullvad VPN client app for desktop and mobile

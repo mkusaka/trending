@@ -1,51 +1,51 @@
 # ruby
-- [brew](https://github.com/Homebrew/brew)
-  - 🍺 The missing package manager for macOS (or Linux)
-- [explore](https://github.com/github/explore)
-  - Community-curated topic and collection pages on GitHub
-- [nodejs-learning-guide](https://github.com/chyingp/nodejs-learning-guide)
-  - Nodejs学习笔记以及经验总结，公众号"程序猿小卡"
-- [Learning-SICP](https://github.com/DeathKing/Learning-SICP)
-  - MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。
-- [oo-barking-dog-onl01-seng-pt-021020](https://github.com/learn-co-students/oo-barking-dog-onl01-seng-pt-021020)
-  - 
-- [ruby-instance-variables-lab-onl01-seng-pt-021020](https://github.com/learn-co-students/ruby-instance-variables-lab-onl01-seng-pt-021020)
-  - 
-- [ruby-oo-object-relationships-belongs-to-lab-nyc-web-021720](https://github.com/learn-co-students/ruby-oo-object-relationships-belongs-to-lab-nyc-web-021720)
-  - 
-- [instance-methods-lab-ruby-onl01-seng-pt-021020](https://github.com/learn-co-students/instance-methods-lab-ruby-onl01-seng-pt-021020)
-  - 
-- [js-rails-as-api-review-of-rails-mvc-chi01-seng-ft-010620](https://github.com/learn-co-students/js-rails-as-api-review-of-rails-mvc-chi01-seng-ft-010620)
-  - 
-- [classes-and-instances-lab-ruby-onl01-seng-pt-021020](https://github.com/learn-co-students/classes-and-instances-lab-ruby-onl01-seng-pt-021020)
-  - 
-- [rails-hello-world-lab-houston-web-012720](https://github.com/learn-co-students/rails-hello-world-lab-houston-web-012720)
-  - 
-- [other-hash-methods-code-along-onl01-seng-pt-021020](https://github.com/learn-co-students/other-hash-methods-code-along-onl01-seng-pt-021020)
-  - 
-- [apples-and-holidays-onl01-seng-pt-021020](https://github.com/learn-co-students/apples-and-holidays-onl01-seng-pt-021020)
-  - 
-- [rails-dynamic-request-readme-houston-web-012720](https://github.com/learn-co-students/rails-dynamic-request-readme-houston-web-012720)
-  - 
-- [sql-crowdfunding-lab-online-web-pt-120919](https://github.com/learn-co-students/sql-crowdfunding-lab-online-web-pt-120919)
-  - 
-- [namespaced-routes-lab-online-web-pt-090919](https://github.com/learn-co-students/namespaced-routes-lab-online-web-pt-090919)
-  - 
-- [oo-email-parser-online-web-sp-000](https://github.com/learn-co-students/oo-email-parser-online-web-sp-000)
-  - 
-- [sinatra-shotgun-server-onl01-seng-pt-110319](https://github.com/learn-co-students/sinatra-shotgun-server-onl01-seng-pt-110319)
-  - 
-- [anagram-detector-online-web-sp-000](https://github.com/learn-co-students/anagram-detector-online-web-sp-000)
-  - 
-- [oo-meowing-cat-onl01-seng-pt-021020](https://github.com/learn-co-students/oo-meowing-cat-onl01-seng-pt-021020)
-  - 
-- [oo-basics-onl01-seng-pt-021020](https://github.com/learn-co-students/oo-basics-onl01-seng-pt-021020)
-  - 
-- [ruby-oo-advanced-class-methods-lab-nyc-web-021720](https://github.com/learn-co-students/ruby-oo-advanced-class-methods-lab-nyc-web-021720)
-  - 
-- [simple-nesting-onl01-seng-pt-021020](https://github.com/learn-co-students/simple-nesting-onl01-seng-pt-021020)
-  - 
-- [nested-hash-iteration-code-along-onl01-seng-pt-021020](https://github.com/learn-co-students/nested-hash-iteration-code-along-onl01-seng-pt-021020)
-  - 
-- [model-class-methods-reading-online-web-pt-090919](https://github.com/learn-co-students/model-class-methods-reading-online-web-pt-090919)
-  - 
+- [sonic-pi](https://github.com/samaaron/sonic-pi)
+  - The Live Coding Music Synth for Everyone
+- [factory_bot](https://github.com/thoughtbot/factory_bot)
+  - A library for setting up Ruby objects as test data.
+- [rspec-rails](https://github.com/rspec/rspec-rails)
+  - RSpec for Rails-3+
+- [faraday](https://github.com/lostisland/faraday)
+  - Simple, but flexible HTTP client library, with support for multiple backends.
+- [dev.to](https://github.com/thepracticaldev/dev.to)
+  - Where programmers share ideas and help each other grow
+- [webpacker](https://github.com/rails/webpacker)
+  - Use Webpack to manage app-like JavaScript modules in Rails
+- [chatwoot](https://github.com/chatwoot/chatwoot)
+  - Simple and elegant live chat software 🔥💬
+- [grape](https://github.com/ruby-grape/grape)
+  - An opinionated framework for creating REST-like APIs in Ruby.
+- [rails_admin](https://github.com/sferik/rails_admin)
+  - RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data
+- [fastlane](https://github.com/fastlane/fastlane)
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [sidekiq](https://github.com/mperham/sidekiq)
+  - Simple, efficient background processing for Ruby
+- [faker](https://github.com/faker-ruby/faker)
+  - A library for generating fake data such as names, addresses, and phone numbers.
+- [strong_migrations](https://github.com/ankane/strong_migrations)
+  - Catch unsafe migrations in development
+- [setup](https://github.com/lewagon/setup)
+  - Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp
+- [knock](https://github.com/nsarno/knock)
+  - Seamless JWT authentication for Rails API
+- [sorbet](https://github.com/sorbet/sorbet)
+  - A fast, powerful type checker designed for Ruby
+- [cloud_controller_ng](https://github.com/cloudfoundry/cloud_controller_ng)
+  - Cloud Foundry Cloud Controller
+- [evil-winrm](https://github.com/Hackplayers/evil-winrm)
+  - The ultimate WinRM shell for hacking/pentesting
+- [simplecov](https://github.com/colszowka/simplecov)
+  - Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites
+- [pundit](https://github.com/varvet/pundit)
+  - Minimal authorization through OO design and pure Ruby classes
+- [jbuilder](https://github.com/rails/jbuilder)
+  - Jbuilder: generate JSON objects with a Builder-style DSL
+- [openproject](https://github.com/opf/openproject)
+  - OpenProject is the leading open source project management software.
+- [cuprite](https://github.com/machinio/cuprite)
+  - Headless Chrome/Chromium driver for Capybara
+- [administrate](https://github.com/thoughtbot/administrate)
+  - A Rails engine that helps you put together a super-flexible admin dashboard.
+- [webmock](https://github.com/bblimke/webmock)
+  - Library for stubbing and setting expectations on HTTP requests in Ruby.

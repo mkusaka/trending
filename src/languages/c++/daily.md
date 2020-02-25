@@ -1,51 +1,51 @@
 # c++
+- [plaidml](https://github.com/plaidml/plaidml)
+  - PlaidML is a framework for making deep learning work everywhere.
+- [re2](https://github.com/google/re2)
+  - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+- [googletest](https://github.com/google/googletest)
+  - Googletest - Google Testing and Mocking Framework
+- [realsense-ros](https://github.com/IntelRealSense/realsense-ros)
+  - Intel(R) RealSense(TM) ROS Wrapper for D400 series, SR300 Camera and T265 Tracking Module
 - [WaykiChain](https://github.com/WaykiChain/WaykiChain)
   - Public Blockchain as a Decentralized Economy Infrastructure Service Platform
-- [Koppeling](https://github.com/monoxgas/Koppeling)
-  - Adaptive DLL hijacking / dynamic export forwarding
-- [opencv](https://github.com/opencv/opencv)
-  - Open Source Computer Vision Library
-- [Firmware](https://github.com/PX4/Firmware)
-  - PX4 Autopilot Software
-- [Tasmota](https://github.com/arendst/Tasmota)
-  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
-- [Marlin](https://github.com/MarlinFirmware/Marlin)
-  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
-- [trojan](https://github.com/trojan-gfw/trojan)
-  - An unidentifiable mechanism that helps you bypass GFW.
-- [Disease_propagation](https://github.com/angeluriot/Disease_propagation)
-  - Simulation de propagation de maladie.
-- [Algo_Ds_Notes](https://github.com/jainaman224/Algo_Ds_Notes)
-  - It is a repository that is a collection of algorithms and data structures with implementation in various languages.
-- [STL](https://github.com/microsoft/STL)
-  - MSVC's implementation of the C++ Standard Library.
+- [subconverter](https://github.com/tindy2013/subconverter)
+  - Utility to convert between various subscription format
+- [ceph](https://github.com/ceph/ceph)
+  - Ceph is a distributed object, block, and file storage platform
+- [oboe](https://github.com/google/oboe)
+  - Oboe is a C++ library that makes it easy to build high-performance audio apps on Android.
+- [thrift](https://github.com/apache/thrift)
+  - Apache Thrift
+- [concurrentqueue](https://github.com/cameron314/concurrentqueue)
+  - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
+- [WeChatRobot](https://github.com/TonyChen56/WeChatRobot)
+  - PC版微信机器人
 - [GDevelop](https://github.com/4ian/GDevelop)
   - 🎮 GDevelop is an open-source, cross-platform game engine designed to be used by everyone.
-- [Hazel](https://github.com/TheCherno/Hazel)
-  - Hazel Engine
-- [notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)
-  - Notepad++ official repository
-- [navicat-keygen](https://github.com/kervin521/navicat-keygen)
-  - 
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
-  - Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs
-- [aoapc-bac2nd](https://github.com/aoapc-book/aoapc-bac2nd)
-  - Source codes for book <<<BeginningAlgorithmContests>> Second edition
-- [FreeCAD](https://github.com/FreeCAD/FreeCAD)
-  - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker
-- [PAT](https://github.com/liuchuo/PAT)
-  - 🍭 浙江大学PAT题解(C/C++/Java/Python) - 努力成为萌萌的程序媛～
-- [ppsspp](https://github.com/hrydgard/ppsspp)
-  - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or in #ppsspp on freenode (IRC) or just send pull requests / issues. For discussion use the forums on ppsspp.org.
-- [open-builder](https://github.com/Hopson97/open-builder)
-  - Open "Minecraft-like" game with multiplayer support and Lua scripting support for the both client and server
-- [MyTinySTL](https://github.com/Alinshans/MyTinySTL)
-  - Achieve a tiny STL in C++11
-- [Play-Leetcode](https://github.com/liuyubobobo/Play-Leetcode)
-  - My Solutions to Leetcode problems. All solutions support C++ language, some support Java and Python. Multiple solutions will be given by most problems. Enjoy:) 我的Leetcode解答。所有的问题都支持C++语言，一部分问题支持Java语言。近乎所有问题都会提供多个算法解决。大家加油！：）
-- [vnote](https://github.com/tamlok/vnote)
-  - A note-taking application that knows programmers and Markdown better.
-- [arrow](https://github.com/apache/arrow)
-  - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…
+- [synergy-core](https://github.com/symless/synergy-core)
+  - Open source core of Synergy, the keyboard and mouse sharing tool
+- [openalpr](https://github.com/openalpr/openalpr)
+  - Automatic License Plate Recognition library
+- [Firmware](https://github.com/PX4/Firmware)
+  - PX4 Autopilot Software
+- [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native)
+  - Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
+- [ncnn](https://github.com/Tencent/ncnn)
+  - ncnn is a high-performance neural network inference framework optimized for the mobile platform
+- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+  - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+- [LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL)
+  - Code repository of all OpenGL tutorials found at https://learnopengl.com
+- [tensorflow](https://github.com/tensorflow/tensorflow)
+  - An Open Source Machine Learning Framework for Everyone
+- [jsoncpp](https://github.com/open-source-parsers/jsoncpp)
+  - A C++ library for interacting with JSON.
+- [protobuf](https://github.com/protocolbuffers/protobuf)
+  - Protocol Buffers - Google's data interchange format
+- [bpftrace](https://github.com/iovisor/bpftrace)
+  - High-level tracing language for Linux eBPF
+- [Algo_Ds_Notes](https://github.com/jainaman224/Algo_Ds_Notes)
+  - It is a repository that is a collection of algorithms and data structures with implementation in various languages.
+- [WiFiManager](https://github.com/tzapu/WiFiManager)
+  - ESP8266 WiFi Connection manager with web captive portal
