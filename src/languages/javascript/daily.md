@@ -1,51 +1,51 @@
 # javascript
-- [oidc-client-js](https://github.com/IdentityModel/oidc-client-js)
-  - OpenID Connect (OIDC) and OAuth2 protocol support for browser-based JavaScript applications
-- [expense-tracker-react](https://github.com/bradtraversy/expense-tracker-react)
-  - Simple expense tracker using React hooks & context
-- [graphql-engine](https://github.com/hasura/graphql-engine)
-  - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
-- [cypress](https://github.com/cypress-io/cypress)
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [react-select](https://github.com/JedWatson/react-select)
-  - The Select Component for React.js
-- [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js)
-  - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
-- [alpine](https://github.com/alpinejs/alpine)
-  - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [Sparkle-Proof-Of-Loyalty](https://github.com/Sparklemobile/Sparkle-Proof-Of-Loyalty)
-  - Sparkle Proof of Loyalty Contract
-- [generator-jhipster](https://github.com/jhipster/generator-jhipster)
-  - Open Source application platform for creating Spring Boot + Angular/React projects in seconds!
-- [jsencrypt](https://github.com/travist/jsencrypt)
-  - A Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
-  - ✅ The largest Node.js best practices list (January 2020)
-- [eui](https://github.com/elastic/eui)
-  - Elastic UI Framework 🙌
 - [vue](https://github.com/vuejs/vue)
   - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - 🛁 Clean Code concepts adapted for JavaScript
 - [node-red](https://github.com/node-red/node-red)
   - Low-code programming for event-driven applications
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
-  - Starter files, final projects and FAQ for my Complete JavaScript course
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
-  - List of functions which you can use to replace moment.js + ESLint Plugin
-- [react-native-boilerplate](https://github.com/thecodingmachine/react-native-boilerplate)
-  - A React Native project template for building solid applications through separation of concerns between the UI, state management and business logic.
-- [pdf.js](https://github.com/mozilla/pdf.js)
-  - PDF Reader in JavaScript
-- [swagger-bootstrap-ui](https://github.com/xiaoymin/swagger-bootstrap-ui)
-  - Swagger-bootstrap-ui is the Swagger front-end UI implementation, the purpose is to replace the Swagger default UI implementation Swagger-UI, make the document more friendly....
+- [expense-tracker-react](https://github.com/bradtraversy/expense-tracker-react)
+  - Simple expense tracker using React hooks & context
+- [Yike](https://github.com/LyonWong/Yike)
+  - 
+- [react-router](https://github.com/ReactTraining/react-router)
+  - Declarative routing for React
+- [Rules](https://github.com/lhie1/Rules)
+  - Rules / 规则：Surge / Shadowrocket / QuantumultX / Clash(X|A)
+- [vxe-table](https://github.com/xuliangzhan/vxe-table)
+  - 🐬 vxe-table vue 表格解决方案
+- [academicpages.github.io](https://github.com/academicpages/academicpages.github.io)
+  - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
+- [gatsby](https://github.com/gatsbyjs/gatsby)
+  - Build blazing fast, modern apps and websites with React
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+  -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
+  - 📜 33 concepts every JavaScript developer should know.
 - [Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
   - Signal — Private Messenger for Windows, Mac, and Linux
-- [uBlock](https://github.com/gorhill/uBlock)
-  - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-- [cli](https://github.com/npm/cli)
-  - the package manager for JavaScript
-- [tfjs-examples](https://github.com/tensorflow/tfjs-examples)
-  - Examples built with TensorFlow.js
-- [protractor](https://github.com/angular/protractor)
-  - E2E test framework for Angular apps
+- [shadowsocks-manager](https://github.com/shadowsocks/shadowsocks-manager)
+  - A shadowsocks manager tool for multi user and traffic control.
+- [fe-interview](https://github.com/haizlin/fe-interview)
+  - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [AutoPiano](https://github.com/WarpPrism/AutoPiano)
+  - 自由钢琴 🎹 AutoPiano ( https://www.autopiano.cn ) Simple & Elegant Piano Online
+- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
+  - Bypass Paywalls for Chrome
+- [plotly.js](https://github.com/plotly/plotly.js)
+  - Open-source JavaScript charting library behind Plotly and Dash
+- [Chart.js](https://github.com/chartjs/Chart.js)
+  - Simple HTML5 Charts using the <canvas> tag
+- [react-sortable-tree](https://github.com/frontend-collective/react-sortable-tree)
+  - Drag-and-drop sortable component for nested data and hierarchies
+- [strapi-examples](https://github.com/strapi/strapi-examples)
+  - 🎓 List of examples using Strapi
+- [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app)
+  - An exemplary real-world application built with Vue.js, Vuex, axios and different other technologies. This is a good example to discover Vue for beginners.
+- [winston](https://github.com/winstonjs/winston)
+  - A logger for just about everything.

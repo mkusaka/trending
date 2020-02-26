@@ -1,51 +1,51 @@
 # c++
-- [plaidml](https://github.com/plaidml/plaidml)
-  - PlaidML is a framework for making deep learning work everywhere.
-- [re2](https://github.com/google/re2)
-  - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
-- [googletest](https://github.com/google/googletest)
-  - Googletest - Google Testing and Mocking Framework
-- [realsense-ros](https://github.com/IntelRealSense/realsense-ros)
-  - Intel(R) RealSense(TM) ROS Wrapper for D400 series, SR300 Camera and T265 Tracking Module
 - [WaykiChain](https://github.com/WaykiChain/WaykiChain)
   - Public Blockchain as a Decentralized Economy Infrastructure Service Platform
-- [subconverter](https://github.com/tindy2013/subconverter)
-  - Utility to convert between various subscription format
-- [ceph](https://github.com/ceph/ceph)
-  - Ceph is a distributed object, block, and file storage platform
-- [oboe](https://github.com/google/oboe)
-  - Oboe is a C++ library that makes it easy to build high-performance audio apps on Android.
-- [thrift](https://github.com/apache/thrift)
-  - Apache Thrift
-- [concurrentqueue](https://github.com/cameron314/concurrentqueue)
-  - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
-- [WeChatRobot](https://github.com/TonyChen56/WeChatRobot)
-  - PC版微信机器人
-- [GDevelop](https://github.com/4ian/GDevelop)
-  - 🎮 GDevelop is an open-source, cross-platform game engine designed to be used by everyone.
-- [synergy-core](https://github.com/symless/synergy-core)
-  - Open source core of Synergy, the keyboard and mouse sharing tool
-- [openalpr](https://github.com/openalpr/openalpr)
-  - Automatic License Plate Recognition library
-- [Firmware](https://github.com/PX4/Firmware)
-  - PX4 Autopilot Software
-- [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native)
-  - Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
-- [ncnn](https://github.com/Tencent/ncnn)
-  - ncnn is a high-performance neural network inference framework optimized for the mobile platform
-- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
-  - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
-- [LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL)
-  - Code repository of all OpenGL tutorials found at https://learnopengl.com
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [jsoncpp](https://github.com/open-source-parsers/jsoncpp)
-  - A C++ library for interacting with JSON.
-- [protobuf](https://github.com/protocolbuffers/protobuf)
-  - Protocol Buffers - Google's data interchange format
-- [bpftrace](https://github.com/iovisor/bpftrace)
-  - High-level tracing language for Linux eBPF
+- [apollo](https://github.com/ApolloAuto/apollo)
+  - An open autonomous driving platform
+- [filament](https://github.com/google/filament)
+  - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
 - [Algo_Ds_Notes](https://github.com/jainaman224/Algo_Ds_Notes)
   - It is a repository that is a collection of algorithms and data structures with implementation in various languages.
-- [WiFiManager](https://github.com/tzapu/WiFiManager)
-  - ESP8266 WiFi Connection manager with web captive portal
+- [llvm-project](https://github.com/llvm/llvm-project)
+  - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
+- [deconz-rest-plugin](https://github.com/dresden-elektronik/deconz-rest-plugin)
+  - REST API Plugin to control ZigBee lights like Philips Hue and dresden elektroniks wireless electronic ballasts
+- [Learning-OpenCV-3_examples](https://github.com/oreillymedia/Learning-OpenCV-3_examples)
+  - 
+- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+  - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+- [MNN](https://github.com/alibaba/MNN)
+  - MNN is a lightweight deep neural network inference engine.
+- [openpilot](https://github.com/commaai/openpilot)
+  - open source driving agent
+- [Rack](https://github.com/VCVRack/Rack)
+  - Virtual Eurorack DAW
+- [Cpp_houjie](https://github.com/harvestlamb/Cpp_houjie)
+  - 侯捷C++课程PPT及代码
+- [Marlin](https://github.com/MarlinFirmware/Marlin)
+  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
+- [Catch2](https://github.com/catchorg/Catch2)
+  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [Osiris](https://github.com/danielkrupinski/Osiris)
+  - Free open-source training software / cheat for Counter-Strike: Global Offensive, written in modern C++. GUI powered by imgui.
+- [2021-Postgraduate-408](https://github.com/hao14293/2021-Postgraduate-408)
+  - 💯✍备考2020年研究生-408
+- [mars](https://github.com/Tencent/mars)
+  - Mars is a cross-platform network component developed by WeChat.
+- [godot](https://github.com/godotengine/godot)
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [nowic](https://github.com/idebtor/nowic)
+  - Data Structure Lecture Notes By idebtor@gmail.com
+- [CVE-2020-0753-and-CVE-2020-0754](https://github.com/afang5472/CVE-2020-0753-and-CVE-2020-0754)
+  - Writeup and POC for CVE-2020-0753, CVE-2020-0754 and six unfixed Window DOS Vulnerabilities.
+- [gnuradio](https://github.com/gnuradio/gnuradio)
+  - GNU Radio – the Free and Open Software Radio Ecosystem
+- [PowerToys](https://github.com/microsoft/PowerToys)
+  - Windows system utilities to maximize productivity
+- [inline_syscall](https://github.com/JustasMasiulis/inline_syscall)
+  - Inline syscalls made easy for windows on clang
+- [WLED](https://github.com/Aircoookie/WLED)
+  - Control WS2812B RGB LEDs with an ESP8266 over WiFi!
+- [async-profiler](https://github.com/jvm-profiling-tools/async-profiler)
+  - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events
