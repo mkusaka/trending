@@ -1,51 +1,51 @@
 # rust
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
-- [substrate](https://github.com/paritytech/substrate)
-  - Substrate: The platform for blockchain innovators
-- [wasmtime](https://github.com/bytecodealliance/wasmtime)
-  - Standalone JIT-style runtime for WebAssembly, using Cranelift
-- [plotly](https://github.com/igiagkiozis/plotly)
-  - Plotly for Rust
-- [Rocket](https://github.com/SergioBenitez/Rocket)
-  - A web framework for Rust.
-- [rust-postgres](https://github.com/sfackler/rust-postgres)
-  - Native PostgreSQL driver for the Rust programming language
-- [spotify-tui](https://github.com/Rigellute/spotify-tui)
-  - Spotify for the terminal written in Rust 🚀
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [tui-rs](https://github.com/fdehau/tui-rs)
-  - Build terminal user interfaces and dashboards using Rust
-- [oxidator](https://github.com/Ruddle/oxidator)
-  - RTS game/engine in Rust and WebGPU
-- [tide](https://github.com/http-rs/tide)
-  - Serve the web – HTTP server framework
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [talent-plan](https://github.com/pingcap/talent-plan)
-  - PingCAP training courses
-- [tock](https://github.com/tock/tock)
-  - A secure embedded operating system for microcontrollers
-- [rustlings](https://github.com/rust-lang/rustlings)
-  - Small exercises to get you used to reading and writing Rust code!
-- [nushell](https://github.com/nushell/nushell)
-  - A modern shell written in Rust
-- [cargo](https://github.com/rust-lang/cargo)
-  - The Rust package manager
-- [tikv](https://github.com/tikv/tikv)
-  - Distributed transactional key-value database, originally created to complement TiDB
-- [examples](https://github.com/actix/examples)
-  - Actix web examples
-- [cranelift](https://github.com/bytecodealliance/cranelift)
-  - Cranelift code generator
 - [atm-cli](https://github.com/allthemusicllc/atm-cli)
   - Command line tool for generating and working with MIDI files.
+- [spotify-tui](https://github.com/Rigellute/spotify-tui)
+  - Spotify for the terminal written in Rust 🚀
+- [nats.rs](https://github.com/nats-io/nats.rs)
+  - Rust client for NATS, the cloud native messaging system.
+- [bastion](https://github.com/bastion-rs/bastion)
+  - Highly-available Distributed Fault-tolerant Runtime
+- [open-ethereum](https://github.com/OpenEthereum/open-ethereum)
+  - The fast, light, and robust client for Ethereum-like networks.
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
+- [quiche](https://github.com/cloudflare/quiche)
+  - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [grapl](https://github.com/insanitybit/grapl)
   - Graph platform for Detection and Response
-- [tracing](https://github.com/tokio-rs/tracing)
-  - Application level tracing for Rust.
-- [nom](https://github.com/Geal/nom)
-  - Rust parser combinator framework
-- [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
-  - The Mullvad VPN client app for desktop and mobile
+- [wgpu](https://github.com/gfx-rs/wgpu)
+  - Native WebGPU implementation based on gfx-hal
+- [bracket-lib](https://github.com/thebracket/bracket-lib)
+  - The Roguelike Toolkit (RLTK), implemented for Rust.
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - ripgrep recursively searches directories for a regex pattern
+- [sonic](https://github.com/valeriansaliou/sonic)
+  - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
+- [rustlings](https://github.com/rust-lang/rustlings)
+  - Small exercises to get you used to reading and writing Rust code!
+- [clap](https://github.com/clap-rs/clap)
+  - A full featured, fast Command Line Argument Parser for Rust
+- [examples](https://github.com/actix/examples)
+  - Actix web examples
+- [tremor-runtime](https://github.com/wayfair-tremor/tremor-runtime)
+  - Main Tremor Project Rust Codebase
+- [mincodec](https://github.com/noocene/mincodec)
+  - efficient compact untagged streaming format using unaligned bitstreams
+- [exa](https://github.com/ogham/exa)
+  - A modern version of ‘ls’.
+- [ytop](https://github.com/cjbassi/ytop)
+  - A TUI system monitor written in Rust
+- [actix_tutorials](https://github.com/thecloudmaker/actix_tutorials)
+  - Actix tutorials
+- [hyperfine](https://github.com/sharkdp/hyperfine)
+  - A command-line benchmarking tool
+- [paseto](https://github.com/instructure/paseto)
+  - A paseto implementation in rust.
+- [pastel](https://github.com/sharkdp/pastel)
+  - A command-line tool to generate, analyze, convert and manipulate colors
+- [hexyl](https://github.com/sharkdp/hexyl)
+  - A command-line hex viewer
+- [libatm](https://github.com/allthemusicllc/libatm)
+  - Library for generating and working with MIDI files

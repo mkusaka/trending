@@ -1,51 +1,51 @@
 # general
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
   - A complete computer science study plan to become a software engineer.
-- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
-  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [Waking-Up](https://github.com/wolverinn/Waking-Up) : 
-  - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试；可用于模拟面试、面试前复习、短期内快速备战面试...
-- [h4cker](https://github.com/The-Art-of-Hacking/h4cker) : Python
-  - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
-- [lazygit](https://github.com/jesseduffield/lazygit) : Go
-  - simple terminal UI for git commands
-- [haven](https://github.com/guardianproject/haven) : Java
-  - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
-- [FaceMaskDetection](https://github.com/AIZOOTech/FaceMaskDetection) : Python
-  - 开源人脸口罩检测模型和数据 Detect faces and determine whether people are wearing mask.
-- [mall-swarm](https://github.com/macrozheng/mall-swarm) : Java
-  - mall-swarm是一套微服务商城系统，采用了 Spring Cloud Greenwich、Spring Boot 2、MyBatis、Docker、Elasticsearch等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
-  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) : PHP
-  - Open Source PHP Framework (originally from EllisLab)
-- [plaidml](https://github.com/plaidml/plaidml) : C++
-  - PlaidML is a framework for making deep learning work everywhere.
-- [flutter](https://github.com/flutter/flutter) : Dart
-  - Flutter makes it easy and fast to build beautiful mobile apps.
-- [DisneyMotions](https://github.com/skydoves/DisneyMotions) : Kotlin
-  - 🦁 A Disney app using transformation motions based on MVVM (ViewModel, Coroutines, LiveData, Room, Repository, Koin) architecture.
-- [OpenAstroTracker](https://github.com/OpenAstroTech/OpenAstroTracker) : C#
-  - 3D printed DSLR tracking mount
-- [diagrams](https://github.com/mingrammer/diagrams) : Python
-  - 🎨 Diagram as Code for prototyping cloud system architectures
+- [heroicons](https://github.com/refactoringui/heroicons) : 
+  - A set of free MIT-licensed high-quality SVG icons for UI development.
+- [dispatch](https://github.com/Netflix/dispatch) : Python
+  - All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
+- [WaykiChain](https://github.com/WaykiChain/WaykiChain) : C++
+  - Public Blockchain as a Decentralized Economy Infrastructure Service Platform
+- [computer-science](https://github.com/ossu/computer-science) : 
+  - 🎓 Path to a free self-taught education in Computer Science!
+- [vue](https://github.com/vuejs/vue) : JavaScript
+  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [nndl.github.io](https://github.com/nndl/nndl.github.io) : HTML
   - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
-- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) : Python
-  - Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
-- [oidc-client-js](https://github.com/IdentityModel/oidc-client-js) : JavaScript
-  - OpenID Connect (OIDC) and OAuth2 protocol support for browser-based JavaScript applications
-- [re2](https://github.com/google/re2) : C++
-  - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
-- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) : PowerShell
-  - Azure Quickstart Templates
-- [ant-design](https://github.com/ant-design/ant-design) : TypeScript
-  - 🌈 A UI Design Language and React UI library
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
+  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [awesome-datascience](https://github.com/academic/awesome-datascience) : 
   - 📝 An awesome Data Science repository to learn and apply for real world problems.
-- [vapor](https://github.com/vapor/vapor) : Swift
-  - 💧 A server-side Swift web framework.
-- [spring-security](https://github.com/spring-projects/spring-security) : Java
-  - Spring Security
-- [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm) : Go
-  - Terraform provider for Azure Resource Manager
+- [91Porn-crawler](https://github.com/colikno/91Porn-crawler) : JavaScript
+  - 🌭💦 91porn爬虫在线API接口（永久有效） 及 在线web预览
+- [h4cker](https://github.com/The-Art-of-Hacking/h4cker) : Python
+  - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
+- [dnSpy](https://github.com/0xd4d/dnSpy) : C#
+  - .NET debugger and assembly editor
+- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
+  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
+- [ant-design](https://github.com/ant-design/ant-design) : TypeScript
+  - 🌈 A UI Design Language and React UI library
+- [Signal-Android](https://github.com/signalapp/Signal-Android) : Java
+  - A private messenger for Android.
+- [mall-swarm](https://github.com/macrozheng/mall-swarm) : Java
+  - mall-swarm是一套微服务商城系统，采用了 Spring Cloud Greenwich、Spring Boot 2、MyBatis、Docker、Elasticsearch等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。
+- [tips_for_interview](https://github.com/conanhujinming/tips_for_interview) : 
+  - Some of my thoughts about interview. 我的一些面试心得
+- [ebpf](https://github.com/cilium/ebpf) : Go
+  - eBPF Library for Go
+- [GitCracken](https://github.com/5cr1pt/GitCracken) : TypeScript
+  - Crack GitKraken
+- [pi-hole](https://github.com/pi-hole/pi-hole) : Shell
+  - A black hole for Internet advertisements
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [virtual-environments](https://github.com/actions/virtual-environments) : PowerShell
+  - GitHub Actions virtual environments
+- [magento2](https://github.com/magento/magento2) : PHP
+  - All Submissions you make to Magento Inc. ("Magento") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, subli…
+- [adet](https://github.com/aim-uofa/adet) : Python
+  - AdelaiDet is an open source toolbox for multiple instance-level detection applications.
+- [destiny](https://github.com/benawad/destiny) : TypeScript
+  - Prettier for File Structures

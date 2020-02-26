@@ -1,51 +1,51 @@
 # ruby
-- [sonic-pi](https://github.com/samaaron/sonic-pi)
-  - The Live Coding Music Synth for Everyone
-- [factory_bot](https://github.com/thoughtbot/factory_bot)
-  - A library for setting up Ruby objects as test data.
-- [rspec-rails](https://github.com/rspec/rspec-rails)
-  - RSpec for Rails-3+
-- [faraday](https://github.com/lostisland/faraday)
-  - Simple, but flexible HTTP client library, with support for multiple backends.
-- [dev.to](https://github.com/thepracticaldev/dev.to)
-  - Where programmers share ideas and help each other grow
-- [webpacker](https://github.com/rails/webpacker)
-  - Use Webpack to manage app-like JavaScript modules in Rails
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
+  - Metasploit Framework
+- [rails](https://github.com/rails/rails)
+  - Ruby on Rails
+- [wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader)
+  - Download an entire website from the Wayback Machine.
 - [chatwoot](https://github.com/chatwoot/chatwoot)
   - Simple and elegant live chat software 🔥💬
-- [grape](https://github.com/ruby-grape/grape)
-  - An opinionated framework for creating REST-like APIs in Ruby.
-- [rails_admin](https://github.com/sferik/rails_admin)
-  - RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data
-- [fastlane](https://github.com/fastlane/fastlane)
-  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [sidekiq](https://github.com/mperham/sidekiq)
-  - Simple, efficient background processing for Ruby
-- [faker](https://github.com/faker-ruby/faker)
-  - A library for generating fake data such as names, addresses, and phone numbers.
-- [strong_migrations](https://github.com/ankane/strong_migrations)
-  - Catch unsafe migrations in development
-- [setup](https://github.com/lewagon/setup)
-  - Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp
-- [knock](https://github.com/nsarno/knock)
-  - Seamless JWT authentication for Rails API
-- [sorbet](https://github.com/sorbet/sorbet)
-  - A fast, powerful type checker designed for Ruby
-- [cloud_controller_ng](https://github.com/cloudfoundry/cloud_controller_ng)
-  - Cloud Foundry Cloud Controller
-- [evil-winrm](https://github.com/Hackplayers/evil-winrm)
-  - The ultimate WinRM shell for hacking/pentesting
-- [simplecov](https://github.com/colszowka/simplecov)
-  - Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites
-- [pundit](https://github.com/varvet/pundit)
-  - Minimal authorization through OO design and pure Ruby classes
-- [jbuilder](https://github.com/rails/jbuilder)
-  - Jbuilder: generate JSON objects with a Builder-style DSL
-- [openproject](https://github.com/opf/openproject)
-  - OpenProject is the leading open source project management software.
-- [cuprite](https://github.com/machinio/cuprite)
-  - Headless Chrome/Chromium driver for Capybara
-- [administrate](https://github.com/thoughtbot/administrate)
-  - A Rails engine that helps you put together a super-flexible admin dashboard.
-- [webmock](https://github.com/bblimke/webmock)
-  - Library for stubbing and setting expectations on HTTP requests in Ruby.
+- [wpscan](https://github.com/wpscanteam/wpscan)
+  - WPScan is a free, for non-commercial use, black box WordPress Vulnerability Scanner written for security professionals and blog maintainers to test the security of their WordPress websites.
+- [fq-book](https://github.com/hoochanlon/fq-book)
+  - 📖 《这本书能让你连接互联网》科学上网Freestyle，了解网络基础知识与实践蹭网操作
+- [discourse](https://github.com/discourse/discourse)
+  - A platform for community discussion. Free, open, simple.
+- [chicken_Ser](https://github.com/StevenNunez/chicken_Ser)
+  - 
+- [rails-dynamic-request-readme-online-web-ft-120919](https://github.com/learn-co-students/rails-dynamic-request-readme-online-web-ft-120919)
+  - 
+- [rails-restful-index-action-lab-online-web-ft-120919](https://github.com/learn-co-students/rails-restful-index-action-lab-online-web-ft-120919)
+  - 
+- [rails-dynamic-request-lab-online-web-ft-120919](https://github.com/learn-co-students/rails-dynamic-request-lab-online-web-ft-120919)
+  - 
+- [rails-cru-form_for-lab-nyc-web-012720](https://github.com/learn-co-students/rails-cru-form_for-lab-nyc-web-012720)
+  - 
+- [rails-form_for-on-edit-readme-seattle-web-012720](https://github.com/learn-co-students/rails-form_for-on-edit-readme-seattle-web-012720)
+  - 
+- [strong-params-basics-seattle-web-012720](https://github.com/learn-co-students/strong-params-basics-seattle-web-012720)
+  - 
+- [rails-form_for-lab-seattle-web-012720](https://github.com/learn-co-students/rails-form_for-lab-seattle-web-012720)
+  - 
+- [rails-activerecord-models-and-rails-readme-online-web-ft-120919](https://github.com/learn-co-students/rails-activerecord-models-and-rails-readme-online-web-ft-120919)
+  - 
+- [rails-activerecord-model-rails-lab-online-web-ft-120919](https://github.com/learn-co-students/rails-activerecord-model-rails-lab-online-web-ft-120919)
+  - 
+- [blingfire](https://github.com/ankane/blingfire)
+  - High speed text tokenization for Ruby
+- [ruby-inheritance-lab-onl01-seng-ft-021020](https://github.com/learn-co-students/ruby-inheritance-lab-onl01-seng-ft-021020)
+  - 
+- [rails-edit-update-action-readme-seattle-web-012720](https://github.com/learn-co-students/rails-edit-update-action-readme-seattle-web-012720)
+  - 
+- [ruby-objects-has-many-through-readme-onl01-seng-ft-021020](https://github.com/learn-co-students/ruby-objects-has-many-through-readme-onl01-seng-ft-021020)
+  - 
+- [rails-form_for-on-edit-readme-austin-web-012720](https://github.com/learn-co-students/rails-form_for-on-edit-readme-austin-web-012720)
+  - 
+- [ruby-oo-object-relationships-banking-lab-nyc-web-021720](https://github.com/learn-co-students/ruby-oo-object-relationships-banking-lab-nyc-web-021720)
+  - 
+- [oo-banking-onl01-seng-ft-021020](https://github.com/learn-co-students/oo-banking-onl01-seng-ft-021020)
+  - 
+- [rails-generators-readme-houston-web-012720](https://github.com/learn-co-students/rails-generators-readme-houston-web-012720)
+  - 
