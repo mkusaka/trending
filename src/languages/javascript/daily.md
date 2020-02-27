@@ -1,51 +1,51 @@
 # javascript
-- [vue](https://github.com/vuejs/vue)
-  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
   - 🛁 Clean Code concepts adapted for JavaScript
-- [node-red](https://github.com/node-red/node-red)
-  - Low-code programming for event-driven applications
-- [expense-tracker-react](https://github.com/bradtraversy/expense-tracker-react)
-  - Simple expense tracker using React hooks & context
-- [Yike](https://github.com/LyonWong/Yike)
-  - 
-- [react-router](https://github.com/ReactTraining/react-router)
-  - Declarative routing for React
-- [Rules](https://github.com/lhie1/Rules)
-  - Rules / 规则：Surge / Shadowrocket / QuantumultX / Clash(X|A)
-- [vxe-table](https://github.com/xuliangzhan/vxe-table)
-  - 🐬 vxe-table vue 表格解决方案
-- [academicpages.github.io](https://github.com/academicpages/academicpages.github.io)
-  - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
-- [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
-  -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [wtfjs](https://github.com/denysdovhan/wtfjs)
+  - A list of funny and tricky JavaScript examples
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
   - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
-  - 📜 33 concepts every JavaScript developer should know.
-- [Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
-  - Signal — Private Messenger for Windows, Mac, and Linux
-- [shadowsocks-manager](https://github.com/shadowsocks/shadowsocks-manager)
-  - A shadowsocks manager tool for multi user and traffic control.
-- [fe-interview](https://github.com/haizlin/fe-interview)
-  - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）
+- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+- [vue](https://github.com/vuejs/vue)
+  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [dribbble2react](https://github.com/react-ui-kit/dribbble2react)
+  - Transform Dribbble designs to React-Native code & YouTube video tutorials
+- [pwnagotchi](https://github.com/evilsocket/pwnagotchi)
+  - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
+- [roborover](https://github.com/sasasavic82/roborover)
+  - Mars Rover
+- [capacita.dev](https://github.com/woliveiras/capacita.dev)
+  - Projeto de capacitação profissional para pessoas de grupos sub-representados e/ou em situação de vulnerabilidade social
+- [jspaint](https://github.com/1j01/jspaint)
+  - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
+- [FRIDA-DEXDump](https://github.com/hluwa/FRIDA-DEXDump)
+  - A simple script to search & dump dex file on memory.
+- [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap)
+  - Roadmap to becoming a React developer in 2019
+- [react-query](https://github.com/tannerlinsley/react-query)
+  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+- [expense-tracker-mern](https://github.com/bradtraversy/expense-tracker-mern)
+  - Full stack expense tracker
+- [vxe-table](https://github.com/xuliangzhan/vxe-table)
+  - 🐬 vxe-table vue 表格解决方案
 - [react](https://github.com/facebook/react)
   - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [AutoPiano](https://github.com/WarpPrism/AutoPiano)
-  - 自由钢琴 🎹 AutoPiano ( https://www.autopiano.cn ) Simple & Elegant Piano Online
-- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
-  - Bypass Paywalls for Chrome
-- [plotly.js](https://github.com/plotly/plotly.js)
-  - Open-source JavaScript charting library behind Plotly and Dash
-- [Chart.js](https://github.com/chartjs/Chart.js)
-  - Simple HTML5 Charts using the <canvas> tag
-- [react-sortable-tree](https://github.com/frontend-collective/react-sortable-tree)
-  - Drag-and-drop sortable component for nested data and hierarchies
-- [strapi-examples](https://github.com/strapi/strapi-examples)
-  - 🎓 List of examples using Strapi
-- [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app)
-  - An exemplary real-world application built with Vue.js, Vuex, axios and different other technologies. This is a good example to discover Vue for beginners.
-- [winston](https://github.com/winstonjs/winston)
-  - A logger for just about everything.
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+  - The https://www.freecodecamp.org open source codebase and curriculum. Learn to code for free together with millions of people.
+- [covid19japan](https://github.com/reustle/covid19japan)
+  - 
+- [uBlock](https://github.com/gorhill/uBlock)
+  - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+- [eui](https://github.com/elastic/eui)
+  - Elastic UI Framework 🙌
+- [simpleParallax.js](https://github.com/geosigno/simpleParallax.js)
+  - Simple and tiny JavaScript library which adds parallax animations on any images
+- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
+  - 🎆Interactive Online Platform that Visualizes Algorithms from Code
+- [react-toastify](https://github.com/fkhadra/react-toastify)
+  - React notification made easy 🚀 !
+- [dash.js](https://github.com/Dash-Industry-Forum/dash.js)
+  - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.

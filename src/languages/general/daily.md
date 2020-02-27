@@ -1,51 +1,51 @@
 # general
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
   - A complete computer science study plan to become a software engineer.
-- [heroicons](https://github.com/refactoringui/heroicons) : 
-  - A set of free MIT-licensed high-quality SVG icons for UI development.
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - labuladong 的算法小抄，总结各种常考算法的套路，助力刷题面试
+- [atm-cli](https://github.com/allthemusicllc/atm-cli) : Rust
+  - Command line tool for generating and working with MIDI files.
+- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
+  - A long list of (advanced) JavaScript questions, and their explanations ✨
+- [awesome](https://github.com/sindresorhus/awesome) : 
+  - 😎 Awesome lists about all kinds of interesting topics
 - [dispatch](https://github.com/Netflix/dispatch) : Python
   - All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
-- [WaykiChain](https://github.com/WaykiChain/WaykiChain) : C++
-  - Public Blockchain as a Decentralized Economy Infrastructure Service Platform
-- [computer-science](https://github.com/ossu/computer-science) : 
-  - 🎓 Path to a free self-taught education in Computer Science!
-- [vue](https://github.com/vuejs/vue) : JavaScript
-  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [nndl.github.io](https://github.com/nndl/nndl.github.io) : HTML
-  - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
-  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [awesome-datascience](https://github.com/academic/awesome-datascience) : 
-  - 📝 An awesome Data Science repository to learn and apply for real world problems.
-- [91Porn-crawler](https://github.com/colikno/91Porn-crawler) : JavaScript
-  - 🌭💦 91porn爬虫在线API接口（永久有效） 及 在线web预览
-- [h4cker](https://github.com/The-Art-of-Hacking/h4cker) : Python
-  - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
-- [dnSpy](https://github.com/0xd4d/dnSpy) : C#
-  - .NET debugger and assembly editor
-- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
-  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [ant-design](https://github.com/ant-design/ant-design) : TypeScript
-  - 🌈 A UI Design Language and React UI library
-- [Signal-Android](https://github.com/signalapp/Signal-Android) : Java
-  - A private messenger for Android.
-- [mall-swarm](https://github.com/macrozheng/mall-swarm) : Java
-  - mall-swarm是一套微服务商城系统，采用了 Spring Cloud Greenwich、Spring Boot 2、MyBatis、Docker、Elasticsearch等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。
-- [tips_for_interview](https://github.com/conanhujinming/tips_for_interview) : 
-  - Some of my thoughts about interview. 我的一些面试心得
-- [ebpf](https://github.com/cilium/ebpf) : Go
-  - eBPF Library for Go
-- [GitCracken](https://github.com/5cr1pt/GitCracken) : TypeScript
-  - Crack GitKraken
-- [pi-hole](https://github.com/pi-hole/pi-hole) : Shell
-  - A black hole for Internet advertisements
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
   - 🛁 Clean Code concepts adapted for JavaScript
-- [virtual-environments](https://github.com/actions/virtual-environments) : PowerShell
-  - GitHub Actions virtual environments
-- [magento2](https://github.com/magento/magento2) : PHP
-  - All Submissions you make to Magento Inc. ("Magento") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, subli…
-- [adet](https://github.com/aim-uofa/adet) : Python
-  - AdelaiDet is an open source toolbox for multiple instance-level detection applications.
-- [destiny](https://github.com/benawad/destiny) : TypeScript
-  - Prettier for File Structures
+- [newscatcher](https://github.com/kotartemiy/newscatcher) : Python
+  - Programmatically collect normalized news from (almost) any website.
+- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
+  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
+- [Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources) : 
+  - This repository contains content which will be helpful in your journey as a front-end Web Developer
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
+  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [wtfjs](https://github.com/denysdovhan/wtfjs) : JavaScript
+  - A list of funny and tricky JavaScript examples
+- [AI_Curriculum](https://github.com/Machine-Learning-Tokyo/AI_Curriculum) : 
+  - Open Deep Learning and Reinforcement Learning lectures from top Universities like Stanford, MIT, UC Berkeley.
+- [snipe-it](https://github.com/snipe/snipe-it) : PHP
+  - A free open source IT asset/license management system
+- [Signal-Android](https://github.com/signalapp/Signal-Android) : Java
+  - A private messenger for Android.
+- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) : 
+  - A list of awesome beginners-friendly projects.
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [heroicons](https://github.com/refactoringui/heroicons) : 
+  - A set of free MIT-licensed high-quality SVG icons for UI development.
+- [computer-science](https://github.com/ossu/computer-science) : 
+  - 🎓 Path to a free self-taught education in Computer Science!
+- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) : JavaScript
+  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+- [vectorbt](https://github.com/polakowo/vectorbt) : Jupyter Notebook
+  - Python library for backtesting and analyzing trading strategies at scale
+- [pix-dict-api](https://github.com/bacen/pix-dict-api) : 
+  - API do DICT - Diretório de Identificadores de Contas Transacionais
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
+  - 📚 Freely available programming books
+- [openpilot](https://github.com/commaai/openpilot) : C++
+  - open source driving agent
+- [vue](https://github.com/vuejs/vue) : JavaScript
+  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
