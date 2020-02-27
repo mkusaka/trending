@@ -1,51 +1,51 @@
 # ruby
 - [metasploit-framework](https://github.com/rapid7/metasploit-framework)
   - Metasploit Framework
-- [rails](https://github.com/rails/rails)
-  - Ruby on Rails
-- [wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader)
-  - Download an entire website from the Wayback Machine.
-- [chatwoot](https://github.com/chatwoot/chatwoot)
-  - Simple and elegant live chat software 🔥💬
-- [wpscan](https://github.com/wpscanteam/wpscan)
-  - WPScan is a free, for non-commercial use, black box WordPress Vulnerability Scanner written for security professionals and blog maintainers to test the security of their WordPress websites.
-- [fq-book](https://github.com/hoochanlon/fq-book)
-  - 📖 《这本书能让你连接互联网》科学上网Freestyle，了解网络基础知识与实践蹭网操作
+- [scientist](https://github.com/github/scientist)
+  - 🔬 A Ruby library for carefully refactoring critical paths.
+- [linguist](https://github.com/github/linguist)
+  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+- [asciidoctor](https://github.com/asciidoctor/asciidoctor)
+  - 💎 A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
 - [discourse](https://github.com/discourse/discourse)
   - A platform for community discussion. Free, open, simple.
-- [chicken_Ser](https://github.com/StevenNunez/chicken_Ser)
+- [canvas-lms](https://github.com/instructure/canvas-lms)
+  - The open LMS by Instructure, Inc.
+- [app-host](https://github.com/pluosi/app-host)
+  - 应用内网发布 | iOS OTA (Over-the-Air) | APP publish website like fir.im | 适用于企业 iOS & Android 内网发布测试使用，方便管理和分发 APP 包
+- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+- [brew](https://github.com/Homebrew/brew)
+  - 🍺 The missing package manager for macOS (or Linux)
+- [chatwoot](https://github.com/chatwoot/chatwoot)
+  - Simple and elegant live chat software 🔥💬
+- [recog](https://github.com/rapid7/recog)
+  - Pattern recognition for hosts, services, and content
+- [nexpose-client](https://github.com/rapid7/nexpose-client)
+  - DEPRECATED: Rapid7 Nexpose API client library written in Ruby
+- [ruby-oo-inheritance-inheritance-lab-nyc-web-021720](https://github.com/learn-co-students/ruby-oo-inheritance-inheritance-lab-nyc-web-021720)
   - 
-- [rails-dynamic-request-readme-online-web-ft-120919](https://github.com/learn-co-students/rails-dynamic-request-readme-online-web-ft-120919)
+- [software-design](https://github.com/kiei451-winter2020/software-design)
   - 
-- [rails-restful-index-action-lab-online-web-ft-120919](https://github.com/learn-co-students/rails-restful-index-action-lab-online-web-ft-120919)
+- [ruby-oo-inheritance-defining-inheritance-nyc-web-021720](https://github.com/learn-co-students/ruby-oo-inheritance-defining-inheritance-nyc-web-021720)
   - 
-- [rails-dynamic-request-lab-online-web-ft-120919](https://github.com/learn-co-students/rails-dynamic-request-lab-online-web-ft-120919)
+- [ruby-oo-inheritance-modules-nyc-web-021720](https://github.com/learn-co-students/ruby-oo-inheritance-modules-nyc-web-021720)
   - 
-- [rails-cru-form_for-lab-nyc-web-012720](https://github.com/learn-co-students/rails-cru-form_for-lab-nyc-web-012720)
+- [Rails-RubberDucking-nyc-web-012720](https://github.com/learn-co-students/Rails-RubberDucking-nyc-web-012720)
   - 
-- [rails-form_for-on-edit-readme-seattle-web-012720](https://github.com/learn-co-students/rails-form_for-on-edit-readme-seattle-web-012720)
+- [mass-assignment-onl01-seng-ft-021020](https://github.com/learn-co-students/mass-assignment-onl01-seng-ft-021020)
   - 
-- [strong-params-basics-seattle-web-012720](https://github.com/learn-co-students/strong-params-basics-seattle-web-012720)
+- [school-domain-onl01-seng-pt-021020](https://github.com/learn-co-students/school-domain-onl01-seng-pt-021020)
   - 
-- [rails-form_for-lab-seattle-web-012720](https://github.com/learn-co-students/rails-form_for-lab-seattle-web-012720)
+- [meterpreter_bins](https://github.com/rapid7/meterpreter_bins)
+  - Meterpreter for Windows and POSIX Meterpreter binaries
+- [ruby-oo-inheritance-super-lab-nyc-web-021720](https://github.com/learn-co-students/ruby-oo-inheritance-super-lab-nyc-web-021720)
   - 
-- [rails-activerecord-models-and-rails-readme-online-web-ft-120919](https://github.com/learn-co-students/rails-activerecord-models-and-rails-readme-online-web-ft-120919)
+- [rails-pg-extras](https://github.com/pawurb/rails-pg-extras)
+  - Rails PostgreSQL database performance insights. Locks, index usage, buffer cache hit ratios, vacuum stats and more.
+- [textbook-curriculum](https://github.com/Ada-Developers-Academy/textbook-curriculum)
+  - Ada Developers Academy Online Curriculum
+- [rails-cru-form_for-lab-seattle-web-012720](https://github.com/learn-co-students/rails-cru-form_for-lab-seattle-web-012720)
   - 
-- [rails-activerecord-model-rails-lab-online-web-ft-120919](https://github.com/learn-co-students/rails-activerecord-model-rails-lab-online-web-ft-120919)
-  - 
-- [blingfire](https://github.com/ankane/blingfire)
-  - High speed text tokenization for Ruby
-- [ruby-inheritance-lab-onl01-seng-ft-021020](https://github.com/learn-co-students/ruby-inheritance-lab-onl01-seng-ft-021020)
-  - 
-- [rails-edit-update-action-readme-seattle-web-012720](https://github.com/learn-co-students/rails-edit-update-action-readme-seattle-web-012720)
-  - 
-- [ruby-objects-has-many-through-readme-onl01-seng-ft-021020](https://github.com/learn-co-students/ruby-objects-has-many-through-readme-onl01-seng-ft-021020)
-  - 
-- [rails-form_for-on-edit-readme-austin-web-012720](https://github.com/learn-co-students/rails-form_for-on-edit-readme-austin-web-012720)
-  - 
-- [ruby-oo-object-relationships-banking-lab-nyc-web-021720](https://github.com/learn-co-students/ruby-oo-object-relationships-banking-lab-nyc-web-021720)
-  - 
-- [oo-banking-onl01-seng-ft-021020](https://github.com/learn-co-students/oo-banking-onl01-seng-ft-021020)
-  - 
-- [rails-generators-readme-houston-web-012720](https://github.com/learn-co-students/rails-generators-readme-houston-web-012720)
+- [rails-form_tag-readme-online-web-ft-120919](https://github.com/learn-co-students/rails-form_tag-readme-online-web-ft-120919)
   - 

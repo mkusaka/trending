@@ -1,51 +1,51 @@
 # c++
-- [WaykiChain](https://github.com/WaykiChain/WaykiChain)
-  - Public Blockchain as a Decentralized Economy Infrastructure Service Platform
-- [apollo](https://github.com/ApolloAuto/apollo)
-  - An open autonomous driving platform
-- [filament](https://github.com/google/filament)
-  - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
-- [Algo_Ds_Notes](https://github.com/jainaman224/Algo_Ds_Notes)
-  - It is a repository that is a collection of algorithms and data structures with implementation in various languages.
-- [llvm-project](https://github.com/llvm/llvm-project)
-  - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
-- [deconz-rest-plugin](https://github.com/dresden-elektronik/deconz-rest-plugin)
-  - REST API Plugin to control ZigBee lights like Philips Hue and dresden elektroniks wireless electronic ballasts
-- [Learning-OpenCV-3_examples](https://github.com/oreillymedia/Learning-OpenCV-3_examples)
-  - 
-- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
-  - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
-- [MNN](https://github.com/alibaba/MNN)
-  - MNN is a lightweight deep neural network inference engine.
 - [openpilot](https://github.com/commaai/openpilot)
   - open source driving agent
-- [Rack](https://github.com/VCVRack/Rack)
-  - Virtual Eurorack DAW
-- [Cpp_houjie](https://github.com/harvestlamb/Cpp_houjie)
-  - 侯捷C++课程PPT及代码
-- [Marlin](https://github.com/MarlinFirmware/Marlin)
-  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
-- [Catch2](https://github.com/catchorg/Catch2)
-  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-- [Osiris](https://github.com/danielkrupinski/Osiris)
-  - Free open-source training software / cheat for Counter-Strike: Global Offensive, written in modern C++. GUI powered by imgui.
-- [2021-Postgraduate-408](https://github.com/hao14293/2021-Postgraduate-408)
-  - 💯✍备考2020年研究生-408
-- [mars](https://github.com/Tencent/mars)
-  - Mars is a cross-platform network component developed by WeChat.
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [nowic](https://github.com/idebtor/nowic)
-  - Data Structure Lecture Notes By idebtor@gmail.com
-- [CVE-2020-0753-and-CVE-2020-0754](https://github.com/afang5472/CVE-2020-0753-and-CVE-2020-0754)
-  - Writeup and POC for CVE-2020-0753, CVE-2020-0754 and six unfixed Window DOS Vulnerabilities.
-- [gnuradio](https://github.com/gnuradio/gnuradio)
-  - GNU Radio – the Free and Open Software Radio Ecosystem
-- [PowerToys](https://github.com/microsoft/PowerToys)
-  - Windows system utilities to maximize productivity
-- [inline_syscall](https://github.com/JustasMasiulis/inline_syscall)
-  - Inline syscalls made easy for windows on clang
-- [WLED](https://github.com/Aircoookie/WLED)
-  - Control WS2812B RGB LEDs with an ESP8266 over WiFi!
-- [async-profiler](https://github.com/jvm-profiling-tools/async-profiler)
-  - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events
+- [neutralinojs](https://github.com/neutralinojs/neutralinojs)
+  - Portable and lightweight cross platform application development framework
+- [swift](https://github.com/apple/swift)
+  - The Swift Programming Language
+- [LeetCode](https://github.com/Jack-Cherish/LeetCode)
+  - 🐒LeetCode、剑指Offer刷题笔记（C/C++、Python3实现）
+- [v8](https://github.com/v8/v8)
+  - The official mirror of the V8 Git repository
+- [kdmp-parser](https://github.com/0vercl0k/kdmp-parser)
+  - Windows kernel dump C++ parser
+- [SHADERed](https://github.com/dfranx/SHADERed)
+  - Lightweight, cross-platform & full-featured desktop IDE for HLSL and GLSL shaders
+- [pytorch-cpp](https://github.com/prabhuomkar/pytorch-cpp)
+  - C++ Implementation of PyTorch Tutorial for Deep Learning Researchers
+- [WaykiChain](https://github.com/WaykiChain/WaykiChain)
+  - Public Blockchain as a Decentralized Economy Infrastructure Service Platform
+- [media-server](https://github.com/medooze/media-server)
+  - WebRTC Media Server
+- [googletest](https://github.com/google/googletest)
+  - Googletest - Google Testing and Mocking Framework
+- [polybar](https://github.com/polybar/polybar)
+  - A fast and easy-to-use status bar
+- [handy](https://github.com/yedf/handy)
+  - 简洁易用的C++11网络库 / 支持单机千万并发连接 / a simple C++11 network server framework
+- [tcmalloc](https://github.com/google/tcmalloc)
+  - 
+- [ninja](https://github.com/ninja-build/ninja)
+  - a small build system with a focus on speed
+- [react-native-windows](https://github.com/microsoft/react-native-windows)
+  - A framework for building native Windows apps with React.
+- [faust](https://github.com/grame-cncm/faust)
+  - Functional programming language for signal processing and sound synthesis
+- [osrm-backend](https://github.com/Project-OSRM/osrm-backend)
+  - Open Source Routing Machine - C++ backend
+- [catboost](https://github.com/catboost/catboost)
+  - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
+- [openvslam](https://github.com/xdspacelab/openvslam)
+  - OpenVSLAM: A Versatile Visual SLAM Framework
+- [emscripten](https://github.com/emscripten-core/emscripten)
+  - Emscripten: An LLVM-to-Web Compiler
+- [navicat-keygen](https://github.com/kervin521/navicat-keygen)
+  - 
+- [xenia](https://github.com/xenia-project/xenia)
+  - Xbox 360 Emulator Research Project
+- [phantomjs](https://github.com/ariya/phantomjs)
+  - Scriptable Headless Browser
+- [AI4Animation](https://github.com/sebastianstarke/AI4Animation)
+  - Bringing Characters to Life with Computer Brains in Unity

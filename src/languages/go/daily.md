@@ -1,51 +1,51 @@
 # go
-- [ebpf](https://github.com/cilium/ebpf)
-  - eBPF Library for Go
-- [influxdb](https://github.com/influxdata/influxdb)
-  - Scalable datastore for metrics, events, and real-time analytics
 - [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
   - Terraform AWS provider
-- [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm)
-  - Terraform provider for Azure Resource Manager
-- [lazygit](https://github.com/jesseduffield/lazygit)
-  - simple terminal UI for git commands
-- [go](https://github.com/golang/go)
-  - The Go programming language
-- [pipeline](https://github.com/tektoncd/pipeline)
-  - A K8s-native Pipeline resource.
-- [act](https://github.com/nektos/act)
-  - Run your GitHub Actions locally
-- [enhancements](https://github.com/kubernetes/enhancements)
-  - Features tracking repo for Kubernetes releases
-- [awesome-go](https://github.com/avelino/awesome-go)
-  - A curated list of awesome Go frameworks, libraries and software
-- [ffuf](https://github.com/ffuf/ffuf)
-  - Fast web fuzzer written in Go
-- [sample-controller](https://github.com/kubernetes/sample-controller)
-  - Repository for sample controller. Complements sample-apiserver
-- [go-under-the-hood](https://github.com/changkun/go-under-the-hood)
-  - 📚 Go Under The Hood: A Source Code Study of Go (1.14, WIP)
-- [domain-list-community](https://github.com/v2ray/domain-list-community)
-  - Community managed domain list
-- [docker_practice](https://github.com/yeasy/docker_practice)
-  - Learn and understand Docker technologies, with real DevOps practice!
+- [keda](https://github.com/kedacore/keda)
+  - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+- [ebpf](https://github.com/cilium/ebpf)
+  - eBPF Library for Go
 - [charts](https://github.com/helm/charts)
   - Curated applications for Kubernetes
-- [stolon](https://github.com/sorintlab/stolon)
-  - PostgreSQL cloud native High Availability and more.
-- [kubernetes](https://github.com/kubernetes/kubernetes)
-  - Production-Grade Container Scheduling and Management
-- [istio](https://github.com/istio/istio)
-  - Connect, secure, control, and observe services.
-- [dapr](https://github.com/dapr/dapr)
-  - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-- [aws-sdk-go](https://github.com/aws/aws-sdk-go)
-  - AWS SDK for the Go programming language.
-- [v2ray-web-manager](https://github.com/master-coder-ll/v2ray-web-manager)
-  - v2ray-web-manager 是一个tls+ws+v2ray 一端口多用户解决方案同时增加了流量控制/账号管理/限速等功能。key word: v2ray admin , v2ray pannel ,v2ray web
-- [nvm-windows](https://github.com/coreybutler/nvm-windows)
-  - A node.js version management utility for Windows. Ironically written in Go.
+- [cockroach](https://github.com/cockroachdb/cockroach)
+  - CockroachDB - the open source, cloud-native SQL database.
+- [node_exporter](https://github.com/prometheus/node_exporter)
+  - Exporter for machine metrics
+- [minio](https://github.com/minio/minio)
+  - MinIO is a high performance object storage server compatible with Amazon S3 APIs
+- [libpod](https://github.com/containers/libpod)
+  - libpod is a library used to create container pods. Home of Podman.
+- [terraform](https://github.com/hashicorp/terraform)
+  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [shox](https://github.com/liamg/shox)
+  - 🍫 A customisable, universally compatible terminal status bar
+- [community](https://github.com/kubernetes/community)
+  - Kubernetes community content
 - [go-clean-arch](https://github.com/bxcodec/go-clean-arch)
   - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
-- [distribution](https://github.com/docker/distribution)
-  - The Docker toolset to pack, ship, store, and deliver content
+- [go](https://github.com/golang/go)
+  - The Go programming language
+- [kubevirt](https://github.com/kubevirt/kubevirt)
+  - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
+- [docker_practice](https://github.com/yeasy/docker_practice)
+  - Learn and understand Docker technologies, with real DevOps practice!
+- [kubernetes](https://github.com/kubernetes/kubernetes)
+  - Production-Grade Container Scheduling and Management
+- [geacon](https://github.com/darkr4y/geacon)
+  - Practice Go programming and implement CobaltStrike's Beacon in Go
+- [kubectl](https://github.com/kubernetes/kubectl)
+  - Issue tracker and mirror of kubectl code
+- [gopherjs](https://github.com/gopherjs/gopherjs)
+  - A compiler from Go to JavaScript for running Go code in a browser
+- [lazygit](https://github.com/jesseduffield/lazygit)
+  - simple terminal UI for git commands
+- [syncthing](https://github.com/syncthing/syncthing)
+  - Open Source Continuous File Synchronization
+- [kustomize](https://github.com/kubernetes-sigs/kustomize)
+  - Customization of kubernetes YAML configurations
+- [gnet](https://github.com/panjf2000/gnet)
+  - 🚀gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
+- [packer](https://github.com/hashicorp/packer)
+  - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+- [ent](https://github.com/facebookincubator/ent)
+  - An entity framework for Go

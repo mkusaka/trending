@@ -3,49 +3,49 @@
   - Command line tool for generating and working with MIDI files.
 - [spotify-tui](https://github.com/Rigellute/spotify-tui)
   - Spotify for the terminal written in Rust 🚀
-- [nats.rs](https://github.com/nats-io/nats.rs)
-  - Rust client for NATS, the cloud native messaging system.
-- [bastion](https://github.com/bastion-rs/bastion)
-  - Highly-available Distributed Fault-tolerant Runtime
-- [open-ethereum](https://github.com/OpenEthereum/open-ethereum)
-  - The fast, light, and robust client for Ethereum-like networks.
-- [bat](https://github.com/sharkdp/bat)
-  - A cat(1) clone with wings.
-- [quiche](https://github.com/cloudflare/quiche)
-  - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
-- [grapl](https://github.com/insanitybit/grapl)
-  - Graph platform for Detection and Response
-- [wgpu](https://github.com/gfx-rs/wgpu)
-  - Native WebGPU implementation based on gfx-hal
-- [bracket-lib](https://github.com/thebracket/bracket-lib)
-  - The Roguelike Toolkit (RLTK), implemented for Rust.
-- [ripgrep](https://github.com/BurntSushi/ripgrep)
-  - ripgrep recursively searches directories for a regex pattern
-- [sonic](https://github.com/valeriansaliou/sonic)
-  - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
-- [rustlings](https://github.com/rust-lang/rustlings)
-  - Small exercises to get you used to reading and writing Rust code!
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
-- [examples](https://github.com/actix/examples)
-  - Actix web examples
-- [tremor-runtime](https://github.com/wayfair-tremor/tremor-runtime)
-  - Main Tremor Project Rust Codebase
-- [mincodec](https://github.com/noocene/mincodec)
-  - efficient compact untagged streaming format using unaligned bitstreams
 - [exa](https://github.com/ogham/exa)
   - A modern version of ‘ls’.
-- [ytop](https://github.com/cjbassi/ytop)
-  - A TUI system monitor written in Rust
-- [actix_tutorials](https://github.com/thecloudmaker/actix_tutorials)
-  - Actix tutorials
-- [hyperfine](https://github.com/sharkdp/hyperfine)
-  - A command-line benchmarking tool
-- [paseto](https://github.com/instructure/paseto)
-  - A paseto implementation in rust.
+- [awesome-static-analysis](https://github.com/mre/awesome-static-analysis)
+  - Static analysis tools for all programming languages
+- [weld](https://github.com/weld-project/weld)
+  - High-performance runtime for data analytics applications
+- [996.ICU](https://github.com/996icu/996.ICU)
+  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [wasmtime](https://github.com/bytecodealliance/wasmtime)
+  - Standalone JIT-style runtime for WebAssembly, using Cranelift
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
+- [clap](https://github.com/clap-rs/clap)
+  - A full featured, fast Command Line Argument Parser for Rust
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [surf](https://github.com/http-rs/surf)
+  - Surf the web – HTTP client framework
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
+- [nats.rs](https://github.com/nats-io/nats.rs)
+  - Rust client for NATS, the cloud native messaging system.
+- [tremor-runtime](https://github.com/wayfair-tremor/tremor-runtime)
+  - Main Tremor Project Rust Codebase
 - [pastel](https://github.com/sharkdp/pastel)
   - A command-line tool to generate, analyze, convert and manipulate colors
-- [hexyl](https://github.com/sharkdp/hexyl)
-  - A command-line hex viewer
+- [http-types](https://github.com/http-rs/http-types)
+  - Common types for HTTP operations
+- [heim](https://github.com/heim-rs/heim)
+  - Cross-platform async library for system information fetching 🦀
+- [dali](https://github.com/olxgroup-oss/dali)
+  - An image processor service
+- [rustfmt](https://github.com/rust-lang/rustfmt)
+  - Format Rust code
+- [rust-blockchain](https://github.com/lalotai/rust-blockchain)
+  - A simple proof-of-work blockchain written in Rust 🦀
 - [libatm](https://github.com/allthemusicllc/libatm)
   - Library for generating and working with MIDI files
+- [paseto](https://github.com/instructure/paseto)
+  - A paseto implementation in rust.
+- [mincodec](https://github.com/noocene/mincodec)
+  - efficient compact untagged streaming format using unaligned bitstreams
+- [veriform](https://github.com/iqlusioninc/veriform)
+  - Security-oriented protobuf-like serialization format with "Merkleized" content hashing support
+- [superluminal-perf-rs](https://github.com/EmbarkStudios/superluminal-perf-rs)
+  - 🔆Superluminal Performance profiler Rust API 🦀
