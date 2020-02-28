@@ -1,51 +1,51 @@
 # general
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
+- [rome](https://github.com/facebookexperimental/rome) : TypeScript
+  - An experimental JavaScript toolchain
+- [ElysiumMall](https://github.com/JackZhu426/ElysiumMall) : Java
+  - My Own Online Mall Project Using SpringBoot
+- [pearProject](https://github.com/a54552239/pearProject) : Vue
+  - pear，梨子，轻量级的在线项目/任务协作系统，远程办公协作
+- [kbone-ui](https://github.com/wechat-miniprogram/kbone-ui) : Vue
+  - kbone-ui 是一套能同时支持 小程序(kbone) 和 vue 框架开发的多端 UI 库
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
-  - labuladong 的算法小抄，总结各种常考算法的套路，助力刷题面试
-- [atm-cli](https://github.com/allthemusicllc/atm-cli) : Rust
-  - Command line tool for generating and working with MIDI files.
-- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
-  - A long list of (advanced) JavaScript questions, and their explanations ✨
-- [awesome](https://github.com/sindresorhus/awesome) : 
-  - 😎 Awesome lists about all kinds of interesting topics
-- [dispatch](https://github.com/Netflix/dispatch) : Python
-  - All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [newscatcher](https://github.com/kotartemiy/newscatcher) : Python
-  - Programmatically collect normalized news from (almost) any website.
+  - labuladong的算法小抄，手把手撕LeetCode题目，扒各种算法套路的裤子，不仅how，还有why。
 - [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
   - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources) : 
-  - This repository contains content which will be helpful in your journey as a front-end Web Developer
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
-  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [wtfjs](https://github.com/denysdovhan/wtfjs) : JavaScript
-  - A list of funny and tricky JavaScript examples
-- [AI_Curriculum](https://github.com/Machine-Learning-Tokyo/AI_Curriculum) : 
-  - Open Deep Learning and Reinforcement Learning lectures from top Universities like Stanford, MIT, UC Berkeley.
-- [snipe-it](https://github.com/snipe/snipe-it) : PHP
-  - A free open source IT asset/license management system
-- [Signal-Android](https://github.com/signalapp/Signal-Android) : Java
-  - A private messenger for Android.
-- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) : 
-  - A list of awesome beginners-friendly projects.
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [heroicons](https://github.com/refactoringui/heroicons) : 
-  - A set of free MIT-licensed high-quality SVG icons for UI development.
-- [computer-science](https://github.com/ossu/computer-science) : 
-  - 🎓 Path to a free self-taught education in Computer Science!
+- [akshare](https://github.com/jindaxiang/akshare) : Python
+  - AkShare is an elegant and simple financial data interface library for Python, built for human beings!
+- [atm-cli](https://github.com/allthemusicllc/atm-cli) : Rust
+  - Command line tool for generating and working with MIDI files.
+- [kbone](https://github.com/Tencent/kbone) : JavaScript
+  - 一个致力于微信小程序和 Web 端同构的解决方案
+- [trax](https://github.com/google/trax) : Python
+  - Trax — your path to advanced deep learning
+- [PIFu](https://github.com/shunsukesaito/PIFu) : Python
+  - This repository contains the code for the paper "PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization"
+- [nanopi-openwrt](https://github.com/klever1988/nanopi-openwrt) : Shell
+  - nanopi r1s r2s固件编译
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
+  - A long list of (advanced) JavaScript questions, and their explanations ✨
+- [helium](https://github.com/mherrmann/helium) : Python
+  - Selenium-python, 50% easier. Helium is the best Python library for web automation.
+- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) : JavaScript
+  - 🎆Interactive Online Platform that Visualizes Algorithms from Code
+- [gitignore](https://github.com/github/gitignore) : 
+  - A collection of useful .gitignore templates
+- [go-under-the-hood](https://github.com/changkun/go-under-the-hood) : Go
+  - 📚 Go Under The Hood: A Source Code Study of Go (1.14, WIP)
+- [nest](https://github.com/nestjs/nest) : TypeScript
+  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [graphql-engine](https://github.com/hasura/graphql-engine) : JavaScript
+  - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+- [nuxt.js](https://github.com/nuxt/nuxt.js) : JavaScript
+  - The Vue.js Framework
 - [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) : JavaScript
   - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
-- [vectorbt](https://github.com/polakowo/vectorbt) : Jupyter Notebook
-  - Python library for backtesting and analyzing trading strategies at scale
-- [pix-dict-api](https://github.com/bacen/pix-dict-api) : 
-  - API do DICT - Diretório de Identificadores de Contas Transacionais
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [openpilot](https://github.com/commaai/openpilot) : C++
-  - open source driving agent
-- [vue](https://github.com/vuejs/vue) : JavaScript
-  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [python-guide](https://github.com/realpython/python-guide) : Batchfile
+  - Python best practices guidebook, written for humans.
+- [wtfjs](https://github.com/denysdovhan/wtfjs) : JavaScript
+  - A list of funny and tricky JavaScript examples
+- [Signal-Android](https://github.com/signalapp/Signal-Android) : Java
+  - A private messenger for Android.

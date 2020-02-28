@@ -1,51 +1,51 @@
 # c++
-- [openpilot](https://github.com/commaai/openpilot)
-  - open source driving agent
-- [neutralinojs](https://github.com/neutralinojs/neutralinojs)
-  - Portable and lightweight cross platform application development framework
-- [swift](https://github.com/apple/swift)
-  - The Swift Programming Language
-- [LeetCode](https://github.com/Jack-Cherish/LeetCode)
-  - 🐒LeetCode、剑指Offer刷题笔记（C/C++、Python3实现）
-- [v8](https://github.com/v8/v8)
-  - The official mirror of the V8 Git repository
-- [kdmp-parser](https://github.com/0vercl0k/kdmp-parser)
-  - Windows kernel dump C++ parser
+- [openalpr](https://github.com/openalpr/openalpr)
+  - Automatic License Plate Recognition library
 - [SHADERed](https://github.com/dfranx/SHADERed)
   - Lightweight, cross-platform & full-featured desktop IDE for HLSL and GLSL shaders
-- [pytorch-cpp](https://github.com/prabhuomkar/pytorch-cpp)
-  - C++ Implementation of PyTorch Tutorial for Deep Learning Researchers
-- [WaykiChain](https://github.com/WaykiChain/WaykiChain)
-  - Public Blockchain as a Decentralized Economy Infrastructure Service Platform
-- [media-server](https://github.com/medooze/media-server)
-  - WebRTC Media Server
-- [googletest](https://github.com/google/googletest)
-  - Googletest - Google Testing and Mocking Framework
-- [polybar](https://github.com/polybar/polybar)
-  - A fast and easy-to-use status bar
-- [handy](https://github.com/yedf/handy)
-  - 简洁易用的C++11网络库 / 支持单机千万并发连接 / a simple C++11 network server framework
 - [tcmalloc](https://github.com/google/tcmalloc)
   - 
-- [ninja](https://github.com/ninja-build/ninja)
-  - a small build system with a focus on speed
-- [react-native-windows](https://github.com/microsoft/react-native-windows)
-  - A framework for building native Windows apps with React.
-- [faust](https://github.com/grame-cncm/faust)
-  - Functional programming language for signal processing and sound synthesis
-- [osrm-backend](https://github.com/Project-OSRM/osrm-backend)
-  - Open Source Routing Machine - C++ backend
-- [catboost](https://github.com/catboost/catboost)
-  - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
-- [openvslam](https://github.com/xdspacelab/openvslam)
-  - OpenVSLAM: A Versatile Visual SLAM Framework
-- [emscripten](https://github.com/emscripten-core/emscripten)
-  - Emscripten: An LLVM-to-Web Compiler
-- [navicat-keygen](https://github.com/kervin521/navicat-keygen)
-  - 
-- [xenia](https://github.com/xenia-project/xenia)
-  - Xbox 360 Emulator Research Project
-- [phantomjs](https://github.com/ariya/phantomjs)
-  - Scriptable Headless Browser
+- [godot](https://github.com/godotengine/godot)
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [Meshtastic-esp32](https://github.com/geeksville/Meshtastic-esp32)
+  - Device code for the Meshtastic ski/hike/fly/Signal-chat GPS radio
+- [openpilot](https://github.com/commaai/openpilot)
+  - open source driving agent
+- [v8](https://github.com/v8/v8)
+  - The official mirror of the V8 Git repository
+- [notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)
+  - Notepad++ official repository
+- [node-sass](https://github.com/sass/node-sass)
+  - 🌈 Node.js bindings to libsass
 - [AI4Animation](https://github.com/sebastianstarke/AI4Animation)
   - Bringing Characters to Life with Computer Brains in Unity
+- [opencv](https://github.com/opencv/opencv)
+  - Open Source Computer Vision Library
+- [tinyxml2](https://github.com/leethomason/tinyxml2)
+  - TinyXML2 is a simple, small, efficient, C++ XML parser that can be easily integrated into other programs.
+- [ngraph](https://github.com/NervanaSystems/ngraph)
+  - nGraph - open source C++ library, compiler and runtime for Deep Learning
+- [faiss](https://github.com/facebookresearch/faiss)
+  - A library for efficient similarity search and clustering of dense vectors.
+- [pywin32](https://github.com/mhammond/pywin32)
+  - Python for Windows (pywin32) Extensions
+- [AirSim](https://github.com/microsoft/AirSim)
+  - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
+- [electron](https://github.com/electron/electron)
+  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [annoy](https://github.com/spotify/annoy)
+  - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
+- [Osiris](https://github.com/danielkrupinski/Osiris)
+  - Free open-source training software / cheat for Counter-Strike: Global Offensive, written in modern C++. GUI powered by imgui.
+- [DALI](https://github.com/NVIDIA/DALI)
+  - A library containing both highly optimized building blocks and an execution engine for data pre-processing in deep learning applications
+- [CodingInterviews](https://github.com/gatieme/CodingInterviews)
+  - 剑指Offer——名企面试官精讲典型编程题
+- [mars](https://github.com/Tencent/mars)
+  - Mars is a cross-platform network component developed by WeChat.
+- [Tasmota](https://github.com/arendst/Tasmota)
+  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
+- [box2d](https://github.com/erincatto/box2d)
+  - Box2D is a 2D physics engine for games
+- [dnscat2](https://github.com/iagox86/dnscat2)
+  - 
