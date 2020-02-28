@@ -1,51 +1,51 @@
 # javascript
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [wtfjs](https://github.com/denysdovhan/wtfjs)
-  - A list of funny and tricky JavaScript examples
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
-  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
-- [vue](https://github.com/vuejs/vue)
-  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [dribbble2react](https://github.com/react-ui-kit/dribbble2react)
-  - Transform Dribbble designs to React-Native code & YouTube video tutorials
-- [pwnagotchi](https://github.com/evilsocket/pwnagotchi)
-  - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
-- [roborover](https://github.com/sasasavic82/roborover)
-  - Mars Rover
-- [capacita.dev](https://github.com/woliveiras/capacita.dev)
-  - Projeto de capacitação profissional para pessoas de grupos sub-representados e/ou em situação de vulnerabilidade social
-- [jspaint](https://github.com/1j01/jspaint)
-  - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
-- [FRIDA-DEXDump](https://github.com/hluwa/FRIDA-DEXDump)
-  - A simple script to search & dump dex file on memory.
-- [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap)
-  - Roadmap to becoming a React developer in 2019
-- [react-query](https://github.com/tannerlinsley/react-query)
-  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
-- [expense-tracker-mern](https://github.com/bradtraversy/expense-tracker-mern)
-  - Full stack expense tracker
-- [vxe-table](https://github.com/xuliangzhan/vxe-table)
-  - 🐬 vxe-table vue 表格解决方案
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-  - The https://www.freecodecamp.org open source codebase and curriculum. Learn to code for free together with millions of people.
-- [covid19japan](https://github.com/reustle/covid19japan)
-  - 
-- [uBlock](https://github.com/gorhill/uBlock)
-  - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-- [eui](https://github.com/elastic/eui)
-  - Elastic UI Framework 🙌
-- [simpleParallax.js](https://github.com/geosigno/simpleParallax.js)
-  - Simple and tiny JavaScript library which adds parallax animations on any images
+- [kbone](https://github.com/Tencent/kbone)
+  - 一个致力于微信小程序和 Web 端同构的解决方案
 - [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
   - 🎆Interactive Online Platform that Visualizes Algorithms from Code
-- [react-toastify](https://github.com/fkhadra/react-toastify)
-  - React notification made easy 🚀 !
-- [dash.js](https://github.com/Dash-Industry-Forum/dash.js)
-  - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
+- [graphql-engine](https://github.com/hasura/graphql-engine)
+  - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+- [nuxt.js](https://github.com/nuxt/nuxt.js)
+  - The Vue.js Framework
+- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+- [wtfjs](https://github.com/denysdovhan/wtfjs)
+  - A list of funny and tricky JavaScript examples
+- [react-query](https://github.com/tannerlinsley/react-query)
+  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+- [vue](https://github.com/vuejs/vue)
+  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [fraidycat](https://github.com/kickscondor/fraidycat)
+  - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
+  - A WhatsApp API client that connects through the WhatsApp Web browser app
+- [awx](https://github.com/ansible/awx)
+  - AWX Project
+- [Motrix](https://github.com/agalwood/Motrix)
+  - A full-featured download manager.
+- [nCovMemory](https://github.com/2019ncovmemory/nCovMemory)
+  - 2020新冠肺炎记忆：报道、非虚构与个人叙述（持续更新） Memory of 2020 nCoV: Media Coverage, Non-fiction Writings, and Individual Narratives (Continuously updating)
+- [reactjs.org](https://github.com/reactjs/reactjs.org)
+  - The React documentation website
+- [node-postgres](https://github.com/brianc/node-postgres)
+  - PostgreSQL client for node.js.
+- [enzyme](https://github.com/enzymejs/enzyme)
+  - JavaScript Testing utilities for React
+- [amphtml](https://github.com/ampproject/amphtml)
+  - The AMP web component framework.
+- [WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
+  - Play with fluids in your browser (works even on mobile)
+- [js-docs](https://github.com/LeonardoCesca/js-docs)
+  - Este projeto foi desenvolvido para contribuir com o open-source. Se você quiser contribuir basta seguir o README
+- [FRIDA-DEXDump](https://github.com/hluwa/FRIDA-DEXDump)
+  - A simple script to search & dump dex file on memory.
+- [react-chartjs-2](https://github.com/jerairrest/react-chartjs-2)
+  - React wrapper for Chart.js
+- [travel-log](https://github.com/CodingGarden/travel-log)
+  - A full stack application to store / list places you have traveled.
+- [tracking.js](https://github.com/eduardolundgren/tracking.js)
+  - A modern approach for Computer Vision on the web
+- [nuclear](https://github.com/nukeop/nuclear)
+  - User freedom-oriented streaming music player - welcoming to new contributors

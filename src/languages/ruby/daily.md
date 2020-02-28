@@ -1,51 +1,51 @@
 # ruby
-- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
-  - Metasploit Framework
-- [scientist](https://github.com/github/scientist)
-  - 🔬 A Ruby library for carefully refactoring critical paths.
-- [linguist](https://github.com/github/linguist)
-  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-- [asciidoctor](https://github.com/asciidoctor/asciidoctor)
-  - 💎 A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
-- [discourse](https://github.com/discourse/discourse)
-  - A platform for community discussion. Free, open, simple.
-- [canvas-lms](https://github.com/instructure/canvas-lms)
-  - The open LMS by Instructure, Inc.
-- [app-host](https://github.com/pluosi/app-host)
-  - 应用内网发布 | iOS OTA (Over-the-Air) | APP publish website like fir.im | 适用于企业 iOS & Android 内网发布测试使用，方便管理和分发 APP 包
-- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-- [brew](https://github.com/Homebrew/brew)
-  - 🍺 The missing package manager for macOS (or Linux)
-- [chatwoot](https://github.com/chatwoot/chatwoot)
-  - Simple and elegant live chat software 🔥💬
-- [recog](https://github.com/rapid7/recog)
-  - Pattern recognition for hosts, services, and content
-- [nexpose-client](https://github.com/rapid7/nexpose-client)
-  - DEPRECATED: Rapid7 Nexpose API client library written in Ruby
-- [ruby-oo-inheritance-inheritance-lab-nyc-web-021720](https://github.com/learn-co-students/ruby-oo-inheritance-inheritance-lab-nyc-web-021720)
+- [homebrew-core](https://github.com/Homebrew/homebrew-core)
+  - 🍻 Default formulae for the missing package manager for macOS
+- [spree](https://github.com/spree/spree)
+  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
+- [mastodon](https://github.com/tootsuite/mastodon)
+  - Your self-hosted, globally interconnected microblogging community
+- [fastlane](https://github.com/fastlane/fastlane)
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [huginn](https://github.com/huginn/huginn)
+  - Create agents that monitor and act on your behalf. Your agents are standing by!
+- [styles](https://github.com/citation-style-language/styles)
+  - Official repository for Citation Style Language (CSL) citation styles.
+- [guides](https://github.com/thoughtbot/guides)
+  - A guide for programming in style.
+- [ISO-3166-Countries-with-Regional-Codes](https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes)
+  - ISO 3166-1 country lists merged with their UN Geoscheme regional codes in ready-to-use JSON, XML, CSV data sets
+- [faker](https://github.com/faker-ruby/faker)
+  - A library for generating fake data such as names, addresses, and phone numbers.
+- [wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader)
+  - Download an entire website from the Wayback Machine.
+- [actionview-component](https://github.com/github/actionview-component)
+  - View components for Rails
+- [sql-organizing-bears-lab-nyc-web-021720](https://github.com/learn-co-students/sql-organizing-bears-lab-nyc-web-021720)
   - 
-- [software-design](https://github.com/kiei451-winter2020/software-design)
+- [rails-create-action-readme-online-web-ft-120919](https://github.com/learn-co-students/rails-create-action-readme-online-web-ft-120919)
   - 
-- [ruby-oo-inheritance-defining-inheritance-nyc-web-021720](https://github.com/learn-co-students/ruby-oo-inheritance-defining-inheritance-nyc-web-021720)
+- [rails-create-action-lab-online-web-ft-120919](https://github.com/learn-co-students/rails-create-action-lab-online-web-ft-120919)
   - 
-- [ruby-oo-inheritance-modules-nyc-web-021720](https://github.com/learn-co-students/ruby-oo-inheritance-modules-nyc-web-021720)
+- [rails-index-show-new-create-lab-online-web-ft-120919](https://github.com/learn-co-students/rails-index-show-new-create-lab-online-web-ft-120919)
   - 
-- [Rails-RubberDucking-nyc-web-012720](https://github.com/learn-co-students/Rails-RubberDucking-nyc-web-012720)
+- [dunder-mifflin-rails-review-seattle-web-012720](https://github.com/learn-co-students/dunder-mifflin-rails-review-seattle-web-012720)
   - 
-- [mass-assignment-onl01-seng-ft-021020](https://github.com/learn-co-students/mass-assignment-onl01-seng-ft-021020)
+- [ruby-metaprogramming-mass-assignment-lab-nyc-web-021720](https://github.com/learn-co-students/ruby-metaprogramming-mass-assignment-lab-nyc-web-021720)
   - 
-- [school-domain-onl01-seng-pt-021020](https://github.com/learn-co-students/school-domain-onl01-seng-pt-021020)
+- [scraping-flatiron-code-along-onl01-seng-ft-021020](https://github.com/learn-co-students/scraping-flatiron-code-along-onl01-seng-ft-021020)
   - 
-- [meterpreter_bins](https://github.com/rapid7/meterpreter_bins)
-  - Meterpreter for Windows and POSIX Meterpreter binaries
-- [ruby-oo-inheritance-super-lab-nyc-web-021720](https://github.com/learn-co-students/ruby-oo-inheritance-super-lab-nyc-web-021720)
+- [rails-edit-update-action-readme-online-web-ft-120919](https://github.com/learn-co-students/rails-edit-update-action-readme-online-web-ft-120919)
   - 
-- [rails-pg-extras](https://github.com/pawurb/rails-pg-extras)
-  - Rails PostgreSQL database performance insights. Locks, index usage, buffer cache hit ratios, vacuum stats and more.
-- [textbook-curriculum](https://github.com/Ada-Developers-Academy/textbook-curriculum)
-  - Ada Developers Academy Online Curriculum
-- [rails-cru-form_for-lab-seattle-web-012720](https://github.com/learn-co-students/rails-cru-form_for-lab-seattle-web-012720)
+- [ruby-class-variables-and-class-methods-lab-onl01-seng-pt-021020](https://github.com/learn-co-students/ruby-class-variables-and-class-methods-lab-onl01-seng-pt-021020)
   - 
-- [rails-form_tag-readme-online-web-ft-120919](https://github.com/learn-co-students/rails-form_tag-readme-online-web-ft-120919)
+- [videos-pt.br-tecnologia](https://github.com/carolcodes/videos-pt.br-tecnologia)
+  - Repositório de canais no Youtube BR sobre desenvolvimento
+- [appsrv021](https://github.com/JPouwiel/appsrv021)
   - 
+- [takeaway-challenge](https://github.com/makersacademy/takeaway-challenge)
+  - Use the Twilio Gem to order food
+- [Rails-Practice-Code-Challenge-Travelatr-nyc-web-012720](https://github.com/learn-co-students/Rails-Practice-Code-Challenge-Travelatr-nyc-web-012720)
+  - 
+- [better_errors](https://github.com/BetterErrors/better_errors)
+  - Better error page for Rack apps

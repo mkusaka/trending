@@ -1,51 +1,51 @@
 # rust
 - [atm-cli](https://github.com/allthemusicllc/atm-cli)
   - Command line tool for generating and working with MIDI files.
-- [spotify-tui](https://github.com/Rigellute/spotify-tui)
-  - Spotify for the terminal written in Rust 🚀
-- [exa](https://github.com/ogham/exa)
-  - A modern version of ‘ls’.
-- [awesome-static-analysis](https://github.com/mre/awesome-static-analysis)
-  - Static analysis tools for all programming languages
-- [weld](https://github.com/weld-project/weld)
-  - High-performance runtime for data analytics applications
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [wasmtime](https://github.com/bytecodealliance/wasmtime)
-  - Standalone JIT-style runtime for WebAssembly, using Cranelift
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
-  - Unofficial Bitwarden compatible server written in Rust
-- [surf](https://github.com/http-rs/surf)
-  - Surf the web – HTTP client framework
-- [bat](https://github.com/sharkdp/bat)
-  - A cat(1) clone with wings.
-- [nats.rs](https://github.com/nats-io/nats.rs)
-  - Rust client for NATS, the cloud native messaging system.
-- [tremor-runtime](https://github.com/wayfair-tremor/tremor-runtime)
-  - Main Tremor Project Rust Codebase
-- [pastel](https://github.com/sharkdp/pastel)
-  - A command-line tool to generate, analyze, convert and manipulate colors
-- [http-types](https://github.com/http-rs/http-types)
-  - Common types for HTTP operations
-- [heim](https://github.com/heim-rs/heim)
-  - Cross-platform async library for system information fetching 🦀
-- [dali](https://github.com/olxgroup-oss/dali)
-  - An image processor service
-- [rustfmt](https://github.com/rust-lang/rustfmt)
-  - Format Rust code
-- [rust-blockchain](https://github.com/lalotai/rust-blockchain)
-  - A simple proof-of-work blockchain written in Rust 🦀
+- [swc](https://github.com/swc-project/swc)
+  - Super-fast typescript / javascript compiler written in rust
+- [jsonwebtoken](https://github.com/Keats/jsonwebtoken)
+  - JWT lib in rust
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
 - [libatm](https://github.com/allthemusicllc/libatm)
   - Library for generating and working with MIDI files
-- [paseto](https://github.com/instructure/paseto)
-  - A paseto implementation in rust.
-- [mincodec](https://github.com/noocene/mincodec)
-  - efficient compact untagged streaming format using unaligned bitstreams
-- [veriform](https://github.com/iqlusioninc/veriform)
-  - Security-oriented protobuf-like serialization format with "Merkleized" content hashing support
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [tikv](https://github.com/tikv/tikv)
+  - Distributed transactional key-value database, originally created to complement TiDB
+- [tock](https://github.com/tock/tock)
+  - A secure embedded operating system for microcontrollers
+- [wasmtime](https://github.com/bytecodealliance/wasmtime)
+  - Standalone JIT-style runtime for WebAssembly, using Cranelift
+- [neovide](https://github.com/Kethku/neovide)
+  - No Nonsense Neovim Client in Rust
+- [firecracker](https://github.com/firecracker-microvm/firecracker)
+  - Secure and fast microVMs for serverless computing.
+- [surf](https://github.com/http-rs/surf)
+  - Surf the web – HTTP client framework
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
+- [heim](https://github.com/heim-rs/heim)
+  - Cross-platform async library for system information fetching 🦀
+- [http-types](https://github.com/http-rs/http-types)
+  - Common types for HTTP operations
+- [weld](https://github.com/weld-project/weld)
+  - High-performance runtime for data analytics applications
+- [wasm-template-rust](https://github.com/sn99/wasm-template-rust)
+  - A wasm template for Rust to publish to gh-pages with no npm-deploy
+- [dali](https://github.com/olxgroup-oss/dali)
+  - An image processor service
+- [zz](https://github.com/aep/zz)
+  - 🍺🐙 ZetZ a zymbolic verifier and tranzpiler to bare metal C
+- [tremor-runtime](https://github.com/wayfair-tremor/tremor-runtime)
+  - Main Tremor Project Rust Codebase
+- [flutter-rs](https://github.com/flutter-rs/flutter-rs)
+  - Build beautiful desktop apps with flutter and rust. 🌠
 - [superluminal-perf-rs](https://github.com/EmbarkStudios/superluminal-perf-rs)
   - 🔆Superluminal Performance profiler Rust API 🦀
+- [ffsend](https://github.com/timvisee/ffsend)
+  - 📬 Easily and securely share files from the command line. A fully featured Firefox Send client.
+- [bustle](https://github.com/jonhoo/bustle)
+  - A benchmarking harness for concurrent key-value collections
+- [rust-blockchain](https://github.com/lalotai/rust-blockchain)
+  - A simple proof-of-work blockchain written in Rust 🦀

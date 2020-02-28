@@ -1,51 +1,51 @@
 # go
-- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
-  - Terraform AWS provider
-- [keda](https://github.com/kedacore/keda)
-  - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-- [ebpf](https://github.com/cilium/ebpf)
-  - eBPF Library for Go
-- [charts](https://github.com/helm/charts)
-  - Curated applications for Kubernetes
-- [cockroach](https://github.com/cockroachdb/cockroach)
-  - CockroachDB - the open source, cloud-native SQL database.
-- [node_exporter](https://github.com/prometheus/node_exporter)
-  - Exporter for machine metrics
-- [minio](https://github.com/minio/minio)
-  - MinIO is a high performance object storage server compatible with Amazon S3 APIs
-- [libpod](https://github.com/containers/libpod)
-  - libpod is a library used to create container pods. Home of Podman.
-- [terraform](https://github.com/hashicorp/terraform)
-  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [shox](https://github.com/liamg/shox)
-  - 🍫 A customisable, universally compatible terminal status bar
-- [community](https://github.com/kubernetes/community)
-  - Kubernetes community content
-- [go-clean-arch](https://github.com/bxcodec/go-clean-arch)
-  - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
-- [go](https://github.com/golang/go)
-  - The Go programming language
-- [kubevirt](https://github.com/kubevirt/kubevirt)
-  - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
-- [docker_practice](https://github.com/yeasy/docker_practice)
-  - Learn and understand Docker technologies, with real DevOps practice!
+- [go-under-the-hood](https://github.com/changkun/go-under-the-hood)
+  - 📚 Go Under The Hood: A Source Code Study of Go (1.14, WIP)
+- [Amass](https://github.com/OWASP/Amass)
+  - In-depth Attack Surface Mapping and Asset Discovery
 - [kubernetes](https://github.com/kubernetes/kubernetes)
   - Production-Grade Container Scheduling and Management
-- [geacon](https://github.com/darkr4y/geacon)
-  - Practice Go programming and implement CobaltStrike's Beacon in Go
+- [sampler](https://github.com/sqshq/sampler)
+  - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
+- [geph2](https://github.com/geph-official/geph2)
+  - Geph (迷霧通) is a modular Internet censorship circumvention system designed specifically to deal with national filtering.
+- [datadog-agent](https://github.com/DataDog/datadog-agent)
+  - Datadog Agent
+- [arkade](https://github.com/alexellis/arkade)
+  - Kubernetes apps, the easy way 😎
+- [cockroach](https://github.com/cockroachdb/cockroach)
+  - CockroachDB - the open source, cloud-native SQL database.
+- [micro](https://github.com/zyedidia/micro)
+  - A modern and intuitive terminal-based text editor
+- [golang-gin-realworld-example-app](https://github.com/gothinkster/golang-gin-realworld-example-app)
+  - Exemplary real world application built with Golang + Gin
+- [kubefed](https://github.com/kubernetes-sigs/kubefed)
+  - Kubernetes Cluster Federation
+- [subfinder](https://github.com/projectdiscovery/subfinder)
+  - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
+- [pitaya](https://github.com/topfreegames/pitaya)
+  - Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK.
+- [go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware)
+  - Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
+- [Go](https://github.com/TheAlgorithms/Go)
+  - Algorithms Implemented in GoLang
+- [k9s](https://github.com/derailed/k9s)
+  - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [keel](https://github.com/keel-hq/keel)
+  - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates
+- [golang-samples](https://github.com/GoogleCloudPlatform/golang-samples)
+  - Sample apps and code written for Google Cloud in the Go programming language.
+- [loki](https://github.com/grafana/loki)
+  - Like Prometheus, but for logs.
 - [kubectl](https://github.com/kubernetes/kubectl)
   - Issue tracker and mirror of kubectl code
-- [gopherjs](https://github.com/gopherjs/gopherjs)
-  - A compiler from Go to JavaScript for running Go code in a browser
-- [lazygit](https://github.com/jesseduffield/lazygit)
-  - simple terminal UI for git commands
+- [gorm](https://github.com/jinzhu/gorm)
+  - The fantastic ORM library for Golang, aims to be developer friendly (v2 is under development, PR based on master branch won't be accepted)
+- [buildah](https://github.com/containers/buildah)
+  - A tool that facilitates building OCI images
 - [syncthing](https://github.com/syncthing/syncthing)
   - Open Source Continuous File Synchronization
-- [kustomize](https://github.com/kubernetes-sigs/kustomize)
-  - Customization of kubernetes YAML configurations
-- [gnet](https://github.com/panjf2000/gnet)
-  - 🚀gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
-- [packer](https://github.com/hashicorp/packer)
-  - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-- [ent](https://github.com/facebookincubator/ent)
-  - An entity framework for Go
+- [aws-sdk-go](https://github.com/aws/aws-sdk-go)
+  - AWS SDK for the Go programming language.
+- [gnark](https://github.com/ConsenSys/gnark)
+  - gnark is a fast, open-source library for zero-knowledge proof protocols written in Go
