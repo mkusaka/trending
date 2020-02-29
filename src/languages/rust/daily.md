@@ -1,51 +1,51 @@
 # rust
 - [atm-cli](https://github.com/allthemusicllc/atm-cli)
   - Command line tool for generating and working with MIDI files.
-- [swc](https://github.com/swc-project/swc)
-  - Super-fast typescript / javascript compiler written in rust
-- [jsonwebtoken](https://github.com/Keats/jsonwebtoken)
-  - JWT lib in rust
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
 - [libatm](https://github.com/allthemusicllc/libatm)
   - Library for generating and working with MIDI files
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
-  - Unofficial Bitwarden compatible server written in Rust
-- [tikv](https://github.com/tikv/tikv)
-  - Distributed transactional key-value database, originally created to complement TiDB
-- [tock](https://github.com/tock/tock)
-  - A secure embedded operating system for microcontrollers
+- [rust](https://github.com/mdx-js/rust)
+  - mdx, in rust. maybe.
+- [talent-plan](https://github.com/pingcap/talent-plan)
+  - PingCAP training courses
+- [book](https://github.com/rust-lang/book)
+  - The Rust Programming Language
+- [futures-rs](https://github.com/rust-lang/futures-rs)
+  - Zero-cost asynchronous programming in Rust
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - ripgrep recursively searches directories for a regex pattern
 - [wasmtime](https://github.com/bytecodealliance/wasmtime)
   - Standalone JIT-style runtime for WebAssembly, using Cranelift
-- [neovide](https://github.com/Kethku/neovide)
-  - No Nonsense Neovim Client in Rust
-- [firecracker](https://github.com/firecracker-microvm/firecracker)
-  - Secure and fast microVMs for serverless computing.
-- [surf](https://github.com/http-rs/surf)
-  - Surf the web – HTTP client framework
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [heim](https://github.com/heim-rs/heim)
-  - Cross-platform async library for system information fetching 🦀
-- [http-types](https://github.com/http-rs/http-types)
-  - Common types for HTTP operations
-- [weld](https://github.com/weld-project/weld)
-  - High-performance runtime for data analytics applications
-- [wasm-template-rust](https://github.com/sn99/wasm-template-rust)
-  - A wasm template for Rust to publish to gh-pages with no npm-deploy
-- [dali](https://github.com/olxgroup-oss/dali)
-  - An image processor service
-- [zz](https://github.com/aep/zz)
-  - 🍺🐙 ZetZ a zymbolic verifier and tranzpiler to bare metal C
-- [tremor-runtime](https://github.com/wayfair-tremor/tremor-runtime)
-  - Main Tremor Project Rust Codebase
-- [flutter-rs](https://github.com/flutter-rs/flutter-rs)
-  - Build beautiful desktop apps with flutter and rust. 🌠
-- [superluminal-perf-rs](https://github.com/EmbarkStudios/superluminal-perf-rs)
-  - 🔆Superluminal Performance profiler Rust API 🦀
-- [ffsend](https://github.com/timvisee/ffsend)
-  - 📬 Easily and securely share files from the command line. A fully featured Firefox Send client.
+- [open-ethereum](https://github.com/OpenEthereum/open-ethereum)
+  - The fast, light, and robust client for Ethereum-like networks.
+- [nushell](https://github.com/nushell/nushell)
+  - A modern shell written in Rust
 - [bustle](https://github.com/jonhoo/bustle)
   - A benchmarking harness for concurrent key-value collections
-- [rust-blockchain](https://github.com/lalotai/rust-blockchain)
-  - A simple proof-of-work blockchain written in Rust 🦀
+- [tonic](https://github.com/hyperium/tonic)
+  - A native gRPC client & server implementation with async/await support.
+- [mdBook](https://github.com/rust-lang/mdBook)
+  - Create book from markdown files. Like Gitbook but implemented in Rust
+- [tikv](https://github.com/tikv/tikv)
+  - Distributed transactional key-value database, originally created to complement TiDB
+- [tremor-runtime](https://github.com/wayfair-tremor/tremor-runtime)
+  - Main Tremor Project Rust Codebase
+- [tokenizers](https://github.com/huggingface/tokenizers)
+  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [mio](https://github.com/tokio-rs/mio)
+  - Metal IO library for Rust
+- [lemmy](https://github.com/dessalines/lemmy)
+  - 🐀 Building a federated alternative to reddit in rust
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
+- [996.ICU](https://github.com/996icu/996.ICU)
+  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [sonic](https://github.com/valeriansaliou/sonic)
+  - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [ncspot](https://github.com/hrkfdn/ncspot)
+  - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
+- [cam-geom](https://github.com/strawlab/cam-geom)
+  - 📷 📐 Geometric models of cameras for photogrammetry
+- [flutter-rs](https://github.com/flutter-rs/flutter-rs)
+  - Build beautiful desktop apps with flutter and rust. 🌠

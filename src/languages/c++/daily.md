@@ -1,51 +1,51 @@
 # c++
-- [openalpr](https://github.com/openalpr/openalpr)
-  - Automatic License Plate Recognition library
-- [SHADERed](https://github.com/dfranx/SHADERed)
-  - Lightweight, cross-platform & full-featured desktop IDE for HLSL and GLSL shaders
-- [tcmalloc](https://github.com/google/tcmalloc)
-  - 
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
 - [Meshtastic-esp32](https://github.com/geeksville/Meshtastic-esp32)
   - Device code for the Meshtastic ski/hike/fly/Signal-chat GPS radio
-- [openpilot](https://github.com/commaai/openpilot)
-  - open source driving agent
-- [v8](https://github.com/v8/v8)
-  - The official mirror of the V8 Git repository
-- [notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)
-  - Notepad++ official repository
-- [node-sass](https://github.com/sass/node-sass)
-  - 🌈 Node.js bindings to libsass
-- [AI4Animation](https://github.com/sebastianstarke/AI4Animation)
-  - Bringing Characters to Life with Computer Brains in Unity
-- [opencv](https://github.com/opencv/opencv)
-  - Open Source Computer Vision Library
-- [tinyxml2](https://github.com/leethomason/tinyxml2)
-  - TinyXML2 is a simple, small, efficient, C++ XML parser that can be easily integrated into other programs.
-- [ngraph](https://github.com/NervanaSystems/ngraph)
-  - nGraph - open source C++ library, compiler and runtime for Deep Learning
-- [faiss](https://github.com/facebookresearch/faiss)
-  - A library for efficient similarity search and clustering of dense vectors.
-- [pywin32](https://github.com/mhammond/pywin32)
-  - Python for Windows (pywin32) Extensions
-- [AirSim](https://github.com/microsoft/AirSim)
-  - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
 - [electron](https://github.com/electron/electron)
   - Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [annoy](https://github.com/spotify/annoy)
-  - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
-- [Osiris](https://github.com/danielkrupinski/Osiris)
-  - Free open-source training software / cheat for Counter-Strike: Global Offensive, written in modern C++. GUI powered by imgui.
-- [DALI](https://github.com/NVIDIA/DALI)
-  - A library containing both highly optimized building blocks and an execution engine for data pre-processing in deep learning applications
-- [CodingInterviews](https://github.com/gatieme/CodingInterviews)
-  - 剑指Offer——名企面试官精讲典型编程题
-- [mars](https://github.com/Tencent/mars)
-  - Mars is a cross-platform network component developed by WeChat.
-- [Tasmota](https://github.com/arendst/Tasmota)
-  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
-- [box2d](https://github.com/erincatto/box2d)
-  - Box2D is a 2D physics engine for games
-- [dnscat2](https://github.com/iagox86/dnscat2)
-  - 
+- [openpilot](https://github.com/commaai/openpilot)
+  - open source driving agent
+- [tensorflow](https://github.com/tensorflow/tensorflow)
+  - An Open Source Machine Learning Framework for Everyone
+- [QGIS](https://github.com/qgis/QGIS)
+  - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
+- [qBittorrent](https://github.com/qbittorrent/qBittorrent)
+  - qBittorrent BitTorrent client
+- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
+  - C++那些事
+- [IntelBluetoothFirmware](https://github.com/zxystd/IntelBluetoothFirmware)
+  - Intel bluetooth drivers
+- [zld](https://github.com/michaeleisel/zld)
+  - A faster version of Apple's linker
+- [aria2](https://github.com/aria2/aria2)
+  - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+- [splendid_implanter](https://github.com/haram/splendid_implanter)
+  - BattlEye compatible injector, done completely from user-mode.
+- [Algo_Ds_Notes](https://github.com/jainaman224/Algo_Ds_Notes)
+  - It is a repository that is a collection of algorithms and data structures with implementation in various languages.
+- [loam_livox](https://github.com/hku-mars/loam_livox)
+  - A robust LiDAR Odometry and Mapping (LOAM) package for Livox-LiDAR
+- [arcore-android-sdk](https://github.com/google-ar/arcore-android-sdk)
+  - ARCore SDK for Android Studio
+- [rocksdb](https://github.com/facebook/rocksdb)
+  - A library that provides an embeddable, persistent key-value store for fast storage.
+- [ClickHouse](https://github.com/ClickHouse/ClickHouse)
+  - ClickHouse is a free analytics DBMS for big data
+- [esphome](https://github.com/esphome/esphome)
+  - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+- [jfx](https://github.com/openjdk/jfx)
+  - https://openjdk.java.net/projects/openjfx/
+- [carla](https://github.com/carla-simulator/carla)
+  - Open-source simulator for autonomous driving research.
+- [JUCE](https://github.com/WeAreROLI/JUCE)
+  - The JUCE cross-platform C++ framework
+- [LAVFilters](https://github.com/Nevcairiel/LAVFilters)
+  - LAV Filters - Open-Source DirectShow Media Splitter and Decoders
+- [bitcoin](https://github.com/bitcoin/bitcoin)
+  - Bitcoin Core integration/staging tree
+- [dlib](https://github.com/davisking/dlib)
+  - A toolkit for making real world machine learning and data analysis applications in C++
+- [GDevelop](https://github.com/4ian/GDevelop)
+  - 🎮 GDevelop is an open-source, cross-platform game engine designed to be used by everyone.
+- [folly](https://github.com/facebook/folly)
+  - An open-source C++ library developed and used at Facebook.
