@@ -1,51 +1,51 @@
 # typescript
 - [rome](https://github.com/facebookexperimental/rome)
   - An experimental JavaScript toolchain
-- [nest](https://github.com/nestjs/nest)
-  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-- [theia](https://github.com/eclipse-theia/theia)
-  - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [grafana](https://github.com/grafana/grafana)
-  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [ionic](https://github.com/ionic-team/ionic)
-  - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
-- [react-navigation](https://github.com/react-navigation/react-navigation)
-  - Routing and navigation for your React Native apps
-- [berry](https://github.com/yarnpkg/berry)
-  - 📦🐈 The active development trunk for Yarn 2 ⚒
-- [storybook](https://github.com/storybookjs/storybook)
-  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
-- [nebular](https://github.com/akveo/nebular)
-  - 💥 Customizable Angular UI Library based on Eva Design System 🌚✨Dark Mode
-- [vue-next](https://github.com/vuejs/vue-next)
-  - The next major version of Vue (WIP)
-- [angular-cli](https://github.com/angular/angular-cli)
-  - CLI tool for Angular
-- [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
-  - A Foundation for Scalable Cross-Platform Apps
-- [reach-ui](https://github.com/reach/reach-ui)
-  - The Accessible Foundation for React Apps and Design Systems
-- [shell](https://github.com/pop-os/shell)
-  - Pop!_OS Shell - WIP
-- [vue-storefront](https://github.com/DivanteLtd/vue-storefront)
-  - Vue Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported. Always Open Source, MIT license. Join us as contributor (contributors@vuestorefront.io). Check out our new blog: https://blog.vuestorefront.io/
-- [react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide)
-  - The complete guide to static typing in "React & Redux" apps using TypeScript
-- [rap2-delos](https://github.com/thx/rap2-delos)
-  - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
-  - 📋 React hooks for forms validation without the hassle.
-- [menubar](https://github.com/maxogden/menubar)
-  - ➖ high level way to create menubar desktop applications with electron
+- [ant-design](https://github.com/ant-design/ant-design)
+  - 🌈 A UI Design Language and React UI library
+- [gauzy](https://github.com/ever-co/gauzy)
+  - Gauzy™ - Open-Source ERP Platform focused on Fairness and Transparency
+- [react-three-fiber](https://github.com/react-spring/react-three-fiber)
+  - 🇨🇭A react reconciler for threejs (web and react-native)
 - [vscode](https://github.com/microsoft/vscode)
   - Visual Studio Code
-- [express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate)
-  - A delightful way to building a RESTful API with NodeJs & TypeScript by @w3tecch
-- [typescript-book](https://github.com/basarat/typescript-book)
-  - 📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖. Free and Open Source 🌹
-- [expo-cli](https://github.com/expo/expo-cli)
-  - Tools for making Expo apps
-- [amplify-cli](https://github.com/aws-amplify/amplify-cli)
-  - A CLI toolchain for simplifying serverless web and mobile development.
+- [ever](https://github.com/ever-co/ever)
+  - Ever® - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
+- [nest](https://github.com/nestjs/nest)
+  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [darkreader](https://github.com/darkreader/darkreader)
+  - Dark Reader Chrome and Firefox extension
+- [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
+  - A Foundation for Scalable Cross-Platform Apps
+- [formily](https://github.com/alibaba/formily)
+  - Alibaba Group Unified Form Solution.
+- [ant-design-pro](https://github.com/ant-design/ant-design-pro)
+  - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
+- [vditor](https://github.com/Vanessa219/vditor)
+  - ♏ 一款浏览器端的 Markdown 编辑器。
+- [material-components-web](https://github.com/material-components/material-components-web)
+  - Modular and customizable Material Design UI components for the web
+- [takenote](https://github.com/taniarascia/takenote)
+  - 📝 A web-based note-taking app with GitHub sync and Markdown support. (WIP)
+- [react-native-modal](https://github.com/react-native-community/react-native-modal)
+  - An enhanced, animated and customizable react-native modal
+- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
+  - The source for REST API specifications for Microsoft Azure.
+- [vuetify](https://github.com/vuetifyjs/vuetify)
+  - 🐉 Material Component Framework for Vue
+- [code-server](https://github.com/cdr/code-server)
+  - Run VS Code on a remote server.
+- [html2canvas](https://github.com/niklasvh/html2canvas)
+  - Screenshots with JavaScript
+- [angular-gridster2](https://github.com/tiberiuzuld/angular-gridster2)
+  - Angular gridster 2
+- [jest](https://github.com/facebook/jest)
+  - Delightful JavaScript Testing.
+- [react-native-reanimated-bottom-sheet](https://github.com/osdnk/react-native-reanimated-bottom-sheet)
+  - Highly configurable bottom sheet component made with react-native-reanimated and react-native-gesture-handler
+- [aws-cdk](https://github.com/aws/aws-cdk)
+  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+- [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator)
+  - GraphQL code generator with flexible support for custom plugins and templates
+- [scully](https://github.com/scullyio/scully)
+  - The Static Site Generator for Angular apps

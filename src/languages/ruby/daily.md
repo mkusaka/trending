@@ -1,51 +1,51 @@
 # ruby
-- [homebrew-core](https://github.com/Homebrew/homebrew-core)
-  - 🍻 Default formulae for the missing package manager for macOS
-- [spree](https://github.com/spree/spree)
-  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
+- [choosealicense.com](https://github.com/github/choosealicense.com)
+  - A site to provide non-judgmental guidance on choosing a license for your open source project
+- [scientist](https://github.com/github/scientist)
+  - 🔬 A Ruby library for carefully refactoring critical paths.
 - [mastodon](https://github.com/tootsuite/mastodon)
   - Your self-hosted, globally interconnected microblogging community
-- [fastlane](https://github.com/fastlane/fastlane)
-  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [pagy](https://github.com/ddnexus/pagy)
+  - The ultimate pagination ruby gem
+- [linguist](https://github.com/github/linguist)
+  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [huginn](https://github.com/huginn/huginn)
   - Create agents that monitor and act on your behalf. Your agents are standing by!
-- [styles](https://github.com/citation-style-language/styles)
-  - Official repository for Citation Style Language (CSL) citation styles.
-- [guides](https://github.com/thoughtbot/guides)
-  - A guide for programming in style.
-- [ISO-3166-Countries-with-Regional-Codes](https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes)
-  - ISO 3166-1 country lists merged with their UN Geoscheme regional codes in ready-to-use JSON, XML, CSV data sets
-- [faker](https://github.com/faker-ruby/faker)
-  - A library for generating fake data such as names, addresses, and phone numbers.
-- [wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader)
-  - Download an entire website from the Wayback Machine.
-- [actionview-component](https://github.com/github/actionview-component)
-  - View components for Rails
-- [sql-organizing-bears-lab-nyc-web-021720](https://github.com/learn-co-students/sql-organizing-bears-lab-nyc-web-021720)
+- [homebrew-core](https://github.com/Homebrew/homebrew-core)
+  - 🍻 Default formulae for the missing package manager for macOS
+- [fastlane](https://github.com/fastlane/fastlane)
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [sonic-pi](https://github.com/samaaron/sonic-pi)
+  - The Live Coding Music Synth for Everyone
+- [fluentd](https://github.com/fluent/fluentd)
+  - Fluentd: Unified Logging Layer (project under CNCF)
+- [active-record-translating-from-orm-to-ar-nyc-web-021720](https://github.com/learn-co-students/active-record-translating-from-orm-to-ar-nyc-web-021720)
   - 
-- [rails-create-action-readme-online-web-ft-120919](https://github.com/learn-co-students/rails-create-action-readme-online-web-ft-120919)
+- [rails-cru-form_for-lab-online-web-ft-120919](https://github.com/learn-co-students/rails-cru-form_for-lab-online-web-ft-120919)
   - 
-- [rails-create-action-lab-online-web-ft-120919](https://github.com/learn-co-students/rails-create-action-lab-online-web-ft-120919)
+- [puma](https://github.com/puma/puma)
+  - A Ruby/Rack web server built for concurrency
+- [rpush](https://github.com/rpush/rpush)
+  - The push notification service for Ruby.
+- [ruby-enumerables-cartoon-collections-lab-houston-web-030920](https://github.com/learn-co-students/ruby-enumerables-cartoon-collections-lab-houston-web-030920)
   - 
-- [rails-index-show-new-create-lab-online-web-ft-120919](https://github.com/learn-co-students/rails-index-show-new-create-lab-online-web-ft-120919)
+- [ttt-5-move-rb-ruby-intro-000](https://github.com/learn-co-students/ttt-5-move-rb-ruby-intro-000)
   - 
-- [dunder-mifflin-rails-review-seattle-web-012720](https://github.com/learn-co-students/dunder-mifflin-rails-review-seattle-web-012720)
+- [api](https://github.com/hanami/api)
+  - Minimal, extremely fast, lightweight Ruby framework for HTTP APIs
+- [rails-generators-readme-online-web-ft-120919](https://github.com/learn-co-students/rails-generators-readme-online-web-ft-120919)
   - 
-- [ruby-metaprogramming-mass-assignment-lab-nyc-web-021720](https://github.com/learn-co-students/ruby-metaprogramming-mass-assignment-lab-nyc-web-021720)
+- [rails-form_for-lab-online-web-ft-120919](https://github.com/learn-co-students/rails-form_for-lab-online-web-ft-120919)
   - 
-- [scraping-flatiron-code-along-onl01-seng-ft-021020](https://github.com/learn-co-students/scraping-flatiron-code-along-onl01-seng-ft-021020)
+- [sinatra-basic-routes-lab-onl01-seng-ft-012120](https://github.com/learn-co-students/sinatra-basic-routes-lab-onl01-seng-ft-012120)
   - 
-- [rails-edit-update-action-readme-online-web-ft-120919](https://github.com/learn-co-students/rails-edit-update-action-readme-online-web-ft-120919)
+- [r10k](https://github.com/jeremyevans/r10k)
+  - Comparative ruby web application benchmarks with a large number of routes
+- [tmuxinator](https://github.com/tmuxinator/tmuxinator)
+  - Manage complex tmux sessions easily
+- [bringing-it-all-together-online-web-pt-120919](https://github.com/learn-co-students/bringing-it-all-together-online-web-pt-120919)
   - 
-- [ruby-class-variables-and-class-methods-lab-onl01-seng-pt-021020](https://github.com/learn-co-students/ruby-class-variables-and-class-methods-lab-onl01-seng-pt-021020)
+- [ruby-enumerables-introduction-to-map-and-reduce-lab-houston-web-030920](https://github.com/learn-co-students/ruby-enumerables-introduction-to-map-and-reduce-lab-houston-web-030920)
   - 
-- [videos-pt.br-tecnologia](https://github.com/carolcodes/videos-pt.br-tecnologia)
-  - Repositório de canais no Youtube BR sobre desenvolvimento
-- [appsrv021](https://github.com/JPouwiel/appsrv021)
+- [activerecord-lifecycle-reading-london-web-012720](https://github.com/learn-co-students/activerecord-lifecycle-reading-london-web-012720)
   - 
-- [takeaway-challenge](https://github.com/makersacademy/takeaway-challenge)
-  - Use the Twilio Gem to order food
-- [Rails-Practice-Code-Challenge-Travelatr-nyc-web-012720](https://github.com/learn-co-students/Rails-Practice-Code-Challenge-Travelatr-nyc-web-012720)
-  - 
-- [better_errors](https://github.com/BetterErrors/better_errors)
-  - Better error page for Rack apps

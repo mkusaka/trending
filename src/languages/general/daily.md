@@ -1,51 +1,51 @@
 # general
-- [rome](https://github.com/facebookexperimental/rome) : TypeScript
-  - An experimental JavaScript toolchain
+- [swift-argument-parser](https://github.com/apple/swift-argument-parser) : Swift
+  - Straightforward, type-safe argument parsing for Swift
+- [covid19](https://github.com/kaz-ogiwara/covid19) : JavaScript
+  - 新型コロナウイルス（COVID19）の国内における感染の状況を厚生労働省の報道発表資料からビジュアルにまとめた。
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - 手把手撕LeetCode题目，扒各种算法套路的裤子，not only how，but also why. English translation is processing... Star this repo and come back soon:)
 - [ElysiumMall](https://github.com/JackZhu426/ElysiumMall) : Java
   - My Own Online Mall Project Using SpringBoot
-- [pearProject](https://github.com/a54552239/pearProject) : Vue
-  - pear，梨子，轻量级的在线项目/任务协作系统，远程办公协作
-- [kbone-ui](https://github.com/wechat-miniprogram/kbone-ui) : Vue
-  - kbone-ui 是一套能同时支持 小程序(kbone) 和 vue 框架开发的多端 UI 库
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
-  - labuladong的算法小抄，手把手撕LeetCode题目，扒各种算法套路的裤子，不仅how，还有why。
+- [rome](https://github.com/facebookexperimental/rome) : TypeScript
+  - An experimental JavaScript toolchain
 - [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
   - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [akshare](https://github.com/jindaxiang/akshare) : Python
-  - AkShare is an elegant and simple financial data interface library for Python, built for human beings!
-- [atm-cli](https://github.com/allthemusicllc/atm-cli) : Rust
-  - Command line tool for generating and working with MIDI files.
-- [kbone](https://github.com/Tencent/kbone) : JavaScript
-  - 一个致力于微信小程序和 Web 端同构的解决方案
-- [trax](https://github.com/google/trax) : Python
-  - Trax — your path to advanced deep learning
-- [PIFu](https://github.com/shunsukesaito/PIFu) : Python
-  - This repository contains the code for the paper "PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization"
+- [MarkdownAttributedString](https://github.com/chockenberry/MarkdownAttributedString) : Objective-C
+  - Adding Markdown support to NSAttributedString.
 - [nanopi-openwrt](https://github.com/klever1988/nanopi-openwrt) : Shell
   - nanopi r1s r2s固件编译
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
-  - A long list of (advanced) JavaScript questions, and their explanations ✨
+- [kbone](https://github.com/Tencent/kbone) : JavaScript
+  - 一个致力于微信小程序和 Web 端同构的解决方案
+- [ant-design](https://github.com/ant-design/ant-design) : TypeScript
+  - 🌈 A UI Design Language and React UI library
 - [helium](https://github.com/mherrmann/helium) : Python
   - Selenium-python, 50% easier. Helium is the best Python library for web automation.
-- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) : JavaScript
-  - 🎆Interactive Online Platform that Visualizes Algorithms from Code
-- [gitignore](https://github.com/github/gitignore) : 
-  - A collection of useful .gitignore templates
-- [go-under-the-hood](https://github.com/changkun/go-under-the-hood) : Go
-  - 📚 Go Under The Hood: A Source Code Study of Go (1.14, WIP)
-- [nest](https://github.com/nestjs/nest) : TypeScript
-  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-- [graphql-engine](https://github.com/hasura/graphql-engine) : JavaScript
-  - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
-- [nuxt.js](https://github.com/nuxt/nuxt.js) : JavaScript
-  - The Vue.js Framework
-- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) : JavaScript
-  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
-- [python-guide](https://github.com/realpython/python-guide) : Batchfile
-  - Python best practices guidebook, written for humans.
-- [wtfjs](https://github.com/denysdovhan/wtfjs) : JavaScript
-  - A list of funny and tricky JavaScript examples
-- [Signal-Android](https://github.com/signalapp/Signal-Android) : Java
-  - A private messenger for Android.
+- [The-Internship-v1](https://github.com/FBDevCLagos/The-Internship-v1) : 
+  - That is the vision of the DevC Lagos: “The Internship v1”. The program is a DevC Lagos initiative where Project Managers, Developers, and DevOps specialists are taken through a 13 week period where they build 10 real-world software products distributed into 10 teams. These products could be Enterprise Apps, SaaS, Libraries or Utilities for “real…
+- [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) : JavaScript
+  - 中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据 Node.js 爬虫。
+- [practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) : C#
+  - Practical samples of aspnet core 2.1, 2.2, 3.0 and 3.1 projects you can use. Readme contains explanations on all projects.
+- [uberr-ui](https://github.com/OLayemii/uberr-ui) : Dart
+  - Flutter UI design for a car booking application
+- [Wox](https://github.com/Wox-launcher/Wox) : C#
+  - Launcher for Windows, an alternative to Alfred and Launchy.
+- [atm-cli](https://github.com/allthemusicllc/atm-cli) : Rust
+  - Command line tool for generating and working with MIDI files.
+- [simpsons-in-css](https://github.com/pattle/simpsons-in-css) : CSS
+  - Simpsons characters in CSS
+- [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) : TeX
+  - Cheat Sheets
+- [PIFu](https://github.com/shunsukesaito/PIFu) : Python
+  - This repository contains the code for the paper "PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization"
+- [deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection) : 
+  - A paper list of object detection using deep learning.
+- [7days-golang](https://github.com/geektutu/7days-golang) : Go
+  - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc) 7天用Go动手写/从零实现系列
+- [Meshtastic-esp32](https://github.com/geeksville/Meshtastic-esp32) : C++
+  - Device code for the Meshtastic ski/hike/fly/Signal-chat GPS radio
+- [quarkus](https://github.com/quarkusio/quarkus) : Java
+  - Quarkus: Supersonic Subatomic Java.
+- [awesome](https://github.com/sindresorhus/awesome) : 
+  - 😎 Awesome lists about all kinds of interesting topics
