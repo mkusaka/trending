@@ -1,51 +1,51 @@
 # javascript
+- [opensource.builders](https://github.com/junaid33/opensource.builders)
+  - Find open-source alternatives
+- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
+  - 🎆Interactive Online Platform that Visualizes Algorithms from Code
+- [vue](https://github.com/vuejs/vue)
+  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [next.js](https://github.com/zeit/next.js)
+  - The React Framework
+- [iptv](https://github.com/iptv-org/iptv)
+  - Collection of 8000+ publicly available IPTV channels from all over the world
 - [covid19](https://github.com/kaz-ogiwara/covid19)
   - 新型コロナウイルス（COVID19）の国内における感染の状況を厚生労働省の報道発表資料からビジュアルにまとめた。
-- [kbone](https://github.com/Tencent/kbone)
-  - 一个致力于微信小程序和 Web 端同构的解决方案
+- [esercizi-di-programmazione-javascript](https://github.com/AlbertoOlla/esercizi-di-programmazione-javascript)
+  - Esercizi di informatica! Impara a programmare, metti alla prova!
+- [mellow](https://github.com/mellow-io/mellow)
+  - Mellow is a rule-based global transparent proxy client for Windows, macOS and Linux.
 - [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China)
   - 中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据 Node.js 爬虫。
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
   - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [vue-cli](https://github.com/vuejs/vue-cli)
-  - 🛠️ Standard Tooling for Vue.js Development
-- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
-  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
-- [wtfjs](https://github.com/denysdovhan/wtfjs)
-  - A list of funny and tricky JavaScript examples
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
+- [discord.js](https://github.com/discordjs/discord.js)
+  - A powerful JavaScript library for interacting with the Discord API
+- [coreui-free-react-admin-template](https://github.com/coreui/coreui-free-react-admin-template)
+  - CoreUI React is free React admin template based on Bootstrap 4
+- [js-docs](https://github.com/LeonardoCesca/js-docs)
+  - Este projeto foi desenvolvido para contribuir com o open-source. Se você quiser contribuir basta seguir o README
+- [wappalyzer](https://github.com/AliasIO/wappalyzer)
+  - Cross-platform utility that uncovers the technologies used on websites.
+- [kbone](https://github.com/Tencent/kbone)
+  - 一个致力于微信小程序和 Web 端同构的解决方案
+- [create-react-app](https://github.com/facebook/create-react-app)
+  - Set up a modern web app by running one command.
+- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
+  - Revive unavailable songs for Netease Cloud Music
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
   - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
-- [faker.js](https://github.com/Marak/faker.js)
-  - generate massive amounts of realistic fake data in Node.js and the browser
-- [drawio](https://github.com/jgraph/drawio)
-  - Source to www.draw.io
-- [nuxt.js](https://github.com/nuxt/nuxt.js)
-  - The Vue.js Framework
-- [joplin](https://github.com/laurent22/joplin)
-  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
-- [carbon](https://github.com/carbon-design-system/carbon)
-  - A design system built by IBM
-- [Motrix](https://github.com/agalwood/Motrix)
-  - A full-featured download manager.
-- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
-  - 🎆Interactive Online Platform that Visualizes Algorithms from Code
-- [jupyter-matplotlib](https://github.com/matplotlib/jupyter-matplotlib)
-  - Matplotlib Jupyter Extension
-- [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
-  - A WhatsApp API client that connects through the WhatsApp Web browser app
-- [tracking.js](https://github.com/eduardolundgren/tracking.js)
-  - A modern approach for Computer Vision on the web
-- [project_chat_application](https://github.com/adrianhajdin/project_chat_application)
-  - This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a real time chat application. Covered topics: React.js, Node.js, Express.js, and Socket.io.
-- [JavaScript-MD5](https://github.com/blueimp/JavaScript-MD5)
-  - JavaScript MD5 implementation. Compatible with server-side environments like node.js, module loaders like RequireJS and all web browsers.
-- [magnetW](https://github.com/xiandanin/magnetW)
-  - 磁力链接聚合搜索
 - [lossless-cut](https://github.com/mifi/lossless-cut)
   - The swiss army knife of lossless video/audio editing
-- [drawio-desktop](https://github.com/jgraph/drawio-desktop)
-  - Official electron build of draw.io
-- [generator-jhipster](https://github.com/jhipster/generator-jhipster)
-  - Open Source application platform for creating Spring Boot + Angular/React projects in seconds!
+- [CyberChef](https://github.com/gchq/CyberChef)
+  - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+- [weui-wxss](https://github.com/Tencent/weui-wxss)
+  - A UI library by WeChat official design team, includes the most useful widgets/modules.
+- [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
+  - A WhatsApp API client that connects through the WhatsApp Web browser app
+- [web-ext](https://github.com/mozilla/web-ext)
+  - A command line tool to help build, run, and test web extensions
+- [kubernetes-in-action](https://github.com/luksa/kubernetes-in-action)
+  - Code from the Kubernetes in Action book
+- [free-hls-live](https://github.com/sxzz/free-hls-live)
+  - Free HLS 直播姬

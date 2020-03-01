@@ -1,51 +1,51 @@
 # general
-- [swift-argument-parser](https://github.com/apple/swift-argument-parser) : Swift
-  - Straightforward, type-safe argument parsing for Swift
-- [covid19](https://github.com/kaz-ogiwara/covid19) : JavaScript
-  - 新型コロナウイルス（COVID19）の国内における感染の状況を厚生労働省の報道発表資料からビジュアルにまとめた。
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
-  - 手把手撕LeetCode题目，扒各种算法套路的裤子，not only how，but also why. English translation is processing... Star this repo and come back soon:)
+- [fastbook](https://github.com/fastai/fastbook) : Jupyter Notebook
+  - Draft of the fastai book
+- [purecss-francine](https://github.com/cyanharlow/purecss-francine) : CSS
+  - HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.
 - [ElysiumMall](https://github.com/JackZhu426/ElysiumMall) : Java
   - My Own Online Mall Project Using SpringBoot
-- [rome](https://github.com/facebookexperimental/rome) : TypeScript
-  - An experimental JavaScript toolchain
-- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
-  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [MarkdownAttributedString](https://github.com/chockenberry/MarkdownAttributedString) : Objective-C
-  - Adding Markdown support to NSAttributedString.
-- [nanopi-openwrt](https://github.com/klever1988/nanopi-openwrt) : Shell
-  - nanopi r1s r2s固件编译
-- [kbone](https://github.com/Tencent/kbone) : JavaScript
-  - 一个致力于微信小程序和 Web 端同构的解决方案
-- [ant-design](https://github.com/ant-design/ant-design) : TypeScript
-  - 🌈 A UI Design Language and React UI library
-- [helium](https://github.com/mherrmann/helium) : Python
-  - Selenium-python, 50% easier. Helium is the best Python library for web automation.
-- [The-Internship-v1](https://github.com/FBDevCLagos/The-Internship-v1) : 
-  - That is the vision of the DevC Lagos: “The Internship v1”. The program is a DevC Lagos initiative where Project Managers, Developers, and DevOps specialists are taken through a 13 week period where they build 10 real-world software products distributed into 10 teams. These products could be Enterprise Apps, SaaS, Libraries or Utilities for “real…
-- [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) : JavaScript
-  - 中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据 Node.js 爬虫。
 - [practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) : C#
   - Practical samples of aspnet core 2.1, 2.2, 3.0 and 3.1 projects you can use. Readme contains explanations on all projects.
-- [uberr-ui](https://github.com/OLayemii/uberr-ui) : Dart
-  - Flutter UI design for a car booking application
-- [Wox](https://github.com/Wox-launcher/Wox) : C#
-  - Launcher for Windows, an alternative to Alfred and Launchy.
-- [atm-cli](https://github.com/allthemusicllc/atm-cli) : Rust
-  - Command line tool for generating and working with MIDI files.
-- [simpsons-in-css](https://github.com/pattle/simpsons-in-css) : CSS
-  - Simpsons characters in CSS
-- [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) : TeX
-  - Cheat Sheets
-- [PIFu](https://github.com/shunsukesaito/PIFu) : Python
-  - This repository contains the code for the paper "PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization"
-- [deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection) : 
-  - A paper list of object detection using deep learning.
+- [openhospital](https://github.com/informatici/openhospital) : Perl
+  - Open Hospital is a free and open source software for healthcare data management. This repository is used to build its portable releases.
+- [opensource.builders](https://github.com/junaid33/opensource.builders) : JavaScript
+  - Find open-source alternatives
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - 手把手撕LeetCode题目，扒各种算法套路的裤子，not only how，but also why. English translation is processing... Star this repo and come back soon:)
+- [CLUEDatasetSearch](https://github.com/CLUEbenchmark/CLUEDatasetSearch) : Python
+  - 搜索所有中文NLP数据集，附常用英文NLP数据集
+- [The-Internship-v1](https://github.com/FBDevCLagos/The-Internship-v1) : 
+  - That is the vision of the DevC Lagos: “The Internship v1”. The program is a DevC Lagos initiative where Project Managers, Developers, and DevOps specialists are taken through a 13 week period where they build 10 real-world software products distributed into 10 teams. These products could be Enterprise Apps, SaaS, Libraries or Utilities for “real…
 - [7days-golang](https://github.com/geektutu/7days-golang) : Go
   - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc) 7天用Go动手写/从零实现系列
-- [Meshtastic-esp32](https://github.com/geeksville/Meshtastic-esp32) : C++
-  - Device code for the Meshtastic ski/hike/fly/Signal-chat GPS radio
-- [quarkus](https://github.com/quarkusio/quarkus) : Java
-  - Quarkus: Supersonic Subatomic Java.
-- [awesome](https://github.com/sindresorhus/awesome) : 
-  - 😎 Awesome lists about all kinds of interesting topics
+- [monk_v1](https://github.com/Tessellate-Imaging/monk_v1) : Jupyter Notebook
+  - Monk is a low code Deep Learning tool and a unified wrapper for Computer Vision.
+- [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) : TeX
+  - Cheat Sheets
+- [simpsons-in-css](https://github.com/pattle/simpsons-in-css) : CSS
+  - Simpsons characters in CSS
+- [css.gg](https://github.com/astrit/css.gg) : CSS
+  - 500+ CSS Icons. Customizable, Retina Ready with API & NPM
+- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
+  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
+- [awesome-shell](https://github.com/alebcay/awesome-shell) : 
+  - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [swift-argument-parser](https://github.com/apple/swift-argument-parser) : Swift
+  - Straightforward, type-safe argument parsing for Swift
+- [tensorflow](https://github.com/tensorflow/tensorflow) : C++
+  - An Open Source Machine Learning Framework for Everyone
+- [BERT-related-papers](https://github.com/tomohideshibata/BERT-related-papers) : 
+  - BERT-related papers
+- [gitea](https://github.com/go-gitea/gitea) : Go
+  - Git with a cup of tea, painless self-hosted git service
+- [home-assistant](https://github.com/home-assistant/home-assistant) : Python
+  - 🏡 Open source home automation that puts local control and privacy first
+- [ghostnet](https://github.com/huawei-noah/ghostnet) : Python
+  - [CVPR2020] Surpassing MobileNetV3: "GhostNet: More Features from Cheap Operations"
+- [huginn](https://github.com/huginn/huginn) : Ruby
+  - Create agents that monitor and act on your behalf. Your agents are standing by!
+- [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) : Java
+  - Spring Boot 2.X 专栏更新完毕，Spring Cloud & Spring Cloud Alibaba 2.X 专栏更新中 。欢迎胖友 Star 一波
+- [VIBE](https://github.com/mkocabas/VIBE) : Python
+  - Official implementation of CVPR2020 paper "VIBE: Video Inference for Human Body Pose and Shape Estimation"

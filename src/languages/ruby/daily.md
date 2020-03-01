@@ -1,51 +1,51 @@
 # ruby
-- [choosealicense.com](https://github.com/github/choosealicense.com)
-  - A site to provide non-judgmental guidance on choosing a license for your open source project
-- [scientist](https://github.com/github/scientist)
-  - 🔬 A Ruby library for carefully refactoring critical paths.
-- [mastodon](https://github.com/tootsuite/mastodon)
-  - Your self-hosted, globally interconnected microblogging community
-- [pagy](https://github.com/ddnexus/pagy)
-  - The ultimate pagination ruby gem
-- [linguist](https://github.com/github/linguist)
-  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [huginn](https://github.com/huginn/huginn)
   - Create agents that monitor and act on your behalf. Your agents are standing by!
-- [homebrew-core](https://github.com/Homebrew/homebrew-core)
-  - 🍻 Default formulae for the missing package manager for macOS
-- [fastlane](https://github.com/fastlane/fastlane)
-  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [sonic-pi](https://github.com/samaaron/sonic-pi)
-  - The Live Coding Music Synth for Everyone
-- [fluentd](https://github.com/fluent/fluentd)
-  - Fluentd: Unified Logging Layer (project under CNCF)
-- [active-record-translating-from-orm-to-ar-nyc-web-021720](https://github.com/learn-co-students/active-record-translating-from-orm-to-ar-nyc-web-021720)
+- [arachni](https://github.com/Arachni/arachni)
+  - Web Application Security Scanner Framework
+- [jekyll](https://github.com/jekyll/jekyll)
+  - 🌐 Jekyll is a blog-aware static site generator in Ruby
+- [rails](https://github.com/rails/rails)
+  - Ruby on Rails
+- [chatwoot](https://github.com/chatwoot/chatwoot)
+  - Simple and elegant live chat software 🔥💬
+- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+  - A curated list of awesome awesomeness
+- [monster_shop_final](https://github.com/turingschool-examples/monster_shop_final)
   - 
-- [rails-cru-form_for-lab-online-web-ft-120919](https://github.com/learn-co-students/rails-cru-form_for-lab-online-web-ft-120919)
+- [hw-bdd-cucumber](https://github.com/saasbook/hw-bdd-cucumber)
   - 
-- [puma](https://github.com/puma/puma)
-  - A Ruby/Rack web server built for concurrency
-- [rpush](https://github.com/rpush/rpush)
-  - The push notification service for Ruby.
-- [ruby-enumerables-cartoon-collections-lab-houston-web-030920](https://github.com/learn-co-students/ruby-enumerables-cartoon-collections-lab-houston-web-030920)
+- [fastlane-plugin-clean_testflight_testers](https://github.com/fastlane-community/fastlane-plugin-clean_testflight_testers)
+  - Automatically remove TestFlight testers that are not actually testing your app
+- [takeaway-challenge](https://github.com/makersacademy/takeaway-challenge)
+  - Use the Twilio Gem to order food
+- [prework-videos-intro-to-tests-online-web-sp-000](https://github.com/learn-co-students/prework-videos-intro-to-tests-online-web-sp-000)
   - 
-- [ttt-5-move-rb-ruby-intro-000](https://github.com/learn-co-students/ttt-5-move-rb-ruby-intro-000)
+- [ruby-enumerables-hash-practice-nyc-pigeon-organizer-lab-austin-web-030920](https://github.com/learn-co-students/ruby-enumerables-hash-practice-nyc-pigeon-organizer-lab-austin-web-030920)
   - 
-- [api](https://github.com/hanami/api)
-  - Minimal, extremely fast, lightweight Ruby framework for HTTP APIs
-- [rails-generators-readme-online-web-ft-120919](https://github.com/learn-co-students/rails-generators-readme-online-web-ft-120919)
+- [sample_apps](https://github.com/yasslab/sample_apps)
+  - Railsチュートリアルの各章が終わった状態を集めたリポジトリです。
+- [will_paginate](https://github.com/mislav/will_paginate)
+  - Pagination library for Rails, Sinatra, Merb, DataMapper, and more
+- [programming-univbasics-4-array-concept-review-lab-nyc-web-030920](https://github.com/learn-co-students/programming-univbasics-4-array-concept-review-lab-nyc-web-030920)
+  - 
+- [active-record-writing-migrations-lab-nyc-web-021720](https://github.com/learn-co-students/active-record-writing-migrations-lab-nyc-web-021720)
+  - 
+- [orm-mapping-to-table-lab-online-web-pt-120919](https://github.com/learn-co-students/orm-mapping-to-table-lab-online-web-pt-120919)
   - 
 - [rails-form_for-lab-online-web-ft-120919](https://github.com/learn-co-students/rails-form_for-lab-online-web-ft-120919)
   - 
-- [sinatra-basic-routes-lab-onl01-seng-ft-012120](https://github.com/learn-co-students/sinatra-basic-routes-lab-onl01-seng-ft-012120)
+- [Learning-SICP](https://github.com/DeathKing/Learning-SICP)
+  - MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。
+- [myapp](https://github.com/jeibbor/myapp)
+  - My first Rails app
+- [sinatra-basic-views-lab-onl01-seng-pt-110319](https://github.com/learn-co-students/sinatra-basic-views-lab-onl01-seng-pt-110319)
   - 
-- [r10k](https://github.com/jeremyevans/r10k)
-  - Comparative ruby web application benchmarks with a large number of routes
-- [tmuxinator](https://github.com/tmuxinator/tmuxinator)
-  - Manage complex tmux sessions easily
-- [bringing-it-all-together-online-web-pt-120919](https://github.com/learn-co-students/bringing-it-all-together-online-web-pt-120919)
+- [ttt-1-welcome-rb-bootcamp-prep-000](https://github.com/learn-co-students/ttt-1-welcome-rb-bootcamp-prep-000)
   - 
-- [ruby-enumerables-introduction-to-map-and-reduce-lab-houston-web-030920](https://github.com/learn-co-students/ruby-enumerables-introduction-to-map-and-reduce-lab-houston-web-030920)
+- [sinatra-password-security-onl01-seng-pt-110319](https://github.com/learn-co-students/sinatra-password-security-onl01-seng-pt-110319)
   - 
-- [activerecord-lifecycle-reading-london-web-012720](https://github.com/learn-co-students/activerecord-lifecycle-reading-london-web-012720)
+- [ttt-with-ai-project-onl01-seng-ft-021020](https://github.com/learn-co-students/ttt-with-ai-project-onl01-seng-ft-021020)
+  - 
+- [oo-email-parser-onl01-seng-pt-021020](https://github.com/learn-co-students/oo-email-parser-onl01-seng-pt-021020)
   - 

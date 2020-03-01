@@ -1,51 +1,51 @@
 # rust
-- [atm-cli](https://github.com/allthemusicllc/atm-cli)
-  - Command line tool for generating and working with MIDI files.
-- [libatm](https://github.com/allthemusicllc/libatm)
-  - Library for generating and working with MIDI files
-- [rust](https://github.com/mdx-js/rust)
-  - mdx, in rust. maybe.
-- [talent-plan](https://github.com/pingcap/talent-plan)
-  - PingCAP training courses
-- [book](https://github.com/rust-lang/book)
-  - The Rust Programming Language
-- [futures-rs](https://github.com/rust-lang/futures-rs)
-  - Zero-cost asynchronous programming in Rust
-- [ripgrep](https://github.com/BurntSushi/ripgrep)
-  - ripgrep recursively searches directories for a regex pattern
-- [wasmtime](https://github.com/bytecodealliance/wasmtime)
-  - Standalone JIT-style runtime for WebAssembly, using Cranelift
-- [open-ethereum](https://github.com/OpenEthereum/open-ethereum)
-  - The fast, light, and robust client for Ethereum-like networks.
-- [nushell](https://github.com/nushell/nushell)
-  - A modern shell written in Rust
-- [bustle](https://github.com/jonhoo/bustle)
-  - A benchmarking harness for concurrent key-value collections
-- [tonic](https://github.com/hyperium/tonic)
-  - A native gRPC client & server implementation with async/await support.
-- [mdBook](https://github.com/rust-lang/mdBook)
-  - Create book from markdown files. Like Gitbook but implemented in Rust
-- [tikv](https://github.com/tikv/tikv)
-  - Distributed transactional key-value database, originally created to complement TiDB
-- [tremor-runtime](https://github.com/wayfair-tremor/tremor-runtime)
-  - Main Tremor Project Rust Codebase
-- [tokenizers](https://github.com/huggingface/tokenizers)
-  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
-- [mio](https://github.com/tokio-rs/mio)
-  - Metal IO library for Rust
-- [lemmy](https://github.com/dessalines/lemmy)
-  - 🐀 Building a federated alternative to reddit in rust
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-  - A curated list of Rust code and resources.
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [sonic](https://github.com/valeriansaliou/sonic)
-  - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [rust](https://github.com/rust-lang/rust)
   - Empowering everyone to build reliable and efficient software.
+- [996.ICU](https://github.com/996icu/996.ICU)
+  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [wasmtime](https://github.com/bytecodealliance/wasmtime)
+  - Standalone JIT-style runtime for WebAssembly, using Cranelift
+- [talent-plan](https://github.com/pingcap/talent-plan)
+  - PingCAP training courses
+- [tokio](https://github.com/tokio-rs/tokio)
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
+- [open-ethereum](https://github.com/OpenEthereum/open-ethereum)
+  - The fast, light, and robust client for Ethereum-like networks.
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
 - [ncspot](https://github.com/hrkfdn/ncspot)
   - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
-- [cam-geom](https://github.com/strawlab/cam-geom)
-  - 📷 📐 Geometric models of cameras for photogrammetry
+- [topgrade](https://github.com/r-darwish/topgrade)
+  - Upgrade everything
+- [phetch](https://github.com/xvxx/phetch)
+  - 🐭 quick lil gopher client for your terminal
+- [pallet](https://github.com/kardeiz/pallet)
+  - 
+- [diesel](https://github.com/diesel-rs/diesel)
+  - A safe, extensible ORM and Query Builder for Rust
+- [neovide](https://github.com/Kethku/neovide)
+  - No Nonsense Neovim Client in Rust
+- [lemmy](https://github.com/dessalines/lemmy)
+  - 🐀 Building a federated alternative to reddit in rust
+- [rust-design-pattern](https://github.com/lpxxn/rust-design-pattern)
+  - rust design patterns
+- [rust](https://github.com/mdx-js/rust)
+  - mdx, in rust. maybe.
+- [prost](https://github.com/danburkert/prost)
+  - PROST! a Protocol Buffers implementation for the Rust Language
 - [flutter-rs](https://github.com/flutter-rs/flutter-rs)
   - Build beautiful desktop apps with flutter and rust. 🌠
+- [tokenizers](https://github.com/huggingface/tokenizers)
+  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
+  - Facilitating high-level interactions between Wasm modules and JavaScript
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix web is a small, pragmatic, and extremely fast rust web framework.
+- [tree-sitter](https://github.com/tree-sitter/tree-sitter)
+  - An incremental parsing system for programming tools
+- [lumen](https://github.com/lumen/lumen)
+  - An alternative BEAM implementation, designed for WebAssembly
+- [arch-audit](https://github.com/ilpianista/arch-audit)
+  - A utility like pkg-audit for Arch Linux. Based on Arch Security Team data.
