@@ -1,51 +1,51 @@
 # c++
-- [Meshtastic-esp32](https://github.com/geeksville/Meshtastic-esp32)
-  - Device code for the Meshtastic ski/hike/fly/Signal-chat GPS radio
-- [electron](https://github.com/electron/electron)
-  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [openpilot](https://github.com/commaai/openpilot)
-  - open source driving agent
 - [tensorflow](https://github.com/tensorflow/tensorflow)
   - An Open Source Machine Learning Framework for Everyone
-- [QGIS](https://github.com/qgis/QGIS)
-  - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
-- [qBittorrent](https://github.com/qbittorrent/qBittorrent)
-  - qBittorrent BitTorrent client
+- [PowerToys](https://github.com/microsoft/PowerToys)
+  - Windows system utilities to maximize productivity
 - [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
   - C++那些事
-- [IntelBluetoothFirmware](https://github.com/zxystd/IntelBluetoothFirmware)
-  - Intel bluetooth drivers
-- [zld](https://github.com/michaeleisel/zld)
-  - A faster version of Apple's linker
-- [aria2](https://github.com/aria2/aria2)
-  - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-- [splendid_implanter](https://github.com/haram/splendid_implanter)
-  - BattlEye compatible injector, done completely from user-mode.
-- [Algo_Ds_Notes](https://github.com/jainaman224/Algo_Ds_Notes)
-  - It is a repository that is a collection of algorithms and data structures with implementation in various languages.
-- [loam_livox](https://github.com/hku-mars/loam_livox)
-  - A robust LiDAR Odometry and Mapping (LOAM) package for Livox-LiDAR
-- [arcore-android-sdk](https://github.com/google-ar/arcore-android-sdk)
-  - ARCore SDK for Android Studio
-- [rocksdb](https://github.com/facebook/rocksdb)
-  - A library that provides an embeddable, persistent key-value store for fast storage.
-- [ClickHouse](https://github.com/ClickHouse/ClickHouse)
-  - ClickHouse is a free analytics DBMS for big data
-- [esphome](https://github.com/esphome/esphome)
-  - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
-- [jfx](https://github.com/openjdk/jfx)
-  - https://openjdk.java.net/projects/openjfx/
+- [Qv2ray](https://github.com/Qv2ray/Qv2ray)
+  - 🌟 Linux / Windows / macOS 跨平台 V2Ray GUI 🔨 使用 C++17 ，支持订阅，扫描二维码，支持自定义路由编辑 🌟
+- [leveldb](https://github.com/google/leveldb)
+  - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+- [Tasmota](https://github.com/arendst/Tasmota)
+  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
+- [srt](https://github.com/Haivision/srt)
+  - Secure, Reliable, Transport
+- [tiny-tensorrt](https://github.com/zerollzeng/tiny-tensorrt)
+  - a simple, efficient, easy-to-use nvidia TensorRT wrapper for cnn,sopport c++ and python
+- [SFML](https://github.com/SFML/SFML)
+  - Simple and Fast Multimedia Library
+- [rpcs3](https://github.com/RPCS3/rpcs3)
+  - PS3 emulator/debugger
+- [Play-Leetcode](https://github.com/liuyubobobo/Play-Leetcode)
+  - My Solutions to Leetcode problems. All solutions support C++ language, some support Java and Python. Multiple solutions will be given by most problems. Enjoy:) 我的Leetcode解答。所有的问题都支持C++语言，一部分问题支持Java语言。近乎所有问题都会提供多个算法解决。大家加油！：）
 - [carla](https://github.com/carla-simulator/carla)
   - Open-source simulator for autonomous driving research.
-- [JUCE](https://github.com/WeAreROLI/JUCE)
-  - The JUCE cross-platform C++ framework
-- [LAVFilters](https://github.com/Nevcairiel/LAVFilters)
-  - LAV Filters - Open-Source DirectShow Media Splitter and Decoders
-- [bitcoin](https://github.com/bitcoin/bitcoin)
-  - Bitcoin Core integration/staging tree
-- [dlib](https://github.com/davisking/dlib)
-  - A toolkit for making real world machine learning and data analysis applications in C++
-- [GDevelop](https://github.com/4ian/GDevelop)
-  - 🎮 GDevelop is an open-source, cross-platform game engine designed to be used by everyone.
-- [folly](https://github.com/facebook/folly)
-  - An open-source C++ library developed and used at Facebook.
+- [godot](https://github.com/godotengine/godot)
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [pcWechat](https://github.com/codeByDog/pcWechat)
+  - windows PC微信逆向
+- [terminal](https://github.com/microsoft/terminal)
+  - The new Windows Terminal and the original Windows console host, all in the same place!
+- [Algo_Ds_Notes](https://github.com/jainaman224/Algo_Ds_Notes)
+  - It is a repository that is a collection of algorithms and data structures with implementation in various languages.
+- [opencv](https://github.com/opencv/opencv)
+  - Open Source Computer Vision Library
+- [rocksdb](https://github.com/facebook/rocksdb)
+  - A library that provides an embeddable, persistent key-value store for fast storage.
+- [cppcheck](https://github.com/danmar/cppcheck)
+  - static analysis of C/C++ code
+- [yuzu](https://github.com/yuzu-emu/yuzu)
+  - Nintendo Switch Emulator
+- [STL](https://github.com/microsoft/STL)
+  - MSVC's implementation of the C++ Standard Library.
+- [ESPEasy](https://github.com/letscontrolit/ESPEasy)
+  - Easy MultiSensor device based on ESP8266
+- [IntelBluetoothFirmware](https://github.com/zxystd/IntelBluetoothFirmware)
+  - Intel bluetooth drivers
+- [milvus](https://github.com/milvus-io/milvus)
+  - Milvus is an open source vector similarity search engine.
+- [openpilot](https://github.com/commaai/openpilot)
+  - open source driving agent
