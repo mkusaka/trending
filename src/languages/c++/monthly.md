@@ -1,51 +1,51 @@
 # c++
-- [openpilot](https://github.com/commaai/openpilot)
-  - open source driving agent
 - [trojan](https://github.com/trojan-gfw/trojan)
   - An unidentifiable mechanism that helps you bypass GFW.
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [wav2letter](https://github.com/facebookresearch/wav2letter)
-  - Facebook AI Research's Automatic Speech Recognition Toolkit
-- [Marlin](https://github.com/MarlinFirmware/Marlin)
-  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
+- [openpilot](https://github.com/commaai/openpilot)
+  - open source driving agent
 - [mediapipe](https://github.com/google/mediapipe)
   - MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
-- [terminal](https://github.com/microsoft/terminal)
-  - The new Windows Terminal, and the original Windows console host - all in the same place!
-- [The-Open-Book](https://github.com/joeycastillo/The-Open-Book)
-  - 
-- [Tasmota](https://github.com/arendst/Tasmota)
-  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
-- [falco](https://github.com/falcosecurity/falco)
-  - Cloud Native Runtime Security
-- [open-builder](https://github.com/Hopson97/open-builder)
-  - Open source "Minecraft-like" game with multiplayer support.
-- [calculator](https://github.com/microsoft/calculator)
-  - Windows Calculator: A simple yet powerful calculator that ships with Windows
-- [BIGTREETECH-SKR-mini-E3](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3)
-  - BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.
-- [taichi](https://github.com/taichi-dev/taichi)
-  - Productive programming language for portable, high-performance, sparse & differentiable computing
-- [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)
-  - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects
-- [json](https://github.com/nlohmann/json)
-  - JSON for Modern C++
-- [nebula](https://github.com/vesoft-inc/nebula)
-  - A distributed, fast open-source graph database featuring horizontal scalability and high availability
-- [keepassxc](https://github.com/keepassxreboot/keepassxc)
-  - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
-- [allwpilib](https://github.com/wpilibsuite/allwpilib)
-  - Official Repository of WPILibJ and WPILibC
-- [endless-sky](https://github.com/endless-sky/endless-sky)
-  - Space exploration, trading, and combat game.
-- [llvm-project](https://github.com/llvm/llvm-project)
-  - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
-- [RaidFinder](https://github.com/Admiral-Fish/RaidFinder)
-  - Crossplatform RNG tool for Pokemon Sword/Shield raids
-- [re2](https://github.com/google/re2)
-  - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
-- [glow](https://github.com/pytorch/glow)
-  - Compiler for Neural Network hardware accelerators
+- [opencv](https://github.com/opencv/opencv)
+  - Open Source Computer Vision Library
+- [godot](https://github.com/godotengine/godot)
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [googletest](https://github.com/google/googletest)
+  - Googletest - Google Testing and Mocking Framework
+- [plaidml](https://github.com/plaidml/plaidml)
+  - PlaidML is a framework for making deep learning work everywhere.
 - [serenity](https://github.com/SerenityOS/serenity)
   - Serenity Operating System
+- [tensorflow](https://github.com/tensorflow/tensorflow)
+  - An Open Source Machine Learning Framework for Everyone
+- [spdlog](https://github.com/gabime/spdlog)
+  - Fast C++ logging library.
+- [abseil-cpp](https://github.com/abseil/abseil-cpp)
+  - Abseil Common Libraries (C++)
+- [re2](https://github.com/google/re2)
+  - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+- [grpc-web](https://github.com/grpc/grpc-web)
+  - gRPC for Web Clients
+- [jetson-inference](https://github.com/dusty-nv/jetson-inference)
+  - Guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
+- [Catch2](https://github.com/catchorg/Catch2)
+  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [llvm-project](https://github.com/llvm/llvm-project)
+  - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
+- [json](https://github.com/nlohmann/json)
+  - JSON for Modern C++
+- [PowerToys](https://github.com/microsoft/PowerToys)
+  - Windows system utilities to maximize productivity
+- [ton](https://github.com/ton-blockchain/ton)
+  - 
+- [arrow](https://github.com/apache/arrow)
+  - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…
+- [subconverter](https://github.com/tindy2013/subconverter)
+  - Utility to convert between various subscription format
+- [Qv2ray](https://github.com/Qv2ray/Qv2ray)
+  - 🌟 Linux / Windows / macOS 跨平台 V2Ray GUI 🔨 使用 C++17 ，支持订阅，扫描二维码，支持自定义路由编辑 🌟
+- [yaml-cpp](https://github.com/jbeder/yaml-cpp)
+  - A YAML parser and emitter in C++
+- [grpc](https://github.com/grpc/grpc)
+  - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [EASTL](https://github.com/electronicarts/EASTL)
+  - EASTL stands for Electronic Arts Standard Template Library. It is an extensive and robust implementation that has an emphasis on high performance.
