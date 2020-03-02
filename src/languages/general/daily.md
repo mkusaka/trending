@@ -12,7 +12,7 @@
 - [opensource.builders](https://github.com/junaid33/opensource.builders) : JavaScript
   - Find open-source alternatives
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
-  - 手把手撕LeetCode题目，扒各种算法套路的裤子，not only how，but also why. English translation is processing... Star this repo and come back soon:)
+  - 手把手撕LeetCode题目，扒各种算法套路的裤子，not only how，but also why. English version supported!
 - [CLUEDatasetSearch](https://github.com/CLUEbenchmark/CLUEDatasetSearch) : Python
   - 搜索所有中文NLP数据集，附常用英文NLP数据集
 - [The-Internship-v1](https://github.com/FBDevCLagos/The-Internship-v1) : 
