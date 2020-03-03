@@ -39,7 +39,7 @@
   - BERT-related papers
 - [gitea](https://github.com/go-gitea/gitea) : Go
   - Git with a cup of tea, painless self-hosted git service
-- [home-assistant](https://github.com/home-assistant/home-assistant) : Python
+- [core](https://github.com/home-assistant/core) : Python
   - 🏡 Open source home automation that puts local control and privacy first
 - [ghostnet](https://github.com/huawei-noah/ghostnet) : Python
   - [CVPR2020] Surpassing MobileNetV3: "GhostNet: More Features from Cheap Operations"
