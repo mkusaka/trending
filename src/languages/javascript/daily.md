@@ -1,51 +1,51 @@
 # javascript
-- [opensource.builders](https://github.com/junaid33/opensource.builders)
-  - Find open-source alternatives
-- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
-  - 🎆Interactive Online Platform that Visualizes Algorithms from Code
-- [vue](https://github.com/vuejs/vue)
-  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [next.js](https://github.com/zeit/next.js)
-  - The React Framework
-- [iptv](https://github.com/iptv-org/iptv)
-  - Collection of 8000+ publicly available IPTV channels from all over the world
-- [covid19](https://github.com/kaz-ogiwara/covid19)
-  - 新型コロナウイルス（COVID19）の国内における感染の状況を厚生労働省の報道発表資料からビジュアルにまとめた。
-- [esercizi-di-programmazione-javascript](https://github.com/AlbertoOlla/esercizi-di-programmazione-javascript)
-  - Esercizi di informatica! Impara a programmare, metti alla prova!
-- [mellow](https://github.com/mellow-io/mellow)
-  - Mellow is a rule-based global transparent proxy client for Windows, macOS and Linux.
-- [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China)
-  - 中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据 Node.js 爬虫。
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [discord.js](https://github.com/discordjs/discord.js)
-  - A powerful JavaScript library for interacting with the Discord API
-- [coreui-free-react-admin-template](https://github.com/coreui/coreui-free-react-admin-template)
-  - CoreUI React is free React admin template based on Bootstrap 4
-- [js-docs](https://github.com/LeonardoCesca/js-docs)
-  - Este projeto foi desenvolvido para contribuir com o open-source. Se você quiser contribuir basta seguir o README
-- [wappalyzer](https://github.com/AliasIO/wappalyzer)
-  - Cross-platform utility that uncovers the technologies used on websites.
-- [kbone](https://github.com/Tencent/kbone)
-  - 一个致力于微信小程序和 Web 端同构的解决方案
-- [create-react-app](https://github.com/facebook/create-react-app)
-  - Set up a modern web app by running one command.
-- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
-  - Revive unavailable songs for Netease Cloud Music
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
-- [lossless-cut](https://github.com/mifi/lossless-cut)
-  - The swiss army knife of lossless video/audio editing
-- [CyberChef](https://github.com/gchq/CyberChef)
-  - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-- [weui-wxss](https://github.com/Tencent/weui-wxss)
-  - A UI library by WeChat official design team, includes the most useful widgets/modules.
-- [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
-  - A WhatsApp API client that connects through the WhatsApp Web browser app
-- [web-ext](https://github.com/mozilla/web-ext)
-  - A command line tool to help build, run, and test web extensions
-- [kubernetes-in-action](https://github.com/luksa/kubernetes-in-action)
-  - Code from the Kubernetes in Action book
-- [free-hls-live](https://github.com/sxzz/free-hls-live)
-  - Free HLS 直播姬
+- [lando](https://github.com/lando/lando)
+  - A local development and DevOps tool for all your projects that is fast, easy, powerful and liberating
+- [carbon](https://github.com/carbon-design-system/carbon)
+  - A design system built by IBM
+- [ARC](https://github.com/fchollet/ARC)
+  - The Abstraction and Reasoning Corpus
+- [elementor](https://github.com/elementor/elementor)
+  - The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
+- [webcodesk-srv](https://github.com/webcodesk/webcodesk-srv)
+  - Webcodesk - Web Application Builder
+- [Historical-ranking-data-visualization-based-on-d3.js](https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js)
+  - 这是一个数据可视化项目，能够将历史数据排名转化为动态柱状图图表
+- [ccxt](https://github.com/ccxt/ccxt)
+  - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
+- [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
+  - 中文独立博客列表
+- [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
+  - Microsoft Authentication Library (MSAL) for JS
+- [BrasilAPI](https://github.com/filipedeschamps/BrasilAPI)
+  - Vamos transformar o Brasil em uma API?
+- [MQTT.js](https://github.com/mqttjs/MQTT.js)
+  - The MQTT client for Node.js and the browser
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [yapi](https://github.com/YMFE/yapi)
+  - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
+- [strapi](https://github.com/strapi/strapi)
+  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue)
+  - BootstrapVue, with over 40 plugins, more than 80 custom components and over 300 icons, provides one of the most comprehensive implementations of Bootstrap v4 components and grid system for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
+- [office-docs-powershell](https://github.com/MicrosoftDocs/office-docs-powershell)
+  - PowerShell Reference for Office Products - Short URL: aka.ms/office-powershell
+- [quasar](https://github.com/quasarframework/quasar)
+  - Quasar Framework - Build high-performance VueJS user interfaces in record time
+- [web3.js](https://github.com/ethereum/web3.js)
+  - Ethereum JavaScript API
+- [appium](https://github.com/appium/appium)
+  - 📱 Automation for iOS, Android, and Windows Apps.
+- [pdfmake](https://github.com/bpampuch/pdfmake)
+  - Client/server side PDF printing in pure JavaScript
+- [fabric.js](https://github.com/fabricjs/fabric.js)
+  - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
+- [Web](https://github.com/qianguyihao/Web)
+  - 前端入门和进阶学习笔记，超详细的Web前端学习图文教程。从零开始学前端，做一名精致的前端工程师。持续更新...
+- [Inputmask](https://github.com/RobinHerbots/Inputmask)
+  - Input Mask plugin
+- [axios](https://github.com/axios/axios)
+  - Promise based HTTP client for the browser and node.js
+- [cannon.js](https://github.com/schteppe/cannon.js)
+  - A lightweight 3D physics engine written in JavaScript.

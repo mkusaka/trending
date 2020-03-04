@@ -1,51 +1,51 @@
 # general
-- [fastbook](https://github.com/fastai/fastbook) : Jupyter Notebook
-  - Draft of the fastai book
-- [purecss-francine](https://github.com/cyanharlow/purecss-francine) : CSS
-  - HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.
-- [ElysiumMall](https://github.com/JackZhu426/ElysiumMall) : Java
-  - My Own Online Mall Project Using SpringBoot
-- [practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) : C#
-  - Practical samples of aspnet core 2.1, 2.2, 3.0 and 3.1 projects you can use. Readme contains explanations on all projects.
-- [openhospital](https://github.com/informatici/openhospital) : Perl
-  - Open Hospital is a free and open source software for healthcare data management. This repository is used to build its portable releases.
-- [opensource.builders](https://github.com/junaid33/opensource.builders) : JavaScript
-  - Find open-source alternatives
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
-  - 手把手撕LeetCode题目，扒各种算法套路的裤子，not only how，but also why. English version supported!
-- [CLUEDatasetSearch](https://github.com/CLUEbenchmark/CLUEDatasetSearch) : Python
-  - 搜索所有中文NLP数据集，附常用英文NLP数据集
-- [The-Internship-v1](https://github.com/FBDevCLagos/The-Internship-v1) : 
-  - That is the vision of the DevC Lagos: “The Internship v1”. The program is a DevC Lagos initiative where Project Managers, Developers, and DevOps specialists are taken through a 13 week period where they build 10 real-world software products distributed into 10 teams. These products could be Enterprise Apps, SaaS, Libraries or Utilities for “real…
-- [7days-golang](https://github.com/geektutu/7days-golang) : Go
-  - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc) 7天用Go动手写/从零实现系列
-- [monk_v1](https://github.com/Tessellate-Imaging/monk_v1) : Jupyter Notebook
-  - Monk is a low code Deep Learning tool and a unified wrapper for Computer Vision.
+- [PRML](https://github.com/ctgk/PRML) : Jupyter Notebook
+  - PRML algorithms implemented in Python
+- [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) : 
+  - Data science interview questions and answers
 - [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) : TeX
   - Cheat Sheets
-- [simpsons-in-css](https://github.com/pattle/simpsons-in-css) : CSS
-  - Simpsons characters in CSS
-- [css.gg](https://github.com/astrit/css.gg) : CSS
-  - 500+ CSS Icons. Customizable, Retina Ready with API & NPM
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - 手把手撕LeetCode题目，扒各种算法套路的裤子，not only how，but also why. English version supported!
+- [DungeonRush](https://github.com/Rapiz1/DungeonRush) : C
+  - 👾🐍 A game inspired by Snake, written in pure C with SDL
 - [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
   - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
+- [fuzzbench](https://github.com/google/fuzzbench) : Python
+  - FuzzBench - Fuzzer benchmarking as a service.
+- [goxygen](https://github.com/Shpota/goxygen) : Go
+  - Generate a modern Web project with Go, Angular/React/Vue, and MongoDB in seconds🚀
+- [terraform](https://github.com/hashicorp/terraform) : Go
+  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [ggplot2_workshop](https://github.com/thomasp85/ggplot2_workshop) : 
+  - Material for "Drawing Anything with ggplot2" workshop
+- [owasp-threat-dragon-desktop](https://github.com/mike-goodwin/owasp-threat-dragon-desktop) : CSS
+  - An installable desktop variant of OWASP Threat Dragon
+- [vimium](https://github.com/philc/vimium) : CoffeeScript
+  - The hacker's browser.
+- [JavaFamily](https://github.com/AobingJava/JavaFamily) : 
+  - 【互联网一线大厂面试+学习指南】进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看，前端同学我保证你也看得懂，看不懂你加我微信骂我渣男就好了。
+- [modern-typescript-with-examples-cheat-sheet](https://github.com/David-Else/modern-typescript-with-examples-cheat-sheet) : 
+  - Fully printable summary of modern TypeScript language features with extensive examples to help you learn
+- [libfacedetection](https://github.com/ShiqiYu/libfacedetection) : C++
+  - An open source library for face detection in images. The face detection speed can reach 1000FPS.
+- [css.gg](https://github.com/astrit/css.gg) : CSS
+  - 500+ CSS Icons. Customizable, Retina Ready with API & NPM
+- [practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) : C#
+  - Practical samples of aspnet core 2.1, 2.2, 3.0 and 3.1 projects you can use. Readme contains explanations on all projects.
+- [zio](https://github.com/zio/zio) : Scala
+  - ZIO — A type-safe, composable library for async and concurrent programming in Scala
+- [umi](https://github.com/umijs/umi) : TypeScript
+  - 🌋 Pluggable enterprise-level react application framework.
+- [pytorch-optimizer](https://github.com/jettify/pytorch-optimizer) : Python
+  - torch-optimizer -- collection of optimizers for Pytorch
+- [laravel](https://github.com/laravel/laravel) : PHP
+  - A PHP framework for web artisans
 - [awesome-shell](https://github.com/alebcay/awesome-shell) : 
   - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [swift-argument-parser](https://github.com/apple/swift-argument-parser) : Swift
-  - Straightforward, type-safe argument parsing for Swift
-- [tensorflow](https://github.com/tensorflow/tensorflow) : C++
-  - An Open Source Machine Learning Framework for Everyone
-- [BERT-related-papers](https://github.com/tomohideshibata/BERT-related-papers) : 
-  - BERT-related papers
-- [gitea](https://github.com/go-gitea/gitea) : Go
-  - Git with a cup of tea, painless self-hosted git service
-- [core](https://github.com/home-assistant/core) : Python
-  - 🏡 Open source home automation that puts local control and privacy first
-- [ghostnet](https://github.com/huawei-noah/ghostnet) : Python
-  - [CVPR2020] Surpassing MobileNetV3: "GhostNet: More Features from Cheap Operations"
-- [huginn](https://github.com/huginn/huginn) : Ruby
-  - Create agents that monitor and act on your behalf. Your agents are standing by!
-- [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) : Java
-  - Spring Boot 2.X 专栏更新完毕，Spring Cloud & Spring Cloud Alibaba 2.X 专栏更新中 。欢迎胖友 Star 一波
-- [VIBE](https://github.com/mkocabas/VIBE) : Python
-  - Official implementation of CVPR2020 paper "VIBE: Video Inference for Human Body Pose and Shape Estimation"
+- [COVID-19](https://github.com/midas-network/COVID-19) : 
+  - 2019 novel coronavirus repository
+- [rack](https://github.com/rack/rack) : Ruby
+  - a modular Ruby webserver interface
+- [logstash](https://github.com/elastic/logstash) : Ruby
+  - Logstash - transport and process your logs, events, or other data

@@ -1,51 +1,51 @@
 # ruby
+- [rack](https://github.com/rack/rack)
+  - a modular Ruby webserver interface
+- [logstash](https://github.com/elastic/logstash)
+  - Logstash - transport and process your logs, events, or other data
 - [huginn](https://github.com/huginn/huginn)
   - Create agents that monitor and act on your behalf. Your agents are standing by!
-- [arachni](https://github.com/Arachni/arachni)
-  - Web Application Security Scanner Framework
-- [jekyll](https://github.com/jekyll/jekyll)
-  - 🌐 Jekyll is a blog-aware static site generator in Ruby
+- [vagrant](https://github.com/hashicorp/vagrant)
+  - Vagrant is a tool for building and distributing development environments.
+- [linguist](https://github.com/github/linguist)
+  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+- [flipper](https://github.com/jnunemaker/flipper)
+  - 🐬 feature flipping for ruby (performant and simple)
+- [fluentd](https://github.com/fluent/fluentd)
+  - Fluentd: Unified Logging Layer (project under CNCF)
+- [omniauth](https://github.com/omniauth/omniauth)
+  - OmniAuth is a flexible authentication system utilizing Rack middleware.
+- [click-to-deploy](https://github.com/GoogleCloudPlatform/click-to-deploy)
+  - Source for Google Click to Deploy solutions listed on Google Cloud Marketplace.
+- [spree](https://github.com/spree/spree)
+  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
+- [zammad](https://github.com/zammad/zammad)
+  - Zammad is a web based open source helpdesk/customer support system
+- [searchkick](https://github.com/ankane/searchkick)
+  - Intelligent search made easy with Rails and Elasticsearch
+- [devise](https://github.com/heartcombo/devise)
+  - Flexible authentication solution for Rails with Warden.
 - [rails](https://github.com/rails/rails)
   - Ruby on Rails
-- [chatwoot](https://github.com/chatwoot/chatwoot)
-  - Simple and elegant live chat software 🔥💬
-- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-  - A curated list of awesome awesomeness
-- [monster_shop_final](https://github.com/turingschool-examples/monster_shop_final)
-  - 
-- [hw-bdd-cucumber](https://github.com/saasbook/hw-bdd-cucumber)
-  - 
-- [fastlane-plugin-clean_testflight_testers](https://github.com/fastlane-community/fastlane-plugin-clean_testflight_testers)
-  - Automatically remove TestFlight testers that are not actually testing your app
-- [takeaway-challenge](https://github.com/makersacademy/takeaway-challenge)
-  - Use the Twilio Gem to order food
-- [prework-videos-intro-to-tests-online-web-sp-000](https://github.com/learn-co-students/prework-videos-intro-to-tests-online-web-sp-000)
-  - 
-- [ruby-enumerables-hash-practice-nyc-pigeon-organizer-lab-austin-web-030920](https://github.com/learn-co-students/ruby-enumerables-hash-practice-nyc-pigeon-organizer-lab-austin-web-030920)
-  - 
-- [sample_apps](https://github.com/yasslab/sample_apps)
-  - Railsチュートリアルの各章が終わった状態を集めたリポジトリです。
-- [will_paginate](https://github.com/mislav/will_paginate)
-  - Pagination library for Rails, Sinatra, Merb, DataMapper, and more
-- [programming-univbasics-4-array-concept-review-lab-nyc-web-030920](https://github.com/learn-co-students/programming-univbasics-4-array-concept-review-lab-nyc-web-030920)
-  - 
-- [active-record-writing-migrations-lab-nyc-web-021720](https://github.com/learn-co-students/active-record-writing-migrations-lab-nyc-web-021720)
-  - 
-- [orm-mapping-to-table-lab-online-web-pt-120919](https://github.com/learn-co-students/orm-mapping-to-table-lab-online-web-pt-120919)
-  - 
-- [rails-form_for-lab-online-web-ft-120919](https://github.com/learn-co-students/rails-form_for-lab-online-web-ft-120919)
-  - 
-- [Learning-SICP](https://github.com/DeathKing/Learning-SICP)
-  - MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。
-- [myapp](https://github.com/jeibbor/myapp)
-  - My first Rails app
-- [sinatra-basic-views-lab-onl01-seng-pt-110319](https://github.com/learn-co-students/sinatra-basic-views-lab-onl01-seng-pt-110319)
-  - 
-- [ttt-1-welcome-rb-bootcamp-prep-000](https://github.com/learn-co-students/ttt-1-welcome-rb-bootcamp-prep-000)
-  - 
-- [sinatra-password-security-onl01-seng-pt-110319](https://github.com/learn-co-students/sinatra-password-security-onl01-seng-pt-110319)
-  - 
-- [ttt-with-ai-project-onl01-seng-ft-021020](https://github.com/learn-co-students/ttt-with-ai-project-onl01-seng-ft-021020)
-  - 
-- [oo-email-parser-onl01-seng-pt-021020](https://github.com/learn-co-students/oo-email-parser-onl01-seng-pt-021020)
-  - 
+- [homebrew-bundle](https://github.com/Homebrew/homebrew-bundle)
+  - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
+- [capybara](https://github.com/teamcapybara/capybara)
+  - Acceptance test framework for web applications
+- [rake](https://github.com/ruby/rake)
+  - A make-like build utility for Ruby.
+- [manageiq](https://github.com/ManageIQ/manageiq)
+  - ManageIQ Open-Source Management Platform
+- [fastlane](https://github.com/fastlane/fastlane)
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [rswag](https://github.com/rswag/rswag)
+  - Seamlessly adds a Swagger to Rails-based API's
+- [chef](https://github.com/chef/chef)
+  - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
+- [otwarchive](https://github.com/otwcode/otwarchive)
+  - The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project
+- [jruby](https://github.com/jruby/jruby)
+  - JRuby, an implementation of Ruby on the JVM
+- [rubocop](https://github.com/rubocop-hq/rubocop)
+  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+- [pundit](https://github.com/varvet/pundit)
+  - Minimal authorization through OO design and pure Ruby classes
