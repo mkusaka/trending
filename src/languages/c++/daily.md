@@ -1,51 +1,51 @@
 # c++
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
+- [libfacedetection](https://github.com/ShiqiYu/libfacedetection)
+  - An open source library for face detection in images. The face detection speed can reach 1000FPS.
+- [tesseract](https://github.com/tesseract-ocr/tesseract)
+  - Tesseract Open Source OCR Engine (main repository)
 - [PowerToys](https://github.com/microsoft/PowerToys)
   - Windows system utilities to maximize productivity
+- [googletest](https://github.com/google/googletest)
+  - Googletest - Google Testing and Mocking Framework
+- [onnxruntime](https://github.com/microsoft/onnxruntime)
+  - ONNX Runtime: cross-platform, high performance scoring engine for ML models
 - [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
   - C++那些事
-- [Qv2ray](https://github.com/Qv2ray/Qv2ray)
-  - 🌟 Linux / Windows / macOS 跨平台 V2Ray GUI 🔨 使用 C++17 ，支持订阅，扫描二维码，支持自定义路由编辑 🌟
-- [leveldb](https://github.com/google/leveldb)
-  - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
-- [Tasmota](https://github.com/arendst/Tasmota)
-  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
-- [srt](https://github.com/Haivision/srt)
-  - Secure, Reliable, Transport
-- [tiny-tensorrt](https://github.com/zerollzeng/tiny-tensorrt)
-  - a simple, efficient, easy-to-use nvidia TensorRT wrapper for cnn,sopport c++ and python
-- [SFML](https://github.com/SFML/SFML)
-  - Simple and Fast Multimedia Library
-- [rpcs3](https://github.com/RPCS3/rpcs3)
-  - PS3 emulator/debugger
-- [Play-Leetcode](https://github.com/liuyubobobo/Play-Leetcode)
-  - My Solutions to Leetcode problems. All solutions support C++ language, some support Java and Python. Multiple solutions will be given by most problems. Enjoy:) 我的Leetcode解答。所有的问题都支持C++语言，一部分问题支持Java语言。近乎所有问题都会提供多个算法解决。大家加油！：）
-- [carla](https://github.com/carla-simulator/carla)
-  - Open-source simulator for autonomous driving research.
+- [bitcoin](https://github.com/bitcoin/bitcoin)
+  - Bitcoin Core integration/staging tree
+- [pytorch](https://github.com/pytorch/pytorch)
+  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [NymphCast](https://github.com/MayaPosch/NymphCast)
+  - Audio and video casting system with support for custom applications.
+- [protobuf](https://github.com/protocolbuffers/protobuf)
+  - Protocol Buffers - Google's data interchange format
+- [grpc](https://github.com/grpc/grpc)
+  - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [godot](https://github.com/godotengine/godot)
   - Godot Engine – Multi-platform 2D and 3D game engine
-- [pcWechat](https://github.com/codeByDog/pcWechat)
-  - windows PC微信逆向
-- [terminal](https://github.com/microsoft/terminal)
-  - The new Windows Terminal and the original Windows console host, all in the same place!
-- [Algo_Ds_Notes](https://github.com/jainaman224/Algo_Ds_Notes)
-  - It is a repository that is a collection of algorithms and data structures with implementation in various languages.
+- [rapidjson](https://github.com/Tencent/rapidjson)
+  - A fast JSON parser/generator for C++ with both SAX/DOM style API
 - [opencv](https://github.com/opencv/opencv)
   - Open Source Computer Vision Library
-- [rocksdb](https://github.com/facebook/rocksdb)
-  - A library that provides an embeddable, persistent key-value store for fast storage.
-- [cppcheck](https://github.com/danmar/cppcheck)
-  - static analysis of C/C++ code
-- [yuzu](https://github.com/yuzu-emu/yuzu)
-  - Nintendo Switch Emulator
-- [STL](https://github.com/microsoft/STL)
-  - MSVC's implementation of the C++ Standard Library.
-- [ESPEasy](https://github.com/letscontrolit/ESPEasy)
-  - Easy MultiSensor device based on ESP8266
-- [IntelBluetoothFirmware](https://github.com/zxystd/IntelBluetoothFirmware)
-  - Intel bluetooth drivers
-- [milvus](https://github.com/milvus-io/milvus)
-  - Milvus is an open source vector similarity search engine.
-- [openpilot](https://github.com/commaai/openpilot)
-  - open source driving agent
+- [pcl](https://github.com/PointCloudLibrary/pcl)
+  - Point Cloud Library (PCL)
+- [sumo](https://github.com/eclipse/sumo)
+  - Eclipse SUMO is an open source, highly portable, microscopic and continuous road traffic simulation package designed to handle large road networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.
+- [WebServer](https://github.com/linyacool/WebServer)
+  - A C++ High Performance Web Server
+- [ardupilot](https://github.com/ArduPilot/ardupilot)
+  - ArduPlane, ArduCopter, ArduRover source
+- [pybind11](https://github.com/pybind/pybind11)
+  - Seamless operability between C++11 and Python
+- [emscripten](https://github.com/emscripten-core/emscripten)
+  - Emscripten: An LLVM-to-Web Compiler
+- [tensorflow](https://github.com/tensorflow/tensorflow)
+  - An Open Source Machine Learning Framework for Everyone
+- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+  - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+- [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2)
+  - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
+- [envoy](https://github.com/envoyproxy/envoy)
+  - Cloud-native high-performance edge/middle/service proxy
+- [annoy](https://github.com/spotify/annoy)
+  - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk

@@ -1,51 +1,51 @@
 # typescript
-- [craft.js](https://github.com/prevwong/craft.js)
-  - 🚀 A React Framework for building extensible drag and drop page editors
-- [deno](https://github.com/denoland/deno)
-  - A secure JavaScript and TypeScript runtime
-- [storybook](https://github.com/storybookjs/storybook)
-  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
-- [nest](https://github.com/nestjs/nest)
-  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-- [react-diagrams](https://github.com/projectstorm/react-diagrams)
-  - a super simple, no-nonsense diagramming library written in react that just works
-- [angularfire](https://github.com/angular/angularfire)
-  - The official Angular library for Firebase.
-- [react-sketchapp](https://github.com/airbnb/react-sketchapp)
-  - render React components to Sketch ⚛️💎
-- [graphql-tools](https://github.com/apollographql/graphql-tools)
-  - 🔧 Build, mock, and stitch a GraphQL schema using the schema language
-- [html2canvas](https://github.com/niklasvh/html2canvas)
-  - Screenshots with JavaScript
-- [components](https://github.com/angular/components)
-  - Component infrastructure and Material Design components for Angular
-- [tinacms](https://github.com/tinacms/tinacms)
-  - Tina is a site editing toolkit for modern React-based sites (Gatsby and Next.js)
-- [react-navigation](https://github.com/react-navigation/react-navigation)
-  - Routing and navigation for your React Native apps
-- [angular-realworld-example-app](https://github.com/gothinkster/angular-realworld-example-app)
-  - Exemplary real world application built with Angular
-- [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
-  - A Foundation for Scalable Cross-Platform Apps
-- [material-components-web](https://github.com/material-components/material-components-web)
-  - Modular and customizable Material Design UI components for the web
-- [react-three-fiber](https://github.com/react-spring/react-three-fiber)
-  - 🇨🇭A react reconciler for threejs (web and react-native)
-- [vue-storefront](https://github.com/DivanteLtd/vue-storefront)
-  - Vue Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported. Always Open Source, MIT license. Join us as contributor (contributors@vuestorefront.io). Check out our new blog: https://blog.vuestorefront.io/
+- [umi](https://github.com/umijs/umi)
+  - 🌋 Pluggable enterprise-level react application framework.
+- [G2](https://github.com/antvis/G2)
+  - 📊 A highly interactive data-driven visualization grammar for statistical charts.
+- [react-use](https://github.com/streamich/react-use)
+  - React Hooks — 👍
+- [vuetify](https://github.com/vuetifyjs/vuetify)
+  - 🐉 Material Component Framework for Vue
+- [vue-styleguidist](https://github.com/vue-styleguidist/vue-styleguidist)
+  - Created from react styleguidist for Vue Components with a living style guide
+- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
+  - The source for REST API specifications for Microsoft Azure.
+- [dumi](https://github.com/umijs/dumi)
+  - A doc tool base on Umi that can help you dev library & write doc.
+- [qiankun](https://github.com/umijs/qiankun)
+  - 📦🚀Blazing fast, simple and completed solution for micro frontends.
+- [xstate](https://github.com/davidkpiano/xstate)
+  - State machines and statecharts for the modern web.
+- [n8n](https://github.com/n8n-io/n8n)
+  - Free and open node based Workflow Automation Tool. Easily automate tasks across different services.
+- [formik](https://github.com/jaredpalmer/formik)
+  - Build forms in React, without the tears 😭
 - [jest](https://github.com/facebook/jest)
   - Delightful JavaScript Testing.
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
-- [GGEditor](https://github.com/alibaba/GGEditor)
-  - A visual graph editor based on G6 and React
-- [made-in-nigeria](https://github.com/acekyd/made-in-nigeria)
-  - It is rumored that Nigerians only know how to consume tools and not create them. Here is a curation of awesome tools built by Nigerians that can be used by anybody and from anywhere in the world.
-- [ignite](https://github.com/infinitered/ignite)
-  - The hottest CLI for React Native, boilerplates, plugins, generators, and more!
-- [dpo-voyager](https://github.com/Smithsonian/dpo-voyager)
-  - DPO Voyager - 3D Explorer and Tool Suite
-- [redux-toolkit](https://github.com/reduxjs/redux-toolkit)
-  - The official, opinionated, batteries-included toolset for efficient Redux development
-- [vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples)
-  - Sample code illustrating the VS Code extension API.
+- [VoTT](https://github.com/microsoft/VoTT)
+  - Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.
+- [ngx-charts](https://github.com/swimlane/ngx-charts)
+  - 📊 Declarative Charting Framework for Angular
+- [typeorm](https://github.com/typeorm/typeorm)
+  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+- [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)
+  - An enterprise-class UI components based on Ant Design and Angular. 🐜
+- [linaria](https://github.com/callstack/linaria)
+  - Zero-runtime CSS in JS library
+- [stencil](https://github.com/ionic-team/stencil)
+  - A Web Component compiler for building fast, reusable UI components and Progressive Web Apps 💎 Built by the Ionic Framework team
+- [angular-cli](https://github.com/angular/angular-cli)
+  - CLI tool for Angular
+- [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
+  - Tasks for Azure Pipelines
+- [ng-select](https://github.com/ng-select/ng-select)
+  - ⭐️ Native angular 6+ select component
+- [react-day-picker](https://github.com/gpbl/react-day-picker)
+  - Lightweight date picker component for React
+- [aws-cdk](https://github.com/aws/aws-cdk)
+  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+- [highcharts](https://github.com/highcharts/highcharts)
+  - Highcharts JS, the JavaScript charting framework
+- [react-three-fiber](https://github.com/react-spring/react-three-fiber)
+  - 🇨🇭A react reconciler for threejs (web and react-native)

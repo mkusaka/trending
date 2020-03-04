@@ -1,51 +1,51 @@
 # rust
+- [wasmer](https://github.com/wasmerio/wasmer)
+  - 🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten
 - [rust](https://github.com/rust-lang/rust)
   - Empowering everyone to build reliable and efficient software.
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [wasmtime](https://github.com/bytecodealliance/wasmtime)
-  - Standalone JIT-style runtime for WebAssembly, using Cranelift
-- [talent-plan](https://github.com/pingcap/talent-plan)
-  - PingCAP training courses
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
+- [nushell](https://github.com/nushell/nushell)
+  - A modern shell written in Rust
+- [cargo](https://github.com/rust-lang/cargo)
+  - The Rust package manager
+- [firecracker](https://github.com/firecracker-microvm/firecracker)
+  - Secure and fast microVMs for serverless computing.
+- [starship](https://github.com/starship/starship)
+  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [mio](https://github.com/tokio-rs/mio)
+  - Metal IO library for Rust
+- [reqwest](https://github.com/seanmonstar/reqwest)
+  - An easy and powerful Rust HTTP Client
+- [servo](https://github.com/servo/servo)
+  - The Servo Browser Engine
+- [kube-rs](https://github.com/clux/kube-rs)
+  - kubernetes client and futures controller runtime
+- [tower](https://github.com/tower-rs/tower)
+  - async fn(Request) -> Result<Response, Error>
+- [websocat](https://github.com/vi/websocat)
+  - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
+- [vector](https://github.com/timberio/vector)
+  - A lightweight and ultra-fast tool for building observability pipelines
 - [open-ethereum](https://github.com/OpenEthereum/open-ethereum)
   - The fast, light, and robust client for Ethereum-like networks.
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
-  - Unofficial Bitwarden compatible server written in Rust
-- [ncspot](https://github.com/hrkfdn/ncspot)
-  - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
-- [topgrade](https://github.com/r-darwish/topgrade)
-  - Upgrade everything
-- [phetch](https://github.com/xvxx/phetch)
-  - 🐭 quick lil gopher client for your terminal
-- [pallet](https://github.com/kardeiz/pallet)
-  - 
-- [diesel](https://github.com/diesel-rs/diesel)
-  - A safe, extensible ORM and Query Builder for Rust
-- [neovide](https://github.com/Kethku/neovide)
-  - No Nonsense Neovim Client in Rust
-- [lemmy](https://github.com/dessalines/lemmy)
-  - 🐀 Building a federated alternative to reddit in rust
+- [grin](https://github.com/mimblewimble/grin)
+  - Minimal implementation of the Mimblewimble protocol.
 - [rust-design-pattern](https://github.com/lpxxn/rust-design-pattern)
   - rust design patterns
-- [rust](https://github.com/mdx-js/rust)
-  - mdx, in rust. maybe.
-- [prost](https://github.com/danburkert/prost)
-  - PROST! a Protocol Buffers implementation for the Rust Language
-- [flutter-rs](https://github.com/flutter-rs/flutter-rs)
-  - Build beautiful desktop apps with flutter and rust. 🌠
-- [tokenizers](https://github.com/huggingface/tokenizers)
-  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
-- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
-  - Facilitating high-level interactions between Wasm modules and JavaScript
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix web is a small, pragmatic, and extremely fast rust web framework.
-- [tree-sitter](https://github.com/tree-sitter/tree-sitter)
-  - An incremental parsing system for programming tools
-- [lumen](https://github.com/lumen/lumen)
-  - An alternative BEAM implementation, designed for WebAssembly
-- [arch-audit](https://github.com/ilpianista/arch-audit)
-  - A utility like pkg-audit for Arch Linux. Based on Arch Security Team data.
+- [py-spy](https://github.com/benfred/py-spy)
+  - Sampling profiler for Python programs
+- [coreutils](https://github.com/uutils/coreutils)
+  - Cross-platform Rust rewrite of the GNU coreutils
+- [genact](https://github.com/svenstaro/genact)
+  - 🌀 A nonsense activity generator
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
+- [rustup](https://github.com/rust-lang/rustup)
+  - The Rust toolchain installer
+- [git-trim](https://github.com/foriequal0/git-trim)
+  - Automatically trims your branches whose tracking remote refs are merged or gone
+- [sled](https://github.com/spacejam/sled)
+  - the champagne of beta embedded databases
+- [ncspot](https://github.com/hrkfdn/ncspot)
+  - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
+- [elasticsearch-rs](https://github.com/elastic/elasticsearch-rs)
+  - Official Elasticsearch Rust Client
