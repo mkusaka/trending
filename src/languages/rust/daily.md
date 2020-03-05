@@ -1,51 +1,51 @@
 # rust
-- [wasmer](https://github.com/wasmerio/wasmer)
-  - 🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
 - [nushell](https://github.com/nushell/nushell)
   - A modern shell written in Rust
-- [cargo](https://github.com/rust-lang/cargo)
-  - The Rust package manager
 - [firecracker](https://github.com/firecracker-microvm/firecracker)
   - Secure and fast microVMs for serverless computing.
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [mio](https://github.com/tokio-rs/mio)
-  - Metal IO library for Rust
-- [reqwest](https://github.com/seanmonstar/reqwest)
-  - An easy and powerful Rust HTTP Client
-- [servo](https://github.com/servo/servo)
-  - The Servo Browser Engine
-- [kube-rs](https://github.com/clux/kube-rs)
-  - kubernetes client and futures controller runtime
-- [tower](https://github.com/tower-rs/tower)
-  - async fn(Request) -> Result<Response, Error>
-- [websocat](https://github.com/vi/websocat)
-  - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
+- [wasmer](https://github.com/wasmerio/wasmer)
+  - 🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten
 - [vector](https://github.com/timberio/vector)
   - A lightweight and ultra-fast tool for building observability pipelines
-- [open-ethereum](https://github.com/OpenEthereum/open-ethereum)
-  - The fast, light, and robust client for Ethereum-like networks.
-- [grin](https://github.com/mimblewimble/grin)
-  - Minimal implementation of the Mimblewimble protocol.
-- [rust-design-pattern](https://github.com/lpxxn/rust-design-pattern)
-  - rust design patterns
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [rust-libp2p](https://github.com/libp2p/rust-libp2p)
+  - The Rust Implementation of libp2p networking stack.
+- [void](https://github.com/void-rs/void)
+  - terminal-based personal organizer
+- [materialize](https://github.com/MaterializeInc/materialize)
+  - The Streaming Data Warehouse
+- [tower](https://github.com/tower-rs/tower)
+  - async fn(Request) -> Result<Response, Error>
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [reqwest](https://github.com/seanmonstar/reqwest)
+  - An easy and powerful Rust HTTP Client
+- [wrangler](https://github.com/cloudflare/wrangler)
+  - 🤠 wrangle your cloudflare workers
+- [blockstack-core](https://github.com/blockstack/blockstack-core)
+  - The Stacks 2.0 blockchain implementation
+- [pyo3](https://github.com/PyO3/pyo3)
+  - Rust bindings for the Python interpreter
+- [servo](https://github.com/servo/servo)
+  - The Servo Browser Engine
+- [findomain](https://github.com/Edu4rdSHL/findomain)
+  - The fastest and cross-platform subdomain enumerator, do not waste your time.
+- [starship](https://github.com/starship/starship)
+  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - ripgrep recursively searches directories for a regex pattern
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
 - [py-spy](https://github.com/benfred/py-spy)
   - Sampling profiler for Python programs
-- [coreutils](https://github.com/uutils/coreutils)
-  - Cross-platform Rust rewrite of the GNU coreutils
-- [genact](https://github.com/svenstaro/genact)
-  - 🌀 A nonsense activity generator
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-  - A curated list of Rust code and resources.
-- [rustup](https://github.com/rust-lang/rustup)
-  - The Rust toolchain installer
-- [git-trim](https://github.com/foriequal0/git-trim)
-  - Automatically trims your branches whose tracking remote refs are merged or gone
-- [sled](https://github.com/spacejam/sled)
-  - the champagne of beta embedded databases
-- [ncspot](https://github.com/hrkfdn/ncspot)
-  - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
-- [elasticsearch-rs](https://github.com/elastic/elasticsearch-rs)
-  - Official Elasticsearch Rust Client
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
+- [tantivy](https://github.com/tantivy-search/tantivy)
+  - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+- [kube-rs](https://github.com/clux/kube-rs)
+  - kubernetes client and futures controller runtime
+- [iron](https://github.com/iron/iron)
+  - An Extensible, Concurrent Web Framework for Rust
+- [WASI](https://github.com/WebAssembly/WASI)
+  - WebAssembly System Interface

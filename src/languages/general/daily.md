@@ -1,51 +1,49 @@
 # general
-- [PRML](https://github.com/ctgk/PRML) : Jupyter Notebook
-  - PRML algorithms implemented in Python
-- [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) : 
-  - Data science interview questions and answers
-- [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) : TeX
-  - Cheat Sheets
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
-  - 手把手撕LeetCode题目，扒各种算法套路的裤子，not only how，but also why. English version supported!
-- [DungeonRush](https://github.com/Rapiz1/DungeonRush) : C
-  - 👾🐍 A game inspired by Snake, written in pure C with SDL
-- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
-  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [fuzzbench](https://github.com/google/fuzzbench) : Python
-  - FuzzBench - Fuzzer benchmarking as a service.
+- [mitsuba2](https://github.com/mitsuba-renderer/mitsuba2) : C++
+  - Mitsuba 2: A Retargetable Forward and Inverse Renderer
+- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) : PowerShell
+  - Azure Quickstart Templates
 - [goxygen](https://github.com/Shpota/goxygen) : Go
   - Generate a modern Web project with Go, Angular/React/Vue, and MongoDB in seconds🚀
-- [terraform](https://github.com/hashicorp/terraform) : Go
-  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [ggplot2_workshop](https://github.com/thomasp85/ggplot2_workshop) : 
-  - Material for "Drawing Anything with ggplot2" workshop
-- [owasp-threat-dragon-desktop](https://github.com/mike-goodwin/owasp-threat-dragon-desktop) : CSS
-  - An installable desktop variant of OWASP Threat Dragon
-- [vimium](https://github.com/philc/vimium) : CoffeeScript
-  - The hacker's browser.
-- [JavaFamily](https://github.com/AobingJava/JavaFamily) : 
-  - 【互联网一线大厂面试+学习指南】进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看，前端同学我保证你也看得懂，看不懂你加我微信骂我渣男就好了。
-- [modern-typescript-with-examples-cheat-sheet](https://github.com/David-Else/modern-typescript-with-examples-cheat-sheet) : 
-  - Fully printable summary of modern TypeScript language features with extensive examples to help you learn
+- [ecosim](https://github.com/connor-brooks/ecosim) : C
+  - An interactive ecosystem and evolution simulator written in C and OpenGL, for GNU/Linux.
+- [cli](https://github.com/cli/cli) : Go
+  - The GitHub CLI
+- [serenity](https://github.com/SerenityOS/serenity) : C++
+  - The Serenity Operating System 🐞
+- [bitcoin](https://github.com/bitcoin/bitcoin) : C++
+  - Bitcoin Core integration/staging tree
+- [fastapi](https://github.com/tiangolo/fastapi) : Python
+  - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [covid19](https://github.com/tokyo-metropolitan-gov/covid19) : Vue
+  - 東京都 新型コロナウイルス感染症対策サイト
+- [nocode](https://github.com/kelseyhightower/nocode) : Dockerfile
+  - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+- [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) : 
+  - Data science interview questions and answers
+- [lecaa](https://github.com/hannob/lecaa) : Shell
+  - Check for Let's Encrypt CAA issue
+- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
+  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - 手把手撕LeetCode题目，扒各种算法套路的裤子，not only how，but also why. English version supported!
+- [PowerToys](https://github.com/microsoft/PowerToys) : C++
+  - Windows system utilities to maximize productivity
+- [use-cannon](https://github.com/react-spring/use-cannon) : JavaScript
+  - 👋💣 physics based hooks for react-three-fiber
+- [strapi](https://github.com/strapi/strapi) : JavaScript
+  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [RxSwift](https://github.com/ReactiveX/RxSwift) : Swift
+  - Reactive Programming in Swift
 - [libfacedetection](https://github.com/ShiqiYu/libfacedetection) : C++
   - An open source library for face detection in images. The face detection speed can reach 1000FPS.
-- [css.gg](https://github.com/astrit/css.gg) : CSS
-  - 500+ CSS Icons. Customizable, Retina Ready with API & NPM
-- [practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) : C#
-  - Practical samples of aspnet core 2.1, 2.2, 3.0 and 3.1 projects you can use. Readme contains explanations on all projects.
-- [zio](https://github.com/zio/zio) : Scala
-  - ZIO — A type-safe, composable library for async and concurrent programming in Scala
-- [umi](https://github.com/umijs/umi) : TypeScript
-  - 🌋 Pluggable enterprise-level react application framework.
-- [pytorch-optimizer](https://github.com/jettify/pytorch-optimizer) : Python
-  - torch-optimizer -- collection of optimizers for Pytorch
-- [laravel](https://github.com/laravel/laravel) : PHP
-  - A PHP framework for web artisans
-- [awesome-shell](https://github.com/alebcay/awesome-shell) : 
-  - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [Contents](https://github.com/Newslab2020/Contents) : 
+- [benchmarking-gnns](https://github.com/graphdeeplearning/benchmarking-gnns) : Jupyter Notebook
+  - Repository for benchmarking graph neural networks
+- [awesome_Threat-Hunting](https://github.com/threat-hunting/awesome_Threat-Hunting) : 
+- [h-player-v2](https://github.com/ZyqGitHub1/h-player-v2) : Vue
+  - 资源采集站在线播放
+- [metabase](https://github.com/metabase/metabase) : Clojure
+  - The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋
 - [COVID-19](https://github.com/midas-network/COVID-19) : 
   - 2019 novel coronavirus repository
-- [rack](https://github.com/rack/rack) : Ruby
-  - a modular Ruby webserver interface
-- [logstash](https://github.com/elastic/logstash) : Ruby
-  - Logstash - transport and process your logs, events, or other data

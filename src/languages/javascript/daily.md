@@ -1,51 +1,51 @@
 # javascript
-- [lando](https://github.com/lando/lando)
-  - A local development and DevOps tool for all your projects that is fast, easy, powerful and liberating
-- [carbon](https://github.com/carbon-design-system/carbon)
-  - A design system built by IBM
-- [ARC](https://github.com/fchollet/ARC)
-  - The Abstraction and Reasoning Corpus
-- [elementor](https://github.com/elementor/elementor)
-  - The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
-- [webcodesk-srv](https://github.com/webcodesk/webcodesk-srv)
-  - Webcodesk - Web Application Builder
-- [Historical-ranking-data-visualization-based-on-d3.js](https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js)
-  - 这是一个数据可视化项目，能够将历史数据排名转化为动态柱状图图表
-- [ccxt](https://github.com/ccxt/ccxt)
-  - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
-- [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
-  - 中文独立博客列表
-- [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
-  - Microsoft Authentication Library (MSAL) for JS
-- [BrasilAPI](https://github.com/filipedeschamps/BrasilAPI)
-  - Vamos transformar o Brasil em uma API?
-- [MQTT.js](https://github.com/mqttjs/MQTT.js)
-  - The MQTT client for Node.js and the browser
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [yapi](https://github.com/YMFE/yapi)
-  - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
+- [use-cannon](https://github.com/react-spring/use-cannon)
+  - 👋💣 physics based hooks for react-three-fiber
 - [strapi](https://github.com/strapi/strapi)
   - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
-- [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue)
-  - BootstrapVue, with over 40 plugins, more than 80 custom components and over 300 icons, provides one of the most comprehensive implementations of Bootstrap v4 components and grid system for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
-- [office-docs-powershell](https://github.com/MicrosoftDocs/office-docs-powershell)
-  - PowerShell Reference for Office Products - Short URL: aka.ms/office-powershell
-- [quasar](https://github.com/quasarframework/quasar)
-  - Quasar Framework - Build high-performance VueJS user interfaces in record time
-- [web3.js](https://github.com/ethereum/web3.js)
-  - Ethereum JavaScript API
-- [appium](https://github.com/appium/appium)
-  - 📱 Automation for iOS, Android, and Windows Apps.
-- [pdfmake](https://github.com/bpampuch/pdfmake)
-  - Client/server side PDF printing in pure JavaScript
-- [fabric.js](https://github.com/fabricjs/fabric.js)
-  - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
-- [Web](https://github.com/qianguyihao/Web)
-  - 前端入门和进阶学习笔记，超详细的Web前端学习图文教程。从零开始学前端，做一名精致的前端工程师。持续更新...
-- [Inputmask](https://github.com/RobinHerbots/Inputmask)
-  - Input Mask plugin
-- [axios](https://github.com/axios/axios)
-  - Promise based HTTP client for the browser and node.js
+- [vant](https://github.com/youzan/vant)
+  - Lightweight Mobile UI Components built on Vue
+- [es6tutorial](https://github.com/ruanyf/es6tutorial)
+  - 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
+- [taro](https://github.com/NervJS/taro)
+  - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动/ QQ 小程序/快应用/H5/React Native 等的应用。 https://taro.jd.com/
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [cypress](https://github.com/cypress-io/cypress)
+  - Fast, easy and reliable testing for anything that runs in a browser.
+- [beautiful-react-hooks](https://github.com/beautifulinteractions/beautiful-react-hooks)
+  - 🔥A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [cannon.js](https://github.com/schteppe/cannon.js)
   - A lightweight 3D physics engine written in JavaScript.
+- [carbon](https://github.com/carbon-design-system/carbon)
+  - A design system built by IBM
+- [monaco-editor](https://github.com/microsoft/monaco-editor)
+  - A browser based code editor
+- [appium](https://github.com/appium/appium)
+  - 📱 Automation for iOS, Android, and Windows Apps.
+- [CodeceptJS](https://github.com/Codeception/CodeceptJS)
+  - Supercharged End 2 End Testing Framework for NodeJS
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [markdown-here](https://github.com/adam-p/markdown-here)
+  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+- [swagger-ui](https://github.com/swagger-api/swagger-ui)
+  - Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
+- [ccxt](https://github.com/ccxt/ccxt)
+  - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
+- [BrasilAPI](https://github.com/filipedeschamps/BrasilAPI)
+  - Vamos transformar o Brasil em uma API?
+- [video.js](https://github.com/videojs/video.js)
+  - Video.js - open source HTML5 & Flash video player
+- [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js)
+  - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [swagger-editor](https://github.com/swagger-api/swagger-editor)
+  - Swagger Editor
+- [awx](https://github.com/ansible/awx)
+  - AWX Project
+- [scripts](https://github.com/chavyleung/scripts)
+  - 
+- [pdfmake](https://github.com/bpampuch/pdfmake)
+  - Client/server side PDF printing in pure JavaScript

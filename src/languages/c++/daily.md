@@ -1,51 +1,51 @@
 # c++
-- [libfacedetection](https://github.com/ShiqiYu/libfacedetection)
-  - An open source library for face detection in images. The face detection speed can reach 1000FPS.
-- [tesseract](https://github.com/tesseract-ocr/tesseract)
-  - Tesseract Open Source OCR Engine (main repository)
-- [PowerToys](https://github.com/microsoft/PowerToys)
-  - Windows system utilities to maximize productivity
-- [googletest](https://github.com/google/googletest)
-  - Googletest - Google Testing and Mocking Framework
-- [onnxruntime](https://github.com/microsoft/onnxruntime)
-  - ONNX Runtime: cross-platform, high performance scoring engine for ML models
-- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
-  - C++那些事
+- [mitsuba2](https://github.com/mitsuba-renderer/mitsuba2)
+  - Mitsuba 2: A Retargetable Forward and Inverse Renderer
+- [serenity](https://github.com/SerenityOS/serenity)
+  - The Serenity Operating System 🐞
 - [bitcoin](https://github.com/bitcoin/bitcoin)
   - Bitcoin Core integration/staging tree
-- [pytorch](https://github.com/pytorch/pytorch)
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [NymphCast](https://github.com/MayaPosch/NymphCast)
-  - Audio and video casting system with support for custom applications.
+- [PowerToys](https://github.com/microsoft/PowerToys)
+  - Windows system utilities to maximize productivity
+- [libfacedetection](https://github.com/ShiqiYu/libfacedetection)
+  - An open source library for face detection in images. The face detection speed can reach 1000FPS.
+- [react-native-windows](https://github.com/microsoft/react-native-windows)
+  - A framework for building native Windows apps with React.
+- [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite)
+  - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
+- [browser_pwn](https://github.com/ray-cp/browser_pwn)
+  - browser pwn, main work now
+- [onnxruntime](https://github.com/microsoft/onnxruntime)
+  - ONNX Runtime: cross-platform, high performance scoring engine for ML models
+- [Catch2](https://github.com/catchorg/Catch2)
+  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
 - [protobuf](https://github.com/protocolbuffers/protobuf)
   - Protocol Buffers - Google's data interchange format
-- [grpc](https://github.com/grpc/grpc)
-  - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [rapidjson](https://github.com/Tencent/rapidjson)
-  - A fast JSON parser/generator for C++ with both SAX/DOM style API
-- [opencv](https://github.com/opencv/opencv)
-  - Open Source Computer Vision Library
-- [pcl](https://github.com/PointCloudLibrary/pcl)
-  - Point Cloud Library (PCL)
-- [sumo](https://github.com/eclipse/sumo)
-  - Eclipse SUMO is an open source, highly portable, microscopic and continuous road traffic simulation package designed to handle large road networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.
-- [WebServer](https://github.com/linyacool/WebServer)
-  - A C++ High Performance Web Server
-- [ardupilot](https://github.com/ArduPilot/ardupilot)
-  - ArduPlane, ArduCopter, ArduRover source
-- [pybind11](https://github.com/pybind/pybind11)
-  - Seamless operability between C++11 and Python
+- [catboost](https://github.com/catboost/catboost)
+  - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
+- [llvm-project](https://github.com/llvm/llvm-project)
+  - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
+- [v8](https://github.com/v8/v8)
+  - The official mirror of the V8 Git repository
+- [lammps](https://github.com/lammps/lammps)
+  - Public development project of the LAMMPS MD software package
+- [RedisDesktopManager](https://github.com/uglide/RedisDesktopManager)
+  - 🔧 Cross-platform GUI management tool for Redis
+- [librealsense](https://github.com/IntelRealSense/librealsense)
+  - Intel® RealSense™ SDK
+- [MNN](https://github.com/alibaba/MNN)
+  - MNN is a lightweight deep neural network inference engine.
+- [spdlog](https://github.com/gabime/spdlog)
+  - Fast C++ logging library.
+- [falco](https://github.com/falcosecurity/falco)
+  - Cloud Native Runtime Security
+- [LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)
+  - LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain
 - [emscripten](https://github.com/emscripten-core/emscripten)
   - Emscripten: An LLVM-to-Web Compiler
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
-  - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
-- [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2)
-  - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
-- [envoy](https://github.com/envoyproxy/envoy)
-  - Cloud-native high-performance edge/middle/service proxy
-- [annoy](https://github.com/spotify/annoy)
-  - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
+- [WebServer](https://github.com/linyacool/WebServer)
+  - A C++ High Performance Web Server
+- [apollo](https://github.com/ApolloAuto/apollo)
+  - An open autonomous driving platform
+- [TRTCSDK](https://github.com/tencentyun/TRTCSDK)
+  - 腾讯云TRTC音视频服务，国内下载镜像：
