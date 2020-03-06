@@ -1,51 +1,51 @@
 # javascript
+- [node](https://github.com/nodejs/node)
+  - Node.js JavaScript runtime ✨🐢🚀✨
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [react-select](https://github.com/JedWatson/react-select)
+  - The Select Component for React.js
+- [lando](https://github.com/lando/lando)
+  - A local development and DevOps tool for all your projects that is fast, easy, powerful and liberating
 - [use-cannon](https://github.com/react-spring/use-cannon)
   - 👋💣 physics based hooks for react-three-fiber
 - [strapi](https://github.com/strapi/strapi)
   - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
-- [vant](https://github.com/youzan/vant)
-  - Lightweight Mobile UI Components built on Vue
-- [es6tutorial](https://github.com/ruanyf/es6tutorial)
-  - 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
-- [taro](https://github.com/NervJS/taro)
-  - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动/ QQ 小程序/快应用/H5/React Native 等的应用。 https://taro.jd.com/
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [cypress](https://github.com/cypress-io/cypress)
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [beautiful-react-hooks](https://github.com/beautifulinteractions/beautiful-react-hooks)
-  - 🔥A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
-- [cannon.js](https://github.com/schteppe/cannon.js)
-  - A lightweight 3D physics engine written in JavaScript.
-- [carbon](https://github.com/carbon-design-system/carbon)
-  - A design system built by IBM
-- [monaco-editor](https://github.com/microsoft/monaco-editor)
-  - A browser based code editor
+- [kasaya](https://github.com/syscolabs/kasaya)
+  - A "WYSIWYG" (kind of) scripting language and runtime for browser automation
+- [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+  - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+- [gatsby](https://github.com/gatsbyjs/gatsby)
+  - Build blazing fast, modern apps and websites with React
+- [vue-router](https://github.com/vuejs/vue-router)
+  - 🚦 The official router for Vue.js.
+- [backbone](https://github.com/jashkenas/backbone)
+  - Give your JS App some Backbone with Models, Views, Collections, and Events
+- [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
+  - Microsoft Authentication Library (MSAL) for JS
+- [playwright](https://github.com/microsoft/playwright)
+  - Node library to automate Chromium, Firefox and WebKit with a single API
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+  - ✅ The Node.js best practices list (March 2020)
+- [social-network](https://github.com/misa-j/social-network)
+  - My first project:
 - [appium](https://github.com/appium/appium)
   - 📱 Automation for iOS, Android, and Windows Apps.
-- [CodeceptJS](https://github.com/Codeception/CodeceptJS)
-  - Supercharged End 2 End Testing Framework for NodeJS
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [markdown-here](https://github.com/adam-p/markdown-here)
-  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
-- [swagger-ui](https://github.com/swagger-api/swagger-ui)
-  - Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
-- [ccxt](https://github.com/ccxt/ccxt)
-  - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
-- [BrasilAPI](https://github.com/filipedeschamps/BrasilAPI)
-  - Vamos transformar o Brasil em uma API?
-- [video.js](https://github.com/videojs/video.js)
-  - Video.js - open source HTML5 & Flash video player
-- [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js)
-  - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [swagger-editor](https://github.com/swagger-api/swagger-editor)
-  - Swagger Editor
-- [awx](https://github.com/ansible/awx)
-  - AWX Project
-- [scripts](https://github.com/chavyleung/scripts)
-  - 
-- [pdfmake](https://github.com/bpampuch/pdfmake)
-  - Client/server side PDF printing in pure JavaScript
+- [react-saas-template](https://github.com/dunky11/react-saas-template)
+  - 🌊 Template for building an SaaS application or admin dashboard using React + Material-UI
+- [sequelize](https://github.com/sequelize/sequelize)
+  - An easy-to-use multi SQL dialect ORM for Node.js
+- [cypress-example-recipes](https://github.com/cypress-io/cypress-example-recipes)
+  - Various recipes for testing common scenarios with Cypress
+- [phaser](https://github.com/photonstorm/phaser)
+  - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+- [jasmine](https://github.com/jasmine/jasmine)
+  - Simple JavaScript testing framework for browsers and node.js
+- [alpine](https://github.com/alpinejs/alpine)
+  - A rugged, minimal framework for composing JavaScript behavior in your markup.
+- [carbon](https://github.com/carbon-design-system/carbon)
+  - A design system built by IBM
+- [axios](https://github.com/axios/axios)
+  - Promise based HTTP client for the browser and node.js
+- [hs-airdrop](https://github.com/handshake-org/hs-airdrop)
+  - Decentralized airdrop to open source developers

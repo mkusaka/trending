@@ -1,49 +1,49 @@
 # general
-- [mitsuba2](https://github.com/mitsuba-renderer/mitsuba2) : C++
-  - Mitsuba 2: A Retargetable Forward and Inverse Renderer
-- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) : PowerShell
-  - Azure Quickstart Templates
-- [goxygen](https://github.com/Shpota/goxygen) : Go
-  - Generate a modern Web project with Go, Angular/React/Vue, and MongoDB in seconds🚀
-- [ecosim](https://github.com/connor-brooks/ecosim) : C
-  - An interactive ecosystem and evolution simulator written in C and OpenGL, for GNU/Linux.
-- [cli](https://github.com/cli/cli) : Go
-  - The GitHub CLI
-- [serenity](https://github.com/SerenityOS/serenity) : C++
-  - The Serenity Operating System 🐞
-- [bitcoin](https://github.com/bitcoin/bitcoin) : C++
-  - Bitcoin Core integration/staging tree
-- [fastapi](https://github.com/tiangolo/fastapi) : Python
-  - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [covid19](https://github.com/tokyo-metropolitan-gov/covid19) : Vue
-  - 東京都 新型コロナウイルス感染症対策サイト
-- [nocode](https://github.com/kelseyhightower/nocode) : Dockerfile
-  - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-- [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) : 
-  - Data science interview questions and answers
-- [lecaa](https://github.com/hannob/lecaa) : Shell
-  - Check for Let's Encrypt CAA issue
-- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
-  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
-  - 手把手撕LeetCode题目，扒各种算法套路的裤子，not only how，but also why. English version supported!
-- [PowerToys](https://github.com/microsoft/PowerToys) : C++
-  - Windows system utilities to maximize productivity
-- [use-cannon](https://github.com/react-spring/use-cannon) : JavaScript
-  - 👋💣 physics based hooks for react-three-fiber
-- [strapi](https://github.com/strapi/strapi) : JavaScript
-  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
-- [RxSwift](https://github.com/ReactiveX/RxSwift) : Swift
-  - Reactive Programming in Swift
+  - 東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
 - [libfacedetection](https://github.com/ShiqiYu/libfacedetection) : C++
   - An open source library for face detection in images. The face detection speed can reach 1000FPS.
-- [Contents](https://github.com/Newslab2020/Contents) : 
-- [benchmarking-gnns](https://github.com/graphdeeplearning/benchmarking-gnns) : Jupyter Notebook
-  - Repository for benchmarking graph neural networks
-- [awesome_Threat-Hunting](https://github.com/threat-hunting/awesome_Threat-Hunting) : 
-- [h-player-v2](https://github.com/ZyqGitHub1/h-player-v2) : Vue
-  - 资源采集站在线播放
-- [metabase](https://github.com/metabase/metabase) : Clojure
-  - The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋
-- [COVID-19](https://github.com/midas-network/COVID-19) : 
-  - 2019 novel coronavirus repository
+- [HashingDeepLearning](https://github.com/keroro824/HashingDeepLearning) : C++
+- [DataX](https://github.com/alibaba/DataX) : Java
+- [monitoror](https://github.com/monitoror/monitoror) : Go
+  - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
+- [projectsandcastle](https://github.com/corellium/projectsandcastle) : C
+  - Supporting tools for Android/Linux on the iPhone
+- [nocode](https://github.com/kelseyhightower/nocode) : Dockerfile
+  - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) : PowerShell
+  - Azure Quickstart Templates
+- [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) : 
+  - Data science interview questions and answers
+- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
+  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
+- [PowerShell](https://github.com/PowerShell/PowerShell) : C#
+  - PowerShell for every system!
+- [pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning) : Jupyter Notebook
+  - Deep Learning (with PyTorch)
+- [cli](https://github.com/cli/cli) : Go
+  - The GitHub CLI
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
+  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [ncov](https://github.com/nextstrain/ncov) : Python
+  - Nextstrain build for novel coronavirus (nCoV)
+- [stylegan2](https://github.com/NVlabs/stylegan2) : Python
+  - StyleGAN2 - Official TensorFlow Implementation
+- [transformers](https://github.com/huggingface/transformers) : Python
+  - 🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+- [react-admin](https://github.com/marmelab/react-admin) : TypeScript
+  - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
+- [matplotlib](https://github.com/matplotlib/matplotlib) : Python
+  - matplotlib: plotting with Python
+- [pix-dict-quickstart](https://github.com/bacen/pix-dict-quickstart) : Java
+  - Quickstart da API do DICT
+- [node](https://github.com/nodejs/node) : JavaScript
+  - Node.js JavaScript runtime ✨🐢🚀✨
+- [spring-boot](https://github.com/spring-projects/spring-boot) : Java
+  - Spring Boot
+- [material-ui](https://github.com/mui-org/material-ui) : JavaScript
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form) : TypeScript
+  - 📋 React hooks for forms validation without the hassle.
+- [jd_mask](https://github.com/zhou-xiaojun/jd_mask) : Python
+  - 京东定时自动预约,抢购.(只针对性支持要先预约,到点抢购.然后直接下单的商品!)
