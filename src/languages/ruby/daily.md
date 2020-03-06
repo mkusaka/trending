@@ -1,51 +1,51 @@
 # ruby
-- [logstash](https://github.com/elastic/logstash)
-  - Logstash - transport and process your logs, events, or other data
-- [factory_bot](https://github.com/thoughtbot/factory_bot)
-  - A library for setting up Ruby objects as test data.
-- [fastlane](https://github.com/fastlane/fastlane)
-  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [sidekiq](https://github.com/mperham/sidekiq)
   - Simple, efficient background processing for Ruby
 - [rubocop](https://github.com/rubocop-hq/rubocop)
   - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
+  - Metasploit Framework
 - [decidim](https://github.com/decidim/decidim)
   - The participatory democracy framework. A generator and multiple gems made with Ruby on Rails
-- [discourse](https://github.com/discourse/discourse)
-  - A platform for community discussion. Free, open, simple.
-- [rack](https://github.com/rack/rack)
-  - a modular Ruby webserver interface
-- [faker](https://github.com/faker-ruby/faker)
-  - A library for generating fake data such as names, addresses, and phone numbers.
+- [fastlane](https://github.com/fastlane/fastlane)
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [gitlabhq](https://github.com/gitlabhq/gitlabhq)
+  - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
+- [devise](https://github.com/heartcombo/devise)
+  - Flexible authentication solution for Rails with Warden.
+- [grape](https://github.com/ruby-grape/grape)
+  - An opinionated framework for creating REST-like APIs in Ruby.
 - [activeadmin](https://github.com/activeadmin/activeadmin)
   - The administration framework for Ruby on Rails applications.
-- [rspec-rails](https://github.com/rspec/rspec-rails)
-  - RSpec for Rails-3+
-- [puma](https://github.com/puma/puma)
-  - A Ruby/Rack web server built for concurrency
-- [rswag](https://github.com/rswag/rswag)
-  - Seamlessly adds a Swagger to Rails-based API's
-- [capybara](https://github.com/teamcapybara/capybara)
-  - Acceptance test framework for web applications
-- [rails](https://github.com/rails/rails)
-  - Ruby on Rails
-- [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)
-  - Simple one-liner tests for common Rails functionality
-- [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening)
-  - This Ansible role provides numerous security-related configurations, providing all-round base protection.
-- [paperclip](https://github.com/thoughtbot/paperclip)
-  - Easy file attachment management for ActiveRecord
+- [dependabot-core](https://github.com/dependabot/dependabot-core)
+  - 🤖The core logic behind Dependabot's update PR creation
+- [spree](https://github.com/spree/spree)
+  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
+- [flutter-rust-ffi](https://github.com/brickpop/flutter-rust-ffi)
+  - Starter project for Flutter plugins willing to access native and synchronous rust code using FFI
+- [concurrent-ruby](https://github.com/ruby-concurrency/concurrent-ruby)
+  - Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
+- [logstash-patterns-core](https://github.com/logstash-plugins/logstash-patterns-core)
+  - 
+- [vagrant](https://github.com/hashicorp/vagrant)
+  - Vagrant is a tool for building and distributing development environments.
+- [logstash](https://github.com/elastic/logstash)
+  - Logstash - transport and process your logs, events, or other data
+- [jekyll](https://github.com/jekyll/jekyll)
+  - 🌐 Jekyll is a blog-aware static site generator in Ruby
 - [zammad](https://github.com/zammad/zammad)
   - Zammad is a web based open source helpdesk/customer support system
-- [simple_form](https://github.com/heartcombo/simple_form)
-  - Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
-- [strong_migrations](https://github.com/ankane/strong_migrations)
-  - Catch unsafe migrations in development
-- [sinatra](https://github.com/sinatra/sinatra)
-  - Classy web-development dressed in a DSL (official / canonical repo)
-- [webpacker](https://github.com/rails/webpacker)
-  - Use Webpack to manage app-like JavaScript modules in Rails
-- [linguist](https://github.com/github/linguist)
-  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-- [puppet-elasticsearch](https://github.com/elastic/puppet-elasticsearch)
-  - Elasticsearch Puppet module
+- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
+  - The Cocoa Dependency Manager.
+- [solidus](https://github.com/solidusio/solidus)
+  - 🛒Solidus, Rails eCommerce System
+- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
+  - Ruby implementation of GraphQL
+- [greenlight](https://github.com/bigbluebutton/greenlight)
+  - A really simple end-user interface for your BigBlueButton server.
+- [cucumber-ruby](https://github.com/cucumber/cucumber-ruby)
+  - Cucumber for Ruby
+- [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)
+  - Simple one-liner tests for common Rails functionality
+- [fluentd-kubernetes-daemonset](https://github.com/fluent/fluentd-kubernetes-daemonset)
+  - Fluentd daemonset for Kubernetes and it Docker image

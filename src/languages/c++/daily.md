@@ -1,51 +1,51 @@
 # c++
-- [mitsuba2](https://github.com/mitsuba-renderer/mitsuba2)
-  - Mitsuba 2: A Retargetable Forward and Inverse Renderer
-- [serenity](https://github.com/SerenityOS/serenity)
-  - The Serenity Operating System 🐞
-- [bitcoin](https://github.com/bitcoin/bitcoin)
-  - Bitcoin Core integration/staging tree
-- [PowerToys](https://github.com/microsoft/PowerToys)
-  - Windows system utilities to maximize productivity
 - [libfacedetection](https://github.com/ShiqiYu/libfacedetection)
   - An open source library for face detection in images. The face detection speed can reach 1000FPS.
-- [react-native-windows](https://github.com/microsoft/react-native-windows)
-  - A framework for building native Windows apps with React.
-- [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite)
-  - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
+- [HashingDeepLearning](https://github.com/keroro824/HashingDeepLearning)
+  - 
+- [bitcoin](https://github.com/bitcoin/bitcoin)
+  - Bitcoin Core integration/staging tree
+- [googletest](https://github.com/google/googletest)
+  - Googletest - Google Testing and Mocking Framework
+- [cve-2019-1458_POC](https://github.com/piotrflorczyk/cve-2019-1458_POC)
+  - POC for cve-2019-1458
+- [DeepSpeech](https://github.com/mozilla/DeepSpeech)
+  - A TensorFlow implementation of Baidu's DeepSpeech architecture
 - [browser_pwn](https://github.com/ray-cp/browser_pwn)
   - browser pwn, main work now
-- [onnxruntime](https://github.com/microsoft/onnxruntime)
-  - ONNX Runtime: cross-platform, high performance scoring engine for ML models
+- [serenity](https://github.com/SerenityOS/serenity)
+  - The Serenity Operating System 🐞
+- [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite)
+  - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
+- [PowerToys](https://github.com/microsoft/PowerToys)
+  - Windows system utilities to maximize productivity
+- [security](https://github.com/windows-internals-guide/security)
+  - 
 - [Catch2](https://github.com/catchorg/Catch2)
   - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-- [protobuf](https://github.com/protocolbuffers/protobuf)
-  - Protocol Buffers - Google's data interchange format
-- [catboost](https://github.com/catboost/catboost)
-  - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
-- [llvm-project](https://github.com/llvm/llvm-project)
-  - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
+- [mitsuba2](https://github.com/mitsuba-renderer/mitsuba2)
+  - Mitsuba 2: A Retargetable Forward and Inverse Renderer
+- [onnxruntime](https://github.com/microsoft/onnxruntime)
+  - ONNX Runtime: cross-platform, high performance scoring engine for ML models
+- [opencv](https://github.com/opencv/opencv)
+  - Open Source Computer Vision Library
 - [v8](https://github.com/v8/v8)
   - The official mirror of the V8 Git repository
-- [lammps](https://github.com/lammps/lammps)
-  - Public development project of the LAMMPS MD software package
-- [RedisDesktopManager](https://github.com/uglide/RedisDesktopManager)
-  - 🔧 Cross-platform GUI management tool for Redis
-- [librealsense](https://github.com/IntelRealSense/librealsense)
-  - Intel® RealSense™ SDK
-- [MNN](https://github.com/alibaba/MNN)
-  - MNN is a lightweight deep neural network inference engine.
-- [spdlog](https://github.com/gabime/spdlog)
-  - Fast C++ logging library.
-- [falco](https://github.com/falcosecurity/falco)
-  - Cloud Native Runtime Security
-- [LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)
-  - LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain
-- [emscripten](https://github.com/emscripten-core/emscripten)
-  - Emscripten: An LLVM-to-Web Compiler
-- [WebServer](https://github.com/linyacool/WebServer)
-  - A C++ High Performance Web Server
-- [apollo](https://github.com/ApolloAuto/apollo)
-  - An open autonomous driving platform
-- [TRTCSDK](https://github.com/tencentyun/TRTCSDK)
-  - 腾讯云TRTC音视频服务，国内下载镜像：
+- [smarterblinds](https://github.com/nikivanov/smarterblinds)
+  - ESP8266 controller for Blinds-To-Go motorized blinds
+- [pytorch](https://github.com/pytorch/pytorch)
+  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [rocksdb](https://github.com/facebook/rocksdb)
+  - A library that provides an embeddable, persistent key-value store for fast storage.
+- [ClickHouse](https://github.com/ClickHouse/ClickHouse)
+  - ClickHouse is a free analytics DBMS for big data
+- [react-native-windows](https://github.com/microsoft/react-native-windows)
+  - A framework for building native Windows apps with React.
+- [ModSecurity](https://github.com/SpiderLabs/ModSecurity)
+  - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
+- [terminal](https://github.com/microsoft/terminal)
+  - The new Windows Terminal and the original Windows console host, all in the same place!
+- [solidity](https://github.com/ethereum/solidity)
+  - Solidity, the Contract-Oriented Programming Language
+- [pybind11](https://github.com/pybind/pybind11)
+  - Seamless operability between C++11 and Python
