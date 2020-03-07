@@ -5,6 +5,7 @@
 - [libfacedetection](https://github.com/ShiqiYu/libfacedetection) : C++
   - An open source library for face detection in images. The face detection speed can reach 1000FPS.
 - [HashingDeepLearning](https://github.com/keroro824/HashingDeepLearning) : C++
+  - Codebase for "SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems"
 - [DataX](https://github.com/alibaba/DataX) : Java
 - [monitoror](https://github.com/monitoror/monitoror) : Go
   - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
@@ -129,11 +130,11 @@
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
   - ✅ The Node.js best practices list (March 2020)
 - [social-network](https://github.com/misa-j/social-network)
-  - My first project:
+  - My first project
 - [appium](https://github.com/appium/appium)
   - 📱 Automation for iOS, Android, and Windows Apps.
 - [react-saas-template](https://github.com/dunky11/react-saas-template)
-  - 🌊 Template for building an SaaS application or admin dashboard using React + Material-UI
+  - 🌊 Template for building an SaaS or admin web application using React + Material-UI
 - [sequelize](https://github.com/sequelize/sequelize)
   - An easy-to-use multi SQL dialect ORM for Node.js
 - [cypress-example-recipes](https://github.com/cypress-io/cypress-example-recipes)
@@ -256,7 +257,7 @@
 - [libfacedetection](https://github.com/ShiqiYu/libfacedetection)
   - An open source library for face detection in images. The face detection speed can reach 1000FPS.
 - [HashingDeepLearning](https://github.com/keroro824/HashingDeepLearning)
-  - 
+  - Codebase for "SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems"
 - [bitcoin](https://github.com/bitcoin/bitcoin)
   - Bitcoin Core integration/staging tree
 - [googletest](https://github.com/google/googletest)

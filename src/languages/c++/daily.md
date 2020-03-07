@@ -2,7 +2,7 @@
 - [libfacedetection](https://github.com/ShiqiYu/libfacedetection)
   - An open source library for face detection in images. The face detection speed can reach 1000FPS.
 - [HashingDeepLearning](https://github.com/keroro824/HashingDeepLearning)
-  - 
+  - Codebase for "SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems"
 - [bitcoin](https://github.com/bitcoin/bitcoin)
   - Bitcoin Core integration/staging tree
 - [googletest](https://github.com/google/googletest)
