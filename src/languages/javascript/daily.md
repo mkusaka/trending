@@ -28,11 +28,11 @@
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
   - ✅ The Node.js best practices list (March 2020)
 - [social-network](https://github.com/misa-j/social-network)
-  - My first project:
+  - My first project
 - [appium](https://github.com/appium/appium)
   - 📱 Automation for iOS, Android, and Windows Apps.
 - [react-saas-template](https://github.com/dunky11/react-saas-template)
-  - 🌊 Template for building an SaaS application or admin dashboard using React + Material-UI
+  - 🌊 Template for building an SaaS or admin web application using React + Material-UI
 - [sequelize](https://github.com/sequelize/sequelize)
   - An easy-to-use multi SQL dialect ORM for Node.js
 - [cypress-example-recipes](https://github.com/cypress-io/cypress-example-recipes)

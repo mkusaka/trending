@@ -4,6 +4,7 @@
 - [libfacedetection](https://github.com/ShiqiYu/libfacedetection) : C++
   - An open source library for face detection in images. The face detection speed can reach 1000FPS.
 - [HashingDeepLearning](https://github.com/keroro824/HashingDeepLearning) : C++
+  - Codebase for "SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems"
 - [DataX](https://github.com/alibaba/DataX) : Java
 - [monitoror](https://github.com/monitoror/monitoror) : Go
   - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
