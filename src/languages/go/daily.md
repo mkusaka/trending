@@ -1,51 +1,51 @@
 # go
-- [monitoror](https://github.com/monitoror/monitoror)
-  - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
+- [minter-go-node](https://github.com/MinterTeam/minter-go-node)
+  - 🚀 Official Minter Blockchain Implementation in Go
+- [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go)
+  - 百度网盘客户端 - Go语言编写
 - [cli](https://github.com/cli/cli)
   - The GitHub CLI
-- [redis](https://github.com/go-redis/redis)
-  - Type-safe Redis client for Golang
-- [kubernetes](https://github.com/kubernetes/kubernetes)
-  - Production-Grade Container Scheduling and Management
-- [gorm](https://github.com/jinzhu/gorm)
-  - The fantastic ORM library for Golang, aims to be developer friendly (v2 is under development, PR based on master branch won't be accepted)
-- [vault](https://github.com/hashicorp/vault)
-  - A tool for secrets management, encryption as a service, and privileged access management
-- [terraform](https://github.com/hashicorp/terraform)
-  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [istio](https://github.com/istio/istio)
-  - Connect, secure, control, and observe services.
-- [charts](https://github.com/helm/charts)
-  - Curated applications for Kubernetes
-- [govmomi](https://github.com/vmware/govmomi)
-  - Go library for the VMware vSphere API
-- [protobuf](https://github.com/golang/protobuf)
-  - Go support for Google's protocol buffers
-- [aks-engine](https://github.com/Azure/aks-engine)
-  - AKS Engine: Units of Kubernetes on Azure!
-- [goxygen](https://github.com/Shpota/goxygen)
-  - Generate a modern Web project with Go, Angular/React/Vue, and MongoDB in seconds🚀
-- [sarama](https://github.com/Shopify/sarama)
-  - Sarama is a Go library for Apache Kafka 0.8, and up.
-- [cosmos-sdk](https://github.com/cosmos/cosmos-sdk)
-  - ⛓ A Framework for Building High Value Public Blockchains ✨
-- [prometheus-operator](https://github.com/coreos/prometheus-operator)
-  - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [logrus](https://github.com/sirupsen/logrus)
-  - Structured, pluggable logging for Go.
-- [origin](https://github.com/openshift/origin)
-  - The self-managing, auto-upgrading, Kubernetes distribution for everyone
-- [eksctl](https://github.com/weaveworks/eksctl)
-  - The official CLI for Amazon EKS
+- [proposal](https://github.com/golang/proposal)
+  - Go Project Design Documents
+- [clash](https://github.com/Dreamacro/clash)
+  - A rule-based tunnel in Go.
+- [soar](https://github.com/XiaoMi/soar)
+  - SQL Optimizer And Rewriter
+- [gin-vue-admin](https://github.com/piexlmax/gin-vue-admin)
+  - 基于gin+gorm+vue搭建的快速后台管理系统模板，包含jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载等基础功能，更多功能正在开发中，欢迎iss，欢迎pr
+- [ultimate-go](https://github.com/hoanhan101/ultimate-go)
+  - Ultimate Go study guide, with heavily documented code and programs analysis, all in 1 place
+- [scope](https://github.com/weaveworks/scope)
+  - Monitoring, visualisation & management for Docker & Kubernetes
+- [test-infra](https://github.com/kubernetes/test-infra)
+  - Test infrastructure for the Kubernetes project.
+- [linkerd2](https://github.com/linkerd/linkerd2)
+  - A service mesh for Kubernetes and beyond. Main repo for Linkerd 2.x.
 - [goreleaser](https://github.com/goreleaser/goreleaser)
   - Deliver Go binaries as fast and easily as possible
-- [cortex](https://github.com/cortexlabs/cortex)
-  - Deploy machine learning models in production
-- [dex](https://github.com/dexidp/dex)
-  - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
-- [loki](https://github.com/grafana/loki)
-  - Like Prometheus, but for logs.
-- [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway)
-  - gRPC to JSON proxy generator following the gRPC HTTP spec
-- [harbor](https://github.com/goharbor/harbor)
-  - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [sqlflow](https://github.com/sql-machine-learning/sqlflow)
+  - Brings SQL and AI together.
+- [atreugo](https://github.com/savsgio/atreugo)
+  - High performance and extensible micro web framework. Zero memory allocations in hot paths.
+- [distribution](https://github.com/docker/distribution)
+  - The Docker toolset to pack, ship, store, and deliver content
+- [transfer.sh](https://github.com/dutchcoders/transfer.sh)
+  - Easy and fast file sharing from the command-line.
+- [domain-list-community](https://github.com/v2ray/domain-list-community)
+  - Community managed domain list
+- [go](https://github.com/golang/go)
+  - The Go programming language
+- [freedom](https://github.com/8treenet/freedom)
+  - freedom是一个基于六边形架构的框架，可以支撑充血的领域模型范式。
+- [service](https://github.com/ardanlabs/service)
+  - Starter code for writing web services in Go
+- [goreplay](https://github.com/buger/goreplay)
+  - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
+- [websocket](https://github.com/gorilla/websocket)
+  - A fast, well-tested and widely used WebSocket implementation for Go.
+- [iris](https://github.com/kataras/iris)
+  - 感谢中国开发者 - https://bit.ly/謝謝 | The fastest community-driven web framework for Go. Webassembly, Automatic HTTPS with Public Domain, MVC, Sessions, Caching, Versioning API, Problem API, Websocket, Dependency Injection and more. Fully compatible with the standard library and 3rd-party middleware packages. | https://bit.ly/iriscandothat1 | https://bi…
+- [gotraining](https://github.com/ardanlabs/gotraining)
+  - Go Training Class Material :
+- [oathkeeper](https://github.com/ory/oathkeeper)
+  - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.

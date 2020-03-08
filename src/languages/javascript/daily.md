@@ -1,51 +1,51 @@
 # javascript
-- [node](https://github.com/nodejs/node)
-  - Node.js JavaScript runtime ✨🐢🚀✨
+- [myDrive](https://github.com/subnub/myDrive)
+  - Node.js and mongoDB Google Drive Clone
+- [vue-formulate](https://github.com/wearebraid/vue-formulate)
+  - The easiest way to build forms using Vue.
 - [material-ui](https://github.com/mui-org/material-ui)
   - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [react-select](https://github.com/JedWatson/react-select)
-  - The Select Component for React.js
-- [lando](https://github.com/lando/lando)
-  - A local development and DevOps tool for all your projects that is fast, easy, powerful and liberating
-- [use-cannon](https://github.com/react-spring/use-cannon)
-  - 👋💣 physics based hooks for react-three-fiber
-- [strapi](https://github.com/strapi/strapi)
-  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
-- [kasaya](https://github.com/syscolabs/kasaya)
-  - A "WYSIWYG" (kind of) scripting language and runtime for browser automation
-- [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
-  - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
-- [vue-router](https://github.com/vuejs/vue-router)
-  - 🚦 The official router for Vue.js.
-- [backbone](https://github.com/jashkenas/backbone)
-  - Give your JS App some Backbone with Models, Views, Collections, and Events
-- [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
-  - Microsoft Authentication Library (MSAL) for JS
-- [playwright](https://github.com/microsoft/playwright)
-  - Node library to automate Chromium, Firefox and WebKit with a single API
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
-  - ✅ The Node.js best practices list (March 2020)
+- [bootstrap](https://github.com/twbs/bootstrap)
+  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [fe-interview](https://github.com/haizlin/fe-interview)
+  - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）
+- [odoo](https://github.com/odoo/odoo)
+  - Odoo. Open Source Apps To Grow Your Business.
 - [social-network](https://github.com/misa-j/social-network)
   - My first project
-- [appium](https://github.com/appium/appium)
-  - 📱 Automation for iOS, Android, and Windows Apps.
-- [react-saas-template](https://github.com/dunky11/react-saas-template)
-  - 🌊 Template for building an SaaS or admin web application using React + Material-UI
-- [sequelize](https://github.com/sequelize/sequelize)
-  - An easy-to-use multi SQL dialect ORM for Node.js
-- [cypress-example-recipes](https://github.com/cypress-io/cypress-example-recipes)
-  - Various recipes for testing common scenarios with Cypress
-- [phaser](https://github.com/photonstorm/phaser)
-  - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-- [jasmine](https://github.com/jasmine/jasmine)
-  - Simple JavaScript testing framework for browsers and node.js
-- [alpine](https://github.com/alpinejs/alpine)
-  - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [carbon](https://github.com/carbon-design-system/carbon)
-  - A design system built by IBM
-- [axios](https://github.com/axios/axios)
-  - Promise based HTTP client for the browser and node.js
-- [hs-airdrop](https://github.com/handshake-org/hs-airdrop)
-  - Decentralized airdrop to open source developers
+- [webpack-2020](https://github.com/vladilenm/webpack-2020)
+  - 
+- [node](https://github.com/nodejs/node)
+  - Node.js JavaScript runtime ✨🐢🚀✨
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+  - ✅ The Node.js best practices list (March 2020)
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+  -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [immer](https://github.com/immerjs/immer)
+  - Create the next immutable state by mutating the current one
+- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
+  - Bypass Paywalls for Chrome
+- [esercizi-di-programmazione-javascript](https://github.com/AlbertoOlla/esercizi-di-programmazione-javascript)
+  - Esercizi di informatica! Impara a programmare, metti alla prova!
+- [opensource.guide](https://github.com/github/opensource.guide)
+  - 📚 Community guides for open source creators
+- [vue-h5-template](https://github.com/push-over/vue-h5-template)
+  - 
+- [Ghost](https://github.com/TryGhost/Ghost)
+  - 👻 The #1 headless Node.js CMS for professional publishing
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
+  - Starter files, final projects and FAQ for my Complete JavaScript course
+- [vue-todos](https://github.com/liangxiaojuan/vue-todos)
+  - vue最新实战项目教程，从零开始，一步一个脚印,循序渐进。跟着我一起学习vue吧！
+- [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor)
+  - 🍡@quilljs editor component for @vuejs
+- [reactotron](https://github.com/infinitered/reactotron)
+  - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
+- [parcel](https://github.com/parcel-bundler/parcel)
+  - 📦🚀 Blazing fast, zero configuration web application bundler
+- [protobuf.js](https://github.com/protobufjs/protobuf.js)
+  - Protocol Buffers for JavaScript (& TypeScript).
+- [TaskConfig](https://github.com/sazs34/TaskConfig)
+  - all_in_one合并脚本，饿了么签到加翻牌，自定义天气，贴吧签到，以及smartjs
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+  - freeCodeCamp.org's open source codebase and curriculum. Learn to code for free together with millions of people.

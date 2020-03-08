@@ -1,51 +1,51 @@
 # rust
-- [nushell](https://github.com/nushell/nushell)
-  - A modern shell written in Rust
-- [void](https://github.com/void-rs/void)
-  - terminal-based personal organizer
-- [findomain](https://github.com/Edu4rdSHL/findomain)
-  - The fastest and cross-platform subdomain enumerator, do not waste your time.
-- [krustlet](https://github.com/deislabs/krustlet)
-  - Kubernetes Rust Kubelet
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
-- [async-on-embedded](https://github.com/ferrous-systems/async-on-embedded)
-  - 
-- [cargo](https://github.com/rust-lang/cargo)
-  - The Rust package manager
-- [rust-libp2p](https://github.com/libp2p/rust-libp2p)
-  - The Rust Implementation of libp2p networking stack.
-- [py-spy](https://github.com/benfred/py-spy)
-  - Sampling profiler for Python programs
-- [vector](https://github.com/timberio/vector)
-  - A lightweight and ultra-fast tool for building observability pipelines
-- [websocat](https://github.com/vi/websocat)
-  - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
-- [wrangler](https://github.com/cloudflare/wrangler)
-  - 🤠 wrangle your cloudflare workers
-- [wasmer](https://github.com/wasmerio/wasmer)
-  - 🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten
-- [kube-rs](https://github.com/clux/kube-rs)
-  - kubernetes client and futures controller runtime
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [jormungandr](https://github.com/input-output-hk/jormungandr)
-  - aspiring blockchain node
-- [tikv](https://github.com/tikv/tikv)
-  - Distributed transactional key-value database, originally created to complement TiDB
-- [tonic](https://github.com/hyperium/tonic)
-  - A native gRPC client & server implementation with async/await support.
-- [nom](https://github.com/Geal/nom)
-  - Rust parser combinator framework
-- [amethyst](https://github.com/amethyst/amethyst)
-  - Data-oriented and data-driven game engine written in Rust
-- [juniper](https://github.com/graphql-rust/juniper)
-  - GraphQL server library for Rust
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
+- [firecracker](https://github.com/firecracker-microvm/firecracker)
+  - Secure and fast microVMs for serverless computing.
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - ripgrep recursively searches directories for a regex pattern
+- [996.ICU](https://github.com/996icu/996.ICU)
+  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [tokio](https://github.com/tokio-rs/tokio)
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
 - [actix-web](https://github.com/actix/actix-web)
   - Actix web is a small, pragmatic, and extremely fast rust web framework.
-- [napkin-math](https://github.com/sirupsen/napkin-math)
-  - Techniques and numbers for estimating system's performance from first-principles
-- [nannou](https://github.com/nannou-org/nannou)
-  - A Creative Coding Framework for Rust.
+- [nalgebra](https://github.com/rustsim/nalgebra)
+  - Linear algebra library for Rust.
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [juniper](https://github.com/graphql-rust/juniper)
+  - GraphQL server library for Rust
+- [jvm](https://github.com/douchuan/jvm)
+  - JVM written in Rust
+- [examples](https://github.com/actix/examples)
+  - Actix web examples
+- [rustfmt](https://github.com/rust-lang/rustfmt)
+  - Format Rust code
+- [nix](https://github.com/nix-rust/nix)
+  - Rust friendly bindings to *nix APIs
+- [rust-libp2p](https://github.com/libp2p/rust-libp2p)
+  - The Rust Implementation of libp2p networking stack.
+- [amethyst](https://github.com/amethyst/amethyst)
+  - Data-oriented and data-driven game engine written in Rust
+- [rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb)
+  - rust wrapper for rocksdb
+- [rust-clippy](https://github.com/rust-lang/rust-clippy)
+  - A bunch of lints to catch common mistakes and improve your Rust code
+- [spotify-tui](https://github.com/Rigellute/spotify-tui)
+  - Spotify for the terminal written in Rust 🚀
+- [topgrade](https://github.com/r-darwish/topgrade)
+  - Upgrade everything
+- [stork](https://github.com/jameslittle230/stork)
+  - Impossibly fast web search, made for static sites.
+- [crabler](https://github.com/Gonzih/crabler)
+  - Web Crawler for Crabs
+- [noria](https://github.com/mit-pdos/noria)
+  - Dynamically changing, partially-stateful data-flow for web application backends.
+- [anyhow](https://github.com/dtolnay/anyhow)
+  - Flexible concrete Error type built on std::error::Error
+- [thiserror](https://github.com/dtolnay/thiserror)
+  - derive(Error) for struct and enum error types
+- [wifi-connect](https://github.com/balena-io/wifi-connect)
+  - Easy WiFi setup for Linux devices from your mobile phone or laptop

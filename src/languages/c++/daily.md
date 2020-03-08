@@ -1,51 +1,51 @@
 # c++
-- [libfacedetection](https://github.com/ShiqiYu/libfacedetection)
-  - An open source library for face detection in images. The face detection speed can reach 1000FPS.
-- [HashingDeepLearning](https://github.com/keroro824/HashingDeepLearning)
-  - Codebase for "SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems"
-- [bitcoin](https://github.com/bitcoin/bitcoin)
-  - Bitcoin Core integration/staging tree
-- [googletest](https://github.com/google/googletest)
-  - Googletest - Google Testing and Mocking Framework
-- [cve-2019-1458_POC](https://github.com/piotrflorczyk/cve-2019-1458_POC)
-  - POC for cve-2019-1458
-- [DeepSpeech](https://github.com/mozilla/DeepSpeech)
-  - A TensorFlow implementation of Baidu's DeepSpeech architecture
-- [browser_pwn](https://github.com/ray-cp/browser_pwn)
-  - browser pwn, main work now
-- [serenity](https://github.com/SerenityOS/serenity)
-  - The Serenity Operating System 🐞
 - [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite)
   - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
-- [PowerToys](https://github.com/microsoft/PowerToys)
-  - Windows system utilities to maximize productivity
-- [security](https://github.com/windows-internals-guide/security)
-  - 
-- [Catch2](https://github.com/catchorg/Catch2)
-  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-- [mitsuba2](https://github.com/mitsuba-renderer/mitsuba2)
-  - Mitsuba 2: A Retargetable Forward and Inverse Renderer
-- [onnxruntime](https://github.com/microsoft/onnxruntime)
-  - ONNX Runtime: cross-platform, high performance scoring engine for ML models
+- [libfacedetection](https://github.com/ShiqiYu/libfacedetection)
+  - An open source library for face detection in images. The face detection speed can reach 1000FPS.
+- [godot](https://github.com/godotengine/godot)
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [electron](https://github.com/electron/electron)
+  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [tensorflow](https://github.com/tensorflow/tensorflow)
+  - An Open Source Machine Learning Framework for Everyone
+- [HashingDeepLearning](https://github.com/keroro824/HashingDeepLearning)
+  - Codebase for "SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems"
+- [incubator-brpc](https://github.com/apache/incubator-brpc)
+  - Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services, called "baidu-rpc" inside Baidu.
+- [lmms](https://github.com/LMMS/lmms)
+  - Cross-platform music production software
+- [GuiLite](https://github.com/idea4good/GuiLite)
+  - ✔️The smallest header-only GUI library(5 KLOC) for all platforms
 - [opencv](https://github.com/opencv/opencv)
   - Open Source Computer Vision Library
-- [v8](https://github.com/v8/v8)
-  - The official mirror of the V8 Git repository
-- [smarterblinds](https://github.com/nikivanov/smarterblinds)
-  - ESP8266 controller for Blinds-To-Go motorized blinds
-- [pytorch](https://github.com/pytorch/pytorch)
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [rocksdb](https://github.com/facebook/rocksdb)
-  - A library that provides an embeddable, persistent key-value store for fast storage.
+- [server](https://github.com/MariaDB/server)
+  - MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.
+- [kungfu](https://github.com/taurusai/kungfu)
+  - Kungfu Trader
+- [stardraft](https://github.com/davechurchill/stardraft)
+  - StarCraft Map Visualization
+- [ndk-samples](https://github.com/android/ndk-samples)
+  - Android NDK samples with Android Studio
+- [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe)
+  - waifu2xのCaffe版
+- [DaisySP](https://github.com/electro-smith/DaisySP)
+  - DSP library for the Daisy product family...and elsewhere!
+- [PAT](https://github.com/liuchuo/PAT)
+  - 🍭 浙江大学PAT题解(C/C++/Java/Python) - 努力成为萌萌的程序媛～
+- [SmallRobotArm](https://github.com/SkyentificGit/SmallRobotArm)
+  - This is the open source project of the 6DoF robot arm based on stepper motors
+- [aseprite](https://github.com/aseprite/aseprite)
+  - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
+- [Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
+  - Reverse engineering focusing on x64 Windows.
+- [aria2](https://github.com/aria2/aria2)
+  - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+- [tabulate](https://github.com/p-ranav/tabulate)
+  - Table Maker for Modern C++
+- [envoy](https://github.com/envoyproxy/envoy)
+  - Cloud-native high-performance edge/middle/service proxy
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse)
   - ClickHouse is a free analytics DBMS for big data
-- [react-native-windows](https://github.com/microsoft/react-native-windows)
-  - A framework for building native Windows apps with React.
-- [ModSecurity](https://github.com/SpiderLabs/ModSecurity)
-  - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
-- [terminal](https://github.com/microsoft/terminal)
-  - The new Windows Terminal and the original Windows console host, all in the same place!
-- [solidity](https://github.com/ethereum/solidity)
-  - Solidity, the Contract-Oriented Programming Language
-- [pybind11](https://github.com/pybind/pybind11)
-  - Seamless operability between C++11 and Python
+- [cvxpy](https://github.com/cvxgrp/cvxpy)
+  - A Python-embedded modeling language for convex optimization problems.
