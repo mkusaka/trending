@@ -1,50 +1,50 @@
 # general
-- [covid19](https://github.com/tokyo-metropolitan-gov/covid19) : Vue
-  - 東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
-- [libfacedetection](https://github.com/ShiqiYu/libfacedetection) : C++
-  - An open source library for face detection in images. The face detection speed can reach 1000FPS.
-- [HashingDeepLearning](https://github.com/keroro824/HashingDeepLearning) : C++
-  - Codebase for "SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems"
-- [DataX](https://github.com/alibaba/DataX) : Java
-- [monitoror](https://github.com/monitoror/monitoror) : Go
-  - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
-- [projectsandcastle](https://github.com/corellium/projectsandcastle) : C
-  - Supporting tools for Android/Linux on the iPhone
-- [nocode](https://github.com/kelseyhightower/nocode) : Dockerfile
-  - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) : PowerShell
-  - Azure Quickstart Templates
-- [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) : 
-  - Data science interview questions and answers
+- [firecracker](https://github.com/firecracker-microvm/firecracker) : Rust
+  - Secure and fast microVMs for serverless computing.
+- [myDrive](https://github.com/subnub/myDrive) : JavaScript
+  - Node.js and mongoDB Google Drive Clone
+- [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) : C++
+  - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
 - [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
   - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [PowerShell](https://github.com/PowerShell/PowerShell) : C#
-  - PowerShell for every system!
-- [pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning) : Jupyter Notebook
-  - Deep Learning (with PyTorch)
-- [cli](https://github.com/cli/cli) : Go
-  - The GitHub CLI
-- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
-  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-- [ncov](https://github.com/nextstrain/ncov) : Python
-  - Nextstrain build for novel coronavirus (nCoV)
-- [stylegan2](https://github.com/NVlabs/stylegan2) : Python
-  - StyleGAN2 - Official TensorFlow Implementation
-- [transformers](https://github.com/huggingface/transformers) : Python
-  - 🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
-- [react-admin](https://github.com/marmelab/react-admin) : TypeScript
-  - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
-- [matplotlib](https://github.com/matplotlib/matplotlib) : Python
-  - matplotlib: plotting with Python
-- [pix-dict-quickstart](https://github.com/bacen/pix-dict-quickstart) : Java
-  - Quickstart da API do DICT
-- [node](https://github.com/nodejs/node) : JavaScript
-  - Node.js JavaScript runtime ✨🐢🚀✨
-- [spring-boot](https://github.com/spring-projects/spring-boot) : Java
-  - Spring Boot
+- [minter-go-node](https://github.com/MinterTeam/minter-go-node) : Go
+  - 🚀 Official Minter Blockchain Implementation in Go
+- [covid19italia](https://github.com/ondata/covid19italia) : Jupyter Notebook
+- [ultimate-coding-resources](https://github.com/PizzaPokerGuy/ultimate-coding-resources) : 
+  - A collection of the best resources for programming, web development, computer science and more.
+- [libfacedetection](https://github.com/ShiqiYu/libfacedetection) : C++
+  - An open source library for face detection in images. The face detection speed can reach 1000FPS.
+- [vue-formulate](https://github.com/wearebraid/vue-formulate) : JavaScript
+  - The easiest way to build forms using Vue.
+- [awesome-reversing](https://github.com/tylerha97/awesome-reversing) : 
+  - A curated list of awesome reversing resources
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
+  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
+- [ghidra](https://github.com/NationalSecurityAgency/ghidra) : Java
+  - Ghidra is a software reverse engineering (SRE) framework
+- [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) : C#
+  - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET Core 3.0, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
+- [learn-regex](https://github.com/ziishaned/learn-regex) : 
+  - Learn regex the easy way
+- [hospitalrun-frontend](https://github.com/HospitalRun/hospitalrun-frontend) : TypeScript
+  - Frontend for HospitalRun
 - [material-ui](https://github.com/mui-org/material-ui) : JavaScript
   - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form) : TypeScript
-  - 📋 React hooks for forms validation without the hassle.
-- [jd_mask](https://github.com/zhou-xiaojun/jd_mask) : Python
-  - 京东定时自动预约,抢购.(只针对性支持要先预约,到点抢购.然后直接下单的商品!)
+- [runtime](https://github.com/dotnet/runtime) : C#
+  - .NET is a cross-platform runtime for cloud, IoT, and desktop apps.
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) : Python
+  - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [lede](https://github.com/coolsnowwolf/lede) : C
+  - Lean's OpenWrt source
+- [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go) : Go
+  - 百度网盘客户端 - Go语言编写
+- [bootstrap](https://github.com/twbs/bootstrap) : JavaScript
+  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [benchmarking-gnns](https://github.com/graphdeeplearning/benchmarking-gnns) : Jupyter Notebook
+  - Repository for benchmarking graph neural networks
+- [julia](https://github.com/JuliaLang/julia) : Julia
+  - The Julia Language: A fresh approach to technical computing.
+- [mall](https://github.com/macrozheng/mall) : Java
+  - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+- [JavaGuide](https://github.com/Snailclimb/JavaGuide) : Java
+  - 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。

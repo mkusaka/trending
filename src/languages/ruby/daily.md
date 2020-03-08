@@ -1,51 +1,51 @@
 # ruby
-- [sidekiq](https://github.com/mperham/sidekiq)
-  - Simple, efficient background processing for Ruby
-- [rubocop](https://github.com/rubocop-hq/rubocop)
-  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
-  - Metasploit Framework
-- [decidim](https://github.com/decidim/decidim)
-  - The participatory democracy framework. A generator and multiple gems made with Ruby on Rails
-- [fastlane](https://github.com/fastlane/fastlane)
-  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [gitlabhq](https://github.com/gitlabhq/gitlabhq)
-  - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
-- [devise](https://github.com/heartcombo/devise)
-  - Flexible authentication solution for Rails with Warden.
-- [grape](https://github.com/ruby-grape/grape)
-  - An opinionated framework for creating REST-like APIs in Ruby.
-- [activeadmin](https://github.com/activeadmin/activeadmin)
-  - The administration framework for Ruby on Rails applications.
-- [dependabot-core](https://github.com/dependabot/dependabot-core)
-  - 🤖The core logic behind Dependabot's update PR creation
-- [spree](https://github.com/spree/spree)
-  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
-- [flutter-rust-ffi](https://github.com/brickpop/flutter-rust-ffi)
-  - Starter project for Flutter plugins willing to access native and synchronous rust code using FFI
-- [concurrent-ruby](https://github.com/ruby-concurrency/concurrent-ruby)
-  - Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
-- [logstash-patterns-core](https://github.com/logstash-plugins/logstash-patterns-core)
-  - 
-- [vagrant](https://github.com/hashicorp/vagrant)
-  - Vagrant is a tool for building and distributing development environments.
-- [logstash](https://github.com/elastic/logstash)
-  - Logstash - transport and process your logs, events, or other data
+- [sonic-pi](https://github.com/samaaron/sonic-pi)
+  - The Live Coding Music Synth for Everyone
 - [jekyll](https://github.com/jekyll/jekyll)
   - 🌐 Jekyll is a blog-aware static site generator in Ruby
-- [zammad](https://github.com/zammad/zammad)
-  - Zammad is a web based open source helpdesk/customer support system
-- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
-  - The Cocoa Dependency Manager.
-- [solidus](https://github.com/solidusio/solidus)
-  - 🛒Solidus, Rails eCommerce System
-- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
-  - Ruby implementation of GraphQL
-- [greenlight](https://github.com/bigbluebutton/greenlight)
-  - A really simple end-user interface for your BigBlueButton server.
-- [cucumber-ruby](https://github.com/cucumber/cucumber-ruby)
-  - Cucumber for Ruby
-- [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)
-  - Simple one-liner tests for common Rails functionality
-- [fluentd-kubernetes-daemonset](https://github.com/fluent/fluentd-kubernetes-daemonset)
-  - Fluentd daemonset for Kubernetes and it Docker image
+- [puma](https://github.com/puma/puma)
+  - A Ruby/Rack web server built for concurrency
+- [spree](https://github.com/spree/spree)
+  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
+- [devdocs](https://github.com/freeCodeCamp/devdocs)
+  - API Documentation Browser
+- [markup](https://github.com/github/markup)
+  - Determines which markup library to use to render a content file (e.g. README) on GitHub
+- [rps-challenge](https://github.com/makersacademy/rps-challenge)
+  - Create the Rock Paper Scissors Game
+- [ttt-6-position-taken-rb-ruby-intro-000](https://github.com/learn-co-students/ttt-6-position-taken-rb-ruby-intro-000)
+  - 
+- [rspec-fizzbuzz-ruby-intro-000](https://github.com/learn-co-students/rspec-fizzbuzz-ruby-intro-000)
+  - 
+- [ttt-10-current-player-ruby-intro-000](https://github.com/learn-co-students/ttt-10-current-player-ruby-intro-000)
+  - 
+- [yield-and-blocks-onl01-seng-pt-030220](https://github.com/learn-co-students/yield-and-blocks-onl01-seng-pt-030220)
+  - 
+- [my_all-onl01-seng-pt-030220](https://github.com/learn-co-students/my_all-onl01-seng-pt-030220)
+  - 
+- [ttt-9-play-loop-ruby-intro-000](https://github.com/learn-co-students/ttt-9-play-loop-ruby-intro-000)
+  - 
+- [sinatra-from-scratch-readme](https://github.com/learn-co-curriculum/sinatra-from-scratch-readme)
+  - 
+- [ruby-object-attributes-lab-online-web-sp-000](https://github.com/learn-co-students/ruby-object-attributes-lab-online-web-sp-000)
+  - 
+- [sinatra-secure-password-lab-onl01-seng-ft-012120](https://github.com/learn-co-students/sinatra-secure-password-lab-onl01-seng-ft-012120)
+  - 
+- [instance-methods-lab-ruby-ruby-intro-000](https://github.com/learn-co-students/instance-methods-lab-ruby-ruby-intro-000)
+  - 
+- [final](https://github.com/kiei451-winter2020/final)
+  - 
+- [ruby-objects-has-many-lab-onl01-seng-pt-021020](https://github.com/learn-co-students/ruby-objects-has-many-lab-onl01-seng-pt-021020)
+  - 
+- [ttt-7-valid-move-ruby-intro-000](https://github.com/learn-co-students/ttt-7-valid-move-ruby-intro-000)
+  - 
+- [my-each-onl01-seng-pt-030220](https://github.com/learn-co-students/my-each-onl01-seng-pt-030220)
+  - 
+- [sinatra-password-security-onl01-seng-ft-012120](https://github.com/learn-co-students/sinatra-password-security-onl01-seng-ft-012120)
+  - 
+- [ruby-enumerables-introduction-to-map-and-reduce-lab-london-web-030920](https://github.com/learn-co-students/ruby-enumerables-introduction-to-map-and-reduce-lab-london-web-030920)
+  - 
+- [cocoapods-binary](https://github.com/leavez/cocoapods-binary)
+  - integrate pods in form of prebuilt frameworks conveniently, reducing compile time
+- [ruby-collaborating-objects-lab-onl01-seng-pt-021020](https://github.com/learn-co-students/ruby-collaborating-objects-lab-onl01-seng-pt-021020)
+  - 
