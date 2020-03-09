@@ -1,51 +1,50 @@
 # general
-- [UTM](https://github.com/utmapp/UTM) : Objective-C
-  - Virtual machines for iOS
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - 手把手撕LeetCode题目，扒各种算法套路的裤子，not only how，but also why. English version supported!
 - [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
   - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [kbone](https://github.com/Tencent/kbone) : JavaScript
-  - 一个致力于微信小程序和 Web 端同构的解决方案
-- [fanqiang](https://github.com/bannedbook/fanqiang) : Rich Text Format
-  - 翻墙-科学上网
-- [mall-swarm](https://github.com/macrozheng/mall-swarm) : Java
-  - mall-swarm是一套微服务商城系统，采用了 Spring Cloud Greenwich、Spring Boot 2、MyBatis、Docker、Elasticsearch等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。
-- [lede](https://github.com/coolsnowwolf/lede) : C
-  - Lean's OpenWrt source
-- [google-access-helper](https://github.com/haotian-wang/google-access-helper) : JavaScript
-  - 谷歌访问助手破解版
+- [fastbook](https://github.com/fastai/fastbook) : Jupyter Notebook
+  - Draft of the fastai book
+- [7days-golang](https://github.com/geektutu/7days-golang) : Go
+  - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc) 7天用Go动手写/从零实现系列
+- [OnJava8](https://github.com/LingCoder/OnJava8) : 
+  - 《On Java 8》中文版，又名《Java编程思想》 第5版
+- [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) : Java
+  - Spring Boot 2.X 专栏更新完毕，Spring Cloud & Spring Cloud Alibaba 2.X 专栏更新中 。欢迎胖友 Star 一波
+- [G2](https://github.com/antvis/G2) : TypeScript
+  - 📊 A highly interactive data-driven visualization grammar for statistical charts.
+- [litemall](https://github.com/linlinjava/litemall) : Java
+  - 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
+- [qiankun](https://github.com/umijs/qiankun) : TypeScript
+  - 📦🚀Blazing fast, simple and completed solution for micro frontends.
+- [DataX](https://github.com/alibaba/DataX) : Java
+- [SHADERed](https://github.com/dfranx/SHADERed) : C++
+  - Lightweight, cross-platform & full-featured desktop IDE for HLSL and GLSL shaders
+- [ant-design](https://github.com/ant-design/ant-design) : TypeScript
+  - 🌈 A UI Design Language and React UI library
 - [goxygen](https://github.com/Shpota/goxygen) : Go
-  - Generate a modern web project with Go, React and MongoDB in seconds🚀
-- [Alamofire](https://github.com/Alamofire/Alamofire) : Swift
-  - Elegant HTTP Networking in Swift
-- [eui](https://github.com/elastic/eui) : JavaScript
-  - Elastic UI Framework 🙌
-- [m3](https://github.com/m3db/m3) : Go
-  - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform
+  - Generate a modern Web project with Go, Angular/React/Vue, and MongoDB in seconds🚀
+- [JavaFamily](https://github.com/AobingJava/JavaFamily) : 
+  - 【互联网一线大厂面试+学习指南】进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看，前端同学我保证你也看得懂，看不懂你加我微信骂我渣男就好了。
+- [element](https://github.com/ElemeFE/element) : Vue
+  - A Vue.js 2.0 UI Toolkit for Web
+- [ant-design-pro](https://github.com/ant-design/ant-design-pro) : TypeScript
+  - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
+- [SpringCloud](https://github.com/zhoutaoo/SpringCloud) : Java
+  - 基于SpringCloud2.1的微服务开发脚手架，整合了spring-security-oauth2、nacos、feign、sentinel、springcloud-gateway等。服务治理方面引入elasticsearch、skywalking、springboot-admin、zipkin等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。持续更新中
 - [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) : Objective-C
   - Mac版微信的功能拓展
-- [modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) : C#
-  - Full Modular Monolith application with Domain-Driven Design approach.
-- [models](https://github.com/PaddlePaddle/models) : Python
-  - Pre-trained and Reproduced Deep Learning Models （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）
-- [jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot) : Java
-  - 一款基于代码生成器的JAVA快速开发平台，开源界“小普元”超越传统商业企业级开发平台！采用前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式(OnlineCoding模式-> 代码生成器模式-> 手工MERGE智能开发)，帮助Java项目解决70%的重复工作，让开发更多关注业务逻辑。既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。JeecgBoot还独创在线开发模式（No代码）：在线表单配置（表单设计器）、移动配置能力、在线工作流配置（流程设计器）、在线报表配置、在线图表配置、插件能力（可插拔）等等
-- [vapor](https://github.com/vapor/vapor) : Swift
-  - 💧 A server-side Swift web framework.
-- [pi-hole](https://github.com/pi-hole/pi-hole) : Shell
-  - A black hole for Internet advertisements
-- [seata](https://github.com/seata/seata) : Java
-  - 🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution.
-- [JavaGuide](https://github.com/Snailclimb/JavaGuide) : Java
-  - 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-- [clash](https://github.com/Dreamacro/clash) : Go
-  - A rule-based tunnel in Go.
-- [alpine](https://github.com/alpinejs/alpine) : JavaScript
-  - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [trojan](https://github.com/trojan-gfw/trojan) : C++
-  - An unidentifiable mechanism that helps you bypass GFW.
-- [yapi](https://github.com/YMFE/yapi) : JavaScript
-  - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
-- [pdf.js](https://github.com/mozilla/pdf.js) : JavaScript
-  - PDF Reader in JavaScript
+- [tidb](https://github.com/pingcap/tidb) : Go
+  - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+- [covid19](https://github.com/kaz-ogiwara/covid19) : JavaScript
+  - 新型コロナウイルス（COVID19）の国内における感染の状況を厚生労働省の報道発表資料からビジュアルにまとめた。
+- [dgl](https://github.com/dmlc/dgl) : Python
+  - Python package built to ease deep learning on graph, on top of existing DL frameworks.
+- [PowerToys](https://github.com/microsoft/PowerToys) : C++
+  - Windows system utilities to maximize productivity
+- [strapi](https://github.com/strapi/strapi) : JavaScript
+  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) : PowerShell
+  - Azure Quickstart Templates
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
+  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
