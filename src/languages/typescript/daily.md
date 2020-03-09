@@ -36,7 +36,7 @@
 - [pixi.js](https://github.com/pixijs/pixi.js)
   - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [G2Plot](https://github.com/antvis/G2Plot)
-  - 🍡 An interactive and responsive charting library based on the grammar of graphics.
+  - 🍡 An interactive and responsive charting library
 - [NativeScript](https://github.com/NativeScript/NativeScript)
   - NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
 - [coc.nvim](https://github.com/neoclide/coc.nvim)
