@@ -1,51 +1,51 @@
 # c++
 - [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite)
   - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
-- [libfacedetection](https://github.com/ShiqiYu/libfacedetection)
-  - An open source library for face detection in images. The face detection speed can reach 1000FPS.
+- [vfuzz](https://github.com/guidovranken/vfuzz)
+  - vfuzz
+- [librealsense](https://github.com/IntelRealSense/librealsense)
+  - Intel® RealSense™ SDK
+- [security](https://github.com/windows-internals-guide/security)
+  - 
+- [folly](https://github.com/facebook/folly)
+  - An open-source C++ library developed and used at Facebook.
+- [srs](https://github.com/ossrs/srs)
+  - SRS is a live streaming cluster, high efficiency, stable and simple.
+- [Vulkan](https://github.com/SaschaWillems/Vulkan)
+  - Examples and demos for the new Vulkan API
+- [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2)
+  - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
+- [Catch2](https://github.com/catchorg/Catch2)
+  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
 - [godot](https://github.com/godotengine/godot)
   - Godot Engine – Multi-platform 2D and 3D game engine
-- [electron](https://github.com/electron/electron)
-  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [HashingDeepLearning](https://github.com/keroro824/HashingDeepLearning)
-  - Codebase for "SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems"
+- [omniscidb](https://github.com/omnisci/omniscidb)
+  - OmniSciDB (formerly MapD Core)
+- [mediapipe](https://github.com/google/mediapipe)
+  - MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
 - [incubator-brpc](https://github.com/apache/incubator-brpc)
   - Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services, called "baidu-rpc" inside Baidu.
-- [lmms](https://github.com/LMMS/lmms)
-  - Cross-platform music production software
-- [GuiLite](https://github.com/idea4good/GuiLite)
-  - ✔️The smallest header-only GUI library(5 KLOC) for all platforms
-- [opencv](https://github.com/opencv/opencv)
-  - Open Source Computer Vision Library
-- [server](https://github.com/MariaDB/server)
-  - MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.
-- [kungfu](https://github.com/taurusai/kungfu)
-  - Kungfu Trader
-- [stardraft](https://github.com/davechurchill/stardraft)
-  - StarCraft Map Visualization
-- [ndk-samples](https://github.com/android/ndk-samples)
-  - Android NDK samples with Android Studio
-- [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe)
-  - waifu2xのCaffe版
-- [DaisySP](https://github.com/electro-smith/DaisySP)
-  - DSP library for the Daisy product family...and elsewhere!
-- [PAT](https://github.com/liuchuo/PAT)
-  - 🍭 浙江大学PAT题解(C/C++/Java/Python) - 努力成为萌萌的程序媛～
-- [SmallRobotArm](https://github.com/SkyentificGit/SmallRobotArm)
-  - This is the open source project of the 6DoF robot arm based on stepper motors
-- [aseprite](https://github.com/aseprite/aseprite)
-  - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
-- [Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
-  - Reverse engineering focusing on x64 Windows.
-- [aria2](https://github.com/aria2/aria2)
-  - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-- [tabulate](https://github.com/p-ranav/tabulate)
-  - Table Maker for Modern C++
-- [envoy](https://github.com/envoyproxy/envoy)
-  - Cloud-native high-performance edge/middle/service proxy
-- [ClickHouse](https://github.com/ClickHouse/ClickHouse)
-  - ClickHouse is a free analytics DBMS for big data
-- [cvxpy](https://github.com/cvxgrp/cvxpy)
-  - A Python-embedded modeling language for convex optimization problems.
+- [dxvk](https://github.com/doitsujin/dxvk)
+  - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
+- [draco](https://github.com/google/draco)
+  - Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.
+- [imgui](https://github.com/ocornut/imgui)
+  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+- [tesseract](https://github.com/tesseract-ocr/tesseract)
+  - Tesseract Open Source OCR Engine (main repository)
+- [DeepSpeech](https://github.com/mozilla/DeepSpeech)
+  - A TensorFlow implementation of Baidu's DeepSpeech architecture
+- [bullet3](https://github.com/bulletphysics/bullet3)
+  - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
+- [ngraph](https://github.com/NervanaSystems/ngraph)
+  - nGraph - open source C++ library, compiler and runtime for Deep Learning
+- [tinyobjloader](https://github.com/tinyobjloader/tinyobjloader)
+  - Tiny but powerful single file wavefront obj loader
+- [TensorRT](https://github.com/NVIDIA/TensorRT)
+  - TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.
+- [rpcs3](https://github.com/RPCS3/rpcs3)
+  - PS3 emulator/debugger
+- [benchmark](https://github.com/google/benchmark)
+  - A microbenchmark support library
+- [googletest](https://github.com/google/googletest)
+  - Googletest - Google Testing and Mocking Framework

@@ -1,51 +1,51 @@
 # typescript
 - [hospitalrun-frontend](https://github.com/HospitalRun/hospitalrun-frontend)
   - Frontend for HospitalRun
-- [Tone.js](https://github.com/Tonejs/Tone.js)
-  - A Web Audio framework for making interactive music in the browser.
-- [spectro](https://github.com/calebj0seph/spectro)
-  - 🎶 Real-time audio spectrogram generator for the web
+- [formik](https://github.com/jaredpalmer/formik)
+  - Build forms in React, without the tears 😭
+- [angular-cli](https://github.com/angular/angular-cli)
+  - CLI tool for Angular
+- [grafana](https://github.com/grafana/grafana)
+  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 - [uppload](https://github.com/elninotech/uppload)
   - 📁 Uppload is a better JavaScript image uploader with 30+ plugins
-- [polaris-react](https://github.com/Shopify/polaris-react)
-  - Shopify’s product component library
-- [react-admin](https://github.com/marmelab/react-admin)
-  - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
-- [react-apollo](https://github.com/apollographql/react-apollo)
-  - ♻️ React integration for Apollo Client
+- [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+  - ✨ Monorepo for all the tooling which enables ESLint to support TypeScript
+- [desktop](https://github.com/desktop/desktop)
+  - Simple collaboration from your desktop
+- [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)
+  - An enterprise-class UI components based on Ant Design and Angular. 🐜
+- [jest](https://github.com/facebook/jest)
+  - Delightful JavaScript Testing.
+- [G2](https://github.com/antvis/G2)
+  - 📊 A highly interactive data-driven visualization grammar for statistical charts.
+- [sp-dev-fx-webparts](https://github.com/SharePoint/sp-dev-fx-webparts)
+  - SharePoint Framework client-side web part samples and related assets.
+- [crud](https://github.com/nestjsx/crud)
+  - NestJs CRUD for RESTful APIs
+- [ag-grid](https://github.com/ag-grid/ag-grid)
+  - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
+- [tinacms](https://github.com/tinacms/tinacms)
+  - Tina is a site editing toolkit for modern React-based sites (Gatsby and Next.js)
+- [routing-controllers](https://github.com/typestack/routing-controllers)
+  - Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework.
+- [pro-table](https://github.com/ant-design/pro-table)
+  - 🏆 Use Ant Design Table like a Pro!
 - [angular](https://github.com/angular/angular)
   - One framework. Mobile & desktop.
-- [clui](https://github.com/replit/clui)
-  - CLUI is a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete.
-- [Angular-GettingStarted](https://github.com/DeborahK/Angular-GettingStarted)
-  - Sample Angular application used in the "Angular: Getting Started" course: http://bit.ly/Angular-GettingStarted
-- [etcher](https://github.com/balena-io/etcher)
-  - Flash OS images to SD cards & USB drives, safely and easily.
-- [linaria](https://github.com/callstack/linaria)
-  - Zero-runtime CSS in JS library
-- [face-api.js](https://github.com/justadudewhohacks/face-api.js)
-  - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
-- [redoc](https://github.com/Redocly/redoc)
-  - 📘 OpenAPI/Swagger-generated API Reference Documentation
-- [deno](https://github.com/denoland/deno)
-  - A secure JavaScript and TypeScript runtime
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
-  - 📋 React hooks for forms validation without the hassle.
+- [theia](https://github.com/eclipse-theia/theia)
+  - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [sapper](https://github.com/sveltejs/sapper)
   - The next small thing in web development, powered by Svelte
-- [pixi.js](https://github.com/pixijs/pixi.js)
-  - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+- [BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
+  - Dialog creation and management for Microsoft Bot Framework Applications
+- [ext-saladict](https://github.com/crimx/ext-saladict)
+  - Feature-rich inline translator.
+- [xstate](https://github.com/davidkpiano/xstate)
+  - State machines and statecharts for the modern web.
 - [G2Plot](https://github.com/antvis/G2Plot)
   - 🍡 An interactive and responsive charting library
-- [NativeScript](https://github.com/NativeScript/NativeScript)
-  - NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
-- [coc.nvim](https://github.com/neoclide/coc.nvim)
-  - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
-- [rxdb](https://github.com/pubkey/rxdb)
-  - 💻 🔄 📱 A realtime Database for JavaScript Applications
-- [L7](https://github.com/antvis/L7)
-  - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis framework which relies on Mapbox GL or AMap to render basemaps.
-- [vetur](https://github.com/vuejs/vetur)
-  - Vue tooling for VS Code.
-- [streamlabs-obs](https://github.com/stream-labs/streamlabs-obs)
-  - Free and open source streaming software built on OBS and Electron.
+- [loopback-next](https://github.com/strongloop/loopback-next)
+  - LoopBack makes it easy to build modern API applications that require complex integrations.
+- [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator)
+  - GraphQL code generator with flexible support for custom plugins and templates

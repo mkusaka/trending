@@ -1,51 +1,51 @@
 # rust
+- [zoxide](https://github.com/ajeetdsouza/zoxide)
+  - A fast cd command that learns your habits
+- [webml](https://github.com/KeenS/webml)
+  - A Standard ML Compiler for the Web
 - [firecracker](https://github.com/firecracker-microvm/firecracker)
   - Secure and fast microVMs for serverless computing.
-- [ripgrep](https://github.com/BurntSushi/ripgrep)
-  - ripgrep recursively searches directories for a regex pattern
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-  - A curated list of Rust code and resources.
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix web is a small, pragmatic, and extremely fast rust web framework.
-- [nalgebra](https://github.com/rustsim/nalgebra)
-  - Linear algebra library for Rust.
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
-  - Unofficial Bitwarden compatible server written in Rust
-- [juniper](https://github.com/graphql-rust/juniper)
-  - GraphQL server library for Rust
-- [jvm](https://github.com/douchuan/jvm)
-  - JVM written in Rust
-- [examples](https://github.com/actix/examples)
-  - Actix web examples
-- [rustfmt](https://github.com/rust-lang/rustfmt)
-  - Format Rust code
-- [nix](https://github.com/nix-rust/nix)
-  - Rust friendly bindings to *nix APIs
-- [rust-libp2p](https://github.com/libp2p/rust-libp2p)
-  - The Rust Implementation of libp2p networking stack.
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
+- [Rocket](https://github.com/SergioBenitez/Rocket)
+  - A web framework for Rust.
 - [amethyst](https://github.com/amethyst/amethyst)
   - Data-oriented and data-driven game engine written in Rust
-- [rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb)
-  - rust wrapper for rocksdb
-- [rust-clippy](https://github.com/rust-lang/rust-clippy)
-  - A bunch of lints to catch common mistakes and improve your Rust code
-- [spotify-tui](https://github.com/Rigellute/spotify-tui)
-  - Spotify for the terminal written in Rust 🚀
-- [topgrade](https://github.com/r-darwish/topgrade)
-  - Upgrade everything
-- [stork](https://github.com/jameslittle230/stork)
-  - Impossibly fast web search, made for static sites.
-- [crabler](https://github.com/Gonzih/crabler)
-  - Web Crawler for Crabs
-- [noria](https://github.com/mit-pdos/noria)
-  - Dynamically changing, partially-stateful data-flow for web application backends.
-- [anyhow](https://github.com/dtolnay/anyhow)
-  - Flexible concrete Error type built on std::error::Error
+- [druid](https://github.com/xi-editor/druid)
+  - A data-first Rust-native UI design toolkit.
+- [vector](https://github.com/timberio/vector)
+  - A lightweight and ultra-fast tool for building observability pipelines
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [examples](https://github.com/actix/examples)
+  - Actix web examples
+- [hyper](https://github.com/hyperium/hyper)
+  - An HTTP library for Rust
+- [starship](https://github.com/starship/starship)
+  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
+- [rustlings](https://github.com/rust-lang/rustlings)
+  - Small exercises to get you used to reading and writing Rust code!
+- [tree-sitter](https://github.com/tree-sitter/tree-sitter)
+  - An incremental parsing system for programming tools
+- [librespot](https://github.com/librespot-org/librespot)
+  - Open Source Spotify client library
+- [rayon](https://github.com/rayon-rs/rayon)
+  - Rayon: A data parallelism library for Rust
 - [thiserror](https://github.com/dtolnay/thiserror)
   - derive(Error) for struct and enum error types
-- [wifi-connect](https://github.com/balena-io/wifi-connect)
-  - Easy WiFi setup for Linux devices from your mobile phone or laptop
+- [polkadot](https://github.com/paritytech/polkadot)
+  - Polkadot Node Implementation
+- [grin](https://github.com/mimblewimble/grin)
+  - Minimal implementation of the Mimblewimble protocol.
+- [espanso](https://github.com/federico-terzi/espanso)
+  - Cross-platform Text Expander written in Rust
+- [nalgebra](https://github.com/rustsim/nalgebra)
+  - Linear algebra library for Rust.
+- [tremor-runtime](https://github.com/wayfair-tremor/tremor-runtime)
+  - Main Tremor Project Rust Codebase
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
+- [tui-rs](https://github.com/fdehau/tui-rs)
+  - Build terminal user interfaces and dashboards using Rust
