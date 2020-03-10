@@ -1,50 +1,51 @@
 # general
-- [firecracker](https://github.com/firecracker-microvm/firecracker) : Rust
-  - Secure and fast microVMs for serverless computing.
-- [myDrive](https://github.com/subnub/myDrive) : JavaScript
-  - Node.js and mongoDB Google Drive Clone
+- [COVID-19](https://github.com/pcm-dpc/COVID-19) : 
+  - COVID-19 Italia - Monitoraggio situazione
 - [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) : C++
   - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
-- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
-  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [minter-go-node](https://github.com/MinterTeam/minter-go-node) : Go
-  - 🚀 Official Minter Blockchain Implementation in Go
-- [covid19italia](https://github.com/ondata/covid19italia) : Jupyter Notebook
-- [ultimate-coding-resources](https://github.com/PizzaPokerGuy/ultimate-coding-resources) : 
-  - A collection of the best resources for programming, web development, computer science and more.
-- [libfacedetection](https://github.com/ShiqiYu/libfacedetection) : C++
-  - An open source library for face detection in images. The face detection speed can reach 1000FPS.
-- [vue-formulate](https://github.com/wearebraid/vue-formulate) : JavaScript
-  - The easiest way to build forms using Vue.
-- [awesome-reversing](https://github.com/tylerha97/awesome-reversing) : 
-  - A curated list of awesome reversing resources
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
-  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
-- [ghidra](https://github.com/NationalSecurityAgency/ghidra) : Java
-  - Ghidra is a software reverse engineering (SRE) framework
-- [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) : C#
-  - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET Core 3.0, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
-- [learn-regex](https://github.com/ziishaned/learn-regex) : 
-  - Learn regex the easy way
-- [hospitalrun-frontend](https://github.com/HospitalRun/hospitalrun-frontend) : TypeScript
-  - Frontend for HospitalRun
-- [material-ui](https://github.com/mui-org/material-ui) : JavaScript
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [runtime](https://github.com/dotnet/runtime) : C#
-  - .NET is a cross-platform runtime for cloud, IoT, and desktop apps.
-- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) : Python
-  - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-- [lede](https://github.com/coolsnowwolf/lede) : C
-  - Lean's OpenWrt source
+- [cloud2020](https://github.com/leelovejava/cloud2020) : Java
+  - SpringCloud
+- [JavaFamily](https://github.com/AobingJava/JavaFamily) : 
+  - 【互联网一线大厂面试+学习指南】进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看，前端同学我保证你也看得懂，看不懂你加我微信骂我渣男就好了。
 - [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go) : Go
   - 百度网盘客户端 - Go语言编写
-- [bootstrap](https://github.com/twbs/bootstrap) : JavaScript
-  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [benchmarking-gnns](https://github.com/graphdeeplearning/benchmarking-gnns) : Jupyter Notebook
-  - Repository for benchmarking graph neural networks
-- [julia](https://github.com/JuliaLang/julia) : Julia
-  - The Julia Language: A fresh approach to technical computing.
-- [mall](https://github.com/macrozheng/mall) : Java
-  - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [JavaGuide](https://github.com/Snailclimb/JavaGuide) : Java
   - 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+- [ultimate-coding-resources](https://github.com/PizzaPokerGuy/ultimate-coding-resources) : 
+  - A collection of the best resources for programming, web development, computer science and more.
+- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
+  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
+- [CVPR2020-Code](https://github.com/amusi/CVPR2020-Code) : 
+  - CVPR 2020 论文开源项目合集
+- [myDrive](https://github.com/subnub/myDrive) : JavaScript
+  - Node.js and mongoDB Google Drive Clone
+- [learn-regex](https://github.com/ziishaned/learn-regex) : 
+  - Learn regex the easy way
+- [TheFatRat](https://github.com/Screetsec/TheFatRat) : C
+  - Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV softw…
+- [vfuzz](https://github.com/guidovranken/vfuzz) : C++
+  - vfuzz
+- [dangerzone](https://github.com/firstlookmedia/dangerzone) : Python
+  - Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF
+- [zoxide](https://github.com/ajeetdsouza/zoxide) : Rust
+  - A fast cd command that learns your habits
+- [wahh_extras](https://github.com/six2dez/wahh_extras) : Java
+  - The Web Application Hacker's Handbook - Extra Content
+- [webml](https://github.com/KeenS/webml) : Rust
+  - A Standard ML Compiler for the Web
+- [CVE-2020-8597](https://github.com/marcinguy/CVE-2020-8597) : Python
+  - CVE-2020-8597
+- [dispatch](https://github.com/Netflix/dispatch) : Python
+  - All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
+- [incubator-shardingsphere](https://github.com/apache/incubator-shardingsphere) : Java
+  - Distributed database middleware
+- [aspnetcore](https://github.com/dotnet/aspnetcore) : C#
+  - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+- [hospitalrun-frontend](https://github.com/HospitalRun/hospitalrun-frontend) : TypeScript
+  - Frontend for HospitalRun
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
+  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
+- [manim](https://github.com/3b1b/manim) : Python
+  - Animation engine for explanatory math videos
+- [universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) : JavaScript
+  - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.

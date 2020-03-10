@@ -1,51 +1,51 @@
 # javascript
 - [myDrive](https://github.com/subnub/myDrive)
   - Node.js and mongoDB Google Drive Clone
-- [vue-formulate](https://github.com/wearebraid/vue-formulate)
-  - The easiest way to build forms using Vue.
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [bootstrap](https://github.com/twbs/bootstrap)
-  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool)
+  - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
+- [joplin](https://github.com/laurent22/joplin)
+  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [gatsby](https://github.com/gatsbyjs/gatsby)
+  - Build blazing fast, modern apps and websites with React
+- [taro](https://github.com/NervJS/taro)
+  - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动/ QQ 小程序/快应用/H5/React Native 等的应用。 https://taro.jd.com/
 - [fe-interview](https://github.com/haizlin/fe-interview)
   - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）
-- [odoo](https://github.com/odoo/odoo)
-  - Odoo. Open Source Apps To Grow Your Business.
-- [social-network](https://github.com/misa-j/social-network)
-  - My first project
-- [webpack-2020](https://github.com/vladilenm/webpack-2020)
-  - 
-- [node](https://github.com/nodejs/node)
-  - Node.js JavaScript runtime ✨🐢🚀✨
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
-  - ✅ The Node.js best practices list (March 2020)
-- [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
-  -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [immer](https://github.com/immerjs/immer)
-  - Create the next immutable state by mutating the current one
+- [hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
+  - Based on a true story
+- [firefox-voice](https://github.com/mozilla/firefox-voice)
+  - Firefox Voice is an experiment in a voice-controlled web user agent
 - [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
   - Bypass Paywalls for Chrome
-- [esercizi-di-programmazione-javascript](https://github.com/AlbertoOlla/esercizi-di-programmazione-javascript)
-  - Esercizi di informatica! Impara a programmare, metti alla prova!
-- [opensource.guide](https://github.com/github/opensource.guide)
-  - 📚 Community guides for open source creators
-- [vue-h5-template](https://github.com/push-over/vue-h5-template)
-  - 
-- [Ghost](https://github.com/TryGhost/Ghost)
-  - 👻 The #1 headless Node.js CMS for professional publishing
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
-  - Starter files, final projects and FAQ for my Complete JavaScript course
-- [vue-todos](https://github.com/liangxiaojuan/vue-todos)
-  - vue最新实战项目教程，从零开始，一步一个脚印,循序渐进。跟着我一起学习vue吧！
-- [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor)
-  - 🍡@quilljs editor component for @vuejs
-- [reactotron](https://github.com/infinitered/reactotron)
-  - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
-- [parcel](https://github.com/parcel-bundler/parcel)
-  - 📦🚀 Blazing fast, zero configuration web application bundler
+- [webdriverio](https://github.com/webdriverio/webdriverio)
+  - Next-gen WebDriver test automation framework for Node.js
+- [BullshitGenerator](https://github.com/menzi11/BullshitGenerator)
+  - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
+- [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
+  - ⛄️ Possibly the smallest compiler ever
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+  - ✅ The Node.js best practices list (March 2020)
+- [wangEditor](https://github.com/wangfupeng1988/wangEditor)
+  - wangEditor —— 轻量级web富文本框
+- [dash-to-dock](https://github.com/micheleg/dash-to-dock)
+  - A dock for the Gnome Shell. This extension moves the dash out of the overview transforming it in a dock for an easier launching of applications and a faster switching between windows and desktops.
+- [reactjs.org](https://github.com/reactjs/reactjs.org)
+  - The React documentation website
+- [downshift](https://github.com/downshift-js/downshift)
+  - 🏎 Primitive to build simple, flexible, WAI-ARIA compliant enhanced input React components
+- [wx_calendar](https://github.com/treadpit/wx_calendar)
+  - 微信小程序－日历 📅
+- [samples](https://github.com/webrtc/samples)
+  - WebRTC Web demos and samples
+- [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js)
+  - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
+- [ScrollMagic](https://github.com/janpaepke/ScrollMagic)
+  - The javascript library for magical scroll interactions.
+- [react-native-snap-carousel](https://github.com/archriss/react-native-snap-carousel)
+  - Swiper/carousel component for React Native featuring previews, multiple layouts, parallax images, performant handling of huge numbers of items, and more. Compatible with Android & iOS.
 - [protobuf.js](https://github.com/protobufjs/protobuf.js)
   - Protocol Buffers for JavaScript (& TypeScript).
-- [TaskConfig](https://github.com/sazs34/TaskConfig)
-  - all_in_one合并脚本，饿了么签到加翻牌，自定义天气，贴吧签到，以及smartjs
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-  - freeCodeCamp.org's open source codebase and curriculum. Learn to code for free together with millions of people.
+- [vuex](https://github.com/vuejs/vuex)
+  - 🗃️ Centralized State Management for Vue.js.
+- [react-testing-library](https://github.com/testing-library/react-testing-library)
+  - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.

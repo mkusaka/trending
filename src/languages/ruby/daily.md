@@ -1,51 +1,51 @@
 # ruby
-- [sonic-pi](https://github.com/samaaron/sonic-pi)
-  - The Live Coding Music Synth for Everyone
-- [jekyll](https://github.com/jekyll/jekyll)
-  - 🌐 Jekyll is a blog-aware static site generator in Ruby
+- [linguist](https://github.com/github/linguist)
+  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [puma](https://github.com/puma/puma)
   - A Ruby/Rack web server built for concurrency
-- [spree](https://github.com/spree/spree)
-  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
+- [openproject](https://github.com/opf/openproject)
+  - OpenProject is the leading open source project management software.
+- [paper_trail](https://github.com/paper-trail-gem/paper_trail)
+  - Track changes to your rails models
+- [greenlight](https://github.com/bigbluebutton/greenlight)
+  - A really simple end-user interface for your BigBlueButton server.
+- [lhm](https://github.com/soundcloud/lhm)
+  - Online MySQL schema migrations
+- [sidekiq](https://github.com/mperham/sidekiq)
+  - Simple, efficient background processing for Ruby
+- [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch)
+  - Ansible playbook for Elasticsearch
+- [carrierwave](https://github.com/carrierwaveuploader/carrierwave)
+  - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
+- [factory_bot](https://github.com/thoughtbot/factory_bot)
+  - A library for setting up Ruby objects as test data.
+- [wicked_pdf](https://github.com/mileszs/wicked_pdf)
+  - PDF generator (from HTML) plugin for Ruby on Rails
+- [dev.to](https://github.com/thepracticaldev/dev.to)
+  - Where programmers share ideas and help each other grow
 - [devdocs](https://github.com/freeCodeCamp/devdocs)
   - API Documentation Browser
-- [markup](https://github.com/github/markup)
-  - Determines which markup library to use to render a content file (e.g. README) on GitHub
-- [rps-challenge](https://github.com/makersacademy/rps-challenge)
-  - Create the Rock Paper Scissors Game
-- [ttt-6-position-taken-rb-ruby-intro-000](https://github.com/learn-co-students/ttt-6-position-taken-rb-ruby-intro-000)
-  - 
-- [rspec-fizzbuzz-ruby-intro-000](https://github.com/learn-co-students/rspec-fizzbuzz-ruby-intro-000)
-  - 
-- [ttt-10-current-player-ruby-intro-000](https://github.com/learn-co-students/ttt-10-current-player-ruby-intro-000)
-  - 
-- [yield-and-blocks-onl01-seng-pt-030220](https://github.com/learn-co-students/yield-and-blocks-onl01-seng-pt-030220)
-  - 
-- [my_all-onl01-seng-pt-030220](https://github.com/learn-co-students/my_all-onl01-seng-pt-030220)
-  - 
-- [ttt-9-play-loop-ruby-intro-000](https://github.com/learn-co-students/ttt-9-play-loop-ruby-intro-000)
-  - 
-- [sinatra-from-scratch-readme](https://github.com/learn-co-curriculum/sinatra-from-scratch-readme)
-  - 
-- [ruby-object-attributes-lab-online-web-sp-000](https://github.com/learn-co-students/ruby-object-attributes-lab-online-web-sp-000)
-  - 
-- [sinatra-secure-password-lab-onl01-seng-ft-012120](https://github.com/learn-co-students/sinatra-secure-password-lab-onl01-seng-ft-012120)
-  - 
-- [instance-methods-lab-ruby-ruby-intro-000](https://github.com/learn-co-students/instance-methods-lab-ruby-ruby-intro-000)
-  - 
-- [final](https://github.com/kiei451-winter2020/final)
-  - 
-- [ruby-objects-has-many-lab-onl01-seng-pt-021020](https://github.com/learn-co-students/ruby-objects-has-many-lab-onl01-seng-pt-021020)
-  - 
-- [ttt-7-valid-move-ruby-intro-000](https://github.com/learn-co-students/ttt-7-valid-move-ruby-intro-000)
-  - 
-- [my-each-onl01-seng-pt-030220](https://github.com/learn-co-students/my-each-onl01-seng-pt-030220)
-  - 
-- [sinatra-password-security-onl01-seng-ft-012120](https://github.com/learn-co-students/sinatra-password-security-onl01-seng-ft-012120)
-  - 
-- [ruby-enumerables-introduction-to-map-and-reduce-lab-london-web-030920](https://github.com/learn-co-students/ruby-enumerables-introduction-to-map-and-reduce-lab-london-web-030920)
-  - 
-- [cocoapods-binary](https://github.com/leavez/cocoapods-binary)
-  - integrate pods in form of prebuilt frameworks conveniently, reducing compile time
-- [ruby-collaborating-objects-lab-onl01-seng-pt-021020](https://github.com/learn-co-students/ruby-collaborating-objects-lab-onl01-seng-pt-021020)
-  - 
+- [dotenv](https://github.com/bkeepers/dotenv)
+  - A Ruby gem to load environment variables from `.env`.
+- [mastodon](https://github.com/tootsuite/mastodon)
+  - Your self-hosted, globally interconnected microblogging community
+- [apartment](https://github.com/influitive/apartment)
+  - Database multi-tenancy for Rack (and Rails) applications
+- [plots2](https://github.com/publiclab/plots2)
+  - a collaborative knowledge-exchange platform in Rails; we welcome first-time contributors! 🎈
+- [grape](https://github.com/ruby-grape/grape)
+  - An opinionated framework for creating REST-like APIs in Ruby.
+- [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening)
+  - This Ansible role provides numerous security-related configurations, providing all-round base protection.
+- [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator)
+  - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
+  - Ruby implementation of GraphQL
+- [dependabot-core](https://github.com/dependabot/dependabot-core)
+  - 🤖The core logic behind Dependabot's update PR creation
+- [redis-rb](https://github.com/redis/redis-rb)
+  - A Ruby client library for Redis
+- [otwarchive](https://github.com/otwcode/otwarchive)
+  - The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project
+- [rails-i18n](https://github.com/svenfuchs/rails-i18n)
+  - Repository for collecting Locale data for Ruby on Rails I18n as well as other interesting, Rails related I18n stuff
