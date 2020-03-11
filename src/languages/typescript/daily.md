@@ -1,51 +1,51 @@
 # typescript
-- [hospitalrun-frontend](https://github.com/HospitalRun/hospitalrun-frontend)
-  - Frontend for HospitalRun
-- [formik](https://github.com/jaredpalmer/formik)
-  - Build forms in React, without the tears 😭
-- [angular-cli](https://github.com/angular/angular-cli)
-  - CLI tool for Angular
+- [vue-next](https://github.com/vuejs/vue-next)
+  - The next major version of Vue (WIP)
+- [excalidraw](https://github.com/excalidraw/excalidraw)
+  - Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
+- [pixi.js](https://github.com/pixijs/pixi.js)
+  - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+- [TypeScript](https://github.com/microsoft/TypeScript)
+  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [grafana](https://github.com/grafana/grafana)
   - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [uppload](https://github.com/elninotech/uppload)
-  - 📁 Uppload is a better JavaScript image uploader with 30+ plugins
-- [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
-  - ✨ Monorepo for all the tooling which enables ESLint to support TypeScript
-- [desktop](https://github.com/desktop/desktop)
-  - Simple collaboration from your desktop
-- [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)
-  - An enterprise-class UI components based on Ant Design and Angular. 🐜
-- [jest](https://github.com/facebook/jest)
-  - Delightful JavaScript Testing.
-- [G2](https://github.com/antvis/G2)
-  - 📊 A highly interactive data-driven visualization grammar for statistical charts.
-- [sp-dev-fx-webparts](https://github.com/SharePoint/sp-dev-fx-webparts)
-  - SharePoint Framework client-side web part samples and related assets.
+- [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
+  - Tasks for Azure Pipelines
+- [hospitalrun-frontend](https://github.com/HospitalRun/hospitalrun-frontend)
+  - Frontend for HospitalRun
+- [tfjs-models](https://github.com/tensorflow/tfjs-models)
+  - Pretrained models for TensorFlow.js
+- [vscode](https://github.com/microsoft/vscode)
+  - Visual Studio Code
+- [ngx-admin](https://github.com/akveo/ngx-admin)
+  - Customizable admin dashboard template based on Angular 8+
 - [crud](https://github.com/nestjsx/crud)
   - NestJs CRUD for RESTful APIs
-- [ag-grid](https://github.com/ag-grid/ag-grid)
-  - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-- [tinacms](https://github.com/tinacms/tinacms)
-  - Tina is a site editing toolkit for modern React-based sites (Gatsby and Next.js)
-- [routing-controllers](https://github.com/typestack/routing-controllers)
-  - Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework.
-- [pro-table](https://github.com/ant-design/pro-table)
-  - 🏆 Use Ant Design Table like a Pro!
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
-- [theia](https://github.com/eclipse-theia/theia)
-  - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [sapper](https://github.com/sveltejs/sapper)
-  - The next small thing in web development, powered by Svelte
-- [BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
-  - Dialog creation and management for Microsoft Bot Framework Applications
-- [ext-saladict](https://github.com/crimx/ext-saladict)
-  - Feature-rich inline translator.
-- [xstate](https://github.com/davidkpiano/xstate)
-  - State machines and statecharts for the modern web.
-- [G2Plot](https://github.com/antvis/G2Plot)
-  - 🍡 An interactive and responsive charting library
-- [loopback-next](https://github.com/strongloop/loopback-next)
-  - LoopBack makes it easy to build modern API applications that require complex integrations.
+- [kibana](https://github.com/elastic/kibana)
+  - Your window into the Elastic Stack
+- [angular-cli](https://github.com/angular/angular-cli)
+  - CLI tool for Angular
+- [darkreader](https://github.com/darkreader/darkreader)
+  - Dark Reader Chrome and Firefox extension
+- [redoc](https://github.com/Redocly/redoc)
+  - 📘 OpenAPI/Swagger-generated API Reference Documentation
 - [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator)
   - GraphQL code generator with flexible support for custom plugins and templates
+- [theia](https://github.com/eclipse-theia/theia)
+  - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+- [tinacms](https://github.com/tinacms/tinacms)
+  - Tina is a site editing toolkit for modern React-based sites (Gatsby and Next.js)
+- [angular](https://github.com/angular/angular)
+  - One framework. Mobile & desktop.
+- [ant-design](https://github.com/ant-design/ant-design)
+  - 🌈 A UI Design Language and React UI library
+- [stencil](https://github.com/ionic-team/stencil)
+  - A Web Component compiler for building fast, reusable UI components and Progressive Web Apps 💎 Built by the Ionic Framework team
+- [davinci](https://github.com/edp963/davinci)
+  - Davinci is a DVsaaS (Data Visualization as a Service) Platform
+- [capacitor](https://github.com/ionic-team/capacitor)
+  - Build cross-platform Native Progressive Web Apps for iOS, Android, and the web ⚡️
+- [platform](https://github.com/ngrx/platform)
+  - Reactive libraries for Angular
+- [google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client)
+  - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
