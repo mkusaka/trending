@@ -1,51 +1,51 @@
 # c++
-- [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite)
-  - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
-- [vfuzz](https://github.com/guidovranken/vfuzz)
-  - vfuzz
-- [librealsense](https://github.com/IntelRealSense/librealsense)
-  - Intel® RealSense™ SDK
-- [security](https://github.com/windows-internals-guide/security)
-  - 
-- [folly](https://github.com/facebook/folly)
-  - An open-source C++ library developed and used at Facebook.
-- [srs](https://github.com/ossrs/srs)
-  - SRS is a live streaming cluster, high efficiency, stable and simple.
-- [Vulkan](https://github.com/SaschaWillems/Vulkan)
-  - Examples and demos for the new Vulkan API
-- [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2)
-  - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
-- [Catch2](https://github.com/catchorg/Catch2)
-  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [omniscidb](https://github.com/omnisci/omniscidb)
-  - OmniSciDB (formerly MapD Core)
+- [pytorch](https://github.com/pytorch/pytorch)
+  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [mediapipe](https://github.com/google/mediapipe)
   - MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
-- [incubator-brpc](https://github.com/apache/incubator-brpc)
-  - Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services, called "baidu-rpc" inside Baidu.
-- [dxvk](https://github.com/doitsujin/dxvk)
-  - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
-- [draco](https://github.com/google/draco)
-  - Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.
-- [imgui](https://github.com/ocornut/imgui)
-  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
-- [tesseract](https://github.com/tesseract-ocr/tesseract)
-  - Tesseract Open Source OCR Engine (main repository)
-- [DeepSpeech](https://github.com/mozilla/DeepSpeech)
-  - A TensorFlow implementation of Baidu's DeepSpeech architecture
-- [bullet3](https://github.com/bulletphysics/bullet3)
-  - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
-- [ngraph](https://github.com/NervanaSystems/ngraph)
-  - nGraph - open source C++ library, compiler and runtime for Deep Learning
-- [tinyobjloader](https://github.com/tinyobjloader/tinyobjloader)
-  - Tiny but powerful single file wavefront obj loader
-- [TensorRT](https://github.com/NVIDIA/TensorRT)
-  - TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.
-- [rpcs3](https://github.com/RPCS3/rpcs3)
-  - PS3 emulator/debugger
-- [benchmark](https://github.com/google/benchmark)
-  - A microbenchmark support library
+- [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite)
+  - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
+- [glow](https://github.com/pytorch/glow)
+  - Compiler for Neural Network hardware accelerators
+- [Catch2](https://github.com/catchorg/Catch2)
+  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
 - [googletest](https://github.com/google/googletest)
   - Googletest - Google Testing and Mocking Framework
+- [tensorflow](https://github.com/tensorflow/tensorflow)
+  - An Open Source Machine Learning Framework for Everyone
+- [tcmalloc](https://github.com/google/tcmalloc)
+  - 
+- [faiss](https://github.com/facebookresearch/faiss)
+  - A library for efficient similarity search and clustering of dense vectors.
+- [imgui](https://github.com/ocornut/imgui)
+  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+- [milvus](https://github.com/milvus-io/milvus)
+  - Milvus is an open source vector similarity search engine.
+- [concurrentqueue](https://github.com/cameron314/concurrentqueue)
+  - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
+- [cpp-httplib](https://github.com/yhirose/cpp-httplib)
+  - A C++ header-only HTTP/HTTPS server and client library
+- [benchmark](https://github.com/google/benchmark)
+  - A microbenchmark support library
+- [electron](https://github.com/electron/electron)
+  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [XSpotify](https://github.com/meik97/XSpotify)
+  - A modified Spotify client with DRM bypass.
+- [srs](https://github.com/ossrs/srs)
+  - SRS is a live streaming cluster, high efficiency, stable and simple.
+- [incubator-brpc](https://github.com/apache/incubator-brpc)
+  - Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services, called "baidu-rpc" inside Baidu.
+- [Paddle](https://github.com/PaddlePaddle/Paddle)
+  - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
+- [MMKV](https://github.com/Tencent/MMKV)
+  - An efficient, small mobile key-value storage framework developed by WeChat. Works on iOS, Android, macOS and Windows.
+- [cxxopts](https://github.com/jarro2783/cxxopts)
+  - Lightweight C++ command line option parser
+- [Tasmota](https://github.com/arendst/Tasmota)
+  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
+- [protobuf](https://github.com/protocolbuffers/protobuf)
+  - Protocol Buffers - Google's data interchange format
+- [thrift](https://github.com/apache/thrift)
+  - Apache Thrift
+- [simdjson](https://github.com/lemire/simdjson)
+  - Parsing gigabytes of JSON per second

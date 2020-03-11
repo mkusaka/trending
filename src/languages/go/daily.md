@@ -1,51 +1,51 @@
 # go
-- [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go)
-  - 百度网盘客户端 - Go语言编写
-- [mongo-go-driver](https://github.com/mongodb/mongo-go-driver)
-  - The Go driver for MongoDB
-- [gin](https://github.com/gin-gonic/gin)
-  - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [viper](https://github.com/spf13/viper)
-  - Go configuration with fangs
+- [7days-golang](https://github.com/geektutu/7days-golang)
+  - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc) 7天用Go动手写/从零实现系列
+- [eksctl](https://github.com/weaveworks/eksctl)
+  - The official CLI for Amazon EKS
 - [argo](https://github.com/argoproj/argo)
   - Argo Workflows: Get stuff done with Kubernetes.
-- [golang-web-dev](https://github.com/GoesToEleven/golang-web-dev)
-  - 
-- [Burrow](https://github.com/linkedin/Burrow)
-  - Kafka Consumer Lag Checking
-- [client_golang](https://github.com/prometheus/client_golang)
-  - Prometheus instrumentation library for Go applications
-- [testify](https://github.com/stretchr/testify)
-  - A toolkit with common assertions and mocks that plays nicely with the standard library
-- [ultimate-go](https://github.com/hoanhan101/ultimate-go)
-  - Ultimate Go study guide, with heavily documented code and programs analysis, all in 1 place
-- [pipeline](https://github.com/tektoncd/pipeline)
-  - A K8s-native Pipeline resource.
-- [scope](https://github.com/weaveworks/scope)
-  - Monitoring, visualisation & management for Docker & Kubernetes
-- [istio](https://github.com/istio/istio)
-  - Connect, secure, control, and observe services.
-- [distribution](https://github.com/docker/distribution)
-  - The Docker toolset to pack, ship, store, and deliver content
-- [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm)
-  - Terraform provider for Azure Resource Manager
-- [libpod](https://github.com/containers/libpod)
-  - libpod is a library used to create container pods. Home of Podman.
-- [groupcache](https://github.com/golang/groupcache)
-  - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
-- [chaos-mesh](https://github.com/pingcap/chaos-mesh)
-  - A Chaos Engineering Platform for Kubernetes
-- [go-github](https://github.com/google/go-github)
-  - Go library for accessing the GitHub API
-- [mattermost-server](https://github.com/mattermost/mattermost-server)
-  - Open source Slack-alternative in Golang and React - Mattermost
-- [ginkgo](https://github.com/onsi/ginkgo)
-  - BDD Testing Framework for Go
-- [goconvey](https://github.com/smartystreets/goconvey)
-  - Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
-- [installer](https://github.com/openshift/installer)
-  - Install an OpenShift cluster
-- [sample-controller](https://github.com/kubernetes/sample-controller)
-  - Repository for sample controller. Complements sample-apiserver
+- [redis](https://github.com/go-redis/redis)
+  - Type-safe Redis client for Golang
+- [mux](https://github.com/gorilla/mux)
+  - A powerful HTTP router and URL matcher for building Go web servers with 🦍
+- [sqlx](https://github.com/jmoiron/sqlx)
+  - general purpose extensions to golang's database/sql
+- [websocket](https://github.com/gorilla/websocket)
+  - A fast, well-tested and widely used WebSocket implementation for Go.
+- [aws-sdk-go](https://github.com/aws/aws-sdk-go)
+  - AWS SDK for the Go programming language.
 - [EasyDarwin](https://github.com/EasyDarwin/EasyDarwin)
   - open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基…
+- [go](https://github.com/golang/go)
+  - The Go programming language
+- [kaniko](https://github.com/GoogleContainerTools/kaniko)
+  - Build Container Images In Kubernetes
+- [viper](https://github.com/spf13/viper)
+  - Go configuration with fangs
+- [cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+  - Home for the Cluster Management API work, a subproject of sig-cluster-lifecycle
+- [goconvey](https://github.com/smartystreets/goconvey)
+  - Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
+- [scope](https://github.com/weaveworks/scope)
+  - Monitoring, visualisation & management for Docker & Kubernetes
+- [webrtc](https://github.com/pion/webrtc)
+  - Pure Go implementation of the WebRTC API
+- [aws-alb-ingress-controller](https://github.com/kubernetes-sigs/aws-alb-ingress-controller)
+  - AWS ALB Ingress Controller for Kubernetes
+- [rook](https://github.com/rook/rook)
+  - Storage Orchestration for Kubernetes
+- [client_golang](https://github.com/prometheus/client_golang)
+  - Prometheus instrumentation library for Go applications
+- [mongo-go-driver](https://github.com/mongodb/mongo-go-driver)
+  - The Go driver for MongoDB
+- [helm](https://github.com/helm/helm)
+  - The Kubernetes Package Manager
+- [cloud-on-k8s](https://github.com/elastic/cloud-on-k8s)
+  - Elastic Cloud on Kubernetes
+- [traefik](https://github.com/containous/traefik)
+  - The Cloud Native Edge Router
+- [cert-manager](https://github.com/jetstack/cert-manager)
+  - Automatically provision and manage TLS certificates in Kubernetes
+- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
+  - Terraform AWS provider

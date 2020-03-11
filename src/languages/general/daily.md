@@ -1,51 +1,50 @@
 # general
+- [pytorch](https://github.com/pytorch/pytorch) : C++
+  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [COVID-19](https://github.com/pcm-dpc/COVID-19) : 
   - COVID-19 Italia - Monitoraggio situazione
-- [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) : C++
-  - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
-- [cloud2020](https://github.com/leelovejava/cloud2020) : Java
-  - SpringCloud
-- [JavaFamily](https://github.com/AobingJava/JavaFamily) : 
-  - 【互联网一线大厂面试+学习指南】进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看，前端同学我保证你也看得懂，看不懂你加我微信骂我渣男就好了。
-- [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go) : Go
-  - 百度网盘客户端 - Go语言编写
-- [JavaGuide](https://github.com/Snailclimb/JavaGuide) : Java
-  - 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-- [ultimate-coding-resources](https://github.com/PizzaPokerGuy/ultimate-coding-resources) : 
-  - A collection of the best resources for programming, web development, computer science and more.
-- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
-  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [CVPR2020-Code](https://github.com/amusi/CVPR2020-Code) : 
-  - CVPR 2020 论文开源项目合集
-- [myDrive](https://github.com/subnub/myDrive) : JavaScript
-  - Node.js and mongoDB Google Drive Clone
-- [learn-regex](https://github.com/ziishaned/learn-regex) : 
-  - Learn regex the easy way
-- [TheFatRat](https://github.com/Screetsec/TheFatRat) : C
-  - Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV softw…
-- [vfuzz](https://github.com/guidovranken/vfuzz) : C++
-  - vfuzz
-- [dangerzone](https://github.com/firstlookmedia/dangerzone) : Python
-  - Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF
+- [advanced-java](https://github.com/doocs/advanced-java) : Java
+  - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
 - [zoxide](https://github.com/ajeetdsouza/zoxide) : Rust
   - A fast cd command that learns your habits
-- [wahh_extras](https://github.com/six2dez/wahh_extras) : Java
-  - The Web Application Hacker's Handbook - Extra Content
-- [webml](https://github.com/KeenS/webml) : Rust
-  - A Standard ML Compiler for the Web
-- [CVE-2020-8597](https://github.com/marcinguy/CVE-2020-8597) : Python
-  - CVE-2020-8597
-- [dispatch](https://github.com/Netflix/dispatch) : Python
-  - All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
-- [incubator-shardingsphere](https://github.com/apache/incubator-shardingsphere) : Java
-  - Distributed database middleware
-- [aspnetcore](https://github.com/dotnet/aspnetcore) : C#
-  - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
-- [hospitalrun-frontend](https://github.com/HospitalRun/hospitalrun-frontend) : TypeScript
-  - Frontend for HospitalRun
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
-  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
-- [manim](https://github.com/3b1b/manim) : Python
-  - Animation engine for explanatory math videos
+- [7days-golang](https://github.com/geektutu/7days-golang) : Go
+  - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc) 7天用Go动手写/从零实现系列
+- [java-design-patterns](https://github.com/iluwatar/java-design-patterns) : Java
+  - Design patterns implemented in Java
+- [CVPR2020-Code](https://github.com/amusi/CVPR2020-Code) : 
+  - CVPR 2020 论文开源项目合集
+- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
+  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
+- [quantum](https://github.com/tensorflow/quantum) : Python
+  - Hybrid Quantum-Classical Machine Learning in TensorFlow
+- [Crescendo](https://github.com/SuprHackerSteve/Crescendo) : Swift
+  - Crescendo is a swift based, real time event viewer for macOS. It utilizes Apple's Endpoint Security Framework.
+- [ultimate-coding-resources](https://github.com/PizzaPokerGuy/ultimate-coding-resources) : 
+  - A collection of the best resources for programming, web development, computer science and more.
+- [dash-to-dock](https://github.com/micheleg/dash-to-dock) : JavaScript
+  - A dock for the Gnome Shell. This extension moves the dash out of the overview transforming it in a dock for an easier launching of applications and a faster switching between windows and desktops.
+- [CVPR2020-Paper-Code-Interpretation](https://github.com/extreme-assistant/CVPR2020-Paper-Code-Interpretation) : 
+  - cvpr2020/cvpr2019／cvpr2018/cvpr2017 papers，极市团队整理
+- [avscript](https://github.com/taviso/avscript) : C
+  - Avast JavaScript Interactive Shell
+- [svelte](https://github.com/sveltejs/svelte) : JavaScript
+  - Cybernetically enhanced web apps
+- [riskquant](https://github.com/Netflix-Skunkworks/riskquant) : Python
+- [JavaGuide](https://github.com/Snailclimb/JavaGuide) : Java
+  - 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 - [universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) : JavaScript
   - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
+- [myDrive](https://github.com/subnub/myDrive) : JavaScript
+  - Node.js and mongoDB Google Drive Clone
+- [fe-interview](https://github.com/haizlin/fe-interview) : JavaScript
+  - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）
+- [manim](https://github.com/3b1b/manim) : Python
+  - Animation engine for explanatory math videos
+- [unilm](https://github.com/microsoft/unilm) : Python
+  - UniLM - Unified Language Model Pre-training
+- [google-research](https://github.com/google-research/google-research) : Jupyter Notebook
+  - Google Research
+- [mediapipe](https://github.com/google/mediapipe) : C++
+  - MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
+- [JavaFamily](https://github.com/AobingJava/JavaFamily) : 
+  - 【互联网一线大厂面试+学习指南】进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看，前端同学我保证你也看得懂，看不懂你加我微信骂我渣男就好了。
