@@ -1,50 +1,50 @@
 # general
-- [pytorch](https://github.com/pytorch/pytorch) : C++
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [bottlerocket](https://github.com/bottlerocket-os/bottlerocket) : Rust
+  - An operating system designed for hosting containers
+- [photo-stream](https://github.com/maxvoltar/photo-stream) : HTML
+  - Self-hosted, super simple photo stream
 - [COVID-19](https://github.com/pcm-dpc/COVID-19) : 
   - COVID-19 Italia - Monitoraggio situazione
-- [advanced-java](https://github.com/doocs/advanced-java) : Java
-  - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
-- [zoxide](https://github.com/ajeetdsouza/zoxide) : Rust
-  - A fast cd command that learns your habits
-- [7days-golang](https://github.com/geektutu/7days-golang) : Go
-  - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc) 7天用Go动手写/从零实现系列
-- [java-design-patterns](https://github.com/iluwatar/java-design-patterns) : Java
-  - Design patterns implemented in Java
-- [CVPR2020-Code](https://github.com/amusi/CVPR2020-Code) : 
-  - CVPR 2020 论文开源项目合集
-- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
-  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [quantum](https://github.com/tensorflow/quantum) : Python
-  - Hybrid Quantum-Classical Machine Learning in TensorFlow
-- [Crescendo](https://github.com/SuprHackerSteve/Crescendo) : Swift
-  - Crescendo is a swift based, real time event viewer for macOS. It utilizes Apple's Endpoint Security Framework.
-- [ultimate-coding-resources](https://github.com/PizzaPokerGuy/ultimate-coding-resources) : 
-  - A collection of the best resources for programming, web development, computer science and more.
-- [dash-to-dock](https://github.com/micheleg/dash-to-dock) : JavaScript
-  - A dock for the Gnome Shell. This extension moves the dash out of the overview transforming it in a dock for an easier launching of applications and a faster switching between windows and desktops.
-- [CVPR2020-Paper-Code-Interpretation](https://github.com/extreme-assistant/CVPR2020-Paper-Code-Interpretation) : 
-  - cvpr2020/cvpr2019／cvpr2018/cvpr2017 papers，极市团队整理
-- [avscript](https://github.com/taviso/avscript) : C
-  - Avast JavaScript Interactive Shell
-- [svelte](https://github.com/sveltejs/svelte) : JavaScript
-  - Cybernetically enhanced web apps
-- [riskquant](https://github.com/Netflix-Skunkworks/riskquant) : Python
-- [JavaGuide](https://github.com/Snailclimb/JavaGuide) : Java
-  - 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-- [universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) : JavaScript
-  - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
-- [myDrive](https://github.com/subnub/myDrive) : JavaScript
-  - Node.js and mongoDB Google Drive Clone
-- [fe-interview](https://github.com/haizlin/fe-interview) : JavaScript
-  - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）
-- [manim](https://github.com/3b1b/manim) : Python
-  - Animation engine for explanatory math videos
-- [unilm](https://github.com/microsoft/unilm) : Python
-  - UniLM - Unified Language Model Pre-training
+- [redwood](https://github.com/redwoodjs/redwood) : JavaScript
+  - Bringing full-stack to the JAMstack.
 - [google-research](https://github.com/google-research/google-research) : Jupyter Notebook
   - Google Research
-- [mediapipe](https://github.com/google/mediapipe) : C++
-  - MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
-- [JavaFamily](https://github.com/AobingJava/JavaFamily) : 
-  - 【互联网一线大厂面试+学习指南】进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看，前端同学我保证你也看得懂，看不懂你加我微信骂我渣男就好了。
+- [MiniVisorPkg](https://github.com/tandasat/MiniVisorPkg) : C
+  - The research UEFI hypervisor that supports booting an operating system.
+- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
+  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
+- [nndl.github.io](https://github.com/nndl/nndl.github.io) : HTML
+  - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
+- [Meshtastic-esp32](https://github.com/meshtastic/Meshtastic-esp32) : C++
+  - Device code for the Meshtastic ski/hike/fly/Signal-chat GPS radio
+- [electra](https://github.com/google-research/electra) : Python
+  - ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators
+- [advanced-java](https://github.com/doocs/advanced-java) : Java
+  - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
+- [pytorch](https://github.com/pytorch/pytorch) : C++
+  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [stylegan2-distillation](https://github.com/EvgenyKashin/stylegan2-distillation) : 
+- [Middleware-Vulnerability-detection](https://github.com/mai-lang-chai/Middleware-Vulnerability-detection) : Python
+  - CVE、CMS、中间件漏洞检测利用合集 Since 2019-9-15
+- [CoronaTracker](https://github.com/MhdHejazi/CoronaTracker) : Swift
+  - Coronavirus tracker app for iOS & macOS with map & charts
+- [avscript](https://github.com/taviso/avscript) : C
+  - Avast JavaScript Interactive Shell
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
+  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [bayonet](https://github.com/CTF-MissFeng/bayonet) : Python
+  - bayonet是一款src资产管理系统，从子域名、端口服务、漏洞、爬虫等一体化的资产管理系统
+- [ultimate-coding-resources](https://github.com/PizzaPokerGuy/ultimate-coding-resources) : 
+  - A collection of the best resources for programming, web development, computer science and more.
+- [DVQA](https://github.com/Tencent/DVQA) : Python
+  - Deep learning-based Video Quality Assessment
+- [covid19italia](https://github.com/emergenzeHack/covid19italia) : JavaScript
+  - Condividiamo informazioni e segnalazioni sul COVID19
+- [java-design-patterns](https://github.com/iluwatar/java-design-patterns) : Java
+  - Design patterns implemented in Java
+- [fast_double_parser](https://github.com/lemire/fast_double_parser) : C++
+  - Fast function to parse strings into double (binary64) floating-point values
+- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) : 
+  - This repository was created and developed by Ammar Amer @cry__pto Only. Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
+- [livewire](https://github.com/livewire/livewire) : PHP
+  - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.

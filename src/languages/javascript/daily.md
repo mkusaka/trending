@@ -1,51 +1,51 @@
 # javascript
-- [dash-to-dock](https://github.com/micheleg/dash-to-dock)
-  - A dock for the Gnome Shell. This extension moves the dash out of the overview transforming it in a dock for an easier launching of applications and a faster switching between windows and desktops.
-- [svelte](https://github.com/sveltejs/svelte)
-  - Cybernetically enhanced web apps
+- [redwood](https://github.com/redwoodjs/redwood)
+  - Bringing full-stack to the JAMstack.
+- [covid19italia](https://github.com/emergenzeHack/covid19italia)
+  - Condividiamo informazioni e segnalazioni sul COVID19
 - [universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool)
   - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
-- [myDrive](https://github.com/subnub/myDrive)
-  - Node.js and mongoDB Google Drive Clone
-- [fe-interview](https://github.com/haizlin/fe-interview)
-  - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）
+- [vuex](https://github.com/vuejs/vuex)
+  - 🗃️ Centralized State Management for Vue.js.
+- [layuimini](https://github.com/zhongshaofa/layuimini)
+  - 后台admin前端模板，基于 layui 编写的最简洁、易用的后台框架模板。只需提供一个接口就直接初始化整个框架，无需复杂操作。
+- [cube.js](https://github.com/cube-js/cube.js)
+  - 📊 Cube.js - Open Source Analytics Framework
+- [o2oa](https://github.com/o2oa/o2oa)
+  - O2OA - Java企业信息化系统
 - [react](https://github.com/facebook/react)
   - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [firefox-voice](https://github.com/mozilla/firefox-voice)
-  - Firefox Voice is an experiment in a voice-controlled web user agent
-- [joplin](https://github.com/laurent22/joplin)
-  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
-- [reactjs.org](https://github.com/reactjs/reactjs.org)
-  - The React documentation website
-- [next.js](https://github.com/zeit/next.js)
-  - The React Framework
-- [serverless](https://github.com/serverless/serverless)
-  - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
-- [vue](https://github.com/vuejs/vue)
-  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [WeApp_Demos](https://github.com/Data-Camp/WeApp_Demos)
+  - 持续更新中的微信小程序和小游戏的源码案例库。目前涵盖了120多个微信小程序或小游戏。
+- [fe-interview](https://github.com/haizlin/fe-interview)
+  - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）
+- [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper)
+  - TikTok Scraper & Downloader. Scrape information from User, Trending and HashTag pages and download video posts
+- [server](https://github.com/localtunnel/server)
+  - server for localtunnel.me
+- [sulla](https://github.com/smashah/sulla)
+  - 💬 🤖 Javascript whatsapp library for chatbots with advanced features. Be sure to 🌟 this repository for updates!
+- [openlayers](https://github.com/openlayers/openlayers)
+  - OpenLayers
+- [x-spreadsheet](https://github.com/myliang/x-spreadsheet)
+  - A web-based JavaScript（canvas） spreadsheet
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
+  - Short JavaScript code snippets for all your development needs
+- [ife](https://github.com/baidu-ife/ife)
+  - Baidu Institute of Front－End Technology
+- [DOMPurify](https://github.com/cure53/DOMPurify)
+  - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
 - [react-table](https://github.com/tannerlinsley/react-table)
   - ⚛️ Hooks for building fast and extendable tables and datagrids for React
-- [axios](https://github.com/axios/axios)
-  - Promise based HTTP client for the browser and node.js
-- [drawio](https://github.com/jgraph/drawio)
-  - Source to www.draw.io
-- [react-native-calendars](https://github.com/wix/react-native-calendars)
-  - React Native Calendar Components 🗓️ 📆
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
-- [create-react-app](https://github.com/facebook/create-react-app)
-  - Set up a modern web app by running one command.
-- [downshift](https://github.com/downshift-js/downshift)
-  - 🏎 Primitive to build simple, flexible, WAI-ARIA compliant enhanced input React components
-- [hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
-  - Based on a true story
-- [Rocket.Chat.ReactNative](https://github.com/RocketChat/Rocket.Chat.ReactNative)
-  - Rocket.Chat mobile clients
-- [particles.js](https://github.com/VincentGarreau/particles.js)
-  - A lightweight JavaScript library for creating particles
-- [api-platform](https://github.com/api-platform/api-platform)
-  - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
-- [semana-omnistack-10](https://github.com/Rocketseat/semana-omnistack-10)
-  - Código da aplicação desenvolvida durante a Semana OmniStack 10.0 🚀
-- [mapscii](https://github.com/rastapasta/mapscii)
-  - 🗺 MapSCII is a Braille & ASCII world map renderer for your console - enter => telnet mapscii.me <= on Mac and Linux, connect with PuTTY on Windows
+- [Historical-ranking-data-visualization-based-on-d3.js](https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js)
+  - 这是一个数据可视化项目，能够将历史数据排名转化为动态柱状图图表
+- [jsPDF](https://github.com/MrRio/jsPDF)
+  - Client-side JavaScript PDF generation for everyone.
+- [keystone](https://github.com/keystonejs/keystone)
+  - A scalable platform and CMS to build Node.js applications
+- [sweetalert2](https://github.com/sweetalert2/sweetalert2)
+  - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
+- [nCovMemory](https://github.com/2019ncovmemory/nCovMemory)
+  - 2020新冠肺炎记忆：报道、非虚构与个人叙述（持续更新） Memory of 2020 nCoV: Media Coverage, Non-fiction Writings, and Individual Narratives (Continuously updating)
+- [insomnia](https://github.com/Kong/insomnia)
+  - Cross-platform HTTP and GraphQL Client

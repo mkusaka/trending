@@ -1,51 +1,51 @@
 # go
 - [7days-golang](https://github.com/geektutu/7days-golang)
   - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc) 7天用Go动手写/从零实现系列
-- [eksctl](https://github.com/weaveworks/eksctl)
-  - The official CLI for Amazon EKS
-- [argo](https://github.com/argoproj/argo)
-  - Argo Workflows: Get stuff done with Kubernetes.
-- [redis](https://github.com/go-redis/redis)
-  - Type-safe Redis client for Golang
-- [mux](https://github.com/gorilla/mux)
-  - A powerful HTTP router and URL matcher for building Go web servers with 🦍
-- [sqlx](https://github.com/jmoiron/sqlx)
-  - general purpose extensions to golang's database/sql
-- [websocket](https://github.com/gorilla/websocket)
-  - A fast, well-tested and widely used WebSocket implementation for Go.
-- [aws-sdk-go](https://github.com/aws/aws-sdk-go)
-  - AWS SDK for the Go programming language.
-- [EasyDarwin](https://github.com/EasyDarwin/EasyDarwin)
-  - open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基…
-- [go](https://github.com/golang/go)
-  - The Go programming language
-- [kaniko](https://github.com/GoogleContainerTools/kaniko)
-  - Build Container Images In Kubernetes
-- [viper](https://github.com/spf13/viper)
-  - Go configuration with fangs
-- [cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-  - Home for the Cluster Management API work, a subproject of sig-cluster-lifecycle
-- [goconvey](https://github.com/smartystreets/goconvey)
-  - Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
-- [scope](https://github.com/weaveworks/scope)
-  - Monitoring, visualisation & management for Docker & Kubernetes
-- [webrtc](https://github.com/pion/webrtc)
-  - Pure Go implementation of the WebRTC API
-- [aws-alb-ingress-controller](https://github.com/kubernetes-sigs/aws-alb-ingress-controller)
-  - AWS ALB Ingress Controller for Kubernetes
-- [rook](https://github.com/rook/rook)
-  - Storage Orchestration for Kubernetes
-- [client_golang](https://github.com/prometheus/client_golang)
-  - Prometheus instrumentation library for Go applications
-- [mongo-go-driver](https://github.com/mongodb/mongo-go-driver)
-  - The Go driver for MongoDB
-- [helm](https://github.com/helm/helm)
-  - The Kubernetes Package Manager
-- [cloud-on-k8s](https://github.com/elastic/cloud-on-k8s)
-  - Elastic Cloud on Kubernetes
-- [traefik](https://github.com/containous/traefik)
-  - The Cloud Native Edge Router
-- [cert-manager](https://github.com/jetstack/cert-manager)
-  - Automatically provision and manage TLS certificates in Kubernetes
+- [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
+  - A golang ebook intro how to build a web with golang
+- [kubernetes](https://github.com/kubernetes/kubernetes)
+  - Production-Grade Container Scheduling and Management
 - [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
   - Terraform AWS provider
+- [minio](https://github.com/minio/minio)
+  - MinIO is a high performance object storage server compatible with Amazon S3 APIs
+- [crawlab](https://github.com/crawlab-team/crawlab)
+  - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
+- [community](https://github.com/kubernetes/community)
+  - Kubernetes community content
+- [cameradar](https://github.com/Ullaakut/cameradar)
+  - Cameradar hacks its way into RTSP videosurveillance cameras
+- [learning_tools](https://github.com/hwholiday/learning_tools)
+  - Go 学习、Go 进阶、Go 实用工具类、Go-kit 微服务实践
+- [beats](https://github.com/elastic/beats)
+  - 🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
+- [frp](https://github.com/fatedier/frp)
+  - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+- [cobra](https://github.com/spf13/cobra)
+  - A Commander for modern Go CLI interactions
+- [mqant](https://github.com/liangdas/mqant)
+  - mqant是一款基于Golang语言的简洁,高效,高性能的分布式游戏服务器框架
+- [lantern](https://github.com/getlantern/lantern)
+  - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 lantern proxy vpn censorship-circumvention censorship gfw accelerator
+- [gopacket](https://github.com/google/gopacket)
+  - Provides packet processing capabilities for Go
+- [kratos](https://github.com/bilibili/kratos)
+  - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
+- [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics)
+  - Add-on agent to generate and expose cluster-level metrics.
+- [soar](https://github.com/XiaoMi/soar)
+  - SQL Optimizer And Rewriter
+- [charts](https://github.com/helm/charts)
+  - Curated applications for Kubernetes
+- [singo](https://github.com/Gourouting/singo)
+  - Gin+Gorm开发Golang API快速开发脚手架
+- [traefik](https://github.com/containous/traefik)
+  - The Cloud Native Edge Router
+- [os](https://github.com/rancher/os)
+  - Tiny Linux distro that runs the entire OS as Docker containers
+- [tg-keyword-reply-bot](https://github.com/zu1k/tg-keyword-reply-bot)
+  - telegram 关键词回复机器人，群主助手
+- [k9s](https://github.com/derailed/k9s)
+  - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [reporter](https://github.com/IzakMarais/reporter)
+  - Service that generates a PDF report from a Grafana dashboard

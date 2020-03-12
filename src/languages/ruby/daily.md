@@ -1,51 +1,51 @@
 # ruby
+- [devdocs](https://github.com/freeCodeCamp/devdocs)
+  - API Documentation Browser
+- [dev.to](https://github.com/thepracticaldev/dev.to)
+  - Where programmers share ideas and help each other grow
+- [rails](https://github.com/rails/rails)
+  - Ruby on Rails
+- [oxidized](https://github.com/ytti/oxidized)
+  - Oxidized is a network device configuration backup tool. It's a RANCID replacement!
 - [fastlane](https://github.com/fastlane/fastlane)
   - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [sinatra](https://github.com/sinatra/sinatra)
-  - Classy web-development dressed in a DSL (official / canonical repo)
-- [linguist](https://github.com/github/linguist)
-  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-- [devise](https://github.com/heartcombo/devise)
-  - Flexible authentication solution for Rails with Warden.
-- [redmine](https://github.com/redmine/redmine)
-  - Mirror of redmine code source - Official SVN repository is at https://svn.redmine.org/redmine - contact: @jbbarth or jeanbaptiste.barth (at) gmail (dot) com
-- [carrierwave](https://github.com/carrierwaveuploader/carrierwave)
-  - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
-- [friendly_id](https://github.com/norman/friendly_id)
-  - FriendlyId is the “Swiss Army bulldozer” of slugging and permalink plugins for ActiveRecord. It allows you to create pretty URL’s and work with human-friendly strings as if they were numeric ids for ActiveRecord models.
-- [factory_bot](https://github.com/thoughtbot/factory_bot)
-  - A library for setting up Ruby objects as test data.
-- [active_merchant](https://github.com/activemerchant/active_merchant)
-  - Active Merchant is a simple payment abstraction library extracted from Shopify. The aim of the project is to feel natural to Ruby users and to abstract as many parts as possible away from the user to offer a consistent interface across all supported gateways.
-- [greenlight](https://github.com/bigbluebutton/greenlight)
-  - A really simple end-user interface for your BigBlueButton server.
-- [activeadmin](https://github.com/activeadmin/activeadmin)
-  - The administration framework for Ruby on Rails applications.
-- [rswag](https://github.com/rswag/rswag)
-  - Seamlessly adds a Swagger to Rails-based API's
-- [ISO-3166-Countries-with-Regional-Codes](https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes)
-  - ISO 3166-1 country lists merged with their UN Geoscheme regional codes in ready-to-use JSON, XML, CSV data sets
-- [faker](https://github.com/faker-ruby/faker)
-  - A library for generating fake data such as names, addresses, and phone numbers.
-- [fluentd](https://github.com/fluent/fluentd)
-  - Fluentd: Unified Logging Layer (project under CNCF)
-- [axlsx](https://github.com/randym/axlsx)
-  - xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your…
-- [simplecov](https://github.com/colszowka/simplecov)
-  - Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites
-- [capistrano](https://github.com/capistrano/capistrano)
-  - Remote multi-server automation tool
-- [ransack](https://github.com/activerecord-hackery/ransack)
-  - Object-based searching.
-- [aws-sdk-ruby](https://github.com/aws/aws-sdk-ruby)
-  - The official AWS SDK for Ruby.
-- [inspec](https://github.com/inspec/inspec)
-  - InSpec: Auditing and Testing Framework
-- [octokit.rb](https://github.com/octokit/octokit.rb)
-  - Ruby toolkit for the GitHub API
-- [asciidoctor](https://github.com/asciidoctor/asciidoctor)
-  - 💎 A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
-- [fast_jsonapi](https://github.com/Netflix/fast_jsonapi)
-  - A lightning fast JSON:API serializer for Ruby Objects.
-- [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch)
-  - Ansible playbook for Elasticsearch
+- [homebrew-tap](https://github.com/trussworks/homebrew-tap)
+  - Repo for Truss's homebrew tap
+- [ruby-oo-self-person-lab-nyc-web-030920](https://github.com/learn-co-students/ruby-oo-self-person-lab-nyc-web-030920)
+  - 
+- [ruby-super-inheritance-lab-onl01-seng-pt-021020](https://github.com/learn-co-students/ruby-super-inheritance-lab-onl01-seng-pt-021020)
+  - 
+- [ruby-oo-self-count-sentences-lab-seattle-web-030920](https://github.com/learn-co-students/ruby-oo-self-count-sentences-lab-seattle-web-030920)
+  - 
+- [ruby-oo-class-variables-and-class-methods-lab-seattle-web-030920](https://github.com/learn-co-students/ruby-oo-class-variables-and-class-methods-lab-seattle-web-030920)
+  - 
+- [modules-reading-onl01-seng-pt-021020](https://github.com/learn-co-students/modules-reading-onl01-seng-pt-021020)
+  - 
+- [rack-responses-lab-onl01-seng-pt-120819](https://github.com/learn-co-students/rack-responses-lab-onl01-seng-pt-120819)
+  - 
+- [ruby-oo-class-variables-and-class-methods-lab-nyc-web-030920](https://github.com/learn-co-students/ruby-oo-class-variables-and-class-methods-lab-nyc-web-030920)
+  - 
+- [ratos](https://github.com/refnum/ratos)
+  - Platform-independent Mach-O/DWARF symbol lookup.
+- [artist-song-modules-onl01-seng-pt-021020](https://github.com/learn-co-students/artist-song-modules-onl01-seng-pt-021020)
+  - 
+- [my-first-hash-onl01-seng-pt-030220](https://github.com/learn-co-students/my-first-hash-onl01-seng-pt-030220)
+  - 
+- [login_required_lab-online-web-ft-120919](https://github.com/learn-co-students/login_required_lab-online-web-ft-120919)
+  - 
+- [key-for-min-value-onl01-seng-pt-030220](https://github.com/learn-co-students/key-for-min-value-onl01-seng-pt-030220)
+  - 
+- [sinatra-hello-world-basics-online-web-pt-120919](https://github.com/learn-co-students/sinatra-hello-world-basics-online-web-pt-120919)
+  - 
+- [school-domain-onl01-seng-ft-030220](https://github.com/learn-co-students/school-domain-onl01-seng-ft-030220)
+  - 
+- [oo-basics-with-class-constants-onl01-seng-ft-030220](https://github.com/learn-co-students/oo-basics-with-class-constants-onl01-seng-ft-030220)
+  - 
+- [my_find_code_along-onl01-seng-pt-030220](https://github.com/learn-co-students/my_find_code_along-onl01-seng-pt-030220)
+  - 
+- [cartoon-collections-onl01-seng-pt-030220](https://github.com/learn-co-students/cartoon-collections-onl01-seng-pt-030220)
+  - 
+- [building-nested-hashes-onl01-seng-pt-030220](https://github.com/learn-co-students/building-nested-hashes-onl01-seng-pt-030220)
+  - 
+- [ruby-exercises](https://github.com/turingschool/ruby-exercises)
+  - A collection of exercises to practice various aspects of Ruby
