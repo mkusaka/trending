@@ -1,50 +1,49 @@
 # general
+- [mediapipe](https://github.com/google/mediapipe) : C++
+  - MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
 - [bottlerocket](https://github.com/bottlerocket-os/bottlerocket) : Rust
   - An operating system designed for hosting containers
-- [photo-stream](https://github.com/maxvoltar/photo-stream) : HTML
-  - Self-hosted, super simple photo stream
-- [COVID-19](https://github.com/pcm-dpc/COVID-19) : 
-  - COVID-19 Italia - Monitoraggio situazione
-- [redwood](https://github.com/redwoodjs/redwood) : JavaScript
-  - Bringing full-stack to the JAMstack.
-- [google-research](https://github.com/google-research/google-research) : Jupyter Notebook
-  - Google Research
-- [MiniVisorPkg](https://github.com/tandasat/MiniVisorPkg) : C
-  - The research UEFI hypervisor that supports booting an operating system.
+- [stayinghomeclub](https://github.com/phildini/stayinghomeclub) : Ruby
+  - A list of all the companies WFH or events changed because of covid-19
+- [compose-samples](https://github.com/android/compose-samples) : Kotlin
 - [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
   - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [nndl.github.io](https://github.com/nndl/nndl.github.io) : HTML
-  - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
-- [Meshtastic-esp32](https://github.com/meshtastic/Meshtastic-esp32) : C++
-  - Device code for the Meshtastic ski/hike/fly/Signal-chat GPS radio
-- [electra](https://github.com/google-research/electra) : Python
-  - ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators
+- [CoronaTracker](https://github.com/MhdHejazi/CoronaTracker) : Swift
+  - Coronavirus tracker app for iOS & macOS with maps & charts
+- [photo-stream](https://github.com/maxvoltar/photo-stream) : HTML
+  - Self-hosted, super simple photo stream
+- [flutter](https://github.com/flutter/flutter) : Dart
+  - Flutter makes it easy and fast to build beautiful mobile apps.
+- [SMBGhost](https://github.com/ollypwn/SMBGhost) : Python
+  - Scanner for CVE-2020-0796 - SMBv3 RCE
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [wenyan](https://github.com/wenyan-lang/wenyan) : TypeScript
+  - 文言文編程語言 A programming language for the ancient Chinese.
+- [navi](https://github.com/denisidoro/navi) : Rust
+  - An interactive cheatsheet tool for the command-line
+- [technology-talk](https://github.com/aalansehaiyang/technology-talk) : 
+  - 汇总java生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识
+- [shell](https://github.com/pop-os/shell) : TypeScript
+  - Pop!_OS Shell - WIP
+- [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) : 
+  - Use your macOS terminal shell to do awesome things.
+- [awesome](https://github.com/sindresorhus/awesome) : 
+  - 😎 Awesome lists about all kinds of interesting topics
+- [loadlibrary](https://github.com/taviso/loadlibrary) : C
+  - Porting Windows Dynamic Link Libraries to Linux
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
+  - 💯 Materials to help you rock your next coding interview
+- [stylegan2-distillation](https://github.com/EvgenyKashin/stylegan2-distillation) : 
+- [COVID-19](https://github.com/pcm-dpc/COVID-19) : 
+  - COVID-19 Italia - Monitoraggio situazione
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
+  - A long list of (advanced) JavaScript questions, and their explanations ✨
+- [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) : Python
+  - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
+- [FBGEMM](https://github.com/pytorch/FBGEMM) : C++
+  - FB (Facebook) + GEMM (General Matrix-Matrix Multiplication) - https://code.fb.com/ml-applications/fbgemm/
 - [advanced-java](https://github.com/doocs/advanced-java) : Java
   - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
-- [pytorch](https://github.com/pytorch/pytorch) : C++
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [stylegan2-distillation](https://github.com/EvgenyKashin/stylegan2-distillation) : 
-- [Middleware-Vulnerability-detection](https://github.com/mai-lang-chai/Middleware-Vulnerability-detection) : Python
-  - CVE、CMS、中间件漏洞检测利用合集 Since 2019-9-15
-- [CoronaTracker](https://github.com/MhdHejazi/CoronaTracker) : Swift
-  - Coronavirus tracker app for iOS & macOS with map & charts
-- [avscript](https://github.com/taviso/avscript) : C
-  - Avast JavaScript Interactive Shell
-- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
-  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-- [bayonet](https://github.com/CTF-MissFeng/bayonet) : Python
-  - bayonet是一款src资产管理系统，从子域名、端口服务、漏洞、爬虫等一体化的资产管理系统
-- [ultimate-coding-resources](https://github.com/PizzaPokerGuy/ultimate-coding-resources) : 
-  - A collection of the best resources for programming, web development, computer science and more.
-- [DVQA](https://github.com/Tencent/DVQA) : Python
-  - Deep learning-based Video Quality Assessment
-- [covid19italia](https://github.com/emergenzeHack/covid19italia) : JavaScript
-  - Condividiamo informazioni e segnalazioni sul COVID19
-- [java-design-patterns](https://github.com/iluwatar/java-design-patterns) : Java
-  - Design patterns implemented in Java
-- [fast_double_parser](https://github.com/lemire/fast_double_parser) : C++
-  - Fast function to parse strings into double (binary64) floating-point values
-- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) : 
-  - This repository was created and developed by Ammar Amer @cry__pto Only. Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
-- [livewire](https://github.com/livewire/livewire) : PHP
-  - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.

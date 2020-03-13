@@ -1,51 +1,51 @@
 # go
-- [7days-golang](https://github.com/geektutu/7days-golang)
-  - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc) 7天用Go动手写/从零实现系列
+- [nomad](https://github.com/hashicorp/nomad)
+  - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+- [fabric](https://github.com/hyperledger/fabric)
+  - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
+- [harbor](https://github.com/goharbor/harbor)
+  - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [istio](https://github.com/istio/istio)
+  - Connect, secure, control, and observe services.
+- [go-app](https://github.com/maxence-charriere/go-app)
+  - A package to build progressive web apps with Go programming language and WebAssembly.
+- [aws-sdk-go](https://github.com/aws/aws-sdk-go)
+  - AWS SDK for the Go programming language.
+- [rancher](https://github.com/rancher/rancher)
+  - Complete container management platform
+- [chubaofs](https://github.com/chubaofs/chubaofs)
+  - A distributed file system and object store for cloud native applications towards disaggregated compute and storage.
+- [sourcegraph](https://github.com/sourcegraph/sourcegraph)
+  - Universal code search and navigation tool (self-hosted)
+- [dgraph](https://github.com/dgraph-io/dgraph)
+  - Fast, Distributed Graph DB
+- [go-cache](https://github.com/patrickmn/go-cache)
+  - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
+- [Cloudreve](https://github.com/cloudreve/Cloudreve)
+  - 🌈支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)
+- [ants](https://github.com/panjf2000/ants)
+  - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。
+- [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm)
+  - Terraform provider for Azure Resource Manager
+- [easyjson](https://github.com/mailru/easyjson)
+  - Fast JSON serializer for golang.
+- [jwt-go](https://github.com/dgrijalva/jwt-go)
+  - Golang implementation of JSON Web Tokens (JWT)
+- [act](https://github.com/nektos/act)
+  - Run your GitHub Actions locally 🚀
+- [origin](https://github.com/openshift/origin)
+  - The self-managing, auto-upgrading, Kubernetes distribution for everyone
+- [packer](https://github.com/hashicorp/packer)
+  - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
   - A golang ebook intro how to build a web with golang
-- [kubernetes](https://github.com/kubernetes/kubernetes)
-  - Production-Grade Container Scheduling and Management
-- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
-  - Terraform AWS provider
-- [minio](https://github.com/minio/minio)
-  - MinIO is a high performance object storage server compatible with Amazon S3 APIs
-- [crawlab](https://github.com/crawlab-team/crawlab)
-  - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
-- [community](https://github.com/kubernetes/community)
-  - Kubernetes community content
-- [cameradar](https://github.com/Ullaakut/cameradar)
-  - Cameradar hacks its way into RTSP videosurveillance cameras
-- [learning_tools](https://github.com/hwholiday/learning_tools)
-  - Go 学习、Go 进阶、Go 实用工具类、Go-kit 微服务实践
-- [beats](https://github.com/elastic/beats)
-  - 🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
-- [frp](https://github.com/fatedier/frp)
-  - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [cobra](https://github.com/spf13/cobra)
-  - A Commander for modern Go CLI interactions
-- [mqant](https://github.com/liangdas/mqant)
-  - mqant是一款基于Golang语言的简洁,高效,高性能的分布式游戏服务器框架
-- [lantern](https://github.com/getlantern/lantern)
-  - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 lantern proxy vpn censorship-circumvention censorship gfw accelerator
-- [gopacket](https://github.com/google/gopacket)
-  - Provides packet processing capabilities for Go
-- [kratos](https://github.com/bilibili/kratos)
-  - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
-- [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics)
-  - Add-on agent to generate and expose cluster-level metrics.
-- [soar](https://github.com/XiaoMi/soar)
-  - SQL Optimizer And Rewriter
-- [charts](https://github.com/helm/charts)
-  - Curated applications for Kubernetes
-- [singo](https://github.com/Gourouting/singo)
-  - Gin+Gorm开发Golang API快速开发脚手架
-- [traefik](https://github.com/containous/traefik)
-  - The Cloud Native Edge Router
-- [os](https://github.com/rancher/os)
-  - Tiny Linux distro that runs the entire OS as Docker containers
-- [tg-keyword-reply-bot](https://github.com/zu1k/tg-keyword-reply-bot)
-  - telegram 关键词回复机器人，群主助手
-- [k9s](https://github.com/derailed/k9s)
-  - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [reporter](https://github.com/IzakMarais/reporter)
-  - Service that generates a PDF report from a Grafana dashboard
+- [gorm](https://github.com/jinzhu/gorm)
+  - The fantastic ORM library for Golang, aims to be developer friendly (v2 is under development, PR based on master branch won't be accepted)
+- [dapr](https://github.com/dapr/dapr)
+  - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+- [argo](https://github.com/argoproj/argo)
+  - Argo Workflows: Get stuff done with Kubernetes.
+- [operator-lifecycle-manager](https://github.com/operator-framework/operator-lifecycle-manager)
+  - A management framework for extending Kubernetes with Operators
+- [operator-sdk](https://github.com/operator-framework/operator-sdk)
+  - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.

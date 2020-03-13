@@ -1,51 +1,51 @@
 # ruby
-- [devdocs](https://github.com/freeCodeCamp/devdocs)
-  - API Documentation Browser
+- [stayinghomeclub](https://github.com/phildini/stayinghomeclub)
+  - A list of all the companies WFH or events changed because of covid-19
 - [dev.to](https://github.com/thepracticaldev/dev.to)
   - Where programmers share ideas and help each other grow
-- [rails](https://github.com/rails/rails)
-  - Ruby on Rails
-- [oxidized](https://github.com/ytti/oxidized)
-  - Oxidized is a network device configuration backup tool. It's a RANCID replacement!
+- [faker](https://github.com/faker-ruby/faker)
+  - A library for generating fake data such as names, addresses, and phone numbers.
 - [fastlane](https://github.com/fastlane/fastlane)
   - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [homebrew-tap](https://github.com/trussworks/homebrew-tap)
-  - Repo for Truss's homebrew tap
-- [ruby-oo-self-person-lab-nyc-web-030920](https://github.com/learn-co-students/ruby-oo-self-person-lab-nyc-web-030920)
-  - 
-- [ruby-super-inheritance-lab-onl01-seng-pt-021020](https://github.com/learn-co-students/ruby-super-inheritance-lab-onl01-seng-pt-021020)
-  - 
-- [ruby-oo-self-count-sentences-lab-seattle-web-030920](https://github.com/learn-co-students/ruby-oo-self-count-sentences-lab-seattle-web-030920)
-  - 
-- [ruby-oo-class-variables-and-class-methods-lab-seattle-web-030920](https://github.com/learn-co-students/ruby-oo-class-variables-and-class-methods-lab-seattle-web-030920)
-  - 
-- [modules-reading-onl01-seng-pt-021020](https://github.com/learn-co-students/modules-reading-onl01-seng-pt-021020)
-  - 
-- [rack-responses-lab-onl01-seng-pt-120819](https://github.com/learn-co-students/rack-responses-lab-onl01-seng-pt-120819)
-  - 
-- [ruby-oo-class-variables-and-class-methods-lab-nyc-web-030920](https://github.com/learn-co-students/ruby-oo-class-variables-and-class-methods-lab-nyc-web-030920)
-  - 
-- [ratos](https://github.com/refnum/ratos)
-  - Platform-independent Mach-O/DWARF symbol lookup.
-- [artist-song-modules-onl01-seng-pt-021020](https://github.com/learn-co-students/artist-song-modules-onl01-seng-pt-021020)
-  - 
-- [my-first-hash-onl01-seng-pt-030220](https://github.com/learn-co-students/my-first-hash-onl01-seng-pt-030220)
-  - 
-- [login_required_lab-online-web-ft-120919](https://github.com/learn-co-students/login_required_lab-online-web-ft-120919)
-  - 
-- [key-for-min-value-onl01-seng-pt-030220](https://github.com/learn-co-students/key-for-min-value-onl01-seng-pt-030220)
-  - 
-- [sinatra-hello-world-basics-online-web-pt-120919](https://github.com/learn-co-students/sinatra-hello-world-basics-online-web-pt-120919)
-  - 
-- [school-domain-onl01-seng-ft-030220](https://github.com/learn-co-students/school-domain-onl01-seng-ft-030220)
-  - 
-- [oo-basics-with-class-constants-onl01-seng-ft-030220](https://github.com/learn-co-students/oo-basics-with-class-constants-onl01-seng-ft-030220)
-  - 
-- [my_find_code_along-onl01-seng-pt-030220](https://github.com/learn-co-students/my_find_code_along-onl01-seng-pt-030220)
-  - 
-- [cartoon-collections-onl01-seng-pt-030220](https://github.com/learn-co-students/cartoon-collections-onl01-seng-pt-030220)
-  - 
-- [building-nested-hashes-onl01-seng-pt-030220](https://github.com/learn-co-students/building-nested-hashes-onl01-seng-pt-030220)
-  - 
-- [ruby-exercises](https://github.com/turingschool/ruby-exercises)
-  - A collection of exercises to practice various aspects of Ruby
+- [mastodon](https://github.com/tootsuite/mastodon)
+  - Your self-hosted, globally interconnected microblogging community
+- [puma](https://github.com/puma/puma)
+  - A Ruby/Rack web server built for concurrency
+- [activeadmin](https://github.com/activeadmin/activeadmin)
+  - The administration framework for Ruby on Rails applications.
+- [sidekiq](https://github.com/mperham/sidekiq)
+  - Simple, efficient background processing for Ruby
+- [rails-i18n](https://github.com/svenfuchs/rails-i18n)
+  - Repository for collecting Locale data for Ruby on Rails I18n as well as other interesting, Rails related I18n stuff
+- [zammad](https://github.com/zammad/zammad)
+  - Zammad is a web based open source helpdesk/customer support system
+- [annotate_models](https://github.com/ctran/annotate_models)
+  - Annotate Rails classes with schema and routes info
+- [discourse](https://github.com/discourse/discourse)
+  - A platform for community discussion. Free, open, simple.
+- [grape](https://github.com/ruby-grape/grape)
+  - An opinionated framework for creating REST-like APIs in Ruby.
+- [greenlight](https://github.com/bigbluebutton/greenlight)
+  - A really simple end-user interface for your BigBlueButton server.
+- [pundit](https://github.com/varvet/pundit)
+  - Minimal authorization through OO design and pure Ruby classes
+- [solidus](https://github.com/solidusio/solidus)
+  - 🛒Solidus, Rails eCommerce System
+- [logstash](https://github.com/elastic/logstash)
+  - Logstash - transport and process your logs, events, or other data
+- [css-only-chat](https://github.com/kkuchta/css-only-chat)
+  - A truly monstrous async web chat using no JS whatsoever on the frontend
+- [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails)
+  - Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
+- [paperclip](https://github.com/thoughtbot/paperclip)
+  - Easy file attachment management for ActiveRecord
+- [carrierwave](https://github.com/carrierwaveuploader/carrierwave)
+  - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
+- [Ceedling](https://github.com/ThrowTheSwitch/Ceedling)
+  - Ruby/Rake-based build and test system for C projects
+- [vcr](https://github.com/vcr/vcr)
+  - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
+- [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch)
+  - Ansible playbook for Elasticsearch
+- [factory_bot](https://github.com/thoughtbot/factory_bot)
+  - A library for setting up Ruby objects as test data.
