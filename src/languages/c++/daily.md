@@ -1,51 +1,51 @@
 # c++
-- [Meshtastic-esp32](https://github.com/meshtastic/Meshtastic-esp32)
-  - Device code for the Meshtastic ski/hike/fly/Signal-chat GPS radio
-- [pytorch](https://github.com/pytorch/pytorch)
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [fast_double_parser](https://github.com/lemire/fast_double_parser)
-  - Fast function to parse strings into double (binary64) floating-point values
-- [VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion)
-  - An optimization-based multi-sensor state estimator
 - [mediapipe](https://github.com/google/mediapipe)
   - MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
-- [trojan](https://github.com/trojan-gfw/trojan)
-  - An unidentifiable mechanism that helps you bypass GFW.
-- [Marlin](https://github.com/MarlinFirmware/Marlin)
-  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
-- [multipass](https://github.com/canonical/multipass)
-  - Multipass orchestrates virtual Ubuntu instances
-- [node-sass](https://github.com/sass/node-sass)
-  - 🌈 Node.js bindings to libsass
-- [C3](https://github.com/FSecureLABS/C3)
-  - Custom Command and Control (C3). A framework for rapid prototyping of custom C2 channels, while still providing integration with existing offensive toolkits.
+- [FBGEMM](https://github.com/pytorch/FBGEMM)
+  - FB (Facebook) + GEMM (General Matrix-Matrix Multiplication) - https://code.fb.com/ml-applications/fbgemm/
+- [pytorch](https://github.com/pytorch/pytorch)
+  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [tensorflow](https://github.com/tensorflow/tensorflow)
+  - An Open Source Machine Learning Framework for Everyone
+- [rapidjson](https://github.com/Tencent/rapidjson)
+  - A fast JSON parser/generator for C++ with both SAX/DOM style API
+- [Meshtastic-esp32](https://github.com/meshtastic/Meshtastic-esp32)
+  - Device code for the Meshtastic ski/hike/fly/Signal-chat GPS radio
+- [NymphCast](https://github.com/MayaPosch/NymphCast)
+  - Audio and video casting system with support for custom applications.
+- [benchmark](https://github.com/google/benchmark)
+  - A microbenchmark support library
+- [re2](https://github.com/google/re2)
+  - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+- [QGIS](https://github.com/qgis/QGIS)
+  - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
+- [pcl](https://github.com/PointCloudLibrary/pcl)
+  - Point Cloud Library (PCL)
+- [ceph](https://github.com/ceph/ceph)
+  - Ceph is a distributed object, block, and file storage platform
+- [devilutionX](https://github.com/diasurgical/devilutionX)
+  - Diablo build for modern operating systems
+- [VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion)
+  - An optimization-based multi-sensor state estimator
+- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+  - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+- [ZeroTierOne](https://github.com/zerotier/ZeroTierOne)
+  - A Smart Ethernet Switch for Earth
+- [PrusaSlicer](https://github.com/prusa3d/PrusaSlicer)
+  - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
+- [googletest](https://github.com/google/googletest)
+  - Googletest - Google Testing and Mocking Framework
+- [milvus](https://github.com/milvus-io/milvus)
+  - Milvus is an open source vector similarity search engine.
 - [glow](https://github.com/pytorch/glow)
   - Compiler for Neural Network hardware accelerators
-- [Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-  - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
-- [GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
-  - Starting code for the GildedRose Refactoring Kata in many programming languages.
-- [envoy](https://github.com/envoyproxy/envoy)
-  - Cloud-native high-performance edge/middle/service proxy
-- [HIP](https://github.com/ROCm-Developer-Tools/HIP)
-  - HIP: C++ Heterogeneous-Compute Interface for Portability
-- [tcmalloc](https://github.com/google/tcmalloc)
-  - 
-- [LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions)
-  - (Weekly Update) Python / C++11 Solutions of All 1377 LeetCode Problems
-- [pcWechat](https://github.com/codeByDog/pcWechat)
-  - windows PC微信逆向
-- [tinyrenderer](https://github.com/ssloy/tinyrenderer)
-  - A brief computer graphics / rendering course
-- [z3](https://github.com/Z3Prover/z3)
-  - The Z3 Theorem Prover
-- [cpp-taskflow](https://github.com/cpp-taskflow/cpp-taskflow)
-  - A Modern C++ Parallel Task Programming Library
-- [openalpr](https://github.com/openalpr/openalpr)
-  - Automatic License Plate Recognition library
-- [arctern](https://github.com/zilliztech/arctern)
-  - 
+- [thrust](https://github.com/thrust/thrust)
+  - Thrust is a C++ parallel programming library which resembles the C++ Standard Library.
 - [ThreadPool](https://github.com/progschj/ThreadPool)
   - A simple C++11 Thread Pool implementation
-- [srsLTE](https://github.com/srsLTE/srsLTE)
-  - Open source SDR LTE software suite from Software Radio Systems (SRS)
+- [yoga](https://github.com/facebook/yoga)
+  - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
+- [node-sass](https://github.com/sass/node-sass)
+  - 🌈 Node.js bindings to libsass
+- [onnxruntime](https://github.com/microsoft/onnxruntime)
+  - ONNX Runtime: cross-platform, high performance scoring engine for ML models
