@@ -1,51 +1,51 @@
 # rust
-- [bottlerocket](https://github.com/bottlerocket-os/bottlerocket)
-  - An operating system designed for hosting containers
 - [navi](https://github.com/denisidoro/navi)
   - An interactive cheatsheet tool for the command-line
-- [xi-editor](https://github.com/xi-editor/xi-editor)
-  - A modern editor with a backend written in Rust.
-- [wasmer](https://github.com/wasmerio/wasmer)
-  - 🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten
-- [tock](https://github.com/tock/tock)
-  - A secure embedded operating system for microcontrollers
-- [awesome-static-analysis](https://github.com/mre/awesome-static-analysis)
-  - Static analysis tools for all programming languages, build tools, config files and more.
-- [substrate](https://github.com/paritytech/substrate)
-  - Substrate: The platform for blockchain innovators
-- [orbtk](https://github.com/redox-os/orbtk)
-  - The Rust UI-Toolkit.
-- [spotify-tui](https://github.com/Rigellute/spotify-tui)
-  - Spotify for the terminal written in Rust 🚀
-- [bat](https://github.com/sharkdp/bat)
-  - A cat(1) clone with wings.
-- [WASI](https://github.com/WebAssembly/WASI)
-  - WebAssembly System Interface
-- [wasmtime](https://github.com/bytecodealliance/wasmtime)
-  - Standalone JIT-style runtime for WebAssembly, using Cranelift
-- [exa](https://github.com/ogham/exa)
-  - A modern version of ‘ls’.
-- [hyperfine](https://github.com/sharkdp/hyperfine)
-  - A command-line benchmarking tool
 - [ytop](https://github.com/cjbassi/ytop)
   - A TUI system monitor written in Rust
-- [broot](https://github.com/Canop/broot)
-  - A new way to see and navigate directory trees : https://dystroy.org/broot
-- [OpenSK](https://github.com/google/OpenSK)
-  - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
 - [clap](https://github.com/clap-rs/clap)
   - A full featured, fast Command Line Argument Parser for Rust
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [OpenSK](https://github.com/google/OpenSK)
+  - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
+- [tock](https://github.com/tock/tock)
+  - A secure embedded operating system for microcontrollers
 - [diesel](https://github.com/diesel-rs/diesel)
   - A safe, extensible ORM and Query Builder for Rust
-- [rusty_v8](https://github.com/denoland/rusty_v8)
-  - V8 javascript bindings for Rust
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix web is a small, pragmatic, and extremely fast rust web framework.
+- [alacritty](https://github.com/alacritty/alacritty)
+  - A cross-platform, GPU-accelerated terminal emulator
+- [vector](https://github.com/timberio/vector)
+  - A lightweight and ultra-fast tool for building observability pipelines
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [git-absorb](https://github.com/tummychow/git-absorb)
+  - git commit --fixup, but automatic
+- [orbtk](https://github.com/redox-os/orbtk)
+  - The Rust UI-Toolkit.
+- [xi-editor](https://github.com/xi-editor/xi-editor)
+  - A modern editor with a backend written in Rust.
+- [zola](https://github.com/getzola/zola)
+  - A fast static site generator in a single binary with everything built-in.
+- [broot](https://github.com/Canop/broot)
+  - A new way to see and navigate directory trees : https://dystroy.org/broot
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - ripgrep recursively searches directories for a regex pattern
+- [WASI](https://github.com/WebAssembly/WASI)
+  - WebAssembly System Interface
+- [waitmap](https://github.com/withoutboats/waitmap)
+  - 
+- [blockstack-core](https://github.com/blockstack/blockstack-core)
+  - The Stacks 2.0 blockchain implementation
+- [spotify-tui](https://github.com/Rigellute/spotify-tui)
+  - Spotify for the terminal written in Rust 🚀
+- [sled](https://github.com/spacejam/sled)
+  - the champagne of beta embedded databases
+- [jormungandr](https://github.com/input-output-hk/jormungandr)
+  - aspiring blockchain node
+- [wasmer](https://github.com/wasmerio/wasmer)
+  - 🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten
 - [nushell](https://github.com/nushell/nushell)
   - A modern shell written in Rust
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
