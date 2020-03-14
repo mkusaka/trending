@@ -1,51 +1,51 @@
 # ruby
 - [stayinghomeclub](https://github.com/phildini/stayinghomeclub)
   - A list of all the companies WFH or events changed because of covid-19
-- [dev.to](https://github.com/thepracticaldev/dev.to)
-  - Where programmers share ideas and help each other grow
-- [faker](https://github.com/faker-ruby/faker)
-  - A library for generating fake data such as names, addresses, and phone numbers.
-- [fastlane](https://github.com/fastlane/fastlane)
-  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [mastodon](https://github.com/tootsuite/mastodon)
-  - Your self-hosted, globally interconnected microblogging community
-- [puma](https://github.com/puma/puma)
-  - A Ruby/Rack web server built for concurrency
-- [activeadmin](https://github.com/activeadmin/activeadmin)
-  - The administration framework for Ruby on Rails applications.
-- [sidekiq](https://github.com/mperham/sidekiq)
-  - Simple, efficient background processing for Ruby
-- [rails-i18n](https://github.com/svenfuchs/rails-i18n)
-  - Repository for collecting Locale data for Ruby on Rails I18n as well as other interesting, Rails related I18n stuff
-- [zammad](https://github.com/zammad/zammad)
-  - Zammad is a web based open source helpdesk/customer support system
-- [annotate_models](https://github.com/ctran/annotate_models)
-  - Annotate Rails classes with schema and routes info
-- [discourse](https://github.com/discourse/discourse)
-  - A platform for community discussion. Free, open, simple.
-- [grape](https://github.com/ruby-grape/grape)
-  - An opinionated framework for creating REST-like APIs in Ruby.
+- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
+  - The Cocoa Dependency Manager.
+- [devise](https://github.com/heartcombo/devise)
+  - Flexible authentication solution for Rails with Warden.
+- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
+  - Ruby implementation of GraphQL
+- [fluentd](https://github.com/fluent/fluentd)
+  - Fluentd: Unified Logging Layer (project under CNCF)
 - [greenlight](https://github.com/bigbluebutton/greenlight)
   - A really simple end-user interface for your BigBlueButton server.
-- [pundit](https://github.com/varvet/pundit)
-  - Minimal authorization through OO design and pure Ruby classes
+- [explore](https://github.com/github/explore)
+  - Community-curated topic and collection pages on GitHub
+- [rails](https://github.com/rails/rails)
+  - Ruby on Rails
+- [heroku-buildpack-ruby](https://github.com/heroku/heroku-buildpack-ruby)
+  - Heroku's Ruby Buildpack
+- [fast_jsonapi](https://github.com/Netflix/fast_jsonapi)
+  - A lightning fast JSON:API serializer for Ruby Objects.
+- [faker](https://github.com/faker-ruby/faker)
+  - A library for generating fake data such as names, addresses, and phone numbers.
 - [solidus](https://github.com/solidusio/solidus)
   - 🛒Solidus, Rails eCommerce System
-- [logstash](https://github.com/elastic/logstash)
-  - Logstash - transport and process your logs, events, or other data
-- [css-only-chat](https://github.com/kkuchta/css-only-chat)
-  - A truly monstrous async web chat using no JS whatsoever on the frontend
+- [rails_admin](https://github.com/sferik/rails_admin)
+  - RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data
+- [tablesmith](https://github.com/livingsocial/tablesmith)
+  - Yet another console table tool, focused on minimal config.
+- [remote-working](https://github.com/greatghoul/remote-working)
+  - 收集整理远程工作相关的资料
+- [mastodon](https://github.com/tootsuite/mastodon)
+  - Your self-hosted, globally interconnected microblogging community
+- [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts)
+  - 🚨 Collection of Prometheus alerting rules
 - [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails)
   - Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
-- [paperclip](https://github.com/thoughtbot/paperclip)
-  - Easy file attachment management for ActiveRecord
-- [carrierwave](https://github.com/carrierwaveuploader/carrierwave)
-  - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
-- [Ceedling](https://github.com/ThrowTheSwitch/Ceedling)
-  - Ruby/Rake-based build and test system for C projects
-- [vcr](https://github.com/vcr/vcr)
-  - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
-- [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch)
-  - Ansible playbook for Elasticsearch
-- [factory_bot](https://github.com/thoughtbot/factory_bot)
-  - A library for setting up Ruby objects as test data.
+- [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler)
+  - Profiler for your development and production Ruby rack apps.
+- [chatwoot](https://github.com/chatwoot/chatwoot)
+  - Simple and elegant live chat software 🔥💬
+- [decidim](https://github.com/decidim/decidim)
+  - The participatory democracy framework. A generator and multiple gems made with Ruby on Rails
+- [rspec-rails](https://github.com/rspec/rspec-rails)
+  - RSpec for Rails-3+
+- [shrine](https://github.com/shrinerb/shrine)
+  - File Attachment toolkit for Ruby applications
+- [canvas-lms](https://github.com/instructure/canvas-lms)
+  - The open LMS by Instructure, Inc.
+- [paranoia](https://github.com/rubysherpas/paranoia)
+  - acts_as_paranoid for Rails 3, 4 and 5

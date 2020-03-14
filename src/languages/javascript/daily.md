@@ -5,47 +5,47 @@
   - 💯 Materials to help you rock your next coding interview
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
   - 🛁 Clean Code concepts adapted for JavaScript
+- [realworld](https://github.com/gothinkster/realworld)
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [korona.ws](https://github.com/konradkalemba/korona.ws)
+  - Map of confirmed coronavirus cases in Poland
+- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
+  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [graphql-engine](https://github.com/hasura/graphql-engine)
+  - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+- [nx](https://github.com/nrwl/nx)
+  - Extensible Dev Tools for Monorepos
 - [redwood](https://github.com/redwoodjs/redwood)
   - Bringing full-stack to the JAMstack.
-- [next.js](https://github.com/zeit/next.js)
-  - The React Framework
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
-- [fraidycat](https://github.com/kickscondor/fraidycat)
-  - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.
-- [fullcalendar](https://github.com/fullcalendar/fullcalendar)
-  - Full-sized drag & drop event calendar
-- [x-spreadsheet](https://github.com/myliang/x-spreadsheet)
-  - A web-based JavaScript（canvas） spreadsheet
-- [docusaurus](https://github.com/facebook/docusaurus)
-  - Easy to maintain open source documentation websites.
-- [covid19italia](https://github.com/emergenzeHack/covid19italia)
-  - Condividiamo informazioni e segnalazioni sul COVID19
-- [react-calendar](https://github.com/wojtekmaj/react-calendar)
-  - Ultimate calendar for your React app.
-- [bootstrap](https://github.com/twbs/bootstrap)
-  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [vue](https://github.com/vuejs/vue)
   - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [yapi](https://github.com/YMFE/yapi)
-  - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
-- [joi](https://github.com/hapijs/joi)
-  - The most powerful data validation library for JS
-- [mermaid](https://github.com/mermaid-js/mermaid)
-  - Generation of diagram and flowchart from text in a similar manner as markdown
-- [cube.js](https://github.com/cube-js/cube.js)
-  - 📊 Cube.js - Open Source Analytics Framework
-- [vxe-table](https://github.com/xuliangzhan/vxe-table)
-  - 🐬 vxe-table vue 表格解决方案
-- [swiper](https://github.com/nolimits4web/swiper)
-  - Most modern mobile touch slider with hardware accelerated transitions
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [react-chartjs-2](https://github.com/jerairrest/react-chartjs-2)
-  - React wrapper for Chart.js
-- [react-redux](https://github.com/reduxjs/react-redux)
-  - Official React bindings for Redux
-- [Script](https://github.com/NobyDa/Script)
-  - This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.
-- [dash-to-dock](https://github.com/micheleg/dash-to-dock)
-  - A dock for the Gnome Shell. This extension moves the dash out of the overview transforming it in a dock for an easier launching of applications and a faster switching between windows and desktops.
+- [discord.js](https://github.com/discordjs/discord.js)
+  - A powerful JavaScript library for interacting with the Discord API
+- [docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet)
+  - Jitsi Meet on Docker
+- [SystemManagement](https://github.com/KINGGUOKUN/SystemManagement)
+  - 基于Vue-Element-Admin的基础开发框架
+- [handsontable](https://github.com/handsontable/handsontable)
+  - JavaScript/HTML5 Data Grid Component with Spreadsheet Look & Feel. Available for React, Vue and Angular.
+- [nuxt.js](https://github.com/nuxt/nuxt.js)
+  - The Vue.js Framework
+- [engine](https://github.com/cocos-creator/engine)
+  - Cocos Creator is a complete package of game development tools and workflow, including a game engine, resource management, scene editing, game preview, debug and publish one project to multiple platforms.
+- [blockchain-explorer](https://github.com/hyperledger/blockchain-explorer)
+  - 
+- [axios](https://github.com/axios/axios)
+  - Promise based HTTP client for the browser and node.js
+- [odoo](https://github.com/odoo/odoo)
+  - Odoo. Open Source Apps To Grow Your Business.
+- [beautiful-react-hooks](https://github.com/beautifulinteractions/beautiful-react-hooks)
+  - 🔥A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
+- [typescript-tutorial](https://github.com/xcatliu/typescript-tutorial)
+  - TypeScript 入门教程
+- [theme-ui](https://github.com/system-ui/theme-ui)
+  - Build consistent, themeable React apps based on constraint-based design principles
+- [video.js](https://github.com/videojs/video.js)
+  - Video.js - open source HTML5 & Flash video player
+- [AdminLTE](https://github.com/ColorlibHQ/AdminLTE)
+  - AdminLTE - Free admin dashboard template based on Bootstrap 4 & 3
+- [incubator-superset](https://github.com/apache/incubator-superset)
+  - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application

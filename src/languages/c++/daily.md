@@ -3,49 +3,49 @@
   - MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
 - [FBGEMM](https://github.com/pytorch/FBGEMM)
   - FB (Facebook) + GEMM (General Matrix-Matrix Multiplication) - https://code.fb.com/ml-applications/fbgemm/
-- [pytorch](https://github.com/pytorch/pytorch)
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [rapidjson](https://github.com/Tencent/rapidjson)
-  - A fast JSON parser/generator for C++ with both SAX/DOM style API
-- [Meshtastic-esp32](https://github.com/meshtastic/Meshtastic-esp32)
-  - Device code for the Meshtastic ski/hike/fly/Signal-chat GPS radio
-- [NymphCast](https://github.com/MayaPosch/NymphCast)
-  - Audio and video casting system with support for custom applications.
-- [benchmark](https://github.com/google/benchmark)
-  - A microbenchmark support library
-- [re2](https://github.com/google/re2)
-  - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
-- [QGIS](https://github.com/qgis/QGIS)
-  - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
-- [pcl](https://github.com/PointCloudLibrary/pcl)
-  - Point Cloud Library (PCL)
-- [ceph](https://github.com/ceph/ceph)
-  - Ceph is a distributed object, block, and file storage platform
-- [devilutionX](https://github.com/diasurgical/devilutionX)
-  - Diablo build for modern operating systems
-- [VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion)
-  - An optimization-based multi-sensor state estimator
-- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
-  - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
-- [ZeroTierOne](https://github.com/zerotier/ZeroTierOne)
-  - A Smart Ethernet Switch for Earth
-- [PrusaSlicer](https://github.com/prusa3d/PrusaSlicer)
-  - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
 - [googletest](https://github.com/google/googletest)
   - Googletest - Google Testing and Mocking Framework
-- [milvus](https://github.com/milvus-io/milvus)
-  - Milvus is an open source vector similarity search engine.
-- [glow](https://github.com/pytorch/glow)
-  - Compiler for Neural Network hardware accelerators
-- [thrust](https://github.com/thrust/thrust)
-  - Thrust is a C++ parallel programming library which resembles the C++ Standard Library.
+- [Magisk](https://github.com/topjohnwu/Magisk)
+  - A Magic Mask to Alter Android System Systemless-ly
+- [Tars](https://github.com/TarsCloud/Tars)
+  - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
+- [cpp-httplib](https://github.com/yhirose/cpp-httplib)
+  - A C++ header-only HTTP/HTTPS server and client library
+- [json](https://github.com/nlohmann/json)
+  - JSON for Modern C++
+- [interview](https://github.com/huihut/interview)
+  - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。
+- [llvm-project](https://github.com/llvm/llvm-project)
+  - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
+- [electron](https://github.com/electron/electron)
+  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [ThreadPool](https://github.com/progschj/ThreadPool)
   - A simple C++11 Thread Pool implementation
-- [yoga](https://github.com/facebook/yoga)
-  - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
-- [node-sass](https://github.com/sass/node-sass)
-  - 🌈 Node.js bindings to libsass
+- [ncnn](https://github.com/Tencent/ncnn)
+  - ncnn is a high-performance neural network inference framework optimized for the mobile platform
+- [matplotlib-cpp](https://github.com/lava/matplotlib-cpp)
+  - Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib
 - [onnxruntime](https://github.com/microsoft/onnxruntime)
   - ONNX Runtime: cross-platform, high performance scoring engine for ML models
+- [imgui](https://github.com/ocornut/imgui)
+  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+- [engine](https://github.com/flutter/engine)
+  - The Flutter engine
+- [Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+  - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
+- [Paddle](https://github.com/PaddlePaddle/Paddle)
+  - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
+- [bullet3](https://github.com/bulletphysics/bullet3)
+  - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
+- [srs](https://github.com/ossrs/srs)
+  - SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.
+- [Firmware](https://github.com/PX4/Firmware)
+  - PX4 Autopilot Software
+- [apollo](https://github.com/ApolloAuto/apollo)
+  - An open autonomous driving platform
+- [yoga](https://github.com/facebook/yoga)
+  - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
+- [muduo](https://github.com/chenshuo/muduo)
+  - Event-driven network library for multi-threaded Linux server in C++11
+- [Open3D](https://github.com/intel-isl/Open3D)
+  - Open3D: A Modern Library for 3D Data Processing

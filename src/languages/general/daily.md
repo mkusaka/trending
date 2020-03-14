@@ -1,49 +1,51 @@
 # general
-- [mediapipe](https://github.com/google/mediapipe) : C++
-  - MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
-- [bottlerocket](https://github.com/bottlerocket-os/bottlerocket) : Rust
-  - An operating system designed for hosting containers
-- [stayinghomeclub](https://github.com/phildini/stayinghomeclub) : Ruby
-  - A list of all the companies WFH or events changed because of covid-19
-- [compose-samples](https://github.com/android/compose-samples) : Kotlin
-- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
-  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [CoronaTracker](https://github.com/MhdHejazi/CoronaTracker) : Swift
-  - Coronavirus tracker app for iOS & macOS with maps & charts
-- [photo-stream](https://github.com/maxvoltar/photo-stream) : HTML
-  - Self-hosted, super simple photo stream
-- [flutter](https://github.com/flutter/flutter) : Dart
-  - Flutter makes it easy and fast to build beautiful mobile apps.
-- [SMBGhost](https://github.com/ollypwn/SMBGhost) : Python
-  - Scanner for CVE-2020-0796 - SMBv3 RCE
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [wenyan](https://github.com/wenyan-lang/wenyan) : TypeScript
-  - 文言文編程語言 A programming language for the ancient Chinese.
+- [pentest-tools](https://github.com/gwen001/pentest-tools) : Python
+  - Custom pentesting tools
+- [Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook) : 
+  - 🐜前端面试复习笔记
 - [navi](https://github.com/denisidoro/navi) : Rust
   - An interactive cheatsheet tool for the command-line
-- [technology-talk](https://github.com/aalansehaiyang/technology-talk) : 
-  - 汇总java生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识
 - [shell](https://github.com/pop-os/shell) : TypeScript
   - Pop!_OS Shell - WIP
-- [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) : 
-  - Use your macOS terminal shell to do awesome things.
+- [cve-2020-0796](https://github.com/cve-2020-0796/cve-2020-0796) : Python
+  - CVE-2020-0796 - a wormable SMBv3 vulnerability. How to work.
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [awesome](https://github.com/sindresorhus/awesome) : 
   - 😎 Awesome lists about all kinds of interesting topics
-- [loadlibrary](https://github.com/taviso/loadlibrary) : C
-  - Porting Windows Dynamic Link Libraries to Linux
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
   - 💯 Materials to help you rock your next coding interview
-- [stylegan2-distillation](https://github.com/EvgenyKashin/stylegan2-distillation) : 
-- [COVID-19](https://github.com/pcm-dpc/COVID-19) : 
-  - COVID-19 Italia - Monitoraggio situazione
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
-  - A long list of (advanced) JavaScript questions, and their explanations ✨
+- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
+  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 - [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) : Python
   - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
-- [FBGEMM](https://github.com/pytorch/FBGEMM) : C++
-  - FB (Facebook) + GEMM (General Matrix-Matrix Multiplication) - https://code.fb.com/ml-applications/fbgemm/
-- [advanced-java](https://github.com/doocs/advanced-java) : Java
-  - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
+- [mediapipe](https://github.com/google/mediapipe) : C++
+  - MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
+- [SMBGhost](https://github.com/ollypwn/SMBGhost) : Python
+  - Scanner for CVE-2020-0796 - SMBv3 RCE
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [ncov](https://github.com/nextstrain/ncov) : Python
+  - Nextstrain build for novel coronavirus (nCoV)
+- [COVID-19](https://github.com/midas-network/COVID-19) : 
+  - 2019 novel coronavirus repository
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
+  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
+  - A long list of (advanced) JavaScript questions, and their explanations ✨
+- [technology-talk](https://github.com/aalansehaiyang/technology-talk) : 
+  - 汇总java生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识
+- [CoronaTracker](https://github.com/MhdHejazi/CoronaTracker) : Swift
+  - Coronavirus tracker app for iOS & macOS with maps & charts
+- [realworld](https://github.com/gothinkster/realworld) : JavaScript
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [coronavirus](https://github.com/FoldingAtHome/coronavirus) : Python
+  - Folding@home COVID-19 efforts
+- [public-apis](https://github.com/public-apis/public-apis) : Python
+  - A collective list of free APIs for use in software and web development.
+- [Wall-Street-Bets-Master-Doc](https://github.com/joesocktwo/Wall-Street-Bets-Master-Doc) : 
+  - This repository is intended for research pertaining to the repo market and the international banking system. It is to be used for analysis by the autists of WSB.
+- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) : 
+  - A list of awesome beginners-friendly projects.
+- [korona.ws](https://github.com/konradkalemba/korona.ws) : JavaScript
+  - Map of confirmed coronavirus cases in Poland
