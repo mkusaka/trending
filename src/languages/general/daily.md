@@ -1,51 +1,51 @@
 # general
 - [pentest-tools](https://github.com/gwen001/pentest-tools) : Python
   - Custom pentesting tools
-- [Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook) : 
-  - 🐜前端面试复习笔记
-- [navi](https://github.com/denisidoro/navi) : Rust
-  - An interactive cheatsheet tool for the command-line
-- [shell](https://github.com/pop-os/shell) : TypeScript
-  - Pop!_OS Shell - WIP
-- [cve-2020-0796](https://github.com/cve-2020-0796/cve-2020-0796) : Python
-  - CVE-2020-0796 - a wormable SMBv3 vulnerability. How to work.
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [awesome](https://github.com/sindresorhus/awesome) : 
-  - 😎 Awesome lists about all kinds of interesting topics
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
-  - 💯 Materials to help you rock your next coding interview
 - [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
   - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) : Python
-  - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
-- [mediapipe](https://github.com/google/mediapipe) : C++
-  - MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
-- [SMBGhost](https://github.com/ollypwn/SMBGhost) : Python
-  - Scanner for CVE-2020-0796 - SMBv3 RCE
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [ncov](https://github.com/nextstrain/ncov) : Python
-  - Nextstrain build for novel coronavirus (nCoV)
-- [COVID-19](https://github.com/midas-network/COVID-19) : 
-  - 2019 novel coronavirus repository
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
-  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
-  - A long list of (advanced) JavaScript questions, and their explanations ✨
-- [technology-talk](https://github.com/aalansehaiyang/technology-talk) : 
-  - 汇总java生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识
-- [CoronaTracker](https://github.com/MhdHejazi/CoronaTracker) : Swift
-  - Coronavirus tracker app for iOS & macOS with maps & charts
-- [realworld](https://github.com/gothinkster/realworld) : JavaScript
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [bach.sed](https://github.com/laserbat/bach.sed) : sed
+  - Bach's prelude in C major from WTC book I, written in pure sed
+- [discord.js](https://github.com/discordjs/discord.js) : JavaScript
+  - A powerful JavaScript library for interacting with the Discord API
+- [shell](https://github.com/pop-os/shell) : TypeScript
+  - Pop!_OS Shell - WIP
+- [navi](https://github.com/denisidoro/navi) : Rust
+  - An interactive cheatsheet tool for the command-line
+- [miaosha](https://github.com/qiurunze123/miaosha) : Java
+  - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
+- [lede](https://github.com/coolsnowwolf/lede) : C
+  - Lean's OpenWrt source
 - [coronavirus](https://github.com/FoldingAtHome/coronavirus) : Python
   - Folding@home COVID-19 efforts
-- [public-apis](https://github.com/public-apis/public-apis) : Python
-  - A collective list of free APIs for use in software and web development.
-- [Wall-Street-Bets-Master-Doc](https://github.com/joesocktwo/Wall-Street-Bets-Master-Doc) : 
-  - This repository is intended for research pertaining to the repo market and the international banking system. It is to be used for analysis by the autists of WSB.
-- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) : 
-  - A list of awesome beginners-friendly projects.
-- [korona.ws](https://github.com/konradkalemba/korona.ws) : JavaScript
-  - Map of confirmed coronavirus cases in Poland
+- [real-world-vue](https://github.com/Code-Pop/real-world-vue) : Vue
+  - The application that we build in Vue Mastery's courses starting with Real World Vue
+- [covid-19-api](https://github.com/mathdroid/covid-19-api) : TypeScript
+  - COVID-19 global data as-a-service
+- [dlaicourse](https://github.com/lmoroney/dlaicourse) : Jupyter Notebook
+  - Notebooks for learning deep learning
+- [Keylogger](https://github.com/aydinnyunus/Keylogger) : Python
+  - Get Keyboard,Mouse,ScreenShot,Microphone Inputs from Target Computer and Send to your Mail.
+- [awesome-reversing](https://github.com/tylerha97/awesome-reversing) : 
+  - A curated list of awesome reversing resources
+- [jitsi-meet](https://github.com/jitsi/jitsi-meet) : JavaScript
+  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [COVID-19](https://github.com/midas-network/COVID-19) : 
+  - 2019 novel coronavirus repository
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
+  - 💯 Materials to help you rock your next coding interview
+- [Marlin](https://github.com/MarlinFirmware/Marlin) : C++
+  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
+- [Face-Image-Motion-Model](https://github.com/tg-bomze/Face-Image-Motion-Model) : Jupyter Notebook
+  - Face Image Motion Model (Photo-2-Video) based on "first-order-model" repository.
+- [coronavirus-tracker-api](https://github.com/ExpDev07/coronavirus-tracker-api) : Python
+  - 🦠 A simple and fast (< 200ms) API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak. It's written in python using the 🍼 Flask framework.
+- [rona](https://github.com/wesbos/rona) : JavaScript
+  - React + Next + Hooks API
+- [openwrt](https://github.com/openwrt/openwrt) : C
+  - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org
+- [Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook) : 
+  - 🐜前端面试复习笔记
+- [COVID-19_Korea_Dataset](https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset) : 
+  - COVID-19 Korea Dataset & Comprehensive Medical Dataset & visualizer
+- [awesome-react](https://github.com/enaqx/awesome-react) : 
+  - A collection of awesome things regarding React ecosystem

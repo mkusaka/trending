@@ -1,51 +1,51 @@
 # c++
+- [Marlin](https://github.com/MarlinFirmware/Marlin)
+  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
+- [pickl3](https://github.com/hlldz/pickl3)
+  - Windows active user credential phishing tool
 - [mediapipe](https://github.com/google/mediapipe)
   - MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
-- [FBGEMM](https://github.com/pytorch/FBGEMM)
-  - FB (Facebook) + GEMM (General Matrix-Matrix Multiplication) - https://code.fb.com/ml-applications/fbgemm/
-- [googletest](https://github.com/google/googletest)
-  - Googletest - Google Testing and Mocking Framework
-- [Magisk](https://github.com/topjohnwu/Magisk)
-  - A Magic Mask to Alter Android System Systemless-ly
-- [Tars](https://github.com/TarsCloud/Tars)
-  - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
-- [cpp-httplib](https://github.com/yhirose/cpp-httplib)
-  - A C++ header-only HTTP/HTTPS server and client library
-- [json](https://github.com/nlohmann/json)
-  - JSON for Modern C++
-- [interview](https://github.com/huihut/interview)
-  - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。
+- [swift](https://github.com/apple/swift)
+  - The Swift Programming Language
+- [BIGTREETECH-SKR-V1.3](https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3)
+  - 32bit board with LPC1768, support marlin2.0 and smoothieware, support lcd2004/12864, On-board TMC2130 SPI interface and TMC2208 UART interface no additional wiring is required
+- [Osiris](https://github.com/danielkrupinski/Osiris)
+  - Free open-source training software / cheat for Counter-Strike: Global Offensive, written in modern C++. GUI powered by imgui.
 - [llvm-project](https://github.com/llvm/llvm-project)
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
-- [electron](https://github.com/electron/electron)
-  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [ThreadPool](https://github.com/progschj/ThreadPool)
-  - A simple C++11 Thread Pool implementation
-- [ncnn](https://github.com/Tencent/ncnn)
-  - ncnn is a high-performance neural network inference framework optimized for the mobile platform
-- [matplotlib-cpp](https://github.com/lava/matplotlib-cpp)
-  - Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib
-- [onnxruntime](https://github.com/microsoft/onnxruntime)
-  - ONNX Runtime: cross-platform, high performance scoring engine for ML models
+- [PrusaSlicer](https://github.com/prusa3d/PrusaSlicer)
+  - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
+- [vnpy](https://github.com/vnpy/vnpy)
+  - 基于Python的开源量化交易平台开发框架
 - [imgui](https://github.com/ocornut/imgui)
   - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
-- [engine](https://github.com/flutter/engine)
-  - The Flutter engine
-- [Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-  - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
-- [Paddle](https://github.com/PaddlePaddle/Paddle)
-  - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
-- [bullet3](https://github.com/bulletphysics/bullet3)
-  - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
-- [srs](https://github.com/ossrs/srs)
-  - SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.
-- [Firmware](https://github.com/PX4/Firmware)
-  - PX4 Autopilot Software
-- [apollo](https://github.com/ApolloAuto/apollo)
-  - An open autonomous driving platform
-- [yoga](https://github.com/facebook/yoga)
-  - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
-- [muduo](https://github.com/chenshuo/muduo)
-  - Event-driven network library for multi-threaded Linux server in C++11
-- [Open3D](https://github.com/intel-isl/Open3D)
-  - Open3D: A Modern Library for 3D Data Processing
+- [serenity](https://github.com/SerenityOS/serenity)
+  - The Serenity Operating System 🐞
+- [godot](https://github.com/godotengine/godot)
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [entt](https://github.com/skypjack/entt)
+  - Gaming meets modern C++ - a fast and reliable entity-component system (ECS) and much more
+- [Tars](https://github.com/TarsCloud/Tars)
+  - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
+- [Magisk](https://github.com/topjohnwu/Magisk)
+  - A Magic Mask to Alter Android System Systemless-ly
+- [xbmc](https://github.com/xbmc/xbmc)
+  - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
+- [ArduinoJson](https://github.com/bblanchon/ArduinoJson)
+  - 📟 JSON library for Arduino and embedded C++. Simple and efficient.
+- [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe)
+  - waifu2xのCaffe版
+- [Tasmota](https://github.com/arendst/Tasmota)
+  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
+- [BIGTREETECH-SKR-mini-E3](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3)
+  - BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.
+- [tinyrenderer](https://github.com/ssloy/tinyrenderer)
+  - A brief computer graphics / rendering course
+- [nebula](https://github.com/vesoft-inc/nebula)
+  - A distributed, fast open-source graph database featuring horizontal scalability and high availability
+- [MultiMC5](https://github.com/MultiMC/MultiMC5)
+  - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
+- [EPIJudge](https://github.com/adnanaziz/EPIJudge)
+  - EPI Judge - Preview Release
+- [x64dbg](https://github.com/x64dbg/x64dbg)
+  - An open-source x64/x32 debugger for windows.
