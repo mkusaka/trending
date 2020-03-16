@@ -1,51 +1,51 @@
 # typescript
-- [G2](https://github.com/antvis/G2)
-  - 📊 A highly interactive data-driven visualization grammar for statistical charts.
-- [qiankun](https://github.com/umijs/qiankun)
-  - 📦🚀Blazing fast, simple and completed solution for micro frontends.
-- [ant-design](https://github.com/ant-design/ant-design)
-  - 🌈 A UI Design Language and React UI library
+- [excalidraw](https://github.com/excalidraw/excalidraw)
+  - Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
+- [vetur](https://github.com/vuejs/vetur)
+  - Vue tooling for VS Code.
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro)
   - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
-- [n8n](https://github.com/n8n-io/n8n)
-  - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
-  - 📋 React hooks for forms validation without the hassle.
-- [umi](https://github.com/umijs/umi)
-  - 🌋 Pluggable enterprise-level react application framework.
-- [rome](https://github.com/facebookexperimental/rome)
-  - An experimental JavaScript toolchain
-- [xstate](https://github.com/davidkpiano/xstate)
-  - State machines and statecharts for the modern web.
-- [vuetify](https://github.com/vuetifyjs/vuetify)
-  - 🐉 Material Component Framework for Vue
-- [kibana](https://github.com/elastic/kibana)
-  - Your window into the Elastic Stack
-- [jest](https://github.com/facebook/jest)
-  - Delightful JavaScript Testing.
-- [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
-  - A Foundation for Scalable Cross-Platform Apps
-- [editor.js](https://github.com/codex-team/editor.js)
-  - A block-styled editor with clean JSON output
-- [polaris-react](https://github.com/Shopify/polaris-react)
-  - Shopify’s product component library
-- [TypeScript](https://github.com/microsoft/TypeScript)
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [storybook](https://github.com/storybookjs/storybook)
-  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
-- [apollo-client](https://github.com/apollographql/apollo-client)
-  - 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
-- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
-  - The source for REST API specifications for Microsoft Azure.
-- [craft.js](https://github.com/prevwong/craft.js)
-  - 🚀 A React Framework for building extensible drag and drop page editors
-- [flipper](https://github.com/facebook/flipper)
-  - A desktop debugging platform for mobile developers.
 - [tfjs-models](https://github.com/tensorflow/tfjs-models)
   - Pretrained models for TensorFlow.js
-- [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)
-  - An enterprise-class UI components based on Ant Design and Angular. 🐜
-- [react-admin](https://github.com/marmelab/react-admin)
-  - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
-- [typeorm](https://github.com/typeorm/typeorm)
-  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+- [hospitalrun-frontend](https://github.com/HospitalRun/hospitalrun-frontend)
+  - Frontend for HospitalRun
+- [vue-next](https://github.com/vuejs/vue-next)
+  - The next major version of Vue (WIP)
+- [TypeScript](https://github.com/microsoft/TypeScript)
+  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [prisma2](https://github.com/prisma/prisma2)
+  - Modern DB toolkit to query, migrate and model your database
+- [umi](https://github.com/umijs/umi)
+  - 🌋 Pluggable enterprise-level react application framework.
+- [G2](https://github.com/antvis/G2)
+  - 📊 A highly interactive data-driven visualization grammar for statistical charts.
+- [shell](https://github.com/pop-os/shell)
+  - Pop!_OS Shell - WIP
+- [face-api.js](https://github.com/justadudewhohacks/face-api.js)
+  - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
+- [qiankun](https://github.com/umijs/qiankun)
+  - 📦🚀Blazing fast, simple and completed solution for micro frontends.
+- [wenyan](https://github.com/wenyan-lang/wenyan)
+  - 文言文編程語言 A programming language for the ancient Chinese.
+- [Sup](https://github.com/arnnis/Sup)
+  - A Slack client with WhatsApp like UI
+- [pixi.js](https://github.com/pixijs/pixi.js)
+  - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+- [darkreader](https://github.com/darkreader/darkreader)
+  - Dark Reader Chrome and Firefox extension
+- [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
+  - Foreign language reading and translation assistant based on copy and translate.
+- [ant-design](https://github.com/ant-design/ant-design)
+  - 🌈 A UI Design Language and React UI library
+- [PoE-Overlay](https://github.com/Kyusung4698/PoE-Overlay)
+  - An Overlay for Path of Exile. Built with Electron and Angular.
+- [ext-saladict](https://github.com/crimx/ext-saladict)
+  - Feature-rich inline translator.
+- [vscode](https://github.com/microsoft/vscode)
+  - Visual Studio Code
+- [wechaty](https://github.com/wechaty/wechaty)
+  - WeChat Bot SDK for Individual Account, Powered by TypeScript, Docker, and 💖
+- [recharts](https://github.com/recharts/recharts)
+  - Redefined chart library built with React and D3
+- [vuetify](https://github.com/vuetifyjs/vuetify)
+  - 🐉 Material Component Framework for Vue

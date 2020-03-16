@@ -1,51 +1,51 @@
 # javascript
-- [covid19](https://github.com/kaz-ogiwara/covid19)
-  - 新型コロナウイルス（COVID19）の国内における感染の状況を厚生労働省の報道発表資料からビジュアルにまとめた。
-- [strapi](https://github.com/strapi/strapi)
-  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
-- [vue](https://github.com/vuejs/vue)
-  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [google-access-helper](https://github.com/haotian-wang/google-access-helper)
-  - 谷歌访问助手破解版
-- [Rules](https://github.com/lhie1/Rules)
-  - Rules / 规则：Surge / Shadowrocket / Surfboard / Clash
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
-  - ✅ The Node.js best practices list (March 2020)
-- [alpine](https://github.com/alpinejs/alpine)
-  - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [kbone](https://github.com/Tencent/kbone)
-  - 一个致力于微信小程序和 Web 端同构的解决方案
-- [react-query](https://github.com/tannerlinsley/react-query)
-  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
-- [fullPage.js](https://github.com/alvarotrigo/fullPage.js)
-  - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
-- [wtfjs](https://github.com/denysdovhan/wtfjs)
-  - A list of funny and tricky JavaScript examples
+- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
+  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [vuex](https://github.com/vuejs/vuex)
+  - 🗃️ Centralized State Management for Vue.js.
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [myDrive](https://github.com/subnub/myDrive)
+  - Node.js and mongoDB Google Drive Clone
+- [svelte](https://github.com/sveltejs/svelte)
+  - Cybernetically enhanced web apps
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+  - 💯 Materials to help you rock your next coding interview
 - [fe-interview](https://github.com/haizlin/fe-interview)
   - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）
-- [vue-cli](https://github.com/vuejs/vue-cli)
-  - 🛠️ Standard Tooling for Vue.js Development
-- [wechat-app-mall](https://github.com/EastWorld/wechat-app-mall)
-  - 微信小程序商城，微信小程序微店
-- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
-  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+- [docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet)
+  - Jitsi Meet on Docker
+- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
+  - Bypass Paywalls for Chrome
 - [uni-app](https://github.com/dcloudio/uni-app)
   - uni-app 是使用 Vue 语法开发小程序、H5、App的统一框架
-- [lando](https://github.com/lando/lando)
-  - A local development and DevOps tool for all your projects that is fast, easy, powerful and liberating
+- [drawio](https://github.com/jgraph/drawio)
+  - Source to www.draw.io
+- [BullshitGenerator](https://github.com/menzi11/BullshitGenerator)
+  - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
+- [next.js](https://github.com/zeit/next.js)
+  - The React Framework
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
+  - ⛄️ Possibly the smallest compiler ever
+- [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
+  - a vue2.0 minimal admin template
+- [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)
+  - 网易云音乐 Node.js API service
+- [wechat-app-mall](https://github.com/EastWorld/wechat-app-mall)
+  - 微信小程序商城，微信小程序微店
+- [discord.js](https://github.com/discordjs/discord.js)
+  - A powerful JavaScript library for interacting with the Discord API
+- [layuimini](https://github.com/zhongshaofa/layuimini)
+  - 后台admin前端模板，基于 layui 编写的最简洁、易用的后台框架模板。只需提供一个接口就直接初始化整个框架，无需复杂操作。
+- [scripts](https://github.com/chavyleung/scripts)
+  - 
+- [react-table](https://github.com/tannerlinsley/react-table)
+  - ⚛️ Hooks for building fast and extendable tables and datagrids for React
+- [Script](https://github.com/NobyDa/Script)
+  - This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.
 - [Web](https://github.com/qianguyihao/Web)
   - 前端入门和进阶学习笔记，超详细的Web前端学习图文教程。从零开始学前端，做一名精致的前端工程师。持续更新...
-- [incubator-echarts](https://github.com/apache/incubator-echarts)
-  - A powerful, interactive charting and visualization library for browser
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
-  - 🎆Interactive Online Platform that Visualizes Algorithms from Code
-- [taro](https://github.com/NervJS/taro)
-  - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动/ QQ 小程序/快应用/H5/React Native 等的应用。 https://taro.jd.com/
-- [Blog](https://github.com/ljianshu/Blog)
-  - 关注基础知识，打造优质前端博客，公众号[前端工匠]的作者
-- [docusaurus](https://github.com/facebook/docusaurus)
-  - Easy to maintain open source documentation websites.
-- [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China)
-  - 中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
+- [x-spreadsheet](https://github.com/myliang/x-spreadsheet)
+  - A web-based JavaScript（canvas） spreadsheet
