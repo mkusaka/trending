@@ -1,51 +1,51 @@
 # javascript
+- [data](https://github.com/opencovid19-fr/data)
+  - Consolidation des données de sources officielles concernant l'épidémie de COVID19
 - [discord.js](https://github.com/discordjs/discord.js)
   - A powerful JavaScript library for interacting with the Discord API
+- [watch-us-build-trello](https://github.com/Code-Pop/watch-us-build-trello)
+  - 
+- [API](https://github.com/NovelCOVID/API)
+  - API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
 - [jitsi-meet](https://github.com/jitsi/jitsi-meet)
   - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
   - 💯 Materials to help you rock your next coding interview
-- [rona](https://github.com/wesbos/rona)
-  - React + Next + Hooks API
-- [tasks](https://github.com/rolling-scopes-school/tasks)
-  - 
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [korona.ws](https://github.com/konradkalemba/korona.ws)
-  - Map of confirmed coronavirus cases in Poland
-- [realworld](https://github.com/gothinkster/realworld)
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [WebSlides](https://github.com/webslides/WebSlides)
-  - Create HTML presentations in seconds —
-- [opensource.guide](https://github.com/github/opensource.guide)
-  - 📚 Community guides for open source creators
-- [API](https://github.com/NovelCOVID/API)
-  - API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
+- [vuex](https://github.com/vuejs/vuex)
+  - 🗃️ Centralized State Management for Vue.js.
+- [ccxt](https://github.com/ccxt/ccxt)
+  - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
 - [iptv](https://github.com/iptv-org/iptv)
   - Collection of 8000+ publicly available IPTV channels from all over the world
-- [etherpad-lite](https://github.com/ether/etherpad-lite)
-  - Etherpad: real-time collaborative document editor
-- [goindex](https://github.com/donwa/goindex)
-  - Google Drive Directory Index
-- [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
-  - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [telebot](https://github.com/mullwar/telebot)
-  - The easy way to write Telegram bots in Node.js
+- [Viewers](https://github.com/OHIF/Viewers)
+  - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker, plus shared extension packages
+- [coronadatascraper](https://github.com/lazd/coronadatascraper)
+  - A scraper that pulls coronavirus case data from verified sources.
+- [lesspass](https://github.com/lesspass/lesspass)
+  - 🔑 stateless open source password manager
+- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
+  - 一个基于 electron 的音乐软件
 - [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
   - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [complete-node-bootcamp](https://github.com/jonasschmedtmann/complete-node-bootcamp)
-  - Starter files, final projects and FAQ for my Complete Node.js Bootcamp
-- [docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet)
-  - Jitsi Meet on Docker
-- [BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)
-  - A series of plugins and themes for BetterDiscord.
-- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
-  - Revive unavailable songs for Netease Cloud Music
-- [mattermost-webapp](https://github.com/mattermost/mattermost-webapp)
-  - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
+- [teamtanay.jobchallenge.dev](https://github.com/tanaypratap/teamtanay.jobchallenge.dev)
+  - The web repository for all things #teamtanayjobchallenge
+- [RSSHub](https://github.com/DIYgod/RSSHub)
+  - 🍰 Everything is RSSible
+- [auth-module](https://github.com/nuxt-community/auth-module)
+  - 🔑 Zero-boilerplate authentication support for Nuxt
+- [google-access-helper](https://github.com/haotian-wang/google-access-helper)
+  - 谷歌访问助手破解版
+- [GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel)
+  - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
+- [nCovMemory](https://github.com/2019ncovmemory/nCovMemory)
+  - 2020新冠肺炎记忆：报道、非虚构与个人叙述（持续更新） Memory of 2020 nCoV: Media Coverage, Non-fiction Writings, and Individual Narratives (Continuously updating)
+- [tasks](https://github.com/rolling-scopes-school/tasks)
+  - 
+- [MagicMirror](https://github.com/MichMich/MagicMirror)
+  - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
+- [korona.ws](https://github.com/konradkalemba/korona.ws)
+  - Map of confirmed coronavirus cases in Poland
 - [surge](https://github.com/yichahucha/surge)
   - script
-- [here-covid-19-tracker](https://github.com/heremaps/here-covid-19-tracker)
-  - Using HERE Technologies APIs, fork and build your own COVID-19 Tracker. For a live version, see the website.
+- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
+  - Revive unavailable songs for Netease Cloud Music

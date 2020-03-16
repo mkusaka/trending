@@ -1,51 +1,51 @@
 # c++
-- [Marlin](https://github.com/MarlinFirmware/Marlin)
-  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
-- [pickl3](https://github.com/hlldz/pickl3)
-  - Windows active user credential phishing tool
-- [mediapipe](https://github.com/google/mediapipe)
-  - MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
-- [swift](https://github.com/apple/swift)
-  - The Swift Programming Language
-- [BIGTREETECH-SKR-V1.3](https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3)
-  - 32bit board with LPC1768, support marlin2.0 and smoothieware, support lcd2004/12864, On-board TMC2130 SPI interface and TMC2208 UART interface no additional wiring is required
-- [Osiris](https://github.com/danielkrupinski/Osiris)
-  - Free open-source training software / cheat for Counter-Strike: Global Offensive, written in modern C++. GUI powered by imgui.
-- [llvm-project](https://github.com/llvm/llvm-project)
-  - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
-- [PrusaSlicer](https://github.com/prusa3d/PrusaSlicer)
-  - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
-- [vnpy](https://github.com/vnpy/vnpy)
-  - 基于Python的开源量化交易平台开发框架
-- [imgui](https://github.com/ocornut/imgui)
-  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+- [or-tools](https://github.com/google/or-tools)
+  - Google's Operations Research tools:
 - [serenity](https://github.com/SerenityOS/serenity)
   - The Serenity Operating System 🐞
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [entt](https://github.com/skypjack/entt)
-  - Gaming meets modern C++ - a fast and reliable entity-component system (ECS) and much more
-- [Tars](https://github.com/TarsCloud/Tars)
-  - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
-- [Magisk](https://github.com/topjohnwu/Magisk)
-  - A Magic Mask to Alter Android System Systemless-ly
-- [xbmc](https://github.com/xbmc/xbmc)
-  - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
-- [ArduinoJson](https://github.com/bblanchon/ArduinoJson)
-  - 📟 JSON library for Arduino and embedded C++. Simple and efficient.
-- [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe)
-  - waifu2xのCaffe版
-- [Tasmota](https://github.com/arendst/Tasmota)
-  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
-- [BIGTREETECH-SKR-mini-E3](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3)
-  - BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.
-- [tinyrenderer](https://github.com/ssloy/tinyrenderer)
-  - A brief computer graphics / rendering course
-- [nebula](https://github.com/vesoft-inc/nebula)
-  - A distributed, fast open-source graph database featuring horizontal scalability and high availability
-- [MultiMC5](https://github.com/MultiMC/MultiMC5)
-  - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
-- [EPIJudge](https://github.com/adnanaziz/EPIJudge)
-  - EPI Judge - Preview Release
-- [x64dbg](https://github.com/x64dbg/x64dbg)
-  - An open-source x64/x32 debugger for windows.
+- [Marlin](https://github.com/MarlinFirmware/Marlin)
+  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
+- [MangoHud](https://github.com/flightlessmango/MangoHud)
+  - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
+- [pickl3](https://github.com/hlldz/pickl3)
+  - Windows active user credential phishing tool
+- [pisa](https://github.com/pisa-engine/pisa)
+  - PISA: Performant Indexes and Search for Academia
+- [WLED](https://github.com/Aircoookie/WLED)
+  - Control WS2812B RGB LEDs with an ESP8266 over WiFi!
+- [ESP3D](https://github.com/luc-github/ESP3D)
+  - FW for ESP8266/ESP8285/ESP32 used with 3D printer
+- [DeepSpeech](https://github.com/mozilla/DeepSpeech)
+  - A TensorFlow implementation of Baidu's DeepSpeech architecture
+- [yuzu](https://github.com/yuzu-emu/yuzu)
+  - Nintendo Switch Emulator
+- [espurna](https://github.com/xoseperez/espurna)
+  - Home automation firmware for ESP8266-based devices
+- [youtube](https://github.com/Errichto/youtube)
+  - codes for my streams and YT videos
+- [polybar](https://github.com/polybar/polybar)
+  - A fast and easy-to-use status bar
+- [dolphin](https://github.com/dolphin-emu/dolphin)
+  - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
+- [vnpy](https://github.com/vnpy/vnpy)
+  - 基于Python的开源量化交易平台开发框架
+- [IntelBluetoothFirmware](https://github.com/zxystd/IntelBluetoothFirmware)
+  - Intel bluetooth drivers
+- [leveldb](https://github.com/google/leveldb)
+  - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+- [TrinityCore](https://github.com/TrinityCore/TrinityCore)
+  - TrinityCore Open Source MMO Framework (master = 8.3.0.33528, 3.3.5 = 3.3.5a.12340)
+- [RF24](https://github.com/nRF24/RF24)
+  - Optimized fork of nRF24L01 for Arduino & Raspberry Pi/Linux Devices
+- [rpcs3](https://github.com/RPCS3/rpcs3)
+  - PS3 emulator/debugger
+- [solidity](https://github.com/ethereum/solidity)
+  - Solidity, the Contract-Oriented Programming Language
+- [PrusaSlicer](https://github.com/prusa3d/PrusaSlicer)
+  - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
+- [supercollider](https://github.com/supercollider/supercollider)
+  - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
+- [Proton](https://github.com/ValveSoftware/Proton)
+  - Compatibility tool for Steam Play based on Wine and additional components
+- [lc0](https://github.com/LeelaChessZero/lc0)
+  - The rewritten engine, originally for tensorflow. Now all other backends have been ported here.
