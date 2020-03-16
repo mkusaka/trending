@@ -1,51 +1,51 @@
 # ruby
 - [metasploit-framework](https://github.com/rapid7/metasploit-framework)
   - Metasploit Framework
-- [stayinghomeclub](https://github.com/phildini/stayinghomeclub)
-  - A list of all the companies WFH or events changed because of covid-19
-- [greenlight](https://github.com/bigbluebutton/greenlight)
-  - A really simple end-user interface for your BigBlueButton server.
-- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
-  - The Cocoa Dependency Manager.
-- [ruby](https://github.com/ruby/ruby)
-  - The Ruby Programming Language [mirror]
-- [liquid](https://github.com/Shopify/liquid)
-  - Liquid markup language. Safe, customer facing template language for flexible web apps.
-- [rubocop](https://github.com/rubocop-hq/rubocop)
-  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler)
-  - Profiler for your development and production Ruby rack apps.
-- [devdocs](https://github.com/freeCodeCamp/devdocs)
-  - API Documentation Browser
-- [brew](https://github.com/Homebrew/brew)
-  - 🍺 The missing package manager for macOS (or Linux)
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
   - A curated list of awesome awesomeness
-- [chatwoot](https://github.com/chatwoot/chatwoot)
-  - Simple and elegant live chat software 🔥💬
-- [redis-doc](https://github.com/antirez/redis-doc)
-  - Redis documentation source code for markdown and metadata files, conversion scripts, and so forth
+- [ruby](https://github.com/ruby/ruby)
+  - The Ruby Programming Language [mirror]
+- [chef](https://github.com/chef/chef)
+  - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
+- [greenlight](https://github.com/bigbluebutton/greenlight)
+  - A really simple end-user interface for your BigBlueButton server.
+- [homebrew-emacs-plus](https://github.com/d12frosted/homebrew-emacs-plus)
+  - Emacs Plus formulae for the Homebrew package manager
 - [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
   - Ruby implementation of GraphQL
 - [discourse](https://github.com/discourse/discourse)
   - A platform for community discussion. Free, open, simple.
-- [otwarchive](https://github.com/otwcode/otwarchive)
-  - The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project
-- [plots2](https://github.com/publiclab/plots2)
-  - a collaborative knowledge-exchange platform in Rails; we welcome first-time contributors! 🎈
-- [canvas-lms](https://github.com/instructure/canvas-lms)
-  - The open LMS by Instructure, Inc.
-- [activeadmin](https://github.com/activeadmin/activeadmin)
-  - The administration framework for Ruby on Rails applications.
-- [retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig)
-  - RetroArch joypad autoconfig files
-- [faker](https://github.com/faker-ruby/faker)
-  - A library for generating fake data such as names, addresses, and phone numbers.
-- [xerosploit](https://github.com/LionSec/xerosploit)
-  - Efficient and advanced man in the middle framework
 - [sinatra](https://github.com/sinatra/sinatra)
   - Classy web-development dressed in a DSL (official / canonical repo)
-- [fast_jsonapi](https://github.com/Netflix/fast_jsonapi)
-  - A lightning fast JSON:API serializer for Ruby Objects.
-- [ch340g-ch34g-ch34x-mac-os-x-driver](https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver)
-  - CH340G CH34G CH34X Mac OS X driver
+- [rubocop](https://github.com/rubocop-hq/rubocop)
+  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+- [brew](https://github.com/Homebrew/brew)
+  - 🍺 The missing package manager for macOS (or Linux)
+- [mastodon](https://github.com/tootsuite/mastodon)
+  - Your self-hosted, globally interconnected microblogging community
+- [otwarchive](https://github.com/otwcode/otwarchive)
+  - The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project
+- [vcr](https://github.com/vcr/vcr)
+  - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
+- [plots2](https://github.com/publiclab/plots2)
+  - a collaborative knowledge-exchange platform in Rails; we welcome first-time contributors! 🎈
+- [choosealicense.com](https://github.com/github/choosealicense.com)
+  - A site to provide non-judgmental guidance on choosing a license for your open source project
+- [canvas-lms](https://github.com/instructure/canvas-lms)
+  - The open LMS by Instructure, Inc.
+- [jekyll](https://github.com/jekyll/jekyll)
+  - 🌐 Jekyll is a blog-aware static site generator in Ruby
+- [puppet](https://github.com/puppetlabs/puppet)
+  - Server automation framework and application
+- [openproject](https://github.com/opf/openproject)
+  - OpenProject is the leading open source project management software.
+- [nodejs-learning-guide](https://github.com/chyingp/nodejs-learning-guide)
+  - Nodejs学习笔记以及经验总结，公众号"程序猿小卡"
+- [wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader)
+  - Download an entire website from the Wayback Machine.
+- [xerosploit](https://github.com/LionSec/xerosploit)
+  - Efficient and advanced man in the middle framework
+- [fluentd](https://github.com/fluent/fluentd)
+  - Fluentd: Unified Logging Layer (project under CNCF)
+- [dependabot-core](https://github.com/dependabot/dependabot-core)
+  - 🤖The core logic behind Dependabot's update PR creation
