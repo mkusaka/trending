@@ -1,51 +1,51 @@
 # c++
+- [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite)
+  - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
+- [onnxruntime](https://github.com/microsoft/onnxruntime)
+  - ONNX Runtime: cross-platform, high performance scoring engine for ML models
 - [or-tools](https://github.com/google/or-tools)
   - Google's Operations Research tools:
+- [pybind11](https://github.com/pybind/pybind11)
+  - Seamless operability between C++11 and Python
+- [flameshot](https://github.com/lupoDharkael/flameshot)
+  - Powerful yet simple to use screenshot software
 - [serenity](https://github.com/SerenityOS/serenity)
   - The Serenity Operating System 🐞
-- [Marlin](https://github.com/MarlinFirmware/Marlin)
-  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
-- [MangoHud](https://github.com/flightlessmango/MangoHud)
-  - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
-- [pickl3](https://github.com/hlldz/pickl3)
-  - Windows active user credential phishing tool
-- [pisa](https://github.com/pisa-engine/pisa)
-  - PISA: Performant Indexes and Search for Academia
-- [WLED](https://github.com/Aircoookie/WLED)
-  - Control WS2812B RGB LEDs with an ESP8266 over WiFi!
-- [ESP3D](https://github.com/luc-github/ESP3D)
-  - FW for ESP8266/ESP8285/ESP32 used with 3D printer
-- [DeepSpeech](https://github.com/mozilla/DeepSpeech)
-  - A TensorFlow implementation of Baidu's DeepSpeech architecture
-- [yuzu](https://github.com/yuzu-emu/yuzu)
-  - Nintendo Switch Emulator
-- [espurna](https://github.com/xoseperez/espurna)
-  - Home automation firmware for ESP8266-based devices
-- [youtube](https://github.com/Errichto/youtube)
-  - codes for my streams and YT videos
-- [polybar](https://github.com/polybar/polybar)
-  - A fast and easy-to-use status bar
-- [dolphin](https://github.com/dolphin-emu/dolphin)
-  - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
-- [vnpy](https://github.com/vnpy/vnpy)
-  - 基于Python的开源量化交易平台开发框架
-- [IntelBluetoothFirmware](https://github.com/zxystd/IntelBluetoothFirmware)
-  - Intel bluetooth drivers
-- [leveldb](https://github.com/google/leveldb)
-  - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
-- [TrinityCore](https://github.com/TrinityCore/TrinityCore)
-  - TrinityCore Open Source MMO Framework (master = 8.3.0.33528, 3.3.5 = 3.3.5a.12340)
-- [RF24](https://github.com/nRF24/RF24)
-  - Optimized fork of nRF24L01 for Arduino & Raspberry Pi/Linux Devices
-- [rpcs3](https://github.com/RPCS3/rpcs3)
-  - PS3 emulator/debugger
-- [solidity](https://github.com/ethereum/solidity)
-  - Solidity, the Contract-Oriented Programming Language
-- [PrusaSlicer](https://github.com/prusa3d/PrusaSlicer)
-  - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
-- [supercollider](https://github.com/supercollider/supercollider)
-  - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
-- [Proton](https://github.com/ValveSoftware/Proton)
-  - Compatibility tool for Steam Play based on Wine and additional components
-- [lc0](https://github.com/LeelaChessZero/lc0)
-  - The rewritten engine, originally for tensorflow. Now all other backends have been ported here.
+- [googletest](https://github.com/google/googletest)
+  - Googletest - Google Testing and Mocking Framework
+- [phpdesktop](https://github.com/cztomczak/phpdesktop)
+  - Develop desktop GUI applications using PHP, HTML5, JavaScript and SQLite
+- [faiss](https://github.com/facebookresearch/faiss)
+  - A library for efficient similarity search and clustering of dense vectors.
+- [icebox](https://github.com/thalium/icebox)
+  - Virtual Machine Introspection, Tracing & Debugging
+- [interview](https://github.com/huihut/interview)
+  - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。
+- [warzone2100](https://github.com/Warzone2100/warzone2100)
+  - Warzone 2100 - a free and open source real time strategy game.
+- [ClickHouse](https://github.com/ClickHouse/ClickHouse)
+  - ClickHouse is a free analytics DBMS for big data
+- [swoole-src](https://github.com/swoole/swoole-src)
+  - 🚀 Coroutine-based concurrency library for PHP
+- [incubator-doris](https://github.com/apache/incubator-doris)
+  - Apache Doris (Incubating)
+- [srs](https://github.com/ossrs/srs)
+  - SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.
+- [srt](https://github.com/Haivision/srt)
+  - Secure, Reliable, Transport
+- [mumble](https://github.com/mumble-voip/mumble)
+  - Mumble is an open source, low-latency, high quality voice chat software primarily intended for use while gaming.
+- [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native)
+  - Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
+- [folly](https://github.com/facebook/folly)
+  - An open-source C++ library developed and used at Facebook.
+- [grpc](https://github.com/grpc/grpc)
+  - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [valhalla](https://github.com/valhalla/valhalla)
+  - Open Source Routing Engine for OpenStreetMap
+- [GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
+  - Starting code for the GildedRose Refactoring Kata in many programming languages.
+- [WiFiManager](https://github.com/tzapu/WiFiManager)
+  - ESP8266 WiFi Connection manager with web captive portal
+- [opencv](https://github.com/opencv/opencv)
+  - Open Source Computer Vision Library

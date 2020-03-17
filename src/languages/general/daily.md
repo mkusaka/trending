@@ -1,50 +1,51 @@
 # general
+- [newbee-mall](https://github.com/newbee-ltd/newbee-mall) : Java
+  - newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
+- [staythefuckhome](https://github.com/flore2003/staythefuckhome) : HTML
+  - The #StayTheFuckHome Website
+- [lens](https://github.com/lensapp/lens) : TypeScript
+  - Lens - The free, smart desktop application for managing Kubernetes clusters
+- [Viewers](https://github.com/OHIF/Viewers) : JavaScript
+  - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker, plus shared extension packages
+- [jitsi-meet](https://github.com/jitsi/jitsi-meet) : JavaScript
+  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [Covidcheck](https://github.com/julianschiavo/Covidcheck) : Swift
+  - Open source iOS app to track COVID-19 cases in a beautiful, easy-to-use interface
 - [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
   - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [coronavirus-tracker-api](https://github.com/ExpDev07/coronavirus-tracker-api) : Python
-  - 🦠 A simple and fast (< 200ms) API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak. It's written in python using the 🍼 Flask framework.
-- [data](https://github.com/opencovid19-fr/data) : JavaScript
-  - Consolidation des données de sources officielles concernant l'épidémie de COVID19
-- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
-  - Course Files for Complete Python 3 Bootcamp Course on Udemy
-- [pentest-tools](https://github.com/gwen001/pentest-tools) : Python
-  - Custom pentesting tools
-- [discord.js](https://github.com/discordjs/discord.js) : JavaScript
-  - A powerful JavaScript library for interacting with the Discord API
-- [covid19](https://github.com/twiecki/covid19) : Jupyter Notebook
-  - Analyses about the COVID-19 virus
-- [or-tools](https://github.com/google/or-tools) : C++
-  - Google's Operations Research tools:
-- [coronavirus](https://github.com/FoldingAtHome/coronavirus) : Python
-  - Folding@home COVID-19 efforts
-- [covid-19-api](https://github.com/mathdroid/covid-19-api) : TypeScript
-  - COVID-19 global data (from JHU CSSE for now) as-a-service
-- [DXY-COVID-19-Data](https://github.com/BlankerL/DXY-COVID-19-Data) : Python
-  - 2019新型冠状病毒疫情时间序列数据仓库 | COVID-19/2019-nCoV Infection Time Series Data Warehouse
-- [Keylogger](https://github.com/aydinnyunus/Keylogger) : Python
-  - Get Keyboard,Mouse,ScreenShot,Microphone Inputs from Target Computer and Send to your Mail.
-- [operator-lifecycle-manager](https://github.com/operator-framework/operator-lifecycle-manager) : Go
-  - A management framework for extending Kubernetes with Operators
+- [covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset) : 
+  - We are building an open database of COVID-19 cases with chest X-ray or CT images.
+- [python-cheatsheet](https://github.com/gto76/python-cheatsheet) : Python
+  - Comprehensive Python Cheatsheet
 - [miaosha](https://github.com/qiurunze123/miaosha) : Java
   - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
-- [bayonet](https://github.com/CTF-MissFeng/bayonet) : Python
-  - bayonet是一款src资产管理系统，从子域名、端口服务、漏洞、爬虫等一体化的资产管理系统
-- [real-world-vue](https://github.com/Code-Pop/real-world-vue) : Vue
-  - The application that we build in Vue Mastery's courses starting with Real World Vue
-- [COVID-19](https://github.com/midas-network/COVID-19) : 
-  - 2019 novel coronavirus repository
-- [watch-us-build-trello](https://github.com/Code-Pop/watch-us-build-trello) : JavaScript
-- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) : Jupyter Notebook
-  - Python - 100天从新手到大师
+- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
+  - Course Files for Complete Python 3 Bootcamp Course on Udemy
+- [material-components-android-examples](https://github.com/material-components/material-components-android-examples) : Kotlin
+  - Companion example apps and code for MDC-Android.
+- [docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) : JavaScript
+  - Jitsi Meet on Docker
+- [data](https://github.com/opencovid19-fr/data) : JavaScript
+  - Consolidation des données de sources officielles concernant l'épidémie de COVID19
+- [pentest-tools](https://github.com/gwen001/pentest-tools) : Python
+  - Custom pentesting tools
 - [API](https://github.com/NovelCOVID/API) : JavaScript
   - API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
+- [Java-Tutorial](https://github.com/h2pl/Java-Tutorial) : Java
+  - 【Java工程师面试复习指南】本仓库涵盖大部分Java程序员所需要掌握的核心知识，整合了互联网上的很多优质Java技术文章，力求打造为最完整最实用的Java开发者学习指南，如果对你有帮助，给个star告诉我吧，谢谢！
+- [covid19](https://github.com/twiecki/covid19) : Jupyter Notebook
+  - Analyses about the COVID-19 virus
+- [chakra-ui-vue](https://github.com/chakra-ui/chakra-ui-vue) : JavaScript
+  - ⚡️ Build scalable and accessible Vue.js applications with ease.
+- [COVID-19](https://github.com/midas-network/COVID-19) : TeX
+  - 2019 novel coronavirus repository
+- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) : Jupyter Notebook
+  - Python - 100天从新手到大师
 - [datasets](https://github.com/datadista/datasets) : HTML
   - Fuente de datos de los reportajes y proyectos de periodismo de investigación y datos de DATADISTA
-- [serenity](https://github.com/SerenityOS/serenity) : C++
-  - The Serenity Operating System 🐞
-- [Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook) : 
-  - 🐜前端面试复习笔记
-- [Marlin](https://github.com/MarlinFirmware/Marlin) : C++
-  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
-- [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) : TeX
-  - Classical equations and diagrams in machine learning
+- [Sentinel](https://github.com/alibaba/Sentinel) : Java
+  - A lightweight powerful flow control component enabling reliability and monitoring for microservices. (面向云原生微服务的流量控制、熔断降级组件)
+- [computer-science](https://github.com/ossu/computer-science) : 
+  - 🎓 Path to a free self-taught education in Computer Science!
+- [coronavirus-tracker-api](https://github.com/ExpDev07/coronavirus-tracker-api) : Python
+  - 🦠 A simple and fast (< 200ms) API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak. It's written in python using the 🍼 Flask framework.
