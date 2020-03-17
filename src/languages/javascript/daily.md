@@ -1,51 +1,51 @@
 # javascript
-- [data](https://github.com/opencovid19-fr/data)
-  - Consolidation des données de sources officielles concernant l'épidémie de COVID19
-- [discord.js](https://github.com/discordjs/discord.js)
-  - A powerful JavaScript library for interacting with the Discord API
-- [watch-us-build-trello](https://github.com/Code-Pop/watch-us-build-trello)
-  - 
-- [API](https://github.com/NovelCOVID/API)
-  - API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
-- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
-  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
-  - 💯 Materials to help you rock your next coding interview
-- [vuex](https://github.com/vuejs/vuex)
-  - 🗃️ Centralized State Management for Vue.js.
-- [ccxt](https://github.com/ccxt/ccxt)
-  - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
-- [iptv](https://github.com/iptv-org/iptv)
-  - Collection of 8000+ publicly available IPTV channels from all over the world
 - [Viewers](https://github.com/OHIF/Viewers)
   - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker, plus shared extension packages
+- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
+  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet)
+  - Jitsi Meet on Docker
+- [data](https://github.com/opencovid19-fr/data)
+  - Consolidation des données de sources officielles concernant l'épidémie de COVID19
+- [API](https://github.com/NovelCOVID/API)
+  - API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
+- [chakra-ui-vue](https://github.com/chakra-ui/chakra-ui-vue)
+  - ⚡️ Build scalable and accessible Vue.js applications with ease.
 - [coronadatascraper](https://github.com/lazd/coronadatascraper)
   - A scraper that pulls coronavirus case data from verified sources.
-- [lesspass](https://github.com/lesspass/lesspass)
-  - 🔑 stateless open source password manager
+- [acorn](https://github.com/acornjs/acorn)
+  - A small, fast, JavaScript-based JavaScript parser
+- [dashboard](https://github.com/opencovid19-fr/dashboard)
+  - Tableau de bord de suivi de l'épidémie de nouveau coronavirus
+- [discord.js](https://github.com/discordjs/discord.js)
+  - A powerful JavaScript library for interacting with the Discord API
+- [covid19](https://github.com/pomber/covid19)
+  - JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily
+- [lin-cms-vue](https://github.com/TaleLin/lin-cms-vue)
+  - 🔆A simple and practical CMS implemented by Vue
 - [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
   - 一个基于 electron 的音乐软件
-- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
-  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [teamtanay.jobchallenge.dev](https://github.com/tanaypratap/teamtanay.jobchallenge.dev)
-  - The web repository for all things #teamtanayjobchallenge
-- [RSSHub](https://github.com/DIYgod/RSSHub)
-  - 🍰 Everything is RSSible
-- [auth-module](https://github.com/nuxt-community/auth-module)
-  - 🔑 Zero-boilerplate authentication support for Nuxt
-- [google-access-helper](https://github.com/haotian-wang/google-access-helper)
-  - 谷歌访问助手破解版
-- [GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel)
-  - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
-- [nCovMemory](https://github.com/2019ncovmemory/nCovMemory)
-  - 2020新冠肺炎记忆：报道、非虚构与个人叙述（持续更新） Memory of 2020 nCoV: Media Coverage, Non-fiction Writings, and Individual Narratives (Continuously updating)
-- [tasks](https://github.com/rolling-scopes-school/tasks)
-  - 
-- [MagicMirror](https://github.com/MichMich/MagicMirror)
-  - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
-- [korona.ws](https://github.com/konradkalemba/korona.ws)
-  - Map of confirmed coronavirus cases in Poland
-- [surge](https://github.com/yichahucha/surge)
-  - script
-- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
-  - Revive unavailable songs for Netease Cloud Music
+- [webcodesk-srv](https://github.com/webcodesk/webcodesk-srv)
+  - Webcodesk - Web Application Builder
+- [RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection)
+  - RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.)
+- [nuxt.js](https://github.com/nuxt/nuxt.js)
+  - The Vue.js Framework
+- [fabric.js](https://github.com/fabricjs/fabric.js)
+  - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
+- [Sortable](https://github.com/SortableJS/Sortable)
+  - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Ember, Knockout and any CSS library, e.g. Bootstrap.
+- [react-native-swiper](https://github.com/leecade/react-native-swiper)
+  - The best Swiper component for React Native.
+- [react-draft-wysiwyg](https://github.com/jpuri/react-draft-wysiwyg)
+  - A Wysiwyg editor build on top of ReactJS and DraftJS. https://jpuri.github.io/react-draft-wysiwyg
+- [lesspass](https://github.com/lesspass/lesspass)
+  - 🔑 stateless open source password manager
+- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
+  - Starter files, final projects and FAQ for my Complete JavaScript course
+- [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
+  - 🦠Useful projects and resources for COVID-19 (2019 novel Coronavirus)
+- [swiper](https://github.com/nolimits4web/swiper)
+  - Most modern mobile touch slider with hardware accelerated transitions

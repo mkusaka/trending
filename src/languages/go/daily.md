@@ -1,51 +1,51 @@
 # go
-- [operator-lifecycle-manager](https://github.com/operator-framework/operator-lifecycle-manager)
-  - A management framework for extending Kubernetes with Operators
-- [gobuster](https://github.com/OJ/gobuster)
-  - Directory/File, DNS and VHost busting tool written in Go
-- [chat](https://github.com/tinode/chat)
-  - Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots
 - [lazygit](https://github.com/jesseduffield/lazygit)
   - simple terminal UI for git commands
-- [zinx](https://github.com/aceld/zinx)
-  - 基于Golang轻量级TCP并发服务器框架
-- [learn-go-with-tests](https://github.com/quii/learn-go-with-tests)
-  - Learn Go with test-driven development
-- [statusbay](https://github.com/similarweb/statusbay)
-  - Kubernetes deployment visibility like a pro
-- [clash](https://github.com/Dreamacro/clash)
-  - A rule-based tunnel in Go.
-- [chaos-mesh](https://github.com/pingcap/chaos-mesh)
-  - A Chaos Engineering Platform for Kubernetes
-- [consul](https://github.com/hashicorp/consul)
-  - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [rclone](https://github.com/rclone/rclone)
-  - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
-- [negroni](https://github.com/urfave/negroni)
-  - Idiomatic HTTP Middleware for Golang
-- [Cloudreve](https://github.com/cloudreve/Cloudreve)
-  - 🌈支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)
-- [micro](https://github.com/zyedidia/micro)
-  - A modern and intuitive terminal-based text editor
-- [caddy](https://github.com/caddyserver/caddy)
-  - Fast, multi-platform web server with automatic HTTPS
-- [colly](https://github.com/gocolly/colly)
-  - Elegant Scraper and Crawler Framework for Golang
-- [monitoror](https://github.com/monitoror/monitoror)
-  - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
-- [pan-light](https://github.com/peterq/pan-light)
-  - 百度网盘不限速客户端, golang + qt5, 跨平台图形界面
-- [hugo](https://github.com/gohugoio/hugo)
-  - The world’s fastest framework for building websites.
-- [lightsocks](https://github.com/gwuhaolin/lightsocks)
-  - ⚡️一个轻巧的网络混淆代理🌏
-- [dnote](https://github.com/dnote/dnote)
-  - A simple command line notebook for programmers
-- [go-admin](https://github.com/wenjianzhang/go-admin)
-  - 基于Gin + Vue + Element UI的前后端分离权限管理系统
-- [oragono](https://github.com/oragono/oragono)
-  - A modern IRC server (daemon/ircd) written in Go.
-- [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
-  - Network-wide ads & trackers blocking DNS server
+- [trivy](https://github.com/aquasecurity/trivy)
+  - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
+- [hostctl](https://github.com/guumaster/hostctl)
+  - Manage your hosts file like a pro!
+- [tailscale](https://github.com/tailscale/tailscale)
+  - The easiest, most secure way to use WireGuard and 2FA.
 - [reviewdog](https://github.com/reviewdog/reviewdog)
   - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
+- [learn-go-with-tests](https://github.com/quii/learn-go-with-tests)
+  - Learn Go with test-driven development
+- [chat](https://github.com/tinode/chat)
+  - Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots
+- [prometheus-operator](https://github.com/coreos/prometheus-operator)
+  - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+- [go-admin](https://github.com/wenjianzhang/go-admin)
+  - 基于Gin + Vue + Element UI的前后端分离权限管理系统
+- [validator](https://github.com/go-playground/validator)
+  - 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+- [negroni](https://github.com/urfave/negroni)
+  - Idiomatic HTTP Middleware for Golang
+- [awesome-go](https://github.com/avelino/awesome-go)
+  - A curated list of awesome Go frameworks, libraries and software
+- [charts](https://github.com/helm/charts)
+  - Curated applications for Kubernetes
+- [community](https://github.com/kubernetes/community)
+  - Kubernetes community content
+- [minio-go](https://github.com/minio/minio-go)
+  - MinIO Client SDK for Go
+- [bleve](https://github.com/blevesearch/bleve)
+  - A modern text indexing library for go
+- [go](https://github.com/golang/go)
+  - The Go programming language
+- [excelize](https://github.com/360EntSecGroup-Skylar/excelize)
+  - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
+- [cloud-torrent](https://github.com/jpillora/cloud-torrent)
+  - ☁️ Cloud Torrent: a self-hosted remote torrent client
+- [golangci-lint](https://github.com/golangci/golangci-lint)
+  - Linters Runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config.
+- [go-sqlmock](https://github.com/DATA-DOG/go-sqlmock)
+  - Sql mock driver for golang to test database interactions
+- [swag](https://github.com/swaggo/swag)
+  - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
+- [kubeless](https://github.com/kubeless/kubeless)
+  - Kubernetes Native Serverless Framework
+- [testify](https://github.com/stretchr/testify)
+  - A toolkit with common assertions and mocks that plays nicely with the standard library
+- [zap](https://github.com/uber-go/zap)
+  - Blazing fast, structured, leveled logging in Go.
