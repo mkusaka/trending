@@ -1,51 +1,51 @@
 # javascript
-- [Viewers](https://github.com/OHIF/Viewers)
-  - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker, plus shared extension packages
+- [coronavirus-tracker-cli](https://github.com/sagarkarira/coronavirus-tracker-cli)
+  - Track conronavirus cases from command line. curl https://corona-stats.online/
+- [API](https://github.com/NovelCOVID/API)
+  - API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
+- [Script](https://github.com/NobyDa/Script)
+  - This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.
+- [nuxt.js](https://github.com/nuxt/nuxt.js)
+  - The Vue.js Framework
+- [graphql-engine](https://github.com/hasura/graphql-engine)
+  - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 - [jitsi-meet](https://github.com/jitsi/jitsi-meet)
   - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [list](https://github.com/homeferences/list)
+  - List of Homeferences
+- [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
+  - 🦠Useful projects and resources for COVID-19 (2019 novel Coronavirus)
+- [apprtc](https://github.com/webrtc/apprtc)
+  - The video chat demo app based on WebRTC. This project is currently on HOLD with minimal maintenance.
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+  - Headless Chrome Node.js API
+- [gatsby](https://github.com/gatsbyjs/gatsby)
+  - Build blazing fast, modern apps and websites with React
+- [todomvc](https://github.com/tastejs/todomvc)
+  - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
+- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
+  - Revive unavailable songs for Netease Cloud Music
+- [gun](https://github.com/amark/gun)
+  - A realtime, decentralized, offline-first, graph protocol to sync the web.
 - [docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet)
   - Jitsi Meet on Docker
 - [data](https://github.com/opencovid19-fr/data)
   - Consolidation des données de sources officielles concernant l'épidémie de COVID19
-- [API](https://github.com/NovelCOVID/API)
-  - API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
-- [chakra-ui-vue](https://github.com/chakra-ui/chakra-ui-vue)
-  - ⚡️ Build scalable and accessible Vue.js applications with ease.
-- [coronadatascraper](https://github.com/lazd/coronadatascraper)
-  - A scraper that pulls coronavirus case data from verified sources.
-- [acorn](https://github.com/acornjs/acorn)
-  - A small, fast, JavaScript-based JavaScript parser
-- [dashboard](https://github.com/opencovid19-fr/dashboard)
-  - Tableau de bord de suivi de l'épidémie de nouveau coronavirus
-- [discord.js](https://github.com/discordjs/discord.js)
-  - A powerful JavaScript library for interacting with the Discord API
 - [covid19](https://github.com/pomber/covid19)
   - JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily
-- [lin-cms-vue](https://github.com/TaleLin/lin-cms-vue)
-  - 🔆A simple and practical CMS implemented by Vue
-- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
-  - 一个基于 electron 的音乐软件
-- [webcodesk-srv](https://github.com/webcodesk/webcodesk-srv)
-  - Webcodesk - Web Application Builder
-- [RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection)
-  - RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.)
-- [nuxt.js](https://github.com/nuxt/nuxt.js)
-  - The Vue.js Framework
 - [fabric.js](https://github.com/fabricjs/fabric.js)
   - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
-- [Sortable](https://github.com/SortableJS/Sortable)
-  - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Ember, Knockout and any CSS library, e.g. Bootstrap.
-- [react-native-swiper](https://github.com/leecade/react-native-swiper)
-  - The best Swiper component for React Native.
-- [react-draft-wysiwyg](https://github.com/jpuri/react-draft-wysiwyg)
-  - A Wysiwyg editor build on top of ReactJS and DraftJS. https://jpuri.github.io/react-draft-wysiwyg
-- [lesspass](https://github.com/lesspass/lesspass)
-  - 🔑 stateless open source password manager
-- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
-  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
-  - Starter files, final projects and FAQ for my Complete JavaScript course
-- [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
-  - 🦠Useful projects and resources for COVID-19 (2019 novel Coronavirus)
-- [swiper](https://github.com/nolimits4web/swiper)
-  - Most modern mobile touch slider with hardware accelerated transitions
+- [core-js](https://github.com/zloirock/core-js)
+  - Standard Library
+- [Viewers](https://github.com/OHIF/Viewers)
+  - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker, plus shared extension packages
+- [matrix](https://github.com/ResultadosDigitais/matrix)
+  - #matrix is the online open-source workplace inspired in sococo.com for distributed teams to have the experience of work together each day, side-by-side. No matter where team members might be. Working in an online workplace is even more productive when people feeling in the same space.
+- [three.js](https://github.com/mrdoob/three.js)
+  - JavaScript 3D library.
+- [sequelize](https://github.com/sequelize/sequelize)
+  - An easy-to-use multi SQL dialect ORM for Node.js
+- [deck.gl](https://github.com/uber/deck.gl)
+  - WebGL2 powered geospatial visualization layers
+- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
+  - 一个基于 electron 的音乐软件
