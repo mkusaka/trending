@@ -1,51 +1,51 @@
 # ruby
-- [rubocop](https://github.com/rubocop-hq/rubocop)
-  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [webpacker](https://github.com/rails/webpacker)
-  - Use Webpack to manage app-like JavaScript modules in Rails
 - [greenlight](https://github.com/bigbluebutton/greenlight)
   - A really simple end-user interface for your BigBlueButton server.
-- [rails](https://github.com/rails/rails)
-  - Ruby on Rails
+- [covid](https://github.com/lifen-labs/covid)
+  - Covid-19 patients' self-monitoring at home via forms sent by SMS
+- [rubocop](https://github.com/rubocop-hq/rubocop)
+  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+- [scalelite](https://github.com/blindsidenetworks/scalelite)
+  - Scalable load balancer for BigBlueButton
+- [ruby](https://github.com/ruby/ruby)
+  - The Ruby Programming Language [mirror]
 - [discourse](https://github.com/discourse/discourse)
   - A platform for community discussion. Free, open, simple.
-- [redmine](https://github.com/redmine/redmine)
-  - Mirror of redmine code source - Official SVN repository is at https://svn.redmine.org/redmine - contact: @jbbarth or jeanbaptiste.barth (at) gmail (dot) com
-- [sorbet](https://github.com/sorbet/sorbet)
-  - A fast, powerful type checker designed for Ruby
 - [logstash](https://github.com/elastic/logstash)
   - Logstash - transport and process your logs, events, or other data
-- [fast_jsonapi](https://github.com/Netflix/fast_jsonapi)
-  - A lightning fast JSON:API serializer for Ruby Objects.
-- [gitlabhq](https://github.com/gitlabhq/gitlabhq)
-  - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
-- [grape](https://github.com/ruby-grape/grape)
-  - An opinionated framework for creating REST-like APIs in Ruby.
-- [vagrant](https://github.com/hashicorp/vagrant)
-  - Vagrant is a tool for building and distributing development environments.
-- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
-  - Metasploit Framework
-- [carrierwave](https://github.com/carrierwaveuploader/carrierwave)
-  - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
-- [draper](https://github.com/drapergem/draper)
-  - Decorators/View-Models for Rails Applications
-- [pundit](https://github.com/varvet/pundit)
-  - Minimal authorization through OO design and pure Ruby classes
-- [spree](https://github.com/spree/spree)
-  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
-- [pomuzeme.si](https://github.com/Applifting/pomuzeme.si)
-  - Open source platform for managing volunteers in time of COVID-19 crisis
-- [sequel](https://github.com/jeremyevans/sequel)
-  - Sequel: The Database Toolkit for Ruby
-- [fluentd](https://github.com/fluent/fluentd)
-  - Fluentd: Unified Logging Layer (project under CNCF)
-- [rswag](https://github.com/rswag/rswag)
-  - Seamlessly adds a Swagger to Rails-based API's
-- [puma](https://github.com/puma/puma)
-  - A Ruby/Rack web server built for concurrency
-- [devise](https://github.com/heartcombo/devise)
-  - Flexible authentication solution for Rails with Warden.
-- [axlsx](https://github.com/randym/axlsx)
-  - xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your…
-- [chef](https://github.com/chef/chef)
-  - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
+- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+- [sidekiq](https://github.com/mperham/sidekiq)
+  - Simple, efficient background processing for Ruby
+- [ml_competition_platform](https://github.com/AillisInc/ml_competition_platform)
+  - Kaggle-like machine learning competition platform
+- [js-rails-as-api-extracting-a-service-class-seattle-web-012720](https://github.com/learn-co-students/js-rails-as-api-extracting-a-service-class-seattle-web-012720)
+  - 
+- [js-rails-as-api-using-fast-json-api-seattle-web-012720](https://github.com/learn-co-students/js-rails-as-api-using-fast-json-api-seattle-web-012720)
+  - 
+- [WhatWeb](https://github.com/urbanadventurer/WhatWeb)
+  - Next generation web scanner
+- [sample_app](https://github.com/tejas-kc/sample_app)
+  - Ruby on Rails Tutorial sample application
+- [js-rails-as-api-rendering-different-content-types-using-rails-seattle-web-012720](https://github.com/learn-co-students/js-rails-as-api-rendering-different-content-types-using-rails-seattle-web-012720)
+  - 
+- [js-rails-as-api-custom-json-rendering-using-rails-seattle-web-012720](https://github.com/learn-co-students/js-rails-as-api-custom-json-rendering-using-rails-seattle-web-012720)
+  - 
+- [homeworks-2020](https://github.com/labs-ruby/homeworks-2020)
+  - The repo contains Spring-2020 course homeworks 📗
+- [active-record-intro-to-rake-nyc-web-030920](https://github.com/learn-co-students/active-record-intro-to-rake-nyc-web-030920)
+  - 
+- [js-rails-as-api-rendering-related-object-data-in-json-seattle-web-012720](https://github.com/learn-co-students/js-rails-as-api-rendering-related-object-data-in-json-seattle-web-012720)
+  - 
+- [html-iframes-lab-online-web-sp-000](https://github.com/learn-co-students/html-iframes-lab-online-web-sp-000)
+  - 
+- [html5-video-embed-lab-online-web-sp-000](https://github.com/learn-co-students/html5-video-embed-lab-online-web-sp-000)
+  - 
+- [ruby-object-initialize-lab-onl01-seng-pt-030220](https://github.com/learn-co-students/ruby-object-initialize-lab-onl01-seng-pt-030220)
+  - 
+- [activerecord-associations-intro-onl01-seng-ft-021020](https://github.com/learn-co-students/activerecord-associations-intro-onl01-seng-ft-021020)
+  - 
+- [ruby-enumerables-reverse-each-word-lab-denver-web-033020](https://github.com/learn-co-students/ruby-enumerables-reverse-each-word-lab-denver-web-033020)
+  - 
+- [ruby-enumerables-cartoon-collections-lab-denver-web-033020](https://github.com/learn-co-students/ruby-enumerables-cartoon-collections-lab-denver-web-033020)
+  - 
