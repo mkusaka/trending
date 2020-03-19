@@ -1,51 +1,51 @@
 # general
+- [introRL](https://github.com/zhoubolei/introRL) : 
+  - Intro to Reinforcement Learning (强化学习纲要）
+- [covid19_scenarios](https://github.com/neherlab/covid19_scenarios) : TypeScript
+  - Models of COVID-19 outbreak trajectories and hospital demand
+- [course-v4](https://github.com/fastai/course-v4) : Jupyter Notebook
+  - Pre-release of v4 of course.fast.ai
+- [ventilator](https://github.com/jcl5m1/ventilator) : C++
+  - Low-Cost Open Source Ventilator
 - [backstage](https://github.com/spotify/backstage) : TypeScript
   - Backstage is an open platform for building developer portals
-- [coronavirus-tracker-cli](https://github.com/sagarkarira/coronavirus-tracker-cli) : JavaScript
-  - Track conronavirus cases from command line. curl https://corona-stats.online/
-- [covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset) : 
-  - We are building an open database of COVID-19 cases with chest X-ray or CT images.
-- [newbee-mall](https://github.com/newbee-ltd/newbee-mall) : Java
-  - newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
-- [chime](https://github.com/pennsignals/chime) : Python
-  - COVID-19 Hospital Impact Model for Epidemics
-- [lens](https://github.com/lensapp/lens) : TypeScript
-  - Lens - The free, smart desktop application for managing Kubernetes clusters
-- [ionic](https://github.com/ionic-team/ionic) : TypeScript
-  - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
-- [synapse](https://github.com/matrix-org/synapse) : Python
-  - Synapse: Matrix reference homeserver
-- [COVID-19](https://github.com/midas-network/COVID-19) : TeX
-  - 2019 novel coronavirus repository
-- [kubeflow](https://github.com/kubeflow/kubeflow) : Jsonnet
-  - Machine Learning Toolkit for Kubernetes
-- [remote4corona](https://github.com/canerbasaran/remote4corona) : 
-  - Türkiye'de korona nedeniyle çalışanlarına uzaktan çalışmaya izin veren şirketler
+- [automl](https://github.com/google/automl) : Python
+  - Google Brain AutoML
 - [computer-science](https://github.com/ossu/computer-science) : 
   - 🎓 Path to a free self-taught education in Computer Science!
-- [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) : HTML
-  - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
-- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
-  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [Java-Tutorial](https://github.com/h2pl/Java-Tutorial) : Java
-  - 【Java工程师面试复习指南】本仓库涵盖大部分Java程序员所需要掌握的核心知识，整合了互联网上的很多优质Java技术文章，力求打造为最完整最实用的Java开发者学习指南，如果对你有帮助，给个star告诉我吧，谢谢！
-- [TeachYourselfCS-CN](https://github.com/keithnull/TeachYourselfCS-CN) : 
-  - TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS
-- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
-  - Course Files for Complete Python 3 Bootcamp Course on Udemy
-- [zju-icicles](https://github.com/QSCTech/zju-icicles) : C
-  - 浙江大学课程攻略共享计划
-- [itlwm](https://github.com/zxystd/itlwm) : C
-  - IntelWifi
-- [API](https://github.com/NovelCOVID/API) : JavaScript
-  - API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
-- [CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) : 
-  - 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）
-- [Script](https://github.com/NobyDa/Script) : JavaScript
-  - This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.
-- [resources](https://github.com/Helpful-Engineers/resources) : 
-  - Helpful Engineering project proposals
+- [covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset) : 
+  - We are building an open database of COVID-19 cases with chest X-ray or CT images.
 - [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) : 
   - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
-- [LeetCode](https://github.com/yuanguangxin/LeetCode) : Java
-  - LeetCode刷题记录
+- [terminal](https://github.com/microsoft/terminal) : C++
+  - The new Windows Terminal and the original Windows console host, all in the same place!
+- [zju-icicles](https://github.com/QSCTech/zju-icicles) : C
+  - 浙江大学课程攻略共享计划
+- [COVID-19](https://github.com/midas-network/COVID-19) : TeX
+  - 2019 novel coronavirus repository
+- [NymphCast](https://github.com/MayaPosch/NymphCast) : C++
+  - Audio and video casting system with support for custom applications.
+- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
+  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
+- [coronavirus-tracker-cli](https://github.com/sagarkarira/coronavirus-tracker-cli) : JavaScript
+  - Track conronavirus cases from command line. curl https://corona-stats.online/
+- [covid19za](https://github.com/dsfsi/covid19za) : Jupyter Notebook
+  - COVID 19 Data and Dashboard for South Africa
+- [covid-sortie](https://github.com/vikbez/covid-sortie) : HTML
+  - Formulaire rapide d'autorisation de sortie covid-19
+- [community](https://github.com/Ethiopia-COVID19/community) : 
+  - Welcome to Ethiopia COVID-19 Response Task Force Community
+- [newbee-mall](https://github.com/newbee-ltd/newbee-mall) : Java
+  - newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
+- [jitsi-meet](https://github.com/jitsi/jitsi-meet) : JavaScript
+  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [ionic](https://github.com/ionic-team/ionic) : TypeScript
+  - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
+- [lens](https://github.com/lensapp/lens) : TypeScript
+  - Lens - The Kubernetes IDE
+- [django](https://github.com/django/django) : Python
+  - The Web framework for perfectionists with deadlines.
+- [API](https://github.com/NovelCOVID/API) : JavaScript
+  - API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
+- [matrix](https://github.com/ResultadosDigitais/matrix) : JavaScript
+  - #matrix is the online open-source workplace inspired in sococo.com for distributed teams to have the experience of work together each day, side-by-side. No matter where team members might be. Working in an online workplace is even more productive when people feeling in the same space.

@@ -1,51 +1,51 @@
 # c++
-- [grpc](https://github.com/grpc/grpc)
-  - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
+- [ventilator](https://github.com/jcl5m1/ventilator)
+  - Low-Cost Open Source Ventilator
 - [terminal](https://github.com/microsoft/terminal)
   - The new Windows Terminal and the original Windows console host, all in the same place!
-- [obs-virtual-cam](https://github.com/CatxFish/obs-virtual-cam)
-  - obs-studio plugin to simulate a directshow webcam
-- [TrinityCore](https://github.com/TrinityCore/TrinityCore)
-  - TrinityCore Open Source MMO Framework (master = 8.3.0.33528, 3.3.5 = 3.3.5a.12340)
-- [opencv](https://github.com/opencv/opencv)
-  - Open Source Computer Vision Library
-- [protobuf](https://github.com/protocolbuffers/protobuf)
-  - Protocol Buffers - Google's data interchange format
-- [swift](https://github.com/apple/swift)
-  - The Swift Programming Language
-- [phpdesktop](https://github.com/cztomczak/phpdesktop)
-  - Develop desktop GUI applications using PHP, HTML5, JavaScript and SQLite
-- [NonEuclidean](https://github.com/HackerPoet/NonEuclidean)
-  - A Non-Euclidean Rendering Engine for 3D scenes.
-- [Marlin](https://github.com/MarlinFirmware/Marlin)
-  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
-- [swoole-src](https://github.com/swoole/swoole-src)
-  - 🚀 Coroutine-based concurrency library for PHP
-- [tesseract](https://github.com/tesseract-ocr/tesseract)
-  - Tesseract Open Source OCR Engine (main repository)
-- [electron](https://github.com/electron/electron)
-  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [flameshot](https://github.com/lupoDharkael/flameshot)
-  - Powerful yet simple to use screenshot software
-- [MNN](https://github.com/alibaba/MNN)
-  - MNN is a lightweight deep neural network inference engine.
-- [synergy-core](https://github.com/symless/synergy-core)
-  - Open source core of Synergy, the keyboard and mouse sharing tool
-- [carla](https://github.com/carla-simulator/carla)
-  - Open-source simulator for autonomous driving research.
-- [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)
-  - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
-- [googletest](https://github.com/google/googletest)
-  - Googletest - Google Testing and Mocking Framework
-- [gdal](https://github.com/OSGeo/gdal)
-  - GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats.
+- [NymphCast](https://github.com/MayaPosch/NymphCast)
+  - Audio and video casting system with support for custom applications.
+- [tdesktop](https://github.com/telegramdesktop/tdesktop)
+  - Telegram Desktop messaging app
+- [cgal](https://github.com/CGAL/cgal)
+  - The public CGAL repository, see the README below
+- [Magisk](https://github.com/topjohnwu/Magisk)
+  - A Magic Mask to Alter Android System Systemless-ly
+- [godot](https://github.com/godotengine/godot)
+  - Godot Engine – Multi-platform 2D and 3D game engine
 - [STL](https://github.com/microsoft/STL)
   - MSVC's implementation of the C++ Standard Library.
-- [react-native-windows](https://github.com/microsoft/react-native-windows)
-  - A framework for building native Windows apps with React.
+- [TRTorch](https://github.com/NVIDIA/TRTorch)
+  - Ahead-of-time compilation of PyTorch JIT for NVIDIA GPUs
+- [swift](https://github.com/apple/swift)
+  - The Swift Programming Language
+- [electron](https://github.com/electron/electron)
+  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [RoboMaster-SDK](https://github.com/dji-sdk/RoboMaster-SDK)
+  - DJI RoboMaster Python SDK and Sample Code for RoboMaster EP.
+- [grpc](https://github.com/grpc/grpc)
+  - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [NonEuclidean](https://github.com/HackerPoet/NonEuclidean)
+  - A Non-Euclidean Rendering Engine for 3D scenes.
 - [bitcoin](https://github.com/bitcoin/bitcoin)
   - Bitcoin Core integration/staging tree
-- [osrm-backend](https://github.com/Project-OSRM/osrm-backend)
-  - Open Source Routing Machine - C++ backend
+- [citra](https://github.com/citra-emu/citra)
+  - A Nintendo 3DS Emulator
+- [incubator-brpc](https://github.com/apache/incubator-brpc)
+  - Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services, called "baidu-rpc" inside Baidu.
+- [BIGTREETECH-SKR-mini-E3](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3)
+  - BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.
+- [Tengine](https://github.com/OAID/Tengine)
+  - Tengine is a lite, high performance, modular inference engine for embedded device
+- [aseprite](https://github.com/aseprite/aseprite)
+  - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
+- [kalibr](https://github.com/ethz-asl/kalibr)
+  - The Kalibr visual-inertial calibration toolbox
+- [xeus-cling](https://github.com/jupyter-xeus/xeus-cling)
+  - Jupyter kernel for the C++ programming language
+- [faiss](https://github.com/facebookresearch/faiss)
+  - A library for efficient similarity search and clustering of dense vectors.
+- [ESPEasy](https://github.com/letscontrolit/ESPEasy)
+  - Easy MultiSensor device based on ESP8266
+- [MachOView](https://github.com/gdbinit/MachOView)
+  - MachOView fork

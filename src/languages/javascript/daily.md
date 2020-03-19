@@ -1,51 +1,51 @@
 # javascript
 - [coronavirus-tracker-cli](https://github.com/sagarkarira/coronavirus-tracker-cli)
   - Track conronavirus cases from command line. curl https://corona-stats.online/
-- [API](https://github.com/NovelCOVID/API)
-  - API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
-- [Script](https://github.com/NobyDa/Script)
-  - This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.
-- [nuxt.js](https://github.com/nuxt/nuxt.js)
-  - The Vue.js Framework
-- [graphql-engine](https://github.com/hasura/graphql-engine)
-  - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 - [jitsi-meet](https://github.com/jitsi/jitsi-meet)
   - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [list](https://github.com/homeferences/list)
-  - List of Homeferences
-- [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
-  - 🦠Useful projects and resources for COVID-19 (2019 novel Coronavirus)
-- [apprtc](https://github.com/webrtc/apprtc)
-  - The video chat demo app based on WebRTC. This project is currently on HOLD with minimal maintenance.
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
-- [todomvc](https://github.com/tastejs/todomvc)
-  - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
-- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
-  - Revive unavailable songs for Netease Cloud Music
-- [gun](https://github.com/amark/gun)
-  - A realtime, decentralized, offline-first, graph protocol to sync the web.
-- [docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet)
-  - Jitsi Meet on Docker
-- [data](https://github.com/opencovid19-fr/data)
-  - Consolidation des données de sources officielles concernant l'épidémie de COVID19
-- [covid19](https://github.com/pomber/covid19)
-  - JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily
-- [fabric.js](https://github.com/fabricjs/fabric.js)
-  - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
-- [core-js](https://github.com/zloirock/core-js)
-  - Standard Library
-- [Viewers](https://github.com/OHIF/Viewers)
-  - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker, plus shared extension packages
+- [API](https://github.com/NovelCOVID/API)
+  - API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
 - [matrix](https://github.com/ResultadosDigitais/matrix)
   - #matrix is the online open-source workplace inspired in sococo.com for distributed teams to have the experience of work together each day, side-by-side. No matter where team members might be. Working in an online workplace is even more productive when people feeling in the same space.
-- [three.js](https://github.com/mrdoob/three.js)
-  - JavaScript 3D library.
-- [sequelize](https://github.com/sequelize/sequelize)
-  - An easy-to-use multi SQL dialect ORM for Node.js
-- [deck.gl](https://github.com/uber/deck.gl)
-  - WebGL2 powered geospatial visualization layers
-- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
-  - 一个基于 electron 的音乐软件
+- [bbbot](https://github.com/DanielHe4rt/bbbot)
+  - botzada pra vota no ping pong do bbb
+- [react-vis](https://github.com/uber/react-vis)
+  - Data Visualization Components
+- [Rules](https://github.com/lhie1/Rules)
+  - Rules / 规则：Surge / Shadowrocket / Surfboard / Clash
+- [covid-19-py](https://github.com/penguin-academy/covid-19-py)
+  - COVID-19 Web App for Paraguay
+- [corona-analytic-api](https://github.com/rodrilima/corona-analytic-api)
+  - API that generates information about coronavirus (COVID19) cases in the states of Brazil and other parts of the world
+- [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
+  - 🦠Useful projects and resources for COVID-19 (2019 novel Coronavirus)
+- [Script](https://github.com/NobyDa/Script)
+  - This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.
+- [surge](https://github.com/yichahucha/surge)
+  - script
+- [coronadatascraper](https://github.com/lazd/coronadatascraper)
+  - A scraper that pulls coronavirus case data from verified sources.
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+  - freeCodeCamp.org's open source codebase and curriculum. Learn to code for free together with millions of people.
+- [core-js](https://github.com/zloirock/core-js)
+  - Standard Library
+- [leetcode](https://github.com/azl397985856/leetcode)
+  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+- [homebridge](https://github.com/homebridge/homebridge)
+  - HomeKit support for the impatient
+- [graphql-engine](https://github.com/hasura/graphql-engine)
+  - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+- [covid19](https://github.com/pomber/covid19)
+  - JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily
+- [html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
+  - A professional front-end template for building fast, robust, and adaptable web apps or sites.
+- [TaskConfig](https://github.com/sazs34/TaskConfig)
+  - all_in_one合并脚本，饿了么签到加翻牌，自定义天气，贴吧签到，以及smartjs
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+  -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [private-kit](https://github.com/tripleblindmarket/private-kit)
+  - Private Kit, an open source privacy preserving system for using personal information
