@@ -1,51 +1,51 @@
 # rust
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-  - A curated list of Rust code and resources.
-- [warp](https://github.com/seanmonstar/warp)
-  - A super-easy, composable, web server framework for warp speeds.
-- [druid](https://github.com/xi-editor/druid)
-  - A data-first Rust-native UI design toolkit.
-- [crates.io](https://github.com/rust-lang/crates.io)
-  - Source code for crates.io
-- [Rocket](https://github.com/SergioBenitez/Rocket)
-  - A web framework for Rust.
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix web is a small, pragmatic, and extremely fast rust web framework.
-- [fd](https://github.com/sharkdp/fd)
-  - A simple, fast and user-friendly alternative to 'find'
-- [openethereum](https://github.com/openethereum/openethereum)
-  - Fast and feature-rich multi-network Ethereum client.
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
-- [gluon](https://github.com/gluon-lang/gluon)
-  - A static, type inferred and embeddable language written in Rust.
-- [zenith](https://github.com/bvaisvil/zenith)
-  - Zenith - sort of like top or htop but with zoom-able charts, network, and disk usage
-- [kecc-public](https://github.com/kaist-cp/kecc-public)
-  - KECC: KAIST Educational C Compiler
-- [rust-clippy](https://github.com/rust-lang/rust-clippy)
-  - A bunch of lints to catch common mistakes and improve your Rust code
-- [ritual](https://github.com/rust-qt/ritual)
-  - Use C++ libraries from Rust
-- [firecracker](https://github.com/firecracker-microvm/firecracker)
-  - Secure and fast microVMs for serverless computing.
 - [rust-ipfs](https://github.com/ipfs-rust/rust-ipfs)
   - The Interplanetary File System (IPFS), implemented in Rust
-- [tonic](https://github.com/hyperium/tonic)
-  - A native gRPC client & server implementation with async/await support.
-- [RustPython](https://github.com/RustPython/RustPython)
-  - A Python Interpreter written in Rust
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [warp](https://github.com/seanmonstar/warp)
+  - A super-easy, composable, web server framework for warp speeds.
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [rust-libp2p](https://github.com/libp2p/rust-libp2p)
+  - The Rust Implementation of libp2p networking stack.
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
+- [starship](https://github.com/starship/starship)
+  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [crates.io](https://github.com/rust-lang/crates.io)
+  - Source code for crates.io
+- [beef](https://github.com/maciejhirsz/beef)
+  - Faster, more compact implementation of std::borrow::Cow
+- [grin](https://github.com/mimblewimble/grin)
+  - Minimal implementation of the Mimblewimble protocol.
+- [kecc-public](https://github.com/kaist-cp/kecc-public)
+  - KECC: KAIST Educational C Compiler
 - [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
   - Ultra relevant, instant, and typo-tolerant full-text search API
-- [futures-rs](https://github.com/rust-lang/futures-rs)
-  - Zero-cost asynchronous programming in Rust
-- [talent-plan](https://github.com/pingcap/talent-plan)
-  - PingCAP training courses
+- [bastion](https://github.com/bastion-rs/bastion)
+  - Highly-available Distributed Fault-tolerant Runtime
+- [ritual](https://github.com/rust-qt/ritual)
+  - Use C++ libraries from Rust
+- [gluon](https://github.com/gluon-lang/gluon)
+  - A static, type inferred and embeddable language written in Rust.
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix web is a small, pragmatic, and extremely fast rust web framework.
+- [codespan](https://github.com/brendanzab/codespan)
+  - Utilities for dealing with source code locations and pretty diagnostic formatting
 - [llvm-ir](https://github.com/cdisselkoen/llvm-ir)
   - LLVM IR in natural Rust data structures
-- [flamegraph](https://github.com/flamegraph-rs/flamegraph)
-  - Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3
+- [boringtun](https://github.com/cloudflare/boringtun)
+  - Userspace WireGuard® Implementation in Rust
+- [nix](https://github.com/nix-rust/nix)
+  - Rust friendly bindings to *nix APIs
+- [alacritty](https://github.com/alacritty/alacritty)
+  - A cross-platform, GPU-accelerated terminal emulator
+- [dodrio](https://github.com/fitzgen/dodrio)
+  - A fast, bump-allocated virtual DOM library for Rust and WebAssembly.
+- [materialize](https://github.com/MaterializeInc/materialize)
+  - The Streaming Data Warehouse
+- [oha](https://github.com/hatoo/oha)
+  - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.

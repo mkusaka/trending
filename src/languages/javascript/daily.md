@@ -1,51 +1,51 @@
 # javascript
-- [coronavirus-tracker-cli](https://github.com/sagarkarira/coronavirus-tracker-cli)
-  - Track conronavirus cases from command line. curl https://corona-stats.online/
-- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
-  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [tabler-icons](https://github.com/tabler/tabler-icons)
+  - A set of over 300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [API](https://github.com/NovelCOVID/API)
   - API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
-- [matrix](https://github.com/ResultadosDigitais/matrix)
-  - #matrix is the online open-source workplace inspired in sococo.com for distributed teams to have the experience of work together each day, side-by-side. No matter where team members might be. Working in an online workplace is even more productive when people feeling in the same space.
-- [bbbot](https://github.com/DanielHe4rt/bbbot)
-  - botzada pra vota no ping pong do bbb
-- [react-vis](https://github.com/uber/react-vis)
-  - Data Visualization Components
-- [Rules](https://github.com/lhie1/Rules)
-  - Rules / 规则：Surge / Shadowrocket / Surfboard / Clash
-- [covid-19-py](https://github.com/penguin-academy/covid-19-py)
-  - COVID-19 Web App for Paraguay
-- [corona-analytic-api](https://github.com/rodrilima/corona-analytic-api)
-  - API that generates information about coronavirus (COVID19) cases in the states of Brazil and other parts of the world
-- [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
-  - 🦠Useful projects and resources for COVID-19 (2019 novel Coronavirus)
-- [Script](https://github.com/NobyDa/Script)
-  - This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.
-- [surge](https://github.com/yichahucha/surge)
-  - script
-- [coronadatascraper](https://github.com/lazd/coronadatascraper)
-  - A scraper that pulls coronavirus case data from verified sources.
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-  - freeCodeCamp.org's open source codebase and curriculum. Learn to code for free together with millions of people.
-- [core-js](https://github.com/zloirock/core-js)
-  - Standard Library
-- [leetcode](https://github.com/azl397985856/leetcode)
-  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
-- [homebridge](https://github.com/homebridge/homebridge)
-  - HomeKit support for the impatient
-- [graphql-engine](https://github.com/hasura/graphql-engine)
-  - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
-- [covid19](https://github.com/pomber/covid19)
-  - JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily
-- [html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
-  - A professional front-end template for building fast, robust, and adaptable web apps or sites.
-- [TaskConfig](https://github.com/sazs34/TaskConfig)
-  - all_in_one合并脚本，饿了么签到加翻牌，自定义天气，贴吧签到，以及smartjs
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
-  -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [AndroidSecurityStudy](https://github.com/r0ysue/AndroidSecurityStudy)
+  - 安卓应用安全学习
 - [private-kit](https://github.com/tripleblindmarket/private-kit)
   - Private Kit, an open source privacy preserving system for using personal information
+- [axios](https://github.com/axios/axios)
+  - Promise based HTTP client for the browser and node.js
+- [vuex](https://github.com/vuejs/vuex)
+  - 🗃️ Centralized State Management for Vue.js.
+- [express](https://github.com/expressjs/express)
+  - Fast, unopinionated, minimalist web framework for node.
+- [covid19india](https://github.com/covid19india/covid19india)
+  - Source code of main website
+- [matrix](https://github.com/ResultadosDigitais/matrix)
+  - #matrix is the online open-source workplace inspired in sococo.com for distributed teams to have the experience of work together each day, side-by-side. No matter where team members might be. Working in an online workplace is even more productive when people feeling in the same space.
+- [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
+  - 🦠Useful projects and resources for COVID-19 (2019 novel Coronavirus)
+- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
+  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [data](https://github.com/opencovid19-fr/data)
+  - Consolidation des données de sources officielles concernant l'épidémie de COVID19
+- [quark-h5](https://github.com/huangwei9527/quark-h5)
+  - 基于vue2 + koa2的 H5制作工具。让不会写代码的人也能轻松快速上手制作H5页面。类似易企秀、百度H5等H5制作、建站工具
+- [covid19](https://github.com/stevenliuyi/covid19)
+  - an interactive, animated COVID-19 coronavirus map to track the outbreak over time by country and by region for selected countries (including China, Italy, Korea, Japan, France, Germany, United States)
+- [markdown-here](https://github.com/adam-p/markdown-here)
+  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+- [quarantine-hero](https://github.com/kenodressel/quarantine-hero)
+  - 
+- [javascript](https://github.com/airbnb/javascript)
+  - JavaScript Style Guide
+- [next.js](https://github.com/zeit/next.js)
+  - The React Framework
+- [strapi](https://github.com/strapi/strapi)
+  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [bootstrap](https://github.com/twbs/bootstrap)
+  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [curso-javascript-ninja](https://github.com/da2k/curso-javascript-ninja)
+  - Curso Javascript Ninja
+- [covid19japan](https://github.com/reustle/covid19japan)
+  - 
+- [covid19](https://github.com/pomber/covid19)
+  - JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily
+- [esercizi-di-programmazione-javascript](https://github.com/AlbertoOlla/esercizi-di-programmazione-javascript)
+  - Esercizi di informatica! Impara a programmare, metti alla prova!
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
