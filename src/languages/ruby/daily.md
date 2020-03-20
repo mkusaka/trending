@@ -1,51 +1,51 @@
 # ruby
-- [greenlight](https://github.com/bigbluebutton/greenlight)
-  - A really simple end-user interface for your BigBlueButton server.
+- [covid-volunteers](https://github.com/sradu/covid-volunteers)
+  - 
 - [covid](https://github.com/lifen-labs/covid)
   - Covid-19 patients' self-monitoring at home via forms sent by SMS
-- [rubocop](https://github.com/rubocop-hq/rubocop)
-  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [scalelite](https://github.com/blindsidenetworks/scalelite)
-  - Scalable load balancer for BigBlueButton
-- [ruby](https://github.com/ruby/ruby)
-  - The Ruby Programming Language [mirror]
-- [discourse](https://github.com/discourse/discourse)
-  - A platform for community discussion. Free, open, simple.
-- [logstash](https://github.com/elastic/logstash)
-  - Logstash - transport and process your logs, events, or other data
-- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+- [choosealicense.com](https://github.com/github/choosealicense.com)
+  - A site to provide non-judgmental guidance on choosing a license for your open source project
+- [proyecto](https://github.com/IIC2143-2020-1/proyecto)
+  - Repositorio para el proyecto semestral de IIC2143 Ingeniería de Software 2020-1
+- [homebrew-core](https://github.com/Homebrew/homebrew-core)
+  - 🍻 Default formulae for the missing package manager for macOS
+- [devise](https://github.com/heartcombo/devise)
+  - Flexible authentication solution for Rails with Warden.
+- [huginn](https://github.com/huginn/huginn)
+  - Create agents that monitor and act on your behalf. Your agents are standing by!
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
+  - Metasploit Framework
+- [evil-winrm](https://github.com/Hackplayers/evil-winrm)
+  - The ultimate WinRM shell for hacking/pentesting
+- [scientist](https://github.com/github/scientist)
+  - 🔬 A Ruby library for carefully refactoring critical paths.
+- [cancancan](https://github.com/CanCanCommunity/cancancan)
+  - The authorization Gem for Ruby on Rails.
+- [dependabot-core](https://github.com/dependabot/dependabot-core)
+  - 🤖The core logic behind Dependabot's update PR creation
+- [linguist](https://github.com/github/linguist)
+  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [sidekiq](https://github.com/mperham/sidekiq)
   - Simple, efficient background processing for Ruby
-- [ml_competition_platform](https://github.com/AillisInc/ml_competition_platform)
-  - Kaggle-like machine learning competition platform
-- [js-rails-as-api-extracting-a-service-class-seattle-web-012720](https://github.com/learn-co-students/js-rails-as-api-extracting-a-service-class-seattle-web-012720)
+- [explore](https://github.com/github/explore)
+  - Community-curated topic and collection pages on GitHub
+- [logstash](https://github.com/elastic/logstash)
+  - Logstash - transport and process your logs, events, or other data
+- [active-record-migrations-dc-web-030920](https://github.com/learn-co-students/active-record-migrations-dc-web-030920)
   - 
-- [js-rails-as-api-using-fast-json-api-seattle-web-012720](https://github.com/learn-co-students/js-rails-as-api-using-fast-json-api-seattle-web-012720)
+- [active-record-writing-migrations-lab-nyc-web-030920](https://github.com/learn-co-students/active-record-writing-migrations-lab-nyc-web-030920)
   - 
-- [WhatWeb](https://github.com/urbanadventurer/WhatWeb)
-  - Next generation web scanner
-- [sample_app](https://github.com/tejas-kc/sample_app)
-  - Ruby on Rails Tutorial sample application
-- [js-rails-as-api-rendering-different-content-types-using-rails-seattle-web-012720](https://github.com/learn-co-students/js-rails-as-api-rendering-different-content-types-using-rails-seattle-web-012720)
-  - 
-- [js-rails-as-api-custom-json-rendering-using-rails-seattle-web-012720](https://github.com/learn-co-students/js-rails-as-api-custom-json-rendering-using-rails-seattle-web-012720)
-  - 
-- [homeworks-2020](https://github.com/labs-ruby/homeworks-2020)
-  - The repo contains Spring-2020 course homeworks 📗
 - [active-record-intro-to-rake-nyc-web-030920](https://github.com/learn-co-students/active-record-intro-to-rake-nyc-web-030920)
   - 
-- [js-rails-as-api-rendering-related-object-data-in-json-seattle-web-012720](https://github.com/learn-co-students/js-rails-as-api-rendering-related-object-data-in-json-seattle-web-012720)
+- [active-record-costume-store-lab-nyc-web-030920](https://github.com/learn-co-students/active-record-costume-store-lab-nyc-web-030920)
   - 
-- [html-iframes-lab-online-web-sp-000](https://github.com/learn-co-students/html-iframes-lab-online-web-sp-000)
+- [active-record-migrations-nyc-web-030920](https://github.com/learn-co-students/active-record-migrations-nyc-web-030920)
   - 
-- [html5-video-embed-lab-online-web-sp-000](https://github.com/learn-co-students/html5-video-embed-lab-online-web-sp-000)
+- [active-record-intro-to-rake-dc-web-030920](https://github.com/learn-co-students/active-record-intro-to-rake-dc-web-030920)
   - 
-- [ruby-object-initialize-lab-onl01-seng-pt-030220](https://github.com/learn-co-students/ruby-object-initialize-lab-onl01-seng-pt-030220)
+- [active-record-translating-from-orm-to-ar-nyc-web-030920](https://github.com/learn-co-students/active-record-translating-from-orm-to-ar-nyc-web-030920)
   - 
-- [activerecord-associations-intro-onl01-seng-ft-021020](https://github.com/learn-co-students/activerecord-associations-intro-onl01-seng-ft-021020)
+- [active-record-translating-from-orm-to-ar-dc-web-030920](https://github.com/learn-co-students/active-record-translating-from-orm-to-ar-dc-web-030920)
   - 
-- [ruby-enumerables-reverse-each-word-lab-denver-web-033020](https://github.com/learn-co-students/ruby-enumerables-reverse-each-word-lab-denver-web-033020)
-  - 
-- [ruby-enumerables-cartoon-collections-lab-denver-web-033020](https://github.com/learn-co-students/ruby-enumerables-cartoon-collections-lab-denver-web-033020)
-  - 
+- [fq-book](https://github.com/hoochanlon/fq-book)
+  - 📖 《这本书能让你连接互联网》科学上网Freestyle，了解网络基础知识与实践蹭网操作

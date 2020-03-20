@@ -1,51 +1,51 @@
 # general
-- [introRL](https://github.com/zhoubolei/introRL) : 
-  - Intro to Reinforcement Learning (强化学习纲要）
-- [covid19_scenarios](https://github.com/neherlab/covid19_scenarios) : TypeScript
-  - Models of COVID-19 outbreak trajectories and hospital demand
-- [course-v4](https://github.com/fastai/course-v4) : Jupyter Notebook
-  - Pre-release of v4 of course.fast.ai
-- [ventilator](https://github.com/jcl5m1/ventilator) : C++
-  - Low-Cost Open Source Ventilator
-- [backstage](https://github.com/spotify/backstage) : TypeScript
-  - Backstage is an open platform for building developer portals
-- [automl](https://github.com/google/automl) : Python
-  - Google Brain AutoML
-- [computer-science](https://github.com/ossu/computer-science) : 
-  - 🎓 Path to a free self-taught education in Computer Science!
-- [covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset) : 
-  - We are building an open database of COVID-19 cases with chest X-ray or CT images.
-- [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) : 
-  - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
-- [terminal](https://github.com/microsoft/terminal) : C++
-  - The new Windows Terminal and the original Windows console host, all in the same place!
-- [zju-icicles](https://github.com/QSCTech/zju-icicles) : C
-  - 浙江大学课程攻略共享计划
-- [COVID-19](https://github.com/midas-network/COVID-19) : TeX
-  - 2019 novel coronavirus repository
+- [tabler-icons](https://github.com/tabler/tabler-icons) : JavaScript
+  - A set of over 300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tye](https://github.com/dotnet/tye) : C#
+  - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
+- [cert-covid19](https://github.com/cwoomi/cert-covid19) : 
+  - Informationssammlung zum Thema CoVid-19
 - [NymphCast](https://github.com/MayaPosch/NymphCast) : C++
   - Audio and video casting system with support for custom applications.
-- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
-  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [coronavirus-tracker-cli](https://github.com/sagarkarira/coronavirus-tracker-cli) : JavaScript
-  - Track conronavirus cases from command line. curl https://corona-stats.online/
-- [covid19za](https://github.com/dsfsi/covid19za) : Jupyter Notebook
-  - COVID 19 Data and Dashboard for South Africa
-- [covid-sortie](https://github.com/vikbez/covid-sortie) : HTML
-  - Formulaire rapide d'autorisation de sortie covid-19
-- [community](https://github.com/Ethiopia-COVID19/community) : 
-  - Welcome to Ethiopia COVID-19 Response Task Force Community
-- [newbee-mall](https://github.com/newbee-ltd/newbee-mall) : Java
-  - newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
-- [jitsi-meet](https://github.com/jitsi/jitsi-meet) : JavaScript
-  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [ionic](https://github.com/ionic-team/ionic) : TypeScript
-  - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
-- [lens](https://github.com/lensapp/lens) : TypeScript
-  - Lens - The Kubernetes IDE
-- [django](https://github.com/django/django) : Python
-  - The Web framework for perfectionists with deadlines.
+- [introRL](https://github.com/zhoubolei/introRL) : 
+  - Intro to Reinforcement Learning (强化学习纲要）
+- [automl](https://github.com/google/automl) : Python
+  - Google Brain AutoML
+- [Python](https://github.com/TheAlgorithms/Python) : Python
+  - All Algorithms implemented in Python
+- [backstage](https://github.com/spotify/backstage) : TypeScript
+  - Backstage is an open platform for building developer portals
+- [piranha](https://github.com/uber/piranha) : Java
+  - A tool for refactoring code related to feature flag APIs
+- [covid19-cases-switzerland](https://github.com/daenuprobst/covid19-cases-switzerland) : HTML
+  - Data from BAG Tweets made useful.
+- [ventilator](https://github.com/jcl5m1/ventilator) : C++
+  - Low-Cost Open Source Ventilator or PAPR
+- [app](https://github.com/WorldHealthOrganization/app) : TypeScript
+  - World Health Organization App
 - [API](https://github.com/NovelCOVID/API) : JavaScript
   - API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
-- [matrix](https://github.com/ResultadosDigitais/matrix) : JavaScript
-  - #matrix is the online open-source workplace inspired in sococo.com for distributed teams to have the experience of work together each day, side-by-side. No matter where team members might be. Working in an online workplace is even more productive when people feeling in the same space.
+- [covid19-dashboard](https://github.com/github/covid19-dashboard) : Jupyter Notebook
+  - A site that displays up to date COVID-19 stats, powered by fastpages.
+- [AndroidSecurityStudy](https://github.com/r0ysue/AndroidSecurityStudy) : JavaScript
+  - 安卓应用安全学习
+- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) : Python
+  - 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（武汉加油！中国加油！世界加油！）
+- [private-kit](https://github.com/tripleblindmarket/private-kit) : JavaScript
+  - Private Kit, an open source privacy preserving system for using personal information
+- [zju-icicles](https://github.com/QSCTech/zju-icicles) : C
+  - 浙江大学课程攻略共享计划
+- [computer-science](https://github.com/ossu/computer-science) : 
+  - 🎓 Path to a free self-taught education in Computer Science!
+- [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) : 
+  - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+- [CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) : 
+  - 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）
+- [axios](https://github.com/axios/axios) : JavaScript
+  - Promise based HTTP client for the browser and node.js
+- [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) : HTML
+  - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
+- [hent-AI](https://github.com/natethegreate/hent-AI) : HTML
+  - Automation of censor bar detection
+- [helm](https://github.com/chuabingquan/helm) : Dart
+  - 💪 Helm is an app that gamifies stress/anxiety/depression management in an actionable manner to provide relief.
