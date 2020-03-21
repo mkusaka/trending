@@ -1,51 +1,51 @@
 # general
-- [tabler-icons](https://github.com/tabler/tabler-icons) : JavaScript
-  - A set of over 300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [tye](https://github.com/dotnet/tye) : C#
-  - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
-- [cert-covid19](https://github.com/cwoomi/cert-covid19) : 
-  - Informationssammlung zum Thema CoVid-19
-- [NymphCast](https://github.com/MayaPosch/NymphCast) : C++
-  - Audio and video casting system with support for custom applications.
-- [introRL](https://github.com/zhoubolei/introRL) : 
-  - Intro to Reinforcement Learning (强化学习纲要）
-- [automl](https://github.com/google/automl) : Python
-  - Google Brain AutoML
-- [Python](https://github.com/TheAlgorithms/Python) : Python
-  - All Algorithms implemented in Python
-- [backstage](https://github.com/spotify/backstage) : TypeScript
-  - Backstage is an open platform for building developer portals
-- [piranha](https://github.com/uber/piranha) : Java
-  - A tool for refactoring code related to feature flag APIs
-- [covid19-cases-switzerland](https://github.com/daenuprobst/covid19-cases-switzerland) : HTML
-  - Data from BAG Tweets made useful.
-- [ventilator](https://github.com/jcl5m1/ventilator) : C++
-  - Low-Cost Open Source Ventilator or PAPR
-- [app](https://github.com/WorldHealthOrganization/app) : TypeScript
-  - World Health Organization App
-- [API](https://github.com/NovelCOVID/API) : JavaScript
-  - API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
-- [covid19-dashboard](https://github.com/github/covid19-dashboard) : Jupyter Notebook
-  - A site that displays up to date COVID-19 stats, powered by fastpages.
-- [AndroidSecurityStudy](https://github.com/r0ysue/AndroidSecurityStudy) : JavaScript
-  - 安卓应用安全学习
-- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) : Python
-  - 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（武汉加油！中国加油！世界加油！）
-- [private-kit](https://github.com/tripleblindmarket/private-kit) : JavaScript
-  - Private Kit, an open source privacy preserving system for using personal information
+- [covid19_scenarios](https://github.com/neherlab/covid19_scenarios) : TypeScript
+  - Models of COVID-19 outbreak trajectories and hospital demand
+- [baseline](https://github.com/ethereum-oasis/baseline) : JavaScript
+  - The Baseline Protocol is an open source initiative that combines advances in cryptography, messaging, and blockchain to execute secure and private business processes at low cost via the public Ethereum Mainnet. The protocol will enable confidential and complex collaboration between enterprises without leaving any sensitive data on-chain
+- [wpt](https://github.com/web-platform-tests/wpt) : HTML
+  - Test suites for Web platform specs — including WHATWG, W3C, and others
 - [zju-icicles](https://github.com/QSCTech/zju-icicles) : C
   - 浙江大学课程攻略共享计划
+- [abp](https://github.com/abpframework/abp) : C#
+  - Open Source Web Application Framework for ASP.NET Core
+- [browser-2020](https://github.com/luruke/browser-2020) : 
+  - Things you can do with a browser in 2020 ☕️
+- [automl](https://github.com/google/automl) : Python
+  - Google Brain AutoML
+- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) : Python
+  - 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（武汉加油！中国加油！世界加油！）
+- [cert-covid19](https://github.com/cwoomi/cert-covid19) : 
+  - Informationssammlung zum Thema CoVid-19
+- [Python](https://github.com/TheAlgorithms/Python) : Python
+  - All Algorithms implemented in Python
+- [LoupGarou](https://github.com/leomelki/LoupGarou) : Java
+  - LoupGarou dans Minecraft par leomelki
+- [rapidjson](https://github.com/Tencent/rapidjson) : C++
+  - A fast JSON parser/generator for C++ with both SAX/DOM style API
+- [covid19-cases-switzerland](https://github.com/daenuprobst/covid19-cases-switzerland) : HTML
+  - Data from BAG Tweets made useful.
+- [ish](https://github.com/tbodt/ish) : C
+  - Linux shell for iOS
+- [covid_19](https://github.com/openZH/covid_19) : R
+  - COVID19 case numbers Cantons of Switzerland and Principality of Liechtenstein (FL) - case numbers include persons tested in the respective area. The data is updated at best once a day (times of collection and update may vary). Help closing the gaps:
+- [ultimate-coding-resources](https://github.com/PizzaPokerGuy/ultimate-coding-resources) : 
+  - A collection of the best resources for programming, web development, computer science and more.
+- [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) : JavaScript
+  - 🦠Useful projects and resources for COVID-19 (2019 novel Coronavirus)
+- [tabler-icons](https://github.com/tabler/tabler-icons) : JavaScript
+  - A set of over 300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [NymphCast](https://github.com/MayaPosch/NymphCast) : C++
+  - Audio and video casting system with support for custom applications.
+- [AndroidSecurityStudy](https://github.com/r0ysue/AndroidSecurityStudy) : JavaScript
+  - 安卓应用安全学习
+- [vue-next](https://github.com/vuejs/vue-next) : TypeScript
+  - The next major version of Vue (WIP)
 - [computer-science](https://github.com/ossu/computer-science) : 
   - 🎓 Path to a free self-taught education in Computer Science!
-- [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) : 
-  - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
-- [CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) : 
-  - 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）
-- [axios](https://github.com/axios/axios) : JavaScript
-  - Promise based HTTP client for the browser and node.js
-- [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) : HTML
-  - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
-- [hent-AI](https://github.com/natethegreate/hent-AI) : HTML
-  - Automation of censor bar detection
-- [helm](https://github.com/chuabingquan/helm) : Dart
-  - 💪 Helm is an app that gamifies stress/anxiety/depression management in an actionable manner to provide relief.
+- [jitsi-meet](https://github.com/jitsi/jitsi-meet) : JavaScript
+  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [tye](https://github.com/dotnet/tye) : C#
+  - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
+- [directus](https://github.com/directus/directus) : PHP
+  - Directus 8 Suite — Future-Proof Headless CMS & API for Custom Databases

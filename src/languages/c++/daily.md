@@ -1,51 +1,51 @@
 # c++
+- [rapidjson](https://github.com/Tencent/rapidjson)
+  - A fast JSON parser/generator for C++ with both SAX/DOM style API
 - [NymphCast](https://github.com/MayaPosch/NymphCast)
   - Audio and video casting system with support for custom applications.
+- [googletest](https://github.com/google/googletest)
+  - Googletest - Google Testing and Mocking Framework
 - [ventilator](https://github.com/jcl5m1/ventilator)
   - Low-Cost Open Source Ventilator or PAPR
-- [QWidgetDemo](https://github.com/feiyangqingyun/QWidgetDemo)
-  - Qt编写的一些开源的demo，预计会有100多个，一直持续更新完善，代码简洁易懂注释详细，每个都是独立项目，非常适合初学者，代码随意传播使用，拒绝打赏和捐赠，欢迎留言评论！
-- [nodegui](https://github.com/nodegui/nodegui)
-  - A library for building cross-platform native desktop applications with Node.js and CSS 🚀. For React NodeGui, visit: https://github.com/nodegui/react-nodegui ⚛️
-- [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
-  - All Algorithms implemented in C++
-- [opencv_contrib](https://github.com/opencv/opencv_contrib)
-  - Repository for OpenCV's extra modules
-- [xgboost](https://github.com/dmlc/xgboost)
-  - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
-- [mongo](https://github.com/mongodb/mongo)
-  - The MongoDB Database
-- [tink](https://github.com/google/tink)
-  - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
-- [kiero](https://github.com/Rebzzel/kiero)
-  - Universal graphical hook for a D3D9-D3D12, OpenGL and Vulcan based games.
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [flatbuffers](https://github.com/google/flatbuffers)
-  - FlatBuffers: Memory Efficient Serialization Library
-- [pcl](https://github.com/PointCloudLibrary/pcl)
-  - Point Cloud Library (PCL)
-- [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
-  - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly
-- [opencv](https://github.com/opencv/opencv)
-  - Open Source Computer Vision Library
 - [interview](https://github.com/huihut/interview)
   - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。
-- [rpcs3](https://github.com/RPCS3/rpcs3)
-  - PS3 emulator/debugger
-- [EAST](https://github.com/argman/EAST)
-  - A tensorflow implementation of EAST text detector
-- [onnxruntime](https://github.com/microsoft/onnxruntime)
-  - ONNX Runtime: cross-platform, high performance scoring engine for ML models
-- [Play-Leetcode](https://github.com/liuyubobobo/Play-Leetcode)
-  - My Solutions to Leetcode problems. All solutions support C++ language, some support Java and Python. Multiple solutions will be given by most problems. Enjoy:) 我的Leetcode解答。所有的问题都支持C++语言，一部分问题支持Java语言。近乎所有问题都会提供多个算法解决。大家加油！：）
-- [terminal](https://github.com/microsoft/terminal)
-  - The new Windows Terminal and the original Windows console host, all in the same place!
-- [Catch2](https://github.com/catchorg/Catch2)
-  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-- [HyperLPR](https://github.com/zeusees/HyperLPR)
-  - 基于深度学习高性能中文车牌识别 High Performance Chinese License Plate Recognition Framework.
-- [librealsense](https://github.com/IntelRealSense/librealsense)
-  - Intel® RealSense™ SDK
-- [clang](https://github.com/llvm-mirror/clang)
-  - Mirror of official clang git repository located at http://llvm.org/git/clang. Updated every five minutes.
+- [Proton](https://github.com/ValveSoftware/Proton)
+  - Compatibility tool for Steam Play based on Wine and additional components
+- [jsoncpp](https://github.com/open-source-parsers/jsoncpp)
+  - A C++ library for interacting with JSON.
+- [pybind11](https://github.com/pybind/pybind11)
+  - Seamless operability between C++11 and Python
+- [api-connectors](https://github.com/BitMEX/api-connectors)
+  - Libraries for connecting to the BitMEX API.
+- [godot](https://github.com/godotengine/godot)
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [Marlin](https://github.com/MarlinFirmware/Marlin)
+  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
+- [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
+  - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly
+- [DirectX-Graphics-Samples](https://github.com/microsoft/DirectX-Graphics-Samples)
+  - This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows.
+- [spdlog](https://github.com/gabime/spdlog)
+  - Fast C++ logging library.
+- [srt](https://github.com/Haivision/srt)
+  - Secure, Reliable, Transport
+- [covid-respirator](https://github.com/covid-response-projects/covid-respirator)
+  - 🦠 3D printable COVID-19 DIY respirator. Aims at helping hospitals cope with a possible shortage of professional respirators during the outbreak.
+- [asio](https://github.com/chriskohlhoff/asio)
+  - Asio C++ Library
+- [dxvk](https://github.com/doitsujin/dxvk)
+  - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
+- [ZLMediaKit](https://github.com/xiongziliang/ZLMediaKit)
+  - A lightweight RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/GB28181 server and client framework based on C++11
+- [cuda-samples](https://github.com/NVIDIA/cuda-samples)
+  - Samples for CUDA Developers which demonstrates features in CUDA Toolkit
+- [faiss](https://github.com/facebookresearch/faiss)
+  - A library for efficient similarity search and clustering of dense vectors.
+- [USD](https://github.com/PixarAnimationStudios/USD)
+  - Universal Scene Description
+- [yuzu](https://github.com/yuzu-emu/yuzu)
+  - Nintendo Switch Emulator
+- [mumble](https://github.com/mumble-voip/mumble)
+  - Mumble is an open source, low-latency, high quality voice chat software primarily intended for use while gaming.
+- [doctest](https://github.com/onqtam/doctest)
+  - The fastest feature-rich C++11/14/17/20 single-header testing framework for unit tests and TDD

@@ -1,51 +1,51 @@
 # javascript
-- [tabler-icons](https://github.com/tabler/tabler-icons)
-  - A set of over 300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [API](https://github.com/NovelCOVID/API)
-  - API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
-- [AndroidSecurityStudy](https://github.com/r0ysue/AndroidSecurityStudy)
-  - 安卓应用安全学习
-- [private-kit](https://github.com/tripleblindmarket/private-kit)
-  - Private Kit, an open source privacy preserving system for using personal information
-- [axios](https://github.com/axios/axios)
-  - Promise based HTTP client for the browser and node.js
-- [vuex](https://github.com/vuejs/vuex)
-  - 🗃️ Centralized State Management for Vue.js.
-- [express](https://github.com/expressjs/express)
-  - Fast, unopinionated, minimalist web framework for node.
-- [covid19india](https://github.com/covid19india/covid19india)
-  - Source code of main website
-- [matrix](https://github.com/ResultadosDigitais/matrix)
-  - #matrix is the online open-source workplace inspired in sococo.com for distributed teams to have the experience of work together each day, side-by-side. No matter where team members might be. Working in an online workplace is even more productive when people feeling in the same space.
+- [baseline](https://github.com/ethereum-oasis/baseline)
+  - The Baseline Protocol is an open source initiative that combines advances in cryptography, messaging, and blockchain to execute secure and private business processes at low cost via the public Ethereum Mainnet. The protocol will enable confidential and complex collaboration between enterprises without leaving any sensitive data on-chain
 - [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
   - 🦠Useful projects and resources for COVID-19 (2019 novel Coronavirus)
+- [tabler-icons](https://github.com/tabler/tabler-icons)
+  - A set of over 300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [AndroidSecurityStudy](https://github.com/r0ysue/AndroidSecurityStudy)
+  - 安卓应用安全学习
 - [jitsi-meet](https://github.com/jitsi/jitsi-meet)
   - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [data](https://github.com/opencovid19-fr/data)
-  - Consolidation des données de sources officielles concernant l'épidémie de COVID19
-- [quark-h5](https://github.com/huangwei9527/quark-h5)
-  - 基于vue2 + koa2的 H5制作工具。让不会写代码的人也能轻松快速上手制作H5页面。类似易企秀、百度H5等H5制作、建站工具
+- [jira_clone](https://github.com/oldboyxx/jira_clone)
+  - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
+- [matrix](https://github.com/ResultadosDigitais/matrix)
+  - #matrix is the online open-source workplace inspired in sococo.com for distributed teams to have the experience of work together each day, side-by-side. No matter where team members might be. Working in an online workplace is even more productive when people feeling in the same space.
+- [API](https://github.com/NovelCOVID/API)
+  - API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+  - Headless Chrome Node.js API
+- [d3](https://github.com/d3/d3)
+  - Bring data to life with SVG, Canvas and HTML. 📊📈🎉
+- [babel](https://github.com/babel/babel)
+  - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [covid19](https://github.com/stevenliuyi/covid19)
   - an interactive, animated COVID-19 coronavirus map to track the outbreak over time by country and by region for selected countries (including China, Italy, Korea, Japan, France, Germany, United States)
-- [markdown-here](https://github.com/adam-p/markdown-here)
-  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
-- [quarantine-hero](https://github.com/kenodressel/quarantine-hero)
-  - 
-- [javascript](https://github.com/airbnb/javascript)
-  - JavaScript Style Guide
-- [next.js](https://github.com/zeit/next.js)
-  - The React Framework
-- [strapi](https://github.com/strapi/strapi)
-  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
-- [bootstrap](https://github.com/twbs/bootstrap)
-  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [curso-javascript-ninja](https://github.com/da2k/curso-javascript-ninja)
-  - Curso Javascript Ninja
-- [covid19japan](https://github.com/reustle/covid19japan)
-  - 
+- [samples](https://github.com/webrtc/samples)
+  - WebRTC Web demos and samples
+- [secret-hitler](https://github.com/cozuya/secret-hitler)
+  - A web adaptation of the social deduction board game Secret Hitler. https://secrethitler.io
+- [tippyjs](https://github.com/atomiks/tippyjs)
+  - Tooltip, popover, dropdown, and menu library
 - [covid19](https://github.com/pomber/covid19)
   - JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily
-- [esercizi-di-programmazione-javascript](https://github.com/AlbertoOlla/esercizi-di-programmazione-javascript)
-  - Esercizi di informatica! Impara a programmare, metti alla prova!
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [vue-cli4-config](https://github.com/staven630/vue-cli4-config)
+  - vue-cli3配置vue.config.js持续更新
+- [sequelize](https://github.com/sequelize/sequelize)
+  - An easy-to-use multi SQL dialect ORM for Node.js
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [create-react-app](https://github.com/facebook/create-react-app)
+  - Set up a modern web app by running one command.
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [lib-jitsi-meet](https://github.com/jitsi/lib-jitsi-meet)
+  - A low-level JS video API that allows adding a completely custom video experience to web apps.
+- [covidzero-frontend](https://github.com/CovidZero/covidzero-frontend)
+  - Projeto criado para informar a população brasileira dos casos de COVID-19 em sua região e para auxiliar na prevenção de novos casos.
+- [axios](https://github.com/axios/axios)
+  - Promise based HTTP client for the browser and node.js
+- [slate](https://github.com/slatedocs/slate)
+  - Beautiful static documentation for your API
