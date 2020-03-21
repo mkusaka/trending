@@ -1,51 +1,51 @@
 # ruby
-- [covid-volunteers](https://github.com/sradu/covid-volunteers)
-  - 
-- [covid](https://github.com/lifen-labs/covid)
-  - Covid-19 patients' self-monitoring at home via forms sent by SMS
-- [choosealicense.com](https://github.com/github/choosealicense.com)
-  - A site to provide non-judgmental guidance on choosing a license for your open source project
-- [proyecto](https://github.com/IIC2143-2020-1/proyecto)
-  - Repositorio para el proyecto semestral de IIC2143 Ingeniería de Software 2020-1
-- [homebrew-core](https://github.com/Homebrew/homebrew-core)
-  - 🍻 Default formulae for the missing package manager for macOS
-- [devise](https://github.com/heartcombo/devise)
-  - Flexible authentication solution for Rails with Warden.
-- [huginn](https://github.com/huginn/huginn)
-  - Create agents that monitor and act on your behalf. Your agents are standing by!
+- [solidus](https://github.com/solidusio/solidus)
+  - 🛒Solidus, Rails eCommerce System
 - [metasploit-framework](https://github.com/rapid7/metasploit-framework)
   - Metasploit Framework
-- [evil-winrm](https://github.com/Hackplayers/evil-winrm)
-  - The ultimate WinRM shell for hacking/pentesting
-- [scientist](https://github.com/github/scientist)
-  - 🔬 A Ruby library for carefully refactoring critical paths.
-- [cancancan](https://github.com/CanCanCommunity/cancancan)
-  - The authorization Gem for Ruby on Rails.
-- [dependabot-core](https://github.com/dependabot/dependabot-core)
-  - 🤖The core logic behind Dependabot's update PR creation
-- [linguist](https://github.com/github/linguist)
-  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [sidekiq](https://github.com/mperham/sidekiq)
   - Simple, efficient background processing for Ruby
-- [explore](https://github.com/github/explore)
-  - Community-curated topic and collection pages on GitHub
-- [logstash](https://github.com/elastic/logstash)
-  - Logstash - transport and process your logs, events, or other data
-- [active-record-migrations-dc-web-030920](https://github.com/learn-co-students/active-record-migrations-dc-web-030920)
+- [setup](https://github.com/lewagon/setup)
+  - Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp
+- [rails_admin](https://github.com/sferik/rails_admin)
+  - RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data
+- [capybara](https://github.com/teamcapybara/capybara)
+  - Acceptance test framework for web applications
+- [chartkick](https://github.com/ankane/chartkick)
+  - Create beautiful JavaScript charts with one line of Ruby
+- [grape](https://github.com/ruby-grape/grape)
+  - An opinionated framework for creating REST-like APIs in Ruby.
+- [choosealicense.com](https://github.com/github/choosealicense.com)
+  - A site to provide non-judgmental guidance on choosing a license for your open source project
+- [fluentd](https://github.com/fluent/fluentd)
+  - Fluentd: Unified Logging Layer (project under CNCF)
+- [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch)
+  - Ansible playbook for Elasticsearch
+- [paper_trail](https://github.com/paper-trail-gem/paper_trail)
+  - Track changes to your rails models
+- [jekyll](https://github.com/jekyll/jekyll)
+  - 🌐 Jekyll is a blog-aware static site generator in Ruby
+- [faker](https://github.com/faker-ruby/faker)
+  - A library for generating fake data such as names, addresses, and phone numbers.
+- [simple_form](https://github.com/heartcombo/simple_form)
+  - Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
+- [liquid](https://github.com/Shopify/liquid)
+  - Liquid markup language. Safe, customer facing template language for flexible web apps.
+- [rubygems](https://github.com/rubygems/rubygems)
+  - Library packaging and distribution for Ruby.
+- [bourbon](https://github.com/thoughtbot/bourbon)
+  - A Lightweight Sass Tool Set
+- [sorbet](https://github.com/sorbet/sorbet)
+  - A fast, powerful type checker designed for Ruby
+- [rails](https://github.com/rails/rails)
+  - Ruby on Rails
+- [haml](https://github.com/haml/haml)
+  - HTML Abstraction Markup Language - A Markup Haiku
+- [covid-volunteers](https://github.com/sradu/covid-volunteers)
   - 
-- [active-record-writing-migrations-lab-nyc-web-030920](https://github.com/learn-co-students/active-record-writing-migrations-lab-nyc-web-030920)
-  - 
-- [active-record-intro-to-rake-nyc-web-030920](https://github.com/learn-co-students/active-record-intro-to-rake-nyc-web-030920)
-  - 
-- [active-record-costume-store-lab-nyc-web-030920](https://github.com/learn-co-students/active-record-costume-store-lab-nyc-web-030920)
-  - 
-- [active-record-migrations-nyc-web-030920](https://github.com/learn-co-students/active-record-migrations-nyc-web-030920)
-  - 
-- [active-record-intro-to-rake-dc-web-030920](https://github.com/learn-co-students/active-record-intro-to-rake-dc-web-030920)
-  - 
-- [active-record-translating-from-orm-to-ar-nyc-web-030920](https://github.com/learn-co-students/active-record-translating-from-orm-to-ar-nyc-web-030920)
-  - 
-- [active-record-translating-from-orm-to-ar-dc-web-030920](https://github.com/learn-co-students/active-record-translating-from-orm-to-ar-dc-web-030920)
-  - 
-- [fq-book](https://github.com/hoochanlon/fq-book)
-  - 📖 《这本书能让你连接互联网》科学上网Freestyle，了解网络基础知识与实践蹭网操作
+- [greenlight](https://github.com/bigbluebutton/greenlight)
+  - A really simple end-user interface for your BigBlueButton server.
+- [ISO-3166-Countries-with-Regional-Codes](https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes)
+  - ISO 3166-1 country lists merged with their UN Geoscheme regional codes in ready-to-use JSON, XML, CSV data sets
+- [octokit.rb](https://github.com/octokit/octokit.rb)
+  - Ruby toolkit for the GitHub API

@@ -1,51 +1,51 @@
 # rust
+- [996.ICU](https://github.com/996icu/996.ICU)
+  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [rust-ipfs](https://github.com/ipfs-rust/rust-ipfs)
   - The Interplanetary File System (IPFS), implemented in Rust
-- [warp](https://github.com/seanmonstar/warp)
-  - A super-easy, composable, web server framework for warp speeds.
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [rust-libp2p](https://github.com/libp2p/rust-libp2p)
-  - The Rust Implementation of libp2p networking stack.
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
-- [substrate](https://github.com/paritytech/substrate)
-  - Substrate: The platform for blockchain innovators
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [crates.io](https://github.com/rust-lang/crates.io)
-  - Source code for crates.io
+- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
+  - Facilitating high-level interactions between Wasm modules and JavaScript
+- [juniper](https://github.com/graphql-rust/juniper)
+  - GraphQL server library for Rust
 - [beef](https://github.com/maciejhirsz/beef)
   - Faster, more compact implementation of std::borrow::Cow
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
+- [vector](https://github.com/timberio/vector)
+  - A lightweight and ultra-fast tool for building observability pipelines
+- [tui-rs](https://github.com/fdehau/tui-rs)
+  - Build terminal user interfaces and dashboards using Rust
+- [wasmtime](https://github.com/bytecodealliance/wasmtime)
+  - Standalone JIT-style runtime for WebAssembly, using Cranelift
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
+  - The Mullvad VPN client app for desktop and mobile
+- [firecracker](https://github.com/firecracker-microvm/firecracker)
+  - Secure and fast microVMs for serverless computing.
+- [spotify-tui](https://github.com/Rigellute/spotify-tui)
+  - Spotify for the terminal written in Rust 🚀
+- [tokenizers](https://github.com/huggingface/tokenizers)
+  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [warp](https://github.com/seanmonstar/warp)
+  - A super-easy, composable, web server framework for warp speeds.
+- [tikv](https://github.com/tikv/tikv)
+  - Distributed transactional key-value database, originally created to complement TiDB
+- [bottlerocket](https://github.com/bottlerocket-os/bottlerocket)
+  - An operating system designed for hosting containers
+- [tokio](https://github.com/tokio-rs/tokio)
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [async-std](https://github.com/async-rs/async-std)
+  - Async version of the Rust standard library
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
+- [clap](https://github.com/clap-rs/clap)
+  - A full featured, fast Command Line Argument Parser for Rust
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
 - [grin](https://github.com/mimblewimble/grin)
   - Minimal implementation of the Mimblewimble protocol.
-- [kecc-public](https://github.com/kaist-cp/kecc-public)
-  - KECC: KAIST Educational C Compiler
-- [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
-  - Ultra relevant, instant, and typo-tolerant full-text search API
-- [bastion](https://github.com/bastion-rs/bastion)
-  - Highly-available Distributed Fault-tolerant Runtime
-- [ritual](https://github.com/rust-qt/ritual)
-  - Use C++ libraries from Rust
-- [gluon](https://github.com/gluon-lang/gluon)
-  - A static, type inferred and embeddable language written in Rust.
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix web is a small, pragmatic, and extremely fast rust web framework.
-- [codespan](https://github.com/brendanzab/codespan)
-  - Utilities for dealing with source code locations and pretty diagnostic formatting
-- [llvm-ir](https://github.com/cdisselkoen/llvm-ir)
-  - LLVM IR in natural Rust data structures
-- [boringtun](https://github.com/cloudflare/boringtun)
-  - Userspace WireGuard® Implementation in Rust
-- [nix](https://github.com/nix-rust/nix)
-  - Rust friendly bindings to *nix APIs
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
-- [dodrio](https://github.com/fitzgen/dodrio)
-  - A fast, bump-allocated virtual DOM library for Rust and WebAssembly.
-- [materialize](https://github.com/MaterializeInc/materialize)
-  - The Streaming Data Warehouse
-- [oha](https://github.com/hatoo/oha)
-  - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
+- [hyperfine](https://github.com/sharkdp/hyperfine)
+  - A command-line benchmarking tool
