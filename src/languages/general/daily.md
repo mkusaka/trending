@@ -1,51 +1,50 @@
 # general
-- [covid19_scenarios](https://github.com/neherlab/covid19_scenarios) : TypeScript
-  - Models of COVID-19 outbreak trajectories and hospital demand
-- [baseline](https://github.com/ethereum-oasis/baseline) : JavaScript
-  - The Baseline Protocol is an open source initiative that combines advances in cryptography, messaging, and blockchain to execute secure and private business processes at low cost via the public Ethereum Mainnet. The protocol will enable confidential and complex collaboration between enterprises without leaving any sensitive data on-chain
-- [wpt](https://github.com/web-platform-tests/wpt) : HTML
-  - Test suites for Web platform specs — including WHATWG, W3C, and others
-- [zju-icicles](https://github.com/QSCTech/zju-icicles) : C
-  - 浙江大学课程攻略共享计划
-- [abp](https://github.com/abpframework/abp) : C#
-  - Open Source Web Application Framework for ASP.NET Core
-- [browser-2020](https://github.com/luruke/browser-2020) : 
-  - Things you can do with a browser in 2020 ☕️
-- [automl](https://github.com/google/automl) : Python
-  - Google Brain AutoML
+- [Foodium](https://github.com/PatilShreyas/Foodium) : Kotlin
+  - 🍲Foodium is a sample food blog Android application 📱 built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).
 - [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) : Python
   - 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（武汉加油！中国加油！世界加油！）
-- [cert-covid19](https://github.com/cwoomi/cert-covid19) : 
-  - Informationssammlung zum Thema CoVid-19
-- [Python](https://github.com/TheAlgorithms/Python) : Python
-  - All Algorithms implemented in Python
-- [LoupGarou](https://github.com/leomelki/LoupGarou) : Java
-  - LoupGarou dans Minecraft par leomelki
-- [rapidjson](https://github.com/Tencent/rapidjson) : C++
-  - A fast JSON parser/generator for C++ with both SAX/DOM style API
+- [nlp-tutorial](https://github.com/graykode/nlp-tutorial) : Jupyter Notebook
+  - Natural Language Processing Tutorial for Deep Learning Researchers
+- [BookOmatic](https://github.com/KalleHallden/BookOmatic) : Python
+- [domoticz](https://github.com/domoticz/domoticz) : C
+  - Open source Home Automation System
+- [covid19_scenarios](https://github.com/neherlab/covid19_scenarios) : TypeScript
+  - Models of COVID-19 outbreak trajectories and hospital demand
+- [nerf](https://github.com/bmild/nerf) : Jupyter Notebook
+  - Code release for NeRF (Neural Radiance Fields)
+- [browser-2020](https://github.com/luruke/browser-2020) : 
+  - Things you can do with a browser in 2020 ☕️
+- [nightingale](https://github.com/didi/nightingale) : Go
+  - A Distributed and High-Performance Monitoring System
+- [coronasafe.in](https://github.com/coronasafe/coronasafe.in) : 
+  - A crowd-sourced guide to staying safe in Coronavirus disease (COVID-19) outbreak.
+- [night-reading-go](https://github.com/developer-learning/night-reading-go) : Go
+  - Night-Reading-Go《Go 夜读》 > Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics. 由 Go 夜读 SIG 成员维护，并通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。
+- [covid_19](https://github.com/openZH/covid_19) : Jupyter Notebook
+  - COVID19 case numbers Cantons of Switzerland and Principality of Liechtenstein (FL) - case numbers include persons tested in the respective area. The data is updated at best once a day (times of collection and update may vary). Start with the README! Help closing the gaps:
+- [deeplearning2020](https://github.com/into-ai/deeplearning2020) : Jupyter Notebook
+  - course materials for introduction to deep learning 2020
 - [covid19-cases-switzerland](https://github.com/daenuprobst/covid19-cases-switzerland) : HTML
   - Data from BAG Tweets made useful.
-- [ish](https://github.com/tbodt/ish) : C
-  - Linux shell for iOS
-- [covid_19](https://github.com/openZH/covid_19) : R
-  - COVID19 case numbers Cantons of Switzerland and Principality of Liechtenstein (FL) - case numbers include persons tested in the respective area. The data is updated at best once a day (times of collection and update may vary). Help closing the gaps:
-- [ultimate-coding-resources](https://github.com/PizzaPokerGuy/ultimate-coding-resources) : 
-  - A collection of the best resources for programming, web development, computer science and more.
-- [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) : JavaScript
-  - 🦠Useful projects and resources for COVID-19 (2019 novel Coronavirus)
-- [tabler-icons](https://github.com/tabler/tabler-icons) : JavaScript
-  - A set of over 300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [NymphCast](https://github.com/MayaPosch/NymphCast) : C++
-  - Audio and video casting system with support for custom applications.
-- [AndroidSecurityStudy](https://github.com/r0ysue/AndroidSecurityStudy) : JavaScript
-  - 安卓应用安全学习
-- [vue-next](https://github.com/vuejs/vue-next) : TypeScript
-  - The next major version of Vue (WIP)
-- [computer-science](https://github.com/ossu/computer-science) : 
-  - 🎓 Path to a free self-taught education in Computer Science!
-- [jitsi-meet](https://github.com/jitsi/jitsi-meet) : JavaScript
-  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [tye](https://github.com/dotnet/tye) : C#
-  - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
-- [directus](https://github.com/directus/directus) : PHP
-  - Directus 8 Suite — Future-Proof Headless CMS & API for Custom Databases
+- [baseline](https://github.com/ethereum-oasis/baseline) : JavaScript
+  - The Baseline Protocol is an open source initiative that combines advances in cryptography, messaging, and blockchain to execute secure and private business processes at low cost via the public Ethereum Mainnet. The protocol will enable confidential and complex collaboration between enterprises without leaving any sensitive data on-chain
+- [COVID-19](https://github.com/peixebabel/COVID-19) : Jupyter Notebook
+  - Dados e plots sobre as informações do Corona Virus levantadas pelo Peixe Babel.
+- [CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) : 
+  - 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）
+- [automl](https://github.com/google/automl) : Python
+  - Google Brain AutoML
+- [jittor](https://github.com/Jittor/jittor) : C++
+  - Jittor website
+- [COVID-QA](https://github.com/deepset-ai/COVID-QA) : Jupyter Notebook
+  - API & Webapp to answer questions about COVID-19. Using NLP (Question Answering) and trusted, curated data sources.
+- [COVID-19](https://github.com/elcronos/COVID-19) : Jupyter Notebook
+  - COVID-19 Detector from x-rays using Computer Vision and Deep Learning
+- [covid19](https://github.com/stevenliuyi/covid19) : JavaScript
+  - an interactive, animated COVID-19 coronavirus map to track the outbreak over time by country and by region for selected countries (including China, Italy, Korea, Japan, France, Germany, United States)
+- [theMLbook](https://github.com/aburkov/theMLbook) : Python
+  - The Python code to reproduce the illustrations from The Hundred-Page Machine Learning Book.
+- [core](https://github.com/JAVClub/core) : JavaScript
+  - 🔞 JAVClub - 让你的大姐姐不再走丢
+- [interview](https://github.com/huihut/interview) : C++
+  - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。

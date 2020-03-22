@@ -1,51 +1,51 @@
 # ruby
-- [solidus](https://github.com/solidusio/solidus)
-  - 🛒Solidus, Rails eCommerce System
-- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
-  - Metasploit Framework
-- [sidekiq](https://github.com/mperham/sidekiq)
-  - Simple, efficient background processing for Ruby
+- [devdocs](https://github.com/freeCodeCamp/devdocs)
+  - API Documentation Browser
 - [setup](https://github.com/lewagon/setup)
   - Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp
-- [rails_admin](https://github.com/sferik/rails_admin)
-  - RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data
-- [capybara](https://github.com/teamcapybara/capybara)
-  - Acceptance test framework for web applications
-- [chartkick](https://github.com/ankane/chartkick)
-  - Create beautiful JavaScript charts with one line of Ruby
-- [grape](https://github.com/ruby-grape/grape)
-  - An opinionated framework for creating REST-like APIs in Ruby.
-- [choosealicense.com](https://github.com/github/choosealicense.com)
-  - A site to provide non-judgmental guidance on choosing a license for your open source project
-- [fluentd](https://github.com/fluent/fluentd)
-  - Fluentd: Unified Logging Layer (project under CNCF)
-- [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch)
-  - Ansible playbook for Elasticsearch
-- [paper_trail](https://github.com/paper-trail-gem/paper_trail)
-  - Track changes to your rails models
+- [covid](https://github.com/lifen-labs/covid)
+  - Covid-19 patients' self-monitoring at home via forms sent by SMS
 - [jekyll](https://github.com/jekyll/jekyll)
   - 🌐 Jekyll is a blog-aware static site generator in Ruby
-- [faker](https://github.com/faker-ruby/faker)
-  - A library for generating fake data such as names, addresses, and phone numbers.
-- [simple_form](https://github.com/heartcombo/simple_form)
-  - Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
-- [liquid](https://github.com/Shopify/liquid)
-  - Liquid markup language. Safe, customer facing template language for flexible web apps.
-- [rubygems](https://github.com/rubygems/rubygems)
-  - Library packaging and distribution for Ruby.
-- [bourbon](https://github.com/thoughtbot/bourbon)
-  - A Lightweight Sass Tool Set
-- [sorbet](https://github.com/sorbet/sorbet)
-  - A fast, powerful type checker designed for Ruby
-- [rails](https://github.com/rails/rails)
-  - Ruby on Rails
-- [haml](https://github.com/haml/haml)
-  - HTML Abstraction Markup Language - A Markup Haiku
+- [homebrew-core](https://github.com/Homebrew/homebrew-core)
+  - 🍻 Default formulae for the missing package manager for macOS
+- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+- [markup](https://github.com/github/markup)
+  - Determines which markup library to use to render a content file (e.g. README) on GitHub
+- [blazer](https://github.com/ankane/blazer)
+  - Business intelligence made simple
+- [discourse](https://github.com/discourse/discourse)
+  - A platform for community discussion. Free, open, simple.
 - [covid-volunteers](https://github.com/sradu/covid-volunteers)
   - 
-- [greenlight](https://github.com/bigbluebutton/greenlight)
-  - A really simple end-user interface for your BigBlueButton server.
-- [ISO-3166-Countries-with-Regional-Codes](https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes)
-  - ISO 3166-1 country lists merged with their UN Geoscheme regional codes in ready-to-use JSON, XML, CSV data sets
-- [octokit.rb](https://github.com/octokit/octokit.rb)
-  - Ruby toolkit for the GitHub API
+- [brew](https://github.com/Homebrew/brew)
+  - 🍺 The missing package manager for macOS (or Linux)
+- [markdownlint](https://github.com/markdownlint/markdownlint)
+  - Markdown lint tool
+- [rails-template](https://github.com/mattbrictson/rails-template)
+  - Application template for Rails 6 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.
+- [evil-winrm](https://github.com/Hackplayers/evil-winrm)
+  - The ultimate WinRM shell for hacking/pentesting
+- [Learning-SICP](https://github.com/DeathKing/Learning-SICP)
+  - MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。
+- [huginn](https://github.com/huginn/huginn)
+  - Create agents that monitor and act on your behalf. Your agents are standing by!
+- [priorityapp](https://github.com/nkroll/priorityapp)
+  - 
+- [js-rails-as-api-extracting-a-service-class-nyc-web-012720](https://github.com/learn-co-students/js-rails-as-api-extracting-a-service-class-nyc-web-012720)
+  - 
+- [ar-rel1](https://github.com/jrmcgarvey/ar-rel1)
+  - Active Record One to Many
+- [programming-univbasics-nds-nested-hashes-lab-chicago-web-033020](https://github.com/learn-co-students/programming-univbasics-nds-nested-hashes-lab-chicago-web-033020)
+  - 
+- [looping-while-until-online-web-sp-000](https://github.com/learn-co-students/looping-while-until-online-web-sp-000)
+  - 
+- [shrine](https://github.com/shrinerb/shrine)
+  - File Attachment toolkit for Ruby applications
+- [sinatra-basic-forms-lab-onl01-seng-pt-120819](https://github.com/learn-co-students/sinatra-basic-forms-lab-onl01-seng-pt-120819)
+  - 
+- [mass-assignment-onl01-seng-ft-030220](https://github.com/learn-co-students/mass-assignment-onl01-seng-ft-030220)
+  - 
+- [oo-custom-errors-onl01-seng-ft-030220](https://github.com/learn-co-students/oo-custom-errors-onl01-seng-ft-030220)
+  - 
