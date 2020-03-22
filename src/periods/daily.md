@@ -1,358 +1,357 @@
 # daily
 ## general
-- [covid19_scenarios](https://github.com/neherlab/covid19_scenarios) : TypeScript
-  - Models of COVID-19 outbreak trajectories and hospital demand
-- [baseline](https://github.com/ethereum-oasis/baseline) : JavaScript
-  - The Baseline Protocol is an open source initiative that combines advances in cryptography, messaging, and blockchain to execute secure and private business processes at low cost via the public Ethereum Mainnet. The protocol will enable confidential and complex collaboration between enterprises without leaving any sensitive data on-chain
-- [wpt](https://github.com/web-platform-tests/wpt) : HTML
-  - Test suites for Web platform specs — including WHATWG, W3C, and others
-- [zju-icicles](https://github.com/QSCTech/zju-icicles) : C
-  - 浙江大学课程攻略共享计划
-- [abp](https://github.com/abpframework/abp) : C#
-  - Open Source Web Application Framework for ASP.NET Core
-- [browser-2020](https://github.com/luruke/browser-2020) : 
-  - Things you can do with a browser in 2020 ☕️
-- [automl](https://github.com/google/automl) : Python
-  - Google Brain AutoML
+- [Foodium](https://github.com/PatilShreyas/Foodium) : Kotlin
+  - 🍲Foodium is a sample food blog Android application 📱 built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).
 - [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) : Python
   - 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（武汉加油！中国加油！世界加油！）
-- [cert-covid19](https://github.com/cwoomi/cert-covid19) : 
-  - Informationssammlung zum Thema CoVid-19
-- [Python](https://github.com/TheAlgorithms/Python) : Python
-  - All Algorithms implemented in Python
-- [LoupGarou](https://github.com/leomelki/LoupGarou) : Java
-  - LoupGarou dans Minecraft par leomelki
-- [rapidjson](https://github.com/Tencent/rapidjson) : C++
-  - A fast JSON parser/generator for C++ with both SAX/DOM style API
+- [nlp-tutorial](https://github.com/graykode/nlp-tutorial) : Jupyter Notebook
+  - Natural Language Processing Tutorial for Deep Learning Researchers
+- [BookOmatic](https://github.com/KalleHallden/BookOmatic) : Python
+- [domoticz](https://github.com/domoticz/domoticz) : C
+  - Open source Home Automation System
+- [covid19_scenarios](https://github.com/neherlab/covid19_scenarios) : TypeScript
+  - Models of COVID-19 outbreak trajectories and hospital demand
+- [nerf](https://github.com/bmild/nerf) : Jupyter Notebook
+  - Code release for NeRF (Neural Radiance Fields)
+- [browser-2020](https://github.com/luruke/browser-2020) : 
+  - Things you can do with a browser in 2020 ☕️
+- [nightingale](https://github.com/didi/nightingale) : Go
+  - A Distributed and High-Performance Monitoring System
+- [coronasafe.in](https://github.com/coronasafe/coronasafe.in) : 
+  - A crowd-sourced guide to staying safe in Coronavirus disease (COVID-19) outbreak.
+- [night-reading-go](https://github.com/developer-learning/night-reading-go) : Go
+  - Night-Reading-Go《Go 夜读》 > Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics. 由 Go 夜读 SIG 成员维护，并通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。
+- [covid_19](https://github.com/openZH/covid_19) : Jupyter Notebook
+  - COVID19 case numbers Cantons of Switzerland and Principality of Liechtenstein (FL) - case numbers include persons tested in the respective area. The data is updated at best once a day (times of collection and update may vary). Start with the README! Help closing the gaps:
+- [deeplearning2020](https://github.com/into-ai/deeplearning2020) : Jupyter Notebook
+  - course materials for introduction to deep learning 2020
 - [covid19-cases-switzerland](https://github.com/daenuprobst/covid19-cases-switzerland) : HTML
   - Data from BAG Tweets made useful.
-- [ish](https://github.com/tbodt/ish) : C
-  - Linux shell for iOS
-- [covid_19](https://github.com/openZH/covid_19) : R
-  - COVID19 case numbers Cantons of Switzerland and Principality of Liechtenstein (FL) - case numbers include persons tested in the respective area. The data is updated at best once a day (times of collection and update may vary). Help closing the gaps:
-- [ultimate-coding-resources](https://github.com/PizzaPokerGuy/ultimate-coding-resources) : 
-  - A collection of the best resources for programming, web development, computer science and more.
-- [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) : JavaScript
-  - 🦠Useful projects and resources for COVID-19 (2019 novel Coronavirus)
-- [tabler-icons](https://github.com/tabler/tabler-icons) : JavaScript
-  - A set of over 300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [NymphCast](https://github.com/MayaPosch/NymphCast) : C++
-  - Audio and video casting system with support for custom applications.
-- [AndroidSecurityStudy](https://github.com/r0ysue/AndroidSecurityStudy) : JavaScript
-  - 安卓应用安全学习
-- [vue-next](https://github.com/vuejs/vue-next) : TypeScript
-  - The next major version of Vue (WIP)
-- [computer-science](https://github.com/ossu/computer-science) : 
-  - 🎓 Path to a free self-taught education in Computer Science!
-- [jitsi-meet](https://github.com/jitsi/jitsi-meet) : JavaScript
-  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [tye](https://github.com/dotnet/tye) : C#
-  - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
-- [directus](https://github.com/directus/directus) : PHP
-  - Directus 8 Suite — Future-Proof Headless CMS & API for Custom Databases
+- [baseline](https://github.com/ethereum-oasis/baseline) : JavaScript
+  - The Baseline Protocol is an open source initiative that combines advances in cryptography, messaging, and blockchain to execute secure and private business processes at low cost via the public Ethereum Mainnet. The protocol will enable confidential and complex collaboration between enterprises without leaving any sensitive data on-chain
+- [COVID-19](https://github.com/peixebabel/COVID-19) : Jupyter Notebook
+  - Dados e plots sobre as informações do Corona Virus levantadas pelo Peixe Babel.
+- [CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) : 
+  - 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）
+- [automl](https://github.com/google/automl) : Python
+  - Google Brain AutoML
+- [jittor](https://github.com/Jittor/jittor) : C++
+  - Jittor website
+- [COVID-QA](https://github.com/deepset-ai/COVID-QA) : Jupyter Notebook
+  - API & Webapp to answer questions about COVID-19. Using NLP (Question Answering) and trusted, curated data sources.
+- [COVID-19](https://github.com/elcronos/COVID-19) : Jupyter Notebook
+  - COVID-19 Detector from x-rays using Computer Vision and Deep Learning
+- [covid19](https://github.com/stevenliuyi/covid19) : JavaScript
+  - an interactive, animated COVID-19 coronavirus map to track the outbreak over time by country and by region for selected countries (including China, Italy, Korea, Japan, France, Germany, United States)
+- [theMLbook](https://github.com/aburkov/theMLbook) : Python
+  - The Python code to reproduce the illustrations from The Hundred-Page Machine Learning Book.
+- [core](https://github.com/JAVClub/core) : JavaScript
+  - 🔞 JAVClub - 让你的大姐姐不再走丢
+- [interview](https://github.com/huihut/interview) : C++
+  - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。
 ## go
-- [Cloudreve](https://github.com/cloudreve/Cloudreve)
-  - 🌈支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)
-- [latte](https://github.com/raphaelreyna/latte)
-  - Generate PDFs using LaTeX templates and JSON
-- [terraform](https://github.com/hashicorp/terraform)
-  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [charts](https://github.com/helm/charts)
-  - Curated applications for Kubernetes
-- [pg](https://github.com/go-pg/pg)
-  - Golang ORM with focus on PostgreSQL features and performance
-- [slack-term](https://github.com/erroneousboat/slack-term)
-  - Slack client for your terminal
-- [grpc-go](https://github.com/grpc/grpc-go)
-  - The Go language implementation of gRPC. HTTP/2 based RPC
-- [casbin](https://github.com/casbin/casbin)
-  - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
-- [gorush](https://github.com/appleboy/gorush)
-  - A push notification server written in Go (Golang).
-- [go](https://github.com/golang/go)
-  - The Go programming language
-- [istio](https://github.com/istio/istio)
-  - Connect, secure, control, and observe services.
-- [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN)
-  - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-- [flagger](https://github.com/weaveworks/flagger)
-  - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
-- [sonobuoy](https://github.com/vmware-tanzu/sonobuoy)
-  - Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructive manner.
+- [nightingale](https://github.com/didi/nightingale)
+  - A Distributed and High-Performance Monitoring System
+- [night-reading-go](https://github.com/developer-learning/night-reading-go)
+  - Night-Reading-Go《Go 夜读》 > Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics. 由 Go 夜读 SIG 成员维护，并通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。
+- [hugo](https://github.com/gohugoio/hugo)
+  - The world’s fastest framework for building websites.
+- [gh-ost](https://github.com/github/gh-ost)
+  - GitHub's Online Schema Migrations for MySQL
+- [dgraph](https://github.com/dgraph-io/dgraph)
+  - Fast, Distributed Graph DB
+- [Go](https://github.com/TheAlgorithms/Go)
+  - Algorithms Implemented in GoLang
+- [trojan-go](https://github.com/p4gefau1t/trojan-go)
+  - A Trojan proxy written in golang. An unidentifiable mechanism that helps you bypass GFW. Golang实现的Trojan代理，支持多个平台，无依赖
+- [vitess](https://github.com/vitessio/vitess)
+  - Vitess is a database clustering system for horizontal scaling of MySQL.
+- [falcon-plus](https://github.com/open-falcon/falcon-plus)
+  - An open-source and enterprise-level monitoring system.
+- [nebula](https://github.com/slackhq/nebula)
+  - A scalable overlay networking tool with a focus on performance, simplicity and security
+- [tailscale](https://github.com/tailscale/tailscale)
+  - The easiest, most secure way to use WireGuard and 2FA.
 - [clash](https://github.com/Dreamacro/clash)
   - A rule-based tunnel in Go.
-- [mapstructure](https://github.com/mitchellh/mapstructure)
-  - Go library for decoding generic map values into native Go structures.
-- [vault](https://github.com/hashicorp/vault)
-  - A tool for secrets management, encryption as a service, and privileged access management
-- [packer](https://github.com/hashicorp/packer)
-  - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-- [mattermost-server](https://github.com/mattermost/mattermost-server)
-  - Open source Slack-alternative in Golang and React - Mattermost
-- [telegraf](https://github.com/influxdata/telegraf)
-  - The plugin-driven server agent for collecting & reporting metrics.
-- [mongo-go-driver](https://github.com/mongodb/mongo-go-driver)
-  - The Go driver for MongoDB
+- [alertmanager](https://github.com/prometheus/alertmanager)
+  - Prometheus Alertmanager
+- [rudder-server](https://github.com/rudderlabs/rudder-server)
+  - Privacy and Security focused Segment-alternative, in Golang and React
+- [micro](https://github.com/zyedidia/micro)
+  - A modern and intuitive terminal-based text editor
+- [dex](https://github.com/dexidp/dex)
+  - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
+- [istio](https://github.com/istio/istio)
+  - Connect, secure, control, and observe services.
+- [go](https://github.com/golang/go)
+  - The Go programming language
 - [traefik](https://github.com/containous/traefik)
   - The Cloud Native Edge Router
-- [mux](https://github.com/gorilla/mux)
-  - A powerful HTTP router and URL matcher for building Go web servers with 🦍
-- [maratona-microsservico-simulador](https://github.com/codeedu/maratona-microsservico-simulador)
-  - 
-- [redigo](https://github.com/gomodule/redigo)
-  - Go client for Redis
+- [kubernetes](https://github.com/kubernetes/kubernetes)
+  - Production-Grade Container Scheduling and Management
+- [runc](https://github.com/opencontainers/runc)
+  - CLI tool for spawning and running containers according to the OCI specification
+- [FreePAC](https://github.com/xiaoming2028/FreePAC)
+  - 科学上网/梯子/自由上网/翻墙 SS/SSR/V2Ray/Brook 搭建教程
+- [swarm](https://github.com/docker/swarm)
+  - Swarm Classic: a container clustering system
+- [fyne](https://github.com/fyne-io/fyne)
+  - Cross platform GUI in Go based on Material Design
+- [cortex](https://github.com/cortexlabs/cortex)
+  - Deploy machine learning models in production
 ## javascript
 - [baseline](https://github.com/ethereum-oasis/baseline)
   - The Baseline Protocol is an open source initiative that combines advances in cryptography, messaging, and blockchain to execute secure and private business processes at low cost via the public Ethereum Mainnet. The protocol will enable confidential and complex collaboration between enterprises without leaving any sensitive data on-chain
-- [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
-  - 🦠Useful projects and resources for COVID-19 (2019 novel Coronavirus)
-- [tabler-icons](https://github.com/tabler/tabler-icons)
-  - A set of over 300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [AndroidSecurityStudy](https://github.com/r0ysue/AndroidSecurityStudy)
-  - 安卓应用安全学习
-- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
-  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [jira_clone](https://github.com/oldboyxx/jira_clone)
-  - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
-- [matrix](https://github.com/ResultadosDigitais/matrix)
-  - #matrix is the online open-source workplace inspired in sococo.com for distributed teams to have the experience of work together each day, side-by-side. No matter where team members might be. Working in an online workplace is even more productive when people feeling in the same space.
-- [API](https://github.com/NovelCOVID/API)
-  - API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [d3](https://github.com/d3/d3)
-  - Bring data to life with SVG, Canvas and HTML. 📊📈🎉
-- [babel](https://github.com/babel/babel)
-  - 🐠 Babel is a compiler for writing next generation JavaScript.
+- [COVID-QA](https://github.com/deepset-ai/COVID-QA)
+  - API & Webapp to answer questions about COVID-19. Using NLP (Question Answering) and trusted, curated data sources.
 - [covid19](https://github.com/stevenliuyi/covid19)
   - an interactive, animated COVID-19 coronavirus map to track the outbreak over time by country and by region for selected countries (including China, Italy, Korea, Japan, France, Germany, United States)
-- [samples](https://github.com/webrtc/samples)
-  - WebRTC Web demos and samples
-- [secret-hitler](https://github.com/cozuya/secret-hitler)
-  - A web adaptation of the social deduction board game Secret Hitler. https://secrethitler.io
-- [tippyjs](https://github.com/atomiks/tippyjs)
-  - Tooltip, popover, dropdown, and menu library
+- [core](https://github.com/JAVClub/core)
+  - 🔞 JAVClub - 让你的大姐姐不再走丢
+- [dashboard](https://github.com/opencovid19-fr/dashboard)
+  - Tableau de bord de suivi de l'épidémie de nouveau coronavirus
+- [html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
+  - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [covid19](https://github.com/pomber/covid19)
   - JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily
-- [vue-cli4-config](https://github.com/staven630/vue-cli4-config)
-  - vue-cli3配置vue.config.js持续更新
-- [sequelize](https://github.com/sequelize/sequelize)
-  - An easy-to-use multi SQL dialect ORM for Node.js
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
+- [API](https://github.com/NovelCOVID/API)
+  - API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
+- [covid-19-au.github.io](https://github.com/covid-19-au/covid-19-au.github.io)
+  - The Real-time COVID-19 Status in Australia
+- [javascript](https://github.com/airbnb/javascript)
+  - JavaScript Style Guide
+- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
+  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
+  - 🦠Useful projects and resources for COVID-19 (2019 novel Coronavirus)
+- [covid19india-network](https://github.com/someshkar/covid19india-network)
+  - 🔬 COVID 19 India network cluster
+- [covid19-brazil-api](https://github.com/devarthurribeiro/covid19-brazil-api)
+  - API com dados atualizados sobre o status do COVID-19 🦠
+- [electron-quick-start](https://github.com/electron/electron-quick-start)
+  - Clone to try a simple Electron app
+- [coronavirus-tracker-cli](https://github.com/sagarkarira/coronavirus-tracker-cli)
+  - Track conronavirus cases from command line. curl https://corona-stats.online/
+- [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+  - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [create-react-app](https://github.com/facebook/create-react-app)
   - Set up a modern web app by running one command.
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [lib-jitsi-meet](https://github.com/jitsi/lib-jitsi-meet)
-  - A low-level JS video API that allows adding a completely custom video experience to web apps.
-- [covidzero-frontend](https://github.com/CovidZero/covidzero-frontend)
-  - Projeto criado para informar a população brasileira dos casos de COVID-19 em sua região e para auxiliar na prevenção de novos casos.
-- [axios](https://github.com/axios/axios)
-  - Promise based HTTP client for the browser and node.js
-- [slate](https://github.com/slatedocs/slate)
-  - Beautiful static documentation for your API
+- [gabgoh.github.io](https://github.com/gabgoh/gabgoh.github.io)
+  - Homepage
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+  - Headless Chrome Node.js API
+- [grocy](https://github.com/grocy/grocy)
+  - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
+- [corona-cli](https://github.com/ahmadawais/corona-cli)
+  - 🦠 Track the Coronavirus disease (COVID-19) or the Novel Coronavirus Strain in the command line. Both worldwide for every country or for one country. Fast response time (< 100ms).
+- [pandoa](https://github.com/wirewirewirewire/pandoa)
+  - The app informs you, if you had contact with an infected patient.
+- [COVID-19-API](https://github.com/Laeyoung/COVID-19-API)
+  - API Service for tracking the COVID-19
+- [ivideo](https://github.com/phobal/ivideo)
+  - 一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux） A client that can watch video of domestic(China) mainstream video platform
 ## ruby
-- [solidus](https://github.com/solidusio/solidus)
-  - 🛒Solidus, Rails eCommerce System
-- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
-  - Metasploit Framework
-- [sidekiq](https://github.com/mperham/sidekiq)
-  - Simple, efficient background processing for Ruby
+- [devdocs](https://github.com/freeCodeCamp/devdocs)
+  - API Documentation Browser
 - [setup](https://github.com/lewagon/setup)
   - Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp
-- [rails_admin](https://github.com/sferik/rails_admin)
-  - RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data
-- [capybara](https://github.com/teamcapybara/capybara)
-  - Acceptance test framework for web applications
-- [chartkick](https://github.com/ankane/chartkick)
-  - Create beautiful JavaScript charts with one line of Ruby
-- [grape](https://github.com/ruby-grape/grape)
-  - An opinionated framework for creating REST-like APIs in Ruby.
-- [choosealicense.com](https://github.com/github/choosealicense.com)
-  - A site to provide non-judgmental guidance on choosing a license for your open source project
-- [fluentd](https://github.com/fluent/fluentd)
-  - Fluentd: Unified Logging Layer (project under CNCF)
-- [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch)
-  - Ansible playbook for Elasticsearch
-- [paper_trail](https://github.com/paper-trail-gem/paper_trail)
-  - Track changes to your rails models
+- [covid](https://github.com/lifen-labs/covid)
+  - Covid-19 patients' self-monitoring at home via forms sent by SMS
 - [jekyll](https://github.com/jekyll/jekyll)
   - 🌐 Jekyll is a blog-aware static site generator in Ruby
-- [faker](https://github.com/faker-ruby/faker)
-  - A library for generating fake data such as names, addresses, and phone numbers.
-- [simple_form](https://github.com/heartcombo/simple_form)
-  - Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
-- [liquid](https://github.com/Shopify/liquid)
-  - Liquid markup language. Safe, customer facing template language for flexible web apps.
-- [rubygems](https://github.com/rubygems/rubygems)
-  - Library packaging and distribution for Ruby.
-- [bourbon](https://github.com/thoughtbot/bourbon)
-  - A Lightweight Sass Tool Set
-- [sorbet](https://github.com/sorbet/sorbet)
-  - A fast, powerful type checker designed for Ruby
-- [rails](https://github.com/rails/rails)
-  - Ruby on Rails
-- [haml](https://github.com/haml/haml)
-  - HTML Abstraction Markup Language - A Markup Haiku
+- [homebrew-core](https://github.com/Homebrew/homebrew-core)
+  - 🍻 Default formulae for the missing package manager for macOS
+- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+- [markup](https://github.com/github/markup)
+  - Determines which markup library to use to render a content file (e.g. README) on GitHub
+- [blazer](https://github.com/ankane/blazer)
+  - Business intelligence made simple
+- [discourse](https://github.com/discourse/discourse)
+  - A platform for community discussion. Free, open, simple.
 - [covid-volunteers](https://github.com/sradu/covid-volunteers)
   - 
-- [greenlight](https://github.com/bigbluebutton/greenlight)
-  - A really simple end-user interface for your BigBlueButton server.
-- [ISO-3166-Countries-with-Regional-Codes](https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes)
-  - ISO 3166-1 country lists merged with their UN Geoscheme regional codes in ready-to-use JSON, XML, CSV data sets
-- [octokit.rb](https://github.com/octokit/octokit.rb)
-  - Ruby toolkit for the GitHub API
+- [brew](https://github.com/Homebrew/brew)
+  - 🍺 The missing package manager for macOS (or Linux)
+- [markdownlint](https://github.com/markdownlint/markdownlint)
+  - Markdown lint tool
+- [rails-template](https://github.com/mattbrictson/rails-template)
+  - Application template for Rails 6 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.
+- [evil-winrm](https://github.com/Hackplayers/evil-winrm)
+  - The ultimate WinRM shell for hacking/pentesting
+- [Learning-SICP](https://github.com/DeathKing/Learning-SICP)
+  - MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。
+- [huginn](https://github.com/huginn/huginn)
+  - Create agents that monitor and act on your behalf. Your agents are standing by!
+- [priorityapp](https://github.com/nkroll/priorityapp)
+  - 
+- [js-rails-as-api-extracting-a-service-class-nyc-web-012720](https://github.com/learn-co-students/js-rails-as-api-extracting-a-service-class-nyc-web-012720)
+  - 
+- [ar-rel1](https://github.com/jrmcgarvey/ar-rel1)
+  - Active Record One to Many
+- [programming-univbasics-nds-nested-hashes-lab-chicago-web-033020](https://github.com/learn-co-students/programming-univbasics-nds-nested-hashes-lab-chicago-web-033020)
+  - 
+- [looping-while-until-online-web-sp-000](https://github.com/learn-co-students/looping-while-until-online-web-sp-000)
+  - 
+- [shrine](https://github.com/shrinerb/shrine)
+  - File Attachment toolkit for Ruby applications
+- [sinatra-basic-forms-lab-onl01-seng-pt-120819](https://github.com/learn-co-students/sinatra-basic-forms-lab-onl01-seng-pt-120819)
+  - 
+- [mass-assignment-onl01-seng-ft-030220](https://github.com/learn-co-students/mass-assignment-onl01-seng-ft-030220)
+  - 
+- [oo-custom-errors-onl01-seng-ft-030220](https://github.com/learn-co-students/oo-custom-errors-onl01-seng-ft-030220)
+  - 
 ## rust
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [rust-ipfs](https://github.com/ipfs-rust/rust-ipfs)
-  - The Interplanetary File System (IPFS), implemented in Rust
-- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
-  - Facilitating high-level interactions between Wasm modules and JavaScript
-- [juniper](https://github.com/graphql-rust/juniper)
-  - GraphQL server library for Rust
-- [beef](https://github.com/maciejhirsz/beef)
-  - Faster, more compact implementation of std::borrow::Cow
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
-- [vector](https://github.com/timberio/vector)
-  - A lightweight and ultra-fast tool for building observability pipelines
-- [tui-rs](https://github.com/fdehau/tui-rs)
-  - Build terminal user interfaces and dashboards using Rust
-- [wasmtime](https://github.com/bytecodealliance/wasmtime)
-  - Standalone JIT-style runtime for WebAssembly, using Cranelift
-- [bat](https://github.com/sharkdp/bat)
-  - A cat(1) clone with wings.
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
-  - Unofficial Bitwarden compatible server written in Rust
-- [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
-  - The Mullvad VPN client app for desktop and mobile
-- [firecracker](https://github.com/firecracker-microvm/firecracker)
-  - Secure and fast microVMs for serverless computing.
-- [spotify-tui](https://github.com/Rigellute/spotify-tui)
-  - Spotify for the terminal written in Rust 🚀
-- [tokenizers](https://github.com/huggingface/tokenizers)
-  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
-- [warp](https://github.com/seanmonstar/warp)
-  - A super-easy, composable, web server framework for warp speeds.
-- [tikv](https://github.com/tikv/tikv)
-  - Distributed transactional key-value database, originally created to complement TiDB
-- [bottlerocket](https://github.com/bottlerocket-os/bottlerocket)
-  - An operating system designed for hosting containers
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [async-std](https://github.com/async-rs/async-std)
-  - Async version of the Rust standard library
+- [absolution](https://github.com/Manishearth/absolution)
+  - "Freedom from syn": Proc macro tools for operating on token trees
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [starship](https://github.com/starship/starship)
+  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [pyo3](https://github.com/PyO3/pyo3)
+  - Rust bindings for the Python interpreter
+- [WASI](https://github.com/WebAssembly/WASI)
+  - WebAssembly System Interface
 - [yew](https://github.com/yewstack/yew)
   - Rust / Wasm framework for building client web apps
+- [async-std](https://github.com/async-rs/async-std)
+  - Async version of the Rust standard library
+- [alchemy](https://github.com/ryanmcgrath/alchemy)
+  - An experimental GUI framework for Rust, backed by per-platform native widgets. React, AppKit/UIKit inspired. EXPERIMENTAL, runs on Cocoa right now. ;P
+- [Rust](https://github.com/TheAlgorithms/Rust)
+  - All Algorithms implemented in Rust
+- [alacritty](https://github.com/alacritty/alacritty)
+  - A cross-platform, GPU-accelerated terminal emulator
 - [clap](https://github.com/clap-rs/clap)
   - A full featured, fast Command Line Argument Parser for Rust
-- [substrate](https://github.com/paritytech/substrate)
-  - Substrate: The platform for blockchain innovators
+- [book](https://github.com/rust-lang/book)
+  - The Rust Programming Language
+- [servo](https://github.com/servo/servo)
+  - The Servo Browser Engine
+- [examples](https://github.com/actix/examples)
+  - Actix web examples
+- [kecc-public](https://github.com/kaist-cp/kecc-public)
+  - KECC: KAIST Educational C Compiler
+- [Rocket](https://github.com/SergioBenitez/Rocket)
+  - A web framework for Rust.
+- [juniper](https://github.com/graphql-rust/juniper)
+  - GraphQL server library for Rust
 - [grin](https://github.com/mimblewimble/grin)
   - Minimal implementation of the Mimblewimble protocol.
-- [hyperfine](https://github.com/sharkdp/hyperfine)
-  - A command-line benchmarking tool
+- [tokei](https://github.com/XAMPPRocky/tokei)
+  - Count your code, quickly.
+- [bottom](https://github.com/ClementTsang/bottom)
+  - Yet another cross-platform graphical process/system monitor.
+- [paste](https://github.com/dtolnay/paste)
+  - Macros for all your token pasting needs
+- [espanso](https://github.com/federico-terzi/espanso)
+  - Cross-platform Text Expander written in Rust
+- [tantivy](https://github.com/tantivy-search/tantivy)
+  - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+- [anyhow](https://github.com/dtolnay/anyhow)
+  - Flexible concrete Error type built on std::error::Error
+- [rustup](https://github.com/rust-lang/rustup)
+  - The Rust toolchain installer
 ## c++
-- [rapidjson](https://github.com/Tencent/rapidjson)
-  - A fast JSON parser/generator for C++ with both SAX/DOM style API
-- [NymphCast](https://github.com/MayaPosch/NymphCast)
-  - Audio and video casting system with support for custom applications.
-- [googletest](https://github.com/google/googletest)
-  - Googletest - Google Testing and Mocking Framework
-- [ventilator](https://github.com/jcl5m1/ventilator)
-  - Low-Cost Open Source Ventilator or PAPR
+- [jittor](https://github.com/Jittor/jittor)
+  - Jittor website
 - [interview](https://github.com/huihut/interview)
   - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。
-- [Proton](https://github.com/ValveSoftware/Proton)
-  - Compatibility tool for Steam Play based on Wine and additional components
-- [jsoncpp](https://github.com/open-source-parsers/jsoncpp)
-  - A C++ library for interacting with JSON.
-- [pybind11](https://github.com/pybind/pybind11)
-  - Seamless operability between C++11 and Python
-- [api-connectors](https://github.com/BitMEX/api-connectors)
-  - Libraries for connecting to the BitMEX API.
+- [vnpy](https://github.com/vnpy/vnpy)
+  - 基于Python的开源量化交易平台开发框架
 - [godot](https://github.com/godotengine/godot)
   - Godot Engine – Multi-platform 2D and 3D game engine
-- [Marlin](https://github.com/MarlinFirmware/Marlin)
-  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
-- [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
-  - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly
-- [DirectX-Graphics-Samples](https://github.com/microsoft/DirectX-Graphics-Samples)
-  - This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows.
-- [spdlog](https://github.com/gabime/spdlog)
-  - Fast C++ logging library.
-- [srt](https://github.com/Haivision/srt)
-  - Secure, Reliable, Transport
-- [covid-respirator](https://github.com/covid-response-projects/covid-respirator)
-  - 🦠 3D printable COVID-19 DIY respirator. Aims at helping hospitals cope with a possible shortage of professional respirators during the outbreak.
-- [asio](https://github.com/chriskohlhoff/asio)
-  - Asio C++ Library
-- [dxvk](https://github.com/doitsujin/dxvk)
-  - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
-- [ZLMediaKit](https://github.com/xiongziliang/ZLMediaKit)
-  - A lightweight RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/GB28181 server and client framework based on C++11
-- [cuda-samples](https://github.com/NVIDIA/cuda-samples)
-  - Samples for CUDA Developers which demonstrates features in CUDA Toolkit
-- [faiss](https://github.com/facebookresearch/faiss)
-  - A library for efficient similarity search and clustering of dense vectors.
-- [USD](https://github.com/PixarAnimationStudios/USD)
-  - Universal Scene Description
 - [yuzu](https://github.com/yuzu-emu/yuzu)
   - Nintendo Switch Emulator
-- [mumble](https://github.com/mumble-voip/mumble)
-  - Mumble is an open source, low-latency, high quality voice chat software primarily intended for use while gaming.
-- [doctest](https://github.com/onqtam/doctest)
-  - The fastest feature-rich C++11/14/17/20 single-header testing framework for unit tests and TDD
+- [envoy](https://github.com/envoyproxy/envoy)
+  - Cloud-native high-performance edge/middle/service proxy
+- [anbox](https://github.com/anbox/anbox)
+  - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
+- [openventilator](https://github.com/marcos-mendez/openventilator)
+  - OpenSource Ventilator for the COVID-19 crisis. We aim to provide a cheap and reliable solution for respiratory deseas and inaccesibility to this kind of ventilation medical equipment
+- [Tasmota](https://github.com/arendst/Tasmota)
+  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
+- [trojan](https://github.com/trojan-gfw/trojan)
+  - An unidentifiable mechanism that helps you bypass GFW.
+- [basis_universal](https://github.com/BinomialLLC/basis_universal)
+  - Basis Universal GPU Texture Codec
+- [PrismataAI](https://github.com/davechurchill/PrismataAI)
+  - The C++ AI Engine for Prismata by Lunarch Studios
+- [pigweed](https://github.com/izzimat/pigweed)
+  - 
+- [Proton](https://github.com/ValveSoftware/Proton)
+  - Compatibility tool for Steam Play based on Wine and additional components
+- [ventilator](https://github.com/jcl5m1/ventilator)
+  - Low-Cost Open Source Ventilator or PAPR
+- [covid-respirator](https://github.com/covid-response-projects/covid-respirator)
+  - 🦠 3D printable COVID-19 DIY respirator. Aims at helping hospitals cope with a possible shortage of professional respirators during the outbreak.
+- [Hazel](https://github.com/TheCherno/Hazel)
+  - Hazel Engine
+- [NoahGameFrame](https://github.com/ketoo/NoahGameFrame)
+  - A fast, scalable, distributed game server engine/framework for C++, include the actor library, network library, can be used as a real time multiplayer game engine ( MMO RPG/MOBA ), which support C#/Lua script/ Unity3d, Cocos2dx and plan to support Unreal.
+- [Lilu](https://github.com/acidanthera/Lilu)
+  - Arbitrary kext and process patching on macOS
+- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
+  - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+- [Firmware](https://github.com/PX4/Firmware)
+  - PX4 Autopilot Software
+- [opencv](https://github.com/opencv/opencv)
+  - Open Source Computer Vision Library
+- [tinyrenderer](https://github.com/ssloy/tinyrenderer)
+  - A brief computer graphics / rendering course
+- [rocksdb](https://github.com/facebook/rocksdb)
+  - A library that provides an embeddable, persistent key-value store for fast storage.
+- [PowerToys](https://github.com/microsoft/PowerToys)
+  - Windows system utilities to maximize productivity
 ## typescript
 - [covid19_scenarios](https://github.com/neherlab/covid19_scenarios)
   - Models of COVID-19 outbreak trajectories and hospital demand
-- [vue-next](https://github.com/vuejs/vue-next)
-  - The next major version of Vue (WIP)
-- [react-native-paper](https://github.com/callstack/react-native-paper)
-  - Material Design for React Native (Android & iOS)
-- [formik](https://github.com/jaredpalmer/formik)
-  - Build forms in React, without the tears 😭
+- [excalidraw](https://github.com/excalidraw/excalidraw)
+  - Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
+- [gqless](https://github.com/samdenty/gqless)
+  - A GraphQL client without queries ✨
 - [app](https://github.com/WorldHealthOrganization/app)
   - World Health Organization App
-- [typeorm](https://github.com/typeorm/typeorm)
-  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-- [peerjs-server](https://github.com/peers/peerjs-server)
-  - Server for PeerJS
-- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
-  - The source for REST API specifications for Microsoft Azure.
-- [vuetify](https://github.com/vuetifyjs/vuetify)
-  - 🐉 Material Component Framework for Vue
-- [ionic](https://github.com/ionic-team/ionic)
-  - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
+- [uppload](https://github.com/elninotech/uppload)
+  - 📁 Uppload is a better JavaScript image uploader with 30+ plugins
+- [instagram-private-api](https://github.com/dilame/instagram-private-api)
+  - NodeJS Instagram private API client. Written in TypeScript.
+- [vue-next](https://github.com/vuejs/vue-next)
+  - The next major version of Vue (WIP)
 - [frontend](https://github.com/home-assistant/frontend)
   - 🍭 Frontend for Home Assistant
-- [ant-design](https://github.com/ant-design/ant-design)
-  - 🌈 A UI Design Language and React UI library
-- [bloomrpc](https://github.com/uw-labs/bloomrpc)
-  - GUI Client for GRPC Services
+- [typescript-book](https://github.com/basarat/typescript-book)
+  - 📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖. Free and Open Source 🌹
 - [firebase-js-sdk](https://github.com/firebase/firebase-js-sdk)
   - Firebase Javascript SDK
+- [code-server](https://github.com/cdr/code-server)
+  - Run VS Code on a remote server.
+- [github-actions](https://github.com/GoogleCloudPlatform/github-actions)
+  - A collection of GitHub Actions for interfacing with Google Cloud Platform.
+- [got](https://github.com/sindresorhus/got)
+  - 🌐 Human-friendly and powerful HTTP request library for Node.js
+- [app](https://github.com/CoTrack-Social/app)
+  - App CoTrack.social
 - [aurelia](https://github.com/aurelia/aurelia)
   - Aurelia 2, a standards-based, front-end framework designed for high-performing, ambitious applications.
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
-- [storybook](https://github.com/storybookjs/storybook)
-  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
-  - 📋 React hooks for forms validation without the hassle.
-- [apollo-client](https://github.com/apollographql/apollo-client)
-  - 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
-- [rap2-delos](https://github.com/thx/rap2-delos)
-  - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
-- [amplify-cli](https://github.com/aws-amplify/amplify-cli)
-  - A CLI toolchain for simplifying serverless web and mobile development.
-- [pyright](https://github.com/microsoft/pyright)
-  - Static type checker for Python
-- [peerjs](https://github.com/peers/peerjs)
-  - Peer-to-peer data in the browser.
-- [capacitor](https://github.com/ionic-team/capacitor)
-  - Build cross-platform Native Progressive Web Apps for iOS, Android, and the web ⚡️
-- [topology](https://github.com/le5le-com/topology)
-  - A diagram (topology, UML) framework uses canvas and typescript. 一个轻量（100k左右）、功能丰富的绘图工具（微服务架构图、拓扑图、流程图、类图等ULM图、脑图，动画、视频支持）。 【在线使用】：
+- [outline-client](https://github.com/Jigsaw-Code/outline-client)
+  - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
+- [angularfire](https://github.com/angular/angularfire)
+  - The official Angular library for Firebase.
+- [electron-builder](https://github.com/electron-userland/electron-builder)
+  - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+- [desktop](https://github.com/desktop/desktop)
+  - Simple collaboration from your desktop
+- [grafana](https://github.com/grafana/grafana)
+  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [vue-storefront](https://github.com/DivanteLtd/vue-storefront)
+  - Vue Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported. Always Open Source, MIT license. Join us as contributor (contributors@vuestorefront.io). Check out our new blog: https://blog.vuestorefront.io/
+- [sapper](https://github.com/sveltejs/sapper)
+  - The next small thing in web development, powered by Svelte
+- [n8n](https://github.com/n8n-io/n8n)
+  - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+- [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator)
+  - GraphQL code generator with flexible support for custom plugins and templates
+- [material-components-web](https://github.com/material-components/material-components-web)
+  - Modular and customizable Material Design UI components for the web

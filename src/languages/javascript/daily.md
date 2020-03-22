@@ -1,51 +1,51 @@
 # javascript
 - [baseline](https://github.com/ethereum-oasis/baseline)
   - The Baseline Protocol is an open source initiative that combines advances in cryptography, messaging, and blockchain to execute secure and private business processes at low cost via the public Ethereum Mainnet. The protocol will enable confidential and complex collaboration between enterprises without leaving any sensitive data on-chain
-- [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
-  - 🦠Useful projects and resources for COVID-19 (2019 novel Coronavirus)
-- [tabler-icons](https://github.com/tabler/tabler-icons)
-  - A set of over 300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [AndroidSecurityStudy](https://github.com/r0ysue/AndroidSecurityStudy)
-  - 安卓应用安全学习
-- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
-  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [jira_clone](https://github.com/oldboyxx/jira_clone)
-  - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
-- [matrix](https://github.com/ResultadosDigitais/matrix)
-  - #matrix is the online open-source workplace inspired in sococo.com for distributed teams to have the experience of work together each day, side-by-side. No matter where team members might be. Working in an online workplace is even more productive when people feeling in the same space.
-- [API](https://github.com/NovelCOVID/API)
-  - API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [d3](https://github.com/d3/d3)
-  - Bring data to life with SVG, Canvas and HTML. 📊📈🎉
-- [babel](https://github.com/babel/babel)
-  - 🐠 Babel is a compiler for writing next generation JavaScript.
+- [COVID-QA](https://github.com/deepset-ai/COVID-QA)
+  - API & Webapp to answer questions about COVID-19. Using NLP (Question Answering) and trusted, curated data sources.
 - [covid19](https://github.com/stevenliuyi/covid19)
   - an interactive, animated COVID-19 coronavirus map to track the outbreak over time by country and by region for selected countries (including China, Italy, Korea, Japan, France, Germany, United States)
-- [samples](https://github.com/webrtc/samples)
-  - WebRTC Web demos and samples
-- [secret-hitler](https://github.com/cozuya/secret-hitler)
-  - A web adaptation of the social deduction board game Secret Hitler. https://secrethitler.io
-- [tippyjs](https://github.com/atomiks/tippyjs)
-  - Tooltip, popover, dropdown, and menu library
+- [core](https://github.com/JAVClub/core)
+  - 🔞 JAVClub - 让你的大姐姐不再走丢
+- [dashboard](https://github.com/opencovid19-fr/dashboard)
+  - Tableau de bord de suivi de l'épidémie de nouveau coronavirus
+- [html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
+  - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [covid19](https://github.com/pomber/covid19)
   - JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily
-- [vue-cli4-config](https://github.com/staven630/vue-cli4-config)
-  - vue-cli3配置vue.config.js持续更新
-- [sequelize](https://github.com/sequelize/sequelize)
-  - An easy-to-use multi SQL dialect ORM for Node.js
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
+- [API](https://github.com/NovelCOVID/API)
+  - API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
+- [covid-19-au.github.io](https://github.com/covid-19-au/covid-19-au.github.io)
+  - The Real-time COVID-19 Status in Australia
+- [javascript](https://github.com/airbnb/javascript)
+  - JavaScript Style Guide
+- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
+  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
+  - 🦠Useful projects and resources for COVID-19 (2019 novel Coronavirus)
+- [covid19india-network](https://github.com/someshkar/covid19india-network)
+  - 🔬 COVID 19 India network cluster
+- [covid19-brazil-api](https://github.com/devarthurribeiro/covid19-brazil-api)
+  - API com dados atualizados sobre o status do COVID-19 🦠
+- [electron-quick-start](https://github.com/electron/electron-quick-start)
+  - Clone to try a simple Electron app
+- [coronavirus-tracker-cli](https://github.com/sagarkarira/coronavirus-tracker-cli)
+  - Track conronavirus cases from command line. curl https://corona-stats.online/
+- [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+  - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [create-react-app](https://github.com/facebook/create-react-app)
   - Set up a modern web app by running one command.
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [lib-jitsi-meet](https://github.com/jitsi/lib-jitsi-meet)
-  - A low-level JS video API that allows adding a completely custom video experience to web apps.
-- [covidzero-frontend](https://github.com/CovidZero/covidzero-frontend)
-  - Projeto criado para informar a população brasileira dos casos de COVID-19 em sua região e para auxiliar na prevenção de novos casos.
-- [axios](https://github.com/axios/axios)
-  - Promise based HTTP client for the browser and node.js
-- [slate](https://github.com/slatedocs/slate)
-  - Beautiful static documentation for your API
+- [gabgoh.github.io](https://github.com/gabgoh/gabgoh.github.io)
+  - Homepage
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+  - Headless Chrome Node.js API
+- [grocy](https://github.com/grocy/grocy)
+  - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
+- [corona-cli](https://github.com/ahmadawais/corona-cli)
+  - 🦠 Track the Coronavirus disease (COVID-19) or the Novel Coronavirus Strain in the command line. Both worldwide for every country or for one country. Fast response time (< 100ms).
+- [pandoa](https://github.com/wirewirewirewire/pandoa)
+  - The app informs you, if you had contact with an infected patient.
+- [COVID-19-API](https://github.com/Laeyoung/COVID-19-API)
+  - API Service for tracking the COVID-19
+- [ivideo](https://github.com/phobal/ivideo)
+  - 一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux） A client that can watch video of domestic(China) mainstream video platform
