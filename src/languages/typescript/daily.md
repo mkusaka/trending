@@ -1,51 +1,51 @@
 # typescript
-- [covid19_scenarios](https://github.com/neherlab/covid19_scenarios)
-  - Models of COVID-19 outbreak trajectories and hospital demand
-- [excalidraw](https://github.com/excalidraw/excalidraw)
-  - Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
-- [gqless](https://github.com/samdenty/gqless)
-  - A GraphQL client without queries ✨
-- [app](https://github.com/WorldHealthOrganization/app)
-  - World Health Organization App
-- [uppload](https://github.com/elninotech/uppload)
-  - 📁 Uppload is a better JavaScript image uploader with 30+ plugins
-- [instagram-private-api](https://github.com/dilame/instagram-private-api)
-  - NodeJS Instagram private API client. Written in TypeScript.
-- [vue-next](https://github.com/vuejs/vue-next)
-  - The next major version of Vue (WIP)
-- [frontend](https://github.com/home-assistant/frontend)
-  - 🍭 Frontend for Home Assistant
-- [typescript-book](https://github.com/basarat/typescript-book)
-  - 📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖. Free and Open Source 🌹
-- [firebase-js-sdk](https://github.com/firebase/firebase-js-sdk)
-  - Firebase Javascript SDK
+- [codetour](https://github.com/vsls-contrib/codetour)
+  - VS Code extension that allows you to record and playback guided tours of codebases, directly within the editor
 - [code-server](https://github.com/cdr/code-server)
   - Run VS Code on a remote server.
-- [github-actions](https://github.com/GoogleCloudPlatform/github-actions)
-  - A collection of GitHub Actions for interfacing with Google Cloud Platform.
-- [got](https://github.com/sindresorhus/got)
-  - 🌐 Human-friendly and powerful HTTP request library for Node.js
-- [app](https://github.com/CoTrack-Social/app)
-  - App CoTrack.social
-- [aurelia](https://github.com/aurelia/aurelia)
-  - Aurelia 2, a standards-based, front-end framework designed for high-performing, ambitious applications.
-- [outline-client](https://github.com/Jigsaw-Code/outline-client)
-  - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
-- [angularfire](https://github.com/angular/angularfire)
-  - The official Angular library for Firebase.
-- [electron-builder](https://github.com/electron-userland/electron-builder)
-  - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [desktop](https://github.com/desktop/desktop)
-  - Simple collaboration from your desktop
-- [grafana](https://github.com/grafana/grafana)
-  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [vue-storefront](https://github.com/DivanteLtd/vue-storefront)
-  - Vue Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported. Always Open Source, MIT license. Join us as contributor (contributors@vuestorefront.io). Check out our new blog: https://blog.vuestorefront.io/
+- [excalidraw](https://github.com/excalidraw/excalidraw)
+  - Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
+- [app](https://github.com/WorldHealthOrganization/app)
+  - World Health Organization App
+- [streamlabs-obs](https://github.com/stream-labs/streamlabs-obs)
+  - Free and open source streaming software built on OBS and Electron.
+- [vscode](https://github.com/microsoft/vscode)
+  - Visual Studio Code
+- [codenames](https://github.com/jbowens/codenames)
+  - Play codenames using a TV or computer for the board
+- [covid19_scenarios](https://github.com/neherlab/covid19_scenarios)
+  - Models of COVID-19 outbreak trajectories and hospital demand
+- [Vim](https://github.com/VSCodeVim/Vim)
+  - ⭐️ Vim for Visual Studio Code
+- [gqless](https://github.com/samdenty/gqless)
+  - A GraphQL client without queries ✨
+- [nest](https://github.com/nestjs/nest)
+  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [fluentui](https://github.com/microsoft/fluentui)
+  - We've moved! UI Fabric is now Fluent UI - A set of React components for building Microsoft web experiences.
+- [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
+  - A Foundation for Scalable Cross-Platform Apps
+- [angular-electron](https://github.com/maximegris/angular-electron)
+  - Ultra-fast bootstrapping with Angular and Electron (Typescript + SASS + Hot Reload) 🚤
+- [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
+  - Foreign language reading and translation assistant based on copy and translate.
+- [deno](https://github.com/denoland/deno)
+  - A secure JavaScript and TypeScript runtime
 - [sapper](https://github.com/sveltejs/sapper)
   - The next small thing in web development, powered by Svelte
+- [angularfire](https://github.com/angular/angularfire)
+  - The official Angular library for Firebase.
+- [TypeScript-Website](https://github.com/microsoft/TypeScript-Website)
+  - The Website for TypeScript
+- [idb](https://github.com/jakearchibald/idb)
+  - IndexedDB, but with promises
+- [vscode-go](https://github.com/microsoft/vscode-go)
+  - An extension for VS Code which provides support for the Go language.
+- [utterances](https://github.com/utterance/utterances)
+  - 🔮 A lightweight comments widget built on GitHub issues
+- [countUp.js](https://github.com/inorganik/countUp.js)
+  - Animates a numerical value by counting to it
+- [apollo-server](https://github.com/apollographql/apollo-server)
+  - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
 - [n8n](https://github.com/n8n-io/n8n)
   - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
-- [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator)
-  - GraphQL code generator with flexible support for custom plugins and templates
-- [material-components-web](https://github.com/material-components/material-components-web)
-  - Modular and customizable Material Design UI components for the web

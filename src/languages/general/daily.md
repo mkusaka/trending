@@ -1,50 +1,51 @@
 # general
 - [Foodium](https://github.com/PatilShreyas/Foodium) : Kotlin
   - 🍲Foodium is a sample food blog Android application 📱 built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).
-- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) : Python
-  - 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（武汉加油！中国加油！世界加油！）
-- [nlp-tutorial](https://github.com/graykode/nlp-tutorial) : Jupyter Notebook
-  - Natural Language Processing Tutorial for Deep Learning Researchers
-- [BookOmatic](https://github.com/KalleHallden/BookOmatic) : Python
-- [domoticz](https://github.com/domoticz/domoticz) : C
-  - Open source Home Automation System
-- [covid19_scenarios](https://github.com/neherlab/covid19_scenarios) : TypeScript
-  - Models of COVID-19 outbreak trajectories and hospital demand
-- [nerf](https://github.com/bmild/nerf) : Jupyter Notebook
-  - Code release for NeRF (Neural Radiance Fields)
-- [browser-2020](https://github.com/luruke/browser-2020) : 
-  - Things you can do with a browser in 2020 ☕️
 - [nightingale](https://github.com/didi/nightingale) : Go
   - A Distributed and High-Performance Monitoring System
-- [coronasafe.in](https://github.com/coronasafe/coronasafe.in) : 
-  - A crowd-sourced guide to staying safe in Coronavirus disease (COVID-19) outbreak.
-- [night-reading-go](https://github.com/developer-learning/night-reading-go) : Go
-  - Night-Reading-Go《Go 夜读》 > Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics. 由 Go 夜读 SIG 成员维护，并通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。
-- [covid_19](https://github.com/openZH/covid_19) : Jupyter Notebook
-  - COVID19 case numbers Cantons of Switzerland and Principality of Liechtenstein (FL) - case numbers include persons tested in the respective area. The data is updated at best once a day (times of collection and update may vary). Start with the README! Help closing the gaps:
-- [deeplearning2020](https://github.com/into-ai/deeplearning2020) : Jupyter Notebook
-  - course materials for introduction to deep learning 2020
-- [covid19-cases-switzerland](https://github.com/daenuprobst/covid19-cases-switzerland) : HTML
-  - Data from BAG Tweets made useful.
-- [baseline](https://github.com/ethereum-oasis/baseline) : JavaScript
-  - The Baseline Protocol is an open source initiative that combines advances in cryptography, messaging, and blockchain to execute secure and private business processes at low cost via the public Ethereum Mainnet. The protocol will enable confidential and complex collaboration between enterprises without leaving any sensitive data on-chain
-- [COVID-19](https://github.com/peixebabel/COVID-19) : Jupyter Notebook
-  - Dados e plots sobre as informações do Corona Virus levantadas pelo Peixe Babel.
-- [CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) : 
-  - 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）
-- [automl](https://github.com/google/automl) : Python
-  - Google Brain AutoML
-- [jittor](https://github.com/Jittor/jittor) : C++
-  - Jittor website
-- [COVID-QA](https://github.com/deepset-ai/COVID-QA) : Jupyter Notebook
-  - API & Webapp to answer questions about COVID-19. Using NLP (Question Answering) and trusted, curated data sources.
+- [grocy](https://github.com/grocy/grocy) : JavaScript
+  - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
 - [COVID-19](https://github.com/elcronos/COVID-19) : Jupyter Notebook
   - COVID-19 Detector from x-rays using Computer Vision and Deep Learning
-- [covid19](https://github.com/stevenliuyi/covid19) : JavaScript
-  - an interactive, animated COVID-19 coronavirus map to track the outbreak over time by country and by region for selected countries (including China, Italy, Korea, Japan, France, Germany, United States)
-- [theMLbook](https://github.com/aburkov/theMLbook) : Python
-  - The Python code to reproduce the illustrations from The Hundred-Page Machine Learning Book.
-- [core](https://github.com/JAVClub/core) : JavaScript
-  - 🔞 JAVClub - 让你的大姐姐不再走丢
+- [covid-19](https://github.com/datasets/covid-19) : Python
+  - Novel Coronavirus 2019 time series data on cases
+- [corona-cli](https://github.com/ahmadawais/corona-cli) : JavaScript
+  - 🦠 Track the Coronavirus disease (COVID-19) or the Novel Coronavirus Strain in the command line. Both worldwide for all countries, for one country, or for the US States. Fast response time (< 100ms).
+- [julia](https://github.com/JuliaLang/julia) : Julia
+  - The Julia Language: A fresh approach to technical computing.
+- [core](https://github.com/home-assistant/core) : Python
+  - 🏡 Open source home automation that puts local control and privacy first
+- [COVID-QA](https://github.com/deepset-ai/COVID-QA) : Jupyter Notebook
+  - API & Webapp to answer questions about COVID-19. Using NLP (Question Answering) and trusted, curated data sources.
+- [care](https://github.com/coronasafe/care) : Python
+  - Care is a single point to link Hospitals,Corona Care Centers and Volunteers to the unified Corona Safe Network so that the Kerala Chief Ministers Office has direct access to live reports of health data v/s our total. healthcare capacity
+- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) : Python
+  - 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（武汉加油！中国加油！世界加油！）
+- [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) : 
+  - Data science interview questions and answers
+- [jittor](https://github.com/Jittor/jittor) : C++
+  - Jittor website
+- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) : JavaScript
+  - 一个基于 electron 的音乐软件
+- [OnJava8](https://github.com/LingCoder/OnJava8) : 
+  - 《On Java 8》中文版，又名《Java编程思想》 第5版
+- [QuantumultX](https://github.com/nzw9314/QuantumultX) : 
+  - QuantumultX
+- [COVID-19](https://github.com/peixebabel/COVID-19) : Jupyter Notebook
+  - Dados e plots sobre as informações do Corona Virus levantadas pelo Peixe Babel.
+- [ant-design-blazor](https://github.com/ElderJames/ant-design-blazor) : CSS
+  - 🌈An enterprise-class UI components based on Ant Design and Blazor WebAssembly.
+- [OxyGEN](https://github.com/ProtofyTeam/OxyGEN) : MATLAB
+  - OxyGEN
+- [covid19](https://github.com/pomber/covid19) : JavaScript
+  - JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily
+- [igniter](https://github.com/trojan-gfw/igniter) : Java
+  - A trojan client for Android (UNDER CONSTRUCTION).
+- [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) : 
+  - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
 - [interview](https://github.com/huihut/interview) : C++
   - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。
+- [automl](https://github.com/google/automl) : Python
+  - Google Brain AutoML
+- [COVID-19](https://github.com/pcm-dpc/COVID-19) : 
+  - COVID-19 Italia - Monitoraggio situazione

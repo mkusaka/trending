@@ -1,51 +1,51 @@
 # rust
-- [absolution](https://github.com/Manishearth/absolution)
-  - "Freedom from syn": Proc macro tools for operating on token trees
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [pyo3](https://github.com/PyO3/pyo3)
-  - Rust bindings for the Python interpreter
-- [WASI](https://github.com/WebAssembly/WASI)
-  - WebAssembly System Interface
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
-- [async-std](https://github.com/async-rs/async-std)
-  - Async version of the Rust standard library
-- [alchemy](https://github.com/ryanmcgrath/alchemy)
-  - An experimental GUI framework for Rust, backed by per-platform native widgets. React, AppKit/UIKit inspired. EXPERIMENTAL, runs on Cocoa right now. ;P
-- [Rust](https://github.com/TheAlgorithms/Rust)
-  - All Algorithms implemented in Rust
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
-- [book](https://github.com/rust-lang/book)
-  - The Rust Programming Language
-- [servo](https://github.com/servo/servo)
-  - The Servo Browser Engine
-- [examples](https://github.com/actix/examples)
-  - Actix web examples
-- [kecc-public](https://github.com/kaist-cp/kecc-public)
-  - KECC: KAIST Educational C Compiler
-- [Rocket](https://github.com/SergioBenitez/Rocket)
-  - A web framework for Rust.
-- [juniper](https://github.com/graphql-rust/juniper)
-  - GraphQL server library for Rust
-- [grin](https://github.com/mimblewimble/grin)
-  - Minimal implementation of the Mimblewimble protocol.
 - [tokei](https://github.com/XAMPPRocky/tokei)
   - Count your code, quickly.
-- [bottom](https://github.com/ClementTsang/bottom)
-  - Yet another cross-platform graphical process/system monitor.
-- [paste](https://github.com/dtolnay/paste)
-  - Macros for all your token pasting needs
-- [espanso](https://github.com/federico-terzi/espanso)
-  - Cross-platform Text Expander written in Rust
-- [tantivy](https://github.com/tantivy-search/tantivy)
-  - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
-- [anyhow](https://github.com/dtolnay/anyhow)
-  - Flexible concrete Error type built on std::error::Error
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [Rust](https://github.com/TheAlgorithms/Rust)
+  - All Algorithms implemented in Rust
+- [rustlings](https://github.com/rust-lang/rustlings)
+  - Small exercises to get you used to reading and writing Rust code!
+- [juniper](https://github.com/graphql-rust/juniper)
+  - GraphQL server library for Rust
+- [examples](https://github.com/actix/examples)
+  - Actix web examples
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [absolution](https://github.com/Manishearth/absolution)
+  - "Freedom from syn": Proc macro tools for operating on token trees
+- [ytop](https://github.com/cjbassi/ytop)
+  - A TUI system monitor written in Rust
+- [fd](https://github.com/sharkdp/fd)
+  - A simple, fast and user-friendly alternative to 'find'
+- [tokio](https://github.com/tokio-rs/tokio)
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
+- [alchemy](https://github.com/ryanmcgrath/alchemy)
+  - An experimental GUI framework for Rust, backed by per-platform native widgets. React, AppKit/UIKit inspired. EXPERIMENTAL, runs on Cocoa right now. ;P
+- [spotifyd](https://github.com/Spotifyd/spotifyd)
+  - A spotify daemon
+- [cargo](https://github.com/rust-lang/cargo)
+  - The Rust package manager
+- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
+  - Facilitating high-level interactions between Wasm modules and JavaScript
+- [WASI](https://github.com/WebAssembly/WASI)
+  - WebAssembly System Interface
+- [book](https://github.com/rust-lang/book)
+  - The Rust Programming Language
+- [git2-rs](https://github.com/rust-lang/git2-rs)
+  - libgit2 bindings for Rust
+- [amethyst](https://github.com/amethyst/amethyst)
+  - Data-oriented and data-driven game engine written in Rust
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
 - [rustup](https://github.com/rust-lang/rustup)
   - The Rust toolchain installer
+- [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim)
+  - Language Server Protocol (LSP) support for vim and neovim.
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix web is a small, pragmatic, and extremely fast rust web framework.
+- [legion](https://github.com/TomGillen/legion)
+  - High performance Rust ECS library
