@@ -1,51 +1,51 @@
 # javascript
-- [baseline](https://github.com/ethereum-oasis/baseline)
-  - The Baseline Protocol is an open source initiative that combines advances in cryptography, messaging, and blockchain to execute secure and private business processes at low cost via the public Ethereum Mainnet. The protocol will enable confidential and complex collaboration between enterprises without leaving any sensitive data on-chain
-- [COVID-QA](https://github.com/deepset-ai/COVID-QA)
-  - API & Webapp to answer questions about COVID-19. Using NLP (Question Answering) and trusted, curated data sources.
-- [covid19](https://github.com/stevenliuyi/covid19)
-  - an interactive, animated COVID-19 coronavirus map to track the outbreak over time by country and by region for selected countries (including China, Italy, Korea, Japan, France, Germany, United States)
-- [core](https://github.com/JAVClub/core)
-  - 🔞 JAVClub - 让你的大姐姐不再走丢
-- [dashboard](https://github.com/opencovid19-fr/dashboard)
-  - Tableau de bord de suivi de l'épidémie de nouveau coronavirus
-- [html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
-  - A professional front-end template for building fast, robust, and adaptable web apps or sites.
-- [covid19](https://github.com/pomber/covid19)
-  - JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily
-- [API](https://github.com/NovelCOVID/API)
-  - API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
-- [covid-19-au.github.io](https://github.com/covid-19-au/covid-19-au.github.io)
-  - The Real-time COVID-19 Status in Australia
-- [javascript](https://github.com/airbnb/javascript)
-  - JavaScript Style Guide
-- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
-  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
-  - 🦠Useful projects and resources for COVID-19 (2019 novel Coronavirus)
-- [covid19india-network](https://github.com/someshkar/covid19india-network)
-  - 🔬 COVID 19 India network cluster
-- [covid19-brazil-api](https://github.com/devarthurribeiro/covid19-brazil-api)
-  - API com dados atualizados sobre o status do COVID-19 🦠
-- [electron-quick-start](https://github.com/electron/electron-quick-start)
-  - Clone to try a simple Electron app
-- [coronavirus-tracker-cli](https://github.com/sagarkarira/coronavirus-tracker-cli)
-  - Track conronavirus cases from command line. curl https://corona-stats.online/
-- [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
-  - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-- [create-react-app](https://github.com/facebook/create-react-app)
-  - Set up a modern web app by running one command.
-- [gabgoh.github.io](https://github.com/gabgoh/gabgoh.github.io)
-  - Homepage
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
 - [grocy](https://github.com/grocy/grocy)
   - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
 - [corona-cli](https://github.com/ahmadawais/corona-cli)
-  - 🦠 Track the Coronavirus disease (COVID-19) or the Novel Coronavirus Strain in the command line. Both worldwide for every country or for one country. Fast response time (< 100ms).
+  - 🦠 Track the Coronavirus disease (COVID-19) or the Novel Coronavirus Strain in the command line. Both worldwide for all countries, for one country, or for the US States. Fast response time (< 100ms).
+- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
+  - 一个基于 electron 的音乐软件
+- [covid19](https://github.com/pomber/covid19)
+  - JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily
+- [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
+  - 🦠Useful projects and resources for COVID-19 (2019 novel Coronavirus)
+- [API](https://github.com/NovelCOVID/API)
+  - API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
+- [gabgoh.github.io](https://github.com/gabgoh/gabgoh.github.io)
+  - Homepage
+- [dribbble2react](https://github.com/react-ui-kit/dribbble2react)
+  - Transform Dribbble designs to React-Native code & YouTube video tutorials
+- [prettier](https://github.com/prettier/prettier)
+  - Prettier is an opinionated code formatter.
+- [core](https://github.com/JAVClub/core)
+  - 🔞 JAVClub - 让你的大姐姐不再走丢
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
+  - Short JavaScript code snippets for all your development needs
+- [covid19italia](https://github.com/emergenzeHack/covid19italia)
+  - Condividiamo informazioni e segnalazioni sul COVID19
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel)
+  - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
+  - Starter files, final projects and FAQ for my Complete JavaScript course
+- [code-resume](https://github.com/amitmishrg/code-resume)
+  - Build your own Resume 📖in seconds
+- [covid19india](https://github.com/covid19india/covid19india)
+  - Inactive project. Please use https://github.com/covid19india/covid19india-react from now
+- [joplin](https://github.com/laurent22/joplin)
+  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [pandoa](https://github.com/wirewirewirewire/pandoa)
   - The app informs you, if you had contact with an infected patient.
-- [COVID-19-API](https://github.com/Laeyoung/COVID-19-API)
-  - API Service for tracking the COVID-19
-- [ivideo](https://github.com/phobal/ivideo)
-  - 一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux） A client that can watch video of domestic(China) mainstream video platform
+- [morse-decoder](https://github.com/romacher/morse-decoder)
+  - 
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
+  - Based on a true story
+- [covid19india-network](https://github.com/someshkar/covid19india-network)
+  - 🔬 COVID 19 India network cluster
+- [p5.js](https://github.com/processing/p5.js)
+  - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
+- [baseline](https://github.com/ethereum-oasis/baseline)
+  - The Baseline Protocol is an open source initiative that combines advances in cryptography, messaging, and blockchain to execute secure and private business processes at low cost via the public Ethereum Mainnet. The protocol will enable confidential and complex collaboration between enterprises without leaving any sensitive data on-chain
