@@ -1,51 +1,51 @@
 # typescript
 - [excalidraw](https://github.com/excalidraw/excalidraw)
   - Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
-- [vetur](https://github.com/vuejs/vetur)
-  - Vue tooling for VS Code.
-- [ant-design-pro](https://github.com/ant-design/ant-design-pro)
-  - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
-- [tfjs-models](https://github.com/tensorflow/tfjs-models)
-  - Pretrained models for TensorFlow.js
-- [hospitalrun-frontend](https://github.com/HospitalRun/hospitalrun-frontend)
-  - Frontend for HospitalRun
+- [ionic](https://github.com/ionic-team/ionic)
+  - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
+- [lens](https://github.com/lensapp/lens)
+  - Lens - The Kubernetes IDE
+- [covid-19-api](https://github.com/mathdroid/covid-19-api)
+  - COVID-19 global data (from JHU CSSE for now) as-a-service
+- [twilio-video-app-react](https://github.com/twilio/twilio-video-app-react)
+  - A collaboration application built with the twilio-video.js SDK and React.js
 - [vue-next](https://github.com/vuejs/vue-next)
   - The next major version of Vue (WIP)
-- [TypeScript](https://github.com/microsoft/TypeScript)
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [nest](https://github.com/nestjs/nest)
+  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [streamlabs-obs](https://github.com/stream-labs/streamlabs-obs)
+  - Free and open source streaming software built on OBS and Electron.
+- [code-server](https://github.com/cdr/code-server)
+  - Run VS Code on a remote server.
+- [desktop](https://github.com/desktop/desktop)
+  - Simple collaboration from your desktop
 - [prisma2](https://github.com/prisma/prisma2)
   - Modern DB toolkit to query, migrate and model your database
-- [umi](https://github.com/umijs/umi)
-  - 🌋 Pluggable enterprise-level react application framework.
-- [G2](https://github.com/antvis/G2)
-  - 📊 A highly interactive data-driven visualization grammar for statistical charts.
-- [shell](https://github.com/pop-os/shell)
-  - Pop!_OS Shell - WIP
-- [face-api.js](https://github.com/justadudewhohacks/face-api.js)
-  - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 - [qiankun](https://github.com/umijs/qiankun)
   - 📦🚀Blazing fast, simple and completed solution for micro frontends.
-- [wenyan](https://github.com/wenyan-lang/wenyan)
-  - 文言文編程語言 A programming language for the ancient Chinese.
-- [Sup](https://github.com/arnnis/Sup)
-  - A Slack client with WhatsApp like UI
-- [pixi.js](https://github.com/pixijs/pixi.js)
-  - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
-- [darkreader](https://github.com/darkreader/darkreader)
-  - Dark Reader Chrome and Firefox extension
-- [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
-  - Foreign language reading and translation assistant based on copy and translate.
-- [ant-design](https://github.com/ant-design/ant-design)
-  - 🌈 A UI Design Language and React UI library
-- [PoE-Overlay](https://github.com/Kyusung4698/PoE-Overlay)
-  - An Overlay for Path of Exile. Built with Electron and Angular.
-- [ext-saladict](https://github.com/crimx/ext-saladict)
-  - Feature-rich inline translator.
+- [umi](https://github.com/umijs/umi)
+  - 🌋 Pluggable enterprise-level react application framework.
+- [face-api.js](https://github.com/justadudewhohacks/face-api.js)
+  - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 - [vscode](https://github.com/microsoft/vscode)
   - Visual Studio Code
-- [wechaty](https://github.com/wechaty/wechaty)
-  - WeChat Bot SDK for Individual Account, Powered by TypeScript, Docker, and 💖
-- [recharts](https://github.com/recharts/recharts)
-  - Redefined chart library built with React and D3
+- [PoE-Overlay](https://github.com/Kyusung4698/PoE-Overlay)
+  - An Overlay for Path of Exile. Built with Electron and Angular.
+- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
+  - The source for REST API specifications for Microsoft Azure.
 - [vuetify](https://github.com/vuetifyjs/vuetify)
   - 🐉 Material Component Framework for Vue
+- [editor.js](https://github.com/codex-team/editor.js)
+  - A block-styled editor with clean JSON output
+- [uppload](https://github.com/elninotech/uppload)
+  - 📁 Uppload is a better JavaScript image uploader with 30+ plugins
+- [G6](https://github.com/antvis/G6)
+  - ♾ A Graph Visualization Framework in JavaScript
+- [ng-matero](https://github.com/ng-matero/ng-matero)
+  - Angular Material admin dashboard template.
+- [erxes](https://github.com/erxes/erxes)
+  - Open source growth marketing platform
+- [rap2-delos](https://github.com/thx/rap2-delos)
+  - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
+- [codetour](https://github.com/vsls-contrib/codetour)
+  - VS Code extension that allows you to record and playback guided tours of codebases, directly within the editor

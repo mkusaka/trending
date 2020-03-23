@@ -1,51 +1,51 @@
 # general
-- [COVID-19](https://github.com/pcm-dpc/COVID-19) : 
-  - COVID-19 Italia - Monitoraggio situazione
 - [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
   - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) : C++
-  - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
-- [stayinghomeclub](https://github.com/phildini/stayinghomeclub) : Ruby
-  - A list of all the companies WFH or events changed because of covid-19
-- [google-research](https://github.com/google-research/google-research) : Jupyter Notebook
-  - Google Research
-- [advanced-java](https://github.com/doocs/advanced-java) : Java
-  - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
-- [JavaFamily](https://github.com/AobingJava/JavaFamily) : 
-  - 【互联网一线大厂面试+学习指南】
-- [7days-golang](https://github.com/geektutu/7days-golang) : Go
-  - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc) 7天用Go动手写/从零实现系列
-- [ncov](https://github.com/nextstrain/ncov) : Python
-  - Nextstrain build for novel coronavirus (nCoV)
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
-  - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
-- [mediapipe](https://github.com/google/mediapipe) : C++
-  - MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
-- [JavaGuide](https://github.com/Snailclimb/JavaGuide) : Java
-  - 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 - [jitsi-meet](https://github.com/jitsi/jitsi-meet) : JavaScript
   - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [pytorch](https://github.com/pytorch/pytorch) : C++
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [OnJava8](https://github.com/LingCoder/OnJava8) : 
-  - 《On Java 8》中文版，又名《Java编程思想》 第5版
-- [cat](https://github.com/dianping/cat) : Java
-  - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
-- [xxl-job](https://github.com/xuxueli/xxl-job) : Java
-  - A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
-- [flutter-go](https://github.com/alibaba/flutter-go) : Dart
-  - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
-- [hutool](https://github.com/looly/hutool) : Java
-  - A set of tools that keep Java sweet.
-- [QuantumultX](https://github.com/nzw9314/QuantumultX) : 
-  - QuantumultX
-- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) : C++
-  - C++那些事
-- [abp](https://github.com/abpframework/abp) : C#
-  - Open Source Web Application Framework for ASP.NET Core
-- [spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) : Java
-  - Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
-- [tidb-in-action](https://github.com/pingcap-incubator/tidb-in-action) : 
-  - TiDB In Action: based on 4.0
-- [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) : Java
-  - spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…
+- [newbee-mall](https://github.com/newbee-ltd/newbee-mall) : Java
+  - newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
+- [COVID-19](https://github.com/pcm-dpc/COVID-19) : 
+  - COVID-19 Italia - Monitoraggio situazione
+- [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) : HTML
+  - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
+- [ish](https://github.com/tbodt/ish) : C
+  - Linux shell for iOS
+- [Sentinel](https://github.com/alibaba/Sentinel) : Java
+  - A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
+- [coronavirus](https://github.com/FoldingAtHome/coronavirus) : Python
+  - Folding@home COVID-19 efforts
+- [bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) : Java
+  - Complete open source web conferencing system.
+- [CoronaTracker](https://github.com/MhdHejazi/CoronaTracker) : Swift
+  - Coronavirus tracker app for iOS & macOS with maps & charts
+- [miaosha](https://github.com/qiurunze123/miaosha) : Java
+  - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
+- [obs-studio](https://github.com/obsproject/obs-studio) : C
+  - OBS Studio - Free and open source software for live streaming and screen recording
+- [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) : C++
+  - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
+- [covid-19](https://github.com/datasets/covid-19) : Python
+  - Novel Coronavirus 2019 time series data on cases
+- [synapse](https://github.com/matrix-org/synapse) : Python
+  - Synapse: Matrix reference homeserver
+- [lazygit](https://github.com/jesseduffield/lazygit) : Go
+  - simple terminal UI for git commands
+- [excalidraw](https://github.com/excalidraw/excalidraw) : TypeScript
+  - Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
+- [COVID-19](https://github.com/midas-network/COVID-19) : TeX
+  - 2019 novel coronavirus repository
+- [samples](https://github.com/webrtc/samples) : JavaScript
+  - WebRTC Web demos and samples
+- [covid19](https://github.com/twiecki/covid19) : Jupyter Notebook
+  - Analyses about the COVID-19 virus
+- [manim](https://github.com/3b1b/manim) : Python
+  - Animation engine for explanatory math videos
+- [JavaGuide](https://github.com/Snailclimb/JavaGuide) : Java
+  - 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+- [chat](https://github.com/tinode/chat) : Go
+  - Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots
+- [cim](https://github.com/crossoverJie/cim) : Java
+  - 📲cim(cross IM) 适用于开发者的分布式即时通讯系统
+- [devilutionX](https://github.com/diasurgical/devilutionX) : C++
+  - Diablo build for modern operating systems
