@@ -5,7 +5,7 @@
   - A Distributed and High-Performance Monitoring System
 - [grocy](https://github.com/grocy/grocy) : JavaScript
   - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
-- [COVID-19](https://github.com/elcronos/COVID-19) : Jupyter Notebook
+- [COVID-19](https://github.com/elcronos/COVID-19) : JavaScript
   - COVID-19 Detector from x-rays using Computer Vision and Deep Learning
 - [covid-19](https://github.com/datasets/covid-19) : Python
   - Novel Coronavirus 2019 time series data on cases
@@ -18,13 +18,13 @@
 - [COVID-QA](https://github.com/deepset-ai/COVID-QA) : Jupyter Notebook
   - API & Webapp to answer questions about COVID-19. Using NLP (Question Answering) and trusted, curated data sources.
 - [care](https://github.com/coronasafe/care) : Python
-  - Care is a single point to link Hospitals,Corona Care Centers and Volunteers to the unified Corona Safe Network so that the Kerala Chief Ministers Office has direct access to live reports of health data v/s our total. healthcare capacity
+  - Care is a single point to link Hospitals, Corona Care Centers and Volunteers to the unified Corona Safe Network so that the Kerala Chief Ministers Office has direct access to live reports of health data v/s our total. healthcare capacity
 - [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) : Python
   - 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（武汉加油！中国加油！世界加油！）
 - [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) : 
   - Data science interview questions and answers
 - [jittor](https://github.com/Jittor/jittor) : C++
-  - Jittor website
+  - Jittor is a high-performance deep learning framework based on JIT compiling and meta-operators.
 - [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) : JavaScript
   - 一个基于 electron 的音乐软件
 - [OnJava8](https://github.com/LingCoder/OnJava8) : 
@@ -45,7 +45,7 @@
   - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
 - [interview](https://github.com/huihut/interview) : C++
   - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。
-- [automl](https://github.com/google/automl) : Python
+- [automl](https://github.com/google/automl) : Jupyter Notebook
   - Google Brain AutoML
 - [COVID-19](https://github.com/pcm-dpc/COVID-19) : 
   - COVID-19 Italia - Monitoraggio situazione
