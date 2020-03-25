@@ -133,7 +133,7 @@
 - [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
   - Starter files, final projects and FAQ for my Complete JavaScript course
 - [code-resume](https://github.com/amitmishrg/code-resume)
-  - Build your own Resume 📖in seconds
+  - Build your own Resume 📖 in seconds
 - [covid19india](https://github.com/covid19india/covid19india)
   - Inactive project. Please use https://github.com/covid19india/covid19india-react from now
 - [joplin](https://github.com/laurent22/joplin)
@@ -147,7 +147,7 @@
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
   - Based on a true story
 - [covid19india-network](https://github.com/someshkar/covid19india-network)
-  - 🔬 COVID 19 India network cluster
+  - 🔬 COVID19 India network cluster
 - [p5.js](https://github.com/processing/p5.js)
   - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
 - [baseline](https://github.com/ethereum-oasis/baseline)
@@ -188,7 +188,7 @@
 - [remote-working](https://github.com/greatghoul/remote-working)
   - 收集整理远程工作相关的资料
 - [govuk-coronavirus-vulnerable-people-form](https://github.com/alphagov/govuk-coronavirus-vulnerable-people-form)
-  - 
+  - Helps citizens get support during the COVID-19 pandemic
 - [gemoji](https://github.com/github/gemoji)
   - Emoji images and names.
 - [gitlabhq](https://github.com/gitlabhq/gitlabhq)
