@@ -34,7 +34,7 @@
 - [remote-working](https://github.com/greatghoul/remote-working)
   - 收集整理远程工作相关的资料
 - [govuk-coronavirus-vulnerable-people-form](https://github.com/alphagov/govuk-coronavirus-vulnerable-people-form)
-  - 
+  - Helps citizens get support during the COVID-19 pandemic
 - [gemoji](https://github.com/github/gemoji)
   - Emoji images and names.
 - [gitlabhq](https://github.com/gitlabhq/gitlabhq)
