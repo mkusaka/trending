@@ -1,51 +1,51 @@
 # c++
-- [jittor](https://github.com/Jittor/jittor)
-  - Jittor is a high-performance deep learning framework based on JIT compiling and meta-operators.
-- [interview](https://github.com/huihut/interview)
-  - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。
-- [openventilator](https://github.com/popsolutions/openventilator)
-  - OpenSource Ventilator for the COVID-19 crisis. We aim to provide a cheap and reliable solution for respiratory deseas and inaccesibility to this kind of ventilation medical equipment
-- [trojan](https://github.com/trojan-gfw/trojan)
-  - An unidentifiable mechanism that helps you bypass GFW.
+- [MegEngine](https://github.com/MegEngine/MegEngine)
+  - MegEngine 是一个快速、可拓展、易于使用且支持自动求导的数值计算框架
+- [tensorflow](https://github.com/tensorflow/tensorflow)
+  - An Open Source Machine Learning Framework for Everyone
+- [qBittorrent](https://github.com/qbittorrent/qBittorrent)
+  - qBittorrent BitTorrent client
+- [swift](https://github.com/apple/swift)
+  - The Swift Programming Language
+- [Osiris](https://github.com/danielkrupinski/Osiris)
+  - Free open-source training software / cheat for Counter-Strike: Global Offensive, written in modern C++. GUI powered by imgui.
+- [llvm-project](https://github.com/llvm/llvm-project)
+  - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
+- [obs-virtual-cam](https://github.com/CatxFish/obs-virtual-cam)
+  - obs-studio plugin to simulate a directshow webcam
+- [envoy](https://github.com/envoyproxy/envoy)
+  - Cloud-native high-performance edge/middle/service proxy
 - [Magisk](https://github.com/topjohnwu/Magisk)
   - The Magic Mask for Android
-- [dolphin](https://github.com/dolphin-emu/dolphin)
-  - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
-- [rpcs3](https://github.com/RPCS3/rpcs3)
-  - PS3 emulator/debugger
-- [imgui](https://github.com/ocornut/imgui)
-  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
-- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
-  - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
-- [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2)
-  - An open source re-implementation of RollerCoaster Tycoon 2 🎢
-- [videos](https://github.com/OneLoneCoder/videos)
-  - The official distribution of olcConsoleGameEngine, a tool used in javidx9's YouTube videos and projects
-- [calculator](https://github.com/microsoft/calculator)
-  - Windows Calculator: A simple yet powerful calculator that ships with Windows
+- [ceph](https://github.com/ceph/ceph)
+  - Ceph is a distributed object, block, and file storage platform
 - [Marlin](https://github.com/MarlinFirmware/Marlin)
   - Optimized firmware for RepRap 3D printers based on the Arduino platform.
-- [yuzu](https://github.com/yuzu-emu/yuzu)
-  - Nintendo Switch Emulator
-- [AppleALC](https://github.com/acidanthera/AppleALC)
-  - Native macOS HD audio for not officially supported codecs
-- [PowerToys](https://github.com/microsoft/PowerToys)
-  - Windows system utilities to maximize productivity
-- [asio](https://github.com/chriskohlhoff/asio)
-  - Asio C++ Library
-- [emscripten](https://github.com/emscripten-core/emscripten)
-  - Emscripten: An LLVM-to-Web Compiler
-- [LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions)
-  - (Weekly Update) Python / C++11 Solutions of All 1392 LeetCode Problems
-- [esphome](https://github.com/esphome/esphome)
-  - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
-- [srs](https://github.com/ossrs/srs)
-  - SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.
-- [AVData](https://github.com/Ford/AVData)
-  - Autonomous Vehicle Seasonal Dataset
-- [ventilator](https://github.com/jcl5m1/ventilator)
-  - Low-Cost Open Source Ventilator or PAPR
-- [endless-sky](https://github.com/endless-sky/endless-sky)
-  - Space exploration, trading, and combat game.
-- [PrismataAI](https://github.com/davechurchill/PrismataAI)
-  - The C++ AI Engine for Prismata by Lunarch Studios
+- [JUCE](https://github.com/WeAreROLI/JUCE)
+  - The JUCE cross-platform C++ framework
+- [opencv_contrib](https://github.com/opencv/opencv_contrib)
+  - Repository for OpenCV's extra modules
+- [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)
+  - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects
+- [vision_opencv](https://github.com/ros-perception/vision_opencv)
+  - 
+- [onnx-tensorrt](https://github.com/onnx/onnx-tensorrt)
+  - ONNX-TensorRT: TensorRT backend for ONNX
+- [librealsense](https://github.com/IntelRealSense/librealsense)
+  - Intel® RealSense™ SDK
+- [ALVR](https://github.com/polygraphene/ALVR)
+  - ALVR is an open source remote VR display for Gear VR and Oculus Go. With it, you can play SteamVR games in your standalone headset.
+- [covid-respirator](https://github.com/covid-response-projects/covid-respirator)
+  - 🦠 3D printable COVID-19 DIY respirator. Aims at helping hospitals cope with a possible shortage of professional respirators during the outbreak.
+- [webcamoid](https://github.com/webcamoid/webcamoid)
+  - Webcamoid is a full featured and multiplatform webcam suite.
+- [STL](https://github.com/microsoft/STL)
+  - MSVC's implementation of the C++ Standard Library.
+- [calculator](https://github.com/microsoft/calculator)
+  - Windows Calculator: A simple yet powerful calculator that ships with Windows
+- [cpp-taskflow](https://github.com/cpp-taskflow/cpp-taskflow)
+  - A Modern C++ Parallel Task Programming Library
+- [Paddle](https://github.com/PaddlePaddle/Paddle)
+  - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
+- [xournalpp](https://github.com/xournalpp/xournalpp)
+  - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
