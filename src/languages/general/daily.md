@@ -1,51 +1,51 @@
 # general
-- [Foodium](https://github.com/PatilShreyas/Foodium) : Kotlin
-  - 🍲Foodium is a sample food blog Android application 📱 built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).
+- [MegEngine](https://github.com/MegEngine/MegEngine) : C++
+  - MegEngine 是一个快速、可拓展、易于使用且支持自动求导的数值计算框架
+- [covid19india-react](https://github.com/covid19india/covid19india-react) : JavaScript
+  - Source code of main website
+- [covid19india-cluster](https://github.com/someshkar/covid19india-cluster) : JavaScript
+  - 🔬 COVID19 India Cluster Network
+- [coronastatus](https://github.com/BustByte/coronastatus) : HTML
+  - Open source webapp that let people report their health status to get overview of COVID-19 🇳🇴🇳🇱🇸🇰🇲🇽🇮🇹🇮🇳🇵🇭🇸🇪🇩🇰🇹🇷🇧🇪🇫🇷🇨🇦🇨🇴🇧🇷
 - [nightingale](https://github.com/didi/nightingale) : Go
   - A Distributed and High-Performance Monitoring System
-- [grocy](https://github.com/grocy/grocy) : JavaScript
-  - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
-- [COVID-19](https://github.com/elcronos/COVID-19) : JavaScript
-  - COVID-19 Detector from x-rays using Computer Vision and Deep Learning
-- [covid-19](https://github.com/datasets/covid-19) : Python
-  - Novel Coronavirus 2019 time series data on cases
-- [corona-cli](https://github.com/ahmadawais/corona-cli) : JavaScript
-  - 🦠 Track the Coronavirus disease (COVID-19) or the Novel Coronavirus Strain in the command line. Both worldwide for all countries, for one country, or for the US States. Fast response time (< 100ms).
+- [hiring2020](https://github.com/gcreddy42/hiring2020) : 
+  - Internship status of companies - COVID-19 outbreak
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [COVID-Net](https://github.com/lindawangg/COVID-Net) : Jupyter Notebook
+  - COVID-Net model for COVID-19 detection on COVIDx dataset
+- [DoraemonKit](https://github.com/didi/DoraemonKit) : Java
+  - 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。https://www.dokit.cn/
+- [papers-we-love](https://github.com/papers-we-love/papers-we-love) : 
+  - Papers from the computer science community to read and discuss.
+- [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader) : C
+  - Bootloader for macOS, Windows and Linux in UEFI and in legacy mode
+- [core-js](https://github.com/zloirock/core-js) : JavaScript
+  - Standard Library
+- [moco](https://github.com/facebookresearch/moco) : Python
+  - PyTorch implementation of MoCo: https://arxiv.org/abs/1911.05722
+- [zig](https://github.com/ziglang/zig) : Zig
+  - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+- [DAIN](https://github.com/baowenbo/DAIN) : Python
+  - Depth-Aware Video Frame Interpolation (CVPR 2019)
+- [corona](https://github.com/geohot/corona) : Python
+  - Reverse engineering SARS-CoV-2
+- [Projects](https://github.com/karan/Projects) : 
+  - 📃 A list of practical projects that anyone can solve in any programming language.
+- [piranha](https://github.com/uber/piranha) : Java
+  - A tool for refactoring code related to feature flag APIs
+- [angular-cli](https://github.com/angular/angular-cli) : TypeScript
+  - CLI tool for Angular
+- [build-your-own-jira-with-rust](https://github.com/LukeMathWalker/build-your-own-jira-with-rust) : Rust
+  - A test-driven workshop to learn Rust building your own JIRA clone!
+- [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) : JavaScript
+  - ⛄️ Possibly the smallest compiler ever
 - [julia](https://github.com/JuliaLang/julia) : Julia
   - The Julia Language: A fresh approach to technical computing.
-- [core](https://github.com/home-assistant/core) : Python
-  - 🏡 Open source home automation that puts local control and privacy first
-- [COVID-QA](https://github.com/deepset-ai/COVID-QA) : Jupyter Notebook
-  - API & Webapp to answer questions about COVID-19. Using NLP (Question Answering) and trusted, curated data sources.
-- [care](https://github.com/coronasafe/care) : Python
-  - Care is a single point to link Hospitals, Corona Care Centers and Volunteers to the unified Corona Safe Network so that the Kerala Chief Ministers Office has direct access to live reports of health data v/s our total. healthcare capacity
-- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) : Python
-  - 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（武汉加油！中国加油！世界加油！）
-- [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) : 
-  - Data science interview questions and answers
-- [jittor](https://github.com/Jittor/jittor) : C++
-  - Jittor is a high-performance deep learning framework based on JIT compiling and meta-operators.
-- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) : JavaScript
-  - 一个基于 electron 的音乐软件
-- [OnJava8](https://github.com/LingCoder/OnJava8) : 
-  - 《On Java 8》中文版，又名《Java编程思想》 第5版
-- [QuantumultX](https://github.com/nzw9314/QuantumultX) : 
-  - QuantumultX
-- [COVID-19](https://github.com/peixebabel/COVID-19) : Jupyter Notebook
-  - Dados e plots sobre as informações do Corona Virus levantadas pelo Peixe Babel.
-- [ant-design-blazor](https://github.com/ElderJames/ant-design-blazor) : CSS
-  - 🌈An enterprise-class UI components based on Ant Design and Blazor WebAssembly.
-- [OxyGEN](https://github.com/ProtofyTeam/OxyGEN) : MATLAB
-  - OxyGEN
-- [covid19](https://github.com/pomber/covid19) : JavaScript
-  - JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily
-- [igniter](https://github.com/trojan-gfw/igniter) : Java
-  - A trojan client for Android (UNDER CONSTRUCTION).
-- [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) : 
-  - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
-- [interview](https://github.com/huihut/interview) : C++
-  - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。
-- [automl](https://github.com/google/automl) : Jupyter Notebook
-  - Google Brain AutoML
-- [COVID-19](https://github.com/pcm-dpc/COVID-19) : 
-  - COVID-19 Italia - Monitoraggio situazione
+- [gin-vue-admin](https://github.com/piexlmax/gin-vue-admin) : Go
+  - 基于gin+gorm+vue搭建的快速后台管理系统模板，包含jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载等基础功能，更多功能正在开发中，欢迎iss，欢迎pr
+- [seed_rl](https://github.com/google-research/seed_rl) : Python
+  - SEED RL: Scalable and Efficient Deep-RL with Accelerated Central Inference. Implements IMPALA and R2D2 algorithms in TF2 with SEED's architecture.
+- [MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) : Jupyter Notebook
+  - Python notebooks with ML and deep learning examples with Azure Machine Learning | Microsoft

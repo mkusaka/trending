@@ -1,51 +1,51 @@
 # typescript
-- [codetour](https://github.com/vsls-contrib/codetour)
-  - VS Code extension that allows you to record and playback guided tours of codebases, directly within the editor
-- [code-server](https://github.com/cdr/code-server)
-  - Run VS Code on a remote server.
-- [excalidraw](https://github.com/excalidraw/excalidraw)
-  - Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
-- [app](https://github.com/WorldHealthOrganization/app)
-  - World Health Organization App
-- [streamlabs-obs](https://github.com/stream-labs/streamlabs-obs)
-  - Free and open source streaming software built on OBS and Electron.
-- [vscode](https://github.com/microsoft/vscode)
-  - Visual Studio Code
-- [codenames](https://github.com/jbowens/codenames)
-  - Play codenames using a TV or computer for the board
-- [covid19_scenarios](https://github.com/neherlab/covid19_scenarios)
-  - Models of COVID-19 outbreak trajectories and hospital demand
-- [Vim](https://github.com/VSCodeVim/Vim)
-  - ⭐️ Vim for Visual Studio Code
-- [gqless](https://github.com/samdenty/gqless)
-  - A GraphQL client without queries ✨
-- [nest](https://github.com/nestjs/nest)
-  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [angular-cli](https://github.com/angular/angular-cli)
+  - CLI tool for Angular
+- [capacitor](https://github.com/ionic-team/capacitor)
+  - Build cross-platform Native Progressive Web Apps for iOS, Android, and the web ⚡️
+- [graphql-mesh](https://github.com/Urigo/graphql-mesh)
+  - GraphQL Mesh — Query anything, run anywhere
+- [material-ui-pickers](https://github.com/mui-org/material-ui-pickers)
+  - Date & Time pickers, built with ❤️ for @material-ui/core
+- [react-native-paper](https://github.com/callstack/react-native-paper)
+  - Material Design for React Native (Android & iOS)
 - [fluentui](https://github.com/microsoft/fluentui)
   - We've moved! UI Fabric is now Fluent UI - A set of React components for building Microsoft web experiences.
-- [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
-  - A Foundation for Scalable Cross-Platform Apps
-- [angular-electron](https://github.com/maximegris/angular-electron)
-  - Ultra-fast bootstrapping with Angular and Electron (Typescript + SASS + Hot Reload) 🚤
-- [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
-  - Foreign language reading and translation assistant based on copy and translate.
-- [deno](https://github.com/denoland/deno)
-  - A secure JavaScript and TypeScript runtime
-- [sapper](https://github.com/sveltejs/sapper)
-  - The next small thing in web development, powered by Svelte
-- [angularfire](https://github.com/angular/angularfire)
-  - The official Angular library for Firebase.
-- [TypeScript-Website](https://github.com/microsoft/TypeScript-Website)
-  - The Website for TypeScript
-- [idb](https://github.com/jakearchibald/idb)
-  - IndexedDB, but with promises
-- [vscode-go](https://github.com/microsoft/vscode-go)
-  - An extension for VS Code which provides support for the Go language.
-- [utterances](https://github.com/utterance/utterances)
-  - 🔮 A lightweight comments widget built on GitHub issues
-- [countUp.js](https://github.com/inorganik/countUp.js)
-  - Animates a numerical value by counting to it
-- [apollo-server](https://github.com/apollographql/apollo-server)
-  - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
+- [pixi.js](https://github.com/pixijs/pixi.js)
+  - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+- [streamlit](https://github.com/streamlit/streamlit)
+  - Streamlit — The fastest way to build custom ML tools
+- [angular](https://github.com/angular/angular)
+  - One framework. Mobile & desktop.
+- [braid-design-system](https://github.com/seek-oss/braid-design-system)
+  - Themeable design system for the SEEK Group
+- [ant-design](https://github.com/ant-design/ant-design)
+  - 🌈 A UI Design Language and React UI library
 - [n8n](https://github.com/n8n-io/n8n)
   - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+- [highcharts](https://github.com/highcharts/highcharts)
+  - Highcharts JS, the JavaScript charting framework
+- [laravel-echo-server](https://github.com/tlaverdure/laravel-echo-server)
+  - Socket.io server for Laravel Echo
+- [redux-toolkit](https://github.com/reduxjs/redux-toolkit)
+  - The official, opinionated, batteries-included toolset for efficient Redux development
+- [aws-cdk](https://github.com/aws/aws-cdk)
+  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+- [vscode-cpptools](https://github.com/microsoft/vscode-cpptools)
+  - Official repository for the Microsoft C/C++ extension for VS Code.
+- [jest](https://github.com/facebook/jest)
+  - Delightful JavaScript Testing.
+- [vuetify](https://github.com/vuetifyjs/vuetify)
+  - 🐉 Material Component Framework for Vue
+- [jsPDF-AutoTable](https://github.com/simonbengtsson/jsPDF-AutoTable)
+  - jsPDF plugin for generating PDF tables with javascript
+- [instagram-private-api](https://github.com/dilame/instagram-private-api)
+  - NodeJS Instagram private API client. Written in TypeScript.
+- [etcher](https://github.com/balena-io/etcher)
+  - Flash OS images to SD cards & USB drives, safely and easily.
+- [react-admin](https://github.com/marmelab/react-admin)
+  - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
+- [material-components-web](https://github.com/material-components/material-components-web)
+  - Modular and customizable Material Design UI components for the web
+- [desktop](https://github.com/desktop/desktop)
+  - Simple collaboration from your desktop
