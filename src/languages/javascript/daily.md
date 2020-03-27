@@ -3,49 +3,49 @@
   - Source code of main website
 - [covid19india-cluster](https://github.com/someshkar/covid19india-cluster)
   - 🔬 COVID19 India Cluster Network
-- [core-js](https://github.com/zloirock/core-js)
-  - Standard Library
-- [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
-  - ⛄️ Possibly the smallest compiler ever
-- [kbone](https://github.com/Tencent/kbone)
-  - 一个致力于微信小程序和 Web 端同构的解决方案
-- [knex](https://github.com/knex/knex)
-  - A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
-- [incubator-echarts](https://github.com/apache/incubator-echarts)
-  - A powerful, interactive charting and visualization library for browser
-- [covid19](https://github.com/pomber/covid19)
-  - JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily
-- [samples](https://github.com/webrtc/samples)
-  - WebRTC Web demos and samples
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
-  - ✅ The Node.js best practices list (March 2020)
-- [slick](https://github.com/kenwheeler/slick)
-  - the last carousel you'll ever need
-- [keystone](https://github.com/keystonejs/keystone)
-  - A scalable platform and CMS to build Node.js applications
-- [api-covid19-in](https://github.com/amodm/api-covid19-in)
-  - COVID Rest API for India data, using Cloudflare Workers
+- [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
+  - 中文独立博客列表
+- [react-query](https://github.com/tannerlinsley/react-query)
+  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
 - [api](https://github.com/covid19india/api)
   - 
-- [Corona-tracker](https://github.com/COVID-19-electronic-health-system/Corona-tracker)
-  - A web application promoting accurate COVID-19 guidelines and tracking user symptoms
-- [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js)
-  - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
-- [vue-echarts](https://github.com/ecomfe/vue-echarts)
-  - ECharts component for Vue.js.
-- [docusaurus](https://github.com/facebook/docusaurus)
-  - Easy to maintain open source documentation websites.
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
-  - Starter files, final projects and FAQ for my Complete JavaScript course
-- [RDOMap](https://github.com/jeanropke/RDOMap)
-  - 
+- [covid19-tracker-cli](https://github.com/WarenGonzaga/covid19-tracker-cli)
+  - A curl-based command line tracker for Novel Coronavirus or COVID-19 pandemic. It Supports terminal for linux and macos, command prompt for windows, and termux for android with real-time updates. curl https://covid19tracker.xyz
+- [moment](https://github.com/moment/moment)
+  - Parse, validate, manipulate, and display dates in javascript.
+- [swiper](https://github.com/nolimits4web/swiper)
+  - Most modern mobile touch slider with hardware accelerated transitions
 - [three.js](https://github.com/mrdoob/three.js)
   - JavaScript 3D library.
-- [corona-cli](https://github.com/ahmadawais/corona-cli)
-  - 🦠 Track the Coronavirus disease (COVID-19) or the Novel Coronavirus Strain in the command line. Both worldwide for all countries, for one country, or for the US States. Fast response time (< 100ms).
-- [appwrite](https://github.com/appwrite/appwrite)
-  - End-to-end backend server for frontend and mobile developers. 🚀
-- [handsontable](https://github.com/handsontable/handsontable)
-  - JavaScript/HTML5 Data Grid Component with Spreadsheet Look & Feel. Available for React, Vue and Angular.
-- [core](https://github.com/JAVClub/core)
-  - 🔞 JAVClub - 让你的大姐姐不再走丢
+- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
+  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [carbon](https://github.com/carbon-design-system/carbon)
+  - A design system built by IBM
+- [d3](https://github.com/d3/d3)
+  - Bring data to life with SVG, Canvas and HTML. 📊📈🎉
+- [web-skills](https://github.com/andreasbm/web-skills)
+  - A visual overview of useful skills to learn as a web developer
+- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
+  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+- [coronadatascraper](https://github.com/lazd/coronadatascraper)
+  - COVID-19 Coronavirus data scraped from government and curated data sources.
+- [covidtesting](https://github.com/lachlanjc/covidtesting)
+  - The COVID-19 Testing Gap: an interactive data visualization
+- [socket.io](https://github.com/socketio/socket.io)
+  - Realtime application framework (Node.JS server)
+- [covid19](https://github.com/pomber/covid19)
+  - JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily
+- [udacimak](https://github.com/udacimak/udacimak)
+  - Udacity Nanodegree and Course Downloader
+- [mdx-deck](https://github.com/jxnblk/mdx-deck)
+  - ♠️ React MDX-based presentation decks
+- [odoo](https://github.com/odoo/odoo)
+  - Odoo. Open Source Apps To Grow Your Business.
+- [yup](https://github.com/jquense/yup)
+  - Dead simple Object schema validation
+- [gutenberg](https://github.com/WordPress/gutenberg)
+  - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
