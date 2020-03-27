@@ -1,51 +1,50 @@
 # general
-- [MegEngine](https://github.com/MegEngine/MegEngine) : C++
-  - MegEngine 是一个快速、可拓展、易于使用且支持自动求导的数值计算框架
+- [ion](https://github.com/pion/ion) : Go
+  - Distributed RTC System by pure Go and Flutter
 - [covid19india-react](https://github.com/covid19india/covid19india-react) : JavaScript
   - Source code of main website
-- [covid19india-cluster](https://github.com/someshkar/covid19india-cluster) : JavaScript
-  - 🔬 COVID19 India Cluster Network
-- [coronastatus](https://github.com/BustByte/coronastatus) : HTML
-  - Open source webapp that let people report their health status to get overview of COVID-19 🇳🇴🇳🇱🇸🇰🇲🇽🇮🇹🇮🇳🇵🇭🇸🇪🇩🇰🇹🇷🇧🇪🇫🇷🇨🇦🇨🇴🇧🇷
-- [nightingale](https://github.com/didi/nightingale) : Go
-  - A Distributed and High-Performance Monitoring System
-- [hiring2020](https://github.com/gcreddy42/hiring2020) : 
-  - Internship status of companies - COVID-19 outbreak
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [COVID-Net](https://github.com/lindawangg/COVID-Net) : Jupyter Notebook
-  - COVID-Net model for COVID-19 detection on COVIDx dataset
+- [framework](https://github.com/laravel/framework) : PHP
+- [app](https://github.com/WorldHealthOrganization/app) : Dart
+  - World Health Organization App
+- [lens](https://github.com/lensapp/lens) : TypeScript
+  - Lens - The Kubernetes IDE
 - [DoraemonKit](https://github.com/didi/DoraemonKit) : Java
   - 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。https://www.dokit.cn/
-- [papers-we-love](https://github.com/papers-we-love/papers-we-love) : 
-  - Papers from the computer science community to read and discuss.
-- [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader) : C
-  - Bootloader for macOS, Windows and Linux in UEFI and in legacy mode
-- [core-js](https://github.com/zloirock/core-js) : JavaScript
-  - Standard Library
-- [moco](https://github.com/facebookresearch/moco) : Python
-  - PyTorch implementation of MoCo: https://arxiv.org/abs/1911.05722
-- [zig](https://github.com/ziglang/zig) : Zig
-  - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
-- [DAIN](https://github.com/baowenbo/DAIN) : Python
-  - Depth-Aware Video Frame Interpolation (CVPR 2019)
-- [corona](https://github.com/geohot/corona) : Python
-  - Reverse engineering SARS-CoV-2
+- [covid19](https://github.com/tokyo-metropolitan-gov/covid19) : Vue
+  - 東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
+- [covid19india-cluster](https://github.com/someshkar/covid19india-cluster) : JavaScript
+  - 🔬 COVID19 India Cluster Network
+- [jest](https://github.com/facebook/jest) : TypeScript
+  - Delightful JavaScript Testing.
+- [MeiliSearch](https://github.com/meilisearch/MeiliSearch) : Rust
+  - Ultra relevant, instant, and typo-tolerant full-text search API
+- [gustavoguanabara.github.io](https://github.com/gustavoguanabara/gustavoguanabara.github.io) : 
+  - GitHub Gustavo Guanabara
+- [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) : JavaScript
+  - 中文独立博客列表
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [awesome-compose](https://github.com/docker/awesome-compose) : HTML
+  - Awesome Docker Compose samples
+- [react-query](https://github.com/tannerlinsley/react-query) : JavaScript
+  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+- [AnimeGAN](https://github.com/TachibanaYoshino/AnimeGAN) : Python
+  - A Tensorflow implementation of AnimeGAN for fast photo animation ! This is the Open source of the paper <AnimeGAN: a novel lightweight GAN for photo animation>, which uses the GAN framwork to transform real-world photos into anime images.
 - [Projects](https://github.com/karan/Projects) : 
   - 📃 A list of practical projects that anyone can solve in any programming language.
-- [piranha](https://github.com/uber/piranha) : Java
-  - A tool for refactoring code related to feature flag APIs
-- [angular-cli](https://github.com/angular/angular-cli) : TypeScript
-  - CLI tool for Angular
-- [build-your-own-jira-with-rust](https://github.com/LukeMathWalker/build-your-own-jira-with-rust) : Rust
-  - A test-driven workshop to learn Rust building your own JIRA clone!
-- [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) : JavaScript
-  - ⛄️ Possibly the smallest compiler ever
-- [julia](https://github.com/JuliaLang/julia) : Julia
-  - The Julia Language: A fresh approach to technical computing.
-- [gin-vue-admin](https://github.com/piexlmax/gin-vue-admin) : Go
-  - 基于gin+gorm+vue搭建的快速后台管理系统模板，包含jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载等基础功能，更多功能正在开发中，欢迎iss，欢迎pr
-- [seed_rl](https://github.com/google-research/seed_rl) : Python
-  - SEED RL: Scalable and Efficient Deep-RL with Accelerated Central Inference. Implements IMPALA and R2D2 algorithms in TF2 with SEED's architecture.
-- [MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) : Jupyter Notebook
-  - Python notebooks with ML and deep learning examples with Azure Machine Learning | Microsoft
+- [Blog](https://github.com/mqyqingfeng/Blog) : 
+  - 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
+- [spring-boot-api-project-seed](https://github.com/lihengming/spring-boot-api-project-seed) : Java
+  - 🌱🚀一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~
+- [papers-we-love](https://github.com/papers-we-love/papers-we-love) : 
+  - Papers from the computer science community to read and discuss.
+- [virtual-environments](https://github.com/actions/virtual-environments) : PowerShell
+  - GitHub Actions virtual environments
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) : JavaScript
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) : 
+  - 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）
+- [MegEngine](https://github.com/MegEngine/MegEngine) : C++
+  - MegEngine 是一个快速、可拓展、易于使用且支持自动求导的深度学习框架
+- [golang-design-pattern](https://github.com/senghoo/golang-design-pattern) : Go
+  - 设计模式 Golang实现－《研磨设计模式》读书笔记
