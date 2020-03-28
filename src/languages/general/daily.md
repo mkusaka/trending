@@ -1,50 +1,50 @@
 # general
-- [ion](https://github.com/pion/ion) : Go
-  - Distributed RTC System by pure Go and Flutter
-- [covid19india-react](https://github.com/covid19india/covid19india-react) : JavaScript
-  - Source code of main website
-- [framework](https://github.com/laravel/framework) : PHP
 - [app](https://github.com/WorldHealthOrganization/app) : Dart
   - World Health Organization App
-- [lens](https://github.com/lensapp/lens) : TypeScript
-  - Lens - The Kubernetes IDE
-- [DoraemonKit](https://github.com/didi/DoraemonKit) : Java
-  - 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。https://www.dokit.cn/
-- [covid19](https://github.com/tokyo-metropolitan-gov/covid19) : Vue
-  - 東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
-- [covid19india-cluster](https://github.com/someshkar/covid19india-cluster) : JavaScript
-  - 🔬 COVID19 India Cluster Network
-- [jest](https://github.com/facebook/jest) : TypeScript
-  - Delightful JavaScript Testing.
-- [MeiliSearch](https://github.com/meilisearch/MeiliSearch) : Rust
-  - Ultra relevant, instant, and typo-tolerant full-text search API
+- [rome](https://github.com/facebookexperimental/rome) : TypeScript
+  - An experimental JavaScript toolchain
+- [ion](https://github.com/pion/ion) : Go
+  - Distributed RTC System by pure Go and Flutter
+- [manim](https://github.com/3b1b/manim) : Python
+  - Animation engine for explanatory math videos
+- [Open_Source_Ventilator](https://github.com/CSSALTlab/Open_Source_Ventilator) : C++
+  - Open source for use worldwide and contributions from others worldwide
+- [covid19india-react](https://github.com/covid19india/covid19india-react) : JavaScript
+  - Source code of main website
 - [gustavoguanabara.github.io](https://github.com/gustavoguanabara/gustavoguanabara.github.io) : 
   - GitHub Gustavo Guanabara
-- [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) : JavaScript
-  - 中文独立博客列表
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [awesome-compose](https://github.com/docker/awesome-compose) : HTML
-  - Awesome Docker Compose samples
-- [react-query](https://github.com/tannerlinsley/react-query) : JavaScript
-  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
-- [AnimeGAN](https://github.com/TachibanaYoshino/AnimeGAN) : Python
-  - A Tensorflow implementation of AnimeGAN for fast photo animation ! This is the Open source of the paper <AnimeGAN: a novel lightweight GAN for photo animation>, which uses the GAN framwork to transform real-world photos into anime images.
-- [Projects](https://github.com/karan/Projects) : 
-  - 📃 A list of practical projects that anyone can solve in any programming language.
-- [Blog](https://github.com/mqyqingfeng/Blog) : 
-  - 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
-- [spring-boot-api-project-seed](https://github.com/lihengming/spring-boot-api-project-seed) : Java
-  - 🌱🚀一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~
-- [papers-we-love](https://github.com/papers-we-love/papers-we-love) : 
-  - Papers from the computer science community to read and discuss.
-- [virtual-environments](https://github.com/actions/virtual-environments) : PowerShell
-  - GitHub Actions virtual environments
+- [mnssp3](https://github.com/mpplab/mnssp3) : Python
+- [tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) : Java
+  - 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
+- [covid19india-cluster](https://github.com/someshkar/covid19india-cluster) : JavaScript
+  - 🔬 COVID19 India Cluster Network
+- [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) : JavaScript
+  - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [nlp_paper_summaries](https://github.com/dair-ai/nlp_paper_summaries) : 
+  - ✍️ A carefully curated list of NLP paper summaries
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) : JavaScript
   - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
-- [CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) : 
-  - 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）
-- [MegEngine](https://github.com/MegEngine/MegEngine) : C++
-  - MegEngine 是一个快速、可拓展、易于使用且支持自动求导的深度学习框架
-- [golang-design-pattern](https://github.com/senghoo/golang-design-pattern) : Go
-  - 设计模式 Golang实现－《研磨设计模式》读书笔记
+- [core-js](https://github.com/zloirock/core-js) : JavaScript
+  - Standard Library
+- [spring-boot-api-project-seed](https://github.com/lihengming/spring-boot-api-project-seed) : Java
+  - 🌱🚀一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~
+- [otc](https://github.com/0x000cb/otc) : C++
+  - OneTapCrack DLL Loader
+- [COVID-Net](https://github.com/lindawangg/COVID-Net) : Jupyter Notebook
+  - COVID-Net model for COVID-19 detection on COVIDx dataset
+- [diy-beatmungsgeraet](https://github.com/DIY-Beatmungsgerat/diy-beatmungsgeraet) : C++
+  - CPAP Beatmungsgerät selbst gebaut - basierend auf einem Open Source und Open Hardware Entwurf
+- [jira_clone](https://github.com/Datlyfe/jira_clone) : Vue
+  - A Jira clone built with Vuejs & Nodejs/Graphql
+- [user-interface-samples](https://github.com/android/user-interface-samples) : Java
+  - Multiple samples showing the best practices in the user interface on Android.
+- [seirsplus](https://github.com/ryansmcgee/seirsplus) : Python
+  - Models of SEIRS epidemic dynamics with extensions, including network-structured populations, testing, contact tracing, and social distancing.
+- [awesome-compose](https://github.com/docker/awesome-compose) : HTML
+  - Awesome Docker Compose samples
+- [react-ultimate-resume](https://github.com/welovedevs/react-ultimate-resume) : JavaScript
+  - 💼 🎨 A modern software developer resume built with React and JSONResume
+- [ridesharing-uber-lyft-app](https://github.com/MindorksOpenSource/ridesharing-uber-lyft-app) : Kotlin
+  - Ride-Sharing Uber Lyft Android App - Learn to build a ride-sharing Android Taxi Clone App like Uber, Lyft - Open-Source Project By MindOrks
+- [calculator](https://github.com/microsoft/calculator) : C++
+  - Windows Calculator: A simple yet powerful calculator that ships with Windows
