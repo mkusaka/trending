@@ -1,51 +1,51 @@
 # c++
-- [MegEngine](https://github.com/MegEngine/MegEngine)
-  - MegEngine 是一个快速、可拓展、易于使用且支持自动求导的深度学习框架
-- [googletest](https://github.com/google/googletest)
-  - Googletest - Google Testing and Mocking Framework
-- [mediasoup](https://github.com/versatica/mediasoup)
-  - Cutting Edge WebRTC Video Conferencing
-- [eft-packet](https://github.com/ucectoplasm/eft-packet)
-  - 
-- [Catch2](https://github.com/catchorg/Catch2)
-  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-- [pytorch](https://github.com/pytorch/pytorch)
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [cpp-httplib](https://github.com/yhirose/cpp-httplib)
-  - A C++ header-only HTTP/HTTPS server and client library
-- [diy-beatmungsgeraet](https://github.com/DIY-Beatmungsgerat/diy-beatmungsgeraet)
-  - CPAP Beatmungsgerät selbst gebaut - basierend auf einem Open Source und Open Hardware Entwurf
-- [MultiMC5](https://github.com/MultiMC/MultiMC5)
-  - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [covid-respirator](https://github.com/covid-response-projects/covid-respirator)
-  - 🦠 3D printable COVID-19 DIY respirator. Aims at helping hospitals cope with a possible shortage of professional respirators during the outbreak.
-- [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
-  - Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs
-- [carla](https://github.com/carla-simulator/carla)
-  - Open-source simulator for autonomous driving research.
-- [ZLMediaKit](https://github.com/xiongziliang/ZLMediaKit)
-  - A lightweight RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/GB28181 server and client framework based on C++11
-- [protobuf](https://github.com/protocolbuffers/protobuf)
-  - Protocol Buffers - Google's data interchange format
-- [grpc](https://github.com/grpc/grpc)
-  - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-- [Cpp-Primer](https://github.com/Mooophy/Cpp-Primer)
-  - C++ Primer 5 answers
-- [openpilot](https://github.com/commaai/openpilot)
-  - open source driving agent
-- [caffe](https://github.com/BVLC/caffe)
-  - Caffe: a fast open framework for deep learning.
-- [falco](https://github.com/falcosecurity/falco)
-  - Cloud Native Runtime Security
-- [onnxruntime](https://github.com/microsoft/onnxruntime)
-  - ONNX Runtime: cross-platform, high performance scoring engine for ML models
 - [Open_Source_Ventilator](https://github.com/CSSALTlab/Open_Source_Ventilator)
   - Open source for use worldwide and contributions from others worldwide
-- [emscripten](https://github.com/emscripten-core/emscripten)
-  - Emscripten: An LLVM-to-Web Compiler
-- [eos](https://github.com/EOSIO/eos)
-  - An open source smart contract platform
-- [opencv](https://github.com/opencv/opencv)
-  - Open Source Computer Vision Library
+- [otc](https://github.com/0x000cb/otc)
+  - OneTapCrack DLL Loader
+- [diy-beatmungsgeraet](https://github.com/DIY-Beatmungsgerat/diy-beatmungsgeraet)
+  - CPAP Beatmungsgerät selbst gebaut - basierend auf einem Open Source und Open Hardware Entwurf
+- [calculator](https://github.com/microsoft/calculator)
+  - Windows Calculator: A simple yet powerful calculator that ships with Windows
+- [swift](https://github.com/apple/swift)
+  - The Swift Programming Language
+- [apollo](https://github.com/ApolloAuto/apollo)
+  - An open autonomous driving platform
+- [electron](https://github.com/electron/electron)
+  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [covid-respirator](https://github.com/covid-response-projects/covid-respirator)
+  - 🦠 3D printable Covid-19 DIY respirator (caused by the SARS-CoV-2 virus). Aims at helping hospitals cope with a possible shortage of professional respirators during the outbreak.
+- [mixxx](https://github.com/mixxxdj/mixxx)
+  - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
+- [MNN](https://github.com/alibaba/MNN)
+  - MNN is a lightweight deep neural network inference engine.
+- [mindspore](https://github.com/mindspore-ai/mindspore)
+  - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
+- [aoapc-bac2nd](https://github.com/aoapc-book/aoapc-bac2nd)
+  - Source codes for book <<<BeginningAlgorithmContests>> Second edition
+- [cpprestsdk](https://github.com/microsoft/cpprestsdk)
+  - The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
+- [FastLED](https://github.com/FastLED/FastLED)
+  - The FastLED library for colored LED animation on Arduino. Please direct questions/requests for help to the FastLED Reddit community: http://fastled.io/r We'd like to use github "issues" just for tracking library bugs / enhancements.
+- [openalpr](https://github.com/openalpr/openalpr)
+  - Automatic License Plate Recognition library
+- [zeek](https://github.com/zeek/zeek)
+  - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
+- [geos](https://github.com/libgeos/geos)
+  - Geometry Engine, Open Source [MIRROR]
+- [PSENet](https://github.com/whai362/PSENet)
+  - 
+- [kakoune](https://github.com/mawww/kakoune)
+  - mawww's experiment for a better code editor
+- [miniblink49](https://github.com/weolar/miniblink49)
+  - a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef
+- [obs-websocket](https://github.com/Palakis/obs-websocket)
+  - WebSockets API for OBS Studio
+- [pytorch](https://github.com/pytorch/pytorch)
+  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [anbox](https://github.com/anbox/anbox)
+  - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
+- [OC-little](https://github.com/daliansky/OC-little)
+  - OpenCore for ACPI hotpatch
+- [yuzu](https://github.com/yuzu-emu/yuzu)
+  - Nintendo Switch Emulator
