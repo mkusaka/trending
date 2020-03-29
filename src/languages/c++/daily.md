@@ -1,51 +1,51 @@
 # c++
 - [Open_Source_Ventilator](https://github.com/CSSALTlab/Open_Source_Ventilator)
   - Open source for use worldwide and contributions from others worldwide
-- [otc](https://github.com/0x000cb/otc)
-  - OneTapCrack DLL Loader
-- [diy-beatmungsgeraet](https://github.com/DIY-Beatmungsgerat/diy-beatmungsgeraet)
-  - CPAP Beatmungsgerät selbst gebaut - basierend auf einem Open Source und Open Hardware Entwurf
+- [openpilot](https://github.com/commaai/openpilot)
+  - open source driving agent
+- [PowerToys](https://github.com/microsoft/PowerToys)
+  - Windows system utilities to maximize productivity
 - [calculator](https://github.com/microsoft/calculator)
   - Windows Calculator: A simple yet powerful calculator that ships with Windows
-- [swift](https://github.com/apple/swift)
-  - The Swift Programming Language
-- [apollo](https://github.com/ApolloAuto/apollo)
-  - An open autonomous driving platform
-- [electron](https://github.com/electron/electron)
-  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [covid-respirator](https://github.com/covid-response-projects/covid-respirator)
-  - 🦠 3D printable Covid-19 DIY respirator (caused by the SARS-CoV-2 virus). Aims at helping hospitals cope with a possible shortage of professional respirators during the outbreak.
-- [mixxx](https://github.com/mixxxdj/mixxx)
-  - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
-- [MNN](https://github.com/alibaba/MNN)
-  - MNN is a lightweight deep neural network inference engine.
+- [diy-beatmungsgeraet](https://github.com/DIY-Beatmungsgerat/diy-beatmungsgeraet)
+  - CPAP Beatmungsgerät selbst gebaut - basierend auf einem Open Source und Open Hardware Entwurf
+- [qBittorrent](https://github.com/qbittorrent/qBittorrent)
+  - qBittorrent BitTorrent client
+- [tensorflow](https://github.com/tensorflow/tensorflow)
+  - An Open Source Machine Learning Framework for Everyone
 - [mindspore](https://github.com/mindspore-ai/mindspore)
   - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
-- [aoapc-bac2nd](https://github.com/aoapc-book/aoapc-bac2nd)
-  - Source codes for book <<<BeginningAlgorithmContests>> Second edition
-- [cpprestsdk](https://github.com/microsoft/cpprestsdk)
-  - The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
-- [FastLED](https://github.com/FastLED/FastLED)
-  - The FastLED library for colored LED animation on Arduino. Please direct questions/requests for help to the FastLED Reddit community: http://fastled.io/r We'd like to use github "issues" just for tracking library bugs / enhancements.
-- [openalpr](https://github.com/openalpr/openalpr)
-  - Automatic License Plate Recognition library
-- [zeek](https://github.com/zeek/zeek)
-  - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
-- [geos](https://github.com/libgeos/geos)
-  - Geometry Engine, Open Source [MIRROR]
-- [PSENet](https://github.com/whai362/PSENet)
-  - 
-- [kakoune](https://github.com/mawww/kakoune)
-  - mawww's experiment for a better code editor
-- [miniblink49](https://github.com/weolar/miniblink49)
-  - a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef
-- [obs-websocket](https://github.com/Palakis/obs-websocket)
-  - WebSockets API for OBS Studio
+- [otc](https://github.com/0x000cb/otc)
+  - OneTapCrack DLL Loader
 - [pytorch](https://github.com/pytorch/pytorch)
   - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [anbox](https://github.com/anbox/anbox)
-  - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
-- [OC-little](https://github.com/daliansky/OC-little)
-  - OpenCore for ACPI hotpatch
-- [yuzu](https://github.com/yuzu-emu/yuzu)
-  - Nintendo Switch Emulator
+- [polybar](https://github.com/polybar/polybar)
+  - A fast and easy-to-use status bar
+- [mixxx](https://github.com/mixxxdj/mixxx)
+  - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
+- [Catch2](https://github.com/catchorg/Catch2)
+  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)
+  - A lightweight utility that makes the Windows taskbar translucent/transparent.
+- [WebServer](https://github.com/linyacool/WebServer)
+  - A C++ High Performance Web Server
+- [Hazel](https://github.com/TheCherno/Hazel)
+  - Hazel Engine
+- [Tasmota](https://github.com/arendst/Tasmota)
+  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
+- [CLRS](https://github.com/gzc/CLRS)
+  - 📓Solutions to Introduction to Algorithms
+- [youtube](https://github.com/Errichto/youtube)
+  - codes for my streams and YT videos
+- [MultiMC5](https://github.com/MultiMC/MultiMC5)
+  - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
+- [SFML](https://github.com/SFML/SFML)
+  - Simple and Fast Multimedia Library
+- [openvr](https://github.com/ValveSoftware/openvr)
+  - OpenVR SDK
+- [imgui](https://github.com/ocornut/imgui)
+  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+- [tcmalloc](https://github.com/google/tcmalloc)
+  - 
+- [concurrentqueue](https://github.com/cameron314/concurrentqueue)
+  - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
