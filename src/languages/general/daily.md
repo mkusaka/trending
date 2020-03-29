@@ -1,50 +1,49 @@
 # general
-- [app](https://github.com/WorldHealthOrganization/app) : Dart
-  - World Health Organization App
-- [rome](https://github.com/facebookexperimental/rome) : TypeScript
-  - An experimental JavaScript toolchain
-- [ion](https://github.com/pion/ion) : Go
-  - Distributed RTC System by pure Go and Flutter
-- [manim](https://github.com/3b1b/manim) : Python
-  - Animation engine for explanatory math videos
-- [Open_Source_Ventilator](https://github.com/CSSALTlab/Open_Source_Ventilator) : C++
-  - Open source for use worldwide and contributions from others worldwide
-- [covid19india-react](https://github.com/covid19india/covid19india-react) : JavaScript
-  - Source code of main website
-- [gustavoguanabara.github.io](https://github.com/gustavoguanabara/gustavoguanabara.github.io) : 
-  - GitHub Gustavo Guanabara
-- [mnssp3](https://github.com/mpplab/mnssp3) : Python
-- [tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) : Java
-  - 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
-- [covid19india-cluster](https://github.com/someshkar/covid19india-cluster) : JavaScript
-  - 🔬 COVID19 India Cluster Network
-- [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) : JavaScript
-  - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [nlp_paper_summaries](https://github.com/dair-ai/nlp_paper_summaries) : 
-  - ✍️ A carefully curated list of NLP paper summaries
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) : JavaScript
-  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
-- [core-js](https://github.com/zloirock/core-js) : JavaScript
-  - Standard Library
-- [spring-boot-api-project-seed](https://github.com/lihengming/spring-boot-api-project-seed) : Java
-  - 🌱🚀一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~
-- [otc](https://github.com/0x000cb/otc) : C++
-  - OneTapCrack DLL Loader
-- [COVID-Net](https://github.com/lindawangg/COVID-Net) : Jupyter Notebook
-  - COVID-Net model for COVID-19 detection on COVIDx dataset
-- [diy-beatmungsgeraet](https://github.com/DIY-Beatmungsgerat/diy-beatmungsgeraet) : C++
-  - CPAP Beatmungsgerät selbst gebaut - basierend auf einem Open Source und Open Hardware Entwurf
-- [jira_clone](https://github.com/Datlyfe/jira_clone) : Vue
-  - A Jira clone built with Vuejs & Nodejs/Graphql
-- [user-interface-samples](https://github.com/android/user-interface-samples) : Java
-  - Multiple samples showing the best practices in the user interface on Android.
-- [seirsplus](https://github.com/ryansmcgee/seirsplus) : Python
-  - Models of SEIRS epidemic dynamics with extensions, including network-structured populations, testing, contact tracing, and social distancing.
-- [awesome-compose](https://github.com/docker/awesome-compose) : HTML
-  - Awesome Docker Compose samples
+- [covid-19-data](https://github.com/nytimes/covid-19-data) : 
+  - An ongoing repository of data on coronavirus cases and deaths in the U.S.
 - [react-ultimate-resume](https://github.com/welovedevs/react-ultimate-resume) : JavaScript
   - 💼 🎨 A modern software developer resume built with React and JSONResume
-- [ridesharing-uber-lyft-app](https://github.com/MindorksOpenSource/ridesharing-uber-lyft-app) : Kotlin
-  - Ride-Sharing Uber Lyft Android App - Learn to build a ride-sharing Android Taxi Clone App like Uber, Lyft - Open-Source Project By MindOrks
-- [calculator](https://github.com/microsoft/calculator) : C++
-  - Windows Calculator: A simple yet powerful calculator that ships with Windows
+- [manim](https://github.com/3b1b/manim) : Python
+  - Animation engine for explanatory math videos
+- [covid19india-react](https://github.com/covid19india/covid19india-react) : JavaScript
+  - 📊 Source code of the main website
+- [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) : JavaScript
+  - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [rome](https://github.com/facebookexperimental/rome) : TypeScript
+  - An experimental JavaScript toolchain
+- [app](https://github.com/WorldHealthOrganization/app) : Dart
+  - World Health Organization App
+- [ion](https://github.com/pion/ion) : Go
+  - Distributed RTC System by pure Go and Flutter
+- [covid19india-cluster](https://github.com/someshkar/covid19india-cluster) : JavaScript
+  - 🔬 COVID19 India Cluster Network
+- [api](https://github.com/covid19india/api) : JavaScript
+- [lede](https://github.com/coolsnowwolf/lede) : C
+  - Lean's OpenWrt source
+- [jira_clone](https://github.com/Datlyfe/jira_clone) : Vue
+  - A Jira clone built with Vuejs & Nodejs/Graphql
+- [spring-boot-api-project-seed](https://github.com/lihengming/spring-boot-api-project-seed) : Java
+  - 🌱🚀一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~
+- [voidrice](https://github.com/LukeSmithxyz/voidrice) : Shell
+  - My dotfiles (deployed by LARBS)
+- [Open_Source_Ventilator](https://github.com/CSSALTlab/Open_Source_Ventilator) : C++
+  - Open source for use worldwide and contributions from others worldwide
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
+  - Roadmap to becoming a web developer in 2020
+- [app-ideas](https://github.com/florinpop17/app-ideas) : 
+  - A Collection of application ideas which can be used to improve your coding skills.
+- [nlp_paper_summaries](https://github.com/dair-ai/nlp_paper_summaries) : 
+  - ✍️ A carefully curated list of NLP paper summaries
+- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
+  - Course Files for Complete Python 3 Bootcamp Course on Udemy
+- [Spoke](https://github.com/Elizabeth-Warren/Spoke) : JavaScript
+- [tensorflow-handbook](https://github.com/snowkylin/tensorflow-handbook) : Jupyter Notebook
+  - 简单粗暴 TensorFlow 2.0 | A Concise Handbook of TensorFlow 2.0
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) : JavaScript
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) : Java
+  - 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
+- [codenames](https://github.com/jbowens/codenames) : TypeScript
+  - Play codenames using a TV or computer for the board
+- [api-covid19-in](https://github.com/amodm/api-covid19-in) : JavaScript
+  - COVID Rest API for India data, using Cloudflare Workers

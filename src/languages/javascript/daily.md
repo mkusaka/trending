@@ -1,51 +1,51 @@
 # javascript
-- [covid19india-react](https://github.com/covid19india/covid19india-react)
-  - Source code of main website
-- [covid19india-cluster](https://github.com/someshkar/covid19india-cluster)
-  - 🔬 COVID19 India Cluster Network
-- [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
-  - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
-- [core-js](https://github.com/zloirock/core-js)
-  - Standard Library
 - [react-ultimate-resume](https://github.com/welovedevs/react-ultimate-resume)
   - 💼 🎨 A modern software developer resume built with React and JSONResume
-- [esercizi-di-programmazione-javascript](https://github.com/AlbertoOlla/esercizi-di-programmazione-javascript)
-  - Esercizi di informatica! Impara a programmare, metti alla prova!
+- [covid19india-react](https://github.com/covid19india/covid19india-react)
+  - 📊 Source code of the main website
+- [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+  - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [covid19india-cluster](https://github.com/someshkar/covid19india-cluster)
+  - 🔬 COVID19 India Cluster Network
 - [api](https://github.com/covid19india/api)
   - 
-- [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
-  - 中文独立博客列表
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
-  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+- [Spoke](https://github.com/Elizabeth-Warren/Spoke)
+  - 
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [api-covid19-in](https://github.com/amodm/api-covid19-in)
+  - COVID Rest API for India data, using Cloudflare Workers
+- [coronadatascraper](https://github.com/lazd/coronadatascraper)
+  - COVID-19 Coronavirus data scraped from government and curated data sources.
+- [covid19](https://github.com/pomber/covid19)
+  - JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily
+- [covid-19-apis](https://github.com/postmanlabs/covid-19-apis)
+  - Postman COVID-19 API Resource Center—API collections to help in the COVID-19 fight.
+- [discord.js](https://github.com/discordjs/discord.js)
+  - A powerful JavaScript library for interacting with the Discord API
 - [API](https://github.com/NovelCOVID/API)
   - API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
-- [multiparty-meeting](https://github.com/havfo/multiparty-meeting)
-  - Multiparty web-meetings using mediasoup and WebRTC
-- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
-  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [Motrix](https://github.com/agalwood/Motrix)
-  - A full-featured download manager.
-- [MagicMirror](https://github.com/MichMich/MagicMirror)
-  - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
-- [alpine](https://github.com/alpinejs/alpine)
-  - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [AR.js](https://github.com/AR-js-org/AR.js)
-  - Image tracking, Location Based AR, Marker tracking. All on the Web.
-- [web-skills](https://github.com/andreasbm/web-skills)
-  - A visual overview of useful skills to learn as a web developer
-- [mermaid](https://github.com/mermaid-js/mermaid)
-  - Generation of diagram and flowchart from text in a similar manner as markdown
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
+  - Starter files, final projects and FAQ for my Complete JavaScript course
+- [hackathon-starter](https://github.com/sahat/hackathon-starter)
+  - A boilerplate for Node.js web applications
+- [nanoid](https://github.com/ai/nanoid)
+  - A tiny (108 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [webogram](https://github.com/zhukov/webogram)
   - Telegram web application, GPL v3
+- [AR.js](https://github.com/AR-js-org/AR.js)
+  - Image tracking, Location Based AR, Marker tracking. All on the Web.
+- [Ghost](https://github.com/TryGhost/Ghost)
+  - 👻 The #1 headless Node.js CMS for professional publishing
+- [opensource.guide](https://github.com/github/opensource.guide)
+  - 📚 Community guides for open source creators
+- [next.js](https://github.com/zeit/next.js)
+  - The React Framework
 - [udacimak](https://github.com/udacimak/udacimak)
   - Udacity Nanodegree and Course Downloader
-- [xgplayer](https://github.com/bytedance/xgplayer)
-  - A HTML5 video player with a parser that saves traffic
-- [Sortable](https://github.com/SortableJS/Sortable)
-  - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Ember, Knockout and any CSS library, e.g. Bootstrap.
-- [Corona-tracker](https://github.com/COVID-19-electronic-health-system/Corona-tracker)
-  - A web application promoting accurate COVID-19 guidelines and tracking user symptoms
+- [three.js](https://github.com/mrdoob/three.js)
+  - JavaScript 3D library.
+- [website](https://github.com/CodingTrain/website)
+  - Coding Train website
+- [casino-server](https://github.com/floatinghotpot/casino-server)
+  - 🔥 An online poker game server powered by Redis, node.js and socket.io

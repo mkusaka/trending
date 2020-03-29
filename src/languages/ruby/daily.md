@@ -1,51 +1,51 @@
 # ruby
-- [huginn](https://github.com/huginn/huginn)
-  - Create agents that monitor and act on your behalf. Your agents are standing by!
+- [jekyll](https://github.com/jekyll/jekyll)
+  - 🌐 Jekyll is a blog-aware static site generator in Ruby
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
+  - Metasploit Framework
+- [choosealicense.com](https://github.com/github/choosealicense.com)
+  - A site to provide non-judgmental guidance on choosing a license for your open source project
+- [wpscan](https://github.com/wpscanteam/wpscan)
+  - WPScan is a free, for non-commercial use, black box WordPress Vulnerability Scanner written for security professionals and blog maintainers to test the security of their WordPress websites.
+- [scientist](https://github.com/github/scientist)
+  - 🔬 A Ruby library for carefully refactoring critical paths.
 - [animal-crossing-spot-trading-system](https://github.com/coderemixer/animal-crossing-spot-trading-system)
   - 动物森友会大宗商品交易盘外撮合系统
-- [postal](https://github.com/postalhq/postal)
-  - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
-- [pandemic-volunteers](https://github.com/hantuzun/pandemic-volunteers)
-  - ❤️ Pandemic Volunteers | ⚠️ Help Wanted
-- [dev.to](https://github.com/thepracticaldev/dev.to)
-  - Where programmers share ideas and help each other grow
-- [chef](https://github.com/chef/chef)
-  - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
-- [scalelite](https://github.com/blindsidenetworks/scalelite)
-  - Scalable load balancer for BigBlueButton.
-- [faker](https://github.com/faker-ruby/faker)
-  - A library for generating fake data such as names, addresses, and phone numbers.
-- [brew](https://github.com/Homebrew/brew)
-  - 🍺 The missing package manager for macOS (or Linux)
-- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-  - A curated list of awesome awesomeness
-- [zammad](https://github.com/zammad/zammad)
-  - Zammad is a web based open source helpdesk/customer support system
-- [rubygems](https://github.com/rubygems/rubygems)
-  - Library packaging and distribution for Ruby.
+- [greenlight](https://github.com/bigbluebutton/greenlight)
+  - A really simple end-user interface for your BigBlueButton server.
+- [homebrew-bundle](https://github.com/Homebrew/homebrew-bundle)
+  - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
+- [sonic-pi](https://github.com/samaaron/sonic-pi)
+  - The Live Coding Music Synth for Everyone
+- [linguist](https://github.com/github/linguist)
+  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+- [rails](https://github.com/rails/rails)
+  - Ruby on Rails
 - [covid-volunteers](https://github.com/helpwithcovid/covid-volunteers)
   - Organizing and matching volunteers with COVID-19 projects
-- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-- [array-CRUD-lab-onl01-seng-pt-032320](https://github.com/learn-co-students/array-CRUD-lab-onl01-seng-pt-032320)
-  - 
-- [array-methods-lab-onl01-seng-pt-032320](https://github.com/learn-co-students/array-methods-lab-onl01-seng-pt-032320)
-  - 
-- [simple-nesting-onl01-seng-ft-032320](https://github.com/learn-co-students/simple-nesting-onl01-seng-ft-032320)
-  - 
-- [square_array-onl01-seng-pt-032320](https://github.com/learn-co-students/square_array-onl01-seng-pt-032320)
-  - 
-- [badges-and-schedules-onl01-seng-pt-032320](https://github.com/learn-co-students/badges-and-schedules-onl01-seng-pt-032320)
-  - 
-- [ruby-collaborating-objects-lab-onl01-seng-pt-030220](https://github.com/learn-co-students/ruby-collaborating-objects-lab-onl01-seng-pt-030220)
-  - 
-- [sinatra-restful-routes-lab-onl01-seng-ft-021020](https://github.com/learn-co-students/sinatra-restful-routes-lab-onl01-seng-ft-021020)
-  - 
-- [sinatra-complex-forms-associations-onl01-seng-pt-120819](https://github.com/learn-co-students/sinatra-complex-forms-associations-onl01-seng-pt-120819)
-  - 
-- [ruby-objects-has-many-lab-onl01-seng-pt-030220](https://github.com/learn-co-students/ruby-objects-has-many-lab-onl01-seng-pt-030220)
-  - 
-- [ruby-enumerables-introduction-to-map-and-reduce-lab-nyc-web-033020](https://github.com/learn-co-students/ruby-enumerables-introduction-to-map-and-reduce-lab-nyc-web-033020)
-  - 
-- [building-nested-hashes-onl01-seng-ft-032320](https://github.com/learn-co-students/building-nested-hashes-onl01-seng-ft-032320)
-  - 
+- [mastodon](https://github.com/tootsuite/mastodon)
+  - Your self-hosted, globally interconnected microblogging community
+- [fluentd](https://github.com/fluent/fluentd)
+  - Fluentd: Unified Logging Layer (project under CNCF)
+- [otwarchive](https://github.com/otwcode/otwarchive)
+  - The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project
+- [retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig)
+  - RetroArch joypad autoconfig files
+- [huginn](https://github.com/huginn/huginn)
+  - Create agents that monitor and act on your behalf. Your agents are standing by!
+- [sinatra](https://github.com/sinatra/sinatra)
+  - Classy web-development dressed in a DSL (official / canonical repo)
+- [govuk-coronavirus-vulnerable-people-form](https://github.com/alphagov/govuk-coronavirus-vulnerable-people-form)
+  - Helps citizens get support during the COVID-19 pandemic
+- [view_component](https://github.com/github/view_component)
+  - View components for Rails
+- [homebrew-core](https://github.com/Homebrew/homebrew-core)
+  - 🍻 Default formulae for the missing package manager for macOS
+- [liquid](https://github.com/Shopify/liquid)
+  - Liquid markup language. Safe, customer facing template language for flexible web apps.
+- [ch340g-ch34g-ch34x-mac-os-x-driver](https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver)
+  - CH340G CH34G CH34X Mac OS X driver
+- [rubocop](https://github.com/rubocop-hq/rubocop)
+  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+- [rubygems](https://github.com/rubygems/rubygems)
+  - Library packaging and distribution for Ruby.
