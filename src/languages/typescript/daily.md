@@ -1,51 +1,51 @@
 # typescript
+- [refined-github](https://github.com/sindresorhus/refined-github)
+  - Browser extension that simplifies the GitHub interface and adds useful features
 - [rome](https://github.com/facebookexperimental/rome)
   - An experimental JavaScript toolchain
-- [codenames](https://github.com/jbowens/codenames)
-  - Play codenames using a TV or computer for the board
-- [react-visual-editor](https://github.com/anye931123/react-visual-editor)
-  - 基于 React 的组件可视化拖拽页面搭建代码生成工具,组件自由拖拽，dom实时追踪，组件无限制嵌套组合，不添加多余节点，可完美还原UI设计，多平台支持，代码生成，实时预览，项目于2020.2.22开源，喜欢的点颗星支持鼓励一下！
-- [pixi.js](https://github.com/pixijs/pixi.js)
-  - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
-- [etcher](https://github.com/balena-io/etcher)
-  - Flash OS images to SD cards & USB drives, safely and easily.
-- [vscode](https://github.com/microsoft/vscode)
-  - Visual Studio Code
-- [flipper](https://github.com/facebook/flipper)
-  - A desktop debugging platform for mobile developers.
-- [PoE-Overlay](https://github.com/Kyusung4698/PoE-Overlay)
-  - An Overlay for Path of Exile. Built with Electron and Angular.
-- [code-server](https://github.com/cdr/code-server)
-  - Run VS Code on a remote server.
-- [react-navigation](https://github.com/react-navigation/react-navigation)
-  - Routing and navigation for your React Native apps
 - [deno](https://github.com/denoland/deno)
   - A secure JavaScript and TypeScript runtime
-- [hospitalrun-frontend](https://github.com/HospitalRun/hospitalrun-frontend)
-  - Frontend for HospitalRun
-- [formily](https://github.com/alibaba/formily)
-  - Alibaba Group Unified Form Solution.
-- [streamlit](https://github.com/streamlit/streamlit)
-  - Streamlit — The fastest way to build custom ML tools
-- [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
-  - Foreign language reading and translation assistant based on copy and translate.
-- [tfjs-models](https://github.com/tensorflow/tfjs-models)
-  - Pretrained models for TensorFlow.js
-- [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
-  - A Foundation for Scalable Cross-Platform Apps
-- [theia](https://github.com/eclipse-theia/theia)
-  - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [TypeScript](https://github.com/microsoft/TypeScript)
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [PT-Plugin-Plus](https://github.com/ronggang/PT-Plugin-Plus)
+  - PT 助手 Plus，为 Google Chrome 和 Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。
+- [expo-cli](https://github.com/expo/expo-cli)
+  - Tools for making Expo apps
+- [react](https://github.com/zeit-ui/react)
+  - React implementation for ZEIT design.
+- [kittenTricks](https://github.com/akveo/kittenTricks)
+  - React Native starter kit with over 40 screens and modern Light and Dark theme for creating stunning cross-platform mobile applications.
+- [typeorm](https://github.com/typeorm/typeorm)
+  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [nest](https://github.com/nestjs/nest)
   - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-- [outline-client](https://github.com/Jigsaw-Code/outline-client)
-  - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
-- [peerjs-server](https://github.com/peers/peerjs-server)
-  - Server for PeerJS
-- [tiktok-api](https://github.com/szdc/tiktok-api)
-  - Unofficial API wrapper for TikTok (previously musical.ly)
+- [platform](https://github.com/ngrx/platform)
+  - Reactive libraries for Angular
+- [angularfire](https://github.com/angular/angularfire)
+  - The official Angular library for Firebase.
+- [shell](https://github.com/pop-os/shell)
+  - Pop!_OS Shell - WIP
+- [react-navigation](https://github.com/react-navigation/react-navigation)
+  - Routing and navigation for your React Native apps
+- [react-icons](https://github.com/react-icons/react-icons)
+  - svg react icons of popular icon packs
+- [grafana](https://github.com/grafana/grafana)
+  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples)
+  - Sample code illustrating the VS Code extension API.
+- [tfjs-models](https://github.com/tensorflow/tfjs-models)
+  - Pretrained models for TensorFlow.js
+- [etcher](https://github.com/balena-io/etcher)
+  - Flash OS images to SD cards & USB drives, safely and easily.
+- [playground](https://github.com/tensorflow/playground)
+  - Play with neural networks!
+- [html-dom](https://github.com/phuoc-ng/html-dom)
+  - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
+- [TypeScript](https://github.com/microsoft/TypeScript)
+  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [awakened-poe-trade](https://github.com/SnosMe/awakened-poe-trade)
+  - 💲 🔨 Path of Exile trading app for price checking
+- [darkreader](https://github.com/darkreader/darkreader)
+  - Dark Reader Chrome and Firefox extension
 - [debugger](https://github.com/jupyterlab/debugger)
   - A visual debugger for Jupyter notebooks, consoles, and source files
-- [garden](https://github.com/garden-io/garden)
-  - Development orchestrator for Kubernetes, containers and functions.
+- [react-visual-editor](https://github.com/anye931123/react-visual-editor)
+  - 基于 React 的组件可视化拖拽页面搭建代码生成工具,组件自由拖拽，dom实时追踪，组件无限制嵌套组合，不添加多余节点，可完美还原UI设计，多平台支持，代码生成，实时预览，项目于2020.2.22开源，喜欢的点颗星支持鼓励一下！

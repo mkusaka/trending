@@ -1,51 +1,51 @@
 # c++
-- [Open_Source_Ventilator](https://github.com/CSSALTlab/Open_Source_Ventilator)
-  - Open source for use worldwide and contributions from others worldwide
-- [openpilot](https://github.com/commaai/openpilot)
-  - open source driving agent
-- [PowerToys](https://github.com/microsoft/PowerToys)
-  - Windows system utilities to maximize productivity
-- [calculator](https://github.com/microsoft/calculator)
-  - Windows Calculator: A simple yet powerful calculator that ships with Windows
-- [diy-beatmungsgeraet](https://github.com/DIY-Beatmungsgerat/diy-beatmungsgeraet)
-  - CPAP Beatmungsgerät selbst gebaut - basierend auf einem Open Source und Open Hardware Entwurf
-- [qBittorrent](https://github.com/qbittorrent/qBittorrent)
-  - qBittorrent BitTorrent client
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [mindspore](https://github.com/mindspore-ai/mindspore)
-  - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
-- [otc](https://github.com/0x000cb/otc)
-  - OneTapCrack DLL Loader
-- [pytorch](https://github.com/pytorch/pytorch)
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [polybar](https://github.com/polybar/polybar)
-  - A fast and easy-to-use status bar
-- [mixxx](https://github.com/mixxxdj/mixxx)
-  - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
-- [Catch2](https://github.com/catchorg/Catch2)
-  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-- [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)
-  - A lightweight utility that makes the Windows taskbar translucent/transparent.
-- [WebServer](https://github.com/linyacool/WebServer)
-  - A C++ High Performance Web Server
-- [Hazel](https://github.com/TheCherno/Hazel)
-  - Hazel Engine
+- [imgui](https://github.com/ocornut/imgui)
+  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
 - [Tasmota](https://github.com/arendst/Tasmota)
   - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
-- [CLRS](https://github.com/gzc/CLRS)
-  - 📓Solutions to Introduction to Algorithms
+- [godot](https://github.com/godotengine/godot)
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [yuzu](https://github.com/yuzu-emu/yuzu)
+  - Nintendo Switch Emulator
+- [mindspore](https://github.com/mindspore-ai/mindspore)
+  - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
 - [youtube](https://github.com/Errichto/youtube)
   - codes for my streams and YT videos
-- [MultiMC5](https://github.com/MultiMC/MultiMC5)
-  - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
+- [SpicyPass](https://github.com/JFreegman/SpicyPass)
+  - A light-weight password manager with a focus on simplicity and security
 - [SFML](https://github.com/SFML/SFML)
   - Simple and Fast Multimedia Library
 - [openvr](https://github.com/ValveSoftware/openvr)
   - OpenVR SDK
-- [imgui](https://github.com/ocornut/imgui)
-  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
-- [tcmalloc](https://github.com/google/tcmalloc)
-  - 
-- [concurrentqueue](https://github.com/cameron314/concurrentqueue)
-  - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
+- [tensorflow](https://github.com/tensorflow/tensorflow)
+  - An Open Source Machine Learning Framework for Everyone
+- [esphome](https://github.com/esphome/esphome)
+  - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+- [pseudo3DEngine](https://github.com/vectozavr/pseudo3DEngine)
+  - Simple pseudo-3d engine implementation. This library allows you to make two dimensional map and draw pseudo 3D image using Ray-Cast.
+- [stellarium](https://github.com/Stellarium/stellarium)
+  - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and MacOSX. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
+- [bgfx](https://github.com/bkaradzic/bgfx)
+  - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
+- [Open_Source_Ventilator](https://github.com/CSSALTlab/Open_Source_Ventilator)
+  - Open source for use worldwide and contributions from others worldwide
+- [Marlin](https://github.com/MarlinFirmware/Marlin)
+  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
+- [pcsx2](https://github.com/PCSX2/pcsx2)
+  - PCSX2 - The Playstation 2 Emulator
+- [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2)
+  - An open source re-implementation of RollerCoaster Tycoon 2 🎢
+- [googletest](https://github.com/google/googletest)
+  - Googletest - Google Testing and Mocking Framework
+- [cxxopts](https://github.com/jarro2783/cxxopts)
+  - Lightweight C++ command line option parser
+- [aseprite](https://github.com/aseprite/aseprite)
+  - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
+- [Proton](https://github.com/ValveSoftware/Proton)
+  - Compatibility tool for Steam Play based on Wine and additional components
+- [polybar](https://github.com/polybar/polybar)
+  - A fast and easy-to-use status bar
+- [Catch2](https://github.com/catchorg/Catch2)
+  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [entt](https://github.com/skypjack/entt)
+  - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more

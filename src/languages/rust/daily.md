@@ -1,51 +1,51 @@
 # rust
-- [tonic](https://github.com/hyperium/tonic)
-  - A native gRPC client & server implementation with async/await support.
-- [cosmwasm](https://github.com/CosmWasm/cosmwasm)
-  - Library for building cosmos-compatible wasm smart contracts
-- [ripgrep](https://github.com/BurntSushi/ripgrep)
-  - ripgrep recursively searches directories for a regex pattern
 - [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
   - Unofficial Bitwarden compatible server written in Rust
-- [fd](https://github.com/sharkdp/fd)
-  - A simple, fast and user-friendly alternative to 'find'
-- [winit](https://github.com/rust-windowing/winit)
-  - Window handling library in pure Rust
 - [clap](https://github.com/clap-rs/clap)
   - A full featured, fast Command Line Argument Parser for Rust
-- [rustlings](https://github.com/rust-lang/rustlings)
-  - Small exercises to get you used to reading and writing Rust code!
-- [tui-rs](https://github.com/fdehau/tui-rs)
-  - Build terminal user interfaces and dashboards using Rust
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
   - A curated list of Rust code and resources.
-- [talent-plan](https://github.com/pingcap/talent-plan)
-  - PingCAP training courses
-- [i3status-rust](https://github.com/greshake/i3status-rust)
-  - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
-- [wasmtime](https://github.com/bytecodealliance/wasmtime)
-  - Standalone JIT-style runtime for WebAssembly, using Cranelift
 - [alacritty](https://github.com/alacritty/alacritty)
   - A cross-platform, GPU-accelerated terminal emulator
-- [stacks-blockchain](https://github.com/blockstack/stacks-blockchain)
-  - The Stacks 2.0 blockchain implementation
-- [rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2)
-  - SDL2 bindings for Rust
+- [gfx](https://github.com/gfx-rs/gfx)
+  - A low-overhead Vulkan-like GPU API for Rust.
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [zola](https://github.com/getzola/zola)
+  - A fast static site generator in a single binary with everything built-in.
+- [amethyst](https://github.com/amethyst/amethyst)
+  - Data-oriented and data-driven game engine written in Rust
+- [rustlings](https://github.com/rust-lang/rustlings)
+  - Small exercises to get you used to reading and writing Rust code!
+- [spotifyd](https://github.com/Spotifyd/spotifyd)
+  - A spotify daemon
+- [actix](https://github.com/actix/actix)
+  - Actor framework for Rust
+- [book](https://github.com/rust-lang/book)
+  - The Rust Programming Language
+- [tokenizers](https://github.com/huggingface/tokenizers)
+  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
+  - Facilitating high-level interactions between Wasm modules and JavaScript
+- [wasmtime](https://github.com/bytecodealliance/wasmtime)
+  - Standalone JIT-style runtime for WebAssembly, using Cranelift
+- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+  - 📚 Learn to write an embedded OS in Rust 🦀
+- [tikv](https://github.com/tikv/tikv)
+  - Distributed transactional key-value database, originally created to complement TiDB
+- [tonic](https://github.com/hyperium/tonic)
+  - A native gRPC client & server implementation with async/await support.
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
+- [nom](https://github.com/Geal/nom)
+  - Rust parser combinator framework
 - [Rocket](https://github.com/SergioBenitez/Rocket)
   - A web framework for Rust.
-- [materialize](https://github.com/MaterializeInc/materialize)
-  - The Streaming Data Warehouse
-- [Oxygengine](https://github.com/PsichiX/Oxygengine)
-  - Rust implementation of Oxygen Core HTML5 game engine
-- [dashmap](https://github.com/xacrimon/dashmap)
-  - Blazing fast concurrent HashMap for Rust.
-- [tauri](https://github.com/tauri-apps/tauri)
-  - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
-- [orbtk](https://github.com/redox-os/orbtk)
-  - The Rust UI-Toolkit.
-- [async-std](https://github.com/async-rs/async-std)
-  - Async version of the Rust standard library
+- [winit](https://github.com/rust-windowing/winit)
+  - Window handling library in pure Rust
+- [rustfmt](https://github.com/rust-lang/rustfmt)
+  - Format Rust code
+- [feather](https://github.com/feather-rs/feather)
+  - An experimental Minecraft server implementation in Rust
 - [libra](https://github.com/libra/libra)
   - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
