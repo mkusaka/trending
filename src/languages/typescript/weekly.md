@@ -1,51 +1,51 @@
 # typescript
 - [excalidraw](https://github.com/excalidraw/excalidraw)
-  - Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
-- [ionic](https://github.com/ionic-team/ionic)
-  - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
+  - Virtual whiteboard for sketching hand-drawn like diagrams
 - [lens](https://github.com/lensapp/lens)
   - Lens - The Kubernetes IDE
+- [hamagen-react-native](https://github.com/MohGovIL/hamagen-react-native)
+  - Israel's Ministry of Health's COVID-19 Exposure Prevention App
+- [react-visual-editor](https://github.com/anye931123/react-visual-editor)
+  - 基于 React 的组件可视化拖拽页面搭建代码生成工具,组件自由拖拽，dom实时追踪，组件无限制嵌套组合，不添加多余节点，可完美还原UI设计，多平台支持，代码生成，实时预览，项目于2020.2.22开源，喜欢的点颗星支持鼓励一下！
 - [covid-19-api](https://github.com/mathdroid/covid-19-api)
   - COVID-19 global data (from JHU CSSE for now) as-a-service
-- [twilio-video-app-react](https://github.com/twilio/twilio-video-app-react)
-  - A collaboration application built with the twilio-video.js SDK and React.js
-- [vue-next](https://github.com/vuejs/vue-next)
-  - The next major version of Vue (WIP)
-- [nest](https://github.com/nestjs/nest)
-  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-- [streamlabs-obs](https://github.com/stream-labs/streamlabs-obs)
-  - Free and open source streaming software built on OBS and Electron.
+- [angular-cli](https://github.com/angular/angular-cli)
+  - CLI tool for Angular
+- [fluentui](https://github.com/microsoft/fluentui)
+  - We've moved! UI Fabric is now Fluent UI - A set of React components for building Microsoft web experiences.
 - [code-server](https://github.com/cdr/code-server)
   - Run VS Code on a remote server.
-- [desktop](https://github.com/desktop/desktop)
-  - Simple collaboration from your desktop
-- [prisma2](https://github.com/prisma/prisma2)
-  - Modern DB toolkit to query, migrate and model your database
-- [qiankun](https://github.com/umijs/qiankun)
-  - 📦🚀Blazing fast, simple and completed solution for micro frontends.
-- [umi](https://github.com/umijs/umi)
-  - 🌋 Pluggable enterprise-level react application framework.
-- [face-api.js](https://github.com/justadudewhohacks/face-api.js)
-  - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
-- [vscode](https://github.com/microsoft/vscode)
-  - Visual Studio Code
+- [covid19_scenarios](https://github.com/neherlab/covid19_scenarios)
+  - Models of COVID-19 outbreak trajectories and hospital demand
+- [jest](https://github.com/facebook/jest)
+  - Delightful JavaScript Testing.
+- [react-navigation](https://github.com/react-navigation/react-navigation)
+  - Routing and navigation for your React Native apps
 - [PoE-Overlay](https://github.com/Kyusung4698/PoE-Overlay)
   - An Overlay for Path of Exile. Built with Electron and Angular.
-- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
-  - The source for REST API specifications for Microsoft Azure.
-- [vuetify](https://github.com/vuetifyjs/vuetify)
-  - 🐉 Material Component Framework for Vue
-- [editor.js](https://github.com/codex-team/editor.js)
-  - A block-styled editor with clean JSON output
-- [uppload](https://github.com/elninotech/uppload)
-  - 📁 Uppload is a better JavaScript image uploader with 30+ plugins
-- [G6](https://github.com/antvis/G6)
-  - ♾ A Graph Visualization Framework in JavaScript
-- [ng-matero](https://github.com/ng-matero/ng-matero)
-  - Angular Material admin dashboard template.
-- [erxes](https://github.com/erxes/erxes)
-  - Open source growth marketing platform
+- [flipper](https://github.com/facebook/flipper)
+  - A desktop debugging platform for mobile developers.
+- [vscode](https://github.com/microsoft/vscode)
+  - Visual Studio Code
+- [gqless](https://github.com/samdenty/gqless)
+  - A GraphQL client without queries ✨
+- [now](https://github.com/zeit/now)
+  - Develop. Preview. Ship.
+- [TypeScript](https://github.com/microsoft/TypeScript)
+  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [twilio-video-app-react](https://github.com/twilio/twilio-video-app-react)
+  - A collaboration application built with the twilio-video.js SDK and React.js
+- [pixi.js](https://github.com/pixijs/pixi.js)
+  - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+- [ProdigyMathGameHacking](https://github.com/PatheticMustan/ProdigyMathGameHacking)
+  - We're gonna cheat in Prodigy.
+- [desktop](https://github.com/desktop/desktop)
+  - Simple collaboration from your desktop
 - [rap2-delos](https://github.com/thx/rap2-delos)
   - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
-- [codetour](https://github.com/vsls-contrib/codetour)
-  - VS Code extension that allows you to record and playback guided tours of codebases, directly within the editor
+- [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)
+  - An enterprise-class UI components based on Ant Design and Angular. 🐜
+- [countUp.js](https://github.com/inorganik/countUp.js)
+  - Animates a numerical value by counting to it
+- [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
+  - Foreign language reading and translation assistant based on copy and translate.

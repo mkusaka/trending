@@ -1,51 +1,51 @@
 # general
-- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
-  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [jitsi-meet](https://github.com/jitsi/jitsi-meet) : JavaScript
-  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [newbee-mall](https://github.com/newbee-ltd/newbee-mall) : Java
-  - newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
-- [COVID-19](https://github.com/pcm-dpc/COVID-19) : 
-  - COVID-19 Italia - Monitoraggio situazione
-- [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) : HTML
-  - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
-- [ish](https://github.com/tbodt/ish) : C
-  - Linux shell for iOS
-- [Sentinel](https://github.com/alibaba/Sentinel) : Java
-  - A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
-- [coronavirus](https://github.com/FoldingAtHome/coronavirus) : Python
-  - Folding@home COVID-19 efforts
-- [bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) : Java
-  - Complete open source web conferencing system.
-- [CoronaTracker](https://github.com/MhdHejazi/CoronaTracker) : Swift
-  - Coronavirus tracker app for iOS & macOS with maps & charts
-- [miaosha](https://github.com/qiurunze123/miaosha) : Java
-  - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
-- [obs-studio](https://github.com/obsproject/obs-studio) : C
-  - OBS Studio - Free and open source software for live streaming and screen recording
-- [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) : C++
-  - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
+- [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) : Jupyter Notebook
+  - This repository contains the source code for the paper First Order Motion Model for Image Animation
+- [Foodium](https://github.com/PatilShreyas/Foodium) : Kotlin
+  - 🍲Foodium is a sample food blog Android application 📱 built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).
 - [covid-19](https://github.com/datasets/covid-19) : Python
   - Novel Coronavirus 2019 time series data on cases
-- [synapse](https://github.com/matrix-org/synapse) : Python
-  - Synapse: Matrix reference homeserver
-- [lazygit](https://github.com/jesseduffield/lazygit) : Go
-  - simple terminal UI for git commands
-- [excalidraw](https://github.com/excalidraw/excalidraw) : TypeScript
-  - Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
-- [COVID-19](https://github.com/midas-network/COVID-19) : TeX
-  - 2019 novel coronavirus repository
-- [samples](https://github.com/webrtc/samples) : JavaScript
-  - WebRTC Web demos and samples
-- [covid19](https://github.com/twiecki/covid19) : Jupyter Notebook
-  - Analyses about the COVID-19 virus
-- [manim](https://github.com/3b1b/manim) : Python
-  - Animation engine for explanatory math videos
-- [JavaGuide](https://github.com/Snailclimb/JavaGuide) : Java
-  - 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-- [chat](https://github.com/tinode/chat) : Go
-  - Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots
+- [API](https://github.com/NovelCOVID/API) : JavaScript
+  - API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
+- [automl](https://github.com/google/automl) : Jupyter Notebook
+  - Google Brain AutoML
+- [jitsi-meet](https://github.com/jitsi/jitsi-meet) : JavaScript
+  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [COVID-19](https://github.com/elcronos/COVID-19) : JavaScript
+  - COVID-19 Detector from x-rays using Computer Vision and Deep Learning
+- [spring-boot-api-project-seed](https://github.com/lihengming/spring-boot-api-project-seed) : Java
+  - 🌱🚀一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~
+- [covid19-dashboard](https://github.com/github/covid19-dashboard) : Jupyter Notebook
+  - A site that displays up to date COVID-19 stats, powered by fastpages.
 - [cim](https://github.com/crossoverJie/cim) : Java
   - 📲cim(cross IM) 适用于开发者的分布式即时通讯系统
-- [devilutionX](https://github.com/diasurgical/devilutionX) : C++
-  - Diablo build for modern operating systems
+- [stanza](https://github.com/stanfordnlp/stanza) : Python
+  - Official Stanford NLP Python Library for Many Human Languages
+- [excalidraw](https://github.com/excalidraw/excalidraw) : TypeScript
+  - Virtual whiteboard for sketching hand-drawn like diagrams
+- [CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) : 
+  - 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）
+- [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) : HTML
+  - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
+- [manim](https://github.com/3b1b/manim) : Python
+  - Animation engine for explanatory math videos
+- [lens](https://github.com/lensapp/lens) : TypeScript
+  - Lens - The Kubernetes IDE
+- [core-js](https://github.com/zloirock/core-js) : JavaScript
+  - Standard Library
+- [papers-we-love](https://github.com/papers-we-love/papers-we-love) : Shell
+  - Papers from the computer science community to read and discuss.
+- [SpringAll](https://github.com/wuyouzhuguli/SpringAll) : Java
+  - 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc
+- [fastjson](https://github.com/alibaba/fastjson) : Java
+  - A fast JSON parser/generator for Java.
+- [samples](https://github.com/webrtc/samples) : JavaScript
+  - WebRTC Web demos and samples
+- [janus-gateway](https://github.com/meetecho/janus-gateway) : C
+  - Janus WebRTC Server
+- [bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) : Java
+  - Complete open source web conferencing system.
+- [covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset) : 
+  - We are building an open database of COVID-19 cases with chest X-ray or CT images.
+- [obs-studio](https://github.com/obsproject/obs-studio) : C
+  - OBS Studio - Free and open source software for live streaming and screen recording
