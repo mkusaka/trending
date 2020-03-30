@@ -1,49 +1,50 @@
 # general
+- [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) : Jupyter Notebook
+  - This repository contains the source code for the paper First Order Motion Model for Image Animation
 - [covid-19-data](https://github.com/nytimes/covid-19-data) : 
   - An ongoing repository of data on coronavirus cases and deaths in the U.S.
 - [react-ultimate-resume](https://github.com/welovedevs/react-ultimate-resume) : JavaScript
   - 💼 🎨 A modern software developer resume built with React and JSONResume
 - [manim](https://github.com/3b1b/manim) : Python
   - Animation engine for explanatory math videos
-- [covid19india-react](https://github.com/covid19india/covid19india-react) : JavaScript
-  - 📊 Source code of the main website
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) : JavaScript
   - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [rome](https://github.com/facebookexperimental/rome) : TypeScript
-  - An experimental JavaScript toolchain
-- [app](https://github.com/WorldHealthOrganization/app) : Dart
-  - World Health Organization App
-- [ion](https://github.com/pion/ion) : Go
-  - Distributed RTC System by pure Go and Flutter
-- [covid19india-cluster](https://github.com/someshkar/covid19india-cluster) : JavaScript
-  - 🔬 COVID19 India Cluster Network
-- [api](https://github.com/covid19india/api) : JavaScript
-- [lede](https://github.com/coolsnowwolf/lede) : C
-  - Lean's OpenWrt source
+- [covid19india-react](https://github.com/covid19india/covid19india-react) : JavaScript
+  - 📊 Source code of the main website
+- [Blog](https://github.com/mqyqingfeng/Blog) : 
+  - 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
+- [raylib](https://github.com/raysan5/raylib) : C
+  - A simple and easy-to-use library to enjoy videogames programming
+- [effective-java-3rd-chinese](https://github.com/sjsdfg/effective-java-3rd-chinese) : 
+  - effective-java-3rd 中文版 https://sjsdfg.github.io/effective-java-3rd-chinese
 - [jira_clone](https://github.com/Datlyfe/jira_clone) : Vue
   - A Jira clone built with Vuejs & Nodejs/Graphql
-- [spring-boot-api-project-seed](https://github.com/lihengming/spring-boot-api-project-seed) : Java
-  - 🌱🚀一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~
-- [voidrice](https://github.com/LukeSmithxyz/voidrice) : Shell
-  - My dotfiles (deployed by LARBS)
-- [Open_Source_Ventilator](https://github.com/CSSALTlab/Open_Source_Ventilator) : C++
-  - Open source for use worldwide and contributions from others worldwide
+- [imgui](https://github.com/ocornut/imgui) : C++
+  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+- [app](https://github.com/WorldHealthOrganization/app) : Java
+  - World Health Organization App
+- [Tasmota](https://github.com/arendst/Tasmota) : C++
+  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
+- [flutter](https://github.com/flutter/flutter) : Dart
+  - Flutter makes it easy and fast to build beautiful mobile apps.
+- [darling](https://github.com/darlinghq/darling) : C
+  - Darwin/macOS emulation layer for Linux
+- [RL-Stock](https://github.com/wangshub/RL-Stock) : Jupyter Notebook
+  - 📈 如何用深度强化学习自动炒股
+- [fiber](https://github.com/uber/fiber) : Python
+  - Distributed Computing for AI Made Simple
+- [godot](https://github.com/godotengine/godot) : C++
+  - Godot Engine – Multi-platform 2D and 3D game engine
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
   - Roadmap to becoming a web developer in 2020
-- [app-ideas](https://github.com/florinpop17/app-ideas) : 
-  - A Collection of application ideas which can be used to improve your coding skills.
-- [nlp_paper_summaries](https://github.com/dair-ai/nlp_paper_summaries) : 
-  - ✍️ A carefully curated list of NLP paper summaries
-- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
-  - Course Files for Complete Python 3 Bootcamp Course on Udemy
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
+- [covid19-vent-list](https://github.com/PubInv/covid19-vent-list) : 
+  - A list projects to make emergency ventilators in response to COVID-19, focusing on free-libre open source
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [faceswap](https://github.com/deepfakes/faceswap) : Python
+  - Deepfakes Software For All
+- [lede](https://github.com/coolsnowwolf/lede) : C
+  - Lean's OpenWrt source
 - [Spoke](https://github.com/Elizabeth-Warren/Spoke) : JavaScript
-- [tensorflow-handbook](https://github.com/snowkylin/tensorflow-handbook) : Jupyter Notebook
-  - 简单粗暴 TensorFlow 2.0 | A Concise Handbook of TensorFlow 2.0
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) : JavaScript
-  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
-- [tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) : Java
-  - 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
-- [codenames](https://github.com/jbowens/codenames) : TypeScript
-  - Play codenames using a TV or computer for the board
-- [api-covid19-in](https://github.com/amodm/api-covid19-in) : JavaScript
-  - COVID Rest API for India data, using Cloudflare Workers

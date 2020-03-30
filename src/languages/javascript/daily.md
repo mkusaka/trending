@@ -1,51 +1,51 @@
 # javascript
 - [react-ultimate-resume](https://github.com/welovedevs/react-ultimate-resume)
   - 💼 🎨 A modern software developer resume built with React and JSONResume
-- [covid19india-react](https://github.com/covid19india/covid19india-react)
-  - 📊 Source code of the main website
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
   - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [covid19india-cluster](https://github.com/someshkar/covid19india-cluster)
-  - 🔬 COVID19 India Cluster Network
-- [api](https://github.com/covid19india/api)
-  - 
+- [covid19india-react](https://github.com/covid19india/covid19india-react)
+  - 📊 Source code of the main website
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [Spoke](https://github.com/Elizabeth-Warren/Spoke)
   - 
+- [api](https://github.com/covid19india/api)
+  - 
+- [HappyIslandDesigner](https://github.com/eugeneration/HappyIslandDesigner)
+  - 
+- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
+  - Bypass Paywalls for Chrome
+- [semana-omnistack-10](https://github.com/Rocketseat/semana-omnistack-10)
+  - Código da aplicação desenvolvida durante a Semana OmniStack 10.0 🚀
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
   - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
-- [api-covid19-in](https://github.com/amodm/api-covid19-in)
-  - COVID Rest API for India data, using Cloudflare Workers
-- [coronadatascraper](https://github.com/lazd/coronadatascraper)
-  - COVID-19 Coronavirus data scraped from government and curated data sources.
-- [covid19](https://github.com/pomber/covid19)
-  - JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily
-- [covid-19-apis](https://github.com/postmanlabs/covid-19-apis)
-  - Postman COVID-19 API Resource Center—API collections to help in the COVID-19 fight.
-- [discord.js](https://github.com/discordjs/discord.js)
-  - A powerful JavaScript library for interacting with the Discord API
-- [API](https://github.com/NovelCOVID/API)
-  - API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
-  - Starter files, final projects and FAQ for my Complete JavaScript course
-- [hackathon-starter](https://github.com/sahat/hackathon-starter)
-  - A boilerplate for Node.js web applications
+- [covidtrends](https://github.com/aatishb/covidtrends)
+  - Tracking the growth of COVID-19 Cases woldwide
+- [secret-hitler](https://github.com/cozuya/secret-hitler)
+  - A web adaptation of the social deduction board game Secret Hitler. https://secrethitler.io
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [google-access-helper](https://github.com/haotian-wang/google-access-helper)
+  - 谷歌访问助手破解版
+- [SemanaOmnistack11](https://github.com/DanielObara/SemanaOmnistack11)
+  - Código da aplicação desenvolvida durante a Semana OmniStack11 🚀
+- [babel](https://github.com/babel/babel)
+  - 🐠 Babel is a compiler for writing next generation JavaScript.
+- [joplin](https://github.com/laurent22/joplin)
+  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [covid-19-spread-simulator](https://github.com/midudev/covid-19-spread-simulator)
+  - COVID-19 (Coronavirus) Spread Simulator 🦠
+- [complete-intro-to-react-v5](https://github.com/btholt/complete-intro-to-react-v5)
+  - The Complete Intro to React, the fifth version
+- [svelte](https://github.com/sveltejs/svelte)
+  - Cybernetically enhanced web apps
+- [leetcode](https://github.com/azl397985856/leetcode)
+  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+- [covid19japan](https://github.com/reustle/covid19japan)
+  - 
 - [nanoid](https://github.com/ai/nanoid)
   - A tiny (108 bytes), secure, URL-friendly, unique string ID generator for JavaScript
-- [webogram](https://github.com/zhukov/webogram)
-  - Telegram web application, GPL v3
-- [AR.js](https://github.com/AR-js-org/AR.js)
-  - Image tracking, Location Based AR, Marker tracking. All on the Web.
-- [Ghost](https://github.com/TryGhost/Ghost)
-  - 👻 The #1 headless Node.js CMS for professional publishing
-- [opensource.guide](https://github.com/github/opensource.guide)
-  - 📚 Community guides for open source creators
-- [next.js](https://github.com/zeit/next.js)
-  - The React Framework
-- [udacimak](https://github.com/udacimak/udacimak)
-  - Udacity Nanodegree and Course Downloader
-- [three.js](https://github.com/mrdoob/three.js)
-  - JavaScript 3D library.
-- [website](https://github.com/CodingTrain/website)
-  - Coding Train website
-- [casino-server](https://github.com/floatinghotpot/casino-server)
-  - 🔥 An online poker game server powered by Redis, node.js and socket.io
+- [covid-alert](https://github.com/OpenMined/covid-alert)
+  - A privacy-preserving app for comparing last-known locations of coronavirus patients
+- [outbreak](https://github.com/kevinsimler/outbreak)
+  - A playable disease simulator written in React
