@@ -1,51 +1,51 @@
 # javascript
+- [API](https://github.com/NovelCOVID/API)
+  - API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
 - [jitsi-meet](https://github.com/jitsi/jitsi-meet)
   - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [COVID-19](https://github.com/elcronos/COVID-19)
+  - COVID-19 Detector from x-rays using Computer Vision and Deep Learning
+- [core-js](https://github.com/zloirock/core-js)
+  - Standard Library
 - [samples](https://github.com/webrtc/samples)
   - WebRTC Web demos and samples
-- [redwood](https://github.com/redwoodjs/redwood)
-  - Bringing full-stack to the JAMstack.
-- [nuxt.js](https://github.com/nuxt/nuxt.js)
-  - The Vue.js Framework
-- [Viewers](https://github.com/OHIF/Viewers)
-  - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker, plus shared extension packages
-- [docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet)
-  - Jitsi Meet on Docker
-- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
-  - 一个基于 electron 的音乐软件
-- [Script](https://github.com/NobyDa/Script)
-  - This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.
-- [apprtc](https://github.com/webrtc/apprtc)
-  - The video chat demo app based on WebRTC. This project is currently on HOLD with minimal maintenance.
-- [chakra-ui-vue](https://github.com/chakra-ui/chakra-ui-vue)
-  - ⚡️ Build scalable and accessible Vue.js applications with ease.
-- [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)
-  - 网易云音乐 Node.js API service
-- [vuex](https://github.com/vuejs/vuex)
-  - 🗃️ Centralized State Management for Vue.js.
-- [graphql-engine](https://github.com/hasura/graphql-engine)
-  - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
-- [etherpad-lite](https://github.com/ether/etherpad-lite)
-  - Etherpad: real-time collaborative document editor
-- [Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic)
-  - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
-- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
-  - Revive unavailable songs for Netease Cloud Music
 - [WebRTC-Experiment](https://github.com/muaz-khan/WebRTC-Experiment)
   - WebRTC, WebRTC and WebRTC. Everything here is all about WebRTC!!
-- [franz](https://github.com/meetfranz/franz)
-  - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
+- [covid19](https://github.com/pomber/covid19)
+  - JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily
+- [core](https://github.com/JAVClub/core)
+  - 🔞 JAVClub - 让你的大姐姐不再走丢
+- [remote-jobs](https://github.com/remoteintech/remote-jobs)
+  - A list of semi to fully remote-friendly companies in tech.
+- [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
+  - 🦠Useful projects and resources for COVID-19 (2019 novel Coronavirus)
+- [grocy](https://github.com/grocy/grocy)
+  - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
+- [corona-cli](https://github.com/ahmadawais/corona-cli)
+  - 🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (< 100ms).
+- [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
+  - 中文独立博客列表
+- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
+  - 一个基于 electron 的音乐软件
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [private-kit](https://github.com/tripleblindmarket/private-kit)
+  - Private Kit, an open source privacy preserving system for using personal information
+- [coronadatascraper](https://github.com/covidatlas/coronadatascraper)
+  - COVID-19 Coronavirus data scraped from government and curated data sources.
+- [secret-hitler](https://github.com/cozuya/secret-hitler)
+  - A web adaptation of the social deduction board game Secret Hitler. https://secrethitler.io
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+  - The ultimate Free Open Source Solution for team communications.
+- [create-react-app](https://github.com/facebook/create-react-app)
+  - Set up a modern web app by running one command.
+- [three.js](https://github.com/mrdoob/three.js)
+  - JavaScript 3D library.
+- [covid19](https://github.com/stevenliuyi/covid19)
+  - an interactive, animated COVID-19 coronavirus map to track the outbreak over time by country and by region for selected countries (including China, Italy, Korea, Japan, France, Germany, United States)
+- [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
+  - ⛄️ Possibly the smallest compiler ever
 - [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
   - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui)
-  - A desktop application for downloading Udemy Courses
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [axios](https://github.com/axios/axios)
-  - Promise based HTTP client for the browser and node.js
-- [babel](https://github.com/babel/babel)
-  - 🐠 Babel is a compiler for writing next generation JavaScript.
-- [marked](https://github.com/markedjs/marked)
-  - A markdown parser and compiler. Built for speed.
-- [curso-javascript-ninja](https://github.com/da2k/curso-javascript-ninja)
-  - Curso Javascript Ninja
+- [lib-jitsi-meet](https://github.com/jitsi/lib-jitsi-meet)
+  - A low-level JS video API that allows adding a completely custom video experience to web apps.

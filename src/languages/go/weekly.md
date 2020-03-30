@@ -1,51 +1,51 @@
 # go
-- [lazygit](https://github.com/jesseduffield/lazygit)
-  - simple terminal UI for git commands
-- [chat](https://github.com/tinode/chat)
-  - Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots
-- [webrtc](https://github.com/pion/webrtc)
-  - Pure Go implementation of the WebRTC API
-- [night-reading-go](https://github.com/developer-learning/night-reading-go)
-  - Night-Reading-Go《Go 夜读》 > Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics. 由 Go 夜读 SIG 成员维护，并通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。
-- [mattermost-server](https://github.com/mattermost/mattermost-server)
-  - Open source Slack-alternative in Golang and React - Mattermost
-- [go](https://github.com/golang/go)
-  - The Go programming language
-- [etcd](https://github.com/etcd-io/etcd)
-  - Distributed reliable key-value store for the most critical data of a distributed system
-- [kratos](https://github.com/bilibili/kratos)
-  - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
-- [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga)
-  - Advanced information gathering & OSINT framework for phone numbers
-- [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
-  - Network-wide ads & trackers blocking DNS server
-- [Cloudreve](https://github.com/cloudreve/Cloudreve)
-  - 🌈支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)
-- [learn-go-with-tests](https://github.com/quii/learn-go-with-tests)
-  - Learn Go with test-driven development
-- [act](https://github.com/nektos/act)
-  - Run your GitHub Actions locally 🚀
-- [serving](https://github.com/knative/serving)
-  - Kubernetes-based, scale-to-zero, request-driven compute
-- [gorush](https://github.com/appleboy/gorush)
-  - A push notification server written in Go (Golang).
-- [gorm](https://github.com/jinzhu/gorm)
-  - The fantastic ORM library for Golang, aims to be developer friendly (v2 is under development, PR based on master branch won't be accepted)
-- [falcon-plus](https://github.com/open-falcon/falcon-plus)
-  - An open-source and enterprise-level monitoring system.
-- [gin](https://github.com/gin-gonic/gin)
-  - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN)
-  - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-- [gf](https://github.com/gogf/gf)
-  - GoFrame is a modular, full-featured and production-ready application development framework of golang. Providing a series of core components and dozens of practical modules, such as: cache, logging, containers, timer, resource, validator, database orm, etc. Supporting web server integrated with router, cookie, session, middleware, logger, configu…
-- [websocket](https://github.com/gorilla/websocket)
-  - A fast, well-tested and widely used WebSocket implementation for Go.
-- [frp](https://github.com/fatedier/frp)
-  - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [gobuster](https://github.com/OJ/gobuster)
-  - Directory/File, DNS and VHost busting tool written in Go
-- [zinx](https://github.com/aceld/zinx)
-  - 基于Golang轻量级TCP并发服务器框架
+- [nightingale](https://github.com/didi/nightingale)
+  - A Distributed and High-Performance Monitoring System
+- [gin-vue-admin](https://github.com/piexlmax/gin-vue-admin)
+  - 基于gin+gorm+vue搭建的快速后台管理系统模板，包含jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，更多功能正在开发中，欢迎iss，欢迎pr
 - [kubernetes](https://github.com/kubernetes/kubernetes)
   - Production-Grade Container Scheduling and Management
+- [Cloudreve](https://github.com/cloudreve/Cloudreve)
+  - 🌈支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)
+- [night](https://github.com/talk-go/night)
+  - Weekly Go Online Meetup via Zoom and Bilibili｜Go 夜读｜由 SIG 成员维护｜通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
+- [agones](https://github.com/googleforgames/agones)
+  - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
+- [falcon-plus](https://github.com/open-falcon/falcon-plus)
+  - An open-source and enterprise-level monitoring system.
+- [kratos](https://github.com/go-kratos/kratos)
+  - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
+- [webrtc](https://github.com/pion/webrtc)
+  - Pure Go implementation of the WebRTC API
+- [helm-operator](https://github.com/fluxcd/helm-operator)
+  - The Flux Helm operator, for declarative Helming
+- [prometheus](https://github.com/prometheus/prometheus)
+  - The Prometheus monitoring system and time series database.
+- [gin](https://github.com/gin-gonic/gin)
+  - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+- [golang-design-pattern](https://github.com/senghoo/golang-design-pattern)
+  - 设计模式 Golang实现－《研磨设计模式》读书笔记
+- [chat](https://github.com/tinode/chat)
+  - Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots
+- [go-whatsapp](https://github.com/Rhymen/go-whatsapp)
+  - WhatsApp Web API
+- [gorush](https://github.com/appleboy/gorush)
+  - A push notification server written in Go (Golang).
+- [clash](https://github.com/Dreamacro/clash)
+  - A rule-based tunnel in Go.
+- [trojan](https://github.com/Jrohy/trojan)
+  - trojan多用户管理部署程序, 支持web页面管理
+- [lazydocker](https://github.com/jesseduffield/lazydocker)
+  - The lazier way to manage everything docker
+- [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
+  - A golang ebook intro how to build a web with golang
+- [GolangTraining](https://github.com/GoesToEleven/GolangTraining)
+  - Training for Golang (go language)
+- [matterbridge](https://github.com/42wim/matterbridge)
+  - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams and more with REST API (mattermost not required!)
+- [tidb](https://github.com/pingcap/tidb)
+  - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+- [Yearning](https://github.com/cookieY/Yearning)
+  - A most popular sql audit platform for mysql
+- [istio](https://github.com/istio/istio)
+  - Connect, secure, control, and observe services.
