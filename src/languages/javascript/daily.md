@@ -1,51 +1,51 @@
 # javascript
-- [react-ultimate-resume](https://github.com/welovedevs/react-ultimate-resume)
-  - 💼 🎨 A modern software developer resume built with React and JSONResume
-- [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
-  - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [covid19india-react](https://github.com/covid19india/covid19india-react)
-  - 📊 Source code of the main website
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
 - [Spoke](https://github.com/Elizabeth-Warren/Spoke)
   - 
-- [api](https://github.com/covid19india/api)
-  - 
-- [HappyIslandDesigner](https://github.com/eugeneration/HappyIslandDesigner)
-  - 
-- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
-  - Bypass Paywalls for Chrome
-- [semana-omnistack-10](https://github.com/Rocketseat/semana-omnistack-10)
-  - Código da aplicação desenvolvida durante a Semana OmniStack 10.0 🚀
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+  - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [covidtrends](https://github.com/aatishb/covidtrends)
   - Tracking the growth of COVID-19 Cases woldwide
-- [secret-hitler](https://github.com/cozuya/secret-hitler)
-  - A web adaptation of the social deduction board game Secret Hitler. https://secrethitler.io
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [google-access-helper](https://github.com/haotian-wang/google-access-helper)
-  - 谷歌访问助手破解版
-- [SemanaOmnistack11](https://github.com/DanielObara/SemanaOmnistack11)
-  - Código da aplicação desenvolvida durante a Semana OmniStack11 🚀
-- [babel](https://github.com/babel/babel)
-  - 🐠 Babel is a compiler for writing next generation JavaScript.
-- [joplin](https://github.com/laurent22/joplin)
-  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
-- [covid-19-spread-simulator](https://github.com/midudev/covid-19-spread-simulator)
-  - COVID-19 (Coronavirus) Spread Simulator 🦠
-- [complete-intro-to-react-v5](https://github.com/btholt/complete-intro-to-react-v5)
-  - The Complete Intro to React, the fifth version
+- [react-ultimate-resume](https://github.com/welovedevs/react-ultimate-resume)
+  - 💼 🎨 A modern software developer resume built with React and JSONResume
+- [awx](https://github.com/ansible/awx)
+  - AWX Project
 - [svelte](https://github.com/sveltejs/svelte)
   - Cybernetically enhanced web apps
-- [leetcode](https://github.com/azl397985856/leetcode)
-  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
-- [covid19japan](https://github.com/reustle/covid19japan)
+- [slate](https://github.com/ianstormtaylor/slate)
+  - A completely customizable framework for building rich text editors. (Currently in beta.)
+- [socket.io](https://github.com/socketio/socket.io)
+  - Realtime application framework (Node.JS server)
+- [swiper](https://github.com/nolimits4web/swiper)
+  - Most modern mobile touch slider with hardware accelerated transitions
+- [create-react-app](https://github.com/facebook/create-react-app)
+  - Set up a modern web app by running one command.
+- [bbbot](https://github.com/DanielHe4rt/bbbot)
+  - Bot feito para estudos de leitura de imagem
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui)
+  - ⚡️Simple, Modular & Accessible UI Components for your React Applications
+- [google-meet-grid-view](https://github.com/Fugiman/google-meet-grid-view)
+  - Userscript to offer a grid-view layout in Google Meets
+- [bbbot](https://github.com/diofeher/bbbot)
+  - Bot pra votar no Big Brother
+- [vue-design](https://github.com/HcySunYang/vue-design)
+  - 📖 master分支：《渲染器》 elegant分支：逐行级别的源码分析
+- [gun](https://github.com/amark/gun)
+  - A realtime, decentralized, offline-first, graph protocol to sync the web.
+- [plugins](https://github.com/rollup/plugins)
+  - 🍣 The one-stop shop for official Rollup plugins
+- [pollaris](https://github.com/Elizabeth-Warren/pollaris)
+  - Polling Locator
+- [api-platform](https://github.com/api-platform/api-platform)
+  - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [node](https://github.com/nodejs/node)
+  - Node.js JavaScript runtime ✨🐢🚀✨
+- [HappyIslandDesigner](https://github.com/eugeneration/HappyIslandDesigner)
   - 
-- [nanoid](https://github.com/ai/nanoid)
-  - A tiny (108 bytes), secure, URL-friendly, unique string ID generator for JavaScript
-- [covid-alert](https://github.com/OpenMined/covid-alert)
-  - A privacy-preserving app for comparing last-known locations of coronavirus patients
-- [outbreak](https://github.com/kevinsimler/outbreak)
-  - A playable disease simulator written in React
+- [Inputmask](https://github.com/RobinHerbots/Inputmask)
+  - Input Mask plugin
