@@ -1,50 +1,49 @@
 # general
-- [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) : Jupyter Notebook
-  - This repository contains the source code for the paper First Order Motion Model for Image Animation
-- [covid-19-data](https://github.com/nytimes/covid-19-data) : 
-  - An ongoing repository of data on coronavirus cases and deaths in the U.S.
-- [react-ultimate-resume](https://github.com/welovedevs/react-ultimate-resume) : JavaScript
-  - 💼 🎨 A modern software developer resume built with React and JSONResume
-- [manim](https://github.com/3b1b/manim) : Python
-  - Animation engine for explanatory math videos
-- [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) : JavaScript
-  - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [covid19india-react](https://github.com/covid19india/covid19india-react) : JavaScript
-  - 📊 Source code of the main website
 - [Blog](https://github.com/mqyqingfeng/Blog) : 
   - 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
-- [raylib](https://github.com/raysan5/raylib) : C
-  - A simple and easy-to-use library to enjoy videogames programming
-- [effective-java-3rd-chinese](https://github.com/sjsdfg/effective-java-3rd-chinese) : 
-  - effective-java-3rd 中文版 https://sjsdfg.github.io/effective-java-3rd-chinese
-- [jira_clone](https://github.com/Datlyfe/jira_clone) : Vue
-  - A Jira clone built with Vuejs & Nodejs/Graphql
-- [imgui](https://github.com/ocornut/imgui) : C++
-  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
-- [app](https://github.com/WorldHealthOrganization/app) : Java
-  - World Health Organization App
-- [Tasmota](https://github.com/arendst/Tasmota) : C++
-  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
-- [flutter](https://github.com/flutter/flutter) : Dart
-  - Flutter makes it easy and fast to build beautiful mobile apps.
-- [darling](https://github.com/darlinghq/darling) : C
-  - Darwin/macOS emulation layer for Linux
-- [RL-Stock](https://github.com/wangshub/RL-Stock) : Jupyter Notebook
-  - 📈 如何用深度强化学习自动炒股
-- [fiber](https://github.com/uber/fiber) : Python
-  - Distributed Computing for AI Made Simple
-- [godot](https://github.com/godotengine/godot) : C++
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
-  - Roadmap to becoming a web developer in 2020
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
   - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
-- [covid19-vent-list](https://github.com/PubInv/covid19-vent-list) : 
-  - A list projects to make emergency ventilators in response to COVID-19, focusing on free-libre open source
+- [go-leetcode](https://github.com/austingebauer/go-leetcode) : Go
+  - A collection of 100+ popular LeetCode problems that I've solved in Go.
+- [blog_os](https://github.com/phil-opp/blog_os) : HTML
+  - Writing an OS in Rust
+- [tdesktop](https://github.com/telegramdesktop/tdesktop) : C++
+  - Telegram Desktop messaging app
+- [go-micro](https://github.com/micro/go-micro) : Go
+  - The Go Micro services development framework
+- [react-native](https://github.com/facebook/react-native) : JavaScript
+  - A framework for building native apps with React.
+- [flutter](https://github.com/flutter/flutter) : Dart
+  - Flutter makes it easy and fast to build beautiful mobile apps.
+- [open-coronavirus](https://github.com/open-coronavirus/open-coronavirus) : TypeScript
+  - Open Coronavirus
+- [technology-talk](https://github.com/aalansehaiyang/technology-talk) : 
+  - 汇总java生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识
+- [RL-Stock](https://github.com/wangshub/RL-Stock) : Jupyter Notebook
+  - 📈 如何用深度强化学习自动炒股
+- [Spoke](https://github.com/Elizabeth-Warren/Spoke) : JavaScript
+- [RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) : Python
+  - Runtime Mobile Security (RMS) is a powerful web interface that helps you to manipulate Android Java Classes and Methods at Runtime
+- [facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) : Objective-C
+  - Used to integrate the Facebook Platform with your iOS & tvOS apps.
+- [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) : Jupyter Notebook
+  - This repository contains the source code for the paper First Order Motion Model for Image Animation
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
+  - Roadmap to becoming a web developer in 2020
+- [code_snippets](https://github.com/CoreyMSchafer/code_snippets) : Jupyter Notebook
+- [maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) : Shell
+  - Local ad blocker. Like Pi-hole but local and using your operating system.
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
   - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [faceswap](https://github.com/deepfakes/faceswap) : Python
-  - Deepfakes Software For All
-- [lede](https://github.com/coolsnowwolf/lede) : C
-  - Lean's OpenWrt source
-- [Spoke](https://github.com/Elizabeth-Warren/Spoke) : JavaScript
+- [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) : JavaScript
+  - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [turkish-microservice-architecture-book](https://github.com/suadev/turkish-microservice-architecture-book) : 
+  - Open Source Turkish Microservices eBook. Feel free to contribute.
+- [aws-cdk](https://github.com/aws/aws-cdk) : TypeScript
+  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+- [ICUVent](https://github.com/alex3dbros/ICUVent) : C++
+  - A repository made for an opensource hardware and software for ICU Ventilator
+- [covidtrends](https://github.com/aatishb/covidtrends) : JavaScript
+  - Tracking the growth of COVID-19 Cases woldwide
+- [frontend](https://github.com/home-assistant/frontend) : TypeScript
+  - 🍭 Frontend for Home Assistant
