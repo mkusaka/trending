@@ -1,50 +1,50 @@
 # general
-- [trojan](https://github.com/trojan-gfw/trojan) : C++
-  - An unidentifiable mechanism that helps you bypass GFW.
-- [v2ray-core](https://github.com/v2ray/v2ray-core) : Go
-  - A platform for building proxies to bypass network restrictions.
-- [lede](https://github.com/coolsnowwolf/lede) : C
-  - Lean's OpenWrt source
-- [v2rayN](https://github.com/2dust/v2rayN) : C#
-- [OpenSK](https://github.com/google/OpenSK) : Rust
-  - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
-- [v2ray](https://github.com/233boy/v2ray) : Shell
-  - 最好用的 V2Ray 一键安装脚本 & 管理脚本
-- [joplin](https://github.com/laurent22/joplin) : JavaScript
-  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
-- [trax](https://github.com/google/trax) : Python
-  - Trax — your path to advanced deep learning
+- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
+  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
+- [manim](https://github.com/3b1b/manim) : Python
+  - Animation engine for explanatory math videos
+- [JavaGuide](https://github.com/Snailclimb/JavaGuide) : Java
+  - 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+- [JavaFamily](https://github.com/AobingJava/JavaFamily) : 
+  - 【互联网一线大厂面试+学习指南】
+- [OnJava8](https://github.com/LingCoder/OnJava8) : 
+  - 《On Java 8》中文版，又名《Java编程思想》 第5版
+- [advanced-java](https://github.com/doocs/advanced-java) : Java
+  - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
+- [7days-golang](https://github.com/geektutu/7days-golang) : Go
+  - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc) 7天用Go动手写/从零实现系列
+- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) : Vue
+  - 🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin
+- [papers-we-love](https://github.com/papers-we-love/papers-we-love) : Shell
+  - Papers from the computer science community to read and discuss.
+- [vue](https://github.com/vuejs/vue) : JavaScript
+  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [fanqiang](https://github.com/bannedbook/fanqiang) : Rich Text Format
+  - 翻墙-科学上网
+- [mall](https://github.com/macrozheng/mall) : Java
+  - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+- [miaosha](https://github.com/qiurunze123/miaosha) : Java
+  - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
+- [dubbo](https://github.com/apache/dubbo) : Java
+  - Apache Dubbo is a high-performance, java based, open source RPC framework.
+- [litemall](https://github.com/linlinjava/litemall) : Java
+  - 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
+- [obs-studio](https://github.com/obsproject/obs-studio) : C
+  - OBS Studio - Free and open source software for live streaming and screen recording
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
+  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
+- [zju-icicles](https://github.com/QSCTech/zju-icicles) : C
+  - 浙江大学课程攻略共享计划
+- [spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) : Java
+  - Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
+- [google-research](https://github.com/google-research/google-research) : Jupyter Notebook
+  - Google Research
+- [newbee-mall](https://github.com/newbee-ltd/newbee-mall) : Java
+  - newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
+- [vhr](https://github.com/lenve/vhr) : Java
+  - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
   - A complete computer science study plan to become a software engineer.
-- [openpilot](https://github.com/commaai/openpilot) : C++
-  - open source driving agent
-- [lantern](https://github.com/getlantern/lantern) : Go
-  - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 lantern proxy vpn censorship-circumvention censorship gfw accelerator
-- [bootstrap](https://github.com/twbs/bootstrap) : JavaScript
-  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [Algorithms](https://github.com/williamfiset/Algorithms) : Java
-  - A collection of algorithms and data structures
-- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) : Python
-  - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-- [cypress](https://github.com/cypress-io/cypress) : JavaScript
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [realworld](https://github.com/gothinkster/realworld) : JavaScript
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) : JavaScript
-  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-- [new-pac](https://github.com/Alvin9999/new-pac) : 
-  - 科学上网/自由上网/软件/方法，免费shadowsocks/ss/ssr/v2ray/goflyway账号，vps一键搭建脚本/教程
-- [V2rayU](https://github.com/yanue/V2rayU) : Swift
-  - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
-- [remote-jobs](https://github.com/remoteintech/remote-jobs) : JavaScript
-  - A list of semi to fully remote-friendly companies in tech.
-- [DAIN](https://github.com/baowenbo/DAIN) : Python
-  - Depth-Aware Video Frame Interpolation (CVPR 2019)
-- [Apollo-11](https://github.com/chrislgarry/Apollo-11) : Assembly
-  - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
-- [2019-ncov](https://github.com/shfshanyue/2019-ncov) : JavaScript
-  - 全国新型冠状病毒，肺炎疫情实时省市地图
-- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) : Go
-  - Terraform AWS provider
-- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) : 
-  - A book series on JavaScript. @YDKJS on twitter.
+- [v2rayN](https://github.com/2dust/v2rayN) : C#

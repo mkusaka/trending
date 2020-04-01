@@ -1,51 +1,51 @@
 # rust
-- [OpenSK](https://github.com/google/OpenSK)
-  - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
-- [spotify-tui](https://github.com/Rigellute/spotify-tui)
-  - Spotify for the terminal written in Rust 🚀
-- [rusoto](https://github.com/rusoto/rusoto)
-  - AWS SDK for Rust
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [ripgrep](https://github.com/BurntSushi/ripgrep)
-  - ripgrep recursively searches directories for a regex pattern
-- [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
-  - The Mullvad VPN client app for desktop and mobile
-- [tock](https://github.com/tock/tock)
-  - A secure embedded operating system for microcontrollers
-- [talent-plan](https://github.com/pingcap/talent-plan)
-  - PingCAP training courses
-- [exa](https://github.com/ogham/exa)
-  - A modern version of ‘ls’.
-- [juniper](https://github.com/graphql-rust/juniper)
-  - GraphQL server library for Rust
-- [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust)
-  - A Rust port of shadowsocks
-- [wasmtime](https://github.com/bytecodealliance/wasmtime)
-  - Standalone JIT-style runtime for WebAssembly, using Cranelift
-- [swc](https://github.com/swc-project/swc)
-  - Super-fast typescript / javascript compiler written in rust
-- [diesel](https://github.com/diesel-rs/diesel)
-  - A safe, extensible ORM and Query Builder for Rust
-- [tide](https://github.com/http-rs/tide)
-  - Serve the web – HTTP server framework
-- [tracing](https://github.com/tokio-rs/tracing)
-  - Application level tracing for Rust.
-- [actix](https://github.com/actix/actix)
-  - Actor framework for Rust
-- [fd](https://github.com/sharkdp/fd)
-  - A simple, fast and user-friendly alternative to 'find'
-- [Rocket](https://github.com/SergioBenitez/Rocket)
-  - A web framework for Rust.
+- [druid](https://github.com/xi-editor/druid)
+  - A data-first Rust-native UI design toolkit.
 - [bat](https://github.com/sharkdp/bat)
   - A cat(1) clone with wings.
-- [crates.io](https://github.com/rust-lang/crates.io)
-  - Source code for crates.io
-- [wgpu](https://github.com/gfx-rs/wgpu)
-  - Native WebGPU implementation based on gfx-hal
-- [wrangler](https://github.com/cloudflare/wrangler)
-  - 🤠 wrangle your cloudflare workers
+- [navi](https://github.com/denisidoro/navi)
+  - An interactive cheatsheet tool for the command-line
+- [firecracker](https://github.com/firecracker-microvm/firecracker)
+  - Secure and fast microVMs for serverless computing.
+- [ytop](https://github.com/cjbassi/ytop)
+  - A TUI system monitor written in Rust
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [996.ICU](https://github.com/996icu/996.ICU)
+  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [vector](https://github.com/timberio/vector)
+  - A lightweight and ultra-fast tool for building observability pipelines
+- [nushell](https://github.com/nushell/nushell)
+  - A modern shell written in Rust
+- [tokei](https://github.com/XAMPPRocky/tokei)
+  - Count your code, quickly.
+- [exa](https://github.com/ogham/exa)
+  - A modern version of ‘ls’.
+- [tui-rs](https://github.com/fdehau/tui-rs)
+  - Build terminal user interfaces and dashboards using Rust
+- [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
+  - Ultra relevant, instant, and typo-tolerant full-text search API
+- [talent-plan](https://github.com/pingcap/talent-plan)
+  - PingCAP training courses
+- [wasmtime](https://github.com/bytecodealliance/wasmtime)
+  - Standalone JIT-style runtime for WebAssembly, using Cranelift
+- [juniper](https://github.com/graphql-rust/juniper)
+  - GraphQL server library for Rust
+- [diesel](https://github.com/diesel-rs/diesel)
+  - A safe, extensible ORM and Query Builder for Rust
+- [rust-libp2p](https://github.com/libp2p/rust-libp2p)
+  - The Rust Implementation of libp2p networking stack.
+- [yyx](https://github.com/OnmyojiX/yyx)
+  - Game data snapshot manager.
+- [clap](https://github.com/clap-rs/clap)
+  - A full featured, fast Command Line Argument Parser for Rust
+- [fd](https://github.com/sharkdp/fd)
+  - A simple, fast and user-friendly alternative to 'find'
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
+- [regex](https://github.com/rust-lang/regex)
+  - An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
+- [mdBook](https://github.com/rust-lang/mdBook)
+  - Create book from markdown files. Like Gitbook but implemented in Rust
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - ripgrep recursively searches directories for a regex pattern

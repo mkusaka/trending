@@ -1,51 +1,51 @@
 # javascript
-- [joplin](https://github.com/laurent22/joplin)
-  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
-- [bootstrap](https://github.com/twbs/bootstrap)
-  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [cypress](https://github.com/cypress-io/cypress)
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [realworld](https://github.com/gothinkster/realworld)
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
-  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-- [remote-jobs](https://github.com/remoteintech/remote-jobs)
-  - A list of semi to fully remote-friendly companies in tech.
-- [2019-ncov](https://github.com/shfshanyue/2019-ncov)
-  - 全国新型冠状病毒，肺炎疫情实时省市地图
-- [alpine](https://github.com/alpinejs/alpine)
-  - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui)
-  - ⚡️Simple, Modular & Accessible UI Components for your React Applications
-- [opensource.guide](https://github.com/github/opensource.guide)
-  - 📚 Community guides for open source creators
-- [javascript](https://github.com/airbnb/javascript)
-  - JavaScript Style Guide
-- [react-redux-realworld-example-app](https://github.com/gothinkster/react-redux-realworld-example-app)
-  - Exemplary real world application built with React + Redux
-- [react-router](https://github.com/ReactTraining/react-router)
-  - Declarative routing for React
-- [v4](https://github.com/bchiang7/v4)
-  - Fourth iteration of my personal website
-- [next.js](https://github.com/zeit/next.js)
-  - The React Framework
-- [markdown-here](https://github.com/adam-p/markdown-here)
-  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
-- [google-access-helper](https://github.com/haotian-wang/google-access-helper)
-  - 谷歌访问助手破解版
-- [Script](https://github.com/NobyDa/Script)
-  - This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.
-- [react-i18next](https://github.com/i18next/react-i18next)
-  - Internationalization for react done right. Using the i18next i18n ecosystem.
-- [newman](https://github.com/postmanlabs/newman)
-  - Newman is a command-line collection runner for Postman
-- [create-react-app](https://github.com/facebook/create-react-app)
-  - Set up a modern web app by running one command.
-- [renovate](https://github.com/renovatebot/renovate)
-  - Universal dependency update tool that fits into your workflows.
-- [request](https://github.com/request/request)
-  - 🏊🏾 Simplified HTTP request client.
+- [vue](https://github.com/vuejs/vue)
+  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
+  - 一个基于 electron 的音乐软件
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+  - The ultimate Free Open Source Solution for team communications.
+- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
+  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)
+  - 网易云音乐 Node.js API service
+- [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
+  - a vue2.0 minimal admin template
+- [samples](https://github.com/webrtc/samples)
+  - WebRTC Web demos and samples
+- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
+  - Bypass Paywalls for Chrome
+- [vant-weapp](https://github.com/youzan/vant-weapp)
+  - 轻量、可靠的小程序 UI 组件库
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+  - ✅ The Node.js best practices list (March 2020)
+- [etherpad-lite](https://github.com/ether/etherpad-lite)
+  - Etherpad: real-time collaborative document editor
 - [react-query](https://github.com/tannerlinsley/react-query)
   - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
-- [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
-  - Microsoft Authentication Library (MSAL) for JS
+- [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China)
+  - 中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
+- [Viewers](https://github.com/OHIF/Viewers)
+  - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker, plus shared extension packages
+- [joplin](https://github.com/laurent22/joplin)
+  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [wangEditor](https://github.com/wangfupeng1988/wangEditor)
+  - wangEditor —— 轻量级web富文本框
+- [vuex](https://github.com/vuejs/vuex)
+  - 🗃️ Centralized State Management for Vue.js.
+- [vant](https://github.com/youzan/vant)
+  - Lightweight Mobile UI Components built on Vue
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [apprtc](https://github.com/webrtc/apprtc)
+  - The video chat demo app based on WebRTC. This project is currently on HOLD with minimal maintenance.
+- [Motrix](https://github.com/agalwood/Motrix)
+  - A full-featured download manager.
+- [vue-router](https://github.com/vuejs/vue-router)
+  - 🚦 The official router for Vue.js.
+- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
+  - Revive unavailable songs for Netease Cloud Music
+- [bootstrap](https://github.com/twbs/bootstrap)
+  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [Historical-ranking-data-visualization-based-on-d3.js](https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js)
+  - 这是一个数据可视化项目，能够将历史数据排名转化为动态柱状图图表
