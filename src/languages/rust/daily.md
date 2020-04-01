@@ -1,51 +1,51 @@
 # rust
-- [zola](https://github.com/getzola/zola)
-  - A fast static site generator in a single binary with everything built-in.
-- [spotifyd](https://github.com/Spotifyd/spotifyd)
-  - A spotify daemon
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
 - [sqlx](https://github.com/launchbadge/sqlx)
   - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-- [kondo](https://github.com/tbillington/kondo)
-  - Save disk space by cleaning unneeded files from software projects.
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
 - [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
   - An experimental Rust compiler front-end for IDEs
-- [substrate](https://github.com/paritytech/substrate)
-  - Substrate: The platform for blockchain innovators
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
-  - Unofficial Bitwarden compatible server written in Rust
-- [sentry-cli](https://github.com/getsentry/sentry-cli)
-  - A command line utility to work with Sentry.
-- [spotify-tui](https://github.com/Rigellute/spotify-tui)
-  - Spotify for the terminal written in Rust 🚀
-- [i3status-rust](https://github.com/greshake/i3status-rust)
-  - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
-- [solana](https://github.com/solana-labs/solana)
-  - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+- [tikv](https://github.com/tikv/tikv)
+  - Distributed transactional key-value database, originally created to complement TiDB
+- [nushell](https://github.com/nushell/nushell)
+  - A modern shell written in Rust
 - [vector](https://github.com/timberio/vector)
   - A lightweight and ultra-fast tool for building observability pipelines
-- [ripgrep](https://github.com/BurntSushi/ripgrep)
-  - ripgrep recursively searches directories for a regex pattern
+- [zola](https://github.com/getzola/zola)
+  - A fast static site generator in a single binary with everything built-in.
+- [kondo](https://github.com/tbillington/kondo)
+  - Save disk space by cleaning unneeded files from software projects.
+- [talent-plan](https://github.com/pingcap/talent-plan)
+  - PingCAP training courses
 - [Rocket](https://github.com/SergioBenitez/Rocket)
   - A web framework for Rust.
-- [WASI](https://github.com/WebAssembly/WASI)
-  - WebAssembly System Interface
 - [servo](https://github.com/servo/servo)
   - The Servo Browser Engine
+- [book](https://github.com/rust-lang/book)
+  - The Rust Programming Language
+- [alacritty](https://github.com/alacritty/alacritty)
+  - A cross-platform, GPU-accelerated terminal emulator
+- [ggez](https://github.com/ggez/ggez)
+  - Rust library to create a Good Game Easily
+- [zz](https://github.com/aep/zz)
+  - 🍺🐙 ZetZ a zymbolic verifier and tranzpiler to bare metal C
 - [tokenizers](https://github.com/huggingface/tokenizers)
   - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
-- [rust-ipfs](https://github.com/ipfs-rust/rust-ipfs)
-  - The Interplanetary File System (IPFS), implemented in Rust
-- [wasmtime](https://github.com/bytecodealliance/wasmtime)
-  - Standalone JIT-style runtime for WebAssembly, using Cranelift
-- [nom](https://github.com/Geal/nom)
-  - Rust parser combinator framework
-- [hyper](https://github.com/hyperium/hyper)
-  - An HTTP library for Rust
-- [raft-rs](https://github.com/tikv/raft-rs)
-  - Raft distributed consensus algorithm implemented in Rust.
-- [ncspot](https://github.com/hrkfdn/ncspot)
-  - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
+- [stacks-blockchain](https://github.com/blockstack/stacks-blockchain)
+  - The Stacks 2.0 blockchain implementation
+- [websocat](https://github.com/vi/websocat)
+  - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
+- [lucet](https://github.com/bytecodealliance/lucet)
+  - Lucet, the Sandboxing WebAssembly Compiler.
+- [spotify-tui](https://github.com/Rigellute/spotify-tui)
+  - Spotify for the terminal written in Rust 🚀
+- [rusoto](https://github.com/rusoto/rusoto)
+  - AWS SDK for Rust
+- [spotifyd](https://github.com/Spotifyd/spotifyd)
+  - A spotify daemon
+- [996.ICU](https://github.com/996icu/996.ICU)
+  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [slp-server-rust](https://github.com/spacemeowx2/slp-server-rust)
+  - Switch-lan-play Server written in Rust

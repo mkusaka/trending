@@ -1,51 +1,51 @@
 # c++
-- [tdesktop](https://github.com/telegramdesktop/tdesktop)
-  - Telegram Desktop messaging app
-- [ICUVent](https://github.com/alex3dbros/ICUVent)
-  - A repository made for an opensource hardware and software for ICU Ventilator
-- [Tasmota](https://github.com/arendst/Tasmota)
-  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
-- [cxxopts](https://github.com/jarro2783/cxxopts)
-  - Lightweight C++ command line option parser
-- [electron](https://github.com/electron/electron)
-  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [flatbuffers](https://github.com/google/flatbuffers)
-  - FlatBuffers: Memory Efficient Serialization Library
-- [youtube](https://github.com/Errichto/youtube)
-  - codes for my streams and YT videos
-- [Catch2](https://github.com/catchorg/Catch2)
-  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-- [graph-learn](https://github.com/alibaba/graph-learn)
-  - graph-learn
-- [imgui](https://github.com/ocornut/imgui)
-  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
-- [protobuf](https://github.com/protocolbuffers/protobuf)
-  - Protocol Buffers - Google's data interchange format
-- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
-  - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
-- [spdlog](https://github.com/gabime/spdlog)
-  - Fast C++ logging library.
-- [srs](https://github.com/ossrs/srs)
-  - SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.
-- [mindspore](https://github.com/mindspore-ai/mindspore)
-  - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
-- [Open_Source_Ventilator](https://github.com/CSSALTlab/Open_Source_Ventilator)
-  - Open source for use worldwide and contributions from others worldwide
-- [serenity](https://github.com/SerenityOS/serenity)
-  - The Serenity Operating System 🐞
-- [googletest](https://github.com/google/googletest)
-  - Googletest - Google Testing and Mocking Framework
-- [envoy](https://github.com/envoyproxy/envoy)
-  - Cloud-native high-performance edge/middle/service proxy
-- [Sprout](https://github.com/bolero-MURAKAMI/Sprout)
-  - C++11/14 constexpr based Containers, Algorithms, Random numbers, Parsing, Ray tracing, Synthesizer, and others.
-- [GSL](https://github.com/microsoft/GSL)
-  - Guidelines Support Library
+- [PowerToys](https://github.com/microsoft/PowerToys)
+  - Windows system utilities to maximize productivity
 - [Inspire-OpenLung](https://github.com/Inspire-Poli-USP/Inspire-OpenLung)
   - An another [IN PROGRESS] open source, low cost, low resource, quick deployment ventilator design that utilizes a Ambu-bag as a core component. 'War' against COVID-19
-- [apollo](https://github.com/ApolloAuto/apollo)
-  - An open autonomous driving platform
+- [tensorflow](https://github.com/tensorflow/tensorflow)
+  - An Open Source Machine Learning Framework for Everyone
+- [ICUVent](https://github.com/alex3dbros/ICUVent)
+  - A repository made for an opensource hardware and software for ICU Ventilator
+- [json](https://github.com/nlohmann/json)
+  - JSON for Modern C++
+- [or-tools](https://github.com/google/or-tools)
+  - Google's Operations Research tools:
+- [opencv](https://github.com/opencv/opencv)
+  - Open Source Computer Vision Library
+- [tdesktop](https://github.com/telegramdesktop/tdesktop)
+  - Telegram Desktop messaging app
+- [LightGBM](https://github.com/microsoft/LightGBM)
+  - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
+- [Open_Source_Ventilator](https://github.com/CSSALTlab/Open_Source_Ventilator)
+  - Open source for use worldwide and contributions from others worldwide
+- [websocketpp](https://github.com/zaphoyd/websocketpp)
+  - C++ websocket client/server library
+- [InsectRobotSimulation](https://github.com/neuroprod/InsectRobotSimulation)
+  - 
+- [glow](https://github.com/pytorch/glow)
+  - Compiler for Neural Network hardware accelerators
+- [rapidfuzz](https://github.com/rhasspy/rapidfuzz)
+  - Rapid fuzzy string matching in Python and C++ using the Levenshtein Distance
+- [imgui](https://github.com/ocornut/imgui)
+  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
 - [tesseract](https://github.com/tesseract-ocr/tesseract)
   - Tesseract Open Source OCR Engine (main repository)
-- [xgboost](https://github.com/dmlc/xgboost)
-  - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
+- [Tasmota](https://github.com/arendst/Tasmota)
+  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
+- [cpp-httplib](https://github.com/yhirose/cpp-httplib)
+  - A C++ header-only HTTP/HTTPS server and client library
+- [folly](https://github.com/facebook/folly)
+  - An open-source C++ library developed and used at Facebook.
+- [aseprite](https://github.com/aseprite/aseprite)
+  - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
+- [QtScrcpy](https://github.com/barry-ran/QtScrcpy)
+  - Android real-time display control software
+- [Marlin](https://github.com/MarlinFirmware/Marlin)
+  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
+- [openvslam](https://github.com/xdspacelab/openvslam)
+  - OpenVSLAM: A Versatile Visual SLAM Framework
+- [azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+  - AzerothCore - MMORPG Server. Based on MaNGOS -> TrinityCore -> SunwellCore
+- [onnx-tensorrt](https://github.com/onnx/onnx-tensorrt)
+  - ONNX-TensorRT: TensorRT backend for ONNX
