@@ -1,49 +1,51 @@
 # general
-- [Blog](https://github.com/mqyqingfeng/Blog) : 
-  - 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
-  - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
-- [go-leetcode](https://github.com/austingebauer/go-leetcode) : Go
-  - A collection of 100+ popular LeetCode problems that I've solved in Go.
-- [blog_os](https://github.com/phil-opp/blog_os) : HTML
-  - Writing an OS in Rust
-- [tdesktop](https://github.com/telegramdesktop/tdesktop) : C++
-  - Telegram Desktop messaging app
-- [go-micro](https://github.com/micro/go-micro) : Go
-  - The Go Micro services development framework
-- [react-native](https://github.com/facebook/react-native) : JavaScript
-  - A framework for building native apps with React.
-- [flutter](https://github.com/flutter/flutter) : Dart
-  - Flutter makes it easy and fast to build beautiful mobile apps.
-- [open-coronavirus](https://github.com/open-coronavirus/open-coronavirus) : TypeScript
-  - Open Coronavirus
-- [technology-talk](https://github.com/aalansehaiyang/technology-talk) : 
-  - 汇总java生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识
+- [bbbot](https://github.com/DanielHe4rt/bbbot) : JavaScript
+  - Bot feito para estudos de leitura de imagem
+- [theia](https://github.com/eclipse-theia/theia) : TypeScript
+  - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+- [covid19model](https://github.com/ImperialCollegeLondon/covid19model) : R
+  - Code for modelling estimated deaths and cases for COVID19.
 - [RL-Stock](https://github.com/wangshub/RL-Stock) : Jupyter Notebook
   - 📈 如何用深度强化学习自动炒股
-- [Spoke](https://github.com/Elizabeth-Warren/Spoke) : JavaScript
-- [RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) : Python
-  - Runtime Mobile Security (RMS) is a powerful web interface that helps you to manipulate Android Java Classes and Methods at Runtime
-- [facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) : Objective-C
-  - Used to integrate the Facebook Platform with your iOS & tvOS apps.
-- [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) : Jupyter Notebook
-  - This repository contains the source code for the paper First Order Motion Model for Image Animation
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
+- [covid19-testing](https://github.com/oscarhealth/covid19-testing) : JavaScript
+  - COVID-19 Testing Site Finder with Risk Assessment
+- [flutter](https://github.com/flutter/flutter) : Dart
+  - Flutter makes it easy and fast to build beautiful mobile apps.
+- [go-micro](https://github.com/micro/go-micro) : Go
+  - The Go Micro services development framework
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
   - Roadmap to becoming a web developer in 2020
-- [code_snippets](https://github.com/CoreyMSchafer/code_snippets) : Jupyter Notebook
-- [maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) : Shell
-  - Local ad blocker. Like Pi-hole but local and using your operating system.
+- [blog_os](https://github.com/phil-opp/blog_os) : HTML
+  - Writing an OS in Rust
+- [PowerToys](https://github.com/microsoft/PowerToys) : C++
+  - Windows system utilities to maximize productivity
+- [flutter-samples](https://github.com/diegoveloper/flutter-samples) : Dart
+  - Flutter Samples
+- [JCSprout](https://github.com/crossoverJie/JCSprout) : Java
+  - 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm
+- [CVE-2020-0796](https://github.com/danigargu/CVE-2020-0796) : C
+  - CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost
+- [go-leetcode](https://github.com/austingebauer/go-leetcode) : Go
+  - A collection of 100+ popular LeetCode problems that I've solved in Go.
+- [Inspire-OpenLung](https://github.com/Inspire-Poli-USP/Inspire-OpenLung) : C++
+  - An another [IN PROGRESS] open source, low cost, low resource, quick deployment ventilator design that utilizes a Ambu-bag as a core component. 'War' against COVID-19
+- [tensorflow](https://github.com/tensorflow/tensorflow) : C++
+  - An Open Source Machine Learning Framework for Everyone
+- [Blog](https://github.com/mqyqingfeng/Blog) : 
+  - 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
+- [seata](https://github.com/seata/seata) : Java
+  - 🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution.
+- [SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue) : Java
+  - 提供一套基于Spring Boot-Shiro-Vue的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限
+- [OnJava8](https://github.com/LingCoder/OnJava8) : 
+  - 《On Java 8》中文版，又名《Java编程思想》 第5版
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
   - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) : JavaScript
-  - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [turkish-microservice-architecture-book](https://github.com/suadev/turkish-microservice-architecture-book) : 
-  - Open Source Turkish Microservices eBook. Feel free to contribute.
-- [aws-cdk](https://github.com/aws/aws-cdk) : TypeScript
-  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
-- [ICUVent](https://github.com/alex3dbros/ICUVent) : C++
-  - A repository made for an opensource hardware and software for ICU Ventilator
-- [covidtrends](https://github.com/aatishb/covidtrends) : JavaScript
-  - Tracking the growth of COVID-19 Cases woldwide
-- [frontend](https://github.com/home-assistant/frontend) : TypeScript
-  - 🍭 Frontend for Home Assistant
+- [RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) : Python
+  - Runtime Mobile Security (RMS) is a powerful web interface that helps you to manipulate Android Java Classes and Methods at Runtime
+- [torchlayers](https://github.com/szymonmaszke/torchlayers) : Python
+  - Shape inference for PyTorch (like in Keras) + new SoTA layers!
+- [prisma-examples](https://github.com/prisma/prisma-examples) : TypeScript
+  - ◭ Examples of Prisma using different languages and technologies

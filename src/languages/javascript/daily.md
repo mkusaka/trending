@@ -1,51 +1,51 @@
 # javascript
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [Spoke](https://github.com/Elizabeth-Warren/Spoke)
-  - 
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
-  - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [covidtrends](https://github.com/aatishb/covidtrends)
-  - Tracking the growth of COVID-19 Cases woldwide
-- [react-ultimate-resume](https://github.com/welovedevs/react-ultimate-resume)
-  - 💼 🎨 A modern software developer resume built with React and JSONResume
-- [awx](https://github.com/ansible/awx)
-  - AWX Project
-- [svelte](https://github.com/sveltejs/svelte)
-  - Cybernetically enhanced web apps
-- [slate](https://github.com/ianstormtaylor/slate)
-  - A completely customizable framework for building rich text editors. (Currently in beta.)
-- [socket.io](https://github.com/socketio/socket.io)
-  - Realtime application framework (Node.JS server)
-- [swiper](https://github.com/nolimits4web/swiper)
-  - Most modern mobile touch slider with hardware accelerated transitions
-- [create-react-app](https://github.com/facebook/create-react-app)
-  - Set up a modern web app by running one command.
 - [bbbot](https://github.com/DanielHe4rt/bbbot)
   - Bot feito para estudos de leitura de imagem
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui)
-  - ⚡️Simple, Modular & Accessible UI Components for your React Applications
-- [google-meet-grid-view](https://github.com/Fugiman/google-meet-grid-view)
-  - Userscript to offer a grid-view layout in Google Meets
+- [covid19-testing](https://github.com/oscarhealth/covid19-testing)
+  - COVID-19 Testing Site Finder with Risk Assessment
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [bookshelf](https://github.com/kentcdodds/bookshelf)
+  - Build a ReactJS App workshop
+- [fabric.js](https://github.com/fabricjs/fabric.js)
+  - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
+- [google-meet-grid-view-extension](https://github.com/stgeorgesepiscopal/google-meet-grid-view-extension)
+  - Google Meet Grid View Extension
+- [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+  - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [bbbot](https://github.com/diofeher/bbbot)
   - Bot pra votar no Big Brother
-- [vue-design](https://github.com/HcySunYang/vue-design)
-  - 📖 master分支：《渲染器》 elegant分支：逐行级别的源码分析
-- [gun](https://github.com/amark/gun)
-  - A realtime, decentralized, offline-first, graph protocol to sync the web.
-- [plugins](https://github.com/rollup/plugins)
-  - 🍣 The one-stop shop for official Rollup plugins
-- [pollaris](https://github.com/Elizabeth-Warren/pollaris)
-  - Polling Locator
-- [api-platform](https://github.com/api-platform/api-platform)
-  - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [cube.js](https://github.com/cube-js/cube.js)
+  - 📊 Cube.js - Open Source Analytics Framework
+- [lodash](https://github.com/lodash/lodash)
+  - A modern JavaScript utility library delivering modularity, performance, & extras.
+- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
+  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [Leaflet](https://github.com/Leaflet/Leaflet)
+  - 🍃 JavaScript library for mobile-friendly interactive maps
+- [nx](https://github.com/nrwl/nx)
+  - Extensible Dev Tools for Monorepos
+- [google-meet-grid-view](https://github.com/Fugiman/google-meet-grid-view)
+  - Userscript to offer a grid-view layout in Google Meets
+- [covid-19](https://github.com/trekhleb/covid-19)
+  - 📈 Coronavirus (COVID-19) dashboard to show the dynamics of Сoronovirus distribution per country
+- [covidtrends](https://github.com/aatishb/covidtrends)
+  - Tracking the growth of COVID-19 Cases woldwide
+- [react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc)
+  - A set of higher-order components to turn any list into an animated, accessible and touch-friendly sortable list✌️
 - [node](https://github.com/nodejs/node)
   - Node.js JavaScript runtime ✨🐢🚀✨
-- [HappyIslandDesigner](https://github.com/eugeneration/HappyIslandDesigner)
+- [Spoke](https://github.com/Elizabeth-Warren/Spoke)
   - 
-- [Inputmask](https://github.com/RobinHerbots/Inputmask)
-  - Input Mask plugin
+- [grapesjs](https://github.com/artf/grapesjs)
+  - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
+- [be-the-hero](https://github.com/fl4m3x/be-the-hero)
+  - Projeto da Semana Omnistack 11.0 com o nome e Be The Hero 🦸‍♂️
+- [leetcode](https://github.com/azl397985856/leetcode)
+  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+- [esercizi-di-programmazione-javascript](https://github.com/AlbertoOlla/esercizi-di-programmazione-javascript)
+  - Esercizi di informatica! Impara a programmare, metti alla prova!
+- [covid-tracking-api](https://github.com/COVID19Tracking/covid-tracking-api)
+  - COVID-19 Rest & GraphQL API for US data, using Cloudflare Workers
