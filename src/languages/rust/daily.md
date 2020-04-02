@@ -1,51 +1,51 @@
 # rust
-- [sqlx](https://github.com/launchbadge/sqlx)
-  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [tikv](https://github.com/tikv/tikv)
-  - Distributed transactional key-value database, originally created to complement TiDB
 - [nushell](https://github.com/nushell/nushell)
   - A modern shell written in Rust
-- [vector](https://github.com/timberio/vector)
-  - A lightweight and ultra-fast tool for building observability pipelines
-- [zola](https://github.com/getzola/zola)
-  - A fast static site generator in a single binary with everything built-in.
-- [kondo](https://github.com/tbillington/kondo)
-  - Save disk space by cleaning unneeded files from software projects.
-- [talent-plan](https://github.com/pingcap/talent-plan)
-  - PingCAP training courses
-- [Rocket](https://github.com/SergioBenitez/Rocket)
-  - A web framework for Rust.
-- [servo](https://github.com/servo/servo)
-  - The Servo Browser Engine
-- [book](https://github.com/rust-lang/book)
-  - The Rust Programming Language
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
-- [ggez](https://github.com/ggez/ggez)
-  - Rust library to create a Good Game Easily
-- [zz](https://github.com/aep/zz)
-  - 🍺🐙 ZetZ a zymbolic verifier and tranzpiler to bare metal C
-- [tokenizers](https://github.com/huggingface/tokenizers)
-  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [tock](https://github.com/tock/tock)
+  - A secure embedded operating system for microcontrollers
+- [rustlings](https://github.com/fmoko/rustlings)
+  - 🦀 Small exercises to get you used to reading and writing Rust code!
+- [rust-clippy](https://github.com/rust-lang/rust-clippy)
+  - A bunch of lints to catch common mistakes and improve your Rust code
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
 - [stacks-blockchain](https://github.com/blockstack/stacks-blockchain)
   - The Stacks 2.0 blockchain implementation
-- [websocat](https://github.com/vi/websocat)
-  - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
+- [xcnotary](https://github.com/akeru-inc/xcnotary)
+  - the missing macOS app notarization helper, built with Rust
+- [zz](https://github.com/zetzit/zz)
+  - 🍺🐙 ZetZ a zymbolic verifier and tranzpiler to bare metal C
+- [noria](https://github.com/mit-pdos/noria)
+  - Dynamically changing, partially-stateful data-flow for web application backends.
+- [vector](https://github.com/timberio/vector)
+  - A lightweight and ultra-fast tool for building observability pipelines
+- [kondo](https://github.com/tbillington/kondo)
+  - Save disk space by cleaning unneeded files from software projects.
+- [examples](https://github.com/actix/examples)
+  - Actix web examples
+- [starship](https://github.com/starship/starship)
+  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [book](https://github.com/rust-lang/book)
+  - The Rust Programming Language
+- [tonic](https://github.com/hyperium/tonic)
+  - A native gRPC client & server implementation with async/await support.
 - [substrate](https://github.com/paritytech/substrate)
   - Substrate: The platform for blockchain innovators
-- [lucet](https://github.com/bytecodealliance/lucet)
-  - Lucet, the Sandboxing WebAssembly Compiler.
-- [spotify-tui](https://github.com/Rigellute/spotify-tui)
-  - Spotify for the terminal written in Rust 🚀
+- [juniper](https://github.com/graphql-rust/juniper)
+  - GraphQL server library for Rust
+- [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
+  - The Mullvad VPN client app for desktop and mobile
+- [zola](https://github.com/getzola/zola)
+  - A fast static site generator in a single binary with everything built-in.
+- [sqlx](https://github.com/launchbadge/sqlx)
+  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+- [bottlerocket](https://github.com/bottlerocket-os/bottlerocket)
+  - An operating system designed for hosting containers
+- [websocat](https://github.com/vi/websocat)
+  - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [rusoto](https://github.com/rusoto/rusoto)
   - AWS SDK for Rust
-- [spotifyd](https://github.com/Spotifyd/spotifyd)
-  - A spotify daemon
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [slp-server-rust](https://github.com/spacemeowx2/slp-server-rust)
-  - Switch-lan-play Server written in Rust
+- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
+  - Facilitating high-level interactions between Wasm modules and JavaScript

@@ -1,51 +1,51 @@
 # c++
 - [PowerToys](https://github.com/microsoft/PowerToys)
   - Windows system utilities to maximize productivity
+- [graph-learn](https://github.com/alibaba/graph-learn)
+  - graph-learn
 - [Inspire-OpenLung](https://github.com/Inspire-Poli-USP/Inspire-OpenLung)
   - An another [IN PROGRESS] open source, low cost, low resource, quick deployment ventilator design that utilizes a Ambu-bag as a core component. 'War' against COVID-19
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [ICUVent](https://github.com/alex3dbros/ICUVent)
-  - A repository made for an opensource hardware and software for ICU Ventilator
-- [json](https://github.com/nlohmann/json)
-  - JSON for Modern C++
-- [or-tools](https://github.com/google/or-tools)
-  - Google's Operations Research tools:
-- [opencv](https://github.com/opencv/opencv)
-  - Open Source Computer Vision Library
-- [tdesktop](https://github.com/telegramdesktop/tdesktop)
-  - Telegram Desktop messaging app
-- [LightGBM](https://github.com/microsoft/LightGBM)
-  - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
-- [Open_Source_Ventilator](https://github.com/CSSALTlab/Open_Source_Ventilator)
-  - Open source for use worldwide and contributions from others worldwide
-- [websocketpp](https://github.com/zaphoyd/websocketpp)
-  - C++ websocket client/server library
-- [InsectRobotSimulation](https://github.com/neuroprod/InsectRobotSimulation)
-  - 
-- [glow](https://github.com/pytorch/glow)
-  - Compiler for Neural Network hardware accelerators
-- [rapidfuzz](https://github.com/rhasspy/rapidfuzz)
-  - Rapid fuzzy string matching in Python and C++ using the Levenshtein Distance
-- [imgui](https://github.com/ocornut/imgui)
-  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
-- [tesseract](https://github.com/tesseract-ocr/tesseract)
-  - Tesseract Open Source OCR Engine (main repository)
-- [Tasmota](https://github.com/arendst/Tasmota)
-  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
+- [v8](https://github.com/v8/v8)
+  - The official mirror of the V8 Git repository
+- [googletest](https://github.com/google/googletest)
+  - Googletest - Google Testing and Mocking Framework
+- [youtube](https://github.com/Errichto/youtube)
+  - codes for my streams and YT videos
 - [cpp-httplib](https://github.com/yhirose/cpp-httplib)
   - A C++ header-only HTTP/HTTPS server and client library
+- [libzmq](https://github.com/zeromq/libzmq)
+  - ZeroMQ core engine in C++, implements ZMTP/3.1
+- [SeetaFace6](https://github.com/seetafaceengine/SeetaFace6)
+  - SeetaFace 6: Newest open and free, full stack face recognization toolkit.
 - [folly](https://github.com/facebook/folly)
   - An open-source C++ library developed and used at Facebook.
-- [aseprite](https://github.com/aseprite/aseprite)
-  - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
+- [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2)
+  - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
+- [simdjson](https://github.com/simdjson/simdjson)
+  - Parsing gigabytes of JSON per second
+- [pytorch](https://github.com/pytorch/pytorch)
+  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [tensorflow](https://github.com/tensorflow/tensorflow)
+  - An Open Source Machine Learning Framework for Everyone
+- [glog](https://github.com/google/glog)
+  - C++ implementation of the Google logging module
+- [benchmark](https://github.com/google/benchmark)
+  - A microbenchmark support library
+- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+  - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+- [pybind11](https://github.com/pybind/pybind11)
+  - Seamless operability between C++11 and Python
+- [serenity](https://github.com/SerenityOS/serenity)
+  - The Serenity Operating System 🐞
+- [Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+  - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
+- [rapidjson](https://github.com/Tencent/rapidjson)
+  - A fast JSON parser/generator for C++ with both SAX/DOM style API
+- [bitcoin](https://github.com/bitcoin/bitcoin)
+  - Bitcoin Core integration/staging tree
 - [QtScrcpy](https://github.com/barry-ran/QtScrcpy)
   - Android real-time display control software
-- [Marlin](https://github.com/MarlinFirmware/Marlin)
-  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
-- [openvslam](https://github.com/xdspacelab/openvslam)
-  - OpenVSLAM: A Versatile Visual SLAM Framework
-- [azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-  - AzerothCore - MMORPG Server. Based on MaNGOS -> TrinityCore -> SunwellCore
-- [onnx-tensorrt](https://github.com/onnx/onnx-tensorrt)
-  - ONNX-TensorRT: TensorRT backend for ONNX
+- [eos](https://github.com/EOSIO/eos)
+  - An open source smart contract platform
+- [GSL](https://github.com/microsoft/GSL)
+  - Guidelines Support Library

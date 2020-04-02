@@ -1,51 +1,51 @@
 # general
-- [bbbot](https://github.com/DanielHe4rt/bbbot) : JavaScript
-  - Bot feito para estudos de leitura de imagem
-- [theia](https://github.com/eclipse-theia/theia) : TypeScript
-  - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+- [vim_cubed](https://github.com/oakes/vim_cubed) : Nim
+  - Vim rendered on a cube for no reason
 - [covid19model](https://github.com/ImperialCollegeLondon/covid19model) : R
   - Code for modelling estimated deaths and cases for COVID19.
+- [gorkiy](https://github.com/iTaysonLab/gorkiy) : Java
+  - JaDX decompile of com.askgps.personaltrackercore (Moscow COVID-19 person tracker). Note that I'm NOT related to the development of this app.
+- [theia](https://github.com/eclipse-theia/theia) : TypeScript
+  - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+- [tianshou](https://github.com/thu-ml/tianshou) : Python
+  - An elegant, flexible, and superfast PyTorch deep Reinforcement Learning platform.
+- [covid19-testing](https://github.com/oscarhealth/covid19-testing) : JavaScript
+  - COVID-19 Testing Site Finder with Risk Assessment
+- [rofi](https://github.com/adi1090x/rofi) : Shell
+  - Rofi Based Custom Applets And Menus.
+- [google-meet-grid-view-extension](https://github.com/stgeorgesepiscopal/google-meet-grid-view-extension) : JavaScript
+  - Google Meet Grid View Extension
+- [concurrent](https://github.com/RedSpider1/concurrent) : CSS
+  - 这是RedSpider社区成员原创与维护的Java多线程系列文章。
+- [raylib](https://github.com/raysan5/raylib) : C
+  - A simple and easy-to-use library to enjoy videogames programming
 - [RL-Stock](https://github.com/wangshub/RL-Stock) : Jupyter Notebook
   - 📈 如何用深度强化学习自动炒股
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
   - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
-- [covid19-testing](https://github.com/oscarhealth/covid19-testing) : JavaScript
-  - COVID-19 Testing Site Finder with Risk Assessment
-- [flutter](https://github.com/flutter/flutter) : Dart
-  - Flutter makes it easy and fast to build beautiful mobile apps.
-- [go-micro](https://github.com/micro/go-micro) : Go
-  - The Go Micro services development framework
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
-  - Roadmap to becoming a web developer in 2020
-- [blog_os](https://github.com/phil-opp/blog_os) : HTML
-  - Writing an OS in Rust
+- [excalidraw](https://github.com/excalidraw/excalidraw) : TypeScript
+  - Virtual whiteboard for sketching hand-drawn like diagrams
+- [7days-golang](https://github.com/geektutu/7days-golang) : Go
+  - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc) 7天用Go动手写/从零实现系列
+- [Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) : 
+  - Xiaomi Mobile Phone Kernel OpenSource
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
+  - 🤓 Build your own (insert technology here)
+- [covid19india-react](https://github.com/covid19india/covid19india-react) : JavaScript
+  - 📊 Source code of the main website
 - [PowerToys](https://github.com/microsoft/PowerToys) : C++
   - Windows system utilities to maximize productivity
-- [flutter-samples](https://github.com/diegoveloper/flutter-samples) : Dart
-  - Flutter Samples
-- [JCSprout](https://github.com/crossoverJie/JCSprout) : Java
-  - 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm
-- [CVE-2020-0796](https://github.com/danigargu/CVE-2020-0796) : C
-  - CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost
-- [go-leetcode](https://github.com/austingebauer/go-leetcode) : Go
-  - A collection of 100+ popular LeetCode problems that I've solved in Go.
-- [Inspire-OpenLung](https://github.com/Inspire-Poli-USP/Inspire-OpenLung) : C++
-  - An another [IN PROGRESS] open source, low cost, low resource, quick deployment ventilator design that utilizes a Ambu-bag as a core component. 'War' against COVID-19
-- [tensorflow](https://github.com/tensorflow/tensorflow) : C++
-  - An Open Source Machine Learning Framework for Everyone
-- [Blog](https://github.com/mqyqingfeng/Blog) : 
-  - 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
-- [seata](https://github.com/seata/seata) : Java
-  - 🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution.
-- [SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue) : Java
-  - 提供一套基于Spring Boot-Shiro-Vue的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限
-- [OnJava8](https://github.com/LingCoder/OnJava8) : 
-  - 《On Java 8》中文版，又名《Java编程思想》 第5版
+- [public-apis](https://github.com/public-apis/public-apis) : Python
+  - A collective list of free APIs for use in software and web development.
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
+  - Roadmap to becoming a web developer in 2020
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
+  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [CurveFit](https://github.com/ihmeuw-msca/CurveFit) : Python
+  - Generic curve fitting package with nonlinear mixed effects model
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
   - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) : Python
-  - Runtime Mobile Security (RMS) is a powerful web interface that helps you to manipulate Android Java Classes and Methods at Runtime
-- [torchlayers](https://github.com/szymonmaszke/torchlayers) : Python
-  - Shape inference for PyTorch (like in Keras) + new SoTA layers!
-- [prisma-examples](https://github.com/prisma/prisma-examples) : TypeScript
-  - ◭ Examples of Prisma using different languages and technologies
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
+  - 📚 Freely available programming books
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) : 
+  - Master the command line, in one page

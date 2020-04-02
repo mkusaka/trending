@@ -1,51 +1,51 @@
 # ruby
-- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
-  - The Cocoa Dependency Manager.
-- [greenlight](https://github.com/bigbluebutton/greenlight)
-  - A really simple end-user interface for your BigBlueButton server.
-- [dev.to](https://github.com/thepracticaldev/dev.to)
-  - Where programmers share ideas and help each other grow
-- [chef](https://github.com/chef/chef)
-  - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
-- [videos-pt.br-tecnologia](https://github.com/carolcodes/videos-pt.br-tecnologia)
-  - Repositório de canais no Youtube BR sobre desenvolvimento
-- [rails](https://github.com/rails/rails)
-  - Ruby on Rails
-- [rswag](https://github.com/rswag/rswag)
-  - Seamlessly adds a Swagger to Rails-based API's
-- [dependabot-core](https://github.com/dependabot/dependabot-core)
-  - 🤖The core logic behind Dependabot's update PR creation
-- [devise](https://github.com/heartcombo/devise)
-  - Flexible authentication solution for Rails with Warden.
-- [aws-sdk-ruby](https://github.com/aws/aws-sdk-ruby)
-  - The official AWS SDK for Ruby.
-- [fluentd](https://github.com/fluent/fluentd)
-  - Fluentd: Unified Logging Layer (project under CNCF)
-- [fluentd-kubernetes-daemonset](https://github.com/fluent/fluentd-kubernetes-daemonset)
-  - Fluentd daemonset for Kubernetes and it Docker image
-- [sidekiq](https://github.com/mperham/sidekiq)
-  - Simple, efficient background processing for Ruby
-- [spree](https://github.com/spree/spree)
-  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
-- [authlogic](https://github.com/binarylogic/authlogic)
-  - A simple ruby authentication solution.
-- [sinatra](https://github.com/sinatra/sinatra)
-  - Classy web-development dressed in a DSL (official / canonical repo)
-- [doorkeeper](https://github.com/doorkeeper-gem/doorkeeper)
-  - Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.
+- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
+  - Ruby implementation of GraphQL
 - [rubocop](https://github.com/rubocop-hq/rubocop)
   - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [canvas-lms](https://github.com/instructure/canvas-lms)
-  - The open LMS by Instructure, Inc.
-- [simplecov](https://github.com/colszowka/simplecov)
-  - Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites
-- [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch)
-  - Ansible playbook for Elasticsearch
-- [capistrano](https://github.com/capistrano/capistrano)
-  - Remote multi-server automation tool
-- [jbuilder](https://github.com/rails/jbuilder)
-  - Jbuilder: generate JSON objects with a Builder-style DSL
-- [discourse](https://github.com/discourse/discourse)
-  - A platform for community discussion. Free, open, simple.
-- [scalelite](https://github.com/blindsidenetworks/scalelite)
-  - Scalable load balancer for BigBlueButton.
+- [rails](https://github.com/rails/rails)
+  - Ruby on Rails
+- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
+  - The Cocoa Dependency Manager.
+- [devise](https://github.com/heartcombo/devise)
+  - Flexible authentication solution for Rails with Warden.
+- [pundit](https://github.com/varvet/pundit)
+  - Minimal authorization through OO design and pure Ruby classes
+- [brew](https://github.com/Homebrew/brew)
+  - 🍺 The missing package manager for macOS (or Linux)
+- [greenlight](https://github.com/bigbluebutton/greenlight)
+  - A really simple end-user interface for your BigBlueButton server.
+- [evil-winrm](https://github.com/Hackplayers/evil-winrm)
+  - The ultimate WinRM shell for hacking/pentesting
+- [dotenv](https://github.com/bkeepers/dotenv)
+  - A Ruby gem to load environment variables from `.env`.
+- [sidekiq](https://github.com/mperham/sidekiq)
+  - Simple, efficient background processing for Ruby
+- [vagrant](https://github.com/hashicorp/vagrant)
+  - Vagrant is a tool for building and distributing development environments.
+- [faker](https://github.com/faker-ruby/faker)
+  - A library for generating fake data such as names, addresses, and phone numbers.
+- [inspec](https://github.com/inspec/inspec)
+  - InSpec: Auditing and Testing Framework
+- [ruby](https://github.com/ruby/ruby)
+  - The Ruby Programming Language [mirror]
+- [raven-ruby](https://github.com/getsentry/raven-ruby)
+  - Raven is a Ruby client for Sentry
+- [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails)
+  - Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
+- [remote-working](https://github.com/greatghoul/remote-working)
+  - 收集整理远程工作相关的资料
+- [active_model_serializers](https://github.com/rails-api/active_model_serializers)
+  - ActiveModel::Serializer implementation and Rails hooks
+- [decidim](https://github.com/decidim/decidim)
+  - The participatory democracy framework. A generator and multiple gems made with Ruby on Rails
+- [rack](https://github.com/rack/rack)
+  - a modular Ruby webserver interface
+- [rails_admin](https://github.com/sferik/rails_admin)
+  - RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data
+- [prawn](https://github.com/prawnpdf/prawn)
+  - Fast, Nimble PDF Writer for Ruby
+- [openproject](https://github.com/opf/openproject)
+  - OpenProject is the leading open source project management software.
+- [ransack](https://github.com/activerecord-hackery/ransack)
+  - Object-based searching.
