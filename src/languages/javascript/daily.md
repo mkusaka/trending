@@ -1,51 +1,51 @@
 # javascript
-- [bbbot](https://github.com/DanielHe4rt/bbbot)
-  - Bot feito para estudos de leitura de imagem
 - [covid19-testing](https://github.com/oscarhealth/covid19-testing)
   - COVID-19 Testing Site Finder with Risk Assessment
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [bookshelf](https://github.com/kentcdodds/bookshelf)
-  - Build a ReactJS App workshop
-- [fabric.js](https://github.com/fabricjs/fabric.js)
-  - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 - [google-meet-grid-view-extension](https://github.com/stgeorgesepiscopal/google-meet-grid-view-extension)
   - Google Meet Grid View Extension
-- [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
-  - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [bbbot](https://github.com/diofeher/bbbot)
-  - Bot pra votar no Big Brother
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [cube.js](https://github.com/cube-js/cube.js)
-  - 📊 Cube.js - Open Source Analytics Framework
-- [lodash](https://github.com/lodash/lodash)
-  - A modern JavaScript utility library delivering modularity, performance, & extras.
+- [covid19india-react](https://github.com/covid19india/covid19india-react)
+  - 📊 Source code of the main website
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [jitsi-meet](https://github.com/jitsi/jitsi-meet)
   - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [Leaflet](https://github.com/Leaflet/Leaflet)
-  - 🍃 JavaScript library for mobile-friendly interactive maps
-- [nx](https://github.com/nrwl/nx)
-  - Extensible Dev Tools for Monorepos
+- [cube.js](https://github.com/cube-js/cube.js)
+  - 📊 Cube.js - Open Source Analytics Framework
+- [fabric.js](https://github.com/fabricjs/fabric.js)
+  - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
+- [bootstrap](https://github.com/twbs/bootstrap)
+  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [carbon](https://github.com/carbon-design-system/carbon)
+  - A design system built by IBM
+- [docusaurus](https://github.com/facebook/docusaurus)
+  - Easy to maintain open source documentation websites.
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+  - freeCodeCamp.org's open source codebase and curriculum. Learn to code for free together with millions of people.
+- [covid-3d](https://github.com/sorxrob/covid-3d)
+  - 🌏 An interactive 3D visualization of COVID-19.
+- [covid19-tracker-cli](https://github.com/WarenGonzaga/covid19-tracker-cli)
+  - A curl-based command line tracker for Novel Coronavirus or COVID-19 pandemic. It Supports terminal for linux and macos, command prompt for windows, and termux for android with real-time updates. curl -L covid19.trackercli.com
+- [awx](https://github.com/ansible/awx)
+  - AWX Project
+- [wappalyzer](https://github.com/AliasIO/wappalyzer)
+  - Cross-platform utility that uncovers the technologies used on websites.
+- [cypress-example-recipes](https://github.com/cypress-io/cypress-example-recipes)
+  - Various recipes for testing common scenarios with Cypress
 - [google-meet-grid-view](https://github.com/Fugiman/google-meet-grid-view)
   - Userscript to offer a grid-view layout in Google Meets
-- [covid-19](https://github.com/trekhleb/covid-19)
-  - 📈 Coronavirus (COVID-19) dashboard to show the dynamics of Сoronovirus distribution per country
-- [covidtrends](https://github.com/aatishb/covidtrends)
-  - Tracking the growth of COVID-19 Cases woldwide
-- [react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc)
-  - A set of higher-order components to turn any list into an animated, accessible and touch-friendly sortable list✌️
-- [node](https://github.com/nodejs/node)
-  - Node.js JavaScript runtime ✨🐢🚀✨
-- [Spoke](https://github.com/Elizabeth-Warren/Spoke)
-  - 
-- [grapesjs](https://github.com/artf/grapesjs)
-  - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
-- [be-the-hero](https://github.com/fl4m3x/be-the-hero)
-  - Projeto da Semana Omnistack 11.0 com o nome e Be The Hero 🦸‍♂️
-- [leetcode](https://github.com/azl397985856/leetcode)
-  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
-- [esercizi-di-programmazione-javascript](https://github.com/AlbertoOlla/esercizi-di-programmazione-javascript)
-  - Esercizi di informatica! Impara a programmare, metti alla prova!
-- [covid-tracking-api](https://github.com/COVID19Tracking/covid-tracking-api)
-  - COVID-19 Rest & GraphQL API for US data, using Cloudflare Workers
+- [renovate](https://github.com/renovatebot/renovate)
+  - Universal dependency update tool that fits into your workflows.
+- [avalon](https://github.com/RubyLouvre/avalon)
+  - an elegant efficient express mvvm framework
+- [tui.image-editor](https://github.com/nhn/tui.image-editor)
+  - 🍞🎨 Full-featured photo image editor using canvas. It is really easy, and it comes with great filters.
+- [next.js](https://github.com/zeit/next.js)
+  - The React Framework
+- [electron-builder](https://github.com/electron-userland/electron-builder)
+  - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+  - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
