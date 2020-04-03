@@ -1,51 +1,51 @@
 # c++
 - [PowerToys](https://github.com/microsoft/PowerToys)
   - Windows system utilities to maximize productivity
-- [graph-learn](https://github.com/alibaba/graph-learn)
-  - graph-learn
+- [AmboVent](https://github.com/AmboVent/AmboVent)
+  - AmboVent 1690.108
+- [win32k-bugs](https://github.com/gdabah/win32k-bugs)
+  - Dump of win32k POCs for bugs I've found
+- [SteamCAD](https://github.com/oskardolch/SteamCAD)
+  - 2D CAD especially designed to draw steam locomotives
 - [Inspire-OpenLung](https://github.com/Inspire-Poli-USP/Inspire-OpenLung)
   - An another [IN PROGRESS] open source, low cost, low resource, quick deployment ventilator design that utilizes a Ambu-bag as a core component. 'War' against COVID-19
-- [v8](https://github.com/v8/v8)
-  - The official mirror of the V8 Git repository
-- [googletest](https://github.com/google/googletest)
-  - Googletest - Google Testing and Mocking Framework
-- [youtube](https://github.com/Errichto/youtube)
-  - codes for my streams and YT videos
-- [cpp-httplib](https://github.com/yhirose/cpp-httplib)
-  - A C++ header-only HTTP/HTTPS server and client library
-- [libzmq](https://github.com/zeromq/libzmq)
-  - ZeroMQ core engine in C++, implements ZMTP/3.1
-- [SeetaFace6](https://github.com/seetafaceengine/SeetaFace6)
-  - SeetaFace 6: Newest open and free, full stack face recognization toolkit.
-- [folly](https://github.com/facebook/folly)
-  - An open-source C++ library developed and used at Facebook.
-- [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2)
-  - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
+- [AirSim](https://github.com/microsoft/AirSim)
+  - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
+- [emscripten](https://github.com/emscripten-core/emscripten)
+  - Emscripten: An LLVM-to-Web Compiler
+- [grpc](https://github.com/grpc/grpc)
+  - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [simdjson](https://github.com/simdjson/simdjson)
   - Parsing gigabytes of JSON per second
-- [pytorch](https://github.com/pytorch/pytorch)
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [glog](https://github.com/google/glog)
-  - C++ implementation of the Google logging module
-- [benchmark](https://github.com/google/benchmark)
-  - A microbenchmark support library
-- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
-  - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
-- [pybind11](https://github.com/pybind/pybind11)
-  - Seamless operability between C++11 and Python
-- [serenity](https://github.com/SerenityOS/serenity)
-  - The Serenity Operating System 🐞
-- [Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-  - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
+- [Firmware](https://github.com/PX4/Firmware)
+  - PX4 Autopilot Software
+- [SeetaFace6](https://github.com/seetafaceengine/SeetaFace6)
+  - SeetaFace 6: Newest open and free, full stack face recognization toolkit.
+- [spdlog](https://github.com/gabime/spdlog)
+  - Fast C++ logging library.
+- [youtube](https://github.com/Errichto/youtube)
+  - codes for my streams and YT videos
+- [openventilator](https://github.com/popsolutions/openventilator)
+  - OpenSource Ventilator for the COVID-19 crisis. We aim to provide a cheap and reliable solution for respiratory deseas and inaccesibility to this kind of ventilation medical equipment
+- [InsectRobotSimulation](https://github.com/neuroprod/InsectRobotSimulation)
+  - 
+- [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail)
+  - Sourcetrail - free and open-source interactive source explorer
+- [snappy](https://github.com/google/snappy)
+  - A fast compressor/decompressor
+- [vnpy](https://github.com/vnpy/vnpy)
+  - 基于Python的开源量化交易平台开发框架
+- [react-native-windows](https://github.com/microsoft/react-native-windows)
+  - A framework for building native Windows apps with React.
+- [TRTCSDK](https://github.com/tencentyun/TRTCSDK)
+  - 腾讯云TRTC音视频服务，国内下载镜像：
+- [protobuf](https://github.com/protocolbuffers/protobuf)
+  - Protocol Buffers - Google's data interchange format
 - [rapidjson](https://github.com/Tencent/rapidjson)
   - A fast JSON parser/generator for C++ with both SAX/DOM style API
-- [bitcoin](https://github.com/bitcoin/bitcoin)
-  - Bitcoin Core integration/staging tree
-- [QtScrcpy](https://github.com/barry-ran/QtScrcpy)
-  - Android real-time display control software
-- [eos](https://github.com/EOSIO/eos)
-  - An open source smart contract platform
-- [GSL](https://github.com/microsoft/GSL)
-  - Guidelines Support Library
+- [graph-learn](https://github.com/alibaba/graph-learn)
+  - graph-learn
+- [tensorflow](https://github.com/tensorflow/tensorflow)
+  - An Open Source Machine Learning Framework for Everyone
+- [milvus](https://github.com/milvus-io/milvus)
+  - An open source vector similarity search engine
