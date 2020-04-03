@@ -1,51 +1,49 @@
 # general
-- [vim_cubed](https://github.com/oakes/vim_cubed) : Nim
-  - Vim rendered on a cube for no reason
-- [covid19model](https://github.com/ImperialCollegeLondon/covid19model) : R
-  - Code for modelling estimated deaths and cases for COVID19.
-- [gorkiy](https://github.com/iTaysonLab/gorkiy) : Java
-  - JaDX decompile of com.askgps.personaltrackercore (Moscow COVID-19 person tracker). Note that I'm NOT related to the development of this app.
-- [theia](https://github.com/eclipse-theia/theia) : TypeScript
-  - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [tianshou](https://github.com/thu-ml/tianshou) : Python
-  - An elegant, flexible, and superfast PyTorch deep Reinforcement Learning platform.
-- [covid19-testing](https://github.com/oscarhealth/covid19-testing) : JavaScript
-  - COVID-19 Testing Site Finder with Risk Assessment
-- [rofi](https://github.com/adi1090x/rofi) : Shell
-  - Rofi Based Custom Applets And Menus.
-- [google-meet-grid-view-extension](https://github.com/stgeorgesepiscopal/google-meet-grid-view-extension) : JavaScript
-  - Google Meet Grid View Extension
-- [concurrent](https://github.com/RedSpider1/concurrent) : CSS
-  - 这是RedSpider社区成员原创与维护的Java多线程系列文章。
-- [raylib](https://github.com/raysan5/raylib) : C
-  - A simple and easy-to-use library to enjoy videogames programming
-- [RL-Stock](https://github.com/wangshub/RL-Stock) : Jupyter Notebook
-  - 📈 如何用深度强化学习自动炒股
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
-  - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
-- [excalidraw](https://github.com/excalidraw/excalidraw) : TypeScript
-  - Virtual whiteboard for sketching hand-drawn like diagrams
-- [7days-golang](https://github.com/geektutu/7days-golang) : Go
-  - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc) 7天用Go动手写/从零实现系列
-- [Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) : 
-  - Xiaomi Mobile Phone Kernel OpenSource
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
-  - 🤓 Build your own (insert technology here)
-- [covid19india-react](https://github.com/covid19india/covid19india-react) : JavaScript
-  - 📊 Source code of the main website
-- [PowerToys](https://github.com/microsoft/PowerToys) : C++
-  - Windows system utilities to maximize productivity
-- [public-apis](https://github.com/public-apis/public-apis) : Python
-  - A collective list of free APIs for use in software and web development.
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
   - Roadmap to becoming a web developer in 2020
+- [coronavirus-data](https://github.com/nychealth/coronavirus-data) : 
+- [gorkiy](https://github.com/iTaysonLab/gorkiy) : Java
+  - JaDX decompile of com.askgps.personaltrackercore (Moscow COVID-19 person tracker). Note that I'm NOT related to the development of this app.
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
   - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-- [CurveFit](https://github.com/ihmeuw-msca/CurveFit) : Python
-  - Generic curve fitting package with nonlinear mixed effects model
+- [theia](https://github.com/eclipse-theia/theia) : TypeScript
+  - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
   - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [PowerToys](https://github.com/microsoft/PowerToys) : C++
+  - Windows system utilities to maximize productivity
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [FiqueEmCasaConf](https://github.com/linuxtips/FiqueEmCasaConf) : 
+  - Repositório para a conferência #FiqueEmCasa
+- [covid19model](https://github.com/ImperialCollegeLondon/covid19model) : R
+  - Code for modelling estimated deaths and cases for COVID19.
+- [excalidraw](https://github.com/excalidraw/excalidraw) : TypeScript
+  - Virtual whiteboard for sketching hand-drawn like diagrams
+- [miaosha](https://github.com/qiurunze123/miaosha) : Java
+  - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
+- [CurveFit](https://github.com/ihmeuw-msca/CurveFit) : Python
+  - Generic curve fitting package with nonlinear mixed effects model
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
+  - 🤓 Build your own (insert technology here)
+- [public-apis](https://github.com/public-apis/public-apis) : Python
+  - A collective list of free APIs for use in software and web development.
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
   - 📚 Freely available programming books
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) : 
   - Master the command line, in one page
+- [html-dom](https://github.com/phuoc-ng/html-dom) : TypeScript
+  - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
+- [kpt](https://github.com/GoogleContainerTools/kpt) : Go
+- [element](https://github.com/ElemeFE/element) : Vue
+  - A Vue.js 2.0 UI Toolkit for Web
+- [AmboVent](https://github.com/AmboVent/AmboVent) : C++
+  - AmboVent 1690.108
+- [gitignore](https://github.com/github/gitignore) : 
+  - A collection of useful .gitignore templates
+- [timecop](https://github.com/hamaluik/timecop) : Dart
+  - A time tracking app that respects your privacy and the gets the job done without being fancy.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) : Shell
+  - 🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [COVID-CT](https://github.com/UCSD-AI4H/COVID-CT) : Python
+  - COVID-CT-Dataset: A CT Scan Dataset about COVID-19
