@@ -1,51 +1,51 @@
 # c++
-- [PowerToys](https://github.com/microsoft/PowerToys)
-  - Windows system utilities to maximize productivity
 - [AmboVent](https://github.com/AmboVent/AmboVent)
   - AmboVent 1690.108
-- [win32k-bugs](https://github.com/gdabah/win32k-bugs)
-  - Dump of win32k POCs for bugs I've found
-- [SteamCAD](https://github.com/oskardolch/SteamCAD)
-  - 2D CAD especially designed to draw steam locomotives
-- [Inspire-OpenLung](https://github.com/Inspire-Poli-USP/Inspire-OpenLung)
-  - An another [IN PROGRESS] open source, low cost, low resource, quick deployment ventilator design that utilizes a Ambu-bag as a core component. 'War' against COVID-19
-- [AirSim](https://github.com/microsoft/AirSim)
-  - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
-- [emscripten](https://github.com/emscripten-core/emscripten)
-  - Emscripten: An LLVM-to-Web Compiler
-- [grpc](https://github.com/grpc/grpc)
-  - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-- [simdjson](https://github.com/simdjson/simdjson)
-  - Parsing gigabytes of JSON per second
-- [Firmware](https://github.com/PX4/Firmware)
-  - PX4 Autopilot Software
-- [SeetaFace6](https://github.com/seetafaceengine/SeetaFace6)
-  - SeetaFace 6: Newest open and free, full stack face recognization toolkit.
-- [spdlog](https://github.com/gabime/spdlog)
-  - Fast C++ logging library.
-- [youtube](https://github.com/Errichto/youtube)
-  - codes for my streams and YT videos
-- [openventilator](https://github.com/popsolutions/openventilator)
-  - OpenSource Ventilator for the COVID-19 crisis. We aim to provide a cheap and reliable solution for respiratory deseas and inaccesibility to this kind of ventilation medical equipment
-- [InsectRobotSimulation](https://github.com/neuroprod/InsectRobotSimulation)
-  - 
-- [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail)
-  - Sourcetrail - free and open-source interactive source explorer
-- [snappy](https://github.com/google/snappy)
-  - A fast compressor/decompressor
-- [vnpy](https://github.com/vnpy/vnpy)
-  - 基于Python的开源量化交易平台开发框架
-- [react-native-windows](https://github.com/microsoft/react-native-windows)
-  - A framework for building native Windows apps with React.
-- [TRTCSDK](https://github.com/tencentyun/TRTCSDK)
-  - 腾讯云TRTC音视频服务，国内下载镜像：
 - [protobuf](https://github.com/protocolbuffers/protobuf)
   - Protocol Buffers - Google's data interchange format
-- [rapidjson](https://github.com/Tencent/rapidjson)
-  - A fast JSON parser/generator for C++ with both SAX/DOM style API
+- [PowerToys](https://github.com/microsoft/PowerToys)
+  - Windows system utilities to maximize productivity
+- [ClickHouse](https://github.com/ClickHouse/ClickHouse)
+  - ClickHouse is a free analytics DBMS for big data
 - [graph-learn](https://github.com/alibaba/graph-learn)
   - graph-learn
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [milvus](https://github.com/milvus-io/milvus)
-  - An open source vector similarity search engine
+- [react-native-windows](https://github.com/microsoft/react-native-windows)
+  - A framework for building native Windows apps with React.
+- [imgui](https://github.com/ocornut/imgui)
+  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+- [world-of-might-and-magic](https://github.com/gp-alex/world-of-might-and-magic)
+  - Open reimplementation of Might and Magic 6 7 8 game engine
+- [win32k-bugs](https://github.com/gdabah/win32k-bugs)
+  - Dump of win32k POCs for bugs I've found
+- [googletest](https://github.com/google/googletest)
+  - Googletest - Google Testing and Mocking Framework
+- [Marlin](https://github.com/MarlinFirmware/Marlin)
+  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
+- [opencv](https://github.com/opencv/opencv)
+  - Open Source Computer Vision Library
+- [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail)
+  - Sourcetrail - free and open-source interactive source explorer
+- [rapidjson](https://github.com/Tencent/rapidjson)
+  - A fast JSON parser/generator for C++ with both SAX/DOM style API
+- [arrow](https://github.com/apache/arrow)
+  - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…
+- [thrift](https://github.com/apache/thrift)
+  - Apache Thrift
+- [json](https://github.com/nlohmann/json)
+  - JSON for Modern C++
+- [godot](https://github.com/godotengine/godot)
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [or-tools](https://github.com/google/or-tools)
+  - Google's Operations Research tools:
+- [scylla](https://github.com/scylladb/scylla)
+  - NoSQL data store using the seastar framework, compatible with Apache Cassandra
+- [spdlog](https://github.com/gabime/spdlog)
+  - Fast C++ logging library.
+- [gdal](https://github.com/OSGeo/gdal)
+  - GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats.
+- [pytorch](https://github.com/pytorch/pytorch)
+  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [phantomjs](https://github.com/ariya/phantomjs)
+  - Scriptable Headless Browser
+- [AirSim](https://github.com/microsoft/AirSim)
+  - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
