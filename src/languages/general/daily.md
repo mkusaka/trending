@@ -1,49 +1,50 @@
 # general
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
-  - Roadmap to becoming a web developer in 2020
-- [coronavirus-data](https://github.com/nychealth/coronavirus-data) : 
-- [gorkiy](https://github.com/iTaysonLab/gorkiy) : Java
-  - JaDX decompile of com.askgps.personaltrackercore (Moscow COVID-19 person tracker). Note that I'm NOT related to the development of this app.
+- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) : Python
+  - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
+- [iced](https://github.com/hecrj/iced) : Rust
+  - A cross-platform GUI library for Rust, inspired by Elm
+- [azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) : C#
+  - This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
   - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-- [theia](https://github.com/eclipse-theia/theia) : TypeScript
-  - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [PowerToys](https://github.com/microsoft/PowerToys) : C++
-  - Windows system utilities to maximize productivity
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [FiqueEmCasaConf](https://github.com/linuxtips/FiqueEmCasaConf) : 
-  - Repositório para a conferência #FiqueEmCasa
-- [covid19model](https://github.com/ImperialCollegeLondon/covid19model) : R
-  - Code for modelling estimated deaths and cases for COVID19.
-- [excalidraw](https://github.com/excalidraw/excalidraw) : TypeScript
-  - Virtual whiteboard for sketching hand-drawn like diagrams
-- [miaosha](https://github.com/qiurunze123/miaosha) : Java
-  - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
-- [CurveFit](https://github.com/ihmeuw-msca/CurveFit) : Python
-  - Generic curve fitting package with nonlinear mixed effects model
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
-  - 🤓 Build your own (insert technology here)
-- [public-apis](https://github.com/public-apis/public-apis) : Python
-  - A collective list of free APIs for use in software and web development.
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) : 
-  - Master the command line, in one page
-- [html-dom](https://github.com/phuoc-ng/html-dom) : TypeScript
-  - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
-- [kpt](https://github.com/GoogleContainerTools/kpt) : Go
-- [element](https://github.com/ElemeFE/element) : Vue
-  - A Vue.js 2.0 UI Toolkit for Web
+- [learn_gnuawk](https://github.com/learnbyexample/learn_gnuawk) : Shell
+  - Example based guide to mastering GNU awk
+- [coronavirus-data](https://github.com/nychealth/coronavirus-data) : 
 - [AmboVent](https://github.com/AmboVent/AmboVent) : C++
   - AmboVent 1690.108
-- [gitignore](https://github.com/github/gitignore) : 
-  - A collection of useful .gitignore templates
-- [timecop](https://github.com/hamaluik/timecop) : Dart
-  - A time tracking app that respects your privacy and the gets the job done without being fancy.
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) : Shell
-  - 🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
+  - Roadmap to becoming a web developer in 2020
+- [iina](https://github.com/iina/iina) : Swift
+  - The modern video player for macOS.
+- [html-dom](https://github.com/phuoc-ng/html-dom) : TypeScript
+  - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
+  - 📚 Freely available programming books
+- [EffectivePyTorch](https://github.com/vahidk/EffectivePyTorch) : 
+  - PyTorch tutorials and best practices.
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
+  - 🤓 Build your own (insert technology here)
+- [BDA_course_Aalto](https://github.com/avehtari/BDA_course_Aalto) : TeX
+  - Bayesian Data Analysis course at Aalto
+- [public-apis](https://github.com/public-apis/public-apis) : Python
+  - A collective list of free APIs for use in software and web development.
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) : Java
+  - spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…
+- [covid-sanity](https://github.com/karpathy/covid-sanity) : Python
+  - Aspires to help the influx of bioRxiv / medRxiv papers on COVID-19
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) : 
+  - Master the command line, in one page
 - [COVID-CT](https://github.com/UCSD-AI4H/COVID-CT) : Python
   - COVID-CT-Dataset: A CT Scan Dataset about COVID-19
+- [protobuf](https://github.com/protocolbuffers/protobuf) : C++
+  - Protocol Buffers - Google's data interchange format
+- [miaosha](https://github.com/qiurunze123/miaosha) : Java
+  - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
+- [coronadatascraper](https://github.com/covidatlas/coronadatascraper) : JavaScript
+  - COVID-19 Coronavirus data scraped from government and curated data sources.
+- [covid19india-react](https://github.com/covid19india/covid19india-react) : JavaScript
+  - 📊 Source code of the main website
+- [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) : 
+  - A list of resources for those interested in getting started in bug bounties
