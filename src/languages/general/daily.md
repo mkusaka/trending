@@ -1,50 +1,50 @@
 # general
-- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) : Python
-  - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
+- [android](https://github.com/ProteGO-app/android) : Kotlin
+  - Aplikacja Android
+- [backend](https://github.com/ProteGO-app/backend) : Python
+  - Backend do uruchomienia na GCP
+- [specs](https://github.com/ProteGO-app/specs) : 
+  - Opis, specyfikacja i zadania. Zacznij tutaj.
 - [iced](https://github.com/hecrj/iced) : Rust
   - A cross-platform GUI library for Rust, inspired by Elm
-- [azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) : C#
-  - This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.
-- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
-  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-- [learn_gnuawk](https://github.com/learnbyexample/learn_gnuawk) : Shell
-  - Example based guide to mastering GNU awk
 - [coronavirus-data](https://github.com/nychealth/coronavirus-data) : 
-- [AmboVent](https://github.com/AmboVent/AmboVent) : C++
-  - AmboVent 1690.108
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
-  - Roadmap to becoming a web developer in 2020
-- [iina](https://github.com/iina/iina) : Swift
-  - The modern video player for macOS.
-- [html-dom](https://github.com/phuoc-ng/html-dom) : TypeScript
-  - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [EffectivePyTorch](https://github.com/vahidk/EffectivePyTorch) : 
-  - PyTorch tutorials and best practices.
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
-  - 🤓 Build your own (insert technology here)
-- [BDA_course_Aalto](https://github.com/avehtari/BDA_course_Aalto) : TeX
-  - Bayesian Data Analysis course at Aalto
-- [public-apis](https://github.com/public-apis/public-apis) : Python
-  - A collective list of free APIs for use in software and web development.
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) : Java
-  - spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…
-- [covid-sanity](https://github.com/karpathy/covid-sanity) : Python
-  - Aspires to help the influx of bioRxiv / medRxiv papers on COVID-19
-- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) : 
-  - Master the command line, in one page
-- [COVID-CT](https://github.com/UCSD-AI4H/COVID-CT) : Python
-  - COVID-CT-Dataset: A CT Scan Dataset about COVID-19
-- [protobuf](https://github.com/protocolbuffers/protobuf) : C++
-  - Protocol Buffers - Google's data interchange format
-- [miaosha](https://github.com/qiurunze123/miaosha) : Java
-  - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
-- [coronadatascraper](https://github.com/covidatlas/coronadatascraper) : JavaScript
-  - COVID-19 Coronavirus data scraped from government and curated data sources.
+- [ios](https://github.com/ProteGO-app/ios) : Swift
+  - Aplikacja iOS
 - [covid19india-react](https://github.com/covid19india/covid19india-react) : JavaScript
   - 📊 Source code of the main website
-- [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) : 
-  - A list of resources for those interested in getting started in bug bounties
+- [samples](https://github.com/flutter/samples) : Dart
+  - A collection of Flutter examples and demos.
+- [Whole-Foods-Delivery-Slot](https://github.com/pcomputo/Whole-Foods-Delivery-Slot) : Python
+  - Automated script for Whole Foods and Amazon Fresh delivery slot
+- [raylib](https://github.com/raysan5/raylib) : C
+  - A simple and easy-to-use library to enjoy videogames programming
+- [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) : Java
+  - spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…
+- [keras](https://github.com/keras-team/keras) : Python
+  - Deep Learning for humans
+- [plymouth-themes](https://github.com/adi1090x/plymouth-themes) : Shell
+  - A hugh collection (80+) of plymouth themes ported from android bootanimations
+- [rust](https://github.com/rust-lang/rust) : Rust
+  - Empowering everyone to build reliable and efficient software.
+- [dlaicourse](https://github.com/lmoroney/dlaicourse) : Jupyter Notebook
+  - Notebooks for learning deep learning
+- [nodejs-backend-architecture-typescript](https://github.com/afteracademy/nodejs-backend-architecture-typescript) : TypeScript
+  - Node.js Backend Architecture Typescript - Learn to build a backend server for Blogging platform like Medium, FreeCodeCamp, MindOrks, AfterAcademy - Learn to write unit and integration tests - Learn to use Docker image - Open-Source Project By AfterAcademy
+- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) : Python
+  - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework) : Ruby
+  - Metasploit Framework
+- [libgdx](https://github.com/libgdx/libgdx) : Java
+  - Desktop/Android/HTML5/iOS Java game development framework
+- [ff-proxy](https://github.com/TimeToogo/ff-proxy) : C
+  - A UDP to TCP proxy server for sending HTTP requests with zero latency
+- [Background-Matting](https://github.com/senguptaumd/Background-Matting) : Python
+  - Background Matting: The World is Your Green Screen
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
+  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [Nim](https://github.com/nim-lang/Nim) : Nim
+  - Nim is a compiled, garbage-collected systems programming language with a design that focuses on efficiency, expressiveness, and elegance (in that order of priority).
+- [hugo](https://github.com/gohugoio/hugo) : Go
+  - The world’s fastest framework for building websites.
+- [nCovMemory](https://github.com/2019ncovmemory/nCovMemory) : JavaScript
+  - 2020新冠肺炎记忆：报道、非虚构与个人叙述（持续更新） Memory of 2020 nCoV: Media Coverage, Non-fiction Writings, and Individual Narratives (Continuously updating)

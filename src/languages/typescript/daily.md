@@ -1,51 +1,51 @@
 # typescript
+- [nodejs-backend-architecture-typescript](https://github.com/afteracademy/nodejs-backend-architecture-typescript)
+  - Node.js Backend Architecture Typescript - Learn to build a backend server for Blogging platform like Medium, FreeCodeCamp, MindOrks, AfterAcademy - Learn to write unit and integration tests - Learn to use Docker image - Open-Source Project By AfterAcademy
+- [react](https://github.com/zeit-ui/react)
+  - React implementation for ZEIT design.
 - [html-dom](https://github.com/phuoc-ng/html-dom)
   - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
-- [theia](https://github.com/eclipse-theia/theia)
-  - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [angular-architecture](https://github.com/DanWahlin/angular-architecture)
-  - Examples of Angular Architecture Concepts
-- [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)
-  - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
-- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-  - The repository for high quality TypeScript type definitions.
-- [covapp](https://github.com/d4l-data4life/covapp)
-  - Solution for speeding up the decision-making process for anyone worried about a corona infection
-- [excalidraw](https://github.com/excalidraw/excalidraw)
-  - Virtual whiteboard for sketching hand-drawn like diagrams
-- [vue-next](https://github.com/vuejs/vue-next)
-  - The next major version of Vue (WIP)
-- [theia-apps](https://github.com/theia-ide/theia-apps)
-  - Theia applications - docker images and desktop distributions
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
-- [ts-jest](https://github.com/kulshekhar/ts-jest)
-  - TypeScript preprocessor with sourcemap support for Jest
-- [react-use](https://github.com/streamich/react-use)
-  - React Hooks — 👍
-- [code-server](https://github.com/cdr/code-server)
-  - Run VS Code on a remote server.
-- [vuetify](https://github.com/vuetifyjs/vuetify)
-  - 🐉 Material Component Framework for Vue
-- [instagram-private-api](https://github.com/dilame/instagram-private-api)
-  - NodeJS Instagram private API client. Written in TypeScript.
-- [typescript-book](https://github.com/basarat/typescript-book)
-  - 📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖. Free and Open Source 🌹
-- [react-admin](https://github.com/marmelab/react-admin)
-  - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
-- [kibana](https://github.com/elastic/kibana)
-  - Your window into the Elastic Stack
-- [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
-  - Tasks for Azure Pipelines
-- [highcharts](https://github.com/highcharts/highcharts)
-  - Highcharts JS, the JavaScript charting framework
-- [rxjs](https://github.com/ReactiveX/rxjs)
-  - A reactive programming library for JavaScript
-- [amplify-cli](https://github.com/aws-amplify/amplify-cli)
-  - A CLI toolchain for simplifying serverless web and mobile development.
-- [ng-select](https://github.com/ng-select/ng-select)
-  - ⭐️ Native angular 6+ select component
-- [Babylon.js](https://github.com/BabylonJS/Babylon.js)
-  - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [Angular-GettingStarted](https://github.com/DeborahK/Angular-GettingStarted)
   - Sample Angular application used in the "Angular: Getting Started" course: http://bit.ly/Angular-GettingStarted
+- [nest](https://github.com/nestjs/nest)
+  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [p-queue](https://github.com/sindresorhus/p-queue)
+  - Promise queue with concurrency control
+- [vscode-live-server](https://github.com/ritwickdey/vscode-live-server)
+  - Launch a development local Server with live reload feature for static & dynamic pages.
+- [vue-next](https://github.com/vuejs/vue-next)
+  - The next major version of Vue (WIP)
+- [now](https://github.com/zeit/now)
+  - Develop. Preview. Ship.
+- [sapper](https://github.com/sveltejs/sapper)
+  - The next small thing in web development, powered by Svelte
+- [angular](https://github.com/angular/angular)
+  - One framework. Mobile & desktop.
+- [xstate](https://github.com/davidkpiano/xstate)
+  - State machines and statecharts for the modern web.
+- [angular-realworld-example-app](https://github.com/gothinkster/angular-realworld-example-app)
+  - Exemplary real world application built with Angular
+- [vuetify](https://github.com/vuetifyjs/vuetify)
+  - 🐉 Material Component Framework for Vue
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
+  - 📋 React hooks for forms validation without the hassle.
+- [flipper](https://github.com/facebook/flipper)
+  - A desktop debugging platform for mobile developers.
+- [streamlabs-obs](https://github.com/stream-labs/streamlabs-obs)
+  - Free and open source streaming software built on OBS and Electron.
+- [snabbdom](https://github.com/snabbdom/snabbdom)
+  - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
+- [react-native-paper](https://github.com/callstack/react-native-paper)
+  - Material Design for React Native (Android & iOS)
+- [firebase-js-sdk](https://github.com/firebase/firebase-js-sdk)
+  - Firebase Javascript SDK
+- [purgecss](https://github.com/FullHuman/purgecss)
+  - Remove unused CSS
+- [platform](https://github.com/ngrx/platform)
+  - Reactive libraries for Angular
+- [spectral](https://github.com/stoplightio/spectral)
+  - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v2 & v3.
+- [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
+  - 💬 The most complete chat UI for React Native
+- [react-navigation](https://github.com/react-navigation/react-navigation)
+  - Routing and navigation for your React Native apps
