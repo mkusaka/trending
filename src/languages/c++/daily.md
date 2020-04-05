@@ -1,51 +1,51 @@
 # c++
-- [AmboVent](https://github.com/AmboVent/AmboVent)
-  - AmboVent 1690.108
-- [protobuf](https://github.com/protocolbuffers/protobuf)
-  - Protocol Buffers - Google's data interchange format
-- [PowerToys](https://github.com/microsoft/PowerToys)
-  - Windows system utilities to maximize productivity
-- [ClickHouse](https://github.com/ClickHouse/ClickHouse)
-  - ClickHouse is a free analytics DBMS for big data
-- [graph-learn](https://github.com/alibaba/graph-learn)
-  - graph-learn
-- [react-native-windows](https://github.com/microsoft/react-native-windows)
-  - A framework for building native Windows apps with React.
-- [imgui](https://github.com/ocornut/imgui)
-  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
-- [world-of-might-and-magic](https://github.com/gp-alex/world-of-might-and-magic)
-  - Open reimplementation of Might and Magic 6 7 8 game engine
-- [win32k-bugs](https://github.com/gdabah/win32k-bugs)
-  - Dump of win32k POCs for bugs I've found
-- [googletest](https://github.com/google/googletest)
-  - Googletest - Google Testing and Mocking Framework
-- [Marlin](https://github.com/MarlinFirmware/Marlin)
-  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
-- [opencv](https://github.com/opencv/opencv)
-  - Open Source Computer Vision Library
-- [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail)
-  - Sourcetrail - free and open-source interactive source explorer
-- [rapidjson](https://github.com/Tencent/rapidjson)
-  - A fast JSON parser/generator for C++ with both SAX/DOM style API
-- [arrow](https://github.com/apache/arrow)
-  - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…
-- [thrift](https://github.com/apache/thrift)
-  - Apache Thrift
-- [json](https://github.com/nlohmann/json)
-  - JSON for Modern C++
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [or-tools](https://github.com/google/or-tools)
-  - Google's Operations Research tools:
-- [scylla](https://github.com/scylladb/scylla)
-  - NoSQL data store using the seastar framework, compatible with Apache Cassandra
+- [OpenTTD](https://github.com/OpenTTD/OpenTTD)
+  - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
+- [osrm-backend](https://github.com/Project-OSRM/osrm-backend)
+  - Open Source Routing Machine - C++ backend
+- [bitcoin](https://github.com/bitcoin/bitcoin)
+  - Bitcoin Core integration/staging tree
+- [leveldb](https://github.com/google/leveldb)
+  - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+- [vk_raytracing_tutorial_KHR](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR)
+  - Ray tracing examples and tutorials using VK_KHR_ray_tracing
+- [ppsspp](https://github.com/hrydgard/ppsspp)
+  - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or in #ppsspp on freenode (IRC) or just send pull requests / issues. For discussion use the forums on ppsspp.org.
+- [tinyrenderer](https://github.com/ssloy/tinyrenderer)
+  - A brief computer graphics / rendering course
+- [subconverter](https://github.com/tindy2013/subconverter)
+  - Utility to convert between various subscription format
+- [stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn)
+  - Proxy performance batch tester based on Shadowsocks(R) and V2Ray
+- [Hazel](https://github.com/TheCherno/Hazel)
+  - Hazel Engine
+- [xbmc](https://github.com/xbmc/xbmc)
+  - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
+- [trojan](https://github.com/trojan-gfw/trojan)
+  - An unidentifiable mechanism that helps you bypass GFW.
+- [Magisk](https://github.com/topjohnwu/Magisk)
+  - The Magic Mask for Android
+- [Tasmota](https://github.com/arendst/Tasmota)
+  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
 - [spdlog](https://github.com/gabime/spdlog)
   - Fast C++ logging library.
-- [gdal](https://github.com/OSGeo/gdal)
-  - GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats.
-- [pytorch](https://github.com/pytorch/pytorch)
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [phantomjs](https://github.com/ariya/phantomjs)
-  - Scriptable Headless Browser
-- [AirSim](https://github.com/microsoft/AirSim)
-  - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
+- [terminal](https://github.com/microsoft/terminal)
+  - The new Windows Terminal and the original Windows console host, all in the same place!
+- [godot](https://github.com/godotengine/godot)
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [opencv](https://github.com/opencv/opencv)
+  - Open Source Computer Vision Library
+- [qTox](https://github.com/qTox/qTox)
+  - qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.
+- [protobuf](https://github.com/protocolbuffers/protobuf)
+  - Protocol Buffers - Google's data interchange format
+- [yuzu](https://github.com/yuzu-emu/yuzu)
+  - Nintendo Switch Emulator
+- [i2cdevlib](https://github.com/jrowberg/i2cdevlib)
+  - I2C device library collection for AVR/Arduino or other C++-based MCUs
+- [Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice)
+  - 搞定C++👊。C++ Primer 中文版第5版学习仓库，包括笔记和课后练习答案。
+- [JUCE](https://github.com/WeAreROLI/JUCE)
+  - The JUCE cross-platform C++ framework
+- [jetson-inference](https://github.com/dusty-nv/jetson-inference)
+  - Guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.

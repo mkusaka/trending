@@ -1,51 +1,51 @@
 # javascript
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [coronadatascraper](https://github.com/covidatlas/coronadatascraper)
-  - COVID-19 Coronavirus data scraped from government and curated data sources.
 - [covid19india-react](https://github.com/covid19india/covid19india-react)
   - 📊 Source code of the main website
-- [google-meet-grid-view-extension](https://github.com/stgeorgesepiscopal/google-meet-grid-view-extension)
-  - Google Meet Grid View Extension
-- [vue-form-making](https://github.com/GavinZhuLei/vue-form-making)
-  - A visual form designer/generator base on Vue.js, make form development simple and efficient.（基于Vue的可视化表单设计器，让表单开发简单而高效。）
-- [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app)
-  - An exemplary real-world application built with Vue.js, Vuex, axios and different other technologies. This is a good example to discover Vue for beginners.
-- [cypress](https://github.com/cypress-io/cypress)
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [semana-omnistack-11](https://github.com/Rocketseat/semana-omnistack-11)
-  - Código produzido durante a Semana OmniStack 11.0
-- [carbon](https://github.com/carbon-design-system/carbon)
-  - A design system built by IBM
+- [nCovMemory](https://github.com/2019ncovmemory/nCovMemory)
+  - 2020新冠肺炎记忆：报道、非虚构与个人叙述（持续更新） Memory of 2020 nCoV: Media Coverage, Non-fiction Writings, and Individual Narratives (Continuously updating)
 - [jitsi-meet](https://github.com/jitsi/jitsi-meet)
   - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [docusaurus](https://github.com/facebook/docusaurus)
-  - Easy to maintain open source documentation websites.
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
-- [nuxt.js](https://github.com/nuxt/nuxt.js)
-  - The Vue.js Framework
-- [nightwatch](https://github.com/nightwatchjs/nightwatch)
-  - End-to-end testing framework written in Node.js and using the Webdriver API
-- [quasar](https://github.com/quasarframework/quasar)
-  - Quasar Framework - Build high-performance VueJS user interfaces in record time
-- [strapi](https://github.com/strapi/strapi)
-  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [react-native-firebase](https://github.com/invertase/react-native-firebase)
-  - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
-- [drawio-desktop](https://github.com/jgraph/drawio-desktop)
-  - Official electron build of draw.io
+- [shields](https://github.com/badges/shields)
+  - Concise, consistent, and legible badges in SVG and raster format
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
+  - Starter files, final projects and FAQ for my Complete JavaScript course
+- [overreacted.io](https://github.com/gaearon/overreacted.io)
+  - Personal blog by Dan Abramov.
+- [BaiduExporter](https://github.com/acgotaku/BaiduExporter)
+  - Assistant for Baidu to export download links to aria2/aria2-rpc
+- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
+  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 - [secret-hitler](https://github.com/cozuya/secret-hitler)
   - A web adaptation of the social deduction board game Secret Hitler. https://secrethitler.io
-- [alpine](https://github.com/alpinejs/alpine)
-  - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
-  - The ultimate Free Open Source Solution for team communications.
-- [konga](https://github.com/pantsel/konga)
-  - More than just another GUI to Kong Admin API
-- [tiptap](https://github.com/scrumpy/tiptap)
-  - A rich-text editor for Vue.js
-- [jsoneditor](https://github.com/josdejong/jsoneditor)
-  - A web-based tool to view, edit, format, and validate JSON
+- [iptv](https://github.com/iptv-org/iptv)
+  - Collection of 8000+ publicly available IPTV channels from all over the world
+- [gatsby](https://github.com/gatsbyjs/gatsby)
+  - Build blazing fast, modern apps and websites with React
+- [webpack-starter](https://github.com/wbkd/webpack-starter)
+  - ✨ A lightweight foundation for your next webpack based frontend project.
+- [JavaScript-21-Days-Challenge](https://github.com/lvarayut/JavaScript-21-Days-Challenge)
+  - 🔥 คอร์สฟรี! สร้าง 21 โปรเจค ใน 21 วัน ไม่ใช้เฟรมเวิร์ค ไม่ใช้ไลบรารี
+- [semana-omnistack-11](https://github.com/Rocketseat/semana-omnistack-11)
+  - Código produzido durante a Semana OmniStack 11.0
+- [Motrix](https://github.com/agalwood/Motrix)
+  - A full-featured download manager.
+- [AdminLTE](https://github.com/ColorlibHQ/AdminLTE)
+  - AdminLTE - Free admin dashboard template based on Bootstrap 4 & 3
+- [atom](https://github.com/atom/atom)
+  - The hackable text editor
+- [MagicMirror](https://github.com/MichMich/MagicMirror)
+  - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
+- [Script](https://github.com/NobyDa/Script)
+  - This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
+  - Short JavaScript code snippets for all your development needs
+- [node_passport_login](https://github.com/bradtraversy/node_passport_login)
+  - Node.js login, registration and access control using Express and Passport
+- [EdgeTranslate](https://github.com/EdgeTranslate/EdgeTranslate)
+  - A translator extension.
+- [notyf](https://github.com/caroso1222/notyf)
+  - 👻 A minimalistic, responsive, vanilla JavaScript library to show toast notifications.
+- [devconnector_2.0](https://github.com/bradtraversy/devconnector_2.0)
+  - Social network for developers, built on the MERN stack
+- [ccxt](https://github.com/ccxt/ccxt)
+  - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
