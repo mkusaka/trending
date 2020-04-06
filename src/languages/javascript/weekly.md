@@ -1,51 +1,51 @@
 # javascript
-- [API](https://github.com/NovelCOVID/API)
-  - API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
+- [covid19india-react](https://github.com/covid19india/covid19india-react)
+  - 📊 Source code of the main website
+- [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+  - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [jitsi-meet](https://github.com/jitsi/jitsi-meet)
   - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [COVID-19](https://github.com/elcronos/COVID-19)
-  - COVID-19 Detector from x-rays using Computer Vision and Deep Learning
-- [core-js](https://github.com/zloirock/core-js)
-  - Standard Library
+- [react-ultimate-resume](https://github.com/welovedevs/react-ultimate-resume)
+  - 💼 🎨 A modern software developer resume built with React and JSONResume
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [samples](https://github.com/webrtc/samples)
   - WebRTC Web demos and samples
-- [WebRTC-Experiment](https://github.com/muaz-khan/WebRTC-Experiment)
-  - WebRTC, WebRTC and WebRTC. Everything here is all about WebRTC!!
+- [cube.js](https://github.com/cube-js/cube.js)
+  - 📊 Cube.js - Open Source Analytics Framework
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [Spoke](https://github.com/Elizabeth-Warren/Spoke)
+  - Spoke is an open source text-distribution tool for organizations to mobilize supporters and members into action
+- [bbbot](https://github.com/DanielHe4rt/bbbot)
+  - Bot feito para estudos de leitura de imagem
+- [socket.io](https://github.com/socketio/socket.io)
+  - Realtime application framework (Node.JS server)
 - [covid19](https://github.com/pomber/covid19)
   - JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily
-- [core](https://github.com/JAVClub/core)
-  - 🔞 JAVClub - 让你的大姐姐不再走丢
-- [remote-jobs](https://github.com/remoteintech/remote-jobs)
-  - A list of semi to fully remote-friendly companies in tech.
-- [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
-  - 🦠Useful projects and resources for COVID-19 (2019 novel Coronavirus)
-- [grocy](https://github.com/grocy/grocy)
-  - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
-- [corona-cli](https://github.com/ahmadawais/corona-cli)
-  - 🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (< 100ms).
-- [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
-  - 中文独立博客列表
-- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
-  - 一个基于 electron 的音乐软件
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
-- [private-kit](https://github.com/tripleblindmarket/private-kit)
-  - Private Kit, an open source privacy preserving system for using personal information
-- [coronadatascraper](https://github.com/covidatlas/coronadatascraper)
-  - COVID-19 Coronavirus data scraped from government and curated data sources.
-- [secret-hitler](https://github.com/cozuya/secret-hitler)
-  - A web adaptation of the social deduction board game Secret Hitler. https://secrethitler.io
-- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
-  - The ultimate Free Open Source Solution for team communications.
-- [create-react-app](https://github.com/facebook/create-react-app)
-  - Set up a modern web app by running one command.
-- [three.js](https://github.com/mrdoob/three.js)
-  - JavaScript 3D library.
-- [covid19](https://github.com/stevenliuyi/covid19)
-  - an interactive, animated COVID-19 coronavirus map to track the outbreak over time by country and by region for selected countries (including China, Italy, Korea, Japan, France, Germany, United States)
-- [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
-  - ⛄️ Possibly the smallest compiler ever
+- [api](https://github.com/covid19india/api)
+  - 
+- [covid19japan](https://github.com/reustle/covid19japan)
+  - 
+- [sample-app-web](https://github.com/zoom/sample-app-web)
+  - Zoom Web SDK Sample App
+- [gun](https://github.com/amark/gun)
+  - A realtime, decentralized, offline-first, graph protocol to sync the web.
 - [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
   - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [lib-jitsi-meet](https://github.com/jitsi/lib-jitsi-meet)
-  - A low-level JS video API that allows adding a completely custom video experience to web apps.
+- [coronadatascraper](https://github.com/covidatlas/coronadatascraper)
+  - COVID-19 Coronavirus data scraped from government and curated data sources.
+- [covid19india-cluster](https://github.com/someshkar/covid19india-cluster)
+  - 🔬 COVID19 India Cluster Network
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [markdown-here](https://github.com/adam-p/markdown-here)
+  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+- [gatsby](https://github.com/gatsbyjs/gatsby)
+  - Build blazing fast, modern apps and websites with React
+- [fabric.js](https://github.com/fabricjs/fabric.js)
+  - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
+- [create-react-app](https://github.com/facebook/create-react-app)
+  - Set up a modern web app by running one command.
+- [bookshelf](https://github.com/kentcdodds/bookshelf)
+  - Build a ReactJS App workshop
