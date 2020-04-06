@@ -1,50 +1,51 @@
 # general
-- [android](https://github.com/ProteGO-app/android) : Kotlin
-  - Aplikacja Android
-- [backend](https://github.com/ProteGO-app/backend) : Python
-  - Backend do uruchomienia na GCP
-- [specs](https://github.com/ProteGO-app/specs) : 
-  - Opis, specyfikacja i zadania. Zacznij tutaj.
-- [iced](https://github.com/hecrj/iced) : Rust
-  - A cross-platform GUI library for Rust, inspired by Elm
-- [coronavirus-data](https://github.com/nychealth/coronavirus-data) : 
-- [ios](https://github.com/ProteGO-app/ios) : Swift
-  - Aplikacja iOS
-- [covid19india-react](https://github.com/covid19india/covid19india-react) : JavaScript
-  - 📊 Source code of the main website
-- [samples](https://github.com/flutter/samples) : Dart
-  - A collection of Flutter examples and demos.
-- [Whole-Foods-Delivery-Slot](https://github.com/pcomputo/Whole-Foods-Delivery-Slot) : Python
-  - Automated script for Whole Foods and Amazon Fresh delivery slot
-- [raylib](https://github.com/raysan5/raylib) : C
-  - A simple and easy-to-use library to enjoy videogames programming
 - [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) : Java
   - spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…
-- [keras](https://github.com/keras-team/keras) : Python
-  - Deep Learning for humans
-- [plymouth-themes](https://github.com/adi1090x/plymouth-themes) : Shell
-  - A hugh collection (80+) of plymouth themes ported from android bootanimations
+- [covid19](https://github.com/tokyo-metropolitan-gov/covid19) : Vue
+  - 東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
+- [playbook-ios](https://github.com/playbook-ui/playbook-ios) : Swift
+  - 📘A library for isolated developing UI components and automatically snapshots of them.
+- [specs](https://github.com/ProteGO-app/specs) : 
+  - Opis, specyfikacja i zadania. Zacznij tutaj.
 - [rust](https://github.com/rust-lang/rust) : Rust
   - Empowering everyone to build reliable and efficient software.
-- [dlaicourse](https://github.com/lmoroney/dlaicourse) : Jupyter Notebook
-  - Notebooks for learning deep learning
 - [nodejs-backend-architecture-typescript](https://github.com/afteracademy/nodejs-backend-architecture-typescript) : TypeScript
   - Node.js Backend Architecture Typescript - Learn to build a backend server for Blogging platform like Medium, FreeCodeCamp, MindOrks, AfterAcademy - Learn to write unit and integration tests - Learn to use Docker image - Open-Source Project By AfterAcademy
-- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) : Python
-  - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
-- [metasploit-framework](https://github.com/rapid7/metasploit-framework) : Ruby
-  - Metasploit Framework
-- [libgdx](https://github.com/libgdx/libgdx) : Java
-  - Desktop/Android/HTML5/iOS Java game development framework
-- [ff-proxy](https://github.com/TimeToogo/ff-proxy) : C
-  - A UDP to TCP proxy server for sending HTTP requests with zero latency
-- [Background-Matting](https://github.com/senguptaumd/Background-Matting) : Python
-  - Background Matting: The World is Your Green Screen
-- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
-  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [raylib](https://github.com/raysan5/raylib) : C
+  - A simple and easy-to-use library to enjoy videogames programming
+- [QuantumultX](https://github.com/nzw9314/QuantumultX) : 
+  - QuantumultX
+- [viper](https://github.com/vcg-uvic/viper) : C++
+  - Open-source code for VIPER -- Volume Invariant Position-based Elastic Rods
+- [Whole-Foods-Delivery-Slot](https://github.com/pcomputo/Whole-Foods-Delivery-Slot) : Python
+  - Automated script for Whole Foods and Amazon Fresh delivery slot
+- [Amazon-Fresh-Whole-Foods-delivery-slot-finder](https://github.com/ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder) : AppleScript
+  - A tool that finds available delivery slots for Amazon's Whole Foods delivery and Amazon Fresh services
+- [dlaicourse](https://github.com/lmoroney/dlaicourse) : Jupyter Notebook
+  - Notebooks for learning deep learning
 - [Nim](https://github.com/nim-lang/Nim) : Nim
   - Nim is a compiled, garbage-collected systems programming language with a design that focuses on efficiency, expressiveness, and elegance (in that order of priority).
-- [hugo](https://github.com/gohugoio/hugo) : Go
-  - The world’s fastest framework for building websites.
-- [nCovMemory](https://github.com/2019ncovmemory/nCovMemory) : JavaScript
-  - 2020新冠肺炎记忆：报道、非虚构与个人叙述（持续更新） Memory of 2020 nCoV: Media Coverage, Non-fiction Writings, and Individual Narratives (Continuously updating)
+- [reverse-interview](https://github.com/viraptor/reverse-interview) : 
+  - Questions to ask the company during your interview
+- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) : Python
+  - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
+- [reactos](https://github.com/reactos/reactos) : C
+  - A free Windows-compatible Operating System
+- [bitcoin](https://github.com/bitcoin/bitcoin) : C++
+  - Bitcoin Core integration/staging tree
+- [scikit-learn](https://github.com/scikit-learn/scikit-learn) : Python
+  - scikit-learn: machine learning in Python
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
+  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [MagicMirror](https://github.com/MichMich/MagicMirror) : JavaScript
+  - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
+  - 💯 Materials to help you rock your next coding interview
+- [covid19india-react](https://github.com/covid19india/covid19india-react) : JavaScript
+  - 📊 Source code of the main website
+- [godot](https://github.com/godotengine/godot) : C++
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [project-based-learning](https://github.com/tuvtran/project-based-learning) : 
+  - Curated list of project-based tutorials
+- [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) : Jupyter Notebook
+  - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
