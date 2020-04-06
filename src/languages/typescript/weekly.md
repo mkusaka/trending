@@ -1,51 +1,51 @@
 # typescript
 - [excalidraw](https://github.com/excalidraw/excalidraw)
   - Virtual whiteboard for sketching hand-drawn like diagrams
-- [lens](https://github.com/lensapp/lens)
-  - Lens - The Kubernetes IDE
-- [hamagen-react-native](https://github.com/MohGovIL/hamagen-react-native)
-  - Israel's Ministry of Health's COVID-19 Exposure Prevention App
-- [react-visual-editor](https://github.com/anye931123/react-visual-editor)
-  - 基于 React 的组件可视化拖拽页面搭建代码生成工具,组件自由拖拽，dom实时追踪，组件无限制嵌套组合，不添加多余节点，可完美还原UI设计，多平台支持，代码生成，实时预览，项目于2020.2.22开源，喜欢的点颗星支持鼓励一下！
-- [covid-19-api](https://github.com/mathdroid/covid-19-api)
-  - COVID-19 global data (from JHU CSSE for now) as-a-service
-- [angular-cli](https://github.com/angular/angular-cli)
-  - CLI tool for Angular
-- [fluentui](https://github.com/microsoft/fluentui)
-  - We've moved! UI Fabric is now Fluent UI - A set of React components for building Microsoft web experiences.
-- [code-server](https://github.com/cdr/code-server)
-  - Run VS Code on a remote server.
-- [covid19_scenarios](https://github.com/neherlab/covid19_scenarios)
-  - Models of COVID-19 outbreak trajectories and hospital demand
-- [jest](https://github.com/facebook/jest)
-  - Delightful JavaScript Testing.
-- [react-navigation](https://github.com/react-navigation/react-navigation)
-  - Routing and navigation for your React Native apps
-- [PoE-Overlay](https://github.com/Kyusung4698/PoE-Overlay)
-  - An Overlay for Path of Exile. Built with Electron and Angular.
+- [deno](https://github.com/denoland/deno)
+  - A secure JavaScript and TypeScript runtime
+- [Angular-GettingStarted](https://github.com/DeborahK/Angular-GettingStarted)
+  - Sample Angular application used in the "Angular: Getting Started" course: http://bit.ly/Angular-GettingStarted
+- [streamlabs-obs](https://github.com/stream-labs/streamlabs-obs)
+  - Free and open source streaming software built on OBS and Electron.
+- [theia](https://github.com/eclipse-theia/theia)
+  - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+- [frontend](https://github.com/home-assistant/frontend)
+  - 🍭 Frontend for Home Assistant
+- [prisma](https://github.com/prisma/prisma)
+  - Modern DB toolkit to query, migrate and model your database
 - [flipper](https://github.com/facebook/flipper)
   - A desktop debugging platform for mobile developers.
-- [vscode](https://github.com/microsoft/vscode)
-  - Visual Studio Code
-- [gqless](https://github.com/samdenty/gqless)
-  - A GraphQL client without queries ✨
-- [now](https://github.com/zeit/now)
-  - Develop. Preview. Ship.
-- [TypeScript](https://github.com/microsoft/TypeScript)
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [twilio-video-app-react](https://github.com/twilio/twilio-video-app-react)
-  - A collaboration application built with the twilio-video.js SDK and React.js
-- [pixi.js](https://github.com/pixijs/pixi.js)
-  - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
-- [ProdigyMathGameHacking](https://github.com/PatheticMustan/ProdigyMathGameHacking)
-  - We're gonna cheat in Prodigy.
+- [angular-cli](https://github.com/angular/angular-cli)
+  - CLI tool for Angular
+- [typeorm](https://github.com/typeorm/typeorm)
+  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+  - The repository for high quality TypeScript type definitions.
+- [qiankun](https://github.com/umijs/qiankun)
+  - 📦🚀Blazing fast, simple and completed solution for micro frontends.
+- [lens](https://github.com/lensapp/lens)
+  - Lens - The Kubernetes IDE
+- [react-navigation](https://github.com/react-navigation/react-navigation)
+  - Routing and navigation for your React Native apps
+- [apollo-server](https://github.com/apollographql/apollo-server)
+  - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
+- [firebase-tools](https://github.com/firebase/firebase-tools)
+  - The Firebase Command Line Tools
 - [desktop](https://github.com/desktop/desktop)
   - Simple collaboration from your desktop
-- [rap2-delos](https://github.com/thx/rap2-delos)
-  - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
-- [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)
-  - An enterprise-class UI components based on Ant Design and Angular. 🐜
-- [countUp.js](https://github.com/inorganik/countUp.js)
-  - Animates a numerical value by counting to it
+- [gqless](https://github.com/samdenty/gqless)
+  - A GraphQL client without queries ✨
+- [prisma-examples](https://github.com/prisma/prisma-examples)
+  - 🚀 Ready-to-run Prisma example projects
+- [webiny-js](https://github.com/webiny/webiny-js)
+  - Serverless CMS (GraphQL + React + Node.js + AWS Lambda)
+- [open-coronavirus](https://github.com/open-coronavirus/open-coronavirus)
+  - Open Coronavirus
 - [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
   - Foreign language reading and translation assistant based on copy and translate.
+- [TypeScript](https://github.com/microsoft/TypeScript)
+  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [jest](https://github.com/facebook/jest)
+  - Delightful JavaScript Testing.
+- [nativefier](https://github.com/jiahaog/nativefier)
+  - Make any web page a desktop application
