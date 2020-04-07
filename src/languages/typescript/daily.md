@@ -1,51 +1,51 @@
 # typescript
 - [nodejs-backend-architecture-typescript](https://github.com/afteracademy/nodejs-backend-architecture-typescript)
   - Node.js Backend Architecture Typescript - Learn to build a backend server for Blogging platform like Medium, FreeCodeCamp, MindOrks, AfterAcademy - Learn to write unit and integration tests - Learn to use Docker image - Open-Source Project By AfterAcademy
-- [vue-next](https://github.com/vuejs/vue-next)
-  - The next major version of Vue (WIP)
+- [react-native-webview](https://github.com/react-native-community/react-native-webview)
+  - React Native Cross-Platform WebView
 - [theia](https://github.com/eclipse-theia/theia)
   - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+- [rxjs](https://github.com/ReactiveX/rxjs)
+  - A reactive programming library for JavaScript
+- [react](https://github.com/zeit-ui/react)
+  - React implementation for ZEIT design.
 - [covid19_scenarios](https://github.com/neherlab/covid19_scenarios)
   - Models of COVID-19 outbreak trajectories and hospital demand
-- [Tone.js](https://github.com/Tonejs/Tone.js)
-  - A Web Audio framework for making interactive music in the browser.
-- [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
-  - Foreign language reading and translation assistant based on copy and translate.
-- [PoE-Overlay](https://github.com/Kyusung4698/PoE-Overlay)
-  - An Overlay for Path of Exile. Built with Electron and Angular.
-- [react-navigation](https://github.com/react-navigation/react-navigation)
-  - Routing and navigation for your React Native apps
-- [vscode](https://github.com/microsoft/vscode)
-  - Visual Studio Code
-- [cloud-developer](https://github.com/udacity/cloud-developer)
-  - content for Udacity's cloud developer nanodegree
-- [angularfire](https://github.com/angular/angularfire)
-  - The official Angular library for Firebase.
-- [lightweight-charts](https://github.com/tradingview/lightweight-charts)
-  - Financial lightweight charts built with HTML5 canvas
-- [react-three-fiber](https://github.com/react-spring/react-three-fiber)
-  - 🇨🇭A react reconciler for threejs (web and react-native)
-- [vuetify](https://github.com/vuetifyjs/vuetify)
-  - 🐉 Material Component Framework for Vue
-- [TypeScript](https://github.com/microsoft/TypeScript)
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [firebase-tools](https://github.com/firebase/firebase-tools)
-  - The Firebase Command Line Tools
-- [notable](https://github.com/notable/notable)
-  - The Markdown-based note-taking app that doesn't suck.
-- [Angular-JumpStart](https://github.com/DanWahlin/Angular-JumpStart)
-  - Angular and TypeScript JumpStart example application
-- [sapper](https://github.com/sveltejs/sapper)
-  - The next small thing in web development, powered by Svelte
-- [coc.nvim](https://github.com/neoclide/coc.nvim)
-  - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
-  - 📋 React hooks for forms validation without the hassle.
-- [saleor-storefront](https://github.com/mirumee/saleor-storefront)
-  - A GraphQL-powered, PWA, single-page application storefront for Saleor.
-- [material-components-web](https://github.com/material-components/material-components-web)
-  - Modular and customizable Material Design UI components for the web
-- [etcher](https://github.com/balena-io/etcher)
-  - Flash OS images to SD cards & USB drives, safely and easily.
-- [nestjs-realworld-example-app](https://github.com/lujakob/nestjs-realworld-example-app)
-  - Exemplary real world backend API built with NestJS + TypeORM
+- [angular](https://github.com/angular/angular)
+  - One framework. Mobile & desktop.
+- [sp-dev-fx-webparts](https://github.com/SharePoint/sp-dev-fx-webparts)
+  - SharePoint Framework client-side web part samples and related assets.
+- [google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client)
+  - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
+- [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)
+  - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
+- [codejar](https://github.com/antonmedv/codejar)
+  - An embeddable code editor for the browser 🍯
+- [stencil](https://github.com/ionic-team/stencil)
+  - A Web Component compiler for building fast, reusable UI components and Progressive Web Apps 💎 Built by the Ionic Framework team
+- [PeerTube](https://github.com/Chocobozzz/PeerTube)
+  - ActivityPub-federated video streaming platform using P2P directly in your web browser
+- [redoc](https://github.com/Redocly/redoc)
+  - 📘 OpenAPI/Swagger-generated API Reference Documentation
+- [formik](https://github.com/jaredpalmer/formik)
+  - Build forms in React, without the tears 😭
+- [grafana](https://github.com/grafana/grafana)
+  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [amazon-chime-sdk-js](https://github.com/aws/amazon-chime-sdk-js)
+  - A JavaScript client library for integrating multi-party communications powered by the Amazon Chime service.
+- [html2canvas](https://github.com/niklasvh/html2canvas)
+  - Screenshots with JavaScript
+- [apollo-client](https://github.com/apollographql/apollo-client)
+  - 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
+- [angular-oauth2-oidc](https://github.com/manfredsteyer/angular-oauth2-oidc)
+  - Support for OAuth 2 and OpenId Connect (OIDC) in Angular.
+- [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+  - ✨ Monorepo for all the tooling which enables ESLint to support TypeScript
+- [platform](https://github.com/ngrx/platform)
+  - Reactive libraries for Angular
+- [unform](https://github.com/Rocketseat/unform)
+  - Easy peasy high scalable ReactJS & React Native forms! 🚀
+- [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator)
+  - GraphQL code generator with flexible support for custom plugins and templates
+- [super-productivity](https://github.com/johannesjo/super-productivity)
+  - Free to do list & time tracker for programmers & designers with Jira integration
