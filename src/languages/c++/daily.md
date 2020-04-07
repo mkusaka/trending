@@ -1,51 +1,51 @@
 # c++
+- [onnxruntime](https://github.com/microsoft/onnxruntime)
+  - ONNX Runtime: cross-platform, high performance scoring engine for ML models
+- [googletest](https://github.com/google/googletest)
+  - Googletest - Google Testing and Mocking Framework
+- [openalpr](https://github.com/openalpr/openalpr)
+  - Automatic License Plate Recognition library
+- [ardupilot](https://github.com/ArduPilot/ardupilot)
+  - ArduPlane, ArduCopter, ArduRover source
+- [valhalla](https://github.com/valhalla/valhalla)
+  - Open Source Routing Engine for OpenStreetMap
+- [pybind11](https://github.com/pybind/pybind11)
+  - Seamless operability between C++11 and Python
+- [fmt](https://github.com/fmtlib/fmt)
+  - A modern formatting library
+- [solidity](https://github.com/ethereum/solidity)
+  - Solidity, the Contract-Oriented Programming Language
 - [viper](https://github.com/vcg-uvic/viper)
   - Open-source code for VIPER -- Volume Invariant Position-based Elastic Rods
-- [bitcoin](https://github.com/bitcoin/bitcoin)
-  - Bitcoin Core integration/staging tree
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [Marlin](https://github.com/MarlinFirmware/Marlin)
-  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
-- [srs](https://github.com/ossrs/srs)
-  - SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.
-- [imgui](https://github.com/ocornut/imgui)
-  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
-- [aseprite](https://github.com/aseprite/aseprite)
-  - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
-- [qBittorrent](https://github.com/qbittorrent/qBittorrent)
-  - qBittorrent BitTorrent client
-- [warzone2100](https://github.com/Warzone2100/warzone2100)
-  - Warzone 2100 - a free and open source real time strategy game.
-- [Firmware](https://github.com/PX4/Firmware)
-  - PX4 Autopilot Software
-- [subconverter](https://github.com/tindy2013/subconverter)
-  - Utility to convert between various subscription format
-- [SFML](https://github.com/SFML/SFML)
-  - Simple and Fast Multimedia Library
-- [rpcs3](https://github.com/RPCS3/rpcs3)
-  - PS3 emulator/debugger
+- [node-sass](https://github.com/sass/node-sass)
+  - 🌈 Node.js bindings to libsass
+- [vowpal_wabbit](https://github.com/VowpalWabbit/vowpal_wabbit)
+  - Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
+- [tensorflow](https://github.com/tensorflow/tensorflow)
+  - An Open Source Machine Learning Framework for Everyone
+- [xournalpp](https://github.com/xournalpp/xournalpp)
+  - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
 - [youtube](https://github.com/Errichto/youtube)
   - codes for my streams and YT videos
-- [mame](https://github.com/mamedev/mame)
-  - MAME
-- [Osiris](https://github.com/danielkrupinski/Osiris)
-  - Free open-source training software / cheat for Counter-Strike: Global Offensive, written in modern C++. GUI powered by imgui.
-- [bgfx](https://github.com/bkaradzic/bgfx)
-  - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
-- [FreeCAD](https://github.com/FreeCAD/FreeCAD)
-  - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker
 - [pytorch](https://github.com/pytorch/pytorch)
   - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [tesseract](https://github.com/tesseract-ocr/tesseract)
+  - Tesseract Open Source OCR Engine (main repository)
+- [protobuf](https://github.com/protocolbuffers/protobuf)
+  - Protocol Buffers - Google's data interchange format
 - [opencv](https://github.com/opencv/opencv)
   - Open Source Computer Vision Library
-- [OpenTTD](https://github.com/OpenTTD/OpenTTD)
-  - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
-- [mitsuba2](https://github.com/mitsuba-renderer/mitsuba2)
-  - Mitsuba 2: A Retargetable Forward and Inverse Renderer
-- [xgboost](https://github.com/dmlc/xgboost)
-  - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
-- [mediapipe](https://github.com/google/mediapipe)
-  - MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
-- [libtorrent](https://github.com/arvidn/libtorrent)
-  - an efficient feature complete C++ bittorrent implementation
+- [TrinityCore](https://github.com/TrinityCore/TrinityCore)
+  - TrinityCore Open Source MMO Framework (master = 8.3.0.33941, 3.3.5 = 3.3.5a.12340)
+- [bitcoin](https://github.com/bitcoin/bitcoin)
+  - Bitcoin Core integration/staging tree
+- [Marlin](https://github.com/MarlinFirmware/Marlin)
+  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
+- [serenity](https://github.com/SerenityOS/serenity)
+  - The Serenity Operating System 🐞
+- [Catch2](https://github.com/catchorg/Catch2)
+  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [emscripten](https://github.com/emscripten-core/emscripten)
+  - Emscripten: An LLVM-to-Web Compiler
+- [serving](https://github.com/tensorflow/serving)
+  - A flexible, high-performance serving system for machine learning models

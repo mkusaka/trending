@@ -1,51 +1,51 @@
 # general
-- [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) : Java
-  - spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…
-- [covid19](https://github.com/tokyo-metropolitan-gov/covid19) : Vue
-  - 東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
 - [playbook-ios](https://github.com/playbook-ui/playbook-ios) : Swift
   - 📘A library for isolated developing UI components and automatically snapshots of them.
-- [specs](https://github.com/ProteGO-app/specs) : 
-  - Opis, specyfikacja i zadania. Zacznij tutaj.
-- [rust](https://github.com/rust-lang/rust) : Rust
-  - Empowering everyone to build reliable and efficient software.
+- [pluradl.py](https://github.com/rojter-tech/pluradl.py) : Python
+  - Automated download of Pluralsight courses
 - [nodejs-backend-architecture-typescript](https://github.com/afteracademy/nodejs-backend-architecture-typescript) : TypeScript
   - Node.js Backend Architecture Typescript - Learn to build a backend server for Blogging platform like Medium, FreeCodeCamp, MindOrks, AfterAcademy - Learn to write unit and integration tests - Learn to use Docker image - Open-Source Project By AfterAcademy
-- [raylib](https://github.com/raysan5/raylib) : C
-  - A simple and easy-to-use library to enjoy videogames programming
-- [QuantumultX](https://github.com/nzw9314/QuantumultX) : 
-  - QuantumultX
-- [viper](https://github.com/vcg-uvic/viper) : C++
-  - Open-source code for VIPER -- Volume Invariant Position-based Elastic Rods
-- [Whole-Foods-Delivery-Slot](https://github.com/pcomputo/Whole-Foods-Delivery-Slot) : Python
-  - Automated script for Whole Foods and Amazon Fresh delivery slot
-- [Amazon-Fresh-Whole-Foods-delivery-slot-finder](https://github.com/ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder) : AppleScript
-  - A tool that finds available delivery slots for Amazon's Whole Foods delivery and Amazon Fresh services
-- [dlaicourse](https://github.com/lmoroney/dlaicourse) : Jupyter Notebook
-  - Notebooks for learning deep learning
-- [Nim](https://github.com/nim-lang/Nim) : Nim
-  - Nim is a compiled, garbage-collected systems programming language with a design that focuses on efficiency, expressiveness, and elegance (in that order of priority).
+- [InternetArchitect](https://github.com/bjmashibing/InternetArchitect) : CSS
+  - 年薪百万互联网架构师课程文档及源码(公开部分)
+- [svelte](https://github.com/sveltejs/svelte) : JavaScript
+  - Cybernetically enhanced web apps
+- [rclone](https://github.com/rclone/rclone) : Go
+  - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+- [RxSwift](https://github.com/ReactiveX/RxSwift) : Swift
+  - Reactive Programming in Swift
+- [EffectivePyTorch](https://github.com/vahidk/EffectivePyTorch) : 
+  - PyTorch tutorials and best practices.
 - [reverse-interview](https://github.com/viraptor/reverse-interview) : 
   - Questions to ask the company during your interview
-- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) : Python
-  - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
-- [reactos](https://github.com/reactos/reactos) : C
-  - A free Windows-compatible Operating System
-- [bitcoin](https://github.com/bitcoin/bitcoin) : C++
-  - Bitcoin Core integration/staging tree
-- [scikit-learn](https://github.com/scikit-learn/scikit-learn) : Python
-  - scikit-learn: machine learning in Python
+- [Amazon-Fresh-Whole-Foods-delivery-slot-finder](https://github.com/ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder) : AppleScript
+  - A tool that finds available delivery slots for Amazon's Whole Foods delivery and Amazon Fresh services
+- [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) : Java
+  - spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…
+- [Background-Matting](https://github.com/senguptaumd/Background-Matting) : Python
+  - Background Matting: The World is Your Green Screen
+- [pdown](https://github.com/pdown2020/pdown) : 
+  - 百度网盘下载器，2020百度网盘高速下载
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
   - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [MagicMirror](https://github.com/MichMich/MagicMirror) : JavaScript
-  - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
-  - 💯 Materials to help you rock your next coding interview
-- [covid19india-react](https://github.com/covid19india/covid19india-react) : JavaScript
-  - 📊 Source code of the main website
-- [godot](https://github.com/godotengine/godot) : C++
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [project-based-learning](https://github.com/tuvtran/project-based-learning) : 
-  - Curated list of project-based tutorials
-- [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) : Jupyter Notebook
-  - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) : JavaScript
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [craftinginterpreters](https://github.com/munificent/craftinginterpreters) : HTML
+  - Repository for the book "Crafting Interpreters"
+- [goproxy](https://github.com/snail007/goproxy) : Go
+  - Proxy是高性能全功能的http代理、https代理、socks5代理、内网穿透、内网穿透p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket代理、TCP代理、UDP代理、DNS代理、DNS加密代理，代理API认证，全能跨平台代理服务器。
+- [kivy](https://github.com/kivy/kivy) : Python
+  - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
+- [axios](https://github.com/axios/axios) : JavaScript
+  - Promise based HTTP client for the browser and node.js
+- [netdata](https://github.com/netdata/netdata) : C
+  - Real-time performance monitoring, done right! https://www.netdata.cloud
+- [QuantumultX](https://github.com/nzw9314/QuantumultX) : 
+  - QuantumultX
+- [zipline](https://github.com/quantopian/zipline) : Python
+  - Zipline, a Pythonic Algorithmic Trading Library
+- [learnopencv](https://github.com/spmallick/learnopencv) : Jupyter Notebook
+  - Learn OpenCV : C++ and Python Examples
+- [graphql-engine](https://github.com/hasura/graphql-engine) : JavaScript
+  - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) : PowerShell
+  - Azure Quickstart Templates

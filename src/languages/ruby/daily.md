@@ -1,51 +1,51 @@
 # ruby
+- [setup](https://github.com/lewagon/setup)
+  - Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp
+- [scalelite](https://github.com/blindsidenetworks/scalelite)
+  - Scalable load balancer for BigBlueButton.
 - [metasploit-framework](https://github.com/rapid7/metasploit-framework)
   - Metasploit Framework
+- [huginn](https://github.com/huginn/huginn)
+  - Create agents that monitor and act on your behalf. Your agents are standing by!
 - [mastodon](https://github.com/tootsuite/mastodon)
   - Your self-hosted, globally interconnected microblogging community
-- [chatwoot](https://github.com/chatwoot/chatwoot)
-  - Simple and elegant live chat software 🔥💬
-- [brew](https://github.com/Homebrew/brew)
-  - 🍺 The missing package manager for macOS (or Linux)
-- [jekyll](https://github.com/jekyll/jekyll)
-  - 🌐 Jekyll is a blog-aware static site generator in Ruby
-- [rubygems](https://github.com/rubygems/rubygems)
-  - Library packaging and distribution for Ruby.
-- [evil-winrm](https://github.com/Hackplayers/evil-winrm)
-  - The ultimate WinRM shell for hacking/pentesting
-- [homebrew-bundle](https://github.com/Homebrew/homebrew-bundle)
-  - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
-- [liquid](https://github.com/Shopify/liquid)
-  - Liquid markup language. Safe, customer facing template language for flexible web apps.
-- [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
-  - A curated list of engineering blogs
-- [css-only-chat](https://github.com/kkuchta/css-only-chat)
-  - A truly monstrous async web chat using no JS whatsoever on the frontend
-- [zsteg](https://github.com/zed-0xff/zsteg)
-  - detect stegano-hidden data in PNG & BMP
-- [spree](https://github.com/spree/spree)
-  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
-- [rails](https://github.com/rails/rails)
-  - Ruby on Rails
-- [ahoy](https://github.com/ankane/ahoy)
-  - Simple, powerful, first-party analytics for Rails
-- [greenlight](https://github.com/bigbluebutton/greenlight)
-  - A really simple end-user interface for your BigBlueButton server.
-- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
-  - Ruby implementation of GraphQL
-- [covid-volunteers](https://github.com/helpwithcovid/covid-volunteers)
-  - Organizing and matching volunteers with COVID-19 projects
-- [fluentd](https://github.com/fluent/fluentd)
-  - Fluentd: Unified Logging Layer (project under CNCF)
-- [rails_admin](https://github.com/sferik/rails_admin)
-  - RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data
-- [redis-rb](https://github.com/redis/redis-rb)
-  - A Ruby client library for Redis
-- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
-  - The Cocoa Dependency Manager.
-- [redmine](https://github.com/redmine/redmine)
-  - Mirror of redmine code source - Official SVN repository is at https://svn.redmine.org/redmine - contact: @jbbarth or jeanbaptiste.barth (at) gmail (dot) com
-- [gitlabhq](https://github.com/gitlabhq/gitlabhq)
-  - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
+- [capybara](https://github.com/teamcapybara/capybara)
+  - Acceptance test framework for web applications
 - [fastlane](https://github.com/fastlane/fastlane)
   - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [rswag](https://github.com/rswag/rswag)
+  - Seamlessly adds a Swagger to Rails-based API's
+- [discourse](https://github.com/discourse/discourse)
+  - A platform for community discussion. Free, open, simple.
+- [webpacker](https://github.com/rails/webpacker)
+  - Use Webpack to manage app-like JavaScript modules in Rails
+- [chatwoot](https://github.com/chatwoot/chatwoot)
+  - Simple and elegant live chat software 🔥💬
+- [logstash](https://github.com/elastic/logstash)
+  - Logstash - transport and process your logs, events, or other data
+- [factory_bot](https://github.com/thoughtbot/factory_bot)
+  - A library for setting up Ruby objects as test data.
+- [markup](https://github.com/github/markup)
+  - Determines which markup library to use to render a content file (e.g. README) on GitHub
+- [fluentd](https://github.com/fluent/fluentd)
+  - Fluentd: Unified Logging Layer (project under CNCF)
+- [activeadmin](https://github.com/activeadmin/activeadmin)
+  - The administration framework for Ruby on Rails applications.
+- [doorkeeper](https://github.com/doorkeeper-gem/doorkeeper)
+  - Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.
+- [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails)
+  - Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
+- [homebrew-openjdk](https://github.com/AdoptOpenJDK/homebrew-openjdk)
+  - AdoptOpenJDK HomeBrew Tap
+- [faker](https://github.com/faker-ruby/faker)
+  - A library for generating fake data such as names, addresses, and phone numbers.
+- [choosealicense.com](https://github.com/github/choosealicense.com)
+  - A site to provide non-judgmental guidance on choosing a license for your open source project
+- [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)
+  - Simple one-liner tests for common Rails functionality
+- [sidekiq-unique-jobs](https://github.com/mhenrixon/sidekiq-unique-jobs)
+  - Ensure uniqueness of your Sidekiq jobs
+- [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch)
+  - Ansible playbook for Elasticsearch
+- [pundit](https://github.com/varvet/pundit)
+  - Minimal authorization through OO design and pure Ruby classes

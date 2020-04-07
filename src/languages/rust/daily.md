@@ -1,51 +1,51 @@
 # rust
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [iced](https://github.com/hecrj/iced)
-  - A cross-platform GUI library for Rust, inspired by Elm
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
+- [servo](https://github.com/servo/servo)
+  - The Servo Browser Engine
 - [vector](https://github.com/timberio/vector)
   - A lightweight and ultra-fast tool for building observability pipelines
-- [gfx](https://github.com/gfx-rs/gfx)
-  - A low-overhead Vulkan-like GPU API for Rust.
-- [diesel](https://github.com/diesel-rs/diesel)
-  - A safe, extensible ORM and Query Builder for Rust
-- [rust-clippy](https://github.com/rust-lang/rust-clippy)
-  - A bunch of lints to catch common mistakes and improve your Rust code
-- [amethyst](https://github.com/amethyst/amethyst)
-  - Data-oriented and data-driven game engine written in Rust
-- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
-  - Rust bindings to wgpu native library
-- [rust-dataframe](https://github.com/nevi-me/rust-dataframe)
-  - A Rust DataFrame implementation, built on Apache Arrow
-- [rustlings](https://github.com/fmoko/rustlings)
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
-- [tokenizers](https://github.com/huggingface/tokenizers)
-  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
-- [book](https://github.com/rust-lang/book)
-  - The Rust Programming Language
-- [serde](https://github.com/serde-rs/serde)
-  - Serialization framework for Rust
-- [tide](https://github.com/http-rs/tide)
-  - Serve the web – ergonomic async http server framework
-- [pyo3](https://github.com/PyO3/pyo3)
-  - Rust bindings for the Python interpreter
+- [espanso](https://github.com/federico-terzi/espanso)
+  - Cross-platform Text Expander written in Rust
 - [wgpu](https://github.com/gfx-rs/wgpu)
   - Native WebGPU implementation based on gfx-hal
-- [juniper](https://github.com/graphql-rust/juniper)
-  - GraphQL server library for Rust
-- [rustfmt](https://github.com/rust-lang/rustfmt)
-  - Format Rust code
-- [examples](https://github.com/actix/examples)
-  - Actix web examples
-- [crossbeam](https://github.com/crossbeam-rs/crossbeam)
-  - Tools for concurrent programming in Rust
+- [nom](https://github.com/Geal/nom)
+  - Rust parser combinator framework
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
+- [spotify-tui](https://github.com/Rigellute/spotify-tui)
+  - Spotify for the terminal written in Rust 🚀
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
+- [lsd](https://github.com/Peltoche/lsd)
+  - The next gen ls command
+- [amethyst](https://github.com/amethyst/amethyst)
+  - Data-oriented and data-driven game engine written in Rust
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
 - [firecracker](https://github.com/firecracker-microvm/firecracker)
   - Secure and fast microVMs for serverless computing.
-- [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
-  - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
+- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
+  - Rust bindings to wgpu native library
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
+- [tokenizers](https://github.com/huggingface/tokenizers)
+  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [jormungandr](https://github.com/input-output-hk/jormungandr)
+  - aspiring blockchain node
+- [starship](https://github.com/starship/starship)
+  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [boringtun](https://github.com/cloudflare/boringtun)
+  - Userspace WireGuard® Implementation in Rust
+- [crossbeam](https://github.com/crossbeam-rs/crossbeam)
+  - Tools for concurrent programming in Rust
+- [wasmer](https://github.com/wasmerio/wasmer)
+  - 🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten
+- [book](https://github.com/rust-lang/book)
+  - The Rust Programming Language
+- [tracing](https://github.com/tokio-rs/tracing)
+  - Application level tracing for Rust.
+- [coreutils](https://github.com/uutils/coreutils)
+  - Cross-platform Rust rewrite of the GNU coreutils
+- [CEN](https://github.com/Co-Epi/CEN)
+  - Specification and reference implementation of the CEN Protocol for decentralized, privacy-preserving contact tracing.

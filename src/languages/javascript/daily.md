@@ -1,51 +1,51 @@
 # javascript
-- [MagicMirror](https://github.com/MichMich/MagicMirror)
-  - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
-  - 💯 Materials to help you rock your next coding interview
-- [covid19india-react](https://github.com/covid19india/covid19india-react)
-  - 📊 Source code of the main website
-- [Motrix](https://github.com/agalwood/Motrix)
-  - A full-featured download manager.
-- [graphql-engine](https://github.com/hasura/graphql-engine)
-  - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
-- [html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
-  - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [svelte](https://github.com/sveltejs/svelte)
   - Cybernetically enhanced web apps
-- [RSSHub](https://github.com/DIYgod/RSSHub)
-  - 🍰 Everything is RSSible
-- [nCovMemory](https://github.com/2019ncovmemory/nCovMemory)
-  - 2020新冠肺炎记忆：报道、非虚构与个人叙述（持续更新） Memory of 2020 nCoV: Media Coverage, Non-fiction Writings, and Individual Narratives (Continuously updating)
-- [react-trello](https://github.com/rcdexta/react-trello)
-  - Pluggable components to add a kanban board to your application
-- [react-material-admin](https://github.com/flatlogic/react-material-admin)
-  - ☄️React Material Admin is a React template built with Material-UI
-- [immer](https://github.com/immerjs/immer)
-  - Create the next immutable state by mutating the current one
-- [web3.js](https://github.com/ethereum/web3.js)
-  - Ethereum JavaScript API
-- [netflix-1080p](https://github.com/truedread/netflix-1080p)
-  - Chrome extension to play Netflix in 1080p and 5.1
-- [notyf](https://github.com/caroso1222/notyf)
-  - 👻 A minimalistic, responsive, vanilla JavaScript library to show toast notifications.
-- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
-  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [axios](https://github.com/axios/axios)
+  - Promise based HTTP client for the browser and node.js
+- [graphql-engine](https://github.com/hasura/graphql-engine)
+  - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+- [node](https://github.com/nodejs/node)
+  - Node.js JavaScript runtime ✨🐢🚀✨
+- [plotly.js](https://github.com/plotly/plotly.js)
+  - Open-source JavaScript charting library behind Plotly and Dash
+- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
+  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+  - 💯 Materials to help you rock your next coding interview
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+  - The ultimate Free Open Source Solution for team communications.
+- [slate](https://github.com/slatedocs/slate)
+  - Beautiful static documentation for your API
+- [posthog](https://github.com/PostHog/posthog)
+  - 🦔 PostHog is developer-friendly, open-source product analytics.
+- [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+  - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [gatsby](https://github.com/gatsbyjs/gatsby)
   - Build blazing fast, modern apps and websites with React
-- [alpine](https://github.com/alpinejs/alpine)
-  - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [next.js](https://github.com/zeit/next.js)
-  - The React Framework
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [acorn](https://github.com/acornjs/acorn)
-  - A small, fast, JavaScript-based JavaScript parser
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-  - freeCodeCamp.org's open source codebase and curriculum. Learn to code for free together with millions of people.
-- [svelte-routing](https://github.com/EmilTholin/svelte-routing)
-  - A declarative Svelte routing library with SSR support
+- [moment](https://github.com/moment/moment)
+  - Parse, validate, manipulate, and display dates in javascript.
 - [functions-samples](https://github.com/firebase/functions-samples)
   - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase
-- [JavaScript-21-Days-Challenge](https://github.com/lvarayut/JavaScript-21-Days-Challenge)
-  - 🔥 คอร์สฟรี! สร้าง 21 โปรเจค ใน 21 วัน ไม่ใช้เฟรมเวิร์ค ไม่ใช้ไลบรารี
+- [nuxt.js](https://github.com/nuxt/nuxt.js)
+  - The Vue.js Framework
+- [JavaGuide-Interview](https://github.com/Snailclimb/JavaGuide-Interview)
+  - JavaGuide面试突击版
+- [odoo](https://github.com/odoo/odoo)
+  - Odoo. Open Source Apps To Grow Your Business.
+- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
+  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+- [minimist](https://github.com/substack/minimist)
+  - parse argument options
+- [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js)
+  - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
+- [lodash](https://github.com/lodash/lodash)
+  - A modern JavaScript utility library delivering modularity, performance, & extras.
+- [outline](https://github.com/outline/outline)
+  - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [multiparty-meeting](https://github.com/havfo/multiparty-meeting)
+  - Multiparty web-meetings using mediasoup and WebRTC
