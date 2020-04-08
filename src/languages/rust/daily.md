@@ -1,51 +1,51 @@
 # rust
-- [servo](https://github.com/servo/servo)
-  - The Servo Browser Engine
-- [vector](https://github.com/timberio/vector)
-  - A lightweight and ultra-fast tool for building observability pipelines
-- [espanso](https://github.com/federico-terzi/espanso)
-  - Cross-platform Text Expander written in Rust
-- [wgpu](https://github.com/gfx-rs/wgpu)
-  - Native WebGPU implementation based on gfx-hal
-- [nom](https://github.com/Geal/nom)
-  - Rust parser combinator framework
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [spotify-tui](https://github.com/Rigellute/spotify-tui)
-  - Spotify for the terminal written in Rust 🚀
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
-- [lsd](https://github.com/Peltoche/lsd)
-  - The next gen ls command
-- [amethyst](https://github.com/amethyst/amethyst)
-  - Data-oriented and data-driven game engine written in Rust
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [substrate](https://github.com/paritytech/substrate)
-  - Substrate: The platform for blockchain innovators
-- [firecracker](https://github.com/firecracker-microvm/firecracker)
-  - Secure and fast microVMs for serverless computing.
-- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
-  - Rust bindings to wgpu native library
-- [bat](https://github.com/sharkdp/bat)
-  - A cat(1) clone with wings.
-- [tokenizers](https://github.com/huggingface/tokenizers)
-  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
-- [jormungandr](https://github.com/input-output-hk/jormungandr)
-  - aspiring blockchain node
+- [warp](https://github.com/seanmonstar/warp)
+  - A super-easy, composable, web server framework for warp speeds.
 - [starship](https://github.com/starship/starship)
   - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [boringtun](https://github.com/cloudflare/boringtun)
-  - Userspace WireGuard® Implementation in Rust
+- [tree-sitter](https://github.com/tree-sitter/tree-sitter)
+  - An incremental parsing system for programming tools
+- [OpenPAL3](https://github.com/dontpanic92/OpenPAL3)
+  - 仙三开源版 - The efforts to create an open-source implementation of Chinese Paladin 3
+- [clap](https://github.com/clap-rs/clap)
+  - A full featured, fast Command Line Argument Parser for Rust
+- [examples](https://github.com/actix/examples)
+  - Actix web examples
+- [vector](https://github.com/timberio/vector)
+  - A lightweight and ultra-fast tool for building observability pipelines
+- [dns-over-wikipedia](https://github.com/aaronjanse/dns-over-wikipedia)
+  - Redirect `.idk` domains using the official link found on a topic's Wikipedia page
 - [crossbeam](https://github.com/crossbeam-rs/crossbeam)
   - Tools for concurrent programming in Rust
-- [wasmer](https://github.com/wasmerio/wasmer)
-  - 🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten
-- [book](https://github.com/rust-lang/book)
-  - The Rust Programming Language
-- [tracing](https://github.com/tokio-rs/tracing)
-  - Application level tracing for Rust.
-- [coreutils](https://github.com/uutils/coreutils)
-  - Cross-platform Rust rewrite of the GNU coreutils
-- [CEN](https://github.com/Co-Epi/CEN)
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
+- [wgpu](https://github.com/gfx-rs/wgpu)
+  - Native WebGPU implementation based on gfx-hal
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
+- [tokenizers](https://github.com/huggingface/tokenizers)
+  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [monolith](https://github.com/Y2Z/monolith)
+  - ⬛️ CLI tool for saving complete web pages as a single HTML file
+- [cargo](https://github.com/rust-lang/cargo)
+  - The Rust package manager
+- [TCN](https://github.com/TCNCoalition/TCN)
   - Specification and reference implementation of the CEN Protocol for decentralized, privacy-preserving contact tracing.
+- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
+  - Rust bindings to wgpu native library
+- [spotify-tui](https://github.com/Rigellute/spotify-tui)
+  - Spotify for the terminal written in Rust 🚀
+- [rust-clippy](https://github.com/rust-lang/rust-clippy)
+  - A bunch of lints to catch common mistakes and improve your Rust code
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
+- [quiche](https://github.com/cloudflare/quiche)
+  - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+- [chalk](https://github.com/rust-lang/chalk)
+  - A PROLOG-ish interpreter written in Rust, intended eventually for use in the compiler
+- [boringtun](https://github.com/cloudflare/boringtun)
+  - Userspace WireGuard® Implementation in Rust
+- [nom](https://github.com/Geal/nom)
+  - Rust parser combinator framework
