@@ -1,51 +1,51 @@
 # typescript
+- [components](https://github.com/angular/components)
+  - Component infrastructure and Material Design components for Angular
 - [nodejs-backend-architecture-typescript](https://github.com/afteracademy/nodejs-backend-architecture-typescript)
   - Node.js Backend Architecture Typescript - Learn to build a backend server for Blogging platform like Medium, FreeCodeCamp, MindOrks, AfterAcademy - Learn to write unit and integration tests - Learn to use Docker image - Open-Source Project By AfterAcademy
-- [react-native-webview](https://github.com/react-native-community/react-native-webview)
-  - React Native Cross-Platform WebView
-- [theia](https://github.com/eclipse-theia/theia)
-  - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [rxjs](https://github.com/ReactiveX/rxjs)
-  - A reactive programming library for JavaScript
-- [react](https://github.com/zeit-ui/react)
-  - React implementation for ZEIT design.
-- [covid19_scenarios](https://github.com/neherlab/covid19_scenarios)
-  - Models of COVID-19 outbreak trajectories and hospital demand
+- [vuetify](https://github.com/vuetifyjs/vuetify)
+  - 🐉 Material Component Framework for Vue
+- [ant-design](https://github.com/ant-design/ant-design)
+  - 🌈 A UI Design Language and React UI library
+- [react-native-paper](https://github.com/callstack/react-native-paper)
+  - Material Design for React Native (Android & iOS)
 - [angular](https://github.com/angular/angular)
   - One framework. Mobile & desktop.
-- [sp-dev-fx-webparts](https://github.com/SharePoint/sp-dev-fx-webparts)
-  - SharePoint Framework client-side web part samples and related assets.
-- [google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client)
-  - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
-- [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)
-  - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
-- [codejar](https://github.com/antonmedv/codejar)
-  - An embeddable code editor for the browser 🍯
-- [stencil](https://github.com/ionic-team/stencil)
-  - A Web Component compiler for building fast, reusable UI components and Progressive Web Apps 💎 Built by the Ionic Framework team
-- [PeerTube](https://github.com/Chocobozzz/PeerTube)
-  - ActivityPub-federated video streaming platform using P2P directly in your web browser
-- [redoc](https://github.com/Redocly/redoc)
-  - 📘 OpenAPI/Swagger-generated API Reference Documentation
-- [formik](https://github.com/jaredpalmer/formik)
-  - Build forms in React, without the tears 😭
-- [grafana](https://github.com/grafana/grafana)
-  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [amazon-chime-sdk-js](https://github.com/aws/amazon-chime-sdk-js)
-  - A JavaScript client library for integrating multi-party communications powered by the Amazon Chime service.
-- [html2canvas](https://github.com/niklasvh/html2canvas)
-  - Screenshots with JavaScript
-- [apollo-client](https://github.com/apollographql/apollo-client)
-  - 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
-- [angular-oauth2-oidc](https://github.com/manfredsteyer/angular-oauth2-oidc)
-  - Support for OAuth 2 and OpenId Connect (OIDC) in Angular.
-- [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
-  - ✨ Monorepo for all the tooling which enables ESLint to support TypeScript
-- [platform](https://github.com/ngrx/platform)
-  - Reactive libraries for Angular
-- [unform](https://github.com/Rocketseat/unform)
-  - Easy peasy high scalable ReactJS & React Native forms! 🚀
-- [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator)
-  - GraphQL code generator with flexible support for custom plugins and templates
+- [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
+  - Tasks for Azure Pipelines
+- [mkdocs-material](https://github.com/squidfunk/mkdocs-material)
+  - A Material Design theme for MkDocs
+- [Angular-JumpStart](https://github.com/DanWahlin/Angular-JumpStart)
+  - Angular and TypeScript JumpStart example application
+- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
+  - The source for REST API specifications for Microsoft Azure.
+- [react-admin](https://github.com/marmelab/react-admin)
+  - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
+- [angular-cli](https://github.com/angular/angular-cli)
+  - CLI tool for Angular
+- [ionic](https://github.com/ionic-team/ionic)
+  - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
+- [react-intl](https://github.com/formatjs/react-intl)
+  - Internationalize React apps. This library provides React components and an API to format dates, numbers, and strings, including pluralization and handling translations.
+- [GitCracken](https://github.com/5cr1pt/GitCracken)
+  - Crack GitKraken
+- [react-native-webview](https://github.com/react-native-community/react-native-webview)
+  - React Native Cross-Platform WebView
+- [terminus](https://github.com/Eugeny/terminus)
+  - A terminal for a more modern age
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+  - The repository for high quality TypeScript type definitions.
 - [super-productivity](https://github.com/johannesjo/super-productivity)
   - Free to do list & time tracker for programmers & designers with Jira integration
+- [vscode](https://github.com/microsoft/vscode)
+  - Visual Studio Code
+- [rap2-delos](https://github.com/thx/rap2-delos)
+  - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
+- [ngx-datatable](https://github.com/swimlane/ngx-datatable)
+  - ✨ A feature-rich yet lightweight data-table crafted for Angular
+- [pixi.js](https://github.com/pixijs/pixi.js)
+  - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+- [react-native-tab-view](https://github.com/react-native-community/react-native-tab-view)
+  - A cross-platform Tab View component for React Native
+- [TypeScript](https://github.com/microsoft/TypeScript)
+  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.

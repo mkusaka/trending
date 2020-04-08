@@ -1,51 +1,51 @@
 # go
-- [rclone](https://github.com/rclone/rclone)
-  - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
-- [goproxy](https://github.com/snail007/goproxy)
-  - Proxy是高性能全功能的http代理、https代理、socks5代理、内网穿透、内网穿透p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket代理、TCP代理、UDP代理、DNS代理、DNS加密代理，代理API认证，全能跨平台代理服务器。
-- [tailscale](https://github.com/tailscale/tailscale)
-  - The easiest, most secure way to use WireGuard and 2FA.
-- [gobinaries](https://github.com/tj/gobinaries)
-  - Golang binaries compiled on-demand for your system
-- [grpc-go](https://github.com/grpc/grpc-go)
-  - The Go language implementation of gRPC. HTTP/2 based RPC
-- [argo-cd](https://github.com/argoproj/argo-cd)
-  - Declarative continuous deployment for Kubernetes.
-- [terragrunt](https://github.com/gruntwork-io/terragrunt)
-  - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
-- [oneinfra](https://github.com/oneinfra/oneinfra)
-  - Kubernetes as a Service
-- [gnet](https://github.com/panjf2000/gnet)
-  - 🚀gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
-- [nuclei](https://github.com/projectdiscovery/nuclei)
-  - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
-- [sqlboiler](https://github.com/volatiletech/sqlboiler)
-  - Generate a Go ORM tailored to your database schema.
-- [filestash](https://github.com/mickael-kerjean/filestash)
-  - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
-- [k9s](https://github.com/derailed/k9s)
-  - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [crawlab](https://github.com/crawlab-team/crawlab)
+  - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
+- [logrus](https://github.com/sirupsen/logrus)
+  - Structured, pluggable logging for Go.
 - [kubernetes](https://github.com/kubernetes/kubernetes)
   - Production-Grade Container Scheduling and Management
-- [spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator)
-  - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
-- [sops](https://github.com/mozilla/sops)
-  - Simple and flexible tool for managing secrets
-- [aws-alb-ingress-controller](https://github.com/kubernetes-sigs/aws-alb-ingress-controller)
-  - AWS ALB Ingress Controller for Kubernetes
-- [migrate](https://github.com/golang-migrate/migrate)
-  - Database migrations. CLI and Golang library.
-- [goproxy](https://github.com/elazarl/goproxy)
-  - An HTTP proxy library for Go
-- [charts](https://github.com/helm/charts)
-  - Curated applications for Kubernetes
-- [packer](https://github.com/hashicorp/packer)
-  - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-- [gpass](https://github.com/yakuter/gpass)
-  - gpass is an open source password manager API written with Go
-- [atlantis](https://github.com/runatlantis/atlantis)
-  - Terraform Pull Request Automation
+- [rclone](https://github.com/rclone/rclone)
+  - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+- [eksctl](https://github.com/weaveworks/eksctl)
+  - The official CLI for Amazon EKS
 - [mongo-go-driver](https://github.com/mongodb/mongo-go-driver)
   - The Go driver for MongoDB
-- [loki](https://github.com/grafana/loki)
-  - Like Prometheus, but for logs.
+- [thanos](https://github.com/thanos-io/thanos)
+  - Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.
+- [sealos](https://github.com/fanux/sealos)
+  - kubernetes高可用安装（kubernetes install）工具，一条命令，离线安装，包含所有依赖，内核负载不依赖haproxy keepalived,纯golang开发,99年证书,支持v1.16.8 v1.15.11 v1.17.4 v1.18.0!
+- [redis](https://github.com/go-redis/redis)
+  - Type-safe Redis client for Golang
+- [moby](https://github.com/moby/moby)
+  - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [yq](https://github.com/mikefarah/yq)
+  - yq is a portable command-line YAML processor
+- [goproxy](https://github.com/snail007/goproxy)
+  - Proxy是高性能全功能的http代理、https代理、socks5代理、内网穿透、内网穿透p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket代理、TCP代理、UDP代理、DNS代理、DNS加密代理，代理API认证，全能跨平台代理服务器。
+- [cron](https://github.com/robfig/cron)
+  - a cron library for go
+- [flux](https://github.com/fluxcd/flux)
+  - The GitOps Kubernetes operator
+- [tidb](https://github.com/pingcap/tidb)
+  - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+- [go](https://github.com/golang/go)
+  - The Go programming language
+- [packer](https://github.com/hashicorp/packer)
+  - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+- [minio](https://github.com/minio/minio)
+  - MinIO is a high performance object storage server compatible with Amazon S3 APIs
+- [kops](https://github.com/kubernetes/kops)
+  - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
+- [go-interview](https://github.com/shomali11/go-interview)
+  - Collection of Technical Interview Questions solved with Go
+- [argo](https://github.com/argoproj/argo)
+  - Argo Workflows: Get stuff done with Kubernetes.
+- [blackbox_exporter](https://github.com/prometheus/blackbox_exporter)
+  - Blackbox prober exporter
+- [websocket](https://github.com/gorilla/websocket)
+  - A fast, well-tested and widely used WebSocket implementation for Go.
+- [echo](https://github.com/labstack/echo)
+  - High performance, minimalist Go web framework
+- [cri-o](https://github.com/cri-o/cri-o)
+  - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface

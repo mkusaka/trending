@@ -1,51 +1,49 @@
 # general
-- [playbook-ios](https://github.com/playbook-ui/playbook-ios) : Swift
-  - 📘A library for isolated developing UI components and automatically snapshots of them.
-- [pluradl.py](https://github.com/rojter-tech/pluradl.py) : Python
-  - Automated download of Pluralsight courses
-- [nodejs-backend-architecture-typescript](https://github.com/afteracademy/nodejs-backend-architecture-typescript) : TypeScript
-  - Node.js Backend Architecture Typescript - Learn to build a backend server for Blogging platform like Medium, FreeCodeCamp, MindOrks, AfterAcademy - Learn to write unit and integration tests - Learn to use Docker image - Open-Source Project By AfterAcademy
-- [InternetArchitect](https://github.com/bjmashibing/InternetArchitect) : CSS
-  - 年薪百万互联网架构师课程文档及源码(公开部分)
-- [svelte](https://github.com/sveltejs/svelte) : JavaScript
-  - Cybernetically enhanced web apps
-- [rclone](https://github.com/rclone/rclone) : Go
-  - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
-- [RxSwift](https://github.com/ReactiveX/RxSwift) : Swift
-  - Reactive Programming in Swift
-- [EffectivePyTorch](https://github.com/vahidk/EffectivePyTorch) : 
-  - PyTorch tutorials and best practices.
-- [reverse-interview](https://github.com/viraptor/reverse-interview) : 
-  - Questions to ask the company during your interview
-- [Amazon-Fresh-Whole-Foods-delivery-slot-finder](https://github.com/ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder) : AppleScript
-  - A tool that finds available delivery slots for Amazon's Whole Foods delivery and Amazon Fresh services
-- [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) : Java
-  - spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…
-- [Background-Matting](https://github.com/senguptaumd/Background-Matting) : Python
-  - Background Matting: The World is Your Green Screen
-- [pdown](https://github.com/pdown2020/pdown) : 
-  - 百度网盘下载器，2020百度网盘高速下载
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
-  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) : JavaScript
-  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
-- [craftinginterpreters](https://github.com/munificent/craftinginterpreters) : HTML
-  - Repository for the book "Crafting Interpreters"
-- [goproxy](https://github.com/snail007/goproxy) : Go
-  - Proxy是高性能全功能的http代理、https代理、socks5代理、内网穿透、内网穿透p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket代理、TCP代理、UDP代理、DNS代理、DNS加密代理，代理API认证，全能跨平台代理服务器。
-- [kivy](https://github.com/kivy/kivy) : Python
-  - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
-- [axios](https://github.com/axios/axios) : JavaScript
-  - Promise based HTTP client for the browser and node.js
-- [netdata](https://github.com/netdata/netdata) : C
-  - Real-time performance monitoring, done right! https://www.netdata.cloud
-- [QuantumultX](https://github.com/nzw9314/QuantumultX) : 
-  - QuantumultX
-- [zipline](https://github.com/quantopian/zipline) : Python
-  - Zipline, a Pythonic Algorithmic Trading Library
-- [learnopencv](https://github.com/spmallick/learnopencv) : Jupyter Notebook
-  - Learn OpenCV : C++ and Python Examples
-- [graphql-engine](https://github.com/hasura/graphql-engine) : JavaScript
-  - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 - [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) : PowerShell
   - Azure Quickstart Templates
+- [pluradl.py](https://github.com/rojter-tech/pluradl.py) : Python
+  - Automated download of Pluralsight courses
+- [ac-nh-turnip-prices](https://github.com/mikebryant/ac-nh-turnip-prices) : JavaScript
+  - Price calculator/predictor for Turnip prices
+- [awesome-compose](https://github.com/docker/awesome-compose) : HTML
+  - Awesome Docker Compose samples
+- [wuhan2020-timeline](https://github.com/Pratitya/wuhan2020-timeline) : 
+  - 以 社会学年鉴模式体例规范地统编自2019年12月起武汉新冠肺炎疫情进展的时间线。
+- [spring-analysis](https://github.com/seaswalker/spring-analysis) : Java
+  - Spring源码阅读
+- [text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer) : Python
+  - Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"
+- [components](https://github.com/angular/components) : TypeScript
+  - Component infrastructure and Material Design components for Angular
+- [skillbox-async-chat](https://github.com/manchenkoff/skillbox-async-chat) : Python
+  - Пример клиент-серверного чата на Python для Skillbox
+- [crawlab](https://github.com/crawlab-team/crawlab) : Go
+  - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
+- [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) : Java
+  - spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…
+- [pybind11](https://github.com/pybind/pybind11) : C++
+  - Seamless operability between C++11 and Python
+- [Background-Matting](https://github.com/senguptaumd/Background-Matting) : Python
+  - Background Matting: The World is Your Green Screen
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) : JavaScript
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) : Java
+  - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
+- [analytics-handbook](https://github.com/devinpleuler/analytics-handbook) : Jupyter Notebook
+  - Getting started with soccer analytics
+- [anime](https://github.com/juliangarnier/anime) : JavaScript
+  - JavaScript animation engine
+- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) : CSS
+  - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate, sorry
+- [grpc](https://github.com/grpc/grpc) : C++
+  - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [framework](https://github.com/laravel/framework) : PHP
+- [flutter_roadmap](https://github.com/olexale/flutter_roadmap) : 
+- [brim](https://github.com/brimsec/brim) : JavaScript
+  - Desktop application to efficiently search large packet captures and Zeek logs.
+- [Whole-Foods-Delivery-Slot](https://github.com/pcomputo/Whole-Foods-Delivery-Slot) : Python
+  - Automated script for Whole Foods and Amazon Fresh delivery slot
+- [deplacement-covid-19](https://github.com/LAB-MI/deplacement-covid-19) : HTML
+  - Service de génération de l'attestation de déplacement dérogatoire à présenter dans le cadre du confinement lié au virus covid-19
+- [nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch) : Python
+  - A PyTorch implementation of NeRF (Neural Radiance Fields) that reproduces the results.
