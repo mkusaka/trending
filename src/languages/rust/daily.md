@@ -1,51 +1,51 @@
 # rust
-- [warp](https://github.com/seanmonstar/warp)
-  - A super-easy, composable, web server framework for warp speeds.
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [tree-sitter](https://github.com/tree-sitter/tree-sitter)
-  - An incremental parsing system for programming tools
-- [OpenPAL3](https://github.com/dontpanic92/OpenPAL3)
-  - 仙三开源版 - The efforts to create an open-source implementation of Chinese Paladin 3
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
-- [examples](https://github.com/actix/examples)
-  - Actix web examples
-- [vector](https://github.com/timberio/vector)
-  - A lightweight and ultra-fast tool for building observability pipelines
-- [dns-over-wikipedia](https://github.com/aaronjanse/dns-over-wikipedia)
-  - Redirect `.idk` domains using the official link found on a topic's Wikipedia page
-- [crossbeam](https://github.com/crossbeam-rs/crossbeam)
-  - Tools for concurrent programming in Rust
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
-- [wgpu](https://github.com/gfx-rs/wgpu)
-  - Native WebGPU implementation based on gfx-hal
-- [substrate](https://github.com/paritytech/substrate)
-  - Substrate: The platform for blockchain innovators
-- [tokenizers](https://github.com/huggingface/tokenizers)
-  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
-- [monolith](https://github.com/Y2Z/monolith)
-  - ⬛️ CLI tool for saving complete web pages as a single HTML file
-- [cargo](https://github.com/rust-lang/cargo)
-  - The Rust package manager
+- [juniper](https://github.com/graphql-rust/juniper)
+  - GraphQL server library for Rust
+- [solana](https://github.com/solana-labs/solana)
+  - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [TCN](https://github.com/TCNCoalition/TCN)
   - Specification and reference implementation of the CEN Protocol for decentralized, privacy-preserving contact tracing.
-- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
-  - Rust bindings to wgpu native library
-- [spotify-tui](https://github.com/Rigellute/spotify-tui)
-  - Spotify for the terminal written in Rust 🚀
-- [rust-clippy](https://github.com/rust-lang/rust-clippy)
-  - A bunch of lints to catch common mistakes and improve your Rust code
-- [bat](https://github.com/sharkdp/bat)
-  - A cat(1) clone with wings.
+- [krustlet](https://github.com/deislabs/krustlet)
+  - Kubernetes Rust Kubelet
+- [warp](https://github.com/seanmonstar/warp)
+  - A super-easy, composable, web server framework for warp speeds.
+- [openethereum](https://github.com/openethereum/openethereum)
+  - Fast and feature-rich multi-network Ethereum client.
 - [quiche](https://github.com/cloudflare/quiche)
   - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
-- [chalk](https://github.com/rust-lang/chalk)
-  - A PROLOG-ish interpreter written in Rust, intended eventually for use in the compiler
-- [boringtun](https://github.com/cloudflare/boringtun)
-  - Userspace WireGuard® Implementation in Rust
+- [servo](https://github.com/servo/servo)
+  - The Servo Browser Engine
+- [ncspot](https://github.com/hrkfdn/ncspot)
+  - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
+- [diesel](https://github.com/diesel-rs/diesel)
+  - A safe, extensible ORM and Query Builder for Rust
+- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
+  - Rust bindings to wgpu native library
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
+- [static-analysis](https://github.com/analysis-tools-dev/static-analysis)
+  - Static analysis tools for all programming languages, build tools, config files and more.
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [piston](https://github.com/PistonDevelopers/piston)
+  - A modular game engine written in Rust
+- [sqlx](https://github.com/launchbadge/sqlx)
+  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+- [talent-plan](https://github.com/pingcap/talent-plan)
+  - PingCAP training courses
+- [tikv](https://github.com/tikv/tikv)
+  - Distributed transactional key-value database, originally created to complement TiDB
+- [wasmtime](https://github.com/bytecodealliance/wasmtime)
+  - Standalone JIT-style runtime for WebAssembly, using Cranelift
+- [OpenPAL3](https://github.com/dontpanic92/OpenPAL3)
+  - 仙三开源版 - The efforts to create an open-source implementation of Chinese Paladin 3
 - [nom](https://github.com/Geal/nom)
   - Rust parser combinator framework
+- [alacritty](https://github.com/alacritty/alacritty)
+  - A cross-platform, GPU-accelerated terminal emulator
+- [clap](https://github.com/clap-rs/clap)
+  - A full featured, fast Command Line Argument Parser for Rust
+- [SafeTrace](https://github.com/enigmampc/SafeTrace)
+  - Privacy preserving voluntary Covid-19 self-reporting platform. Share your location history and status, get alerts you are in high risk areas and identify high risk regions
+- [websocat](https://github.com/vi/websocat)
+  - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions

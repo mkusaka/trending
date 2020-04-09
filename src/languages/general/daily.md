@@ -1,49 +1,51 @@
 # general
 - [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) : PowerShell
   - Azure Quickstart Templates
+- [rakning-c19-app](https://github.com/aranja/rakning-c19-app) : JavaScript
+  - App that helps to analyse individuals’ travel and trace their movements when cases of infection arise.
+- [logrus](https://github.com/sirupsen/logrus) : Go
+  - Structured, pluggable logging for Go.
 - [pluradl.py](https://github.com/rojter-tech/pluradl.py) : Python
   - Automated download of Pluralsight courses
-- [ac-nh-turnip-prices](https://github.com/mikebryant/ac-nh-turnip-prices) : JavaScript
-  - Price calculator/predictor for Turnip prices
-- [awesome-compose](https://github.com/docker/awesome-compose) : HTML
-  - Awesome Docker Compose samples
-- [wuhan2020-timeline](https://github.com/Pratitya/wuhan2020-timeline) : 
-  - 以 社会学年鉴模式体例规范地统编自2019年12月起武汉新冠肺炎疫情进展的时间线。
-- [spring-analysis](https://github.com/seaswalker/spring-analysis) : Java
-  - Spring源码阅读
-- [text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer) : Python
-  - Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"
-- [components](https://github.com/angular/components) : TypeScript
-  - Component infrastructure and Material Design components for Angular
-- [skillbox-async-chat](https://github.com/manchenkoff/skillbox-async-chat) : Python
-  - Пример клиент-серверного чата на Python для Skillbox
+- [Amazon-Fresh-Whole-Foods-delivery-slot-finder](https://github.com/ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder) : AppleScript
+  - A Mac tool that finds available delivery slots for Amazon's Whole Foods delivery and Amazon Fresh services
 - [crawlab](https://github.com/crawlab-team/crawlab) : Go
   - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
-- [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) : Java
-  - spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…
-- [pybind11](https://github.com/pybind/pybind11) : C++
-  - Seamless operability between C++11 and Python
-- [Background-Matting](https://github.com/senguptaumd/Background-Matting) : Python
-  - Background Matting: The World is Your Green Screen
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) : JavaScript
-  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) : CSS
+  - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
+- [spring-analysis](https://github.com/seaswalker/spring-analysis) : Java
+  - Spring源码阅读
+- [awesome-compose](https://github.com/docker/awesome-compose) : HTML
+  - Awesome Docker Compose samples
+- [scikit-learn-tips](https://github.com/justmarkham/scikit-learn-tips) : Jupyter Notebook
+  - 🤖⚡ Daily scikit-learn tips
+- [web-skills](https://github.com/andreasbm/web-skills) : JavaScript
+  - A visual overview of useful skills to learn as a web developer
+- [Ghost-In-The-Logs](https://github.com/bats3c/Ghost-In-The-Logs) : C
+  - Evade sysmon and windows event logging
+- [SReC](https://github.com/caoscott/SReC) : Python
+  - PyTorch Implementation of "Lossless Image Compression through Super-Resolution"
+- [interview_internal_reference](https://github.com/0voice/interview_internal_reference) : Python
+  - 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
+- [reverse-interview](https://github.com/viraptor/reverse-interview) : 
+  - Questions to ask the company during your interview
+- [compose-spec](https://github.com/compose-spec/compose-spec) : Dockerfile
+  - The Compose specification
 - [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) : Java
   - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
-- [analytics-handbook](https://github.com/devinpleuler/analytics-handbook) : Jupyter Notebook
-  - Getting started with soccer analytics
-- [anime](https://github.com/juliangarnier/anime) : JavaScript
-  - JavaScript animation engine
-- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) : CSS
-  - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate, sorry
-- [grpc](https://github.com/grpc/grpc) : C++
-  - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-- [framework](https://github.com/laravel/framework) : PHP
-- [flutter_roadmap](https://github.com/olexale/flutter_roadmap) : 
-- [brim](https://github.com/brimsec/brim) : JavaScript
-  - Desktop application to efficiently search large packet captures and Zeek logs.
-- [Whole-Foods-Delivery-Slot](https://github.com/pcomputo/Whole-Foods-Delivery-Slot) : Python
-  - Automated script for Whole Foods and Amazon Fresh delivery slot
-- [deplacement-covid-19](https://github.com/LAB-MI/deplacement-covid-19) : HTML
-  - Service de génération de l'attestation de déplacement dérogatoire à présenter dans le cadre du confinement lié au virus covid-19
-- [nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch) : Python
-  - A PyTorch implementation of NeRF (Neural Radiance Fields) that reproduces the results.
+- [googletest](https://github.com/google/googletest) : C++
+  - Googletest - Google Testing and Mocking Framework
+- [face_recognition](https://github.com/ageitgey/face_recognition) : Python
+  - The world's simplest facial recognition api for Python and the command line
+- [skillbox-async-chat](https://github.com/manchenkoff/skillbox-async-chat) : Python
+  - Пример клиент-серверного чата на Python для Skillbox
+- [Learn-Jetpack-Compose-By-Example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example) : Kotlin
+  - This project contains various examples that show how you would do things the "Jetpack Compose" way
+- [wuhan2020-timeline](https://github.com/Pratitya/wuhan2020-timeline) : 
+  - 以 社会学年鉴模式体例规范地统编自2019年12月起武汉新冠肺炎疫情进展的时间线。
+- [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) : C++
+  - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
+- [deocclusion](https://github.com/XiaohangZhan/deocclusion) : Python
+  - Code for our CVPR 2020 work.
+- [text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer) : Python
+  - Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"
