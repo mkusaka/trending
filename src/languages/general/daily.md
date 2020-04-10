@@ -41,8 +41,8 @@
   - Пример клиент-серверного чата на Python для Skillbox
 - [Learn-Jetpack-Compose-By-Example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example) : Kotlin
   - This project contains various examples that show how you would do things the "Jetpack Compose" way
-- [wuhan2020-timeline](https://github.com/Pratitya/wuhan2020-timeline) : 
-  - 以 社会学年鉴模式体例规范地统编自2019年12月起武汉新冠肺炎疫情进展的时间线。
+- [COVID-19-timeline](https://github.com/Pratitya/COVID-19-timeline) : 
+  - 以 社会学年鉴模式体例规范地统编自2019年12月起新冠肺炎疫情进展的时间线。
 - [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) : C++
   - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
 - [deocclusion](https://github.com/XiaohangZhan/deocclusion) : Python
