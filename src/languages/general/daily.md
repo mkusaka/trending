@@ -1,51 +1,51 @@
 # general
-- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) : PowerShell
-  - Azure Quickstart Templates
-- [rakning-c19-app](https://github.com/aranja/rakning-c19-app) : JavaScript
-  - App that helps to analyse individuals’ travel and trace their movements when cases of infection arise.
-- [logrus](https://github.com/sirupsen/logrus) : Go
-  - Structured, pluggable logging for Go.
-- [pluradl.py](https://github.com/rojter-tech/pluradl.py) : Python
-  - Automated download of Pluralsight courses
-- [Amazon-Fresh-Whole-Foods-delivery-slot-finder](https://github.com/ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder) : AppleScript
-  - A Mac tool that finds available delivery slots for Amazon's Whole Foods delivery and Amazon Fresh services
-- [crawlab](https://github.com/crawlab-team/crawlab) : Go
-  - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
-- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) : CSS
-  - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
-- [spring-analysis](https://github.com/seaswalker/spring-analysis) : Java
-  - Spring源码阅读
-- [awesome-compose](https://github.com/docker/awesome-compose) : HTML
-  - Awesome Docker Compose samples
-- [scikit-learn-tips](https://github.com/justmarkham/scikit-learn-tips) : Jupyter Notebook
-  - 🤖⚡ Daily scikit-learn tips
-- [web-skills](https://github.com/andreasbm/web-skills) : JavaScript
-  - A visual overview of useful skills to learn as a web developer
-- [Ghost-In-The-Logs](https://github.com/bats3c/Ghost-In-The-Logs) : C
-  - Evade sysmon and windows event logging
-- [SReC](https://github.com/caoscott/SReC) : Python
-  - PyTorch Implementation of "Lossless Image Compression through Super-Resolution"
-- [interview_internal_reference](https://github.com/0voice/interview_internal_reference) : Python
-  - 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
-- [reverse-interview](https://github.com/viraptor/reverse-interview) : 
-  - Questions to ask the company during your interview
-- [compose-spec](https://github.com/compose-spec/compose-spec) : Dockerfile
-  - The Compose specification
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
+- [opentrace-android](https://github.com/opentrace-community/opentrace-android) : Kotlin
+  - OpenTrace Android app. Reference implementation of the BlueTrace protocol.
+- [opentrace-ios](https://github.com/opentrace-community/opentrace-ios) : Swift
+  - OpenTrace iOS app. Reference implementation of the BlueTrace protocol.
+- [opentrace-cloud-functions](https://github.com/opentrace-community/opentrace-cloud-functions) : TypeScript
+  - OpenTrace Cloud Functions. Reference implementation of the BlueTrace protocol.
+- [FairMOT](https://github.com/ifzhang/FairMOT) : Python
+  - A simple baseline for one-shot multi-object tracking
 - [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) : Java
   - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
-- [googletest](https://github.com/google/googletest) : C++
-  - Googletest - Google Testing and Mocking Framework
-- [face_recognition](https://github.com/ageitgey/face_recognition) : Python
-  - The world's simplest facial recognition api for Python and the command line
-- [skillbox-async-chat](https://github.com/manchenkoff/skillbox-async-chat) : Python
-  - Пример клиент-серверного чата на Python для Skillbox
-- [Learn-Jetpack-Compose-By-Example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example) : Kotlin
-  - This project contains various examples that show how you would do things the "Jetpack Compose" way
-- [COVID-19-timeline](https://github.com/Pratitya/COVID-19-timeline) : 
-  - 以 社会学年鉴模式体例规范地统编自2019年12月起新冠肺炎疫情进展的时间线。
-- [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) : C++
-  - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
-- [deocclusion](https://github.com/XiaohangZhan/deocclusion) : Python
-  - Code for our CVPR 2020 work.
-- [text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer) : Python
-  - Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"
+- [Flutter-Course-Resources](https://github.com/londonappbrewery/Flutter-Course-Resources) : 
+  - Learn to Code While Building Apps - The Complete Flutter Development Bootcamp
+- [avatarify](https://github.com/alievk/avatarify) : Python
+  - Avatars for Zoom and Skype
+- [tye](https://github.com/dotnet/tye) : C#
+  - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
+  - 📚 Freely available programming books
+- [libra](https://github.com/libra/libra) : Rust
+  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) : 
+  - Master the command line, in one page
+- [interview_internal_reference](https://github.com/0voice/interview_internal_reference) : Python
+  - 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
+- [deplacement-covid-19](https://github.com/LAB-MI/deplacement-covid-19) : HTML
+  - Service de génération de l'attestation de déplacement dérogatoire à présenter dans le cadre du confinement lié au virus covid-19
+- [jitsi-meet-electron](https://github.com/jitsi/jitsi-meet-electron) : JavaScript
+  - Jitsi Meet desktop application powered by
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [google-cloud-4-words](https://github.com/gregsramblings/google-cloud-4-words) : 
+  - The Google Cloud Developer's Cheat Sheet
+- [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) : TeX
+  - Cheat Sheets
+- [nerf](https://github.com/bmild/nerf) : Jupyter Notebook
+  - Code release for NeRF (Neural Radiance Fields)
+- [exphub](https://github.com/zhzyker/exphub) : Python
+  - Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat的漏洞利用脚本，均为亲测可用的脚本文件，优先更新高危且易利用的漏洞利用脚本，最近添加CVE-2020-1938、CVE-2020-2551、CVE-2019-2618、CVE-2019-6340
+- [PowerToys](https://github.com/microsoft/PowerToys) : C++
+  - Windows system utilities to maximize productivity
+- [Datos-COVID19](https://github.com/MinCiencia/Datos-COVID19) : Python
+  - En formato estándar
+- [opentrace-calibration](https://github.com/opentrace-community/opentrace-calibration) : 
+  - OpenTrace Calibration. Device calibration data and Trial Methodologies for testing implementations of the BlueTrace protocol.
+- [nlp-recipes](https://github.com/microsoft/nlp-recipes) : Python
+  - Natural Language Processing Best Practices & Examples
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
+  - 🤓 Build your own (insert technology here)

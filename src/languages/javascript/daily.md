@@ -1,51 +1,51 @@
 # javascript
-- [rakning-c19-app](https://github.com/aranja/rakning-c19-app)
-  - App that helps to analyse individuals’ travel and trace their movements when cases of infection arise.
-- [web-skills](https://github.com/andreasbm/web-skills)
-  - A visual overview of useful skills to learn as a web developer
-- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
-  - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-- [gostack-template-conceitos-nodejs](https://github.com/Rocketseat/gostack-template-conceitos-nodejs)
-  - Template para iniciar o desafio de Node.js do nível de "Conceitos importantes"
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
-- [javascript](https://github.com/airbnb/javascript)
-  - JavaScript Style Guide
-- [Motrix](https://github.com/agalwood/Motrix)
-  - A full-featured download manager.
-- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
-  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [reveal.js](https://github.com/hakimel/reveal.js)
-  - The HTML Presentation Framework
-- [playwright](https://github.com/microsoft/playwright)
-  - Node library to automate Chromium, Firefox and WebKit with a single API
-- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
-  - 🚀🚀🚀A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.
-- [ac-nh-turnip-prices](https://github.com/mikebryant/ac-nh-turnip-prices)
-  - Price calculator/predictor for Turnip prices
-- [realworld](https://github.com/gothinkster/realworld)
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue)
-  - BootstrapVue, with over 45 plugins, more than 85 custom components and over 500 icons, provides one of the most comprehensive implementations of Bootstrap v4 components and grid system for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
-- [project_corona_tracker](https://github.com/adrianhajdin/project_corona_tracker)
-  - This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a corona tracker application. Covered topics: React.js, Chart.js, Material UI and much more.
 - [jitsi-meet-electron](https://github.com/jitsi/jitsi-meet-electron)
   - Jitsi Meet desktop application powered by
-- [ag-grid](https://github.com/ag-grid/ag-grid)
-  - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-- [Solution-Starter-Kit-Communication-2020](https://github.com/Call-for-Code/Solution-Starter-Kit-Communication-2020)
-  - Materials for the Call for Code 2020 solution starter kit for crisis communication in the context of COVID-19.
-- [appium](https://github.com/appium/appium)
-  - 📱 Automation for iOS, Android, and Windows Apps.
-- [engine](https://github.com/cocos-creator/engine)
-  - Cocos Creator is a complete package of game development tools and workflow, including a game engine, resource management, scene editing, game preview, debug and publish one project to multiple platforms.
-- [react-router](https://github.com/ReactTraining/react-router)
-  - Declarative routing for React
-- [cesium](https://github.com/CesiumGS/cesium)
-  - An open-source JavaScript library for world-class 3D globes and maps 🌎
-- [umi](https://github.com/umijs/umi)
-  - 🌋 Pluggable enterprise-level react application framework.
-- [dropzone](https://github.com/enyo/dropzone)
-  - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
-- [strapi](https://github.com/strapi/strapi)
-  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+  - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+- [web-skills](https://github.com/andreasbm/web-skills)
+  - A visual overview of useful skills to learn as a web developer
+- [covid-safe-paths](https://github.com/tripleblindmarket/covid-safe-paths)
+  - COVID Safe Paths (based on Private Kit) is an open and privacy preserving system to use personal information to battle COVID
+- [web.dev](https://github.com/GoogleChrome/web.dev)
+  - The frontend, backend, and content source code for web.dev
+- [deck.gl](https://github.com/uber/deck.gl)
+  - WebGL2 powered geospatial visualization layers
+- [kbone](https://github.com/Tencent/kbone)
+  - 一个致力于微信小程序和 Web 端同构的解决方案
+- [rakning-c19-app](https://github.com/aranja/rakning-c19-app)
+  - App that helps to analyse individuals’ travel and trace their movements when cases of infection arise.
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [video.js](https://github.com/videojs/video.js)
+  - Video.js - open source HTML5 & Flash video player
+- [lossless-cut](https://github.com/mifi/lossless-cut)
+  - The swiss army knife of lossless video/audio editing
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+  -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [iptv](https://github.com/iptv-org/iptv)
+  - Collection of 8000+ publicly available IPTV channels from all over the world
+- [project_corona_tracker](https://github.com/adrianhajdin/project_corona_tracker)
+  - This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a corona tracker application. Covered topics: React.js, Chart.js, Material UI and much more.
+- [mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide)
+  - Mostly adequate guide to FP (in javascript)
+- [gutenberg](https://github.com/WordPress/gutenberg)
+  - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
+- [covid-19-estimator-js](https://github.com/BuildforSDG-Cohort1-Assessment/covid-19-estimator-js)
+  - An overly simplified COVID-19 infections impact estimator
+- [gostack-template-conceitos-react-native](https://github.com/Rocketseat/gostack-template-conceitos-react-native)
+  - Template para iniciar o desafio de React Native do nível de "Conceitos importantes"
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+  - Headless Chrome Node.js API
+- [incubator-echarts](https://github.com/apache/incubator-echarts)
+  - A powerful, interactive charting and visualization library for browser
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
+  - Short JavaScript code snippets for all your development needs
+- [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js)
+  - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
+- [formio.js](https://github.com/formio/formio.js)
+  - JavaScript powered Forms with JSON Form Builder

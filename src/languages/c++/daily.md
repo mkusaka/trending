@@ -1,51 +1,51 @@
 # c++
+- [PowerToys](https://github.com/microsoft/PowerToys)
+  - Windows system utilities to maximize productivity
 - [googletest](https://github.com/google/googletest)
   - Googletest - Google Testing and Mocking Framework
-- [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite)
-  - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
-- [pybind11](https://github.com/pybind/pybind11)
-  - Seamless operability between C++11 and Python
-- [imgui](https://github.com/ocornut/imgui)
-  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
-- [viper](https://github.com/vcg-uvic/viper)
-  - Open-source code for VIPER -- Volume Invariant Position-based Elastic Rods
-- [benchmark](https://github.com/google/benchmark)
-  - A microbenchmark support library
-- [lc0](https://github.com/LeelaChessZero/lc0)
-  - The rewritten engine, originally for tensorflow. Now all other backends have been ported here.
-- [USACO](https://github.com/bqi343/USACO)
-  - General Resources for Competitive Programming
-- [rocksdb](https://github.com/facebook/rocksdb)
-  - A library that provides an embeddable, persistent key-value store for fast storage.
-- [Open3D](https://github.com/intel-isl/Open3D)
-  - Open3D: A Modern Library for 3D Data Processing
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [grpc](https://github.com/grpc/grpc)
-  - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-- [SC-LeGO-LOAM](https://github.com/irapkaist/SC-LeGO-LOAM)
-  - LiDAR SLAM: Scan Context + LeGO-LOAM
-- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
-  - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+- [obs-mac-virtualcam](https://github.com/johnboiles/obs-mac-virtualcam)
+  - Creates a virtual webcam device from the output of OBS. Especially useful for streaming smooth, composited video into Zoom, Hangouts, Jitsi etc. Like obs-virtualcam but for macOS.
 - [electron](https://github.com/electron/electron)
   - Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [flatbuffers](https://github.com/google/flatbuffers)
-  - FlatBuffers: Memory Efficient Serialization Library
-- [Xposed](https://github.com/rovo89/Xposed)
-  - The native part of the Xposed framework (mainly the modified app_process binary).
-- [InfinityHook](https://github.com/everdox/InfinityHook)
-  - Hook system calls, context switches, page faults and more.
-- [ndk-samples](https://github.com/android/ndk-samples)
-  - Android NDK samples with Android Studio
-- [oneDNN](https://github.com/oneapi-src/oneDNN)
-  - oneAPI Deep Neural Network Library (oneDNN)
-- [rapidjson](https://github.com/Tencent/rapidjson)
-  - A fast JSON parser/generator for C++ with both SAX/DOM style API
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [jsoncpp](https://github.com/open-source-parsers/jsoncpp)
-  - A C++ library for interacting with JSON.
-- [calculator](https://github.com/microsoft/calculator)
-  - Windows Calculator: A simple yet powerful calculator that ships with Windows
-- [apollo](https://github.com/ApolloAuto/apollo)
-  - An open autonomous driving platform
+- [bitcoin](https://github.com/bitcoin/bitcoin)
+  - Bitcoin Core integration/staging tree
+- [swift](https://github.com/apple/swift)
+  - The Swift Programming Language
+- [domoticz](https://github.com/domoticz/domoticz)
+  - Open source Home Automation System
+- [srs](https://github.com/ossrs/srs)
+  - SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.
+- [DCNv2](https://github.com/CharlesShang/DCNv2)
+  - Deformable Convolutional Networks v2 with Pytorch
+- [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite)
+  - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
+- [FreeCAD](https://github.com/FreeCAD/FreeCAD)
+  - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker
+- [cuml](https://github.com/rapidsai/cuml)
+  - cuML - RAPIDS Machine Learning Library
+- [spdlog](https://github.com/gabime/spdlog)
+  - Fast C++ logging library.
+- [imgui](https://github.com/ocornut/imgui)
+  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+- [emscripten](https://github.com/emscripten-core/emscripten)
+  - Emscripten: An LLVM-to-Web Compiler
+- [Paddle](https://github.com/PaddlePaddle/Paddle)
+  - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
+- [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
+  - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly
+- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+  - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+- [Waybar](https://github.com/Alexays/Waybar)
+  - Highly customizable Wayland bar for Sway and Wlroots based compositors. ✌️ 🎉
+- [Magisk](https://github.com/topjohnwu/Magisk)
+  - The Magic Mask for Android
+- [subconverter](https://github.com/tindy2013/subconverter)
+  - Utility to convert between various subscription format
+- [cutter](https://github.com/radareorg/cutter)
+  - Free and Open Source Reverse Engineering Platform powered by radare2
+- [Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite)
+  - Multi-platform high performance deep learning inference engine (『飞桨』多平台高性能深度学习预测引擎）
+- [Open3D](https://github.com/intel-isl/Open3D)
+  - Open3D: A Modern Library for 3D Data Processing
+- [faiss](https://github.com/facebookresearch/faiss)
+  - A library for efficient similarity search and clustering of dense vectors.

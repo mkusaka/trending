@@ -1,51 +1,51 @@
 # go
 - [logrus](https://github.com/sirupsen/logrus)
   - Structured, pluggable logging for Go.
-- [crawlab](https://github.com/crawlab-team/crawlab)
-  - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
-- [cri-o](https://github.com/cri-o/cri-o)
-  - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
-- [eksctl](https://github.com/weaveworks/eksctl)
-  - The official CLI for Amazon EKS
-- [gh-ost](https://github.com/github/gh-ost)
-  - GitHub's Online Schema Migrations for MySQL
-- [dashboard](https://github.com/kubernetes/dashboard)
-  - General-purpose web UI for Kubernetes clusters
-- [jwt-go](https://github.com/dgrijalva/jwt-go)
-  - Golang implementation of JSON Web Tokens (JWT)
-- [go-interview](https://github.com/shomali11/go-interview)
-  - Collection of Technical Interview Questions solved with Go
-- [vault](https://github.com/hashicorp/vault)
-  - A tool for secrets management, encryption as a service, and privileged access management
-- [consul](https://github.com/hashicorp/consul)
-  - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [istio](https://github.com/istio/istio)
-  - Connect, secure, control, and observe services.
-- [thanos](https://github.com/thanos-io/thanos)
-  - Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.
-- [go-github](https://github.com/google/go-github)
-  - Go library for accessing the GitHub API
-- [sealos](https://github.com/fanux/sealos)
-  - 只能用丝滑一词形容的kubernetes高可用安装（kubernetes install）工具，一条命令，离线安装，包含所有依赖，内核负载不依赖haproxy keepalived,纯golang开发,99年证书,支持v1.16.8 v1.15.11 v1.17.4 v1.18.0!
-- [amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s)
-  - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
-- [migrate](https://github.com/golang-migrate/migrate)
-  - Database migrations. CLI and Golang library.
-- [dex](https://github.com/dexidp/dex)
-  - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
-- [ffuf](https://github.com/ffuf/ffuf)
-  - Fast web fuzzer written in Go
-- [flux](https://github.com/fluxcd/flux)
-  - The GitOps Kubernetes operator
-- [nomad](https://github.com/hashicorp/nomad)
-  - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [gorm](https://github.com/jinzhu/gorm)
-  - The fantastic ORM library for Golang, aims to be developer friendly (v2 is under development, PR based on master branch won't be accepted)
-- [virtual-kubelet](https://github.com/virtual-kubelet/virtual-kubelet)
-  - Virtual Kubelet is an open source Kubernetes kubelet implementation.
+- [cortex](https://github.com/cortexlabs/cortex)
+  - Cloud native model serving infrastructure
+- [traefik](https://github.com/containous/traefik)
+  - The Cloud Native Edge Router
+- [swag](https://github.com/swaggo/swag)
+  - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
 - [redis](https://github.com/go-redis/redis)
   - Type-safe Redis client for Golang
-- [go-sqlmock](https://github.com/DATA-DOG/go-sqlmock)
-  - Sql mock driver for golang to test database interactions
-- [ginkgo](https://github.com/onsi/ginkgo)
-  - BDD Testing Framework for Go
+- [trojan](https://github.com/Jrohy/trojan)
+  - trojan多用户管理部署程序, 支持web页面管理
+- [fabric](https://github.com/hyperledger/fabric)
+  - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
+- [nebula](https://github.com/slackhq/nebula)
+  - A scalable overlay networking tool with a focus on performance, simplicity and security
+- [containerd](https://github.com/containerd/containerd)
+  - An open and reliable container runtime
+- [casbin](https://github.com/casbin/casbin)
+  - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
+- [livego](https://github.com/gwuhaolin/livego)
+  - 纯 Go 写的直播服务器
+- [fzf](https://github.com/junegunn/fzf)
+  - 🌸 A command-line fuzzy finder
+- [kubeedge](https://github.com/kubeedge/kubeedge)
+  - Kubernetes Native Edge Computing Framework (project under CNCF)
+- [go-github](https://github.com/google/go-github)
+  - Go library for accessing the GitHub API
+- [opa](https://github.com/open-policy-agent/opa)
+  - An open source, general-purpose policy engine.
+- [go](https://github.com/golang/go)
+  - The Go programming language
+- [moby](https://github.com/moby/moby)
+  - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [ffuf](https://github.com/ffuf/ffuf)
+  - Fast web fuzzer written in Go
+- [dep](https://github.com/golang/dep)
+  - Go dependency management tool
+- [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway)
+  - gRPC to JSON proxy generator following the gRPC HTTP spec
+- [telegraf](https://github.com/influxdata/telegraf)
+  - The plugin-driven server agent for collecting & reporting metrics.
+- [minio](https://github.com/minio/minio)
+  - MinIO is a high performance object storage server compatible with Amazon S3 APIs
+- [awesome-go](https://github.com/avelino/awesome-go)
+  - A curated list of awesome Go frameworks, libraries and software
+- [Cloudreve](https://github.com/cloudreve/Cloudreve)
+  - 🌈支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)
+- [zap](https://github.com/uber-go/zap)
+  - Blazing fast, structured, leveled logging in Go.
