@@ -1,51 +1,51 @@
 # typescript
+- [coc.nvim](https://github.com/neoclide/coc.nvim)
+  - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [opentrace-cloud-functions](https://github.com/opentrace-community/opentrace-cloud-functions)
   - OpenTrace Cloud Functions. Reference implementation of the BlueTrace protocol.
-- [ant-design](https://github.com/ant-design/ant-design)
-  - 🌈 A UI Design Language and React UI library
-- [vuetify](https://github.com/vuetifyjs/vuetify)
-  - 🐉 Material Component Framework for Vue
-- [rome](https://github.com/facebookexperimental/rome)
-  - An experimental JavaScript toolchain
-- [react-native-fast-image](https://github.com/DylanVann/react-native-fast-image)
-  - 🚩 FastImage, performant React Native image component.
-- [ant-design-pro](https://github.com/ant-design/ant-design-pro)
-  - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
-- [lens](https://github.com/lensapp/lens)
-  - Lens - The Kubernetes IDE
-- [amplify-js](https://github.com/aws-amplify/amplify-js)
-  - A declarative JavaScript library for application development using cloud services.
-- [code-server](https://github.com/cdr/code-server)
-  - Run VS Code on a remote server.
-- [material-ui-pickers](https://github.com/mui-org/material-ui-pickers)
-  - Date & Time pickers, built with ❤️ for @material-ui/core
-- [core](https://github.com/Glue42/core)
-  - Glue42 Core is a web application integration platform
-- [csslayout](https://github.com/phuoc-ng/csslayout)
-  - A collection of popular layouts and patterns made with CSS. Now it has 90+ patterns and continues growing!
-- [react-diagrams](https://github.com/projectstorm/react-diagrams)
-  - a super simple, no-nonsense diagramming library written in react that just works
-- [cxmooc-tools](https://github.com/CodFrm/cxmooc-tools)
-  - 一个 超星(学习通)/智慧树(知到)/中国大学慕课 刷课工具,火狐,谷歌,油猴支持.全自动任务,视频倍速秒过,作业考试题库,验证码自动打码(੧ᐛ੭挂科模式,启动)
-- [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)
-  - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
-- [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper)
-  - 🏆 Swiper component for @vuejs
-- [mkdocs-material](https://github.com/squidfunk/mkdocs-material)
-  - A Material Design theme for MkDocs
-- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-  - The repository for high quality TypeScript type definitions.
+- [vscode-icons](https://github.com/vscode-icons/vscode-icons)
+  - Icons for Visual Studio Code
+- [nautilus](https://github.com/oslabs-beta/nautilus)
+  - A Docker Compose Charting Tool
 - [tfjs-models](https://github.com/tensorflow/tfjs-models)
   - Pretrained models for TensorFlow.js
-- [commitlint](https://github.com/conventional-changelog/commitlint)
-  - 📓 Lint commit messages
-- [sapper](https://github.com/sveltejs/sapper)
-  - The next small thing in web development, powered by Svelte
-- [terminus](https://github.com/Eugeny/terminus)
-  - A terminal for a more modern age
-- [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator)
-  - GraphQL code generator with flexible support for custom plugins and templates
-- [kutt](https://github.com/thedevs-network/kutt)
-  - Free Modern URL Shortener.
-- [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
-  - 💬 The most complete chat UI for React Native
+- [rome](https://github.com/facebookexperimental/rome)
+  - An experimental JavaScript toolchain
+- [TypeScript](https://github.com/microsoft/TypeScript)
+  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [angularfire](https://github.com/angular/angularfire)
+  - The official Angular library for Firebase.
+- [kittenTricks](https://github.com/akveo/kittenTricks)
+  - React Native starter kit with over 40 screens and modern Light and Dark theme for creating stunning cross-platform mobile applications.
+- [markmap-lib](https://github.com/gera2ld/markmap-lib)
+  - Visualize your Markdown as mindmaps with Markmap.
+- [saleor-storefront](https://github.com/mirumee/saleor-storefront)
+  - A GraphQL-powered, PWA, single-page application storefront for Saleor.
+- [typeorm](https://github.com/typeorm/typeorm)
+  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+- [vuetify](https://github.com/vuetifyjs/vuetify)
+  - 🐉 Material Component Framework for Vue
+- [BoostNote.next](https://github.com/BoostIO/BoostNote.next)
+  - An intuitive and stylish markdown note app for the developers.
+- [n8n](https://github.com/n8n-io/n8n)
+  - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+- [rxdb](https://github.com/pubkey/rxdb)
+  - 💻 🔄 📱 A realtime Database for JavaScript Applications
+- [urql](https://github.com/FormidableLabs/urql)
+  - The highly customizable and versatile GraphQL client.
+- [tridactyl](https://github.com/tridactyl/tridactyl)
+  - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
+- [face-api.js](https://github.com/justadudewhohacks/face-api.js)
+  - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
+- [MathJax-src](https://github.com/mathjax/MathJax-src)
+  - MathJax source code for version 3 and beyond
+- [og-image](https://github.com/zeit/og-image)
+  - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
+- [frontend](https://github.com/home-assistant/frontend)
+  - 🍭 Frontend for Home Assistant
+- [github-actions](https://github.com/GoogleCloudPlatform/github-actions)
+  - A collection of GitHub Actions for interfacing with Google Cloud Platform.
+- [bobarr](https://github.com/iam4x/bobarr)
+  - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
+- [desktop](https://github.com/bitwarden/desktop)
+  - The desktop vault (Windows, macOS, & Linux).
