@@ -5,47 +5,47 @@
   - [CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
 - [Flutter-Course-Resources](https://github.com/londonappbrewery/Flutter-Course-Resources) : 
   - Learn to Code While Building Apps - The Complete Flutter Development Bootcamp
-- [deplacement-covid-19](https://github.com/LAB-MI/deplacement-covid-19) : HTML
-  - Service de génération de l'attestation de déplacement dérogatoire à présenter dans le cadre du confinement lié au virus covid-19
-- [nerf](https://github.com/bmild/nerf) : Jupyter Notebook
-  - Code release for NeRF (Neural Radiance Fields)
+- [avatarify](https://github.com/alievk/avatarify) : Python
+  - Avatars for Zoom and Skype
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
   - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [nebula](https://github.com/slackhq/nebula) : Go
-  - A scalable overlay networking tool with a focus on performance, simplicity and security
-- [opentrace-ios](https://github.com/opentrace-community/opentrace-ios) : Swift
-  - OpenTrace iOS app. Reference implementation of the BlueTrace protocol.
-- [lede](https://github.com/coolsnowwolf/lede) : C
-  - Lean's OpenWrt source
-- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
-  - Course Files for Complete Python 3 Bootcamp Course on Udemy
-- [breaking-and-pwning-apps-and-servers-aws-azure-training](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training) : CSS
-  - Course content, lab setup instructions and documentation of our very popular Breaking and Pwning Apps and Servers on AWS and Azure hands on training!
-- [covid-safe-paths](https://github.com/tripleblindmarket/covid-safe-paths) : JavaScript
-  - COVID Safe Paths (based on Private Kit) is an open and privacy preserving system to use personal information to battle COVID
-- [covid19-dashboard](https://github.com/github/covid19-dashboard) : Jupyter Notebook
-  - A site that displays up to date COVID-19 stats, powered by fastpages.
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
   - 🤓 Build your own (insert technology here)
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) : Shell
-  - 🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) : 
-  - Master the command line, in one page
-- [decentralized-video-chat](https://github.com/ianramzy/decentralized-video-chat) : JavaScript
-  - 🚀Zipcall.io - Peer to peer browser video calling platform with unmatched video quality and latency.
-- [public-apis](https://github.com/public-apis/public-apis) : Python
-  - A collective list of free APIs for use in software and web development.
-- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
-  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-- [hazedumper](https://github.com/frk1/hazedumper) : Visual Basic .NET
-  - up to date csgo offsets and hazedumper config
-- [git-bug](https://github.com/MichaelMure/git-bug) : Go
-  - Distributed, offline-first bug tracker embedded in git, with bridges
-- [Sandboxie](https://github.com/xanasoft/Sandboxie) : C
-  - Sandboxie - Open Source
+- [yuzu](https://github.com/yuzu-emu/yuzu) : C++
+  - Nintendo Switch Emulator
+- [halo](https://github.com/halo-dev/halo) : Java
+  - ✍ An excellent open source blog publishing application. | 一个优秀的开源博客发布应用。
+- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
+  - Course Files for Complete Python 3 Bootcamp Course on Udemy
 - [DBFace](https://github.com/dlunion/DBFace) : Python
   - DBFace is a real-time, single-stage detector for face detection, with faster speed and higher accuracy
+- [lede](https://github.com/coolsnowwolf/lede) : C
+  - Lean's OpenWrt source
+- [UTM](https://github.com/utmapp/UTM) : Objective-C
+  - Virtual machines for iOS
+- [nerf](https://github.com/bmild/nerf) : Jupyter Notebook
+  - Code release for NeRF (Neural Radiance Fields)
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) : Python
+  - The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights.
+- [wtfpython](https://github.com/satwikkansal/wtfpython) : Python
+  - Do you think you know Python?
+- [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine) : C++
+  - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects
+- [2020-MSA-content](https://github.com/AUMSA/2020-MSA-content) : 
+  - MSA Australia 2020 Official GitHub Repository
+- [opentrace-ios](https://github.com/opentrace-community/opentrace-ios) : Swift
+  - OpenTrace iOS app. Reference implementation of the BlueTrace protocol.
+- [interview](https://github.com/huihut/interview) : C++
+  - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。
+- [documents](https://github.com/DP-3T/documents) : 
+  - Decentralized Privacy-Preserving Proximity Tracing -- Documents
+- [itlwm](https://github.com/zxystd/itlwm) : C
+  - IntelWifi
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
+  - 📚 Freely available programming books
+- [examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) : Python
+  - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
+- [bobarr](https://github.com/iam4x/bobarr) : TypeScript
+  - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker

@@ -1,51 +1,51 @@
 # typescript
-- [coc.nvim](https://github.com/neoclide/coc.nvim)
-  - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
-- [opentrace-cloud-functions](https://github.com/opentrace-community/opentrace-cloud-functions)
-  - OpenTrace Cloud Functions. Reference implementation of the BlueTrace protocol.
-- [vscode-icons](https://github.com/vscode-icons/vscode-icons)
-  - Icons for Visual Studio Code
-- [nautilus](https://github.com/oslabs-beta/nautilus)
-  - A Docker Compose Charting Tool
-- [tfjs-models](https://github.com/tensorflow/tfjs-models)
-  - Pretrained models for TensorFlow.js
-- [rome](https://github.com/facebookexperimental/rome)
-  - An experimental JavaScript toolchain
-- [TypeScript](https://github.com/microsoft/TypeScript)
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [angularfire](https://github.com/angular/angularfire)
-  - The official Angular library for Firebase.
-- [kittenTricks](https://github.com/akveo/kittenTricks)
-  - React Native starter kit with over 40 screens and modern Light and Dark theme for creating stunning cross-platform mobile applications.
-- [markmap-lib](https://github.com/gera2ld/markmap-lib)
-  - Visualize your Markdown as mindmaps with Markmap.
-- [saleor-storefront](https://github.com/mirumee/saleor-storefront)
-  - A GraphQL-powered, PWA, single-page application storefront for Saleor.
-- [typeorm](https://github.com/typeorm/typeorm)
-  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-- [vuetify](https://github.com/vuetifyjs/vuetify)
-  - 🐉 Material Component Framework for Vue
-- [BoostNote.next](https://github.com/BoostIO/BoostNote.next)
-  - An intuitive and stylish markdown note app for the developers.
-- [n8n](https://github.com/n8n-io/n8n)
-  - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
-- [rxdb](https://github.com/pubkey/rxdb)
-  - 💻 🔄 📱 A realtime Database for JavaScript Applications
-- [urql](https://github.com/FormidableLabs/urql)
-  - The highly customizable and versatile GraphQL client.
-- [tridactyl](https://github.com/tridactyl/tridactyl)
-  - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
-- [face-api.js](https://github.com/justadudewhohacks/face-api.js)
-  - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
-- [MathJax-src](https://github.com/mathjax/MathJax-src)
-  - MathJax source code for version 3 and beyond
-- [og-image](https://github.com/zeit/og-image)
-  - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
-- [frontend](https://github.com/home-assistant/frontend)
-  - 🍭 Frontend for Home Assistant
-- [github-actions](https://github.com/GoogleCloudPlatform/github-actions)
-  - A collection of GitHub Actions for interfacing with Google Cloud Platform.
 - [bobarr](https://github.com/iam4x/bobarr)
   - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
-- [desktop](https://github.com/bitwarden/desktop)
-  - The desktop vault (Windows, macOS, & Linux).
+- [opentrace-cloud-functions](https://github.com/opentrace-community/opentrace-cloud-functions)
+  - OpenTrace Cloud Functions. Reference implementation of the BlueTrace protocol.
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+  - The repository for high quality TypeScript type definitions.
+- [nest](https://github.com/nestjs/nest)
+  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [vscode-icons](https://github.com/vscode-icons/vscode-icons)
+  - Icons for Visual Studio Code
+- [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native)
+  - ⚛️📺Projects from the “Can it be done in React Native?” YouTube series
+- [terminus](https://github.com/Eugeny/terminus)
+  - A terminal for a more modern age
+- [editor.js](https://github.com/codex-team/editor.js)
+  - A block-styled editor with clean JSON output
+- [coc.nvim](https://github.com/neoclide/coc.nvim)
+  - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
+- [n8n](https://github.com/n8n-io/n8n)
+  - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+- [sapper](https://github.com/sveltejs/sapper)
+  - The next small thing in web development, powered by Svelte
+- [instagram-private-api](https://github.com/dilame/instagram-private-api)
+  - NodeJS Instagram private API client. Written in TypeScript.
+- [blitz](https://github.com/blitz-js/blitz)
+  - ⚡️Rails-like framework for monolithic, full-stack React apps without an API
+- [frontend](https://github.com/home-assistant/frontend)
+  - 🍭 Frontend for Home Assistant
+- [react-native-paper](https://github.com/callstack/react-native-paper)
+  - Material Design for React Native (Android & iOS)
+- [formily](https://github.com/alibaba/formily)
+  - Alibaba Group Unified Form Solution.
+- [markmap-lib](https://github.com/gera2ld/markmap-lib)
+  - Visualize your Markdown as mindmaps with Markmap.
+- [fullstack-tutorial](https://github.com/apollographql/fullstack-tutorial)
+  - 🚀 The Apollo platform tutorial app
+- [angularfire](https://github.com/angular/angularfire)
+  - The official Angular library for Firebase.
+- [react-native-chat-sample](https://github.com/ozcanzaferayan/react-native-chat-sample)
+  - Sample project about creating chat app with Websocket
+- [urql](https://github.com/FormidableLabs/urql)
+  - The highly customizable and versatile GraphQL client.
+- [graphiql](https://github.com/graphql/graphiql)
+  - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
+- [pixi.js](https://github.com/pixijs/pixi.js)
+  - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+- [exilence-next](https://github.com/viktorgullmark/exilence-next)
+  - Complete rewrite of Exilence, with performance and user experience in focus
+- [react-navigation](https://github.com/react-navigation/react-navigation)
+  - Routing and navigation for your React Native apps
