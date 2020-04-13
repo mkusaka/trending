@@ -1,51 +1,51 @@
 # rust
 - [iced](https://github.com/hecrj/iced)
   - A cross-platform GUI library for Rust, inspired by Elm
-- [rustlings](https://github.com/fmoko/rustlings)
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
 - [rust](https://github.com/rust-lang/rust)
   - Empowering everyone to build reliable and efficient software.
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
-- [zola](https://github.com/getzola/zola)
-  - A fast static site generator in a single binary with everything built-in.
-- [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
-  - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
-- [amethyst](https://github.com/amethyst/amethyst)
-  - Data-oriented and data-driven game engine written in Rust
-- [vector](https://github.com/timberio/vector)
-  - A lightweight and ultra-fast tool for building observability pipelines
-- [rust-clippy](https://github.com/rust-lang/rust-clippy)
-  - A bunch of lints to catch common mistakes and improve your Rust code
-- [book](https://github.com/rust-lang/book)
-  - The Rust Programming Language
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
+- [warp](https://github.com/seanmonstar/warp)
+  - A super-easy, composable, web server framework for warp speeds.
 - [tokenizers](https://github.com/huggingface/tokenizers)
   - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
-- [spotifyd](https://github.com/Spotifyd/spotifyd)
-  - A spotify daemon
-- [dotenv-linter](https://github.com/mgrachev/dotenv-linter)
-  - ⚡️Blazing-fast linter for .env files. Written in Rust 🦀
-- [ggez](https://github.com/ggez/ggez)
-  - Rust library to create a Good Game Easily
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
-  - Unofficial Bitwarden compatible server written in Rust
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
+- [alacritty](https://github.com/alacritty/alacritty)
+  - A cross-platform, GPU-accelerated terminal emulator
+- [vector](https://github.com/timberio/vector)
+  - A lightweight and ultra-fast tool for building observability pipelines
 - [substrate](https://github.com/paritytech/substrate)
   - Substrate: The platform for blockchain innovators
-- [noria](https://github.com/mit-pdos/noria)
-  - Dynamically changing, partially-stateful data-flow for web application backends.
-- [hyper](https://github.com/hyperium/hyper)
-  - An HTTP library for Rust
+- [nom](https://github.com/Geal/nom)
+  - Rust parser combinator framework
+- [starship](https://github.com/starship/starship)
+  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [SafeTrace](https://github.com/enigmampc/SafeTrace)
+  - Privacy preserving voluntary Covid-19 self-reporting platform. Share your location history and status, get alerts you are in high risk areas and identify high risk regions
 - [WASI](https://github.com/WebAssembly/WASI)
   - WebAssembly System Interface
+- [rust-clippy](https://github.com/rust-lang/rust-clippy)
+  - A bunch of lints to catch common mistakes and improve your Rust code
+- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
+  - Rust bindings to wgpu native library
 - [servo](https://github.com/servo/servo)
   - The Servo Browser Engine
-- [swc](https://github.com/swc-project/swc)
-  - Super-fast typescript / javascript compiler written in rust
-- [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
-  - The Mullvad VPN client app for desktop and mobile
-- [Rocket](https://github.com/SergioBenitez/Rocket)
-  - A web framework for Rust.
-- [openethereum](https://github.com/openethereum/openethereum)
-  - Fast and feature-rich multi-network Ethereum client.
+- [juniper](https://github.com/graphql-rust/juniper)
+  - GraphQL server library for Rust
+- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
+  - Facilitating high-level interactions between Wasm modules and JavaScript
+- [wgpu](https://github.com/gfx-rs/wgpu)
+  - Native WebGPU implementation based on gfx-hal
+- [wasmtime](https://github.com/bytecodealliance/wasmtime)
+  - Standalone JIT-style runtime for WebAssembly, using Cranelift
+- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+  - 📚 Learn to write an embedded OS in Rust 🦀
+- [static-analysis](https://github.com/analysis-tools-dev/static-analysis)
+  - Static analysis tools for all programming languages, build tools, config files and more.
+- [monolith](https://github.com/Y2Z/monolith)
+  - ⬛️ CLI tool for saving complete web pages as a single HTML file
+- [lorri](https://github.com/target/lorri)
+  - Your project's nix-env
+- [winit](https://github.com/rust-windowing/winit)
+  - Window handling library in pure Rust
+- [crossbeam](https://github.com/crossbeam-rs/crossbeam)
+  - Tools for concurrent programming in Rust

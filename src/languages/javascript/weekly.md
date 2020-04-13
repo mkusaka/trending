@@ -1,51 +1,51 @@
 # javascript
-- [covid19india-react](https://github.com/covid19india/covid19india-react)
-  - 📊 Source code of the main website
-- [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
-  - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [jitsi-meet](https://github.com/jitsi/jitsi-meet)
   - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [react-ultimate-resume](https://github.com/welovedevs/react-ultimate-resume)
-  - 💼 🎨 A modern software developer resume built with React and JSONResume
+- [covid19india-react](https://github.com/covid19india/covid19india-react)
+  - 📊 Source code of the main website
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
   - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [samples](https://github.com/webrtc/samples)
-  - WebRTC Web demos and samples
-- [cube.js](https://github.com/cube-js/cube.js)
-  - 📊 Cube.js - Open Source Analytics Framework
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [Spoke](https://github.com/Elizabeth-Warren/Spoke)
-  - Spoke is an open source text-distribution tool for organizations to mobilize supporters and members into action
-- [bbbot](https://github.com/DanielHe4rt/bbbot)
-  - Bot feito para estudos de leitura de imagem
-- [socket.io](https://github.com/socketio/socket.io)
-  - Realtime application framework (Node.JS server)
-- [covid19](https://github.com/pomber/covid19)
-  - JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily
-- [api](https://github.com/covid19india/api)
-  - 
-- [covid19japan](https://github.com/reustle/covid19japan)
-  - 
-- [sample-app-web](https://github.com/zoom/sample-app-web)
-  - Zoom Web SDK Sample App
-- [gun](https://github.com/amark/gun)
-  - A realtime, decentralized, offline-first, graph protocol to sync the web.
+- [Motrix](https://github.com/agalwood/Motrix)
+  - A full-featured download manager.
+- [covid-safe-paths](https://github.com/tripleblindmarket/covid-safe-paths)
+  - COVID Safe Paths (based on Private Kit) is an open and privacy preserving system to use personal information to battle COVID
+- [google-meet-grid-view-extension](https://github.com/stgeorgesepiscopal/google-meet-grid-view-extension)
+  - Google Meet Grid View Extension
+- [jitsi-meet-electron](https://github.com/jitsi/jitsi-meet-electron)
+  - Jitsi Meet desktop application powered by
+- [svelte](https://github.com/sveltejs/svelte)
+  - Cybernetically enhanced web apps
+- [graphql-js](https://github.com/graphql/graphql-js)
+  - A reference implementation of GraphQL for JavaScript
 - [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
   - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [coronadatascraper](https://github.com/covidatlas/coronadatascraper)
-  - COVID-19 Coronavirus data scraped from government and curated data sources.
-- [covid19india-cluster](https://github.com/someshkar/covid19india-cluster)
-  - 🔬 COVID19 India Cluster Network
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [markdown-here](https://github.com/adam-p/markdown-here)
-  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+- [anime](https://github.com/juliangarnier/anime)
+  - JavaScript animation engine
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
+  - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+- [vue](https://github.com/qq281113270/vue)
+  - vue源码逐行注释分析+40多m的vue源码程序流程图思维导图 （diff部分待后续更新）
+- [next.js](https://github.com/zeit/next.js)
+  - The React Framework
+- [reveal.js](https://github.com/hakimel/reveal.js)
+  - The HTML Presentation Framework
+- [leetcode](https://github.com/azl397985856/leetcode)
+  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+- [axios](https://github.com/axios/axios)
+  - Promise based HTTP client for the browser and node.js
+- [wekan](https://github.com/wekan/wekan)
+  - The open-source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
+- [mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide)
+  - Mostly adequate guide to FP (in javascript)
+- [bootstrap](https://github.com/twbs/bootstrap)
+  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [lib-jitsi-meet](https://github.com/jitsi/lib-jitsi-meet)
+  - A low-level JS video API that allows adding a completely custom video experience to web apps.
+- [discord-api-docs](https://github.com/discord/discord-api-docs)
+  - Official Discord API Documentation
+- [ant-design](https://github.com/ant-design/ant-design)
+  - 🌈 A UI Design Language and React UI library
 - [gatsby](https://github.com/gatsbyjs/gatsby)
   - Build blazing fast, modern apps and websites with React
-- [fabric.js](https://github.com/fabricjs/fabric.js)
-  - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
-- [create-react-app](https://github.com/facebook/create-react-app)
-  - Set up a modern web app by running one command.
-- [bookshelf](https://github.com/kentcdodds/bookshelf)
-  - Build a ReactJS App workshop

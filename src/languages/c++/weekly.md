@@ -1,51 +1,51 @@
 # c++
 - [PowerToys](https://github.com/microsoft/PowerToys)
   - Windows system utilities to maximize productivity
-- [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail)
-  - Sourcetrail - free and open-source interactive source explorer
-- [imgui](https://github.com/ocornut/imgui)
-  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
-- [simdjson](https://github.com/simdjson/simdjson)
-  - Parsing gigabytes of JSON per second
-- [tdesktop](https://github.com/telegramdesktop/tdesktop)
-  - Telegram Desktop messaging app
-- [Tasmota](https://github.com/arendst/Tasmota)
-  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
-- [yuzu](https://github.com/yuzu-emu/yuzu)
-  - Nintendo Switch Emulator
-- [Open_Source_Ventilator](https://github.com/CSSALTlab/Open_Source_Ventilator)
-  - Open source for use worldwide and contributions from others worldwide
-- [mindspore](https://github.com/mindspore-ai/mindspore)
-  - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
-- [srs](https://github.com/ossrs/srs)
-  - SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.
-- [Marlin](https://github.com/MarlinFirmware/Marlin)
-  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
-- [webcamoid](https://github.com/webcamoid/webcamoid)
-  - Webcamoid is a full featured and multiplatform webcam suite.
-- [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
-  - Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs
-- [qBittorrent](https://github.com/qbittorrent/qBittorrent)
-  - qBittorrent BitTorrent client
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [mediasoup](https://github.com/versatica/mediasoup)
-  - Cutting Edge WebRTC Video Conferencing
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [videos](https://github.com/OneLoneCoder/videos)
-  - The official distribution of olcConsoleGameEngine, a tool used in javidx9's YouTube videos and projects
-- [OpenTTD](https://github.com/OpenTTD/OpenTTD)
-  - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
-- [spdlog](https://github.com/gabime/spdlog)
-  - Fast C++ logging library.
-- [AirSim](https://github.com/microsoft/AirSim)
-  - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
-- [aseprite](https://github.com/aseprite/aseprite)
-  - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
-- [milvus](https://github.com/milvus-io/milvus)
-  - An open source vector similarity search engine
+- [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)
+  - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects
 - [googletest](https://github.com/google/googletest)
   - Googletest - Google Testing and Mocking Framework
-- [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)
-  - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
+- [viper](https://github.com/vcg-uvic/viper)
+  - Open-source code for VIPER -- Volume Invariant Position-based Elastic Rods
+- [AmboVent](https://github.com/AmboVent-1690-108/AmboVent)
+  - AmboVent 1690.108
+- [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail)
+  - Sourcetrail - free and open-source interactive source explorer
+- [grpc](https://github.com/grpc/grpc)
+  - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [solidity](https://github.com/ethereum/solidity)
+  - Solidity, the Contract-Oriented Programming Language
+- [godot](https://github.com/godotengine/godot)
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [imgui](https://github.com/ocornut/imgui)
+  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+- [obs-virtual-cam](https://github.com/CatxFish/obs-virtual-cam)
+  - obs-studio plugin to simulate a directshow webcam
+- [Marlin](https://github.com/MarlinFirmware/Marlin)
+  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
+- [swift](https://github.com/apple/swift)
+  - The Swift Programming Language
+- [youtube](https://github.com/Errichto/youtube)
+  - codes for my streams and YT videos
+- [aseprite](https://github.com/aseprite/aseprite)
+  - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
+- [fmt](https://github.com/fmtlib/fmt)
+  - A modern formatting library
+- [Tasmota](https://github.com/arendst/Tasmota)
+  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
+- [ZLMediaKit](https://github.com/xiongziliang/ZLMediaKit)
+  - A lightweight RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/GB28181 server and client framework based on C++11
+- [keepassxc](https://github.com/keepassxreboot/keepassxc)
+  - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+- [interview](https://github.com/huihut/interview)
+  - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。
+- [tesseract](https://github.com/tesseract-ocr/tesseract)
+  - Tesseract Open Source OCR Engine (main repository)
+- [Catch2](https://github.com/catchorg/Catch2)
+  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [json](https://github.com/nlohmann/json)
+  - JSON for Modern C++
+- [pcsx2](https://github.com/PCSX2/pcsx2)
+  - PCSX2 - The Playstation 2 Emulator
+- [benchmark](https://github.com/google/benchmark)
+  - A microbenchmark support library
