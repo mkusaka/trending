@@ -1,51 +1,51 @@
 # javascript
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
   - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [decentralized-video-chat](https://github.com/ianramzy/decentralized-video-chat)
+  - 🚀 Zipcall.io 🚀 Peer to peer browser video calling platform with unmatched video quality and latency.
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [nuxt.js](https://github.com/nuxt/nuxt.js)
+  - The Vue.js Framework
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui)
+  - ⚡️Simple, Modular & Accessible UI Components for your React Applications
+- [grocy](https://github.com/grocy/grocy)
+  - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
 - [covid-safe-paths](https://github.com/tripleblindmarket/covid-safe-paths)
   - COVID Safe Paths (based on Private Kit) is an open and privacy preserving system to use personal information to battle COVID
-- [decentralized-video-chat](https://github.com/ianramzy/decentralized-video-chat)
-  - 🚀Zipcall.io - Peer to peer browser video calling platform with unmatched video quality and latency.
-- [next.js](https://github.com/zeit/next.js)
-  - The React Framework
-- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
-  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [iptv](https://github.com/iptv-org/iptv)
-  - Collection of 8000+ publicly available IPTV channels from all over the world
-- [jitsi-meet-electron](https://github.com/jitsi/jitsi-meet-electron)
-  - Jitsi Meet desktop application powered by
-- [redux-code](https://github.com/StephenGrider/redux-code)
-  - Companion Repo for a course on Udemy
-- [covid-19-estimator-js](https://github.com/BuildforSDG-Cohort1-Assessment/covid-19-estimator-js)
-  - An overly simplified COVID-19 infections impact estimator
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
-- [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS)
-  - Awesome XSS stuff
-- [modern_js_udemy_projects](https://github.com/bradtraversy/modern_js_udemy_projects)
-  - Project files for Modern JS From The Beginning course
-- [hexo](https://github.com/hexojs/hexo)
-  - A fast, simple & powerful blog framework, powered by Node.js.
-- [spicetify-cli](https://github.com/khanhas/spicetify-cli)
-  - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
-- [luci](https://github.com/openwrt/luci)
-  - LuCI - OpenWrt Configuration Interface
-- [deck.gl](https://github.com/uber/deck.gl)
-  - WebGL2 powered geospatial visualization layers
-- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
-  - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+- [grokking_algorithms](https://github.com/egonSchiele/grokking_algorithms)
+  - Code for the book Grokking Algorithms (https://amzn.to/29rVyHf)
+- [discord.js](https://github.com/discordjs/discord.js)
+  - A powerful JavaScript library for interacting with the Discord API
 - [joplin](https://github.com/laurent22/joplin)
   - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
-- [web.dev](https://github.com/GoogleChrome/web.dev)
-  - The frontend, backend, and content source code for web.dev
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
-  - ✅ The Node.js best practices list (April 2020)
-- [DPlayer](https://github.com/MoePlayer/DPlayer)
-  - 🍭 Wow, such a lovely HTML5 danmaku video player
-- [bigcanvasdemo](https://github.com/techleadhd/bigcanvasdemo)
-  - Big Canvas Demo
-- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
-  - Revive unavailable songs for Netease Cloud Music
-- [FirebaseRTC](https://github.com/webrtc/FirebaseRTC)
-  - Codelab for building a WebRTC Video chat application using Firebase Cloudstore.
-- [three.js](https://github.com/mrdoob/three.js)
-  - JavaScript 3D library.
+- [leetcode](https://github.com/azl397985856/leetcode)
+  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [StadiaPlus](https://github.com/Mafrans/StadiaPlus)
+  - Extends Google's Stadia gaming platform with additional features, such as custom filters and in game network monitoring.
+- [Script](https://github.com/NobyDa/Script)
+  - This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.
+- [phaser](https://github.com/photonstorm/phaser)
+  - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+- [preact](https://github.com/preactjs/preact)
+  - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
+- [plyr](https://github.com/sampotts/plyr)
+  - A simple HTML5, YouTube and Vimeo player
+- [API](https://github.com/NovelCOVID/API)
+  - API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
+- [covid-19-estimator-js](https://github.com/BuildforSDG-Cohort1-Assessment/covid-19-estimator-js)
+  - An overly simplified COVID-19 infections impact estimator
+- [project_chat_application](https://github.com/adrianhajdin/project_chat_application)
+  - This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a real time chat application. Covered topics: React.js, Node.js, Express.js, and Socket.io.
+- [iptv](https://github.com/iptv-org/iptv)
+  - Collection of 8000+ publicly available IPTV channels from all over the world
+- [next.js](https://github.com/zeit/next.js)
+  - The React Framework
+- [complete-node-bootcamp](https://github.com/jonasschmedtmann/complete-node-bootcamp)
+  - Starter files, final projects and FAQ for my Complete Node.js Bootcamp
+- [deck.gl](https://github.com/uber/deck.gl)
+  - WebGL2 powered geospatial visualization layers
