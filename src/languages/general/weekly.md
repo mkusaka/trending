@@ -1,51 +1,51 @@
 # general
-- [covid19india-react](https://github.com/covid19india/covid19india-react) : JavaScript
-  - 📊 Source code of the main website
-- [covid-19-data](https://github.com/nytimes/covid-19-data) : 
-  - An ongoing repository of data on coronavirus cases and deaths in the U.S.
-- [iced](https://github.com/hecrj/iced) : Rust
-  - A cross-platform GUI library for Rust, inspired by Elm
-- [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) : Jupyter Notebook
-  - This repository contains the source code for the paper First Order Motion Model for Image Animation
-- [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) : JavaScript
-  - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [jitsi-meet](https://github.com/jitsi/jitsi-meet) : JavaScript
-  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [iina](https://github.com/iina/iina) : Swift
-  - The modern video player for macOS.
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
-  - Roadmap to becoming a web developer in 2020
-- [blog_os](https://github.com/phil-opp/blog_os) : HTML
-  - Writing an OS in Rust
+- [Amazon-Fresh-Whole-Foods-delivery-slot-finder](https://github.com/ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder) : AppleScript
+  - A Mac tool that finds available delivery slots for Amazon's Whole Foods delivery and Amazon Fresh services
+- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) : Python
+  - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
+- [Whole-Foods-Delivery-Slot](https://github.com/pcomputo/Whole-Foods-Delivery-Slot) : Python
+  - Automated script for Whole Foods and Amazon Fresh delivery slot
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
+- [nodejs-backend-architecture-typescript](https://github.com/afteracademy/nodejs-backend-architecture-typescript) : TypeScript
+  - Node.js Backend Architecture Typescript - Learn to build a backend server for Blogging platform like Medium, FreeCodeCamp, MindOrks, AfterAcademy - Learn to write unit and integration tests - Learn to use Docker image - Open-Source Project By AfterAcademy
+- [awesome-compose](https://github.com/docker/awesome-compose) : HTML
+  - Awesome Docker Compose samples
+- [spring-analysis](https://github.com/seaswalker/spring-analysis) : Java
+  - Spring源码阅读
+- [interview_internal_reference](https://github.com/0voice/interview_internal_reference) : Python
+  - 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 - [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) : Java
   - spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…
-- [docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) : Lua
-  - Jitsi Meet on Docker
-- [raylib](https://github.com/raysan5/raylib) : C
-  - A simple and easy-to-use library to enjoy videogames programming
-- [AnimeGAN](https://github.com/TachibanaYoshino/AnimeGAN) : Python
-  - A Tensorflow implementation of AnimeGAN for fast photo animation ! This is the Open source of the paper <AnimeGAN: a novel lightweight GAN for photo animation>, which uses the GAN framwork to transform real-world photos into anime images.
-- [manim](https://github.com/3b1b/manim) : Python
-  - Animation engine for explanatory math videos
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [obs-studio](https://github.com/obsproject/obs-studio) : C
-  - OBS Studio - Free and open source software for live streaming and screen recording
-- [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) : Shell
-  - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
-- [Ryujinx](https://github.com/Ryujinx/Ryujinx) : C#
-  - Experimental Nintendo Switch Emulator written in C#
-- [speedtest](https://github.com/librespeed/speedtest) : HTML
-  - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
-- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
-  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-- [gitignore](https://github.com/github/gitignore) : 
-  - A collection of useful .gitignore templates
-- [excalidraw](https://github.com/excalidraw/excalidraw) : TypeScript
-  - Virtual whiteboard for sketching hand-drawn like diagrams
+- [jitsi-meet](https://github.com/jitsi/jitsi-meet) : JavaScript
+  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [covid19india-react](https://github.com/covid19india/covid19india-react) : JavaScript
+  - 📊 Source code of the main website
 - [PowerToys](https://github.com/microsoft/PowerToys) : C++
   - Windows system utilities to maximize productivity
-- [react-ultimate-resume](https://github.com/welovedevs/react-ultimate-resume) : JavaScript
-  - 💼 🎨 A modern software developer resume built with React and JSONResume
-- [dlaicourse](https://github.com/lmoroney/dlaicourse) : Jupyter Notebook
-  - Notebooks for learning deep learning
+- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) : PowerShell
+  - Azure Quickstart Templates
+- [covid19model](https://github.com/ImperialCollegeLondon/covid19model) : Jupyter Notebook
+  - Code for modelling estimated deaths and cases for COVID19.
+- [Flutter-Course-Resources](https://github.com/londonappbrewery/Flutter-Course-Resources) : 
+  - Learn to Code While Building Apps - The Complete Flutter Development Bootcamp
+- [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine) : C++
+  - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects
+- [theia](https://github.com/eclipse-theia/theia) : TypeScript
+  - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+- [iced](https://github.com/hecrj/iced) : Rust
+  - A cross-platform GUI library for Rust, inspired by Elm
+- [docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) : Lua
+  - Jitsi Meet on Docker
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) : 
+  - Master the command line, in one page
+- [crawlab](https://github.com/crawlab-team/crawlab) : Go
+  - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
+- [googletest](https://github.com/google/googletest) : C++
+  - Googletest - Google Testing and Mocking Framework
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
+  - 📚 Freely available programming books
+- [COVID-CT](https://github.com/UCSD-AI4H/COVID-CT) : Python
+  - COVID-CT-Dataset: A CT Scan Dataset about COVID-19

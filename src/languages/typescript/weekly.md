@@ -1,51 +1,51 @@
 # typescript
-- [excalidraw](https://github.com/excalidraw/excalidraw)
-  - Virtual whiteboard for sketching hand-drawn like diagrams
-- [deno](https://github.com/denoland/deno)
-  - A secure JavaScript and TypeScript runtime
-- [Angular-GettingStarted](https://github.com/DeborahK/Angular-GettingStarted)
-  - Sample Angular application used in the "Angular: Getting Started" course: http://bit.ly/Angular-GettingStarted
-- [streamlabs-obs](https://github.com/stream-labs/streamlabs-obs)
-  - Free and open source streaming software built on OBS and Electron.
+- [nodejs-backend-architecture-typescript](https://github.com/afteracademy/nodejs-backend-architecture-typescript)
+  - Node.js Backend Architecture Typescript - Learn to build a backend server for Blogging platform like Medium, FreeCodeCamp, MindOrks, AfterAcademy - Learn to write unit and integration tests - Learn to use Docker image - Open-Source Project By AfterAcademy
 - [theia](https://github.com/eclipse-theia/theia)
   - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [frontend](https://github.com/home-assistant/frontend)
-  - 🍭 Frontend for Home Assistant
-- [prisma](https://github.com/prisma/prisma)
-  - Modern DB toolkit to query, migrate and model your database
-- [flipper](https://github.com/facebook/flipper)
-  - A desktop debugging platform for mobile developers.
-- [angular-cli](https://github.com/angular/angular-cli)
-  - CLI tool for Angular
-- [typeorm](https://github.com/typeorm/typeorm)
-  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-  - The repository for high quality TypeScript type definitions.
-- [qiankun](https://github.com/umijs/qiankun)
-  - 📦🚀Blazing fast, simple and completed solution for micro frontends.
-- [lens](https://github.com/lensapp/lens)
-  - Lens - The Kubernetes IDE
-- [react-navigation](https://github.com/react-navigation/react-navigation)
-  - Routing and navigation for your React Native apps
-- [apollo-server](https://github.com/apollographql/apollo-server)
-  - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
-- [firebase-tools](https://github.com/firebase/firebase-tools)
-  - The Firebase Command Line Tools
-- [desktop](https://github.com/desktop/desktop)
-  - Simple collaboration from your desktop
-- [gqless](https://github.com/samdenty/gqless)
-  - A GraphQL client without queries ✨
-- [prisma-examples](https://github.com/prisma/prisma-examples)
-  - 🚀 Ready-to-run Prisma example projects
-- [webiny-js](https://github.com/webiny/webiny-js)
-  - Serverless CMS (GraphQL + React + Node.js + AWS Lambda)
-- [open-coronavirus](https://github.com/open-coronavirus/open-coronavirus)
-  - Open Coronavirus
-- [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
-  - Foreign language reading and translation assistant based on copy and translate.
+- [Angular-GettingStarted](https://github.com/DeborahK/Angular-GettingStarted)
+  - Sample Angular application used in the "Angular: Getting Started" course: http://bit.ly/Angular-GettingStarted
+- [angular](https://github.com/angular/angular)
+  - One framework. Mobile & desktop.
 - [TypeScript](https://github.com/microsoft/TypeScript)
   - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [jest](https://github.com/facebook/jest)
-  - Delightful JavaScript Testing.
-- [nativefier](https://github.com/jiahaog/nativefier)
-  - Make any web page a desktop application
+- [flipper](https://github.com/facebook/flipper)
+  - A desktop debugging platform for mobile developers.
+- [mkdocs-material](https://github.com/squidfunk/mkdocs-material)
+  - A Material Design theme for MkDocs
+- [amplify-js](https://github.com/aws-amplify/amplify-js)
+  - A declarative JavaScript library for application development using cloud services.
+- [vuetify](https://github.com/vuetifyjs/vuetify)
+  - 🐉 Material Component Framework for Vue
+- [swr](https://github.com/zeit/swr)
+  - React Hooks library for remote data fetching
+- [terminus](https://github.com/Eugeny/terminus)
+  - A terminal for a more modern age
+- [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
+  - Foreign language reading and translation assistant based on copy and translate.
+- [deno](https://github.com/denoland/deno)
+  - A secure JavaScript and TypeScript runtime
+- [redux](https://github.com/reduxjs/redux)
+  - Predictable state container for JavaScript apps
+- [react-navigation](https://github.com/react-navigation/react-navigation)
+  - Routing and navigation for your React Native apps
+- [vue-next](https://github.com/vuejs/vue-next)
+  - The next major version of Vue (WIP)
+- [coc.nvim](https://github.com/neoclide/coc.nvim)
+  - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
+- [components](https://github.com/angular/components)
+  - Component infrastructure and Material Design components for Angular
+- [qiankun](https://github.com/umijs/qiankun)
+  - 📦🚀Blazing fast, simple and completed solution for micro frontends.
+- [amazon-chime-sdk-js](https://github.com/aws/amazon-chime-sdk-js)
+  - A JavaScript client library for integrating multi-party communications powered by the Amazon Chime service.
+- [angular-cli](https://github.com/angular/angular-cli)
+  - CLI tool for Angular
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+  - The repository for high quality TypeScript type definitions.
+- [super-productivity](https://github.com/johannesjo/super-productivity)
+  - Free to do list & time tracker for programmers & designers with Jira integration
+- [rxjs](https://github.com/ReactiveX/rxjs)
+  - A reactive programming library for JavaScript
+- [react-native-fast-image](https://github.com/DylanVann/react-native-fast-image)
+  - 🚩 FastImage, performant React Native image component.
