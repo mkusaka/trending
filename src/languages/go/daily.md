@@ -42,7 +42,7 @@
 - [syncthing](https://github.com/syncthing/syncthing)
   - Open Source Continuous File Synchronization
 - [micro](https://github.com/micro/micro)
-  - Micro is a distributed service runtime for the Cloud
+  - Micro is a distributed systems runtime for the Cloud
 - [clash](https://github.com/Dreamacro/clash)
   - A rule-based tunnel in Go.
 - [Dragonfly](https://github.com/dragonflyoss/Dragonfly)
