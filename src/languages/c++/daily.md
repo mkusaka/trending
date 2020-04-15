@@ -1,51 +1,51 @@
 # c++
-- [yuzu](https://github.com/yuzu-emu/yuzu)
-  - Nintendo Switch Emulator
-- [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)
-  - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects
 - [interview](https://github.com/huihut/interview)
   - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。
-- [cuberite](https://github.com/cuberite/cuberite)
-  - A lightweight, fast and extensible game server for Minecraft
-- [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2)
-  - An open source re-implementation of RollerCoaster Tycoon 2 🎢
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [minetest](https://github.com/minetest/minetest)
-  - Minetest, an open source infinite-world block sandbox game engine with support for survival and crafting. Also see https://github.com/minetest/minetest_game
-- [Clementine](https://github.com/clementine-player/Clementine)
-  - 🍊 Clementine Music Player
-- [Hazel](https://github.com/TheCherno/Hazel)
-  - Hazel Engine
-- [stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn)
-  - Proxy performance batch tester based on Shadowsocks(R) and V2Ray
-- [aseprite](https://github.com/aseprite/aseprite)
-  - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [xbmc](https://github.com/xbmc/xbmc)
-  - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
-- [bgfx](https://github.com/bkaradzic/bgfx)
-  - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
-- [WebServer](https://github.com/linyacool/WebServer)
-  - A C++ High Performance Web Server
-- [imgui](https://github.com/ocornut/imgui)
-  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+- [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)
+  - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects
+- [onnxruntime](https://github.com/microsoft/onnxruntime)
+  - ONNX Runtime: cross-platform, high performance scoring engine for ML models
+- [mediapipe](https://github.com/google/mediapipe)
+  - MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
+- [rocksdb](https://github.com/facebook/rocksdb)
+  - A library that provides an embeddable, persistent key-value store for fast storage.
+- [electron](https://github.com/electron/electron)
+  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+  - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+- [mindspore](https://github.com/mindspore-ai/mindspore)
+  - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
+- [JUCE](https://github.com/WeAreROLI/JUCE)
+  - The JUCE cross-platform C++ framework
 - [pytorch](https://github.com/pytorch/pytorch)
   - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [terminal](https://github.com/microsoft/terminal)
-  - The new Windows Terminal and the original Windows console host, all in the same place!
-- [snapcast](https://github.com/badaix/snapcast)
-  - Synchronous multiroom audio player
-- [rpcs3](https://github.com/RPCS3/rpcs3)
-  - PS3 emulator/debugger
-- [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
-  - Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs
-- [Osiris](https://github.com/danielkrupinski/Osiris)
-  - Free open-source training software / cheat for Counter-Strike: Global Offensive, written in modern C++. GUI powered by imgui.
-- [openscad](https://github.com/openscad/openscad)
-  - OpenSCAD - The Programmers Solid 3D CAD Modeller
-- [TrinityCore](https://github.com/TrinityCore/TrinityCore)
-  - TrinityCore Open Source MMO Framework (master = 8.3.0.33941, 3.3.5 = 3.3.5a.12340)
+- [sherloq](https://github.com/GuidoBartoli/sherloq)
+  - An open-source digital image forensic toolset
+- [serving](https://github.com/tensorflow/serving)
+  - A flexible, high-performance serving system for machine learning models
+- [Half-Life-Alyx-novr](https://github.com/r57zone/Half-Life-Alyx-novr)
+  - TrueOpenVR & SteamVR driver for Half-Life-Alyx for playing without VR / драйвер для игры без VR
 - [xmrig](https://github.com/xmrig/xmrig)
   - RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner
+- [youtube](https://github.com/Errichto/youtube)
+  - codes for my streams and YT videos
+- [libfacedetection](https://github.com/ShiqiYu/libfacedetection)
+  - An open source library for face detection in images. The face detection speed can reach 1000FPS.
+- [LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions)
+  - (Weekly Update) Python / C++11 Solutions of All 1411 LeetCode Problems
+- [re2](https://github.com/google/re2)
+  - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+- [otc](https://github.com/0x000cb/otc)
+  - 🔮 OTC Loader
+- [yuzu](https://github.com/yuzu-emu/yuzu)
+  - Nintendo Switch Emulator
+- [triador](https://github.com/ssloy/triador)
+  - ternary computer software emulator
+- [opencv](https://github.com/opencv/opencv)
+  - Open Source Computer Vision Library
+- [llvm-project](https://github.com/llvm/llvm-project)
+  - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
+- [MMKV](https://github.com/Tencent/MMKV)
+  - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows and POSIX.
+- [googletest](https://github.com/google/googletest)
+  - Googletest - Google Testing and Mocking Framework

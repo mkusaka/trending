@@ -1,51 +1,51 @@
 # rust
+- [raytracers](https://github.com/athas/raytracers)
+  - Performance comparison of parallel ray tracing in functional programming languages
+- [sqlx](https://github.com/launchbadge/sqlx)
+  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [wasmtime](https://github.com/bytecodealliance/wasmtime)
   - Standalone JIT-style runtime for WebAssembly, using Cranelift
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
-- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
-  - 📚 Learn to write an embedded OS in Rust 🦀
-- [examples](https://github.com/actix/examples)
-  - Actix web examples
-- [rand](https://github.com/rust-random/rand)
-  - A Rust library for random number generation.
-- [intermodal](https://github.com/casey/intermodal)
-  - 📦 Intermodal: A 40' foot shipping container for the internet
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [Rocket](https://github.com/SergioBenitez/Rocket)
-  - A web framework for Rust.
-- [navi](https://github.com/denisidoro/navi)
-  - An interactive cheatsheet tool for the command-line
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [juniper](https://github.com/graphql-rust/juniper)
-  - GraphQL server library for Rust
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [librespot](https://github.com/librespot-org/librespot)
-  - Open Source Spotify client library
-- [chocolate_milk](https://github.com/gamozolabs/chocolate_milk)
-  - Pure Rust x86_64 bootloader and kernel
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
-- [rust-openssl](https://github.com/sfackler/rust-openssl)
-  - OpenSSL bindings for Rust
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix web is a small, pragmatic, and extremely fast rust web framework.
-- [kmon](https://github.com/orhun/kmon)
-  - Linux Kernel Manager and Activity Monitor 🐧💻
-- [rustlings](https://github.com/fmoko/rustlings)
+- [mdBook](https://github.com/rust-lang/mdBook)
+  - Create book from markdown files. Like Gitbook but implemented in Rust
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
+- [flutter-rs](https://github.com/flutter-rs/flutter-rs)
+  - Build beautiful desktop apps with flutter and rust. 🌠 (wip)
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
+- [rustlings](https://github.com/rust-lang/rustlings)
   - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [serde](https://github.com/serde-rs/serde)
-  - Serialization framework for Rust
-- [diesel](https://github.com/diesel-rs/diesel)
-  - A safe, extensible ORM and Query Builder for Rust
+- [exa](https://github.com/ogham/exa)
+  - A modern version of ‘ls’.
+- [magicpak](https://github.com/coord-e/magicpak)
+  - 🔨 Build minimal docker images without static linking
+- [tikv](https://github.com/tikv/tikv)
+  - Distributed transactional key-value database, originally created to complement TiDB
+- [krustlet](https://github.com/deislabs/krustlet)
+  - Kubernetes Rust Kubelet
 - [amethyst](https://github.com/amethyst/amethyst)
   - Data-oriented and data-driven game engine written in Rust
-- [rust-clippy](https://github.com/rust-lang/rust-clippy)
-  - A bunch of lints to catch common mistakes and improve your Rust code
-- [winit](https://github.com/rust-windowing/winit)
-  - Window handling library in pure Rust
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix web is a small, pragmatic, and extremely fast rust web framework.
+- [rayon](https://github.com/rayon-rs/rayon)
+  - Rayon: A data parallelism library for Rust
+- [tonic](https://github.com/hyperium/tonic)
+  - A native gRPC client & server implementation with async/await support.
+- [WASI](https://github.com/WebAssembly/WASI)
+  - WebAssembly System Interface
+- [tide](https://github.com/http-rs/tide)
+  - Serve the web – ergonomic async http server framework
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
+- [lsd](https://github.com/Peltoche/lsd)
+  - The next gen ls command
+- [Rocket](https://github.com/SergioBenitez/Rocket)
+  - A web framework for Rust.
+- [fd](https://github.com/sharkdp/fd)
+  - A simple, fast and user-friendly alternative to 'find'
+- [navi](https://github.com/denisidoro/navi)
+  - An interactive cheatsheet tool for the command-line
+- [wasmer](https://github.com/wasmerio/wasmer)
+  - 🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten
