@@ -1,51 +1,51 @@
 # javascript
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [decentralized-video-chat](https://github.com/ianramzy/decentralized-video-chat)
   - 🚀 Zipcall.io 🚀 Peer to peer browser video calling platform with unmatched video quality and latency.
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [nuxt.js](https://github.com/nuxt/nuxt.js)
-  - The Vue.js Framework
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui)
-  - ⚡️Simple, Modular & Accessible UI Components for your React Applications
-- [grocy](https://github.com/grocy/grocy)
-  - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
-- [covid-safe-paths](https://github.com/tripleblindmarket/covid-safe-paths)
-  - COVID Safe Paths (based on Private Kit) is an open and privacy preserving system to use personal information to battle COVID
-- [grokking_algorithms](https://github.com/egonSchiele/grokking_algorithms)
-  - Code for the book Grokking Algorithms (https://amzn.to/29rVyHf)
-- [discord.js](https://github.com/discordjs/discord.js)
-  - A powerful JavaScript library for interacting with the Discord API
-- [joplin](https://github.com/laurent22/joplin)
-  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
-- [leetcode](https://github.com/azl397985856/leetcode)
-  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
-  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [StadiaPlus](https://github.com/Mafrans/StadiaPlus)
-  - Extends Google's Stadia gaming platform with additional features, such as custom filters and in game network monitoring.
-- [Script](https://github.com/NobyDa/Script)
-  - This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.
-- [phaser](https://github.com/photonstorm/phaser)
-  - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-- [preact](https://github.com/preactjs/preact)
-  - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
-- [plyr](https://github.com/sampotts/plyr)
-  - A simple HTML5, YouTube and Vimeo player
-- [API](https://github.com/NovelCOVID/API)
-  - API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
-- [covid-19-estimator-js](https://github.com/BuildforSDG-Cohort1-Assessment/covid-19-estimator-js)
-  - An overly simplified COVID-19 infections impact estimator
-- [project_chat_application](https://github.com/adrianhajdin/project_chat_application)
-  - This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a real time chat application. Covered topics: React.js, Node.js, Express.js, and Socket.io.
-- [iptv](https://github.com/iptv-org/iptv)
-  - Collection of 8000+ publicly available IPTV channels from all over the world
+- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
+  - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+- [react-query](https://github.com/tannerlinsley/react-query)
+  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+- [hegel](https://github.com/JSMonk/hegel)
+  - An advanced static type checker
+- [pdf.js](https://github.com/mozilla/pdf.js)
+  - PDF Reader in JavaScript
+- [javascript](https://github.com/airbnb/javascript)
+  - JavaScript Style Guide
+- [taro](https://github.com/NervJS/taro)
+  - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动/ QQ 小程序/快应用/H5/React Native 等的应用。 https://taro.jd.com/
 - [next.js](https://github.com/zeit/next.js)
   - The React Framework
-- [complete-node-bootcamp](https://github.com/jonasschmedtmann/complete-node-bootcamp)
-  - Starter files, final projects and FAQ for my Complete Node.js Bootcamp
-- [deck.gl](https://github.com/uber/deck.gl)
-  - WebGL2 powered geospatial visualization layers
+- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
+  - Beautiful and accessible drag and drop for lists with React
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [covid19-market-waiting-times](https://github.com/TheJoin95/covid19-market-waiting-times)
+  - A project to help people stand in line at the market as little as possible
+- [internship-application-fullstack](https://github.com/cloudflare-internship-2020/internship-application-fullstack)
+  - 
+- [formio.js](https://github.com/formio/formio.js)
+  - JavaScript powered Forms with JSON Form Builder
+- [jquery](https://github.com/jquery/jquery)
+  - jQuery JavaScript Library
+- [pixelbox](https://github.com/cstoquer/pixelbox)
+  - A sandbox framework to fast-prototype tile-based games in HTML5 and JavaScript
+- [google-meet-grid-view](https://github.com/Fugiman/google-meet-grid-view)
+  - Userscript to offer a grid-view layout in Google Meets
+- [bbbot](https://github.com/DanielHe4rt/bbbot)
+  - Bot feito para estudos de leitura de imagem
+- [project-guidelines](https://github.com/elsewhencode/project-guidelines)
+  - A set of best practices for JavaScript projects
+- [odoo](https://github.com/odoo/odoo)
+  - Odoo. Open Source Apps To Grow Your Business.
+- [Mock](https://github.com/nuysoft/Mock)
+  - A simulation data generator
+- [project_corona_tracker](https://github.com/adrianhajdin/project_corona_tracker)
+  - This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a corona tracker application. Covered topics: React.js, Chart.js, Material UI and much more.
+- [docusaurus](https://github.com/facebook/docusaurus)
+  - Easy to maintain open source documentation websites.
+- [cypress](https://github.com/cypress-io/cypress)
+  - Fast, easy and reliable testing for anything that runs in a browser.
+- [slick](https://github.com/kenwheeler/slick)
+  - the last carousel you'll ever need
+- [metamask-extension](https://github.com/MetaMask/metamask-extension)
+  - 🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
