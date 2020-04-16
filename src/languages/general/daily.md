@@ -1,51 +1,51 @@
 # general
-- [Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) : Python
-  - The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights.
-- [examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) : Python
-  - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
-- [spring-boot-api-project-seed](https://github.com/lihengming/spring-boot-api-project-seed) : Java
-  - 🌱🚀一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~
-- [UTM](https://github.com/utmapp/UTM) : Objective-C
-  - Virtual machines for iOS
 - [cobol-programming-course](https://github.com/openmainframeproject/cobol-programming-course) : 
   - COBOL Programming Course
-- [covid-19](https://github.com/k-sys/covid-19) : Jupyter Notebook
-  - A collection of work related to COVID-19
-- [pandemic-ventilator-2.0](https://github.com/Mascobot/pandemic-ventilator-2.0) : Python
-  - Open Source Pandemic Ventilator with Raspberry Pi and Arduino
-- [decentralized-video-chat](https://github.com/ianramzy/decentralized-video-chat) : JavaScript
-  - 🚀 Zipcall.io 🚀 Peer to peer browser video calling platform with unmatched video quality and latency.
-- [CyberProfDevelopmentCovidResources](https://github.com/gerryguy311/CyberProfDevelopmentCovidResources) : 
-  - An awesome list of FREE resources for training, conferences, speaking, labs, reading, etc that are free all the time or during COVID-19 that cybersecurity professionals with downtime can take advantage of to improve their skills and marketability to come out on the other side ready to rock.
-- [interview](https://github.com/huihut/interview) : C++
-  - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。
-- [raytracers](https://github.com/athas/raytracers) : Rust
-  - Performance comparison of parallel ray tracing in functional programming languages
-- [twint](https://github.com/twintproject/twint) : Python
-  - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
-- [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine) : C++
-  - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects
-- [micrograd](https://github.com/karpathy/micrograd) : Jupyter Notebook
-  - A tiny autograd engine and a neural net library on top of it, potentially for educational purposes
-- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) : JavaScript
-  - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+- [UTM](https://github.com/utmapp/UTM) : Objective-C
+  - Virtual machines for iOS
+- [ModernCppStarter](https://github.com/TheLartians/ModernCppStarter) : CMake
+  - Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and more.
 - [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) : Java
   - To Be Top Javaer - Java工程师成神之路
+- [privilege-escalation-awesome-scripts-suite](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) : C#
+  - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
+- [project-guidelines](https://github.com/elsewhencode/project-guidelines) : JavaScript
+  - A set of best practices for JavaScript projects
+- [automl](https://github.com/google/automl) : Jupyter Notebook
+  - Google Brain AutoML
+- [esbuild](https://github.com/evanw/esbuild) : Go
+  - An extremely fast JavaScript bundler and minifier
+- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) : 
+  - 🔗 Some useful websites for programmers.
+- [examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) : Python
+  - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
+- [google-meet-grid-view](https://github.com/Fugiman/google-meet-grid-view) : JavaScript
+  - Userscript to offer a grid-view layout in Google Meets
+- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
+  - A long list of (advanced) JavaScript questions, and their explanations ✨
+- [CyberProfDevelopmentCovidResources](https://github.com/gerryguy311/CyberProfDevelopmentCovidResources) : 
+  - An awesome list of FREE resources for training, conferences, speaking, labs, reading, etc that are free all the time or during COVID-19 that cybersecurity professionals with downtime can take advantage of to improve their skills and marketability to come out on the other side ready to rock.
+- [covid-19](https://github.com/k-sys/covid-19) : Jupyter Notebook
+  - A collection of work related to COVID-19
+- [airbreak](https://github.com/osresearch/airbreak) : Assembly
+  - CPAP jailbreak to allow it to be used as a temporary ventilator
 - [real-world-vue](https://github.com/Code-Pop/real-world-vue) : Vue
   - The application that we build in Vue Mastery's courses starting with Real World Vue
 - [app-ideas](https://github.com/florinpop17/app-ideas) : 
   - A Collection of application ideas which can be used to improve your coding skills.
-- [cortex](https://github.com/cortexlabs/cortex) : Go
-  - Cloud native model serving infrastructure
+- [tensorflow](https://github.com/tensorflow/tensorflow) : C++
+  - An Open Source Machine Learning Framework for Everyone
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
+- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) : JavaScript
+  - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
 - [keycloak](https://github.com/keycloak/keycloak) : Java
   - Open Source Identity and Access Management For Modern Applications and Services
-- [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js) : TypeScript
-  - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
-- [nbnhhsh](https://github.com/itorr/nbnhhsh) : HTML
-  - 😩「能不能好好说话？」 拼音首字母缩写翻译工具
-- [material-components-web](https://github.com/material-components/material-components-web) : TypeScript
-  - Modular and customizable Material Design UI components for the web
-- [weir](https://github.com/inconvergent/weir) : Common Lisp
-  - A system for making generative systems
-- [azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) : C#
-  - This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.
+- [ionic](https://github.com/ionic-team/ionic) : TypeScript
+  - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
+- [go-admin](https://github.com/wenjianzhang/go-admin) : Go
+  - 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：基础用户管理功能，jwt鉴权，代码生成器，RABC资源控制，表单构建等）
+- [decentralized-video-chat](https://github.com/ianramzy/decentralized-video-chat) : JavaScript
+  - 🚀 Zipcall.io 🚀 Peer to peer browser video calling platform with unmatched video quality and latency.
+- [vscode](https://github.com/microsoft/vscode) : TypeScript
+  - Visual Studio Code
