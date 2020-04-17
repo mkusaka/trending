@@ -1,51 +1,51 @@
 # c++
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [interview](https://github.com/huihut/interview)
-  - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。
-- [mindspore](https://github.com/mindspore-ai/mindspore)
-  - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
-- [DeepSpeech](https://github.com/mozilla/DeepSpeech)
-  - A TensorFlow implementation of Baidu's DeepSpeech architecture
-- [Catch2](https://github.com/catchorg/Catch2)
-  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-- [milvus](https://github.com/milvus-io/milvus)
-  - An open source vector similarity search engine
-- [VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion)
-  - An optimization-based multi-sensor state estimator
-- [apollo](https://github.com/ApolloAuto/apollo)
-  - An open autonomous driving platform
-- [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)
-  - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects
-- [git-crypt](https://github.com/AGWA/git-crypt)
-  - Transparent file encryption in git
-- [miniblink49](https://github.com/weolar/miniblink49)
-  - a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef
-- [pybind11](https://github.com/pybind/pybind11)
-  - Seamless operability between C++11 and Python
-- [opencv](https://github.com/opencv/opencv)
-  - Open Source Computer Vision Library
-- [cpprestsdk](https://github.com/microsoft/cpprestsdk)
-  - The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
-- [rathena](https://github.com/rathena/rathena)
-  - rAthena is an open-source cross-platform MMORPG server.
-- [thrift](https://github.com/apache/thrift)
-  - Apache Thrift
-- [librealsense](https://github.com/IntelRealSense/librealsense)
-  - Intel® RealSense™ SDK
-- [mysql-server](https://github.com/mysql/mysql-server)
-  - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
 - [folly](https://github.com/facebook/folly)
   - An open-source C++ library developed and used at Facebook.
-- [srt](https://github.com/Haivision/srt)
-  - Secure, Reliable, Transport
+- [benchmark](https://github.com/google/benchmark)
+  - A microbenchmark support library
+- [scylla](https://github.com/scylladb/scylla)
+  - NoSQL data store using the seastar framework, compatible with Apache Cassandra
+- [tensorflow](https://github.com/tensorflow/tensorflow)
+  - An Open Source Machine Learning Framework for Everyone
+- [Catch2](https://github.com/catchorg/Catch2)
+  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [vnpy](https://github.com/vnpy/vnpy)
+  - 基于Python的开源量化交易平台开发框架
 - [onnxruntime](https://github.com/microsoft/onnxruntime)
   - ONNX Runtime: cross-platform, high performance scoring engine for ML models
-- [json](https://github.com/nlohmann/json)
-  - JSON for Modern C++
-- [webrtc-streamer](https://github.com/mpromonet/webrtc-streamer)
-  - WebRTC streamer for V4L2 capture devices, RTSP sources and Screen Capture
-- [ESP3D](https://github.com/luc-github/ESP3D)
-  - FW for ESP8266/ESP8285/ESP32 used with 3D printer
+- [tink](https://github.com/google/tink)
+  - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
+- [aria2](https://github.com/aria2/aria2)
+  - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+- [caffe](https://github.com/BVLC/caffe)
+  - Caffe: a fast open framework for deep learning.
+- [otc](https://github.com/0x000cb/otc)
+  - 🔮 OTC Loader
+- [iree](https://github.com/google/iree)
+  - 👻
+- [mediapipe](https://github.com/google/mediapipe)
+  - MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
+- [carla](https://github.com/carla-simulator/carla)
+  - Open-source simulator for autonomous driving research.
+- [incubator-mxnet](https://github.com/apache/incubator-mxnet)
+  - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
+- [gdal](https://github.com/OSGeo/gdal)
+  - GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats.
+- [imgui](https://github.com/ocornut/imgui)
+  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+- [Firmware](https://github.com/PX4/Firmware)
+  - PX4 Autopilot Software
 - [msgpack-c](https://github.com/msgpack/msgpack-c)
   - MessagePack implementation for C and C++ / msgpack.org[C/C++]
+- [protobuf](https://github.com/protocolbuffers/protobuf)
+  - Protocol Buffers - Google's data interchange format
+- [godot](https://github.com/godotengine/godot)
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [terminal](https://github.com/microsoft/terminal)
+  - The new Windows Terminal and the original Windows console host, all in the same place!
+- [CRYENGINE](https://github.com/CRYTEK/CRYENGINE)
+  - CRYENGINE is a powerful real-time game development platform created by Crytek.
+- [bullet3](https://github.com/bulletphysics/bullet3)
+  - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
+- [eos](https://github.com/EOSIO/eos)
+  - An open source smart contract platform

@@ -1,51 +1,51 @@
 # rust
-- [raytracers](https://github.com/athas/raytracers)
-  - Performance comparison of parallel ray tracing in functional programming languages
+- [regex2fat](https://github.com/8051Enthusiast/regex2fat)
+  - Turn your favourite regex into FAT32
+- [mini-redis](https://github.com/tokio-rs/mini-redis)
+  - Incomplete Redis client and server implementation using Tokio
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
 - [nushell](https://github.com/nushell/nushell)
   - A new type of shell
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
-  - Unofficial Bitwarden compatible server written in Rust
-- [mobilecoin](https://github.com/mobilecoinofficial/mobilecoin)
-  - Private payments for mobile devices.
-- [rustc_codegen_cranelift](https://github.com/bjorn3/rustc_codegen_cranelift)
-  - Cranelift backend for rustc
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
 - [wrangler](https://github.com/cloudflare/wrangler)
   - 🤠 wrangle your cloudflare workers
-- [krustlet](https://github.com/deislabs/krustlet)
-  - Kubernetes Rust Kubelet
-- [druid](https://github.com/xi-editor/druid)
-  - A data-first Rust-native UI design toolkit.
-- [exa](https://github.com/ogham/exa)
-  - A modern version of ‘ls’.
-- [tonic](https://github.com/hyperium/tonic)
-  - A native gRPC client & server implementation with async/await support.
-- [wasmtime](https://github.com/bytecodealliance/wasmtime)
-  - Standalone JIT-style runtime for WebAssembly, using Cranelift
-- [examples](https://github.com/actix/examples)
-  - Actix web examples
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [talent-plan](https://github.com/pingcap/talent-plan)
-  - PingCAP training courses
-- [stacks-blockchain](https://github.com/blockstack/stacks-blockchain)
-  - The Stacks 2.0 blockchain implementation
-- [lemmy](https://github.com/LemmyNet/lemmy)
-  - 🐀 Building a federated alternative to reddit in rust
-- [static-analysis](https://github.com/analysis-tools-dev/static-analysis)
-  - Static analysis tools for all programming languages, build tools, config files and more.
-- [tract](https://github.com/snipsco/tract)
-  - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
-- [lumen](https://github.com/lumen/lumen)
-  - An alternative BEAM implementation, designed for WebAssembly
-- [rustup](https://github.com/rust-lang/rustup)
-  - The Rust toolchain installer
+- [trow](https://github.com/ContainerSolutions/trow)
+  - Container Registry and Image Management for Kubernetes Clusters
+- [vector](https://github.com/timberio/vector)
+  - A lightweight and ultra-fast tool for building observability pipelines
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix web is a small, pragmatic, and extremely fast rust web framework.
+- [fd](https://github.com/sharkdp/fd)
+  - A simple, fast and user-friendly alternative to 'find'
+- [indy-sdk](https://github.com/hyperledger/indy-sdk)
+  - Everything needed to build applications that interact with an Indy distributed identity ledger.
+- [coreutils](https://github.com/uutils/coreutils)
+  - Cross-platform Rust rewrite of the GNU coreutils
+- [rustlings](https://github.com/rust-lang/rustlings)
+  - 🦀 Small exercises to get you used to reading and writing Rust code!
 - [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
   - Facilitating high-level interactions between Wasm modules and JavaScript
-- [rayon](https://github.com/rayon-rs/rayon)
-  - Rayon: A data parallelism library for Rust
-- [spotifyd](https://github.com/Spotifyd/spotifyd)
-  - A spotify daemon
-- [boringtun](https://github.com/cloudflare/boringtun)
-  - Userspace WireGuard® Implementation in Rust
+- [tikv](https://github.com/tikv/tikv)
+  - Distributed transactional key-value database, originally created to complement TiDB
+- [noria](https://github.com/mit-pdos/noria)
+  - Fast web applications through dynamic, partially-stateful dataflow
+- [mobilecoin](https://github.com/mobilecoinofficial/mobilecoin)
+  - Private payments for mobile devices.
+- [krustlet](https://github.com/deislabs/krustlet)
+  - Kubernetes Rust Kubelet
+- [boa](https://github.com/jasonwilliams/boa)
+  - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
+- [wasmtime](https://github.com/bytecodealliance/wasmtime)
+  - Standalone JIT-style runtime for WebAssembly, using Cranelift
+- [mio](https://github.com/tokio-rs/mio)
+  - Metal IO library for Rust
+- [talent-plan](https://github.com/pingcap/talent-plan)
+  - PingCAP training courses
+- [openethereum](https://github.com/openethereum/openethereum)
+  - Fast and feature-rich multi-network Ethereum client.
+- [zola](https://github.com/getzola/zola)
+  - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
