@@ -1,51 +1,50 @@
 # general
-- [cobol-programming-course](https://github.com/openmainframeproject/cobol-programming-course) : 
-  - COBOL Programming Course
+- [vanilla-parcel-boilerplate](https://github.com/bradtraversy/vanilla-parcel-boilerplate) : JavaScript
+  - Simple starter workflow for building vanilla js apps with Parcel
+- [pong](https://github.com/games50/pong) : Lua
+  - Atari's 1972 classic, implemented in Lua with LÖVE
+- [folly](https://github.com/facebook/folly) : C++
+  - An open-source C++ library developed and used at Facebook.
+- [gridstudio](https://github.com/ricklamers/gridstudio) : JavaScript
+  - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
+- [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go) : Go
+  - 百度网盘客户端 - Go语言编写
 - [UTM](https://github.com/utmapp/UTM) : Objective-C
   - Virtual machines for iOS
+- [google-research](https://github.com/google-research/google-research) : Jupyter Notebook
+  - Google Research
 - [ModernCppStarter](https://github.com/TheLartians/ModernCppStarter) : CMake
   - Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and more.
-- [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) : Java
-  - To Be Top Javaer - Java工程师成神之路
-- [privilege-escalation-awesome-scripts-suite](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) : C#
-  - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
-- [project-guidelines](https://github.com/elsewhencode/project-guidelines) : JavaScript
-  - A set of best practices for JavaScript projects
-- [automl](https://github.com/google/automl) : Jupyter Notebook
-  - Google Brain AutoML
-- [esbuild](https://github.com/evanw/esbuild) : Go
-  - An extremely fast JavaScript bundler and minifier
+- [spring-authorization-server](https://github.com/spring-projects-experimental/spring-authorization-server) : 
+  - A community-driven project led by the Spring Security team and is focused on delivering Authorization Server support to the Spring community
+- [dash](https://github.com/plotly/dash) : Python
+  - Analytical Web Apps for Python, R, and Julia. No JavaScript Required.
+- [qiankun](https://github.com/umijs/qiankun) : TypeScript
+  - 📦🚀Blazing fast, simple and completed solution for micro frontends.
+- [falcon](https://github.com/plotly/falcon) : JavaScript
+  - Free, open-source SQL client for Windows and Mac 🦅
+- [ShengDownload](https://github.com/WaterFishJ/ShengDownload) : 
+  - 2020-4-15 panDownload终究倒下，还是没能逃过xxx的xxx。他的替代品ShengDownload即日起正式启动。基于ShengLang开发，跨平台
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) : 
   - 🔗 Some useful websites for programmers.
-- [examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) : Python
-  - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
+- [project-guidelines](https://github.com/elsewhencode/project-guidelines) : JavaScript
+  - A set of best practices for JavaScript projects
+- [awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) : 
+  - 🔥Awesome list of resources on Web Development.
+- [awesome-papers](https://github.com/huggingface/awesome-papers) : 
+  - Papers & presentations from Hugging Face's weekly science day
+- [proton-bridge](https://github.com/ProtonMail/proton-bridge) : Go
+  - ProtonMail Bridge application
 - [google-meet-grid-view](https://github.com/Fugiman/google-meet-grid-view) : JavaScript
   - Userscript to offer a grid-view layout in Google Meets
-- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
-  - A long list of (advanced) JavaScript questions, and their explanations ✨
-- [CyberProfDevelopmentCovidResources](https://github.com/gerryguy311/CyberProfDevelopmentCovidResources) : 
-  - An awesome list of FREE resources for training, conferences, speaking, labs, reading, etc that are free all the time or during COVID-19 that cybersecurity professionals with downtime can take advantage of to improve their skills and marketability to come out on the other side ready to rock.
-- [covid-19](https://github.com/k-sys/covid-19) : Jupyter Notebook
-  - A collection of work related to COVID-19
-- [airbreak](https://github.com/osresearch/airbreak) : Assembly
-  - CPAP jailbreak to allow it to be used as a temporary ventilator
-- [real-world-vue](https://github.com/Code-Pop/real-world-vue) : Vue
-  - The application that we build in Vue Mastery's courses starting with Real World Vue
+- [org-roam](https://github.com/jethrokuan/org-roam) : Emacs Lisp
+  - Rudimentary Roam replica with Org-mode
+- [examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) : Python
+  - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
+- [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) : PHP
+  - A server software for Minecraft: Bedrock Edition in PHP
 - [app-ideas](https://github.com/florinpop17/app-ideas) : 
   - A Collection of application ideas which can be used to improve your coding skills.
-- [tensorflow](https://github.com/tensorflow/tensorflow) : C++
-  - An Open Source Machine Learning Framework for Everyone
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
-  - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
-- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) : JavaScript
-  - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
-- [keycloak](https://github.com/keycloak/keycloak) : Java
-  - Open Source Identity and Access Management For Modern Applications and Services
-- [ionic](https://github.com/ionic-team/ionic) : TypeScript
-  - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
-- [go-admin](https://github.com/wenjianzhang/go-admin) : Go
-  - 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：基础用户管理功能，jwt鉴权，代码生成器，RABC资源控制，表单构建等）
-- [decentralized-video-chat](https://github.com/ianramzy/decentralized-video-chat) : JavaScript
-  - 🚀 Zipcall.io 🚀 Peer to peer browser video calling platform with unmatched video quality and latency.
-- [vscode](https://github.com/microsoft/vscode) : TypeScript
-  - Visual Studio Code
+- [compose-samples](https://github.com/android/compose-samples) : Kotlin
+- [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) : Java
+  - To Be Top Javaer - Java工程师成神之路

@@ -1,51 +1,51 @@
 # javascript
+- [vanilla-parcel-boilerplate](https://github.com/bradtraversy/vanilla-parcel-boilerplate)
+  - Simple starter workflow for building vanilla js apps with Parcel
+- [gridstudio](https://github.com/ricklamers/gridstudio)
+  - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
+- [falcon](https://github.com/plotly/falcon)
+  - Free, open-source SQL client for Windows and Mac 🦅
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines)
   - A set of best practices for JavaScript projects
 - [google-meet-grid-view](https://github.com/Fugiman/google-meet-grid-view)
   - Userscript to offer a grid-view layout in Google Meets
-- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
-  - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
-- [decentralized-video-chat](https://github.com/ianramzy/decentralized-video-chat)
-  - 🚀 Zipcall.io 🚀 Peer to peer browser video calling platform with unmatched video quality and latency.
-- [carbon](https://github.com/carbon-design-system/carbon)
-  - A design system built by IBM
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [Corona-tracker](https://github.com/COVID-19-electronic-health-system/Corona-tracker)
-  - A web application promoting accurate COVID-19 guidelines and tracking user symptoms
+- [covid19-full-stack-application](https://github.com/anshumanpattnaik/covid19-full-stack-application)
+  - Coronavirus - (COVID-19) Full Stack Application
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+  - Headless Chrome Node.js API
 - [react](https://github.com/facebook/react)
   - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [vue](https://github.com/vuejs/vue)
+  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [odoo](https://github.com/odoo/odoo)
+  - Odoo. Open Source Apps To Grow Your Business.
 - [pdf.js](https://github.com/mozilla/pdf.js)
   - PDF Reader in JavaScript
-- [next.js](https://github.com/zeit/next.js)
-  - The React Framework
-- [cypress-example-recipes](https://github.com/cypress-io/cypress-example-recipes)
-  - Various recipes for testing common scenarios with Cypress
-- [covid19-full-stack-application](https://github.com/anshumanpattnaik/covid19-full-stack-application)
-  - (COVID-19) Full Stack Application
-- [core-js](https://github.com/zloirock/core-js)
-  - Standard Library
-- [vuex](https://github.com/vuejs/vuex)
-  - 🗃️ Centralized State Management for Vue.js.
-- [react-query](https://github.com/tannerlinsley/react-query)
-  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
-- [three.js](https://github.com/mrdoob/three.js)
-  - JavaScript 3D library.
-- [covid19-market-waiting-times](https://github.com/TheJoin95/covid19-market-waiting-times)
-  - A project to help people stand in line at the market as little as possible
-- [formio.js](https://github.com/formio/formio.js)
-  - JavaScript powered Forms with JSON Form Builder
-- [react-table](https://github.com/tannerlinsley/react-table)
-  - ⚛️ Hooks for building fast and extendable tables and datagrids for React
-- [watch-us-build-trello](https://github.com/Code-Pop/watch-us-build-trello)
-  - 
-- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
-  - Beautiful and accessible drag and drop for lists with React
-- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
-  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [babel](https://github.com/babel/babel)
-  - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
   - 🛁 Clean Code concepts adapted for JavaScript
-- [pixelbox](https://github.com/cstoquer/pixelbox)
-  - A sandbox framework to fast-prototype tile-based games in HTML5 and JavaScript
+- [Rules](https://github.com/eHpo1/Rules)
+  - Clash / Loon / QuantumultX / Shadowrocket / Surge去广告规则
+- [awx](https://github.com/ansible/awx)
+  - AWX Project
+- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
+  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [ace-builds](https://github.com/ajaxorg/ace-builds)
+  - Packaged version of Ace code editor
+- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
+  - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+- [Valorant-watcher](https://github.com/D3vl0per/Valorant-watcher)
+  - Automatic watching the twitch to get Valorant drop
+- [bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker)
+  - A datepicker for twitter bootstrap (@twbs)
+- [plotly.js](https://github.com/plotly/plotly.js)
+  - Open-source JavaScript charting library behind Plotly and Dash
+- [json-server](https://github.com/typicode/json-server)
+  - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [Sortable](https://github.com/SortableJS/Sortable)
+  - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Ember, Knockout and any CSS library, e.g. Bootstrap.
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+  -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [redux-saga](https://github.com/redux-saga/redux-saga)
+  - An alternative side effect model for Redux apps
