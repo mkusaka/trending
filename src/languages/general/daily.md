@@ -15,7 +15,7 @@
   - Google Research
 - [ModernCppStarter](https://github.com/TheLartians/ModernCppStarter) : CMake
   - Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and more.
-- [spring-authorization-server](https://github.com/spring-projects-experimental/spring-authorization-server) : 
+- [spring-authorization-server](https://github.com/spring-projects-experimental/spring-authorization-server) : Java
   - A community-driven project led by the Spring Security team and is focused on delivering Authorization Server support to the Spring community
 - [dash](https://github.com/plotly/dash) : Python
   - Analytical Web Apps for Python, R, and Julia. No JavaScript Required.
