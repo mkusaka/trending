@@ -1,51 +1,51 @@
 # javascript
 - [vanilla-parcel-boilerplate](https://github.com/bradtraversy/vanilla-parcel-boilerplate)
   - Simple starter workflow for building vanilla js apps with Parcel
+- [watch-us-build-trello](https://github.com/Code-Pop/watch-us-build-trello)
+  - 
+- [covid19india-react](https://github.com/covid19india/covid19india-react)
+  - 📊 Source code of the main website
+- [project_corona_tracker](https://github.com/adrianhajdin/project_corona_tracker)
+  - This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a corona tracker application. Covered topics: React.js, Chart.js, Material UI and much more.
+- [openSleep](https://github.com/tomasero/openSleep)
+  - platform for sleep hacking and research
+- [pwndrop](https://github.com/kgretzky/pwndrop)
+  - Self-deployable file hosting service for red teamers, allowing to easily upload and share payloads over HTTP and WebDAV.
+- [graphql-engine](https://github.com/hasura/graphql-engine)
+  - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 - [gridstudio](https://github.com/ricklamers/gridstudio)
   - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
-- [falcon](https://github.com/plotly/falcon)
-  - Free, open-source SQL client for Windows and Mac 🦅
-- [project-guidelines](https://github.com/elsewhencode/project-guidelines)
-  - A set of best practices for JavaScript projects
-- [google-meet-grid-view](https://github.com/Fugiman/google-meet-grid-view)
-  - Userscript to offer a grid-view layout in Google Meets
-- [covid19-full-stack-application](https://github.com/anshumanpattnaik/covid19-full-stack-application)
-  - Coronavirus - (COVID-19) Full Stack Application
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [vue](https://github.com/vuejs/vue)
-  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [odoo](https://github.com/odoo/odoo)
-  - Odoo. Open Source Apps To Grow Your Business.
-- [pdf.js](https://github.com/mozilla/pdf.js)
-  - PDF Reader in JavaScript
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [Rules](https://github.com/eHpo1/Rules)
-  - Clash / Loon / QuantumultX / Shadowrocket / Surge去广告规则
-- [awx](https://github.com/ansible/awx)
-  - AWX Project
+- [authentication_course](https://github.com/Code-Pop/authentication_course)
+  - Repo for Vue Mastery's Token-Based Authentication course
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [ferdi](https://github.com/getferdi/ferdi)
+  - 🧔🏽 Community fork of @meetfranz. Ferdi allows you to combine your favourite messaging services into one application
 - [jitsi-meet](https://github.com/jitsi/jitsi-meet)
   - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [ace-builds](https://github.com/ajaxorg/ace-builds)
-  - Packaged version of Ace code editor
-- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
-  - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
-- [Valorant-watcher](https://github.com/D3vl0per/Valorant-watcher)
-  - Automatic watching the twitch to get Valorant drop
-- [bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker)
-  - A datepicker for twitter bootstrap (@twbs)
-- [plotly.js](https://github.com/plotly/plotly.js)
-  - Open-source JavaScript charting library behind Plotly and Dash
+- [strapi](https://github.com/strapi/strapi)
+  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [Unit-Testing](https://github.com/Code-Pop/Unit-Testing)
+  - Repo for Vue Mastery's Unit Testing course
+- [website](https://github.com/CodingTrain/website)
+  - Coding Train website
+- [discord.js](https://github.com/discordjs/discord.js)
+  - A powerful JavaScript library for interacting with the Discord API
+- [cxmooc-tools](https://github.com/CodFrm/cxmooc-tools)
+  - 一个 超星(学习通)/智慧树(知到)/中国大学慕课 刷课工具,火狐,谷歌,油猴支持.全自动任务,视频倍速秒过,作业考试题库,验证码自动打码(੧ᐛ੭挂科模式,启动)
+- [dribbble2react](https://github.com/react-ui-kit/dribbble2react)
+  - Transform Dribbble designs to React-Native code | Shop UI Kit >>
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+  - freeCodeCamp.org's open source codebase and curriculum. Learn to code for free together with millions of people.
+- [iptv](https://github.com/iptv-org/iptv)
+  - Collection of 8000+ publicly available IPTV channels from all over the world
+- [vue-next-webpack-preview](https://github.com/vuejs/vue-next-webpack-preview)
+  - 
+- [scripts](https://github.com/chavyleung/scripts)
+  - 
+- [next.js](https://github.com/zeit/next.js)
+  - The React Framework
 - [json-server](https://github.com/typicode/json-server)
   - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
-  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [Sortable](https://github.com/SortableJS/Sortable)
-  - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Ember, Knockout and any CSS library, e.g. Bootstrap.
-- [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
-  -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [redux-saga](https://github.com/redux-saga/redux-saga)
-  - An alternative side effect model for Redux apps

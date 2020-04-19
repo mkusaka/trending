@@ -1,50 +1,50 @@
 # general
-- [vanilla-parcel-boilerplate](https://github.com/bradtraversy/vanilla-parcel-boilerplate) : JavaScript
-  - Simple starter workflow for building vanilla js apps with Parcel
-- [pong](https://github.com/games50/pong) : Lua
-  - Atari's 1972 classic, implemented in Lua with LÖVE
-- [folly](https://github.com/facebook/folly) : C++
-  - An open-source C++ library developed and used at Facebook.
-- [gridstudio](https://github.com/ricklamers/gridstudio) : JavaScript
-  - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
-- [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go) : Go
-  - 百度网盘客户端 - Go语言编写
-- [UTM](https://github.com/utmapp/UTM) : Objective-C
-  - Virtual machines for iOS
-- [google-research](https://github.com/google-research/google-research) : Jupyter Notebook
-  - Google Research
-- [ModernCppStarter](https://github.com/TheLartians/ModernCppStarter) : CMake
-  - Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and more.
-- [spring-authorization-server](https://github.com/spring-projects-experimental/spring-authorization-server) : Java
-  - A community-driven project led by the Spring Security team and is focused on delivering Authorization Server support to the Spring community
-- [dash](https://github.com/plotly/dash) : Python
-  - Analytical Web Apps for Python, R, and Julia. No JavaScript Required.
-- [qiankun](https://github.com/umijs/qiankun) : TypeScript
-  - 📦🚀Blazing fast, simple and completed solution for micro frontends.
-- [falcon](https://github.com/plotly/falcon) : JavaScript
-  - Free, open-source SQL client for Windows and Mac 🦅
-- [ShengDownload](https://github.com/WaterFishJ/ShengDownload) : 
-  - 2020-4-15 panDownload终究倒下，还是没能逃过xxx的xxx。他的替代品ShengDownload即日起正式启动。基于ShengLang开发，跨平台
+- [avatarify](https://github.com/alievk/avatarify) : Python
+  - Avatars for Zoom and Skype
+- [crank](https://github.com/bikeshaving/crank) : TypeScript
+  - Write JSX-driven components with functions, promises and generators.
+- [bird-bot](https://github.com/natewong1313/bird-bot) : Python
+  - A Nintendo Switch checkout bot. Currently supports Walmart and Bestbuy
+- [pandownload-fake-server](https://github.com/TkzcM/pandownload-fake-server) : HTML
+  - 重定向服务器打开 Pandownload
+- [dp3t-app-android](https://github.com/DP-3T/dp3t-app-android) : 
+  - The DP3T-App for Android
+- [dp3t-app-ios](https://github.com/DP-3T/dp3t-app-ios) : Swift
+  - The DP3T-App for iOS
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl) : Python
+  - Command-line program to download videos from YouTube.com and other video sites
+- [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) : Python
+  - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) : 
   - 🔗 Some useful websites for programmers.
-- [project-guidelines](https://github.com/elsewhencode/project-guidelines) : JavaScript
-  - A set of best practices for JavaScript projects
-- [awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) : 
-  - 🔥Awesome list of resources on Web Development.
-- [awesome-papers](https://github.com/huggingface/awesome-papers) : 
-  - Papers & presentations from Hugging Face's weekly science day
-- [proton-bridge](https://github.com/ProtonMail/proton-bridge) : Go
-  - ProtonMail Bridge application
-- [google-meet-grid-view](https://github.com/Fugiman/google-meet-grid-view) : JavaScript
-  - Userscript to offer a grid-view layout in Google Meets
-- [org-roam](https://github.com/jethrokuan/org-roam) : Emacs Lisp
-  - Rudimentary Roam replica with Org-mode
-- [examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) : Python
-  - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
-- [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) : PHP
-  - A server software for Minecraft: Bedrock Edition in PHP
-- [app-ideas](https://github.com/florinpop17/app-ideas) : 
-  - A Collection of application ideas which can be used to improve your coding skills.
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
+  - Roadmap to becoming a web developer in 2020
+- [aria2](https://github.com/aria2/aria2) : C++
+  - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+- [QuantumultX](https://github.com/nzw9314/QuantumultX) : 
+  - QuantumultX
+- [awesome-datascience](https://github.com/academic/awesome-datascience) : 
+  - 📝 An awesome Data Science repository to learn and apply for real world problems.
+- [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) : TeX
+  - Cheat Sheets
+- [Baidu-XunleiVIP](https://github.com/VIP-Share/Baidu-XunleiVIP) : 
+  - 百度网盘超级会员，迅雷会员、爱奇艺会员账号每日分享，还有优酷，腾讯，芒果等VIP。AND。百度网盘(百度云)不限速工具分享。
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
+  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [ResNeSt](https://github.com/zhanghang1989/ResNeSt) : Python
+  - ResNeSt: Split-Attention Network
 - [compose-samples](https://github.com/android/compose-samples) : Kotlin
-- [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) : Java
-  - To Be Top Javaer - Java工程师成神之路
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) : Shell
+  - 🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [public-apis](https://github.com/public-apis/public-apis) : Python
+  - A collective list of free APIs for use in software and web development.
+- [BaiduYunVIP](https://github.com/lpg-it/BaiduYunVIP) : 
+  - 百度云百度网盘超级会员账号SVIP账号免费分享, 另分享多款百度网盘不限速下载工具以及各大平台会员账号（迅雷 优酷 爱奇艺 腾讯视频等）.
+- [flutter](https://github.com/flutter/flutter) : Dart
+  - Flutter makes it easy and fast to build beautiful mobile apps.
+- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) : 
+  - This repository was created and developed by Ammar Amer @cry__pto Only. Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
+- [vanilla-parcel-boilerplate](https://github.com/bradtraversy/vanilla-parcel-boilerplate) : JavaScript
+  - Simple starter workflow for building vanilla js apps with Parcel
