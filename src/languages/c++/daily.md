@@ -1,51 +1,51 @@
 # c++
-- [folly](https://github.com/facebook/folly)
-  - An open-source C++ library developed and used at Facebook.
-- [benchmark](https://github.com/google/benchmark)
-  - A microbenchmark support library
-- [scylla](https://github.com/scylladb/scylla)
-  - NoSQL data store using the seastar framework, compatible with Apache Cassandra
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [Catch2](https://github.com/catchorg/Catch2)
-  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-- [vnpy](https://github.com/vnpy/vnpy)
-  - 基于Python的开源量化交易平台开发框架
-- [onnxruntime](https://github.com/microsoft/onnxruntime)
-  - ONNX Runtime: cross-platform, high performance scoring engine for ML models
-- [tink](https://github.com/google/tink)
-  - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [aria2](https://github.com/aria2/aria2)
   - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-- [caffe](https://github.com/BVLC/caffe)
-  - Caffe: a fast open framework for deep learning.
-- [otc](https://github.com/0x000cb/otc)
-  - 🔮 OTC Loader
+- [folly](https://github.com/facebook/folly)
+  - An open-source C++ library developed and used at Facebook.
+- [bitcoin](https://github.com/bitcoin/bitcoin)
+  - Bitcoin Core integration/staging tree
+- [WLED](https://github.com/Aircoookie/WLED)
+  - Control WS2812B RGB LEDs with an ESP8266 over WiFi!
+- [polybar](https://github.com/polybar/polybar)
+  - A fast and easy-to-use status bar
+- [Marlin](https://github.com/MarlinFirmware/Marlin)
+  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
+- [PowerToys](https://github.com/microsoft/PowerToys)
+  - Windows system utilities to maximize productivity
+- [Tasmota](https://github.com/arendst/Tasmota)
+  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
+- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
+  - C++那些事
+- [Magisk](https://github.com/topjohnwu/Magisk)
+  - The Magic Mask for Android
+- [lc0](https://github.com/LeelaChessZero/lc0)
+  - The rewritten engine, originally for tensorflow. Now all other backends have been ported here.
 - [iree](https://github.com/google/iree)
   - 👻
-- [mediapipe](https://github.com/google/mediapipe)
-  - MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
-- [carla](https://github.com/carla-simulator/carla)
-  - Open-source simulator for autonomous driving research.
-- [incubator-mxnet](https://github.com/apache/incubator-mxnet)
-  - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
-- [gdal](https://github.com/OSGeo/gdal)
-  - GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats.
-- [imgui](https://github.com/ocornut/imgui)
-  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
-- [Firmware](https://github.com/PX4/Firmware)
-  - PX4 Autopilot Software
-- [msgpack-c](https://github.com/msgpack/msgpack-c)
-  - MessagePack implementation for C and C++ / msgpack.org[C/C++]
-- [protobuf](https://github.com/protocolbuffers/protobuf)
-  - Protocol Buffers - Google's data interchange format
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [terminal](https://github.com/microsoft/terminal)
-  - The new Windows Terminal and the original Windows console host, all in the same place!
-- [CRYENGINE](https://github.com/CRYTEK/CRYENGINE)
-  - CRYENGINE is a powerful real-time game development platform created by Crytek.
-- [bullet3](https://github.com/bulletphysics/bullet3)
-  - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
-- [eos](https://github.com/EOSIO/eos)
-  - An open source smart contract platform
+- [box2d](https://github.com/erincatto/box2d)
+  - Box2D is a 2D physics engine for games
+- [trojan](https://github.com/trojan-gfw/trojan)
+  - An unidentifiable mechanism that helps you bypass GFW.
+- [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2)
+  - An open source re-implementation of RollerCoaster Tycoon 2 🎢
+- [LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions)
+  - (Weekly Update) Python / C++11 Solutions of All 1411 LeetCode Problems
+- [Proton](https://github.com/ValveSoftware/Proton)
+  - Compatibility tool for Steam Play based on Wine and additional components
+- [qBittorrent](https://github.com/qbittorrent/qBittorrent)
+  - qBittorrent BitTorrent client
+- [android-kernel-exploitation](https://github.com/cloudfuzz/android-kernel-exploitation)
+  - Android Kernel Exploitation
+- [forgottenserver](https://github.com/otland/forgottenserver)
+  - A free and open-source MMORPG server emulator written in C++
+- [engine](https://github.com/flutter/engine)
+  - The Flutter engine
+- [srs](https://github.com/ossrs/srs)
+  - SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.
+- [aseprite](https://github.com/aseprite/aseprite)
+  - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
+- [GSL](https://github.com/microsoft/GSL)
+  - Guidelines Support Library
+- [vnpy](https://github.com/vnpy/vnpy)
+  - 基于Python的开源量化交易平台开发框架
