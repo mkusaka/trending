@@ -1,50 +1,50 @@
 # general
-- [avatarify](https://github.com/alievk/avatarify) : Python
-  - Avatars for Zoom and Skype
-- [crank](https://github.com/bikeshaving/crank) : TypeScript
-  - Write JSX-driven components with functions, promises and generators.
 - [bird-bot](https://github.com/natewong1313/bird-bot) : Python
   - A Nintendo Switch checkout bot. Currently supports Walmart and Bestbuy
-- [pandownload-fake-server](https://github.com/TkzcM/pandownload-fake-server) : HTML
-  - 重定向服务器打开 Pandownload
-- [dp3t-app-android](https://github.com/DP-3T/dp3t-app-android) : 
-  - The DP3T-App for Android
-- [dp3t-app-ios](https://github.com/DP-3T/dp3t-app-ios) : Swift
-  - The DP3T-App for iOS
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [youtube-dl](https://github.com/ytdl-org/youtube-dl) : Python
-  - Command-line program to download videos from YouTube.com and other video sites
+- [fastbook](https://github.com/fastai/fastbook) : Jupyter Notebook
+  - Draft of the fastai book
 - [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) : Python
   - Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) : 
-  - 🔗 Some useful websites for programmers.
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl) : Python
+  - Command-line program to download videos from YouTube.com and other video sites
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [godot](https://github.com/godotengine/godot) : C++
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [computer-science](https://github.com/ossu/computer-science) : 
+  - 🎓 Path to a free self-taught education in Computer Science!
+- [real-world-vue](https://github.com/Code-Pop/real-world-vue) : Vue
+  - The application that we build in Vue Mastery's courses starting with Real World Vue
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
   - Roadmap to becoming a web developer in 2020
-- [aria2](https://github.com/aria2/aria2) : C++
-  - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-- [QuantumultX](https://github.com/nzw9314/QuantumultX) : 
-  - QuantumultX
-- [awesome-datascience](https://github.com/academic/awesome-datascience) : 
-  - 📝 An awesome Data Science repository to learn and apply for real world problems.
-- [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) : TeX
-  - Cheat Sheets
+- [compose-samples](https://github.com/android/compose-samples) : Kotlin
+- [Marlin](https://github.com/MarlinFirmware/Marlin) : C++
+  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
+- [til](https://github.com/jbranchaud/til) : Vim script
+  - 📝 Today I Learned
 - [Baidu-XunleiVIP](https://github.com/VIP-Share/Baidu-XunleiVIP) : 
   - 百度网盘超级会员，迅雷会员、爱奇艺会员账号每日分享，还有优酷，腾讯，芒果等VIP。AND。百度网盘(百度云)不限速工具分享。
-- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
-  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-- [ResNeSt](https://github.com/zhanghang1989/ResNeSt) : Python
-  - ResNeSt: Split-Attention Network
-- [compose-samples](https://github.com/android/compose-samples) : Kotlin
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) : Shell
-  - 🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-- [public-apis](https://github.com/public-apis/public-apis) : Python
-  - A collective list of free APIs for use in software and web development.
+- [vip_share](https://github.com/goyoka/vip_share) : 
+  - 每日分享 百度网盘SVIP账号、爱奇艺会员、芒果会员、搜狐会员、喜马拉雅会员、优酷会员、迅雷会员会员账号分享 (低调使用)
+- [OpenCore-Desktop-Guide](https://github.com/dortania/OpenCore-Desktop-Guide) : CSS
+  - Repo for the OpenCore Desktop Guide
+- [awesome-datascience](https://github.com/academic/awesome-datascience) : 
+  - 📝 An awesome Data Science repository to learn and apply for real world problems.
+- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) : C++
+  - C++那些事
+- [Belajar-Dengan-Jenius-AWS-Node.js](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-AWS-Node.js) : JavaScript
+  - Author : Gun Gun Febrianza
 - [BaiduYunVIP](https://github.com/lpg-it/BaiduYunVIP) : 
   - 百度云百度网盘超级会员账号SVIP账号免费分享, 另分享多款百度网盘不限速下载工具以及各大平台会员账号（迅雷 优酷 爱奇艺 腾讯视频等）.
-- [flutter](https://github.com/flutter/flutter) : Dart
-  - Flutter makes it easy and fast to build beautiful mobile apps.
-- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) : 
-  - This repository was created and developed by Ammar Amer @cry__pto Only. Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
-- [vanilla-parcel-boilerplate](https://github.com/bradtraversy/vanilla-parcel-boilerplate) : JavaScript
-  - Simple starter workflow for building vanilla js apps with Parcel
+- [dp3t-app-android](https://github.com/DP-3T/dp3t-app-android) : 
+  - The DP3T-App for Android
+- [avatarify](https://github.com/alievk/avatarify) : Python
+  - Avatars for Zoom and Skype
+- [awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification) : Python
+  - A collection of important graph embedding, classification and representation learning papers with implementations.
+- [documents](https://github.com/ROBERT-proximity-tracing/documents) : 
+  - Protocol specification, white paper, high level documents, etc.
+- [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) : TeX
+  - Cheat Sheets
+- [awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) : 
+  - 🔥Awesome list of resources on Web Development.
