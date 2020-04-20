@@ -1,51 +1,51 @@
 # javascript
-- [vanilla-parcel-boilerplate](https://github.com/bradtraversy/vanilla-parcel-boilerplate)
-  - Simple starter workflow for building vanilla js apps with Parcel
+- [Belajar-Dengan-Jenius-AWS-Node.js](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-AWS-Node.js)
+  - Author : Gun Gun Febrianza
 - [watch-us-build-trello](https://github.com/Code-Pop/watch-us-build-trello)
   - 
+- [cxmooc-tools](https://github.com/CodFrm/cxmooc-tools)
+  - 一个 超星(学习通)/智慧树(知到)/中国大学慕课 刷课工具,火狐,谷歌,油猴支持.全自动任务,视频倍速秒过,作业考试题库,验证码自动打码(੧ᐛ੭挂科模式,启动)
+- [229-multi-level-dropdown](https://github.com/fireship-io/229-multi-level-dropdown)
+  - Build an animated multi-level dropdown inspired by Facebook's UI
+- [discord.js](https://github.com/discordjs/discord.js)
+  - A powerful JavaScript library for interacting with the Discord API
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [authentication_course](https://github.com/Code-Pop/authentication_course)
+  - Repo for Vue Mastery's Token-Based Authentication course
 - [covid19india-react](https://github.com/covid19india/covid19india-react)
   - 📊 Source code of the main website
 - [project_corona_tracker](https://github.com/adrianhajdin/project_corona_tracker)
   - This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a corona tracker application. Covered topics: React.js, Chart.js, Material UI and much more.
-- [openSleep](https://github.com/tomasero/openSleep)
-  - platform for sleep hacking and research
-- [pwndrop](https://github.com/kgretzky/pwndrop)
-  - Self-deployable file hosting service for red teamers, allowing to easily upload and share payloads over HTTP and WebDAV.
-- [graphql-engine](https://github.com/hasura/graphql-engine)
-  - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
-- [gridstudio](https://github.com/ricklamers/gridstudio)
-  - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
-- [authentication_course](https://github.com/Code-Pop/authentication_course)
-  - Repo for Vue Mastery's Token-Based Authentication course
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [ferdi](https://github.com/getferdi/ferdi)
-  - 🧔🏽 Community fork of @meetfranz. Ferdi allows you to combine your favourite messaging services into one application
-- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
-  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [strapi](https://github.com/strapi/strapi)
-  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
+  - Bypass Paywalls for Chrome
+- [bypass-paywalls-firefox](https://github.com/iamadamdev/bypass-paywalls-firefox)
+  - Bypass Paywalls for Firefox
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
+  - Starter files, final projects and FAQ for my Complete JavaScript course
+- [Universal-Bypass](https://github.com/Sainan/Universal-Bypass)
+  - Don't waste your time with compliance. Universal Bypass circumvents annoying link shorteners.
 - [Unit-Testing](https://github.com/Code-Pop/Unit-Testing)
   - Repo for Vue Mastery's Unit Testing course
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+  - Headless Chrome Node.js API
+- [RSSHub](https://github.com/DIYgod/RSSHub)
+  - 🍰 Everything is RSSible
+- [ferdi](https://github.com/getferdi/ferdi)
+  - 🧔🏽 Community fork of @meetfranz. Ferdi allows you to combine your favourite messaging services into one application
+- [gridstudio](https://github.com/ricklamers/gridstudio)
+  - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
+- [Ghost](https://github.com/TryGhost/Ghost)
+  - 👻 The #1 headless Node.js CMS for professional publishing
+- [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+  - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [website](https://github.com/CodingTrain/website)
   - Coding Train website
-- [discord.js](https://github.com/discordjs/discord.js)
-  - A powerful JavaScript library for interacting with the Discord API
-- [cxmooc-tools](https://github.com/CodFrm/cxmooc-tools)
-  - 一个 超星(学习通)/智慧树(知到)/中国大学慕课 刷课工具,火狐,谷歌,油猴支持.全自动任务,视频倍速秒过,作业考试题库,验证码自动打码(੧ᐛ੭挂科模式,启动)
-- [dribbble2react](https://github.com/react-ui-kit/dribbble2react)
-  - Transform Dribbble designs to React-Native code | Shop UI Kit >>
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-  - freeCodeCamp.org's open source codebase and curriculum. Learn to code for free together with millions of people.
-- [iptv](https://github.com/iptv-org/iptv)
-  - Collection of 8000+ publicly available IPTV channels from all over the world
-- [vue-next-webpack-preview](https://github.com/vuejs/vue-next-webpack-preview)
-  - 
-- [scripts](https://github.com/chavyleung/scripts)
-  - 
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [edex-ui](https://github.com/GitSquared/edex-ui)
+  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [next.js](https://github.com/zeit/next.js)
   - The React Framework
-- [json-server](https://github.com/typicode/json-server)
-  - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
+- [google-maps-app-starter](https://github.com/CleverProgrammers/google-maps-app-starter)
+  - 
