@@ -1,50 +1,51 @@
 # general
+- [qrcp](https://github.com/claudiodangelis/qrcp) : Go
+  - ⚡ Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
+- [dp3t-app-ios](https://github.com/DP-3T/dp3t-app-ios) : Swift
+  - The DP3T-App for iOS
+- [shardingsphere](https://github.com/apache/shardingsphere) : Java
+  - Distributed database middleware
 - [bird-bot](https://github.com/natewong1313/bird-bot) : Python
-  - A Nintendo Switch checkout bot. Currently supports Walmart and Bestbuy
-- [fastbook](https://github.com/fastai/fastbook) : Jupyter Notebook
-  - Draft of the fastai book
-- [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) : Python
-  - Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [youtube-dl](https://github.com/ytdl-org/youtube-dl) : Python
-  - Command-line program to download videos from YouTube.com and other video sites
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [godot](https://github.com/godotengine/godot) : C++
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [computer-science](https://github.com/ossu/computer-science) : 
-  - 🎓 Path to a free self-taught education in Computer Science!
-- [real-world-vue](https://github.com/Code-Pop/real-world-vue) : Vue
-  - The application that we build in Vue Mastery's courses starting with Real World Vue
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
-  - Roadmap to becoming a web developer in 2020
-- [compose-samples](https://github.com/android/compose-samples) : Kotlin
-- [Marlin](https://github.com/MarlinFirmware/Marlin) : C++
-  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
-- [til](https://github.com/jbranchaud/til) : Vim script
-  - 📝 Today I Learned
+  - A Nintendo Switch checkout bot. Currently supports Walmart and Best buy
+- [Kotlin-Coroutine-Use-Cases-on-Android](https://github.com/LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android) : Kotlin
+  - 🎓 Learning Kotlin Coroutines for Android by example. 🚀 Sample implementations for real-world Android use cases. 🛠 Unit tests included!
+- [PyBoy](https://github.com/Baekalfen/PyBoy) : Python
+  - Game Boy emulator written in Python
 - [Baidu-XunleiVIP](https://github.com/VIP-Share/Baidu-XunleiVIP) : 
   - 百度网盘超级会员，迅雷会员、爱奇艺会员账号每日分享，还有优酷，腾讯，芒果等VIP。AND。百度网盘(百度云)不限速工具分享。
-- [vip_share](https://github.com/goyoka/vip_share) : 
-  - 每日分享 百度网盘SVIP账号、爱奇艺会员、芒果会员、搜狐会员、喜马拉雅会员、优酷会员、迅雷会员会员账号分享 (低调使用)
-- [OpenCore-Desktop-Guide](https://github.com/dortania/OpenCore-Desktop-Guide) : CSS
-  - Repo for the OpenCore Desktop Guide
-- [awesome-datascience](https://github.com/academic/awesome-datascience) : 
-  - 📝 An awesome Data Science repository to learn and apply for real world problems.
-- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) : C++
-  - C++那些事
-- [Belajar-Dengan-Jenius-AWS-Node.js](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-AWS-Node.js) : JavaScript
-  - Author : Gun Gun Febrianza
+- [orbit-db](https://github.com/orbitdb/orbit-db) : JavaScript
+  - Peer-to-Peer Databases for the Decentralized Web
+- [oneinfra](https://github.com/oneinfra/oneinfra) : Go
+  - Kubernetes as a Service
 - [BaiduYunVIP](https://github.com/lpg-it/BaiduYunVIP) : 
   - 百度云百度网盘超级会员账号SVIP账号免费分享, 另分享多款百度网盘不限速下载工具以及各大平台会员账号（迅雷 优酷 爱奇艺 腾讯视频等）.
-- [dp3t-app-android](https://github.com/DP-3T/dp3t-app-android) : 
-  - The DP3T-App for Android
 - [avatarify](https://github.com/alievk/avatarify) : Python
   - Avatars for Zoom and Skype
-- [awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification) : Python
-  - A collection of important graph embedding, classification and representation learning papers with implementations.
-- [documents](https://github.com/ROBERT-proximity-tracing/documents) : 
-  - Protocol specification, white paper, high level documents, etc.
+- [awesome-datascience](https://github.com/academic/awesome-datascience) : 
+  - 📝 An awesome Data Science repository to learn and apply for real world problems.
+- [covid-19](https://github.com/k-sys/covid-19) : Jupyter Notebook
+  - A collection of work related to COVID-19
 - [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) : TeX
   - Cheat Sheets
-- [awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) : 
-  - 🔥Awesome list of resources on Web Development.
+- [joyful-pandas](https://github.com/datawhalechina/joyful-pandas) : Jupyter Notebook
+  - Pandas中文教程
+- [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) : Python
+  - A swiss army knife for pentesting networks
+- [fastbook](https://github.com/fastai/fastbook) : Jupyter Notebook
+  - Draft of the fastai book
+- [dp3t-app-android](https://github.com/DP-3T/dp3t-app-android) : Java
+  - The DP3T-App for Android
+- [pepp-pt-documentation](https://github.com/pepp-pt/pepp-pt-documentation) : 
+  - Documentation for Pan-European Privacy-Preserving Proximity Tracing (PEPP-PT)
+- [data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap) : Python
+  - Toturial coming with "data science roadmap" graphe.
+- [gin](https://github.com/gin-gonic/gin) : Go
+  - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+- [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) : Go
+  - gRPC to JSON proxy generator following the gRPC HTTP spec
+- [til](https://github.com/jbranchaud/til) : Vim script
+  - 📝 Today I Learned
+- [vip_share](https://github.com/goyoka/vip_share) : 
+  - 每日分享 百度网盘SVIP账号、爱奇艺会员、芒果会员、搜狐会员、喜马拉雅会员、优酷会员、迅雷会员会员账号分享 (低调使用)
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
