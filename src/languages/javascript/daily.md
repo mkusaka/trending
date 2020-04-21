@@ -1,51 +1,51 @@
 # javascript
-- [Belajar-Dengan-Jenius-AWS-Node.js](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-AWS-Node.js)
-  - Author : Gun Gun Febrianza
-- [watch-us-build-trello](https://github.com/Code-Pop/watch-us-build-trello)
-  - 
-- [cxmooc-tools](https://github.com/CodFrm/cxmooc-tools)
-  - 一个 超星(学习通)/智慧树(知到)/中国大学慕课 刷课工具,火狐,谷歌,油猴支持.全自动任务,视频倍速秒过,作业考试题库,验证码自动打码(੧ᐛ੭挂科模式,启动)
-- [229-multi-level-dropdown](https://github.com/fireship-io/229-multi-level-dropdown)
-  - Build an animated multi-level dropdown inspired by Facebook's UI
-- [discord.js](https://github.com/discordjs/discord.js)
-  - A powerful JavaScript library for interacting with the Discord API
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
-- [authentication_course](https://github.com/Code-Pop/authentication_course)
-  - Repo for Vue Mastery's Token-Based Authentication course
-- [covid19india-react](https://github.com/covid19india/covid19india-react)
-  - 📊 Source code of the main website
-- [project_corona_tracker](https://github.com/adrianhajdin/project_corona_tracker)
-  - This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a corona tracker application. Covered topics: React.js, Chart.js, Material UI and much more.
-- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
-  - Bypass Paywalls for Chrome
-- [bypass-paywalls-firefox](https://github.com/iamadamdev/bypass-paywalls-firefox)
-  - Bypass Paywalls for Firefox
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
-  - Starter files, final projects and FAQ for my Complete JavaScript course
-- [Universal-Bypass](https://github.com/Sainan/Universal-Bypass)
-  - Don't waste your time with compliance. Universal Bypass circumvents annoying link shorteners.
-- [Unit-Testing](https://github.com/Code-Pop/Unit-Testing)
-  - Repo for Vue Mastery's Unit Testing course
+- [orbit-db](https://github.com/orbitdb/orbit-db)
+  - Peer-to-Peer Databases for the Decentralized Web
 - [puppeteer](https://github.com/puppeteer/puppeteer)
   - Headless Chrome Node.js API
-- [RSSHub](https://github.com/DIYgod/RSSHub)
-  - 🍰 Everything is RSSible
-- [ferdi](https://github.com/getferdi/ferdi)
-  - 🧔🏽 Community fork of @meetfranz. Ferdi allows you to combine your favourite messaging services into one application
-- [gridstudio](https://github.com/ricklamers/gridstudio)
-  - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
-- [Ghost](https://github.com/TryGhost/Ghost)
-  - 👻 The #1 headless Node.js CMS for professional publishing
-- [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
-  - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
-- [website](https://github.com/CodingTrain/website)
-  - Coding Train website
-- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
-  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [edex-ui](https://github.com/GitSquared/edex-ui)
-  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+- [joplin](https://github.com/laurent22/joplin)
+  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [next.js](https://github.com/zeit/next.js)
   - The React Framework
-- [google-maps-app-starter](https://github.com/CleverProgrammers/google-maps-app-starter)
-  - 
+- [lazysizes](https://github.com/aFarkas/lazysizes)
+  - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
+- [docusaurus](https://github.com/facebook/docusaurus)
+  - Easy to maintain open source documentation websites.
+- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
+  - Bypass Paywalls for Chrome
+- [project_corona_tracker](https://github.com/adrianhajdin/project_corona_tracker)
+  - This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a corona tracker application. Covered topics: React.js, Chart.js, Material UI and much more.
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [openSleep](https://github.com/tomasero/openSleep)
+  - platform for sleep hacking and research
+- [bypass-paywalls-chrome-clean](https://github.com/magnolia1234-new/bypass-paywalls-chrome-clean)
+  - Bypass Paywalls Clean for Chrome (no Google Analytics, lot of updates/bug-fixes and custom sites)
+- [nuxt.js](https://github.com/nuxt/nuxt.js)
+  - The Vue.js Framework
+- [cesium](https://github.com/CesiumGS/cesium)
+  - An open-source JavaScript library for world-class 3D globes and maps 🌎
+- [svelte](https://github.com/sveltejs/svelte)
+  - Cybernetically enhanced web apps
+- [stimulus_reflex](https://github.com/hopsoft/stimulus_reflex)
+  - Build reactive applications with the Rails tooling you already know and love.
+- [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue)
+  - BootstrapVue, with over 45 plugins, more than 85 custom components and over 500 icons, provides one of the most comprehensive implementations of Bootstrap v4 components and grid system for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+  - freeCodeCamp.org's open source codebase and curriculum. Learn to code for free together with millions of people.
+- [chaoxing-xuexitong-autoflush](https://github.com/ZhyMC/chaoxing-xuexitong-autoflush)
+  - 超星学习通全自动无人值守刷课程序，使用协议发包来实现，无需浏览器，支持自动过测验、过视频。
+- [hexo](https://github.com/hexojs/hexo)
+  - A fast, simple & powerful blog framework, powered by Node.js.
+- [tiptap](https://github.com/scrumpy/tiptap)
+  - A rich-text editor for Vue.js
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [axios](https://github.com/axios/axios)
+  - Promise based HTTP client for the browser and node.js
+- [draft-js](https://github.com/facebook/draft-js)
+  - A React framework for building text editors.
+- [cypress-example-recipes](https://github.com/cypress-io/cypress-example-recipes)
+  - Various recipes for testing common scenarios with Cypress
+- [slate](https://github.com/ianstormtaylor/slate)
+  - A completely customizable framework for building rich text editors. (Currently in beta.)
