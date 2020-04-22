@@ -60,7 +60,7 @@
 - [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway)
   - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [passwall-server](https://github.com/pass-wall/passwall-server)
-  - PassWall Server is the core backend (API, database...) for PassWall platform
+  - PassWall Server is the core backend infrastructure for PassWall platform
 - [consul](https://github.com/hashicorp/consul)
   - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [prometheus](https://github.com/prometheus/prometheus)
@@ -94,7 +94,7 @@
 - [tutorials](https://github.com/micro-in-cn/tutorials)
   - Micro 中文示例、教程、资料，源码解读
 - [golangci-lint](https://github.com/golangci/golangci-lint)
-  - Linters Runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config.
+  - Linters Runner for Go. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config.
 - [prysm](https://github.com/prysmaticlabs/prysm)
   - Go implementation of the Ethereum Serenity protocol
 - [geodb](https://github.com/autom8ter/geodb)
