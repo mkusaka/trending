@@ -1,51 +1,51 @@
 # javascript
-- [orbit-db](https://github.com/orbitdb/orbit-db)
-  - Peer-to-Peer Databases for the Decentralized Web
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [joplin](https://github.com/laurent22/joplin)
-  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
-- [next.js](https://github.com/zeit/next.js)
-  - The React Framework
-- [lazysizes](https://github.com/aFarkas/lazysizes)
-  - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
-- [docusaurus](https://github.com/facebook/docusaurus)
-  - Easy to maintain open source documentation websites.
-- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
-  - Bypass Paywalls for Chrome
-- [project_corona_tracker](https://github.com/adrianhajdin/project_corona_tracker)
-  - This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a corona tracker application. Covered topics: React.js, Chart.js, Material UI and much more.
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [openSleep](https://github.com/tomasero/openSleep)
-  - platform for sleep hacking and research
-- [bypass-paywalls-chrome-clean](https://github.com/magnolia1234-new/bypass-paywalls-chrome-clean)
-  - Bypass Paywalls Clean for Chrome (no Google Analytics, lot of updates/bug-fixes and custom sites)
-- [nuxt.js](https://github.com/nuxt/nuxt.js)
-  - The Vue.js Framework
-- [cesium](https://github.com/CesiumGS/cesium)
-  - An open-source JavaScript library for world-class 3D globes and maps 🌎
-- [svelte](https://github.com/sveltejs/svelte)
-  - Cybernetically enhanced web apps
+- [learnGitBranching](https://github.com/pcottle/learnGitBranching)
+  - An interactive git visualization to challenge and educate!
+- [brave-browser](https://github.com/brave/brave-browser)
+  - Next generation Brave browser for macOS, Windows, Linux, Android.
+- [serverless](https://github.com/serverless/serverless)
+  - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [stimulus_reflex](https://github.com/hopsoft/stimulus_reflex)
   - Build reactive applications with the Rails tooling you already know and love.
-- [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue)
-  - BootstrapVue, with over 45 plugins, more than 85 custom components and over 500 icons, provides one of the most comprehensive implementations of Bootstrap v4 components and grid system for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-  - freeCodeCamp.org's open source codebase and curriculum. Learn to code for free together with millions of people.
-- [chaoxing-xuexitong-autoflush](https://github.com/ZhyMC/chaoxing-xuexitong-autoflush)
-  - 超星学习通全自动无人值守刷课程序，使用协议发包来实现，无需浏览器，支持自动过测验、过视频。
-- [hexo](https://github.com/hexojs/hexo)
-  - A fast, simple & powerful blog framework, powered by Node.js.
-- [tiptap](https://github.com/scrumpy/tiptap)
-  - A rich-text editor for Vue.js
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [axios](https://github.com/axios/axios)
-  - Promise based HTTP client for the browser and node.js
-- [draft-js](https://github.com/facebook/draft-js)
-  - A React framework for building text editors.
+- [umi](https://github.com/umijs/umi)
+  - 🌋 Pluggable enterprise-level react application framework.
+- [Script](https://github.com/NobyDa/Script)
+  - This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.
+- [underscore](https://github.com/jashkenas/underscore)
+  - JavaScript's utility _ belt
+- [Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal)
+  - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
+- [lib-jitsi-meet](https://github.com/jitsi/lib-jitsi-meet)
+  - A low-level JS video API that allows adding a completely custom video experience to web apps.
+- [jupyterlab](https://github.com/jupyterlab/jupyterlab)
+  - JupyterLab computational environment.
+- [engine](https://github.com/cocos-creator/engine)
+  - Cocos Creator is a complete package of game development tools and workflow, including a game engine, resource management, scene editing, game preview, debug and publish one project to multiple platforms.
+- [request](https://github.com/request/request)
+  - 🏊🏾 Simplified HTTP request client.
+- [redash](https://github.com/getredash/redash)
+  - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+- [next-learn-starter](https://github.com/zeit/next-learn-starter)
+  - Learn Next.js Starter Code
+- [Motrix](https://github.com/agalwood/Motrix)
+  - A full-featured download manager.
+- [HttpReports](https://github.com/SpringLeee/HttpReports)
+  - 使用HttpReports可以快速搭建.Net Core环境下统计,分析,图表,监控一体化的站点，并且支持多种数据库存储，适应.Net Core WebAPI,MVC，Web项目, 通过引用Nuget构建Dashboard面板，非常适合中小项目使用。
+- [gatsby](https://github.com/gatsbyjs/gatsby)
+  - Build blazing fast, modern apps and websites with React
+- [open-wc](https://github.com/open-wc/open-wc)
+  - Open Web Components: guides, tools and libraries for modern web development and web components
+- [memory-game](https://github.com/kubowania/memory-game)
+  - JavaScript, HTML and CSS grid-based game
+- [slick](https://github.com/kenwheeler/slick)
+  - the last carousel you'll ever need
+- [node](https://github.com/nodejs/node)
+  - Node.js JavaScript runtime ✨🐢🚀✨
 - [cypress-example-recipes](https://github.com/cypress-io/cypress-example-recipes)
   - Various recipes for testing common scenarios with Cypress
-- [slate](https://github.com/ianstormtaylor/slate)
-  - A completely customizable framework for building rich text editors. (Currently in beta.)
+- [esercizi-di-programmazione-javascript](https://github.com/AlbertoOlla/esercizi-di-programmazione-javascript)
+  - Esercizi di informatica! Impara a programmare, metti alla prova!
+- [incubator-echarts](https://github.com/apache/incubator-echarts)
+  - A powerful, interactive charting and visualization library for browser
+- [medis](https://github.com/luin/medis)
+  - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.

@@ -1,51 +1,51 @@
 # general
-- [qrcp](https://github.com/claudiodangelis/qrcp) : Go
-  - ⚡ Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
-- [dp3t-app-ios](https://github.com/DP-3T/dp3t-app-ios) : Swift
-  - The DP3T-App for iOS
-- [shardingsphere](https://github.com/apache/shardingsphere) : Java
-  - Distributed database middleware
-- [bird-bot](https://github.com/natewong1313/bird-bot) : Python
-  - A Nintendo Switch checkout bot. Currently supports Walmart and Best buy
-- [Kotlin-Coroutine-Use-Cases-on-Android](https://github.com/LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android) : Kotlin
-  - 🎓 Learning Kotlin Coroutines for Android by example. 🚀 Sample implementations for real-world Android use cases. 🛠 Unit tests included!
-- [PyBoy](https://github.com/Baekalfen/PyBoy) : Python
-  - Game Boy emulator written in Python
-- [Baidu-XunleiVIP](https://github.com/VIP-Share/Baidu-XunleiVIP) : 
-  - 百度网盘超级会员，迅雷会员、爱奇艺会员账号每日分享，还有优酷，腾讯，芒果等VIP。AND。百度网盘(百度云)不限速工具分享。
-- [orbit-db](https://github.com/orbitdb/orbit-db) : JavaScript
-  - Peer-to-Peer Databases for the Decentralized Web
-- [oneinfra](https://github.com/oneinfra/oneinfra) : Go
-  - Kubernetes as a Service
-- [BaiduYunVIP](https://github.com/lpg-it/BaiduYunVIP) : 
-  - 百度云百度网盘超级会员账号SVIP账号免费分享, 另分享多款百度网盘不限速下载工具以及各大平台会员账号（迅雷 优酷 爱奇艺 腾讯视频等）.
-- [avatarify](https://github.com/alievk/avatarify) : Python
-  - Avatars for Zoom and Skype
-- [awesome-datascience](https://github.com/academic/awesome-datascience) : 
-  - 📝 An awesome Data Science repository to learn and apply for real world problems.
-- [covid-19](https://github.com/k-sys/covid-19) : Jupyter Notebook
-  - A collection of work related to COVID-19
-- [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) : TeX
-  - Cheat Sheets
+- [learnGitBranching](https://github.com/pcottle/learnGitBranching) : JavaScript
+  - An interactive git visualization to challenge and educate!
+- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) : Jupyter Notebook
+  - Python - 100天从新手到大师
+- [brave-browser](https://github.com/brave/brave-browser) : JavaScript
+  - Next generation Brave browser for macOS, Windows, Linux, Android.
 - [joyful-pandas](https://github.com/datawhalechina/joyful-pandas) : Jupyter Notebook
   - Pandas中文教程
-- [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) : Python
-  - A swiss army knife for pentesting networks
-- [fastbook](https://github.com/fastai/fastbook) : Jupyter Notebook
-  - Draft of the fastai book
-- [dp3t-app-android](https://github.com/DP-3T/dp3t-app-android) : Java
-  - The DP3T-App for Android
-- [pepp-pt-documentation](https://github.com/pepp-pt/pepp-pt-documentation) : 
-  - Documentation for Pan-European Privacy-Preserving Proximity Tracing (PEPP-PT)
-- [data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap) : Python
-  - Toturial coming with "data science roadmap" graphe.
-- [gin](https://github.com/gin-gonic/gin) : Go
-  - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) : Go
-  - gRPC to JSON proxy generator following the gRPC HTTP spec
-- [til](https://github.com/jbranchaud/til) : Vim script
-  - 📝 Today I Learned
-- [vip_share](https://github.com/goyoka/vip_share) : 
-  - 每日分享 百度网盘SVIP账号、爱奇艺会员、芒果会员、搜狐会员、喜马拉雅会员、优酷会员、迅雷会员会员账号分享 (低调使用)
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
+- [Graphics](https://github.com/Unity-Technologies/Graphics) : HTML
+  - Unity Graphics - Including Scriptable Render Pipeline
+- [MONAI](https://github.com/Project-MONAI/MONAI) : Python
+  - AI Toolkit for Healthcare Imaging
+- [awesome-architecture](https://github.com/toutiaoio/awesome-architecture) : 
+  - 架构师技术图谱，助你早日成为架构师
+- [98.css](https://github.com/jdan/98.css) : CSS
+  - A design system for building faithful recreations of old UIs
+- [azure-docs](https://github.com/MicrosoftDocs/azure-docs) : PowerShell
+  - Open source documentation of Microsoft Azure
+- [ALAE](https://github.com/podgorskiy/ALAE) : Python
+  - [CVPR2020] Adversarial Latent Autoencoders
+- [demo-scene](https://github.com/confluentinc/demo-scene) : Shell
+  - Scripts and samples to support Confluent Platform talks. May be rough around the edges. For automated tutorials and QA'd code, see https://github.com/confluentinc/examples/
+- [kubectx](https://github.com/ahmetb/kubectx) : Shell
+  - Faster way to switch between clusters and namespaces in kubectl
+- [TF2-Base](https://github.com/NicknineTheEagle/TF2-Base) : C++
+  - The old Team Fortress 2 source code ported to Source SDK 2013
+- [Background-Matting](https://github.com/senguptaumd/Background-Matting) : Python
+  - Background Matting: The World is Your Green Screen
+- [PowerShell](https://github.com/PowerShell/PowerShell) : C#
+  - PowerShell for every system!
+- [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js) : TypeScript
+  - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
+- [go-interview](https://github.com/shomali11/go-interview) : Go
+  - Collection of Technical Interview Questions solved with Go
+- [Baidu-XunleiVIP](https://github.com/VIP-Share/Baidu-XunleiVIP) : 
+  - 百度网盘超级会员，迅雷会员、爱奇艺会员账号每日分享，还有优酷，腾讯，芒果等VIP。AND。百度网盘(百度云)不限速工具分享。
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
+  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
+- [Thunder_Class](https://github.com/profthecopyright/Thunder_Class) : C++
+  - 雷课堂大作业
+- [NHSE](https://github.com/kwsch/NHSE) : C#
+  - Animal Crossing: New Horizons save editor
+- [serverless](https://github.com/serverless/serverless) : JavaScript
+  - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+- [vite](https://github.com/vuejs/vite) : TypeScript
+  - Experimental no-bundle dev server for Vue SFCs
+- [advanced-java](https://github.com/doocs/advanced-java) : Java
+  - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
+- [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) : 
+  - GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。
