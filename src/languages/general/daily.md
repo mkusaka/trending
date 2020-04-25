@@ -1,51 +1,51 @@
 # general
+- [bashtop](https://github.com/aristocratos/bashtop) : Shell
+  - Linux resource monitor
+- [SEIR-model-Stockholm](https://github.com/FohmAnalys/SEIR-model-Stockholm) : R
+  - Skattning av peakdag och antal infekterade i covid-19-utbrottet i Stockholms län februari-april 2020.
+- [reverse-proxy](https://github.com/microsoft/reverse-proxy) : C#
+  - A toolkit for developing high-performance HTTP reverse proxy applications.
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) : JavaScript
   - An interactive git visualization to challenge and educate!
-- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) : Jupyter Notebook
-  - Python - 100天从新手到大师
-- [brave-browser](https://github.com/brave/brave-browser) : JavaScript
-  - Next generation Brave browser for macOS, Windows, Linux, Android.
-- [joyful-pandas](https://github.com/datawhalechina/joyful-pandas) : Jupyter Notebook
-  - Pandas中文教程
-- [Graphics](https://github.com/Unity-Technologies/Graphics) : HTML
-  - Unity Graphics - Including Scriptable Render Pipeline
-- [MONAI](https://github.com/Project-MONAI/MONAI) : Python
-  - AI Toolkit for Healthcare Imaging
-- [awesome-architecture](https://github.com/toutiaoio/awesome-architecture) : 
-  - 架构师技术图谱，助你早日成为架构师
-- [98.css](https://github.com/jdan/98.css) : CSS
-  - A design system for building faithful recreations of old UIs
-- [azure-docs](https://github.com/MicrosoftDocs/azure-docs) : PowerShell
-  - Open source documentation of Microsoft Azure
-- [ALAE](https://github.com/podgorskiy/ALAE) : Python
-  - [CVPR2020] Adversarial Latent Autoencoders
-- [demo-scene](https://github.com/confluentinc/demo-scene) : Shell
-  - Scripts and samples to support Confluent Platform talks. May be rough around the edges. For automated tutorials and QA'd code, see https://github.com/confluentinc/examples/
-- [kubectx](https://github.com/ahmetb/kubectx) : Shell
-  - Faster way to switch between clusters and namespaces in kubectl
-- [TF2-Base](https://github.com/NicknineTheEagle/TF2-Base) : C++
-  - The old Team Fortress 2 source code ported to Source SDK 2013
-- [Background-Matting](https://github.com/senguptaumd/Background-Matting) : Python
-  - Background Matting: The World is Your Green Screen
-- [PowerShell](https://github.com/PowerShell/PowerShell) : C#
-  - PowerShell for every system!
+- [421pdf](https://github.com/yuanguangxin/421pdf) : 
+  - 421页PDF 八卦汇总
 - [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js) : TypeScript
   - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
-- [go-interview](https://github.com/shomali11/go-interview) : Go
-  - Collection of Technical Interview Questions solved with Go
-- [Baidu-XunleiVIP](https://github.com/VIP-Share/Baidu-XunleiVIP) : 
-  - 百度网盘超级会员，迅雷会员、爱奇艺会员账号每日分享，还有优酷，腾讯，芒果等VIP。AND。百度网盘(百度云)不限速工具分享。
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
-  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
-- [Thunder_Class](https://github.com/profthecopyright/Thunder_Class) : C++
-  - 雷课堂大作业
-- [NHSE](https://github.com/kwsch/NHSE) : C#
-  - Animal Crossing: New Horizons save editor
-- [serverless](https://github.com/serverless/serverless) : JavaScript
-  - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
-- [vite](https://github.com/vuejs/vite) : TypeScript
-  - Experimental no-bundle dev server for Vue SFCs
-- [advanced-java](https://github.com/doocs/advanced-java) : Java
-  - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
-- [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) : 
-  - GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。
+- [proton-mail-android](https://github.com/ProtonMail/proton-mail-android) : Java
+  - ProtonMail Android app
+- [heroicons](https://github.com/refactoringui/heroicons) : 
+  - A set of free MIT-licensed high-quality SVG icons for UI development.
+- [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) : TypeScript
+  - Tasks for Azure Pipelines
+- [98.css](https://github.com/jdan/98.css) : CSS
+  - A design system for building faithful recreations of old UIs
+- [ALAE](https://github.com/podgorskiy/ALAE) : Python
+  - [CVPR2020] Adversarial Latent Autoencoders
+- [MONAI](https://github.com/Project-MONAI/MONAI) : Python
+  - AI Toolkit for Healthcare Imaging
+- [darknet](https://github.com/pjreddie/darknet) : C
+  - Convolutional Neural Networks
+- [elasticsearch](https://github.com/elastic/elasticsearch) : Java
+  - Open Source, Distributed, RESTful Search Engine
+- [blitz](https://github.com/blitz-js/blitz) : TypeScript
+  - ⚡️Rails-like framework for monolithic, full-stack React apps — built on Next.js
+- [webpack](https://github.com/webpack/webpack) : JavaScript
+  - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+- [Mitigating-Web-Shells](https://github.com/nsacyber/Mitigating-Web-Shells) : YARA
+  - Guidance for mitigation web shells. #nsacyber
+- [christmas-obfuscated-C](https://github.com/ColinIanKing/christmas-obfuscated-C) : C
+  - Obuscated C Christmas programs
+- [bosdyn-hospital-bot](https://github.com/boston-dynamics/bosdyn-hospital-bot) : C++
+  - A repo to share resources related to configurations for hospital applications.
+- [modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) : C#
+  - Full Modular Monolith application with Domain-Driven Design approach.
+- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) : Jupyter Notebook
+  - Python - 100天从新手到大师
+- [cstrike15_src](https://github.com/perilouswithadollarsign/cstrike15_src) : C++
+  - Leak of CS:GO Source code, provided by yours truly so go rep me
+- [html-dom](https://github.com/phuoc-ng/html-dom) : TypeScript
+  - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
+- [cortex](https://github.com/cortexlabs/cortex) : Go
+  - Cloud native model serving infrastructure
+- [Background-Matting](https://github.com/senguptaumd/Background-Matting) : Python
+  - Background Matting: The World is Your Green Screen
