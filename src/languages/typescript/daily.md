@@ -1,51 +1,51 @@
 # typescript
-- [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)
-  - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
-- [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
-  - Tasks for Azure Pipelines
 - [blitz](https://github.com/blitz-js/blitz)
   - ⚡️Rails-like framework for monolithic, full-stack React apps — built on Next.js
 - [html-dom](https://github.com/phuoc-ng/html-dom)
   - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
-- [destiny](https://github.com/benawad/destiny)
-  - Prettier for File Structures
-- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
-  - The source for REST API specifications for Microsoft Azure.
-- [angular-cli](https://github.com/angular/angular-cli)
-  - CLI tool for Angular
-- [TypeScript](https://github.com/microsoft/TypeScript)
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [grafana](https://github.com/grafana/grafana)
-  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [bulletproof-nodejs](https://github.com/santiq/bulletproof-nodejs)
+  - Implementation of a bulletproof node.js API 🛡️
+- [firebase-js-sdk](https://github.com/firebase/firebase-js-sdk)
+  - Firebase Javascript SDK
+- [angular](https://github.com/angular/angular)
+  - One framework. Mobile & desktop.
+- [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
+  - 💥 React Native UI Library based on Eva Design System 🌚✨Dark Mode
 - [code-server](https://github.com/cdr/code-server)
   - Run VS Code on a remote server.
-- [phelia](https://github.com/maxchehab/phelia)
-  - ⚡ A reactive Slack application framework.
-- [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)
-  - An enterprise-class UI components based on Ant Design and Angular. 🐜
-- [jest](https://github.com/facebook/jest)
-  - Delightful JavaScript Testing.
+- [react-navigation](https://github.com/react-navigation/react-navigation)
+  - Routing and navigation for your React Native apps
+- [idvogados](https://github.com/thr0w/idvogados)
+  - Conexão entre trabalhadores e advogados trabalhistas
+- [expo-cli](https://github.com/expo/expo-cli)
+  - Tools for creating, running, and deploying Universal Expo and React Native apps
 - [ext-saladict](https://github.com/crimx/ext-saladict)
   - Feature-rich inline translator.
 - [auth-module](https://github.com/nuxt-community/auth-module)
   - 🔑 Zero-boilerplate authentication support for Nuxt
-- [ngx-admin](https://github.com/akveo/ngx-admin)
-  - Customizable admin dashboard template based on Angular 8+
-- [Babylon.js](https://github.com/BabylonJS/Babylon.js)
-  - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
-- [markmap-lib](https://github.com/gera2ld/markmap-lib)
-  - Visualize your Markdown as mindmaps with Markmap.
-- [streamlit](https://github.com/streamlit/streamlit)
-  - Streamlit — The fastest way to build custom ML tools
-- [formik](https://github.com/jaredpalmer/formik)
-  - Build forms in React, without the tears 😭
-- [amplify-js](https://github.com/aws-amplify/amplify-js)
-  - A declarative JavaScript library for application development using cloud services.
-- [crank](https://github.com/bikeshaving/crank)
-  - Write JSX-driven components with functions, promises and generators.
-- [amplify-cli](https://github.com/aws-amplify/amplify-cli)
-  - A CLI toolchain for simplifying serverless web and mobile development.
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
-- [react-navigation](https://github.com/react-navigation/react-navigation)
-  - Routing and navigation for your React Native apps
+- [angular-cli](https://github.com/angular/angular-cli)
+  - CLI tool for Angular
+- [coc.nvim](https://github.com/neoclide/coc.nvim)
+  - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
+- [instagram-private-api](https://github.com/dilame/instagram-private-api)
+  - NodeJS Instagram private API client. Written in TypeScript.
+- [LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+  - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
+- [Angular-JumpStart](https://github.com/DanWahlin/Angular-JumpStart)
+  - Angular and TypeScript JumpStart example application
+- [etcher](https://github.com/balena-io/etcher)
+  - Flash OS images to SD cards & USB drives, safely and easily.
+- [delon](https://github.com/ng-alain/delon)
+  - Delon is a set of essential modules for ng-alain. https://github.com/ng-alain/ng-alain/issues
+- [vscode](https://github.com/microsoft/vscode)
+  - Visual Studio Code
+- [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)
+  - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
+- [react-diagrams](https://github.com/projectstorm/react-diagrams)
+  - a super simple, no-nonsense diagramming library written in react that just works
+- [nativefier](https://github.com/jiahaog/nativefier)
+  - Make any web page a desktop application
+- [dumi](https://github.com/umijs/dumi)
+  - Documentation generator for React component
+- [hls-downloader-web-extension](https://github.com/puemos/hls-downloader-web-extension)
+  - Web Extension for sniffing and downloading HTTP Live streams (HLS)

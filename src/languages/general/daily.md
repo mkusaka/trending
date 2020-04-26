@@ -1,51 +1,51 @@
 # general
 - [bashtop](https://github.com/aristocratos/bashtop) : Shell
   - Linux resource monitor
-- [SEIR-model-Stockholm](https://github.com/FohmAnalys/SEIR-model-Stockholm) : R
-  - Skattning av peakdag och antal infekterade i covid-19-utbrottet i Stockholms län februari-april 2020.
 - [reverse-proxy](https://github.com/microsoft/reverse-proxy) : C#
   - A toolkit for developing high-performance HTTP reverse proxy applications.
-- [learnGitBranching](https://github.com/pcottle/learnGitBranching) : JavaScript
-  - An interactive git visualization to challenge and educate!
-- [421pdf](https://github.com/yuanguangxin/421pdf) : 
-  - 421页PDF 八卦汇总
-- [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js) : TypeScript
-  - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
-- [proton-mail-android](https://github.com/ProtonMail/proton-mail-android) : Java
-  - ProtonMail Android app
-- [heroicons](https://github.com/refactoringui/heroicons) : 
-  - A set of free MIT-licensed high-quality SVG icons for UI development.
-- [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) : TypeScript
-  - Tasks for Azure Pipelines
-- [98.css](https://github.com/jdan/98.css) : CSS
-  - A design system for building faithful recreations of old UIs
-- [ALAE](https://github.com/podgorskiy/ALAE) : Python
-  - [CVPR2020] Adversarial Latent Autoencoders
-- [MONAI](https://github.com/Project-MONAI/MONAI) : Python
-  - AI Toolkit for Healthcare Imaging
+- [fastbook](https://github.com/fastai/fastbook) : Jupyter Notebook
+  - Draft of the fastai book
+- [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) : 
+  - GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。
+- [springer_free_books](https://github.com/alexgand/springer_free_books) : Python
+  - Python script to download all Springer books released for free during the 2020 COVID-19 quarantine
 - [darknet](https://github.com/pjreddie/darknet) : C
   - Convolutional Neural Networks
-- [elasticsearch](https://github.com/elastic/elasticsearch) : Java
-  - Open Source, Distributed, RESTful Search Engine
-- [blitz](https://github.com/blitz-js/blitz) : TypeScript
-  - ⚡️Rails-like framework for monolithic, full-stack React apps — built on Next.js
-- [webpack](https://github.com/webpack/webpack) : JavaScript
-  - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
-- [Mitigating-Web-Shells](https://github.com/nsacyber/Mitigating-Web-Shells) : YARA
-  - Guidance for mitigation web shells. #nsacyber
-- [christmas-obfuscated-C](https://github.com/ColinIanKing/christmas-obfuscated-C) : C
-  - Obuscated C Christmas programs
-- [bosdyn-hospital-bot](https://github.com/boston-dynamics/bosdyn-hospital-bot) : C++
-  - A repo to share resources related to configurations for hospital applications.
-- [modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) : C#
-  - Full Modular Monolith application with Domain-Driven Design approach.
+- [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) : HTML
+  - 吴恩达老师的机器学习课程个人笔记
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
+  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) : Jupyter Notebook
   - Python - 100天从新手到大师
-- [cstrike15_src](https://github.com/perilouswithadollarsign/cstrike15_src) : C++
-  - Leak of CS:GO Source code, provided by yours truly so go rep me
-- [html-dom](https://github.com/phuoc-ng/html-dom) : TypeScript
-  - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
-- [cortex](https://github.com/cortexlabs/cortex) : Go
-  - Cloud native model serving infrastructure
+- [blitz](https://github.com/blitz-js/blitz) : TypeScript
+  - ⚡️Rails-like framework for monolithic, full-stack React apps — built on Next.js
+- [obs-studio](https://github.com/obsproject/obs-studio) : C
+  - OBS Studio - Free and open source software for live streaming and screen recording
+- [Tasmota](https://github.com/arendst/Tasmota) : C++
+  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
+- [advanced-java](https://github.com/doocs/advanced-java) : Java
+  - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
+- [ALAE](https://github.com/podgorskiy/ALAE) : Python
+  - [CVPR2020] Adversarial Latent Autoencoders
+- [interviews](https://github.com/kdn251/interviews) : Java
+  - Everything you need to know to get the job.
+- [PaddleHub](https://github.com/PaddlePaddle/PaddleHub) : Python
+  - Application toolkit for pre-trained models of PaddlePaddle（『飞桨』预训练模型应用工具 ）
+- [Data-science-best-resources](https://github.com/tirthajyoti/Data-science-best-resources) : 
+  - Carefully curated resource links for data science in one place
+- [Qv2ray](https://github.com/Qv2ray/Qv2ray) : C++
+  - 🌟 V2Ray/Trojan-GFW/SSR Linux/Windows/macOS 跨平台 GUI 🔨 使用 C++17/Qt5 ，支持订阅，扫描二维码，自定义路由编辑 🌟
+- [ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) : 
+  - List of Data Science Cheatsheets to rule the world
+- [stopp-corona-ios](https://github.com/austrianredcross/stopp-corona-ios) : 
+  - iOS Source Code
+- [NNfSiX](https://github.com/Sentdex/NNfSiX) : Assembly
+  - Neural Networks from Scratch in other languages
 - [Background-Matting](https://github.com/senguptaumd/Background-Matting) : Python
   - Background Matting: The World is Your Green Screen
+- [data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap) : Python
+  - Toturial coming with "data science roadmap" graphe.
+- [airframe-react](https://github.com/0wczar/airframe-react) : JavaScript
+  - Free Open Source High Quality Dashboard based on Bootstrap 4 & React 16: http://dashboards.webkom.co/react/airframe
+- [awesome-datascience](https://github.com/academic/awesome-datascience) : 
+  - 📝 An awesome Data Science repository to learn and apply for real world problems.
