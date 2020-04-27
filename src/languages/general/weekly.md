@@ -1,51 +1,50 @@
 # general
+- [qrcp](https://github.com/claudiodangelis/qrcp) : Go
+  - ⚡ Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [avatarify](https://github.com/alievk/avatarify) : Python
   - Avatars for Zoom and Skype
-- [3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting) : Python
-  - [CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
-  - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
-- [twint](https://github.com/twintproject/twint) : Python
-  - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
+- [learnGitBranching](https://github.com/pcottle/learnGitBranching) : JavaScript
+  - An interactive git visualization to challenge and educate!
+- [bird-bot](https://github.com/natewong1313/bird-bot) : Python
+  - A Nintendo Switch checkout bot. Currently supports Walmart and Best buy
+- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) : C++
+  - C++那些事
+- [til](https://github.com/jbranchaud/til) : Vim script
+  - 📝 Today I Learned
+- [covid-19](https://github.com/k-sys/covid-19) : Jupyter Notebook
+  - A collection of work related to COVID-19
+- [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) : Go
+  - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，更多功能正在开发中，欢迎issue和pr~
+- [dp3t-app-ios](https://github.com/DP-3T/dp3t-app-ios) : Swift
+  - The DP3T-App for iOS
+- [Covid-19-Flutter-UI](https://github.com/abuanwar072/Covid-19-Flutter-UI) : Dart
 - [vue-next](https://github.com/vuejs/vue-next) : TypeScript
   - The next major version of Vue (WIP)
-- [examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) : Python
-  - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
-- [UTM](https://github.com/utmapp/UTM) : Objective-C
-  - Virtual machines for iOS
-- [spring-boot-api-project-seed](https://github.com/lihengming/spring-boot-api-project-seed) : Java
-  - 🌱🚀一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~
-- [documents](https://github.com/DP-3T/documents) : 
-  - Decentralized Privacy-Preserving Proximity Tracing -- Documents
-- [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) : Java
-  - To Be Top Javaer - Java工程师成神之路
-- [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go) : Go
-  - 百度网盘客户端 - Go语言编写
-- [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine) : C++
-  - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects
-- [FairMOT](https://github.com/ifzhang/FairMOT) : Python
-  - A simple baseline for one-shot multi-object tracking
-- [Flutter-Course-Resources](https://github.com/londonappbrewery/Flutter-Course-Resources) : 
-  - Learn to Code While Building Apps - The Complete Flutter Development Bootcamp
+- [shardingsphere](https://github.com/apache/shardingsphere) : Java
+  - Distributed database middleware
+- [dp3t-app-android](https://github.com/DP-3T/dp3t-app-android) : Java
+  - The DP3T-App for Android
 - [covid-19-data](https://github.com/owid/covid-19-data) : Python
   - Data on COVID-19 confirmed cases, deaths, and tests • All countries • Updated daily by Our World in Data
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
-  - Roadmap to becoming a web developer in 2020
-- [deplacement-covid-19](https://github.com/LAB-MI/deplacement-covid-19) : HTML
-  - Service de génération de l'attestation de déplacement dérogatoire à présenter dans le cadre du confinement lié au virus covid-19
-- [opentrace-android](https://github.com/opentrace-community/opentrace-android) : Kotlin
-  - OpenTrace Android app. Reference implementation of the BlueTrace protocol.
-- [google-meet-grid-view](https://github.com/Fugiman/google-meet-grid-view) : JavaScript
-  - Userscript to offer a grid-view layout in Google Meets
-- [3mux](https://github.com/aaronjanse/3mux) : Go
-  - Terminal multiplexer inspired by i3
-- [go-admin](https://github.com/wenjianzhang/go-admin) : Go
-  - 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：基础用户管理功能，jwt鉴权，代码生成器，RABC资源控制，表单构建等）
-- [opentrace-cloud-functions](https://github.com/opentrace-community/opentrace-cloud-functions) : TypeScript
-  - OpenTrace Cloud Functions. Reference implementation of the BlueTrace protocol.
-- [wekan](https://github.com/wekan/wekan) : JavaScript
-  - The open-source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
-- [opentrace-ios](https://github.com/opentrace-community/opentrace-ios) : Swift
-  - OpenTrace iOS app. Reference implementation of the BlueTrace protocol.
-- [interview](https://github.com/huihut/interview) : C++
-  - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendatio…
+- [go-interview](https://github.com/shomali11/go-interview) : Go
+  - Collection of Technical Interview Questions solved with Go
+- [spring-authorization-server](https://github.com/spring-projects-experimental/spring-authorization-server) : Java
+  - A community-driven project led by the Spring Security team and is focused on delivering Authorization Server support to the Spring community
+- [obs-mac-virtualcam](https://github.com/johnboiles/obs-mac-virtualcam) : C++
+  - Creates a virtual webcam device from the output of OBS. Especially useful for streaming smooth, composited video into Zoom, Hangouts, Jitsi etc. Like obs-virtualcam but for macOS.
+- [Background-Matting](https://github.com/senguptaumd/Background-Matting) : Python
+  - Background Matting: The World is Your Green Screen
+- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) : Vue
+  - vue-admin-beautiful是一款超棒的前端开发框架（当然只是自我感觉）,长期更新维护,感谢您的star,我一直在努力,官方答疑群972435319
+- [Flutter-Course-Resources](https://github.com/londonappbrewery/Flutter-Course-Resources) : 
+  - Learn to Code While Building Apps - The Complete Flutter Development Bootcamp
+- [documents](https://github.com/DP-3T/documents) : 
+  - Decentralized Privacy-Preserving Proximity Tracing -- Documents
+- [RxJava](https://github.com/ReactiveX/RxJava) : Java
+  - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+- [fiber](https://github.com/gofiber/fiber) : Go
+  - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
+- [eladmin](https://github.com/elunez/eladmin) : Java
+  - 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
+- [docusaurus](https://github.com/facebook/docusaurus) : JavaScript
+  - Easy to maintain open source documentation websites.

@@ -1,51 +1,51 @@
 # go
-- [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go)
-  - 百度网盘客户端 - Go语言编写
-- [3mux](https://github.com/aaronjanse/3mux)
-  - Terminal multiplexer inspired by i3
-- [go-admin](https://github.com/wenjianzhang/go-admin)
-  - 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：基础用户管理功能，jwt鉴权，代码生成器，RABC资源控制，表单构建等）
-- [esbuild](https://github.com/evanw/esbuild)
-  - An extremely fast JavaScript bundler and minifier
-- [git-bug](https://github.com/MichaelMure/git-bug)
-  - Distributed, offline-first bug tracker embedded in git, with bridges
-- [go-ethereum](https://github.com/ethereum/go-ethereum)
-  - Official Go implementation of the Ethereum protocol
-- [grpc-go](https://github.com/grpc/grpc-go)
-  - The Go language implementation of gRPC. HTTP/2 based RPC
-- [cortex](https://github.com/cortexlabs/cortex)
-  - Cloud native model serving infrastructure
+- [qrcp](https://github.com/claudiodangelis/qrcp)
+  - ⚡ Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
   - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，更多功能正在开发中，欢迎issue和pr~
-- [ffuf](https://github.com/ffuf/ffuf)
-  - Fast web fuzzer written in Go
-- [fzf](https://github.com/junegunn/fzf)
-  - 🌸 A command-line fuzzy finder
-- [thanos](https://github.com/thanos-io/thanos)
-  - Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.
-- [cli](https://github.com/cli/cli)
-  - GitHub’s official command line tool
-- [migrate](https://github.com/golang-migrate/migrate)
-  - Database migrations. CLI and Golang library.
-- [act](https://github.com/nektos/act)
-  - Run your GitHub Actions locally 🚀
-- [k6](https://github.com/loadimpact/k6)
-  - A modern load testing tool, using Go and JavaScript - https://k6.io
-- [trojan](https://github.com/Jrohy/trojan)
-  - trojan多用户管理部署程序, 支持web页面管理
-- [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga)
-  - Advanced information gathering & OSINT framework for phone numbers
-- [gopsutil](https://github.com/shirou/gopsutil)
-  - psutil for golang
-- [nps](https://github.com/ehang-io/nps)
-  - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
-- [graphql](https://github.com/graphql-go/graphql)
-  - An implementation of GraphQL for Go / Golang
+- [go-interview](https://github.com/shomali11/go-interview)
+  - Collection of Technical Interview Questions solved with Go
+- [fiber](https://github.com/gofiber/fiber)
+  - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
 - [webrtc](https://github.com/pion/webrtc)
   - Pure Go implementation of the WebRTC API
-- [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN)
-  - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-- [livego](https://github.com/gwuhaolin/livego)
-  - live video streaming server in golang
-- [pulumi](https://github.com/pulumi/pulumi)
-  - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
+- [loki](https://github.com/grafana/loki)
+  - Like Prometheus, but for logs.
+- [monitoror](https://github.com/monitoror/monitoror)
+  - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
+- [oneinfra](https://github.com/oneinfra/oneinfra)
+  - Kubernetes as a Service
+- [argo](https://github.com/argoproj/argo)
+  - Argo Workflows: Get stuff done with Kubernetes.
+- [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway)
+  - gRPC to JSON proxy generator following the gRPC HTTP spec
+- [v2ray-core](https://github.com/v2ray/v2ray-core)
+  - A platform for building proxies to bypass network restrictions.
+- [kubernetes](https://github.com/kubernetes/kubernetes)
+  - Production-Grade Container Scheduling and Management
+- [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm)
+  - Terraform provider for Azure Resource Manager
+- [cilium](https://github.com/cilium/cilium)
+  - API-aware Networking and Security using eBPF and XDP
+- [gin](https://github.com/gin-gonic/gin)
+  - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+- [prometheus](https://github.com/prometheus/prometheus)
+  - The Prometheus monitoring system and time series database.
+- [go-clean-arch](https://github.com/bxcodec/go-clean-arch)
+  - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
+- [grpc-go](https://github.com/grpc/grpc-go)
+  - The Go language implementation of gRPC. HTTP/2 based RPC
+- [pgx](https://github.com/jackc/pgx)
+  - PostgreSQL driver and toolkit for Go
+- [protobuf](https://github.com/golang/protobuf)
+  - Go support for Google's protocol buffers
+- [cli](https://github.com/cli/cli)
+  - GitHub’s official command line tool
+- [rancher](https://github.com/rancher/rancher)
+  - Complete container management platform
+- [client_golang](https://github.com/prometheus/client_golang)
+  - Prometheus instrumentation library for Go applications
+- [golangci-lint](https://github.com/golangci/golangci-lint)
+  - Linters Runner for Go. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config.
+- [vitess](https://github.com/vitessio/vitess)
+  - Vitess is a database clustering system for horizontal scaling of MySQL.
