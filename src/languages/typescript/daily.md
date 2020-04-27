@@ -1,51 +1,51 @@
 # typescript
 - [blitz](https://github.com/blitz-js/blitz)
   - ⚡️Rails-like framework for monolithic, full-stack React apps — built on Next.js
-- [html-dom](https://github.com/phuoc-ng/html-dom)
-  - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
-- [bulletproof-nodejs](https://github.com/santiq/bulletproof-nodejs)
-  - Implementation of a bulletproof node.js API 🛡️
-- [firebase-js-sdk](https://github.com/firebase/firebase-js-sdk)
-  - Firebase Javascript SDK
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
-- [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
-  - 💥 React Native UI Library based on Eva Design System 🌚✨Dark Mode
-- [code-server](https://github.com/cdr/code-server)
-  - Run VS Code on a remote server.
-- [react-navigation](https://github.com/react-navigation/react-navigation)
-  - Routing and navigation for your React Native apps
-- [idvogados](https://github.com/thr0w/idvogados)
-  - Conexão entre trabalhadores e advogados trabalhistas
-- [expo-cli](https://github.com/expo/expo-cli)
-  - Tools for creating, running, and deploying Universal Expo and React Native apps
 - [ext-saladict](https://github.com/crimx/ext-saladict)
   - Feature-rich inline translator.
-- [auth-module](https://github.com/nuxt-community/auth-module)
-  - 🔑 Zero-boilerplate authentication support for Nuxt
-- [angular-cli](https://github.com/angular/angular-cli)
-  - CLI tool for Angular
-- [coc.nvim](https://github.com/neoclide/coc.nvim)
-  - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
-- [instagram-private-api](https://github.com/dilame/instagram-private-api)
-  - NodeJS Instagram private API client. Written in TypeScript.
+- [tfjs-models](https://github.com/tensorflow/tfjs-models)
+  - Pretrained models for TensorFlow.js
+- [hospitalrun-frontend](https://github.com/HospitalRun/hospitalrun-frontend)
+  - Frontend for HospitalRun
+- [qiankun](https://github.com/umijs/qiankun)
+  - 📦🚀Blazing fast, simple and completed solution for micro frontends.
+- [prisma-examples](https://github.com/prisma/prisma-examples)
+  - 🚀 Ready-to-run Prisma example projects
+- [ng-alain](https://github.com/ng-alain/ng-alain)
+  - NG-ZORRO admin panel front-end framework (surge mirror https://ng-alain-doc.surge.sh)
+- [G2Plot](https://github.com/antvis/G2Plot)
+  - 🍡 An interactive and responsive charting library
+- [TypeScript](https://github.com/microsoft/TypeScript)
+  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [vue-class-component](https://github.com/vuejs/vue-class-component)
+  - ES / TypeScript decorator for class-style Vue components.
+- [jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp)
+  - Language Server Protocol integration for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename)
+- [pico](https://github.com/gripeless/pico)
+  - Take browser screenshots in Javascript 📸
+- [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)
+  - An enterprise-class UI components based on Ant Design and Angular. 🐜
+- [rsuite](https://github.com/rsuite/rsuite)
+  - 🧱 A suite of React components .
+- [react-native-paper](https://github.com/callstack/react-native-paper)
+  - Material Design for React Native (Android & iOS)
+- [ant-design-mobile](https://github.com/ant-design/ant-design-mobile)
+  - A configurable Mobile UI
+- [react-native-redash](https://github.com/wcandillon/react-native-redash)
+  - The React Native Reanimated and Gesture Handler Toolbelt
 - [LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
   - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
-- [Angular-JumpStart](https://github.com/DanWahlin/Angular-JumpStart)
-  - Angular and TypeScript JumpStart example application
-- [etcher](https://github.com/balena-io/etcher)
-  - Flash OS images to SD cards & USB drives, safely and easily.
+- [simplenote-electron](https://github.com/Automattic/simplenote-electron)
+  - A Simplenote React app packaged via Electron for Windows and Linux
 - [delon](https://github.com/ng-alain/delon)
   - Delon is a set of essential modules for ng-alain. https://github.com/ng-alain/ng-alain/issues
-- [vscode](https://github.com/microsoft/vscode)
-  - Visual Studio Code
-- [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)
-  - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
-- [react-diagrams](https://github.com/projectstorm/react-diagrams)
-  - a super simple, no-nonsense diagramming library written in react that just works
-- [nativefier](https://github.com/jiahaog/nativefier)
-  - Make any web page a desktop application
-- [dumi](https://github.com/umijs/dumi)
-  - Documentation generator for React component
-- [hls-downloader-web-extension](https://github.com/puemos/hls-downloader-web-extension)
-  - Web Extension for sniffing and downloading HTTP Live streams (HLS)
+- [instagram-private-api](https://github.com/dilame/instagram-private-api)
+  - NodeJS Instagram private API client. Written in TypeScript.
+- [amplify-js](https://github.com/aws-amplify/amplify-js)
+  - A declarative JavaScript library for application development using cloud services.
+- [weui-miniprogram](https://github.com/wechat-miniprogram/weui-miniprogram)
+  - 小程序WeUI组件库
+- [coc.nvim](https://github.com/neoclide/coc.nvim)
+  - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
+- [taro-ui](https://github.com/NervJS/taro-ui)
+  - 一款基于 Taro 框架开发的多端 UI 组件库
