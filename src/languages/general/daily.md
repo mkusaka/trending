@@ -1,51 +1,51 @@
 # general
-- [bashtop](https://github.com/aristocratos/bashtop) : Shell
-  - Linux resource monitor
-- [reverse-proxy](https://github.com/microsoft/reverse-proxy) : C#
-  - A toolkit for developing high-performance HTTP reverse proxy applications.
-- [fastbook](https://github.com/fastai/fastbook) : Jupyter Notebook
-  - Draft of the fastai book
-- [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) : 
-  - GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。
-- [springer_free_books](https://github.com/alexgand/springer_free_books) : Python
-  - Python script to download all Springer books released for free during the 2020 COVID-19 quarantine
-- [darknet](https://github.com/pjreddie/darknet) : C
-  - Convolutional Neural Networks
-- [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) : HTML
-  - 吴恩达老师的机器学习课程个人笔记
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
-  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
-- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) : Jupyter Notebook
-  - Python - 100天从新手到大师
-- [blitz](https://github.com/blitz-js/blitz) : TypeScript
-  - ⚡️Rails-like framework for monolithic, full-stack React apps — built on Next.js
-- [obs-studio](https://github.com/obsproject/obs-studio) : C
-  - OBS Studio - Free and open source software for live streaming and screen recording
-- [Tasmota](https://github.com/arendst/Tasmota) : C++
-  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
-- [advanced-java](https://github.com/doocs/advanced-java) : Java
-  - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
 - [ALAE](https://github.com/podgorskiy/ALAE) : Python
   - [CVPR2020] Adversarial Latent Autoencoders
-- [interviews](https://github.com/kdn251/interviews) : Java
-  - Everything you need to know to get the job.
-- [PaddleHub](https://github.com/PaddlePaddle/PaddleHub) : Python
-  - Application toolkit for pre-trained models of PaddlePaddle（『飞桨』预训练模型应用工具 ）
-- [Data-science-best-resources](https://github.com/tirthajyoti/Data-science-best-resources) : 
-  - Carefully curated resource links for data science in one place
+- [bashtop](https://github.com/aristocratos/bashtop) : Shell
+  - Linux resource monitor
+- [eladmin](https://github.com/elunez/eladmin) : Java
+  - 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
+- [Beef](https://github.com/beefytech/Beef) : C++
+  - Beef Programming Language
+- [Java](https://github.com/TheAlgorithms/Java) : Java
+  - All Algorithms implemented in Java
+- [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) : Java
+  - spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…
 - [Qv2ray](https://github.com/Qv2ray/Qv2ray) : C++
   - 🌟 V2Ray/Trojan-GFW/SSR Linux/Windows/macOS 跨平台 GUI 🔨 使用 C++17/Qt5 ，支持订阅，扫描二维码，自定义路由编辑 🌟
-- [ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) : 
-  - List of Data Science Cheatsheets to rule the world
-- [stopp-corona-ios](https://github.com/austrianredcross/stopp-corona-ios) : 
-  - iOS Source Code
-- [NNfSiX](https://github.com/Sentdex/NNfSiX) : Assembly
-  - Neural Networks from Scratch in other languages
-- [Background-Matting](https://github.com/senguptaumd/Background-Matting) : Python
-  - Background Matting: The World is Your Green Screen
-- [data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap) : Python
-  - Toturial coming with "data science roadmap" graphe.
-- [airframe-react](https://github.com/0wczar/airframe-react) : JavaScript
-  - Free Open Source High Quality Dashboard based on Bootstrap 4 & React 16: http://dashboards.webkom.co/react/airframe
-- [awesome-datascience](https://github.com/academic/awesome-datascience) : 
-  - 📝 An awesome Data Science repository to learn and apply for real world problems.
+- [InstaPy](https://github.com/timgrossmann/InstaPy) : Python
+  - 📷 Instagram Bot - Tool for automated Instagram interactions
+- [leetcode](https://github.com/azl397985856/leetcode) : JavaScript
+  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+- [opentelemetry-java](https://github.com/open-telemetry/opentelemetry-java) : Java
+  - OpenTelemetry Java SDK
+- [ml-agents](https://github.com/Unity-Technologies/ml-agents) : C#
+  - Unity Machine Learning Agents Toolkit
+- [alpine](https://github.com/alpinejs/alpine) : JavaScript
+  - A rugged, minimal framework for composing JavaScript behavior in your markup.
+- [flink-learning](https://github.com/zhisheng17/flink-learning) : Java
+  - flink learning blog. http://www.54tianzhisheng.cn 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》
+- [JavaGuide](https://github.com/Snailclimb/JavaGuide) : Java
+  - 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+- [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) : Jupyter Notebook
+  - This repository contains the source code for the paper First Order Motion Model for Image Animation
+- [flink](https://github.com/apache/flink) : Java
+  - Apache Flink
+- [manim](https://github.com/3b1b/manim) : Python
+  - Animation engine for explanatory math videos
+- [Tasmota](https://github.com/arendst/Tasmota) : C++
+  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
+- [hutool](https://github.com/looly/hutool) : Java
+  - A set of tools that keep Java sweet.
+- [svelte](https://github.com/sveltejs/svelte) : JavaScript
+  - Cybernetically enhanced web apps
+- [opentrace-android](https://github.com/opentrace-community/opentrace-android) : Kotlin
+  - OpenTrace Android app. Reference implementation of the BlueTrace protocol.
+- [421pdf](https://github.com/yuanguangxin/421pdf) : 
+  - 421页PDF 八卦汇总 824瓜
+- [weekly](https://github.com/ruanyf/weekly) : 
+  - 科技爱好者周刊，每周五发布
+- [minetest](https://github.com/minetest/minetest) : C++
+  - Minetest, an open source infinite-world block sandbox game engine with support for survival and crafting. Also see https://github.com/minetest/minetest_game
+- [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) : Go
+  - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，更多功能正在开发中，欢迎issue和pr~
