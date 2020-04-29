@@ -40,7 +40,7 @@
 - [nuclei](https://github.com/projectdiscovery/nuclei)
   - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
 - [dalfox](https://github.com/hahwul/dalfox)
-  - DalFox(Finder Of XSS) / Parameter Analysis and XSS Scanning tool based on golang
+  - 🦊 DalFox(Finder Of XSS) / Parameter Analysis and XSS Scanning tool based on golang
 - [yubikey-agent](https://github.com/FiloSottile/yubikey-agent)
   - 
 - [golang-web-dev](https://github.com/GoesToEleven/golang-web-dev)
