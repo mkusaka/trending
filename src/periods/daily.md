@@ -99,7 +99,7 @@
   - 
 - [go-flutter](https://github.com/go-flutter-desktop/go-flutter)
   - Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.
-- [earthly](https://github.com/vladaionescu/earthly)
+- [earthly](https://github.com/earthly/earthly)
   - Build automation for the container era
 ## javascript
 - [leetcode](https://github.com/azl397985856/leetcode)
