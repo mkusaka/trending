@@ -72,7 +72,7 @@
 - [tinygo](https://github.com/tinygo-org/tinygo)
   - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
 - [cortex](https://github.com/cortexlabs/cortex)
-  - Cloud native model serving infrastructure
+  - Machine learning model serving infrastructure
 - [gin](https://github.com/gin-gonic/gin)
   - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [learn-go-with-tests](https://github.com/quii/learn-go-with-tests)
@@ -137,7 +137,7 @@
 - [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
   - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 - [redwood](https://github.com/redwoodjs/redwood)
-  - Bringing full-stack to the JAMstack.
+  - Bringing full-stack to the Jamstack.
 - [highlight.js](https://github.com/highlightjs/highlight.js)
   - Javascript syntax highlighter
 - [strapi](https://github.com/strapi/strapi)

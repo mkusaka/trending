@@ -34,7 +34,7 @@
 - [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
   - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 - [redwood](https://github.com/redwoodjs/redwood)
-  - Bringing full-stack to the JAMstack.
+  - Bringing full-stack to the Jamstack.
 - [highlight.js](https://github.com/highlightjs/highlight.js)
   - Javascript syntax highlighter
 - [strapi](https://github.com/strapi/strapi)
