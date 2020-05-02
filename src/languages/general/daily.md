@@ -19,7 +19,7 @@
   - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 - [opentelemetry-java](https://github.com/open-telemetry/opentelemetry-java) : Java
   - OpenTelemetry Java SDK
-- [ml-agents](https://github.com/Unity-Technologies/ml-agents) : C#
+- [ml-agents](https://github.com/Unity-Technologies/ml-agents) : Python
   - Unity Machine Learning Agents Toolkit
 - [alpine](https://github.com/alpinejs/alpine) : JavaScript
   - A rugged, minimal framework for composing JavaScript behavior in your markup.
