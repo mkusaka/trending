@@ -2,7 +2,7 @@
 - [qrcp](https://github.com/claudiodangelis/qrcp) : Go
   - ⚡ Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [avatarify](https://github.com/alievk/avatarify) : Python
-  - Avatars for Zoom and Skype
+  - Avatars for Zoom, Skype and other video-conferencing apps.
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) : JavaScript
   - An interactive git visualization to challenge and educate!
 - [bird-bot](https://github.com/natewong1313/bird-bot) : Python
@@ -19,7 +19,7 @@
   - The DP3T-App for iOS
 - [Covid-19-Flutter-UI](https://github.com/abuanwar072/Covid-19-Flutter-UI) : Dart
 - [vue-next](https://github.com/vuejs/vue-next) : TypeScript
-  - The next major version of Vue (WIP)
+  - Repo for Vue 3.0 (currently in beta)
 - [shardingsphere](https://github.com/apache/shardingsphere) : Java
   - Distributed database middleware
 - [dp3t-app-android](https://github.com/DP-3T/dp3t-app-android) : Java
@@ -38,7 +38,7 @@
   - vue-admin-beautiful是一款超棒的前端开发框架（当然只是自我感觉）,长期更新维护,感谢您的star,我一直在努力,官方答疑群972435319
 - [Flutter-Course-Resources](https://github.com/londonappbrewery/Flutter-Course-Resources) : 
   - Learn to Code While Building Apps - The Complete Flutter Development Bootcamp
-- [documents](https://github.com/DP-3T/documents) : 
+- [documents](https://github.com/DP-3T/documents) : Shell
   - Decentralized Privacy-Preserving Proximity Tracing -- Documents
 - [RxJava](https://github.com/ReactiveX/RxJava) : Java
   - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
