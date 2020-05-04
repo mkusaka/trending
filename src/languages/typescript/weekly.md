@@ -1,6 +1,6 @@
 # typescript
 - [vue-next](https://github.com/vuejs/vue-next)
-  - The next major version of Vue (WIP)
+  - Repo for Vue 3.0 (currently in beta)
 - [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)
   - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
 - [formik](https://github.com/jaredpalmer/formik)
