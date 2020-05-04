@@ -21,7 +21,7 @@
   - ES / TypeScript decorator for class-style Vue components.
 - [jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp)
   - Language Server Protocol integration for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename)
-- [pico](https://github.com/gripeless/pico)
+- [pico](https://github.com/nikersify/pico)
   - Take browser screenshots in Javascript 📸
 - [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)
   - An enterprise-class UI components based on Ant Design and Angular. 🐜
