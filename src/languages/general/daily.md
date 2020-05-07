@@ -1,51 +1,50 @@
 # general
-- [sm64](https://github.com/n64decomp/sm64) : C
-  - A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
-- [cnn-explainer](https://github.com/poloclub/cnn-explainer) : JavaScript
-  - Learning Convolutional Neural Networks with Interactive Visualization. https://poloclub.github.io/cnn-explainer/
-- [salt](https://github.com/saltstack/salt) : Python
-  - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
 - [ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) : TypeScript
   - Cut and paste your surroundings using AR
-- [awesome-compose](https://github.com/docker/awesome-compose) : HTML
-  - Awesome Docker Compose samples
-- [1loc](https://github.com/phuoc-ng/1loc) : TypeScript
-  - What's your favorite JavaScript single LOC (line of code)?
-- [Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) : 
-  - A collection of open source and commercial tools that aid in red team operations.
+- [sm64](https://github.com/n64decomp/sm64) : C
+  - A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
+- [rich](https://github.com/willmcgugan/rich) : Python
+  - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [exposure-notifications-android](https://github.com/google/exposure-notifications-android) : Java
+  - Exposure Notifications Android Reference Design
+- [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) : Swift
+  - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+- [salt-security-backports](https://github.com/rossengeorgiev/salt-security-backports) : Python
+  - Salt security backports for CVE-2020-11651 & CVE-2020-11652
+- [c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) : Jupyter Notebook
+  - Sample code for Channel 9 Python for Beginners course
 - [googletest](https://github.com/google/googletest) : C++
   - Googletest - Google Testing and Mocking Framework
-- [caddy](https://github.com/caddyserver/caddy) : Go
-  - Fast, multi-platform web server with automatic HTTPS
-- [julia](https://github.com/JuliaLang/julia) : Julia
-  - The Julia Language: A fresh approach to technical computing.
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
-  - 💯 Materials to help you rock your next coding interview
-- [acwa_book_ru](https://github.com/adelf/acwa_book_ru) : 
-  - Книга "Архитектура сложных веб-приложений. С примерами на Laravel"
 - [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) : Makefile
   - A curated list for awesome kubernetes sources 🚢🎉
-- [esbuild](https://github.com/evanw/esbuild) : Go
-  - An extremely fast JavaScript bundler and minifier
+- [NewPipe](https://github.com/TeamNewPipe/NewPipe) : Java
+  - A libre lightweight streaming front-end for Android.
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
+  - 💯 Materials to help you rock your next coding interview
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) : Jupyter Notebook
   - Python - 100天从新手到大师
+- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) : JavaScript
+  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+- [cnn-explainer](https://github.com/poloclub/cnn-explainer) : JavaScript
+  - Learning Convolutional Neural Networks with Interactive Visualization. https://poloclub.github.io/cnn-explainer/
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
+- [dmca](https://github.com/github/dmca) : 
+  - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
+- [esbuild](https://github.com/evanw/esbuild) : Go
+  - An extremely fast JavaScript bundler and minifier
 - [ACHNBrowserUI](https://github.com/Dimillian/ACHNBrowserUI) : Swift
   - Animal Crossing New Horizon items catalog in SwiftUI
-- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4) : JavaScript
-  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [KernBypass-Public](https://github.com/akusio/KernBypass-Public) : Objective-C
-  - chroot based kernel level jailbreak detection bypass.
-- [open-source-cs](https://github.com/ForrestKnight/open-source-cs) : 
-  - Video discussing this curriculum:
+- [deno](https://github.com/denoland/deno) : TypeScript
+  - A secure JavaScript and TypeScript runtime
 - [nndl.github.io](https://github.com/nndl/nndl.github.io) : HTML
   - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
-- [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) : C
-  - OpenCore bootloader
-- [axios](https://github.com/axios/axios) : JavaScript
-  - Promise based HTTP client for the browser and node.js
-- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) : JavaScript
-  - 一个基于 electron 的音乐软件
-- [faker](https://github.com/faker-ruby/faker) : Ruby
-  - A library for generating fake data such as names, addresses, and phone numbers.
-- [react-native](https://github.com/facebook/react-native) : JavaScript
-  - A framework for building native apps with React.
+- [caddy](https://github.com/caddyserver/caddy) : Go
+  - Fast, multi-platform web server with automatic HTTPS
+- [eng-practices](https://github.com/google/eng-practices) : 
+  - Google's Engineering Practices documentation
+- [awesome-compose](https://github.com/docker/awesome-compose) : HTML
+  - Awesome Docker Compose samples
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4) : JavaScript
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [maratona2-desafios](https://github.com/codeedu/maratona2-desafios) : 
