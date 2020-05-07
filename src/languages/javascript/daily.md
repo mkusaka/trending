@@ -1,51 +1,51 @@
 # javascript
-- [cnn-explainer](https://github.com/poloclub/cnn-explainer)
-  - Learning Convolutional Neural Networks with Interactive Visualization. https://poloclub.github.io/cnn-explainer/
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
   - 💯 Materials to help you rock your next coding interview
+- [cnn-explainer](https://github.com/poloclub/cnn-explainer)
+  - Learning Convolutional Neural Networks with Interactive Visualization. https://poloclub.github.io/cnn-explainer/
 - [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
   - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [axios](https://github.com/axios/axios)
-  - Promise based HTTP client for the browser and node.js
 - [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
   - 一个基于 electron 的音乐软件
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [ac-nh-turnip-prices](https://github.com/mikebryant/ac-nh-turnip-prices)
-  - Price calculator/predictor for Turnip prices
-- [create-react-app](https://github.com/facebook/create-react-app)
-  - Set up a modern web app by running one command.
-- [google-meet-grid-view](https://github.com/Fugiman/google-meet-grid-view)
-  - Userscript to offer a grid-view layout in Google Meets
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
-  - ✅ The Node.js best practices list (April 2020)
-- [joplin](https://github.com/laurent22/joplin)
-  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
-- [realworld](https://github.com/gothinkster/realworld)
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [Javascript](https://github.com/TheAlgorithms/Javascript)
-  - A repository for All algorithms implemented in Javascript (for educational purposes only)
-- [plotly.js](https://github.com/plotly/plotly.js)
-  - Open-source JavaScript charting library behind Plotly and Dash
-- [jsPDF](https://github.com/MrRio/jsPDF)
-  - Client-side JavaScript PDF generation for everyone.
-- [alpine](https://github.com/alpinejs/alpine)
-  - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [api](https://github.com/covid19india/api)
-  - Our Database
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
 - [cypress](https://github.com/cypress-io/cypress)
   - Fast, easy and reliable testing for anything that runs in a browser.
-- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
-  - Bypass Paywalls web browser extension
-- [open-coronavirus](https://github.com/open-coronavirus/open-coronavirus)
-  - Open Coronavirus
-- [angular.js](https://github.com/angular/angular.js)
-  - AngularJS - HTML enhanced for web apps!
-- [Detox](https://github.com/wix/Detox)
-  - Gray box end-to-end testing and automation framework for mobile apps
-- [sequelize](https://github.com/sequelize/sequelize)
-  - An easy-to-use multi SQL dialect ORM for Node.js
-- [serverless](https://github.com/serverless/serverless)
-  - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+- [faker.js](https://github.com/Marak/faker.js)
+  - generate massive amounts of realistic fake data in Node.js and the browser
+- [cli](https://github.com/npm/cli)
+  - the package manager for JavaScript
+- [reaction](https://github.com/reactioncommerce/reaction)
+  - Reaction is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes.
+- [react-query](https://github.com/tannerlinsley/react-query)
+  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+- [snowpack](https://github.com/pikapkg/snowpack)
+  - ☶ The fast, simple dev environment for modern web apps.
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [NodeBB](https://github.com/NodeBB/NodeBB)
+  - Node.js based forum software built for the modern web
+- [cep-promise](https://github.com/filipedeschamps/cep-promise)
+  - Busca por CEP integrado diretamente aos serviços dos Correios, ViaCEP e outros (Node.js e Browser)
+- [carbon](https://github.com/carbon-design-system/carbon)
+  - A design system built by IBM
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+  - ✅ The Node.js best practices list (April 2020)
 - [ar-facedoodle](https://github.com/cyrildiagne/ar-facedoodle)
   - Doodle AR masks right from the browser with tensorflow.js
+- [cloudmapper](https://github.com/duo-labs/cloudmapper)
+  - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
+- [react-router](https://github.com/ReactTraining/react-router)
+  - Declarative routing for React
+- [serverless](https://github.com/serverless/serverless)
+  - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+- [cors-anywhere](https://github.com/Rob--W/cors-anywhere)
+  - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
+- [appium](https://github.com/appium/appium)
+  - 📱 Automation for iOS, Android, and Windows Apps.
+- [Prebid.js](https://github.com/prebid/Prebid.js)
+  - Setup and manage header bidding advertising partners without writing code or confusing line items. Prebid.js is open source and free.
+- [node](https://github.com/nodejs/node)
+  - Node.js JavaScript runtime ✨🐢🚀✨
+- [gutenberg](https://github.com/WordPress/gutenberg)
+  - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.

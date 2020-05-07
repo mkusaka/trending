@@ -1,51 +1,51 @@
 # rust
-- [zCore](https://github.com/rcore-os/zCore)
-  - Reimplement Zircon microkernel in Rust.
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
 - [ytop](https://github.com/cjbassi/ytop)
   - A TUI system monitor written in Rust
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix web is a small, pragmatic, and extremely fast rust web framework.
-- [diesel](https://github.com/diesel-rs/diesel)
-  - A safe, extensible ORM and Query Builder for Rust
-- [jormungandr](https://github.com/input-output-hk/jormungandr)
-  - aspiring blockchain node
-- [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
-  - The Mullvad VPN client app for desktop and mobile
-- [talent-plan](https://github.com/pingcap/talent-plan)
-  - open source training courses about distributed systems and distributed systemes
+- [zCore](https://github.com/rcore-os/zCore)
+  - Reimplement Zircon microkernel in Rust.
 - [winit](https://github.com/rust-windowing/winit)
   - Window handling library in pure Rust
-- [static-analysis](https://github.com/analysis-tools-dev/static-analysis)
-  - Static analysis tools for all programming languages, build tools, config files and more.
-- [amethyst](https://github.com/amethyst/amethyst)
-  - Data-oriented and data-driven game engine written in Rust
-- [krustlet](https://github.com/deislabs/krustlet)
-  - Kubernetes Rust Kubelet
-- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
-  - Facilitating high-level interactions between Wasm modules and JavaScript
-- [pyo3](https://github.com/PyO3/pyo3)
-  - Rust bindings for the Python interpreter
-- [tree-sitter](https://github.com/tree-sitter/tree-sitter)
-  - An incremental parsing system for programming tools
-- [rust-postgres](https://github.com/sfackler/rust-postgres)
-  - Native PostgreSQL driver for the Rust programming language
-- [firecracker](https://github.com/firecracker-microvm/firecracker)
-  - Secure and fast microVMs for serverless computing.
-- [vulkano](https://github.com/vulkano-rs/vulkano)
-  - Safe and rich Rust wrapper around the Vulkan API
-- [mobilecoin](https://github.com/mobilecoinofficial/mobilecoin)
-  - Private payments for mobile devices.
-- [gfx](https://github.com/gfx-rs/gfx)
-  - A low-overhead Vulkan-like GPU API for Rust.
-- [sqlx](https://github.com/launchbadge/sqlx)
-  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [substrate](https://github.com/paritytech/substrate)
   - Substrate: The platform for blockchain innovators
-- [wrangler](https://github.com/cloudflare/wrangler)
-  - 🤠 wrangle your cloudflare workers
-- [librespot](https://github.com/librespot-org/librespot)
-  - Open Source Spotify client library
-- [swc](https://github.com/swc-project/swc)
-  - Super-fast typescript / javascript compiler written in rust
-- [wasmer](https://github.com/wasmerio/wasmer)
-  - 🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten
+- [tokenizers](https://github.com/huggingface/tokenizers)
+  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [findomain](https://github.com/Edu4rdSHL/findomain)
+  - The fastest and cross-platform subdomain enumerator, do not waste your time.
+- [async-graphql](https://github.com/async-graphql/async-graphql)
+  - The GraphQL server library implemented by rust
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - ripgrep recursively searches directories for a regex pattern
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [firecracker](https://github.com/firecracker-microvm/firecracker)
+  - Secure and fast microVMs for serverless computing.
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix web is a small, pragmatic, and extremely fast rust web framework.
+- [serde](https://github.com/serde-rs/serde)
+  - Serialization framework for Rust
+- [lighthouse](https://github.com/sigp/lighthouse)
+  - Rust Ethereum 2.0 Client
+- [jormungandr](https://github.com/input-output-hk/jormungandr)
+  - aspiring blockchain node
+- [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
+  - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
+- [json](https://github.com/serde-rs/json)
+  - Strongly typed JSON library for Rust
+- [tantivy](https://github.com/tantivy-search/tantivy)
+  - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+- [amethyst](https://github.com/amethyst/amethyst)
+  - Data-oriented and data-driven game engine written in Rust
+- [futures-rs](https://github.com/rust-lang/futures-rs)
+  - Zero-cost asynchronous programming in Rust
+- [ruffle](https://github.com/ruffle-rs/ruffle)
+  - A Flash Player emulator written in Rust
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
+- [rust-clippy](https://github.com/rust-lang/rust-clippy)
+  - A bunch of lints to catch common mistakes and improve your Rust code
+- [tauri](https://github.com/tauri-apps/tauri)
+  - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
+- [vulkano](https://github.com/vulkano-rs/vulkano)
+  - Safe and rich Rust wrapper around the Vulkan API

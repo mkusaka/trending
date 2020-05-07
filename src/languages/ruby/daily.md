@@ -1,51 +1,51 @@
 # ruby
+- [sonic-pi](https://github.com/samaaron/sonic-pi)
+  - Code. Music. Live.
 - [faker](https://github.com/faker-ruby/faker)
   - A library for generating fake data such as names, addresses, and phone numbers.
-- [rubocop](https://github.com/rubocop-hq/rubocop)
-  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [factory_bot](https://github.com/thoughtbot/factory_bot)
-  - A library for setting up Ruby objects as test data.
-- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
-  - The Cocoa Dependency Manager.
-- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
-  - Ruby implementation of GraphQL
-- [canvas-lms](https://github.com/instructure/canvas-lms)
-  - The open LMS by Instructure, Inc.
-- [openproject](https://github.com/opf/openproject)
-  - OpenProject is the leading open source project management software.
-- [capybara](https://github.com/teamcapybara/capybara)
-  - Acceptance test framework for web applications
-- [paperclip](https://github.com/thoughtbot/paperclip)
-  - Easy file attachment management for ActiveRecord
-- [simplecov](https://github.com/colszowka/simplecov)
-  - Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites
-- [ransack](https://github.com/activerecord-hackery/ransack)
-  - Object-based searching.
-- [chef](https://github.com/chef/chef)
-  - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
-- [vagrant](https://github.com/hashicorp/vagrant)
-  - Vagrant is a tool for building and distributing development environments.
-- [setup](https://github.com/lewagon/setup)
-  - Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp
+- [fast_jsonapi](https://github.com/Netflix/fast_jsonapi)
+  - A lightning fast JSON:API serializer for Ruby Objects.
+- [huginn](https://github.com/huginn/huginn)
+  - Create agents that monitor and act on your behalf. Your agents are standing by!
+- [doorkeeper](https://github.com/doorkeeper-gem/doorkeeper)
+  - Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.
 - [strong_migrations](https://github.com/ankane/strong_migrations)
   - Catch unsafe migrations in development
-- [sidekiq](https://github.com/mperham/sidekiq)
-  - Simple, efficient background processing for Ruby
-- [puma](https://github.com/puma/puma)
-  - A Ruby/Rack web server built for concurrency
-- [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews)
-  - Data science interview questions and answers
-- [resque](https://github.com/resque/resque)
-  - Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.
-- [paper_trail](https://github.com/paper-trail-gem/paper_trail)
-  - Track changes to your rails models
-- [mdisec-twitch-yayinlari](https://github.com/mmetince/mdisec-twitch-yayinlari)
-  - https://twitch.tv/mdisec
-- [bootstrap-sass](https://github.com/twbs/bootstrap-sass)
-  - Official Sass port of Bootstrap 2 and 3.
-- [bosh](https://github.com/cloudfoundry/bosh)
-  - Cloud Foundry BOSH is an open source tool chain for release engineering, deployment and lifecycle management of large scale distributed services.
-- [knock](https://github.com/nsarno/knock)
-  - Seamless JWT authentication for Rails API
-- [solidus](https://github.com/solidusio/solidus)
-  - 🛒Solidus, Rails eCommerce System
+- [sorbet](https://github.com/sorbet/sorbet)
+  - A fast, powerful type checker designed for Ruby
+- [discourse](https://github.com/discourse/discourse)
+  - A platform for community discussion. Free, open, simple.
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
+  - Metasploit Framework
+- [thor](https://github.com/erikhuda/thor)
+  - Thor is a toolkit for building powerful command-line interfaces.
+- [webpacker](https://github.com/rails/webpacker)
+  - Use Webpack to manage app-like JavaScript modules in Rails
+- [chef](https://github.com/chef/chef)
+  - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
+- [homebrew-bundle](https://github.com/Homebrew/homebrew-bundle)
+  - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
+- [faraday](https://github.com/lostisland/faraday)
+  - Simple, but flexible HTTP client library, with support for multiple backends.
+- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
+  - Ruby implementation of GraphQL
+- [rails](https://github.com/rails/rails)
+  - Ruby on Rails
+- [active_model_serializers](https://github.com/rails-api/active_model_serializers)
+  - ActiveModel::Serializer implementation and Rails hooks
+- [vagrant](https://github.com/hashicorp/vagrant)
+  - Vagrant is a tool for building and distributing development environments.
+- [raven-ruby](https://github.com/getsentry/raven-ruby)
+  - Raven is a Ruby client for Sentry
+- [acts-as-taggable-on](https://github.com/mbleigh/acts-as-taggable-on)
+  - A tagging plugin for Rails applications that allows for custom tagging along dynamic contexts.
+- [cancancan](https://github.com/CanCanCommunity/cancancan)
+  - The authorization Gem for Ruby on Rails.
+- [bullet](https://github.com/flyerhzm/bullet)
+  - help to kill N+1 queries and unused eager loading
+- [flipper](https://github.com/jnunemaker/flipper)
+  - 🐬 feature flipping for ruby (performant and simple)
+- [chartkick](https://github.com/ankane/chartkick)
+  - Create beautiful JavaScript charts with one line of Ruby
+- [shopify-app-cli](https://github.com/Shopify/shopify-app-cli)
+  - Shopify App CLI helps you build Shopify apps faster.
