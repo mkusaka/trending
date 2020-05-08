@@ -1,50 +1,50 @@
 # general
-- [ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) : TypeScript
-  - Cut and paste your surroundings using AR
-- [sm64](https://github.com/n64decomp/sm64) : C
-  - A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
-- [rich](https://github.com/willmcgugan/rich) : Python
-  - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [exposure-notifications-android](https://github.com/google/exposure-notifications-android) : Java
-  - Exposure Notifications Android Reference Design
-- [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) : Swift
-  - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
-- [salt-security-backports](https://github.com/rossengeorgiev/salt-security-backports) : Python
-  - Salt security backports for CVE-2020-11651 & CVE-2020-11652
-- [c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) : Jupyter Notebook
-  - Sample code for Channel 9 Python for Beginners course
-- [googletest](https://github.com/google/googletest) : C++
-  - Googletest - Google Testing and Mocking Framework
-- [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) : Makefile
-  - A curated list for awesome kubernetes sources 🚢🎉
-- [NewPipe](https://github.com/TeamNewPipe/NewPipe) : Java
-  - A libre lightweight streaming front-end for Android.
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
-  - 💯 Materials to help you rock your next coding interview
-- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) : Jupyter Notebook
-  - Python - 100天从新手到大师
-- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) : JavaScript
-  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
-- [cnn-explainer](https://github.com/poloclub/cnn-explainer) : JavaScript
-  - Learning Convolutional Neural Networks with Interactive Visualization. https://poloclub.github.io/cnn-explainer/
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
-  - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
-- [dmca](https://github.com/github/dmca) : 
-  - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
-- [esbuild](https://github.com/evanw/esbuild) : Go
-  - An extremely fast JavaScript bundler and minifier
-- [ACHNBrowserUI](https://github.com/Dimillian/ACHNBrowserUI) : Swift
-  - Animal Crossing New Horizon items catalog in SwiftUI
+- [covid-sim](https://github.com/mrc-ide/covid-sim) : C++
+- [facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) : Objective-C
+  - Used to integrate the Facebook Platform with your iOS & tvOS apps.
+- [client](https://github.com/keybase/client) : Go
+  - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
+- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) : 
+  - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [deno](https://github.com/denoland/deno) : TypeScript
   - A secure JavaScript and TypeScript runtime
-- [nndl.github.io](https://github.com/nndl/nndl.github.io) : HTML
-  - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
-- [caddy](https://github.com/caddyserver/caddy) : Go
-  - Fast, multi-platform web server with automatic HTTPS
-- [eng-practices](https://github.com/google/eng-practices) : 
-  - Google's Engineering Practices documentation
-- [awesome-compose](https://github.com/docker/awesome-compose) : HTML
-  - Awesome Docker Compose samples
-- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4) : JavaScript
-  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [maratona2-desafios](https://github.com/codeedu/maratona2-desafios) : 
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
+- [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) : C++
+  - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
+- [skillbox-async-messenger](https://github.com/manchenkoff/skillbox-async-messenger) : Python
+  - Пример клиент-серверного чата на Python для Skillbox
+- [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) : TSQL
+  - Cross platform SQL editor and database management app for Windows, Linux, and Mac.
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [JavaFamily](https://github.com/AobingJava/JavaFamily) : 
+  - 【互联网一线大厂面试+学习指南】
+- [OneForAll](https://github.com/shmilylty/OneForAll) : Python
+  - OneForAll是一款功能强大的子域收集工具
+- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) : Jupyter Notebook
+  - Python - 100天从新手到大师
+- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) : Vue
+  - 🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin
+- [books](https://github.com/frappe/books) : Vue
+  - Free Desktop book-keeping software for small-businesses and freelancers.
+- [grpc](https://github.com/grpc/grpc) : C++
+  - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [easyexcel](https://github.com/alibaba/easyexcel) : Java
+  - 快速、简单避免OOM的java处理Excel工具
+- [ant-design](https://github.com/ant-design/ant-design) : TypeScript
+  - 🌈 A UI Design Language and React UI library
+- [codeql](https://github.com/github/codeql) : CodeQL
+  - CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security (code scanning), LGTM.com, and LGTM Enterprise
+- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) : JavaScript
+  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+- [esbuild](https://github.com/evanw/esbuild) : Go
+  - An extremely fast JavaScript bundler and minifier
+- [spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) : Java
+  - Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
+- [miniblink49](https://github.com/weolar/miniblink49) : C++
+  - a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef
+- [react-native-video](https://github.com/react-native-community/react-native-video) : Java
+  - A <Video /> component for react-native
+- [android-gpuimage](https://github.com/cats-oss/android-gpuimage) : Java
+  - Android filters based on OpenGL (idea from GPUImage for iOS)
