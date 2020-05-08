@@ -1,51 +1,51 @@
 # javascript
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
-  - 💯 Materials to help you rock your next coding interview
-- [cnn-explainer](https://github.com/poloclub/cnn-explainer)
-  - Learning Convolutional Neural Networks with Interactive Visualization. https://poloclub.github.io/cnn-explainer/
+- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
+  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+- [Blog](https://github.com/ljianshu/Blog)
+  - 关注基础知识，打造优质前端博客，公众号[前端工匠]的作者
+- [umi](https://github.com/umijs/umi)
+  - 🌋 Pluggable enterprise-level react application framework.
+- [office-docs-powershell](https://github.com/MicrosoftDocs/office-docs-powershell)
+  - PowerShell Reference for Office Products - Short URL: aka.ms/office-powershell
+- [swagger-ui](https://github.com/swagger-api/swagger-ui)
+  - Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
+- [dsa.js-data-structures-algorithms-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)
+  - 🥞Data Structures and Algorithms explained and implemented in JavaScript
 - [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
   - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
-  - 一个基于 electron 的音乐软件
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [cypress](https://github.com/cypress-io/cypress)
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [faker.js](https://github.com/Marak/faker.js)
-  - generate massive amounts of realistic fake data in Node.js and the browser
-- [cli](https://github.com/npm/cli)
-  - the package manager for JavaScript
-- [reaction](https://github.com/reactioncommerce/reaction)
-  - Reaction is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes.
-- [react-query](https://github.com/tannerlinsley/react-query)
-  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
-- [snowpack](https://github.com/pikapkg/snowpack)
-  - ☶ The fast, simple dev environment for modern web apps.
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [NodeBB](https://github.com/NodeBB/NodeBB)
-  - Node.js based forum software built for the modern web
-- [cep-promise](https://github.com/filipedeschamps/cep-promise)
-  - Busca por CEP integrado diretamente aos serviços dos Correios, ViaCEP e outros (Node.js e Browser)
-- [carbon](https://github.com/carbon-design-system/carbon)
-  - A design system built by IBM
+- [incubator-echarts](https://github.com/apache/incubator-echarts)
+  - A powerful, interactive charting and visualization library for browser
+- [react-virtualized](https://github.com/bvaughn/react-virtualized)
+  - React components for efficiently rendering large lists and tabular data
+- [gpuweb](https://github.com/gpuweb/gpuweb)
+  - Where the GPU for the Web work happens!
+- [SwitchHosts](https://github.com/oldj/SwitchHosts)
+  - Switch hosts quickly!
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
   - ✅ The Node.js best practices list (April 2020)
-- [ar-facedoodle](https://github.com/cyrildiagne/ar-facedoodle)
-  - Doodle AR masks right from the browser with tensorflow.js
-- [cloudmapper](https://github.com/duo-labs/cloudmapper)
-  - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
-- [react-router](https://github.com/ReactTraining/react-router)
-  - Declarative routing for React
-- [serverless](https://github.com/serverless/serverless)
-  - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
-- [cors-anywhere](https://github.com/Rob--W/cors-anywhere)
-  - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
-- [appium](https://github.com/appium/appium)
-  - 📱 Automation for iOS, Android, and Windows Apps.
-- [Prebid.js](https://github.com/prebid/Prebid.js)
-  - Setup and manage header bidding advertising partners without writing code or confusing line items. Prebid.js is open source and free.
-- [node](https://github.com/nodejs/node)
-  - Node.js JavaScript runtime ✨🐢🚀✨
-- [gutenberg](https://github.com/WordPress/gutenberg)
-  - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
+- [google-meet-grid-view](https://github.com/Fugiman/google-meet-grid-view)
+  - Userscript to offer a grid-view layout in Google Meets
+- [eblog](https://github.com/MarkerHub/eblog)
+  - eblog是一个基于Springboot2.1.2开发的博客学习项目，为了让项目融合更多的知识点，达到学习目的，编写了详细的从0到1开发文档。主要学习包括：自定义Freemarker标签，使用shiro+redis完成了会话共享，redis的zset结构完成本周热议排行榜，t-io+websocket完成即时消息通知和群聊，rabbitmq+elasticsearch完成博客内容搜索引擎等。值得学习的地方很多！
+- [cypress](https://github.com/cypress-io/cypress)
+  - Fast, easy and reliable testing for anything that runs in a browser.
+- [d3](https://github.com/d3/d3)
+  - Bring data to life with SVG, Canvas and HTML. 📊📈🎉
+- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
+  - Beautiful and accessible drag and drop for lists with React
+- [falcon](https://github.com/plotly/falcon)
+  - Free, open-source SQL client for Windows and Mac 🦅
+- [fullPage.js](https://github.com/alvarotrigo/fullPage.js)
+  - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
+- [openlayers](https://github.com/openlayers/openlayers)
+  - OpenLayers
+- [pdf.js](https://github.com/mozilla/pdf.js)
+  - PDF Reader in JavaScript
+- [jsencrypt](https://github.com/travist/jsencrypt)
+  - A Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
+- [awx](https://github.com/ansible/awx)
+  - AWX Project
+- [renovate](https://github.com/renovatebot/renovate)
+  - Universal dependency update tool that fits into your workflows.
+- [react-datepicker](https://github.com/Hacker0x01/react-datepicker)
+  - A simple and reusable datepicker component for React
