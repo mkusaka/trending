@@ -1,51 +1,51 @@
 # rust
 - [tauri](https://github.com/tauri-apps/tauri)
   - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
-- [boa](https://github.com/jasonwilliams/boa)
-  - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [tonic](https://github.com/hyperium/tonic)
-  - A native gRPC client & server implementation with async/await support.
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [rusty_v8](https://github.com/denoland/rusty_v8)
-  - V8 javascript bindings for Rust
-- [swc](https://github.com/swc-project/swc)
-  - Super-fast typescript / javascript compiler written in rust
-- [substrate](https://github.com/paritytech/substrate)
-  - Substrate: The platform for blockchain innovators
-- [sled](https://github.com/spacejam/sled)
-  - the champagne of beta embedded databases
-- [iced](https://github.com/hecrj/iced)
-  - A cross-platform GUI library for Rust, inspired by Elm
-- [neqo](https://github.com/mozilla/neqo)
-  - 
+- [smol](https://github.com/stjepang/smol)
+  - A small and fast async runtime for Rust
 - [libra](https://github.com/libra/libra)
   - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [coreutils](https://github.com/uutils/coreutils)
-  - Cross-platform Rust rewrite of the GNU coreutils
-- [firecracker](https://github.com/firecracker-microvm/firecracker)
-  - Secure and fast microVMs for serverless computing.
-- [application-services](https://github.com/mozilla/application-services)
-  - Firefox Application Services
+- [imageflow](https://github.com/imazen/imageflow)
+  - High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow
+- [996.ICU](https://github.com/996icu/996.ICU)
+  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [tide](https://github.com/http-rs/tide)
+  - Fast and friendly HTTP server framework for async Rust
 - [async-std](https://github.com/async-rs/async-std)
   - Async version of the Rust standard library
-- [polkadot](https://github.com/paritytech/polkadot)
-  - Polkadot Node Implementation
-- [book](https://github.com/rust-lang/book)
-  - The Rust Programming Language
-- [prost](https://github.com/danburkert/prost)
-  - PROST! a Protocol Buffers implementation for the Rust Language
-- [suckit](https://github.com/Skallwar/suckit)
-  - Suck the InTernet
-- [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust)
-  - A Rust port of shadowsocks
+- [tock](https://github.com/tock/tock)
+  - A secure embedded operating system for microcontrollers
+- [rusty_v8](https://github.com/denoland/rusty_v8)
+  - V8 javascript bindings for Rust
 - [vector](https://github.com/timberio/vector)
   - A lightweight and ultra-fast tool for building observability pipelines
-- [gfx](https://github.com/gfx-rs/gfx)
-  - A low-overhead Vulkan-like GPU API for Rust.
-- [nushell](https://github.com/nushell/nushell)
-  - A new type of shell
-- [dprint](https://github.com/dprint/dprint)
-  - TypeScript, JavaScript, and JSONC code formatter.
+- [tikv](https://github.com/tikv/tikv)
+  - Distributed transactional key-value database, originally created to complement TiDB
+- [cursive](https://github.com/gyscos/cursive)
+  - A Text User Interface library for the Rust programming language
+- [quiche](https://github.com/cloudflare/quiche)
+  - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+- [lighthouse](https://github.com/sigp/lighthouse)
+  - Rust Ethereum 2.0 Client
+- [boa](https://github.com/jasonwilliams/boa)
+  - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
+- [wrangler](https://github.com/cloudflare/wrangler)
+  - 🤠 wrangle your cloudflare workers
+- [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
+  - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
+- [tonic](https://github.com/hyperium/tonic)
+  - A native gRPC client & server implementation with async/await support.
+- [WASI](https://github.com/WebAssembly/WASI)
+  - WebAssembly System Interface
+- [gleam](https://github.com/gleam-lang/gleam)
+  - ⭐️ A statically typed language for the Erlang VM
+- [examples](https://github.com/actix/examples)
+  - Actix web examples
+- [kas](https://github.com/kas-gui/kas)
+  - Another GUI toolkit
+- [neqo](https://github.com/mozilla/neqo)
+  - 
+- [wasmer](https://github.com/wasmerio/wasmer)
+  - 🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten
+- [seed](https://github.com/seed-rs/seed)
+  - A Rust framework for creating web apps
