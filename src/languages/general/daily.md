@@ -1,50 +1,49 @@
 # general
-- [covid-sim](https://github.com/mrc-ide/covid-sim) : C++
-- [facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) : Objective-C
-  - Used to integrate the Facebook Platform with your iOS & tvOS apps.
-- [client](https://github.com/keybase/client) : Go
-  - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
-- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) : 
-  - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+- [COVID-19-app-iOS-BETA](https://github.com/nhsx/COVID-19-app-iOS-BETA) : Objective-C
+  - Source code of the Beta of the NHS COVID-19 iOS app
+- [COVID-19-app-Android-BETA](https://github.com/nhsx/COVID-19-app-Android-BETA) : Kotlin
+  - Source code of the Beta of the NHS COVID-19 Android app
+- [zork](https://github.com/MITDDC/zork) : 
+  - Source code for a 1977 version of Zork
 - [deno](https://github.com/denoland/deno) : TypeScript
   - A secure JavaScript and TypeScript runtime
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
-  - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
-- [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) : C++
-  - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
-- [skillbox-async-messenger](https://github.com/manchenkoff/skillbox-async-messenger) : Python
-  - Пример клиент-серверного чата на Python для Skillbox
+- [web-vitals-extension](https://github.com/GoogleChrome/web-vitals-extension) : CSS
+  - A Chrome extension to measure essential metrics for a healthy site
 - [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) : TSQL
   - Cross platform SQL editor and database management app for Windows, Linux, and Mac.
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [JavaFamily](https://github.com/AobingJava/JavaFamily) : 
-  - 【互联网一线大厂面试+学习指南】
-- [OneForAll](https://github.com/shmilylty/OneForAll) : Python
-  - OneForAll是一款功能强大的子域收集工具
-- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) : Jupyter Notebook
-  - Python - 100天从新手到大师
-- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) : Vue
-  - 🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin
-- [books](https://github.com/frappe/books) : Vue
-  - Free Desktop book-keeping software for small-businesses and freelancers.
-- [grpc](https://github.com/grpc/grpc) : C++
-  - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [covid-sim](https://github.com/mrc-ide/covid-sim) : C++
+- [xxl-job](https://github.com/xuxueli/xxl-job) : Java
+  - A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
+- [ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) : Vue
+  - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!
+- [client](https://github.com/keybase/client) : Go
+  - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 - [easyexcel](https://github.com/alibaba/easyexcel) : Java
   - 快速、简单避免OOM的java处理Excel工具
-- [ant-design](https://github.com/ant-design/ant-design) : TypeScript
-  - 🌈 A UI Design Language and React UI library
-- [codeql](https://github.com/github/codeql) : CodeQL
-  - CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security (code scanning), LGTM.com, and LGTM Enterprise
-- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) : JavaScript
-  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+- [COVID-19-app-Documentation-BETA](https://github.com/nhsx/COVID-19-app-Documentation-BETA) : 
+  - Documentation relating to the Beta of the NHS COVID-19 app
+- [playwright](https://github.com/microsoft/playwright) : JavaScript
+  - Node library to automate Chromium, Firefox and WebKit with a single API
 - [esbuild](https://github.com/evanw/esbuild) : Go
   - An extremely fast JavaScript bundler and minifier
-- [spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) : Java
-  - Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
-- [miniblink49](https://github.com/weolar/miniblink49) : C++
-  - a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef
-- [react-native-video](https://github.com/react-native-community/react-native-video) : Java
-  - A <Video /> component for react-native
-- [android-gpuimage](https://github.com/cats-oss/android-gpuimage) : Java
-  - Android filters based on OpenGL (idea from GPUImage for iOS)
+- [skillbox-async-messenger](https://github.com/manchenkoff/skillbox-async-messenger) : Python
+  - Пример клиент-серверного чата на Python для Skillbox
+- [DOOM](https://github.com/id-Software/DOOM) : C
+  - DOOM Open Source Release
+- [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) : Objective-C
+  - Mac版微信的功能拓展(A plugin for Mac WeChat)
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
+  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) : 
+  - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+- [interview_internal_reference](https://github.com/0voice/interview_internal_reference) : Python
+  - 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
+- [JavaFamily](https://github.com/AobingJava/JavaFamily) : 
+  - 【互联网一线大厂面试+学习指南】
+- [browser-2020](https://github.com/luruke/browser-2020) : 
+  - Things you can do with a browser in 2020 ☕️
+- [main.ton.dev](https://github.com/tonlabs/main.ton.dev) : Shell
+- [JavaGuide](https://github.com/Snailclimb/JavaGuide) : Java
+  - 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.

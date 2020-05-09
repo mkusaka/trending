@@ -3,49 +3,49 @@
   - A secure JavaScript and TypeScript runtime
 - [ant-design](https://github.com/ant-design/ant-design)
   - 🌈 A UI Design Language and React UI library
-- [qiankun](https://github.com/umijs/qiankun)
-  - 📦🚀Blazing fast, simple and completed solution for micro frontends.
-- [maratona2-plataforma-lives](https://github.com/codeedu/maratona2-plataforma-lives)
-  - 
-- [checkout](https://github.com/actions/checkout)
-  - Action for checking out a repo
-- [code-server](https://github.com/cdr/code-server)
-  - Run VS Code on a remote server.
-- [amplify-cli](https://github.com/aws-amplify/amplify-cli)
-  - A CLI toolchain for simplifying serverless web and mobile development.
-- [grafana](https://github.com/grafana/grafana)
-  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
-  - The source for REST API specifications for Microsoft Azure.
-- [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)
-  - An enterprise-class UI components based on Ant Design and Angular. 🐜
-- [react-use](https://github.com/streamich/react-use)
-  - React Hooks — 👍
-- [sp-dev-fx-webparts](https://github.com/pnp/sp-dev-fx-webparts)
-  - SharePoint Framework web part, Teams tab, personal app, app page samples
+- [storybook](https://github.com/storybookjs/storybook)
+  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
 - [G2](https://github.com/antvis/G2)
   - 📊 A highly interactive data-driven visualization grammar for statistical charts.
-- [opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js)
-  - OpenTelemetry JavaScript API and SDK
-- [kibana](https://github.com/elastic/kibana)
-  - Your window into the Elastic Stack
-- [lens](https://github.com/lensapp/lens)
-  - Lens - The Kubernetes IDE
+- [fluentui](https://github.com/microsoft/fluentui)
+  - We've moved! UI Fabric is now Fluent UI - A set of React components for building Microsoft web experiences.
+- [terminus](https://github.com/Eugeny/terminus)
+  - A terminal for a more modern age
+- [vscode-cpptools](https://github.com/microsoft/vscode-cpptools)
+  - Official repository for the Microsoft C/C++ extension for VS Code.
+- [ant-design-pro](https://github.com/ant-design/ant-design-pro)
+  - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
+- [qiankun](https://github.com/umijs/qiankun)
+  - 📦🚀Blazing fast, simple and completed solution for micro frontends.
 - [vue-next](https://github.com/vuejs/vue-next)
   - Repo for Vue 3.0 (currently in beta)
-- [mkdocs-material](https://github.com/squidfunk/mkdocs-material)
-  - A Material Design theme for MkDocs
-- [ngx-admin](https://github.com/akveo/ngx-admin)
-  - Customizable admin dashboard template based on Angular 8+
-- [streamlit](https://github.com/streamlit/streamlit)
-  - Streamlit — The fastest way to build custom ML tools
-- [eui](https://github.com/elastic/eui)
-  - Elastic UI Framework 🙌
-- [theia](https://github.com/eclipse-theia/theia)
-  - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [davinci](https://github.com/edp963/davinci)
-  - Davinci is a DVsaaS (Data Visualization as a Service) Platform
-- [angularfire](https://github.com/angular/angularfire)
-  - The official Angular library for Firebase.
-- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-  - The repository for high quality TypeScript type definitions.
+- [vscode](https://github.com/microsoft/vscode)
+  - Visual Studio Code
+- [TypeScript](https://github.com/microsoft/TypeScript)
+  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [grafana](https://github.com/grafana/grafana)
+  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [G6](https://github.com/antvis/G6)
+  - ♾ A Graph Visualization Framework in JavaScript
+- [lightproxy](https://github.com/alibaba/lightproxy)
+  - 💎 Web debugging proxy with one-click on Windows/macOS
+- [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
+  - Tasks for Azure Pipelines
+- [code-server](https://github.com/cdr/code-server)
+  - Run VS Code on a remote server.
+- [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)
+  - An enterprise-class UI components based on Ant Design and Angular. 🐜
+- [signature_pad](https://github.com/szimek/signature_pad)
+  - HTML5 canvas based smooth signature drawing
+- [rap2-delos](https://github.com/thx/rap2-delos)
+  - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
+- [react-use](https://github.com/streamich/react-use)
+  - React Hooks — 👍
+- [angular](https://github.com/angular/angular)
+  - One framework. Mobile & desktop.
+- [desktop](https://github.com/desktop/desktop)
+  - Simple collaboration from your desktop
+- [botpress](https://github.com/botpress/botpress)
+  - 🤖 The Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants.
+- [ioredis](https://github.com/luin/ioredis)
+  - 🚀A robust, performance-focused and full-featured Redis client for Node.js.

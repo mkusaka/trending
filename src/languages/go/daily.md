@@ -3,49 +3,49 @@
   - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 - [esbuild](https://github.com/evanw/esbuild)
   - An extremely fast JavaScript bundler and minifier
-- [casbin](https://github.com/casbin/casbin)
-  - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
-- [prometheus-operator](https://github.com/coreos/prometheus-operator)
-  - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go)
-  - 百度网盘客户端 - Go语言编写
-- [kubernetes](https://github.com/kubernetes/kubernetes)
-  - Production-Grade Container Scheduling and Management
-- [act](https://github.com/nektos/act)
-  - Run your GitHub Actions locally 🚀
-- [buildpacks](https://github.com/GoogleCloudPlatform/buildpacks)
-  - Builders and buildpacks designed to run on Google Cloud's container platforms
-- [nps](https://github.com/ehang-io/nps)
-  - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
-- [testify](https://github.com/stretchr/testify)
-  - A toolkit with common assertions and mocks that plays nicely with the standard library
-- [helm](https://github.com/helm/helm)
-  - The Kubernetes Package Manager
-- [terragrunt](https://github.com/gruntwork-io/terragrunt)
-  - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
-- [aws-sdk-go](https://github.com/aws/aws-sdk-go)
-  - AWS SDK for the Go programming language.
-- [beego](https://github.com/astaxie/beego)
-  - beego is an open-source, high-performance web framework for the Go programming language.
 - [pingtunnel](https://github.com/esrrhs/pingtunnel)
   - 流量转发加速工具.a tool that advertises tcp/udp/socks5 traffic as icmp traffic for forwarding.
+- [buildpacks](https://github.com/GoogleCloudPlatform/buildpacks)
+  - Builders and buildpacks designed to run on Google Cloud's container platforms
+- [gorm](https://github.com/jinzhu/gorm)
+  - The fantastic ORM library for Golang, aims to be developer friendly (v2 is under development, PR based on master branch won't be accepted)
+- [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm)
+  - Terraform provider for Azure Resource Manager
+- [beego](https://github.com/astaxie/beego)
+  - beego is an open-source, high-performance web framework for the Go programming language.
+- [clash](https://github.com/Dreamacro/clash)
+  - A rule-based tunnel in Go.
 - [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
   - Terraform AWS provider
-- [cobra](https://github.com/spf13/cobra)
-  - A Commander for modern Go CLI interactions
-- [redis](https://github.com/go-redis/redis)
-  - Type-safe Redis client for Golang
-- [gin](https://github.com/gin-gonic/gin)
-  - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN)
-  - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
 - [istio](https://github.com/istio/istio)
   - Connect, secure, control, and observe services.
-- [sshcode](https://github.com/cdr/sshcode)
-  - Run VS Code on any server over SSH.
-- [cadvisor](https://github.com/google/cadvisor)
-  - Analyzes resource usage and performance characteristics of running containers.
-- [charts](https://github.com/helm/charts)
-  - Curated applications for Kubernetes
-- [logrus](https://github.com/sirupsen/logrus)
-  - Structured, pluggable logging for Go.
+- [validator](https://github.com/go-playground/validator)
+  - 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+- [protobuf](https://github.com/golang/protobuf)
+  - Go support for Google's protocol buffers
+- [grpc-go](https://github.com/grpc/grpc-go)
+  - The Go language implementation of gRPC. HTTP/2 based RPC
+- [telegraf](https://github.com/influxdata/telegraf)
+  - The plugin-driven server agent for collecting & reporting metrics.
+- [k9s](https://github.com/derailed/k9s)
+  - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [aws-sdk-go](https://github.com/aws/aws-sdk-go)
+  - AWS SDK for the Go programming language.
+- [keys](https://github.com/keys-pub/keys)
+  - Key management is hard
+- [go.uuid](https://github.com/satori/go.uuid)
+  - UUID package for Go
+- [kubernetes](https://github.com/kubernetes/kubernetes)
+  - Production-Grade Container Scheduling and Management
+- [node_exporter](https://github.com/prometheus/node_exporter)
+  - Exporter for machine metrics
+- [act](https://github.com/nektos/act)
+  - Run your GitHub Actions locally 🚀
+- [nps](https://github.com/ehang-io/nps)
+  - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
+- [harbor](https://github.com/goharbor/harbor)
+  - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
+  - 📚 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
+- [mysql](https://github.com/go-sql-driver/mysql)
+  - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
