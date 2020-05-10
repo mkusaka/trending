@@ -1,51 +1,51 @@
 # javascript
-- [playwright](https://github.com/microsoft/playwright)
-  - Node library to automate Chromium, Firefox and WebKit with a single API
-- [vue](https://github.com/vuejs/vue)
-  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [leetcode](https://github.com/azl397985856/leetcode)
-  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
-- [yapi](https://github.com/YMFE/yapi)
-  - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
-- [uni-app](https://github.com/dcloudio/uni-app)
-  - uni-app 是使用 Vue 语法开发小程序、H5、App的统一框架
-- [fabric.js](https://github.com/fabricjs/fabric.js)
-  - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
-- [mermaid](https://github.com/mermaid-js/mermaid)
-  - Generation of diagram and flowchart from text in a similar manner as markdown
-- [taro](https://github.com/NervJS/taro)
-  - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/京东/百度/支付宝/字节跳动/ QQ 小程序/快应用/H5/React Native 等的应用。 https://taro.jd.com/
-- [jsencrypt](https://github.com/travist/jsencrypt)
-  - A Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
-- [vue-cli](https://github.com/vuejs/vue-cli)
-  - 🛠️ Standard Tooling for Vue.js Development
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [dsa.js-data-structures-algorithms-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)
-  - 🥞Data Structures and Algorithms explained and implemented in JavaScript
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui)
-  - ⚡️Simple, Modular & Accessible UI Components for your React Applications
+- [react-virtual](https://github.com/tannerlinsley/react-virtual)
+  - ⚛️ Hooks for virtualizing scrollable elements in React
 - [Blog](https://github.com/ljianshu/Blog)
   - 关注基础知识，打造优质前端博客，公众号[前端工匠]的作者
-- [wp-calypso](https://github.com/Automattic/wp-calypso)
-  - The JavaScript and API powered WordPress.com
-- [vscode-terraform](https://github.com/hashicorp/vscode-terraform)
-  - A Visual Studio Code extension for Hashicorp Terraform
-- [jira_clone](https://github.com/oldboyxx/jira_clone)
-  - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
-  - ✅ The Node.js best practices list (April 2020)
-- [javascript](https://github.com/airbnb/javascript)
-  - JavaScript Style Guide
-- [makeJs](https://github.com/zuluoaaa/makeJs)
-  - A sub Javascript interpreter for interpreting itself
-- [react-virtualized](https://github.com/bvaughn/react-virtualized)
-  - React components for efficiently rendering large lists and tabular data
-- [ueditor](https://github.com/fex-team/ueditor)
-  - rich text 富文本编辑器
-- [gpuweb](https://github.com/gpuweb/gpuweb)
-  - Where the GPU for the Web work happens!
-- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
-  - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
-- [wangEditor](https://github.com/wangfupeng1988/wangEditor)
-  - wangEditor —— 轻量级web富文本框
+- [vue](https://github.com/vuejs/vue)
+  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [three.js](https://github.com/mrdoob/three.js)
+  - JavaScript 3D library.
+- [udemy-docker-mastery](https://github.com/BretFisher/udemy-docker-mastery)
+  - Udemy Course to build, compose, deploy, and manage containers from local development to high-availability in the cloud
+- [learnGitBranching](https://github.com/pcottle/learnGitBranching)
+  - An interactive git visualization to challenge and educate!
+- [Script](https://github.com/NobyDa/Script)
+  - This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.
+- [incubator-echarts](https://github.com/apache/incubator-echarts)
+  - A powerful, interactive charting and visualization library for browser
+- [bootstrap](https://github.com/twbs/bootstrap)
+  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [playwright](https://github.com/microsoft/playwright)
+  - Node library to automate Chromium, Firefox and WebKit with a single API
+- [github-vscode-theme](https://github.com/primer/github-vscode-theme)
+  - GitHub's VS Code theme
+- [Motrix](https://github.com/agalwood/Motrix)
+  - A full-featured download manager.
+- [discord.js](https://github.com/discordjs/discord.js)
+  - A powerful JavaScript library for interacting with the Discord API
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
+  - Starter files, final projects and FAQ for my Complete JavaScript course
+- [shopify-demo-app-node-react](https://github.com/Shopify/shopify-demo-app-node-react)
+  - 
+- [engine](https://github.com/cocos-creator/engine)
+  - Cocos Creator is a complete package of game development tools and workflow, including a game engine, resource management, scene editing, game preview, debug and publish one project to multiple platforms.
+- [iptv](https://github.com/iptv-org/iptv)
+  - Collection of 8000+ publicly available IPTV channels from all over the world
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [next.js](https://github.com/zeit/next.js)
+  - The React Framework
+- [vue-ssr-jit](https://github.com/SmallComfort/vue-ssr-jit)
+  - A just in time compilation technique for server-side rendering
+- [20-react-apps](https://github.com/chris-on-code/20-react-apps)
+  - The apps for Make 20 React Apps
+- [template](https://github.com/sveltejs/template)
+  - Template for building basic applications with Svelte
+- [trilium](https://github.com/zadam/trilium)
+  - Build your personal knowledge base with Trilium Notes
+- [atom](https://github.com/atom/atom)
+  - The hackable text editor
+- [v4](https://github.com/bchiang7/v4)
+  - Fourth iteration of my personal website
