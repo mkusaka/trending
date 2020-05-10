@@ -1,49 +1,49 @@
 # general
-- [COVID-19-app-iOS-BETA](https://github.com/nhsx/COVID-19-app-iOS-BETA) : Objective-C
-  - Source code of the Beta of the NHS COVID-19 iOS app
-- [COVID-19-app-Android-BETA](https://github.com/nhsx/COVID-19-app-Android-BETA) : Kotlin
-  - Source code of the Beta of the NHS COVID-19 Android app
-- [zork](https://github.com/MITDDC/zork) : 
-  - Source code for a 1977 version of Zork
+- [sm64pc](https://github.com/sm64pc/sm64pc) : C
+  - OpenGL adaptation of n64decomp/sm64.
+- [mobile-android](https://github.com/AU-COVIDSafe/mobile-android) : Kotlin
+  - COVIDSafe android app
+- [mobile-ios](https://github.com/AU-COVIDSafe/mobile-ios) : Swift
+  - COVIDSafe IOS app
 - [deno](https://github.com/denoland/deno) : TypeScript
   - A secure JavaScript and TypeScript runtime
-- [web-vitals-extension](https://github.com/GoogleChrome/web-vitals-extension) : CSS
-  - A Chrome extension to measure essential metrics for a healthy site
-- [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) : TSQL
-  - Cross platform SQL editor and database management app for Windows, Linux, and Mac.
-- [covid-sim](https://github.com/mrc-ide/covid-sim) : C++
-- [xxl-job](https://github.com/xuxueli/xxl-job) : Java
-  - A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
-- [ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) : Vue
-  - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!
-- [client](https://github.com/keybase/client) : Go
-  - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
-- [easyexcel](https://github.com/alibaba/easyexcel) : Java
-  - 快速、简单避免OOM的java处理Excel工具
-- [COVID-19-app-Documentation-BETA](https://github.com/nhsx/COVID-19-app-Documentation-BETA) : 
-  - Documentation relating to the Beta of the NHS COVID-19 app
-- [playwright](https://github.com/microsoft/playwright) : JavaScript
-  - Node library to automate Chromium, Firefox and WebKit with a single API
-- [esbuild](https://github.com/evanw/esbuild) : Go
-  - An extremely fast JavaScript bundler and minifier
-- [skillbox-async-messenger](https://github.com/manchenkoff/skillbox-async-messenger) : Python
-  - Пример клиент-серверного чата на Python для Skillbox
-- [DOOM](https://github.com/id-Software/DOOM) : C
-  - DOOM Open Source Release
-- [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) : Objective-C
-  - Mac版微信的功能拓展(A plugin for Mac WeChat)
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
   - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) : 
-  - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-- [interview_internal_reference](https://github.com/0voice/interview_internal_reference) : Python
-  - 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
-- [JavaFamily](https://github.com/AobingJava/JavaFamily) : 
-  - 【互联网一线大厂面试+学习指南】
+- [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) : Java
+  - spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…
+- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) : C++
+  - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
+  - Course Files for Complete Python 3 Bootcamp Course on Udemy
+- [xxl-job](https://github.com/xuxueli/xxl-job) : Java
+  - A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
+- [async-graphql](https://github.com/async-graphql/async-graphql) : Rust
+  - The GraphQL server library implemented by rust
+- [smol](https://github.com/stjepang/smol) : Rust
+  - A small and fast async runtime for Rust
 - [browser-2020](https://github.com/luruke/browser-2020) : 
   - Things you can do with a browser in 2020 ☕️
-- [main.ton.dev](https://github.com/tonlabs/main.ton.dev) : Shell
-- [JavaGuide](https://github.com/Snailclimb/JavaGuide) : Java
-  - 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
-  - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
+- [react-virtual](https://github.com/tannerlinsley/react-virtual) : JavaScript
+  - ⚛️ Hooks for virtualizing scrollable elements in React
+- [TJ-JPT](https://github.com/tjnull/TJ-JPT) : 
+  - This repo contains my pentesting template that I have used in PWK and for current assessments. The template has been formatted to be used in Joplin
+- [d2l-en](https://github.com/d2l-ai/d2l-en) : Python
+  - An interactive deep learning book with code, math, and discussions, based on the NumPy interface.
+- [COVID-19-app-iOS-BETA](https://github.com/nhsx/COVID-19-app-iOS-BETA) : Objective-C
+  - Source code of the Beta of the NHS COVID-19 iOS app
+- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) : C++
+  - C++那些事
+- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) : Vue
+  - vue-admin-beautiful是一款绝佳的前端开发框架（同时支持电脑，手机，平板）,长期更新维护,感谢您的star,我一直在努力
+- [yuzu](https://github.com/yuzu-emu/yuzu) : C++
+  - Nintendo Switch Emulator
+- [COVID-19-app-Android-BETA](https://github.com/nhsx/COVID-19-app-Android-BETA) : Kotlin
+  - Source code of the Beta of the NHS COVID-19 Android app
+- [ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) : Vue
+  - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!
+- [eng-practices](https://github.com/google/eng-practices) : 
+  - Google's Engineering Practices documentation
+- [pycaret](https://github.com/pycaret/pycaret) : Jupyter Notebook
+  - An open source, low-code machine learning library in Python
+- [lede](https://github.com/coolsnowwolf/lede) : C
+  - Lean's OpenWrt source
