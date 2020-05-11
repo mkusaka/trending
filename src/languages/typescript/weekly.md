@@ -1,51 +1,51 @@
 # typescript
-- [vue-next](https://github.com/vuejs/vue-next)
-  - Repo for Vue 3.0 (currently in beta)
-- [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)
-  - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
-- [formik](https://github.com/jaredpalmer/formik)
-  - Build forms in React, without the tears 😭
-- [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
-  - Tasks for Azure Pipelines
-- [streamlit](https://github.com/streamlit/streamlit)
-  - Streamlit — The fastest way to build custom ML tools
-- [TypeScript](https://github.com/microsoft/TypeScript)
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [tfjs-models](https://github.com/tensorflow/tfjs-models)
-  - Pretrained models for TensorFlow.js
-- [grafana](https://github.com/grafana/grafana)
-  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [blitz](https://github.com/blitz-js/blitz)
-  - ⚡️Rails-like framework for monolithic, full-stack React apps — built on Next.js
-- [html2canvas](https://github.com/niklasvh/html2canvas)
-  - Screenshots with JavaScript
-- [swr](https://github.com/zeit/swr)
-  - React Hooks library for remote data fetching
-- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
-  - The source for REST API specifications for Microsoft Azure.
-- [aws-cdk](https://github.com/aws/aws-cdk)
-  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+- [deno](https://github.com/denoland/deno)
+  - A secure JavaScript and TypeScript runtime
+- [typescript-exercises](https://github.com/mdevils/typescript-exercises)
+  - A collection of challenging TypeScript exercises
+- [vite](https://github.com/vuejs/vite)
+  - Make Web Dev Fast Again
+- [ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste)
+  - Cut and paste your surroundings using AR
+- [storybook](https://github.com/storybookjs/storybook)
+  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+- [code-server](https://github.com/cdr/code-server)
+  - Run VS Code on a remote server.
+- [fluentui](https://github.com/microsoft/fluentui)
+  - We've moved! UI Fabric is now Fluent UI - A set of React components for building Microsoft web experiences.
+- [typescript-book](https://github.com/basarat/typescript-book)
+  - 📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖. Free and Open Source 🌹
+- [vitepress](https://github.com/vuejs/vitepress)
+  - Vite & Vue powered static site generator
+- [shell](https://github.com/pop-os/shell)
+  - Pop!_OS Shell
 - [ant-design](https://github.com/ant-design/ant-design)
   - 🌈 A UI Design Language and React UI library
-- [kibana](https://github.com/elastic/kibana)
-  - Your window into the Elastic Stack
-- [mkdocs-material](https://github.com/squidfunk/mkdocs-material)
-  - A Material Design theme for MkDocs
+- [ant-design-pro](https://github.com/ant-design/ant-design-pro)
+  - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
+- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
+  - The source for REST API specifications for Microsoft Azure.
+- [jest](https://github.com/facebook/jest)
+  - Delightful JavaScript Testing.
+- [lightproxy](https://github.com/alibaba/lightproxy)
+  - 💎 Cross platform Web debugging proxy
+- [terminus](https://github.com/Eugeny/terminus)
+  - A terminal for a more modern age
 - [pixi.js](https://github.com/pixijs/pixi.js)
   - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
-- [react-use](https://github.com/streamich/react-use)
-  - React Hooks — 👍
-- [hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql)
-  - Hacker News clone rewritten with universal JavaScript, using React and GraphQL.
-- [react-native-reanimated-bottom-sheet](https://github.com/osdnk/react-native-reanimated-bottom-sheet)
-  - Highly configurable bottom sheet component made with react-native-reanimated and react-native-gesture-handler
-- [crank](https://github.com/bikeshaving/crank)
-  - Write JSX-driven components with functions, promises and generators.
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
-- [blueprint](https://github.com/palantir/blueprint)
-  - A React-based UI toolkit for the web
-- [ng-alain](https://github.com/ng-alain/ng-alain)
-  - NG-ZORRO admin panel front-end framework (surge mirror https://ng-alain-doc.surge.sh)
-- [xstate](https://github.com/davidkpiano/xstate)
-  - State machines and statecharts for the modern web.
+- [TypeScript](https://github.com/microsoft/TypeScript)
+  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [typeorm](https://github.com/typeorm/typeorm)
+  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+- [1loc](https://github.com/phuoc-ng/1loc)
+  - What's your favorite JavaScript single LOC (line of code)?
+- [redoc](https://github.com/Redocly/redoc)
+  - 📘 OpenAPI/Swagger-generated API Reference Documentation
+- [nest](https://github.com/nestjs/nest)
+  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [kibana](https://github.com/elastic/kibana)
+  - Your window into the Elastic Stack
+- [vscode](https://github.com/microsoft/vscode)
+  - Visual Studio Code
+- [vscode-cpptools](https://github.com/microsoft/vscode-cpptools)
+  - Official repository for the Microsoft C/C++ extension for VS Code.

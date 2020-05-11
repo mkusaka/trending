@@ -1,51 +1,51 @@
 # javascript
-- [learnGitBranching](https://github.com/pcottle/learnGitBranching)
-  - An interactive git visualization to challenge and educate!
+- [cnn-explainer](https://github.com/poloclub/cnn-explainer)
+  - Learning Convolutional Neural Networks with Interactive Visualization. https://poloclub.github.io/cnn-explainer/
+- [playwright](https://github.com/microsoft/playwright)
+  - Node library to automate Chromium, Firefox and WebKit with a single API
+- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
+  - 一个基于 electron 的音乐软件
+- [uPlot](https://github.com/leeoniya/uPlot)
+  - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
+- [discord.js](https://github.com/discordjs/discord.js)
+  - A powerful JavaScript library for interacting with the Discord API
 - [docusaurus](https://github.com/facebook/docusaurus)
   - Easy to maintain open source documentation websites.
-- [react-query](https://github.com/tannerlinsley/react-query)
-  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
-- [taro](https://github.com/NervJS/taro)
-  - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/京东/百度/支付宝/字节跳动/ QQ 小程序/快应用/H5/React Native 等的应用。 https://taro.jd.com/
-- [orbit-db](https://github.com/orbitdb/orbit-db)
-  - Peer-to-Peer Databases for the Decentralized Web
-- [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
-  - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
-- [brave-browser](https://github.com/brave/brave-browser)
-  - Next generation Brave browser for macOS, Windows, Linux, Android.
-- [vue](https://github.com/vuejs/vue)
-  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [jumpserver](https://github.com/jumpserver/jumpserver)
-  - JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。
-- [strapi](https://github.com/strapi/strapi)
-  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
-- [Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal)
-  - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
-- [node](https://github.com/nodejs/node)
-  - Node.js JavaScript runtime ✨🐢🚀✨
-- [send](https://github.com/mozilla/send)
-  - Simple, private file sharing from the makers of Firefox
-- [project_corona_tracker](https://github.com/adrianhajdin/project_corona_tracker)
-  - This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a corona tracker application. Covered topics: React.js, Chart.js, Material UI and much more.
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-  - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
-- [next.js](https://github.com/zeit/next.js)
-  - The React Framework
-- [medis](https://github.com/luin/medis)
-  - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
+- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
+  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+  - 💯 Materials to help you rock your next coding interview
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui)
+  - ⚡️Simple, Modular & Accessible UI Components for your React Applications
 - [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
   - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [reveal.js](https://github.com/hakimel/reveal.js)
-  - The HTML Presentation Framework
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
+- [Blog](https://github.com/ljianshu/Blog)
+  - 关注基础知识，打造优质前端博客，公众号[前端工匠]的作者
+- [eblog](https://github.com/MarkerHub/eblog)
+  - eblog是一个基于Springboot2.1.2开发的博客学习项目，为了让项目融合更多的知识点，达到学习目的，编写了详细的从0到1开发文档。主要学习包括：自定义Freemarker标签，使用shiro+redis完成了会话共享，redis的zset结构完成本周热议排行榜，t-io+websocket完成即时消息通知和群聊，rabbitmq+elasticsearch完成博客内容搜索引擎等。值得学习的地方很多！
+- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
+  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+- [swiper](https://github.com/nolimits4web/swiper)
+  - Most modern mobile touch slider with hardware accelerated transitions
+- [leetcode](https://github.com/azl397985856/leetcode)
+  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+- [covid19-forecast-hub](https://github.com/reichlab/covid19-forecast-hub)
+  - Projections of COVID-19, in standardized format
 - [react](https://github.com/facebook/react)
   - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [markdown-here](https://github.com/adam-p/markdown-here)
-  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [alpine](https://github.com/alpinejs/alpine)
-  - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [webpack](https://github.com/webpack/webpack)
-  - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+- [strapi](https://github.com/strapi/strapi)
+  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [cli](https://github.com/npm/cli)
+  - the package manager for JavaScript
+- [fullPage.js](https://github.com/alvarotrigo/fullPage.js)
+  - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
+- [multiparty-meeting](https://github.com/havfo/multiparty-meeting)
+  - Multiparty web-meetings using mediasoup and WebRTC
+- [text-to-handwriting](https://github.com/saurabhdaware/text-to-handwriting)
+  - So your teacher asked you to upload written assignments on ERP? Hate writing assigments? This tool will help you convert your text to handwriting xD
+- [react-router](https://github.com/ReactTraining/react-router)
+  - Declarative routing for React
+- [three.js](https://github.com/mrdoob/three.js)
+  - JavaScript 3D library.
+- [NodeBB](https://github.com/NodeBB/NodeBB)
+  - Node.js based forum software built for the modern web
