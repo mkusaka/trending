@@ -1,49 +1,50 @@
 # general
-- [sm64pc](https://github.com/sm64pc/sm64pc) : C
-  - OpenGL adaptation of n64decomp/sm64.
+- [pose-animator](https://github.com/yemount/pose-animator) : JavaScript
+- [lite](https://github.com/rxi/lite) : Lua
+  - A lightweight text editor written in Lua
 - [mobile-android](https://github.com/AU-COVIDSafe/mobile-android) : Kotlin
   - COVIDSafe android app
+- [spring-analysis](https://github.com/seaswalker/spring-analysis) : Java
+  - Spring源码阅读
 - [mobile-ios](https://github.com/AU-COVIDSafe/mobile-ios) : Swift
   - COVIDSafe IOS app
+- [Ventoy](https://github.com/ventoy/Ventoy) : C
+  - A new bootable USB solution.
+- [sm64pc](https://github.com/sm64pc/sm64pc) : C
+  - OpenGL adaptation of n64decomp/sm64.
+- [JavaGuide](https://github.com/Snailclimb/JavaGuide) : Java
+  - 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 - [deno](https://github.com/denoland/deno) : TypeScript
   - A secure JavaScript and TypeScript runtime
-- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
-  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-- [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) : Java
-  - spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…
-- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) : C++
-  - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+- [entt](https://github.com/skypjack/entt) : C++
+  - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
+- [interviews](https://github.com/kdn251/interviews) : Java
+  - Everything you need to know to get the job.
 - [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
   - Course Files for Complete Python 3 Bootcamp Course on Udemy
-- [xxl-job](https://github.com/xuxueli/xxl-job) : Java
-  - A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
-- [async-graphql](https://github.com/async-graphql/async-graphql) : Rust
-  - The GraphQL server library implemented by rust
+- [InterpretableMLBook](https://github.com/MingchaoZhu/InterpretableMLBook) : 
+  - 《可解释的机器学习--黑盒模型可解释性理解指南》，该书为《Interpretable Machine Learning》中文版
+- [index](https://github.com/sphawes/index) : C++
+  - The Index is an open source pick and place machine.
+- [CustomArch](https://github.com/adi1090x/CustomArch) : Shell
+  - Various Arch Linux Based Custom ISOs Made With "Archiso"
+- [awesome-baremetal](https://github.com/alexellis/awesome-baremetal) : 
+  - Bare-metal is awesome. Let's share our favourite tools.
+- [U-2-Net](https://github.com/NathanUA/U-2-Net) : Python
+  - The code for our newly accepted paper in Pattern Recognition 2020: "U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection."
+- [implot](https://github.com/epezent/implot) : C++
+  - Advanced 2D Plotting for Dear ImGui
+- [rawdrawandroid](https://github.com/cnlohr/rawdrawandroid) : C
+  - Build android apps without any java, entirely in C
+- [covid19model](https://github.com/ImperialCollegeLondon/covid19model) : Jupyter Notebook
+  - Code for modelling estimated deaths and cases for COVID19.
+- [github-vscode-theme](https://github.com/primer/github-vscode-theme) : JavaScript
+  - GitHub's VS Code theme
 - [smol](https://github.com/stjepang/smol) : Rust
   - A small and fast async runtime for Rust
-- [browser-2020](https://github.com/luruke/browser-2020) : 
-  - Things you can do with a browser in 2020 ☕️
-- [react-virtual](https://github.com/tannerlinsley/react-virtual) : JavaScript
-  - ⚛️ Hooks for virtualizing scrollable elements in React
-- [TJ-JPT](https://github.com/tjnull/TJ-JPT) : 
-  - This repo contains my pentesting template that I have used in PWK and for current assessments. The template has been formatted to be used in Joplin
-- [d2l-en](https://github.com/d2l-ai/d2l-en) : Python
-  - An interactive deep learning book with code, math, and discussions, based on the NumPy interface.
-- [COVID-19-app-iOS-BETA](https://github.com/nhsx/COVID-19-app-iOS-BETA) : Objective-C
-  - Source code of the Beta of the NHS COVID-19 iOS app
-- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) : C++
-  - C++那些事
-- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) : Vue
-  - vue-admin-beautiful是一款绝佳的前端开发框架（同时支持电脑，手机，平板）,长期更新维护,感谢您的star,我一直在努力
-- [yuzu](https://github.com/yuzu-emu/yuzu) : C++
-  - Nintendo Switch Emulator
-- [COVID-19-app-Android-BETA](https://github.com/nhsx/COVID-19-app-Android-BETA) : Kotlin
-  - Source code of the Beta of the NHS COVID-19 Android app
-- [ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) : Vue
-  - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!
-- [eng-practices](https://github.com/google/eng-practices) : 
-  - Google's Engineering Practices documentation
-- [pycaret](https://github.com/pycaret/pycaret) : Jupyter Notebook
-  - An open source, low-code machine learning library in Python
-- [lede](https://github.com/coolsnowwolf/lede) : C
-  - Lean's OpenWrt source
+- [pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) : Python
+  - The lightweight PyTorch wrapper for ML researchers. Scale your models. Write less boilerplate
+- [yew](https://github.com/yewstack/yew) : Rust
+  - Rust / Wasm framework for building client web apps
+- [awesomefluttertips](https://github.com/erluxman/awesomefluttertips) : Dart
+  - ❤️Awesome Flutter ❤️ tips and tricks ❤️

@@ -1,51 +1,51 @@
 # javascript
-- [react-virtual](https://github.com/tannerlinsley/react-virtual)
-  - ⚛️ Hooks for virtualizing scrollable elements in React
-- [Blog](https://github.com/ljianshu/Blog)
-  - 关注基础知识，打造优质前端博客，公众号[前端工匠]的作者
-- [vue](https://github.com/vuejs/vue)
-  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [three.js](https://github.com/mrdoob/three.js)
-  - JavaScript 3D library.
-- [udemy-docker-mastery](https://github.com/BretFisher/udemy-docker-mastery)
-  - Udemy Course to build, compose, deploy, and manage containers from local development to high-availability in the cloud
-- [learnGitBranching](https://github.com/pcottle/learnGitBranching)
-  - An interactive git visualization to challenge and educate!
-- [Script](https://github.com/NobyDa/Script)
-  - This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.
-- [incubator-echarts](https://github.com/apache/incubator-echarts)
-  - A powerful, interactive charting and visualization library for browser
-- [bootstrap](https://github.com/twbs/bootstrap)
-  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [playwright](https://github.com/microsoft/playwright)
-  - Node library to automate Chromium, Firefox and WebKit with a single API
+- [pose-animator](https://github.com/yemount/pose-animator)
+  - 
 - [github-vscode-theme](https://github.com/primer/github-vscode-theme)
   - GitHub's VS Code theme
-- [Motrix](https://github.com/agalwood/Motrix)
-  - A full-featured download manager.
-- [discord.js](https://github.com/discordjs/discord.js)
-  - A powerful JavaScript library for interacting with the Discord API
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
-  - Starter files, final projects and FAQ for my Complete JavaScript course
-- [shopify-demo-app-node-react](https://github.com/Shopify/shopify-demo-app-node-react)
-  - 
-- [engine](https://github.com/cocos-creator/engine)
-  - Cocos Creator is a complete package of game development tools and workflow, including a game engine, resource management, scene editing, game preview, debug and publish one project to multiple platforms.
-- [iptv](https://github.com/iptv-org/iptv)
-  - Collection of 8000+ publicly available IPTV channels from all over the world
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [next.js](https://github.com/zeit/next.js)
-  - The React Framework
-- [vue-ssr-jit](https://github.com/SmallComfort/vue-ssr-jit)
-  - A just in time compilation technique for server-side rendering
+- [mineflayer](https://github.com/PrismarineJS/mineflayer)
+  - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
+- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
+  - Revive unavailable songs for Netease Cloud Music
+- [unlock-music](https://github.com/ix64/unlock-music)
+  - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
+- [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui)
+  - A desktop application for downloading Udemy Courses
 - [20-react-apps](https://github.com/chris-on-code/20-react-apps)
   - The apps for Make 20 React Apps
-- [template](https://github.com/sveltejs/template)
-  - Template for building basic applications with Svelte
-- [trilium](https://github.com/zadam/trilium)
-  - Build your personal knowledge base with Trilium Notes
-- [atom](https://github.com/atom/atom)
-  - The hackable text editor
+- [playwright](https://github.com/microsoft/playwright)
+  - Node library to automate Chromium, Firefox and WebKit with a single API
+- [react-virtual](https://github.com/tannerlinsley/react-virtual)
+  - ⚛️ Hooks for virtualizing scrollable elements in React
+- [carbon](https://github.com/carbon-app/carbon)
+  - 🎨 Create and share beautiful images of your source code
 - [v4](https://github.com/bchiang7/v4)
   - Fourth iteration of my personal website
+- [Cloud189_Greasyfork](https://github.com/Aruelius/Cloud189_Greasyfork)
+  - 免登录下载天翼云盘分享文件油猴脚本
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [yarn](https://github.com/yarnpkg/yarn)
+  - 📦🐈 Fast, reliable, and secure dependency management.
+- [three.js](https://github.com/mrdoob/three.js)
+  - JavaScript 3D library.
+- [Motrix](https://github.com/agalwood/Motrix)
+  - A full-featured download manager.
+- [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+  - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+- [p5.js](https://github.com/processing/p5.js)
+  - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
+- [ccxt](https://github.com/ccxt/ccxt)
+  - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
+  - Starter files, final projects and FAQ for my Complete JavaScript course
+- [complete-node-bootcamp](https://github.com/jonasschmedtmann/complete-node-bootcamp)
+  - Starter files, final projects and FAQ for my Complete Node.js Bootcamp
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui)
+  - ⚡️Simple, Modular & Accessible UI Components for your React Applications
+- [website](https://github.com/CodingTrain/website)
+  - Coding Train website
+- [discord.js](https://github.com/discordjs/discord.js)
+  - A powerful JavaScript library for interacting with the Discord API

@@ -1,51 +1,51 @@
 # typescript
 - [deno](https://github.com/denoland/deno)
   - A secure JavaScript and TypeScript runtime
-- [qiankun](https://github.com/umijs/qiankun)
-  - 📦🚀Blazing fast, simple and completed solution for micro frontends.
-- [G2](https://github.com/antvis/G2)
-  - 📊 A highly interactive data-driven visualization grammar for statistical charts.
-- [cloud-developer](https://github.com/udacity/cloud-developer)
-  - content for Udacity's cloud developer nanodegree
-- [vscode](https://github.com/microsoft/vscode)
-  - Visual Studio Code
-- [hooks](https://github.com/umijs/hooks)
-  - React Hooks Library
-- [liandi](https://github.com/88250/liandi)
-  - 📕 A desktop Markdown note-taking application, supports Windows, Mac and Linux. 一款桌面端的 Markdown 笔记应用，支持 Windows、Mac 和 Linux。
-- [wechaty](https://github.com/wechaty/wechaty)
-  - Conversational RPA SDK for WeChat Individual Account, Powered by TypeScript, Docker, and 💖
-- [G6](https://github.com/antvis/G6)
-  - ♾ A Graph Visualization Framework in JavaScript
-- [nest](https://github.com/nestjs/nest)
-  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-- [homebridge](https://github.com/homebridge/homebridge)
-  - HomeKit support for the impatient
-- [TypeScript](https://github.com/microsoft/TypeScript)
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [lens](https://github.com/lensapp/lens)
-  - Lens - The Kubernetes IDE
-- [ant-design-pro](https://github.com/ant-design/ant-design-pro)
-  - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
-- [pico](https://github.com/nikersify/pico)
-  - Take browser screenshots in Javascript 📸
-- [vue-router-next](https://github.com/vuejs/vue-router-next)
-  - The Vue 3 official router (WIP)
-- [deno_website2](https://github.com/denoland/deno_website2)
-  - deno.land website
-- [code-server](https://github.com/cdr/code-server)
-  - Run VS Code on a remote server.
-- [weui-miniprogram](https://github.com/wechat-miniprogram/weui-miniprogram)
-  - 小程序WeUI组件库
-- [dumi](https://github.com/umijs/dumi)
-  - Documentation generator for React component
-- [components](https://github.com/angular/components)
-  - Component infrastructure and Material Design components for Angular
-- [ant-design](https://github.com/ant-design/ant-design)
-  - 🌈 A UI Design Language and React UI library
-- [storybook](https://github.com/storybookjs/storybook)
-  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
-- [now](https://github.com/zeit/now)
-  - Develop. Preview. Ship.
+- [tfjs-models](https://github.com/tensorflow/tfjs-models)
+  - Pretrained models for TensorFlow.js
 - [wenyan](https://github.com/wenyan-lang/wenyan)
   - 文言文編程語言 A programming language for the ancient Chinese.
+- [maratona2-plataforma-lives](https://github.com/codeedu/maratona2-plataforma-lives)
+  - 
+- [jest](https://github.com/facebook/jest)
+  - Delightful JavaScript Testing.
+- [fullstack-angular-and-springboot](https://github.com/darbyluv2code/fullstack-angular-and-springboot)
+  - 
+- [lightweight-charts](https://github.com/tradingview/lightweight-charts)
+  - Financial lightweight charts built with HTML5 canvas
+- [deno_website2](https://github.com/denoland/deno_website2)
+  - deno.land website
+- [streamlit](https://github.com/streamlit/streamlit)
+  - Streamlit — The fastest way to build custom ML tools
+- [react-use](https://github.com/streamich/react-use)
+  - React Hooks — 👍
+- [coc.nvim](https://github.com/neoclide/coc.nvim)
+  - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
+- [peerjs-server](https://github.com/peers/peerjs-server)
+  - Server for PeerJS
+- [homebridge](https://github.com/homebridge/homebridge)
+  - HomeKit support for the impatient
+- [etcher](https://github.com/balena-io/etcher)
+  - Flash OS images to SD cards & USB drives, safely and easily.
+- [lens](https://github.com/lensapp/lens)
+  - Lens - The Kubernetes IDE
+- [sapper](https://github.com/sveltejs/sapper)
+  - The next small thing in web development, powered by Svelte
+- [graphql-yoga](https://github.com/prisma-labs/graphql-yoga)
+  - 🧘 Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience
+- [platform](https://github.com/ngrx/platform)
+  - Reactive libraries for Angular
+- [oak](https://github.com/oakserver/oak)
+  - A middleware framework for Deno's net server 🦕
+- [snabbdom](https://github.com/snabbdom/snabbdom)
+  - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
+- [rome](https://github.com/facebookexperimental/rome)
+  - An experimental JavaScript toolchain
+- [nteract](https://github.com/nteract/nteract)
+  - 📘 The interactive computing suite for you! ✨
+- [purgecss](https://github.com/FullHuman/purgecss)
+  - Remove unused CSS
+- [MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer)
+  - An all-round MQTT client that provides a structured topic overview
+- [cloud-developer](https://github.com/udacity/cloud-developer)
+  - content for Udacity's cloud developer nanodegree
