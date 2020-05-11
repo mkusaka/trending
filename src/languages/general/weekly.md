@@ -1,50 +1,50 @@
 # general
-- [qrcp](https://github.com/claudiodangelis/qrcp) : Go
-  - ⚡ Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
-- [avatarify](https://github.com/alievk/avatarify) : Python
-  - Avatars for Zoom, Skype and other video-conferencing apps.
-- [learnGitBranching](https://github.com/pcottle/learnGitBranching) : JavaScript
-  - An interactive git visualization to challenge and educate!
-- [bird-bot](https://github.com/natewong1313/bird-bot) : Python
-  - A Nintendo Switch checkout bot. Currently supports Walmart and Best buy
-- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) : C++
-  - C++那些事
-- [til](https://github.com/jbranchaud/til) : Vim script
-  - 📝 Today I Learned
-- [covid-19](https://github.com/k-sys/covid-19) : Jupyter Notebook
-  - A collection of work related to COVID-19
-- [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) : Go
-  - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，更多功能正在开发中，欢迎issue和pr~
-- [dp3t-app-ios](https://github.com/DP-3T/dp3t-app-ios) : Swift
-  - The DP3T-App for iOS
-- [Covid-19-Flutter-UI](https://github.com/abuanwar072/Covid-19-Flutter-UI) : Dart
-- [vue-next](https://github.com/vuejs/vue-next) : TypeScript
-  - Repo for Vue 3.0 (currently in beta)
-- [shardingsphere](https://github.com/apache/shardingsphere) : Java
-  - Distributed database middleware
-- [dp3t-app-android](https://github.com/DP-3T/dp3t-app-android) : Java
-  - The DP3T-App for Android
-- [covid-19-data](https://github.com/owid/covid-19-data) : Python
-  - Data on COVID-19 confirmed cases, deaths, and tests • All countries • Updated daily by Our World in Data
-- [go-interview](https://github.com/shomali11/go-interview) : Go
-  - Collection of Technical Interview Questions solved with Go
-- [spring-authorization-server](https://github.com/spring-projects-experimental/spring-authorization-server) : Java
-  - A community-driven project led by the Spring Security team and is focused on delivering Authorization Server support to the Spring community
-- [obs-mac-virtualcam](https://github.com/johnboiles/obs-mac-virtualcam) : C++
-  - Creates a virtual webcam device from the output of OBS. Especially useful for streaming smooth, composited video into Zoom, Hangouts, Jitsi etc. Like obs-virtualcam but for macOS.
-- [Background-Matting](https://github.com/senguptaumd/Background-Matting) : Python
-  - Background Matting: The World is Your Green Screen
-- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) : Vue
-  - vue-admin-beautiful是一款超棒的前端开发框架（当然只是自我感觉）,长期更新维护,感谢您的star,我一直在努力,官方答疑群972435319
-- [Flutter-Course-Resources](https://github.com/londonappbrewery/Flutter-Course-Resources) : 
-  - Learn to Code While Building Apps - The Complete Flutter Development Bootcamp
-- [documents](https://github.com/DP-3T/documents) : Shell
-  - Decentralized Privacy-Preserving Proximity Tracing -- Documents
-- [RxJava](https://github.com/ReactiveX/RxJava) : Java
-  - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
-- [fiber](https://github.com/gofiber/fiber) : Go
-  - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
-- [eladmin](https://github.com/elunez/eladmin) : Java
-  - 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
-- [docusaurus](https://github.com/facebook/docusaurus) : JavaScript
-  - Easy to maintain open source documentation websites.
+- [sm64](https://github.com/n64decomp/sm64) : C
+  - A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
+- [cnn-explainer](https://github.com/poloclub/cnn-explainer) : JavaScript
+  - Learning Convolutional Neural Networks with Interactive Visualization. https://poloclub.github.io/cnn-explainer/
+- [covid-sim](https://github.com/mrc-ide/covid-sim) : C++
+- [deno](https://github.com/denoland/deno) : TypeScript
+  - A secure JavaScript and TypeScript runtime
+- [esbuild](https://github.com/evanw/esbuild) : Go
+  - An extremely fast JavaScript bundler and minifier
+- [ACHNBrowserUI](https://github.com/Dimillian/ACHNBrowserUI) : Swift
+  - Animal Crossing New Horizon items catalog in SwiftUI
+- [jukebox](https://github.com/openai/jukebox) : Python
+  - Code for "Jukebox: A Generative Model for Music"
+- [facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) : Objective-C
+  - Used to integrate the Facebook Platform with your iOS & tvOS apps.
+- [Ventoy](https://github.com/ventoy/Ventoy) : C
+  - A new bootable USB solution.
+- [c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) : Jupyter Notebook
+  - Sample code for Channel 9 Python for Beginners course
+- [typescript-exercises](https://github.com/mdevils/typescript-exercises) : TypeScript
+  - A collection of challenging TypeScript exercises
+- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) : Jupyter Notebook
+  - Python - 100天从新手到大师
+- [caddy](https://github.com/caddyserver/caddy) : Go
+  - Fast, multi-platform web server with automatic HTTPS
+- [springer_free_books](https://github.com/alexgand/springer_free_books) : Python
+  - Python script to download all Springer books released for free during the 2020 COVID-19 quarantine
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [ParlAI](https://github.com/facebookresearch/ParlAI) : Python
+  - A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
+- [codeql](https://github.com/github/codeql) : CodeQL
+  - CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security (code scanning), LGTM.com, and LGTM Enterprise
+- [playwright](https://github.com/microsoft/playwright) : JavaScript
+  - Node library to automate Chromium, Firefox and WebKit with a single API
+- [awesome-compose](https://github.com/docker/awesome-compose) : HTML
+  - Awesome Docker Compose samples
+- [NewPipe](https://github.com/TeamNewPipe/NewPipe) : Java
+  - A libre lightweight streaming front-end for Android.
+- [googletest](https://github.com/google/googletest) : C++
+  - Googletest - Google Testing and Mocking Framework
+- [erpnext](https://github.com/frappe/erpnext) : Python
+  - Open Source Alternative to SAP
+- [QMUI_Android](https://github.com/Tencent/QMUI_Android) : Java
+  - 提高 Android UI 开发效率的 UI 库
+- [pcsx2](https://github.com/PCSX2/pcsx2) : C++
+  - PCSX2 - The Playstation 2 Emulator
+- [ghost](https://github.com/entynetproject/ghost) : Python
+  - Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration.

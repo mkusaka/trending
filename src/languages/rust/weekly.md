@@ -1,51 +1,51 @@
 # rust
-- [tide](https://github.com/http-rs/tide)
-  - Fast and friendly HTTP server framework for async Rust
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [gfx](https://github.com/gfx-rs/gfx)
-  - A low-overhead Vulkan-like GPU API for Rust.
-- [wasmtime](https://github.com/bytecodealliance/wasmtime)
-  - Standalone JIT-style runtime for WebAssembly, using Cranelift
-- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
-  - Rust bindings to wgpu native library
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [imageflow](https://github.com/imazen/imageflow)
-  - High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow
-- [WASI](https://github.com/WebAssembly/WASI)
-  - WebAssembly System Interface
+- [smol](https://github.com/stjepang/smol)
+  - A small and fast async runtime for Rust
 - [996.ICU](https://github.com/996icu/996.ICU)
   - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [ytop](https://github.com/cjbassi/ytop)
-  - A TUI system monitor written in Rust
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [orbtk](https://github.com/redox-os/orbtk)
-  - The Rust UI-Toolkit.
+- [amethyst](https://github.com/amethyst/amethyst)
+  - Data-oriented and data-driven game engine written in Rust
 - [actix-web](https://github.com/actix/actix-web)
   - Actix web is a small, pragmatic, and extremely fast rust web framework.
-- [mio](https://github.com/tokio-rs/mio)
-  - Metal IO library for Rust
-- [servo](https://github.com/servo/servo)
-  - The Servo Browser Engine
-- [Rocket](https://github.com/SergioBenitez/Rocket)
-  - A web framework for Rust.
-- [mobilecoin](https://github.com/mobilecoinofficial/mobilecoin)
-  - Private payments for mobile devices.
+- [talent-plan](https://github.com/pingcap/talent-plan)
+  - open source training courses about distributed systems and distributed systemes
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
+- [winrt-rs](https://github.com/microsoft/winrt-rs)
+  - Rust/WinRT - Rust for the Windows Runtime
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - ripgrep recursively searches directories for a regex pattern
+- [ytop](https://github.com/cjbassi/ytop)
+  - A TUI system monitor written in Rust
 - [alacritty](https://github.com/alacritty/alacritty)
   - A cross-platform, GPU-accelerated terminal emulator
-- [wasmer](https://github.com/wasmerio/wasmer)
-  - 🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten
-- [xsv](https://github.com/BurntSushi/xsv)
-  - A fast CSV command line toolkit written in Rust.
-- [boa](https://github.com/jasonwilliams/boa)
-  - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
-- [rayt](https://github.com/Dalamar42/rayt)
-  - Monte Carlo ray tracer developed using Rust
-- [spotifyd](https://github.com/Spotifyd/spotifyd)
-  - A spotify daemon
+- [serde](https://github.com/serde-rs/serde)
+  - Serialization framework for Rust
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [winit](https://github.com/rust-windowing/winit)
+  - Window handling library in pure Rust
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [tokio](https://github.com/tokio-rs/tokio)
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [quiche](https://github.com/cloudflare/quiche)
+  - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+- [diesel](https://github.com/diesel-rs/diesel)
+  - A safe, extensible ORM and Query Builder for Rust
+- [minesweeper-rs](https://github.com/robmikh/minesweeper-rs)
+  - A port of robmikh/Minesweeper using winrt-rs.
+- [rustlings](https://github.com/rust-lang/rustlings)
+  - 🦀 Small exercises to get you used to reading and writing Rust code!
+- [async-graphql](https://github.com/async-graphql/async-graphql)
+  - The GraphQL server library implemented by rust
+- [zCore](https://github.com/rcore-os/zCore)
+  - Reimplement Zircon microkernel in Rust.
+- [async-std](https://github.com/async-rs/async-std)
+  - Async version of the Rust standard library
+- [tonic](https://github.com/hyperium/tonic)
+  - A native gRPC client & server implementation with async/await support.
+- [firecracker](https://github.com/firecracker-microvm/firecracker)
+  - Secure and fast microVMs for serverless computing.
