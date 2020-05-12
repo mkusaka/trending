@@ -1,51 +1,51 @@
 # rust
-- [smol](https://github.com/stjepang/smol)
-  - A small and fast async runtime for Rust
 - [yew](https://github.com/yewstack/yew)
   - Rust / Wasm framework for building client web apps
 - [libra](https://github.com/libra/libra)
   - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [imageflow](https://github.com/imazen/imageflow)
-  - High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow
-- [async-graphql](https://github.com/async-graphql/async-graphql)
-  - The GraphQL server library implemented by rust
-- [mio](https://github.com/tokio-rs/mio)
-  - Metal IO library for Rust
-- [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim)
-  - Language Server Protocol (LSP) support for vim and neovim.
-- [nushell](https://github.com/nushell/nushell)
-  - A new type of shell
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [async-std](https://github.com/async-rs/async-std)
-  - Async version of the Rust standard library
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-  - A curated list of Rust code and resources.
+- [smol](https://github.com/stjepang/smol)
+  - A small and fast async runtime for Rust
 - [sqlx](https://github.com/launchbadge/sqlx)
   - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-- [actix](https://github.com/actix/actix)
-  - Actor framework for Rust
-- [examples](https://github.com/actix/examples)
-  - Actix web examples
-- [rustfmt](https://github.com/rust-lang/rustfmt)
-  - Format Rust code
+- [tikv](https://github.com/tikv/tikv)
+  - Distributed transactional key-value database, originally created to complement TiDB
+- [nushell](https://github.com/nushell/nushell)
+  - A new type of shell
+- [starship](https://github.com/starship/starship)
+  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [minesweeper-rs](https://github.com/robmikh/minesweeper-rs)
+  - A port of robmikh/Minesweeper using winrt-rs.
+- [pick-json](https://github.com/GerardRodes/pick-json)
+  - Read a single attribute of a json and stop there
+- [blocking](https://github.com/stjepang/blocking)
+  - An executor for isolating blocking I/O in async programs
+- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
+  - Facilitating high-level interactions between Wasm modules and JavaScript
+- [orbtk](https://github.com/redox-os/orbtk)
+  - The Rust UI-Toolkit.
+- [openethereum](https://github.com/openethereum/openethereum)
+  - Fast and feature-rich multi-network Ethereum client.
 - [rust](https://github.com/rust-lang/rust)
   - Empowering everyone to build reliable and efficient software.
-- [wasmtime](https://github.com/bytecodealliance/wasmtime)
-  - Standalone JIT-style runtime for WebAssembly, using Cranelift
 - [mdBook](https://github.com/rust-lang/mdBook)
   - Create book from markdown files. Like Gitbook but implemented in Rust
-- [tide](https://github.com/http-rs/tide)
-  - Fast and friendly HTTP server framework for async Rust
-- [ggez](https://github.com/ggez/ggez)
-  - Rust library to create a Good Game Easily
-- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
-  - Rust bindings to wgpu native library
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix web is a small, pragmatic, and extremely fast rust web framework.
-- [librespot](https://github.com/librespot-org/librespot)
-  - Open Source Spotify client library
-- [WASI](https://github.com/WebAssembly/WASI)
-  - WebAssembly System Interface
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
+- [polkadot](https://github.com/paritytech/polkadot)
+  - Polkadot Node Implementation
+- [wasmtime](https://github.com/bytecodealliance/wasmtime)
+  - Standalone JIT-style runtime for WebAssembly, using Cranelift
+- [rio](https://github.com/spacejam/rio)
+  - pure rust io_uring library, built on libc, thread & async friendly, misuse resistant
+- [examples](https://github.com/actix/examples)
+  - Actix web examples
+- [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim)
+  - Language Server Protocol (LSP) support for vim and neovim.
+- [lemmy](https://github.com/LemmyNet/lemmy)
+  - 🐀 Building a federated alternative to reddit in rust
+- [rust-psp](https://github.com/overdrivenpotato/rust-psp)
+  - Rust on PSP. Panic and allocation support. Access PSP system libraries.
+- [amethyst](https://github.com/amethyst/amethyst)
+  - Data-oriented and data-driven game engine written in Rust
+- [winrt-rs](https://github.com/microsoft/winrt-rs)
+  - Rust/WinRT is a Rust language projection for the Windows Runtime
