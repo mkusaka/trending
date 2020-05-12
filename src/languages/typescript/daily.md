@@ -1,51 +1,51 @@
 # typescript
-- [deno](https://github.com/denoland/deno)
-  - A secure JavaScript and TypeScript runtime
-- [tfjs-models](https://github.com/tensorflow/tfjs-models)
-  - Pretrained models for TensorFlow.js
-- [wenyan](https://github.com/wenyan-lang/wenyan)
-  - 文言文編程語言 A programming language for the ancient Chinese.
+- [vscode-drawio](https://github.com/hediet/vscode-drawio)
+  - This extension integrates Draw.io into VS Code.
 - [maratona2-plataforma-lives](https://github.com/codeedu/maratona2-plataforma-lives)
   - 
-- [jest](https://github.com/facebook/jest)
-  - Delightful JavaScript Testing.
-- [fullstack-angular-and-springboot](https://github.com/darbyluv2code/fullstack-angular-and-springboot)
-  - 
-- [lightweight-charts](https://github.com/tradingview/lightweight-charts)
-  - Financial lightweight charts built with HTML5 canvas
-- [deno_website2](https://github.com/denoland/deno_website2)
-  - deno.land website
-- [streamlit](https://github.com/streamlit/streamlit)
-  - Streamlit — The fastest way to build custom ML tools
-- [react-use](https://github.com/streamich/react-use)
-  - React Hooks — 👍
-- [coc.nvim](https://github.com/neoclide/coc.nvim)
-  - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
-- [peerjs-server](https://github.com/peers/peerjs-server)
-  - Server for PeerJS
-- [homebridge](https://github.com/homebridge/homebridge)
-  - HomeKit support for the impatient
-- [etcher](https://github.com/balena-io/etcher)
-  - Flash OS images to SD cards & USB drives, safely and easily.
-- [lens](https://github.com/lensapp/lens)
-  - Lens - The Kubernetes IDE
-- [sapper](https://github.com/sveltejs/sapper)
-  - The next small thing in web development, powered by Svelte
-- [graphql-yoga](https://github.com/prisma-labs/graphql-yoga)
-  - 🧘 Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience
-- [platform](https://github.com/ngrx/platform)
-  - Reactive libraries for Angular
-- [oak](https://github.com/oakserver/oak)
-  - A middleware framework for Deno's net server 🦕
-- [snabbdom](https://github.com/snabbdom/snabbdom)
-  - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
+- [deno](https://github.com/denoland/deno)
+  - A secure JavaScript and TypeScript runtime
+- [pico](https://github.com/nikersify/pico)
+  - Take browser screenshots in Javascript 📸
+- [vuetify](https://github.com/vuetifyjs/vuetify)
+  - 🐉 Material Component Framework for Vue
+- [swr](https://github.com/zeit/swr)
+  - React Hooks library for remote data fetching
+- [face-api.js](https://github.com/justadudewhohacks/face-api.js)
+  - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
+- [formik](https://github.com/jaredpalmer/formik)
+  - Build forms in React, without the tears 😭
+- [mkdocs-material](https://github.com/squidfunk/mkdocs-material)
+  - A Material Design theme for MkDocs
+- [vite](https://github.com/vuejs/vite)
+  - Make Web Dev Fast Again
+- [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)
+  - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
 - [rome](https://github.com/facebookexperimental/rome)
   - An experimental JavaScript toolchain
-- [nteract](https://github.com/nteract/nteract)
-  - 📘 The interactive computing suite for you! ✨
-- [purgecss](https://github.com/FullHuman/purgecss)
-  - Remove unused CSS
-- [MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer)
-  - An all-round MQTT client that provides a structured topic overview
-- [cloud-developer](https://github.com/udacity/cloud-developer)
-  - content for Udacity's cloud developer nanodegree
+- [platform](https://github.com/ngrx/platform)
+  - Reactive libraries for Angular
+- [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)
+  - An enterprise-class UI components based on Ant Design and Angular. 🐜
+- [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
+  - 💬 The most complete chat UI for React Native
+- [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
+  - Tasks for Azure Pipelines
+- [react-dnd](https://github.com/react-dnd/react-dnd)
+  - Drag and Drop for React
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+  - The repository for high quality TypeScript type definitions.
+- [opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js)
+  - OpenTelemetry JavaScript API and SDK
+- [commitlint](https://github.com/conventional-changelog/commitlint)
+  - 📓 Lint commit messages
+- [linaria](https://github.com/callstack/linaria)
+  - Zero-runtime CSS in JS library
+- [vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples)
+  - Sample code illustrating the VS Code extension API.
+- [ant-design](https://github.com/ant-design/ant-design)
+  - 🌈 A UI Design Language and React UI library
+- [react-use](https://github.com/streamich/react-use)
+  - React Hooks — 👍
+- [react-apollo](https://github.com/apollographql/react-apollo)
+  - ♻️ React integration for Apollo Client

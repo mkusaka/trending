@@ -1,50 +1,50 @@
 # general
-- [pose-animator](https://github.com/yemount/pose-animator) : JavaScript
-- [lite](https://github.com/rxi/lite) : Lua
-  - A lightweight text editor written in Lua
-- [mobile-android](https://github.com/AU-COVIDSafe/mobile-android) : Kotlin
-  - COVIDSafe android app
-- [spring-analysis](https://github.com/seaswalker/spring-analysis) : Java
-  - Spring源码阅读
-- [mobile-ios](https://github.com/AU-COVIDSafe/mobile-ios) : Swift
-  - COVIDSafe IOS app
-- [Ventoy](https://github.com/ventoy/Ventoy) : C
-  - A new bootable USB solution.
-- [sm64pc](https://github.com/sm64pc/sm64pc) : C
-  - OpenGL adaptation of n64decomp/sm64.
-- [JavaGuide](https://github.com/Snailclimb/JavaGuide) : Java
-  - 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-- [deno](https://github.com/denoland/deno) : TypeScript
-  - A secure JavaScript and TypeScript runtime
-- [entt](https://github.com/skypjack/entt) : C++
-  - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
-- [interviews](https://github.com/kdn251/interviews) : Java
-  - Everything you need to know to get the job.
-- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
-  - Course Files for Complete Python 3 Bootcamp Course on Udemy
 - [InterpretableMLBook](https://github.com/MingchaoZhu/InterpretableMLBook) : 
   - 《可解释的机器学习--黑盒模型可解释性理解指南》，该书为《Interpretable Machine Learning》中文版
-- [index](https://github.com/sphawes/index) : C++
-  - The Index is an open source pick and place machine.
-- [CustomArch](https://github.com/adi1090x/CustomArch) : Shell
-  - Various Arch Linux Based Custom ISOs Made With "Archiso"
-- [awesome-baremetal](https://github.com/alexellis/awesome-baremetal) : 
-  - Bare-metal is awesome. Let's share our favourite tools.
 - [U-2-Net](https://github.com/NathanUA/U-2-Net) : Python
   - The code for our newly accepted paper in Pattern Recognition 2020: "U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection."
-- [implot](https://github.com/epezent/implot) : C++
-  - Advanced 2D Plotting for Dear ImGui
 - [rawdrawandroid](https://github.com/cnlohr/rawdrawandroid) : C
   - Build android apps without any java, entirely in C
-- [covid19model](https://github.com/ImperialCollegeLondon/covid19model) : Jupyter Notebook
-  - Code for modelling estimated deaths and cases for COVID19.
+- [spring-analysis](https://github.com/seaswalker/spring-analysis) : Java
+  - Spring源码阅读
+- [sm64pc](https://github.com/sm64pc/sm64pc) : C
+  - OpenGL adaptation of n64decomp/sm64.
+- [pose-animator](https://github.com/yemount/pose-animator) : JavaScript
+- [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) : Java
+  - spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…
+- [mobile-android](https://github.com/AU-COVIDSafe/mobile-android) : Kotlin
+  - COVIDSafe android app
 - [github-vscode-theme](https://github.com/primer/github-vscode-theme) : JavaScript
   - GitHub's VS Code theme
-- [smol](https://github.com/stjepang/smol) : Rust
-  - A small and fast async runtime for Rust
-- [pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) : Python
-  - The lightweight PyTorch wrapper for ML researchers. Scale your models. Write less boilerplate
-- [yew](https://github.com/yewstack/yew) : Rust
-  - Rust / Wasm framework for building client web apps
+- [Python](https://github.com/TheAlgorithms/Python) : Python
+  - All Algorithms implemented in Python
+- [vscode-drawio](https://github.com/hediet/vscode-drawio) : TypeScript
+  - This extension integrates Draw.io into VS Code.
+- [learn-istio](https://github.com/askmeegs/learn-istio) : 
+  - ⛵️ Istio resources 🕸
+- [DeepLearning](https://github.com/MingchaoZhu/DeepLearning) : Python
+  - Python for “Deep Learning”，《深度学习》(花书) 数学推导、原理剖析与源码级别代码实现
+- [pi-hole](https://github.com/pi-hole/pi-hole) : Shell
+  - A black hole for Internet advertisements
+- [interviews](https://github.com/kdn251/interviews) : Java
+  - Everything you need to know to get the job.
+- [DeOldify](https://github.com/jantic/DeOldify) : Jupyter Notebook
+  - A Deep Learning based project for colorizing and restoring old images (and video!)
+- [CustomArch](https://github.com/adi1090x/CustomArch) : Shell
+  - Various Arch Linux Based Custom ISOs Made With "Archiso"
+- [viper](https://github.com/spf13/viper) : Go
+  - Go configuration with fangs
 - [awesomefluttertips](https://github.com/erluxman/awesomefluttertips) : Dart
   - ❤️Awesome Flutter ❤️ tips and tricks ❤️
+- [Ventoy](https://github.com/ventoy/Ventoy) : C
+  - A new bootable USB solution.
+- [index](https://github.com/sphawes/index) : C++
+  - The Index is an open source pick and place machine.
+- [yubikey-agent](https://github.com/FiloSottile/yubikey-agent) : Go
+  - yubikey-agent is a seamless ssh-agent for YubiKeys.
+- [excelize](https://github.com/360EntSecGroup-Skylar/excelize) : Go
+  - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
+- [ray](https://github.com/ray-project/ray) : Python
+  - A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
+- [pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) : Python
+  - The lightweight PyTorch wrapper for ML researchers. Scale your models. Write less boilerplate

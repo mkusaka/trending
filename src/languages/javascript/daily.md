@@ -3,49 +3,49 @@
   - 
 - [github-vscode-theme](https://github.com/primer/github-vscode-theme)
   - GitHub's VS Code theme
-- [mineflayer](https://github.com/PrismarineJS/mineflayer)
-  - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
-- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
-  - Revive unavailable songs for Netease Cloud Music
-- [unlock-music](https://github.com/ix64/unlock-music)
-  - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
-- [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui)
-  - A desktop application for downloading Udemy Courses
-- [20-react-apps](https://github.com/chris-on-code/20-react-apps)
-  - The apps for Make 20 React Apps
-- [playwright](https://github.com/microsoft/playwright)
-  - Node library to automate Chromium, Firefox and WebKit with a single API
-- [react-virtual](https://github.com/tannerlinsley/react-virtual)
-  - ⚛️ Hooks for virtualizing scrollable elements in React
-- [carbon](https://github.com/carbon-app/carbon)
-  - 🎨 Create and share beautiful images of your source code
-- [v4](https://github.com/bchiang7/v4)
-  - Fourth iteration of my personal website
-- [Cloud189_Greasyfork](https://github.com/Aruelius/Cloud189_Greasyfork)
-  - 免登录下载天翼云盘分享文件油猴脚本
+- [drawio-desktop](https://github.com/jgraph/drawio-desktop)
+  - Official electron build of diagrams.net
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
   - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [yarn](https://github.com/yarnpkg/yarn)
-  - 📦🐈 Fast, reliable, and secure dependency management.
-- [three.js](https://github.com/mrdoob/three.js)
-  - JavaScript 3D library.
-- [Motrix](https://github.com/agalwood/Motrix)
-  - A full-featured download manager.
-- [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
-  - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-- [p5.js](https://github.com/processing/p5.js)
-  - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
-- [ccxt](https://github.com/ccxt/ccxt)
-  - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
-  - Starter files, final projects and FAQ for my Complete JavaScript course
-- [complete-node-bootcamp](https://github.com/jonasschmedtmann/complete-node-bootcamp)
-  - Starter files, final projects and FAQ for my Complete Node.js Bootcamp
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui)
-  - ⚡️Simple, Modular & Accessible UI Components for your React Applications
-- [website](https://github.com/CodingTrain/website)
-  - Coding Train website
+- [drawio](https://github.com/jgraph/drawio)
+  - Source to app.diagrams.net
+- [unfetter](https://github.com/unfetter-discover/unfetter)
+  - The main project for the Unfetter-Discover application. This is the project that will hold the configuration files, the docker-compose files, issue tracking, and documentation
+- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+- [eslint](https://github.com/eslint/eslint)
+  - Find and fix problems in your JavaScript code.
+- [deep-waters](https://github.com/antonioru/deep-waters)
+  - 🔥Deep Waters is an easy-to-compose functional validation system for javascript developers 🔥
+- [gatsby](https://github.com/gatsbyjs/gatsby)
+  - Build blazing fast, modern apps and websites with React
+- [vue-cli](https://github.com/vuejs/vue-cli)
+  - 🛠️ Standard Tooling for Vue.js Development
+- [fabric.js](https://github.com/fabricjs/fabric.js)
+  - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
+- [slate](https://github.com/ianstormtaylor/slate)
+  - A completely customizable framework for building rich text editors. (Currently in beta.)
+- [Rocket.Chat.ReactNative](https://github.com/RocketChat/Rocket.Chat.ReactNative)
+  - Rocket.Chat mobile clients
 - [discord.js](https://github.com/discordjs/discord.js)
   - A powerful JavaScript library for interacting with the Discord API
+- [next.js](https://github.com/zeit/next.js)
+  - The React Framework
+- [pdfmake](https://github.com/bpampuch/pdfmake)
+  - Client/server side PDF printing in pure JavaScript
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+  - Headless Chrome Node.js API
+- [iptv](https://github.com/iptv-org/iptv)
+  - Collection of 8000+ publicly available IPTV channels from all over the world
+- [wtfjs](https://github.com/denysdovhan/wtfjs)
+  - A list of funny and tricky JavaScript examples
+- [eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import)
+  - ESLint plugin with rules that help validate proper imports.
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable)
+  - Vue drag-and-drop component based on Sortable.js
+- [markdown-here](https://github.com/adam-p/markdown-here)
+  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+- [bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker)
+  - A datepicker for twitter bootstrap (@twbs)
