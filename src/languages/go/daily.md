@@ -1,51 +1,51 @@
 # go
-- [viper](https://github.com/spf13/viper)
-  - Go configuration with fangs
-- [yubikey-agent](https://github.com/FiloSottile/yubikey-agent)
-  - yubikey-agent is a seamless ssh-agent for YubiKeys.
-- [excelize](https://github.com/360EntSecGroup-Skylar/excelize)
-  - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
-- [tinygo](https://github.com/tinygo-org/tinygo)
-  - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
-- [go-ethereum](https://github.com/ethereum/go-ethereum)
-  - Official Go implementation of the Ethereum protocol
-- [consul](https://github.com/hashicorp/consul)
-  - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [flux](https://github.com/fluxcd/flux)
-  - The GitOps Kubernetes operator
-- [argo](https://github.com/argoproj/argo)
-  - Argo Workflows: Get stuff done with Kubernetes.
-- [slack](https://github.com/slack-go/slack)
-  - Slack API in Go - community-maintained fork created by the original author, @nlopes
-- [resty](https://github.com/go-resty/resty)
-  - Simple HTTP and REST client library for Go
-- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
-  - Terraform AWS provider
-- [gorm](https://github.com/jinzhu/gorm)
-  - The fantastic ORM library for Golang, aims to be developer friendly (v2 is under development, PR based on master branch won't be accepted)
-- [validator](https://github.com/go-playground/validator)
-  - 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-- [cli](https://github.com/cli/cli)
-  - GitHub’s official command line tool
-- [go-ipfs](https://github.com/ipfs/go-ipfs)
-  - IPFS implementation in Go
-- [grpc-go](https://github.com/grpc/grpc-go)
-  - The Go language implementation of gRPC. HTTP/2 based RPC
-- [sarama](https://github.com/Shopify/sarama)
-  - Sarama is a Go library for Apache Kafka 0.8, and up.
-- [rssfs](https://github.com/dertuxmalwieder/rssfs)
-  - Git clone of the RSS file system.
-- [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
-  - Network-wide ads & trackers blocking DNS server
-- [rek](https://github.com/lucperkins/rek)
-  - An easy HTTP client for Go. Inspired by the immortal Requests.
-- [cadence](https://github.com/uber/cadence)
-  - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
-- [prototool](https://github.com/uber/prototool)
-  - Your Swiss Army Knife for Protocol Buffers
-- [alertmanager](https://github.com/prometheus/alertmanager)
-  - Prometheus Alertmanager
+- [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm)
+  - Terraform provider for Azure Resource Manager
+- [terratest](https://github.com/gruntwork-io/terratest)
+  - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [dapr](https://github.com/dapr/dapr)
   - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+- [goreplay](https://github.com/buger/goreplay)
+  - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
+- [redis](https://github.com/go-redis/redis)
+  - Type-safe Redis client for Golang
+- [influxdb](https://github.com/influxdata/influxdb)
+  - Scalable datastore for metrics, events, and real-time analytics
+- [kubernetes](https://github.com/kubernetes/kubernetes)
+  - Production-Grade Container Scheduling and Management
+- [viper](https://github.com/spf13/viper)
+  - Go configuration with fangs
+- [git-hound](https://github.com/tillson/git-hound)
+  - GitHound pinpoints exposed API keys on GitHub using pattern matching, commit history searching, and a unique result scoring system. A batch-catching, pattern-matching, patch-attacking secret snatcher.
+- [cli](https://github.com/cli/cli)
+  - GitHub’s official command line tool
+- [tidb](https://github.com/pingcap/tidb)
+  - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+- [flux](https://github.com/fluxcd/flux)
+  - The GitOps Kubernetes operator
+- [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+  - A reverse proxy that provides authentication with Google, Github or other providers.
+- [go](https://github.com/golang/go)
+  - The Go programming language
+- [gin](https://github.com/gin-gonic/gin)
+  - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+- [argo](https://github.com/argoproj/argo)
+  - Argo Workflows: Get stuff done with Kubernetes.
+- [tailscale](https://github.com/tailscale/tailscale)
+  - The easiest, most secure way to use WireGuard and 2FA.
+- [toxiproxy](https://github.com/Shopify/toxiproxy)
+  - ⏰ 🔥 A TCP proxy to simulate network and system conditions for chaos and resiliency testing
+- [mysql](https://github.com/go-sql-driver/mysql)
+  - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
+- [opa](https://github.com/open-policy-agent/opa)
+  - An open source, general-purpose policy engine.
+- [opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector)
+  - OpenTelemetry Service
+- [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway)
+  - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [terraform](https://github.com/hashicorp/terraform)
   - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [jaeger](https://github.com/jaegertracing/jaeger)
+  - CNCF Jaeger, a Distributed Tracing Platform
+- [linkerd2](https://github.com/linkerd/linkerd2)
+  - A service mesh for Kubernetes and beyond. Main repo for Linkerd 2.x.

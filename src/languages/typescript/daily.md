@@ -1,51 +1,51 @@
 # typescript
-- [vscode-drawio](https://github.com/hediet/vscode-drawio)
-  - This extension integrates Draw.io into VS Code.
-- [maratona2-plataforma-lives](https://github.com/codeedu/maratona2-plataforma-lives)
-  - 
-- [deno](https://github.com/denoland/deno)
-  - A secure JavaScript and TypeScript runtime
-- [pico](https://github.com/nikersify/pico)
-  - Take browser screenshots in Javascript 📸
 - [vuetify](https://github.com/vuetifyjs/vuetify)
   - 🐉 Material Component Framework for Vue
-- [swr](https://github.com/zeit/swr)
-  - React Hooks library for remote data fetching
-- [face-api.js](https://github.com/justadudewhohacks/face-api.js)
-  - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
-- [formik](https://github.com/jaredpalmer/formik)
-  - Build forms in React, without the tears 😭
-- [mkdocs-material](https://github.com/squidfunk/mkdocs-material)
-  - A Material Design theme for MkDocs
-- [vite](https://github.com/vuejs/vite)
-  - Make Web Dev Fast Again
+- [deno](https://github.com/denoland/deno)
+  - A secure JavaScript and TypeScript runtime
+- [vscode-drawio](https://github.com/hediet/vscode-drawio)
+  - This extension integrates Draw.io into VS Code.
+- [components](https://github.com/angular/components)
+  - Component infrastructure and Material Design components for Angular
+- [ionic](https://github.com/ionic-team/ionic)
+  - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
+  - 📋 React hooks for forms validation without the hassle.
+- [kubeapps](https://github.com/kubeapps/kubeapps)
+  - A web-based UI for deploying and managing applications in Kubernetes clusters
+- [pico](https://github.com/nikersify/pico)
+  - Take browser screenshots in Javascript 📸
+- [pipelines](https://github.com/kubeflow/pipelines)
+  - Machine Learning Pipelines for Kubeflow
+- [rome](https://github.com/romejs/rome)
+  - An experimental JavaScript toolchain
+- [TypeScript](https://github.com/microsoft/TypeScript)
+  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware)
+  - ⚡ The one-liner node.js http-proxy middleware for connect, express and browser-sync
 - [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)
   - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
-- [rome](https://github.com/facebookexperimental/rome)
-  - An experimental JavaScript toolchain
-- [platform](https://github.com/ngrx/platform)
-  - Reactive libraries for Angular
-- [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)
-  - An enterprise-class UI components based on Ant Design and Angular. 🐜
-- [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
-  - 💬 The most complete chat UI for React Native
-- [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
-  - Tasks for Azure Pipelines
-- [react-dnd](https://github.com/react-dnd/react-dnd)
-  - Drag and Drop for React
-- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-  - The repository for high quality TypeScript type definitions.
+- [html2canvas](https://github.com/niklasvh/html2canvas)
+  - Screenshots with JavaScript
+- [angular](https://github.com/angular/angular)
+  - One framework. Mobile & desktop.
+- [checkout](https://github.com/actions/checkout)
+  - Action for checking out a repo
+- [signature_pad](https://github.com/szimek/signature_pad)
+  - HTML5 canvas based smooth signature drawing
+- [react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide)
+  - The complete guide to static typing in "React & Redux" apps using TypeScript
+- [recharts](https://github.com/recharts/recharts)
+  - Redefined chart library built with React and D3
+- [rough](https://github.com/pshihn/rough)
+  - Create graphics with a hand-drawn, sketchy, appearance
+- [amplify-js](https://github.com/aws-amplify/amplify-js)
+  - A declarative JavaScript library for application development using cloud services.
+- [nest](https://github.com/nestjs/nest)
+  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [prism](https://github.com/stoplightio/prism)
+  - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
+- [model-viewer](https://github.com/google/model-viewer)
+  - Easily display interactive 3D models on the web and in AR!
 - [opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js)
   - OpenTelemetry JavaScript API and SDK
-- [commitlint](https://github.com/conventional-changelog/commitlint)
-  - 📓 Lint commit messages
-- [linaria](https://github.com/callstack/linaria)
-  - Zero-runtime CSS in JS library
-- [vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples)
-  - Sample code illustrating the VS Code extension API.
-- [ant-design](https://github.com/ant-design/ant-design)
-  - 🌈 A UI Design Language and React UI library
-- [react-use](https://github.com/streamich/react-use)
-  - React Hooks — 👍
-- [react-apollo](https://github.com/apollographql/react-apollo)
-  - ♻️ React integration for Apollo Client
