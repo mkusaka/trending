@@ -1,51 +1,51 @@
 # javascript
 - [pose-animator](https://github.com/yemount/pose-animator)
   - 
-- [github-vscode-theme](https://github.com/primer/github-vscode-theme)
-  - GitHub's VS Code theme
-- [drawio-desktop](https://github.com/jgraph/drawio-desktop)
-  - Official electron build of diagrams.net
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [drawio](https://github.com/jgraph/drawio)
-  - Source to app.diagrams.net
-- [unfetter](https://github.com/unfetter-discover/unfetter)
-  - The main project for the Unfetter-Discover application. This is the project that will hold the configuration files, the docker-compose files, issue tracking, and documentation
-- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
-  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
-- [eslint](https://github.com/eslint/eslint)
-  - Find and fix problems in your JavaScript code.
-- [deep-waters](https://github.com/antonioru/deep-waters)
-  - 🔥Deep Waters is an easy-to-compose functional validation system for javascript developers 🔥
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
-- [vue-cli](https://github.com/vuejs/vue-cli)
-  - 🛠️ Standard Tooling for Vue.js Development
-- [fabric.js](https://github.com/fabricjs/fabric.js)
-  - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
-- [slate](https://github.com/ianstormtaylor/slate)
-  - A completely customizable framework for building rich text editors. (Currently in beta.)
-- [Rocket.Chat.ReactNative](https://github.com/RocketChat/Rocket.Chat.ReactNative)
-  - Rocket.Chat mobile clients
-- [discord.js](https://github.com/discordjs/discord.js)
-  - A powerful JavaScript library for interacting with the Discord API
 - [next.js](https://github.com/zeit/next.js)
   - The React Framework
-- [pdfmake](https://github.com/bpampuch/pdfmake)
-  - Client/server side PDF printing in pure JavaScript
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [iptv](https://github.com/iptv-org/iptv)
-  - Collection of 8000+ publicly available IPTV channels from all over the world
-- [wtfjs](https://github.com/denysdovhan/wtfjs)
-  - A list of funny and tricky JavaScript examples
-- [eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import)
-  - ESLint plugin with rules that help validate proper imports.
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable)
-  - Vue drag-and-drop component based on Sortable.js
-- [markdown-here](https://github.com/adam-p/markdown-here)
-  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+- [spug](https://github.com/openspug/spug)
+  - 开源运维平台：面向中小型企业设计的无 Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、应用发布、任务计划、配置中心、监控、报警等一系列功能。
+- [react-table](https://github.com/tannerlinsley/react-table)
+  - ⚛️ Hooks for building fast and extendable tables and datagrids for React
+- [gatsby](https://github.com/gatsbyjs/gatsby)
+  - Build blazing fast, modern apps and websites with React
+- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+- [bootstrap](https://github.com/twbs/bootstrap)
+  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [video.js](https://github.com/videojs/video.js)
+  - Video.js - open source HTML5 & Flash video player
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+  - Cheatsheets for experienced React developers getting started with TypeScript
+- [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue)
+  - BootstrapVue, with over 45 plugins, more than 85 custom components and over 500 icons, provides one of the most comprehensive implementations of Bootstrap v4 components and grid system for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
+- [github-vscode-theme](https://github.com/primer/github-vscode-theme)
+  - GitHub's VS Code theme
+- [ccxt](https://github.com/ccxt/ccxt)
+  - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
+- [vue](https://github.com/vuejs/vue)
+  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
 - [bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker)
   - A datepicker for twitter bootstrap (@twbs)
+- [markdown-here](https://github.com/adam-p/markdown-here)
+  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+- [fullcalendar](https://github.com/fullcalendar/fullcalendar)
+  - Full-sized drag & drop event calendar
+- [lib-jitsi-meet](https://github.com/jitsi/lib-jitsi-meet)
+  - A low-level JS video API that allows adding a completely custom video experience to web apps.
+- [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
+  - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
+- [select2](https://github.com/select2/select2)
+  - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
+- [draft-js](https://github.com/facebook/draft-js)
+  - A React framework for building text editors.
+- [axios](https://github.com/axios/axios)
+  - Promise based HTTP client for the browser and node.js
+- [react-query](https://github.com/tannerlinsley/react-query)
+  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+- [fabric.js](https://github.com/fabricjs/fabric.js)
+  - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser

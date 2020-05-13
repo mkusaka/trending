@@ -1,51 +1,51 @@
 # rust
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [smol](https://github.com/stjepang/smol)
-  - A small and fast async runtime for Rust
-- [sqlx](https://github.com/launchbadge/sqlx)
-  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-- [tikv](https://github.com/tikv/tikv)
-  - Distributed transactional key-value database, originally created to complement TiDB
-- [nushell](https://github.com/nushell/nushell)
-  - A new type of shell
 - [starship](https://github.com/starship/starship)
   - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [minesweeper-rs](https://github.com/robmikh/minesweeper-rs)
-  - A port of robmikh/Minesweeper using winrt-rs.
-- [pick-json](https://github.com/GerardRodes/pick-json)
-  - Read a single attribute of a json and stop there
-- [blocking](https://github.com/stjepang/blocking)
-  - An executor for isolating blocking I/O in async programs
-- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
-  - Facilitating high-level interactions between Wasm modules and JavaScript
-- [orbtk](https://github.com/redox-os/orbtk)
-  - The Rust UI-Toolkit.
-- [openethereum](https://github.com/openethereum/openethereum)
-  - Fast and feature-rich multi-network Ethereum client.
+- [talent-plan](https://github.com/pingcap/talent-plan)
+  - open source training courses about distributed systems and distributed systemes
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
+- [rustlings](https://github.com/rust-lang/rustlings)
+  - 🦀 Small exercises to get you used to reading and writing Rust code!
+- [nushell](https://github.com/nushell/nushell)
+  - A new type of shell
+- [wasmer](https://github.com/wasmerio/wasmer)
+  - 🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten
+- [ruruby](https://github.com/sisshiki1969/ruruby)
+  - An alternative Ruby implementation by Rust.
 - [rust](https://github.com/rust-lang/rust)
   - Empowering everyone to build reliable and efficient software.
-- [mdBook](https://github.com/rust-lang/mdBook)
-  - Create book from markdown files. Like Gitbook but implemented in Rust
+- [indy-sdk](https://github.com/hyperledger/indy-sdk)
+  - Everything needed to build applications that interact with an Indy distributed identity ledger.
 - [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
   - An experimental Rust compiler front-end for IDEs
-- [polkadot](https://github.com/paritytech/polkadot)
-  - Polkadot Node Implementation
-- [wasmtime](https://github.com/bytecodealliance/wasmtime)
-  - Standalone JIT-style runtime for WebAssembly, using Cranelift
-- [rio](https://github.com/spacejam/rio)
-  - pure rust io_uring library, built on libc, thread & async friendly, misuse resistant
+- [cargo](https://github.com/rust-lang/cargo)
+  - The Rust package manager
+- [openethereum](https://github.com/openethereum/openethereum)
+  - Fast and feature-rich multi-network Ethereum client.
+- [orbtk](https://github.com/redox-os/orbtk)
+  - The Rust UI-Toolkit.
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
+- [rusty_v8](https://github.com/denoland/rusty_v8)
+  - V8 javascript bindings for Rust
+- [diesel](https://github.com/diesel-rs/diesel)
+  - A safe, extensible ORM and Query Builder for Rust
+- [warp](https://github.com/seanmonstar/warp)
+  - A super-easy, composable, web server framework for warp speeds.
+- [tock](https://github.com/tock/tock)
+  - A secure embedded operating system for microcontrollers
+- [pyo3](https://github.com/PyO3/pyo3)
+  - Rust bindings for the Python interpreter
+- [tracing](https://github.com/tokio-rs/tracing)
+  - Application level tracing for Rust.
+- [tikv](https://github.com/tikv/tikv)
+  - Distributed transactional key-value database, originally created to complement TiDB
+- [websocat](https://github.com/vi/websocat)
+  - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [examples](https://github.com/actix/examples)
   - Actix web examples
-- [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim)
-  - Language Server Protocol (LSP) support for vim and neovim.
-- [lemmy](https://github.com/LemmyNet/lemmy)
-  - 🐀 Building a federated alternative to reddit in rust
-- [rust-psp](https://github.com/overdrivenpotato/rust-psp)
-  - Rust on PSP. Panic and allocation support. Access PSP system libraries.
-- [amethyst](https://github.com/amethyst/amethyst)
-  - Data-oriented and data-driven game engine written in Rust
-- [winrt-rs](https://github.com/microsoft/winrt-rs)
-  - Rust/WinRT is a Rust language projection for the Windows Runtime

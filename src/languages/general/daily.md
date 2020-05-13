@@ -1,50 +1,49 @@
 # general
-- [InterpretableMLBook](https://github.com/MingchaoZhu/InterpretableMLBook) : 
-  - 《可解释的机器学习--黑盒模型可解释性理解指南》，该书为《Interpretable Machine Learning》中文版
-- [U-2-Net](https://github.com/NathanUA/U-2-Net) : Python
-  - The code for our newly accepted paper in Pattern Recognition 2020: "U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection."
-- [rawdrawandroid](https://github.com/cnlohr/rawdrawandroid) : C
-  - Build android apps without any java, entirely in C
 - [spring-analysis](https://github.com/seaswalker/spring-analysis) : Java
   - Spring源码阅读
-- [sm64pc](https://github.com/sm64pc/sm64pc) : C
-  - OpenGL adaptation of n64decomp/sm64.
-- [pose-animator](https://github.com/yemount/pose-animator) : JavaScript
-- [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) : Java
-  - spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…
-- [mobile-android](https://github.com/AU-COVIDSafe/mobile-android) : Kotlin
-  - COVIDSafe android app
-- [github-vscode-theme](https://github.com/primer/github-vscode-theme) : JavaScript
-  - GitHub's VS Code theme
-- [Python](https://github.com/TheAlgorithms/Python) : Python
-  - All Algorithms implemented in Python
-- [vscode-drawio](https://github.com/hediet/vscode-drawio) : TypeScript
-  - This extension integrates Draw.io into VS Code.
-- [learn-istio](https://github.com/askmeegs/learn-istio) : 
-  - ⛵️ Istio resources 🕸
+- [InterpretableMLBook](https://github.com/MingchaoZhu/InterpretableMLBook) : 
+  - 《可解释的机器学习--黑盒模型可解释性理解指南》，该书为《Interpretable Machine Learning》中文版
+- [lynis](https://github.com/CISOfy/lynis) : Shell
+  - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
+- [incubator-apisix](https://github.com/apache/incubator-apisix) : Lua
+  - Cloud-Native Microservices API Gateway
+- [azure-powershell](https://github.com/Azure/azure-powershell) : C#
+  - Microsoft Azure PowerShell
+- [awesome-baremetal](https://github.com/alexellis/awesome-baremetal) : 
+  - Bare-metal is awesome. Let's share our favourite tools.
+- [EasyFN](https://github.com/LupusLeaks/EasyFN) : Shell
+  - (UPDATING PLEASE WAIT) With EasyFNBot you can easily create you own Fortnite Lobby Bot in less then 5 minutes which will be online forever!
 - [DeepLearning](https://github.com/MingchaoZhu/DeepLearning) : Python
   - Python for “Deep Learning”，《深度学习》(花书) 数学推导、原理剖析与源码级别代码实现
-- [pi-hole](https://github.com/pi-hole/pi-hole) : Shell
-  - A black hole for Internet advertisements
+- [Python](https://github.com/TheAlgorithms/Python) : Python
+  - All Algorithms implemented in Python
+- [spycheck-linux](https://github.com/BjornRuytenberg/spycheck-linux) : Python
+  - Verify whether your Thunderbolt-enabled Linux system is vulnerable to the Thunderspy attacks.
+- [pose-animator](https://github.com/yemount/pose-animator) : JavaScript
+- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) : PowerShell
+  - Azure Quickstart Templates
+- [googleapis](https://github.com/googleapis/googleapis) : Starlark
+  - Public interface definitions of Google APIs.
+- [postwoman](https://github.com/liyasthomas/postwoman) : Vue
+  - 👽 A free, fast and beautiful API request builder (web alternative to Postman) https://postwoman.io
+- [next.js](https://github.com/zeit/next.js) : JavaScript
+  - The React Framework
+- [public-apis](https://github.com/public-apis/public-apis) : Python
+  - A collective list of free APIs for use in software and web development.
 - [interviews](https://github.com/kdn251/interviews) : Java
   - Everything you need to know to get the job.
-- [DeOldify](https://github.com/jantic/DeOldify) : Jupyter Notebook
-  - A Deep Learning based project for colorizing and restoring old images (and video!)
-- [CustomArch](https://github.com/adi1090x/CustomArch) : Shell
-  - Various Arch Linux Based Custom ISOs Made With "Archiso"
-- [viper](https://github.com/spf13/viper) : Go
-  - Go configuration with fangs
-- [awesomefluttertips](https://github.com/erluxman/awesomefluttertips) : Dart
-  - ❤️Awesome Flutter ❤️ tips and tricks ❤️
+- [interpretable-ml-book](https://github.com/christophM/interpretable-ml-book) : Jupyter Notebook
+  - Book about interpretable machine learning
+- [tidytuesday](https://github.com/rfordatascience/tidytuesday) : HTML
+  - Official repo for the #tidytuesday project
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) : 
+  - Master the command line, in one page
+- [spug](https://github.com/openspug/spug) : JavaScript
+  - 开源运维平台：面向中小型企业设计的无 Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、应用发布、任务计划、配置中心、监控、报警等一系列功能。
 - [Ventoy](https://github.com/ventoy/Ventoy) : C
   - A new bootable USB solution.
-- [index](https://github.com/sphawes/index) : C++
-  - The Index is an open source pick and place machine.
-- [yubikey-agent](https://github.com/FiloSottile/yubikey-agent) : Go
-  - yubikey-agent is a seamless ssh-agent for YubiKeys.
-- [excelize](https://github.com/360EntSecGroup-Skylar/excelize) : Go
-  - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
-- [ray](https://github.com/ray-project/ray) : Python
-  - A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
-- [pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) : Python
-  - The lightweight PyTorch wrapper for ML researchers. Scale your models. Write less boilerplate
+- [protobuf](https://github.com/protocolbuffers/protobuf) : C++
+  - Protocol Buffers - Google's data interchange format
+- [framework](https://github.com/laravel/framework) : PHP
+- [vuetify](https://github.com/vuetifyjs/vuetify) : TypeScript
+  - 🐉 Material Component Framework for Vue
