@@ -1,49 +1,51 @@
 # general
-- [spring-analysis](https://github.com/seaswalker/spring-analysis) : Java
-  - Spring源码阅读
-- [InterpretableMLBook](https://github.com/MingchaoZhu/InterpretableMLBook) : 
-  - 《可解释的机器学习--黑盒模型可解释性理解指南》，该书为《Interpretable Machine Learning》中文版
+- [sha256-animation](https://github.com/in3rsha/sha256-animation) : Ruby
+  - Animation of the SHA-256 hash function in your terminal.
+- [cli](https://github.com/cli/cli) : Go
+  - GitHub’s official command line tool
+- [intelligent-test-platform](https://github.com/alibaba/intelligent-test-platform) : JavaScript
+  - intelligent-test-platform
 - [lynis](https://github.com/CISOfy/lynis) : Shell
   - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
-- [incubator-apisix](https://github.com/apache/incubator-apisix) : Lua
-  - Cloud-Native Microservices API Gateway
-- [azure-powershell](https://github.com/Azure/azure-powershell) : C#
-  - Microsoft Azure PowerShell
-- [awesome-baremetal](https://github.com/alexellis/awesome-baremetal) : 
-  - Bare-metal is awesome. Let's share our favourite tools.
-- [EasyFN](https://github.com/LupusLeaks/EasyFN) : Shell
-  - (UPDATING PLEASE WAIT) With EasyFNBot you can easily create you own Fortnite Lobby Bot in less then 5 minutes which will be online forever!
-- [DeepLearning](https://github.com/MingchaoZhu/DeepLearning) : Python
-  - Python for “Deep Learning”，《深度学习》(花书) 数学推导、原理剖析与源码级别代码实现
 - [Python](https://github.com/TheAlgorithms/Python) : Python
   - All Algorithms implemented in Python
-- [spycheck-linux](https://github.com/BjornRuytenberg/spycheck-linux) : Python
-  - Verify whether your Thunderbolt-enabled Linux system is vulnerable to the Thunderspy attacks.
-- [pose-animator](https://github.com/yemount/pose-animator) : JavaScript
-- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) : PowerShell
-  - Azure Quickstart Templates
-- [googleapis](https://github.com/googleapis/googleapis) : Starlark
-  - Public interface definitions of Google APIs.
-- [postwoman](https://github.com/liyasthomas/postwoman) : Vue
-  - 👽 A free, fast and beautiful API request builder (web alternative to Postman) https://postwoman.io
-- [next.js](https://github.com/zeit/next.js) : JavaScript
-  - The React Framework
-- [public-apis](https://github.com/public-apis/public-apis) : Python
-  - A collective list of free APIs for use in software and web development.
-- [interviews](https://github.com/kdn251/interviews) : Java
-  - Everything you need to know to get the job.
-- [interpretable-ml-book](https://github.com/christophM/interpretable-ml-book) : Jupyter Notebook
-  - Book about interpretable machine learning
-- [tidytuesday](https://github.com/rfordatascience/tidytuesday) : HTML
-  - Official repo for the #tidytuesday project
-- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) : 
-  - Master the command line, in one page
+- [harbor](https://github.com/goharbor/harbor) : Go
+  - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [spug](https://github.com/openspug/spug) : JavaScript
   - 开源运维平台：面向中小型企业设计的无 Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、应用发布、任务计划、配置中心、监控、报警等一系列功能。
-- [Ventoy](https://github.com/ventoy/Ventoy) : C
-  - A new bootable USB solution.
-- [protobuf](https://github.com/protocolbuffers/protobuf) : C++
-  - Protocol Buffers - Google's data interchange format
-- [framework](https://github.com/laravel/framework) : PHP
-- [vuetify](https://github.com/vuetifyjs/vuetify) : TypeScript
-  - 🐉 Material Component Framework for Vue
+- [android-showcase](https://github.com/igorwojda/android-showcase) : Kotlin
+  - 💎 Android application following best practices: Kotlin, coroutines, Clean Architecture, feature modules, tests, MVVM, static analysis...
+- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) : PowerShell
+  - Azure Quickstart Templates
+- [deno](https://github.com/denoland/deno) : TypeScript
+  - A secure JavaScript and TypeScript runtime
+- [Prometheus-Basics](https://github.com/yolossn/Prometheus-Basics) : Go
+  - A beginner friendly introduction to prometheus 🔥
+- [AWS-SAA-C02-Course](https://github.com/alozano-77/AWS-SAA-C02-Course) : 
+  - Personal notes for SAA-C02 test from:
+- [diagrams](https://github.com/mingrammer/diagrams) : Python
+  - 🎨 Diagram as Code for prototyping cloud system architectures
+- [DeepLearning](https://github.com/MingchaoZhu/DeepLearning) : Python
+  - Python for “Deep Learning”，《深度学习》(花书) 数学推导、原理剖析与源码级别代码实现
+- [jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot) : Java
+  - 基于代码生成器的低代码开发平台，开源界“小普元”超越传统商业开发平台！前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新开发模式(OnlineCoding-> 代码生成-> 手工MERGE)，帮助Java项目解决70%重复工作，让开发更关注业务逻辑，既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。
+- [horovod](https://github.com/horovod/horovod) : Python
+  - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
+- [spring-analysis](https://github.com/seaswalker/spring-analysis) : Java
+  - Spring源码阅读
+- [DeepFaceLab](https://github.com/iperov/DeepFaceLab) : Python
+  - DeepFaceLab is the leading software for creating deepfakes.
+- [onnx](https://github.com/onnx/onnx) : PureBasic
+  - Open standard for machine learning interoperability
+- [azure-powershell](https://github.com/Azure/azure-powershell) : C#
+  - Microsoft Azure PowerShell
+- [pi-hole](https://github.com/pi-hole/pi-hole) : Shell
+  - A black hole for Internet advertisements
+- [yapi](https://github.com/YMFE/yapi) : JavaScript
+  - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
+- [transformers](https://github.com/huggingface/transformers) : Python
+  - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
+- [flux](https://github.com/fluxcd/flux) : Go
+  - The GitOps Kubernetes operator
+- [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm) : Go
+  - Terraform provider for Azure Resource Manager
