@@ -13,7 +13,7 @@
 - [harbor](https://github.com/goharbor/harbor) : Go
   - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [spug](https://github.com/openspug/spug) : JavaScript
-  - 开源运维平台：面向中小型企业设计的无 Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、应用发布、任务计划、配置中心、监控、报警等一系列功能。
+  - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
 - [android-showcase](https://github.com/igorwojda/android-showcase) : Kotlin
   - 💎 Android application following best practices: Kotlin, coroutines, Clean Architecture, feature modules, tests, MVVM, static analysis...
 - [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) : PowerShell
@@ -27,7 +27,7 @@
 - [diagrams](https://github.com/mingrammer/diagrams) : Python
   - 🎨 Diagram as Code for prototyping cloud system architectures
 - [DeepLearning](https://github.com/MingchaoZhu/DeepLearning) : Python
-  - Python for “Deep Learning”，《深度学习》(花书) 数学推导、原理剖析与源码级别代码实现
+  - Python for “Deep Learning”，该书为《深度学习》(花书) 数学推导、原理剖析与源码级别代码实现
 - [jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot) : Java
   - 基于代码生成器的低代码开发平台，开源界“小普元”超越传统商业开发平台！前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新开发模式(OnlineCoding-> 代码生成-> 手工MERGE)，帮助Java项目解决70%重复工作，让开发更关注业务逻辑，既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。
 - [horovod](https://github.com/horovod/horovod) : Python
@@ -105,7 +105,7 @@
 - [intelligent-test-platform](https://github.com/alibaba/intelligent-test-platform)
   - intelligent-test-platform
 - [spug](https://github.com/openspug/spug)
-  - 开源运维平台：面向中小型企业设计的无 Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、应用发布、任务计划、配置中心、监控、报警等一系列功能。
+  - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
 - [yapi](https://github.com/YMFE/yapi)
   - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
 - [dom-testing-library](https://github.com/testing-library/dom-testing-library)

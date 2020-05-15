@@ -2,7 +2,7 @@
 - [intelligent-test-platform](https://github.com/alibaba/intelligent-test-platform)
   - intelligent-test-platform
 - [spug](https://github.com/openspug/spug)
-  - 开源运维平台：面向中小型企业设计的无 Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、应用发布、任务计划、配置中心、监控、报警等一系列功能。
+  - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
 - [yapi](https://github.com/YMFE/yapi)
   - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
 - [dom-testing-library](https://github.com/testing-library/dom-testing-library)
