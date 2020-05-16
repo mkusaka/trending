@@ -1,51 +1,51 @@
 # general
-- [sha256-animation](https://github.com/in3rsha/sha256-animation) : Ruby
-  - Animation of the SHA-256 hash function in your terminal.
-- [cli](https://github.com/cli/cli) : Go
-  - GitHub’s official command line tool
-- [intelligent-test-platform](https://github.com/alibaba/intelligent-test-platform) : JavaScript
-  - intelligent-test-platform
-- [lynis](https://github.com/CISOfy/lynis) : Shell
-  - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
-- [Python](https://github.com/TheAlgorithms/Python) : Python
-  - All Algorithms implemented in Python
-- [harbor](https://github.com/goharbor/harbor) : Go
-  - An open source trusted cloud native registry project that stores, signs, and scans content.
-- [spug](https://github.com/openspug/spug) : JavaScript
-  - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
-- [android-showcase](https://github.com/igorwojda/android-showcase) : Kotlin
-  - 💎 Android application following best practices: Kotlin, coroutines, Clean Architecture, feature modules, tests, MVVM, static analysis...
-- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) : PowerShell
-  - Azure Quickstart Templates
-- [deno](https://github.com/denoland/deno) : TypeScript
-  - A secure JavaScript and TypeScript runtime
-- [Prometheus-Basics](https://github.com/yolossn/Prometheus-Basics) : Go
-  - A beginner friendly introduction to prometheus 🔥
-- [AWS-SAA-C02-Course](https://github.com/alozano-77/AWS-SAA-C02-Course) : 
-  - Personal notes for SAA-C02 test from:
-- [diagrams](https://github.com/mingrammer/diagrams) : Python
-  - 🎨 Diagram as Code for prototyping cloud system architectures
-- [DeepLearning](https://github.com/MingchaoZhu/DeepLearning) : Python
-  - Python for “Deep Learning”，该书为《深度学习》(花书) 数学推导、原理剖析与源码级别代码实现
-- [jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot) : Java
-  - 基于代码生成器的低代码开发平台，开源界“小普元”超越传统商业开发平台！前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新开发模式(OnlineCoding-> 代码生成-> 手工MERGE)，帮助Java项目解决70%重复工作，让开发更关注业务逻辑，既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。
-- [horovod](https://github.com/horovod/horovod) : Python
-  - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
-- [spring-analysis](https://github.com/seaswalker/spring-analysis) : Java
-  - Spring源码阅读
-- [DeepFaceLab](https://github.com/iperov/DeepFaceLab) : Python
-  - DeepFaceLab is the leading software for creating deepfakes.
-- [onnx](https://github.com/onnx/onnx) : PureBasic
-  - Open standard for machine learning interoperability
-- [azure-powershell](https://github.com/Azure/azure-powershell) : C#
-  - Microsoft Azure PowerShell
-- [pi-hole](https://github.com/pi-hole/pi-hole) : Shell
-  - A black hole for Internet advertisements
-- [yapi](https://github.com/YMFE/yapi) : JavaScript
-  - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
-- [transformers](https://github.com/huggingface/transformers) : Python
-  - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
+- [Recoil](https://github.com/facebookexperimental/Recoil) : JavaScript
+  - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
+- [reverse-proxy](https://github.com/microsoft/reverse-proxy) : C#
+  - A toolkit for developing high-performance HTTP reverse proxy applications.
 - [flux](https://github.com/fluxcd/flux) : Go
   - The GitOps Kubernetes operator
-- [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm) : Go
-  - Terraform provider for Azure Resource Manager
+- [Python](https://github.com/TheAlgorithms/Python) : Python
+  - All Algorithms implemented in Python
+- [CocoaPods](https://github.com/CocoaPods/CocoaPods) : Ruby
+  - The Cocoa Dependency Manager.
+- [documentation](https://github.com/immuni-app/documentation) : 
+  - Repo for Immuni's documentation.
+- [deno](https://github.com/denoland/deno) : TypeScript
+  - A secure JavaScript and TypeScript runtime
+- [exposure-notifications-server](https://github.com/google/exposure-notifications-server) : Go
+  - Exposure Notification Reference Server | Covid-19 Exposure Notifications
+- [Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code) : Python
+  - 手写实现李航《统计学习方法》书中全部算法
+- [cli](https://github.com/cli/cli) : Go
+  - GitHub’s official command line tool
+- [Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) : C#
+  - Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#)
+- [deno_website2](https://github.com/denoland/deno_website2) : TypeScript
+  - deno.land website
+- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) : PowerShell
+  - Azure Quickstart Templates
+- [flutterfire](https://github.com/FirebaseExtended/flutterfire) : Dart
+  - 🔥 Firebase plugins for Flutter apps
+- [detectron2](https://github.com/facebookresearch/detectron2) : Python
+  - Detectron2 is FAIR's next-generation platform for object detection and segmentation.
+- [app-ideas](https://github.com/florinpop17/app-ideas) : 
+  - A Collection of application ideas which can be used to improve your coding skills.
+- [nushell](https://github.com/nushell/nushell) : Rust
+  - A new type of shell
+- [documents](https://github.com/DP-3T/documents) : Shell
+  - Decentralized Privacy-Preserving Proximity Tracing -- Documents
+- [cypress](https://github.com/cypress-io/cypress) : JavaScript
+  - Fast, easy and reliable testing for anything that runs in a browser.
+- [swift-benchmark](https://github.com/google/swift-benchmark) : Swift
+  - A swift library to benchmark code snippets.
+- [jax](https://github.com/google/jax) : Python
+  - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+- [diagrams](https://github.com/mingrammer/diagrams) : Python
+  - 🎨 Diagram as Code for prototyping cloud system architectures
+- [covid-19](https://github.com/datasets/covid-19) : Python
+  - Novel Coronavirus 2019 time series data on cases
+- [horovod](https://github.com/horovod/horovod) : Python
+  - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
+- [serenity](https://github.com/SerenityOS/serenity) : C++
+  - The Serenity Operating System 🐞

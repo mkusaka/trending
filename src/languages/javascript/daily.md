@@ -1,51 +1,51 @@
 # javascript
-- [intelligent-test-platform](https://github.com/alibaba/intelligent-test-platform)
-  - intelligent-test-platform
+- [Recoil](https://github.com/facebookexperimental/Recoil)
+  - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
+- [cypress](https://github.com/cypress-io/cypress)
+  - Fast, easy and reliable testing for anything that runs in a browser.
+- [csgo-commend-bot](https://github.com/BeepIsla/csgo-commend-bot)
+  - Commend/Report bot in NodeJS
+- [node](https://github.com/nodejs/node)
+  - Node.js JavaScript runtime ✨🐢🚀✨
+- [crypto-js](https://github.com/brix/crypto-js)
+  - JavaScript library of crypto standards.
+- [material-table](https://github.com/mbrn/material-table)
+  - Datatable for React based on material-ui's table with additional features
+- [redash](https://github.com/getredash/redash)
+  - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+- [reveal.js](https://github.com/hakimel/reveal.js)
+  - The HTML Presentation Framework
+- [jira_clone](https://github.com/oldboyxx/jira_clone)
+  - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
+- [the-one-cert](https://github.com/flotwig/the-one-cert)
+  - One cert to rule them all: SSL cert that is valid for any and all domains + all levels of subdomains
+- [react-select](https://github.com/JedWatson/react-select)
+  - The Select Component for React.js
+- [awesome-ctf](https://github.com/apsdehal/awesome-ctf)
+  - A curated list of CTF frameworks, libraries, resources and softwares
 - [spug](https://github.com/openspug/spug)
   - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
-- [yapi](https://github.com/YMFE/yapi)
-  - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
-- [dom-testing-library](https://github.com/testing-library/dom-testing-library)
-  - 🐙 Simple and complete DOM testing utilities that encourage good testing practices.
-- [react-interactive-paycard](https://github.com/jasminmif/react-interactive-paycard)
-  - Interactive React Paycard
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
-  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
-- [bootstrap](https://github.com/twbs/bootstrap)
-  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [serverless](https://github.com/serverless/serverless)
-  - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
-- [lodash](https://github.com/lodash/lodash)
-  - A modern JavaScript utility library delivering modularity, performance, & extras.
-- [appium](https://github.com/appium/appium)
-  - 📱 Automation for iOS, Android, and Windows Apps.
-- [renren-fast-vue](https://github.com/renrenio/renren-fast-vue)
-  - renren-fast-vue基于vue、element-ui构建开发，实现renren-fast后台管理前端功能，提供一套更优的前端解决方案。
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
   - ✅ The Node.js best practices list (May 2020)
-- [graphql-js](https://github.com/graphql/graphql-js)
-  - A reference implementation of GraphQL for JavaScript
-- [strapi](https://github.com/strapi/strapi)
-  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
+  - A WhatsApp client library that connects through the WhatsApp Web browser app
+- [intelligent-test-platform](https://github.com/alibaba/intelligent-test-platform)
+  - intelligent-test-platform
+- [react-table](https://github.com/tannerlinsley/react-table)
+  - ⚛️ Hooks for building fast and extendable tables and datagrids for React
+- [carbon](https://github.com/carbon-design-system/carbon)
+  - A design system built by IBM
 - [next.js](https://github.com/zeit/next.js)
   - The React Framework
-- [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue)
-  - BootstrapVue, with over 45 plugins, more than 85 custom components and over 500 icons, provides one of the most comprehensive implementations of Bootstrap v4 components and grid system for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
-- [awx](https://github.com/ansible/awx)
-  - AWX Project
-- [react-virtualized](https://github.com/bvaughn/react-virtualized)
-  - React components for efficiently rendering large lists and tabular data
-- [lib-jitsi-meet](https://github.com/jitsi/lib-jitsi-meet)
-  - A low-level JS video API that allows adding a completely custom video experience to web apps.
-- [create-react-app](https://github.com/facebook/create-react-app)
-  - Set up a modern web app by running one command.
+- [noVNC](https://github.com/novnc/noVNC)
+  - VNC client web application
+- [node-http-proxy](https://github.com/http-party/node-http-proxy)
+  - A full-featured http proxy for node.js
+- [appium](https://github.com/appium/appium)
+  - 📱 Automation for iOS, Android, and Windows Apps.
+- [vuepress](https://github.com/vuejs/vuepress)
+  - 📝 Minimalistic Vue-powered static site generator
+- [slick](https://github.com/kenwheeler/slick)
+  - the last carousel you'll ever need
 - [gatsby](https://github.com/gatsbyjs/gatsby)
   - Build blazing fast, modern apps and websites with React
-- [draggable](https://github.com/Shopify/draggable)
-  - The JavaScript Drag & Drop library your grandparents warned you about.
-- [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React)
-  - The official Semantic-UI-React integration
-- [react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc)
-  - A set of higher-order components to turn any list into an animated, accessible and touch-friendly sortable list✌️
