@@ -1,51 +1,50 @@
 # general
-- [Recoil](https://github.com/facebookexperimental/Recoil) : JavaScript
-  - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
-- [reverse-proxy](https://github.com/microsoft/reverse-proxy) : C#
-  - A toolkit for developing high-performance HTTP reverse proxy applications.
-- [flux](https://github.com/fluxcd/flux) : Go
-  - The GitOps Kubernetes operator
-- [Python](https://github.com/TheAlgorithms/Python) : Python
-  - All Algorithms implemented in Python
-- [CocoaPods](https://github.com/CocoaPods/CocoaPods) : Ruby
-  - The Cocoa Dependency Manager.
-- [documentation](https://github.com/immuni-app/documentation) : 
-  - Repo for Immuni's documentation.
-- [deno](https://github.com/denoland/deno) : TypeScript
-  - A secure JavaScript and TypeScript runtime
 - [exposure-notifications-server](https://github.com/google/exposure-notifications-server) : Go
   - Exposure Notification Reference Server | Covid-19 Exposure Notifications
-- [Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code) : Python
-  - 手写实现李航《统计学习方法》书中全部算法
-- [cli](https://github.com/cli/cli) : Go
-  - GitHub’s official command line tool
-- [Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) : C#
-  - Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#)
-- [deno_website2](https://github.com/denoland/deno_website2) : TypeScript
-  - deno.land website
-- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) : PowerShell
-  - Azure Quickstart Templates
-- [flutterfire](https://github.com/FirebaseExtended/flutterfire) : Dart
-  - 🔥 Firebase plugins for Flutter apps
-- [detectron2](https://github.com/facebookresearch/detectron2) : Python
-  - Detectron2 is FAIR's next-generation platform for object detection and segmentation.
-- [app-ideas](https://github.com/florinpop17/app-ideas) : 
-  - A Collection of application ideas which can be used to improve your coding skills.
+- [yandereSimulatorSource](https://github.com/rmon-vfer/yandereSimulatorSource) : C#
+  - Dissasembled DLL's from Yandere Simulator
+- [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) : HTML
+  - 吴恩达老师的机器学习课程个人笔记
+- [reverse-proxy](https://github.com/microsoft/reverse-proxy) : C#
+  - A toolkit for developing high-performance HTTP reverse proxy applications.
+- [deno](https://github.com/denoland/deno) : TypeScript
+  - A secure JavaScript and TypeScript runtime
+- [documentation](https://github.com/immuni-app/documentation) : 
+  - Repo for Immuni's documentation.
+- [nlp](https://github.com/huggingface/nlp) : Python
+  - Datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow
 - [nushell](https://github.com/nushell/nushell) : Rust
   - A new type of shell
-- [documents](https://github.com/DP-3T/documents) : Shell
-  - Decentralized Privacy-Preserving Proximity Tracing -- Documents
-- [cypress](https://github.com/cypress-io/cypress) : JavaScript
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [swift-benchmark](https://github.com/google/swift-benchmark) : Swift
-  - A swift library to benchmark code snippets.
-- [jax](https://github.com/google/jax) : Python
-  - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
-- [diagrams](https://github.com/mingrammer/diagrams) : Python
-  - 🎨 Diagram as Code for prototyping cloud system architectures
+- [Recoil](https://github.com/facebookexperimental/Recoil) : JavaScript
+  - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
 - [covid-19](https://github.com/datasets/covid-19) : Python
   - Novel Coronavirus 2019 time series data on cases
-- [horovod](https://github.com/horovod/horovod) : Python
-  - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
-- [serenity](https://github.com/SerenityOS/serenity) : C++
-  - The Serenity Operating System 🐞
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) : JavaScript
+  - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
+- [Python](https://github.com/TheAlgorithms/Python) : Python
+  - All Algorithms implemented in Python
+- [DescomplicandoKubernetes](https://github.com/badtuxx/DescomplicandoKubernetes) : 
+- [fuzzing](https://github.com/google/fuzzing) : Shell
+  - Tutorials, examples, discussions, research proposals, and other resources related to fuzzing
+- [Background-Matting](https://github.com/senguptaumd/Background-Matting) : Python
+  - Background Matting: The World is Your Green Screen
+- [android-interview-questions](https://github.com/MindorksOpenSource/android-interview-questions) : Java
+  - Your Cheat Sheet For Android Interview - Android Interview Questions
+- [win-brute-logon](https://github.com/DarkCoderSc/win-brute-logon) : Pascal
+  - Crack any Microsoft Windows users password without any privilege (Guest account included)
+- [deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books) : HTML
+  - deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）
+- [trojan](https://github.com/trojan-gfw/trojan) : C++
+  - An unidentifiable mechanism that helps you bypass GFW.
+- [imgui](https://github.com/ocornut/imgui) : C++
+  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+- [re-frame](https://github.com/day8/re-frame) : Clojure
+  - A ClojureScript framework for building user interfaces, leveraging React
+- [discord.js](https://github.com/discordjs/discord.js) : JavaScript
+  - A powerful JavaScript library for interacting with the Discord API
+- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) : CSS
+  - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+- [core](https://github.com/home-assistant/core) : Python
+  - 🏡 Open source home automation that puts local control and privacy first
+- [Trojan-Qt5](https://github.com/Trojan-Qt5/Trojan-Qt5) : C++
+  - A cross-platform trojan GUI client based on Shadowsocks-qt. 有问题请加tg群反馈
