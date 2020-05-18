@@ -1,51 +1,51 @@
 # rust
-- [nushell](https://github.com/nushell/nushell)
-  - A new type of shell
-- [async-graphql](https://github.com/async-graphql/async-graphql)
-  - The GraphQL server library implemented by rust
-- [fd](https://github.com/sharkdp/fd)
-  - A simple, fast and user-friendly alternative to 'find'
-- [cargo](https://github.com/rust-lang/cargo)
-  - The Rust package manager
-- [tokenizers](https://github.com/huggingface/tokenizers)
-  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
-- [rustlings](https://github.com/rust-lang/rustlings)
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [bat](https://github.com/sharkdp/bat)
-  - A cat(1) clone with wings.
-- [wasmtime](https://github.com/bytecodealliance/wasmtime)
-  - Standalone JIT-style runtime for WebAssembly, using Cranelift
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
+- [gitui](https://github.com/extrawurst/gitui)
+  - blazing fast terminal-ui for git written in rust
 - [amethyst](https://github.com/amethyst/amethyst)
   - Data-oriented and data-driven game engine written in Rust
-- [servo](https://github.com/servo/servo)
-  - The Servo Browser Engine
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix web is a small, pragmatic, and extremely fast rust web framework.
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop)
-  - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
-- [swc](https://github.com/swc-project/swc)
-  - Super-fast typescript / javascript compiler written in rust
 - [rust](https://github.com/rust-lang/rust)
   - Empowering everyone to build reliable and efficient software.
-- [mun](https://github.com/mun-lang/mun)
-  - Source code for the Mun language and runtime.
-- [hyper](https://github.com/hyperium/hyper)
-  - An HTTP library for Rust
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
-  - Unofficial Bitwarden compatible server written in Rust
+- [nushell](https://github.com/nushell/nushell)
+  - A new type of shell
+- [fd](https://github.com/sharkdp/fd)
+  - A simple, fast and user-friendly alternative to 'find'
 - [tui-rs](https://github.com/fdehau/tui-rs)
   - Build terminal user interfaces and dashboards using Rust
-- [spotify-tui](https://github.com/Rigellute/spotify-tui)
-  - Spotify for the terminal written in Rust 🚀
-- [druid](https://github.com/xi-editor/druid)
-  - A data-first Rust-native UI design toolkit.
-- [iced](https://github.com/hecrj/iced)
-  - A cross-platform GUI library for Rust, inspired by Elm
-- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
-  - Facilitating high-level interactions between Wasm modules and JavaScript
+- [tokei](https://github.com/XAMPPRocky/tokei)
+  - Count your code, quickly.
+- [rustlings](https://github.com/rust-lang/rustlings)
+  - 🦀 Small exercises to get you used to reading and writing Rust code!
+- [lucet](https://github.com/bytecodealliance/lucet)
+  - Lucet, the Sandboxing WebAssembly Compiler.
+- [minesweeper-rs](https://github.com/robmikh/minesweeper-rs)
+  - A port of robmikh/Minesweeper using winrt-rs.
+- [i3status-rust](https://github.com/greshake/i3status-rust)
+  - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
+- [examples](https://github.com/actix/examples)
+  - Actix web examples
+- [winrt-rs](https://github.com/microsoft/winrt-rs)
+  - Rust/WinRT is a Rust language projection for the Windows Runtime
+- [book](https://github.com/rust-lang/book)
+  - The Rust Programming Language
+- [Rocket](https://github.com/SergioBenitez/Rocket)
+  - A web framework for Rust.
+- [ytop](https://github.com/cjbassi/ytop)
+  - A TUI system monitor written in Rust
+- [reqwest](https://github.com/seanmonstar/reqwest)
+  - An easy and powerful Rust HTTP Client
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
+- [warp](https://github.com/seanmonstar/warp)
+  - A super-easy, composable, web server framework for warp speeds.
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix web is a small, pragmatic, and extremely fast rust web framework.
+- [tokenizers](https://github.com/huggingface/tokenizers)
+  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [zola](https://github.com/getzola/zola)
+  - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+- [hyper](https://github.com/hyperium/hyper)
+  - An HTTP library for Rust
+- [ruffle](https://github.com/ruffle-rs/ruffle)
+  - A Flash Player emulator written in Rust
+- [spotifyd](https://github.com/Spotifyd/spotifyd)
+  - A spotify daemon
