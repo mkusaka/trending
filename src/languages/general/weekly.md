@@ -1,50 +1,50 @@
 # general
-- [sm64](https://github.com/n64decomp/sm64) : C
-  - A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
-- [cnn-explainer](https://github.com/poloclub/cnn-explainer) : JavaScript
-  - Learning Convolutional Neural Networks with Interactive Visualization. https://poloclub.github.io/cnn-explainer/
-- [covid-sim](https://github.com/mrc-ide/covid-sim) : C++
 - [deno](https://github.com/denoland/deno) : TypeScript
   - A secure JavaScript and TypeScript runtime
-- [esbuild](https://github.com/evanw/esbuild) : Go
-  - An extremely fast JavaScript bundler and minifier
-- [ACHNBrowserUI](https://github.com/Dimillian/ACHNBrowserUI) : Swift
-  - Animal Crossing New Horizon items catalog in SwiftUI
-- [jukebox](https://github.com/openai/jukebox) : Python
-  - Code for "Jukebox: A Generative Model for Music"
-- [facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) : Objective-C
-  - Used to integrate the Facebook Platform with your iOS & tvOS apps.
+- [pose-animator](https://github.com/yemount/pose-animator) : JavaScript
+- [spring-analysis](https://github.com/seaswalker/spring-analysis) : Java
+  - Spring源码阅读
+- [sm64pc](https://github.com/sm64pc/sm64pc) : C
+  - OpenGL adaptation of n64decomp/sm64.
+- [mobile-android](https://github.com/AU-COVIDSafe/mobile-android) : Kotlin
+  - COVIDSafe android app
+- [pi-hole](https://github.com/pi-hole/pi-hole) : Shell
+  - A black hole for Internet advertisements
+- [jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot) : Java
+  - 基于代码生成器的低代码开发平台，开源界“小普元”超越传统商业开发平台！前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新开发模式(OnlineCoding-> 代码生成-> 手工MERGE)，帮助Java项目解决70%重复工作，让开发更关注业务逻辑，既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。
+- [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) : Java
+  - spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…
+- [lite](https://github.com/rxi/lite) : Lua
+  - A lightweight text editor written in Lua
+- [mobile-ios](https://github.com/AU-COVIDSafe/mobile-ios) : Swift
+  - COVIDSafe IOS app
+- [renren-fast-vue](https://github.com/renrenio/renren-fast-vue) : JavaScript
+  - renren-fast-vue基于vue、element-ui构建开发，实现renren-fast后台管理前端功能，提供一套更优的前端解决方案。
+- [detectron2](https://github.com/facebookresearch/detectron2) : Python
+  - Detectron2 is FAIR's next-generation platform for object detection and segmentation.
+- [next.js](https://github.com/zeit/next.js) : JavaScript
+  - The React Framework
+- [flux](https://github.com/fluxcd/flux) : Go
+  - The GitOps Kubernetes operator
+- [cli](https://github.com/cli/cli) : Go
+  - GitHub’s official command line tool
+- [nightingale](https://github.com/didi/nightingale) : Go
+  - A Distributed and High-Performance Monitoring System
+- [exposure-notifications-android](https://github.com/google/exposure-notifications-android) : Java
+  - Exposure Notifications Android Reference Design
+- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) : PowerShell
+  - Azure Quickstart Templates
+- [Python](https://github.com/TheAlgorithms/Python) : Python
+  - All Algorithms implemented in Python
+- [dapr](https://github.com/dapr/dapr) : Go
+  - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+- [computer-science-flash-cards](https://github.com/jwasham/computer-science-flash-cards) : HTML
+  - Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
+- [viper](https://github.com/spf13/viper) : Go
+  - Go configuration with fangs
+- [liugh-parent](https://github.com/qq53182347/liugh-parent) : Java
+  - SpringBoot+SpringCloud Oauth2+JWT+MybatisPlus实现Restful快速开发后端脚手架
 - [Ventoy](https://github.com/ventoy/Ventoy) : C
   - A new bootable USB solution.
-- [c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) : Jupyter Notebook
-  - Sample code for Channel 9 Python for Beginners course
-- [typescript-exercises](https://github.com/mdevils/typescript-exercises) : TypeScript
-  - A collection of challenging TypeScript exercises
-- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) : Jupyter Notebook
-  - Python - 100天从新手到大师
-- [caddy](https://github.com/caddyserver/caddy) : Go
-  - Fast, multi-platform web server with automatic HTTPS
-- [springer_free_books](https://github.com/alexgand/springer_free_books) : Python
-  - Python script to download all Springer books released for free during the 2020 COVID-19 quarantine
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [ParlAI](https://github.com/facebookresearch/ParlAI) : Python
-  - A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
-- [codeql](https://github.com/github/codeql) : CodeQL
-  - CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security (code scanning), LGTM.com, and LGTM Enterprise
-- [playwright](https://github.com/microsoft/playwright) : JavaScript
-  - Node library to automate Chromium, Firefox and WebKit with a single API
-- [awesome-compose](https://github.com/docker/awesome-compose) : HTML
-  - Awesome Docker Compose samples
-- [NewPipe](https://github.com/TeamNewPipe/NewPipe) : Java
-  - A libre lightweight streaming front-end for Android.
-- [googletest](https://github.com/google/googletest) : C++
-  - Googletest - Google Testing and Mocking Framework
-- [erpnext](https://github.com/frappe/erpnext) : Python
-  - Open Source Alternative to SAP
-- [QMUI_Android](https://github.com/Tencent/QMUI_Android) : Java
-  - 提高 Android UI 开发效率的 UI 库
-- [pcsx2](https://github.com/PCSX2/pcsx2) : C++
-  - PCSX2 - The Playstation 2 Emulator
-- [ghost](https://github.com/entynetproject/ghost) : Python
-  - Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration.
+- [discord.js](https://github.com/discordjs/discord.js) : JavaScript
+  - A powerful JavaScript library for interacting with the Discord API
