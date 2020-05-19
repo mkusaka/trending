@@ -1,49 +1,51 @@
 # general
 - [learngo](https://github.com/inancgumus/learngo) : Go
   - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
-- [Recoil](https://github.com/facebookexperimental/Recoil) : JavaScript
-  - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
-- [Java](https://github.com/TheAlgorithms/Java) : Java
-  - All Algorithms implemented in Java
-- [Python](https://github.com/TheAlgorithms/Python) : Python
-  - All Algorithms implemented in Python
 - [Background-Matting](https://github.com/senguptaumd/Background-Matting) : Python
   - Background Matting: The World is Your Green Screen
-- [core](https://github.com/home-assistant/core) : Python
-  - 🏡 Open source home automation that puts local control and privacy first
+- [immudb](https://github.com/codenotary/immudb) : Go
+  - immudb is lightweight, high-speed immutable database for systems and applications
+- [TShock](https://github.com/Pryaxis/TShock) : C#
+  - ☕️⚡️TShock provides Terraria servers with server-side characters, anti-cheat, and community management tools.
+- [Recoil](https://github.com/facebookexperimental/Recoil) : JavaScript
+  - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
 - [nlp](https://github.com/huggingface/nlp) : Python
-  - Datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow
-- [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) : C++
-  - All Algorithms implemented in C++
-- [C](https://github.com/TheAlgorithms/C) : C
-  - All Algorithms implemented in C
-- [exposure-notifications-server](https://github.com/google/exposure-notifications-server) : Go
-  - Exposure Notification Reference Server | Covid-19 Exposure Notifications
-- [TDengine](https://github.com/taosdata/TDengine) : C
-  - An open-source big data platform designed and optimized for the Internet of Things (IoT).
-- [covid-sim](https://github.com/mrc-ide/covid-sim) : C++
-  - This is the COVID-19 CovidSim microsimulation model developed by the MRC Centre for Global Infectious Disease Analysis hosted at Imperial College, London.
-- [DescomplicandoKubernetes](https://github.com/badtuxx/DescomplicandoKubernetes) : 
+  - 🤗 nlp: datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow
 - [Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code) : Python
   - 手写实现李航《统计学习方法》书中全部算法
-- [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) : HTML
-  - 吴恩达老师的机器学习课程个人笔记
-- [win-brute-logon](https://github.com/DarkCoderSc/win-brute-logon) : Pascal
-  - Crack any Microsoft Windows users password without any privilege (Guest account included)
-- [Kotlin-Coroutine-Use-Cases-on-Android](https://github.com/LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android) : Kotlin
-  - 🎓 Learning Kotlin Coroutines for Android by example. 🚀 Sample implementations for real-world Android use cases. 🛠 Unit tests included!
-- [app-ideas](https://github.com/florinpop17/app-ideas) : 
-  - A Collection of application ideas which can be used to improve your coding skills.
-- [CleanArchitecture](https://github.com/ardalis/CleanArchitecture) : C#
-  - A starting point for Clean Architecture with ASP.NET Core
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) : JavaScript
-  - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
-- [deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books) : HTML
-  - deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）
-- [SecLists](https://github.com/danielmiessler/SecLists) : PHP
-  - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+- [transformers](https://github.com/huggingface/transformers) : Python
+  - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
+- [Python](https://github.com/TheAlgorithms/Python) : Python
+  - All Algorithms implemented in Python
 - [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4) : JavaScript
   - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [fanqiang](https://github.com/bannedbook/fanqiang) : C
-  - 翻墙-科学上网
-- [compose-samples](https://github.com/android/compose-samples) : Kotlin
+- [Java](https://github.com/TheAlgorithms/Java) : Java
+  - All Algorithms implemented in Java
+- [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) : HTML
+  - 吴恩达老师的机器学习课程个人笔记
+- [gitui](https://github.com/extrawurst/gitui) : Rust
+  - blazing fast terminal-ui for git written in rust
+- [public-apis](https://github.com/public-apis/public-apis) : Python
+  - A collective list of free APIs for use in software and web development.
+- [C](https://github.com/TheAlgorithms/C) : C
+  - All Algorithms implemented in C
+- [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) : C++
+  - All Algorithms implemented in C++
+- [InternetArchitect](https://github.com/bjmashibing/InternetArchitect) : Java
+  - 年薪百万互联网架构师课程文档及源码(公开部分)
+- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) : Python
+  - Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
+- [AutoEq](https://github.com/jaakkopasanen/AutoEq) : Jupyter Notebook
+  - Automatic headphone equalization from frequency responses
+- [Trojan-Qt5](https://github.com/Trojan-Qt5/Trojan-Qt5) : C++
+  - A cross-platform ss/ssr/vmess/trojan GUI client based on Shadowsocks-qt. 有问题请加tg群反馈
+- [covid-19-excess-deaths-tracker](https://github.com/TheEconomist/covid-19-excess-deaths-tracker) : R
+  - Source code and data for The Economist's covid-19 excess deaths tracker
+- [jsonparser](https://github.com/buger/jsonparser) : Go
+  - Alternative JSON parser for Go that does not require schema (so far fastest)
+- [covid-sim](https://github.com/mrc-ide/covid-sim) : C++
+  - This is the COVID-19 CovidSim microsimulation model developed by the MRC Centre for Global Infectious Disease Analysis hosted at Imperial College, London.
+- [google-cloud-4-words](https://github.com/gregsramblings/google-cloud-4-words) : 
+  - The Google Cloud Developer's Cheat Sheet
+- [TinyWebServer](https://github.com/qinguoyi/TinyWebServer) : C++
+  - 🔥 Linux下C++轻量级Web服务器
