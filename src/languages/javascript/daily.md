@@ -1,51 +1,51 @@
 # javascript
-- [Recoil](https://github.com/facebookexperimental/Recoil)
-  - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
-- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
-  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [Javascript](https://github.com/TheAlgorithms/Javascript)
-  - A repository for All algorithms implemented in Javascript (for educational purposes only)
-- [covid19-forecast-hub](https://github.com/reichlab/covid19-forecast-hub)
-  - Projections of COVID-19, in standardized format
-- [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs)
-  - Code documentation written as code! How novel and totally my idea!
-- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
-  - Revive unavailable songs for Netease Cloud Music
 - [responsively-app](https://github.com/manojVivek/responsively-app)
   - A modified browser that helps in responsive web development.
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
   - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
-- [taro](https://github.com/NervJS/taro)
-  - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/京东/百度/支付宝/字节跳动/ QQ 小程序/快应用/H5/React Native 等的应用。 https://taro.jd.com/
-- [RSSHub](https://github.com/DIYgod/RSSHub)
-  - 🍰 Everything is RSSible
+- [nectarjs](https://github.com/NectarJS/nectarjs)
+  - 🔱 Javascript's God Mode. No VM. No Bytecode. No GC. Just native binaries.
+- [html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
+  - A professional front-end template for building fast, robust, and adaptable web apps or sites.
+- [fe-interview](https://github.com/haizlin/fe-interview)
+  - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）
+- [Javascript](https://github.com/TheAlgorithms/Javascript)
+  - A repository for All algorithms implemented in Javascript (for educational purposes only)
+- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
+  - 🎆Interactive Online Platform that Visualizes Algorithms from Code
+- [reveal.js](https://github.com/hakimel/reveal.js)
+  - The HTML Presentation Framework
+- [create-react-app](https://github.com/facebook/create-react-app)
+  - Set up a modern web app by running one command.
+- [Chart.js](https://github.com/chartjs/Chart.js)
+  - Simple HTML5 Charts using the <canvas> tag
+- [showdoc](https://github.com/star7th/showdoc)
+  - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
+- [lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci)
+  - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal)
   - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
-- [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
-  - A WhatsApp client library for javascript that connects through the WhatsApp Web browser app
-- [G-Desktop-Suite](https://github.com/alexkim205/G-Desktop-Suite)
-  - Google Suite as a desktop app. Made possible with Electron.
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-  - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
+- [BackstopJS](https://github.com/garris/BackstopJS)
+  - Catch CSS curve balls.
 - [nuxt.js](https://github.com/nuxt/nuxt.js)
   - The Intuitive Vue Framework
-- [node](https://github.com/nodejs/node)
-  - Node.js JavaScript runtime ✨🐢🚀✨
-- [sheetjs](https://github.com/SheetJS/sheetjs)
-  - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [selectize.js](https://github.com/selectize/selectize.js)
   - Selectize is the hybrid of a textbox and <select> box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.
-- [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
-  - a vue2.0 minimal admin template
-- [objection.js](https://github.com/Vincit/objection.js)
-  - An SQL-friendly ORM for Node.js
-- [ac-nh-turnip-prices](https://github.com/mikebryant/ac-nh-turnip-prices)
-  - Price calculator/predictor for Turnip prices
+- [deck.gl](https://github.com/visgl/deck.gl)
+  - WebGL2 powered geospatial visualization layers
+- [realworld](https://github.com/gothinkster/realworld)
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [nx](https://github.com/nrwl/nx)
   - Extensible Dev Tools for Monorepos
-- [cloud-cap-samples](https://github.com/SAP-samples/cloud-cap-samples)
-  - This project contains sample applications for SAP Cloud Application Programming Model.
-- [sulla](https://github.com/danielcardeenas/sulla)
-  - 👩🏻‍🔬 Javascript Whatsapp api library for chatbots
-- [loadable-components](https://github.com/gregberge/loadable-components)
-  - The recommended Code Splitting library for React ✂️✨
+- [mobile](https://github.com/kodilan-com/mobile)
+  - React Native - iOS / Android codebase of Kodilan.com
+- [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
+  - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
+- [vscode-terraform](https://github.com/hashicorp/vscode-terraform)
+  - A Visual Studio Code extension for Hashicorp Terraform
+- [semantic-release](https://github.com/semantic-release/semantic-release)
+  - 📦🚀 Fully automated version management and package publishing

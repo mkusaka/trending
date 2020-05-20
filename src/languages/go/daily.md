@@ -1,51 +1,51 @@
 # go
 - [learngo](https://github.com/inancgumus/learngo)
   - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
-- [immudb](https://github.com/codenotary/immudb)
-  - immudb is lightweight, high-speed immutable database for systems and applications
-- [jsonparser](https://github.com/buger/jsonparser)
-  - Alternative JSON parser for Go that does not require schema (so far fastest)
-- [nomad](https://github.com/hashicorp/nomad)
-  - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [go-plugin](https://github.com/hashicorp/go-plugin)
-  - Golang plugin system over RPC.
-- [etcd](https://github.com/etcd-io/etcd)
-  - Distributed reliable key-value store for the most critical data of a distributed system
-- [ikago](https://github.com/zhxie/ikago)
-  - IkaGo is a proxy which helps bypassing UDP blocking, UDP QoS and NAT firewall written in Go.
-- [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
-  - A golang ebook intro how to build a web with golang
-- [loki](https://github.com/grafana/loki)
-  - Like Prometheus, but for logs.
-- [k6](https://github.com/loadimpact/k6)
-  - A modern load testing tool, using Go and JavaScript - https://k6.io
-- [elastic](https://github.com/olivere/elastic)
-  - Elasticsearch client for Go.
-- [terragrunt](https://github.com/gruntwork-io/terragrunt)
-  - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
-- [logrus](https://github.com/sirupsen/logrus)
-  - Structured, pluggable logging for Go.
 - [Go](https://github.com/TheAlgorithms/Go)
   - Algorithms Implemented in GoLang
-- [testify](https://github.com/stretchr/testify)
-  - A toolkit with common assertions and mocks that plays nicely with the standard library
-- [subfinder](https://github.com/projectdiscovery/subfinder)
-  - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
-- [aws-sdk-go](https://github.com/aws/aws-sdk-go)
-  - AWS SDK for the Go programming language.
-- [terraform](https://github.com/hashicorp/terraform)
-  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [exposure-notifications-server](https://github.com/google/exposure-notifications-server)
-  - Exposure Notification Reference Server | Covid-19 Exposure Notifications
-- [helmfile](https://github.com/roboll/helmfile)
-  - Deploy Kubernetes Helm Charts
-- [client_golang](https://github.com/prometheus/client_golang)
-  - Prometheus instrumentation library for Go applications
+- [mysql](https://github.com/go-sql-driver/mysql)
+  - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
+- [mux](https://github.com/gorilla/mux)
+  - A powerful HTTP router and URL matcher for building Go web servers with 🦍
+- [websocket](https://github.com/gorilla/websocket)
+  - A fast, well-tested and widely used WebSocket implementation for Go.
+- [argo-cd](https://github.com/argoproj/argo-cd)
+  - Declarative continuous deployment for Kubernetes.
+- [dapr](https://github.com/dapr/dapr)
+  - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
+  - Terraform AWS provider
+- [govmomi](https://github.com/vmware/govmomi)
+  - Go library for the VMware vSphere API
+- [immudb](https://github.com/codenotary/immudb)
+  - immudb is lightweight, high-speed immutable database for systems and applications
+- [k9s](https://github.com/derailed/k9s)
+  - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [charts](https://github.com/helm/charts)
+  - Curated applications for Kubernetes
+- [skaffold](https://github.com/GoogleContainerTools/skaffold)
+  - Easy and Repeatable Kubernetes Development
+- [kubernetes-ingress](https://github.com/nginxinc/kubernetes-ingress)
+  - NGINX and NGINX Plus Ingress Controllers for Kubernetes
+- [distribution](https://github.com/docker/distribution)
+  - The Docker toolset to pack, ship, store, and deliver content
+- [redis](https://github.com/go-redis/redis)
+  - Type-safe Redis client for Golang
+- [prometheus-operator](https://github.com/coreos/prometheus-operator)
+  - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [go-clean-arch](https://github.com/bxcodec/go-clean-arch)
   - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
+- [prometheus](https://github.com/prometheus/prometheus)
+  - The Prometheus monitoring system and time series database.
+- [influxdb](https://github.com/influxdata/influxdb)
+  - Scalable datastore for metrics, events, and real-time analytics
 - [packer](https://github.com/hashicorp/packer)
   - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-- [iris](https://github.com/kataras/iris)
-  - 感谢中国开发者 - https://bit.ly/謝謝 | The fastest community-driven web framework for Go. gRPC, Automatic HTTPS with Public Domain, MVC, Sessions, Caching, Versioning API, Problem API, Websocket, Dependency Injection and more. Fully compatible with the standard library and 3rd-party middleware packages. | https://bit.ly/iriscandothat1 | https://bit.ly/ir…
-- [runc](https://github.com/opencontainers/runc)
-  - CLI tool for spawning and running containers according to the OCI specification
+- [k6](https://github.com/loadimpact/k6)
+  - A modern load testing tool, using Go and JavaScript - https://k6.io
+- [cortex](https://github.com/cortexproject/cortex)
+  - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
+- [spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator)
+  - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
+- [jaeger](https://github.com/jaegertracing/jaeger)
+  - CNCF Jaeger, a Distributed Tracing Platform

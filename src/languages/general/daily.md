@@ -1,51 +1,51 @@
 # general
-- [learngo](https://github.com/inancgumus/learngo) : Go
-  - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
-- [Background-Matting](https://github.com/senguptaumd/Background-Matting) : Python
-  - Background Matting: The World is Your Green Screen
-- [immudb](https://github.com/codenotary/immudb) : Go
-  - immudb is lightweight, high-speed immutable database for systems and applications
-- [TShock](https://github.com/Pryaxis/TShock) : C#
-  - ☕️⚡️TShock provides Terraria servers with server-side characters, anti-cheat, and community management tools.
-- [Recoil](https://github.com/facebookexperimental/Recoil) : JavaScript
-  - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
-- [nlp](https://github.com/huggingface/nlp) : Python
-  - 🤗 nlp: datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow
-- [Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code) : Python
-  - 手写实现李航《统计学习方法》书中全部算法
-- [transformers](https://github.com/huggingface/transformers) : Python
-  - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
-- [Python](https://github.com/TheAlgorithms/Python) : Python
-  - All Algorithms implemented in Python
-- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4) : JavaScript
-  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [Java](https://github.com/TheAlgorithms/Java) : Java
-  - All Algorithms implemented in Java
-- [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) : HTML
-  - 吴恩达老师的机器学习课程个人笔记
-- [gitui](https://github.com/extrawurst/gitui) : Rust
-  - blazing fast terminal-ui for git written in rust
-- [public-apis](https://github.com/public-apis/public-apis) : Python
-  - A collective list of free APIs for use in software and web development.
-- [C](https://github.com/TheAlgorithms/C) : C
-  - All Algorithms implemented in C
+- [cwa-server](https://github.com/corona-warn-app/cwa-server) : Java
+  - Backend implementation for the Apple/Google exposure notification API.
 - [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) : C++
   - All Algorithms implemented in C++
+- [C](https://github.com/TheAlgorithms/C) : C
+  - All Algorithms implemented in C
+- [learngo](https://github.com/inancgumus/learngo) : Go
+  - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
+- [mediasoup](https://github.com/versatica/mediasoup) : C++
+  - Cutting Edge WebRTC Video Conferencing
+- [spleeter](https://github.com/deezer/spleeter) : Python
+  - Deezer source separation library including pretrained models.
+- [terminal](https://github.com/microsoft/terminal) : C++
+  - The new Windows Terminal and the original Windows console host, all in the same place!
+- [MTBook](https://github.com/NiuTrans/MTBook) : TeX
+  - 《机器翻译：统计建模与深度学习方法》肖桐 朱靖波 著 - Machine Translation: Statistical Modeling and Deep Learning Methods
+- [PowerToys](https://github.com/microsoft/PowerToys) : C++
+  - Windows system utilities to maximize productivity
+- [ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process) : 
+  - If you're new to DDD and not sure where to start, this process will guide you step-by-step
+- [pumpkin-book](https://github.com/datawhalechina/pumpkin-book) : 
+  - 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book
+- [Java](https://github.com/TheAlgorithms/Java) : Java
+  - All Algorithms implemented in Java
 - [InternetArchitect](https://github.com/bjmashibing/InternetArchitect) : Java
   - 年薪百万互联网架构师课程文档及源码(公开部分)
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) : Python
   - Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
-- [AutoEq](https://github.com/jaakkopasanen/AutoEq) : Jupyter Notebook
-  - Automatic headphone equalization from frequency responses
-- [Trojan-Qt5](https://github.com/Trojan-Qt5/Trojan-Qt5) : C++
-  - A cross-platform ss/ssr/vmess/trojan GUI client based on Shadowsocks-qt. 有问题请加tg群反馈
-- [covid-19-excess-deaths-tracker](https://github.com/TheEconomist/covid-19-excess-deaths-tracker) : R
-  - Source code and data for The Economist's covid-19 excess deaths tracker
-- [jsonparser](https://github.com/buger/jsonparser) : Go
-  - Alternative JSON parser for Go that does not require schema (so far fastest)
-- [covid-sim](https://github.com/mrc-ide/covid-sim) : C++
-  - This is the COVID-19 CovidSim microsimulation model developed by the MRC Centre for Global Infectious Disease Analysis hosted at Imperial College, London.
-- [google-cloud-4-words](https://github.com/gregsramblings/google-cloud-4-words) : 
-  - The Google Cloud Developer's Cheat Sheet
-- [TinyWebServer](https://github.com/qinguoyi/TinyWebServer) : C++
-  - 🔥 Linux下C++轻量级Web服务器
+- [Python](https://github.com/TheAlgorithms/Python) : Python
+  - All Algorithms implemented in Python
+- [new.css](https://github.com/xz/new.css) : HTML
+  - A classless CSS framework to write modern websites using only HTML.
+- [Background-Matting](https://github.com/senguptaumd/Background-Matting) : Python
+  - Background Matting: The World is Your Green Screen
+- [JustAuth](https://github.com/justauth/JustAuth) : Java
+  - 💯 史上最全的整合第三方登录的开源库。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么和推特等第三方平台的授权登录。 Login, so easy!
+- [pragmatic-programmer-zh](https://github.com/caicaishmily/pragmatic-programmer-zh) : 
+  - 《Pragmatic Programmer》中文翻译
+- [csharplang](https://github.com/dotnet/csharplang) : C#
+  - The official repo for the design of the C# programming language
+- [storybook](https://github.com/storybookjs/storybook) : TypeScript
+  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+- [aitextgen](https://github.com/minimaxir/aitextgen) : Python
+  - A robust Python tool for text-based AI training and generation using GPT-2.
+- [Go](https://github.com/TheAlgorithms/Go) : Go
+  - Algorithms Implemented in GoLang
+- [responsively-app](https://github.com/manojVivek/responsively-app) : JavaScript
+  - A modified browser that helps in responsive web development.
+- [FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps) : Dart
+  - [Example APPS] Basic Flutter apps, for flutter devs.
