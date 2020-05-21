@@ -1,51 +1,51 @@
 # general
-- [cwa-server](https://github.com/corona-warn-app/cwa-server) : Java
-  - Backend implementation for the Apple/Google exposure notification API.
+- [winget-cli](https://github.com/microsoft/winget-cli) : C++
+  - Windows Package Manager CLI (aka winget)
 - [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) : C++
   - All Algorithms implemented in C++
-- [C](https://github.com/TheAlgorithms/C) : C
-  - All Algorithms implemented in C
-- [learngo](https://github.com/inancgumus/learngo) : Go
-  - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
-- [mediasoup](https://github.com/versatica/mediasoup) : C++
-  - Cutting Edge WebRTC Video Conferencing
-- [spleeter](https://github.com/deezer/spleeter) : Python
-  - Deezer source separation library including pretrained models.
-- [terminal](https://github.com/microsoft/terminal) : C++
-  - The new Windows Terminal and the original Windows console host, all in the same place!
-- [MTBook](https://github.com/NiuTrans/MTBook) : TeX
-  - 《机器翻译：统计建模与深度学习方法》肖桐 朱靖波 著 - Machine Translation: Statistical Modeling and Deep Learning Methods
+- [Idris2](https://github.com/idris-lang/Idris2) : Idris
+  - A purely functional programming language with first class types
+- [Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code) : Python
+  - 手写实现李航《统计学习方法》书中全部算法
 - [PowerToys](https://github.com/microsoft/PowerToys) : C++
   - Windows system utilities to maximize productivity
-- [ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process) : 
-  - If you're new to DDD and not sure where to start, this process will guide you step-by-step
-- [pumpkin-book](https://github.com/datawhalechina/pumpkin-book) : 
-  - 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book
+- [terminal](https://github.com/microsoft/terminal) : C++
+  - The new Windows Terminal and the original Windows console host, all in the same place!
+- [winget-pkgs](https://github.com/microsoft/winget-pkgs) : PowerShell
+  - The Microsoft community Windows Package Manager manifest repository
 - [Java](https://github.com/TheAlgorithms/Java) : Java
   - All Algorithms implemented in Java
+- [BotBuilder-Samples](https://github.com/microsoft/BotBuilder-Samples) : C#
+  - Welcome to the Bot Framework samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Bot Framework SDK!
+- [moby](https://github.com/moby/moby) : Go
+  - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [cwa-server](https://github.com/corona-warn-app/cwa-server) : Java
+  - Backend implementation for the Apple/Google exposure notification API.
+- [pumpkin-book](https://github.com/datawhalechina/pumpkin-book) : 
+  - 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book
+- [maui](https://github.com/dotnet/maui) : C#
+  - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
+- [StudentsAtBuild](https://github.com/microsoft/StudentsAtBuild) : JavaScript
+  - Find all of the resources you might need to try out code presented in the Student Zone at Build 2020 for yourself!
+- [ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process) : 
+  - If you're new to DDD and not sure where to start, this process will guide you step-by-step
+- [graphiql](https://github.com/graphql/graphiql) : TypeScript
+  - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [InternetArchitect](https://github.com/bjmashibing/InternetArchitect) : Java
   - 年薪百万互联网架构师课程文档及源码(公开部分)
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) : Python
   - Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
-- [Python](https://github.com/TheAlgorithms/Python) : Python
-  - All Algorithms implemented in Python
-- [new.css](https://github.com/xz/new.css) : HTML
-  - A classless CSS framework to write modern websites using only HTML.
-- [Background-Matting](https://github.com/senguptaumd/Background-Matting) : Python
-  - Background Matting: The World is Your Green Screen
-- [JustAuth](https://github.com/justauth/JustAuth) : Java
-  - 💯 史上最全的整合第三方登录的开源库。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么和推特等第三方平台的授权登录。 Login, so easy!
-- [pragmatic-programmer-zh](https://github.com/caicaishmily/pragmatic-programmer-zh) : 
-  - 《Pragmatic Programmer》中文翻译
-- [csharplang](https://github.com/dotnet/csharplang) : C#
-  - The official repo for the design of the C# programming language
-- [storybook](https://github.com/storybookjs/storybook) : TypeScript
-  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
-- [aitextgen](https://github.com/minimaxir/aitextgen) : Python
-  - A robust Python tool for text-based AI training and generation using GPT-2.
+- [C](https://github.com/TheAlgorithms/C) : C
+  - All Algorithms implemented in C
 - [Go](https://github.com/TheAlgorithms/Go) : Go
   - Algorithms Implemented in GoLang
+- [ProjectReunion](https://github.com/microsoft/ProjectReunion) : 
+  - Project Reunion is an evolution of the Windows developer platform that will make it more compatible, agile, modern and open.
 - [responsively-app](https://github.com/manojVivek/responsively-app) : JavaScript
   - A modified browser that helps in responsive web development.
-- [FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps) : Dart
-  - [Example APPS] Basic Flutter apps, for flutter devs.
+- [lovelace-soft-ui](https://github.com/N-l1/lovelace-soft-ui) : 
+  - 💫 Lovelace Soft UI Configuration
+- [awesome-datascience](https://github.com/academic/awesome-datascience) : 
+  - 📝 An awesome Data Science repository to learn and apply for real world problems.
+- [graph-based-deep-learning-literature](https://github.com/naganandy/graph-based-deep-learning-literature) : Jupyter Notebook
+  - links to conference publications in graph-based deep learning
