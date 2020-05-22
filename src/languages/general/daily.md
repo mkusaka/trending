@@ -1,51 +1,51 @@
 # general
-- [winget-cli](https://github.com/microsoft/winget-cli) : C++
-  - Windows Package Manager CLI (aka winget)
-- [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) : C++
-  - All Algorithms implemented in C++
-- [Idris2](https://github.com/idris-lang/Idris2) : Idris
-  - A purely functional programming language with first class types
-- [Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code) : Python
-  - 手写实现李航《统计学习方法》书中全部算法
-- [PowerToys](https://github.com/microsoft/PowerToys) : C++
-  - Windows system utilities to maximize productivity
 - [terminal](https://github.com/microsoft/terminal) : C++
   - The new Windows Terminal and the original Windows console host, all in the same place!
-- [winget-pkgs](https://github.com/microsoft/winget-pkgs) : PowerShell
-  - The Microsoft community Windows Package Manager manifest repository
-- [Java](https://github.com/TheAlgorithms/Java) : Java
-  - All Algorithms implemented in Java
-- [BotBuilder-Samples](https://github.com/microsoft/BotBuilder-Samples) : C#
-  - Welcome to the Bot Framework samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Bot Framework SDK!
-- [moby](https://github.com/moby/moby) : Go
-  - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [cwa-server](https://github.com/corona-warn-app/cwa-server) : Java
-  - Backend implementation for the Apple/Google exposure notification API.
 - [pumpkin-book](https://github.com/datawhalechina/pumpkin-book) : 
   - 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book
-- [maui](https://github.com/dotnet/maui) : C#
-  - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
-- [StudentsAtBuild](https://github.com/microsoft/StudentsAtBuild) : JavaScript
-  - Find all of the resources you might need to try out code presented in the Student Zone at Build 2020 for yourself!
-- [ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process) : 
-  - If you're new to DDD and not sure where to start, this process will guide you step-by-step
-- [graphiql](https://github.com/graphql/graphiql) : TypeScript
-  - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
+- [CarChecker](https://github.com/SteveSandersonMS/CarChecker) : C#
+  - A sample Blazor WebAssembly application that includes authentication, in-browser data storage, offline support, localization, responsive layouts, and more. For a video walkthrough, see this link:
+- [JustAuth](https://github.com/justauth/JustAuth) : Java
+  - 💯 史上最全的整合第三方登录的开源库。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么和推特等第三方平台的授权登录。 Login, so easy!
+- [PowerToys](https://github.com/microsoft/PowerToys) : C++
+  - Windows system utilities to maximize productivity
 - [InternetArchitect](https://github.com/bjmashibing/InternetArchitect) : Java
   - 年薪百万互联网架构师课程文档及源码(公开部分)
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [unofficial-apis](https://github.com/Rolstenhouse/unofficial-apis) : 
+  - A collection of unofficial apis. Designed to inspire your next Friday night hack
+- [ScoutSuite](https://github.com/nccgroup/ScoutSuite) : Python
+  - Multi-Cloud Security Auditing Tool
+- [winget-cli](https://github.com/microsoft/winget-cli) : C++
+  - Windows Package Manager CLI (aka winget)
+- [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) : Objective-C
+  - Mac版微信的功能拓展(A plugin for Mac WeChat)
+- [react-interactive-paycard](https://github.com/jasminmif/react-interactive-paycard) : JavaScript
+  - Interactive React Paycard
+- [graduation](https://github.com/education/graduation) : 
+  - $ git remote <graduation> yearbook
+- [winget-pkgs](https://github.com/microsoft/winget-pkgs) : PowerShell
+  - The Microsoft community Windows Package Manager manifest repository
+- [Idris2](https://github.com/idris-lang/Idris2) : Idris
+  - A purely functional programming language with first class types
+- [axiom](https://github.com/pry0cc/axiom) : Shell
+  - A dynamic infrastructure toolkit for red teamers and bug bounty hunters!
+- [react-native-scroll-bottom-sheet](https://github.com/rgommezz/react-native-scroll-bottom-sheet) : TypeScript
+  - Cross platform scrollable bottom sheet with virtualisation support, native animations at 60 FPS and fully implemented in JS land 🔥
+- [BotBuilder-Samples](https://github.com/microsoft/BotBuilder-Samples) : C#
+  - Welcome to the Bot Framework samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Bot Framework SDK!
+- [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) : C#
+  - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET Core 3.0, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) : Python
   - Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
-- [C](https://github.com/TheAlgorithms/C) : C
-  - All Algorithms implemented in C
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) : JavaScript
+  - The ultimate Free Open Source Solution for team communications.
+- [nishang](https://github.com/samratashok/nishang) : PowerShell
+  - Nishang - Offensive PowerShell for red team, penetration testing and offensive security.
+- [Hazel](https://github.com/TheCherno/Hazel) : C++
+  - Hazel Engine
+- [Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code) : Python
+  - 手写实现李航《统计学习方法》书中全部算法
 - [Go](https://github.com/TheAlgorithms/Go) : Go
   - Algorithms Implemented in GoLang
-- [ProjectReunion](https://github.com/microsoft/ProjectReunion) : 
-  - Project Reunion is an evolution of the Windows developer platform that will make it more compatible, agile, modern and open.
-- [responsively-app](https://github.com/manojVivek/responsively-app) : JavaScript
-  - A modified browser that helps in responsive web development.
-- [lovelace-soft-ui](https://github.com/N-l1/lovelace-soft-ui) : 
-  - 💫 Lovelace Soft UI Configuration
-- [awesome-datascience](https://github.com/academic/awesome-datascience) : 
-  - 📝 An awesome Data Science repository to learn and apply for real world problems.
-- [graph-based-deep-learning-literature](https://github.com/naganandy/graph-based-deep-learning-literature) : Jupyter Notebook
-  - links to conference publications in graph-based deep learning

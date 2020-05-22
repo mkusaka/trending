@@ -1,51 +1,51 @@
 # rust
+- [talent-plan](https://github.com/pingcap/talent-plan)
+  - open source training courses about distributed systems and distributed systemes
+- [druid](https://github.com/xi-editor/druid)
+  - A data-first Rust-native UI design toolkit.
 - [tauri](https://github.com/tauri-apps/tauri)
   - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
 - [winrt-rs](https://github.com/microsoft/winrt-rs)
   - Rust/WinRT is a Rust language projection for the Windows Runtime
-- [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
-  - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
-- [gitui](https://github.com/extrawurst/gitui)
-  - blazing fast terminal-ui for git written in rust
-- [ruffle](https://github.com/ruffle-rs/ruffle)
-  - A Flash Player emulator written in Rust
-- [substrate](https://github.com/paritytech/substrate)
-  - Substrate: The platform for blockchain innovators
-- [talent-plan](https://github.com/pingcap/talent-plan)
-  - open source training courses about distributed systems and distributed systemes
-- [tonic](https://github.com/hyperium/tonic)
-  - A native gRPC client & server implementation with async/await support.
-- [exa](https://github.com/ogham/exa)
-  - A modern version of ‘ls’.
-- [async-std](https://github.com/async-rs/async-std)
-  - Async version of the Rust standard library
-- [global-data-in-rust](https://github.com/paulkernfeld/global-data-in-rust)
-  - This guide explains how you can use "global data" in Rust
-- [xi-editor](https://github.com/xi-editor/xi-editor)
-  - A modern editor with a backend written in Rust.
-- [stacks-blockchain](https://github.com/blockstack/stacks-blockchain)
-  - The Stacks 2.0 blockchain implementation
-- [whitenoise-core](https://github.com/opendifferentialprivacy/whitenoise-core)
-  - Differential privacy validator and runtime
-- [cargo](https://github.com/rust-lang/cargo)
-  - The Rust package manager
-- [warp](https://github.com/seanmonstar/warp)
-  - A super-easy, composable, web server framework for warp speeds.
-- [glean](https://github.com/mozilla/glean)
-  - Modern Firefox Telemetry for mobile platforms
-- [servo](https://github.com/servo/servo)
-  - The Servo Browser Engine
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
+- [tide](https://github.com/http-rs/tide)
+  - Fast and friendly HTTP server framework for async Rust
 - [libra](https://github.com/libra/libra)
   - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [wrangler](https://github.com/cloudflare/wrangler)
-  - 🤠 wrangle your cloudflare workers
-- [lucet](https://github.com/bytecodealliance/lucet)
-  - Lucet, the Sandboxing WebAssembly Compiler.
-- [py-spy](https://github.com/benfred/py-spy)
-  - Sampling profiler for Python programs
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
+- [996.ICU](https://github.com/996icu/996.ICU)
+  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [rust](https://github.com/rust-lang/rust)
   - Empowering everyone to build reliable and efficient software.
-- [druid](https://github.com/xi-editor/druid)
-  - A data-first Rust-native UI design toolkit.
+- [warp](https://github.com/seanmonstar/warp)
+  - A super-easy, composable, web server framework for warp speeds.
+- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+  - 📚 Learn to write an embedded OS in Rust 🦀
+- [ytop](https://github.com/cjbassi/ytop)
+  - A TUI system monitor written in Rust
+- [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
+  - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
+- [whitenoise-core](https://github.com/opendifferentialprivacy/whitenoise-core)
+  - Differential privacy validator and runtime
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
+- [tonic](https://github.com/hyperium/tonic)
+  - A native gRPC client & server implementation with async/await support.
+- [tikv](https://github.com/tikv/tikv)
+  - Distributed transactional key-value database, originally created to complement TiDB
+- [xi-editor](https://github.com/xi-editor/xi-editor)
+  - A modern editor with a backend written in Rust.
+- [firecracker](https://github.com/firecracker-microvm/firecracker)
+  - Secure and fast microVMs for serverless computing.
+- [wasm-pack](https://github.com/rustwasm/wasm-pack)
+  - 📦✨ your favorite rust -> wasm workflow tool!
+- [Rust](https://github.com/TheAlgorithms/Rust)
+  - All Algorithms implemented in Rust
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix web is a small, pragmatic, and extremely fast rust web framework.
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
+- [orjson](https://github.com/ijl/orjson)
+  - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
