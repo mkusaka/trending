@@ -1,51 +1,51 @@
 # typescript
+- [covid19_scenarios](https://github.com/neherlab/covid19_scenarios)
+  - Models of COVID-19 outbreak trajectories and hospital demand
+- [graphiql](https://github.com/graphql/graphiql)
+  - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
+- [n8n](https://github.com/n8n-io/n8n)
+  - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+- [VKUI](https://github.com/VKCOM/VKUI)
+  - VKUI – это набор React-компонентов, с помощью которых можно создавать интерфейсы, внешне неотличимые от наших iOS и Android приложений.
+- [uniswap-frontend](https://github.com/Uniswap/uniswap-frontend)
+  - 🦄 An open source frontend for Uniswap
 - [react-native-scroll-bottom-sheet](https://github.com/rgommezz/react-native-scroll-bottom-sheet)
   - Cross platform scrollable bottom sheet with virtualisation support, native animations at 60 FPS and fully implemented in JS land 🔥
 - [storybook](https://github.com/storybookjs/storybook)
   - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
-- [blueprint](https://github.com/palantir/blueprint)
-  - A React-based UI toolkit for the web
-- [auth-module](https://github.com/nuxt-community/auth-module)
-  - 🔑 Zero-boilerplate authentication support for Nuxt
-- [angularfire](https://github.com/angular/angularfire)
-  - The official Angular library for Firebase.
-- [graphql-tools](https://github.com/ardatan/graphql-tools)
-  - 🔧 Build, mock, and stitch a GraphQL schema using the schema language
-- [lightproxy](https://github.com/alibaba/lightproxy)
-  - 💎 Cross platform Web debugging proxy
-- [BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
-  - Dialog creation and management for Microsoft Bot Framework Applications
-- [vite](https://github.com/vuejs/vite)
-  - An opinionated web dev build tool. It's fast.
+- [react-notion](https://github.com/splitbee/react-notion)
+  - A fast React renderer for Notion pages
+- [checkout](https://github.com/actions/checkout)
+  - Action for checking out a repo
+- [G6](https://github.com/antvis/G6)
+  - ♾ A Graph Visualization Framework in JavaScript
 - [angular](https://github.com/angular/angular)
   - One framework. Mobile & desktop.
-- [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)
-  - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
-- [formik](https://github.com/jaredpalmer/formik)
-  - Build forms in React, without the tears 😭
-- [fluentui](https://github.com/microsoft/fluentui)
-  - We've moved! UI Fabric is now Fluent UI - A set of React components for building Microsoft web experiences.
+- [TypeScript](https://github.com/microsoft/TypeScript)
+  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [hello-build](https://github.com/johnpapa/hello-build)
+  - 
+- [angularfire](https://github.com/angular/angularfire)
+  - The official Angular library for Firebase.
+- [vscode-cpptools](https://github.com/microsoft/vscode-cpptools)
+  - Official repository for the Microsoft C/C++ extension for VS Code.
+- [class-validator](https://github.com/typestack/class-validator)
+  - Validation made easy using TypeScript decorators.
+- [grafana](https://github.com/grafana/grafana)
+  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [redux](https://github.com/reduxjs/redux)
+  - Predictable state container for JavaScript apps
+- [react](https://github.com/zeit-ui/react)
+  - Modern and minimalist React UI library.
+- [ngx-datatable](https://github.com/swimlane/ngx-datatable)
+  - ✨ A feature-rich yet lightweight data-table crafted for Angular
 - [cloudbeaver](https://github.com/dbeaver/cloudbeaver)
   - Cloud Database Manager
-- [coc.nvim](https://github.com/neoclide/coc.nvim)
-  - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
-- [streamlit](https://github.com/streamlit/streamlit)
-  - Streamlit — The fastest way to build custom ML tools
-- [deno-rest-api](https://github.com/bradtraversy/deno-rest-api)
-  - Simple REST API using Deno and Oak
-- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
-  - The source for REST API specifications for Microsoft Azure.
-- [ng-select](https://github.com/ng-select/ng-select)
-  - ⭐ Native angular 6+ select component
-- [uniswap-frontend](https://github.com/Uniswap/uniswap-frontend)
-  - 🦄 An open source frontend for Uniswap
-- [jsii](https://github.com/aws/jsii)
-  - jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
-- [swr](https://github.com/zeit/swr)
-  - React Hooks library for remote data fetching
-- [nebular](https://github.com/akveo/nebular)
-  - 💥 Customizable Angular UI Library based on Eva Design System 🌚✨Dark Mode
-- [ice](https://github.com/alibaba/ice)
-  - 🚀Simple and friendly front-end development system（飞冰，简单而友好的前端研发体系 ）https://ice.work/
-- [themes](https://github.com/atomcorp/themes)
-  - Themes for Windows Terminal
+- [angular-cli](https://github.com/angular/angular-cli)
+  - CLI tool for Angular
+- [kibana](https://github.com/elastic/kibana)
+  - Your window into the Elastic Stack
+- [nest](https://github.com/nestjs/nest)
+  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [vue-storefront](https://github.com/DivanteLtd/vue-storefront)
+  - Vue Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported. Always Open Source, MIT license. Join us as contributor (contributors@vuestorefront.io). Check out our new blog: https://blog.vuestorefront.io/

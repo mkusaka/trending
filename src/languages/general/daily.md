@@ -1,51 +1,51 @@
 # general
-- [terminal](https://github.com/microsoft/terminal) : C++
-  - The new Windows Terminal and the original Windows console host, all in the same place!
-- [pumpkin-book](https://github.com/datawhalechina/pumpkin-book) : 
-  - 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book
-- [CarChecker](https://github.com/SteveSandersonMS/CarChecker) : C#
-  - A sample Blazor WebAssembly application that includes authentication, in-browser data storage, offline support, localization, responsive layouts, and more. For a video walkthrough, see this link:
-- [JustAuth](https://github.com/justauth/JustAuth) : Java
-  - 💯 史上最全的整合第三方登录的开源库。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么和推特等第三方平台的授权登录。 Login, so easy!
-- [PowerToys](https://github.com/microsoft/PowerToys) : C++
-  - Windows system utilities to maximize productivity
-- [InternetArchitect](https://github.com/bjmashibing/InternetArchitect) : Java
-  - 年薪百万互联网架构师课程文档及源码(公开部分)
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [unofficial-apis](https://github.com/Rolstenhouse/unofficial-apis) : 
-  - A collection of unofficial apis. Designed to inspire your next Friday night hack
-- [ScoutSuite](https://github.com/nccgroup/ScoutSuite) : Python
-  - Multi-Cloud Security Auditing Tool
-- [winget-cli](https://github.com/microsoft/winget-cli) : C++
-  - Windows Package Manager CLI (aka winget)
-- [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) : Objective-C
-  - Mac版微信的功能拓展(A plugin for Mac WeChat)
-- [react-interactive-paycard](https://github.com/jasminmif/react-interactive-paycard) : JavaScript
-  - Interactive React Paycard
-- [graduation](https://github.com/education/graduation) : 
-  - $ git remote <graduation> yearbook
-- [winget-pkgs](https://github.com/microsoft/winget-pkgs) : PowerShell
-  - The Microsoft community Windows Package Manager manifest repository
-- [Idris2](https://github.com/idris-lang/Idris2) : Idris
-  - A purely functional programming language with first class types
-- [axiom](https://github.com/pry0cc/axiom) : Shell
-  - A dynamic infrastructure toolkit for red teamers and bug bounty hunters!
-- [react-native-scroll-bottom-sheet](https://github.com/rgommezz/react-native-scroll-bottom-sheet) : TypeScript
-  - Cross platform scrollable bottom sheet with virtualisation support, native animations at 60 FPS and fully implemented in JS land 🔥
-- [BotBuilder-Samples](https://github.com/microsoft/BotBuilder-Samples) : C#
-  - Welcome to the Bot Framework samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Bot Framework SDK!
-- [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) : C#
-  - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET Core 3.0, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
-- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) : Python
-  - Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
+- [ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor) : CSS
+  - 🌈A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) : JavaScript
   - The ultimate Free Open Source Solution for team communications.
-- [nishang](https://github.com/samratashok/nishang) : PowerShell
-  - Nishang - Offensive PowerShell for red team, penetration testing and offensive security.
-- [Hazel](https://github.com/TheCherno/Hazel) : C++
-  - Hazel Engine
-- [Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code) : Python
-  - 手写实现李航《统计学习方法》书中全部算法
-- [Go](https://github.com/TheAlgorithms/Go) : Go
-  - Algorithms Implemented in GoLang
+- [terminal](https://github.com/microsoft/terminal) : C++
+  - The new Windows Terminal and the original Windows console host, all in the same place!
+- [MS-DOS](https://github.com/microsoft/MS-DOS) : Assembly
+  - The original sources of MS-DOS 1.25 and 2.0, for reference purposes
+- [telegraf](https://github.com/influxdata/telegraf) : Go
+  - The plugin-driven server agent for collecting & reporting metrics.
+- [Blunt](https://github.com/f-prime/Blunt) : CSS
+  - A CSS framework that helps with layouts and leaves your styling alone.
+- [responsively-app](https://github.com/manojVivek/responsively-app) : JavaScript
+  - A modified browser that helps in responsive web development.
+- [Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) : Java
+  - 是 难得一见 的 Jetpack MVVM 最佳实践！在 蕴繁于简 的代码中，对 视图控制器 乃至 标准化开发模式 形成正确、深入的理解！
+- [CarChecker](https://github.com/SteveSandersonMS/CarChecker) : C#
+  - A sample Blazor WebAssembly application that includes authentication, in-browser data storage, offline support, localization, responsive layouts, and more. For a video walkthrough, see this link:
+- [spug](https://github.com/openspug/spug) : JavaScript
+  - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
+- [JustAuth](https://github.com/justauth/JustAuth) : Java
+  - 💯 史上最全的整合第三方登录的开源库。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么和推特等第三方平台的授权登录。 Login, so easy!
+- [How-to-be-a-good-programmer](https://github.com/niudai/How-to-be-a-good-programmer) : Makefile
+  - I'm here to tell you some amazing stuff which teacher would never tell you.
+- [imgaug](https://github.com/aleju/imgaug) : Python
+  - Image augmentation for machine learning experiments.
+- [stonks](https://github.com/ericm/stonks) : Go
+  - Stonks is a terminal based stock visualizer and tracker that displays realtime stocks in graph format in a terminal. See how fast your stonks will crash.
+- [newscatcher](https://github.com/kotartemiy/newscatcher) : Python
+  - Programmatically collect normalized news from (almost) any website.
+- [whoogle-search](https://github.com/benbusby/whoogle-search) : Python
+  - Self-hosted, ad-free, privacy-respecting Google metasearch engine
+- [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) : Objective-C
+  - Mac版微信的功能拓展(A plugin for Mac WeChat)
+- [data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap) : Python
+  - Toturial coming with "data science roadmap" graphe.
+- [openpilot](https://github.com/commaai/openpilot) : C++
+  - open source driving agent
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) : Vue
+  - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!
+- [tye](https://github.com/dotnet/tye) : C#
+  - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
+- [terragoat](https://github.com/bridgecrewio/terragoat) : HCL
+  - TerraGoat is Bridgecrew's "Vulnerable by Design" Terraform repository. TerraGoat is a learning and training project that demonstrates how common configuration errors can find their way into production cloud environments.
+- [pumpkin-book](https://github.com/datawhalechina/pumpkin-book) : 
+  - 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book
+- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) : 
+  - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
