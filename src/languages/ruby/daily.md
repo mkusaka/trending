@@ -1,51 +1,51 @@
 # ruby
-- [mastodon](https://github.com/tootsuite/mastodon)
-  - Your self-hosted, globally interconnected microblogging community
-- [greenlight](https://github.com/bigbluebutton/greenlight)
-  - A really simple end-user interface for your BigBlueButton server.
-- [sonic-pi](https://github.com/samaaron/sonic-pi)
-  - Code. Music. Live.
-- [ruby](https://github.com/ruby/ruby)
-  - The Ruby Programming Language [mirror]
-- [chatwoot](https://github.com/chatwoot/chatwoot)
-  - Simple and elegant live chat software 🔥💬
-- [solidus](https://github.com/solidusio/solidus)
-  - 🛒Solidus, Rails eCommerce System
-- [discourse](https://github.com/discourse/discourse)
-  - A platform for community discussion. Free, open, simple.
-- [huginn](https://github.com/huginn/huginn)
-  - Create agents that monitor and act on your behalf. Your agents are standing by!
-- [devdocs](https://github.com/freeCodeCamp/devdocs)
-  - API Documentation Browser
-- [fluentd](https://github.com/fluent/fluentd)
-  - Fluentd: Unified Logging Layer (project under CNCF)
-- [redmine](https://github.com/redmine/redmine)
-  - Mirror of redmine code source - Official SVN repository is at https://svn.redmine.org/redmine - contact: @jbbarth or jeanbaptiste.barth (at) gmail (dot) com
-- [canvas-lms](https://github.com/instructure/canvas-lms)
-  - The open LMS by Instructure, Inc.
-- [administrate](https://github.com/thoughtbot/administrate)
-  - A Rails engine that helps you put together a super-flexible admin dashboard.
-- [fastlane](https://github.com/fastlane/fastlane)
-  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [wpscan](https://github.com/wpscanteam/wpscan)
-  - WPScan is a free, for non-commercial use, black box WordPress security scanner written for security professionals and blog maintainers to test the security of their WordPress websites.
-- [chef](https://github.com/chef/chef)
-  - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
-- [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening)
-  - This Ansible role provides numerous security-related configurations, providing all-round base protection.
-- [knock](https://github.com/nsarno/knock)
-  - Seamless JWT authentication for Rails API
-- [next-right-now](https://github.com/UnlyEd/next-right-now)
-  - Flexible production-grade boilerplate with Next.js 9, Zeit and TypeScript. Includes multiple opt-in presets using GraphQL, Analytics, CSS-in-JS, Monitoring, End-to-end testing, Internationalization, CI/CD and B2B multiple single-tenants (monorepo) support
 - [jekyll](https://github.com/jekyll/jekyll)
   - 🌐 Jekyll is a blog-aware static site generator in Ruby
-- [rbs](https://github.com/ruby/rbs)
-  - Type Signature for Ruby
-- [quine-relay](https://github.com/mame/quine-relay)
-  - An uroboros program with 100+ programming languages
-- [faker](https://github.com/faker-ruby/faker)
-  - A library for generating fake data such as names, addresses, and phone numbers.
-- [sinatra](https://github.com/sinatra/sinatra)
-  - Classy web-development dressed in a DSL (official / canonical repo)
+- [discourse](https://github.com/discourse/discourse)
+  - A platform for community discussion. Free, open, simple.
+- [rubocop](https://github.com/rubocop-hq/rubocop)
+  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
 - [explore](https://github.com/github/explore)
   - Community-curated topic and collection pages on GitHub
+- [sha256-animation](https://github.com/in3rsha/sha256-animation)
+  - Animation of the SHA-256 hash function in your terminal.
+- [openproject](https://github.com/opf/openproject)
+  - OpenProject is the leading open source project management software.
+- [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening)
+  - This Ansible role provides numerous security-related configurations, providing all-round base protection.
+- [spree](https://github.com/spree/spree)
+  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
+- [mastodon](https://github.com/tootsuite/mastodon)
+  - Your self-hosted, globally interconnected microblogging community
+- [Mars](https://github.com/TideSec/Mars)
+  - Mars(战神)——资产发现、子域名枚举、C段扫描、资产变更监测、端口变更监测、域名解析变更监测、Awvs扫描、POC检测、web指纹探测、端口指纹探测、CDN探测、操作系统指纹探测、泛解析探测、WAF探测、敏感信息检测等等
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
+  - Metasploit Framework
+- [awspec](https://github.com/k1LoW/awspec)
+  - RSpec tests for your AWS resources.
+- [rails](https://github.com/rails/rails)
+  - Ruby on Rails
+- [fluentd](https://github.com/fluent/fluentd)
+  - Fluentd: Unified Logging Layer (project under CNCF)
+- [devdocs](https://github.com/freeCodeCamp/devdocs)
+  - API Documentation Browser
+- [postal](https://github.com/postalhq/postal)
+  - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
+- [sonic-pi](https://github.com/samaaron/sonic-pi)
+  - Code. Music. Live.
+- [homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
+  - 🖋 Casks of Ｆ🅾𝓝𝐓𝚂
+- [rails_admin](https://github.com/sferik/rails_admin)
+  - RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data
+- [Learning-SICP](https://github.com/DeathKing/Learning-SICP)
+  - MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。
+- [colorls](https://github.com/athityakumar/colorls)
+  - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. 🎉
+- [fastlane](https://github.com/fastlane/fastlane)
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db)
+  - A database of vulnerable Ruby Gems
+- [futbol](https://github.com/turingschool-examples/futbol)
+  - 
+- [AR-Environment-Skeleton](https://github.com/crutell331/AR-Environment-Skeleton)
+  - 

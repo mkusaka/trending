@@ -1,51 +1,51 @@
 # rust
-- [rust-blog](https://github.com/pretzelhammer/rust-blog)
-  - Educational blog posts for Rust beginners
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
-  - 📚 Learn to write an embedded OS in Rust 🦀
-- [rustlings](https://github.com/rust-lang/rustlings)
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [tide](https://github.com/http-rs/tide)
-  - Fast and friendly HTTP server framework for async Rust
 - [rust](https://github.com/rust-lang/rust)
   - Empowering everyone to build reliable and efficient software.
-- [librespot](https://github.com/librespot-org/librespot)
-  - Open Source Spotify client library
-- [book](https://github.com/rust-lang/book)
-  - The Rust Programming Language
-- [async-std](https://github.com/async-rs/async-std)
-  - Async version of the Rust standard library
-- [rustfmt](https://github.com/rust-lang/rustfmt)
-  - Format Rust code
-- [fd](https://github.com/sharkdp/fd)
-  - A simple, fast and user-friendly alternative to 'find'
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-  - A curated list of Rust code and resources.
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
-- [hyper](https://github.com/hyperium/hyper)
-  - An HTTP library for Rust
-- [polkadot](https://github.com/paritytech/polkadot)
-  - Polkadot Node Implementation
-- [cargo](https://github.com/rust-lang/cargo)
-  - The Rust package manager
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [rust-libp2p](https://github.com/libp2p/rust-libp2p)
-  - The Rust Implementation of libp2p networking stack.
-- [ripgrep](https://github.com/BurntSushi/ripgrep)
-  - ripgrep recursively searches directories for a regex pattern
-- [tui-rs](https://github.com/fdehau/tui-rs)
-  - Build terminal user interfaces and dashboards using Rust
-- [smol](https://github.com/stjepang/smol)
-  - A small and fast async runtime for Rust
-- [amethyst](https://github.com/amethyst/amethyst)
-  - Data-oriented and data-driven game engine written in Rust
-- [sqlx](https://github.com/launchbadge/sqlx)
-  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+- [rust-blog](https://github.com/pretzelhammer/rust-blog)
+  - Educational blog posts for Rust beginners
 - [alacritty](https://github.com/alacritty/alacritty)
   - A cross-platform, GPU-accelerated terminal emulator
+- [tide](https://github.com/http-rs/tide)
+  - Fast and friendly HTTP server framework for async Rust
+- [clap](https://github.com/clap-rs/clap)
+  - A full featured, fast Command Line Argument Parser for Rust
+- [amethyst](https://github.com/amethyst/amethyst)
+  - Data-oriented and data-driven game engine written in Rust
+- [rustlings](https://github.com/rust-lang/rustlings)
+  - 🦀 Small exercises to get you used to reading and writing Rust code!
 - [iced](https://github.com/hecrj/iced)
   - A cross-platform GUI library for Rust, inspired by Elm
+- [hyper](https://github.com/hyperium/hyper)
+  - An HTTP library for Rust
+- [book](https://github.com/rust-lang/book)
+  - The Rust Programming Language
+- [stylus](https://github.com/mmastrac/stylus)
+  - Lightweight status page for home infrastructure
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
+- [rustfmt](https://github.com/rust-lang/rustfmt)
+  - Format Rust code
+- [realm](https://github.com/zhboner/realm)
+  - A network relay tool
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [reqwest](https://github.com/seanmonstar/reqwest)
+  - An easy and powerful Rust HTTP Client
+- [examples](https://github.com/actix/examples)
+  - Actix web examples
+- [sqlx](https://github.com/launchbadge/sqlx)
+  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+- [yakuza-freecam](https://github.com/etra0/yakuza-freecam)
+  - 
+- [juniper](https://github.com/graphql-rust/juniper)
+  - GraphQL server library for Rust
+- [sled](https://github.com/spacejam/sled)
+  - the champagne of beta embedded databases
+- [druid](https://github.com/xi-editor/druid)
+  - A data-first Rust-native UI design toolkit.
+- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
+  - Rust bindings to wgpu native library
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
+- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
+  - Facilitating high-level interactions between Wasm modules and JavaScript

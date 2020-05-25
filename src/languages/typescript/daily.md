@@ -1,51 +1,51 @@
 # typescript
 - [mobile](https://github.com/CovidShield/mobile)
   - React Native client application for COVID Shield on iOS and Android
-- [covid19_scenarios](https://github.com/neherlab/covid19_scenarios)
-  - Models of COVID-19 outbreak trajectories and hospital demand
-- [react-native-scroll-bottom-sheet](https://github.com/rgommezz/react-native-scroll-bottom-sheet)
-  - Cross platform scrollable bottom sheet with virtualisation support, native animations at 60 FPS and fully implemented in JS land 🔥
+- [TypeScript-Website](https://github.com/microsoft/TypeScript-Website)
+  - The Website and web infrastructure for learning TypeScript
 - [react-navigation](https://github.com/react-navigation/react-navigation)
   - Routing and navigation for your React Native apps
-- [vscode](https://github.com/microsoft/vscode)
-  - Visual Studio Code
-- [outline-client](https://github.com/Jigsaw-Code/outline-client)
-  - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
-- [uniswap-frontend](https://github.com/Uniswap/uniswap-frontend)
-  - 🦄 An open source frontend for Uniswap
-- [ngx-admin](https://github.com/akveo/ngx-admin)
-  - Customizable admin dashboard template based on Angular 8+
-- [react-native-paper](https://github.com/callstack/react-native-paper)
-  - Material Design for React Native (Android & iOS)
-- [storybook](https://github.com/storybookjs/storybook)
-  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
-- [wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-  - 💬 🤖 The most advanced NodeJS whatsapp library for chatbots with advanced features. Be sure to 🌟 this repository for updates!
-- [outline-server](https://github.com/Jigsaw-Code/outline-server)
-  - Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS and Linux.
-- [fullstack-graphql-airbnb-clone](https://github.com/benawad/fullstack-graphql-airbnb-clone)
-  - A Fullstack GraphQL Airbnb Clone with React and React Native
+- [excalidraw](https://github.com/excalidraw/excalidraw)
+  - Virtual whiteboard for sketching hand-drawn like diagrams
 - [react](https://github.com/zeit-ui/react)
   - Modern and minimalist React UI library.
-- [react-shimmer](https://github.com/gokcan/react-shimmer)
-  - 🌠 Async loading, performant Image component for React.js
-- [coc.nvim](https://github.com/neoclide/coc.nvim)
-  - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
-- [rxjs](https://github.com/ReactiveX/rxjs)
-  - A reactive programming library for JavaScript
-- [ts_ci](https://github.com/garronej/ts_ci)
-  - ✅ Continus integration setup for TypeScript projects via GitHub Actions.
-- [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
-  - ✨ Monorepo for all the tooling which enables ESLint to support TypeScript
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
-  - 📋 React hooks for forms validation without the hassle (Web + React Native)
-- [notion-blog](https://github.com/ijjk/notion-blog)
-  - A Next.js site using new SSG support with a Notion backed blog
-- [vitepress](https://github.com/vuejs/vitepress)
-  - Vite & Vue powered static site generator
-- [rich-markdown-editor](https://github.com/outline/rich-markdown-editor)
-  - The open source React and Prosemirror based markdown editor that powers Outline wiki. Want to try it out? Create an account:
-- [ionic-docs](https://github.com/ionic-team/ionic-docs)
-  - 
-- [pokemon-showdown](https://github.com/smogon/pokemon-showdown)
-  - Pokémon battle simulator.
+- [nest](https://github.com/nestjs/nest)
+  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
+  - A Foundation for Scalable Cross-Platform Apps
+- [AtCoderProblems](https://github.com/kenkoooo/AtCoderProblems)
+  - Problem manager for AtCoder users
+- [vscode-live-server](https://github.com/ritwickdey/vscode-live-server)
+  - Launch a development local Server with live reload feature for static & dynamic pages.
+- [vuetify](https://github.com/vuetifyjs/vuetify)
+  - 🐉 Material Component Framework for Vue
+- [pnpm](https://github.com/pnpm/pnpm)
+  - 📦🚀 Fast, disk space efficient package manager
+- [face-api.js](https://github.com/justadudewhohacks/face-api.js)
+  - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
+- [bulletproof-nodejs](https://github.com/santiq/bulletproof-nodejs)
+  - Implementation of a bulletproof node.js API 🛡️
+- [blitz](https://github.com/blitz-js/blitz)
+  - ⚡️The Fullstack React Framework — built on Next.js
+- [typeorm](https://github.com/typeorm/typeorm)
+  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+- [pixi.js](https://github.com/pixijs/pixi.js)
+  - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+- [vscode-markdown](https://github.com/yzhang-gh/vscode-markdown)
+  - Markdown All in One
+- [vscode](https://github.com/microsoft/vscode)
+  - Visual Studio Code
+- [etcher](https://github.com/balena-io/etcher)
+  - Flash OS images to SD cards & USB drives, safely and easily.
+- [nestjs-realworld-example-app](https://github.com/lujakob/nestjs-realworld-example-app)
+  - Exemplary real world backend API built with NestJS + TypeORM / Prisma
+- [firebase-js-sdk](https://github.com/firebase/firebase-js-sdk)
+  - Firebase Javascript SDK
+- [BoostNote.next](https://github.com/BoostIO/BoostNote.next)
+  - An intuitive and stylish markdown note app for the developers.
+- [deno_website2](https://github.com/denoland/deno_website2)
+  - deno.land website
+- [idb](https://github.com/jakearchibald/idb)
+  - IndexedDB, but with promises
+- [frontend](https://github.com/home-assistant/frontend)
+  - 🍭 Frontend for Home Assistant
