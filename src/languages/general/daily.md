@@ -1,50 +1,51 @@
 # general
 - [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) : Shell
   - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
-- [mobile](https://github.com/CovidShield/mobile) : TypeScript
-  - React Native client application for COVID Shield on iOS and Android
-- [GW-BASIC](https://github.com/microsoft/GW-BASIC) : C++
-  - The original source code of Microsoft GW-BASIC from 1983
-- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) : 
-  - A book series on JavaScript. @YDKJS on twitter.
-- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) : JavaScript
-  - The ultimate Free Open Source Solution for team communications.
-- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) : 
-  - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-- [lede](https://github.com/coolsnowwolf/lede) : C
-  - Lean's OpenWrt source
-- [multi](https://github.com/hkgumbs/multi) : Swift
-  - Create a custom, lightweight macOS app from a group of websites
-- [rust-blog](https://github.com/pretzelhammer/rust-blog) : Rust
-  - Educational blog posts for Rust beginners
-- [yolov3-keras-tf2](https://github.com/emadboctorx/yolov3-keras-tf2) : Python
-  - yolo implementation in keras and tensorflow 2.2
-- [textshot](https://github.com/ianzhao05/textshot) : Python
-  - Python tool for grabbing text via screenshot
-- [covid19_scenarios](https://github.com/neherlab/covid19_scenarios) : TypeScript
-  - Models of COVID-19 outbreak trajectories and hospital demand
-- [tye](https://github.com/dotnet/tye) : C#
-  - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
-- [MS-DOS](https://github.com/microsoft/MS-DOS) : Assembly
-  - The original sources of MS-DOS 1.25 and 2.0, for reference purposes
-- [ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor) : CSS
-  - 🌈A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.
-- [react-native-scroll-bottom-sheet](https://github.com/rgommezz/react-native-scroll-bottom-sheet) : TypeScript
-  - Cross platform scrollable bottom sheet with virtualisation support, native animations at 60 FPS and fully implemented in JS land 🔥
+- [latex-css](https://github.com/vincentdoerig/latex-css) : HTML
+  - LaTeX.css is a CSS library that makes your website look like a LaTeX document
 - [olivia](https://github.com/olivia-ai/olivia) : Go
   - 💁‍♀️Your new best friend powered by an artificial neural network
-- [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) : C#
-  - A manager for game achievements in Steam.
-- [ligolo](https://github.com/sysdream/ligolo) : Go
-  - Reverse Tunneling made easy for pentesters, by pentesters https://sysdream.com/
-- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
-  - Course Files for Complete Python 3 Bootcamp Course on Udemy
-- [cpython](https://github.com/python/cpython) : Python
-  - The Python programming language
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
-  - 🤓 Build your own (insert technology here)
-- [v2rayN](https://github.com/2dust/v2rayN) : C#
+- [mobile](https://github.com/CovidShield/mobile) : TypeScript
+  - React Native client application for COVID Shield on iOS and Android
+- [MS-DOS](https://github.com/microsoft/MS-DOS) : Assembly
+  - The original sources of MS-DOS 1.25 and 2.0, for reference purposes
 - [transmission](https://github.com/transmission/transmission) : C
   - Official Transmission BitTorrent client repository
+- [opencv](https://github.com/opencv/opencv) : C++
+  - Open Source Computer Vision Library
+- [pcc_2e](https://github.com/ehmatthes/pcc_2e) : HTML
+  - Online resources for Python Crash Course (Second Edition), from No Starch Press
+- [GW-BASIC](https://github.com/microsoft/GW-BASIC) : C++
+  - The original source code of Microsoft GW-BASIC from 1983
+- [Vulkan-Samples](https://github.com/KhronosGroup/Vulkan-Samples) : C++
+  - One stop solution for all Vulkan samples
+- [Undecimus](https://github.com/pwn20wndstuff/Undecimus) : C
+  - unc0ver jailbreak for iOS 11.0 - 12.4
+- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) : 
+  - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+- [duckdb](https://github.com/cwida/duckdb) : C++
+  - DuckDB is an embeddable SQL OLAP Database Management System
+- [building_tool](https://github.com/ranjian0/building_tool) : Python
+  - Building generation addon for blender
+- [reverse-interview](https://github.com/viraptor/reverse-interview) : 
+  - Questions to ask the company during your interview
+- [AirSim](https://github.com/microsoft/AirSim) : C++
+  - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
+- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) : 
+  - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) : JavaScript
+  - ✅ The Node.js best practices list (May 2020)
+- [big_transfer](https://github.com/google-research/big_transfer) : Python
+  - Official repository for the "Big Transfer (BiT): General Visual Representation Learning" paper.
+- [BIGTREETECH-SKR-mini-E3](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3) : C++
+  - BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) : 
+  - A book series on JavaScript. @YDKJS on twitter.
+- [yolov3-keras-tf2](https://github.com/emadboctorx/yolov3-keras-tf2) : Python
+  - yolo implementation in keras and tensorflow 2.2
+- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
+  - Course Files for Complete Python 3 Bootcamp Course on Udemy
+- [clash](https://github.com/Dreamacro/clash) : Go
+  - A rule-based tunnel in Go.
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
+  - 🤓 Build your own (insert technology here)

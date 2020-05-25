@@ -1,51 +1,51 @@
 # javascript
-- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
-  - The ultimate Free Open Source Solution for team communications.
-- [Functional-Light-JS](https://github.com/getify/Functional-Light-JS)
-  - Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter.
-- [Tetris-Basic](https://github.com/kubowania/Tetris-Basic)
-  - This is a simple no nonsense version of Tetris that has no styling
-- [joplin](https://github.com/laurent22/joplin)
-  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
-- [iptv](https://github.com/iptv-org/iptv)
-  - Collection of 8000+ publicly available IPTV channels from all over the world
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [not-paid](https://github.com/kleampa/not-paid)
-  - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+  - ✅ The Node.js best practices list (May 2020)
 - [Mini-Conf](https://github.com/Mini-Conf/Mini-Conf)
   - 
-- [folio-2019](https://github.com/brunosimon/folio-2019)
-  - 
-- [mern-course-bootcamp](https://github.com/jeanrauwers/mern-course-bootcamp)
-  - Complete Free Coding Bootcamp 2020 MERN Stack (For Beginners)
-- [svelte](https://github.com/sveltejs/svelte)
-  - Cybernetically enhanced web apps
-- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
-  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-- [react-native-elements](https://github.com/react-native-elements/react-native-elements)
-  - Cross Platform React Native UI Toolkit
-- [Motrix](https://github.com/agalwood/Motrix)
-  - A full-featured download manager.
-- [yarn](https://github.com/yarnpkg/yarn)
-  - 📦🐈 Fast, reliable, and secure dependency management.
-- [covid19india-react](https://github.com/covid19india/covid19india-react)
-  - Tracking the impact of COVID-19 in India
-- [Ghost](https://github.com/TryGhost/Ghost)
-  - 👻 The #1 headless Node.js CMS for professional publishing
-- [DPlayer](https://github.com/MoePlayer/DPlayer)
-  - 🍭 Wow, such a lovely HTML5 danmaku video player
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [realworld](https://github.com/gothinkster/realworld)
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [brave-browser](https://github.com/brave/brave-browser)
+  - Next generation Brave browser for macOS, Windows, Linux, Android.
+- [appwrite](https://github.com/appwrite/appwrite)
+  - End to end backend server for Web, Mobile, and Flutter developers 🚀
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - 🛁 Clean Code concepts adapted for JavaScript
 - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
   - A professional front-end template for building fast, robust, and adaptable web apps or sites.
-- [howler.js](https://github.com/goldfire/howler.js)
-  - Javascript audio library for the modern web.
-- [cube.js](https://github.com/cube-js/cube.js)
-  - 📊 Cube.js - Open Source Analytics Framework
-- [todoist](https://github.com/karlhadwen/todoist)
-  - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Todoist Using React
+- [iptv](https://github.com/iptv-org/iptv)
+  - Collection of 8000+ publicly available IPTV channels from all over the world
 - [LoveIt](https://github.com/dillonzq/LoveIt)
   - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
-- [content](https://github.com/nuxt/content)
-  - Write in a content/ directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
-- [tailblocks](https://github.com/mertJF/tailblocks)
-  - 🎉 Ready-to-use Tailwind CSS blocks.
+- [luci](https://github.com/openwrt/luci)
+  - LuCI - OpenWrt Configuration Interface
+- [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+  - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
+- [next-site](https://github.com/zeit/next-site)
+  - The official website for Next.js
+- [not-paid](https://github.com/kleampa/not-paid)
+  - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
+- [javascript](https://github.com/airbnb/javascript)
+  - JavaScript Style Guide
+- [responsively-app](https://github.com/manojVivek/responsively-app)
+  - A modified browser that helps in responsive web development.
+- [appium](https://github.com/appium/appium)
+  - 📱 Automation for iOS, Android, and Windows Apps.
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
+  - Starter files, final projects and FAQ for my Complete JavaScript course
+- [mern-course-bootcamp](https://github.com/jeanrauwers/mern-course-bootcamp)
+  - Complete Free Coding Bootcamp 2020 MERN Stack (For Beginners)
+- [Tetris-Basic](https://github.com/kubowania/Tetris-Basic)
+  - This is a simple no nonsense version of Tetris that has no styling
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+  - The ultimate Free Open Source Solution for team communications.
+- [joplin](https://github.com/laurent22/joplin)
+  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [DPlayer](https://github.com/MoePlayer/DPlayer)
+  - 🍭 Wow, such a lovely HTML5 danmaku video player
+- [webpack](https://github.com/webpack/webpack)
+  - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+- [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
+  - 强大的哔哩哔哩增强脚本: 下载视频, 音乐, 封面, 弹幕 / 简化直播间, 评论区, 首页 / 自定义顶栏, 删除广告, 夜间模式 / 触屏设备支持
