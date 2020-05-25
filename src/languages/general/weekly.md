@@ -1,50 +1,51 @@
 # general
+- [learngo](https://github.com/inancgumus/learngo) : Go
+  - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
+- [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) : C++
+  - All Algorithms implemented in C++
+- [Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) : Java
+  - 是 难得一见 的 Jetpack MVVM 最佳实践！在 蕴繁于简 的代码中，对 视图控制器 乃至 标准化开发模式 形成正确、深入的理解！
+- [Recoil](https://github.com/facebookexperimental/Recoil) : JavaScript
+  - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
+- [PowerToys](https://github.com/microsoft/PowerToys) : C++
+  - Windows system utilities to maximize productivity
+- [exposure-notifications-server](https://github.com/google/exposure-notifications-server) : Go
+  - Exposure Notification Reference Server | Covid-19 Exposure Notifications
+- [C](https://github.com/TheAlgorithms/C) : C
+  - All Algorithms implemented in C
+- [spleeter](https://github.com/deezer/spleeter) : Python
+  - Deezer source separation library including pretrained models.
+- [terminal](https://github.com/microsoft/terminal) : C++
+  - The new Windows Terminal and the original Windows console host, all in the same place!
+- [cwa-documentation](https://github.com/corona-warn-app/cwa-documentation) : 
+  - Project overview, general documentation, and white papers.
+- [ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor) : CSS
+  - 🌈A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.
+- [Background-Matting](https://github.com/senguptaumd/Background-Matting) : Python
+  - Background Matting: The World is Your Green Screen
+- [InternetArchitect](https://github.com/bjmashibing/InternetArchitect) : Java
+  - 年薪百万互联网架构师课程文档及源码(公开部分)
 - [deno](https://github.com/denoland/deno) : TypeScript
   - A secure JavaScript and TypeScript runtime
-- [pose-animator](https://github.com/yemount/pose-animator) : JavaScript
-- [spring-analysis](https://github.com/seaswalker/spring-analysis) : Java
-  - Spring源码阅读
-- [sm64pc](https://github.com/sm64pc/sm64pc) : C
-  - OpenGL adaptation of n64decomp/sm64.
-- [mobile-android](https://github.com/AU-COVIDSafe/mobile-android) : Kotlin
-  - COVIDSafe android app
-- [pi-hole](https://github.com/pi-hole/pi-hole) : Shell
-  - A black hole for Internet advertisements
+- [openvino](https://github.com/openvinotoolkit/openvino) : C++
+  - OpenVINO™ Toolkit - Deep Learning Deployment Toolkit repository
+- [jetbrains-reset-trial-evaluation-mac](https://github.com/alexatiks/jetbrains-reset-trial-evaluation-mac) : Shell
+  - Reset Intellij IDEA, WebStorm, DataGrip, PhpStorm, CLion, PyCharm, RubyMine and GoLand evaluation (2019 / 2020 / Mac OS)
+- [nlp](https://github.com/huggingface/nlp) : Python
+  - 🤗 nlp: datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow
+- [roslyn](https://github.com/dotnet/roslyn) : C#
+  - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
+- [Java](https://github.com/TheAlgorithms/Java) : Java
+  - All Algorithms implemented in Java
+- [mediasoup](https://github.com/versatica/mediasoup) : C++
+  - Cutting Edge WebRTC Video Conferencing
+- [TDengine](https://github.com/taosdata/TDengine) : C
+  - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot) : Java
   - 基于代码生成器的低代码开发平台，开源界“小普元”超越传统商业开发平台！前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新开发模式(OnlineCoding-> 代码生成-> 手工MERGE)，帮助Java项目解决70%重复工作，让开发更关注业务逻辑，既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。
-- [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) : Java
-  - spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…
-- [lite](https://github.com/rxi/lite) : Lua
-  - A lightweight text editor written in Lua
-- [mobile-ios](https://github.com/AU-COVIDSafe/mobile-ios) : Swift
-  - COVIDSafe IOS app
-- [renren-fast-vue](https://github.com/renrenio/renren-fast-vue) : JavaScript
-  - renren-fast-vue基于vue、element-ui构建开发，实现renren-fast后台管理前端功能，提供一套更优的前端解决方案。
-- [detectron2](https://github.com/facebookresearch/detectron2) : Python
-  - Detectron2 is FAIR's next-generation platform for object detection and segmentation.
-- [next.js](https://github.com/zeit/next.js) : JavaScript
-  - The React Framework
-- [flux](https://github.com/fluxcd/flux) : Go
-  - The GitOps Kubernetes operator
-- [cli](https://github.com/cli/cli) : Go
-  - GitHub’s official command line tool
-- [nightingale](https://github.com/didi/nightingale) : Go
-  - A Distributed and High-Performance Monitoring System
-- [exposure-notifications-android](https://github.com/google/exposure-notifications-android) : Java
-  - Exposure Notifications Android Reference Design
-- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) : PowerShell
-  - Azure Quickstart Templates
 - [Python](https://github.com/TheAlgorithms/Python) : Python
   - All Algorithms implemented in Python
-- [dapr](https://github.com/dapr/dapr) : Go
-  - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-- [computer-science-flash-cards](https://github.com/jwasham/computer-science-flash-cards) : HTML
-  - Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
-- [viper](https://github.com/spf13/viper) : Go
-  - Go configuration with fangs
-- [liugh-parent](https://github.com/qq53182347/liugh-parent) : Java
-  - SpringBoot+SpringCloud Oauth2+JWT+MybatisPlus实现Restful快速开发后端脚手架
-- [Ventoy](https://github.com/ventoy/Ventoy) : C
-  - A new bootable USB solution.
-- [discord.js](https://github.com/discordjs/discord.js) : JavaScript
-  - A powerful JavaScript library for interacting with the Discord API
+- [tink](https://github.com/google/tink) : C++
+  - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
+- [Quantum](https://github.com/microsoft/Quantum) : PowerShell
+  - Microsoft Quantum Development Kit Samples
