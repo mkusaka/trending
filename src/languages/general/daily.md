@@ -1,51 +1,51 @@
 # general
-- [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) : Shell
-  - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
-- [latex-css](https://github.com/vincentdoerig/latex-css) : HTML
-  - LaTeX.css is a CSS library that makes your website look like a LaTeX document
+- [popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) : JavaScript
+  - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player. Desktop ( Windows / Mac / Linux ) a Butter-Project Fork
+- [immuni-documentation](https://github.com/immuni-app/immuni-documentation) : 
+  - Repo for Immuni's documentation.
+- [Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) : Java
+  - 是 难得一见 的 Jetpack MVVM 最佳实践！在 蕴繁于简 的代码中，对 视图控制器 乃至 标准化开发模式 形成正确、深入的理解！
+- [responsively-app](https://github.com/manojVivek/responsively-app) : JavaScript
+  - A modified browser that helps in responsive web development.
+- [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) : Python
+  - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
+- [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) : Python
+  - Geometric Deep Learning Extension Library for PyTorch
 - [olivia](https://github.com/olivia-ai/olivia) : Go
   - 💁‍♀️Your new best friend powered by an artificial neural network
-- [mobile](https://github.com/CovidShield/mobile) : TypeScript
-  - React Native client application for COVID Shield on iOS and Android
-- [MS-DOS](https://github.com/microsoft/MS-DOS) : Assembly
-  - The original sources of MS-DOS 1.25 and 2.0, for reference purposes
-- [transmission](https://github.com/transmission/transmission) : C
-  - Official Transmission BitTorrent client repository
-- [opencv](https://github.com/opencv/opencv) : C++
-  - Open Source Computer Vision Library
-- [pcc_2e](https://github.com/ehmatthes/pcc_2e) : HTML
-  - Online resources for Python Crash Course (Second Edition), from No Starch Press
-- [GW-BASIC](https://github.com/microsoft/GW-BASIC) : C++
-  - The original source code of Microsoft GW-BASIC from 1983
-- [Vulkan-Samples](https://github.com/KhronosGroup/Vulkan-Samples) : C++
-  - One stop solution for all Vulkan samples
-- [Undecimus](https://github.com/pwn20wndstuff/Undecimus) : C
-  - unc0ver jailbreak for iOS 11.0 - 12.4
-- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) : 
-  - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-- [duckdb](https://github.com/cwida/duckdb) : C++
-  - DuckDB is an embeddable SQL OLAP Database Management System
-- [building_tool](https://github.com/ranjian0/building_tool) : Python
-  - Building generation addon for blender
-- [reverse-interview](https://github.com/viraptor/reverse-interview) : 
-  - Questions to ask the company during your interview
-- [AirSim](https://github.com/microsoft/AirSim) : C++
-  - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
-- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) : 
-  - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) : JavaScript
-  - ✅ The Node.js best practices list (May 2020)
-- [big_transfer](https://github.com/google-research/big_transfer) : Python
-  - Official repository for the "Big Transfer (BiT): General Visual Representation Learning" paper.
-- [BIGTREETECH-SKR-mini-E3](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3) : C++
-  - BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [openvino](https://github.com/openvinotoolkit/openvino) : C++
+  - OpenVINO™ Toolkit - Deep Learning Deployment Toolkit repository
+- [Marketing-for-Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) : 
+  - A curated collection of marketing articles & tools to grow your product.
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) : 
   - A book series on JavaScript. @YDKJS on twitter.
-- [yolov3-keras-tf2](https://github.com/emadboctorx/yolov3-keras-tf2) : Python
-  - yolo implementation in keras and tensorflow 2.2
-- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
-  - Course Files for Complete Python 3 Bootcamp Course on Udemy
-- [clash](https://github.com/Dreamacro/clash) : Go
-  - A rule-based tunnel in Go.
+- [espnet](https://github.com/espnet/espnet) : Python
+  - End-to-End Speech Processing Toolkit
+- [content](https://github.com/nuxt/content) : JavaScript
+  - Write in a content/ directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
   - 🤓 Build your own (insert technology here)
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) : 
+  - Master the command line, in one page
+- [mastodon](https://github.com/tootsuite/mastodon) : Ruby
+  - Your self-hosted, globally interconnected microblogging community
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
+  - 📚 Freely available programming books
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
+  - Roadmap to becoming a web developer in 2020
+- [public-apis](https://github.com/public-apis/public-apis) : Python
+  - A collective list of free APIs for use in software and web development.
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
+  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) : JavaScript
+  - ✅ The Node.js best practices list (May 2020)
+- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) : 
+  - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+- [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) : Shell
+  - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) : Shell
+  - 🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
