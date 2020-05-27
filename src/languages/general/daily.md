@@ -1,51 +1,51 @@
 # general
-- [popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) : JavaScript
-  - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player. Desktop ( Windows / Mac / Linux ) a Butter-Project Fork
-- [immuni-documentation](https://github.com/immuni-app/immuni-documentation) : 
-  - Repo for Immuni's documentation.
-- [Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) : Java
-  - 是 难得一见 的 Jetpack MVVM 最佳实践！在 蕴繁于简 的代码中，对 视图控制器 乃至 标准化开发模式 形成正确、深入的理解！
-- [responsively-app](https://github.com/manojVivek/responsively-app) : JavaScript
-  - A modified browser that helps in responsive web development.
-- [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) : Python
-  - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
-- [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) : Python
-  - Geometric Deep Learning Extension Library for PyTorch
-- [olivia](https://github.com/olivia-ai/olivia) : Go
-  - 💁‍♀️Your new best friend powered by an artificial neural network
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [openvino](https://github.com/openvinotoolkit/openvino) : C++
-  - OpenVINO™ Toolkit - Deep Learning Deployment Toolkit repository
-- [Marketing-for-Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) : 
-  - A curated collection of marketing articles & tools to grow your product.
-- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) : 
-  - A book series on JavaScript. @YDKJS on twitter.
-- [espnet](https://github.com/espnet/espnet) : Python
-  - End-to-End Speech Processing Toolkit
-- [content](https://github.com/nuxt/content) : JavaScript
-  - Write in a content/ directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
-  - 🤓 Build your own (insert technology here)
-- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) : 
-  - Master the command line, in one page
-- [mastodon](https://github.com/tootsuite/mastodon) : Ruby
-  - Your self-hosted, globally interconnected microblogging community
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
   - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
-  - Roadmap to becoming a web developer in 2020
-- [public-apis](https://github.com/public-apis/public-apis) : Python
-  - A collective list of free APIs for use in software and web development.
+- [esbuild](https://github.com/evanw/esbuild) : Go
+  - An extremely fast JavaScript bundler and minifier
+- [Smalltalk](https://github.com/dbanay/Smalltalk) : C
+  - By the Bluebook implementation of Smalltalk-80
+- [popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) : JavaScript
+  - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player. Desktop ( Windows / Mac / Linux ) a Butter-Project Fork
+- [immuni-app-ios](https://github.com/immuni-app/immuni-app-ios) : Swift
+  - Official repository for the iOS version of the immuni application
+- [TDengine](https://github.com/taosdata/TDengine) : C
+  - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
   - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) : Java
+  - 是 难得一见 的 Jetpack MVVM 最佳实践！在 蕴繁于简 的代码中，对 视图控制器 乃至 标准化开发模式 形成正确、深入的理解！
+- [fast_io](https://github.com/expnkx/fast_io) : C++
+  - fast_io is a C++ io exception-safe RAII library based on C++ 20 Concepts. It is at least 10 times faster than cstdio than iostream.
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
+  - 🤓 Build your own (insert technology here)
+- [deno-forum](https://github.com/DenoBrazil/deno-forum) : 
+  - 🦖 Fórum com o objetivo de centralizar discussões da comunidade de Deno
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
+  - 📚 Freely available programming books
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) : 
+  - Master the command line, in one page
+- [tailblocks](https://github.com/mertJF/tailblocks) : JavaScript
+  - 🎉 Ready-to-use Tailwind CSS blocks.
+- [Real_Time_Image_Animation](https://github.com/anandpawara/Real_Time_Image_Animation) : Python
+  - The Project is real time application in opencv using first order model
+- [public-apis](https://github.com/public-apis/public-apis) : Python
+  - A collective list of free APIs for use in software and web development.
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
+  - Roadmap to becoming a web developer in 2020
+- [mediapipe](https://github.com/google/mediapipe) : C++
+  - MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.
+- [ml-visuals](https://github.com/dair-ai/ml-visuals) : 
+  - Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.
+- [OI_Sharing](https://github.com/Xunzhuo/OI_Sharing) : Roff
+  - 🔥Algorithm all in One：算法、数据结构的学习路线、教程、课件、论文、书籍、OJ网站、习题✈️。自学、竞赛、面试必备！持续更新中🎄让算法学习更加容易🎖为你的算法之旅提供便利🚗不管你算法能力如何❓这个仓库里总有适合你的算法指导🌍
+- [immuni-app-android](https://github.com/immuni-app/immuni-app-android) : Kotlin
+  - Official repository for the Android version of the immuni application
+- [cli](https://github.com/cli/cli) : Go
+  - GitHub’s official command line tool
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) : JavaScript
   - ✅ The Node.js best practices list (May 2020)
-- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) : 
-  - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-- [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) : Shell
-  - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) : Shell
-  - 🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [threadx](https://github.com/azure-rtos/threadx) : C
+  - Azure RTOS ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
+- [JavaGuide](https://github.com/Snailclimb/JavaGuide) : Java
+  - 「Java学习+面试指南」一份涵盖大部分Java程序员所需要掌握的核心知识。
