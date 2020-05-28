@@ -1,51 +1,51 @@
 # general
+- [AarogyaSetu_Android](https://github.com/nic-delhi/AarogyaSetu_Android) : Java
+  - Aarogya Setu Android app native code
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
   - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [esbuild](https://github.com/evanw/esbuild) : Go
-  - An extremely fast JavaScript bundler and minifier
-- [Smalltalk](https://github.com/dbanay/Smalltalk) : C
-  - By the Bluebook implementation of Smalltalk-80
-- [popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) : JavaScript
-  - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player. Desktop ( Windows / Mac / Linux ) a Butter-Project Fork
-- [immuni-app-ios](https://github.com/immuni-app/immuni-app-ios) : Swift
-  - Official repository for the iOS version of the immuni application
-- [TDengine](https://github.com/taosdata/TDengine) : C
-  - An open-source big data platform designed and optimized for the Internet of Things (IoT).
-- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
-  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-- [Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) : Java
-  - 是 难得一见 的 Jetpack MVVM 最佳实践！在 蕴繁于简 的代码中，对 视图控制器 乃至 标准化开发模式 形成正确、深入的理解！
-- [fast_io](https://github.com/expnkx/fast_io) : C++
-  - fast_io is a C++ io exception-safe RAII library based on C++ 20 Concepts. It is at least 10 times faster than cstdio than iostream.
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
-  - 🤓 Build your own (insert technology here)
-- [deno-forum](https://github.com/DenoBrazil/deno-forum) : 
-  - 🦖 Fórum com o objetivo de centralizar discussões da comunidade de Deno
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) : 
-  - Master the command line, in one page
-- [tailblocks](https://github.com/mertJF/tailblocks) : JavaScript
-  - 🎉 Ready-to-use Tailwind CSS blocks.
 - [Real_Time_Image_Animation](https://github.com/anandpawara/Real_Time_Image_Animation) : Python
   - The Project is real time application in opencv using first order model
-- [public-apis](https://github.com/public-apis/public-apis) : Python
-  - A collective list of free APIs for use in software and web development.
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
-  - Roadmap to becoming a web developer in 2020
-- [mediapipe](https://github.com/google/mediapipe) : C++
-  - MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.
-- [ml-visuals](https://github.com/dair-ai/ml-visuals) : 
-  - Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.
-- [OI_Sharing](https://github.com/Xunzhuo/OI_Sharing) : Roff
-  - 🔥Algorithm all in One：算法、数据结构的学习路线、教程、课件、论文、书籍、OJ网站、习题✈️。自学、竞赛、面试必备！持续更新中🎄让算法学习更加容易🎖为你的算法之旅提供便利🚗不管你算法能力如何❓这个仓库里总有适合你的算法指导🌍
-- [immuni-app-android](https://github.com/immuni-app/immuni-app-android) : Kotlin
-  - Official repository for the Android version of the immuni application
-- [cli](https://github.com/cli/cli) : Go
-  - GitHub’s official command line tool
+- [Smalltalk](https://github.com/dbanay/Smalltalk) : C
+  - By the Bluebook implementation of Smalltalk-80
+- [virtual-environments](https://github.com/actions/virtual-environments) : PowerShell
+  - GitHub Actions virtual environments
+- [next_word_prediction](https://github.com/renatoviolin/next_word_prediction) : Python
+  - Using transformers to predict next word and predict <mask> word
+- [vaex](https://github.com/vaexio/vaex) : Python
+  - Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second 🚀
+- [DeloresDev](https://github.com/grumpygamer/DeloresDev) : HTML
+  - Read all about it on GrumpyGamer:
+- [realworld](https://github.com/gothinkster/realworld) : JavaScript
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [tailblocks](https://github.com/mertJF/tailblocks) : JavaScript
+  - 🎉 Ready-to-use Tailwind CSS blocks.
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) : JavaScript
   - ✅ The Node.js best practices list (May 2020)
+- [free5gc](https://github.com/free5gc/free5gc) : Go
+  - Open source 5G core network base on 3GPP R15
+- [mediapipe](https://github.com/google/mediapipe) : C++
+  - MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.
+- [nnn](https://github.com/jarun/nnn) : C
+  - n³ The missing terminal file manager for X.
+- [cli](https://github.com/cli/cli) : Go
+  - GitHub’s official command line tool
+- [googletest](https://github.com/google/googletest) : C++
+  - Googletest - Google Testing and Mocking Framework
+- [javascript](https://github.com/airbnb/javascript) : JavaScript
+  - JavaScript Style Guide
 - [threadx](https://github.com/azure-rtos/threadx) : C
   - Azure RTOS ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
-- [JavaGuide](https://github.com/Snailclimb/JavaGuide) : Java
-  - 「Java学习+面试指南」一份涵盖大部分Java程序员所需要掌握的核心知识。
+- [json](https://github.com/nlohmann/json) : C++
+  - JSON for Modern C++
+- [esbuild](https://github.com/evanw/esbuild) : Go
+  - An extremely fast JavaScript bundler and minifier
+- [flair](https://github.com/flairNLP/flair) : Python
+  - A very simple framework for state-of-the-art Natural Language Processing (NLP)
+- [stable-baselines3](https://github.com/DLR-RM/stable-baselines3) : Python
+  - PyTorch version of Stable Baselines, improved implementations of reinforcement learning algorithms.
+- [Apollo-11](https://github.com/chrislgarry/Apollo-11) : Assembly
+  - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) : 
+  - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+- [OrangeJs](https://github.com/Orange-shirt/OrangeJs) : 
+  - 使用Auto.js软件制作的脚本合辑
