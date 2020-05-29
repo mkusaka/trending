@@ -1,51 +1,51 @@
 # typescript
-- [storybook](https://github.com/storybookjs/storybook)
-  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
-- [1loc](https://github.com/phuoc-ng/1loc)
-  - What's your favorite JavaScript single LOC (line of code)?
-- [ice](https://github.com/alibaba/ice)
-  - 🚀Simple and friendly front-end development system（飞冰，简单而友好的前端研发体系 ）https://ice.work/
-- [PeerTube](https://github.com/Chocobozzz/PeerTube)
-  - ActivityPub-federated video streaming platform using P2P directly in your web browser
-- [attack-navigator](https://github.com/mitre-attack/attack-navigator)
-  - Web app that provides basic navigation and annotation of ATT&CK matrices
-- [amplify-js](https://github.com/aws-amplify/amplify-js)
-  - A declarative JavaScript library for application development using cloud services.
-- [platform](https://github.com/ngrx/platform)
-  - Reactive libraries for Angular
-- [ant-design](https://github.com/ant-design/ant-design)
-  - 🌈 A UI Design Language and React UI library
-- [SIP.js](https://github.com/onsip/SIP.js)
-  - A simple, intuitive, and powerful JavaScript signaling library
-- [checkout](https://github.com/actions/checkout)
-  - Action for checking out a repo
-- [typeorm](https://github.com/typeorm/typeorm)
-  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-- [redoc](https://github.com/Redocly/redoc)
-  - 📘 OpenAPI/Swagger-generated API Reference Documentation
-- [react-use](https://github.com/streamich/react-use)
-  - React Hooks — 👍
-- [firebase-js-sdk](https://github.com/firebase/firebase-js-sdk)
-  - Firebase Javascript SDK
-- [opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js)
-  - OpenTelemetry JavaScript API and SDK
+- [covid19_scenarios](https://github.com/neherlab/covid19_scenarios)
+  - Models of COVID-19 outbreak trajectories and hospital demand
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form)
   - 📋 React hooks for forms validation without the hassle (Web + React Native)
-- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
-  - The source for REST API specifications for Microsoft Azure.
-- [react-native-webview](https://github.com/react-native-community/react-native-webview)
-  - React Native Cross-Platform WebView
-- [cucumber-js](https://github.com/cucumber/cucumber-js)
-  - Cucumber for JavaScript
-- [twilio-video-app-react](https://github.com/twilio/twilio-video-app-react)
-  - A collaboration application built with the twilio-video.js SDK and React.js
-- [prisma](https://github.com/prisma/prisma)
-  - Modern DB toolkit to query, migrate and model your database
-- [nx](https://github.com/nrwl/nx)
-  - Extensible Dev Tools for Monorepos
-- [flipper](https://github.com/facebook/flipper)
-  - A desktop debugging platform for mobile developers.
-- [theia](https://github.com/eclipse-theia/theia)
-  - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [excalidraw](https://github.com/excalidraw/excalidraw)
-  - Virtual whiteboard for sketching hand-drawn like diagrams
+- [stencil](https://github.com/ionic-team/stencil)
+  - A Web Component compiler for building fast, reusable UI components and Progressive Web Apps 💎 Built by the Ionic Framework team
+- [storybook](https://github.com/storybookjs/storybook)
+  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+- [vue-next](https://github.com/vuejs/vue-next)
+  - Repo for Vue 3.0 (currently in beta)
+- [rough-notation](https://github.com/pshihn/rough-notation)
+  - Create and animate hand-drawn annotations on a web page
+- [angular-cli](https://github.com/angular/angular-cli)
+  - CLI tool for Angular
+- [askql](https://github.com/xFAANG/askql)
+  - AskQL is a query language that can express any data request
+- [type-graphql](https://github.com/MichalLytek/type-graphql)
+  - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
+- [vitepress](https://github.com/vuejs/vitepress)
+  - Vite & Vue powered static site generator
+- [aws-cdk](https://github.com/aws/aws-cdk)
+  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+- [typeorm](https://github.com/typeorm/typeorm)
+  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+- [react-native-modal](https://github.com/react-native-community/react-native-modal)
+  - An enhanced, animated and customizable react-native modal
+- [recharts](https://github.com/recharts/recharts)
+  - Redefined chart library built with React and D3
+- [GGEditor](https://github.com/alibaba/GGEditor)
+  - A visual graph editor based on G6 and React
+- [react-use](https://github.com/streamich/react-use)
+  - React Hooks — 👍
+- [destreamer](https://github.com/snobu/destreamer)
+  - Save Microsoft Stream videos for offline enjoyment.
+- [pico](https://github.com/nikersify/pico)
+  - Take browser screenshots in Javascript 📸
+- [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)
+  - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
+- [nest](https://github.com/nestjs/nest)
+  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [attack-navigator](https://github.com/mitre-attack/attack-navigator)
+  - Web app that provides basic navigation and annotation of ATT&CK matrices
+- [code-server](https://github.com/cdr/code-server)
+  - VS Code in the browser
+- [rxjs](https://github.com/ReactiveX/rxjs)
+  - A reactive programming library for JavaScript
+- [formik](https://github.com/jaredpalmer/formik)
+  - Build forms in React, without the tears 😭
+- [refined-github](https://github.com/sindresorhus/refined-github)
+  - Browser extension that simplifies the GitHub interface and adds useful features
