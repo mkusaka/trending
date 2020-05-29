@@ -1,51 +1,50 @@
 # general
-- [AarogyaSetu_Android](https://github.com/nic-delhi/AarogyaSetu_Android) : Java
-  - Aarogya Setu Android app native code
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [Real_Time_Image_Animation](https://github.com/anandpawara/Real_Time_Image_Animation) : Python
-  - The Project is real time application in opencv using first order model
-- [Smalltalk](https://github.com/dbanay/Smalltalk) : C
-  - By the Bluebook implementation of Smalltalk-80
-- [virtual-environments](https://github.com/actions/virtual-environments) : PowerShell
-  - GitHub Actions virtual environments
-- [next_word_prediction](https://github.com/renatoviolin/next_word_prediction) : Python
-  - Using transformers to predict next word and predict <mask> word
-- [vaex](https://github.com/vaexio/vaex) : Python
-  - Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second 🚀
-- [DeloresDev](https://github.com/grumpygamer/DeloresDev) : HTML
-  - Read all about it on GrumpyGamer:
-- [realworld](https://github.com/gothinkster/realworld) : JavaScript
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [detr](https://github.com/facebookresearch/detr) : Python
+  - End-to-End Object Detection with Transformers
 - [tailblocks](https://github.com/mertJF/tailblocks) : JavaScript
   - 🎉 Ready-to-use Tailwind CSS blocks.
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) : JavaScript
-  - ✅ The Node.js best practices list (May 2020)
-- [free5gc](https://github.com/free5gc/free5gc) : Go
-  - Open source 5G core network base on 3GPP R15
+- [create-snowpack-app](https://github.com/pikapkg/create-snowpack-app) : JavaScript
+  - CSA - Get started with the fastest dev environment available.
 - [mediapipe](https://github.com/google/mediapipe) : C++
   - MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.
-- [nnn](https://github.com/jarun/nnn) : C
-  - n³ The missing terminal file manager for X.
 - [cli](https://github.com/cli/cli) : Go
   - GitHub’s official command line tool
-- [googletest](https://github.com/google/googletest) : C++
-  - Googletest - Google Testing and Mocking Framework
-- [javascript](https://github.com/airbnb/javascript) : JavaScript
-  - JavaScript Style Guide
-- [threadx](https://github.com/azure-rtos/threadx) : C
-  - Azure RTOS ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
-- [json](https://github.com/nlohmann/json) : C++
-  - JSON for Modern C++
-- [esbuild](https://github.com/evanw/esbuild) : Go
-  - An extremely fast JavaScript bundler and minifier
-- [flair](https://github.com/flairNLP/flair) : Python
-  - A very simple framework for state-of-the-art Natural Language Processing (NLP)
-- [stable-baselines3](https://github.com/DLR-RM/stable-baselines3) : Python
-  - PyTorch version of Stable Baselines, improved implementations of reinforcement learning algorithms.
-- [Apollo-11](https://github.com/chrislgarry/Apollo-11) : Assembly
-  - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+- [rocksdb](https://github.com/facebook/rocksdb) : C++
+  - A library that provides an embeddable, persistent key-value store for fast storage.
+- [fastjson](https://github.com/alibaba/fastjson) : Java
+  - A fast JSON parser/generator for Java.
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) : Python
+  - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
+- [micro](https://github.com/zyedidia/micro) : Go
+  - A modern and intuitive terminal-based text editor
+- [realworld](https://github.com/gothinkster/realworld) : JavaScript
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) : JavaScript
+  - ✅ The Node.js best practices list (May 2020)
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) : 
   - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-- [OrangeJs](https://github.com/Orange-shirt/OrangeJs) : 
-  - 使用Auto.js软件制作的脚本合辑
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [rich](https://github.com/willmcgugan/rich) : Python
+  - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [helloworld](https://github.com/fw876/helloworld) : Lua
+- [flutter_hrlweibo](https://github.com/huangruiLearn/flutter_hrlweibo) : Dart
+  - Flutter仿微博客户端, 包含首页、视频、发现、消息(仿微博聊界面)及个人中心模块
+- [introRL](https://github.com/zhoubolei/introRL) : 
+  - Intro to Reinforcement Learning (强化学习纲要）
+- [covid19_scenarios](https://github.com/neherlab/covid19_scenarios) : TypeScript
+  - Models of COVID-19 outbreak trajectories and hospital demand
+- [javascript](https://github.com/airbnb/javascript) : JavaScript
+  - JavaScript Style Guide
+- [snowpack](https://github.com/pikapkg/snowpack) : JavaScript
+  - ☶ A faster dev environment for modern web apps.
+- [serenity](https://github.com/SerenityOS/serenity) : C++
+  - The Serenity Operating System 🐞
+- [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) : Jupyter Notebook
+  - This repository contains the source code for the paper First Order Motion Model for Image Animation
+- [extendedmode](https://github.com/extendedmode/extendedmode) : Lua
+  - Community fork of es_extended
+- [ZY-Player](https://github.com/Hunlongyu/ZY-Player) : Vue
+  - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
+- [WIKISTORE](https://github.com/TheWizWikii/WIKISTORE) : 
+  - App/Game para PS3
