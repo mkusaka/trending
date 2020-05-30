@@ -1,50 +1,50 @@
 # general
-- [detr](https://github.com/facebookresearch/detr) : Python
-  - End-to-End Object Detection with Transformers
+- [pose-animator](https://github.com/yemount/pose-animator) : JavaScript
+- [go-interview](https://github.com/shomali11/go-interview) : Go
+  - Collection of Technical Interview Questions solved with Go
+- [robotgo](https://github.com/go-vgo/robotgo) : C
+  - RobotGo, Go Native cross-platform GUI automation @vcaesar
+- [excalidraw](https://github.com/excalidraw/excalidraw) : TypeScript
+  - Virtual whiteboard for sketching hand-drawn like diagrams
+- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) : C++
+  - C++那些事
+- [rough-notation](https://github.com/pshihn/rough-notation) : TypeScript
+  - Create and animate hand-drawn annotations on a web page
+- [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) : JavaScript
+  - React Native's Animated library reimplemented
 - [tailblocks](https://github.com/mertJF/tailblocks) : JavaScript
   - 🎉 Ready-to-use Tailwind CSS blocks.
-- [create-snowpack-app](https://github.com/pikapkg/create-snowpack-app) : JavaScript
-  - CSA - Get started with the fastest dev environment available.
-- [mediapipe](https://github.com/google/mediapipe) : C++
-  - MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.
-- [cli](https://github.com/cli/cli) : Go
-  - GitHub’s official command line tool
-- [rocksdb](https://github.com/facebook/rocksdb) : C++
-  - A library that provides an embeddable, persistent key-value store for fast storage.
+- [returns](https://github.com/dry-python/returns) : Python
+  - Make your functions return something meaningful, typed, and safe!
 - [fastjson](https://github.com/alibaba/fastjson) : Java
   - A fast JSON parser/generator for Java.
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) : Python
-  - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
 - [micro](https://github.com/zyedidia/micro) : Go
   - A modern and intuitive terminal-based text editor
-- [realworld](https://github.com/gothinkster/realworld) : JavaScript
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) : JavaScript
-  - ✅ The Node.js best practices list (May 2020)
-- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) : 
-  - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [NewPipe](https://github.com/TeamNewPipe/NewPipe) : Java
+  - A libre lightweight streaming front-end for Android.
+- [htmx](https://github.com/bigskysoftware/htmx) : JavaScript
+  - </> htmx - high power tools for HTML
+- [Lab-Demo-Recordings](https://github.com/MicrosoftLearning/Lab-Demo-Recordings) : 
+  - Recordings and Demos of Labs
 - [rich](https://github.com/willmcgugan/rich) : Python
   - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [helloworld](https://github.com/fw876/helloworld) : Lua
 - [flutter_hrlweibo](https://github.com/huangruiLearn/flutter_hrlweibo) : Dart
   - Flutter仿微博客户端, 包含首页、视频、发现、消息(仿微博聊界面)及个人中心模块
-- [introRL](https://github.com/zhoubolei/introRL) : 
-  - Intro to Reinforcement Learning (强化学习纲要）
-- [covid19_scenarios](https://github.com/neherlab/covid19_scenarios) : TypeScript
-  - Models of COVID-19 outbreak trajectories and hospital demand
-- [javascript](https://github.com/airbnb/javascript) : JavaScript
-  - JavaScript Style Guide
+- [cli](https://github.com/cli/cli) : Go
+  - GitHub’s official command line tool
+- [Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) : Jupyter Notebook
+  - 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
+- [googletest](https://github.com/google/googletest) : C++
+  - Googletest - Google Testing and Mocking Framework
+- [ai-edu](https://github.com/microsoft/ai-edu) : Jupyter Notebook
+  - AI education materials for Chinese students, teachers and IT professionals.
+- [Osiris](https://github.com/danielkrupinski/Osiris) : C++
+  - Free open-source training software / cheat for Counter-Strike: Global Offensive, written in modern C++. GUI powered by imgui.
+- [taobaoVisitingVenues](https://github.com/sleepybear1113/taobaoVisitingVenues) : JavaScript
+  - 京东/淘宝的自动浏览逛店脚本
 - [snowpack](https://github.com/pikapkg/snowpack) : JavaScript
   - ☶ A faster dev environment for modern web apps.
-- [serenity](https://github.com/SerenityOS/serenity) : C++
-  - The Serenity Operating System 🐞
+- [prefect](https://github.com/PrefectHQ/prefect) : Python
+  - The Prefect workflow platform
 - [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) : Jupyter Notebook
   - This repository contains the source code for the paper First Order Motion Model for Image Animation
-- [extendedmode](https://github.com/extendedmode/extendedmode) : Lua
-  - Community fork of es_extended
-- [ZY-Player](https://github.com/Hunlongyu/ZY-Player) : Vue
-  - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
-- [WIKISTORE](https://github.com/TheWizWikii/WIKISTORE) : 
-  - App/Game para PS3

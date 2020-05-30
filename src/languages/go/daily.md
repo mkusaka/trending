@@ -1,51 +1,51 @@
 # go
-- [cli](https://github.com/cli/cli)
-  - GitHub’s official command line tool
+- [go-interview](https://github.com/shomali11/go-interview)
+  - Collection of Technical Interview Questions solved with Go
 - [micro](https://github.com/zyedidia/micro)
   - A modern and intuitive terminal-based text editor
-- [terraform](https://github.com/hashicorp/terraform)
-  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [protobuf](https://github.com/golang/protobuf)
-  - Go support for Google's protocol buffers
+- [cli](https://github.com/cli/cli)
+  - GitHub’s official command line tool
+- [trojan](https://github.com/Jrohy/trojan)
+  - trojan多用户管理部署程序, 支持web页面管理
+- [atlantis](https://github.com/runatlantis/atlantis)
+  - Terraform Pull Request Automation
+- [go](https://github.com/golang/go)
+  - The Go programming language
 - [consul](https://github.com/hashicorp/consul)
   - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [moby](https://github.com/moby/moby)
-  - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [kops](https://github.com/kubernetes/kops)
-  - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
-- [helm](https://github.com/helm/helm)
-  - The Kubernetes Package Manager
-- [rook](https://github.com/rook/rook)
-  - Storage Orchestration for Kubernetes
-- [autoscaler](https://github.com/kubernetes/autoscaler)
-  - Autoscaling components for Kubernetes
-- [free5gc](https://github.com/free5gc/free5gc)
-  - Open source 5G core network base on 3GPP R15
-- [client-go](https://github.com/kubernetes/client-go)
-  - Go client for Kubernetes.
-- [kubectx](https://github.com/ahmetb/kubectx)
-  - Faster way to switch between clusters and namespaces in kubectl
-- [jx](https://github.com/jenkins-x/jx)
-  - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Tekton, Knative, Prow, Skaffold and Helm
-- [elastic](https://github.com/olivere/elastic)
-  - Elasticsearch client for Go.
-- [goconvey](https://github.com/smartystreets/goconvey)
-  - Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
-- [enhancements](https://github.com/kubernetes/enhancements)
-  - Enhancements tracking repo for Kubernetes
-- [sqlx](https://github.com/jmoiron/sqlx)
-  - general purpose extensions to golang's database/sql
-- [kubernetes](https://github.com/kubernetes/kubernetes)
-  - Production-Grade Container Scheduling and Management
-- [kind](https://github.com/kubernetes-sigs/kind)
-  - Kubernetes IN Docker - local clusters for testing Kubernetes
+- [nakama](https://github.com/heroiclabs/nakama)
+  - Distributed server for social and realtime games and apps.
+- [origin](https://github.com/openshift/origin)
+  - Images for OpenShift 3 and 4 - see openshift/okd for more
+- [distribution](https://github.com/docker/distribution)
+  - The Docker toolset to pack, ship, store, and deliver content
+- [openyurt](https://github.com/alibaba/openyurt)
+  - OpenYurt - Extending your native Kubernetes to edge
+- [kubeedge](https://github.com/kubeedge/kubeedge)
+  - Kubernetes Native Edge Computing Framework (project under CNCF)
+- [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm)
+  - Terraform provider for Azure Resource Manager
+- [terraform](https://github.com/hashicorp/terraform)
+  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [grpc-go](https://github.com/grpc/grpc-go)
+  - The Go language implementation of gRPC. HTTP/2 based RPC
+- [gopherdance](https://github.com/80at8/gopherdance)
+  - some dancing gophers in your terminal
+- [opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector)
+  - OpenTelemetry Service
 - [go-cache](https://github.com/patrickmn/go-cache)
   - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
-- [ingress-nginx](https://github.com/kubernetes/ingress-nginx)
-  - NGINX Ingress Controller for Kubernetes
+- [keda](https://github.com/kedacore/keda)
+  - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+- [beats](https://github.com/elastic/beats)
+  - 🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
+- [govalidator](https://github.com/asaskevich/govalidator)
+  - [Go] Package of validators and sanitizers for strings, numerics, slices and structs
+- [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway)
+  - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [vault](https://github.com/hashicorp/vault)
   - A tool for secrets management, encryption as a service, and privileged access management
-- [teleport](https://github.com/gravitational/teleport)
-  - Zero Trust Access to Infrastructure and Applications
-- [alertmanager](https://github.com/prometheus/alertmanager)
-  - Prometheus Alertmanager
+- [bolt](https://github.com/boltdb/bolt)
+  - An embedded key/value database for Go.
+- [libpod](https://github.com/containers/libpod)
+  - libpod is a library used to create container pods. Home of Podman.
