@@ -1,51 +1,51 @@
 # javascript
-- [tailblocks](https://github.com/mertJF/tailblocks)
-  - 🎉 Ready-to-use Tailwind CSS blocks.
-- [create-snowpack-app](https://github.com/pikapkg/create-snowpack-app)
-  - CSA - Get started with the fastest dev environment available.
-- [realworld](https://github.com/gothinkster/realworld)
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
-  - ✅ The Node.js best practices list (May 2020)
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [javascript](https://github.com/airbnb/javascript)
-  - JavaScript Style Guide
-- [snowpack](https://github.com/pikapkg/snowpack)
-  - ☶ A faster dev environment for modern web apps.
 - [pose-animator](https://github.com/yemount/pose-animator)
   - 
-- [supabase](https://github.com/supabase/supabase)
-  - Website, docs, and client libraries. Follow to stay updated about our public Beta.
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [vuepress](https://github.com/vuejs/vuepress)
-  - 📝 Minimalistic Vue-powered static site generator
-- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
-  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
-- [sweater](https://github.com/zarkin404/sweater)
-  - 薅🐑毛，做衬衫（最近更新：京东 618 叠蛋糕脚本，非模拟点击，PC 浏览器可运行）
-- [AudioMass](https://github.com/pkalogiros/AudioMass)
-  - Free full-featured web-based audio & waveform editing tool
-- [aws-sdk-js](https://github.com/aws/aws-sdk-js)
-  - AWS SDK for JavaScript in the browser and Node.js
-- [opencti](https://github.com/OpenCTI-Platform/opencti)
-  - Open Cyber Threat Intelligence Platform
-- [google-meet-grid-view](https://github.com/Fugiman/google-meet-grid-view)
-  - Userscript to offer a grid-view layout in Google Meets
-- [didact](https://github.com/pomber/didact)
-  - A DIY guide to build your own React
+- [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated)
+  - React Native's Animated library reimplemented
+- [tailblocks](https://github.com/mertJF/tailblocks)
+  - 🎉 Ready-to-use Tailwind CSS blocks.
 - [htmx](https://github.com/bigskysoftware/htmx)
   - </> htmx - high power tools for HTML
-- [graphql-engine](https://github.com/hasura/graphql-engine)
-  - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+- [taobaoVisitingVenues](https://github.com/sleepybear1113/taobaoVisitingVenues)
+  - 京东/淘宝的自动浏览逛店脚本
+- [snowpack](https://github.com/pikapkg/snowpack)
+  - ☶ A faster dev environment for modern web apps.
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [sweater](https://github.com/zarkin404/sweater)
+  - 薅🐑毛，做衬衫（最近更新：京东 618 叠蛋糕脚本，非模拟点击，PC 浏览器可运行）
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+  - ✅ The Node.js best practices list (May 2020)
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+  - Headless Chrome Node.js API
 - [moment](https://github.com/moment/moment)
   - Parse, validate, manipulate, and display dates in javascript.
-- [svelte](https://github.com/sveltejs/svelte)
-  - Cybernetically enhanced web apps
-- [CRUD](https://github.com/Laravel-Backpack/CRUD)
-  - Build custom admin panels. Fast!
-- [stegcloak](https://github.com/KuroLabs/stegcloak)
-  - Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐
+- [parcel](https://github.com/parcel-bundler/parcel)
+  - 📦🚀 Blazing fast, zero configuration web application bundler
+- [nuxt.js](https://github.com/nuxt/nuxt.js)
+  - The Intuitive Vue Framework
+- [umi](https://github.com/umijs/umi)
+  - 🌋 Pluggable enterprise-level react application framework.
+- [slate](https://github.com/ianstormtaylor/slate)
+  - A completely customizable framework for building rich text editors. (Currently in beta.)
+- [curso-javascript-ninja](https://github.com/da2k/curso-javascript-ninja)
+  - Curso Javascript Ninja
+- [react-redux-realworld-example-app](https://github.com/gothinkster/react-redux-realworld-example-app)
+  - Exemplary real world application built with React + Redux
+- [vue](https://github.com/vuejs/vue)
+  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender)
+  - A chrome extension for suspending all tabs to free up memory
+- [trilium](https://github.com/zadam/trilium)
+  - Build your personal knowledge base with Trilium Notes
+- [create-snowpack-app](https://github.com/pikapkg/create-snowpack-app)
+  - CSA - Get started with the fastest dev environment available.
+- [strapi](https://github.com/strapi/strapi)
+  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [foliate](https://github.com/johnfactotum/foliate)
+  - A simple and modern GTK eBook reader
+- [serverless](https://github.com/serverless/serverless)
+  - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –

@@ -1,50 +1,50 @@
 # rust
-- [stevenarella](https://github.com/iceiix/stevenarella)
-  - Multi-protocol Minecraft-compatible client written in Rust
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix web is a small, pragmatic, and extremely fast rust web framework.
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
 - [xi-editor](https://github.com/xi-editor/xi-editor)
   - A modern editor with a backend written in Rust.
 - [vector](https://github.com/timberio/vector)
   - A lightweight and ultra-fast tool for building observability pipelines
-- [sled](https://github.com/spacejam/sled)
-  - the champagne of beta embedded databases
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
-- [rust-clippy](https://github.com/rust-lang/rust-clippy)
-  - A bunch of lints to catch common mistakes and improve your Rust code
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
 - [RustPython](https://github.com/RustPython/RustPython)
   - A Python Interpreter written in Rust
-- [gleam](https://github.com/gleam-lang/gleam)
-  - ⭐️ A statically typed language for the Erlang VM
-- [Rocket](https://github.com/SergioBenitez/Rocket)
-  - A web framework for Rust.
-- [rustlings](https://github.com/rust-lang/rustlings)
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [just](https://github.com/casey/just)
-  - 🤖 Just a command runner
-- [polkadot](https://github.com/paritytech/polkadot)
-  - Polkadot Node Implementation
-- [pyo3](https://github.com/PyO3/pyo3)
-  - Rust bindings for the Python interpreter
-- [futures-rs](https://github.com/rust-lang/futures-rs)
-  - Zero-cost asynchronous programming in Rust
-- [godot-rust](https://github.com/GodotNativeTools/godot-rust)
-  - Rust bindings for GDNative
 - [substrate](https://github.com/paritytech/substrate)
   - Substrate: The platform for blockchain innovators
-- [initial-contracts](https://github.com/near/initial-contracts)
-  - Initial contracts: reference staking pool, lockup, voting, whitelist, multisig.
+- [alacritty](https://github.com/alacritty/alacritty)
+  - A cross-platform, GPU-accelerated terminal emulator
+- [sqlx](https://github.com/launchbadge/sqlx)
+  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+- [sled](https://github.com/spacejam/sled)
+  - the champagne of beta embedded databases
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
+- [json](https://github.com/serde-rs/json)
+  - Strongly typed JSON library for Rust
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - ripgrep recursively searches directories for a regex pattern
+- [deltachat-core-rust](https://github.com/deltachat/deltachat-core-rust)
+  - Delta Chat Rust Core library, used by Android/iOS/desktop apps and bindings
+- [reqwest](https://github.com/seanmonstar/reqwest)
+  - An easy and powerful Rust HTTP Client
+- [smol](https://github.com/stjepang/smol)
+  - A small and fast async runtime for Rust
+- [servo](https://github.com/servo/servo)
+  - The Servo Browser Engine
+- [iced](https://github.com/hecrj/iced)
+  - A cross-platform GUI library for Rust, inspired by Elm
+- [firecracker](https://github.com/firecracker-microvm/firecracker)
+  - Secure and fast microVMs for serverless computing.
+- [rustfmt](https://github.com/rust-lang/rustfmt)
+  - Format Rust code
+- [gleam](https://github.com/gleam-lang/gleam)
+  - ⭐️ A statically typed language for the Erlang VM
 - [swc](https://github.com/swc-project/swc)
   - Super-fast typescript / javascript compiler written in rust
-- [tree-sitter](https://github.com/tree-sitter/tree-sitter)
-  - An incremental parsing system for programming tools
-- [websocat](https://github.com/vi/websocat)
-  - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
+- [spotify-tui](https://github.com/Rigellute/spotify-tui)
+  - Spotify for the terminal written in Rust 🚀
+- [seed](https://github.com/seed-rs/seed)
+  - A Rust framework for creating web apps
 - [hyper](https://github.com/hyperium/hyper)
   - An HTTP library for Rust
 - [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
