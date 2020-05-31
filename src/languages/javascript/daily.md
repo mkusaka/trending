@@ -1,51 +1,51 @@
 # javascript
 - [pose-animator](https://github.com/yemount/pose-animator)
   - 
-- [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated)
-  - React Native's Animated library reimplemented
+- [vue](https://github.com/tailwindui/vue)
+  - 
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
+  - Starter files, final projects and FAQ for my Complete JavaScript course
+- [Motrix](https://github.com/agalwood/Motrix)
+  - A full-featured download manager.
 - [tailblocks](https://github.com/mertJF/tailblocks)
   - 🎉 Ready-to-use Tailwind CSS blocks.
-- [htmx](https://github.com/bigskysoftware/htmx)
-  - </> htmx - high power tools for HTML
-- [taobaoVisitingVenues](https://github.com/sleepybear1113/taobaoVisitingVenues)
-  - 京东/淘宝的自动浏览逛店脚本
 - [snowpack](https://github.com/pikapkg/snowpack)
   - ☶ A faster dev environment for modern web apps.
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
-  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [sweater](https://github.com/zarkin404/sweater)
-  - 薅🐑毛，做衬衫（最近更新：京东 618 叠蛋糕脚本，非模拟点击，PC 浏览器可运行）
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
-  - ✅ The Node.js best practices list (May 2020)
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [moment](https://github.com/moment/moment)
-  - Parse, validate, manipulate, and display dates in javascript.
-- [parcel](https://github.com/parcel-bundler/parcel)
-  - 📦🚀 Blazing fast, zero configuration web application bundler
-- [nuxt.js](https://github.com/nuxt/nuxt.js)
-  - The Intuitive Vue Framework
-- [umi](https://github.com/umijs/umi)
-  - 🌋 Pluggable enterprise-level react application framework.
-- [slate](https://github.com/ianstormtaylor/slate)
-  - A completely customizable framework for building rich text editors. (Currently in beta.)
-- [curso-javascript-ninja](https://github.com/da2k/curso-javascript-ninja)
-  - Curso Javascript Ninja
-- [react-redux-realworld-example-app](https://github.com/gothinkster/react-redux-realworld-example-app)
-  - Exemplary real world application built with React + Redux
-- [vue](https://github.com/vuejs/vue)
-  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender)
-  - A chrome extension for suspending all tabs to free up memory
-- [trilium](https://github.com/zadam/trilium)
-  - Build your personal knowledge base with Trilium Notes
-- [create-snowpack-app](https://github.com/pikapkg/create-snowpack-app)
-  - CSA - Get started with the fastest dev environment available.
-- [strapi](https://github.com/strapi/strapi)
-  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [discord.js](https://github.com/discordjs/discord.js)
+  - A powerful JavaScript library for interacting with the Discord API
 - [foliate](https://github.com/johnfactotum/foliate)
   - A simple and modern GTK eBook reader
-- [serverless](https://github.com/serverless/serverless)
-  - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+- [htmx](https://github.com/bigskysoftware/htmx)
+  - </> htmx - high power tools for HTML
+- [brave-browser](https://github.com/brave/brave-browser)
+  - Next generation Brave browser for macOS, Windows, Linux, Android.
+- [mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide)
+  - Mostly adequate guide to FP (in javascript)
+- [project_chat_application](https://github.com/adrianhajdin/project_chat_application)
+  - This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a real time chat application. Covered topics: React.js, Node.js, Express.js, and Socket.io.
+- [SpaceX-API](https://github.com/r-spacex/SpaceX-API)
+  - 🚀 Open Source REST API for rocket, core, capsule, pad, and launch data
+- [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated)
+  - React Native's Animated library reimplemented
+- [Iosevka](https://github.com/be5invis/Iosevka)
+  - Slender typeface for code, from code.
+- [next.js](https://github.com/vercel/next.js)
+  - The React Framework
+- [AriaNg](https://github.com/mayswind/AriaNg)
+  - AriaNg, a modern web frontend making aria2 easier to use.
+- [webogram](https://github.com/zhukov/webogram)
+  - Telegram web application, GPL v3
+- [text-to-handwriting](https://github.com/saurabhdaware/text-to-handwriting)
+  - So your teacher asked you to upload written assignments on ERP? Hate writing assigments? This tool will help you convert your text to handwriting xD
+- [realworld](https://github.com/gothinkster/realworld)
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [goindex-drive](https://github.com/kulokenci/goindex-drive)
+  - Google Drive Directory Index
+- [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
+  - OpenZeppelin Contracts is a library for secure smart contract development.
+- [react-native-starter](https://github.com/flatlogic/react-native-starter)
+  - 🚀A powerful react native starter template that bootstraps development of your mobile application
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [plugins](https://github.com/rollup/plugins)
+  - 🍣 The one-stop shop for official Rollup plugins
