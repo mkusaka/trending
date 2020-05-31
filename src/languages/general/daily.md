@@ -1,50 +1,48 @@
 # general
-- [pose-animator](https://github.com/yemount/pose-animator) : JavaScript
-- [go-interview](https://github.com/shomali11/go-interview) : Go
-  - Collection of Technical Interview Questions solved with Go
+- [practical-python](https://github.com/dabeaz-course/practical-python) : Python
+  - Practical Python Programming (course by @dabeaz)
 - [robotgo](https://github.com/go-vgo/robotgo) : C
   - RobotGo, Go Native cross-platform GUI automation @vcaesar
-- [excalidraw](https://github.com/excalidraw/excalidraw) : TypeScript
-  - Virtual whiteboard for sketching hand-drawn like diagrams
-- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) : C++
-  - C++那些事
-- [rough-notation](https://github.com/pshihn/rough-notation) : TypeScript
-  - Create and animate hand-drawn annotations on a web page
-- [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) : JavaScript
-  - React Native's Animated library reimplemented
-- [tailblocks](https://github.com/mertJF/tailblocks) : JavaScript
-  - 🎉 Ready-to-use Tailwind CSS blocks.
-- [returns](https://github.com/dry-python/returns) : Python
-  - Make your functions return something meaningful, typed, and safe!
-- [fastjson](https://github.com/alibaba/fastjson) : Java
-  - A fast JSON parser/generator for Java.
-- [micro](https://github.com/zyedidia/micro) : Go
-  - A modern and intuitive terminal-based text editor
-- [NewPipe](https://github.com/TeamNewPipe/NewPipe) : Java
-  - A libre lightweight streaming front-end for Android.
-- [htmx](https://github.com/bigskysoftware/htmx) : JavaScript
-  - </> htmx - high power tools for HTML
-- [Lab-Demo-Recordings](https://github.com/MicrosoftLearning/Lab-Demo-Recordings) : 
-  - Recordings and Demos of Labs
-- [rich](https://github.com/willmcgugan/rich) : Python
-  - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [go-interview](https://github.com/shomali11/go-interview) : Go
+  - Collection of Technical Interview Questions solved with Go
+- [JavaFamily](https://github.com/AobingJava/JavaFamily) : 
+  - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+- [pose-animator](https://github.com/yemount/pose-animator) : JavaScript
 - [flutter_hrlweibo](https://github.com/huangruiLearn/flutter_hrlweibo) : Dart
   - Flutter仿微博客户端, 包含首页、视频、发现、消息(仿微博聊界面)及个人中心模块
-- [cli](https://github.com/cli/cli) : Go
-  - GitHub’s official command line tool
-- [Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) : Jupyter Notebook
-  - 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
+- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) : C++
+  - C++那些事
+- [gpt-3](https://github.com/openai/gpt-3) : 
+  - GPT-3: Language Models are Few-Shot Learners
+- [DescomplicandoKubernetes](https://github.com/badtuxx/DescomplicandoKubernetes) : 
+- [vue](https://github.com/tailwindui/vue) : JavaScript
+- [snakeware](https://github.com/joshiemoore/snakeware) : Python
+  - A free Linux distro with a fully Python userspace
+- [NewPipe](https://github.com/TeamNewPipe/NewPipe) : Java
+  - A libre lightweight streaming front-end for Android.
+- [prefect](https://github.com/PrefectHQ/prefect) : Python
+  - A modern data workflow platform
+- [xi-editor](https://github.com/xi-editor/xi-editor) : Rust
+  - A modern editor with a backend written in Rust.
+- [siber-guvenlik-sss](https://github.com/LuNiZz/siber-guvenlik-sss) : 
+  - SSS sorulari burada...
+- [cwa-website](https://github.com/corona-warn-app/cwa-website) : CSS
+  - Corona-Warn-App website
+- [msquic](https://github.com/microsoft/msquic) : C
+  - Cross platform C implementation of the IETF QUIC protocol.
+- [ZY-Player](https://github.com/Hunlongyu/ZY-Player) : Vue
+  - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
+- [swift-aws-lambda-runtime](https://github.com/swift-server/swift-aws-lambda-runtime) : Swift
+  - Swift implementation of AWS Lambda Runtime
+- [godot](https://github.com/godotengine/godot) : C++
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [vaex](https://github.com/vaexio/vaex) : Python
+  - Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second 🚀
+- [k9s](https://github.com/derailed/k9s) : Go
+  - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [d2l-en](https://github.com/d2l-ai/d2l-en) : Python
+  - An interactive deep learning book with code, math, and discussions.
 - [googletest](https://github.com/google/googletest) : C++
   - Googletest - Google Testing and Mocking Framework
-- [ai-edu](https://github.com/microsoft/ai-edu) : Jupyter Notebook
-  - AI education materials for Chinese students, teachers and IT professionals.
-- [Osiris](https://github.com/danielkrupinski/Osiris) : C++
-  - Free open-source training software / cheat for Counter-Strike: Global Offensive, written in modern C++. GUI powered by imgui.
-- [taobaoVisitingVenues](https://github.com/sleepybear1113/taobaoVisitingVenues) : JavaScript
-  - 京东/淘宝的自动浏览逛店脚本
-- [snowpack](https://github.com/pikapkg/snowpack) : JavaScript
-  - ☶ A faster dev environment for modern web apps.
-- [prefect](https://github.com/PrefectHQ/prefect) : Python
-  - The Prefect workflow platform
-- [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) : Jupyter Notebook
-  - This repository contains the source code for the paper First Order Motion Model for Image Animation
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) : Shell
+  - 🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
