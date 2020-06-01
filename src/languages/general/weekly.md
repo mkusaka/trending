@@ -1,51 +1,51 @@
 # general
-- [learngo](https://github.com/inancgumus/learngo) : Go
-  - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
-- [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) : C++
-  - All Algorithms implemented in C++
+- [popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) : JavaScript
+  - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player. Desktop ( Windows / Mac / Linux ) a Butter-Project Fork
+- [responsively-app](https://github.com/manojVivek/responsively-app) : JavaScript
+  - A modified browser that helps in responsive web development.
 - [Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) : Java
   - 是 难得一见 的 Jetpack MVVM 最佳实践！在 蕴繁于简 的代码中，对 视图控制器 乃至 标准化开发模式 形成正确、深入的理解！
-- [Recoil](https://github.com/facebookexperimental/Recoil) : JavaScript
-  - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
-- [PowerToys](https://github.com/microsoft/PowerToys) : C++
-  - Windows system utilities to maximize productivity
-- [exposure-notifications-server](https://github.com/google/exposure-notifications-server) : Go
-  - Exposure Notification Reference Server | Covid-19 Exposure Notifications
-- [C](https://github.com/TheAlgorithms/C) : C
-  - All Algorithms implemented in C
-- [spleeter](https://github.com/deezer/spleeter) : Python
-  - Deezer source separation library including pretrained models.
-- [terminal](https://github.com/microsoft/terminal) : C++
-  - The new Windows Terminal and the original Windows console host, all in the same place!
-- [cwa-documentation](https://github.com/corona-warn-app/cwa-documentation) : 
-  - Project overview, general documentation, and white papers.
-- [ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor) : CSS
-  - 🌈A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.
-- [Background-Matting](https://github.com/senguptaumd/Background-Matting) : Python
-  - Background Matting: The World is Your Green Screen
-- [InternetArchitect](https://github.com/bjmashibing/InternetArchitect) : Java
-  - 年薪百万互联网架构师课程文档及源码(公开部分)
-- [deno](https://github.com/denoland/deno) : TypeScript
-  - A secure JavaScript and TypeScript runtime
-- [openvino](https://github.com/openvinotoolkit/openvino) : C++
-  - OpenVINO™ Toolkit - Deep Learning Deployment Toolkit repository
-- [jetbrains-reset-trial-evaluation-mac](https://github.com/alexatiks/jetbrains-reset-trial-evaluation-mac) : Shell
-  - Reset Intellij IDEA, WebStorm, DataGrip, PhpStorm, CLion, PyCharm, RubyMine and GoLand evaluation (2019 / 2020 / Mac OS)
-- [nlp](https://github.com/huggingface/nlp) : Python
-  - 🤗 nlp: datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow
-- [roslyn](https://github.com/dotnet/roslyn) : C#
-  - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
-- [Java](https://github.com/TheAlgorithms/Java) : Java
-  - All Algorithms implemented in Java
-- [mediasoup](https://github.com/versatica/mediasoup) : C++
-  - Cutting Edge WebRTC Video Conferencing
+- [go-interview](https://github.com/shomali11/go-interview) : Go
+  - Collection of Technical Interview Questions solved with Go
+- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) : C++
+  - C++那些事
+- [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) : Shell
+  - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
+- [olivia](https://github.com/olivia-ai/olivia) : Go
+  - 💁‍♀️Your new best friend powered by an artificial neural network
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [immuni-documentation](https://github.com/immuni-app/immuni-documentation) : 
+  - Repo for Immuni's documentation.
+- [k9s](https://github.com/derailed/k9s) : Go
+  - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [v2ray-core](https://github.com/v2ray/v2ray-core) : Go
+  - A platform for building proxies to bypass network restrictions.
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
+  - 🤓 Build your own (insert technology here)
+- [realworld](https://github.com/gothinkster/realworld) : JavaScript
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [TDengine](https://github.com/taosdata/TDengine) : C
   - An open-source big data platform designed and optimized for the Internet of Things (IoT).
-- [jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot) : Java
-  - 基于代码生成器的低代码开发平台，开源界“小普元”超越传统商业开发平台！前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新开发模式(OnlineCoding-> 代码生成-> 手工MERGE)，帮助Java项目解决70%重复工作，让开发更关注业务逻辑，既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。
-- [Python](https://github.com/TheAlgorithms/Python) : Python
-  - All Algorithms implemented in Python
-- [tink](https://github.com/google/tink) : C++
-  - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
-- [Quantum](https://github.com/microsoft/Quantum) : PowerShell
-  - Microsoft Quantum Development Kit Samples
+- [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) : Python
+  - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
+- [openvino](https://github.com/openvinotoolkit/openvino) : C++
+  - OpenVINO™ Toolkit - Deep Learning Deployment Toolkit repository
+- [Auto.js](https://github.com/hyb1996/Auto.js) : Java
+  - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
+- [firmware](https://github.com/raspberrypi/firmware) : C
+  - This repository contains pre-compiled binaries of the current Raspberry Pi kernel and modules, userspace libraries, and bootloader/GPU firmware.
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) : 
+  - A book series on JavaScript. @YDKJS on twitter.
+- [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) : JavaScript
+  - A professional front-end template for building fast, robust, and adaptable web apps or sites.
+- [storybook](https://github.com/storybookjs/storybook) : TypeScript
+  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+- [Idris2](https://github.com/idris-lang/Idris2) : Idris
+  - A purely functional programming language with first class types
+- [mastodon](https://github.com/tootsuite/mastodon) : Ruby
+  - Your self-hosted, globally interconnected microblogging community
+- [Undecimus](https://github.com/pwn20wndstuff/Undecimus) : C
+  - unc0ver jailbreak for iOS 11.0 - 12.4
+- [public-apis](https://github.com/public-apis/public-apis) : Python
+  - A collective list of free APIs for use in software and web development.
