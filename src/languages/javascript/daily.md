@@ -1,51 +1,51 @@
 # javascript
-- [pose-animator](https://github.com/yemount/pose-animator)
-  - 
-- [vue](https://github.com/tailwindui/vue)
-  - 
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
-  - Starter files, final projects and FAQ for my Complete JavaScript course
-- [Motrix](https://github.com/agalwood/Motrix)
-  - A full-featured download manager.
-- [tailblocks](https://github.com/mertJF/tailblocks)
-  - 🎉 Ready-to-use Tailwind CSS blocks.
-- [snowpack](https://github.com/pikapkg/snowpack)
-  - ☶ A faster dev environment for modern web apps.
-- [discord.js](https://github.com/discordjs/discord.js)
-  - A powerful JavaScript library for interacting with the Discord API
-- [foliate](https://github.com/johnfactotum/foliate)
-  - A simple and modern GTK eBook reader
-- [htmx](https://github.com/bigskysoftware/htmx)
-  - </> htmx - high power tools for HTML
-- [brave-browser](https://github.com/brave/brave-browser)
-  - Next generation Brave browser for macOS, Windows, Linux, Android.
-- [mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide)
-  - Mostly adequate guide to FP (in javascript)
-- [project_chat_application](https://github.com/adrianhajdin/project_chat_application)
-  - This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a real time chat application. Covered topics: React.js, Node.js, Express.js, and Socket.io.
+- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
+  - 🎆Interactive Online Platform that Visualizes Algorithms from Code
+- [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
+  - Cross platform SQL editor and database management app for Windows, Linux, and Mac.
 - [SpaceX-API](https://github.com/r-spacex/SpaceX-API)
   - 🚀 Open Source REST API for rocket, core, capsule, pad, and launch data
-- [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated)
-  - React Native's Animated library reimplemented
-- [Iosevka](https://github.com/be5invis/Iosevka)
-  - Slender typeface for code, from code.
-- [next.js](https://github.com/vercel/next.js)
-  - The React Framework
-- [AriaNg](https://github.com/mayswind/AriaNg)
-  - AriaNg, a modern web frontend making aria2 easier to use.
-- [webogram](https://github.com/zhukov/webogram)
-  - Telegram web application, GPL v3
+- [pose-animator](https://github.com/yemount/pose-animator)
+  - 
+- [mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide)
+  - Mostly adequate guide to FP (in javascript)
+- [covid19india-react](https://github.com/covid19india/covid19india-react)
+  - Tracking the impact of COVID-19 in India
+- [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
+  - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
+- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
+  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [MagicMirror](https://github.com/MichMich/MagicMirror)
+  - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
+- [vue](https://github.com/tailwindui/vue)
+  - 
 - [text-to-handwriting](https://github.com/saurabhdaware/text-to-handwriting)
   - So your teacher asked you to upload written assignments on ERP? Hate writing assigments? This tool will help you convert your text to handwriting xD
-- [realworld](https://github.com/gothinkster/realworld)
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [goindex-drive](https://github.com/kulokenci/goindex-drive)
-  - Google Drive Directory Index
+- [react-data-table-component](https://github.com/jbetancur/react-data-table-component)
+  - A simple table library with built in sorting, pagination, selection, expandable rows and customizable styling.
+- [gatsby-starter-blog](https://github.com/gatsbyjs/gatsby-starter-blog)
+  - Gatsby starter for creating a blog
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+  - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
+- [RSSHub](https://github.com/DIYgod/RSSHub)
+  - 🍰 Everything is RSSible
+- [Auto.js_Projects](https://github.com/SuperMonster003/Auto.js_Projects)
+  - 基于Auto.js的辅助工具项目 (蚂蚁森林) Auto.js-based assistant tools projects (Ant Forest)
+- [new_v2ex](https://github.com/sedgwickz/new_v2ex)
+  - Nextjs 仿 v2ex
+- [discord.js](https://github.com/discordjs/discord.js)
+  - A powerful JavaScript library for interacting with the Discord API
+- [wtfjs](https://github.com/denysdovhan/wtfjs)
+  - A list of funny and tricky JavaScript examples
+- [website](https://github.com/CodingTrain/website)
+  - Coding Train website
 - [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
   - OpenZeppelin Contracts is a library for secure smart contract development.
-- [react-native-starter](https://github.com/flatlogic/react-native-starter)
-  - 🚀A powerful react native starter template that bootstraps development of your mobile application
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [plugins](https://github.com/rollup/plugins)
-  - 🍣 The one-stop shop for official Rollup plugins
+- [next.js](https://github.com/vercel/next.js)
+  - The React Framework
+- [Ghost](https://github.com/TryGhost/Ghost)
+  - 👻 The #1 headless Node.js CMS for professional publishing
