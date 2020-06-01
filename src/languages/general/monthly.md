@@ -1,51 +1,51 @@
 # general
-- [covid19india-react](https://github.com/covid19india/covid19india-react) : JavaScript
-  - Tracking the impact of COVID-19 in India
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
-  - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
-- [jitsi-meet](https://github.com/jitsi/jitsi-meet) : JavaScript
-  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [Flutter-Course-Resources](https://github.com/londonappbrewery/Flutter-Course-Resources) : 
-  - Learn to Code While Building Apps - The Complete Flutter Development Bootcamp
-- [theia](https://github.com/eclipse-theia/theia) : TypeScript
-  - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) : Jupyter Notebook
-  - This repository contains the source code for the paper First Order Motion Model for Image Animation
-- [vue-next](https://github.com/vuejs/vue-next) : TypeScript
-  - The next major version of Vue (WIP)
-- [covid-19-data](https://github.com/nytimes/covid-19-data) : 
-  - An ongoing repository of data on coronavirus cases and deaths in the U.S.
-- [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) : Java
-  - spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…
-- [spring-boot-api-project-seed](https://github.com/lihengming/spring-boot-api-project-seed) : Java
-  - 🌱🚀一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
-  - Roadmap to becoming a web developer in 2020
-- [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) : Java
-  - To Be Top Javaer - Java工程师成神之路
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) : Java
-  - Complete open source web conferencing system.
-- [obs-studio](https://github.com/obsproject/obs-studio) : C
-  - OBS Studio - Free and open source software for live streaming and screen recording
-- [manim](https://github.com/3b1b/manim) : Python
-  - Animation engine for explanatory math videos
+- [deno](https://github.com/denoland/deno) : TypeScript
+  - A secure JavaScript and TypeScript runtime
+- [covid-sim](https://github.com/mrc-ide/covid-sim) : C++
+  - This is the COVID-19 CovidSim microsimulation model developed by the MRC Centre for Global Infectious Disease Analysis hosted at Imperial College, London.
+- [Ventoy](https://github.com/ventoy/Ventoy) : C
+  - A new bootable USB solution.
 - [PowerToys](https://github.com/microsoft/PowerToys) : C++
   - Windows system utilities to maximize productivity
-- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) : C++
-  - C++那些事
-- [interview_internal_reference](https://github.com/0voice/interview_internal_reference) : Python
-  - 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [AnimeGAN](https://github.com/TachibanaYoshino/AnimeGAN) : Python
-  - A Tensorflow implementation of AnimeGAN for fast photo animation ! This is the Open source of the paper <AnimeGAN: a novel lightweight GAN for photo animation>, which uses the GAN framwork to transform real-world photos into anime images.
-- [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) : Python
-  - Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [arthas](https://github.com/alibaba/arthas) : Java
-  - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
+- [InternetArchitect](https://github.com/bjmashibing/InternetArchitect) : Java
+  - 年薪百万互联网架构师课程文档及源码(公开部分)
+- [spring-analysis](https://github.com/seaswalker/spring-analysis) : Java
+  - Spring源码阅读
+- [vite](https://github.com/vitejs/vite) : TypeScript
+  - An opinionated web dev build tool. It's fast.
+- [Java](https://github.com/TheAlgorithms/Java) : Java
+  - All Algorithms implemented in Java
+- [jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot) : Java
+  - 基于代码生成器的快速开发平台，超越传统商业开发平台！前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新开发模式(OnlineCoding-> 代码生成-> 手工MERGE)，帮助Java项目解决70%重复工作，让开发更关注业务逻辑，既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。
+- [jukebox](https://github.com/openai/jukebox) : Python
+  - Code for the paper "Jukebox: A Generative Model for Music"
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) : Java
+  - spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…
+- [terminal](https://github.com/microsoft/terminal) : C++
+  - The new Windows Terminal and the original Windows console host, all in the same place!
+- [spleeter](https://github.com/deezer/spleeter) : Python
+  - Deezer source separation library including pretrained models.
+- [transformers](https://github.com/huggingface/transformers) : Python
+  - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
 - [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) : Java
   - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
+- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) : C++
+  - C++那些事
+- [go-interview](https://github.com/shomali11/go-interview) : Go
+  - Collection of Technical Interview Questions solved with Go
+- [next.js](https://github.com/vercel/next.js) : JavaScript
+  - The React Framework
+- [C](https://github.com/TheAlgorithms/C) : C
+  - All Algorithms implemented in C
+- [pi-hole](https://github.com/pi-hole/pi-hole) : Shell
+  - A black hole for Internet advertisements
+- [nndl.github.io](https://github.com/nndl/nndl.github.io) : HTML
+  - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
+- [julia](https://github.com/JuliaLang/julia) : Julia
+  - The Julia Language: A fresh approach to technical computing.
+- [spug](https://github.com/openspug/spug) : JavaScript
+  - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
+- [reveal.js](https://github.com/hakimel/reveal.js) : JavaScript
+  - The HTML Presentation Framework

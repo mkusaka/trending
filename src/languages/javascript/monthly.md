@@ -1,51 +1,51 @@
 # javascript
-- [covid19india-react](https://github.com/covid19india/covid19india-react)
-  - Tracking the impact of COVID-19 in India
-- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
-  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [samples](https://github.com/webrtc/samples)
-  - WebRTC Web demos and samples
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [vue](https://github.com/vuejs/vue)
-  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [axios](https://github.com/axios/axios)
-  - Promise based HTTP client for the browser and node.js
-- [react-ultimate-resume](https://github.com/welovedevs/react-ultimate-resume)
-  - 💼 🎨 A modern software developer resume built with React and JSONResume
-- [next.js](https://github.com/zeit/next.js)
+- [next.js](https://github.com/vercel/next.js)
   - The React Framework
+- [spug](https://github.com/openspug/spug)
+  - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
+- [reveal.js](https://github.com/hakimel/reveal.js)
+  - The HTML Presentation Framework
 - [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
   - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [vue](https://github.com/qq281113270/vue)
-  - vue源码逐行注释分析+40多m的vue源码程序流程图思维导图 （diff部分待后续更新）
-- [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)
-  - 网易云音乐 Node.js API service
+- [three.js](https://github.com/mrdoob/three.js)
+  - JavaScript 3D library.
+- [strapi](https://github.com/strapi/strapi)
+  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
+  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+- [realworld](https://github.com/gothinkster/realworld)
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
+  - A professional front-end template for building fast, robust, and adaptable web apps or sites.
+- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
+  - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+  - ✅ The Node.js best practices list (June 2020)
+- [odoo](https://github.com/odoo/odoo)
+  - Odoo. Open Source Apps To Grow Your Business.
+- [google-meet-grid-view](https://github.com/Fugiman/google-meet-grid-view)
+  - Userscript to offer a grid-view layout in Google Meets
+- [uni-app](https://github.com/dcloudio/uni-app)
+  - uni-app 是使用 Vue 语法开发小程序、H5、App的统一框架
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated)
+  - React Native's Animated library reimplemented
+- [renren-fast-vue](https://github.com/renrenio/renren-fast-vue)
+  - renren-fast-vue基于vue、element-ui构建开发，实现renren-fast后台管理前端功能，提供一套更优的前端解决方案。
+- [drawio-desktop](https://github.com/jgraph/drawio-desktop)
+  - Official electron build of diagrams.net
+- [iptv](https://github.com/iptv-org/iptv)
+  - Collection of 8000+ publicly available IPTV channels from all over the world
+- [gatsby](https://github.com/gatsbyjs/gatsby)
+  - Build blazing fast, modern apps and websites with React
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+  - Headless Chrome Node.js API
+- [javascript](https://github.com/airbnb/javascript)
+  - JavaScript Style Guide
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
   - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
-- [jitsi-meet-electron](https://github.com/jitsi/jitsi-meet-electron)
-  - Jitsi Meet desktop application powered by
-- [lib-jitsi-meet](https://github.com/jitsi/lib-jitsi-meet)
-  - A low-level JS video API that allows adding a completely custom video experience to web apps.
-- [bbbot](https://github.com/DanielHe4rt/bbbot)
-  - Bot feito para estudos de leitura de imagem
-- [gridstudio](https://github.com/ricklamers/gridstudio)
-  - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
-- [learnGitBranching](https://github.com/pcottle/learnGitBranching)
-  - An interactive git visualization to challenge and educate!
-- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
-  - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
-- [vue-router](https://github.com/vuejs/vue-router)
-  - 🚦 The official router for Vue.js.
-- [vuex](https://github.com/vuejs/vuex)
-  - 🗃️ Centralized State Management for Vue.js.
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
-  - Starter files, final projects and FAQ for my Complete JavaScript course
-- [covid-safe-paths](https://github.com/tripleblindmarket/covid-safe-paths)
-  - COVID Safe Paths (based on Private Kit) is an open and privacy preserving system to use personal information to battle COVID
-- [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
-  - a vue2.0 minimal admin template
-- [wekan](https://github.com/wekan/wekan)
-  - The open-source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
