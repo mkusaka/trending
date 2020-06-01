@@ -1,48 +1,50 @@
 # general
-- [practical-python](https://github.com/dabeaz-course/practical-python) : Python
-  - Practical Python Programming (course by @dabeaz)
-- [robotgo](https://github.com/go-vgo/robotgo) : C
-  - RobotGo, Go Native cross-platform GUI automation @vcaesar
-- [go-interview](https://github.com/shomali11/go-interview) : Go
-  - Collection of Technical Interview Questions solved with Go
-- [JavaFamily](https://github.com/AobingJava/JavaFamily) : 
-  - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-- [pose-animator](https://github.com/yemount/pose-animator) : JavaScript
-- [flutter_hrlweibo](https://github.com/huangruiLearn/flutter_hrlweibo) : Dart
-  - Flutter仿微博客户端, 包含首页、视频、发现、消息(仿微博聊界面)及个人中心模块
+- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) : Kotlin
+  - Native Android app using the Apple/Google exposure notification API.
+- [cwa-app-ios](https://github.com/corona-warn-app/cwa-app-ios) : Swift
+  - Native iOS app using the exposure notification framework from Apple.
+- [cwa-documentation](https://github.com/corona-warn-app/cwa-documentation) : 
+  - Project overview, general documentation, and white papers.
 - [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) : C++
   - C++那些事
-- [gpt-3](https://github.com/openai/gpt-3) : 
-  - GPT-3: Language Models are Few-Shot Learners
-- [DescomplicandoKubernetes](https://github.com/badtuxx/DescomplicandoKubernetes) : 
-- [vue](https://github.com/tailwindui/vue) : JavaScript
-- [snakeware](https://github.com/joshiemoore/snakeware) : Python
-  - A free Linux distro with a fully Python userspace
-- [NewPipe](https://github.com/TeamNewPipe/NewPipe) : Java
-  - A libre lightweight streaming front-end for Android.
-- [prefect](https://github.com/PrefectHQ/prefect) : Python
-  - A modern data workflow platform
-- [xi-editor](https://github.com/xi-editor/xi-editor) : Rust
-  - A modern editor with a backend written in Rust.
-- [siber-guvenlik-sss](https://github.com/LuNiZz/siber-guvenlik-sss) : 
-  - SSS sorulari burada...
+- [git-fuzzy](https://github.com/bigH/git-fuzzy) : Shell
+  - interactive `git` with the help of `fzf`
+- [v2ray-core](https://github.com/v2ray/v2ray-core) : Go
+  - A platform for building proxies to bypass network restrictions.
+- [go-interview](https://github.com/shomali11/go-interview) : Go
+  - Collection of Technical Interview Questions solved with Go
+- [cwa-server](https://github.com/corona-warn-app/cwa-server) : Java
+  - Backend implementation for the Apple/Google exposure notification API.
 - [cwa-website](https://github.com/corona-warn-app/cwa-website) : CSS
   - Corona-Warn-App website
-- [msquic](https://github.com/microsoft/msquic) : C
-  - Cross platform C implementation of the IETF QUIC protocol.
+- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) : JavaScript
+  - 🎆Interactive Online Platform that Visualizes Algorithms from Code
+- [cwa-verification-portal](https://github.com/corona-warn-app/cwa-verification-portal) : Java
+  - Frontend implementation of verification process
+- [practical-python](https://github.com/dabeaz-course/practical-python) : Python
+  - Practical Python Programming (course by @dabeaz)
+- [DescomplicandoKubernetes](https://github.com/badtuxx/DescomplicandoKubernetes) : 
+- [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) : JavaScript
+  - Cross platform SQL editor and database management app for Windows, Linux, and Mac.
+- [substrate](https://github.com/paritytech/substrate) : Rust
+  - Substrate: The platform for blockchain innovators
+- [SpaceX-API](https://github.com/r-spacex/SpaceX-API) : JavaScript
+  - 🚀 Open Source REST API for rocket, core, capsule, pad, and launch data
+- [BIGTREETECH-SKR-mini-E3](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3) : C++
+  - BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.
 - [ZY-Player](https://github.com/Hunlongyu/ZY-Player) : Vue
   - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
-- [swift-aws-lambda-runtime](https://github.com/swift-server/swift-aws-lambda-runtime) : Swift
-  - Swift implementation of AWS Lambda Runtime
-- [godot](https://github.com/godotengine/godot) : C++
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [vaex](https://github.com/vaexio/vaex) : Python
-  - Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second 🚀
-- [k9s](https://github.com/derailed/k9s) : Go
-  - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [d2l-en](https://github.com/d2l-ai/d2l-en) : Python
-  - An interactive deep learning book with code, math, and discussions.
-- [googletest](https://github.com/google/googletest) : C++
-  - Googletest - Google Testing and Mocking Framework
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) : Shell
-  - 🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [freqtrade](https://github.com/freqtrade/freqtrade) : Python
+  - Free, open source crypto trading bot
+- [yolov5](https://github.com/ultralytics/yolov5) : Jupyter Notebook
+  - YOLOv5 in PyTorch > ONNX > CoreML > iOS
+- [robotgo](https://github.com/go-vgo/robotgo) : C
+  - RobotGo, Go Native cross-platform GUI automation @vcaesar
+- [ALAE](https://github.com/podgorskiy/ALAE) : Python
+  - [CVPR2020] Adversarial Latent Autoencoders
+- [cwa-testresult-server](https://github.com/corona-warn-app/cwa-testresult-server) : Java
+  - Backend implementation of the test result information.
+- [trojan-go](https://github.com/p4gefau1t/trojan-go) : Go
+  - Go实现的Trojan代理，支持自动证书申请/多路复用/路由功能/CDN中转，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
+- [JavaCollection](https://github.com/hansonwang99/JavaCollection) : 
+  - Java开源项目之「自学编程之路」：学习指南+面试指南+资源分享+技术文章

@@ -1,51 +1,51 @@
 # typescript
-- [excalidraw](https://github.com/excalidraw/excalidraw)
-  - Virtual whiteboard for sketching hand-drawn like diagrams
-- [rough-notation](https://github.com/pshihn/rough-notation)
-  - Create and animate hand-drawn annotations on a web page
-- [zustand](https://github.com/react-spring/zustand)
-  - 🐻 Bear necessities for state management in React
-- [firebase-js-sdk](https://github.com/firebase/firebase-js-sdk)
-  - Firebase Javascript SDK
-- [desktop](https://github.com/bitwarden/desktop)
-  - The desktop vault (Windows, macOS, & Linux).
-- [rough](https://github.com/pshihn/rough)
-  - Create graphics with a hand-drawn, sketchy, appearance
-- [YUKI](https://github.com/project-yuki/YUKI)
-  - YUKI Galgame Translator
-- [web](https://github.com/bitwarden/web)
-  - The website vault (vault.bitwarden.com).
-- [vscode](https://github.com/microsoft/vscode)
-  - Visual Studio Code
-- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-  - The repository for high quality TypeScript type definitions.
-- [instagram-private-api](https://github.com/dilame/instagram-private-api)
-  - NodeJS Instagram private API client. Written in TypeScript.
 - [vite](https://github.com/vitejs/vite)
   - An opinionated web dev build tool. It's fast.
-- [BoostNote.next](https://github.com/BoostIO/BoostNote.next)
-  - An intuitive and stylish markdown note app for the developers.
-- [nest](https://github.com/nestjs/nest)
-  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-- [deno](https://github.com/denoland/deno)
-  - A secure JavaScript and TypeScript runtime
 - [coc.nvim](https://github.com/neoclide/coc.nvim)
   - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
+- [wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+  - 💬 🤖 The most advanced NodeJS whatsapp library for chatbots with advanced features. Be sure to 🌟 this repository for updates!
+- [vscode](https://github.com/microsoft/vscode)
+  - Visual Studio Code
+- [rough-notation](https://github.com/pshihn/rough-notation)
+  - Create and animate hand-drawn annotations on a web page
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+  - The repository for high quality TypeScript type definitions.
+- [ionicons](https://github.com/ionic-team/ionicons)
+  - The premium icon font for Ionic Framework and web apps everywhere
+- [colyseus](https://github.com/colyseus/colyseus)
+  - ⚔ Multiplayer Game Server for Node.js
+- [nativefier](https://github.com/jiahaog/nativefier)
+  - Make any web page a desktop application
+- [typeorm](https://github.com/typeorm/typeorm)
+  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+- [vscode-live-server](https://github.com/ritwickdey/vscode-live-server)
+  - Launch a development local Server with live reload feature for static & dynamic pages.
+- [vitepress](https://github.com/vuejs/vitepress)
+  - Vite & Vue powered static site generator
+- [nest](https://github.com/nestjs/nest)
+  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [angularfire](https://github.com/angular/angularfire)
+  - The official Angular library for Firebase.
+- [zustand](https://github.com/react-spring/zustand)
+  - 🐻 Bear necessities for state management in React
+- [themes](https://github.com/atomcorp/themes)
+  - Themes for Windows Terminal
+- [nteract](https://github.com/nteract/nteract)
+  - 📘 The interactive computing suite for you! ✨
 - [homebridge](https://github.com/homebridge/homebridge)
   - HomeKit support for the impatient
-- [saleor-storefront](https://github.com/mirumee/saleor-storefront)
-  - A GraphQL-powered, PWA, single-page application storefront for Saleor.
-- [kittenTricks](https://github.com/akveo/kittenTricks)
-  - React Native starter kit with over 40 screens and modern Light and Dark theme for creating stunning cross-platform mobile applications.
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
-- [lightweight-charts](https://github.com/tradingview/lightweight-charts)
-  - Financial lightweight charts built with HTML5 canvas
-- [swr](https://github.com/vercel/swr)
-  - React Hooks library for remote data fetching
-- [notable](https://github.com/notable/notable)
-  - The Markdown-based note-taking app that doesn't suck.
-- [awesomeblog-club](https://github.com/searchableguy/awesomeblog-club)
-  - An easily self hostable curation site for collecting blogs and links.
-- [saleor-dashboard](https://github.com/mirumee/saleor-dashboard)
-  - A GraphQL-powered, single-page dashboard application for Saleor.
+- [react](https://github.com/zeit-ui/react)
+  - Modern and minimalist React UI library.
+- [vue-styleguidist](https://github.com/vue-styleguidist/vue-styleguidist)
+  - Created from react styleguidist for Vue Components with a living style guide
+- [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator)
+  - GraphQL code generator with flexible support for custom plugins and templates
+- [streamlabs-obs](https://github.com/stream-labs/streamlabs-obs)
+  - Free and open source streaming software built on OBS and Electron.
+- [desktop](https://github.com/bitwarden/desktop)
+  - The desktop vault (Windows, macOS, & Linux).
+- [streamlit](https://github.com/streamlit/streamlit)
+  - Streamlit — The fastest way to build custom ML tools
+- [toolkit](https://github.com/actions/toolkit)
+  - The GitHub ToolKit for developing GitHub Actions.
