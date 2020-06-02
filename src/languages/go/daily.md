@@ -1,51 +1,51 @@
 # go
 - [v2ray-core](https://github.com/v2ray/v2ray-core)
   - A platform for building proxies to bypass network restrictions.
-- [go-interview](https://github.com/shomali11/go-interview)
-  - Collection of Technical Interview Questions solved with Go
 - [trojan-go](https://github.com/p4gefau1t/trojan-go)
   - Go实现的Trojan代理，支持自动证书申请/多路复用/路由功能/CDN中转，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
-- [k9s](https://github.com/derailed/k9s)
-  - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [fiber](https://github.com/gofiber/fiber)
-  - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
-- [thanos](https://github.com/thanos-io/thanos)
-  - Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.
-- [WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons)
-  - ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting
-- [ffuf](https://github.com/ffuf/ffuf)
-  - Fast web fuzzer written in Go
-- [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy)
-  - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
-- [go-micro](https://github.com/micro/go-micro)
-  - A distributed systems development framework
-- [micro](https://github.com/zyedidia/micro)
-  - A modern and intuitive terminal-based text editor
-- [Cloudreve](https://github.com/cloudreve/Cloudreve)
-  - 🌩支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)
+- [istio](https://github.com/istio/istio)
+  - Connect, secure, control, and observe services.
 - [go-git](https://github.com/go-git/go-git)
   - A highly extensible Git implementation in pure Go.
-- [filebrowser](https://github.com/filebrowser/filebrowser)
-  - 📂 Web File Browser which can be used as a middleware or standalone app.
-- [hacks](https://github.com/tomnomnom/hacks)
-  - A collection of hacks and one-off scripts
-- [service](https://github.com/ardanlabs/service)
-  - Starter code for writing web services in Go
-- [fzf](https://github.com/junegunn/fzf)
-  - 🌸 A command-line fuzzy finder
-- [k3sup](https://github.com/alexellis/k3sup)
-  - bootstrap Kubernetes with k3s over SSH < 1 min 🚀
-- [hugo](https://github.com/gohugoio/hugo)
-  - The world’s fastest framework for building websites.
-- [httpx](https://github.com/projectdiscovery/httpx)
-  - httpx is a fast and multi-purpose HTTP toolkit allow to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads.
-- [packer](https://github.com/hashicorp/packer)
-  - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-- [nsq](https://github.com/nsqio/nsq)
-  - A realtime distributed messaging platform
+- [k9s](https://github.com/derailed/k9s)
+  - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
+  - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，更多功能正在开发中，欢迎issue和pr~
+- [go](https://github.com/golang/go)
+  - The Go programming language
+- [cron](https://github.com/robfig/cron)
+  - a cron library for go
+- [jupiter](https://github.com/douyu/jupiter)
+  - Jupiter是douyu开源的面向服务治理的Golang微服务框架
+- [nomad](https://github.com/hashicorp/nomad)
+  - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+- [concourse](https://github.com/concourse/concourse)
+  - Concourse is a container-based continuous thing-doer written in Go and Elm.
+- [errors](https://github.com/pkg/errors)
+  - Simple error handling primitives
+- [golang-design-pattern](https://github.com/senghoo/golang-design-pattern)
+  - 设计模式 Golang实现－《研磨设计模式》读书笔记
+- [go-interview](https://github.com/shomali11/go-interview)
+  - Collection of Technical Interview Questions solved with Go
 - [v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin)
   - A SIP003 plugin based on v2ray
+- [k3sup](https://github.com/alexellis/k3sup)
+  - bootstrap Kubernetes with k3s over SSH < 1 min 🚀
+- [mux](https://github.com/gorilla/mux)
+  - A powerful HTTP router and URL matcher for building Go web servers with 🦍
+- [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics)
+  - VictoriaMetrics - fast, cost-effective and scalable time series database
+- [validator](https://github.com/go-playground/validator)
+  - 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+- [kubesphere](https://github.com/kubesphere/kubesphere)
+  - Easy-to-use Production Ready Container Platform
+- [fasthttp](https://github.com/valyala/fasthttp)
+  - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
+- [minio](https://github.com/minio/minio)
+  - MinIO is a high performance object storage server compatible with Amazon S3 APIs
 - [gin](https://github.com/gin-gonic/gin)
   - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [lazygit](https://github.com/jesseduffield/lazygit)
-  - simple terminal UI for git commands
+- [terraform-provider-google](https://github.com/terraform-providers/terraform-provider-google)
+  - Terraform Google Cloud Platform provider
+- [redis](https://github.com/go-redis/redis)
+  - Type-safe Redis client for Golang

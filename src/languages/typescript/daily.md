@@ -1,51 +1,51 @@
 # typescript
-- [vite](https://github.com/vitejs/vite)
-  - An opinionated web dev build tool. It's fast.
-- [coc.nvim](https://github.com/neoclide/coc.nvim)
-  - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
-- [wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-  - 💬 🤖 The most advanced NodeJS whatsapp library for chatbots with advanced features. Be sure to 🌟 this repository for updates!
-- [vscode](https://github.com/microsoft/vscode)
-  - Visual Studio Code
-- [rough-notation](https://github.com/pshihn/rough-notation)
-  - Create and animate hand-drawn annotations on a web page
-- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-  - The repository for high quality TypeScript type definitions.
-- [ionicons](https://github.com/ionic-team/ionicons)
-  - The premium icon font for Ionic Framework and web apps everywhere
-- [colyseus](https://github.com/colyseus/colyseus)
-  - ⚔ Multiplayer Game Server for Node.js
-- [nativefier](https://github.com/jiahaog/nativefier)
-  - Make any web page a desktop application
-- [typeorm](https://github.com/typeorm/typeorm)
-  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-- [vscode-live-server](https://github.com/ritwickdey/vscode-live-server)
-  - Launch a development local Server with live reload feature for static & dynamic pages.
-- [vitepress](https://github.com/vuejs/vitepress)
-  - Vite & Vue powered static site generator
-- [nest](https://github.com/nestjs/nest)
-  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-- [angularfire](https://github.com/angular/angularfire)
-  - The official Angular library for Firebase.
-- [zustand](https://github.com/react-spring/zustand)
-  - 🐻 Bear necessities for state management in React
-- [themes](https://github.com/atomcorp/themes)
-  - Themes for Windows Terminal
-- [nteract](https://github.com/nteract/nteract)
-  - 📘 The interactive computing suite for you! ✨
-- [homebridge](https://github.com/homebridge/homebridge)
-  - HomeKit support for the impatient
-- [react](https://github.com/zeit-ui/react)
-  - Modern and minimalist React UI library.
-- [vue-styleguidist](https://github.com/vue-styleguidist/vue-styleguidist)
-  - Created from react styleguidist for Vue Components with a living style guide
-- [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator)
-  - GraphQL code generator with flexible support for custom plugins and templates
-- [streamlabs-obs](https://github.com/stream-labs/streamlabs-obs)
-  - Free and open source streaming software built on OBS and Electron.
-- [desktop](https://github.com/bitwarden/desktop)
-  - The desktop vault (Windows, macOS, & Linux).
+- [swr](https://github.com/vercel/swr)
+  - React Hooks library for remote data fetching
+- [TypeScript](https://github.com/microsoft/TypeScript)
+  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [G2](https://github.com/antvis/G2)
+  - 📊 A highly interactive data-driven visualization grammar for statistical charts.
 - [streamlit](https://github.com/streamlit/streamlit)
   - Streamlit — The fastest way to build custom ML tools
-- [toolkit](https://github.com/actions/toolkit)
-  - The GitHub ToolKit for developing GitHub Actions.
+- [vue-next](https://github.com/vuejs/vue-next)
+  - Repo for Vue 3.0 (currently in beta)
+- [vite](https://github.com/vitejs/vite)
+  - An opinionated web dev build tool. It's fast.
+- [ant-design](https://github.com/ant-design/ant-design)
+  - 🌈 A UI Design Language and React UI library
+- [react-use](https://github.com/streamich/react-use)
+  - React Hooks — 👍
+- [datahub](https://github.com/linkedin/datahub)
+  - A Generalized Metadata Search & Discovery Tool
+- [nativefier](https://github.com/jiahaog/nativefier)
+  - Make any web page a desktop application
+- [components](https://github.com/angular/components)
+  - Component infrastructure and Material Design components for Angular
+- [grafana](https://github.com/grafana/grafana)
+  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [unform](https://github.com/Rocketseat/unform)
+  - Easy peasy highly scalable ReactJS & React Native forms! 🚀
+- [angular-cli](https://github.com/angular/angular-cli)
+  - CLI tool for Angular
+- [react-admin](https://github.com/karakal-FET/react-admin)
+  - ✨ react-admin system solution : react 后台管理系统解决方案
+- [VoTT](https://github.com/microsoft/VoTT)
+  - Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.
+- [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
+  - Foreign language reading and translation assistant based on copy and translate.
+- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
+  - The source for REST API specifications for Microsoft Azure.
+- [formik](https://github.com/jaredpalmer/formik)
+  - Build forms in React, without the tears 😭
+- [desktop](https://github.com/desktop/desktop)
+  - Simple collaboration from your desktop
+- [docs](https://github.com/aws-amplify/docs)
+  - Amplify Framework Documentation
+- [amplify-js](https://github.com/aws-amplify/amplify-js)
+  - A declarative JavaScript library for application development using cloud services.
+- [amplify-cli](https://github.com/aws-amplify/amplify-cli)
+  - A CLI toolchain for simplifying serverless web and mobile development.
+- [aws-cdk](https://github.com/aws/aws-cdk)
+  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+- [typescript-exercises](https://github.com/mdevils/typescript-exercises)
+  - A collection of challenging TypeScript exercises

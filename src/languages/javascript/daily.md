@@ -1,51 +1,51 @@
 # javascript
-- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
-  - 🎆Interactive Online Platform that Visualizes Algorithms from Code
-- [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
-  - Cross platform SQL editor and database management app for Windows, Linux, and Mac.
 - [SpaceX-API](https://github.com/r-spacex/SpaceX-API)
   - 🚀 Open Source REST API for rocket, core, capsule, pad, and launch data
-- [pose-animator](https://github.com/yemount/pose-animator)
-  - 
-- [mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide)
-  - Mostly adequate guide to FP (in javascript)
-- [covid19india-react](https://github.com/covid19india/covid19india-react)
-  - Tracking the impact of COVID-19 in India
-- [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
-  - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
-- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
-  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [MagicMirror](https://github.com/MichMich/MagicMirror)
-  - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
-- [vue](https://github.com/tailwindui/vue)
-  - 
 - [text-to-handwriting](https://github.com/saurabhdaware/text-to-handwriting)
   - So your teacher asked you to upload written assignments on ERP? Hate writing assigments? This tool will help you convert your text to handwriting xD
-- [react-data-table-component](https://github.com/jbetancur/react-data-table-component)
-  - A simple table library with built in sorting, pagination, selection, expandable rows and customizable styling.
-- [gatsby-starter-blog](https://github.com/gatsbyjs/gatsby-starter-blog)
-  - Gatsby starter for creating a blog
-- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
-  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
-  - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
-- [RSSHub](https://github.com/DIYgod/RSSHub)
-  - 🍰 Everything is RSSible
-- [Auto.js_Projects](https://github.com/SuperMonster003/Auto.js_Projects)
-  - 基于Auto.js的辅助工具项目 (蚂蚁森林) Auto.js-based assistant tools projects (Ant Forest)
-- [new_v2ex](https://github.com/sedgwickz/new_v2ex)
-  - Nextjs 仿 v2ex
-- [discord.js](https://github.com/discordjs/discord.js)
-  - A powerful JavaScript library for interacting with the Discord API
-- [wtfjs](https://github.com/denysdovhan/wtfjs)
-  - A list of funny and tricky JavaScript examples
-- [website](https://github.com/CodingTrain/website)
-  - Coding Train website
-- [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
-  - OpenZeppelin Contracts is a library for secure smart contract development.
-- [next.js](https://github.com/vercel/next.js)
-  - The React Framework
-- [Ghost](https://github.com/TryGhost/Ghost)
-  - 👻 The #1 headless Node.js CMS for professional publishing
+- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
+  - The iconic SVG, font, and CSS toolkit
+- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
+  - Revive unavailable songs for Netease Cloud Music
+- [image-scrubber](https://github.com/everestpipkin/image-scrubber)
+  - A friendly browser-based tool for anonymizing photographs taken at protests
+- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
+  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+- [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
+  - Cross platform SQL editor and database management app for Windows, Linux, and Mac.
+- [svelte](https://github.com/sveltejs/svelte)
+  - Cybernetically enhanced web apps
+- [appium](https://github.com/appium/appium)
+  - 📱 Automation for iOS, Android, and Windows Apps.
+- [vue](https://github.com/vuejs/vue)
+  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [awesomo](https://github.com/lk-geimfari/awesomo)
+  - An extensive list of cool open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
+- [wifi-card](https://github.com/bndw/wifi-card)
+  - 📶 Print a QR code for connecting to your WiFi
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [scripts](https://github.com/chavyleung/scripts)
+  - 
+- [Police-Data-Accessibility-Project](https://github.com/Police-Data-Accessibility-Project/Police-Data-Accessibility-Project)
+  - A repository for all code related to the Police Accountability Project
+- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
+  - 🎆Interactive Online Platform that Visualizes Algorithms from Code
+- [react-router](https://github.com/ReactTraining/react-router)
+  - Declarative routing for React
+- [react-calendar-timeline](https://github.com/namespace-ee/react-calendar-timeline)
+  - A modern and responsive react timeline component.
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [slate](https://github.com/slatedocs/slate)
+  - Beautiful static documentation for your API
+- [uni-app](https://github.com/dcloudio/uni-app)
+  - uni-app 是使用 Vue 语法开发小程序、H5、App的统一框架
+- [fe-interview](https://github.com/haizlin/fe-interview)
+  - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）
+- [unlock-music](https://github.com/ix64/unlock-music)
+  - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
+- [vimium](https://github.com/philc/vimium)
+  - The hacker's browser.
+- [vue](https://github.com/qq281113270/vue)
+  - vue源码逐行注释分析+40多m的vue源码程序流程图思维导图 （diff部分待后续更新）

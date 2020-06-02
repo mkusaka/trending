@@ -1,51 +1,51 @@
 # rust
 - [substrate](https://github.com/paritytech/substrate)
   - Substrate: The platform for blockchain innovators
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [tui-rs](https://github.com/fdehau/tui-rs)
-  - Build terminal user interfaces and dashboards using Rust
-- [firecracker](https://github.com/firecracker-microvm/firecracker)
-  - Secure and fast microVMs for serverless computing.
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix web is a small, pragmatic, and extremely fast rust web framework.
-- [xi-editor](https://github.com/xi-editor/xi-editor)
-  - A modern editor with a backend written in Rust.
-- [exa](https://github.com/ogham/exa)
-  - A modern version of ‘ls’.
-- [gfx](https://github.com/gfx-rs/gfx)
-  - A low-overhead Vulkan-like GPU API for Rust.
-- [Rocket](https://github.com/SergioBenitez/Rocket)
-  - A web framework for Rust.
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [autopilot-deno](https://github.com/divy-work/autopilot-deno)
-  - Cross-platform desktop automation library for Deno.
-- [actix](https://github.com/actix/actix)
-  - Actor framework for Rust
-- [iced](https://github.com/hecrj/iced)
-  - A cross-platform GUI library for Rust, inspired by Elm
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
-- [book](https://github.com/rust-lang/book)
-  - The Rust Programming Language
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [warp](https://github.com/seanmonstar/warp)
-  - A super-easy, composable, web server framework for warp speeds.
-- [rusoto](https://github.com/rusoto/rusoto)
-  - AWS SDK for Rust
-- [cargo](https://github.com/rust-lang/cargo)
-  - The Rust package manager
-- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
-  - Facilitating high-level interactions between Wasm modules and JavaScript
 - [polkadot](https://github.com/paritytech/polkadot)
   - Polkadot Node Implementation
+- [openethereum](https://github.com/openethereum/openethereum)
+  - Fast and feature-rich multi-network Ethereum client.
+- [alacritty](https://github.com/alacritty/alacritty)
+  - A cross-platform, GPU-accelerated terminal emulator
+- [xi-editor](https://github.com/xi-editor/xi-editor)
+  - A modern editor with a backend written in Rust.
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [lemmy](https://github.com/LemmyNet/lemmy)
+  - 🐀 Building a federated alternative to reddit in rust
+- [druid](https://github.com/xi-editor/druid)
+  - A data-first Rust-native UI design toolkit.
+- [cargo](https://github.com/rust-lang/cargo)
+  - The Rust package manager
 - [vixi](https://github.com/Peltoche/vixi)
   - A vim like client for the xi backend
-- [sled](https://github.com/spacejam/sled)
-  - the champagne of beta embedded databases
-- [rustup](https://github.com/rust-lang/rustup)
-  - The Rust toolchain installer
+- [gleam](https://github.com/gleam-lang/gleam)
+  - ⭐️ A statically typed language for the Erlang VM
+- [bwt](https://github.com/shesek/bwt)
+  - A lightweight HD wallet indexer for Bitcoin, available as an Electrum RPC server and a modern HTTP REST API.
+- [tui-rs](https://github.com/fdehau/tui-rs)
+  - Build terminal user interfaces and dashboards using Rust
+- [gitui](https://github.com/extrawurst/gitui)
+  - blazing fast terminal-ui for git written in rust
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
+- [gfx](https://github.com/gfx-rs/gfx)
+  - A low-overhead Vulkan-like GPU API for Rust.
+- [iced](https://github.com/hecrj/iced)
+  - A cross-platform GUI library for Rust, inspired by Elm
+- [amethyst](https://github.com/amethyst/amethyst)
+  - Data-oriented and data-driven game engine written in Rust
+- [exa](https://github.com/ogham/exa)
+  - A modern version of ‘ls’.
+- [xi-term](https://github.com/xi-frontend/xi-term)
+  - A terminal frontend for Xi
+- [i3status-rust](https://github.com/greshake/i3status-rust)
+  - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
+- [warp](https://github.com/seanmonstar/warp)
+  - A super-easy, composable, web server framework for warp speeds.
+- [lettre](https://github.com/lettre/lettre)
+  - a mailer library for Rust
