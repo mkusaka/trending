@@ -1,50 +1,51 @@
 # general
-- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) : Kotlin
-  - Native Android app using the Apple/Google exposure notification API.
-- [cwa-app-ios](https://github.com/corona-warn-app/cwa-app-ios) : Swift
-  - Native iOS app using the exposure notification framework from Apple.
-- [cwa-documentation](https://github.com/corona-warn-app/cwa-documentation) : 
-  - Project overview, general documentation, and white papers.
+- [django-rest-framework](https://github.com/encode/django-rest-framework) : Python
+  - Web APIs for Django. 🎸
 - [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) : C++
   - C++那些事
-- [git-fuzzy](https://github.com/bigH/git-fuzzy) : Shell
-  - interactive `git` with the help of `fzf`
-- [v2ray-core](https://github.com/v2ray/v2ray-core) : Go
-  - A platform for building proxies to bypass network restrictions.
-- [go-interview](https://github.com/shomali11/go-interview) : Go
-  - Collection of Technical Interview Questions solved with Go
-- [cwa-server](https://github.com/corona-warn-app/cwa-server) : Java
-  - Backend implementation for the Apple/Google exposure notification API.
-- [cwa-website](https://github.com/corona-warn-app/cwa-website) : CSS
-  - Corona-Warn-App website
-- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) : JavaScript
-  - 🎆Interactive Online Platform that Visualizes Algorithms from Code
-- [cwa-verification-portal](https://github.com/corona-warn-app/cwa-verification-portal) : Java
-  - Frontend implementation of verification process
-- [practical-python](https://github.com/dabeaz-course/practical-python) : Python
-  - Practical Python Programming (course by @dabeaz)
-- [DescomplicandoKubernetes](https://github.com/badtuxx/DescomplicandoKubernetes) : 
-- [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) : JavaScript
-  - Cross platform SQL editor and database management app for Windows, Linux, and Mac.
-- [substrate](https://github.com/paritytech/substrate) : Rust
-  - Substrate: The platform for blockchain innovators
+- [InternetArchitect](https://github.com/bjmashibing/InternetArchitect) : Java
+  - 年薪百万互联网架构师课程文档及源码(公开部分)
 - [SpaceX-API](https://github.com/r-spacex/SpaceX-API) : JavaScript
   - 🚀 Open Source REST API for rocket, core, capsule, pad, and launch data
-- [BIGTREETECH-SKR-mini-E3](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3) : C++
-  - BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.
+- [substrate](https://github.com/paritytech/substrate) : Rust
+  - Substrate: The platform for blockchain innovators
 - [ZY-Player](https://github.com/Hunlongyu/ZY-Player) : Vue
   - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
-- [freqtrade](https://github.com/freqtrade/freqtrade) : Python
-  - Free, open source crypto trading bot
-- [yolov5](https://github.com/ultralytics/yolov5) : Jupyter Notebook
-  - YOLOv5 in PyTorch > ONNX > CoreML > iOS
-- [robotgo](https://github.com/go-vgo/robotgo) : C
-  - RobotGo, Go Native cross-platform GUI automation @vcaesar
-- [ALAE](https://github.com/podgorskiy/ALAE) : Python
-  - [CVPR2020] Adversarial Latent Autoencoders
-- [cwa-testresult-server](https://github.com/corona-warn-app/cwa-testresult-server) : Java
-  - Backend implementation of the test result information.
+- [cwa-website](https://github.com/corona-warn-app/cwa-website) : CSS
+  - Corona-Warn-App website
+- [fastjson](https://github.com/alibaba/fastjson) : Java
+  - A fast JSON parser/generator for Java.
+- [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) : 
+  - A list of resources for those interested in getting started in bug bounties
+- [practical-python](https://github.com/dabeaz-course/practical-python) : Python
+  - Practical Python Programming (course by @dabeaz)
+- [v2ray-core](https://github.com/v2ray/v2ray-core) : Go
+  - A platform for building proxies to bypass network restrictions.
+- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) : Kotlin
+  - Native Android app using the Apple/Google exposure notification API.
+- [Qv2ray](https://github.com/Qv2ray/Qv2ray) : C++
+  - ⭐ A cross-platform V2ray/SSR/Trojan GUI Client written in C++ / Qt ⭐
+- [weekly](https://github.com/dt-fe/weekly) : 
+  - 前端精读周刊
+- [Ventoy](https://github.com/ventoy/Ventoy) : C
+  - A new bootable USB solution.
+- [taichi](https://github.com/taichi-dev/taichi) : C++
+  - Productive & portable programming language for high-performance, sparse & differentiable computing
+- [git-fuzzy](https://github.com/bigH/git-fuzzy) : Shell
+  - interactive `git` with the help of `fzf`
+- [trojan](https://github.com/trojan-gfw/trojan) : C++
+  - An unidentifiable mechanism that helps you bypass GFW.
+- [fastbook](https://github.com/fastai/fastbook) : Jupyter Notebook
+  - Draft of the fastai book
 - [trojan-go](https://github.com/p4gefau1t/trojan-go) : Go
   - Go实现的Trojan代理，支持自动证书申请/多路复用/路由功能/CDN中转，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
-- [JavaCollection](https://github.com/hansonwang99/JavaCollection) : 
-  - Java开源项目之「自学编程之路」：学习指南+面试指南+资源分享+技术文章
+- [spring-analysis](https://github.com/seaswalker/spring-analysis) : Java
+  - Spring源码阅读
+- [cwa-documentation](https://github.com/corona-warn-app/cwa-documentation) : 
+  - Project overview, general documentation, and white papers.
+- [Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) : Jupyter Notebook
+  - 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
+- [deeplearning-models](https://github.com/rasbt/deeplearning-models) : Jupyter Notebook
+  - A collection of various deep learning architectures, models, and tips
+- [realtime](https://github.com/supabase/realtime) : Elixir
+  - Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.
