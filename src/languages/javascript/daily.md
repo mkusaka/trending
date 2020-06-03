@@ -1,51 +1,51 @@
 # javascript
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+  - ✅ The Node.js best practices list (June 2020)
 - [SpaceX-API](https://github.com/r-spacex/SpaceX-API)
   - 🚀 Open Source REST API for rocket, core, capsule, pad, and launch data
-- [text-to-handwriting](https://github.com/saurabhdaware/text-to-handwriting)
-  - So your teacher asked you to upload written assignments on ERP? Hate writing assigments? This tool will help you convert your text to handwriting xD
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
   - The iconic SVG, font, and CSS toolkit
-- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
-  - Revive unavailable songs for Netease Cloud Music
+- [BrasilAPI](https://github.com/filipedeschamps/BrasilAPI)
+  - Vamos transformar o Brasil em uma API?
+- [text-to-handwriting](https://github.com/saurabhdaware/text-to-handwriting)
+  - So your teacher asked you to upload written assignments on ERP? Hate writing assigments? This tool will help you convert your text to handwriting xD
 - [image-scrubber](https://github.com/everestpipkin/image-scrubber)
   - A friendly browser-based tool for anonymizing photographs taken at protests
-- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
-  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
-- [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
-  - Cross platform SQL editor and database management app for Windows, Linux, and Mac.
-- [svelte](https://github.com/sveltejs/svelte)
-  - Cybernetically enhanced web apps
-- [appium](https://github.com/appium/appium)
-  - 📱 Automation for iOS, Android, and Windows Apps.
-- [vue](https://github.com/vuejs/vue)
-  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [awesomo](https://github.com/lk-geimfari/awesomo)
-  - An extensive list of cool open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
-- [wifi-card](https://github.com/bndw/wifi-card)
-  - 📶 Print a QR code for connecting to your WiFi
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [scripts](https://github.com/chavyleung/scripts)
-  - 
-- [Police-Data-Accessibility-Project](https://github.com/Police-Data-Accessibility-Project/Police-Data-Accessibility-Project)
-  - A repository for all code related to the Police Accountability Project
-- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
-  - 🎆Interactive Online Platform that Visualizes Algorithms from Code
-- [react-router](https://github.com/ReactTraining/react-router)
-  - Declarative routing for React
-- [react-calendar-timeline](https://github.com/namespace-ee/react-calendar-timeline)
-  - A modern and responsive react timeline component.
 - [material-ui](https://github.com/mui-org/material-ui)
   - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [slate](https://github.com/slatedocs/slate)
-  - Beautiful static documentation for your API
-- [uni-app](https://github.com/dcloudio/uni-app)
-  - uni-app 是使用 Vue 语法开发小程序、H5、App的统一框架
+- [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs)
+  - Code documentation written as code! How novel and totally my idea!
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [react-router](https://github.com/ReactTraining/react-router)
+  - Declarative routing for React
 - [fe-interview](https://github.com/haizlin/fe-interview)
   - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）
-- [unlock-music](https://github.com/ix64/unlock-music)
-  - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
-- [vimium](https://github.com/philc/vimium)
-  - The hacker's browser.
+- [helper-618](https://github.com/ZainCheung/helper-618)
+  - 🚀基于Autojs的淘宝/京东618自动刷任务项目，目前已支持京东叠蛋糕和淘宝列车。
+- [Base-React-App](https://github.com/panacloud/Base-React-App)
+  - 
+- [Chart.js](https://github.com/chartjs/Chart.js)
+  - Simple HTML5 Charts using the <canvas> tag
+- [sheetjs](https://github.com/SheetJS/sheetjs)
+  - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
+- [insomnia](https://github.com/Kong/insomnia)
+  - Leading Open Source API Client, and Collaborative API Design Platform for GraphQL, and REST
+- [ar-facedoodle](https://github.com/cyrildiagne/ar-facedoodle)
+  - Doodle AR masks right from the browser with tensorflow.js
+- [fullcalendar](https://github.com/fullcalendar/fullcalendar)
+  - Full-sized drag & drop event calendar
+- [react-window](https://github.com/bvaughn/react-window)
+  - React components for efficiently rendering large lists and tabular data
+- [cypress](https://github.com/cypress-io/cypress)
+  - Fast, easy and reliable testing for anything that runs in a browser.
 - [vue](https://github.com/qq281113270/vue)
   - vue源码逐行注释分析+40多m的vue源码程序流程图思维导图 （diff部分待后续更新）
+- [react-chartjs-2](https://github.com/jerairrest/react-chartjs-2)
+  - React wrapper for Chart.js
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+  - 💯 Materials to help you rock your next coding interview
+- [cube.js](https://github.com/cube-js/cube.js)
+  - 📊 Cube.js - Open Source Analytics Framework
+- [redash](https://github.com/getredash/redash)
+  - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.

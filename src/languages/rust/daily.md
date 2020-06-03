@@ -3,49 +3,49 @@
   - Substrate: The platform for blockchain innovators
 - [polkadot](https://github.com/paritytech/polkadot)
   - Polkadot Node Implementation
-- [openethereum](https://github.com/openethereum/openethereum)
-  - Fast and feature-rich multi-network Ethereum client.
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
-- [xi-editor](https://github.com/xi-editor/xi-editor)
-  - A modern editor with a backend written in Rust.
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
-  - Unofficial Bitwarden compatible server written in Rust
 - [lemmy](https://github.com/LemmyNet/lemmy)
   - 🐀 Building a federated alternative to reddit in rust
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
 - [druid](https://github.com/xi-editor/druid)
   - A data-first Rust-native UI design toolkit.
-- [cargo](https://github.com/rust-lang/cargo)
-  - The Rust package manager
-- [vixi](https://github.com/Peltoche/vixi)
-  - A vim like client for the xi backend
-- [gleam](https://github.com/gleam-lang/gleam)
-  - ⭐️ A statically typed language for the Erlang VM
-- [bwt](https://github.com/shesek/bwt)
-  - A lightweight HD wallet indexer for Bitcoin, available as an Electrum RPC server and a modern HTTP REST API.
-- [tui-rs](https://github.com/fdehau/tui-rs)
-  - Build terminal user interfaces and dashboards using Rust
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
+- [openethereum](https://github.com/openethereum/openethereum)
+  - Fast and feature-rich multi-network Ethereum client.
 - [gitui](https://github.com/extrawurst/gitui)
   - blazing fast terminal-ui for git written in rust
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
-- [bat](https://github.com/sharkdp/bat)
-  - A cat(1) clone with wings.
-- [gfx](https://github.com/gfx-rs/gfx)
-  - A low-overhead Vulkan-like GPU API for Rust.
 - [iced](https://github.com/hecrj/iced)
   - A cross-platform GUI library for Rust, inspired by Elm
-- [amethyst](https://github.com/amethyst/amethyst)
-  - Data-oriented and data-driven game engine written in Rust
-- [exa](https://github.com/ogham/exa)
-  - A modern version of ‘ls’.
+- [team1](https://github.com/SubstrateCourse/team1)
+  - The homework from students in team 1
+- [alacritty](https://github.com/alacritty/alacritty)
+  - A cross-platform, GPU-accelerated terminal emulator
+- [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
+  - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
+- [quiche](https://github.com/cloudflare/quiche)
+  - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [xi-term](https://github.com/xi-frontend/xi-term)
   - A terminal frontend for Xi
-- [i3status-rust](https://github.com/greshake/i3status-rust)
-  - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
-- [warp](https://github.com/seanmonstar/warp)
-  - A super-easy, composable, web server framework for warp speeds.
+- [xi-editor](https://github.com/xi-editor/xi-editor)
+  - A modern editor with a backend written in Rust.
+- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
+  - Facilitating high-level interactions between Wasm modules and JavaScript
+- [gleam](https://github.com/gleam-lang/gleam)
+  - ⭐️ A statically typed language for the Erlang VM
+- [cargo](https://github.com/rust-lang/cargo)
+  - The Rust package manager
+- [tonic](https://github.com/hyperium/tonic)
+  - A native gRPC client & server implementation with async/await support.
+- [async-std](https://github.com/async-rs/async-std)
+  - Async version of the Rust standard library
+- [tikv](https://github.com/tikv/tikv)
+  - Distributed transactional key-value database, originally created to complement TiDB
 - [lettre](https://github.com/lettre/lettre)
   - a mailer library for Rust
+- [vixi](https://github.com/Peltoche/vixi)
+  - A vim like client for the xi backend
+- [coreutils](https://github.com/uutils/coreutils)
+  - Cross-platform Rust rewrite of the GNU coreutils
+- [orbtk](https://github.com/redox-os/orbtk)
+  - The Rust UI-Toolkit.
