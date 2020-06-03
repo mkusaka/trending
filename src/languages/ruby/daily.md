@@ -1,51 +1,51 @@
 # ruby
-- [kaminari](https://github.com/kaminari/kaminari)
-  - ⚡ A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps
-- [strong_migrations](https://github.com/ankane/strong_migrations)
-  - Catch unsafe migrations in development
-- [simple_form](https://github.com/heartcombo/simple_form)
-  - Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
-- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
-  - Metasploit Framework
-- [react-native-config](https://github.com/luggit/react-native-config)
-  - Bring some 12 factor love to your mobile apps!
-- [webpacker](https://github.com/rails/webpacker)
-  - Use Webpack to manage app-like JavaScript modules in Rails
-- [linguist](https://github.com/github/linguist)
-  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-- [devise](https://github.com/heartcombo/devise)
-  - Flexible authentication solution for Rails with Warden.
+- [fastlane](https://github.com/fastlane/fastlane)
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [logstash](https://github.com/elastic/logstash)
+  - Logstash - transport and process your logs, events, or other data
+- [rubocop](https://github.com/rubocop-hq/rubocop)
+  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+- [sidekiq](https://github.com/mperham/sidekiq)
+  - Simple, efficient background processing for Ruby
+- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
+  - The Cocoa Dependency Manager.
 - [bailfunds.github.io](https://github.com/bailfunds/bailfunds.github.io)
   - A collection of community resources for protestors around the country.
-- [factory_bot](https://github.com/thoughtbot/factory_bot)
-  - A library for setting up Ruby objects as test data.
-- [WhatWeb](https://github.com/urbanadventurer/WhatWeb)
-  - Next generation web scanner
-- [vagrant](https://github.com/hashicorp/vagrant)
-  - Vagrant is a tool for building and distributing development environments.
-- [httparty](https://github.com/jnunemaker/httparty)
-  - 🎉 Makes http fun again!
-- [jekyll](https://github.com/jekyll/jekyll)
-  - 🌐 Jekyll is a blog-aware static site generator in Ruby
+- [fpm](https://github.com/jordansissel/fpm)
+  - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
+- [greenlight](https://github.com/bigbluebutton/greenlight)
+  - A really simple end-user interface for your BigBlueButton server.
+- [rails](https://github.com/rails/rails)
+  - Ruby on Rails
+- [chatwoot](https://github.com/chatwoot/chatwoot)
+  - Open-source live chat software 🔥💬
+- [react-native-config](https://github.com/luggit/react-native-config)
+  - Bring some 12 factor love to your mobile apps!
+- [guides](https://github.com/thoughtbot/guides)
+  - A guide for programming in style.
+- [homebrew-openjdk](https://github.com/AdoptOpenJDK/homebrew-openjdk)
+  - AdoptOpenJDK HomeBrew Tap
+- [openproject](https://github.com/opf/openproject)
+  - OpenProject is the leading open source project management software.
+- [rspec-rails](https://github.com/rspec/rspec-rails)
+  - RSpec for Rails 5+
+- [pundit](https://github.com/varvet/pundit)
+  - Minimal authorization through OO design and pure Ruby classes
+- [heroku-buildpack-ruby](https://github.com/heroku/heroku-buildpack-ruby)
+  - Heroku's Ruby Buildpack
+- [paper_trail](https://github.com/paper-trail-gem/paper_trail)
+  - Track changes to your rails models
+- [sha256-animation](https://github.com/in3rsha/sha256-animation)
+  - Animation of the SHA-256 hash function in your terminal.
+- [faker](https://github.com/faker-ruby/faker)
+  - A library for generating fake data such as names, addresses, and phone numbers.
 - [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails)
   - Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
-- [fluentd](https://github.com/fluent/fluentd)
-  - Fluentd: Unified Logging Layer (project under CNCF)
-- [sinatra](https://github.com/sinatra/sinatra)
-  - Classy web-development dressed in a DSL (official / canonical repo)
-- [pghero](https://github.com/ankane/pghero)
-  - A performance dashboard for Postgres
-- [closure_tree](https://github.com/ClosureTree/closure_tree)
-  - Easily and efficiently make your ActiveRecord models support hierarchies
-- [view_component](https://github.com/github/view_component)
-  - View components for Rails
-- [cancancan](https://github.com/CanCanCommunity/cancancan)
-  - The authorization Gem for Ruby on Rails.
-- [brew](https://github.com/Homebrew/brew)
-  - 🍺 The missing package manager for macOS (or Linux)
-- [ruby](https://github.com/ruby/ruby)
-  - The Ruby Programming Language [mirror]
-- [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)
-  - Simple one-liner tests for common Rails functionality
-- [canvas-lms](https://github.com/instructure/canvas-lms)
-  - The open LMS by Instructure, Inc.
+- [terraforming](https://github.com/dtan4/terraforming)
+  - Export existing AWS resources to Terraform style (tf, tfstate)
+- [simple_form](https://github.com/heartcombo/simple_form)
+  - Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
+- [spree](https://github.com/spree/spree)
+  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
+- [administrate](https://github.com/thoughtbot/administrate)
+  - A Rails engine that helps you put together a super-flexible admin dashboard.

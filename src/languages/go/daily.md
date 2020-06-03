@@ -1,51 +1,51 @@
 # go
-- [v2ray-core](https://github.com/v2ray/v2ray-core)
-  - A platform for building proxies to bypass network restrictions.
-- [trojan-go](https://github.com/p4gefau1t/trojan-go)
-  - Go实现的Trojan代理，支持自动证书申请/多路复用/路由功能/CDN中转，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
-- [istio](https://github.com/istio/istio)
-  - Connect, secure, control, and observe services.
-- [go-git](https://github.com/go-git/go-git)
-  - A highly extensible Git implementation in pure Go.
-- [k9s](https://github.com/derailed/k9s)
-  - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
-  - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，更多功能正在开发中，欢迎issue和pr~
-- [go](https://github.com/golang/go)
-  - The Go programming language
-- [cron](https://github.com/robfig/cron)
-  - a cron library for go
 - [jupiter](https://github.com/douyu/jupiter)
   - Jupiter是douyu开源的面向服务治理的Golang微服务框架
-- [nomad](https://github.com/hashicorp/nomad)
-  - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [concourse](https://github.com/concourse/concourse)
-  - Concourse is a container-based continuous thing-doer written in Go and Elm.
-- [errors](https://github.com/pkg/errors)
-  - Simple error handling primitives
-- [golang-design-pattern](https://github.com/senghoo/golang-design-pattern)
-  - 设计模式 Golang实现－《研磨设计模式》读书笔记
-- [go-interview](https://github.com/shomali11/go-interview)
-  - Collection of Technical Interview Questions solved with Go
-- [v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin)
-  - A SIP003 plugin based on v2ray
-- [k3sup](https://github.com/alexellis/k3sup)
-  - bootstrap Kubernetes with k3s over SSH < 1 min 🚀
-- [mux](https://github.com/gorilla/mux)
-  - A powerful HTTP router and URL matcher for building Go web servers with 🦍
+- [trojan-go](https://github.com/p4gefau1t/trojan-go)
+  - Go实现的Trojan代理，支持自动证书申请/多路复用/路由功能/CDN中转，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
+- [v2ray-core](https://github.com/v2ray/v2ray-core)
+  - A platform for building proxies to bypass network restrictions.
+- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
+  - Terraform AWS provider
+- [rancher](https://github.com/rancher/rancher)
+  - Complete container management platform
+- [influxdb](https://github.com/influxdata/influxdb)
+  - Scalable datastore for metrics, events, and real-time analytics
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics)
   - VictoriaMetrics - fast, cost-effective and scalable time series database
-- [validator](https://github.com/go-playground/validator)
-  - 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-- [kubesphere](https://github.com/kubesphere/kubesphere)
-  - Easy-to-use Production Ready Container Platform
-- [fasthttp](https://github.com/valyala/fasthttp)
-  - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
-- [minio](https://github.com/minio/minio)
-  - MinIO is a high performance object storage server compatible with Amazon S3 APIs
+- [velero](https://github.com/vmware-tanzu/velero)
+  - Backup and migrate Kubernetes applications and their persistent volumes
+- [MailHog](https://github.com/mailhog/MailHog)
+  - Web and API based SMTP testing
+- [vault](https://github.com/hashicorp/vault)
+  - A tool for secrets management, encryption as a service, and privileged access management
 - [gin](https://github.com/gin-gonic/gin)
   - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [terraform-provider-google](https://github.com/terraform-providers/terraform-provider-google)
-  - Terraform Google Cloud Platform provider
+- [concourse](https://github.com/concourse/concourse)
+  - Concourse is a container-based continuous thing-doer written in Go and Elm.
+- [logrus](https://github.com/sirupsen/logrus)
+  - Structured, pluggable logging for Go.
+- [terragrunt](https://github.com/gruntwork-io/terragrunt)
+  - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
+- [charts](https://github.com/helm/charts)
+  - Curated applications for Kubernetes
+- [sqlboiler](https://github.com/volatiletech/sqlboiler)
+  - Generate a Go ORM tailored to your database schema.
+- [aws-sdk-go](https://github.com/aws/aws-sdk-go)
+  - AWS SDK for the Go programming language.
+- [immudb](https://github.com/codenotary/immudb)
+  - immudb is a lightweight, high-speed immutable database for systems and applications
+- [go-git](https://github.com/go-git/go-git)
+  - A highly extensible Git implementation in pure Go.
+- [terraform-provider-kubernetes](https://github.com/terraform-providers/terraform-provider-kubernetes)
+  - Terraform Kubernetes provider
 - [redis](https://github.com/go-redis/redis)
   - Type-safe Redis client for Golang
+- [errors](https://github.com/pkg/errors)
+  - Simple error handling primitives
+- [kubernetes](https://github.com/kubernetes/kubernetes)
+  - Production-Grade Container Scheduling and Management
+- [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
+  - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，更多功能正在开发中，欢迎issue和pr~
+- [grpc-go](https://github.com/grpc/grpc-go)
+  - The Go language implementation of gRPC. HTTP/2 based RPC

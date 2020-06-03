@@ -1,51 +1,50 @@
 # general
-- [django-rest-framework](https://github.com/encode/django-rest-framework) : Python
-  - Web APIs for Django. 🎸
-- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) : C++
-  - C++那些事
-- [InternetArchitect](https://github.com/bjmashibing/InternetArchitect) : Java
-  - 年薪百万互联网架构师课程文档及源码(公开部分)
-- [SpaceX-API](https://github.com/r-spacex/SpaceX-API) : JavaScript
-  - 🚀 Open Source REST API for rocket, core, capsule, pad, and launch data
+- [CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) : C++
+- [snakeware](https://github.com/joshiemoore/snakeware) : Python
+  - A free Linux distro with a fully Python userspace
+- [Pokedex](https://github.com/skydoves/Pokedex) : Kotlin
+  - 🗡️ Android Pokedex using Dagger Hilt, Motion, Coroutines, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
+- [Police-Data-Accessibility-Project](https://github.com/Police-Data-Accessibility-Project/Police-Data-Accessibility-Project) : Python
+  - A repository for all code related to the Police Accountability Project
 - [substrate](https://github.com/paritytech/substrate) : Rust
   - Substrate: The platform for blockchain innovators
-- [ZY-Player](https://github.com/Hunlongyu/ZY-Player) : Vue
-  - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
-- [cwa-website](https://github.com/corona-warn-app/cwa-website) : CSS
-  - Corona-Warn-App website
-- [fastjson](https://github.com/alibaba/fastjson) : Java
-  - A fast JSON parser/generator for Java.
+- [InternetArchitect](https://github.com/bjmashibing/InternetArchitect) : Java
+  - 年薪百万互联网架构师课程文档及源码(公开部分)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) : JavaScript
+  - ✅ The Node.js best practices list (June 2020)
+- [jupiter](https://github.com/douyu/jupiter) : Go
+  - Jupiter是douyu开源的面向服务治理的Golang微服务框架
+- [streamlit](https://github.com/streamlit/streamlit) : TypeScript
+  - Streamlit — The fastest way to build custom ML tools
+- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) : C++
+  - C++那些事
+- [SpaceX-API](https://github.com/r-spacex/SpaceX-API) : JavaScript
+  - 🚀 Open Source REST API for rocket, core, capsule, pad, and launch data
+- [acme](https://github.com/deepmind/acme) : Python
+  - A library of reinforcement learning components and agents
+- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) : JavaScript
+  - The iconic SVG, font, and CSS toolkit
+- [Apollo-11](https://github.com/chrislgarry/Apollo-11) : Assembly
+  - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 - [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) : 
   - A list of resources for those interested in getting started in bug bounties
-- [practical-python](https://github.com/dabeaz-course/practical-python) : Python
-  - Practical Python Programming (course by @dabeaz)
-- [v2ray-core](https://github.com/v2ray/v2ray-core) : Go
-  - A platform for building proxies to bypass network restrictions.
-- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) : Kotlin
-  - Native Android app using the Apple/Google exposure notification API.
-- [Qv2ray](https://github.com/Qv2ray/Qv2ray) : C++
-  - ⭐ A cross-platform V2ray/SSR/Trojan GUI Client written in C++ / Qt ⭐
+- [modern-cpp-template](https://github.com/filipdutescu/modern-cpp-template) : CMake
+  - A template for modern C++ projects using CMake, clang-format and unit testing, with support for downstream inclusion
+- [top10webseclist](https://github.com/irsdl/top10webseclist) : 
+  - Top Ten Web Hacking Techniques List
+- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) : 
+  - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [weekly](https://github.com/dt-fe/weekly) : 
   - 前端精读周刊
-- [Ventoy](https://github.com/ventoy/Ventoy) : C
-  - A new bootable USB solution.
-- [taichi](https://github.com/taichi-dev/taichi) : C++
-  - Productive & portable programming language for high-performance, sparse & differentiable computing
-- [git-fuzzy](https://github.com/bigH/git-fuzzy) : Shell
-  - interactive `git` with the help of `fzf`
-- [trojan](https://github.com/trojan-gfw/trojan) : C++
-  - An unidentifiable mechanism that helps you bypass GFW.
-- [fastbook](https://github.com/fastai/fastbook) : Jupyter Notebook
-  - Draft of the fastai book
-- [trojan-go](https://github.com/p4gefau1t/trojan-go) : Go
-  - Go实现的Trojan代理，支持自动证书申请/多路复用/路由功能/CDN中转，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
-- [spring-analysis](https://github.com/seaswalker/spring-analysis) : Java
-  - Spring源码阅读
-- [cwa-documentation](https://github.com/corona-warn-app/cwa-documentation) : 
-  - Project overview, general documentation, and white papers.
-- [Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) : Jupyter Notebook
-  - 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
-- [deeplearning-models](https://github.com/rasbt/deeplearning-models) : Jupyter Notebook
-  - A collection of various deep learning architectures, models, and tips
+- [swr](https://github.com/vercel/swr) : TypeScript
+  - React Hooks library for remote data fetching
+- [BrasilAPI](https://github.com/filipedeschamps/BrasilAPI) : JavaScript
+  - Vamos transformar o Brasil em uma API?
+- [ZY-Player](https://github.com/Hunlongyu/ZY-Player) : Vue
+  - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
 - [realtime](https://github.com/supabase/realtime) : Elixir
   - Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.
+- [mmdetection](https://github.com/open-mmlab/mmdetection) : Python
+  - Open MMLab Detection Toolbox and Benchmark
+- [django-rest-framework](https://github.com/encode/django-rest-framework) : Python
+  - Web APIs for Django. 🎸

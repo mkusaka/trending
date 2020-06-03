@@ -1,51 +1,51 @@
 # typescript
-- [swr](https://github.com/vercel/swr)
-  - React Hooks library for remote data fetching
-- [TypeScript](https://github.com/microsoft/TypeScript)
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [G2](https://github.com/antvis/G2)
-  - 📊 A highly interactive data-driven visualization grammar for statistical charts.
 - [streamlit](https://github.com/streamlit/streamlit)
   - Streamlit — The fastest way to build custom ML tools
-- [vue-next](https://github.com/vuejs/vue-next)
-  - Repo for Vue 3.0 (currently in beta)
-- [vite](https://github.com/vitejs/vite)
-  - An opinionated web dev build tool. It's fast.
-- [ant-design](https://github.com/ant-design/ant-design)
-  - 🌈 A UI Design Language and React UI library
-- [react-use](https://github.com/streamich/react-use)
-  - React Hooks — 👍
-- [datahub](https://github.com/linkedin/datahub)
-  - A Generalized Metadata Search & Discovery Tool
-- [nativefier](https://github.com/jiahaog/nativefier)
-  - Make any web page a desktop application
-- [components](https://github.com/angular/components)
-  - Component infrastructure and Material Design components for Angular
-- [grafana](https://github.com/grafana/grafana)
-  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [unform](https://github.com/Rocketseat/unform)
-  - Easy peasy highly scalable ReactJS & React Native forms! 🚀
-- [angular-cli](https://github.com/angular/angular-cli)
-  - CLI tool for Angular
-- [react-admin](https://github.com/karakal-FET/react-admin)
-  - ✨ react-admin system solution : react 后台管理系统解决方案
-- [VoTT](https://github.com/microsoft/VoTT)
-  - Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.
+- [swr](https://github.com/vercel/swr)
+  - React Hooks library for remote data fetching
+- [vscode-cpptools](https://github.com/microsoft/vscode-cpptools)
+  - Official repository for the Microsoft C/C++ extension for VS Code.
 - [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
   - Foreign language reading and translation assistant based on copy and translate.
+- [BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
+  - Dialog creation and management for Microsoft Bot Framework Applications
 - [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
   - The source for REST API specifications for Microsoft Azure.
-- [formik](https://github.com/jaredpalmer/formik)
-  - Build forms in React, without the tears 😭
-- [desktop](https://github.com/desktop/desktop)
-  - Simple collaboration from your desktop
-- [docs](https://github.com/aws-amplify/docs)
-  - Amplify Framework Documentation
-- [amplify-js](https://github.com/aws-amplify/amplify-js)
-  - A declarative JavaScript library for application development using cloud services.
+- [solid](https://github.com/ryansolid/solid)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [ionic](https://github.com/ionic-team/ionic)
+  - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
+- [grafana](https://github.com/grafana/grafana)
+  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 - [amplify-cli](https://github.com/aws-amplify/amplify-cli)
   - A CLI toolchain for simplifying serverless web and mobile development.
-- [aws-cdk](https://github.com/aws/aws-cdk)
-  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
-- [typescript-exercises](https://github.com/mdevils/typescript-exercises)
-  - A collection of challenging TypeScript exercises
+- [amplify-js](https://github.com/aws-amplify/amplify-js)
+  - A declarative JavaScript library for application development using cloud services.
+- [renovate](https://github.com/renovatebot/renovate)
+  - Universal dependency update tool that fits into your workflows.
+- [ant-design](https://github.com/ant-design/ant-design)
+  - 🌈 A UI Design Language and React UI library
+- [terminus](https://github.com/Eugeny/terminus)
+  - A terminal for a more modern age
+- [react-navigation](https://github.com/react-navigation/react-navigation)
+  - Routing and navigation for your React Native apps
+- [react-native-fast-image](https://github.com/DylanVann/react-native-fast-image)
+  - 🚩 FastImage, performant React Native image component.
+- [docz](https://github.com/doczjs/docz)
+  - ✍ It has never been so easy to document your things!
+- [react-native-tab-view](https://github.com/react-native-community/react-native-tab-view)
+  - A cross-platform Tab View component for React Native
+- [polaris-react](https://github.com/Shopify/polaris-react)
+  - Shopify’s product component library
+- [primeng](https://github.com/primefaces/primeng)
+  - The Most Complete Angular UI Component Library
+- [vite](https://github.com/vitejs/vite)
+  - An opinionated web dev build tool. It's fast.
+- [jest](https://github.com/facebook/jest)
+  - Delightful JavaScript Testing.
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
+  - 📋 React hooks for forms validation without the hassle (Web + React Native)
+- [prism](https://github.com/stoplightio/prism)
+  - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
+- [PeerTube](https://github.com/Chocobozzz/PeerTube)
+  - ActivityPub-federated video streaming platform using P2P directly in your web browser
