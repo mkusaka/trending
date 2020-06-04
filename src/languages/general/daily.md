@@ -29,7 +29,7 @@
 - [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) : 
   - A list of resources for those interested in getting started in bug bounties
 - [modern-cpp-template](https://github.com/filipdutescu/modern-cpp-template) : CMake
-  - A template for modern C++ projects using CMake, clang-format and unit testing, with support for downstream inclusion
+  - A template for modern C++ projects using CMake, Clang-Format, CI, unit testing and more, with support for downstream inclusion.
 - [top10webseclist](https://github.com/irsdl/top10webseclist) : 
   - Top Ten Web Hacking Techniques List
 - [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) : 
