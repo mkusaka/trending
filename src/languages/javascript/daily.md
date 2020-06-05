@@ -1,51 +1,51 @@
 # javascript
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
-  - ✅ The Node.js best practices list (June 2020)
 - [SpaceX-API](https://github.com/r-spacex/SpaceX-API)
   - 🚀 Open Source REST API for rocket, core, capsule, pad, and launch data
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
   - The iconic SVG, font, and CSS toolkit
-- [BrasilAPI](https://github.com/filipedeschamps/BrasilAPI)
-  - Vamos transformar o Brasil em uma API?
-- [text-to-handwriting](https://github.com/saurabhdaware/text-to-handwriting)
-  - So your teacher asked you to upload written assignments on ERP? Hate writing assigments? This tool will help you convert your text to handwriting xD
-- [image-scrubber](https://github.com/everestpipkin/image-scrubber)
-  - A friendly browser-based tool for anonymizing photographs taken at protests
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs)
-  - Code documentation written as code! How novel and totally my idea!
-- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
-  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [react-router](https://github.com/ReactTraining/react-router)
-  - Declarative routing for React
-- [fe-interview](https://github.com/haizlin/fe-interview)
-  - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）
-- [helper-618](https://github.com/ZainCheung/helper-618)
-  - 🚀基于Autojs的淘宝/京东618自动刷任务项目，目前已支持京东叠蛋糕和淘宝列车。
-- [Base-React-App](https://github.com/panacloud/Base-React-App)
-  - 
+- [d3](https://github.com/d3/d3)
+  - Bring data to life with SVG, Canvas and HTML. 📊📈🎉
 - [Chart.js](https://github.com/chartjs/Chart.js)
   - Simple HTML5 Charts using the <canvas> tag
-- [sheetjs](https://github.com/SheetJS/sheetjs)
-  - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
-- [insomnia](https://github.com/Kong/insomnia)
-  - Leading Open Source API Client, and Collaborative API Design Platform for GraphQL, and REST
-- [ar-facedoodle](https://github.com/cyrildiagne/ar-facedoodle)
-  - Doodle AR masks right from the browser with tensorflow.js
+- [hngi7-task2](https://github.com/sixpathdev/hngi7-task2)
+  - 
+- [BrasilAPI](https://github.com/filipedeschamps/BrasilAPI)
+  - Vamos transformar o Brasil em uma API?
+- [react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+  - Cheatsheets for experienced React developers getting started with TypeScript
+- [markdown-here](https://github.com/adam-p/markdown-here)
+  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+- [HNG-Script](https://github.com/kadetXx/HNG-Script)
+  - 
+- [Leaflet](https://github.com/Leaflet/Leaflet)
+  - 🍃 JavaScript library for mobile-friendly interactive maps
+- [HNGi7_Titans_Task2](https://github.com/team-titians/HNGi7_Titans_Task2)
+  - 
+- [eslint](https://github.com/eslint/eslint)
+  - Find and fix problems in your JavaScript code.
+- [HNG-Task-2-Team-Falcon](https://github.com/anubabajide/HNG-Task-2-Team-Falcon)
+  - Team Falcon submission repository for the second task in HNG.
+- [team-superman-hngi7](https://github.com/DreyWesson/team-superman-hngi7)
+  - 
+- [emotion](https://github.com/emotion-js/emotion)
+  - 👩‍🎤 CSS-in-JS library designed for high performance style composition
+- [HNG_storm-task](https://github.com/Seymaster/HNG_storm-task)
+  - task answer
+- [mobx](https://github.com/mobxjs/mobx)
+  - Simple, scalable state management.
+- [docusaurus](https://github.com/facebook/docusaurus)
+  - Easy to maintain open source documentation websites.
+- [ccxt](https://github.com/ccxt/ccxt)
+  - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
+- [statsd](https://github.com/statsd/statsd)
+  - Daemon for easy but powerful stats aggregation
+- [next-auth](https://github.com/iaincollins/next-auth)
+  - An authentication library for Next.js projects
+- [odoo](https://github.com/odoo/odoo)
+  - Odoo. Open Source Apps To Grow Your Business.
+- [jsPDF](https://github.com/MrRio/jsPDF)
+  - Client-side JavaScript PDF generation for everyone.
 - [fullcalendar](https://github.com/fullcalendar/fullcalendar)
   - Full-sized drag & drop event calendar
-- [react-window](https://github.com/bvaughn/react-window)
-  - React components for efficiently rendering large lists and tabular data
-- [cypress](https://github.com/cypress-io/cypress)
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [vue](https://github.com/qq281113270/vue)
-  - vue源码逐行注释分析+40多m的vue源码程序流程图思维导图 （diff部分待后续更新）
-- [react-chartjs-2](https://github.com/jerairrest/react-chartjs-2)
-  - React wrapper for Chart.js
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
-  - 💯 Materials to help you rock your next coding interview
-- [cube.js](https://github.com/cube-js/cube.js)
-  - 📊 Cube.js - Open Source Analytics Framework
-- [redash](https://github.com/getredash/redash)
-  - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+- [helper-618](https://github.com/ZainCheung/helper-618)
+  - 🚀基于Autojs的淘宝/京东618自动刷任务项目，目前已支持京东叠蛋糕和淘宝列车。

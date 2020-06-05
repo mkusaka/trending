@@ -1,51 +1,51 @@
 # go
-- [jupiter](https://github.com/douyu/jupiter)
-  - Jupiter是douyu开源的面向服务治理的Golang微服务框架
-- [trojan-go](https://github.com/p4gefau1t/trojan-go)
-  - Go实现的Trojan代理，支持自动证书申请/多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
-- [v2ray-core](https://github.com/v2ray/v2ray-core)
-  - A platform for building proxies to bypass network restrictions.
-- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
-  - Terraform AWS provider
-- [rancher](https://github.com/rancher/rancher)
-  - Complete container management platform
-- [influxdb](https://github.com/influxdata/influxdb)
-  - Scalable datastore for metrics, events, and real-time analytics
-- [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics)
-  - VictoriaMetrics - fast, cost-effective and scalable time series database
-- [velero](https://github.com/vmware-tanzu/velero)
-  - Backup and migrate Kubernetes applications and their persistent volumes
-- [MailHog](https://github.com/mailhog/MailHog)
-  - Web and API based SMTP testing
-- [vault](https://github.com/hashicorp/vault)
-  - A tool for secrets management, encryption as a service, and privileged access management
-- [gin](https://github.com/gin-gonic/gin)
-  - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [concourse](https://github.com/concourse/concourse)
-  - Concourse is a container-based continuous thing-doer written in Go and Elm.
 - [logrus](https://github.com/sirupsen/logrus)
   - Structured, pluggable logging for Go.
-- [terragrunt](https://github.com/gruntwork-io/terragrunt)
-  - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
-- [charts](https://github.com/helm/charts)
-  - Curated applications for Kubernetes
-- [sqlboiler](https://github.com/volatiletech/sqlboiler)
-  - Generate a Go ORM tailored to your database schema.
+- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
+  - Terraform AWS provider
+- [telegraf](https://github.com/influxdata/telegraf)
+  - The plugin-driven server agent for collecting & reporting metrics.
+- [gh-ost](https://github.com/github/gh-ost)
+  - GitHub's Online Schema Migrations for MySQL
+- [statping](https://github.com/statping/statping)
+  - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
+- [terraform](https://github.com/hashicorp/terraform)
+  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [aws-sdk-go](https://github.com/aws/aws-sdk-go)
   - AWS SDK for the Go programming language.
-- [immudb](https://github.com/codenotary/immudb)
-  - immudb is a lightweight, high-speed immutable database for systems and applications
-- [go-git](https://github.com/go-git/go-git)
-  - A highly extensible Git implementation in pure Go.
-- [terraform-provider-kubernetes](https://github.com/terraform-providers/terraform-provider-kubernetes)
-  - Terraform Kubernetes provider
-- [redis](https://github.com/go-redis/redis)
-  - Type-safe Redis client for Golang
-- [errors](https://github.com/pkg/errors)
-  - Simple error handling primitives
-- [kubernetes](https://github.com/kubernetes/kubernetes)
-  - Production-Grade Container Scheduling and Management
-- [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
-  - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，更多功能正在开发中，欢迎issue和pr~
+- [dubbo-go](https://github.com/apache/dubbo-go)
+  - Go Implementation For Apache Dubbo
+- [ion](https://github.com/pion/ion)
+  - Distributed RTC System by pure Go and Flutter
+- [volcano](https://github.com/volcano-sh/volcano)
+  - A Kubernetes Native Batch System (Project under CNCF)
 - [grpc-go](https://github.com/grpc/grpc-go)
   - The Go language implementation of gRPC. HTTP/2 based RPC
+- [errors](https://github.com/pkg/errors)
+  - Simple error handling primitives
+- [migrate](https://github.com/golang-migrate/migrate)
+  - Database migrations. CLI and Golang library.
+- [gauge](https://github.com/getgauge/gauge)
+  - Light weight cross-platform test automation
+- [external-storage](https://github.com/kubernetes-incubator/external-storage)
+  - External storage plugins, provisioners, and helper libraries
+- [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN)
+  - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
+- [velero](https://github.com/vmware-tanzu/velero)
+  - Backup and migrate Kubernetes applications and their persistent volumes
+- [cortex](https://github.com/cortexproject/cortex)
+  - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
+- [aws-lambda-go](https://github.com/aws/aws-lambda-go)
+  - Libraries, samples and tools to help Go developers develop AWS Lambda functions.
+- [validator](https://github.com/go-playground/validator)
+  - 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+- [etcd](https://github.com/etcd-io/etcd)
+  - Distributed reliable key-value store for the most critical data of a distributed system
+- [redigo](https://github.com/gomodule/redigo)
+  - Go client for Redis
+- [nomad](https://github.com/hashicorp/nomad)
+  - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+- [coredns](https://github.com/coredns/coredns)
+  - CoreDNS is a DNS server that chains plugins
+- [loki](https://github.com/grafana/loki)
+  - Like Prometheus, but for logs.
