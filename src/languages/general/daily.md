@@ -1,50 +1,48 @@
 # general
-- [CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) : C++
-- [snakeware](https://github.com/joshiemoore/snakeware) : Python
-  - A free Linux distro with a fully Python userspace
+- [penrose](https://github.com/penrose/penrose) : Haskell
+  - Create beautiful diagrams just by typing mathematical notation in plain text.
+- [SpaceX-API](https://github.com/r-spacex/SpaceX-API) : JavaScript
+  - 🚀 Open Source REST API for rocket, core, capsule, pad, and launch data
+- [avatarify](https://github.com/alievk/avatarify) : Python
+  - Avatars for Zoom, Skype and other video-conferencing apps.
+- [jetbrains-agent](https://github.com/nickchou/jetbrains-agent) : 
+  - jetbrains agent
+- [DeepFaceLab](https://github.com/iperov/DeepFaceLab) : Python
+  - DeepFaceLab is the leading software for creating deepfakes.
+- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) : JavaScript
+  - The iconic SVG, font, and CSS toolkit
+- [MeiliSearch](https://github.com/meilisearch/MeiliSearch) : Rust
+  - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
+- [locust](https://github.com/locustio/locust) : Python
+  - Scalable user load testing tool written in Python
+- [acme](https://github.com/deepmind/acme) : Python
+  - A library of reinforcement learning components and agents
+- [MTBook](https://github.com/NiuTrans/MTBook) : TeX
+  - 《机器翻译：统计建模与深度学习方法》肖桐 朱靖波 著 - Machine Translation: Statistical Modeling and Deep Learning Methods
+- [shad0w](https://github.com/bats3c/shad0w) : C
+  - A post exploitation framework designed to operate covertly on heavily monitored enviroments
+- [nlw-starter](https://github.com/maykbrito/nlw-starter) : JavaScript
+- [d3](https://github.com/d3/d3) : JavaScript
+  - Bring data to life with SVG, Canvas and HTML. 📊📈🎉
+- [Chart.js](https://github.com/chartjs/Chart.js) : JavaScript
+  - Simple HTML5 Charts using the <canvas> tag
+- [altair](https://github.com/altair-viz/altair) : Python
+  - Declarative statistical visualization library for Python
+- [police-brutality](https://github.com/2020PB/police-brutality) : Python
+  - Repository containing evidence of police brutality during the 2020 George Floyd protests
+- [hngi7-task2](https://github.com/sixpathdev/hngi7-task2) : JavaScript
+- [fastbook](https://github.com/fastai/fastbook) : Jupyter Notebook
+  - Draft of the fastai book
 - [Pokedex](https://github.com/skydoves/Pokedex) : Kotlin
   - 🗡️ Android Pokedex using Dagger Hilt, Motion, Coroutines, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
 - [Police-Data-Accessibility-Project](https://github.com/Police-Data-Accessibility-Project/Police-Data-Accessibility-Project) : Python
-  - A repository for all code related to the Police Accountability Project
-- [substrate](https://github.com/paritytech/substrate) : Rust
-  - Substrate: The platform for blockchain innovators
-- [InternetArchitect](https://github.com/bjmashibing/InternetArchitect) : Java
-  - 年薪百万互联网架构师课程文档及源码(公开部分)
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) : JavaScript
-  - ✅ The Node.js best practices list (June 2020)
-- [jupiter](https://github.com/douyu/jupiter) : Go
-  - Jupiter是douyu开源的面向服务治理的Golang微服务框架
-- [streamlit](https://github.com/streamlit/streamlit) : TypeScript
-  - Streamlit — The fastest way to build custom ML tools
-- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) : C++
-  - C++那些事
-- [SpaceX-API](https://github.com/r-spacex/SpaceX-API) : JavaScript
-  - 🚀 Open Source REST API for rocket, core, capsule, pad, and launch data
-- [acme](https://github.com/deepmind/acme) : Python
-  - A library of reinforcement learning components and agents
-- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) : JavaScript
-  - The iconic SVG, font, and CSS toolkit
-- [Apollo-11](https://github.com/chrislgarry/Apollo-11) : Assembly
-  - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
-- [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) : 
-  - A list of resources for those interested in getting started in bug bounties
-- [modern-cpp-template](https://github.com/filipdutescu/modern-cpp-template) : CMake
-  - A template for modern C++ projects using CMake, Clang-Format, CI, unit testing and more, with support for downstream inclusion.
-- [top10webseclist](https://github.com/irsdl/top10webseclist) : 
-  - Top Ten Web Hacking Techniques List
-- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) : 
-  - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [weekly](https://github.com/dt-fe/weekly) : 
-  - 前端精读周刊
-- [swr](https://github.com/vercel/swr) : TypeScript
-  - React Hooks library for remote data fetching
+  - A repository for all code related to the Police Data Accessibility Project
 - [BrasilAPI](https://github.com/filipedeschamps/BrasilAPI) : JavaScript
   - Vamos transformar o Brasil em uma API?
-- [ZY-Player](https://github.com/Hunlongyu/ZY-Player) : Vue
-  - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
-- [realtime](https://github.com/supabase/realtime) : Elixir
-  - Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.
-- [mmdetection](https://github.com/open-mmlab/mmdetection) : Python
-  - Open MMLab Detection Toolbox and Benchmark
-- [django-rest-framework](https://github.com/encode/django-rest-framework) : Python
-  - Web APIs for Django. 🎸
+- [react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) : JavaScript
+  - Cheatsheets for experienced React developers getting started with TypeScript
+- [data-police-shootings](https://github.com/washingtonpost/data-police-shootings) : 
+  - The Washington Post is compiling a database of every fatal shooting in the United States by a police officer in the line of duty in 2015 and 2016.
+- [d2l-en](https://github.com/d2l-ai/d2l-en) : Python
+  - An interactive deep learning book with code, math, and discussions.
+- [CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) : C++
