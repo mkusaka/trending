@@ -1,51 +1,51 @@
 # javascript
 - [SpaceX-API](https://github.com/r-spacex/SpaceX-API)
   - 🚀 Open Source REST API for rocket, core, capsule, pad, and launch data
-- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
-  - The iconic SVG, font, and CSS toolkit
-- [d3](https://github.com/d3/d3)
-  - Bring data to life with SVG, Canvas and HTML. 📊📈🎉
-- [Chart.js](https://github.com/chartjs/Chart.js)
-  - Simple HTML5 Charts using the <canvas> tag
-- [hngi7-task2](https://github.com/sixpathdev/hngi7-task2)
-  - 
-- [BrasilAPI](https://github.com/filipedeschamps/BrasilAPI)
-  - Vamos transformar o Brasil em uma API?
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
 - [react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
   - Cheatsheets for experienced React developers getting started with TypeScript
-- [markdown-here](https://github.com/adam-p/markdown-here)
-  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
-- [HNG-Script](https://github.com/kadetXx/HNG-Script)
-  - 
-- [Leaflet](https://github.com/Leaflet/Leaflet)
-  - 🍃 JavaScript library for mobile-friendly interactive maps
-- [HNGi7_Titans_Task2](https://github.com/team-titians/HNGi7_Titans_Task2)
-  - 
-- [eslint](https://github.com/eslint/eslint)
-  - Find and fix problems in your JavaScript code.
-- [HNG-Task-2-Team-Falcon](https://github.com/anubabajide/HNG-Task-2-Team-Falcon)
+- [realworld](https://github.com/gothinkster/realworld)
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [HNG-Task-2-Team-Falcon](https://github.com/HNGi7-Team-Falcon/HNG-Task-2-Team-Falcon)
   - Team Falcon submission repository for the second task in HNG.
-- [team-superman-hngi7](https://github.com/DreyWesson/team-superman-hngi7)
+- [cloudmapper](https://github.com/duo-labs/cloudmapper)
+  - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
+- [BrasilAPI](https://github.com/filipedeschamps/BrasilAPI)
+  - Vamos transformar o Brasil em uma API?
+- [team-fury-1](https://github.com/hng-teamfury/team-fury-1)
   - 
-- [emotion](https://github.com/emotion-js/emotion)
-  - 👩‍🎤 CSS-in-JS library designed for high performance style composition
+- [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
+  - OpenZeppelin Contracts is a library for secure smart contract development.
+- [create-react-app](https://github.com/facebook/create-react-app)
+  - Set up a modern web app by running one command.
+- [next.js](https://github.com/vercel/next.js)
+  - The React Framework
+- [three.js](https://github.com/mrdoob/three.js)
+  - JavaScript 3D library.
+- [node](https://github.com/nodejs/node)
+  - Node.js JavaScript runtime ✨🐢🚀✨
+- [Chart.js](https://github.com/chartjs/Chart.js)
+  - Simple HTML5 Charts using the <canvas> tag
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
+  - Beautiful and accessible drag and drop for lists with React
 - [HNG_storm-task](https://github.com/Seymaster/HNG_storm-task)
   - task answer
-- [mobx](https://github.com/mobxjs/mobx)
-  - Simple, scalable state management.
-- [docusaurus](https://github.com/facebook/docusaurus)
-  - Easy to maintain open source documentation websites.
-- [ccxt](https://github.com/ccxt/ccxt)
-  - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
-- [statsd](https://github.com/statsd/statsd)
-  - Daemon for easy but powerful stats aggregation
-- [next-auth](https://github.com/iaincollins/next-auth)
-  - An authentication library for Next.js projects
-- [odoo](https://github.com/odoo/odoo)
-  - Odoo. Open Source Apps To Grow Your Business.
-- [jsPDF](https://github.com/MrRio/jsPDF)
-  - Client-side JavaScript PDF generation for everyone.
-- [fullcalendar](https://github.com/fullcalendar/fullcalendar)
-  - Full-sized drag & drop event calendar
-- [helper-618](https://github.com/ZainCheung/helper-618)
-  - 🚀基于Autojs的淘宝/京东618自动刷任务项目，目前已支持京东叠蛋糕和淘宝列车。
+- [vim-be-good](https://github.com/ThePrimeagen/vim-be-good)
+  - vim-be-good is a nvim plugin designed to make you better at Vim Movements.
+- [tui.editor](https://github.com/nhn/tui.editor)
+  - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
+- [wp-calypso](https://github.com/Automattic/wp-calypso)
+  - The JavaScript and API powered WordPress.com
+- [HNGi7-First-Task](https://github.com/team-granite/HNGi7-First-Task)
+  - Team Granite First Task
+- [markdown-here](https://github.com/adam-p/markdown-here)
+  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+- [awesome-ctf](https://github.com/apsdehal/awesome-ctf)
+  - A curated list of CTF frameworks, libraries, resources and softwares
+- [carbon](https://github.com/carbon-design-system/carbon)
+  - A design system built by IBM
+- [angular.js](https://github.com/angular/angular.js)
+  - AngularJS - HTML enhanced for web apps!
