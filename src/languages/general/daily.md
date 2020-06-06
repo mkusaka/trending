@@ -1,48 +1,50 @@
 # general
-- [penrose](https://github.com/penrose/penrose) : Haskell
-  - Create beautiful diagrams just by typing mathematical notation in plain text.
-- [SpaceX-API](https://github.com/r-spacex/SpaceX-API) : JavaScript
-  - 🚀 Open Source REST API for rocket, core, capsule, pad, and launch data
-- [avatarify](https://github.com/alievk/avatarify) : Python
-  - Avatars for Zoom, Skype and other video-conferencing apps.
-- [jetbrains-agent](https://github.com/nickchou/jetbrains-agent) : 
-  - jetbrains agent
+- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) : Dockerfile
+  - Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!
+- [CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) : C++
 - [DeepFaceLab](https://github.com/iperov/DeepFaceLab) : Python
   - DeepFaceLab is the leading software for creating deepfakes.
-- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) : JavaScript
-  - The iconic SVG, font, and CSS toolkit
-- [MeiliSearch](https://github.com/meilisearch/MeiliSearch) : Rust
-  - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
-- [locust](https://github.com/locustio/locust) : Python
-  - Scalable user load testing tool written in Python
-- [acme](https://github.com/deepmind/acme) : Python
-  - A library of reinforcement learning components and agents
-- [MTBook](https://github.com/NiuTrans/MTBook) : TeX
-  - 《机器翻译：统计建模与深度学习方法》肖桐 朱靖波 著 - Machine Translation: Statistical Modeling and Deep Learning Methods
-- [shad0w](https://github.com/bats3c/shad0w) : C
-  - A post exploitation framework designed to operate covertly on heavily monitored enviroments
-- [nlw-starter](https://github.com/maykbrito/nlw-starter) : JavaScript
-- [d3](https://github.com/d3/d3) : JavaScript
-  - Bring data to life with SVG, Canvas and HTML. 📊📈🎉
-- [Chart.js](https://github.com/chartjs/Chart.js) : JavaScript
-  - Simple HTML5 Charts using the <canvas> tag
-- [altair](https://github.com/altair-viz/altair) : Python
-  - Declarative statistical visualization library for Python
-- [police-brutality](https://github.com/2020PB/police-brutality) : Python
-  - Repository containing evidence of police brutality during the 2020 George Floyd protests
-- [hngi7-task2](https://github.com/sixpathdev/hngi7-task2) : JavaScript
-- [fastbook](https://github.com/fastai/fastbook) : Jupyter Notebook
-  - Draft of the fastai book
-- [Pokedex](https://github.com/skydoves/Pokedex) : Kotlin
-  - 🗡️ Android Pokedex using Dagger Hilt, Motion, Coroutines, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
-- [Police-Data-Accessibility-Project](https://github.com/Police-Data-Accessibility-Project/Police-Data-Accessibility-Project) : Python
-  - A repository for all code related to the Police Data Accessibility Project
-- [BrasilAPI](https://github.com/filipedeschamps/BrasilAPI) : JavaScript
-  - Vamos transformar o Brasil em uma API?
-- [react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) : JavaScript
-  - Cheatsheets for experienced React developers getting started with TypeScript
-- [data-police-shootings](https://github.com/washingtonpost/data-police-shootings) : 
-  - The Washington Post is compiling a database of every fatal shooting in the United States by a police officer in the line of duty in 2015 and 2016.
 - [d2l-en](https://github.com/d2l-ai/d2l-en) : Python
   - An interactive deep learning book with code, math, and discussions.
-- [CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) : C++
+- [say-their-names-ios](https://github.com/Say-Their-Name/say-their-names-ios) : Swift
+  - Say Their Name - iOS
+- [gui.cs](https://github.com/migueldeicaza/gui.cs) : C#
+  - Console-based user interface toolkit for .NET applications.
+- [SpaceX-API](https://github.com/r-spacex/SpaceX-API) : JavaScript
+  - 🚀 Open Source REST API for rocket, core, capsule, pad, and launch data
+- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) : PowerShell
+  - Azure Quickstart Templates
+- [penrose](https://github.com/penrose/penrose) : Haskell
+  - Create beautiful diagrams just by typing mathematical notation in plain text.
+- [react-native](https://github.com/facebook/react-native) : JavaScript
+  - A framework for building native apps with React.
+- [police-brutality](https://github.com/2020PB/police-brutality) : Go
+  - Repository containing evidence of police brutality during the 2020 George Floyd protests
+- [jetbrains-license-2020](https://github.com/imgVOID/jetbrains-license-2020) : VBScript
+  - JetBrains license servers 2020-2021 IntelliJ WebStorm PyCharm PhpStorm 05 May 2020 works; yo ho ho from Ukraine!
+- [free5gc](https://github.com/free5gc/free5gc) : Go
+  - Open source 5G core network base on 3GPP R15
+- [TinyInst](https://github.com/googleprojectzero/TinyInst) : C++
+  - A lightweight dynamic instrumentation library
+- [MeiliSearch](https://github.com/meilisearch/MeiliSearch) : Rust
+  - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
+- [OSX-KVM](https://github.com/kholia/OSX-KVM) : Shell
+  - Run macOS on QEMU/KVM. With OpenCore Now! No free support is provided. Open PR(s) to fix problems.
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
+  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
+- [python-small-examples](https://github.com/jackzhenguo/python-small-examples) : Python
+  - 告别枯燥，60 秒学会一个 Python 小例子
+- [fastbook](https://github.com/fastai/fastbook) : Jupyter Notebook
+  - Draft of the fastai book
+- [react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) : JavaScript
+  - Cheatsheets for experienced React developers getting started with TypeScript
+- [json](https://github.com/nlohmann/json) : C++
+  - JSON for Modern C++
+- [Practical-Ethical-Hacking-Resources](https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources) : Python
+  - Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course
+- [WebWhatsapp-Wrapper](https://github.com/mukulhase/WebWhatsapp-Wrapper) : Python
+  - An API for sending and receiving messages over web.whatsapp [Working as of 18th May 2018]
+- [avatarify](https://github.com/alievk/avatarify) : Python
+  - Avatars for Zoom, Skype and other video-conferencing apps.
+- [realworld](https://github.com/gothinkster/realworld) : JavaScript
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
