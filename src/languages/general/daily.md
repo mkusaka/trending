@@ -1,50 +1,49 @@
 # general
-- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) : Dockerfile
-  - Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!
-- [CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) : C++
-- [DeepFaceLab](https://github.com/iperov/DeepFaceLab) : Python
-  - DeepFaceLab is the leading software for creating deepfakes.
-- [d2l-en](https://github.com/d2l-ai/d2l-en) : Python
-  - An interactive deep learning book with code, math, and discussions.
+- [genetic-drawing](https://github.com/anopara/genetic-drawing) : Python
+  - A genetic algorithm toy project for drawing
+- [password-manager-resources](https://github.com/apple/password-manager-resources) : JavaScript
+  - A place for creators and users of password managers to collaborate on resources to make password management better.
+- [defund12.org](https://github.com/defund12/defund12.org) : JavaScript
+  - defund12.org
 - [say-their-names-ios](https://github.com/Say-Their-Name/say-their-names-ios) : Swift
   - Say Their Name - iOS
-- [gui.cs](https://github.com/migueldeicaza/gui.cs) : C#
-  - Console-based user interface toolkit for .NET applications.
-- [SpaceX-API](https://github.com/r-spacex/SpaceX-API) : JavaScript
-  - 🚀 Open Source REST API for rocket, core, capsule, pad, and launch data
-- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) : PowerShell
-  - Azure Quickstart Templates
-- [penrose](https://github.com/penrose/penrose) : Haskell
-  - Create beautiful diagrams just by typing mathematical notation in plain text.
-- [react-native](https://github.com/facebook/react-native) : JavaScript
-  - A framework for building native apps with React.
-- [police-brutality](https://github.com/2020PB/police-brutality) : Go
-  - Repository containing evidence of police brutality during the 2020 George Floyd protests
-- [jetbrains-license-2020](https://github.com/imgVOID/jetbrains-license-2020) : VBScript
-  - JetBrains license servers 2020-2021 IntelliJ WebStorm PyCharm PhpStorm 05 May 2020 works; yo ho ho from Ukraine!
-- [free5gc](https://github.com/free5gc/free5gc) : Go
-  - Open source 5G core network base on 3GPP R15
-- [TinyInst](https://github.com/googleprojectzero/TinyInst) : C++
-  - A lightweight dynamic instrumentation library
+- [CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) : C++
+- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) : Dockerfile
+  - Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!
+- [ide-eval-resetter](https://github.com/pengzhile/ide-eval-resetter) : Java
+  - Reset your IDE eval information.
 - [MeiliSearch](https://github.com/meilisearch/MeiliSearch) : Rust
   - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
-- [OSX-KVM](https://github.com/kholia/OSX-KVM) : Shell
-  - Run macOS on QEMU/KVM. With OpenCore Now! No free support is provided. Open PR(s) to fix problems.
+- [DeepFaceLab](https://github.com/iperov/DeepFaceLab) : Python
+  - DeepFaceLab is the leading software for creating deepfakes.
 - [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
   - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
-- [python-small-examples](https://github.com/jackzhenguo/python-small-examples) : Python
-  - 告别枯燥，60 秒学会一个 Python 小例子
-- [fastbook](https://github.com/fastai/fastbook) : Jupyter Notebook
-  - Draft of the fastai book
-- [react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) : JavaScript
-  - Cheatsheets for experienced React developers getting started with TypeScript
-- [json](https://github.com/nlohmann/json) : C++
-  - JSON for Modern C++
-- [Practical-Ethical-Hacking-Resources](https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources) : Python
-  - Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course
-- [WebWhatsapp-Wrapper](https://github.com/mukulhase/WebWhatsapp-Wrapper) : Python
-  - An API for sending and receiving messages over web.whatsapp [Working as of 18th May 2018]
+- [OSX-KVM](https://github.com/kholia/OSX-KVM) : Shell
+  - Run macOS on QEMU/KVM. With OpenCore Now! No free support is provided. Open PR(s) to fix problems.
+- [police-brutality](https://github.com/2020PB/police-brutality) : Go
+  - Repository containing evidence of police brutality during the 2020 George Floyd protests
+- [gridjs](https://github.com/grid-js/gridjs) : TypeScript
+  - Advanced table plugin
+- [Java](https://github.com/TheAlgorithms/Java) : Java
+  - All Algorithms implemented in Java
 - [avatarify](https://github.com/alievk/avatarify) : Python
   - Avatars for Zoom, Skype and other video-conferencing apps.
-- [realworld](https://github.com/gothinkster/realworld) : JavaScript
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) : C++
+  - All Algorithms implemented in C++
+- [jetbrains-license-2020](https://github.com/imgVOID/jetbrains-license-2020) : VBScript
+  - JetBrains license servers 2020-2021 IntelliJ WebStorm PyCharm PhpStorm 05 May 2020 works; yo ho ho from Ukraine!
+- [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) : Jupyter Notebook
+  - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
+- [Course-python-data-science](https://github.com/datapublishings/Course-python-data-science) : Jupyter Notebook
+- [penrose](https://github.com/penrose/penrose) : Haskell
+  - Create beautiful diagrams just by typing mathematical notation in plain text.
+- [jqview](https://github.com/fiatjaf/jqview) : Go
+  - simplest possible native GUI for inspecting JSON objects with jq
+- [Python](https://github.com/TheAlgorithms/Python) : Python
+  - All Algorithms implemented in Python
+- [nomad](https://github.com/hashicorp/nomad) : Go
+  - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+- [research](https://github.com/hudson-and-thames/research) : Jupyter Notebook
+  - Notebooks based on financial machine learning.
+- [d2l-en](https://github.com/d2l-ai/d2l-en) : Python
+  - An interactive deep learning book with code, math, and discussions.
