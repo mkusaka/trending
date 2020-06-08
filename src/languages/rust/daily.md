@@ -1,51 +1,51 @@
 # rust
-- [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
-  - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
 - [nushell](https://github.com/nushell/nushell)
   - A new type of shell
-- [iced](https://github.com/hecrj/iced)
-  - A cross-platform GUI library for Rust, inspired by Elm
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [diesel](https://github.com/diesel-rs/diesel)
-  - A safe, extensible ORM and Query Builder for Rust
-- [autopilot-deno](https://github.com/divy-work/autopilot-deno)
-  - Cross-platform desktop automation library for Deno.
-- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
-  - Rust bindings to wgpu native library
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
-- [sqlx](https://github.com/launchbadge/sqlx)
-  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+- [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
+  - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
 - [rustlings](https://github.com/rust-lang/rustlings)
   - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [juniper](https://github.com/graphql-rust/juniper)
-  - GraphQL server library for Rust
-- [zola](https://github.com/getzola/zola)
-  - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
-- [WASI](https://github.com/WebAssembly/WASI)
-  - WebAssembly System Interface
-- [fast_rsync](https://github.com/dropbox/fast_rsync)
-  - An optimized implementation of librsync in pure Rust.
-- [mdBook](https://github.com/rust-lang/mdBook)
-  - Create book from markdown files. Like Gitbook but implemented in Rust
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [tock](https://github.com/tock/tock)
-  - A secure embedded operating system for microcontrollers
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [tide](https://github.com/http-rs/tide)
-  - Fast and friendly HTTP server framework for async Rust
 - [learnrust](https://github.com/inancgumus/learnrust)
   - ❤️ I started learning Rust, if you wanna join me, welcome!
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
-  - Unofficial Bitwarden compatible server written in Rust
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [examples](https://github.com/actix/examples)
+  - Actix web examples
 - [librespot](https://github.com/librespot-org/librespot)
   - Open Source Spotify client library
-- [rayon](https://github.com/rayon-rs/rayon)
-  - Rayon: A data parallelism library for Rust
-- [Toshi](https://github.com/toshi-search/Toshi)
-  - A full-text search engine in rust
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix web is a small, pragmatic, and extremely fast rust web framework.
+- [rust-blog](https://github.com/pretzelhammer/rust-blog)
+  - Educational blog posts for Rust beginners
+- [sqlx](https://github.com/launchbadge/sqlx)
+  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+- [exa](https://github.com/ogham/exa)
+  - A modern version of ‘ls’.
+- [clap](https://github.com/clap-rs/clap)
+  - A full featured, fast Command Line Argument Parser for Rust
+- [Rocket](https://github.com/SergioBenitez/Rocket)
+  - A web framework for Rust.
+- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+  - 📚 Learn to write an embedded OS in Rust 🦀
+- [juniper](https://github.com/graphql-rust/juniper)
+  - GraphQL server library for Rust
+- [warp](https://github.com/seanmonstar/warp)
+  - A super-easy, composable, web server framework for warp speeds.
+- [fd](https://github.com/sharkdp/fd)
+  - A simple, fast and user-friendly alternative to 'find'
+- [wasm-pack](https://github.com/rustwasm/wasm-pack)
+  - 📦✨ your favorite rust -> wasm workflow tool!
+- [nom](https://github.com/Geal/nom)
+  - Rust parser combinator framework
+- [winrt-rs](https://github.com/microsoft/winrt-rs)
+  - Rust/WinRT is a Rust language projection for the Windows Runtime
+- [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim)
+  - Language Server Protocol (LSP) support for vim and neovim.
+- [zola](https://github.com/getzola/zola)
+  - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+- [spotifyd](https://github.com/Spotifyd/spotifyd)
+  - A spotify daemon

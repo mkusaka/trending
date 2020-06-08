@@ -1,51 +1,51 @@
 # javascript
+- [Zettlr](https://github.com/Zettlr/Zettlr)
+  - A Markdown Editor for the 21st century.
+- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
+  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+- [defund12.org](https://github.com/defund12/defund12.org)
+  - defund12.org
 - [password-manager-resources](https://github.com/apple/password-manager-resources)
   - A place for creators and users of password managers to collaborate on resources to make password management better.
-- [posthog](https://github.com/PostHog/posthog)
-  - 🦔 PostHog is developer-friendly, open-source product analytics.
-- [shapez.io](https://github.com/tobspr/shapez.io)
-  - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
-- [functions-samples](https://github.com/firebase/functions-samples)
-  - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase
-- [Javascript](https://github.com/TheAlgorithms/Javascript)
-  - A repository for All algorithms implemented in Javascript (for educational purposes only)
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-  - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
-- [react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
-  - Cheatsheets for experienced React developers getting started with TypeScript
-- [phaser](https://github.com/photonstorm/phaser)
-  - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-- [marktext](https://github.com/marktext/marktext)
-  - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor)
-  - nightscout web monitor
-- [discord-api-docs](https://github.com/discord/discord-api-docs)
-  - Official Discord API Documentation
-- [content](https://github.com/nuxt/content)
-  - Write in a content/ directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
-- [tui.editor](https://github.com/nhn/tui.editor)
-  - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
-- [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
-  - 强大的哔哩哔哩增强脚本: 下载视频, 音乐, 封面, 弹幕 / 简化直播间, 评论区, 首页 / 自定义顶栏, 删除广告, 夜间模式 / 触屏设备支持
-- [bartzalewski.com-v2](https://github.com/bartzalewski/bartzalewski.com-v2)
-  - My 2nd portfolio website
-- [covid19india-react](https://github.com/covid19india/covid19india-react)
-  - Tracking the impact of COVID-19 in India
-- [ms](https://github.com/vercel/ms)
-  - Tiny milisecond conversion utility
-- [number-precision](https://github.com/nefe/number-precision)
-  - 🚀1K tiny & fast lib for doing addition, subtraction, multiplication and division operations precisely
-- [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app)
-  - An exemplary real-world application built with Vue.js, Vuex, axios and different other technologies. This is a good example to discover Vue for beginners.
 - [brave-browser](https://github.com/brave/brave-browser)
   - Next generation Brave browser for macOS, Windows, Linux, Android.
-- [SpaceX-API](https://github.com/r-spacex/SpaceX-API)
-  - 🚀 Open Source REST API for rocket, core, capsule, pad, and launch data
-- [awesome-ctf](https://github.com/apsdehal/awesome-ctf)
-  - A curated list of CTF frameworks, libraries, resources and softwares
-- [p5.js](https://github.com/processing/p5.js)
-  - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
-  - Signal — Private Messenger for Windows, Mac, and Linux
+- [discord.js](https://github.com/discordjs/discord.js)
+  - A powerful JavaScript library for interacting with the Discord API
+- [Javascript](https://github.com/TheAlgorithms/Javascript)
+  - A repository for All algorithms implemented in Javascript (for educational purposes only)
+- [goindex-theme-acrou](https://github.com/Aicirou/goindex-theme-acrou)
+  - This is a goindex theme.一个goindex的扩展主题。
+- [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
+  - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
+- [uBlock](https://github.com/gorhill/uBlock)
+  - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+- [alpine](https://github.com/alpinejs/alpine)
+  - A rugged, minimal framework for composing JavaScript behavior in your markup.
+- [pose-animator](https://github.com/yemount/pose-animator)
+  - 
+- [v4](https://github.com/bchiang7/v4)
+  - Fourth iteration of my personal website
+- [jquery](https://github.com/jquery/jquery)
+  - jQuery JavaScript Library
+- [marktext](https://github.com/marktext/marktext)
+  - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+- [baseweb](https://github.com/uber/baseweb)
+  - A React Component library implementing the Base design language
+- [brackets](https://github.com/adobe/brackets)
+  - An open source code editor for the web, written in JavaScript, HTML and CSS.
+- [react-leaflet](https://github.com/PaulLeCam/react-leaflet)
+  - ⚛️ React components for 🍃 Leaflet maps
+- [nuxt.js](https://github.com/nuxt/nuxt.js)
+  - The Intuitive Vue Framework
+- [joplin](https://github.com/laurent22/joplin)
+  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [gatsby](https://github.com/gatsbyjs/gatsby)
+  - Build blazing fast, modern apps and websites with React
+- [cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor)
+  - nightscout web monitor
+- [TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5)
+  - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
+- [vue](https://github.com/qq281113270/vue)
+  - vue源码逐行注释分析+40多m的vue源码程序流程图思维导图 （diff部分待后续更新）

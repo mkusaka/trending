@@ -1,51 +1,51 @@
 # ruby
-- [jekyll](https://github.com/jekyll/jekyll)
-  - 🌐 Jekyll is a blog-aware static site generator in Ruby
-- [mastodon](https://github.com/tootsuite/mastodon)
-  - Your self-hosted, globally interconnected microblogging community
-- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
-  - Metasploit Framework
-- [liquid](https://github.com/Shopify/liquid)
-  - Liquid markup language. Safe, customer facing template language for flexible web apps.
-- [rswag](https://github.com/rswag/rswag)
-  - Seamlessly adds a Swagger to Rails-based API's
-- [explore](https://github.com/github/explore)
-  - Community-curated topic and collection pages on GitHub
-- [gitlabhq](https://github.com/gitlabhq/gitlabhq)
-  - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
-- [choosealicense.com](https://github.com/github/choosealicense.com)
-  - A site to provide non-judgmental guidance on choosing a license for your open source project
-- [faker](https://github.com/faker-ruby/faker)
-  - A library for generating fake data such as names, addresses, and phone numbers.
-- [ruby](https://github.com/ruby/ruby)
-  - The Ruby Programming Language [mirror]
-- [redmine](https://github.com/redmine/redmine)
-  - Mirror of redmine code source - Official SVN repository is at https://svn.redmine.org/redmine - contact: @jbbarth or jeanbaptiste.barth (at) gmail (dot) com
-- [tmuxinator](https://github.com/tmuxinator/tmuxinator)
-  - Manage complex tmux sessions easily
-- [scalelite](https://github.com/blindsidenetworks/scalelite)
-  - Scalable load balancer for BigBlueButton.
-- [truffleruby](https://github.com/oracle/truffleruby)
-  - A high performance implementation of the Ruby programming language. Built on the GraalVM by Oracle Labs.
-- [webpacker](https://github.com/rails/webpacker)
-  - Use Webpack to manage app-like JavaScript modules in Rails
 - [rubocop](https://github.com/rubocop-hq/rubocop)
   - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [chatwoot](https://github.com/chatwoot/chatwoot)
-  - Open-source live chat software 🔥💬
-- [devdocs](https://github.com/freeCodeCamp/devdocs)
-  - API Documentation Browser
-- [jruby](https://github.com/jruby/jruby)
-  - JRuby, an implementation of Ruby on the JVM
-- [sonic-pi](https://github.com/samaaron/sonic-pi)
-  - Code. Music. Live.
+- [jekyll](https://github.com/jekyll/jekyll)
+  - 🌐 Jekyll is a blog-aware static site generator in Ruby
+- [solidus](https://github.com/solidusio/solidus)
+  - 🛒Solidus, Rails eCommerce System
+- [spree](https://github.com/spree/spree)
+  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
+- [ruby](https://github.com/ruby/ruby)
+  - The Ruby Programming Language [mirror]
+- [bailfunds.github.io](https://github.com/bailfunds/bailfunds.github.io)
+  - A collection of community resources for protestors around the country.
+- [sha256-animation](https://github.com/in3rsha/sha256-animation)
+  - Animation of the SHA-256 hash function in your terminal.
+- [faker](https://github.com/faker-ruby/faker)
+  - A library for generating fake data such as names, addresses, and phone numbers.
+- [dev.to](https://github.com/thepracticaldev/dev.to)
+  - Where programmers share ideas and help each other grow
+- [canvas-lms](https://github.com/instructure/canvas-lms)
+  - The open LMS by Instructure, Inc.
+- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+  - A curated list of awesome awesomeness
 - [activeadmin](https://github.com/activeadmin/activeadmin)
   - The administration framework for Ruby on Rails applications.
-- [pry](https://github.com/pry/pry)
-  - A runtime developer console and IRB alternative with powerful introspection capabilities.
-- [discourse](https://github.com/discourse/discourse)
-  - A platform for community discussion. Free, open, simple.
+- [mastodon](https://github.com/tootsuite/mastodon)
+  - Your self-hosted, globally interconnected microblogging community
+- [spree_i18n](https://github.com/spree-contrib/spree_i18n)
+  - I18n translation files for Spree Commerce.
+- [logstash](https://github.com/elastic/logstash)
+  - Logstash - transport and process your logs, events, or other data
+- [theodinproject](https://github.com/TheOdinProject/theodinproject)
+  - Main Website for The Odin Project
 - [fusuma](https://github.com/iberianpig/fusuma)
   - Multitouch gestures with libinput driver on Linux
-- [rack](https://github.com/rack/rack)
-  - A modular Ruby web server interface.
+- [puppet](https://github.com/puppetlabs/puppet)
+  - Server automation framework and application
+- [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
+  - A curated list of engineering blogs
+- [factory_bot](https://github.com/thoughtbot/factory_bot)
+  - A library for setting up Ruby objects as test data.
+- [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening)
+  - This Ansible role provides numerous security-related configurations, providing all-round base protection.
+- [sonic-pi](https://github.com/samaaron/sonic-pi)
+  - Code. Music. Live.
+- [WhatWeb](https://github.com/urbanadventurer/WhatWeb)
+  - Next generation web scanner
+- [homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
+  - 🖋 Casks of Ｆ🅾𝓝𝐓𝚂
+- [quine-relay](https://github.com/mame/quine-relay)
+  - An uroboros program with 100+ programming languages

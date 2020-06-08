@@ -1,49 +1,50 @@
 # general
-- [genetic-drawing](https://github.com/anopara/genetic-drawing) : Python
-  - A genetic algorithm toy project for drawing
-- [password-manager-resources](https://github.com/apple/password-manager-resources) : JavaScript
-  - A place for creators and users of password managers to collaborate on resources to make password management better.
-- [defund12.org](https://github.com/defund12/defund12.org) : JavaScript
-  - defund12.org
-- [say-their-names-ios](https://github.com/Say-Their-Name/say-their-names-ios) : Swift
-  - Say Their Name - iOS
+- [printf-tac-toe](https://github.com/carlini/printf-tac-toe) : C
+  - tic-tac-toe in a single call to printf
 - [CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) : C++
-- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) : Dockerfile
-  - Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!
-- [ide-eval-resetter](https://github.com/pengzhile/ide-eval-resetter) : Java
-  - Reset your IDE eval information.
-- [MeiliSearch](https://github.com/meilisearch/MeiliSearch) : Rust
-  - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
-- [DeepFaceLab](https://github.com/iperov/DeepFaceLab) : Python
-  - DeepFaceLab is the leading software for creating deepfakes.
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
-  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
-- [OSX-KVM](https://github.com/kholia/OSX-KVM) : Shell
-  - Run macOS on QEMU/KVM. With OpenCore Now! No free support is provided. Open PR(s) to fix problems.
-- [police-brutality](https://github.com/2020PB/police-brutality) : Go
-  - Repository containing evidence of police brutality during the 2020 George Floyd protests
-- [gridjs](https://github.com/grid-js/gridjs) : TypeScript
-  - Advanced table plugin
-- [Java](https://github.com/TheAlgorithms/Java) : Java
-  - All Algorithms implemented in Java
-- [avatarify](https://github.com/alievk/avatarify) : Python
-  - Avatars for Zoom, Skype and other video-conferencing apps.
-- [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) : C++
-  - All Algorithms implemented in C++
 - [jetbrains-license-2020](https://github.com/imgVOID/jetbrains-license-2020) : VBScript
   - JetBrains license servers 2020-2021 IntelliJ WebStorm PyCharm PhpStorm 05 May 2020 works; yo ho ho from Ukraine!
-- [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) : Jupyter Notebook
-  - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
-- [Course-python-data-science](https://github.com/datapublishings/Course-python-data-science) : Jupyter Notebook
-- [penrose](https://github.com/penrose/penrose) : Haskell
-  - Create beautiful diagrams just by typing mathematical notation in plain text.
-- [jqview](https://github.com/fiatjaf/jqview) : Go
-  - simplest possible native GUI for inspecting JSON objects with jq
+- [Java](https://github.com/TheAlgorithms/Java) : Java
+  - All Algorithms implemented in Java
+- [genetic-drawing](https://github.com/anopara/genetic-drawing) : Python
+  - A genetic algorithm toy project for drawing
 - [Python](https://github.com/TheAlgorithms/Python) : Python
   - All Algorithms implemented in Python
-- [nomad](https://github.com/hashicorp/nomad) : Go
-  - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [research](https://github.com/hudson-and-thames/research) : Jupyter Notebook
-  - Notebooks based on financial machine learning.
-- [d2l-en](https://github.com/d2l-ai/d2l-en) : Python
-  - An interactive deep learning book with code, math, and discussions.
+- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) : Dockerfile
+  - Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!
+- [faceswap](https://github.com/deepfakes/faceswap) : Python
+  - Deepfakes Software For All
+- [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) : Jupyter Notebook
+  - Python Data Science Handbook: full text in Jupyter Notebooks
+- [ide-eval-resetter](https://github.com/pengzhile/ide-eval-resetter) : Java
+  - Reset your IDE eval information.
+- [OpenRA](https://github.com/OpenRA/OpenRA) : C#
+  - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
+- [threadx](https://github.com/azure-rtos/threadx) : C
+  - Azure RTOS ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
+- [Python](https://github.com/geekcomputers/Python) : Python
+  - My Python Examples
+- [Zettlr](https://github.com/Zettlr/Zettlr) : JavaScript
+  - A Markdown Editor for the 21st century.
+- [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) : 
+  - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
+- [lihang-code](https://github.com/fengdu78/lihang-code) : Jupyter Notebook
+  - 《统计学习方法》的代码实现
+- [SpringBootVulExploit](https://github.com/LandGrey/SpringBootVulExploit) : Java
+  - SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 checklist
+- [learn-security-engineering](https://github.com/veeral-patel/learn-security-engineering) : 
+  - How I'm learning to build secure systems
+- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) : JavaScript
+  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+- [UnityURPToonLitShaderExample](https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample) : HLSL
+  - A very simple toon lit shader example, for you to learn writing custom lit shader in Unity URP
+- [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) : Jupyter Notebook
+  - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
+- [handson-ml2](https://github.com/ageron/handson-ml2) : Jupyter Notebook
+  - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
+  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
+- [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) : C++
+  - All Algorithms implemented in C++
+- [nushell](https://github.com/nushell/nushell) : Rust
+  - A new type of shell
