@@ -1,51 +1,51 @@
 # typescript
-- [storybook](https://github.com/storybookjs/storybook)
-  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
-- [mobile](https://github.com/CovidShield/mobile)
-  - React Native client application for COVID Shield on iOS and Android
-- [excalidraw](https://github.com/excalidraw/excalidraw)
-  - Virtual whiteboard for sketching hand-drawn like diagrams
-- [nest](https://github.com/nestjs/nest)
-  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-- [coc.nvim](https://github.com/neoclide/coc.nvim)
-  - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
-- [covid19_scenarios](https://github.com/neherlab/covid19_scenarios)
-  - Models of COVID-19 outbreak trajectories and hospital demand
-- [oak](https://github.com/oakserver/oak)
-  - A middleware framework for Deno's net server 🦕
-- [desktop](https://github.com/bitwarden/desktop)
-  - The desktop vault (Windows, macOS, & Linux).
-- [SIP.js](https://github.com/onsip/SIP.js)
-  - A simple, intuitive, and powerful JavaScript signaling library
-- [react-native-webview](https://github.com/react-native-community/react-native-webview)
-  - React Native Cross-Platform WebView
-- [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native)
-  - ⚛️📺 Projects from the “Can it be done in React Native?” YouTube series
-- [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
-  - ✨ Monorepo for all the tooling which enables ESLint to support TypeScript
-- [vuetify](https://github.com/vuetifyjs/vuetify)
-  - 🐉 Material Component Framework for Vue
-- [G2Plot](https://github.com/antvis/G2Plot)
-  - 🍡 An interactive and responsive charting library
-- [angular-realworld-example-app](https://github.com/gothinkster/angular-realworld-example-app)
-  - Exemplary real world application built with Angular
+- [swr](https://github.com/vercel/swr)
+  - React Hooks library for remote data fetching
+- [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper)
+  - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
+- [webiny-js](https://github.com/webiny/webiny-js)
+  - Platform for building serverless applications and API (Node.js, React, GraphQL)
+- [vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github)
+  - GitHub Pull Requests for Visual Studio Code
+- [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
+  - Foreign language reading and translation assistant based on copy and translate.
+- [streamlit](https://github.com/streamlit/streamlit)
+  - Streamlit — The fastest way to build custom ML tools
+- [ant-design](https://github.com/ant-design/ant-design)
+  - 🌈 A UI Design Language and React UI library
 - [angular](https://github.com/angular/angular)
   - One framework. Mobile & desktop.
+- [angular-cli](https://github.com/angular/angular-cli)
+  - CLI tool for Angular
+- [ionic](https://github.com/ionic-team/ionic)
+  - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
+- [rough-notation](https://github.com/pshihn/rough-notation)
+  - Create and animate hand-drawn annotations on a web page
+- [nest](https://github.com/nestjs/nest)
+  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [terminus](https://github.com/Eugeny/terminus)
+  - A terminal for a more modern age
+- [solid](https://github.com/ryansolid/solid)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [ngx-admin](https://github.com/akveo/ngx-admin)
+  - Customizable admin dashboard template based on Angular 9+
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
   - The repository for high quality TypeScript type definitions.
-- [wechaty](https://github.com/wechaty/wechaty)
-  - Conversational RPA SDK for WeChat Individual Account, Powered by TypeScript, Docker, and 💖
-- [prisma](https://github.com/prisma/prisma)
-  - Modern DB toolkit to query, migrate and model your database
-- [checkout](https://github.com/actions/checkout)
-  - Action for checking out a repo
-- [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper)
-  - 🏆 Swiper component for @vuejs
-- [html2canvas](https://github.com/niklasvh/html2canvas)
-  - Screenshots with JavaScript
-- [jest](https://github.com/facebook/jest)
-  - Delightful JavaScript Testing.
-- [BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
-  - Dialog creation and management for Microsoft Bot Framework Applications
-- [deno_website2](https://github.com/denoland/deno_website2)
-  - deno.land website
+- [amazon-chime-sdk-js](https://github.com/aws/amazon-chime-sdk-js)
+  - A JavaScript client library for integrating multi-party communications powered by the Amazon Chime service.
+- [primeng](https://github.com/primefaces/primeng)
+  - The Most Complete Angular UI Component Library
+- [awesomo](https://github.com/lk-geimfari/awesomo)
+  - An extensive list of cool open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
+- [amplify-cli](https://github.com/aws-amplify/amplify-cli)
+  - A CLI toolchain for simplifying serverless web and mobile development.
+- [wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+  - 💬 🤖 The most advanced NodeJS whatsapp library for chatbots with advanced features. Be sure to 🌟 this repository for updates!
+- [react-three-fiber](https://github.com/react-spring/react-three-fiber)
+  - 🇨🇭A react reconciler for threejs (web and react-native)
+- [kibana](https://github.com/elastic/kibana)
+  - Your window into the Elastic Stack
+- [firebase-tools](https://github.com/firebase/firebase-tools)
+  - The Firebase Command Line Tools
+- [auth-module](https://github.com/nuxt-community/auth-module)
+  - 🔑 Zero-boilerplate authentication support for Nuxt

@@ -1,51 +1,51 @@
 # general
-- [popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) : JavaScript
-  - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player. Desktop ( Windows / Mac / Linux ) a Butter-Project Fork
-- [responsively-app](https://github.com/manojVivek/responsively-app) : JavaScript
-  - A modified browser that helps in responsive web development.
-- [Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) : Java
-  - 是 难得一见 的 Jetpack MVVM 最佳实践！在 蕴繁于简 的代码中，对 视图控制器 乃至 标准化开发模式 形成正确、深入的理解！
-- [go-interview](https://github.com/shomali11/go-interview) : Go
-  - Collection of Technical Interview Questions solved with Go
 - [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) : C++
   - C++那些事
-- [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) : Shell
-  - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
-- [olivia](https://github.com/olivia-ai/olivia) : Go
-  - 💁‍♀️Your new best friend powered by an artificial neural network
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [immuni-documentation](https://github.com/immuni-app/immuni-documentation) : 
-  - Repo for Immuni's documentation.
+- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) : Kotlin
+  - Native Android app using the Apple/Google exposure notification API.
+- [cwa-app-ios](https://github.com/corona-warn-app/cwa-app-ios) : Swift
+  - Native iOS app using the exposure notification framework from Apple.
+- [practical-python](https://github.com/dabeaz-course/practical-python) : Python
+  - Practical Python Programming (course by @dabeaz)
+- [flutter_hrlweibo](https://github.com/huangruiLearn/flutter_hrlweibo) : Dart
+  - Flutter仿微博客户端, 包含首页、视频、发现、消息(仿微博聊界面)及个人中心模块
+- [detr](https://github.com/facebookresearch/detr) : Python
+  - End-to-End Object Detection with Transformers
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) : JavaScript
+  - ✅ The Node.js best practices list (June 2020)
+- [taichi](https://github.com/taichi-dev/taichi) : C++
+  - Productive & portable programming language for high-performance, sparse & differentiable computing
+- [OSX-KVM](https://github.com/kholia/OSX-KVM) : Shell
+  - Run macOS on QEMU/KVM. With OpenCore Now! No free support is provided. Open PR(s) to fix problems.
+- [substrate](https://github.com/paritytech/substrate) : Rust
+  - Substrate: The platform for blockchain innovators
+- [DeepFaceLab](https://github.com/iperov/DeepFaceLab) : Python
+  - DeepFaceLab is the leading software for creating deepfakes.
+- [textshot](https://github.com/ianzhao05/textshot) : Python
+  - Python tool for grabbing text via screenshot
+- [avatarify](https://github.com/alievk/avatarify) : Python
+  - Avatars for Zoom, Skype and other video-conferencing apps.
+- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) : JavaScript
+  - The iconic SVG, font, and CSS toolkit
+- [Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) : Jupyter Notebook
+  - 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
 - [k9s](https://github.com/derailed/k9s) : Go
   - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [v2ray-core](https://github.com/v2ray/v2ray-core) : Go
-  - A platform for building proxies to bypass network restrictions.
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
-  - 🤓 Build your own (insert technology here)
-- [realworld](https://github.com/gothinkster/realworld) : JavaScript
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [TDengine](https://github.com/taosdata/TDengine) : C
-  - An open-source big data platform designed and optimized for the Internet of Things (IoT).
-- [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) : Python
-  - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
-- [openvino](https://github.com/openvinotoolkit/openvino) : C++
-  - OpenVINO™ Toolkit - Deep Learning Deployment Toolkit repository
-- [Auto.js](https://github.com/hyb1996/Auto.js) : Java
-  - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
-- [firmware](https://github.com/raspberrypi/firmware) : C
-  - This repository contains pre-compiled binaries of the current Raspberry Pi kernel and modules, userspace libraries, and bootloader/GPU firmware.
-- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) : 
-  - A book series on JavaScript. @YDKJS on twitter.
-- [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) : JavaScript
-  - A professional front-end template for building fast, robust, and adaptable web apps or sites.
-- [storybook](https://github.com/storybookjs/storybook) : TypeScript
-  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
-- [Idris2](https://github.com/idris-lang/Idris2) : Idris
-  - A purely functional programming language with first class types
-- [mastodon](https://github.com/tootsuite/mastodon) : Ruby
-  - Your self-hosted, globally interconnected microblogging community
-- [Undecimus](https://github.com/pwn20wndstuff/Undecimus) : C
-  - unc0ver jailbreak for iOS 11.0 - 12.4
-- [public-apis](https://github.com/public-apis/public-apis) : Python
-  - A collective list of free APIs for use in software and web development.
+- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) : Vue
+  - vue-admin-beautiful是一款绝佳的前端开发框架（基于vue/cli 4 最新版，同时支持电脑，手机，平板）,长期更新维护,感谢您的star,我一直在努力 Vue admin beautiful is an excellent front-end development framework (supporting computers, mobile phones and tablets at the same time), long-term update and maintenance, thank you for your star, I have been working hard
+- [fastjson](https://github.com/alibaba/fastjson) : Java
+  - A fast JSON parser/generator for Java.
+- [django-rest-framework](https://github.com/encode/django-rest-framework) : Python
+  - Web APIs for Django. 🎸
+- [OpenRA](https://github.com/OpenRA/OpenRA) : C#
+  - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
+- [jetbrains-reset-trial-evaluation-mac](https://github.com/alexatiks/jetbrains-reset-trial-evaluation-mac) : Shell
+  - Reset Intellij IDEA, WebStorm, DataGrip, PhpStorm, CLion, PyCharm, RubyMine, GoLand and Rider evaluation (2019 / 2020 / Mac OS)
+- [d2l-en](https://github.com/d2l-ai/d2l-en) : Python
+  - An interactive deep learning book with code, math, and discussions.
+- [swr](https://github.com/vercel/swr) : TypeScript
+  - React Hooks library for remote data fetching
+- [go-interview](https://github.com/shomali11/go-interview) : Go
+  - Collection of Technical Interview Questions solved with Go
+- [MeiliSearch](https://github.com/meilisearch/MeiliSearch) : Rust
+  - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
