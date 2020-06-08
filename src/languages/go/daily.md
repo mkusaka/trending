@@ -1,51 +1,51 @@
 # go
-- [police-brutality](https://github.com/2020PB/police-brutality)
-  - Repository containing evidence of police brutality during the 2020 George Floyd protests
-- [jqview](https://github.com/fiatjaf/jqview)
-  - simplest possible native GUI for inspecting JSON objects with jq
+- [go-ast-book](https://github.com/chai2010/go-ast-book)
+  - 📚 《Go语法树入门》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/LLVM/LLIR/凹语言)
 - [nomad](https://github.com/hashicorp/nomad)
   - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [free5gc](https://github.com/free5gc/free5gc)
-  - Open source 5G core network base on 3GPP R15
-- [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga)
-  - Advanced information gathering & OSINT framework for phone numbers
 - [Go](https://github.com/TheAlgorithms/Go)
   - Algorithms Implemented in GoLang
-- [fyne](https://github.com/fyne-io/fyne)
-  - Cross platform GUI in Go based on Material Design
-- [clash](https://github.com/Dreamacro/clash)
-  - A rule-based tunnel in Go.
-- [exposure-notifications-server](https://github.com/google/exposure-notifications-server)
-  - Exposure Notification Reference Server | Covid-19 Exposure Notifications
-- [tinygo](https://github.com/tinygo-org/tinygo)
-  - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
-- [ServerScan](https://github.com/Adminisme/ServerScan)
-  - ServerScan一款使用Golang开发的高并发网络扫描、服务探测工具。
-- [prysm](https://github.com/prysmaticlabs/prysm)
-  - Go implementation of the Ethereum 2.0 blockchain
 - [annie](https://github.com/iawia002/annie)
   - 👾 Fast, simple and clean video downloader
-- [prometheus-operator](https://github.com/coreos/prometheus-operator)
-  - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [rclone](https://github.com/rclone/rclone)
-  - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+- [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga)
+  - Advanced information gathering & OSINT framework for phone numbers
+- [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
+  - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，更多功能正在开发中，欢迎issue和pr~
 - [draft](https://github.com/lucasepe/draft)
   - Generate High Level Microservice Architecture diagrams for GraphViz using simple YAML syntax.
-- [deej](https://github.com/omriharel/deej)
-  - Arduino & Go project for setting app volumes with physical sliders
-- [gron](https://github.com/tomnomnom/gron)
-  - Make JSON greppable!
-- [gojq](https://github.com/itchyny/gojq)
-  - Pure Go implementation of jq
-- [heimdall](https://github.com/gojek/heimdall)
-  - An enhanced HTTP client for Go
-- [opa](https://github.com/open-policy-agent/opa)
-  - An open source, general-purpose policy engine.
-- [go-ast-book](https://github.com/chai2010/go-ast-book)
-  - 📚 《Go语法树入门》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/LLVM/LLIR)
-- [statping](https://github.com/statping/statping)
-  - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
-- [syncthing](https://github.com/syncthing/syncthing)
-  - Open Source Continuous File Synchronization
-- [ngrok](https://github.com/inconshreveable/ngrok)
-  - Introspected tunnels to localhost
+- [jwt-go](https://github.com/dgrijalva/jwt-go)
+  - Golang implementation of JSON Web Tokens (JWT)
+- [Amass](https://github.com/OWASP/Amass)
+  - In-depth Attack Surface Mapping and Asset Discovery
+- [fyne](https://github.com/fyne-io/fyne)
+  - Cross platform GUI in Go based on Material Design
+- [goplus](https://github.com/qiniu/goplus)
+  - GoPlus - The Go+ language for data science
+- [GolangTraining](https://github.com/GoesToEleven/GolangTraining)
+  - Training for Golang (go language)
+- [client](https://github.com/keybase/client)
+  - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
+- [BaiduPCS-Go](https://github.com/felixonmars/BaiduPCS-Go)
+  - Re-upload of iikira/BaiduPCS-Go
+- [tinygo](https://github.com/tinygo-org/tinygo)
+  - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
+- [gobuster](https://github.com/OJ/gobuster)
+  - Directory/File, DNS and VHost busting tool written in Go
+- [water-reminder](https://github.com/0xfederama/water-reminder)
+  - Simple notifications app that reminds you to drink
+- [ebiten](https://github.com/hajimehoshi/ebiten)
+  - A dead simple 2D game library for Go
+- [chat](https://github.com/tinode/chat)
+  - Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots
+- [dns](https://github.com/miekg/dns)
+  - DNS library in Go
+- [cli](https://github.com/cli/cli)
+  - GitHub’s official command line tool
+- [prysm](https://github.com/prysmaticlabs/prysm)
+  - Go implementation of the Ethereum 2.0 blockchain
+- [clash](https://github.com/Dreamacro/clash)
+  - A rule-based tunnel in Go.
+- [go-ethereum](https://github.com/ethereum/go-ethereum)
+  - Official Go implementation of the Ethereum protocol
+- [fzf](https://github.com/junegunn/fzf)
+  - 🌸 A command-line fuzzy finder

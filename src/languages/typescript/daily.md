@@ -1,51 +1,51 @@
 # typescript
-- [gridjs](https://github.com/grid-js/gridjs)
-  - Advanced table plugin
-- [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper)
-  - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
-- [NLW-1.0](https://github.com/DanielObara/NLW-1.0)
-  - Next Level Week 1.0 - NLW Projeto: Ecoleta Ministrado pela Rocketseat 🚀
 - [webiny-js](https://github.com/webiny/webiny-js)
   - Platform for building serverless applications and API (Node.js, React, GraphQL)
-- [language-tools](https://github.com/sveltejs/language-tools)
-  - The Svelte Language Server, and official extensions which use it
-- [prisma-examples](https://github.com/prisma/prisma-examples)
-  - 🚀 Ready-to-run Prisma example projects
-- [lightproxy](https://github.com/alibaba/lightproxy)
-  - 💎 Cross platform Web debugging proxy
-- [type-graphql](https://github.com/MichalLytek/type-graphql)
-  - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
-- [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
-  - A Foundation for Scalable Cross-Platform Apps
-- [react-navigation](https://github.com/react-navigation/react-navigation)
-  - Routing and navigation for your React Native apps
-- [vscode-cpptools](https://github.com/microsoft/vscode-cpptools)
-  - Official repository for the Microsoft C/C++ extension for VS Code.
-- [amplify-js](https://github.com/aws-amplify/amplify-js)
-  - A declarative JavaScript library for application development using cloud services.
+- [gridjs](https://github.com/grid-js/gridjs)
+  - Advanced table plugin
+- [angularfire](https://github.com/angular/angularfire)
+  - The official Angular library for Firebase.
+- [ecoleta](https://github.com/x0n4d0/ecoleta)
+  - ♻️ Ecoleta é um projeto Open Source desenvolvido na Next Level Week (1.0) da Rocketseat utilizando TypeScript, Node, React e React Native. Com objetivo de criar uma conexão entre empresas e/ou entidades que coletam resíduos (orgânicos e inorgânicos) às pessoas/empresas que necessitam descartar esses resíduos.
 - [msw](https://github.com/mswjs/msw)
   - Seamless REST/GraphQL API mocking library for browser and Node.
-- [wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-  - 💬 🤖 The most advanced NodeJS whatsapp library for chatbots with advanced features. Be sure to 🌟 this repository for updates!
-- [vue-router-next](https://github.com/vuejs/vue-router-next)
-  - The Vue 3 official router (WIP)
-- [graphql-yoga](https://github.com/prisma-labs/graphql-yoga)
-  - 🧘 Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience
-- [vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github)
-  - GitHub Pull Requests for Visual Studio Code
-- [expo-cli](https://github.com/expo/expo-cli)
-  - Tools for creating, running, and deploying Universal Expo and React Native apps
+- [vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode)
+  - Solve LeetCode problems in VS Code
+- [angular](https://github.com/angular/angular)
+  - One framework. Mobile & desktop.
+- [homebridge](https://github.com/homebridge/homebridge)
+  - HomeKit support for the impatient
+- [excalidraw](https://github.com/excalidraw/excalidraw)
+  - Virtual whiteboard for sketching hand-drawn like diagrams
+- [datahub](https://github.com/linkedin/datahub)
+  - A Generalized Metadata Search & Discovery Tool
+- [NLW-1.0](https://github.com/DanielObara/NLW-1.0)
+  - Next Level Week 1.0 - NLW Projeto: Ecoleta Ministrado pela @Rocketseat 🚀
+- [sapper](https://github.com/sveltejs/sapper)
+  - The next small thing in web development, powered by Svelte
+- [material-components-web](https://github.com/material-components/material-components-web)
+  - Modular and customizable Material Design UI components for the web
+- [flex-layout](https://github.com/angular/flex-layout)
+  - Provides HTML UI layout for Angular applications; using Flexbox and a Responsive API
+- [wechaty](https://github.com/wechaty/wechaty)
+  - A Conversational AI RPA SDK for Chatbot
+- [ZtM-Job-Board](https://github.com/zero-to-mastery/ZtM-Job-Board)
+  - ⚛️ A place for developers to show recruiters they are available for hire
 - [remirror](https://github.com/remirror/remirror)
   - A universal react text editor built with prosemirror
-- [ecoleta](https://github.com/x0n4d0/ecoleta)
-  - Projeto Open Source desenvolvido na Next Level Week da Rocketseat utilizando TypeScript, Node, React e React Native. Com objetivo de criar uma conexão entre empresas e/ou entidades que coletam resíduos (orgânicos e inorgânicos) às pessoas/empresas que necessitam descartar esses resíduos.
-- [Vim](https://github.com/VSCodeVim/Vim)
-  - ⭐ Vim for Visual Studio Code
-- [tfjs](https://github.com/tensorflow/tfjs)
-  - A WebGL accelerated JavaScript library for training and deploying ML models.
-- [vite](https://github.com/vitejs/vite)
-  - An opinionated web dev build tool. It's fast.
-- [covid19_scenarios](https://github.com/neherlab/covid19_scenarios)
-  - Models of COVID-19 outbreak trajectories and hospital demand
-- [cache](https://github.com/actions/cache)
-  - Cache dependencies and build outputs in GitHub Actions
+- [streamlabs-obs](https://github.com/stream-labs/streamlabs-obs)
+  - Free and open source streaming software built on OBS and Electron.
+- [react-flow-chart](https://github.com/MrBlenny/react-flow-chart)
+  - A flexible, stateless, declarative flow chart library for react.
+- [graphql-playground](https://github.com/prisma-labs/graphql-playground)
+  - 🎮 GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
+- [homebridge-config-ui-x](https://github.com/oznu/homebridge-config-ui-x)
+  - Homebridge Web UI plugin to monitor, manage and control Homebridge from a browser.
+- [ecoleta](https://github.com/vitorserrano/ecoleta)
+  - ♻️ Next Level Week - #NLW1.0: Aplicação e para ajudar pessoas a encontrarem pontos de coleta para reciclagem.
+- [etcher](https://github.com/balena-io/etcher)
+  - Flash OS images to SD cards & USB drives, safely and easily.
+- [firebase-js-sdk](https://github.com/firebase/firebase-js-sdk)
+  - Firebase Javascript SDK
+- [NativeScript](https://github.com/NativeScript/NativeScript)
+  - NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
