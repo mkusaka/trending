@@ -1,50 +1,51 @@
 # general
+- [collapseos](https://github.com/hsoft/collapseos) : C
+  - Bootstrap post-collapse technology
 - [printf-tac-toe](https://github.com/carlini/printf-tac-toe) : C
   - tic-tac-toe in a single call to printf
-- [CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) : C++
-- [jetbrains-license-2020](https://github.com/imgVOID/jetbrains-license-2020) : VBScript
-  - JetBrains license servers 2020-2021 IntelliJ WebStorm PyCharm PhpStorm 05 May 2020 works; yo ho ho from Ukraine!
-- [Java](https://github.com/TheAlgorithms/Java) : Java
-  - All Algorithms implemented in Java
-- [genetic-drawing](https://github.com/anopara/genetic-drawing) : Python
-  - A genetic algorithm toy project for drawing
-- [Python](https://github.com/TheAlgorithms/Python) : Python
-  - All Algorithms implemented in Python
-- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) : Dockerfile
-  - Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!
-- [faceswap](https://github.com/deepfakes/faceswap) : Python
-  - Deepfakes Software For All
-- [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) : Jupyter Notebook
-  - Python Data Science Handbook: full text in Jupyter Notebooks
-- [ide-eval-resetter](https://github.com/pengzhile/ide-eval-resetter) : Java
-  - Reset your IDE eval information.
-- [OpenRA](https://github.com/OpenRA/OpenRA) : C#
-  - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
-- [threadx](https://github.com/azure-rtos/threadx) : C
-  - Azure RTOS ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
-- [Python](https://github.com/geekcomputers/Python) : Python
-  - My Python Examples
-- [Zettlr](https://github.com/Zettlr/Zettlr) : JavaScript
-  - A Markdown Editor for the 21st century.
-- [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) : 
-  - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
-- [lihang-code](https://github.com/fengdu78/lihang-code) : Jupyter Notebook
-  - 《统计学习方法》的代码实现
-- [SpringBootVulExploit](https://github.com/LandGrey/SpringBootVulExploit) : Java
-  - SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 checklist
-- [learn-security-engineering](https://github.com/veeral-patel/learn-security-engineering) : 
-  - How I'm learning to build secure systems
-- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) : JavaScript
-  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-- [UnityURPToonLitShaderExample](https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample) : HLSL
-  - A very simple toon lit shader example, for you to learn writing custom lit shader in Unity URP
-- [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) : Jupyter Notebook
-  - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
-- [handson-ml2](https://github.com/ageron/handson-ml2) : Jupyter Notebook
-  - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
-  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
+- [brasil.io](https://github.com/turicas/brasil.io) : Python
+  - Backend da API do https://Brasil.IO/
 - [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) : C++
   - All Algorithms implemented in C++
-- [nushell](https://github.com/nushell/nushell) : Rust
-  - A new type of shell
+- [genetic-drawing](https://github.com/anopara/genetic-drawing) : Python
+  - A genetic algorithm toy project for drawing
+- [jetbrains-license-2020](https://github.com/imgVOID/jetbrains-license-2020) : VBScript
+  - JetBrains license servers 2020-2021 IntelliJ WebStorm PyCharm PhpStorm 05 May 2020 works; yo ho ho from Ukraine!
+- [boost](https://github.com/boostorg/boost) : HTML
+  - Super-project for modularized Boost
+- [axiom](https://github.com/pry0cc/axiom) : Shell
+  - A dynamic infrastructure toolkit for red teamers and bug bounty hunters!
+- [dnsguide](https://github.com/EmilHernvall/dnsguide) : 
+  - A guide to writing a DNS Server from scratch in Rust
+- [firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) : Objective-C
+  - Firebase iOS SDK
+- [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) : 
+  - The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
+- [vscodium](https://github.com/VSCodium/vscodium) : Shell
+  - binary releases of VS Code without MS branding/telemetry/licensing
+- [AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs) : C#
+  - Documentation for ASP.NET Core
+- [fsociety](https://github.com/Manisso/fsociety) : Python
+  - fsociety Hacking Tools Pack – A Penetration Testing Framework
+- [app-ideas](https://github.com/florinpop17/app-ideas) : 
+  - A Collection of application ideas which can be used to improve your coding skills.
+- [rubocop](https://github.com/rubocop-hq/rubocop) : Ruby
+  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+- [Python](https://github.com/TheAlgorithms/Python) : Python
+  - All Algorithms implemented in Python
+- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) : JavaScript
+  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+- [learn-security-engineering](https://github.com/veeral-patel/learn-security-engineering) : 
+  - How I'm learning to build secure systems
+- [go-ast-book](https://github.com/chai2010/go-ast-book) : Go
+  - 📚 《Go语法树入门》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/LLVM/LLIR/凹语言)
+- [Meshtastic-device](https://github.com/meshtastic/Meshtastic-device) : C++
+  - Device code for the Meshtastic ski/hike/fly/customizable open GPS radio
+- [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) : 
+  - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
+- [showdoc](https://github.com/star7th/showdoc) : JavaScript
+  - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
+- [Java](https://github.com/TheAlgorithms/Java) : Java
+  - All Algorithms implemented in Java
+- [msw](https://github.com/mswjs/msw) : TypeScript
+  - Seamless REST/GraphQL API mocking library for browser and Node.

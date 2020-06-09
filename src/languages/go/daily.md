@@ -1,51 +1,51 @@
 # go
 - [go-ast-book](https://github.com/chai2010/go-ast-book)
   - 📚 《Go语法树入门》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/LLVM/LLIR/凹语言)
-- [nomad](https://github.com/hashicorp/nomad)
-  - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [Go](https://github.com/TheAlgorithms/Go)
-  - Algorithms Implemented in GoLang
-- [annie](https://github.com/iawia002/annie)
-  - 👾 Fast, simple and clean video downloader
-- [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga)
-  - Advanced information gathering & OSINT framework for phone numbers
-- [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
-  - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，更多功能正在开发中，欢迎issue和pr~
-- [draft](https://github.com/lucasepe/draft)
-  - Generate High Level Microservice Architecture diagrams for GraphViz using simple YAML syntax.
-- [jwt-go](https://github.com/dgrijalva/jwt-go)
-  - Golang implementation of JSON Web Tokens (JWT)
-- [Amass](https://github.com/OWASP/Amass)
-  - In-depth Attack Surface Mapping and Asset Discovery
-- [fyne](https://github.com/fyne-io/fyne)
-  - Cross platform GUI in Go based on Material Design
+- [sarama](https://github.com/Shopify/sarama)
+  - Sarama is a Go library for Apache Kafka 0.8, and up.
+- [fasthttp](https://github.com/valyala/fasthttp)
+  - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
+- [websocket](https://github.com/gorilla/websocket)
+  - A fast, well-tested and widely used WebSocket implementation for Go.
 - [goplus](https://github.com/qiniu/goplus)
   - GoPlus - The Go+ language for data science
-- [GolangTraining](https://github.com/GoesToEleven/GolangTraining)
-  - Training for Golang (go language)
-- [client](https://github.com/keybase/client)
-  - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
-- [BaiduPCS-Go](https://github.com/felixonmars/BaiduPCS-Go)
-  - Re-upload of iikira/BaiduPCS-Go
-- [tinygo](https://github.com/tinygo-org/tinygo)
-  - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
-- [gobuster](https://github.com/OJ/gobuster)
-  - Directory/File, DNS and VHost busting tool written in Go
-- [water-reminder](https://github.com/0xfederama/water-reminder)
-  - Simple notifications app that reminds you to drink
-- [ebiten](https://github.com/hajimehoshi/ebiten)
-  - A dead simple 2D game library for Go
-- [chat](https://github.com/tinode/chat)
-  - Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots
-- [dns](https://github.com/miekg/dns)
-  - DNS library in Go
-- [cli](https://github.com/cli/cli)
-  - GitHub’s official command line tool
-- [prysm](https://github.com/prysmaticlabs/prysm)
-  - Go implementation of the Ethereum 2.0 blockchain
-- [clash](https://github.com/Dreamacro/clash)
-  - A rule-based tunnel in Go.
+- [kubernetes](https://github.com/kubernetes/kubernetes)
+  - Production-Grade Container Scheduling and Management
+- [zap](https://github.com/uber-go/zap)
+  - Blazing fast, structured, leveled logging in Go.
+- [HFish](https://github.com/hacklcx/HFish)
+  - 🍯 A Most Convenient Honeypot Platform. 🐝🐝🐝 🐝🐝
 - [go-ethereum](https://github.com/ethereum/go-ethereum)
   - Official Go implementation of the Ethereum protocol
-- [fzf](https://github.com/junegunn/fzf)
-  - 🌸 A command-line fuzzy finder
+- [tidb](https://github.com/pingcap/tidb)
+  - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+- [influxdb](https://github.com/influxdata/influxdb)
+  - Scalable datastore for metrics, events, and real-time analytics
+- [go](https://github.com/golang/go)
+  - The Go programming language
+- [v2ray-cloudfoundry](https://github.com/badafans/v2ray-cloudfoundry)
+  - push v2ray on ibm cloudfoundry
+- [jwt-go](https://github.com/dgrijalva/jwt-go)
+  - Golang implementation of JSON Web Tokens (JWT)
+- [flux](https://github.com/fluxcd/flux)
+  - The GitOps Kubernetes operator
+- [gvisor](https://github.com/google/gvisor)
+  - Application Kernel for Containers
+- [nvm-windows](https://github.com/coreybutler/nvm-windows)
+  - A node.js version management utility for Windows. Ironically written in Go.
+- [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
+  - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，更多功能正在开发中，欢迎issue和pr~
+- [gf](https://github.com/gogf/gf)
+  - GoFrame is a modular, powerful, high-performance and production-ready application development framework of golang.
+- [traefik](https://github.com/containous/traefik)
+  - The Cloud Native Edge Router
+- [pipeline](https://github.com/tektoncd/pipeline)
+  - A K8s-native Pipeline resource.
+- [kustomize](https://github.com/kubernetes-sigs/kustomize)
+  - Customization of kubernetes YAML configurations
+- [protobuf](https://github.com/golang/protobuf)
+  - Go support for Google's protocol buffers
+- [hcl](https://github.com/hashicorp/hcl)
+  - HCL is the HashiCorp configuration language.
+- [mock](https://github.com/golang/mock)
+  - GoMock is a mocking framework for the Go programming language.

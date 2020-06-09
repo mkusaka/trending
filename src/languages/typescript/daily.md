@@ -1,51 +1,51 @@
 # typescript
-- [webiny-js](https://github.com/webiny/webiny-js)
-  - Platform for building serverless applications and API (Node.js, React, GraphQL)
-- [gridjs](https://github.com/grid-js/gridjs)
-  - Advanced table plugin
-- [angularfire](https://github.com/angular/angularfire)
-  - The official Angular library for Firebase.
-- [ecoleta](https://github.com/x0n4d0/ecoleta)
-  - ♻️ Ecoleta é um projeto Open Source desenvolvido na Next Level Week (1.0) da Rocketseat utilizando TypeScript, Node, React e React Native. Com objetivo de criar uma conexão entre empresas e/ou entidades que coletam resíduos (orgânicos e inorgânicos) às pessoas/empresas que necessitam descartar esses resíduos.
 - [msw](https://github.com/mswjs/msw)
   - Seamless REST/GraphQL API mocking library for browser and Node.
-- [vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode)
-  - Solve LeetCode problems in VS Code
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
-- [homebridge](https://github.com/homebridge/homebridge)
-  - HomeKit support for the impatient
-- [excalidraw](https://github.com/excalidraw/excalidraw)
-  - Virtual whiteboard for sketching hand-drawn like diagrams
-- [datahub](https://github.com/linkedin/datahub)
-  - A Generalized Metadata Search & Discovery Tool
-- [NLW-1.0](https://github.com/DanielObara/NLW-1.0)
-  - Next Level Week 1.0 - NLW Projeto: Ecoleta Ministrado pela @Rocketseat 🚀
-- [sapper](https://github.com/sveltejs/sapper)
-  - The next small thing in web development, powered by Svelte
-- [material-components-web](https://github.com/material-components/material-components-web)
-  - Modular and customizable Material Design UI components for the web
-- [flex-layout](https://github.com/angular/flex-layout)
-  - Provides HTML UI layout for Angular applications; using Flexbox and a Responsive API
-- [wechaty](https://github.com/wechaty/wechaty)
-  - A Conversational AI RPA SDK for Chatbot
-- [ZtM-Job-Board](https://github.com/zero-to-mastery/ZtM-Job-Board)
-  - ⚛️ A place for developers to show recruiters they are available for hire
-- [remirror](https://github.com/remirror/remirror)
-  - A universal react text editor built with prosemirror
-- [streamlabs-obs](https://github.com/stream-labs/streamlabs-obs)
-  - Free and open source streaming software built on OBS and Electron.
-- [react-flow-chart](https://github.com/MrBlenny/react-flow-chart)
-  - A flexible, stateless, declarative flow chart library for react.
-- [graphql-playground](https://github.com/prisma-labs/graphql-playground)
-  - 🎮 GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
-- [homebridge-config-ui-x](https://github.com/oznu/homebridge-config-ui-x)
-  - Homebridge Web UI plugin to monitor, manage and control Homebridge from a browser.
-- [ecoleta](https://github.com/vitorserrano/ecoleta)
-  - ♻️ Next Level Week - #NLW1.0: Aplicação e para ajudar pessoas a encontrarem pontos de coleta para reciclagem.
-- [etcher](https://github.com/balena-io/etcher)
-  - Flash OS images to SD cards & USB drives, safely and easily.
-- [firebase-js-sdk](https://github.com/firebase/firebase-js-sdk)
-  - Firebase Javascript SDK
+- [amplify-js](https://github.com/aws-amplify/amplify-js)
+  - A declarative JavaScript library for application development using cloud services.
+- [typescript-exercises](https://github.com/mdevils/typescript-exercises)
+  - A collection of challenging TypeScript exercises
+- [formik](https://github.com/jaredpalmer/formik)
+  - Build forms in React, without the tears 😭
+- [pixi.js](https://github.com/pixijs/pixi.js)
+  - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+- [streamlit](https://github.com/streamlit/streamlit)
+  - Streamlit — The fastest way to build custom ML tools
+- [webiny-js](https://github.com/webiny/webiny-js)
+  - Platform for building serverless applications and API (Node.js, React, GraphQL)
+- [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)
+  - An enterprise-class UI components based on Ant Design and Angular. 🐜
+- [jest](https://github.com/facebook/jest)
+  - Delightful JavaScript Testing.
+- [mkdocs-material](https://github.com/squidfunk/mkdocs-material)
+  - A Material Design theme for MkDocs
+- [aws-cdk](https://github.com/aws/aws-cdk)
+  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+- [nest](https://github.com/nestjs/nest)
+  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [blueprint](https://github.com/palantir/blueprint)
+  - A React-based UI toolkit for the web
+- [vuetify](https://github.com/vuetifyjs/vuetify)
+  - 🐉 Material Component Framework for Vue
+- [crud](https://github.com/nestjsx/crud)
+  - NestJs CRUD for RESTful APIs
+- [Ecoleta](https://github.com/solrachix/Ecoleta)
+  - Ecoleta is a project developed based on the International Environment Week. The goal is to connect people to companies that collect specific waste, such as light bulbs, batteries, etc.
+- [tfjs](https://github.com/tensorflow/tfjs)
+  - A WebGL accelerated JavaScript library for training and deploying ML models.
+- [tfjs-models](https://github.com/tensorflow/tfjs-models)
+  - Pretrained models for TensorFlow.js
+- [firebase-tools](https://github.com/firebase/firebase-tools)
+  - The Firebase Command Line Tools
+- [react-use](https://github.com/streamich/react-use)
+  - React Hooks — 👍
+- [unform](https://github.com/Rocketseat/unform)
+  - Easy peasy highly scalable ReactJS & React Native forms! 🚀
+- [grafana](https://github.com/grafana/grafana)
+  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [G6](https://github.com/antvis/G6)
+  - ♾ A Graph Visualization Framework in JavaScript
+- [rough-notation](https://github.com/pshihn/rough-notation)
+  - Create and animate hand-drawn annotations on a web page
 - [NativeScript](https://github.com/NativeScript/NativeScript)
   - NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
