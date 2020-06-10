@@ -1,51 +1,49 @@
 # general
-- [collapseos](https://github.com/hsoft/collapseos) : C
-  - Bootstrap post-collapse technology
-- [printf-tac-toe](https://github.com/carlini/printf-tac-toe) : C
-  - tic-tac-toe in a single call to printf
-- [brasil.io](https://github.com/turicas/brasil.io) : Python
-  - Backend da API do https://Brasil.IO/
-- [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) : C++
-  - All Algorithms implemented in C++
-- [genetic-drawing](https://github.com/anopara/genetic-drawing) : Python
-  - A genetic algorithm toy project for drawing
-- [jetbrains-license-2020](https://github.com/imgVOID/jetbrains-license-2020) : VBScript
-  - JetBrains license servers 2020-2021 IntelliJ WebStorm PyCharm PhpStorm 05 May 2020 works; yo ho ho from Ukraine!
-- [boost](https://github.com/boostorg/boost) : HTML
-  - Super-project for modularized Boost
-- [axiom](https://github.com/pry0cc/axiom) : Shell
-  - A dynamic infrastructure toolkit for red teamers and bug bounty hunters!
-- [dnsguide](https://github.com/EmilHernvall/dnsguide) : 
-  - A guide to writing a DNS Server from scratch in Rust
-- [firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) : Objective-C
-  - Firebase iOS SDK
-- [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) : 
-  - The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
-- [vscodium](https://github.com/VSCodium/vscodium) : Shell
-  - binary releases of VS Code without MS branding/telemetry/licensing
-- [AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs) : C#
-  - Documentation for ASP.NET Core
-- [fsociety](https://github.com/Manisso/fsociety) : Python
-  - fsociety Hacking Tools Pack – A Penetration Testing Framework
-- [app-ideas](https://github.com/florinpop17/app-ideas) : 
-  - A Collection of application ideas which can be used to improve your coding skills.
-- [rubocop](https://github.com/rubocop-hq/rubocop) : Ruby
-  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [Python](https://github.com/TheAlgorithms/Python) : Python
-  - All Algorithms implemented in Python
 - [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) : JavaScript
   - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-- [learn-security-engineering](https://github.com/veeral-patel/learn-security-engineering) : 
-  - How I'm learning to build secure systems
 - [go-ast-book](https://github.com/chai2010/go-ast-book) : Go
   - 📚 《Go语法树入门》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/LLVM/LLIR/凹语言)
-- [Meshtastic-device](https://github.com/meshtastic/Meshtastic-device) : C++
-  - Device code for the Meshtastic ski/hike/fly/customizable open GPS radio
-- [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) : 
-  - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
-- [showdoc](https://github.com/star7th/showdoc) : JavaScript
-  - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
+- [streamlit](https://github.com/streamlit/streamlit) : TypeScript
+  - Streamlit — The fastest way to build custom ML tools
+- [distribution](https://github.com/docker/distribution) : Go
+  - The Docker toolset to pack, ship, store, and deliver content
+- [lihang-code](https://github.com/fengdu78/lihang-code) : Jupyter Notebook
+  - 《统计学习方法》的代码实现
+- [nnn](https://github.com/jarun/nnn) : C
+  - n³ The missing terminal file manager for X.
+- [neuropod](https://github.com/uber/neuropod) : C++
+  - A uniform interface to run deep learning models from multiple frameworks
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) : JavaScript
+  - The ultimate Free Open Source Solution for team communications.
+- [strapi](https://github.com/strapi/strapi) : JavaScript
+  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) : Swift
+  - CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift
+- [dotnet-docker](https://github.com/dotnet/dotnet-docker) : Dockerfile
+  - Docker images for .NET Core and the .NET Core Tools.
+- [phpstan](https://github.com/phpstan/phpstan) : HTML
+  - PHP Static Analysis Tool - discover bugs in your code without running it!
+- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) : JavaScript
+  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+- [outline](https://github.com/outline/outline) : JavaScript
+  - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
+- [StayAwake](https://github.com/trevtravtrev/StayAwake) : Python
+  - Stay Awake is a simple app that keeps your computer from going to sleep.
+- [cli](https://github.com/cli/cli) : Go
+  - GitHub’s official command line tool
+- [google-cloud-go](https://github.com/googleapis/google-cloud-go) : Go
+  - Google Cloud Client Libraries for Go.
+- [protobuf](https://github.com/gogo/protobuf) : Go
+  - Protocol Buffers for Go with Gadgets
+- [googletest](https://github.com/google/googletest) : C++
+  - Googletest - Google Testing and Mocking Framework
 - [Java](https://github.com/TheAlgorithms/Java) : Java
   - All Algorithms implemented in Java
-- [msw](https://github.com/mswjs/msw) : TypeScript
-  - Seamless REST/GraphQL API mocking library for browser and Node.
+- [vagas](https://github.com/frontendbr/vagas) : 
+  - 🔬 Espaço para divulgação de vagas para front-enders.
+- [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) : C++
+  - All Algorithms implemented in C++
+- [cypress](https://github.com/cypress-io/cypress) : JavaScript
+  - Fast, easy and reliable testing for anything that runs in a browser.
+- [vision](https://github.com/pytorch/vision) : Jupyter Notebook
+  - Datasets, Transforms and Models specific to Computer Vision
