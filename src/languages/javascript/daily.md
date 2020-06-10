@@ -1,51 +1,51 @@
 # javascript
 - [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
   - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-- [showdoc](https://github.com/star7th/showdoc)
-  - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
-- [password-manager-resources](https://github.com/apple/password-manager-resources)
-  - A place for creators and users of password managers to collaborate on resources to make password management better.
-- [Recoil](https://github.com/facebookexperimental/Recoil)
-  - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
-- [pose-animator](https://github.com/yemount/pose-animator)
-  - 
-- [Javascript](https://github.com/TheAlgorithms/Javascript)
-  - A repository for All algorithms implemented in Javascript (for educational purposes only)
-- [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
-  - OpenZeppelin Contracts is a library for secure smart contract development.
-- [socket.io](https://github.com/socketio/socket.io)
-  - Realtime application framework (Node.JS server)
-- [axios](https://github.com/axios/axios)
-  - Promise based HTTP client for the browser and node.js
-- [Zettlr](https://github.com/Zettlr/Zettlr)
-  - A Markdown Editor for the 21st century.
-- [three.js](https://github.com/mrdoob/three.js)
-  - JavaScript 3D library.
-- [react-select](https://github.com/JedWatson/react-select)
-  - The Select Component for React.js
-- [samples](https://github.com/webrtc/samples)
-  - WebRTC Web demos and samples
-- [create-snowpack-app](https://github.com/pikapkg/create-snowpack-app)
-  - CSA - Get started with the fastest dev environment available.
-- [create-react-app](https://github.com/facebook/create-react-app)
-  - Set up a modern web app by running one command.
-- [odoo](https://github.com/odoo/odoo)
-  - Odoo. Open Source Apps To Grow Your Business.
-- [graphql-js](https://github.com/graphql/graphql-js)
-  - A reference implementation of GraphQL for JavaScript
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+  - The ultimate Free Open Source Solution for team communications.
 - [strapi](https://github.com/strapi/strapi)
   - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
-- [cypress-example-recipes](https://github.com/cypress-io/cypress-example-recipes)
-  - Various recipes for testing common scenarios with Cypress
-- [webdriverio](https://github.com/webdriverio/webdriverio)
-  - Next-gen browser and mobile automation test framework for Node.js
-- [jquery](https://github.com/jquery/jquery)
-  - jQuery JavaScript Library
 - [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
   - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+- [outline](https://github.com/outline/outline)
+  - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
+- [cypress](https://github.com/cypress-io/cypress)
+  - Fast, easy and reliable testing for anything that runs in a browser.
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [Javascript](https://github.com/TheAlgorithms/Javascript)
+  - A repository for All algorithms implemented in Javascript (for educational purposes only)
+- [fabric.js](https://github.com/fabricjs/fabric.js)
+  - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
+- [handsontable](https://github.com/handsontable/handsontable)
+  - Handsontable is a JavaScript/HTML5 data grid with spreadsheet look & feel. Available for React, Vue and Angular.
 - [react](https://github.com/facebook/react)
   - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [react-testing-library](https://github.com/testing-library/react-testing-library)
-  - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
-- [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)
-  - Bootstrap components built with React
+- [Zettlr](https://github.com/Zettlr/Zettlr)
+  - A Markdown Editor for the 21st century.
+- [bpmn-js-examples](https://github.com/bpmn-io/bpmn-js-examples)
+  - Some examples how to use bpmn-js
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+  - Headless Chrome Node.js API
+- [browserslist](https://github.com/browserslist/browserslist)
+  - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
+- [MagicMirror](https://github.com/MichMich/MagicMirror)
+  - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
+- [data](https://github.com/emberjs/data)
+  - A data persistence library for Ember.js.
+- [TIMSDK](https://github.com/tencentyun/TIMSDK)
+  - 腾讯云即时通信 IM 服务，国内下载镜像：
+- [hexo-theme-next](https://github.com/next-theme/hexo-theme-next)
+  - 🎉 Elegant and powerful theme for Hexo.
+- [vue-i18n](https://github.com/kazupon/vue-i18n)
+  - 🌐 Internationalization plugin for Vue.js
+- [flow-typed](https://github.com/flow-typed/flow-typed)
+  - A central repository for Flow library definitions
+- [ali-oss](https://github.com/ali-sdk/ali-oss)
+  - Aliyun OSS(open storage service) JavaScript SDK for the browser and Node.js
+- [junior-recruit-scheduler](https://github.com/jojoldu/junior-recruit-scheduler)
+  - 주니어 개발자 채용 정보
+- [dropzone](https://github.com/enyo/dropzone)
+  - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
+- [javascript](https://github.com/airbnb/javascript)
+  - JavaScript Style Guide
