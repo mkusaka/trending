@@ -1,51 +1,51 @@
 # rust
 - [nushell](https://github.com/nushell/nushell)
   - A new type of shell
+- [topngx](https://github.com/gsquire/topngx)
+  - top for NGINX
+- [deno_lint](https://github.com/denoland/deno_lint)
+  - Blazingly fast linter for JavaScript and TypeScript written in Rust
 - [polkadot](https://github.com/paritytech/polkadot)
   - Polkadot Node Implementation
-- [unFTP](https://github.com/bolcom/unFTP)
-  - A FTP(S) server with a couple of twists written in Rust
-- [create-your-own-lang-with-rust](https://github.com/ehsanmok/create-your-own-lang-with-rust)
-  - Create your own programming language with Rust
-- [vector](https://github.com/timberio/vector)
-  - A lightweight and ultra-fast tool for building observability pipelines
-- [jormungandr](https://github.com/input-output-hk/jormungandr)
-  - aspiring blockchain node
-- [talent-plan](https://github.com/pingcap/talent-plan)
-  - open source training courses about distributed systems and distributed systemes
-- [xsv](https://github.com/BurntSushi/xsv)
-  - A fast CSV command line toolkit written in Rust.
+- [wasmtime](https://github.com/bytecodealliance/wasmtime)
+  - Standalone JIT-style runtime for WebAssembly, using Cranelift
 - [sqlx](https://github.com/launchbadge/sqlx)
   - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [tower-http](https://github.com/tower-rs/tower-http)
-  - HTTP specific Tower utilities.
-- [photon](https://github.com/silvia-odwyer/photon)
-  - Rust/WebAssembly image processing library
+- [tinysearch](https://github.com/mre/tinysearch)
+  - 🔍 Tiny, full-text search engine for static websites built with Rust and WASM
+- [starship](https://github.com/starship/starship)
+  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [zola](https://github.com/getzola/zola)
+  - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [servo](https://github.com/servo/servo)
   - The Servo Browser Engine
-- [tower-grpc](https://github.com/tower-rs/tower-grpc)
-  - A gRPC client & server implementation.
-- [tokio-connect](https://github.com/carllerche/tokio-connect)
-  - Connect an AsyncRead + AsyncWrite
-- [swc](https://github.com/swc-project/swc)
-  - Super-fast typescript / javascript compiler written in rust
-- [firecracker](https://github.com/firecracker-microvm/firecracker)
-  - Secure and fast microVMs for serverless computing.
-- [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust)
-  - A Rust port of shadowsocks
-- [zenith](https://github.com/bvaisvil/zenith)
-  - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
-- [ytop](https://github.com/cjbassi/ytop)
-  - A TUI system monitor written in Rust
-- [indy-sdk](https://github.com/hyperledger/indy-sdk)
-  - Everything needed to build applications that interact with an Indy distributed identity ledger.
-- [hyperfine](https://github.com/sharkdp/hyperfine)
-  - A command-line benchmarking tool
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
-- [tree-buf](https://github.com/That3Percent/tree-buf)
-  - An experimental serialization system written in Rust
-- [rusoto](https://github.com/rusoto/rusoto)
-  - AWS SDK for Rust
+- [safer_ffi](https://github.com/getditto/safer_ffi)
+  - Write safer FFI code in Rust without polluting it with unsafe code
+- [sonic](https://github.com/valeriansaliou/sonic)
+  - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
+- [lsd](https://github.com/Peltoche/lsd)
+  - The next gen ls command
+- [talent-plan](https://github.com/pingcap/talent-plan)
+  - open source training courses about distributed database and distributed systemes
+- [mdBook](https://github.com/rust-lang/mdBook)
+  - Create book from markdown files. Like Gitbook but implemented in Rust
+- [quiche](https://github.com/cloudflare/quiche)
+  - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+- [tui-rs](https://github.com/fdehau/tui-rs)
+  - Build terminal user interfaces and dashboards using Rust
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [vector](https://github.com/timberio/vector)
+  - A lightweight and ultra-fast tool for building observability pipelines
+- [openethereum](https://github.com/openethereum/openethereum)
+  - Fast and feature-rich multi-network Ethereum client.
+- [rust-blog](https://github.com/pretzelhammer/rust-blog)
+  - Educational blog posts for Rust beginners
+- [docker-compose-wait](https://github.com/ufoscout/docker-compose-wait)
+  - A simple script to wait for other docker images to be started while using docker-compose
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - ripgrep recursively searches directories for a regex pattern
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [examples](https://github.com/actix/examples)
+  - Actix web examples

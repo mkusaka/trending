@@ -1,49 +1,51 @@
 # general
+- [yolov5](https://github.com/ultralytics/yolov5) : Jupyter Notebook
+  - YOLOv5 in PyTorch > ONNX > CoreML > iOS
 - [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) : JavaScript
   - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-- [go-ast-book](https://github.com/chai2010/go-ast-book) : Go
-  - 📚 《Go语法树入门》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/LLVM/LLIR/凹语言)
 - [streamlit](https://github.com/streamlit/streamlit) : TypeScript
   - Streamlit — The fastest way to build custom ML tools
-- [distribution](https://github.com/docker/distribution) : Go
-  - The Docker toolset to pack, ship, store, and deliver content
-- [lihang-code](https://github.com/fengdu78/lihang-code) : Jupyter Notebook
-  - 《统计学习方法》的代码实现
-- [nnn](https://github.com/jarun/nnn) : C
-  - n³ The missing terminal file manager for X.
-- [neuropod](https://github.com/uber/neuropod) : C++
-  - A uniform interface to run deep learning models from multiple frameworks
-- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) : JavaScript
-  - The ultimate Free Open Source Solution for team communications.
-- [strapi](https://github.com/strapi/strapi) : JavaScript
-  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
-- [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) : Swift
-  - CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift
-- [dotnet-docker](https://github.com/dotnet/dotnet-docker) : Dockerfile
-  - Docker images for .NET Core and the .NET Core Tools.
 - [phpstan](https://github.com/phpstan/phpstan) : HTML
   - PHP Static Analysis Tool - discover bugs in your code without running it!
-- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) : JavaScript
-  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
-- [outline](https://github.com/outline/outline) : JavaScript
-  - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
-- [StayAwake](https://github.com/trevtravtrev/StayAwake) : Python
-  - Stay Awake is a simple app that keeps your computer from going to sleep.
-- [cli](https://github.com/cli/cli) : Go
-  - GitHub’s official command line tool
+- [lihang-code](https://github.com/fengdu78/lihang-code) : Jupyter Notebook
+  - 《统计学习方法》的代码实现
+- [AI4Animation](https://github.com/sebastianstarke/AI4Animation) : C++
+  - Bringing Characters to Life with Computer Brains in Unity
+- [xgenecloud](https://github.com/xgenecloud/xgenecloud) : JavaScript
+  - 🚀 Instant REST & GraphQL APIs on any Database (Supports : MySQL, Postgres, MsSQL, SQLite, MariaDB)
+- [utahfs](https://github.com/cloudflare/utahfs) : Go
+  - UtahFS is an encrypted storage system that provides a user-friendly FUSE drive backed by cloud storage.
+- [CallStranger](https://github.com/yunuscadirci/CallStranger) : Python
+  - Vulnerability checker for Callstranger (CVE-2020-12695)
+- [shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) : HTML
+  - Procedurally generated Chinese landscape painting.
+- [hummingbird](https://github.com/microsoft/hummingbird) : Python
+  - Hummingbird compiles trained ML models into tensor computation for faster inference.
+- [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) : 
+  - The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
+- [EquinoxProject](https://github.com/EduardoPires/EquinoxProject) : C#
+  - Full ASP.NET Core 3.1 application with DDD, CQRS and Event Sourcing concepts
+- [colabcat](https://github.com/someshkar/colabcat) : Jupyter Notebook
+  - 😸 Running hashcat on Google Colab with session backup and restore.
 - [google-cloud-go](https://github.com/googleapis/google-cloud-go) : Go
   - Google Cloud Client Libraries for Go.
-- [protobuf](https://github.com/gogo/protobuf) : Go
-  - Protocol Buffers for Go with Gadgets
+- [livewire](https://github.com/livewire/livewire) : PHP
+  - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
+- [gravity](https://github.com/marcobambini/gravity) : C
+  - Gravity Programming Language
+- [files-uwp](https://github.com/files-community/files-uwp) : C#
+  - "More than just a rewrite of Windows Explorer"
+- [community](https://github.com/GoogleCloudPlatform/community) : Java
+  - This repository holds the content submitted to https://cloud.google.com/community. Files added to the tutorials/ will appear at https://cloud.google.com/community/tutorials.
 - [googletest](https://github.com/google/googletest) : C++
   - Googletest - Google Testing and Mocking Framework
-- [Java](https://github.com/TheAlgorithms/Java) : Java
-  - All Algorithms implemented in Java
-- [vagas](https://github.com/frontendbr/vagas) : 
-  - 🔬 Espaço para divulgação de vagas para front-enders.
-- [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) : C++
-  - All Algorithms implemented in C++
-- [cypress](https://github.com/cypress-io/cypress) : JavaScript
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [vision](https://github.com/pytorch/vision) : Jupyter Notebook
-  - Datasets, Transforms and Models specific to Computer Vision
+- [managers-playbook](https://github.com/ksindi/managers-playbook) : 
+  - 📖 Heuristics for effective management
+- [sendportal](https://github.com/mettle/sendportal) : PHP
+  - Open-source self-hosted email marketing. Manage your own newsletters at a fraction of the cost.
+- [stegcloak](https://github.com/KuroLabs/stegcloak) : JavaScript
+  - Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
+- [esp_8_bit](https://github.com/rossumur/esp_8_bit) : C
+  - Atari 8 bit computers, NES and SMS game consoles on your TV with nothing more than a ESP32 and a sense of nostalgia
