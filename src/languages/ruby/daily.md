@@ -1,51 +1,51 @@
 # ruby
-- [sidekiq](https://github.com/mperham/sidekiq)
-  - Simple, efficient background processing for Ruby
-- [fast_jsonapi](https://github.com/Netflix/fast_jsonapi)
-  - A lightning fast JSON:API serializer for Ruby Objects.
-- [pghero](https://github.com/ankane/pghero)
-  - A performance dashboard for Postgres
-- [linguist](https://github.com/github/linguist)
-  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-- [dev.to](https://github.com/thepracticaldev/dev.to)
-  - Where programmers share ideas and help each other grow
-- [fluentd](https://github.com/fluent/fluentd)
-  - Fluentd: Unified Logging Layer (project under CNCF)
-- [zammad](https://github.com/zammad/zammad)
-  - Zammad is a web based open source helpdesk/customer support system
-- [activeadmin](https://github.com/activeadmin/activeadmin)
-  - The administration framework for Ruby on Rails applications.
-- [logstash](https://github.com/elastic/logstash)
-  - Logstash - transport and process your logs, events, or other data
-- [simplecov](https://github.com/colszowka/simplecov)
-  - Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites
-- [carrierwave](https://github.com/carrierwaveuploader/carrierwave)
-  - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
-- [searchkick](https://github.com/ankane/searchkick)
-  - Intelligent search made easy with Rails and Elasticsearch
-- [ruby-kafka](https://github.com/zendesk/ruby-kafka)
-  - A Ruby client library for Apache Kafka
-- [Mars](https://github.com/TideSec/Mars)
-  - Mars(战神)——资产发现、子域名枚举、C段扫描、资产变更监测、端口变更监测、域名解析变更监测、Awvs扫描、POC检测、web指纹探测、端口指纹探测、CDN探测、操作系统指纹探测、泛解析探测、WAF探测、敏感信息检测等等
-- [activerecord-import](https://github.com/zdennis/activerecord-import)
-  - A library for bulk insertion of data into your database using ActiveRecord.
-- [react-native-config](https://github.com/luggit/react-native-config)
-  - Bring some 12 factor love to your mobile apps!
+- [chef](https://github.com/chef/chef)
+  - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
+- [sorbet](https://github.com/sorbet/sorbet)
+  - A fast, powerful type checker designed for Ruby
+- [ruby](https://github.com/ruby/ruby)
+  - The Ruby Programming Language [mirror]
+- [rails](https://github.com/rails/rails)
+  - Ruby on Rails
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
+  - Metasploit Framework
 - [fastlane](https://github.com/fastlane/fastlane)
   - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-- [rails-i18n](https://github.com/svenfuchs/rails-i18n)
-  - Repository for collecting Locale data for Ruby on Rails I18n as well as other interesting, Rails related I18n stuff
-- [lolcat](https://github.com/busyloop/lolcat)
-  - Rainbows and unicorns!
+- [fast_jsonapi](https://github.com/Netflix/fast_jsonapi)
+  - A lightning fast JSON:API serializer for Ruby Objects.
+- [fluentd](https://github.com/fluent/fluentd)
+  - Fluentd: Unified Logging Layer (project under CNCF)
+- [logstash](https://github.com/elastic/logstash)
+  - Logstash - transport and process your logs, events, or other data
+- [wicked_pdf](https://github.com/mileszs/wicked_pdf)
+  - PDF generator (from HTML) plugin for Ruby on Rails
+- [view_component](https://github.com/github/view_component)
+  - View components for Rails
+- [rswag](https://github.com/rswag/rswag)
+  - Seamlessly adds a Swagger to Rails-based API's
+- [activeadmin](https://github.com/activeadmin/activeadmin)
+  - The administration framework for Ruby on Rails applications.
+- [active_model_serializers](https://github.com/rails-api/active_model_serializers)
+  - ActiveModel::Serializer implementation and Rails hooks
+- [dev.to](https://github.com/thepracticaldev/dev.to)
+  - Where programmers share ideas and help each other grow
+- [activerecord-import](https://github.com/zdennis/activerecord-import)
+  - A library for bulk insertion of data into your database using ActiveRecord.
+- [fluentd-kubernetes-daemonset](https://github.com/fluent/fluentd-kubernetes-daemonset)
+  - Fluentd daemonset for Kubernetes and it Docker image
+- [sinatra](https://github.com/sinatra/sinatra)
+  - Classy web-development dressed in a DSL (official / canonical repo)
 - [ruby-jwt](https://github.com/jwt/ruby-jwt)
   - A ruby implementation of the RFC 7519 OAuth JSON Web Token (JWT) standard.
-- [mail](https://github.com/mikel/mail)
-  - A Really Ruby Mail Library
-- [faraday](https://github.com/lostisland/faraday)
-  - Simple, but flexible HTTP client library, with support for multiple backends.
+- [discourse](https://github.com/discourse/discourse)
+  - A platform for community discussion. Free, open, simple.
 - [decidim](https://github.com/decidim/decidim)
   - The participatory democracy framework. A generator and multiple gems made with Ruby on Rails
-- [liquid](https://github.com/Shopify/liquid)
-  - Liquid markup language. Safe, customer facing template language for flexible web apps.
+- [administrate](https://github.com/thoughtbot/administrate)
+  - A Rails engine that helps you put together a super-flexible admin dashboard.
+- [vagrant](https://github.com/hashicorp/vagrant)
+  - Vagrant is a tool for building and distributing development environments.
+- [lolcat](https://github.com/busyloop/lolcat)
+  - Rainbows and unicorns!
+- [solidus](https://github.com/solidusio/solidus)
+  - 🛒Solidus, Rails eCommerce System
