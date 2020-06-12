@@ -2,50 +2,50 @@
 - [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
   - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 - [xgenecloud](https://github.com/xgenecloud/xgenecloud)
-  - 🚀 Instant REST & GraphQL APIs on any Database (Supports : MySQL, Postgres, MsSQL, SQLite, MariaDB)
+  - 🔥 🔥 Instantly generate REST & GraphQL APIs on any Database (Supports : MySQL, PostgreSQL, MsSQL, SQLite, MariaDB)
 - [stegcloak](https://github.com/KuroLabs/stegcloak)
   - Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐
-- [playwright](https://github.com/microsoft/playwright)
-  - Node library to automate Chromium, Firefox and WebKit with a single API
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [jexcel](https://github.com/paulhodel/jexcel)
-  - jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software.
-- [outline](https://github.com/outline/outline)
-  - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
-  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
-- [cypress](https://github.com/cypress-io/cypress)
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [robintrack](https://github.com/Ameobea/robintrack)
-  - Scrapes the Robinhood API to retrieve + store popularity and price data.
-- [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
-  - Microsoft Authentication Library (MSAL) for JS
-- [vue](https://github.com/vuejs/vue)
-  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [Prebid.js](https://github.com/prebid/Prebid.js)
-  - Setup and manage header bidding advertising partners without writing code or confusing line items. Prebid.js is open source and free.
-- [axios](https://github.com/axios/axios)
-  - Promise based HTTP client for the browser and node.js
-- [react-table](https://github.com/tannerlinsley/react-table)
-  - ⚛️ Hooks for building fast and extendable tables and datagrids for React
-- [handsontable](https://github.com/handsontable/handsontable)
-  - Handsontable is a JavaScript/HTML5 data grid with spreadsheet look & feel. Available for React, Vue and Angular.
-- [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
-  - a vue2.0 minimal admin template
-- [spug](https://github.com/openspug/spug)
-  - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [slate](https://github.com/slatedocs/slate)
-  - Beautiful static documentation for your API
 - [shapez.io](https://github.com/tobspr/shapez.io)
   - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
-- [wappalyzer](https://github.com/AliasIO/wappalyzer)
-  - Identify technology on websites.
-- [bootstrap](https://github.com/twbs/bootstrap)
-  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [playwright](https://github.com/microsoft/playwright)
+  - Node library to automate Chromium, Firefox and WebKit with a single API
+- [vue](https://github.com/vuejs/vue)
+  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [handsontable](https://github.com/handsontable/handsontable)
+  - Handsontable is a JavaScript/HTML5 data grid with spreadsheet look & feel. Available for React, Vue and Angular.
+- [eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import)
+  - ESLint plugin with rules that help validate proper imports.
+- [decentralized-video-chat](https://github.com/ianramzy/decentralized-video-chat)
+  - 🚀 Zipcall.io 🚀 Peer to peer browser video calling platform with unmatched video quality and latency.
+- [junior-recruit-scheduler](https://github.com/jojoldu/junior-recruit-scheduler)
+  - 주니어 개발자 채용 정보
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [vue-cli](https://github.com/vuejs/vue-cli)
+  - 🛠️ Standard Tooling for Vue.js Development
+- [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
+  - ⛄ Possibly the smallest compiler ever
+- [selectize.js](https://github.com/selectize/selectize.js)
+  - Selectize is the hybrid of a textbox and <select> box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.
+- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+- [robintrack](https://github.com/Ameobea/robintrack)
+  - Scrapes the Robinhood API to retrieve + store popularity and price data.
+- [Detox](https://github.com/wix/Detox)
+  - Gray box end-to-end testing and automation framework for mobile apps
+- [jexcel](https://github.com/paulhodel/jexcel)
+  - jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software.
+- [enzyme](https://github.com/enzymejs/enzyme)
+  - JavaScript Testing utilities for React
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [msautocreate](https://github.com/zayabighead/msautocreate)
+  - with cloudflare workers
+- [gutenberg](https://github.com/WordPress/gutenberg)
+  - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
+- [graphql-engine](https://github.com/hasura/graphql-engine)
+  - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+- [taro](https://github.com/NervJS/taro)
+  - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/京东/百度/支付宝/字节跳动/ QQ 小程序/快应用/H5/React Native 等的应用。 https://taro.jd.com/
+- [mocha](https://github.com/mochajs/mocha)
+  - ☕️ simple, flexible, fun javascript test framework for node.js & the browser

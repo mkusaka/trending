@@ -1,51 +1,51 @@
 # rust
-- [nushell](https://github.com/nushell/nushell)
-  - A new type of shell
-- [topngx](https://github.com/gsquire/topngx)
-  - top for NGINX
-- [deno_lint](https://github.com/denoland/deno_lint)
-  - Blazingly fast linter for JavaScript and TypeScript written in Rust
-- [polkadot](https://github.com/paritytech/polkadot)
-  - Polkadot Node Implementation
-- [wasmtime](https://github.com/bytecodealliance/wasmtime)
-  - Standalone JIT-style runtime for WebAssembly, using Cranelift
-- [sqlx](https://github.com/launchbadge/sqlx)
-  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [tinysearch](https://github.com/mre/tinysearch)
   - 🔍 Tiny, full-text search engine for static websites built with Rust and WASM
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [zola](https://github.com/getzola/zola)
-  - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
-- [servo](https://github.com/servo/servo)
-  - The Servo Browser Engine
-- [safer_ffi](https://github.com/getditto/safer_ffi)
-  - Write safer FFI code in Rust without polluting it with unsafe code
-- [sonic](https://github.com/valeriansaliou/sonic)
-  - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
-- [lsd](https://github.com/Peltoche/lsd)
-  - The next gen ls command
-- [talent-plan](https://github.com/pingcap/talent-plan)
-  - open source training courses about distributed database and distributed systemes
-- [mdBook](https://github.com/rust-lang/mdBook)
-  - Create book from markdown files. Like Gitbook but implemented in Rust
-- [quiche](https://github.com/cloudflare/quiche)
-  - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
-- [tui-rs](https://github.com/fdehau/tui-rs)
-  - Build terminal user interfaces and dashboards using Rust
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
-  - Unofficial Bitwarden compatible server written in Rust
-- [vector](https://github.com/timberio/vector)
-  - A lightweight and ultra-fast tool for building observability pipelines
+- [deno_lint](https://github.com/denoland/deno_lint)
+  - Blazingly fast linter for JavaScript and TypeScript written in Rust
 - [openethereum](https://github.com/openethereum/openethereum)
   - Fast and feature-rich multi-network Ethereum client.
-- [rust-blog](https://github.com/pretzelhammer/rust-blog)
-  - Educational blog posts for Rust beginners
-- [docker-compose-wait](https://github.com/ufoscout/docker-compose-wait)
-  - A simple script to wait for other docker images to be started while using docker-compose
-- [ripgrep](https://github.com/BurntSushi/ripgrep)
-  - ripgrep recursively searches directories for a regex pattern
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [examples](https://github.com/actix/examples)
-  - Actix web examples
+- [996.ICU](https://github.com/996icu/996.ICU)
+  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [create-your-own-lang-with-rust](https://github.com/ehsanmok/create-your-own-lang-with-rust)
+  - Create your own programming language with Rust (WIP)
+- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
+  - Rust bindings to wgpu native library
+- [sonic](https://github.com/valeriansaliou/sonic)
+  - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
+- [polkadot](https://github.com/paritytech/polkadot)
+  - Polkadot Node Implementation
+- [ripgrep-all](https://github.com/phiresky/ripgrep-all)
+  - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+- [tokio](https://github.com/tokio-rs/tokio)
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [rustlings](https://github.com/rust-lang/rustlings)
+  - 🦀 Small exercises to get you used to reading and writing Rust code!
+- [tera](https://github.com/Keats/tera)
+  - A template engine for Rust based on Jinja2/Django
+- [vector](https://github.com/timberio/vector)
+  - A lightweight and ultra-fast tool for building observability pipelines
+- [gfx](https://github.com/gfx-rs/gfx)
+  - A low-overhead Vulkan-like GPU API for Rust.
+- [indy-sdk](https://github.com/hyperledger/indy-sdk)
+  - Everything needed to build applications that interact with an Indy distributed identity ledger.
+- [async-graphql](https://github.com/async-graphql/async-graphql)
+  - A GraphQL server library implemented in Rust
+- [nushell](https://github.com/nushell/nushell)
+  - A new type of shell
+- [tide](https://github.com/http-rs/tide)
+  - Fast and friendly HTTP server framework for async Rust
+- [starship](https://github.com/starship/starship)
+  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [quiche](https://github.com/cloudflare/quiche)
+  - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+- [learnrust](https://github.com/inancgumus/learnrust)
+  - ❤️ I started learning Rust, if you wanna join me, welcome!
+- [book](https://github.com/rust-lang/book)
+  - The Rust Programming Language
+- [wasmtime](https://github.com/bytecodealliance/wasmtime)
+  - Standalone JIT-style runtime for WebAssembly, using Cranelift
+- [rusoto](https://github.com/rusoto/rusoto)
+  - AWS SDK for Rust
+- [iced](https://github.com/hecrj/iced)
+  - A cross-platform GUI library for Rust, inspired by Elm

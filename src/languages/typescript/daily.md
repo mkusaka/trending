@@ -1,51 +1,51 @@
 # typescript
-- [streamlit](https://github.com/streamlit/streamlit)
-  - Streamlit — The fastest way to build custom ML tools
-- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-  - The repository for high quality TypeScript type definitions.
-- [vue-next](https://github.com/vuejs/vue-next)
-  - Repo for Vue 3.0 (currently in beta)
-- [components](https://github.com/angular/components)
-  - Component infrastructure and Material Design components for Angular
-- [vscode](https://github.com/microsoft/vscode)
-  - Visual Studio Code
-- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
-  - The source for REST API specifications for Microsoft Azure.
-- [azuredatastudio](https://github.com/microsoft/azuredatastudio)
-  - Azure Data Studio is a data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
-- [model-viewer](https://github.com/google/model-viewer)
-  - Easily display interactive 3D models on the web and in AR!
 - [theia](https://github.com/eclipse-theia/theia)
   - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [TypeScript](https://github.com/microsoft/TypeScript)
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [vuetify](https://github.com/vuetifyjs/vuetify)
-  - 🐉 Material Component Framework for Vue
+- [streamlit](https://github.com/streamlit/streamlit)
+  - Streamlit — The fastest way to build custom ML tools
+- [blueprint](https://github.com/palantir/blueprint)
+  - A React-based UI toolkit for the web
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form)
   - 📋 React hooks for forms validation without the hassle (Web + React Native)
-- [vscode-cpptools](https://github.com/microsoft/vscode-cpptools)
-  - Official repository for the Microsoft C/C++ extension for VS Code.
-- [flipper](https://github.com/facebook/flipper)
-  - A desktop debugging platform for mobile developers.
-- [loopback-next](https://github.com/strongloop/loopback-next)
-  - LoopBack makes it easy to build modern API applications that require complex integrations.
-- [apollo-client](https://github.com/apollographql/apollo-client)
-  - 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
-- [prisma](https://github.com/prisma/prisma)
-  - Modern DB toolkit to query, migrate and model your database
+- [bulletproof-nodejs](https://github.com/santiq/bulletproof-nodejs)
+  - Implementation of a bulletproof node.js API 🛡️
+- [typeorm](https://github.com/typeorm/typeorm)
+  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+- [vscode](https://github.com/microsoft/vscode)
+  - Visual Studio Code
+- [lens](https://github.com/lensapp/lens)
+  - Lens - The Kubernetes IDE
 - [amis](https://github.com/baidu/amis)
   - 前端低代码框架，通过 JSON 配置就能生成各种后台页面。
-- [msw](https://github.com/mswjs/msw)
-  - Seamless REST/GraphQL API mocking library for browser and Node.
+- [fluentui](https://github.com/microsoft/fluentui)
+  - We've moved! UI Fabric is now Fluent UI - A set of React components for building Microsoft web experiences.
+- [vscode-terraform](https://github.com/hashicorp/vscode-terraform)
+  - A Visual Studio Code extension for Hashicorp Terraform
+- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
+  - The source for REST API specifications for Microsoft Azure.
+- [vue-next](https://github.com/vuejs/vue-next)
+  - Repo for Vue 3.0 (currently in beta)
+- [angularfire](https://github.com/angular/angularfire)
+  - The official Angular library for Firebase.
+- [platform](https://github.com/ngrx/platform)
+  - Reactive libraries for Angular
+- [n8n](https://github.com/n8n-io/n8n)
+  - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+- [deno](https://github.com/denoland/deno)
+  - A secure JavaScript and TypeScript runtime
+- [flipper](https://github.com/facebook/flipper)
+  - A desktop debugging platform for mobile developers.
+- [xstate](https://github.com/davidkpiano/xstate)
+  - State machines and statecharts for the modern web.
+- [rrweb](https://github.com/rrweb-io/rrweb)
+  - record and replay the web
+- [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
+  - Tasks for Azure Pipelines
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro)
   - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
-- [vscode-go](https://github.com/microsoft/vscode-go)
-  - An extension for VS Code which provides support for the Go language. We have moved to https://github.com/golang/vscode-go
-- [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
-  - ✨ Monorepo for all the tooling which enables ESLint to support TypeScript
-- [storybook](https://github.com/storybookjs/storybook)
-  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
-- [nest](https://github.com/nestjs/nest)
-  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-- [aws-cdk](https://github.com/aws/aws-cdk)
-  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+- [apollo-client](https://github.com/apollographql/apollo-client)
+  - 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
+- [angular-cli](https://github.com/angular/angular-cli)
+  - CLI tool for Angular
+- [ionic](https://github.com/ionic-team/ionic)
+  - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
