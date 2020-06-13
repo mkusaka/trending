@@ -1,51 +1,51 @@
 # typescript
-- [theia](https://github.com/eclipse-theia/theia)
-  - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [streamlit](https://github.com/streamlit/streamlit)
-  - Streamlit — The fastest way to build custom ML tools
-- [blueprint](https://github.com/palantir/blueprint)
-  - A React-based UI toolkit for the web
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
-  - 📋 React hooks for forms validation without the hassle (Web + React Native)
-- [bulletproof-nodejs](https://github.com/santiq/bulletproof-nodejs)
-  - Implementation of a bulletproof node.js API 🛡️
-- [typeorm](https://github.com/typeorm/typeorm)
-  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-- [vscode](https://github.com/microsoft/vscode)
-  - Visual Studio Code
-- [lens](https://github.com/lensapp/lens)
-  - Lens - The Kubernetes IDE
-- [amis](https://github.com/baidu/amis)
-  - 前端低代码框架，通过 JSON 配置就能生成各种后台页面。
-- [fluentui](https://github.com/microsoft/fluentui)
-  - We've moved! UI Fabric is now Fluent UI - A set of React components for building Microsoft web experiences.
-- [vscode-terraform](https://github.com/hashicorp/vscode-terraform)
-  - A Visual Studio Code extension for Hashicorp Terraform
-- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
-  - The source for REST API specifications for Microsoft Azure.
-- [vue-next](https://github.com/vuejs/vue-next)
-  - Repo for Vue 3.0 (currently in beta)
-- [angularfire](https://github.com/angular/angularfire)
-  - The official Angular library for Firebase.
-- [platform](https://github.com/ngrx/platform)
-  - Reactive libraries for Angular
-- [n8n](https://github.com/n8n-io/n8n)
-  - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+- [cypress-realworld-app](https://github.com/cypress-io/cypress-realworld-app)
+  - A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.
+- [excalidraw](https://github.com/excalidraw/excalidraw)
+  - Virtual whiteboard for sketching hand-drawn like diagrams
 - [deno](https://github.com/denoland/deno)
   - A secure JavaScript and TypeScript runtime
-- [flipper](https://github.com/facebook/flipper)
-  - A desktop debugging platform for mobile developers.
-- [xstate](https://github.com/davidkpiano/xstate)
-  - State machines and statecharts for the modern web.
-- [rrweb](https://github.com/rrweb-io/rrweb)
-  - record and replay the web
-- [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
-  - Tasks for Azure Pipelines
-- [ant-design-pro](https://github.com/ant-design/ant-design-pro)
-  - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
+- [vscode](https://github.com/microsoft/vscode)
+  - Visual Studio Code
+- [redoc](https://github.com/Redocly/redoc)
+  - 📘 OpenAPI/Swagger-generated API Reference Documentation
+- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
+  - The source for REST API specifications for Microsoft Azure.
+- [kibana](https://github.com/elastic/kibana)
+  - Your window into the Elastic Stack
+- [vuetify](https://github.com/vuetifyjs/vuetify)
+  - 🐉 Material Component Framework for Vue
+- [amis](https://github.com/baidu/amis)
+  - 前端低代码框架，通过 JSON 配置就能生成各种后台页面。
+- [VoTT](https://github.com/microsoft/VoTT)
+  - Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.
+- [NativeScript](https://github.com/NativeScript/NativeScript)
+  - NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
+- [code-server](https://github.com/cdr/code-server)
+  - VS Code in the browser
+- [remax](https://github.com/remaxjs/remax)
+  - 使用真正的 React 构建跨平台小程序
+- [material-components-web](https://github.com/material-components/material-components-web)
+  - Modular and customizable Material Design UI components for the web
+- [angular](https://github.com/angular/angular)
+  - One framework. Mobile & desktop.
+- [nest](https://github.com/nestjs/nest)
+  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [fluentui](https://github.com/microsoft/fluentui)
+  - We've moved! UI Fabric is now Fluent UI - A set of React components for building Microsoft web experiences.
+- [rxjs](https://github.com/ReactiveX/rxjs)
+  - A reactive programming library for JavaScript
+- [G2](https://github.com/antvis/G2)
+  - 📊 A highly interactive data-driven visualization grammar for statistical charts.
 - [apollo-client](https://github.com/apollographql/apollo-client)
   - 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
-- [angular-cli](https://github.com/angular/angular-cli)
-  - CLI tool for Angular
-- [ionic](https://github.com/ionic-team/ionic)
-  - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
+- [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
+  - 💬 The most complete chat UI for React Native
+- [components](https://github.com/angular/components)
+  - Component infrastructure and Material Design components for Angular
+- [lightweight-charts](https://github.com/tradingview/lightweight-charts)
+  - Financial lightweight charts built with HTML5 canvas
+- [qiankun](https://github.com/umijs/qiankun)
+  - 📦 🚀 Blazing fast, simple and completed solution for micro frontends.
+- [flipper](https://github.com/facebook/flipper)
+  - A desktop debugging platform for mobile developers.
