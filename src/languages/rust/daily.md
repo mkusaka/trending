@@ -1,51 +1,51 @@
 # rust
-- [tinysearch](https://github.com/mre/tinysearch)
-  - 🔍 Tiny, full-text search engine for static websites built with Rust and WASM
+- [druid](https://github.com/xi-editor/druid)
+  - A data-first Rust-native UI design toolkit.
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [amethyst](https://github.com/amethyst/amethyst)
+  - Data-oriented and data-driven game engine written in Rust
 - [wasmtime](https://github.com/bytecodealliance/wasmtime)
   - Standalone JIT-style runtime for WebAssembly, using Cranelift
-- [polkadot](https://github.com/paritytech/polkadot)
-  - Polkadot Node Implementation
-- [WASI](https://github.com/WebAssembly/WASI)
-  - WebAssembly System Interface
-- [rusoto](https://github.com/rusoto/rusoto)
-  - AWS SDK for Rust
-- [tide](https://github.com/http-rs/tide)
-  - Fast and friendly HTTP server framework for async Rust
-- [vector](https://github.com/timberio/vector)
-  - A lightweight and ultra-fast tool for building observability pipelines
-- [shredder](https://github.com/Others/shredder)
-  - Garbage collected smart pointers for Rust
-- [learnrust](https://github.com/inancgumus/learnrust)
-  - ❤️ I started learning Rust, if you wanna join me, welcome!
-- [deno_lint](https://github.com/denoland/deno_lint)
-  - Blazing fast linter for JavaScript and TypeScript written in Rust
-- [hyper](https://github.com/hyperium/hyper)
-  - An HTTP library for Rust
-- [examples](https://github.com/actix/examples)
-  - Actix web examples
-- [serde](https://github.com/serde-rs/serde)
-  - Serialization framework for Rust
-- [openethereum](https://github.com/openethereum/openethereum)
-  - Fast and feature-rich multi-network Ethereum client.
+- [diesel](https://github.com/diesel-rs/diesel)
+  - A safe, extensible ORM and Query Builder for Rust
 - [libra](https://github.com/libra/libra)
   - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [ruffle](https://github.com/ruffle-rs/ruffle)
-  - A Flash Player emulator written in Rust
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
-- [quiche](https://github.com/cloudflare/quiche)
-  - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
-- [sqlx](https://github.com/launchbadge/sqlx)
-  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-- [jsparagus](https://github.com/mozilla-spidermonkey/jsparagus)
-  - Parser generators
-- [rusty_v8](https://github.com/denoland/rusty_v8)
-  - V8 javascript bindings for Rust
-- [glsp](https://github.com/fleabitdev/glsp)
-  - The GameLisp scripting language
-- [sonic](https://github.com/valeriansaliou/sonic)
-  - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
+- [WASI](https://github.com/WebAssembly/WASI)
+  - WebAssembly System Interface
+- [wrangler](https://github.com/cloudflare/wrangler)
+  - 🤠 wrangle your cloudflare workers
+- [cargo](https://github.com/rust-lang/cargo)
+  - The Rust package manager
+- [servo](https://github.com/servo/servo)
+  - The Servo Browser Engine
+- [juniper](https://github.com/graphql-rust/juniper)
+  - GraphQL server library for Rust
+- [rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2)
+  - SDL2 bindings for Rust
+- [spotify-tui](https://github.com/Rigellute/spotify-tui)
+  - Spotify for the terminal written in Rust 🚀
+- [warp](https://github.com/seanmonstar/warp)
+  - A super-easy, composable, web server framework for warp speeds.
+- [starship](https://github.com/starship/starship)
+  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [tokio](https://github.com/tokio-rs/tokio)
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [fortraith](https://github.com/Ashymad/fortraith)
+  - Forth for Rust's trait system
+- [findomain](https://github.com/Edu4rdSHL/findomain)
+  - The fastest and cross-platform subdomain enumerator, do not waste your time.
+- [rustup](https://github.com/rust-lang/rustup)
+  - The Rust toolchain installer
+- [vector](https://github.com/timberio/vector)
+  - A lightweight and ultra-fast tool for building observability pipelines
 - [wgpu](https://github.com/gfx-rs/wgpu)
   - Native WebGPU implementation based on gfx-hal
+- [examples](https://github.com/actix/examples)
+  - Actix web examples
+- [Rocket](https://github.com/SergioBenitez/Rocket)
+  - A web framework for Rust.
+- [rustfmt](https://github.com/rust-lang/rustfmt)
+  - Format Rust code
+- [gfx](https://github.com/gfx-rs/gfx)
+  - A low-overhead Vulkan-like GPU API for Rust.

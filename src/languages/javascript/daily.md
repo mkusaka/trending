@@ -1,51 +1,51 @@
 # javascript
-- [playwright](https://github.com/microsoft/playwright)
-  - Node library to automate Chromium, Firefox and WebKit with a single API
-- [stegcloak](https://github.com/KuroLabs/stegcloak)
-  - Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐
-- [audino](https://github.com/midas-research/audino)
-  - Open source audio annotation tool for humans™
-- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
-  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-- [next-auth](https://github.com/iaincollins/next-auth)
-  - An authentication library for Next.js projects
-- [xgenecloud](https://github.com/xgenecloud/xgenecloud)
-  - 🔥 🔥 Instantly generate REST & GraphQL APIs on any Database (Supports : MySQL, PostgreSQL, MsSQL, SQLite, MariaDB)
-- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
-  - Revive unavailable songs for Netease Cloud Music
-- [handsontable](https://github.com/handsontable/handsontable)
-  - Handsontable is a JavaScript/HTML5 data grid with spreadsheet look & feel. Available for React, Vue and Angular.
-- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
-  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
-- [history](https://github.com/ReactTraining/history)
-  - Manage session history with JavaScript
-- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
-  - Bypass Paywalls web browser extension for Chrome and Firefox.
-- [sheetjs](https://github.com/SheetJS/sheetjs)
-  - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
-- [juice-shop](https://github.com/bkimminich/juice-shop)
-  - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
-- [content](https://github.com/nuxt/content)
-  - Write in a content/ directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
+- [iptv](https://github.com/iptv-org/iptv)
+  - Collection of 8000+ publicly available IPTV channels from all over the world
 - [shapez.io](https://github.com/tobspr/shapez.io)
   - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
-- [lerna](https://github.com/lerna/lerna)
-  - 🐉 A tool for managing JavaScript projects with multiple packages.
-- [js13k2019-yet-another-doom-clone](https://github.com/carlini/js13k2019-yet-another-doom-clone)
-  - Yet another doom clone (in 13kb of JavaScript)
-- [adarkroom](https://github.com/doublespeakgames/adarkroom)
-  - A Dark Room - A Minimalist Text Adventure
-- [Luckysheet](https://github.com/mengshukeji/Luckysheet)
-  - Luckysheet ，一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源。
+- [playwright](https://github.com/microsoft/playwright)
+  - Node library to automate Chromium, Firefox and WebKit with a single API
+- [htmx](https://github.com/bigskysoftware/htmx)
+  - </> htmx - high power tools for HTML
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [audino](https://github.com/midas-research/audino)
+  - Open source audio annotation tool for humans™
+- [devconnector_2.0](https://github.com/bradtraversy/devconnector_2.0)
+  - Social network for developers, built on the MERN stack
+- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
+  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+- [AdminLTE](https://github.com/ColorlibHQ/AdminLTE)
+  - AdminLTE - Free admin dashboard template based on Bootstrap 4
+- [Script](https://github.com/NobyDa/Script)
+  - This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.
+- [gatsby](https://github.com/gatsbyjs/gatsby)
+  - Build blazing fast, modern apps and websites with React
+- [curso-javascript-ninja](https://github.com/da2k/curso-javascript-ninja)
+  - Curso Javascript Ninja
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
   - 📜 33 concepts every JavaScript developer should know.
-- [decentralized-video-chat](https://github.com/ianramzy/decentralized-video-chat)
-  - 🚀 Zipcall.io 🚀 Peer to peer browser video calling platform with unmatched video quality and latency.
-- [vant](https://github.com/youzan/vant)
-  - Lightweight Mobile UI Components built on Vue
-- [spug](https://github.com/openspug/spug)
-  - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
-- [testcafe](https://github.com/DevExpress/testcafe)
-  - A Node.js tool to automate end-to-end web testing.
-- [javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions)
-  - List of 1000 JavaScript Interview Questions
+- [next.js](https://github.com/vercel/next.js)
+  - The React Framework
+- [vue-source](https://github.com/zhufengzhufeng/vue-source)
+  - 
+- [cinnamon](https://github.com/linuxmint/cinnamon)
+  - A Linux desktop featuring a traditional layout, built from modern technology and introducing brand new innovative features.
+- [svelte](https://github.com/sveltejs/svelte)
+  - Cybernetically enhanced web apps
+- [adarkroom](https://github.com/doublespeakgames/adarkroom)
+  - A Dark Room - A Minimalist Text Adventure
+- [leetcode](https://github.com/azl397985856/leetcode)
+  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+- [v4](https://github.com/bchiang7/v4)
+  - Fourth iteration of my personal website
+- [next-auth](https://github.com/iaincollins/next-auth)
+  - An authentication library for Next.js projects
+- [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+  - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
+- [stegcloak](https://github.com/KuroLabs/stegcloak)
+  - Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐
+- [Recoil](https://github.com/facebookexperimental/Recoil)
+  - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
