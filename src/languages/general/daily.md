@@ -1,51 +1,51 @@
 # general
-- [yolov5](https://github.com/ultralytics/yolov5) : Jupyter Notebook
-  - YOLOv5 in PyTorch > ONNX > CoreML > iOS
-- [hamler](https://github.com/hamler-lang/hamler) : Haskell
-  - Haskell-style functional programming language running on Erlang VM.
 - [cortex](https://github.com/cortexlabs/cortex) : Go
   - Build machine learning APIs
-- [nlp](https://github.com/huggingface/nlp) : Python
-  - 🤗 nlp: datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow
-- [playwright](https://github.com/microsoft/playwright) : JavaScript
-  - Node library to automate Chromium, Firefox and WebKit with a single API
-- [cypress-realworld-app](https://github.com/cypress-io/cypress-realworld-app) : TypeScript
-  - A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.
-- [awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications) : 
-  - Google Cloud Platform Certification resources.
-- [CVPR2020-Code](https://github.com/amusi/CVPR2020-Code) : 
-  - CVPR 2020 论文开源项目合集
-- [mmf](https://github.com/facebookresearch/mmf) : Python
-  - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
-- [us-potus-model](https://github.com/TheEconomist/us-potus-model) : HTML
-  - Code for a dynamic multilevel Bayesian model to predict US presidential elections. Written in R and Stan.
+- [lede](https://github.com/coolsnowwolf/lede) : C
+  - Lean's OpenWrt source
+- [nodejsscan](https://github.com/ajinabraham/nodejsscan) : CSS
+  - nodejsscan is a static security code scanner for Node.js applications.
+- [deno](https://github.com/denoland/deno) : TypeScript
+  - A secure JavaScript and TypeScript runtime
+- [TheFrenchGhostys-YouTube-DL-Archivist-Scripts](https://github.com/TheFrenchGhosty/TheFrenchGhostys-YouTube-DL-Archivist-Scripts) : Shell
+  - The ultimate collection of scripts for YouTube-DL.
+- [iptv](https://github.com/iptv-org/iptv) : JavaScript
+  - Collection of 8000+ publicly available IPTV channels from all over the world
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
   - A long list of (advanced) JavaScript questions, and their explanations ✨
-- [blackhat-python3](https://github.com/EONRaider/blackhat-python3) : Python
-  - Source code for the book "Black Hat Python" by Justin Seitz. The code has been fully converted to Python 3, reformatted to comply with PEP8 standards and refactored to eliminate issues of dependency resolution involving deprecated libraries.
+- [fastai](https://github.com/fastai/fastai) : Jupyter Notebook
+  - The fastai deep learning library, plus lessons and tutorials
+- [ant-design-vue](https://github.com/vueComponent/ant-design-vue) : Vue
+  - An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) : PHP
   - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
-- [stegcloak](https://github.com/KuroLabs/stegcloak) : JavaScript
-  - Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐
-- [audino](https://github.com/midas-research/audino) : JavaScript
-  - Open source audio annotation tool for humans™
-- [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) : PowerShell
-  - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
+- [yolov5](https://github.com/ultralytics/yolov5) : Jupyter Notebook
+  - YOLOv5 in PyTorch > ONNX > CoreML > iOS
+- [you-get](https://github.com/soimort/you-get) : Python
+  - ⏬ Dumb downloader that scrapes the web
+- [hamler](https://github.com/hamler-lang/hamler) : Haskell
+  - Haskell-style functional programming language running on Erlang VM.
 - [managers-playbook](https://github.com/ksindi/managers-playbook) : 
   - 📖 Heuristics for effective management
+- [etcher](https://github.com/balena-io/etcher) : TypeScript
+  - Flash OS images to SD cards & USB drives, safely and easily.
+- [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) : PowerShell
+  - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
+- [wwdc](https://github.com/twostraws/wwdc) : 
+  - WWDC Community: Learning and sharing together
+- [Arduino](https://github.com/esp8266/Arduino) : C
+  - ESP8266 core for Arduino
+- [shapez.io](https://github.com/tobspr/shapez.io) : JavaScript
+  - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
+  - 📚 Freely available programming books
 - [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) : HTML
   - A curated list of awesome warez and piracy links
-- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) : JavaScript
-  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-- [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) : Go
-  - 📚 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
-- [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) : C#
-  - Xamarin.Forms Official Home
-- [Quantum](https://github.com/microsoft/Quantum) : PowerShell
-  - Microsoft Quantum Development Kit Samples
-- [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) : 
-  - The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
-- [AFNetworking](https://github.com/AFNetworking/AFNetworking) : Objective-C
-  - A delightful networking framework for iOS, macOS, watchOS, and tvOS.
-- [violent-python3](https://github.com/EONRaider/violent-python3) : Python
-  - Source code for the book "Violent Python" by TJ O'Connor. The code has been fully converted to Python 3, reformatted to comply with PEP8 standards and refactored to eliminate issues involving the implementation of deprecated libraries.
+- [vapor](https://github.com/vapor/vapor) : Swift
+  - 💧 A server-side Swift web framework.
+- [playwright](https://github.com/microsoft/playwright) : JavaScript
+  - Node library to automate Chromium, Firefox and WebKit with a single API
+- [mmf](https://github.com/facebookresearch/mmf) : Python
+  - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
+- [Marlin](https://github.com/MarlinFirmware/Marlin) : C++
+  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
