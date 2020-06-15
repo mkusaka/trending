@@ -1,51 +1,48 @@
 # general
-- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) : C++
-  - C++那些事
+- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) : JavaScript
+  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+- [genetic-drawing](https://github.com/anopara/genetic-drawing) : Python
+  - A genetic algorithm toy project for drawing
+- [lihang-code](https://github.com/fengdu78/lihang-code) : Jupyter Notebook
+  - 《统计学习方法》的代码实现
+- [CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) : C++
+- [printf-tac-toe](https://github.com/carlini/printf-tac-toe) : C
+  - tic-tac-toe in a single call to printf
+- [defund12.org](https://github.com/defund12/defund12.org) : TypeScript
+  - defund12.org
+- [decentralized-video-chat](https://github.com/ianramzy/decentralized-video-chat) : JavaScript
+  - 🚀 Zipcall.io 🚀 Peer to peer browser video calling platform with unmatched video quality and latency.
+- [mmf](https://github.com/facebookresearch/mmf) : Python
+  - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
+- [cortex](https://github.com/cortexlabs/cortex) : Go
+  - Build machine learning APIs
+- [Arduino](https://github.com/arduino/Arduino) : Java
+  - open-source electronics platform
+- [community](https://github.com/GoogleCloudPlatform/community) : Java
+  - This repository holds the content submitted to https://cloud.google.com/community. Files added to the tutorials/ will appear at https://cloud.google.com/community/tutorials.
+- [password-manager-resources](https://github.com/apple/password-manager-resources) : JavaScript
+  - A place for creators and users of password managers to collaborate on resources to make password management better.
+- [grpc-go](https://github.com/grpc/grpc-go) : Go
+  - The Go language implementation of gRPC. HTTP/2 based RPC
+- [Apollo-11](https://github.com/chrislgarry/Apollo-11) : Assembly
+  - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+- [shardingsphere](https://github.com/apache/shardingsphere) : Java
+  - Distributed database middleware
 - [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) : Kotlin
   - Native Android app using the Apple/Google exposure notification API.
-- [cwa-app-ios](https://github.com/corona-warn-app/cwa-app-ios) : Swift
-  - Native iOS app using the exposure notification framework from Apple.
-- [practical-python](https://github.com/dabeaz-course/practical-python) : Python
-  - Practical Python Programming (course by @dabeaz)
-- [flutter_hrlweibo](https://github.com/huangruiLearn/flutter_hrlweibo) : Dart
-  - Flutter仿微博客户端, 包含首页、视频、发现、消息(仿微博聊界面)及个人中心模块
-- [detr](https://github.com/facebookresearch/detr) : Python
-  - End-to-End Object Detection with Transformers
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) : JavaScript
-  - ✅ The Node.js best practices list (June 2020)
-- [taichi](https://github.com/taichi-dev/taichi) : C++
-  - Productive & portable programming language for high-performance, sparse & differentiable computing
-- [OSX-KVM](https://github.com/kholia/OSX-KVM) : Shell
-  - Run macOS on QEMU/KVM. With OpenCore Now! No free support is provided. Open PR(s) to fix problems.
-- [substrate](https://github.com/paritytech/substrate) : Rust
-  - Substrate: The platform for blockchain innovators
-- [DeepFaceLab](https://github.com/iperov/DeepFaceLab) : Python
-  - DeepFaceLab is the leading software for creating deepfakes.
-- [textshot](https://github.com/ianzhao05/textshot) : Python
-  - Python tool for grabbing text via screenshot
+- [fastapi](https://github.com/tiangolo/fastapi) : Python
+  - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) : PowerShell
+  - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
+- [playwright](https://github.com/microsoft/playwright) : JavaScript
+  - Node library to automate Chromium, Firefox and WebKit with a single API
 - [avatarify](https://github.com/alievk/avatarify) : Python
   - Avatars for Zoom, Skype and other video-conferencing apps.
-- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) : JavaScript
-  - The iconic SVG, font, and CSS toolkit
-- [Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) : Jupyter Notebook
-  - 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
-- [k9s](https://github.com/derailed/k9s) : Go
-  - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) : Vue
-  - vue-admin-beautiful是一款绝佳的前端开发框架（基于vue/cli 4 最新版，同时支持电脑，手机，平板）,长期更新维护,感谢您的star,我一直在努力 Vue admin beautiful is an excellent front-end development framework (supporting computers, mobile phones and tablets at the same time), long-term update and maintenance, thank you for your star, I have been working hard
-- [fastjson](https://github.com/alibaba/fastjson) : Java
-  - A fast JSON parser/generator for Java.
-- [django-rest-framework](https://github.com/encode/django-rest-framework) : Python
-  - Web APIs for Django. 🎸
-- [OpenRA](https://github.com/OpenRA/OpenRA) : C#
-  - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
-- [jetbrains-reset-trial-evaluation-mac](https://github.com/alexatiks/jetbrains-reset-trial-evaluation-mac) : Shell
-  - Reset Intellij IDEA, WebStorm, DataGrip, PhpStorm, CLion, PyCharm, RubyMine, GoLand and Rider evaluation (2019 / 2020 / Mac OS)
-- [d2l-en](https://github.com/d2l-ai/d2l-en) : Python
-  - An interactive deep learning book with code, math, and discussions.
-- [swr](https://github.com/vercel/swr) : TypeScript
-  - React Hooks library for remote data fetching
-- [go-interview](https://github.com/shomali11/go-interview) : Go
-  - Collection of Technical Interview Questions solved with Go
-- [MeiliSearch](https://github.com/meilisearch/MeiliSearch) : Rust
-  - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
+- [cwa-app-ios](https://github.com/corona-warn-app/cwa-app-ios) : Swift
+  - Native iOS app using the exposure notification framework from Apple.
+- [Quantum](https://github.com/microsoft/Quantum) : PowerShell
+  - Microsoft Quantum Development Kit Samples
+- [face_recognition](https://github.com/ageitgey/face_recognition) : Python
+  - The world's simplest facial recognition api for Python and the command line
+- [outline](https://github.com/outline/outline) : JavaScript
+  - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
