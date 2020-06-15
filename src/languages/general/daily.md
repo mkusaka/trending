@@ -1,51 +1,51 @@
 # general
-- [cortex](https://github.com/cortexlabs/cortex) : Go
-  - Build machine learning APIs
+- [twint](https://github.com/twintproject/twint) : Python
+  - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 - [lede](https://github.com/coolsnowwolf/lede) : C
   - Lean's OpenWrt source
-- [nodejsscan](https://github.com/ajinabraham/nodejsscan) : CSS
-  - nodejsscan is a static security code scanner for Node.js applications.
-- [deno](https://github.com/denoland/deno) : TypeScript
-  - A secure JavaScript and TypeScript runtime
-- [TheFrenchGhostys-YouTube-DL-Archivist-Scripts](https://github.com/TheFrenchGhosty/TheFrenchGhostys-YouTube-DL-Archivist-Scripts) : Shell
-  - The ultimate collection of scripts for YouTube-DL.
-- [iptv](https://github.com/iptv-org/iptv) : JavaScript
-  - Collection of 8000+ publicly available IPTV channels from all over the world
-- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
-  - A long list of (advanced) JavaScript questions, and their explanations ✨
-- [fastai](https://github.com/fastai/fastai) : Jupyter Notebook
-  - The fastai deep learning library, plus lessons and tutorials
-- [ant-design-vue](https://github.com/vueComponent/ant-design-vue) : Vue
-  - An enterprise-class UI components based on Ant Design and Vue. 🐜
-- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) : PHP
-  - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
-- [yolov5](https://github.com/ultralytics/yolov5) : Jupyter Notebook
-  - YOLOv5 in PyTorch > ONNX > CoreML > iOS
-- [you-get](https://github.com/soimort/you-get) : Python
-  - ⏬ Dumb downloader that scrapes the web
-- [hamler](https://github.com/hamler-lang/hamler) : Haskell
-  - Haskell-style functional programming language running on Erlang VM.
-- [managers-playbook](https://github.com/ksindi/managers-playbook) : 
-  - 📖 Heuristics for effective management
-- [etcher](https://github.com/balena-io/etcher) : TypeScript
-  - Flash OS images to SD cards & USB drives, safely and easily.
-- [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) : PowerShell
-  - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
-- [wwdc](https://github.com/twostraws/wwdc) : 
-  - WWDC Community: Learning and sharing together
-- [Arduino](https://github.com/esp8266/Arduino) : C
-  - ESP8266 core for Arduino
-- [shapez.io](https://github.com/tobspr/shapez.io) : JavaScript
-  - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) : HTML
-  - A curated list of awesome warez and piracy links
-- [vapor](https://github.com/vapor/vapor) : Swift
-  - 💧 A server-side Swift web framework.
+- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) : Kotlin
+  - Native Android app using the Apple/Google exposure notification API.
 - [playwright](https://github.com/microsoft/playwright) : JavaScript
   - Node library to automate Chromium, Firefox and WebKit with a single API
-- [mmf](https://github.com/facebookresearch/mmf) : Python
-  - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
+- [gpt-3](https://github.com/openai/gpt-3) : 
+  - GPT-3: Language Models are Few-Shot Learners
+- [cortex](https://github.com/cortexlabs/cortex) : Go
+  - Build machine learning APIs
+- [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) : C
+  - OpenCore bootloader
+- [cwa-server](https://github.com/corona-warn-app/cwa-server) : Java
+  - Backend implementation for the Apple/Google exposure notification API.
 - [Marlin](https://github.com/MarlinFirmware/Marlin) : C++
   - Optimized firmware for RepRap 3D printers based on the Arduino platform.
+- [myDrive](https://github.com/subnub/myDrive) : JavaScript
+  - Node.js and mongoDB Google Drive Clone
+- [tunic](https://github.com/mikeslattery/tunic) : PowerShell
+  - Install Linux from a running Windows system, without need for a live USB.
+- [iptv](https://github.com/iptv-org/iptv) : JavaScript
+  - Collection of 8000+ publicly available IPTV channels from all over the world
+- [QuantumultX](https://github.com/nzw9314/QuantumultX) : 
+  - QuantumultX
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
+  - 📚 Freely available programming books
+- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
+  - A long list of (advanced) JavaScript questions, and their explanations ✨
+- [devconnector_2.0](https://github.com/bradtraversy/devconnector_2.0) : JavaScript
+  - Social network for developers, built on the MERN stack
+- [avatarify](https://github.com/alievk/avatarify) : Python
+  - Avatars for Zoom, Skype and other video-conferencing apps.
+- [you-get](https://github.com/soimort/you-get) : Python
+  - ⏬ Dumb downloader that scrapes the web
+- [koreader](https://github.com/koreader/koreader) : Lua
+  - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
+- [wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) : TypeScript
+  - 💬 🤖 The most advanced NodeJS whatsapp library for chatbots with advanced features. Be sure to 🌟 this repository for updates!
+- [violent-python3](https://github.com/EONRaider/violent-python3) : Python
+  - Source code for the book "Violent Python" by TJ O'Connor. The code has been fully converted to Python 3, reformatted to comply with PEP8 standards and refactored to eliminate dependency issues involving the implementation of deprecated libraries.
+- [imgui](https://github.com/ocornut/imgui) : C++
+  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+- [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) : Shell
+  - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
+- [deno](https://github.com/denoland/deno) : TypeScript
+  - A secure JavaScript and TypeScript runtime
+- [termux-packages](https://github.com/termux/termux-packages) : Shell
+  - Android terminal and Linux environment - packages repository.
