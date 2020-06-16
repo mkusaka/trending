@@ -1,51 +1,51 @@
 # javascript
-- [playwright](https://github.com/microsoft/playwright)
-  - Node library to automate Chromium, Firefox and WebKit with a single API
-- [myDrive](https://github.com/subnub/myDrive)
-  - Node.js and mongoDB Google Drive Clone
+- [subscription-use-cases](https://github.com/stripe-samples/subscription-use-cases)
+  - 
+- [engine](https://github.com/cocos-creator/engine)
+  - Cocos Creator is a complete package of game development tools and workflow, including a game engine, resource management, scene editing, game preview, debug and publish one project to multiple platforms.
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+  - Headless Chrome Node.js API
+- [google-meet-grid-view](https://github.com/Fugiman/google-meet-grid-view)
+  - Userscript to offer a grid-view layout in Google Meets
+- [bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker)
+  - A datepicker for twitter bootstrap (@twbs)
+- [mattermost-webapp](https://github.com/mattermost/mattermost-webapp)
+  - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
+- [sequelize](https://github.com/sequelize/sequelize)
+  - An easy-to-use multi SQL dialect ORM for Node.js
+- [Vulkan-Docs](https://github.com/KhronosGroup/Vulkan-Docs)
+  - The Vulkan API Specification and related tools
 - [iptv](https://github.com/iptv-org/iptv)
   - Collection of 8000+ publicly available IPTV channels from all over the world
-- [devconnector_2.0](https://github.com/bradtraversy/devconnector_2.0)
-  - Social network for developers, built on the MERN stack
-- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
-  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [Script](https://github.com/NobyDa/Script)
-  - This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.
-- [joplin](https://github.com/laurent22/joplin)
-  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
-- [v4](https://github.com/bchiang7/v4)
-  - Fourth iteration of my personal website
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
-- [svelte](https://github.com/sveltejs/svelte)
-  - Cybernetically enhanced web apps
-- [decentralized-video-chat](https://github.com/ianramzy/decentralized-video-chat)
-  - 🚀 Zipcall.io 🚀 Peer to peer browser video calling platform with unmatched video quality and latency.
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
-  - Starter files, final projects and FAQ for my Complete JavaScript course
-- [shapez.io](https://github.com/tobspr/shapez.io)
-  - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-  - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
-- [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
-  - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
-- [MagicMirror](https://github.com/MichMich/MagicMirror)
-  - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
-- [covid19india-react](https://github.com/covid19india/covid19india-react)
-  - Tracking the impact of COVID-19 in India
-- [JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions)
-  - JavaScript Regular expressions made easy
-- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
-  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
-- [p5.js](https://github.com/processing/p5.js)
-  - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
-- [next-auth](https://github.com/iaincollins/next-auth)
-  - Easy authentication for Next.js and Serverless
-- [foliate](https://github.com/johnfactotum/foliate)
-  - A simple and modern GTK eBook reader
-- [three.js](https://github.com/mrdoob/three.js)
-  - JavaScript 3D library.
-- [node_passport_login](https://github.com/bradtraversy/node_passport_login)
-  - Node.js login, registration and access control using Express and Passport
-- [node-react-ecommerce](https://github.com/basir/node-react-ecommerce)
-  - Build ECommerce Website Like Amazon By React & Node & MongoDB
+- [graduation](https://github.com/education/graduation)
+  - $ git remote <graduation> yearbook
+- [nuxt.js](https://github.com/nuxt/nuxt.js)
+  - The Intuitive Vue Framework
+- [magnetW](https://github.com/xiandanin/magnetW)
+  - 磁力链接聚合搜索
+- [sjcl](https://github.com/bitwiseshiftleft/sjcl)
+  - Stanford Javascript Crypto Library
+- [aws-sdk-js](https://github.com/aws/aws-sdk-js)
+  - AWS SDK for JavaScript in the browser and Node.js
+- [alpine](https://github.com/alpinejs/alpine)
+  - A rugged, minimal framework for composing JavaScript behavior in your markup.
+- [mermaid](https://github.com/mermaid-js/mermaid)
+  - Generation of diagram and flowchart from text in a similar manner as markdown
+- [parcel](https://github.com/parcel-bundler/parcel)
+  - 📦🚀 Blazing fast, zero configuration web application bundler
+- [myDrive](https://github.com/subnub/myDrive)
+  - Node.js and mongoDB Google Drive Clone
+- [gutenberg](https://github.com/WordPress/gutenberg)
+  - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
+- [deck.gl](https://github.com/visgl/deck.gl)
+  - WebGL2 powered geospatial visualization layers
+- [mocha](https://github.com/mochajs/mocha)
+  - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
+- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
+  - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+- [cors-anywhere](https://github.com/Rob--W/cors-anywhere)
+  - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
+- [openlayers](https://github.com/openlayers/openlayers)
+  - OpenLayers
+- [covid19-forecast-hub](https://github.com/reichlab/covid19-forecast-hub)
+  - Projections of COVID-19, in standardized format
