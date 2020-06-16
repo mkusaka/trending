@@ -1,51 +1,50 @@
 # general
-- [twint](https://github.com/twintproject/twint) : Python
-  - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
-- [lede](https://github.com/coolsnowwolf/lede) : C
-  - Lean's OpenWrt source
-- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) : Kotlin
-  - Native Android app using the Apple/Google exposure notification API.
-- [playwright](https://github.com/microsoft/playwright) : JavaScript
-  - Node library to automate Chromium, Firefox and WebKit with a single API
-- [gpt-3](https://github.com/openai/gpt-3) : 
-  - GPT-3: Language Models are Few-Shot Learners
-- [cortex](https://github.com/cortexlabs/cortex) : Go
-  - Build machine learning APIs
-- [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) : C
-  - OpenCore bootloader
+- [pifuhd](https://github.com/facebookresearch/pifuhd) : Python
+  - High-Resolution 3D Human Digitization from A Single Image.
 - [cwa-server](https://github.com/corona-warn-app/cwa-server) : Java
   - Backend implementation for the Apple/Google exposure notification API.
-- [Marlin](https://github.com/MarlinFirmware/Marlin) : C++
-  - Optimized firmware for RepRap 3D printers based on the Arduino platform.
-- [myDrive](https://github.com/subnub/myDrive) : JavaScript
-  - Node.js and mongoDB Google Drive Clone
-- [tunic](https://github.com/mikeslattery/tunic) : PowerShell
-  - Install Linux from a running Windows system, without need for a live USB.
-- [iptv](https://github.com/iptv-org/iptv) : JavaScript
-  - Collection of 8000+ publicly available IPTV channels from all over the world
-- [QuantumultX](https://github.com/nzw9314/QuantumultX) : 
-  - QuantumultX
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
+- [json](https://github.com/nlohmann/json) : C++
+  - JSON for Modern C++
+- [pulse](https://github.com/adamian98/pulse) : Python
+  - PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
+- [wikileaks-9-11-files](https://github.com/gadsden0/wikileaks-9-11-files) : 
+  - The files from the United States government on 9/11, released by wiki leaks.
+- [lede](https://github.com/coolsnowwolf/lede) : C
+  - Lean's OpenWrt source
+- [vault](https://github.com/hashicorp/vault) : Go
+  - A tool for secrets management, encryption as a service, and privileged access management
+- [cwa-verification-server](https://github.com/corona-warn-app/cwa-verification-server) : Java
+  - Backend implementation of the verification process
+- [AZ-204-DevelopingSolutionsforMicrosoftAzure](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure) : C#
+  - AZ-204: Developing solutions for Microsoft Azure
+- [integrations-core](https://github.com/DataDog/integrations-core) : Python
+  - Core integrations of the Datadog Agent
+- [testcontainers-java](https://github.com/testcontainers/testcontainers-java) : Java
+  - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+- [mbed-os](https://github.com/ARMmbed/mbed-os) : C
+  - Arm Mbed OS is a platform operating system designed for the internet of things
+- [css.gg](https://github.com/astrit/css.gg) : CSS
+  - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
   - A long list of (advanced) JavaScript questions, and their explanations ✨
-- [devconnector_2.0](https://github.com/bradtraversy/devconnector_2.0) : JavaScript
-  - Social network for developers, built on the MERN stack
-- [avatarify](https://github.com/alievk/avatarify) : Python
-  - Avatars for Zoom, Skype and other video-conferencing apps.
-- [you-get](https://github.com/soimort/you-get) : Python
-  - ⏬ Dumb downloader that scrapes the web
-- [koreader](https://github.com/koreader/koreader) : Lua
-  - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
-- [wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) : TypeScript
-  - 💬 🤖 The most advanced NodeJS whatsapp library for chatbots with advanced features. Be sure to 🌟 this repository for updates!
-- [violent-python3](https://github.com/EONRaider/violent-python3) : Python
-  - Source code for the book "Violent Python" by TJ O'Connor. The code has been fully converted to Python 3, reformatted to comply with PEP8 standards and refactored to eliminate dependency issues involving the implementation of deprecated libraries.
-- [imgui](https://github.com/ocornut/imgui) : C++
-  - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
-- [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) : Shell
-  - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
-- [deno](https://github.com/denoland/deno) : TypeScript
-  - A secure JavaScript and TypeScript runtime
-- [termux-packages](https://github.com/termux/termux-packages) : Shell
-  - Android terminal and Linux environment - packages repository.
+- [FairMOT](https://github.com/ifzhang/FairMOT) : Python
+  - A simple baseline for one-shot multi-object tracking
+- [faker](https://github.com/faker-ruby/faker) : Ruby
+  - A library for generating fake data such as names, addresses, and phone numbers.
+- [mbedtls](https://github.com/ARMmbed/mbedtls) : C
+  - An open source, portable, easy to use, readable and flexible SSL library
+- [ModSecurity](https://github.com/SpiderLabs/ModSecurity) : C++
+  - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
+- [gpt-3](https://github.com/openai/gpt-3) : 
+  - GPT-3: Language Models are Few-Shot Learners
+- [material-ui-pickers](https://github.com/mui-org/material-ui-pickers) : TypeScript
+  - Date & Time pickers, built with ❤️ for @material-ui/core
+- [argo-cd](https://github.com/argoproj/argo-cd) : Go
+  - Declarative continuous deployment for Kubernetes.
+- [Alamofire](https://github.com/Alamofire/Alamofire) : Swift
+  - Elegant HTTP Networking in Swift
+- [AZ-301-MicrosoftAzureArchitectDesign](https://github.com/MicrosoftLearning/AZ-301-MicrosoftAzureArchitectDesign) : PowerShell
+- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs) : TypeScript
+  - The source for REST API specifications for Microsoft Azure.
+- [microsoft-graph-docs](https://github.com/microsoftgraph/microsoft-graph-docs) : PowerShell
+  - Documentation for the Microsoft Graph REST API
