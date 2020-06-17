@@ -1,51 +1,51 @@
 # ruby
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
+  - Metasploit Framework
 - [faker](https://github.com/faker-ruby/faker)
   - A library for generating fake data such as names, addresses, and phone numbers.
-- [chatwoot](https://github.com/chatwoot/chatwoot)
-  - Open-source live chat software 🔥💬
-- [fluentd](https://github.com/fluent/fluentd)
-  - Fluentd: Unified Logging Layer (project under CNCF)
-- [devise](https://github.com/heartcombo/devise)
-  - Flexible authentication solution for Rails with Warden.
-- [scalelite](https://github.com/blindsidenetworks/scalelite)
-  - Scalable load balancer for BigBlueButton.
-- [fastlane](https://github.com/fastlane/fastlane)
-  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [rails](https://github.com/rails/rails)
   - Ruby on Rails
-- [faraday](https://github.com/lostisland/faraday)
-  - Simple, but flexible HTTP client library, with support for multiple backends.
-- [openproject](https://github.com/opf/openproject)
-  - OpenProject is the leading open source project management software.
-- [spree](https://github.com/spree/spree)
-  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
-- [setup](https://github.com/lewagon/setup)
-  - Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp
-- [ruby-saml](https://github.com/onelogin/ruby-saml)
-  - SAML SSO for Ruby
-- [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)
-  - Simple one-liner tests for common Rails functionality
-- [strong_migrations](https://github.com/ankane/strong_migrations)
-  - Catch unsafe migrations in development
-- [rspec-core](https://github.com/rspec/rspec-core)
-  - RSpec runner and formatters
+- [devise](https://github.com/heartcombo/devise)
+  - Flexible authentication solution for Rails with Warden.
+- [webpacker](https://github.com/rails/webpacker)
+  - Use Webpack to manage app-like JavaScript modules in Rails
+- [brew](https://github.com/Homebrew/brew)
+  - 🍺 The missing package manager for macOS (or Linux)
 - [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
   - Ruby implementation of GraphQL
-- [capybara](https://github.com/teamcapybara/capybara)
-  - Acceptance test framework for web applications
-- [redis-rb](https://github.com/redis/redis-rb)
-  - A Ruby client library for Redis
-- [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch)
-  - Ansible playbook for Elasticsearch
-- [redmine](https://github.com/redmine/redmine)
-  - Mirror of redmine code source - Official SVN repository is at https://svn.redmine.org/redmine - contact: @jbbarth or jeanbaptiste.barth (at) gmail (dot) com
-- [active_model_serializers](https://github.com/rails-api/active_model_serializers)
-  - ActiveModel::Serializer implementation and Rails hooks
-- [rspec-mocks](https://github.com/rspec/rspec-mocks)
-  - RSpec's 'test double' framework, with support for stubbing and mocking
-- [activeadmin](https://github.com/activeadmin/activeadmin)
-  - The administration framework for Ruby on Rails applications.
-- [httparty](https://github.com/jnunemaker/httparty)
-  - 🎉 Makes http fun again!
-- [stripe-ruby](https://github.com/stripe/stripe-ruby)
-  - Ruby library for the Stripe API.
+- [spree](https://github.com/spree/spree)
+  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
+- [greenlight](https://github.com/bigbluebutton/greenlight)
+  - A really simple end-user interface for your BigBlueButton server.
+- [mastodon](https://github.com/tootsuite/mastodon)
+  - Your self-hosted, globally interconnected microblogging community
+- [datoji](https://github.com/davidesantangelo/datoji)
+  - A tiny JSON storage service. Create, Read, Update, Delete and Search JSON data.
+- [ruby](https://github.com/ruby/ruby)
+  - The Ruby Programming Language [mirror]
+- [say-hello-ruby-onl01-seng-pt-061520](https://github.com/learn-co-students/say-hello-ruby-onl01-seng-pt-061520)
+  - 
+- [debugging-with-pry-onl01-seng-pt-061520](https://github.com/learn-co-students/debugging-with-pry-onl01-seng-pt-061520)
+  - 
+- [parrot-ruby-onl01-seng-pt-061520](https://github.com/learn-co-students/parrot-ruby-onl01-seng-pt-061520)
+  - 
+- [speaking-grandma-onl01-seng-ft-061520](https://github.com/learn-co-students/speaking-grandma-onl01-seng-ft-061520)
+  - 
+- [method-scope-lab-onl01-seng-ft-061520](https://github.com/learn-co-students/method-scope-lab-onl01-seng-ft-061520)
+  - 
+- [mscoutermarsh](https://github.com/mscoutermarsh/mscoutermarsh)
+  - SECRETS!
+- [sinatra-nested-forms-onl01-seng-ft-050420](https://github.com/learn-co-students/sinatra-nested-forms-onl01-seng-ft-050420)
+  - 
+- [sinatra-basic-forms-lab-onl01-seng-ft-050420](https://github.com/learn-co-students/sinatra-basic-forms-lab-onl01-seng-ft-050420)
+  - 
+- [method-scope-lab-onl01-seng-pt-061520](https://github.com/learn-co-students/method-scope-lab-onl01-seng-pt-061520)
+  - 
+- [debugging-with-pry-onl01-seng-ft-061520](https://github.com/learn-co-students/debugging-with-pry-onl01-seng-ft-061520)
+  - 
+- [operators-onl01-seng-ft-061520](https://github.com/learn-co-students/operators-onl01-seng-ft-061520)
+  - 
+- [method-arguments-lab-onl01-seng-pt-061520](https://github.com/learn-co-students/method-arguments-lab-onl01-seng-pt-061520)
+  - 
+- [sinatra-nested-forms-lab-superheros-onl01-seng-ft-050420](https://github.com/learn-co-students/sinatra-nested-forms-lab-superheros-onl01-seng-ft-050420)
+  - 
