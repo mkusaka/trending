@@ -1,51 +1,51 @@
 # rust
-- [piet-gpu](https://github.com/linebender/piet-gpu)
-  - An experimental GPU compute-centric 2D renderer.
-- [rustls](https://github.com/ctz/rustls)
-  - A modern TLS library in Rust
 - [gitui](https://github.com/extrawurst/gitui)
   - blazing fast terminal-ui for git written in rust
-- [cargo](https://github.com/rust-lang/cargo)
-  - The Rust package manager
-- [tauri](https://github.com/tauri-apps/tauri)
-  - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
+- [tyrade](https://github.com/willcrichton/tyrade)
+  - Tyrade: a pure functional language for type-level programming in Rust
+- [ruffle](https://github.com/ruffle-rs/ruffle)
+  - A Flash Player emulator written in Rust
 - [amethyst](https://github.com/amethyst/amethyst)
   - Data-oriented and data-driven game engine written in Rust
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [substrate](https://github.com/paritytech/substrate)
-  - Substrate: The platform for blockchain innovators
-- [druid](https://github.com/xi-editor/druid)
-  - A data-first Rust-native UI design toolkit.
-- [quiche](https://github.com/cloudflare/quiche)
-  - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [bat](https://github.com/sharkdp/bat)
-  - A cat(1) clone with wings.
+- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+  - 📚 Learn to write an embedded OS in Rust 🦀
+- [tikv](https://github.com/tikv/tikv)
+  - Distributed transactional key-value database, originally created to complement TiDB
+- [choose](https://github.com/theryangeary/choose)
+  - A human-friendly and fast alternative to cut and (sometimes) awk
+- [Rocket](https://github.com/SergioBenitez/Rocket)
+  - A web framework for Rust.
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
+- [rust-libp2p](https://github.com/libp2p/rust-libp2p)
+  - The Rust Implementation of libp2p networking stack.
+- [materialize](https://github.com/MaterializeInc/materialize)
+  - The Streaming SQL Database powered by Timely Dataflow
+- [actix](https://github.com/actix/actix)
+  - Actor framework for Rust
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix web is a small, pragmatic, and extremely fast rust web framework.
+- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
+  - Rust bindings to wgpu native library
+- [rustup](https://github.com/rust-lang/rustup)
+  - The Rust toolchain installer
+- [ggez](https://github.com/ggez/ggez)
+  - Rust library to create a Good Game Easily
+- [tauri](https://github.com/tauri-apps/tauri)
+  - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
+- [parking_lot](https://github.com/Amanieu/parking_lot)
+  - Compact and efficient synchronization primitives for Rust. Also provides an API for creating custom synchronization primitives.
+- [async-channel](https://github.com/stjepang/async-channel)
+  - Async multi-producer multi-consumer channel
+- [crossbeam](https://github.com/crossbeam-rs/crossbeam)
+  - Tools for concurrent programming in Rust
+- [flamegraph](https://github.com/flamegraph-rs/flamegraph)
+  - Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3
+- [wezterm](https://github.com/wez/wezterm)
+  - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [warp](https://github.com/seanmonstar/warp)
+  - A super-easy, composable, web server framework for warp speeds.
+- [cargo-geiger](https://github.com/rust-secure-code/cargo-geiger)
+  - Detects usage of unsafe Rust in a Rust crate and its dependencies.
 - [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
   - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
-- [nom](https://github.com/Geal/nom)
-  - Rust parser combinator framework
-- [deno_lint](https://github.com/denoland/deno_lint)
-  - Blazing fast linter for JavaScript and TypeScript written in Rust
-- [smol](https://github.com/stjepang/smol)
-  - A small and fast async runtime for Rust
-- [rust-filecoin-proofs-api](https://github.com/filecoin-project/rust-filecoin-proofs-api)
-  - 
-- [wrangler](https://github.com/cloudflare/wrangler)
-  - 🤠 wrangle your cloudflare workers
-- [miso](https://github.com/tindleaj/miso)
-  - Ambient soundscape generator
-- [tower-http](https://github.com/tower-rs/tower-http)
-  - HTTP specific Tower utilities.
-- [tower-grpc](https://github.com/tower-rs/tower-grpc)
-  - A gRPC client & server implementation.
-- [tokio-connect](https://github.com/carllerche/tokio-connect)
-  - Connect an AsyncRead + AsyncWrite
-- [serde](https://github.com/serde-rs/serde)
-  - Serialization framework for Rust

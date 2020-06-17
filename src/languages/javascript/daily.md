@@ -1,51 +1,51 @@
 # javascript
-- [subscription-use-cases](https://github.com/stripe-samples/subscription-use-cases)
-  - 
-- [engine](https://github.com/cocos-creator/engine)
-  - Cocos Creator is a complete package of game development tools and workflow, including a game engine, resource management, scene editing, game preview, debug and publish one project to multiple platforms.
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [google-meet-grid-view](https://github.com/Fugiman/google-meet-grid-view)
-  - Userscript to offer a grid-view layout in Google Meets
-- [bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker)
-  - A datepicker for twitter bootstrap (@twbs)
-- [mattermost-webapp](https://github.com/mattermost/mattermost-webapp)
-  - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
-- [sequelize](https://github.com/sequelize/sequelize)
-  - An easy-to-use multi SQL dialect ORM for Node.js
-- [Vulkan-Docs](https://github.com/KhronosGroup/Vulkan-Docs)
-  - The Vulkan API Specification and related tools
-- [iptv](https://github.com/iptv-org/iptv)
-  - Collection of 8000+ publicly available IPTV channels from all over the world
-- [graduation](https://github.com/education/graduation)
-  - $ git remote <graduation> yearbook
-- [nuxt.js](https://github.com/nuxt/nuxt.js)
-  - The Intuitive Vue Framework
 - [magnetW](https://github.com/xiandanin/magnetW)
   - 磁力链接聚合搜索
-- [sjcl](https://github.com/bitwiseshiftleft/sjcl)
-  - Stanford Javascript Crypto Library
-- [aws-sdk-js](https://github.com/aws/aws-sdk-js)
-  - AWS SDK for JavaScript in the browser and Node.js
-- [alpine](https://github.com/alpinejs/alpine)
-  - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [mermaid](https://github.com/mermaid-js/mermaid)
-  - Generation of diagram and flowchart from text in a similar manner as markdown
-- [parcel](https://github.com/parcel-bundler/parcel)
-  - 📦🚀 Blazing fast, zero configuration web application bundler
-- [myDrive](https://github.com/subnub/myDrive)
-  - Node.js and mongoDB Google Drive Clone
-- [gutenberg](https://github.com/WordPress/gutenberg)
-  - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
-- [deck.gl](https://github.com/visgl/deck.gl)
-  - WebGL2 powered geospatial visualization layers
-- [mocha](https://github.com/mochajs/mocha)
-  - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
+- [vue](https://github.com/vuejs/vue)
+  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [Cactus-app](https://github.com/MasterTeus/Cactus-app)
+  - 
+- [curso-javascript-ninja](https://github.com/da2k/curso-javascript-ninja)
+  - Curso Javascript Ninja
+- [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
+  - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
+- [decentralized-video-chat](https://github.com/ianramzy/decentralized-video-chat)
+  - 🚀 Zipcall.io 🚀 Peer to peer browser video calling platform with unmatched video quality and latency.
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+  - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
+- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
+  - 🕸 Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [hackathon-starter](https://github.com/sahat/hackathon-starter)
+  - A boilerplate for Node.js web applications
+- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
+  - 🚀🚀🚀A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.
+- [styled-components](https://github.com/styled-components/styled-components)
+  - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
+- [JavaGuide-Interview](https://github.com/Snailclimb/JavaGuide-Interview)
+  - JavaGuide面试突击版
+- [PythonSpider](https://github.com/DingZaiHub/PythonSpider)
+  - JS逆向系列教程，模拟登录，AES、RSA、DES加密等，持续更新，欢迎 star！
+- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
+  - Bypass Paywalls web browser extension for Chrome and Firefox.
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [realworld](https://github.com/gothinkster/realworld)
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
   - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
-- [cors-anywhere](https://github.com/Rob--W/cors-anywhere)
-  - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
-- [openlayers](https://github.com/openlayers/openlayers)
-  - OpenLayers
-- [covid19-forecast-hub](https://github.com/reichlab/covid19-forecast-hub)
-  - Projections of COVID-19, in standardized format
+- [vue-echarts](https://github.com/ecomfe/vue-echarts)
+  - ECharts component for Vue.js.
+- [sharedb](https://github.com/share/sharedb)
+  - Realtime database backend based on Operational Transformation (OT)
+- [responsively-app](https://github.com/manojVivek/responsively-app)
+  - A modified browser that helps in responsive web development.
+- [MrDoc](https://github.com/zmister2016/MrDoc)
+  - 基于Python开发的在线文档系统，适合作为个人和小型团队的文档、笔记、知识管理工具。a online document system developed based on python. It is suitable for individuals and small teams to manage documents, knowledge and notes.
+- [jumpserver](https://github.com/jumpserver/jumpserver)
+  - JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。
+- [electron-vue-music](https://github.com/SmallRuralDog/electron-vue-music)
+  - 基于 electron-vue 开发的音乐播放器，界面模仿QQ音乐，技术栈electron-vue+vue+vuex+vue-router+element- UI。欢迎star
+- [date-fns](https://github.com/date-fns/date-fns)
+  - ⏳ Modern JavaScript date utility library ⌛️
