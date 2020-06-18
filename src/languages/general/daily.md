@@ -1,51 +1,50 @@
 # general
-- [cwa-documentation](https://github.com/corona-warn-app/cwa-documentation) : TeX
-  - Project overview, general documentation, and white papers.
-- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) : Kotlin
-  - Native Android app using the Apple/Google exposure notification API.
-- [cwa-website](https://github.com/corona-warn-app/cwa-website) : CSS
-  - Corona-Warn-App website
-- [cwa-server](https://github.com/corona-warn-app/cwa-server) : Java
-  - Backend implementation for the Apple/Google exposure notification API.
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
-  - 🤓 Build your own (insert technology here)
-- [cwa-app-ios](https://github.com/corona-warn-app/cwa-app-ios) : Swift
-  - Native iOS app using the exposure notification framework from Apple.
-- [byob](https://github.com/malwaredllc/byob) : Python
-  - BYOB (Build Your Own Botnet)
-- [pifuhd](https://github.com/facebookresearch/pifuhd) : Python
-  - High-Resolution 3D Human Digitization from A Single Image.
-- [wikileaks-9-11-files](https://github.com/gadsden0/wikileaks-9-11-files) : 
-  - The files from the United States government on 9/11, released by wiki leaks.
-- [100knocks-preprocess](https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess) : HTML
-  - データサイエンス100本ノック（構造化データ加工編）
-- [cwa-verification-server](https://github.com/corona-warn-app/cwa-verification-server) : Java
-  - Backend implementation of the verification process
-- [magnetW](https://github.com/xiandanin/magnetW) : JavaScript
-  - 磁力链接聚合搜索
-- [pkgsite](https://github.com/golang/pkgsite) : Go
-  - [mirror] Home of the pkg.go.dev website
-- [stylegan2](https://github.com/NVlabs/stylegan2) : Python
-  - StyleGAN2 - Official TensorFlow Implementation
 - [davinci](https://github.com/edp963/davinci) : TypeScript
   - Davinci is a DVsaaS (Data Visualization as a Service) Platform
-- [pulse](https://github.com/adamian98/pulse) : Python
-  - PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
-- [css.gg](https://github.com/astrit/css.gg) : CSS
-  - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
-- [piranha](https://github.com/uber/piranha) : Java
-  - A tool for refactoring code related to feature flag APIs
-- [quadrilateralcowboy](https://github.com/blendogames/quadrilateralcowboy) : C++
-  - Source code for Quadrilateral Cowboy (2016)
+- [lens](https://github.com/lensapp/lens) : TypeScript
+  - Lens - The Kubernetes IDE
+- [azure-docs](https://github.com/MicrosoftDocs/azure-docs) : PowerShell
+  - Open source documentation of Microsoft Azure
+- [pifuhd](https://github.com/facebookresearch/pifuhd) : Python
+  - High-Resolution 3D Human Digitization from A Single Image.
+- [hooks](https://github.com/alibaba/hooks) : TypeScript
+  - React Hooks Library
+- [cwa-documentation](https://github.com/corona-warn-app/cwa-documentation) : TeX
+  - Project overview, general documentation, and white papers.
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
+  - 🤓 Build your own (insert technology here)
+- [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) : Go
+  - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
+- [cwa-website](https://github.com/corona-warn-app/cwa-website) : CSS
+  - Corona-Warn-App website
+- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) : Kotlin
+  - Native Android app using the Apple/Google exposure notification API.
+- [cwa-server](https://github.com/corona-warn-app/cwa-server) : Java
+  - Backend implementation for the Apple/Google exposure notification API.
+- [PARL](https://github.com/PaddlePaddle/PARL) : Python
+  - PARL A high-performance distributed training framework for Reinforcement Learning
+- [Boop](https://github.com/IvanMathy/Boop) : Swift
+  - A scriptable scratchpad for developers. In slow yet steady progress.
+- [OpenSelfSup](https://github.com/open-mmlab/OpenSelfSup) : Python
+  - Self-Supervised Learning Toolbox and Benchmark
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) : Jupyter Notebook
   - Python - 100天从新手到大师
-- [multi-task-NLP](https://github.com/hellohaptik/multi-task-NLP) : Python
-  - multi_task_NLP is a utility toolkit enabling NLP developers to easily train and infer a single model for multiple tasks.
-- [aws-cdk](https://github.com/aws/aws-cdk) : TypeScript
-  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [Python-Core-50-Courses](https://github.com/jackfrued/Python-Core-50-Courses) : 
   - Python语言基础50课
-- [vue](https://github.com/vuejs/vue) : JavaScript
-  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [Awesome-GEE](https://github.com/giswqs/Awesome-GEE) : 
-  - A curated list of Google Earth Engine resources
+- [silq](https://github.com/eth-sri/silq) : D
+- [cwa-verification-server](https://github.com/corona-warn-app/cwa-verification-server) : Java
+  - Backend implementation of the verification process
+- [pulse](https://github.com/adamian98/pulse) : Python
+  - PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
+- [springcloud-learning](https://github.com/macrozheng/springcloud-learning) : Java
+  - 一套涵盖大部分核心组件使用的Spring Cloud教程，包括Spring Cloud Alibaba及分布式事务Seata，基于Spring Cloud Greenwich及SpringBoot 2.1.7。20篇文章，篇篇精华，30个Demo，涵盖大部分应用场景。
+- [cwa-app-ios](https://github.com/corona-warn-app/cwa-app-ios) : Swift
+  - Native iOS app using the exposure notification framework from Apple.
+- [100knocks-preprocess](https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess) : HTML
+  - データサイエンス100本ノック（構造化データ加工編）
+- [bootstrap](https://github.com/twbs/bootstrap) : JavaScript
+  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [galaxy-integrations-python-api](https://github.com/gogcom/galaxy-integrations-python-api) : Python
+  - NOTE: Please report here only issues related to the python API. Issues and general feedback regarding the Galaxy Client 2.0 shall be sent via Galaxy Client menu
+- [practical-python](https://github.com/dabeaz-course/practical-python) : Python
+  - Practical Python Programming (course by @dabeaz)
