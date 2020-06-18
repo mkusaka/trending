@@ -1,51 +1,51 @@
 # rust
+- [cloudformation-guard](https://github.com/aws-cloudformation/cloudformation-guard)
+  - [PREVIEW] A set of tools to check AWS CloudFormation templates for policy compliance using a simple, policy-as-code, declarative syntax
 - [gitui](https://github.com/extrawurst/gitui)
   - blazing fast terminal-ui for git written in rust
-- [tyrade](https://github.com/willcrichton/tyrade)
-  - Tyrade: a pure functional language for type-level programming in Rust
-- [ruffle](https://github.com/ruffle-rs/ruffle)
-  - A Flash Player emulator written in Rust
-- [amethyst](https://github.com/amethyst/amethyst)
-  - Data-oriented and data-driven game engine written in Rust
-- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
-  - 📚 Learn to write an embedded OS in Rust 🦀
-- [tikv](https://github.com/tikv/tikv)
-  - Distributed transactional key-value database, originally created to complement TiDB
-- [choose](https://github.com/theryangeary/choose)
-  - A human-friendly and fast alternative to cut and (sometimes) awk
-- [Rocket](https://github.com/SergioBenitez/Rocket)
-  - A web framework for Rust.
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-  - A curated list of Rust code and resources.
-- [rust-libp2p](https://github.com/libp2p/rust-libp2p)
-  - The Rust Implementation of libp2p networking stack.
-- [materialize](https://github.com/MaterializeInc/materialize)
-  - The Streaming SQL Database powered by Timely Dataflow
-- [actix](https://github.com/actix/actix)
-  - Actor framework for Rust
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix web is a small, pragmatic, and extremely fast rust web framework.
-- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
-  - Rust bindings to wgpu native library
-- [rustup](https://github.com/rust-lang/rustup)
-  - The Rust toolchain installer
-- [ggez](https://github.com/ggez/ggez)
-  - Rust library to create a Good Game Easily
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
+- [druid](https://github.com/xi-editor/druid)
+  - A data-first Rust-native UI design toolkit.
 - [tauri](https://github.com/tauri-apps/tauri)
   - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
-- [parking_lot](https://github.com/Amanieu/parking_lot)
-  - Compact and efficient synchronization primitives for Rust. Also provides an API for creating custom synchronization primitives.
-- [async-channel](https://github.com/stjepang/async-channel)
-  - Async multi-producer multi-consumer channel
-- [crossbeam](https://github.com/crossbeam-rs/crossbeam)
-  - Tools for concurrent programming in Rust
-- [flamegraph](https://github.com/flamegraph-rs/flamegraph)
-  - Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3
-- [wezterm](https://github.com/wez/wezterm)
-  - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [materialize](https://github.com/MaterializeInc/materialize)
+  - The Streaming SQL Database powered by Timely Dataflow
 - [warp](https://github.com/seanmonstar/warp)
   - A super-easy, composable, web server framework for warp speeds.
-- [cargo-geiger](https://github.com/rust-secure-code/cargo-geiger)
-  - Detects usage of unsafe Rust in a Rust crate and its dependencies.
-- [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
-  - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
+- [crossbeam](https://github.com/crossbeam-rs/crossbeam)
+  - Tools for concurrent programming in Rust
+- [structopt](https://github.com/TeXitoi/structopt)
+  - Parse command line arguments by defining a struct.
+- [book](https://github.com/rust-lang/book)
+  - The Rust Programming Language
+- [nom](https://github.com/Geal/nom)
+  - Rust parser combinator framework
+- [firecracker](https://github.com/firecracker-microvm/firecracker)
+  - Secure and fast microVMs for serverless computing.
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
+- [sccache](https://github.com/mozilla/sccache)
+  - sccache is ccache with cloud storage
+- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+  - 📚 Learn to write an embedded OS in Rust 🦀
+- [swc](https://github.com/swc-project/swc)
+  - Super-fast typescript / javascript compiler written in rust
+- [tokio](https://github.com/tokio-rs/tokio)
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [tonic](https://github.com/hyperium/tonic)
+  - A native gRPC client & server implementation with async/await support.
+- [alacritty](https://github.com/alacritty/alacritty)
+  - A cross-platform, GPU-accelerated terminal emulator
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
+- [ggez](https://github.com/ggez/ggez)
+  - Rust library to create a Good Game Easily
+- [996.ICU](https://github.com/996icu/996.ICU)
+  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [openethereum](https://github.com/openethereum/openethereum)
+  - Fast and feature-rich multi-network Ethereum client.

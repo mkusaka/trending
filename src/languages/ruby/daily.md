@@ -1,51 +1,51 @@
 # ruby
-- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
-  - Metasploit Framework
-- [faker](https://github.com/faker-ruby/faker)
-  - A library for generating fake data such as names, addresses, and phone numbers.
-- [rails](https://github.com/rails/rails)
-  - Ruby on Rails
-- [devise](https://github.com/heartcombo/devise)
-  - Flexible authentication solution for Rails with Warden.
-- [webpacker](https://github.com/rails/webpacker)
-  - Use Webpack to manage app-like JavaScript modules in Rails
-- [brew](https://github.com/Homebrew/brew)
-  - 🍺 The missing package manager for macOS (or Linux)
-- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
-  - Ruby implementation of GraphQL
-- [spree](https://github.com/spree/spree)
-  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
-- [greenlight](https://github.com/bigbluebutton/greenlight)
-  - A really simple end-user interface for your BigBlueButton server.
 - [mastodon](https://github.com/tootsuite/mastodon)
   - Your self-hosted, globally interconnected microblogging community
-- [datoji](https://github.com/davidesantangelo/datoji)
-  - A tiny JSON storage service. Create, Read, Update, Delete and Search JSON data.
+- [fastlane](https://github.com/fastlane/fastlane)
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [chef](https://github.com/chef/chef)
+  - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
+- [sinatra](https://github.com/sinatra/sinatra)
+  - Classy web-development dressed in a DSL (official / canonical repo)
+- [logstash](https://github.com/elastic/logstash)
+  - Logstash - transport and process your logs, events, or other data
+- [vagrant](https://github.com/hashicorp/vagrant)
+  - Vagrant is a tool for building and distributing development environments.
+- [brew](https://github.com/Homebrew/brew)
+  - 🍺 The missing package manager for macOS (or Linux)
+- [spree](https://github.com/spree/spree)
+  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
 - [ruby](https://github.com/ruby/ruby)
   - The Ruby Programming Language [mirror]
-- [say-hello-ruby-onl01-seng-pt-061520](https://github.com/learn-co-students/say-hello-ruby-onl01-seng-pt-061520)
-  - 
-- [debugging-with-pry-onl01-seng-pt-061520](https://github.com/learn-co-students/debugging-with-pry-onl01-seng-pt-061520)
-  - 
-- [parrot-ruby-onl01-seng-pt-061520](https://github.com/learn-co-students/parrot-ruby-onl01-seng-pt-061520)
-  - 
-- [speaking-grandma-onl01-seng-ft-061520](https://github.com/learn-co-students/speaking-grandma-onl01-seng-ft-061520)
-  - 
-- [method-scope-lab-onl01-seng-ft-061520](https://github.com/learn-co-students/method-scope-lab-onl01-seng-ft-061520)
-  - 
-- [mscoutermarsh](https://github.com/mscoutermarsh/mscoutermarsh)
-  - SECRETS!
-- [sinatra-nested-forms-onl01-seng-ft-050420](https://github.com/learn-co-students/sinatra-nested-forms-onl01-seng-ft-050420)
-  - 
-- [sinatra-basic-forms-lab-onl01-seng-ft-050420](https://github.com/learn-co-students/sinatra-basic-forms-lab-onl01-seng-ft-050420)
-  - 
-- [method-scope-lab-onl01-seng-pt-061520](https://github.com/learn-co-students/method-scope-lab-onl01-seng-pt-061520)
-  - 
-- [debugging-with-pry-onl01-seng-ft-061520](https://github.com/learn-co-students/debugging-with-pry-onl01-seng-ft-061520)
-  - 
-- [operators-onl01-seng-ft-061520](https://github.com/learn-co-students/operators-onl01-seng-ft-061520)
-  - 
-- [method-arguments-lab-onl01-seng-pt-061520](https://github.com/learn-co-students/method-arguments-lab-onl01-seng-pt-061520)
-  - 
-- [sinatra-nested-forms-lab-superheros-onl01-seng-ft-050420](https://github.com/learn-co-students/sinatra-nested-forms-lab-superheros-onl01-seng-ft-050420)
-  - 
+- [rspec-mocks](https://github.com/rspec/rspec-mocks)
+  - RSpec's 'test double' framework, with support for stubbing and mocking
+- [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews)
+  - Data science interview questions and answers
+- [decidim](https://github.com/decidim/decidim)
+  - The participatory democracy framework. A generator and multiple gems made with Ruby on Rails
+- [puppet](https://github.com/puppetlabs/puppet)
+  - Server automation framework and application
+- [sidekiq](https://github.com/mperham/sidekiq)
+  - Simple, efficient background processing for Ruby
+- [rspec-expectations](https://github.com/rspec/rspec-expectations)
+  - Provides a readable API to express expected outcomes of a code example
+- [ruby-kafka](https://github.com/zendesk/ruby-kafka)
+  - A Ruby client library for Apache Kafka
+- [annotate_models](https://github.com/ctran/annotate_models)
+  - Annotate Rails classes with schema and routes info
+- [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)
+  - Simple one-liner tests for common Rails functionality
+- [dev.to](https://github.com/thepracticaldev/dev.to)
+  - Where programmers share ideas and help each other grow
+- [aasm](https://github.com/aasm/aasm)
+  - AASM - State machines for Ruby classes (plain Ruby, ActiveRecord, Mongoid)
+- [discourse](https://github.com/discourse/discourse)
+  - A platform for community discussion. Free, open, simple.
+- [devise](https://github.com/heartcombo/devise)
+  - Flexible authentication solution for Rails with Warden.
+- [oxidized](https://github.com/ytti/oxidized)
+  - Oxidized is a network device configuration backup tool. It's a RANCID replacement!
+- [rack](https://github.com/rack/rack)
+  - A modular Ruby web server interface.
+- [sendgrid-ruby](https://github.com/sendgrid/sendgrid-ruby)
+  - The Official Twilio SendGrid Led, Community Driven Ruby API Library

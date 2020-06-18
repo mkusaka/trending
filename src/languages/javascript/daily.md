@@ -1,51 +1,51 @@
 # javascript
-- [magnetW](https://github.com/xiandanin/magnetW)
-  - 磁力链接聚合搜索
-- [vue](https://github.com/vuejs/vue)
-  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [Cactus-app](https://github.com/MasterTeus/Cactus-app)
-  - 
-- [curso-javascript-ninja](https://github.com/da2k/curso-javascript-ninja)
-  - Curso Javascript Ninja
-- [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
-  - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
-- [decentralized-video-chat](https://github.com/ianramzy/decentralized-video-chat)
-  - 🚀 Zipcall.io 🚀 Peer to peer browser video calling platform with unmatched video quality and latency.
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-  - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
-- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
-  - 🕸 Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [hackathon-starter](https://github.com/sahat/hackathon-starter)
-  - A boilerplate for Node.js web applications
-- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
-  - 🚀🚀🚀A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.
-- [styled-components](https://github.com/styled-components/styled-components)
-  - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
-- [JavaGuide-Interview](https://github.com/Snailclimb/JavaGuide-Interview)
-  - JavaGuide面试突击版
-- [PythonSpider](https://github.com/DingZaiHub/PythonSpider)
-  - JS逆向系列教程，模拟登录，AES、RSA、DES加密等，持续更新，欢迎 star！
-- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
-  - Bypass Paywalls web browser extension for Chrome and Firefox.
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [realworld](https://github.com/gothinkster/realworld)
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
-  - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
-- [vue-echarts](https://github.com/ecomfe/vue-echarts)
-  - ECharts component for Vue.js.
-- [sharedb](https://github.com/share/sharedb)
-  - Realtime database backend based on Operational Transformation (OT)
+- [bootstrap](https://github.com/twbs/bootstrap)
+  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [responsively-app](https://github.com/manojVivek/responsively-app)
   - A modified browser that helps in responsive web development.
-- [MrDoc](https://github.com/zmister2016/MrDoc)
-  - 基于Python开发的在线文档系统，适合作为个人和小型团队的文档、笔记、知识管理工具。a online document system developed based on python. It is suitable for individuals and small teams to manage documents, knowledge and notes.
-- [jumpserver](https://github.com/jumpserver/jumpserver)
-  - JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。
-- [electron-vue-music](https://github.com/SmallRuralDog/electron-vue-music)
-  - 基于 electron-vue 开发的音乐播放器，界面模仿QQ音乐，技术栈electron-vue+vue+vuex+vue-router+element- UI。欢迎star
-- [date-fns](https://github.com/date-fns/date-fns)
-  - ⏳ Modern JavaScript date utility library ⌛️
+- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
+  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [react-query](https://github.com/tannerlinsley/react-query)
+  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
+  - Bypass Paywalls web browser extension for Chrome and Firefox.
+- [curso-javascript-ninja](https://github.com/da2k/curso-javascript-ninja)
+  - Curso Javascript Ninja
+- [react-native-firebase](https://github.com/invertase/react-native-firebase)
+  - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
+- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
+  - 🕸 Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
+- [vue](https://github.com/vuejs/vue)
+  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [gatsby](https://github.com/gatsbyjs/gatsby)
+  - Build blazing fast, modern apps and websites with React
+- [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
+  - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
+- [eslint](https://github.com/eslint/eslint)
+  - Find and fix problems in your JavaScript code.
+- [alpine](https://github.com/alpinejs/alpine)
+  - A rugged, minimal framework for composing JavaScript behavior in your markup.
+- [node](https://github.com/nodejs/node)
+  - Node.js JavaScript runtime ✨🐢🚀✨
+- [kuboard-press](https://github.com/eip-work/kuboard-press)
+  - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.18 安装手册，(k8s install) 在线答疑，持续更新。
+- [magnetW](https://github.com/xiandanin/magnetW)
+  - 磁力链接聚合搜索
+- [appium](https://github.com/appium/appium)
+  - 📱 Automation for iOS, Android, and Windows Apps.
+- [pipedream](https://github.com/PipedreamHQ/pipedream)
+  - Free, serverless integration and compute platform
+- [office-docs-powershell](https://github.com/MicrosoftDocs/office-docs-powershell)
+  - PowerShell Reference for Office Products - Short URL: aka.ms/office-powershell
+- [netron](https://github.com/lutzroeder/netron)
+  - Visualizer for neural network, deep learning and machine learning models
+- [javascript](https://github.com/airbnb/javascript)
+  - JavaScript Style Guide
+- [ajv](https://github.com/ajv-validator/ajv)
+  - The fastest JSON Schema Validator. Supports draft-04/06/07
+- [cropperjs](https://github.com/fengyuanchen/cropperjs)
+  - JavaScript image cropper.
+- [Fuse](https://github.com/krisk/Fuse)
+  - Lightweight fuzzy-search, in JavaScript
+- [posthog](https://github.com/PostHog/posthog)
+  - 🦔 PostHog is developer-friendly, open-source product analytics.
