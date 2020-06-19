@@ -1,50 +1,49 @@
 # general
+- [expose](https://github.com/beyondcode/expose) : PHP
+  - A beautiful, fully open-source, tunneling service - written in pure PHP
+- [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) : Java
+  - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
+- [pose-animator](https://github.com/yemount/pose-animator) : JavaScript
+- [jupiter](https://github.com/douyu/jupiter) : Go
+  - Jupiter是douyu开源的面向服务治理的Golang微服务框架
 - [davinci](https://github.com/edp963/davinci) : TypeScript
   - Davinci is a DVsaaS (Data Visualization as a Service) Platform
-- [lens](https://github.com/lensapp/lens) : TypeScript
-  - Lens - The Kubernetes IDE
-- [azure-docs](https://github.com/MicrosoftDocs/azure-docs) : PowerShell
-  - Open source documentation of Microsoft Azure
-- [pifuhd](https://github.com/facebookresearch/pifuhd) : Python
-  - High-Resolution 3D Human Digitization from A Single Image.
-- [hooks](https://github.com/alibaba/hooks) : TypeScript
-  - React Hooks Library
-- [cwa-documentation](https://github.com/corona-warn-app/cwa-documentation) : TeX
-  - Project overview, general documentation, and white papers.
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
-  - 🤓 Build your own (insert technology here)
-- [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) : Go
-  - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
-- [cwa-website](https://github.com/corona-warn-app/cwa-website) : CSS
-  - Corona-Warn-App website
-- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) : Kotlin
-  - Native Android app using the Apple/Google exposure notification API.
-- [cwa-server](https://github.com/corona-warn-app/cwa-server) : Java
-  - Backend implementation for the Apple/Google exposure notification API.
-- [PARL](https://github.com/PaddlePaddle/PARL) : Python
-  - PARL A high-performance distributed training framework for Reinforcement Learning
-- [Boop](https://github.com/IvanMathy/Boop) : Swift
-  - A scriptable scratchpad for developers. In slow yet steady progress.
-- [OpenSelfSup](https://github.com/open-mmlab/OpenSelfSup) : Python
-  - Self-Supervised Learning Toolbox and Benchmark
-- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) : Jupyter Notebook
-  - Python - 100天从新手到大师
-- [Python-Core-50-Courses](https://github.com/jackfrued/Python-Core-50-Courses) : 
-  - Python语言基础50课
-- [silq](https://github.com/eth-sri/silq) : D
-- [cwa-verification-server](https://github.com/corona-warn-app/cwa-verification-server) : Java
-  - Backend implementation of the verification process
 - [pulse](https://github.com/adamian98/pulse) : Python
   - PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
-- [springcloud-learning](https://github.com/macrozheng/springcloud-learning) : Java
-  - 一套涵盖大部分核心组件使用的Spring Cloud教程，包括Spring Cloud Alibaba及分布式事务Seata，基于Spring Cloud Greenwich及SpringBoot 2.1.7。20篇文章，篇篇精华，30个Demo，涵盖大部分应用场景。
-- [cwa-app-ios](https://github.com/corona-warn-app/cwa-app-ios) : Swift
-  - Native iOS app using the exposure notification framework from Apple.
-- [100knocks-preprocess](https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess) : HTML
-  - データサイエンス100本ノック（構造化データ加工編）
-- [bootstrap](https://github.com/twbs/bootstrap) : JavaScript
-  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [galaxy-integrations-python-api](https://github.com/gogcom/galaxy-integrations-python-api) : Python
-  - NOTE: Please report here only issues related to the python API. Issues and general feedback regarding the Galaxy Client 2.0 shall be sent via Galaxy Client menu
+- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) : Jupyter Notebook
+  - Python - 100天从新手到大师
+- [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) : Go
+  - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
 - [practical-python](https://github.com/dabeaz-course/practical-python) : Python
   - Practical Python Programming (course by @dabeaz)
+- [zju-icicles](https://github.com/QSCTech/zju-icicles) : C
+  - 浙江大学课程攻略共享计划
+- [Python-Core-50-Courses](https://github.com/jackfrued/Python-Core-50-Courses) : 
+  - Python语言基础50课
+- [image-gpt](https://github.com/openai/image-gpt) : Python
+- [lens](https://github.com/lensapp/lens) : TypeScript
+  - Lens - The Kubernetes IDE
+- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) : Java
+  - 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
+  - 🤓 Build your own (insert technology here)
+- [zoom-e2e-whitepaper](https://github.com/zoom/zoom-e2e-whitepaper) : 
+  - End-to-End Encryption for Zoom Meetings
+- [kubermatic](https://github.com/kubermatic/kubermatic) : Go
+  - The Central Kubernetes Management Platform For Any Infrastructure
+- [detectron2](https://github.com/facebookresearch/detectron2) : Python
+  - Detectron2 is FAIR's next-generation platform for object detection and segmentation.
+- [PKHeX](https://github.com/kwsch/PKHeX) : C#
+  - Pokémon Save File Editor
+- [goplus](https://github.com/qiniu/goplus) : Go
+  - GoPlus - The Go+ language for data science
+- [plugin.video.netflix](https://github.com/CastagnaIT/plugin.video.netflix) : Python
+  - InputStream based Netflix plugin for Kodi
+- [awesome-gog-galaxy](https://github.com/Mixaill/awesome-gog-galaxy) : 
+  - A list of GOG Galaxy 2.0 integrations and upcoming features
+- [OpenSelfSup](https://github.com/open-mmlab/OpenSelfSup) : Python
+  - Self-Supervised Learning Toolbox and Benchmark
+- [vxe-table](https://github.com/xuliangzhan/vxe-table) : JavaScript
+  - 🐬 vxe-table vue 表格解决方案
+- [bootstrap](https://github.com/twbs/bootstrap) : JavaScript
+  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.

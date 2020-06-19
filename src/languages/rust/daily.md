@@ -1,51 +1,51 @@
 # rust
-- [cloudformation-guard](https://github.com/aws-cloudformation/cloudformation-guard)
-  - [PREVIEW] A set of tools to check AWS CloudFormation templates for policy compliance using a simple, policy-as-code, declarative syntax
-- [gitui](https://github.com/extrawurst/gitui)
-  - blazing fast terminal-ui for git written in rust
+- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
+  - Rust bindings to wgpu native library
 - [yew](https://github.com/yewstack/yew)
   - Rust / Wasm framework for building client web apps
-- [druid](https://github.com/xi-editor/druid)
-  - A data-first Rust-native UI design toolkit.
-- [tauri](https://github.com/tauri-apps/tauri)
-  - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
-- [materialize](https://github.com/MaterializeInc/materialize)
-  - The Streaming SQL Database powered by Timely Dataflow
-- [warp](https://github.com/seanmonstar/warp)
-  - A super-easy, composable, web server framework for warp speeds.
-- [substrate](https://github.com/paritytech/substrate)
-  - Substrate: The platform for blockchain innovators
-- [crossbeam](https://github.com/crossbeam-rs/crossbeam)
-  - Tools for concurrent programming in Rust
-- [structopt](https://github.com/TeXitoi/structopt)
-  - Parse command line arguments by defining a struct.
-- [book](https://github.com/rust-lang/book)
-  - The Rust Programming Language
-- [nom](https://github.com/Geal/nom)
-  - Rust parser combinator framework
-- [firecracker](https://github.com/firecracker-microvm/firecracker)
-  - Secure and fast microVMs for serverless computing.
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-  - A curated list of Rust code and resources.
-- [sccache](https://github.com/mozilla/sccache)
-  - sccache is ccache with cloud storage
-- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
-  - 📚 Learn to write an embedded OS in Rust 🦀
 - [swc](https://github.com/swc-project/swc)
   - Super-fast typescript / javascript compiler written in rust
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [tonic](https://github.com/hyperium/tonic)
-  - A native gRPC client & server implementation with async/await support.
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [cve-2020-1054](https://github.com/0xeb-bp/cve-2020-1054)
+  - LPE for CVE-2020-1054 targeting Windows 7 x64
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
+- [reqwest](https://github.com/seanmonstar/reqwest)
+  - An easy and powerful Rust HTTP Client
+- [firecracker](https://github.com/firecracker-microvm/firecracker)
+  - Secure and fast microVMs for serverless computing.
+- [tokenizers](https://github.com/huggingface/tokenizers)
+  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [libra](https://github.com/libra/libra)
   - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [bat](https://github.com/sharkdp/bat)
-  - A cat(1) clone with wings.
+- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+  - 📚 Learn to write an embedded OS in Rust 🦀
+- [WASI](https://github.com/WebAssembly/WASI)
+  - WebAssembly System Interface
+- [krustlet](https://github.com/deislabs/krustlet)
+  - Kubernetes Rust Kubelet
+- [tonic](https://github.com/hyperium/tonic)
+  - A native gRPC client & server implementation with async/await support.
+- [cloudformation-guard](https://github.com/aws-cloudformation/cloudformation-guard)
+  - [PREVIEW] A set of tools to check AWS CloudFormation templates for policy compliance using a simple, policy-as-code, declarative syntax
+- [tauri](https://github.com/tauri-apps/tauri)
+  - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
+- [py-spy](https://github.com/benfred/py-spy)
+  - Sampling profiler for Python programs
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix web is a small, pragmatic, and extremely fast rust web framework.
+- [i3status-rust](https://github.com/greshake/i3status-rust)
+  - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
+- [sqlx](https://github.com/launchbadge/sqlx)
+  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [ggez](https://github.com/ggez/ggez)
   - Rust library to create a Good Game Easily
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [openethereum](https://github.com/openethereum/openethereum)
-  - Fast and feature-rich multi-network Ethereum client.
+- [wezterm](https://github.com/wez/wezterm)
+  - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [diesel](https://github.com/diesel-rs/diesel)
+  - A safe, extensible ORM and Query Builder for Rust
+- [fd](https://github.com/sharkdp/fd)
+  - A simple, fast and user-friendly alternative to 'find'
+- [crossbeam](https://github.com/crossbeam-rs/crossbeam)
+  - Tools for concurrent programming in Rust

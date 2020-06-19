@@ -1,51 +1,51 @@
 # go
-- [algorithm-pattern](https://github.com/greyireland/algorithm-pattern)
-  - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
-- [argo-cd](https://github.com/argoproj/argo-cd)
-  - Declarative continuous deployment for Kubernetes.
-- [goplus](https://github.com/qiniu/goplus)
-  - GoPlus - The Go+ language for data science
-- [vault](https://github.com/hashicorp/vault)
-  - A tool for secrets management, encryption as a service, and privileged access management
 - [jupiter](https://github.com/douyu/jupiter)
   - Jupiter是douyu开源的面向服务治理的Golang微服务框架
-- [go-ethereum](https://github.com/ethereum/go-ethereum)
-  - Official Go implementation of the Ethereum protocol
-- [flux](https://github.com/fluxcd/flux)
-  - The GitOps Kubernetes operator
-- [mysql](https://github.com/go-sql-driver/mysql)
-  - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
+- [algorithm-pattern](https://github.com/greyireland/algorithm-pattern)
+  - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
+- [kubermatic](https://github.com/kubermatic/kubermatic)
+  - The Central Kubernetes Management Platform For Any Infrastructure
+- [goplus](https://github.com/qiniu/goplus)
+  - GoPlus - The Go+ language for data science
+- [helm](https://github.com/helm/helm)
+  - The Kubernetes Package Manager
+- [consul](https://github.com/hashicorp/consul)
+  - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+- [libpod](https://github.com/containers/libpod)
+  - libpod is a library used to create container pods. Home of Podman.
 - [gin](https://github.com/gin-gonic/gin)
   - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [gotraining](https://github.com/ardanlabs/gotraining)
-  - Go Training Class Material :
-- [micro](https://github.com/zyedidia/micro)
-  - A modern and intuitive terminal-based text editor
-- [loki](https://github.com/grafana/loki)
-  - Like Prometheus, but for logs.
-- [go](https://github.com/golang/go)
-  - The Go programming language
-- [authelia](https://github.com/authelia/authelia)
-  - The Single Sign-On Multi-Factor portal for web apps
-- [vitess](https://github.com/vitessio/vitess)
-  - Vitess is a database clustering system for horizontal scaling of MySQL.
-- [proposal](https://github.com/golang/proposal)
-  - Go Project Design Documents
-- [rke](https://github.com/rancher/rke)
-  - Rancher Kubernetes Engine (RKE), an extremely simple, lightning fast Kubernetes distribution that runs entirely within containers.
-- [gorm](https://github.com/go-gorm/gorm)
-  - The fantastic ORM library for Golang, aims to be developer friendly (v2 is under public testing...)
-- [kubeless](https://github.com/kubeless/kubeless)
-  - Kubernetes Native Serverless Framework
+- [bk-cmdb](https://github.com/Tencent/bk-cmdb)
+  - 蓝鲸智云配置平台(BlueKing CMDB)
+- [alertmanager](https://github.com/prometheus/alertmanager)
+  - Prometheus Alertmanager
+- [rook](https://github.com/rook/rook)
+  - Storage Orchestration for Kubernetes
+- [kubesphere](https://github.com/kubesphere/kubesphere)
+  - Easy-to-use Production Ready Container Platform
+- [vegeta](https://github.com/tsenart/vegeta)
+  - HTTP load testing tool and library. It's over 9000!
+- [learn-go-with-tests](https://github.com/quii/learn-go-with-tests)
+  - Learn Go with test-driven development
 - [harbor](https://github.com/goharbor/harbor)
   - An open source trusted cloud native registry project that stores, signs, and scans content.
-- [moby](https://github.com/moby/moby)
-  - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [ultimate-go](https://github.com/hoanhan101/ultimate-go)
-  - Ultimate Go study guide
-- [sourcegraph](https://github.com/sourcegraph/sourcegraph)
-  - Universal code search (self-hosted)
-- [dns](https://github.com/miekg/dns)
-  - DNS library in Go
-- [operator-sdk](https://github.com/operator-framework/operator-sdk)
-  - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
+- [nomad](https://github.com/hashicorp/nomad)
+  - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+- [prometheus-operator](https://github.com/coreos/prometheus-operator)
+  - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+- [esbuild](https://github.com/evanw/esbuild)
+  - An extremely fast JavaScript bundler and minifier
+- [ingress-nginx](https://github.com/kubernetes/ingress-nginx)
+  - NGINX Ingress Controller for Kubernetes
+- [govmomi](https://github.com/vmware/govmomi)
+  - Go library for the VMware vSphere API
+- [websocket](https://github.com/gorilla/websocket)
+  - A fast, well-tested and widely used WebSocket implementation for Go.
+- [testify](https://github.com/stretchr/testify)
+  - A toolkit with common assertions and mocks that plays nicely with the standard library
+- [lotus](https://github.com/filecoin-project/lotus)
+  - Implementation of the Filecoin protocol, written in Go
+- [vitess](https://github.com/vitessio/vitess)
+  - Vitess is a database clustering system for horizontal scaling of MySQL.
+- [redis](https://github.com/go-redis/redis)
+  - Type-safe Redis client for Golang

@@ -1,51 +1,51 @@
 # javascript
+- [pose-animator](https://github.com/yemount/pose-animator)
+  - 
+- [vxe-table](https://github.com/xuliangzhan/vxe-table)
+  - 🐬 vxe-table vue 表格解决方案
 - [bootstrap](https://github.com/twbs/bootstrap)
   - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [responsively-app](https://github.com/manojVivek/responsively-app)
-  - A modified browser that helps in responsive web development.
-- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
-  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [react-query](https://github.com/tannerlinsley/react-query)
-  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
-- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
-  - Bypass Paywalls web browser extension for Chrome and Firefox.
-- [curso-javascript-ninja](https://github.com/da2k/curso-javascript-ninja)
-  - Curso Javascript Ninja
-- [react-native-firebase](https://github.com/invertase/react-native-firebase)
-  - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
+- [robintrack](https://github.com/Ameobea/robintrack)
+  - Scrapes the Robinhood API to retrieve + store popularity and price data.
+- [docusaurus](https://github.com/facebook/docusaurus)
+  - Easy to maintain open source documentation websites.
+- [cropperjs](https://github.com/fengyuanchen/cropperjs)
+  - JavaScript image cropper.
+- [alpine](https://github.com/alpinejs/alpine)
+  - A rugged, minimal framework for composing JavaScript behavior in your markup.
+- [gatsby](https://github.com/gatsbyjs/gatsby)
+  - Build blazing fast, modern apps and websites with React
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+  - Headless Chrome Node.js API
+- [leetcode](https://github.com/azl397985856/leetcode)
+  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+- [appium](https://github.com/appium/appium)
+  - 📱 Automation for iOS, Android, and Windows Apps.
 - [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
   - 🕸 Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
 - [vue](https://github.com/vuejs/vue)
   - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
-- [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
-  - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
-- [eslint](https://github.com/eslint/eslint)
-  - Find and fix problems in your JavaScript code.
-- [alpine](https://github.com/alpinejs/alpine)
-  - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [node](https://github.com/nodejs/node)
-  - Node.js JavaScript runtime ✨🐢🚀✨
-- [kuboard-press](https://github.com/eip-work/kuboard-press)
-  - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.18 安装手册，(k8s install) 在线答疑，持续更新。
-- [magnetW](https://github.com/xiandanin/magnetW)
-  - 磁力链接聚合搜索
-- [appium](https://github.com/appium/appium)
-  - 📱 Automation for iOS, Android, and Windows Apps.
-- [pipedream](https://github.com/PipedreamHQ/pipedream)
-  - Free, serverless integration and compute platform
-- [office-docs-powershell](https://github.com/MicrosoftDocs/office-docs-powershell)
-  - PowerShell Reference for Office Products - Short URL: aka.ms/office-powershell
-- [netron](https://github.com/lutzroeder/netron)
-  - Visualizer for neural network, deep learning and machine learning models
-- [javascript](https://github.com/airbnb/javascript)
-  - JavaScript Style Guide
-- [ajv](https://github.com/ajv-validator/ajv)
-  - The fastest JSON Schema Validator. Supports draft-04/06/07
-- [cropperjs](https://github.com/fengyuanchen/cropperjs)
-  - JavaScript image cropper.
-- [Fuse](https://github.com/krisk/Fuse)
-  - Lightweight fuzzy-search, in JavaScript
+- [serverless](https://github.com/serverless/serverless)
+  - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+- [Mindmap-Full-Stack](https://github.com/8bithemant/Mindmap-Full-Stack)
+  - 
 - [posthog](https://github.com/PostHog/posthog)
   - 🦔 PostHog is developer-friendly, open-source product analytics.
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [reveal.js](https://github.com/hakimel/reveal.js)
+  - The HTML Presentation Framework
+- [node](https://github.com/nodejs/node)
+  - Node.js JavaScript runtime ✨🐢🚀✨
+- [pipedream](https://github.com/PipedreamHQ/pipedream)
+  - Free, serverless integration and compute platform
+- [create-react-app](https://github.com/facebook/create-react-app)
+  - Set up a modern web app by running one command.
+- [Web](https://github.com/qianguyihao/Web)
+  - 前端入门到进阶，超详细的Web前端学习图文教程。从零开始学前端，做一名精致优雅的前端工程师。每日更新...
+- [gitmoji](https://github.com/carloscuesta/gitmoji)
+  - An emoji guide for your commit messages. 😜
+- [SpaceX-API](https://github.com/r-spacex/SpaceX-API)
+  - 🚀 Open Source REST API for rocket, core, capsule, pad, and launch data
+- [gutenberg](https://github.com/WordPress/gutenberg)
+  - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
