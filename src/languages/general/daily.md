@@ -1,49 +1,50 @@
 # general
-- [expose](https://github.com/beyondcode/expose) : PHP
-  - A beautiful, fully open-source, tunneling service - written in pure PHP
-- [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) : Java
-  - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
-- [pose-animator](https://github.com/yemount/pose-animator) : JavaScript
-- [jupiter](https://github.com/douyu/jupiter) : Go
-  - Jupiter是douyu开源的面向服务治理的Golang微服务框架
-- [davinci](https://github.com/edp963/davinci) : TypeScript
-  - Davinci is a DVsaaS (Data Visualization as a Service) Platform
-- [pulse](https://github.com/adamian98/pulse) : Python
-  - PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
-- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) : Jupyter Notebook
-  - Python - 100天从新手到大师
-- [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) : Go
-  - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
 - [practical-python](https://github.com/dabeaz-course/practical-python) : Python
   - Practical Python Programming (course by @dabeaz)
-- [zju-icicles](https://github.com/QSCTech/zju-icicles) : C
-  - 浙江大学课程攻略共享计划
-- [Python-Core-50-Courses](https://github.com/jackfrued/Python-Core-50-Courses) : 
-  - Python语言基础50课
-- [image-gpt](https://github.com/openai/image-gpt) : Python
-- [lens](https://github.com/lensapp/lens) : TypeScript
-  - Lens - The Kubernetes IDE
-- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) : Java
-  - 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
-  - 🤓 Build your own (insert technology here)
-- [zoom-e2e-whitepaper](https://github.com/zoom/zoom-e2e-whitepaper) : 
-  - End-to-End Encryption for Zoom Meetings
-- [kubermatic](https://github.com/kubermatic/kubermatic) : Go
-  - The Central Kubernetes Management Platform For Any Infrastructure
-- [detectron2](https://github.com/facebookresearch/detectron2) : Python
-  - Detectron2 is FAIR's next-generation platform for object detection and segmentation.
-- [PKHeX](https://github.com/kwsch/PKHeX) : C#
-  - Pokémon Save File Editor
+- [Covid19Radar](https://github.com/Covid-19Radar/Covid19Radar) : C#
+  - Open Source / i18n / Cross Platform Contact Tracing App by exposure notification framework.
+- [super-linter](https://github.com/github/super-linter) : Shell
+  - Combination of multiple linters to install as a GitHub Action
+- [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) : Java
+  - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
+- [expose](https://github.com/beyondcode/expose) : PHP
+  - A beautiful, fully open-source, tunneling service - written in pure PHP
+- [pulse](https://github.com/adamian98/pulse) : Python
+  - PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
 - [goplus](https://github.com/qiniu/goplus) : Go
   - GoPlus - The Go+ language for data science
+- [fastlane](https://github.com/fastlane/fastlane) : Ruby
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) : Go
+  - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
+- [vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart) : Vue
+  - 一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.
+- [pdown](https://github.com/forpdown/pdown) : C++
+  - PDown后继版,百度网盘代下载
+- [app-ideas](https://github.com/florinpop17/app-ideas) : 
+  - A Collection of application ideas which can be used to improve your coding skills.
+- [vscodium](https://github.com/VSCodium/vscodium) : Shell
+  - binary releases of VS Code without MS branding/telemetry/licensing
+- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) : Java
+  - 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
+- [project-based-learning](https://github.com/tuvtran/project-based-learning) : 
+  - Curated list of project-based tutorials
+- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) : Jupyter Notebook
+  - Python - 100天从新手到大师
+- [kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) : HTML
+  - Kubernetes Goat is "Vulnerable by Design" Kubernetes Cluster.
+- [NotQuite0DayFriday](https://github.com/grimm-co/NotQuite0DayFriday) : Python
+  - This is a repo which documents real bugs in real software to illustrate trends, learn how to prevent or find them more quickly.
 - [plugin.video.netflix](https://github.com/CastagnaIT/plugin.video.netflix) : Python
   - InputStream based Netflix plugin for Kodi
-- [awesome-gog-galaxy](https://github.com/Mixaill/awesome-gog-galaxy) : 
-  - A list of GOG Galaxy 2.0 integrations and upcoming features
-- [OpenSelfSup](https://github.com/open-mmlab/OpenSelfSup) : Python
-  - Self-Supervised Learning Toolbox and Benchmark
-- [vxe-table](https://github.com/xuliangzhan/vxe-table) : JavaScript
-  - 🐬 vxe-table vue 表格解决方案
-- [bootstrap](https://github.com/twbs/bootstrap) : JavaScript
-  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [davinci](https://github.com/edp963/davinci) : TypeScript
+  - Davinci is a DVsaaS (Data Visualization as a Service) Platform
+- [googletest](https://github.com/google/googletest) : C++
+  - Googletest - Google Testing and Mocking Framework
+- [pose-animator](https://github.com/yemount/pose-animator) : JavaScript
+- [public-apis](https://github.com/public-apis/public-apis) : Python
+  - A collective list of free APIs for use in software and web development.
+- [kubermatic](https://github.com/kubermatic/kubermatic) : Go
+  - The Central Kubernetes Management Platform For Any Infrastructure
+- [xxHash](https://github.com/Cyan4973/xxHash) : C
+  - Extremely fast non-cryptographic hash algorithm
