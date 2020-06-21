@@ -1,51 +1,51 @@
 # javascript
-- [pose-animator](https://github.com/yemount/pose-animator)
+- [awesomechat](https://github.com/FamManh/awesomechat)
   - 
-- [sjcl](https://github.com/bitwiseshiftleft/sjcl)
-  - Stanford Javascript Crypto Library
-- [cropperjs](https://github.com/fengyuanchen/cropperjs)
-  - JavaScript image cropper.
-- [mathtocode](https://github.com/vthommeret/mathtocode)
-  - 
-- [parcel](https://github.com/parcel-bundler/parcel)
-  - 📦🚀 Blazing fast, zero configuration web application bundler
-- [vxe-table](https://github.com/xuliangzhan/vxe-table)
-  - 🐬 vxe-table vue 表格解决方案
-- [js-framework-benchmark](https://github.com/krausest/js-framework-benchmark)
-  - A comparison of the perfomance of a few popular javascript frameworks
-- [eslint](https://github.com/eslint/eslint)
-  - Find and fix problems in your JavaScript code.
-- [Web](https://github.com/qianguyihao/Web)
-  - 前端入门到进阶，超详细的Web前端学习图文教程。从零开始学前端，做一名精致优雅的前端工程师。每日更新...
-- [robintrack](https://github.com/Ameobea/robintrack)
-  - Scrapes the Robinhood API to retrieve + store popularity and price data.
-- [webglstudio.js](https://github.com/jagenjo/webglstudio.js)
-  - A full open source 3D graphics editor in the browser, with scene editor, coding pad, graph editor, virtual file system, and many features more.
-- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
-  - 🕸 Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
-- [nock](https://github.com/nock/nock)
-  - HTTP server mocking and expectations library for Node.js
-- [Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup)
-  - Light and responsive lightbox script with focus on performance.
-- [slides](https://github.com/sokra/slides)
-  - Presentations
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [pipedream](https://github.com/PipedreamHQ/pipedream)
-  - Serverless integration and compute platform. Free for developers.
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [search-ui](https://github.com/elastic/search-ui)
-  - Search UI. Libraries for the fast development of modern, engaging search experiences.
-- [netlify-cms](https://github.com/netlify/netlify-cms)
-  - A Git-based CMS for Static Site Generators
 - [keen-slider](https://github.com/rcbyr/keen-slider)
   - The HTML touch slider carousel with the most native feeling
-- [react-native-calendars](https://github.com/wix/react-native-calendars)
-  - React Native Calendar Components 🗓️ 📆
-- [Viewers](https://github.com/OHIF/Viewers)
-  - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker, plus shared extension packages
-- [bootstrap-datetimepicker](https://github.com/Eonasdan/bootstrap-datetimepicker)
-  - Date/time picker widget based on twitter bootstrap
-- [lerna](https://github.com/lerna/lerna)
-  - 🐉 A tool for managing JavaScript projects with multiple packages.
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [react-router](https://github.com/ReactTraining/react-router)
+  - Declarative routing for React
+- [pose-animator](https://github.com/yemount/pose-animator)
+  - 
+- [storybooks](https://github.com/bradtraversy/storybooks)
+  - Node.js app with Google OAuth
+- [node-typescript-structure](https://github.com/Rocketseat/node-typescript-structure)
+  - Node.js, ESLint, TypeScript, Jest & Babel
+- [vxe-table](https://github.com/xuliangzhan/vxe-table)
+  - 🐬 vxe-table vue 表格解决方案
+- [perspective](https://github.com/finos/perspective)
+  - Streaming pivot visualization via WebAssembly
+- [opensource.guide](https://github.com/github/opensource.guide)
+  - 📚 Community guides for open source creators
+- [joplin](https://github.com/laurent22/joplin)
+  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [Web](https://github.com/qianguyihao/Web)
+  - 前端入门到进阶，超详细的Web前端学习图文教程。从零开始学前端，做一名精致优雅的前端工程师。每日更新...
+- [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview)
+  - 《前端内参》帮助前端工程师们夯实技术以通过一线互联网企业技术面试。日拱一卒，一年下来你会惊叹自己的进步。
+- [webogram](https://github.com/zhukov/webogram)
+  - Telegram web application, GPL v3
+- [AriaNg](https://github.com/mayswind/AriaNg)
+  - AriaNg, a modern web frontend making aria2 easier to use.
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
+  - Starter files, final projects and FAQ for my Complete JavaScript course
+- [uBlock](https://github.com/gorhill/uBlock)
+  - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [Ghost](https://github.com/TryGhost/Ghost)
+  - 👻 The #1 headless Node.js CMS for professional publishing
+- [githon](https://github.com/githon/githon)
+  - 📖 GitHon is building beautiful books using Markdown - Fork of GitBook
+- [next-auth](https://github.com/iaincollins/next-auth)
+  - Easy authentication for Next.js and Serverless
+- [deleteDiscordMessages](https://github.com/victornpb/deleteDiscordMessages)
+  - Delete all messages in a Discord channel or DM (Easy and fast) Bulk delete
+- [Functional-Light-JS](https://github.com/getify/Functional-Light-JS)
+  - Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter.
+- [node-react-ecommerce](https://github.com/basir/node-react-ecommerce)
+  - Build ECommerce Website Like Amazon By React & Node & MongoDB
+- [three.js](https://github.com/mrdoob/three.js)
+  - JavaScript 3D library.
