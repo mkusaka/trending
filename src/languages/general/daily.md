@@ -1,50 +1,49 @@
 # general
-- [practical-python](https://github.com/dabeaz-course/practical-python) : Python
-  - Practical Python Programming (course by @dabeaz)
 - [Covid19Radar](https://github.com/Covid-19Radar/Covid19Radar) : C#
   - Open Source / i18n / Cross Platform Contact Tracing App by exposure notification framework.
-- [super-linter](https://github.com/github/super-linter) : Shell
-  - Combination of multiple linters to install as a GitHub Action
-- [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) : Java
-  - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
-- [expose](https://github.com/beyondcode/expose) : PHP
-  - A beautiful, fully open-source, tunneling service - written in pure PHP
-- [pulse](https://github.com/adamian98/pulse) : Python
-  - PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
-- [goplus](https://github.com/qiniu/goplus) : Go
-  - GoPlus - The Go+ language for data science
-- [fastlane](https://github.com/fastlane/fastlane) : Ruby
-  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) : Go
-  - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
+- [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) : Go
+  - An open source re-implementation of Diablo 2
 - [vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart) : Vue
   - 一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.
-- [pdown](https://github.com/forpdown/pdown) : C++
-  - PDown后继版,百度网盘代下载
-- [app-ideas](https://github.com/florinpop17/app-ideas) : 
-  - A Collection of application ideas which can be used to improve your coding skills.
-- [vscodium](https://github.com/VSCodium/vscodium) : Shell
-  - binary releases of VS Code without MS branding/telemetry/licensing
-- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) : Java
-  - 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
-- [project-based-learning](https://github.com/tuvtran/project-based-learning) : 
-  - Curated list of project-based tutorials
-- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) : Jupyter Notebook
-  - Python - 100天从新手到大师
-- [kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) : HTML
-  - Kubernetes Goat is "Vulnerable by Design" Kubernetes Cluster.
-- [NotQuite0DayFriday](https://github.com/grimm-co/NotQuite0DayFriday) : Python
-  - This is a repo which documents real bugs in real software to illustrate trends, learn how to prevent or find them more quickly.
-- [plugin.video.netflix](https://github.com/CastagnaIT/plugin.video.netflix) : Python
-  - InputStream based Netflix plugin for Kodi
-- [davinci](https://github.com/edp963/davinci) : TypeScript
-  - Davinci is a DVsaaS (Data Visualization as a Service) Platform
-- [googletest](https://github.com/google/googletest) : C++
-  - Googletest - Google Testing and Mocking Framework
-- [pose-animator](https://github.com/yemount/pose-animator) : JavaScript
-- [public-apis](https://github.com/public-apis/public-apis) : Python
-  - A collective list of free APIs for use in software and web development.
-- [kubermatic](https://github.com/kubermatic/kubermatic) : Go
-  - The Central Kubernetes Management Platform For Any Infrastructure
+- [pulse](https://github.com/adamian98/pulse) : Python
+  - PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
+- [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) : Shell
+  - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
+- [awesomechat](https://github.com/FamManh/awesomechat) : JavaScript
 - [xxHash](https://github.com/Cyan4973/xxHash) : C
   - Extremely fast non-cryptographic hash algorithm
+- [arduino-esp32](https://github.com/espressif/arduino-esp32) : C
+  - Arduino core for the ESP32
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl) : Python
+  - Command-line program to download videos from YouTube.com and other video sites
+- [rust](https://github.com/rust-lang/rust) : Rust
+  - Empowering everyone to build reliable and efficient software.
+- [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) : Go
+  - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
+- [app-ideas](https://github.com/florinpop17/app-ideas) : 
+  - A Collection of application ideas which can be used to improve your coding skills.
+- [Apollo-11](https://github.com/chrislgarry/Apollo-11) : Assembly
+  - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+- [super-linter](https://github.com/github/super-linter) : Shell
+  - Combination of multiple linters to install as a GitHub Action
+- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
+  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
+- [public-apis](https://github.com/public-apis/public-apis) : Python
+  - A collective list of free APIs for use in software and web development.
+- [practical-python](https://github.com/dabeaz-course/practical-python) : Python
+  - Practical Python Programming (course by @dabeaz)
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) : Python
+  - DeDRM tools for ebooks
+- [pdown](https://github.com/forpdown/pdown) : C++
+  - PDown后继版,百度网盘代下载
+- [plugin.video.netflix](https://github.com/CastagnaIT/plugin.video.netflix) : Python
+  - InputStream based Netflix plugin for Kodi
+- [workshop](https://github.com/data-science-on-aws/workshop) : Jupyter Notebook
+  - AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker
+- [python-small-examples](https://github.com/jackzhenguo/python-small-examples) : Python
+  - 告别枯燥，60 秒学会一个 Python 小例子
+- [youdownloadtheappanditdoesntwork](https://github.com/lperiodbose/youdownloadtheappanditdoesntwork) : HTML
+- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) : Java
+  - 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
