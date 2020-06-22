@@ -1,51 +1,51 @@
 # rust
 - [rust](https://github.com/rust-lang/rust)
   - Empowering everyone to build reliable and efficient software.
-- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
-  - Rust bindings to wgpu native library
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [firecracker](https://github.com/firecracker-microvm/firecracker)
-  - Secure and fast microVMs for serverless computing.
-- [substrate](https://github.com/paritytech/substrate)
-  - Substrate: The platform for blockchain innovators
-- [wasmtime](https://github.com/bytecodealliance/wasmtime)
-  - Standalone JIT-style runtime for WebAssembly, using Cranelift
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
 - [amethyst](https://github.com/amethyst/amethyst)
   - Data-oriented and data-driven game engine written in Rust
-- [zola](https://github.com/getzola/zola)
-  - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
 - [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
   - Facilitating high-level interactions between Wasm modules and JavaScript
-- [nushell](https://github.com/nushell/nushell)
-  - A new type of shell
-- [book](https://github.com/rust-lang/book)
-  - The Rust Programming Language
-- [serde](https://github.com/serde-rs/serde)
-  - Serialization framework for Rust
-- [proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop)
-  - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
-- [fd](https://github.com/sharkdp/fd)
-  - A simple, fast and user-friendly alternative to 'find'
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix web is a small, pragmatic, and extremely fast rust web framework.
-- [rustlings](https://github.com/rust-lang/rustlings)
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [godot-rust](https://github.com/godot-rust/godot-rust)
-  - Rust bindings for GDNative
-- [webview_deno](https://github.com/webview/webview_deno)
-  - Deno bindings for webview, a tiny library for creating web-based desktop GUIs
+- [swc](https://github.com/swc-project/swc)
+  - Super-fast typescript / javascript compiler written in rust
 - [bat](https://github.com/sharkdp/bat)
   - A cat(1) clone with wings.
-- [lucet](https://github.com/bytecodealliance/lucet)
-  - Lucet, the Sandboxing WebAssembly Compiler.
-- [WASI](https://github.com/WebAssembly/WASI)
-  - WebAssembly System Interface
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [cargo](https://github.com/rust-lang/cargo)
-  - The Rust package manager
+- [iced](https://github.com/hecrj/iced)
+  - A cross-platform GUI library for Rust, inspired by Elm
+- [starship](https://github.com/starship/starship)
+  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [gfx](https://github.com/gfx-rs/gfx)
+  - A low-overhead Vulkan-like GPU API for Rust.
+- [wasmtime](https://github.com/bytecodealliance/wasmtime)
+  - Standalone JIT-style runtime for WebAssembly, using Cranelift
+- [alacritty](https://github.com/alacritty/alacritty)
+  - A cross-platform, GPU-accelerated terminal emulator
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
+- [pyo3](https://github.com/PyO3/pyo3)
+  - Rust bindings for the Python interpreter
+- [proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop)
+  - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
+- [talent-plan](https://github.com/pingcap/talent-plan)
+  - open source training courses about distributed database and distributed systemes
+- [smol](https://github.com/stjepang/smol)
+  - A small and fast async runtime for Rust
+- [mdBook](https://github.com/rust-lang/mdBook)
+  - Create book from markdown files. Like Gitbook but implemented in Rust
+- [examples](https://github.com/actix/examples)
+  - Actix web examples
+- [broot](https://github.com/Canop/broot)
+  - A new way to see and navigate directory trees : https://dystroy.org/broot
+- [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim)
+  - Language Server Protocol (LSP) support for vim and neovim.
+- [zola](https://github.com/getzola/zola)
+  - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+- [fd](https://github.com/sharkdp/fd)
+  - A simple, fast and user-friendly alternative to 'find'
+- [static-analysis](https://github.com/analysis-tools-dev/static-analysis)
+  - Static analysis tools for all programming languages, build tools, config files and more.
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
