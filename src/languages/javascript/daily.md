@@ -1,51 +1,51 @@
 # javascript
-- [awesomechat](https://github.com/FamManh/awesomechat)
-  - 
-- [keen-slider](https://github.com/rcbyr/keen-slider)
-  - The HTML touch slider carousel with the most native feeling
-- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
-  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [react-router](https://github.com/ReactTraining/react-router)
-  - Declarative routing for React
-- [pose-animator](https://github.com/yemount/pose-animator)
-  - 
-- [storybooks](https://github.com/bradtraversy/storybooks)
-  - Node.js app with Google OAuth
-- [node-typescript-structure](https://github.com/Rocketseat/node-typescript-structure)
-  - Node.js, ESLint, TypeScript, Jest & Babel
-- [vxe-table](https://github.com/xuliangzhan/vxe-table)
-  - 🐬 vxe-table vue 表格解决方案
-- [perspective](https://github.com/finos/perspective)
-  - Streaming pivot visualization via WebAssembly
-- [opensource.guide](https://github.com/github/opensource.guide)
-  - 📚 Community guides for open source creators
-- [joplin](https://github.com/laurent22/joplin)
-  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
-- [Web](https://github.com/qianguyihao/Web)
-  - 前端入门到进阶，超详细的Web前端学习图文教程。从零开始学前端，做一名精致优雅的前端工程师。每日更新...
-- [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview)
-  - 《前端内参》帮助前端工程师们夯实技术以通过一线互联网企业技术面试。日拱一卒，一年下来你会惊叹自己的进步。
-- [webogram](https://github.com/zhukov/webogram)
-  - Telegram web application, GPL v3
-- [AriaNg](https://github.com/mayswind/AriaNg)
-  - AriaNg, a modern web frontend making aria2 easier to use.
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
-  - Starter files, final projects and FAQ for my Complete JavaScript course
-- [uBlock](https://github.com/gorhill/uBlock)
-  - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [Ghost](https://github.com/TryGhost/Ghost)
-  - 👻 The #1 headless Node.js CMS for professional publishing
-- [githon](https://github.com/githon/githon)
-  - 📖 GitHon is building beautiful books using Markdown - Fork of GitBook
 - [next-auth](https://github.com/iaincollins/next-auth)
   - Easy authentication for Next.js and Serverless
-- [deleteDiscordMessages](https://github.com/victornpb/deleteDiscordMessages)
-  - Delete all messages in a Discord channel or DM (Easy and fast) Bulk delete
-- [Functional-Light-JS](https://github.com/getify/Functional-Light-JS)
-  - Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter.
-- [node-react-ecommerce](https://github.com/basir/node-react-ecommerce)
-  - Build ECommerce Website Like Amazon By React & Node & MongoDB
-- [three.js](https://github.com/mrdoob/three.js)
-  - JavaScript 3D library.
+- [storybooks](https://github.com/bradtraversy/storybooks)
+  - Node.js app with Google OAuth
+- [covid19india-react](https://github.com/covid19india/covid19india-react)
+  - Tracking the impact of COVID-19 in India
+- [next.js](https://github.com/vercel/next.js)
+  - The React Framework
+- [awesomechat](https://github.com/FamManh/awesomechat)
+  - 
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+  - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
+- [password-manager-resources](https://github.com/apple/password-manager-resources)
+  - A place for creators and users of password managers to collaborate on resources to make password management better.
+- [automated-irrigation-system](https://github.com/PatrickHallek/automated-irrigation-system)
+  - 
+- [node-typescript-structure](https://github.com/Rocketseat/node-typescript-structure)
+  - Node.js, ESLint, TypeScript, Jest & Babel
+- [DPlayer](https://github.com/MoePlayer/DPlayer)
+  - 🍭 Wow, such a lovely HTML5 danmaku video player
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [Vulkan-Docs](https://github.com/KhronosGroup/Vulkan-Docs)
+  - The Vulkan API Specification and related tools
+- [RSSHub](https://github.com/DIYgod/RSSHub)
+  - 🍰 Everything is RSSible
+- [wtfjs](https://github.com/denysdovhan/wtfjs)
+  - A list of funny and tricky JavaScript examples
+- [react-saas-template](https://github.com/dunky11/react-saas-template)
+  - 🌊 Template for building an SaaS or admin website using React + Material-UI
+- [discord.js](https://github.com/discordjs/discord.js)
+  - A powerful JavaScript library for interacting with the Discord API
+- [Web](https://github.com/qianguyihao/Web)
+  - 前端入门到进阶，超详细的Web前端学习图文教程。从零开始学前端，做一名精致优雅的前端工程师。每日更新...
+- [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui)
+  - A desktop application for downloading Udemy Courses
+- [create-snowpack-app](https://github.com/pikapkg/create-snowpack-app)
+  - CSA - Get started with the fastest dev environment available.
+- [redux-thunk](https://github.com/reduxjs/redux-thunk)
+  - Thunk middleware for Redux
+- [QQMusicApi](https://github.com/jsososo/QQMusicApi)
+  - 基于 Express + Axios 的 QQ音乐接口 nodejs 版
+- [iptv](https://github.com/iptv-org/iptv)
+  - Collection of 8000+ publicly available IPTV channels from all over the world
+- [react-navigation-v5-mix](https://github.com/itzpradip/react-navigation-v5-mix)
+  - 
+- [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
+  - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。

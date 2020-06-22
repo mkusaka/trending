@@ -1,51 +1,51 @@
 # ruby
 - [metasploit-framework](https://github.com/rapid7/metasploit-framework)
   - Metasploit Framework
-- [fastlane](https://github.com/fastlane/fastlane)
-  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [sinatra](https://github.com/sinatra/sinatra)
+  - Classy web-development dressed in a DSL (official / canonical repo)
 - [mastodon](https://github.com/tootsuite/mastodon)
   - Your self-hosted, globally interconnected microblogging community
-- [spree](https://github.com/spree/spree)
-  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
-- [faraday](https://github.com/lostisland/faraday)
-  - Simple, but flexible HTTP client library, with support for multiple backends.
-- [jekyll](https://github.com/jekyll/jekyll)
-  - 🌐 Jekyll is a blog-aware static site generator in Ruby
-- [quine-relay](https://github.com/mame/quine-relay)
-  - An uroboros program with 100+ programming languages
-- [brew](https://github.com/Homebrew/brew)
-  - 🍺 The missing package manager for macOS (or Linux)
+- [ruby-docker-skeleton](https://github.com/SebastianThorn/ruby-docker-skeleton)
+  - This repo contains a skeleton for creating an app that can run in both Docker, Podman and in the shell
+- [lobsters](https://github.com/lobsters/lobsters)
+  - Computing-focused community centered around link aggregation and discussion
+- [heroku-buildpack-ruby](https://github.com/heroku/heroku-buildpack-ruby)
+  - Heroku's Ruby Buildpack
+- [CVE-2020-8163](https://github.com/sh286/CVE-2020-8163)
+  - CVE-2020-8163 - Remote code execution of user-provided local names in Rails
 - [danbooru](https://github.com/danbooru/danbooru)
   - A taggable image board written in Rails 6.
-- [fusuma](https://github.com/iberianpig/fusuma)
-  - Multitouch gestures with libinput driver on Linux
-- [homebrew-emacs-plus](https://github.com/d12frosted/homebrew-emacs-plus)
-  - Emacs Plus formulae for the Homebrew package manager
-- [explore](https://github.com/github/explore)
-  - Community-curated topic and collection pages on GitHub
-- [sonic-pi](https://github.com/samaaron/sonic-pi)
-  - Code. Music. Live.
-- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
-  - The Cocoa Dependency Manager.
+- [logstash](https://github.com/elastic/logstash)
+  - Logstash - transport and process your logs, events, or other data
+- [rubocop](https://github.com/rubocop-hq/rubocop)
+  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+- [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch)
+  - Ansible playbook for Elasticsearch
+- [gitlabhq](https://github.com/gitlabhq/gitlabhq)
+  - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
+- [solidus](https://github.com/solidusio/solidus)
+  - 🛒Solidus, Rails eCommerce System
+- [intrigue-core](https://github.com/intrigueio/intrigue-core)
+  - Discover Your Attack Surface
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
   - A curated list of awesome awesomeness
-- [CeWL](https://github.com/digininja/CeWL)
-  - CeWL is a Custom Word List Generator
+- [brew](https://github.com/Homebrew/brew)
+  - 🍺 The missing package manager for macOS (or Linux)
+- [rubygems](https://github.com/rubygems/rubygems)
+  - Library packaging and distribution for Ruby.
+- [rssbox](https://github.com/stefansundin/rssbox)
+  - 📰 I consume the world via RSS feeds, and this is my attempt to keep it that way.
 - [chatwoot](https://github.com/chatwoot/chatwoot)
   - Open-source live chat software 🔥💬
-- [ch340g-ch34g-ch34x-mac-os-x-driver](https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver)
-  - CH340G CH34G CH34X Mac OS X driver
-- [fast_jsonapi](https://github.com/Netflix/fast_jsonapi)
-  - A lightning fast JSON:API serializer for Ruby Objects.
-- [wpscan](https://github.com/wpscanteam/wpscan)
-  - WPScan is a free, for non-commercial use, black box WordPress security scanner written for security professionals and blog maintainers to test the security of their WordPress websites.
-- [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
-  - A curated list of engineering blogs
-- [homebrew-brew](https://github.com/mongodb/homebrew-brew)
-  - The Official MongoDB Software Homebrew Tap
-- [debugging-with-pry-v-000](https://github.com/learn-co-students/debugging-with-pry-v-000)
-  - 
-- [theodinproject](https://github.com/TheOdinProject/theodinproject)
-  - Main Website for The Odin Project
-- [postal](https://github.com/postalhq/postal)
-  - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
+- [liquid](https://github.com/Shopify/liquid)
+  - Liquid markup language. Safe, customer facing template language for flexible web apps.
+- [jekyll](https://github.com/jekyll/jekyll)
+  - 🌐 Jekyll is a blog-aware static site generator in Ruby
+- [CeWL](https://github.com/digininja/CeWL)
+  - CeWL is a Custom Word List Generator
+- [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening)
+  - This Ansible role provides numerous security-related configurations, providing all-round base protection.
+- [puppet](https://github.com/puppetlabs/puppet)
+  - Server automation framework and application
+- [accounting-core](https://github.com/youse-seguradora/accounting-core)
+  - Service for general ledger
