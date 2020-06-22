@@ -1,48 +1,50 @@
 # general
-- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) : JavaScript
-  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-- [genetic-drawing](https://github.com/anopara/genetic-drawing) : Python
-  - A genetic algorithm toy project for drawing
-- [lihang-code](https://github.com/fengdu78/lihang-code) : Jupyter Notebook
-  - 《统计学习方法》的代码实现
-- [CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) : C++
-- [printf-tac-toe](https://github.com/carlini/printf-tac-toe) : C
-  - tic-tac-toe in a single call to printf
-- [defund12.org](https://github.com/defund12/defund12.org) : TypeScript
-  - defund12.org
-- [decentralized-video-chat](https://github.com/ianramzy/decentralized-video-chat) : JavaScript
-  - 🚀 Zipcall.io 🚀 Peer to peer browser video calling platform with unmatched video quality and latency.
-- [mmf](https://github.com/facebookresearch/mmf) : Python
-  - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
-- [cortex](https://github.com/cortexlabs/cortex) : Go
-  - Build machine learning APIs
-- [Arduino](https://github.com/arduino/Arduino) : Java
-  - open-source electronics platform
-- [community](https://github.com/GoogleCloudPlatform/community) : Java
-  - This repository holds the content submitted to https://cloud.google.com/community. Files added to the tutorials/ will appear at https://cloud.google.com/community/tutorials.
-- [password-manager-resources](https://github.com/apple/password-manager-resources) : JavaScript
-  - A place for creators and users of password managers to collaborate on resources to make password management better.
-- [grpc-go](https://github.com/grpc/grpc-go) : Go
-  - The Go language implementation of gRPC. HTTP/2 based RPC
-- [Apollo-11](https://github.com/chrislgarry/Apollo-11) : Assembly
-  - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
-- [shardingsphere](https://github.com/apache/shardingsphere) : Java
-  - Distributed database middleware
 - [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) : Kotlin
   - Native Android app using the Apple/Google exposure notification API.
-- [fastapi](https://github.com/tiangolo/fastapi) : Python
-  - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) : PowerShell
-  - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
-- [playwright](https://github.com/microsoft/playwright) : JavaScript
-  - Node library to automate Chromium, Firefox and WebKit with a single API
-- [avatarify](https://github.com/alievk/avatarify) : Python
-  - Avatars for Zoom, Skype and other video-conferencing apps.
+- [goplus](https://github.com/qiniu/goplus) : Go
+  - GoPlus - The Go+ language for data science
+- [practical-python](https://github.com/dabeaz-course/practical-python) : Python
+  - Practical Python Programming (course by @dabeaz)
+- [shapez.io](https://github.com/tobspr/shapez.io) : JavaScript
+  - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
+- [fastlane](https://github.com/fastlane/fastlane) : Ruby
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [cwa-app-ios](https://github.com/corona-warn-app/cwa-app-ios) : Swift
   - Native iOS app using the exposure notification framework from Apple.
-- [Quantum](https://github.com/microsoft/Quantum) : PowerShell
-  - Microsoft Quantum Development Kit Samples
-- [face_recognition](https://github.com/ageitgey/face_recognition) : Python
-  - The world's simplest facial recognition api for Python and the command line
-- [outline](https://github.com/outline/outline) : JavaScript
-  - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
+- [bootstrap](https://github.com/twbs/bootstrap) : JavaScript
+  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [json](https://github.com/nlohmann/json) : C++
+  - JSON for Modern C++
+- [googletest](https://github.com/google/googletest) : C++
+  - Googletest - Google Testing and Mocking Framework
+- [mlkit](https://github.com/googlesamples/mlkit) : Java
+- [cwa-website](https://github.com/corona-warn-app/cwa-website) : CSS
+  - Corona-Warn-App website
+- [cwa-server](https://github.com/corona-warn-app/cwa-server) : Java
+  - Backend implementation for the Apple/Google exposure notification API.
+- [iptv](https://github.com/iptv-org/iptv) : JavaScript
+  - Collection of 8000+ publicly available IPTV channels from all over the world
+- [gpt-2](https://github.com/openai/gpt-2) : Python
+  - Code for the paper "Language Models are Unsupervised Multitask Learners"
+- [stylegan2](https://github.com/NVlabs/stylegan2) : Python
+  - StyleGAN2 - Official TensorFlow Implementation
+- [zju-icicles](https://github.com/QSCTech/zju-icicles) : C
+  - 浙江大学课程攻略共享计划
+- [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) : Java
+  - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
+- [kotlin](https://github.com/JetBrains/kotlin) : Kotlin
+  - The Kotlin Programming Language
+- [symfony](https://github.com/symfony/symfony) : PHP
+  - The Symfony PHP framework
+- [yolov5](https://github.com/ultralytics/yolov5) : Jupyter Notebook
+  - YOLOv5 in PyTorch > ONNX > CoreML > iOS
+- [playwright](https://github.com/microsoft/playwright) : JavaScript
+  - Node library to automate Chromium, Firefox and WebKit with a single API
+- [argo-cd](https://github.com/argoproj/argo-cd) : Go
+  - Declarative continuous deployment for Kubernetes.
+- [PrusaSlicer](https://github.com/prusa3d/PrusaSlicer) : C++
+  - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
+- [jina](https://github.com/jina-ai/jina) : Python
+  - Jina is the cloud-native neural search framework powered by state-of-the-art AI and deep learning
+- [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) : Shell
+  - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
