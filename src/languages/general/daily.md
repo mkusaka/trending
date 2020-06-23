@@ -1,48 +1,51 @@
 # general
-- [Face-Depixelizer](https://github.com/tg-bomze/Face-Depixelizer) : Jupyter Notebook
-  - Face Depixelizer based on "PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models" repository.
-- [Covid19Radar](https://github.com/Covid-19Radar/Covid19Radar) : C#
-  - Open Source / i18n / Cross Platform Contact Tracing App by exposure notification framework.
-- [pulse](https://github.com/adamian98/pulse) : Python
-  - PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
-- [rpi-vk-driver](https://github.com/Yours3lf/rpi-vk-driver) : C++
-  - VK driver for the Raspberry Pi (Broadcom Videocore IV)
+- [DeloresDev](https://github.com/grumpygamer/DeloresDev) : HTML
+  - Read all about it on GrumpyGamer:
+- [hooks](https://github.com/alibaba/hooks) : TypeScript
+  - React Hooks Library
+- [L-ink_Card](https://github.com/peng-zhihui/L-ink_Card) : C
+  - Smart NFC & ink-Display Card
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
 - [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) : Go
   - An open source re-implementation of Diablo 2
-- [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) : Go
-  - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
-- [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) : Shell
-  - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
-- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
-  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [Better-Python-59-Ways](https://github.com/SigmaQuan/Better-Python-59-Ways) : Python
-  - Code Sample of Book "Effective Python: 59 Specific Ways to Write Better Pyton" by Brett Slatkin
-- [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) : Java
-  - spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…
-- [vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart) : Vue
-  - 一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.
-- [youtube-dl](https://github.com/ytdl-org/youtube-dl) : Python
-  - Command-line program to download videos from YouTube.com and other video sites
-- [next-auth](https://github.com/iaincollins/next-auth) : JavaScript
-  - Easy authentication for Next.js and Serverless
-- [ThreeDPoseTracker](https://github.com/digital-standard/ThreeDPoseTracker) : C#
-- [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) : Java
-  - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
-- [app-ideas](https://github.com/florinpop17/app-ideas) : 
-  - A Collection of application ideas which can be used to improve your coding skills.
 - [TeachYourselfCS-CN](https://github.com/keithnull/TeachYourselfCS-CN) : 
   - TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [The-Open-Book](https://github.com/joeycastillo/The-Open-Book) : C++
-- [elegant-emacs](https://github.com/rougier/elegant-emacs) : Emacs Lisp
-  - A very minimal but elegant emacs (I think)
+- [Face-Depixelizer](https://github.com/tg-bomze/Face-Depixelizer) : Jupyter Notebook
+  - Face Depixelizer based on "PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models" repository.
+- [mall](https://github.com/macrozheng/mall) : Java
+  - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+- [wwdc](https://github.com/twostraws/wwdc) : 
+  - WWDC Community: Learning and sharing together
+- [rpi-vk-driver](https://github.com/Yours3lf/rpi-vk-driver) : C++
+  - VK driver for the Raspberry Pi (Broadcom Videocore IV)
 - [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) : Java
   - 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
-- [core](https://github.com/home-assistant/core) : Python
-  - 🏡 Open source home automation that puts local control and privacy first
-- [IBMYes](https://github.com/CCChieh/IBMYes) : Batchfile
-- [public-apis](https://github.com/public-apis/public-apis) : Python
-  - A collective list of free APIs for use in software and web development.
-- [rust](https://github.com/rust-lang/rust) : Rust
-  - Empowering everyone to build reliable and efficient software.
+- [python-small-examples](https://github.com/jackzhenguo/python-small-examples) : Python
+  - 告别枯燥，60 秒学会一个 Python 小例子
+- [vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart) : Vue
+  - 一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.
+- [awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) : 
+  - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+- [kugimiya-rainbow-fart](https://github.com/zthxxx/kugimiya-rainbow-fart) : Shell
+  - 傲娇钉宫，鞭写鞭骂 - 钉宫理惠 vscode-rainbow-fart 扩展语音包
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [wrk](https://github.com/wg/wrk) : C
+  - Modern HTTP benchmarking tool
+- [ZY-Player](https://github.com/Hunlongyu/ZY-Player) : Vue
+  - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
+- [MachineLearningECT](https://github.com/NuclearTalent/MachineLearningECT) : 
+  - For better displaying html files and course material use this link
+- [pulse](https://github.com/adamian98/pulse) : Python
+  - PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
+- [Covid19Radar](https://github.com/Covid-19Radar/Covid19Radar) : C#
+  - Open Source / i18n / Cross Platform Contact Tracing App by exposure notification framework.
+- [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) : Java
+  - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
+- [thingsboard](https://github.com/thingsboard/thingsboard) : Java
+  - Open-source IoT Platform - Device management, data collection, processing and visualization.
+- [SpringCloud](https://github.com/zhoutaoo/SpringCloud) : Java
+  - 基于SpringCloud2.1的微服务开发脚手架，整合了spring-security-oauth2、nacos、feign、sentinel、springcloud-gateway等。服务治理方面引入elasticsearch、skywalking、springboot-admin、zipkin等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。持续更新中
+- [spark](https://github.com/apache/spark) : Scala
+  - Apache Spark - A unified analytics engine for large-scale data processing
