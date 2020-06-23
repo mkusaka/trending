@@ -1,51 +1,51 @@
 # javascript
-- [next-auth](https://github.com/iaincollins/next-auth)
-  - Easy authentication for Next.js and Serverless
-- [storybooks](https://github.com/bradtraversy/storybooks)
-  - Node.js app with Google OAuth
-- [covid19india-react](https://github.com/covid19india/covid19india-react)
-  - Tracking the impact of COVID-19 in India
-- [next.js](https://github.com/vercel/next.js)
-  - The React Framework
-- [awesomechat](https://github.com/FamManh/awesomechat)
-  - 
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-  - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
-- [password-manager-resources](https://github.com/apple/password-manager-resources)
-  - A place for creators and users of password managers to collaborate on resources to make password management better.
-- [automated-irrigation-system](https://github.com/PatrickHallek/automated-irrigation-system)
-  - 
+- [redash](https://github.com/getredash/redash)
+  - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+- [CodeceptJS](https://github.com/codecept-js/CodeceptJS)
+  - Supercharged End 2 End Testing Framework for NodeJS
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
 - [node-typescript-structure](https://github.com/Rocketseat/node-typescript-structure)
   - Node.js, ESLint, TypeScript, Jest & Babel
-- [DPlayer](https://github.com/MoePlayer/DPlayer)
-  - 🍭 Wow, such a lovely HTML5 danmaku video player
-- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
-  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [Vulkan-Docs](https://github.com/KhronosGroup/Vulkan-Docs)
-  - The Vulkan API Specification and related tools
-- [RSSHub](https://github.com/DIYgod/RSSHub)
-  - 🍰 Everything is RSSible
-- [wtfjs](https://github.com/denysdovhan/wtfjs)
-  - A list of funny and tricky JavaScript examples
-- [react-saas-template](https://github.com/dunky11/react-saas-template)
-  - 🌊 Template for building an SaaS or admin website using React + Material-UI
-- [discord.js](https://github.com/discordjs/discord.js)
-  - A powerful JavaScript library for interacting with the Discord API
+- [dd-trace-js](https://github.com/DataDog/dd-trace-js)
+  - JavaScript APM Tracer
+- [next.js](https://github.com/vercel/next.js)
+  - The React Framework
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [cesium](https://github.com/CesiumGS/cesium)
+  - An open-source JavaScript library for world-class 3D globes and maps 🌎
+- [strapi](https://github.com/strapi/strapi)
+  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [webdriverio](https://github.com/webdriverio/webdriverio)
+  - Next-gen browser and mobile automation test framework for Node.js
+- [axios](https://github.com/axios/axios)
+  - Promise based HTTP client for the browser and node.js
+- [next-auth](https://github.com/iaincollins/next-auth)
+  - Easy authentication for Next.js and Serverless
+- [Chart.js](https://github.com/chartjs/Chart.js)
+  - Simple HTML5 Charts using the <canvas> tag
+- [BetterDiscordApp](https://github.com/rauenzi/BetterDiscordApp)
+  - Better Discord App enhances Discord desktop app with new features.
+- [keen-slider](https://github.com/rcbyr/keen-slider)
+  - The HTML touch slider carousel with the most native feeling
+- [faker.js](https://github.com/Marak/faker.js)
+  - generate massive amounts of realistic fake data in Node.js and the browser
+- [winston](https://github.com/winstonjs/winston)
+  - A logger for just about everything.
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+  - ✅ The Node.js best practices list (June 2020)
 - [Web](https://github.com/qianguyihao/Web)
   - 前端入门到进阶，超详细的Web前端学习图文教程。从零开始学前端，做一名精致优雅的前端工程师。每日更新...
-- [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui)
-  - A desktop application for downloading Udemy Courses
-- [create-snowpack-app](https://github.com/pikapkg/create-snowpack-app)
-  - CSA - Get started with the fastest dev environment available.
-- [redux-thunk](https://github.com/reduxjs/redux-thunk)
-  - Thunk middleware for Redux
-- [QQMusicApi](https://github.com/jsososo/QQMusicApi)
-  - 基于 Express + Axios 的 QQ音乐接口 nodejs 版
-- [iptv](https://github.com/iptv-org/iptv)
-  - Collection of 8000+ publicly available IPTV channels from all over the world
-- [react-navigation-v5-mix](https://github.com/itzpradip/react-navigation-v5-mix)
-  - 
-- [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
-  - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
+- [AdminLTE](https://github.com/ColorlibHQ/AdminLTE)
+  - AdminLTE - Free admin dashboard template based on Bootstrap 4
+- [vue-virtual-scroll-list](https://github.com/tangbc/vue-virtual-scroll-list)
+  - ⚡️A vue component support big amount data list with high scroll performance.
+- [discord.js](https://github.com/discordjs/discord.js)
+  - A powerful JavaScript library for interacting with the Discord API
+- [wtfjs](https://github.com/denysdovhan/wtfjs)
+  - A list of funny and tricky JavaScript examples
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+  -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
