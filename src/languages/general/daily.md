@@ -1,51 +1,51 @@
 # general
-- [DeloresDev](https://github.com/grumpygamer/DeloresDev) : HTML
-  - Read all about it on GrumpyGamer:
+- [abstreet](https://github.com/dabreegster/abstreet) : Rust
+  - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
+- [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) : Java
+  - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) : C
+  - Learning operating system development using Linux kernel and Raspberry Pi
+- [SpringCloudLearning](https://github.com/forezp/SpringCloudLearning) : Java
+  - 《史上最简单的Spring Cloud教程源码》
+- [ui_components](https://github.com/bradtraversy/ui_components) : HTML
+  - Collection of HTML & CSS UI components
+- [nginx-ui](https://github.com/schenkd/nginx-ui) : Python
+  - Nginx UI allows you to access and modify the nginx configurations files without cli.
+- [wrk](https://github.com/wg/wrk) : C
+  - Modern HTTP benchmarking tool
+- [SpringCloud](https://github.com/zhoutaoo/SpringCloud) : Java
+  - 基于SpringCloud2.1的微服务开发脚手架，整合了spring-security-oauth2、nacos、feign、sentinel、springcloud-gateway等。服务治理方面引入elasticsearch、skywalking、springboot-admin、zipkin等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。持续更新中
+- [3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting) : Python
+  - [CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
 - [hooks](https://github.com/alibaba/hooks) : TypeScript
   - React Hooks Library
-- [L-ink_Card](https://github.com/peng-zhihui/L-ink_Card) : C
-  - Smart NFC & ink-Display Card
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
-  - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
-- [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) : Go
-  - An open source re-implementation of Diablo 2
-- [TeachYourselfCS-CN](https://github.com/keithnull/TeachYourselfCS-CN) : 
-  - TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS
+- [react-query](https://github.com/tannerlinsley/react-query) : JavaScript
+  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+- [thingsboard](https://github.com/thingsboard/thingsboard) : Java
+  - Open-source IoT Platform - Device management, data collection, processing and visualization.
+- [esbuild](https://github.com/evanw/esbuild) : Go
+  - An extremely fast JavaScript bundler and minifier
+- [wwdc](https://github.com/twostraws/wwdc) : 
+  - WWDC Community: Learning and sharing together
+- [tailwindcss](https://github.com/tailwindcss/tailwindcss) : CSS
+  - A utility-first CSS framework for rapid UI development.
+- [learnopencv](https://github.com/spmallick/learnopencv) : Jupyter Notebook
+  - Learn OpenCV : C++ and Python Examples
+- [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) : C
+  - OpenCore bootloader
+- [livewire](https://github.com/livewire/livewire) : PHP
+  - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 - [Face-Depixelizer](https://github.com/tg-bomze/Face-Depixelizer) : Jupyter Notebook
   - Face Depixelizer based on "PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models" repository.
 - [mall](https://github.com/macrozheng/mall) : Java
   - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
-- [wwdc](https://github.com/twostraws/wwdc) : 
-  - WWDC Community: Learning and sharing together
-- [rpi-vk-driver](https://github.com/Yours3lf/rpi-vk-driver) : C++
-  - VK driver for the Raspberry Pi (Broadcom Videocore IV)
-- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) : Java
-  - 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
-- [python-small-examples](https://github.com/jackzhenguo/python-small-examples) : Python
-  - 告别枯燥，60 秒学会一个 Python 小例子
-- [vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart) : Vue
-  - 一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.
-- [awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) : 
-  - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
-- [kugimiya-rainbow-fart](https://github.com/zthxxx/kugimiya-rainbow-fart) : Shell
-  - 傲娇钉宫，鞭写鞭骂 - 钉宫理惠 vscode-rainbow-fart 扩展语音包
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [wrk](https://github.com/wg/wrk) : C
-  - Modern HTTP benchmarking tool
-- [ZY-Player](https://github.com/Hunlongyu/ZY-Player) : Vue
-  - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
-- [MachineLearningECT](https://github.com/NuclearTalent/MachineLearningECT) : 
-  - For better displaying html files and course material use this link
-- [pulse](https://github.com/adamian98/pulse) : Python
-  - PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
-- [Covid19Radar](https://github.com/Covid-19Radar/Covid19Radar) : C#
-  - Open Source / i18n / Cross Platform Contact Tracing App by exposure notification framework.
-- [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) : Java
-  - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
-- [thingsboard](https://github.com/thingsboard/thingsboard) : Java
-  - Open-source IoT Platform - Device management, data collection, processing and visualization.
-- [SpringCloud](https://github.com/zhoutaoo/SpringCloud) : Java
-  - 基于SpringCloud2.1的微服务开发脚手架，整合了spring-security-oauth2、nacos、feign、sentinel、springcloud-gateway等。服务治理方面引入elasticsearch、skywalking、springboot-admin、zipkin等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。持续更新中
-- [spark](https://github.com/apache/spark) : Scala
-  - Apache Spark - A unified analytics engine for large-scale data processing
+- [Paper](https://github.com/PaperMC/Paper) : Shell
+  - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
+- [itlwm](https://github.com/zxystd/itlwm) : C
+  - IntelWifi
+- [ant-design](https://github.com/ant-design/ant-design) : TypeScript
+  - 🌈 A UI Design Language and React UI library
