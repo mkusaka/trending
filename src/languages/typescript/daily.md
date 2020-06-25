@@ -1,51 +1,51 @@
 # typescript
-- [hooks](https://github.com/alibaba/hooks)
-  - React Hooks Library
-- [ant-design](https://github.com/ant-design/ant-design)
-  - 🌈 A UI Design Language and React UI library
-- [angular-cli](https://github.com/angular/angular-cli)
-  - CLI tool for Angular
-- [storybook](https://github.com/storybookjs/storybook)
-  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
-- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
-  - The source for REST API specifications for Microsoft Azure.
 - [algorithms-and-data-structures](https://github.com/jeffzh4ng/algorithms-and-data-structures)
   - A collection of classical data structures and algorithms implemented in Typescript with video lectures
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+  - Headless Chrome Node.js API
+- [aws-cdk](https://github.com/aws/aws-cdk)
+  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+- [react-navigation](https://github.com/react-navigation/react-navigation)
+  - Routing and navigation for your React Native apps
+- [rome](https://github.com/romejs/rome)
+  - An experimental JavaScript toolchain
+- [homebridge](https://github.com/homebridge/homebridge)
+  - HomeKit support for the impatient
+- [hooks](https://github.com/alibaba/hooks)
+  - React Hooks Library
+- [formatjs](https://github.com/formatjs/formatjs)
+  - The monorepo home to all of the FormatJS related libraries, most notably react-intl.
+- [github-script](https://github.com/actions/github-script)
+  - 
 - [backstage](https://github.com/spotify/backstage)
   - Backstage is an open platform for building developer portals
-- [verdaccio](https://github.com/verdaccio/verdaccio)
-  - 📦🔐A lightweight private npm proxy registry
-- [vite](https://github.com/vitejs/vite)
-  - Native-ESM powered web dev build tool. It's fast.
-- [rough-notation](https://github.com/rough-stuff/rough-notation)
-  - Create and animate hand-drawn annotations on a web page
-- [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
-  - Tasks for Azure Pipelines
-- [vuetify](https://github.com/vuetifyjs/vuetify)
-  - 🐉 Material Component Framework for Vue
-- [nest](https://github.com/nestjs/nest)
-  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-- [ngx-formly](https://github.com/ngx-formly/ngx-formly)
-  - JSON powered / Dynamic forms for Angular
-- [amplify-js](https://github.com/aws-amplify/amplify-js)
-  - A declarative JavaScript library for application development using cloud services.
-- [G6](https://github.com/antvis/G6)
-  - ♾ A Graph Visualization Framework in JavaScript
-- [examples](https://github.com/pulumi/examples)
-  - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
-- [noact](https://github.com/ms-jpq/noact)
-  - Minimalist React (< 70 lines)
-- [fluent-reader](https://github.com/yang991178/fluent-reader)
-  - Modern desktop RSS reader built with Electron, React, and Fluent UI
-- [pyright](https://github.com/microsoft/pyright)
-  - Static type checker for Python
-- [VoTT](https://github.com/microsoft/VoTT)
-  - Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.
+- [angular](https://github.com/angular/angular)
+  - One framework. Mobile & desktop.
+- [ant-design](https://github.com/ant-design/ant-design)
+  - 🌈 A UI Design Language and React UI library
+- [coc.nvim](https://github.com/neoclide/coc.nvim)
+  - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
+- [fluentui](https://github.com/microsoft/fluentui)
+  - We've moved! UI Fabric is now Fluent UI - A set of React components for building Microsoft web experiences.
+- [msw](https://github.com/mswjs/msw)
+  - Seamless REST/GraphQL API mocking library for browser and Node.
 - [grafana](https://github.com/grafana/grafana)
   - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [recharts](https://github.com/recharts/recharts)
+  - Redefined chart library built with React and D3
+- [apollo-client](https://github.com/apollographql/apollo-client)
+  - 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
+- [vite](https://github.com/vitejs/vite)
+  - Native-ESM powered web dev build tool. It's fast.
+- [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
+  - 💬 The most complete chat UI for React Native
 - [fullcalendar](https://github.com/fullcalendar/fullcalendar)
   - Full-sized drag & drop event calendar
-- [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper)
-  - 🏆 Swiper component for @vuejs
-- [highcharts](https://github.com/highcharts/highcharts)
-  - Highcharts JS, the JavaScript charting framework
+- [material-components-web](https://github.com/material-components/material-components-web)
+  - Modular and customizable Material Design UI components for the web
+- [tsparticles](https://github.com/matteobruni/tsparticles)
+  - tsParticles - Particles.js on steroids
+- [kibana](https://github.com/elastic/kibana)
+  - Your window into the Elastic Stack
+- [react](https://github.com/zeit-ui/react)
+  - Modern and minimalist React UI library.

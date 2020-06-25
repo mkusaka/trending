@@ -1,51 +1,51 @@
 # javascript
-- [react-query](https://github.com/tannerlinsley/react-query)
-  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
-- [next-auth](https://github.com/iaincollins/next-auth)
-  - Easy authentication for Next.js and Serverless
-- [nuxt.js](https://github.com/nuxt/nuxt.js)
-  - The Intuitive Vue Framework
-- [BetterDiscordApp](https://github.com/rauenzi/BetterDiscordApp)
-  - Better Discord App enhances Discord desktop app with new features.
-- [react-draggable](https://github.com/STRML/react-draggable)
-  - React draggable component
-- [redash](https://github.com/getredash/redash)
-  - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-- [serverless](https://github.com/serverless/serverless)
-  - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
-- [mobile](https://github.com/CovidShield/mobile)
-  - React Native client application for COVID Shield on iOS and Android
-- [pdf.js](https://github.com/mozilla/pdf.js)
-  - PDF Reader in JavaScript
-- [fabric.js](https://github.com/fabricjs/fabric.js)
-  - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
-- [shapez.io](https://github.com/tobspr/shapez.io)
-  - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
-- [ag-grid](https://github.com/ag-grid/ag-grid)
-  - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-- [webdriverio](https://github.com/webdriverio/webdriverio)
-  - Next-gen browser and mobile automation test framework for Node.js
-- [plugins](https://github.com/rollup/plugins)
-  - 🍣 The one-stop shop for official Rollup plugins
-- [quasar](https://github.com/quasarframework/quasar)
-  - Quasar Framework - Build high-performance VueJS user interfaces in record time
+- [bookshelf](https://github.com/kentcdodds/bookshelf)
+  - Build a ReactJS App workshop
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [sequelize](https://github.com/sequelize/sequelize)
+  - An easy-to-use multi SQL dialect ORM for Node.js
+- [Script](https://github.com/NobyDa/Script)
+  - This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.
+- [kubernetes-basicLearning](https://github.com/knrt10/kubernetes-basicLearning)
+  - Understand kubernetes step by step. A simple repo for beginners 🔥
 - [gatsby](https://github.com/gatsbyjs/gatsby)
   - Build blazing fast, modern apps and websites with React
-- [p5.js](https://github.com/processing/p5.js)
-  - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
-- [react-grid-layout](https://github.com/STRML/react-grid-layout)
-  - A draggable and resizable grid layout with responsive breakpoints, for React.
-- [Spring-Cloud-Platform](https://github.com/wxiaoqi/Spring-Cloud-Platform)
-  - Cloud-Platform是国内首个基于Spring Cloud的微服务开发平台，具有统一授权、认证后台管理系统，其中包含具备用户管理、资源权限管理、网关API管理等多个模块，支持多业务系统并行开发，可以作为后端服务的开发脚手架。代码简洁，架构清晰，适合学习和直接项目中使用。核心技术采用Spring Boot2以及Spring Cloud Gateway相关核心组件，前端采用vue-element-admin组件。
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
-  - Beautiful and accessible drag and drop for lists with React
-- [strapi](https://github.com/strapi/strapi)
-  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
-- [faker.js](https://github.com/Marak/faker.js)
-  - generate massive amounts of realistic fake data in Node.js and the browser
-- [cloudmapper](https://github.com/duo-labs/cloudmapper)
-  - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
-- [hls.js](https://github.com/video-dev/hls.js)
-  - JavaScript HLS client using Media Source Extension
+- [react-query](https://github.com/tannerlinsley/react-query)
+  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+- [playwright](https://github.com/microsoft/playwright)
+  - Node library to automate Chromium, Firefox and WebKit with a single API
+- [octotree](https://github.com/ovity/octotree)
+  - GitHub on steroids
+- [beautiful-react-hooks](https://github.com/beautifulinteractions/beautiful-react-hooks)
+  - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
+- [next.js](https://github.com/vercel/next.js)
+  - The React Framework
+- [Recoil](https://github.com/facebookexperimental/Recoil)
+  - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
+- [redash](https://github.com/getredash/redash)
+  - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+- [responsively-app](https://github.com/manojVivek/responsively-app)
+  - A modified browser that helps in responsive web development.
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js)
+  - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
+- [alpine](https://github.com/alpinejs/alpine)
+  - A rugged, minimal framework for composing JavaScript behavior in your markup.
+- [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
+  - Microsoft Authentication Library (MSAL) for JS
+- [kubernetes-external-secrets](https://github.com/godaddy/kubernetes-external-secrets)
+  - Integrate external secret management systems with Kubernetes
+- [cypress](https://github.com/cypress-io/cypress)
+  - Fast, easy and reliable testing for anything that runs in a browser.
+- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
+  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+- [serverless](https://github.com/serverless/serverless)
+  - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+- [axios](https://github.com/axios/axios)
+  - Promise based HTTP client for the browser and node.js
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+  - ⭐️ Companies that don't have a broken hiring process
