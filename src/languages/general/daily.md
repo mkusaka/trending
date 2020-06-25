@@ -1,51 +1,51 @@
 # general
-- [abstreet](https://github.com/dabreegster/abstreet) : Rust
-  - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
-- [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) : Java
-  - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
-  - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) : C
-  - Learning operating system development using Linux kernel and Raspberry Pi
-- [SpringCloudLearning](https://github.com/forezp/SpringCloudLearning) : Java
-  - 《史上最简单的Spring Cloud教程源码》
+- [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) : Go
+  - An open source re-implementation of Diablo 2
 - [ui_components](https://github.com/bradtraversy/ui_components) : HTML
   - Collection of HTML & CSS UI components
-- [nginx-ui](https://github.com/schenkd/nginx-ui) : Python
-  - Nginx UI allows you to access and modify the nginx configurations files without cli.
-- [wrk](https://github.com/wg/wrk) : C
-  - Modern HTTP benchmarking tool
-- [SpringCloud](https://github.com/zhoutaoo/SpringCloud) : Java
-  - 基于SpringCloud2.1的微服务开发脚手架，整合了spring-security-oauth2、nacos、feign、sentinel、springcloud-gateway等。服务治理方面引入elasticsearch、skywalking、springboot-admin、zipkin等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。持续更新中
-- [3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting) : Python
-  - [CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
-- [hooks](https://github.com/alibaba/hooks) : TypeScript
-  - React Hooks Library
-- [react-query](https://github.com/tannerlinsley/react-query) : JavaScript
-  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+- [ALAE](https://github.com/podgorskiy/ALAE) : Python
+  - [CVPR2020] Adversarial Latent Autoencoders
+- [abstreet](https://github.com/dabreegster/abstreet) : Rust
+  - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
+- [raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) : C
+  - Learning operating system development using Linux kernel and Raspberry Pi
+- [brew](https://github.com/Homebrew/brew) : Ruby
+  - 🍺 The missing package manager for macOS (or Linux)
+- [ruby](https://github.com/ruby/ruby) : Ruby
+  - The Ruby Programming Language [mirror]
 - [thingsboard](https://github.com/thingsboard/thingsboard) : Java
   - Open-source IoT Platform - Device management, data collection, processing and visualization.
-- [esbuild](https://github.com/evanw/esbuild) : Go
-  - An extremely fast JavaScript bundler and minifier
-- [wwdc](https://github.com/twostraws/wwdc) : 
-  - WWDC Community: Learning and sharing together
+- [us-potus-model](https://github.com/TheEconomist/us-potus-model) : HTML
+  - Code for a dynamic multilevel Bayesian model to predict US presidential elections. Written in R and Stan.
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
 - [tailwindcss](https://github.com/tailwindcss/tailwindcss) : CSS
   - A utility-first CSS framework for rapid UI development.
 - [learnopencv](https://github.com/spmallick/learnopencv) : Jupyter Notebook
   - Learn OpenCV : C++ and Python Examples
-- [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) : C
-  - OpenCore bootloader
+- [Papers-Literature-ML-DL-RL-AI](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI) : 
+  - Highly cited and useful papers related to machine learning, deep learning, AI, game theory, reinforcement learning
 - [livewire](https://github.com/livewire/livewire) : PHP
   - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
-- [Face-Depixelizer](https://github.com/tg-bomze/Face-Depixelizer) : Jupyter Notebook
-  - Face Depixelizer based on "PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models" repository.
-- [mall](https://github.com/macrozheng/mall) : Java
-  - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
-- [Paper](https://github.com/PaperMC/Paper) : Shell
-  - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
-- [itlwm](https://github.com/zxystd/itlwm) : C
-  - IntelWifi
-- [ant-design](https://github.com/ant-design/ant-design) : TypeScript
-  - 🌈 A UI Design Language and React UI library
+- [esbuild](https://github.com/evanw/esbuild) : Go
+  - An extremely fast JavaScript bundler and minifier
+- [Privilege-Escalation](https://github.com/Ignitetechnologies/Privilege-Escalation) : 
+  - This cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples.
+- [bookshelf](https://github.com/kentcdodds/bookshelf) : JavaScript
+  - Build a ReactJS App workshop
+- [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) : C
+  - OpenCore bootloader
+- [PowerToys](https://github.com/microsoft/PowerToys) : C++
+  - Windows system utilities to maximize productivity
+- [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) : 
+  - A curated awesome list of lists of interview questions. Feel free to contribute! 🎓
+- [3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting) : Python
+  - [CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
+- [jax](https://github.com/google/jax) : Python
+  - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+- [rasa](https://github.com/RasaHQ/rasa) : Python
+  - 💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) : JavaScript
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
