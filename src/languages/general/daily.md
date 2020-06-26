@@ -1,51 +1,51 @@
 # general
-- [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) : Go
-  - An open source re-implementation of Diablo 2
-- [ui_components](https://github.com/bradtraversy/ui_components) : HTML
-  - Collection of HTML & CSS UI components
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
-  - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
-- [ALAE](https://github.com/podgorskiy/ALAE) : Python
-  - [CVPR2020] Adversarial Latent Autoencoders
-- [abstreet](https://github.com/dabreegster/abstreet) : Rust
-  - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
-- [raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) : C
-  - Learning operating system development using Linux kernel and Raspberry Pi
-- [brew](https://github.com/Homebrew/brew) : Ruby
-  - 🍺 The missing package manager for macOS (or Linux)
-- [ruby](https://github.com/ruby/ruby) : Ruby
-  - The Ruby Programming Language [mirror]
-- [thingsboard](https://github.com/thingsboard/thingsboard) : Java
-  - Open-source IoT Platform - Device management, data collection, processing and visualization.
-- [us-potus-model](https://github.com/TheEconomist/us-potus-model) : HTML
-  - Code for a dynamic multilevel Bayesian model to predict US presidential elections. Written in R and Stan.
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [tailwindcss](https://github.com/tailwindcss/tailwindcss) : CSS
-  - A utility-first CSS framework for rapid UI development.
-- [learnopencv](https://github.com/spmallick/learnopencv) : Jupyter Notebook
-  - Learn OpenCV : C++ and Python Examples
-- [Papers-Literature-ML-DL-RL-AI](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI) : 
-  - Highly cited and useful papers related to machine learning, deep learning, AI, game theory, reinforcement learning
-- [livewire](https://github.com/livewire/livewire) : PHP
-  - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
-- [esbuild](https://github.com/evanw/esbuild) : Go
-  - An extremely fast JavaScript bundler and minifier
-- [Privilege-Escalation](https://github.com/Ignitetechnologies/Privilege-Escalation) : 
-  - This cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples.
-- [bookshelf](https://github.com/kentcdodds/bookshelf) : JavaScript
-  - Build a ReactJS App workshop
-- [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) : C
-  - OpenCore bootloader
+- [WireViz](https://github.com/formatc1702/WireViz) : Python
+  - Easily document cables and wiring harnesses
 - [PowerToys](https://github.com/microsoft/PowerToys) : C++
   - Windows system utilities to maximize productivity
-- [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) : 
-  - A curated awesome list of lists of interview questions. Feel free to contribute! 🎓
-- [3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting) : Python
-  - [CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
-- [jax](https://github.com/google/jax) : Python
-  - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+- [php-src](https://github.com/php/php-src) : C
+  - The PHP Interpreter
+- [fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) : Swift
+  - Fluent System Icons is a set of mobile platform icons from Microsoft
+- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
+  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
+- [raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) : C
+  - Learning operating system development using Linux kernel and Raspberry Pi
+- [Active-Directory-Exploitation-Cheat-Sheet](https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet) : PowerShell
+  - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
+- [toydb](https://github.com/erikgrinaker/toydb) : Rust
+  - Distributed SQL database in Rust, written as a learning project
+- [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) : Scheme
+  - A Patch for GIMP 2.10+ for Photoshop Users
 - [rasa](https://github.com/RasaHQ/rasa) : Python
   - 💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
+- [linuxupskillchallenge](https://github.com/snori74/linuxupskillchallenge) : Shell
+  - Learn the skills required to sysadmin a remote Linux server from the commandline.
+- [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) : Python
+  - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) : JavaScript
   - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [angular](https://github.com/angular/angular) : TypeScript
+  - One framework. Mobile & desktop.
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+- [ui_components](https://github.com/bradtraversy/ui_components) : HTML
+  - Collection of HTML & CSS UI components
+- [reverse-proxy](https://github.com/microsoft/reverse-proxy) : C#
+  - A toolkit for developing high-performance HTTP reverse proxy applications.
+- [ALAE](https://github.com/podgorskiy/ALAE) : Python
+  - [CVPR2020] Adversarial Latent Autoencoders
+- [livewire](https://github.com/livewire/livewire) : PHP
+  - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
+- [elevator.js](https://github.com/tholman/elevator.js) : JavaScript
+  - Finally, a "back to top" button that behaves like a real elevator.
+- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) : Go
+  - Terraform AWS provider
+- [learnopencv](https://github.com/spmallick/learnopencv) : Jupyter Notebook
+  - Learn OpenCV : C++ and Python Examples
+- [fgprof](https://github.com/felixge/fgprof) : Go
+  - 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
+- [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) : 
+  - A curated awesome list of lists of interview questions. Feel free to contribute! 🎓
+- [angular-cli](https://github.com/angular/angular-cli) : TypeScript
+  - CLI tool for Angular
