@@ -1,51 +1,50 @@
 # general
-- [WireViz](https://github.com/formatc1702/WireViz) : Python
-  - Easily document cables and wiring harnesses
-- [PowerToys](https://github.com/microsoft/PowerToys) : C++
-  - Windows system utilities to maximize productivity
-- [php-src](https://github.com/php/php-src) : C
-  - The PHP Interpreter
-- [fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) : Swift
-  - Fluent System Icons is a set of mobile platform icons from Microsoft
-- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
-  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) : C
-  - Learning operating system development using Linux kernel and Raspberry Pi
-- [Active-Directory-Exploitation-Cheat-Sheet](https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet) : PowerShell
-  - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
 - [toydb](https://github.com/erikgrinaker/toydb) : Rust
   - Distributed SQL database in Rust, written as a learning project
-- [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) : Scheme
-  - A Patch for GIMP 2.10+ for Photoshop Users
-- [rasa](https://github.com/RasaHQ/rasa) : Python
-  - 💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
-- [linuxupskillchallenge](https://github.com/snori74/linuxupskillchallenge) : Shell
-  - Learn the skills required to sysadmin a remote Linux server from the commandline.
-- [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) : Python
-  - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) : JavaScript
-  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
-- [angular](https://github.com/angular/angular) : TypeScript
-  - One framework. Mobile & desktop.
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
-  - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
-- [ui_components](https://github.com/bradtraversy/ui_components) : HTML
-  - Collection of HTML & CSS UI components
-- [reverse-proxy](https://github.com/microsoft/reverse-proxy) : C#
-  - A toolkit for developing high-performance HTTP reverse proxy applications.
-- [ALAE](https://github.com/podgorskiy/ALAE) : Python
-  - [CVPR2020] Adversarial Latent Autoencoders
-- [livewire](https://github.com/livewire/livewire) : PHP
-  - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
-- [elevator.js](https://github.com/tholman/elevator.js) : JavaScript
-  - Finally, a "back to top" button that behaves like a real elevator.
-- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) : Go
-  - Terraform AWS provider
-- [learnopencv](https://github.com/spmallick/learnopencv) : Jupyter Notebook
-  - Learn OpenCV : C++ and Python Examples
+- [CalCAT](https://github.com/StateOfCalifornia/CalCAT) : R
+  - California COVID Assessment Tool
+- [aviary.sh](https://github.com/team-video/aviary.sh) : Shell
+  - Minimal distributed configuration management in bash
+- [Pwdb-Public](https://github.com/FlameOfIgnis/Pwdb-Public) : 
+  - A collection of all the data i could extract from 1 billion leaked credentials from internet.
 - [fgprof](https://github.com/felixge/fgprof) : Go
   - 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
-- [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) : 
-  - A curated awesome list of lists of interview questions. Feel free to contribute! 🎓
-- [angular-cli](https://github.com/angular/angular-cli) : TypeScript
-  - CLI tool for Angular
+- [OnJava8](https://github.com/LingCoder/OnJava8) : 
+  - 《On Java 8》中文版，又名《Java编程思想》 第5版
+- [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) : C
+  - OpenCore bootloader
+- [shapez.io](https://github.com/tobspr/shapez.io) : JavaScript
+  - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
+- [PowerToys](https://github.com/microsoft/PowerToys) : C++
+  - Windows system utilities to maximize productivity
+- [fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) : Swift
+  - Fluent System Icons is a set of mobile platform icons from Microsoft
+- [corona](https://github.com/coronalabs/corona) : C++
+  - Solar2D Game Engine main repository (ex Corona SDK)
+- [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) : Python
+  - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
+- [rasa](https://github.com/RasaHQ/rasa) : Python
+  - 💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
+- [covid-model](https://github.com/rtcovidlive/covid-model) : Jupyter Notebook
+- [cypress](https://github.com/cypress-io/cypress) : JavaScript
+  - Fast, easy and reliable testing for anything that runs in a browser.
+- [FastSurfer](https://github.com/Deep-MI/FastSurfer) : Python
+  - PyTorch implementation of FastSurferCNN
+- [Unlock-netease-cloud-music](https://github.com/meng-chuan/Unlock-netease-cloud-music) : JavaScript
+  - 解锁网易云音乐客户端变灰歌曲
+- [linuxupskillchallenge](https://github.com/snori74/linuxupskillchallenge) : Shell
+  - Learn the skills required to sysadmin a remote Linux server from the commandline.
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) : JavaScript
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra) : Jupyter Notebook
+  - Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course
+- [VTIL-Core](https://github.com/vtil-project/VTIL-Core) : C++
+  - Virtual-machine Translation Intermediate Language
+- [arcore-depth-lab](https://github.com/googlesamples/arcore-depth-lab) : C#
+  - ARCore Depth Lab is a set of Depth API samples that provides assets using depth for advanced geometry-aware features in AR interaction and rendering. (UIST 2020)
+- [Mindustry](https://github.com/Anuken/Mindustry) : Java
+  - A sandbox tower defense game
+- [jax](https://github.com/google/jax) : Python
+  - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+- [formik](https://github.com/formik/formik) : TypeScript
+  - Build forms in React, without the tears 😭
