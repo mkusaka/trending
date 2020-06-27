@@ -1,51 +1,51 @@
 # rust
 - [toydb](https://github.com/erikgrinaker/toydb)
   - Distributed SQL database in Rust, written as a learning project
-- [swc](https://github.com/swc-project/swc)
-  - Super-fast typescript / javascript compiler written in rust
-- [vector](https://github.com/timberio/vector)
-  - A lightweight and ultra-fast tool for building observability pipelines
-- [lemmy](https://github.com/LemmyNet/lemmy)
-  - 🐀 Building a federated alternative to reddit in rust
-- [nanoserde](https://github.com/not-fl3/nanoserde)
-  - Serialisation library with zero dependencies
-- [diskonaut](https://github.com/imsnif/diskonaut)
-  - Terminal disk space navigator 🔭
-- [abstreet](https://github.com/dabreegster/abstreet)
-  - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
-- [tunnelto](https://github.com/agrinman/tunnelto)
-  - Expose your local web server to the internet with a public URL.
-- [deno_lint](https://github.com/denoland/deno_lint)
-  - Blazing fast linter for JavaScript and TypeScript written in Rust
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [wasmtime](https://github.com/bytecodealliance/wasmtime)
-  - Standalone JIT-style runtime for WebAssembly, using Cranelift
-- [rhai](https://github.com/jonathandturner/rhai)
-  - Rhai - An embedded scripting language for Rust
-- [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
-  - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
-- [emigui](https://github.com/emilk/emigui)
-  - egui: Immediate mode GUI written in Rust, made for WASM
-- [tock](https://github.com/tock/tock)
-  - A secure embedded operating system for microcontrollers
-- [tree-sitter](https://github.com/tree-sitter/tree-sitter)
-  - An incremental parsing system for programming tools
-- [rustlings](https://github.com/rust-lang/rustlings)
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [smol](https://github.com/stjepang/smol)
-  - A small and fast async runtime for Rust
-- [serenity](https://github.com/serenity-rs/serenity)
-  - A Rust library for the Discord API.
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-  - A curated list of Rust code and resources.
-- [krustlet](https://github.com/deislabs/krustlet)
-  - Kubernetes Rust Kubelet
 - [libra](https://github.com/libra/libra)
   - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [ripgrep](https://github.com/BurntSushi/ripgrep)
-  - ripgrep recursively searches directories for a regex pattern
+- [ruffle](https://github.com/ruffle-rs/ruffle)
+  - A Flash Player emulator written in Rust
+- [emigui](https://github.com/emilk/emigui)
+  - egui: Immediate mode GUI written in Rust, made for WASM
+- [vector](https://github.com/timberio/vector)
+  - A lightweight and ultra-fast tool for building observability pipelines
+- [firecracker](https://github.com/firecracker-microvm/firecracker)
+  - Secure and fast microVMs for serverless computing.
 - [juniper](https://github.com/graphql-rust/juniper)
   - GraphQL server library for Rust
+- [badsv](https://github.com/RocketRace/badsv)
+  - The official BaDSV specification and CLI. Ascend from your puny DSV files!
+- [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
+  - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
+- [diesel](https://github.com/diesel-rs/diesel)
+  - A safe, extensible ORM and Query Builder for Rust
+- [nanoserde](https://github.com/not-fl3/nanoserde)
+  - Serialisation library with zero dependencies
+- [tokenizers](https://github.com/huggingface/tokenizers)
+  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [diskonaut](https://github.com/imsnif/diskonaut)
+  - Terminal disk space navigator 🔭
+- [wasmtime](https://github.com/bytecodealliance/wasmtime)
+  - Standalone JIT-style runtime for WebAssembly, using Cranelift
+- [clap](https://github.com/clap-rs/clap)
+  - A full featured, fast Command Line Argument Parser for Rust
+- [rCore](https://github.com/rcore-os/rCore)
+  - Rust version of THU uCore OS. Linux compatible.
+- [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
+  - The Mullvad VPN client app for desktop and mobile
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
 - [lucet](https://github.com/bytecodealliance/lucet)
   - Lucet, the Sandboxing WebAssembly Compiler.
+- [rhai](https://github.com/jonathandturner/rhai)
+  - Rhai - An embedded scripting language for Rust
+- [sqlx](https://github.com/launchbadge/sqlx)
+  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+- [salsa](https://github.com/salsa-rs/salsa)
+  - A generic framework for on-demand, incrementalized computation. Inspired by adapton, glimmer, and rustc's query system.
+- [materialize](https://github.com/MaterializeInc/materialize)
+  - The Streaming SQL Database powered by Timely Dataflow
+- [polars](https://github.com/ritchie46/polars)
+  - Rust DataFrames
+- [grin](https://github.com/mimblewimble/grin)
+  - Minimal implementation of the Mimblewimble protocol.

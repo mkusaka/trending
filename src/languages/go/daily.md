@@ -1,51 +1,51 @@
 # go
-- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
-  - Terraform AWS provider
 - [fgprof](https://github.com/felixge/fgprof)
   - 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
-- [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2)
-  - An open source re-implementation of Diablo 2
+- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
+  - Terraform AWS provider
+- [cortex](https://github.com/cortexlabs/cortex)
+  - Build machine learning APIs
+- [helmfile](https://github.com/roboll/helmfile)
+  - Deploy Kubernetes Helm Charts
+- [helm](https://github.com/helm/helm)
+  - The Kubernetes Package Manager
+- [flux](https://github.com/fluxcd/flux)
+  - The GitOps Kubernetes operator
 - [terraform](https://github.com/hashicorp/terraform)
   - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [kubernetes](https://github.com/kubernetes/kubernetes)
-  - Production-Grade Container Scheduling and Management
-- [validator](https://github.com/go-playground/validator)
-  - 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-- [esbuild](https://github.com/evanw/esbuild)
-  - An extremely fast JavaScript bundler and minifier
-- [testify](https://github.com/stretchr/testify)
-  - A toolkit with common assertions and mocks that plays nicely with the standard library
-- [aws-sdk-go](https://github.com/aws/aws-sdk-go)
-  - AWS SDK for the Go programming language.
-- [differential-privacy](https://github.com/google/differential-privacy)
-  - Google's differential privacy library.
-- [Burrow](https://github.com/linkedin/Burrow)
-  - Kafka Consumer Lag Checking
-- [vault](https://github.com/hashicorp/vault)
-  - A tool for secrets management, encryption as a service, and privileged access management
-- [eksctl](https://github.com/weaveworks/eksctl)
-  - The official CLI for Amazon EKS
-- [envconfig](https://github.com/kelseyhightower/envconfig)
-  - Golang library for managing configuration data from environment variables
-- [vitess](https://github.com/vitessio/vitess)
-  - Vitess is a database clustering system for horizontal scaling of MySQL.
-- [pgx](https://github.com/jackc/pgx)
-  - PostgreSQL driver and toolkit for Go
-- [google-cloud-go](https://github.com/googleapis/google-cloud-go)
-  - Google Cloud Client Libraries for Go.
-- [moby](https://github.com/moby/moby)
-  - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [chi](https://github.com/go-chi/chi)
-  - lightweight, idiomatic and composable router for building Go HTTP services
-- [skaffold](https://github.com/GoogleContainerTools/skaffold)
-  - Easy and Repeatable Kubernetes Development
-- [charts](https://github.com/helm/charts)
-  - Curated applications for Kubernetes
 - [chat](https://github.com/tinode/chat)
   - Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots
-- [singularity](https://github.com/hpcng/singularity)
-  - Singularity: Application containers for Linux
+- [gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+  - Gatekeeper - Policy Controller for Kubernetes
+- [gocron](https://github.com/jasonlvhit/gocron)
+  - A Golang Job Scheduling Package.
+- [cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+  - Home for the Cluster Management API work, a subproject of sig-cluster-lifecycle
+- [testify](https://github.com/stretchr/testify)
+  - A toolkit with common assertions and mocks that plays nicely with the standard library
+- [differential-privacy](https://github.com/google/differential-privacy)
+  - Google's differential privacy library.
+- [rook](https://github.com/rook/rook)
+  - Storage Orchestration for Kubernetes
 - [terratest](https://github.com/gruntwork-io/terratest)
   - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
-- [grpc-go](https://github.com/grpc/grpc-go)
-  - The Go language implementation of gRPC. HTTP/2 based RPC
+- [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+  - A reverse proxy that provides authentication with Google, Github or other providers.
+- [google-cloud-go](https://github.com/googleapis/google-cloud-go)
+  - Google Cloud Client Libraries for Go.
+- [chi](https://github.com/go-chi/chi)
+  - lightweight, idiomatic and composable router for building Go HTTP services
+- [arduino-cli](https://github.com/arduino/arduino-cli)
+  - Arduino command line interface
+- [migrate](https://github.com/golang-migrate/migrate)
+  - Database migrations. CLI and Golang library.
+- [pg](https://github.com/go-pg/pg)
+  - Golang ORM with focus on PostgreSQL features and performance
+- [eksctl](https://github.com/weaveworks/eksctl)
+  - The official CLI for Amazon EKS
+- [external-dns](https://github.com/kubernetes-sigs/external-dns)
+  - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [rancher](https://github.com/rancher/rancher)
+  - Complete container management platform
+- [lotus](https://github.com/filecoin-project/lotus)
+  - Implementation of the Filecoin protocol, written in Go

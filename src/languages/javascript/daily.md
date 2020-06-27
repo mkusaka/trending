@@ -1,51 +1,51 @@
 # javascript
+- [shapez.io](https://github.com/tobspr/shapez.io)
+  - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
+- [cypress](https://github.com/cypress-io/cypress)
+  - Fast, easy and reliable testing for anything that runs in a browser.
+- [Unlock-netease-cloud-music](https://github.com/meng-chuan/Unlock-netease-cloud-music)
+  - 解锁网易云音乐客户端变灰歌曲
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
   - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
-- [elevator.js](https://github.com/tholman/elevator.js)
-  - Finally, a "back to top" button that behaves like a real elevator.
 - [generator-jhipster](https://github.com/jhipster/generator-jhipster)
   - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
-- [strapi](https://github.com/strapi/strapi)
-  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
-- [material-table](https://github.com/mbrn/material-table)
-  - Datatable for React based on material-ui's table with additional features
-- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
-  - Bypass Paywalls web browser extension for Chrome and Firefox.
-- [covid19india-react](https://github.com/covid19india/covid19india-react)
-  - Tracking the impact of COVID-19 in India
+- [elevator.js](https://github.com/tholman/elevator.js)
+  - Finally, a "back to top" button that behaves like a real elevator.
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - 🛁 Clean Code concepts adapted for JavaScript
 - [baseweb](https://github.com/uber/baseweb)
   - A React Component library implementing the Base design language
-- [fabric.js](https://github.com/fabricjs/fabric.js)
-  - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
-- [redash](https://github.com/getredash/redash)
-  - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-- [axios](https://github.com/axios/axios)
-  - Promise based HTTP client for the browser and node.js
-- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification)
-  - The OpenAPI Specification Repository
-- [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js)
-  - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
-- [hapi](https://github.com/hapijs/hapi)
-  - The Simple, Secure Framework Developers Trust
-- [Indian-Paper-Currency-Prediction](https://github.com/rowhitswami/Indian-Paper-Currency-Prediction)
-  - Source code of Indian Paper Currency Prediction 🔥
-- [bookshelf](https://github.com/kentcdodds/bookshelf)
-  - Build a ReactJS App workshop
-- [lwc-recipes](https://github.com/trailheadapps/lwc-recipes)
-  - A collection of easy-to-digest code examples for Lightning Web Components on Salesforce Platform
-- [carbon](https://github.com/carbon-design-system/carbon)
-  - A design system built by IBM
-- [responsively-app](https://github.com/manojVivek/responsively-app)
-  - A modified browser that helps in responsive web development.
-- [react-native-firebase](https://github.com/invertase/react-native-firebase)
-  - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
-- [aws-serverless-workshops](https://github.com/aws-samples/aws-serverless-workshops)
-  - Code and walkthrough labs to set up serverless applications for Wild Rydes workshops
-- [slick](https://github.com/kenwheeler/slick)
-  - the last carousel you'll ever need
-- [swagger-editor](https://github.com/swagger-api/swagger-editor)
-  - Swagger Editor
-- [next.js](https://github.com/vercel/next.js)
-  - The React Framework
+- [react-query](https://github.com/tannerlinsley/react-query)
+  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+- [amphtml](https://github.com/ampproject/amphtml)
+  - The AMP web component framework.
+- [keen-slider](https://github.com/rcbyr/keen-slider)
+  - The HTML touch slider carousel with the most native feeling
+- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
+  - Bypass Paywalls web browser extension for Chrome and Firefox.
+- [redux-thunk](https://github.com/reduxjs/redux-thunk)
+  - Thunk middleware for Redux
 - [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
   - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [freecodecamp-projects-vue](https://github.com/gwenf/freecodecamp-projects-vue)
+  - Building all the freeCodeCamp projects in Vue.js.
+- [svelte](https://github.com/sveltejs/svelte)
+  - Cybernetically enhanced web apps
+- [strapi](https://github.com/strapi/strapi)
+  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [grommet](https://github.com/grommet/grommet)
+  - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
+- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
+  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [jexcel](https://github.com/paulhodel/jexcel)
+  - jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software.
+- [ohbm2020-posters](https://github.com/datalad-datasets/ohbm2020-posters)
+  - Centralized registry of Jitsi rooms and pdfs for OHBM 2020 posters.
+- [atom](https://github.com/atom/atom)
+  - The hackable text editor
+- [deck.gl](https://github.com/visgl/deck.gl)
+  - WebGL2 powered geospatial visualization layers
+- [nodejs-docs-samples](https://github.com/GoogleCloudPlatform/nodejs-docs-samples)
+  - Node.js samples for Google Cloud Platform products.
+- [node-fetch](https://github.com/node-fetch/node-fetch)
+  - A light-weight module that brings window.fetch to Node.js
