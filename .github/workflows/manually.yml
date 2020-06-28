@@ -33,8 +33,7 @@ jobs:
       - name: create pull request
         uses: repo-sync/pull-request@v2
         with:
-          source_branch: ${{ env.update_branch }}    # If blank, default: triggered branch
-          destination_branch: "master"          # If blank, default: master
+          source_branch: ${{ env.update_branch }} # If blank, default: triggered branch
+          destination_branch: "master" # If blank, default: master
           pr_title: ${{ env.pr_title }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
-       

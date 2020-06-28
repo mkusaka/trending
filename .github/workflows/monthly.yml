@@ -1,7 +1,7 @@
 name: monthly trending update
 on:
-  schedule: 
-    - cron: '0 11 1 * *'
+  schedule:
+    - cron: "0 11 1 * *"
 
 jobs:
   fetch-and-update:
@@ -17,8 +17,8 @@ jobs:
           echo ::set-env name=pr_title::"Monthly update "$(date +%F)
       - name: update
         run: |
-          git config --global user.email "action@example.com"
-          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git config --global user.name "github-actions[bot]"
           git checkout -b ${{ env.update_branch }}
           ./update monthly
           git add src/
@@ -32,8 +32,7 @@ jobs:
       - name: create pull request
         uses: repo-sync/pull-request@v2
         with:
-          source_branch: ${{ env.update_branch }}    # If blank, default: triggered branch
-          destination_branch: "master"          # If blank, default: master
+          source_branch: ${{ env.update_branch }} # If blank, default: triggered branch
+          destination_branch: "master" # If blank, default: master
           pr_title: ${{ env.pr_title }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
-       
