@@ -1,50 +1,50 @@
 # general
-- [toydb](https://github.com/erikgrinaker/toydb) : Rust
-  - Distributed SQL database in Rust, written as a learning project
-- [CalCAT](https://github.com/StateOfCalifornia/CalCAT) : R
-  - California COVID Assessment Tool
-- [aviary.sh](https://github.com/team-video/aviary.sh) : Shell
-  - Minimal distributed configuration management in bash
-- [Pwdb-Public](https://github.com/FlameOfIgnis/Pwdb-Public) : 
-  - A collection of all the data i could extract from 1 billion leaked credentials from internet.
-- [fgprof](https://github.com/felixge/fgprof) : Go
-  - 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
 - [OnJava8](https://github.com/LingCoder/OnJava8) : 
   - 《On Java 8》中文版，又名《Java编程思想》 第5版
-- [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) : C
-  - OpenCore bootloader
-- [shapez.io](https://github.com/tobspr/shapez.io) : JavaScript
-  - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
-- [PowerToys](https://github.com/microsoft/PowerToys) : C++
-  - Windows system utilities to maximize productivity
-- [fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) : Swift
-  - Fluent System Icons is a set of mobile platform icons from Microsoft
-- [corona](https://github.com/coronalabs/corona) : C++
-  - Solar2D Game Engine main repository (ex Corona SDK)
-- [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) : Python
-  - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
-- [rasa](https://github.com/RasaHQ/rasa) : Python
-  - 💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
+- [Paper](https://github.com/PaperMC/Paper) : Shell
+  - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
 - [covid-model](https://github.com/rtcovidlive/covid-model) : Jupyter Notebook
-- [cypress](https://github.com/cypress-io/cypress) : JavaScript
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [FastSurfer](https://github.com/Deep-MI/FastSurfer) : Python
-  - PyTorch implementation of FastSurferCNN
-- [Unlock-netease-cloud-music](https://github.com/meng-chuan/Unlock-netease-cloud-music) : JavaScript
-  - 解锁网易云音乐客户端变灰歌曲
-- [linuxupskillchallenge](https://github.com/snori74/linuxupskillchallenge) : Shell
-  - Learn the skills required to sysadmin a remote Linux server from the commandline.
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) : JavaScript
-  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
-- [numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra) : Jupyter Notebook
-  - Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course
-- [VTIL-Core](https://github.com/vtil-project/VTIL-Core) : C++
-  - Virtual-machine Translation Intermediate Language
-- [arcore-depth-lab](https://github.com/googlesamples/arcore-depth-lab) : C#
-  - ARCore Depth Lab is a set of Depth API samples that provides assets using depth for advanced geometry-aware features in AR interaction and rendering. (UIST 2020)
+- [scrcpy](https://github.com/Genymobile/scrcpy) : C
+  - Display and control your Android device
+- [honkit](https://github.com/honkit/honkit) : JavaScript
+  - 📖 HonKit is building beautiful books using Markdown - Fork of GitBook
 - [Mindustry](https://github.com/Anuken/Mindustry) : Java
   - A sandbox tower defense game
-- [jax](https://github.com/google/jax) : Python
-  - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+- [vnpy](https://github.com/vnpy/vnpy) : C++
+  - 基于Python的开源量化交易平台开发框架
+- [shapez.io](https://github.com/tobspr/shapez.io) : JavaScript
+  - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
 - [formik](https://github.com/formik/formik) : TypeScript
   - Build forms in React, without the tears 😭
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4) : JavaScript
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [avatarify](https://github.com/alievk/avatarify) : Python
+  - Avatars for Zoom, Skype and other video-conferencing apps.
+- [fgprof](https://github.com/felixge/fgprof) : Go
+  - 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
+- [CRYENGINE](https://github.com/CRYTEK/CRYENGINE) : C++
+  - CRYENGINE is a powerful real-time game development platform created by Crytek.
+- [numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra) : Jupyter Notebook
+  - Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course
+- [Unlock-netease-cloud-music](https://github.com/meng-chuan/Unlock-netease-cloud-music) : JavaScript
+  - 解锁网易云音乐客户端变灰歌曲
+- [password-manager-resources](https://github.com/apple/password-manager-resources) : JavaScript
+  - A place for creators and users of password managers to collaborate on resources to make password management better.
+- [Bug-Bounty-Toolz](https://github.com/m4ll0k/Bug-Bounty-Toolz) : Python
+  - BBT - Bug Bounty Tools
+- [vector](https://github.com/timberio/vector) : Rust
+  - A lightweight and ultra-fast tool for building observability pipelines
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) : JavaScript
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [toydb](https://github.com/erikgrinaker/toydb) : Rust
+  - Distributed SQL database in Rust, written as a learning project
+- [lnbook](https://github.com/lnbook/lnbook) : Shell
+  - Mastering the Lightning Network (LN)
+- [beego](https://github.com/astaxie/beego) : Go
+  - beego is an open-source, high-performance web framework for the Go programming language.
+- [getx](https://github.com/jonataslaw/getx) : Dart
+  - Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.
+- [emigui](https://github.com/emilk/emigui) : Rust
+  - egui: Immediate mode GUI written in Rust, made for WASM
+- [Pwdb-Public](https://github.com/FlameOfIgnis/Pwdb-Public) : 
+  - A collection of all the data i could extract from 1 billion leaked credentials from internet.
