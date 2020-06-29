@@ -1,51 +1,51 @@
 # ruby
-- [fastlane](https://github.com/fastlane/fastlane)
-  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [faker](https://github.com/faker-ruby/faker)
-  - A library for generating fake data such as names, addresses, and phone numbers.
 - [rails](https://github.com/rails/rails)
   - Ruby on Rails
+- [fastlane](https://github.com/fastlane/fastlane)
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [ruby](https://github.com/ruby/ruby)
+  - The Ruby Programming Language [mirror]
 - [brew](https://github.com/Homebrew/brew)
   - 🍺 The missing package manager for macOS (or Linux)
-- [spree](https://github.com/spree/spree)
-  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
-- [devise](https://github.com/heartcombo/devise)
-  - Flexible authentication solution for Rails with Warden.
-- [solidus](https://github.com/solidusio/solidus)
-  - 🛒Solidus, Rails eCommerce System
-- [openproject](https://github.com/opf/openproject)
-  - OpenProject is the leading open source project management software.
-- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
-  - Ruby implementation of GraphQL
-- [explore](https://github.com/github/explore)
-  - Community-curated topic and collection pages on GitHub
-- [webpacker](https://github.com/rails/webpacker)
-  - Use Webpack to manage app-like JavaScript modules in Rails
-- [chef](https://github.com/chef/chef)
-  - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
-- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
-  - Metasploit Framework
-- [aws-sdk-ruby](https://github.com/aws/aws-sdk-ruby)
-  - The official AWS SDK for Ruby.
 - [chatwoot](https://github.com/chatwoot/chatwoot)
   - Open-source live chat software 🔥💬
-- [activeadmin](https://github.com/activeadmin/activeadmin)
-  - The administration framework for Ruby on Rails applications.
-- [dev.to](https://github.com/thepracticaldev/dev.to)
-  - Where programmers share ideas and help each other grow
-- [mastodon](https://github.com/tootsuite/mastodon)
-  - Your self-hosted, globally interconnected microblogging community
+- [discourse](https://github.com/discourse/discourse)
+  - A platform for community discussion. Free, open, simple.
+- [devise](https://github.com/heartcombo/devise)
+  - Flexible authentication solution for Rails with Warden.
+- [factory_bot](https://github.com/thoughtbot/factory_bot)
+  - A library for setting up Ruby objects as test data.
+- [pundit](https://github.com/varvet/pundit)
+  - Minimal authorization through OO design and pure Ruby classes
+- [fast_jsonapi](https://github.com/Netflix/fast_jsonapi)
+  - A lightning fast JSON:API serializer for Ruby Objects.
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
+  - Metasploit Framework
+- [solidus](https://github.com/solidusio/solidus)
+  - 🛒Solidus, Rails eCommerce System
+- [spree](https://github.com/spree/spree)
+  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
 - [sinatra](https://github.com/sinatra/sinatra)
   - Classy web-development dressed in a DSL (official / canonical repo)
+- [simple_form](https://github.com/heartcombo/simple_form)
+  - Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
+- [Learning-SICP](https://github.com/DeathKing/Learning-SICP)
+  - MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。
+- [WhatWeb](https://github.com/urbanadventurer/WhatWeb)
+  - Next generation web scanner
+- [devdocs](https://github.com/freeCodeCamp/devdocs)
+  - API Documentation Browser
+- [capybara](https://github.com/teamcapybara/capybara)
+  - Acceptance test framework for web applications
+- [liquid](https://github.com/Shopify/liquid)
+  - Liquid markup language. Safe, customer facing template language for flexible web apps.
+- [rack](https://github.com/rack/rack)
+  - A modular Ruby web server interface.
+- [brakeman](https://github.com/presidentbeef/brakeman)
+  - A static analysis security vulnerability scanner for Ruby on Rails applications
 - [view_component](https://github.com/github/view_component)
   - View components for Rails
-- [sidekiq](https://github.com/mperham/sidekiq)
-  - Simple, efficient background processing for Ruby
-- [scalelite](https://github.com/blindsidenetworks/scalelite)
-  - Scalable load balancer for BigBlueButton.
-- [fluentd](https://github.com/fluent/fluentd)
-  - Fluentd: Unified Logging Layer (project under CNCF)
-- [lolcat](https://github.com/busyloop/lolcat)
-  - Rainbows and unicorns!
-- [gigabyte-z390-aorus-master-hackintosh](https://github.com/cmer/gigabyte-z390-aorus-master-hackintosh)
-  - A guide to build your own Hackintosh based on Gigabyte Z390 Aorus Master
+- [simplecov](https://github.com/colszowka/simplecov)
+  - Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites
+- [faker](https://github.com/faker-ruby/faker)
+  - A library for generating fake data such as names, addresses, and phone numbers.

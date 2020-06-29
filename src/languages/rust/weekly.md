@@ -1,51 +1,51 @@
 # rust
-- [tauri](https://github.com/tauri-apps/tauri)
-  - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
-- [materialize](https://github.com/MaterializeInc/materialize)
-  - The Streaming SQL Database powered by Timely Dataflow
-- [gitui](https://github.com/extrawurst/gitui)
-  - blazing fast terminal-ui for git written in rust
+- [lemmy](https://github.com/LemmyNet/lemmy)
+  - 🐀 Building a federated alternative to reddit in rust
+- [druid](https://github.com/linebender/druid)
+  - A data-first Rust-native UI design toolkit.
 - [rust](https://github.com/rust-lang/rust)
   - Empowering everyone to build reliable and efficient software.
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
-- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
-  - 📚 Learn to write an embedded OS in Rust 🦀
-- [warp](https://github.com/seanmonstar/warp)
-  - A super-easy, composable, web server framework for warp speeds.
+- [deno_lint](https://github.com/denoland/deno_lint)
+  - Blazing fast linter for JavaScript and TypeScript written in Rust
+- [tikv](https://github.com/tikv/tikv)
+  - Distributed transactional key-value database, originally created to complement TiDB
+- [vector](https://github.com/timberio/vector)
+  - A lightweight and ultra-fast tool for building observability pipelines
+- [iced](https://github.com/hecrj/iced)
+  - A cross-platform GUI library for Rust, inspired by Elm
+- [smol](https://github.com/stjepang/smol)
+  - A small and fast async runtime for Rust
+- [cloudformation-guard](https://github.com/aws-cloudformation/cloudformation-guard)
+  - [PREVIEW] A set of tools to check AWS CloudFormation templates for policy compliance using a simple, policy-as-code, declarative syntax
+- [swc](https://github.com/swc-project/swc)
+  - Super-fast typescript / javascript compiler written in rust
+- [mdBook](https://github.com/rust-lang/mdBook)
+  - Create book from markdown files. Like Gitbook but implemented in Rust
+- [talent-plan](https://github.com/pingcap/talent-plan)
+  - open source training courses about distributed database and distributed systemes
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
   - A curated list of Rust code and resources.
 - [ruffle](https://github.com/ruffle-rs/ruffle)
   - A Flash Player emulator written in Rust
-- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
-  - Rust bindings to wgpu native library
-- [crossbeam](https://github.com/crossbeam-rs/crossbeam)
-  - Tools for concurrent programming in Rust
-- [deno_lint](https://github.com/denoland/deno_lint)
-  - Blazing fast linter for JavaScript and TypeScript written in Rust
-- [rustls](https://github.com/ctz/rustls)
-  - A modern TLS library in Rust
-- [tikv](https://github.com/tikv/tikv)
-  - Distributed transactional key-value database, originally created to complement TiDB
-- [amethyst](https://github.com/amethyst/amethyst)
-  - Data-oriented and data-driven game engine written in Rust
-- [rustup](https://github.com/rust-lang/rustup)
-  - The Rust toolchain installer
-- [druid](https://github.com/xi-editor/druid)
-  - A data-first Rust-native UI design toolkit.
-- [cargo](https://github.com/rust-lang/cargo)
-  - The Rust package manager
-- [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
-  - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
-- [findomain](https://github.com/Edu4rdSHL/findomain)
-  - The fastest and cross-platform subdomain enumerator, do not waste your time.
+- [wasmtime](https://github.com/bytecodealliance/wasmtime)
+  - Standalone JIT-style runtime for WebAssembly, using Cranelift
+- [starship](https://github.com/starship/starship)
+  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [rustlings](https://github.com/rust-lang/rustlings)
+  - 🦀 Small exercises to get you used to reading and writing Rust code!
+- [tokenizers](https://github.com/huggingface/tokenizers)
+  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [diesel](https://github.com/diesel-rs/diesel)
+  - A safe, extensible ORM and Query Builder for Rust
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
+- [spotifyd](https://github.com/Spotifyd/spotifyd)
+  - A spotify daemon
 - [fd](https://github.com/sharkdp/fd)
   - A simple, fast and user-friendly alternative to 'find'
-- [RustPython](https://github.com/RustPython/RustPython)
-  - A Python Interpreter written in Rust
-- [tonic](https://github.com/hyperium/tonic)
-  - A native gRPC client & server implementation with async/await support.
-- [pyo3](https://github.com/PyO3/pyo3)
-  - Rust bindings for the Python interpreter
-- [talent-plan](https://github.com/pingcap/talent-plan)
-  - open source training courses about distributed database and distributed systemes
+- [serde](https://github.com/serde-rs/serde)
+  - Serialization framework for Rust
+- [tree-sitter](https://github.com/tree-sitter/tree-sitter)
+  - An incremental parsing system for programming tools
+- [tauri](https://github.com/tauri-apps/tauri)
+  - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.

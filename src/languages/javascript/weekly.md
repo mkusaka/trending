@@ -1,51 +1,51 @@
 # javascript
 - [shapez.io](https://github.com/tobspr/shapez.io)
   - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
-- [bootstrap](https://github.com/twbs/bootstrap)
-  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [iptv](https://github.com/iptv-org/iptv)
-  - Collection of 8000+ publicly available IPTV channels from all over the world
-- [playwright](https://github.com/microsoft/playwright)
-  - Node library to automate Chromium, Firefox and WebKit with a single API
-- [robintrack](https://github.com/Ameobea/robintrack)
-  - Scrapes the Robinhood API to retrieve + store popularity and price data.
-- [decentralized-video-chat](https://github.com/ianramzy/decentralized-video-chat)
-  - 🚀 Zipcall.io 🚀 Peer to peer browser video calling platform with unmatched video quality and latency.
-- [myDrive](https://github.com/subnub/myDrive)
-  - Node.js and mongoDB Google Drive Clone
-- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
-  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
-  - Bypass Paywalls web browser extension for Chrome and Firefox.
-- [eslint](https://github.com/eslint/eslint)
-  - Find and fix problems in your JavaScript code.
-- [vue](https://github.com/vuejs/vue)
-  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
-  - 🕸 Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
-- [kuboard-press](https://github.com/eip-work/kuboard-press)
-  - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.18 安装手册，(k8s install) 在线答疑，持续更新。
-- [next-auth](https://github.com/iaincollins/next-auth)
-  - Easy authentication for Next.js and Serverless
-- [gutenberg](https://github.com/WordPress/gutenberg)
-  - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [create-react-app](https://github.com/facebook/create-react-app)
-  - Set up a modern web app by running one command.
-- [xgenecloud](https://github.com/xgenecloud/xgenecloud)
-  - •🔥 •🔥 •🔥 • Instantly generate REST & GraphQL APIs on any Database (Supports : MySQL, PostgreSQL, MsSQL, SQLite, MariaDB & Aurora)
-- [cropperjs](https://github.com/fengyuanchen/cropperjs)
-  - JavaScript image cropper.
-- [devconnector_2.0](https://github.com/bradtraversy/devconnector_2.0)
-  - Social network for developers, built on the MERN stack
+- [redash](https://github.com/getredash/redash)
+  - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+- [discord.js](https://github.com/discordjs/discord.js)
+  - A powerful JavaScript library for interacting with the Discord API
+- [Script](https://github.com/NobyDa/Script)
+  - This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.
 - [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
   - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [axios](https://github.com/axios/axios)
-  - Promise based HTTP client for the browser and node.js
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [next-auth](https://github.com/iaincollins/next-auth)
+  - Easy authentication for Next.js and Serverless
+- [bookshelf](https://github.com/kentcdodds/bookshelf)
+  - Build a ReactJS App workshop
+- [keen-slider](https://github.com/rcbyr/keen-slider)
+  - The HTML touch slider carousel with the most native feeling
+- [react-query](https://github.com/tannerlinsley/react-query)
+  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
+  - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [in-quiz-questions](https://github.com/Ebazhanov/in-quiz-questions)
   - 👉 Linkedin quiz (Assessment) answers and questions (aws-lambda, rest-api, javascript, react, git, html, jquery, maven, mongodb, xml, java, css, python ...) 😎
+- [webdriverio](https://github.com/webdriverio/webdriverio)
+  - Next-gen browser and mobile automation test framework for Node.js
+- [BetterDiscordApp](https://github.com/rauenzi/BetterDiscordApp)
+  - Better Discord App enhances Discord desktop app with new features.
+- [sequelize](https://github.com/sequelize/sequelize)
+  - An easy-to-use multi SQL dialect ORM for Node.js
 - [alpine](https://github.com/alpinejs/alpine)
   - A rugged, minimal framework for composing JavaScript behavior in your markup.
+- [leetcode](https://github.com/azl397985856/leetcode)
+  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+- [odoo](https://github.com/odoo/odoo)
+  - Odoo. Open Source Apps To Grow Your Business.
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [fabric.js](https://github.com/fabricjs/fabric.js)
+  - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
+- [axios](https://github.com/axios/axios)
+  - Promise based HTTP client for the browser and node.js
+- [DPlayer](https://github.com/MoePlayer/DPlayer)
+  - 🍭 Wow, such a lovely HTML5 danmaku video player
+- [winston](https://github.com/winstonjs/winston)
+  - A logger for just about everything.
+- [serverless](https://github.com/serverless/serverless)
+  - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+- [browser-compat-data](https://github.com/mdn/browser-compat-data)
+  - This repository contains compatibility data for Web technologies as displayed on MDN
