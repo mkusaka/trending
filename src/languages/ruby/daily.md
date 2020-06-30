@@ -1,51 +1,51 @@
 # ruby
-- [discourse](https://github.com/discourse/discourse)
-  - A platform for community discussion. Free, open, simple.
-- [rails](https://github.com/rails/rails)
-  - Ruby on Rails
-- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
-  - Metasploit Framework
-- [linguist](https://github.com/github/linguist)
-  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-- [mastodon](https://github.com/tootsuite/mastodon)
-  - Your self-hosted, globally interconnected microblogging community
+- [cloud-ranges](https://github.com/pry0cc/cloud-ranges)
+  - A list of cloud ranges from different providers.
+- [PoC](https://github.com/pedrib/PoC)
+  - 
 - [rails-k8s-demo](https://github.com/lewagon/rails-k8s-demo)
   - "Classic stack" Rails/Sidekiq/ActionCable PostgreSQL/Redis/Puma app to demonstrate Digital Ocean Kubernetes deployment with Helm 3 and local Docker dev environment with docker-compose and dip (https://github.com/bibendi/dip)
-- [chatwoot](https://github.com/chatwoot/chatwoot)
-  - Open-source live chat software 🔥💬
-- [brew](https://github.com/Homebrew/brew)
-  - 🍺 The missing package manager for macOS (or Linux)
-- [devdocs](https://github.com/freeCodeCamp/devdocs)
-  - API Documentation Browser
-- [solargraph](https://github.com/castwide/solargraph)
-  - A Ruby language server.
-- [Docker-Provider](https://github.com/microsoft/Docker-Provider)
-  - Azure Monitor for Containers
-- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-- [rails-i18n](https://github.com/svenfuchs/rails-i18n)
-  - Repository for collecting Locale data for Ruby on Rails I18n as well as other interesting, Rails related I18n stuff
-- [brakeman](https://github.com/presidentbeef/brakeman)
-  - A static analysis security vulnerability scanner for Ruby on Rails applications
-- [choosealicense.com](https://github.com/github/choosealicense.com)
-  - A site to provide non-judgmental guidance on choosing a license for your open source project
-- [fusuma](https://github.com/iberianpig/fusuma)
-  - Multitouch gestures with libinput driver on Linux
-- [debugging-with-pry-v-000](https://github.com/learn-co-students/debugging-with-pry-v-000)
+- [setup](https://github.com/lewagon/setup)
+  - Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp
+- [discourse](https://github.com/discourse/discourse)
+  - A platform for community discussion. Free, open, simple.
+- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
+  - The Cocoa Dependency Manager.
+- [fluentd-kubernetes-daemonset](https://github.com/fluent/fluentd-kubernetes-daemonset)
+  - Fluentd daemonset for Kubernetes and it Docker image
+- [rails_admin](https://github.com/sferik/rails_admin)
+  - RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data
+- [rails-garden-manager](https://github.com/lewagon/rails-garden-manager)
   - 
-- [activeadmin](https://github.com/activeadmin/activeadmin)
-  - The administration framework for Ruby on Rails applications.
+- [strong_migrations](https://github.com/ankane/strong_migrations)
+  - Catch unsafe migrations in development
+- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
+  - Ruby implementation of GraphQL
+- [dev.to](https://github.com/thepracticaldev/dev.to)
+  - Where programmers share ideas and help each other grow
 - [fluentd](https://github.com/fluent/fluentd)
   - Fluentd: Unified Logging Layer (project under CNCF)
-- [pupilfirst](https://github.com/pupilfirst/pupilfirst)
-  - A learning management system (LMS) that lets you run an asynchronous online school, where learning is achieved through focused tasks, directed feedback, an iterative workflow, and community interaction.
-- [ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db)
-  - A database of vulnerable Ruby Gems
-- [Rails-RubberDucking-nyc01-seng-ft-060120](https://github.com/learn-co-students/Rails-RubberDucking-nyc01-seng-ft-060120)
-  - 
-- [nested-hash-iteration-code-along-onl01-seng-pt-061520](https://github.com/learn-co-students/nested-hash-iteration-code-along-onl01-seng-pt-061520)
-  - 
-- [instance-methods-lab-ruby-onl01-seng-pt-061520](https://github.com/learn-co-students/instance-methods-lab-ruby-onl01-seng-pt-061520)
-  - 
-- [cosmic_travel](https://github.com/paulnicholsen27/cosmic_travel)
-  - Mod 2 Code Challenge Review
+- [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch)
+  - Ansible playbook for Elasticsearch
+- [react-native-config](https://github.com/luggit/react-native-config)
+  - Bring some 12 factor love to your mobile apps!
+- [devise](https://github.com/heartcombo/devise)
+  - Flexible authentication solution for Rails with Warden.
+- [stripe-ruby-mock](https://github.com/stripe-ruby-mock/stripe-ruby-mock)
+  - A mocking library for testing stripe ruby
+- [logstash](https://github.com/elastic/logstash)
+  - Logstash - transport and process your logs, events, or other data
+- [sinatra](https://github.com/sinatra/sinatra)
+  - Classy web-development dressed in a DSL (official / canonical repo)
+- [paranoia](https://github.com/rubysherpas/paranoia)
+  - acts_as_paranoid for Rails 3, 4 and 5
+- [axlsx](https://github.com/randym/axlsx)
+  - xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your…
+- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+- [faker](https://github.com/faker-ruby/faker)
+  - A library for generating fake data such as names, addresses, and phone numbers.
+- [simplecov](https://github.com/colszowka/simplecov)
+  - Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites
+- [sharetribe](https://github.com/sharetribe/sharetribe)
+  - Sharetribe Go is a source available marketplace software, also available with SaaS model. See also Sharetribe Flex (https://www.sharetribe.com/flex), a headless marketplace solution.

@@ -1,51 +1,51 @@
 # general
-- [foam](https://github.com/foambubble/foam) : Markdown
-  - A personal knowledge management and sharing system for VSCode
-- [CRYENGINE](https://github.com/CRYTEK/CRYENGINE) : C++
-  - CRYENGINE is a powerful real-time game development platform created by Crytek.
-- [lemmy](https://github.com/LemmyNet/lemmy) : Rust
-  - 🐀 Building a federated alternative to reddit in rust
-- [Mindustry](https://github.com/Anuken/Mindustry) : Java
-  - A sandbox tower defense game
-- [avatarify](https://github.com/alievk/avatarify) : Python
-  - Avatars for Zoom, Skype and other video-conferencing apps.
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
-  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
-- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) : Jupyter Notebook
-  - Python - 100天从新手到大师
-- [leetcode](https://github.com/azl397985856/leetcode) : JavaScript
-  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
-- [gin](https://github.com/gin-gonic/gin) : Go
-  - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [OnJava8](https://github.com/LingCoder/OnJava8) : 
-  - 《On Java 8》中文版，又名《Java编程思想》 第5版
-- [JavaGuide](https://github.com/Snailclimb/JavaGuide) : Java
-  - 「Java学习+面试指南」一份涵盖大部分Java程序员所需要掌握的核心知识。
-- [opencv](https://github.com/opencv/opencv) : C++
-  - Open Source Computer Vision Library
-- [honkit](https://github.com/honkit/honkit) : JavaScript
-  - 📖 HonKit is building beautiful books using Markdown - Fork of GitBook
-- [canal](https://github.com/alibaba/canal) : Java
-  - 阿里巴巴 MySQL binlog 增量订阅&消费组件
-- [cnn-explainer](https://github.com/poloclub/cnn-explainer) : JavaScript
-  - Learning Convolutional Neural Networks with Interactive Visualization.
-- [secretive](https://github.com/maxgoedjen/secretive) : Swift
-  - Store SSH keys in the Secure Enclave
 - [FreeDVDBoot](https://github.com/CTurt/FreeDVDBoot) : C
   - PlayStation 2 DVD Player Exploit
-- [advanced-java](https://github.com/doocs/advanced-java) : Java
-  - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
-- [Unlock-netease-cloud-music](https://github.com/meng-chuan/Unlock-netease-cloud-music) : JavaScript
-  - 解锁网易云音乐客户端变灰歌曲
-- [shardingsphere-elasticjob-lite](https://github.com/apache/shardingsphere-elasticjob-lite) : Java
-  - Distributed scheduled job framework
-- [awesome-courses](https://github.com/prakhar1989/awesome-courses) : 
-  - 📚 List of awesome university courses for learning Computer Science!
+- [Mindustry](https://github.com/Anuken/Mindustry) : Java
+  - A sandbox tower defense game
+- [lemmy](https://github.com/LemmyNet/lemmy) : Rust
+  - 🐀 Building a federated alternative to reddit in rust
+- [cnn-explainer](https://github.com/poloclub/cnn-explainer) : JavaScript
+  - Learning Convolutional Neural Networks with Interactive Visualization.
+- [OnJava8](https://github.com/LingCoder/OnJava8) : 
+  - 《On Java 8》中文版，又名《Java编程思想》 第5版
+- [foam-template](https://github.com/foambubble/foam-template) : CSS
+  - Foam workpace template
+- [chat](https://github.com/tinode/chat) : Go
+  - Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots
+- [avatarify](https://github.com/alievk/avatarify) : Python
+  - Avatars for Zoom, Skype and other video-conferencing apps.
+- [foam](https://github.com/foambubble/foam) : Markdown
+  - A personal knowledge management and sharing system for VSCode
+- [super-productivity](https://github.com/johannesjo/super-productivity) : TypeScript
+  - To-do list & time tracker for programmers & other digital workers with Jira, Github and Gitlab integration
+- [my-flutter-challenges](https://github.com/e200/my-flutter-challenges) : Dart
+  - A collection of all my Flutter Challenges
 - [Deep-learning-books](https://github.com/loveunk/Deep-learning-books) : 
   - Books for machine learning, deep learning, math, NLP, CV, RL, etc
+- [awesome-courses](https://github.com/prakhar1989/awesome-courses) : 
+  - 📚 List of awesome university courses for learning Computer Science!
+- [Pulse](https://github.com/nasa-jpl/Pulse) : 
+  - A pendant to warn you when you touch your face
+- [SciencePlots](https://github.com/garrettj403/SciencePlots) : Python
+  - Matplotlib styles for scientific plotting
+- [JavaGuide](https://github.com/Snailclimb/JavaGuide) : Java
+  - 「Java学习+面试指南」一份涵盖大部分Java程序员所需要掌握的核心知识。
 - [scrcpy](https://github.com/Genymobile/scrcpy) : C
   - Display and control your Android device
-- [snowpack](https://github.com/pikapkg/snowpack) : JavaScript
-  - The near-instant build tool for modern web apps.
+- [deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) : 
+  - Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
+- [TensorflowTTS](https://github.com/TensorSpeech/TensorflowTTS) : Python
+  - 😝 TensorflowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2
+- [python3-in-one-pic](https://github.com/coodict/python3-in-one-pic) : Jupyter Notebook
+  - Learn python3 in one picture.
+- [precourse](https://github.com/NeuromatchAcademy/precourse) : 
+  - A repo for the pre-course work at home exercises
+- [rolling-rhino](https://github.com/wimpysworld/rolling-rhino) : Shell
+  - Rolling Rhino; convert Ubuntu into a rolling release as seen on YouTube
+- [advanced-java](https://github.com/doocs/advanced-java) : Java
+  - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
 - [spektral](https://github.com/danielegrattarola/spektral) : Python
   - Graph Neural Networks with Keras and Tensorflow 2.
+- [shardingsphere-elasticjob-lite](https://github.com/apache/shardingsphere-elasticjob-lite) : Java
+  - Distributed scheduled job framework
