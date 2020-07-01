@@ -1,51 +1,51 @@
 # rust
-- [lemmy](https://github.com/LemmyNet/lemmy)
-  - 🐀 Building a federated alternative to reddit in rust
-- [wasmtime](https://github.com/bytecodealliance/wasmtime)
-  - Standalone JIT-style runtime for WebAssembly, using Cranelift
 - [substrate](https://github.com/paritytech/substrate)
   - Substrate: The platform for blockchain innovators
-- [tui-rs](https://github.com/fdehau/tui-rs)
-  - Build terminal user interfaces and dashboards using Rust
-- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
-  - 📚 Learn to write an embedded OS in Rust 🦀
-- [sekey](https://github.com/sekey/sekey)
-  - Use Touch ID / Secure Enclave for SSH Authentication!
-- [vector](https://github.com/timberio/vector)
-  - A lightweight and ultra-fast tool for building observability pipelines
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [tokenizers](https://github.com/huggingface/tokenizers)
-  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
-- [amethyst](https://github.com/amethyst/amethyst)
-  - Data-oriented and data-driven game engine written in Rust
-- [bat](https://github.com/sharkdp/bat)
-  - A cat(1) clone with wings.
-- [sqlx](https://github.com/launchbadge/sqlx)
-  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-- [delta](https://github.com/dandavison/delta)
-  - A syntax-highlighter for git and diff output
-- [sccache](https://github.com/mozilla/sccache)
-  - sccache is ccache with cloud storage
-- [talent-plan](https://github.com/pingcap/talent-plan)
-  - open source training courses about distributed database and distributed systemes
+- [lemmy](https://github.com/LemmyNet/lemmy)
+  - 🐀 Building a federated alternative to reddit in rust
 - [rust](https://github.com/rust-lang/rust)
   - Empowering everyone to build reliable and efficient software.
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
-- [Rust](https://github.com/TheAlgorithms/Rust)
-  - All Algorithms implemented in Rust
+- [starship](https://github.com/starship/starship)
+  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [wasmtime](https://github.com/bytecodealliance/wasmtime)
+  - Standalone JIT-style runtime for WebAssembly, using Cranelift
+- [gleam](https://github.com/gleam-lang/gleam)
+  - ⭐️ A statically typed language for the Erlang VM
+- [sai](https://github.com/zhming0/sai)
+  - A minimal IoC/DI framework for Rust.
+- [teip](https://github.com/greymd/teip)
+  - Select partial standard input and replace with the result of another command efficiently
+- [rymfony](https://github.com/Pierstoval/rymfony)
+  - A work-in-progress CLI tool built in Rust to mimic the Symfony CLI binary
+- [tokio](https://github.com/tokio-rs/tokio)
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
+- [os_kernel_lab](https://github.com/chyyuu/os_kernel_lab)
+  - OS kernel labs based on Rust Lang & RISC-V 64
+- [tui-rs](https://github.com/fdehau/tui-rs)
+  - Build terminal user interfaces and dashboards using Rust
 - [libra](https://github.com/libra/libra)
   - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [stacks-blockchain](https://github.com/blockstack/stacks-blockchain)
-  - The Stacks 2.0 blockchain implementation
+- [xsv](https://github.com/BurntSushi/xsv)
+  - A fast CSV command line toolkit written in Rust.
+- [sekey](https://github.com/sekey/sekey)
+  - Use Touch ID / Secure Enclave for SSH Authentication!
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
+- [examples](https://github.com/actix/examples)
+  - Actix web examples
+- [polkadot](https://github.com/paritytech/polkadot)
+  - Polkadot Node Implementation
 - [tikv](https://github.com/tikv/tikv)
   - Distributed transactional key-value database, originally created to complement TiDB
-- [druid](https://github.com/linebender/druid)
-  - A data-first Rust-native UI design toolkit.
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
-- [nushell](https://github.com/nushell/nushell)
-  - A new type of shell
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
+- [rCore](https://github.com/rcore-os/rCore)
+  - Rust version of THU uCore OS. Linux compatible.
+- [sqlx](https://github.com/launchbadge/sqlx)
+  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+- [sccache](https://github.com/mozilla/sccache)
+  - sccache is ccache with cloud storage
+- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+  - 📚 Learn to write an embedded OS in Rust 🦀

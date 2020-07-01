@@ -1,51 +1,51 @@
 # javascript
 - [cnn-explainer](https://github.com/poloclub/cnn-explainer)
   - Learning Convolutional Neural Networks with Interactive Visualization.
-- [leetcode](https://github.com/azl397985856/leetcode)
-  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
-- [snowpack](https://github.com/pikapkg/snowpack)
-  - The near-instant build tool for modern web apps.
-- [sheetjs](https://github.com/SheetJS/sheetjs)
-  - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
-- [vuex](https://github.com/vuejs/vuex)
-  - 🗃️ Centralized State Management for Vue.js.
-- [create-react-app](https://github.com/facebook/create-react-app)
-  - Set up a modern web app by running one command.
+- [hexapod](https://github.com/mithi/hexapod)
+  - Blazing fast hexapod robot simulator with React and Plotly.
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [vue](https://github.com/vuejs/vue)
   - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [honkit](https://github.com/honkit/honkit)
-  - 📖 HonKit is building beautiful books using Markdown - Fork of GitBook
-- [Unlock-netease-cloud-music](https://github.com/meng-chuan/Unlock-netease-cloud-music)
-  - 解锁网易云音乐客户端变灰歌曲
-- [three.js](https://github.com/mrdoob/three.js)
-  - JavaScript 3D library.
-- [beautiful-react-hooks](https://github.com/beautifulinteractions/beautiful-react-hooks)
-  - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
-- [webpack-dev-server](https://github.com/webpack/webpack-dev-server)
-  - Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/.
-- [mermaid](https://github.com/mermaid-js/mermaid)
-  - Generation of diagram and flowchart from text in a similar manner as markdown
-- [react-router](https://github.com/ReactTraining/react-router)
-  - Declarative routing for React
+- [graphql-js](https://github.com/graphql/graphql-js)
+  - A reference implementation of GraphQL for JavaScript
+- [MagicMirror](https://github.com/MichMich/MagicMirror)
+  - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
+- [elasticsearch-head](https://github.com/mobz/elasticsearch-head)
+  - A web front end for an elastic search cluster
+- [algorithms-visualiser](https://github.com/dipeshpatil/algorithms-visualiser)
+  - Currently Implemented Sorting (Merge, Quick, Heap, Bubble, Insertion, Selection) Backtracking (NQueen Problem) Searching (Linear, Binary)
+- [vant](https://github.com/youzan/vant)
+  - Lightweight Mobile UI Components built on Vue
+- [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react)
+  - React specific linting rules for ESLint
+- [BrasilAPI](https://github.com/filipedeschamps/BrasilAPI)
+  - Vamos transformar o Brasil em uma API?
+- [textures](https://github.com/riccardoscalco/textures)
+  - Textures.js is a JavaScript library for creating SVG patterns
+- [content](https://github.com/nuxt/content)
+  - Write in a content/ directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
+- [brave-browser](https://github.com/brave/brave-browser)
+  - Next generation Brave browser for macOS, Windows, Linux, Android.
+- [posthog](https://github.com/PostHog/posthog)
+  - 🦔 PostHog is developer-friendly, open-source product analytics.
 - [v86](https://github.com/copy/v86)
   - x86 virtualization in JavaScript, running in your browser and NodeJS
-- [todomvc](https://github.com/tastejs/todomvc)
-  - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [Rando.js](https://github.com/nastyox/Rando.js)
-  - The world's easiest, most powerful random function.
+- [lib-flexible](https://github.com/amfe/lib-flexible)
+  - 可伸缩布局方案
+- [layui](https://github.com/sentsin/layui)
+  - 采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写形式，极低门槛，拿来即用。
+- [sheetjs](https://github.com/SheetJS/sheetjs)
+  - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
+- [mobx](https://github.com/mobxjs/mobx)
+  - Simple, scalable state management.
+- [playwright](https://github.com/microsoft/playwright)
+  - Node library to automate Chromium, Firefox and WebKit with a single API
+- [bull](https://github.com/OptimalBits/bull)
+  - Premium Queue package for handling distributed jobs and messages in NodeJS.
+- [fe-interview](https://github.com/haizlin/fe-interview)
+  - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）
 - [slate](https://github.com/ianstormtaylor/slate)
   - A completely customizable framework for building rich text editors. (Currently in beta.)
-- [react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
-  - Cheatsheets for experienced React developers getting started with TypeScript
-- [relay](https://github.com/facebook/relay)
-  - Relay is a JavaScript framework for building data-driven React applications.
-- [react-chartjs-2](https://github.com/jerairrest/react-chartjs-2)
-  - React wrapper for Chart.js
-- [learnVue](https://github.com/answershuto/learnVue)
-  - Vue.js 源码解析
-- [SwitchHosts](https://github.com/oldj/SwitchHosts)
-  - Switch hosts quickly!
-- [complete-node-bootcamp](https://github.com/jonasschmedtmann/complete-node-bootcamp)
-  - Starter files, final projects and FAQ for my Complete Node.js Bootcamp
+- [docusaurus](https://github.com/facebook/docusaurus)
+  - Easy to maintain open source documentation websites.
