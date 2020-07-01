@@ -1,51 +1,51 @@
 # typescript
-- [deno](https://github.com/denoland/deno)
-  - A secure JavaScript and TypeScript runtime
-- [vite](https://github.com/vitejs/vite)
-  - An opinionated web dev build tool. It's fast.
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui)
+  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+- [streamlit](https://github.com/streamlit/streamlit)
+  - Streamlit — The fastest way to build custom ML tools
+- [angular](https://github.com/angular/angular)
+  - One framework. Mobile & desktop.
 - [grafana](https://github.com/grafana/grafana)
   - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [ant-design-pro](https://github.com/ant-design/ant-design-pro)
-  - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
+- [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)
+  - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
+- [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper)
+  - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
+- [lens](https://github.com/lensapp/lens)
+  - Lens - The Kubernetes IDE
+- [excalidraw](https://github.com/excalidraw/excalidraw)
+  - Virtual whiteboard for sketching hand-drawn like diagrams
+- [hooks](https://github.com/alibaba/hooks)
+  - React Hooks Library
+- [rough-notation](https://github.com/rough-stuff/rough-notation)
+  - Create and animate hand-drawn annotations on a web page
 - [vscode](https://github.com/microsoft/vscode)
   - Visual Studio Code
-- [storybook](https://github.com/storybookjs/storybook)
-  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
-- [vuetify](https://github.com/vuetifyjs/vuetify)
-  - 🐉 Material Component Framework for Vue
-- [code-server](https://github.com/cdr/code-server)
-  - VS Code in the browser
-- [TypeScript](https://github.com/microsoft/TypeScript)
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [typescript-exercises](https://github.com/mdevils/typescript-exercises)
-  - A collection of challenging TypeScript exercises
-- [coc.nvim](https://github.com/neoclide/coc.nvim)
-  - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
-- [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native)
-  - ⚛️📺 Projects from the “Can it be done in React Native?” YouTube series
 - [ant-design](https://github.com/ant-design/ant-design)
   - 🌈 A UI Design Language and React UI library
-- [fluentui](https://github.com/microsoft/fluentui)
-  - We've moved! UI Fabric is now Fluent UI - A set of React components for building Microsoft web experiences.
-- [hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql)
-  - Hacker News clone rewritten with universal JavaScript, using React and GraphQL.
-- [vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples)
-  - Sample code illustrating the VS Code extension API.
-- [graphiql](https://github.com/graphql/graphiql)
-  - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
-- [face-api.js](https://github.com/justadudewhohacks/face-api.js)
-  - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
-- [starter-workflows](https://github.com/actions/starter-workflows)
-  - Accelerating new GitHub Actions workflows
-- [ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste)
-  - Cut and paste your surroundings using AR
-- [checkout](https://github.com/actions/checkout)
-  - Action for checking out a repo
-- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-  - The repository for high quality TypeScript type definitions.
-- [react-native-webview](https://github.com/react-native-community/react-native-webview)
-  - React Native Cross-Platform WebView
-- [vscode-cpptools](https://github.com/microsoft/vscode-cpptools)
-  - Official repository for the Microsoft C/C++ extension for VS Code.
-- [hyper](https://github.com/vercel/hyper)
-  - A terminal built on web technologies
+- [nest](https://github.com/nestjs/nest)
+  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
+  - The source for REST API specifications for Microsoft Azure.
+- [code-server](https://github.com/cdr/code-server)
+  - VS Code in the browser
+- [turbolinks](https://github.com/turbolinks/turbolinks)
+  - Turbolinks makes navigating your web application faster
+- [davinci](https://github.com/edp963/davinci)
+  - Davinci is a DVsaaS (Data Visualization as a Service) Platform
+- [terminus](https://github.com/Eugeny/terminus)
+  - A terminal for a more modern age
+- [TypeScript](https://github.com/microsoft/TypeScript)
+  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [firebase-tools](https://github.com/firebase/firebase-tools)
+  - The Firebase Command Line Tools
+- [vuetify](https://github.com/vuetifyjs/vuetify)
+  - 🐉 Material Component Framework for Vue
+- [react-use](https://github.com/streamich/react-use)
+  - React Hooks — 👍
+- [kibana](https://github.com/elastic/kibana)
+  - Your window into the Elastic Stack
+- [ant-design-mobile-rn](https://github.com/ant-design/ant-design-mobile-rn)
+  - Ant Design for React Native
+- [model-viewer](https://github.com/google/model-viewer)
+  - Easily display interactive 3D models on the web and in AR!

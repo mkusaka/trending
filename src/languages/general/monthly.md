@@ -1,51 +1,50 @@
 # general
-- [deno](https://github.com/denoland/deno) : TypeScript
-  - A secure JavaScript and TypeScript runtime
-- [covid-sim](https://github.com/mrc-ide/covid-sim) : C++
-  - This is the COVID-19 CovidSim microsimulation model developed by the MRC Centre for Global Infectious Disease Analysis hosted at Imperial College, London.
-- [Ventoy](https://github.com/ventoy/Ventoy) : C
-  - A new bootable USB solution.
-- [PowerToys](https://github.com/microsoft/PowerToys) : C++
-  - Windows system utilities to maximize productivity
-- [InternetArchitect](https://github.com/bjmashibing/InternetArchitect) : Java
-  - 年薪百万互联网架构师课程文档及源码(公开部分)
-- [spring-analysis](https://github.com/seaswalker/spring-analysis) : Java
-  - Spring源码阅读
-- [vite](https://github.com/vitejs/vite) : TypeScript
-  - An opinionated web dev build tool. It's fast.
-- [Java](https://github.com/TheAlgorithms/Java) : Java
-  - All Algorithms implemented in Java
-- [jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot) : Java
-  - 基于代码生成器的快速开发平台，超越传统商业开发平台！前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新开发模式(OnlineCoding-> 代码生成-> 手工MERGE)，帮助Java项目解决70%重复工作，让开发更关注业务逻辑，既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。
-- [jukebox](https://github.com/openai/jukebox) : Python
-  - Code for the paper "Jukebox: A Generative Model for Music"
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) : Java
-  - spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…
-- [terminal](https://github.com/microsoft/terminal) : C++
-  - The new Windows Terminal and the original Windows console host, all in the same place!
-- [spleeter](https://github.com/deezer/spleeter) : Python
-  - Deezer source separation library including pretrained models.
-- [transformers](https://github.com/huggingface/transformers) : Python
-  - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
-- [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) : Java
-  - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
+- [CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) : C++
+- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) : Kotlin
+  - Native Android app using the Apple/Google exposure notification API.
+- [practical-python](https://github.com/dabeaz-course/practical-python) : Python
+  - Practical Python Programming (course by @dabeaz)
+- [cwa-app-ios](https://github.com/corona-warn-app/cwa-app-ios) : Swift
+  - Native iOS app using the exposure notification framework from Apple.
+- [lihang-code](https://github.com/fengdu78/lihang-code) : Jupyter Notebook
+  - 《统计学习方法》的代码实现
 - [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) : C++
   - C++那些事
-- [go-interview](https://github.com/shomali11/go-interview) : Go
-  - Collection of Technical Interview Questions solved with Go
-- [next.js](https://github.com/vercel/next.js) : JavaScript
-  - The React Framework
-- [C](https://github.com/TheAlgorithms/C) : C
-  - All Algorithms implemented in C
-- [pi-hole](https://github.com/pi-hole/pi-hole) : Shell
-  - A black hole for Internet advertisements
-- [nndl.github.io](https://github.com/nndl/nndl.github.io) : HTML
-  - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
-- [julia](https://github.com/JuliaLang/julia) : Julia
-  - The Julia Language: A fresh approach to technical computing.
-- [spug](https://github.com/openspug/spug) : JavaScript
-  - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
-- [reveal.js](https://github.com/hakimel/reveal.js) : JavaScript
-  - The HTML Presentation Framework
+- [ZY-Player](https://github.com/Hunlongyu/ZY-Player) : Vue
+  - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
+- [cwa-website](https://github.com/corona-warn-app/cwa-website) : CSS
+  - Corona-Warn-App website
+- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) : JavaScript
+  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+- [Apollo-11](https://github.com/chrislgarry/Apollo-11) : Assembly
+  - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+- [DeepFaceLab](https://github.com/iperov/DeepFaceLab) : Python
+  - DeepFaceLab is the leading software for creating deepfakes.
+- [OSX-KVM](https://github.com/kholia/OSX-KVM) : Shell
+  - Run macOS on QEMU/KVM. Commercial support is now available. With OpenCore + Big Sur support now!
+- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) : Vue
+  - vue-admin-beautiful是一款基于element+vue的绝佳的中后台前端开发框架（基于vue/cli 4 最新版，同时支持电脑，手机，平板）,长期更新维护,感谢您的star,我一直在努力 Vue admin beautiful is an excellent front-end development framework (supporting computers, mobile phones and tablets at the same time), long-term update and maintenance, thank you for your star, I have been working hard
+- [cwa-server](https://github.com/corona-warn-app/cwa-server) : Java
+  - Backend implementation for the Apple/Google exposure notification API.
+- [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) : C
+  - OpenCore bootloader
+- [OpenRA](https://github.com/OpenRA/OpenRA) : C#
+  - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
+- [mall-learning](https://github.com/macrozheng/mall-learning) : Java
+  - mall学习教程，架构、业务、技术要点全方位解析。mall项目（25k+star）是一套电商系统，使用现阶段主流技术实现。 涵盖了SpringBoot2.1.3、MyBatis3.4.6、Elasticsearch6.2.2、RabbitMQ3.7.15、Redis5.0、Mongodb4.2.5、Mysql5.7等技术，采用Docker容器化部署。
+- [kubernetes](https://github.com/kubernetes/kubernetes) : Go
+  - Production-Grade Container Scheduling and Management
+- [cwa-verification-server](https://github.com/corona-warn-app/cwa-verification-server) : Java
+  - Backend implementation of the verification process
+- [mall](https://github.com/macrozheng/mall) : Java
+  - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+- [mmdetection](https://github.com/open-mmlab/mmdetection) : Python
+  - OpenMMLab Detection Toolbox and Benchmark
+- [php-src](https://github.com/php/php-src) : C
+  - The PHP Interpreter
+- [SpringCloud](https://github.com/zhoutaoo/SpringCloud) : Java
+  - 基于SpringCloud2.1的微服务开发脚手架，整合了spring-security-oauth2、nacos、feign、sentinel、springcloud-gateway等。服务治理方面引入elasticsearch、skywalking、springboot-admin、zipkin等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。持续更新中
+- [json](https://github.com/nlohmann/json) : C++
+  - JSON for Modern C++
+- [bootstrap](https://github.com/twbs/bootstrap) : JavaScript
+  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
