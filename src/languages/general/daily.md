@@ -1,51 +1,51 @@
 # general
-- [FreeDVDBoot](https://github.com/CTurt/FreeDVDBoot) : C
-  - PlayStation 2 DVD Player Exploit
+- [messages-multiplatform-swiftui-sample](https://github.com/jordansinger/messages-multiplatform-swiftui-sample) : Swift
+  - Multiplatform Messages app for macOS, iOS, iPadOS in SwiftUI
+- [Pwdb-Public](https://github.com/FlameOfIgnis/Pwdb-Public) : 
+  - A collection of all the data i could extract from 1 billion leaked credentials from internet.
 - [Mindustry](https://github.com/Anuken/Mindustry) : Java
   - A sandbox tower defense game
-- [lemmy](https://github.com/LemmyNet/lemmy) : Rust
-  - 🐀 Building a federated alternative to reddit in rust
+- [police-brutality](https://github.com/2020PB/police-brutality) : Python
+  - Repository containing evidence of police brutality during the 2020 George Floyd protests
+- [cascadia-code](https://github.com/microsoft/cascadia-code) : Python
+  - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [cnn-explainer](https://github.com/poloclub/cnn-explainer) : JavaScript
   - Learning Convolutional Neural Networks with Interactive Visualization.
-- [OnJava8](https://github.com/LingCoder/OnJava8) : 
-  - 《On Java 8》中文版，又名《Java编程思想》 第5版
-- [foam-template](https://github.com/foambubble/foam-template) : CSS
-  - Foam workpace template
-- [chat](https://github.com/tinode/chat) : Go
-  - Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots
-- [avatarify](https://github.com/alievk/avatarify) : Python
-  - Avatars for Zoom, Skype and other video-conferencing apps.
-- [foam](https://github.com/foambubble/foam) : Markdown
-  - A personal knowledge management and sharing system for VSCode
-- [super-productivity](https://github.com/johannesjo/super-productivity) : TypeScript
-  - To-do list & time tracker for programmers & other digital workers with Jira, Github and Gitlab integration
-- [my-flutter-challenges](https://github.com/e200/my-flutter-challenges) : Dart
-  - A collection of all my Flutter Challenges
-- [Deep-learning-books](https://github.com/loveunk/Deep-learning-books) : 
-  - Books for machine learning, deep learning, math, NLP, CV, RL, etc
-- [awesome-courses](https://github.com/prakhar1989/awesome-courses) : 
-  - 📚 List of awesome university courses for learning Computer Science!
-- [Pulse](https://github.com/nasa-jpl/Pulse) : 
-  - A pendant to warn you when you touch your face
-- [SciencePlots](https://github.com/garrettj403/SciencePlots) : Python
-  - Matplotlib styles for scientific plotting
-- [JavaGuide](https://github.com/Snailclimb/JavaGuide) : Java
-  - 「Java学习+面试指南」一份涵盖大部分Java程序员所需要掌握的核心知识。
-- [scrcpy](https://github.com/Genymobile/scrcpy) : C
-  - Display and control your Android device
-- [deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) : 
-  - Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
-- [TensorflowTTS](https://github.com/TensorSpeech/TensorflowTTS) : Python
-  - 😝 TensorflowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2
+- [PrestaShop](https://github.com/PrestaShop/PrestaShop) : PHP
+  - PrestaShop offers a fully scalable open source ecommerce solution.
+- [googletest](https://github.com/google/googletest) : C++
+  - Googletest - Google Testing and Mocking Framework
+- [ultimate-go](https://github.com/hoanhan101/ultimate-go) : Go
+  - Ultimate Go study guide
+- [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization) : Python
+  - Official tensorflow implementation for CVPR2020 paper “Learning to Cartoonize Using White-box Cartoon Representations”
+- [python-training](https://github.com/jpmorganchase/python-training) : Jupyter Notebook
+  - Python training for business analysts and traders
+- [FreeDVDBoot](https://github.com/CTurt/FreeDVDBoot) : C
+  - PlayStation 2 DVD Player Exploit
 - [python3-in-one-pic](https://github.com/coodict/python3-in-one-pic) : Jupyter Notebook
   - Learn python3 in one picture.
-- [precourse](https://github.com/NeuromatchAcademy/precourse) : 
-  - A repo for the pre-course work at home exercises
-- [rolling-rhino](https://github.com/wimpysworld/rolling-rhino) : Shell
-  - Rolling Rhino; convert Ubuntu into a rolling release as seen on YouTube
+- [chat](https://github.com/tinode/chat) : Go
+  - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
+- [Deep-learning-books](https://github.com/loveunk/Deep-learning-books) : 
+  - Books for machine learning, deep learning, math, NLP, CV, RL, etc
+- [Silice](https://github.com/sylefeb/Silice) : C++
+  - Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures.
+- [WickedEngine](https://github.com/turanszkij/WickedEngine) : C++
+  - C++ game engine focusing on modern rendering techniques and performance.
+- [JavaGuide](https://github.com/Snailclimb/JavaGuide) : Java
+  - 「Java学习+面试指南」一份涵盖大部分Java程序员所需要掌握的核心知识。
+- [MixedRealityToolkit-Unity](https://github.com/microsoft/MixedRealityToolkit-Unity) : C#
+  - Mixed Reality Toolkit (MRTK) provides a set of components and features to accelerate cross-platform MR app development in Unity.
+- [hexapod](https://github.com/mithi/hexapod) : JavaScript
+  - Blazing fast hexapod robot simulator with React and Plotly.
 - [advanced-java](https://github.com/doocs/advanced-java) : Java
   - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
-- [spektral](https://github.com/danielegrattarola/spektral) : Python
-  - Graph Neural Networks with Keras and Tensorflow 2.
-- [shardingsphere-elasticjob-lite](https://github.com/apache/shardingsphere-elasticjob-lite) : Java
-  - Distributed scheduled job framework
+- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) : 
+  - Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
+- [substrate](https://github.com/paritytech/substrate) : Rust
+  - Substrate: The platform for blockchain innovators
+- [awesome-courses](https://github.com/prakhar1989/awesome-courses) : 
+  - 📚 List of awesome university courses for learning Computer Science!
+- [cadmus](https://github.com/josh-richardson/cadmus) : Python
+  - A GUI frontend for @werman's Pulse Audio real-time noise suppression plugin

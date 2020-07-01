@@ -1,51 +1,51 @@
 # go
+- [ultimate-go](https://github.com/hoanhan101/ultimate-go)
+  - Ultimate Go study guide
 - [chat](https://github.com/tinode/chat)
-  - Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots
-- [vault](https://github.com/hashicorp/vault)
-  - A tool for secrets management, encryption as a service, and privileged access management
-- [fabric](https://github.com/hyperledger/fabric)
-  - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
-- [gin](https://github.com/gin-gonic/gin)
-  - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [jaeger-client-go](https://github.com/jaegertracing/jaeger-client-go)
-  - Jaeger Bindings for Go OpenTracing API.
-- [postgres-operator](https://github.com/zalando/postgres-operator)
-  - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
-- [dns](https://github.com/miekg/dns)
-  - DNS library in Go
-- [go-admin](https://github.com/wenjianzhang/go-admin)
-  - 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建等）文档：http://doc.zhangwj.com/go-admin-site/ Demo： http://www.zhangwj.com/#/login
-- [golang-samples](https://github.com/GoogleCloudPlatform/golang-samples)
-  - Sample apps and code written for Google Cloud in the Go programming language.
-- [7days-golang](https://github.com/geektutu/7days-golang)
-  - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc) 7天用Go动手写/从零实现系列
-- [ion](https://github.com/pion/ion)
-  - Distributed RTC System by pure Go and Flutter
-- [ants](https://github.com/panjf2000/ants)
-  - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。
-- [magma](https://github.com/facebookincubator/magma)
-  - Platform for building access networks and modular network services
-- [mindoc](https://github.com/lifei6671/mindoc)
-  - Golang实现的基于beego框架的接口在线文档管理系统
+  - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [dgraph](https://github.com/dgraph-io/dgraph)
   - Fast, Distributed Graph DB
-- [beego](https://github.com/astaxie/beego)
-  - beego is an open-source, high-performance web framework for the Go programming language.
-- [mongo-go-driver](https://github.com/mongodb/mongo-go-driver)
-  - The Go driver for MongoDB
-- [kustomize](https://github.com/kubernetes-sigs/kustomize)
-  - Customization of kubernetes YAML configurations
+- [helm](https://github.com/helm/helm)
+  - The Kubernetes Package Manager
+- [go-ethereum](https://github.com/ethereum/go-ethereum)
+  - Official Go implementation of the Ethereum protocol
+- [go-swagger](https://github.com/go-swagger/go-swagger)
+  - Swagger 2.0 implementation for go
 - [go](https://github.com/golang/go)
   - The Go programming language
-- [age](https://github.com/FiloSottile/age)
-  - A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability.
-- [autoscaler](https://github.com/kubernetes/autoscaler)
-  - Autoscaling components for Kubernetes
-- [influxdb](https://github.com/influxdata/influxdb)
-  - Scalable datastore for metrics, events, and real-time analytics
-- [statping](https://github.com/statping/statping)
-  - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
+- [clash](https://github.com/Dreamacro/clash)
+  - A rule-based tunnel in Go.
+- [thanos](https://github.com/thanos-io/thanos)
+  - Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.
+- [go-ipfs](https://github.com/ipfs/go-ipfs)
+  - IPFS implementation in Go
+- [fiber](https://github.com/gofiber/fiber)
+  - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
+- [eksctl](https://github.com/weaveworks/eksctl)
+  - The official CLI for Amazon EKS
+- [perkeep](https://github.com/perkeep/perkeep)
+  - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
+- [postgres-operator](https://github.com/CrunchyData/postgres-operator)
+  - PostgreSQL Operator Creates/Configures/Manages PostgreSQL Clusters on Kubernetes
+- [jupiter](https://github.com/douyu/jupiter)
+  - Jupiter是douyu开源的面向服务治理的Golang微服务框架
+- [kubesphere](https://github.com/kubesphere/kubesphere)
+  - Easy-to-use Production Ready Container Platform
+- [faas](https://github.com/openfaas/faas)
+  - OpenFaaS - Serverless Functions Made Simple
+- [libpod](https://github.com/containers/libpod)
+  - libpod is a library used to create container pods. Home of Podman.
+- [velero](https://github.com/vmware-tanzu/velero)
+  - Backup and migrate Kubernetes applications and their persistent volumes
+- [wire](https://github.com/google/wire)
+  - Compile-time Dependency Injection for Go
+- [kratos](https://github.com/go-kratos/kratos)
+  - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
+- [kops](https://github.com/kubernetes/kops)
+  - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
+- [bfe](https://github.com/bfenetworks/bfe)
+  - A modern layer 7 load balancer from baidu
 - [validator](https://github.com/go-playground/validator)
   - 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-- [terraform-provider-ibm](https://github.com/IBM-Cloud/terraform-provider-ibm)
-  - Terraform IBM provider https://cloud.ibm.com/docs/terraform?topic=terraform-tf-provider
+- [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)
+  - Kubebuilder - SDK for building Kubernetes APIs using CRDs
