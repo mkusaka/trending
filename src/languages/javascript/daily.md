@@ -1,51 +1,51 @@
 # javascript
+- [taro](https://github.com/NervJS/taro)
+  - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5 等应用。 https://taro.jd.com/
+- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
+  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 - [cnn-explainer](https://github.com/poloclub/cnn-explainer)
   - Learning Convolutional Neural Networks with Interactive Visualization.
-- [hexapod](https://github.com/mithi/hexapod)
-  - Blazing fast hexapod robot simulator with React and Plotly.
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [vue](https://github.com/vuejs/vue)
-  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [graphql-js](https://github.com/graphql/graphql-js)
-  - A reference implementation of GraphQL for JavaScript
-- [MagicMirror](https://github.com/MichMich/MagicMirror)
-  - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
-- [elasticsearch-head](https://github.com/mobz/elasticsearch-head)
-  - A web front end for an elastic search cluster
+- [hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
+  - Based on a true story
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+- [hyperapp](https://github.com/jorgebucaran/hyperapp)
+  - The tiny framework for building hypertext applications.
 - [algorithms-visualiser](https://github.com/dipeshpatil/algorithms-visualiser)
   - Currently Implemented Sorting (Merge, Quick, Heap, Bubble, Insertion, Selection) Backtracking (NQueen Problem) Searching (Linear, Binary)
-- [vant](https://github.com/youzan/vant)
-  - Lightweight Mobile UI Components built on Vue
+- [tooling.report](https://github.com/GoogleChromeLabs/tooling.report)
+  - tooling.report a quick way to determine the best build tool for your next web project, or if tooling migration is worth it, or how to adopt a tool's best practice into your existing configuration and code base.
+- [video.js](https://github.com/videojs/video.js)
+  - Video.js - open source HTML5 & Flash video player
+- [hexapod](https://github.com/mithi/hexapod)
+  - Blazing fast hexapod robot simulator with React and Plotly.
+- [blog](https://github.com/tailwindcss/blog)
+  - 
+- [WienerScript](https://github.com/pichsenmeister/WienerScript)
+  - 
+- [sqlpad](https://github.com/rickbergfalk/sqlpad)
+  - Web-based SQL editor run in your own private cloud. Supports MySQL, Postgres, SQL Server, Vertica, Crate, Presto, SAP HANA, Cassandra, Snowflake, BigQuery, SQLite, and more with ODBC
 - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react)
   - React specific linting rules for ESLint
-- [BrasilAPI](https://github.com/filipedeschamps/BrasilAPI)
-  - Vamos transformar o Brasil em uma API?
-- [textures](https://github.com/riccardoscalco/textures)
-  - Textures.js is a JavaScript library for creating SVG patterns
+- [prettier](https://github.com/prettier/prettier)
+  - Prettier is an opinionated code formatter.
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [content](https://github.com/nuxt/content)
   - Write in a content/ directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
-- [brave-browser](https://github.com/brave/brave-browser)
-  - Next generation Brave browser for macOS, Windows, Linux, Android.
-- [posthog](https://github.com/PostHog/posthog)
-  - 🦔 PostHog is developer-friendly, open-source product analytics.
-- [v86](https://github.com/copy/v86)
-  - x86 virtualization in JavaScript, running in your browser and NodeJS
-- [lib-flexible](https://github.com/amfe/lib-flexible)
-  - 可伸缩布局方案
-- [layui](https://github.com/sentsin/layui)
-  - 采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写形式，极低门槛，拿来即用。
-- [sheetjs](https://github.com/SheetJS/sheetjs)
-  - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
-- [mobx](https://github.com/mobxjs/mobx)
-  - Simple, scalable state management.
-- [playwright](https://github.com/microsoft/playwright)
-  - Node library to automate Chromium, Firefox and WebKit with a single API
-- [bull](https://github.com/OptimalBits/bull)
-  - Premium Queue package for handling distributed jobs and messages in NodeJS.
-- [fe-interview](https://github.com/haizlin/fe-interview)
-  - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）
-- [slate](https://github.com/ianstormtaylor/slate)
-  - A completely customizable framework for building rich text editors. (Currently in beta.)
-- [docusaurus](https://github.com/facebook/docusaurus)
-  - Easy to maintain open source documentation websites.
+- [three.js](https://github.com/mrdoob/three.js)
+  - JavaScript 3D library.
+- [request](https://github.com/request/request)
+  - 🏊🏾 Simplified HTTP request client.
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [react-native-calendars](https://github.com/wix/react-native-calendars)
+  - React Native Calendar Components 🗓️ 📆
+- [google-meet-grid-view](https://github.com/Fugiman/google-meet-grid-view)
+  - Userscript to offer a grid-view layout in Google Meets
+- [lib-jitsi-meet](https://github.com/jitsi/lib-jitsi-meet)
+  - A low-level JS video API that allows adding a completely custom video experience to web apps.
+- [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China)
+  - 中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
