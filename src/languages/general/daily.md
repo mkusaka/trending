@@ -1,51 +1,50 @@
 # general
-- [messages-multiplatform-swiftui-sample](https://github.com/jordansinger/messages-multiplatform-swiftui-sample) : Swift
-  - Multiplatform Messages app for macOS, iOS, iPadOS in SwiftUI
-- [Pwdb-Public](https://github.com/FlameOfIgnis/Pwdb-Public) : 
-  - A collection of all the data i could extract from 1 billion leaked credentials from internet.
-- [Mindustry](https://github.com/Anuken/Mindustry) : Java
-  - A sandbox tower defense game
-- [police-brutality](https://github.com/2020PB/police-brutality) : Python
-  - Repository containing evidence of police brutality during the 2020 George Floyd protests
+- [taro](https://github.com/NervJS/taro) : JavaScript
+  - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5 等应用。 https://taro.jd.com/
 - [cascadia-code](https://github.com/microsoft/cascadia-code) : Python
   - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
-- [cnn-explainer](https://github.com/poloclub/cnn-explainer) : JavaScript
-  - Learning Convolutional Neural Networks with Interactive Visualization.
-- [PrestaShop](https://github.com/PrestaShop/PrestaShop) : PHP
-  - PrestaShop offers a fully scalable open source ecommerce solution.
-- [googletest](https://github.com/google/googletest) : C++
-  - Googletest - Google Testing and Mocking Framework
-- [ultimate-go](https://github.com/hoanhan101/ultimate-go) : Go
-  - Ultimate Go study guide
-- [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization) : Python
-  - Official tensorflow implementation for CVPR2020 paper “Learning to Cartoonize Using White-box Cartoon Representations”
-- [python-training](https://github.com/jpmorganchase/python-training) : Jupyter Notebook
-  - Python training for business analysts and traders
-- [FreeDVDBoot](https://github.com/CTurt/FreeDVDBoot) : C
-  - PlayStation 2 DVD Player Exploit
-- [python3-in-one-pic](https://github.com/coodict/python3-in-one-pic) : Jupyter Notebook
-  - Learn python3 in one picture.
 - [chat](https://github.com/tinode/chat) : Go
   - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
-- [Deep-learning-books](https://github.com/loveunk/Deep-learning-books) : 
-  - Books for machine learning, deep learning, math, NLP, CV, RL, etc
-- [Silice](https://github.com/sylefeb/Silice) : C++
-  - Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures.
-- [WickedEngine](https://github.com/turanszkij/WickedEngine) : C++
-  - C++ game engine focusing on modern rendering techniques and performance.
-- [JavaGuide](https://github.com/Snailclimb/JavaGuide) : Java
-  - 「Java学习+面试指南」一份涵盖大部分Java程序员所需要掌握的核心知识。
-- [MixedRealityToolkit-Unity](https://github.com/microsoft/MixedRealityToolkit-Unity) : C#
-  - Mixed Reality Toolkit (MRTK) provides a set of components and features to accelerate cross-platform MR app development in Unity.
-- [hexapod](https://github.com/mithi/hexapod) : JavaScript
-  - Blazing fast hexapod robot simulator with React and Plotly.
-- [advanced-java](https://github.com/doocs/advanced-java) : Java
-  - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
+- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) : JavaScript
+  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+- [datax-web](https://github.com/WeiYe-Jing/datax-web) : Java
+  - DataX集成可视化页面，选择数据源即可一键生成数据同步任务，支持批量创建RDBMS数据同步任务，集成开源调度系统，支持分布式、增量同步数据、实时查看运行日志、监控执行器资源、KILL运行进程、数据源信息加密等。
+- [nvm](https://github.com/nvm-sh/nvm) : Shell
+  - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [python-training](https://github.com/jpmorganchase/python-training) : Jupyter Notebook
+  - Python training for business analysts and traders
+- [detection-rules](https://github.com/elastic/detection-rules) : Python
+  - Rules for the Detection Engine in Elastic Security
+- [ultimate-go](https://github.com/hoanhan101/ultimate-go) : Go
+  - Ultimate Go study guide
+- [cnn-explainer](https://github.com/poloclub/cnn-explainer) : JavaScript
+  - Learning Convolutional Neural Networks with Interactive Visualization.
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form) : TypeScript
+  - 📋 React Hooks for forms validation (Web + React Native)
+- [DataX](https://github.com/alibaba/DataX) : Java
+- [v](https://github.com/vlang/v) : V
+  - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io
 - [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) : 
   - Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
-- [substrate](https://github.com/paritytech/substrate) : Rust
-  - Substrate: The platform for blockchain innovators
-- [awesome-courses](https://github.com/prakhar1989/awesome-courses) : 
-  - 📚 List of awesome university courses for learning Computer Science!
-- [cadmus](https://github.com/josh-richardson/cadmus) : Python
-  - A GUI frontend for @werman's Pulse Audio real-time noise suppression plugin
+- [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) : JavaScript
+  - Based on a true story
+- [snipsnap](https://github.com/snipsnapdev/snipsnap) : 
+  - The ultimate snippets collection for VS Code
+- [python3-in-one-pic](https://github.com/coodict/python3-in-one-pic) : Jupyter Notebook
+  - Learn python3 in one picture.
+- [PrestaShop](https://github.com/PrestaShop/PrestaShop) : PHP
+  - PrestaShop offers a fully scalable open source ecommerce solution.
+- [jira-clone-angular](https://github.com/trungk18/jira-clone-angular) : TypeScript
+  - A simplified Jira clone built with Angular 9 and Akita
+- [OpenPCDet](https://github.com/open-mmlab/OpenPCDet) : Python
+  - OpenPCDet Toolbox for LiDAR-based 3D Object Detection.
+- [super-productivity](https://github.com/johannesjo/super-productivity) : TypeScript
+  - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration
+- [BotBuilder-Samples](https://github.com/microsoft/BotBuilder-Samples) : C#
+  - Welcome to the Bot Framework samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Bot Framework SDK!
+- [material-ui](https://github.com/mui-org/material-ui) : JavaScript
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [Deep-learning-books](https://github.com/loveunk/Deep-learning-books) : 
+  - Books for machine learning, deep learning, math, NLP, CV, RL, etc
+- [uno](https://github.com/unoplatform/uno) : C#
+  - Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.

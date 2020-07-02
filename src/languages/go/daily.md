@@ -1,51 +1,51 @@
 # go
-- [ultimate-go](https://github.com/hoanhan101/ultimate-go)
-  - Ultimate Go study guide
 - [chat](https://github.com/tinode/chat)
   - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
-- [dgraph](https://github.com/dgraph-io/dgraph)
-  - Fast, Distributed Graph DB
-- [helm](https://github.com/helm/helm)
-  - The Kubernetes Package Manager
-- [go-ethereum](https://github.com/ethereum/go-ethereum)
-  - Official Go implementation of the Ethereum protocol
-- [go-swagger](https://github.com/go-swagger/go-swagger)
-  - Swagger 2.0 implementation for go
-- [go](https://github.com/golang/go)
-  - The Go programming language
-- [clash](https://github.com/Dreamacro/clash)
-  - A rule-based tunnel in Go.
-- [thanos](https://github.com/thanos-io/thanos)
-  - Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.
-- [go-ipfs](https://github.com/ipfs/go-ipfs)
-  - IPFS implementation in Go
+- [ultimate-go](https://github.com/hoanhan101/ultimate-go)
+  - Ultimate Go study guide
+- [teleport](https://github.com/gravitational/teleport)
+  - Secure Access for Developers that doesn't get in the way.
 - [fiber](https://github.com/gofiber/fiber)
   - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
-- [eksctl](https://github.com/weaveworks/eksctl)
-  - The official CLI for Amazon EKS
-- [perkeep](https://github.com/perkeep/perkeep)
-  - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
-- [postgres-operator](https://github.com/CrunchyData/postgres-operator)
-  - PostgreSQL Operator Creates/Configures/Manages PostgreSQL Clusters on Kubernetes
-- [jupiter](https://github.com/douyu/jupiter)
-  - Jupiter是douyu开源的面向服务治理的Golang微服务框架
+- [loki](https://github.com/grafana/loki)
+  - Like Prometheus, but for logs.
 - [kubesphere](https://github.com/kubesphere/kubesphere)
   - Easy-to-use Production Ready Container Platform
-- [faas](https://github.com/openfaas/faas)
-  - OpenFaaS - Serverless Functions Made Simple
-- [libpod](https://github.com/containers/libpod)
-  - libpod is a library used to create container pods. Home of Podman.
-- [velero](https://github.com/vmware-tanzu/velero)
-  - Backup and migrate Kubernetes applications and their persistent volumes
-- [wire](https://github.com/google/wire)
-  - Compile-time Dependency Injection for Go
-- [kratos](https://github.com/go-kratos/kratos)
-  - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
-- [kops](https://github.com/kubernetes/kops)
-  - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
+- [redis](https://github.com/go-redis/redis)
+  - Type-safe Redis client for Golang
+- [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
+  - 📚 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
+- [amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s)
+  - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
+- [go](https://github.com/golang/go)
+  - The Go programming language
+- [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN)
+  - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
+- [helm](https://github.com/helm/helm)
+  - The Kubernetes Package Manager
+- [kubernetes](https://github.com/kubernetes/kubernetes)
+  - Production-Grade Container Scheduling and Management
+- [cobra](https://github.com/spf13/cobra)
+  - A Commander for modern Go CLI interactions
 - [bfe](https://github.com/bfenetworks/bfe)
   - A modern layer 7 load balancer from baidu
-- [validator](https://github.com/go-playground/validator)
-  - 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-- [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)
-  - Kubebuilder - SDK for building Kubernetes APIs using CRDs
+- [yaml](https://github.com/go-yaml/yaml)
+  - YAML support for the Go language.
+- [terraform-provider-google](https://github.com/terraform-providers/terraform-provider-google)
+  - Terraform Google Cloud Platform provider
+- [go-cache](https://github.com/patrickmn/go-cache)
+  - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
+- [fabric](https://github.com/hyperledger/fabric)
+  - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
+- [nuclei](https://github.com/projectdiscovery/nuclei)
+  - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
+- [wire](https://github.com/google/wire)
+  - Compile-time Dependency Injection for Go
+- [origin](https://github.com/openshift/origin)
+  - Images for OpenShift 3 and 4 - see openshift/okd for more
+- [dns](https://github.com/miekg/dns)
+  - DNS library in Go
+- [dashboard](https://github.com/kubernetes/dashboard)
+  - General-purpose web UI for Kubernetes clusters
+- [clash](https://github.com/Dreamacro/clash)
+  - A rule-based tunnel in Go.
