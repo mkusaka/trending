@@ -1,50 +1,51 @@
 # general
-- [taro](https://github.com/NervJS/taro) : JavaScript
-  - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5 等应用。 https://taro.jd.com/
-- [cascadia-code](https://github.com/microsoft/cascadia-code) : Python
-  - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
-- [chat](https://github.com/tinode/chat) : Go
-  - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
-- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) : JavaScript
-  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-- [datax-web](https://github.com/WeiYe-Jing/datax-web) : Java
-  - DataX集成可视化页面，选择数据源即可一键生成数据同步任务，支持批量创建RDBMS数据同步任务，集成开源调度系统，支持分布式、增量同步数据、实时查看运行日志、监控执行器资源、KILL运行进程、数据源信息加密等。
-- [nvm](https://github.com/nvm-sh/nvm) : Shell
-  - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-- [python-training](https://github.com/jpmorganchase/python-training) : Jupyter Notebook
-  - Python training for business analysts and traders
-- [detection-rules](https://github.com/elastic/detection-rules) : Python
-  - Rules for the Detection Engine in Elastic Security
-- [ultimate-go](https://github.com/hoanhan101/ultimate-go) : Go
-  - Ultimate Go study guide
-- [cnn-explainer](https://github.com/poloclub/cnn-explainer) : JavaScript
-  - Learning Convolutional Neural Networks with Interactive Visualization.
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form) : TypeScript
-  - 📋 React Hooks for forms validation (Web + React Native)
-- [DataX](https://github.com/alibaba/DataX) : Java
-- [v](https://github.com/vlang/v) : V
-  - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io
-- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) : 
-  - Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
-- [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) : JavaScript
-  - Based on a true story
-- [snipsnap](https://github.com/snipsnapdev/snipsnap) : 
-  - The ultimate snippets collection for VS Code
-- [python3-in-one-pic](https://github.com/coodict/python3-in-one-pic) : Jupyter Notebook
-  - Learn python3 in one picture.
-- [PrestaShop](https://github.com/PrestaShop/PrestaShop) : PHP
-  - PrestaShop offers a fully scalable open source ecommerce solution.
-- [jira-clone-angular](https://github.com/trungk18/jira-clone-angular) : TypeScript
-  - A simplified Jira clone built with Angular 9 and Akita
-- [OpenPCDet](https://github.com/open-mmlab/OpenPCDet) : Python
-  - OpenPCDet Toolbox for LiDAR-based 3D Object Detection.
-- [super-productivity](https://github.com/johannesjo/super-productivity) : TypeScript
-  - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration
-- [BotBuilder-Samples](https://github.com/microsoft/BotBuilder-Samples) : C#
-  - Welcome to the Bot Framework samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Bot Framework SDK!
-- [material-ui](https://github.com/mui-org/material-ui) : JavaScript
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [Deep-learning-books](https://github.com/loveunk/Deep-learning-books) : 
-  - Books for machine learning, deep learning, math, NLP, CV, RL, etc
+- [responsively-app](https://github.com/manojVivek/responsively-app) : JavaScript
+  - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [uno](https://github.com/unoplatform/uno) : C#
   - Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.
+- [electron-typescript-react](https://github.com/diego3g/electron-typescript-react) : JavaScript
+  - An Electron boilerplate including TypeScript, React, Jest and ESLint.
+- [cascadia-code](https://github.com/microsoft/cascadia-code) : Python
+  - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
+- [vite](https://github.com/vitejs/vite) : TypeScript
+  - Native-ESM powered web dev build tool. It's fast.
+- [OpenPCDet](https://github.com/open-mmlab/OpenPCDet) : Python
+  - OpenPCDet Toolbox for LiDAR-based 3D Object Detection.
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form) : TypeScript
+  - 📋 React Hooks for forms validation (Web + React Native)
+- [taro](https://github.com/NervJS/taro) : JavaScript
+  - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5 等应用。 https://taro.jd.com/
+- [elasticsearch](https://github.com/elastic/elasticsearch) : Java
+  - Open Source, Distributed, RESTful Search Engine
+- [chat](https://github.com/tinode/chat) : Go
+  - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
+- [python-training](https://github.com/jpmorganchase/python-training) : Jupyter Notebook
+  - Python training for business analysts and traders
+- [cubit](https://github.com/felangel/cubit) : Dart
+  - Cubit is a lightweight state management solution. It is a subset of the bloc package that does not rely on events and instead uses methods to emit new states.
+- [Summer2021-Internships](https://github.com/Pitt-CSC/Summer2021-Internships) : 
+  - Collection of Summer 2021 tech internships!
+- [rocketredis](https://github.com/diego3g/rocketredis) : TypeScript
+  - A beautiful Redis GUI 🔥
+- [just-react](https://github.com/BetaSu/just-react) : JavaScript
+  - React技术揭秘
+- [cassandra-workshop-series](https://github.com/DataStax-Academy/cassandra-workshop-series) : Python
+  - All materials for the Cassandra Workshop Series in a single place
+- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) : 
+  - Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
+- [telegraf](https://github.com/influxdata/telegraf) : Go
+  - The plugin-driven server agent for collecting & reporting metrics.
+- [ultimate-go](https://github.com/hoanhan101/ultimate-go) : Go
+  - Ultimate Go study guide
+- [yapi](https://github.com/YMFE/yapi) : JavaScript
+  - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
+- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) : JavaScript
+  - Revive unavailable songs for Netease Cloud Music
+- [pygooglenews](https://github.com/kotartemiy/pygooglenews) : Python
+  - If Google News had a Python library
+- [zulip](https://github.com/zulip/zulip) : Python
+  - Zulip server - powerful open source team chat
+- [vitepress](https://github.com/vuejs/vitepress) : TypeScript
+  - Vite & Vue powered static site generator
+- [material-ui](https://github.com/mui-org/material-ui) : JavaScript
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
