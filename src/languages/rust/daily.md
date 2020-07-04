@@ -1,51 +1,51 @@
 # rust
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
-- [teip](https://github.com/greymd/teip)
-  - Select partial standard input and replace with the result of another command efficiently
-- [gleam](https://github.com/gleam-lang/gleam)
-  - ⭐️ A statically typed language for the Erlang VM
-- [static-analysis](https://github.com/analysis-tools-dev/static-analysis)
-  - Static analysis tools for all programming languages, build tools, config files and more.
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [sqlx](https://github.com/launchbadge/sqlx)
-  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-- [tide](https://github.com/http-rs/tide)
-  - Fast and friendly HTTP server framework for async Rust
-- [openethereum](https://github.com/openethereum/openethereum)
-  - Fast and feature-rich multi-network Ethereum client.
-- [RustPython](https://github.com/RustPython/RustPython)
-  - A Python Interpreter written in Rust
-- [substrate](https://github.com/paritytech/substrate)
-  - Substrate: The platform for blockchain innovators
 - [warp](https://github.com/seanmonstar/warp)
   - A super-easy, composable, web server framework for warp speeds.
-- [ruffle](https://github.com/ruffle-rs/ruffle)
-  - A Flash Player emulator written in Rust
-- [polkadot](https://github.com/paritytech/polkadot)
-  - Polkadot Node Implementation
+- [RustPython](https://github.com/RustPython/RustPython)
+  - A Python Interpreter written in Rust
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
+- [nushell](https://github.com/nushell/nushell)
+  - A new type of shell
 - [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
   - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
-- [naia](https://github.com/naia-rs/naia)
-  - a cross-platform (currently Linux & WebAssembly) networking engine built in Rust. Intended to make multiplayer game development dead-simple & lightning-fast
+- [tauri](https://github.com/tauri-apps/tauri)
+  - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
+- [ods](https://github.com/o8vm/ods)
+  - Open Data Structures (in Rust)
 - [sonic](https://github.com/valeriansaliou/sonic)
   - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
-- [cargo](https://github.com/rust-lang/cargo)
-  - The Rust package manager
-- [winit](https://github.com/rust-windowing/winit)
-  - Window handling library in pure Rust
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
+- [naia](https://github.com/naia-rs/naia)
+  - a cross-platform (currently Linux & WebAssembly) networking engine built in Rust. Intended to make multiplayer game development dead-simple & lightning-fast
+- [intiface-console-game-haptics-router](https://github.com/intiface/intiface-console-game-haptics-router)
+  - Reroute console gamepad rumble to sex toys
+- [tide](https://github.com/http-rs/tide)
+  - Fast and friendly HTTP server framework for async Rust
+- [azul](https://github.com/maps4print/azul)
+  - Desktop GUI Framework
+- [clap](https://github.com/clap-rs/clap)
+  - A full featured, fast Command Line Argument Parser for Rust
 - [neovide](https://github.com/Kethku/neovide)
   - No Nonsense Neovim Client in Rust
-- [linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy)
-  - The world's best service mesh proxy. Written in Rust.
-- [Rocket](https://github.com/SergioBenitez/Rocket)
-  - A web framework for Rust.
-- [ncspot](https://github.com/hrkfdn/ncspot)
-  - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
-- [servo](https://github.com/servo/servo)
-  - The Servo Browser Engine
 - [rustlings](https://github.com/rust-lang/rustlings)
   - 🦀 Small exercises to get you used to reading and writing Rust code!
+- [legion](https://github.com/TomGillen/legion)
+  - High performance Rust ECS library
+- [tikv](https://github.com/tikv/tikv)
+  - Distributed transactional key-value database, originally created to complement TiDB
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix web is a small, pragmatic, and extremely fast rust web framework.
+- [sqlx](https://github.com/launchbadge/sqlx)
+  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [tonic](https://github.com/hyperium/tonic)
+  - A native gRPC client & server implementation with async/await support.
+- [servo](https://github.com/servo/servo)
+  - The Servo Browser Engine
+- [linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy)
+  - The world's best service mesh proxy. Written in Rust.

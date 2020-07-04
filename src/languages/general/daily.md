@@ -1,51 +1,50 @@
 # general
-- [responsively-app](https://github.com/manojVivek/responsively-app) : JavaScript
-  - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
-- [uno](https://github.com/unoplatform/uno) : C#
-  - Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.
-- [electron-typescript-react](https://github.com/diego3g/electron-typescript-react) : JavaScript
-  - An Electron boilerplate including TypeScript, React, Jest and ESLint.
-- [cascadia-code](https://github.com/microsoft/cascadia-code) : Python
-  - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
-- [vite](https://github.com/vitejs/vite) : TypeScript
-  - Native-ESM powered web dev build tool. It's fast.
-- [OpenPCDet](https://github.com/open-mmlab/OpenPCDet) : Python
-  - OpenPCDet Toolbox for LiDAR-based 3D Object Detection.
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form) : TypeScript
-  - 📋 React Hooks for forms validation (Web + React Native)
-- [taro](https://github.com/NervJS/taro) : JavaScript
-  - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5 等应用。 https://taro.jd.com/
-- [elasticsearch](https://github.com/elastic/elasticsearch) : Java
-  - Open Source, Distributed, RESTful Search Engine
-- [chat](https://github.com/tinode/chat) : Go
-  - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
-- [python-training](https://github.com/jpmorganchase/python-training) : Jupyter Notebook
-  - Python training for business analysts and traders
-- [cubit](https://github.com/felangel/cubit) : Dart
-  - Cubit is a lightweight state management solution. It is a subset of the bloc package that does not rely on events and instead uses methods to emit new states.
-- [Summer2021-Internships](https://github.com/Pitt-CSC/Summer2021-Internships) : 
-  - Collection of Summer 2021 tech internships!
 - [rocketredis](https://github.com/diego3g/rocketredis) : TypeScript
   - A beautiful Redis GUI 🔥
-- [just-react](https://github.com/BetaSu/just-react) : JavaScript
-  - React技术揭秘
-- [cassandra-workshop-series](https://github.com/DataStax-Academy/cassandra-workshop-series) : Python
-  - All materials for the Cassandra Workshop Series in a single place
-- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) : 
-  - Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
-- [telegraf](https://github.com/influxdata/telegraf) : Go
-  - The plugin-driven server agent for collecting & reporting metrics.
+- [electron-typescript-react](https://github.com/diego3g/electron-typescript-react) : JavaScript
+  - An Electron boilerplate including TypeScript, React, Jest and ESLint.
+- [responsively-app](https://github.com/manojVivek/responsively-app) : JavaScript
+  - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
+- [vite](https://github.com/vitejs/vite) : TypeScript
+  - Native-ESM powered web dev build tool. It's fast.
+- [chat](https://github.com/tinode/chat) : Go
+  - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
+- [uno](https://github.com/unoplatform/uno) : C#
+  - Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.
+- [go-admin](https://github.com/wenjianzhang/go-admin) : Go
+  - 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建等）文档：http://doc.zhangwj.com/go-admin-site/ Demo： http://www.zhangwj.com/#/login
+- [fenix](https://github.com/mozilla-mobile/fenix) : Kotlin
+  - Firefox Preview
+- [ant-design](https://github.com/ant-design/ant-design) : TypeScript
+  - 🌈 A UI Design Language and React UI library
 - [ultimate-go](https://github.com/hoanhan101/ultimate-go) : Go
   - Ultimate Go study guide
-- [yapi](https://github.com/YMFE/yapi) : JavaScript
-  - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
-- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) : JavaScript
-  - Revive unavailable songs for Netease Cloud Music
-- [pygooglenews](https://github.com/kotartemiy/pygooglenews) : Python
-  - If Google News had a Python library
-- [zulip](https://github.com/zulip/zulip) : Python
-  - Zulip server - powerful open source team chat
-- [vitepress](https://github.com/vuejs/vitepress) : TypeScript
-  - Vite & Vue powered static site generator
-- [material-ui](https://github.com/mui-org/material-ui) : JavaScript
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [jira-clone-angular](https://github.com/trungk18/jira-clone-angular) : TypeScript
+  - A simplified Jira clone built with Angular 9 and Akita
+- [flutterfire](https://github.com/FirebaseExtended/flutterfire) : Dart
+  - 🔥 A collection of Firebase plugins for Flutter apps.
+- [PracticalSessions2020](https://github.com/eemlcommunity/PracticalSessions2020) : Jupyter Notebook
+  - Repository for tutorial sessions at EEML2020
+- [J.A.R.V.I.S](https://github.com/GauravSingh9356/J.A.R.V.I.S) : Python
+  - python powered Intelligent System
+- [EssentialMath](https://github.com/yangyutu/EssentialMath) : Jupyter Notebook
+- [breaking-bad-cast](https://github.com/bradtraversy/breaking-bad-cast) : JavaScript
+  - App to show cast info for breaking bad
+- [Ward](https://github.com/B-Software/Ward) : CSS
+  - Simple and minimalistic server dashboard
+- [jsonbase](https://github.com/Devs-Garden/jsonbase) : JavaScript
+  - A database software completely built as JSON files in backend. A powerful, portable and simple database works on top of JSON files. It is like a database software, currently having basic CRUD operation features. You can use this as a backend for your ReST APIs as well. The software is completely free and opensource. We are coming up with new fea…
+- [electron](https://github.com/electron/electron) : C++
+  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [Summer2021-Internships](https://github.com/Pitt-CSC/Summer2021-Internships) : 
+  - Collection of Summer 2021 tech internships!
+- [awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) : Python
+  - A curated list of awesome Discord communities for programmers
+- [EasyOCR](https://github.com/JaidedAI/EasyOCR) : Python
+  - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
+- [midway](https://github.com/midwayjs/midway) : TypeScript
+  - Midway is a Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Aliyun, Tencent-Cloud and traditional VM/Container.
+- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) : 
+  - Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
+- [warp](https://github.com/seanmonstar/warp) : Rust
+  - A super-easy, composable, web server framework for warp speeds.
