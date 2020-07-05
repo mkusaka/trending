@@ -1,51 +1,51 @@
 # javascript
+- [jexcel](https://github.com/paulhodel/jexcel)
+  - jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software.
 - [electron-typescript-react](https://github.com/diego3g/electron-typescript-react)
   - An Electron boilerplate including TypeScript, React, Jest and ESLint.
-- [responsively-app](https://github.com/manojVivek/responsively-app)
-  - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
-- [breaking-bad-cast](https://github.com/bradtraversy/breaking-bad-cast)
-  - App to show cast info for breaking bad
-- [jsonbase](https://github.com/Devs-Garden/jsonbase)
-  - A database software completely built as JSON files in backend. A powerful, portable and simple database works on top of JSON files. It is like a database software, currently having basic CRUD operation features. You can use this as a backend for your ReST APIs as well. The software is completely free and opensource. We are coming up with new fea…
-- [awx](https://github.com/ansible/awx)
-  - AWX Project
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [discord.js](https://github.com/discordjs/discord.js)
+  - A powerful JavaScript library for interacting with the Discord API
 - [elevator.js](https://github.com/tholman/elevator.js)
   - Finally, a "back to top" button that behaves like a real elevator.
-- [odoo](https://github.com/odoo/odoo)
-  - Odoo. Open Source Apps To Grow Your Business.
-- [NodeBB](https://github.com/NodeBB/NodeBB)
-  - Node.js based forum software built for the modern web
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [vue](https://github.com/vuejs/vue)
-  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [joplin](https://github.com/laurent22/joplin)
+  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
   - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
-- [lodash](https://github.com/lodash/lodash)
-  - A modern JavaScript utility library delivering modularity, performance, & extras.
-- [taro](https://github.com/NervJS/taro)
-  - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5 等应用。 https://taro.jd.com/
-- [quasar](https://github.com/quasarframework/quasar)
-  - Quasar Framework - Build high-performance VueJS user interfaces in record time
-- [GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel)
-  - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
-- [web-stories-wp](https://github.com/google/web-stories-wp)
-  - Web Stories WordPress plugin
-- [three.js](https://github.com/mrdoob/three.js)
-  - JavaScript 3D library.
+- [keen-slider](https://github.com/rcbyr/keen-slider)
+  - The HTML touch slider carousel with the most native feeling
+- [Zettlr](https://github.com/Zettlr/Zettlr)
+  - A Markdown Editor for the 21st century.
+- [NodeBB](https://github.com/NodeBB/NodeBB)
+  - Node.js based forum software built for the modern web
 - [just-react](https://github.com/BetaSu/just-react)
   - 「React技术揭秘」 一本自顶向下，从理念到代码的源码分析书
-- [hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia)
-  - 一个简洁优雅的hexo主题 A simple and elegant theme for hexo.
-- [behave](https://github.com/mindedsecurity/behave)
-  - Behave! A monitoring browser extension for pages acting as "bad boi"
-- [appium](https://github.com/appium/appium)
-  - 📱 Automation for iOS, Android, and Windows Apps.
+- [responsively-app](https://github.com/manojVivek/responsively-app)
+  - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [blog](https://github.com/tailwindcss/blog)
   - 
-- [samples](https://github.com/webrtc/samples)
-  - WebRTC Web demos and samples
-- [tween.js](https://github.com/tweenjs/tween.js)
-  - Javascript tweening engine
+- [html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
+  - A professional front-end template for building fast, robust, and adaptable web apps or sites.
+- [realworld](https://github.com/gothinkster/realworld)
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [behave](https://github.com/mindedsecurity/behave)
+  - Behave! A monitoring browser extension for pages acting as "bad boi"
+- [Script](https://github.com/NobyDa/Script)
+  - This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.
+- [alpine](https://github.com/alpinejs/alpine)
+  - A rugged, minimal framework for composing JavaScript behavior in your markup.
+- [opensource.guide](https://github.com/github/opensource.guide)
+  - 📚 Community guides for open source creators
+- [grapesjs](https://github.com/artf/grapesjs)
+  - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
+- [juice-shop](https://github.com/bkimminich/juice-shop)
+  - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
+- [WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
+  - Play with fluids in your browser (works even on mobile)
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+  -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [RSSHub](https://github.com/DIYgod/RSSHub)
+  - 🍰 Everything is RSSible
+- [iptv](https://github.com/iptv-org/iptv)
+  - Collection of 8000+ publicly available IPTV channels from all over the world

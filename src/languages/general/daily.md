@@ -1,50 +1,50 @@
 # general
 - [rocketredis](https://github.com/diego3g/rocketredis) : TypeScript
   - A beautiful Redis GUI 🔥
-- [electron-typescript-react](https://github.com/diego3g/electron-typescript-react) : JavaScript
-  - An Electron boilerplate including TypeScript, React, Jest and ESLint.
-- [responsively-app](https://github.com/manojVivek/responsively-app) : JavaScript
-  - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
-- [vite](https://github.com/vitejs/vite) : TypeScript
-  - Native-ESM powered web dev build tool. It's fast.
+- [mall](https://github.com/macrozheng/mall) : Java
+  - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+- [Python](https://github.com/TheAlgorithms/Python) : Python
+  - All Algorithms implemented in Python
+- [backstage](https://github.com/spotify/backstage) : TypeScript
+  - Backstage is an open platform for building developer portals
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) : 
+  - A book series on JavaScript. @YDKJS on twitter.
 - [chat](https://github.com/tinode/chat) : Go
   - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [uno](https://github.com/unoplatform/uno) : C#
   - Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.
-- [go-admin](https://github.com/wenjianzhang/go-admin) : Go
-  - 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建等）文档：http://doc.zhangwj.com/go-admin-site/ Demo： http://www.zhangwj.com/#/login
-- [fenix](https://github.com/mozilla-mobile/fenix) : Kotlin
-  - Firefox Preview
-- [ant-design](https://github.com/ant-design/ant-design) : TypeScript
-  - 🌈 A UI Design Language and React UI library
-- [ultimate-go](https://github.com/hoanhan101/ultimate-go) : Go
-  - Ultimate Go study guide
-- [jira-clone-angular](https://github.com/trungk18/jira-clone-angular) : TypeScript
-  - A simplified Jira clone built with Angular 9 and Akita
-- [flutterfire](https://github.com/FirebaseExtended/flutterfire) : Dart
-  - 🔥 A collection of Firebase plugins for Flutter apps.
-- [PracticalSessions2020](https://github.com/eemlcommunity/PracticalSessions2020) : Jupyter Notebook
-  - Repository for tutorial sessions at EEML2020
-- [J.A.R.V.I.S](https://github.com/GauravSingh9356/J.A.R.V.I.S) : Python
-  - python powered Intelligent System
-- [EssentialMath](https://github.com/yangyutu/EssentialMath) : Jupyter Notebook
-- [breaking-bad-cast](https://github.com/bradtraversy/breaking-bad-cast) : JavaScript
-  - App to show cast info for breaking bad
-- [Ward](https://github.com/B-Software/Ward) : CSS
-  - Simple and minimalistic server dashboard
-- [jsonbase](https://github.com/Devs-Garden/jsonbase) : JavaScript
-  - A database software completely built as JSON files in backend. A powerful, portable and simple database works on top of JSON files. It is like a database software, currently having basic CRUD operation features. You can use this as a backend for your ReST APIs as well. The software is completely free and opensource. We are coming up with new fea…
-- [electron](https://github.com/electron/electron) : C++
-  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [Summer2021-Internships](https://github.com/Pitt-CSC/Summer2021-Internships) : 
-  - Collection of Summer 2021 tech internships!
-- [awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) : Python
-  - A curated list of awesome Discord communities for programmers
+- [vite](https://github.com/vitejs/vite) : TypeScript
+  - Native-ESM powered web dev build tool. It's fast.
+- [PowerToys](https://github.com/microsoft/PowerToys) : C++
+  - Windows system utilities to maximize productivity
+- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
+  - Course Files for Complete Python 3 Bootcamp Course on Udemy
+- [lede](https://github.com/coolsnowwolf/lede) : C
+  - Lean's OpenWrt source
+- [Face-Depixelizer](https://github.com/tg-bomze/Face-Depixelizer) : Jupyter Notebook
+  - Face Depixelizer based on "PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models" repository.
+- [google-research](https://github.com/google-research/google-research) : Jupyter Notebook
+  - Google Research
+- [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) : Shell
+  - 📖 A collection of pure bash alternatives to external processes.
 - [EasyOCR](https://github.com/JaidedAI/EasyOCR) : Python
   - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
-- [midway](https://github.com/midwayjs/midway) : TypeScript
-  - Midway is a Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Aliyun, Tencent-Cloud and traditional VM/Container.
-- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) : 
-  - Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
-- [warp](https://github.com/seanmonstar/warp) : Rust
-  - A super-easy, composable, web server framework for warp speeds.
+- [jexcel](https://github.com/paulhodel/jexcel) : JavaScript
+  - jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software.
+- [pumpkin-book](https://github.com/datawhalechina/pumpkin-book) : 
+  - 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
+  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [electron-typescript-react](https://github.com/diego3g/electron-typescript-react) : JavaScript
+  - An Electron boilerplate including TypeScript, React, Jest and ESLint.
+- [app-ideas](https://github.com/florinpop17/app-ideas) : 
+  - A Collection of application ideas which can be used to improve your coding skills.
+- [learngo](https://github.com/inancgumus/learngo) : Go
+  - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [guietta](https://github.com/alfiopuglisi/guietta) : Python
+- [org-roam](https://github.com/org-roam/org-roam) : Emacs Lisp
+  - Rudimentary Roam replica with Org-mode
+- [NonEuclidean](https://github.com/HackerPoet/NonEuclidean) : C++
+  - A Non-Euclidean Rendering Engine for 3D scenes.
