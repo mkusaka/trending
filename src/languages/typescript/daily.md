@@ -1,51 +1,51 @@
 # typescript
 - [rocketredis](https://github.com/diego3g/rocketredis)
   - A beautiful Redis GUI 🔥
-- [vite](https://github.com/vitejs/vite)
-  - Native-ESM powered web dev build tool. It's fast.
-- [ant-design](https://github.com/ant-design/ant-design)
-  - 🌈 A UI Design Language and React UI library
-- [jira-clone-angular](https://github.com/trungk18/jira-clone-angular)
-  - A simplified Jira clone built with Angular 9 and Akita
-- [midway](https://github.com/midwayjs/midway)
-  - Midway is a Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Aliyun, Tencent-Cloud and traditional VM/Container.
-- [pdf-lib](https://github.com/Hopding/pdf-lib)
-  - Create and modify PDF documents in any JavaScript environment
-- [vue-next](https://github.com/vuejs/vue-next)
-  - Repo for Vue 3.0 (currently in beta)
-- [vue-router-next](https://github.com/vuejs/vue-router-next)
-  - The Vue 3 official router (WIP)
-- [tsparticles](https://github.com/matteobruni/tsparticles)
-  - tsParticles - Particles.js on steroids
-- [deno](https://github.com/denoland/deno)
-  - A secure JavaScript and TypeScript runtime
-- [vitepress](https://github.com/vuejs/vitepress)
-  - Vite & Vue powered static site generator
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [react-admin](https://github.com/marmelab/react-admin)
-  - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [backstage](https://github.com/spotify/backstage)
   - Backstage is an open platform for building developer portals
-- [pixi.js](https://github.com/pixijs/pixi.js)
-  - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
-- [jest](https://github.com/facebook/jest)
-  - Delightful JavaScript Testing.
-- [streamlit](https://github.com/streamlit/streamlit)
-  - Streamlit — The fastest way to build custom ML tools
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
-  - 📋 React Hooks for forms validation (Web + React Native)
-- [pyright](https://github.com/microsoft/pyright)
-  - Static type checker for Python
-- [blitz](https://github.com/blitz-js/blitz)
-  - ⚡️The Fullstack React Framework — built on Next.js
-- [dialog](https://github.com/ngneat/dialog)
-  - 👻 A simple to use, highly customizable, and powerful modal for Angular Applications
-- [formily](https://github.com/alibaba/formily)
-  - Alibaba Group Unified Form Solution.
+- [vite](https://github.com/vitejs/vite)
+  - Native-ESM powered web dev build tool. It's fast.
+- [midway](https://github.com/midwayjs/midway)
+  - 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Aliyun, Tencent-Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
+- [TypeScript-Website](https://github.com/microsoft/TypeScript-Website)
+  - The Website and web infrastructure for learning TypeScript
+- [hyper](https://github.com/vercel/hyper)
+  - A terminal built on web technologies
+- [vue-next](https://github.com/vuejs/vue-next)
+  - Repo for Vue 3.0 (currently in beta)
+- [tsparticles](https://github.com/matteobruni/tsparticles)
+  - tsParticles - Particles.js on steroids
+- [pdf-lib](https://github.com/Hopding/pdf-lib)
+  - Create and modify PDF documents in any JavaScript environment
+- [react-admin](https://github.com/marmelab/react-admin)
+  - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [snabbdom](https://github.com/snabbdom/snabbdom)
   - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
-- [docx](https://github.com/dolanmiu/docx)
-  - Easily generate .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
-- [qiankun](https://github.com/umijs/qiankun)
-  - 📦 🚀 Blazing fast, simple and completed solution for micro frontends.
+- [vue-router-next](https://github.com/vuejs/vue-router-next)
+  - The Vue 3 official router (WIP)
+- [homebridge](https://github.com/homebridge/homebridge)
+  - HomeKit support for the impatient
+- [components](https://github.com/angular/components)
+  - Component infrastructure and Material Design components for Angular
+- [deno_website2](https://github.com/denoland/deno_website2)
+  - deno.land website
+- [jira-clone-angular](https://github.com/trungk18/jira-clone-angular)
+  - A simplified Jira clone built with Angular 9 and Akita
+- [ant-design](https://github.com/ant-design/ant-design)
+  - 🌈 A UI Design Language and React UI library
+- [pyright](https://github.com/microsoft/pyright)
+  - Static type checker for Python
+- [react](https://github.com/zeit-ui/react)
+  - Modern and minimalist React UI library.
+- [caprover](https://github.com/caprover/caprover)
+  - [previously CaptainDuckDuck] Automated Scalable PaaS Package (automated Docker+nginx) - Heroku on Steroids
+- [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
+  - A Foundation for Scalable Cross-Platform Apps
+- [pokemon-showdown](https://github.com/smogon/pokemon-showdown)
+  - Pokémon battle simulator.
+- [xstate](https://github.com/davidkpiano/xstate)
+  - State machines and statecharts for the modern web.
+- [formily](https://github.com/alibaba/formily)
+  - Alibaba Group Unified Form Solution.
+- [lightweight-charts](https://github.com/tradingview/lightweight-charts)
+  - Financial lightweight charts built with HTML5 canvas
