@@ -1,51 +1,51 @@
 # rust
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
-  - Unofficial Bitwarden compatible server written in Rust
-- [warp](https://github.com/seanmonstar/warp)
-  - A super-easy, composable, web server framework for warp speeds.
-- [spotifyd](https://github.com/Spotifyd/spotifyd)
-  - A spotify daemon
 - [yew](https://github.com/yewstack/yew)
   - Rust / Wasm framework for building client web apps
-- [tonic](https://github.com/hyperium/tonic)
-  - A native gRPC client & server implementation with async/await support.
-- [tui-rs](https://github.com/fdehau/tui-rs)
-  - Build terminal user interfaces and dashboards using Rust
-- [rCore](https://github.com/rcore-os/rCore)
-  - Rust version of THU uCore OS. Linux compatible.
-- [RustPython](https://github.com/RustPython/RustPython)
-  - A Python Interpreter written in Rust
-- [reqwest](https://github.com/seanmonstar/reqwest)
-  - An easy and powerful Rust HTTP Client
-- [iced](https://github.com/hecrj/iced)
-  - A cross-platform GUI library for Rust, inspired by Elm
-- [ods](https://github.com/o8vm/ods)
-  - Open Data Structures (in Rust)
-- [coreutils](https://github.com/uutils/coreutils)
-  - Cross-platform Rust rewrite of the GNU coreutils
-- [nushell](https://github.com/nushell/nushell)
-  - A new type of shell
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
-- [cargo](https://github.com/rust-lang/cargo)
-  - The Rust package manager
+- [vector](https://github.com/timberio/vector)
+  - A lightweight and ultra-fast tool for building observability pipelines
+- [tokio](https://github.com/tokio-rs/tokio)
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix web is a small, pragmatic, and extremely fast rust web framework.
 - [tauri](https://github.com/tauri-apps/tauri)
   - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
+- [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim)
+  - Language Server Protocol (LSP) support for vim and neovim.
+- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+  - 📚 Learn to write an embedded OS in Rust 🦀
+- [so](https://github.com/samtay/so)
+  - A terminal interface for Stack Overflow
+- [Rocket](https://github.com/SergioBenitez/Rocket)
+  - A web framework for Rust.
+- [RustPython](https://github.com/RustPython/RustPython)
+  - A Python Interpreter written in Rust
+- [iced](https://github.com/hecrj/iced)
+  - A cross-platform GUI library for Rust, inspired by Elm
+- [tokenizers](https://github.com/huggingface/tokenizers)
+  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [smartstring](https://github.com/bodil/smartstring)
+  - Compact inlined strings for Rust.
+- [warp](https://github.com/seanmonstar/warp)
+  - A super-easy, composable, web server framework for warp speeds.
+- [smol](https://github.com/stjepang/smol)
+  - A small and fast async runtime for Rust
+- [spotifyd](https://github.com/Spotifyd/spotifyd)
+  - A spotify daemon
+- [zola](https://github.com/getzola/zola)
+  - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+- [diesel](https://github.com/diesel-rs/diesel)
+  - A safe, extensible ORM and Query Builder for Rust
+- [reqwest](https://github.com/seanmonstar/reqwest)
+  - An easy and powerful Rust HTTP Client
+- [quiche](https://github.com/cloudflare/quiche)
+  - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+- [async-std](https://github.com/async-rs/async-std)
+  - Async version of the Rust standard library
+- [tonic](https://github.com/hyperium/tonic)
+  - A native gRPC client & server implementation with async/await support.
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
 - [rust-clippy](https://github.com/rust-lang/rust-clippy)
   - A bunch of lints to catch common mistakes and improve your Rust code
-- [async-graphql](https://github.com/async-graphql/async-graphql)
-  - A GraphQL server library implemented in Rust
-- [neovide](https://github.com/Kethku/neovide)
-  - No Nonsense Neovim Client in Rust
-- [book](https://github.com/rust-lang/book)
-  - The Rust Programming Language
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
   - A curated list of Rust code and resources.
-- [azul](https://github.com/maps4print/azul)
-  - Desktop GUI Framework
-- [nom](https://github.com/Geal/nom)
-  - Rust parser combinator framework
-- [amethyst](https://github.com/amethyst/amethyst)
-  - Data-oriented and data-driven game engine written in Rust
-- [tide](https://github.com/http-rs/tide)
-  - Fast and friendly HTTP server framework for async Rust
