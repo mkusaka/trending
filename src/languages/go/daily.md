@@ -1,51 +1,51 @@
 # go
+- [gitqlite](https://github.com/augmentable-dev/gitqlite)
+  - Query git repositories with SQL. Uses SQLite virtual tables and go-git
+- [goplus](https://github.com/qiniu/goplus)
+  - GoPlus - The Go+ language for data science
 - [chat](https://github.com/tinode/chat)
   - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
-- [learngo](https://github.com/inancgumus/learngo)
-  - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
-- [fiber](https://github.com/gofiber/fiber)
-  - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
-- [bettercap](https://github.com/bettercap/bettercap)
-  - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
-- [clash](https://github.com/Dreamacro/clash)
-  - A rule-based tunnel in Go.
-- [annie](https://github.com/iawia002/annie)
-  - 👾 Fast, simple and clean video downloader
 - [f1viewer](https://github.com/SoMuchForSubtlety/f1viewer)
   - 🏎️ TUI for F1TV
-- [cli](https://github.com/cli/cli)
-  - GitHub’s official command line tool
-- [tailscale](https://github.com/tailscale/tailscale)
-  - The easiest, most secure way to use WireGuard and 2FA.
-- [ultimate-go](https://github.com/hoanhan101/ultimate-go)
-  - Ultimate Go study guide
-- [go-admin](https://github.com/wenjianzhang/go-admin)
-  - 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建等）文档：http://doc.zhangwj.com/go-admin-site/ Demo： http://www.zhangwj.com/#/login
-- [go-git](https://github.com/go-git/go-git)
-  - A highly extensible Git implementation in pure Go.
-- [eksctl](https://github.com/weaveworks/eksctl)
-  - The official CLI for Amazon EKS
-- [go-interface-examples](https://github.com/Evertras/go-interface-examples)
+- [annie](https://github.com/iawia002/annie)
+  - 👾 Fast, simple and clean video downloader
+- [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga)
+  - Advanced information gathering & OSINT framework for phone numbers
+- [goapp](https://github.com/bnkamalesh/goapp)
+  - An opinionated guideline to structure a Go web application/service
+- [learngo](https://github.com/inancgumus/learngo)
+  - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
+- [clash](https://github.com/Dreamacro/clash)
+  - A rule-based tunnel in Go.
+- [go-ethereum](https://github.com/ethereum/go-ethereum)
+  - Official Go implementation of the Ethereum protocol
+- [maratonafc3-microsservico-pagamentos](https://github.com/codeedu/maratonafc3-microsservico-pagamentos)
   - 
-- [hugo](https://github.com/gohugoio/hugo)
-  - The world’s fastest framework for building websites.
-- [cloud-torrent](https://github.com/jpillora/cloud-torrent)
-  - ☁️ Cloud Torrent: a self-hosted remote torrent client
-- [httprobe](https://github.com/tomnomnom/httprobe)
-  - Take a list of domains and probe for working HTTP and HTTPS servers
-- [trubka](https://github.com/xitonix/trubka)
-  - A CLI tool for Kafka
-- [pixel](https://github.com/faiface/pixel)
-  - A hand-crafted 2D game library in Go
-- [v2ray-core](https://github.com/v2ray/v2ray-core)
-  - A platform for building proxies to bypass network restrictions.
-- [terraform-provider-azuredevops](https://github.com/terraform-providers/terraform-provider-azuredevops)
-  - Terraform Azure DevOps provider
+- [noisia](https://github.com/lesovsky/noisia)
+  - Harmful workload generator for PostgreSQL
+- [qrcp](https://github.com/claudiodangelis/qrcp)
+  - ⚡ Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [livego](https://github.com/gwuhaolin/livego)
   - live video streaming server in golang
-- [goreleaser](https://github.com/goreleaser/goreleaser)
-  - Deliver Go binaries as fast and easily as possible
+- [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
+  - Network-wide ads & trackers blocking DNS server
+- [hugo](https://github.com/gohugoio/hugo)
+  - The world’s fastest framework for building websites.
+- [GoGhost](https://github.com/deepsecurity-pe/GoGhost)
+  - High Performance, lightweight, portable Open Source tool for mass SMBGhost Scan
+- [bettercap](https://github.com/bettercap/bettercap)
+  - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
 - [casbin](https://github.com/casbin/casbin)
   - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
-- [minio](https://github.com/minio/minio)
-  - High Performance, Kubernetes Native Object Storage
+- [trojan-go](https://github.com/p4gefau1t/trojan-go)
+  - Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
+- [ingress-nginx](https://github.com/kubernetes/ingress-nginx)
+  - NGINX Ingress Controller for Kubernetes
+- [containerd](https://github.com/containerd/containerd)
+  - An open and reliable container runtime
+- [gopl.io](https://github.com/adonovan/gopl.io)
+  - Example programs from "The Go Programming Language"
+- [exposure-notifications-server](https://github.com/google/exposure-notifications-server)
+  - Exposure Notification Reference Server | Covid-19 Exposure Notifications
+- [fiber](https://github.com/gofiber/fiber)
+  - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
