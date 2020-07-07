@@ -1,51 +1,51 @@
 # typescript
 - [backstage](https://github.com/spotify/backstage)
   - Backstage is an open platform for building developer portals
+- [angular](https://github.com/angular/angular)
+  - One framework. Mobile & desktop.
+- [amplify-js](https://github.com/aws-amplify/amplify-js)
+  - A declarative JavaScript library for application development using cloud services.
 - [rocketredis](https://github.com/diego3g/rocketredis)
   - A beautiful Redis GUI 🔥 (under development)
-- [vite](https://github.com/vitejs/vite)
-  - Native-ESM powered web dev build tool. It's fast.
-- [TypeScript-Website](https://github.com/microsoft/TypeScript-Website)
-  - The Website and web infrastructure for learning TypeScript
-- [react](https://github.com/zeit-ui/react)
-  - Modern and minimalist React UI library.
-- [vscode](https://github.com/microsoft/vscode)
-  - Visual Studio Code
-- [pdf-lib](https://github.com/Hopding/pdf-lib)
-  - Create and modify PDF documents in any JavaScript environment
-- [excalidraw](https://github.com/excalidraw/excalidraw)
-  - Virtual whiteboard for sketching hand-drawn like diagrams
-- [pokemon-showdown](https://github.com/smogon/pokemon-showdown)
-  - Pokémon battle simulator.
-- [tfjs-models](https://github.com/tensorflow/tfjs-models)
-  - Pretrained models for TensorFlow.js
-- [bulletproof-nodejs](https://github.com/santiq/bulletproof-nodejs)
-  - Implementation of a bulletproof node.js API 🛡️
-- [language-tools](https://github.com/sveltejs/language-tools)
-  - The Svelte Language Server, and official extensions which use it
-- [ink](https://github.com/vadimdemedes/ink)
-  - 🌈 React for interactive command-line apps
-- [pro-table](https://github.com/ant-design/pro-table)
-  - 🏆 Use Ant Design Table like a Pro!
-- [ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste)
-  - Cut and paste your surroundings using AR
-- [homebridge](https://github.com/homebridge/homebridge)
-  - HomeKit support for the impatient
-- [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper)
-  - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
+- [nebular](https://github.com/akveo/nebular)
+  - 💥 Customizable Angular UI Library based on Eva Design System 🌚✨Dark Mode
 - [react-admin](https://github.com/marmelab/react-admin)
   - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
-- [instagram-private-api](https://github.com/dilame/instagram-private-api)
-  - NodeJS Instagram private API client. Written in TypeScript.
-- [webamp](https://github.com/captbaritone/webamp)
-  - Winamp 2 reimplemented for the browser
-- [screenshot.rocks](https://github.com/daveearley/screenshot.rocks)
-  - Create beautiful browser mockups from screenshots
-- [react-admin](https://github.com/react-better/react-admin)
-  - ✨ react-admin system solution : react 后台管理系统解决方案
-- [wenyan](https://github.com/wenyan-lang/wenyan)
-  - 文言文編程語言 A programming language for the ancient Chinese.
-- [angular-realworld-example-app](https://github.com/gothinkster/angular-realworld-example-app)
-  - Exemplary real world application built with Angular
-- [vendure](https://github.com/vendure-ecommerce/vendure)
-  - A headless GraphQL ecommerce framework for the modern web
+- [swr](https://github.com/vercel/swr)
+  - React Hooks library for remote data fetching
+- [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
+  - Tasks for Azure Pipelines
+- [kibana](https://github.com/elastic/kibana)
+  - Your window into the Elastic Stack
+- [TypeScript-Website](https://github.com/microsoft/TypeScript-Website)
+  - The Website and web infrastructure for learning TypeScript
+- [aws-cdk](https://github.com/aws/aws-cdk)
+  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
+  - The source for REST API specifications for Microsoft Azure.
+- [ng-alain](https://github.com/ng-alain/ng-alain)
+  - NG-ZORRO admin panel front-end framework (surge mirror https://ng-alain-doc.surge.sh)
+- [grafana](https://github.com/grafana/grafana)
+  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [apollo-client](https://github.com/apollographql/apollo-client)
+  - 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
+- [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)
+  - UI components lib based on Ant Design for Angular
+- [TypeScript](https://github.com/microsoft/TypeScript)
+  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [auth-module](https://github.com/nuxt-community/auth-module)
+  - 🔑 Zero-boilerplate authentication support for Nuxt
+- [angular-cli](https://github.com/angular/angular-cli)
+  - CLI tool for Angular
+- [crud](https://github.com/nestjsx/crud)
+  - NestJs CRUD for RESTful APIs
+- [nx](https://github.com/nrwl/nx)
+  - Extensible Dev Tools for Monorepos
+- [prisma](https://github.com/prisma/prisma)
+  - Modern DB toolkit to query, migrate and model your database
+- [n8n](https://github.com/n8n-io/n8n)
+  - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+- [vue-storefront](https://github.com/DivanteLtd/vue-storefront)
+  - Vue Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported. Always Open Source, MIT license. Join us as contributor (contributors@vuestorefront.io). Check out our new blog: https://blog.vuestorefront.io/ and the new community initiative for improving Headless Security standards https://headless-security.or…
+- [covid-tracker-app](https://github.com/HSEIreland/covid-tracker-app)
+  - COVID Tracker App Repository

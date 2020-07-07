@@ -1,51 +1,50 @@
 # general
-- [backstage](https://github.com/spotify/backstage) : TypeScript
-  - Backstage is an open platform for building developer portals
-- [gitqlite](https://github.com/augmentable-dev/gitqlite) : Go
-  - Query git repositories with SQL. Uses SQLite virtual tables and go-git
-- [goplus](https://github.com/qiniu/goplus) : Go
-  - GoPlus - The Go+ language for data science
-- [rocketredis](https://github.com/diego3g/rocketredis) : TypeScript
-  - A beautiful Redis GUI 🔥 (under development)
-- [lede](https://github.com/coolsnowwolf/lede) : C
-  - Lean's OpenWrt source
-- [vite](https://github.com/vitejs/vite) : TypeScript
-  - Native-ESM powered web dev build tool. It's fast.
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
-  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
-  - Course Files for Complete Python 3 Bootcamp Course on Udemy
-- [rich](https://github.com/willmcgugan/rich) : Python
-  - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [skywater-pdk](https://github.com/google/skywater-pdk) : Python
-  - Open source process design kit for usage with SkyWater Technology Foundry's 130nm node.
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
+- [BYTEPATH](https://github.com/a327ex/BYTEPATH) : Lua
+- [edex-ui](https://github.com/GitSquared/edex-ui) : JavaScript
+  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [NonEuclidean](https://github.com/HackerPoet/NonEuclidean) : C++
   - A Non-Euclidean Rendering Engine for 3D scenes.
+- [backstage](https://github.com/spotify/backstage) : TypeScript
+  - Backstage is an open platform for building developer portals
+- [rich](https://github.com/willmcgugan/rich) : Python
+  - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [Python](https://github.com/TheAlgorithms/Python) : Python
   - All Algorithms implemented in Python
-- [E-commerce-App-UI-Flutter](https://github.com/abuanwar072/E-commerce-App-UI-Flutter) : Dart
-  - Nice and clean Online Shop app UI by using #Flutter.
-- [sweetviz](https://github.com/fbdesignpro/sweetviz) : Python
-  - Visualize and compare datasets, target values and associations, with one line of code.
-- [uno](https://github.com/unoplatform/uno) : C#
-  - Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.
-- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) : 
-  - A book series on JavaScript. @YDKJS on twitter.
-- [pumpkin-book](https://github.com/datawhalechina/pumpkin-book) : 
-  - 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) : 
+  - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06
+- [texthero](https://github.com/jbesomi/texthero) : Python
+  - Text preprocessing, representation and visualization from zero to hero.
+- [course-content](https://github.com/NeuromatchAcademy/course-content) : Jupyter Notebook
+  - Summer course content for Neuromatch Academy
+- [CVE-2020-5902](https://github.com/jas502n/CVE-2020-5902) : Java
+  - CVE-2020-5902 BIG-IP
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [blog](https://github.com/a327ex/blog) : 
+  - gamedev blog
+- [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) : 
+  - Docker Cheat Sheet
+- [app-ideas](https://github.com/florinpop17/app-ideas) : 
+  - A Collection of application ideas which can be used to improve your coding skills.
+- [ounotes](https://github.com/AbdulMalikDev/ounotes) : Dart
+  - An Application built for students to access Notes , Question Papers , Syllabus and Resources for all Subjects of O.U (Osmania University) 📘👨‍🎓
+- [mimalloc](https://github.com/microsoft/mimalloc) : C
+  - mimalloc is a compact general purpose allocator with excellent performance.
+- [hackingtool](https://github.com/Z4nzu/hackingtool) : Python
+  - ALL IN ONE Hacking Tool For Hackers
 - [EasyOCR](https://github.com/JaidedAI/EasyOCR) : Python
   - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
-- [mall](https://github.com/macrozheng/mall) : Java
-  - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+- [gitqlite](https://github.com/augmentable-dev/gitqlite) : Go
+  - Query git repositories with SQL. Uses SQLite virtual tables and go-git
+- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
+  - Course Files for Complete Python 3 Bootcamp Course on Udemy
+- [sweetviz](https://github.com/fbdesignpro/sweetviz) : Python
+  - Visualize and compare datasets, target values and associations, with one line of code.
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) : Python
   - A curated list of awesome Machine Learning frameworks, libraries and software.
-- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) : Kotlin
-  - Native Android app using the Apple/Google exposure notification API.
-- [google-research](https://github.com/google-research/google-research) : Jupyter Notebook
-  - Google Research
-- [discord.js](https://github.com/discordjs/discord.js) : JavaScript
-  - A powerful JavaScript library for interacting with the Discord API
+- [digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) : 
+  - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
+- [lede](https://github.com/coolsnowwolf/lede) : C
+  - Lean's OpenWrt source

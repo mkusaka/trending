@@ -1,51 +1,51 @@
 # go
 - [gitqlite](https://github.com/augmentable-dev/gitqlite)
   - Query git repositories with SQL. Uses SQLite virtual tables and go-git
+- [rod](https://github.com/go-rod/rod)
+  - A Devtools driver to make web automation and scraping easy
+- [helm-operator](https://github.com/fluxcd/helm-operator)
+  - The Flux Helm Operator, for declarative Helming
+- [pipeline](https://github.com/tektoncd/pipeline)
+  - A K8s-native Pipeline resource.
 - [goplus](https://github.com/qiniu/goplus)
   - GoPlus - The Go+ language for data science
-- [chat](https://github.com/tinode/chat)
-  - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
-- [f1viewer](https://github.com/SoMuchForSubtlety/f1viewer)
-  - 🏎️ TUI for F1TV
-- [annie](https://github.com/iawia002/annie)
-  - 👾 Fast, simple and clean video downloader
-- [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga)
-  - Advanced information gathering & OSINT framework for phone numbers
 - [goapp](https://github.com/bnkamalesh/goapp)
   - An opinionated guideline to structure a Go web application/service
-- [learngo](https://github.com/inancgumus/learngo)
-  - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
-- [clash](https://github.com/Dreamacro/clash)
-  - A rule-based tunnel in Go.
-- [go-ethereum](https://github.com/ethereum/go-ethereum)
-  - Official Go implementation of the Ethereum protocol
-- [maratonafc3-microsservico-pagamentos](https://github.com/codeedu/maratonafc3-microsservico-pagamentos)
-  - 
-- [noisia](https://github.com/lesovsky/noisia)
-  - Harmful workload generator for PostgreSQL
+- [slack](https://github.com/slack-go/slack)
+  - Slack API in Go - community-maintained fork created by the original author, @nlopes
+- [golangci-lint](https://github.com/golangci/golangci-lint)
+  - Fast linters Runner for Go
+- [lotus](https://github.com/filecoin-project/lotus)
+  - Implementation of the Filecoin protocol, written in Go
+- [sarama](https://github.com/Shopify/sarama)
+  - Sarama is a Go library for Apache Kafka 0.8, and up.
 - [qrcp](https://github.com/claudiodangelis/qrcp)
   - ⚡ Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
-- [livego](https://github.com/gwuhaolin/livego)
-  - live video streaming server in golang
-- [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
-  - Network-wide ads & trackers blocking DNS server
-- [hugo](https://github.com/gohugoio/hugo)
-  - The world’s fastest framework for building websites.
-- [GoGhost](https://github.com/deepsecurity-pe/GoGhost)
-  - High Performance, lightweight, portable Open Source tool for mass SMBGhost Scan
-- [bettercap](https://github.com/bettercap/bettercap)
-  - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
 - [casbin](https://github.com/casbin/casbin)
   - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
-- [trojan-go](https://github.com/p4gefau1t/trojan-go)
-  - Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
-- [ingress-nginx](https://github.com/kubernetes/ingress-nginx)
-  - NGINX Ingress Controller for Kubernetes
-- [containerd](https://github.com/containerd/containerd)
-  - An open and reliable container runtime
-- [gopl.io](https://github.com/adonovan/gopl.io)
-  - Example programs from "The Go Programming Language"
-- [exposure-notifications-server](https://github.com/google/exposure-notifications-server)
-  - Exposure Notification Reference Server | Covid-19 Exposure Notifications
-- [fiber](https://github.com/gofiber/fiber)
-  - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
+- [cosmos-sdk](https://github.com/cosmos/cosmos-sdk)
+  - ⛓️ A Framework for Building High Value Public Blockchains ✨
+- [argo-cd](https://github.com/argoproj/argo-cd)
+  - Declarative continuous deployment for Kubernetes.
+- [mysql](https://github.com/go-sql-driver/mysql)
+  - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
+- [goreleaser](https://github.com/goreleaser/goreleaser)
+  - Deliver Go binaries as fast and easily as possible
+- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
+  - Terraform AWS provider
+- [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+  - A reverse proxy that provides authentication with Google, Github or other providers.
+- [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway)
+  - gRPC to JSON proxy generator following the gRPC HTTP spec
+- [kubernetes](https://github.com/kubernetes/kubernetes)
+  - Production-Grade Container Scheduling and Management
+- [loki](https://github.com/grafana/loki)
+  - Like Prometheus, but for logs.
+- [trivy](https://github.com/aquasecurity/trivy)
+  - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
+- [k3s](https://github.com/rancher/k3s)
+  - Lightweight Kubernetes
+- [autoscaler](https://github.com/kubernetes/autoscaler)
+  - Autoscaling components for Kubernetes
+- [learngo](https://github.com/inancgumus/learngo)
+  - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes

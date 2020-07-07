@@ -1,51 +1,51 @@
 # javascript
+- [edex-ui](https://github.com/GitSquared/edex-ui)
+  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
   - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [discord.js](https://github.com/discordjs/discord.js)
-  - A powerful JavaScript library for interacting with the Discord API
-- [react-router](https://github.com/ReactTraining/react-router)
-  - Declarative routing for React
-- [jexcel](https://github.com/paulhodel/jexcel)
-  - jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software.
-- [Zettlr](https://github.com/Zettlr/Zettlr)
-  - A Markdown Editor for the 21st century.
-- [v4](https://github.com/bchiang7/v4)
-  - Fourth iteration of my personal website
-- [opensource.guide](https://github.com/github/opensource.guide)
-  - 📚 Community guides for open source creators
-- [breaking-bad-cast](https://github.com/bradtraversy/breaking-bad-cast)
-  - App to show cast info for breaking bad
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
-  - Starter files, final projects and FAQ for my Complete JavaScript course
-- [behave](https://github.com/mindedsecurity/behave)
-  - Behave! A monitoring browser extension for pages acting as "bad boi"
-- [generator-jhipster](https://github.com/jhipster/generator-jhipster)
-  - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
-- [iptv](https://github.com/iptv-org/iptv)
-  - Collection of 8000+ publicly available IPTV channels from all over the world
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+  - 💯 Materials to help you rock your next coding interview
+- [vue](https://github.com/vuejs/vue)
+  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [malinajs](https://github.com/malinajs/malinajs)
+  - Frontend compiler, inspired by Svelte
 - [phaser](https://github.com/photonstorm/phaser)
   - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-- [tailblocks](https://github.com/mertJF/tailblocks)
-  - 🎉 Ready-to-use Tailwind CSS blocks.
-- [elevator.js](https://github.com/tholman/elevator.js)
-  - Finally, a "back to top" button that behaves like a real elevator.
+- [brave-browser](https://github.com/brave/brave-browser)
+  - Next generation Brave browser for macOS, Windows, Linux, Android.
+- [strapi](https://github.com/strapi/strapi)
+  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [intl-tel-input](https://github.com/jackocnr/intl-tel-input)
+  - A JavaScript plugin for entering and validating international telephone numbers
 - [developerFolio](https://github.com/saadpasta/developerFolio)
   - ⚡️ Software Developer Portfolio Template that helps you showcase your work and skills as a software developer.
-- [LoveIt](https://github.com/dillonzq/LoveIt)
-  - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
-- [Ghost](https://github.com/TryGhost/Ghost)
-  - 👻 The #1 headless Node.js CMS for professional publishing
-- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
-  - 一个基于 electron 的音乐软件
-- [udemy-docker-mastery](https://github.com/BretFisher/udemy-docker-mastery)
-  - Udemy Course to build, compose, deploy, and manage containers from local development to high-availability in the cloud
-- [node](https://github.com/nodejs/node)
-  - Node.js JavaScript runtime ✨🐢🚀✨
-- [js-framework-benchmark](https://github.com/krausest/js-framework-benchmark)
-  - A comparison of the perfomance of a few popular javascript frameworks
-- [Script](https://github.com/NobyDa/Script)
-  - This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
-  - ✅ The Node.js best practices list (July 2020)
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-  - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
+- [react-redux](https://github.com/reduxjs/react-redux)
+  - Official React bindings for Redux
+- [next.js](https://github.com/vercel/next.js)
+  - The React Framework
+- [bootstrap](https://github.com/twbs/bootstrap)
+  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [google-meet-grid-view](https://github.com/Fugiman/google-meet-grid-view)
+  - Userscript to offer a grid-view layout in Google Meets
+- [examples](https://github.com/serverless/examples)
+  - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
+- [aws-sdk-js](https://github.com/aws/aws-sdk-js)
+  - AWS SDK for JavaScript in the browser and Node.js
+- [lerna](https://github.com/lerna/lerna)
+  - 🐉 A tool for managing JavaScript projects with multiple packages.
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [wepy](https://github.com/Tencent/wepy)
+  - 小程序组件化开发框架
+- [t-rex-runner](https://github.com/wayou/t-rex-runner)
+  - the t-rex runner game extracted from chromium
+- [joi](https://github.com/hapijs/joi)
+  - The most powerful data validation library for JS
+- [electron-builder](https://github.com/electron-userland/electron-builder)
+  - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+- [Blog](https://github.com/ljianshu/Blog)
+  - 关注基础知识，打造优质前端博客，公众号[前端工匠]的作者
+- [rimraf](https://github.com/isaacs/rimraf)
+  - A `rm -rf` util for nodejs
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
+  - Starter files, final projects and FAQ for my Complete JavaScript course
