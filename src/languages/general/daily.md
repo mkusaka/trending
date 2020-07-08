@@ -1,50 +1,51 @@
 # general
-- [BYTEPATH](https://github.com/a327ex/BYTEPATH) : Lua
+- [covid-tracker-app](https://github.com/HSEIreland/covid-tracker-app) : TypeScript
+  - COVID Tracker App Repository
 - [edex-ui](https://github.com/GitSquared/edex-ui) : JavaScript
   - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [NonEuclidean](https://github.com/HackerPoet/NonEuclidean) : C++
   - A Non-Euclidean Rendering Engine for 3D scenes.
+- [skywater-pdk](https://github.com/google/skywater-pdk) : Python
+  - Open source process design kit for usage with SkyWater Technology Foundry's 130nm node.
 - [backstage](https://github.com/spotify/backstage) : TypeScript
   - Backstage is an open platform for building developer portals
-- [rich](https://github.com/willmcgugan/rich) : Python
-  - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [Python](https://github.com/TheAlgorithms/Python) : Python
-  - All Algorithms implemented in Python
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) : 
-  - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06
-- [texthero](https://github.com/jbesomi/texthero) : Python
-  - Text preprocessing, representation and visualization from zero to hero.
-- [course-content](https://github.com/NeuromatchAcademy/course-content) : Jupyter Notebook
-  - Summer course content for Neuromatch Academy
-- [CVE-2020-5902](https://github.com/jas502n/CVE-2020-5902) : Java
-  - CVE-2020-5902 BIG-IP
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [blog](https://github.com/a327ex/blog) : 
-  - gamedev blog
-- [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) : 
-  - Docker Cheat Sheet
-- [app-ideas](https://github.com/florinpop17/app-ideas) : 
-  - A Collection of application ideas which can be used to improve your coding skills.
-- [ounotes](https://github.com/AbdulMalikDev/ounotes) : Dart
-  - An Application built for students to access Notes , Question Papers , Syllabus and Resources for all Subjects of O.U (Osmania University) 📘👨‍🎓
-- [mimalloc](https://github.com/microsoft/mimalloc) : C
-  - mimalloc is a compact general purpose allocator with excellent performance.
-- [hackingtool](https://github.com/Z4nzu/hackingtool) : Python
-  - ALL IN ONE Hacking Tool For Hackers
+- [fmt](https://github.com/fmtlib/fmt) : C++
+  - A modern formatting library
 - [EasyOCR](https://github.com/JaidedAI/EasyOCR) : Python
   - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
-- [gitqlite](https://github.com/augmentable-dev/gitqlite) : Go
-  - Query git repositories with SQL. Uses SQLite virtual tables and go-git
-- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
-  - Course Files for Complete Python 3 Bootcamp Course on Udemy
+- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) : Python
+  - Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
+- [hackingtool](https://github.com/Z4nzu/hackingtool) : Python
+  - ALL IN ONE Hacking Tool For Hackers
+- [dask-tutorial](https://github.com/dask/dask-tutorial) : Jupyter Notebook
+  - Dask tutorial
+- [bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) : Python
+  - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
+- [TaBERT](https://github.com/facebookresearch/TaBERT) : Python
+  - This repository contains source code for the TaBERT model, a pre-trained language model for learning joint representations of natural language utterances and (semi-)structured tables for semantic parsing. TaBERT is pre-trained on a massive corpus of 26M Web tables and their associated natural language context, and could be used as a drop-in repl…
+- [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) : 
+  - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06
 - [sweetviz](https://github.com/fbdesignpro/sweetviz) : Python
   - Visualize and compare datasets, target values and associations, with one line of code.
-- [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) : Python
-  - A curated list of awesome Machine Learning frameworks, libraries and software.
-- [digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) : 
-  - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
-- [lede](https://github.com/coolsnowwolf/lede) : C
-  - Lean's OpenWrt source
+- [Python](https://github.com/TheAlgorithms/Python) : Python
+  - All Algorithms implemented in Python
+- [course-content](https://github.com/NeuromatchAcademy/course-content) : Jupyter Notebook
+  - Summer course content for Neuromatch Academy
+- [Tiktok](https://github.com/18380438200/Tiktok) : Java
+  - 高仿抖音APP
+- [RADWIMPS](https://github.com/approvers/RADWIMPS) : HTML
+  - 君の then-then-then 世は Promise で Future
+- [dragonwell8](https://github.com/alibaba/dragonwell8) : Shell
+  - Alibaba Dragonwell8 JDK
+- [react-native-firebase](https://github.com/invertase/react-native-firebase) : JavaScript
+  - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
+- [CVE-2020-5902](https://github.com/jas502n/CVE-2020-5902) : Java
+  - CVE-2020-5902 BIG-IP
+- [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) : C#
+  - A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+- [texthero](https://github.com/jbesomi/texthero) : Python
+  - Text preprocessing, representation and visualization from zero to hero.
+- [google-research](https://github.com/google-research/google-research) : Jupyter Notebook
+  - Google Research
+- [dvc](https://github.com/iterative/dvc) : Python
+  - 🦉Data Version Control | Git for Data & Models
