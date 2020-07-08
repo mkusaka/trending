@@ -1,51 +1,51 @@
 # javascript
 - [edex-ui](https://github.com/GitSquared/edex-ui)
   - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
-  - 💯 Materials to help you rock your next coding interview
+- [react-native-firebase](https://github.com/invertase/react-native-firebase)
+  - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
 - [vue](https://github.com/vuejs/vue)
   - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [malinajs](https://github.com/malinajs/malinajs)
-  - Frontend compiler, inspired by Svelte
-- [phaser](https://github.com/photonstorm/phaser)
-  - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-- [brave-browser](https://github.com/brave/brave-browser)
-  - Next generation Brave browser for macOS, Windows, Linux, Android.
-- [strapi](https://github.com/strapi/strapi)
-  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
-- [intl-tel-input](https://github.com/jackocnr/intl-tel-input)
-  - A JavaScript plugin for entering and validating international telephone numbers
-- [developerFolio](https://github.com/saadpasta/developerFolio)
-  - ⚡️ Software Developer Portfolio Template that helps you showcase your work and skills as a software developer.
-- [react-redux](https://github.com/reduxjs/react-redux)
-  - Official React bindings for Redux
-- [next.js](https://github.com/vercel/next.js)
-  - The React Framework
 - [bootstrap](https://github.com/twbs/bootstrap)
   - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [create-react-app](https://github.com/facebook/create-react-app)
+  - Set up a modern web app by running one command.
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [slate](https://github.com/ianstormtaylor/slate)
+  - A completely customizable framework for building rich text editors. (Currently in beta.)
+- [graphql-engine](https://github.com/hasura/graphql-engine)
+  - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+- [swagger-ui](https://github.com/swagger-api/swagger-ui)
+  - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [google-meet-grid-view](https://github.com/Fugiman/google-meet-grid-view)
   - Userscript to offer a grid-view layout in Google Meets
-- [examples](https://github.com/serverless/examples)
-  - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
-- [aws-sdk-js](https://github.com/aws/aws-sdk-js)
-  - AWS SDK for JavaScript in the browser and Node.js
-- [lerna](https://github.com/lerna/lerna)
-  - 🐉 A tool for managing JavaScript projects with multiple packages.
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [wepy](https://github.com/Tencent/wepy)
-  - 小程序组件化开发框架
+- [next-auth](https://github.com/iaincollins/next-auth)
+  - Easy authentication for Next.js and Serverless
+- [cypress](https://github.com/cypress-io/cypress)
+  - Fast, easy and reliable testing for anything that runs in a browser.
 - [t-rex-runner](https://github.com/wayou/t-rex-runner)
   - the t-rex runner game extracted from chromium
-- [joi](https://github.com/hapijs/joi)
-  - The most powerful data validation library for JS
-- [electron-builder](https://github.com/electron-userland/electron-builder)
-  - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [Blog](https://github.com/ljianshu/Blog)
-  - 关注基础知识，打造优质前端博客，公众号[前端工匠]的作者
-- [rimraf](https://github.com/isaacs/rimraf)
-  - A `rm -rf` util for nodejs
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
-  - Starter files, final projects and FAQ for my Complete JavaScript course
+- [ag-grid](https://github.com/ag-grid/ag-grid)
+  - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
+- [strapi](https://github.com/strapi/strapi)
+  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [octicons](https://github.com/primer/octicons)
+  - A scalable set of icons handcrafted with <3 by GitHub
+- [react-query](https://github.com/tannerlinsley/react-query)
+  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+- [lerna](https://github.com/lerna/lerna)
+  - 🐉 A tool for managing JavaScript projects with multiple packages.
+- [incubator-echarts](https://github.com/apache/incubator-echarts)
+  - A powerful, interactive charting and visualization library for browser
+- [node-red](https://github.com/node-red/node-red)
+  - Low-code programming for event-driven applications
+- [exceljs](https://github.com/exceljs/exceljs)
+  - Excel Workbook Manager
+- [next.js](https://github.com/vercel/next.js)
+  - The React Framework
+- [fullPage.js](https://github.com/alvarotrigo/fullPage.js)
+  - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
+- [tiptap](https://github.com/scrumpy/tiptap)
+  - A rich-text editor for Vue.js
+- [quill](https://github.com/quilljs/quill)
+  - Quill is a modern WYSIWYG editor built for compatibility and extensibility.

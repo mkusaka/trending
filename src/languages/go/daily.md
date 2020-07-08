@@ -1,51 +1,51 @@
 # go
-- [gitqlite](https://github.com/augmentable-dev/gitqlite)
-  - Query git repositories with SQL. Uses SQLite virtual tables and go-git
-- [rod](https://github.com/go-rod/rod)
-  - A Devtools driver to make web automation and scraping easy
-- [helm-operator](https://github.com/fluxcd/helm-operator)
-  - The Flux Helm Operator, for declarative Helming
-- [pipeline](https://github.com/tektoncd/pipeline)
-  - A K8s-native Pipeline resource.
-- [goplus](https://github.com/qiniu/goplus)
-  - GoPlus - The Go+ language for data science
-- [goapp](https://github.com/bnkamalesh/goapp)
-  - An opinionated guideline to structure a Go web application/service
-- [slack](https://github.com/slack-go/slack)
-  - Slack API in Go - community-maintained fork created by the original author, @nlopes
-- [golangci-lint](https://github.com/golangci/golangci-lint)
-  - Fast linters Runner for Go
-- [lotus](https://github.com/filecoin-project/lotus)
-  - Implementation of the Filecoin protocol, written in Go
-- [sarama](https://github.com/Shopify/sarama)
-  - Sarama is a Go library for Apache Kafka 0.8, and up.
-- [qrcp](https://github.com/claudiodangelis/qrcp)
-  - ⚡ Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
-- [casbin](https://github.com/casbin/casbin)
-  - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
-- [cosmos-sdk](https://github.com/cosmos/cosmos-sdk)
-  - ⛓️ A Framework for Building High Value Public Blockchains ✨
-- [argo-cd](https://github.com/argoproj/argo-cd)
-  - Declarative continuous deployment for Kubernetes.
-- [mysql](https://github.com/go-sql-driver/mysql)
-  - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
-- [goreleaser](https://github.com/goreleaser/goreleaser)
-  - Deliver Go binaries as fast and easily as possible
 - [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
   - Terraform AWS provider
-- [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-  - A reverse proxy that provides authentication with Google, Github or other providers.
+- [opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go)
+  - OpenTelemetry Go API and SDK
+- [grpc-go](https://github.com/grpc/grpc-go)
+  - The Go language implementation of gRPC. HTTP/2 based RPC
+- [jwt-go](https://github.com/dgrijalva/jwt-go)
+  - Golang implementation of JSON Web Tokens (JWT)
 - [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway)
   - gRPC to JSON proxy generator following the gRPC HTTP spec
-- [kubernetes](https://github.com/kubernetes/kubernetes)
-  - Production-Grade Container Scheduling and Management
-- [loki](https://github.com/grafana/loki)
-  - Like Prometheus, but for logs.
-- [trivy](https://github.com/aquasecurity/trivy)
-  - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
-- [k3s](https://github.com/rancher/k3s)
-  - Lightweight Kubernetes
+- [terraform](https://github.com/hashicorp/terraform)
+  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [kops](https://github.com/kubernetes/kops)
+  - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
+- [go-swagger](https://github.com/go-swagger/go-swagger)
+  - Swagger 2.0 implementation for go
+- [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm)
+  - Terraform provider for Azure Resource Manager
+- [aws-sdk-go](https://github.com/aws/aws-sdk-go)
+  - AWS SDK for the Go programming language.
+- [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+  - A reverse proxy that provides authentication with Google, Github or other providers.
+- [mysql](https://github.com/go-sql-driver/mysql)
+  - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
+- [chi](https://github.com/go-chi/chi)
+  - lightweight, idiomatic and composable router for building Go HTTP services
+- [containerd](https://github.com/containerd/containerd)
+  - An open and reliable container runtime
+- [govmomi](https://github.com/vmware/govmomi)
+  - Go library for the VMware vSphere API
+- [argo](https://github.com/argoproj/argo)
+  - Argo Workflows: Get stuff done with Kubernetes.
+- [migrate](https://github.com/golang-migrate/migrate)
+  - Database migrations. CLI and Golang library.
+- [slack](https://github.com/slack-go/slack)
+  - Slack API in Go - community-maintained fork created by the original author, @nlopes
+- [gin-admin](https://github.com/LyricTian/gin-admin)
+  - RBAC scaffolding based on Gin + Gorm/Mongo + Casbin + Wire
 - [autoscaler](https://github.com/kubernetes/autoscaler)
   - Autoscaling components for Kubernetes
-- [learngo](https://github.com/inancgumus/learngo)
-  - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
+- [etcd](https://github.com/etcd-io/etcd)
+  - Distributed reliable key-value store for the most critical data of a distributed system
+- [go](https://github.com/golang/go)
+  - The Go programming language
+- [gjson](https://github.com/tidwall/gjson)
+  - Get JSON values quickly - JSON parser for Go
+- [gop](https://github.com/goplus/gop)
+  - GoPlus - The Go+ language for data science
+- [charts](https://github.com/helm/charts)
+  - Curated applications for Kubernetes

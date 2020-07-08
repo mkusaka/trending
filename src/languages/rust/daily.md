@@ -1,51 +1,51 @@
 # rust
-- [nushell](https://github.com/nushell/nushell)
-  - A new type of shell
-- [vector](https://github.com/timberio/vector)
-  - A lightweight and ultra-fast tool for building observability pipelines
+- [sphere_dance](https://github.com/janiorca/sphere_dance)
+  - Using rust to create a real 4K intro
+- [firecracker](https://github.com/firecracker-microvm/firecracker)
+  - Secure and fast microVMs for serverless computing.
 - [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
   - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
-- [iced](https://github.com/hecrj/iced)
-  - A cross-platform GUI library for Rust, inspired by Elm
+- [nushell](https://github.com/nushell/nushell)
+  - A new type of shell
 - [gitui](https://github.com/extrawurst/gitui)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [broot](https://github.com/Canop/broot)
   - A new way to see and navigate directory trees : https://dystroy.org/broot
-- [smartstring](https://github.com/bodil/smartstring)
-  - Compact inlined strings for Rust.
-- [sphere_dance](https://github.com/janiorca/sphere_dance)
-  - Using rust to create a real 4K intro
-- [zola](https://github.com/getzola/zola)
-  - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
-- [heliocron](https://github.com/mfreeborn/heliocron)
-  - A command line application written in Rust capable of delaying execution of other programs for time periods relative to sunrise and sunset.
-- [juniper](https://github.com/graphql-rust/juniper)
-  - GraphQL server library for Rust
-- [delta](https://github.com/dandavison/delta)
-  - A viewer for git and diff output
-- [quiche](https://github.com/cloudflare/quiche)
-  - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [winrt-rs](https://github.com/microsoft/winrt-rs)
   - Rust language projection for the Windows Runtime
+- [paxos](https://github.com/spacejam/paxos)
+  - simple CASPaxos implementation written in rust on top of a simulator for finding bugs quickly
+- [iced](https://github.com/hecrj/iced)
+  - A cross-platform GUI library for Rust, inspired by Elm
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [espanso](https://github.com/federico-terzi/espanso)
+  - Cross-platform Text Expander written in Rust
 - [smol](https://github.com/stjepang/smol)
   - A small and fast async runtime for Rust
 - [actix-web](https://github.com/actix/actix-web)
   - Actix web is a small, pragmatic, and extremely fast rust web framework.
 - [rust-postgres](https://github.com/sfackler/rust-postgres)
   - Native PostgreSQL driver for the Rust programming language
+- [quiche](https://github.com/cloudflare/quiche)
+  - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+- [sqlx](https://github.com/launchbadge/sqlx)
+  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+- [vector](https://github.com/timberio/vector)
+  - A lightweight and ultra-fast tool for building observability pipelines
+- [lighthouse](https://github.com/sigp/lighthouse)
+  - Rust Ethereum 2.0 Client
+- [book](https://github.com/rust-lang/book)
+  - The Rust Programming Language
 - [tonic](https://github.com/hyperium/tonic)
   - A native gRPC client & server implementation with async/await support.
-- [Rocket](https://github.com/SergioBenitez/Rocket)
-  - A web framework for Rust.
-- [ripgrep](https://github.com/BurntSushi/ripgrep)
-  - ripgrep recursively searches directories for a regex pattern
-- [espanso](https://github.com/federico-terzi/espanso)
-  - Cross-platform Text Expander written in Rust
-- [im-rs](https://github.com/bodil/im-rs)
-  - Assorted immutable collection datatypes for Rust
-- [ggez](https://github.com/ggez/ggez)
-  - Rust library to create a Good Game Easily
-- [reqwest](https://github.com/seanmonstar/reqwest)
-  - An easy and powerful Rust HTTP Client
-- [trace-mutex](https://github.com/jamesmunns/trace-mutex)
-  - A mutex with timeout tracing
+- [servo](https://github.com/servo/servo)
+  - The Servo Browser Engine
+- [tracing](https://github.com/tokio-rs/tracing)
+  - Application level tracing for Rust.
+- [pyo3](https://github.com/PyO3/pyo3)
+  - Rust bindings for the Python interpreter
+- [sccache](https://github.com/mozilla/sccache)
+  - sccache is ccache with cloud storage
+- [ytop](https://github.com/cjbassi/ytop)
+  - A TUI system monitor written in Rust
