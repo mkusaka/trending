@@ -1,51 +1,51 @@
 # typescript
+- [playwright](https://github.com/microsoft/playwright)
+  - Node library to automate Chromium, Firefox and WebKit with a single API
 - [covid-tracker-app](https://github.com/HSEIreland/covid-tracker-app)
   - COVID Tracker App Repository
-- [backstage](https://github.com/spotify/backstage)
-  - Backstage is an open platform for building developer portals
-- [amplify-cli](https://github.com/aws-amplify/amplify-cli)
-  - A CLI toolchain for simplifying serverless web and mobile development.
-- [storybook](https://github.com/storybookjs/storybook)
-  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
-- [vue-next](https://github.com/vuejs/vue-next)
-  - Repo for Vue 3.0 (currently in beta)
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
-- [checkout](https://github.com/actions/checkout)
-  - Action for checking out a repo
 - [fast](https://github.com/microsoft/fast)
   - The adaptive interface system  for modern web experiences.
 - [swr](https://github.com/vercel/swr)
   - React Hooks library for remote data fetching
-- [prisma](https://github.com/prisma/prisma)
-  - Modern DB toolkit to query, migrate and model your database
+- [backstage](https://github.com/spotify/backstage)
+  - Backstage is an open platform for building developer portals
+- [msw](https://github.com/mswjs/msw)
+  - Seamless REST/GraphQL API mocking library for browser and Node.
+- [covid-shield-mobile](https://github.com/cds-snc/covid-shield-mobile)
+  - Exposure notification client application / Application client de notification d'exposition
+- [opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js)
+  - OpenTelemetry JavaScript API and SDK
+- [angularfire](https://github.com/angular/angularfire)
+  - The official Angular library for Firebase.
+- [davinci](https://github.com/edp963/davinci)
+  - Davinci is a DVsaaS (Data Visualization as a Service) Platform
+- [checkout](https://github.com/actions/checkout)
+  - Action for checking out a repo
 - [components](https://github.com/angular/components)
   - Component infrastructure and Material Design components for Angular
-- [midway](https://github.com/midwayjs/midway)
-  - 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Aliyun, Tencent-Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
-- [platform](https://github.com/ngrx/platform)
-  - Reactive libraries for Angular
+- [flipper](https://github.com/facebook/flipper)
+  - A desktop debugging platform for mobile developers.
 - [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
   - The source for REST API specifications for Microsoft Azure.
-- [auth-module](https://github.com/nuxt-community/auth-module)
-  - 🔑 Zero-boilerplate authentication support for Nuxt
-- [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native)
-  - ⚛️📺 Projects from the “Can it be done in React Native?” YouTube series
-- [nx](https://github.com/nrwl/nx)
-  - Extensible Dev Tools for Monorepos
-- [kibana](https://github.com/elastic/kibana)
-  - Your window into the Elastic Stack
-- [aws-cdk](https://github.com/aws/aws-cdk)
-  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [github-script](https://github.com/actions/github-script)
-  - 
-- [jest](https://github.com/facebook/jest)
-  - Delightful JavaScript Testing.
-- [hyper](https://github.com/vercel/hyper)
-  - A terminal built on web technologies
-- [editor.js](https://github.com/codex-team/editor.js)
-  - A block-styled editor with clean JSON output
+- [vscode-cpptools](https://github.com/microsoft/vscode-cpptools)
+  - Official repository for the Microsoft C/C++ extension for VS Code.
+- [starter-workflows](https://github.com/actions/starter-workflows)
+  - Accelerating new GitHub Actions workflows
+- [tfjs-models](https://github.com/tensorflow/tfjs-models)
+  - Pretrained models for TensorFlow.js
+- [formik](https://github.com/formik/formik)
+  - Build forms in React, without the tears 😭
+- [sentry-javascript](https://github.com/getsentry/sentry-javascript)
+  - Official Sentry SDKs for Javascript
+- [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+  - ✨ Monorepo for all the tooling which enables ESLint to support TypeScript
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+  - The repository for high quality TypeScript type definitions.
+- [apollo-client](https://github.com/apollographql/apollo-client)
+  - 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
 - [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)
   - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
+- [xterm.js](https://github.com/xtermjs/xterm.js)
+  - A terminal for the web
+- [ngx-datatable](https://github.com/swimlane/ngx-datatable)
+  - ✨ A feature-rich yet lightweight data-table crafted for Angular
