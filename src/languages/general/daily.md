@@ -1,51 +1,51 @@
 # general
-- [covid-tracker-app](https://github.com/HSEIreland/covid-tracker-app) : TypeScript
-  - COVID Tracker App Repository
-- [edex-ui](https://github.com/GitSquared/edex-ui) : JavaScript
-  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [NonEuclidean](https://github.com/HackerPoet/NonEuclidean) : C++
-  - A Non-Euclidean Rendering Engine for 3D scenes.
-- [skywater-pdk](https://github.com/google/skywater-pdk) : Python
-  - Open source process design kit for usage with SkyWater Technology Foundry's 130nm node.
-- [backstage](https://github.com/spotify/backstage) : TypeScript
-  - Backstage is an open platform for building developer portals
-- [fmt](https://github.com/fmtlib/fmt) : C++
-  - A modern formatting library
 - [EasyOCR](https://github.com/JaidedAI/EasyOCR) : Python
   - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
-- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) : Python
-  - Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
-- [hackingtool](https://github.com/Z4nzu/hackingtool) : Python
-  - ALL IN ONE Hacking Tool For Hackers
-- [dask-tutorial](https://github.com/dask/dask-tutorial) : Jupyter Notebook
-  - Dask tutorial
-- [bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) : Python
-  - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
-- [TaBERT](https://github.com/facebookresearch/TaBERT) : Python
-  - This repository contains source code for the TaBERT model, a pre-trained language model for learning joint representations of natural language utterances and (semi-)structured tables for semantic parsing. TaBERT is pre-trained on a massive corpus of 26M Web tables and their associated natural language context, and could be used as a drop-in repl…
-- [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) : 
-  - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06
-- [sweetviz](https://github.com/fbdesignpro/sweetviz) : Python
-  - Visualize and compare datasets, target values and associations, with one line of code.
-- [Python](https://github.com/TheAlgorithms/Python) : Python
-  - All Algorithms implemented in Python
-- [course-content](https://github.com/NeuromatchAcademy/course-content) : Jupyter Notebook
-  - Summer course content for Neuromatch Academy
-- [Tiktok](https://github.com/18380438200/Tiktok) : Java
-  - 高仿抖音APP
-- [RADWIMPS](https://github.com/approvers/RADWIMPS) : HTML
-  - 君の then-then-then 世は Promise で Future
-- [dragonwell8](https://github.com/alibaba/dragonwell8) : Shell
-  - Alibaba Dragonwell8 JDK
-- [react-native-firebase](https://github.com/invertase/react-native-firebase) : JavaScript
-  - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
-- [CVE-2020-5902](https://github.com/jas502n/CVE-2020-5902) : Java
-  - CVE-2020-5902 BIG-IP
-- [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) : C#
-  - A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+- [dlwpt-code](https://github.com/deep-learning-with-pytorch/dlwpt-code) : Jupyter Notebook
+  - Code for the book Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann.
+- [tauri](https://github.com/tauri-apps/tauri) : Rust
+  - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
+- [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) : Java
+  - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
 - [texthero](https://github.com/jbesomi/texthero) : Python
   - Text preprocessing, representation and visualization from zero to hero.
-- [google-research](https://github.com/google-research/google-research) : Jupyter Notebook
-  - Google Research
-- [dvc](https://github.com/iterative/dvc) : Python
-  - 🦉Data Version Control | Git for Data & Models
+- [hackingtool](https://github.com/Z4nzu/hackingtool) : Python
+  - ALL IN ONE Hacking Tool For Hackers
+- [cml](https://github.com/iterative/cml) : JavaScript
+  - CML - Continuous Machine Learning or CI/CD for ML
+- [react-native-firebase](https://github.com/invertase/react-native-firebase) : JavaScript
+  - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
+- [bookshelf](https://github.com/kentcdodds/bookshelf) : JavaScript
+  - Build a ReactJS App workshop
+- [BottlEye](https://github.com/thesecretclub/BottlEye) : C++
+  - BottlEye is a usermode emulator for the popular anti-cheat BattlEye
+- [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) : 
+  - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06
+- [playwright](https://github.com/microsoft/playwright) : TypeScript
+  - Node library to automate Chromium, Firefox and WebKit with a single API
+- [edex-ui](https://github.com/GitSquared/edex-ui) : JavaScript
+  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+- [PowerJob](https://github.com/KFCFans/PowerJob) : Java
+  - 新一代分布式任务调度与计算框架，支持CRON、API、固定频率、固定延迟等调度策略，提供工作流来编排任务解决依赖关系，使用简单，功能强大，文档齐全，欢迎各位接入使用！
+- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) : Python
+  - Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
+- [covid-tracker-app](https://github.com/HSEIreland/covid-tracker-app) : TypeScript
+  - COVID Tracker App Repository
+- [azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) : Python
+  - This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.
+- [fast](https://github.com/microsoft/fast) : TypeScript
+  - The adaptive interface system  for modern web experiences.
+- [DeepFaceLab](https://github.com/iperov/DeepFaceLab) : Python
+  - DeepFaceLab is the leading software for creating deepfakes.
+- [skywater-pdk](https://github.com/google/skywater-pdk) : Python
+  - Open source process design kit for usage with SkyWater Technology Foundry's 130nm node.
+- [cheatsheets](https://github.com/matplotlib/cheatsheets) : Python
+  - Official Matplotlib cheat sheets
+- [Team-Ares](https://github.com/Critical-Start/Team-Ares) : Python
+  - Repository for all TeamARES POC code and tools.
+- [grpc-java](https://github.com/grpc/grpc-java) : Java
+  - The Java gRPC implementation. HTTP/2 based RPC
+- [emscripten](https://github.com/emscripten-core/emscripten) : C++
+  - Emscripten: An LLVM-to-Web Compiler
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
+  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
