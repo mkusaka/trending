@@ -1,51 +1,51 @@
 # general
-- [EasyOCR](https://github.com/JaidedAI/EasyOCR) : Python
-  - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
+- [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) : Java
+  - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
+- [hackingtool](https://github.com/Z4nzu/hackingtool) : Python
+  - ALL IN ONE Hacking Tool For Hackers
+- [flokk](https://github.com/gskinnerTeam/flokk) : Dart
+  - A fresh and modern Google Contacts manager that integrates with GitHub and Twitter.
+- [azure-docs](https://github.com/MicrosoftDocs/azure-docs) : PowerShell
+  - Open source documentation of Microsoft Azure
 - [dlwpt-code](https://github.com/deep-learning-with-pytorch/dlwpt-code) : Jupyter Notebook
   - Code for the book Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann.
 - [tauri](https://github.com/tauri-apps/tauri) : Rust
   - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
-- [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) : Java
-  - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
-- [texthero](https://github.com/jbesomi/texthero) : Python
-  - Text preprocessing, representation and visualization from zero to hero.
-- [hackingtool](https://github.com/Z4nzu/hackingtool) : Python
-  - ALL IN ONE Hacking Tool For Hackers
-- [cml](https://github.com/iterative/cml) : JavaScript
-  - CML - Continuous Machine Learning or CI/CD for ML
-- [react-native-firebase](https://github.com/invertase/react-native-firebase) : JavaScript
-  - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
-- [bookshelf](https://github.com/kentcdodds/bookshelf) : JavaScript
-  - Build a ReactJS App workshop
-- [BottlEye](https://github.com/thesecretclub/BottlEye) : C++
-  - BottlEye is a usermode emulator for the popular anti-cheat BattlEye
-- [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) : 
-  - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06
-- [playwright](https://github.com/microsoft/playwright) : TypeScript
-  - Node library to automate Chromium, Firefox and WebKit with a single API
-- [edex-ui](https://github.com/GitSquared/edex-ui) : JavaScript
-  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [PowerJob](https://github.com/KFCFans/PowerJob) : Java
-  - 新一代分布式任务调度与计算框架，支持CRON、API、固定频率、固定延迟等调度策略，提供工作流来编排任务解决依赖关系，使用简单，功能强大，文档齐全，欢迎各位接入使用！
-- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) : Python
-  - Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
-- [covid-tracker-app](https://github.com/HSEIreland/covid-tracker-app) : TypeScript
-  - COVID Tracker App Repository
 - [azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) : Python
   - This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.
-- [fast](https://github.com/microsoft/fast) : TypeScript
-  - The adaptive interface system  for modern web experiences.
+- [metersphere](https://github.com/metersphere/metersphere) : Java
+  - MeterSphere 是一站式的开源企业级持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能
 - [DeepFaceLab](https://github.com/iperov/DeepFaceLab) : Python
   - DeepFaceLab is the leading software for creating deepfakes.
-- [skywater-pdk](https://github.com/google/skywater-pdk) : Python
-  - Open source process design kit for usage with SkyWater Technology Foundry's 130nm node.
-- [cheatsheets](https://github.com/matplotlib/cheatsheets) : Python
-  - Official Matplotlib cheat sheets
-- [Team-Ares](https://github.com/Critical-Start/Team-Ares) : Python
-  - Repository for all TeamARES POC code and tools.
-- [grpc-java](https://github.com/grpc/grpc-java) : Java
-  - The Java gRPC implementation. HTTP/2 based RPC
-- [emscripten](https://github.com/emscripten-core/emscripten) : C++
-  - Emscripten: An LLVM-to-Web Compiler
+- [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) : Java
+  - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
+- [googletest](https://github.com/google/googletest) : C++
+  - Googletest - Google Testing and Mocking Framework
+- [tsunami-security-scanner-plugins](https://github.com/google/tsunami-security-scanner-plugins) : Java
+  - This project aims to provide a central repository for many useful Tsunami Security Scanner plugins.
+- [EasyOCR](https://github.com/JaidedAI/EasyOCR) : Python
+  - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
+- [torchsde](https://github.com/google-research/torchsde) : Python
+  - Differentiable SDE solvers with GPU support and efficient sensitivity analysis.
+- [moby](https://github.com/moby/moby) : Go
+  - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [texthero](https://github.com/jbesomi/texthero) : Python
+  - Text preprocessing, representation and visualization from zero to hero.
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
   - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [How-to-create-a-csgo-cheating-program](https://github.com/FiYHer/How-to-create-a-csgo-cheating-program) : C++
+  - CSGO游戏透视自瞄辅助实现教程
+- [fast](https://github.com/microsoft/fast) : TypeScript
+  - The adaptive interface system  for modern web experiences.
+- [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) : 
+  - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06
+- [copilot-cli](https://github.com/aws/copilot-cli) : Go
+  - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on Amazon ECS and AWS Fargate.
+- [og-aws](https://github.com/open-guides/og-aws) : Shell
+  - 📙 Amazon Web Services — a practical guide
+- [presto](https://github.com/prestodb/presto) : Java
+  - The official home of the Presto distributed SQL query engine for big data
+- [cheatsheets](https://github.com/matplotlib/cheatsheets) : Python
+  - Official Matplotlib cheat sheets
+- [sweetviz](https://github.com/fbdesignpro/sweetviz) : Python
+  - Visualize and compare datasets, target values and associations, with one line of code.
