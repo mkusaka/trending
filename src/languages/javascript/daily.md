@@ -1,51 +1,51 @@
 # javascript
-- [cml](https://github.com/iterative/cml)
-  - ♾️ CML - Continuous Machine Learning or CI/CD for ML
-- [bookshelf](https://github.com/kentcdodds/bookshelf)
-  - Build a ReactJS App workshop
-- [alpine](https://github.com/alpinejs/alpine)
-  - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [cypress](https://github.com/cypress-io/cypress)
   - Fast, easy and reliable testing for anything that runs in a browser.
-- [react-query](https://github.com/tannerlinsley/react-query)
-  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
-- [three.js](https://github.com/mrdoob/three.js)
-  - JavaScript 3D library.
-- [edex-ui](https://github.com/GitSquared/edex-ui)
-  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
-- [react-native-firebase](https://github.com/invertase/react-native-firebase)
-  - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
-- [svelte](https://github.com/sveltejs/svelte)
-  - Cybernetically enhanced web apps
-- [lazysizes](https://github.com/aFarkas/lazysizes)
-  - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
-- [cube.js](https://github.com/cube-js/cube.js)
-  - 📊 Cube.js - Open Source Analytics Framework
-- [jsPDF](https://github.com/MrRio/jsPDF)
-  - Client-side JavaScript PDF generation for everyone.
-- [redwood](https://github.com/redwoodjs/redwood)
-  - Bringing full-stack to the Jamstack.
-- [d3](https://github.com/d3/d3)
-  - Bring data to life with SVG, Canvas and HTML. 📊📈🎉
-- [quasar](https://github.com/quasarframework/quasar)
-  - Quasar Framework - Build high-performance VueJS user interfaces in record time
-- [vant-weapp](https://github.com/youzan/vant-weapp)
-  - 轻量、可靠的小程序 UI 组件库
-- [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated)
-  - React Native's Animated library reimplemented
-- [pwa-studio](https://github.com/magento/pwa-studio)
-  - 🛠Development tools to build, optimize and deploy Progressive Web Applications for Magento 2.
-- [json-server](https://github.com/typicode/json-server)
-  - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-- [Inputmask](https://github.com/RobinHerbots/Inputmask)
-  - Input Mask plugin
-- [nuxt.js](https://github.com/nuxt/nuxt.js)
-  - The Intuitive Vue Framework
-- [vue-cli](https://github.com/vuejs/vue-cli)
-  - 🛠️ Standard Tooling for Vue.js Development
+- [cml](https://github.com/iterative/cml)
+  - ♾️ CML - Continuous Machine Learning or CI/CD for ML
+- [realworld](https://github.com/gothinkster/realworld)
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
+  - 🚀🚀🚀A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [next.js](https://github.com/vercel/next.js)
+  - The React Framework
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [label-studio](https://github.com/heartexlabs/label-studio)
+  - Label Studio is a multi-type data labeling and annotation tool with standardized output format
+- [pipedream](https://github.com/PipedreamHQ/pipedream)
+  - Serverless integration and compute platform. Free for developers.
 - [shields](https://github.com/badges/shields)
   - Concise, consistent, and legible badges in SVG and raster format
-- [remote-jobs](https://github.com/remoteintech/remote-jobs)
-  - A list of semi to fully remote-friendly companies in tech.
+- [Inputmask](https://github.com/RobinHerbots/Inputmask)
+  - Input Mask plugin
+- [proposal-temporal](https://github.com/tc39/proposal-temporal)
+  - Provides standard objects and functions for working with dates and times.
+- [malinajs](https://github.com/malinajs/malinajs)
+  - Frontend compiler, inspired by Svelte
+- [fastify](https://github.com/fastify/fastify)
+  - Fast and low overhead web framework, for Node.js
+- [honkit](https://github.com/honkit/honkit)
+  - 📖 HonKit is building beautiful books using Markdown - Fork of GitBook
+- [bumblebee](https://github.com/jaxcore/bumblebee)
+  - Jaxcore Bumblebee - a JavaScript voice application framework
+- [lerna](https://github.com/lerna/lerna)
+  - 🐉 A tool for managing JavaScript projects with multiple packages.
+- [cube.js](https://github.com/cube-js/cube.js)
+  - 📊 Cube.js - Open Source Analytics Framework
+- [map33.js](https://github.com/blaze33/map33.js)
+  - A JavaScript library to make 3D maps with three.js.
+- [lowdb](https://github.com/typicode/lowdb)
+  - ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
+- [svelte](https://github.com/sveltejs/svelte)
+  - Cybernetically enhanced web apps
+- [redwood](https://github.com/redwoodjs/redwood)
+  - Bringing full-stack to the Jamstack.
+- [next-site](https://github.com/vercel/next-site)
+  - The official website for Next.js
+- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
+  - Beautiful and accessible drag and drop for lists with React
+- [cloudmapper](https://github.com/duo-labs/cloudmapper)
+  - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
