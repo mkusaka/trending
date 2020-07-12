@@ -1,51 +1,51 @@
 # go
+- [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
+  - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，五分钟一套CURD前后端代码包含数据库的快感你不要体验一下吗~,更多功能正在开发中，欢迎issue和pr~
 - [moby](https://github.com/moby/moby)
   - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [prometheus](https://github.com/prometheus/prometheus)
-  - The Prometheus monitoring system and time series database.
-- [cilium](https://github.com/cilium/cilium)
-  - eBPF-based Networking, Security, and Observability
-- [opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector)
-  - OpenTelemetry Collector
-- [caddy](https://github.com/caddyserver/caddy)
-  - Fast, multi-platform web server with automatic HTTPS
-- [gorm](https://github.com/go-gorm/gorm)
-  - The fantastic ORM library for Golang, aims to be developer friendly (v2 is under public testing...)
-- [grpc-go](https://github.com/grpc/grpc-go)
-  - The Go language implementation of gRPC. HTTP/2 based RPC
-- [rancher](https://github.com/rancher/rancher)
-  - Complete container management platform
-- [ecs-plugin](https://github.com/docker/ecs-plugin)
-  - CLI plugin for using Fargate/ECS with Docker CLI
-- [kubernetes](https://github.com/kubernetes/kubernetes)
-  - Production-Grade Container Scheduling and Management
-- [istio](https://github.com/istio/istio)
-  - Connect, secure, control, and observe services.
-- [copyist](https://github.com/cockroachdb/copyist)
-  - Mocking your SQL database in Go tests has never been easier.
-- [copilot-cli](https://github.com/aws/copilot-cli)
-  - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on Amazon ECS and AWS Fargate.
-- [reviewdog](https://github.com/reviewdog/reviewdog)
-  - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
-- [popeye](https://github.com/derailed/popeye)
-  - 👀 A Kubernetes cluster resource sanitizer
-- [kubesphere](https://github.com/kubesphere/kubesphere)
-  - Easy-to-use Production Ready Container Platform
-- [argo-cd](https://github.com/argoproj/argo-cd)
-  - Declarative continuous deployment for Kubernetes.
-- [aws-sdk-go](https://github.com/aws/aws-sdk-go)
-  - AWS SDK for the Go programming language.
-- [go-ast-book](https://github.com/chai2010/go-ast-book)
-  - 📚 《Go语法树入门——开启自制编程语言和编译器之旅》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/LLVM/LLIR/凹语言)
 - [teleport](https://github.com/gravitational/teleport)
   - Secure Access for Developers that doesn't get in the way.
-- [podman](https://github.com/containers/podman)
-  - libpod is a library used to create container pods. Home of Podman.
-- [minikube](https://github.com/kubernetes/minikube)
-  - Run Kubernetes locally
-- [nomad](https://github.com/hashicorp/nomad)
-  - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [vault](https://github.com/hashicorp/vault)
-  - A tool for secrets management, encryption as a service, and privileged access management
-- [postgres-operator](https://github.com/zalando/postgres-operator)
-  - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
+- [bfe](https://github.com/bfenetworks/bfe)
+  - A modern layer 7 load balancer from baidu
+- [rclone](https://github.com/rclone/rclone)
+  - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+- [ecs-plugin](https://github.com/docker/ecs-plugin)
+  - CLI plugin for using Fargate/ECS with Docker CLI
+- [cilium](https://github.com/cilium/cilium)
+  - eBPF-based Networking, Security, and Observability
+- [prometheus](https://github.com/prometheus/prometheus)
+  - The Prometheus monitoring system and time series database.
+- [fyne](https://github.com/fyne-io/fyne)
+  - Cross platform GUI in Go based on Material Design
+- [go-safeweb](https://github.com/google/go-safeweb)
+  - Secure-by-default HTTP servers in Go.
+- [nats-server](https://github.com/nats-io/nats-server)
+  - High-Performance server for NATS, the cloud native messaging system.
+- [lantern](https://github.com/getlantern/lantern)
+  - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 lantern proxy vpn censorship-circumvention censorship gfw accelerator
+- [telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api)
+  - Golang bindings for the Telegram Bot API
+- [envconfig](https://github.com/kelseyhightower/envconfig)
+  - Golang library for managing configuration data from environment variables
+- [gobuster](https://github.com/OJ/gobuster)
+  - Directory/File, DNS and VHost busting tool written in Go
+- [f1viewer](https://github.com/SoMuchForSubtlety/f1viewer)
+  - 🏎️ TUI for F1TV
+- [v2ray-core](https://github.com/v2ray/v2ray-core)
+  - A platform for building proxies to bypass network restrictions.
+- [gvisor](https://github.com/google/gvisor)
+  - Application Kernel for Containers
+- [tinygo](https://github.com/tinygo-org/tinygo)
+  - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
+- [trojan-go](https://github.com/p4gefau1t/trojan-go)
+  - Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
+- [go-clean-arch](https://github.com/bxcodec/go-clean-arch)
+  - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
+- [act](https://github.com/nektos/act)
+  - Run your GitHub Actions locally 🚀
+- [clash](https://github.com/Dreamacro/clash)
+  - A rule-based tunnel in Go.
+- [hugo](https://github.com/gohugoio/hugo)
+  - The world’s fastest framework for building websites.
+- [goka](https://github.com/lovoo/goka)
+  - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.

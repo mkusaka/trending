@@ -1,51 +1,51 @@
 # general
-- [facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) : Objective-C
-  - Used to integrate the Facebook Platform with your iOS & tvOS apps.
-- [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) : Java
-  - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
-- [tsunami-security-scanner-plugins](https://github.com/google/tsunami-security-scanner-plugins) : Java
-  - This project aims to provide a central repository for many useful Tsunami Security Scanner plugins.
-- [cypress](https://github.com/cypress-io/cypress) : JavaScript
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [hackingtool](https://github.com/Z4nzu/hackingtool) : Python
-  - ALL IN ONE Hacking Tool For Hackers
-- [EasyOCR](https://github.com/JaidedAI/EasyOCR) : Python
-  - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
-- [azure-docs](https://github.com/MicrosoftDocs/azure-docs) : PowerShell
-  - Open source documentation of Microsoft Azure
-- [torchsde](https://github.com/google-research/torchsde) : Python
-  - Differentiable SDE solvers with GPU support and efficient sensitivity analysis.
-- [moby](https://github.com/moby/moby) : Go
-  - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [RedditOS](https://github.com/Dimillian/RedditOS) : Swift
   - A SwiftUI Reddit client for macOS Big Sur
-- [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) : JavaScript
-  - A collection of awesome readme templates to display on your profile
-- [prometheus](https://github.com/prometheus/prometheus) : Go
-  - The Prometheus monitoring system and time series database.
-- [yandex-ui](https://github.com/bem/yandex-ui) : TypeScript
-  - Yandex UI Kit build on React and bem-react
-- [Complex-YOLOv4-Pytorch](https://github.com/maudzung/Complex-YOLOv4-Pytorch) : Python
-  - The PyTorch Implementation based on YOLOv4 of the paper: "Complex-YOLO: Real-time 3D Object Detection on Point Clouds"
-- [checklist](https://github.com/marcotcr/checklist) : Jupyter Notebook
-  - Beyond Accuracy: Behavioral Testing of NLP models with CheckList
-- [cml](https://github.com/iterative/cml) : JavaScript
-  - ♾️ CML - Continuous Machine Learning or CI/CD for ML
-- [realworld](https://github.com/gothinkster/realworld) : JavaScript
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
-  - 🤓 Build your own (insert technology here)
-- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) : JavaScript
-  - 🚀🚀🚀A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.
-- [cilium](https://github.com/cilium/cilium) : Go
-  - eBPF-based Networking, Security, and Observability
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
-  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [pulsar](https://github.com/apache/pulsar) : Java
-  - Apache Pulsar - distributed pub-sub messaging system
-- [DeepFaceLab](https://github.com/iperov/DeepFaceLab) : Python
-  - DeepFaceLab is the leading software for creating deepfakes.
+- [youtubeclone-frontend](https://github.com/manikandanraji/youtubeclone-frontend) : JavaScript
+  - Youtube Clone Frontend (React + Redux)
+- [spleeter](https://github.com/deezer/spleeter) : Python
+  - Deezer source separation library including pretrained models.
+- [ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor) : C#
+  - 🌈A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.
+- [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) : Go
+  - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，五分钟一套CURD前后端代码包含数据库的快感你不要体验一下吗~,更多功能正在开发中，欢迎issue和pr~
 - [nlp](https://github.com/huggingface/nlp) : Python
   - 🤗nlp – Datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow
-- [runtime](https://github.com/dotnet/runtime) : C#
-  - .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
+- [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) : Java
+  - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
+- [DeepFaceLab](https://github.com/iperov/DeepFaceLab) : Python
+  - DeepFaceLab is the leading software for creating deepfakes.
+- [hackingtool](https://github.com/Z4nzu/hackingtool) : Python
+  - ALL IN ONE Hacking Tool For Hackers
+- [node-react-ecommerce](https://github.com/basir/node-react-ecommerce) : JavaScript
+  - Build ECommerce Website Like Amazon By React & Node & MongoDB
+- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
+  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
+- [pulsar](https://github.com/apache/pulsar) : Java
+  - Apache Pulsar - distributed pub-sub messaging system
+- [realworld](https://github.com/gothinkster/realworld) : JavaScript
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) : JavaScript
+  - A collection of awesome readme templates to display on your profile
+- [youtubeclone-backend](https://github.com/manikandanraji/youtubeclone-backend) : JavaScript
+  - Youtube Clone Backend (Express + Sequelize)
+- [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) : Python
+  - 100 Days of ML Coding
+- [Tiny-XSS-Payloads](https://github.com/terjanq/Tiny-XSS-Payloads) : JavaScript
+  - A collection of tiny XSS Payloads that can be used in different contexts.
+- [developer-handbook](https://github.com/apptension/developer-handbook) : 
+  - An opinionated guide on how to become a professional Web/Mobile App Developer.
+- [nndl.github.io](https://github.com/nndl/nndl.github.io) : HTML
+  - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
+- [fsdl-text-recognizer-project](https://github.com/full-stack-deep-learning/fsdl-text-recognizer-project) : Jupyter Notebook
+  - The source repository is at https://github.com/full-stack-deep-learning/fsdl-text-recognizer
+- [paper_collection](https://github.com/0xricksanchez/paper_collection) : 
+  - Academic papers related to fuzzing, binary analysis and exploit dev, that I want to read or have already read
+- [course-content](https://github.com/NeuromatchAcademy/course-content) : Jupyter Notebook
+  - Summer course content for Neuromatch Academy
+- [Magisk](https://github.com/topjohnwu/Magisk) : C++
+  - The Magic Mask for Android
+- [fastapi](https://github.com/tiangolo/fastapi) : Python
+  - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) : 
+  - Master the command line, in one page

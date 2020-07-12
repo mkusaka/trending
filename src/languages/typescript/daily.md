@@ -1,51 +1,51 @@
 # typescript
+- [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
+  - Foreign language reading and translation assistant based on copy and translate.
 - [yandex-ui](https://github.com/bem/yandex-ui)
   - Yandex UI Kit build on React and bem-react
-- [fast](https://github.com/microsoft/fast)
-  - The adaptive interface system  for modern web experiences.
-- [TypeScript](https://github.com/microsoft/TypeScript)
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-  - The repository for high quality TypeScript type definitions.
-- [lens](https://github.com/lensapp/lens)
-  - Lens - The Kubernetes IDE
-- [playwright](https://github.com/microsoft/playwright)
-  - Node library to automate Chromium, Firefox and WebKit with a single API
-- [vscode](https://github.com/microsoft/vscode)
-  - Visual Studio Code
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
-- [material-components-web-components](https://github.com/material-components/material-components-web-components)
-  - Material Design Web Components
-- [apollo-server](https://github.com/apollographql/apollo-server)
-  - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
-- [vuetify](https://github.com/vuetifyjs/vuetify)
-  - 🐉 Material Component Framework for Vue
-- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
-  - The source for REST API specifications for Microsoft Azure.
-- [pixi.js](https://github.com/pixijs/pixi.js)
-  - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
-- [aws-cdk](https://github.com/aws/aws-cdk)
-  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
-- [erxes](https://github.com/erxes/erxes)
-  - Free and open fair-code licensed all-in-one growth marketing & management software
-- [tfjs-models](https://github.com/tensorflow/tfjs-models)
-  - Pretrained models for TensorFlow.js
-- [amplify-cli](https://github.com/aws-amplify/amplify-cli)
-  - A CLI toolchain for simplifying serverless web and mobile development.
-- [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
-  - Tasks for Azure Pipelines
-- [kibana](https://github.com/elastic/kibana)
-  - Your window into the Elastic Stack
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [nx](https://github.com/nrwl/nx)
-  - Extensible Dev Tools for Monorepos
-- [umi](https://github.com/umijs/umi)
-  - 🌋 Pluggable enterprise-level react application framework.
 - [financial](https://github.com/lmammino/financial)
   - A Zero-dependency TypeScript/JavaScript financial library (based on numpy-financial) for Node.js, Deno and the browser
-- [ionic-framework](https://github.com/ionic-team/ionic-framework)
-  - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-- [amazon-chime-sdk-js](https://github.com/aws/amazon-chime-sdk-js)
-  - A JavaScript client library for integrating multi-party communications powered by the Amazon Chime service.
+- [frontity](https://github.com/frontity/frontity)
+  - » Frontity - The React framework for WordPress
+- [recharts](https://github.com/recharts/recharts)
+  - Redefined chart library built with React and D3
+- [deno](https://github.com/denoland/deno)
+  - A secure JavaScript and TypeScript runtime
+- [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native)
+  - ⚛️📺 Projects from the “Can it be done in React Native?” YouTube series
+- [coc.nvim](https://github.com/neoclide/coc.nvim)
+  - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
+- [pwa-starter](https://github.com/pwa-builder/pwa-starter)
+  - Welcome to the lit-element edition of the PWABuilder pwa-starter! Looking to build a new Progressive Web App and not sure where to get started? This is what you are looking for!
+- [webiny-js](https://github.com/webiny/webiny-js)
+  - Platform for building serverless applications and APIs (Node.js, React, GraphQL)
+- [code-server](https://github.com/cdr/code-server)
+  - VS Code in the browser
+- [TypeScript](https://github.com/microsoft/TypeScript)
+  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [SandDance](https://github.com/microsoft/SandDance)
+  - Visually explore, understand, and present your data.
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui)
+  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+- [firebase-tools](https://github.com/firebase/firebase-tools)
+  - The Firebase Command Line Tools
+- [etcher](https://github.com/balena-io/etcher)
+  - Flash OS images to SD cards & USB drives, safely and easily.
+- [nexus](https://github.com/graphql-nexus/nexus)
+  - Code-First Type-Safe GraphQL Framework
+- [angularfire](https://github.com/angular/angularfire)
+  - The official Angular library for Firebase.
+- [PeerTube](https://github.com/Chocobozzz/PeerTube)
+  - ActivityPub-federated video streaming platform using P2P directly in your web browser
+- [fullstack-graphql-airbnb-clone](https://github.com/benawad/fullstack-graphql-airbnb-clone)
+  - A Fullstack GraphQL Airbnb Clone with React and React Native
+- [bubblewrap](https://github.com/GoogleChromeLabs/bubblewrap)
+  - Bubblewrap is a Command Line Interface (CLI) that helps developers to create a Project for an Android application that launches an existing Progressive Web App (PWAs) using a Trusted Web Activity.
+- [yalc](https://github.com/whitecolor/yalc)
+  - Work with yarn/npm packages locally like a boss.
+- [vscode-js-debug](https://github.com/microsoft/vscode-js-debug)
+  - The VS Code JavaScript debugger
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+  - The repository for high quality TypeScript type definitions.
+- [prisma-examples](https://github.com/prisma/prisma-examples)
+  - 🚀 Ready-to-run Prisma example projects
