@@ -1,51 +1,51 @@
 # javascript
-- [cypress](https://github.com/cypress-io/cypress)
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [cml](https://github.com/iterative/cml)
-  - ♾️ CML - Continuous Machine Learning or CI/CD for ML
+- [youtubeclone-frontend](https://github.com/manikandanraji/youtubeclone-frontend)
+  - Youtube Clone Frontend (React + Redux)
+- [node-react-ecommerce](https://github.com/basir/node-react-ecommerce)
+  - Build ECommerce Website Like Amazon By React & Node & MongoDB
 - [realworld](https://github.com/gothinkster/realworld)
   - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
-  - 🚀🚀🚀A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [next.js](https://github.com/vercel/next.js)
-  - The React Framework
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [label-studio](https://github.com/heartexlabs/label-studio)
-  - Label Studio is a multi-type data labeling and annotation tool with standardized output format
+- [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
+  - A collection of awesome readme templates to display on your profile
+- [youtubeclone-backend](https://github.com/manikandanraji/youtubeclone-backend)
+  - Youtube Clone Backend (Express + Sequelize)
+- [Tiny-XSS-Payloads](https://github.com/terjanq/Tiny-XSS-Payloads)
+  - A collection of tiny XSS Payloads that can be used in different contexts.
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
+  - Starter files, final projects and FAQ for my Complete JavaScript course
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+  - Dynamically generated stats for your github readmes
+- [sqlpad](https://github.com/rickbergfalk/sqlpad)
+  - Web-based SQL editor run in your own private cloud. Supports MySQL, Postgres, SQL Server, Vertica, Crate, ClickHouse, Presto, SAP HANA, Cassandra, Snowflake, BigQuery, SQLite, and more with ODBC
+- [gd-utils](https://github.com/iwestlin/gd-utils)
+  - Google Drive 百宝箱
+- [cypress](https://github.com/cypress-io/cypress)
+  - Fast, easy and reliable testing for anything that runs in a browser.
+- [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app)
+  - An exemplary real-world application built with Vue.js, Vuex, axios and different other technologies. This is a good example to discover Vue for beginners.
 - [pipedream](https://github.com/PipedreamHQ/pipedream)
   - Serverless integration and compute platform. Free for developers.
-- [shields](https://github.com/badges/shields)
-  - Concise, consistent, and legible badges in SVG and raster format
-- [Inputmask](https://github.com/RobinHerbots/Inputmask)
-  - Input Mask plugin
-- [proposal-temporal](https://github.com/tc39/proposal-temporal)
-  - Provides standard objects and functions for working with dates and times.
+- [automerge](https://github.com/automerge/automerge)
+  - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
+- [AudioMass](https://github.com/pkalogiros/AudioMass)
+  - Free full-featured web-based audio & waveform editing tool
+- [Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal)
+  - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
+- [mdx](https://github.com/mdx-js/mdx)
+  - JSX in Markdown for ambitious projects
 - [malinajs](https://github.com/malinajs/malinajs)
   - Frontend compiler, inspired by Svelte
-- [fastify](https://github.com/fastify/fastify)
-  - Fast and low overhead web framework, for Node.js
-- [honkit](https://github.com/honkit/honkit)
-  - 📖 HonKit is building beautiful books using Markdown - Fork of GitBook
-- [bumblebee](https://github.com/jaxcore/bumblebee)
-  - Jaxcore Bumblebee - a JavaScript voice application framework
-- [lerna](https://github.com/lerna/lerna)
-  - 🐉 A tool for managing JavaScript projects with multiple packages.
-- [cube.js](https://github.com/cube-js/cube.js)
-  - 📊 Cube.js - Open Source Analytics Framework
-- [map33.js](https://github.com/blaze33/map33.js)
-  - A JavaScript library to make 3D maps with three.js.
-- [lowdb](https://github.com/typicode/lowdb)
-  - ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
-- [svelte](https://github.com/sveltejs/svelte)
-  - Cybernetically enhanced web apps
-- [redwood](https://github.com/redwoodjs/redwood)
-  - Bringing full-stack to the Jamstack.
-- [next-site](https://github.com/vercel/next-site)
-  - The official website for Next.js
-- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
-  - Beautiful and accessible drag and drop for lists with React
-- [cloudmapper](https://github.com/duo-labs/cloudmapper)
-  - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
+- [buster](https://github.com/dessant/buster)
+  - Captcha solver extension for humans
+- [uvu](https://github.com/lukeed/uvu)
+  - uvu is an extremely fast and lightweight test runner for Node.js and the browser
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [shields](https://github.com/badges/shields)
+  - Concise, consistent, and legible badges in SVG and raster format
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+  - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
+- [iptv](https://github.com/iptv-org/iptv)
+  - Collection of 8000+ publicly available IPTV channels from all over the world
