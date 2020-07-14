@@ -1,51 +1,50 @@
 # general
-- [RedditOS](https://github.com/Dimillian/RedditOS) : Swift
-  - A SwiftUI Reddit client for macOS Big Sur
-- [youtubeclone-frontend](https://github.com/manikandanraji/youtubeclone-frontend) : JavaScript
-  - Youtube Clone Frontend (React + Redux)
-- [spleeter](https://github.com/deezer/spleeter) : Python
-  - Deezer source separation library including pretrained models.
-- [ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor) : C#
-  - 🌈A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.
-- [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) : Go
-  - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，五分钟一套CURD前后端代码包含数据库的快感你不要体验一下吗~,更多功能正在开发中，欢迎issue和pr~
-- [nlp](https://github.com/huggingface/nlp) : Python
-  - 🤗nlp – Datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow
-- [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) : Java
-  - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
-- [DeepFaceLab](https://github.com/iperov/DeepFaceLab) : Python
-  - DeepFaceLab is the leading software for creating deepfakes.
-- [hackingtool](https://github.com/Z4nzu/hackingtool) : Python
-  - ALL IN ONE Hacking Tool For Hackers
-- [node-react-ecommerce](https://github.com/basir/node-react-ecommerce) : JavaScript
-  - Build ECommerce Website Like Amazon By React & Node & MongoDB
-- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
-  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [pulsar](https://github.com/apache/pulsar) : Java
-  - Apache Pulsar - distributed pub-sub messaging system
-- [realworld](https://github.com/gothinkster/realworld) : JavaScript
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) : JavaScript
-  - A collection of awesome readme templates to display on your profile
-- [youtubeclone-backend](https://github.com/manikandanraji/youtubeclone-backend) : JavaScript
-  - Youtube Clone Backend (Express + Sequelize)
-- [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) : Python
-  - 100 Days of ML Coding
-- [Tiny-XSS-Payloads](https://github.com/terjanq/Tiny-XSS-Payloads) : JavaScript
-  - A collection of tiny XSS Payloads that can be used in different contexts.
-- [developer-handbook](https://github.com/apptension/developer-handbook) : 
-  - An opinionated guide on how to become a professional Web/Mobile App Developer.
-- [nndl.github.io](https://github.com/nndl/nndl.github.io) : HTML
-  - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
-- [fsdl-text-recognizer-project](https://github.com/full-stack-deep-learning/fsdl-text-recognizer-project) : Jupyter Notebook
-  - The source repository is at https://github.com/full-stack-deep-learning/fsdl-text-recognizer
-- [paper_collection](https://github.com/0xricksanchez/paper_collection) : 
-  - Academic papers related to fuzzing, binary analysis and exploit dev, that I want to read or have already read
 - [course-content](https://github.com/NeuromatchAcademy/course-content) : Jupyter Notebook
   - Summer course content for Neuromatch Academy
-- [Magisk](https://github.com/topjohnwu/Magisk) : C++
-  - The Magic Mask for Android
+- [youtubeclone-frontend](https://github.com/manikandanraji/youtubeclone-frontend) : JavaScript
+  - Youtube Clone Frontend (React + Redux)
+- [game_control](https://github.com/ChoudharyChanchal/game_control) : Python
+- [Flutter-Shopping-UI-Kit](https://github.com/AliAnilKocak/Flutter-Shopping-UI-Kit) : Dart
+  - I developed this application just for learning purpose. There are 20+ screen variations.
+- [voila](https://github.com/voila-dashboards/voila) : Python
+  - Voilà turns Jupyter notebooks into standalone web applications
+- [awesomefluttertips](https://github.com/erluxman/awesomefluttertips) : Dart
+  - ❤️Flutter ❤️ tips and tricks ❤️ Awesome Flutter ❤️ tips and tricks ❤️
+- [youtubeclone-backend](https://github.com/manikandanraji/youtubeclone-backend) : JavaScript
+  - Youtube Clone Backend (Express + Sequelize)
+- [spleeter](https://github.com/deezer/spleeter) : Python
+  - Deezer source separation library including pretrained models.
 - [fastapi](https://github.com/tiangolo/fastapi) : Python
   - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) : 
-  - Master the command line, in one page
+- [nlp](https://github.com/huggingface/nlp) : Python
+  - 🤗nlp – Datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) : JavaScript
+  - Dynamically generated stats for your github readmes
+- [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) : JavaScript
+  - A collection of awesome readme templates to display on your profile
+- [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) : Python
+  - 100 Days of ML Coding
+- [realworld](https://github.com/gothinkster/realworld) : JavaScript
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [hackingtool](https://github.com/Z4nzu/hackingtool) : Python
+  - ALL IN ONE Hacking Tool For Hackers
+- [outline](https://github.com/outline/outline) : JavaScript
+  - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
+- [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) : Go
+  - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，五分钟一套CURD前后端代码包含数据库的快感你不要体验一下吗~,更多功能正在开发中，欢迎issue和pr~
+- [node-react-ecommerce](https://github.com/basir/node-react-ecommerce) : JavaScript
+  - Build ECommerce Website Like Amazon By React & Node & MongoDB
+- [RedditOS](https://github.com/Dimillian/RedditOS) : Swift
+  - A SwiftUI Reddit client for macOS Big Sur
+- [Unlock-netease-cloud-music](https://github.com/meng-chuan/Unlock-netease-cloud-music) : JavaScript
+  - 解锁网易云音乐客户端变灰歌曲
+- [Faker](https://github.com/fzaninotto/Faker) : PHP
+  - Faker is a PHP library that generates fake data for you
+- [pandas_exercises](https://github.com/guipsamora/pandas_exercises) : Jupyter Notebook
+  - Practice your pandas skills!
+- [modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) : C#
+  - Full Modular Monolith application with Domain-Driven Design approach.
+- [paper_collection](https://github.com/0xricksanchez/paper_collection) : 
+  - Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read
+- [flink](https://github.com/apache/flink) : Java
+  - Apache Flink

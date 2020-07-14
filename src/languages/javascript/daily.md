@@ -1,51 +1,51 @@
 # javascript
 - [youtubeclone-frontend](https://github.com/manikandanraji/youtubeclone-frontend)
   - Youtube Clone Frontend (React + Redux)
-- [node-react-ecommerce](https://github.com/basir/node-react-ecommerce)
-  - Build ECommerce Website Like Amazon By React & Node & MongoDB
-- [realworld](https://github.com/gothinkster/realworld)
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
-  - A collection of awesome readme templates to display on your profile
 - [youtubeclone-backend](https://github.com/manikandanraji/youtubeclone-backend)
   - Youtube Clone Backend (Express + Sequelize)
-- [Tiny-XSS-Payloads](https://github.com/terjanq/Tiny-XSS-Payloads)
-  - A collection of tiny XSS Payloads that can be used in different contexts.
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
-  - Starter files, final projects and FAQ for my Complete JavaScript course
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
   - Dynamically generated stats for your github readmes
-- [sqlpad](https://github.com/rickbergfalk/sqlpad)
-  - Web-based SQL editor run in your own private cloud. Supports MySQL, Postgres, SQL Server, Vertica, Crate, ClickHouse, Presto, SAP HANA, Cassandra, Snowflake, BigQuery, SQLite, and more with ODBC
-- [gd-utils](https://github.com/iwestlin/gd-utils)
-  - Google Drive 百宝箱
-- [cypress](https://github.com/cypress-io/cypress)
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app)
-  - An exemplary real-world application built with Vue.js, Vuex, axios and different other technologies. This is a good example to discover Vue for beginners.
+- [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
+  - A collection of awesome readme templates to display on your profile
+- [realworld](https://github.com/gothinkster/realworld)
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [outline](https://github.com/outline/outline)
+  - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
+- [node-react-ecommerce](https://github.com/basir/node-react-ecommerce)
+  - Build ECommerce Website Like Amazon By React & Node & MongoDB
+- [Unlock-netease-cloud-music](https://github.com/meng-chuan/Unlock-netease-cloud-music)
+  - 解锁网易云音乐客户端变灰歌曲
 - [pipedream](https://github.com/PipedreamHQ/pipedream)
   - Serverless integration and compute platform. Free for developers.
-- [automerge](https://github.com/automerge/automerge)
-  - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
-- [AudioMass](https://github.com/pkalogiros/AudioMass)
-  - Free full-featured web-based audio & waveform editing tool
-- [Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal)
-  - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
-- [mdx](https://github.com/mdx-js/mdx)
-  - JSX in Markdown for ambitious projects
-- [malinajs](https://github.com/malinajs/malinajs)
-  - Frontend compiler, inspired by Svelte
-- [buster](https://github.com/dessant/buster)
-  - Captcha solver extension for humans
-- [uvu](https://github.com/lukeed/uvu)
-  - uvu is an extremely fast and lightweight test runner for Node.js and the browser
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [shields](https://github.com/badges/shields)
-  - Concise, consistent, and legible badges in SVG and raster format
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
-  - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
-- [iptv](https://github.com/iptv-org/iptv)
-  - Collection of 8000+ publicly available IPTV channels from all over the world
+- [Tiny-XSS-Payloads](https://github.com/terjanq/Tiny-XSS-Payloads)
+  - A collection of tiny XSS Payloads that can be used in different contexts.
+- [create-react-app](https://github.com/facebook/create-react-app)
+  - Set up a modern web app by running one command.
+- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification)
+  - The OpenAPI Specification Repository
+- [twitter-clone-frontend](https://github.com/manikandanraji/twitter-clone-frontend)
+  - Twitter Clone Frontend
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+  - ⭐️ Companies that don't have a broken hiring process
+- [masterPortfolio](https://github.com/ashutosh1919/masterPortfolio)
+  - 🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.
+- [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
+  - A React component for building Web forms from JSON Schema.
+- [overreacted.io](https://github.com/gaearon/overreacted.io)
+  - Personal blog by Dan Abramov.
+- [node](https://github.com/nodejs/node)
+  - Node.js JavaScript runtime ✨🐢🚀✨
+- [tour_of_rust](https://github.com/richardanaya/tour_of_rust)
+  - A tour of rust's language features
+- [shaka-player](https://github.com/google/shaka-player)
+  - JavaScript player library / DASH & HLS client / MSE-EME player
+- [appium](https://github.com/appium/appium)
+  - 📱 Automation for iOS, Android, and Windows Apps.
+- [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
+  - Microsoft Authentication Library (MSAL) for JS
+- [Web](https://github.com/qianguyihao/Web)
+  - 前端入门到进阶，超详细的Web前端学习图文教程。从零开始学前端，做一名精致优雅的前端工程师。持续更新...
+- [cropperjs](https://github.com/fengyuanchen/cropperjs)
+  - JavaScript image cropper.
+- [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)
+  - JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html

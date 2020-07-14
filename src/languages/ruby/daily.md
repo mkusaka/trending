@@ -1,51 +1,51 @@
 # ruby
-- [dev.to](https://github.com/thepracticaldev/dev.to)
-  - Where programmers share ideas and help each other grow
-- [mastodon](https://github.com/tootsuite/mastodon)
-  - Your self-hosted, globally interconnected microblogging community
-- [explore](https://github.com/github/explore)
-  - Community-curated topic and collection pages on GitHub
-- [brew](https://github.com/Homebrew/brew)
-  - 🍺 The missing package manager for macOS (or Linux)
-- [chatwoot](https://github.com/chatwoot/chatwoot)
-  - Open-source live chat software 🔥💬
-- [huginn](https://github.com/huginn/huginn)
-  - Create agents that monitor and act on your behalf. Your agents are standing by!
-- [wpscan](https://github.com/wpscanteam/wpscan)
-  - WPScan is a free, for non-commercial use, black box WordPress security scanner written for security professionals and blog maintainers to test the security of their WordPress websites.
-- [quine-relay](https://github.com/mame/quine-relay)
-  - An uroboros program with 100+ programming languages
-- [gitlabhq](https://github.com/gitlabhq/gitlabhq)
-  - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
-- [jekyll](https://github.com/jekyll/jekyll)
-  - 🌐 Jekyll is a blog-aware static site generator in Ruby
-- [fusuma](https://github.com/iberianpig/fusuma)
-  - Multitouch gestures with libinput driver on Linux
-- [react-native-config](https://github.com/luggit/react-native-config)
-  - Bring some 12 factor love to your mobile apps!
-- [fluentd](https://github.com/fluent/fluentd)
-  - Fluentd: Unified Logging Layer (project under CNCF)
-- [futurism](https://github.com/julianrubisch/futurism)
-  - Lazy-load Rails partials via CableReady
-- [canvas-lms](https://github.com/instructure/canvas-lms)
-  - The open LMS by Instructure, Inc.
-- [blazer](https://github.com/ankane/blazer)
-  - Business intelligence made simple
-- [homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers)
-  - 🖨 Casks of Drivers
-- [rspec-openapi](https://github.com/k0kubun/rspec-openapi)
-  - Generate OpenAPI schema from RSpec request specs
+- [ahoy](https://github.com/ankane/ahoy)
+  - Simple, powerful, first-party analytics for Rails
 - [rubocop](https://github.com/rubocop-hq/rubocop)
   - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [ruby](https://github.com/ruby/ruby)
-  - The Ruby Programming Language [mirror]
-- [faker](https://github.com/faker-ruby/faker)
-  - A library for generating fake data such as names, addresses, and phone numbers.
-- [sonic-pi](https://github.com/sonic-pi-net/sonic-pi)
-  - Code. Music. Live.
-- [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening)
-  - This Ansible role provides numerous security-related configurations, providing all-round base protection.
-- [resque](https://github.com/resque/resque)
-  - Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.
-- [diaspora](https://github.com/diaspora/diaspora)
-  - A privacy-aware, distributed, open source social network.
+- [fluentd](https://github.com/fluent/fluentd)
+  - Fluentd: Unified Logging Layer (project under CNCF)
+- [brew](https://github.com/Homebrew/brew)
+  - 🍺 The missing package manager for macOS (or Linux)
+- [jborza.github.io](https://github.com/jborza/jborza.github.io)
+  - My blog
+- [solidus](https://github.com/solidusio/solidus)
+  - 🛒Solidus, Rails eCommerce System
+- [jekyll](https://github.com/jekyll/jekyll)
+  - 🌐 Jekyll is a blog-aware static site generator in Ruby
+- [sidekiq](https://github.com/mperham/sidekiq)
+  - Simple, efficient background processing for Ruby
+- [react-native-config](https://github.com/luggit/react-native-config)
+  - Bring some 12 factor love to your mobile apps!
+- [pundit](https://github.com/varvet/pundit)
+  - Minimal authorization through OO design and pure Ruby classes
+- [spree](https://github.com/spree/spree)
+  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
+- [setup](https://github.com/lewagon/setup)
+  - Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp
+- [fastlane](https://github.com/fastlane/fastlane)
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [dd-trace-rb](https://github.com/DataDog/dd-trace-rb)
+  - Datadog Tracing Ruby Client
+- [scalelite](https://github.com/blindsidenetworks/scalelite)
+  - Scalable load balancer for BigBlueButton.
+- [devdocs](https://github.com/freeCodeCamp/devdocs)
+  - API Documentation Browser
+- [bdougie](https://github.com/bdougie/bdougie)
+  - 
+- [capybara-webkit](https://github.com/thoughtbot/capybara-webkit)
+  - A Capybara driver for headless WebKit to test JavaScript web apps
+- [factory_bot](https://github.com/thoughtbot/factory_bot)
+  - A library for setting up Ruby objects as test data.
+- [view_component](https://github.com/github/view_component)
+  - View components for Rails
+- [rails](https://github.com/rails/rails)
+  - Ruby on Rails
+- [dotenv](https://github.com/bkeepers/dotenv)
+  - A Ruby gem to load environment variables from `.env`.
+- [react_on_rails](https://github.com/shakacode/react_on_rails)
+  - Integration of React + Webpack + Rails using rails/webpacker to build Universal (Isomorphic) Apps (aka Server Rendering)
+- [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails)
+  - Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
+- [carrierwave](https://github.com/carrierwaveuploader/carrierwave)
+  - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
