@@ -1,51 +1,51 @@
 # typescript
-- [deno_website2](https://github.com/denoland/deno_website2)
-  - deno.land website
-- [angular-cli](https://github.com/angular/angular-cli)
-  - CLI tool for Angular
-- [bubblewrap](https://github.com/GoogleChromeLabs/bubblewrap)
-  - Bubblewrap is a Command Line Interface (CLI) that helps developers to create a Project for an Android application that launches an existing Progressive Web App (PWAs) using a Trusted Web Activity.
-- [natemoo-re](https://github.com/natemoo-re/natemoo-re)
-  - 
-- [deno](https://github.com/denoland/deno)
-  - A secure JavaScript and TypeScript runtime
-- [TypeScript](https://github.com/microsoft/TypeScript)
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [auth-module](https://github.com/nuxt-community/auth-module)
-  - 🔑 Zero-boilerplate authentication support for Nuxt
-- [model-viewer](https://github.com/google/model-viewer)
-  - Easily display interactive 3D models on the web and in AR!
+- [snapchat-clone](https://github.com/TowhidKashem/snapchat-clone)
+  - 👻 A SnapChat clone built with React, Redux and Typescript. Styled with SASS. Tested with Cypress, Jest and Enzyme. Linted with Eslint and formatted with Prettier!
+- [rocketredis](https://github.com/diego3g/rocketredis)
+  - A beautiful Redis GUI 🔥 (under development)
+- [wechaty](https://github.com/wechaty/wechaty)
+  - Conversational AI RPA SDK for Chatbot Hackers
+- [vue-next](https://github.com/vuejs/vue-next)
+  - Repo for Vue 3.0 (currently in beta)
+- [react-data-grid](https://github.com/adazzle/react-data-grid)
+  - Excel-like grid component built with React, with editors, keyboard navigation, copy & paste, and the like
+- [jira-clone-angular](https://github.com/trungk18/jira-clone-angular)
+  - A simplified Jira clone built with Angular 9, ng-zorro and Akita
 - [react-use](https://github.com/streamich/react-use)
   - React Hooks — 👍
-- [components](https://github.com/angular/components)
-  - Component infrastructure and Material Design components for Angular
-- [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native)
-  - ⚛️📺 Projects from the “Can it be done in React Native?” YouTube series
-- [flipper](https://github.com/facebook/flipper)
-  - A desktop debugging platform for mobile developers.
-- [expo-cli](https://github.com/expo/expo-cli)
-  - Tools for creating, running, and deploying Universal Expo and React Native apps
-- [storybook](https://github.com/storybookjs/storybook)
-  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
-- [theia](https://github.com/eclipse-theia/theia)
-  - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [react-native-webview](https://github.com/react-native-community/react-native-webview)
   - React Native Cross-Platform WebView
-- [commitlint](https://github.com/conventional-changelog/commitlint)
-  - 📓 Lint commit messages
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
-- [swr](https://github.com/vercel/swr)
-  - React Hooks library for remote data fetching
-- [uniswap-interface](https://github.com/Uniswap/uniswap-interface)
-  - 🦄 An open source interface for the Uniswap protocol
-- [pwa-starter](https://github.com/pwa-builder/pwa-starter)
-  - Welcome to the lit-element edition of the PWABuilder pwa-starter! Looking to build a new Progressive Web App and not sure where to get started? This is what you are looking for!
-- [vscode-icons](https://github.com/vscode-icons/vscode-icons)
-  - Icons for Visual Studio Code
-- [material-components-web](https://github.com/material-components/material-components-web)
-  - Modular and customizable Material Design UI components for the web
-- [PeerTube](https://github.com/Chocobozzz/PeerTube)
-  - ActivityPub-federated video streaming platform using P2P directly in your web browser
-- [react-native-redash](https://github.com/wcandillon/react-native-redash)
-  - The React Native Reanimated and Gesture Handler Toolbelt
+- [grafana](https://github.com/grafana/grafana)
+  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [redux](https://github.com/reduxjs/redux)
+  - Predictable state container for JavaScript apps
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+  - The repository for high quality TypeScript type definitions.
+- [ant-design](https://github.com/ant-design/ant-design)
+  - 🌈 A UI Design Language and React UI library
+- [jest](https://github.com/facebook/jest)
+  - Delightful JavaScript Testing.
+- [hooks](https://github.com/alibaba/hooks)
+  - React Hooks Library
+- [graphql-playground](https://github.com/prisma-labs/graphql-playground)
+  - 🎮 GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
+- [angularfire](https://github.com/angular/angularfire)
+  - The official Angular library for Firebase.
+- [vscode](https://github.com/microsoft/vscode)
+  - Visual Studio Code
+- [nest](https://github.com/nestjs/nest)
+  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [components](https://github.com/angular/components)
+  - Component infrastructure and Material Design components for Angular
+- [n8n](https://github.com/n8n-io/n8n)
+  - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+- [formik](https://github.com/formium/formik)
+  - Build forms in React, without the tears 😭
+- [react-toastify](https://github.com/fkhadra/react-toastify)
+  - React notification made easy 🚀 !
+- [ant-design-pro-layout](https://github.com/ant-design/ant-design-pro-layout)
+  - 🌃 Powerful and easy to use beautiful layout
+- [ever](https://github.com/ever-co/ever)
+  - Ever® - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
+- [storybook](https://github.com/storybookjs/storybook)
+  - 📓 The UI component workshop. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!

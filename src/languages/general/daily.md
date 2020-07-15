@@ -1,50 +1,49 @@
 # general
-- [course-content](https://github.com/NeuromatchAcademy/course-content) : Jupyter Notebook
-  - Summer course content for Neuromatch Academy
-- [youtubeclone-frontend](https://github.com/manikandanraji/youtubeclone-frontend) : JavaScript
-  - Youtube Clone Frontend (React + Redux)
-- [game_control](https://github.com/ChoudharyChanchal/game_control) : Python
-- [Flutter-Shopping-UI-Kit](https://github.com/AliAnilKocak/Flutter-Shopping-UI-Kit) : Dart
-  - I developed this application just for learning purpose. There are 20+ screen variations.
-- [voila](https://github.com/voila-dashboards/voila) : Python
-  - Voilà turns Jupyter notebooks into standalone web applications
-- [awesomefluttertips](https://github.com/erluxman/awesomefluttertips) : Dart
-  - ❤️Flutter ❤️ tips and tricks ❤️ Awesome Flutter ❤️ tips and tricks ❤️
-- [youtubeclone-backend](https://github.com/manikandanraji/youtubeclone-backend) : JavaScript
-  - Youtube Clone Backend (Express + Sequelize)
-- [spleeter](https://github.com/deezer/spleeter) : Python
-  - Deezer source separation library including pretrained models.
-- [fastapi](https://github.com/tiangolo/fastapi) : Python
-  - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) : C#
+  - 🌀 Clean Architecture with .NET Core 3.1, C# 8 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks
 - [nlp](https://github.com/huggingface/nlp) : Python
   - 🤗nlp – Datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow
-- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) : JavaScript
-  - Dynamically generated stats for your github readmes
+- [whatthefuck.is](https://github.com/gaearon/whatthefuck.is) : CSS
+  - An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
 - [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) : JavaScript
   - A collection of awesome readme templates to display on your profile
-- [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) : Python
-  - 100 Days of ML Coding
-- [realworld](https://github.com/gothinkster/realworld) : JavaScript
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [hackingtool](https://github.com/Z4nzu/hackingtool) : Python
-  - ALL IN ONE Hacking Tool For Hackers
-- [outline](https://github.com/outline/outline) : JavaScript
-  - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
-- [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) : Go
-  - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，五分钟一套CURD前后端代码包含数据库的快感你不要体验一下吗~,更多功能正在开发中，欢迎issue和pr~
+- [game_control](https://github.com/ChoudharyChanchal/game_control) : Python
+- [course-content](https://github.com/NeuromatchAcademy/course-content) : Jupyter Notebook
+  - Summer course content for Neuromatch Academy
+- [awesomefluttertips](https://github.com/erluxman/awesomefluttertips) : Dart
+  - ❤️Flutter ❤️ tips and tricks ❤️ Awesome Flutter ❤️ tips and tricks ❤️
+- [snapchat-clone](https://github.com/TowhidKashem/snapchat-clone) : TypeScript
+  - 👻 A SnapChat clone built with React, Redux and Typescript. Styled with SASS. Tested with Cypress, Jest and Enzyme. Linted with Eslint and formatted with Prettier!
+- [sktime](https://github.com/alan-turing-institute/sktime) : Python
+  - A scikit-learn compatible Python toolbox for machine learning with time series
+- [gradio](https://github.com/gradio-app/gradio) : Python
+  - Rapidly create UIs for prototyping your machine learning model in 3 minutes
+- [Javascript-Essentials](https://github.com/LetsUpgrade/Javascript-Essentials) : JavaScript
+- [CodeGuide](https://github.com/fuzhengwei/CodeGuide) : 
+  - 📚 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
 - [node-react-ecommerce](https://github.com/basir/node-react-ecommerce) : JavaScript
   - Build ECommerce Website Like Amazon By React & Node & MongoDB
-- [RedditOS](https://github.com/Dimillian/RedditOS) : Swift
-  - A SwiftUI Reddit client for macOS Big Sur
-- [Unlock-netease-cloud-music](https://github.com/meng-chuan/Unlock-netease-cloud-music) : JavaScript
-  - 解锁网易云音乐客户端变灰歌曲
-- [Faker](https://github.com/fzaninotto/Faker) : PHP
-  - Faker is a PHP library that generates fake data for you
-- [pandas_exercises](https://github.com/guipsamora/pandas_exercises) : Jupyter Notebook
-  - Practice your pandas skills!
-- [modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) : C#
-  - Full Modular Monolith application with Domain-Driven Design approach.
-- [paper_collection](https://github.com/0xricksanchez/paper_collection) : 
-  - Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read
-- [flink](https://github.com/apache/flink) : Java
-  - Apache Flink
+- [MagicMagnet-Python](https://github.com/pedrolemoz/MagicMagnet-Python) : Python
+  - Get magnet links from internet without any effort! 🧲
+- [voila](https://github.com/voila-dashboards/voila) : Python
+  - Voilà turns Jupyter notebooks into standalone web applications
+- [youtubeclone-frontend](https://github.com/manikandanraji/youtubeclone-frontend) : JavaScript
+  - Youtube Clone Frontend (React + Redux)
+- [PSBits](https://github.com/gtworek/PSBits) : PowerShell
+  - Simple (relatively) things allowing you to dig a bit deeper than usual.
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) : JavaScript
+  - Dynamically generated stats for your github readmes
+- [lihang-code](https://github.com/fengdu78/lihang-code) : Jupyter Notebook
+  - 《统计学习方法》的代码实现
+- [googleapis](https://github.com/googleapis/googleapis) : Starlark
+  - Public interface definitions of Google APIs.
+- [ZLMediaKit](https://github.com/xiongziliang/ZLMediaKit) : C++
+  - A lightweight RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/GB28181 server and client framework based on C++11
+- [rocketredis](https://github.com/diego3g/rocketredis) : TypeScript
+  - A beautiful Redis GUI 🔥 (under development)
+- [papers-we-love](https://github.com/papers-we-love/papers-we-love) : Shell
+  - Papers from the computer science community to read and discuss.
+- [gpt-3](https://github.com/openai/gpt-3) : 
+  - GPT-3: Language Models are Few-Shot Learners
+- [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) : JavaScript
+  - 网易云音乐 Node.js API service
