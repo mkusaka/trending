@@ -1,51 +1,51 @@
 # typescript
 - [snapchat-clone](https://github.com/TowhidKashem/snapchat-clone)
   - 👻 A SnapChat clone built with React, Redux and Typescript. Styled with SASS. Tested with Cypress, Jest and Enzyme. Linted with Eslint and formatted with Prettier!
-- [rocketredis](https://github.com/diego3g/rocketredis)
-  - A beautiful Redis GUI 🔥 (under development)
-- [wechaty](https://github.com/wechaty/wechaty)
-  - Conversational AI RPA SDK for Chatbot Hackers
-- [vue-next](https://github.com/vuejs/vue-next)
-  - Repo for Vue 3.0 (currently in beta)
-- [react-data-grid](https://github.com/adazzle/react-data-grid)
-  - Excel-like grid component built with React, with editors, keyboard navigation, copy & paste, and the like
-- [jira-clone-angular](https://github.com/trungk18/jira-clone-angular)
-  - A simplified Jira clone built with Angular 9, ng-zorro and Akita
-- [react-use](https://github.com/streamich/react-use)
-  - React Hooks — 👍
-- [react-native-webview](https://github.com/react-native-community/react-native-webview)
-  - React Native Cross-Platform WebView
-- [grafana](https://github.com/grafana/grafana)
-  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [redux](https://github.com/reduxjs/redux)
-  - Predictable state container for JavaScript apps
-- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-  - The repository for high quality TypeScript type definitions.
-- [ant-design](https://github.com/ant-design/ant-design)
-  - 🌈 A UI Design Language and React UI library
+- [react-admin](https://github.com/marmelab/react-admin)
+  - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
+- [typeorm](https://github.com/typeorm/typeorm)
+  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+- [apollo-client](https://github.com/apollographql/apollo-client)
+  - 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
 - [jest](https://github.com/facebook/jest)
   - Delightful JavaScript Testing.
-- [hooks](https://github.com/alibaba/hooks)
-  - React Hooks Library
-- [graphql-playground](https://github.com/prisma-labs/graphql-playground)
-  - 🎮 GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
-- [angularfire](https://github.com/angular/angularfire)
-  - The official Angular library for Firebase.
-- [vscode](https://github.com/microsoft/vscode)
-  - Visual Studio Code
+- [angular-cli](https://github.com/angular/angular-cli)
+  - CLI tool for Angular
+- [ant-design](https://github.com/ant-design/ant-design)
+  - 🌈 A UI Design Language and React UI library
+- [fullcalendar](https://github.com/fullcalendar/fullcalendar)
+  - Full-sized drag & drop event calendar
 - [nest](https://github.com/nestjs/nest)
   - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-- [components](https://github.com/angular/components)
-  - Component infrastructure and Material Design components for Angular
-- [n8n](https://github.com/n8n-io/n8n)
-  - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
-- [formik](https://github.com/formium/formik)
-  - Build forms in React, without the tears 😭
-- [react-toastify](https://github.com/fkhadra/react-toastify)
-  - React notification made easy 🚀 !
-- [ant-design-pro-layout](https://github.com/ant-design/ant-design-pro-layout)
-  - 🌃 Powerful and easy to use beautiful layout
-- [ever](https://github.com/ever-co/ever)
-  - Ever® - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
+- [react-visual-editor](https://github.com/brick-design/react-visual-editor)
+  - 组件可视化拖拽，页面搭建，源码生成工具,自由拖拽嵌套，可实现任何真实开发中的复杂页面，所见即所得，可完美还原UI设计，多平台展示支持，项目于2020.2.22开源，喜欢的点颗星支持鼓励一下！visual drag and drop, free nesting, real-time preview of components, real-time tracking, WYSIWYG, perfect UI design restoration, source code Generated
+- [primeng](https://github.com/primefaces/primeng)
+  - The Most Complete Angular UI Component Library
+- [vue-next](https://github.com/vuejs/vue-next)
+  - Repo for Vue 3.0 (currently in beta)
+- [vscode](https://github.com/microsoft/vscode)
+  - Visual Studio Code
+- [fazt-api](https://github.com/faztcommunity/fazt-api)
+  - Fazt Community API
+- [angular](https://github.com/angular/angular)
+  - One framework. Mobile & desktop.
 - [storybook](https://github.com/storybookjs/storybook)
   - 📓 The UI component workshop. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
+- [pipcook](https://github.com/alibaba/pipcook)
+  - Front-End Algorithm Engineering Platform based on Tensorflow.js
+- [rocketredis](https://github.com/diego3g/rocketredis)
+  - A beautiful Redis GUI 🔥 (under development)
+- [cypress-realworld-app](https://github.com/cypress-io/cypress-realworld-app)
+  - A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.
+- [kibana](https://github.com/elastic/kibana)
+  - Your window into the Elastic Stack
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
+  - 📋 React Hooks for forms validation (Web + React Native)
+- [notable](https://github.com/notable/notable)
+  - The Markdown-based note-taking app that doesn't suck.
+- [ionic-framework](https://github.com/ionic-team/ionic-framework)
+  - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+- [renovate](https://github.com/renovatebot/renovate)
+  - Universal dependency update tool that fits into your workflows.
+- [xstate](https://github.com/davidkpiano/xstate)
+  - State machines and statecharts for the modern web.

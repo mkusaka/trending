@@ -1,49 +1,49 @@
 # general
+- [whatthefuck.is](https://github.com/gaearon/whatthefuck.is) : CSS
+  - An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
+- [DOOM-FX](https://github.com/RandalLinden/DOOM-FX) : Assembly
+  - Doom/FX for Super Nintendo with SuperFX GSU2A
+- [googleapis](https://github.com/googleapis/googleapis) : Starlark
+  - Public interface definitions of Google APIs.
 - [clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) : C#
   - 🌀 Clean Architecture with .NET Core 3.1, C# 8 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks
 - [nlp](https://github.com/huggingface/nlp) : Python
   - 🤗nlp – Datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow
-- [whatthefuck.is](https://github.com/gaearon/whatthefuck.is) : CSS
-  - An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
-- [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) : JavaScript
-  - A collection of awesome readme templates to display on your profile
-- [game_control](https://github.com/ChoudharyChanchal/game_control) : Python
-- [course-content](https://github.com/NeuromatchAcademy/course-content) : Jupyter Notebook
-  - Summer course content for Neuromatch Academy
-- [awesomefluttertips](https://github.com/erluxman/awesomefluttertips) : Dart
-  - ❤️Flutter ❤️ tips and tricks ❤️ Awesome Flutter ❤️ tips and tricks ❤️
 - [snapchat-clone](https://github.com/TowhidKashem/snapchat-clone) : TypeScript
   - 👻 A SnapChat clone built with React, Redux and Typescript. Styled with SASS. Tested with Cypress, Jest and Enzyme. Linted with Eslint and formatted with Prettier!
-- [sktime](https://github.com/alan-turing-institute/sktime) : Python
-  - A scikit-learn compatible Python toolbox for machine learning with time series
-- [gradio](https://github.com/gradio-app/gradio) : Python
-  - Rapidly create UIs for prototyping your machine learning model in 3 minutes
-- [Javascript-Essentials](https://github.com/LetsUpgrade/Javascript-Essentials) : JavaScript
-- [CodeGuide](https://github.com/fuzhengwei/CodeGuide) : 
-  - 📚 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
-- [node-react-ecommerce](https://github.com/basir/node-react-ecommerce) : JavaScript
-  - Build ECommerce Website Like Amazon By React & Node & MongoDB
-- [MagicMagnet-Python](https://github.com/pedrolemoz/MagicMagnet-Python) : Python
-  - Get magnet links from internet without any effort! 🧲
-- [voila](https://github.com/voila-dashboards/voila) : Python
-  - Voilà turns Jupyter notebooks into standalone web applications
-- [youtubeclone-frontend](https://github.com/manikandanraji/youtubeclone-frontend) : JavaScript
-  - Youtube Clone Frontend (React + Redux)
-- [PSBits](https://github.com/gtworek/PSBits) : PowerShell
-  - Simple (relatively) things allowing you to dig a bit deeper than usual.
-- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) : JavaScript
-  - Dynamically generated stats for your github readmes
-- [lihang-code](https://github.com/fengdu78/lihang-code) : Jupyter Notebook
-  - 《统计学习方法》的代码实现
-- [googleapis](https://github.com/googleapis/googleapis) : Starlark
-  - Public interface definitions of Google APIs.
-- [ZLMediaKit](https://github.com/xiongziliang/ZLMediaKit) : C++
-  - A lightweight RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/GB28181 server and client framework based on C++11
-- [rocketredis](https://github.com/diego3g/rocketredis) : TypeScript
-  - A beautiful Redis GUI 🔥 (under development)
+- [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) : JavaScript
+  - A collection of awesome readme templates to display on your profile
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) : Shell
   - Papers from the computer science community to read and discuss.
+- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) : 
+  - A collection of various awesome lists for hackers, pentesters and security researchers
+- [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) : JavaScript
+  - A curated list of awesome Github Profile READMEs
+- [awesome-datascience](https://github.com/academic/awesome-datascience) : 
+  - 📝 An awesome Data Science repository to learn and apply for real world problems.
+- [phaser](https://github.com/photonstorm/phaser) : JavaScript
+  - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+- [gradio](https://github.com/gradio-app/gradio) : Python
+  - Rapidly create UIs for prototyping your machine learning model in 3 minutes
+- [game_control](https://github.com/ChoudharyChanchal/game_control) : Python
+- [Javascript-Essentials](https://github.com/LetsUpgrade/Javascript-Essentials) : JavaScript
+- [bootstrap](https://github.com/twbs/bootstrap) : JavaScript
+  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [node-react-ecommerce](https://github.com/basir/node-react-ecommerce) : JavaScript
+  - Build ECommerce Website Like Amazon By React & Node & MongoDB
+- [sherloq](https://github.com/GuidoBartoli/sherloq) : Perl
+  - An open-source digital image forensic toolset
+- [funds](https://github.com/x2rr/funds) : Vue
+  - 自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况
+- [adb-event-mirror](https://github.com/JakeWharton/adb-event-mirror) : Kotlin
+  - Mirror the touch/key/button events of one device onto one or more other devices in real-time
 - [gpt-3](https://github.com/openai/gpt-3) : 
   - GPT-3: Language Models are Few-Shot Learners
-- [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) : JavaScript
-  - 网易云音乐 Node.js API service
+- [awesomefluttertips](https://github.com/erluxman/awesomefluttertips) : Dart
+  - ❤️Flutter ❤️ tips and tricks ❤️ Awesome Flutter ❤️ tips and tricks ❤️
+- [RxSwift](https://github.com/ReactiveX/RxSwift) : Swift
+  - Reactive Programming in Swift
+- [CodeGuide](https://github.com/fuzhengwei/CodeGuide) : 
+  - 📚 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
+- [Microsoft-threat-protection-Hunting-Queries](https://github.com/microsoft/Microsoft-threat-protection-Hunting-Queries) : Jupyter Notebook
+  - Sample queries for Advanced hunting in Microsoft Threat Protection
