@@ -1,49 +1,51 @@
 # general
-- [whatthefuck.is](https://github.com/gaearon/whatthefuck.is) : CSS
-  - An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
-- [DOOM-FX](https://github.com/RandalLinden/DOOM-FX) : Assembly
-  - Doom/FX for Super Nintendo with SuperFX GSU2A
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) : C++
+  - Awesome OCR toolkits based on PaddlePaddle （8.6M ultra-lightweight pre-trained model, support training and deployment among server, mobile, embeded and IoT devices）
+- [react-spectrum](https://github.com/adobe/react-spectrum) : TypeScript
+  - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
+- [protobuf](https://github.com/protocolbuffers/protobuf) : C++
+  - Protocol Buffers - Google's data interchange format
 - [googleapis](https://github.com/googleapis/googleapis) : Starlark
   - Public interface definitions of Google APIs.
-- [clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) : C#
-  - 🌀 Clean Architecture with .NET Core 3.1, C# 8 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks
-- [nlp](https://github.com/huggingface/nlp) : Python
-  - 🤗nlp – Datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow
+- [Rocket](https://github.com/SergioBenitez/Rocket) : Rust
+  - A web framework for Rust.
+- [whatthefuck.is](https://github.com/gaearon/whatthefuck.is) : CSS
+  - An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
+- [incubator-brpc](https://github.com/apache/incubator-brpc) : C++
+  - Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services, called "baidu-rpc" inside Baidu.
+- [jquery](https://github.com/jquery/jquery) : JavaScript
+  - jQuery JavaScript Library
+- [awesome-datascience](https://github.com/academic/awesome-datascience) : 
+  - 📝 An awesome Data Science repository to learn and apply for real world problems.
+- [pwncat](https://github.com/calebstewart/pwncat) : Python
+  - Fancy reverse and bind shell handler
+- [QuantumKatas](https://github.com/microsoft/QuantumKatas) : Jupyter Notebook
+  - Tutorials and programming exercises for learning Q# and quantum computing
+- [papers-we-love](https://github.com/papers-we-love/papers-we-love) : Shell
+  - Papers from the computer science community to read and discuss.
+- [super-expressive](https://github.com/francisrstokes/super-expressive) : JavaScript
+  - 🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language
+- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) : 
+  - A collection of various awesome lists for hackers, pentesters and security researchers
+- [CodeGuide](https://github.com/fuzhengwei/CodeGuide) : 
+  - 📚 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
+- [x-spreadsheet](https://github.com/myliang/x-spreadsheet) : JavaScript
+  - A web-based JavaScript（canvas） spreadsheet
+- [data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap) : Python
+  - Toturial coming with "data science roadmap" graphe.
+- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) : 
+  - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+- [AppAuth-Android](https://github.com/openid/AppAuth-Android) : Java
+  - Android client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
+- [ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) : 
+  - List of Data Science Cheatsheets to rule the world
+- [gradio](https://github.com/gradio-app/gradio) : Python
+  - Create UIs for prototyping your machine learning model in 3 minutes
+- [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) : JavaScript
+  - A curated list of awesome Github Profile READMEs
 - [snapchat-clone](https://github.com/TowhidKashem/snapchat-clone) : TypeScript
   - 👻 A SnapChat clone built with React, Redux and Typescript. Styled with SASS. Tested with Cypress, Jest and Enzyme. Linted with Eslint and formatted with Prettier!
 - [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) : JavaScript
   - A collection of awesome readme templates to display on your profile
-- [papers-we-love](https://github.com/papers-we-love/papers-we-love) : Shell
-  - Papers from the computer science community to read and discuss.
-- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) : 
-  - A collection of various awesome lists for hackers, pentesters and security researchers
-- [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) : JavaScript
-  - A curated list of awesome Github Profile READMEs
-- [awesome-datascience](https://github.com/academic/awesome-datascience) : 
-  - 📝 An awesome Data Science repository to learn and apply for real world problems.
-- [phaser](https://github.com/photonstorm/phaser) : JavaScript
-  - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-- [gradio](https://github.com/gradio-app/gradio) : Python
-  - Rapidly create UIs for prototyping your machine learning model in 3 minutes
-- [game_control](https://github.com/ChoudharyChanchal/game_control) : Python
-- [Javascript-Essentials](https://github.com/LetsUpgrade/Javascript-Essentials) : JavaScript
-- [bootstrap](https://github.com/twbs/bootstrap) : JavaScript
-  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [node-react-ecommerce](https://github.com/basir/node-react-ecommerce) : JavaScript
-  - Build ECommerce Website Like Amazon By React & Node & MongoDB
-- [sherloq](https://github.com/GuidoBartoli/sherloq) : Perl
-  - An open-source digital image forensic toolset
-- [funds](https://github.com/x2rr/funds) : Vue
-  - 自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况
-- [adb-event-mirror](https://github.com/JakeWharton/adb-event-mirror) : Kotlin
-  - Mirror the touch/key/button events of one device onto one or more other devices in real-time
-- [gpt-3](https://github.com/openai/gpt-3) : 
-  - GPT-3: Language Models are Few-Shot Learners
-- [awesomefluttertips](https://github.com/erluxman/awesomefluttertips) : Dart
-  - ❤️Flutter ❤️ tips and tricks ❤️ Awesome Flutter ❤️ tips and tricks ❤️
-- [RxSwift](https://github.com/ReactiveX/RxSwift) : Swift
-  - Reactive Programming in Swift
-- [CodeGuide](https://github.com/fuzhengwei/CodeGuide) : 
-  - 📚 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
-- [Microsoft-threat-protection-Hunting-Queries](https://github.com/microsoft/Microsoft-threat-protection-Hunting-Queries) : Jupyter Notebook
-  - Sample queries for Advanced hunting in Microsoft Threat Protection
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
+  - Roadmap to becoming a web developer in 2020
