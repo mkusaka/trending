@@ -1,51 +1,51 @@
 # javascript
-- [jquery](https://github.com/jquery/jquery)
-  - jQuery JavaScript Library
-- [super-expressive](https://github.com/francisrstokes/super-expressive)
-  - 🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language
 - [x-spreadsheet](https://github.com/myliang/x-spreadsheet)
   - A web-based JavaScript（canvas） spreadsheet
-- [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-  - A curated list of awesome Github Profile READMEs
+- [super-expressive](https://github.com/francisrstokes/super-expressive)
+  - 🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language
+- [ps4jb](https://github.com/sleirsgoevy/ps4jb)
+  - PS4 6.72 jailbreak
+- [hedgehog-lab](https://github.com/lidangzzz/hedgehog-lab)
+  - An open source scientific computing environment for JavaScript TOTALLY in your browser, matrix operations with GPU acceleration, TeX support, data visualization and symbolic computation.
+- [bumblebee](https://github.com/jaxcore/bumblebee)
+  - Jaxcore Bumblebee - a JavaScript voice application framework
+- [RecordRTC](https://github.com/muaz-khan/RecordRTC)
+  - RecordRTC is WebRTC JavaScript library for audio/video as well as screen activity recording. It supports Chrome, Firefox, Opera, Android, and Microsoft Edge. Platforms: Linux, Mac and Windows.
 - [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
   - A collection of awesome readme templates to display on your profile
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
-- [bootstrap](https://github.com/twbs/bootstrap)
-  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
-  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
-- [axios](https://github.com/axios/axios)
-  - Promise based HTTP client for the browser and node.js
-- [Recoil](https://github.com/facebookexperimental/Recoil)
-  - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
-- [hls.js](https://github.com/video-dev/hls.js)
-  - JavaScript HLS client using Media Source Extension
-- [serverless](https://github.com/serverless/serverless)
-  - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
-- [d3-org-tree](https://github.com/benyasin/d3-org-tree)
-  - A highly customizable org tree built with d3.js v5
-- [quill](https://github.com/quilljs/quill)
-  - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
-- [Javascript-Essentials](https://github.com/LetsUpgrade/Javascript-Essentials)
-  - 
-- [handsontable](https://github.com/handsontable/handsontable)
-  - Handsontable is a JavaScript/HTML5 data grid with spreadsheet look & feel. Available for React, Vue and Angular.
-- [react-virtualized](https://github.com/bvaughn/react-virtualized)
-  - React components for efficiently rendering large lists and tabular data
-- [lodash](https://github.com/lodash/lodash)
-  - A modern JavaScript utility library delivering modularity, performance, & extras.
-- [webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop)
-  - ❤️ Streaming torrent app for Mac, Windows, and Linux
-- [drawio-desktop](https://github.com/jgraph/drawio-desktop)
-  - Official electron build of diagrams.net
-- [redash](https://github.com/getredash/redash)
-  - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-- [gridstudio](https://github.com/ricklamers/gridstudio)
-  - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
-- [react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
-  - Cheatsheets for experienced React developers getting started with TypeScript
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
   - Dynamically generated stats for your github readmes
-- [webpack-pages](https://github.com/abbykk/webpack-pages)
-  - webpack多页面脚手架,webpack多页面打包,全自动化多页面脚手架(原创)
+- [lodash](https://github.com/lodash/lodash)
+  - A modern JavaScript utility library delivering modularity, performance, & extras.
+- [react-native-testing-library](https://github.com/callstack/react-native-testing-library)
+  - Lightweight React Native testing utilities helping you write better tests with less effort
+- [jquery](https://github.com/jquery/jquery)
+  - jQuery JavaScript Library
+- [simple-peer](https://github.com/feross/simple-peer)
+  - 📡 Simple WebRTC video, voice, and data channels
+- [jsoneditor](https://github.com/josdejong/jsoneditor)
+  - A web-based tool to view, edit, format, and validate JSON
+- [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+  - 🚀 A curated list of awesome Github Profile READMEs 📝
+- [gatsby](https://github.com/gatsbyjs/gatsby)
+  - Build blazing fast, modern apps and websites with React
+- [spug](https://github.com/openspug/spug)
+  - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
+- [CodeceptJS](https://github.com/codeceptjs/CodeceptJS)
+  - Supercharged End 2 End Testing Framework for NodeJS
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [odoo](https://github.com/odoo/odoo)
+  - Odoo. Open Source Apps To Grow Your Business.
+- [hello-algorithm](https://github.com/geekxh/hello-algorithm)
+  - 本项目包括：1、我写的 30w 字图解算法题典 2、100 张各领域超清晰思维导图 3、小浩算法网站源代码
+- [gridstudio](https://github.com/ricklamers/gridstudio)
+  - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
+- [redash](https://github.com/getredash/redash)
+  - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+- [vue](https://github.com/vuejs/vue)
+  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [docker-handbook-projects](https://github.com/fhsinchy/docker-handbook-projects)
+  - Project codes used in "The Docker Handbook" 📓
+- [Detox](https://github.com/wix/Detox)
+  - Gray box end-to-end testing and automation framework for mobile apps
