@@ -1,51 +1,51 @@
 # general
-- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) : C++
-  - Awesome OCR toolkits based on PaddlePaddle （8.6M ultra-lightweight pre-trained model, support training and deployment among server, mobile, embeded and IoT devices）
+- [terraform-cdk](https://github.com/hashicorp/terraform-cdk) : TypeScript
+  - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
+- [NewPipe](https://github.com/TeamNewPipe/NewPipe) : Java
+  - A libre lightweight streaming front-end for Android.
 - [react-spectrum](https://github.com/adobe/react-spectrum) : TypeScript
   - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
-- [protobuf](https://github.com/protocolbuffers/protobuf) : C++
-  - Protocol Buffers - Google's data interchange format
 - [googleapis](https://github.com/googleapis/googleapis) : Starlark
   - Public interface definitions of Google APIs.
-- [Rocket](https://github.com/SergioBenitez/Rocket) : Rust
-  - A web framework for Rust.
-- [whatthefuck.is](https://github.com/gaearon/whatthefuck.is) : CSS
-  - An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
-- [incubator-brpc](https://github.com/apache/incubator-brpc) : C++
-  - Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services, called "baidu-rpc" inside Baidu.
-- [jquery](https://github.com/jquery/jquery) : JavaScript
-  - jQuery JavaScript Library
+- [react-use](https://github.com/streamich/react-use) : TypeScript
+  - React Hooks — 👍
+- [capa](https://github.com/fireeye/capa) : Python
+  - The FLARE team's open-source tool to identify capabilities in executable files.
+- [gpt-3](https://github.com/openai/gpt-3) : 
+  - GPT-3: Language Models are Few-Shot Learners
+- [x-spreadsheet](https://github.com/myliang/x-spreadsheet) : JavaScript
+  - A web-based JavaScript（canvas） spreadsheet
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) : C++
+  - Awesome OCR toolkits based on PaddlePaddle （8.6M ultra-lightweight pre-trained model, support training and deployment among server, mobile, embeded and IoT devices）
+- [PowerShell](https://github.com/PowerShell/PowerShell) : C#
+  - PowerShell for every system!
 - [awesome-datascience](https://github.com/academic/awesome-datascience) : 
   - 📝 An awesome Data Science repository to learn and apply for real world problems.
-- [pwncat](https://github.com/calebstewart/pwncat) : Python
-  - Fancy reverse and bind shell handler
-- [QuantumKatas](https://github.com/microsoft/QuantumKatas) : Jupyter Notebook
-  - Tutorials and programming exercises for learning Q# and quantum computing
-- [papers-we-love](https://github.com/papers-we-love/papers-we-love) : Shell
-  - Papers from the computer science community to read and discuss.
 - [super-expressive](https://github.com/francisrstokes/super-expressive) : JavaScript
   - 🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) : 
   - A collection of various awesome lists for hackers, pentesters and security researchers
-- [CodeGuide](https://github.com/fuzhengwei/CodeGuide) : 
-  - 📚 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
-- [x-spreadsheet](https://github.com/myliang/x-spreadsheet) : JavaScript
-  - A web-based JavaScript（canvas） spreadsheet
-- [data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap) : Python
-  - Toturial coming with "data science roadmap" graphe.
-- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) : 
-  - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-- [AppAuth-Android](https://github.com/openid/AppAuth-Android) : Java
-  - Android client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
-- [ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) : 
-  - List of Data Science Cheatsheets to rule the world
-- [gradio](https://github.com/gradio-app/gradio) : Python
-  - Create UIs for prototyping your machine learning model in 3 minutes
-- [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) : JavaScript
-  - A curated list of awesome Github Profile READMEs
-- [snapchat-clone](https://github.com/TowhidKashem/snapchat-clone) : TypeScript
-  - 👻 A SnapChat clone built with React, Redux and Typescript. Styled with SASS. Tested with Cypress, Jest and Enzyme. Linted with Eslint and formatted with Prettier!
-- [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) : JavaScript
-  - A collection of awesome readme templates to display on your profile
+- [ps4jb](https://github.com/sleirsgoevy/ps4jb) : JavaScript
+  - PS4 6.72 jailbreak
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
   - Roadmap to becoming a web developer in 2020
+- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) : 
+  - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+- [Pokedex](https://github.com/skydoves/Pokedex) : Kotlin
+  - 🗡️ Android Pokedex using Dagger Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
+- [kong](https://github.com/Kong/kong) : Lua
+  - 🦍 The Cloud-Native API Gateway
+- [CTF_Hacker-Tools](https://github.com/Harveysn0w/CTF_Hacker-Tools) : 
+  - CTF-渗透测试~工具合集
+- [QA_bible](https://github.com/Vladislav610/QA_bible) : 
+  - Библия QA это 163 страницы смеси ответов на вопросы с реальных собеседований на manual QA, перевода интересного контента с зарубежных ресурсов и агрегации материала с отечественных.
+- [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) : Python
+  - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
+- [data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap) : Python
+  - Toturial coming with "data science roadmap" graphe.
+- [hedgehog-lab](https://github.com/lidangzzz/hedgehog-lab) : JavaScript
+  - An open source scientific computing environment for JavaScript TOTALLY in your browser, matrix operations with GPU acceleration, TeX support, data visualization and symbolic computation.
+- [linux](https://github.com/torvalds/linux) : C
+  - Linux kernel source tree
+- [rocksdb](https://github.com/facebook/rocksdb) : C++
+  - A library that provides an embeddable, persistent key-value store for fast storage.
