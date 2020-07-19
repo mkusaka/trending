@@ -5,47 +5,47 @@
   - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [react-use](https://github.com/streamich/react-use)
   - React Hooks — 👍
-- [vscode](https://github.com/microsoft/vscode)
-  - Visual Studio Code
-- [motion](https://github.com/framer/motion)
-  - Open source, production-ready animation and gesture library for React
-- [TypeScript](https://github.com/microsoft/TypeScript)
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [react-native-paper](https://github.com/callstack/react-native-paper)
-  - Material Design for React Native (Android & iOS)
-- [ionic-framework](https://github.com/ionic-team/ionic-framework)
-  - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-- [rome](https://github.com/romefrontend/rome)
-  - The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
-- [vscode-drawio](https://github.com/hediet/vscode-drawio)
-  - This unofficial extension integrates Draw.io into VS Code.
-- [face-api.js](https://github.com/justadudewhohacks/face-api.js)
-  - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
-- [angularfire](https://github.com/angular/angularfire)
-  - The official Angular library for Firebase.
-- [vscode-cpptools](https://github.com/microsoft/vscode-cpptools)
-  - Official repository for the Microsoft C/C++ extension for VS Code.
 - [vue-next](https://github.com/vuejs/vue-next)
   - Repo for Vue 3.0 (currently in beta)
-- [nx](https://github.com/nrwl/nx)
-  - Extensible Dev Tools for Monorepos
-- [composition-api](https://github.com/vuejs/composition-api)
-  - Composition API plugin for Vue 2
-- [azuredatastudio](https://github.com/microsoft/azuredatastudio)
-  - Azure Data Studio is a data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
-- [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator)
-  - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
-- [vuetify](https://github.com/vuetifyjs/vuetify)
-  - 🐉 Material Component Framework for Vue
-- [ant-design](https://github.com/ant-design/ant-design)
-  - 🌈 A UI Design Language and React UI library
-- [material-components-web-components](https://github.com/material-components/material-components-web-components)
-  - Material Design Web Components
-- [ioredis](https://github.com/luin/ioredis)
-  - 🚀 A robust, performance-focused and full-featured Redis client for Node.js.
-- [streamlit](https://github.com/streamlit/streamlit)
-  - Streamlit — The fastest way to build data apps in Python
-- [kibana](https://github.com/elastic/kibana)
-  - Your window into the Elastic Stack
+- [angularfire](https://github.com/angular/angularfire)
+  - The official Angular library for Firebase.
+- [shoelace](https://github.com/shoelace-style/shoelace)
+  - A collection of professionally designed, every day UI components built on a framework-agnostic technology.
+- [notable](https://github.com/notable/notable)
+  - The Markdown-based note-taking app that doesn't suck.
+- [face-api.js](https://github.com/justadudewhohacks/face-api.js)
+  - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
+- [instagram-private-api](https://github.com/dilame/instagram-private-api)
+  - NodeJS Instagram private API client. Written in TypeScript.
+- [FigmaToCode](https://github.com/bernaferrari/FigmaToCode)
+  - From design to responsive pages and apps on Tailwind and Flutter.
+- [hyper](https://github.com/vercel/hyper)
+  - A terminal built on web technologies
+- [homebridge](https://github.com/homebridge/homebridge)
+  - HomeKit support for the impatient
+- [awakened-poe-trade](https://github.com/SnosMe/awakened-poe-trade)
+  - 💲 🔨 Path of Exile trading app for price checking
+- [terminus](https://github.com/Eugeny/terminus)
+  - A terminal for a more modern age
+- [ever](https://github.com/ever-co/ever)
+  - Ever® - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
+- [pyright](https://github.com/microsoft/pyright)
+  - Static type checker for Python
+- [billboard.js](https://github.com/naver/billboard.js)
+  - 📊 Re-usable, easy interface JavaScript chart library based on D3.js
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+  - Headless Chrome Node.js API
+- [telegraf](https://github.com/telegraf/telegraf)
+  - Modern Telegram Bot Framework for Node.js
+- [streamlabs-obs](https://github.com/stream-labs/streamlabs-obs)
+  - Free and open source streaming software built on OBS and Electron.
+- [vite](https://github.com/vitejs/vite)
+  - Native-ESM powered web dev build tool. It's fast.
+- [TypeScript](https://github.com/microsoft/TypeScript)
+  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [sapper](https://github.com/sveltejs/sapper)
+  - The next small thing in web development, powered by Svelte
+- [typeorm](https://github.com/typeorm/typeorm)
+  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+- [react-native-redash](https://github.com/wcandillon/react-native-redash)
+  - The React Native Reanimated and Gesture Handler Toolbelt

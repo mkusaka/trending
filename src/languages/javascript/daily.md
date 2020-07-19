@@ -1,51 +1,51 @@
 # javascript
-- [x-spreadsheet](https://github.com/myliang/x-spreadsheet)
-  - A web-based JavaScript（canvas） spreadsheet
-- [super-expressive](https://github.com/francisrstokes/super-expressive)
-  - 🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language
-- [ps4jb](https://github.com/sleirsgoevy/ps4jb)
-  - PS4 6.72 jailbreak
 - [hedgehog-lab](https://github.com/lidangzzz/hedgehog-lab)
   - An open source scientific computing environment for JavaScript TOTALLY in your browser, matrix operations with GPU acceleration, TeX support, data visualization and symbolic computation.
-- [bumblebee](https://github.com/jaxcore/bumblebee)
-  - Jaxcore Bumblebee - a JavaScript voice application framework
-- [RecordRTC](https://github.com/muaz-khan/RecordRTC)
-  - RecordRTC is WebRTC JavaScript library for audio/video as well as screen activity recording. It supports Chrome, Firefox, Opera, Android, and Microsoft Edge. Platforms: Linux, Mac and Windows.
-- [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
-  - A collection of awesome readme templates to display on your profile
+- [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder)
+  - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.
+- [webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop)
+  - ❤️ Streaming torrent app for Mac, Windows, and Linux
+- [next.js](https://github.com/vercel/next.js)
+  - The React Framework
+- [super-expressive](https://github.com/francisrstokes/super-expressive)
+  - 🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language
+- [tsdx](https://github.com/formium/tsdx)
+  - Zero-config CLI for TypeScript package development
+- [covid19india-react](https://github.com/covid19india/covid19india-react)
+  - Tracking the impact of COVID-19 in India
+- [ps4jb](https://github.com/sleirsgoevy/ps4jb)
+  - PS4 6.72 jailbreak
+- [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+  - 😎 A curated list of awesome Github Profile READMEs 📝
+- [x-spreadsheet](https://github.com/myliang/x-spreadsheet)
+  - A web-based JavaScript（canvas） spreadsheet
+- [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+  - 🚀 Generate github profile README easily with latest add-ons like visitors count, github stats, etc using minimal UI.
+- [brave-browser](https://github.com/brave/brave-browser)
+  - Next generation Brave browser for macOS, Windows, Linux, Android.
+- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
+  - 一个基于 electron 的音乐软件
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+  - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
+- [shapez.io](https://github.com/tobspr/shapez.io)
+  - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
+- [discord-api-docs](https://github.com/discord/discord-api-docs)
+  - Official Discord API Documentation
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+  -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
   - Dynamically generated stats for your github readmes
-- [lodash](https://github.com/lodash/lodash)
-  - A modern JavaScript utility library delivering modularity, performance, & extras.
-- [react-native-testing-library](https://github.com/callstack/react-native-testing-library)
-  - Lightweight React Native testing utilities helping you write better tests with less effort
-- [jquery](https://github.com/jquery/jquery)
-  - jQuery JavaScript Library
-- [simple-peer](https://github.com/feross/simple-peer)
-  - 📡 Simple WebRTC video, voice, and data channels
-- [jsoneditor](https://github.com/josdejong/jsoneditor)
-  - A web-based tool to view, edit, format, and validate JSON
-- [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-  - 🚀 A curated list of awesome Github Profile READMEs 📝
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
-- [spug](https://github.com/openspug/spug)
-  - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
-- [CodeceptJS](https://github.com/codeceptjs/CodeceptJS)
-  - Supercharged End 2 End Testing Framework for NodeJS
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [odoo](https://github.com/odoo/odoo)
-  - Odoo. Open Source Apps To Grow Your Business.
-- [hello-algorithm](https://github.com/geekxh/hello-algorithm)
-  - 本项目包括：1、我写的 30w 字图解算法题典 2、100 张各领域超清晰思维导图 3、小浩算法网站源代码
-- [gridstudio](https://github.com/ricklamers/gridstudio)
-  - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
-- [redash](https://github.com/getredash/redash)
-  - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-- [vue](https://github.com/vuejs/vue)
-  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [docker-handbook-projects](https://github.com/fhsinchy/docker-handbook-projects)
-  - Project codes used in "The Docker Handbook" 📓
-- [Detox](https://github.com/wix/Detox)
-  - Gray box end-to-end testing and automation framework for mobile apps
+- [RecordRTC](https://github.com/muaz-khan/RecordRTC)
+  - RecordRTC is WebRTC JavaScript library for audio/video as well as screen activity recording. It supports Chrome, Firefox, Opera, Android, and Microsoft Edge. Platforms: Linux, Mac and Windows.
+- [p5.js](https://github.com/processing/p5.js)
+  - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
+- [discord.js](https://github.com/discordjs/discord.js)
+  - A powerful JavaScript library for interacting with the Discord API
+- [awesome-ctf](https://github.com/apsdehal/awesome-ctf)
+  - A curated list of CTF frameworks, libraries, resources and softwares
+- [backend](https://github.com/AuroraFN/backend)
+  - Contains Party, XMPP and MCP codebase written in Node.JS.
+- [anime](https://github.com/juliangarnier/anime)
+  - JavaScript animation engine
+- [SmartYouTubeTV](https://github.com/yuliskov/SmartYouTubeTV)
+  - Watch YouTube videos on your TV and set-top-box with comfort
