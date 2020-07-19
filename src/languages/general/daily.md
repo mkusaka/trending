@@ -1,51 +1,50 @@
 # general
-- [terraform-cdk](https://github.com/hashicorp/terraform-cdk) : TypeScript
-  - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
-- [NewPipe](https://github.com/TeamNewPipe/NewPipe) : Java
-  - A libre lightweight streaming front-end for Android.
-- [react-spectrum](https://github.com/adobe/react-spectrum) : TypeScript
-  - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
-- [googleapis](https://github.com/googleapis/googleapis) : Starlark
-  - Public interface definitions of Google APIs.
-- [react-use](https://github.com/streamich/react-use) : TypeScript
-  - React Hooks — 👍
-- [capa](https://github.com/fireeye/capa) : Python
-  - The FLARE team's open-source tool to identify capabilities in executable files.
 - [gpt-3](https://github.com/openai/gpt-3) : 
   - GPT-3: Language Models are Few-Shot Learners
-- [x-spreadsheet](https://github.com/myliang/x-spreadsheet) : JavaScript
-  - A web-based JavaScript（canvas） spreadsheet
-- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) : C++
-  - Awesome OCR toolkits based on PaddlePaddle （8.6M ultra-lightweight pre-trained model, support training and deployment among server, mobile, embeded and IoT devices）
-- [PowerShell](https://github.com/PowerShell/PowerShell) : C#
-  - PowerShell for every system!
-- [awesome-datascience](https://github.com/academic/awesome-datascience) : 
-  - 📝 An awesome Data Science repository to learn and apply for real world problems.
-- [super-expressive](https://github.com/francisrstokes/super-expressive) : JavaScript
-  - 🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language
-- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) : 
-  - A collection of various awesome lists for hackers, pentesters and security researchers
-- [ps4jb](https://github.com/sleirsgoevy/ps4jb) : JavaScript
-  - PS4 6.72 jailbreak
+- [ProcMon-for-Linux](https://github.com/microsoft/ProcMon-for-Linux) : C++
+  - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
+- [terraform-cdk](https://github.com/hashicorp/terraform-cdk) : TypeScript
+  - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
+- [forem](https://github.com/forem/forem) : Ruby
+  - For empowering community 🌱
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
   - Roadmap to becoming a web developer in 2020
-- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) : 
-  - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-- [Pokedex](https://github.com/skydoves/Pokedex) : Kotlin
-  - 🗡️ Android Pokedex using Dagger Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
-- [kong](https://github.com/Kong/kong) : Lua
-  - 🦍 The Cloud-Native API Gateway
-- [CTF_Hacker-Tools](https://github.com/Harveysn0w/CTF_Hacker-Tools) : 
-  - CTF-渗透测试~工具合集
-- [QA_bible](https://github.com/Vladislav610/QA_bible) : 
-  - Библия QA это 163 страницы смеси ответов на вопросы с реальных собеседований на manual QA, перевода интересного контента с зарубежных ресурсов и агрегации материала с отечественных.
-- [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) : Python
-  - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
-- [data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap) : Python
-  - Toturial coming with "data science roadmap" graphe.
-- [hedgehog-lab](https://github.com/lidangzzz/hedgehog-lab) : JavaScript
+- [hedgehog-lab](https://github.com/lidangzzz/hedgehog-lab) : TypeScript
   - An open source scientific computing environment for JavaScript TOTALLY in your browser, matrix operations with GPU acceleration, TeX support, data visualization and symbolic computation.
-- [linux](https://github.com/torvalds/linux) : C
-  - Linux kernel source tree
+- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) : 
+  - A collection of various awesome lists for hackers, pentesters and security researchers
+- [lede](https://github.com/coolsnowwolf/lede) : C
+  - Lean's OpenWrt source
 - [rocksdb](https://github.com/facebook/rocksdb) : C++
   - A library that provides an embeddable, persistent key-value store for fast storage.
+- [googleapis](https://github.com/googleapis/googleapis) : Starlark
+  - Public interface definitions of Google APIs.
+- [react-spectrum](https://github.com/adobe/react-spectrum) : TypeScript
+  - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
+- [ailab](https://github.com/microsoft/ailab) : C#
+  - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
+- [flutter_twitter_clone](https://github.com/TheAlphamerc/flutter_twitter_clone) : Dart
+  - Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage
+- [Pokedex](https://github.com/skydoves/Pokedex) : Kotlin
+  - 🗡️ Android Pokedex using Dagger Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
+- [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) : Python
+  - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
+- [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) : JavaScript
+  - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [opencv](https://github.com/opencv/opencv) : C++
+  - Open Source Computer Vision Library
+- [linux](https://github.com/torvalds/linux) : C
+  - Linux kernel source tree
+- [reddit_automations](https://github.com/KalleHallden/reddit_automations) : Python
+- [NewPipe](https://github.com/TeamNewPipe/NewPipe) : Java
+  - A libre lightweight streaming front-end for Android.
+- [react-use](https://github.com/streamich/react-use) : TypeScript
+  - React Hooks — 👍
+- [zulip](https://github.com/zulip/zulip) : Python
+  - Zulip server - powerful open source team chat
+- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) : 
+  - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+- [sodium-fabric](https://github.com/jellysquid3/sodium-fabric) : Java
+  - A Minecraft mod designed to improve frame rates and reduce micro-stutter
