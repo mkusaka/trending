@@ -1,51 +1,51 @@
 # javascript
-- [vue](https://github.com/vuejs/vue)
-  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [edex-ui](https://github.com/GitSquared/edex-ui)
-  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+- [youtubeclone-frontend](https://github.com/manikandanraji/youtubeclone-frontend)
+  - Youtube Clone Frontend (React + Redux)
+- [Web](https://github.com/qianguyihao/Web)
+  - 前端入门到进阶，超详细的Web前端学习图文教程。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。
+- [sqlpad](https://github.com/rickbergfalk/sqlpad)
+  - Web-based SQL editor run in your own private cloud. Supports MySQL, Postgres, SQL Server, Vertica, Crate, ClickHouse, Presto, SAP HANA, Cassandra, Snowflake, BigQuery, SQLite, and more with ODBC
 - [realworld](https://github.com/gothinkster/realworld)
   - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [cypress](https://github.com/cypress-io/cypress)
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [next.js](https://github.com/vercel/next.js)
-  - The React Framework
-- [react-query](https://github.com/tannerlinsley/react-query)
-  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
-- [monaco-editor](https://github.com/microsoft/monaco-editor)
-  - A browser based code editor
-- [react-native-firebase](https://github.com/invertase/react-native-firebase)
-  - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
-- [reactjs.org](https://github.com/reactjs/reactjs.org)
-  - The React documentation website
-- [web-stories-wp](https://github.com/google/web-stories-wp)
-  - Web Stories WordPress plugin
-- [breaking-bad-cast](https://github.com/bradtraversy/breaking-bad-cast)
-  - App to show cast info for breaking bad
-- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
-  - 🚀🚀🚀A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [behave](https://github.com/mindedsecurity/behave)
-  - Behave! A monitoring browser extension for pages acting as "bad boi"
-- [bookshelf](https://github.com/kentcdodds/bookshelf)
-  - Build a ReactJS App workshop
-- [just-react](https://github.com/BetaSu/just-react)
-  - 「React技术揭秘」 一本自顶向下，从理念到代码的源码分析书
-- [lazysizes](https://github.com/aFarkas/lazysizes)
-  - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
-- [nuxt.js](https://github.com/nuxt/nuxt.js)
-  - The Intuitive Vue Framework
-- [Unlock-netease-cloud-music](https://github.com/meng-chuan/Unlock-netease-cloud-music)
-  - 解锁网易云音乐客户端变灰歌曲
-- [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview)
-  - 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
-- [yapi](https://github.com/YMFE/yapi)
-  - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
+- [jquery](https://github.com/jquery/jquery)
+  - jQuery JavaScript Library
+- [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
+  - A collection of awesome readme templates to display on your profile
+- [Tiny-XSS-Payloads](https://github.com/terjanq/Tiny-XSS-Payloads)
+  - A collection of tiny XSS Payloads that can be used in different contexts.
+- [node-react-ecommerce](https://github.com/basir/node-react-ecommerce)
+  - Build ECommerce Website Like Amazon By React & Node & MongoDB
+- [hls.js](https://github.com/video-dev/hls.js)
+  - JavaScript HLS client using Media Source Extension
 - [pipedream](https://github.com/PipedreamHQ/pipedream)
   - Serverless integration and compute platform. Free for developers.
-- [svelte](https://github.com/sveltejs/svelte)
-  - Cybernetically enhanced web apps
+- [FE-Interview](https://github.com/lgwebdream/FE-Interview)
+  - 前端面试必备题库，1000+面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器
+- [youtubeclone-backend](https://github.com/manikandanraji/youtubeclone-backend)
+  - Youtube Clone Backend (Express + Sequelize)
+- [outline](https://github.com/outline/outline)
+  - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
+- [Unlock-netease-cloud-music](https://github.com/meng-chuan/Unlock-netease-cloud-music)
+  - 解锁网易云音乐客户端变灰歌曲
+- [vue](https://github.com/vuejs/vue)
+  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+  - ⭐️ Companies that don't have a broken hiring process
+- [create-react-app](https://github.com/facebook/create-react-app)
+  - Set up a modern web app by running one command.
+- [next.js](https://github.com/vercel/next.js)
+  - The React Framework
+- [quasar](https://github.com/quasarframework/quasar)
+  - Quasar Framework - Build high-performance VueJS user interfaces in record time
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [node](https://github.com/nodejs/node)
+  - Node.js JavaScript runtime ✨🐢🚀✨
+- [phaser](https://github.com/photonstorm/phaser)
+  - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+- [anime](https://github.com/juliangarnier/anime)
+  - JavaScript animation engine
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [webtorrent](https://github.com/webtorrent/webtorrent)
+  - ⚡️ Streaming torrent client for the web
