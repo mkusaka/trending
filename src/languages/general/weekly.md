@@ -1,51 +1,50 @@
 # general
-- [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) : Java
-  - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
-- [skywater-pdk](https://github.com/google/skywater-pdk) : Python
-  - Open source process design kit for usage with SkyWater Technology Foundry's 130nm node.
-- [backstage](https://github.com/spotify/backstage) : TypeScript
-  - Backstage is an open platform for building developer portals
-- [rocketredis](https://github.com/diego3g/rocketredis) : TypeScript
-  - A beautiful Redis GUI 🔥 (under development)
-- [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) : 
-  - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06
-- [metersphere](https://github.com/metersphere/metersphere) : Java
-  - MeterSphere 是一站式的开源企业级持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能，全面兼容 JMeter、Postman 等开源、主流标准。
-- [rich](https://github.com/willmcgugan/rich) : Python
-  - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [vite](https://github.com/vitejs/vite) : TypeScript
-  - Native-ESM powered web dev build tool. It's fast.
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
-  - Roadmap to becoming a web developer in 2020
-- [COLA](https://github.com/alibaba/COLA) : Java
-  - Clean Object-oriented & Layered Architecture
-- [tauri](https://github.com/tauri-apps/tauri) : Rust
-  - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
-- [chat](https://github.com/tinode/chat) : Go
-  - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
-- [abseil-cpp](https://github.com/abseil/abseil-cpp) : C++
-  - Abseil Common Libraries (C++)
-- [lede](https://github.com/coolsnowwolf/lede) : C
-  - Lean's OpenWrt source
-- [OnJava8](https://github.com/LingCoder/OnJava8) : 
-  - 《On Java 8》中文版，又名《Java编程思想》 第5版
-- [flink-learning](https://github.com/zhisheng17/flink-learning) : Java
-  - flink learning blog. http://www.54tianzhisheng.cn 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》
-- [faiss](https://github.com/facebookresearch/faiss) : C++
-  - A library for efficient similarity search and clustering of dense vectors.
-- [swr](https://github.com/vercel/swr) : TypeScript
-  - React Hooks library for remote data fetching
-- [foam-template](https://github.com/foambubble/foam-template) : CSS
-  - Foam workpace template
-- [openpilot](https://github.com/commaai/openpilot) : C++
-  - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
-- [vue](https://github.com/vuejs/vue) : JavaScript
-  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [EasyOCR](https://github.com/JaidedAI/EasyOCR) : Python
-  - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
-- [edex-ui](https://github.com/GitSquared/edex-ui) : JavaScript
-  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) : Python
-  - This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.
-- [covid-tracker-app](https://github.com/HSEIreland/covid-tracker-app) : TypeScript
-  - COVID Tracker App Repository
+- [youtubeclone-frontend](https://github.com/manikandanraji/youtubeclone-frontend) : JavaScript
+  - Youtube Clone Frontend (React + Redux)
+- [gpt-3](https://github.com/openai/gpt-3) : 
+  - GPT-3: Language Models are Few-Shot Learners
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) : C++
+  - Awesome OCR toolkits based on PaddlePaddle （8.6M ultra-lightweight pre-trained model, support training and deployment among server, mobile, embeded and IoT devices）
+- [RedditOS](https://github.com/Dimillian/RedditOS) : Swift
+  - A SwiftUI Reddit client for macOS Big Sur
+- [clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) : C#
+  - 🌀 Clean Architecture with .NET Core 3.1, C# 8 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks
+- [NewPipe](https://github.com/TeamNewPipe/NewPipe) : Java
+  - A libre lightweight streaming front-end for Android.
+- [googleapis](https://github.com/googleapis/googleapis) : Starlark
+  - Public interface definitions of Google APIs.
+- [Rocket](https://github.com/SergioBenitez/Rocket) : Rust
+  - A web framework for Rust.
+- [Web](https://github.com/qianguyihao/Web) : JavaScript
+  - 前端入门到进阶，超详细的Web前端学习图文教程。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。
+- [dlwpt-code](https://github.com/deep-learning-with-pytorch/dlwpt-code) : Jupyter Notebook
+  - Code for the book Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann.
+- [SwiftUI-Kit](https://github.com/jordansinger/SwiftUI-Kit) : Swift
+  - A SwiftUI system components and interactions demo app
+- [hackingtool](https://github.com/Z4nzu/hackingtool) : Python
+  - ALL IN ONE Hacking Tool For Hackers
+- [PowerJob](https://github.com/KFCFans/PowerJob) : Java
+  - 新一代分布式任务调度与计算框架，支持CRON、API、固定频率、固定延迟等调度策略，提供工作流来编排任务解决依赖关系，使用简单，功能强大，文档齐全，欢迎各位接入使用！
+- [sqlpad](https://github.com/rickbergfalk/sqlpad) : JavaScript
+  - Web-based SQL editor run in your own private cloud. Supports MySQL, Postgres, SQL Server, Vertica, Crate, ClickHouse, Presto, SAP HANA, Cassandra, Snowflake, BigQuery, SQLite, and more with ODBC
+- [vue-next](https://github.com/vuejs/vue-next) : TypeScript
+  - Repo for Vue 3.0 (currently in beta)
+- [cheatsheets](https://github.com/matplotlib/cheatsheets) : Python
+  - Official Matplotlib cheat sheets
+- [incubator-apisix](https://github.com/apache/incubator-apisix) : Lua
+  - The Cloud-Native API Gateway
+- [pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) : Python
+  - The lightweight PyTorch wrapper for ML researchers. Scale your models. Write less boilerplate
+- [framework](https://github.com/laravel/framework) : PHP
+- [Pokedex](https://github.com/skydoves/Pokedex) : Kotlin
+  - 🗡️ Android Pokedex using Dagger Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
+- [realworld](https://github.com/gothinkster/realworld) : JavaScript
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [protobuf](https://github.com/protocolbuffers/protobuf) : C++
+  - Protocol Buffers - Google's data interchange format
+- [QUANTAXIS](https://github.com/QUANTAXIS/QUANTAXIS) : Python
+  - QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权/港股/虚拟货币 数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案
+- [copilot-cli](https://github.com/aws/copilot-cli) : Go
+  - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on Amazon ECS and AWS Fargate.
+- [pandas_exercises](https://github.com/guipsamora/pandas_exercises) : Jupyter Notebook
+  - Practice your pandas skills!

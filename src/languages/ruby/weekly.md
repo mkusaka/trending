@@ -1,51 +1,51 @@
 # ruby
-- [chatwoot](https://github.com/chatwoot/chatwoot)
-  - Open-source live chat software 🔥💬
-- [dev.to](https://github.com/thepracticaldev/dev.to)
-  - Where programmers share ideas and help each other grow
-- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-  - A curated list of awesome awesomeness
-- [brew](https://github.com/Homebrew/brew)
-  - 🍺 The missing package manager for macOS (or Linux)
-- [homebrew-core](https://github.com/Homebrew/homebrew-core)
-  - 🍻 Default formulae for the missing package manager for macOS
-- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
-  - Metasploit Framework
-- [huginn](https://github.com/huginn/huginn)
-  - Create agents that monitor and act on your behalf. Your agents are standing by!
-- [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts)
-  - 🚨 Collection of Prometheus alerting rules
-- [devdocs](https://github.com/freeCodeCamp/devdocs)
-  - API Documentation Browser
-- [setup](https://github.com/lewagon/setup)
-  - Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp
-- [devise](https://github.com/heartcombo/devise)
-  - Flexible authentication solution for Rails with Warden.
+- [forem](https://github.com/forem/forem)
+  - For empowering community 🌱
+- [mastodon](https://github.com/tootsuite/mastodon)
+  - Your self-hosted, globally interconnected microblogging community
 - [jekyll](https://github.com/jekyll/jekyll)
   - 🌐 Jekyll is a blog-aware static site generator in Ruby
-- [dependabot-core](https://github.com/dependabot/dependabot-core)
-  - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot
-- [decidim](https://github.com/decidim/decidim)
-  - The participatory democracy framework. A generator and multiple gems made with Ruby on Rails
-- [react-native-config](https://github.com/luggit/react-native-config)
-  - Bring some 12 factor love to your mobile apps!
-- [redmine](https://github.com/redmine/redmine)
-  - Mirror of redmine code source - Official SVN repository is at https://svn.redmine.org/redmine - contact: @jbbarth or jeanbaptiste.barth (at) gmail (dot) com
-- [rack](https://github.com/rack/rack)
-  - A modular Ruby web server interface.
-- [savon](https://github.com/savonrb/savon)
-  - Heavy metal SOAP client
-- [pundit](https://github.com/varvet/pundit)
-  - Minimal authorization through OO design and pure Ruby classes
-- [capybara](https://github.com/teamcapybara/capybara)
-  - Acceptance test framework for web applications
+- [rails](https://github.com/rails/rails)
+  - Ruby on Rails
+- [solidus](https://github.com/solidusio/solidus)
+  - 🛒Solidus, Rails eCommerce System
+- [choosealicense.com](https://github.com/github/choosealicense.com)
+  - A site to provide non-judgmental guidance on choosing a license for your open source project
+- [devise](https://github.com/heartcombo/devise)
+  - Flexible authentication solution for Rails with Warden.
+- [ahoy](https://github.com/ankane/ahoy)
+  - Simple, powerful, first-party analytics for Rails
+- [simple_form](https://github.com/heartcombo/simple_form)
+  - Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
+- [evil-winrm](https://github.com/Hackplayers/evil-winrm)
+  - The ultimate WinRM shell for hacking/pentesting
 - [ruby](https://github.com/ruby/ruby)
   - The Ruby Programming Language [mirror]
-- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
-  - Ruby implementation of GraphQL
-- [Learning-SICP](https://github.com/DeathKing/Learning-SICP)
-  - MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。
-- [webpacker](https://github.com/rails/webpacker)
-  - Use Webpack to manage app-like JavaScript modules in Rails
+- [markup](https://github.com/github/markup)
+  - Determines which markup library to use to render a content file (e.g. README) on GitHub
+- [bootstrap-sass](https://github.com/twbs/bootstrap-sass)
+  - Official Sass port of Bootstrap 2 and 3.
+- [canvas-lms](https://github.com/instructure/canvas-lms)
+  - The open LMS by Instructure, Inc.
+- [fast_jsonapi](https://github.com/Netflix/fast_jsonapi)
+  - A lightning fast JSON:API serializer for Ruby Objects.
+- [click-to-deploy](https://github.com/GoogleCloudPlatform/click-to-deploy)
+  - Source for Google Click to Deploy solutions listed on Google Cloud Marketplace.
+- [pundit](https://github.com/varvet/pundit)
+  - Minimal authorization through OO design and pure Ruby classes
+- [activeadmin](https://github.com/activeadmin/activeadmin)
+  - The administration framework for Ruby on Rails applications.
+- [aasm](https://github.com/aasm/aasm)
+  - AASM - State machines for Ruby classes (plain Ruby, ActiveRecord, Mongoid, NoBrainer)
+- [brew](https://github.com/Homebrew/brew)
+  - 🍺 The missing package manager for macOS (or Linux)
 - [grape](https://github.com/ruby-grape/grape)
   - An opinionated framework for creating REST-like APIs in Ruby.
+- [webpacker](https://github.com/rails/webpacker)
+  - Use Webpack to manage app-like JavaScript modules in Rails
+- [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews)
+  - Data science interview questions and answers
+- [scalelite](https://github.com/blindsidenetworks/scalelite)
+  - Scalable load balancer for BigBlueButton.
+- [quine-relay](https://github.com/mame/quine-relay)
+  - An uroboros program with 100+ programming languages

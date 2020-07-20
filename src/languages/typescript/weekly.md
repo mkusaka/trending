@@ -1,51 +1,51 @@
 # typescript
-- [backstage](https://github.com/spotify/backstage)
-  - Backstage is an open platform for building developer portals
-- [rocketredis](https://github.com/diego3g/rocketredis)
-  - A beautiful Redis GUI 🔥 (under development)
-- [vite](https://github.com/vitejs/vite)
-  - Native-ESM powered web dev build tool. It's fast.
-- [swr](https://github.com/vercel/swr)
-  - React Hooks library for remote data fetching
-- [covid-tracker-app](https://github.com/HSEIreland/covid-tracker-app)
-  - COVID Tracker App Repository
-- [midway](https://github.com/midwayjs/midway)
-  - 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Aliyun, Tencent-Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [snabbdom](https://github.com/snabbdom/snabbdom)
-  - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
-- [angular-cli](https://github.com/angular/angular-cli)
-  - CLI tool for Angular
-- [recharts](https://github.com/recharts/recharts)
-  - Redefined chart library built with React and D3
-- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-  - The repository for high quality TypeScript type definitions.
 - [vue-next](https://github.com/vuejs/vue-next)
   - Repo for Vue 3.0 (currently in beta)
-- [aws-cdk](https://github.com/aws/aws-cdk)
-  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
-- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
-  - The source for REST API specifications for Microsoft Azure.
-- [xterm.js](https://github.com/xtermjs/xterm.js)
-  - A terminal for the web
-- [instagram-private-api](https://github.com/dilame/instagram-private-api)
-  - NodeJS Instagram private API client. Written in TypeScript.
-- [n8n](https://github.com/n8n-io/n8n)
-  - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
-- [pdf-lib](https://github.com/Hopding/pdf-lib)
-  - Create and modify PDF documents in any JavaScript environment
-- [prisma](https://github.com/prisma/prisma)
-  - Modern DB toolkit to query, migrate and model your database
-- [TypeScript-Website](https://github.com/microsoft/TypeScript-Website)
-  - The Website and web infrastructure for learning TypeScript
-- [storybook](https://github.com/storybookjs/storybook)
-  - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
-- [github-script](https://github.com/actions/github-script)
-  - 
-- [checkout](https://github.com/actions/checkout)
-  - Action for checking out a repo
-- [amplify-cli](https://github.com/aws-amplify/amplify-cli)
-  - A CLI toolchain for simplifying serverless web and mobile development.
-- [jira-clone-angular](https://github.com/trungk18/jira-clone-angular)
-  - A simplified Jira clone built with Angular 9, ng-zorro and Akita
+- [notable](https://github.com/notable/notable)
+  - The Markdown-based note-taking app that doesn't suck.
+- [vscode](https://github.com/microsoft/vscode)
+  - Visual Studio Code
+- [react-use](https://github.com/streamich/react-use)
+  - React Hooks — 👍
+- [TypeScript](https://github.com/microsoft/TypeScript)
+  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [angular](https://github.com/angular/angular)
+  - One framework. Mobile & desktop.
+- [cdk8s](https://github.com/awslabs/cdk8s)
+  - Define Kubernetes native apps and abstractions using object-oriented programming
+- [motion](https://github.com/framer/motion)
+  - Open source, production-ready animation and gesture library for React
+- [swr](https://github.com/vercel/swr)
+  - React Hooks library for remote data fetching
+- [nest](https://github.com/nestjs/nest)
+  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [react-native-webview](https://github.com/react-native-community/react-native-webview)
+  - React Native Cross-Platform WebView
+- [amplify-js](https://github.com/aws-amplify/amplify-js)
+  - A declarative JavaScript library for application development using cloud services.
+- [angular-cli](https://github.com/angular/angular-cli)
+  - CLI tool for Angular
+- [firebase-tools](https://github.com/firebase/firebase-tools)
+  - The Firebase Command Line Tools
+- [apollo-client](https://github.com/apollographql/apollo-client)
+  - 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
+- [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native)
+  - ⚛️📺 Projects from the “Can it be done in React Native?” YouTube series
+- [face-api.js](https://github.com/justadudewhohacks/face-api.js)
+  - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
+- [redux](https://github.com/reduxjs/redux)
+  - Predictable state container for JavaScript apps
+- [nx](https://github.com/nrwl/nx)
+  - Extensible Dev Tools for Monorepos
+- [moveable](https://github.com/daybrush/moveable)
+  - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
+- [grafana](https://github.com/grafana/grafana)
+  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [expo-cli](https://github.com/expo/expo-cli)
+  - Tools for creating, running, and deploying Universal Expo and React Native apps
+- [umi](https://github.com/umijs/umi)
+  - 🌋 Pluggable enterprise-level react application framework.
+- [material-components-web](https://github.com/material-components/material-components-web)
+  - Modular and customizable Material Design UI components for the web
+- [ant-design](https://github.com/ant-design/ant-design)
+  - 🌈 A UI Design Language and React UI library
