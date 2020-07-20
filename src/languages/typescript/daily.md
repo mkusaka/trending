@@ -1,51 +1,51 @@
 # typescript
-- [terraform-cdk](https://github.com/hashicorp/terraform-cdk)
-  - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
-- [react-spectrum](https://github.com/adobe/react-spectrum)
-  - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
-- [react-use](https://github.com/streamich/react-use)
-  - React Hooks — 👍
+- [hedgehog-lab](https://github.com/lidangzzz/hedgehog-lab)
+  - An open source scientific computing environment for JavaScript TOTALLY in your browser, matrix operations with GPU acceleration, TeX support, data visualization and symbolic computation.
 - [vue-next](https://github.com/vuejs/vue-next)
   - Repo for Vue 3.0 (currently in beta)
-- [angularfire](https://github.com/angular/angularfire)
-  - The official Angular library for Firebase.
-- [shoelace](https://github.com/shoelace-style/shoelace)
-  - A collection of professionally designed, every day UI components built on a framework-agnostic technology.
-- [notable](https://github.com/notable/notable)
-  - The Markdown-based note-taking app that doesn't suck.
-- [face-api.js](https://github.com/justadudewhohacks/face-api.js)
-  - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
-- [instagram-private-api](https://github.com/dilame/instagram-private-api)
-  - NodeJS Instagram private API client. Written in TypeScript.
-- [FigmaToCode](https://github.com/bernaferrari/FigmaToCode)
-  - From design to responsive pages and apps on Tailwind and Flutter.
-- [hyper](https://github.com/vercel/hyper)
-  - A terminal built on web technologies
+- [frontend](https://github.com/home-assistant/frontend)
+  - 🍭 Frontend for Home Assistant
 - [homebridge](https://github.com/homebridge/homebridge)
   - HomeKit support for the impatient
-- [awakened-poe-trade](https://github.com/SnosMe/awakened-poe-trade)
-  - 💲 🔨 Path of Exile trading app for price checking
-- [terminus](https://github.com/Eugeny/terminus)
-  - A terminal for a more modern age
-- [ever](https://github.com/ever-co/ever)
-  - Ever® - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
-- [pyright](https://github.com/microsoft/pyright)
-  - Static type checker for Python
-- [billboard.js](https://github.com/naver/billboard.js)
-  - 📊 Re-usable, easy interface JavaScript chart library based on D3.js
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [telegraf](https://github.com/telegraf/telegraf)
-  - Modern Telegram Bot Framework for Node.js
-- [streamlabs-obs](https://github.com/stream-labs/streamlabs-obs)
-  - Free and open source streaming software built on OBS and Electron.
-- [vite](https://github.com/vitejs/vite)
-  - Native-ESM powered web dev build tool. It's fast.
-- [TypeScript](https://github.com/microsoft/TypeScript)
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [sapper](https://github.com/sveltejs/sapper)
-  - The next small thing in web development, powered by Svelte
+- [angularfire](https://github.com/angular/angularfire)
+  - The official Angular library for Firebase.
+- [foam](https://github.com/foambubble/foam)
+  - A personal knowledge management and sharing system for VSCode
+- [coc.nvim](https://github.com/neoclide/coc.nvim)
+  - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
+- [notable](https://github.com/notable/notable)
+  - The Markdown-based note-taking app that doesn't suck.
+- [react-spectrum](https://github.com/adobe/react-spectrum)
+  - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
+- [terraform-cdk](https://github.com/hashicorp/terraform-cdk)
+  - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
+- [playground](https://github.com/tensorflow/playground)
+  - Play with neural networks!
+- [react-use](https://github.com/streamich/react-use)
+  - React Hooks — 👍
+- [react-cosmos](https://github.com/react-cosmos/react-cosmos)
+  - Dev environment for building scalable, high-quality user interfaces
+- [formik](https://github.com/formium/formik)
+  - Build forms in React, without the tears 😭
 - [typeorm](https://github.com/typeorm/typeorm)
   - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-- [react-native-redash](https://github.com/wcandillon/react-native-redash)
-  - The React Native Reanimated and Gesture Handler Toolbelt
+- [billboard.js](https://github.com/naver/billboard.js)
+  - 📊 Re-usable, easy interface JavaScript chart library based on D3.js
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
+  - 📋 React Hooks for forms validation (Web + React Native)
+- [rsuite](https://github.com/rsuite/rsuite)
+  - 🧱 A suite of React components .
+- [pyright](https://github.com/microsoft/pyright)
+  - Static type checker for Python
+- [telegraf](https://github.com/telegraf/telegraf)
+  - Modern Telegram Bot Framework for Node.js
+- [fullstack-tutorial](https://github.com/apollographql/fullstack-tutorial)
+  - 🚀 The Apollo platform tutorial app
+- [FigmaToCode](https://github.com/bernaferrari/FigmaToCode)
+  - From design to responsive pages and apps on Tailwind and Flutter.
+- [docs](https://github.com/aws-amplify/docs)
+  - Amplify Framework Documentation
+- [rxdb](https://github.com/pubkey/rxdb)
+  - 💻 🔄 📱 A realtime Database for JavaScript Applications
+- [express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate)
+  - A delightful way to building a RESTful API with NodeJs & TypeScript by @w3tecch

@@ -1,50 +1,49 @@
 # general
 - [gpt-3](https://github.com/openai/gpt-3) : 
   - GPT-3: Language Models are Few-Shot Learners
-- [ProcMon-for-Linux](https://github.com/microsoft/ProcMon-for-Linux) : C++
-  - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
-- [terraform-cdk](https://github.com/hashicorp/terraform-cdk) : TypeScript
-  - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 - [forem](https://github.com/forem/forem) : Ruby
   - For empowering community 🌱
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
-  - Roadmap to becoming a web developer in 2020
+- [docs-next](https://github.com/vuejs/docs-next) : Vue
+  - Vue 3 core documentation
 - [hedgehog-lab](https://github.com/lidangzzz/hedgehog-lab) : TypeScript
   - An open source scientific computing environment for JavaScript TOTALLY in your browser, matrix operations with GPU acceleration, TeX support, data visualization and symbolic computation.
-- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) : 
-  - A collection of various awesome lists for hackers, pentesters and security researchers
-- [lede](https://github.com/coolsnowwolf/lede) : C
-  - Lean's OpenWrt source
-- [rocksdb](https://github.com/facebook/rocksdb) : C++
-  - A library that provides an embeddable, persistent key-value store for fast storage.
-- [googleapis](https://github.com/googleapis/googleapis) : Starlark
-  - Public interface definitions of Google APIs.
-- [react-spectrum](https://github.com/adobe/react-spectrum) : TypeScript
-  - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
-- [ailab](https://github.com/microsoft/ailab) : C#
-  - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
-- [flutter_twitter_clone](https://github.com/TheAlphamerc/flutter_twitter_clone) : Dart
-  - Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage
-- [Pokedex](https://github.com/skydoves/Pokedex) : Kotlin
-  - 🗡️ Android Pokedex using Dagger Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
-- [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) : Python
-  - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
-- [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) : JavaScript
-  - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.
+- [core](https://github.com/home-assistant/core) : Python
+  - 🏡 Open source home automation that puts local control and privacy first
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
   - A complete computer science study plan to become a software engineer.
-- [opencv](https://github.com/opencv/opencv) : C++
-  - Open Source Computer Vision Library
-- [linux](https://github.com/torvalds/linux) : C
-  - Linux kernel source tree
-- [reddit_automations](https://github.com/KalleHallden/reddit_automations) : Python
-- [NewPipe](https://github.com/TeamNewPipe/NewPipe) : Java
-  - A libre lightweight streaming front-end for Android.
-- [react-use](https://github.com/streamich/react-use) : TypeScript
-  - React Hooks — 👍
+- [Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) : Dart
+  - completely free for everyone. Its build-in Flutter Dart.
+- [flutter_twitter_clone](https://github.com/TheAlphamerc/flutter_twitter_clone) : Dart
+  - Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage
 - [zulip](https://github.com/zulip/zulip) : Python
   - Zulip server - powerful open source team chat
+- [opencv](https://github.com/opencv/opencv) : C++
+  - Open Source Computer Vision Library
+- [abp](https://github.com/abpframework/abp) : C#
+  - Open Source Web Application Framework for ASP.NET Core
+- [computer-science](https://github.com/ossu/computer-science) : 
+  - 🎓 Path to a free self-taught education in Computer Science!
+- [ailab](https://github.com/microsoft/ailab) : C#
+  - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
+- [myvision](https://github.com/OvidijusParsiunas/myvision) : JavaScript
+  - Computer vision based ML training data generation tool. 🚀
+- [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) : Python
+  - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
+- [elyra](https://github.com/elyra-ai/elyra) : Python
+  - Elyra extends JupyterLab Notebooks with an AI centric approach.
+- [NativeAlphaForAndroid](https://github.com/cylonid/NativeAlphaForAndroid) : Java
+- [gpt-3-experiments](https://github.com/minimaxir/gpt-3-experiments) : Python
+  - Test prompts for OpenAI's GPT-3 API and the resulting AI-generated texts.
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) : 
   - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-- [sodium-fabric](https://github.com/jellysquid3/sodium-fabric) : Java
-  - A Minecraft mod designed to improve frame rates and reduce micro-stutter
+- [lede](https://github.com/coolsnowwolf/lede) : C
+  - Lean's OpenWrt source
+- [airlines-to-china-covid-19](https://github.com/USCreditCardGuide/airlines-to-china-covid-19) : 
+  - 疫情期间的回国航班汇总
+- [reddit_automations](https://github.com/KalleHallden/reddit_automations) : Python
+- [awesome-mlops](https://github.com/visenger/awesome-mlops) : 
+  - A curated list of references for MLOps
+- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) : JavaScript
+  - Bypass Paywalls web browser extension for Chrome and Firefox.
+- [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) : JavaScript
+  - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.

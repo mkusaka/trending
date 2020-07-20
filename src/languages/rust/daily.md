@@ -1,51 +1,51 @@
 # rust
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [druid](https://github.com/linebender/druid)
-  - A data-first Rust-native UI design toolkit.
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [Rocket](https://github.com/SergioBenitez/Rocket)
-  - A web framework for Rust.
-- [RustPython](https://github.com/RustPython/RustPython)
-  - A Python Interpreter written in Rust
-- [tock](https://github.com/tock/tock)
-  - A secure embedded operating system for microcontrollers
-- [tide](https://github.com/http-rs/tide)
-  - Fast and friendly HTTP server framework for async Rust
-- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
-  - 📚 Learn to write an embedded OS in Rust 🦀
-- [tui-rs](https://github.com/fdehau/tui-rs)
-  - Build terminal user interfaces and dashboards using Rust
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
-- [nushell](https://github.com/nushell/nushell)
-  - A new type of shell
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
-- [rustlings](https://github.com/rust-lang/rustlings)
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
 - [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
   - Rust bindings to wgpu native library
-- [book](https://github.com/rust-lang/book)
-  - The Rust Programming Language
-- [conrod](https://github.com/PistonDevelopers/conrod)
-  - An easy-to-use, 2D GUI library written entirely in Rust.
-- [iced](https://github.com/hecrj/iced)
-  - A cross-platform GUI library for Rust, inspired by Elm
-- [spotify-tui](https://github.com/Rigellute/spotify-tui)
-  - Spotify for the terminal written in Rust 🚀
-- [librespot](https://github.com/librespot-org/librespot)
-  - Open Source Spotify client library
+- [amethyst](https://github.com/amethyst/amethyst)
+  - Data-oriented and data-driven game engine written in Rust
+- [rustlings](https://github.com/rust-lang/rustlings)
+  - 🦀 Small exercises to get you used to reading and writing Rust code!
+- [clap](https://github.com/clap-rs/clap)
+  - A full featured, fast Command Line Argument Parser for Rust
+- [nushell](https://github.com/nushell/nushell)
+  - A new type of shell
+- [ggez](https://github.com/ggez/ggez)
+  - Rust library to create a Good Game Easily
+- [zola](https://github.com/getzola/zola)
+  - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+- [RustPython](https://github.com/RustPython/RustPython)
+  - A Python Interpreter written in Rust
+- [cargo](https://github.com/rust-lang/cargo)
+  - The Rust package manager
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
+- [druid](https://github.com/linebender/druid)
+  - A data-first Rust-native UI design toolkit.
+- [spotifyd](https://github.com/Spotifyd/spotifyd)
+  - A spotify daemon
+- [tide](https://github.com/http-rs/tide)
+  - Fast and friendly HTTP server framework for async Rust
+- [sqlx](https://github.com/launchbadge/sqlx)
+  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+- [warp](https://github.com/seanmonstar/warp)
+  - A super-easy, composable, web server framework for warp speeds.
+- [penrose](https://github.com/sminez/penrose)
+  - A tiling window manager in the spirit of dwm / Xmonad but written in Rust (Very much a work in progress!)
+- [probe-rs](https://github.com/probe-rs/probe-rs)
+  - A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host
 - [kube-rs](https://github.com/clux/kube-rs)
   - kubernetes client and futures controller runtime
-- [rustup](https://github.com/rust-lang/rustup)
-  - The Rust toolchain installer
-- [wgpu](https://github.com/gfx-rs/wgpu)
-  - Native WebGPU implementation based on gfx-hal
-- [diesel](https://github.com/diesel-rs/diesel)
-  - A safe, extensible ORM and Query Builder for Rust
+- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+  - 📚 Learn to write an embedded OS in Rust 🦀
+- [iced](https://github.com/hecrj/iced)
+  - A cross-platform GUI library for Rust, inspired by Elm
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
+- [starship](https://github.com/starship/starship)
+  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [tunnelto](https://github.com/agrinman/tunnelto)
+  - Expose your local web server to the internet with a public URL.
+- [rls](https://github.com/rust-lang/rls)
+  - Repository for the Rust Language Server (aka RLS)
+- [exa](https://github.com/ogham/exa)
+  - A modern version of ‘ls’.

@@ -1,51 +1,51 @@
 # ruby
 - [forem](https://github.com/forem/forem)
   - For empowering community 🌱
-- [administrate](https://github.com/thoughtbot/administrate)
-  - A Rails engine that helps you put together a super-flexible admin dashboard.
-- [faker](https://github.com/faker-ruby/faker)
-  - A library for generating fake data such as names, addresses, and phone numbers.
-- [rubocop](https://github.com/rubocop-hq/rubocop)
-  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [onetimesecret](https://github.com/onetimesecret/onetimesecret)
-  - Keep sensitive info out of your email & chat logs.
-- [evil-winrm](https://github.com/Hackplayers/evil-winrm)
-  - The ultimate WinRM shell for hacking/pentesting
-- [otwarchive](https://github.com/otwcode/otwarchive)
-  - The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project
-- [rspec](https://github.com/rspec/rspec)
-  - RSpec meta-gem that depends on the other components
-- [capistrano](https://github.com/capistrano/capistrano)
-  - Remote multi-server automation tool
-- [gitlabhq](https://github.com/gitlabhq/gitlabhq)
-  - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
-- [explore](https://github.com/github/explore)
-  - Community-curated topic and collection pages on GitHub
-- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
-  - Ruby implementation of GraphQL
-- [wpscan](https://github.com/wpscanteam/wpscan)
-  - WPScan is a free, for non-commercial use, black box WordPress security scanner written for security professionals and blog maintainers to test the security of their WordPress websites.
-- [choosealicense.com](https://github.com/github/choosealicense.com)
-  - A site to provide non-judgmental guidance on choosing a license for your open source project
-- [danbooru](https://github.com/danbooru/danbooru)
-  - A taggable image board written in Rails 6.
-- [mastodon](https://github.com/tootsuite/mastodon)
-  - Your self-hosted, globally interconnected microblogging community
-- [zammad](https://github.com/zammad/zammad)
-  - Zammad is a web based open source helpdesk/customer support system
 - [metasploit-framework](https://github.com/rapid7/metasploit-framework)
   - Metasploit Framework
-- [colorls](https://github.com/athityakumar/colorls)
-  - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. 🎉
-- [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening)
-  - This Ansible role provides numerous security-related configurations, providing all-round base protection.
-- [fusuma](https://github.com/iberianpig/fusuma)
-  - Multitouch gestures with libinput driver on Linux
-- [ransack](https://github.com/activerecord-hackery/ransack)
-  - Object-based searching.
-- [rails-i18n](https://github.com/svenfuchs/rails-i18n)
-  - Repository for collecting Locale data for Ruby on Rails I18n as well as other interesting, Rails related I18n stuff
-- [activeadmin](https://github.com/activeadmin/activeadmin)
-  - The administration framework for Ruby on Rails applications.
+- [mastodon](https://github.com/tootsuite/mastodon)
+  - Your self-hosted, globally interconnected microblogging community
+- [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews)
+  - Data science interview questions and answers
+- [jekyll](https://github.com/jekyll/jekyll)
+  - 🌐 Jekyll is a blog-aware static site generator in Ruby
 - [sonic-pi](https://github.com/sonic-pi-net/sonic-pi)
   - Code. Music. Live.
+- [canvas-lms](https://github.com/instructure/canvas-lms)
+  - The open LMS by Instructure, Inc.
+- [rails](https://github.com/rails/rails)
+  - Ruby on Rails
+- [brew](https://github.com/Homebrew/brew)
+  - 🍺 The missing package manager for macOS (or Linux)
+- [homebrew-emacs-plus](https://github.com/d12frosted/homebrew-emacs-plus)
+  - Emacs Plus formulae for the Homebrew package manager
+- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+  - A curated list of awesome awesomeness
+- [nationbuilder-rb](https://github.com/nationbuilder/nationbuilder-rb)
+  - A Ruby client for the NationBuilder API
+- [db-charmer](https://github.com/kovyrin/db-charmer)
+  - ActiveRecord Connections Magic (slaves, multiple connections, sharding, etc)
+- [gelf-rb](https://github.com/graylog-labs/gelf-rb)
+  - Ruby GELF library (Graylog Extended Log Format)
+- [ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db)
+  - A database of vulnerable Ruby Gems
+- [rails-form_for-lab-nyc04-seng-ft-053120](https://github.com/learn-co-students/rails-form_for-lab-nyc04-seng-ft-053120)
+  - 
+- [js-rails-as-api-custom-json-rendering-using-rails-nyc01-seng-ft-060120](https://github.com/learn-co-students/js-rails-as-api-custom-json-rendering-using-rails-nyc01-seng-ft-060120)
+  - 
+- [js-rails-as-api-rendering-different-content-types-using-rails-nyc01-seng-ft-060120](https://github.com/learn-co-students/js-rails-as-api-rendering-different-content-types-using-rails-nyc01-seng-ft-060120)
+  - 
+- [js-rails-as-api-review-of-rails-mvc-nyc01-seng-ft-060120](https://github.com/learn-co-students/js-rails-as-api-review-of-rails-mvc-nyc01-seng-ft-060120)
+  - 
+- [omnicalc-1](https://github.com/appdev-projects/omnicalc-1)
+  - 
+- [rack-dynamic-web-apps-onl01-seng-pt-050420](https://github.com/learn-co-students/rack-dynamic-web-apps-onl01-seng-pt-050420)
+  - 
+- [rack-intro-onl01-seng-pt-050420](https://github.com/learn-co-students/rack-intro-onl01-seng-pt-050420)
+  - 
+- [rack-responses-lab-onl01-seng-pt-050420](https://github.com/learn-co-students/rack-responses-lab-onl01-seng-pt-050420)
+  - 
+- [box-style-lab-re-coded_sanaa_web001](https://github.com/learn-co-students/box-style-lab-re-coded_sanaa_web001)
+  - 
+- [code-challenge](https://github.com/main-street/code-challenge)
+  - A very basic rails app to be used to assessment and testing purposes only.
