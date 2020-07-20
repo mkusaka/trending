@@ -1,51 +1,51 @@
 # javascript
-- [hedgehog-lab](https://github.com/lidangzzz/hedgehog-lab)
-  - An open source scientific computing environment for JavaScript TOTALLY in your browser, matrix operations with GPU acceleration, TeX support, data visualization and symbolic computation.
+- [myvision](https://github.com/OvidijusParsiunas/myvision)
+  - Computer vision based ML training data generation tool. 🚀
+- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
+  - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder)
   - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.
-- [webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop)
-  - ❤️ Streaming torrent app for Mac, Windows, and Linux
-- [next.js](https://github.com/vercel/next.js)
-  - The React Framework
-- [super-expressive](https://github.com/francisrstokes/super-expressive)
-  - 🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language
-- [tsdx](https://github.com/formium/tsdx)
-  - Zero-config CLI for TypeScript package development
-- [covid19india-react](https://github.com/covid19india/covid19india-react)
-  - Tracking the impact of COVID-19 in India
-- [ps4jb](https://github.com/sleirsgoevy/ps4jb)
-  - PS4 6.72 jailbreak
-- [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-  - 😎 A curated list of awesome Github Profile READMEs 📝
-- [x-spreadsheet](https://github.com/myliang/x-spreadsheet)
-  - A web-based JavaScript（canvas） spreadsheet
-- [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
-  - 🚀 Generate github profile README easily with latest add-ons like visitors count, github stats, etc using minimal UI.
-- [brave-browser](https://github.com/brave/brave-browser)
-  - Next generation Brave browser for macOS, Windows, Linux, Android.
-- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
-  - 一个基于 electron 的音乐软件
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-  - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
-- [shapez.io](https://github.com/tobspr/shapez.io)
-  - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
-- [discord-api-docs](https://github.com/discord/discord-api-docs)
-  - Official Discord API Documentation
-- [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
-  -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-  - Dynamically generated stats for your github readmes
-- [RecordRTC](https://github.com/muaz-khan/RecordRTC)
-  - RecordRTC is WebRTC JavaScript library for audio/video as well as screen activity recording. It supports Chrome, Firefox, Opera, Android, and Microsoft Edge. Platforms: Linux, Mac and Windows.
+- [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
+  - 📜 33 concepts every JavaScript developer should know.
+- [lodash](https://github.com/lodash/lodash)
+  - A modern JavaScript utility library delivering modularity, performance, & extras.
+- [MagicMirror](https://github.com/MichMich/MagicMirror)
+  - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 - [p5.js](https://github.com/processing/p5.js)
   - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
+- [hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia)
+  - 一个简洁优雅的hexo主题 A simple and elegant theme for hexo.
+- [vuepress](https://github.com/vuejs/vuepress)
+  - 📝 Minimalistic Vue-powered static site generator
+- [iptv](https://github.com/iptv-org/iptv)
+  - Collection of 8000+ publicly available IPTV channels from all over the world
+- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
+  - 🕸 No bullshit answers to the famous h5bp "Front-end Job Interview Questions"
+- [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+  - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+  - 🚀 Generate github profile README easily with latest add-ons like visitors count, github stats, etc using minimal UI.
+- [svelte](https://github.com/sveltejs/svelte)
+  - Cybernetically enhanced web apps
 - [discord.js](https://github.com/discordjs/discord.js)
   - A powerful JavaScript library for interacting with the Discord API
-- [awesome-ctf](https://github.com/apsdehal/awesome-ctf)
-  - A curated list of CTF frameworks, libraries, resources and softwares
-- [backend](https://github.com/AuroraFN/backend)
-  - Contains Party, XMPP and MCP codebase written in Node.JS.
+- [next.js](https://github.com/vercel/next.js)
+  - The React Framework
 - [anime](https://github.com/juliangarnier/anime)
   - JavaScript animation engine
-- [SmartYouTubeTV](https://github.com/yuliskov/SmartYouTubeTV)
-  - Watch YouTube videos on your TV and set-top-box with comfort
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [hyperapp](https://github.com/jorgebucaran/hyperapp)
+  - The tiny framework for building hypertext applications.
+- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
+  - 一个基于 electron 的音乐软件
+- [covid19india-react](https://github.com/covid19india/covid19india-react)
+  - Tracking the impact of COVID-19 in India
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+  - 💯 Materials to help you rock your next coding interview
+- [perspective](https://github.com/finos/perspective)
+  - Streaming pivot visualization via WebAssembly
+- [webtorrent](https://github.com/webtorrent/webtorrent)
+  - ⚡️ Streaming torrent client for the web
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+  -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
