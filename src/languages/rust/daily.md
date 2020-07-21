@@ -1,51 +1,51 @@
 # rust
-- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
-  - Rust bindings to wgpu native library
-- [amethyst](https://github.com/amethyst/amethyst)
-  - Data-oriented and data-driven game engine written in Rust
-- [rustlings](https://github.com/rust-lang/rustlings)
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
+- [dijo](https://github.com/NerdyPepper/dijo)
+  - scriptable, curses-based, digital habit tracker
 - [clap](https://github.com/clap-rs/clap)
   - A full featured, fast Command Line Argument Parser for Rust
-- [nushell](https://github.com/nushell/nushell)
-  - A new type of shell
-- [ggez](https://github.com/ggez/ggez)
-  - Rust library to create a Good Game Easily
-- [zola](https://github.com/getzola/zola)
-  - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
-- [RustPython](https://github.com/RustPython/RustPython)
-  - A Python Interpreter written in Rust
-- [cargo](https://github.com/rust-lang/cargo)
-  - The Rust package manager
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [druid](https://github.com/linebender/druid)
-  - A data-first Rust-native UI design toolkit.
-- [spotifyd](https://github.com/Spotifyd/spotifyd)
-  - A spotify daemon
-- [tide](https://github.com/http-rs/tide)
-  - Fast and friendly HTTP server framework for async Rust
-- [sqlx](https://github.com/launchbadge/sqlx)
-  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-- [warp](https://github.com/seanmonstar/warp)
-  - A super-easy, composable, web server framework for warp speeds.
-- [penrose](https://github.com/sminez/penrose)
-  - A tiling window manager in the spirit of dwm / Xmonad but written in Rust (Very much a work in progress!)
-- [probe-rs](https://github.com/probe-rs/probe-rs)
-  - A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host
-- [kube-rs](https://github.com/clux/kube-rs)
-  - kubernetes client and futures controller runtime
-- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
-  - 📚 Learn to write an embedded OS in Rust 🦀
-- [iced](https://github.com/hecrj/iced)
-  - A cross-platform GUI library for Rust, inspired by Elm
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [starship](https://github.com/starship/starship)
   - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
+- [polkadot](https://github.com/paritytech/polkadot)
+  - Polkadot Node Implementation
+- [ggez](https://github.com/ggez/ggez)
+  - Rust library to create a Good Game Easily
+- [native-windows-gui](https://github.com/gabdube/native-windows-gui)
+  - A light windows GUI toolkit for rust
+- [tide](https://github.com/http-rs/tide)
+  - Fast and friendly HTTP server framework for async Rust
+- [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust)
+  - A Rust port of shadowsocks
+- [fast-vue-ssr](https://github.com/galvez/fast-vue-ssr)
+  - Fast Vue SSR experiment with QuickJS and Rust
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
+- [cursive](https://github.com/gyscos/cursive)
+  - A Text User Interface library for the Rust programming language
+- [legion](https://github.com/TomGillen/legion)
+  - High performance Rust ECS library
+- [druid](https://github.com/linebender/druid)
+  - A data-first Rust-native UI design toolkit.
+- [rustup](https://github.com/rust-lang/rustup)
+  - The Rust toolchain installer
+- [smol](https://github.com/stjepang/smol)
+  - A small and fast async runtime for Rust
+- [sqlx](https://github.com/launchbadge/sqlx)
+  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+- [async-std](https://github.com/async-rs/async-std)
+  - Async version of the Rust standard library
 - [tunnelto](https://github.com/agrinman/tunnelto)
   - Expose your local web server to the internet with a public URL.
-- [rls](https://github.com/rust-lang/rls)
-  - Repository for the Rust Language Server (aka RLS)
-- [exa](https://github.com/ogham/exa)
-  - A modern version of ‘ls’.
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
+  - The Mullvad VPN client app for desktop and mobile
+- [azul](https://github.com/maps4print/azul)
+  - Desktop GUI Framework
+- [tokenizers](https://github.com/huggingface/tokenizers)
+  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [nushell](https://github.com/nushell/nushell)
+  - A new type of shell
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators

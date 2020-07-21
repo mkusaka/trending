@@ -1,49 +1,50 @@
 # general
-- [gpt-3](https://github.com/openai/gpt-3) : 
-  - GPT-3: Language Models are Few-Shot Learners
-- [forem](https://github.com/forem/forem) : Ruby
-  - For empowering community 🌱
 - [docs-next](https://github.com/vuejs/docs-next) : Vue
   - Vue 3 core documentation
-- [hedgehog-lab](https://github.com/lidangzzz/hedgehog-lab) : TypeScript
-  - An open source scientific computing environment for JavaScript TOTALLY in your browser, matrix operations with GPU acceleration, TeX support, data visualization and symbolic computation.
-- [core](https://github.com/home-assistant/core) : Python
-  - 🏡 Open source home automation that puts local control and privacy first
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
 - [Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) : Dart
   - completely free for everyone. Its build-in Flutter Dart.
-- [flutter_twitter_clone](https://github.com/TheAlphamerc/flutter_twitter_clone) : Dart
-  - Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage
-- [zulip](https://github.com/zulip/zulip) : Python
-  - Zulip server - powerful open source team chat
-- [opencv](https://github.com/opencv/opencv) : C++
-  - Open Source Computer Vision Library
-- [abp](https://github.com/abpframework/abp) : C#
-  - Open Source Web Application Framework for ASP.NET Core
-- [computer-science](https://github.com/ossu/computer-science) : 
-  - 🎓 Path to a free self-taught education in Computer Science!
-- [ailab](https://github.com/microsoft/ailab) : C#
-  - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
-- [myvision](https://github.com/OvidijusParsiunas/myvision) : JavaScript
-  - Computer vision based ML training data generation tool. 🚀
-- [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) : Python
-  - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
-- [elyra](https://github.com/elyra-ai/elyra) : Python
-  - Elyra extends JupyterLab Notebooks with an AI centric approach.
-- [NativeAlphaForAndroid](https://github.com/cylonid/NativeAlphaForAndroid) : Java
-- [gpt-3-experiments](https://github.com/minimaxir/gpt-3-experiments) : Python
-  - Test prompts for OpenAI's GPT-3 API and the resulting AI-generated texts.
-- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) : 
-  - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-- [lede](https://github.com/coolsnowwolf/lede) : C
-  - Lean's OpenWrt source
-- [airlines-to-china-covid-19](https://github.com/USCreditCardGuide/airlines-to-china-covid-19) : 
-  - 疫情期间的回国航班汇总
-- [reddit_automations](https://github.com/KalleHallden/reddit_automations) : Python
-- [awesome-mlops](https://github.com/visenger/awesome-mlops) : 
-  - A curated list of references for MLOps
-- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) : JavaScript
-  - Bypass Paywalls web browser extension for Chrome and Firefox.
+- [gpt-3](https://github.com/openai/gpt-3) : 
+  - GPT-3: Language Models are Few-Shot Learners
+- [hedgehog-lab](https://github.com/lidangzzz/hedgehog-lab) : TypeScript
+  - An open source scientific computing environment for JavaScript TOTALLY in your browser, matrix operations with GPU acceleration, TeX support, data visualization and symbolic computation.
+- [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) : 
+  - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
+- [dijo](https://github.com/NerdyPepper/dijo) : Rust
+  - scriptable, curses-based, digital habit tracker
+- [hello-algorithm](https://github.com/geekxh/hello-algorithm) : JavaScript
+  - 🇨🇳🇨🇳🇨🇳 本项目包括：1、我写的 30w 字图解算法题典 2、100 张编程类超清晰思维导图 3、100 篇大厂面经汇总 4、各语言编程电子书 100 本 5、小浩算法网站源代码 （ 🚀🚀 国人项目上榜不容易，右上角助力一波！干就对了，奥利给 ！🚀🚀）
 - [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) : JavaScript
   - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.
+- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) : JavaScript
+  - 🕸 No bullshit answers to the famous h5bp "Front-end Job Interview Questions"
+- [DOOM-FX](https://github.com/RandalLinden/DOOM-FX) : Assembly
+  - Doom/FX for Super Nintendo with SuperFX GSU2A
+- [opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) : Makefile
+  - Specifications for OpenTelemetry
+- [NativeAlphaForAndroid](https://github.com/cylonid/NativeAlphaForAndroid) : Java
+- [forem](https://github.com/forem/forem) : Ruby
+  - For empowering community 🌱
+- [gpt-3-experiments](https://github.com/minimaxir/gpt-3-experiments) : Python
+  - Test prompts for OpenAI's GPT-3 API and the resulting AI-generated texts.
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [myvision](https://github.com/OvidijusParsiunas/myvision) : JavaScript
+  - Computer vision based ML training data generation tool 🚀
+- [CyberProfDevelopmentCovidResources](https://github.com/gerryguy311/CyberProfDevelopmentCovidResources) : 
+  - An awesome list of FREE resources for training, conferences, speaking, labs, reading, etc that are free all the time or during COVID-19 that cybersecurity professionals with downtime can take advantage of to improve their skills and marketability to come out on the other side ready to rock.
+- [flutter_twitter_clone](https://github.com/TheAlphamerc/flutter_twitter_clone) : Dart
+  - Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage
+- [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) : Python
+  - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
+- [opencv](https://github.com/opencv/opencv) : C++
+  - Open Source Computer Vision Library
+- [number-verifier](https://github.com/upmasked/number-verifier) : Go
+  - Number Verifier is a SMS verification tool that makes it easy to get a disposable SMS number and bypass SMS number verifications on any site.
+- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) : JavaScript
+  - 一个基于 electron 的音乐软件
+- [spark](https://github.com/apache/spark) : Scala
+  - Apache Spark - A unified analytics engine for large-scale data processing
+- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) : JavaScript
+  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) : 
+  - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
