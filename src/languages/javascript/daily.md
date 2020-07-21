@@ -1,51 +1,51 @@
 # javascript
-- [myvision](https://github.com/OvidijusParsiunas/myvision)
-  - Computer vision based ML training data generation tool. 🚀
-- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
-  - Bypass Paywalls web browser extension for Chrome and Firefox.
+- [hello-algorithm](https://github.com/geekxh/hello-algorithm)
+  - 🇨🇳🇨🇳🇨🇳 本项目包括：1、我写的 30w 字图解算法题典 2、100 张编程类超清晰思维导图 3、100 篇大厂面经汇总 4、各语言编程电子书 100 本 5、小浩算法网站源代码 （ 🚀🚀 国人项目上榜不容易，右上角助力一波！干就对了，奥利给 ！🚀🚀）
 - [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder)
   - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.
-- [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
-  - 📜 33 concepts every JavaScript developer should know.
-- [lodash](https://github.com/lodash/lodash)
-  - A modern JavaScript utility library delivering modularity, performance, & extras.
-- [MagicMirror](https://github.com/MichMich/MagicMirror)
-  - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
-- [p5.js](https://github.com/processing/p5.js)
-  - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
-- [hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia)
-  - 一个简洁优雅的hexo主题 A simple and elegant theme for hexo.
-- [vuepress](https://github.com/vuejs/vuepress)
-  - 📝 Minimalistic Vue-powered static site generator
-- [iptv](https://github.com/iptv-org/iptv)
-  - Collection of 8000+ publicly available IPTV channels from all over the world
 - [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
   - 🕸 No bullshit answers to the famous h5bp "Front-end Job Interview Questions"
-- [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
-  - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
-  - 🚀 Generate github profile README easily with latest add-ons like visitors count, github stats, etc using minimal UI.
-- [svelte](https://github.com/sveltejs/svelte)
-  - Cybernetically enhanced web apps
-- [discord.js](https://github.com/discordjs/discord.js)
-  - A powerful JavaScript library for interacting with the Discord API
-- [next.js](https://github.com/vercel/next.js)
-  - The React Framework
-- [anime](https://github.com/juliangarnier/anime)
-  - JavaScript animation engine
-- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
-  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [hyperapp](https://github.com/jorgebucaran/hyperapp)
-  - The tiny framework for building hypertext applications.
+- [myvision](https://github.com/OvidijusParsiunas/myvision)
+  - Computer vision based ML training data generation tool 🚀
 - [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
   - 一个基于 electron 的音乐软件
-- [covid19india-react](https://github.com/covid19india/covid19india-react)
-  - Tracking the impact of COVID-19 in India
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
-  - 💯 Materials to help you rock your next coding interview
-- [perspective](https://github.com/finos/perspective)
-  - Streaming pivot visualization via WebAssembly
-- [webtorrent](https://github.com/webtorrent/webtorrent)
-  - ⚡️ Streaming torrent client for the web
-- [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
-  -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
+  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+- [fe-interview](https://github.com/haizlin/fe-interview)
+  - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），3000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [PS4JB](https://github.com/DarkModderVC/PS4JB)
+  - Stable version of PS4 6.72 Jailbreak shared by sleirsgoevy
+- [quasar](https://github.com/quasarframework/quasar)
+  - Quasar Framework - Build high-performance VueJS user interfaces in record time
+- [malinajs](https://github.com/malinajs/malinajs)
+  - Frontend compiler, inspired by Svelte
+- [cml](https://github.com/iterative/cml)
+  - ♾️ CML - Continuous Machine Learning | CI/CD for ML
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [react-native-keyboard-aware-scroll-view](https://github.com/APSL/react-native-keyboard-aware-scroll-view)
+  - A ScrollView component that handles keyboard appearance and automatically scrolls to focused TextInput.
+- [gatsby](https://github.com/gatsbyjs/gatsby)
+  - Build blazing fast, modern apps and websites with React
+- [javascript](https://github.com/airbnb/javascript)
+  - JavaScript Style Guide
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
+  - Starter files, final projects and FAQ for my Complete JavaScript course
+- [currency.js](https://github.com/scurker/currency.js)
+  - A javascript library for handling currencies
+- [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
+  - Microsoft Authentication Library (MSAL) for JS
+- [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+  - Updates README with the recent GitHub activity of a user
+- [bumblebee](https://github.com/jaxcore/bumblebee)
+  - Jaxcore Bumblebee - a JavaScript voice application framework
+- [axios](https://github.com/axios/axios)
+  - Promise based HTTP client for the browser and node.js
+- [odoo](https://github.com/odoo/odoo)
+  - Odoo. Open Source Apps To Grow Your Business.
+- [react-datepicker](https://github.com/Hacker0x01/react-datepicker)
+  - A simple and reusable datepicker component for React
+- [vue-cli](https://github.com/vuejs/vue-cli)
+  - 🛠️ Standard Tooling for Vue.js Development

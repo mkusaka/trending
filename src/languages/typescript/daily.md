@@ -1,51 +1,51 @@
 # typescript
 - [hedgehog-lab](https://github.com/lidangzzz/hedgehog-lab)
   - An open source scientific computing environment for JavaScript TOTALLY in your browser, matrix operations with GPU acceleration, TeX support, data visualization and symbolic computation.
-- [vue-next](https://github.com/vuejs/vue-next)
-  - Repo for Vue 3.0 (currently in beta)
-- [frontend](https://github.com/home-assistant/frontend)
-  - 🍭 Frontend for Home Assistant
-- [homebridge](https://github.com/homebridge/homebridge)
-  - HomeKit support for the impatient
-- [angularfire](https://github.com/angular/angularfire)
-  - The official Angular library for Firebase.
-- [foam](https://github.com/foambubble/foam)
-  - A personal knowledge management and sharing system for VSCode
-- [coc.nvim](https://github.com/neoclide/coc.nvim)
-  - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
-- [notable](https://github.com/notable/notable)
-  - The Markdown-based note-taking app that doesn't suck.
-- [react-spectrum](https://github.com/adobe/react-spectrum)
-  - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
+- [vite](https://github.com/vitejs/vite)
+  - Native-ESM powered web dev build tool. It's fast.
+- [react-diagrams](https://github.com/projectstorm/react-diagrams)
+  - a super simple, no-nonsense diagramming library written in react that just works
+- [apollo-client](https://github.com/apollographql/apollo-client)
+  - 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
+- [project-citadel](https://github.com/JordanKnott/project-citadel)
+  - An open source project management tool with Kanban boards
 - [terraform-cdk](https://github.com/hashicorp/terraform-cdk)
   - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
-- [playground](https://github.com/tensorflow/playground)
-  - Play with neural networks!
-- [react-use](https://github.com/streamich/react-use)
-  - React Hooks — 👍
-- [react-cosmos](https://github.com/react-cosmos/react-cosmos)
-  - Dev environment for building scalable, high-quality user interfaces
-- [formik](https://github.com/formium/formik)
-  - Build forms in React, without the tears 😭
-- [typeorm](https://github.com/typeorm/typeorm)
-  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-- [billboard.js](https://github.com/naver/billboard.js)
-  - 📊 Re-usable, easy interface JavaScript chart library based on D3.js
+- [react-three-fiber](https://github.com/react-spring/react-three-fiber)
+  - 🇨🇭A react reconciler for three.js (web and react-native)
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+  - Headless Chrome Node.js API
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form)
   - 📋 React Hooks for forms validation (Web + React Native)
-- [rsuite](https://github.com/rsuite/rsuite)
-  - 🧱 A suite of React components .
-- [pyright](https://github.com/microsoft/pyright)
-  - Static type checker for Python
-- [telegraf](https://github.com/telegraf/telegraf)
-  - Modern Telegram Bot Framework for Node.js
-- [fullstack-tutorial](https://github.com/apollographql/fullstack-tutorial)
-  - 🚀 The Apollo platform tutorial app
-- [FigmaToCode](https://github.com/bernaferrari/FigmaToCode)
-  - From design to responsive pages and apps on Tailwind and Flutter.
-- [docs](https://github.com/aws-amplify/docs)
-  - Amplify Framework Documentation
-- [rxdb](https://github.com/pubkey/rxdb)
-  - 💻 🔄 📱 A realtime Database for JavaScript Applications
-- [express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate)
-  - A delightful way to building a RESTful API with NodeJs & TypeScript by @w3tecch
+- [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+  - ✨ Monorepo for all the tooling which enables ESLint to support TypeScript
+- [foam](https://github.com/foambubble/foam)
+  - A personal knowledge management and sharing system for VSCode
+- [vuetify](https://github.com/vuetifyjs/vuetify)
+  - 🐉 Material Component Framework for Vue
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui)
+  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+- [ngx-charts](https://github.com/swimlane/ngx-charts)
+  - 📊 Declarative Charting Framework for Angular
+- [prisma](https://github.com/prisma/prisma)
+  - Modern DB toolkit to query, migrate and model your database
+- [platform](https://github.com/ngrx/platform)
+  - Reactive libraries for Angular
+- [vditor](https://github.com/Vanessa219/vditor)
+  - ♏ 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text), Instant Rendering (Typora-like) and Split View modes.
+- [pixi.js](https://github.com/pixijs/pixi.js)
+  - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+- [reactivue](https://github.com/antfu/reactivue)
+  - 🙊 Use Vue Composition API in React components
+- [prism](https://github.com/stoplightio/prism)
+  - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
+- [angular](https://github.com/angular/angular)
+  - One framework. Mobile & desktop.
+- [react-admin](https://github.com/marmelab/react-admin)
+  - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+  - The repository for high quality TypeScript type definitions.
+- [nebular](https://github.com/akveo/nebular)
+  - 💥 Customizable Angular UI Library based on Eva Design System 🌚✨Dark Mode
+- [react-use](https://github.com/streamich/react-use)
+  - React Hooks — 👍

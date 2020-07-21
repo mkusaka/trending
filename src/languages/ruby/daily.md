@@ -1,51 +1,51 @@
 # ruby
 - [forem](https://github.com/forem/forem)
   - For empowering community 🌱
-- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
-  - Metasploit Framework
-- [mastodon](https://github.com/tootsuite/mastodon)
-  - Your self-hosted, globally interconnected microblogging community
-- [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews)
-  - Data science interview questions and answers
-- [jekyll](https://github.com/jekyll/jekyll)
-  - 🌐 Jekyll is a blog-aware static site generator in Ruby
-- [sonic-pi](https://github.com/sonic-pi-net/sonic-pi)
-  - Code. Music. Live.
-- [canvas-lms](https://github.com/instructure/canvas-lms)
-  - The open LMS by Instructure, Inc.
-- [rails](https://github.com/rails/rails)
-  - Ruby on Rails
-- [brew](https://github.com/Homebrew/brew)
-  - 🍺 The missing package manager for macOS (or Linux)
-- [homebrew-emacs-plus](https://github.com/d12frosted/homebrew-emacs-plus)
-  - Emacs Plus formulae for the Homebrew package manager
-- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-  - A curated list of awesome awesomeness
-- [nationbuilder-rb](https://github.com/nationbuilder/nationbuilder-rb)
-  - A Ruby client for the NationBuilder API
-- [db-charmer](https://github.com/kovyrin/db-charmer)
-  - ActiveRecord Connections Magic (slaves, multiple connections, sharding, etc)
-- [gelf-rb](https://github.com/graylog-labs/gelf-rb)
-  - Ruby GELF library (Graylog Extended Log Format)
-- [ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db)
-  - A database of vulnerable Ruby Gems
-- [rails-form_for-lab-nyc04-seng-ft-053120](https://github.com/learn-co-students/rails-form_for-lab-nyc04-seng-ft-053120)
-  - 
-- [js-rails-as-api-custom-json-rendering-using-rails-nyc01-seng-ft-060120](https://github.com/learn-co-students/js-rails-as-api-custom-json-rendering-using-rails-nyc01-seng-ft-060120)
-  - 
-- [js-rails-as-api-rendering-different-content-types-using-rails-nyc01-seng-ft-060120](https://github.com/learn-co-students/js-rails-as-api-rendering-different-content-types-using-rails-nyc01-seng-ft-060120)
-  - 
-- [js-rails-as-api-review-of-rails-mvc-nyc01-seng-ft-060120](https://github.com/learn-co-students/js-rails-as-api-review-of-rails-mvc-nyc01-seng-ft-060120)
-  - 
-- [omnicalc-1](https://github.com/appdev-projects/omnicalc-1)
-  - 
-- [rack-dynamic-web-apps-onl01-seng-pt-050420](https://github.com/learn-co-students/rack-dynamic-web-apps-onl01-seng-pt-050420)
-  - 
-- [rack-intro-onl01-seng-pt-050420](https://github.com/learn-co-students/rack-intro-onl01-seng-pt-050420)
-  - 
-- [rack-responses-lab-onl01-seng-pt-050420](https://github.com/learn-co-students/rack-responses-lab-onl01-seng-pt-050420)
-  - 
-- [box-style-lab-re-coded_sanaa_web001](https://github.com/learn-co-students/box-style-lab-re-coded_sanaa_web001)
-  - 
-- [code-challenge](https://github.com/main-street/code-challenge)
-  - A very basic rails app to be used to assessment and testing purposes only.
+- [administrate](https://github.com/thoughtbot/administrate)
+  - A Rails engine that helps you put together a super-flexible admin dashboard.
+- [activeadmin](https://github.com/activeadmin/activeadmin)
+  - The administration framework for Ruby on Rails applications.
+- [spree](https://github.com/spree/spree)
+  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
+- [logstash](https://github.com/elastic/logstash)
+  - Logstash - transport and process your logs, events, or other data
+- [view_component](https://github.com/github/view_component)
+  - View components for Rails
+- [aasm](https://github.com/aasm/aasm)
+  - AASM - State machines for Ruby classes (plain Ruby, ActiveRecord, Mongoid, NoBrainer)
+- [ruby-kafka](https://github.com/zendesk/ruby-kafka)
+  - A Ruby client library for Apache Kafka
+- [dependabot-core](https://github.com/dependabot/dependabot-core)
+  - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot
+- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
+  - Ruby implementation of GraphQL
+- [carrierwave](https://github.com/carrierwaveuploader/carrierwave)
+  - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
+- [sidekiq](https://github.com/mperham/sidekiq)
+  - Simple, efficient background processing for Ruby
+- [puma](https://github.com/puma/puma)
+  - A Ruby/Rack web server built for concurrency
+- [ransack](https://github.com/activerecord-hackery/ransack)
+  - Object-based searching.
+- [setup](https://github.com/lewagon/setup)
+  - Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp
+- [faker](https://github.com/faker-ruby/faker)
+  - A library for generating fake data such as names, addresses, and phone numbers.
+- [fastlane](https://github.com/fastlane/fastlane)
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [prawn](https://github.com/prawnpdf/prawn)
+  - Fast, Nimble PDF Writer for Ruby
+- [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator)
+  - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+- [axlsx](https://github.com/randym/axlsx)
+  - xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your…
+- [webpacker](https://github.com/rails/webpacker)
+  - Use Webpack to manage app-like JavaScript modules in Rails
+- [raven-ruby](https://github.com/getsentry/raven-ruby)
+  - Raven is a Ruby client for Sentry
+- [flipper](https://github.com/jnunemaker/flipper)
+  - 🐬 feature flipping for ruby (performant and simple)
+- [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails)
+  - Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
+- [openproject](https://github.com/opf/openproject)
+  - OpenProject is the leading open source project management software.
