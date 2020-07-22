@@ -1,51 +1,51 @@
 # rust
 - [dijo](https://github.com/NerdyPepper/dijo)
   - scriptable, curses-based, digital habit tracker
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [polkadot](https://github.com/paritytech/polkadot)
-  - Polkadot Node Implementation
-- [ggez](https://github.com/ggez/ggez)
-  - Rust library to create a Good Game Easily
-- [native-windows-gui](https://github.com/gabdube/native-windows-gui)
-  - A light windows GUI toolkit for rust
-- [tide](https://github.com/http-rs/tide)
-  - Fast and friendly HTTP server framework for async Rust
-- [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust)
-  - A Rust port of shadowsocks
-- [fast-vue-ssr](https://github.com/galvez/fast-vue-ssr)
-  - Fast Vue SSR experiment with QuickJS and Rust
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
-- [cursive](https://github.com/gyscos/cursive)
-  - A Text User Interface library for the Rust programming language
-- [legion](https://github.com/TomGillen/legion)
-  - High performance Rust ECS library
-- [druid](https://github.com/linebender/druid)
-  - A data-first Rust-native UI design toolkit.
-- [rustup](https://github.com/rust-lang/rustup)
-  - The Rust toolchain installer
-- [smol](https://github.com/stjepang/smol)
-  - A small and fast async runtime for Rust
-- [sqlx](https://github.com/launchbadge/sqlx)
-  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-- [async-std](https://github.com/async-rs/async-std)
-  - Async version of the Rust standard library
-- [tunnelto](https://github.com/agrinman/tunnelto)
-  - Expose your local web server to the internet with a public URL.
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
-  - The Mullvad VPN client app for desktop and mobile
-- [azul](https://github.com/maps4print/azul)
-  - Desktop GUI Framework
-- [tokenizers](https://github.com/huggingface/tokenizers)
-  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [nushell](https://github.com/nushell/nushell)
   - A new type of shell
+- [polkadot](https://github.com/paritytech/polkadot)
+  - Polkadot Node Implementation
+- [native-windows-gui](https://github.com/gabdube/native-windows-gui)
+  - A light windows GUI toolkit for rust
+- [cursive](https://github.com/gyscos/cursive)
+  - A Text User Interface library for the Rust programming language
+- [tokenizers](https://github.com/huggingface/tokenizers)
+  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [vector](https://github.com/timberio/vector)
+  - A lightweight and ultra-fast router for building observability pipelines
+- [clap](https://github.com/clap-rs/clap)
+  - A full featured, fast Command Line Argument Parser for Rust
 - [substrate](https://github.com/paritytech/substrate)
   - Substrate: The platform for blockchain innovators
+- [tokio](https://github.com/tokio-rs/tokio)
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [toydb](https://github.com/erikgrinaker/toydb)
+  - Distributed SQL database in Rust, written as a learning project
+- [rust-sokoban](https://github.com/iolivia/rust-sokoban)
+  - Rust Sokoban book and code samples
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
+- [tree-sitter](https://github.com/tree-sitter/tree-sitter)
+  - An incremental parsing system for programming tools
+- [legion](https://github.com/TomGillen/legion)
+  - High performance Rust ECS library
+- [tui-rs](https://github.com/fdehau/tui-rs)
+  - Build terminal user interfaces and dashboards using Rust
+- [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust)
+  - A Rust port of shadowsocks
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
+- [delta](https://github.com/dandavison/delta)
+  - A viewer for git and diff output
+- [async-std](https://github.com/async-rs/async-std)
+  - Async version of the Rust standard library
+- [swc](https://github.com/swc-project/swc)
+  - Super-fast typescript / javascript compiler written in rust
+- [druid](https://github.com/linebender/druid)
+  - A data-first Rust-native UI design toolkit.
+- [topgrade](https://github.com/r-darwish/topgrade)
+  - Upgrade everything

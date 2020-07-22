@@ -1,50 +1,49 @@
 # general
+- [hello-algorithm](https://github.com/geekxh/hello-algorithm) : JavaScript
+  - 🇨🇳🇨🇳🇨🇳 本项目包括：1、我写的三十万字图解算法题典 2、100 张编程类超清晰思维导图 3、100 篇大厂面经汇总 4、各语言编程电子书 100 本 5、小浩算法网站源代码 （ 🚀🚀 国人项目上榜首不易，右上角助力一波！干就对了，奥利给 ！🚀🚀）
+- [wiki](https://github.com/Requarks/wiki) : Vue
+  - Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
 - [docs-next](https://github.com/vuejs/docs-next) : Vue
   - Vue 3 core documentation
+- [laravel-boilerplate](https://github.com/rappasoft/laravel-boilerplate) : PHP
+  - The Laravel Boilerplate Project - https://laravel-boilerplate.com
 - [Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) : Dart
   - completely free for everyone. Its build-in Flutter Dart.
-- [gpt-3](https://github.com/openai/gpt-3) : 
-  - GPT-3: Language Models are Few-Shot Learners
-- [hedgehog-lab](https://github.com/lidangzzz/hedgehog-lab) : TypeScript
-  - An open source scientific computing environment for JavaScript TOTALLY in your browser, matrix operations with GPU acceleration, TeX support, data visualization and symbolic computation.
-- [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) : 
-  - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 - [dijo](https://github.com/NerdyPepper/dijo) : Rust
   - scriptable, curses-based, digital habit tracker
-- [hello-algorithm](https://github.com/geekxh/hello-algorithm) : JavaScript
-  - 🇨🇳🇨🇳🇨🇳 本项目包括：1、我写的 30w 字图解算法题典 2、100 张编程类超清晰思维导图 3、100 篇大厂面经汇总 4、各语言编程电子书 100 本 5、小浩算法网站源代码 （ 🚀🚀 国人项目上榜不容易，右上角助力一波！干就对了，奥利给 ！🚀🚀）
-- [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) : JavaScript
-  - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.
-- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) : JavaScript
-  - 🕸 No bullshit answers to the famous h5bp "Front-end Job Interview Questions"
-- [DOOM-FX](https://github.com/RandalLinden/DOOM-FX) : Assembly
-  - Doom/FX for Super Nintendo with SuperFX GSU2A
-- [opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) : Makefile
-  - Specifications for OpenTelemetry
-- [NativeAlphaForAndroid](https://github.com/cylonid/NativeAlphaForAndroid) : Java
-- [forem](https://github.com/forem/forem) : Ruby
-  - For empowering community 🌱
-- [gpt-3-experiments](https://github.com/minimaxir/gpt-3-experiments) : Python
-  - Test prompts for OpenAI's GPT-3 API and the resulting AI-generated texts.
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [myvision](https://github.com/OvidijusParsiunas/myvision) : JavaScript
-  - Computer vision based ML training data generation tool 🚀
-- [CyberProfDevelopmentCovidResources](https://github.com/gerryguy311/CyberProfDevelopmentCovidResources) : 
-  - An awesome list of FREE resources for training, conferences, speaking, labs, reading, etc that are free all the time or during COVID-19 that cybersecurity professionals with downtime can take advantage of to improve their skills and marketability to come out on the other side ready to rock.
-- [flutter_twitter_clone](https://github.com/TheAlphamerc/flutter_twitter_clone) : Dart
-  - Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage
-- [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) : Python
-  - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
-- [opencv](https://github.com/opencv/opencv) : C++
-  - Open Source Computer Vision Library
+- [CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) : C++
+- [awesome-ml-courses](https://github.com/luspr/awesome-ml-courses) : 
+  - Awesome free machine learning and AI courses with video lectures.
+- [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) : 
+  - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 - [number-verifier](https://github.com/upmasked/number-verifier) : Go
   - Number Verifier is a SMS verification tool that makes it easy to get a disposable SMS number and bypass SMS number verifications on any site.
-- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) : JavaScript
-  - 一个基于 electron 的音乐软件
-- [spark](https://github.com/apache/spark) : Scala
-  - Apache Spark - A unified analytics engine for large-scale data processing
-- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) : JavaScript
-  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
-- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) : 
-  - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+- [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) : Python
+  - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
+- [covid-green-app](https://github.com/covidgreen/covid-green-app) : TypeScript
+- [stock](https://github.com/pythonstock/stock) : Python
+  - stock，股票系统。使用python进行开发。
+- [fe-interview](https://github.com/haizlin/fe-interview) : HTML
+  - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），3000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
+- [vueuse](https://github.com/antfu/vueuse) : TypeScript
+  - 🧰 Collection of Composition API utils for Vue 2 and 3
+- [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) : 
+  - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+- [storybook](https://github.com/storybookjs/storybook) : TypeScript
+  - 📓 The UI component workshop. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
+- [renaming](https://github.com/github/renaming) : 
+  - Guidance for changing the default branch name for GitHub repositories
+- [JavaFamily](https://github.com/AobingJava/JavaFamily) : 
+  - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+- [QA_bible](https://github.com/Vladislav610/QA_bible) : 
+  - Библия QA это 200++ страниц обновляемой смеси ответов на вопросы с реальных собеседований на QA, перевода интересного контента с зарубежных ресурсов и агрегации материала с отечественных.
+- [d2l-en](https://github.com/d2l-ai/d2l-en) : Python
+  - Interactive deep learning book with code, math, and discussions. Available in multi-frameworks.
+- [opencv](https://github.com/opencv/opencv) : C++
+  - Open Source Computer Vision Library
+- [gotraining](https://github.com/ardanlabs/gotraining) : Go
+  - Go Training Class Material :
+- [gym](https://github.com/openai/gym) : Python
+  - A toolkit for developing and comparing reinforcement learning algorithms.
+- [3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting) : Python
+  - [CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
