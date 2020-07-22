@@ -1,51 +1,51 @@
 # javascript
 - [hello-algorithm](https://github.com/geekxh/hello-algorithm)
-  - 🇨🇳🇨🇳🇨🇳 本项目包括：1、我写的 30w 字图解算法题典 2、100 张编程类超清晰思维导图 3、100 篇大厂面经汇总 4、各语言编程电子书 100 本 5、小浩算法网站源代码 （ 🚀🚀 国人项目上榜不容易，右上角助力一波！干就对了，奥利给 ！🚀🚀）
-- [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder)
-  - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.
-- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
-  - 🕸 No bullshit answers to the famous h5bp "Front-end Job Interview Questions"
-- [myvision](https://github.com/OvidijusParsiunas/myvision)
-  - Computer vision based ML training data generation tool 🚀
-- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
-  - 一个基于 electron 的音乐软件
-- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
-  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+  - 🇨🇳🇨🇳🇨🇳 本项目包括：1、我写的三十万字图解算法题典 2、100 张编程类超清晰思维导图 3、100 篇大厂面经汇总 4、各语言编程电子书 100 本 5、小浩算法网站源代码 （ 🚀🚀 国人项目上榜首不易，右上角助力一波！干就对了，奥利给 ！🚀🚀）
 - [fe-interview](https://github.com/haizlin/fe-interview)
   - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），3000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [PS4JB](https://github.com/DarkModderVC/PS4JB)
-  - Stable version of PS4 6.72 Jailbreak shared by sleirsgoevy
-- [quasar](https://github.com/quasarframework/quasar)
-  - Quasar Framework - Build high-performance VueJS user interfaces in record time
-- [malinajs](https://github.com/malinajs/malinajs)
-  - Frontend compiler, inspired by Svelte
-- [cml](https://github.com/iterative/cml)
-  - ♾️ CML - Continuous Machine Learning | CI/CD for ML
-- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
-  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [react-native-keyboard-aware-scroll-view](https://github.com/APSL/react-native-keyboard-aware-scroll-view)
-  - A ScrollView component that handles keyboard appearance and automatically scrolls to focused TextInput.
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
-- [javascript](https://github.com/airbnb/javascript)
-  - JavaScript Style Guide
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
-  - Starter files, final projects and FAQ for my Complete JavaScript course
-- [currency.js](https://github.com/scurker/currency.js)
-  - A javascript library for handling currencies
+- [jsoneditor](https://github.com/josdejong/jsoneditor)
+  - A web-based tool to view, edit, format, and validate JSON
 - [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
   - Microsoft Authentication Library (MSAL) for JS
-- [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-  - Updates README with the recent GitHub activity of a user
-- [bumblebee](https://github.com/jaxcore/bumblebee)
-  - Jaxcore Bumblebee - a JavaScript voice application framework
-- [axios](https://github.com/axios/axios)
-  - Promise based HTTP client for the browser and node.js
-- [odoo](https://github.com/odoo/odoo)
-  - Odoo. Open Source Apps To Grow Your Business.
-- [react-datepicker](https://github.com/Hacker0x01/react-datepicker)
-  - A simple and reusable datepicker component for React
-- [vue-cli](https://github.com/vuejs/vue-cli)
-  - 🛠️ Standard Tooling for Vue.js Development
+- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
+  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+- [svelte](https://github.com/sveltejs/svelte)
+  - Cybernetically enhanced web apps
+- [preact](https://github.com/preactjs/preact)
+  - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
+- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
+  - 🕸 No bullshit answers to the famous h5bp "Front-end Job Interview Questions"
+- [GitHub-Jobs-API-React-App](https://github.com/WebDevSimplified/GitHub-Jobs-API-React-App)
+  - 
+- [javascript](https://github.com/airbnb/javascript)
+  - JavaScript Style Guide
+- [select2](https://github.com/select2/select2)
+  - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
+- [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder)
+  - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.
+- [myvision](https://github.com/OvidijusParsiunas/myvision)
+  - Computer vision based ML training data generation tool 🚀
+- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification)
+  - The OpenAPI Specification Repository
+- [quasar](https://github.com/quasarframework/quasar)
+  - Quasar Framework - Build high-performance VueJS user interfaces in record time
+- [yapi](https://github.com/YMFE/yapi)
+  - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
+- [web-stories-wp](https://github.com/google/web-stories-wp)
+  - Web Stories WordPress plugin
+- [howler.js](https://github.com/goldfire/howler.js)
+  - Javascript audio library for the modern web.
+- [jexcel](https://github.com/paulhodel/jexcel)
+  - jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software.
+- [alpine](https://github.com/alpinejs/alpine)
+  - A rugged, minimal framework for composing JavaScript behavior in your markup.
+- [ag-grid](https://github.com/ag-grid/ag-grid)
+  - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
+- [react-error-boundary](https://github.com/bvaughn/react-error-boundary)
+  - Simple reusable React error boundary component
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+  - ⭐️ Companies that don't have a broken hiring process

@@ -1,51 +1,51 @@
 # go
 - [number-verifier](https://github.com/upmasked/number-verifier)
   - Number Verifier is a SMS verification tool that makes it easy to get a disposable SMS number and bypass SMS number verifications on any site.
-- [trivy](https://github.com/aquasecurity/trivy)
-  - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
-- [afero](https://github.com/spf13/afero)
-  - A FileSystem Abstraction System for Go
-- [aws-sdk-go](https://github.com/aws/aws-sdk-go)
-  - AWS SDK for the Go programming language.
-- [redigo](https://github.com/gomodule/redigo)
-  - Go client for Redis
-- [protoc-gen-validate](https://github.com/envoyproxy/protoc-gen-validate)
-  - protoc plugin to generate polyglot message validators
-- [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh)
-  - A Chaos Engineering Platform for Kubernetes.
-- [helm-diff](https://github.com/databus23/helm-diff)
-  - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [video-srt-windows](https://github.com/wxbool/video-srt-windows)
-  - 这是一个可以识别视频语音自动生成字幕SRT文件的开源 Windows-GUI 软件工具。
+- [gotraining](https://github.com/ardanlabs/gotraining)
+  - Go Training Class Material :
+- [autoscaler](https://github.com/kubernetes/autoscaler)
+  - Autoscaling components for Kubernetes
+- [thanos](https://github.com/thanos-io/thanos)
+  - Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.
+- [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm)
+  - Terraform provider for Azure Resource Manager
+- [spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator)
+  - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
+- [terragrunt](https://github.com/gruntwork-io/terragrunt)
+  - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
+- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
+  - Terraform AWS provider
+- [origin](https://github.com/openshift/origin)
+  - Images for OpenShift 3 and 4 - see openshift/okd for more
+- [telegraf](https://github.com/influxdata/telegraf)
+  - The plugin-driven server agent for collecting & reporting metrics.
+- [vegeta](https://github.com/tsenart/vegeta)
+  - HTTP load testing tool and library. It's over 9000!
 - [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway)
   - gRPC to JSON proxy generator following the gRPC HTTP spec
-- [traefik](https://github.com/containous/traefik)
-  - The Cloud Native Edge Router
-- [client-go](https://github.com/kubernetes/client-go)
-  - Go client for Kubernetes.
-- [casbin](https://github.com/casbin/casbin)
-  - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
-- [ingress-nginx](https://github.com/kubernetes/ingress-nginx)
-  - NGINX Ingress Controller for Kubernetes
-- [k3s](https://github.com/rancher/k3s)
-  - Lightweight Kubernetes
-- [dgraph](https://github.com/dgraph-io/dgraph)
-  - Native GraphQL Database with graph backend
-- [kratos](https://github.com/ory/kratos)
-  - Never build user login, user registration, 2fa, profile management ever again! Works on any operating system, cloud, with any programming language, user interface, and user experience! Written in Go.
-- [alertmanager](https://github.com/prometheus/alertmanager)
-  - Prometheus Alertmanager
-- [eksctl](https://github.com/weaveworks/eksctl)
-  - The official CLI for Amazon EKS
-- [logrus](https://github.com/sirupsen/logrus)
-  - Structured, pluggable logging for Go.
-- [redis](https://github.com/go-redis/redis)
-  - Type-safe Redis client for Golang
-- [lotus](https://github.com/filecoin-project/lotus)
-  - Implementation of the Filecoin protocol, written in Go
-- [sealed-secrets](https://github.com/bitnami-labs/sealed-secrets)
-  - A Kubernetes controller and tool for one-way encrypted Secrets
-- [grpc-go](https://github.com/grpc/grpc-go)
-  - The Go language implementation of gRPC. HTTP/2 based RPC
-- [act](https://github.com/nektos/act)
-  - Run your GitHub Actions locally 🚀
+- [go-ethereum](https://github.com/ethereum/go-ethereum)
+  - Official Go implementation of the Ethereum protocol
+- [go-github](https://github.com/google/go-github)
+  - Go library for accessing the GitHub API
+- [kops](https://github.com/kubernetes/kops)
+  - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
+- [bigcache](https://github.com/allegro/bigcache)
+  - Efficient cache for gigabytes of data written in Go.
+- [websocket](https://github.com/gorilla/websocket)
+  - A fast, well-tested and widely used WebSocket implementation for Go.
+- [arkade](https://github.com/alexellis/arkade)
+  - Your one-stop CLI for Kubernetes
+- [ultimate-go](https://github.com/hoanhan101/ultimate-go)
+  - Ultimate Go study guide
+- [minikube](https://github.com/kubernetes/minikube)
+  - Run Kubernetes locally
+- [iris](https://github.com/kataras/iris)
+  - 感谢中国开发者 - https://bit.ly/謝謝 | The fastest community-driven web framework for Go. Socket-Sharding, gRPC, Automatic HTTPS with Public Domain, MVC, Sessions, Caching, Versioning API, Problem API, Websocket, Dependency Injection and more. Fully compatible with the standard library and 3rd-party middleware packages. | https://bit.ly/iriscandothat1 | h…
+- [influxdb](https://github.com/influxdata/influxdb)
+  - Scalable datastore for metrics, events, and real-time analytics
+- [aws-lambda-go](https://github.com/aws/aws-lambda-go)
+  - Libraries, samples and tools to help Go developers develop AWS Lambda functions.
+- [go](https://github.com/golang/go)
+  - The Go programming language
+- [cloud-on-k8s](https://github.com/elastic/cloud-on-k8s)
+  - Elastic Cloud on Kubernetes
