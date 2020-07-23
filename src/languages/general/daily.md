@@ -1,49 +1,49 @@
 # general
 - [hello-algorithm](https://github.com/geekxh/hello-algorithm) : JavaScript
-  - 🇨🇳🇨🇳🇨🇳 本项目包括：1、我写的三十万字图解算法题典 2、100 张编程类超清晰思维导图 3、100 篇大厂面经汇总 4、各语言编程电子书 100 本 5、小浩算法网站源代码 （ 🚀🚀 国人项目上榜首不易，右上角助力一波！干就对了，奥利给 ！🚀🚀）
+  - 🇨🇳🇨🇳🇨🇳 本项目包括：1、我写的三十万字图解算法题典 2、100 张 IT 相关超清思维导图 3、100 篇大厂面经汇总 4、各语言编程电子书 100 本 5、English version supported !!! 🚀🚀 国人项目上榜首不易，右上角助力一波！干就对了，奥利给 ！🚀🚀
+- [terraform](https://github.com/hashicorp/terraform) : Go
+  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [wiki](https://github.com/Requarks/wiki) : Vue
   - Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
-- [docs-next](https://github.com/vuejs/docs-next) : Vue
-  - Vue 3 core documentation
-- [laravel-boilerplate](https://github.com/rappasoft/laravel-boilerplate) : PHP
-  - The Laravel Boilerplate Project - https://laravel-boilerplate.com
-- [Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) : Dart
-  - completely free for everyone. Its build-in Flutter Dart.
-- [dijo](https://github.com/NerdyPepper/dijo) : Rust
-  - scriptable, curses-based, digital habit tracker
-- [CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) : C++
-- [awesome-ml-courses](https://github.com/luspr/awesome-ml-courses) : 
-  - Awesome free machine learning and AI courses with video lectures.
-- [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) : 
-  - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
-- [number-verifier](https://github.com/upmasked/number-verifier) : Go
-  - Number Verifier is a SMS verification tool that makes it easy to get a disposable SMS number and bypass SMS number verifications on any site.
-- [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) : Python
-  - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
-- [covid-green-app](https://github.com/covidgreen/covid-green-app) : TypeScript
-- [stock](https://github.com/pythonstock/stock) : Python
-  - stock，股票系统。使用python进行开发。
-- [fe-interview](https://github.com/haizlin/fe-interview) : HTML
-  - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），3000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
-- [vueuse](https://github.com/antfu/vueuse) : TypeScript
-  - 🧰 Collection of Composition API utils for Vue 2 and 3
-- [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) : 
-  - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [storybook](https://github.com/storybookjs/storybook) : TypeScript
   - 📓 The UI component workshop. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
-- [renaming](https://github.com/github/renaming) : 
-  - Guidance for changing the default branch name for GitHub repositories
-- [JavaFamily](https://github.com/AobingJava/JavaFamily) : 
-  - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-- [QA_bible](https://github.com/Vladislav610/QA_bible) : 
-  - Библия QA это 200++ страниц обновляемой смеси ответов на вопросы с реальных собеседований на QA, перевода интересного контента с зарубежных ресурсов и агрегации материала с отечественных.
+- [stock](https://github.com/pythonstock/stock) : Python
+  - stock，股票系统。使用python进行开发。
+- [fe-interview](https://github.com/haizlin/fe-interview) : JavaScript
+  - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），3000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
+- [umi-top.github.io](https://github.com/umi-top/umi-top.github.io) : HTML
+- [kibana](https://github.com/elastic/kibana) : TypeScript
+  - Your window into the Elastic Stack
+- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) : Kotlin
+  - Native Android app using the Apple/Google exposure notification API.
+- [awesome-ml-courses](https://github.com/luspr/awesome-ml-courses) : 
+  - Awesome free machine learning and AI courses with video lectures.
+- [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) : Python
+  - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
+- [Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) : Dart
+  - completely free for everyone. Its build-in Flutter Dart.
+- [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) : 
+  - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+- [css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) : 
+  - Style your readme using CSS with this simple trick
 - [d2l-en](https://github.com/d2l-ai/d2l-en) : Python
   - Interactive deep learning book with code, math, and discussions. Available in multi-frameworks.
-- [opencv](https://github.com/opencv/opencv) : C++
-  - Open Source Computer Vision Library
+- [hedgehog-lab](https://github.com/lidangzzz/hedgehog-lab) : TypeScript
+  - An open source scientific computing environment for JavaScript TOTALLY in your browser, matrix operations with GPU acceleration, TeX support, data visualization and symbolic computation.
+- [number-verifier](https://github.com/upmasked/number-verifier) : Go
+  - Number Verifier is a SMS verification tool that makes it easy to get a disposable SMS number and bypass SMS number verifications on any site.
+- [AI-ML-July-2020](https://github.com/LetsUpgrade/AI-ML-July-2020) : Jupyter Notebook
+- [terminal](https://github.com/microsoft/terminal) : C++
+  - The new Windows Terminal and the original Windows console host, all in the same place!
 - [gotraining](https://github.com/ardanlabs/gotraining) : Go
   - Go Training Class Material :
-- [gym](https://github.com/openai/gym) : Python
-  - A toolkit for developing and comparing reinforcement learning algorithms.
-- [3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting) : Python
-  - [CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
+- [vault](https://github.com/hashicorp/vault) : Go
+  - A tool for secrets management, encryption as a service, and privileged access management
+- [renaming](https://github.com/github/renaming) : 
+  - Guidance for changing the default branch name for GitHub repositories
+- [Rocket](https://github.com/SergioBenitez/Rocket) : Rust
+  - A web framework for Rust.
+- [puppeteer](https://github.com/puppeteer/puppeteer) : TypeScript
+  - Headless Chrome Node.js API
+- [pandas_exercises](https://github.com/guipsamora/pandas_exercises) : Jupyter Notebook
+  - Practice your pandas skills!

@@ -1,51 +1,51 @@
 # javascript
 - [hello-algorithm](https://github.com/geekxh/hello-algorithm)
-  - 🇨🇳🇨🇳🇨🇳 本项目包括：1、我写的三十万字图解算法题典 2、100 张编程类超清晰思维导图 3、100 篇大厂面经汇总 4、各语言编程电子书 100 本 5、小浩算法网站源代码 （ 🚀🚀 国人项目上榜首不易，右上角助力一波！干就对了，奥利给 ！🚀🚀）
-- [fe-interview](https://github.com/haizlin/fe-interview)
-  - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），3000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
-- [jsoneditor](https://github.com/josdejong/jsoneditor)
-  - A web-based tool to view, edit, format, and validate JSON
-- [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
-  - Microsoft Authentication Library (MSAL) for JS
-- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
-  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+  - 🇨🇳🇨🇳🇨🇳 本项目包括：1、我写的三十万字图解算法题典 2、100 张 IT 相关超清思维导图 3、100 篇大厂面经汇总 4、各语言编程电子书 100 本 5、English version supported !!! 🚀🚀 国人项目上榜首不易，右上角助力一波！干就对了，奥利给 ！🚀🚀
+- [gutenberg](https://github.com/WordPress/gutenberg)
+  - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
 - [svelte](https://github.com/sveltejs/svelte)
   - Cybernetically enhanced web apps
-- [preact](https://github.com/preactjs/preact)
-  - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
+- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
+  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
+  - 📜 33 concepts every JavaScript developer should know.
+- [remote-jobs](https://github.com/remoteintech/remote-jobs)
+  - A list of semi to fully remote-friendly companies in tech.
+- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
+  - 一个基于 electron 的音乐软件
+- [Sortable](https://github.com/SortableJS/Sortable)
+  - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Ember, Knockout and any CSS library, e.g. Bootstrap.
+- [umi-core-js](https://github.com/umi-top/umi-core-js)
+  - UMI Core JS Library
+- [parcel](https://github.com/parcel-bundler/parcel)
+  - 📦🚀 Blazing fast, zero configuration web application bundler
+- [lerna](https://github.com/lerna/lerna)
+  - 🐉 A tool for managing JavaScript projects with multiple packages.
+- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [three.js](https://github.com/mrdoob/three.js)
+  - JavaScript 3D library.
+- [ccxt](https://github.com/ccxt/ccxt)
+  - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
+- [nuxt.js](https://github.com/nuxt/nuxt.js)
+  - The Intuitive Vue Framework
+- [website](https://github.com/CodingTrain/website)
+  - The train engine powering the Coding Train website
+- [pdf.js](https://github.com/mozilla/pdf.js)
+  - PDF Reader in JavaScript
+- [cypress](https://github.com/cypress-io/cypress)
+  - Fast, easy and reliable testing for anything that runs in a browser.
+- [downshift](https://github.com/downshift-js/downshift)
+  - 🏎 A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components.
+- [BackstopJS](https://github.com/garris/BackstopJS)
+  - Catch CSS curve balls.
+- [carbon](https://github.com/carbon-design-system/carbon)
+  - A design system built by IBM
+- [webpack](https://github.com/webpack/webpack)
+  - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+- [material-table](https://github.com/mbrn/material-table)
+  - Datatable for React based on material-ui's table with additional features
 - [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
   - 🕸 No bullshit answers to the famous h5bp "Front-end Job Interview Questions"
-- [GitHub-Jobs-API-React-App](https://github.com/WebDevSimplified/GitHub-Jobs-API-React-App)
-  - 
-- [javascript](https://github.com/airbnb/javascript)
-  - JavaScript Style Guide
-- [select2](https://github.com/select2/select2)
-  - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
-- [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder)
-  - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.
-- [myvision](https://github.com/OvidijusParsiunas/myvision)
-  - Computer vision based ML training data generation tool 🚀
-- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification)
-  - The OpenAPI Specification Repository
-- [quasar](https://github.com/quasarframework/quasar)
-  - Quasar Framework - Build high-performance VueJS user interfaces in record time
-- [yapi](https://github.com/YMFE/yapi)
-  - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
-- [web-stories-wp](https://github.com/google/web-stories-wp)
-  - Web Stories WordPress plugin
-- [howler.js](https://github.com/goldfire/howler.js)
-  - Javascript audio library for the modern web.
-- [jexcel](https://github.com/paulhodel/jexcel)
-  - jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software.
-- [alpine](https://github.com/alpinejs/alpine)
-  - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [ag-grid](https://github.com/ag-grid/ag-grid)
-  - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-- [react-error-boundary](https://github.com/bvaughn/react-error-boundary)
-  - Simple reusable React error boundary component
-- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
-  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-  - ⭐️ Companies that don't have a broken hiring process
