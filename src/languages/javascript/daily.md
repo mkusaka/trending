@@ -1,51 +1,51 @@
 # javascript
 - [hello-algorithm](https://github.com/geekxh/hello-algorithm)
-  - 🇨🇳🇨🇳🇨🇳 本项目包括：1、我写的三十万字图解算法题典 2、100 张 IT 相关超清思维导图 3、100 篇大厂面经汇总 4、各语言编程电子书 100 本 5、English version supported !!! 🚀🚀 国人项目上榜首不易，右上角助力一波！干就对了，奥利给 ！🚀🚀
-- [gutenberg](https://github.com/WordPress/gutenberg)
-  - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
-- [svelte](https://github.com/sveltejs/svelte)
-  - Cybernetically enhanced web apps
-- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
-  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
-  - 📜 33 concepts every JavaScript developer should know.
-- [remote-jobs](https://github.com/remoteintech/remote-jobs)
-  - A list of semi to fully remote-friendly companies in tech.
-- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
-  - 一个基于 electron 的音乐软件
-- [Sortable](https://github.com/SortableJS/Sortable)
-  - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Ember, Knockout and any CSS library, e.g. Bootstrap.
+  - 🙈🙉🙊 本项目包括：1、我写的三十万字图解算法题典 2、100 张 IT 相关超清思维导图 3、100 篇大厂面经汇总 4、各语言编程电子书 100 本 5、English version supported !!! 🚀🚀 国人项目上榜首不易，右上角助力一波！干就对了，奥利给 ！🚀🚀
 - [umi-core-js](https://github.com/umi-top/umi-core-js)
   - UMI Core JS Library
-- [parcel](https://github.com/parcel-bundler/parcel)
-  - 📦🚀 Blazing fast, zero configuration web application bundler
-- [lerna](https://github.com/lerna/lerna)
-  - 🐉 A tool for managing JavaScript projects with multiple packages.
-- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
-  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [three.js](https://github.com/mrdoob/three.js)
-  - JavaScript 3D library.
-- [ccxt](https://github.com/ccxt/ccxt)
-  - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
-- [nuxt.js](https://github.com/nuxt/nuxt.js)
-  - The Intuitive Vue Framework
-- [website](https://github.com/CodingTrain/website)
-  - The train engine powering the Coding Train website
-- [pdf.js](https://github.com/mozilla/pdf.js)
-  - PDF Reader in JavaScript
+- [fe-interview](https://github.com/haizlin/fe-interview)
+  - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），3000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
 - [cypress](https://github.com/cypress-io/cypress)
   - Fast, easy and reliable testing for anything that runs in a browser.
-- [downshift](https://github.com/downshift-js/downshift)
-  - 🏎 A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components.
-- [BackstopJS](https://github.com/garris/BackstopJS)
-  - Catch CSS curve balls.
+- [junior-recruit-scheduler](https://github.com/jojoldu/junior-recruit-scheduler)
+  - 주니어 개발자 채용 정보
+- [gpt3-sandbox](https://github.com/shreyashankar/gpt3-sandbox)
+  - The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.
+- [mdx](https://github.com/mdx-js/mdx)
+  - JSX in Markdown for ambitious projects
+- [plotly.js](https://github.com/plotly/plotly.js)
+  - Open-source JavaScript charting library behind Plotly and Dash
+- [rengine](https://github.com/yogeshojha/rengine)
+  - reNgine is an automated reconnaissance framework meant for gathering information during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
+- [svelte](https://github.com/sveltejs/svelte)
+  - Cybernetically enhanced web apps
+- [ccxt](https://github.com/ccxt/ccxt)
+  - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
+- [Thief](https://github.com/cteamx/Thief)
+  - 一款创新跨平台摸鱼神器，支持小说、股票、网页、视频、直播、PDF、游戏等摸鱼模式，为上班族打造的上班必备神器，使用此软件可以让上班倍感轻松，远离 ICU。
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [odoo](https://github.com/odoo/odoo)
+  - Odoo. Open Source Apps To Grow Your Business.
+- [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
+  - 📜 33 concepts every JavaScript developer should know.
+- [Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
+  - A collection of common interactive command line user interfaces.
+- [gutenberg](https://github.com/WordPress/gutenberg)
+  - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
+- [three.js](https://github.com/mrdoob/three.js)
+  - JavaScript 3D library.
+- [portainer](https://github.com/portainer/portainer)
+  - Making Docker management easy.
 - [carbon](https://github.com/carbon-design-system/carbon)
   - A design system built by IBM
-- [webpack](https://github.com/webpack/webpack)
-  - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
-- [material-table](https://github.com/mbrn/material-table)
-  - Datatable for React based on material-ui's table with additional features
-- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
-  - 🕸 No bullshit answers to the famous h5bp "Front-end Job Interview Questions"
+- [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
+  - OpenZeppelin Contracts is a library for secure smart contract development.
+- [vue-echarts](https://github.com/ecomfe/vue-echarts)
+  - ECharts component for Vue.js.
+- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
+  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [swiper](https://github.com/nolimits4web/swiper)
+  - Most modern mobile touch slider with hardware accelerated transitions
+- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
+  - Beautiful and accessible drag and drop for lists with React

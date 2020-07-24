@@ -1,51 +1,51 @@
 # rust
-- [Rocket](https://github.com/SergioBenitez/Rocket)
-  - A web framework for Rust.
+- [tracing](https://github.com/tokio-rs/tracing)
+  - Application level tracing for Rust.
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
 - [nushell](https://github.com/nushell/nushell)
   - A new type of shell
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [tokenizers](https://github.com/huggingface/tokenizers)
-  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
 - [firecracker](https://github.com/firecracker-microvm/firecracker)
   - Secure and fast microVMs for serverless computing.
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [polkadot](https://github.com/paritytech/polkadot)
+  - Polkadot Node Implementation
+- [RustScan](https://github.com/brandonskerritt/RustScan)
+  - Faster Nmap Scanning with Rust
+- [git-oxide](https://github.com/Byron/git-oxide)
+  - An idiomatic, modern, lean and fast safe & pure rust implementation of git
+- [sonic](https://github.com/valeriansaliou/sonic)
+  - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
+- [ruffle](https://github.com/ruffle-rs/ruffle)
+  - A Flash Player emulator written in Rust
+- [hyper](https://github.com/hyperium/hyper)
+  - An HTTP library for Rust
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - ripgrep recursively searches directories for a regex pattern
+- [tower](https://github.com/tower-rs/tower)
+  - async fn(Request) -> Result<Response, Error>
 - [spotify-tui](https://github.com/Rigellute/spotify-tui)
   - Spotify for the terminal written in Rust 🚀
 - [sled](https://github.com/spacejam/sled)
   - the champagne of beta embedded databases
-- [tower](https://github.com/tower-rs/tower)
-  - async fn(Request) -> Result<Response, Error>
 - [abstreet](https://github.com/dabreegster/abstreet)
   - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
-- [tree-sitter](https://github.com/tree-sitter/tree-sitter)
-  - An incremental parsing system for programming tools
-- [hyper](https://github.com/hyperium/hyper)
-  - An HTTP library for Rust
-- [tracing](https://github.com/tokio-rs/tracing)
-  - Application level tracing for Rust.
-- [gfx](https://github.com/gfx-rs/gfx)
-  - A low-overhead Vulkan-like GPU API for Rust.
-- [lucet](https://github.com/bytecodealliance/lucet)
-  - Lucet, the Sandboxing WebAssembly Compiler.
-- [delta](https://github.com/dandavison/delta)
-  - A viewer for git and diff output
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [wgpu](https://github.com/gfx-rs/wgpu)
-  - Native WebGPU implementation based on gfx-hal
-- [sqlx](https://github.com/launchbadge/sqlx)
-  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-- [tonic](https://github.com/hyperium/tonic)
-  - A native gRPC client & server implementation with async/await support.
-- [valerie](https://github.com/emmanuelantony2000/valerie)
-  - Rust front-end framework for building web apps
-- [mio](https://github.com/tokio-rs/mio)
-  - Metal IO library for Rust
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
-- [sonic](https://github.com/valeriansaliou/sonic)
-  - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
-- [orbtk](https://github.com/redox-os/orbtk)
-  - The Rust UI-Toolkit.
+- [tikv](https://github.com/tikv/tikv)
+  - Distributed transactional key-value database, originally created to complement TiDB
+- [winrt-rs](https://github.com/microsoft/winrt-rs)
+  - Rust language projection for the Windows Runtime
+- [juniper](https://github.com/graphql-rust/juniper)
+  - GraphQL server library for Rust
+- [librespot](https://github.com/librespot-org/librespot)
+  - Open Source Spotify client library
+- [WASI](https://github.com/WebAssembly/WASI)
+  - WebAssembly System Interface
+- [reqwest](https://github.com/seanmonstar/reqwest)
+  - An easy and powerful Rust HTTP Client
+- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
+  - Rust bindings to wgpu native library
+- [findomain](https://github.com/Edu4rdSHL/findomain)
+  - The fastest and cross-platform subdomain enumerator, do not waste your time.

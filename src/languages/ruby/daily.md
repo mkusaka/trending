@@ -1,51 +1,51 @@
 # ruby
 - [logstash](https://github.com/elastic/logstash)
   - Logstash - transport and process your logs, events, or other data
-- [fastlane](https://github.com/fastlane/fastlane)
-  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [rubocop](https://github.com/rubocop-hq/rubocop)
-  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [pundit](https://github.com/varvet/pundit)
-  - Minimal authorization through OO design and pure Ruby classes
-- [chef](https://github.com/chef/chef)
-  - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
-- [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening)
-  - This Ansible role provides numerous security-related configurations, providing all-round base protection.
-- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
-  - Ruby implementation of GraphQL
-- [puppet](https://github.com/puppetlabs/puppet)
-  - Server automation framework and application
-- [capistrano](https://github.com/capistrano/capistrano)
-  - Remote multi-server automation tool
-- [Learning-SICP](https://github.com/DeathKing/Learning-SICP)
-  - MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。
-- [grape](https://github.com/ruby-grape/grape)
-  - An opinionated framework for creating REST-like APIs in Ruby.
-- [dependabot-core](https://github.com/dependabot/dependabot-core)
-  - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
+  - Metasploit Framework
 - [activeadmin](https://github.com/activeadmin/activeadmin)
   - The administration framework for Ruby on Rails applications.
-- [zammad](https://github.com/zammad/zammad)
-  - Zammad is a web based open source helpdesk/customer support system
+- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
+  - Ruby implementation of GraphQL
+- [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening)
+  - This Ansible role provides numerous security-related configurations, providing all-round base protection.
+- [liquid](https://github.com/Shopify/liquid)
+  - Liquid markup language. Safe, customer facing template language for flexible web apps.
+- [simple_form](https://github.com/heartcombo/simple_form)
+  - Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
+- [concurrent-ruby](https://github.com/ruby-concurrency/concurrent-ruby)
+  - Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
+- [rails](https://github.com/rails/rails)
+  - Ruby on Rails
+- [solidus](https://github.com/solidusio/solidus)
+  - 🛒Solidus, Rails eCommerce System
+- [pundit](https://github.com/varvet/pundit)
+  - Minimal authorization through OO design and pure Ruby classes
+- [terraforming](https://github.com/dtan4/terraforming)
+  - Export existing AWS resources to Terraform style (tf, tfstate)
+- [chef](https://github.com/chef/chef)
+  - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
+- [fastlane](https://github.com/fastlane/fastlane)
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [ruby](https://github.com/ruby/ruby)
+  - The Ruby Programming Language [mirror]
+- [view_component](https://github.com/github/view_component)
+  - View components for Rails
+- [devise](https://github.com/heartcombo/devise)
+  - Flexible authentication solution for Rails with Warden.
+- [doorkeeper](https://github.com/doorkeeper-gem/doorkeeper)
+  - Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.
+- [newrelic-ruby-agent](https://github.com/newrelic/newrelic-ruby-agent)
+  - New Relic RPM Ruby Agent
+- [activerecord-import](https://github.com/zdennis/activerecord-import)
+  - A library for bulk insertion of data into your database using ActiveRecord.
+- [cocoapods-imy-bin](https://github.com/MeetYouDevs/cocoapods-imy-bin)
+  - 
+- [discourse](https://github.com/discourse/discourse)
+  - A platform for community discussion. Free, open, simple.
+- [choosealicense.com](https://github.com/github/choosealicense.com)
+  - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [gitlabhq](https://github.com/gitlabhq/gitlabhq)
   - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
 - [vagrant](https://github.com/hashicorp/vagrant)
   - Vagrant is a tool for building and distributing development environments.
-- [sidekiq](https://github.com/mperham/sidekiq)
-  - Simple, efficient background processing for Ruby
-- [acts_as_paranoid](https://github.com/ActsAsParanoid/acts_as_paranoid)
-  - ActiveRecord plugin allowing you to hide and restore records without actually deleting them.
-- [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)
-  - Simple one-liner tests for common Rails functionality
-- [inspec](https://github.com/inspec/inspec)
-  - InSpec: Auditing and Testing Framework
-- [react-native-config](https://github.com/luggit/react-native-config)
-  - Bring some 12 factor love to your mobile apps!
-- [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch)
-  - Ansible playbook for Elasticsearch
-- [simple_form](https://github.com/heartcombo/simple_form)
-  - Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
-- [rswag](https://github.com/rswag/rswag)
-  - Seamlessly adds a Swagger to Rails-based API's
-- [concurrent-ruby](https://github.com/ruby-concurrency/concurrent-ruby)
-  - Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
