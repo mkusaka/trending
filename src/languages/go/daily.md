@@ -1,51 +1,51 @@
 # go
-- [lotus](https://github.com/filecoin-project/lotus)
-  - Implementation of the Filecoin protocol, written in Go
 - [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2)
   - An open source re-implementation of Diablo 2
-- [vault](https://github.com/hashicorp/vault)
-  - A tool for secrets management, encryption as a service, and privileged access management
-- [gotraining](https://github.com/ardanlabs/gotraining)
-  - Go Training Class Material :
 - [umi-core](https://github.com/umi-top/umi-core)
   - UMI Core Go Library
-- [thanos](https://github.com/thanos-io/thanos)
-  - Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.
-- [clash](https://github.com/Dreamacro/clash)
-  - A rule-based tunnel in Go.
-- [testify](https://github.com/stretchr/testify)
-  - A toolkit with common assertions and mocks that plays nicely with the standard library
+- [vault](https://github.com/hashicorp/vault)
+  - A tool for secrets management, encryption as a service, and privileged access management
+- [cadvisor](https://github.com/google/cadvisor)
+  - Analyzes resource usage and performance characteristics of running containers.
 - [clutch](https://github.com/lyft/clutch)
   - Extensible platform for infrastructure management
-- [golang-lru](https://github.com/hashicorp/golang-lru)
-  - Golang LRU cache
-- [terraform](https://github.com/hashicorp/terraform)
-  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [rancher](https://github.com/rancher/rancher)
-  - Complete container management platform
-- [argo-cd](https://github.com/argoproj/argo-cd)
-  - Declarative continuous deployment for Kubernetes.
+- [terraformer](https://github.com/GoogleCloudPlatform/terraformer)
+  - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+- [gotraining](https://github.com/ardanlabs/gotraining)
+  - Go Training Class Material :
+- [go](https://github.com/golang/go)
+  - The Go programming language
+- [gonum](https://github.com/gonum/gonum)
+  - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
+- [kaniko](https://github.com/GoogleContainerTools/kaniko)
+  - Build Container Images In Kubernetes
 - [ffuf](https://github.com/ffuf/ffuf)
   - Fast web fuzzer written in Go
-- [clair](https://github.com/quay/clair)
-  - Vulnerability Static Analysis for Containers
-- [prometheus](https://github.com/prometheus/prometheus)
-  - The Prometheus monitoring system and time series database.
-- [mosn](https://github.com/mosn/mosn)
-  - MOSN is a cloud native proxy for edge or service mesh. https://mosn.io
-- [dns](https://github.com/miekg/dns)
-  - DNS library in Go
-- [go-control-plane](https://github.com/envoyproxy/go-control-plane)
-  - Go implementation of data-plane-api
+- [echo](https://github.com/labstack/echo)
+  - High performance, minimalist Go web framework
+- [lotus](https://github.com/filecoin-project/lotus)
+  - Implementation of the Filecoin protocol, written in Go
+- [gabs](https://github.com/Jeffail/gabs)
+  - For parsing, creating and editing unknown or dynamic JSON in Go
+- [charts](https://github.com/helm/charts)
+  - Curated applications for Kubernetes
+- [sarama](https://github.com/Shopify/sarama)
+  - Sarama is a Go library for Apache Kafka 0.8, and up.
+- [k9s](https://github.com/derailed/k9s)
+  - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [helm](https://github.com/helm/helm)
+  - The Kubernetes Package Manager
 - [jwt-go](https://github.com/dgrijalva/jwt-go)
   - Golang implementation of JSON Web Tokens (JWT)
-- [azure-sdk-for-go](https://github.com/Azure/azure-sdk-for-go)
-  - Microsoft Azure SDK for Go
-- [git-lfs](https://github.com/git-lfs/git-lfs)
-  - Git extension for versioning large files
-- [kubernetes-ingress](https://github.com/nginxinc/kubernetes-ingress)
-  - NGINX and NGINX Plus Ingress Controllers for Kubernetes
-- [atlantis](https://github.com/runatlantis/atlantis)
-  - Terraform Pull Request Automation
-- [etcd](https://github.com/etcd-io/etcd)
-  - Distributed reliable key-value store for the most critical data of a distributed system
+- [fzf](https://github.com/junegunn/fzf)
+  - 🌸 A command-line fuzzy finder
+- [golang-lru](https://github.com/hashicorp/golang-lru)
+  - Golang LRU cache
+- [go-spew](https://github.com/davecgh/go-spew)
+  - Implements a deep pretty printer for Go data structures to aid in debugging
+- [logrus](https://github.com/sirupsen/logrus)
+  - Structured, pluggable logging for Go.
+- [testify](https://github.com/stretchr/testify)
+  - A toolkit with common assertions and mocks that plays nicely with the standard library
+- [terratest](https://github.com/gruntwork-io/terratest)
+  - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
