@@ -1,49 +1,49 @@
 # general
-- [fawkes](https://github.com/Shawn-Shan/fawkes) : Python
-  - Fawkes, privacy preserving tool against facial recognition systems. More info at http://sandlab.cs.uchicago.edu/fawkes
-- [stock](https://github.com/pythonstock/stock) : Python
-  - stock，股票系统。使用python进行开发。
-- [hello-algorithm](https://github.com/geekxh/hello-algorithm) : JavaScript
-  - 🙈🙉🙊 本项目包括：1、我写的三十万字图解算法题典 2、100 张 IT 相关超清思维导图 3、100 篇大厂面经汇总 4、各语言编程电子书 100 本 5、English version supported !!! 🚀🚀 国人项目上榜首不易，右上角助力一波！干就对了，奥利给 ！🚀🚀
-- [wiki](https://github.com/Requarks/wiki) : Vue
-  - Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
-- [cat](https://github.com/dianping/cat) : Java
-  - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
-- [lotus](https://github.com/filecoin-project/lotus) : Go
-  - Implementation of the Filecoin protocol, written in Go
-- [applied-ml](https://github.com/eugeneyan/applied-ml) : 
-  - Curated papers, articles & videos on data science & machine learning applied in production, with results.
-- [storybook](https://github.com/storybookjs/storybook) : TypeScript
-  - 📓 The UI component workshop. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
-- [jetbrains-agent-latest](https://github.com/czl0325/jetbrains-agent-latest) : 
-  - jetbrains全家桶永久激活破解，不需要修改host。完美破解！共享给各个程序员兄弟使用。适用于2020版本。
-- [proposal-record-tuple](https://github.com/tc39/proposal-record-tuple) : HTML
-  - ECMAScript proposal for the Record and Tuple value types. | Stage 2: it will change!
+- [rengine](https://github.com/yogeshojha/rengine) : JavaScript
+  - reNgine is an automated reconnaissance framework meant for gathering information during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
+- [easy_rust](https://github.com/Dhghomon/easy_rust) : 
+  - Rust explained using easy English
 - [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) : Go
   - An open source re-implementation of Diablo 2
-- [umi-top.github.io](https://github.com/umi-top/umi-top.github.io) : HTML
-- [awesome-mlops](https://github.com/visenger/awesome-mlops) : 
-  - A curated list of references for MLOps
-- [umi-core-php](https://github.com/umi-top/umi-core-php) : PHP
-  - UMI Core PHP Library
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [vault](https://github.com/hashicorp/vault) : Go
-  - A tool for secrets management, encryption as a service, and privileged access management
-- [css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) : 
-  - Style your readme using CSS with this simple trick
-- [AI-ML-July-2020](https://github.com/LetsUpgrade/AI-ML-July-2020) : Jupyter Notebook
-- [bloatbox](https://github.com/builtbybel/bloatbox) : C#
-  - ☑️🌠 Get rid of bloatware and clean your Windows 10 Start menu
-- [awesome-ml-courses](https://github.com/luspr/awesome-ml-courses) : 
-  - Awesome free machine learning and AI courses with video lectures.
+- [hello-algorithm](https://github.com/geekxh/hello-algorithm) : JavaScript
+  - 🙈🙉🙊 本项目包括：1、我写的三十万字图解算法题典 2、100 张 IT 相关超清思维导图 3、100 篇大厂面经汇总 4、各语言编程电子书 100 本 5、English version supported !!! 🚀🚀 国人项目上榜首不易，右上角助力一波！干就对了，奥利给 ！🚀🚀
 - [JavaFamily](https://github.com/AobingJava/JavaFamily) : 
   - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+- [fawkes](https://github.com/Shawn-Shan/fawkes) : Python
+  - Fawkes, privacy preserving tool against facial recognition systems. More info at http://sandlab.cs.uchicago.edu/fawkes
+- [jetbrains-agent-latest](https://github.com/czl0325/jetbrains-agent-latest) : 
+  - jetbrains全家桶永久激活破解，不需要修改host。完美破解！共享给各个程序员兄弟使用。适用于2020版本。
+- [gpt3-sandbox](https://github.com/shreyashankar/gpt3-sandbox) : JavaScript
+  - The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.
+- [umi-top.github.io](https://github.com/umi-top/umi-top.github.io) : HTML
+- [umi-core-py](https://github.com/umi-top/umi-core-py) : 
+  - UMI Core Python Library
+- [rpi-power-monitor](https://github.com/David00/rpi-power-monitor) : Python
+  - Raspberry Pi Power Monitor
+- [umi-core-php](https://github.com/umi-top/umi-core-php) : PHP
+  - UMI Core PHP Library
+- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) : Kotlin
+  - Native Android app using the Apple/Google exposure notification API.
 - [umi-core-js](https://github.com/umi-top/umi-core-js) : JavaScript
   - UMI Core JS Library
-- [gotraining](https://github.com/ardanlabs/gotraining) : Go
-  - Go Training Class Material :
-- [industry-machine-learning](https://github.com/firmai/industry-machine-learning) : Jupyter Notebook
-  - A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)
-- [3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting) : Python
-  - [CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
+- [RustScan](https://github.com/brandonskerritt/RustScan) : Rust
+  - Faster Nmap Scanning with Rust
+- [umi-core](https://github.com/umi-top/umi-core) : Go
+  - UMI Core Go Library
+- [stock](https://github.com/pythonstock/stock) : Python
+  - stock，股票系统。使用python进行开发。
+- [angular-tetris](https://github.com/trungk18/angular-tetris) : TypeScript
+  - Tetris game built with Angular 10 and Akita 🎮
+- [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) : 
+  - 汇总各大互联网公司容易考察的高频leetcode题🔥
+- [GitHub520](https://github.com/521xueweihan/GitHub520) : Python
+  - 😘让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。
+- [awesome-gpt3](https://github.com/elyase/awesome-gpt3) : 
+- [retinaface](https://github.com/ternaus/retinaface) : Python
+  - The remake of the https://github.com/biubug6/Pytorch_Retinaface
+- [openpilot](https://github.com/commaai/openpilot) : C++
+  - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
+- [cwa-app-ios](https://github.com/corona-warn-app/cwa-app-ios) : Swift
+  - Native iOS app using the exposure notification framework from Apple.
+- [storybook](https://github.com/storybookjs/storybook) : TypeScript
+  - 📓 The UI component workshop. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
