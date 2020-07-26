@@ -1,51 +1,51 @@
 # rust
-- [RustScan](https://github.com/brandonskerritt/RustScan)
+- [RustScan](https://github.com/RustScan/RustScan)
   - Faster Nmap Scanning with Rust
-- [swc](https://github.com/swc-project/swc)
-  - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
-- [talent-plan](https://github.com/pingcap/talent-plan)
-  - open source training courses about distributed database and distributed systemes
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [substrate](https://github.com/paritytech/substrate)
-  - Substrate: The platform for blockchain innovators
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
-  - Unofficial Bitwarden compatible server written in Rust
-- [amethyst](https://github.com/amethyst/amethyst)
-  - Data-oriented and data-driven game engine written in Rust
-- [sqlx](https://github.com/launchbadge/sqlx)
-  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-- [git-oxide](https://github.com/Byron/git-oxide)
-  - An idiomatic, modern, lean, fast, safe & pure rust implementation of git
+- [langcraft](https://github.com/SuperTails/langcraft)
+  - Compiler from LLVM IR to Minecraft datapacks.
+- [rust-blog](https://github.com/pretzelhammer/rust-blog)
+  - Educational blog posts for Rust beginners
+- [alacritty](https://github.com/alacritty/alacritty)
+  - A cross-platform, GPU-accelerated terminal emulator
+- [juniper](https://github.com/graphql-rust/juniper)
+  - GraphQL server library for Rust
+- [tikv](https://github.com/tikv/tikv)
+  - Distributed transactional key-value database, originally created to complement TiDB
 - [MLA](https://github.com/ANSSI-FR/MLA)
   - Multi Layer Archive - A pure rust encrypted and compressed archive file format
-- [tracing](https://github.com/tokio-rs/tracing)
-  - Application level tracing for Rust.
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [warp](https://github.com/seanmonstar/warp)
-  - A super-easy, composable, web server framework for warp speeds.
-- [rust-fil-proofs](https://github.com/filecoin-project/rust-fil-proofs)
-  - Proofs for Filecoin in Rust
-- [servo](https://github.com/servo/servo)
-  - The Servo Browser Engine
-- [abstreet](https://github.com/dabreegster/abstreet)
-  - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [ripgrep](https://github.com/BurntSushi/ripgrep)
-  - ripgrep recursively searches directories for a regex pattern
-- [WASI](https://github.com/WebAssembly/WASI)
-  - WebAssembly System Interface
-- [firecracker](https://github.com/firecracker-microvm/firecracker)
-  - Secure and fast microVMs for serverless computing.
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
+- [spotifyd](https://github.com/Spotifyd/spotifyd)
+  - A spotify daemon
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
 - [ruffle](https://github.com/ruffle-rs/ruffle)
   - A Flash Player emulator written in Rust
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
+- [linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy)
+  - The world's best service mesh proxy. Written in Rust.
+- [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
+  - The Mullvad VPN client app for desktop and mobile
 - [aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime)
   - A Rust runtime for AWS Lambda
-- [wasmtime](https://github.com/bytecodealliance/wasmtime)
-  - Standalone JIT-style runtime for WebAssembly, using Cranelift
-- [orjson](https://github.com/ijl/orjson)
-  - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
-- [ballista](https://github.com/ballista-compute/ballista)
-  - Distributed compute platform implemented in Rust, using Apache Arrow memory model.
+- [librespot](https://github.com/librespot-org/librespot)
+  - Open Source Spotify client library
+- [oha](https://github.com/hatoo/oha)
+  - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
+- [xi-editor](https://github.com/xi-editor/xi-editor)
+  - A modern editor with a backend written in Rust.
+- [reqwest](https://github.com/seanmonstar/reqwest)
+  - An easy and powerful Rust HTTP Client
+- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+  - 📚 Learn to write an embedded OS in Rust 🦀
+- [WASI](https://github.com/WebAssembly/WASI)
+  - WebAssembly System Interface
+- [tracing](https://github.com/tokio-rs/tracing)
+  - Application level tracing for Rust.
+- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
+  - Facilitating high-level interactions between Wasm modules and JavaScript
+- [zenith](https://github.com/bvaisvil/zenith)
+  - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage

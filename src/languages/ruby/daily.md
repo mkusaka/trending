@@ -1,51 +1,51 @@
 # ruby
-- [good_job](https://github.com/bensheldon/good_job)
-  - Multithreaded, Postgres-based, ActiveJob backend for Ruby on Rails.
-- [discourse](https://github.com/discourse/discourse)
-  - A platform for community discussion. Free, open, simple.
-- [simple_form](https://github.com/heartcombo/simple_form)
-  - Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
-- [solidus](https://github.com/solidusio/solidus)
-  - 🛒Solidus, Rails eCommerce System
-- [rails](https://github.com/rails/rails)
-  - Ruby on Rails
-- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
-  - Ruby implementation of GraphQL
 - [metasploit-framework](https://github.com/rapid7/metasploit-framework)
   - Metasploit Framework
-- [pghero](https://github.com/ankane/pghero)
-  - A performance dashboard for Postgres
-- [devise](https://github.com/heartcombo/devise)
-  - Flexible authentication solution for Rails with Warden.
-- [puppet](https://github.com/puppetlabs/puppet)
-  - Server automation framework and application
-- [huginn](https://github.com/huginn/huginn)
-  - Create agents that monitor and act on your behalf. Your agents are standing by!
-- [sidekiq](https://github.com/mperham/sidekiq)
-  - Simple, efficient background processing for Ruby
-- [classroom](https://github.com/education/classroom)
-  - GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
-- [rest-client](https://github.com/rest-client/rest-client)
-  - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
+- [chatwoot](https://github.com/chatwoot/chatwoot)
+  - Open-source live chat software 🔥💬
 - [JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
   - Welcom to my profile README. Participate in my community Connect4 game!
-- [pact_broker](https://github.com/pact-foundation/pact_broker)
-  - Enables your consumer driven contracts workflow
-- [ahoy](https://github.com/ankane/ahoy)
-  - Simple, powerful, first-party analytics for Rails
-- [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch)
-  - Ansible playbook for Elasticsearch
-- [fluentd](https://github.com/fluent/fluentd)
-  - Fluentd: Unified Logging Layer (project under CNCF)
-- [logstash](https://github.com/elastic/logstash)
-  - Logstash - transport and process your logs, events, or other data
-- [react-native-config](https://github.com/luggit/react-native-config)
-  - Bring some 12 factor love to your mobile apps!
-- [searchkick](https://github.com/ankane/searchkick)
-  - Intelligent search made easy with Rails and Elasticsearch
-- [shrine](https://github.com/shrinerb/shrine)
-  - File Attachment toolkit for Ruby applications
+- [OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)
+  - 📙 OSCP Exam Report Template in Markdown
+- [ruby](https://github.com/ruby/ruby)
+  - The Ruby Programming Language [mirror]
+- [pghero](https://github.com/ankane/pghero)
+  - A performance dashboard for Postgres
+- [brew](https://github.com/Homebrew/brew)
+  - 🍺 The missing package manager for macOS (or Linux)
+- [futurism](https://github.com/julianrubisch/futurism)
+  - Lazy-load Rails partials via CableReady
 - [explore](https://github.com/github/explore)
   - Community-curated topic and collection pages on GitHub
-- [vagrant](https://github.com/hashicorp/vagrant)
-  - Vagrant is a tool for building and distributing development environments.
+- [fluentd](https://github.com/fluent/fluentd)
+  - Fluentd: Unified Logging Layer (project under CNCF)
+- [mastodon](https://github.com/tootsuite/mastodon)
+  - Your self-hosted, globally interconnected microblogging community
+- [discourse](https://github.com/discourse/discourse)
+  - A platform for community discussion. Free, open, simple.
+- [wpscan](https://github.com/wpscanteam/wpscan)
+  - WPScan is a free, for non-commercial use, black box WordPress security scanner written for security professionals and blog maintainers to test the security of their WordPress websites.
+- [wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader)
+  - Download an entire website from the Wayback Machine.
+- [capybara](https://github.com/teamcapybara/capybara)
+  - Acceptance test framework for web applications
+- [debugging-with-pry-v-000](https://github.com/learn-co-students/debugging-with-pry-v-000)
+  - 
+- [homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
+  - 🖋 Casks of Ｆ🅾𝓝𝐓𝚂
+- [dependabot-core](https://github.com/dependabot/dependabot-core)
+  - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot
+- [danbooru](https://github.com/danbooru/danbooru)
+  - A taggable image board written in Rails 6.
+- [homebrew-core](https://github.com/Homebrew/homebrew-core)
+  - 🍻 Default formulae for the missing package manager for macOS
+- [devdocs](https://github.com/freeCodeCamp/devdocs)
+  - API Documentation Browser
+- [activerecord-import](https://github.com/zdennis/activerecord-import)
+  - A library for bulk insertion of data into your database using ActiveRecord.
+- [rails](https://github.com/rails/rails)
+  - Ruby on Rails
+- [ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db)
+  - A database of vulnerable Ruby Gems
+- [refactoring-fortune-teller](https://github.com/appdev-projects/refactoring-fortune-teller)
+  - 
