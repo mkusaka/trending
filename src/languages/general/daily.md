@@ -1,49 +1,50 @@
 # general
-- [rengine](https://github.com/yogeshojha/rengine) : JavaScript
-  - reNgine is an automated reconnaissance framework meant for gathering information during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
-- [easy_rust](https://github.com/Dhghomon/easy_rust) : 
-  - Rust explained using easy English
-- [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) : Go
-  - An open source re-implementation of Diablo 2
-- [hello-algorithm](https://github.com/geekxh/hello-algorithm) : JavaScript
-  - 🙈🙉🙊 本项目包括：1、我写的三十万字图解算法题典 2、100 张 IT 相关超清思维导图 3、100 篇大厂面经汇总 4、各语言编程电子书 100 本 5、English version supported !!! 🚀🚀 国人项目上榜首不易，右上角助力一波！干就对了，奥利给 ！🚀🚀
-- [JavaFamily](https://github.com/AobingJava/JavaFamily) : 
-  - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-- [fawkes](https://github.com/Shawn-Shan/fawkes) : Python
-  - Fawkes, privacy preserving tool against facial recognition systems. More info at http://sandlab.cs.uchicago.edu/fawkes
 - [jetbrains-agent-latest](https://github.com/czl0325/jetbrains-agent-latest) : 
   - jetbrains全家桶永久激活破解，不需要修改host。完美破解！共享给各个程序员兄弟使用。适用于2020版本。
-- [gpt3-sandbox](https://github.com/shreyashankar/gpt3-sandbox) : JavaScript
-  - The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.
-- [umi-top.github.io](https://github.com/umi-top/umi-top.github.io) : HTML
-- [umi-core-py](https://github.com/umi-top/umi-core-py) : 
-  - UMI Core Python Library
-- [rpi-power-monitor](https://github.com/David00/rpi-power-monitor) : Python
-  - Raspberry Pi Power Monitor
-- [umi-core-php](https://github.com/umi-top/umi-core-php) : PHP
-  - UMI Core PHP Library
+- [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) : Go
+  - An open source re-implementation of Diablo 2
+- [androidx](https://github.com/androidx/androidx) : Java
+  - Development environment for Jetpack Android extension libraries. Synchronized with Jetpack's primary development branch on AOSP.
 - [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) : Kotlin
   - Native Android app using the Apple/Google exposure notification API.
-- [umi-core-js](https://github.com/umi-top/umi-core-js) : JavaScript
-  - UMI Core JS Library
-- [RustScan](https://github.com/brandonskerritt/RustScan) : Rust
+- [rengine](https://github.com/yogeshojha/rengine) : JavaScript
+  - reNgine is an automated reconnaissance framework meant for gathering information during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) : JavaScript
+  - ⚡ Dynamically generated stats for your github readmes
+- [workshop](https://github.com/data-science-on-aws/workshop) : Jupyter Notebook
+  - AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker
+- [RustScan](https://github.com/RustScan/RustScan) : Rust
   - Faster Nmap Scanning with Rust
-- [umi-core](https://github.com/umi-top/umi-core) : Go
-  - UMI Core Go Library
-- [stock](https://github.com/pythonstock/stock) : Python
-  - stock，股票系统。使用python进行开发。
-- [angular-tetris](https://github.com/trungk18/angular-tetris) : TypeScript
-  - Tetris game built with Angular 10 and Akita 🎮
-- [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) : 
-  - 汇总各大互联网公司容易考察的高频leetcode题🔥
-- [GitHub520](https://github.com/521xueweihan/GitHub520) : Python
-  - 😘让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。
-- [awesome-gpt3](https://github.com/elyase/awesome-gpt3) : 
-- [retinaface](https://github.com/ternaus/retinaface) : Python
-  - The remake of the https://github.com/biubug6/Pytorch_Retinaface
-- [openpilot](https://github.com/commaai/openpilot) : C++
-  - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
+- [ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) : C++
+  - ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 - [cwa-app-ios](https://github.com/corona-warn-app/cwa-app-ios) : Swift
   - Native iOS app using the exposure notification framework from Apple.
-- [storybook](https://github.com/storybookjs/storybook) : TypeScript
-  - 📓 The UI component workshop. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
+- [cutter](https://github.com/radareorg/cutter) : C++
+  - Free and Open Source Reverse Engineering Platform powered by radare2
+- [gpt3-sandbox](https://github.com/shreyashankar/gpt3-sandbox) : JavaScript
+  - The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.
+- [awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) : 
+  - For when people get too hyped up about things
+- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) : 
+  - Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
+- [openpilot](https://github.com/commaai/openpilot) : C++
+  - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
+- [python-cheatsheet](https://github.com/gto76/python-cheatsheet) : Python
+  - Comprehensive Python Cheatsheet
+- [machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap) : 
+  - A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
+- [umi-core-js](https://github.com/umi-top/umi-core-js) : JavaScript
+  - UMI Core JS Library
+- [easy_rust](https://github.com/Dhghomon/easy_rust) : Shell
+  - Rust explained using easy English
+- [awesome-gpt3](https://github.com/elyase/awesome-gpt3) : 
+- [neovim](https://github.com/neovim/neovim) : Vim script
+  - Vim-fork focused on extensibility and usability
+- [GitHub520](https://github.com/521xueweihan/GitHub520) : Python
+  - 😘让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。
+- [rpi-power-monitor](https://github.com/David00/rpi-power-monitor) : Python
+  - Raspberry Pi Power Monitor
+- [fawkes](https://github.com/Shawn-Shan/fawkes) : Python
+  - Fawkes, privacy preserving tool against facial recognition systems. More info at http://sandlab.cs.uchicago.edu/fawkes
+- [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) : 
+  - 汇总各大互联网公司容易考察的高频leetcode题🔥

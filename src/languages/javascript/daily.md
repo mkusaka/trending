@@ -1,51 +1,51 @@
 # javascript
 - [rengine](https://github.com/yogeshojha/rengine)
   - reNgine is an automated reconnaissance framework meant for gathering information during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
-- [hello-algorithm](https://github.com/geekxh/hello-algorithm)
-  - 🙈🙉🙊 本项目包括：1、我写的三十万字图解算法题典 2、100 张 IT 相关超清思维导图 3、100 篇大厂面经汇总 4、各语言编程电子书 100 本 5、English version supported !!! 🚀🚀 国人项目上榜首不易，右上角助力一波！干就对了，奥利给 ！🚀🚀
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+  - ⚡ Dynamically generated stats for your github readmes
 - [gpt3-sandbox](https://github.com/shreyashankar/gpt3-sandbox)
   - The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.
 - [umi-core-js](https://github.com/umi-top/umi-core-js)
   - UMI Core JS Library
-- [react-query](https://github.com/tannerlinsley/react-query)
-  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
-- [gutenberg](https://github.com/WordPress/gutenberg)
-  - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
   - 🛁 Clean Code concepts adapted for JavaScript
-- [responsively-app](https://github.com/manojVivek/responsively-app)
-  - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
-- [hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
-  - Based on a true story
-- [cube.js](https://github.com/cube-js/cube.js)
-  - 📊 Cube.js - Open Source Analytics Framework
-- [cypress](https://github.com/cypress-io/cypress)
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [plotly.js](https://github.com/plotly/plotly.js)
-  - Open-source JavaScript charting library behind Plotly and Dash
-- [three.js](https://github.com/mrdoob/three.js)
-  - JavaScript 3D library.
-- [react-refresh-webpack-plugin](https://github.com/pmmmwh/react-refresh-webpack-plugin)
-  - A Webpack plugin to enable "Fast Refresh" (also previously known as Hot Reloading) for React components.
-- [odoo](https://github.com/odoo/odoo)
-  - Odoo. Open Source Apps To Grow Your Business.
-- [pipedream](https://github.com/PipedreamHQ/pipedream)
-  - Serverless integration and compute platform. Free for developers.
-- [serverless](https://github.com/serverless/serverless)
-  - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
-- [docusaurus](https://github.com/facebook/docusaurus)
-  - Easy to maintain open source documentation websites.
-- [amphtml](https://github.com/ampproject/amphtml)
-  - The AMP web component framework.
-- [next.js](https://github.com/vercel/next.js)
-  - The React Framework
-- [awx](https://github.com/ansible/awx)
-  - AWX Project
-- [heroicons](https://github.com/tailwindlabs/heroicons)
-  - A set of free MIT-licensed high-quality SVG icons for UI development.
-- [plugins](https://github.com/rollup/plugins)
-  - 🍣 The one-stop shop for official Rollup plugins
+- [hello-algorithm](https://github.com/geekxh/hello-algorithm)
+  - 🙈🙉🙊 本项目包括：1、我写的三十万字图解算法题典 2、100 张 IT 相关超清思维导图 3、100 篇大厂面经汇总 4、各语言编程电子书 100 本 5、English version supported !!! 🚀🚀 国人项目上榜首不易，右上角助力一波！干就对了，奥利给 ！🚀🚀
+- [yieldfarming](https://github.com/yieldfarming/yieldfarming)
+  - 🧑‍🌾 It ain't much, but it's an honest work
+- [leonsans](https://github.com/cmiscm/leonsans)
+  - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
 - [v4](https://github.com/bchiang7/v4)
   - Fourth iteration of my personal website
-- [javascript](https://github.com/airbnb/javascript)
-  - JavaScript Style Guide
+- [project_chat_application](https://github.com/adrianhajdin/project_chat_application)
+  - This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a real time chat application. Covered topics: React.js, Node.js, Express.js, and Socket.io.
+- [iptv](https://github.com/iptv-org/iptv)
+  - Collection of 8000+ publicly available IPTV channels from all over the world
+- [react-refresh-webpack-plugin](https://github.com/pmmmwh/react-refresh-webpack-plugin)
+  - A Webpack plugin to enable "Fast Refresh" (also previously known as Hot Reloading) for React components.
+- [pipedream](https://github.com/PipedreamHQ/pipedream)
+  - Serverless integration and compute platform. Free for developers.
+- [awesome-README-templates](https://github.com/elangosundar/awesome-README-templates)
+  - A collection of awesome readme templates to display on your github profile.
+- [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+  - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
+- [esercizi-di-programmazione-javascript](https://github.com/AlbertoOlla/esercizi-di-programmazione-javascript)
+  - Esercizi di informatica! Impara a programmare, metti alla prova!
+- [three.js](https://github.com/mrdoob/three.js)
+  - JavaScript 3D library.
+- [next.js](https://github.com/vercel/next.js)
+  - The React Framework
+- [heroicons](https://github.com/tailwindlabs/heroicons)
+  - A set of free MIT-licensed high-quality SVG icons for UI development.
+- [Motrix](https://github.com/agalwood/Motrix)
+  - A full-featured download manager.
+- [gatsby-simplefolio](https://github.com/cobidev/gatsby-simplefolio)
+  - ⚡️ A minimal Gatsby portfolio template for Developers
+- [label-studio](https://github.com/heartexlabs/label-studio)
+  - Label Studio is a multi-type data labeling and annotation tool with standardized output format
+- [website](https://github.com/CodingTrain/website)
+  - The train engine powering the Coding Train website
+- [WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
+  - Play with fluids in your browser (works even on mobile)
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
