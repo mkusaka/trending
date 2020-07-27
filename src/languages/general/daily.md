@@ -1,50 +1,48 @@
 # general
-- [jetbrains-agent-latest](https://github.com/czl0325/jetbrains-agent-latest) : 
-  - jetbrains全家桶永久激活破解，不需要修改host。完美破解！共享给各个程序员兄弟使用。适用于2020版本。
-- [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) : Go
-  - An open source re-implementation of Diablo 2
-- [androidx](https://github.com/androidx/androidx) : Java
-  - Development environment for Jetpack Android extension libraries. Synchronized with Jetpack's primary development branch on AOSP.
-- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) : Kotlin
-  - Native Android app using the Apple/Google exposure notification API.
-- [rengine](https://github.com/yogeshojha/rengine) : JavaScript
-  - reNgine is an automated reconnaissance framework meant for gathering information during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
-- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) : JavaScript
-  - ⚡ Dynamically generated stats for your github readmes
-- [workshop](https://github.com/data-science-on-aws/workshop) : Jupyter Notebook
-  - AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker
-- [RustScan](https://github.com/RustScan/RustScan) : Rust
-  - Faster Nmap Scanning with Rust
 - [ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) : C++
   - ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
-- [cwa-app-ios](https://github.com/corona-warn-app/cwa-app-ios) : Swift
-  - Native iOS app using the exposure notification framework from Apple.
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) : JavaScript
+  - ⚡ Dynamically generated stats for your github readmes
+- [felicette](https://github.com/plant99/felicette) : Python
+  - Satellite imagery for dummies.
+- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) : Kotlin
+  - Native Android app using the Apple/Google exposure notification API.
 - [cutter](https://github.com/radareorg/cutter) : C++
   - Free and Open Source Reverse Engineering Platform powered by radare2
 - [gpt3-sandbox](https://github.com/shreyashankar/gpt3-sandbox) : JavaScript
   - The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.
-- [awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) : 
-  - For when people get too hyped up about things
-- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) : 
-  - Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
-- [openpilot](https://github.com/commaai/openpilot) : C++
-  - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
+  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [react-native-instagram-clone](https://github.com/iamvucms/react-native-instagram-clone) : TypeScript
+  - A React Native app - Clone Instagram mobile app (In progress)
+- [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) : JavaScript
+  - A collection of awesome readme templates to display on your profile
+- [androidx](https://github.com/androidx/androidx) : Java
+  - Development environment for Jetpack Android extension libraries. Synchronized with Jetpack's primary development branch on AOSP.
+- [handson-ml2](https://github.com/ageron/handson-ml2) : Jupyter Notebook
+  - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+- [tivi](https://github.com/chrisbanes/tivi) : Kotlin
+  - Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.
+- [OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown) : Ruby
+  - 📙 OSCP Exam Report Template in Markdown
 - [python-cheatsheet](https://github.com/gto76/python-cheatsheet) : Python
   - Comprehensive Python Cheatsheet
 - [machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap) : 
   - A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
-- [umi-core-js](https://github.com/umi-top/umi-core-js) : JavaScript
-  - UMI Core JS Library
-- [easy_rust](https://github.com/Dhghomon/easy_rust) : Shell
-  - Rust explained using easy English
-- [awesome-gpt3](https://github.com/elyase/awesome-gpt3) : 
-- [neovim](https://github.com/neovim/neovim) : Vim script
-  - Vim-fork focused on extensibility and usability
-- [GitHub520](https://github.com/521xueweihan/GitHub520) : Python
-  - 😘让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。
-- [rpi-power-monitor](https://github.com/David00/rpi-power-monitor) : Python
-  - Raspberry Pi Power Monitor
-- [fawkes](https://github.com/Shawn-Shan/fawkes) : Python
-  - Fawkes, privacy preserving tool against facial recognition systems. More info at http://sandlab.cs.uchicago.edu/fawkes
-- [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) : 
-  - 汇总各大互联网公司容易考察的高频leetcode题🔥
+- [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) : Go
+  - An open source re-implementation of Diablo 2
+- [laravel-boilerplate](https://github.com/rappasoft/laravel-boilerplate) : PHP
+  - The Laravel Boilerplate Project - https://laravel-boilerplate.com
+- [umi-core](https://github.com/umi-top/umi-core) : Go
+  - UMI Core Go Library
+- [movement-tracking](https://github.com/surya-veer/movement-tracking) : Python
+  - UP - DOWN - LEFT - RIGHT movement tracking.
+- [umi-top.github.io](https://github.com/umi-top/umi-top.github.io) : HTML
+- [fullstack-starterkit](https://github.com/karanpratapsingh/fullstack-starterkit) : TypeScript
+  - GraphQL first full-stack starter kit with Node, React. Powered by TypeScript
+- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) : 
+  - Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
+- [umi-core-php](https://github.com/umi-top/umi-core-php) : PHP
+  - UMI Core PHP Library

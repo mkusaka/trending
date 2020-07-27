@@ -1,51 +1,51 @@
 # rust
-- [RustScan](https://github.com/RustScan/RustScan)
-  - Faster Nmap Scanning with Rust
-- [langcraft](https://github.com/SuperTails/langcraft)
-  - Compiler from LLVM IR to Minecraft datapacks.
-- [rust-blog](https://github.com/pretzelhammer/rust-blog)
-  - Educational blog posts for Rust beginners
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
-- [juniper](https://github.com/graphql-rust/juniper)
-  - GraphQL server library for Rust
-- [tikv](https://github.com/tikv/tikv)
-  - Distributed transactional key-value database, originally created to complement TiDB
-- [MLA](https://github.com/ANSSI-FR/MLA)
-  - Multi Layer Archive - A pure rust encrypted and compressed archive file format
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
-- [spotifyd](https://github.com/Spotifyd/spotifyd)
-  - A spotify daemon
 - [rust](https://github.com/rust-lang/rust)
   - Empowering everyone to build reliable and efficient software.
-- [ruffle](https://github.com/ruffle-rs/ruffle)
-  - A Flash Player emulator written in Rust
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy)
-  - The world's best service mesh proxy. Written in Rust.
-- [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
-  - The Mullvad VPN client app for desktop and mobile
-- [aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime)
-  - A Rust runtime for AWS Lambda
-- [librespot](https://github.com/librespot-org/librespot)
-  - Open Source Spotify client library
-- [oha](https://github.com/hatoo/oha)
-  - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
-- [xi-editor](https://github.com/xi-editor/xi-editor)
-  - A modern editor with a backend written in Rust.
-- [reqwest](https://github.com/seanmonstar/reqwest)
-  - An easy and powerful Rust HTTP Client
-- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
-  - 📚 Learn to write an embedded OS in Rust 🦀
-- [WASI](https://github.com/WebAssembly/WASI)
-  - WebAssembly System Interface
+- [langcraft](https://github.com/SuperTails/langcraft)
+  - Compiler from LLVM IR to Minecraft datapacks.
+- [RustScan](https://github.com/RustScan/RustScan)
+  - Faster Nmap Scanning with Rust
+- [rust-blog](https://github.com/pretzelhammer/rust-blog)
+  - Educational blog posts for Rust beginners
 - [tracing](https://github.com/tokio-rs/tracing)
   - Application level tracing for Rust.
-- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
-  - Facilitating high-level interactions between Wasm modules and JavaScript
-- [zenith](https://github.com/bvaisvil/zenith)
-  - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
+- [starship](https://github.com/starship/starship)
+  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [amethyst](https://github.com/amethyst/amethyst)
+  - Data-oriented and data-driven game engine written in Rust
+- [spotifyd](https://github.com/Spotifyd/spotifyd)
+  - A spotify daemon
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [tokio](https://github.com/tokio-rs/tokio)
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [MLA](https://github.com/ANSSI-FR/MLA)
+  - Multi Layer Archive - A pure rust encrypted and compressed archive file format
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
+- [reqwest](https://github.com/seanmonstar/reqwest)
+  - An easy and powerful Rust HTTP Client
+- [winrt-rs](https://github.com/microsoft/winrt-rs)
+  - Rust language projection for the Windows Runtime
+- [delta](https://github.com/dandavison/delta)
+  - A viewer for git and diff output
+- [exa](https://github.com/ogham/exa)
+  - A modern version of ‘ls’.
+- [lsd](https://github.com/Peltoche/lsd)
+  - The next gen ls command
+- [hexyl](https://github.com/sharkdp/hexyl)
+  - A command-line hex viewer
+- [winit](https://github.com/rust-windowing/winit)
+  - Window handling library in pure Rust
+- [xi-editor](https://github.com/xi-editor/xi-editor)
+  - A modern editor with a backend written in Rust.
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
+- [gfx](https://github.com/gfx-rs/gfx)
+  - A low-overhead Vulkan-like GPU API for Rust.
+- [image](https://github.com/image-rs/image)
+  - Encoding and decoding images in Rust
+- [lemmy](https://github.com/LemmyNet/lemmy)
+  - 🐀 Building a federated alternative to reddit in rust
+- [iced](https://github.com/hecrj/iced)
+  - A cross-platform GUI library for Rust, inspired by Elm
