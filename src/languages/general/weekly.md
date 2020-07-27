@@ -1,50 +1,51 @@
 # general
-- [youtubeclone-frontend](https://github.com/manikandanraji/youtubeclone-frontend) : JavaScript
-  - Youtube Clone Frontend (React + Redux)
 - [gpt-3](https://github.com/openai/gpt-3) : 
   - GPT-3: Language Models are Few-Shot Learners
-- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) : C++
-  - Awesome OCR toolkits based on PaddlePaddle （8.6M ultra-lightweight pre-trained model, support training and deployment among server, mobile, embeded and IoT devices）
-- [RedditOS](https://github.com/Dimillian/RedditOS) : Swift
-  - A SwiftUI Reddit client for macOS Big Sur
-- [clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) : C#
-  - 🌀 Clean Architecture with .NET Core 3.1, C# 8 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks
-- [NewPipe](https://github.com/TeamNewPipe/NewPipe) : Java
-  - A libre lightweight streaming front-end for Android.
-- [googleapis](https://github.com/googleapis/googleapis) : Starlark
-  - Public interface definitions of Google APIs.
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) : JavaScript
+  - ⚡ Dynamically generated stats for your github readmes
+- [3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting) : Python
+  - [CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
+- [laravel-boilerplate](https://github.com/rappasoft/laravel-boilerplate) : PHP
+  - The Laravel Boilerplate Project - https://laravel-boilerplate.com
+- [wiki](https://github.com/Requarks/wiki) : Vue
+  - Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
+- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) : Vue
+  - 一个基于 electron 的音乐软件
+- [gpt-3-experiments](https://github.com/minimaxir/gpt-3-experiments) : Python
+  - Test prompts for OpenAI's GPT-3 API and the resulting AI-generated texts.
+- [flutter_twitter_clone](https://github.com/TheAlphamerc/flutter_twitter_clone) : Dart
+  - Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage
+- [Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) : Dart
+  - completely free for everyone. Its build-in Flutter Dart.
 - [Rocket](https://github.com/SergioBenitez/Rocket) : Rust
   - A web framework for Rust.
-- [Web](https://github.com/qianguyihao/Web) : JavaScript
-  - 前端入门到进阶，超详细的Web前端学习图文教程。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。
-- [dlwpt-code](https://github.com/deep-learning-with-pytorch/dlwpt-code) : Jupyter Notebook
-  - Code for the book Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann.
-- [SwiftUI-Kit](https://github.com/jordansinger/SwiftUI-Kit) : Swift
-  - A SwiftUI system components and interactions demo app
-- [hackingtool](https://github.com/Z4nzu/hackingtool) : Python
-  - ALL IN ONE Hacking Tool For Hackers
-- [PowerJob](https://github.com/KFCFans/PowerJob) : Java
-  - 新一代分布式任务调度与计算框架，支持CRON、API、固定频率、固定延迟等调度策略，提供工作流来编排任务解决依赖关系，使用简单，功能强大，文档齐全，欢迎各位接入使用！
-- [sqlpad](https://github.com/rickbergfalk/sqlpad) : JavaScript
-  - Web-based SQL editor run in your own private cloud. Supports MySQL, Postgres, SQL Server, Vertica, Crate, ClickHouse, Presto, SAP HANA, Cassandra, Snowflake, BigQuery, SQLite, and more with ODBC
-- [vue-next](https://github.com/vuejs/vue-next) : TypeScript
-  - Repo for Vue 3.0 (currently in beta)
-- [cheatsheets](https://github.com/matplotlib/cheatsheets) : Python
-  - Official Matplotlib cheat sheets
-- [incubator-apisix](https://github.com/apache/incubator-apisix) : Lua
-  - The Cloud-Native API Gateway
-- [pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) : Python
-  - The lightweight PyTorch wrapper for ML researchers. Scale your models. Write less boilerplate
-- [framework](https://github.com/laravel/framework) : PHP
-- [Pokedex](https://github.com/skydoves/Pokedex) : Kotlin
-  - 🗡️ Android Pokedex using Dagger Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
-- [realworld](https://github.com/gothinkster/realworld) : JavaScript
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [protobuf](https://github.com/protocolbuffers/protobuf) : C++
-  - Protocol Buffers - Google's data interchange format
-- [QUANTAXIS](https://github.com/QUANTAXIS/QUANTAXIS) : Python
-  - QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权/港股/虚拟货币 数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案
-- [copilot-cli](https://github.com/aws/copilot-cli) : Go
-  - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on Amazon ECS and AWS Fargate.
-- [pandas_exercises](https://github.com/guipsamora/pandas_exercises) : Jupyter Notebook
-  - Practice your pandas skills!
+- [react-spectrum](https://github.com/adobe/react-spectrum) : TypeScript
+  - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
+- [JavaFamily](https://github.com/AobingJava/JavaFamily) : 
+  - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+- [DOOM-FX](https://github.com/RandalLinden/DOOM-FX) : Assembly
+  - Doom/FX for Super Nintendo with SuperFX GSU2A
+- [Java](https://github.com/TheAlgorithms/Java) : Java
+  - All Algorithms implemented in Java
+- [clash](https://github.com/Dreamacro/clash) : Go
+  - A rule-based tunnel in Go.
+- [gpt-2](https://github.com/openai/gpt-2) : Python
+  - Code for the paper "Language Models are Unsupervised Multitask Learners"
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) : C++
+  - Awesome OCR toolkits based on PaddlePaddle （8.6M ultra-lightweight pre-trained model, support training and deployment among server, mobile, embeded and IoT devices）
+- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) : JavaScript
+  - The iconic SVG, font, and CSS toolkit
+- [svelte](https://github.com/sveltejs/svelte) : JavaScript
+  - Cybernetically enhanced web apps
+- [material-components-web](https://github.com/material-components/material-components-web) : TypeScript
+  - Modular and customizable Material Design UI components for the web
+- [interview_internal_reference](https://github.com/0voice/interview_internal_reference) : Python
+  - 2020年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
+- [interview](https://github.com/huihut/interview) : C++
+  - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendatio…
+- [abp](https://github.com/abpframework/abp) : C#
+  - Open Source Web Application Framework for ASP.NET Core
+- [covid-alert-app](https://github.com/cds-snc/covid-alert-app) : TypeScript
+  - Exposure notification client application / Application client de notification d'exposition
+- [ant-design-vue](https://github.com/vueComponent/ant-design-vue) : Vue
+  - 🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜
