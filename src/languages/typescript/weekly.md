@@ -1,51 +1,51 @@
 # typescript
-- [vue-next](https://github.com/vuejs/vue-next)
-  - Repo for Vue 3.0 (currently in beta)
-- [notable](https://github.com/notable/notable)
-  - The Markdown-based note-taking app that doesn't suck.
-- [vscode](https://github.com/microsoft/vscode)
-  - Visual Studio Code
-- [react-use](https://github.com/streamich/react-use)
-  - React Hooks — 👍
-- [TypeScript](https://github.com/microsoft/TypeScript)
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
-- [cdk8s](https://github.com/awslabs/cdk8s)
-  - Define Kubernetes native apps and abstractions using object-oriented programming
-- [motion](https://github.com/framer/motion)
-  - Open source, production-ready animation and gesture library for React
-- [swr](https://github.com/vercel/swr)
-  - React Hooks library for remote data fetching
-- [nest](https://github.com/nestjs/nest)
-  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-- [react-native-webview](https://github.com/react-native-community/react-native-webview)
-  - React Native Cross-Platform WebView
-- [amplify-js](https://github.com/aws-amplify/amplify-js)
-  - A declarative JavaScript library for application development using cloud services.
-- [angular-cli](https://github.com/angular/angular-cli)
-  - CLI tool for Angular
-- [firebase-tools](https://github.com/firebase/firebase-tools)
-  - The Firebase Command Line Tools
-- [apollo-client](https://github.com/apollographql/apollo-client)
-  - 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
-- [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native)
-  - ⚛️📺 Projects from the “Can it be done in React Native?” YouTube series
-- [face-api.js](https://github.com/justadudewhohacks/face-api.js)
-  - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
-- [redux](https://github.com/reduxjs/redux)
-  - Predictable state container for JavaScript apps
-- [nx](https://github.com/nrwl/nx)
-  - Extensible Dev Tools for Monorepos
-- [moveable](https://github.com/daybrush/moveable)
-  - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
-- [grafana](https://github.com/grafana/grafana)
-  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [expo-cli](https://github.com/expo/expo-cli)
-  - Tools for creating, running, and deploying Universal Expo and React Native apps
-- [umi](https://github.com/umijs/umi)
-  - 🌋 Pluggable enterprise-level react application framework.
+- [react-spectrum](https://github.com/adobe/react-spectrum)
+  - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [material-components-web](https://github.com/material-components/material-components-web)
   - Modular and customizable Material Design UI components for the web
-- [ant-design](https://github.com/ant-design/ant-design)
-  - 🌈 A UI Design Language and React UI library
+- [covid-alert-app](https://github.com/cds-snc/covid-alert-app)
+  - Exposure notification client application / Application client de notification d'exposition
+- [hedgehog-lab](https://github.com/lidangzzz/hedgehog-lab)
+  - An open source scientific computing environment for JavaScript TOTALLY in your browser, matrix operations with GPU acceleration, TeX support, data visualization and symbolic computation.
+- [storybook](https://github.com/storybookjs/storybook)
+  - 📓 The UI component workshop. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
+- [project-citadel](https://github.com/JordanKnott/project-citadel)
+  - An open source project management tool with Kanban boards
+- [terraform-cdk](https://github.com/hashicorp/terraform-cdk)
+  - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
+- [kibana](https://github.com/elastic/kibana)
+  - Your window into the Elastic Stack
+- [vue-next](https://github.com/vuejs/vue-next)
+  - Repo for Vue 3.0 (currently in beta)
+- [shoelace](https://github.com/shoelace-style/shoelace)
+  - A collection of professionally designed, every day UI components built on a framework-agnostic technology.
+- [vuetify](https://github.com/vuetifyjs/vuetify)
+  - 🐉 Material Component Framework for Vue
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+  - Headless Chrome Node.js API
+- [rrweb](https://github.com/rrweb-io/rrweb)
+  - record and replay the web
+- [apollo-client](https://github.com/apollographql/apollo-client)
+  - 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
+- [pixi.js](https://github.com/pixijs/pixi.js)
+  - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+  - The repository for high quality TypeScript type definitions.
+- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
+  - The source for REST API specifications for Microsoft Azure.
+- [ngx-admin](https://github.com/akveo/ngx-admin)
+  - Customizable admin dashboard template based on Angular 9+
+- [TypeScript](https://github.com/microsoft/TypeScript)
+  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [umi](https://github.com/umijs/umi)
+  - 🌋 Pluggable enterprise-level react application framework.
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui)
+  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+- [Babylon.js](https://github.com/BabylonJS/Babylon.js)
+  - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
+- [grafana](https://github.com/grafana/grafana)
+  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [blitz](https://github.com/blitz-js/blitz)
+  - ⚡️The Fullstack React Framework — built on Next.js
+- [angularfire](https://github.com/angular/angularfire)
+  - The official Angular library for Firebase.
