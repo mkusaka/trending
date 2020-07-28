@@ -1,8 +1,6 @@
 # go
 - [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2)
   - An open source re-implementation of Diablo 2
-- [umi-core](https://github.com/umi-top/umi-core)
-  - UMI Core Go Library
 - [go-admin](https://github.com/GoAdminGroup/go-admin)
   - A golang framework helps gopher to build a data visualization and admin panel in ten minutes
 - [GolangTraining](https://github.com/GoesToEleven/GolangTraining)

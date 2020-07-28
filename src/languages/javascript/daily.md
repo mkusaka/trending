@@ -9,8 +9,6 @@
   - A powerful JavaScript library for interacting with the Discord API
 - [leonsans](https://github.com/cmiscm/leonsans)
   - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
-- [umi-core-js](https://github.com/umi-top/umi-core-js)
-  - UMI Core JS Library
 - [next.js](https://github.com/vercel/next.js)
   - The React Framework
 - [rengine](https://github.com/yogeshojha/rengine)
