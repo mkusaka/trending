@@ -36,22 +36,15 @@
   - An open source re-implementation of Diablo 2
 - [laravel-boilerplate](https://github.com/rappasoft/laravel-boilerplate) : PHP
   - The Laravel Boilerplate Project - https://laravel-boilerplate.com
-- [umi-core](https://github.com/umi-top/umi-core) : Go
-  - UMI Core Go Library
 - [movement-tracking](https://github.com/surya-veer/movement-tracking) : Python
   - UP - DOWN - LEFT - RIGHT movement tracking.
-- [umi-top.github.io](https://github.com/umi-top/umi-top.github.io) : HTML
 - [fullstack-starterkit](https://github.com/karanpratapsingh/fullstack-starterkit) : TypeScript
   - GraphQL first full-stack starter kit with Node, React. Powered by TypeScript
 - [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) : 
   - Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
-- [umi-core-php](https://github.com/umi-top/umi-core-php) : PHP
-  - UMI Core PHP Library
 ## go
 - [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2)
   - An open source re-implementation of Diablo 2
-- [umi-core](https://github.com/umi-top/umi-core)
-  - UMI Core Go Library
 - [go-admin](https://github.com/GoAdminGroup/go-admin)
   - A golang framework helps gopher to build a data visualization and admin panel in ten minutes
 - [GolangTraining](https://github.com/GoesToEleven/GolangTraining)
@@ -109,8 +102,6 @@
   - A powerful JavaScript library for interacting with the Discord API
 - [leonsans](https://github.com/cmiscm/leonsans)
   - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
-- [umi-core-js](https://github.com/umi-top/umi-core-js)
-  - UMI Core JS Library
 - [next.js](https://github.com/vercel/next.js)
   - The React Framework
 - [rengine](https://github.com/yogeshojha/rengine)
@@ -268,7 +259,7 @@
 - [amplify-cli](https://github.com/aws-amplify/amplify-cli)
   - A CLI toolchain for simplifying serverless web and mobile development.
 - [playwright](https://github.com/microsoft/playwright)
-  - Node library to automate Chromium, Firefox and WebKit with a single API
+  - Node.js library to automate Chromium, Firefox and WebKit with a single API
 - [face-api.js](https://github.com/justadudewhohacks/face-api.js)
   - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 - [desktop](https://github.com/desktop/desktop)
