@@ -1,51 +1,51 @@
 # typescript
-- [react-native-instagram-clone](https://github.com/iamvucms/react-native-instagram-clone)
-  - A React Native app - Clone Instagram mobile app (In progress)
 - [fullstack-starterkit](https://github.com/karanpratapsingh/fullstack-starterkit)
   - GraphQL first full-stack starter kit with Node, React. Powered by TypeScript
-- [excalidraw](https://github.com/excalidraw/excalidraw)
-  - Virtual whiteboard for sketching hand-drawn like diagrams
-- [peerjs](https://github.com/peers/peerjs)
-  - Simple peer-to-peer with WebRTC
-- [nteract](https://github.com/nteract/nteract)
-  - 📘 The interactive computing suite for you! ✨
-- [coc.nvim](https://github.com/neoclide/coc.nvim)
-  - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
-- [amplify-cli](https://github.com/aws-amplify/amplify-cli)
-  - A CLI toolchain for simplifying serverless web and mobile development.
+- [vscode](https://github.com/microsoft/vscode)
+  - Visual Studio Code
+- [TypeScript](https://github.com/microsoft/TypeScript)
+  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [cypress-realworld-app](https://github.com/cypress-io/cypress-realworld-app)
+  - A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.
+- [jest](https://github.com/facebook/jest)
+  - Delightful JavaScript Testing.
+- [natemoo-re](https://github.com/natemoo-re/natemoo-re)
+  - 
+- [ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste)
+  - Cut and paste your surroundings using AR
+- [pro-components](https://github.com/ant-design/pro-components)
+  - 🏆 Use Ant Design like a Pro!
+- [react-native-instagram-clone](https://github.com/iamvucms/react-native-instagram-clone)
+  - A React Native app - Clone Instagram mobile app (In progress)
 - [playwright](https://github.com/microsoft/playwright)
   - Node.js library to automate Chromium, Firefox and WebKit with a single API
-- [face-api.js](https://github.com/justadudewhohacks/face-api.js)
-  - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
-- [desktop](https://github.com/desktop/desktop)
-  - Simple collaboration from your desktop
-- [angularfire](https://github.com/angular/angularfire)
-  - The official Angular library for Firebase.
-- [prisma](https://github.com/prisma/prisma)
-  - Modern DB toolkit to query, migrate and model your database
-- [augur](https://github.com/AugurProject/augur)
-  - Augur - Prediction Market Protocol and Client
-- [fullstack-graphql-airbnb-clone](https://github.com/benawad/fullstack-graphql-airbnb-clone)
-  - A Fullstack GraphQL Airbnb Clone with React and React Native
-- [peerjs-server](https://github.com/peers/peerjs-server)
-  - Server for PeerJS
-- [restyle](https://github.com/Shopify/restyle)
-  - A type-enforced system for building UI components in React Native with TypeScript.
-- [typescript-exercises](https://github.com/mdevils/typescript-exercises)
-  - A collection of challenging TypeScript exercises
-- [sapper](https://github.com/sveltejs/sapper)
-  - The next small thing in web development, powered by Svelte
-- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-  - The repository for high quality TypeScript type definitions.
-- [tiktok-clone](https://github.com/matheuscastroweb/tiktok-clone)
-  - Clone of the TikTok app layout with React Native
-- [windows95](https://github.com/felixrieseberg/windows95)
-  - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
-- [react-navigation](https://github.com/react-navigation/react-navigation)
-  - Routing and navigation for your React Native apps
-- [hyper](https://github.com/vercel/hyper)
-  - A terminal built on web technologies
-- [telegraf](https://github.com/telegraf/telegraf)
-  - Modern Telegram Bot Framework for Node.js
-- [ring](https://github.com/dgreif/ring)
-  - Unofficial API for Ring Doorbells, Cameras, Alarm System, and Smart Lighting
+- [G6](https://github.com/antvis/G6)
+  - ♾ A Graph Visualization Framework in JavaScript
+- [tinymce](https://github.com/tinymce/tinymce)
+  - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
+- [streamlit](https://github.com/streamlit/streamlit)
+  - Streamlit — The fastest way to build data apps in Python
+- [redoc](https://github.com/Redocly/redoc)
+  - 📘 OpenAPI/Swagger-generated API Reference Documentation
+- [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
+  - 💬 The most complete chat UI for React Native
+- [angular](https://github.com/angular/angular)
+  - One framework. Mobile & desktop.
+- [components](https://github.com/angular/components)
+  - Component infrastructure and Material Design components for Angular
+- [ngx-datatable](https://github.com/swimlane/ngx-datatable)
+  - ✨ A feature-rich yet lightweight data-table crafted for Angular
+- [amplify-js](https://github.com/aws-amplify/amplify-js)
+  - A declarative JavaScript library for application development using cloud services.
+- [electron-builder](https://github.com/electron-userland/electron-builder)
+  - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+- [foam](https://github.com/foambubble/foam)
+  - A personal knowledge management and sharing system for VSCode
+- [next-i18next](https://github.com/isaachinman/next-i18next)
+  - The easiest way to translate your NextJs apps.
+- [nativefier](https://github.com/jiahaog/nativefier)
+  - Make any web page a desktop application
+- [vscode-js-debug](https://github.com/microsoft/vscode-js-debug)
+  - The VS Code JavaScript debugger
+- [tensorboard](https://github.com/tensorflow/tensorboard)
+  - TensorFlow's Visualization Toolkit

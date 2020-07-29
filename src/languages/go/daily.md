@@ -1,49 +1,51 @@
 # go
-- [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2)
-  - An open source re-implementation of Diablo 2
-- [go-admin](https://github.com/GoAdminGroup/go-admin)
-  - A golang framework helps gopher to build a data visualization and admin panel in ten minutes
-- [GolangTraining](https://github.com/GoesToEleven/GolangTraining)
-  - Training for Golang (go language)
-- [fiber](https://github.com/gofiber/fiber)
-  - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
-- [go-ethereum](https://github.com/ethereum/go-ethereum)
-  - Official Go implementation of the Ethereum protocol
-- [vuls](https://github.com/future-architect/vuls)
-  - Agent-less vulnerability scanner for Linux, FreeBSD, Container Image, Running Container, WordPress, Programming language libraries, Network devices
-- [terraformer](https://github.com/GoogleCloudPlatform/terraformer)
-  - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
-- [elrond-go](https://github.com/ElrondNetwork/elrond-go)
-  - ⚡ Elrond-GO: The official implementation of the Elrond protocol, written in golang.
-- [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga)
-  - Advanced information gathering & OSINT framework for phone numbers
-- [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
-  - Network-wide ads & trackers blocking DNS server
-- [gitleaks](https://github.com/zricethezav/gitleaks)
-  - Scan git repos for secrets using regex and entropy 🔑
-- [syzkaller](https://github.com/google/syzkaller)
-  - syzkaller is an unsupervised coverage-guided kernel fuzzer
-- [micro](https://github.com/zyedidia/micro)
-  - A modern and intuitive terminal-based text editor
-- [linuxkit](https://github.com/linuxkit/linuxkit)
-  - A toolkit for building secure, portable and lean operating systems for containers
-- [tinygo](https://github.com/tinygo-org/tinygo)
-  - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
-- [nuclei](https://github.com/projectdiscovery/nuclei)
-  - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
-- [kit](https://github.com/go-kit/kit)
-  - A standard library for microservices.
-- [cli](https://github.com/cli/cli)
-  - GitHub’s official command line tool
-- [Poodle](https://github.com/Clivern/Poodle)
-  - 🔥 A fast and beautiful command line tool to build API requests.
-- [gabs](https://github.com/Jeffail/gabs)
-  - For parsing, creating and editing unknown or dynamic JSON in Go
-- [gqlgen](https://github.com/99designs/gqlgen)
-  - go generate based graphql server library
-- [otto](https://github.com/robertkrimen/otto)
-  - A JavaScript interpreter in Go (golang)
-- [lantern](https://github.com/getlantern/lantern)
-  - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 lantern proxy vpn censorship-circumvention censorship gfw accelerator
-- [trojan](https://github.com/Jrohy/trojan)
-  - trojan多用户管理部署程序, 支持web页面管理
+- [argo-cd](https://github.com/argoproj/argo-cd)
+  - Declarative continuous deployment for Kubernetes.
+- [redis](https://github.com/go-redis/redis)
+  - Type-safe Redis client for Golang
+- [beats](https://github.com/elastic/beats)
+  - 🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
+- [rclone](https://github.com/rclone/rclone)
+  - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+- [awesome-go](https://github.com/avelino/awesome-go)
+  - A curated list of awesome Go frameworks, libraries and software
+- [dubbo-go](https://github.com/apache/dubbo-go)
+  - Go Implementation For Apache Dubbo
+- [kops](https://github.com/kubernetes/kops)
+  - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
+- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
+  - Terraform AWS provider
+- [xlsx](https://github.com/tealeg/xlsx)
+  - Go (golang) library for reading and writing XLSX files.
+- [prometheus](https://github.com/prometheus/prometheus)
+  - The Prometheus monitoring system and time series database.
+- [alertmanager](https://github.com/prometheus/alertmanager)
+  - Prometheus Alertmanager
+- [groupcache](https://github.com/golang/groupcache)
+  - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
+- [sourcegraph](https://github.com/sourcegraph/sourcegraph)
+  - Universal code search (self-hosted)
+- [kubernetes](https://github.com/kubernetes/kubernetes)
+  - Production-Grade Container Scheduling and Management
+- [node_exporter](https://github.com/prometheus/node_exporter)
+  - Exporter for machine metrics
+- [cri-o](https://github.com/cri-o/cri-o)
+  - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
+- [client_golang](https://github.com/prometheus/client_golang)
+  - Prometheus instrumentation library for Go applications
+- [client-go](https://github.com/kubernetes/client-go)
+  - Go client for Kubernetes.
+- [distribution](https://github.com/docker/distribution)
+  - The Docker toolset to pack, ship, store, and deliver content
+- [nats-server](https://github.com/nats-io/nats-server)
+  - High-Performance server for NATS, the cloud native messaging system.
+- [ferry](https://github.com/lanyulei/ferry)
+  - 
+- [rook](https://github.com/rook/rook)
+  - Storage Orchestration for Kubernetes
+- [fabric](https://github.com/hyperledger/fabric)
+  - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
+- [operator-sdk](https://github.com/operator-framework/operator-sdk)
+  - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
+- [go-cloud](https://github.com/google/go-cloud)
+  - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
