@@ -1,43 +1,49 @@
 # general
-- [ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) : C++
-  - ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
-- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) : JavaScript
-  - ⚡ Dynamically generated stats for your github readmes
-- [felicette](https://github.com/plant99/felicette) : Python
-  - Satellite imagery for dummies.
-- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) : Kotlin
-  - Native Android app using the Apple/Google exposure notification API.
-- [cutter](https://github.com/radareorg/cutter) : C++
-  - Free and Open Source Reverse Engineering Platform powered by radare2
+- [rest-api-description](https://github.com/github/rest-api-description) : 
+  - An OpenAPI description for GitHub's REST API
+- [aluraflix](https://github.com/imersao-alura/aluraflix) : JavaScript
+  - ⚛️ Projeto feito durante a Imersão React da Alura
+- [Zoom-Clone-With-WebRTC](https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC) : JavaScript
 - [gpt3-sandbox](https://github.com/shreyashankar/gpt3-sandbox) : JavaScript
   - The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.
-- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
-  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-- [react-native-instagram-clone](https://github.com/iamvucms/react-native-instagram-clone) : TypeScript
-  - A React Native app - Clone Instagram mobile app (In progress)
-- [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) : JavaScript
-  - A collection of awesome readme templates to display on your profile
-- [androidx](https://github.com/androidx/androidx) : Java
-  - Development environment for Jetpack Android extension libraries. Synchronized with Jetpack's primary development branch on AOSP.
-- [handson-ml2](https://github.com/ageron/handson-ml2) : Jupyter Notebook
-  - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
-  - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
-- [tivi](https://github.com/chrisbanes/tivi) : Kotlin
-  - Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.
-- [OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown) : Ruby
-  - 📙 OSCP Exam Report Template in Markdown
-- [python-cheatsheet](https://github.com/gto76/python-cheatsheet) : Python
-  - Comprehensive Python Cheatsheet
 - [machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap) : 
   - A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
-- [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) : Go
-  - An open source re-implementation of Diablo 2
-- [laravel-boilerplate](https://github.com/rappasoft/laravel-boilerplate) : PHP
-  - The Laravel Boilerplate Project - https://laravel-boilerplate.com
+- [python-cheatsheet](https://github.com/gto76/python-cheatsheet) : Python
+  - Comprehensive Python Cheatsheet
 - [movement-tracking](https://github.com/surya-veer/movement-tracking) : Python
   - UP - DOWN - LEFT - RIGHT movement tracking.
-- [fullstack-starterkit](https://github.com/karanpratapsingh/fullstack-starterkit) : TypeScript
-  - GraphQL first full-stack starter kit with Node, React. Powered by TypeScript
-- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) : 
-  - Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) : JavaScript
+  - ⚡ Dynamically generated stats for your github readmes
+- [NewPipe](https://github.com/TeamNewPipe/NewPipe) : Java
+  - A libre lightweight streaming front-end for Android.
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+- [ILSpy](https://github.com/icsharpcode/ILSpy) : C#
+  - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
+- [pikvm](https://github.com/pikvm/pikvm) : 
+  - Open and cheap DIY IP-KVM based on Raspberry Pi
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [flutter](https://github.com/flutter/flutter) : Dart
+  - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+- [NutShell](https://github.com/OSCPU/NutShell) : Scala
+  - RISC-V SoC designed by students in UCAS
+- [swift](https://github.com/apple/swift) : C++
+  - The Swift Programming Language
+- [RxSwift](https://github.com/ReactiveX/RxSwift) : Swift
+  - Reactive Programming in Swift
+- [MCVmComputers](https://github.com/Delta2Force/MCVmComputers) : Java
+  - Order computer parts from a satellite orbiting around your minecraft world and build actual working computers with them!
+- [awesome-gpt3](https://github.com/elyase/awesome-gpt3) : 
+- [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) : 
+  - 😱 Falsehoods Programmers Believe in
+- [cutter](https://github.com/radareorg/cutter) : C++
+  - Free and Open Source Reverse Engineering Platform powered by radare2
+- [arrow](https://github.com/apache/arrow) : C++
+  - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…
+- [metersphere](https://github.com/metersphere/metersphere) : Java
+  - An open source continuous testing platform. MeterSphere 是一站式的开源企业级持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能，全面兼容 JMeter、Postman 等开源、主流标准。
+- [Super-mario-bros-PPO-pytorch](https://github.com/uvipen/Super-mario-bros-PPO-pytorch) : Python
+  - Proximal Policy Optimization (PPO) algorithm for Super Mario Bros
+- [QuickCut](https://github.com/HaujetZhao/QuickCut) : Python
+  - Your most handy video processing software
