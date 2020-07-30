@@ -1,51 +1,51 @@
 # typescript
-- [fullstack-starterkit](https://github.com/karanpratapsingh/fullstack-starterkit)
-  - GraphQL first full-stack starter kit with Node, React. Powered by TypeScript
-- [vscode](https://github.com/microsoft/vscode)
-  - Visual Studio Code
-- [TypeScript](https://github.com/microsoft/TypeScript)
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [cypress-realworld-app](https://github.com/cypress-io/cypress-realworld-app)
-  - A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.
-- [jest](https://github.com/facebook/jest)
-  - Delightful JavaScript Testing.
-- [natemoo-re](https://github.com/natemoo-re/natemoo-re)
-  - 
-- [ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste)
-  - Cut and paste your surroundings using AR
-- [pro-components](https://github.com/ant-design/pro-components)
-  - 🏆 Use Ant Design like a Pro!
-- [react-native-instagram-clone](https://github.com/iamvucms/react-native-instagram-clone)
-  - A React Native app - Clone Instagram mobile app (In progress)
+- [tinykeys](https://github.com/jamiebuilds/tinykeys)
+  - A tiny (~400 B) & modern library for keybindings.
 - [playwright](https://github.com/microsoft/playwright)
   - Node.js library to automate Chromium, Firefox and WebKit with a single API
-- [G6](https://github.com/antvis/G6)
-  - ♾ A Graph Visualization Framework in JavaScript
-- [tinymce](https://github.com/tinymce/tinymce)
-  - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
-- [streamlit](https://github.com/streamlit/streamlit)
-  - Streamlit — The fastest way to build data apps in Python
-- [redoc](https://github.com/Redocly/redoc)
-  - 📘 OpenAPI/Swagger-generated API Reference Documentation
-- [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
-  - 💬 The most complete chat UI for React Native
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
-- [components](https://github.com/angular/components)
-  - Component infrastructure and Material Design components for Angular
-- [ngx-datatable](https://github.com/swimlane/ngx-datatable)
-  - ✨ A feature-rich yet lightweight data-table crafted for Angular
+- [html2canvas](https://github.com/niklasvh/html2canvas)
+  - Screenshots with JavaScript
+- [ant-design](https://github.com/ant-design/ant-design)
+  - 🌈 A UI Design Language and React UI library
+- [shoelace](https://github.com/shoelace-style/shoelace)
+  - A collection of professionally designed, every day UI components built on a framework-agnostic technology. 🥾
+- [crud](https://github.com/nestjsx/crud)
+  - NestJs CRUD for RESTful APIs
+- [recharts](https://github.com/recharts/recharts)
+  - Redefined chart library built with React and D3
+- [vue-next](https://github.com/vuejs/vue-next)
+  - Repo for Vue 3.0 (currently in beta)
+- [timer-for-google-assistant](https://github.com/wiseindy/timer-for-google-assistant)
+  - Allows you to send commands to Google Assistant that will execute after a certain time. Built using NodeJS.
+- [TypeScript-Website](https://github.com/microsoft/TypeScript-Website)
+  - The Website and web infrastructure for learning TypeScript
+- [bit](https://github.com/teambit/bit)
+  - Build, distribute and collaborate on components.
+- [rrweb](https://github.com/rrweb-io/rrweb)
+  - record and replay the web
+- [msw](https://github.com/mswjs/msw)
+  - Seamless REST/GraphQL API mocking library for browser and Node.
+- [backstage](https://github.com/spotify/backstage)
+  - Backstage is an open platform for building developer portals
 - [amplify-js](https://github.com/aws-amplify/amplify-js)
   - A declarative JavaScript library for application development using cloud services.
-- [electron-builder](https://github.com/electron-userland/electron-builder)
-  - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [foam](https://github.com/foambubble/foam)
-  - A personal knowledge management and sharing system for VSCode
-- [next-i18next](https://github.com/isaachinman/next-i18next)
-  - The easiest way to translate your NextJs apps.
-- [nativefier](https://github.com/jiahaog/nativefier)
-  - Make any web page a desktop application
-- [vscode-js-debug](https://github.com/microsoft/vscode-js-debug)
-  - The VS Code JavaScript debugger
-- [tensorboard](https://github.com/tensorflow/tensorboard)
-  - TensorFlow's Visualization Toolkit
+- [vue-storefront](https://github.com/DivanteLtd/vue-storefront)
+  - Vue Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported. Always Open Source, MIT license. Join us as contributor (contributors@vuestorefront.io). Check out our new blog: https://blog.vuestorefront.io/ and the new community initiative for improving Headless Security standards https://headless-security.or…
+- [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
+  - Tasks for Azure Pipelines
+- [auth-module](https://github.com/nuxt-community/auth-module)
+  - 🔑 Zero-boilerplate authentication support for Nuxt
+- [vuetify](https://github.com/vuetifyjs/vuetify)
+  - 🐉 Material Component Framework for Vue
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
+  - 📋 React Hooks for forms validation (Web + React Native)
+- [dumi](https://github.com/umijs/dumi)
+  - 📖 Documentation Generator of React Component
+- [react-navigation](https://github.com/react-navigation/react-navigation)
+  - Routing and navigation for your React Native apps
+- [ionic-framework](https://github.com/ionic-team/ionic-framework)
+  - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+- [kubeapps](https://github.com/kubeapps/kubeapps)
+  - A web-based UI for deploying and managing applications in Kubernetes clusters
+- [redux](https://github.com/reduxjs/redux)
+  - Predictable state container for JavaScript apps

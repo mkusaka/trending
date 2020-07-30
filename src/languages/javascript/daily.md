@@ -1,51 +1,51 @@
 # javascript
-- [aluraflix](https://github.com/imersao-alura/aluraflix)
-  - ⚛️ Projeto feito durante a Imersão React da Alura
+- [macintosh.js](https://github.com/felixrieseberg/macintosh.js)
+  - A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
 - [Zoom-Clone-With-WebRTC](https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC)
   - 
-- [gpt3-sandbox](https://github.com/shreyashankar/gpt3-sandbox)
-  - The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.
-- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-  - ⚡ Dynamically generated stats for your github readmes
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+  - ⭐️ Companies that don't have a broken hiring process
+- [Otto](https://github.com/KartikChugh/Otto)
+  - Otto makes machine learning an intuitive, natural language experience.🏆 Facebook AI Challenge winner
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
   - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [nuxt.js](https://github.com/nuxt/nuxt.js)
-  - The Intuitive Vue Framework
+- [aluraflix](https://github.com/imersao-alura/aluraflix)
+  - ⚛️ Projeto feito durante a Imersão React da Alura
+- [react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+  - Cheatsheets for experienced React developers getting started with TypeScript
+- [realworld](https://github.com/gothinkster/realworld)
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [generator-jhipster](https://github.com/jhipster/generator-jhipster)
+  - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
+- [lerna](https://github.com/lerna/lerna)
+  - 🐉 A tool for managing JavaScript projects with multiple packages.
+- [gpt3-sandbox](https://github.com/shreyashankar/gpt3-sandbox)
+  - The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.
+- [awx](https://github.com/ansible/awx)
+  - AWX Project
+- [opensource.guide](https://github.com/github/opensource.guide)
+  - 📚 Community guides for open source creators
+- [webpack](https://github.com/webpack/webpack)
+  - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+- [prettier](https://github.com/prettier/prettier)
+  - Prettier is an opinionated code formatter.
 - [next.js](https://github.com/vercel/next.js)
   - The React Framework
-- [angular.js](https://github.com/angular/angular.js)
-  - AngularJS - HTML enhanced for web apps!
-- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
-  - 🎆Interactive Online Platform that Visualizes Algorithms from Code
-- [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
-  - 🚀 Generate github profile README easily with latest add-ons like visitors count, github stats, etc using minimal UI.
-- [sheetjs](https://github.com/SheetJS/sheetjs)
-  - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
-- [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
-  - A collection of awesome readme templates to display on your profile
-- [create-react-app](https://github.com/facebook/create-react-app)
-  - Set up a modern web app by running one command.
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [Chart.js](https://github.com/chartjs/Chart.js)
-  - Simple HTML5 Charts using the <canvas> tag
-- [javascript](https://github.com/airbnb/javascript)
-  - JavaScript Style Guide
-- [pdf.js](https://github.com/mozilla/pdf.js)
-  - PDF Reader in JavaScript
-- [discord.js](https://github.com/discordjs/discord.js)
-  - A powerful JavaScript library for interacting with the Discord API
-- [handsontable](https://github.com/handsontable/handsontable)
-  - Handsontable is a JavaScript/HTML5 data grid with spreadsheet look & feel. Available for React, Vue and Angular.
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [msk-components](https://github.com/ManojSatishkumar/msk-components)
-  - A Library of all the components for MSK Documents
+- [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js)
+  - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 - [Zettlr](https://github.com/Zettlr/Zettlr)
   - A Markdown Editor for the 21st century.
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
-- [cypress](https://github.com/cypress-io/cypress)
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [engine](https://github.com/cocos-creator/engine)
-  - Cocos Creator is a complete package of game development tools and workflow, including a game engine, resource management, scene editing, game preview, debug and publish one project to multiple platforms.
+- [openlayers](https://github.com/openlayers/openlayers)
+  - OpenLayers
+- [vitrine-imersao-react](https://github.com/imersao-alura/vitrine-imersao-react)
+  - 
+- [slick](https://github.com/kenwheeler/slick)
+  - the last carousel you'll ever need
+- [react-select](https://github.com/JedWatson/react-select)
+  - The Select Component for React.js
+- [pdfmake](https://github.com/bpampuch/pdfmake)
+  - Client/server side PDF printing in pure JavaScript
+- [Windows-universal-samples](https://github.com/microsoft/Windows-universal-samples)
+  - API samples for the Universal Windows Platform.
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+  - ⚡ Dynamically generated stats for your github readmes
