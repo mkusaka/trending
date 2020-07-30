@@ -1,49 +1,50 @@
 # general
-- [rest-api-description](https://github.com/github/rest-api-description) : 
-  - An OpenAPI description for GitHub's REST API
-- [aluraflix](https://github.com/imersao-alura/aluraflix) : JavaScript
-  - ⚛️ Projeto feito durante a Imersão React da Alura
+- [macintosh.js](https://github.com/felixrieseberg/macintosh.js) : JavaScript
+  - A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
 - [Zoom-Clone-With-WebRTC](https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC) : JavaScript
-- [gpt3-sandbox](https://github.com/shreyashankar/gpt3-sandbox) : JavaScript
-  - The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.
+- [PyTorch_YOLOv4](https://github.com/WongKinYiu/PyTorch_YOLOv4) : Python
+  - PyTorch implementation of YOLOv4
+- [RxSwift](https://github.com/ReactiveX/RxSwift) : Swift
+  - Reactive Programming in Swift
+- [cilium](https://github.com/cilium/cilium) : Go
+  - eBPF-based Networking, Security, and Observability
+- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
+  - Course Files for Complete Python 3 Bootcamp Course on Udemy
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) : JavaScript
+  - ⭐️ Companies that don't have a broken hiring process
+- [roadmap](https://github.com/github/roadmap) : 
+  - GitHub public roadmap
 - [machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap) : 
   - A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
 - [python-cheatsheet](https://github.com/gto76/python-cheatsheet) : Python
   - Comprehensive Python Cheatsheet
-- [movement-tracking](https://github.com/surya-veer/movement-tracking) : Python
-  - UP - DOWN - LEFT - RIGHT movement tracking.
-- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) : JavaScript
-  - ⚡ Dynamically generated stats for your github readmes
-- [NewPipe](https://github.com/TeamNewPipe/NewPipe) : Java
-  - A libre lightweight streaming front-end for Android.
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
-  - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
-- [ILSpy](https://github.com/icsharpcode/ILSpy) : C#
-  - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
-- [pikvm](https://github.com/pikvm/pikvm) : 
-  - Open and cheap DIY IP-KVM based on Raspberry Pi
+- [laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices) : 
+  - Laravel best practices
+- [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) : Jupyter Notebook
+  - This repository contains the source code for the paper First Order Motion Model for Image Animation
+- [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) : 
+  - 😱 Falsehoods Programmers Believe in
+- [app-ideas](https://github.com/florinpop17/app-ideas) : 
+  - A Collection of application ideas which can be used to improve your coding skills.
+- [Otto](https://github.com/KartikChugh/Otto) : JavaScript
+  - Otto makes machine learning an intuitive, natural language experience.🏆 Facebook AI Challenge winner
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
   - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [flutter](https://github.com/flutter/flutter) : Dart
   - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
-- [NutShell](https://github.com/OSCPU/NutShell) : Scala
-  - RISC-V SoC designed by students in UCAS
+- [xxHash](https://github.com/Cyan4973/xxHash) : C
+  - Extremely fast non-cryptographic hash algorithm
+- [tutorials](https://github.com/eugenp/tutorials) : Java
+  - Just Announced - "Learn Spring Security OAuth":
+- [aluraflix](https://github.com/imersao-alura/aluraflix) : JavaScript
+  - ⚛️ Projeto feito durante a Imersão React da Alura
+- [tinykeys](https://github.com/jamiebuilds/tinykeys) : TypeScript
+  - A tiny (~400 B) & modern library for keybindings.
 - [swift](https://github.com/apple/swift) : C++
   - The Swift Programming Language
-- [RxSwift](https://github.com/ReactiveX/RxSwift) : Swift
-  - Reactive Programming in Swift
-- [MCVmComputers](https://github.com/Delta2Force/MCVmComputers) : Java
-  - Order computer parts from a satellite orbiting around your minecraft world and build actual working computers with them!
-- [awesome-gpt3](https://github.com/elyase/awesome-gpt3) : 
-- [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) : 
-  - 😱 Falsehoods Programmers Believe in
-- [cutter](https://github.com/radareorg/cutter) : C++
-  - Free and Open Source Reverse Engineering Platform powered by radare2
-- [arrow](https://github.com/apache/arrow) : C++
-  - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…
+- [win10script](https://github.com/ChrisTitusTech/win10script) : PowerShell
+  - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
+- [api-guidelines](https://github.com/microsoft/api-guidelines) : 
+  - Microsoft REST API Guidelines
 - [metersphere](https://github.com/metersphere/metersphere) : Java
   - An open source continuous testing platform. MeterSphere 是一站式的开源企业级持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能，全面兼容 JMeter、Postman 等开源、主流标准。
-- [Super-mario-bros-PPO-pytorch](https://github.com/uvipen/Super-mario-bros-PPO-pytorch) : Python
-  - Proximal Policy Optimization (PPO) algorithm for Super Mario Bros
-- [QuickCut](https://github.com/HaujetZhao/QuickCut) : Python
-  - Your most handy video processing software
