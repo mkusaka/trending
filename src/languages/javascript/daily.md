@@ -1,51 +1,51 @@
 # javascript
-- [macintosh.js](https://github.com/felixrieseberg/macintosh.js)
-  - A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
-- [Zoom-Clone-With-WebRTC](https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC)
-  - 
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-  - ⭐️ Companies that don't have a broken hiring process
-- [Otto](https://github.com/KartikChugh/Otto)
-  - Otto makes machine learning an intuitive, natural language experience.🏆 Facebook AI Challenge winner
+- [stayaway-app](https://github.com/stayawayinesctec/stayaway-app)
+  - Official repository for the STAYAWAY COVID mobile application
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
   - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [aluraflix](https://github.com/imersao-alura/aluraflix)
-  - ⚛️ Projeto feito durante a Imersão React da Alura
-- [react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
-  - Cheatsheets for experienced React developers getting started with TypeScript
-- [realworld](https://github.com/gothinkster/realworld)
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [Zoom-Clone-With-WebRTC](https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC)
+  - 
 - [generator-jhipster](https://github.com/jhipster/generator-jhipster)
   - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
-- [lerna](https://github.com/lerna/lerna)
-  - 🐉 A tool for managing JavaScript projects with multiple packages.
-- [gpt3-sandbox](https://github.com/shreyashankar/gpt3-sandbox)
-  - The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.
+- [macintosh.js](https://github.com/felixrieseberg/macintosh.js)
+  - A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
+- [realworld](https://github.com/gothinkster/realworld)
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+  - Cheatsheets for experienced React developers getting started with TypeScript
+- [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
+  - 强大的哔哩哔哩增强脚本: 下载视频, 音乐, 封面, 弹幕 / 简化直播间, 评论区, 首页 / 自定义顶栏, 删除广告, 夜间模式 / 触屏设备支持
+- [javascript](https://github.com/airbnb/javascript)
+  - JavaScript Style Guide
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+  - ⭐️ Companies that don't have a broken hiring process
 - [awx](https://github.com/ansible/awx)
   - AWX Project
-- [opensource.guide](https://github.com/github/opensource.guide)
-  - 📚 Community guides for open source creators
-- [webpack](https://github.com/webpack/webpack)
-  - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
-- [prettier](https://github.com/prettier/prettier)
-  - Prettier is an opinionated code formatter.
-- [next.js](https://github.com/vercel/next.js)
-  - The React Framework
+- [faker.js](https://github.com/Marak/faker.js)
+  - generate massive amounts of realistic fake data in Node.js and the browser
+- [aluraflix](https://github.com/imersao-alura/aluraflix)
+  - ⚛️ Projeto feito durante a Imersão React da Alura
+- [node](https://github.com/nodejs/node)
+  - Node.js JavaScript runtime ✨🐢🚀✨
+- [node-react-ecommerce](https://github.com/basir/node-react-ecommerce)
+  - Build ECommerce Website Like Amazon By React & Node & MongoDB
+- [Otto](https://github.com/KartikChugh/Otto)
+  - Otto makes machine learning an intuitive, natural language experience.🏆 Facebook AI Challenge winner ⭐️ #4 Trending JS Project ⭐️ #15 Trending Project (All Languages)
+- [vue](https://github.com/vuejs/vue)
+  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js)
   - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
-- [Zettlr](https://github.com/Zettlr/Zettlr)
-  - A Markdown Editor for the 21st century.
-- [openlayers](https://github.com/openlayers/openlayers)
-  - OpenLayers
-- [vitrine-imersao-react](https://github.com/imersao-alura/vitrine-imersao-react)
-  - 
-- [slick](https://github.com/kenwheeler/slick)
-  - the last carousel you'll ever need
-- [react-select](https://github.com/JedWatson/react-select)
-  - The Select Component for React.js
-- [pdfmake](https://github.com/bpampuch/pdfmake)
-  - Client/server side PDF printing in pure JavaScript
-- [Windows-universal-samples](https://github.com/microsoft/Windows-universal-samples)
-  - API samples for the Universal Windows Platform.
-- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-  - ⚡ Dynamically generated stats for your github readmes
+- [chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo)
+  - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
+- [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js)
+  - Navigable waveform built on Web Audio and Canvas
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+  - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
+- [aws-serverless-workshops](https://github.com/aws-samples/aws-serverless-workshops)
+  - Code and walkthrough labs to set up serverless applications for Wild Rydes workshops
+- [semantic-release](https://github.com/semantic-release/semantic-release)
+  - 📦🚀 Fully automated version management and package publishing
+- [react-virtualized](https://github.com/bvaughn/react-virtualized)
+  - React components for efficiently rendering large lists and tabular data
+- [gpt3-sandbox](https://github.com/shreyashankar/gpt3-sandbox)
+  - The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.
