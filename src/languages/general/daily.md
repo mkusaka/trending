@@ -1,50 +1,49 @@
 # general
-- [macintosh.js](https://github.com/felixrieseberg/macintosh.js) : JavaScript
-  - A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
-- [Zoom-Clone-With-WebRTC](https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC) : JavaScript
-- [PyTorch_YOLOv4](https://github.com/WongKinYiu/PyTorch_YOLOv4) : Python
-  - PyTorch implementation of YOLOv4
-- [RxSwift](https://github.com/ReactiveX/RxSwift) : Swift
-  - Reactive Programming in Swift
-- [cilium](https://github.com/cilium/cilium) : Go
-  - eBPF-based Networking, Security, and Observability
-- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
-  - Course Files for Complete Python 3 Bootcamp Course on Udemy
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) : JavaScript
-  - ⭐️ Companies that don't have a broken hiring process
-- [roadmap](https://github.com/github/roadmap) : 
-  - GitHub public roadmap
-- [machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap) : 
-  - A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
-- [python-cheatsheet](https://github.com/gto76/python-cheatsheet) : Python
-  - Comprehensive Python Cheatsheet
-- [laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices) : 
-  - Laravel best practices
-- [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) : Jupyter Notebook
-  - This repository contains the source code for the paper First Order Motion Model for Image Animation
-- [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) : 
-  - 😱 Falsehoods Programmers Believe in
-- [app-ideas](https://github.com/florinpop17/app-ideas) : 
-  - A Collection of application ideas which can be used to improve your coding skills.
-- [Otto](https://github.com/KartikChugh/Otto) : JavaScript
-  - Otto makes machine learning an intuitive, natural language experience.🏆 Facebook AI Challenge winner
+- [stayaway-app](https://github.com/stayawayinesctec/stayaway-app) : JavaScript
+  - Official repository for the STAYAWAY COVID mobile application
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
   - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [flutter](https://github.com/flutter/flutter) : Dart
-  - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
-- [xxHash](https://github.com/Cyan4973/xxHash) : C
-  - Extremely fast non-cryptographic hash algorithm
-- [tutorials](https://github.com/eugenp/tutorials) : Java
-  - Just Announced - "Learn Spring Security OAuth":
-- [aluraflix](https://github.com/imersao-alura/aluraflix) : JavaScript
-  - ⚛️ Projeto feito durante a Imersão React da Alura
-- [tinykeys](https://github.com/jamiebuilds/tinykeys) : TypeScript
-  - A tiny (~400 B) & modern library for keybindings.
-- [swift](https://github.com/apple/swift) : C++
-  - The Swift Programming Language
-- [win10script](https://github.com/ChrisTitusTech/win10script) : PowerShell
-  - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
-- [api-guidelines](https://github.com/microsoft/api-guidelines) : 
-  - Microsoft REST API Guidelines
 - [metersphere](https://github.com/metersphere/metersphere) : Java
   - An open source continuous testing platform. MeterSphere 是一站式的开源企业级持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能，全面兼容 JMeter、Postman 等开源、主流标准。
+- [Zoom-Clone-With-WebRTC](https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC) : JavaScript
+- [generator-jhipster](https://github.com/jhipster/generator-jhipster) : JavaScript
+  - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
+- [macintosh.js](https://github.com/felixrieseberg/macintosh.js) : JavaScript
+  - A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
+- [api-guidelines](https://github.com/microsoft/api-guidelines) : 
+  - Microsoft REST API Guidelines
+- [java8-tutorial](https://github.com/winterbe/java8-tutorial) : Java
+  - Modern Java - A Guide to Java 8
+- [java-design-patterns](https://github.com/iluwatar/java-design-patterns) : Java
+  - Design patterns implemented in Java
+- [tye](https://github.com/dotnet/tye) : C#
+  - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
+- [workflow](https://github.com/sogou/workflow) : C++
+- [awesome-java](https://github.com/akullpp/awesome-java) : 
+  - A curated list of awesome frameworks, libraries and software for the Java programming language.
+- [detext](https://github.com/linkedin/detext) : Python
+  - DeText: A Deep Neural Text Understanding Framework for Ranking and Classification Tasks
+- [Android-Analysis](https://github.com/1d8/Android-Analysis) : 
+  - Getting Genymotion & Burpsuite setup for Android Mobile App Analysis
+- [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) : 
+  - 😱 Falsehoods Programmers Believe in
+- [interviews](https://github.com/kdn251/interviews) : Java
+  - Everything you need to know to get the job.
+- [SkyArk](https://github.com/cyberark/SkyArk) : PowerShell
+  - SkyArk helps to discover, assess and secure the most privileged entities in Azure and AWS
+- [windows95](https://github.com/felixrieseberg/windows95) : TypeScript
+  - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
+- [Java](https://github.com/TheAlgorithms/Java) : Java
+  - All Algorithms implemented in Java
+- [CtCI-6th-Edition](https://github.com/careercup/CtCI-6th-Edition) : Java
+  - Cracking the Coding Interview 6th Ed. Solutions
+- [bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data) : 
+  - This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports
+- [TransCoder](https://github.com/facebookresearch/TransCoder) : Python
+  - Public release of the TransCoder research project https://arxiv.org/pdf/2006.03511.pdf
+- [learn-cantrill-io-labs](https://github.com/acantril/learn-cantrill-io-labs) : Shell
+  - Standard and Advanced Demos for learn.cantrill.io courses
+- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
+  - Course Files for Complete Python 3 Bootcamp Course on Udemy
+- [formik](https://github.com/formium/formik) : TypeScript
+  - Build forms in React, without the tears 😭
