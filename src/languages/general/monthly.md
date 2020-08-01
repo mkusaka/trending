@@ -1,50 +1,51 @@
 # general
-- [CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) : C++
-- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) : Kotlin
-  - Native Android app using the Apple/Google exposure notification API.
-- [practical-python](https://github.com/dabeaz-course/practical-python) : Python
-  - Practical Python Programming (course by @dabeaz)
-- [cwa-app-ios](https://github.com/corona-warn-app/cwa-app-ios) : Swift
-  - Native iOS app using the exposure notification framework from Apple.
-- [lihang-code](https://github.com/fengdu78/lihang-code) : Jupyter Notebook
-  - 《统计学习方法》的代码实现
-- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) : C++
-  - C++那些事
-- [ZY-Player](https://github.com/Hunlongyu/ZY-Player) : Vue
-  - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
-- [cwa-website](https://github.com/corona-warn-app/cwa-website) : CSS
-  - Corona-Warn-App website
-- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) : JavaScript
-  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-- [Apollo-11](https://github.com/chrislgarry/Apollo-11) : Assembly
-  - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
-- [DeepFaceLab](https://github.com/iperov/DeepFaceLab) : Python
-  - DeepFaceLab is the leading software for creating deepfakes.
-- [OSX-KVM](https://github.com/kholia/OSX-KVM) : Shell
-  - Run macOS on QEMU/KVM. Commercial support is now available. With OpenCore + Big Sur support now!
-- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) : Vue
-  - vue-admin-beautiful是一款基于element+vue的绝佳的中后台前端开发框架（基于vue/cli 4 最新版，同时支持电脑，手机，平板）,长期更新维护,感谢您的star,我一直在努力 Vue admin beautiful is an excellent front-end development framework (supporting computers, mobile phones and tablets at the same time), long-term update and maintenance, thank you for your star, I have been working hard
-- [cwa-server](https://github.com/corona-warn-app/cwa-server) : Java
-  - Backend implementation for the Apple/Google exposure notification API.
-- [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) : C
-  - OpenCore bootloader
-- [OpenRA](https://github.com/OpenRA/OpenRA) : C#
-  - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
-- [mall-learning](https://github.com/macrozheng/mall-learning) : Java
-  - mall学习教程，架构、业务、技术要点全方位解析。mall项目（25k+star）是一套电商系统，使用现阶段主流技术实现。 涵盖了SpringBoot2.1.3、MyBatis3.4.6、Elasticsearch6.2.2、RabbitMQ3.7.15、Redis5.0、Mongodb4.2.5、Mysql5.7等技术，采用Docker容器化部署。
-- [kubernetes](https://github.com/kubernetes/kubernetes) : Go
-  - Production-Grade Container Scheduling and Management
-- [cwa-verification-server](https://github.com/corona-warn-app/cwa-verification-server) : Java
-  - Backend implementation of the verification process
-- [mall](https://github.com/macrozheng/mall) : Java
-  - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
-- [mmdetection](https://github.com/open-mmlab/mmdetection) : Python
-  - OpenMMLab Detection Toolbox and Benchmark
-- [php-src](https://github.com/php/php-src) : C
-  - The PHP Interpreter
-- [SpringCloud](https://github.com/zhoutaoo/SpringCloud) : Java
-  - 基于SpringCloud2.1的微服务开发脚手架，整合了spring-security-oauth2、nacos、feign、sentinel、springcloud-gateway等。服务治理方面引入elasticsearch、skywalking、springboot-admin、zipkin等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。持续更新中
-- [json](https://github.com/nlohmann/json) : C++
-  - JSON for Modern C++
-- [bootstrap](https://github.com/twbs/bootstrap) : JavaScript
-  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) : Java
+  - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
+- [gpt-3](https://github.com/openai/gpt-3) : 
+  - GPT-3: Language Models are Few-Shot Learners
+- [backstage](https://github.com/spotify/backstage) : TypeScript
+  - Backstage is an open platform for building developer portals
+- [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) : JavaScript
+  - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) : C++
+  - Awesome OCR toolkits based on PaddlePaddle （8.6M ultra-lightweight pre-trained model, support training and deployment among server, mobile, embeded and IoT devices）
+- [vue-next](https://github.com/vuejs/vue-next) : TypeScript
+  - Repo for Vue 3.0 (currently in beta)
+- [NewPipe](https://github.com/TeamNewPipe/NewPipe) : Java
+  - A libre lightweight streaming front-end for Android.
+- [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) : Go
+  - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，五分钟一套CURD前后端代码包含数据库的快感你不要体验一下吗~,更多功能正在开发中，欢迎issue和pr~
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
+  - Roadmap to becoming a web developer in 2020
+- [papers-we-love](https://github.com/papers-we-love/papers-we-love) : Shell
+  - Papers from the computer science community to read and discuss.
+- [OnJava8](https://github.com/LingCoder/OnJava8) : 
+  - 《On Java 8》中文版，又名《Java编程思想》 第5版
+- [gpt-2](https://github.com/openai/gpt-2) : Python
+  - Code for the paper "Language Models are Unsupervised Multitask Learners"
+- [jdk](https://github.com/openjdk/jdk) : Java
+  - Read-only mirror of https://hg.openjdk.java.net/jdk/jdk
+- [Unlock-netease-cloud-music](https://github.com/meng-chuan/Unlock-netease-cloud-music) : JavaScript
+  - 解锁网易云音乐客户端变灰歌曲
+- [react](https://github.com/facebook/react) : JavaScript
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [Web](https://github.com/qianguyihao/Web) : JavaScript
+  - 前端入门到进阶，超详细的Web前端学习图文教程。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。
+- [googleapis](https://github.com/googleapis/googleapis) : Starlark
+  - Public interface definitions of Google APIs.
+- [pandas_exercises](https://github.com/guipsamora/pandas_exercises) : Jupyter Notebook
+  - Practice your pandas skills!
+- [openpilot](https://github.com/commaai/openpilot) : C++
+  - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
+- [fastapi](https://github.com/tiangolo/fastapi) : Python
+  - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [shardingsphere-elasticjob](https://github.com/apache/shardingsphere-elasticjob) : Java
+  - Distributed scheduled job framework
+- [google-research](https://github.com/google-research/google-research) : Jupyter Notebook
+  - Google Research
+- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) : Vue
+  - 一个基于 electron 的音乐软件
+- [pytorch](https://github.com/pytorch/pytorch) : C++
+  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [rrweb](https://github.com/rrweb-io/rrweb) : TypeScript
+  - record and replay the web

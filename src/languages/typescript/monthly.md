@@ -1,51 +1,51 @@
 # typescript
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui)
-  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [streamlit](https://github.com/streamlit/streamlit)
-  - Streamlit — The fastest way to build custom ML tools
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
-- [grafana](https://github.com/grafana/grafana)
-  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)
-  - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
-- [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper)
-  - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
-- [lens](https://github.com/lensapp/lens)
-  - Lens - The Kubernetes IDE
-- [excalidraw](https://github.com/excalidraw/excalidraw)
-  - Virtual whiteboard for sketching hand-drawn like diagrams
-- [hooks](https://github.com/alibaba/hooks)
-  - React Hooks Library
-- [rough-notation](https://github.com/rough-stuff/rough-notation)
-  - Create and animate hand-drawn annotations on a web page
-- [vscode](https://github.com/microsoft/vscode)
-  - Visual Studio Code
+- [backstage](https://github.com/spotify/backstage)
+  - Backstage is an open platform for building developer portals
+- [vue-next](https://github.com/vuejs/vue-next)
+  - Repo for Vue 3.0 (currently in beta)
+- [rrweb](https://github.com/rrweb-io/rrweb)
+  - record and replay the web
+- [react-query](https://github.com/tannerlinsley/react-query)
+  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
 - [ant-design](https://github.com/ant-design/ant-design)
   - 🌈 A UI Design Language and React UI library
-- [nest](https://github.com/nestjs/nest)
-  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
-  - The source for REST API specifications for Microsoft Azure.
-- [code-server](https://github.com/cdr/code-server)
-  - VS Code in the browser
-- [turbolinks](https://github.com/turbolinks/turbolinks)
-  - Turbolinks makes navigating your web application faster
-- [davinci](https://github.com/edp963/davinci)
-  - Davinci is a DVsaaS (Data Visualization as a Service) Platform
-- [terminus](https://github.com/Eugeny/terminus)
-  - A terminal for a more modern age
-- [TypeScript](https://github.com/microsoft/TypeScript)
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [firebase-tools](https://github.com/firebase/firebase-tools)
-  - The Firebase Command Line Tools
-- [vuetify](https://github.com/vuetifyjs/vuetify)
-  - 🐉 Material Component Framework for Vue
 - [react-use](https://github.com/streamich/react-use)
   - React Hooks — 👍
+- [aws-cdk](https://github.com/aws/aws-cdk)
+  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+- [snabbdom](https://github.com/snabbdom/snabbdom)
+  - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
+- [jira-clone-angular](https://github.com/trungk18/jira-clone-angular)
+  - A simplified Jira clone built with Angular 9, ng-zorro and Akita
+- [uniswap-interface](https://github.com/Uniswap/uniswap-interface)
+  - 🦄 An open source interface for the Uniswap protocol
+- [foam](https://github.com/foambubble/foam)
+  - A personal knowledge management and sharing system for VSCode
 - [kibana](https://github.com/elastic/kibana)
   - Your window into the Elastic Stack
-- [ant-design-mobile-rn](https://github.com/ant-design/ant-design-mobile-rn)
-  - Ant Design for React Native
-- [model-viewer](https://github.com/google/model-viewer)
-  - Easily display interactive 3D models on the web and in AR!
+- [vite](https://github.com/vitejs/vite)
+  - Native-ESM powered web dev build tool. It's fast.
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+  - The repository for high quality TypeScript type definitions.
+- [vscode](https://github.com/microsoft/vscode)
+  - Visual Studio Code
+- [angular](https://github.com/angular/angular)
+  - One framework. Mobile & desktop.
+- [apollo-client](https://github.com/apollographql/apollo-client)
+  - 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
+- [checkout](https://github.com/actions/checkout)
+  - Action for checking out a repo
+- [TypeScript](https://github.com/microsoft/TypeScript)
+  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [jest](https://github.com/facebook/jest)
+  - Delightful JavaScript Testing.
+- [qiankun](https://github.com/umijs/qiankun)
+  - 📦 🚀 Blazing fast, simple and completed solution for micro frontends.
+- [midway](https://github.com/midwayjs/midway)
+  - 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Aliyun, Tencent-Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
+- [hooks](https://github.com/alibaba/hooks)
+  - React Hooks Library
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
+  - 📋 React Hooks for forms validation (Web + React Native)
+- [storybook](https://github.com/storybookjs/storybook)
+  - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
