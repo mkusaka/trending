@@ -1,49 +1,51 @@
 # general
-- [stayaway-app](https://github.com/stayawayinesctec/stayaway-app) : JavaScript
-  - Official repository for the STAYAWAY COVID mobile application
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [metersphere](https://github.com/metersphere/metersphere) : Java
-  - An open source continuous testing platform. MeterSphere 是一站式的开源企业级持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能，全面兼容 JMeter、Postman 等开源、主流标准。
-- [Zoom-Clone-With-WebRTC](https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC) : JavaScript
-- [generator-jhipster](https://github.com/jhipster/generator-jhipster) : JavaScript
-  - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
-- [macintosh.js](https://github.com/felixrieseberg/macintosh.js) : JavaScript
-  - A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
-- [api-guidelines](https://github.com/microsoft/api-guidelines) : 
-  - Microsoft REST API Guidelines
-- [java8-tutorial](https://github.com/winterbe/java8-tutorial) : Java
-  - Modern Java - A Guide to Java 8
-- [java-design-patterns](https://github.com/iluwatar/java-design-patterns) : Java
-  - Design patterns implemented in Java
-- [tye](https://github.com/dotnet/tye) : C#
-  - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
-- [workflow](https://github.com/sogou/workflow) : C++
-- [awesome-java](https://github.com/akullpp/awesome-java) : 
-  - A curated list of awesome frameworks, libraries and software for the Java programming language.
-- [detext](https://github.com/linkedin/detext) : Python
-  - DeText: A Deep Neural Text Understanding Framework for Ranking and Classification Tasks
-- [Android-Analysis](https://github.com/1d8/Android-Analysis) : 
-  - Getting Genymotion & Burpsuite setup for Android Mobile App Analysis
-- [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) : 
-  - 😱 Falsehoods Programmers Believe in
-- [interviews](https://github.com/kdn251/interviews) : Java
-  - Everything you need to know to get the job.
-- [SkyArk](https://github.com/cyberark/SkyArk) : PowerShell
-  - SkyArk helps to discover, assess and secure the most privileged entities in Azure and AWS
-- [windows95](https://github.com/felixrieseberg/windows95) : TypeScript
-  - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
-- [Java](https://github.com/TheAlgorithms/Java) : Java
-  - All Algorithms implemented in Java
+- [UnusualVolumeDetector](https://github.com/SamPom100/UnusualVolumeDetector) : Python
+  - Gets the last 5 months of volume history for every ticker, and alerts you when a stock's volume exceeds 10 standard deviations from the mean within the last 3 days
 - [CtCI-6th-Edition](https://github.com/careercup/CtCI-6th-Edition) : Java
   - Cracking the Coding Interview 6th Ed. Solutions
-- [bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data) : 
-  - This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports
+- [metersphere](https://github.com/metersphere/metersphere) : Java
+  - An open source continuous testing platform. MeterSphere 是一站式的开源企业级持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能，全面兼容 JMeter、Postman 等开源、主流标准。
+- [Java](https://github.com/TheAlgorithms/Java) : Java
+  - All Algorithms implemented in Java
+- [SSPanel-Uim](https://github.com/Anankke/SSPanel-Uim) : Smarty
+  - SSPanel V3 魔改再次修改版
+- [interviews](https://github.com/kdn251/interviews) : Java
+  - Everything you need to know to get the job.
+- [awesome-java](https://github.com/akullpp/awesome-java) : 
+  - A curated list of awesome frameworks, libraries and software for the Java programming language.
+- [java-design-patterns](https://github.com/iluwatar/java-design-patterns) : Java
+  - Design patterns implemented in Java
+- [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) : JavaScript
+  - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
+- [java8-tutorial](https://github.com/winterbe/java8-tutorial) : Java
+  - Modern Java - A Guide to Java 8
+- [covid-alert-app](https://github.com/cds-snc/covid-alert-app) : TypeScript
+  - Exposure notification client application / Application client de notification d'exposition
+- [realworld](https://github.com/gothinkster/realworld) : JavaScript
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [project-citadel](https://github.com/JordanKnott/project-citadel) : TypeScript
+  - An open source project management tool with Kanban boards
+- [teenyicons](https://github.com/teenyicons/teenyicons) : JavaScript
+  - Tiny minimal 1px icons designed to fit in the smallest places.
+- [stayaway-app](https://github.com/stayawayinesctec/stayaway-app) : JavaScript
+  - Official repository for the STAYAWAY COVID mobile application
+- [generator-jhipster](https://github.com/jhipster/generator-jhipster) : JavaScript
+  - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
+- [haystack](https://github.com/deepset-ai/haystack) : Python
+  - 🔍 Transformers at scale for question answering & search
+- [fhe-toolkit-linux](https://github.com/IBM/fhe-toolkit-linux) : C++
+  - IBM Fully Homomorphic Encryption Toolkit For Linux
+- [api-guidelines](https://github.com/microsoft/api-guidelines) : 
+  - Microsoft REST API Guidelines
+- [hvmi](https://github.com/hvmi/hvmi) : Objective-C
+  - Hypervisor Memory Introspection Core Library
+- [tutorials](https://github.com/eugenp/tutorials) : Java
+  - Just Announced - "Learn Spring Security OAuth":
+- [macintosh.js](https://github.com/felixrieseberg/macintosh.js) : JavaScript
+  - A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
+- [ml-engineer-roadmap](https://github.com/chris-chris/ml-engineer-roadmap) : 
+  - WIP: Roadmap to becoming a machine learning engineer in 2020
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) : 
+  - A book series on JavaScript. @YDKJS on twitter.
 - [TransCoder](https://github.com/facebookresearch/TransCoder) : Python
   - Public release of the TransCoder research project https://arxiv.org/pdf/2006.03511.pdf
-- [learn-cantrill-io-labs](https://github.com/acantril/learn-cantrill-io-labs) : Shell
-  - Standard and Advanced Demos for learn.cantrill.io courses
-- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
-  - Course Files for Complete Python 3 Bootcamp Course on Udemy
-- [formik](https://github.com/formium/formik) : TypeScript
-  - Build forms in React, without the tears 😭
