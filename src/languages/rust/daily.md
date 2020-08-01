@@ -1,51 +1,51 @@
 # rust
+- [lemmy](https://github.com/LemmyNet/lemmy)
+  - 🐀 Building a federated alternative to reddit in rust
 - [tauri](https://github.com/tauri-apps/tauri)
   - Build smaller, faster, and more secure desktop applications with a web frontend.
-- [firecracker](https://github.com/firecracker-microvm/firecracker)
-  - Secure and fast microVMs for serverless computing.
-- [emigui](https://github.com/emilk/emigui)
-  - egui: Immediate mode GUI written in Rust, made for WASM
-- [iced](https://github.com/hecrj/iced)
-  - A cross-platform GUI library for Rust, inspired by Elm
-- [zola](https://github.com/getzola/zola)
-  - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
-- [solana](https://github.com/solana-labs/solana)
-  - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-- [cookie_dough](https://github.com/gamozolabs/cookie_dough)
-  - A fuzzing introspection tool
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
-- [fd](https://github.com/sharkdp/fd)
-  - A simple, fast and user-friendly alternative to 'find'
-- [tikv](https://github.com/tikv/tikv)
-  - Distributed transactional key-value database, originally created to complement TiDB
-- [WASI](https://github.com/WebAssembly/WASI)
-  - WebAssembly System Interface
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-  - A curated list of Rust code and resources.
-- [tokenizers](https://github.com/huggingface/tokenizers)
-  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
-- [Rocket](https://github.com/SergioBenitez/Rocket)
-  - A web framework for Rust.
-- [wasm-pack](https://github.com/rustwasm/wasm-pack)
-  - 📦✨ your favorite rust -> wasm workflow tool!
-- [cargo](https://github.com/rust-lang/cargo)
-  - The Rust package manager
+- [ytop](https://github.com/cjbassi/ytop)
+  - A TUI system monitor written in Rust
 - [RustPython](https://github.com/RustPython/RustPython)
   - A Python Interpreter written in Rust
-- [vector](https://github.com/timberio/vector)
-  - A lightweight and ultra-fast router for building observability pipelines
 - [nushell](https://github.com/nushell/nushell)
   - A new type of shell
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [minsc](https://github.com/shesek/minsc)
-  - A Miniscript-based high-level scripting language for Bitcoin contracts
+- [fd](https://github.com/sharkdp/fd)
+  - A simple, fast and user-friendly alternative to 'find'
+- [delta](https://github.com/dandavison/delta)
+  - A viewer for git and diff output
+- [clap](https://github.com/clap-rs/clap)
+  - A full featured, fast Command Line Argument Parser for Rust
 - [rust](https://github.com/rust-lang/rust)
   - Empowering everyone to build reliable and efficient software.
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
+- [firecracker](https://github.com/firecracker-microvm/firecracker)
+  - Secure and fast microVMs for serverless computing.
+- [exa](https://github.com/ogham/exa)
+  - A modern version of ‘ls’.
+- [rustfmt](https://github.com/rust-lang/rustfmt)
+  - Format Rust code
+- [tide](https://github.com/http-rs/tide)
+  - Fast and friendly HTTP server framework for async Rust
+- [dijo](https://github.com/NerdyPepper/dijo)
+  - scriptable, curses-based, digital habit tracker
+- [swc](https://github.com/swc-project/swc)
+  - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
+- [emigui](https://github.com/emilk/emigui)
+  - egui: Immediate mode GUI written in Rust, made for WASM
 - [xsv](https://github.com/BurntSushi/xsv)
   - A fast CSV command line toolkit written in Rust.
-- [aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime)
-  - A Rust runtime for AWS Lambda
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+  - 📚 Learn to write an embedded OS in Rust 🦀
+- [tikv](https://github.com/tikv/tikv)
+  - Distributed transactional key-value database, originally created to complement TiDB
+- [tracing](https://github.com/tokio-rs/tracing)
+  - Application level tracing for Rust.
+- [lighthouse](https://github.com/sigp/lighthouse)
+  - Rust Ethereum 2.0 Client
