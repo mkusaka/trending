@@ -1,51 +1,51 @@
 # typescript
 - [covid-alert-app](https://github.com/cds-snc/covid-alert-app)
   - Exposure notification client application / Application client de notification d'exposition
-- [project-citadel](https://github.com/JordanKnott/project-citadel)
-  - An open source project management tool with Kanban boards
-- [windows95](https://github.com/felixrieseberg/windows95)
-  - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
-- [formik](https://github.com/formium/formik)
-  - Build forms in React, without the tears 😭
-- [amplify-cli](https://github.com/aws-amplify/amplify-cli)
-  - A CLI toolchain for simplifying serverless web and mobile development.
 - [tinykeys](https://github.com/jamiebuilds/tinykeys)
   - A tiny (~400 B) & modern library for keybindings.
-- [TypeScript](https://github.com/microsoft/TypeScript)
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [react-use](https://github.com/streamich/react-use)
-  - React Hooks — 👍
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
-- [G2Plot](https://github.com/antvis/G2Plot)
-  - 🍡 An interactive and responsive charting library
-- [hooks](https://github.com/alibaba/hooks)
-  - React Hooks Library
-- [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
-  - ✨ Monorepo for all the tooling which enables ESLint to support TypeScript
-- [moufette](https://github.com/moufette-tools/moufette)
-  - 🦨 Moufette is developer-friendly, open-source set of tools to collect users feedback
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
-  - 📋 React Hooks for forms validation (Web + React Native)
-- [G2](https://github.com/antvis/G2)
-  - 📊 A highly interactive data-driven visualization grammar for statistical charts.
-- [apollo-client](https://github.com/apollographql/apollo-client)
-  - 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
-- [qawolf](https://github.com/qawolf/qawolf)
-  - 🐺Create browser tests 10x faster
-- [youtube-api-node-solid](https://github.com/Rocketseat/youtube-api-node-solid)
-  - Código produzido no vídeo "Princípios SOLID em uma API REST com Node.js e TypeScript"
-- [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)
-  - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
-- [amplify-js](https://github.com/aws-amplify/amplify-js)
-  - A declarative JavaScript library for application development using cloud services.
-- [jest](https://github.com/facebook/jest)
-  - Delightful JavaScript Testing.
-- [material-ui-pickers](https://github.com/mui-org/material-ui-pickers)
-  - Date & Time pickers, built with ❤️ for @material-ui/core
-- [setup-node](https://github.com/actions/setup-node)
-  - Set up your GitHub Actions workflow with a specific version of node.js
-- [starter-workflows](https://github.com/actions/starter-workflows)
-  - Accelerating new GitHub Actions workflows
+- [mobile](https://github.com/CovidShield/mobile)
+  - React Native client application for COVID Shield on iOS and Android
+- [project-citadel](https://github.com/JordanKnott/project-citadel)
+  - An open source project management tool with Kanban boards
+- [zustand](https://github.com/react-spring/zustand)
+  - 🐻 Bear necessities for state management in React
+- [AtCoderProblems](https://github.com/kenkoooo/AtCoderProblems)
+  - Extend your AtCoder
+- [formik](https://github.com/formium/formik)
+  - Build forms in React, without the tears 😭
+- [BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
+  - Dialog creation and management for Microsoft Bot Framework Applications
+- [ink](https://github.com/vadimdemedes/ink)
+  - 🌈 React for interactive command-line apps
+- [webiny-js](https://github.com/webiny/webiny-js)
+  - Platform for building serverless applications and APIs (Node.js, React, GraphQL)
+- [deno](https://github.com/denoland/deno)
+  - A secure JavaScript and TypeScript runtime
+- [swr](https://github.com/vercel/swr)
+  - React Hooks library for remote data fetching
+- [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
+  - 💬 The most complete chat UI for React Native
+- [etcher](https://github.com/balena-io/etcher)
+  - Flash OS images to SD cards & USB drives, safely and easily.
+- [vite](https://github.com/vitejs/vite)
+  - Native-ESM powered web dev build tool. It's fast.
+- [motion](https://github.com/framer/motion)
+  - Open source, production-ready animation and gesture library for React
+- [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper)
+  - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
+- [PT-Plugin-Plus](https://github.com/ronggang/PT-Plugin-Plus)
+  - PT 助手 Plus，为 Google Chrome 和 Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。
+- [darkreader](https://github.com/darkreader/darkreader)
+  - Dark Reader Chrome and Firefox extension
+- [appsmith](https://github.com/appsmithorg/appsmith)
+  - Appsmith is a frontend-as-a-service framework that lets you build custom internal tools without HTML / CSS
+- [vercel](https://github.com/vercel/vercel)
+  - Develop. Preview. Ship.
+- [amplify-cli](https://github.com/aws-amplify/amplify-cli)
+  - A CLI toolchain for simplifying serverless web and mobile development.
+- [coc-explorer](https://github.com/weirongxu/coc-explorer)
+  - 📁 Explorer for coc.nvim
+- [angular-cli](https://github.com/angular/angular-cli)
+  - CLI tool for Angular
+- [coc.nvim](https://github.com/neoclide/coc.nvim)
+  - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode

@@ -1,51 +1,51 @@
 # javascript
-- [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
-  - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
-- [realworld](https://github.com/gothinkster/realworld)
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [icons](https://github.com/twbs/icons)
+  - Official open source SVG icon library for Bootstrap.
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
+  - Starter files, final projects and FAQ for my Complete JavaScript course
 - [teenyicons](https://github.com/teenyicons/teenyicons)
   - Tiny minimal 1px icons designed to fit in the smallest places.
-- [stayaway-app](https://github.com/stayawayinesctec/stayaway-app)
-  - Official repository for the STAYAWAY COVID mobile application
-- [generator-jhipster](https://github.com/jhipster/generator-jhipster)
-  - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
-- [macintosh.js](https://github.com/felixrieseberg/macintosh.js)
-  - A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
-- [Zoom-Clone-With-WebRTC](https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC)
-  - 
-- [javascript](https://github.com/airbnb/javascript)
-  - JavaScript Style Guide
-- [vitrine-imersao-react](https://github.com/imersao-alura/vitrine-imersao-react)
-  - 
-- [Otto](https://github.com/KartikChugh/Otto)
-  - Otto makes machine learning an intuitive, natural language experience.🏆 Facebook AI Challenge winner ⭐️ #4 Trending JS Project ⭐️ #15 Trending Project (All Languages)
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [Luckysheet](https://github.com/mengshukeji/Luckysheet)
-  - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
-- [strapi](https://github.com/strapi/strapi)
-  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [realworld](https://github.com/gothinkster/realworld)
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [netron](https://github.com/lutzroeder/netron)
+  - Visualizer for neural network, deep learning and machine learning models
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
+  - Short JavaScript code snippets for all your development needs
 - [json-server](https://github.com/typicode/json-server)
   - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-- [magnetW](https://github.com/xiandanin/magnetW)
-  - 磁力链接聚合搜索
-- [content](https://github.com/nuxt/content)
-  - Write in a content/ directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
-- [faker.js](https://github.com/Marak/faker.js)
-  - generate massive amounts of realistic fake data in Node.js and the browser
-- [d3](https://github.com/d3/d3)
-  - Bring data to life with SVG, Canvas and HTML. 📊📈🎉
-- [chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo)
-  - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
-- [react-table](https://github.com/tannerlinsley/react-table)
-  - ⚛️ Hooks for building fast and extendable tables and datagrids for React
-- [react-virtualized](https://github.com/bvaughn/react-virtualized)
-  - React components for efficiently rendering large lists and tabular data
-- [Detox](https://github.com/wix/Detox)
-  - Gray box end-to-end testing and automation framework for mobile apps
-- [Viewers](https://github.com/OHIF/Viewers)
-  - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker, plus shared extension packages
-- [sigma.js](https://github.com/jacomyal/sigma.js)
-  - A JavaScript library dedicated to graph drawing
+- [home-cloud](https://github.com/antoniosarosi/home-cloud)
+  - The "cloud" at home
+- [Ghost](https://github.com/TryGhost/Ghost)
+  - 👻 The #1 headless Node.js CMS for professional publishing
 - [Recoil](https://github.com/facebookexperimental/Recoil)
   - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
+- [iptv](https://github.com/iptv-org/iptv)
+  - Collection of 8000+ publicly available IPTV channels from all over the world
+- [stayaway-app](https://github.com/stayawayinesctec/stayaway-app)
+  - Official repository for the STAYAWAY COVID mobile application
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [core](https://github.com/JAVClub/core)
+  - 🔞 JAVClub - 让你的大姐姐不再走丢
+- [tiktok-clone](https://github.com/CleverProgrammers/tiktok-clone)
+  - A clone of TikTok built by Sonny & Qazi 👉 https://tik-tok-clone-eb635.web.app/
+- [brave-browser](https://github.com/brave/brave-browser)
+  - Next generation Brave browser for macOS, Windows, Linux, Android.
+- [engine](https://github.com/playcanvas/engine)
+  - Fast and lightweight WebGL game engine
+- [generator-jhipster](https://github.com/jhipster/generator-jhipster)
+  - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
+- [uFragments](https://github.com/ampleforth/uFragments)
+  - Smart contracts for Ampleforth Protocol (working name uFragments)
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [express](https://github.com/expressjs/express)
+  - Fast, unopinionated, minimalist web framework for node.
+- [Instagram-clone-MERN-Stack](https://github.com/mukeshphulwani66/Instagram-clone-MERN-Stack)
+  - 
+- [node-express-realworld-example-app](https://github.com/gothinkster/node-express-realworld-example-app)
+  - 
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [evobot](https://github.com/eritislami/evobot)
+  - 🤖 EvoBot is a Discord Music Bot built with discord.js & uses Command Handler from discordjs.guide

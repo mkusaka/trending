@@ -1,51 +1,51 @@
 # rust
-- [lemmy](https://github.com/LemmyNet/lemmy)
-  - 🐀 Building a federated alternative to reddit in rust
-- [tauri](https://github.com/tauri-apps/tauri)
-  - Build smaller, faster, and more secure desktop applications with a web frontend.
-- [ytop](https://github.com/cjbassi/ytop)
-  - A TUI system monitor written in Rust
-- [RustPython](https://github.com/RustPython/RustPython)
-  - A Python Interpreter written in Rust
+- [alacritty](https://github.com/alacritty/alacritty)
+  - A cross-platform, GPU-accelerated terminal emulator
 - [nushell](https://github.com/nushell/nushell)
   - A new type of shell
-- [fd](https://github.com/sharkdp/fd)
-  - A simple, fast and user-friendly alternative to 'find'
-- [delta](https://github.com/dandavison/delta)
-  - A viewer for git and diff output
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
-- [firecracker](https://github.com/firecracker-microvm/firecracker)
-  - Secure and fast microVMs for serverless computing.
-- [exa](https://github.com/ogham/exa)
-  - A modern version of ‘ls’.
-- [rustfmt](https://github.com/rust-lang/rustfmt)
-  - Format Rust code
-- [tide](https://github.com/http-rs/tide)
-  - Fast and friendly HTTP server framework for async Rust
-- [dijo](https://github.com/NerdyPepper/dijo)
-  - scriptable, curses-based, digital habit tracker
-- [swc](https://github.com/swc-project/swc)
-  - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
+- [ytop](https://github.com/cjbassi/ytop)
+  - A TUI system monitor written in Rust
 - [bat](https://github.com/sharkdp/bat)
   - A cat(1) clone with wings.
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-  - A curated list of Rust code and resources.
-- [emigui](https://github.com/emilk/emigui)
-  - egui: Immediate mode GUI written in Rust, made for WASM
-- [xsv](https://github.com/BurntSushi/xsv)
-  - A fast CSV command line toolkit written in Rust.
+- [fd](https://github.com/sharkdp/fd)
+  - A simple, fast and user-friendly alternative to 'find'
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - ripgrep recursively searches directories for a regex pattern
+- [RustPython](https://github.com/RustPython/RustPython)
+  - A Python Interpreter written in Rust
+- [exa](https://github.com/ogham/exa)
+  - A modern version of ‘ls’.
+- [dijo](https://github.com/NerdyPepper/dijo)
+  - scriptable, curses-based, digital habit tracker
+- [tide](https://github.com/http-rs/tide)
+  - Fast and friendly HTTP server framework for async Rust
 - [libra](https://github.com/libra/libra)
   - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [tauri](https://github.com/tauri-apps/tauri)
+  - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [rust-clippy](https://github.com/rust-lang/rust-clippy)
+  - A bunch of lints to catch common mistakes and improve your Rust code
+- [openethereum](https://github.com/openethereum/openethereum)
+  - The fast, light, and robust client for Ethereum-like networks.
+- [amethyst](https://github.com/amethyst/amethyst)
+  - Data-oriented and data-driven game engine written in Rust
+- [graph-node](https://github.com/graphprotocol/graph-node)
+  - Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
+- [lemmy](https://github.com/LemmyNet/lemmy)
+  - 🐀 Building a federated alternative to reddit in rust
+- [solana](https://github.com/solana-labs/solana)
+  - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+- [delta](https://github.com/dandavison/delta)
+  - A viewer for git and diff output
 - [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
   - 📚 Learn to write an embedded OS in Rust 🦀
-- [tikv](https://github.com/tikv/tikv)
-  - Distributed transactional key-value database, originally created to complement TiDB
-- [tracing](https://github.com/tokio-rs/tracing)
-  - Application level tracing for Rust.
-- [lighthouse](https://github.com/sigp/lighthouse)
-  - Rust Ethereum 2.0 Client
+- [hyper](https://github.com/hyperium/hyper)
+  - An HTTP library for Rust
+- [rpcn](https://github.com/RipleyTom/rpcn)
+  - 
+- [rustlings](https://github.com/rust-lang/rustlings)
+  - 🦀 Small exercises to get you used to reading and writing Rust code!
+- [libc](https://github.com/rust-lang/libc)
+  - Raw bindings to platform APIs for Rust
