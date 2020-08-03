@@ -1,51 +1,50 @@
 # general
-- [gpt-3](https://github.com/openai/gpt-3) : 
-  - GPT-3: Language Models are Few-Shot Learners
-- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) : JavaScript
-  - ⚡ Dynamically generated stats for your github readmes
-- [3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting) : Python
-  - [CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
-- [laravel-boilerplate](https://github.com/rappasoft/laravel-boilerplate) : PHP
-  - The Laravel Boilerplate Project - https://laravel-boilerplate.com
-- [wiki](https://github.com/Requarks/wiki) : Vue
-  - Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
-- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) : Vue
-  - 一个基于 electron 的音乐软件
-- [gpt-3-experiments](https://github.com/minimaxir/gpt-3-experiments) : Python
-  - Test prompts for OpenAI's GPT-3 API and the resulting AI-generated texts.
-- [flutter_twitter_clone](https://github.com/TheAlphamerc/flutter_twitter_clone) : Dart
-  - Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage
-- [Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) : Dart
-  - completely free for everyone. Its build-in Flutter Dart.
-- [Rocket](https://github.com/SergioBenitez/Rocket) : Rust
-  - A web framework for Rust.
-- [react-spectrum](https://github.com/adobe/react-spectrum) : TypeScript
-  - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
-- [JavaFamily](https://github.com/AobingJava/JavaFamily) : 
-  - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-- [DOOM-FX](https://github.com/RandalLinden/DOOM-FX) : Assembly
-  - Doom/FX for Super Nintendo with SuperFX GSU2A
-- [Java](https://github.com/TheAlgorithms/Java) : Java
-  - All Algorithms implemented in Java
-- [clash](https://github.com/Dreamacro/clash) : Go
-  - A rule-based tunnel in Go.
-- [gpt-2](https://github.com/openai/gpt-2) : Python
-  - Code for the paper "Language Models are Unsupervised Multitask Learners"
-- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) : C++
-  - Awesome OCR toolkits based on PaddlePaddle （8.6M ultra-lightweight pre-trained model, support training and deployment among server, mobile, embeded and IoT devices）
-- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) : JavaScript
-  - The iconic SVG, font, and CSS toolkit
-- [svelte](https://github.com/sveltejs/svelte) : JavaScript
-  - Cybernetically enhanced web apps
-- [material-components-web](https://github.com/material-components/material-components-web) : TypeScript
-  - Modular and customizable Material Design UI components for the web
-- [interview_internal_reference](https://github.com/0voice/interview_internal_reference) : Python
-  - 2020年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
-- [interview](https://github.com/huihut/interview) : C++
-  - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendatio…
-- [abp](https://github.com/abpframework/abp) : C#
-  - Open Source Web Application Framework for ASP.NET Core
+- [gpt3-sandbox](https://github.com/shreyashankar/gpt3-sandbox) : JavaScript
+  - The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.
+- [mirai](https://github.com/mamoe/mirai) : 
+- [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) : Jupyter Notebook
+  - This repository contains the source code for the paper First Order Motion Model for Image Animation
+- [ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) : C++
+  - ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 - [covid-alert-app](https://github.com/cds-snc/covid-alert-app) : TypeScript
   - Exposure notification client application / Application client de notification d'exposition
-- [ant-design-vue](https://github.com/vueComponent/ant-design-vue) : Vue
-  - 🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜
+- [androidx](https://github.com/androidx/androidx) : Java
+  - Development environment for Jetpack Android extension libraries. Synchronized with Jetpack's primary development branch on AOSP.
+- [clutch](https://github.com/lyft/clutch) : Go
+  - Extensible platform for infrastructure management
+- [hello-algorithm](https://github.com/geekxh/hello-algorithm) : Vue
+  - 🙈🙉🙊 本项目包括：1、我写的三十万字图解算法题典 2、100 张 IT 相关超清思维导图 3、100 篇大厂面经汇总 4、各语言编程电子书 100 本 5、English version supported !!! 🚀🚀 国人项目上榜首不易，右上角助力一波！干就对了，奥利给 ！🚀🚀
+- [RxSwift](https://github.com/ReactiveX/RxSwift) : Swift
+  - Reactive Programming in Swift
+- [interviews](https://github.com/kdn251/interviews) : Java
+  - Everything you need to know to get the job.
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [arrow](https://github.com/apache/arrow) : C++
+  - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…
+- [formik](https://github.com/formium/formik) : TypeScript
+  - Build forms in React, without the tears 😭
+- [java-design-patterns](https://github.com/iluwatar/java-design-patterns) : Java
+  - Design patterns implemented in Java
+- [cilium](https://github.com/cilium/cilium) : Go
+  - eBPF-based Networking, Security, and Observability
+- [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) : Objective-C
+  - Mac版微信的功能拓展(A plugin for Mac WeChat)
+- [envoy](https://github.com/envoyproxy/envoy) : C++
+  - Cloud-native high-performance edge/middle/service proxy
+- [rengine](https://github.com/yogeshojha/rengine) : JavaScript
+  - reNgine is an automated reconnaissance framework meant for gathering information during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) : JavaScript
+  - ⚡ Dynamically generated stats for your github readmes
+- [Marlin](https://github.com/MarlinFirmware/Marlin) : C++
+  - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
+- [metersphere](https://github.com/metersphere/metersphere) : Java
+  - An open source continuous testing platform. MeterSphere 是一站式的开源企业级持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能，全面兼容 JMeter、Postman 等开源、主流标准。
+- [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) : Python
+  - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
+- [cutter](https://github.com/radareorg/cutter) : C++
+  - Free and Open Source Reverse Engineering Platform powered by radare2
+- [serverless-application-model](https://github.com/awslabs/serverless-application-model) : Python
+  - AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications
+- [json](https://github.com/nlohmann/json) : C++
+  - JSON for Modern C++
