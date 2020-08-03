@@ -1,50 +1,49 @@
 # general
-- [covid-alert-app](https://github.com/cds-snc/covid-alert-app) : TypeScript
-  - Exposure notification client application / Application client de notification d'exposition
-- [PowerToys](https://github.com/microsoft/PowerToys) : C++
-  - Windows system utilities to maximize productivity
-- [oneflow](https://github.com/Oneflow-Inc/oneflow) : C++
-  - OneFlow is a performance-centered and open-source deep learning framework.
-- [scrcpy](https://github.com/Genymobile/scrcpy) : C
-  - Display and control your Android device
-- [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) : Go
-  - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
-- [Java](https://github.com/TheAlgorithms/Java) : Java
-  - All Algorithms implemented in Java
-- [SSPanel-Uim](https://github.com/Anankke/SSPanel-Uim) : Smarty
-  - SSPanel V3 魔改再次修改版
-- [icons](https://github.com/twbs/icons) : JavaScript
-  - Official open source SVG icon library for Bootstrap.
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course) : JavaScript
-  - Starter files, final projects and FAQ for my Complete JavaScript course
-- [TapTap](https://github.com/KieronQuinn/TapTap) : Kotlin
-  - Port of the double tap on back of device feature from Android 11 to any armv8 Android device
-- [ml-engineer-roadmap](https://github.com/chris-chris/ml-engineer-roadmap) : 
-  - WIP: Roadmap to becoming a machine learning engineer in 2020
-- [mirai](https://github.com/mamoe/mirai) : Kotlin
+- [mirai](https://github.com/mamoe/mirai) : 
+- [rich](https://github.com/willmcgugan/rich) : Python
+  - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) : Jupyter Notebook
   - This repository contains the source code for the paper First Order Motion Model for Image Animation
-- [tinykeys](https://github.com/jamiebuilds/tinykeys) : TypeScript
-  - A tiny (~400 B) & modern library for keybindings.
-- [binary_search](https://github.com/scandum/binary_search) : C
-  - A collection of improved binary search algorithms.
-- [teenyicons](https://github.com/teenyicons/teenyicons) : JavaScript
-  - Tiny minimal 1px icons designed to fit in the smallest places.
-- [mobile](https://github.com/CovidShield/mobile) : TypeScript
-  - React Native client application for COVID Shield on iOS and Android
-- [project-citadel](https://github.com/JordanKnott/project-citadel) : TypeScript
-  - An open source project management tool with Kanban boards
-- [Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code) : Python
-  - 手写实现李航《统计学习方法》书中全部算法
+- [fhe-toolkit-linux](https://github.com/IBM/fhe-toolkit-linux) : C++
+  - IBM Fully Homomorphic Encryption Toolkit For Linux. This toolkit is a Linux based Docker container that demonstrates computing on encrypted data without decrypting it! The toolkit ships with two demos including a fully encrypted Machine Learning inference with a Neural Network and a Privacy-Preserving key-value search.
+- [Java](https://github.com/TheAlgorithms/Java) : Java
+  - All Algorithms implemented in Java
+- [rustlings](https://github.com/rust-lang/rustlings) : Rust
+  - 🦀 Small exercises to get you used to reading and writing Rust code!
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
   - A complete computer science study plan to become a software engineer.
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course) : JavaScript
+  - Starter files, final projects and FAQ for my Complete JavaScript course
+- [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) : Go
+  - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
+- [easy_rust](https://github.com/Dhghomon/easy_rust) : Shell
+  - Rust explained using easy English
+- [icons](https://github.com/twbs/icons) : JavaScript
+  - Official open source SVG icon library for Bootstrap.
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) : 
+  - A book series on JavaScript. @YDKJS on twitter.
+- [educative.io_courses](https://github.com/aboelkassem/educative.io_courses) : 
+  - this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack
+- [scrcpy](https://github.com/Genymobile/scrcpy) : C
+  - Display and control your Android device
+- [PowerToys](https://github.com/microsoft/PowerToys) : C++
+  - Windows system utilities to maximize productivity
+- [DeOldify](https://github.com/jantic/DeOldify) : Jupyter Notebook
+  - A Deep Learning based project for colorizing and restoring old images (and video!)
+- [bat](https://github.com/sharkdp/bat) : Rust
+  - A cat(1) clone with wings.
+- [Python](https://github.com/TheAlgorithms/Python) : Python
+  - All Algorithms implemented in Python
+- [InstaPy](https://github.com/timgrossmann/InstaPy) : Python
+  - 📷 Instagram Bot - Tool for automated Instagram interactions
+- [haoel.github.io](https://github.com/haoel/haoel.github.io) : Shell
+- [home-cloud](https://github.com/antoniosarosi/home-cloud) : JavaScript
+  - The "cloud" at home
+- [core](https://github.com/JAVClub/core) : JavaScript
+  - 🔞 JAVClub - 让你的大姐姐不再走丢
+- [covid-alert-app](https://github.com/cds-snc/covid-alert-app) : TypeScript
+  - Exposure notification client application / Application client de notification d'exposition
+- [Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code) : Python
+  - 手写实现李航《统计学习方法》书中全部算法
 - [AI4Animation](https://github.com/sebastianstarke/AI4Animation) : C++
   - Bringing Characters to Life with Computer Brains in Unity
-- [lede](https://github.com/coolsnowwolf/lede) : C
-  - Lean's OpenWrt source
-- [trackerslist](https://github.com/ngosang/trackerslist) : 
-  - Updated list of public BitTorrent trackers
-- [CtCI-6th-Edition](https://github.com/careercup/CtCI-6th-Edition) : Java
-  - Cracking the Coding Interview 6th Ed. Solutions
-- [interviews](https://github.com/kdn251/interviews) : Java
-  - Everything you need to know to get the job.

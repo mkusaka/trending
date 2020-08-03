@@ -1,51 +1,51 @@
 # typescript
 - [covid-alert-app](https://github.com/cds-snc/covid-alert-app)
   - Exposure notification client application / Application client de notification d'exposition
-- [tinykeys](https://github.com/jamiebuilds/tinykeys)
-  - A tiny (~400 B) & modern library for keybindings.
-- [mobile](https://github.com/CovidShield/mobile)
-  - React Native client application for COVID Shield on iOS and Android
 - [project-citadel](https://github.com/JordanKnott/project-citadel)
   - An open source project management tool with Kanban boards
-- [zustand](https://github.com/react-spring/zustand)
-  - 🐻 Bear necessities for state management in React
-- [AtCoderProblems](https://github.com/kenkoooo/AtCoderProblems)
-  - Extend your AtCoder
-- [formik](https://github.com/formium/formik)
-  - Build forms in React, without the tears 😭
-- [BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
-  - Dialog creation and management for Microsoft Bot Framework Applications
-- [ink](https://github.com/vadimdemedes/ink)
-  - 🌈 React for interactive command-line apps
-- [webiny-js](https://github.com/webiny/webiny-js)
-  - Platform for building serverless applications and APIs (Node.js, React, GraphQL)
-- [deno](https://github.com/denoland/deno)
-  - A secure JavaScript and TypeScript runtime
+- [FigmaToCode](https://github.com/bernaferrari/FigmaToCode)
+  - Generate responsive pages and apps on Tailwind, Flutter and SwiftUI.
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
+  - 📋 React Hooks for forms validation (Web + React Native)
 - [swr](https://github.com/vercel/swr)
   - React Hooks library for remote data fetching
-- [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
-  - 💬 The most complete chat UI for React Native
-- [etcher](https://github.com/balena-io/etcher)
-  - Flash OS images to SD cards & USB drives, safely and easily.
-- [vite](https://github.com/vitejs/vite)
-  - Native-ESM powered web dev build tool. It's fast.
-- [motion](https://github.com/framer/motion)
-  - Open source, production-ready animation and gesture library for React
-- [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper)
-  - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
-- [PT-Plugin-Plus](https://github.com/ronggang/PT-Plugin-Plus)
-  - PT 助手 Plus，为 Google Chrome 和 Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。
-- [darkreader](https://github.com/darkreader/darkreader)
-  - Dark Reader Chrome and Firefox extension
-- [appsmith](https://github.com/appsmithorg/appsmith)
-  - Appsmith is a frontend-as-a-service framework that lets you build custom internal tools without HTML / CSS
-- [vercel](https://github.com/vercel/vercel)
-  - Develop. Preview. Ship.
-- [amplify-cli](https://github.com/aws-amplify/amplify-cli)
-  - A CLI toolchain for simplifying serverless web and mobile development.
-- [coc-explorer](https://github.com/weirongxu/coc-explorer)
-  - 📁 Explorer for coc.nvim
-- [angular-cli](https://github.com/angular/angular-cli)
-  - CLI tool for Angular
-- [coc.nvim](https://github.com/neoclide/coc.nvim)
-  - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
+- [rocketredis](https://github.com/diego3g/rocketredis)
+  - A beautiful Redis GUI 🔥 (under development)
+- [tinykeys](https://github.com/jamiebuilds/tinykeys)
+  - A tiny (~400 B) & modern library for keybindings.
+- [core.js](https://github.com/octokit/core.js)
+  - Extendable client for GitHub's REST & GraphQL APIs
+- [mobile](https://github.com/CovidShield/mobile)
+  - React Native client application for COVID Shield on iOS and Android
+- [zustand](https://github.com/react-spring/zustand)
+  - 🐻 Bear necessities for state management in React
+- [tensorboard](https://github.com/tensorflow/tensorboard)
+  - TensorFlow's Visualization Toolkit
+- [hyper](https://github.com/vercel/hyper)
+  - A terminal built on web technologies
+- [telegraf](https://github.com/telegraf/telegraf)
+  - Modern Telegram Bot Framework for Node.js
+- [react-query](https://github.com/tannerlinsley/react-query)
+  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+- [berial](https://github.com/berialjs/berial)
+  - 😈 Simple micro-front-end framework.
+- [react-postprocessing](https://github.com/react-spring/react-postprocessing)
+  - 📬 postprocessing for react-three-fiber
+- [AtCoderProblems](https://github.com/kenkoooo/AtCoderProblems)
+  - Extend your AtCoder
+- [workshop-mean-serverless](https://github.com/glaucia86/workshop-mean-serverless)
+  - Repositório responsável pela realização do workshop de MEAN & Serverless
+- [editor.js](https://github.com/codex-team/editor.js)
+  - A block-styled editor with clean JSON output
+- [tfjs-models](https://github.com/tensorflow/tfjs-models)
+  - Pretrained models for TensorFlow.js
+- [assets](https://github.com/trustwallet/assets)
+  - 
+- [homebridge-config-ui-x](https://github.com/oznu/homebridge-config-ui-x)
+  - Homebridge Web UI plugin to monitor, manage and control Homebridge from a browser.
+- [vscode](https://github.com/microsoft/vscode)
+  - Visual Studio Code
+- [frontend](https://github.com/home-assistant/frontend)
+  - 🍭 Frontend for Home Assistant
+- [class-transformer](https://github.com/typestack/class-transformer)
+  - Decorator-based transformation, serialization, and deserialization between objects and classes.
