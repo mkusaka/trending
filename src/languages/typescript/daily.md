@@ -1,51 +1,51 @@
 # typescript
 - [covid-alert-app](https://github.com/cds-snc/covid-alert-app)
   - Exposure notification client application / Application client de notification d'exposition
-- [project-citadel](https://github.com/JordanKnott/project-citadel)
-  - An open source project management tool with Kanban boards
-- [FigmaToCode](https://github.com/bernaferrari/FigmaToCode)
-  - Generate responsive pages and apps on Tailwind, Flutter and SwiftUI.
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
-  - 📋 React Hooks for forms validation (Web + React Native)
-- [swr](https://github.com/vercel/swr)
-  - React Hooks library for remote data fetching
-- [rocketredis](https://github.com/diego3g/rocketredis)
-  - A beautiful Redis GUI 🔥 (under development)
-- [tinykeys](https://github.com/jamiebuilds/tinykeys)
-  - A tiny (~400 B) & modern library for keybindings.
-- [core.js](https://github.com/octokit/core.js)
-  - Extendable client for GitHub's REST & GraphQL APIs
+- [react-three-fiber](https://github.com/react-spring/react-three-fiber)
+  - A React renderer for Three.js (web and react-native)
+- [ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste)
+  - Cut and paste your surroundings using AR
 - [mobile](https://github.com/CovidShield/mobile)
   - React Native client application for COVID Shield on iOS and Android
-- [zustand](https://github.com/react-spring/zustand)
-  - 🐻 Bear necessities for state management in React
-- [tensorboard](https://github.com/tensorflow/tensorboard)
-  - TensorFlow's Visualization Toolkit
-- [hyper](https://github.com/vercel/hyper)
-  - A terminal built on web technologies
-- [telegraf](https://github.com/telegraf/telegraf)
-  - Modern Telegram Bot Framework for Node.js
-- [react-query](https://github.com/tannerlinsley/react-query)
-  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
-- [berial](https://github.com/berialjs/berial)
-  - 😈 Simple micro-front-end framework.
-- [react-postprocessing](https://github.com/react-spring/react-postprocessing)
-  - 📬 postprocessing for react-three-fiber
-- [AtCoderProblems](https://github.com/kenkoooo/AtCoderProblems)
-  - Extend your AtCoder
-- [workshop-mean-serverless](https://github.com/glaucia86/workshop-mean-serverless)
-  - Repositório responsável pela realização do workshop de MEAN & Serverless
-- [editor.js](https://github.com/codex-team/editor.js)
-  - A block-styled editor with clean JSON output
-- [tfjs-models](https://github.com/tensorflow/tfjs-models)
-  - Pretrained models for TensorFlow.js
-- [assets](https://github.com/trustwallet/assets)
+- [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)
+  - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
+- [grafana](https://github.com/grafana/grafana)
+  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [backstage](https://github.com/spotify/backstage)
+  - Backstage is an open platform for building developer portals
+- [upload-artifact](https://github.com/actions/upload-artifact)
   - 
-- [homebridge-config-ui-x](https://github.com/oznu/homebridge-config-ui-x)
-  - Homebridge Web UI plugin to monitor, manage and control Homebridge from a browser.
-- [vscode](https://github.com/microsoft/vscode)
-  - Visual Studio Code
+- [swr](https://github.com/vercel/swr)
+  - React Hooks library for remote data fetching
 - [frontend](https://github.com/home-assistant/frontend)
   - 🍭 Frontend for Home Assistant
-- [class-transformer](https://github.com/typestack/class-transformer)
-  - Decorator-based transformation, serialization, and deserialization between objects and classes.
+- [nest](https://github.com/nestjs/nest)
+  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [zustand](https://github.com/react-spring/zustand)
+  - 🐻 Bear necessities for state management in React
+- [perfect-arrows](https://github.com/steveruizok/perfect-arrows)
+  - A minimal tool for drawing perfect arrows between points and shapes.
+- [vuetify](https://github.com/vuetifyjs/vuetify)
+  - 🐉 Material Component Framework for Vue
+- [angular](https://github.com/angular/angular)
+  - One framework. Mobile & desktop.
+- [typeorm](https://github.com/typeorm/typeorm)
+  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+- [tiper-js](https://github.com/carlelieser/tiper-js)
+  - A small library for creating typing animations.
+- [Babylon.js](https://github.com/BabylonJS/Babylon.js)
+  - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
+- [prisma](https://github.com/prisma/prisma)
+  - Modern DB toolkit to query, migrate and model your database
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+  - Headless Chrome Node.js API
+- [apisix-dashboard](https://github.com/apache/apisix-dashboard)
+  - Dashboard for Apache APISIX
+- [algorithms-and-data-structures](https://github.com/jeffzh4ng/algorithms-and-data-structures)
+  - A collection of classical data structures and algorithms implemented in Typescript with video lectures
+- [next-i18next](https://github.com/isaachinman/next-i18next)
+  - The easiest way to translate your NextJs apps.
+- [fullcalendar](https://github.com/fullcalendar/fullcalendar)
+  - Full-sized drag & drop event calendar
+- [berial](https://github.com/berialjs/berial)
+  - 😈 Simple micro-front-end framework.

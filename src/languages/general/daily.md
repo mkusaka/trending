@@ -1,49 +1,48 @@
 # general
-- [mirai](https://github.com/mamoe/mirai) : 
-- [rich](https://github.com/willmcgugan/rich) : Python
-  - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) : Jupyter Notebook
-  - This repository contains the source code for the paper First Order Motion Model for Image Animation
-- [fhe-toolkit-linux](https://github.com/IBM/fhe-toolkit-linux) : C++
-  - IBM Fully Homomorphic Encryption Toolkit For Linux. This toolkit is a Linux based Docker container that demonstrates computing on encrypted data without decrypting it! The toolkit ships with two demos including a fully encrypted Machine Learning inference with a Neural Network and a Privacy-Preserving key-value search.
+- [paperview](https://github.com/glouw/paperview) : C
+  - A high performance X11 animated wallpaper setter
 - [Java](https://github.com/TheAlgorithms/Java) : Java
   - All Algorithms implemented in Java
-- [rustlings](https://github.com/rust-lang/rustlings) : Rust
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course) : JavaScript
-  - Starter files, final projects and FAQ for my Complete JavaScript course
-- [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) : Go
-  - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
-- [easy_rust](https://github.com/Dhghomon/easy_rust) : Shell
-  - Rust explained using easy English
-- [icons](https://github.com/twbs/icons) : JavaScript
-  - Official open source SVG icon library for Bootstrap.
-- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) : 
-  - A book series on JavaScript. @YDKJS on twitter.
-- [educative.io_courses](https://github.com/aboelkassem/educative.io_courses) : 
-  - this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack
-- [scrcpy](https://github.com/Genymobile/scrcpy) : C
-  - Display and control your Android device
-- [PowerToys](https://github.com/microsoft/PowerToys) : C++
-  - Windows system utilities to maximize productivity
-- [DeOldify](https://github.com/jantic/DeOldify) : Jupyter Notebook
-  - A Deep Learning based project for colorizing and restoring old images (and video!)
+- [how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything) : 
+  - How to systematically secure anything: a repository about security engineering
 - [bat](https://github.com/sharkdp/bat) : Rust
   - A cat(1) clone with wings.
-- [Python](https://github.com/TheAlgorithms/Python) : Python
-  - All Algorithms implemented in Python
-- [InstaPy](https://github.com/timgrossmann/InstaPy) : Python
-  - 📷 Instagram Bot - Tool for automated Instagram interactions
-- [haoel.github.io](https://github.com/haoel/haoel.github.io) : Shell
-- [home-cloud](https://github.com/antoniosarosi/home-cloud) : JavaScript
-  - The "cloud" at home
-- [core](https://github.com/JAVClub/core) : JavaScript
-  - 🔞 JAVClub - 让你的大姐姐不再走丢
-- [covid-alert-app](https://github.com/cds-snc/covid-alert-app) : TypeScript
-  - Exposure notification client application / Application client de notification d'exposition
+- [gpu.js](https://github.com/gpujs/gpu.js) : JavaScript
+  - GPU Accelerated JavaScript
 - [Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code) : Python
   - 手写实现李航《统计学习方法》书中全部算法
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [fhe-toolkit-linux](https://github.com/IBM/fhe-toolkit-linux) : C++
+  - IBM Fully Homomorphic Encryption Toolkit For Linux. This toolkit is a Linux based Docker container that demonstrates computing on encrypted data without decrypting it! The toolkit ships with two demos including a fully encrypted Machine Learning inference with a Neural Network and a Privacy-Preserving key-value search.
+- [rich](https://github.com/willmcgugan/rich) : Python
+  - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [UNSAM_2020c2_Python](https://github.com/python-unsam/UNSAM_2020c2_Python) : 
+  - Curso de programación en Python - 2do cuatrimestre 2020 - UNSAM
 - [AI4Animation](https://github.com/sebastianstarke/AI4Animation) : C++
   - Bringing Characters to Life with Computer Brains in Unity
+- [educative.io_courses](https://github.com/aboelkassem/educative.io_courses) : 
+  - this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack
+- [rustlings](https://github.com/rust-lang/rustlings) : Rust
+  - 🦀 Small exercises to get you used to reading and writing Rust code!
+- [PowerToys](https://github.com/microsoft/PowerToys) : C++
+  - Windows system utilities to maximize productivity
+- [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) : Go
+  - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
+- [Alamofire](https://github.com/Alamofire/Alamofire) : Swift
+  - Elegant HTTP Networking in Swift
+- [Python](https://github.com/TheAlgorithms/Python) : Python
+  - All Algorithms implemented in Python
+- [ps4-ipv6-uaf](https://github.com/ChendoChap/ps4-ipv6-uaf) : JavaScript
+- [Data-Science-Interview-Resources](https://github.com/rbhatia46/Data-Science-Interview-Resources) : 
+  - A repository listing out the potential sources which will help you in preparing for a Data Science/Machine Learning interview. New resources added frequently.
+- [Ciphey](https://github.com/Ciphey/Ciphey) : Python
+  - Automated decryption tool
+- [pycaret](https://github.com/pycaret/pycaret) : Jupyter Notebook
+  - An open source, low-code machine learning library in Python
+- [analytics](https://github.com/plausible/analytics) : Elixir
+  - Simple and privacy-friendly alternative to Google Analytics
+- [drawio](https://github.com/jgraph/drawio) : JavaScript
+  - Source to app.diagrams.net
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course) : JavaScript
+  - Starter files, final projects and FAQ for my Complete JavaScript course

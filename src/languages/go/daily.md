@@ -1,51 +1,51 @@
 # go
 - [algorithm-pattern](https://github.com/greyireland/algorithm-pattern)
   - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
+- [mysql](https://github.com/go-sql-driver/mysql)
+  - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 - [prysm](https://github.com/prysmaticlabs/prysm)
   - Go implementation of the Ethereum 2.0 blockchain
-- [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga)
-  - Advanced information gathering & OSINT framework for phone numbers
-- [MiraiOK](https://github.com/LXY1226/MiraiOK)
-  - 另一个Mirai一键包
-- [MiraiGo](https://github.com/Mrs4s/MiraiGo)
-  - qq-android协议的golang实现, 移植于mirai
-- [copilot-cli](https://github.com/aws/copilot-cli)
-  - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on Amazon ECS and AWS Fargate.
-- [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
-  - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，五分钟一套CURD前后端代码包含数据库的快感你不要体验一下吗~,更多功能正在开发中，欢迎issue和pr~
-- [fyne](https://github.com/fyne-io/fyne)
-  - Cross platform GUI in Go based on Material Design
-- [clash](https://github.com/Dreamacro/clash)
-  - A rule-based tunnel in Go.
-- [trojan-go](https://github.com/p4gefau1t/trojan-go)
-  - Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
-- [discordgo](https://github.com/bwmarrin/discordgo)
-  - (Golang) Go bindings for Discord
-- [lazydocker](https://github.com/jesseduffield/lazydocker)
-  - The lazier way to manage everything docker
-- [mattermost-server](https://github.com/mattermost/mattermost-server)
-  - Open source Slack-alternative in Golang and React - Mattermost
-- [brook](https://github.com/txthinking/brook)
-  - Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration.
-- [arduino-cli](https://github.com/arduino/arduino-cli)
-  - Arduino command line interface
-- [lumberjack](https://github.com/natefinch/lumberjack)
-  - lumberjack is a log rolling package for Go
-- [odin](https://github.com/theycallmemac/odin)
-  - A programmable, observable and distributed job orchestration system.
-- [f1viewer](https://github.com/SoMuchForSubtlety/f1viewer)
-  - 🏎️ TUI for F1TV
-- [tinygo](https://github.com/tinygo-org/tinygo)
-  - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
-- [go-ast-book](https://github.com/chai2010/go-ast-book)
-  - 📚 《Go语法树入门——开启自制编程语言和编译器之旅》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/LLVM/LLIR/凹语言)
-- [photoprism](https://github.com/photoprism/photoprism)
-  - Personal Photo Management powered by Go and Google TensorFlow
 - [telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api)
   - Golang bindings for the Telegram Bot API
-- [matterbridge](https://github.com/42wim/matterbridge)
-  - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud and more with REST API (mattermost not required!)
-- [govmomi](https://github.com/vmware/govmomi)
-  - Go library for the VMware vSphere API
-- [go-ethereum](https://github.com/ethereum/go-ethereum)
-  - Official Go implementation of the Ethereum protocol
+- [argo-cd](https://github.com/argoproj/argo-cd)
+  - Declarative continuous deployment for Kubernetes.
+- [go-admin](https://github.com/wenjianzhang/go-admin)
+  - 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建等）文档：http://doc.zhangwj.com/go-admin-site/ Demo： http://www.zhangwj.com/#/login
+- [pipeline](https://github.com/tektoncd/pipeline)
+  - A K8s-native Pipeline resource.
+- [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
+  - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，五分钟一套CURD前后端代码包含数据库的快感你不要体验一下吗~,更多功能正在开发中，欢迎issue和pr~
+- [terraform](https://github.com/hashicorp/terraform)
+  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [horcrux-ui](https://github.com/jesseduffield/horcrux-ui)
+  - GUI for horcrux
+- [lazydocker](https://github.com/jesseduffield/lazydocker)
+  - The lazier way to manage everything docker
+- [moby](https://github.com/moby/moby)
+  - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [traefik](https://github.com/containous/traefik)
+  - The Cloud Native Edge Router
+- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
+  - Terraform AWS provider
+- [fyne](https://github.com/fyne-io/fyne)
+  - Cross platform GUI in Go based on Material Design
+- [helmfile](https://github.com/roboll/helmfile)
+  - Deploy Kubernetes Helm Charts
+- [singularity](https://github.com/hpcng/singularity)
+  - Singularity: Application containers for Linux
+- [go](https://github.com/golang/go)
+  - The Go programming language
+- [origin](https://github.com/openshift/origin)
+  - Images for OpenShift 3 and 4 - see openshift/okd for more
+- [go-ast-book](https://github.com/chai2010/go-ast-book)
+  - 📚 《Go语法树入门——开启自制编程语言和编译器之旅》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/LLVM/LLIR/凹语言)
+- [act](https://github.com/nektos/act)
+  - Run your GitHub Actions locally 🚀
+- [authelia](https://github.com/authelia/authelia)
+  - The Single Sign-On Multi-Factor portal for web apps
+- [nomad](https://github.com/hashicorp/nomad)
+  - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+- [casbin](https://github.com/casbin/casbin)
+  - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
+- [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN)
+  - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
