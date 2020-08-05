@@ -21,7 +21,7 @@
   - Curso de programación en Python - 2do cuatrimestre 2020 - UNSAM
 - [AI4Animation](https://github.com/sebastianstarke/AI4Animation) : C++
   - Bringing Characters to Life with Computer Brains in Unity
-- [educative.io_courses](https://github.com/aboelkassem/educative.io_courses) : 
+- [educative.io_courses](https://github.com/aboelkassem/educative.io_courses) : HTML
   - this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack
 - [rustlings](https://github.com/rust-lang/rustlings) : Rust
   - 🦀 Small exercises to get you used to reading and writing Rust code!
