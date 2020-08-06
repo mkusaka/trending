@@ -1,51 +1,51 @@
 # go
-- [algorithm-pattern](https://github.com/greyireland/algorithm-pattern)
-  - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
-- [mysql](https://github.com/go-sql-driver/mysql)
-  - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
-- [prysm](https://github.com/prysmaticlabs/prysm)
-  - Go implementation of the Ethereum 2.0 blockchain
-- [telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api)
-  - Golang bindings for the Telegram Bot API
+- [kubernetes](https://github.com/kubernetes/kubernetes)
+  - Production-Grade Container Scheduling and Management
 - [argo-cd](https://github.com/argoproj/argo-cd)
   - Declarative continuous deployment for Kubernetes.
-- [go-admin](https://github.com/wenjianzhang/go-admin)
-  - 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建等）文档：http://doc.zhangwj.com/go-admin-site/ Demo： http://www.zhangwj.com/#/login
-- [pipeline](https://github.com/tektoncd/pipeline)
-  - A K8s-native Pipeline resource.
-- [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
-  - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，五分钟一套CURD前后端代码包含数据库的快感你不要体验一下吗~,更多功能正在开发中，欢迎issue和pr~
-- [terraform](https://github.com/hashicorp/terraform)
-  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [horcrux-ui](https://github.com/jesseduffield/horcrux-ui)
-  - GUI for horcrux
-- [lazydocker](https://github.com/jesseduffield/lazydocker)
-  - The lazier way to manage everything docker
-- [moby](https://github.com/moby/moby)
-  - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [traefik](https://github.com/containous/traefik)
-  - The Cloud Native Edge Router
-- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
-  - Terraform AWS provider
-- [fyne](https://github.com/fyne-io/fyne)
-  - Cross platform GUI in Go based on Material Design
-- [helmfile](https://github.com/roboll/helmfile)
-  - Deploy Kubernetes Helm Charts
-- [singularity](https://github.com/hpcng/singularity)
-  - Singularity: Application containers for Linux
-- [go](https://github.com/golang/go)
-  - The Go programming language
+- [pprof](https://github.com/google/pprof)
+  - pprof is a tool for visualization and analysis of profiling data
+- [go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
+  - cqhttp的golang实现，轻量、原生跨平台.
+- [gnet](https://github.com/panjf2000/gnet)
+  - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
+- [consul](https://github.com/hashicorp/consul)
+  - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+- [gardener](https://github.com/gardener/gardener)
+  - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, Packet, MetalStack, and vSphere with minimal TCO.
+- [slack](https://github.com/slack-go/slack)
+  - Slack API in Go - community-maintained fork created by the original author, @nlopes
+- [cadvisor](https://github.com/google/cadvisor)
+  - Analyzes resource usage and performance characteristics of running containers.
+- [telegraf](https://github.com/influxdata/telegraf)
+  - The plugin-driven server agent for collecting & reporting metrics.
+- [filebrowser](https://github.com/filebrowser/filebrowser)
+  - 📂 Web File Browser which can be used as a middleware or standalone app.
+- [drone](https://github.com/drone/drone)
+  - Drone is a Container-Native, Continuous Delivery Platform
+- [deej](https://github.com/omriharel/deej)
+  - Set app volumes with real sliders! deej is an Arduino & Go project to let you build your own hardware mixer for Windows and Linux
+- [fabric-samples](https://github.com/hyperledger/fabric-samples)
+  - 
+- [loki](https://github.com/grafana/loki)
+  - Like Prometheus, but for logs.
+- [opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector)
+  - OpenTelemetry Collector
+- [cobra](https://github.com/spf13/cobra)
+  - A Commander for modern Go CLI interactions
 - [origin](https://github.com/openshift/origin)
   - Images for OpenShift 3 and 4 - see openshift/okd for more
-- [go-ast-book](https://github.com/chai2010/go-ast-book)
-  - 📚 《Go语法树入门——开启自制编程语言和编译器之旅》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/LLVM/LLIR/凹语言)
-- [act](https://github.com/nektos/act)
-  - Run your GitHub Actions locally 🚀
-- [authelia](https://github.com/authelia/authelia)
-  - The Single Sign-On Multi-Factor portal for web apps
-- [nomad](https://github.com/hashicorp/nomad)
-  - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [casbin](https://github.com/casbin/casbin)
-  - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
-- [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN)
-  - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
+- [thanos](https://github.com/thanos-io/thanos)
+  - Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.
+- [gin](https://github.com/gin-gonic/gin)
+  - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+- [ginkgo](https://github.com/onsi/ginkgo)
+  - BDD Testing Framework for Go
+- [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh)
+  - A Chaos Engineering Platform for Kubernetes.
+- [opentracing-go](https://github.com/opentracing/opentracing-go)
+  - OpenTracing API for Go
+- [errors](https://github.com/pkg/errors)
+  - Simple error handling primitives
+- [terratest](https://github.com/gruntwork-io/terratest)
+  - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.

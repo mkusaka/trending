@@ -1,51 +1,51 @@
 # typescript
-- [covid-alert-app](https://github.com/cds-snc/covid-alert-app)
-  - Exposure notification client application / Application client de notification d'exposition
-- [react-three-fiber](https://github.com/react-spring/react-three-fiber)
-  - A React renderer for Three.js (web and react-native)
-- [ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste)
-  - Cut and paste your surroundings using AR
-- [mobile](https://github.com/CovidShield/mobile)
-  - React Native client application for COVID Shield on iOS and Android
-- [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)
-  - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
+- [lens](https://github.com/lensapp/lens)
+  - Lens - The Kubernetes IDE
+- [renovate](https://github.com/renovatebot/renovate)
+  - Universal dependency update tool that fits into your workflows.
+- [amplify-js](https://github.com/aws-amplify/amplify-js)
+  - A declarative JavaScript library for application development using cloud services.
 - [grafana](https://github.com/grafana/grafana)
   - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [backstage](https://github.com/spotify/backstage)
-  - Backstage is an open platform for building developer portals
-- [upload-artifact](https://github.com/actions/upload-artifact)
-  - 
-- [swr](https://github.com/vercel/swr)
-  - React Hooks library for remote data fetching
-- [frontend](https://github.com/home-assistant/frontend)
-  - 🍭 Frontend for Home Assistant
-- [nest](https://github.com/nestjs/nest)
-  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-- [zustand](https://github.com/react-spring/zustand)
-  - 🐻 Bear necessities for state management in React
-- [perfect-arrows](https://github.com/steveruizok/perfect-arrows)
-  - A minimal tool for drawing perfect arrows between points and shapes.
-- [vuetify](https://github.com/vuetifyjs/vuetify)
-  - 🐉 Material Component Framework for Vue
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
-- [typeorm](https://github.com/typeorm/typeorm)
-  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-- [tiper-js](https://github.com/carlelieser/tiper-js)
-  - A small library for creating typing animations.
-- [Babylon.js](https://github.com/BabylonJS/Babylon.js)
-  - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
-- [prisma](https://github.com/prisma/prisma)
-  - Modern DB toolkit to query, migrate and model your database
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [apisix-dashboard](https://github.com/apache/apisix-dashboard)
-  - Dashboard for Apache APISIX
-- [algorithms-and-data-structures](https://github.com/jeffzh4ng/algorithms-and-data-structures)
-  - A collection of classical data structures and algorithms implemented in Typescript with video lectures
-- [next-i18next](https://github.com/isaachinman/next-i18next)
-  - The easiest way to translate your NextJs apps.
-- [fullcalendar](https://github.com/fullcalendar/fullcalendar)
-  - Full-sized drag & drop event calendar
-- [berial](https://github.com/berialjs/berial)
-  - 😈 Simple micro-front-end framework.
+- [genal-chat](https://github.com/genaller/genal-chat)
+  - 🐱‍🏍nestjs+vue全栈聊天室 前后端分离 typescript一把梭
+- [vscode](https://github.com/microsoft/vscode)
+  - Visual Studio Code
+- [got](https://github.com/sindresorhus/got)
+  - 🌐 Human-friendly and powerful HTTP request library for Node.js
+- [ionic-framework](https://github.com/ionic-team/ionic-framework)
+  - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+- [Proffy](https://github.com/RafaelGoulartB/Proffy)
+  - 🚀 Project made to connect teachers to students, made in Next Level Week #2 #NLW @Rocketseat
+- [TypeScript-Website](https://github.com/microsoft/TypeScript-Website)
+  - The Website and web infrastructure for learning TypeScript
+- [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator)
+  - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
+- [nlw-01-booster](https://github.com/Rocketseat/nlw-01-booster)
+  - Projeto construído durante o Next Level Week #01
+- [ant-design](https://github.com/ant-design/ant-design)
+  - 🌈 A UI Design Language and React UI library
+- [face-api.js](https://github.com/justadudewhohacks/face-api.js)
+  - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
+- [fluent-reader](https://github.com/yang991178/fluent-reader)
+  - Modern desktop RSS reader built with Electron, React, and Fluent UI
+- [fast](https://github.com/microsoft/fast)
+  - The adaptive interface system  for modern web experiences.
+- [vscode-cpptools](https://github.com/microsoft/vscode-cpptools)
+  - Official repository for the Microsoft C/C++ extension for VS Code.
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
+  - 📋 React Hooks for forms validation (Web + React Native)
+- [jest](https://github.com/facebook/jest)
+  - Delightful JavaScript Testing.
+- [stencil](https://github.com/ionic-team/stencil)
+  - A Web Component compiler for building fast, reusable UI components and static site generated Progressive Web Apps
+- [BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
+  - Dialog creation and management for Microsoft Bot Framework Applications
+- [unform](https://github.com/Rocketseat/unform)
+  - Easy peasy highly scalable ReactJS & React Native forms! 🚀
+- [editor.js](https://github.com/codex-team/editor.js)
+  - A block-styled editor with clean JSON output
+- [react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide)
+  - The complete guide to static typing in "React & Redux" apps using TypeScript
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+  - The repository for high quality TypeScript type definitions.

@@ -1,49 +1,51 @@
 # javascript
-- [gpu.js](https://github.com/gpujs/gpu.js)
-  - GPU Accelerated JavaScript
-- [ps4-ipv6-uaf](https://github.com/ChendoChap/ps4-ipv6-uaf)
-  - 
-- [drawio](https://github.com/jgraph/drawio)
-  - Source to app.diagrams.net
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
-  - Starter files, final projects and FAQ for my Complete JavaScript course
-- [uPlot](https://github.com/leeoniya/uPlot)
-  - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
-- [bluezone-app](https://github.com/BluezoneGlobal/bluezone-app)
-  - Bluezone - Bảo vệ mình, bảo vệ cộng đồng
-- [drawio-desktop](https://github.com/jgraph/drawio-desktop)
-  - Official electron build of diagrams.net
-- [vxe-table](https://github.com/x-extends/vxe-table)
-  - 🐬 vxe-table vue 表格解决方案
-- [masterPortfolio](https://github.com/ashutosh1919/masterPortfolio)
-  - 🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.
-- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
-  - The ultimate Free Open Source Solution for team communications.
-- [absensiqrcode](https://github.com/xietsunzao/absensiqrcode)
-  - 
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
+  - Show your latest blog posts from any sources or StackOverflow activity on your GitHub profile/project readme automatically using the RSS feed
 - [Javascript](https://github.com/TheAlgorithms/Javascript)
   - A repository for All algorithms implemented in Javascript (for educational purposes only)
-- [icons](https://github.com/twbs/icons)
-  - Official open source SVG icon library for Bootstrap.
-- [tiktok-clone](https://github.com/CleverProgrammers/tiktok-clone)
-  - A clone of TikTok built by Sonny & Qazi 👉 https://tik-tok-clone-eb635.web.app/
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [whistle](https://github.com/avwo/whistle)
-  - HTTP, HTTP2, HTTPS, Websocket debugging proxy
-- [vuex](https://github.com/vuejs/vuex)
-  - 🗃️ Centralized State Management for Vue.js.
-- [quill](https://github.com/quilljs/quill)
-  - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
-- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
-  - Beautiful and accessible drag and drop for lists with React
-- [egg](https://github.com/eggjs/egg)
-  - 🥚 Born to build better enterprise frameworks and apps with Node.js & Koa
-- [joplin](https://github.com/laurent22/joplin)
-  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
-  - ✅ The Node.js best practices list (August 2020)
-- [BullshitGenerator](https://github.com/menzi11/BullshitGenerator)
-  - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
+- [drawio](https://github.com/jgraph/drawio)
+  - Source to app.diagrams.net
+- [gpu.js](https://github.com/gpujs/gpu.js)
+  - GPU Accelerated JavaScript
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+  - ⚡ Dynamically generated stats for your github readmes
+- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
+  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [babel](https://github.com/babel/babel)
+  - 🐠 Babel is a compiler for writing next generation JavaScript.
+- [spotify-clone](https://github.com/CleverProgrammers/spotify-clone)
+  - 
+- [DNSExfiltrator](https://github.com/Arno0x/DNSExfiltrator)
+  - Data exfiltration over DNS request covert channel
+- [mocha](https://github.com/mochajs/mocha)
+  - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
+- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
+  - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+- [react-native-firebase](https://github.com/invertase/react-native-firebase)
+  - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
+- [bluezone-app](https://github.com/BluezoneGlobal/bluezone-app)
+  - Bluezone - Bảo vệ mình, bảo vệ cộng đồng
+- [nuxt.js](https://github.com/nuxt/nuxt.js)
+  - The Intuitive Vue Framework
+- [cypress](https://github.com/cypress-io/cypress)
+  - Fast, easy and reliable testing for anything that runs in a browser.
+- [next.js](https://github.com/vercel/next.js)
+  - The React Framework
+- [yapi](https://github.com/YMFE/yapi)
+  - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
+- [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder)
+  - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.
+- [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated)
+  - React Native's Animated library reimplemented
+- [react-refresh-webpack-plugin](https://github.com/pmmmwh/react-refresh-webpack-plugin)
+  - A Webpack plugin to enable "Fast Refresh" (also previously known as Hot Reloading) for React components.
+- [svelte](https://github.com/sveltejs/svelte)
+  - Cybernetically enhanced web apps
+- [stylelint](https://github.com/stylelint/stylelint)
+  - A mighty, modern style linter
+- [learnGitBranching](https://github.com/pcottle/learnGitBranching)
+  - An interactive git visualization to challenge and educate!
+- [atom](https://github.com/atom/atom)
+  - The hackable text editor
+- [UglifyJS](https://github.com/mishoo/UglifyJS)
+  - JavaScript parser / mangler / compressor / beautifier toolkit
