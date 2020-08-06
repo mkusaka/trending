@@ -1,48 +1,49 @@
 # general
-- [paperview](https://github.com/glouw/paperview) : C
-  - A high performance X11 animated wallpaper setter
-- [Java](https://github.com/TheAlgorithms/Java) : Java
-  - All Algorithms implemented in Java
-- [how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything) : 
-  - How to systematically secure anything: a repository about security engineering
-- [bat](https://github.com/sharkdp/bat) : Rust
-  - A cat(1) clone with wings.
-- [gpu.js](https://github.com/gpujs/gpu.js) : JavaScript
-  - GPU Accelerated JavaScript
-- [Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code) : Python
-  - 手写实现李航《统计学习方法》书中全部算法
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [fhe-toolkit-linux](https://github.com/IBM/fhe-toolkit-linux) : C++
-  - IBM Fully Homomorphic Encryption Toolkit For Linux. This toolkit is a Linux based Docker container that demonstrates computing on encrypted data without decrypting it! The toolkit ships with two demos including a fully encrypted Machine Learning inference with a Neural Network and a Privacy-Preserving key-value search.
-- [rich](https://github.com/willmcgugan/rich) : Python
-  - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [UNSAM_2020c2_Python](https://github.com/python-unsam/UNSAM_2020c2_Python) : 
-  - Curso de programación en Python - 2do cuatrimestre 2020 - UNSAM
-- [AI4Animation](https://github.com/sebastianstarke/AI4Animation) : C++
-  - Bringing Characters to Life with Computer Brains in Unity
+- [substrate](https://github.com/paritytech/substrate) : Rust
+  - Substrate: The platform for blockchain innovators
+- [fawkes](https://github.com/Shawn-Shan/fawkes) : Python
+  - Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
+- [bpytop](https://github.com/aristocratos/bpytop) : Python
+  - Linux/OSX/FreeBSD resource monitor
 - [educative.io_courses](https://github.com/aboelkassem/educative.io_courses) : HTML
   - this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack
-- [rustlings](https://github.com/rust-lang/rustlings) : Rust
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [PowerToys](https://github.com/microsoft/PowerToys) : C++
-  - Windows system utilities to maximize productivity
-- [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) : Go
-  - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
-- [Alamofire](https://github.com/Alamofire/Alamofire) : Swift
-  - Elegant HTTP Networking in Swift
-- [Python](https://github.com/TheAlgorithms/Python) : Python
-  - All Algorithms implemented in Python
-- [ps4-ipv6-uaf](https://github.com/ChendoChap/ps4-ipv6-uaf) : JavaScript
-- [Data-Science-Interview-Resources](https://github.com/rbhatia46/Data-Science-Interview-Resources) : 
-  - A repository listing out the potential sources which will help you in preparing for a Data Science/Machine Learning interview. New resources added frequently.
+- [expo](https://github.com/expo/expo) : Objective-C
+  - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
+- [how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything) : 
+  - How to systematically secure anything: a repository about security engineering
+- [PowerJob](https://github.com/KFCFans/PowerJob) : Java
+  - 新一代分布式任务调度与计算框架，支持CRON、API、固定频率、固定延迟等调度策略，提供工作流来编排任务解决依赖关系，使用简单，功能强大，文档齐全，欢迎各位接入使用！
+- [TDengine](https://github.com/taosdata/TDengine) : C
+  - An open-source big data platform designed and optimized for the Internet of Things (IoT).
+- [QA_bible](https://github.com/Vladislav610/QA_bible) : 
+  - Библия QA это 200++ страниц обновляемой смеси ответов на вопросы с реальных собеседований на QA, перевода интересного контента с зарубежных ресурсов и агрегации материала с отечественных.
 - [Ciphey](https://github.com/Ciphey/Ciphey) : Python
   - Automated decryption tool
-- [pycaret](https://github.com/pycaret/pycaret) : Jupyter Notebook
-  - An open source, low-code machine learning library in Python
-- [analytics](https://github.com/plausible/analytics) : Elixir
-  - Simple and privacy-friendly alternative to Google Analytics
+- [reverse-interview](https://github.com/viraptor/reverse-interview) : 
+  - Questions to ask the company during your interview
+- [UNSAM_2020c2_Python](https://github.com/python-unsam/UNSAM_2020c2_Python) : 
+  - Curso de programación en Python - 2do cuatrimestre 2020 - UNSAM
+- [Python](https://github.com/TheAlgorithms/Python) : Python
+  - All Algorithms implemented in Python
+- [pe_tree](https://github.com/blackberry/pe_tree) : Python
+- [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) : JavaScript
+  - Show your latest blog posts from any sources or StackOverflow activity on your GitHub profile/project readme automatically using the RSS feed
+- [Javascript](https://github.com/TheAlgorithms/Javascript) : JavaScript
+  - A repository for All algorithms implemented in Javascript (for educational purposes only)
+- [xiaobaiyang](https://github.com/liupan1890/xiaobaiyang) : 
 - [drawio](https://github.com/jgraph/drawio) : JavaScript
   - Source to app.diagrams.net
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course) : JavaScript
-  - Starter files, final projects and FAQ for my Complete JavaScript course
+- [Faze4-Robotic-arm](https://github.com/PCrnjak/Faze4-Robotic-arm) : C++
+  - All files for 6 axis robot arm with cycloidal gearboxes .
+- [lens](https://github.com/lensapp/lens) : TypeScript
+  - Lens - The Kubernetes IDE
+- [mbed-os](https://github.com/ARMmbed/mbed-os) : C
+  - Arm Mbed OS is a platform operating system designed for the internet of things
+- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) : Vue
+  - 🚀vue-admin-beautiful是一款基于vue+element-ui的绝佳的中后台前端开发管理框架（基于vue/cli 4 最新版，同时支持电脑，手机，平板）,他同时是拥有100+页面的大型vue前端单页应用,长期更新维护,感谢您的star,我一直在努力 Vue admin beautiful is an excellent front-end development framework (supporting computers, mobile phones and tablets at the same time), long-term update and maintenance, thank you for your star, I have been workin…
+- [renovate](https://github.com/renovatebot/renovate) : TypeScript
+  - Universal dependency update tool that fits into your workflows.
+- [lottie-ios](https://github.com/airbnb/lottie-ios) : Swift
+  - An iOS library to natively render After Effects vector animations
+- [amplify-js](https://github.com/aws-amplify/amplify-js) : TypeScript
+  - A declarative JavaScript library for application development using cloud services.

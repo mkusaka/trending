@@ -1,51 +1,51 @@
 # rust
-- [bat](https://github.com/sharkdp/bat)
-  - A cat(1) clone with wings.
-- [rustlings](https://github.com/rust-lang/rustlings)
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
 - [substrate](https://github.com/paritytech/substrate)
   - Substrate: The platform for blockchain innovators
-- [tracing](https://github.com/tokio-rs/tracing)
-  - Application level tracing for Rust.
-- [gurk-rs](https://github.com/boxdot/gurk-rs)
-  - Signal Messenger client for terminal
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [rustlings](https://github.com/rust-lang/rustlings)
+  - 🦀 Small exercises to get you used to reading and writing Rust code!
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
 - [polkadot](https://github.com/paritytech/polkadot)
   - Polkadot Node Implementation
-- [examples](https://github.com/actix/examples)
-  - Actix web examples
-- [ungrammar](https://github.com/rust-analyzer/ungrammar)
-  - 
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust)
-  - A Rust port of shadowsocks
-- [ytop](https://github.com/cjbassi/ytop)
-  - A TUI system monitor written in Rust
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [lighthouse](https://github.com/sigp/lighthouse)
+  - Rust Ethereum 2.0 Client
 - [libra](https://github.com/libra/libra)
   - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [graph-node](https://github.com/graphprotocol/graph-node)
-  - Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
-- [swc](https://github.com/swc-project/swc)
-  - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
-- [openethereum](https://github.com/openethereum/openethereum)
-  - The fast, light, and robust client for Ethereum-like networks.
-- [async-backplane](https://github.com/irrustible/async-backplane)
-  - Simple, Erlang-inspired fault-tolerance framework for Rust Futures.
-- [bandwhich](https://github.com/imsnif/bandwhich)
-  - Terminal bandwidth utilization tool
-- [tower](https://github.com/tower-rs/tower)
-  - async fn(Request) -> Result<Response, Error>
-- [tui-rs](https://github.com/fdehau/tui-rs)
-  - Build terminal user interfaces and dashboards using Rust
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
-- [nushell](https://github.com/nushell/nushell)
-  - A new type of shell
+- [headcrab](https://github.com/headcrab-rs/headcrab)
+  - A modern Rust debugging library 🦀
+- [smol](https://github.com/stjepang/smol)
+  - A small and fast async runtime for Rust
+- [nix](https://github.com/nix-rust/nix)
+  - Rust friendly bindings to *nix APIs
+- [reqwest](https://github.com/seanmonstar/reqwest)
+  - An easy and powerful Rust HTTP Client
+- [sqlx](https://github.com/launchbadge/sqlx)
+  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+- [tree-sitter](https://github.com/tree-sitter/tree-sitter)
+  - An incremental parsing system for programming tools
 - [clap](https://github.com/clap-rs/clap)
   - A full featured, fast Command Line Argument Parser for Rust
-- [pyo3](https://github.com/PyO3/pyo3)
-  - Rust bindings for the Python interpreter
-- [amethyst](https://github.com/amethyst/amethyst)
-  - Data-oriented and data-driven game engine written in Rust
+- [tokei](https://github.com/XAMPPRocky/tokei)
+  - Count your code, quickly.
+- [quiche](https://github.com/cloudflare/quiche)
+  - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - ripgrep recursively searches directories for a regex pattern
+- [rusoto](https://github.com/rusoto/rusoto)
+  - AWS SDK for Rust
+- [avml](https://github.com/microsoft/avml)
+  - AVML - Acquire Volatile Memory for Linux
+- [nushell](https://github.com/nushell/nushell)
+  - A new type of shell
+- [hyperfine](https://github.com/sharkdp/hyperfine)
+  - A command-line benchmarking tool
+- [json](https://github.com/serde-rs/json)
+  - Strongly typed JSON library for Rust
+- [tracing](https://github.com/tokio-rs/tracing)
+  - Application level tracing for Rust.
