@@ -1,51 +1,51 @@
 # javascript
-- [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
-  - Show your latest blog posts from any sources or StackOverflow activity on your GitHub profile/project readme automatically using the RSS feed
 - [Javascript](https://github.com/TheAlgorithms/Javascript)
   - A repository for All algorithms implemented in Javascript (for educational purposes only)
-- [drawio](https://github.com/jgraph/drawio)
-  - Source to app.diagrams.net
-- [gpu.js](https://github.com/gpujs/gpu.js)
-  - GPU Accelerated JavaScript
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
   - ⚡ Dynamically generated stats for your github readmes
-- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
-  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [babel](https://github.com/babel/babel)
-  - 🐠 Babel is a compiler for writing next generation JavaScript.
-- [spotify-clone](https://github.com/CleverProgrammers/spotify-clone)
-  - 
+- [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
+  - Show your latest blog posts from any sources or StackOverflow activity on your GitHub profile/project readme automatically using the RSS feed
+- [blockly](https://github.com/google/blockly)
+  - The web-based visual programming editor.
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
 - [DNSExfiltrator](https://github.com/Arno0x/DNSExfiltrator)
   - Data exfiltration over DNS request covert channel
+- [husky](https://github.com/typicode/husky)
+  - Git hooks made easy 🐶 woof!
+- [leek-fund](https://github.com/giscafer/leek-fund)
+  - VSCode 插件（韭菜基金），VSCode 里也可以看股票 & 基金实时数据
+- [heroicons](https://github.com/tailwindlabs/heroicons)
+  - A set of free MIT-licensed high-quality SVG icons for UI development.
+- [carbon](https://github.com/carbon-design-system/carbon)
+  - A design system built by IBM
+- [project-guidelines](https://github.com/elsewhencode/project-guidelines)
+  - A set of best practices for JavaScript projects
+- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
+  - Revive unavailable songs for Netease Cloud Music
+- [react-native-website](https://github.com/facebook/react-native-website)
+  - The site and docs for React Native
+- [BetterDiscordApp](https://github.com/rauenzi/BetterDiscordApp)
+  - Better Discord App enhances Discord desktop app with new features.
 - [mocha](https://github.com/mochajs/mocha)
   - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
-- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
-  - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
-- [react-native-firebase](https://github.com/invertase/react-native-firebase)
-  - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
-- [bluezone-app](https://github.com/BluezoneGlobal/bluezone-app)
-  - Bluezone - Bảo vệ mình, bảo vệ cộng đồng
-- [nuxt.js](https://github.com/nuxt/nuxt.js)
-  - The Intuitive Vue Framework
-- [cypress](https://github.com/cypress-io/cypress)
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [next.js](https://github.com/vercel/next.js)
-  - The React Framework
-- [yapi](https://github.com/YMFE/yapi)
-  - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
-- [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder)
-  - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.
-- [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated)
-  - React Native's Animated library reimplemented
+- [bootstrap-datetimepicker](https://github.com/Eonasdan/bootstrap-datetimepicker)
+  - Date/time picker widget based on twitter bootstrap
 - [react-refresh-webpack-plugin](https://github.com/pmmmwh/react-refresh-webpack-plugin)
   - A Webpack plugin to enable "Fast Refresh" (also previously known as Hot Reloading) for React components.
-- [svelte](https://github.com/sveltejs/svelte)
-  - Cybernetically enhanced web apps
-- [stylelint](https://github.com/stylelint/stylelint)
-  - A mighty, modern style linter
-- [learnGitBranching](https://github.com/pcottle/learnGitBranching)
-  - An interactive git visualization to challenge and educate!
-- [atom](https://github.com/atom/atom)
-  - The hackable text editor
-- [UglifyJS](https://github.com/mishoo/UglifyJS)
-  - JavaScript parser / mangler / compressor / beautifier toolkit
+- [MagneticButtons](https://github.com/codrops/MagneticButtons)
+  - A set of buttons with a magnetic interaction and a hover effect.
+- [hapi](https://github.com/hapijs/hapi)
+  - The Simple, Secure Framework Developers Trust
+- [axios](https://github.com/axios/axios)
+  - Promise based HTTP client for the browser and node.js
+- [goindex-theme-acrou](https://github.com/Aicirou/goindex-theme-acrou)
+  - This is a goindex theme.一个goindex的扩展主题。
+- [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools)
+  - The best design tools and plugins for everything 👉
+- [remax](https://github.com/remaxjs/remax)
+  - 使用真正的 React 构建跨平台小程序
+- [tailblocks](https://github.com/mertJF/tailblocks)
+  - 🎉 Ready-to-use Tailwind CSS blocks.
+- [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue)
+  - BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
