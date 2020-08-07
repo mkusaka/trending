@@ -1,51 +1,51 @@
 # go
-- [kubernetes](https://github.com/kubernetes/kubernetes)
-  - Production-Grade Container Scheduling and Management
-- [argo-cd](https://github.com/argoproj/argo-cd)
-  - Declarative continuous deployment for Kubernetes.
+- [osm](https://github.com/openservicemesh/osm)
+  - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.
+- [charts](https://github.com/helm/charts)
+  - Curated applications for Kubernetes
+- [jupiter](https://github.com/douyu/jupiter)
+  - Jupiter是斗鱼开源的面向服务治理的Golang微服务框架
+- [afero](https://github.com/spf13/afero)
+  - A FileSystem Abstraction System for Go
+- [minio](https://github.com/minio/minio)
+  - High Performance, Kubernetes Native Object Storage
+- [minikube](https://github.com/kubernetes/minikube)
+  - Run Kubernetes locally
+- [testify](https://github.com/stretchr/testify)
+  - A toolkit with common assertions and mocks that plays nicely with the standard library
+- [glab](https://github.com/profclems/glab)
+  - A custom Gitlab Cli tool written in Go (golang)
+- [moby](https://github.com/moby/moby)
+  - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [pprof](https://github.com/google/pprof)
   - pprof is a tool for visualization and analysis of profiling data
-- [go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
-  - cqhttp的golang实现，轻量、原生跨平台.
-- [gnet](https://github.com/panjf2000/gnet)
-  - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
-- [consul](https://github.com/hashicorp/consul)
-  - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [gardener](https://github.com/gardener/gardener)
-  - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, Packet, MetalStack, and vSphere with minimal TCO.
-- [slack](https://github.com/slack-go/slack)
-  - Slack API in Go - community-maintained fork created by the original author, @nlopes
-- [cadvisor](https://github.com/google/cadvisor)
-  - Analyzes resource usage and performance characteristics of running containers.
-- [telegraf](https://github.com/influxdata/telegraf)
-  - The plugin-driven server agent for collecting & reporting metrics.
-- [filebrowser](https://github.com/filebrowser/filebrowser)
-  - 📂 Web File Browser which can be used as a middleware or standalone app.
-- [drone](https://github.com/drone/drone)
-  - Drone is a Container-Native, Continuous Delivery Platform
-- [deej](https://github.com/omriharel/deej)
-  - Set app volumes with real sliders! deej is an Arduino & Go project to let you build your own hardware mixer for Windows and Linux
-- [fabric-samples](https://github.com/hyperledger/fabric-samples)
-  - 
-- [loki](https://github.com/grafana/loki)
-  - Like Prometheus, but for logs.
-- [opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector)
-  - OpenTelemetry Collector
-- [cobra](https://github.com/spf13/cobra)
-  - A Commander for modern Go CLI interactions
-- [origin](https://github.com/openshift/origin)
-  - Images for OpenShift 3 and 4 - see openshift/okd for more
-- [thanos](https://github.com/thanos-io/thanos)
-  - Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.
+- [goreplay](https://github.com/buger/goreplay)
+  - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
+- [flux](https://github.com/fluxcd/flux)
+  - The GitOps Kubernetes operator
+- [dashboard](https://github.com/kubernetes/dashboard)
+  - General-purpose web UI for Kubernetes clusters
+- [kubernetes](https://github.com/kubernetes/kubernetes)
+  - Production-Grade Container Scheduling and Management
 - [gin](https://github.com/gin-gonic/gin)
   - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [ginkgo](https://github.com/onsi/ginkgo)
-  - BDD Testing Framework for Go
-- [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh)
-  - A Chaos Engineering Platform for Kubernetes.
-- [opentracing-go](https://github.com/opentracing/opentracing-go)
-  - OpenTracing API for Go
-- [errors](https://github.com/pkg/errors)
-  - Simple error handling primitives
-- [terratest](https://github.com/gruntwork-io/terratest)
-  - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [amqp](https://github.com/streadway/amqp)
+  - Go client for AMQP 0.9.1
+- [telegraf](https://github.com/influxdata/telegraf)
+  - The plugin-driven server agent for collecting & reporting metrics.
+- [prometheus](https://github.com/prometheus/prometheus)
+  - The Prometheus monitoring system and time series database.
+- [vault](https://github.com/hashicorp/vault)
+  - A tool for secrets management, encryption as a service, and privileged access management
+- [sarama](https://github.com/Shopify/sarama)
+  - Sarama is a Go library for Apache Kafka 0.8, and up.
+- [sealos](https://github.com/fanux/sealos)
+  - 只能用丝滑一词形容的kubernetes高可用安装（kubernetes install）工具，一条命令，离线安装，包含所有依赖，内核负载不依赖haproxy keepalived,纯golang开发,99年证书,支持v1.16 v1.15 v1.17 v1.18!
+- [night](https://github.com/talkgo/night)
+  - Weekly Go Online Meetup via Zoom and Bilibili｜Go 夜读｜由 SIG 成员维护｜通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
+- [streamhut](https://github.com/miguelmota/streamhut)
+  - Stream your terminal to web without installing anything
+- [golangci-lint](https://github.com/golangci/golangci-lint)
+  - Fast linters Runner for Go
+- [redigo](https://github.com/gomodule/redigo)
+  - Go client for Redis
