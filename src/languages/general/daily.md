@@ -1,50 +1,46 @@
 # general
-- [osm](https://github.com/openservicemesh/osm) : Go
-  - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.
-- [simdjson](https://github.com/simdjson/simdjson) : C++
-  - Parsing gigabytes of JSON per second
-- [bpytop](https://github.com/aristocratos/bpytop) : Python
-  - Linux/OSX/FreeBSD resource monitor
-- [azure-docs](https://github.com/MicrosoftDocs/azure-docs) : PowerShell
-  - Open source documentation of Microsoft Azure
-- [iOS-DeviceSupport](https://github.com/iGhibli/iOS-DeviceSupport) : Python
-  - This repository holds the device support files for the iOS, and I will update it regularly.
-- [educative.io_courses](https://github.com/aboelkassem/educative.io_courses) : 
-  - this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack
-- [lens](https://github.com/lensapp/lens) : TypeScript
-  - Lens - The Kubernetes IDE
-- [expo](https://github.com/expo/expo) : Objective-C
-  - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
-- [Javascript](https://github.com/TheAlgorithms/Javascript) : JavaScript
-  - A repository for All algorithms implemented in Javascript (for educational purposes only)
+- [nodejs-zoom-clone](https://github.com/CleverProgrammers/nodejs-zoom-clone) : JavaScript
+- [jupiter](https://github.com/douyu/jupiter) : Go
+  - Jupiter是斗鱼开源的面向服务治理的Golang微服务框架
+- [aws-sdk-go](https://github.com/aws/aws-sdk-go) : Go
+  - AWS SDK for the Go programming language.
 - [substrate](https://github.com/paritytech/substrate) : Rust
   - Substrate: The platform for blockchain innovators
-- [mixer](https://github.com/ubisoft/mixer) : Python
-  - Add-on for real-time collaboration in Blender.
-- [TDengine](https://github.com/taosdata/TDengine) : C
-  - An open-source big data platform designed and optimized for the Internet of Things (IoT).
-- [reverse-interview](https://github.com/viraptor/reverse-interview) : 
-  - Questions to ask the company during your interview
-- [955.WLB](https://github.com/formulahendry/955.WLB) : 
-  - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)
-- [yolov5](https://github.com/ultralytics/yolov5) : Python
-  - YOLOv5 in PyTorch > ONNX > CoreML > iOS
-- [proffy-discovery](https://github.com/guilhermecapitao/proffy-discovery) : CSS
-  - A proposta do projeto é uma aplicação que possa ligar quem deseja aprender, com quer ensinar. É possível encontrar alunos para o que você leciona, ou encontrar o professor para aquela matéria que você sempre quis aprender mais! Sem que haja nenhuma limitação de área!!
-- [Faze4-Robotic-arm](https://github.com/PCrnjak/Faze4-Robotic-arm) : C++
-  - All files for 6 axis robot arm with cycloidal gearboxes .
-- [mediapipe](https://github.com/google/mediapipe) : C++
-  - MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.
-- [XamarinCommunityToolkit](https://github.com/xamarin/XamarinCommunityToolkit) : C#
-  - The Xamarin Community Toolkit is a collection of Animations, Behaviors, Converters, and Effects for mobile development with Xamarin.Forms. It simplifies and demonstrates common developer tasks building iOS, Android, and UWP apps with Xamarin.Forms.
-- [pybind11](https://github.com/pybind/pybind11) : C++
-  - Seamless operability between C++11 and Python
+- [simdjson](https://github.com/simdjson/simdjson) : C++
+  - Parsing gigabytes of JSON per second
+- [educative.io_courses](https://github.com/aboelkassem/educative.io_courses) : 
+  - this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack
+- [Atlas](https://github.com/magicleap/Atlas) : Python
+  - Atlas: End-to-End 3D Scene Reconstruction from Posed Images
+- [osm](https://github.com/openservicemesh/osm) : Go
+  - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.
+- [Javascript](https://github.com/TheAlgorithms/Javascript) : JavaScript
+  - A repository for All algorithms implemented in Javascript (for educational purposes only)
+- [gui.cs](https://github.com/migueldeicaza/gui.cs) : C#
+  - Console-based user interface toolkit for .NET applications.
+- [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) : 
+  - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) : 
   - 🔗 Some useful websites for programmers.
-- [pulsar](https://github.com/apache/pulsar) : Java
-  - Apache Pulsar - distributed pub-sub messaging system
-- [handson-ml2](https://github.com/ageron/handson-ml2) : Jupyter Notebook
-  - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
-- [learn-python](https://github.com/KhoaDauTay/learn-python) : Python
-- [charts](https://github.com/helm/charts) : Go
-  - Curated applications for Kubernetes
+- [bpytop](https://github.com/aristocratos/bpytop) : Python
+  - Linux/OSX/FreeBSD resource monitor
+- [react-native](https://github.com/facebook/react-native) : JavaScript
+  - A framework for building native apps with React.
+- [heroicons](https://github.com/tailwindlabs/heroicons) : JavaScript
+  - A set of free MIT-licensed high-quality SVG icons for UI development.
+- [TLS-poison](https://github.com/jmdx/TLS-poison) : Rust
+- [pybind11](https://github.com/pybind/pybind11) : C++
+  - Seamless operability between C++11 and Python
+- [TDengine](https://github.com/taosdata/TDengine) : C
+  - An open-source big data platform designed and optimized for the Internet of Things (IoT).
+- [V2rayU](https://github.com/yanue/V2rayU) : Swift
+  - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
+- [mesh](https://github.com/kelseyhightower/mesh) : 
+  - Cloud native service mesh for the rest of us.
+- [incyber](https://github.com/Malajab/incyber) : 
+- [955.WLB](https://github.com/formulahendry/955.WLB) : 
+  - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)
+- [polkadot](https://github.com/paritytech/polkadot) : Rust
+  - Polkadot Node Implementation
+- [azure-docs](https://github.com/MicrosoftDocs/azure-docs) : PowerShell
+  - Open source documentation of Microsoft Azure

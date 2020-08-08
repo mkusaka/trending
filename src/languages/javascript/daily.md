@@ -1,51 +1,51 @@
 # javascript
+- [nodejs-zoom-clone](https://github.com/CleverProgrammers/nodejs-zoom-clone)
+  - 
 - [Javascript](https://github.com/TheAlgorithms/Javascript)
   - A repository for All algorithms implemented in Javascript (for educational purposes only)
-- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-  - ⚡ Dynamically generated stats for your github readmes
-- [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
-  - Show your latest blog posts from any sources or StackOverflow activity on your GitHub profile/project readme automatically using the RSS feed
-- [blockly](https://github.com/google/blockly)
-  - The web-based visual programming editor.
 - [react-native](https://github.com/facebook/react-native)
   - A framework for building native apps with React.
-- [DNSExfiltrator](https://github.com/Arno0x/DNSExfiltrator)
-  - Data exfiltration over DNS request covert channel
-- [husky](https://github.com/typicode/husky)
-  - Git hooks made easy 🐶 woof!
-- [leek-fund](https://github.com/giscafer/leek-fund)
-  - VSCode 插件（韭菜基金），VSCode 里也可以看股票 & 基金实时数据
 - [heroicons](https://github.com/tailwindlabs/heroicons)
   - A set of free MIT-licensed high-quality SVG icons for UI development.
-- [carbon](https://github.com/carbon-design-system/carbon)
-  - A design system built by IBM
-- [project-guidelines](https://github.com/elsewhencode/project-guidelines)
-  - A set of best practices for JavaScript projects
-- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
-  - Revive unavailable songs for Netease Cloud Music
-- [react-native-website](https://github.com/facebook/react-native-website)
-  - The site and docs for React Native
-- [BetterDiscordApp](https://github.com/rauenzi/BetterDiscordApp)
-  - Better Discord App enhances Discord desktop app with new features.
-- [mocha](https://github.com/mochajs/mocha)
-  - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
-- [bootstrap-datetimepicker](https://github.com/Eonasdan/bootstrap-datetimepicker)
-  - Date/time picker widget based on twitter bootstrap
-- [react-refresh-webpack-plugin](https://github.com/pmmmwh/react-refresh-webpack-plugin)
-  - A Webpack plugin to enable "Fast Refresh" (also previously known as Hot Reloading) for React components.
-- [MagneticButtons](https://github.com/codrops/MagneticButtons)
-  - A set of buttons with a magnetic interaction and a hover effect.
-- [hapi](https://github.com/hapijs/hapi)
-  - The Simple, Secure Framework Developers Trust
-- [axios](https://github.com/axios/axios)
-  - Promise based HTTP client for the browser and node.js
-- [goindex-theme-acrou](https://github.com/Aicirou/goindex-theme-acrou)
-  - This is a goindex theme.一个goindex的扩展主题。
-- [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools)
-  - The best design tools and plugins for everything 👉
-- [remax](https://github.com/remaxjs/remax)
-  - 使用真正的 React 构建跨平台小程序
 - [tailblocks](https://github.com/mertJF/tailblocks)
   - 🎉 Ready-to-use Tailwind CSS blocks.
-- [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue)
-  - BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
+- [husky](https://github.com/typicode/husky)
+  - Git hooks made easy 🐶 woof!
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [full-mark-composition-generator](https://github.com/BeautyYuYanli/full-mark-composition-generator)
+  - 将专业术语和名人名言以随机报菜名的方式填入模板，生成一篇只有聪明人才能看懂的满分作文！
+- [handsontable](https://github.com/handsontable/handsontable)
+  - Handsontable is a JavaScript/HTML5 data grid with spreadsheet look & feel. Available for React, Vue and Angular.
+- [in-quiz-questions](https://github.com/Ebazhanov/in-quiz-questions)
+  - Skill Linkedin quiz (Assessment) answers and questions (aws-lambda, rest-api, javascript, react, git, html, jquery, maven, mongodb, xml, java, css, python ...) ответы на квиз
+- [Sortable](https://github.com/SortableJS/Sortable)
+  - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Ember, Knockout and any CSS library, e.g. Bootstrap.
+- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
+  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [supabase](https://github.com/supabase/supabase)
+  - Website, docs, and client libraries. Follow to stay updated about our public Beta.
+- [create-react-app](https://github.com/facebook/create-react-app)
+  - Set up a modern web app by running one command.
+- [ps4jb](https://github.com/sleirsgoevy/ps4jb)
+  - PS4 6.72 jailbreak
+- [node-react-ecommerce](https://github.com/basir/node-react-ecommerce)
+  - Build ECommerce Website Like Amazon By React & Node & MongoDB
+- [joi](https://github.com/sideway/joi)
+  - The most powerful data validation library for JS
+- [browserslist](https://github.com/browserslist/browserslist)
+  - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
+- [Rando.js](https://github.com/nastyox/Rando.js)
+  - The world's easiest, most powerful random function.
+- [react](https://github.com/duxianwei520/react)
+  - React+webpack+redux+ant design+axios+less全家桶后台管理框架
+- [svelte](https://github.com/sveltejs/svelte)
+  - Cybernetically enhanced web apps
+- [MagneticButtons](https://github.com/codrops/MagneticButtons)
+  - A set of buttons with a magnetic interaction and a hover effect.
+- [select2](https://github.com/select2/select2)
+  - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
+- [carbon](https://github.com/carbon-design-system/carbon)
+  - A design system built by IBM
