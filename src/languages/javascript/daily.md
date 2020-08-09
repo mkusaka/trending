@@ -1,51 +1,51 @@
 # javascript
-- [nodejs-zoom-clone](https://github.com/CleverProgrammers/nodejs-zoom-clone)
-  - 
-- [Javascript](https://github.com/TheAlgorithms/Javascript)
-  - A repository for All algorithms implemented in Javascript (for educational purposes only)
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
 - [heroicons](https://github.com/tailwindlabs/heroicons)
   - A set of free MIT-licensed high-quality SVG icons for UI development.
-- [tailblocks](https://github.com/mertJF/tailblocks)
-  - 🎉 Ready-to-use Tailwind CSS blocks.
-- [husky](https://github.com/typicode/husky)
-  - Git hooks made easy 🐶 woof!
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [full-mark-composition-generator](https://github.com/BeautyYuYanli/full-mark-composition-generator)
-  - 将专业术语和名人名言以随机报菜名的方式填入模板，生成一篇只有聪明人才能看懂的满分作文！
-- [handsontable](https://github.com/handsontable/handsontable)
-  - Handsontable is a JavaScript/HTML5 data grid with spreadsheet look & feel. Available for React, Vue and Angular.
-- [in-quiz-questions](https://github.com/Ebazhanov/in-quiz-questions)
-  - Skill Linkedin quiz (Assessment) answers and questions (aws-lambda, rest-api, javascript, react, git, html, jquery, maven, mongodb, xml, java, css, python ...) ответы на квиз
-- [Sortable](https://github.com/SortableJS/Sortable)
-  - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Ember, Knockout and any CSS library, e.g. Bootstrap.
+- [nodejs-zoom-clone](https://github.com/CleverProgrammers/nodejs-zoom-clone)
+  - 
+- [facebook-scripts-dom-manipulation](https://github.com/JayremntB/facebook-scripts-dom-manipulation)
+  - An open-source project includes many scripts with no Access Token needed for Facebook users by directly manipulating the DOM.
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+  - ✅ The Node.js best practices list (August 2020)
+- [Javascript](https://github.com/TheAlgorithms/Javascript)
+  - A repository for All algorithms implemented in Javascript (for educational purposes only)
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
 - [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
   - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [supabase](https://github.com/supabase/supabase)
-  - Website, docs, and client libraries. Follow to stay updated about our public Beta.
-- [create-react-app](https://github.com/facebook/create-react-app)
-  - Set up a modern web app by running one command.
-- [ps4jb](https://github.com/sleirsgoevy/ps4jb)
-  - PS4 6.72 jailbreak
+- [functions-samples](https://github.com/firebase/functions-samples)
+  - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
 - [node-react-ecommerce](https://github.com/basir/node-react-ecommerce)
   - Build ECommerce Website Like Amazon By React & Node & MongoDB
-- [joi](https://github.com/sideway/joi)
-  - The most powerful data validation library for JS
-- [browserslist](https://github.com/browserslist/browserslist)
-  - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
-- [Rando.js](https://github.com/nastyox/Rando.js)
-  - The world's easiest, most powerful random function.
-- [react](https://github.com/duxianwei520/react)
-  - React+webpack+redux+ant design+axios+less全家桶后台管理框架
-- [svelte](https://github.com/sveltejs/svelte)
-  - Cybernetically enhanced web apps
-- [MagneticButtons](https://github.com/codrops/MagneticButtons)
-  - A set of buttons with a magnetic interaction and a hover effect.
-- [select2](https://github.com/select2/select2)
-  - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
-- [carbon](https://github.com/carbon-design-system/carbon)
-  - A design system built by IBM
+- [discord.js](https://github.com/discordjs/discord.js)
+  - A powerful JavaScript library for interacting with the Discord API
+- [devsoutinhoflix](https://github.com/omariosouto/devsoutinhoflix)
+  - Projeto da Imersão Alura
+- [supabase](https://github.com/supabase/supabase)
+  - Website, docs, and client libraries. Follow to stay updated about our public Beta.
+- [aws-serverless-express](https://github.com/awslabs/aws-serverless-express)
+  - Run serverless applications and REST APIs using your existing Node.js application framework, on top of AWS Lambda and Amazon API Gateway
+- [AdminLTE](https://github.com/ColorlibHQ/AdminLTE)
+  - AdminLTE - Free admin dashboard template based on Bootstrap 4
+- [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+  - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
+- [webogram](https://github.com/zhukov/webogram)
+  - Telegram web application, GPL v3
+- [dribbble2react](https://github.com/react-ui-kit/dribbble2react)
+  - Transform Dribbble designs to React-Native code | Shop UI Kit >>
+- [aws-lambda-power-tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning)
+  - AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Functions - and it supports three optimization strategies: cost, speed, and balanced.
+- [OSINT-Framework](https://github.com/lockfale/OSINT-Framework)
+  - OSINT Framework
+- [next.js](https://github.com/vercel/next.js)
+  - The React Framework
+- [fabric.js](https://github.com/fabricjs/fabric.js)
+  - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
+- [node-express-realworld-example-app](https://github.com/gothinkster/node-express-realworld-example-app)
+  - 

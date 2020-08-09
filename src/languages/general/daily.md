@@ -1,46 +1,50 @@
 # general
-- [nodejs-zoom-clone](https://github.com/CleverProgrammers/nodejs-zoom-clone) : JavaScript
-- [jupiter](https://github.com/douyu/jupiter) : Go
-  - Jupiter是斗鱼开源的面向服务治理的Golang微服务框架
-- [aws-sdk-go](https://github.com/aws/aws-sdk-go) : Go
-  - AWS SDK for the Go programming language.
-- [substrate](https://github.com/paritytech/substrate) : Rust
-  - Substrate: The platform for blockchain innovators
-- [simdjson](https://github.com/simdjson/simdjson) : C++
-  - Parsing gigabytes of JSON per second
-- [educative.io_courses](https://github.com/aboelkassem/educative.io_courses) : 
-  - this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack
-- [Atlas](https://github.com/magicleap/Atlas) : Python
-  - Atlas: End-to-End 3D Scene Reconstruction from Posed Images
-- [osm](https://github.com/openservicemesh/osm) : Go
-  - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.
-- [Javascript](https://github.com/TheAlgorithms/Javascript) : JavaScript
-  - A repository for All algorithms implemented in Javascript (for educational purposes only)
-- [gui.cs](https://github.com/migueldeicaza/gui.cs) : C#
-  - Console-based user interface toolkit for .NET applications.
-- [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) : 
-  - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
-- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) : 
-  - 🔗 Some useful websites for programmers.
-- [bpytop](https://github.com/aristocratos/bpytop) : Python
-  - Linux/OSX/FreeBSD resource monitor
-- [react-native](https://github.com/facebook/react-native) : JavaScript
-  - A framework for building native apps with React.
+- [pyre-check](https://github.com/facebook/pyre-check) : OCaml
+  - Performant type-checking for python.
+- [crush](https://github.com/liljencrantz/crush) : Rust
+  - Crush is an attempt to make a command line shell that is also a powerful modern programming language.
 - [heroicons](https://github.com/tailwindlabs/heroicons) : JavaScript
   - A set of free MIT-licensed high-quality SVG icons for UI development.
-- [TLS-poison](https://github.com/jmdx/TLS-poison) : Rust
-- [pybind11](https://github.com/pybind/pybind11) : C++
-  - Seamless operability between C++11 and Python
-- [TDengine](https://github.com/taosdata/TDengine) : C
-  - An open-source big data platform designed and optimized for the Internet of Things (IoT).
-- [V2rayU](https://github.com/yanue/V2rayU) : Swift
-  - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
-- [mesh](https://github.com/kelseyhightower/mesh) : 
-  - Cloud native service mesh for the rest of us.
-- [incyber](https://github.com/Malajab/incyber) : 
-- [955.WLB](https://github.com/formulahendry/955.WLB) : 
-  - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)
+- [nodejs-zoom-clone](https://github.com/CleverProgrammers/nodejs-zoom-clone) : JavaScript
+- [tuya-convert](https://github.com/ct-Open-Source/tuya-convert) : Python
+  - A collection of scripts to flash Tuya IoT devices to alternative firmwares
+- [prefect](https://github.com/PrefectHQ/prefect) : Python
+  - The easiest way to automate your data
+- [fast](https://github.com/microsoft/fast) : TypeScript
+  - The adaptive interface system  for modern web experiences.
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) : 
+  - A book series on JavaScript. @YDKJS on twitter.
+- [TikTok-Shares-Botter](https://github.com/zoony1337/TikTok-Shares-Botter) : Python
+  - Adds TikTok Shares for you.
+- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) : 
+  - 🔗 Some useful websites for programmers.
+- [public-apis](https://github.com/public-apis/public-apis) : Python
+  - A collective list of free APIs for use in software and web development.
+- [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) : 
+  - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
+- [rome](https://github.com/romefrontend/rome) : TypeScript
+  - The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
+- [ai-economist](https://github.com/salesforce/ai-economist) : Python
+  - Foundation is a flexible, modular, and composable framework to model socio-economic behaviors and dynamics with both agents and governments. This framework can be used in conjunction with reinforcement learning to learn optimal economic policies, as done by the AI Economist (https://www.einstein.ai/the-ai-economist).
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
+  - 🤓 Build your own (insert technology here)
+- [MCinaBox](https://github.com/longjunyu2/MCinaBox) : Java
+  - MCinaBox - A Minecraft Java Edition Launcher on Android
+- [facebook-scripts-dom-manipulation](https://github.com/JayremntB/facebook-scripts-dom-manipulation) : JavaScript
+  - An open-source project includes many scripts with no Access Token needed for Facebook users by directly manipulating the DOM.
+- [bpytop](https://github.com/aristocratos/bpytop) : Python
+  - Linux/OSX/FreeBSD resource monitor
+- [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) : 
+  - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
+- [taichi](https://github.com/taichi-dev/taichi) : C++
+  - Productive & portable programming language for high-performance, sparse & differentiable computing
+- [Atlas](https://github.com/magicleap/Atlas) : Python
+  - Atlas: End-to-End 3D Scene Reconstruction from Posed Images
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
+  - 📚 Freely available programming books
 - [polkadot](https://github.com/paritytech/polkadot) : Rust
   - Polkadot Node Implementation
-- [azure-docs](https://github.com/MicrosoftDocs/azure-docs) : PowerShell
-  - Open source documentation of Microsoft Azure
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
+  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
