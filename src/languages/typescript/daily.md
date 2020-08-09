@@ -1,51 +1,51 @@
 # typescript
-- [lens](https://github.com/lensapp/lens)
-  - Lens - The Kubernetes IDE
-- [typeorm](https://github.com/typeorm/typeorm)
-  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [fast](https://github.com/microsoft/fast)
   - The adaptive interface system  for modern web experiences.
-- [leek-fund](https://github.com/giscafer/leek-fund)
-  - VSCode 插件（韭菜基金），VSCode 里也可以看股票 & 基金实时数据
-- [html2canvas](https://github.com/niklasvh/html2canvas)
-  - Screenshots with JavaScript
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
-- [renovate](https://github.com/renovatebot/renovate)
-  - Universal dependency update tool that fits into your workflows.
-- [ant-design-mobile](https://github.com/ant-design/ant-design-mobile)
-  - A configurable Mobile UI
-- [aws-cdk](https://github.com/aws/aws-cdk)
-  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
-- [react-admin](https://github.com/marmelab/react-admin)
-  - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
-- [vetur](https://github.com/vuejs/vetur)
-  - Vue tooling for VS Code.
-- [ng-select](https://github.com/ng-select/ng-select)
-  - ⭐ Native angular 6+ select component
-- [sp-dev-fx-webparts](https://github.com/pnp/sp-dev-fx-webparts)
-  - SharePoint Framework web part, Teams tab, personal app, app page samples
-- [apollo-client](https://github.com/apollographql/apollo-client)
-  - 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
-- [tfjs](https://github.com/tensorflow/tfjs)
-  - A WebGL accelerated JavaScript library for training and deploying ML models.
-- [ant-design](https://github.com/ant-design/ant-design)
-  - 🌈 A UI Design Language and React UI library
-- [fluentui](https://github.com/microsoft/fluentui)
-  - We've moved! UI Fabric is now Fluent UI - A set of React components for building Microsoft web experiences.
-- [backstage](https://github.com/spotify/backstage)
-  - Backstage is an open platform for building developer portals
-- [GGEditor](https://github.com/alibaba/GGEditor)
-  - A visual graph editor based on G6 and React
-- [proffy](https://github.com/csorlandi/proffy)
-  - 
-- [hackatalk](https://github.com/dooboolab/hackatalk)
-  - TalkTalk renewal. Open source chat app built in expo bare work flow
-- [angular-cli](https://github.com/angular/angular-cli)
-  - CLI tool for Angular
+- [rome](https://github.com/romefrontend/rome)
+  - The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
+- [angularfire](https://github.com/angular/angularfire)
+  - The official Angular library for Firebase.
+- [blitz](https://github.com/blitz-js/blitz)
+  - ⚡️The Fullstack React Framework — built on Next.js
+- [deno](https://github.com/denoland/deno)
+  - A secure JavaScript and TypeScript runtime
+- [code-server](https://github.com/cdr/code-server)
+  - VS Code in the browser
+- [kibana](https://github.com/elastic/kibana)
+  - Your window into the Elastic Stack
+- [moveable](https://github.com/daybrush/moveable)
+  - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form)
   - 📋 React Hooks for forms validation (Web + React Native)
-- [vscode](https://github.com/microsoft/vscode)
-  - Visual Studio Code
-- [blueprint](https://github.com/palantir/blueprint)
-  - A React-based UI toolkit for the web
+- [proffy](https://github.com/pmqueiroz/proffy)
+  - Online teaching platform made with React Native using Typescript during the NLW (Next Level Week) #02 🚀
+- [sapper](https://github.com/sveltejs/sapper)
+  - The next small thing in web development, powered by Svelte
+- [react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide)
+  - The complete guide to static typing in "React & Redux" apps using TypeScript
+- [tridactyl](https://github.com/tridactyl/tridactyl)
+  - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
+- [prisma-examples](https://github.com/prisma/prisma-examples)
+  - 🚀 Ready-to-run Prisma example projects
+- [pixi.js](https://github.com/pixijs/pixi.js)
+  - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+- [ever](https://github.com/ever-co/ever)
+  - Ever® - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
+- [Angular-GettingStarted](https://github.com/DeborahK/Angular-GettingStarted)
+  - Sample Angular application used in the "Angular: Getting Started" course: http://bit.ly/Angular-GettingStarted
+- [hopi](https://github.com/itajaja/hopi)
+  - python-in-node interop ⬢ 🐍
+- [peerjs-server](https://github.com/peers/peerjs-server)
+  - Server for PeerJS
+- [homebridge](https://github.com/homebridge/homebridge)
+  - HomeKit support for the impatient
+- [streamlabs-obs](https://github.com/stream-labs/streamlabs-obs)
+  - Free and open source streaming software built on OBS and Electron.
+- [Proffy](https://github.com/RafaelGoulartB/Proffy)
+  - 🚀 Project made to connect teachers to students, made in Next Level Week #2 #NLW @Rocketseat
+- [vscode-live-server](https://github.com/ritwickdey/vscode-live-server)
+  - Launch a development local Server with live reload feature for static & dynamic pages.
+- [assets](https://github.com/trustwallet/assets)
+  - 
+- [lens](https://github.com/lensapp/lens)
+  - Lens - The Kubernetes IDE
