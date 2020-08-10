@@ -1,51 +1,51 @@
 # rust
-- [crush](https://github.com/liljencrantz/crush)
-  - Crush is an attempt to make a command line shell that is also a powerful modern programming language.
-- [polkadot](https://github.com/paritytech/polkadot)
-  - Polkadot Node Implementation
-- [substrate](https://github.com/paritytech/substrate)
-  - Substrate: The platform for blockchain innovators
-- [nushell](https://github.com/nushell/nushell)
-  - A new type of shell
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
 - [juniper](https://github.com/graphql-rust/juniper)
   - GraphQL server library for Rust
-- [iced](https://github.com/hecrj/iced)
-  - A cross-platform GUI library for Rust, inspired by Elm
-- [sqlx](https://github.com/launchbadge/sqlx)
-  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-- [async-std](https://github.com/async-rs/async-std)
-  - Async version of the Rust standard library
-- [rust-clippy](https://github.com/rust-lang/rust-clippy)
-  - A bunch of lints to catch common mistakes and improve your Rust code
-- [TLS-poison](https://github.com/jmdx/TLS-poison)
-  - 
-- [vector](https://github.com/timberio/vector)
-  - A lightweight and ultra-fast router for building observability pipelines
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [book](https://github.com/rust-lang/book)
-  - The Rust Programming Language
-- [tui-rs](https://github.com/fdehau/tui-rs)
-  - Build terminal user interfaces and dashboards using Rust
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [findomain](https://github.com/Edu4rdSHL/findomain)
-  - The fastest and cross-platform subdomain enumerator, do not waste your time.
-- [ggez](https://github.com/ggez/ggez)
-  - Rust library to create a Good Game Easily
-- [godot-rust](https://github.com/godot-rust/godot-rust)
-  - Rust bindings for GDNative
-- [firecracker](https://github.com/firecracker-microvm/firecracker)
-  - Secure and fast microVMs for serverless computing.
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [cargo](https://github.com/rust-lang/cargo)
-  - The Rust package manager
-- [propane](https://github.com/withoutboats/propane)
-  - generators
+- [crush](https://github.com/liljencrantz/crush)
+  - Crush is an attempt to make a command line shell that is also a powerful modern programming language.
+- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
+  - Rust bindings to wgpu native library
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust)
+  - A Rust port of shadowsocks
+- [winit](https://github.com/rust-windowing/winit)
+  - Window handling library in pure Rust
 - [solana](https://github.com/solana-labs/solana)
   - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-- [ncspot](https://github.com/hrkfdn/ncspot)
-  - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
+- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+  - 📚 Learn to write an embedded OS in Rust 🦀
+- [amethyst](https://github.com/amethyst/amethyst)
+  - Data-oriented and data-driven game engine written in Rust
+- [tui-rs](https://github.com/fdehau/tui-rs)
+  - Build terminal user interfaces and dashboards using Rust
+- [polkadot](https://github.com/paritytech/polkadot)
+  - Polkadot Node Implementation
+- [iced](https://github.com/hecrj/iced)
+  - A cross-platform GUI library for Rust, inspired by Elm
+- [nushell](https://github.com/nushell/nushell)
+  - A new type of shell
+- [tokio](https://github.com/tokio-rs/tokio)
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
+  - Facilitating high-level interactions between Wasm modules and JavaScript
+- [spotifyd](https://github.com/Spotifyd/spotifyd)
+  - A spotify daemon
+- [TLS-poison](https://github.com/jmdx/TLS-poison)
+  - 
+- [druid](https://github.com/linebender/druid)
+  - A data-first Rust-native UI design toolkit.
+- [book](https://github.com/rust-lang/book)
+  - The Rust Programming Language
+- [vector](https://github.com/timberio/vector)
+  - A lightweight and ultra-fast router for building observability pipelines
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
+- [findomain](https://github.com/Edu4rdSHL/findomain)
+  - The fastest and cross-platform subdomain enumerator, do not waste your time.
+- [wgpu](https://github.com/gfx-rs/wgpu)
+  - Native WebGPU implementation based on gfx-hal

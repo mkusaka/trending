@@ -1,50 +1,49 @@
 # general
-- [pyre-check](https://github.com/facebook/pyre-check) : OCaml
-  - Performant type-checking for python.
-- [crush](https://github.com/liljencrantz/crush) : Rust
-  - Crush is an attempt to make a command line shell that is also a powerful modern programming language.
-- [heroicons](https://github.com/tailwindlabs/heroicons) : JavaScript
-  - A set of free MIT-licensed high-quality SVG icons for UI development.
-- [nodejs-zoom-clone](https://github.com/CleverProgrammers/nodejs-zoom-clone) : JavaScript
-- [tuya-convert](https://github.com/ct-Open-Source/tuya-convert) : Python
-  - A collection of scripts to flash Tuya IoT devices to alternative firmwares
-- [prefect](https://github.com/PrefectHQ/prefect) : Python
-  - The easiest way to automate your data
-- [fast](https://github.com/microsoft/fast) : TypeScript
-  - The adaptive interface system  for modern web experiences.
-- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) : 
-  - A book series on JavaScript. @YDKJS on twitter.
-- [TikTok-Shares-Botter](https://github.com/zoony1337/TikTok-Shares-Botter) : Python
-  - Adds TikTok Shares for you.
-- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) : 
-  - 🔗 Some useful websites for programmers.
-- [public-apis](https://github.com/public-apis/public-apis) : Python
-  - A collective list of free APIs for use in software and web development.
-- [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) : 
-  - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 - [rome](https://github.com/romefrontend/rome) : TypeScript
   - The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
-- [ai-economist](https://github.com/salesforce/ai-economist) : Python
-  - Foundation is a flexible, modular, and composable framework to model socio-economic behaviors and dynamics with both agents and governments. This framework can be used in conjunction with reinforcement learning to learn optimal economic policies, as done by the AI Economist (https://www.einstein.ai/the-ai-economist).
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
-  - 🤓 Build your own (insert technology here)
-- [MCinaBox](https://github.com/longjunyu2/MCinaBox) : Java
-  - MCinaBox - A Minecraft Java Edition Launcher on Android
-- [facebook-scripts-dom-manipulation](https://github.com/JayremntB/facebook-scripts-dom-manipulation) : JavaScript
-  - An open-source project includes many scripts with no Access Token needed for Facebook users by directly manipulating the DOM.
-- [bpytop](https://github.com/aristocratos/bpytop) : Python
-  - Linux/OSX/FreeBSD resource monitor
-- [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) : 
-  - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
-- [taichi](https://github.com/taichi-dev/taichi) : C++
-  - Productive & portable programming language for high-performance, sparse & differentiable computing
-- [Atlas](https://github.com/magicleap/Atlas) : Python
-  - Atlas: End-to-End 3D Scene Reconstruction from Posed Images
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [polkadot](https://github.com/paritytech/polkadot) : Rust
-  - Polkadot Node Implementation
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
-  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [prefect](https://github.com/PrefectHQ/prefect) : Python
+  - The easiest way to automate your data
+- [bluezone-app](https://github.com/BluezoneGlobal/bluezone-app) : JavaScript
+  - Bluezone - Bảo vệ mình, bảo vệ cộng đồng
+- [AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) : Python
+  - [Open Source]. The improved version of AnimeGAN.
+- [macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) : Vue
+  - Replacement icons for popular apps in the style of macOS Big Sur
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
   - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [nodejs-zoom-clone](https://github.com/CleverProgrammers/nodejs-zoom-clone) : JavaScript
+- [lede](https://github.com/coolsnowwolf/lede) : C
+  - Lean's OpenWrt source
+- [awesome-system-design](https://github.com/madd86/awesome-system-design) : 
+  - A curated list of awesome system design mateiral
+- [InvoiceNet](https://github.com/naiveHobo/InvoiceNet) : Python
+  - Deep neural network to extract intelligent information from invoice documents.
+- [TikTok-Shares-Botter](https://github.com/zoony1337/TikTok-Shares-Botter) : Python
+  - Adds TikTok Shares for you.
+- [heroicons](https://github.com/tailwindlabs/heroicons) : JavaScript
+  - A set of free MIT-licensed high-quality SVG icons for UI development.
+- [core](https://github.com/home-assistant/core) : Python
+  - 🏡 Open source home automation that puts local control and privacy first
+- [my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) : Shell
+  - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
+  - 📚 Freely available programming books
+- [fast](https://github.com/microsoft/fast) : TypeScript
+  - The adaptive interface system  for modern web experiences.
+- [pyre-check](https://github.com/facebook/pyre-check) : OCaml
+  - Performant type-checking for python.
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
+  - 🤓 Build your own (insert technology here)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) : JavaScript
+  - ✅ The Node.js best practices list (August 2020)
+- [twitter-clone](https://github.com/CleverProgrammers/twitter-clone) : JavaScript
+- [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) : TypeScript
+  - Generate responsive pages and apps on Tailwind, Flutter and SwiftUI.
+- [public-apis](https://github.com/public-apis/public-apis) : Python
+  - A collective list of free APIs for use in software and web development.
+- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) : 
+  - 🔗 Some useful websites for programmers.
+- [data-science](https://github.com/ossu/data-science) : 
+  - 📊 Path to a free self-taught education in Data Science!
+- [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) : 
+  - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
