@@ -1,51 +1,51 @@
 # javascript
-- [heroicons](https://github.com/tailwindlabs/heroicons)
-  - A set of free MIT-licensed high-quality SVG icons for UI development.
-- [nodejs-zoom-clone](https://github.com/CleverProgrammers/nodejs-zoom-clone)
-  - 
-- [facebook-scripts-dom-manipulation](https://github.com/JayremntB/facebook-scripts-dom-manipulation)
-  - An open-source project includes many scripts with no Access Token needed for Facebook users by directly manipulating the DOM.
+- [bluezone-app](https://github.com/BluezoneGlobal/bluezone-app)
+  - Bluezone - Bảo vệ mình, bảo vệ cộng đồng
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
   - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [nodejs-zoom-clone](https://github.com/CleverProgrammers/nodejs-zoom-clone)
+  - 
+- [heroicons](https://github.com/tailwindlabs/heroicons)
+  - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
   - ✅ The Node.js best practices list (August 2020)
-- [Javascript](https://github.com/TheAlgorithms/Javascript)
-  - A repository for All algorithms implemented in Javascript (for educational purposes only)
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
-- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
-  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-- [functions-samples](https://github.com/firebase/functions-samples)
-  - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
-  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [node-react-ecommerce](https://github.com/basir/node-react-ecommerce)
-  - Build ECommerce Website Like Amazon By React & Node & MongoDB
+- [twitter-clone](https://github.com/CleverProgrammers/twitter-clone)
+  - 
+- [Motrix](https://github.com/agalwood/Motrix)
+  - A full-featured download manager.
 - [discord.js](https://github.com/discordjs/discord.js)
   - A powerful JavaScript library for interacting with the Discord API
-- [devsoutinhoflix](https://github.com/omariosouto/devsoutinhoflix)
-  - Projeto da Imersão Alura
-- [supabase](https://github.com/supabase/supabase)
-  - Website, docs, and client libraries. Follow to stay updated about our public Beta.
-- [aws-serverless-express](https://github.com/awslabs/aws-serverless-express)
-  - Run serverless applications and REST APIs using your existing Node.js application framework, on top of AWS Lambda and Amazon API Gateway
-- [AdminLTE](https://github.com/ColorlibHQ/AdminLTE)
-  - AdminLTE - Free admin dashboard template based on Bootstrap 4
-- [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
-  - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
-- [webogram](https://github.com/zhukov/webogram)
-  - Telegram web application, GPL v3
-- [dribbble2react](https://github.com/react-ui-kit/dribbble2react)
-  - Transform Dribbble designs to React-Native code | Shop UI Kit >>
-- [aws-lambda-power-tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning)
-  - AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Functions - and it supports three optimization strategies: cost, speed, and balanced.
-- [OSINT-Framework](https://github.com/lockfale/OSINT-Framework)
-  - OSINT Framework
-- [next.js](https://github.com/vercel/next.js)
-  - The React Framework
-- [fabric.js](https://github.com/fabricjs/fabric.js)
-  - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
-- [node-express-realworld-example-app](https://github.com/gothinkster/node-express-realworld-example-app)
-  - 
+- [opensource.guide](https://github.com/github/opensource.guide)
+  - 📚 Community guides for open source creators
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [Ghost](https://github.com/TryGhost/Ghost)
+  - 👻 The #1 headless Node.js CMS for professional publishing
+- [pipedream](https://github.com/PipedreamHQ/pipedream)
+  - Serverless integration and compute platform. Free for developers.
+- [baiduwp](https://github.com/TkzcM/baiduwp)
+  - PanDownload Web, built with CloudFlare Workers
+- [uBlock](https://github.com/gorhill/uBlock)
+  - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
+  - Starter files, final projects and FAQ for my Complete JavaScript course
+- [junior-recruit-scheduler](https://github.com/jojoldu/junior-recruit-scheduler)
+  - 주니어 개발자 채용 정보
+- [phaser](https://github.com/photonstorm/phaser)
+  - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+- [full-mark-composition-generator](https://github.com/BeautyYuYanli/full-mark-composition-generator)
+  - 将专业术语和名人名言以随机报菜名的方式填入模板，生成一篇只有聪明人才能看懂的满分作文！
+- [facebook-scripts-dom-manipulation](https://github.com/JayremntB/facebook-scripts-dom-manipulation)
+  - An open-source project includes many scripts with no Access Token needed for Facebook users by directly manipulating the DOM.
+- [developerFolio](https://github.com/saadpasta/developerFolio)
+  - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer.
+- [gatsby](https://github.com/gatsbyjs/gatsby)
+  - Build blazing fast, modern apps and websites with React
+- [surge](https://github.com/yichahucha/surge)
+  - script
+- [bootswatch](https://github.com/thomaspark/bootswatch)
+  - Themes for Bootstrap
+- [CodeceptJS](https://github.com/codeceptjs/CodeceptJS)
+  - Supercharged End 2 End Testing Framework for NodeJS
+- [guide](https://github.com/discordjs/guide)
+  - The official guide for discord.js, created and maintained by core members of its community.

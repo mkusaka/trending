@@ -1,51 +1,51 @@
 # ruby
-- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
-  - Metasploit Framework
-- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-  - A curated list of awesome awesomeness
-- [choosealicense.com](https://github.com/github/choosealicense.com)
-  - A site to provide non-judgmental guidance on choosing a license for your open source project
-- [gemoji](https://github.com/github/gemoji)
-  - Emoji images and names.
-- [forem](https://github.com/forem/forem)
-  - For empowering community 🌱
-- [fusuma](https://github.com/iberianpig/fusuma)
-  - Multitouch gestures with libinput driver on Linux
-- [puppet](https://github.com/puppetlabs/puppet)
-  - Server automation framework and application
-- [bullet](https://github.com/flyerhzm/bullet)
-  - help to kill N+1 queries and unused eager loading
-- [cuprite](https://github.com/rubycdp/cuprite)
-  - Headless Chrome/Chromium driver for Capybara
-- [Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)
-  - Web CTF CheatSheet 🐈
-- [fast_jsonapi](https://github.com/Netflix/fast_jsonapi)
-  - A lightning fast JSON:API serializer for Ruby Objects.
-- [octokit.rb](https://github.com/octokit/octokit.rb)
-  - Ruby toolkit for the GitHub API
-- [pry](https://github.com/pry/pry)
-  - A runtime developer console and IRB alternative with powerful introspection capabilities.
-- [chatwoot](https://github.com/chatwoot/chatwoot)
-  - Open-source live chat software 🔥💬
-- [jbuilder](https://github.com/rails/jbuilder)
-  - Jbuilder: generate JSON objects with a Builder-style DSL
-- [solidus](https://github.com/solidusio/solidus)
-  - 🛒Solidus, Rails eCommerce System
-- [gitlabhq](https://github.com/gitlabhq/gitlabhq)
-  - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
-- [homebrew-emacs-plus](https://github.com/d12frosted/homebrew-emacs-plus)
-  - Emacs Plus formulae for the Homebrew package manager
-- [grape](https://github.com/ruby-grape/grape)
-  - An opinionated framework for creating REST-like APIs in Ruby.
-- [linguist](https://github.com/github/linguist)
-  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-- [wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader)
-  - Download an entire website from the Wayback Machine.
 - [brew](https://github.com/Homebrew/brew)
   - 🍺 The missing package manager for macOS (or Linux)
-- [fluentd](https://github.com/fluent/fluentd)
-  - Fluentd: Unified Logging Layer (project under CNCF)
-- [wpscan](https://github.com/wpscanteam/wpscan)
-  - WPScan is a free, for non-commercial use, black box WordPress security scanner written for security professionals and blog maintainers to test the security of their WordPress websites.
-- [rack](https://github.com/rack/rack)
-  - A modular Ruby web server interface.
+- [ruby](https://github.com/ruby/ruby)
+  - The Ruby Programming Language [mirror]
+- [chatwoot](https://github.com/chatwoot/chatwoot)
+  - Open-source live chat software 🔥💬
+- [jekyll](https://github.com/jekyll/jekyll)
+  - 🌐 Jekyll is a blog-aware static site generator in Ruby
+- [gitlabhq](https://github.com/gitlabhq/gitlabhq)
+  - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
+- [rotp](https://github.com/mdp/rotp)
+  - Ruby One Time Password library
+- [chartkick](https://github.com/ankane/chartkick)
+  - Create beautiful JavaScript charts with one line of Ruby
+- [choosealicense.com](https://github.com/github/choosealicense.com)
+  - A site to provide non-judgmental guidance on choosing a license for your open source project
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
+  - Metasploit Framework
+- [fast_jsonapi](https://github.com/Netflix/fast_jsonapi)
+  - A lightning fast JSON:API serializer for Ruby Objects.
+- [gollum](https://github.com/gollum/gollum)
+  - A simple, Git-powered wiki with a sweet API and local frontend.
+- [discourse](https://github.com/discourse/discourse)
+  - A platform for community discussion. Free, open, simple.
+- [fusuma](https://github.com/iberianpig/fusuma)
+  - Multitouch gestures with libinput driver on Linux
+- [redmine](https://github.com/redmine/redmine)
+  - Mirror of redmine code source - Official SVN repository is at https://svn.redmine.org/redmine - contact: @jbbarth or jeanbaptiste.barth (at) gmail (dot) com
+- [forem](https://github.com/forem/forem)
+  - For empowering community 🌱
+- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+- [18xx](https://github.com/tobymao/18xx)
+  - A platform for playing 18xx games online!
+- [view_component](https://github.com/github/view_component)
+  - View components for Rails
+- [canvas-lms](https://github.com/instructure/canvas-lms)
+  - The open LMS by Instructure, Inc.
+- [rubocop](https://github.com/rubocop-hq/rubocop)
+  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+- [mastodon](https://github.com/tootsuite/mastodon)
+  - Your self-hosted, globally interconnected microblogging community
+- [openproject](https://github.com/opf/openproject)
+  - OpenProject is the leading open source project management software.
+- [pry](https://github.com/pry/pry)
+  - A runtime developer console and IRB alternative with powerful introspection capabilities.
+- [homebrew-emacs-plus](https://github.com/d12frosted/homebrew-emacs-plus)
+  - Emacs Plus formulae for the Homebrew package manager
+- [evil-winrm](https://github.com/Hackplayers/evil-winrm)
+  - The ultimate WinRM shell for hacking/pentesting
