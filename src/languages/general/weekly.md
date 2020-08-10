@@ -1,50 +1,50 @@
 # general
-- [gpt3-sandbox](https://github.com/shreyashankar/gpt3-sandbox) : JavaScript
-  - The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.
-- [mirai](https://github.com/mamoe/mirai) : 
+- [TDengine](https://github.com/taosdata/TDengine) : C
+  - An open-source big data platform designed and optimized for the Internet of Things (IoT).
+- [rome](https://github.com/romefrontend/rome) : TypeScript
+  - The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) : Jupyter Notebook
   - This repository contains the source code for the paper First Order Motion Model for Image Animation
-- [ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) : C++
-  - ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
-- [covid-alert-app](https://github.com/cds-snc/covid-alert-app) : TypeScript
-  - Exposure notification client application / Application client de notification d'exposition
-- [androidx](https://github.com/androidx/androidx) : Java
-  - Development environment for Jetpack Android extension libraries. Synchronized with Jetpack's primary development branch on AOSP.
-- [clutch](https://github.com/lyft/clutch) : Go
-  - Extensible platform for infrastructure management
-- [hello-algorithm](https://github.com/geekxh/hello-algorithm) : Vue
-  - 🙈🙉🙊 本项目包括：1、我写的三十万字图解算法题典 2、100 张 IT 相关超清思维导图 3、100 篇大厂面经汇总 4、各语言编程电子书 100 本 5、English version supported !!! 🚀🚀 国人项目上榜首不易，右上角助力一波！干就对了，奥利给 ！🚀🚀
-- [RxSwift](https://github.com/ReactiveX/RxSwift) : Swift
-  - Reactive Programming in Swift
-- [interviews](https://github.com/kdn251/interviews) : Java
-  - Everything you need to know to get the job.
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [arrow](https://github.com/apache/arrow) : C++
-  - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…
-- [formik](https://github.com/formium/formik) : TypeScript
-  - Build forms in React, without the tears 😭
-- [java-design-patterns](https://github.com/iluwatar/java-design-patterns) : Java
-  - Design patterns implemented in Java
-- [cilium](https://github.com/cilium/cilium) : Go
-  - eBPF-based Networking, Security, and Observability
-- [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) : Objective-C
-  - Mac版微信的功能拓展(A plugin for Mac WeChat)
-- [envoy](https://github.com/envoyproxy/envoy) : C++
-  - Cloud-native high-performance edge/middle/service proxy
-- [rengine](https://github.com/yogeshojha/rengine) : JavaScript
-  - reNgine is an automated reconnaissance framework meant for gathering information during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
-- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) : JavaScript
-  - ⚡ Dynamically generated stats for your github readmes
-- [Marlin](https://github.com/MarlinFirmware/Marlin) : C++
-  - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
-- [metersphere](https://github.com/metersphere/metersphere) : Java
-  - An open source continuous testing platform. MeterSphere 是一站式的开源企业级持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能，全面兼容 JMeter、Postman 等开源、主流标准。
-- [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) : Python
-  - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
-- [cutter](https://github.com/radareorg/cutter) : C++
-  - Free and Open Source Reverse Engineering Platform powered by radare2
-- [serverless-application-model](https://github.com/awslabs/serverless-application-model) : Python
-  - AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications
-- [json](https://github.com/nlohmann/json) : C++
-  - JSON for Modern C++
+- [bashtop](https://github.com/aristocratos/bashtop) : Shell
+  - Linux/OSX/FreeBSD resource monitor
+- [fhe-toolkit-linux](https://github.com/IBM/fhe-toolkit-linux) : C++
+  - IBM Fully Homomorphic Encryption Toolkit For Linux. This toolkit is a Linux based Docker container that demonstrates computing on encrypted data without decrypting it! The toolkit ships with two demos including a fully encrypted Machine Learning inference with a Neural Network and a Privacy-Preserving key-value search.
+- [simdjson](https://github.com/simdjson/simdjson) : C++
+  - Parsing gigabytes of JSON per second
+- [lombok-intellij-plugin](https://github.com/mplushnikov/lombok-intellij-plugin) : Java
+  - Lombok Plugin for IntelliJ IDEA
+- [PowerJob](https://github.com/KFCFans/PowerJob) : Java
+  - Powerful distributed job scheduling middleware that supports CRON, API, fixed frequency, fixed delay and other scheduling strategies, provides workflow to choreograph jobs to resolve dependencies, supports distributed computing of tasks, simple to use, powerful, well-documented, welcome you to access to use!
+- [mirai](https://github.com/mamoe/mirai) : 
+- [rustlings](https://github.com/rust-lang/rustlings) : Rust
+  - 🦀 Small exercises to get you used to reading and writing Rust code!
+- [Java](https://github.com/TheAlgorithms/Java) : Java
+  - All Algorithms implemented in Java
+- [bat](https://github.com/sharkdp/bat) : Rust
+  - A cat(1) clone with wings.
+- [Alamofire](https://github.com/Alamofire/Alamofire) : Swift
+  - Elegant HTTP Networking in Swift
+- [react-native](https://github.com/facebook/react-native) : JavaScript
+  - A framework for building native apps with React.
+- [nushell](https://github.com/nushell/nushell) : Rust
+  - A new type of shell
+- [prefect](https://github.com/PrefectHQ/prefect) : Python
+  - The easiest way to automate your data
+- [substrate](https://github.com/paritytech/substrate) : Rust
+  - Substrate: The platform for blockchain innovators
+- [julia](https://github.com/JuliaLang/julia) : Julia
+  - The Julia Language: A fresh approach to technical computing.
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) : JavaScript
+  - ✅ The Node.js best practices list (August 2020)
+- [drawio](https://github.com/jgraph/drawio) : JavaScript
+  - Source to app.diagrams.net
+- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) : JavaScript
+  - Revive unavailable songs for Netease Cloud Music
+- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) : Jupyter Notebook
+  - Python - 100天从新手到大师
+- [docusaurus](https://github.com/facebook/docusaurus) : JavaScript
+  - Easy to maintain open source documentation websites.
+- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) : Vue
+  - 🚀vue-admin-beautiful是一款基于vue+element-ui的绝佳的中后台前端开发管理框架（基于vue/cli 4 最新版，同时支持电脑，手机，平板）,他同时是拥有100+页面的大型vue前端单页应用,长期更新维护,感谢您的star,我一直在努力 Vue admin beautiful is an excellent front-end development framework (supporting computers, mobile phones and tablets at the same time), long-term update and maintenance, thank you for your star, I have been workin…
+- [polkadot](https://github.com/paritytech/polkadot) : Rust
+  - Polkadot Node Implementation

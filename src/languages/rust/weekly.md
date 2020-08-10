@@ -1,51 +1,51 @@
 # rust
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
-- [RustScan](https://github.com/RustScan/RustScan)
-  - Faster Nmap Scanning with Rust
+- [rustlings](https://github.com/rust-lang/rustlings)
+  - 🦀 Small exercises to get you used to reading and writing Rust code!
 - [bat](https://github.com/sharkdp/bat)
   - A cat(1) clone with wings.
-- [delta](https://github.com/dandavison/delta)
-  - A viewer for git and diff output
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [spotify-tui](https://github.com/Rigellute/spotify-tui)
-  - Spotify for the terminal written in Rust 🚀
-- [firecracker](https://github.com/firecracker-microvm/firecracker)
-  - Secure and fast microVMs for serverless computing.
-- [exa](https://github.com/ogham/exa)
-  - A modern version of ‘ls’.
-- [fd](https://github.com/sharkdp/fd)
-  - A simple, fast and user-friendly alternative to 'find'
-- [ytop](https://github.com/cjbassi/ytop)
-  - A TUI system monitor written in Rust
-- [amethyst](https://github.com/amethyst/amethyst)
-  - Data-oriented and data-driven game engine written in Rust
-- [swc](https://github.com/swc-project/swc)
-  - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
-  - Unofficial Bitwarden compatible server written in Rust
-- [rust-blog](https://github.com/pretzelhammer/rust-blog)
-  - Educational blog posts for Rust beginners
 - [nushell](https://github.com/nushell/nushell)
   - A new type of shell
-- [image](https://github.com/image-rs/image)
-  - Encoding and decoding images in Rust
-- [oakc](https://github.com/adam-mcdaniel/oakc)
-  - A portable programming language with a compact intermediate representation
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
 - [polkadot](https://github.com/paritytech/polkadot)
   - Polkadot Node Implementation
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-  - A curated list of Rust code and resources.
+- [exa](https://github.com/ogham/exa)
+  - A modern version of ‘ls’.
+- [delta](https://github.com/dandavison/delta)
+  - A viewer for git and diff output
 - [openethereum](https://github.com/openethereum/openethereum)
   - The fast, light, and robust client for Ethereum-like networks.
-- [ballista](https://github.com/ballista-compute/ballista)
-  - Distributed compute platform implemented in Rust, using Apache Arrow memory model.
+- [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust)
+  - A Rust port of shadowsocks
+- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+  - 📚 Learn to write an embedded OS in Rust 🦀
+- [fd](https://github.com/sharkdp/fd)
+  - A simple, fast and user-friendly alternative to 'find'
+- [lighthouse](https://github.com/sigp/lighthouse)
+  - Rust Ethereum 2.0 Client
+- [996.ICU](https://github.com/996icu/996.ICU)
+  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [ytop](https://github.com/cjbassi/ytop)
+  - A TUI system monitor written in Rust
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [alacritty](https://github.com/alacritty/alacritty)
+  - A cross-platform, GPU-accelerated terminal emulator
+- [swc](https://github.com/swc-project/swc)
+  - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
+- [Spartan](https://github.com/microsoft/Spartan)
+  - Spartan: High-speed zkSNARKs without trusted setup
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [tokei](https://github.com/XAMPPRocky/tokei)
+  - Count your code, quickly.
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [libra](https://github.com/libra/libra)
   - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [tracing](https://github.com/tokio-rs/tracing)
-  - Application level tracing for Rust.
+- [headcrab](https://github.com/headcrab-rs/headcrab)
+  - A modern Rust debugging library 🦀
+- [rusoto](https://github.com/rusoto/rusoto)
+  - AWS SDK for Rust

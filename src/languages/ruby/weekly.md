@@ -1,51 +1,51 @@
 # ruby
-- [OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)
-  - 📙 OSCP Exam Report Template in Markdown
+- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+  - A curated list of awesome awesomeness
 - [explore](https://github.com/github/explore)
   - Community-curated topic and collection pages on GitHub
 - [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
   - A curated list of engineering blogs
-- [sidekiq](https://github.com/mperham/sidekiq)
-  - Simple, efficient background processing for Ruby
-- [devise](https://github.com/heartcombo/devise)
-  - Flexible authentication solution for Rails with Warden.
-- [faker](https://github.com/faker-ruby/faker)
-  - A library for generating fake data such as names, addresses, and phone numbers.
 - [rails](https://github.com/rails/rails)
   - Ruby on Rails
-- [choosealicense.com](https://github.com/github/choosealicense.com)
-  - A site to provide non-judgmental guidance on choosing a license for your open source project
-- [fluentd](https://github.com/fluent/fluentd)
-  - Fluentd: Unified Logging Layer (project under CNCF)
-- [fastlane](https://github.com/fastlane/fastlane)
-  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [pghero](https://github.com/ankane/pghero)
-  - A performance dashboard for Postgres
-- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
-  - The Cocoa Dependency Manager.
-- [searchkick](https://github.com/ankane/searchkick)
-  - Intelligent search made easy with Rails and Elasticsearch
-- [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails)
-  - Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
-- [dependabot-core](https://github.com/dependabot/dependabot-core)
-  - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot
 - [vagrant](https://github.com/hashicorp/vagrant)
   - Vagrant is a tool for building and distributing development environments.
-- [mastodon](https://github.com/tootsuite/mastodon)
-  - Your self-hosted, globally interconnected microblogging community
-- [jekyll](https://github.com/jekyll/jekyll)
-  - 🌐 Jekyll is a blog-aware static site generator in Ruby
-- [logstash](https://github.com/elastic/logstash)
-  - Logstash - transport and process your logs, events, or other data
+- [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator)
+  - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [fast_jsonapi](https://github.com/Netflix/fast_jsonapi)
   - A lightning fast JSON:API serializer for Ruby Objects.
+- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
+  - Ruby implementation of GraphQL
+- [logstash](https://github.com/elastic/logstash)
+  - Logstash - transport and process your logs, events, or other data
+- [pundit](https://github.com/varvet/pundit)
+  - Minimal authorization through OO design and pure Ruby classes
 - [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
   - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-- [chatwoot](https://github.com/chatwoot/chatwoot)
-  - Open-source live chat software 🔥💬
+- [faker](https://github.com/faker-ruby/faker)
+  - A library for generating fake data such as names, addresses, and phone numbers.
+- [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch)
+  - Ansible playbook for Elasticsearch
 - [liquid](https://github.com/Shopify/liquid)
   - Liquid markup language. Safe, customer facing template language for flexible web apps.
+- [gitlabhq](https://github.com/gitlabhq/gitlabhq)
+  - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
 - [rubocop](https://github.com/rubocop-hq/rubocop)
   - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [rswag](https://github.com/rswag/rswag)
-  - Seamlessly adds a Swagger to Rails-based API's
+- [noticed](https://github.com/excid3/noticed)
+  - Notifications for Ruby on Rails applications
+- [brakeman](https://github.com/presidentbeef/brakeman)
+  - A static analysis security vulnerability scanner for Ruby on Rails applications
+- [devise](https://github.com/heartcombo/devise)
+  - Flexible authentication solution for Rails with Warden.
+- [fastlane](https://github.com/fastlane/fastlane)
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [prawn](https://github.com/prawnpdf/prawn)
+  - Fast, Nimble PDF Writer for Ruby
+- [choosealicense.com](https://github.com/github/choosealicense.com)
+  - A site to provide non-judgmental guidance on choosing a license for your open source project
+- [simple_form](https://github.com/heartcombo/simple_form)
+  - Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
+- [solidus](https://github.com/solidusio/solidus)
+  - 🛒Solidus, Rails eCommerce System
+- [factory_bot](https://github.com/thoughtbot/factory_bot)
+  - A library for setting up Ruby objects as test data.
