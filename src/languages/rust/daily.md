@@ -1,51 +1,51 @@
 # rust
-- [juniper](https://github.com/graphql-rust/juniper)
-  - GraphQL server library for Rust
-- [crush](https://github.com/liljencrantz/crush)
-  - Crush is an attempt to make a command line shell that is also a powerful modern programming language.
-- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
-  - Rust bindings to wgpu native library
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust)
-  - A Rust port of shadowsocks
-- [winit](https://github.com/rust-windowing/winit)
-  - Window handling library in pure Rust
-- [solana](https://github.com/solana-labs/solana)
-  - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
-  - 📚 Learn to write an embedded OS in Rust 🦀
-- [amethyst](https://github.com/amethyst/amethyst)
-  - Data-oriented and data-driven game engine written in Rust
-- [tui-rs](https://github.com/fdehau/tui-rs)
-  - Build terminal user interfaces and dashboards using Rust
-- [polkadot](https://github.com/paritytech/polkadot)
-  - Polkadot Node Implementation
-- [iced](https://github.com/hecrj/iced)
-  - A cross-platform GUI library for Rust, inspired by Elm
-- [nushell](https://github.com/nushell/nushell)
-  - A new type of shell
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
-  - Facilitating high-level interactions between Wasm modules and JavaScript
-- [spotifyd](https://github.com/Spotifyd/spotifyd)
-  - A spotify daemon
-- [TLS-poison](https://github.com/jmdx/TLS-poison)
-  - 
-- [druid](https://github.com/linebender/druid)
-  - A data-first Rust-native UI design toolkit.
-- [book](https://github.com/rust-lang/book)
-  - The Rust Programming Language
+- [orbtk](https://github.com/redox-os/orbtk)
+  - The Rust UI-Toolkit.
+- [rustfmt](https://github.com/rust-lang/rustfmt)
+  - Format Rust code
 - [vector](https://github.com/timberio/vector)
   - A lightweight and ultra-fast router for building observability pipelines
+- [firecracker](https://github.com/firecracker-microvm/firecracker)
+  - Secure and fast microVMs for serverless computing.
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
+- [amethyst](https://github.com/amethyst/amethyst)
+  - Data-oriented and data-driven game engine written in Rust
+- [996.ICU](https://github.com/996icu/996.ICU)
+  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [winit](https://github.com/rust-windowing/winit)
+  - Window handling library in pure Rust
+- [aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime)
+  - A Rust runtime for AWS Lambda
+- [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
+  - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
+- [druid](https://github.com/linebender/druid)
+  - A data-first Rust-native UI design toolkit.
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
   - A curated list of Rust code and resources.
+- [mdBook](https://github.com/rust-lang/mdBook)
+  - Create book from markdown files. Like Gitbook but implemented in Rust
+- [raft-rs](https://github.com/tikv/raft-rs)
+  - Raft distributed consensus algorithm implemented in Rust.
+- [juniper](https://github.com/graphql-rust/juniper)
+  - GraphQL server library for Rust
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - ripgrep recursively searches directories for a regex pattern
+- [sqlx](https://github.com/launchbadge/sqlx)
+  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+- [hyper](https://github.com/hyperium/hyper)
+  - An HTTP library for Rust
+- [paris](https://github.com/0x20F/paris)
+  - Logger in Rust for pretty colors and text in the terminal. Aiming for a relatively simple API
 - [findomain](https://github.com/Edu4rdSHL/findomain)
   - The fastest and cross-platform subdomain enumerator, do not waste your time.
-- [wgpu](https://github.com/gfx-rs/wgpu)
-  - Native WebGPU implementation based on gfx-hal
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [indy-sdk](https://github.com/hyperledger/indy-sdk)
+  - Everything needed to build applications that interact with an Indy distributed identity ledger.
+- [swc](https://github.com/swc-project/swc)
+  - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
+- [solana](https://github.com/solana-labs/solana)
+  - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+- [ruffle](https://github.com/ruffle-rs/ruffle)
+  - A Flash Player emulator written in Rust
