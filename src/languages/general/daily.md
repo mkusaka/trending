@@ -1,49 +1,51 @@
 # general
-- [rome](https://github.com/romefrontend/rome) : TypeScript
-  - The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
+- [pyre-check](https://github.com/facebook/pyre-check) : OCaml
+  - Performant type-checking for python.
 - [prefect](https://github.com/PrefectHQ/prefect) : Python
   - The easiest way to automate your data
-- [bluezone-app](https://github.com/BluezoneGlobal/bluezone-app) : JavaScript
-  - Bluezone - Bảo vệ mình, bảo vệ cộng đồng
+- [fast](https://github.com/microsoft/fast) : TypeScript
+  - The adaptive interface system  for modern web experiences.
+- [heroicons](https://github.com/tailwindlabs/heroicons) : JavaScript
+  - A set of free MIT-licensed high-quality SVG icons for UI development.
+- [Noctilucent](https://github.com/SixGenInc/Noctilucent) : Go
+  - Using TLS 1.3 to evade censors, bypass network defenses, and blend in with the noise
+- [rancher](https://github.com/rancher/rancher) : Go
+  - Complete container management platform
+- [archive-program](https://github.com/github/archive-program) : 
+  - The GitHub Archive Program & Arctic Code Vault
+- [IntelOwl](https://github.com/intelowlproject/IntelOwl) : Python
+  - Intel Owl: analyze files, domains, IPs in multiple ways from a single API at scale
+- [data-science](https://github.com/ossu/data-science) : 
+  - 📊 Path to a free self-taught education in Data Science!
+- [awesome-system-design](https://github.com/madd86/awesome-system-design) : 
+  - A curated list of awesome System Design (A.K.A. Distributed Computing) resources.
+- [app-ideas](https://github.com/florinpop17/app-ideas) : 
+  - A Collection of application ideas which can be used to improve your coding skills.
+- [LeetCode](https://github.com/yuanguangxin/LeetCode) : Java
+  - LeetCode刷题记录
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
+  - 🤓 Build your own (insert technology here)
+- [applied-ml](https://github.com/eugeneyan/applied-ml) : 
+  - 📚 Papers & articles of companies sharing their work on applied data science & machine learning.
+- [streisand](https://github.com/StreisandEffect/streisand) : Shell
+  - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
+- [rome](https://github.com/romefrontend/rome) : TypeScript
+  - The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
+- [my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) : Shell
+  - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
+- [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) : 
+  - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 - [AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) : Python
   - [Open Source]. The improved version of AnimeGAN.
 - [macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) : Vue
   - Replacement icons for popular apps in the style of macOS Big Sur
+- [malwoverview](https://github.com/alexandreborges/malwoverview) : Python
+  - Malwoverview is a first response tool to perform an initial and quick triage in a directory containing malware samples, specific malware sample, suspect URL and domains. Additionally, it allows to download and send samples to main online sandboxes.
+- [datasets](https://github.com/unsplash/datasets) : Jupyter Notebook
+  - 🎁 2,000,000+ Unsplash images made available for research and machine learning
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
   - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [nodejs-zoom-clone](https://github.com/CleverProgrammers/nodejs-zoom-clone) : JavaScript
-- [lede](https://github.com/coolsnowwolf/lede) : C
-  - Lean's OpenWrt source
-- [awesome-system-design](https://github.com/madd86/awesome-system-design) : 
-  - A curated list of awesome system design mateiral
-- [InvoiceNet](https://github.com/naiveHobo/InvoiceNet) : Python
-  - Deep neural network to extract intelligent information from invoice documents.
+- [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days) : Python
+  - Pytorch🍊🍉 is delicious, just eat it! 😋😋
 - [TikTok-Shares-Botter](https://github.com/zoony1337/TikTok-Shares-Botter) : Python
   - Adds TikTok Shares for you.
-- [heroicons](https://github.com/tailwindlabs/heroicons) : JavaScript
-  - A set of free MIT-licensed high-quality SVG icons for UI development.
-- [core](https://github.com/home-assistant/core) : Python
-  - 🏡 Open source home automation that puts local control and privacy first
-- [my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) : Shell
-  - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [fast](https://github.com/microsoft/fast) : TypeScript
-  - The adaptive interface system  for modern web experiences.
-- [pyre-check](https://github.com/facebook/pyre-check) : OCaml
-  - Performant type-checking for python.
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
-  - 🤓 Build your own (insert technology here)
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) : JavaScript
-  - ✅ The Node.js best practices list (August 2020)
-- [twitter-clone](https://github.com/CleverProgrammers/twitter-clone) : JavaScript
-- [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) : TypeScript
-  - Generate responsive pages and apps on Tailwind, Flutter and SwiftUI.
-- [public-apis](https://github.com/public-apis/public-apis) : Python
-  - A collective list of free APIs for use in software and web development.
-- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) : 
-  - 🔗 Some useful websites for programmers.
-- [data-science](https://github.com/ossu/data-science) : 
-  - 📊 Path to a free self-taught education in Data Science!
-- [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) : 
-  - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning

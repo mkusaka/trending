@@ -1,51 +1,51 @@
 # typescript
-- [rome](https://github.com/romefrontend/rome)
-  - The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [fast](https://github.com/microsoft/fast)
   - The adaptive interface system  for modern web experiences.
-- [FigmaToCode](https://github.com/bernaferrari/FigmaToCode)
-  - Generate responsive pages and apps on Tailwind, Flutter and SwiftUI.
-- [PeerTube](https://github.com/Chocobozzz/PeerTube)
-  - ActivityPub-federated video streaming platform using P2P directly in your web browser
-- [blitz](https://github.com/blitz-js/blitz)
-  - ⚡️The Fullstack React Framework — built on Next.js
+- [rome](https://github.com/romefrontend/rome)
+  - The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui)
+  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [kibana](https://github.com/elastic/kibana)
   - Your window into the Elastic Stack
-- [angularfire](https://github.com/angular/angularfire)
-  - The official Angular library for Firebase.
-- [angular-cli](https://github.com/angular/angular-cli)
-  - CLI tool for Angular
-- [ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste)
-  - Cut and paste your surroundings using AR
-- [shell](https://github.com/pop-os/shell)
-  - Pop!_OS Shell
-- [gpt-explorer](https://github.com/belay-labs/gpt-explorer)
-  - GPT-3 Explorer
-- [assets](https://github.com/trustwallet/assets)
-  - 
-- [excalidraw](https://github.com/excalidraw/excalidraw)
-  - Virtual whiteboard for sketching hand-drawn like diagrams
-- [prisma-examples](https://github.com/prisma/prisma-examples)
-  - 🚀 Ready-to-run Prisma example projects
-- [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper)
-  - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
-- [TypeScript](https://github.com/microsoft/TypeScript)
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [ever](https://github.com/ever-co/ever)
-  - Ever® - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
+- [FigmaToCode](https://github.com/bernaferrari/FigmaToCode)
+  - Generate responsive pages and apps on Tailwind, Flutter and SwiftUI.
+- [nx](https://github.com/nrwl/nx)
+  - Extensible Dev Tools for Monorepos
+- [xstate](https://github.com/davidkpiano/xstate)
+  - State machines and statecharts for the modern web.
+- [kowl](https://github.com/cloudhut/kowl)
+  - Kafka WebUI for exploring messages, consumers. configurations and more with a focus on a good UI & UX.
+- [react-navigation](https://github.com/react-navigation/react-navigation)
+  - Routing and navigation for your React Native apps
+- [azuredatastudio](https://github.com/microsoft/azuredatastudio)
+  - Azure Data Studio is a data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
+- [moveable](https://github.com/daybrush/moveable)
+  - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
+- [playwright](https://github.com/microsoft/playwright)
+  - Node.js library to automate Chromium, Firefox and WebKit with a single API
+- [zustand](https://github.com/react-spring/zustand)
+  - 🐻 Bear necessities for state management in React
+- [stencil](https://github.com/ionic-team/stencil)
+  - A Web Component compiler for building fast, reusable UI components and static site generated Progressive Web Apps
+- [aws-cdk](https://github.com/aws/aws-cdk)
+  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+- [davinci](https://github.com/edp963/davinci)
+  - Davinci is a DVsaaS (Data Visualization as a Service) Platform
 - [uniswap-v2-core](https://github.com/Uniswap/uniswap-v2-core)
   - 🎛 Core smart contracts of Uniswap V2
-- [uniswap-interface](https://github.com/Uniswap/uniswap-interface)
-  - 🦄 An open source interface for the Uniswap protocol
-- [code-server](https://github.com/cdr/code-server)
-  - VS Code in the browser
-- [vscode](https://github.com/microsoft/vscode)
-  - Visual Studio Code
-- [instagram-private-api](https://github.com/dilame/instagram-private-api)
-  - NodeJS Instagram private API client. Written in TypeScript.
-- [deno](https://github.com/denoland/deno)
-  - A secure JavaScript and TypeScript runtime
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
-  - 📋 React Hooks for forms validation (Web + React Native)
-- [proffy](https://github.com/pmqueiroz/proffy)
-  - Online teaching platform made with React.js and React Native using Typescript during the NLW (Next Level Week) #02 🚀
+- [ionic-framework](https://github.com/ionic-team/ionic-framework)
+  - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+- [formik](https://github.com/formium/formik)
+  - Build forms in React, without the tears 😭
+- [tinacms](https://github.com/tinacms/tinacms)
+  - Tina is a toolkit for building content management systems directly into websites made with React (Gatsby and Next.js)
+- [fluentui](https://github.com/microsoft/fluentui)
+  - We've moved! UI Fabric is now Fluent UI - A set of React components for building Microsoft web experiences.
+- [recharts](https://github.com/recharts/recharts)
+  - Redefined chart library built with React and D3
+- [snyk](https://github.com/snyk/snyk)
+  - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
+- [ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste)
+  - Cut and paste your surroundings using AR
+- [apollo-client](https://github.com/apollographql/apollo-client)
+  - 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
