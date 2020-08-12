@@ -1,51 +1,51 @@
 # go
 - [Noctilucent](https://github.com/SixGenInc/Noctilucent)
   - Using TLS 1.3 to evade censors, bypass network defenses, and blend in with the noise
+- [aws-vault](https://github.com/99designs/aws-vault)
+  - A vault for securely storing and accessing AWS credentials in development environments
+- [ent](https://github.com/facebookincubator/ent)
+  - An entity framework for Go
+- [go-swagger](https://github.com/go-swagger/go-swagger)
+  - Swagger 2.0 implementation for go
+- [terraform](https://github.com/hashicorp/terraform)
+  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [cadence](https://github.com/uber/cadence)
+  - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
+- [chromedp](https://github.com/chromedp/chromedp)
+  - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
+- [dashboard](https://github.com/kubernetes/dashboard)
+  - General-purpose web UI for Kubernetes clusters
 - [rancher](https://github.com/rancher/rancher)
   - Complete container management platform
-- [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)
-  - Kubebuilder - SDK for building Kubernetes APIs using CRDs
-- [go-zero](https://github.com/tal-tech/go-zero)
-  - go-zero是一个集成了各种工程实践的web和rpc框架。通过弹性设计保障了大并发服务端的稳定性，经受了充分的实战检验。包含极简的API定义和生成工具，可以一键生成Go, iOS, Android, Dart, TypeScript, JavaScript代码，并可直接运行。
-- [excelize](https://github.com/360EntSecGroup-Skylar/excelize)
-  - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
+- [consul](https://github.com/hashicorp/consul)
+  - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+- [annie](https://github.com/iawia002/annie)
+  - 👾 Fast, simple and clean video downloader
+- [govalidator](https://github.com/asaskevich/govalidator)
+  - [Go] Package of validators and sanitizers for strings, numerics, slices and structs
+- [psiphon-tunnel-core](https://github.com/Psiphon-Labs/psiphon-tunnel-core)
+  - Psiphon is an Internet censorship circumvention system.
+- [go-github](https://github.com/google/go-github)
+  - Go library for accessing the GitHub API
+- [moby](https://github.com/moby/moby)
+  - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [argo-cd](https://github.com/argoproj/argo-cd)
+  - Declarative continuous deployment for Kubernetes.
 - [nats-server](https://github.com/nats-io/nats-server)
   - High-Performance server for NATS, the cloud native messaging system.
-- [argo](https://github.com/argoproj/argo)
-  - Argo Workflows: Get stuff done with Kubernetes.
-- [livego](https://github.com/gwuhaolin/livego)
-  - live video streaming server in golang
-- [GolangTraining](https://github.com/GoesToEleven/GolangTraining)
-  - Training for Golang (go language)
-- [chainlink](https://github.com/smartcontractkit/chainlink)
-  - node of the decentralized oracle network, bridging on and off-chain computation
+- [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)
+  - Kubebuilder - SDK for building Kubernetes APIs using CRDs
+- [logrus](https://github.com/sirupsen/logrus)
+  - Structured, pluggable logging for Go.
+- [origin](https://github.com/openshift/origin)
+  - Conformance test suite for OpenShift
+- [singularity](https://github.com/hpcng/singularity)
+  - Singularity: Application containers for Linux
+- [badger](https://github.com/dgraph-io/badger)
+  - Fast key-value DB in Go.
 - [istio](https://github.com/istio/istio)
   - Connect, secure, control, and observe services.
-- [olric](https://github.com/buraksezer/olric)
-  - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
-- [groupcache](https://github.com/golang/groupcache)
-  - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
-- [rclone](https://github.com/rclone/rclone)
-  - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
-- [velero](https://github.com/vmware-tanzu/velero)
-  - Backup and migrate Kubernetes applications and their persistent volumes
-- [Cloak](https://github.com/cbeuw/Cloak)
-  - A censorship circumvention tool to evade detection against state adversaries
-- [cortex](https://github.com/cortexproject/cortex)
-  - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
-- [mux](https://github.com/gorilla/mux)
-  - A powerful HTTP router and URL matcher for building Go web servers with 🦍
-- [chat](https://github.com/tinode/chat)
-  - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
-- [ngrok](https://github.com/inconshreveable/ngrok)
-  - Introspected tunnels to localhost
-- [migrate](https://github.com/golang-migrate/migrate)
-  - Database migrations. CLI and Golang library.
-- [nvm-windows](https://github.com/coreybutler/nvm-windows)
-  - A node.js version management utility for Windows. Ironically written in Go.
-- [origin](https://github.com/openshift/origin)
-  - Images for OpenShift 3 and 4 - see openshift/okd for more
-- [chaosmonkey](https://github.com/Netflix/chaosmonkey)
-  - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
-- [nakama](https://github.com/heroiclabs/nakama)
-  - Distributed server for social and realtime games and apps.
+- [mock](https://github.com/golang/mock)
+  - GoMock is a mocking framework for the Go programming language.
+- [podman](https://github.com/containers/podman)
+  - Podman: A tool for managing OCI containers and pods
