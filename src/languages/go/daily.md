@@ -1,51 +1,51 @@
 # go
 - [go-github](https://github.com/google/go-github)
   - Go library for accessing the GitHub API
-- [eventnative](https://github.com/ksensehq/eventnative)
-  - EventNative is an open-source data collection framework
-- [alertmanager](https://github.com/prometheus/alertmanager)
-  - Prometheus Alertmanager
-- [chainlink](https://github.com/smartcontractkit/chainlink)
-  - node of the decentralized oracle network, bridging on and off-chain computation
-- [tidb](https://github.com/pingcap/tidb)
-  - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
-- [traefik](https://github.com/containous/traefik)
-  - The Cloud Native Edge Router
-- [k6](https://github.com/loadimpact/k6)
-  - A modern load testing tool, using Go and JavaScript - https://k6.io
-- [singularity](https://github.com/hpcng/singularity)
-  - Singularity: Application containers for Linux
-- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
-  - Terraform AWS provider
 - [terraform](https://github.com/hashicorp/terraform)
   - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [traefik](https://github.com/containous/traefik)
+  - The Cloud Native Edge Router
+- [test-infra](https://github.com/kubernetes/test-infra)
+  - Test infrastructure for the Kubernetes project.
+- [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
+  - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [redis](https://github.com/go-redis/redis)
   - Type-safe Redis client for Golang
-- [podman](https://github.com/containers/podman)
-  - Podman: A tool for managing OCI containers and pods
-- [vitess](https://github.com/vitessio/vitess)
-  - Vitess is a database clustering system for horizontal scaling of MySQL.
-- [argo](https://github.com/argoproj/argo)
-  - Argo Workflows: Get stuff done with Kubernetes.
-- [terraform-provider-ibm](https://github.com/IBM-Cloud/terraform-provider-ibm)
-  - Terraform IBM provider https://cloud.ibm.com/docs/terraform?topic=terraform-tf-provider
-- [nomad](https://github.com/hashicorp/nomad)
-  - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [yaml](https://github.com/go-yaml/yaml)
-  - YAML support for the Go language.
-- [beats](https://github.com/elastic/beats)
-  - 🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
-- [elastic](https://github.com/olivere/elastic)
-  - Elasticsearch client for Go.
-- [loki](https://github.com/grafana/loki)
-  - Like Prometheus, but for logs.
-- [prometheus](https://github.com/prometheus/prometheus)
-  - The Prometheus monitoring system and time series database.
-- [cortex](https://github.com/cortexproject/cortex)
-  - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
+- [micro](https://github.com/micro/micro)
+  - Micro is a framework for cloud native development
+- [soar](https://github.com/XiaoMi/soar)
+  - SQL Optimizer And Rewriter
+- [awesome-go](https://github.com/avelino/awesome-go)
+  - A curated list of awesome Go frameworks, libraries and software
+- [go-micro](https://github.com/micro/go-micro)
+  - A Go standard library for microservices
+- [kubernetes-ingress](https://github.com/nginxinc/kubernetes-ingress)
+  - NGINX and NGINX Plus Ingress Controllers for Kubernetes
+- [differential-privacy](https://github.com/google/differential-privacy)
+  - Google's differential privacy library.
+- [terratest](https://github.com/gruntwork-io/terratest)
+  - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [pd](https://github.com/pingcap/pd)
+  - Placement driver for TiKV
+- [go](https://github.com/golang/go)
+  - The Go programming language
+- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
+  - Terraform AWS provider
+- [protobuf](https://github.com/golang/protobuf)
+  - Go support for Google's protocol buffers
+- [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics)
+  - Add-on agent to generate and expose cluster-level metrics.
+- [k9s](https://github.com/derailed/k9s)
+  - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [fzf](https://github.com/junegunn/fzf)
+  - 🌸 A command-line fuzzy finder
 - [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm)
   - Terraform provider for Azure Resource Manager
-- [go-swagger](https://github.com/go-swagger/go-swagger)
-  - Swagger 2.0 implementation for go
-- [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics)
-  - VictoriaMetrics - fast, cost-effective and scalable time series database
+- [tidb](https://github.com/pingcap/tidb)
+  - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+- [mysql](https://github.com/go-sql-driver/mysql)
+  - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
+- [cli](https://github.com/cli/cli)
+  - GitHub’s official command line tool
+- [go-sqlmock](https://github.com/DATA-DOG/go-sqlmock)
+  - Sql mock driver for golang to test database interactions

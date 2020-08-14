@@ -1,51 +1,51 @@
 # javascript
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
   - 🛁 Clean Code concepts adapted for JavaScript
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [pdf.js](https://github.com/mozilla/pdf.js)
-  - PDF Reader in JavaScript
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [leetcode](https://github.com/azl397985856/leetcode)
+  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+- [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
+  - Microsoft Authentication Library (MSAL) for JS
+- [monaco-editor](https://github.com/microsoft/monaco-editor)
+  - A browser based code editor
 - [baiduwp](https://github.com/TkzcM/baiduwp)
   - PanDownload Web, built with CloudFlare Workers
-- [Chart.js](https://github.com/chartjs/Chart.js)
-  - Simple HTML5 Charts using the <canvas> tag
-- [next.js](https://github.com/vercel/next.js)
-  - The React Framework
-- [curso-javascript-ninja](https://github.com/da2k/curso-javascript-ninja)
-  - Curso Javascript Ninja
-- [tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
-  - 
-- [plyr](https://github.com/sampotts/plyr)
-  - A simple HTML5, YouTube and Vimeo player
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
-- [webpack](https://github.com/webpack/webpack)
-  - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
-- [react-sortable-tree](https://github.com/frontend-collective/react-sortable-tree)
-  - Drag-and-drop sortable component for nested data and hierarchies
-- [masterPortfolio](https://github.com/ashutosh1919/masterPortfolio)
-  - 🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.
-- [csgo_bugs](https://github.com/kkthxbye-code/csgo_bugs)
-  - Random CSGO stuff
-- [PNU_3983](https://github.com/AliRazavi-edu/PNU_3983)
-  - Summer Semester Courses 1399/2020
-- [in-quiz-questions](https://github.com/Ebazhanov/in-quiz-questions)
-  - Skill Linkedin quiz (Assessment) answers and questions (aws-lambda, rest-api, javascript, react, git, html, jquery, maven, mongodb, xml, java, css, python ...) ответы на квиз
-- [grapesjs](https://github.com/artf/grapesjs)
-  - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
-- [mermaid](https://github.com/mermaid-js/mermaid)
-  - Generation of diagram and flowchart from text in a similar manner as markdown
-- [create-react-app](https://github.com/facebook/create-react-app)
-  - Set up a modern web app by running one command.
-- [website](https://github.com/CodingTrain/website)
-  - The train engine powering the Coding Train website
-- [faker.js](https://github.com/Marak/faker.js)
-  - generate massive amounts of realistic fake data in Node.js and the browser
-- [knex](https://github.com/knex/knex)
-  - A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
+- [pdf.js](https://github.com/mozilla/pdf.js)
+  - PDF Reader in JavaScript
+- [flume](https://github.com/chrisjpatty/flume)
+  - Extract business logic from your apps with a user-friendly node editor powered by React.
+- [nuxt.js](https://github.com/nuxt/nuxt.js)
+  - The Intuitive Vue Framework
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [just-react](https://github.com/BetaSu/just-react)
+  - 「React技术揭秘」 一本自顶向下，从理念到代码的源码分析书
+- [node](https://github.com/nodejs/node)
+  - Node.js JavaScript runtime ✨🐢🚀✨
+- [hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
+  - Based on a true story
+- [api-platform](https://github.com/api-platform/api-platform)
+  - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
+- [hackathon-starter](https://github.com/sahat/hackathon-starter)
+  - A boilerplate for Node.js web applications
+- [bootstrap-select](https://github.com/snapappointments/bootstrap-select)
+  - 🚀 The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
+- [react-dropzone](https://github.com/react-dropzone/react-dropzone)
+  - Simple HTML5 drag-drop zone with React.js.
+- [carbon](https://github.com/carbon-design-system/carbon)
+  - A design system built by IBM
+- [oidc-client-js](https://github.com/IdentityModel/oidc-client-js)
+  - OpenID Connect (OIDC) and OAuth2 protocol support for browser-based JavaScript applications
+- [react-native-boilerplate](https://github.com/thecodingmachine/react-native-boilerplate)
+  - A React Native project template for building solid applications through separation of concerns between the UI, state management and business logic.
 - [vue](https://github.com/vuejs/vue)
   - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [FE-Interview](https://github.com/lgwebdream/FE-Interview)
-  - 前端面试必备题库，1000+面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器
+- [three.js](https://github.com/mrdoob/three.js)
+  - JavaScript 3D library.
+- [GrowersBrains](https://github.com/zero-to-mastery/GrowersBrains)
+  - 
+- [examples](https://github.com/serverless/examples)
+  - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
+- [rollup](https://github.com/rollup/rollup)
+  - Next-generation ES module bundler
+- [react-native-firebase](https://github.com/invertase/react-native-firebase)
+  - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
