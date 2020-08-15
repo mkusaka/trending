@@ -1,50 +1,51 @@
 # general
-- [yam-protocol](https://github.com/yam-finance/yam-protocol) : Solidity
-  - A stablizing reserve currency protocol
-- [bevy](https://github.com/bevyengine/bevy) : Rust
-  - A refreshingly simple data-driven game engine built in Rust
 - [go-github](https://github.com/google/go-github) : Go
   - Go library for accessing the GitHub API
-- [nodejs.dev](https://github.com/nodejs/nodejs.dev) : TypeScript
-  - A new Node.js resource built using Gatsby.js with React.js, TypeScript, Emotion, and Remark.
-- [computervision-recipes](https://github.com/microsoft/computervision-recipes) : Jupyter Notebook
-  - Best Practices, code samples, and documentation for Computer Vision.
-- [prefect](https://github.com/PrefectHQ/prefect) : Python
-  - The easiest way to automate your data
-- [KOOM](https://github.com/KwaiAppTeam/KOOM) : Java
-  - KOOM is an OOM killer on mobile platform by Kwai.
-- [eventnative](https://github.com/ksensehq/eventnative) : Go
-  - EventNative is an open-source data collection framework
-- [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) : Java
-  - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
-- [LeetCode](https://github.com/yuanguangxin/LeetCode) : Java
-  - LeetCode刷题记录
-- [halfmoon](https://github.com/halfmoonui/halfmoon) : CSS
-  - Front-end framework with a built-in dark mode, designed for rapidly building beautiful dashboards and product pages.
+- [jupyter-book](https://github.com/executablebooks/jupyter-book) : Python
+  - Build interactive, publication-quality documents from Jupyter Notebooks
 - [servo](https://github.com/servo/servo) : Rust
   - The Servo Browser Engine
+- [papercups](https://github.com/papercups-io/papercups) : Elixir
+  - Open-source live customer chat
+- [LeetCode](https://github.com/yuanguangxin/LeetCode) : Java
+  - LeetCode刷题记录
+- [computervision-recipes](https://github.com/microsoft/computervision-recipes) : Jupyter Notebook
+  - Best Practices, code samples, and documentation for Computer Vision.
+- [drogon](https://github.com/an-tao/drogon) : C++
+  - Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows
+- [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) : Java
+  - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
 - [storybook](https://github.com/storybookjs/storybook) : TypeScript
   - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
-- [datasets](https://github.com/unsplash/datasets) : Jupyter Notebook
-  - 🎁 2,000,000+ Unsplash images made available for research and machine learning
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
-  - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
-- [XamarinCommunityToolkit](https://github.com/xamarin/XamarinCommunityToolkit) : C#
-  - The Xamarin Community Toolkit is a collection of Animations, Behaviors, Converters, and Effects for mobile development with Xamarin.Forms. It simplifies and demonstrates common developer tasks building iOS, Android, and UWP apps with Xamarin.Forms.
 - [sherlock](https://github.com/sherlock-project/sherlock) : Python
   - 🔎 Hunt down social media accounts by username across social networks
+- [hutool](https://github.com/looly/hutool) : Java
+  - A set of tools that keep Java sweet.
+- [Pokedex](https://github.com/skydoves/Pokedex) : Kotlin
+  - 🗡️ Android Pokedex using Dagger Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
+- [OSCPRepo](https://github.com/rewardone/OSCPRepo) : C
+  - A list of commands, scripts, resources, and more that I have gathered and attempted to consolidate for use as OSCP (and more) study material. Commands in 'Usefulcommands' Keepnote. Bookmarks and reading material in 'BookmarkList' CherryTree. Reconscan Py2 and Py3. Custom ISO building.
 - [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) : Java
   - 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
-- [app-ideas](https://github.com/florinpop17/app-ideas) : 
-  - A Collection of application ideas which can be used to improve your coding skills.
+- [God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData) : 
+  - 大数据面试题，大数据成神之路开启...Flink/Spark/Hadoop/Hbase/Hive...
+- [Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC) : PowerShell
+  - 渗透测试有关的POC、EXP、脚本、提权、小工具等，欢迎补充、完善---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms
+- [TypeScript](https://github.com/microsoft/TypeScript) : TypeScript
+  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [halfmoon](https://github.com/halfmoonui/halfmoon) : CSS
+  - Front-end framework with a built-in dark mode, designed for rapidly building beautiful dashboards and product pages.
+- [laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices) : 
+  - Laravel best practices
 - [espflix](https://github.com/rossumur/espflix) : C
   - A free video streaming service that runs on a ESP32
-- [OpenJailbreak](https://github.com/GeoSn0w/OpenJailbreak) : C
-  - GeoSn0w's OpenJailbreak Project, an open-source iOS 11 to iOS 13 Jailbreak project & vault.
+- [yam-protocol](https://github.com/yam-finance/yam-protocol) : Solidity
+  - A stablizing reserve currency protocol
+- [Hierarchical-Localization](https://github.com/cvg/Hierarchical-Localization) : Python
+  - Visual localization made easy
+- [prefect](https://github.com/PrefectHQ/prefect) : Python
+  - The easiest way to automate your data
+- [fastbook](https://github.com/fastai/fastbook) : Jupyter Notebook
+  - Draft of the fastai book
 - [angular](https://github.com/angular/angular) : TypeScript
   - One framework. Mobile & desktop.
-- [gdshare](https://github.com/iwestlin/gdshare) : 
-- [data-science](https://github.com/ossu/data-science) : 
-  - 📊 Path to a free self-taught education in Data Science!
-- [awesome-java](https://github.com/Snailclimb/awesome-java) : 
-  - Collection of awesome Java project on Github(Github 上非常棒的 Java 开源项目集合).
