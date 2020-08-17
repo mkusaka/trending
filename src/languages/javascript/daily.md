@@ -1,51 +1,51 @@
 # javascript
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [leetcode](https://github.com/azl397985856/leetcode)
-  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
-- [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
-  - Microsoft Authentication Library (MSAL) for JS
-- [monaco-editor](https://github.com/microsoft/monaco-editor)
-  - A browser based code editor
-- [baiduwp](https://github.com/TkzcM/baiduwp)
-  - PanDownload Web, built with CloudFlare Workers
-- [pdf.js](https://github.com/mozilla/pdf.js)
-  - PDF Reader in JavaScript
-- [flume](https://github.com/chrisjpatty/flume)
-  - Extract business logic from your apps with a user-friendly node editor powered by React.
-- [nuxt.js](https://github.com/nuxt/nuxt.js)
-  - The Intuitive Vue Framework
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [just-react](https://github.com/BetaSu/just-react)
-  - 「React技术揭秘」 一本自顶向下，从理念到代码的源码分析书
-- [node](https://github.com/nodejs/node)
-  - Node.js JavaScript runtime ✨🐢🚀✨
-- [hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
-  - Based on a true story
-- [api-platform](https://github.com/api-platform/api-platform)
-  - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
-- [hackathon-starter](https://github.com/sahat/hackathon-starter)
-  - A boilerplate for Node.js web applications
-- [bootstrap-select](https://github.com/snapappointments/bootstrap-select)
-  - 🚀 The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
-- [react-dropzone](https://github.com/react-dropzone/react-dropzone)
-  - Simple HTML5 drag-drop zone with React.js.
-- [carbon](https://github.com/carbon-design-system/carbon)
-  - A design system built by IBM
-- [oidc-client-js](https://github.com/IdentityModel/oidc-client-js)
-  - OpenID Connect (OIDC) and OAuth2 protocol support for browser-based JavaScript applications
-- [react-native-boilerplate](https://github.com/thecodingmachine/react-native-boilerplate)
-  - A React Native project template for building solid applications through separation of concerns between the UI, state management and business logic.
-- [vue](https://github.com/vuejs/vue)
-  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [three.js](https://github.com/mrdoob/three.js)
-  - JavaScript 3D library.
-- [GrowersBrains](https://github.com/zero-to-mastery/GrowersBrains)
+- [desafio-1-2020](https://github.com/maratonadev-la/desafio-1-2020)
   - 
-- [examples](https://github.com/serverless/examples)
-  - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
-- [rollup](https://github.com/rollup/rollup)
-  - Next-generation ES module bundler
-- [react-native-firebase](https://github.com/invertase/react-native-firebase)
-  - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
+- [desafio-1-2020](https://github.com/maratonadev-br/desafio-1-2020)
+  - 
+- [mogollar](https://github.com/dashersw/mogollar)
+  - A MongoDB UI built with Electron
+- [youtube-clone-nodejs-api](https://github.com/techreagan/youtube-clone-nodejs-api)
+  - VueTube is a YouTube clone built with nodejs, expressjs & mongodb. This is the RESTful API repository.
+- [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+  - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [Universal-Bypass](https://github.com/Sainan/Universal-Bypass)
+  - Don't waste your time with compliance. Universal Bypass circumvents annoying link shorteners.
+- [react-redux-realworld-example-app](https://github.com/gothinkster/react-redux-realworld-example-app)
+  - Exemplary real world application built with React + Redux
+- [chatify](https://github.com/munafio/chatify)
+  - A package for Laravel PHP Framework to add a complete real-time chat system to your app by only a few steps.
+- [scripts](https://github.com/lxk0301/scripts)
+  - 京东薅羊毛工具（活动入口：京东app->我的->游戏与互动->查看更多）
+- [roadmap.sh](https://github.com/kamranahmedse/roadmap.sh)
+  - Community driven roadmaps, articles and resources for developers
+- [iptv](https://github.com/iptv-org/iptv)
+  - Collection of 8000+ publicly available IPTV channels from all over the world
+- [discord.js](https://github.com/discordjs/discord.js)
+  - A powerful JavaScript library for interacting with the Discord API
+- [in-quiz-questions](https://github.com/Ebazhanov/in-quiz-questions)
+  - Skill Linkedin quiz Assessment, answers and questions (aws-lambda, rest-api, javascript, react, git, html, jquery, maven, mongodb, xml, java, css, python ...) ответы на квиз
+- [webtorrent](https://github.com/webtorrent/webtorrent)
+  - ⚡️ Streaming torrent client for the web
+- [realworld](https://github.com/gothinkster/realworld)
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+  - ✅ The Node.js best practices list (August 2020)
+- [joplin](https://github.com/laurent22/joplin)
+  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [shapez.io](https://github.com/tobspr/shapez.io)
+  - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
+- [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
+  - A collection of awesome readme templates to display on your profile
+- [reaction](https://github.com/reactioncommerce/reaction)
+  - Reaction is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes.
+- [amis-editor](https://github.com/fex-team/amis-editor)
+  - amis 可视化编辑器在线工具 http://fex-team.github.io/amis-editor
+- [react](https://github.com/typescript-cheatsheets/react)
+  - Cheatsheets for experienced React developers getting started with TypeScript
+- [Android-PS4-Exploit-Host](https://github.com/Saad-Alareqi/Android-PS4-Exploit-Host)
+  - 
+- [gpt3-sandbox](https://github.com/shreyashankar/gpt3-sandbox)
+  - The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.

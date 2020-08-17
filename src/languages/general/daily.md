@@ -1,51 +1,42 @@
 # general
-- [go-github](https://github.com/google/go-github) : Go
-  - Go library for accessing the GitHub API
-- [jupyter-book](https://github.com/executablebooks/jupyter-book) : Python
-  - Build interactive, publication-quality documents from Jupyter Notebooks
-- [servo](https://github.com/servo/servo) : Rust
-  - The Servo Browser Engine
-- [papercups](https://github.com/papercups-io/papercups) : Elixir
-  - Open-source live customer chat
-- [LeetCode](https://github.com/yuanguangxin/LeetCode) : Java
-  - LeetCode刷题记录
-- [computervision-recipes](https://github.com/microsoft/computervision-recipes) : Jupyter Notebook
-  - Best Practices, code samples, and documentation for Computer Vision.
-- [drogon](https://github.com/an-tao/drogon) : C++
-  - Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows
-- [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) : Java
-  - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
-- [storybook](https://github.com/storybookjs/storybook) : TypeScript
-  - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
-- [sherlock](https://github.com/sherlock-project/sherlock) : Python
-  - 🔎 Hunt down social media accounts by username across social networks
-- [hutool](https://github.com/looly/hutool) : Java
-  - A set of tools that keep Java sweet.
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+- [aws-machine-learning-university-accelerated-nlp](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp) : Jupyter Notebook
+- [kosmonaut](https://github.com/twilco/kosmonaut) : Rust
+  - A web browser engine for the space age 🚀
+- [desafio-1-2020](https://github.com/maratonadev-la/desafio-1-2020) : JavaScript
+- [desafio-1-2020](https://github.com/maratonadev-br/desafio-1-2020) : JavaScript
+- [BespokeSynth](https://github.com/awwbees/BespokeSynth) : C++
+  - Software modular synth
 - [Pokedex](https://github.com/skydoves/Pokedex) : Kotlin
   - 🗡️ Android Pokedex using Dagger Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
-- [OSCPRepo](https://github.com/rewardone/OSCPRepo) : C
-  - A list of commands, scripts, resources, and more that I have gathered and attempted to consolidate for use as OSCP (and more) study material. Commands in 'Usefulcommands' Keepnote. Bookmarks and reading material in 'BookmarkList' CherryTree. Reconscan Py2 and Py3. Custom ISO building.
-- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) : Java
-  - 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
-- [God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData) : 
-  - 大数据面试题，大数据成神之路开启...Flink/Spark/Hadoop/Hbase/Hive...
-- [Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC) : PowerShell
-  - 渗透测试有关的POC、EXP、脚本、提权、小工具等，欢迎补充、完善---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms
-- [TypeScript](https://github.com/microsoft/TypeScript) : TypeScript
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [halfmoon](https://github.com/halfmoonui/halfmoon) : CSS
-  - Front-end framework with a built-in dark mode, designed for rapidly building beautiful dashboards and product pages.
-- [laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices) : 
-  - Laravel best practices
-- [espflix](https://github.com/rossumur/espflix) : C
-  - A free video streaming service that runs on a ESP32
-- [yam-protocol](https://github.com/yam-finance/yam-protocol) : Solidity
-  - A stablizing reserve currency protocol
-- [Hierarchical-Localization](https://github.com/cvg/Hierarchical-Localization) : Python
-  - Visual localization made easy
-- [prefect](https://github.com/PrefectHQ/prefect) : Python
-  - The easiest way to automate your data
+- [sherlock](https://github.com/sherlock-project/sherlock) : Python
+  - 🔎 Hunt down social media accounts by username across social networks
 - [fastbook](https://github.com/fastai/fastbook) : Jupyter Notebook
   - Draft of the fastai book
-- [angular](https://github.com/angular/angular) : TypeScript
-  - One framework. Mobile & desktop.
+- [imgui](https://github.com/ocornut/imgui) : C++
+  - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+- [lit](https://github.com/PAIR-code/lit) : TypeScript
+  - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
+- [mogollar](https://github.com/dashersw/mogollar) : JavaScript
+  - A MongoDB UI built with Electron
+- [aws-machine-learning-university-accelerated-cv](https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv) : Jupyter Notebook
+- [aws-machine-learning-university-accelerated-tab](https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab) : Jupyter Notebook
+- [handson-ml](https://github.com/ageron/handson-ml) : Jupyter Notebook
+  - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
+- [E-commerce-Complete-Flutter-UI](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI) : Dart
+- [low-level-design-primer](https://github.com/prasadgujar/low-level-design-primer) : 
+- [data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap) : Python
+  - Toturial coming with "data science roadmap" graphe.
+- [Behinder](https://github.com/rebeyond/Behinder) : 
+  - “冰蝎”动态二进制加密网站管理客户端
+- [go-github](https://github.com/google/go-github) : Go
+  - Go library for accessing the GitHub API
+- [youtube-clone-nodejs-api](https://github.com/techreagan/youtube-clone-nodejs-api) : JavaScript
+  - VueTube is a YouTube clone built with nodejs, expressjs & mongodb. This is the RESTful API repository.
+- [vue-nodejs-youtube-clone](https://github.com/techreagan/vue-nodejs-youtube-clone) : Vue
+  - This is the frontend (VueJS) of the Youtube clone called VueTube.
+- [malwoverview](https://github.com/alexandreborges/malwoverview) : Python
+  - Malwoverview is a first response tool to perform an initial and quick triage in a directory containing malware samples, specific malware sample, suspect URL and domains. Additionally, it allows to download and send samples to main online sandboxes.
+- [latexify_py](https://github.com/odashi/latexify_py) : Python
+  - Generates LaTeX math description from Python functions.
