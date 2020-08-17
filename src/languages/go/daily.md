@@ -1,51 +1,51 @@
 # go
 - [go-github](https://github.com/google/go-github)
   - Go library for accessing the GitHub API
-- [terraform](https://github.com/hashicorp/terraform)
-  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [traefik](https://github.com/containous/traefik)
-  - The Cloud Native Edge Router
-- [test-infra](https://github.com/kubernetes/test-infra)
-  - Test infrastructure for the Kubernetes project.
-- [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
-  - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [redis](https://github.com/go-redis/redis)
-  - Type-safe Redis client for Golang
-- [micro](https://github.com/micro/micro)
-  - Micro is a framework for cloud native development
-- [soar](https://github.com/XiaoMi/soar)
-  - SQL Optimizer And Rewriter
-- [awesome-go](https://github.com/avelino/awesome-go)
-  - A curated list of awesome Go frameworks, libraries and software
-- [go-micro](https://github.com/micro/go-micro)
-  - A Go standard library for microservices
-- [kubernetes-ingress](https://github.com/nginxinc/kubernetes-ingress)
-  - NGINX and NGINX Plus Ingress Controllers for Kubernetes
-- [differential-privacy](https://github.com/google/differential-privacy)
-  - Google's differential privacy library.
-- [terratest](https://github.com/gruntwork-io/terratest)
-  - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
-- [pd](https://github.com/pingcap/pd)
+- [clash](https://github.com/Dreamacro/clash)
+  - A rule-based tunnel in Go.
+- [go-zero](https://github.com/tal-tech/go-zero)
+  - go-zero是一个集成了各种工程实践的web和rpc框架。通过弹性设计保障了大并发服务端的稳定性，经受了充分的实战检验。包含极简的API定义和生成工具，可以一键生成Go, iOS, Android, Dart, TypeScript, JavaScript代码，并可直接运行。
+- [askgit](https://github.com/augmentable-dev/askgit)
+  - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
+- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
+  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [caddy](https://github.com/caddyserver/caddy)
+  - Fast, multi-platform web server with automatic HTTPS
+- [Cloak](https://github.com/cbeuw/Cloak)
+  - A censorship circumvention tool to evade detection against state adversaries
+- [httpmock](https://github.com/jarcoal/httpmock)
+  - HTTP mocking for Golang
+- [proxypool](https://github.com/zu1k/proxypool)
+  - 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess节点信息，聚合去重检测可用性后提供节点列表
+- [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
+  - Network-wide ads & trackers blocking DNS server
+- [multi-tenancy](https://github.com/kubernetes-sigs/multi-tenancy)
+  - A working place for multi-tenancy related proposals and prototypes.
+- [prysm](https://github.com/prysmaticlabs/prysm)
+  - Go implementation of the Ethereum 2.0 blockchain
+- [gau](https://github.com/lc/gau)
+  - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
+- [pomerium](https://github.com/pomerium/pomerium)
+  - Pomerium is an identity-aware access proxy.
+- [MiraiOK](https://github.com/LXY1226/MiraiOK)
+  - 另一个Mirai一键包
+- [coredns](https://github.com/coredns/coredns)
+  - CoreDNS is a DNS server that chains plugins
+- [rclone](https://github.com/rclone/rclone)
+  - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+- [opa](https://github.com/open-policy-agent/opa)
+  - An open source, general-purpose policy engine.
+- [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga)
+  - Advanced information gathering & OSINT framework for phone numbers
+- [photoprism](https://github.com/photoprism/photoprism)
+  - Personal Photo Management powered by Go and Google TensorFlow
+- [mux](https://github.com/gorilla/mux)
+  - A powerful HTTP router and URL matcher for building Go web servers with 🦍
+- [v2ray-core](https://github.com/v2ray/v2ray-core)
+  - A platform for building proxies to bypass network restrictions.
+- [air](https://github.com/cosmtrek/air)
+  - ☁️ Live reload for Go apps
+- [pd](https://github.com/tikv/pd)
   - Placement driver for TiKV
-- [go](https://github.com/golang/go)
-  - The Go programming language
-- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
-  - Terraform AWS provider
-- [protobuf](https://github.com/golang/protobuf)
-  - Go support for Google's protocol buffers
-- [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics)
-  - Add-on agent to generate and expose cluster-level metrics.
-- [k9s](https://github.com/derailed/k9s)
-  - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [fzf](https://github.com/junegunn/fzf)
-  - 🌸 A command-line fuzzy finder
-- [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm)
-  - Terraform provider for Azure Resource Manager
-- [tidb](https://github.com/pingcap/tidb)
-  - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
-- [mysql](https://github.com/go-sql-driver/mysql)
-  - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
-- [cli](https://github.com/cli/cli)
-  - GitHub’s official command line tool
-- [go-sqlmock](https://github.com/DATA-DOG/go-sqlmock)
-  - Sql mock driver for golang to test database interactions
+- [telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api)
+  - Golang bindings for the Telegram Bot API
