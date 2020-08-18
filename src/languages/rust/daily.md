@@ -1,51 +1,51 @@
 # rust
 - [kosmonaut](https://github.com/twilco/kosmonaut)
   - A web browser engine for the space age 🚀
-- [tikv](https://github.com/tikv/tikv)
-  - Distributed transactional key-value database, originally created to complement TiDB
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
 - [wasmtime](https://github.com/bytecodealliance/wasmtime)
   - Standalone JIT-style runtime for WebAssembly, using Cranelift
-- [dust](https://github.com/bootandy/dust)
-  - A more intuitive version of du in rust
-- [json](https://github.com/serde-rs/json)
-  - Strongly typed JSON library for Rust
-- [tracing](https://github.com/tokio-rs/tracing)
-  - Application level tracing for Rust.
-- [examples](https://github.com/actix/examples)
-  - Actix web examples
-- [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust)
-  - A Rust port of shadowsocks
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
-- [rustup](https://github.com/rust-lang/rustup)
-  - The Rust toolchain installer
-- [crossbeam](https://github.com/crossbeam-rs/crossbeam)
-  - Tools for concurrent programming in Rust
-- [bat](https://github.com/sharkdp/bat)
-  - A cat(1) clone with wings.
-- [servo](https://github.com/servo/servo)
-  - The Servo Browser Engine
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [nom](https://github.com/Geal/nom)
-  - Rust parser combinator framework
-- [ggez](https://github.com/ggez/ggez)
-  - Rust library to create a Good Game Easily
-- [winit](https://github.com/rust-windowing/winit)
-  - Window handling library in pure Rust
+- [SassyKitdi](https://github.com/zerosum0x0/SassyKitdi)
+  - Kernel Mode TCP Sockets + LSASS Dump (Rust Shellcode)
+- [xi-editor](https://github.com/xi-editor/xi-editor)
+  - A modern editor with a backend written in Rust.
+- [rustc_codegen_cranelift](https://github.com/bjorn3/rustc_codegen_cranelift)
+  - Cranelift based backend for rustc
 - [polkadot](https://github.com/paritytech/polkadot)
   - Polkadot Node Implementation
-- [warp](https://github.com/seanmonstar/warp)
-  - A super-easy, composable, web server framework for warp speeds.
-- [hyper](https://github.com/hyperium/hyper)
-  - An HTTP library for Rust
-- [cargo](https://github.com/rust-lang/cargo)
-  - The Rust package manager
-- [librespot](https://github.com/librespot-org/librespot)
-  - Open Source Spotify client library
+- [WASI](https://github.com/WebAssembly/WASI)
+  - WebAssembly System Interface
+- [zola](https://github.com/getzola/zola)
+  - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+- [dust](https://github.com/bootandy/dust)
+  - A more intuitive version of du in rust
+- [tikv](https://github.com/tikv/tikv)
+  - Distributed transactional key-value database, originally created to complement TiDB
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
+- [tracing](https://github.com/tokio-rs/tracing)
+  - Application level tracing for Rust.
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [crossbeam](https://github.com/crossbeam-rs/crossbeam)
+  - Tools for concurrent programming in Rust
+- [nom](https://github.com/Geal/nom)
+  - Rust parser combinator framework
+- [orjson](https://github.com/ijl/orjson)
+  - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
+- [wasmer](https://github.com/wasmerio/wasmer)
+  - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+- [steg86](https://github.com/woodruffw/steg86)
+  - Hiding messages in x86 programs using semantic duals
+- [pyo3](https://github.com/PyO3/pyo3)
+  - Rust bindings for the Python interpreter
+- [iced](https://github.com/hecrj/iced)
+  - A cross-platform GUI library for Rust, inspired by Elm
+- [legion](https://github.com/TomGillen/legion)
+  - High performance Rust ECS library

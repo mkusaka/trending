@@ -1,51 +1,51 @@
 # go
-- [go-github](https://github.com/google/go-github)
-  - Go library for accessing the GitHub API
-- [clash](https://github.com/Dreamacro/clash)
-  - A rule-based tunnel in Go.
-- [go-zero](https://github.com/tal-tech/go-zero)
-  - go-zero是一个集成了各种工程实践的web和rpc框架。通过弹性设计保障了大并发服务端的稳定性，经受了充分的实战检验。包含极简的API定义和生成工具，可以一键生成Go, iOS, Android, Dart, TypeScript, JavaScript代码，并可直接运行。
-- [askgit](https://github.com/augmentable-dev/askgit)
-  - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
   - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
-- [caddy](https://github.com/caddyserver/caddy)
-  - Fast, multi-platform web server with automatic HTTPS
-- [Cloak](https://github.com/cbeuw/Cloak)
-  - A censorship circumvention tool to evade detection against state adversaries
-- [httpmock](https://github.com/jarcoal/httpmock)
-  - HTTP mocking for Golang
-- [proxypool](https://github.com/zu1k/proxypool)
-  - 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess节点信息，聚合去重检测可用性后提供节点列表
-- [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
-  - Network-wide ads & trackers blocking DNS server
-- [multi-tenancy](https://github.com/kubernetes-sigs/multi-tenancy)
-  - A working place for multi-tenancy related proposals and prototypes.
-- [prysm](https://github.com/prysmaticlabs/prysm)
-  - Go implementation of the Ethereum 2.0 blockchain
-- [gau](https://github.com/lc/gau)
-  - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
-- [pomerium](https://github.com/pomerium/pomerium)
-  - Pomerium is an identity-aware access proxy.
-- [MiraiOK](https://github.com/LXY1226/MiraiOK)
-  - 另一个Mirai一键包
-- [coredns](https://github.com/coredns/coredns)
-  - CoreDNS is a DNS server that chains plugins
-- [rclone](https://github.com/rclone/rclone)
-  - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+- [annie](https://github.com/iawia002/annie)
+  - 👾 Fast, simple and clean video downloader
+- [algorithm-pattern](https://github.com/greyireland/algorithm-pattern)
+  - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
+- [sh](https://github.com/mvdan/sh)
+  - A shell parser, formatter, and interpreter with bash support; includes shfmt
+- [glab](https://github.com/profclems/glab)
+  - A custom Gitlab Cli tool written in Go (golang)
+- [skaffold](https://github.com/GoogleContainerTools/skaffold)
+  - Easy and Repeatable Kubernetes Development
+- [go-zero](https://github.com/tal-tech/go-zero)
+  - go-zero是一个集成了各种工程实践的web和rpc框架。通过弹性设计保障了大并发服务端的稳定性，经受了充分的实战检验。包含极简的API定义和生成工具，可以一键生成Go, iOS, Android, Dart, TypeScript, JavaScript代码，并可直接运行。
+- [amazon-ecs-agent](https://github.com/aws/amazon-ecs-agent)
+  - Amazon Elastic Container Service Agent
+- [tzone](https://github.com/enesusta/tzone)
+  - tzone is a REST API that presents address information for Turkish developers.
+- [squirrel](https://github.com/Masterminds/squirrel)
+  - Fluent SQL generation for golang
+- [govalidator](https://github.com/asaskevich/govalidator)
+  - [Go] Package of validators and sanitizers for strings, numerics, slices and structs
+- [sarama](https://github.com/Shopify/sarama)
+  - Sarama is a Go library for Apache Kafka 0.8, and up.
 - [opa](https://github.com/open-policy-agent/opa)
   - An open source, general-purpose policy engine.
-- [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga)
-  - Advanced information gathering & OSINT framework for phone numbers
-- [photoprism](https://github.com/photoprism/photoprism)
-  - Personal Photo Management powered by Go and Google TensorFlow
-- [mux](https://github.com/gorilla/mux)
-  - A powerful HTTP router and URL matcher for building Go web servers with 🦍
-- [v2ray-core](https://github.com/v2ray/v2ray-core)
-  - A platform for building proxies to bypass network restrictions.
-- [air](https://github.com/cosmtrek/air)
-  - ☁️ Live reload for Go apps
-- [pd](https://github.com/tikv/pd)
-  - Placement driver for TiKV
-- [telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api)
-  - Golang bindings for the Telegram Bot API
+- [eksctl](https://github.com/weaveworks/eksctl)
+  - The official CLI for Amazon EKS
+- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
+  - Terraform AWS provider
+- [terraform](https://github.com/hashicorp/terraform)
+  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [bk-cmdb](https://github.com/Tencent/bk-cmdb)
+  - 蓝鲸智云配置平台(BlueKing CMDB)
+- [enhancements](https://github.com/kubernetes/enhancements)
+  - Enhancements tracking repo for Kubernetes
+- [magma](https://github.com/magma/magma)
+  - Platform for building access networks and modular network services
+- [go-github](https://github.com/google/go-github)
+  - Go library for accessing the GitHub API
+- [telegraf](https://github.com/influxdata/telegraf)
+  - The plugin-driven server agent for collecting & reporting metrics.
+- [cert-manager](https://github.com/jetstack/cert-manager)
+  - Automatically provision and manage TLS certificates in Kubernetes
+- [kubernetes](https://github.com/kubernetes/kubernetes)
+  - Production-Grade Container Scheduling and Management
+- [go-micro](https://github.com/micro/go-micro)
+  - A Go standard library for microservices
+- [Amass](https://github.com/OWASP/Amass)
+  - In-depth Attack Surface Mapping and Asset Discovery

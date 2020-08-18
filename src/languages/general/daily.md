@@ -1,42 +1,46 @@
 # general
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
   - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+- [aws-machine-learning-university-accelerated-cv](https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv) : Jupyter Notebook
+- [fullcalendar](https://github.com/fullcalendar/fullcalendar) : TypeScript
+  - Full-sized drag & drop event calendar
 - [aws-machine-learning-university-accelerated-nlp](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp) : Jupyter Notebook
-- [kosmonaut](https://github.com/twilco/kosmonaut) : Rust
-  - A web browser engine for the space age 🚀
-- [desafio-1-2020](https://github.com/maratonadev-la/desafio-1-2020) : JavaScript
-- [desafio-1-2020](https://github.com/maratonadev-br/desafio-1-2020) : JavaScript
-- [BespokeSynth](https://github.com/awwbees/BespokeSynth) : C++
-  - Software modular synth
+- [NoVmp](https://github.com/can1357/NoVmp) : C++
+  - A static devirtualizer for VMProtect x64 3.x. powered by VTIL.
 - [Pokedex](https://github.com/skydoves/Pokedex) : Kotlin
   - 🗡️ Android Pokedex using Dagger Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
-- [sherlock](https://github.com/sherlock-project/sherlock) : Python
-  - 🔎 Hunt down social media accounts by username across social networks
-- [fastbook](https://github.com/fastai/fastbook) : Jupyter Notebook
-  - Draft of the fastai book
-- [imgui](https://github.com/ocornut/imgui) : C++
-  - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-- [lit](https://github.com/PAIR-code/lit) : TypeScript
-  - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
-- [mogollar](https://github.com/dashersw/mogollar) : JavaScript
-  - A MongoDB UI built with Electron
-- [aws-machine-learning-university-accelerated-cv](https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv) : Jupyter Notebook
-- [aws-machine-learning-university-accelerated-tab](https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab) : Jupyter Notebook
-- [handson-ml](https://github.com/ageron/handson-ml) : Jupyter Notebook
-  - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
-- [E-commerce-Complete-Flutter-UI](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI) : Dart
-- [low-level-design-primer](https://github.com/prasadgujar/low-level-design-primer) : 
-- [data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap) : Python
-  - Toturial coming with "data science roadmap" graphe.
+- [bootcamp-gostack-desafios](https://github.com/rocketseat-education/bootcamp-gostack-desafios) : 
+  - Repositório contendo todos os desafios dos módulos do Bootcamp Gostack
+- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) : Go
+  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [Behinder](https://github.com/rebeyond/Behinder) : 
   - “冰蝎”动态二进制加密网站管理客户端
-- [go-github](https://github.com/google/go-github) : Go
-  - Go library for accessing the GitHub API
+- [spotMicro](https://github.com/mike4192/spotMicro) : HTML
+  - Spot Micro Quadripeg Project
+- [lit](https://github.com/PAIR-code/lit) : TypeScript
+  - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
+- [awesome-tall-stack](https://github.com/blade-ui-kit/awesome-tall-stack) : 
+  - A curated list of awesome things related to the TALL stack.
+- [imgui](https://github.com/ocornut/imgui) : C++
+  - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+- [aws-machine-learning-university-accelerated-tab](https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab) : Jupyter Notebook
+- [Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC) : PowerShell
+  - 渗透测试有关的POC、EXP、脚本、提权、小工具等，欢迎补充、完善---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms
+- [low-level-design-primer](https://github.com/prasadgujar/low-level-design-primer) : 
+- [annie](https://github.com/iawia002/annie) : Go
+  - 👾 Fast, simple and clean video downloader
+- [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) : Java
+  - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+- [libra](https://github.com/Palashio/libra) : Python
+  - Ergonomic machine learning for everyone.
 - [youtube-clone-nodejs-api](https://github.com/techreagan/youtube-clone-nodejs-api) : JavaScript
   - VueTube is a YouTube clone built with nodejs, expressjs & mongodb. This is the RESTful API repository.
-- [vue-nodejs-youtube-clone](https://github.com/techreagan/vue-nodejs-youtube-clone) : Vue
-  - This is the frontend (VueJS) of the Youtube clone called VueTube.
-- [malwoverview](https://github.com/alexandreborges/malwoverview) : Python
-  - Malwoverview is a first response tool to perform an initial and quick triage in a directory containing malware samples, specific malware sample, suspect URL and domains. Additionally, it allows to download and send samples to main online sandboxes.
-- [latexify_py](https://github.com/odashi/latexify_py) : Python
-  - Generates LaTeX math description from Python functions.
+- [mediapipe](https://github.com/google/mediapipe) : C++
+  - MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.
+- [image-gpt](https://github.com/openai/image-gpt) : Python
+- [gpt-3](https://github.com/openai/gpt-3) : 
+  - GPT-3: Language Models are Few-Shot Learners
+- [shoelace](https://github.com/shoelace-style/shoelace) : TypeScript
+  - A collection of professionally designed, every day UI components built on a framework-agnostic technology. 🥾
+- [Catch2](https://github.com/catchorg/Catch2) : C++
+  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
