@@ -1,51 +1,51 @@
 # typescript
+- [fullcalendar](https://github.com/fullcalendar/fullcalendar)
+  - Full-sized drag & drop event calendar
 - [lit](https://github.com/PAIR-code/lit)
   - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
-- [TypeScript](https://github.com/microsoft/TypeScript)
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [saas](https://github.com/async-labs/saas)
-  - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
-- [code-server](https://github.com/cdr/code-server)
-  - VS Code in the browser
-- [storybook](https://github.com/storybookjs/storybook)
-  - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
-- [foam](https://github.com/foambubble/foam)
-  - A personal knowledge management and sharing system for VSCode
-- [Tech-Interview-Cheat-Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
-  - Studying for a tech interview sucks. Here's an open source cheat sheet to help
-- [vscode](https://github.com/microsoft/vscode)
-  - Visual Studio Code
 - [shoelace](https://github.com/shoelace-style/shoelace)
   - A collection of professionally designed, every day UI components built on a framework-agnostic technology. 🥾
-- [peerjs](https://github.com/peers/peerjs)
-  - Simple peer-to-peer with WebRTC
-- [lens](https://github.com/lensapp/lens)
-  - Lens - The Kubernetes IDE
+- [zustand](https://github.com/react-spring/zustand)
+  - 🐻 Bear necessities for state management in React
+- [react-query](https://github.com/tannerlinsley/react-query)
+  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+- [tfjs-models](https://github.com/tensorflow/tfjs-models)
+  - Pretrained models for TensorFlow.js
+- [aws-cdk](https://github.com/aws/aws-cdk)
+  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+- [angular-cli](https://github.com/angular/angular-cli)
+  - CLI tool for Angular
+- [cdk8s](https://github.com/awslabs/cdk8s)
+  - Define Kubernetes native apps and abstractions using object-oriented programming
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+  - Headless Chrome Node.js API
+- [grafana](https://github.com/grafana/grafana)
+  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [swr](https://github.com/vercel/swr)
+  - React Hooks library for remote data fetching
+- [formik](https://github.com/formium/formik)
+  - Build forms in React, without the tears 😭
+- [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)
+  - UI components lib based on Ant Design for Angular
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+  - The repository for high quality TypeScript type definitions.
+- [backstage](https://github.com/spotify/backstage)
+  - Backstage is an open platform for building developer portals
+- [got](https://github.com/sindresorhus/got)
+  - 🌐 Human-friendly and powerful HTTP request library for Node.js
+- [rete](https://github.com/retejs/rete)
+  - JavaScript framework for visual programming and creating node editor
 - [angular](https://github.com/angular/angular)
   - One framework. Mobile & desktop.
-- [telegraf](https://github.com/telegraf/telegraf)
-  - Modern Telegram Bot Framework for Node.js
-- [homebridge](https://github.com/homebridge/homebridge)
-  - HomeKit support for the impatient
-- [google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client)
-  - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
-- [umi](https://github.com/umijs/umi)
-  - 🌋 Pluggable enterprise-level react application framework.
-- [typescript-book](https://github.com/basarat/typescript-book)
-  - 📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖. Free and Open Source 🌹
-- [kittenTricks](https://github.com/akveo/kittenTricks)
-  - React Native starter kit with over 40 screens and modern Light and Dark theme for creating stunning cross-platform mobile applications.
-- [angularfire](https://github.com/angular/angularfire)
-  - The official Angular library for Firebase.
-- [redux](https://github.com/reduxjs/redux)
-  - Predictable state container for JavaScript apps
-- [msw](https://github.com/mswjs/msw)
-  - Seamless REST/GraphQL API mocking library for browser and Node.
-- [etcher](https://github.com/balena-io/etcher)
-  - Flash OS images to SD cards & USB drives, safely and easily.
-- [WiLearning](https://github.com/wistingcn/WiLearning)
-  - Multiparty meeting&e-learning using mediasoup, webrtc and angular
-- [starter-workflows](https://github.com/actions/starter-workflows)
-  - Accelerating new GitHub Actions workflows
-- [bisonapp](https://github.com/echobind/bisonapp)
-  - A Full Stack JAMstack in-a-box brought to you by Echobind
+- [vscode](https://github.com/microsoft/vscode)
+  - Visual Studio Code
+- [terraform-cdk](https://github.com/hashicorp/terraform-cdk)
+  - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
+  - 📋 React Hooks for forms validation (Web + React Native)
+- [apollo-server](https://github.com/apollographql/apollo-server)
+  - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
+- [lens](https://github.com/lensapp/lens)
+  - Lens - The Kubernetes IDE
+- [apollo-client](https://github.com/apollographql/apollo-client)
+  - 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server

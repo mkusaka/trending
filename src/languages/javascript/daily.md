@@ -1,51 +1,51 @@
 # javascript
-- [desafio-1-2020](https://github.com/maratonadev-la/desafio-1-2020)
-  - 
-- [desafio-1-2020](https://github.com/maratonadev-br/desafio-1-2020)
-  - 
-- [mogollar](https://github.com/dashersw/mogollar)
-  - A MongoDB UI built with Electron
 - [youtube-clone-nodejs-api](https://github.com/techreagan/youtube-clone-nodejs-api)
   - VueTube is a YouTube clone built with nodejs, expressjs & mongodb. This is the RESTful API repository.
-- [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
-  - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
-- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
-  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [Universal-Bypass](https://github.com/Sainan/Universal-Bypass)
-  - Don't waste your time with compliance. Universal Bypass circumvents annoying link shorteners.
-- [react-redux-realworld-example-app](https://github.com/gothinkster/react-redux-realworld-example-app)
-  - Exemplary real world application built with React + Redux
-- [chatify](https://github.com/munafio/chatify)
-  - A package for Laravel PHP Framework to add a complete real-time chat system to your app by only a few steps.
-- [scripts](https://github.com/lxk0301/scripts)
-  - 京东薅羊毛工具（活动入口：京东app->我的->游戏与互动->查看更多）
-- [roadmap.sh](https://github.com/kamranahmedse/roadmap.sh)
-  - Community driven roadmaps, articles and resources for developers
-- [iptv](https://github.com/iptv-org/iptv)
-  - Collection of 8000+ publicly available IPTV channels from all over the world
-- [discord.js](https://github.com/discordjs/discord.js)
-  - A powerful JavaScript library for interacting with the Discord API
-- [in-quiz-questions](https://github.com/Ebazhanov/in-quiz-questions)
-  - Skill Linkedin quiz Assessment, answers and questions (aws-lambda, rest-api, javascript, react, git, html, jquery, maven, mongodb, xml, java, css, python ...) ответы на квиз
-- [webtorrent](https://github.com/webtorrent/webtorrent)
-  - ⚡️ Streaming torrent client for the web
 - [realworld](https://github.com/gothinkster/realworld)
   - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+  - The ultimate Free Open Source Solution for team communications.
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
   - ✅ The Node.js best practices list (August 2020)
-- [joplin](https://github.com/laurent22/joplin)
-  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
-- [shapez.io](https://github.com/tobspr/shapez.io)
-  - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
+- [desafio-1-2020](https://github.com/maratonadev-la/desafio-1-2020)
+  - 
+- [OS13k](https://github.com/KilledByAPixel/OS13k)
+  - A Tiny JavaScript Operating System
+- [mogollar](https://github.com/dashersw/mogollar)
+  - A MongoDB UI built with Electron
+- [responsively-app](https://github.com/responsively-org/responsively-app)
+  - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
+- [desafio-1-2020](https://github.com/maratonadev-br/desafio-1-2020)
+  - 
 - [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
   - A collection of awesome readme templates to display on your profile
-- [reaction](https://github.com/reactioncommerce/reaction)
-  - Reaction is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes.
-- [amis-editor](https://github.com/fex-team/amis-editor)
-  - amis 可视化编辑器在线工具 http://fex-team.github.io/amis-editor
+- [generator-jhipster](https://github.com/jhipster/generator-jhipster)
+  - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
+- [sequelize](https://github.com/sequelize/sequelize)
+  - An easy-to-use multi SQL dialect ORM for Node.js
+- [AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension)
+  - AdGuard browser extension
+- [teachingtechYT.github.io](https://github.com/teachingtechYT/teachingtechYT.github.io)
+  - 
+- [Sortable](https://github.com/SortableJS/Sortable)
+  - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Ember, Knockout and any CSS library, e.g. Bootstrap.
+- [faker.js](https://github.com/Marak/faker.js)
+  - generate massive amounts of realistic fake data in Node.js and the browser
+- [material-table](https://github.com/mbrn/material-table)
+  - Datatable for React based on material-ui's table with additional features
+- [web-stories-wp](https://github.com/google/web-stories-wp)
+  - Web Stories for WordPress
+- [three.js](https://github.com/mrdoob/three.js)
+  - JavaScript 3D library.
+- [nuxt.js](https://github.com/nuxt/nuxt.js)
+  - The Intuitive Vue Framework
+- [shapez.io](https://github.com/tobspr/shapez.io)
+  - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
+- [Vulkan-Docs](https://github.com/KhronosGroup/Vulkan-Docs)
+  - The Vulkan API Specification and related tools
+- [react-router](https://github.com/ReactTraining/react-router)
+  - Declarative routing for React
+- [covid19india-react](https://github.com/covid19india/covid19india-react)
+  - Tracking the impact of COVID-19 in India
 - [react](https://github.com/typescript-cheatsheets/react)
   - Cheatsheets for experienced React developers getting started with TypeScript
-- [Android-PS4-Exploit-Host](https://github.com/Saad-Alareqi/Android-PS4-Exploit-Host)
-  - 
-- [gpt3-sandbox](https://github.com/shreyashankar/gpt3-sandbox)
-  - The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.
