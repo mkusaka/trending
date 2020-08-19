@@ -1,51 +1,51 @@
 # typescript
 - [fullcalendar](https://github.com/fullcalendar/fullcalendar)
   - Full-sized drag & drop event calendar
-- [lit](https://github.com/PAIR-code/lit)
-  - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
 - [shoelace](https://github.com/shoelace-style/shoelace)
   - A collection of professionally designed, every day UI components built on a framework-agnostic technology. 🥾
-- [zustand](https://github.com/react-spring/zustand)
-  - 🐻 Bear necessities for state management in React
-- [react-query](https://github.com/tannerlinsley/react-query)
-  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
-- [tfjs-models](https://github.com/tensorflow/tfjs-models)
-  - Pretrained models for TensorFlow.js
-- [aws-cdk](https://github.com/aws/aws-cdk)
-  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
-- [angular-cli](https://github.com/angular/angular-cli)
-  - CLI tool for Angular
-- [cdk8s](https://github.com/awslabs/cdk8s)
-  - Define Kubernetes native apps and abstractions using object-oriented programming
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [grafana](https://github.com/grafana/grafana)
-  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [swr](https://github.com/vercel/swr)
-  - React Hooks library for remote data fetching
-- [formik](https://github.com/formium/formik)
-  - Build forms in React, without the tears 😭
-- [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)
-  - UI components lib based on Ant Design for Angular
-- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-  - The repository for high quality TypeScript type definitions.
-- [backstage](https://github.com/spotify/backstage)
-  - Backstage is an open platform for building developer portals
-- [got](https://github.com/sindresorhus/got)
-  - 🌐 Human-friendly and powerful HTTP request library for Node.js
-- [rete](https://github.com/retejs/rete)
-  - JavaScript framework for visual programming and creating node editor
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
-- [vscode](https://github.com/microsoft/vscode)
-  - Visual Studio Code
-- [terraform-cdk](https://github.com/hashicorp/terraform-cdk)
-  - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
+- [lit](https://github.com/PAIR-code/lit)
+  - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form)
   - 📋 React Hooks for forms validation (Web + React Native)
-- [apollo-server](https://github.com/apollographql/apollo-server)
-  - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
-- [lens](https://github.com/lensapp/lens)
-  - Lens - The Kubernetes IDE
-- [apollo-client](https://github.com/apollographql/apollo-client)
-  - 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+  - Headless Chrome Node.js API
+- [jsQR](https://github.com/cozmo/jsQR)
+  - A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.
+- [components](https://github.com/angular/components)
+  - Component infrastructure and Material Design components for Angular
+- [snyk](https://github.com/snyk/snyk)
+  - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+  - The repository for high quality TypeScript type definitions.
+- [formik](https://github.com/formium/formik)
+  - Build forms in React, without the tears 😭
+- [zustand](https://github.com/react-spring/zustand)
+  - 🐻 Bear necessities for state management in React
+- [class-validator](https://github.com/typestack/class-validator)
+  - Decorator-based property validation for classes.
+- [material-ui-pickers](https://github.com/mui-org/material-ui-pickers)
+  - Date & Time pickers, built with ❤️ for @material-ui/core
+- [umi](https://github.com/umijs/umi)
+  - 🌋 Pluggable enterprise-level react application framework.
+- [react-use](https://github.com/streamich/react-use)
+  - React Hooks — 👍
+- [twilio-video-app-react](https://github.com/twilio/twilio-video-app-react)
+  - A collaboration application built with the twilio-video.js SDK and React.js
+- [vue-storefront](https://github.com/DivanteLtd/vue-storefront)
+  - Vue Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported. Always Open Source, MIT license. Join us as contributor (contributors@vuestorefront.io). Check out our new blog: https://blog.vuestorefront.io/ and the new community initiative for improving Headless Security standards https://headless-security.or…
+- [rrweb](https://github.com/rrweb-io/rrweb)
+  - record and replay the web
+- [tensorboard](https://github.com/tensorflow/tensorboard)
+  - TensorFlow's Visualization Toolkit
+- [flipper](https://github.com/facebook/flipper)
+  - A desktop debugging platform for mobile developers.
+- [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)
+  - UI components lib based on Ant Design for Angular
+- [grafana](https://github.com/grafana/grafana)
+  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [tinymce](https://github.com/tinymce/tinymce)
+  - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
+- [jest](https://github.com/facebook/jest)
+  - Delightful JavaScript Testing.
+- [BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
+  - Dialog creation and management for Microsoft Bot Framework Applications

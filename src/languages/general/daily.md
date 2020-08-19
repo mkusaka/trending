@@ -1,46 +1,51 @@
 # general
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
-  - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
-- [aws-machine-learning-university-accelerated-cv](https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv) : Jupyter Notebook
-- [fullcalendar](https://github.com/fullcalendar/fullcalendar) : TypeScript
-  - Full-sized drag & drop event calendar
-- [aws-machine-learning-university-accelerated-nlp](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp) : Jupyter Notebook
-- [NoVmp](https://github.com/can1357/NoVmp) : C++
-  - A static devirtualizer for VMProtect x64 3.x. powered by VTIL.
-- [Pokedex](https://github.com/skydoves/Pokedex) : Kotlin
-  - 🗡️ Android Pokedex using Dagger Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
-- [bootcamp-gostack-desafios](https://github.com/rocketseat-education/bootcamp-gostack-desafios) : 
-  - Repositório contendo todos os desafios dos módulos do Bootcamp Gostack
-- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) : Go
-  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
-- [Behinder](https://github.com/rebeyond/Behinder) : 
-  - “冰蝎”动态二进制加密网站管理客户端
-- [spotMicro](https://github.com/mike4192/spotMicro) : HTML
-  - Spot Micro Quadripeg Project
-- [lit](https://github.com/PAIR-code/lit) : TypeScript
-  - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
-- [awesome-tall-stack](https://github.com/blade-ui-kit/awesome-tall-stack) : 
-  - A curated list of awesome things related to the TALL stack.
-- [imgui](https://github.com/ocornut/imgui) : C++
-  - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-- [aws-machine-learning-university-accelerated-tab](https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab) : Jupyter Notebook
-- [Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC) : PowerShell
-  - 渗透测试有关的POC、EXP、脚本、提权、小工具等，欢迎补充、完善---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms
-- [low-level-design-primer](https://github.com/prasadgujar/low-level-design-primer) : 
-- [annie](https://github.com/iawia002/annie) : Go
-  - 👾 Fast, simple and clean video downloader
-- [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) : Java
-  - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+- [minGPT](https://github.com/karpathy/minGPT) : Jupyter Notebook
+  - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
+- [googletest](https://github.com/google/googletest) : C++
+  - Googletest - Google Testing and Mocking Framework
+- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) : 
+  - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+- [hello-algorithm](https://github.com/geekxh/hello-algorithm) : Java
+  - 🌍 🌎 东半球最酷的学习项目 | 包括：1、我写的三十万字图解算法题典 2、100 张各语言思维导图 和 1000 本编程电子📚 3、100 篇大厂面经下载 | English version supported !!! 国人项目上榜不易，右上角助力一波 🚀🚀！干就对了，奥利给 ！💪💪💪
 - [libra](https://github.com/Palashio/libra) : Python
   - Ergonomic machine learning for everyone.
-- [youtube-clone-nodejs-api](https://github.com/techreagan/youtube-clone-nodejs-api) : JavaScript
-  - VueTube is a YouTube clone built with nodejs, expressjs & mongodb. This is the RESTful API repository.
-- [mediapipe](https://github.com/google/mediapipe) : C++
-  - MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.
-- [image-gpt](https://github.com/openai/image-gpt) : Python
-- [gpt-3](https://github.com/openai/gpt-3) : 
-  - GPT-3: Language Models are Few-Shot Learners
+- [imgui](https://github.com/ocornut/imgui) : C++
+  - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+- [h1st](https://github.com/h1st-ai/h1st) : Python
+  - H1st AI solves the critical “cold-start” problem of Industrial AI: encoding human expertise to augment the lack of data, while building a smooth transition toward a machine-learning future. This problem has caused most industrial-AI projects to fail.
+- [locast2plex](https://github.com/tgorgdotcom/locast2plex) : Python
+  - A very simple script to connect locast to Plex's live tv/dvr feature.
+- [aws-machine-learning-university-accelerated-cv](https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv) : Jupyter Notebook
+  - Machine Learning University: Accelerated Computer Vision Class
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+- [spotMicro](https://github.com/mike4192/spotMicro) : HTML
+  - Spot Micro Quadripeg Project
+- [aws-machine-learning-university-accelerated-nlp](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp) : Jupyter Notebook
+  - Machine Learning University: Accelerated Natural Language Processing Class
+- [fullcalendar](https://github.com/fullcalendar/fullcalendar) : TypeScript
+  - Full-sized drag & drop event calendar
 - [shoelace](https://github.com/shoelace-style/shoelace) : TypeScript
   - A collection of professionally designed, every day UI components built on a framework-agnostic technology. 🥾
+- [contenidos](https://github.com/IIC2233/contenidos) : Jupyter Notebook
+  - Material del curso IIC2233 Programación Avanzada 🤓
+- [mediapipe](https://github.com/google/mediapipe) : C++
+  - MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.
 - [Catch2](https://github.com/catchorg/Catch2) : C++
   - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [interviews](https://github.com/kdn251/interviews) : Java
+  - Everything you need to know to get the job.
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) : C++
+  - Awesome OCR toolkits based on PaddlePaddle （8.6M ultra-lightweight pre-trained model, support training and deployment among server, mobile, embeded and IoT devices）
+- [bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data) : 
+  - This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports
+- [NoVmp](https://github.com/can1357/NoVmp) : C++
+  - A static devirtualizer for VMProtect x64 3.x. powered by VTIL.
+- [bootcamp-gostack-desafios](https://github.com/rocketseat-education/bootcamp-gostack-desafios) : 
+  - Repositório contendo todos os desafios dos módulos do Bootcamp Gostack
+- [lit](https://github.com/PAIR-code/lit) : TypeScript
+  - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
+- [Behinder](https://github.com/rebeyond/Behinder) : 
+  - “冰蝎”动态二进制加密网站管理客户端
+- [nl-covid19-notification-app-android](https://github.com/minvws/nl-covid19-notification-app-android) : Kotlin
+  - Android sources for the Dutch Covid19 Notification App
