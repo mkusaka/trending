@@ -1,51 +1,51 @@
 # ruby
-- [noticed](https://github.com/excid3/noticed)
-  - Notifications for Ruby on Rails applications
-- [canvas-lms](https://github.com/instructure/canvas-lms)
-  - The open LMS by Instructure, Inc.
-- [ruby](https://github.com/ruby/ruby)
-  - The Ruby Programming Language [mirror]
-- [react-native-config](https://github.com/luggit/react-native-config)
-  - Bring some 12 factor love to your mobile apps!
-- [chef](https://github.com/chef/chef)
-  - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
-- [simplecov](https://github.com/simplecov-ruby/simplecov)
-  - Code coverage for Ruby with a powerful configuration library and automatic merging of coverage across test suites
-- [WhatWeb](https://github.com/urbanadventurer/WhatWeb)
-  - Next generation web scanner
-- [strong_migrations](https://github.com/ankane/strong_migrations)
-  - Catch unsafe migrations in development
-- [fluentd](https://github.com/fluent/fluentd)
-  - Fluentd: Unified Logging Layer (project under CNCF)
-- [sequel](https://github.com/jeremyevans/sequel)
-  - Sequel: The Database Toolkit for Ruby
-- [homebrew-openjdk](https://github.com/AdoptOpenJDK/homebrew-openjdk)
-  - AdoptOpenJDK HomeBrew Tap
-- [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening)
-  - This Ansible role provides numerous security-related configurations, providing all-round base protection.
-- [bootstrap-sass](https://github.com/twbs/bootstrap-sass)
-  - Official Sass port of Bootstrap 2 and 3.
-- [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails)
-  - Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
-- [active_model_serializers](https://github.com/rails-api/active_model_serializers)
-  - ActiveModel::Serializer implementation and Rails hooks
-- [mysql2](https://github.com/brianmario/mysql2)
-  - A modern, simple and very fast Mysql library for Ruby - binding to libmysql
-- [webpacker](https://github.com/rails/webpacker)
-  - Use Webpack to manage app-like JavaScript modules in Rails
-- [capybara](https://github.com/teamcapybara/capybara)
-  - Acceptance test framework for web applications
-- [devise](https://github.com/heartcombo/devise)
-  - Flexible authentication solution for Rails with Warden.
+- [fastlane](https://github.com/fastlane/fastlane)
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [rails](https://github.com/rails/rails)
+  - Ruby on Rails
+- [Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)
+  - Web CTF CheatSheet 🐈
+- [vagrant](https://github.com/hashicorp/vagrant)
+  - Vagrant is a tool for building and distributing development environments.
 - [rubocop](https://github.com/rubocop-hq/rubocop)
   - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [pry](https://github.com/pry/pry)
-  - A runtime developer console and IRB alternative with powerful introspection capabilities.
-- [spree](https://github.com/spree/spree)
-  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
-- [salesforce_bulk_api](https://github.com/yatish27/salesforce_bulk_api)
-  - A ruby gem for bulk api for Salesforce CRM
-- [apartment](https://github.com/influitive/apartment)
-  - Database multi-tenancy for Rack (and Rails) applications
-- [paperclip](https://github.com/thoughtbot/paperclip)
-  - Easy file attachment management for ActiveRecord
+- [dependabot-core](https://github.com/dependabot/dependabot-core)
+  - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot
+- [inspec](https://github.com/inspec/inspec)
+  - InSpec: Auditing and Testing Framework
+- [jekyll](https://github.com/jekyll/jekyll)
+  - 🌐 Jekyll is a blog-aware static site generator in Ruby
+- [puma](https://github.com/puma/puma)
+  - A Ruby/Rack web server built for concurrency
+- [linguist](https://github.com/github/linguist)
+  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+- [simple_form](https://github.com/heartcombo/simple_form)
+  - Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
+- [shrine](https://github.com/shrinerb/shrine)
+  - File Attachment toolkit for Ruby applications
+- [pg_search](https://github.com/Casecommons/pg_search)
+  - pg_search builds ActiveRecord named scopes that take advantage of PostgreSQL’s full text search
+- [paranoia](https://github.com/rubysherpas/paranoia)
+  - acts_as_paranoid for Rails 3, 4 and 5
+- [noticed](https://github.com/excid3/noticed)
+  - Notifications for Ruby on Rails applications
+- [bootstrap-sass](https://github.com/twbs/bootstrap-sass)
+  - Official Sass port of Bootstrap 2 and 3.
+- [devise](https://github.com/heartcombo/devise)
+  - Flexible authentication solution for Rails with Warden.
+- [ruby](https://github.com/ruby/ruby)
+  - The Ruby Programming Language [mirror]
+- [canvas-lms](https://github.com/instructure/canvas-lms)
+  - The open LMS by Instructure, Inc.
+- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
+  - The Cocoa Dependency Manager.
+- [pundit](https://github.com/varvet/pundit)
+  - Minimal authorization through OO design and pure Ruby classes
+- [friendly_id](https://github.com/norman/friendly_id)
+  - FriendlyId is the “Swiss Army bulldozer” of slugging and permalink plugins for ActiveRecord. It allows you to create pretty URL’s and work with human-friendly strings as if they were numeric ids for ActiveRecord models.
+- [fluentd-kubernetes-daemonset](https://github.com/fluent/fluentd-kubernetes-daemonset)
+  - Fluentd daemonset for Kubernetes and it Docker image
+- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
+  - Ruby implementation of GraphQL
+- [aws-sdk-ruby](https://github.com/aws/aws-sdk-ruby)
+  - The official AWS SDK for Ruby.

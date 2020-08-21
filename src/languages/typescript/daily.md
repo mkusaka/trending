@@ -1,51 +1,51 @@
 # typescript
-- [fullcalendar](https://github.com/fullcalendar/fullcalendar)
-  - Full-sized drag & drop event calendar
+- [ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste)
+  - Cut and paste your surroundings using AR
+- [ts-migrate](https://github.com/airbnb/ts-migrate)
+  - A tool to help migrate JavaScript code quickly and conveniently to TypeScript
+- [element-plus](https://github.com/element-plus/element-plus)
+  - A Vue.js 3.0 UI Toolkit for Web
 - [shoelace](https://github.com/shoelace-style/shoelace)
   - A collection of professionally designed, every day UI components built on a framework-agnostic technology. 🥾
+- [aws-cdk](https://github.com/aws/aws-cdk)
+  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [lit](https://github.com/PAIR-code/lit)
   - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
-  - 📋 React Hooks for forms validation (Web + React Native)
+- [vuetify](https://github.com/vuetifyjs/vuetify)
+  - 🐉 Material Component Framework for Vue
+- [TypeScript-Website](https://github.com/microsoft/TypeScript-Website)
+  - The Website and web infrastructure for learning TypeScript
+- [bases](https://github.com/tsconfig/bases)
+  - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [puppeteer](https://github.com/puppeteer/puppeteer)
   - Headless Chrome Node.js API
-- [jsQR](https://github.com/cozmo/jsQR)
-  - A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.
+- [redoc](https://github.com/Redocly/redoc)
+  - 📘 OpenAPI/Swagger-generated API Reference Documentation
+- [vue-next](https://github.com/vuejs/vue-next)
+  - Repo for Vue 3.0 (currently in RC)
+- [PeerTube](https://github.com/Chocobozzz/PeerTube)
+  - ActivityPub-federated video streaming platform using P2P directly in your web browser
+- [ionic-framework](https://github.com/ionic-team/ionic-framework)
+  - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+- [vscode](https://github.com/microsoft/vscode)
+  - Visual Studio Code
+- [formatjs](https://github.com/formatjs/formatjs)
+  - The monorepo home to all of the FormatJS related libraries, most notably react-intl.
+- [fullcalendar](https://github.com/fullcalendar/fullcalendar)
+  - Full-sized drag & drop event calendar
+- [G2](https://github.com/antvis/G2)
+  - 📊 A highly interactive data-driven visualization grammar for statistical charts.
 - [components](https://github.com/angular/components)
   - Component infrastructure and Material Design components for Angular
-- [snyk](https://github.com/snyk/snyk)
-  - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
-- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-  - The repository for high quality TypeScript type definitions.
-- [formik](https://github.com/formium/formik)
-  - Build forms in React, without the tears 😭
-- [zustand](https://github.com/react-spring/zustand)
-  - 🐻 Bear necessities for state management in React
-- [class-validator](https://github.com/typestack/class-validator)
-  - Decorator-based property validation for classes.
-- [material-ui-pickers](https://github.com/mui-org/material-ui-pickers)
-  - Date & Time pickers, built with ❤️ for @material-ui/core
-- [umi](https://github.com/umijs/umi)
-  - 🌋 Pluggable enterprise-level react application framework.
-- [react-use](https://github.com/streamich/react-use)
-  - React Hooks — 👍
-- [twilio-video-app-react](https://github.com/twilio/twilio-video-app-react)
-  - A collaboration application built with the twilio-video.js SDK and React.js
-- [vue-storefront](https://github.com/DivanteLtd/vue-storefront)
-  - Vue Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported. Always Open Source, MIT license. Join us as contributor (contributors@vuestorefront.io). Check out our new blog: https://blog.vuestorefront.io/ and the new community initiative for improving Headless Security standards https://headless-security.or…
-- [rrweb](https://github.com/rrweb-io/rrweb)
-  - record and replay the web
-- [tensorboard](https://github.com/tensorflow/tensorboard)
-  - TensorFlow's Visualization Toolkit
-- [flipper](https://github.com/facebook/flipper)
-  - A desktop debugging platform for mobile developers.
-- [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)
-  - UI components lib based on Ant Design for Angular
-- [grafana](https://github.com/grafana/grafana)
-  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [tinymce](https://github.com/tinymce/tinymce)
-  - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
-- [jest](https://github.com/facebook/jest)
-  - Delightful JavaScript Testing.
-- [BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
-  - Dialog creation and management for Microsoft Bot Framework Applications
+- [fluentui](https://github.com/microsoft/fluentui)
+  - We've moved! UI Fabric is now Fluent UI - A set of React components for building Microsoft web experiences.
+- [kubeapps](https://github.com/kubeapps/kubeapps)
+  - A web-based UI for deploying and managing applications in Kubernetes clusters
+- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
+  - The source for REST API specifications for Microsoft Azure.
+- [mikro-orm](https://github.com/mikro-orm/mikro-orm)
+  - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
+- [berry](https://github.com/yarnpkg/berry)
+  - 📦🐈 Active development trunk for Yarn 2+ ⚒
+- [davinci](https://github.com/edp963/davinci)
+  - Davinci is a DVsaaS (Data Visualization as a Service) Platform

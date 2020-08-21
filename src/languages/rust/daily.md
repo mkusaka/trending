@@ -1,51 +1,51 @@
 # rust
-- [MozWire](https://github.com/NilsIrl/MozWire)
-  - MozillaVPN is an unofficial configuration manager giving Linux, macOS users (among others), access to MozillaVPN.
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
-- [substrate](https://github.com/paritytech/substrate)
-  - Substrate: The platform for blockchain innovators
 - [amethyst](https://github.com/amethyst/amethyst)
   - Data-oriented and data-driven game engine written in Rust
-- [iced](https://github.com/hecrj/iced)
-  - A cross-platform GUI library for Rust, inspired by Elm
-- [legion](https://github.com/TomGillen/legion)
-  - High performance Rust ECS library
-- [WASI](https://github.com/WebAssembly/WASI)
-  - WebAssembly System Interface
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [polkadot](https://github.com/paritytech/polkadot)
-  - Polkadot Node Implementation
-- [zola](https://github.com/getzola/zola)
-  - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [solana](https://github.com/solana-labs/solana)
   - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-- [lighthouse](https://github.com/sigp/lighthouse)
-  - Rust Ethereum 2.0 Client
-- [http-desync-guardian](https://github.com/aws/http-desync-guardian)
-  - Analyze HTTP requests to minimize risks of HTTP Desync attacks (precursor for HTTP request splitting/smuggling).
-- [reqwest](https://github.com/seanmonstar/reqwest)
-  - An easy and powerful Rust HTTP Client
-- [wasmer](https://github.com/wasmerio/wasmer)
-  - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
-- [crossbeam](https://github.com/crossbeam-rs/crossbeam)
-  - Tools for concurrent programming in Rust
-- [orjson](https://github.com/ijl/orjson)
-  - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
-- [firecracker](https://github.com/firecracker-microvm/firecracker)
-  - Secure and fast microVMs for serverless computing.
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-  - A curated list of Rust code and resources.
-- [aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime)
-  - A Rust runtime for AWS Lambda
-- [tikv](https://github.com/tikv/tikv)
-  - Distributed transactional key-value database, originally created to complement TiDB
-- [rustfmt](https://github.com/rust-lang/rustfmt)
-  - Format Rust code
-- [spotifyd](https://github.com/Spotifyd/spotifyd)
-  - A spotify daemon
-- [winrt-rs](https://github.com/microsoft/winrt-rs)
-  - Rust language projection for the Windows Runtime
-- [serenity](https://github.com/serenity-rs/serenity)
-  - A Rust library for the Discord API.
+- [static-analysis](https://github.com/analysis-tools-dev/static-analysis)
+  - Static analysis tools for all programming languages, build tools, config files and more.
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - ripgrep recursively searches directories for a regex pattern
+- [bevy](https://github.com/bevyengine/bevy)
+  - A refreshingly simple data-driven game engine built in Rust
+- [tauri](https://github.com/tauri-apps/tauri)
+  - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [cxx](https://github.com/dtolnay/cxx)
+  - Safe interop between Rust and C++
+- [iced](https://github.com/hecrj/iced)
+  - A cross-platform GUI library for Rust, inspired by Elm
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [tokio](https://github.com/tokio-rs/tokio)
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [exa](https://github.com/ogham/exa)
+  - A modern version of ‘ls’.
+- [rustup](https://github.com/rust-lang/rustup)
+  - The Rust toolchain installer
+- [polkadot](https://github.com/paritytech/polkadot)
+  - Polkadot Node Implementation
+- [rust-fil-proofs](https://github.com/filecoin-project/rust-fil-proofs)
+  - Proofs for Filecoin in Rust
+- [rustlings](https://github.com/rust-lang/rustlings)
+  - 🦀 Small exercises to get you used to reading and writing Rust code!
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
+- [winit](https://github.com/rust-windowing/winit)
+  - Window handling library in pure Rust
+- [py-spy](https://github.com/benfred/py-spy)
+  - Sampling profiler for Python programs
+- [druid](https://github.com/linebender/druid)
+  - A data-first Rust-native UI design toolkit.
+- [rust-clippy](https://github.com/rust-lang/rust-clippy)
+  - A bunch of lints to catch common mistakes and improve your Rust code
+- [book](https://github.com/rust-lang/book)
+  - The Rust Programming Language
+- [tokenizers](https://github.com/huggingface/tokenizers)
+  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [rayon](https://github.com/rayon-rs/rayon)
+  - Rayon: A data parallelism library for Rust
+- [async-process](https://github.com/stjepang/async-process)
+  - Async interface for working with processes
+- [crates.io](https://github.com/rust-lang/crates.io)
+  - Source code for crates.io

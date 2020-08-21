@@ -1,51 +1,50 @@
 # general
-- [minGPT](https://github.com/karpathy/minGPT) : Jupyter Notebook
-  - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
-- [googletest](https://github.com/google/googletest) : C++
-  - Googletest - Google Testing and Mocking Framework
-- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) : 
-  - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [hello-algorithm](https://github.com/geekxh/hello-algorithm) : Java
   - 🌍 🌎 东半球最酷的学习项目 | 包括：1、我写的三十万字图解算法题典 2、100 张各语言思维导图 和 1000 本编程电子📚 3、100 篇大厂面经下载 | English version supported !!! 国人项目上榜不易，右上角助力一波 🚀🚀！干就对了，奥利给 ！💪💪💪
+- [googletest](https://github.com/google/googletest) : C++
+  - Googletest - Google Testing and Mocking Framework
+- [aws-controllers-k8s](https://github.com/aws/aws-controllers-k8s) : Go
+  - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
+- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) : 
+  - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+- [labs_campaigns](https://github.com/guardicore/labs_campaigns) : Java
+- [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) : 
+  - 中国程序员容易发音错误的单词
+- [ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) : TypeScript
+  - Cut and paste your surroundings using AR
+- [ts-migrate](https://github.com/airbnb/ts-migrate) : TypeScript
+  - A tool to help migrate JavaScript code quickly and conveniently to TypeScript
 - [libra](https://github.com/Palashio/libra) : Python
   - Ergonomic machine learning for everyone.
 - [imgui](https://github.com/ocornut/imgui) : C++
   - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-- [h1st](https://github.com/h1st-ai/h1st) : Python
-  - H1st AI solves the critical “cold-start” problem of Industrial AI: encoding human expertise to augment the lack of data, while building a smooth transition toward a machine-learning future. This problem has caused most industrial-AI projects to fail.
-- [locast2plex](https://github.com/tgorgdotcom/locast2plex) : Python
-  - A very simple script to connect locast to Plex's live tv/dvr feature.
-- [aws-machine-learning-university-accelerated-cv](https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv) : Jupyter Notebook
-  - Machine Learning University: Accelerated Computer Vision Class
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
-  - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
-- [spotMicro](https://github.com/mike4192/spotMicro) : HTML
-  - Spot Micro Quadripeg Project
-- [aws-machine-learning-university-accelerated-nlp](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp) : Jupyter Notebook
-  - Machine Learning University: Accelerated Natural Language Processing Class
-- [fullcalendar](https://github.com/fullcalendar/fullcalendar) : TypeScript
-  - Full-sized drag & drop event calendar
-- [shoelace](https://github.com/shoelace-style/shoelace) : TypeScript
-  - A collection of professionally designed, every day UI components built on a framework-agnostic technology. 🥾
-- [contenidos](https://github.com/IIC2233/contenidos) : Jupyter Notebook
-  - Material del curso IIC2233 Programación Avanzada 🤓
-- [mediapipe](https://github.com/google/mediapipe) : C++
-  - MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.
+- [magento2](https://github.com/magento/magento2) : PHP
+  - All Submissions you make to Magento Inc. ("Magento") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, subli…
+- [fastlane](https://github.com/fastlane/fastlane) : Ruby
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [autoscaler](https://github.com/kubernetes/autoscaler) : Go
+  - Autoscaling components for Kubernetes
+- [element-plus](https://github.com/element-plus/element-plus) : TypeScript
+  - A Vue.js 3.0 UI Toolkit for Web
+- [d2l-en](https://github.com/d2l-ai/d2l-en) : Python
+  - Interactive deep learning book with code, math, and discussions. Available in multi-frameworks.
+- [InfoSpider](https://github.com/kangvcar/InfoSpider) : Python
+  - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
+- [omatsuri](https://github.com/rtivital/omatsuri) : JavaScript
+  - Browser application with 9 open source frontend focused tools
+- [insight](https://github.com/abhimishra91/insight) : Python
+  - Repository for Project Insight: NLP as a Service
+- [fabric](https://github.com/hyperledger/fabric) : Go
+  - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
 - [Catch2](https://github.com/catchorg/Catch2) : C++
   - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-- [interviews](https://github.com/kdn251/interviews) : Java
-  - Everything you need to know to get the job.
-- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) : C++
-  - Awesome OCR toolkits based on PaddlePaddle （8.6M ultra-lightweight pre-trained model, support training and deployment among server, mobile, embeded and IoT devices）
-- [bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data) : 
-  - This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports
-- [NoVmp](https://github.com/can1357/NoVmp) : C++
-  - A static devirtualizer for VMProtect x64 3.x. powered by VTIL.
-- [bootcamp-gostack-desafios](https://github.com/rocketseat-education/bootcamp-gostack-desafios) : 
-  - Repositório contendo todos os desafios dos módulos do Bootcamp Gostack
-- [lit](https://github.com/PAIR-code/lit) : TypeScript
-  - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
-- [Behinder](https://github.com/rebeyond/Behinder) : 
-  - “冰蝎”动态二进制加密网站管理客户端
-- [nl-covid19-notification-app-android](https://github.com/minvws/nl-covid19-notification-app-android) : Kotlin
-  - Android sources for the Dutch Covid19 Notification App
+- [shoelace](https://github.com/shoelace-style/shoelace) : TypeScript
+  - A collection of professionally designed, every day UI components built on a framework-agnostic technology. 🥾
+- [awesome-hpp](https://github.com/p-ranav/awesome-hpp) : 
+  - A curated list of awesome header-only C++ libraries
+- [posthog](https://github.com/PostHog/posthog) : Python
+  - 🦔 PostHog is developer-friendly, open-source product analytics.
+- [element3](https://github.com/kkbjs/element3) : Vue
+  - (WIP)fork from ElemeFE/element ,A Vue.js 3.0 UI Toolkit for Web
+- [pytorch](https://github.com/pytorch/pytorch) : C++
+  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
