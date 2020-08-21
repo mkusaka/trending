@@ -1,50 +1,51 @@
 # general
-- [TDengine](https://github.com/taosdata/TDengine) : C
-  - An open-source big data platform designed and optimized for the Internet of Things (IoT).
+- [servo](https://github.com/servo/servo) : Rust
+  - The Servo Browser Engine
+- [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) : PowerShell
+  - Script to remove Windows 10 bloatware.
 - [rome](https://github.com/romefrontend/rome) : TypeScript
   - The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
-- [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) : Jupyter Notebook
-  - This repository contains the source code for the paper First Order Motion Model for Image Animation
-- [bashtop](https://github.com/aristocratos/bashtop) : Shell
-  - Linux/OSX/FreeBSD resource monitor
-- [fhe-toolkit-linux](https://github.com/IBM/fhe-toolkit-linux) : C++
-  - IBM Fully Homomorphic Encryption Toolkit For Linux. This toolkit is a Linux based Docker container that demonstrates computing on encrypted data without decrypting it! The toolkit ships with two demos including a fully encrypted Machine Learning inference with a Neural Network and a Privacy-Preserving key-value search.
-- [simdjson](https://github.com/simdjson/simdjson) : C++
-  - Parsing gigabytes of JSON per second
-- [lombok-intellij-plugin](https://github.com/mplushnikov/lombok-intellij-plugin) : Java
-  - Lombok Plugin for IntelliJ IDEA
-- [PowerJob](https://github.com/KFCFans/PowerJob) : Java
-  - Powerful distributed job scheduling middleware that supports CRON, API, fixed frequency, fixed delay and other scheduling strategies, provides workflow to choreograph jobs to resolve dependencies, supports distributed computing of tasks, simple to use, powerful, well-documented, welcome you to access to use!
-- [mirai](https://github.com/mamoe/mirai) : 
-- [rustlings](https://github.com/rust-lang/rustlings) : Rust
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [Java](https://github.com/TheAlgorithms/Java) : Java
-  - All Algorithms implemented in Java
-- [bat](https://github.com/sharkdp/bat) : Rust
-  - A cat(1) clone with wings.
-- [Alamofire](https://github.com/Alamofire/Alamofire) : Swift
-  - Elegant HTTP Networking in Swift
-- [react-native](https://github.com/facebook/react-native) : JavaScript
-  - A framework for building native apps with React.
-- [nushell](https://github.com/nushell/nushell) : Rust
-  - A new type of shell
+- [sherlock](https://github.com/sherlock-project/sherlock) : Python
+  - 🔎 Hunt down social media accounts by username across social networks
+- [pyre-check](https://github.com/facebook/pyre-check) : OCaml
+  - Performant type-checking for python.
+- [fast](https://github.com/microsoft/fast) : TypeScript
+  - The adaptive interface system  for modern web experiences.
 - [prefect](https://github.com/PrefectHQ/prefect) : Python
   - The easiest way to automate your data
-- [substrate](https://github.com/paritytech/substrate) : Rust
-  - Substrate: The platform for blockchain innovators
-- [julia](https://github.com/JuliaLang/julia) : Julia
-  - The Julia Language: A fresh approach to technical computing.
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) : JavaScript
-  - ✅ The Node.js best practices list (August 2020)
-- [drawio](https://github.com/jgraph/drawio) : JavaScript
-  - Source to app.diagrams.net
-- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) : JavaScript
-  - Revive unavailable songs for Netease Cloud Music
-- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) : Jupyter Notebook
-  - Python - 100天从新手到大师
-- [docusaurus](https://github.com/facebook/docusaurus) : JavaScript
-  - Easy to maintain open source documentation websites.
-- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) : Vue
-  - 🚀vue-admin-beautiful是一款基于vue+element-ui的绝佳的中后台前端开发管理框架（基于vue/cli 4 最新版，同时支持电脑，手机，平板）,他同时是拥有100+页面的大型vue前端单页应用,长期更新维护,感谢您的star,我一直在努力 Vue admin beautiful is an excellent front-end development framework (supporting computers, mobile phones and tablets at the same time), long-term update and maintenance, thank you for your star, I have been workin…
-- [polkadot](https://github.com/paritytech/polkadot) : Rust
-  - Polkadot Node Implementation
+- [hutool](https://github.com/looly/hutool) : Java
+  - A set of tools that keep Java sweet.
+- [storybook](https://github.com/storybookjs/storybook) : TypeScript
+  - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+- [papercups](https://github.com/papercups-io/papercups) : Elixir
+  - Open-source live customer chat
+- [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) : Java
+  - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
+- [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) : Jupyter Notebook
+  - This repository contains the source code for the paper First Order Motion Model for Image Animation
+- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) : PowerShell
+  - Azure Quickstart Templates
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
+  - 📚 Freely available programming books
+- [heroicons](https://github.com/tailwindlabs/heroicons) : JavaScript
+  - A set of free MIT-licensed high-quality SVG icons for UI development.
+- [tidb](https://github.com/pingcap/tidb) : Go
+  - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+- [onemall](https://github.com/YunaiV/onemall) : Java
+  - 芋道 mall 商城，基于微服务的思想，构建在 B2C 电商场景下的项目实战。核心技术栈，是 Spring Boot + Dubbo 。未来，会重构成 Spring Cloud Alibaba 。
+- [rancher](https://github.com/rancher/rancher) : Go
+  - Complete container management platform
+- [chainlink](https://github.com/smartcontractkit/chainlink) : Go
+  - node of the decentralized oracle network, bridging on and off-chain computation
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
+  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
+- [ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) : Python
+  - Ansible for DevOps examples.
+- [drogon](https://github.com/an-tao/drogon) : C++
+  - Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows
+- [bpytop](https://github.com/aristocratos/bpytop) : Python
+  - Linux/OSX/FreeBSD resource monitor
+- [bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) : JavaScript
+  - Complete open source web conferencing system.
