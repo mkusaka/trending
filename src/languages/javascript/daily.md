@@ -1,51 +1,51 @@
 # javascript
-- [javascript](https://github.com/airbnb/javascript)
-  - JavaScript Style Guide
-- [youtube-clone-nodejs-api](https://github.com/techreagan/youtube-clone-nodejs-api)
-  - VueTube is a YouTube clone built with nodejs, expressjs & mongodb. This is the RESTful API repository.
-- [selectize.js](https://github.com/selectize/selectize.js)
-  - Selectize is the hybrid of a textbox and <select> box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.
-- [three.js](https://github.com/mrdoob/three.js)
-  - JavaScript 3D library.
-- [plyr](https://github.com/sampotts/plyr)
-  - A simple HTML5, YouTube and Vimeo player
-- [react](https://github.com/typescript-cheatsheets/react)
-  - Cheatsheets for experienced React developers getting started with TypeScript
+- [omatsuri](https://github.com/rtivital/omatsuri)
+  - Browser application with 9 open source frontend focused tools
+- [anti-honeypot](https://github.com/cnrstar/anti-honeypot)
+  - 一款可以检测WEB蜜罐并阻断请求的Chrome插件
+- [FE-Interview](https://github.com/lgwebdream/FE-Interview)
+  - 前端面试必备题库，1000+面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [baseweb](https://github.com/uber/baseweb)
+  - A React Component library implementing the Base design language
+- [howler.js](https://github.com/goldfire/howler.js)
+  - Javascript audio library for the modern web.
+- [react-native-website](https://github.com/facebook/react-native-website)
+  - The site and docs for React Native
+- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification)
+  - The OpenAPI Specification Repository
+- [pdfmake](https://github.com/bpampuch/pdfmake)
+  - Client/server side PDF printing in pure JavaScript
+- [Viewers](https://github.com/OHIF/Viewers)
+  - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker, plus shared extension packages
+- [vuex](https://github.com/vuejs/vuex)
+  - 🗃️ Centralized State Management for Vue.js.
+- [vue](https://github.com/vuejs/vue)
+  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [mapscii](https://github.com/rastapasta/mapscii)
+  - 🗺 MapSCII is a Braille & ASCII world map renderer for your console - enter => telnet mapscii.me <= on Mac and Linux, connect with PuTTY on Windows
+- [umami](https://github.com/mikecao/umami)
+  - Umami is a simple, fast, website analytics alternative to Google Analytics.
+- [echarts-for-react](https://github.com/hustcc/echarts-for-react)
+  - 📈 Apache ECharts (incubating) components for React wrapper. 一个简单的 Apache echarts (incubating) 的 React 封装。
 - [next.js](https://github.com/vercel/next.js)
   - The React Framework
-- [FileSaver.js](https://github.com/eligrey/FileSaver.js)
-  - An HTML5 saveAs() FileSaver implementation
-- [junior-recruit-scheduler](https://github.com/jojoldu/junior-recruit-scheduler)
-  - 주니어 개발자 채용 정보
-- [axios](https://github.com/axios/axios)
-  - Promise based HTTP client for the browser and node.js
-- [swiper](https://github.com/nolimits4web/swiper)
-  - Most modern mobile touch slider with hardware accelerated transitions
-- [realworld](https://github.com/gothinkster/realworld)
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [request](https://github.com/request/request)
-  - 🏊🏾 Simplified HTTP request client.
-- [odoo](https://github.com/odoo/odoo)
-  - Odoo. Open Source Apps To Grow Your Business.
-- [Universal-Bypass](https://github.com/Sainan/Universal-Bypass)
-  - Don't waste your time with compliance. Universal Bypass circumvents annoying link shorteners.
-- [node](https://github.com/nodejs/node)
-  - Node.js JavaScript runtime ✨🐢🚀✨
-- [eslint](https://github.com/eslint/eslint)
-  - Find and fix problems in your JavaScript code.
-- [gutenberg](https://github.com/WordPress/gutenberg)
-  - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
-- [Iosevka](https://github.com/be5invis/Iosevka)
-  - Slender typeface for code, from code.
-- [cropperjs](https://github.com/fengyuanchen/cropperjs)
-  - JavaScript image cropper.
-- [amis-admin](https://github.com/fex-team/amis-admin)
-  - 基于 amis 的后台项目前端模板
-- [joi](https://github.com/sideway/joi)
-  - The most powerful data validation library for JS
-- [react-i18next](https://github.com/i18next/react-i18next)
-  - Internationalization for react done right. Using the i18next i18n ecosystem.
-- [office-docs-powershell](https://github.com/MicrosoftDocs/office-docs-powershell)
-  - PowerShell Reference for Office Products - Short URL: aka.ms/office-powershell
-- [codesandbox-client](https://github.com/codesandbox/codesandbox-client)
-  - An online IDE for rapid web development
+- [async-validator](https://github.com/yiminghe/async-validator)
+  - validate form asynchronous
+- [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
+  - A React component for building Web forms from JSON Schema.
+- [taro](https://github.com/NervJS/taro)
+  - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5 等应用。 https://taro.jd.com/
+- [CodeceptJS](https://github.com/codeceptjs/CodeceptJS)
+  - Supercharged End 2 End Testing Framework for NodeJS
+- [d3](https://github.com/d3/d3)
+  - Bring data to life with SVG, Canvas and HTML. 📊📈🎉
+- [alpine](https://github.com/alpinejs/alpine)
+  - A rugged, minimal framework for composing JavaScript behavior in your markup.
+- [jszip](https://github.com/Stuk/jszip)
+  - Create, read and edit .zip files with Javascript
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
+  - ⛄ Possibly the smallest compiler ever
