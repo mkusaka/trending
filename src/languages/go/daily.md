@@ -1,51 +1,51 @@
 # go
-- [aws-controllers-k8s](https://github.com/aws/aws-controllers-k8s)
-  - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
-- [autoscaler](https://github.com/kubernetes/autoscaler)
-  - Autoscaling components for Kubernetes
-- [fabric](https://github.com/hyperledger/fabric)
-  - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
-- [sourcegraph](https://github.com/sourcegraph/sourcegraph)
-  - Universal code search (self-hosted)
-- [terrascan](https://github.com/accurics/terrascan)
-  - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 - [ent](https://github.com/facebook/ent)
   - An entity framework for Go
-- [cilium](https://github.com/cilium/cilium)
-  - eBPF-based Networking, Security, and Observability
-- [go-safeweb](https://github.com/google/go-safeweb)
-  - Secure-by-default HTTP servers in Go.
-- [mongo-go-driver](https://github.com/mongodb/mongo-go-driver)
-  - The Go driver for MongoDB
-- [aws-sdk-go](https://github.com/aws/aws-sdk-go)
-  - AWS SDK for the Go programming language.
-- [kubevirt](https://github.com/kubevirt/kubevirt)
-  - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
-- [kustomize](https://github.com/kubernetes-sigs/kustomize)
-  - Customization of kubernetes YAML configurations
+- [thanos](https://github.com/thanos-io/thanos)
+  - Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.
+- [fabric](https://github.com/hyperledger/fabric)
+  - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
 - [argo](https://github.com/argoproj/argo)
   - Argo Workflows: Get stuff done with Kubernetes.
-- [opa](https://github.com/open-policy-agent/opa)
-  - An open source, general-purpose policy engine.
-- [lotus](https://github.com/filecoin-project/lotus)
-  - Implementation of the Filecoin protocol, written in Go
+- [autoscaler](https://github.com/kubernetes/autoscaler)
+  - Autoscaling components for Kubernetes
 - [helm](https://github.com/helm/helm)
   - The Kubernetes Package Manager
-- [mapstructure](https://github.com/mitchellh/mapstructure)
-  - Go library for decoding generic map values into native Go structures and vice versa.
+- [infracost](https://github.com/aliscott/infracost)
+  - Get cost estimates from a Terraform project
+- [aws-controllers-k8s](https://github.com/aws/aws-controllers-k8s)
+  - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
+- [cortex](https://github.com/cortexproject/cortex)
+  - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
+- [go-elasticsearch](https://github.com/elastic/go-elasticsearch)
+  - The official Go client for Elasticsearch
 - [vault](https://github.com/hashicorp/vault)
   - A tool for secrets management, encryption as a service, and privileged access management
-- [client_golang](https://github.com/prometheus/client_golang)
-  - Prometheus instrumentation library for Go applications
-- [aws-alb-ingress-controller](https://github.com/kubernetes-sigs/aws-alb-ingress-controller)
-  - AWS ALB Ingress Controller for Kubernetes
-- [redis](https://github.com/go-redis/redis)
-  - Type-safe Redis client for Golang
-- [kapow](https://github.com/BBVA/kapow)
-  - Kapow! If you can script it, you can HTTP it.
-- [minio-go](https://github.com/minio/minio-go)
-  - MinIO Client SDK for Go
-- [contour](https://github.com/projectcontour/contour)
-  - Contour is a Kubernetes ingress controller using Envoy proxy.
-- [go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
-  - cqhttp的golang实现，轻量、原生跨平台.
+- [horcrux](https://github.com/jesseduffield/horcrux)
+  - Split your file into encrypted fragments so that you don't need to remember a passcode
+- [mapstructure](https://github.com/mitchellh/mapstructure)
+  - Go library for decoding generic map values into native Go structures and vice versa.
+- [mpb](https://github.com/vbauerster/mpb)
+  - multi progress bar for Go cli applications
+- [charts](https://github.com/helm/charts)
+  - Curated applications for Kubernetes
+- [terraform](https://github.com/hashicorp/terraform)
+  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [cli](https://github.com/docker/cli)
+  - The Docker CLI
+- [harbor](https://github.com/goharbor/harbor)
+  - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [nomad](https://github.com/hashicorp/nomad)
+  - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+- [pgx](https://github.com/jackc/pgx)
+  - PostgreSQL driver and toolkit for Go
+- [terraform-provider-kubernetes-alpha](https://github.com/hashicorp/terraform-provider-kubernetes-alpha)
+  - A Terraform provider for Kubernetes that uses dynamic resource types and server-side apply. Supports all Kubernetes resources.
+- [sourcegraph](https://github.com/sourcegraph/sourcegraph)
+  - Universal code search (self-hosted)
+- [magma](https://github.com/magma/magma)
+  - Platform for building access networks and modular network services
+- [cilium](https://github.com/cilium/cilium)
+  - eBPF-based Networking, Security, and Observability
+- [telegraf](https://github.com/influxdata/telegraf)
+  - The plugin-driven server agent for collecting & reporting metrics.
