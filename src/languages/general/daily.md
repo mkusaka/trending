@@ -1,50 +1,51 @@
 # general
-- [hello-algorithm](https://github.com/geekxh/hello-algorithm) : Java
-  - 🌍 🌎 东半球最酷的学习项目 | 包括：1、我写的三十万字图解算法题典 2、100 张各语言思维导图 和 1000 本编程电子📚 3、100 篇大厂面经下载 | English version supported !!! 国人项目上榜不易，右上角助力一波 🚀🚀！干就对了，奥利给 ！💪💪💪
 - [googletest](https://github.com/google/googletest) : C++
   - Googletest - Google Testing and Mocking Framework
-- [aws-controllers-k8s](https://github.com/aws/aws-controllers-k8s) : Go
-  - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
+- [computervision-recipes](https://github.com/microsoft/computervision-recipes) : Jupyter Notebook
+  - Best Practices, code samples, and documentation for Computer Vision.
+- [fastbook](https://github.com/fastai/fastbook) : Jupyter Notebook
+  - Draft of the fastai book
+- [spring-authorization-server](https://github.com/spring-projects-experimental/spring-authorization-server) : Java
+  - A community-driven project led by the Spring Security team and is focused on delivering Authorization Server support to the Spring community
+- [ent](https://github.com/facebook/ent) : Go
+  - An entity framework for Go
+- [amplify-flutter](https://github.com/aws-amplify/amplify-flutter) : Dart
+  - Amplify Framework provides a declarative and easy-to-use interface across different categories of cloud operations.
+- [metamask-extension](https://github.com/MetaMask/metamask-extension) : JavaScript
+  - 🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [RSSHub](https://github.com/DIYgod/RSSHub) : JavaScript
+  - 🍰 Everything is RSSible
+- [machine-learning-interview](https://github.com/khangich/machine-learning-interview) : 
+  - Minimum Viable Study Plan for Machine Learning Interviews from FAAG, Snapchat, LinkedIn.
+- [Deep-learning-books](https://github.com/loveunk/Deep-learning-books) : 
+  - Books for machine learning, deep learning, math, NLP, CV, RL, etc
+- [hello-algorithm](https://github.com/geekxh/hello-algorithm) : Java
+  - 🌍 🌎 东半球最酷的学习项目 | 包括：1、我写的三十万字图解算法题典 2、100 张各语言思维导图 和 1000 本编程电子📚 3、100 篇大厂面经下载 | English version supported !!! 国人项目上榜不易，右上角助力一波 🚀🚀！干就对了，奥利给 ！💪💪💪
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) : 
   - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-- [labs_campaigns](https://github.com/guardicore/labs_campaigns) : Java
-- [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) : 
-  - 中国程序员容易发音错误的单词
-- [ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) : TypeScript
-  - Cut and paste your surroundings using AR
-- [ts-migrate](https://github.com/airbnb/ts-migrate) : TypeScript
-  - A tool to help migrate JavaScript code quickly and conveniently to TypeScript
-- [libra](https://github.com/Palashio/libra) : Python
-  - Ergonomic machine learning for everyone.
+- [baiduwp](https://github.com/TkzcM/baiduwp) : JavaScript
+  - PanDownload Web, built with CloudFlare Workers
+- [fet.sh](https://github.com/6gk/fet.sh) : Shell
+  - a fetch written in posix shell without any external commands (linux only)
+- [Parma](https://github.com/dasautoooo/Parma) : Swift
+  - A SwiftUI view for displaying Markdown with customizable appearances.
 - [imgui](https://github.com/ocornut/imgui) : C++
   - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-- [magento2](https://github.com/magento/magento2) : PHP
-  - All Submissions you make to Magento Inc. ("Magento") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, subli…
-- [fastlane](https://github.com/fastlane/fastlane) : Ruby
-  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [autoscaler](https://github.com/kubernetes/autoscaler) : Go
-  - Autoscaling components for Kubernetes
-- [element-plus](https://github.com/element-plus/element-plus) : TypeScript
-  - A Vue.js 3.0 UI Toolkit for Web
-- [d2l-en](https://github.com/d2l-ai/d2l-en) : Python
-  - Interactive deep learning book with code, math, and discussions. Available in multi-frameworks.
-- [InfoSpider](https://github.com/kangvcar/InfoSpider) : Python
-  - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
-- [omatsuri](https://github.com/rtivital/omatsuri) : JavaScript
-  - Browser application with 9 open source frontend focused tools
-- [insight](https://github.com/abhimishra91/insight) : Python
-  - Repository for Project Insight: NLP as a Service
-- [fabric](https://github.com/hyperledger/fabric) : Go
-  - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
-- [Catch2](https://github.com/catchorg/Catch2) : C++
-  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-- [shoelace](https://github.com/shoelace-style/shoelace) : TypeScript
-  - A collection of professionally designed, every day UI components built on a framework-agnostic technology. 🥾
-- [awesome-hpp](https://github.com/p-ranav/awesome-hpp) : 
-  - A curated list of awesome header-only C++ libraries
-- [posthog](https://github.com/PostHog/posthog) : Python
-  - 🦔 PostHog is developer-friendly, open-source product analytics.
-- [element3](https://github.com/kkbjs/element3) : Vue
-  - (WIP)fork from ElemeFE/element ,A Vue.js 3.0 UI Toolkit for Web
-- [pytorch](https://github.com/pytorch/pytorch) : C++
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) : TypeScript
+  - Cut and paste your surroundings using AR
+- [learn-cantrill-io-labs](https://github.com/acantril/learn-cantrill-io-labs) : Shell
+  - Standard and Advanced Demos for learn.cantrill.io courses
+- [jstime](https://github.com/jstime/jstime) : Rust
+  - another runtime
+- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
+  - A long list of (advanced) JavaScript questions, and their explanations ✨
+- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) : 
+  - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+- [awesome-django](https://github.com/wsvincent/awesome-django) : Makefile
+  - A curated list of awesome things related to Django
+- [NYPD-Misconduct-Complaint-Database](https://github.com/new-york-civil-liberties-union/NYPD-Misconduct-Complaint-Database) : 
+  - This database is a record of NYPD misconduct complaints made by the public to the Civilian Complaint Review Board (CCRB).
+- [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) : Java
+  - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
+- [react-native-video](https://github.com/react-native-community/react-native-video) : Java
+  - A <Video /> component for react-native
