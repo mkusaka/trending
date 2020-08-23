@@ -1,51 +1,51 @@
 # typescript
-- [ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste)
-  - Cut and paste your surroundings using AR
-- [ts-migrate](https://github.com/airbnb/ts-migrate)
-  - A tool to help migrate JavaScript code quickly and conveniently to TypeScript
-- [vue-next](https://github.com/vuejs/vue-next)
-  - Repo for Vue 3.0 (currently in RC)
-- [squoosh](https://github.com/GoogleChromeLabs/squoosh)
-  - Make images smaller using best-in-class codecs, right in the browser.
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui)
+  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [lireddit](https://github.com/benawad/lireddit)
   - 
-- [type-graphql](https://github.com/MichalLytek/type-graphql)
-  - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
-- [wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-  - 💬 🤖 The most advanced NodeJS whatsapp library for chatbots with advanced features. Be sure to 🌟 this repository for updates!
-- [amazon-chime-sdk-js](https://github.com/aws/amazon-chime-sdk-js)
-  - A JavaScript client library for integrating multi-party communications powered by the Amazon Chime service.
-- [vite](https://github.com/vitejs/vite)
-  - Native-ESM powered web dev build tool. It's fast.
-- [blitz](https://github.com/blitz-js/blitz)
-  - ⚡️The Fullstack React Framework — built on Next.js
-- [element-plus](https://github.com/element-plus/element-plus)
-  - A Vue.js 3.0 UI Toolkit for Web
-- [mitojs](https://github.com/clouDr-f2e/mitojs)
-  - 👀 一款轻量级的收集页面的用户点击行为、路由跳转、接口报错、代码报错、并上报服务端的SDK
-- [litmus](https://github.com/litmuschaos/litmus)
-  - Litmus helps Kubernetes SREs and developers practice chaos engineering in a Kubernetes native way. Chaos experiments are published at the ChaosHub (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q
-- [qiankun](https://github.com/umijs/qiankun)
-  - 📦 🚀 Blazing fast, simple and completed solution for micro frontends.
-- [typeorm](https://github.com/typeorm/typeorm)
-  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-- [hooks](https://github.com/alibaba/hooks)
-  - React Hooks Library
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
-  - 📋 React Hooks for forms validation (Web + React Native)
-- [uniswap-interface](https://github.com/Uniswap/uniswap-interface)
-  - 🦄 An open source interface for the Uniswap protocol
-- [prisma](https://github.com/prisma/prisma)
-  - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
-- [checkout](https://github.com/actions/checkout)
-  - Action for checking out a repo
-- [shoelace](https://github.com/shoelace-style/shoelace)
-  - A collection of professionally designed, every day UI components built on a framework-agnostic technology. 🥾
-- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
-  - The source for REST API specifications for Microsoft Azure.
+- [etcher](https://github.com/balena-io/etcher)
+  - Flash OS images to SD cards & USB drives, safely and easily.
+- [nest](https://github.com/nestjs/nest)
+  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [taskcafe](https://github.com/JordanKnott/taskcafe)
+  - An open source project management tool with Kanban boards
+- [appsmith](https://github.com/appsmithorg/appsmith)
+  - Appsmith is a web framework to build dashboards, workflows, forms, and any internal tool. The framework comes with UI widgets like tables, charts, forms, map viewer, and more. Easily connect to REST APIs, Postgres, Mongo, and MySQL. Invite users and allow login with Google accounts.
 - [deno](https://github.com/denoland/deno)
   - A secure JavaScript and TypeScript runtime
-- [urql](https://github.com/FormidableLabs/urql)
-  - The highly customizable and versatile GraphQL client.
-- [slate](https://github.com/ianstormtaylor/slate)
-  - A completely customizable framework for building rich text editors. (Currently in beta.)
+- [element-plus](https://github.com/element-plus/element-plus)
+  - A Vue.js 3.0 UI Toolkit for Web
+- [react-use](https://github.com/streamich/react-use)
+  - React Hooks — 👍
+- [excalidraw](https://github.com/excalidraw/excalidraw)
+  - Virtual whiteboard for sketching hand-drawn like diagrams
+- [vue-next](https://github.com/vuejs/vue-next)
+  - Repo for Vue 3.0 (currently in RC)
+- [ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste)
+  - Cut and paste your surroundings using AR
+- [face-api.js](https://github.com/justadudewhohacks/face-api.js)
+  - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
+- [pixi.js](https://github.com/pixijs/pixi.js)
+  - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+- [apollo-client](https://github.com/apollographql/apollo-client)
+  - 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
+- [type-graphql](https://github.com/MichalLytek/type-graphql)
+  - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
+- [graphql-yoga](https://github.com/prisma-labs/graphql-yoga)
+  - 🧘 Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience
+- [vite](https://github.com/vitejs/vite)
+  - Native-ESM powered web dev build tool. It's fast.
+- [react-navigation](https://github.com/react-navigation/react-navigation)
+  - Routing and navigation for your React Native apps
+- [typeorm](https://github.com/typeorm/typeorm)
+  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+- [elderjs](https://github.com/Elderjs/elderjs)
+  - Elder.js is an opinionated static site generator and web framework for Svelte built with SEO in mind.
+- [algorithms-and-data-structures](https://github.com/jeffzh4ng/algorithms-and-data-structures)
+  - A collection of classical data structures and algorithms implemented in Typescript with video lectures
+- [berial](https://github.com/berialjs/berial)
+  - 😈 Simple micro-front-end framework.
+- [homebridge](https://github.com/homebridge/homebridge)
+  - HomeKit support for the impatient
+- [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
+  - Foreign language reading and translation assistant based on copy and translate.

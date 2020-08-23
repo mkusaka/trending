@@ -1,51 +1,49 @@
 # general
-- [googletest](https://github.com/google/googletest) : C++
-  - Googletest - Google Testing and Mocking Framework
-- [computervision-recipes](https://github.com/microsoft/computervision-recipes) : Jupyter Notebook
-  - Best Practices, code samples, and documentation for Computer Vision.
 - [fastbook](https://github.com/fastai/fastbook) : Jupyter Notebook
   - Draft of the fastai book
+- [computervision-recipes](https://github.com/microsoft/computervision-recipes) : Jupyter Notebook
+  - Best Practices, code samples, and documentation for Computer Vision.
+- [VancedManager](https://github.com/YTVanced/VancedManager) : Kotlin
+  - Vanced Installer
+- [PowerToys](https://github.com/microsoft/PowerToys) : C++
+  - Windows system utilities to maximize productivity
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui) : TypeScript
+  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+- [lireddit](https://github.com/benawad/lireddit) : TypeScript
+- [cxx](https://github.com/dtolnay/cxx) : Rust
+  - Safe interop between Rust and C++
+- [Interviews](https://github.com/Feynman687/Interviews) : 
+- [zig](https://github.com/ziglang/zig) : Zig
+  - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [spring-authorization-server](https://github.com/spring-projects-experimental/spring-authorization-server) : Java
   - A community-driven project led by the Spring Security team and is focused on delivering Authorization Server support to the Spring community
+- [awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians) : 
+  - 🇧🇷 A collection of amazing open source projects built by brazilian developers
+- [Alt-F4](https://github.com/AlternativeFFFF/Alt-F4) : 
+  - Alternative Factorio Friday Fan Facts, also known as Alt-F4
 - [ent](https://github.com/facebook/ent) : Go
   - An entity framework for Go
-- [amplify-flutter](https://github.com/aws-amplify/amplify-flutter) : Dart
-  - Amplify Framework provides a declarative and easy-to-use interface across different categories of cloud operations.
-- [metamask-extension](https://github.com/MetaMask/metamask-extension) : JavaScript
-  - 🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
-- [RSSHub](https://github.com/DIYgod/RSSHub) : JavaScript
-  - 🍰 Everything is RSSible
-- [machine-learning-interview](https://github.com/khangich/machine-learning-interview) : 
-  - Minimum Viable Study Plan for Machine Learning Interviews from FAAG, Snapchat, LinkedIn.
 - [Deep-learning-books](https://github.com/loveunk/Deep-learning-books) : 
   - Books for machine learning, deep learning, math, NLP, CV, RL, etc
-- [hello-algorithm](https://github.com/geekxh/hello-algorithm) : Java
-  - 🌍 🌎 东半球最酷的学习项目 | 包括：1、我写的三十万字图解算法题典 2、100 张各语言思维导图 和 1000 本编程电子📚 3、100 篇大厂面经下载 | English version supported !!! 国人项目上榜不易，右上角助力一波 🚀🚀！干就对了，奥利给 ！💪💪💪
-- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) : 
-  - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-- [baiduwp](https://github.com/TkzcM/baiduwp) : JavaScript
-  - PanDownload Web, built with CloudFlare Workers
-- [fet.sh](https://github.com/6gk/fet.sh) : Shell
-  - a fetch written in posix shell without any external commands (linux only)
-- [Parma](https://github.com/dasautoooo/Parma) : Swift
-  - A SwiftUI view for displaying Markdown with customizable appearances.
 - [imgui](https://github.com/ocornut/imgui) : C++
   - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-- [ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) : TypeScript
-  - Cut and paste your surroundings using AR
-- [learn-cantrill-io-labs](https://github.com/acantril/learn-cantrill-io-labs) : Shell
-  - Standard and Advanced Demos for learn.cantrill.io courses
-- [jstime](https://github.com/jstime/jstime) : Rust
-  - another runtime
-- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
-  - A long list of (advanced) JavaScript questions, and their explanations ✨
+- [fastai](https://github.com/fastai/fastai) : Jupyter Notebook
+  - The fastai deep learning library, plus lessons and tutorials
+- [Ventoy](https://github.com/ventoy/Ventoy) : C
+  - A new bootable USB solution.
+- [ksubdomain](https://github.com/knownsec/ksubdomain) : Go
+  - 无状态子域名爆破工具
+- [api-guidelines](https://github.com/microsoft/api-guidelines) : 
+  - Microsoft REST API Guidelines
+- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
+  - Course Files for Complete Python 3 Bootcamp Course on Udemy
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) : 
   - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+- [TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) : Python
+  - 😝 TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, Korean, Chinese)
 - [awesome-django](https://github.com/wsvincent/awesome-django) : Makefile
   - A curated list of awesome things related to Django
-- [NYPD-Misconduct-Complaint-Database](https://github.com/new-york-civil-liberties-union/NYPD-Misconduct-Complaint-Database) : 
-  - This database is a record of NYPD misconduct complaints made by the public to the Civilian Complaint Review Board (CCRB).
-- [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) : Java
-  - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
-- [react-native-video](https://github.com/react-native-community/react-native-video) : Java
-  - A <Video /> component for react-native
+- [shapez.io](https://github.com/tobspr/shapez.io) : JavaScript
+  - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
+- [optuna](https://github.com/optuna/optuna) : Python
+  - A hyperparameter optimization framework

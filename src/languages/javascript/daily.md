@@ -1,51 +1,51 @@
 # javascript
-- [metamask-extension](https://github.com/MetaMask/metamask-extension)
-  - 🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [shapez.io](https://github.com/tobspr/shapez.io)
+  - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
+- [next.js](https://github.com/vercel/next.js)
+  - The React Framework
 - [RSSHub](https://github.com/DIYgod/RSSHub)
   - 🍰 Everything is RSSible
+- [v4](https://github.com/bchiang7/v4)
+  - Fourth iteration of my personal website
+- [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+  - 😎 A curated list of awesome Github Profile READMEs 📝
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [metamask-extension](https://github.com/MetaMask/metamask-extension)
+  - 🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [deleteDiscordMessages](https://github.com/victornpb/deleteDiscordMessages)
+  - Undiscord - Delete all messages in a Discord channel or DM (Easy and fast) Bulk delete
+- [iptv](https://github.com/iptv-org/iptv)
+  - Collection of 8000+ publicly available IPTV channels from all over the world
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
+  - Starter files, final projects and FAQ for my Complete JavaScript course
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+  - ⚡ Dynamically generated stats for your github readmes
 - [baiduwp](https://github.com/TkzcM/baiduwp)
   - PanDownload Web, built with CloudFlare Workers
-- [omatsuri](https://github.com/rtivital/omatsuri)
-  - Browser application with 9 open source frontend focused tools
-- [vue](https://github.com/vuejs/vue)
-  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [in-quiz-questions](https://github.com/Ebazhanov/in-quiz-questions)
-  - Skill Linkedin quiz Assessment, answers and questions (aws-lambda, rest-api, javascript, react, git, html, jquery, maven, mongodb, xml, java, css, python ...) ответы на квиз
-- [carbon](https://github.com/carbon-design-system/carbon)
-  - A design system built by IBM
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [baseweb](https://github.com/uber/baseweb)
-  - A React Component library implementing the Base design language
-- [howler.js](https://github.com/goldfire/howler.js)
-  - Javascript audio library for the modern web.
-- [FE-Interview](https://github.com/lgwebdream/FE-Interview)
-  - 前端面试必备题库，1000+面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器
+- [project_chat_application](https://github.com/adrianhajdin/project_chat_application)
+  - This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a real time chat application. Covered topics: React.js, Node.js, Express.js, and Socket.io.
+- [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui)
+  - A desktop application for downloading Udemy Courses
+- [kubernetes-handbook-projects](https://github.com/fhsinchy/kubernetes-handbook-projects)
+  - Project codes used in "The Kubernetes Handbook" 📓
 - [cypress](https://github.com/cypress-io/cypress)
   - Fast, easy and reliable testing for anything that runs in a browser.
-- [RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar)
-  - 🍰 Browser extension that simplifies finding and subscribing RSS and RSSHub
-- [QuickDesk](https://github.com/saineshwar/QuickDesk)
-  - The help desk software for small companies which are into customer support. Developed in ASP.NET MVC | SQL Server.
-- [Detox](https://github.com/wix/Detox)
-  - Gray box end-to-end testing and automation framework for mobile apps
-- [japanese-addresses](https://github.com/geolonia/japanese-addresses)
-  - 全国の町丁目レベル（189,540件）の住所データのオープンデータ
-- [sheetjs](https://github.com/SheetJS/sheetjs)
-  - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
-- [axios](https://github.com/axios/axios)
-  - Promise based HTTP client for the browser and node.js
-- [udemy-docker-mastery](https://github.com/BretFisher/udemy-docker-mastery)
-  - Udemy Course to build, compose, deploy, and manage containers from local development to high-availability in the cloud
-- [thelounge](https://github.com/thelounge/thelounge)
-  - 💬 Modern, responsive, cross-platform, self-hosted web IRC client
-- [ccxt](https://github.com/ccxt/ccxt)
-  - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [nuxt.js](https://github.com/nuxt/nuxt.js)
-  - The Intuitive Vue Framework
-- [openlayers](https://github.com/openlayers/openlayers)
-  - OpenLayers
-- [localForage](https://github.com/localForage/localForage)
-  - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
+  - The iconic SVG, font, and CSS toolkit
+- [rollup](https://github.com/rollup/rollup)
+  - Next-generation ES module bundler
+- [awesome-react-native](https://github.com/jondot/awesome-react-native)
+  - Awesome React Native components, news, tools, and learning material!
+- [pdf.js](https://github.com/mozilla/pdf.js)
+  - PDF Reader in JavaScript
+- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
+  - Revive unavailable songs for Netease Cloud Music
+- [goindex-theme-acrou](https://github.com/Aicirou/goindex-theme-acrou)
+  - This is a goindex theme.一个goindex的扩展主题。
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [django-ecommerce](https://github.com/justdjango/django-ecommerce)
+  - An e-commerce website built with Django
+- [devconnector_2.0](https://github.com/bradtraversy/devconnector_2.0)
+  - Social network for developers, built on the MERN stack
