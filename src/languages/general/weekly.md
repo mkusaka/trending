@@ -1,51 +1,47 @@
 # general
-- [servo](https://github.com/servo/servo) : Rust
-  - The Servo Browser Engine
-- [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) : PowerShell
-  - Script to remove Windows 10 bloatware.
-- [rome](https://github.com/romefrontend/rome) : TypeScript
-  - The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
-- [sherlock](https://github.com/sherlock-project/sherlock) : Python
-  - 🔎 Hunt down social media accounts by username across social networks
-- [pyre-check](https://github.com/facebook/pyre-check) : OCaml
-  - Performant type-checking for python.
-- [fast](https://github.com/microsoft/fast) : TypeScript
-  - The adaptive interface system  for modern web experiences.
-- [prefect](https://github.com/PrefectHQ/prefect) : Python
-  - The easiest way to automate your data
-- [hutool](https://github.com/looly/hutool) : Java
-  - A set of tools that keep Java sweet.
-- [storybook](https://github.com/storybookjs/storybook) : TypeScript
-  - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
+- [fastbook](https://github.com/fastai/fastbook) : Jupyter Notebook
+  - Draft of the fastai book
+- [computervision-recipes](https://github.com/microsoft/computervision-recipes) : Jupyter Notebook
+  - Best Practices, code samples, and documentation for Computer Vision.
+- [mall-swarm](https://github.com/macrozheng/mall-swarm) : Java
+  - mall-swarm是一套微服务商城系统，采用了 Spring Cloud Hoxton & Alibaba、Spring Boot 2.3、Oauth2、MyBatis、Docker、Elasticsearch等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。
+- [googletest](https://github.com/google/googletest) : C++
+  - Googletest - Google Testing and Mocking Framework
+- [annie](https://github.com/iawia002/annie) : Go
+  - 👾 Fast, simple and clean video downloader
+- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) : Go
+  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [desafio-2-2020](https://github.com/maratonadev-br/desafio-2-2020) : Jupyter Notebook
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
   - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
-- [papercups](https://github.com/papercups-io/papercups) : Elixir
-  - Open-source live customer chat
-- [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) : Java
-  - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
-- [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) : Jupyter Notebook
-  - This repository contains the source code for the paper First Order Motion Model for Image Animation
-- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) : PowerShell
-  - Azure Quickstart Templates
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [heroicons](https://github.com/tailwindlabs/heroicons) : JavaScript
-  - A set of free MIT-licensed high-quality SVG icons for UI development.
-- [tidb](https://github.com/pingcap/tidb) : Go
-  - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
-- [onemall](https://github.com/YunaiV/onemall) : Java
-  - 芋道 mall 商城，基于微服务的思想，构建在 B2C 电商场景下的项目实战。核心技术栈，是 Spring Boot + Dubbo 。未来，会重构成 Spring Cloud Alibaba 。
-- [rancher](https://github.com/rancher/rancher) : Go
-  - Complete container management platform
-- [chainlink](https://github.com/smartcontractkit/chainlink) : Go
-  - node of the decentralized oracle network, bridging on and off-chain computation
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
-  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
-- [ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) : Python
-  - Ansible for DevOps examples.
-- [drogon](https://github.com/an-tao/drogon) : C++
-  - Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows
-- [bpytop](https://github.com/aristocratos/bpytop) : Python
-  - Linux/OSX/FreeBSD resource monitor
-- [bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) : JavaScript
-  - Complete open source web conferencing system.
+- [hello-algorithm](https://github.com/geekxh/hello-algorithm) : Java
+  - 🌍 🌎 东半球最酷的学习项目 | 包括：1、我写的三十万字图解算法题典 2、100 张各语言思维导图 和 1000 本编程电子📚 3、100 篇大厂面经下载 | English version supported !!! 国人项目上榜不易，右上角助力一波 🚀🚀！干就对了，奥利给 ！💪💪💪
+- [RSSHub](https://github.com/DIYgod/RSSHub) : JavaScript
+  - 🍰 Everything is RSSible
+- [Pokedex](https://github.com/skydoves/Pokedex) : Kotlin
+  - 🗡️ Android Pokedex using Dagger Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
+- [E-commerce-Complete-Flutter-UI](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI) : Dart
+- [desafio-1-2020](https://github.com/maratonadev-la/desafio-1-2020) : JavaScript
+- [fastai](https://github.com/fastai/fastai) : Jupyter Notebook
+  - The fastai deep learning library, plus lessons and tutorials
+- [sherlock](https://github.com/sherlock-project/sherlock) : Python
+  - 🔎 Hunt down social media accounts by username across social networks
+- [aws-machine-learning-university-accelerated-nlp](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp) : Jupyter Notebook
+  - Machine Learning University: Accelerated Natural Language Processing Class
+- [bevy](https://github.com/bevyengine/bevy) : Rust
+  - A refreshingly simple data-driven game engine built in Rust
+- [imgui](https://github.com/ocornut/imgui) : C++
+  - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+- [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) : Java
+  - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+- [LeetCode](https://github.com/yuanguangxin/LeetCode) : Java
+  - LeetCode刷题记录
+- [workshop](https://github.com/data-science-on-aws/workshop) : Jupyter Notebook
+  - AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker
+- [fullcalendar](https://github.com/fullcalendar/fullcalendar) : TypeScript
+  - Full-sized drag & drop event calendar
+- [desafio-1-2020](https://github.com/maratonadev-br/desafio-1-2020) : JavaScript
+- [talent-plan](https://github.com/pingcap/talent-plan) : Rust
+  - open source training courses about distributed database and distributed systemes
+- [zig](https://github.com/ziglang/zig) : Zig
+  - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
