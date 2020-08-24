@@ -3,47 +3,48 @@
   - Draft of the fastai book
 - [computervision-recipes](https://github.com/microsoft/computervision-recipes) : Jupyter Notebook
   - Best Practices, code samples, and documentation for Computer Vision.
-- [VancedManager](https://github.com/YTVanced/VancedManager) : Kotlin
-  - Vanced Installer
-- [PowerToys](https://github.com/microsoft/PowerToys) : C++
-  - Windows system utilities to maximize productivity
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui) : TypeScript
-  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [lireddit](https://github.com/benawad/lireddit) : TypeScript
 - [cxx](https://github.com/dtolnay/cxx) : Rust
   - Safe interop between Rust and C++
-- [Interviews](https://github.com/Feynman687/Interviews) : 
-- [zig](https://github.com/ziglang/zig) : Zig
-  - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
-- [spring-authorization-server](https://github.com/spring-projects-experimental/spring-authorization-server) : Java
-  - A community-driven project led by the Spring Security team and is focused on delivering Authorization Server support to the Spring community
-- [awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians) : 
-  - 🇧🇷 A collection of amazing open source projects built by brazilian developers
-- [Alt-F4](https://github.com/AlternativeFFFF/Alt-F4) : 
-  - Alternative Factorio Friday Fan Facts, also known as Alt-F4
-- [ent](https://github.com/facebook/ent) : Go
-  - An entity framework for Go
-- [Deep-learning-books](https://github.com/loveunk/Deep-learning-books) : 
-  - Books for machine learning, deep learning, math, NLP, CV, RL, etc
-- [imgui](https://github.com/ocornut/imgui) : C++
-  - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+- [bevy](https://github.com/bevyengine/bevy) : Rust
+  - A refreshingly simple data-driven game engine built in Rust
+- [desafio-3-2020](https://github.com/maratonadev-br/desafio-3-2020) : 
+- [yfinance](https://github.com/ranaroussi/yfinance) : Python
+  - Yahoo! Finance market data downloader (+faster Pandas Datareader)
+- [godot](https://github.com/godotengine/godot) : C++
+  - Godot Engine – Multi-platform 2D and 3D game engine
 - [fastai](https://github.com/fastai/fastai) : Jupyter Notebook
   - The fastai deep learning library, plus lessons and tutorials
-- [Ventoy](https://github.com/ventoy/Ventoy) : C
-  - A new bootable USB solution.
-- [ksubdomain](https://github.com/knownsec/ksubdomain) : Go
-  - 无状态子域名爆破工具
-- [api-guidelines](https://github.com/microsoft/api-guidelines) : 
-  - Microsoft REST API Guidelines
-- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
-  - Course Files for Complete Python 3 Bootcamp Course on Udemy
-- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) : 
-  - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+- [raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) : C
+  - Learning operating system development using Linux kernel and Raspberry Pi
+- [talent-plan](https://github.com/pingcap/talent-plan) : Rust
+  - open source training courses about distributed database and distributed systemes
+- [PowerToys](https://github.com/microsoft/PowerToys) : C++
+  - Windows system utilities to maximize productivity
+- [egua](https://github.com/eguatech/egua) : JavaScript
+  - 🦄 Linguagem de programação simples e moderna em português
+- [CS-Notes](https://github.com/huangrt01/CS-Notes) : Python
+  - 我的自学笔记，在学习shell和MLSys，整理C++、算法、操作系统，后续学习分布式系统，终身更新。
+- [manim](https://github.com/3b1b/manim) : Python
+  - Animation engine for explanatory math videos
 - [TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) : Python
   - 😝 TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, Korean, Chinese)
-- [awesome-django](https://github.com/wsvincent/awesome-django) : Makefile
-  - A curated list of awesome things related to Django
+- [Deep-learning-books](https://github.com/loveunk/Deep-learning-books) : 
+  - Books for machine learning, deep learning, math, NLP, CV, RL, etc
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
+  - Course Files for Complete Python 3 Bootcamp Course on Udemy
+- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) : 
+  - Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
+- [Ventoy](https://github.com/ventoy/Ventoy) : C
+  - A new bootable USB solution.
 - [shapez.io](https://github.com/tobspr/shapez.io) : JavaScript
   - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
-- [optuna](https://github.com/optuna/optuna) : Python
-  - A hyperparameter optimization framework
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) : JavaScript
+  - ⭐️ Companies that don't have a broken hiring process
+- [ent](https://github.com/facebook/ent) : Go
+  - An entity framework for Go
+- [everyones-guide-for-starting-up-on-wechat-network](https://github.com/xiaolai/everyones-guide-for-starting-up-on-wechat-network) : 
+  - 微信互联网平民创业
+- [zig](https://github.com/ziglang/zig) : Zig
+  - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.

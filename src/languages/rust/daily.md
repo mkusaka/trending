@@ -1,51 +1,51 @@
 # rust
 - [cxx](https://github.com/dtolnay/cxx)
   - Safe interop between Rust and C++
-- [kulupu](https://github.com/kulupu/kulupu)
-  - PoW blockchain with on-chain governance and online upgrade, built on Substrate
-- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
-  - Rust bindings to wgpu native library
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [rustlings](https://github.com/rust-lang/rustlings)
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [gitui](https://github.com/extrawurst/gitui)
-  - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [warp](https://github.com/seanmonstar/warp)
-  - A super-easy, composable, web server framework for warp speeds.
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
-- [tide](https://github.com/http-rs/tide)
-  - Fast and friendly HTTP server framework for async Rust
-- [amethyst](https://github.com/amethyst/amethyst)
-  - Data-oriented and data-driven game engine written in Rust
-- [jstime](https://github.com/jstime/jstime)
-  - another runtime
-- [lsd](https://github.com/Peltoche/lsd)
-  - The next gen ls command
-- [rustfmt](https://github.com/rust-lang/rustfmt)
-  - Format Rust code
-- [autocxx](https://github.com/google/autocxx)
-  - 
-- [hyper](https://github.com/hyperium/hyper)
-  - An HTTP library for Rust
-- [tauri](https://github.com/tauri-apps/tauri)
-  - Build smaller, faster, and more secure desktop applications with a web frontend.
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
-- [delta](https://github.com/dandavison/delta)
-  - A viewer for git and diff output
-- [polkadot](https://github.com/paritytech/polkadot)
-  - Polkadot Node Implementation
-- [druid](https://github.com/linebender/druid)
-  - A data-first Rust-native UI design toolkit.
 - [bevy](https://github.com/bevyengine/bevy)
   - A refreshingly simple data-driven game engine built in Rust
 - [talent-plan](https://github.com/pingcap/talent-plan)
   - open source training courses about distributed database and distributed systemes
+- [autocxx](https://github.com/google/autocxx)
+  - 
+- [kulupu](https://github.com/kulupu/kulupu)
+  - PoW blockchain with on-chain governance and online upgrade, built on Substrate
+- [starship](https://github.com/starship/starship)
+  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [rust](https://github.com/rust-lang/rust)
   - Empowering everyone to build reliable and efficient software.
-- [exa](https://github.com/ogham/exa)
-  - A modern version of ‘ls’.
+- [nushell](https://github.com/nushell/nushell)
+  - A new type of shell
+- [RustScan](https://github.com/RustScan/RustScan)
+  - Faster Nmap Scanning with Rust
+- [delta](https://github.com/dandavison/delta)
+  - A viewer for git and diff output
+- [rust-clippy](https://github.com/rust-lang/rust-clippy)
+  - A bunch of lints to catch common mistakes and improve your Rust code
+- [book](https://github.com/rust-lang/book)
+  - The Rust Programming Language
+- [rustlings](https://github.com/rust-lang/rustlings)
+  - 🦀 Small exercises to get you used to reading and writing Rust code!
+- [Rocket](https://github.com/SergioBenitez/Rocket)
+  - A web framework for Rust.
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
+- [sqlx](https://github.com/launchbadge/sqlx)
+  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [tokio](https://github.com/tokio-rs/tokio)
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [polkadot](https://github.com/paritytech/polkadot)
+  - Polkadot Node Implementation
+- [orogene](https://github.com/orogene/orogene)
+  - A next-generation platform and package manager for Node.js-compatible and frontend JavaScript projects!
+- [iced](https://github.com/hecrj/iced)
+  - A cross-platform GUI library for Rust, inspired by Elm
+- [tree-sitter](https://github.com/tree-sitter/tree-sitter)
+  - An incremental parsing system for programming tools
+- [druid](https://github.com/linebender/druid)
+  - A data-first Rust-native UI design toolkit.
+- [jstime](https://github.com/jstime/jstime)
+  - another runtime
+- [diesel](https://github.com/diesel-rs/diesel)
+  - A safe, extensible ORM and Query Builder for Rust

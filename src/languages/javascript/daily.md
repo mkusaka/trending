@@ -1,51 +1,51 @@
 # javascript
+- [egua](https://github.com/eguatech/egua)
+  - 🦄 Linguagem de programação simples e moderna em português
 - [shapez.io](https://github.com/tobspr/shapez.io)
   - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
-- [next.js](https://github.com/vercel/next.js)
-  - The React Framework
-- [RSSHub](https://github.com/DIYgod/RSSHub)
-  - 🍰 Everything is RSSible
-- [v4](https://github.com/bchiang7/v4)
-  - Fourth iteration of my personal website
-- [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-  - 😎 A curated list of awesome Github Profile READMEs 📝
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [metamask-extension](https://github.com/MetaMask/metamask-extension)
-  - 🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
-- [deleteDiscordMessages](https://github.com/victornpb/deleteDiscordMessages)
-  - Undiscord - Delete all messages in a Discord channel or DM (Easy and fast) Bulk delete
-- [iptv](https://github.com/iptv-org/iptv)
-  - Collection of 8000+ publicly available IPTV channels from all over the world
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
-  - Starter files, final projects and FAQ for my Complete JavaScript course
-- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-  - ⚡ Dynamically generated stats for your github readmes
-- [baiduwp](https://github.com/TkzcM/baiduwp)
-  - PanDownload Web, built with CloudFlare Workers
-- [project_chat_application](https://github.com/adrianhajdin/project_chat_application)
-  - This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a real time chat application. Covered topics: React.js, Node.js, Express.js, and Socket.io.
-- [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui)
-  - A desktop application for downloading Udemy Courses
-- [kubernetes-handbook-projects](https://github.com/fhsinchy/kubernetes-handbook-projects)
-  - Project codes used in "The Kubernetes Handbook" 📓
-- [cypress](https://github.com/cypress-io/cypress)
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
-  - The iconic SVG, font, and CSS toolkit
-- [rollup](https://github.com/rollup/rollup)
-  - Next-generation ES module bundler
-- [awesome-react-native](https://github.com/jondot/awesome-react-native)
-  - Awesome React Native components, news, tools, and learning material!
-- [pdf.js](https://github.com/mozilla/pdf.js)
-  - PDF Reader in JavaScript
-- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
-  - Revive unavailable songs for Netease Cloud Music
-- [goindex-theme-acrou](https://github.com/Aicirou/goindex-theme-acrou)
-  - This is a goindex theme.一个goindex的扩展主题。
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+  - ⭐️ Companies that don't have a broken hiring process
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+  - 💯 Materials to help you rock your next coding interview
 - [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
   - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
+  - Bypass Paywalls web browser extension for Chrome and Firefox.
+- [ccxt](https://github.com/ccxt/ccxt)
+  - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [fall-2020](https://github.com/OU-PhD-Econometrics/fall-2020)
+  - 
+- [degoogle](https://github.com/tycrek/degoogle)
+  - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
+- [coreui-free-react-admin-template](https://github.com/coreui/coreui-free-react-admin-template)
+  - CoreUI React is free React admin template based on Bootstrap 4
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [RSSHub](https://github.com/DIYgod/RSSHub)
+  - 🍰 Everything is RSSible
+- [mineflayer](https://github.com/PrismarineJS/mineflayer)
+  - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
+- [deleteDiscordMessages](https://github.com/victornpb/deleteDiscordMessages)
+  - Undiscord - Delete all messages in a Discord channel or DM (Easy and fast) Bulk delete
+- [tailblocks](https://github.com/mertJF/tailblocks)
+  - 🎉 Ready-to-use Tailwind CSS blocks.
+- [project_chat_application](https://github.com/adrianhajdin/project_chat_application)
+  - This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a real time chat application. Covered topics: React.js, Node.js, Express.js, and Socket.io.
+- [discord.js](https://github.com/discordjs/discord.js)
+  - A powerful JavaScript library for interacting with the Discord API
+- [p5.js](https://github.com/processing/p5.js)
+  - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
 - [django-ecommerce](https://github.com/justdjango/django-ecommerce)
   - An e-commerce website built with Django
-- [devconnector_2.0](https://github.com/bradtraversy/devconnector_2.0)
-  - Social network for developers, built on the MERN stack
+- [svelte](https://github.com/sveltejs/svelte)
+  - Cybernetically enhanced web apps
+- [snowpack](https://github.com/pikapkg/snowpack)
+  - The faster frontend build tool. Unbundled web development ✌️
+- [OSINT-Framework](https://github.com/lockfale/OSINT-Framework)
+  - OSINT Framework
+- [DPlayer](https://github.com/MoePlayer/DPlayer)
+  - 🍭 Wow, such a lovely HTML5 danmaku video player
+- [gatsby-starter-blog](https://github.com/gatsbyjs/gatsby-starter-blog)
+  - Gatsby starter for creating a blog
