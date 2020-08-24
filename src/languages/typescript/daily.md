@@ -1,51 +1,51 @@
 # typescript
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui)
-  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [lireddit](https://github.com/benawad/lireddit)
   - 
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui)
+  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+- [vuetify](https://github.com/vuetifyjs/vuetify)
+  - 🐉 Material Component Framework for Vue
 - [etcher](https://github.com/balena-io/etcher)
   - Flash OS images to SD cards & USB drives, safely and easily.
-- [nest](https://github.com/nestjs/nest)
-  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [taskcafe](https://github.com/JordanKnott/taskcafe)
   - An open source project management tool with Kanban boards
-- [appsmith](https://github.com/appsmithorg/appsmith)
-  - Appsmith is a web framework to build dashboards, workflows, forms, and any internal tool. The framework comes with UI widgets like tables, charts, forms, map viewer, and more. Easily connect to REST APIs, Postgres, Mongo, and MySQL. Invite users and allow login with Google accounts.
-- [deno](https://github.com/denoland/deno)
-  - A secure JavaScript and TypeScript runtime
-- [element-plus](https://github.com/element-plus/element-plus)
-  - A Vue.js 3.0 UI Toolkit for Web
-- [react-use](https://github.com/streamich/react-use)
-  - React Hooks — 👍
-- [excalidraw](https://github.com/excalidraw/excalidraw)
-  - Virtual whiteboard for sketching hand-drawn like diagrams
-- [vue-next](https://github.com/vuejs/vue-next)
-  - Repo for Vue 3.0 (currently in RC)
-- [ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste)
-  - Cut and paste your surroundings using AR
+- [windows95](https://github.com/felixrieseberg/windows95)
+  - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
+- [clash-dashboard](https://github.com/Dreamacro/clash-dashboard)
+  - web port of clash
+- [urql](https://github.com/FormidableLabs/urql)
+  - The highly customizable and versatile GraphQL client.
+- [jest](https://github.com/facebook/jest)
+  - Delightful JavaScript Testing.
+- [sapper](https://github.com/sveltejs/sapper)
+  - The next small thing in web development, powered by Svelte
+- [aws-cost-saver](https://github.com/aramalipoor/aws-cost-saver)
+  - A tiny CLI tool to help save costs in development environments when you're asleep and don't need them!
+- [apps](https://github.com/polkadot-js/apps)
+  - Basic Polkadot/Substrate UI for interacting with a node. This is the main user-facing application, allowing access to all features available on Substrate chains.
+- [vscode-live-server](https://github.com/ritwickdey/vscode-live-server)
+  - Launch a development local Server with live reload feature for static & dynamic pages.
+- [SponsorBlock](https://github.com/ajayyy/SponsorBlock)
+  - Skip YouTube video sponsors (browser extension)
+- [react-native-tab-view](https://github.com/satya164/react-native-tab-view)
+  - A cross-platform Tab View component for React Native
 - [face-api.js](https://github.com/justadudewhohacks/face-api.js)
   - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
-- [pixi.js](https://github.com/pixijs/pixi.js)
-  - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
-- [apollo-client](https://github.com/apollographql/apollo-client)
-  - 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
-- [type-graphql](https://github.com/MichalLytek/type-graphql)
-  - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
-- [graphql-yoga](https://github.com/prisma-labs/graphql-yoga)
-  - 🧘 Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience
-- [vite](https://github.com/vitejs/vite)
-  - Native-ESM powered web dev build tool. It's fast.
-- [react-navigation](https://github.com/react-navigation/react-navigation)
-  - Routing and navigation for your React Native apps
-- [typeorm](https://github.com/typeorm/typeorm)
-  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+- [mikro-orm](https://github.com/mikro-orm/mikro-orm)
+  - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
 - [elderjs](https://github.com/Elderjs/elderjs)
   - Elder.js is an opinionated static site generator and web framework for Svelte built with SEO in mind.
-- [algorithms-and-data-structures](https://github.com/jeffzh4ng/algorithms-and-data-structures)
-  - A collection of classical data structures and algorithms implemented in Typescript with video lectures
-- [berial](https://github.com/berialjs/berial)
-  - 😈 Simple micro-front-end framework.
-- [homebridge](https://github.com/homebridge/homebridge)
-  - HomeKit support for the impatient
-- [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
-  - Foreign language reading and translation assistant based on copy and translate.
+- [next-boilerplate](https://github.com/pankod/next-boilerplate)
+  - A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Fetch, Reverse Proxy, Bundle Analyzer and Built-in Project CLI. https://pankod.github.io/next-boilerplate/
+- [react-query](https://github.com/tannerlinsley/react-query)
+  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+- [purgecss](https://github.com/FullHuman/purgecss)
+  - Remove unused CSS
+- [swr](https://github.com/vercel/swr)
+  - React Hooks library for remote data fetching
+- [effector](https://github.com/zerobias/effector)
+  - The state manager ☄️
+- [class-validator](https://github.com/typestack/class-validator)
+  - Decorator-based property validation for classes.
+- [Mailspring](https://github.com/Foundry376/Mailspring)
+  - 💌 A beautiful, fast and maintained fork of @nylas Mail by one of the original authors.
