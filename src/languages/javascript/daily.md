@@ -1,51 +1,51 @@
 # javascript
-- [egua](https://github.com/eguatech/egua)
-  - 🦄 Linguagem de programação simples e moderna em português
-- [shapez.io](https://github.com/tobspr/shapez.io)
-  - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-  - ⭐️ Companies that don't have a broken hiring process
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
-  - 💯 Materials to help you rock your next coding interview
+- [nsfw-filter](https://github.com/nsfw-filter/nsfw-filter)
+  - A Google Chrome / Firefox extension that blocks NSFW images from the web pages that you load using TensorFlow JS.
 - [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
   - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
-  - Bypass Paywalls web browser extension for Chrome and Firefox.
-- [ccxt](https://github.com/ccxt/ccxt)
-  - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [fall-2020](https://github.com/OU-PhD-Econometrics/fall-2020)
-  - 
-- [degoogle](https://github.com/tycrek/degoogle)
-  - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
-- [coreui-free-react-admin-template](https://github.com/coreui/coreui-free-react-admin-template)
-  - CoreUI React is free React admin template based on Bootstrap 4
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
-- [RSSHub](https://github.com/DIYgod/RSSHub)
-  - 🍰 Everything is RSSible
-- [mineflayer](https://github.com/PrismarineJS/mineflayer)
-  - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
-- [deleteDiscordMessages](https://github.com/victornpb/deleteDiscordMessages)
-  - Undiscord - Delete all messages in a Discord channel or DM (Easy and fast) Bulk delete
-- [tailblocks](https://github.com/mertJF/tailblocks)
-  - 🎉 Ready-to-use Tailwind CSS blocks.
-- [project_chat_application](https://github.com/adrianhajdin/project_chat_application)
-  - This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a real time chat application. Covered topics: React.js, Node.js, Express.js, and Socket.io.
-- [discord.js](https://github.com/discordjs/discord.js)
-  - A powerful JavaScript library for interacting with the Discord API
-- [p5.js](https://github.com/processing/p5.js)
-  - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
-- [django-ecommerce](https://github.com/justdjango/django-ecommerce)
-  - An e-commerce website built with Django
-- [svelte](https://github.com/sveltejs/svelte)
-  - Cybernetically enhanced web apps
+- [shapez.io](https://github.com/tobspr/shapez.io)
+  - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
+- [three.js](https://github.com/mrdoob/three.js)
+  - JavaScript 3D library.
+- [plyr](https://github.com/sampotts/plyr)
+  - A simple HTML5, YouTube and Vimeo player
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+  - The ultimate Free Open Source Solution for team communications.
+- [generator-jhipster](https://github.com/jhipster/generator-jhipster)
+  - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 - [snowpack](https://github.com/pikapkg/snowpack)
   - The faster frontend build tool. Unbundled web development ✌️
-- [OSINT-Framework](https://github.com/lockfale/OSINT-Framework)
-  - OSINT Framework
-- [DPlayer](https://github.com/MoePlayer/DPlayer)
-  - 🍭 Wow, such a lovely HTML5 danmaku video player
-- [gatsby-starter-blog](https://github.com/gatsbyjs/gatsby-starter-blog)
-  - Gatsby starter for creating a blog
+- [react-native-firebase](https://github.com/invertase/react-native-firebase)
+  - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
+- [home-assistant-config](https://github.com/basnijholt/home-assistant-config)
+  - My Home Assistant config files and AppDaemon apps 🏠 🤖
+- [wekan](https://github.com/wekan/wekan)
+  - The open-source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+  - ⭐️ Companies that don't have a broken hiring process
+- [odoo](https://github.com/odoo/odoo)
+  - Odoo. Open Source Apps To Grow Your Business.
+- [markdown-here](https://github.com/adam-p/markdown-here)
+  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+- [cypress](https://github.com/cypress-io/cypress)
+  - Fast, easy and reliable testing for anything that runs in a browser.
+- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
+  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+- [tailblocks](https://github.com/mertJF/tailblocks)
+  - 🎉 Ready-to-use Tailwind CSS blocks.
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
+  - Starter files, final projects and FAQ for my Complete JavaScript course
+- [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
+  - Microsoft Authentication Library (MSAL) for JS
+- [potree](https://github.com/potree/potree)
+  - WebGL point cloud viewer for large datasets
+- [egua](https://github.com/eguatech/egua)
+  - 🦄 Linguagem de programação simples e moderna em português
+- [create-react-app](https://github.com/facebook/create-react-app)
+  - Set up a modern web app by running one command.
+- [cube-ui](https://github.com/didi/cube-ui)
+  - 🔶 A fantastic mobile ui lib implement by Vue
+- [degoogle](https://github.com/tycrek/degoogle)
+  - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
+- [awx](https://github.com/ansible/awx)
+  - AWX Project

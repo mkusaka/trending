@@ -1,51 +1,51 @@
 # typescript
-- [lireddit](https://github.com/benawad/lireddit)
-  - 
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui)
-  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+- [blitz](https://github.com/blitz-js/blitz)
+  - ⚡️The Fullstack React Framework — built on Next.js
+- [element-plus](https://github.com/element-plus/element-plus)
+  - 🌈 A Vue.js 3.0 UI Library
 - [vuetify](https://github.com/vuetifyjs/vuetify)
   - 🐉 Material Component Framework for Vue
-- [etcher](https://github.com/balena-io/etcher)
-  - Flash OS images to SD cards & USB drives, safely and easily.
-- [taskcafe](https://github.com/JordanKnott/taskcafe)
-  - An open source project management tool with Kanban boards
+- [n8n](https://github.com/n8n-io/n8n)
+  - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+- [material-ui-pickers](https://github.com/mui-org/material-ui-pickers)
+  - Date & Time pickers, built with ❤️ for @material-ui/core
+- [react-navigation](https://github.com/react-navigation/react-navigation)
+  - Routing and navigation for your React Native apps
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui)
+  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+- [wenyan](https://github.com/wenyan-lang/wenyan)
+  - 文言文編程語言 A programming language for the ancient Chinese.
+- [ant-design](https://github.com/ant-design/ant-design)
+  - 🌈 A UI Design Language and React UI library
+- [typeorm](https://github.com/typeorm/typeorm)
+  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [windows95](https://github.com/felixrieseberg/windows95)
   - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
-- [clash-dashboard](https://github.com/Dreamacro/clash-dashboard)
-  - web port of clash
-- [urql](https://github.com/FormidableLabs/urql)
-  - The highly customizable and versatile GraphQL client.
-- [jest](https://github.com/facebook/jest)
-  - Delightful JavaScript Testing.
-- [sapper](https://github.com/sveltejs/sapper)
-  - The next small thing in web development, powered by Svelte
-- [aws-cost-saver](https://github.com/aramalipoor/aws-cost-saver)
-  - A tiny CLI tool to help save costs in development environments when you're asleep and don't need them!
-- [apps](https://github.com/polkadot-js/apps)
-  - Basic Polkadot/Substrate UI for interacting with a node. This is the main user-facing application, allowing access to all features available on Substrate chains.
-- [vscode-live-server](https://github.com/ritwickdey/vscode-live-server)
-  - Launch a development local Server with live reload feature for static & dynamic pages.
-- [SponsorBlock](https://github.com/ajayyy/SponsorBlock)
-  - Skip YouTube video sponsors (browser extension)
-- [react-native-tab-view](https://github.com/satya164/react-native-tab-view)
-  - A cross-platform Tab View component for React Native
+- [loopback-next](https://github.com/strongloop/loopback-next)
+  - LoopBack makes it easy to build modern API applications that require complex integrations.
+- [amplify-js](https://github.com/aws-amplify/amplify-js)
+  - A declarative JavaScript library for application development using cloud services.
+- [checkout](https://github.com/actions/checkout)
+  - Action for checking out a repo
+- [spectral](https://github.com/stoplightio/spectral)
+  - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v2 & v3.
+- [pro-components](https://github.com/ant-design/pro-components)
+  - 🏆 Use Ant Design like a Pro!
 - [face-api.js](https://github.com/justadudewhohacks/face-api.js)
   - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
-- [mikro-orm](https://github.com/mikro-orm/mikro-orm)
-  - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
-- [elderjs](https://github.com/Elderjs/elderjs)
-  - Elder.js is an opinionated static site generator and web framework for Svelte built with SEO in mind.
-- [next-boilerplate](https://github.com/pankod/next-boilerplate)
-  - A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Fetch, Reverse Proxy, Bundle Analyzer and Built-in Project CLI. https://pankod.github.io/next-boilerplate/
-- [react-query](https://github.com/tannerlinsley/react-query)
-  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
-- [purgecss](https://github.com/FullHuman/purgecss)
-  - Remove unused CSS
-- [swr](https://github.com/vercel/swr)
-  - React Hooks library for remote data fetching
-- [effector](https://github.com/zerobias/effector)
-  - The state manager ☄️
-- [class-validator](https://github.com/typestack/class-validator)
-  - Decorator-based property validation for classes.
-- [Mailspring](https://github.com/Foundry376/Mailspring)
-  - 💌 A beautiful, fast and maintained fork of @nylas Mail by one of the original authors.
+- [got](https://github.com/sindresorhus/got)
+  - 🌐 Human-friendly and powerful HTTP request library for Node.js
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
+  - 📋 React Hooks for forms validation (Web + React Native)
+- [vue-router-next](https://github.com/vuejs/vue-router-next)
+  - The Vue 3 official router (WIP)
+- [covid-alert-app](https://github.com/cds-snc/covid-alert-app)
+  - Exposure notification client application / Application client de notification d'exposition
+- [uniswap-v2-core](https://github.com/Uniswap/uniswap-v2-core)
+  - 🎛 Core smart contracts of Uniswap V2
+- [github-script](https://github.com/actions/github-script)
+  - Write workflows scripting the GitHub API in JavaScript
+- [streamlit](https://github.com/streamlit/streamlit)
+  - Streamlit — The fastest way to build data apps in Python
+- [highcharts](https://github.com/highcharts/highcharts)
+  - Highcharts JS, the JavaScript charting framework

@@ -1,50 +1,48 @@
 # general
 - [fastbook](https://github.com/fastai/fastbook) : Jupyter Notebook
   - Draft of the fastai book
-- [computervision-recipes](https://github.com/microsoft/computervision-recipes) : Jupyter Notebook
-  - Best Practices, code samples, and documentation for Computer Vision.
-- [cxx](https://github.com/dtolnay/cxx) : Rust
-  - Safe interop between Rust and C++
+- [orogene](https://github.com/orogene/orogene) : Rust
+  - A next-generation platform and package manager for Node.js-compatible and frontend JavaScript projects!
+- [certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course) : Shell
+  - Certified Kubernetes Administrator - CKA Course
+- [CascadeTabNet](https://github.com/DevashishPrasad/CascadeTabNet) : Python
+  - This repository contains the code and implementation details of the CascadeTabNet paper "CascadeTabNet: An approach for end to end table detection and structure recognition from image-based documents"
 - [bevy](https://github.com/bevyengine/bevy) : Rust
   - A refreshingly simple data-driven game engine built in Rust
-- [desafio-3-2020](https://github.com/maratonadev-br/desafio-3-2020) : 
-- [yfinance](https://github.com/ranaroussi/yfinance) : Python
-  - Yahoo! Finance market data downloader (+faster Pandas Datareader)
-- [godot](https://github.com/godotengine/godot) : C++
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [fastai](https://github.com/fastai/fastai) : Jupyter Notebook
-  - The fastai deep learning library, plus lessons and tutorials
-- [raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) : C
-  - Learning operating system development using Linux kernel and Raspberry Pi
-- [talent-plan](https://github.com/pingcap/talent-plan) : Rust
-  - open source training courses about distributed database and distributed systemes
-- [PowerToys](https://github.com/microsoft/PowerToys) : C++
-  - Windows system utilities to maximize productivity
-- [egua](https://github.com/eguatech/egua) : JavaScript
-  - 🦄 Linguagem de programação simples e moderna em português
-- [CS-Notes](https://github.com/huangrt01/CS-Notes) : Python
-  - 我的自学笔记，在学习shell和MLSys，整理C++、算法、操作系统，后续学习分布式系统，终身更新。
-- [manim](https://github.com/3b1b/manim) : Python
-  - Animation engine for explanatory math videos
-- [TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) : Python
-  - 😝 TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, Korean, Chinese)
-- [Deep-learning-books](https://github.com/loveunk/Deep-learning-books) : 
-  - Books for machine learning, deep learning, math, NLP, CV, RL, etc
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
-  - Course Files for Complete Python 3 Bootcamp Course on Udemy
 - [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) : 
   - Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
+- [mit-15-003-data-science-tools](https://github.com/shervinea/mit-15-003-data-science-tools) : 
+  - Study guides for MIT's 15.003 Data Science Tools
+- [msfs-a320neo](https://github.com/wpine215/msfs-a320neo) : HTML
+- [Deep-learning-books](https://github.com/loveunk/Deep-learning-books) : 
+  - Books for machine learning, deep learning, math, NLP, CV, RL, etc
+- [desafio-4-2020](https://github.com/maratonadev-br/desafio-4-2020) : 
+- [sudoku-solver](https://github.com/remi2257/sudoku-solver) : Python
+  - Smart solution to solve sudoku in VR
+- [CS-Notes](https://github.com/huangrt01/CS-Notes) : Python
+  - 我的自学笔记，在学习shell和MLSys，整理C++、算法、操作系统，后续学习分布式系统，终身更新。
 - [Ventoy](https://github.com/ventoy/Ventoy) : C
   - A new bootable USB solution.
-- [shapez.io](https://github.com/tobspr/shapez.io) : JavaScript
-  - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) : JavaScript
-  - ⭐️ Companies that don't have a broken hiring process
-- [ent](https://github.com/facebook/ent) : Go
-  - An entity framework for Go
-- [everyones-guide-for-starting-up-on-wechat-network](https://github.com/xiaolai/everyones-guide-for-starting-up-on-wechat-network) : 
-  - 微信互联网平民创业
-- [zig](https://github.com/ziglang/zig) : Zig
-  - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+- [awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians) : 
+  - 🇧🇷 A collection of amazing open source projects built by brazilian developers
+- [nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) : JavaScript
+  - A Google Chrome / Firefox extension that blocks NSFW images from the web pages that you load using TensorFlow JS.
+- [desafio-3-2020](https://github.com/maratonadev-br/desafio-3-2020) : 
+- [YouTube-Livestream-Botter](https://github.com/KevinLage/YouTube-Livestream-Botter) : Python
+  - Simple tool to bot viewers to a YouTube Livestream!
+- [open-source-cs](https://github.com/ForrestKnight/open-source-cs) : 
+  - Video discussing this curriculum:
+- [computervision-recipes](https://github.com/microsoft/computervision-recipes) : Jupyter Notebook
+  - Best Practices, code samples, and documentation for Computer Vision.
+- [packer](https://github.com/hashicorp/packer) : Go
+  - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) : Python
+  - 😝 TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, Korean, Chinese and Easy to adapt for other languages)
+- [raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) : C
+  - Learning operating system development using Linux kernel and Raspberry Pi
+- [itlwm](https://github.com/OpenIntelWireless/itlwm) : C
+  - Intel Wi-Fi Drivers
+- [PowerToys](https://github.com/microsoft/PowerToys) : C++
+  - Windows system utilities to maximize productivity
