@@ -1,51 +1,51 @@
 # go
 - [packer](https://github.com/hashicorp/packer)
   - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-- [Amass](https://github.com/OWASP/Amass)
-  - In-depth Attack Surface Mapping and Asset Discovery
-- [traefik](https://github.com/containous/traefik)
-  - The Cloud Native Edge Router
-- [lotus](https://github.com/filecoin-project/lotus)
-  - Implementation of the Filecoin protocol, written in Go
-- [go-zero](https://github.com/tal-tech/go-zero)
-  - go-zero是一个集成了各种工程实践的web和rpc框架。通过弹性设计保障了大并发服务端的稳定性，经受了充分的实战检验。包含极简的API定义和生成工具，可以一键生成Go, iOS, Android, Dart, TypeScript, JavaScript代码，并可直接运行。
-- [ksubdomain](https://github.com/knownsec/ksubdomain)
-  - 无状态子域名爆破工具
-- [go-micro](https://github.com/micro/go-micro)
-  - A Go standard library for microservices
-- [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
-  - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [ent](https://github.com/facebook/ent)
-  - An entity framework for Go
-- [authelia](https://github.com/authelia/authelia)
-  - The Single Sign-On Multi-Factor portal for web apps
-- [decimal](https://github.com/shopspring/decimal)
-  - Arbitrary-precision fixed-point decimal numbers in go
-- [external-dns](https://github.com/kubernetes-sigs/external-dns)
-  - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [client_golang](https://github.com/prometheus/client_golang)
-  - Prometheus instrumentation library for Go applications
-- [gardener](https://github.com/gardener/gardener)
-  - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, Packet, MetalStack, and vSphere with minimal TCO.
-- [kubernetes](https://github.com/kubernetes/kubernetes)
-  - Production-Grade Container Scheduling and Management
-- [cloud-on-k8s](https://github.com/elastic/cloud-on-k8s)
-  - Elastic Cloud on Kubernetes
-- [minio](https://github.com/minio/minio)
-  - High Performance, Kubernetes Native Object Storage
-- [algorithm-pattern](https://github.com/greyireland/algorithm-pattern)
-  - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
-- [node_exporter](https://github.com/prometheus/node_exporter)
-  - Exporter for machine metrics
+- [ultimate-go](https://github.com/hoanhan101/ultimate-go)
+  - Ultimate Go study guide
+- [go](https://github.com/golang/go)
+  - The Go programming language
+- [aws-controllers-k8s](https://github.com/aws/aws-controllers-k8s)
+  - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
+- [loki](https://github.com/grafana/loki)
+  - Like Prometheus, but for logs.
+- [ultimate-go](https://github.com/betty200744/ultimate-go)
+  - This repo contains my notes on working with Go and computer systems.
+- [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+  - A reverse proxy that provides authentication with Google, Github or other providers.
 - [origin](https://github.com/openshift/origin)
   - Conformance test suite for OpenShift
-- [kratos](https://github.com/go-kratos/kratos)
-  - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
-- [casbin](https://github.com/casbin/casbin)
-  - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
-- [vault-k8s](https://github.com/hashicorp/vault-k8s)
-  - First-class support for Vault and Kubernetes.
-- [argo-cd](https://github.com/argoproj/argo-cd)
-  - Declarative continuous deployment for Kubernetes.
-- [goreplay](https://github.com/buger/goreplay)
-  - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
+- [eventnative](https://github.com/ksensehq/eventnative)
+  - EventNative is an open-source data collection framework
+- [msfs2020-go](https://github.com/lian/msfs2020-go)
+  - connect to microsoft flight simulator 2020 using golang
+- [quorum](https://github.com/ConsenSys/quorum)
+  - A permissioned implementation of Ethereum supporting data privacy
+- [influxdb](https://github.com/influxdata/influxdb)
+  - Scalable datastore for metrics, events, and real-time analytics
+- [prysm](https://github.com/prysmaticlabs/prysm)
+  - Go implementation of the Ethereum 2.0 blockchain
+- [decimal](https://github.com/shopspring/decimal)
+  - Arbitrary-precision fixed-point decimal numbers in go
+- [kubeedge](https://github.com/kubeedge/kubeedge)
+  - Kubernetes Native Edge Computing Framework (project under CNCF)
+- [jaeger](https://github.com/jaegertracing/jaeger)
+  - CNCF Jaeger, a Distributed Tracing Platform
+- [terraform-provider-google](https://github.com/hashicorp/terraform-provider-google)
+  - Terraform Google Cloud Platform provider
+- [matterbridge](https://github.com/42wim/matterbridge)
+  - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud and more with REST API (mattermost not required!)
+- [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)
+  - Kubebuilder - SDK for building Kubernetes APIs using CRDs
+- [cadvisor](https://github.com/google/cadvisor)
+  - Analyzes resource usage and performance characteristics of running containers.
+- [etcd](https://github.com/etcd-io/etcd)
+  - Distributed reliable key-value store for the most critical data of a distributed system
+- [go-tools](https://github.com/dominikh/go-tools)
+  - Staticcheck - The advanced Go linter
+- [swag](https://github.com/swaggo/swag)
+  - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
+- [kops](https://github.com/kubernetes/kops)
+  - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
+- [httpx](https://github.com/projectdiscovery/httpx)
+  - httpx is a fast and multi-purpose HTTP toolkit allow to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads.

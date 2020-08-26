@@ -1,51 +1,51 @@
 # javascript
-- [nsfw-filter](https://github.com/nsfw-filter/nsfw-filter)
-  - A Google Chrome / Firefox extension that blocks NSFW images from the web pages that you load using TensorFlow JS.
-- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
-  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [shapez.io](https://github.com/tobspr/shapez.io)
-  - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
-- [three.js](https://github.com/mrdoob/three.js)
-  - JavaScript 3D library.
-- [plyr](https://github.com/sampotts/plyr)
-  - A simple HTML5, YouTube and Vimeo player
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
   - The ultimate Free Open Source Solution for team communications.
-- [generator-jhipster](https://github.com/jhipster/generator-jhipster)
-  - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
-- [snowpack](https://github.com/pikapkg/snowpack)
-  - The faster frontend build tool. Unbundled web development ✌️
-- [react-native-firebase](https://github.com/invertase/react-native-firebase)
-  - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
-- [home-assistant-config](https://github.com/basnijholt/home-assistant-config)
-  - My Home Assistant config files and AppDaemon apps 🏠 🤖
-- [wekan](https://github.com/wekan/wekan)
-  - The open-source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
+- [json-server](https://github.com/typicode/json-server)
+  - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
+- [plyr](https://github.com/sampotts/plyr)
+  - A simple HTML5, YouTube and Vimeo player
+- [wtfjs](https://github.com/denysdovhan/wtfjs)
+  - 🤪 A list of funny and tricky JavaScript examples
+- [heroicons](https://github.com/tailwindlabs/heroicons)
+  - A set of free MIT-licensed high-quality SVG icons for UI development.
+- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+- [nuxt.js](https://github.com/nuxt/nuxt.js)
+  - The Intuitive Vue Framework
+- [office-docs-powershell](https://github.com/MicrosoftDocs/office-docs-powershell)
+  - PowerShell Reference for Office Products - Short URL: aka.ms/office-powershell
+- [next.js](https://github.com/vercel/next.js)
+  - The React Framework
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [danfojs](https://github.com/opensource9ja/danfojs)
+  - danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
+- [password-manager-resources](https://github.com/apple/password-manager-resources)
+  - A place for creators and users of password managers to collaborate on resources to make password management better.
+- [fall-2020](https://github.com/OU-PhD-Econometrics/fall-2020)
+  - 
+- [amphtml](https://github.com/ampproject/amphtml)
+  - The AMP web component framework.
+- [bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker)
+  - A datepicker for twitter bootstrap (@twbs)
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [strapi](https://github.com/strapi/strapi)
+  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
 - [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
   - ⭐️ Companies that don't have a broken hiring process
-- [odoo](https://github.com/odoo/odoo)
-  - Odoo. Open Source Apps To Grow Your Business.
-- [markdown-here](https://github.com/adam-p/markdown-here)
-  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
-- [cypress](https://github.com/cypress-io/cypress)
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
-  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
-- [tailblocks](https://github.com/mertJF/tailblocks)
-  - 🎉 Ready-to-use Tailwind CSS blocks.
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
-  - Starter files, final projects and FAQ for my Complete JavaScript course
-- [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
-  - Microsoft Authentication Library (MSAL) for JS
-- [potree](https://github.com/potree/potree)
-  - WebGL point cloud viewer for large datasets
-- [egua](https://github.com/eguatech/egua)
-  - 🦄 Linguagem de programação simples e moderna em português
-- [create-react-app](https://github.com/facebook/create-react-app)
-  - Set up a modern web app by running one command.
-- [cube-ui](https://github.com/didi/cube-ui)
-  - 🔶 A fantastic mobile ui lib implement by Vue
-- [degoogle](https://github.com/tycrek/degoogle)
-  - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
-- [awx](https://github.com/ansible/awx)
-  - AWX Project
+- [netlify-cms](https://github.com/netlify/netlify-cms)
+  - A Git-based CMS for Static Site Generators
+- [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue)
+  - BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
+- [nsfw-filter](https://github.com/nsfw-filter/nsfw-filter)
+  - A Google Chrome / Firefox extension that blocks NSFW images from the web pages that you load using TensorFlow JS.
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+  - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
+- [angular.js](https://github.com/angular/angular.js)
+  - AngularJS - HTML enhanced for web apps!
+- [mattermost-webapp](https://github.com/mattermost/mattermost-webapp)
+  - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
