@@ -1,48 +1,48 @@
 # general
-- [fastbook](https://github.com/fastai/fastbook) : Jupyter Notebook
-  - Draft of the fastai book
-- [orogene](https://github.com/orogene/orogene) : Rust
-  - A next-generation platform and package manager for Node.js-compatible and frontend JavaScript projects!
-- [certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course) : Shell
-  - Certified Kubernetes Administrator - CKA Course
-- [CascadeTabNet](https://github.com/DevashishPrasad/CascadeTabNet) : Python
-  - This repository contains the code and implementation details of the CascadeTabNet paper "CascadeTabNet: An approach for end to end table detection and structure recognition from image-based documents"
-- [bevy](https://github.com/bevyengine/bevy) : Rust
-  - A refreshingly simple data-driven game engine built in Rust
-- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) : 
-  - Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
-- [mit-15-003-data-science-tools](https://github.com/shervinea/mit-15-003-data-science-tools) : 
-  - Study guides for MIT's 15.003 Data Science Tools
 - [msfs-a320neo](https://github.com/wpine215/msfs-a320neo) : HTML
-- [Deep-learning-books](https://github.com/loveunk/Deep-learning-books) : 
-  - Books for machine learning, deep learning, math, NLP, CV, RL, etc
-- [desafio-4-2020](https://github.com/maratonadev-br/desafio-4-2020) : 
-- [sudoku-solver](https://github.com/remi2257/sudoku-solver) : Python
-  - Smart solution to solve sudoku in VR
-- [CS-Notes](https://github.com/huangrt01/CS-Notes) : Python
-  - 我的自学笔记，在学习shell和MLSys，整理C++、算法、操作系统，后续学习分布式系统，终身更新。
-- [Ventoy](https://github.com/ventoy/Ventoy) : C
-  - A new bootable USB solution.
-- [awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians) : 
-  - 🇧🇷 A collection of amazing open source projects built by brazilian developers
-- [nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) : JavaScript
-  - A Google Chrome / Firefox extension that blocks NSFW images from the web pages that you load using TensorFlow JS.
-- [desafio-3-2020](https://github.com/maratonadev-br/desafio-3-2020) : 
-- [YouTube-Livestream-Botter](https://github.com/KevinLage/YouTube-Livestream-Botter) : Python
-  - Simple tool to bot viewers to a YouTube Livestream!
-- [open-source-cs](https://github.com/ForrestKnight/open-source-cs) : 
-  - Video discussing this curriculum:
-- [computervision-recipes](https://github.com/microsoft/computervision-recipes) : Jupyter Notebook
-  - Best Practices, code samples, and documentation for Computer Vision.
 - [packer](https://github.com/hashicorp/packer) : Go
   - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+- [certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course) : Shell
+  - Certified Kubernetes Administrator - CKA Course
+- [volt-bootstrap-5-dashboard](https://github.com/themesberg/volt-bootstrap-5-dashboard) : HTML
+  - ⚡️ Volt Bootstrap 5 Admin Dashboard Template with vanilla Javascript
+- [RAFT](https://github.com/princeton-vl/RAFT) : Python
+- [open-source-cs-python](https://github.com/ForrestKnight/open-source-cs-python) : 
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) : JavaScript
+  - The ultimate Free Open Source Solution for team communications.
+- [latexify_py](https://github.com/google/latexify_py) : Python
+  - Generates LaTeX math description from Python functions.
+- [mit-15-003-data-science-tools](https://github.com/shervinea/mit-15-003-data-science-tools) : 
+  - Study guides for MIT's 15.003 Data Science Tools
+- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) : 
+  - Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
+- [element3](https://github.com/kkbjs/element3) : Vue
+  - (WIP)fork from ElemeFE/element ,A Vue.js 3.0 UI Toolkit for Web
+- [open-source-cs](https://github.com/ForrestKnight/open-source-cs) : 
+  - Video discussing this curriculum:
+- [nvm](https://github.com/nvm-sh/nvm) : Shell
+  - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [baiduwp-php](https://github.com/yuantuo666/baiduwp-php) : PHP
+  - PanDownload网页复刻版
+- [fastbook](https://github.com/fastai/fastbook) : Jupyter Notebook
+  - Draft of the fastai book
+- [Gooey](https://github.com/chriskiehl/Gooey) : Python
+  - Turn (almost) any Python command line program into a full GUI application with one line
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
   - A complete computer science study plan to become a software engineer.
-- [TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) : Python
-  - 😝 TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, Korean, Chinese and Easy to adapt for other languages)
-- [raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) : C
-  - Learning operating system development using Linux kernel and Raspberry Pi
-- [itlwm](https://github.com/OpenIntelWireless/itlwm) : C
-  - Intel Wi-Fi Drivers
-- [PowerToys](https://github.com/microsoft/PowerToys) : C++
-  - Windows system utilities to maximize productivity
+- [clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) : Swift
+  - A demo project showcasing the production setup of the SwiftUI app with Clean Architecture
+- [AWS-SAA-C02-Course](https://github.com/alozano-77/AWS-SAA-C02-Course) : 
+  - Personal notes for SAA-C02 test from: https://learn.cantrill.io
+- [cpp-httplib](https://github.com/yhirose/cpp-httplib) : C++
+  - A C++ header-only HTTP/HTTPS server and client library
+- [vscode](https://github.com/microsoft/vscode) : TypeScript
+  - Visual Studio Code
+- [YouTube-Livestream-Botter](https://github.com/KevinLage/YouTube-Livestream-Botter) : Python
+  - Simple tool to bot viewers to a YouTube Livestream!
+- [kubernetes-examples](https://github.com/ContainerSolutions/kubernetes-examples) : 
+  - Minimal self-contained examples of standard Kubernetes features and patterns in YAML
+- [react-native-navigation](https://github.com/wix/react-native-navigation) : Java
+  - A complete native navigation solution for React Native
+- [CascadeTabNet](https://github.com/DevashishPrasad/CascadeTabNet) : Python
+  - This repository contains the code and implementation details of the CascadeTabNet paper "CascadeTabNet: An approach for end to end table detection and structure recognition from image-based documents"
