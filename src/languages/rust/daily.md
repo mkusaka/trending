@@ -1,51 +1,51 @@
 # rust
 - [substrate](https://github.com/paritytech/substrate)
   - Substrate: The platform for blockchain innovators
-- [orogene](https://github.com/orogene/orogene)
-  - A next-generation platform and package manager for Node.js-compatible and frontend JavaScript projects!
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
-  - Unofficial Bitwarden compatible server written in Rust
-- [bevy](https://github.com/bevyengine/bevy)
-  - A refreshingly simple data-driven game engine built in Rust
-- [nushell](https://github.com/nushell/nushell)
-  - A new type of shell
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [polkadot](https://github.com/paritytech/polkadot)
-  - Polkadot Node Implementation
-- [RustScan](https://github.com/RustScan/RustScan)
-  - Faster Nmap Scanning with Rust
-- [rust-clippy](https://github.com/rust-lang/rust-clippy)
-  - A bunch of lints to catch common mistakes and improve your Rust code
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-  - A curated list of Rust code and resources.
-- [bat](https://github.com/sharkdp/bat)
-  - A cat(1) clone with wings.
-- [gitui](https://github.com/extrawurst/gitui)
-  - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [delta](https://github.com/dandavison/delta)
-  - A viewer for git and diff output
-- [indy-sdk](https://github.com/hyperledger/indy-sdk)
-  - Everything needed to build applications that interact with an Indy distributed identity ledger.
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [penrose](https://github.com/sminez/penrose)
-  - A tiling window manager in the spirit of dwm / Xmonad but written in Rust (Very much a work in progress!)
-- [openethereum](https://github.com/openethereum/openethereum)
-  - The fast, light, and robust client for Ethereum-like networks.
-- [azul](https://github.com/maps4print/azul)
-  - Desktop GUI Framework
-- [talent-plan](https://github.com/pingcap/talent-plan)
-  - open source training courses about distributed database and distributed systemes
-- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
-  - 📚 Learn to write an embedded OS in Rust 🦀
-- [spotify-tui](https://github.com/Rigellute/spotify-tui)
-  - Spotify for the terminal written in Rust 🚀
-- [druid](https://github.com/linebender/druid)
-  - A data-first Rust-native UI design toolkit.
-- [zola](https://github.com/getzola/zola)
-  - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [kulupu](https://github.com/kulupu/kulupu)
   - PoW blockchain with on-chain governance and online upgrade, built on Substrate
+- [exa](https://github.com/ogham/exa)
+  - A modern version of ‘ls’.
+- [spotify-tui](https://github.com/Rigellute/spotify-tui)
+  - Spotify for the terminal written in Rust 🚀
+- [alacritty](https://github.com/alacritty/alacritty)
+  - A cross-platform, GPU-accelerated terminal emulator
+- [gitui](https://github.com/extrawurst/gitui)
+  - Blazing 💥 fast terminal-ui for git written in rust 🦀
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - ripgrep recursively searches directories for a regex pattern
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
+- [orogene](https://github.com/orogene/orogene)
+  - A next-generation platform and package manager for Node.js-compatible and frontend JavaScript projects!
+- [coreutils](https://github.com/uutils/coreutils)
+  - Cross-platform Rust rewrite of the GNU coreutils
+- [RustScan](https://github.com/RustScan/RustScan)
+  - Faster Nmap Scanning with Rust
+- [zoxide](https://github.com/ajeetdsouza/zoxide)
+  - A faster way to navigate your filesystem
+- [delta](https://github.com/dandavison/delta)
+  - A viewer for git and diff output
+- [bottom](https://github.com/ClementTsang/bottom)
+  - Yet another cross-platform graphical process/system monitor.
+- [trunk](https://github.com/thedodd/trunk)
+  - Build, bundle & ship your Rust WASM application to the web.
+- [starship](https://github.com/starship/starship)
+  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [wrangler](https://github.com/cloudflare/wrangler)
+  - 🤠 wrangle your cloudflare workers
+- [vector](https://github.com/timberio/vector)
+  - A lightweight and ultra-fast router for building observability pipelines
+- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+  - 📚 Learn to write an embedded OS in Rust 🦀
+- [rapier](https://github.com/dimforge/rapier)
+  - 2D and 3D physics engines focused on performances.
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [fd](https://github.com/sharkdp/fd)
+  - A simple, fast and user-friendly alternative to 'find'
+- [azul](https://github.com/maps4print/azul)
+  - Desktop GUI Framework
+- [xsv](https://github.com/BurntSushi/xsv)
+  - A fast CSV command line toolkit written in Rust.
+- [swc](https://github.com/swc-project/swc)
+  - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.

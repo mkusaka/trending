@@ -1,51 +1,51 @@
 # javascript
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
   - The ultimate Free Open Source Solution for team communications.
-- [json-server](https://github.com/typicode/json-server)
-  - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-- [plyr](https://github.com/sampotts/plyr)
-  - A simple HTML5, YouTube and Vimeo player
-- [wtfjs](https://github.com/denysdovhan/wtfjs)
-  - 🤪 A list of funny and tricky JavaScript examples
-- [heroicons](https://github.com/tailwindlabs/heroicons)
-  - A set of free MIT-licensed high-quality SVG icons for UI development.
-- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
-  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
-- [nuxt.js](https://github.com/nuxt/nuxt.js)
-  - The Intuitive Vue Framework
-- [office-docs-powershell](https://github.com/MicrosoftDocs/office-docs-powershell)
-  - PowerShell Reference for Office Products - Short URL: aka.ms/office-powershell
-- [next.js](https://github.com/vercel/next.js)
-  - The React Framework
+- [shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f)
+  - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
+- [Recoil](https://github.com/facebookexperimental/Recoil)
+  - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
+- [material-table](https://github.com/mbrn/material-table)
+  - Datatable for React based on material-ui's table with additional features
 - [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
   - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [danfojs](https://github.com/opensource9ja/danfojs)
-  - danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
-- [password-manager-resources](https://github.com/apple/password-manager-resources)
-  - A place for creators and users of password managers to collaborate on resources to make password management better.
-- [fall-2020](https://github.com/OU-PhD-Econometrics/fall-2020)
-  - 
-- [amphtml](https://github.com/ampproject/amphtml)
-  - The AMP web component framework.
-- [bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker)
-  - A datepicker for twitter bootstrap (@twbs)
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [strapi](https://github.com/strapi/strapi)
-  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-  - ⭐️ Companies that don't have a broken hiring process
-- [netlify-cms](https://github.com/netlify/netlify-cms)
-  - A Git-based CMS for Static Site Generators
-- [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue)
-  - BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
-- [nsfw-filter](https://github.com/nsfw-filter/nsfw-filter)
-  - A Google Chrome / Firefox extension that blocks NSFW images from the web pages that you load using TensorFlow JS.
+- [react-i18next](https://github.com/i18next/react-i18next)
+  - Internationalization for react done right. Using the i18next i18n ecosystem.
+- [Scriptable](https://github.com/GideonSenku/Scriptable)
+  - A iOS app named Scriptable's scripts
+- [realworld](https://github.com/gothinkster/realworld)
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
   - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
-- [angular.js](https://github.com/angular/angular.js)
-  - AngularJS - HTML enhanced for web apps!
-- [mattermost-webapp](https://github.com/mattermost/mattermost-webapp)
-  - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
+- [danfojs](https://github.com/opensource9ja/danfojs)
+  - danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
+- [wtfjs](https://github.com/denysdovhan/wtfjs)
+  - 🤪 A list of funny and tricky JavaScript examples
+- [javascript](https://github.com/airbnb/javascript)
+  - JavaScript Style Guide
+- [heroicons](https://github.com/tailwindlabs/heroicons)
+  - A set of free MIT-licensed high-quality SVG icons for UI development.
+- [grapesjs](https://github.com/artf/grapesjs)
+  - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
+- [create-react-app](https://github.com/facebook/create-react-app)
+  - Set up a modern web app by running one command.
+- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
+  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [nuxt.js](https://github.com/nuxt/nuxt.js)
+  - The Intuitive Vue Framework
+- [summernote](https://github.com/summernote/summernote)
+  - Super simple WYSIWYG editor
+- [select2](https://github.com/select2/select2)
+  - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
+- [ChineseBQB](https://github.com/zhaoolee/ChineseBQB)
+  - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
+- [carbon](https://github.com/carbon-design-system/carbon)
+  - A design system built by IBM
+- [remember](https://github.com/manikandanraji/remember)
+  - Capture, Edit and Save
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [video.js](https://github.com/videojs/video.js)
+  - Video.js - open source HTML5 & Flash video player
+- [project-guidelines](https://github.com/elsewhencode/project-guidelines)
+  - A set of best practices for JavaScript projects
