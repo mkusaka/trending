@@ -1,51 +1,51 @@
 # go
+- [ultimate-go](https://github.com/hoanhan101/ultimate-go)
+  - Ultimate Go Study Guide
 - [packer](https://github.com/hashicorp/packer)
   - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-- [ultimate-go](https://github.com/hoanhan101/ultimate-go)
-  - Ultimate Go study guide
-- [go](https://github.com/golang/go)
-  - The Go programming language
-- [aws-controllers-k8s](https://github.com/aws/aws-controllers-k8s)
-  - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
-- [loki](https://github.com/grafana/loki)
-  - Like Prometheus, but for logs.
-- [ultimate-go](https://github.com/betty200744/ultimate-go)
-  - This repo contains my notes on working with Go and computer systems.
-- [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-  - A reverse proxy that provides authentication with Google, Github or other providers.
-- [origin](https://github.com/openshift/origin)
-  - Conformance test suite for OpenShift
-- [eventnative](https://github.com/ksensehq/eventnative)
-  - EventNative is an open-source data collection framework
+- [traefik](https://github.com/containous/traefik)
+  - The Cloud Native Edge Router
+- [terraform](https://github.com/hashicorp/terraform)
+  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [thanos](https://github.com/thanos-io/thanos)
+  - Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.
+- [redis](https://github.com/go-redis/redis)
+  - Type-safe Redis client for Golang
+- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
+  - Terraform AWS provider
+- [k6](https://github.com/loadimpact/k6)
+  - A modern load testing tool, using Go and JavaScript - https://k6.io
+- [cortex](https://github.com/cortexlabs/cortex)
+  - Build machine learning APIs
+- [velero](https://github.com/vmware-tanzu/velero)
+  - Backup and migrate Kubernetes applications and their persistent volumes
+- [terratest](https://github.com/gruntwork-io/terratest)
+  - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [telegraf](https://github.com/influxdata/telegraf)
+  - The plugin-driven server agent for collecting & reporting metrics.
+- [gotraining](https://github.com/ardanlabs/gotraining)
+  - Go Training Class Material :
+- [gin](https://github.com/gin-gonic/gin)
+  - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+- [moby](https://github.com/moby/moby)
+  - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [msfs2020-go](https://github.com/lian/msfs2020-go)
   - connect to microsoft flight simulator 2020 using golang
-- [quorum](https://github.com/ConsenSys/quorum)
-  - A permissioned implementation of Ethereum supporting data privacy
-- [influxdb](https://github.com/influxdata/influxdb)
-  - Scalable datastore for metrics, events, and real-time analytics
-- [prysm](https://github.com/prysmaticlabs/prysm)
-  - Go implementation of the Ethereum 2.0 blockchain
-- [decimal](https://github.com/shopspring/decimal)
-  - Arbitrary-precision fixed-point decimal numbers in go
-- [kubeedge](https://github.com/kubeedge/kubeedge)
-  - Kubernetes Native Edge Computing Framework (project under CNCF)
+- [consul](https://github.com/hashicorp/consul)
+  - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [jaeger](https://github.com/jaegertracing/jaeger)
   - CNCF Jaeger, a Distributed Tracing Platform
-- [terraform-provider-google](https://github.com/hashicorp/terraform-provider-google)
-  - Terraform Google Cloud Platform provider
-- [matterbridge](https://github.com/42wim/matterbridge)
-  - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud and more with REST API (mattermost not required!)
-- [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)
-  - Kubebuilder - SDK for building Kubernetes APIs using CRDs
-- [cadvisor](https://github.com/google/cadvisor)
-  - Analyzes resource usage and performance characteristics of running containers.
-- [etcd](https://github.com/etcd-io/etcd)
-  - Distributed reliable key-value store for the most critical data of a distributed system
-- [go-tools](https://github.com/dominikh/go-tools)
-  - Staticcheck - The advanced Go linter
-- [swag](https://github.com/swaggo/swag)
-  - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
-- [kops](https://github.com/kubernetes/kops)
-  - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
-- [httpx](https://github.com/projectdiscovery/httpx)
-  - httpx is a fast and multi-purpose HTTP toolkit allow to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads.
+- [datadog-agent](https://github.com/DataDog/datadog-agent)
+  - Datadog Agent
+- [vault](https://github.com/hashicorp/vault)
+  - A tool for secrets management, encryption as a service, and privileged access management
+- [client_golang](https://github.com/prometheus/client_golang)
+  - Prometheus instrumentation library for Go applications
+- [istio](https://github.com/istio/istio)
+  - Connect, secure, control, and observe services.
+- [redigo](https://github.com/gomodule/redigo)
+  - Go client for Redis
+- [go](https://github.com/golang/go)
+  - The Go programming language
+- [charts](https://github.com/helm/charts)
+  - Curated applications for Kubernetes

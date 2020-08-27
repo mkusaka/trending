@@ -1,48 +1,48 @@
 # general
 - [msfs-a320neo](https://github.com/wpine215/msfs-a320neo) : HTML
-- [packer](https://github.com/hashicorp/packer) : Go
-  - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+- [ultimate-go](https://github.com/hoanhan101/ultimate-go) : Go
+  - Ultimate Go Study Guide
 - [certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course) : Shell
   - Certified Kubernetes Administrator - CKA Course
-- [volt-bootstrap-5-dashboard](https://github.com/themesberg/volt-bootstrap-5-dashboard) : HTML
-  - ⚡️ Volt Bootstrap 5 Admin Dashboard Template with vanilla Javascript
-- [RAFT](https://github.com/princeton-vl/RAFT) : Python
-- [open-source-cs-python](https://github.com/ForrestKnight/open-source-cs-python) : 
-- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) : JavaScript
-  - The ultimate Free Open Source Solution for team communications.
-- [latexify_py](https://github.com/google/latexify_py) : Python
-  - Generates LaTeX math description from Python functions.
-- [mit-15-003-data-science-tools](https://github.com/shervinea/mit-15-003-data-science-tools) : 
-  - Study guides for MIT's 15.003 Data Science Tools
-- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) : 
-  - Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
-- [element3](https://github.com/kkbjs/element3) : Vue
-  - (WIP)fork from ElemeFE/element ,A Vue.js 3.0 UI Toolkit for Web
-- [open-source-cs](https://github.com/ForrestKnight/open-source-cs) : 
-  - Video discussing this curriculum:
-- [nvm](https://github.com/nvm-sh/nvm) : Shell
-  - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-- [baiduwp-php](https://github.com/yuantuo666/baiduwp-php) : PHP
-  - PanDownload网页复刻版
-- [fastbook](https://github.com/fastai/fastbook) : Jupyter Notebook
-  - Draft of the fastai book
-- [Gooey](https://github.com/chriskiehl/Gooey) : Python
-  - Turn (almost) any Python command line program into a full GUI application with one line
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
   - A complete computer science study plan to become a software engineer.
-- [clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) : Swift
-  - A demo project showcasing the production setup of the SwiftUI app with Clean Architecture
-- [AWS-SAA-C02-Course](https://github.com/alozano-77/AWS-SAA-C02-Course) : 
-  - Personal notes for SAA-C02 test from: https://learn.cantrill.io
-- [cpp-httplib](https://github.com/yhirose/cpp-httplib) : C++
-  - A C++ header-only HTTP/HTTPS server and client library
-- [vscode](https://github.com/microsoft/vscode) : TypeScript
-  - Visual Studio Code
+- [compose-samples](https://github.com/android/compose-samples) : Kotlin
+- [volt-bootstrap-5-dashboard](https://github.com/themesberg/volt-bootstrap-5-dashboard) : HTML
+  - ⚡️ Volt Bootstrap 5 Admin Dashboard Template with vanilla Javascript
+- [gitpod](https://github.com/gitpod-io/gitpod) : TypeScript
+  - Gitpod is an open-source Kubernetes application providing prebuilt, collaborative development environments in your browser - powered by VS Code.
+- [open-source-cs-python](https://github.com/ForrestKnight/open-source-cs-python) : 
+- [packer](https://github.com/hashicorp/packer) : Go
+  - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+- [Gooey](https://github.com/chriskiehl/Gooey) : Python
+  - Turn (almost) any Python command line program into a full GUI application with one line
+- [CS-Notes](https://github.com/huangrt01/CS-Notes) : Python
+  - 我的自学笔记，在学习shell和MLSys，整理C++、算法、操作系统，后续学习分布式系统，终身更新。
+- [present](https://github.com/vinayak-mehta/present) : Python
+  - A terminal-based presentation tool with colors and effects.
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) : JavaScript
+  - The ultimate Free Open Source Solution for team communications.
+- [TecoGAN](https://github.com/thunil/TecoGAN) : Python
+  - This repo will contain source code and materials for the TecoGAN project, i.e. code for a TEmporally COherent GAN
 - [YouTube-Livestream-Botter](https://github.com/KevinLage/YouTube-Livestream-Botter) : Python
   - Simple tool to bot viewers to a YouTube Livestream!
+- [traefik](https://github.com/containous/traefik) : Go
+  - The Cloud Native Edge Router
+- [element3](https://github.com/kkbjs/element3) : Vue
+  - (WIP)fork from ElemeFE/element ,A Vue.js 3.0 UI Toolkit for Web
+- [shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f) : JavaScript
+  - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
+- [airflow](https://github.com/apache/airflow) : Python
+  - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [kubernetes-examples](https://github.com/ContainerSolutions/kubernetes-examples) : 
   - Minimal self-contained examples of standard Kubernetes features and patterns in YAML
-- [react-native-navigation](https://github.com/wix/react-native-navigation) : Java
-  - A complete native navigation solution for React Native
-- [CascadeTabNet](https://github.com/DevashishPrasad/CascadeTabNet) : Python
-  - This repository contains the code and implementation details of the CascadeTabNet paper "CascadeTabNet: An approach for end to end table detection and structure recognition from image-based documents"
+- [black](https://github.com/psf/black) : Python
+  - The uncompromising Python code formatter
+- [puppeteer](https://github.com/puppeteer/puppeteer) : TypeScript
+  - Headless Chrome Node.js API
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
+  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [gitignore](https://github.com/github/gitignore) : 
+  - A collection of useful .gitignore templates
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
+  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
