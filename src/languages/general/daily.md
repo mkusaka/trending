@@ -1,48 +1,49 @@
 # general
-- [msfs-a320neo](https://github.com/wpine215/msfs-a320neo) : HTML
-- [ultimate-go](https://github.com/hoanhan101/ultimate-go) : Go
-  - Ultimate Go Study Guide
-- [certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course) : Shell
-  - Certified Kubernetes Administrator - CKA Course
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
 - [compose-samples](https://github.com/android/compose-samples) : Kotlin
-- [volt-bootstrap-5-dashboard](https://github.com/themesberg/volt-bootstrap-5-dashboard) : HTML
-  - ⚡️ Volt Bootstrap 5 Admin Dashboard Template with vanilla Javascript
-- [gitpod](https://github.com/gitpod-io/gitpod) : TypeScript
-  - Gitpod is an open-source Kubernetes application providing prebuilt, collaborative development environments in your browser - powered by VS Code.
-- [open-source-cs-python](https://github.com/ForrestKnight/open-source-cs-python) : 
-- [packer](https://github.com/hashicorp/packer) : Go
-  - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-- [Gooey](https://github.com/chriskiehl/Gooey) : Python
-  - Turn (almost) any Python command line program into a full GUI application with one line
-- [CS-Notes](https://github.com/huangrt01/CS-Notes) : Python
-  - 我的自学笔记，在学习shell和MLSys，整理C++、算法、操作系统，后续学习分布式系统，终身更新。
-- [present](https://github.com/vinayak-mehta/present) : Python
-  - A terminal-based presentation tool with colors and effects.
-- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) : JavaScript
-  - The ultimate Free Open Source Solution for team communications.
-- [TecoGAN](https://github.com/thunil/TecoGAN) : Python
-  - This repo will contain source code and materials for the TecoGAN project, i.e. code for a TEmporally COherent GAN
-- [YouTube-Livestream-Botter](https://github.com/KevinLage/YouTube-Livestream-Botter) : Python
-  - Simple tool to bot viewers to a YouTube Livestream!
-- [traefik](https://github.com/containous/traefik) : Go
-  - The Cloud Native Edge Router
-- [element3](https://github.com/kkbjs/element3) : Vue
-  - (WIP)fork from ElemeFE/element ,A Vue.js 3.0 UI Toolkit for Web
-- [shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f) : JavaScript
-  - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
-- [airflow](https://github.com/apache/airflow) : Python
-  - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [kubernetes-examples](https://github.com/ContainerSolutions/kubernetes-examples) : 
-  - Minimal self-contained examples of standard Kubernetes features and patterns in YAML
-- [black](https://github.com/psf/black) : Python
-  - The uncompromising Python code formatter
+- [arwes](https://github.com/arwes/arwes) : JavaScript
+  - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps
+- [maratona-fullcycle-4](https://github.com/codeedu/maratona-fullcycle-4) : HTML
 - [puppeteer](https://github.com/puppeteer/puppeteer) : TypeScript
   - Headless Chrome Node.js API
-- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
-  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-- [gitignore](https://github.com/github/gitignore) : 
-  - A collection of useful .gitignore templates
+- [Learn-Vim](https://github.com/iggredible/Learn-Vim) : 
+  - A book for learning the Vim editor
+- [speakeasy](https://github.com/fireeye/speakeasy) : Python
+  - Windows kernel and user mode emulation.
+- [OpenBot](https://github.com/intel-isl/OpenBot) : 
+  - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones supports advanced robotics workloads such as person following and real-time autonomous navigation.
+- [ultimate-go](https://github.com/hoanhan101/ultimate-go) : Go
+  - The Ultimate Go Study Guide
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) : JavaScript
+  - ✅ The Node.js best practices list (August 2020)
+- [msfs-a320neo](https://github.com/wpine215/msfs-a320neo) : HTML
+  - The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
+  - 📚 Freely available programming books
+- [element3](https://github.com/kkbjs/element3) : Vue
+  - (WIP)fork from ElemeFE/element ,A Vue.js 3.0 UI Toolkit for Web
+- [black](https://github.com/psf/black) : Python
+  - The uncompromising Python code formatter
+- [takeout](https://github.com/tightenco/takeout) : PHP
+  - Docker-based development-only dependency manager; pairs with Valet.
+- [d3](https://github.com/d3/d3) : JavaScript
+  - Bring data to life with SVG, Canvas and HTML. 📊📈🎉
+- [volt-bootstrap-5-dashboard](https://github.com/themesberg/volt-bootstrap-5-dashboard) : HTML
+  - ⚡️ Volt - Bootstrap 5 Admin Dashboard Template with vanilla Javascript
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
   - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [mern-course-bootcamp](https://github.com/jeanrauwers/mern-course-bootcamp) : JavaScript
+  - Complete Free Coding Bootcamp 2020 MERN Stack
+- [project-guidelines](https://github.com/elsewhencode/project-guidelines) : JavaScript
+  - A set of best practices for JavaScript projects
+- [certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course) : Shell
+  - Certified Kubernetes Administrator - CKA Course
+- [heroicons](https://github.com/tailwindlabs/heroicons) : JavaScript
+  - A set of free MIT-licensed high-quality SVG icons for UI development.
+- [shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f) : JavaScript
+  - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
+- [open-source-cs-python](https://github.com/ForrestKnight/open-source-cs-python) : 
+  - Video discussing this curriculum:
+- [MeiliSearch](https://github.com/meilisearch/MeiliSearch) : Rust
+  - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine

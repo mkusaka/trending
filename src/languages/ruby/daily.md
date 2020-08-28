@@ -1,51 +1,51 @@
 # ruby
-- [rails](https://github.com/rails/rails)
-  - Ruby on Rails
-- [vagrant](https://github.com/hashicorp/vagrant)
-  - Vagrant is a tool for building and distributing development environments.
-- [logstash](https://github.com/elastic/logstash)
-  - Logstash - transport and process your logs, events, or other data
-- [faker](https://github.com/faker-ruby/faker)
-  - A library for generating fake data such as names, addresses, and phone numbers.
-- [webpacker](https://github.com/rails/webpacker)
-  - Use Webpack to manage app-like JavaScript modules in Rails
-- [rubocop](https://github.com/rubocop-hq/rubocop)
-  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [bullet](https://github.com/flyerhzm/bullet)
-  - help to kill N+1 queries and unused eager loading
-- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
-  - Ruby implementation of GraphQL
-- [spree](https://github.com/spree/spree)
-  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
-- [jsonapi-serializer](https://github.com/jsonapi-serializer/jsonapi-serializer)
-  - A fast JSON:API serializer for Ruby (fork of Netflix/fast_jsonapi)
-- [active_merchant](https://github.com/activemerchant/active_merchant)
-  - Active Merchant is a simple payment abstraction library extracted from Shopify. The aim of the project is to feel natural to Ruby users and to abstract as many parts as possible away from the user to offer a consistent interface across all supported gateways.
-- [devise](https://github.com/heartcombo/devise)
-  - Flexible authentication solution for Rails with Warden.
-- [view_component](https://github.com/github/view_component)
-  - View components for Rails
-- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
-  - The Cocoa Dependency Manager.
+- [capybara](https://github.com/teamcapybara/capybara)
+  - Acceptance test framework for web applications
 - [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)
   - Simple one-liner tests for common Rails functionality
+- [sidekiq](https://github.com/mperham/sidekiq)
+  - Simple, efficient background processing for Ruby
+- [vagrant](https://github.com/hashicorp/vagrant)
+  - Vagrant is a tool for building and distributing development environments.
+- [build-emacs-for-macos](https://github.com/jimeh/build-emacs-for-macos)
+  - Quickly hacked together script to automate building of Emac.app on macOS.
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
+  - Metasploit Framework
+- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
+  - Ruby implementation of GraphQL
+- [gitdm](https://github.com/cncf/gitdm)
+  - 📜Fork for tracking CNCF projects
+- [bullet](https://github.com/flyerhzm/bullet)
+  - help to kill N+1 queries and unused eager loading
+- [huginn](https://github.com/huginn/huginn)
+  - Create agents that monitor and act on your behalf. Your agents are standing by!
+- [fastlane](https://github.com/fastlane/fastlane)
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [axlsx](https://github.com/randym/axlsx)
+  - xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your…
+- [raven-ruby](https://github.com/getsentry/raven-ruby)
+  - Ruby SDK for Sentry
+- [puma](https://github.com/puma/puma)
+  - A Ruby/Rack web server built for concurrency
+- [theodinproject](https://github.com/TheOdinProject/theodinproject)
+  - Main Website for The Odin Project
+- [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch)
+  - Ansible playbook for Elasticsearch
+- [terraforming](https://github.com/dtan4/terraforming)
+  - Export existing AWS resources to Terraform style (tf, tfstate)
+- [truffleruby](https://github.com/oracle/truffleruby)
+  - A high performance implementation of the Ruby programming language. Built on the GraalVM by Oracle Labs.
 - [fluentd](https://github.com/fluent/fluentd)
   - Fluentd: Unified Logging Layer (project under CNCF)
-- [kaminari](https://github.com/kaminari/kaminari)
-  - ⚡ A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps
-- [react-native-config](https://github.com/luggit/react-native-config)
-  - Bring some 12 factor love to your mobile apps!
-- [prawn](https://github.com/prawnpdf/prawn)
-  - Fast, Nimble PDF Writer for Ruby
-- [ransack](https://github.com/activerecord-hackery/ransack)
-  - Object-based searching.
-- [chatwoot](https://github.com/chatwoot/chatwoot)
-  - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬
-- [rubygems](https://github.com/rubygems/rubygems)
-  - Library packaging and distribution for Ruby.
-- [homebrew-cask-versions](https://github.com/Homebrew/homebrew-cask-versions)
-  - 🔢 Alternate versions of Casks
-- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-- [roo](https://github.com/roo-rb/roo)
-  - Roo provides an interface to spreadsheets of several sorts.
+- [rails_admin](https://github.com/sferik/rails_admin)
+  - RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data
+- [doorkeeper](https://github.com/doorkeeper-gem/doorkeeper)
+  - Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.
+- [typhoeus](https://github.com/typhoeus/typhoeus)
+  - Typhoeus wraps libcurl in order to make fast and reliable requests.
+- [webpacker](https://github.com/rails/webpacker)
+  - Use Webpack to manage app-like JavaScript modules in Rails
+- [logstash](https://github.com/elastic/logstash)
+  - Logstash - transport and process your logs, events, or other data
+- [view_component](https://github.com/github/view_component)
+  - View components for Rails

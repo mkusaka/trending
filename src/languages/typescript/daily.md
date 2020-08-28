@@ -1,51 +1,51 @@
 # typescript
-- [gitpod](https://github.com/gitpod-io/gitpod)
-  - Gitpod is an open-source Kubernetes application providing prebuilt, collaborative development environments in your browser - powered by VS Code.
 - [puppeteer](https://github.com/puppeteer/puppeteer)
   - Headless Chrome Node.js API
+- [token-lists](https://github.com/Uniswap/token-lists)
+  - 📚 The Token Lists specification
+- [gitpod](https://github.com/gitpod-io/gitpod)
+  - Gitpod is an open-source Kubernetes application providing prebuilt, collaborative development environments in your browser - powered by VS Code.
+- [ant-design](https://github.com/ant-design/ant-design)
+  - 🌈 A UI Design Language and React UI library
+- [datahub](https://github.com/linkedin/datahub)
+  - A Generalized Metadata Search & Discovery Tool
+- [amplify-js](https://github.com/aws-amplify/amplify-js)
+  - A declarative JavaScript library for application development using cloud services.
+- [NativeScript](https://github.com/NativeScript/NativeScript)
+  - NativeScript empowers you to access native api's from JavaScript directly. Angular, Vue, Svelte, React and you name it compatible.
 - [vscode](https://github.com/microsoft/vscode)
   - Visual Studio Code
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
-- [element-plus](https://github.com/element-plus/element-plus)
-  - 🌈 A Vue.js 3.0 UI Library
-- [grafana](https://github.com/grafana/grafana)
-  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer)
-  - An extension for VS Code that visualizes data during debugging.
-- [jest](https://github.com/facebook/jest)
-  - Delightful JavaScript Testing.
-- [ice](https://github.com/alibaba/ice)
-  - 🚀 Simple and friendly front-end development system（飞冰，简单而友好的前端研发体系 ）https://ice.work/
-- [react-query](https://github.com/tannerlinsley/react-query)
-  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
-- [formik](https://github.com/formium/formik)
-  - Build forms in React, without the tears 😭
-- [sp-dev-fx-webparts](https://github.com/pnp/sp-dev-fx-webparts)
-  - SharePoint Framework web part, Teams tab, personal app, app page samples
-- [components](https://github.com/angular/components)
-  - Component infrastructure and Material Design components for Angular
-- [code-server](https://github.com/cdr/code-server)
-  - VS Code in the browser
-- [TypeScript](https://github.com/microsoft/TypeScript)
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
-  - 💬 The most complete chat UI for React Native
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+  - The repository for high quality TypeScript type definitions.
+- [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)
+  - UI components lib based on Ant Design for Angular
+- [formatjs](https://github.com/formatjs/formatjs)
+  - The monorepo home to all of the FormatJS related libraries, most notably react-intl.
 - [editor.js](https://github.com/codex-team/editor.js)
   - A block-styled editor with clean JSON output
-- [theia](https://github.com/eclipse-theia/theia)
-  - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [react-native-webview](https://github.com/react-native-community/react-native-webview)
-  - React Native Cross-Platform WebView
-- [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
-  - ✨ Monorepo for all the tooling which enables ESLint to support TypeScript
-- [apollo-client](https://github.com/apollographql/apollo-client)
-  - 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
-- [typeorm](https://github.com/typeorm/typeorm)
-  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-- [vue-next](https://github.com/vuejs/vue-next)
-  - Repo for Vue 3.0 (currently in RC)
-- [electron-builder](https://github.com/electron-userland/electron-builder)
-  - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [amplify-cli](https://github.com/aws-amplify/amplify-cli)
-  - A CLI toolchain for simplifying serverless web and mobile development.
+- [sequelize-typescript](https://github.com/RobinBuschmann/sequelize-typescript)
+  - Decorators and some other features for sequelize
+- [storybook](https://github.com/storybookjs/storybook)
+  - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
+- [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)
+  - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
+- [react-query](https://github.com/tannerlinsley/react-query)
+  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+- [tfjs-models](https://github.com/tensorflow/tfjs-models)
+  - Pretrained models for TensorFlow.js
+- [renovate](https://github.com/renovatebot/renovate)
+  - Universal dependency update tool that fits into your workflows.
+- [react-admin](https://github.com/marmelab/react-admin)
+  - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
+- [coc.nvim](https://github.com/neoclide/coc.nvim)
+  - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
+- [ngx-admin](https://github.com/akveo/ngx-admin)
+  - Customizable admin dashboard template based on Angular 9+
+- [deno](https://github.com/denoland/deno)
+  - A secure JavaScript and TypeScript runtime
+- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
+  - The source for REST API specifications for Microsoft Azure.
+- [next-i18next](https://github.com/isaachinman/next-i18next)
+  - The easiest way to translate your NextJs apps.
+- [vega-lite](https://github.com/vega/vega-lite)
+  - A concise grammar of interactive graphics, built on Vega.

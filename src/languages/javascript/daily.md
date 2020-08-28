@@ -1,51 +1,51 @@
 # javascript
-- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
-  - The ultimate Free Open Source Solution for team communications.
-- [shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f)
-  - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
-- [Recoil](https://github.com/facebookexperimental/Recoil)
-  - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
-- [material-table](https://github.com/mbrn/material-table)
-  - Datatable for React based on material-ui's table with additional features
-- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
-  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [react-i18next](https://github.com/i18next/react-i18next)
-  - Internationalization for react done right. Using the i18next i18n ecosystem.
-- [Scriptable](https://github.com/GideonSenku/Scriptable)
-  - A iOS app named Scriptable's scripts
-- [realworld](https://github.com/gothinkster/realworld)
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-  - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
-- [danfojs](https://github.com/opensource9ja/danfojs)
-  - danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
-- [wtfjs](https://github.com/denysdovhan/wtfjs)
-  - 🤪 A list of funny and tricky JavaScript examples
-- [javascript](https://github.com/airbnb/javascript)
-  - JavaScript Style Guide
-- [heroicons](https://github.com/tailwindlabs/heroicons)
-  - A set of free MIT-licensed high-quality SVG icons for UI development.
-- [grapesjs](https://github.com/artf/grapesjs)
-  - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
-- [create-react-app](https://github.com/facebook/create-react-app)
-  - Set up a modern web app by running one command.
-- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
-  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [nuxt.js](https://github.com/nuxt/nuxt.js)
-  - The Intuitive Vue Framework
-- [summernote](https://github.com/summernote/summernote)
-  - Super simple WYSIWYG editor
-- [select2](https://github.com/select2/select2)
-  - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
-- [ChineseBQB](https://github.com/zhaoolee/ChineseBQB)
-  - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
-- [carbon](https://github.com/carbon-design-system/carbon)
-  - A design system built by IBM
-- [remember](https://github.com/manikandanraji/remember)
-  - Capture, Edit and Save
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [video.js](https://github.com/videojs/video.js)
-  - Video.js - open source HTML5 & Flash video player
+- [arwes](https://github.com/arwes/arwes)
+  - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+  - ✅ The Node.js best practices list (August 2020)
+- [d3](https://github.com/d3/d3)
+  - Bring data to life with SVG, Canvas and HTML. 📊📈🎉
+- [mern-course-bootcamp](https://github.com/jeanrauwers/mern-course-bootcamp)
+  - Complete Free Coding Bootcamp 2020 MERN Stack
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines)
   - A set of best practices for JavaScript projects
+- [heroicons](https://github.com/tailwindlabs/heroicons)
+  - A set of free MIT-licensed high-quality SVG icons for UI development.
+- [shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f)
+  - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
+- [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+  - 🚀 Generate github profile README easily with latest add-ons like visitors count, github stats, etc using minimal UI.
+- [three.js](https://github.com/mrdoob/three.js)
+  - JavaScript 3D library.
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+  - The ultimate Free Open Source Solution for team communications.
+- [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
+  - A WhatsApp client library for javascript that connects through the WhatsApp Web browser app
+- [react-i18next](https://github.com/i18next/react-i18next)
+  - Internationalization for react done right. Using the i18next i18n ecosystem.
+- [exploits](https://github.com/r4j0x00/exploits)
+  - 
+- [thelounge](https://github.com/thelounge/thelounge)
+  - 💬 Modern, responsive, cross-platform, self-hosted web IRC client
+- [carbon](https://github.com/carbon-design-system/carbon)
+  - A design system built by IBM
+- [cypress](https://github.com/cypress-io/cypress)
+  - Fast, easy and reliable testing for anything that runs in a browser.
+- [ChineseBQB](https://github.com/zhaoolee/ChineseBQB)
+  - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
+- [office-docs-powershell](https://github.com/MicrosoftDocs/office-docs-powershell)
+  - PowerShell Reference for Office Products - Short URL: aka.ms/office-powershell
+- [yarn](https://github.com/yarnpkg/yarn)
+  - 📦🐈 Fast, reliable, and secure dependency management.
+- [mattermost-webapp](https://github.com/mattermost/mattermost-webapp)
+  - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
+- [scripts](https://github.com/lxk0301/scripts)
+  - 京东薅羊毛工具（活动入口：京东app->我的->游戏与互动->查看更多）
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [jsmpeg](https://github.com/phoboslab/jsmpeg)
+  - MPEG1 Video Decoder in JavaScript
+- [mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide)
+  - Mostly adequate guide to FP (in javascript)
+- [bigbluebutton](https://github.com/bigbluebutton/bigbluebutton)
+  - Complete open source web conferencing system.
