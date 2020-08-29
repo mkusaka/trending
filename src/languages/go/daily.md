@@ -1,51 +1,51 @@
 # go
 - [ultimate-go](https://github.com/hoanhan101/ultimate-go)
   - The Ultimate Go Study Guide
-- [thanos](https://github.com/thanos-io/thanos)
-  - Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.
+- [Cloudreve](https://github.com/cloudreve/Cloudreve)
+  - 🌩支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)
+- [podman](https://github.com/containers/podman)
+  - Podman: A tool for managing OCI containers and pods
+- [colly](https://github.com/gocolly/colly)
+  - Elegant Scraper and Crawler Framework for Golang
 - [traefik](https://github.com/containous/traefik)
   - The Cloud Native Edge Router
-- [packer](https://github.com/hashicorp/packer)
-  - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-- [istio](https://github.com/istio/istio)
-  - Connect, secure, control, and observe services.
-- [gocv](https://github.com/hybridgroup/gocv)
-  - Go package for computer vision using OpenCV 4 and beyond.
-- [go](https://github.com/golang/go)
-  - The Go programming language
+- [prometheus](https://github.com/prometheus/prometheus)
+  - The Prometheus monitoring system and time series database.
+- [argo-cd](https://github.com/argoproj/argo-cd)
+  - Declarative continuous deployment for Kubernetes.
 - [jwt-go](https://github.com/dgrijalva/jwt-go)
   - Golang implementation of JSON Web Tokens (JWT)
-- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
-  - Terraform AWS provider
-- [jaeger](https://github.com/jaegertracing/jaeger)
-  - CNCF Jaeger, a Distributed Tracing Platform
-- [gotraining](https://github.com/ardanlabs/gotraining)
-  - Go Training Class Material :
-- [terraform](https://github.com/hashicorp/terraform)
-  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [pg](https://github.com/go-pg/pg)
-  - Golang ORM with focus on PostgreSQL features and performance
-- [opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector)
-  - OpenTelemetry Collector
+- [nats-server](https://github.com/nats-io/nats-server)
+  - High-Performance server for NATS, the cloud native messaging system.
+- [webify](https://github.com/beefsack/webify)
+  - Turn shell commands into web services
+- [vitess](https://github.com/vitessio/vitess)
+  - Vitess is a database clustering system for horizontal scaling of MySQL.
+- [cli](https://github.com/cli/cli)
+  - GitHub’s official command line tool
+- [redigo](https://github.com/gomodule/redigo)
+  - Go client for Redis
+- [migrate](https://github.com/golang-migrate/migrate)
+  - Database migrations. CLI and Golang library.
+- [argo](https://github.com/argoproj/argo)
+  - Argo Workflows: Get stuff done with Kubernetes.
+- [evilginx2](https://github.com/kgretzky/evilginx2)
+  - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
+- [k6](https://github.com/loadimpact/k6)
+  - A modern load testing tool, using Go and JavaScript - https://k6.io
+- [monsoon](https://github.com/RedTeamPentesting/monsoon)
+  - Fast HTTP enumerator
+- [caddy](https://github.com/caddyserver/caddy)
+  - Fast, multi-platform web server with automatic HTTPS
+- [awesome-go](https://github.com/avelino/awesome-go)
+  - A curated list of awesome Go frameworks, libraries and software
 - [yaml](https://github.com/go-yaml/yaml)
   - YAML support for the Go language.
-- [tflint](https://github.com/terraform-linters/tflint)
-  - TFLint is a Terraform linter focused on possible errors, best practices, etc. (Terraform >= 0.12)
-- [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)
-  - Kubebuilder - SDK for building Kubernetes APIs using CRDs
-- [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy)
-  - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
-- [redis](https://github.com/go-redis/redis)
-  - Type-safe Redis client for Golang
-- [helmfile](https://github.com/roboll/helmfile)
-  - Deploy Kubernetes Helm Charts
-- [metrics-server](https://github.com/kubernetes-sigs/metrics-server)
-  - Cluster-wide aggregator of resource usage data.
-- [ingress-nginx](https://github.com/kubernetes/ingress-nginx)
-  - NGINX Ingress Controller for Kubernetes
-- [kata-containers](https://github.com/kata-containers/kata-containers)
-  - Kata Containers version 2.x repository. Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
-- [kops](https://github.com/kubernetes/kops)
-  - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
-- [mattermost-server](https://github.com/mattermost/mattermost-server)
-  - Open source Slack-alternative in Golang and React - Mattermost
+- [octant](https://github.com/vmware-tanzu/octant)
+  - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
+- [loki](https://github.com/grafana/loki)
+  - Like Prometheus, but for logs.
+- [learngo](https://github.com/inancgumus/learngo)
+  - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
+- [consul-template](https://github.com/hashicorp/consul-template)
+  - Template rendering, notifier, and supervisor for @hashicorp Consul and Vault data.

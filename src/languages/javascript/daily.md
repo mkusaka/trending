@@ -1,51 +1,51 @@
 # javascript
-- [arwes](https://github.com/arwes/arwes)
-  - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
-  - ✅ The Node.js best practices list (August 2020)
 - [d3](https://github.com/d3/d3)
   - Bring data to life with SVG, Canvas and HTML. 📊📈🎉
 - [mern-course-bootcamp](https://github.com/jeanrauwers/mern-course-bootcamp)
   - Complete Free Coding Bootcamp 2020 MERN Stack
+- [arwes](https://github.com/arwes/arwes)
+  - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+  - ✅ The Node.js best practices list (August 2020)
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines)
   - A set of best practices for JavaScript projects
+- [strapi](https://github.com/strapi/strapi)
+  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
 - [heroicons](https://github.com/tailwindlabs/heroicons)
   - A set of free MIT-licensed high-quality SVG icons for UI development.
-- [shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f)
-  - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
-- [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
-  - 🚀 Generate github profile README easily with latest add-ons like visitors count, github stats, etc using minimal UI.
-- [three.js](https://github.com/mrdoob/three.js)
-  - JavaScript 3D library.
-- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
-  - The ultimate Free Open Source Solution for team communications.
-- [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
-  - A WhatsApp client library for javascript that connects through the WhatsApp Web browser app
-- [react-i18next](https://github.com/i18next/react-i18next)
-  - Internationalization for react done right. Using the i18next i18n ecosystem.
-- [exploits](https://github.com/r4j0x00/exploits)
-  - 
-- [thelounge](https://github.com/thelounge/thelounge)
-  - 💬 Modern, responsive, cross-platform, self-hosted web IRC client
+- [javascript](https://github.com/airbnb/javascript)
+  - JavaScript Style Guide
+- [lerna](https://github.com/lerna/lerna)
+  - 🐉 A tool for managing JavaScript projects with multiple packages.
+- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification)
+  - The OpenAPI Specification Repository
 - [carbon](https://github.com/carbon-design-system/carbon)
   - A design system built by IBM
-- [cypress](https://github.com/cypress-io/cypress)
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [ChineseBQB](https://github.com/zhaoolee/ChineseBQB)
-  - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
-- [office-docs-powershell](https://github.com/MicrosoftDocs/office-docs-powershell)
-  - PowerShell Reference for Office Products - Short URL: aka.ms/office-powershell
-- [yarn](https://github.com/yarnpkg/yarn)
-  - 📦🐈 Fast, reliable, and secure dependency management.
-- [mattermost-webapp](https://github.com/mattermost/mattermost-webapp)
-  - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
+- [hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
+  - Based on a true story
+- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
+  - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2020)
+- [cube.js](https://github.com/cube-js/cube.js)
+  - 📊 Cube.js - Open Source Analytics Framework
+- [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
+  - A WhatsApp client library for javascript that connects through the WhatsApp Web browser app
+- [next.js](https://github.com/vercel/next.js)
+  - The React Framework
+- [plexus](https://github.com/techlore-official/plexus)
+  - Remove the fear of Android app compatibility on de-Googled devices.
 - [scripts](https://github.com/lxk0301/scripts)
   - 京东薅羊毛工具（活动入口：京东app->我的->游戏与互动->查看更多）
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [jsmpeg](https://github.com/phoboslab/jsmpeg)
-  - MPEG1 Video Decoder in JavaScript
-- [mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide)
-  - Mostly adequate guide to FP (in javascript)
-- [bigbluebutton](https://github.com/bigbluebutton/bigbluebutton)
-  - Complete open source web conferencing system.
+- [shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f)
+  - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [react-navigation-v5-mix](https://github.com/itzpradip/react-navigation-v5-mix)
+  - 
+- [Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster)
+  - Marker Clustering plugin for Leaflet
+- [sheetjs](https://github.com/SheetJS/sheetjs)
+  - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
+- [kuboard-press](https://github.com/eip-work/kuboard-press)
+  - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.18 安装手册，(k8s install) 在线答疑，持续更新。
+- [yup](https://github.com/jquense/yup)
+  - Dead simple Object schema validation
