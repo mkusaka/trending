@@ -1,50 +1,49 @@
 # general
 - [compose-samples](https://github.com/android/compose-samples) : Kotlin
-- [puppeteer](https://github.com/puppeteer/puppeteer) : TypeScript
-  - Headless Chrome Node.js API
-- [Learn-Vim](https://github.com/iggredible/Learn-Vim) : 
-  - A book for learning the Vim editor
-- [d3](https://github.com/d3/d3) : JavaScript
-  - Bring data to life with SVG, Canvas and HTML. 📊📈🎉
-- [takeout](https://github.com/tightenco/takeout) : PHP
-  - Docker-based development-only dependency manager; pairs with Valet.
-- [expo](https://github.com/expo/expo) : Objective-C
-  - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
-- [rapier](https://github.com/dimforge/rapier) : Rust
-  - 2D and 3D physics engines focused on performances.
-- [OpenBot](https://github.com/intel-isl/OpenBot) : Java
-  - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones supports advanced robotics workloads such as person following and real-time autonomous navigation.
-- [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) : TypeScript
-  - An extension for VS Code that visualizes data during debugging.
-- [learn-python3](https://github.com/jerry-git/learn-python3) : Python
-  - Jupyter notebooks for teaching/learning Python 3
-- [ultimate-go](https://github.com/hoanhan101/ultimate-go) : Go
-  - The Ultimate Go Study Guide
-- [mern-course-bootcamp](https://github.com/jeanrauwers/mern-course-bootcamp) : JavaScript
-  - Complete Free Coding Bootcamp 2020 MERN Stack
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
-  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) : 
-  - 100+ Python challenging programming exercises
-- [learn-python](https://github.com/trekhleb/learn-python) : Python
-  - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
   - 📚 Freely available programming books
-- [arwes](https://github.com/arwes/arwes) : JavaScript
-  - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps
-- [MeiliSearch](https://github.com/meilisearch/MeiliSearch) : Rust
-  - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
-- [Gooey](https://github.com/chriskiehl/Gooey) : Python
-  - Turn (almost) any Python command line program into a full GUI application with one line
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
+- [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) : TypeScript
+  - An extension for VS Code that visualizes data during debugging.
+- [Mindustry](https://github.com/Anuken/Mindustry) : Java
+  - A sandbox tower defense game
 - [Python](https://github.com/TheAlgorithms/Python) : Python
   - All Algorithms implemented in Python
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) : JavaScript
-  - ✅ The Node.js best practices list (August 2020)
+- [learn-python3](https://github.com/jerry-git/learn-python3) : Python
+  - Jupyter notebooks for teaching/learning Python 3
+- [Learn-Vim](https://github.com/iggredible/Learn-Vim) : 
+  - A book for learning the Vim editor the smart way.
+- [WLED](https://github.com/Aircoookie/WLED) : C++
+  - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
+- [sushiswap](https://github.com/sushiswap/sushiswap) : Solidity
+  - 🍣 SushiSwap smart contracts
+- [OpenBot](https://github.com/intel-isl/OpenBot) : Java
+  - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones supports advanced robotics workloads such as person following and real-time autonomous navigation.
+- [learn-python](https://github.com/trekhleb/learn-python) : Python
+  - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
+- [takeout](https://github.com/tightenco/takeout) : PHP
+  - Docker-based development-only dependency manager; pairs with Valet.
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines) : JavaScript
   - A set of best practices for JavaScript projects
-- [open-source-cs-python](https://github.com/ForrestKnight/open-source-cs-python) : 
-  - Video discussing this curriculum:
-- [Cloudreve](https://github.com/cloudreve/Cloudreve) : Go
-  - 🌩支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)
+- [InfoSpider](https://github.com/kangvcar/InfoSpider) : Python
+  - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
+- [DearPyGui](https://github.com/hoffstadt/DearPyGui) : C++
+  - DearPyGui: A GPU Accelerated Python GUI Framework
+- [objax](https://github.com/google/objax) : Python
+- [project-based-learning](https://github.com/tuvtran/project-based-learning) : 
+  - Curated list of project-based tutorials
+- [MeiliSearch](https://github.com/meilisearch/MeiliSearch) : Rust
+  - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
+- [flutter-development-roadmap](https://github.com/Tarikul711/flutter-development-roadmap) : 
+  - Flutter App Developer Roadmap - A complete roadmap to learn Flutter App Development. I tried to learn flutter using this roadmap. If you want to add something please contribute to the project. Happy Learning
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
+  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [discord.js](https://github.com/discordjs/discord.js) : JavaScript
+  - A powerful JavaScript library for interacting with the Discord API
+- [Flutter-Course-Resources](https://github.com/londonappbrewery/Flutter-Course-Resources) : 
+  - Learn to Code While Building Apps - The Complete Flutter Development Bootcamp
+- [arwes](https://github.com/arwes/arwes) : JavaScript
+  - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps
+- [icons](https://github.com/twbs/icons) : JavaScript
+  - Official open source SVG icon library for Bootstrap.
+- [lede](https://github.com/coolsnowwolf/lede) : C
+  - Lean's OpenWrt source

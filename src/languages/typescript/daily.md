@@ -1,51 +1,51 @@
 # typescript
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
 - [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer)
   - An extension for VS Code that visualizes data during debugging.
-- [angular-cli](https://github.com/angular/angular-cli)
-  - CLI tool for Angular
-- [grafana](https://github.com/grafana/grafana)
-  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
-- [tinyhttp](https://github.com/talentlessguy/tinyhttp)
-  - ⚡ 0-legacy, tiny & fast web framework as a replacement of Express
-- [tailwindui-react](https://github.com/tailwindlabs/tailwindui-react)
-  - 
-- [backstage](https://github.com/spotify/backstage)
-  - Backstage is an open platform for building developer portals
-- [apollo-server](https://github.com/apollographql/apollo-server)
-  - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
-- [opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js)
-  - OpenTelemetry JavaScript API and SDK
-- [docusaurus](https://github.com/facebook/docusaurus)
-  - Easy to maintain open source documentation websites.
-- [G6](https://github.com/antvis/G6)
-  - ♾ A Graph Visualization Framework in JavaScript
-- [umi](https://github.com/umijs/umi)
-  - 🌋 Pluggable enterprise-level react application framework.
-- [n8n](https://github.com/n8n-io/n8n)
-  - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
-- [firebase-tools](https://github.com/firebase/firebase-tools)
-  - The Firebase Command Line Tools
-- [solid](https://github.com/ryansolid/solid)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [kibana](https://github.com/elastic/kibana)
-  - Your window into the Elastic Stack
-- [composition-api](https://github.com/vuejs/composition-api)
-  - Composition API plugin for Vue 2
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
-  - 📋 React Hooks for forms validation (Web + React Native)
-- [pixi.js](https://github.com/pixijs/pixi.js)
-  - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
-- [renovate](https://github.com/renovatebot/renovate)
-  - Universal dependency update tool that fits into your workflows.
+- [uniswap-v2-core](https://github.com/Uniswap/uniswap-v2-core)
+  - 🎛 Core smart contracts of Uniswap V2
+- [TypeScript](https://github.com/microsoft/TypeScript)
+  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+  - Headless Chrome Node.js API
+- [squoosh](https://github.com/GoogleChromeLabs/squoosh)
+  - Make images smaller using best-in-class codecs, right in the browser.
+- [code-server](https://github.com/cdr/code-server)
+  - VS Code in the browser
+- [deno](https://github.com/denoland/deno)
+  - A secure JavaScript and TypeScript runtime
+- [darkreader](https://github.com/darkreader/darkreader)
+  - Dark Reader Chrome and Firefox extension
+- [TimeCat](https://github.com/oct16/TimeCat)
+  - A Magical Web Recorder 🖥 (WIP)
 - [light-date](https://github.com/xxczaki/light-date)
   - ⏰ Blazing fast & lightweight (157 bytes) date formatting for Node.js and the browser.
-- [msw](https://github.com/mswjs/msw)
-  - Seamless REST/GraphQL API mocking library for browser and Node.
-- [highcharts](https://github.com/highcharts/highcharts)
-  - Highcharts JS, the JavaScript charting framework
-- [components](https://github.com/angular/components)
-  - Component infrastructure and Material Design components for Angular
+- [coc.nvim](https://github.com/neoclide/coc.nvim)
+  - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
+- [nest](https://github.com/nestjs/nest)
+  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [angular-ngrx-material-starter](https://github.com/tomastrajan/angular-ngrx-material-starter)
+  - Angular, NgRx, Angular CLI & Angular Material Starter Project
+- [kittenTricks](https://github.com/akveo/kittenTricks)
+  - React Native starter kit with over 40 screens and modern Light and Dark theme for creating stunning cross-platform mobile applications.
+- [nx](https://github.com/nrwl/nx)
+  - Extensible Dev Tools for Monorepos
+- [react-native-paper](https://github.com/callstack/react-native-paper)
+  - Material Design for React Native (Android & iOS)
+- [firebase-js-sdk](https://github.com/firebase/firebase-js-sdk)
+  - Firebase Javascript SDK
+- [tailwindui-react](https://github.com/tailwindlabs/tailwindui-react)
+  - 
+- [angular](https://github.com/angular/angular)
+  - One framework. Mobile & desktop.
+- [carbonium](https://github.com/edwinm/carbonium)
+  - Carbonium, for easy manipulation of the DOM
+- [vscode-drawio](https://github.com/hediet/vscode-drawio)
+  - This unofficial extension integrates Draw.io into VS Code.
+- [tsparticles](https://github.com/matteobruni/tsparticles)
+  - tsParticles - Particles.js on steroids
+- [ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste)
+  - Cut and paste your surroundings using AR
+- [token-lists](https://github.com/Uniswap/token-lists)
+  - 📚 The Token Lists specification
+- [TypeScript-Website](https://github.com/microsoft/TypeScript-Website)
+  - The Website and web infrastructure for learning TypeScript
