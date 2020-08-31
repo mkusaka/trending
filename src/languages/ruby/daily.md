@@ -1,51 +1,51 @@
 # ruby
-- [mastodon](https://github.com/tootsuite/mastodon)
-  - Your self-hosted, globally interconnected microblogging community
-- [forem](https://github.com/forem/forem)
-  - For empowering community 🌱
-- [rails](https://github.com/rails/rails)
-  - Ruby on Rails
+- [jekyll](https://github.com/jekyll/jekyll)
+  - 🌐 Jekyll is a blog-aware static site generator in Ruby
+- [discourse](https://github.com/discourse/discourse)
+  - A platform for community discussion. Free, open, simple.
 - [metasploit-framework](https://github.com/rapid7/metasploit-framework)
   - Metasploit Framework
-- [ruby](https://github.com/ruby/ruby)
-  - The Ruby Programming Language [mirror]
-- [linguist](https://github.com/github/linguist)
-  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-- [theodinproject](https://github.com/TheOdinProject/theodinproject)
-  - Main Website for The Odin Project
-- [evil-winrm](https://github.com/Hackplayers/evil-winrm)
-  - The ultimate WinRM shell for hacking/pentesting
-- [wpscan](https://github.com/wpscanteam/wpscan)
-  - WPScan is a free, for non-commercial use, black box WordPress security scanner written for security professionals and blog maintainers to test the security of their WordPress websites.
+- [faker](https://github.com/faker-ruby/faker)
+  - A library for generating fake data such as names, addresses, and phone numbers.
+- [chatwoot](https://github.com/chatwoot/chatwoot)
+  - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬
+- [fusuma](https://github.com/iberianpig/fusuma)
+  - Multitouch gestures with libinput driver on Linux
 - [webpacker](https://github.com/rails/webpacker)
   - Use Webpack to manage app-like JavaScript modules in Rails
-- [homebrew-emacs-plus](https://github.com/d12frosted/homebrew-emacs-plus)
-  - Emacs Plus formulae for the Homebrew package manager
-- [dependabot-core](https://github.com/dependabot/dependabot-core)
-  - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot
-- [semian](https://github.com/Shopify/semian)
-  - 🐒 Resiliency toolkit for Ruby for failing fast
-- [Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)
-  - Web CTF CheatSheet 🐈
-- [racecar](https://github.com/zendesk/racecar)
-  - Racecar: a simple framework for Kafka consumers in Ruby
-- [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews)
-  - Data science interview questions and answers
-- [huginn](https://github.com/huginn/huginn)
-  - Create agents that monitor and act on your behalf. Your agents are standing by!
-- [kaminari](https://github.com/kaminari/kaminari)
-  - ⚡ A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps
-- [plots2](https://github.com/publiclab/plots2)
-  - a collaborative knowledge-exchange platform in Rails; we welcome first-time contributors! 🎈
-- [carrierwave](https://github.com/carrierwaveuploader/carrierwave)
-  - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
-- [devise](https://github.com/heartcombo/devise)
-  - Flexible authentication solution for Rails with Warden.
+- [mastodon](https://github.com/tootsuite/mastodon)
+  - Your self-hosted, globally interconnected microblogging community
+- [sorbet](https://github.com/sorbet/sorbet)
+  - A fast, powerful type checker designed for Ruby
+- [forem](https://github.com/forem/forem)
+  - For empowering community 🌱
+- [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening)
+  - This Ansible role provides numerous security-related configurations, providing all-round base protection.
+- [rails](https://github.com/rails/rails)
+  - Ruby on Rails
+- [explore](https://github.com/github/explore)
+  - Community-curated topic and collection pages on GitHub
 - [ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db)
   - A database of vulnerable Ruby Gems
-- [lazy_migrate](https://github.com/jesseduffield/lazy_migrate)
-  - A little terminal UI for managing schema migrations in rails
 - [classes-and-instances-lab-ruby-onl01-seng-pt-081720](https://github.com/learn-co-students/classes-and-instances-lab-ruby-onl01-seng-pt-081720)
   - 
-- [awesome_print](https://github.com/awesome-print/awesome_print)
-  - Pretty print your Ruby objects with style -- in full color and with proper indentation
+- [ruby-oo-advanced-class-methods-lab](https://github.com/learn-co-curriculum/ruby-oo-advanced-class-methods-lab)
+  - 
+- [instance-methods-lab-ruby-onl01-seng-pt-081720](https://github.com/learn-co-students/instance-methods-lab-ruby-onl01-seng-pt-081720)
+  - 
+- [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch)
+  - Ansible playbook for Elasticsearch
+- [ruby-oo-object-relationships-belongs-to-lab](https://github.com/learn-co-curriculum/ruby-oo-object-relationships-belongs-to-lab)
+  - 
+- [ruby-oo-practice-relationships-domains-nyc01-seng-ft-082420](https://github.com/learn-co-students/ruby-oo-practice-relationships-domains-nyc01-seng-ft-082420)
+  - 
+- [Rails-RubberDucking-nyc01-seng-ft-080320](https://github.com/learn-co-students/Rails-RubberDucking-nyc01-seng-ft-080320)
+  - 
+- [rails-challenge-practice-nyc01-seng-ft-080320](https://github.com/learn-co-students/rails-challenge-practice-nyc01-seng-ft-080320)
+  - 
+- [ruby-oo-class-variables-class-constants](https://github.com/learn-co-curriculum/ruby-oo-class-variables-class-constants)
+  - 
+- [sql-library-lab-onl01-seng-pt-061520](https://github.com/learn-co-students/sql-library-lab-onl01-seng-pt-061520)
+  - 
+- [ttt-8-turn-bootcamp-prep-000](https://github.com/learn-co-students/ttt-8-turn-bootcamp-prep-000)
+  - 
