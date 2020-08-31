@@ -1,47 +1,50 @@
 # general
+- [compose-samples](https://github.com/android/compose-samples) : Kotlin
 - [fastbook](https://github.com/fastai/fastbook) : Jupyter Notebook
   - Draft of the fastai book
-- [computervision-recipes](https://github.com/microsoft/computervision-recipes) : Jupyter Notebook
-  - Best Practices, code samples, and documentation for Computer Vision.
 - [mall-swarm](https://github.com/macrozheng/mall-swarm) : Java
   - mall-swarm是一套微服务商城系统，采用了 Spring Cloud Hoxton & Alibaba、Spring Boot 2.3、Oauth2、MyBatis、Docker、Elasticsearch等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。
-- [googletest](https://github.com/google/googletest) : C++
-  - Googletest - Google Testing and Mocking Framework
-- [annie](https://github.com/iawia002/annie) : Go
-  - 👾 Fast, simple and clean video downloader
-- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) : Go
-  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
-- [desafio-2-2020](https://github.com/maratonadev-br/desafio-2-2020) : Jupyter Notebook
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
-  - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
-- [hello-algorithm](https://github.com/geekxh/hello-algorithm) : Java
-  - 🌍 🌎 东半球最酷的学习项目 | 包括：1、我写的三十万字图解算法题典 2、100 张各语言思维导图 和 1000 本编程电子📚 3、100 篇大厂面经下载 | English version supported !!! 国人项目上榜不易，右上角助力一波 🚀🚀！干就对了，奥利给 ！💪💪💪
-- [RSSHub](https://github.com/DIYgod/RSSHub) : JavaScript
-  - 🍰 Everything is RSSible
-- [Pokedex](https://github.com/skydoves/Pokedex) : Kotlin
-  - 🗡️ Android Pokedex using Dagger Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
-- [E-commerce-Complete-Flutter-UI](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI) : Dart
-- [desafio-1-2020](https://github.com/maratonadev-la/desafio-1-2020) : JavaScript
 - [fastai](https://github.com/fastai/fastai) : Jupyter Notebook
   - The fastai deep learning library, plus lessons and tutorials
-- [sherlock](https://github.com/sherlock-project/sherlock) : Python
-  - 🔎 Hunt down social media accounts by username across social networks
-- [aws-machine-learning-university-accelerated-nlp](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp) : Jupyter Notebook
-  - Machine Learning University: Accelerated Natural Language Processing Class
+- [spring-authorization-server](https://github.com/spring-projects-experimental/spring-authorization-server) : Java
+  - A community-driven project led by the Spring Security team and is focused on delivering Authorization Server support to the Spring community
+- [element3](https://github.com/kkbjs/element3) : Vue
+  - (WIP)fork from ElemeFE/element ,A Vue.js 3.0 UI Toolkit for Web
+- [go-zero](https://github.com/tal-tech/go-zero) : Go
+  - go-zero是一个集成了各种工程实践的web和rpc框架。通过弹性设计保障了大并发服务端的稳定性，经受了充分的实战检验。包含极简的API定义和生成工具，可以一键生成Go, iOS, Android, Dart, TypeScript, JavaScript代码，并可直接运行。
+- [ent](https://github.com/facebook/ent) : Go
+  - An entity framework for Go
+- [aws-controllers-k8s](https://github.com/aws/aws-controllers-k8s) : Go
+  - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
+- [MeiliSearch](https://github.com/meilisearch/MeiliSearch) : Rust
+  - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) : JavaScript
+  - The ultimate Free Open Source Solution for team communications.
+- [InfoSpider](https://github.com/kangvcar/InfoSpider) : Python
+  - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
+- [computervision-recipes](https://github.com/microsoft/computervision-recipes) : Jupyter Notebook
+  - Best Practices, code samples, and documentation for Computer Vision.
+- [ts-migrate](https://github.com/airbnb/ts-migrate) : TypeScript
+  - A tool to help migrate JavaScript code quickly and conveniently to TypeScript
+- [Cloudreve](https://github.com/cloudreve/Cloudreve) : Go
+  - 🌩支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)
+- [element-plus](https://github.com/element-plus/element-plus) : Vue
+  - 🌈 A Vue.js 3.0 UI Library
+- [cpp-httplib](https://github.com/yhirose/cpp-httplib) : C++
+  - A C++ header-only HTTP/HTTPS server and client library
+- [packer](https://github.com/hashicorp/packer) : Go
+  - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [bevy](https://github.com/bevyengine/bevy) : Rust
   - A refreshingly simple data-driven game engine built in Rust
-- [imgui](https://github.com/ocornut/imgui) : C++
-  - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-- [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) : Java
-  - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
-- [LeetCode](https://github.com/yuanguangxin/LeetCode) : Java
-  - LeetCode刷题记录
-- [workshop](https://github.com/data-science-on-aws/workshop) : Jupyter Notebook
-  - AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker
-- [fullcalendar](https://github.com/fullcalendar/fullcalendar) : TypeScript
-  - Full-sized drag & drop event calendar
-- [desafio-1-2020](https://github.com/maratonadev-br/desafio-1-2020) : JavaScript
-- [talent-plan](https://github.com/pingcap/talent-plan) : Rust
-  - open source training courses about distributed database and distributed systemes
-- [zig](https://github.com/ziglang/zig) : Zig
-  - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+- [everyones-guide-for-starting-up-on-wechat-network](https://github.com/xiaolai/everyones-guide-for-starting-up-on-wechat-network) : 
+  - 微信互联网平民创业
+- [WLED](https://github.com/Aircoookie/WLED) : C++
+  - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
+- [discord.js](https://github.com/discordjs/discord.js) : JavaScript
+  - A powerful JavaScript library for interacting with the Discord API
+- [fastjson](https://github.com/alibaba/fastjson) : Java
+  - A fast JSON parser/generator for Java.
+- [shapez.io](https://github.com/tobspr/shapez.io) : JavaScript
+  - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
+- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
+  - Course Files for Complete Python 3 Bootcamp Course on Udemy

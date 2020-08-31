@@ -1,51 +1,51 @@
 # rust
-- [bevy](https://github.com/bevyengine/bevy)
-  - A refreshingly simple data-driven game engine built in Rust
-- [talent-plan](https://github.com/pingcap/talent-plan)
-  - open source training courses about distributed database and distributed systemes
-- [kosmonaut](https://github.com/twilco/kosmonaut)
-  - A web browser engine for the space age 🚀
-- [solana](https://github.com/solana-labs/solana)
-  - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [iced](https://github.com/hecrj/iced)
-  - A cross-platform GUI library for Rust, inspired by Elm
-- [amethyst](https://github.com/amethyst/amethyst)
-  - Data-oriented and data-driven game engine written in Rust
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
-- [wasmer](https://github.com/wasmerio/wasmer)
-  - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
-- [static-analysis](https://github.com/analysis-tools-dev/static-analysis)
-  - Static analysis tools for all programming languages, build tools, config files and more.
-- [wasmtime](https://github.com/bytecodealliance/wasmtime)
-  - Standalone JIT-style runtime for WebAssembly, using Cranelift
-- [rustc_codegen_cranelift](https://github.com/bjorn3/rustc_codegen_cranelift)
-  - Cranelift based backend for rustc
-- [WASI](https://github.com/WebAssembly/WASI)
-  - WebAssembly System Interface
-- [zola](https://github.com/getzola/zola)
-  - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
-- [quiche](https://github.com/cloudflare/quiche)
-  - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
-- [crossbeam](https://github.com/crossbeam-rs/crossbeam)
-  - Tools for concurrent programming in Rust
-- [druid](https://github.com/linebender/druid)
-  - A data-first Rust-native UI design toolkit.
 - [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
   - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
-- [dust](https://github.com/bootandy/dust)
-  - A more intuitive version of du in rust
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-  - A curated list of Rust code and resources.
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
-- [cargo](https://github.com/rust-lang/cargo)
-  - The Rust package manager
+- [bevy](https://github.com/bevyengine/bevy)
+  - A refreshingly simple data-driven game engine built in Rust
+- [nushell](https://github.com/nushell/nushell)
+  - A new type of shell
+- [talent-plan](https://github.com/pingcap/talent-plan)
+  - open source training courses about distributed database and distributed systemes
+- [orogene](https://github.com/orogene/orogene)
+  - A next-generation platform and package manager for Node.js-compatible and frontend JavaScript projects!
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [cxx](https://github.com/dtolnay/cxx)
+  - Safe interop between Rust and C++
+- [wasmtime](https://github.com/bytecodealliance/wasmtime)
+  - Standalone JIT-style runtime for WebAssembly, using Cranelift
 - [polkadot](https://github.com/paritytech/polkadot)
   - Polkadot Node Implementation
-- [serenity](https://github.com/serenity-rs/serenity)
-  - A Rust library for the Discord API.
+- [druid](https://github.com/linebender/druid)
+  - A data-first Rust-native UI design toolkit.
+- [exa](https://github.com/ogham/exa)
+  - A modern version of ‘ls’.
+- [spotify-tui](https://github.com/Rigellute/spotify-tui)
+  - Spotify for the terminal written in Rust 🚀
+- [alacritty](https://github.com/alacritty/alacritty)
+  - A cross-platform, GPU-accelerated terminal emulator
+- [tunshell](https://github.com/TimeToogo/tunshell)
+  - Remote shell into ephemeral environments 🐚 🦀
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
+- [wasmer](https://github.com/wasmerio/wasmer)
+  - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+- [diesel](https://github.com/diesel-rs/diesel)
+  - A safe, extensible ORM and Query Builder for Rust
+- [seed](https://github.com/seed-rs/seed)
+  - A Rust framework for creating web apps
+- [starship](https://github.com/starship/starship)
+  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [Rocket](https://github.com/SergioBenitez/Rocket)
+  - A web framework for Rust.
+- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
+  - Rust bindings to wgpu native library
+- [gitui](https://github.com/extrawurst/gitui)
+  - Blazing 💥 fast terminal-ui for git written in rust 🦀
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
+- [amethyst](https://github.com/amethyst/amethyst)
+  - Data-oriented and data-driven game engine written in Rust

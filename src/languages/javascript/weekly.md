@@ -1,51 +1,51 @@
 # javascript
-- [RSSHub](https://github.com/DIYgod/RSSHub)
-  - 🍰 Everything is RSSible
-- [desafio-1-2020](https://github.com/maratonadev-la/desafio-1-2020)
-  - 
-- [desafio-1-2020](https://github.com/maratonadev-br/desafio-1-2020)
-  - 
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
-  - ✅ The Node.js best practices list (August 2020)
-- [nsfw-filter](https://github.com/nsfw-filter/nsfw-filter)
-  - A Google Chrome / Firefox extension that blocks NSFW images from the web pages that you load using TensorFlow JS.
-- [mogollar](https://github.com/dashersw/mogollar)
-  - A MongoDB UI built with Electron
-- [shapez.io](https://github.com/tobspr/shapez.io)
-  - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
-- [react](https://github.com/typescript-cheatsheets/react)
-  - Cheatsheets for experienced React developers getting started with TypeScript
-- [spug](https://github.com/openspug/spug)
-  - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
-- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
-  - 🚀🚀🚀A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.
-- [FE-Interview](https://github.com/lgwebdream/FE-Interview)
-  - 前端面试必备题库，1000+面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器
-- [responsively-app](https://github.com/responsively-org/responsively-app)
-  - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
-- [danfojs](https://github.com/opensource9ja/danfojs)
-  - danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
-- [faker.js](https://github.com/Marak/faker.js)
-  - generate massive amounts of realistic fake data in Node.js and the browser
-- [axios](https://github.com/axios/axios)
-  - Promise based HTTP client for the browser and node.js
-- [aos](https://github.com/michalsnik/aos)
-  - Animate on scroll library
-- [next.js](https://github.com/vercel/next.js)
-  - The React Framework
-- [exceljs](https://github.com/exceljs/exceljs)
-  - Excel Workbook Manager
-- [chatify](https://github.com/munafio/chatify)
-  - A package for Laravel PHP Framework to add a complete real-time chat system to your app by only a few steps.
-- [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
-  - OpenZeppelin Contracts is a library for secure smart contract development.
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
   - The ultimate Free Open Source Solution for team communications.
-- [metamask-extension](https://github.com/MetaMask/metamask-extension)
-  - 🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [single-spa](https://github.com/single-spa/single-spa)
-  - The router for easy microfrontends
-- [quill](https://github.com/quilljs/quill)
-  - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
+- [discord.js](https://github.com/discordjs/discord.js)
+  - A powerful JavaScript library for interacting with the Discord API
+- [shapez.io](https://github.com/tobspr/shapez.io)
+  - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
+- [project-guidelines](https://github.com/elsewhencode/project-guidelines)
+  - A set of best practices for JavaScript projects
+- [mern-course-bootcamp](https://github.com/jeanrauwers/mern-course-bootcamp)
+  - Complete Free Coding Bootcamp 2020 MERN Stack
+- [d3](https://github.com/d3/d3)
+  - Bring data to life with SVG, Canvas and HTML. 📊📈🎉
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+  - ✅ The Node.js best practices list (August 2020)
+- [hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
+  - Based on a true story
+- [danfojs](https://github.com/opensource9ja/danfojs)
+  - danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
+- [next.js](https://github.com/vercel/next.js)
+  - The React Framework
+- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
+  - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2020)
+- [wtfjs](https://github.com/denysdovhan/wtfjs)
+  - 🤪 A list of funny and tricky JavaScript examples
+- [markdown-here](https://github.com/adam-p/markdown-here)
+  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+- [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
+  - A WhatsApp client library for javascript that connects through the WhatsApp Web browser app
+- [three.js](https://github.com/mrdoob/three.js)
+  - JavaScript 3D library.
+- [odoo](https://github.com/odoo/odoo)
+  - Odoo. Open Source Apps To Grow Your Business.
+- [summernote](https://github.com/summernote/summernote)
+  - Super simple WYSIWYG editor
+- [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+  - 🚀 Generate github profile README easily with latest add-ons like visitors count, github stats, etc using minimal UI.
+- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+- [iptv](https://github.com/iptv-org/iptv)
+  - Collection of 8000+ publicly available IPTV channels from all over the world
+- [cypress](https://github.com/cypress-io/cypress)
+  - Fast, easy and reliable testing for anything that runs in a browser.
+- [fall-2020](https://github.com/OU-PhD-Econometrics/fall-2020)
+  - 
+- [Recoil](https://github.com/facebookexperimental/Recoil)
+  - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [scripts](https://github.com/lxk0301/scripts)
+  - 京东薅羊毛工具（活动入口：京东app->我的->游戏与互动->查看更多）
