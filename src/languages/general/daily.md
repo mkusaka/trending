@@ -1,49 +1,48 @@
 # general
-- [present](https://github.com/vinayak-mehta/present) : Python
-  - A terminal-based presentation tool with colors and effects.
-- [DearPyGui](https://github.com/hoffstadt/DearPyGui) : C++
-  - DearPyGui: A GPU Accelerated Python GUI Framework
-- [matplotplusplus](https://github.com/alandefreitas/matplotplusplus) : C++
-  - Matplot++: A C++ Graphics Library for Data Visualization 📊🗾
-- [Python](https://github.com/TheAlgorithms/Python) : Python
-  - All Algorithms implemented in Python
 - [webrtc-for-the-curious](https://github.com/webrtc-for-the-curious/webrtc-for-the-curious) : 
   - WebRTC for the Curious: Go beyond the APIs
-- [learn-python](https://github.com/trekhleb/learn-python) : Python
-  - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
-  - Roadmap to becoming a web developer in 2020
-- [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) : TypeScript
-  - An extension for VS Code that visualizes data during debugging.
-- [icons](https://github.com/twbs/icons) : JavaScript
-  - Official open source SVG icon library for Bootstrap.
-- [Showkase](https://github.com/airbnb/Showkase) : Kotlin
-  - 🔦 Showkase is an annotation-processor based Android library that helps you organize, discover, search and visualize Jetpack Compose UI elements
-- [Javascript-Essentials](https://github.com/LetsUpgrade/Javascript-Essentials) : JavaScript
-- [project-guidelines](https://github.com/elsewhencode/project-guidelines) : JavaScript
-  - A set of best practices for JavaScript projects
-- [sushiswap](https://github.com/sushiswap/sushiswap) : Solidity
-  - 🍣 SushiSwap smart contracts
-- [handcalcs](https://github.com/connorferster/handcalcs) : Python
-  - Python library for converting Python calculations into rendered latex.
-- [easy_rust](https://github.com/Dhghomon/easy_rust) : Shell
-  - Rust explained using easy English
-- [KingOfBugBountyTips](https://github.com/OfJAAH/KingOfBugBountyTips) : 
-- [Hack-Tools](https://github.com/LasCC/Hack-Tools) : JavaScript
-  - The all-in-one Red Team extension for Web Pentester 🛠
-- [HowToHunt](https://github.com/KathanP19/HowToHunt) : 
-  - Some Tutorials and Things to Do while Hunting That Vulnerability.
+- [present](https://github.com/vinayak-mehta/present) : Python
+  - A terminal-based presentation tool with colors and effects.
+- [Python](https://github.com/TheAlgorithms/Python) : Python
+  - All Algorithms implemented in Python
 - [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) : Go
   - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
-- [learn-python3](https://github.com/jerry-git/learn-python3) : Python
-  - Jupyter notebooks for teaching/learning Python 3
-- [iptv](https://github.com/iptv-org/iptv) : JavaScript
-  - Collection of 8000+ publicly available IPTV channels from all over the world
-- [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) : PowerShell
-  - Script to remove Windows 10 bloatware.
-- [project-based-learning](https://github.com/tuvtran/project-based-learning) : 
-  - Curated list of project-based tutorials
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
+  - 📚 Freely available programming books
+- [DearPyGui](https://github.com/hoffstadt/DearPyGui) : C++
+  - DearPyGui: A GPU Accelerated Python GUI Framework
+- [easy_rust](https://github.com/Dhghomon/easy_rust) : Shell
+  - Rust explained using easy English
+- [vimac](https://github.com/dexterleng/vimac) : Swift
+  - Vimium for macOS.
+- [Java-Tutorial](https://github.com/h2pl/Java-Tutorial) : Java
+  - 【Java工程师面试复习指南】本仓库涵盖大部分Java程序员所需要掌握的核心知识，整合了互联网上的很多优质Java技术文章，力求打造为最完整最实用的Java开发者学习指南，如果对你有帮助，给个star告诉我吧，谢谢！
+- [project-guidelines](https://github.com/elsewhencode/project-guidelines) : JavaScript
+  - A set of best practices for JavaScript projects
 - [Flutter-Course-Resources](https://github.com/londonappbrewery/Flutter-Course-Resources) : 
   - Learn to Code While Building Apps - The Complete Flutter Development Bootcamp
+- [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) : PowerShell
+  - Script to remove Windows 10 bloatware.
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
+  - Roadmap to becoming a web developer in 2020
+- [koronavilkku-android](https://github.com/THLfi/koronavilkku-android) : Kotlin
+- [CompEcon2020](https://github.com/KennethJudd/CompEcon2020) : Mathematica
+  - Computational Economics Course 2020 by Kenneth Judd
+- [sushiswap](https://github.com/sushiswap/sushiswap) : Solidity
+  - 🍣 SushiSwap smart contracts
+- [SuperPower](https://github.com/SensorsIot/SuperPower) : 
+  - Here you should find the best power supplies for your low-power projects
+- [project-based-learning](https://github.com/tuvtran/project-based-learning) : 
+  - Curated list of project-based tutorials
+- [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) : Go
+  - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
+- [KingOfBugBountyTips](https://github.com/OfJAAH/KingOfBugBountyTips) : 
+- [Javascript-Essentials](https://github.com/LetsUpgrade/Javascript-Essentials) : JavaScript
+- [flutter](https://github.com/flutter/flutter) : Dart
+  - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+- [NeMo](https://github.com/NVIDIA/NeMo) : Python
+  - NeMo: a toolkit for conversational AI
+- [gorm](https://github.com/go-gorm/gorm) : Go
+  - The fantastic ORM library for Golang, aims to be developer friendly
+- [portainer](https://github.com/portainer/portainer) : JavaScript
+  - Making Docker management easy.
