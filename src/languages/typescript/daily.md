@@ -1,51 +1,51 @@
 # typescript
-- [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer)
-  - An extension for VS Code that visualizes data during debugging.
 - [TimeCat](https://github.com/oct16/TimeCat)
   - A Magical Web Recorder 🖥 (WIP)
-- [egghead-next](https://github.com/eggheadio/egghead-next)
-  - This is a "proof of concept" for using Next.js as the next iteration of the frontend for egghead.io.
-- [ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste)
-  - Cut and paste your surroundings using AR
-- [uniswap-interface](https://github.com/Uniswap/uniswap-interface)
-  - 🦄 An open source interface for the Uniswap protocol
-- [shoelace](https://github.com/shoelace-style/shoelace)
-  - A collection of professionally designed, every day UI components built on a framework-agnostic technology. 🥾
-- [nx](https://github.com/nrwl/nx)
-  - Extensible Dev Tools for Monorepos
-- [msw](https://github.com/mswjs/msw)
-  - Seamless REST/GraphQL API mocking library for browser and Node.
-- [vscode-drawio](https://github.com/hediet/vscode-drawio)
-  - This unofficial extension integrates Draw.io into VS Code.
-- [tfjs-models](https://github.com/tensorflow/tfjs-models)
-  - Pretrained models for TensorFlow.js
+- [blitz](https://github.com/blitz-js/blitz)
+  - ⚡️The Fullstack React Framework — built on Next.js
+- [uniswap-v2-core](https://github.com/Uniswap/uniswap-v2-core)
+  - 🎛 Core smart contracts of Uniswap V2
+- [platform](https://github.com/ngrx/platform)
+  - Reactive libraries for Angular
+- [code-server](https://github.com/cdr/code-server)
+  - VS Code in the browser
 - [angular](https://github.com/angular/angular)
   - One framework. Mobile & desktop.
-- [18comic](https://github.com/waifu-project/18comic)
-  - 一个看本子的App(禁漫天堂)
-- [tensorboard](https://github.com/tensorflow/tensorboard)
-  - TensorFlow's Visualization Toolkit
-- [frontend](https://github.com/home-assistant/frontend)
-  - 🍭 Frontend for Home Assistant
-- [theia](https://github.com/eclipse-theia/theia)
-  - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [ngx-admin](https://github.com/akveo/ngx-admin)
-  - Customizable admin dashboard template based on Angular 10+
-- [tsparticles](https://github.com/matteobruni/tsparticles)
-  - tsParticles - Particles.js on steroids
-- [starter-workflows](https://github.com/actions/starter-workflows)
-  - Accelerating new GitHub Actions workflows
-- [nativefier](https://github.com/jiahaog/nativefier)
-  - Make any web page a desktop application
-- [carbonium](https://github.com/edwinm/carbonium)
-  - Carbonium, for easy manipulation of the DOM
-- [jsx-next](https://github.com/vuejs/jsx-next)
-  - JSX for Vue 3, try it https://vue-next-jsx-explorer.netlify.app/
+- [vuetify](https://github.com/vuetifyjs/vuetify)
+  - 🐉 Material Component Framework for Vue
+- [grafana](https://github.com/grafana/grafana)
+  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [react-native-paper](https://github.com/callstack/react-native-paper)
+  - Material Design for React Native (Android & iOS)
+- [react-use](https://github.com/streamich/react-use)
+  - React Hooks — 👍
 - [bulletproof-nodejs](https://github.com/santiq/bulletproof-nodejs)
   - Implementation of a bulletproof node.js API 🛡️
-- [foam](https://github.com/foambubble/foam)
-  - A personal knowledge management and sharing system for VSCode
-- [streamlabs-obs](https://github.com/stream-labs/streamlabs-obs)
-  - Free and open source streaming software built on OBS and Electron.
-- [coc.nvim](https://github.com/neoclide/coc.nvim)
-  - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
+- [nebular](https://github.com/akveo/nebular)
+  - 💥 Customizable Angular UI Library based on Eva Design System 🌚✨Dark Mode
+- [kibana](https://github.com/elastic/kibana)
+  - Your window into the Elastic Stack
+- [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)
+  - UI components lib based on Ant Design for Angular
+- [redoc](https://github.com/Redocly/redoc)
+  - 📘 OpenAPI/Swagger-generated API Reference Documentation
+- [fluentui](https://github.com/microsoft/fluentui)
+  - We've moved! UI Fabric is now Fluent UI - A set of React components for building Microsoft web experiences.
+- [apollo-server](https://github.com/apollographql/apollo-server)
+  - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
+- [carbonium](https://github.com/edwinm/carbonium)
+  - Carbonium, for easy manipulation of the DOM
+- [storybook](https://github.com/storybookjs/storybook)
+  - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
+- [assets](https://github.com/trustwallet/assets)
+  - 
+- [angular-cli](https://github.com/angular/angular-cli)
+  - CLI tool for Angular
+- [jest](https://github.com/facebook/jest)
+  - Delightful JavaScript Testing.
+- [formik](https://github.com/formium/formik)
+  - Build forms in React, without the tears 😭
+- [got](https://github.com/sindresorhus/got)
+  - 🌐 Human-friendly and powerful HTTP request library for Node.js
+- [jsQR](https://github.com/cozmo/jsQR)
+  - A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.
