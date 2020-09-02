@@ -1,48 +1,48 @@
 # general
-- [webrtc-for-the-curious](https://github.com/webrtc-for-the-curious/webrtc-for-the-curious) : 
-  - WebRTC for the Curious: Go beyond the APIs
-- [present](https://github.com/vinayak-mehta/present) : Python
-  - A terminal-based presentation tool with colors and effects.
-- [Python](https://github.com/TheAlgorithms/Python) : Python
-  - All Algorithms implemented in Python
-- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) : Go
-  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [DearPyGui](https://github.com/hoffstadt/DearPyGui) : C++
-  - DearPyGui: A GPU Accelerated Python GUI Framework
-- [easy_rust](https://github.com/Dhghomon/easy_rust) : Shell
-  - Rust explained using easy English
-- [vimac](https://github.com/dexterleng/vimac) : Swift
-  - Vimium for macOS.
-- [Java-Tutorial](https://github.com/h2pl/Java-Tutorial) : Java
-  - 【Java工程师面试复习指南】本仓库涵盖大部分Java程序员所需要掌握的核心知识，整合了互联网上的很多优质Java技术文章，力求打造为最完整最实用的Java开发者学习指南，如果对你有帮助，给个star告诉我吧，谢谢！
-- [project-guidelines](https://github.com/elsewhencode/project-guidelines) : JavaScript
-  - A set of best practices for JavaScript projects
-- [Flutter-Course-Resources](https://github.com/londonappbrewery/Flutter-Course-Resources) : 
-  - Learn to Code While Building Apps - The Complete Flutter Development Bootcamp
-- [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) : PowerShell
-  - Script to remove Windows 10 bloatware.
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
-  - Roadmap to becoming a web developer in 2020
-- [koronavilkku-android](https://github.com/THLfi/koronavilkku-android) : Kotlin
-- [CompEcon2020](https://github.com/KennethJudd/CompEcon2020) : Mathematica
-  - Computational Economics Course 2020 by Kenneth Judd
+- [htop](https://github.com/htop-dev/htop) : C
+  - htop - an interactive process viewer
 - [sushiswap](https://github.com/sushiswap/sushiswap) : Solidity
   - 🍣 SushiSwap smart contracts
-- [SuperPower](https://github.com/SensorsIot/SuperPower) : 
-  - Here you should find the best power supplies for your low-power projects
-- [project-based-learning](https://github.com/tuvtran/project-based-learning) : 
-  - Curated list of project-based tutorials
-- [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) : Go
-  - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
-- [KingOfBugBountyTips](https://github.com/OfJAAH/KingOfBugBountyTips) : 
-- [Javascript-Essentials](https://github.com/LetsUpgrade/Javascript-Essentials) : JavaScript
-- [flutter](https://github.com/flutter/flutter) : Dart
-  - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
-- [NeMo](https://github.com/NVIDIA/NeMo) : Python
-  - NeMo: a toolkit for conversational AI
+- [bottlerocket](https://github.com/bottlerocket-os/bottlerocket) : Rust
+  - An operating system designed for hosting containers
 - [gorm](https://github.com/go-gorm/gorm) : Go
   - The fantastic ORM library for Golang, aims to be developer friendly
+- [Python](https://github.com/TheAlgorithms/Python) : Python
+  - All Algorithms implemented in Python
+- [setuptools](https://github.com/pypa/setuptools) : Python
+  - Official project repository for the Setuptools build system
+- [bicep](https://github.com/Azure/bicep) : C#
+- [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) : 
+  - The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
+- [3DDFA_V2](https://github.com/cleardusk/3DDFA_V2) : Python
+  - The official PyTorch implementation of Towards Fast, Accurate and Stable 3D Dense Face Alignment, ECCV, 2020
+- [howtheytest](https://github.com/abhivaikar/howtheytest) : HTML
+  - A collection of public resources about how software companies test their software
+- [companies-sponsoring-visas](https://github.com/shubheksha/companies-sponsoring-visas) : 
+  - A list of companies that sponsor employees from other countries.
+- [Java-Tutorial](https://github.com/h2pl/Java-Tutorial) : Java
+  - 【Java工程师面试复习指南】本仓库涵盖大部分Java程序员所需要掌握的核心知识，整合了互联网上的很多优质Java技术文章，力求打造为最完整最实用的Java开发者学习指南，如果对你有帮助，给个star告诉我吧，谢谢！
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
+  - Roadmap to becoming a web developer in 2020
 - [portainer](https://github.com/portainer/portainer) : JavaScript
   - Making Docker management easy.
+- [koronavilkku-android](https://github.com/THLfi/koronavilkku-android) : Kotlin
+- [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) : Java
+  - To Be Top Javaer - Java工程师成神之路
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
+  - 🤓 Build your own (insert technology here)
+- [gdal](https://github.com/OSGeo/gdal) : C++
+  - GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats.
+- [ruby](https://github.com/ruby/ruby) : Ruby
+  - The Ruby Programming Language [mirror]
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) : JavaScript
+  - Short JavaScript code snippets for all your development needs
+- [azure-docs](https://github.com/MicrosoftDocs/azure-docs) : PowerShell
+  - Open source documentation of Microsoft Azure
+- [desafio-6-2020](https://github.com/maratonadev-br/desafio-6-2020) : Jupyter Notebook
+- [12306](https://github.com/testerSunshine/12306) : Python
+  - 12306智能刷票，订票
+- [awesome](https://github.com/sindresorhus/awesome) : 
+  - 😎 Awesome lists about all kinds of interesting topics
+- [scikit-learn-tips](https://github.com/justmarkham/scikit-learn-tips) : Jupyter Notebook
+  - 🤖⚡ Daily scikit-learn tips

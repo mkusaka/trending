@@ -1,51 +1,51 @@
 # javascript
-- [project-guidelines](https://github.com/elsewhencode/project-guidelines)
-  - A set of best practices for JavaScript projects
-- [Javascript-Essentials](https://github.com/LetsUpgrade/Javascript-Essentials)
-  - 
 - [portainer](https://github.com/portainer/portainer)
   - Making Docker management easy.
-- [Hack-Tools](https://github.com/LasCC/Hack-Tools)
-  - The all-in-one Red Team extension for Web Pentester 🛠
-- [svelte](https://github.com/sveltejs/svelte)
-  - Cybernetically enhanced web apps
-- [react-pdf](https://github.com/wojtekmaj/react-pdf)
-  - Display PDFs in your React app as easily as if they were images.
-- [iptv](https://github.com/iptv-org/iptv)
-  - Collection of 8000+ publicly available IPTV channels from all over the world
-- [icons](https://github.com/twbs/icons)
-  - Official open source SVG icon library for Bootstrap.
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [core-js](https://github.com/zloirock/core-js)
-  - Standard Library
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
-- [cnvalues.github.io](https://github.com/CNValues/cnvalues.github.io)
-  - 
-- [pipedream](https://github.com/PipedreamHQ/pipedream)
-  - Serverless integration and compute platform. Free for developers.
-- [csgo_bugs](https://github.com/kkthxbye-code/csgo_bugs)
-  - Random CSGO stuff
-- [strapi](https://github.com/strapi/strapi)
-  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
+  - Short JavaScript code snippets for all your development needs
+- [pdf.js](https://github.com/mozilla/pdf.js)
+  - PDF Reader in JavaScript
 - [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
   - OpenZeppelin Contracts is a library for secure smart contract development.
-- [style2paints](https://github.com/lllyasviel/style2paints)
-  - sketch + style = paints 🎨 (TOG2018/SIGGRAPH2018ASIA)
-- [Detox](https://github.com/wix/Detox)
-  - Gray box end-to-end testing and automation framework for mobile apps
-- [stayaway-app](https://github.com/stayawayinesctec/stayaway-app)
-  - Official repository for the STAYAWAY COVID mobile application
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [project-guidelines](https://github.com/elsewhencode/project-guidelines)
+  - A set of best practices for JavaScript projects
+- [strapi](https://github.com/strapi/strapi)
+  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [plugins](https://github.com/rollup/plugins)
+  - 🍣 The one-stop shop for official Rollup plugins
+- [Hack-Tools](https://github.com/LasCC/Hack-Tools)
+  - The all-in-one Red Team extension for Web Pentester 🛠
+- [spotify-clone-client](https://github.com/JL978/spotify-clone-client)
+  - A ReactJS clone application of the popular Spotify music streaming service.
+- [cypress](https://github.com/cypress-io/cypress)
+  - Fast, easy and reliable testing for anything that runs in a browser.
+- [generator-jhipster](https://github.com/jhipster/generator-jhipster)
+  - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
+- [axios](https://github.com/axios/axios)
+  - Promise based HTTP client for the browser and node.js
+- [Javascript-Essentials](https://github.com/LetsUpgrade/Javascript-Essentials)
+  - 
+- [gutenberg](https://github.com/WordPress/gutenberg)
+  - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
 - [handsontable](https://github.com/handsontable/handsontable)
   - Handsontable is a JavaScript/HTML5 data grid with spreadsheet look & feel. Available for React, Vue and Angular.
-- [oidc-client-js](https://github.com/IdentityModel/oidc-client-js)
-  - OpenID Connect (OIDC) and OAuth2 protocol support for browser-based JavaScript applications
+- [react-select](https://github.com/JedWatson/react-select)
+  - The Select Component for React.js
+- [react-leaflet](https://github.com/PaulLeCam/react-leaflet)
+  - ⚛️ React components for 🍃 Leaflet maps
+- [vault](https://github.com/yfii/vault)
+  - 
+- [realworld](https://github.com/gothinkster/realworld)
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [iearn-finance](https://github.com/iearn-finance/iearn-finance)
+  - Web repository
+- [masterPortfolio](https://github.com/ashutosh1919/masterPortfolio)
+  - 🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.
 - [monaco-editor](https://github.com/microsoft/monaco-editor)
   - A browser based code editor
-- [discord.js](https://github.com/discordjs/discord.js)
-  - A powerful JavaScript library for interacting with the Discord API
-- [Sortable](https://github.com/SortableJS/Sortable)
-  - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Ember, Knockout and any CSS library, e.g. Bootstrap.
+- [junior-recruit-scheduler](https://github.com/jojoldu/junior-recruit-scheduler)
+  - 주니어 개발자 채용 정보
+- [Detox](https://github.com/wix/Detox)
+  - Gray box end-to-end testing and automation framework for mobile apps

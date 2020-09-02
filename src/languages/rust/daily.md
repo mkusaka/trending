@@ -1,51 +1,51 @@
 # rust
-- [wgpu](https://github.com/gfx-rs/wgpu)
-  - Native WebGPU implementation based on gfx-hal
+- [bottlerocket](https://github.com/bottlerocket-os/bottlerocket)
+  - An operating system designed for hosting containers
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [cs492-concur](https://github.com/kaist-cp/cs492-concur)
+  - 
+- [navi](https://github.com/denisidoro/navi)
+  - An interactive cheatsheet tool for the command-line and application launchers
+- [sauron](https://github.com/ivanceras/sauron)
+  - Sauron is an html web framework for building web-apps. It is heavily inspired by elm.
+- [polkadot](https://github.com/paritytech/polkadot)
+  - Polkadot Node Implementation
 - [linux-kernel-module-rust](https://github.com/fishinabarrel/linux-kernel-module-rust)
   - Framework for writing Linux kernel modules in safe Rust
 - [solana](https://github.com/solana-labs/solana)
   - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-- [gitui](https://github.com/extrawurst/gitui)
-  - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [cargo](https://github.com/rust-lang/cargo)
-  - The Rust package manager
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [cs492-concur](https://github.com/kaist-cp/cs492-concur)
-  - 
-- [sled](https://github.com/spacejam/sled)
-  - the champagne of beta embedded databases
-- [jstime](https://github.com/jstime/jstime)
-  - another runtime
-- [orbtk](https://github.com/redox-os/orbtk)
-  - The Rust UI-Toolkit.
-- [Acala](https://github.com/AcalaNetwork/Acala)
-  - Acala Network - CrossChain StableCoin platform based on Substrate.
 - [sqlx](https://github.com/launchbadge/sqlx)
   - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-- [warp](https://github.com/seanmonstar/warp)
-  - A super-easy, composable, web server framework for warp speeds.
-- [druid](https://github.com/linebender/druid)
-  - A data-first Rust-native UI design toolkit.
-- [raft-rs](https://github.com/tikv/raft-rs)
-  - Raft distributed consensus algorithm implemented in Rust.
-- [pyo3](https://github.com/PyO3/pyo3)
-  - Rust bindings for the Python interpreter
-- [OpenSK](https://github.com/google/OpenSK)
-  - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
-- [examples](https://github.com/actix/examples)
-  - Actix web examples
+- [image](https://github.com/image-rs/image)
+  - Encoding and decoding images in Rust
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - ripgrep recursively searches directories for a regex pattern
 - [async-std](https://github.com/async-rs/async-std)
   - Async version of the Rust standard library
-- [polkadot](https://github.com/paritytech/polkadot)
-  - Polkadot Node Implementation
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
-- [juniper](https://github.com/graphql-rust/juniper)
-  - GraphQL server library for Rust
-- [tikv](https://github.com/tikv/tikv)
-  - Distributed transactional key-value database, originally created to complement TiDB
-- [nom](https://github.com/Geal/nom)
-  - Rust parser combinator framework
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [tide](https://github.com/http-rs/tide)
+  - Fast and friendly HTTP server framework for async Rust
+- [rust](https://github.com/tensorflow/rust)
+  - Rust language bindings for TensorFlow
+- [rustfmt](https://github.com/rust-lang/rustfmt)
+  - Format Rust code
+- [RustPython](https://github.com/RustPython/RustPython)
+  - A Python Interpreter written in Rust
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
+- [orjson](https://github.com/ijl/orjson)
+  - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
+- [tokenizers](https://github.com/huggingface/tokenizers)
+  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
+  - Facilitating high-level interactions between Wasm modules and JavaScript
+- [cargo](https://github.com/rust-lang/cargo)
+  - The Rust package manager
+- [indy-sdk](https://github.com/hyperledger/indy-sdk)
+  - Everything needed to build applications that interact with an Indy distributed identity ledger.
+- [abstreet](https://github.com/dabreegster/abstreet)
+  - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
+- [wasmer](https://github.com/wasmerio/wasmer)
+  - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
