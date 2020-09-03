@@ -1,51 +1,51 @@
 # ruby
-- [ruby](https://github.com/ruby/ruby)
-  - The Ruby Programming Language [mirror]
-- [cmsc330fall20](https://github.com/anwarmamat/cmsc330fall20)
-  - 
-- [fastlane](https://github.com/fastlane/fastlane)
-  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [react-native-config](https://github.com/luggit/react-native-config)
-  - Bring some 12 factor love to your mobile apps!
-- [homebrew-core](https://github.com/Homebrew/homebrew-core)
-  - 🍻 Default formulae for the missing package manager for macOS
-- [vagrant](https://github.com/hashicorp/vagrant)
-  - Vagrant is a tool for building and distributing development environments.
-- [postal](https://github.com/postalhq/postal)
-  - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
-- [activerecord-import](https://github.com/zdennis/activerecord-import)
-  - A library for bulk insertion of data into your database using ActiveRecord.
-- [webpacker](https://github.com/rails/webpacker)
-  - Use Webpack to manage app-like JavaScript modules in Rails
-- [whenever](https://github.com/javan/whenever)
-  - Cron jobs in Ruby
-- [mastodon](https://github.com/tootsuite/mastodon)
-  - Your self-hosted, globally interconnected microblogging community
-- [prawn](https://github.com/prawnpdf/prawn)
-  - Fast, Nimble PDF Writer for Ruby
-- [aasm](https://github.com/aasm/aasm)
-  - AASM - State machines for Ruby classes (plain Ruby, ActiveRecord, Mongoid, NoBrainer)
-- [ransack](https://github.com/activerecord-hackery/ransack)
-  - Object-based searching.
-- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
-  - Metasploit Framework
-- [rails_driver](https://github.com/turingschool-examples/rails_driver)
-  - 
-- [administrate](https://github.com/thoughtbot/administrate)
-  - A Rails engine that helps you put together a super-flexible admin dashboard.
 - [faker](https://github.com/faker-ruby/faker)
   - A library for generating fake data such as names, addresses, and phone numbers.
-- [spree](https://github.com/spree/spree)
-  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
+- [homebrew-core](https://github.com/Homebrew/homebrew-core)
+  - 🍻 Default formulae for the missing package manager for macOS
 - [rubocop](https://github.com/rubocop-hq/rubocop)
   - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [devise](https://github.com/heartcombo/devise)
-  - Flexible authentication solution for Rails with Warden.
 - [fluentd](https://github.com/fluent/fluentd)
   - Fluentd: Unified Logging Layer (project under CNCF)
-- [sidekiq](https://github.com/mperham/sidekiq)
-  - Simple, efficient background processing for Ruby
-- [active_merchant](https://github.com/activemerchant/active_merchant)
-  - Active Merchant is a simple payment abstraction library extracted from Shopify. The aim of the project is to feel natural to Ruby users and to abstract as many parts as possible away from the user to offer a consistent interface across all supported gateways.
-- [jsonapi-serializer](https://github.com/jsonapi-serializer/jsonapi-serializer)
-  - A fast JSON:API serializer for Ruby (fork of Netflix/fast_jsonapi)
+- [brew](https://github.com/Homebrew/brew)
+  - 🍺 The missing package manager for macOS (or Linux)
+- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
+  - The Cocoa Dependency Manager.
+- [raven-ruby](https://github.com/getsentry/raven-ruby)
+  - Ruby SDK for Sentry
+- [gollum](https://github.com/gollum/gollum)
+  - A simple, Git-powered wiki with a sweet API and local frontend.
+- [fastlane](https://github.com/fastlane/fastlane)
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [factory_bot](https://github.com/thoughtbot/factory_bot)
+  - A library for setting up Ruby objects as test data.
+- [spree](https://github.com/spree/spree)
+  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
+- [linuxbrew-core](https://github.com/Homebrew/linuxbrew-core)
+  - 🍻🐧 Core formulae for the Homebrew package manager on Linux
+- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+- [ruby](https://github.com/ruby/ruby)
+  - The Ruby Programming Language [mirror]
+- [aasm](https://github.com/aasm/aasm)
+  - AASM - State machines for Ruby classes (plain Ruby, ActiveRecord, Mongoid, NoBrainer)
+- [discourse](https://github.com/discourse/discourse)
+  - A platform for community discussion. Free, open, simple.
+- [cmsc330fall20](https://github.com/anwarmamat/cmsc330fall20)
+  - 
+- [ruby-jwt](https://github.com/jwt/ruby-jwt)
+  - A ruby implementation of the RFC 7519 OAuth JSON Web Token (JWT) standard.
+- [webmock](https://github.com/bblimke/webmock)
+  - Library for stubbing and setting expectations on HTTP requests in Ruby.
+- [devdocs](https://github.com/freeCodeCamp/devdocs)
+  - API Documentation Browser
+- [forem](https://github.com/forem/forem)
+  - For empowering community 🌱
+- [simple_form](https://github.com/heartcombo/simple_form)
+  - Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
+- [activeadmin](https://github.com/activeadmin/activeadmin)
+  - The administration framework for Ruby on Rails applications.
+- [webpacker](https://github.com/rails/webpacker)
+  - Use Webpack to manage app-like JavaScript modules in Rails
+- [figaro](https://github.com/laserlemon/figaro)
+  - Simple Rails app configuration

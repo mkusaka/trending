@@ -1,51 +1,51 @@
 # rust
 - [bottlerocket](https://github.com/bottlerocket-os/bottlerocket)
   - An operating system designed for hosting containers
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [cs492-concur](https://github.com/kaist-cp/cs492-concur)
-  - 
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
 - [navi](https://github.com/denisidoro/navi)
   - An interactive cheatsheet tool for the command-line and application launchers
-- [sauron](https://github.com/ivanceras/sauron)
-  - Sauron is an html web framework for building web-apps. It is heavily inspired by elm.
-- [polkadot](https://github.com/paritytech/polkadot)
-  - Polkadot Node Implementation
-- [linux-kernel-module-rust](https://github.com/fishinabarrel/linux-kernel-module-rust)
-  - Framework for writing Linux kernel modules in safe Rust
-- [solana](https://github.com/solana-labs/solana)
-  - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-- [sqlx](https://github.com/launchbadge/sqlx)
-  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-- [image](https://github.com/image-rs/image)
-  - Encoding and decoding images in Rust
-- [ripgrep](https://github.com/BurntSushi/ripgrep)
-  - ripgrep recursively searches directories for a regex pattern
-- [async-std](https://github.com/async-rs/async-std)
-  - Async version of the Rust standard library
-- [tide](https://github.com/http-rs/tide)
-  - Fast and friendly HTTP server framework for async Rust
-- [rust](https://github.com/tensorflow/rust)
-  - Rust language bindings for TensorFlow
-- [rustfmt](https://github.com/rust-lang/rustfmt)
-  - Format Rust code
-- [RustPython](https://github.com/RustPython/RustPython)
-  - A Python Interpreter written in Rust
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
+- [mdBook](https://github.com/rust-lang/mdBook)
+  - Create book from markdown files. Like Gitbook but implemented in Rust
+- [stacks-blockchain](https://github.com/blockstack/stacks-blockchain)
+  - The Stacks 2.0 blockchain implementation
+- [py-spy](https://github.com/benfred/py-spy)
+  - Sampling profiler for Python programs
+- [firecracker](https://github.com/firecracker-microvm/firecracker)
+  - Secure and fast microVMs for serverless computing.
+- [openethereum](https://github.com/openethereum/openethereum)
+  - The fast, light, and robust client for Ethereum-like networks.
+- [halo2](https://github.com/zcash/halo2)
+  - 
+- [nushell](https://github.com/nushell/nushell)
+  - A new type of shell
+- [warp](https://github.com/seanmonstar/warp)
+  - A super-easy, composable, web server framework for warp speeds.
+- [UltimateTrainingModpack](https://github.com/jugeeya/UltimateTrainingModpack)
+  - An application to drastically improve the training mode in Super Smash Bros. Ultimate.
+- [bottom](https://github.com/ClementTsang/bottom)
+  - Yet another cross-platform graphical process/system monitor.
+- [crossbeam](https://github.com/crossbeam-rs/crossbeam)
+  - Tools for concurrent programming in Rust
+- [rustlings](https://github.com/rust-lang/rustlings)
+  - 🦀 Small exercises to get you used to reading and writing Rust code!
+- [asroute](https://github.com/stevenpack/asroute)
+  - Interpret traceroute output to show names of ASN traversed
+- [tokio](https://github.com/tokio-rs/tokio)
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [orjson](https://github.com/ijl/orjson)
   - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
-- [tokenizers](https://github.com/huggingface/tokenizers)
-  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
-- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
-  - Facilitating high-level interactions between Wasm modules and JavaScript
-- [cargo](https://github.com/rust-lang/cargo)
-  - The Rust package manager
-- [indy-sdk](https://github.com/hyperledger/indy-sdk)
-  - Everything needed to build applications that interact with an Indy distributed identity ledger.
-- [abstreet](https://github.com/dabreegster/abstreet)
-  - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
-- [substrate](https://github.com/paritytech/substrate)
-  - Substrate: The platform for blockchain innovators
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
 - [wasmer](https://github.com/wasmerio/wasmer)
   - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+- [snarkOS](https://github.com/AleoHQ/snarkOS)
+  - A Decentralized Operating System for Private Applications
+- [sqlx](https://github.com/launchbadge/sqlx)
+  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [nannou](https://github.com/nannou-org/nannou)
+  - A Creative Coding Framework for Rust.
+- [autocxx](https://github.com/google/autocxx)
+  - 

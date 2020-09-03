@@ -1,48 +1,47 @@
 # general
-- [htop](https://github.com/htop-dev/htop) : C
-  - htop - an interactive process viewer
-- [sushiswap](https://github.com/sushiswap/sushiswap) : Solidity
-  - 🍣 SushiSwap smart contracts
 - [bottlerocket](https://github.com/bottlerocket-os/bottlerocket) : Rust
   - An operating system designed for hosting containers
-- [gorm](https://github.com/go-gorm/gorm) : Go
-  - The fantastic ORM library for Golang, aims to be developer friendly
-- [Python](https://github.com/TheAlgorithms/Python) : Python
-  - All Algorithms implemented in Python
-- [setuptools](https://github.com/pypa/setuptools) : Python
-  - Official project repository for the Setuptools build system
-- [bicep](https://github.com/Azure/bicep) : C#
-- [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) : 
-  - The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
-- [3DDFA_V2](https://github.com/cleardusk/3DDFA_V2) : Python
-  - The official PyTorch implementation of Towards Fast, Accurate and Stable 3D Dense Face Alignment, ECCV, 2020
-- [howtheytest](https://github.com/abhivaikar/howtheytest) : HTML
-  - A collection of public resources about how software companies test their software
-- [companies-sponsoring-visas](https://github.com/shubheksha/companies-sponsoring-visas) : 
-  - A list of companies that sponsor employees from other countries.
-- [Java-Tutorial](https://github.com/h2pl/Java-Tutorial) : Java
-  - 【Java工程师面试复习指南】本仓库涵盖大部分Java程序员所需要掌握的核心知识，整合了互联网上的很多优质Java技术文章，力求打造为最完整最实用的Java开发者学习指南，如果对你有帮助，给个star告诉我吧，谢谢！
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
-  - Roadmap to becoming a web developer in 2020
-- [portainer](https://github.com/portainer/portainer) : JavaScript
-  - Making Docker management easy.
-- [koronavilkku-android](https://github.com/THLfi/koronavilkku-android) : Kotlin
-- [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) : Java
-  - To Be Top Javaer - Java工程师成神之路
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
-  - 🤓 Build your own (insert technology here)
-- [gdal](https://github.com/OSGeo/gdal) : C++
-  - GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats.
-- [ruby](https://github.com/ruby/ruby) : Ruby
-  - The Ruby Programming Language [mirror]
-- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) : JavaScript
-  - Short JavaScript code snippets for all your development needs
-- [azure-docs](https://github.com/MicrosoftDocs/azure-docs) : PowerShell
-  - Open source documentation of Microsoft Azure
-- [desafio-6-2020](https://github.com/maratonadev-br/desafio-6-2020) : Jupyter Notebook
+- [jetstream](https://github.com/laravel/jetstream) : PHP
+- [sushiswap](https://github.com/sushiswap/sushiswap) : Solidity
+  - 🍣 SushiSwap smart contracts
+- [yam-protocol](https://github.com/yam-finance/yam-protocol) : Solidity
+  - A stablizing reserve currency protocol
+- [htop](https://github.com/htop-dev/htop) : C
+  - htop - an interactive process viewer
+- [fortify](https://github.com/laravel/fortify) : PHP
 - [12306](https://github.com/testerSunshine/12306) : Python
   - 12306智能刷票，订票
-- [awesome](https://github.com/sindresorhus/awesome) : 
-  - 😎 Awesome lists about all kinds of interesting topics
-- [scikit-learn-tips](https://github.com/justmarkham/scikit-learn-tips) : Jupyter Notebook
-  - 🤖⚡ Daily scikit-learn tips
+- [grafana](https://github.com/grafana/grafana) : TypeScript
+  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [howtheytest](https://github.com/abhivaikar/howtheytest) : HTML
+  - A collection of public resources about how software companies test their software
+- [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) : 
+  - The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
+- [Python-Essentials](https://github.com/LetsUpgrade/Python-Essentials) : Jupyter Notebook
+- [18S191](https://github.com/mitmath/18S191) : HTML
+  - Course 18.S191 at MIT, fall 2020 - Introduction to computational thinking with Julia
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) : JavaScript
+  - Short JavaScript code snippets for all your development needs
+- [go-zero](https://github.com/tal-tech/go-zero) : Go
+  - go-zero是一个集成了各种工程实践的web和rpc框架。通过弹性设计保障了大并发服务端的稳定性，经受了充分的实战检验。包含极简的API定义和生成工具，可以一键生成Go, iOS, Android, Dart, TypeScript, JavaScript代码，并可直接运行。
+- [IBMYes](https://github.com/CCChieh/IBMYes) : Batchfile
+- [stitches](https://github.com/modulz/stitches) : TypeScript
+  - The modern styling library. Near-zero runtime, server-side rendering, multi-variant support, and best-in-class developer experience.
+- [vite](https://github.com/vitejs/vite) : TypeScript
+  - Native-ESM powered web dev build tool. It's fast.
+- [fes.js](https://github.com/WeBankFinTech/fes.js) : Vue
+  - Fes.js 是一个管理台应用解决方案，提供初始项目、开发调试、编译打包的命令行工具，内置布局、权限、数据字典、状态管理、Api等多个模块，文件目录结构即路由，用户只需要编写页面内容。基于Vue.js，内置管理台常用能力，让用户写的更少，更简单。经过多个项目中打磨，趋于稳定。
+- [portainer](https://github.com/portainer/portainer) : JavaScript
+  - Making Docker management easy.
+- [Java-Tutorial](https://github.com/h2pl/Java-Tutorial) : Java
+  - 【Java工程师面试复习指南】本仓库涵盖大部分Java程序员所需要掌握的核心知识，整合了互联网上的很多优质Java技术文章，力求打造为最完整最实用的Java开发者学习指南，如果对你有帮助，给个star告诉我吧，谢谢！
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
+  - 🤓 Build your own (insert technology here)
+- [deeplearning-models](https://github.com/rasbt/deeplearning-models) : Jupyter Notebook
+  - A collection of various deep learning architectures, models, and tips
+- [flink-learning](https://github.com/zhisheng17/flink-learning) : Java
+  - flink learning blog. http://www.flink-learning.com 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》
+- [surpriver](https://github.com/tradytics/surpriver) : Python
+  - Find big moving stocks before they move using machine learning and anomaly detection
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
+  - Roadmap to becoming a web developer in 2020
