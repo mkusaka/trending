@@ -1,51 +1,51 @@
 # javascript
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
   - Short JavaScript code snippets for all your development needs
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
 - [portainer](https://github.com/portainer/portainer)
   - Making Docker management easy.
-- [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
-  - A collection of awesome readme templates to display on your profile
-- [csgo_bugs](https://github.com/kkthxbye-code/csgo_bugs)
-  - Random CSGO stuff
-- [fabric.js](https://github.com/fabricjs/fabric.js)
-  - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
-- [realworld](https://github.com/gothinkster/realworld)
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [stayaway-app](https://github.com/stayawayinesctec/stayaway-app)
-  - Official repository for the STAYAWAY COVID mobile application
-- [10-projects-10-hours](https://github.com/florinpop17/10-projects-10-hours)
-  - 
-- [Detox](https://github.com/wix/Detox)
-  - Gray box end-to-end testing and automation framework for mobile apps
-- [responsively-app](https://github.com/responsively-org/responsively-app)
-  - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
-- [form-create](https://github.com/xaboy/form-create)
-  - 🔥🔥🔥 强大的表单生成器|Form builder with dynamic rendering, data collection, validation and submission capabilities, built-in 17 common form components, support for two-way data binding, event extension, and support for building built-in components and any vue components using json.
-- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
-  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [pdf.js](https://github.com/mozilla/pdf.js)
-  - PDF Reader in JavaScript
-- [vue](https://github.com/vuejs/vue)
-  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [react-native-elements](https://github.com/react-native-elements/react-native-elements)
-  - Cross Platform React Native UI Toolkit
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [graphql-js](https://github.com/graphql/graphql-js)
+  - A reference implementation of GraphQL for JavaScript
 - [yapi](https://github.com/YMFE/yapi)
   - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
+- [pdf.js](https://github.com/mozilla/pdf.js)
+  - PDF Reader in JavaScript
 - [next.js](https://github.com/vercel/next.js)
   - The React Framework
-- [google-meet-grid-view](https://github.com/Fugiman/google-meet-grid-view)
-  - Userscript to offer a grid-view layout in Google Meets
-- [alpine](https://github.com/alpinejs/alpine)
-  - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [slick](https://github.com/kenwheeler/slick)
-  - the last carousel you'll ever need
-- [harvest](https://github.com/harvest-finance/harvest)
-  - Bread for the people!
-- [pwnagotchi](https://github.com/evilsocket/pwnagotchi)
-  - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
-- [react-testing-library](https://github.com/testing-library/react-testing-library)
-  - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
-- [svelte](https://github.com/sveltejs/svelte)
-  - Cybernetically enhanced web apps
+- [chatify](https://github.com/munafio/chatify)
+  - A package for Laravel PHP Framework to add a complete real-time chat system to your app by only a few steps.
+- [lofi-player](https://github.com/magenta/lofi-player)
+  - 🔥 Virtual room in your browser that lets you play with the Lo-Fi VIBE and relax
+- [Detox](https://github.com/wix/Detox)
+  - Gray box end-to-end testing and automation framework for mobile apps
+- [samples](https://github.com/webrtc/samples)
+  - WebRTC Web demos and samples
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+  - 🚀 Generate github profile README easily with latest add-ons like visitors count, github stats, etc using minimal UI.
+- [insomnia](https://github.com/Kong/insomnia)
+  - The Open Source API Client and Design Platform for GraphQL and REST ->
+- [fabric.js](https://github.com/fabricjs/fabric.js)
+  - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
+- [10-projects-10-hours](https://github.com/florinpop17/10-projects-10-hours)
+  - 
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [three.js](https://github.com/mrdoob/three.js)
+  - JavaScript 3D library.
+- [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
+  - A collection of awesome readme templates to display on your profile
+- [label-studio](https://github.com/heartexlabs/label-studio)
+  - Label Studio is a multi-type data labeling and annotation tool with standardized output format
+- [incubator-echarts](https://github.com/apache/incubator-echarts)
+  - A powerful, interactive charting and visualization library for browser
+- [pdfmake](https://github.com/bpampuch/pdfmake)
+  - Client/server side PDF printing in pure JavaScript
+- [swagger-ui](https://github.com/swagger-api/swagger-ui)
+  - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
+- [react-native-calendars](https://github.com/wix/react-native-calendars)
+  - React Native Calendar Components 🗓️ 📆
+- [fe-interview](https://github.com/haizlin/fe-interview)
+  - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），3000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
