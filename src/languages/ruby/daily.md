@@ -1,51 +1,51 @@
 # ruby
-- [rubocop](https://github.com/rubocop-hq/rubocop)
-  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [fluentd](https://github.com/fluent/fluentd)
-  - Fluentd: Unified Logging Layer (project under CNCF)
-- [devise](https://github.com/heartcombo/devise)
-  - Flexible authentication solution for Rails with Warden.
-- [active_merchant](https://github.com/activemerchant/active_merchant)
-  - Active Merchant is a simple payment abstraction library extracted from Shopify. The aim of the project is to feel natural to Ruby users and to abstract as many parts as possible away from the user to offer a consistent interface across all supported gateways.
-- [theodinproject](https://github.com/TheOdinProject/theodinproject)
-  - Main Website for The Odin Project
 - [fastlane](https://github.com/fastlane/fastlane)
   - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [sorbet](https://github.com/sorbet/sorbet)
-  - A fast, powerful type checker designed for Ruby
-- [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch)
-  - Ansible playbook for Elasticsearch
-- [rswag](https://github.com/rswag/rswag)
-  - Seamlessly adds a Swagger to Rails-based API's
-- [solidus](https://github.com/solidusio/solidus)
-  - 🛒Solidus, Rails eCommerce System
-- [Ceedling](https://github.com/ThrowTheSwitch/Ceedling)
-  - Ruby/Rake-based build and test system for C projects
-- [liquid](https://github.com/Shopify/liquid)
-  - Liquid markup language. Safe, customer facing template language for flexible web apps.
-- [parallel_tests](https://github.com/grosser/parallel_tests)
-  - Ruby: 2 CPUs = 2x Testing Speed for RSpec, Test::Unit and Cucumber
-- [octokit.rb](https://github.com/octokit/octokit.rb)
-  - Ruby toolkit for the GitHub API
+- [cmsc330fall20](https://github.com/anwarmamat/cmsc330fall20)
+  - 
 - [CocoaPods](https://github.com/CocoaPods/CocoaPods)
   - The Cocoa Dependency Manager.
-- [simple_form](https://github.com/heartcombo/simple_form)
-  - Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
-- [capistrano](https://github.com/capistrano/capistrano)
-  - Remote multi-server automation tool
-- [chatwoot](https://github.com/chatwoot/chatwoot)
-  - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬
-- [grape](https://github.com/ruby-grape/grape)
-  - An opinionated framework for creating REST-like APIs in Ruby.
-- [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails)
-  - Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
-- [omniauth-google-oauth2](https://github.com/zquestz/omniauth-google-oauth2)
-  - Oauth2 strategy for Google
-- [pact_broker](https://github.com/pact-foundation/pact_broker)
-  - Enables your consumer driven contracts workflow
-- [prawn](https://github.com/prawnpdf/prawn)
-  - Fast, Nimble PDF Writer for Ruby
+- [active_merchant](https://github.com/activemerchant/active_merchant)
+  - Active Merchant is a simple payment abstraction library extracted from Shopify. The aim of the project is to feel natural to Ruby users and to abstract as many parts as possible away from the user to offer a consistent interface across all supported gateways.
+- [vagrant](https://github.com/hashicorp/vagrant)
+  - Vagrant is a tool for building and distributing development environments.
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
+  - Metasploit Framework
+- [activerecord-import](https://github.com/zdennis/activerecord-import)
+  - A library for bulk insertion of data into your database using ActiveRecord.
+- [react-native-config](https://github.com/luggit/react-native-config)
+  - Bring some 12 factor love to your mobile apps!
+- [devise](https://github.com/heartcombo/devise)
+  - Flexible authentication solution for Rails with Warden.
+- [decidim](https://github.com/decidim/decidim)
+  - The participatory democracy framework. A generator and multiple gems made with Ruby on Rails
+- [fluentd](https://github.com/fluent/fluentd)
+  - Fluentd: Unified Logging Layer (project under CNCF)
+- [parallel_tests](https://github.com/grosser/parallel_tests)
+  - Ruby: 2 CPUs = 2x Testing Speed for RSpec, Test::Unit and Cucumber
+- [google-api-ruby-client](https://github.com/googleapis/google-api-ruby-client)
+  - REST client for Google APIs
+- [pry](https://github.com/pry/pry)
+  - A runtime developer console and IRB alternative with powerful introspection capabilities.
+- [ruby-saml](https://github.com/onelogin/ruby-saml)
+  - SAML SSO for Ruby
 - [sidekiq](https://github.com/mperham/sidekiq)
   - Simple, efficient background processing for Ruby
-- [rspec-mocks](https://github.com/rspec/rspec-mocks)
-  - RSpec's 'test double' framework, with support for stubbing and mocking
+- [logstash](https://github.com/elastic/logstash)
+  - Logstash - transport and process your logs, events, or other data
+- [rspec-rails](https://github.com/rspec/rspec-rails)
+  - RSpec for Rails 5+
+- [stripe-ruby-mock](https://github.com/stripe-ruby-mock/stripe-ruby-mock)
+  - A mocking library for testing stripe ruby
+- [zammad](https://github.com/zammad/zammad)
+  - Zammad is a web based open source helpdesk/customer support system
+- [rails](https://github.com/rails/rails)
+  - Ruby on Rails
+- [active_model_serializers](https://github.com/rails-api/active_model_serializers)
+  - ActiveModel::Serializer implementation and Rails hooks
+- [puppet](https://github.com/puppetlabs/puppet)
+  - Server automation framework and application
+- [prawn](https://github.com/prawnpdf/prawn)
+  - Fast, Nimble PDF Writer for Ruby
+- [asciidoctor](https://github.com/asciidoctor/asciidoctor)
+  - 💎 A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.

@@ -1,51 +1,51 @@
 # javascript
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
   - Short JavaScript code snippets for all your development needs
+- [jira_clone](https://github.com/oldboyxx/jira_clone)
+  - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
 - [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
   - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [portainer](https://github.com/portainer/portainer)
-  - Making Docker management easy.
-- [graphql-js](https://github.com/graphql/graphql-js)
-  - A reference implementation of GraphQL for JavaScript
-- [yapi](https://github.com/YMFE/yapi)
-  - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
-- [pdf.js](https://github.com/mozilla/pdf.js)
-  - PDF Reader in JavaScript
-- [next.js](https://github.com/vercel/next.js)
-  - The React Framework
-- [chatify](https://github.com/munafio/chatify)
-  - A package for Laravel PHP Framework to add a complete real-time chat system to your app by only a few steps.
-- [lofi-player](https://github.com/magenta/lofi-player)
-  - 🔥 Virtual room in your browser that lets you play with the Lo-Fi VIBE and relax
-- [Detox](https://github.com/wix/Detox)
-  - Gray box end-to-end testing and automation framework for mobile apps
-- [samples](https://github.com/webrtc/samples)
-  - WebRTC Web demos and samples
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
-  - 🚀 Generate github profile README easily with latest add-ons like visitors count, github stats, etc using minimal UI.
-- [insomnia](https://github.com/Kong/insomnia)
-  - The Open Source API Client and Design Platform for GraphQL and REST ->
-- [fabric.js](https://github.com/fabricjs/fabric.js)
-  - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
-- [10-projects-10-hours](https://github.com/florinpop17/10-projects-10-hours)
-  - 
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [three.js](https://github.com/mrdoob/three.js)
-  - JavaScript 3D library.
-- [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
-  - A collection of awesome readme templates to display on your profile
-- [label-studio](https://github.com/heartexlabs/label-studio)
-  - Label Studio is a multi-type data labeling and annotation tool with standardized output format
-- [incubator-echarts](https://github.com/apache/incubator-echarts)
-  - A powerful, interactive charting and visualization library for browser
-- [pdfmake](https://github.com/bpampuch/pdfmake)
-  - Client/server side PDF printing in pure JavaScript
+- [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
+  - Microsoft Authentication Library (MSAL) for JS
+- [a32nx](https://github.com/flybywiresim/a32nx)
+  - The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.
+- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification)
+  - The OpenAPI Specification Repository
+- [underscore](https://github.com/jashkenas/underscore)
+  - JavaScript's utility _ belt
+- [appium](https://github.com/appium/appium)
+  - 📱 Automation for iOS, Android, and Windows Apps.
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+  - ✅ The Node.js best practices list (August 2020)
+- [svelte](https://github.com/sveltejs/svelte)
+  - Cybernetically enhanced web apps
 - [swagger-ui](https://github.com/swagger-api/swagger-ui)
   - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
-- [react-native-calendars](https://github.com/wix/react-native-calendars)
-  - React Native Calendar Components 🗓️ 📆
-- [fe-interview](https://github.com/haizlin/fe-interview)
-  - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），3000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
+- [jsplumb](https://github.com/jsplumb/jsplumb)
+  - Visual connectivity for webapps
+- [realworld](https://github.com/gothinkster/realworld)
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [next.js](https://github.com/vercel/next.js)
+  - The React Framework
+- [10-projects-10-hours](https://github.com/florinpop17/10-projects-10-hours)
+  - 
+- [redash](https://github.com/getredash/redash)
+  - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+- [slick](https://github.com/kenwheeler/slick)
+  - the last carousel you'll ever need
+- [pako](https://github.com/nodeca/pako)
+  - high speed zlib port to javascript, works in browser & node.js
+- [objection.js](https://github.com/Vincit/objection.js)
+  - An SQL-friendly ORM for Node.js
+- [vue](https://github.com/vuejs/vue)
+  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [lib-jitsi-meet](https://github.com/jitsi/lib-jitsi-meet)
+  - A low-level JS video API that allows adding a completely custom video experience to web apps.
+- [Detox](https://github.com/wix/Detox)
+  - Gray box end-to-end testing and automation framework for mobile apps
+- [strapi](https://github.com/strapi/strapi)
+  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [react-ga](https://github.com/react-ga/react-ga)
+  - React Google Analytics Module
+- [reselect](https://github.com/reduxjs/reselect)
+  - Selector library for Redux

@@ -1,47 +1,48 @@
 # general
-- [flink-learning](https://github.com/zhisheng17/flink-learning) : Java
-  - flink learning blog. http://www.flink-learning.com 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》
-- [finance](https://github.com/austinkregel/finance) : TSQL
-  - A self hosted app to help you get a better understanding of your personal finances.
-- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) : C++
-  - C++那些事
-- [jetstream](https://github.com/laravel/jetstream) : PHP
-- [Python-Essentials](https://github.com/LetsUpgrade/Python-Essentials) : Jupyter Notebook
-- [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) : 
-  - The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
-- [bottlerocket](https://github.com/bottlerocket-os/bottlerocket) : Rust
-  - An operating system designed for hosting containers
-- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) : JavaScript
-  - Short JavaScript code snippets for all your development needs
-- [18S191](https://github.com/mitmath/18S191) : HTML
-  - Course 18.S191 at MIT, fall 2020 - Introduction to computational thinking with Julia:
-- [display-switch](https://github.com/haimgel/display-switch) : Rust
-  - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
-- [12306](https://github.com/testerSunshine/12306) : Python
-  - 12306智能刷票，订票
-- [tutorials](https://github.com/eugenp/tutorials) : Java
-  - Just Announced - "Learn Spring Security OAuth":
-- [spark-nlp](https://github.com/JohnSnowLabs/spark-nlp) : Scala
-  - State of the Art Natural Language Processing
-- [IBMYes](https://github.com/CCChieh/IBMYes) : Batchfile
-- [blade-ui-kit](https://github.com/blade-ui-kit/blade-ui-kit) : PHP
-  - A set of renderless components to utilise in your Laravel Blade views.
-- [croc](https://github.com/schollz/croc) : Go
-  - Easily and securely send things from one computer to another 🐊 📦
-- [100-nlp-papers](https://github.com/mhagiwara/100-nlp-papers) : 
-  - 100 Must-Read NLP Papers
 - [autoscraper](https://github.com/alirezamika/autoscraper) : Python
   - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
-  - 🤓 Build your own (insert technology here)
-- [KingOfBugBountyTips](https://github.com/KingOfBugbounty/KingOfBugBountyTips) : 
-- [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) : Python
-  - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020.
-- [xls](https://github.com/google/xls) : C++
-  - XLS: Accelerated HW Synthesis
-- [yam-protocol](https://github.com/yam-finance/yam-protocol) : Solidity
-  - A stablizing reserve currency protocol
+- [workflow](https://github.com/sogou/workflow) : C++
+  - Sogou framework for C++ backend development.
+- [flutter](https://github.com/flutter/flutter) : Dart
+  - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+- [croc](https://github.com/schollz/croc) : Go
+  - Easily and securely send things from one computer to another 🐊 📦
+- [go-zero](https://github.com/tal-tech/go-zero) : Go
+  - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
+- [scipio](https://github.com/DataDog/scipio) : Rust
+  - Scipio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans
+- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) : C++
+  - C++那些事
+- [howtheytest](https://github.com/abhivaikar/howtheytest) : HTML
+  - A collection of public resources about how software companies test their software
+- [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) : 
+  - A curated awesome list of lists of interview questions. Feel free to contribute! 🎓
+- [hivemind](https://github.com/learning-at-home/hivemind) : Python
+  - Decentralized deep learning framework in pytorch. Built to train models on thousands of volunteers across the world.
+- [100-nlp-papers](https://github.com/mhagiwara/100-nlp-papers) : 
+  - 100 Must-Read NLP Papers
+- [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) : 
+  - Roadmap to becoming a data engineer in 2020
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) : Vue
   - 👽 A free, fast and beautiful API request builder used by 75k+ developers. https://hoppscotch.io
-- [BotBuilder-Samples](https://github.com/microsoft/BotBuilder-Samples) : C#
-  - Welcome to the Bot Framework samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Bot Framework SDK!
+- [deeplearning-models](https://github.com/rasbt/deeplearning-models) : Jupyter Notebook
+  - A collection of various deep learning architectures, models, and tips
+- [xls](https://github.com/google/xls) : C++
+  - XLS: Accelerated HW Synthesis
+- [Python-Essentials](https://github.com/LetsUpgrade/Python-Essentials) : Jupyter Notebook
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
+  - 🤓 Build your own (insert technology here)
+- [flink-learning](https://github.com/zhisheng17/flink-learning) : Java
+  - flink learning blog. http://www.flink-learning.com 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》
+- [IBMYes](https://github.com/CCChieh/IBMYes) : Batchfile
+- [18S191](https://github.com/mitmath/18S191) : HTML
+  - Course 18.S191 at MIT, fall 2020 - Introduction to computational thinking with Julia:
+- [jetstream](https://github.com/laravel/jetstream) : PHP
+- [Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) : 
+  - A collection of open source and commercial tools that aid in red team operations.
+- [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) : Python
+  - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020.
+- [keras](https://github.com/keras-team/keras) : Python
+  - Deep Learning for humans
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) : JavaScript
+  - Short JavaScript code snippets for all your development needs
