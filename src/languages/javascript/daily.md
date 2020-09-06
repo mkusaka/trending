@@ -1,51 +1,51 @@
 # javascript
-- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
-  - Short JavaScript code snippets for all your development needs
-- [jira_clone](https://github.com/oldboyxx/jira_clone)
-  - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
-- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
-  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
-  - Microsoft Authentication Library (MSAL) for JS
 - [a32nx](https://github.com/flybywiresim/a32nx)
   - The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.
-- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification)
-  - The OpenAPI Specification Repository
-- [underscore](https://github.com/jashkenas/underscore)
-  - JavaScript's utility _ belt
-- [appium](https://github.com/appium/appium)
-  - 📱 Automation for iOS, Android, and Windows Apps.
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
-  - ✅ The Node.js best practices list (August 2020)
-- [svelte](https://github.com/sveltejs/svelte)
-  - Cybernetically enhanced web apps
-- [swagger-ui](https://github.com/swagger-api/swagger-ui)
-  - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
-- [jsplumb](https://github.com/jsplumb/jsplumb)
-  - Visual connectivity for webapps
-- [realworld](https://github.com/gothinkster/realworld)
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [next.js](https://github.com/vercel/next.js)
-  - The React Framework
-- [10-projects-10-hours](https://github.com/florinpop17/10-projects-10-hours)
-  - 
-- [redash](https://github.com/getredash/redash)
-  - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-- [slick](https://github.com/kenwheeler/slick)
-  - the last carousel you'll ever need
-- [pako](https://github.com/nodeca/pako)
-  - high speed zlib port to javascript, works in browser & node.js
-- [objection.js](https://github.com/Vincit/objection.js)
-  - An SQL-friendly ORM for Node.js
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
+  - Short JavaScript code snippets for all your development needs
+- [moon](https://github.com/kbrsh/moon)
+  - 🌙 The minimal & fast library for functional user interfaces
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [livewire-devtools](https://github.com/beyondcode/livewire-devtools)
+  - Chrome and Firefox DevTools extension for debugging Livewire applications
+- [stackoverflow-clone](https://github.com/salihozdemir/stackoverflow-clone)
+  - This project is a simplified a full stack clone of Stackoverflow.
 - [vue](https://github.com/vuejs/vue)
   - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [lib-jitsi-meet](https://github.com/jitsi/lib-jitsi-meet)
-  - A low-level JS video API that allows adding a completely custom video experience to web apps.
-- [Detox](https://github.com/wix/Detox)
-  - Gray box end-to-end testing and automation framework for mobile apps
+- [unlock-music](https://github.com/ix64/unlock-music)
+  - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
+- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
+  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+- [discord.js](https://github.com/discordjs/discord.js)
+  - A powerful JavaScript library for interacting with the Discord API
+- [jira_clone](https://github.com/oldboyxx/jira_clone)
+  - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+  - ✅ The Node.js best practices list (August 2020)
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
+  - Starter files, final projects and FAQ for my Complete JavaScript course
+- [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
+  - 强大的哔哩哔哩增强脚本: 下载视频, 音乐, 封面, 弹幕 / 简化直播间, 评论区, 首页 / 自定义顶栏, 删除广告, 夜间模式 / 触屏设备支持
+- [10-projects-10-hours](https://github.com/florinpop17/10-projects-10-hours)
+  - 
+- [electron-quick-start](https://github.com/electron/electron-quick-start)
+  - Clone to try a simple Electron app
+- [lowdb](https://github.com/typicode/lowdb)
+  - ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
+- [javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions)
+  - List of 1000 JavaScript Interview Questions
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+  - 💯 Materials to help you rock your next coding interview
+- [generator-jhipster](https://github.com/jhipster/generator-jhipster)
+  - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 - [strapi](https://github.com/strapi/strapi)
   - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
-- [react-ga](https://github.com/react-ga/react-ga)
-  - React Google Analytics Module
-- [reselect](https://github.com/reduxjs/reselect)
-  - Selector library for Redux
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [realworld](https://github.com/gothinkster/realworld)
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+  - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
+- [brain.js](https://github.com/BrainJS/brain.js)
+  - 🤖 Neural networks in JavaScript

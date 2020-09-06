@@ -1,48 +1,49 @@
 # general
-- [autoscraper](https://github.com/alirezamika/autoscraper) : Python
-  - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
+- [IBMYes](https://github.com/CCChieh/IBMYes) : Batchfile
+- [a32nx](https://github.com/flybywiresim/a32nx) : JavaScript
+  - The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.
+- [Server](https://github.com/PanDownloadServer/Server) : HTML
+  - PanDownload的个人维护版本
 - [workflow](https://github.com/sogou/workflow) : C++
   - Sogou framework for C++ backend development.
-- [flutter](https://github.com/flutter/flutter) : Dart
-  - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
-- [croc](https://github.com/schollz/croc) : Go
-  - Easily and securely send things from one computer to another 🐊 📦
-- [go-zero](https://github.com/tal-tech/go-zero) : Go
-  - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
-- [scipio](https://github.com/DataDog/scipio) : Rust
-  - Scipio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans
-- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) : C++
-  - C++那些事
-- [howtheytest](https://github.com/abhivaikar/howtheytest) : HTML
-  - A collection of public resources about how software companies test their software
-- [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) : 
-  - A curated awesome list of lists of interview questions. Feel free to contribute! 🎓
-- [hivemind](https://github.com/learning-at-home/hivemind) : Python
-  - Decentralized deep learning framework in pytorch. Built to train models on thousands of volunteers across the world.
-- [100-nlp-papers](https://github.com/mhagiwara/100-nlp-papers) : 
-  - 100 Must-Read NLP Papers
-- [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) : 
-  - Roadmap to becoming a data engineer in 2020
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) : Vue
   - 👽 A free, fast and beautiful API request builder used by 75k+ developers. https://hoppscotch.io
-- [deeplearning-models](https://github.com/rasbt/deeplearning-models) : Jupyter Notebook
-  - A collection of various deep learning architectures, models, and tips
-- [xls](https://github.com/google/xls) : C++
-  - XLS: Accelerated HW Synthesis
-- [Python-Essentials](https://github.com/LetsUpgrade/Python-Essentials) : Jupyter Notebook
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
-  - 🤓 Build your own (insert technology here)
-- [flink-learning](https://github.com/zhisheng17/flink-learning) : Java
-  - flink learning blog. http://www.flink-learning.com 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》
-- [IBMYes](https://github.com/CCChieh/IBMYes) : Batchfile
-- [18S191](https://github.com/mitmath/18S191) : HTML
-  - Course 18.S191 at MIT, fall 2020 - Introduction to computational thinking with Julia:
-- [jetstream](https://github.com/laravel/jetstream) : PHP
-- [Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) : 
-  - A collection of open source and commercial tools that aid in red team operations.
-- [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) : Python
-  - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020.
-- [keras](https://github.com/keras-team/keras) : Python
-  - Deep Learning for humans
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) : JavaScript
   - Short JavaScript code snippets for all your development needs
+- [Ciphey](https://github.com/Ciphey/Ciphey) : Python
+  - Automatically decode encryptions without a key, decode encodings, and crack hashes
+- [Tasmota](https://github.com/arendst/Tasmota) : C
+  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
+- [autoscraper](https://github.com/alirezamika/autoscraper) : Python
+  - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
+- [Python-Essentials](https://github.com/LetsUpgrade/Python-Essentials) : Jupyter Notebook
+- [hivemind](https://github.com/learning-at-home/hivemind) : Python
+  - Decentralized deep learning framework in pytorch. Built to train models on thousands of volunteers across the world.
+- [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) : 
+  - Roadmap to becoming a data engineer in 2020
+- [deeplearning-models](https://github.com/rasbt/deeplearning-models) : Jupyter Notebook
+  - A collection of various deep learning architectures, models, and tips
+- [jdk](https://github.com/openjdk/jdk) : Java
+  - JDK main-line development
+- [croc](https://github.com/schollz/croc) : Go
+  - Easily and securely send things from one computer to another 🐊 📦
+- [keras](https://github.com/keras-team/keras) : Python
+  - Deep Learning for humans
+- [18S191](https://github.com/mitmath/18S191) : HTML
+  - Course 18.S191 at MIT, fall 2020 - Introduction to computational thinking with Julia:
+- [100-nlp-papers](https://github.com/mhagiwara/100-nlp-papers) : 
+  - 100 Must-Read NLP Papers
+- [moon](https://github.com/kbrsh/moon) : JavaScript
+  - 🌙 The minimal & fast library for functional user interfaces
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
+  - 🤓 Build your own (insert technology here)
+- [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) : 
+  - A curated awesome list of lists of interview questions. Feel free to contribute! 🎓
+- [rustlings](https://github.com/rust-lang/rustlings) : Rust
+  - 🦀 Small exercises to get you used to reading and writing Rust code!
+- [ghcide](https://github.com/haskell/ghcide) : Haskell
+  - A library for building Haskell IDE tooling
+- [awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) : 
+  - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
+- [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) : Jupyter Notebook
+  - This repository contains the source code for the paper First Order Motion Model for Image Animation
