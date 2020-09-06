@@ -1,51 +1,51 @@
 # rust
-- [scipio](https://github.com/DataDog/scipio)
-  - Scipio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans
-- [slap](https://github.com/agnipau/slap)
-  - Painless shell argument parsing.
-- [display-switch](https://github.com/haimgel/display-switch)
-  - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
-- [shellharden](https://github.com/anordal/shellharden)
-  - The corrective bash syntax highlighter
-- [bat](https://github.com/sharkdp/bat)
-  - A cat(1) clone with wings.
-- [bottlerocket](https://github.com/bottlerocket-os/bottlerocket)
-  - An operating system designed for hosting containers
-- [findomain](https://github.com/Edu4rdSHL/findomain)
-  - The fastest and cross-platform subdomain enumerator, do not waste your time.
-- [unimap](https://github.com/Edu4rdSHL/unimap)
-  - Scan only once by IP address and reduce scan times with Nmap for large amounts of data.
-- [mdBook](https://github.com/rust-lang/mdBook)
-  - Create book from markdown files. Like Gitbook but implemented in Rust
-- [bottom](https://github.com/ClementTsang/bottom)
-  - Yet another cross-platform graphical process/system monitor.
-- [static-analysis](https://github.com/analysis-tools-dev/static-analysis)
-  - Static analysis tools for all programming languages, build tools, config files and more.
-- [stacks-blockchain](https://github.com/blockstack/stacks-blockchain)
-  - The Stacks 2.0 blockchain implementation
-- [tikv](https://github.com/tikv/tikv)
-  - Distributed transactional key-value database, originally created to complement TiDB
-- [tauri](https://github.com/tauri-apps/tauri)
-  - Build smaller, faster, and more secure desktop applications with a web frontend.
-- [tide](https://github.com/http-rs/tide)
-  - Fast and friendly HTTP server framework for async Rust
-- [ruffle](https://github.com/ruffle-rs/ruffle)
-  - A Flash Player emulator written in Rust
-- [cargo](https://github.com/rust-lang/cargo)
-  - The Rust package manager
-- [legion](https://github.com/TomGillen/legion)
-  - High performance Rust ECS library
 - [rustlings](https://github.com/rust-lang/rustlings)
   - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [delta](https://github.com/dandavison/delta)
-  - A viewer for git and diff output
-- [substrate](https://github.com/paritytech/substrate)
-  - Substrate: The platform for blockchain innovators
+- [scipio](https://github.com/DataDog/scipio)
+  - Scipio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [unimap](https://github.com/Edu4rdSHL/unimap)
+  - Scan only once by IP address and reduce scan times with Nmap for large amounts of data.
+- [WASI](https://github.com/WebAssembly/WASI)
+  - WebAssembly System Interface
+- [zola](https://github.com/getzola/zola)
+  - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+- [gluesql](https://github.com/gluesql/gluesql)
+  - GlueSQL is quite sticky, it attaches to anywhere.
+- [cxx](https://github.com/dtolnay/cxx)
+  - Safe interop between Rust and C++
+- [warp](https://github.com/seanmonstar/warp)
+  - A super-easy, composable, web server framework for warp speeds.
+- [tonic](https://github.com/hyperium/tonic)
+  - A native gRPC client & server implementation with async/await support.
+- [RustScan](https://github.com/RustScan/RustScan)
+  - Faster Nmap Scanning with Rust
+- [ytop](https://github.com/cjbassi/ytop)
+  - A TUI system monitor written in Rust
+- [ruffle](https://github.com/ruffle-rs/ruffle)
+  - A Flash Player emulator written in Rust
+- [findomain](https://github.com/Edu4rdSHL/findomain)
+  - The fastest and cross-platform subdomain enumerator, do not waste your time.
+- [tauri](https://github.com/tauri-apps/tauri)
+  - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
+- [bevy](https://github.com/bevyengine/bevy)
+  - A refreshingly simple data-driven game engine built in Rust
+- [librespot](https://github.com/librespot-org/librespot)
+  - Open Source Spotify client library
+- [servo](https://github.com/servo/servo)
+  - The Servo Browser Engine
+- [sled](https://github.com/spacejam/sled)
+  - the champagne of beta embedded databases
+- [amethyst](https://github.com/amethyst/amethyst)
+  - Data-oriented and data-driven game engine written in Rust
 - [RustPython](https://github.com/RustPython/RustPython)
   - A Python Interpreter written in Rust
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [vector](https://github.com/timberio/vector)
-  - A lightweight and ultra-fast binary for building observability pipelines
-- [nom](https://github.com/Geal/nom)
-  - Rust parser combinator framework
+- [openethereum](https://github.com/openethereum/openethereum)
+  - The fast, light, and robust client for Ethereum-like networks.
+- [examples](https://github.com/actix/examples)
+  - Actix web examples
+- [solana](https://github.com/solana-labs/solana)
+  - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
