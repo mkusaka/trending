@@ -1,49 +1,47 @@
 # general
-- [IBMYes](https://github.com/CCChieh/IBMYes) : Batchfile
+- [eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) : JavaScript
+  - A high performance blog template for the 11ty static site generator.
+- [linuxupskillchallenge](https://github.com/snori74/linuxupskillchallenge) : Shell
+  - Learn the skills required to sysadmin a remote Linux server from the commandline.
 - [a32nx](https://github.com/flybywiresim/a32nx) : JavaScript
   - The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.
 - [Server](https://github.com/PanDownloadServer/Server) : HTML
   - PanDownload的个人维护版本
-- [workflow](https://github.com/sogou/workflow) : C++
-  - Sogou framework for C++ backend development.
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) : Vue
-  - 👽 A free, fast and beautiful API request builder used by 75k+ developers. https://hoppscotch.io
-- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) : JavaScript
-  - Short JavaScript code snippets for all your development needs
-- [Ciphey](https://github.com/Ciphey/Ciphey) : Python
-  - Automatically decode encryptions without a key, decode encodings, and crack hashes
-- [Tasmota](https://github.com/arendst/Tasmota) : C
-  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
-- [autoscraper](https://github.com/alirezamika/autoscraper) : Python
-  - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
-- [Python-Essentials](https://github.com/LetsUpgrade/Python-Essentials) : Jupyter Notebook
-- [hivemind](https://github.com/learning-at-home/hivemind) : Python
-  - Decentralized deep learning framework in pytorch. Built to train models on thousands of volunteers across the world.
-- [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) : 
-  - Roadmap to becoming a data engineer in 2020
-- [deeplearning-models](https://github.com/rasbt/deeplearning-models) : Jupyter Notebook
-  - A collection of various deep learning architectures, models, and tips
-- [jdk](https://github.com/openjdk/jdk) : Java
-  - JDK main-line development
 - [croc](https://github.com/schollz/croc) : Go
   - Easily and securely send things from one computer to another 🐊 📦
-- [keras](https://github.com/keras-team/keras) : Python
-  - Deep Learning for humans
-- [18S191](https://github.com/mitmath/18S191) : HTML
-  - Course 18.S191 at MIT, fall 2020 - Introduction to computational thinking with Julia:
-- [100-nlp-papers](https://github.com/mhagiwara/100-nlp-papers) : 
-  - 100 Must-Read NLP Papers
-- [moon](https://github.com/kbrsh/moon) : JavaScript
-  - 🌙 The minimal & fast library for functional user interfaces
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
-  - 🤓 Build your own (insert technology here)
-- [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) : 
-  - A curated awesome list of lists of interview questions. Feel free to contribute! 🎓
-- [rustlings](https://github.com/rust-lang/rustlings) : Rust
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [ghcide](https://github.com/haskell/ghcide) : Haskell
-  - A library for building Haskell IDE tooling
+- [Tasmota](https://github.com/arendst/Tasmota) : C
+  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
+- [bitcoin](https://github.com/bitcoin/bitcoin) : C++
+  - Bitcoin Core integration/staging tree
+- [Ciphey](https://github.com/Ciphey/Ciphey) : Python
+  - ⚡ Automatically decrypt encryptions without a key, decode encodings, and crack hashes ⚡
+- [jdk](https://github.com/openjdk/jdk) : Java
+  - JDK main-line development
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) : JavaScript
+  - Short JavaScript code snippets for all your development needs
 - [awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) : 
   - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
+- [IBMYes](https://github.com/CCChieh/IBMYes) : Batchfile
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) : Vue
+  - 👽 A free, fast and beautiful API request builder used by 75k+ developers. https://hoppscotch.io
+- [E-commerce-Complete-Flutter-UI](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI) : Dart
+- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) : JavaScript
+  - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2020)
+- [talk](https://github.com/vasanthv/talk) : JavaScript
+  - A group video call for the web. No signups. No downloads.
+- [hivemind](https://github.com/learning-at-home/hivemind) : Python
+  - Decentralized deep learning framework in pytorch. Built to train models on thousands of volunteers across the world.
+- [autoscraper](https://github.com/alirezamika/autoscraper) : Python
+  - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
+- [free](https://github.com/du5/free) : 
+- [Python-Essentials](https://github.com/LetsUpgrade/Python-Essentials) : Jupyter Notebook
+- [Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) : 
+  - 👦 👧 Technical-Interview guidelines written for those who started studying programming. I wish you all the best. 👾
+- [Paper](https://github.com/PaperMC/Paper) : Shell
+  - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
 - [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) : Jupyter Notebook
   - This repository contains the source code for the paper First Order Motion Model for Image Animation
+- [awesome-flutter](https://github.com/Solido/awesome-flutter) : Dart
+  - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
+- [lede](https://github.com/coolsnowwolf/lede) : C
+  - Lean's OpenWrt source
