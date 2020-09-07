@@ -1,50 +1,50 @@
 # general
+- [sushiswap](https://github.com/sushiswap/sushiswap) : Solidity
+  - 🍣 SushiSwap smart contracts
+- [present](https://github.com/vinayak-mehta/present) : Python
+  - A terminal-based presentation tool with colors and effects.
+- [gorm](https://github.com/go-gorm/gorm) : Go
+  - The fantastic ORM library for Golang, aims to be developer friendly
+- [koronavilkku-android](https://github.com/THLfi/koronavilkku-android) : Kotlin
+- [Learn-Vim](https://github.com/iggredible/Learn-Vim) : 
+  - A book for learning the Vim editor the smart way.
+- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) : C++
+  - C++那些事
 - [compose-samples](https://github.com/android/compose-samples) : Kotlin
-- [fastbook](https://github.com/fastai/fastbook) : Jupyter Notebook
-  - Draft of the fastai book
-- [mall-swarm](https://github.com/macrozheng/mall-swarm) : Java
-  - mall-swarm是一套微服务商城系统，采用了 Spring Cloud Hoxton & Alibaba、Spring Boot 2.3、Oauth2、MyBatis、Docker、Elasticsearch等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。
-- [fastai](https://github.com/fastai/fastai) : Jupyter Notebook
-  - The fastai deep learning library, plus lessons and tutorials
-- [spring-authorization-server](https://github.com/spring-projects-experimental/spring-authorization-server) : Java
-  - A community-driven project led by the Spring Security team and is focused on delivering Authorization Server support to the Spring community
-- [element3](https://github.com/kkbjs/element3) : Vue
-  - (WIP)fork from ElemeFE/element ,A Vue.js 3.0 UI Toolkit for Web
-- [go-zero](https://github.com/tal-tech/go-zero) : Go
-  - go-zero是一个集成了各种工程实践的web和rpc框架。通过弹性设计保障了大并发服务端的稳定性，经受了充分的实战检验。包含极简的API定义和生成工具，可以一键生成Go, iOS, Android, Dart, TypeScript, JavaScript代码，并可直接运行。
-- [ent](https://github.com/facebook/ent) : Go
-  - An entity framework for Go
-- [aws-controllers-k8s](https://github.com/aws/aws-controllers-k8s) : Go
-  - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
-- [MeiliSearch](https://github.com/meilisearch/MeiliSearch) : Rust
-  - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
-- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) : JavaScript
-  - The ultimate Free Open Source Solution for team communications.
+  - Official Jetpack Compose samples.
 - [InfoSpider](https://github.com/kangvcar/InfoSpider) : Python
   - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
-- [computervision-recipes](https://github.com/microsoft/computervision-recipes) : Jupyter Notebook
-  - Best Practices, code samples, and documentation for Computer Vision.
-- [ts-migrate](https://github.com/airbnb/ts-migrate) : TypeScript
-  - A tool to help migrate JavaScript code quickly and conveniently to TypeScript
-- [Cloudreve](https://github.com/cloudreve/Cloudreve) : Go
-  - 🌩支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)
+- [go-zero](https://github.com/tal-tech/go-zero) : Go
+  - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
+- [uniswap-v2-core](https://github.com/Uniswap/uniswap-v2-core) : TypeScript
+  - 🎛 Core smart contracts of Uniswap V2
+- [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) : TypeScript
+  - An extension for VS Code that visualizes data during debugging.
+- [flink-learning](https://github.com/zhisheng17/flink-learning) : Java
+  - flink learning blog. http://www.flink-learning.com 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》
+- [DearPyGui](https://github.com/hoffstadt/DearPyGui) : C++
+  - DearPyGui: A GPU Accelerated Python GUI Framework
+- [learn-python3](https://github.com/jerry-git/learn-python3) : Python
+  - Jupyter notebooks for teaching/learning Python 3
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) : Vue
+  - 👽 A free, fast and beautiful API request builder used by 75k+ developers. https://hoppscotch.io
 - [element-plus](https://github.com/element-plus/element-plus) : Vue
-  - 🌈 A Vue.js 3.0 UI Library
-- [cpp-httplib](https://github.com/yhirose/cpp-httplib) : C++
-  - A C++ header-only HTTP/HTTPS server and client library
-- [packer](https://github.com/hashicorp/packer) : Go
-  - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-- [bevy](https://github.com/bevyengine/bevy) : Rust
-  - A refreshingly simple data-driven game engine built in Rust
-- [everyones-guide-for-starting-up-on-wechat-network](https://github.com/xiaolai/everyones-guide-for-starting-up-on-wechat-network) : 
-  - 微信互联网平民创业
-- [WLED](https://github.com/Aircoookie/WLED) : C++
-  - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
-- [discord.js](https://github.com/discordjs/discord.js) : JavaScript
-  - A powerful JavaScript library for interacting with the Discord API
-- [fastjson](https://github.com/alibaba/fastjson) : Java
-  - A fast JSON parser/generator for Java.
-- [shapez.io](https://github.com/tobspr/shapez.io) : JavaScript
-  - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
-- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
-  - Course Files for Complete Python 3 Bootcamp Course on Udemy
+  - 🎉 A Vue.js 3.0 UI Library
+- [livewire](https://github.com/livewire/livewire) : PHP
+  - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
+- [uniswap-interface](https://github.com/Uniswap/uniswap-interface) : TypeScript
+  - 🦄 An open source interface for the Uniswap protocol
+- [MeiliSearch](https://github.com/meilisearch/MeiliSearch) : Rust
+  - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
+- [ant-design-vue](https://github.com/vueComponent/ant-design-vue) : Vue
+  - 🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜
+- [jira_clone](https://github.com/oldboyxx/jira_clone) : JavaScript
+  - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
+- [gui.cs](https://github.com/migueldeicaza/gui.cs) : C#
+  - Console-based user interface toolkit for .NET applications.
+- [halo](https://github.com/halo-dev/halo) : Java
+  - ✍ An excellent open source blog publishing application. | 一个优秀的开源博客发布应用。
+- [a32nx](https://github.com/flybywiresim/a32nx) : JavaScript
+  - The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.
+- [portainer](https://github.com/portainer/portainer) : JavaScript
+  - Making Docker management easy.
