@@ -1,51 +1,51 @@
 # go
+- [gorm](https://github.com/go-gorm/gorm)
+  - The fantastic ORM library for Golang, aims to be developer friendly
 - [go-zero](https://github.com/tal-tech/go-zero)
-  - go-zero是一个集成了各种工程实践的web和rpc框架。通过弹性设计保障了大并发服务端的稳定性，经受了充分的实战检验。包含极简的API定义和生成工具，可以一键生成Go, iOS, Android, Dart, TypeScript, JavaScript代码，并可直接运行。
-- [ent](https://github.com/facebook/ent)
-  - An entity framework for Go
-- [aws-controllers-k8s](https://github.com/aws/aws-controllers-k8s)
-  - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
-- [Cloudreve](https://github.com/cloudreve/Cloudreve)
-  - 🌩支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)
-- [packer](https://github.com/hashicorp/packer)
-  - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-- [jaeger](https://github.com/jaegertracing/jaeger)
-  - CNCF Jaeger, a Distributed Tracing Platform
+  - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
+- [go-ethereum](https://github.com/ethereum/go-ethereum)
+  - Official Go implementation of the Ethereum protocol
 - [ultimate-go](https://github.com/hoanhan101/ultimate-go)
   - The Ultimate Go Study Guide
-- [traefik](https://github.com/containous/traefik)
-  - The Cloud Native Edge Router
-- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
-  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
-- [gotraining](https://github.com/ardanlabs/gotraining)
-  - Go Training Class Material :
-- [google-ctf](https://github.com/google/google-ctf)
-  - Google CTF
-- [go](https://github.com/golang/go)
-  - The Go programming language
-- [Amass](https://github.com/OWASP/Amass)
-  - In-depth Attack Surface Mapping and Asset Discovery
-- [cortex](https://github.com/cortexlabs/cortex)
-  - Build machine learning APIs
-- [kaniko](https://github.com/GoogleContainerTools/kaniko)
-  - Build Container Images In Kubernetes
-- [minio](https://github.com/minio/minio)
-  - High Performance, Kubernetes Native Object Storage
-- [thanos](https://github.com/thanos-io/thanos)
-  - Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.
-- [proxypool](https://github.com/zu1k/proxypool)
-  - 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表，每15分钟更新
+- [algorithm-pattern](https://github.com/greyireland/algorithm-pattern)
+  - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
+- [nuclei](https://github.com/projectdiscovery/nuclei)
+  - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
+- [ksubdomain](https://github.com/knownsec/ksubdomain)
+  - 无状态子域名爆破工具
+- [awesome-go](https://github.com/avelino/awesome-go)
+  - A curated list of awesome Go frameworks, libraries and software
+- [learn-go-with-tests](https://github.com/quii/learn-go-with-tests)
+  - Learn Go with test-driven development
+- [msfs2020-go](https://github.com/lian/msfs2020-go)
+  - connect to microsoft flight simulator 2020 using golang
+- [prometheus](https://github.com/prometheus/prometheus)
+  - The Prometheus monitoring system and time series database.
+- [community](https://github.com/istio/community)
+  - Istio governance material.
+- [helmfile](https://github.com/roboll/helmfile)
+  - Deploy Kubernetes Helm Charts
+- [7days-golang](https://github.com/geektutu/7days-golang)
+  - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc) 7天用Go动手写/从零实现系列
+- [argo-cd](https://github.com/argoproj/argo-cd)
+  - Declarative continuous deployment for Kubernetes.
 - [evilginx2](https://github.com/kgretzky/evilginx2)
   - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
-- [photoprism](https://github.com/photoprism/photoprism)
-  - Personal Photo Management powered by Go and Google TensorFlow
-- [terraform](https://github.com/hashicorp/terraform)
-  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [go-micro](https://github.com/micro/go-micro)
-  - A Go standard library for microservices
-- [gitea](https://github.com/go-gitea/gitea)
-  - Git with a cup of tea, painless self-hosted git service
-- [harbor](https://github.com/goharbor/harbor)
-  - An open source trusted cloud native registry project that stores, signs, and scans content.
-- [hugo](https://github.com/gohugoio/hugo)
-  - The world’s fastest framework for building websites.
+- [chromedp](https://github.com/chromedp/chromedp)
+  - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
+- [go](https://github.com/golang/go)
+  - The Go programming language
+- [opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector)
+  - OpenTelemetry Collector
+- [ffuf](https://github.com/ffuf/ffuf)
+  - Fast web fuzzer written in Go
+- [istio](https://github.com/istio/istio)
+  - Connect, secure, control, and observe services.
+- [k3s](https://github.com/rancher/k3s)
+  - Lightweight Kubernetes
+- [containerd](https://github.com/containerd/containerd)
+  - An open and reliable container runtime
+- [gospider](https://github.com/jaeles-project/gospider)
+  - Gospider - Fast web spider written in Go
+- [iris](https://github.com/kataras/iris)
+  - The fastest HTTP/2 Go Web Framework. AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |
