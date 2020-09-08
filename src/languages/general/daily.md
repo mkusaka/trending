@@ -1,47 +1,48 @@
 # general
-- [eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) : JavaScript
-  - A high performance blog template for the 11ty static site generator.
-- [linuxupskillchallenge](https://github.com/snori74/linuxupskillchallenge) : Shell
-  - Learn the skills required to sysadmin a remote Linux server from the commandline.
-- [a32nx](https://github.com/flybywiresim/a32nx) : JavaScript
-  - The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.
-- [Server](https://github.com/PanDownloadServer/Server) : HTML
-  - PanDownload的个人维护版本
-- [croc](https://github.com/schollz/croc) : Go
-  - Easily and securely send things from one computer to another 🐊 📦
-- [Tasmota](https://github.com/arendst/Tasmota) : C
-  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
-- [bitcoin](https://github.com/bitcoin/bitcoin) : C++
-  - Bitcoin Core integration/staging tree
-- [Ciphey](https://github.com/Ciphey/Ciphey) : Python
-  - ⚡ Automatically decrypt encryptions without a key, decode encodings, and crack hashes ⚡
 - [jdk](https://github.com/openjdk/jdk) : Java
   - JDK main-line development
-- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) : JavaScript
-  - Short JavaScript code snippets for all your development needs
+- [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) : C#
+  - Xamarin.Forms Official Home
+- [pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) : Python
+  - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
+- [sushiswap-frontend](https://github.com/sushiswap/sushiswap-frontend) : TypeScript
+- [croc](https://github.com/schollz/croc) : Go
+  - Easily and securely send things from one computer to another 🐊 📦
+- [bitcoin](https://github.com/bitcoin/bitcoin) : C++
+  - Bitcoin Core integration/staging tree
+- [ultimate-python](https://github.com/huangsam/ultimate-python) : Python
+  - Ultimate Python study guide for newcomers and professionals alike. 🐍 🐍 🐍
+- [eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) : JavaScript
+  - A high performance blog template for the 11ty static site generator.
+- [mml-book.github.io](https://github.com/mml-book/mml-book.github.io) : Jupyter Notebook
+  - Companion webpage to the book "Mathematics For Machine Learning"
+- [aes-finder](https://github.com/mmozeiko/aes-finder) : C++
+  - Utility to find AES keys in running processes
+- [applied-ml](https://github.com/eugeneyan/applied-ml) : 
+  - 📚 Papers & articles of companies sharing their work on applied data science & machine learning.
+- [DescomplicandoKubernetes](https://github.com/badtuxx/DescomplicandoKubernetes) : 
+- [linuxupskillchallenge](https://github.com/snori74/linuxupskillchallenge) : Shell
+  - Learn the skills required to sysadmin a remote Linux server from the commandline.
+- [computer-science](https://github.com/ossu/computer-science) : 
+  - 🎓 Path to a free self-taught education in Computer Science!
+- [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) : 
+  - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 - [awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) : 
   - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
-- [IBMYes](https://github.com/CCChieh/IBMYes) : Batchfile
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) : Vue
-  - 👽 A free, fast and beautiful API request builder used by 75k+ developers. https://hoppscotch.io
+- [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) : 
+  - 汇总各大互联网公司容易考察的高频leetcode题🔥
+- [a32nx](https://github.com/flybywiresim/a32nx) : JavaScript
+  - The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.
 - [E-commerce-Complete-Flutter-UI](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI) : Dart
-- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) : JavaScript
-  - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2020)
-- [talk](https://github.com/vasanthv/talk) : JavaScript
-  - A group video call for the web. No signups. No downloads.
-- [hivemind](https://github.com/learning-at-home/hivemind) : Python
-  - Decentralized deep learning framework in pytorch. Built to train models on thousands of volunteers across the world.
-- [autoscraper](https://github.com/alirezamika/autoscraper) : Python
-  - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
-- [free](https://github.com/du5/free) : 
-- [Python-Essentials](https://github.com/LetsUpgrade/Python-Essentials) : Jupyter Notebook
-- [Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) : 
-  - 👦 👧 Technical-Interview guidelines written for those who started studying programming. I wish you all the best. 👾
-- [Paper](https://github.com/PaperMC/Paper) : Shell
-  - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
-- [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) : Jupyter Notebook
-  - This repository contains the source code for the paper First Order Motion Model for Image Animation
-- [awesome-flutter](https://github.com/Solido/awesome-flutter) : Dart
-  - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-- [lede](https://github.com/coolsnowwolf/lede) : C
-  - Lean's OpenWrt source
+- [GRAT2](https://github.com/r3nhat/GRAT2) : C#
+  - We developed GRAT2 Command & Control (C2) project for learning purpose.
+- [diagrams](https://github.com/mingrammer/diagrams) : Python
+  - 🎨 Diagram as Code for prototyping cloud system architectures
+- [funNLP](https://github.com/fighting41love/funNLP) : Python
+  - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…
+- [frp](https://github.com/fatedier/frp) : Go
+  - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+- [Algorithms](https://github.com/williamfiset/Algorithms) : Java
+  - A collection of algorithms and data structures
+- [moon](https://github.com/kbrsh/moon) : JavaScript
+  - 🌙 The minimal & fast library for functional user interfaces
