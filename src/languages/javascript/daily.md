@@ -3,49 +3,49 @@
   - A high performance blog template for the 11ty static site generator.
 - [a32nx](https://github.com/flybywiresim/a32nx)
   - The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.
-- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
-  - Short JavaScript code snippets for all your development needs
-- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
-  - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2020)
-- [talk](https://github.com/vasanthv/talk)
-  - A group video call for the web. No signups. No downloads.
-- [uBlock](https://github.com/gorhill/uBlock)
-  - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-  - 🛁 Clean Code concepts adapted for JavaScript
 - [moon](https://github.com/kbrsh/moon)
   - 🌙 The minimal & fast library for functional user interfaces
-- [gbajs2](https://github.com/andychase/gbajs2)
-  - gbajs2 is a Game Boy Advance emulator written in Javascript from scratch using HTML5 technologies like Canvas and Web Audio. It is freely licensed and works in any modern browser without plugins.
-- [gatsby-woocommerce-themes](https://github.com/imranhsayed/gatsby-woocommerce-themes)
-  - A Gatsby Theme for WooCommerce E-commerce site Gatsby WooCommerce WordPress
-- [create-react-app](https://github.com/facebook/create-react-app)
-  - Set up a modern web app by running one command.
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
-- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
-  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [stackoverflow-clone](https://github.com/salihozdemir/stackoverflow-clone)
-  - This project is a simplified a full stack clone of Stackoverflow.
-- [functions-samples](https://github.com/firebase/functions-samples)
-  - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase
-- [eleventy](https://github.com/11ty/eleventy)
-  - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
-- [bootstrap](https://github.com/twbs/bootstrap)
-  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [webogram](https://github.com/zhukov/webogram)
-  - Telegram web application, GPL v3
-- [Face-Detection-JavaScript](https://github.com/WebDevSimplified/Face-Detection-JavaScript)
-  - 
+- [leetcode](https://github.com/azl397985856/leetcode)
+  - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+- [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
+  - a vue2.0 minimal admin template
+- [joplin](https://github.com/laurent22/joplin)
+  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [next.js](https://github.com/vercel/next.js)
   - The React Framework
-- [web3.js](https://github.com/ethereum/web3.js)
-  - Ethereum JavaScript API
-- [discord.js](https://github.com/discordjs/discord.js)
-  - A powerful JavaScript library for interacting with the Discord API
-- [shields](https://github.com/badges/shields)
-  - Concise, consistent, and legible badges in SVG and raster format
-- [scripts](https://github.com/lxk0301/scripts)
-  - 京东薅羊毛工具（活动入口：京东app->我的->游戏与互动->查看更多）
-- [redash](https://github.com/getredash/redash)
-  - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
+  - Starter files, final projects and FAQ for my Complete JavaScript course
+- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
+  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+- [brain.js](https://github.com/BrainJS/brain.js)
+  - 🤖 Neural networks in JavaScript
+- [talk](https://github.com/vasanthv/talk)
+  - A group video call for the web. No signups. No downloads.
+- [junior-recruit-scheduler](https://github.com/jojoldu/junior-recruit-scheduler)
+  - 주니어 개발자 채용 정보
+- [Recoil](https://github.com/facebookexperimental/Recoil)
+  - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
+- [duofolio](https://github.com/farshed/duofolio)
+  - A simple ebook reader that helps you learn languages 📖
+- [react-native-calendars](https://github.com/wix/react-native-calendars)
+  - React Native Calendar Components 🗓️ 📆
+- [apexcharts.js](https://github.com/apexcharts/apexcharts.js)
+  - 📊 Interactive JavaScript Charts built on SVG
+- [vant](https://github.com/youzan/vant)
+  - Lightweight Mobile UI Components built on Vue
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
+  - Short JavaScript code snippets for all your development needs
+- [vue-cli](https://github.com/vuejs/vue-cli)
+  - 🛠️ Standard Tooling for Vue.js Development
+- [airbnb-clone](https://github.com/CleverProgrammer/airbnb-clone)
+  - Building the AIRBNB Clone app with REACT JS!
+- [amis-admin](https://github.com/fex-team/amis-admin)
+  - 基于 amis 的后台项目前端模板
+- [dva](https://github.com/dvajs/dva)
+  - 🌱 React and redux based, lightweight and elm-style framework. (Inspired by elm and choo)
+- [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  - A tool to generate your github summary card for profile README
+- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+- [ethereumbook](https://github.com/ethereumbook/ethereumbook)
+  - Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
