@@ -1,48 +1,48 @@
 # general
-- [jdk](https://github.com/openjdk/jdk) : Java
-  - JDK main-line development
-- [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) : C#
-  - Xamarin.Forms Official Home
-- [pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) : Python
-  - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
-- [sushiswap-frontend](https://github.com/sushiswap/sushiswap-frontend) : TypeScript
-- [croc](https://github.com/schollz/croc) : Go
-  - Easily and securely send things from one computer to another 🐊 📦
-- [bitcoin](https://github.com/bitcoin/bitcoin) : C++
-  - Bitcoin Core integration/staging tree
-- [ultimate-python](https://github.com/huangsam/ultimate-python) : Python
-  - Ultimate Python study guide for newcomers and professionals alike. 🐍 🐍 🐍
+- [react-portfolio](https://github.com/CleverProgrammers/react-portfolio) : JavaScript
 - [eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) : JavaScript
   - A high performance blog template for the 11ty static site generator.
-- [mml-book.github.io](https://github.com/mml-book/mml-book.github.io) : Jupyter Notebook
-  - Companion webpage to the book "Mathematics For Machine Learning"
-- [aes-finder](https://github.com/mmozeiko/aes-finder) : C++
-  - Utility to find AES keys in running processes
-- [applied-ml](https://github.com/eugeneyan/applied-ml) : 
-  - 📚 Papers & articles of companies sharing their work on applied data science & machine learning.
-- [DescomplicandoKubernetes](https://github.com/badtuxx/DescomplicandoKubernetes) : 
-- [linuxupskillchallenge](https://github.com/snori74/linuxupskillchallenge) : Shell
-  - Learn the skills required to sysadmin a remote Linux server from the commandline.
-- [computer-science](https://github.com/ossu/computer-science) : 
-  - 🎓 Path to a free self-taught education in Computer Science!
-- [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) : 
-  - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
-- [awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) : 
-  - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
-- [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) : 
-  - 汇总各大互联网公司容易考察的高频leetcode题🔥
-- [a32nx](https://github.com/flybywiresim/a32nx) : JavaScript
-  - The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.
-- [E-commerce-Complete-Flutter-UI](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI) : Dart
-- [GRAT2](https://github.com/r3nhat/GRAT2) : C#
-  - We developed GRAT2 Command & Control (C2) project for learning purpose.
+- [jdk](https://github.com/openjdk/jdk) : Java
+  - JDK main-line development
+- [sushiswap-frontend](https://github.com/sushiswap/sushiswap-frontend) : TypeScript
 - [diagrams](https://github.com/mingrammer/diagrams) : Python
   - 🎨 Diagram as Code for prototyping cloud system architectures
-- [funNLP](https://github.com/fighting41love/funNLP) : Python
-  - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…
-- [frp](https://github.com/fatedier/frp) : Go
-  - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+- [mml-book.github.io](https://github.com/mml-book/mml-book.github.io) : Jupyter Notebook
+  - Companion webpage to the book "Mathematics For Machine Learning"
 - [Algorithms](https://github.com/williamfiset/Algorithms) : Java
   - A collection of algorithms and data structures
-- [moon](https://github.com/kbrsh/moon) : JavaScript
-  - 🌙 The minimal & fast library for functional user interfaces
+- [applied-ml](https://github.com/eugeneyan/applied-ml) : 
+  - 📚 Papers & articles of companies sharing their work on applied data science & machine learning.
+- [ESP32-WiFi-Hash-Monster](https://github.com/G4lile0/ESP32-WiFi-Hash-Monster) : C
+  - WiFi Hash Purple Monster, store EAPOL & PMKID packets in an SD CARD using a M5STACK / ESP32 device
+- [croc](https://github.com/schollz/croc) : Go
+  - Easily and securely send things from one computer to another 🐊 📦
+- [Server](https://github.com/PanDownloadServer/Server) : HTML
+  - PanDownload的个人维护版本
+- [pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) : Python
+  - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
+- [cim](https://github.com/crossoverJie/cim) : Java
+  - 📲cim(cross IM) 适用于开发者的分布式即时通讯系统
+- [awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) : 
+  - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
+- [IBMVPS](https://github.com/bigfangfang/IBMVPS) : Batchfile
+  - 大方bigfangYouTube频道：https://bit.ly/332QGCa TG：@bigfangfang TG群：https://t.me/dafangbigfang
+- [onnxruntime](https://github.com/microsoft/onnxruntime) : C++
+  - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
+- [scikit-learn](https://github.com/scikit-learn/scikit-learn) : Python
+  - scikit-learn: machine learning in Python
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
+  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
+- [laravel](https://github.com/laravel/laravel) : PHP
+  - A PHP framework for web artisans
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) : 
+  - A book series on JavaScript. @YDKJS on twitter.
+- [linuxupskillchallenge](https://github.com/snori74/linuxupskillchallenge) : Shell
+  - Learn the skills required to sysadmin a remote Linux server from the commandline.
+- [Yolo-Fastest](https://github.com/dog-qiuqiu/Yolo-Fastest) : C
+  - ⚡ Yolo universal target detection model combined with EfficientNet-lite, the calculation amount is only 230Mflops(0.23Bflops), and the model size is 1.3MB
+- [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) : 
+  - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
+- [livewire](https://github.com/livewire/livewire) : PHP
+  - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
+- [E-commerce-Complete-Flutter-UI](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI) : Dart
