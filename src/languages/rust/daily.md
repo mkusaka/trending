@@ -1,51 +1,51 @@
 # rust
-- [rune](https://github.com/rune-rs/rune)
-  - An embeddable dynamic programming language for Rust.
-- [rustlings](https://github.com/rust-lang/rustlings)
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [tonic](https://github.com/hyperium/tonic)
-  - A native gRPC client & server implementation with async/await support.
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
-- [crates.io](https://github.com/rust-lang/crates.io)
-  - Source code for crates.io
-- [ruffle](https://github.com/ruffle-rs/ruffle)
-  - A Flash Player emulator written in Rust
-- [quiche](https://github.com/cloudflare/quiche)
-  - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
-- [WASI](https://github.com/WebAssembly/WASI)
-  - WebAssembly System Interface
-- [solana](https://github.com/solana-labs/solana)
-  - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-- [gleam](https://github.com/gleam-lang/gleam)
-  - ⭐️ A statically typed language for the Erlang VM
-- [legion](https://github.com/amethyst/legion)
-  - High performance Rust ECS library
-- [amethyst](https://github.com/amethyst/amethyst)
-  - Data-oriented and data-driven game engine written in Rust
-- [vector](https://github.com/timberio/vector)
-  - A lightweight and ultra-fast binary for building observability pipelines
-- [zola](https://github.com/getzola/zola)
-  - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [static-analysis](https://github.com/analysis-tools-dev/static-analysis)
-  - Static analysis tools for all programming languages, build tools, config files and more.
-- [serde](https://github.com/serde-rs/serde)
-  - Serialization framework for Rust
-- [substrate](https://github.com/paritytech/substrate)
-  - Substrate: The platform for blockchain innovators
+- [ac-library-rs](https://github.com/rust-lang-ja/ac-library-rs)
+  - 
+- [juniper](https://github.com/graphql-rust/juniper)
+  - GraphQL server library for Rust
 - [swc](https://github.com/swc-project/swc)
   - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
+- [keybrain](https://github.com/cbiffle/keybrain)
+  - Drop-in replacement controller for WASD CODE v2B keyboard
+- [clap](https://github.com/clap-rs/clap)
+  - A full featured, fast Command Line Argument Parser for Rust
+- [examples](https://github.com/actix/examples)
+  - Examples of Actix ecosystem usage.
+- [tui-rs](https://github.com/fdehau/tui-rs)
+  - Build terminal user interfaces and dashboards using Rust
+- [rune](https://github.com/rune-rs/rune)
+  - An embeddable dynamic programming language for Rust.
+- [ruffle](https://github.com/ruffle-rs/ruffle)
+  - A Flash Player emulator written in Rust
+- [gleam](https://github.com/gleam-lang/gleam)
+  - ⭐️ A statically typed language for the Erlang VM
+- [hsrsh](https://github.com/dustyfresh/hsrsh)
+  - This was a quickly written tool for demonstrating a reverse shell over a hidden service all in one binary and an excuse to play with Rust and solely for educational purposes.
 - [sonic](https://github.com/valeriansaliou/sonic)
   - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
-- [halo2](https://github.com/zcash/halo2)
-  - 
-- [bevy](https://github.com/bevyengine/bevy)
-  - A refreshingly simple data-driven game engine built in Rust
+- [wasmtime](https://github.com/bytecodealliance/wasmtime)
+  - Standalone JIT-style runtime for WebAssembly, using Cranelift
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
+- [serde](https://github.com/serde-rs/serde)
+  - Serialization framework for Rust
+- [vector](https://github.com/timberio/vector)
+  - A lightweight and ultra-fast binary for building observability pipelines
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim)
+  - Language Server Protocol (LSP) support for vim and neovim.
+- [WASI](https://github.com/WebAssembly/WASI)
+  - WebAssembly System Interface
+- [tauri](https://github.com/tauri-apps/tauri)
+  - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [lemmy](https://github.com/LemmyNet/lemmy)
   - 🐀 Building a federated alternative to reddit in rust
-- [Rocket](https://github.com/SergioBenitez/Rocket)
-  - A web framework for Rust.
+- [amethyst](https://github.com/amethyst/amethyst)
+  - Data-oriented and data-driven game engine written in Rust
+- [legion](https://github.com/amethyst/legion)
+  - High performance Rust ECS library
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [filecoin-ffi](https://github.com/filecoin-project/filecoin-ffi)
+  - C and CGO bindings for Filecoin's Rust libraries
