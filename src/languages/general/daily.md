@@ -1,48 +1,49 @@
 # general
-- [react-portfolio](https://github.com/CleverProgrammers/react-portfolio) : JavaScript
-- [eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) : JavaScript
-  - A high performance blog template for the 11ty static site generator.
-- [jdk](https://github.com/openjdk/jdk) : Java
-  - JDK main-line development
-- [sushiswap-frontend](https://github.com/sushiswap/sushiswap-frontend) : TypeScript
-- [diagrams](https://github.com/mingrammer/diagrams) : Python
-  - 🎨 Diagram as Code for prototyping cloud system architectures
-- [mml-book.github.io](https://github.com/mml-book/mml-book.github.io) : Jupyter Notebook
-  - Companion webpage to the book "Mathematics For Machine Learning"
-- [Algorithms](https://github.com/williamfiset/Algorithms) : Java
-  - A collection of algorithms and data structures
-- [applied-ml](https://github.com/eugeneyan/applied-ml) : 
-  - 📚 Papers & articles of companies sharing their work on applied data science & machine learning.
-- [ESP32-WiFi-Hash-Monster](https://github.com/G4lile0/ESP32-WiFi-Hash-Monster) : C
-  - WiFi Hash Purple Monster, store EAPOL & PMKID packets in an SD CARD using a M5STACK / ESP32 device
-- [croc](https://github.com/schollz/croc) : Go
-  - Easily and securely send things from one computer to another 🐊 📦
-- [Server](https://github.com/PanDownloadServer/Server) : HTML
-  - PanDownload的个人维护版本
-- [pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) : Python
-  - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
-- [cim](https://github.com/crossoverJie/cim) : Java
-  - 📲cim(cross IM) 适用于开发者的分布式即时通讯系统
-- [awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) : 
-  - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
-- [IBMVPS](https://github.com/bigfangfang/IBMVPS) : Batchfile
-  - 大方bigfangYouTube频道：https://bit.ly/332QGCa TG：@bigfangfang TG群：https://t.me/dafangbigfang
+- [connectedhomeip](https://github.com/project-chip/connectedhomeip) : C++
+  - Project Connected Home over IP is a new Working Group within the Zigbee Alliance. This Working Group plans to develop and promote the adoption of a new connectivity standard to increase compatibility among smart home products, with security as a fundamental design tenet.
 - [onnxruntime](https://github.com/microsoft/onnxruntime) : C++
   - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
-- [scikit-learn](https://github.com/scikit-learn/scikit-learn) : Python
-  - scikit-learn: machine learning in Python
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
-  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
-- [laravel](https://github.com/laravel/laravel) : PHP
-  - A PHP framework for web artisans
+- [eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) : JavaScript
+  - A high performance blog template for the 11ty static site generator.
+- [yfbeta.finance](https://github.com/yfbeta/yfbeta.finance) : Solidity
+- [diagrams](https://github.com/mingrammer/diagrams) : Python
+  - 🎨 Diagram as Code for prototyping cloud system architectures
+- [applied-ml](https://github.com/eugeneyan/applied-ml) : 
+  - 📚 Papers of companies sharing their work on applied data science & machine learning.
+- [cim](https://github.com/crossoverJie/cim) : Java
+  - 📲cim(cross IM) 适用于开发者的分布式即时通讯系统
+- [awesome-react](https://github.com/enaqx/awesome-react) : 
+  - A collection of awesome things regarding React ecosystem
+- [cli](https://github.com/cli/cli) : Go
+  - GitHub’s official command line tool
+- [ultimate-python](https://github.com/huangsam/ultimate-python) : Python
+  - Ultimate Python study guide for newcomers and professionals alike. 🐍 🐍 🐍
+- [hwp.js](https://github.com/hahnlee/hwp.js) : TypeScript
+  - Open source hwp viewer and parser library powered by web technology
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) : 
   - A book series on JavaScript. @YDKJS on twitter.
-- [linuxupskillchallenge](https://github.com/snori74/linuxupskillchallenge) : Shell
-  - Learn the skills required to sysadmin a remote Linux server from the commandline.
-- [Yolo-Fastest](https://github.com/dog-qiuqiu/Yolo-Fastest) : C
-  - ⚡ Yolo universal target detection model combined with EfficientNet-lite, the calculation amount is only 230Mflops(0.23Bflops), and the model size is 1.3MB
+- [Algorithms](https://github.com/williamfiset/Algorithms) : Java
+  - A collection of algorithms and data structures
+- [zipline](https://github.com/quantopian/zipline) : Python
+  - Zipline, a Pythonic Algorithmic Trading Library
+- [ZY-Player](https://github.com/Hunlongyu/ZY-Player) : Vue
+  - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
 - [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) : 
   - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
-- [livewire](https://github.com/livewire/livewire) : PHP
-  - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
-- [E-commerce-Complete-Flutter-UI](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI) : Dart
+- [machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) : Jupyter Notebook
+  - Code and resources for Machine Learning for Algorithmic Trading, 2nd edition.
+- [croc](https://github.com/schollz/croc) : Go
+  - Easily and securely send things from one computer to another 🐊 📦
+- [jetstream](https://github.com/laravel/jetstream) : PHP
+- [cockroach](https://github.com/cockroachdb/cockroach) : Go
+  - CockroachDB - the open source, cloud-native distributed SQL database.
+- [IBMVPS](https://github.com/bigfangfang/IBMVPS) : Batchfile
+  - 大方bigfangYouTube频道：https://bit.ly/332QGCa TG：@bigfangfang TG群：https://t.me/dafangbigfang
+- [solana](https://github.com/solana-labs/solana) : Rust
+  - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+- [PowerShell](https://github.com/PowerShell/PowerShell) : C#
+  - PowerShell for every system!
+- [azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) : Python
+  - This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.
+- [laravel](https://github.com/laravel/laravel) : PHP
+  - A PHP framework for web artisans
