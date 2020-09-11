@@ -1,51 +1,51 @@
 # javascript
+- [react-challenge-amazon-clone](https://github.com/CleverProgrammers/react-challenge-amazon-clone)
+  - 
+- [nuxt.js](https://github.com/nuxt/nuxt.js)
+  - The Intuitive Vue Framework
+- [minecraft-react](https://github.com/satansdeer/minecraft-react)
+  - 
 - [eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog)
   - A high performance blog template for the 11ty static site generator.
-- [jira_clone](https://github.com/oldboyxx/jira_clone)
-  - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
-- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
-  - The ultimate Free Open Source Solution for team communications.
-- [fe-interview](https://github.com/haizlin/fe-interview)
-  - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），3000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-  - 🛁 Clean Code concepts adapted for JavaScript
 - [material-ui](https://github.com/mui-org/material-ui)
   - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [javascript](https://github.com/airbnb/javascript)
-  - JavaScript Style Guide
-- [shaka-player](https://github.com/google/shaka-player)
-  - JavaScript player library / DASH & HLS client / MSE-EME player
 - [yargs](https://github.com/yargs/yargs)
   - yargs the modern, pirate-themed successor to optimist.
-- [Discord-Datamining](https://github.com/DJScias/Discord-Datamining)
-  - Datamining Discord changes from the js files
-- [video.js](https://github.com/videojs/video.js)
-  - Video.js - open source HTML5 & Flash video player
-- [formio.js](https://github.com/formio/formio.js)
-  - JavaScript powered Forms with JSON Form Builder
-- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification)
-  - The OpenAPI Specification Repository
-- [react-player](https://github.com/CookPete/react-player)
-  - A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
-- [lerna](https://github.com/lerna/lerna)
-  - 🐉 A tool for managing JavaScript projects with multiple packages.
-- [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
-  - 📜 33 concepts every JavaScript developer should know.
-- [botframework-sdk](https://github.com/microsoft/botframework-sdk)
-  - Bot Framework provides the most comprehensive experience for building conversation applications.
+- [fabric.js](https://github.com/fabricjs/fabric.js)
+  - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
+- [workbox](https://github.com/GoogleChrome/workbox)
+  - 📦 Workbox: JavaScript libraries for Progressive Web Apps
 - [react](https://github.com/facebook/react)
   - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [Inputmask](https://github.com/RobinHerbots/Inputmask)
-  - Input Mask plugin
-- [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
-  - A WhatsApp client library for javascript that connects through the WhatsApp Web browser app
-- [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
-  - Microsoft Authentication Library (MSAL) for JS
-- [FileSaver.js](https://github.com/eligrey/FileSaver.js)
-  - An HTML5 saveAs() FileSaver implementation
-- [exceljs](https://github.com/exceljs/exceljs)
-  - Excel Workbook Manager
-- [atom](https://github.com/atom/atom)
-  - The hackable text editor
-- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
-  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+- [react-flip-move](https://github.com/joshwcomeau/react-flip-move)
+  - Effortless animation between DOM changes (eg. list reordering) using the FLIP technique.
+- [create-release](https://github.com/actions/create-release)
+  - An Action to create releases via the GitHub Release API
+- [bigbluebutton](https://github.com/bigbluebutton/bigbluebutton)
+  - Complete open source web conferencing system.
+- [vue-test-utils](https://github.com/vuejs/vue-test-utils)
+  - 🔬 Utilities for testing Vue components
+- [hubs](https://github.com/mozilla/hubs)
+  - Duck-themed multi-user virtual spaces in WebVR. Built with A-Frame.
+- [three.js](https://github.com/mrdoob/three.js)
+  - JavaScript 3D library.
+- [strapi](https://github.com/strapi/strapi)
+  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [cropperjs](https://github.com/fengyuanchen/cropperjs)
+  - JavaScript image cropper.
+- [fe-interview](https://github.com/haizlin/fe-interview)
+  - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），3000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
+- [jszip](https://github.com/Stuk/jszip)
+  - Create, read and edit .zip files with Javascript
+- [shaka-player](https://github.com/google/shaka-player)
+  - JavaScript player library / DASH & HLS client / MSE-EME player
+- [highlight.js](https://github.com/highlightjs/highlight.js)
+  - Javascript syntax highlighter
+- [BetterDiscordApp](https://github.com/rauenzi/BetterDiscordApp)
+  - Better Discord App enhances Discord desktop app with new features.
+- [winston](https://github.com/winstonjs/winston)
+  - A logger for just about everything.
+- [LazyStudy](https://github.com/lolisaikou/LazyStudy)
+  - 
+- [aws-sdk-js](https://github.com/aws/aws-sdk-js)
+  - AWS SDK for JavaScript in the browser and Node.js

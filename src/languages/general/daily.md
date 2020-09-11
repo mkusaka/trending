@@ -1,49 +1,48 @@
 # general
-- [connectedhomeip](https://github.com/project-chip/connectedhomeip) : C++
-  - Project Connected Home over IP is a new Working Group within the Zigbee Alliance. This Working Group plans to develop and promote the adoption of a new connectivity standard to increase compatibility among smart home products, with security as a fundamental design tenet.
 - [onnxruntime](https://github.com/microsoft/onnxruntime) : C++
   - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
-- [eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) : JavaScript
-  - A high performance blog template for the 11ty static site generator.
-- [yfbeta.finance](https://github.com/yfbeta/yfbeta.finance) : Solidity
-- [diagrams](https://github.com/mingrammer/diagrams) : Python
-  - 🎨 Diagram as Code for prototyping cloud system architectures
-- [applied-ml](https://github.com/eugeneyan/applied-ml) : 
-  - 📚 Papers of companies sharing their work on applied data science & machine learning.
-- [cim](https://github.com/crossoverJie/cim) : Java
-  - 📲cim(cross IM) 适用于开发者的分布式即时通讯系统
-- [awesome-react](https://github.com/enaqx/awesome-react) : 
-  - A collection of awesome things regarding React ecosystem
-- [cli](https://github.com/cli/cli) : Go
-  - GitHub’s official command line tool
-- [ultimate-python](https://github.com/huangsam/ultimate-python) : Python
-  - Ultimate Python study guide for newcomers and professionals alike. 🐍 🐍 🐍
-- [hwp.js](https://github.com/hahnlee/hwp.js) : TypeScript
-  - Open source hwp viewer and parser library powered by web technology
-- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) : 
-  - A book series on JavaScript. @YDKJS on twitter.
-- [Algorithms](https://github.com/williamfiset/Algorithms) : Java
-  - A collection of algorithms and data structures
-- [zipline](https://github.com/quantopian/zipline) : Python
-  - Zipline, a Pythonic Algorithmic Trading Library
-- [ZY-Player](https://github.com/Hunlongyu/ZY-Player) : Vue
-  - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
-- [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) : 
-  - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
-- [machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) : Jupyter Notebook
-  - Code and resources for Machine Learning for Algorithmic Trading, 2nd edition.
-- [croc](https://github.com/schollz/croc) : Go
-  - Easily and securely send things from one computer to another 🐊 📦
-- [jetstream](https://github.com/laravel/jetstream) : PHP
-- [cockroach](https://github.com/cockroachdb/cockroach) : Go
-  - CockroachDB - the open source, cloud-native distributed SQL database.
-- [IBMVPS](https://github.com/bigfangfang/IBMVPS) : Batchfile
-  - 大方bigfangYouTube频道：https://bit.ly/332QGCa TG：@bigfangfang TG群：https://t.me/dafangbigfang
-- [solana](https://github.com/solana-labs/solana) : Rust
-  - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-- [PowerShell](https://github.com/PowerShell/PowerShell) : C#
-  - PowerShell for every system!
+- [react-challenge-amazon-clone](https://github.com/CleverProgrammers/react-challenge-amazon-clone) : JavaScript
+- [radar-covid-android](https://github.com/RadarCOVID/radar-covid-android) : Kotlin
+  - Native Android app using DP^3T Android sdk to handle Exposure Notifications API from Google
+- [nuxt.js](https://github.com/nuxt/nuxt.js) : JavaScript
+  - The Intuitive Vue Framework
+- [radar-covid-ios](https://github.com/RadarCOVID/radar-covid-ios) : Swift
+  - Native iOS app using DP^3T iOS sdk to handle Exposure Notification framework from Apple
+- [connectedhomeip](https://github.com/project-chip/connectedhomeip) : C++
+  - Project Connected Home over IP is a new Working Group within the Zigbee Alliance. This Working Group plans to develop and promote the adoption of a new connectivity standard to increase compatibility among smart home products, with security as a fundamental design tenet.
+- [radar-covid-backend-verification-server](https://github.com/RadarCOVID/radar-covid-backend-verification-server) : Java
+  - Radar COVID Verification Service
 - [azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) : Python
   - This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.
-- [laravel](https://github.com/laravel/laravel) : PHP
-  - A PHP framework for web artisans
+- [eiten](https://github.com/tradytics/eiten) : Python
+  - Statistical and Algorithmic Investing Strategies for Everyone
+- [radar-covid-backend-dp3t-server](https://github.com/RadarCOVID/radar-covid-backend-dp3t-server) : Java
+  - DP^3T Radar COVID fork
+- [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) : C
+  - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
+- [diagrams](https://github.com/mingrammer/diagrams) : Python
+  - 🎨 Diagram as Code for prototyping cloud system architectures
+- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) : 
+  - ⚡ Delightful Node.js packages and resources
+- [ZY-Player](https://github.com/Hunlongyu/ZY-Player) : Vue
+  - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
+- [mem-doc](https://github.com/Maoni0/mem-doc) : 
+  - This is a document to help with .NET memory analysis and diagnostics.
+- [minecraft-react](https://github.com/satansdeer/minecraft-react) : JavaScript
+- [wirehole](https://github.com/IAmStoxe/wirehole) : 
+- [IBMVPS](https://github.com/bigfangfang/IBMVPS) : Batchfile
+  - 大方bigfangYouTube频道：https://bit.ly/332QGCa TG：@bigfangfang TG群：https://t.me/dafangbigfang
+- [FluidFramework](https://github.com/microsoft/FluidFramework) : TypeScript
+  - Library for building distributed, real-time collaborative web applications
+- [learning](https://github.com/amitness/learning) : 
+  - Becoming 1% better at data science everyday
+- [helm-charts](https://github.com/prometheus-community/helm-charts) : HTML
+  - Prometheus community Helm charts
+- [PowerShell](https://github.com/PowerShell/PowerShell) : C#
+  - PowerShell for every system!
+- [v2ray-heroku](https://github.com/bclswl0827/v2ray-heroku) : Shell
+  - 用于在 Heroku 上部署 V2Ray Websocket，本项目不宜做为长期使用之对策。
+- [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) : 
+  - The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
+- [angular](https://github.com/angular/angular) : TypeScript
+  - One framework. Mobile & desktop.
