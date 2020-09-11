@@ -1,51 +1,51 @@
 # ruby
+- [huginn](https://github.com/huginn/huginn)
+  - Create agents that monitor and act on your behalf. Your agents are standing by!
 - [rubocop](https://github.com/rubocop-hq/rubocop)
   - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [rails](https://github.com/rails/rails)
-  - Ruby on Rails
+- [forem](https://github.com/forem/forem)
+  - For empowering community 🌱
+- [homebrew-core](https://github.com/Homebrew/homebrew-core)
+  - 🍻 Default formulae for the missing package manager for macOS
+- [react-native-config](https://github.com/luggit/react-native-config)
+  - Bring some 12 factor love to your mobile apps!
+- [sidekiq](https://github.com/mperham/sidekiq)
+  - Simple, efficient background processing for Ruby
+- [kaminari](https://github.com/kaminari/kaminari)
+  - ⚡ A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps
+- [sinatra](https://github.com/sinatra/sinatra)
+  - Classy web-development dressed in a DSL (official / canonical repo)
+- [logstash](https://github.com/elastic/logstash)
+  - Logstash - transport and process your logs, events, or other data
+- [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews)
+  - Data science interview questions and answers
+- [fluentd](https://github.com/fluent/fluentd)
+  - Fluentd: Unified Logging Layer (project under CNCF)
+- [linuxbrew-core](https://github.com/Homebrew/linuxbrew-core)
+  - 🍻🐧 Core formulae for the Homebrew package manager on Linux
 - [devise](https://github.com/heartcombo/devise)
   - Flexible authentication solution for Rails with Warden.
 - [fastlane](https://github.com/fastlane/fastlane)
   - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [fluentd](https://github.com/fluent/fluentd)
-  - Fluentd: Unified Logging Layer (project under CNCF)
-- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-- [simple_form](https://github.com/heartcombo/simple_form)
-  - Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
-- [sidekiq](https://github.com/mperham/sidekiq)
-  - Simple, efficient background processing for Ruby
-- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
-  - The Cocoa Dependency Manager.
-- [inspec](https://github.com/inspec/inspec)
-  - InSpec: Auditing and Testing Framework
-- [spree](https://github.com/spree/spree)
-  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
-- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
-  - Ruby implementation of GraphQL
-- [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch)
-  - Ansible playbook for Elasticsearch
-- [paperclip](https://github.com/thoughtbot/paperclip)
-  - Easy file attachment management for ActiveRecord
-- [roo](https://github.com/roo-rb/roo)
-  - Roo provides an interface to spreadsheets of several sorts.
-- [chatwoot](https://github.com/chatwoot/chatwoot)
-  - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬
-- [homebrew-core](https://github.com/Homebrew/homebrew-core)
-  - 🍻 Default formulae for the missing package manager for macOS
-- [devise_token_auth](https://github.com/lynndylanhurley/devise_token_auth)
-  - Token based authentication for Rails JSON APIs. Designed to work with jToker and ng-token-auth.
-- [react-native-config](https://github.com/luggit/react-native-config)
-  - Bring some 12 factor love to your mobile apps!
-- [rspec-rails](https://github.com/rspec/rspec-rails)
-  - RSpec for Rails 5+
-- [openproject](https://github.com/opf/openproject)
-  - OpenProject is the leading open source project management software.
 - [dependabot-core](https://github.com/dependabot/dependabot-core)
   - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot
-- [carrierwave](https://github.com/carrierwaveuploader/carrierwave)
-  - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
-- [next-right-now](https://github.com/UnlyEd/next-right-now)
-  - Flexible production-grade boilerplate with Next.js 9, Vercel and TypeScript. Includes multiple opt-in presets using Airtable, GraphQL, Analytics, CSS-in-JS, Monitoring, End-to-end testing, Internationalization, CI/CD and SaaS B2B multi single-tenancy (monorepo) support
-- [flipper](https://github.com/jnunemaker/flipper)
-  - 🐬 feature flipping for ruby (performant and simple)
+- [simple_form](https://github.com/heartcombo/simple_form)
+  - Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
+- [simplecov](https://github.com/simplecov-ruby/simplecov)
+  - Code coverage for Ruby with a powerful configuration library and automatic merging of coverage across test suites
+- [capybara-webkit](https://github.com/thoughtbot/capybara-webkit)
+  - A Capybara driver for headless WebKit to test JavaScript web apps
+- [sprockets](https://github.com/rails/sprockets)
+  - Rack-based asset packaging system
+- [paper_trail](https://github.com/paper-trail-gem/paper_trail)
+  - Track changes to your rails models
+- [paperclip](https://github.com/thoughtbot/paperclip)
+  - Easy file attachment management for ActiveRecord
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
+  - Metasploit Framework
+- [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch)
+  - Ansible playbook for Elasticsearch
+- [savon](https://github.com/savonrb/savon)
+  - Heavy metal SOAP client
+- [database_cleaner](https://github.com/DatabaseCleaner/database_cleaner)
+  - Strategies for cleaning databases in Ruby. Can be used to ensure a clean state for testing.
