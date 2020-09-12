@@ -1,51 +1,51 @@
 # go
-- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
-  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
-- [go-github](https://github.com/google/go-github)
-  - Go library for accessing the GitHub API
-- [terragrunt](https://github.com/gruntwork-io/terragrunt)
-  - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
-- [redis](https://github.com/go-redis/redis)
-  - Type-safe Redis client for Golang
+- [gopsutil](https://github.com/shirou/gopsutil)
+  - psutil for golang
 - [cli](https://github.com/cli/cli)
   - GitHub’s official command line tool
-- [depaware](https://github.com/tailscale/depaware)
-  - depaware makes you aware of your Go dependencies
-- [loki](https://github.com/grafana/loki)
-  - Like Prometheus, but for logs.
-- [infracost](https://github.com/infracost/infracost)
-  - Cloud cost estimates for Terraform in your CLI and pull requests 💰📉
-- [vitess](https://github.com/vitessio/vitess)
-  - Vitess is a database clustering system for horizontal scaling of MySQL.
-- [go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware)
-  - Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
-- [cortex](https://github.com/cortexproject/cortex)
-  - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
-- [external-dns](https://github.com/kubernetes-sigs/external-dns)
-  - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [logrus](https://github.com/sirupsen/logrus)
-  - Structured, pluggable logging for Go.
+- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
+  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [kubernetes](https://github.com/kubernetes/kubernetes)
+  - Production-Grade Container Scheduling and Management
+- [caddy](https://github.com/caddyserver/caddy)
+  - Fast, multi-platform web server with automatic HTTPS
+- [go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
+  - cqhttp的golang实现，轻量、原生跨平台.
+- [jaeger](https://github.com/jaegertracing/jaeger)
+  - CNCF Jaeger, a Distributed Tracing Platform
+- [hydra](https://github.com/ory/hydra)
+  - OAuth2 Server and OpenID Certified™ OpenID Connect Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language.
+- [shentu](https://github.com/certikfoundation/shentu)
+  - CertiK Shentu chain implementation
+- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
+  - Terraform AWS provider
+- [terraform](https://github.com/hashicorp/terraform)
+  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [k9s](https://github.com/derailed/k9s)
+  - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [CBL-Mariner](https://github.com/microsoft/CBL-Mariner)
+  - Linux OS for Azure 1P services and edge appliances
+- [sarama](https://github.com/Shopify/sarama)
+  - Sarama is a Go library for Apache Kafka 0.8, and up.
+- [lotus](https://github.com/filecoin-project/lotus)
+  - Implementation of the Filecoin protocol, written in Go
+- [casbin](https://github.com/casbin/casbin)
+  - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
+- [guora](https://github.com/meloalright/guora)
+  - 🖖🏻 A self-hosted Quora like web application written in Go 基于 Golang 类似知乎的私有部署问答应用 包含问答、评论、点赞、管理后台等功能
+- [terragrunt](https://github.com/gruntwork-io/terragrunt)
+  - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
+- [Burrow](https://github.com/linkedin/Burrow)
+  - Kafka Consumer Lag Checking
+- [minio](https://github.com/minio/minio)
+  - High Performance, Kubernetes Native Object Storage
+- [helmfile](https://github.com/roboll/helmfile)
+  - Deploy Kubernetes Helm Charts
+- [opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
+  - Contrib repository for the OpenTelemetry Collector
+- [gqlgen](https://github.com/99designs/gqlgen)
+  - go generate based graphql server library
 - [go](https://github.com/golang/go)
   - The Go programming language
-- [sqlx](https://github.com/jmoiron/sqlx)
-  - general purpose extensions to golang's database/sql
-- [prometheus](https://github.com/prometheus/prometheus)
-  - The Prometheus monitoring system and time series database.
-- [beats](https://github.com/elastic/beats)
-  - 🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
-- [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh)
-  - A Chaos Engineering Platform for Kubernetes.
-- [influxdb](https://github.com/influxdata/influxdb)
-  - Scalable datastore for metrics, events, and real-time analytics
-- [testify](https://github.com/stretchr/testify)
-  - A toolkit with common assertions and mocks that plays nicely with the standard library
-- [alibaba-cloud-sdk-go](https://github.com/aliyun/alibaba-cloud-sdk-go)
-  - Alibaba Cloud SDK for Go
-- [argo](https://github.com/argoproj/argo)
-  - Argo Workflows: Get stuff done with Kubernetes.
-- [golangci-lint](https://github.com/golangci/golangci-lint)
-  - Fast linters Runner for Go
-- [cli](https://github.com/cloudfoundry/cli)
-  - The official command line client for Cloud Foundry
-- [chi](https://github.com/go-chi/chi)
-  - lightweight, idiomatic and composable router for building Go HTTP services
+- [vault](https://github.com/hashicorp/vault)
+  - A tool for secrets management, encryption as a service, and privileged access management
