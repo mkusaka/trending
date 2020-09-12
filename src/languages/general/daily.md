@@ -1,48 +1,49 @@
 # general
-- [onnxruntime](https://github.com/microsoft/onnxruntime) : C++
-  - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
-- [react-challenge-amazon-clone](https://github.com/CleverProgrammers/react-challenge-amazon-clone) : JavaScript
-- [radar-covid-android](https://github.com/RadarCOVID/radar-covid-android) : Kotlin
-  - Native Android app using DP^3T Android sdk to handle Exposure Notifications API from Google
-- [nuxt.js](https://github.com/nuxt/nuxt.js) : JavaScript
-  - The Intuitive Vue Framework
-- [radar-covid-ios](https://github.com/RadarCOVID/radar-covid-ios) : Swift
-  - Native iOS app using DP^3T iOS sdk to handle Exposure Notification framework from Apple
-- [connectedhomeip](https://github.com/project-chip/connectedhomeip) : C++
-  - Project Connected Home over IP is a new Working Group within the Zigbee Alliance. This Working Group plans to develop and promote the adoption of a new connectivity standard to increase compatibility among smart home products, with security as a fundamental design tenet.
-- [radar-covid-backend-verification-server](https://github.com/RadarCOVID/radar-covid-backend-verification-server) : Java
-  - Radar COVID Verification Service
-- [azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) : Python
-  - This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.
-- [eiten](https://github.com/tradytics/eiten) : Python
-  - Statistical and Algorithmic Investing Strategies for Everyone
-- [radar-covid-backend-dp3t-server](https://github.com/RadarCOVID/radar-covid-backend-dp3t-server) : Java
-  - DP^3T Radar COVID fork
 - [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) : C
   - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
+- [react-challenge-amazon-clone](https://github.com/CleverProgrammers/react-challenge-amazon-clone) : JavaScript
+- [nuxt.js](https://github.com/nuxt/nuxt.js) : JavaScript
+  - The Intuitive Vue Framework
+- [onnxruntime](https://github.com/microsoft/onnxruntime) : C++
+  - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
+- [minecraft-react](https://github.com/satansdeer/minecraft-react) : JavaScript
 - [diagrams](https://github.com/mingrammer/diagrams) : Python
   - 🎨 Diagram as Code for prototyping cloud system architectures
-- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) : 
-  - ⚡ Delightful Node.js packages and resources
-- [ZY-Player](https://github.com/Hunlongyu/ZY-Player) : Vue
-  - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
-- [mem-doc](https://github.com/Maoni0/mem-doc) : 
-  - This is a document to help with .NET memory analysis and diagnostics.
-- [minecraft-react](https://github.com/satansdeer/minecraft-react) : JavaScript
-- [wirehole](https://github.com/IAmStoxe/wirehole) : 
-- [IBMVPS](https://github.com/bigfangfang/IBMVPS) : Batchfile
-  - 大方bigfangYouTube频道：https://bit.ly/332QGCa TG：@bigfangfang TG群：https://t.me/dafangbigfang
-- [FluidFramework](https://github.com/microsoft/FluidFramework) : TypeScript
-  - Library for building distributed, real-time collaborative web applications
+- [UTM](https://github.com/utmapp/UTM) : Objective-C
+  - Virtual machines for iOS
+- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
+  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
+- [guide-rpc-framework](https://github.com/Snailclimb/guide-rpc-framework) : Java
+  - A custom RPC framework implemented by Netty+Kyro+Zookeeper.（一款基于 Netty+Kyro+Zookeeper 实现的自定义 RPC 框架-附详细实现过程和相关教程。）
+- [aws-machine-learning-university-accelerated-nlp](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp) : Jupyter Notebook
+  - Machine Learning University: Accelerated Natural Language Processing Class
 - [learning](https://github.com/amitness/learning) : 
   - Becoming 1% better at data science everyday
+- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) : 
+  - ⚡ Delightful Node.js packages and resources
+- [Relativty](https://github.com/relativty/Relativty) : C++
+  - An open source VR headset with SteamVR supports for $200
 - [helm-charts](https://github.com/prometheus-community/helm-charts) : HTML
   - Prometheus community Helm charts
+- [aws-machine-learning-university-accelerated-cv](https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv) : Jupyter Notebook
+  - Machine Learning University: Accelerated Computer Vision Class
 - [PowerShell](https://github.com/PowerShell/PowerShell) : C#
   - PowerShell for every system!
-- [v2ray-heroku](https://github.com/bclswl0827/v2ray-heroku) : Shell
-  - 用于在 Heroku 上部署 V2Ray Websocket，本项目不宜做为长期使用之对策。
+- [aws-machine-learning-university-accelerated-tab](https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab) : Jupyter Notebook
+  - Machine Learning University: Accelerated Tabular Data Class
+- [DeepSpeed](https://github.com/microsoft/DeepSpeed) : Python
+  - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.
+- [tensorboard](https://github.com/tensorflow/tensorboard) : TypeScript
+  - TensorFlow's Visualization Toolkit
+- [understand-nodejs](https://github.com/theanarkh/understand-nodejs) : 
+  - 通过源码分析nodejs原理
+- [graal](https://github.com/oracle/graal) : Java
+  - GraalVM: Run Programs Faster Anywhere 🚀
+- [996.ICU](https://github.com/996icu/996.ICU) : Rust
+  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [ZY-Player](https://github.com/Hunlongyu/ZY-Player) : Vue
+  - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
 - [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) : 
   - The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
-- [angular](https://github.com/angular/angular) : TypeScript
-  - One framework. Mobile & desktop.
+- [Fantasy-Premier-League](https://github.com/vaastav/Fantasy-Premier-League) : Python
+  - Creates a .csv file of all players in the English Player League with their respective team and total fantasy points
