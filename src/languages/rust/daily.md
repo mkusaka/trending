@@ -1,51 +1,51 @@
 # rust
 - [996.ICU](https://github.com/996icu/996.ICU)
   - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
-- [iced](https://github.com/hecrj/iced)
-  - A cross-platform GUI library for Rust, inspired by Elm
-- [gleam](https://github.com/gleam-lang/gleam)
-  - ⭐️ A statically typed language for the Erlang VM
-- [bevy](https://github.com/bevyengine/bevy)
-  - A refreshingly simple data-driven game engine built in Rust
-- [scipio](https://github.com/DataDog/scipio)
-  - Scipio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
-- [druid](https://github.com/linebender/druid)
-  - A data-first Rust-native UI design toolkit.
-- [sqlx](https://github.com/launchbadge/sqlx)
-  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [static-analysis](https://github.com/analysis-tools-dev/static-analysis)
-  - A curated list of static analysis tools for all programming languages, config files, build tools, and more.
-- [examples](https://github.com/actix/examples)
-  - Examples of Actix ecosystem usage.
-- [RustScan](https://github.com/RustScan/RustScan)
-  - 🤖 The Modern Day Port Scanner 🤖
-- [crates.io](https://github.com/rust-lang/crates.io)
-  - Source code for crates.io
-- [tokenizers](https://github.com/huggingface/tokenizers)
-  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
-- [zola](https://github.com/getzola/zola)
-  - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
-- [substrate](https://github.com/paritytech/substrate)
-  - Substrate: The platform for blockchain innovators
-- [actix](https://github.com/actix/actix)
-  - Actor framework for Rust.
-- [spotify-tui](https://github.com/Rigellute/spotify-tui)
-  - Spotify for the terminal written in Rust 🚀
-- [tunshell](https://github.com/TimeToogo/tunshell)
-  - Remote shell into ephemeral environments 🐚 🦀
 - [libra](https://github.com/libra/libra)
   - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [websocat](https://github.com/vi/websocat)
-  - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
-- [puffin](https://github.com/EmbarkStudios/puffin)
-  - 🐦 Simple instrumentation profiler for Rust 🦀
-- [winapi-rs](https://github.com/retep998/winapi-rs)
-  - Rust bindings to Windows API
+- [druid](https://github.com/linebender/druid)
+  - A data-first Rust-native UI design toolkit.
+- [RustScan](https://github.com/RustScan/RustScan)
+  - 🤖 The Modern Day Port Scanner 🤖
+- [alacritty](https://github.com/alacritty/alacritty)
+  - A cross-platform, GPU-accelerated terminal emulator
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [ajour](https://github.com/casperstorm/ajour)
+  - A World of Warcraft addon manager written in Rust.
+- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+  - 📚 Learn to write an embedded OS in Rust 🦀
+- [bevy](https://github.com/bevyengine/bevy)
+  - A refreshingly simple data-driven game engine built in Rust
+- [gitui](https://github.com/extrawurst/gitui)
+  - Blazing 💥 fast terminal-ui for git written in rust 🦀
+- [Rocket](https://github.com/SergioBenitez/Rocket)
+  - A web framework for Rust.
+- [crossbeam](https://github.com/crossbeam-rs/crossbeam)
+  - Tools for concurrent programming in Rust
+- [spotify-tui](https://github.com/Rigellute/spotify-tui)
+  - Spotify for the terminal written in Rust 🚀
+- [orbtk](https://github.com/redox-os/orbtk)
+  - The Rust UI-Toolkit.
+- [wasmer](https://github.com/wasmerio/wasmer)
+  - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+- [spotifyd](https://github.com/Spotifyd/spotifyd)
+  - A spotify daemon
+- [starship](https://github.com/starship/starship)
+  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
+- [lemmy](https://github.com/LemmyNet/lemmy)
+  - 🐀 Building a federated alternative to reddit in rust
+- [clap](https://github.com/clap-rs/clap)
+  - A full featured, fast Command Line Argument Parser for Rust
+- [juniper](https://github.com/graphql-rust/juniper)
+  - GraphQL server library for Rust
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
+- [delta](https://github.com/dandavison/delta)
+  - A viewer for git and diff output
+- [examples](https://github.com/actix/examples)
+  - Examples of Actix ecosystem usage.
+- [actix](https://github.com/actix/actix)
+  - Actor framework for Rust.

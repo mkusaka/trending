@@ -1,51 +1,51 @@
 # go
-- [gopsutil](https://github.com/shirou/gopsutil)
-  - psutil for golang
-- [cli](https://github.com/cli/cli)
-  - GitHub’s official command line tool
 - [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
   - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
-- [kubernetes](https://github.com/kubernetes/kubernetes)
-  - Production-Grade Container Scheduling and Management
-- [caddy](https://github.com/caddyserver/caddy)
-  - Fast, multi-platform web server with automatic HTTPS
-- [go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
-  - cqhttp的golang实现，轻量、原生跨平台.
-- [jaeger](https://github.com/jaegertracing/jaeger)
-  - CNCF Jaeger, a Distributed Tracing Platform
-- [hydra](https://github.com/ory/hydra)
-  - OAuth2 Server and OpenID Certified™ OpenID Connect Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language.
-- [shentu](https://github.com/certikfoundation/shentu)
-  - CertiK Shentu chain implementation
-- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
-  - Terraform AWS provider
-- [terraform](https://github.com/hashicorp/terraform)
-  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [k9s](https://github.com/derailed/k9s)
-  - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [CBL-Mariner](https://github.com/microsoft/CBL-Mariner)
-  - Linux OS for Azure 1P services and edge appliances
-- [sarama](https://github.com/Shopify/sarama)
-  - Sarama is a Go library for Apache Kafka 0.8, and up.
-- [lotus](https://github.com/filecoin-project/lotus)
-  - Implementation of the Filecoin protocol, written in Go
-- [casbin](https://github.com/casbin/casbin)
-  - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
-- [guora](https://github.com/meloalright/guora)
-  - 🖖🏻 A self-hosted Quora like web application written in Go 基于 Golang 类似知乎的私有部署问答应用 包含问答、评论、点赞、管理后台等功能
-- [terragrunt](https://github.com/gruntwork-io/terragrunt)
-  - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
-- [Burrow](https://github.com/linkedin/Burrow)
-  - Kafka Consumer Lag Checking
-- [minio](https://github.com/minio/minio)
-  - High Performance, Kubernetes Native Object Storage
-- [helmfile](https://github.com/roboll/helmfile)
-  - Deploy Kubernetes Helm Charts
-- [opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
-  - Contrib repository for the OpenTelemetry Collector
-- [gqlgen](https://github.com/99designs/gqlgen)
-  - go generate based graphql server library
+- [dive](https://github.com/wagoodman/dive)
+  - A tool for exploring each layer in a docker image
+- [learn-go-with-tests](https://github.com/quii/learn-go-with-tests)
+  - Learn Go with test-driven development
+- [google-ctf](https://github.com/google/google-ctf)
+  - Google CTF
+- [octo-cli](https://github.com/octoproject/octo-cli)
+  - CLI tool to expose data from any database as a serverless web service.
+- [v2ray-core](https://github.com/v2ray/v2ray-core)
+  - A platform for building proxies to bypass network restrictions.
+- [determined](https://github.com/determined-ai/determined)
+  - Determined: Deep Learning Training Platform
+- [gopsutil](https://github.com/shirou/gopsutil)
+  - psutil for golang
+- [ent](https://github.com/facebook/ent)
+  - An entity framework for Go
+- [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga)
+  - Advanced information gathering & OSINT framework for phone numbers
+- [hub](https://github.com/github/hub)
+  - A command-line tool that makes git easier to use with GitHub.
+- [cortex](https://github.com/cortexlabs/cortex)
+  - Build machine learning APIs
+- [crossplane](https://github.com/crossplane/crossplane)
+  - Manage any infrastructure your applications need directly from Kubernetes
 - [go](https://github.com/golang/go)
   - The Go programming language
-- [vault](https://github.com/hashicorp/vault)
-  - A tool for secrets management, encryption as a service, and privileged access management
+- [lotus](https://github.com/filecoin-project/lotus)
+  - Implementation of the Filecoin protocol, written in Go
+- [scope](https://github.com/weaveworks/scope)
+  - Monitoring, visualisation & management for Docker & Kubernetes
+- [lantern](https://github.com/getlantern/lantern)
+  - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 lantern proxy vpn censorship-circumvention censorship gfw accelerator
+- [cli](https://github.com/docker/cli)
+  - The Docker CLI
+- [kit](https://github.com/go-kit/kit)
+  - A standard library for microservices.
+- [awesome-go](https://github.com/avelino/awesome-go)
+  - A curated list of awesome Go frameworks, libraries and software
+- [tinygo](https://github.com/tinygo-org/tinygo)
+  - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
+- [casbin](https://github.com/casbin/casbin)
+  - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
+- [CBL-Mariner](https://github.com/microsoft/CBL-Mariner)
+  - Linux OS for Azure 1P services and edge appliances
+- [algorithm-pattern](https://github.com/greyireland/algorithm-pattern)
+  - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
+- [fiber](https://github.com/gofiber/fiber)
+  - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️

@@ -1,49 +1,49 @@
 # general
 - [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) : C
   - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
-- [react-challenge-amazon-clone](https://github.com/CleverProgrammers/react-challenge-amazon-clone) : JavaScript
-- [nuxt.js](https://github.com/nuxt/nuxt.js) : JavaScript
-  - The Intuitive Vue Framework
-- [onnxruntime](https://github.com/microsoft/onnxruntime) : C++
-  - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
-- [minecraft-react](https://github.com/satansdeer/minecraft-react) : JavaScript
-- [diagrams](https://github.com/mingrammer/diagrams) : Python
-  - 🎨 Diagram as Code for prototyping cloud system architectures
-- [UTM](https://github.com/utmapp/UTM) : Objective-C
-  - Virtual machines for iOS
 - [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
   - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [guide-rpc-framework](https://github.com/Snailclimb/guide-rpc-framework) : Java
-  - A custom RPC framework implemented by Netty+Kyro+Zookeeper.（一款基于 Netty+Kyro+Zookeeper 实现的自定义 RPC 框架-附详细实现过程和相关教程。）
-- [aws-machine-learning-university-accelerated-nlp](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp) : Jupyter Notebook
-  - Machine Learning University: Accelerated Natural Language Processing Class
+- [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) : Shell
+  - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+- [nuxt.js](https://github.com/nuxt/nuxt.js) : JavaScript
+  - The Intuitive Vue Framework
+- [react-challenge-amazon-clone](https://github.com/CleverProgrammers/react-challenge-amazon-clone) : JavaScript
+- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
+  - Course Files for Complete Python 3 Bootcamp Course on Udemy
+- [makani](https://github.com/google/makani) : C++
+  - Makani was a project to develop a commercial-scale airborne wind turbine, culminating in a flight test of the Makani M600 off the coast of Norway. All Makani software has now been open-sourced. This repository contains the working Makani flight simulator, controller (autopilot), visualizer, and command center flight monitoring tools. Additionall…
+- [Python](https://github.com/TheAlgorithms/Python) : Python
+  - All Algorithms implemented in Python
+- [UTM](https://github.com/utmapp/UTM) : Objective-C
+  - Virtual machines for iOS
+- [leetcode_company_wise_questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions) : 
+  - This is a repository containing the list of company wise questions available on leetcode premium
+- [CVE-2020-1472](https://github.com/SecuraBV/CVE-2020-1472) : Python
+  - Test tool for CVE-2020-1472
 - [learning](https://github.com/amitness/learning) : 
   - Becoming 1% better at data science everyday
-- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) : 
-  - ⚡ Delightful Node.js packages and resources
-- [Relativty](https://github.com/relativty/Relativty) : C++
-  - An open source VR headset with SteamVR supports for $200
-- [helm-charts](https://github.com/prometheus-community/helm-charts) : HTML
-  - Prometheus community Helm charts
-- [aws-machine-learning-university-accelerated-cv](https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv) : Jupyter Notebook
-  - Machine Learning University: Accelerated Computer Vision Class
-- [PowerShell](https://github.com/PowerShell/PowerShell) : C#
-  - PowerShell for every system!
-- [aws-machine-learning-university-accelerated-tab](https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab) : Jupyter Notebook
-  - Machine Learning University: Accelerated Tabular Data Class
-- [DeepSpeed](https://github.com/microsoft/DeepSpeed) : Python
-  - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.
-- [tensorboard](https://github.com/tensorflow/tensorboard) : TypeScript
-  - TensorFlow's Visualization Toolkit
-- [understand-nodejs](https://github.com/theanarkh/understand-nodejs) : 
-  - 通过源码分析nodejs原理
-- [graal](https://github.com/oracle/graal) : Java
-  - GraalVM: Run Programs Faster Anywhere 🚀
+- [kinto](https://github.com/yeahwu/kinto) : Shell
+- [onnxruntime](https://github.com/microsoft/onnxruntime) : C++
+  - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [996.ICU](https://github.com/996icu/996.ICU) : Rust
   - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [ZY-Player](https://github.com/Hunlongyu/ZY-Player) : Vue
-  - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
-- [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) : 
-  - The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
+- [diagrams](https://github.com/mingrammer/diagrams) : Python
+  - 🎨 Diagram as Code for prototyping cloud system architectures
 - [Fantasy-Premier-League](https://github.com/vaastav/Fantasy-Premier-League) : Python
   - Creates a .csv file of all players in the English Player League with their respective team and total fantasy points
+- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) : Go
+  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) : Jupyter Notebook
+  - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
+- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) : 
+  - ⚡ Delightful Node.js packages and resources
+- [libra](https://github.com/libra/libra) : Rust
+  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [swift](https://github.com/apple/swift) : C++
+  - The Swift Programming Language
+- [dive](https://github.com/wagoodman/dive) : Go
+  - A tool for exploring each layer in a docker image
+- [upx](https://github.com/upx/upx) : C
+  - UPX - the Ultimate Packer for eXecutables
