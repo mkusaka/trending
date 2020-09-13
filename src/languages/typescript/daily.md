@@ -1,51 +1,51 @@
 # typescript
 - [tensorboard](https://github.com/tensorflow/tensorboard)
   - TensorFlow's Visualization Toolkit
-- [lens](https://github.com/lensapp/lens)
-  - Lens - The Kubernetes IDE
-- [vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples)
-  - Sample code illustrating the VS Code extension API.
-- [scheduler-card](https://github.com/nielsfaber/scheduler-card)
-  - HA Lovelace card for control of scheduler entities
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
 - [jotai](https://github.com/react-spring/jotai)
   - 👻 Primitive, flexible state management for React
-- [FluidFramework](https://github.com/microsoft/FluidFramework)
-  - Library for building distributed, real-time collaborative web applications
-- [code-server](https://github.com/cdr/code-server)
-  - VS Code in the browser
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [azuredatastudio](https://github.com/microsoft/azuredatastudio)
-  - Azure Data Studio is a data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
-- [apollo-server](https://github.com/apollographql/apollo-server)
-  - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
-- [nest](https://github.com/nestjs/nest)
-  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-- [aws-cdk](https://github.com/aws/aws-cdk)
-  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
-- [davinci](https://github.com/edp963/davinci)
-  - Davinci is a DVsaaS (Data Visualization as a Service) Platform
+- [refined-github](https://github.com/sindresorhus/refined-github)
+  - Browser extension that simplifies the GitHub interface and adds useful features
+- [playwright](https://github.com/microsoft/playwright)
+  - Node.js library to automate Chromium, Firefox and WebKit with a single API
+- [homebridge](https://github.com/homebridge/homebridge)
+  - HomeKit support for the impatient
+- [LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+  - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [blitz](https://github.com/blitz-js/blitz)
   - ⚡️The Fullstack React Framework — built on Next.js
-- [recharts](https://github.com/recharts/recharts)
-  - Redefined chart library built with React and D3
-- [nebular](https://github.com/akveo/nebular)
-  - 💥 Customizable Angular UI Library based on Eva Design System 🌚✨Dark Mode
-- [vendure](https://github.com/vendure-ecommerce/vendure)
-  - A headless GraphQL ecommerce framework for the modern web
+- [coc.nvim](https://github.com/neoclide/coc.nvim)
+  - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
+- [react-query](https://github.com/tannerlinsley/react-query)
+  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+- [lens](https://github.com/lensapp/lens)
+  - Lens - The Kubernetes IDE
+- [scheduler-card](https://github.com/nielsfaber/scheduler-card)
+  - HA Lovelace card for control of scheduler entities
+- [vscode-cpptools](https://github.com/microsoft/vscode-cpptools)
+  - Official repository for the Microsoft C/C++ extension for VS Code.
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
+  - 📋 React Hooks for forms validation (Web + React Native)
+- [saas](https://github.com/async-labs/saas)
+  - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
+- [vue-class-component](https://github.com/vuejs/vue-class-component)
+  - ES / TypeScript decorator for class-style Vue components.
+- [uniswap-interface](https://github.com/Uniswap/uniswap-interface)
+  - 🦄 An open source interface for the Uniswap protocol
 - [TypeScript](https://github.com/microsoft/TypeScript)
   - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [react-content-loader](https://github.com/danilowoz/react-content-loader)
-  - ⚪ SVG-Powered component to easily create skeleton loadings.
-- [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)
-  - UI components lib based on Ant Design for Angular
-- [spectral](https://github.com/stoplightio/spectral)
-  - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v2 & v3.
-- [gitpod](https://github.com/gitpod-io/gitpod)
-  - Gitpod is an open-source Kubernetes application providing prebuilt, collaborative development environments in your browser - powered by VS Code.
-- [react-native-webview](https://github.com/react-native-community/react-native-webview)
-  - React Native Cross-Platform WebView
-- [nx](https://github.com/nrwl/nx)
-  - Extensible Dev Tools for Monorepos
+- [etcher](https://github.com/balena-io/etcher)
+  - Flash OS images to SD cards & USB drives, safely and easily.
+- [angular](https://github.com/angular/angular)
+  - One framework. Mobile & desktop.
+- [editor.js](https://github.com/codex-team/editor.js)
+  - A block-styled editor with clean JSON output
+- [react-admin](https://github.com/marmelab/react-admin)
+  - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
+- [react-use](https://github.com/streamich/react-use)
+  - React Hooks — 👍
+- [taskcafe](https://github.com/JordanKnott/taskcafe)
+  - An open source project management tool with Kanban boards
+- [lireddit](https://github.com/benawad/lireddit)
+  - 
+- [caprover](https://github.com/caprover/caprover)
+  - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
