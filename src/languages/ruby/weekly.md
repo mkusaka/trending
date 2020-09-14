@@ -1,51 +1,51 @@
 # ruby
-- [ruby](https://github.com/ruby/ruby)
-  - The Ruby Programming Language [mirror]
-- [fastlane](https://github.com/fastlane/fastlane)
-  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [vagrant](https://github.com/hashicorp/vagrant)
-  - Vagrant is a tool for building and distributing development environments.
-- [rubocop](https://github.com/rubocop-hq/rubocop)
-  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [homebrew-core](https://github.com/Homebrew/homebrew-core)
-  - 🍻 Default formulae for the missing package manager for macOS
-- [faker](https://github.com/faker-ruby/faker)
-  - A library for generating fake data such as names, addresses, and phone numbers.
-- [brew](https://github.com/Homebrew/brew)
-  - 🍺 The missing package manager for macOS (or Linux)
-- [linguist](https://github.com/github/linguist)
-  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-- [devdocs](https://github.com/freeCodeCamp/devdocs)
-  - API Documentation Browser
-- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-- [spree](https://github.com/spree/spree)
-  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
-- [gitlabhq](https://github.com/gitlabhq/gitlabhq)
-  - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
-- [TLCL](https://github.com/billie66/TLCL)
-  - 《快乐的 Linux 命令行》
-- [sinatra](https://github.com/sinatra/sinatra)
-  - Classy web-development dressed in a DSL (official / canonical repo)
-- [gollum](https://github.com/gollum/gollum)
-  - A simple, Git-powered wiki with a sweet API and local frontend.
-- [react-native-config](https://github.com/luggit/react-native-config)
-  - Bring some 12 factor love to your mobile apps!
-- [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)
-  - Simple one-liner tests for common Rails functionality
-- [administrate](https://github.com/thoughtbot/administrate)
-  - A Rails engine that helps you put together a super-flexible admin dashboard.
+- [huginn](https://github.com/huginn/huginn)
+  - Create agents that monitor and act on your behalf. Your agents are standing by!
 - [devise](https://github.com/heartcombo/devise)
   - Flexible authentication solution for Rails with Warden.
+- [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews)
+  - Data science interview questions and answers
+- [rubocop](https://github.com/rubocop-hq/rubocop)
+  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
+  - The Cocoa Dependency Manager.
+- [vagrant](https://github.com/hashicorp/vagrant)
+  - Vagrant is a tool for building and distributing development environments.
+- [dependabot-core](https://github.com/dependabot/dependabot-core)
+  - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot
+- [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
+  - A curated list of engineering blogs
+- [sinatra](https://github.com/sinatra/sinatra)
+  - Classy web-development dressed in a DSL (official / canonical repo)
+- [choosealicense.com](https://github.com/github/choosealicense.com)
+  - A site to provide non-judgmental guidance on choosing a license for your open source project
+- [spree](https://github.com/spree/spree)
+  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
+- [fast_jsonapi](https://github.com/Netflix/fast_jsonapi)
+  - A lightning fast JSON:API serializer for Ruby Objects.
+- [fastlane](https://github.com/fastlane/fastlane)
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [rspec-rails](https://github.com/rspec/rspec-rails)
+  - RSpec for Rails 5+
+- [chatwoot](https://github.com/chatwoot/chatwoot)
+  - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬
+- [homebrew-core](https://github.com/Homebrew/homebrew-core)
+  - 🍻 Default formulae for the missing package manager for macOS
+- [liquid](https://github.com/Shopify/liquid)
+  - Liquid markup language. Safe, customer facing template language for flexible web apps.
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
+  - Metasploit Framework
+- [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts)
+  - 🚨 Collection of Prometheus alerting rules
+- [solidus](https://github.com/solidusio/solidus)
+  - 🛒Solidus, Rails eCommerce System
 - [rails](https://github.com/rails/rails)
   - Ruby on Rails
-- [factory_bot](https://github.com/thoughtbot/factory_bot)
-  - A library for setting up Ruby objects as test data.
-- [colorls](https://github.com/athityakumar/colorls)
-  - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. 🎉
-- [acts_as_paranoid](https://github.com/ActsAsParanoid/acts_as_paranoid)
-  - ActiveRecord plugin allowing you to hide and restore records without actually deleting them.
-- [activeadmin](https://github.com/activeadmin/activeadmin)
-  - The administration framework for Ruby on Rails applications.
-- [zammad](https://github.com/zammad/zammad)
-  - Zammad is a web based open source helpdesk/customer support system
+- [devdocs](https://github.com/freeCodeCamp/devdocs)
+  - API Documentation Browser
+- [kaminari](https://github.com/kaminari/kaminari)
+  - ⚡ A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps
+- [chef](https://github.com/chef/chef)
+  - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
+- [react-native-config](https://github.com/luggit/react-native-config)
+  - Bring some 12 factor love to your mobile apps!

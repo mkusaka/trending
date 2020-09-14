@@ -1,50 +1,48 @@
 # general
-- [sushiswap](https://github.com/sushiswap/sushiswap) : Solidity
-  - 🍣 SushiSwap smart contracts
-- [present](https://github.com/vinayak-mehta/present) : Python
-  - A terminal-based presentation tool with colors and effects.
-- [gorm](https://github.com/go-gorm/gorm) : Go
-  - The fantastic ORM library for Golang, aims to be developer friendly
-- [koronavilkku-android](https://github.com/THLfi/koronavilkku-android) : Kotlin
-- [Learn-Vim](https://github.com/iggredible/Learn-Vim) : 
-  - A book for learning the Vim editor the smart way.
-- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) : C++
-  - C++那些事
-- [compose-samples](https://github.com/android/compose-samples) : Kotlin
-  - Official Jetpack Compose samples.
-- [InfoSpider](https://github.com/kangvcar/InfoSpider) : Python
-  - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
-- [go-zero](https://github.com/tal-tech/go-zero) : Go
-  - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
-- [uniswap-v2-core](https://github.com/Uniswap/uniswap-v2-core) : TypeScript
-  - 🎛 Core smart contracts of Uniswap V2
-- [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) : TypeScript
-  - An extension for VS Code that visualizes data during debugging.
-- [flink-learning](https://github.com/zhisheng17/flink-learning) : Java
-  - flink learning blog. http://www.flink-learning.com 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》
-- [DearPyGui](https://github.com/hoffstadt/DearPyGui) : C++
-  - DearPyGui: A GPU Accelerated Python GUI Framework
-- [learn-python3](https://github.com/jerry-git/learn-python3) : Python
-  - Jupyter notebooks for teaching/learning Python 3
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) : Vue
-  - 👽 A free, fast and beautiful API request builder used by 75k+ developers. https://hoppscotch.io
-- [element-plus](https://github.com/element-plus/element-plus) : Vue
-  - 🎉 A Vue.js 3.0 UI Library
-- [livewire](https://github.com/livewire/livewire) : PHP
-  - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
-- [uniswap-interface](https://github.com/Uniswap/uniswap-interface) : TypeScript
-  - 🦄 An open source interface for the Uniswap protocol
-- [MeiliSearch](https://github.com/meilisearch/MeiliSearch) : Rust
-  - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
-- [ant-design-vue](https://github.com/vueComponent/ant-design-vue) : Vue
-  - 🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜
-- [jira_clone](https://github.com/oldboyxx/jira_clone) : JavaScript
-  - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
-- [gui.cs](https://github.com/migueldeicaza/gui.cs) : C#
-  - Console-based user interface toolkit for .NET applications.
-- [halo](https://github.com/halo-dev/halo) : Java
-  - ✍ An excellent open source blog publishing application. | 一个优秀的开源博客发布应用。
-- [a32nx](https://github.com/flybywiresim/a32nx) : JavaScript
-  - The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.
-- [portainer](https://github.com/portainer/portainer) : JavaScript
-  - Making Docker management easy.
+- [eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) : JavaScript
+  - A high performance blog template for the 11ty static site generator.
+- [Server](https://github.com/PanDownloadServer/Server) : HTML
+  - PanDownload的个人维护版本
+- [jdk](https://github.com/openjdk/jdk) : Java
+  - JDK main-line development
+- [croc](https://github.com/schollz/croc) : Go
+  - Easily and securely send things from one computer to another 🐊 📦
+- [diagrams](https://github.com/mingrammer/diagrams) : Python
+  - 🎨 Diagram as Code for prototyping cloud system architectures
+- [Algorithms](https://github.com/williamfiset/Algorithms) : Java
+  - A collection of algorithms and data structures
+- [linuxupskillchallenge](https://github.com/snori74/linuxupskillchallenge) : Shell
+  - Learn the skills required to sysadmin a remote Linux server from the commandline.
+- [workflow](https://github.com/sogou/workflow) : C++
+  - Sogou framework for C++ backend development.
+- [ZY-Player](https://github.com/Hunlongyu/ZY-Player) : Vue
+  - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
+- [autoscraper](https://github.com/alirezamika/autoscraper) : Python
+  - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
+- [UTM](https://github.com/utmapp/UTM) : Objective-C
+  - Virtual machines for iOS
+- [talk](https://github.com/vasanthv/talk) : JavaScript
+  - A group video call for the web. No signups. No downloads.
+- [jetstream](https://github.com/laravel/jetstream) : PHP
+- [surpriver](https://github.com/tradytics/surpriver) : Python
+  - Find big moving stocks before they move using machine learning and anomaly detection
+- [IBMYes](https://github.com/CCChieh/IBMYes) : Batchfile
+- [cli](https://github.com/cli/cli) : Go
+  - GitHub’s official command line tool
+- [huginn](https://github.com/huginn/huginn) : Ruby
+  - Create agents that monitor and act on your behalf. Your agents are standing by!
+- [dive](https://github.com/wagoodman/dive) : Go
+  - A tool for exploring each layer in a docker image
+- [abp](https://github.com/abpframework/abp) : C#
+  - Open Source Web Application Framework for ASP.NET Core
+- [laravel](https://github.com/laravel/laravel) : PHP
+  - A PHP framework for web artisans
+- [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) : 
+  - 汇总各大互联网公司容易考察的高频leetcode题🔥
+- [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) : C#
+  - Xamarin.Forms Official Home
+- [fortify](https://github.com/laravel/fortify) : PHP
+- [SpringCloudLearning](https://github.com/forezp/SpringCloudLearning) : Java
+  - 《史上最简单的Spring Cloud教程源码》
+- [yacd](https://github.com/DerekSelander/yacd) : C
+  - Decrypts FairPlay applications on iOS 13.4.1 and lower, no jb required
