@@ -1,49 +1,50 @@
 # general
-- [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) : C
-  - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
-- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
-  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) : Shell
-  - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
-  - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
-- [nuxt.js](https://github.com/nuxt/nuxt.js) : JavaScript
-  - The Intuitive Vue Framework
-- [react-challenge-amazon-clone](https://github.com/CleverProgrammers/react-challenge-amazon-clone) : JavaScript
-- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
-  - Course Files for Complete Python 3 Bootcamp Course on Udemy
 - [makani](https://github.com/google/makani) : C++
   - Makani was a project to develop a commercial-scale airborne wind turbine, culminating in a flight test of the Makani M600 off the coast of Norway. All Makani software has now been open-sourced. This repository contains the working Makani flight simulator, controller (autopilot), visualizer, and command center flight monitoring tools. Additionall…
-- [Python](https://github.com/TheAlgorithms/Python) : Python
-  - All Algorithms implemented in Python
-- [UTM](https://github.com/utmapp/UTM) : Objective-C
-  - Virtual machines for iOS
-- [leetcode_company_wise_questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions) : 
-  - This is a repository containing the list of company wise questions available on leetcode premium
-- [CVE-2020-1472](https://github.com/SecuraBV/CVE-2020-1472) : Python
-  - Test tool for CVE-2020-1472
-- [learning](https://github.com/amitness/learning) : 
-  - Becoming 1% better at data science everyday
-- [kinto](https://github.com/yeahwu/kinto) : Shell
-- [onnxruntime](https://github.com/microsoft/onnxruntime) : C++
-  - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
-- [996.ICU](https://github.com/996icu/996.ICU) : Rust
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [diagrams](https://github.com/mingrammer/diagrams) : Python
-  - 🎨 Diagram as Code for prototyping cloud system architectures
-- [Fantasy-Premier-League](https://github.com/vaastav/Fantasy-Premier-League) : Python
-  - Creates a .csv file of all players in the English Player League with their respective team and total fantasy points
-- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) : Go
-  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
-- [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) : Jupyter Notebook
-  - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
-- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) : 
-  - ⚡ Delightful Node.js packages and resources
+- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
+  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 - [libra](https://github.com/libra/libra) : Rust
   - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [leetcode_company_wise_questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions) : 
+  - This is a repository containing the list of company wise questions available on leetcode premium
+- [lede](https://github.com/coolsnowwolf/lede) : C
+  - Lean's OpenWrt source
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+- [Fantasy-Premier-League](https://github.com/vaastav/Fantasy-Premier-League) : Python
+  - Creates a .csv file of all players in the English Player League with their respective team and total fantasy points
+- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
+  - Course Files for Complete Python 3 Bootcamp Course on Udemy
+- [UTM](https://github.com/utmapp/UTM) : Objective-C
+  - Virtual machines for iOS
+- [low-level-design-primer](https://github.com/prasadgujar/low-level-design-primer) : 
+  - Dedicated Resources for the Low-Level System Design. Learn how to design and implement large-scale systems. Prep for the system design interview.
+- [CVE-2020-1472](https://github.com/SecuraBV/CVE-2020-1472) : Python
+  - Test tool for CVE-2020-1472
+- [DeepVision](https://github.com/peng-zhihui/DeepVision) : Java
+  - 在我很多项目中用到的CV算法推理框架应用。
+- [Python](https://github.com/TheAlgorithms/Python) : Python
+  - All Algorithms implemented in Python
+- [pipedream](https://github.com/PipedreamHQ/pipedream) : JavaScript
+  - Serverless integration and compute platform. Free for developers.
 - [swift](https://github.com/apple/swift) : C++
   - The Swift Programming Language
+- [fastmac](https://github.com/fastai/fastmac) : Shell
+  - Get a MacOS or Linux shell, for free, in around 2 minutes
 - [dive](https://github.com/wagoodman/dive) : Go
   - A tool for exploring each layer in a docker image
-- [upx](https://github.com/upx/upx) : C
-  - UPX - the Ultimate Packer for eXecutables
+- [XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools) : Kotlin
+  - A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot
+- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) : 
+  - ⚡ Delightful Node.js packages and resources
+- [kinto](https://github.com/yeahwu/kinto) : Shell
+- [learning](https://github.com/amitness/learning) : 
+  - Becoming 1% better at data science everyday
+- [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) : Shell
+  - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
+- [BIGTREETECH-SKR-mini-E3](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3) : C++
+  - BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.
+- [jellyfin](https://github.com/jellyfin/jellyfin) : C#
+  - The Free Software Media System
