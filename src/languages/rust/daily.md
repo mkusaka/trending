@@ -1,51 +1,51 @@
 # rust
 - [libra](https://github.com/libra/libra)
   - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
-- [bevy](https://github.com/bevyengine/bevy)
-  - A refreshingly simple data-driven game engine built in Rust
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [gitoxide](https://github.com/Byron/gitoxide)
-  - An idiomatic, lean, fast & safe pure Rust implementation of Git
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
-- [spotify-tui](https://github.com/Rigellute/spotify-tui)
-  - Spotify for the terminal written in Rust 🚀
-- [wasmer](https://github.com/wasmerio/wasmer)
-  - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
-- [spotifyd](https://github.com/Spotifyd/spotifyd)
-  - A spotify daemon
-- [book](https://github.com/rust-lang/book)
-  - The Rust Programming Language
+- [rudiments](https://github.com/jonasrmichel/rudiments)
+  - A drum machine written in Rust
 - [starship](https://github.com/starship/starship)
   - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-  - A curated list of Rust code and resources.
-- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
-  - 📚 Learn to write an embedded OS in Rust 🦀
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
+- [openethereum](https://github.com/openethereum/openethereum)
+  - The fast, light, and robust client for Ethereum-like networks.
 - [examples](https://github.com/actix/examples)
   - Examples of Actix ecosystem usage.
-- [nom](https://github.com/Geal/nom)
-  - Rust parser combinator framework
-- [napkin-math](https://github.com/sirupsen/napkin-math)
-  - Techniques and numbers for estimating system's performance from first-principles
-- [gitui](https://github.com/extrawurst/gitui)
-  - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
-- [iced](https://github.com/hecrj/iced)
-  - A cross-platform GUI library for Rust, inspired by Elm
-- [amethyst](https://github.com/amethyst/amethyst)
-  - Data-oriented and data-driven game engine written in Rust
 - [orbtk](https://github.com/redox-os/orbtk)
   - The Rust UI-Toolkit.
-- [ripgrep](https://github.com/BurntSushi/ripgrep)
-  - ripgrep recursively searches directories for a regex pattern
-- [rustup](https://github.com/rust-lang/rustup)
-  - The Rust toolchain installer
+- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+  - 📚 Learn to write an embedded OS in Rust 🦀
+- [tauri](https://github.com/tauri-apps/tauri)
+  - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [napkin-math](https://github.com/sirupsen/napkin-math)
+  - Techniques and numbers for estimating system's performance from first-principles
+- [jrsonnet](https://github.com/CertainLach/jrsonnet)
+  - Rust implementation of Jsonnet language
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
+- [996.ICU](https://github.com/996icu/996.ICU)
+  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [talent-plan](https://github.com/pingcap/talent-plan)
   - open source training courses about distributed database and distributed systemes
+- [nushell](https://github.com/nushell/nushell)
+  - A new type of shell
+- [gitoxide](https://github.com/Byron/gitoxide)
+  - An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [pyo3](https://github.com/PyO3/pyo3)
+  - Rust bindings for the Python interpreter
 - [ultraviolet](https://github.com/termhn/ultraviolet)
   - A wide linear algebra crate for games and graphics.
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
+- [polkadot](https://github.com/paritytech/polkadot)
+  - Polkadot Node Implementation
+- [actix](https://github.com/actix/actix)
+  - Actor framework for Rust.
+- [vector](https://github.com/timberio/vector)
+  - An ultra-performant, vendor-neutral tool for building observability pipelines.
+- [docker-compose-wait](https://github.com/ufoscout/docker-compose-wait)
+  - A simple script to wait for other docker images to be started while using docker-compose
+- [grex](https://github.com/pemistahl/grex)
+  - A command-line tool and library for generating regular expressions from user-provided test cases
+- [diesel](https://github.com/diesel-rs/diesel)
+  - A safe, extensible ORM and Query Builder for Rust
