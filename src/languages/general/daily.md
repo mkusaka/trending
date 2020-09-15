@@ -1,50 +1,50 @@
 # general
-- [makani](https://github.com/google/makani) : C++
-  - Makani was a project to develop a commercial-scale airborne wind turbine, culminating in a flight test of the Makani M600 off the coast of Norway. All Makani software has now been open-sourced. This repository contains the working Makani flight simulator, controller (autopilot), visualizer, and command center flight monitoring tools. Additionall…
-- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
-  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
+- [Notebooks](https://github.com/PythonFreeCourse/Notebooks) : Jupyter Notebook
+  - Learn Python for free using open-source notebooks in Hebrew.
 - [libra](https://github.com/libra/libra) : Rust
   - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [leetcode_company_wise_questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions) : 
-  - This is a repository containing the list of company wise questions available on leetcode premium
-- [lede](https://github.com/coolsnowwolf/lede) : C
-  - Lean's OpenWrt source
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
-  - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
-- [Fantasy-Premier-League](https://github.com/vaastav/Fantasy-Premier-League) : Python
-  - Creates a .csv file of all players in the English Player League with their respective team and total fantasy points
-- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
-  - Course Files for Complete Python 3 Bootcamp Course on Udemy
-- [UTM](https://github.com/utmapp/UTM) : Objective-C
-  - Virtual machines for iOS
-- [low-level-design-primer](https://github.com/prasadgujar/low-level-design-primer) : 
-  - Dedicated Resources for the Low-Level System Design. Learn how to design and implement large-scale systems. Prep for the system design interview.
-- [CVE-2020-1472](https://github.com/SecuraBV/CVE-2020-1472) : Python
-  - Test tool for CVE-2020-1472
-- [DeepVision](https://github.com/peng-zhihui/DeepVision) : Java
-  - 在我很多项目中用到的CV算法推理框架应用。
-- [Python](https://github.com/TheAlgorithms/Python) : Python
-  - All Algorithms implemented in Python
-- [pipedream](https://github.com/PipedreamHQ/pipedream) : JavaScript
-  - Serverless integration and compute platform. Free for developers.
-- [swift](https://github.com/apple/swift) : C++
-  - The Swift Programming Language
-- [fastmac](https://github.com/fastai/fastmac) : Shell
-  - Get a MacOS or Linux shell, for free, in around 2 minutes
-- [dive](https://github.com/wagoodman/dive) : Go
-  - A tool for exploring each layer in a docker image
-- [XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools) : Kotlin
-  - A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot
-- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) : 
-  - ⚡ Delightful Node.js packages and resources
-- [kinto](https://github.com/yeahwu/kinto) : Shell
-- [learning](https://github.com/amitness/learning) : 
-  - Becoming 1% better at data science everyday
-- [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) : Shell
-  - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
-- [BIGTREETECH-SKR-mini-E3](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3) : C++
-  - BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.
+- [mall-swarm](https://github.com/macrozheng/mall-swarm) : Java
+  - mall-swarm是一套微服务商城系统，采用了 Spring Cloud Hoxton & Alibaba、Spring Boot 2.3、Oauth2、MyBatis、Docker、Elasticsearch等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。
 - [jellyfin](https://github.com/jellyfin/jellyfin) : C#
   - The Free Software Media System
+- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
+  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
+- [vault](https://github.com/hashicorp/vault) : Go
+  - A tool for secrets management, encryption as a service, and privileged access management
+- [jupyter-text2code](https://github.com/deepklarity/jupyter-text2code) : Jupyter Notebook
+  - A proof-of-concept jupyter extension which converts english queries into relevant python code
+- [CVE-2020-1472](https://github.com/SecuraBV/CVE-2020-1472) : Python
+  - Test tool for CVE-2020-1472
+- [learning](https://github.com/amitness/learning) : 
+  - Becoming 1% better at data science everyday
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [Python](https://github.com/TheAlgorithms/Python) : Python
+  - All Algorithms implemented in Python
+- [sds1](https://github.com/devsuperior/sds1) : CSS
+- [exphub](https://github.com/zhzyker/exphub) : Python
+  - Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340
+- [low-level-design-primer](https://github.com/prasadgujar/low-level-design-primer) : 
+  - Dedicated Resources for the Low-Level System Design. Learn how to design and implement large-scale systems. Prep for the system design interview.
+- [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) : Ruby
+  - Data science interview questions and answers
+- [pytorch-gans](https://github.com/gordicaleksa/pytorch-gans) : Python
+  - My implementation of various GAN (generative adversarial networks) architectures like vanilla GAN, cGAN, DCGAN, etc.
+- [generator-jhipster](https://github.com/jhipster/generator-jhipster) : JavaScript
+  - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
+  - Roadmap to becoming a web developer in 2020
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+- [leetcode_company_wise_questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions) : 
+  - This is a repository containing the list of company wise questions available on leetcode premium
+- [stats-illustrations](https://github.com/allisonhorst/stats-illustrations) : 
+  - R & stats illustrations by @allison_horst
+- [DeepVision](https://github.com/peng-zhihui/DeepVision) : Java
+  - 在我很多项目中用到的CV算法推理框架应用。
+- [pipedream](https://github.com/PipedreamHQ/pipedream) : JavaScript
+  - Serverless integration and compute platform. Free for developers.
+- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
+  - Course Files for Complete Python 3 Bootcamp Course on Udemy
+- [runtime](https://github.com/dotnet/runtime) : C#
+  - .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
