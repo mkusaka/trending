@@ -1,51 +1,51 @@
 # javascript
-- [generator-jhipster](https://github.com/jhipster/generator-jhipster)
-  - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
-- [pipedream](https://github.com/PipedreamHQ/pipedream)
-  - Serverless integration and compute platform. Free for developers.
-- [Javascript](https://github.com/TheAlgorithms/Javascript)
-  - A repository for All algorithms implemented in Javascript (for educational purposes only)
-- [Web](https://github.com/qianguyihao/Web)
-  - 前端入门到进阶图文教程，超详细的Web前端学习笔记。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。
-- [rumin-web-clipper](https://github.com/jhlyeung/rumin-web-clipper)
-  - Web clipper browser extension for saving highlights, screenshots, and automatically extracting content from web pages.
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
-  - ✅ The Node.js best practices list (September 2020)
-- [create-react-app](https://github.com/facebook/create-react-app)
-  - Set up a modern web app by running one command.
-- [cypress-example-recipes](https://github.com/cypress-io/cypress-example-recipes)
-  - Various recipes for testing common scenarios with Cypress
-- [tasks](https://github.com/rolling-scopes-school/tasks)
-  - 
-- [jsPDF](https://github.com/MrRio/jsPDF)
-  - Client-side JavaScript PDF generation for everyone.
-- [javascript](https://github.com/airbnb/javascript)
-  - JavaScript Style Guide
-- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
-  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
 - [moment](https://github.com/moment/moment)
   - Parse, validate, manipulate, and display dates in javascript.
-- [hexo](https://github.com/hexojs/hexo)
-  - A fast, simple & powerful blog framework, powered by Node.js.
-- [outline](https://github.com/outline/outline)
-  - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [jsPDF](https://github.com/MrRio/jsPDF)
+  - Client-side JavaScript PDF generation for everyone.
+- [Javascript](https://github.com/TheAlgorithms/Javascript)
+  - A repository for All algorithms implemented in Javascript (for educational purposes only)
+- [create-react-app](https://github.com/facebook/create-react-app)
+  - Set up a modern web app by running one command.
+- [gatsby](https://github.com/gatsbyjs/gatsby)
+  - Build blazing fast, modern apps and websites with React
+- [examples](https://github.com/serverless/examples)
+  - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
+- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
+  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [react-native-keyboard-aware-scroll-view](https://github.com/APSL/react-native-keyboard-aware-scroll-view)
+  - A ScrollView component that handles keyboard appearance and automatically scrolls to focused TextInput.
+- [edex-ui](https://github.com/GitSquared/edex-ui)
+  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+- [aws-serverless-workshops](https://github.com/aws-samples/aws-serverless-workshops)
+  - Code and walkthrough labs to set up serverless applications for Wild Rydes workshops
+- [Inputmask](https://github.com/RobinHerbots/Inputmask)
+  - Input Mask plugin
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+  - ⭐️ Companies that don't have a broken hiring process
+- [vue](https://github.com/vuejs/vue)
+  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [Web](https://github.com/qianguyihao/Web)
+  - 前端入门到进阶图文教程，超详细的Web前端学习笔记。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。
 - [shapez.io](https://github.com/tobspr/shapez.io)
   - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
-- [js.org](https://github.com/js-org/js.org)
-  - Dedicated to JavaScript and its awesome community since 2015
-- [ace](https://github.com/ajaxorg/ace)
-  - Ace (Ajax.org Cloud9 Editor)
-- [sheetjs](https://github.com/SheetJS/sheetjs)
-  - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
-- [single-spa](https://github.com/single-spa/single-spa)
-  - The router for easy microfrontends
-- [handsontable](https://github.com/handsontable/handsontable)
-  - Handsontable is a JavaScript/HTML5 data grid with spreadsheet look & feel. Available for React, Vue and Angular.
-- [styled-components](https://github.com/styled-components/styled-components)
-  - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
-- [complete-node-bootcamp](https://github.com/jonasschmedtmann/complete-node-bootcamp)
-  - Starter files, final projects and FAQ for my Complete Node.js Bootcamp
-- [a32nx](https://github.com/flybywiresim/a32nx)
-  - The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.
-- [heroicons](https://github.com/tailwindlabs/heroicons)
-  - A set of free MIT-licensed high-quality SVG icons for UI development.
+- [react-virtualized](https://github.com/bvaughn/react-virtualized)
+  - React components for efficiently rendering large lists and tabular data
+- [cesium](https://github.com/CesiumGS/cesium)
+  - An open-source JavaScript library for world-class 3D globes and maps 🌎
+- [tasks](https://github.com/rolling-scopes-school/tasks)
+  - 
+- [pipedream](https://github.com/PipedreamHQ/pipedream)
+  - Serverless integration and compute platform. Free for developers.
+- [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable)
+  - Vue drag-and-drop component based on Sortable.js
+- [react-slack-clone](https://github.com/aakash-cr7/react-slack-clone)
+  - A slack clone using React and Firebase.
+- [slick](https://github.com/kenwheeler/slick)
+  - the last carousel you'll ever need
+- [bootstrap-select](https://github.com/snapappointments/bootstrap-select)
+  - 🚀 The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
+- [imageToSticker](https://github.com/YogaSakti/imageToSticker)
+  - Whatsapp Bot - sticker creator
