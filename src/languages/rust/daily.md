@@ -1,51 +1,51 @@
 # rust
 - [libra](https://github.com/libra/libra)
   - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [rudiments](https://github.com/jonasrmichel/rudiments)
-  - A drum machine written in Rust
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [substrate](https://github.com/paritytech/substrate)
   - Substrate: The platform for blockchain innovators
+- [wasmer](https://github.com/wasmerio/wasmer)
+  - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+- [OpenSK](https://github.com/google/OpenSK)
+  - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
+- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
+  - Facilitating high-level interactions between Wasm modules and JavaScript
+- [tree-sitter](https://github.com/tree-sitter/tree-sitter)
+  - An incremental parsing system for programming tools
+- [juniper](https://github.com/graphql-rust/juniper)
+  - GraphQL server library for Rust
+- [kimde](https://github.com/POMMI3R/kimde)
+  - 
+- [tikv](https://github.com/tikv/tikv)
+  - Distributed transactional key-value database, originally created to complement TiDB
+- [diesel](https://github.com/diesel-rs/diesel)
+  - A safe, extensible ORM and Query Builder for Rust
+- [hyper](https://github.com/hyperium/hyper)
+  - An HTTP library for Rust
+- [WeDPR-Lab-Core](https://github.com/WeBankBlockchain/WeDPR-Lab-Core)
+  - Core libraries of WeDPR instant scenario-focused solutions for privacy-inspired business; WeDPR即时可用场景式隐私保护高效解决方案核心算法组件
+- [navi](https://github.com/denisidoro/navi)
+  - An interactive cheatsheet tool for the command-line and application launchers
+- [Rocket](https://github.com/SergioBenitez/Rocket)
+  - A web framework for Rust.
+- [docker-compose-wait](https://github.com/ufoscout/docker-compose-wait)
+  - A simple script to wait for other docker images to be started while using docker-compose
+- [orjson](https://github.com/ijl/orjson)
+  - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [iced](https://github.com/hecrj/iced)
+  - A cross-platform GUI library for Rust, inspired by Elm
+- [napkin-math](https://github.com/sirupsen/napkin-math)
+  - Techniques and numbers for estimating system's performance from first-principles
+- [firecracker](https://github.com/firecracker-microvm/firecracker)
+  - Secure and fast microVMs for serverless computing.
 - [openethereum](https://github.com/openethereum/openethereum)
   - The fast, light, and robust client for Ethereum-like networks.
 - [examples](https://github.com/actix/examples)
   - Examples of Actix ecosystem usage.
-- [orbtk](https://github.com/redox-os/orbtk)
-  - The Rust UI-Toolkit.
-- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
-  - 📚 Learn to write an embedded OS in Rust 🦀
-- [tauri](https://github.com/tauri-apps/tauri)
-  - Build smaller, faster, and more secure desktop applications with a web frontend.
-- [napkin-math](https://github.com/sirupsen/napkin-math)
-  - Techniques and numbers for estimating system's performance from first-principles
-- [jrsonnet](https://github.com/CertainLach/jrsonnet)
-  - Rust implementation of Jsonnet language
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [talent-plan](https://github.com/pingcap/talent-plan)
-  - open source training courses about distributed database and distributed systemes
 - [nushell](https://github.com/nushell/nushell)
   - A new type of shell
-- [gitoxide](https://github.com/Byron/gitoxide)
-  - An idiomatic, lean, fast & safe pure Rust implementation of Git
-- [pyo3](https://github.com/PyO3/pyo3)
-  - Rust bindings for the Python interpreter
-- [ultraviolet](https://github.com/termhn/ultraviolet)
-  - A wide linear algebra crate for games and graphics.
-- [bat](https://github.com/sharkdp/bat)
-  - A cat(1) clone with wings.
-- [polkadot](https://github.com/paritytech/polkadot)
-  - Polkadot Node Implementation
-- [actix](https://github.com/actix/actix)
-  - Actor framework for Rust.
-- [vector](https://github.com/timberio/vector)
-  - An ultra-performant, vendor-neutral tool for building observability pipelines.
-- [docker-compose-wait](https://github.com/ufoscout/docker-compose-wait)
-  - A simple script to wait for other docker images to be started while using docker-compose
-- [grex](https://github.com/pemistahl/grex)
-  - A command-line tool and library for generating regular expressions from user-provided test cases
-- [diesel](https://github.com/diesel-rs/diesel)
-  - A safe, extensible ORM and Query Builder for Rust
+- [mdBook](https://github.com/rust-lang/mdBook)
+  - Create book from markdown files. Like Gitbook but implemented in Rust
+- [starship](https://github.com/starship/starship)
+  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
