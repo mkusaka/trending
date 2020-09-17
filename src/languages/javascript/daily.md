@@ -1,51 +1,51 @@
 # javascript
-- [moment](https://github.com/moment/moment)
-  - Parse, validate, manipulate, and display dates in javascript.
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [jsPDF](https://github.com/MrRio/jsPDF)
-  - Client-side JavaScript PDF generation for everyone.
-- [Javascript](https://github.com/TheAlgorithms/Javascript)
-  - A repository for All algorithms implemented in Javascript (for educational purposes only)
 - [create-react-app](https://github.com/facebook/create-react-app)
   - Set up a modern web app by running one command.
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
-- [examples](https://github.com/serverless/examples)
-  - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
+- [javascript](https://github.com/airbnb/javascript)
+  - JavaScript Style Guide
+- [date-fns](https://github.com/date-fns/date-fns)
+  - ⏳ Modern JavaScript date utility library ⌛️
+- [jsPDF](https://github.com/MrRio/jsPDF)
+  - Client-side JavaScript PDF generation for everyone.
+- [moment](https://github.com/moment/moment)
+  - Parse, validate, manipulate, and display dates in javascript.
+- [Recoil](https://github.com/facebookexperimental/Recoil)
+  - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
+- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
+  - 🚀🚀🚀A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.
+- [next.js](https://github.com/vercel/next.js)
+  - The React Framework
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [react-nil](https://github.com/pmndrs/react-nil)
+  - ⃝ A react null renderer
 - [jitsi-meet](https://github.com/jitsi/jitsi-meet)
   - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [react-native-keyboard-aware-scroll-view](https://github.com/APSL/react-native-keyboard-aware-scroll-view)
-  - A ScrollView component that handles keyboard appearance and automatically scrolls to focused TextInput.
-- [edex-ui](https://github.com/GitSquared/edex-ui)
-  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [aws-serverless-workshops](https://github.com/aws-samples/aws-serverless-workshops)
-  - Code and walkthrough labs to set up serverless applications for Wild Rydes workshops
-- [Inputmask](https://github.com/RobinHerbots/Inputmask)
-  - Input Mask plugin
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-  - ⭐️ Companies that don't have a broken hiring process
-- [vue](https://github.com/vuejs/vue)
-  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [Web](https://github.com/qianguyihao/Web)
-  - 前端入门到进阶图文教程，超详细的Web前端学习笔记。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。
-- [shapez.io](https://github.com/tobspr/shapez.io)
-  - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
-- [react-virtualized](https://github.com/bvaughn/react-virtualized)
-  - React components for efficiently rendering large lists and tabular data
-- [cesium](https://github.com/CesiumGS/cesium)
-  - An open-source JavaScript library for world-class 3D globes and maps 🌎
+- [bigbluebutton](https://github.com/bigbluebutton/bigbluebutton)
+  - Complete open source web conferencing system.
+- [awx](https://github.com/ansible/awx)
+  - AWX Project
 - [tasks](https://github.com/rolling-scopes-school/tasks)
   - 
-- [pipedream](https://github.com/PipedreamHQ/pipedream)
-  - Serverless integration and compute platform. Free for developers.
-- [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable)
-  - Vue drag-and-drop component based on Sortable.js
-- [react-slack-clone](https://github.com/aakash-cr7/react-slack-clone)
-  - A slack clone using React and Firebase.
-- [slick](https://github.com/kenwheeler/slick)
-  - the last carousel you'll ever need
-- [bootstrap-select](https://github.com/snapappointments/bootstrap-select)
-  - 🚀 The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
-- [imageToSticker](https://github.com/YogaSakti/imageToSticker)
-  - Whatsapp Bot - sticker creator
+- [dayjs](https://github.com/iamkun/dayjs)
+  - ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API
+- [Javascript](https://github.com/TheAlgorithms/Javascript)
+  - A repository for All algorithms implemented in Javascript (for educational purposes only)
+- [react-demos](https://github.com/ruanyf/react-demos)
+  - a collection of simple demos of React.js
+- [vue-select](https://github.com/sagalbot/vue-select)
+  - Everything you wish the HTML <select> element could do, wrapped up into a lightweight, extensible Vue component.
+- [strapi](https://github.com/strapi/strapi)
+  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [Web](https://github.com/qianguyihao/Web)
+  - 前端入门到进阶图文教程，超详细的Web前端学习笔记。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。
+- [amphtml](https://github.com/ampproject/amphtml)
+  - The AMP web component framework.
+- [plyr](https://github.com/sampotts/plyr)
+  - A simple HTML5, YouTube and Vimeo player
+- [elasticsearch-js](https://github.com/elastic/elasticsearch-js)
+  - Official Elasticsearch client library for Node.js
+- [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
+  - Microsoft Authentication Library (MSAL) for JS
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.

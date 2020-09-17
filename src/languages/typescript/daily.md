@@ -1,51 +1,51 @@
 # typescript
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
   - The repository for high quality TypeScript type definitions.
-- [n8n](https://github.com/n8n-io/n8n)
-  - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
-  - 📋 React Hooks for forms validation (Web + React Native)
-- [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
-  - Tasks for Azure Pipelines
 - [vue-next](https://github.com/vuejs/vue-next)
   - Repo for Vue 3.0 (currently in RC)
-- [react-use](https://github.com/streamich/react-use)
-  - React Hooks — 👍
-- [amplify-js](https://github.com/aws-amplify/amplify-js)
-  - A declarative JavaScript library for application development using cloud services.
-- [deno](https://github.com/denoland/deno)
-  - A secure JavaScript and TypeScript runtime
-- [prism](https://github.com/stoplightio/prism)
-  - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
+- [theia](https://github.com/eclipse-theia/theia)
+  - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+- [kibana](https://github.com/elastic/kibana)
+  - Your window into the Elastic Stack
+- [TypeScript](https://github.com/microsoft/TypeScript)
+  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [ngx-admin](https://github.com/akveo/ngx-admin)
+  - Customizable admin dashboard template based on Angular 10+
+- [playground](https://github.com/tensorflow/playground)
+  - Play with neural networks!
+- [fast](https://github.com/microsoft/fast)
+  - The adaptive interface system for modern web experiences.
+- [prisma](https://github.com/prisma/prisma)
+  - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
+  - 📋 React Hooks for forms validation (Web + React Native)
+- [vite](https://github.com/vitejs/vite)
+  - Native-ESM powered web dev build tool. It's fast.
+- [postcss](https://github.com/postcss/postcss)
+  - Transforming styles with JS plugins
+- [components](https://github.com/angular/components)
+  - Component infrastructure and Material Design components for Angular
+- [snyk](https://github.com/snyk/snyk)
+  - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
+- [survey-library](https://github.com/surveyjs/survey-library)
+  - JavaScript Survey and Form Library
+- [tfjs-models](https://github.com/tensorflow/tfjs-models)
+  - Pretrained models for TensorFlow.js
+- [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)
+  - UI components lib based on Ant Design for Angular
 - [streamlit](https://github.com/streamlit/streamlit)
   - Streamlit — The fastest way to build data apps in Python
-- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
-  - The source for REST API specifications for Microsoft Azure.
-- [apollo-client](https://github.com/apollographql/apollo-client)
-  - 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
-- [react-native-paper](https://github.com/callstack/react-native-paper)
-  - Material Design for React Native (Android & iOS)
-- [nest](https://github.com/nestjs/nest)
-  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-- [snabbdom](https://github.com/snabbdom/snabbdom)
-  - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
-- [stitches](https://github.com/modulz/stitches)
-  - The modern styling library.
+- [motion](https://github.com/framer/motion)
+  - Open source, production-ready animation and gesture library for React
+- [n8n](https://github.com/n8n-io/n8n)
+  - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+- [prism](https://github.com/stoplightio/prism)
+  - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
+- [G6](https://github.com/antvis/G6)
+  - ♾ A Graph Visualization Framework in JavaScript
+- [checkout](https://github.com/actions/checkout)
+  - Action for checking out a repo
+- [notable](https://github.com/notable/notable)
+  - The Markdown-based note-taking app that doesn't suck.
 - [destreamer](https://github.com/snobu/destreamer)
   - Save Microsoft Stream videos for offline enjoyment.
-- [formik](https://github.com/formium/formik)
-  - Build forms in React, without the tears 😭
-- [mkdocs-material](https://github.com/squidfunk/mkdocs-material)
-  - A Material Design theme for MkDocs
-- [lightweight-charts](https://github.com/tradingview/lightweight-charts)
-  - Financial lightweight charts built with HTML5 canvas
-- [fullcalendar](https://github.com/fullcalendar/fullcalendar)
-  - Full-sized drag & drop event calendar
-- [renovate](https://github.com/renovatebot/renovate)
-  - Universal dependency update tool that fits into your workflows.
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [tweakpane](https://github.com/cocopon/tweakpane)
-  - 🎛️ Compact GUI for fine-tuning parameters and monitoring value changes
-- [angular-cli](https://github.com/angular/angular-cli)
-  - CLI tool for Angular
