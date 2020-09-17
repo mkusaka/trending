@@ -1,50 +1,51 @@
 # general
 - [CVE-2020-1472](https://github.com/SecuraBV/CVE-2020-1472) : Python
   - Test tool for CVE-2020-1472
-- [libra](https://github.com/libra/libra) : Rust
-  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [rails](https://github.com/rails/rails) : Ruby
-  - Ruby on Rails
 - [googletest](https://github.com/google/googletest) : C++
   - Googletest - Google Testing and Mocking Framework
-- [vault](https://github.com/hashicorp/vault) : Go
-  - A tool for secrets management, encryption as a service, and privileged access management
-- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) : TypeScript
-  - The repository for high quality TypeScript type definitions.
-- [zig](https://github.com/ziglang/zig) : Zig
-  - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
-- [CVE-2020-1472](https://github.com/dirkjanm/CVE-2020-1472) : Python
-  - PoC for Zerologon - all research credits go to Tom Tervoort of Secura
+- [libra](https://github.com/libra/libra) : Rust
+  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [onefuzz](https://github.com/microsoft/onefuzz) : 
+  - A self-hosted Fuzzing-As-A-Service platform
+- [tribuo](https://github.com/oracle/tribuo) : Java
+  - Tribuo - A Java machine learning library
+- [DAIN](https://github.com/baowenbo/DAIN) : Python
+  - Depth-Aware Video Frame Interpolation (CVPR 2019)
+- [jazzit](https://github.com/Sangarshanan/jazzit) : Python
+  - Laughs at your expense
 - [team-comtress-2](https://github.com/mastercomfig/team-comtress-2) : C++
   - Team Fortress 2, but with a lot of fixes, QoL improvements and performance optimizations!
-- [Notebooks](https://github.com/PythonFreeCourse/Notebooks) : Jupyter Notebook
-  - Learn Python for free using open-source notebooks in Hebrew.
-- [tmpmail](https://github.com/sdushantha/tmpmail) : Shell
-  - ✉️ A temporary email right from your terminal
-- [low-level-design-primer](https://github.com/prasadgujar/low-level-design-primer) : 
-  - Dedicated Resources for the Low-Level System Design. Learn how to design and implement large-scale systems. Prep for the system design interview.
+- [EasyOCR](https://github.com/JaidedAI/EasyOCR) : Python
+  - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
+- [cortex](https://github.com/cortexlabs/cortex) : Go
+  - Model serving infrastructure for developers
+- [pebble](https://github.com/cockroachdb/pebble) : Go
+  - RocksDB/LevelDB inspired key-value database in Go
+- [CVE-2020-1472](https://github.com/dirkjanm/CVE-2020-1472) : Python
+  - PoC for Zerologon - all research credits go to Tom Tervoort of Secura
+- [ARL](https://github.com/TophantTechnology/ARL) : Python
+  - ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
 - [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) : Python
   - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
   - Roadmap to becoming a web developer in 2020
-- [DAIN](https://github.com/baowenbo/DAIN) : Python
-  - Depth-Aware Video Frame Interpolation (CVPR 2019)
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
+- [yearn-protocol](https://github.com/iearn-finance/yearn-protocol) : Solidity
+  - Yearn solidity smart contracts
+- [generative_inpainting](https://github.com/JiahuiYu/generative_inpainting) : Python
+  - DeepFill v1/v2 with Contextual Attention and Gated Convolution, CVPR 2018, and ICCV 2019 Oral
 - [Hero](https://github.com/HeroTransitions/Hero) : Swift
   - Elegant transition library for iOS & tvOS
-- [sds1](https://github.com/devsuperior/sds1) : CSS
-- [mall-swarm](https://github.com/macrozheng/mall-swarm) : Java
-  - mall-swarm是一套微服务商城系统，采用了 Spring Cloud Hoxton & Alibaba、Spring Boot 2.3、Oauth2、MyBatis、Docker、Elasticsearch等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。
-- [jupyter-text2code](https://github.com/deepklarity/jupyter-text2code) : Jupyter Notebook
-  - A proof-of-concept jupyter extension which converts english queries into relevant python code
-- [elasticsearch](https://github.com/elastic/elasticsearch) : Java
-  - Open Source, Distributed, RESTful Search Engine
-- [n8n](https://github.com/n8n-io/n8n) : TypeScript
-  - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
-- [moment](https://github.com/moment/moment) : JavaScript
-  - Parse, validate, manipulate, and display dates in javascript.
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form) : TypeScript
-  - 📋 React Hooks for forms validation (Web + React Native)
-- [EasyOCR](https://github.com/JaidedAI/EasyOCR) : Python
-  - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
+- [vault](https://github.com/hashicorp/vault) : Go
+  - A tool for secrets management, encryption as a service, and privileged access management
+- [linux-command](https://github.com/jaywcjlove/linux-command) : HTML
+  - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
+- [istio](https://github.com/istio/istio) : Go
+  - Connect, secure, control, and observe services.
+- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) : Go
+  - Terraform AWS provider
+- [Kingfisher](https://github.com/onevcat/Kingfisher) : Swift
+  - A lightweight, pure-Swift library for downloading and caching images from the web.
+- [Background-Matting](https://github.com/senguptaumd/Background-Matting) : Python
+  - Background Matting: The World is Your Green Screen
+- [create-react-app](https://github.com/facebook/create-react-app) : JavaScript
+  - Set up a modern web app by running one command.

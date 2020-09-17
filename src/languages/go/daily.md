@@ -1,51 +1,51 @@
 # go
+- [cortex](https://github.com/cortexlabs/cortex)
+  - Model serving infrastructure for developers
+- [pebble](https://github.com/cockroachdb/pebble)
+  - RocksDB/LevelDB inspired key-value database in Go
 - [vault](https://github.com/hashicorp/vault)
   - A tool for secrets management, encryption as a service, and privileged access management
-- [trivy](https://github.com/aquasecurity/trivy)
-  - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
-- [telegraf](https://github.com/influxdata/telegraf)
-  - The plugin-driven server agent for collecting & reporting metrics.
-- [go-ethereum](https://github.com/ethereum/go-ethereum)
-  - Official Go implementation of the Ethereum protocol
-- [validator](https://github.com/go-playground/validator)
-  - 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-- [ent](https://github.com/facebook/ent)
-  - An entity framework for Go
+- [istio](https://github.com/istio/istio)
+  - Connect, secure, control, and observe services.
 - [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
   - Terraform AWS provider
-- [consul](https://github.com/hashicorp/consul)
-  - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [amongusdiscord](https://github.com/denverquane/amongusdiscord)
-  - Discord Bot to scrape Among Us on-screen data and automatically mute players between rounds
 - [aws-sdk-go](https://github.com/aws/aws-sdk-go)
   - AWS SDK for the Go programming language.
-- [pipeline](https://github.com/tektoncd/pipeline)
-  - A K8s-native Pipeline resource.
-- [kind](https://github.com/kubernetes-sigs/kind)
-  - Kubernetes IN Docker - local clusters for testing Kubernetes
-- [yarr](https://github.com/nkanaev/yarr)
-  - yet another rss reader
-- [minio](https://github.com/minio/minio)
-  - High Performance, Kubernetes Native Object Storage
-- [argo-cd](https://github.com/argoproj/argo-cd)
-  - Declarative continuous deployment for Kubernetes.
-- [eksctl](https://github.com/weaveworks/eksctl)
-  - The official CLI for Amazon EKS
-- [influxdb](https://github.com/influxdata/influxdb)
-  - Scalable datastore for metrics, events, and real-time analytics
-- [govmomi](https://github.com/vmware/govmomi)
-  - Go library for the VMware vSphere API
-- [logrus](https://github.com/sirupsen/logrus)
-  - Structured, pluggable logging for Go.
-- [terraform](https://github.com/hashicorp/terraform)
-  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm)
+  - Terraform provider for Azure Resource Manager
+- [terratest](https://github.com/gruntwork-io/terratest)
+  - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [grpc-go](https://github.com/grpc/grpc-go)
+  - The Go language implementation of gRPC. HTTP/2 based RPC
 - [protobuf](https://github.com/golang/protobuf)
   - Go support for Google's protocol buffers
 - [pulumi](https://github.com/pulumi/pulumi)
   - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
-- [aws-alb-ingress-controller](https://github.com/kubernetes-sigs/aws-alb-ingress-controller)
-  - AWS ALB Ingress Controller for Kubernetes
-- [confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go)
-  - Confluent's Apache Kafka Golang client
-- [esbuild](https://github.com/evanw/esbuild)
-  - An extremely fast JavaScript bundler and minifier
+- [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
+  - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+- [badger](https://github.com/dgraph-io/badger)
+  - Fast key-value DB in Go.
+- [blackbox_exporter](https://github.com/prometheus/blackbox_exporter)
+  - Blackbox prober exporter
+- [tools](https://github.com/golang/tools)
+  - [mirror] Go Tools
+- [mkcert](https://github.com/FiloSottile/mkcert)
+  - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+- [amongusdiscord](https://github.com/denverquane/amongusdiscord)
+  - Discord Bot to scrape Among Us on-screen data and automatically mute players between rounds
+- [moby](https://github.com/moby/moby)
+  - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector)
+  - OpenTelemetry Collector
+- [govmomi](https://github.com/vmware/govmomi)
+  - Go library for the VMware vSphere API
+- [ozzo-validation](https://github.com/go-ozzo/ozzo-validation)
+  - An idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags.
+- [pongo2](https://github.com/flosch/pongo2)
+  - Django-syntax like template-engine for Go
+- [consul](https://github.com/hashicorp/consul)
+  - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+- [2048](https://github.com/chhabraamit/2048)
+  - A cli implementation of 2048 game in golang
+- [kubernetes](https://github.com/kubernetes/kubernetes)
+  - Production-Grade Container Scheduling and Management
