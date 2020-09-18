@@ -1,51 +1,50 @@
 # general
-- [CVE-2020-1472](https://github.com/SecuraBV/CVE-2020-1472) : Python
-  - Test tool for CVE-2020-1472
+- [cli](https://github.com/cli/cli) : Go
+  - GitHub’s official command line tool
 - [googletest](https://github.com/google/googletest) : C++
   - Googletest - Google Testing and Mocking Framework
-- [libra](https://github.com/libra/libra) : Rust
-  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [onefuzz](https://github.com/microsoft/onefuzz) : 
-  - A self-hosted Fuzzing-As-A-Service platform
-- [tribuo](https://github.com/oracle/tribuo) : Java
-  - Tribuo - A Java machine learning library
-- [DAIN](https://github.com/baowenbo/DAIN) : Python
-  - Depth-Aware Video Frame Interpolation (CVPR 2019)
-- [jazzit](https://github.com/Sangarshanan/jazzit) : Python
-  - Laughs at your expense
-- [team-comtress-2](https://github.com/mastercomfig/team-comtress-2) : C++
-  - Team Fortress 2, but with a lot of fixes, QoL improvements and performance optimizations!
-- [EasyOCR](https://github.com/JaidedAI/EasyOCR) : Python
-  - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
 - [cortex](https://github.com/cortexlabs/cortex) : Go
   - Model serving infrastructure for developers
-- [pebble](https://github.com/cockroachdb/pebble) : Go
-  - RocksDB/LevelDB inspired key-value database in Go
-- [CVE-2020-1472](https://github.com/dirkjanm/CVE-2020-1472) : Python
-  - PoC for Zerologon - all research credits go to Tom Tervoort of Secura
-- [ARL](https://github.com/TophantTechnology/ARL) : Python
-  - ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
-- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) : Python
-  - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
-  - Roadmap to becoming a web developer in 2020
-- [yearn-protocol](https://github.com/iearn-finance/yearn-protocol) : Solidity
-  - Yearn solidity smart contracts
-- [generative_inpainting](https://github.com/JiahuiYu/generative_inpainting) : Python
-  - DeepFill v1/v2 with Contextual Attention and Gated Convolution, CVPR 2018, and ICCV 2019 Oral
 - [Hero](https://github.com/HeroTransitions/Hero) : Swift
   - Elegant transition library for iOS & tvOS
-- [vault](https://github.com/hashicorp/vault) : Go
-  - A tool for secrets management, encryption as a service, and privileged access management
-- [linux-command](https://github.com/jaywcjlove/linux-command) : HTML
-  - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
-- [istio](https://github.com/istio/istio) : Go
-  - Connect, secure, control, and observe services.
-- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) : Go
-  - Terraform AWS provider
+- [bicep](https://github.com/Azure/bicep) : C#
+- [bakeware](https://github.com/spawnfest/bakeware) : C
+  - SpawnFest 2020 - Your description here..!
+- [ML_course](https://github.com/epfml/ML_course) : TeX
+  - EPFL Machine Learning Course, Fall 2019
+- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) : Python
+  - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
+- [onefuzz](https://github.com/microsoft/onefuzz) : 
+  - A self-hosted Fuzzing-As-A-Service platform
 - [Kingfisher](https://github.com/onevcat/Kingfisher) : Swift
   - A lightweight, pure-Swift library for downloading and caching images from the web.
-- [Background-Matting](https://github.com/senguptaumd/Background-Matting) : Python
-  - Background Matting: The World is Your Green Screen
-- [create-react-app](https://github.com/facebook/create-react-app) : JavaScript
-  - Set up a modern web app by running one command.
+- [linux-command](https://github.com/jaywcjlove/linux-command) : HTML
+  - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
+- [react-query](https://github.com/tannerlinsley/react-query) : TypeScript
+  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+- [dayjs](https://github.com/iamkun/dayjs) : JavaScript
+  - ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API
+- [material-shell](https://github.com/material-shell/material-shell) : JavaScript
+  - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
+- [pytorch](https://github.com/pytorch/pytorch) : C++
+  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [vagas-junior-estagio](https://github.com/alinebastos/vagas-junior-estagio) : 
+  - Empresas que constantemente oferecem vagas para junior e estagiários
+- [mimikatz](https://github.com/gentilkiwi/mimikatz) : C
+  - A little tool to play with Windows security
+- [element-plus](https://github.com/element-plus/element-plus) : Vue
+  - 🎉 A Vue.js 3.0 UI Library
+- [cypress](https://github.com/cypress-io/cypress) : JavaScript
+  - Fast, easy and reliable testing for anything that runs in a browser.
+- [EasyOCR](https://github.com/JaidedAI/EasyOCR) : Python
+  - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
+- [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days) : Python
+  - Pytorch🍊🍉 is delicious, just eat it! 😋😋
+- [tmpmail](https://github.com/sdushantha/tmpmail) : Shell
+  - ✉️ A temporary email right from your terminal
+- [linux](https://github.com/torvalds/linux) : C
+  - Linux kernel source tree
+- [app-ideas](https://github.com/florinpop17/app-ideas) : 
+  - A Collection of application ideas which can be used to improve your coding skills.
+- [Mask_RCNN](https://github.com/matterport/Mask_RCNN) : Python
+  - Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow

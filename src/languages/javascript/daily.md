@@ -1,51 +1,51 @@
 # javascript
-- [create-react-app](https://github.com/facebook/create-react-app)
-  - Set up a modern web app by running one command.
-- [javascript](https://github.com/airbnb/javascript)
-  - JavaScript Style Guide
-- [date-fns](https://github.com/date-fns/date-fns)
-  - ⏳ Modern JavaScript date utility library ⌛️
-- [jsPDF](https://github.com/MrRio/jsPDF)
-  - Client-side JavaScript PDF generation for everyone.
-- [moment](https://github.com/moment/moment)
-  - Parse, validate, manipulate, and display dates in javascript.
-- [Recoil](https://github.com/facebookexperimental/Recoil)
-  - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
-- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
-  - 🚀🚀🚀A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.
-- [next.js](https://github.com/vercel/next.js)
-  - The React Framework
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [react-nil](https://github.com/pmndrs/react-nil)
-  - ⃝ A react null renderer
-- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
-  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [bigbluebutton](https://github.com/bigbluebutton/bigbluebutton)
-  - Complete open source web conferencing system.
-- [awx](https://github.com/ansible/awx)
-  - AWX Project
-- [tasks](https://github.com/rolling-scopes-school/tasks)
-  - 
 - [dayjs](https://github.com/iamkun/dayjs)
   - ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API
-- [Javascript](https://github.com/TheAlgorithms/Javascript)
-  - A repository for All algorithms implemented in Javascript (for educational purposes only)
-- [react-demos](https://github.com/ruanyf/react-demos)
-  - a collection of simple demos of React.js
-- [vue-select](https://github.com/sagalbot/vue-select)
-  - Everything you wish the HTML <select> element could do, wrapped up into a lightweight, extensible Vue component.
-- [strapi](https://github.com/strapi/strapi)
-  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
-- [Web](https://github.com/qianguyihao/Web)
-  - 前端入门到进阶图文教程，超详细的Web前端学习笔记。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。
-- [amphtml](https://github.com/ampproject/amphtml)
-  - The AMP web component framework.
-- [plyr](https://github.com/sampotts/plyr)
-  - A simple HTML5, YouTube and Vimeo player
-- [elasticsearch-js](https://github.com/elastic/elasticsearch-js)
-  - Official Elasticsearch client library for Node.js
-- [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
-  - Microsoft Authentication Library (MSAL) for JS
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [material-shell](https://github.com/material-shell/material-shell)
+  - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
+- [cypress](https://github.com/cypress-io/cypress)
+  - Fast, easy and reliable testing for anything that runs in a browser.
+- [swagger-ui](https://github.com/swagger-api/swagger-ui)
+  - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
+- [create-react-app](https://github.com/facebook/create-react-app)
+  - Set up a modern web app by running one command.
+- [nodejs-starter-boilerplate](https://github.com/ahmetbcakici/nodejs-starter-boilerplate)
+  - 
+- [slick](https://github.com/kenwheeler/slick)
+  - the last carousel you'll ever need
+- [moment](https://github.com/moment/moment)
+  - Parse, validate, manipulate, and display dates in javascript.
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [gatsby](https://github.com/gatsbyjs/gatsby)
+  - Build blazing fast, modern apps and websites with React
+- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
+  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [aws-extend-switch-roles](https://github.com/tilfin/aws-extend-switch-roles)
+  - Extend your AWS IAM switching roles by Chrome extension or Firefox add-on
+- [rollup](https://github.com/rollup/rollup)
+  - Next-generation ES module bundler
+- [Recoil](https://github.com/facebookexperimental/Recoil)
+  - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
+- [netflix](https://github.com/karlhadwen/netflix)
+  - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Netflix Using React
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+  - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
+- [webpack](https://github.com/webpack/webpack)
+  - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
+  - 🕸 No-bullshit answers to the famous h5bp "Front-end Job Interview Questions"
+- [wechat-app-mall](https://github.com/EastWorld/wechat-app-mall)
+  - 微信小程序商城，微信小程序微店
+- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
+  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+- [openlayers](https://github.com/openlayers/openlayers)
+  - OpenLayers
+- [layuimini](https://github.com/zhongshaofa/layuimini)
+  - 后台admin前端模板，基于 layui 编写的最简洁、易用的后台框架模板。只需提供一个接口就直接初始化整个框架，无需复杂操作。
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+  - ⚡ Dynamically generated stats for your github readmes
+- [three.js](https://github.com/mrdoob/three.js)
+  - JavaScript 3D library.
