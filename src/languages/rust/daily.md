@@ -1,51 +1,51 @@
 # rust
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [pb-jelly](https://github.com/dropbox/pb-jelly)
-  - A protobuf code generation framework for the Rust language developed at Dropbox.
-- [vector](https://github.com/timberio/vector)
-  - High-performance, vendor-neutral observability pipelines.
-- [reqwest](https://github.com/seanmonstar/reqwest)
-  - An easy and powerful Rust HTTP Client
-- [openethereum](https://github.com/openethereum/openethereum)
-  - The fast, light, and robust client for Ethereum-like networks.
-- [hyper](https://github.com/hyperium/hyper)
-  - An HTTP library for Rust
-- [scipio](https://github.com/DataDog/scipio)
-  - Scipio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans
-- [substrate](https://github.com/paritytech/substrate)
-  - Substrate: The platform for blockchain innovators
-- [static-analysis](https://github.com/analysis-tools-dev/static-analysis)
-  - A curated list of static analysis tools for all programming languages, config files, build tools, and more.
+- [onefuzz](https://github.com/microsoft/onefuzz)
+  - A self-hosted Fuzzing-As-A-Service platform
 - [polkadot](https://github.com/paritytech/polkadot)
   - Polkadot Node Implementation
-- [tree-sitter](https://github.com/tree-sitter/tree-sitter)
-  - An incremental parsing system for programming tools
-- [py-spy](https://github.com/benfred/py-spy)
-  - Sampling profiler for Python programs
-- [orjson](https://github.com/ijl/orjson)
-  - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
-- [navi](https://github.com/denisidoro/navi)
-  - An interactive cheatsheet tool for the command-line and application launchers
-- [juniper](https://github.com/graphql-rust/juniper)
-  - GraphQL server library for Rust
-- [spotify-tui](https://github.com/Rigellute/spotify-tui)
-  - Spotify for the terminal written in Rust 🚀
-- [tikv](https://github.com/tikv/tikv)
-  - Distributed transactional key-value database, originally created to complement TiDB
-- [gitoxide](https://github.com/Byron/gitoxide)
-  - An idiomatic, lean, fast & safe pure Rust implementation of Git
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [firecracker](https://github.com/firecracker-microvm/firecracker)
-  - Secure and fast microVMs for serverless computing.
+- [fd](https://github.com/sharkdp/fd)
+  - A simple, fast and user-friendly alternative to 'find'
+- [reqwest](https://github.com/seanmonstar/reqwest)
+  - An easy and powerful Rust HTTP Client
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
+- [Rocket](https://github.com/SergioBenitez/Rocket)
+  - A web framework for Rust.
+- [examples](https://github.com/actix/examples)
+  - Examples of Actix ecosystem usage.
+- [async-std](https://github.com/async-rs/async-std)
+  - Async version of the Rust standard library
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - ripgrep recursively searches directories for a regex pattern
+- [csview](https://github.com/wfxr/csview)
+  - 📠 A high performance csv viewer with cjk/emoji support.
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
 - [RustPython](https://github.com/RustPython/RustPython)
   - A Python Interpreter written in Rust
-- [tokei](https://github.com/XAMPPRocky/tokei)
-  - Count your code, quickly.
-- [wasmer](https://github.com/wasmerio/wasmer)
-  - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+- [actix](https://github.com/actix/actix)
+  - Actor framework for Rust.
 - [xsv](https://github.com/BurntSushi/xsv)
   - A fast CSV command line toolkit written in Rust.
+- [juniper](https://github.com/graphql-rust/juniper)
+  - GraphQL server library for Rust
+- [hyper](https://github.com/hyperium/hyper)
+  - An HTTP library for Rust
+- [tide](https://github.com/http-rs/tide)
+  - Fast and friendly HTTP server framework for async Rust
 - [wgpu](https://github.com/gfx-rs/wgpu)
   - Native WebGPU implementation based on gfx-hal
+- [bevy](https://github.com/bevyengine/bevy)
+  - A refreshingly simple data-driven game engine built in Rust
+- [cargo](https://github.com/rust-lang/cargo)
+  - The Rust package manager
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
+- [warp](https://github.com/seanmonstar/warp)
+  - A super-easy, composable, web server framework for warp speeds.
+- [zola](https://github.com/getzola/zola)
+  - A fast static site generator in a single binary with everything built-in. https://www.getzola.org

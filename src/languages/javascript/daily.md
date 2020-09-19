@@ -1,51 +1,51 @@
 # javascript
-- [dayjs](https://github.com/iamkun/dayjs)
-  - ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API
+- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
+  - Bypass Paywalls web browser extension for Chrome and Firefox.
+- [send](https://github.com/mozilla/send)
+  - Simple, private file sharing from the makers of Firefox
 - [material-shell](https://github.com/material-shell/material-shell)
   - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
-- [cypress](https://github.com/cypress-io/cypress)
-  - Fast, easy and reliable testing for anything that runs in a browser.
+- [dayjs](https://github.com/iamkun/dayjs)
+  - ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API
 - [swagger-ui](https://github.com/swagger-api/swagger-ui)
   - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
-- [create-react-app](https://github.com/facebook/create-react-app)
-  - Set up a modern web app by running one command.
-- [nodejs-starter-boilerplate](https://github.com/ahmetbcakici/nodejs-starter-boilerplate)
-  - 
-- [slick](https://github.com/kenwheeler/slick)
-  - the last carousel you'll ever need
-- [moment](https://github.com/moment/moment)
-  - Parse, validate, manipulate, and display dates in javascript.
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [realworld](https://github.com/gothinkster/realworld)
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [cypress](https://github.com/cypress-io/cypress)
+  - Fast, easy and reliable testing for anything that runs in a browser.
 - [react-native](https://github.com/facebook/react-native)
   - A framework for building native apps with React.
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
-- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
-  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [aws-extend-switch-roles](https://github.com/tilfin/aws-extend-switch-roles)
-  - Extend your AWS IAM switching roles by Chrome extension or Firefox add-on
-- [rollup](https://github.com/rollup/rollup)
-  - Next-generation ES module bundler
-- [Recoil](https://github.com/facebookexperimental/Recoil)
-  - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
-- [netflix](https://github.com/karlhadwen/netflix)
-  - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Netflix Using React
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-  - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
-- [webpack](https://github.com/webpack/webpack)
-  - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+- [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+  - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
+- [vue-lit](https://github.com/yyx990803/vue-lit)
+  - Proof of concept custom elements "framework"
 - [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
   - 🕸 No-bullshit answers to the famous h5bp "Front-end Job Interview Questions"
-- [wechat-app-mall](https://github.com/EastWorld/wechat-app-mall)
-  - 微信小程序商城，微信小程序微店
+- [jsPDF](https://github.com/MrRio/jsPDF)
+  - Client-side JavaScript PDF generation for everyone.
+- [grapesjs](https://github.com/artf/grapesjs)
+  - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
+- [aws-extend-switch-roles](https://github.com/tilfin/aws-extend-switch-roles)
+  - Extend your AWS IAM switching roles by Chrome extension or Firefox add-on
+- [engine](https://github.com/cocos-creator/engine)
+  - Cocos Creator is a complete package of game development tools and workflow, including a game engine, resource management, scene editing, game preview, debug and publish one project to multiple platforms.
+- [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
+  - Microsoft Authentication Library (MSAL) for JS
 - [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
   - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
-- [openlayers](https://github.com/openlayers/openlayers)
-  - OpenLayers
-- [layuimini](https://github.com/zhongshaofa/layuimini)
-  - 后台admin前端模板，基于 layui 编写的最简洁、易用的后台框架模板。只需提供一个接口就直接初始化整个框架，无需复杂操作。
-- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-  - ⚡ Dynamically generated stats for your github readmes
-- [three.js](https://github.com/mrdoob/three.js)
-  - JavaScript 3D library.
+- [uPlot](https://github.com/leeoniya/uPlot)
+  - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
+- [real-live](https://github.com/parzulpan/real-live)
+  - 跨平台网络直播聚合平台，支持视频直播、高清电视和广播电台等。A cross-platform webcast aggregation platform that supports live video, high-definition TV and radio stations.
+- [uniswap-org](https://github.com/Uniswap/uniswap-org)
+  - 🌐 Protocol site
+- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
+  - Beautiful and accessible drag and drop for lists with React
+- [lighthouse](https://github.com/GoogleChrome/lighthouse)
+  - Automated auditing, performance metrics, and best practices for the web.
+- [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
+  - A React component for building Web forms from JSON Schema.
+- [jsdoc](https://github.com/jsdoc/jsdoc)
+  - An API documentation generator for JavaScript.
+- [strapi](https://github.com/strapi/strapi)
+  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
