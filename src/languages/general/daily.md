@@ -1,50 +1,51 @@
 # general
 - [cli](https://github.com/cli/cli) : Go
   - GitHub’s official command line tool
-- [googletest](https://github.com/google/googletest) : C++
-  - Googletest - Google Testing and Mocking Framework
-- [cortex](https://github.com/cortexlabs/cortex) : Go
-  - Model serving infrastructure for developers
-- [Hero](https://github.com/HeroTransitions/Hero) : Swift
-  - Elegant transition library for iOS & tvOS
-- [bicep](https://github.com/Azure/bicep) : C#
-- [bakeware](https://github.com/spawnfest/bakeware) : C
-  - SpawnFest 2020 - Your description here..!
-- [ML_course](https://github.com/epfml/ML_course) : TeX
-  - EPFL Machine Learning Course, Fall 2019
-- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) : Python
-  - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
-- [onefuzz](https://github.com/microsoft/onefuzz) : 
-  - A self-hosted Fuzzing-As-A-Service platform
+- [kb](https://github.com/gnebbia/kb) : Python
+  - A minimalist knowledge base manager
+- [croc](https://github.com/schollz/croc) : Go
+  - Easily and securely send things from one computer to another 🐊 📦
 - [Kingfisher](https://github.com/onevcat/Kingfisher) : Swift
   - A lightweight, pure-Swift library for downloading and caching images from the web.
-- [linux-command](https://github.com/jaywcjlove/linux-command) : HTML
-  - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
-- [react-query](https://github.com/tannerlinsley/react-query) : TypeScript
-  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
-- [dayjs](https://github.com/iamkun/dayjs) : JavaScript
-  - ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API
-- [material-shell](https://github.com/material-shell/material-shell) : JavaScript
-  - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
-- [pytorch](https://github.com/pytorch/pytorch) : C++
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [vagas-junior-estagio](https://github.com/alinebastos/vagas-junior-estagio) : 
-  - Empresas que constantemente oferecem vagas para junior e estagiários
-- [mimikatz](https://github.com/gentilkiwi/mimikatz) : C
-  - A little tool to play with Windows security
-- [element-plus](https://github.com/element-plus/element-plus) : Vue
-  - 🎉 A Vue.js 3.0 UI Library
-- [cypress](https://github.com/cypress-io/cypress) : JavaScript
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [EasyOCR](https://github.com/JaidedAI/EasyOCR) : Python
-  - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
-- [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days) : Python
-  - Pytorch🍊🍉 is delicious, just eat it! 😋😋
-- [tmpmail](https://github.com/sdushantha/tmpmail) : Shell
-  - ✉️ A temporary email right from your terminal
-- [linux](https://github.com/torvalds/linux) : C
-  - Linux kernel source tree
-- [app-ideas](https://github.com/florinpop17/app-ideas) : 
-  - A Collection of application ideas which can be used to improve your coding skills.
+- [moby](https://github.com/moby/moby) : Go
+  - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [Mask_RCNN](https://github.com/matterport/Mask_RCNN) : Python
   - Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
+- [googletest](https://github.com/google/googletest) : C++
+  - Googletest - Google Testing and Mocking Framework
+- [FreeCAD](https://github.com/FreeCAD/FreeCAD) : C++
+  - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker
+- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) : JavaScript
+  - Bypass Paywalls web browser extension for Chrome and Firefox.
+- [vue-next](https://github.com/vuejs/vue-next) : TypeScript
+  - Repo for Vue 3.0 (currently in RC)
+- [onefuzz](https://github.com/microsoft/onefuzz) : Rust
+  - A self-hosted Fuzzing-As-A-Service platform
+- [twint](https://github.com/twintproject/twint) : Python
+  - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
+- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) : Python
+  - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
+- [silero-models](https://github.com/snakers4/silero-models) : Jupyter Notebook
+  - Silero Models: pre-trained STT models and benchmarks made embarrassingly simple
+- [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) : TypeScript
+  - An extension for VS Code that visualizes data during debugging.
+- [react-query](https://github.com/tannerlinsley/react-query) : TypeScript
+  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+- [windows](https://github.com/proxysu/windows) : C#
+  - V2ray , Trojan, Trojan-go, NaiveProxy, shadowsocksR install tools for windows V2ray，Trojan，Trojan-go, NaiveProxy, shadowsocksR的一键安装工具windows下用（一键科学上网）
+- [send](https://github.com/mozilla/send) : JavaScript
+  - Simple, private file sharing from the makers of Firefox
+- [linux-command](https://github.com/jaywcjlove/linux-command) : HTML
+  - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
+- [material-shell](https://github.com/material-shell/material-shell) : JavaScript
+  - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
+- [dayjs](https://github.com/iamkun/dayjs) : JavaScript
+  - ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) : Python
+  - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [Hazel](https://github.com/TheCherno/Hazel) : C++
+  - Hazel Engine
+- [Hero](https://github.com/HeroTransitions/Hero) : Swift
+  - Elegant transition library for iOS & tvOS
+- [pytorch](https://github.com/pytorch/pytorch) : C++
+  - Tensors and Dynamic neural networks in Python with strong GPU acceleration

@@ -1,51 +1,51 @@
 # go
 - [cli](https://github.com/cli/cli)
   - GitHub’s official command line tool
-- [cortex](https://github.com/cortexlabs/cortex)
-  - Model serving infrastructure for developers
-- [pebble](https://github.com/cockroachdb/pebble)
-  - RocksDB/LevelDB inspired key-value database in Go
+- [croc](https://github.com/schollz/croc)
+  - Easily and securely send things from one computer to another 🐊 📦
 - [moby](https://github.com/moby/moby)
   - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [istio](https://github.com/istio/istio)
-  - Connect, secure, control, and observe services.
-- [charts](https://github.com/helm/charts)
-  - Curated applications for Kubernetes
-- [amongusdiscord](https://github.com/denverquane/amongusdiscord)
-  - Discord Bot to scrape Among Us on-screen data and automatically mute players between rounds
-- [excelize](https://github.com/360EntSecGroup-Skylar/excelize)
-  - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
-- [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm)
-  - Terraform provider for Azure Resource Manager
-- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
-  - Terraform AWS provider
-- [vault](https://github.com/hashicorp/vault)
-  - A tool for secrets management, encryption as a service, and privileged access management
-- [minikube](https://github.com/kubernetes/minikube)
-  - Run Kubernetes locally
-- [pulumi](https://github.com/pulumi/pulumi)
-  - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
-- [certificates](https://github.com/smallstep/certificates)
-  - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
-- [go-ipfs](https://github.com/ipfs/go-ipfs)
-  - IPFS implementation in Go
-- [free5gc](https://github.com/free5gc/free5gc)
-  - Open source 5G core network base on 3GPP R15
-- [cli](https://github.com/urfave/cli)
-  - A simple, fast, and fun package for building command line apps in Go
-- [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
-  - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [dubbo-go](https://github.com/apache/dubbo-go)
-  - Go Implementation For Apache Dubbo
-- [k3s](https://github.com/rancher/k3s)
-  - Lightweight Kubernetes
-- [ozzo-validation](https://github.com/go-ozzo/ozzo-validation)
-  - An idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags.
-- [protobuf](https://github.com/gogo/protobuf)
-  - Protocol Buffers for Go with Gadgets
+- [awesome-go](https://github.com/avelino/awesome-go)
+  - A curated list of awesome Go frameworks, libraries and software
+- [traefik](https://github.com/traefik/traefik)
+  - The Cloud Native Edge Router
+- [determined](https://github.com/determined-ai/determined)
+  - Determined: Deep Learning Training Platform
+- [modgv](https://github.com/lucasepe/modgv)
+  - Converts 'go mod graph' output into Graphviz's DOT language
+- [go-zero](https://github.com/tal-tech/go-zero)
+  - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
+- [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
+  - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，五分钟一套CURD前后端代码包含数据库的快感你不要体验一下吗~,更多功能正在开发中，欢迎issue和pr~
+- [kubernetes](https://github.com/kubernetes/kubernetes)
+  - Production-Grade Container Scheduling and Management
+- [cortex](https://github.com/cortexlabs/cortex)
+  - Model serving infrastructure for developers
+- [velero](https://github.com/vmware-tanzu/velero)
+  - Backup and migrate Kubernetes applications and their persistent volumes
+- [gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+  - Gatekeeper - Policy Controller for Kubernetes
+- [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN)
+  - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
+- [httprouter](https://github.com/julienschmidt/httprouter)
+  - A high performance HTTP request router that scales well
+- [hub](https://github.com/github/hub)
+  - A command-line tool that makes git easier to use with GitHub.
+- [tinygo](https://github.com/tinygo-org/tinygo)
+  - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
 - [groupcache](https://github.com/golang/groupcache)
   - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
-- [autoscaler](https://github.com/kubernetes/autoscaler)
-  - Autoscaling components for Kubernetes
-- [ent](https://github.com/facebook/ent)
-  - An entity framework for Go
+- [sealed-secrets](https://github.com/bitnami-labs/sealed-secrets)
+  - A Kubernetes controller and tool for one-way encrypted Secrets
+- [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga)
+  - Advanced information gathering & OSINT framework for phone numbers
+- [chainlink](https://github.com/smartcontractkit/chainlink)
+  - node of the decentralized oracle network, bridging on and off-chain computation
+- [act](https://github.com/nektos/act)
+  - Run your GitHub Actions locally 🚀
+- [certificates](https://github.com/smallstep/certificates)
+  - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
+- [golang-web-dev](https://github.com/GoesToEleven/golang-web-dev)
+  - 
+- [free5gc](https://github.com/free5gc/free5gc)
+  - Open source 5G core network base on 3GPP R15
