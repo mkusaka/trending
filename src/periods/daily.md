@@ -19,7 +19,7 @@
 - [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) : JavaScript
   - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [vue-next](https://github.com/vuejs/vue-next) : TypeScript
-  - Repo for Vue 3.0 (currently in RC)
+  - Repo for Vue 3.0
 - [onefuzz](https://github.com/microsoft/onefuzz) : Rust
   - A self-hosted Fuzzing-As-A-Service platform
 - [twint](https://github.com/twintproject/twint) : Python
@@ -139,7 +139,7 @@
 - [uPlot](https://github.com/leeoniya/uPlot)
   - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 - [real-live](https://github.com/parzulpan/real-live)
-  - 跨平台网络直播聚合平台，支持视频直播、高清电视和广播电台等。A cross-platform webcast aggregation platform that supports live video, high-definition TV and radio stations.
+  - 网络直播聚合平台的桌面端，支持视频直播、高清电视和广播电台等观看或收听。项目主要使用 Python 语言，采用 PyQt5、VLC、Requests 等技术栈。
 - [uniswap-org](https://github.com/Uniswap/uniswap-org)
   - 🌐 Protocol site
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
@@ -257,7 +257,7 @@
 ## c++
 ## typescript
 - [vue-next](https://github.com/vuejs/vue-next)
-  - Repo for Vue 3.0 (currently in RC)
+  - Repo for Vue 3.0
 - [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer)
   - An extension for VS Code that visualizes data during debugging.
 - [react-query](https://github.com/tannerlinsley/react-query)

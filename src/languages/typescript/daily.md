@@ -1,6 +1,6 @@
 # typescript
 - [vue-next](https://github.com/vuejs/vue-next)
-  - Repo for Vue 3.0 (currently in RC)
+  - Repo for Vue 3.0
 - [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer)
   - An extension for VS Code that visualizes data during debugging.
 - [react-query](https://github.com/tannerlinsley/react-query)

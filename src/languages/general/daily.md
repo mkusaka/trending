@@ -18,7 +18,7 @@
 - [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) : JavaScript
   - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [vue-next](https://github.com/vuejs/vue-next) : TypeScript
-  - Repo for Vue 3.0 (currently in RC)
+  - Repo for Vue 3.0
 - [onefuzz](https://github.com/microsoft/onefuzz) : Rust
   - A self-hosted Fuzzing-As-A-Service platform
 - [twint](https://github.com/twintproject/twint) : Python
