@@ -1,51 +1,51 @@
 # go
-- [croc](https://github.com/schollz/croc)
-  - Easily and securely send things from one computer to another 🐊 📦
 - [cli](https://github.com/cli/cli)
   - GitHub’s official command line tool
 - [dive](https://github.com/wagoodman/dive)
   - A tool for exploring each layer in a docker image
-- [infracost](https://github.com/infracost/infracost)
-  - Cloud cost estimates for Terraform in your CLI and pull requests 💰📉
-- [dapr](https://github.com/dapr/dapr)
-  - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-- [guora](https://github.com/meloalright/guora)
-  - 🖖🏻 A self-hosted Quora like web application written in Go 基于 Golang 类似知乎的私有部署问答应用 包含问答、评论、点赞、管理后台等功能
+- [croc](https://github.com/schollz/croc)
+  - Easily and securely send things from one computer to another 🐊 📦
+- [pulumi](https://github.com/pulumi/pulumi)
+  - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
+- [nomad](https://github.com/hashicorp/nomad)
+  - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+- [cortex](https://github.com/cortexlabs/cortex)
+  - Model serving infrastructure for developers
 - [google-ctf](https://github.com/google/google-ctf)
   - Google CTF
+- [dapr](https://github.com/dapr/dapr)
+  - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+- [istio](https://github.com/istio/istio)
+  - Connect, secure, control, and observe services.
+- [vault](https://github.com/hashicorp/vault)
+  - A tool for secrets management, encryption as a service, and privileged access management
+- [helm](https://github.com/helm/helm)
+  - The Kubernetes Package Manager
+- [wails](https://github.com/wailsapp/wails)
+  - Create desktop apps using Go and Web Technologies.
+- [kit](https://github.com/go-kit/kit)
+  - A standard library for microservices.
+- [moby](https://github.com/moby/moby)
+  - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [awesome-go](https://github.com/avelino/awesome-go)
+  - A curated list of awesome Go frameworks, libraries and software
+- [fiber](https://github.com/gofiber/fiber)
+  - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
+- [prometheus](https://github.com/prometheus/prometheus)
+  - The Prometheus monitoring system and time series database.
+- [nps](https://github.com/ehang-io/nps)
+  - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 - [go](https://github.com/golang/go)
   - The Go programming language
-- [syncthing](https://github.com/syncthing/syncthing)
-  - Open Source Continuous File Synchronization
+- [rclone](https://github.com/rclone/rclone)
+  - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+- [lazygit](https://github.com/jesseduffield/lazygit)
+  - simple terminal UI for git commands
 - [learn-go-with-tests](https://github.com/quii/learn-go-with-tests)
   - Learn Go with test-driven development
-- [gin](https://github.com/gin-gonic/gin)
-  - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [cockroach](https://github.com/cockroachdb/cockroach)
-  - CockroachDB - the open source, cloud-native distributed SQL database.
-- [ngrok](https://github.com/inconshreveable/ngrok)
-  - Introspected tunnels to localhost
 - [frp](https://github.com/fatedier/frp)
   - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [dgraph](https://github.com/dgraph-io/dgraph)
-  - Native GraphQL Database with graph backend
-- [terragrunt](https://github.com/gruntwork-io/terragrunt)
-  - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
-- [clash](https://github.com/Dreamacro/clash)
-  - A rule-based tunnel in Go.
-- [k9s](https://github.com/derailed/k9s)
-  - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [gitea](https://github.com/go-gitea/gitea)
-  - Git with a cup of tea, painless self-hosted git service
-- [wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example)
-  - Complete serverless application to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring of a Go project.
-- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
-  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
-- [nuclei](https://github.com/projectdiscovery/nuclei)
-  - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
-- [gorm](https://github.com/go-gorm/gorm)
-  - The fantastic ORM library for Golang, aims to be developer friendly
-- [aws-vault](https://github.com/99designs/aws-vault)
-  - A vault for securely storing and accessing AWS credentials in development environments
-- [scope](https://github.com/weaveworks/scope)
-  - Monitoring, visualisation & management for Docker & Kubernetes
+- [MailHog](https://github.com/mailhog/MailHog)
+  - Web and API based SMTP testing
+- [terraform](https://github.com/hashicorp/terraform)
+  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.

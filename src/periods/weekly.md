@@ -1,305 +1,307 @@
 # weekly
 ## general
-- [eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) : JavaScript
-  - A high performance blog template for the 11ty static site generator.
-- [Server](https://github.com/PanDownloadServer/Server) : HTML
-  - PanDownload的个人维护版本
-- [jdk](https://github.com/openjdk/jdk) : Java
-  - JDK main-line development
-- [croc](https://github.com/schollz/croc) : Go
-  - Easily and securely send things from one computer to another 🐊 📦
-- [diagrams](https://github.com/mingrammer/diagrams) : Python
-  - 🎨 Diagram as Code for prototyping cloud system architectures
-- [Algorithms](https://github.com/williamfiset/Algorithms) : Java
-  - A collection of algorithms and data structures
-- [linuxupskillchallenge](https://github.com/snori74/linuxupskillchallenge) : Shell
-  - Learn the skills required to sysadmin a remote Linux server from the commandline.
-- [workflow](https://github.com/sogou/workflow) : C++
-  - Sogou framework for C++ backend development.
-- [ZY-Player](https://github.com/Hunlongyu/ZY-Player) : Vue
-  - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
-- [autoscraper](https://github.com/alirezamika/autoscraper) : Python
-  - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
-- [UTM](https://github.com/utmapp/UTM) : Objective-C
-  - Virtual machines for iOS
-- [talk](https://github.com/vasanthv/talk) : JavaScript
-  - A group video call for the web. No signups. No downloads.
-- [jetstream](https://github.com/laravel/jetstream) : PHP
-- [surpriver](https://github.com/tradytics/surpriver) : Python
-  - Find big moving stocks before they move using machine learning and anomaly detection
-- [IBMYes](https://github.com/CCChieh/IBMYes) : Batchfile
 - [cli](https://github.com/cli/cli) : Go
   - GitHub’s official command line tool
-- [huginn](https://github.com/huginn/huginn) : Ruby
-  - Create agents that monitor and act on your behalf. Your agents are standing by!
+- [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) : C
+  - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
+- [Server](https://github.com/PanDownloadServer/Server) : HTML
+  - PanDownload的个人维护版本
+- [DeepSpeed](https://github.com/microsoft/DeepSpeed) : Python
+  - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.
+- [googletest](https://github.com/google/googletest) : C++
+  - Googletest - Google Testing and Mocking Framework
+- [helm-charts](https://github.com/prometheus-community/helm-charts) : HTML
+  - Prometheus community Helm charts
+- [diagrams](https://github.com/mingrammer/diagrams) : Python
+  - 🎨 Diagram as Code for prototyping cloud system architectures
+- [generator-jhipster](https://github.com/jhipster/generator-jhipster) : JavaScript
+  - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
+- [n8n](https://github.com/n8n-io/n8n) : TypeScript
+  - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) : Python
+  - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
+- [react-challenge-amazon-clone](https://github.com/CleverProgrammers/react-challenge-amazon-clone) : JavaScript
+- [react-query](https://github.com/tannerlinsley/react-query) : TypeScript
+  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
 - [dive](https://github.com/wagoodman/dive) : Go
   - A tool for exploring each layer in a docker image
-- [abp](https://github.com/abpframework/abp) : C#
-  - Open Source Web Application Framework for ASP.NET Core
-- [laravel](https://github.com/laravel/laravel) : PHP
-  - A PHP framework for web artisans
-- [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) : 
-  - 汇总各大互联网公司容易考察的高频leetcode题🔥
-- [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) : C#
-  - Xamarin.Forms Official Home
-- [fortify](https://github.com/laravel/fortify) : PHP
-- [SpringCloudLearning](https://github.com/forezp/SpringCloudLearning) : Java
-  - 《史上最简单的Spring Cloud教程源码》
-- [yacd](https://github.com/DerekSelander/yacd) : C
-  - Decrypts FairPlay applications on iOS 13.4.1 and lower, no jb required
-## go
-- [croc](https://github.com/schollz/croc)
+- [nvim](https://github.com/ChristianChiarulli/nvim) : Vim script
+  - Truly the Ultimate Neovim Config NVCode
+- [Web](https://github.com/qianguyihao/Web) : JavaScript
+  - 前端入门到进阶图文教程，超详细的Web前端学习笔记。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) : TypeScript
+  - The repository for high quality TypeScript type definitions.
+- [UTM](https://github.com/utmapp/UTM) : Objective-C
+  - Virtual machines for iOS
+- [nuxt.js](https://github.com/nuxt/nuxt.js) : JavaScript
+  - The Intuitive Vue Framework
+- [FreeCAD](https://github.com/FreeCAD/FreeCAD) : C++
+  - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker
+- [mall-swarm](https://github.com/macrozheng/mall-swarm) : Java
+  - mall-swarm是一套微服务商城系统，采用了 Spring Cloud Hoxton & Alibaba、Spring Boot 2.3、Oauth2、MyBatis、Docker、Elasticsearch等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。
+- [libra](https://github.com/libra/libra) : Rust
+  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [Carthage](https://github.com/Carthage/Carthage) : Swift
+  - A simple, decentralized dependency manager for Cocoa
+- [uniswap-interface](https://github.com/Uniswap/uniswap-interface) : TypeScript
+  - 🦄 An open source interface for the Uniswap protocol
+- [croc](https://github.com/schollz/croc) : Go
   - Easily and securely send things from one computer to another 🐊 📦
+- [elasticsearch](https://github.com/elastic/elasticsearch) : Java
+  - Open Source, Distributed, RESTful Search Engine
+## go
 - [cli](https://github.com/cli/cli)
   - GitHub’s official command line tool
 - [dive](https://github.com/wagoodman/dive)
   - A tool for exploring each layer in a docker image
-- [infracost](https://github.com/infracost/infracost)
-  - Cloud cost estimates for Terraform in your CLI and pull requests 💰📉
-- [dapr](https://github.com/dapr/dapr)
-  - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-- [guora](https://github.com/meloalright/guora)
-  - 🖖🏻 A self-hosted Quora like web application written in Go 基于 Golang 类似知乎的私有部署问答应用 包含问答、评论、点赞、管理后台等功能
+- [croc](https://github.com/schollz/croc)
+  - Easily and securely send things from one computer to another 🐊 📦
+- [pulumi](https://github.com/pulumi/pulumi)
+  - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
+- [nomad](https://github.com/hashicorp/nomad)
+  - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+- [cortex](https://github.com/cortexlabs/cortex)
+  - Model serving infrastructure for developers
 - [google-ctf](https://github.com/google/google-ctf)
   - Google CTF
+- [dapr](https://github.com/dapr/dapr)
+  - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+- [istio](https://github.com/istio/istio)
+  - Connect, secure, control, and observe services.
+- [vault](https://github.com/hashicorp/vault)
+  - A tool for secrets management, encryption as a service, and privileged access management
+- [helm](https://github.com/helm/helm)
+  - The Kubernetes Package Manager
+- [wails](https://github.com/wailsapp/wails)
+  - Create desktop apps using Go and Web Technologies.
+- [kit](https://github.com/go-kit/kit)
+  - A standard library for microservices.
+- [moby](https://github.com/moby/moby)
+  - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [awesome-go](https://github.com/avelino/awesome-go)
+  - A curated list of awesome Go frameworks, libraries and software
+- [fiber](https://github.com/gofiber/fiber)
+  - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
+- [prometheus](https://github.com/prometheus/prometheus)
+  - The Prometheus monitoring system and time series database.
+- [nps](https://github.com/ehang-io/nps)
+  - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 - [go](https://github.com/golang/go)
   - The Go programming language
-- [syncthing](https://github.com/syncthing/syncthing)
-  - Open Source Continuous File Synchronization
+- [rclone](https://github.com/rclone/rclone)
+  - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+- [lazygit](https://github.com/jesseduffield/lazygit)
+  - simple terminal UI for git commands
 - [learn-go-with-tests](https://github.com/quii/learn-go-with-tests)
   - Learn Go with test-driven development
-- [gin](https://github.com/gin-gonic/gin)
-  - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [cockroach](https://github.com/cockroachdb/cockroach)
-  - CockroachDB - the open source, cloud-native distributed SQL database.
-- [ngrok](https://github.com/inconshreveable/ngrok)
-  - Introspected tunnels to localhost
 - [frp](https://github.com/fatedier/frp)
   - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [dgraph](https://github.com/dgraph-io/dgraph)
-  - Native GraphQL Database with graph backend
-- [terragrunt](https://github.com/gruntwork-io/terragrunt)
-  - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
-- [clash](https://github.com/Dreamacro/clash)
-  - A rule-based tunnel in Go.
-- [k9s](https://github.com/derailed/k9s)
-  - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [gitea](https://github.com/go-gitea/gitea)
-  - Git with a cup of tea, painless self-hosted git service
-- [wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example)
-  - Complete serverless application to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring of a Go project.
-- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
-  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
-- [nuclei](https://github.com/projectdiscovery/nuclei)
-  - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
-- [gorm](https://github.com/go-gorm/gorm)
-  - The fantastic ORM library for Golang, aims to be developer friendly
-- [aws-vault](https://github.com/99designs/aws-vault)
-  - A vault for securely storing and accessing AWS credentials in development environments
-- [scope](https://github.com/weaveworks/scope)
-  - Monitoring, visualisation & management for Docker & Kubernetes
+- [MailHog](https://github.com/mailhog/MailHog)
+  - Web and API based SMTP testing
+- [terraform](https://github.com/hashicorp/terraform)
+  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 ## javascript
-- [eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog)
-  - A high performance blog template for the 11ty static site generator.
-- [talk](https://github.com/vasanthv/talk)
-  - A group video call for the web. No signups. No downloads.
-- [nuxt.js](https://github.com/nuxt/nuxt.js)
-  - The Intuitive Vue Framework
-- [joplin](https://github.com/laurent22/joplin)
-  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
-- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
-  - Beautiful and accessible drag and drop for lists with React
-- [edex-ui](https://github.com/GitSquared/edex-ui)
-  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [iearn-finance](https://github.com/iearn-finance/iearn-finance)
-  - Web repository
-- [moon](https://github.com/kbrsh/moon)
-  - 🌙 The minimal & fast library for functional user interfaces
-- [a32nx](https://github.com/flybywiresim/a32nx)
-  - The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.
-- [snapdrop](https://github.com/RobinLinus/snapdrop)
-  - A Progressive Web App for local file sharing
-- [axios](https://github.com/axios/axios)
-  - Promise based HTTP client for the browser and node.js
-- [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
-  - OpenZeppelin Contracts is a library for secure smart contract development.
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [highlight.js](https://github.com/highlightjs/highlight.js)
-  - Javascript syntax highlighter
-- [etherpad-lite](https://github.com/ether/etherpad-lite)
-  - Etherpad: real-time collaborative document editor
-- [devconnector_2.0](https://github.com/bradtraversy/devconnector_2.0)
-  - Social network for developers, built on the MERN stack
-- [next.js](https://github.com/vercel/next.js)
-  - The React Framework
-- [spectrum](https://github.com/withspectrum/spectrum)
-  - Simple, powerful online communities.
-- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
-  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
-  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
-- [jira_clone](https://github.com/oldboyxx/jira_clone)
-  - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
-- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
-  - Short JavaScript code snippets for all your development needs
-- [three.js](https://github.com/mrdoob/three.js)
-  - JavaScript 3D library.
+- [generator-jhipster](https://github.com/jhipster/generator-jhipster)
+  - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
+- [react-challenge-amazon-clone](https://github.com/CleverProgrammers/react-challenge-amazon-clone)
+  - 
 - [Web](https://github.com/qianguyihao/Web)
   - 前端入门到进阶图文教程，超详细的Web前端学习笔记。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。
+- [nuxt.js](https://github.com/nuxt/nuxt.js)
+  - The Intuitive Vue Framework
+- [moment](https://github.com/moment/moment)
+  - Parse, validate, manipulate, and display dates in javascript.
+- [minecraft-react](https://github.com/satansdeer/minecraft-react)
+  - 
+- [Javascript](https://github.com/TheAlgorithms/Javascript)
+  - A repository for All algorithms implemented in Javascript (for educational purposes only)
+- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
+  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [dayjs](https://github.com/iamkun/dayjs)
+  - ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API
 - [Recoil](https://github.com/facebookexperimental/Recoil)
   - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
+- [pipedream](https://github.com/PipedreamHQ/pipedream)
+  - Serverless integration and compute platform. Free for developers.
+- [cypress](https://github.com/cypress-io/cypress)
+  - Fast, easy and reliable testing for anything that runs in a browser.
+- [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
+  - OpenZeppelin Contracts is a library for secure smart contract development.
+- [snapdrop](https://github.com/RobinLinus/snapdrop)
+  - A Progressive Web App for local file sharing
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [edex-ui](https://github.com/GitSquared/edex-ui)
+  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
+  - 🚀🚀🚀A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.
+- [10-projects-10-hours](https://github.com/florinpop17/10-projects-10-hours)
+  - 
+- [vue](https://github.com/vuejs/vue)
+  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [node-http-proxy](https://github.com/http-party/node-http-proxy)
+  - A full-featured http proxy for node.js
+- [axios](https://github.com/axios/axios)
+  - Promise based HTTP client for the browser and node.js
+- [cropperjs](https://github.com/fengyuanchen/cropperjs)
+  - JavaScript image cropper.
+- [Zettlr](https://github.com/Zettlr/Zettlr)
+  - A Markdown Editor for the 21st century.
+- [three.js](https://github.com/mrdoob/three.js)
+  - JavaScript 3D library.
+- [next.js](https://github.com/vercel/next.js)
+  - The React Framework
 ## ruby
-- [huginn](https://github.com/huginn/huginn)
-  - Create agents that monitor and act on your behalf. Your agents are standing by!
-- [devise](https://github.com/heartcombo/devise)
-  - Flexible authentication solution for Rails with Warden.
-- [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews)
-  - Data science interview questions and answers
-- [rubocop](https://github.com/rubocop-hq/rubocop)
-  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
-  - The Cocoa Dependency Manager.
-- [vagrant](https://github.com/hashicorp/vagrant)
-  - Vagrant is a tool for building and distributing development environments.
-- [dependabot-core](https://github.com/dependabot/dependabot-core)
-  - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot
-- [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
-  - A curated list of engineering blogs
-- [sinatra](https://github.com/sinatra/sinatra)
-  - Classy web-development dressed in a DSL (official / canonical repo)
-- [choosealicense.com](https://github.com/github/choosealicense.com)
-  - A site to provide non-judgmental guidance on choosing a license for your open source project
-- [spree](https://github.com/spree/spree)
-  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
-- [fast_jsonapi](https://github.com/Netflix/fast_jsonapi)
-  - A lightning fast JSON:API serializer for Ruby Objects.
-- [fastlane](https://github.com/fastlane/fastlane)
-  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [rspec-rails](https://github.com/rspec/rspec-rails)
-  - RSpec for Rails 5+
-- [chatwoot](https://github.com/chatwoot/chatwoot)
-  - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬
-- [homebrew-core](https://github.com/Homebrew/homebrew-core)
-  - 🍻 Default formulae for the missing package manager for macOS
-- [liquid](https://github.com/Shopify/liquid)
-  - Liquid markup language. Safe, customer facing template language for flexible web apps.
-- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
-  - Metasploit Framework
-- [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts)
-  - 🚨 Collection of Prometheus alerting rules
-- [solidus](https://github.com/solidusio/solidus)
-  - 🛒Solidus, Rails eCommerce System
 - [rails](https://github.com/rails/rails)
   - Ruby on Rails
+- [huginn](https://github.com/huginn/huginn)
+  - Create agents that monitor and act on your behalf. Your agents are standing by!
+- [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews)
+  - Data science interview questions and answers
+- [liquid](https://github.com/Shopify/liquid)
+  - Liquid markup language. Safe, customer facing template language for flexible web apps.
+- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
+  - The Cocoa Dependency Manager.
+- [sidekiq](https://github.com/mperham/sidekiq)
+  - Simple, efficient background processing for Ruby
+- [solidus](https://github.com/solidusio/solidus)
+  - 🛒Solidus, Rails eCommerce System
+- [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
+  - A curated list of engineering blogs
+- [homebrew-core](https://github.com/Homebrew/homebrew-core)
+  - 🍻 Default formulae for the missing package manager for macOS
+- [webpacker](https://github.com/rails/webpacker)
+  - Use Webpack to manage app-like JavaScript modules in Rails
+- [puma](https://github.com/puma/puma)
+  - A Ruby/Rack web server built for concurrency
+- [mastodon](https://github.com/tootsuite/mastodon)
+  - Your self-hosted, globally interconnected microblogging community
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
+  - Metasploit Framework
+- [brew](https://github.com/Homebrew/brew)
+  - 🍺 The missing package manager for macOS (or Linux)
+- [rubocop](https://github.com/rubocop-hq/rubocop)
+  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+- [devise](https://github.com/heartcombo/devise)
+  - Flexible authentication solution for Rails with Warden.
 - [devdocs](https://github.com/freeCodeCamp/devdocs)
   - API Documentation Browser
-- [kaminari](https://github.com/kaminari/kaminari)
-  - ⚡ A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps
-- [chef](https://github.com/chef/chef)
-  - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
-- [react-native-config](https://github.com/luggit/react-native-config)
-  - Bring some 12 factor love to your mobile apps!
+- [ISO-3166-Countries-with-Regional-Codes](https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes)
+  - ISO 3166-1 country lists merged with their UN Geoscheme regional codes in ready-to-use JSON, XML, CSV data sets
+- [administrate](https://github.com/thoughtbot/administrate)
+  - A Rails engine that helps you put together a super-flexible admin dashboard.
+- [faker](https://github.com/faker-ruby/faker)
+  - A library for generating fake data such as names, addresses, and phone numbers.
+- [WhatWeb](https://github.com/urbanadventurer/WhatWeb)
+  - Next generation web scanner
+- [setup](https://github.com/lewagon/setup)
+  - Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp
+- [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts)
+  - 🚨 Collection of Prometheus alerting rules
+- [theodinproject](https://github.com/TheOdinProject/theodinproject)
+  - Main Website for The Odin Project
+- [jsonapi-serializer](https://github.com/jsonapi-serializer/jsonapi-serializer)
+  - A fast JSON:API serializer for Ruby (fork of Netflix/fast_jsonapi)
 ## rust
-- [solana](https://github.com/solana-labs/solana)
-  - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [RustScan](https://github.com/RustScan/RustScan)
-  - 🤖 The Modern Day Port Scanner 🤖
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [scipio](https://github.com/DataDog/scipio)
-  - Scipio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans
-- [serde](https://github.com/serde-rs/serde)
-  - Serialization framework for Rust
-- [wasmer](https://github.com/wasmerio/wasmer)
-  - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
-- [sqlx](https://github.com/launchbadge/sqlx)
-  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-- [tui-rs](https://github.com/fdehau/tui-rs)
-  - Build terminal user interfaces and dashboards using Rust
-- [tonic](https://github.com/hyperium/tonic)
-  - A native gRPC client & server implementation with async/await support.
-- [juniper](https://github.com/graphql-rust/juniper)
-  - GraphQL server library for Rust
-- [gleam](https://github.com/gleam-lang/gleam)
-  - ⭐️ A statically typed language for the Erlang VM
-- [Rocket](https://github.com/SergioBenitez/Rocket)
-  - A web framework for Rust.
-- [ruffle](https://github.com/ruffle-rs/ruffle)
-  - A Flash Player emulator written in Rust
-- [examples](https://github.com/actix/examples)
-  - Examples of Actix ecosystem usage.
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
-  - Unofficial Bitwarden compatible server written in Rust
-- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
-  - 📚 Learn to write an embedded OS in Rust 🦀
-- [lemmy](https://github.com/LemmyNet/lemmy)
-  - 🐀 Building a federated alternative to reddit in rust
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
-- [findomain](https://github.com/Edu4rdSHL/findomain)
-  - The fastest and cross-platform subdomain enumerator, do not waste your time.
-- [spotifyd](https://github.com/Spotifyd/spotifyd)
-  - A spotify daemon
-- [rune](https://github.com/rune-rs/rune)
-  - An embeddable dynamic programming language for Rust.
-- [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim)
-  - Language Server Protocol (LSP) support for vim and neovim.
-- [os_kernel_lab](https://github.com/chyyuu/os_kernel_lab)
-  - OS kernel labs based on Rust Lang & RISC-V 64
 - [libra](https://github.com/libra/libra)
   - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [996.ICU](https://github.com/996icu/996.ICU)
+  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
+- [gitoxide](https://github.com/Byron/gitoxide)
+  - An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [reqwest](https://github.com/seanmonstar/reqwest)
+  - An easy and powerful Rust HTTP Client
+- [examples](https://github.com/actix/examples)
+  - Examples of Actix ecosystem usage.
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
+- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+  - 📚 Learn to write an embedded OS in Rust 🦀
+- [Rocket](https://github.com/SergioBenitez/Rocket)
+  - A web framework for Rust.
+- [actix](https://github.com/actix/actix)
+  - Actor framework for Rust.
+- [spotifyd](https://github.com/Spotifyd/spotifyd)
+  - A spotify daemon
+- [hyper](https://github.com/hyperium/hyper)
+  - An HTTP library for Rust
+- [wasmer](https://github.com/wasmerio/wasmer)
+  - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
+- [alacritty](https://github.com/alacritty/alacritty)
+  - A cross-platform, GPU-accelerated terminal emulator
+- [orbtk](https://github.com/redox-os/orbtk)
+  - The Rust UI-Toolkit.
+- [tree-sitter](https://github.com/tree-sitter/tree-sitter)
+  - An incremental parsing system for programming tools
+- [os_kernel_lab](https://github.com/chyyuu/os_kernel_lab)
+  - OS kernel labs based on Rust Lang & RISC-V 64
+- [RustScan](https://github.com/RustScan/RustScan)
+  - 🤖 The Modern Day Port Scanner 🤖
+- [polkadot](https://github.com/paritytech/polkadot)
+  - Polkadot Node Implementation
+- [cargo](https://github.com/rust-lang/cargo)
+  - The Rust package manager
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
+  - Facilitating high-level interactions between Wasm modules and JavaScript
+- [static-analysis](https://github.com/analysis-tools-dev/static-analysis)
+  - A curated list of static analysis tools for all programming languages, config files, build tools, and more.
 ## c++
 ## typescript
-- [cypress-realworld-app](https://github.com/cypress-io/cypress-realworld-app)
-  - A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.
-- [uniswap-v2-core](https://github.com/Uniswap/uniswap-v2-core)
-  - 🎛 Core smart contracts of Uniswap V2
-- [vite](https://github.com/vitejs/vite)
-  - Native-ESM powered web dev build tool. It's fast.
-- [type-challenges](https://github.com/type-challenges/type-challenges)
-  - Collection of TypeScript type challenges with online judge
-- [zustand](https://github.com/react-spring/zustand)
-  - 🐻 Bear necessities for state management in React
-- [better-scroll](https://github.com/ustbhuangyi/better-scroll)
-  - 📜 inspired by iscroll, and it supports more features and has a better scroll perfermance
-- [Babylon.js](https://github.com/BabylonJS/Babylon.js)
-  - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
-- [taskcafe](https://github.com/JordanKnott/taskcafe)
-  - An open source project management tool with Kanban boards
-- [TypeScript-Website](https://github.com/microsoft/TypeScript-Website)
-  - The Website and web infrastructure for learning TypeScript
-- [fluentui](https://github.com/microsoft/fluentui)
-  - We've moved! UI Fabric is now Fluent UI - A set of React components for building Microsoft web experiences.
-- [admin-bro](https://github.com/SoftwareBrothers/admin-bro)
-  - AdminBro is an admin panel for apps written in node.js
-- [react-three-fiber](https://github.com/react-spring/react-three-fiber)
-  - 🇨🇭 A React renderer for Three.js (web and react-native)
-- [ink](https://github.com/vadimdemedes/ink)
-  - 🌈 React for interactive command-line apps
-- [motion](https://github.com/framer/motion)
-  - Open source, production-ready animation and gesture library for React
-- [react-admin](https://github.com/marmelab/react-admin)
-  - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
-- [formik](https://github.com/formium/formik)
-  - Build forms in React, without the tears 😭
-- [react-use](https://github.com/streamich/react-use)
-  - React Hooks — 👍
-- [nest](https://github.com/nestjs/nest)
-  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-- [foam](https://github.com/foambubble/foam)
-  - A personal knowledge management and sharing system for VSCode
-- [ant-design](https://github.com/ant-design/ant-design)
-  - 🌈 A UI Design Language and React UI library
-- [playwright](https://github.com/microsoft/playwright)
-  - Node.js library to automate Chromium, Firefox and WebKit with a single API
-- [code-server](https://github.com/cdr/code-server)
-  - VS Code in the browser
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
 - [n8n](https://github.com/n8n-io/n8n)
   - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
-- [vscode](https://github.com/microsoft/vscode)
-  - Visual Studio Code
+- [react-query](https://github.com/tannerlinsley/react-query)
+  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+  - The repository for high quality TypeScript type definitions.
+- [uniswap-interface](https://github.com/Uniswap/uniswap-interface)
+  - 🦄 An open source interface for the Uniswap protocol
+- [coc.nvim](https://github.com/neoclide/coc.nvim)
+  - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
+- [react-use](https://github.com/streamich/react-use)
+  - React Hooks — 👍
+- [jotai](https://github.com/pmndrs/jotai)
+  - 👻 Primitive, flexible state management for React
+- [uniswap-v2-core](https://github.com/Uniswap/uniswap-v2-core)
+  - 🎛 Core smart contracts of Uniswap V2
+- [taskcafe](https://github.com/JordanKnott/taskcafe)
+  - An open source project management tool with Kanban boards
+- [lens](https://github.com/lensapp/lens)
+  - Lens - The Kubernetes IDE
+- [theia](https://github.com/eclipse-theia/theia)
+  - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+- [react-three-fiber](https://github.com/pmndrs/react-three-fiber)
+  - 🇨🇭 A React renderer for Three.js (web and react-native)
+- [cypress-realworld-app](https://github.com/cypress-io/cypress-realworld-app)
+  - A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.
+- [vue-next](https://github.com/vuejs/vue-next)
+  - Repo for Vue 3.0
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
+  - 📋 React Hooks for forms validation (Web + React Native)
+- [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
+  - Tasks for Azure Pipelines
+- [nest](https://github.com/nestjs/nest)
+  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [motion](https://github.com/framer/motion)
+  - Open source, production-ready animation and gesture library for React
+- [h5-Dooring](https://github.com/MrXujiang/h5-Dooring)
+  - (H5编辑器)H5-Dooring是一款功能强大，开源免费的H5可视化页面配置解决方案，致力于提供一套简单方便、专业可靠、无限可能的H5落地页最佳实践。技术栈以react为主， 后台采用nodejs开发.
+- [deno](https://github.com/denoland/deno)
+  - A secure JavaScript and TypeScript runtime
+- [homebridge](https://github.com/homebridge/homebridge)
+  - HomeKit support for the impatient
+- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
+  - The source for REST API specifications for Microsoft Azure.
+- [vue-storefront](https://github.com/DivanteLtd/vue-storefront)
+  - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total coverage is just a matter of time. The API approach also allows you to merge VSF with any third-party tool like CMS, payment gateways or analytics. Ne…
+- [tensorboard](https://github.com/tensorflow/tensorboard)
+  - TensorFlow's Visualization Toolkit
+- [lightweight-charts](https://github.com/tradingview/lightweight-charts)
+  - Financial lightweight charts built with HTML5 canvas
