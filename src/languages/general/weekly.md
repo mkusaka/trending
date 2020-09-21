@@ -1,48 +1,50 @@
 # general
-- [eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) : JavaScript
-  - A high performance blog template for the 11ty static site generator.
-- [Server](https://github.com/PanDownloadServer/Server) : HTML
-  - PanDownload的个人维护版本
-- [jdk](https://github.com/openjdk/jdk) : Java
-  - JDK main-line development
-- [croc](https://github.com/schollz/croc) : Go
-  - Easily and securely send things from one computer to another 🐊 📦
-- [diagrams](https://github.com/mingrammer/diagrams) : Python
-  - 🎨 Diagram as Code for prototyping cloud system architectures
-- [Algorithms](https://github.com/williamfiset/Algorithms) : Java
-  - A collection of algorithms and data structures
-- [linuxupskillchallenge](https://github.com/snori74/linuxupskillchallenge) : Shell
-  - Learn the skills required to sysadmin a remote Linux server from the commandline.
-- [workflow](https://github.com/sogou/workflow) : C++
-  - Sogou framework for C++ backend development.
-- [ZY-Player](https://github.com/Hunlongyu/ZY-Player) : Vue
-  - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
-- [autoscraper](https://github.com/alirezamika/autoscraper) : Python
-  - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
-- [UTM](https://github.com/utmapp/UTM) : Objective-C
-  - Virtual machines for iOS
-- [talk](https://github.com/vasanthv/talk) : JavaScript
-  - A group video call for the web. No signups. No downloads.
-- [jetstream](https://github.com/laravel/jetstream) : PHP
-- [surpriver](https://github.com/tradytics/surpriver) : Python
-  - Find big moving stocks before they move using machine learning and anomaly detection
-- [IBMYes](https://github.com/CCChieh/IBMYes) : Batchfile
 - [cli](https://github.com/cli/cli) : Go
   - GitHub’s official command line tool
-- [huginn](https://github.com/huginn/huginn) : Ruby
-  - Create agents that monitor and act on your behalf. Your agents are standing by!
+- [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) : C
+  - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
+- [Server](https://github.com/PanDownloadServer/Server) : HTML
+  - PanDownload的个人维护版本
+- [DeepSpeed](https://github.com/microsoft/DeepSpeed) : Python
+  - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.
+- [googletest](https://github.com/google/googletest) : C++
+  - Googletest - Google Testing and Mocking Framework
+- [helm-charts](https://github.com/prometheus-community/helm-charts) : HTML
+  - Prometheus community Helm charts
+- [diagrams](https://github.com/mingrammer/diagrams) : Python
+  - 🎨 Diagram as Code for prototyping cloud system architectures
+- [generator-jhipster](https://github.com/jhipster/generator-jhipster) : JavaScript
+  - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
+- [n8n](https://github.com/n8n-io/n8n) : TypeScript
+  - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) : Python
+  - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
+- [react-challenge-amazon-clone](https://github.com/CleverProgrammers/react-challenge-amazon-clone) : JavaScript
+- [react-query](https://github.com/tannerlinsley/react-query) : TypeScript
+  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
 - [dive](https://github.com/wagoodman/dive) : Go
   - A tool for exploring each layer in a docker image
-- [abp](https://github.com/abpframework/abp) : C#
-  - Open Source Web Application Framework for ASP.NET Core
-- [laravel](https://github.com/laravel/laravel) : PHP
-  - A PHP framework for web artisans
-- [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) : 
-  - 汇总各大互联网公司容易考察的高频leetcode题🔥
-- [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) : C#
-  - Xamarin.Forms Official Home
-- [fortify](https://github.com/laravel/fortify) : PHP
-- [SpringCloudLearning](https://github.com/forezp/SpringCloudLearning) : Java
-  - 《史上最简单的Spring Cloud教程源码》
-- [yacd](https://github.com/DerekSelander/yacd) : C
-  - Decrypts FairPlay applications on iOS 13.4.1 and lower, no jb required
+- [nvim](https://github.com/ChristianChiarulli/nvim) : Vim script
+  - Truly the Ultimate Neovim Config NVCode
+- [Web](https://github.com/qianguyihao/Web) : JavaScript
+  - 前端入门到进阶图文教程，超详细的Web前端学习笔记。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) : TypeScript
+  - The repository for high quality TypeScript type definitions.
+- [UTM](https://github.com/utmapp/UTM) : Objective-C
+  - Virtual machines for iOS
+- [nuxt.js](https://github.com/nuxt/nuxt.js) : JavaScript
+  - The Intuitive Vue Framework
+- [FreeCAD](https://github.com/FreeCAD/FreeCAD) : C++
+  - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker
+- [mall-swarm](https://github.com/macrozheng/mall-swarm) : Java
+  - mall-swarm是一套微服务商城系统，采用了 Spring Cloud Hoxton & Alibaba、Spring Boot 2.3、Oauth2、MyBatis、Docker、Elasticsearch等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。
+- [libra](https://github.com/libra/libra) : Rust
+  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [Carthage](https://github.com/Carthage/Carthage) : Swift
+  - A simple, decentralized dependency manager for Cocoa
+- [uniswap-interface](https://github.com/Uniswap/uniswap-interface) : TypeScript
+  - 🦄 An open source interface for the Uniswap protocol
+- [croc](https://github.com/schollz/croc) : Go
+  - Easily and securely send things from one computer to another 🐊 📦
+- [elasticsearch](https://github.com/elastic/elasticsearch) : Java
+  - Open Source, Distributed, RESTful Search Engine
