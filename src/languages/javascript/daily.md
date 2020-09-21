@@ -36,7 +36,7 @@
 - [uPlot](https://github.com/leeoniya/uPlot)
   - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 - [real-live](https://github.com/parzulpan/real-live)
-  - 网络直播聚合平台的桌面端，支持视频直播、高清电视和广播电台等观看或收听。项目主要使用 Python 语言，采用 PyQt5、VLC、Requests 等技术栈。
+  - 一个网络直播聚合平台，支持视频直播、高清电视和广播电台等观看或收听。包括 Linux、MacOS、Windows 等桌面端，Android、iOS 等移动端，Web 端，后端等。采用 Qt、Vue、Flutter 等主流前端技术栈，MySQL、Redis、Kafka/RabbitMQ、Elasticsearch 等主流后端技术栈。
 - [uniswap-org](https://github.com/Uniswap/uniswap-org)
   - 🌐 Protocol site
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
