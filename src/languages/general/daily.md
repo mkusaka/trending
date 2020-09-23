@@ -40,7 +40,7 @@
 - [material-shell](https://github.com/material-shell/material-shell) : JavaScript
   - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
 - [dayjs](https://github.com/iamkun/dayjs) : JavaScript
-  - ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API
+  - ⏰ Day.js 2KB immutable date-time library alternative to Moment.js with the same modern API
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) : Python
   - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [Hazel](https://github.com/TheCherno/Hazel) : C++

@@ -6,7 +6,7 @@
 - [material-shell](https://github.com/material-shell/material-shell)
   - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
 - [dayjs](https://github.com/iamkun/dayjs)
-  - ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API
+  - ⏰ Day.js 2KB immutable date-time library alternative to Moment.js with the same modern API
 - [swagger-ui](https://github.com/swagger-api/swagger-ui)
   - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [realworld](https://github.com/gothinkster/realworld)
