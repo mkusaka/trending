@@ -8,7 +8,7 @@
 - [awesome-go](https://github.com/avelino/awesome-go)
   - A curated list of awesome Go frameworks, libraries and software
 - [traefik](https://github.com/traefik/traefik)
-  - The Cloud Native Edge Router
+  - The Cloud Native Application Proxy
 - [determined](https://github.com/determined-ai/determined)
   - Determined: Deep Learning Training Platform
 - [modgv](https://github.com/lucasepe/modgv)
