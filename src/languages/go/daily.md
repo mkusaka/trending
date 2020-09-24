@@ -20,7 +20,7 @@
 - [kubernetes](https://github.com/kubernetes/kubernetes)
   - Production-Grade Container Scheduling and Management
 - [cortex](https://github.com/cortexlabs/cortex)
-  - Model serving infrastructure for developers
+  - Model serving for developers
 - [velero](https://github.com/vmware-tanzu/velero)
   - Backup and migrate Kubernetes applications and their persistent volumes
 - [gatekeeper](https://github.com/open-policy-agent/gatekeeper)
