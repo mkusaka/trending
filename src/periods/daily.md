@@ -3,7 +3,7 @@
 - [cli](https://github.com/cli/cli) : Go
   - GitHub’s official command line tool
 - [kb](https://github.com/gnebbia/kb) : Python
-  - A minimalist knowledge base manager
+  - A minimalist command line knowledge base manager
 - [croc](https://github.com/schollz/croc) : Go
   - Easily and securely send things from one computer to another 🐊 📦
 - [Kingfisher](https://github.com/onevcat/Kingfisher) : Swift
@@ -72,7 +72,7 @@
 - [kubernetes](https://github.com/kubernetes/kubernetes)
   - Production-Grade Container Scheduling and Management
 - [cortex](https://github.com/cortexlabs/cortex)
-  - Model serving infrastructure for developers
+  - Model serving for developers
 - [velero](https://github.com/vmware-tanzu/velero)
   - Backup and migrate Kubernetes applications and their persistent volumes
 - [gatekeeper](https://github.com/open-policy-agent/gatekeeper)
@@ -139,7 +139,7 @@
 - [uPlot](https://github.com/leeoniya/uPlot)
   - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 - [real-live](https://github.com/parzulpan/real-live)
-  - 一个网络直播聚合平台，支持视频直播、高清电视和广播电台等观看或收听。包括 Linux、MacOS、Windows 等桌面端，Android、iOS 等移动端，Web 端，后端等。采用 Qt、Vue、Flutter 等主流前端技术栈，MySQL、Redis、Kafka/RabbitMQ、Elasticsearch 等主流后端技术栈。
+  - A network media aggregation platform that supports online viewing or listening of live video, HD TV and radio stations.
 - [uniswap-org](https://github.com/Uniswap/uniswap-org)
   - 🌐 Protocol site
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)

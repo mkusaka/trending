@@ -2,7 +2,7 @@
 - [cli](https://github.com/cli/cli) : Go
   - GitHub’s official command line tool
 - [kb](https://github.com/gnebbia/kb) : Python
-  - A minimalist knowledge base manager
+  - A minimalist command line knowledge base manager
 - [croc](https://github.com/schollz/croc) : Go
   - Easily and securely send things from one computer to another 🐊 📦
 - [Kingfisher](https://github.com/onevcat/Kingfisher) : Swift
