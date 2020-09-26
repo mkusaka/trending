@@ -139,7 +139,7 @@
 - [uPlot](https://github.com/leeoniya/uPlot)
   - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 - [real-live](https://github.com/parzulpan/real-live)
-  - A cross-platform network media aggregation application that supports online viewing or listening of live video, HD TV and radio stations.
+  - A cross-platform network media aggregation application that supports online viewing or listening of live video, HD TV and radio stations. 一个跨平台的网络媒体聚合应用，支持直播视频，高清电视和广播电台的在线观看或收听。
 - [uniswap-org](https://github.com/Uniswap/uniswap-org)
   - 🌐 Protocol site
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
