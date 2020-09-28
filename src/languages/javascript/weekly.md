@@ -16,7 +16,7 @@
 - [jitsi-meet](https://github.com/jitsi/jitsi-meet)
   - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [dayjs](https://github.com/iamkun/dayjs)
-  - ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API
+  - ⏰ Day.js 2KB immutable date-time library alternative to Moment.js with the same modern API
 - [Recoil](https://github.com/facebookexperimental/Recoil)
   - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
 - [pipedream](https://github.com/PipedreamHQ/pipedream)

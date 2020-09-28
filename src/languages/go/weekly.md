@@ -10,7 +10,7 @@
 - [nomad](https://github.com/hashicorp/nomad)
   - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [cortex](https://github.com/cortexlabs/cortex)
-  - Model serving infrastructure for developers
+  - Model serving for developers
 - [google-ctf](https://github.com/google/google-ctf)
   - Google CTF
 - [dapr](https://github.com/dapr/dapr)
