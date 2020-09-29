@@ -1,51 +1,51 @@
 # general
-- [cli](https://github.com/cli/cli) : Go
-  - GitHub’s official command line tool
-- [kb](https://github.com/gnebbia/kb) : Python
-  - A minimalist command line knowledge base manager
-- [croc](https://github.com/schollz/croc) : Go
-  - Easily and securely send things from one computer to another 🐊 📦
-- [Kingfisher](https://github.com/onevcat/Kingfisher) : Swift
-  - A lightweight, pure-Swift library for downloading and caching images from the web.
-- [moby](https://github.com/moby/moby) : Go
-  - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [Mask_RCNN](https://github.com/matterport/Mask_RCNN) : Python
-  - Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
-- [googletest](https://github.com/google/googletest) : C++
-  - Googletest - Google Testing and Mocking Framework
-- [FreeCAD](https://github.com/FreeCAD/FreeCAD) : C++
-  - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker
-- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) : JavaScript
-  - Bypass Paywalls web browser extension for Chrome and Firefox.
-- [vue-next](https://github.com/vuejs/vue-next) : TypeScript
-  - Repo for Vue 3.0
-- [onefuzz](https://github.com/microsoft/onefuzz) : Rust
-  - A self-hosted Fuzzing-As-A-Service platform
-- [twint](https://github.com/twintproject/twint) : Python
-  - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
-- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) : Python
-  - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
-- [silero-models](https://github.com/snakers4/silero-models) : Jupyter Notebook
-  - Silero Models: pre-trained STT models and benchmarks made embarrassingly simple
-- [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) : TypeScript
-  - An extension for VS Code that visualizes data during debugging.
-- [react-query](https://github.com/tannerlinsley/react-query) : TypeScript
-  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
-- [windows](https://github.com/proxysu/windows) : C#
-  - V2ray , Trojan, Trojan-go, NaiveProxy, shadowsocksR install tools for windows V2ray，Trojan，Trojan-go, NaiveProxy, shadowsocksR的一键安装工具windows下用（一键科学上网）
-- [send](https://github.com/mozilla/send) : JavaScript
-  - Simple, private file sharing from the makers of Firefox
-- [linux-command](https://github.com/jaywcjlove/linux-command) : HTML
-  - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
-- [material-shell](https://github.com/material-shell/material-shell) : JavaScript
-  - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
-- [dayjs](https://github.com/iamkun/dayjs) : JavaScript
-  - ⏰ Day.js 2KB immutable date-time library alternative to Moment.js with the same modern API
-- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) : Python
-  - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-- [Hazel](https://github.com/TheCherno/Hazel) : C++
-  - Hazel Engine
-- [Hero](https://github.com/HeroTransitions/Hero) : Swift
-  - Elegant transition library for iOS & tvOS
-- [pytorch](https://github.com/pytorch/pytorch) : C++
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js) : TypeScript
+  - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
+- [duf](https://github.com/muesli/duf) : Go
+  - Disk Usage/Free Utility
+- [ts-sql](https://github.com/codemix/ts-sql) : TypeScript
+  - A SQL database implemented purely in TypeScript type annotations.
+- [winget-cli](https://github.com/microsoft/winget-cli) : C++
+  - Windows Package Manager CLI (aka winget)
+- [go-diagrams](https://github.com/blushft/go-diagrams) : Go
+  - Create beautiful system diagrams with Go
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
+  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [CyberChef](https://github.com/gchq/CyberChef) : JavaScript
+  - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+- [Javascript](https://github.com/TheAlgorithms/Javascript) : JavaScript
+  - A repository for All algorithms implemented in Javascript (for educational purposes only)
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4) : JavaScript
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [core](https://github.com/home-assistant/core) : Python
+  - 🏡 Open source home automation that puts local control and privacy first
+- [visx](https://github.com/airbnb/visx) : TypeScript
+  - 🐯 visx | visualization components
+- [hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list) : Ruby
+  - Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all.
+- [kubeedge](https://github.com/kubeedge/kubeedge) : Go
+  - Kubernetes Native Edge Computing Framework (project under CNCF)
+- [forem](https://github.com/forem/forem) : Ruby
+  - For empowering community 🌱
+- [scripts](https://github.com/lxk0301/scripts) : JavaScript
+  - 京东薅羊毛工具（活动入口：京东app->我的->游戏与互动->查看更多）讨论组：https://t.me/JD_fruit_pet
+- [vagas-junior-estagio](https://github.com/alinebastos/vagas-junior-estagio) : 
+  - Empresas que constantemente oferecem vagas para junior e estagiários
+- [vuetify](https://github.com/vuetifyjs/vuetify) : TypeScript
+  - 🐉 Material Component Framework for Vue
+- [Hippy](https://github.com/Tencent/Hippy) : C++
+  - A cross platform framework designed for Web developer. Introduction video - https://v.qq.com/x/page/i3038urj2mt.html
+- [MEDUZA](https://github.com/kov4l3nko/MEDUZA) : Python
+  - A more or less universal SSL unpinning tool for iOS
+- [terraform-aws-vpc](https://github.com/terraform-aws-modules/terraform-aws-vpc) : HCL
+  - Terraform module which creates VPC resources on AWS
+- [linux](https://github.com/torvalds/linux) : C
+  - Linux kernel source tree
+- [azure-cli](https://github.com/Azure/azure-cli) : Python
+  - Azure Command-Line Interface
+- [awesome-react](https://github.com/enaqx/awesome-react) : 
+  - A collection of awesome things regarding React ecosystem
+- [strapi](https://github.com/strapi/strapi) : JavaScript
+  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [diagrams](https://github.com/mingrammer/diagrams) : Python
+  - 🎨 Diagram as Code for prototyping cloud system architectures

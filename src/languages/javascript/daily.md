@@ -1,51 +1,51 @@
 # javascript
-- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
-  - Bypass Paywalls web browser extension for Chrome and Firefox.
-- [send](https://github.com/mozilla/send)
-  - Simple, private file sharing from the makers of Firefox
-- [material-shell](https://github.com/material-shell/material-shell)
-  - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
-- [dayjs](https://github.com/iamkun/dayjs)
-  - ⏰ Day.js 2KB immutable date-time library alternative to Moment.js with the same modern API
-- [swagger-ui](https://github.com/swagger-api/swagger-ui)
-  - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
-- [realworld](https://github.com/gothinkster/realworld)
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [cypress](https://github.com/cypress-io/cypress)
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
-  - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
-- [vue-lit](https://github.com/yyx990803/vue-lit)
-  - Proof of concept custom elements "framework"
-- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
-  - 🕸 No-bullshit answers to the famous h5bp "Front-end Job Interview Questions"
-- [jsPDF](https://github.com/MrRio/jsPDF)
-  - Client-side JavaScript PDF generation for everyone.
-- [grapesjs](https://github.com/artf/grapesjs)
-  - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
-- [aws-extend-switch-roles](https://github.com/tilfin/aws-extend-switch-roles)
-  - Extend your AWS IAM switching roles by Chrome extension or Firefox add-on
-- [engine](https://github.com/cocos-creator/engine)
-  - Cocos Creator is a complete package of game development tools and workflow, including a game engine, resource management, scene editing, game preview, debug and publish one project to multiple platforms.
-- [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
-  - Microsoft Authentication Library (MSAL) for JS
-- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
-  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
-- [uPlot](https://github.com/leeoniya/uPlot)
-  - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
-- [real-live](https://github.com/parzulpan/real-live)
-  - A cross-platform network media aggregation application that supports online viewing or listening of live video, HD TV and radio stations. 一个跨平台的网络媒体聚合应用，支持直播视频，高清电视和广播电台的在线观看或收听。
-- [uniswap-org](https://github.com/Uniswap/uniswap-org)
-  - 🌐 Protocol site
-- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
-  - Beautiful and accessible drag and drop for lists with React
-- [lighthouse](https://github.com/GoogleChrome/lighthouse)
-  - Automated auditing, performance metrics, and best practices for the web.
-- [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
-  - A React component for building Web forms from JSON Schema.
-- [jsdoc](https://github.com/jsdoc/jsdoc)
-  - An API documentation generator for JavaScript.
+- [CyberChef](https://github.com/gchq/CyberChef)
+  - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+- [Javascript](https://github.com/TheAlgorithms/Javascript)
+  - A repository for All algorithms implemented in Javascript (for educational purposes only)
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [scripts](https://github.com/lxk0301/scripts)
+  - 京东薅羊毛工具（活动入口：京东app->我的->游戏与互动->查看更多）讨论组：https://t.me/JD_fruit_pet
 - [strapi](https://github.com/strapi/strapi)
   - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [plugins](https://github.com/rollup/plugins)
+  - 🍣 The one-stop shop for official Rollup plugins
+- [javascript](https://github.com/airbnb/javascript)
+  - JavaScript Style Guide
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+  - ⚡ Dynamically generated stats for your github readmes
+- [esbuild-node-tsc](https://github.com/a7ul/esbuild-node-tsc)
+  - Build your Typescript Node.js projects using blazing fast esbuild
+- [edex-ui](https://github.com/GitSquared/edex-ui)
+  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+- [express](https://github.com/expressjs/express)
+  - Fast, unopinionated, minimalist web framework for node.
+- [netflix](https://github.com/karlhadwen/netflix)
+  - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Netflix Using React
+- [node](https://github.com/nodejs/node)
+  - Node.js JavaScript runtime ✨🐢🚀✨
+- [create-react-app](https://github.com/facebook/create-react-app)
+  - Set up a modern web app by running one command.
+- [wp-calypso](https://github.com/Automattic/wp-calypso)
+  - The JavaScript and API powered WordPress.com
+- [bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker)
+  - A datepicker for twitter bootstrap (@twbs)
+- [handsontable](https://github.com/handsontable/handsontable)
+  - Handsontable is a JavaScript/HTML5 data grid with spreadsheet look & feel. Available for React, Vue and Angular.
+- [babel](https://github.com/babel/babel)
+  - 🐠 Babel is a compiler for writing next generation JavaScript.
+- [cypress](https://github.com/cypress-io/cypress)
+  - Fast, easy and reliable testing for anything that runs in a browser.
+- [react-native-elements](https://github.com/react-native-elements/react-native-elements)
+  - Cross Platform React Native UI Toolkit
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+  - The ultimate Free Open Source Solution for team communications.
+- [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js)
+  - Navigable waveform built on Web Audio and Canvas
+- [design-system](https://github.com/storybookjs/design-system)
+  - 🗃 Storybook Design System
+- [juice-shop](https://github.com/bkimminich/juice-shop)
+  - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
+- [konga](https://github.com/pantsel/konga)
+  - More than just another GUI to Kong Admin API
