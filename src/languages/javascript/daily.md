@@ -1,51 +1,51 @@
 # javascript
-- [CyberChef](https://github.com/gchq/CyberChef)
-  - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [Javascript](https://github.com/TheAlgorithms/Javascript)
   - A repository for All algorithms implemented in Javascript (for educational purposes only)
+- [realworld](https://github.com/gothinkster/realworld)
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [shapez.io](https://github.com/tobspr/shapez.io)
+  - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
 - [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
   - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [scripts](https://github.com/lxk0301/scripts)
-  - 京东薅羊毛工具（活动入口：京东app->我的->游戏与互动->查看更多）讨论组：https://t.me/JD_fruit_pet
+- [zhaopp](https://github.com/gdtool/zhaopp)
+  - 一个Google Drive搜索引擎 https://zhao.pp.ua/
 - [strapi](https://github.com/strapi/strapi)
   - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
-- [plugins](https://github.com/rollup/plugins)
-  - 🍣 The one-stop shop for official Rollup plugins
-- [javascript](https://github.com/airbnb/javascript)
-  - JavaScript Style Guide
-- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-  - ⚡ Dynamically generated stats for your github readmes
-- [esbuild-node-tsc](https://github.com/a7ul/esbuild-node-tsc)
-  - Build your Typescript Node.js projects using blazing fast esbuild
-- [edex-ui](https://github.com/GitSquared/edex-ui)
-  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [express](https://github.com/expressjs/express)
-  - Fast, unopinionated, minimalist web framework for node.
-- [netflix](https://github.com/karlhadwen/netflix)
-  - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Netflix Using React
-- [node](https://github.com/nodejs/node)
-  - Node.js JavaScript runtime ✨🐢🚀✨
+- [bookshelf](https://github.com/kentcdodds/bookshelf)
+  - Build a ReactJS App workshop
 - [create-react-app](https://github.com/facebook/create-react-app)
   - Set up a modern web app by running one command.
-- [wp-calypso](https://github.com/Automattic/wp-calypso)
-  - The JavaScript and API powered WordPress.com
-- [bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker)
-  - A datepicker for twitter bootstrap (@twbs)
-- [handsontable](https://github.com/handsontable/handsontable)
-  - Handsontable is a JavaScript/HTML5 data grid with spreadsheet look & feel. Available for React, Vue and Angular.
-- [babel](https://github.com/babel/babel)
-  - 🐠 Babel is a compiler for writing next generation JavaScript.
-- [cypress](https://github.com/cypress-io/cypress)
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [react-native-elements](https://github.com/react-native-elements/react-native-elements)
-  - Cross Platform React Native UI Toolkit
+- [react-spectrum](https://github.com/adobe/react-spectrum)
+  - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
+- [intl-tel-input](https://github.com/jackocnr/intl-tel-input)
+  - A JavaScript plugin for entering and validating international telephone numbers
+- [react-fundamentals](https://github.com/kentcdodds/react-fundamentals)
+  - Material for my React Fundamentals Workshop
+- [locomotive-scroll](https://github.com/locomotivemtl/locomotive-scroll)
+  - 🛤 Detection of elements in viewport & smooth scrolling with parallax.
+- [scripts](https://github.com/lxk0301/scripts)
+  - 京东薅羊毛工具（活动入口：京东app->我的->游戏与互动->查看更多）讨论组：https://t.me/JD_fruit_pet
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+  - ✅ The Node.js best practices list (September 2020)
+- [CyberChef](https://github.com/gchq/CyberChef)
+  - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+- [workers-chat-demo](https://github.com/cloudflare/workers-chat-demo)
+  - 
+- [svelte](https://github.com/sveltejs/svelte)
+  - Cybernetically enhanced web apps
+- [odoo](https://github.com/odoo/odoo)
+  - Odoo. Open Source Apps To Grow Your Business.
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
   - The ultimate Free Open Source Solution for team communications.
-- [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js)
-  - Navigable waveform built on Web Audio and Canvas
-- [design-system](https://github.com/storybookjs/design-system)
-  - 🗃 Storybook Design System
-- [juice-shop](https://github.com/bkimminich/juice-shop)
-  - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
-- [konga](https://github.com/pantsel/konga)
-  - More than just another GUI to Kong Admin API
+- [overreacted.io](https://github.com/gaearon/overreacted.io)
+  - Personal blog by Dan Abramov.
+- [office-docs-powershell](https://github.com/MicrosoftDocs/office-docs-powershell)
+  - PowerShell Reference for Office Products - Short URL: aka.ms/office-powershell
+- [amphtml](https://github.com/ampproject/amphtml)
+  - The AMP web component framework.
+- [basic-js](https://github.com/AlreadyBored/basic-js)
+  - 
+- [exceljs](https://github.com/exceljs/exceljs)
+  - Excel Workbook Manager
+- [advanced-react-patterns](https://github.com/kentcdodds/advanced-react-patterns)
+  - This is the latest advanced react patterns workshop
