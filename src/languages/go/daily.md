@@ -1,51 +1,51 @@
 # go
 - [duf](https://github.com/muesli/duf)
   - Disk Usage/Free Utility
-- [go-diagrams](https://github.com/blushft/go-diagrams)
-  - Create beautiful system diagrams with Go
-- [kubeedge](https://github.com/kubeedge/kubeedge)
-  - Kubernetes Native Edge Computing Framework (project under CNCF)
-- [gitjacker](https://github.com/liamg/gitjacker)
-  - 🔪  Leak git repositories from misconfigured websites
-- [hetty](https://github.com/dstotijn/hetty)
-  - Hetty is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.
-- [rancher](https://github.com/rancher/rancher)
-  - Complete container management platform
-- [kube-bench](https://github.com/aquasecurity/kube-bench)
-  - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
-- [dive](https://github.com/wagoodman/dive)
-  - A tool for exploring each layer in a docker image
-- [goim](https://github.com/Terry-Mao/goim)
-  - goim
-- [govmomi](https://github.com/vmware/govmomi)
-  - Go library for the VMware vSphere API
-- [go-micro](https://github.com/micro/go-micro)
-  - A Go standard library for microservices
-- [kubernetes](https://github.com/kubernetes/kubernetes)
-  - Production-Grade Container Scheduling and Management
-- [fiber](https://github.com/gofiber/fiber)
-  - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
-- [kind](https://github.com/kubernetes-sigs/kind)
-  - Kubernetes IN Docker - local clusters for testing Kubernetes
-- [domain-list-community](https://github.com/v2fly/domain-list-community)
-  - Community managed domain list. Generate geosite.dat for V2Ray.
-- [vault](https://github.com/hashicorp/vault)
-  - A tool for secrets management, encryption as a service, and privileged access management
-- [gin](https://github.com/gin-gonic/gin)
-  - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [cloud-on-k8s](https://github.com/elastic/cloud-on-k8s)
-  - Elastic Cloud on Kubernetes
-- [gardener](https://github.com/gardener/gardener)
-  - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, Packet, MetalStack, and vSphere with minimal TCO.
-- [jwt-go](https://github.com/dgrijalva/jwt-go)
-  - Golang implementation of JSON Web Tokens (JWT)
+- [elsa](https://github.com/elsaland/elsa)
+  - ❄️ Elsa is a minimal, fast and secure runtime for Javascript and Typescript written in Go
+- [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)
+  - Kubebuilder - SDK for building Kubernetes APIs using CRDs
+- [tidb](https://github.com/pingcap/tidb)
+  - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+- [gonum](https://github.com/gonum/gonum)
+  - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
 - [pgx](https://github.com/jackc/pgx)
   - PostgreSQL driver and toolkit for Go
+- [hetty](https://github.com/dstotijn/hetty)
+  - Hetty is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.
+- [go-diagrams](https://github.com/blushft/go-diagrams)
+  - Create beautiful system diagrams with Go
+- [drone](https://github.com/drone/drone)
+  - Drone is a Container-Native, Continuous Delivery Platform
 - [mysql](https://github.com/go-sql-driver/mysql)
   - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
-- [external-storage](https://github.com/kubernetes-retired/external-storage)
-  - [EOL] External storage plugins, provisioners, and helper libraries
-- [mux](https://github.com/gorilla/mux)
-  - A powerful HTTP router and URL matcher for building Go web servers with 🦍
-- [testify](https://github.com/stretchr/testify)
-  - A toolkit with common assertions and mocks that plays nicely with the standard library
+- [prometheus](https://github.com/prometheus/prometheus)
+  - The Prometheus monitoring system and time series database.
+- [earthly](https://github.com/earthly/earthly)
+  - Build automation for the post-container era
+- [terraform](https://github.com/hashicorp/terraform)
+  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [sqlx](https://github.com/jmoiron/sqlx)
+  - general purpose extensions to golang's database/sql
+- [goreleaser](https://github.com/goreleaser/goreleaser)
+  - Deliver Go binaries as fast and easily as possible
+- [dashboard](https://github.com/kubernetes/dashboard)
+  - General-purpose web UI for Kubernetes clusters
+- [terraformer](https://github.com/GoogleCloudPlatform/terraformer)
+  - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+- [consul](https://github.com/hashicorp/consul)
+  - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+- [concourse](https://github.com/concourse/concourse)
+  - Concourse is a container-based continuous thing-doer written in Go and Elm.
+- [aws-sdk-go](https://github.com/aws/aws-sdk-go)
+  - AWS SDK for the Go programming language.
+- [kafka-go](https://github.com/segmentio/kafka-go)
+  - Kafka library in Go
+- [client-go](https://github.com/kubernetes/client-go)
+  - Go client for Kubernetes.
+- [spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator)
+  - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
+- [datadog-agent](https://github.com/DataDog/datadog-agent)
+  - Datadog Agent
+- [charts](https://github.com/helm/charts)
+  - Curated applications for Kubernetes

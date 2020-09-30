@@ -1,51 +1,51 @@
 # typescript
+- [visx](https://github.com/airbnb/visx)
+  - 🐯 visx | visualization components
 - [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)
   - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
 - [ts-sql](https://github.com/codemix/ts-sql)
   - A SQL database implemented purely in TypeScript type annotations.
-- [visx](https://github.com/airbnb/visx)
-  - 🐯 visx | visualization components
+- [VisualDL](https://github.com/PaddlePaddle/VisualDL)
+  - Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）
+- [r3f-game-demo](https://github.com/coldi/r3f-game-demo)
+  - A demo on how to do a simple tile-based game with React and react-three-fiber
 - [vuetify](https://github.com/vuetifyjs/vuetify)
   - 🐉 Material Component Framework for Vue
-- [starter-workflows](https://github.com/actions/starter-workflows)
-  - Accelerating new GitHub Actions workflows
-- [perfect-arrows](https://github.com/steveruizok/perfect-arrows)
-  - A minimal tool for drawing perfect arrows between points and shapes.
-- [jest](https://github.com/facebook/jest)
-  - Delightful JavaScript Testing.
-- [prisma](https://github.com/prisma/prisma)
-  - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
-- [ngx-datatable](https://github.com/swimlane/ngx-datatable)
-  - ✨ A feature-rich yet lightweight data-table crafted for Angular
-- [grafana](https://github.com/grafana/grafana)
-  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [kibana](https://github.com/elastic/kibana)
-  - Your window into the Elastic Stack
-- [class-validator](https://github.com/typestack/class-validator)
-  - Decorator-based property validation for classes.
-- [ioredis](https://github.com/luin/ioredis)
-  - 🚀 A robust, performance-focused and full-featured Redis client for Node.js.
-- [typeorm](https://github.com/typeorm/typeorm)
-  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-- [twitter-api-client](https://github.com/Silind/twitter-api-client)
-  - Node.js / JavaScript client for Twitter API
-- [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
-  - ✨ Monorepo for all the tooling which enables ESLint to support TypeScript
-- [rxjs](https://github.com/ReactiveX/rxjs)
-  - A reactive programming library for JavaScript
-- [eui](https://github.com/elastic/eui)
-  - Elastic UI Framework 🙌
-- [commitlint](https://github.com/conventional-changelog/commitlint)
-  - 📓 Lint commit messages
+- [react-admin](https://github.com/marmelab/react-admin)
+  - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [tensorboard](https://github.com/tensorflow/tensorboard)
   - TensorFlow's Visualization Toolkit
-- [docusaurus](https://github.com/facebook/docusaurus)
-  - Easy to maintain open source documentation websites.
-- [apollo-server](https://github.com/apollographql/apollo-server)
-  - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
-- [angular-cli](https://github.com/angular/angular-cli)
-  - CLI tool for Angular
+- [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)
+  - UI components lib based on Ant Design for Angular
+- [prisma](https://github.com/prisma/prisma)
+  - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
+- [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator)
+  - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
+- [bootcamp-gostack-apps](https://github.com/rocketseat-education/bootcamp-gostack-apps)
+  - Aplicações produzidas dentro do bootcamp GoStack 🚀
+- [formik](https://github.com/formium/formik)
+  - Build forms in React, without the tears 😭
+- [type-challenges](https://github.com/type-challenges/type-challenges)
+  - Collection of TypeScript type challenges with online judge
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui)
+  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+- [backstage](https://github.com/spotify/backstage)
+  - Backstage is an open platform for building developer portals
 - [IconPark](https://github.com/bytedance/IconPark)
-  - Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
-- [aws-cdk](https://github.com/aws/aws-cdk)
-  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+  - open-sourced, colorful icons, and support multiple themes
+- [kibana](https://github.com/elastic/kibana)
+  - Your window into the Elastic Stack
+- [components](https://github.com/angular/components)
+  - Component infrastructure and Material Design components for Angular
+- [excalidraw](https://github.com/excalidraw/excalidraw)
+  - Virtual whiteboard for sketching hand-drawn like diagrams
+- [jotai](https://github.com/pmndrs/jotai)
+  - 👻 Primitive, flexible state management for React
+- [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
+  - Tasks for Azure Pipelines
+- [renovate](https://github.com/renovatebot/renovate)
+  - Universal dependency update tool that fits into your workflows.
+- [tridactyl](https://github.com/tridactyl/tridactyl)
+  - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
+- [desktop](https://github.com/desktop/desktop)
+  - Simple collaboration from your desktop

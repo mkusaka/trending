@@ -1,51 +1,50 @@
 # general
-- [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js) : TypeScript
-  - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
 - [duf](https://github.com/muesli/duf) : Go
   - Disk Usage/Free Utility
-- [ts-sql](https://github.com/codemix/ts-sql) : TypeScript
-  - A SQL database implemented purely in TypeScript type annotations.
+- [terraform-aws-vpc](https://github.com/terraform-aws-modules/terraform-aws-vpc) : HCL
+  - Terraform module which creates VPC resources on AWS
 - [winget-cli](https://github.com/microsoft/winget-cli) : C++
   - Windows Package Manager CLI (aka winget)
-- [go-diagrams](https://github.com/blushft/go-diagrams) : Go
-  - Create beautiful system diagrams with Go
-- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
-  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-- [CyberChef](https://github.com/gchq/CyberChef) : JavaScript
-  - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+- [Real_Time_Image_Animation](https://github.com/anandpawara/Real_Time_Image_Animation) : Python
+  - The Project is real time application in opencv using first order model
+- [Flutter-AI-Rubik-cube-Solver](https://github.com/brinesoftwares/Flutter-AI-Rubik-cube-Solver) : Dart
+  - Flutter-Python rubiks cube solver.
 - [Javascript](https://github.com/TheAlgorithms/Javascript) : JavaScript
   - A repository for All algorithms implemented in Javascript (for educational purposes only)
-- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4) : JavaScript
-  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [core](https://github.com/home-assistant/core) : Python
-  - 🏡 Open source home automation that puts local control and privacy first
+- [elsa](https://github.com/elsaland/elsa) : Go
+  - ❄️ Elsa is a minimal, fast and secure runtime for Javascript and Typescript written in Go
+- [DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) : Swift
+  - Developer Utilities for macOS
 - [visx](https://github.com/airbnb/visx) : TypeScript
   - 🐯 visx | visualization components
 - [hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list) : Ruby
   - Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all.
-- [kubeedge](https://github.com/kubeedge/kubeedge) : Go
-  - Kubernetes Native Edge Computing Framework (project under CNCF)
+- [realworld](https://github.com/gothinkster/realworld) : JavaScript
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [csharplang](https://github.com/dotnet/csharplang) : C#
+  - The official repo for the design of the C# programming language
+- [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js) : TypeScript
+  - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
 - [forem](https://github.com/forem/forem) : Ruby
   - For empowering community 🌱
-- [scripts](https://github.com/lxk0301/scripts) : JavaScript
-  - 京东薅羊毛工具（活动入口：京东app->我的->游戏与互动->查看更多）讨论组：https://t.me/JD_fruit_pet
-- [vagas-junior-estagio](https://github.com/alinebastos/vagas-junior-estagio) : 
-  - Empresas que constantemente oferecem vagas para junior e estagiários
-- [vuetify](https://github.com/vuetifyjs/vuetify) : TypeScript
-  - 🐉 Material Component Framework for Vue
-- [Hippy](https://github.com/Tencent/Hippy) : C++
-  - A cross platform framework designed for Web developer. Introduction video - https://v.qq.com/x/page/i3038urj2mt.html
-- [MEDUZA](https://github.com/kov4l3nko/MEDUZA) : Python
-  - A more or less universal SSL unpinning tool for iOS
-- [terraform-aws-vpc](https://github.com/terraform-aws-modules/terraform-aws-vpc) : HCL
-  - Terraform module which creates VPC resources on AWS
+- [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) : Go
+  - Kubebuilder - SDK for building Kubernetes APIs using CRDs
+- [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) : 
+  - Roadmap to becoming a data engineer in 2020
+- [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) : Python
+  - DeDRM tools for ebooks
+- [shapez.io](https://github.com/tobspr/shapez.io) : JavaScript
+  - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
+  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [gcc](https://github.com/gcc-mirror/gcc) : C
 - [linux](https://github.com/torvalds/linux) : C
   - Linux kernel source tree
-- [azure-cli](https://github.com/Azure/azure-cli) : Python
-  - Azure Command-Line Interface
-- [awesome-react](https://github.com/enaqx/awesome-react) : 
-  - A collection of awesome things regarding React ecosystem
-- [strapi](https://github.com/strapi/strapi) : JavaScript
-  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
-- [diagrams](https://github.com/mingrammer/diagrams) : Python
-  - 🎨 Diagram as Code for prototyping cloud system architectures
+- [mediapipe](https://github.com/google/mediapipe) : C++
+  - MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.
+- [Hippy](https://github.com/Tencent/Hippy) : C++
+  - A cross platform framework designed for Web developer. Introduction video - https://v.qq.com/x/page/i3038urj2mt.html
+- [puma](https://github.com/puma/puma) : Ruby
+  - A Ruby/Rack web server built for concurrency
+- [quickjs](https://github.com/bellard/quickjs) : C
+  - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
