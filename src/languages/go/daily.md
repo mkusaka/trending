@@ -1,51 +1,51 @@
 # go
-- [duf](https://github.com/muesli/duf)
-  - Disk Usage/Free Utility
 - [elsa](https://github.com/elsaland/elsa)
   - ❄️ Elsa is a minimal, fast and secure runtime for Javascript and Typescript written in Go
-- [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)
-  - Kubebuilder - SDK for building Kubernetes APIs using CRDs
-- [tidb](https://github.com/pingcap/tidb)
-  - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
-- [gonum](https://github.com/gonum/gonum)
-  - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
-- [pgx](https://github.com/jackc/pgx)
-  - PostgreSQL driver and toolkit for Go
-- [hetty](https://github.com/dstotijn/hetty)
-  - Hetty is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.
-- [go-diagrams](https://github.com/blushft/go-diagrams)
-  - Create beautiful system diagrams with Go
-- [drone](https://github.com/drone/drone)
-  - Drone is a Container-Native, Continuous Delivery Platform
-- [mysql](https://github.com/go-sql-driver/mysql)
-  - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
-- [prometheus](https://github.com/prometheus/prometheus)
-  - The Prometheus monitoring system and time series database.
-- [earthly](https://github.com/earthly/earthly)
-  - Build automation for the post-container era
-- [terraform](https://github.com/hashicorp/terraform)
-  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [sqlx](https://github.com/jmoiron/sqlx)
-  - general purpose extensions to golang's database/sql
-- [goreleaser](https://github.com/goreleaser/goreleaser)
-  - Deliver Go binaries as fast and easily as possible
-- [dashboard](https://github.com/kubernetes/dashboard)
-  - General-purpose web UI for Kubernetes clusters
-- [terraformer](https://github.com/GoogleCloudPlatform/terraformer)
-  - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
-- [consul](https://github.com/hashicorp/consul)
-  - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [concourse](https://github.com/concourse/concourse)
-  - Concourse is a container-based continuous thing-doer written in Go and Elm.
+- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
+  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [aws-sdk-go](https://github.com/aws/aws-sdk-go)
   - AWS SDK for the Go programming language.
-- [kafka-go](https://github.com/segmentio/kafka-go)
-  - Kafka library in Go
-- [client-go](https://github.com/kubernetes/client-go)
-  - Go client for Kubernetes.
+- [terraform](https://github.com/hashicorp/terraform)
+  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [external-dns](https://github.com/kubernetes-sigs/external-dns)
+  - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [duf](https://github.com/muesli/duf)
+  - Disk Usage/Free Utility
+- [kind](https://github.com/kubernetes-sigs/kind)
+  - Kubernetes IN Docker - local clusters for testing Kubernetes
+- [metrics-server](https://github.com/kubernetes-sigs/metrics-server)
+  - Cluster-wide aggregator of resource usage data.
+- [fission](https://github.com/fission/fission)
+  - Fast and Simple Serverless Functions for Kubernetes
+- [MailHog](https://github.com/mailhog/MailHog)
+  - Web and API based SMTP testing
+- [cortex](https://github.com/cortexproject/cortex)
+  - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
+- [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)
+  - Kubebuilder - SDK for building Kubernetes APIs using CRDs
+- [kubernetes](https://github.com/kubernetes/kubernetes)
+  - Production-Grade Container Scheduling and Management
+- [resty](https://github.com/go-resty/resty)
+  - Simple HTTP and REST client library for Go
+- [tidb](https://github.com/pingcap/tidb)
+  - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+- [enhancements](https://github.com/kubernetes/enhancements)
+  - Enhancements tracking repo for Kubernetes
+- [chi](https://github.com/go-chi/chi)
+  - lightweight, idiomatic and composable router for building Go HTTP services
+- [earthly](https://github.com/earthly/earthly)
+  - Build automation for the post-container era
+- [hey](https://github.com/rakyll/hey)
+  - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
+- [logo-ls](https://github.com/Yash-Handa/logo-ls)
+  - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
+- [act](https://github.com/nektos/act)
+  - Run your GitHub Actions locally 🚀
 - [spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator)
   - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
-- [datadog-agent](https://github.com/DataDog/datadog-agent)
-  - Datadog Agent
-- [charts](https://github.com/helm/charts)
-  - Curated applications for Kubernetes
+- [opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
+  - Contrib repository for the OpenTelemetry Collector
+- [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+  - A reverse proxy that provides authentication with Google, Github or other providers.
+- [pq](https://github.com/lib/pq)
+  - Pure Go Postgres driver for database/sql

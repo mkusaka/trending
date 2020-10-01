@@ -1,51 +1,51 @@
 # typescript
 - [visx](https://github.com/airbnb/visx)
   - 🐯 visx | visualization components
-- [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)
-  - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
-- [ts-sql](https://github.com/codemix/ts-sql)
-  - A SQL database implemented purely in TypeScript type annotations.
-- [VisualDL](https://github.com/PaddlePaddle/VisualDL)
-  - Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）
-- [r3f-game-demo](https://github.com/coldi/r3f-game-demo)
-  - A demo on how to do a simple tile-based game with React and react-three-fiber
-- [vuetify](https://github.com/vuetifyjs/vuetify)
-  - 🐉 Material Component Framework for Vue
-- [react-admin](https://github.com/marmelab/react-admin)
-  - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
-- [tensorboard](https://github.com/tensorflow/tensorboard)
-  - TensorFlow's Visualization Toolkit
-- [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)
-  - UI components lib based on Ant Design for Angular
-- [prisma](https://github.com/prisma/prisma)
-  - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
-- [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator)
-  - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
-- [bootcamp-gostack-apps](https://github.com/rocketseat-education/bootcamp-gostack-apps)
-  - Aplicações produzidas dentro do bootcamp GoStack 🚀
-- [formik](https://github.com/formium/formik)
-  - Build forms in React, without the tears 😭
-- [type-challenges](https://github.com/type-challenges/type-challenges)
-  - Collection of TypeScript type challenges with online judge
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui)
-  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [backstage](https://github.com/spotify/backstage)
-  - Backstage is an open platform for building developer portals
-- [IconPark](https://github.com/bytedance/IconPark)
-  - open-sourced, colorful icons, and support multiple themes
-- [kibana](https://github.com/elastic/kibana)
-  - Your window into the Elastic Stack
-- [components](https://github.com/angular/components)
-  - Component infrastructure and Material Design components for Angular
-- [excalidraw](https://github.com/excalidraw/excalidraw)
-  - Virtual whiteboard for sketching hand-drawn like diagrams
-- [jotai](https://github.com/pmndrs/jotai)
-  - 👻 Primitive, flexible state management for React
-- [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
-  - Tasks for Azure Pipelines
+- [cypress-realworld-app](https://github.com/cypress-io/cypress-realworld-app)
+  - A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.
 - [renovate](https://github.com/renovatebot/renovate)
   - Universal dependency update tool that fits into your workflows.
-- [tridactyl](https://github.com/tridactyl/tridactyl)
-  - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
-- [desktop](https://github.com/desktop/desktop)
-  - Simple collaboration from your desktop
+- [nest](https://github.com/nestjs/nest)
+  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [frontend](https://github.com/home-assistant/frontend)
+  - 🍭 Frontend for Home Assistant
+- [jotai](https://github.com/pmndrs/jotai)
+  - 👻 Primitive, flexible state management for React
+- [highcharts](https://github.com/highcharts/highcharts)
+  - Highcharts JS, the JavaScript charting framework
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
+  - 📋 React Hooks for forms validation (Web + React Native)
+- [amplify-js](https://github.com/aws-amplify/amplify-js)
+  - A declarative JavaScript library for application development using cloud services.
+- [webiny-js](https://github.com/webiny/webiny-js)
+  - Platform for building serverless applications and APIs (Node.js, React, GraphQL)
+- [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator)
+  - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
+- [pixi.js](https://github.com/pixijs/pixi.js)
+  - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+- [nx](https://github.com/nrwl/nx)
+  - Extensible Dev Tools for Monorepos
+- [prisma](https://github.com/prisma/prisma)
+  - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
+- [tensorboard](https://github.com/tensorflow/tensorboard)
+  - TensorFlow's Visualization Toolkit
+- [IconPark](https://github.com/bytedance/IconPark)
+  - Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
+- [material-components-web-components](https://github.com/material-components/material-components-web-components)
+  - Material Design Web Components
+- [opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js)
+  - OpenTelemetry JavaScript API and SDK
+- [vscode](https://github.com/microsoft/vscode)
+  - Visual Studio Code
+- [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
+  - Tasks for Azure Pipelines
+- [typeorm](https://github.com/typeorm/typeorm)
+  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+- [loopback-next](https://github.com/strongloop/loopback-next)
+  - LoopBack makes it easy to build modern API applications that require complex integrations.
+- [formik](https://github.com/formium/formik)
+  - Build forms in React, without the tears 😭
+- [prisma-examples](https://github.com/prisma/prisma-examples)
+  - 🚀 Ready-to-run Prisma example projects
+- [docusaurus](https://github.com/facebook/docusaurus)
+  - Easy to maintain open source documentation websites.
