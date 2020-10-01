@@ -1,51 +1,51 @@
 # go
-- [tidb](https://github.com/pingcap/tidb)
-  - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
-- [ultimate-go](https://github.com/hoanhan101/ultimate-go)
-  - The Ultimate Go Study Guide
-- [frp](https://github.com/fatedier/frp)
-  - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [cilium](https://github.com/cilium/cilium)
-  - eBPF-based Networking, Security, and Observability
-- [chainlink](https://github.com/smartcontractkit/chainlink)
-  - node of the decentralized oracle network, bridging on and off-chain computation
-- [GolangTraining](https://github.com/GoesToEleven/GolangTraining)
-  - Training for Golang (go language)
-- [go-github](https://github.com/google/go-github)
-  - Go library for accessing the GitHub API
-- [livego](https://github.com/gwuhaolin/livego)
-  - live video streaming server in golang
-- [Cloudreve](https://github.com/cloudreve/Cloudreve)
-  - 🌩支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)
-- [annie](https://github.com/iawia002/annie)
-  - 👾 Fast, simple and clean video downloader
-- [go](https://github.com/golang/go)
-  - The Go programming language
-- [cortex](https://github.com/cortexproject/cortex)
-  - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
+- [cli](https://github.com/cli/cli)
+  - GitHub’s official command line tool
+- [go-zero](https://github.com/tal-tech/go-zero)
+  - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
+- [dive](https://github.com/wagoodman/dive)
+  - A tool for exploring each layer in a docker image
+- [dapr](https://github.com/dapr/dapr)
+  - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
+  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [gorm](https://github.com/go-gorm/gorm)
   - The fantastic ORM library for Golang, aims to be developer friendly
-- [go-micro](https://github.com/micro/go-micro)
-  - A Go standard library for microservices
-- [kubernetes](https://github.com/kubernetes/kubernetes)
-  - Production-Grade Container Scheduling and Management
-- [traefik](https://github.com/containous/traefik)
-  - The Cloud Native Edge Router
-- [lotus](https://github.com/filecoin-project/lotus)
-  - Implementation of the Filecoin protocol, written in Go
-- [go-ethereum](https://github.com/ethereum/go-ethereum)
-  - Official Go implementation of the Ethereum protocol
-- [night](https://github.com/talkgo/night)
-  - Weekly Go Online Meetup via Zoom and Bilibili｜Go 夜读｜由 SIG 成员维护｜通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
-- [micro](https://github.com/micro/micro)
-  - Micro is a framework for cloud native development
-- [go-clean-arch](https://github.com/bxcodec/go-clean-arch)
-  - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
-- [Amass](https://github.com/OWASP/Amass)
-  - In-depth Attack Surface Mapping and Asset Discovery
-- [enhancements](https://github.com/kubernetes/enhancements)
-  - Enhancements tracking repo for Kubernetes
-- [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga)
-  - Advanced information gathering & OSINT framework for phone numbers
+- [cortex](https://github.com/cortexlabs/cortex)
+  - Model serving for developers
+- [gitea](https://github.com/go-gitea/gitea)
+  - Git with a cup of tea, painless self-hosted git service
+- [nuclei](https://github.com/projectdiscovery/nuclei)
+  - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
 - [moby](https://github.com/moby/moby)
   - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [google-ctf](https://github.com/google/google-ctf)
+  - Google CTF
+- [go](https://github.com/golang/go)
+  - The Go programming language
+- [frp](https://github.com/fatedier/frp)
+  - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+- [cockroach](https://github.com/cockroachdb/cockroach)
+  - CockroachDB - the open source, cloud-native distributed SQL database.
+- [learn-go-with-tests](https://github.com/quii/learn-go-with-tests)
+  - Learn Go with test-driven development
+- [lazygit](https://github.com/jesseduffield/lazygit)
+  - simple terminal UI for git commands
+- [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
+  - A golang ebook intro how to build a web with golang
+- [gitleaks](https://github.com/zricethezav/gitleaks)
+  - Scan git repos for secrets using regex and entropy 🔑
+- [raft](https://github.com/hashicorp/raft)
+  - Golang implementation of the Raft consensus protocol
+- [infracost](https://github.com/infracost/infracost)
+  - Cloud cost estimates for Terraform in your CLI and pull requests 💰📉
+- [istio](https://github.com/istio/istio)
+  - Connect, secure, control, and observe services.
+- [bettercap](https://github.com/bettercap/bettercap)
+  - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
+- [containerd](https://github.com/containerd/containerd)
+  - An open and reliable container runtime
+- [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh)
+  - A Chaos Engineering Platform for Kubernetes.
+- [gvisor](https://github.com/google/gvisor)
+  - Application Kernel for Containers
