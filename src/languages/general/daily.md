@@ -1,50 +1,51 @@
 # general
-- [duf](https://github.com/muesli/duf) : Go
-  - Disk Usage/Free Utility
-- [terraform-aws-vpc](https://github.com/terraform-aws-modules/terraform-aws-vpc) : HCL
-  - Terraform module which creates VPC resources on AWS
-- [winget-cli](https://github.com/microsoft/winget-cli) : C++
-  - Windows Package Manager CLI (aka winget)
-- [Real_Time_Image_Animation](https://github.com/anandpawara/Real_Time_Image_Animation) : Python
-  - The Project is real time application in opencv using first order model
-- [Flutter-AI-Rubik-cube-Solver](https://github.com/brinesoftwares/Flutter-AI-Rubik-cube-Solver) : Dart
-  - Flutter-Python rubiks cube solver.
-- [Javascript](https://github.com/TheAlgorithms/Javascript) : JavaScript
-  - A repository for All algorithms implemented in Javascript (for educational purposes only)
-- [elsa](https://github.com/elsaland/elsa) : Go
-  - ❄️ Elsa is a minimal, fast and secure runtime for Javascript and Typescript written in Go
-- [DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) : Swift
-  - Developer Utilities for macOS
-- [visx](https://github.com/airbnb/visx) : TypeScript
-  - 🐯 visx | visualization components
-- [hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list) : Ruby
-  - Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all.
-- [realworld](https://github.com/gothinkster/realworld) : JavaScript
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [csharplang](https://github.com/dotnet/csharplang) : C#
-  - The official repo for the design of the C# programming language
-- [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js) : TypeScript
-  - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
-- [forem](https://github.com/forem/forem) : Ruby
-  - For empowering community 🌱
-- [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) : Go
-  - Kubebuilder - SDK for building Kubernetes APIs using CRDs
-- [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) : 
-  - Roadmap to becoming a data engineer in 2020
-- [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) : Python
-  - DeDRM tools for ebooks
-- [shapez.io](https://github.com/tobspr/shapez.io) : JavaScript
-  - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
-- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
-  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-- [gcc](https://github.com/gcc-mirror/gcc) : C
-- [linux](https://github.com/torvalds/linux) : C
-  - Linux kernel source tree
-- [mediapipe](https://github.com/google/mediapipe) : C++
-  - MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.
-- [Hippy](https://github.com/Tencent/Hippy) : C++
-  - A cross platform framework designed for Web developer. Introduction video - https://v.qq.com/x/page/i3038urj2mt.html
+- [proshop_mern](https://github.com/bradtraversy/proshop_mern) : JavaScript
+  - Shopping cart built with MERN & Redux
+- [advanced-react-patterns](https://github.com/kentcdodds/advanced-react-patterns) : JavaScript
+  - This is the latest advanced react patterns workshop
 - [puma](https://github.com/puma/puma) : Ruby
   - A Ruby/Rack web server built for concurrency
+- [datasets](https://github.com/huggingface/datasets) : Python
+  - 🤗 Fast, efficient, open-access datasets and evaluation metrics for Natural Language Processing and more in PyTorch, TensorFlow, NumPy and Pandas
+- [terraform-aws-vpc](https://github.com/terraform-aws-modules/terraform-aws-vpc) : HCL
+  - Terraform module which creates VPC resources on AWS
+- [CyberChef](https://github.com/gchq/CyberChef) : JavaScript
+  - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+- [Real_Time_Image_Animation](https://github.com/anandpawara/Real_Time_Image_Animation) : Python
+  - The Project is real time application in opencv using first order model
+- [diagrams](https://github.com/mingrammer/diagrams) : Python
+  - 🎨 Diagram as Code for prototyping cloud system architectures
+- [Javascript](https://github.com/TheAlgorithms/Javascript) : JavaScript
+  - A repository for All algorithms implemented in Javascript (for educational purposes only)
 - [quickjs](https://github.com/bellard/quickjs) : C
   - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
+- [visx](https://github.com/airbnb/visx) : TypeScript
+  - 🐯 visx | visualization components
+- [Windows-10-Sophia-Script](https://github.com/farag2/Windows-10-Sophia-Script) : PowerShell
+  - Script to setup Windows 10 LTSC/1903/1909/2004/2009
+- [react-fundamentals](https://github.com/kentcdodds/react-fundamentals) : JavaScript
+  - Material for my React Fundamentals Workshop
+- [hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list) : Ruby
+  - Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all.
+- [PowerToys](https://github.com/microsoft/PowerToys) : C++
+  - Windows system utilities to maximize productivity
+- [imaginaire](https://github.com/NVlabs/imaginaire) : Python
+  - NVIDIA PyTorch GAN library with distributed and mixed precision support
+- [zhaopp](https://github.com/gdtool/zhaopp) : JavaScript
+  - 一个Google Drive搜索引擎 https://zhao.pp.ua/
+- [DependencyCheck](https://github.com/jeremylong/DependencyCheck) : Java
+  - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
+- [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) : 
+  - Roadmap to becoming a data engineer in 2020
+- [PySyft](https://github.com/OpenMined/PySyft) : Python
+  - A library for answering questions using data you cannot see
+- [advanced-react-hooks](https://github.com/kentcdodds/advanced-react-hooks) : JavaScript
+  - Learn Advanced React Hooks workshop
+- [react-performance](https://github.com/kentcdodds/react-performance) : JavaScript
+  - Let's make our apps fast ⚡
+- [CPP](https://github.com/akshitagit/CPP) : C++
+  - Repository for C++/C codes and algos.Star the repo too.
+- [cypress-realworld-app](https://github.com/cypress-io/cypress-realworld-app) : TypeScript
+  - A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.
+- [react-suspense](https://github.com/kentcdodds/react-suspense) : JavaScript
+  - React Suspense workshop
