@@ -1,51 +1,51 @@
 # javascript
-- [proshop_mern](https://github.com/bradtraversy/proshop_mern)
-  - Shopping cart built with MERN & Redux
-- [advanced-react-patterns](https://github.com/kentcdodds/advanced-react-patterns)
-  - This is the latest advanced react patterns workshop
-- [CyberChef](https://github.com/gchq/CyberChef)
-  - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-- [Javascript](https://github.com/TheAlgorithms/Javascript)
-  - A repository for All algorithms implemented in Javascript (for educational purposes only)
 - [react-fundamentals](https://github.com/kentcdodds/react-fundamentals)
   - Material for my React Fundamentals Workshop
-- [zhaopp](https://github.com/gdtool/zhaopp)
-  - 一个Google Drive搜索引擎 https://zhao.pp.ua/
 - [advanced-react-hooks](https://github.com/kentcdodds/advanced-react-hooks)
   - Learn Advanced React Hooks workshop
 - [react-performance](https://github.com/kentcdodds/react-performance)
   - Let's make our apps fast ⚡
-- [react-suspense](https://github.com/kentcdodds/react-suspense)
-  - React Suspense workshop
-- [bookshelf](https://github.com/kentcdodds/bookshelf)
-  - Build a ReactJS App workshop
-- [scripts](https://github.com/lxk0301/scripts)
-  - 京东薅羊毛工具（活动入口：京东app->我的->游戏与互动->查看更多）讨论组：https://t.me/JD_fruit_pet
-- [bootstrap](https://github.com/twbs/bootstrap)
-  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [realworld](https://github.com/gothinkster/realworld)
-  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [next.js](https://github.com/vercel/next.js)
-  - The React Framework
-- [json-editor](https://github.com/json-editor/json-editor)
-  - JSON Schema Based Editor
-- [serverless](https://github.com/serverless/serverless)
-  - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
-- [pipedream](https://github.com/PipedreamHQ/pipedream)
-  - Serverless integration and compute platform. Free for developers.
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
-  - 💯 Materials to help you rock your next coding interview
-- [mobx](https://github.com/mobxjs/mobx)
-  - Simple, scalable state management.
-- [exceljs](https://github.com/exceljs/exceljs)
-  - Excel Workbook Manager
-- [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated)
-  - React Native's Animated library reimplemented
-- [svelte](https://github.com/sveltejs/svelte)
-  - Cybernetically enhanced web apps
-- [shapez.io](https://github.com/tobspr/shapez.io)
-  - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
-- [strapi](https://github.com/strapi/strapi)
-  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [proshop_mern](https://github.com/bradtraversy/proshop_mern)
+  - Shopping cart built with MERN & Redux
+- [advanced-react-patterns](https://github.com/kentcdodds/advanced-react-patterns)
+  - This is the latest advanced react patterns workshop
+- [Javascript](https://github.com/TheAlgorithms/Javascript)
+  - A repository for All algorithms implemented in Javascript (for educational purposes only)
+- [react-hooks](https://github.com/kentcdodds/react-hooks)
+  - Learn React Hooks! 🎣 ⚛
 - [Hacktoberfest-2020](https://github.com/OpenSourceTogether/Hacktoberfest-2020)
   - Simply add your details to readme and stand a chance to earn a free tee! ✅
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+  - 💯 Materials to help you rock your next coding interview
+- [CyberChef](https://github.com/gchq/CyberChef)
+  - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+- [react-suspense](https://github.com/kentcdodds/react-suspense)
+  - React Suspense workshop
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
+  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+  - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
+- [jira_clone](https://github.com/oldboyxx/jira_clone)
+  - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
+- [swag-for-dev](https://github.com/swapagarwal/swag-for-dev)
+  - 😎 swag opportunities for developers
+- [Hacktoberfest2020-MovieDo](https://github.com/garimasingh128/Hacktoberfest2020-MovieDo)
+  - 🤪 🤨 🧐 🤓 😎 HACKTOBERFEST 2020 ALERT: Submit Just 4 PRs to earn SWAGS 🤪 🤨 🧐 🤓 😎
+- [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
+  - 💡 A simple NPM Package which returns random Inspirational Quotes. Get your daily quote and stay motivated! ✌️ 🌸
+- [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+  - 🚀 Generate github profile README easily with latest add-ons like visitors count, github stats, etc using minimal UI.
+- [pipedream](https://github.com/PipedreamHQ/pipedream)
+  - Serverless integration and compute platform. Free for developers.
+- [netlify-cms](https://github.com/netlify/netlify-cms)
+  - A Git-based CMS for Static Site Generators
+- [zhaopp](https://github.com/gdtool/zhaopp)
+  - 一个Google Drive搜索引擎 https://zhao.pp.ua/
+- [NativeBase](https://github.com/GeekyAnts/NativeBase)
+  - Essential cross-platform UI components for React Native
+- [ember.js](https://github.com/emberjs/ember.js)
+  - Ember.js - A JavaScript framework for creating ambitious web applications
+- [up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net)
+  - This is a list of projects which have curated tasks specifically for new contributors. These issues are a great way to get started with a project, or to help share the load of working on open source projects. Jump in!
