@@ -1,51 +1,51 @@
 # general
-- [proshop_mern](https://github.com/bradtraversy/proshop_mern) : JavaScript
-  - Shopping cart built with MERN & Redux
-- [advanced-react-patterns](https://github.com/kentcdodds/advanced-react-patterns) : JavaScript
-  - This is the latest advanced react patterns workshop
-- [puma](https://github.com/puma/puma) : Ruby
-  - A Ruby/Rack web server built for concurrency
-- [datasets](https://github.com/huggingface/datasets) : Python
-  - 🤗 Fast, efficient, open-access datasets and evaluation metrics for Natural Language Processing and more in PyTorch, TensorFlow, NumPy and Pandas
-- [terraform-aws-vpc](https://github.com/terraform-aws-modules/terraform-aws-vpc) : HCL
-  - Terraform module which creates VPC resources on AWS
-- [CyberChef](https://github.com/gchq/CyberChef) : JavaScript
-  - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-- [Real_Time_Image_Animation](https://github.com/anandpawara/Real_Time_Image_Animation) : Python
-  - The Project is real time application in opencv using first order model
-- [diagrams](https://github.com/mingrammer/diagrams) : Python
-  - 🎨 Diagram as Code for prototyping cloud system architectures
-- [Javascript](https://github.com/TheAlgorithms/Javascript) : JavaScript
-  - A repository for All algorithms implemented in Javascript (for educational purposes only)
-- [quickjs](https://github.com/bellard/quickjs) : C
-  - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
-- [visx](https://github.com/airbnb/visx) : TypeScript
-  - 🐯 visx | visualization components
-- [Windows-10-Sophia-Script](https://github.com/farag2/Windows-10-Sophia-Script) : PowerShell
-  - Script to setup Windows 10 LTSC/1903/1909/2004/2009
+- [open-project-1](https://github.com/UnityTechnologies/open-project-1) : C#
+  - Unity Open Project #1: Action-adventure
 - [react-fundamentals](https://github.com/kentcdodds/react-fundamentals) : JavaScript
   - Material for my React Fundamentals Workshop
-- [hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list) : Ruby
-  - Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all.
-- [PowerToys](https://github.com/microsoft/PowerToys) : C++
-  - Windows system utilities to maximize productivity
-- [imaginaire](https://github.com/NVlabs/imaginaire) : Python
-  - NVIDIA PyTorch GAN library with distributed and mixed precision support
-- [zhaopp](https://github.com/gdtool/zhaopp) : JavaScript
-  - 一个Google Drive搜索引擎 https://zhao.pp.ua/
-- [DependencyCheck](https://github.com/jeremylong/DependencyCheck) : Java
-  - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
-- [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) : 
-  - Roadmap to becoming a data engineer in 2020
-- [PySyft](https://github.com/OpenMined/PySyft) : Python
-  - A library for answering questions using data you cannot see
+- [datasets](https://github.com/huggingface/datasets) : Python
+  - 🤗 Fast, efficient, open-access datasets and evaluation metrics for Natural Language Processing and more in PyTorch, TensorFlow, NumPy and Pandas
 - [advanced-react-hooks](https://github.com/kentcdodds/advanced-react-hooks) : JavaScript
   - Learn Advanced React Hooks workshop
 - [react-performance](https://github.com/kentcdodds/react-performance) : JavaScript
   - Let's make our apps fast ⚡
+- [proshop_mern](https://github.com/bradtraversy/proshop_mern) : JavaScript
+  - Shopping cart built with MERN & Redux
+- [advanced-react-patterns](https://github.com/kentcdodds/advanced-react-patterns) : JavaScript
+  - This is the latest advanced react patterns workshop
+- [hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list) : Ruby
+  - Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all.
+- [nomad](https://github.com/hashicorp/nomad) : Go
+  - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+- [ajour](https://github.com/casperstorm/ajour) : Rust
+  - A World of Warcraft addon manager written in Rust.
+- [first-contributions](https://github.com/firstcontributions/first-contributions) : 
+  - 🚀✨ Help beginners to contribute to open source projects
+- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) : 
+  - A list of awesome beginners-friendly projects.
+- [chibicc](https://github.com/rui314/chibicc) : C
+  - A small C compiler
+- [visx](https://github.com/airbnb/visx) : TypeScript
+  - 🐯 visx | visualization components
+- [DS-Algo-Point](https://github.com/sukritishah15/DS-Algo-Point) : C++
+  - This repository contains codes for various data structures and algorithms in C, C++, Java, Python.
+- [PowerToys](https://github.com/microsoft/PowerToys) : C++
+  - Windows system utilities to maximize productivity
+- [Javascript](https://github.com/TheAlgorithms/Javascript) : JavaScript
+  - A repository for All algorithms implemented in Javascript (for educational purposes only)
 - [CPP](https://github.com/akshitagit/CPP) : C++
   - Repository for C++/C codes and algos.Star the repo too.
-- [cypress-realworld-app](https://github.com/cypress-io/cypress-realworld-app) : TypeScript
-  - A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.
-- [react-suspense](https://github.com/kentcdodds/react-suspense) : JavaScript
-  - React Suspense workshop
+- [raspi3-tutorial](https://github.com/bztsrc/raspi3-tutorial) : C
+  - Bare metal Raspberry Pi 3 tutorials
+- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) : 
+  - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+- [puma](https://github.com/puma/puma) : Ruby
+  - A Ruby/Rack web server built for concurrency
+- [Few-Shot-Patch-Based-Training](https://github.com/OndrejTexler/Few-Shot-Patch-Based-Training) : Python
+  - The official implementation of our SIGGRAPH 2020 paper Interactive Video Stylization Using Few-Shot Patch-Based Training
+- [fission](https://github.com/fission/fission) : Go
+  - Fast and Simple Serverless Functions for Kubernetes
+- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
+  - A long list of (advanced) JavaScript questions, and their explanations ✨
+- [react-hooks](https://github.com/kentcdodds/react-hooks) : JavaScript
+  - Learn React Hooks! 🎣 ⚛

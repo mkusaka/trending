@@ -1,51 +1,51 @@
 # go
-- [elsa](https://github.com/elsaland/elsa)
-  - ❄️ Elsa is a minimal, fast and secure runtime for Javascript and Typescript written in Go
-- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
-  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
-- [aws-sdk-go](https://github.com/aws/aws-sdk-go)
-  - AWS SDK for the Go programming language.
-- [terraform](https://github.com/hashicorp/terraform)
-  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [external-dns](https://github.com/kubernetes-sigs/external-dns)
-  - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [duf](https://github.com/muesli/duf)
-  - Disk Usage/Free Utility
-- [kind](https://github.com/kubernetes-sigs/kind)
-  - Kubernetes IN Docker - local clusters for testing Kubernetes
-- [metrics-server](https://github.com/kubernetes-sigs/metrics-server)
-  - Cluster-wide aggregator of resource usage data.
+- [nomad](https://github.com/hashicorp/nomad)
+  - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [fission](https://github.com/fission/fission)
   - Fast and Simple Serverless Functions for Kubernetes
-- [MailHog](https://github.com/mailhog/MailHog)
-  - Web and API based SMTP testing
-- [cortex](https://github.com/cortexproject/cortex)
-  - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
-- [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)
-  - Kubebuilder - SDK for building Kubernetes APIs using CRDs
-- [kubernetes](https://github.com/kubernetes/kubernetes)
-  - Production-Grade Container Scheduling and Management
-- [resty](https://github.com/go-resty/resty)
-  - Simple HTTP and REST client library for Go
-- [tidb](https://github.com/pingcap/tidb)
-  - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
-- [enhancements](https://github.com/kubernetes/enhancements)
-  - Enhancements tracking repo for Kubernetes
-- [chi](https://github.com/go-chi/chi)
-  - lightweight, idiomatic and composable router for building Go HTTP services
 - [earthly](https://github.com/earthly/earthly)
   - Build automation for the post-container era
-- [hey](https://github.com/rakyll/hey)
-  - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
-- [logo-ls](https://github.com/Yash-Handa/logo-ls)
-  - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
-- [act](https://github.com/nektos/act)
-  - Run your GitHub Actions locally 🚀
-- [spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator)
-  - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
-- [opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
-  - Contrib repository for the OpenTelemetry Collector
-- [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-  - A reverse proxy that provides authentication with Google, Github or other providers.
-- [pq](https://github.com/lib/pq)
-  - Pure Go Postgres driver for database/sql
+- [eksctl](https://github.com/weaveworks/eksctl)
+  - The official CLI for Amazon EKS
+- [elsa](https://github.com/elsaland/elsa)
+  - ❄️ Elsa is a minimal, fast and secure runtime for Javascript and Typescript written in Go
+- [flux](https://github.com/fluxcd/flux)
+  - The GitOps Kubernetes operator
+- [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm)
+  - Terraform provider for Azure Resource Manager
+- [k9s](https://github.com/derailed/k9s)
+  - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [ent](https://github.com/facebook/ent)
+  - An entity framework for Go
+- [trojan-go](https://github.com/p4gefau1t/trojan-go)
+  - Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
+- [kubernetes](https://github.com/kubernetes/kubernetes)
+  - Production-Grade Container Scheduling and Management
+- [aws-sdk-go](https://github.com/aws/aws-sdk-go)
+  - AWS SDK for the Go programming language.
+- [lakeFS](https://github.com/treeverse/lakeFS)
+  - An open source platform that delivers resilience and manageability to object-storage based data lakes
+- [botkube](https://github.com/infracloudio/botkube)
+  - An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices
+- [argo](https://github.com/argoproj/argo)
+  - Argo Workflows: Get stuff done with Kubernetes.
+- [concourse](https://github.com/concourse/concourse)
+  - Concourse is a container-based continuous thing-doer written in Go and Elm.
+- [atlantis](https://github.com/runatlantis/atlantis)
+  - Terraform Pull Request Automation
+- [google-api-go-client](https://github.com/googleapis/google-api-go-client)
+  - Auto-generated Google APIs for Go.
+- [helm](https://github.com/helm/helm)
+  - The Kubernetes Package Manager
+- [dapr](https://github.com/dapr/dapr)
+  - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+- [cockroach](https://github.com/cockroachdb/cockroach)
+  - CockroachDB - the open source, cloud-native distributed SQL database.
+- [terratest](https://github.com/gruntwork-io/terratest)
+  - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [trivy](https://github.com/aquasecurity/trivy)
+  - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
+- [kratos](https://github.com/ory/kratos)
+  - Never build user login, user registration, 2fa, profile management ever again! Works on any operating system, cloud, with any programming language, user interface, and user experience! Written in Go.
+- [blackbox_exporter](https://github.com/prometheus/blackbox_exporter)
+  - Blackbox prober exporter
