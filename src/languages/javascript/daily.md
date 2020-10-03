@@ -1,51 +1,51 @@
 # javascript
-- [react-fundamentals](https://github.com/kentcdodds/react-fundamentals)
-  - Material for my React Fundamentals Workshop
-- [advanced-react-hooks](https://github.com/kentcdodds/advanced-react-hooks)
-  - Learn Advanced React Hooks workshop
-- [react-performance](https://github.com/kentcdodds/react-performance)
-  - Let's make our apps fast ⚡
-- [proshop_mern](https://github.com/bradtraversy/proshop_mern)
-  - Shopping cart built with MERN & Redux
-- [advanced-react-patterns](https://github.com/kentcdodds/advanced-react-patterns)
-  - This is the latest advanced react patterns workshop
-- [Javascript](https://github.com/TheAlgorithms/Javascript)
-  - A repository for All algorithms implemented in Javascript (for educational purposes only)
 - [react-hooks](https://github.com/kentcdodds/react-hooks)
   - Learn React Hooks! 🎣 ⚛
-- [Hacktoberfest-2020](https://github.com/OpenSourceTogether/Hacktoberfest-2020)
-  - Simply add your details to readme and stand a chance to earn a free tee! ✅
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
-  - 💯 Materials to help you rock your next coding interview
-- [CyberChef](https://github.com/gchq/CyberChef)
-  - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-- [react-suspense](https://github.com/kentcdodds/react-suspense)
-  - React Suspense workshop
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
-  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-  - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
-- [jira_clone](https://github.com/oldboyxx/jira_clone)
-  - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
-- [swag-for-dev](https://github.com/swapagarwal/swag-for-dev)
-  - 😎 swag opportunities for developers
-- [Hacktoberfest2020-MovieDo](https://github.com/garimasingh128/Hacktoberfest2020-MovieDo)
-  - 🤪 🤨 🧐 🤓 😎 HACKTOBERFEST 2020 ALERT: Submit Just 4 PRs to earn SWAGS 🤪 🤨 🧐 🤓 😎
-- [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
-  - 💡 A simple NPM Package which returns random Inspirational Quotes. Get your daily quote and stay motivated! ✌️ 🌸
+- [react-fundamentals](https://github.com/kentcdodds/react-fundamentals)
+  - Material for my React Fundamentals Workshop
+- [discord.js](https://github.com/discordjs/discord.js)
+  - A powerful JavaScript library for interacting with the Discord API
+- [react-performance](https://github.com/kentcdodds/react-performance)
+  - Let's make our apps fast ⚡
+- [advanced-react-hooks](https://github.com/kentcdodds/advanced-react-hooks)
+  - Learn Advanced React Hooks workshop
+- [proshop_mern](https://github.com/bradtraversy/proshop_mern)
+  - Shopping cart built with MERN & Redux
 - [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
   - 🚀 Generate github profile README easily with latest add-ons like visitors count, github stats, etc using minimal UI.
-- [pipedream](https://github.com/PipedreamHQ/pipedream)
-  - Serverless integration and compute platform. Free for developers.
-- [netlify-cms](https://github.com/netlify/netlify-cms)
-  - A Git-based CMS for Static Site Generators
-- [zhaopp](https://github.com/gdtool/zhaopp)
-  - 一个Google Drive搜索引擎 https://zhao.pp.ua/
-- [NativeBase](https://github.com/GeekyAnts/NativeBase)
-  - Essential cross-platform UI components for React Native
-- [ember.js](https://github.com/emberjs/ember.js)
-  - Ember.js - A JavaScript framework for creating ambitious web applications
-- [up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net)
-  - This is a list of projects which have curated tasks specifically for new contributors. These issues are a great way to get started with a project, or to help share the load of working on open source projects. Jump in!
+- [mattermost-webapp](https://github.com/mattermost/mattermost-webapp)
+  - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
+- [Javascript](https://github.com/TheAlgorithms/Javascript)
+  - A repository for All algorithms implemented in Javascript (for educational purposes only)
+- [advanced-react-patterns](https://github.com/kentcdodds/advanced-react-patterns)
+  - This is the latest advanced react patterns workshop
+- [LazyStudy](https://github.com/lolisaikou/LazyStudy)
+  - 
+- [gatsby](https://github.com/gatsbyjs/gatsby)
+  - Build blazing fast, modern apps and websites with React
+- [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+  - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+- [Pacman-Game](https://github.com/RishabhDevbanshi/Pacman-Game)
+  - This is a pacman game made using HTML, CSS and Javascript only.
+- [react-otp-input](https://github.com/devfolioco/react-otp-input)
+  - ✔️ OTP Input Component for React
+- [Hacktoberfest-2020](https://github.com/OpenSourceTogether/Hacktoberfest-2020)
+  - Simply add your details to readme and stand a chance to earn a free tee! ✅
+- [scrroll-in](https://github.com/devfolioco/scrroll-in)
+  - An extension to save the scroll position of a webpage
+- [PiyushMehta.com](https://github.com/piyush97/PiyushMehta.com)
+  - Piyush's HomePage https://piyushmehta.tech and
+- [Hacktoberfest](https://github.com/acmbvp/Hacktoberfest)
+  - Make your first PR! ~ A beginner friendly repository made specifically for open source beginners. Add your profile, a blog or any program under any language (it can be anything from a hello-world program to a complex data structure algorithm) or update the existing one. Just make sure to add the file under the correct directory. Happy hacking!
+- [joi](https://github.com/sideway/joi)
+  - The most powerful data validation library for JS
+- [open-event-frontend](https://github.com/fossasia/open-event-frontend)
+  - The frontend for the Open Event API Server https://open-event-frontend.now.sh
+- [markdown-here](https://github.com/adam-p/markdown-here)
+  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+- [react-suspense](https://github.com/kentcdodds/react-suspense)
+  - React Suspense workshop
+- [developerFolio](https://github.com/saadpasta/developerFolio)
+  - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer.
+- [discord-api-docs](https://github.com/discord/discord-api-docs)
+  - Official Discord API Documentation
