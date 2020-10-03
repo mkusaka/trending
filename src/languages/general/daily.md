@@ -1,51 +1,50 @@
 # general
-- [open-project-1](https://github.com/UnityTechnologies/open-project-1) : C#
-  - Unity Open Project #1: Action-adventure
-- [react-fundamentals](https://github.com/kentcdodds/react-fundamentals) : JavaScript
-  - Material for my React Fundamentals Workshop
 - [datasets](https://github.com/huggingface/datasets) : Python
   - 🤗 Fast, efficient, open-access datasets and evaluation metrics for Natural Language Processing and more in PyTorch, TensorFlow, NumPy and Pandas
-- [advanced-react-hooks](https://github.com/kentcdodds/advanced-react-hooks) : JavaScript
-  - Learn Advanced React Hooks workshop
-- [react-performance](https://github.com/kentcdodds/react-performance) : JavaScript
-  - Let's make our apps fast ⚡
-- [proshop_mern](https://github.com/bradtraversy/proshop_mern) : JavaScript
-  - Shopping cart built with MERN & Redux
-- [advanced-react-patterns](https://github.com/kentcdodds/advanced-react-patterns) : JavaScript
-  - This is the latest advanced react patterns workshop
-- [hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list) : Ruby
-  - Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all.
-- [nomad](https://github.com/hashicorp/nomad) : Go
-  - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [ajour](https://github.com/casperstorm/ajour) : Rust
-  - A World of Warcraft addon manager written in Rust.
-- [first-contributions](https://github.com/firstcontributions/first-contributions) : 
-  - 🚀✨ Help beginners to contribute to open source projects
-- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) : 
-  - A list of awesome beginners-friendly projects.
 - [chibicc](https://github.com/rui314/chibicc) : C
   - A small C compiler
-- [visx](https://github.com/airbnb/visx) : TypeScript
-  - 🐯 visx | visualization components
-- [DS-Algo-Point](https://github.com/sukritishah15/DS-Algo-Point) : C++
-  - This repository contains codes for various data structures and algorithms in C, C++, Java, Python.
-- [PowerToys](https://github.com/microsoft/PowerToys) : C++
-  - Windows system utilities to maximize productivity
-- [Javascript](https://github.com/TheAlgorithms/Javascript) : JavaScript
-  - A repository for All algorithms implemented in Javascript (for educational purposes only)
-- [CPP](https://github.com/akshitagit/CPP) : C++
-  - Repository for C++/C codes and algos.Star the repo too.
-- [raspi3-tutorial](https://github.com/bztsrc/raspi3-tutorial) : C
-  - Bare metal Raspberry Pi 3 tutorials
-- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) : 
-  - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-- [puma](https://github.com/puma/puma) : Ruby
-  - A Ruby/Rack web server built for concurrency
-- [Few-Shot-Patch-Based-Training](https://github.com/OndrejTexler/Few-Shot-Patch-Based-Training) : Python
-  - The official implementation of our SIGGRAPH 2020 paper Interactive Video Stylization Using Few-Shot Patch-Based Training
-- [fission](https://github.com/fission/fission) : Go
-  - Fast and Simple Serverless Functions for Kubernetes
-- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
-  - A long list of (advanced) JavaScript questions, and their explanations ✨
+- [hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list) : Ruby
+  - Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all.
+- [hetty](https://github.com/dstotijn/hetty) : Go
+  - Hetty is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.
+- [open-project-1](https://github.com/UnityTechnologies/open-project-1) : ShaderLab
+  - Unity Open Project #1: Action-adventure
+- [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) : JavaScript
+  - 30 Days of React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of Java…
+- [EssayKiller_V2](https://github.com/EssayKillerBrain/EssayKiller_V2) : Python
+  - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
+- [mlbook](https://github.com/dafriedman97/mlbook) : Jupyter Notebook
+  - Repository for the free online book Machine Learning from Scratch (link below!)
 - [react-hooks](https://github.com/kentcdodds/react-hooks) : JavaScript
   - Learn React Hooks! 🎣 ⚛
+- [DataStructures-Algorithms](https://github.com/rachitiitr/DataStructures-Algorithms) : C++
+  - The best library for implementation of all Data Structures and Algorithms - Trees + Graph Algorithms too!
+- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
+  - A long list of (advanced) JavaScript questions, and their explanations ✨
+- [react-fundamentals](https://github.com/kentcdodds/react-fundamentals) : JavaScript
+  - Material for my React Fundamentals Workshop
+- [NeMo](https://github.com/NVIDIA/NeMo) : Python
+  - NeMo: a toolkit for conversational AI
+- [trojan-go](https://github.com/p4gefau1t/trojan-go) : Go
+  - Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
+- [DS-Algo-Point](https://github.com/sukritishah15/DS-Algo-Point) : Java
+  - This repository contains codes for various data structures and algorithms in C, C++, Java, Python.
+- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) : 
+  - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+- [cortex](https://github.com/cortexproject/cortex) : Go
+  - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
+- [discord.js](https://github.com/discordjs/discord.js) : JavaScript
+  - A powerful JavaScript library for interacting with the Discord API
+- [react-performance](https://github.com/kentcdodds/react-performance) : JavaScript
+  - Let's make our apps fast ⚡
+- [advanced-react-hooks](https://github.com/kentcdodds/advanced-react-hooks) : JavaScript
+  - Learn Advanced React Hooks workshop
+- [framework](https://github.com/laravel/framework) : PHP
+- [PowerToys](https://github.com/microsoft/PowerToys) : C++
+  - Windows system utilities to maximize productivity
+- [Python](https://github.com/geekcomputers/Python) : Python
+  - My Python Examples
+- [Keiko-Corp](https://github.com/zero-to-mastery/Keiko-Corp) : HTML
+  - HTML challenge for Hacktoberfest 2020
+- [rotate](https://github.com/rvizzz/rotate) : Python
+  - Create recursive image rotation animations
