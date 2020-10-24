@@ -1,3 +1,252 @@
-The deployment has been disabled
-
-DEPLOYMENT_DISABLED
+[
+  {
+    "author": "icexin",
+    "name": "eggos",
+    "href": "https://github.com/icexin/eggos",
+    "description": "A Go unikernel running on x86 bare metal",
+    "language": "Go",
+    "stars": 876,
+    "forks": 25,
+    "starsInPeriod": 282
+  },
+  {
+    "author": "hashicorp",
+    "name": "consul",
+    "href": "https://github.com/hashicorp/consul",
+    "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "language": "Go",
+    "stars": 20427,
+    "forks": 3499,
+    "starsInPeriod": 12
+  },
+  {
+    "author": "arl",
+    "name": "statsviz",
+    "href": "https://github.com/arl/statsviz",
+    "description": "🚀 Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser",
+    "language": "Go",
+    "stars": 604,
+    "forks": 23,
+    "starsInPeriod": 162
+  },
+  {
+    "author": "prometheus",
+    "name": "prometheus",
+    "href": "https://github.com/prometheus/prometheus",
+    "description": "The Prometheus monitoring system and time series database.",
+    "language": "Go",
+    "stars": 33483,
+    "forks": 5238,
+    "starsInPeriod": 24
+  },
+  {
+    "author": "robertkrimen",
+    "name": "otto",
+    "href": "https://github.com/robertkrimen/otto",
+    "description": "A JavaScript interpreter in Go (golang)",
+    "language": "Go",
+    "stars": 5617,
+    "forks": 483,
+    "starsInPeriod": 17
+  },
+  {
+    "author": "hashicorp",
+    "name": "nomad",
+    "href": "https://github.com/hashicorp/nomad",
+    "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "language": "Go",
+    "stars": 7013,
+    "forks": 1179,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "btcsuite",
+    "name": "btcd",
+    "href": "https://github.com/btcsuite/btcd",
+    "description": "An alternative full node bitcoin implementation written in Go (golang)",
+    "language": "Go",
+    "stars": 3967,
+    "forks": 1354,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "golangci",
+    "name": "golangci-lint",
+    "href": "https://github.com/golangci/golangci-lint",
+    "description": "Fast linters Runner for Go",
+    "language": "Go",
+    "stars": 6378,
+    "forks": 580,
+    "starsInPeriod": 21
+  },
+  {
+    "author": "hyperledger",
+    "name": "fabric-samples",
+    "href": "https://github.com/hyperledger/fabric-samples",
+    "description": null,
+    "language": "Go",
+    "stars": 1482,
+    "forks": 1864,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "mattermost",
+    "name": "mattermost-server",
+    "href": "https://github.com/mattermost/mattermost-server",
+    "description": "Open source Slack-alternative in Golang and React - Mattermost",
+    "language": "Go",
+    "stars": 19236,
+    "forks": 4585,
+    "starsInPeriod": 23
+  },
+  {
+    "author": "kubernetes",
+    "name": "client-go",
+    "href": "https://github.com/kubernetes/client-go",
+    "description": "Go client for Kubernetes.",
+    "language": "Go",
+    "stars": 3943,
+    "forks": 1685,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "rancher",
+    "name": "k3s",
+    "href": "https://github.com/rancher/k3s",
+    "description": "Lightweight Kubernetes",
+    "language": "Go",
+    "stars": 14539,
+    "forks": 1153,
+    "starsInPeriod": 20
+  },
+  {
+    "author": "amit-davidson",
+    "name": "Chronos",
+    "href": "https://github.com/amit-davidson/Chronos",
+    "description": "Chronos - A static race detector for the go language",
+    "language": "Go",
+    "stars": 188,
+    "forks": 3,
+    "starsInPeriod": 40
+  },
+  {
+    "author": "tsenart",
+    "name": "vegeta",
+    "href": "https://github.com/tsenart/vegeta",
+    "description": "HTTP load testing tool and library. It's over 9000!",
+    "language": "Go",
+    "stars": 15670,
+    "forks": 1001,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "golang",
+    "name": "protobuf",
+    "href": "https://github.com/golang/protobuf",
+    "description": "Go support for Google's protocol buffers",
+    "language": "Go",
+    "stars": 7118,
+    "forks": 1328,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "ardanlabs",
+    "name": "gotraining",
+    "href": "https://github.com/ardanlabs/gotraining",
+    "description": "Go Training Class Material :",
+    "language": "Go",
+    "stars": 8321,
+    "forks": 1625,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "prometheus",
+    "name": "client_golang",
+    "href": "https://github.com/prometheus/client_golang",
+    "description": "Prometheus instrumentation library for Go applications",
+    "language": "Go",
+    "stars": 2598,
+    "forks": 659,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "go-redis",
+    "name": "redis",
+    "href": "https://github.com/go-redis/redis",
+    "description": "Type-safe Redis client for Golang",
+    "language": "Go",
+    "stars": 9915,
+    "forks": 1267,
+    "starsInPeriod": 12
+  },
+  {
+    "author": "prometheus-operator",
+    "name": "prometheus-operator",
+    "href": "https://github.com/prometheus-operator/prometheus-operator",
+    "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+    "language": "Go",
+    "stars": 4853,
+    "forks": 2179,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "avelino",
+    "name": "awesome-go",
+    "href": "https://github.com/avelino/awesome-go",
+    "description": "A curated list of awesome Go frameworks, libraries and software",
+    "language": "Go",
+    "stars": 58470,
+    "forks": 7740,
+    "starsInPeriod": 41
+  },
+  {
+    "author": "dgraph-io",
+    "name": "dgraph",
+    "href": "https://github.com/dgraph-io/dgraph",
+    "description": "Native GraphQL Database with graph backend",
+    "language": "Go",
+    "stars": 14137,
+    "forks": 1038,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "mozilla",
+    "name": "sops",
+    "href": "https://github.com/mozilla/sops",
+    "description": "Simple and flexible tool for managing secrets",
+    "language": "Go",
+    "stars": 5253,
+    "forks": 338,
+    "starsInPeriod": 23
+  },
+  {
+    "author": "ZupIT",
+    "name": "ritchie-cli",
+    "href": "https://github.com/ZupIT/ritchie-cli",
+    "description": "Ritchie CLI is an open source tool that allows to create, store and share any kind of automations, executing them through command lines, to run operations or start workflows ⚙️ 🖥 💡",
+    "language": "Go",
+    "stars": 284,
+    "forks": 65,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "argoproj",
+    "name": "argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "description": "Declarative continuous deployment for Kubernetes.",
+    "language": "Go",
+    "stars": 4090,
+    "forks": 884,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "gorilla",
+    "name": "websocket",
+    "href": "https://github.com/gorilla/websocket",
+    "description": "A fast, well-tested and widely used WebSocket implementation for Go.",
+    "language": "Go",
+    "stars": 13144,
+    "forks": 2211,
+    "starsInPeriod": 17
+  }
+]

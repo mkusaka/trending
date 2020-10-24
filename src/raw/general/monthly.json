@@ -1,1 +1,252 @@
-[{"author":"cli","name":"cli","avatar":"https://github.com/cli.png","url":"https://github.com/cli/cli","description":"GitHub’s official command line tool","language":"Go","languageColor":"#00ADD8","stars":18413,"forks":1187,"currentPeriodStars":7127,"builtBy":[{"username":"mislav","href":"https://github.com/mislav","avatar":"https://avatars2.githubusercontent.com/u/887"},{"username":"vilmibm","href":"https://github.com/vilmibm","avatar":"https://avatars3.githubusercontent.com/u/98482"},{"username":"probablycorey","href":"https://github.com/probablycorey","avatar":"https://avatars2.githubusercontent.com/u/596"},{"username":"doi-t","href":"https://github.com/doi-t","avatar":"https://avatars0.githubusercontent.com/u/5877477"},{"username":"samcoe","href":"https://github.com/samcoe","avatar":"https://avatars2.githubusercontent.com/u/7969779"}]},{"author":"mingrammer","name":"diagrams","avatar":"https://github.com/mingrammer.png","url":"https://github.com/mingrammer/diagrams","description":"🎨 Diagram as Code for prototyping cloud system architectures","language":"Python","languageColor":"#3572A5","stars":9473,"forks":481,"currentPeriodStars":3570,"builtBy":[{"username":"mingrammer","href":"https://github.com/mingrammer","avatar":"https://avatars1.githubusercontent.com/u/6178510"},{"username":"yu-iskw","href":"https://github.com/yu-iskw","avatar":"https://avatars1.githubusercontent.com/u/1523515"},{"username":"gabriel-tessier","href":"https://github.com/gabriel-tessier","avatar":"https://avatars2.githubusercontent.com/u/283765"},{"username":"nlamirault","href":"https://github.com/nlamirault","avatar":"https://avatars1.githubusercontent.com/u/29233"},{"username":"leandrodamascena","href":"https://github.com/leandrodamascena","avatar":"https://avatars2.githubusercontent.com/u/4295173"}]},{"author":"sogou","name":"workflow","avatar":"https://github.com/sogou.png","url":"https://github.com/sogou/workflow","description":"Sogou framework for C++ back-end development","language":"C++","languageColor":"#f34b7d","stars":1992,"forks":405,"currentPeriodStars":1412,"builtBy":[{"username":"Barenboim","href":"https://github.com/Barenboim","avatar":"https://avatars3.githubusercontent.com/u/52160700"},{"username":"holmes1412","href":"https://github.com/holmes1412","avatar":"https://avatars2.githubusercontent.com/u/1880011"},{"username":"alpc62","href":"https://github.com/alpc62","avatar":"https://avatars0.githubusercontent.com/u/21165774"},{"username":"sonullx","href":"https://github.com/sonullx","avatar":"https://avatars1.githubusercontent.com/u/7435287"},{"username":"qicosmos","href":"https://github.com/qicosmos","avatar":"https://avatars3.githubusercontent.com/u/6500147"}]},{"author":"laravel","name":"jetstream","avatar":"https://github.com/laravel.png","url":"https://github.com/laravel/jetstream","description":"","language":"PHP","languageColor":"#4F5D95","stars":1850,"forks":212,"currentPeriodStars":1730,"builtBy":[{"username":"taylorotwell","href":"https://github.com/taylorotwell","avatar":"https://avatars2.githubusercontent.com/u/463230"},{"username":"driesvints","href":"https://github.com/driesvints","avatar":"https://avatars0.githubusercontent.com/u/594614"},{"username":"wotta","href":"https://github.com/wotta","avatar":"https://avatars0.githubusercontent.com/u/13332240"},{"username":"amayer5125","href":"https://github.com/amayer5125","avatar":"https://avatars2.githubusercontent.com/u/3212673"},{"username":"calebporzio","href":"https://github.com/calebporzio","avatar":"https://avatars3.githubusercontent.com/u/3670578"}]},{"author":"openjdk","name":"jdk","avatar":"https://github.com/openjdk.png","url":"https://github.com/openjdk/jdk","description":"JDK main-line development","language":"Java","languageColor":"#b07219","stars":5682,"forks":1298,"currentPeriodStars":2703,"builtBy":[{"username":"jonathan-gibbons","href":"https://github.com/jonathan-gibbons","avatar":"https://avatars3.githubusercontent.com/u/61436102"},{"username":"jddarcy","href":"https://github.com/jddarcy","avatar":"https://avatars0.githubusercontent.com/u/31372256"},{"username":"ChrisHegarty","href":"https://github.com/ChrisHegarty","avatar":"https://avatars2.githubusercontent.com/u/62058229"},{"username":"JesperIRL","href":"https://github.com/JesperIRL","avatar":"https://avatars0.githubusercontent.com/u/39598758"},{"username":"wangweij","href":"https://github.com/wangweij","avatar":"https://avatars1.githubusercontent.com/u/574013"}]},{"author":"30-seconds","name":"30-seconds-of-code","avatar":"https://github.com/30-seconds.png","url":"https://github.com/30-seconds/30-seconds-of-code","description":"Short JavaScript code snippets for all your development needs","language":"JavaScript","languageColor":"#f1e05a","stars":62411,"forks":6654,"currentPeriodStars":3389,"builtBy":[{"username":"Chalarangelo","href":"https://github.com/Chalarangelo","avatar":"https://avatars0.githubusercontent.com/u/8281875"},{"username":"30secondsofcode","href":"https://github.com/30secondsofcode","avatar":"https://avatars1.githubusercontent.com/u/35068020"},{"username":"fejes713","href":"https://github.com/fejes713","avatar":"https://avatars0.githubusercontent.com/u/25749162"},{"username":"flxwu","href":"https://github.com/flxwu","avatar":"https://avatars1.githubusercontent.com/u/16862997"},{"username":"kriadmin","href":"https://github.com/kriadmin","avatar":"https://avatars3.githubusercontent.com/u/31792358"}]},{"author":"tal-tech","name":"go-zero","avatar":"https://github.com/tal-tech.png","url":"https://github.com/tal-tech/go-zero","description":"go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.","language":"Go","languageColor":"#00ADD8","stars":1842,"forks":243,"currentPeriodStars":1207,"builtBy":[{"username":"kevwan","href":"https://github.com/kevwan","avatar":"https://avatars0.githubusercontent.com/u/1918356"},{"username":"kingxt","href":"https://github.com/kingxt","avatar":"https://avatars1.githubusercontent.com/u/2328454"},{"username":"anqiansong","href":"https://github.com/anqiansong","avatar":"https://avatars0.githubusercontent.com/u/10302073"},{"username":"StevenZack","href":"https://github.com/StevenZack","avatar":"https://avatars2.githubusercontent.com/u/18564615"},{"username":"miaogaolin","href":"https://github.com/miaogaolin","avatar":"https://avatars0.githubusercontent.com/u/57740293"}]},{"author":"flybywiresim","name":"a32nx","avatar":"https://github.com/flybywiresim.png","url":"https://github.com/flybywiresim/a32nx","description":"The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.","language":"HTML","languageColor":"#e34c26","stars":1635,"forks":229,"currentPeriodStars":926,"builtBy":[{"username":"AdenFlorian","href":"https://github.com/AdenFlorian","avatar":"https://avatars0.githubusercontent.com/u/3533988"},{"username":"wpine215","href":"https://github.com/wpine215","avatar":"https://avatars1.githubusercontent.com/u/28059870"},{"username":"tyler58546","href":"https://github.com/tyler58546","avatar":"https://avatars0.githubusercontent.com/u/16512508"},{"username":"UncleClapton","href":"https://github.com/UncleClapton","avatar":"https://avatars3.githubusercontent.com/u/2686824"},{"username":"JackZ974","href":"https://github.com/JackZ974","avatar":"https://avatars3.githubusercontent.com/u/23705479"}]},{"author":"macrozheng","name":"mall-swarm","avatar":"https://github.com/macrozheng.png","url":"https://github.com/macrozheng/mall-swarm","description":"mall-swarm是一套微服务商城系统，采用了 Spring Cloud Hoxton & Alibaba、Spring Boot 2.3、Oauth2、MyBatis、Docker、Elasticsearch等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。","language":"Java","languageColor":"#b07219","stars":4784,"forks":2011,"currentPeriodStars":1153,"builtBy":[{"username":"macrozheng","href":"https://github.com/macrozheng","avatar":"https://avatars1.githubusercontent.com/u/15903809"}]},{"author":"CCChieh","name":"IBMYes","avatar":"https://github.com/CCChieh.png","url":"https://github.com/CCChieh/IBMYes","description":"","language":"Batchfile","languageColor":"#C1F12E","stars":1815,"forks":14126,"currentPeriodStars":1075,"builtBy":[{"username":"CCChieh","href":"https://github.com/CCChieh","avatar":"https://avatars2.githubusercontent.com/u/18118573"},{"username":"hiiragiyuriko","href":"https://github.com/hiiragiyuriko","avatar":"https://avatars3.githubusercontent.com/u/42064430"}]},{"author":"Uniswap","name":"uniswap-v2-core","avatar":"https://github.com/Uniswap.png","url":"https://github.com/Uniswap/uniswap-v2-core","description":"🎛 Core smart contracts of Uniswap V2","language":"TypeScript","languageColor":"#2b7489","stars":423,"forks":284,"currentPeriodStars":196,"builtBy":[{"username":"NoahZinsmeister","href":"https://github.com/NoahZinsmeister","avatar":"https://avatars3.githubusercontent.com/u/3760414"},{"username":"haydenadams","href":"https://github.com/haydenadams","avatar":"https://avatars3.githubusercontent.com/u/9343483"},{"username":"moodysalem","href":"https://github.com/moodysalem","avatar":"https://avatars0.githubusercontent.com/u/7897876"},{"username":"danrobinson","href":"https://github.com/danrobinson","avatar":"https://avatars3.githubusercontent.com/u/1187252"},{"username":"chriseth","href":"https://github.com/chriseth","avatar":"https://avatars0.githubusercontent.com/u/9073706"}]},{"author":"vaastav","name":"Fantasy-Premier-League","avatar":"https://github.com/vaastav.png","url":"https://github.com/vaastav/Fantasy-Premier-League","description":"Creates a .csv file of all players in the English Player League with their respective team and total fantasy points","language":"Python","languageColor":"#3572A5","stars":651,"forks":416,"currentPeriodStars":218,"builtBy":[{"username":"vaastav","href":"https://github.com/vaastav","avatar":"https://avatars1.githubusercontent.com/u/6758381"},{"username":"ravgeetdhillon","href":"https://github.com/ravgeetdhillon","avatar":"https://avatars0.githubusercontent.com/u/27858510"},{"username":"DanielIlaro","href":"https://github.com/DanielIlaro","avatar":"https://avatars2.githubusercontent.com/u/24686285"},{"username":"jcheong0428","href":"https://github.com/jcheong0428","avatar":"https://avatars1.githubusercontent.com/u/12897766"},{"username":"BDooley11","href":"https://github.com/BDooley11","avatar":"https://avatars1.githubusercontent.com/u/55091575"}]},{"author":"tradytics","name":"surpriver","avatar":"https://github.com/tradytics.png","url":"https://github.com/tradytics/surpriver","description":"Find big moving stocks before they move using machine learning and anomaly detection","language":"Python","languageColor":"#3572A5","stars":809,"forks":132,"currentPeriodStars":678,"builtBy":[{"username":"tradytics","href":"https://github.com/tradytics","avatar":"https://avatars2.githubusercontent.com/u/69155516"},{"username":"MohanVashist1","href":"https://github.com/MohanVashist1","avatar":"https://avatars0.githubusercontent.com/u/34726032"},{"username":"am2367","href":"https://github.com/am2367","avatar":"https://avatars0.githubusercontent.com/u/31661440"},{"username":"azabonik","href":"https://github.com/azabonik","avatar":"https://avatars2.githubusercontent.com/u/2628342"},{"username":"AndrewCGreen","href":"https://github.com/AndrewCGreen","avatar":"https://avatars0.githubusercontent.com/u/24192498"}]},{"author":"google","name":"googletest","avatar":"https://github.com/google.png","url":"https://github.com/google/googletest","description":"Googletest - Google Testing and Mocking Framework","language":"C++","languageColor":"#f34b7d","stars":18031,"forks":6610,"currentPeriodStars":1100,"builtBy":[{"username":"gennadiycivil","href":"https://github.com/gennadiycivil","avatar":"https://avatars1.githubusercontent.com/u/12735026"},{"username":"BillyDonahue","href":"https://github.com/BillyDonahue","avatar":"https://avatars1.githubusercontent.com/u/8611652"},{"username":"kuzkry","href":"https://github.com/kuzkry","avatar":"https://avatars1.githubusercontent.com/u/18310463"},{"username":"ciband","href":"https://github.com/ciband","avatar":"https://avatars3.githubusercontent.com/u/18743679"},{"username":"derekmauro","href":"https://github.com/derekmauro","avatar":"https://avatars2.githubusercontent.com/u/761129"}]},{"author":"livewire","name":"livewire","avatar":"https://github.com/livewire.png","url":"https://github.com/livewire/livewire","description":"A full-stack framework for Laravel that takes the pain out of building dynamic UIs.","language":"Blade","languageColor":"#f7523f","stars":6451,"forks":448,"currentPeriodStars":1063,"builtBy":[{"username":"calebporzio","href":"https://github.com/calebporzio","avatar":"https://avatars3.githubusercontent.com/u/3670578"},{"username":"lancepioch","href":"https://github.com/lancepioch","avatar":"https://avatars3.githubusercontent.com/u/1296882"},{"username":"nuernbergerA","href":"https://github.com/nuernbergerA","avatar":"https://avatars2.githubusercontent.com/u/13331388"},{"username":"danharrin","href":"https://github.com/danharrin","avatar":"https://avatars0.githubusercontent.com/u/41773797"}]},{"author":"twintproject","name":"twint","avatar":"https://github.com/twintproject.png","url":"https://github.com/twintproject/twint","description":"An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.","language":"Python","languageColor":"#3572A5","stars":7554,"forks":1003,"currentPeriodStars":1196,"builtBy":[{"username":"pielco11","href":"https://github.com/pielco11","avatar":"https://avatars3.githubusercontent.com/u/17363750"},{"username":"haccer","href":"https://github.com/haccer","avatar":"https://avatars0.githubusercontent.com/u/22013186"},{"username":"Mehdzor","href":"https://github.com/Mehdzor","avatar":"https://avatars1.githubusercontent.com/u/5204252"},{"username":"hpiedcoq","href":"https://github.com/hpiedcoq","avatar":"https://avatars3.githubusercontent.com/u/8553310"},{"username":"fshabashev","href":"https://github.com/fshabashev","avatar":"https://avatars0.githubusercontent.com/u/6548211"}]},{"author":"sushiswap","name":"sushiswap","avatar":"https://github.com/sushiswap.png","url":"https://github.com/sushiswap/sushiswap","description":"🍣 SushiSwap smart contracts","language":"Solidity","languageColor":"#AA6746","stars":522,"forks":347,"currentPeriodStars":389,"builtBy":[{"username":"chefnomi","href":"https://github.com/chefnomi","avatar":"https://avatars1.githubusercontent.com/u/70129471"},{"username":"acegilz","href":"https://github.com/acegilz","avatar":"https://avatars0.githubusercontent.com/u/4284362"},{"username":"jishankai","href":"https://github.com/jishankai","avatar":"https://avatars1.githubusercontent.com/u/2420990"}]},{"author":"williamfiset","name":"Algorithms","avatar":"https://github.com/williamfiset.png","url":"https://github.com/williamfiset/Algorithms","description":"A collection of algorithms and data structures","language":"Java","languageColor":"#b07219","stars":6530,"forks":1788,"currentPeriodStars":978,"builtBy":[{"username":"williamfiset","href":"https://github.com/williamfiset","avatar":"https://avatars0.githubusercontent.com/u/5898848"},{"username":"micahstairs","href":"https://github.com/micahstairs","avatar":"https://avatars0.githubusercontent.com/u/7231485"},{"username":"EAlexa","href":"https://github.com/EAlexa","avatar":"https://avatars3.githubusercontent.com/u/52754037"},{"username":"abstratt","href":"https://github.com/abstratt","avatar":"https://avatars1.githubusercontent.com/u/2187522"},{"username":"rushabh-v","href":"https://github.com/rushabh-v","avatar":"https://avatars0.githubusercontent.com/u/46084304"}]},{"author":"hoppscotch","name":"hoppscotch","avatar":"https://github.com/hoppscotch.png","url":"https://github.com/hoppscotch/hoppscotch","description":"👽 A free, fast and beautiful API request builder used by 80k+ developers. https://hoppscotch.io","language":"Vue","languageColor":"#2c3e50","stars":23805,"forks":1538,"currentPeriodStars":1711,"builtBy":[{"username":"liyasthomas","href":"https://github.com/liyasthomas","avatar":"https://avatars3.githubusercontent.com/u/10395817"},{"username":"AndrewBastin","href":"https://github.com/AndrewBastin","avatar":"https://avatars0.githubusercontent.com/u/9131943"},{"username":"jamesgeorge007","href":"https://github.com/jamesgeorge007","avatar":"https://avatars2.githubusercontent.com/u/25279263"},{"username":"NBTX","href":"https://github.com/NBTX","avatar":"https://avatars3.githubusercontent.com/u/43181178"}]},{"author":"FreeCAD","name":"FreeCAD","avatar":"https://github.com/FreeCAD.png","url":"https://github.com/FreeCAD/FreeCAD","description":"This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker","language":"C++","languageColor":"#f34b7d","stars":7691,"forks":1950,"currentPeriodStars":1701,"builtBy":[{"username":"wwmayer","href":"https://github.com/wwmayer","avatar":"https://avatars3.githubusercontent.com/u/7101741"},{"username":"yorikvanhavre","href":"https://github.com/yorikvanhavre","avatar":"https://avatars0.githubusercontent.com/u/1136856"},{"username":"berndhahnebach","href":"https://github.com/berndhahnebach","avatar":"https://avatars2.githubusercontent.com/u/6129869"},{"username":"WandererFan","href":"https://github.com/WandererFan","avatar":"https://avatars1.githubusercontent.com/u/3587161"},{"username":"mlampert","href":"https://github.com/mlampert","avatar":"https://avatars1.githubusercontent.com/u/7856427"}]},{"author":"GitSquared","name":"edex-ui","avatar":"https://github.com/GitSquared.png","url":"https://github.com/GitSquared/edex-ui","description":"A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.","language":"JavaScript","languageColor":"#f1e05a","stars":16600,"forks":1007,"currentPeriodStars":1098,"builtBy":[{"username":"GitSquared","href":"https://github.com/GitSquared","avatar":"https://avatars1.githubusercontent.com/u/24496417"},{"username":"greenkeeperio-bot","href":"https://github.com/greenkeeperio-bot","avatar":"https://avatars0.githubusercontent.com/u/14790466"}]},{"author":"element-plus","name":"element-plus","avatar":"https://github.com/element-plus.png","url":"https://github.com/element-plus/element-plus","description":"🎉 A Vue.js 3.0 UI Library","language":"Vue","languageColor":"#2c3e50","stars":1571,"forks":171,"currentPeriodStars":938,"builtBy":[{"username":"zazzaz","href":"https://github.com/zazzaz","avatar":"https://avatars0.githubusercontent.com/u/10731096"},{"username":"HerringtonDarkholme","href":"https://github.com/HerringtonDarkholme","avatar":"https://avatars0.githubusercontent.com/u/2883231"},{"username":"JeremyWuuuuu","href":"https://github.com/JeremyWuuuuu","avatar":"https://avatars2.githubusercontent.com/u/15975785"},{"username":"zouhangwithsweet","href":"https://github.com/zouhangwithsweet","avatar":"https://avatars3.githubusercontent.com/u/21095710"}]},{"author":"laravel","name":"laravel","avatar":"https://github.com/laravel.png","url":"https://github.com/laravel/laravel","description":"A PHP framework for web artisans","language":"PHP","languageColor":"#4F5D95","stars":61763,"forks":19477,"currentPeriodStars":855,"builtBy":[{"username":"taylorotwell","href":"https://github.com/taylorotwell","avatar":"https://avatars2.githubusercontent.com/u/463230"},{"username":"driesvints","href":"https://github.com/driesvints","avatar":"https://avatars0.githubusercontent.com/u/594614"},{"username":"GrahamCampbell","href":"https://github.com/GrahamCampbell","avatar":"https://avatars1.githubusercontent.com/u/2829600"},{"username":"daylerees","href":"https://github.com/daylerees","avatar":"https://avatars3.githubusercontent.com/u/207870"},{"username":"franzliedke","href":"https://github.com/franzliedke","avatar":"https://avatars3.githubusercontent.com/u/249125"}]},{"author":"wagoodman","name":"dive","avatar":"https://github.com/wagoodman.png","url":"https://github.com/wagoodman/dive","description":"A tool for exploring each layer in a docker image","language":"Go","languageColor":"#00ADD8","stars":22581,"forks":831,"currentPeriodStars":1227,"builtBy":[{"username":"wagoodman","href":"https://github.com/wagoodman","avatar":"https://avatars2.githubusercontent.com/u/590471"},{"username":"willmurphyscode","href":"https://github.com/willmurphyscode","avatar":"https://avatars2.githubusercontent.com/u/12529630"},{"username":"akshaychhajed","href":"https://github.com/akshaychhajed","avatar":"https://avatars1.githubusercontent.com/u/10204475"},{"username":"abitrolly","href":"https://github.com/abitrolly","avatar":"https://avatars0.githubusercontent.com/u/8781107"},{"username":"muesli","href":"https://github.com/muesli","avatar":"https://avatars2.githubusercontent.com/u/146378"}]},{"author":"kangvcar","name":"InfoSpider","avatar":"https://github.com/kangvcar.png","url":"https://github.com/kangvcar/InfoSpider","description":"INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。","language":"Python","languageColor":"#3572A5","stars":2382,"forks":386,"currentPeriodStars":1194,"builtBy":[{"username":"kangvcar","href":"https://github.com/kangvcar","avatar":"https://avatars1.githubusercontent.com/u/20273349"},{"username":"njuyuanrui","href":"https://github.com/njuyuanrui","avatar":"https://avatars3.githubusercontent.com/u/7438370"},{"username":"zhichaohua","href":"https://github.com/zhichaohua","avatar":"https://avatars3.githubusercontent.com/u/18111346"},{"username":"hzqmwne","href":"https://github.com/hzqmwne","avatar":"https://avatars2.githubusercontent.com/u/27494234"},{"username":"MyDataHomes","href":"https://github.com/MyDataHomes","avatar":"https://avatars3.githubusercontent.com/u/48665025"}]}]
+[
+  {
+    "author": "mengshukeji",
+    "name": "Luckysheet",
+    "href": "https://github.com/mengshukeji/Luckysheet",
+    "description": "Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.",
+    "language": "JavaScript",
+    "stars": 5054,
+    "forks": 422,
+    "starsInPeriod": 3078
+  },
+  {
+    "author": "lxk0301",
+    "name": "scripts",
+    "href": "https://github.com/lxk0301/scripts",
+    "description": "京东薅羊毛工具, 京东水果、宠物、种豆 aff 互助讨论组：https://t.me/JD_fruit_pet",
+    "language": "JavaScript",
+    "stars": 1122,
+    "forks": 1166,
+    "starsInPeriod": 821
+  },
+  {
+    "author": "huanzi-qch",
+    "name": "base-admin",
+    "href": "https://github.com/huanzi-qch/base-admin",
+    "description": "Base Admin一套简单通用的后台管理系统，主要功能有：权限管理、菜单管理、用户管理，系统设置、实时日志，实时监控，API加密，以及登录用户修改密码、配置个性菜单等",
+    "language": "Java",
+    "stars": 1285,
+    "forks": 698,
+    "starsInPeriod": 759
+  },
+  {
+    "author": "v2fly",
+    "name": "v2ray-core",
+    "href": "https://github.com/v2fly/v2ray-core",
+    "description": "A platform for building proxies to bypass network restrictions.",
+    "language": "Go",
+    "stars": 3929,
+    "forks": 619,
+    "starsInPeriod": 1468
+  },
+  {
+    "author": "firstcontributions",
+    "name": "first-contributions",
+    "href": "https://github.com/firstcontributions/first-contributions",
+    "description": "🚀✨ Help beginners to contribute to open source projects",
+    "language": "",
+    "stars": 12265,
+    "forks": 32279,
+    "starsInPeriod": 873
+  },
+  {
+    "author": "30-seconds",
+    "name": "30-seconds-of-code",
+    "href": "https://github.com/30-seconds/30-seconds-of-code",
+    "description": "Short JavaScript code snippets for all your development needs",
+    "language": "JavaScript",
+    "stars": 64675,
+    "forks": 7121,
+    "starsInPeriod": 2744
+  },
+  {
+    "author": "TheAlgorithms",
+    "name": "Python",
+    "href": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "stars": 90279,
+    "forks": 26560,
+    "starsInPeriod": 4685
+  },
+  {
+    "author": "microsoft",
+    "name": "Bringing-Old-Photos-Back-to-Life",
+    "href": "https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life",
+    "description": "Bringing Old Photo Back to Life (CVPR 2020 oral)",
+    "language": "Python",
+    "stars": 1415,
+    "forks": 165,
+    "starsInPeriod": 1145
+  },
+  {
+    "author": "robertdavidgraham",
+    "name": "masscan",
+    "href": "https://github.com/robertdavidgraham/masscan",
+    "description": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
+    "language": "C",
+    "stars": 14059,
+    "forks": 2228,
+    "starsInPeriod": 969
+  },
+  {
+    "author": "TheAlgorithms",
+    "name": "Javascript",
+    "href": "https://github.com/TheAlgorithms/Javascript",
+    "description": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "language": "JavaScript",
+    "stars": 6794,
+    "forks": 1353,
+    "starsInPeriod": 1705
+  },
+  {
+    "author": "GitSquared",
+    "name": "edex-ui",
+    "href": "https://github.com/GitSquared/edex-ui",
+    "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "language": "JavaScript",
+    "stars": 17840,
+    "forks": 1040,
+    "starsInPeriod": 1960
+  },
+  {
+    "author": "lanyulei",
+    "name": "ferry",
+    "href": "https://github.com/lanyulei/ferry",
+    "description": "本系统是集工单统计、任务钩子、权限管理、灵活配置流程与模版等等于一身的开源工单系统，当然也可以称之为工作流引擎。 致力于减少跨部门之间的沟通，自动任务的执行，提升工作效率与工作质量，减少不必要的工作量与人为出错率。",
+    "language": "Go",
+    "stars": 2070,
+    "forks": 296,
+    "starsInPeriod": 1427
+  },
+  {
+    "author": "evanw",
+    "name": "esbuild",
+    "href": "https://github.com/evanw/esbuild",
+    "description": "An extremely fast JavaScript bundler and minifier",
+    "language": "Go",
+    "stars": 14743,
+    "forks": 311,
+    "starsInPeriod": 2251
+  },
+  {
+    "author": "home-assistant",
+    "name": "core",
+    "href": "https://github.com/home-assistant/core",
+    "description": "🏡 Open source home automation that puts local control and privacy first",
+    "language": "Python",
+    "stars": 36445,
+    "forks": 11930,
+    "starsInPeriod": 937
+  },
+  {
+    "author": "elunez",
+    "name": "eladmin",
+    "href": "https://github.com/elunez/eladmin",
+    "description": "项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由",
+    "language": "Java",
+    "stars": 11536,
+    "forks": 4268,
+    "starsInPeriod": 935
+  },
+  {
+    "author": "CppCon",
+    "name": "CppCon2020",
+    "href": "https://github.com/CppCon/CppCon2020",
+    "description": "Slides and other materials from CppCon 2020",
+    "language": "C++",
+    "stars": 700,
+    "forks": 64,
+    "starsInPeriod": 424
+  },
+  {
+    "author": "checkly",
+    "name": "headless-recorder",
+    "href": "https://github.com/checkly/headless-recorder",
+    "description": "Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.",
+    "language": "JavaScript",
+    "stars": 12078,
+    "forks": 495,
+    "starsInPeriod": 3364
+  },
+  {
+    "author": "facebook",
+    "name": "infer",
+    "href": "https://github.com/facebook/infer",
+    "description": "A static analyzer for Java, C, C++, and Objective-C",
+    "language": "OCaml",
+    "stars": 11636,
+    "forks": 1567,
+    "starsInPeriod": 417
+  },
+  {
+    "author": "odoo",
+    "name": "odoo",
+    "href": "https://github.com/odoo/odoo",
+    "description": "Odoo. Open Source Apps To Grow Your Business.",
+    "language": "JavaScript",
+    "stars": 19173,
+    "forks": 13151,
+    "starsInPeriod": 429
+  },
+  {
+    "author": "pcm-dpc",
+    "name": "COVID-19",
+    "href": "https://github.com/pcm-dpc/COVID-19",
+    "description": "COVID-19 Italia - Monitoraggio situazione",
+    "language": "",
+    "stars": 3540,
+    "forks": 1980,
+    "starsInPeriod": 109
+  },
+  {
+    "author": "topjohnwu",
+    "name": "Magisk",
+    "href": "https://github.com/topjohnwu/Magisk",
+    "description": "The Magic Mask for Android",
+    "language": "C++",
+    "stars": 13806,
+    "forks": 2244,
+    "starsInPeriod": 806
+  },
+  {
+    "author": "jef",
+    "name": "nvidia-snatcher",
+    "href": "https://github.com/jef/nvidia-snatcher",
+    "description": "🤖 Autonomous robot for all your Nvidia needs",
+    "language": "TypeScript",
+    "stars": 549,
+    "forks": 259,
+    "starsInPeriod": 378
+  },
+  {
+    "author": "hyb1996",
+    "name": "Auto.js",
+    "href": "https://github.com/hyb1996/Auto.js",
+    "description": "A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)",
+    "language": "Java",
+    "stars": 7961,
+    "forks": 2224,
+    "starsInPeriod": 506
+  },
+  {
+    "author": "microsoft",
+    "name": "vscode",
+    "href": "https://github.com/microsoft/vscode",
+    "description": "Visual Studio Code",
+    "language": "TypeScript",
+    "stars": 105153,
+    "forks": 16826,
+    "starsInPeriod": 1793
+  },
+  {
+    "author": "gofiber",
+    "name": "fiber",
+    "href": "https://github.com/gofiber/fiber",
+    "description": "⚡️ Fiber is an Express inspired web framework written in Go with ☕️",
+    "language": "Go",
+    "stars": 9339,
+    "forks": 408,
+    "starsInPeriod": 1276
+  }
+]

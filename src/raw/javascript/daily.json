@@ -1,3 +1,252 @@
-The deployment has been disabled
-
-DEPLOYMENT_DISABLED
+[
+  {
+    "author": "GitSquared",
+    "name": "edex-ui",
+    "href": "https://github.com/GitSquared/edex-ui",
+    "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "language": "JavaScript",
+    "stars": 17838,
+    "forks": 1040,
+    "starsInPeriod": 364
+  },
+  {
+    "author": "nodejs",
+    "name": "node",
+    "href": "https://github.com/nodejs/node",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "language": "JavaScript",
+    "stars": 74128,
+    "forks": 18316,
+    "starsInPeriod": 114
+  },
+  {
+    "author": "lxk0301",
+    "name": "scripts",
+    "href": "https://github.com/lxk0301/scripts",
+    "description": "京东薅羊毛工具, 京东水果、宠物、种豆 aff 互助讨论组：https://t.me/JD_fruit_pet",
+    "language": "JavaScript",
+    "stars": 1122,
+    "forks": 1166,
+    "starsInPeriod": 174
+  },
+  {
+    "author": "facebook",
+    "name": "create-react-app",
+    "href": "https://github.com/facebook/create-react-app",
+    "description": "Set up a modern web app by running one command.",
+    "language": "JavaScript",
+    "stars": 83032,
+    "forks": 20270,
+    "starsInPeriod": 91
+  },
+  {
+    "author": "jonasschmedtmann",
+    "name": "complete-javascript-course",
+    "href": "https://github.com/jonasschmedtmann/complete-javascript-course",
+    "description": "Starter files, final projects and FAQ for my Complete JavaScript course",
+    "language": "JavaScript",
+    "stars": 5011,
+    "forks": 6548,
+    "starsInPeriod": 122
+  },
+  {
+    "author": "tomer8007",
+    "name": "widevine-l3-decryptor",
+    "href": "https://github.com/tomer8007/widevine-l3-decryptor",
+    "description": "A Chrome extension that demonstrates bypassing Widevine L3 DRM",
+    "language": "JavaScript",
+    "stars": 523,
+    "forks": 92,
+    "starsInPeriod": 189
+  },
+  {
+    "author": "facebook",
+    "name": "react",
+    "href": "https://github.com/facebook/react",
+    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "language": "JavaScript",
+    "stars": 157968,
+    "forks": 31235,
+    "starsInPeriod": 124
+  },
+  {
+    "author": "Externalizable",
+    "name": "bongo.cat",
+    "href": "https://github.com/Externalizable/bongo.cat",
+    "description": "Hit the bongos like Bongo Cat!",
+    "language": "JavaScript",
+    "stars": 1339,
+    "forks": 170,
+    "starsInPeriod": 445
+  },
+  {
+    "author": "quasarframework",
+    "name": "quasar",
+    "href": "https://github.com/quasarframework/quasar",
+    "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time",
+    "language": "JavaScript",
+    "stars": 16583,
+    "forks": 1939,
+    "starsInPeriod": 23
+  },
+  {
+    "author": "jhu-ep-coursera",
+    "name": "fullstack-course4",
+    "href": "https://github.com/jhu-ep-coursera/fullstack-course4",
+    "description": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
+    "language": "JavaScript",
+    "stars": 4171,
+    "forks": 6957,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "d3",
+    "name": "d3",
+    "href": "https://github.com/d3/d3",
+    "description": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
+    "language": "JavaScript",
+    "stars": 94174,
+    "forks": 22336,
+    "starsInPeriod": 28
+  },
+  {
+    "author": "sveltejs",
+    "name": "svelte",
+    "href": "https://github.com/sveltejs/svelte",
+    "description": "Cybernetically enhanced web apps",
+    "language": "JavaScript",
+    "stars": 38774,
+    "forks": 1835,
+    "starsInPeriod": 422
+  },
+  {
+    "author": "hyue418",
+    "name": "taobao-11-11",
+    "href": "https://github.com/hyue418/taobao-11-11",
+    "description": "2020双十一|双11全民养猫|超级星秀猫自动化脚本，支持淘宝+支付宝自动做喵币任务【全额奖励，防检测】",
+    "language": "JavaScript",
+    "stars": 309,
+    "forks": 201,
+    "starsInPeriod": 298
+  },
+  {
+    "author": "paulhodel",
+    "name": "jexcel",
+    "href": "https://github.com/paulhodel/jexcel",
+    "description": "jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software.",
+    "language": "JavaScript",
+    "stars": 5146,
+    "forks": 563,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "wix",
+    "name": "react-native-calendars",
+    "href": "https://github.com/wix/react-native-calendars",
+    "description": "React Native Calendar Components 🗓️ 📆",
+    "language": "JavaScript",
+    "stars": 6036,
+    "forks": 1903,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "AlexSergey",
+    "name": "rockpack",
+    "href": "https://github.com/AlexSergey/rockpack",
+    "description": "Rockpack is a complex approach for bundling, logging, testing, SEO, SSR and more, for React application. Rockpack is create-react-app on steroids.",
+    "language": "JavaScript",
+    "stars": 72,
+    "forks": 7,
+    "starsInPeriod": 16
+  },
+  {
+    "author": "microsoft",
+    "name": "monaco-editor",
+    "href": "https://github.com/microsoft/monaco-editor",
+    "description": "A browser based code editor",
+    "language": "JavaScript",
+    "stars": 21989,
+    "forks": 1981,
+    "starsInPeriod": 16
+  },
+  {
+    "author": "bvaughn",
+    "name": "react-virtualized",
+    "href": "https://github.com/bvaughn/react-virtualized",
+    "description": "React components for efficiently rendering large lists and tabular data",
+    "language": "JavaScript",
+    "stars": 20233,
+    "forks": 2473,
+    "starsInPeriod": 25
+  },
+  {
+    "author": "ThisIsBenny",
+    "name": "iOS-Widgets",
+    "href": "https://github.com/ThisIsBenny/iOS-Widgets",
+    "description": "Collection of iOS Widgets",
+    "language": "JavaScript",
+    "stars": 29,
+    "forks": 3,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "MoePlayer",
+    "name": "APlayer",
+    "href": "https://github.com/MoePlayer/APlayer",
+    "description": "🍭 Wow, such a beautiful HTML5 music player",
+    "language": "JavaScript",
+    "stars": 5177,
+    "forks": 845,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "bradtraversy",
+    "name": "vanillawebprojects",
+    "href": "https://github.com/bradtraversy/vanillawebprojects",
+    "description": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
+    "language": "JavaScript",
+    "stars": 7911,
+    "forks": 1724,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "myliang",
+    "name": "x-spreadsheet",
+    "href": "https://github.com/myliang/x-spreadsheet",
+    "description": "A web-based JavaScript（canvas） spreadsheet",
+    "language": "JavaScript",
+    "stars": 10167,
+    "forks": 1004,
+    "starsInPeriod": 23
+  },
+  {
+    "author": "quilljs",
+    "name": "quill",
+    "href": "https://github.com/quilljs/quill",
+    "description": "Quill is a modern WYSIWYG editor built for compatibility and extensibility.",
+    "language": "JavaScript",
+    "stars": 27909,
+    "forks": 2275,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "AzureAD",
+    "name": "microsoft-authentication-library-for-js",
+    "href": "https://github.com/AzureAD/microsoft-authentication-library-for-js",
+    "description": "Microsoft Authentication Library (MSAL) for JS",
+    "language": "JavaScript",
+    "stars": 1207,
+    "forks": 802,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "zhaoolee",
+    "name": "ChineseBQB",
+    "href": "https://github.com/zhaoolee/ChineseBQB",
+    "description": "🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~",
+    "language": "JavaScript",
+    "stars": 8072,
+    "forks": 870,
+    "starsInPeriod": 50
+  }
+]

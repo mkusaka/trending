@@ -1,49 +1,51 @@
 # general
-- [cli](https://github.com/cli/cli) : Go
-  - GitHub’s official command line tool
-- [diagrams](https://github.com/mingrammer/diagrams) : Python
-  - 🎨 Diagram as Code for prototyping cloud system architectures
-- [workflow](https://github.com/sogou/workflow) : C++
-  - Sogou framework for C++ back-end development
-- [jetstream](https://github.com/laravel/jetstream) : PHP
-- [jdk](https://github.com/openjdk/jdk) : Java
-  - JDK main-line development
+- [Luckysheet](https://github.com/mengshukeji/Luckysheet) : JavaScript
+  - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
+- [scripts](https://github.com/lxk0301/scripts) : JavaScript
+  - 京东薅羊毛工具, 京东水果、宠物、种豆 aff 互助讨论组：https://t.me/JD_fruit_pet
+- [base-admin](https://github.com/huanzi-qch/base-admin) : Java
+  - Base Admin一套简单通用的后台管理系统，主要功能有：权限管理、菜单管理、用户管理，系统设置、实时日志，实时监控，API加密，以及登录用户修改密码、配置个性菜单等
+- [v2ray-core](https://github.com/v2fly/v2ray-core) : Go
+  - A platform for building proxies to bypass network restrictions.
+- [first-contributions](https://github.com/firstcontributions/first-contributions) : 
+  - 🚀✨ Help beginners to contribute to open source projects
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) : JavaScript
   - Short JavaScript code snippets for all your development needs
-- [go-zero](https://github.com/tal-tech/go-zero) : Go
-  - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
-- [a32nx](https://github.com/flybywiresim/a32nx) : HTML
-  - The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.
-- [mall-swarm](https://github.com/macrozheng/mall-swarm) : Java
-  - mall-swarm是一套微服务商城系统，采用了 Spring Cloud Hoxton & Alibaba、Spring Boot 2.3、Oauth2、MyBatis、Docker、Elasticsearch等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。
-- [IBMYes](https://github.com/CCChieh/IBMYes) : Batchfile
-- [uniswap-v2-core](https://github.com/Uniswap/uniswap-v2-core) : TypeScript
-  - 🎛 Core smart contracts of Uniswap V2
-- [Fantasy-Premier-League](https://github.com/vaastav/Fantasy-Premier-League) : Python
-  - Creates a .csv file of all players in the English Player League with their respective team and total fantasy points
-- [surpriver](https://github.com/tradytics/surpriver) : Python
-  - Find big moving stocks before they move using machine learning and anomaly detection
-- [googletest](https://github.com/google/googletest) : C++
-  - Googletest - Google Testing and Mocking Framework
-- [livewire](https://github.com/livewire/livewire) : Blade
-  - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
-- [twint](https://github.com/twintproject/twint) : Python
-  - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
-- [sushiswap](https://github.com/sushiswap/sushiswap) : Solidity
-  - 🍣 SushiSwap smart contracts
-- [Algorithms](https://github.com/williamfiset/Algorithms) : Java
-  - A collection of algorithms and data structures
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) : Vue
-  - 👽 A free, fast and beautiful API request builder used by 80k+ developers. https://hoppscotch.io
-- [FreeCAD](https://github.com/FreeCAD/FreeCAD) : C++
-  - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker
+- [Python](https://github.com/TheAlgorithms/Python) : Python
+  - All Algorithms implemented in Python
+- [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) : Python
+  - Bringing Old Photo Back to Life (CVPR 2020 oral)
+- [masscan](https://github.com/robertdavidgraham/masscan) : C
+  - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
+- [Javascript](https://github.com/TheAlgorithms/Javascript) : JavaScript
+  - A repository for All algorithms implemented in Javascript (for educational purposes only)
 - [edex-ui](https://github.com/GitSquared/edex-ui) : JavaScript
   - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [element-plus](https://github.com/element-plus/element-plus) : Vue
-  - 🎉 A Vue.js 3.0 UI Library
-- [laravel](https://github.com/laravel/laravel) : PHP
-  - A PHP framework for web artisans
-- [dive](https://github.com/wagoodman/dive) : Go
-  - A tool for exploring each layer in a docker image
-- [InfoSpider](https://github.com/kangvcar/InfoSpider) : Python
-  - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
+- [ferry](https://github.com/lanyulei/ferry) : Go
+  - 本系统是集工单统计、任务钩子、权限管理、灵活配置流程与模版等等于一身的开源工单系统，当然也可以称之为工作流引擎。 致力于减少跨部门之间的沟通，自动任务的执行，提升工作效率与工作质量，减少不必要的工作量与人为出错率。
+- [esbuild](https://github.com/evanw/esbuild) : Go
+  - An extremely fast JavaScript bundler and minifier
+- [core](https://github.com/home-assistant/core) : Python
+  - 🏡 Open source home automation that puts local control and privacy first
+- [eladmin](https://github.com/elunez/eladmin) : Java
+  - 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
+- [CppCon2020](https://github.com/CppCon/CppCon2020) : C++
+  - Slides and other materials from CppCon 2020
+- [headless-recorder](https://github.com/checkly/headless-recorder) : JavaScript
+  - Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.
+- [infer](https://github.com/facebook/infer) : OCaml
+  - A static analyzer for Java, C, C++, and Objective-C
+- [odoo](https://github.com/odoo/odoo) : JavaScript
+  - Odoo. Open Source Apps To Grow Your Business.
+- [COVID-19](https://github.com/pcm-dpc/COVID-19) : 
+  - COVID-19 Italia - Monitoraggio situazione
+- [Magisk](https://github.com/topjohnwu/Magisk) : C++
+  - The Magic Mask for Android
+- [nvidia-snatcher](https://github.com/jef/nvidia-snatcher) : TypeScript
+  - 🤖 Autonomous robot for all your Nvidia needs
+- [Auto.js](https://github.com/hyb1996/Auto.js) : Java
+  - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
+- [vscode](https://github.com/microsoft/vscode) : TypeScript
+  - Visual Studio Code
+- [fiber](https://github.com/gofiber/fiber) : Go
+  - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️

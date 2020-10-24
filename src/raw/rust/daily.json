@@ -1,3 +1,252 @@
-The deployment has been disabled
-
-DEPLOYMENT_DISABLED
+[
+  {
+    "author": "EmbarkStudios",
+    "name": "rust-gpu",
+    "href": "https://github.com/EmbarkStudios/rust-gpu",
+    "description": "🐉 Making Rust a first-class language and ecosystem for GPU code 🚧",
+    "language": "Rust",
+    "stars": 1346,
+    "forks": 22,
+    "starsInPeriod": 738
+  },
+  {
+    "author": "rust-lang",
+    "name": "rust",
+    "href": "https://github.com/rust-lang/rust",
+    "description": "Empowering everyone to build reliable and efficient software.",
+    "language": "Rust",
+    "stars": 49062,
+    "forks": 7222,
+    "starsInPeriod": 37
+  },
+  {
+    "author": "BurntSushi",
+    "name": "ripgrep",
+    "href": "https://github.com/BurntSushi/ripgrep",
+    "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+    "language": "Rust",
+    "stars": 22077,
+    "forks": 967,
+    "starsInPeriod": 21
+  },
+  {
+    "author": "nushell",
+    "name": "nushell",
+    "href": "https://github.com/nushell/nushell",
+    "description": "A new type of shell",
+    "language": "Rust",
+    "stars": 8753,
+    "forks": 446,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "openethereum",
+    "name": "openethereum",
+    "href": "https://github.com/openethereum/openethereum",
+    "description": "The fast, light, and robust client for Ethereum-like networks.",
+    "language": "Rust",
+    "stars": 6248,
+    "forks": 1562,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "996icu",
+    "name": "996.ICU",
+    "href": "https://github.com/996icu/996.ICU",
+    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "language": "Rust",
+    "stars": 252126,
+    "forks": 21096,
+    "starsInPeriod": 45
+  },
+  {
+    "author": "tweag",
+    "name": "nickel",
+    "href": "https://github.com/tweag/nickel",
+    "description": "Cheap configuration language",
+    "language": "Rust",
+    "stars": 161,
+    "forks": 7,
+    "starsInPeriod": 47
+  },
+  {
+    "author": "launchbadge",
+    "name": "sqlx",
+    "href": "https://github.com/launchbadge/sqlx",
+    "description": "🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",
+    "language": "Rust",
+    "stars": 2774,
+    "forks": 208,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "graphql-rust",
+    "name": "juniper",
+    "href": "https://github.com/graphql-rust/juniper",
+    "description": "GraphQL server library for Rust",
+    "language": "Rust",
+    "stars": 3182,
+    "forks": 276,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "linebender",
+    "name": "druid",
+    "href": "https://github.com/linebender/druid",
+    "description": "A data-first Rust-native UI design toolkit.",
+    "language": "Rust",
+    "stars": 2660,
+    "forks": 211,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "paritytech",
+    "name": "substrate",
+    "href": "https://github.com/paritytech/substrate",
+    "description": "Substrate: The platform for blockchain innovators",
+    "language": "Rust",
+    "stars": 3120,
+    "forks": 938,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "timberio",
+    "name": "vector",
+    "href": "https://github.com/timberio/vector",
+    "description": "High-performance, vendor-neutral observability pipelines.",
+    "language": "Rust",
+    "stars": 5495,
+    "forks": 340,
+    "starsInPeriod": 13
+  },
+  {
+    "author": "ogham",
+    "name": "exa",
+    "href": "https://github.com/ogham/exa",
+    "description": "A modern replacement for ‘ls’.",
+    "language": "Rust",
+    "stars": 11134,
+    "forks": 349,
+    "starsInPeriod": 35
+  },
+  {
+    "author": "unicode-org",
+    "name": "icu4x",
+    "href": "https://github.com/unicode-org/icu4x",
+    "description": "Solving i18n for client-side and resource-constrained environments.",
+    "language": "Rust",
+    "stars": 164,
+    "forks": 18,
+    "starsInPeriod": 37
+  },
+  {
+    "author": "meilisearch",
+    "name": "MeiliSearch",
+    "href": "https://github.com/meilisearch/MeiliSearch",
+    "description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine",
+    "language": "Rust",
+    "stars": 9661,
+    "forks": 286,
+    "starsInPeriod": 48
+  },
+  {
+    "author": "huggingface",
+    "name": "tokenizers",
+    "href": "https://github.com/huggingface/tokenizers",
+    "description": "💥Fast State-of-the-Art Tokenizers optimized for Research and Production",
+    "language": "Rust",
+    "stars": 3848,
+    "forks": 273,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "sharkdp",
+    "name": "hyperfine",
+    "href": "https://github.com/sharkdp/hyperfine",
+    "description": "A command-line benchmarking tool",
+    "language": "Rust",
+    "stars": 6213,
+    "forks": 125,
+    "starsInPeriod": 21
+  },
+  {
+    "author": "rust-db",
+    "name": "refinery",
+    "href": "https://github.com/rust-db/refinery",
+    "description": "Powerful SQL migration toolkit for Rust.",
+    "language": "Rust",
+    "stars": 491,
+    "forks": 40,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "pingcap",
+    "name": "talent-plan",
+    "href": "https://github.com/pingcap/talent-plan",
+    "description": "open source training courses about distributed database and distributed systemes",
+    "language": "Rust",
+    "stars": 5080,
+    "forks": 710,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "BurntSushi",
+    "name": "xsv",
+    "href": "https://github.com/BurntSushi/xsv",
+    "description": "A fast CSV command line toolkit written in Rust.",
+    "language": "Rust",
+    "stars": 6536,
+    "forks": 218,
+    "starsInPeriod": 13
+  },
+  {
+    "author": "wasmerio",
+    "name": "wasmer",
+    "href": "https://github.com/wasmerio/wasmer",
+    "description": "🚀 The leading WebAssembly Runtime supporting WASI and Emscripten",
+    "language": "Rust",
+    "stars": 6626,
+    "forks": 262,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "hyperium",
+    "name": "hyper",
+    "href": "https://github.com/hyperium/hyper",
+    "description": "An HTTP library for Rust",
+    "language": "Rust",
+    "stars": 6978,
+    "forks": 906,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "actix",
+    "name": "actix-web",
+    "href": "https://github.com/actix/actix-web",
+    "description": "Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.",
+    "language": "Rust",
+    "stars": 9587,
+    "forks": 1115,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "seanmonstar",
+    "name": "warp",
+    "href": "https://github.com/seanmonstar/warp",
+    "description": "A super-easy, composable, web server framework for warp speeds.",
+    "language": "Rust",
+    "stars": 3414,
+    "forks": 341,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "Schniz",
+    "name": "fnm",
+    "href": "https://github.com/Schniz/fnm",
+    "description": "🚀 Fast and simple Node.js version manager, built in Rust",
+    "language": "Rust",
+    "stars": 2649,
+    "forks": 83,
+    "starsInPeriod": 12
+  }
+]

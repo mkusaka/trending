@@ -1,1 +1,252 @@
-[{"author":"bottlerocket-os","name":"bottlerocket","avatar":"https://github.com/bottlerocket-os.png","url":"https://github.com/bottlerocket-os/bottlerocket","description":"An operating system designed for hosting containers","language":"Rust","languageColor":"#dea584","stars":4870,"forks":191,"currentPeriodStars":1752,"builtBy":[{"username":"tjkirch","href":"https://github.com/tjkirch","avatar":"https://avatars3.githubusercontent.com/u/13994"},{"username":"bcressey","href":"https://github.com/bcressey","avatar":"https://avatars1.githubusercontent.com/u/174814"},{"username":"iliana","href":"https://github.com/iliana","avatar":"https://avatars3.githubusercontent.com/u/52814"},{"username":"etungsten","href":"https://github.com/etungsten","avatar":"https://avatars2.githubusercontent.com/u/52762042"},{"username":"jahkeup","href":"https://github.com/jahkeup","avatar":"https://avatars2.githubusercontent.com/u/1139752"}]},{"author":"solana-labs","name":"solana","avatar":"https://github.com/solana-labs.png","url":"https://github.com/solana-labs/solana","description":"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.","language":"Rust","languageColor":"#dea584","stars":949,"forks":215,"currentPeriodStars":126,"builtBy":[{"username":"mvines","href":"https://github.com/mvines","avatar":"https://avatars3.githubusercontent.com/u/1281082"},{"username":"garious","href":"https://github.com/garious","avatar":"https://avatars0.githubusercontent.com/u/55449"},{"username":"CriesofCarrots","href":"https://github.com/CriesofCarrots","avatar":"https://avatars0.githubusercontent.com/u/3030561"},{"username":"rob-solana","href":"https://github.com/rob-solana","avatar":"https://avatars2.githubusercontent.com/u/40183961"}]},{"author":"libra","name":"libra","avatar":"https://github.com/libra.png","url":"https://github.com/libra/libra","description":"Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.","language":"Rust","languageColor":"#dea584","stars":15254,"forks":2309,"currentPeriodStars":504,"builtBy":[{"username":"davidiw","href":"https://github.com/davidiw","avatar":"https://avatars1.githubusercontent.com/u/73818"},{"username":"bmwill","href":"https://github.com/bmwill","avatar":"https://avatars1.githubusercontent.com/u/6741899"},{"username":"huitseeker","href":"https://github.com/huitseeker","avatar":"https://avatars2.githubusercontent.com/u/4142"},{"username":"msmouse","href":"https://github.com/msmouse","avatar":"https://avatars1.githubusercontent.com/u/1943319"},{"username":"andll","href":"https://github.com/andll","avatar":"https://avatars2.githubusercontent.com/u/2972353"}]},{"author":"meilisearch","name":"MeiliSearch","avatar":"https://github.com/meilisearch.png","url":"https://github.com/meilisearch/MeiliSearch","description":"Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine","language":"Rust","languageColor":"#dea584","stars":9249,"forks":271,"currentPeriodStars":970,"builtBy":[{"username":"Kerollmops","href":"https://github.com/Kerollmops","avatar":"https://avatars0.githubusercontent.com/u/3610253"},{"username":"qdequele","href":"https://github.com/qdequele","avatar":"https://avatars2.githubusercontent.com/u/6064892"},{"username":"MarinPostma","href":"https://github.com/MarinPostma","avatar":"https://avatars2.githubusercontent.com/u/28804882"},{"username":"matboivin","href":"https://github.com/matboivin","avatar":"https://avatars1.githubusercontent.com/u/41596925"}]},{"author":"linebender","name":"druid","avatar":"https://github.com/linebender.png","url":"https://github.com/linebender/druid","description":"A data-first Rust-native UI design toolkit.","language":"Rust","languageColor":"#dea584","stars":2545,"forks":193,"currentPeriodStars":258,"builtBy":[{"username":"cmyr","href":"https://github.com/cmyr","avatar":"https://avatars2.githubusercontent.com/u/3330916"},{"username":"raphlinus","href":"https://github.com/raphlinus","avatar":"https://avatars0.githubusercontent.com/u/242367"},{"username":"futurepaul","href":"https://github.com/futurepaul","avatar":"https://avatars2.githubusercontent.com/u/543668"},{"username":"xStrom","href":"https://github.com/xStrom","avatar":"https://avatars3.githubusercontent.com/u/754881"},{"username":"zaynetro","href":"https://github.com/zaynetro","avatar":"https://avatars3.githubusercontent.com/u/627197"}]},{"author":"paritytech","name":"polkadot","avatar":"https://github.com/paritytech.png","url":"https://github.com/paritytech/polkadot","description":"Polkadot Node Implementation","language":"Rust","languageColor":"#dea584","stars":1460,"forks":345,"currentPeriodStars":148,"builtBy":[{"username":"gavofyork","href":"https://github.com/gavofyork","avatar":"https://avatars0.githubusercontent.com/u/138296"},{"username":"rphmeier","href":"https://github.com/rphmeier","avatar":"https://avatars3.githubusercontent.com/u/10121380"},{"username":"bkchr","href":"https://github.com/bkchr","avatar":"https://avatars2.githubusercontent.com/u/5718007"},{"username":"arkpar","href":"https://github.com/arkpar","avatar":"https://avatars2.githubusercontent.com/u/9008569"},{"username":"pepyakin","href":"https://github.com/pepyakin","avatar":"https://avatars1.githubusercontent.com/u/2205845"}]},{"author":"actix","name":"actix-web","avatar":"https://github.com/actix.png","url":"https://github.com/actix/actix-web","description":"Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.","language":"Rust","languageColor":"#dea584","stars":9413,"forks":1107,"currentPeriodStars":334,"builtBy":[{"username":"fafhrd91","href":"https://github.com/fafhrd91","avatar":"https://avatars1.githubusercontent.com/u/598990"},{"username":"JohnTitor","href":"https://github.com/JohnTitor","avatar":"https://avatars2.githubusercontent.com/u/25030997"},{"username":"DoumanAsh","href":"https://github.com/DoumanAsh","avatar":"https://avatars0.githubusercontent.com/u/5676053"},{"username":"robjtede","href":"https://github.com/robjtede","avatar":"https://avatars0.githubusercontent.com/u/3316789"},{"username":"Dowwie","href":"https://github.com/Dowwie","avatar":"https://avatars1.githubusercontent.com/u/2601236"}]},{"author":"actix","name":"examples","avatar":"https://github.com/actix.png","url":"https://github.com/actix/examples","description":"Examples of Actix ecosystem usage.","language":"Rust","languageColor":"#dea584","stars":1414,"forks":443,"currentPeriodStars":77,"builtBy":[{"username":"fafhrd91","href":"https://github.com/fafhrd91","avatar":"https://avatars1.githubusercontent.com/u/598990"},{"username":"JohnTitor","href":"https://github.com/JohnTitor","avatar":"https://avatars2.githubusercontent.com/u/25030997"},{"username":"Dowwie","href":"https://github.com/Dowwie","avatar":"https://avatars1.githubusercontent.com/u/2601236"},{"username":"botika","href":"https://github.com/botika","avatar":"https://avatars1.githubusercontent.com/u/2625545"},{"username":"svenstaro","href":"https://github.com/svenstaro","avatar":"https://avatars0.githubusercontent.com/u/1664"}]},{"author":"wasmerio","name":"wasmer","avatar":"https://github.com/wasmerio.png","url":"https://github.com/wasmerio/wasmer","description":"🚀 The leading WebAssembly Runtime supporting WASI and Emscripten","language":"Rust","languageColor":"#dea584","stars":6546,"forks":254,"currentPeriodStars":186,"builtBy":[{"username":"syrusakbary","href":"https://github.com/syrusakbary","avatar":"https://avatars0.githubusercontent.com/u/188257"},{"username":"Hywan","href":"https://github.com/Hywan","avatar":"https://avatars3.githubusercontent.com/u/946104"},{"username":"MarkMcCaskey","href":"https://github.com/MarkMcCaskey","avatar":"https://avatars0.githubusercontent.com/u/5770194"},{"username":"losfair","href":"https://github.com/losfair","avatar":"https://avatars0.githubusercontent.com/u/6104981"},{"username":"nlewycky","href":"https://github.com/nlewycky","avatar":"https://avatars2.githubusercontent.com/u/392652"}]},{"author":"rust-lang","name":"rust","avatar":"https://github.com/rust-lang.png","url":"https://github.com/rust-lang/rust","description":"Empowering everyone to build reliable and efficient software.","language":"Rust","languageColor":"#dea584","stars":48561,"forks":7165,"currentPeriodStars":807,"builtBy":[{"username":"bors","href":"https://github.com/bors","avatar":"https://avatars3.githubusercontent.com/u/3372342"},{"username":"brson","href":"https://github.com/brson","avatar":"https://avatars1.githubusercontent.com/u/147214"},{"username":"alexcrichton","href":"https://github.com/alexcrichton","avatar":"https://avatars2.githubusercontent.com/u/64996"},{"username":"Centril","href":"https://github.com/Centril","avatar":"https://avatars0.githubusercontent.com/u/855702"},{"username":"nikomatsakis","href":"https://github.com/nikomatsakis","avatar":"https://avatars3.githubusercontent.com/u/155238"}]},{"author":"Spotifyd","name":"spotifyd","avatar":"https://github.com/Spotifyd.png","url":"https://github.com/Spotifyd/spotifyd","description":"A spotify daemon","language":"Rust","languageColor":"#dea584","stars":4169,"forks":219,"currentPeriodStars":160,"builtBy":[{"username":"SimonPersson","href":"https://github.com/SimonPersson","avatar":"https://avatars1.githubusercontent.com/u/606973"},{"username":"SirWindfield","href":"https://github.com/SirWindfield","avatar":"https://avatars2.githubusercontent.com/u/5113257"},{"username":"bcmyers","href":"https://github.com/bcmyers","avatar":"https://avatars1.githubusercontent.com/u/10109972"},{"username":"mh84","href":"https://github.com/mh84","avatar":"https://avatars2.githubusercontent.com/u/17948500"}]},{"author":"tree-sitter","name":"tree-sitter","avatar":"https://github.com/tree-sitter.png","url":"https://github.com/tree-sitter/tree-sitter","description":"An incremental parsing system for programming tools","language":"Rust","languageColor":"#dea584","stars":3088,"forks":202,"currentPeriodStars":122,"builtBy":[{"username":"maxbrunsfeld","href":"https://github.com/maxbrunsfeld","avatar":"https://avatars2.githubusercontent.com/u/326587"},{"username":"joshvera","href":"https://github.com/joshvera","avatar":"https://avatars2.githubusercontent.com/u/24247"},{"username":"philipturnbull","href":"https://github.com/philipturnbull","avatar":"https://avatars0.githubusercontent.com/u/45588"},{"username":"tclem","href":"https://github.com/tclem","avatar":"https://avatars2.githubusercontent.com/u/136521"},{"username":"patrickt","href":"https://github.com/patrickt","avatar":"https://avatars1.githubusercontent.com/u/2498"}]},{"author":"rust-lang","name":"cargo","avatar":"https://github.com/rust-lang.png","url":"https://github.com/rust-lang/cargo","description":"The Rust package manager","language":"Rust","languageColor":"#dea584","stars":6036,"forks":1243,"currentPeriodStars":129,"builtBy":[{"username":"bors","href":"https://github.com/bors","avatar":"https://avatars3.githubusercontent.com/u/3372342"},{"username":"alexcrichton","href":"https://github.com/alexcrichton","avatar":"https://avatars2.githubusercontent.com/u/64996"},{"username":"ehuss","href":"https://github.com/ehuss","avatar":"https://avatars2.githubusercontent.com/u/43198"},{"username":"Eh2406","href":"https://github.com/Eh2406","avatar":"https://avatars2.githubusercontent.com/u/3709504"},{"username":"matklad","href":"https://github.com/matklad","avatar":"https://avatars3.githubusercontent.com/u/1711539"}]},{"author":"rust-unofficial","name":"awesome-rust","avatar":"https://github.com/rust-unofficial.png","url":"https://github.com/rust-unofficial/awesome-rust","description":"A curated list of Rust code and resources.","language":"Rust","languageColor":"#dea584","stars":17141,"forks":1148,"currentPeriodStars":389,"builtBy":[{"username":"luciusmagn","href":"https://github.com/luciusmagn","avatar":"https://avatars1.githubusercontent.com/u/8401799"},{"username":"kud1ing","href":"https://github.com/kud1ing","avatar":"https://avatars1.githubusercontent.com/u/391975"},{"username":"palfrey","href":"https://github.com/palfrey","avatar":"https://avatars3.githubusercontent.com/u/38532"},{"username":"usagi","href":"https://github.com/usagi","avatar":"https://avatars1.githubusercontent.com/u/115972"},{"username":"YoshiTheChinchilla","href":"https://github.com/YoshiTheChinchilla","avatar":"https://avatars0.githubusercontent.com/u/33449192"}]},{"author":"chyyuu","name":"os_kernel_lab","avatar":"https://github.com/chyyuu.png","url":"https://github.com/chyyuu/os_kernel_lab","description":"OS kernel labs based on Rust Lang & RISC-V 64","language":"Rust","languageColor":"#dea584","stars":2654,"forks":1671,"currentPeriodStars":73,"builtBy":[{"username":"LyricZhao","href":"https://github.com/LyricZhao","avatar":"https://avatars3.githubusercontent.com/u/35299455"},{"username":"Tuyixiang","href":"https://github.com/Tuyixiang","avatar":"https://avatars3.githubusercontent.com/u/34904872"},{"username":"chyyuu","href":"https://github.com/chyyuu","avatar":"https://avatars2.githubusercontent.com/u/2077445"},{"username":"JohnWestonNull","href":"https://github.com/JohnWestonNull","avatar":"https://avatars2.githubusercontent.com/u/18240025"},{"username":"wangrunji0408","href":"https://github.com/wangrunji0408","avatar":"https://avatars2.githubusercontent.com/u/15158738"}]},{"author":"996icu","name":"996.ICU","avatar":"https://github.com/996icu.png","url":"https://github.com/996icu/996.ICU","description":"Repo for counting stars and contributing. Press F to pay respect to glorious developers.","language":"Rust","languageColor":"#dea584","stars":251827,"forks":21092,"currentPeriodStars":1065,"builtBy":[{"username":"996icu","href":"https://github.com/996icu","avatar":"https://avatars1.githubusercontent.com/u/48942249"},{"username":"ChangedenCZD","href":"https://github.com/ChangedenCZD","avatar":"https://avatars3.githubusercontent.com/u/9605663"},{"username":"bofeiw","href":"https://github.com/bofeiw","avatar":"https://avatars2.githubusercontent.com/u/34177142"},{"username":"xianfengting","href":"https://github.com/xianfengting","avatar":"https://avatars0.githubusercontent.com/u/23656058"},{"username":"CPdogson","href":"https://github.com/CPdogson","avatar":"https://avatars3.githubusercontent.com/u/49220384"}]},{"author":"Findomain","name":"Findomain","avatar":"https://github.com/Findomain.png","url":"https://github.com/Findomain/Findomain","description":"The fastest and cross-platform subdomain enumerator, do not waste your time.","language":"Rust","languageColor":"#dea584","stars":1552,"forks":202,"currentPeriodStars":69,"builtBy":[{"username":"Edu4rdSHL","href":"https://github.com/Edu4rdSHL","avatar":"https://avatars1.githubusercontent.com/u/32582878"},{"username":"ZeroDot1","href":"https://github.com/ZeroDot1","avatar":"https://avatars1.githubusercontent.com/u/28985171"},{"username":"kpcyrd","href":"https://github.com/kpcyrd","avatar":"https://avatars3.githubusercontent.com/u/7763184"},{"username":"dee-see","href":"https://github.com/dee-see","avatar":"https://avatars1.githubusercontent.com/u/7252342"},{"username":"eddyv73","href":"https://github.com/eddyv73","avatar":"https://avatars0.githubusercontent.com/u/19657324"}]},{"author":"hecrj","name":"iced","avatar":"https://github.com/hecrj.png","url":"https://github.com/hecrj/iced","description":"A cross-platform GUI library for Rust, inspired by Elm","language":"Rust","languageColor":"#dea584","stars":7000,"forks":277,"currentPeriodStars":271,"builtBy":[{"username":"hecrj","href":"https://github.com/hecrj","avatar":"https://avatars3.githubusercontent.com/u/518289"},{"username":"clarkmoody","href":"https://github.com/clarkmoody","avatar":"https://avatars1.githubusercontent.com/u/1562417"},{"username":"Maldela","href":"https://github.com/Maldela","avatar":"https://avatars0.githubusercontent.com/u/9801359"},{"username":"FabianLars","href":"https://github.com/FabianLars","avatar":"https://avatars1.githubusercontent.com/u/30730186"},{"username":"hatoo","href":"https://github.com/hatoo","avatar":"https://avatars3.githubusercontent.com/u/1667746"}]},{"author":"launchbadge","name":"sqlx","avatar":"https://github.com/launchbadge.png","url":"https://github.com/launchbadge/sqlx","description":"🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.","language":"Rust","languageColor":"#dea584","stars":2663,"forks":189,"currentPeriodStars":198,"builtBy":[{"username":"mehcode","href":"https://github.com/mehcode","avatar":"https://avatars1.githubusercontent.com/u/753919"},{"username":"abonander","href":"https://github.com/abonander","avatar":"https://avatars2.githubusercontent.com/u/3198595"},{"username":"danielakhterov","href":"https://github.com/danielakhterov","avatar":"https://avatars1.githubusercontent.com/u/36461294"},{"username":"pimeys","href":"https://github.com/pimeys","avatar":"https://avatars3.githubusercontent.com/u/34967"},{"username":"JesperAxelsson","href":"https://github.com/JesperAxelsson","avatar":"https://avatars1.githubusercontent.com/u/687960"}]},{"author":"seanmonstar","name":"reqwest","avatar":"https://github.com/seanmonstar.png","url":"https://github.com/seanmonstar/reqwest","description":"An easy and powerful Rust HTTP Client","language":"Rust","languageColor":"#dea584","stars":3173,"forks":420,"currentPeriodStars":105,"builtBy":[{"username":"seanmonstar","href":"https://github.com/seanmonstar","avatar":"https://avatars3.githubusercontent.com/u/51479"},{"username":"tomprince","href":"https://github.com/tomprince","avatar":"https://avatars3.githubusercontent.com/u/283816"},{"username":"knight42","href":"https://github.com/knight42","avatar":"https://avatars2.githubusercontent.com/u/4237254"},{"username":"danieleades","href":"https://github.com/danieleades","avatar":"https://avatars3.githubusercontent.com/u/33452915"}]},{"author":"AcalaNetwork","name":"Acala","avatar":"https://github.com/AcalaNetwork.png","url":"https://github.com/AcalaNetwork/Acala","description":"Acala Network - CrossChain StableCoin platform based on Substrate.","language":"Rust","languageColor":"#dea584","stars":118,"forks":30,"currentPeriodStars":22,"builtBy":[{"username":"wangjj9219","href":"https://github.com/wangjj9219","avatar":"https://avatars1.githubusercontent.com/u/16759566"},{"username":"xlc","href":"https://github.com/xlc","avatar":"https://avatars1.githubusercontent.com/u/1201310"},{"username":"shaopengw","href":"https://github.com/shaopengw","avatar":"https://avatars1.githubusercontent.com/u/8908872"},{"username":"jiangfuyao","href":"https://github.com/jiangfuyao","avatar":"https://avatars0.githubusercontent.com/u/34789555"},{"username":"zjb0807","href":"https://github.com/zjb0807","avatar":"https://avatars3.githubusercontent.com/u/16496415"}]},{"author":"hyperium","name":"hyper","avatar":"https://github.com/hyperium.png","url":"https://github.com/hyperium/hyper","description":"An HTTP library for Rust","language":"Rust","languageColor":"#dea584","stars":6822,"forks":892,"currentPeriodStars":136,"builtBy":[{"username":"seanmonstar","href":"https://github.com/seanmonstar","avatar":"https://avatars3.githubusercontent.com/u/51479"},{"username":"reem","href":"https://github.com/reem","avatar":"https://avatars1.githubusercontent.com/u/4745181"},{"username":"pyfisch","href":"https://github.com/pyfisch","avatar":"https://avatars3.githubusercontent.com/u/2781017"},{"username":"weihanglo","href":"https://github.com/weihanglo","avatar":"https://avatars0.githubusercontent.com/u/14314532"},{"username":"mlalic","href":"https://github.com/mlalic","avatar":"https://avatars1.githubusercontent.com/u/229614"}]},{"author":"dtolnay","name":"proc-macro-workshop","avatar":"https://github.com/dtolnay.png","url":"https://github.com/dtolnay/proc-macro-workshop","description":"Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]","language":"Rust","languageColor":"#dea584","stars":780,"forks":179,"currentPeriodStars":28,"builtBy":[{"username":"dtolnay","href":"https://github.com/dtolnay","avatar":"https://avatars3.githubusercontent.com/u/1940490"},{"username":"alexcrichton","href":"https://github.com/alexcrichton","avatar":"https://avatars2.githubusercontent.com/u/64996"},{"username":"ehsanmok","href":"https://github.com/ehsanmok","avatar":"https://avatars3.githubusercontent.com/u/6980212"},{"username":"ericseppanen","href":"https://github.com/ericseppanen","avatar":"https://avatars3.githubusercontent.com/u/36317762"},{"username":"felixrabe","href":"https://github.com/felixrabe","avatar":"https://avatars2.githubusercontent.com/u/400795"}]},{"author":"analysis-tools-dev","name":"static-analysis","avatar":"https://github.com/analysis-tools-dev.png","url":"https://github.com/analysis-tools-dev/static-analysis","description":"A curated list of static analysis tools for all programming languages, config files, build tools, and more.","language":"Rust","languageColor":"#dea584","stars":7813,"forks":898,"currentPeriodStars":212,"builtBy":[{"username":"mre","href":"https://github.com/mre","avatar":"https://avatars0.githubusercontent.com/u/175809"},{"username":"AristoChen","href":"https://github.com/AristoChen","avatar":"https://avatars1.githubusercontent.com/u/20593333"},{"username":"impredicative","href":"https://github.com/impredicative","avatar":"https://avatars1.githubusercontent.com/u/566650"},{"username":"andygrunwald","href":"https://github.com/andygrunwald","avatar":"https://avatars2.githubusercontent.com/u/320064"},{"username":"brennanangel","href":"https://github.com/brennanangel","avatar":"https://avatars2.githubusercontent.com/u/12521775"}]},{"author":"gfx-rs","name":"wgpu","avatar":"https://github.com/gfx-rs.png","url":"https://github.com/gfx-rs/wgpu","description":"Native WebGPU implementation based on gfx-hal","language":"Rust","languageColor":"#dea584","stars":1347,"forks":124,"currentPeriodStars":69,"builtBy":[{"username":"kvark","href":"https://github.com/kvark","avatar":"https://avatars1.githubusercontent.com/u/107301"},{"username":"grovesNL","href":"https://github.com/grovesNL","avatar":"https://avatars3.githubusercontent.com/u/2113872"},{"username":"GabrielMajeri","href":"https://github.com/GabrielMajeri","avatar":"https://avatars1.githubusercontent.com/u/3010346"},{"username":"cwfitzgerald","href":"https://github.com/cwfitzgerald","avatar":"https://avatars0.githubusercontent.com/u/7861353"}]}]
+[
+  {
+    "author": "hecrj",
+    "name": "iced",
+    "href": "https://github.com/hecrj/iced",
+    "description": "A cross-platform GUI library for Rust, inspired by Elm",
+    "language": "Rust",
+    "stars": 7275,
+    "forks": 296,
+    "starsInPeriod": 385
+  },
+  {
+    "author": "linebender",
+    "name": "druid",
+    "href": "https://github.com/linebender/druid",
+    "description": "A data-first Rust-native UI design toolkit.",
+    "language": "Rust",
+    "stars": 2660,
+    "forks": 211,
+    "starsInPeriod": 300
+  },
+  {
+    "author": "rust-lang",
+    "name": "rust-clippy",
+    "href": "https://github.com/rust-lang/rust-clippy",
+    "description": "A bunch of lints to catch common mistakes and improve your Rust code",
+    "language": "Rust",
+    "stars": 5138,
+    "forks": 712,
+    "starsInPeriod": 104
+  },
+  {
+    "author": "rust-embedded",
+    "name": "rust-raspberrypi-OS-tutorials",
+    "href": "https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials",
+    "description": "📚 Learn to write an embedded OS in Rust 🦀",
+    "language": "Rust",
+    "stars": 2709,
+    "forks": 164,
+    "starsInPeriod": 214
+  },
+  {
+    "author": "dandavison",
+    "name": "delta",
+    "href": "https://github.com/dandavison/delta",
+    "description": "A viewer for git and diff output",
+    "language": "Rust",
+    "stars": 5899,
+    "forks": 106,
+    "starsInPeriod": 911
+  },
+  {
+    "author": "tree-sitter",
+    "name": "tree-sitter",
+    "href": "https://github.com/tree-sitter/tree-sitter",
+    "description": "An incremental parsing system for programming tools",
+    "language": "Rust",
+    "stars": 3204,
+    "forks": 211,
+    "starsInPeriod": 146
+  },
+  {
+    "author": "rust-lang",
+    "name": "rustfmt",
+    "href": "https://github.com/rust-lang/rustfmt",
+    "description": "Format Rust code",
+    "language": "Rust",
+    "stars": 3284,
+    "forks": 537,
+    "starsInPeriod": 60
+  },
+  {
+    "author": "rust-lang",
+    "name": "rust",
+    "href": "https://github.com/rust-lang/rust",
+    "description": "Empowering everyone to build reliable and efficient software.",
+    "language": "Rust",
+    "stars": 49062,
+    "forks": 7222,
+    "starsInPeriod": 760
+  },
+  {
+    "author": "RustPython",
+    "name": "RustPython",
+    "href": "https://github.com/RustPython/RustPython",
+    "description": "A Python Interpreter written in Rust",
+    "language": "Rust",
+    "stars": 6076,
+    "forks": 443,
+    "starsInPeriod": 183
+  },
+  {
+    "author": "cloudflare",
+    "name": "wrangler",
+    "href": "https://github.com/cloudflare/wrangler",
+    "description": "🤠 wrangle your cloudflare workers",
+    "language": "Rust",
+    "stars": 1744,
+    "forks": 213,
+    "starsInPeriod": 87
+  },
+  {
+    "author": "hyperium",
+    "name": "hyper",
+    "href": "https://github.com/hyperium/hyper",
+    "description": "An HTTP library for Rust",
+    "language": "Rust",
+    "stars": 6978,
+    "forks": 906,
+    "starsInPeriod": 194
+  },
+  {
+    "author": "alacritty",
+    "name": "alacritty",
+    "href": "https://github.com/alacritty/alacritty",
+    "description": "A cross-platform, GPU-accelerated terminal emulator",
+    "language": "Rust",
+    "stars": 25992,
+    "forks": 1340,
+    "starsInPeriod": 717
+  },
+  {
+    "author": "rust-analyzer",
+    "name": "rust-analyzer",
+    "href": "https://github.com/rust-analyzer/rust-analyzer",
+    "description": "An experimental Rust compiler front-end for IDEs",
+    "language": "Rust",
+    "stars": 4581,
+    "forks": 456,
+    "starsInPeriod": 191
+  },
+  {
+    "author": "LemmyNet",
+    "name": "lemmy",
+    "href": "https://github.com/LemmyNet/lemmy",
+    "description": "🐀 Building a federated alternative to reddit in rust",
+    "language": "Rust",
+    "stars": 4239,
+    "forks": 283,
+    "starsInPeriod": 133
+  },
+  {
+    "author": "tokio-rs",
+    "name": "tokio",
+    "href": "https://github.com/tokio-rs/tokio",
+    "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+    "language": "Rust",
+    "stars": 9519,
+    "forks": 882,
+    "starsInPeriod": 221
+  },
+  {
+    "author": "Spotifyd",
+    "name": "spotifyd",
+    "href": "https://github.com/Spotifyd/spotifyd",
+    "description": "A spotify daemon",
+    "language": "Rust",
+    "stars": 4290,
+    "forks": 232,
+    "starsInPeriod": 186
+  },
+  {
+    "author": "casperstorm",
+    "name": "ajour",
+    "href": "https://github.com/casperstorm/ajour",
+    "description": "A World of Warcraft addon manager written in Rust.",
+    "language": "Rust",
+    "stars": 552,
+    "forks": 32,
+    "starsInPeriod": 436
+  },
+  {
+    "author": "TheAlgorithms",
+    "name": "Rust",
+    "href": "https://github.com/TheAlgorithms/Rust",
+    "description": "All Algorithms implemented in Rust",
+    "language": "Rust",
+    "stars": 1610,
+    "forks": 273,
+    "starsInPeriod": 206
+  },
+  {
+    "author": "o2sh",
+    "name": "onefetch",
+    "href": "https://github.com/o2sh/onefetch",
+    "description": "Git repository summary on your terminal",
+    "language": "Rust",
+    "stars": 2358,
+    "forks": 119,
+    "starsInPeriod": 199
+  },
+  {
+    "author": "firecracker-microvm",
+    "name": "firecracker",
+    "href": "https://github.com/firecracker-microvm/firecracker",
+    "description": "Secure and fast microVMs for serverless computing.",
+    "language": "Rust",
+    "stars": 12938,
+    "forks": 891,
+    "starsInPeriod": 190
+  },
+  {
+    "author": "chyyuu",
+    "name": "os_kernel_lab",
+    "href": "https://github.com/chyyuu/os_kernel_lab",
+    "description": "OS kernel labs based on Rust Lang & RISC-V 64",
+    "language": "Rust",
+    "stars": 2712,
+    "forks": 1685,
+    "starsInPeriod": 83
+  },
+  {
+    "author": "cloudflare",
+    "name": "quiche",
+    "href": "https://github.com/cloudflare/quiche",
+    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+    "language": "Rust",
+    "stars": 3956,
+    "forks": 244,
+    "starsInPeriod": 181
+  },
+  {
+    "author": "rust-unofficial",
+    "name": "awesome-rust",
+    "href": "https://github.com/rust-unofficial/awesome-rust",
+    "description": "A curated list of Rust code and resources.",
+    "language": "Rust",
+    "stars": 17382,
+    "forks": 1171,
+    "starsInPeriod": 375
+  },
+  {
+    "author": "Peltoche",
+    "name": "lsd",
+    "href": "https://github.com/Peltoche/lsd",
+    "description": "The next gen ls command",
+    "language": "Rust",
+    "stars": 4722,
+    "forks": 167,
+    "starsInPeriod": 148
+  },
+  {
+    "author": "seed-rs",
+    "name": "seed",
+    "href": "https://github.com/seed-rs/seed",
+    "description": "A Rust framework for creating web apps",
+    "language": "Rust",
+    "stars": 1389,
+    "forks": 91,
+    "starsInPeriod": 78
+  }
+]

@@ -1,0 +1,51 @@
+# kotlin
+- [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook)
+  - A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential
+- [v2rayNG](https://github.com/2dust/v2rayNG)
+  - 
+- [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization)
+  - Kotlin multiplatform / multi-format serialization
+- [covid-19-app-android-ag-public](https://github.com/nhsx/covid-19-app-android-ag-public)
+  - COVID19 Android app
+- [ZY-Player-Android](https://github.com/vicedev/ZY-Player-Android)
+  - 基于https://github.com/Hunlongyu/ZY-Player 做的Android版本 资源播放器
+- [Android](https://github.com/duckduckgo/Android)
+  - DuckDuckGo Android App
+- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android)
+  - Native Android app using the Apple/Google exposure notification API.
+- [VancedManager](https://github.com/YTVanced/VancedManager)
+  - Vanced Installer
+- [ktor](https://github.com/ktorio/ktor)
+  - Framework for quickly creating connected applications in Kotlin with minimal effort
+- [Exposed](https://github.com/JetBrains/Exposed)
+  - Kotlin SQL Framework
+- [RetroMusicPlayer](https://github.com/h4h13/RetroMusicPlayer)
+  - Best material design music player for Android
+- [Android-CleanArchitecture-Kotlin](https://github.com/android10/Android-CleanArchitecture-Kotlin)
+  - This is a movies sample app in Kotlin, which is part of a serie of blog posts I have written about architecting android application using different approaches.
+- [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
+  - A shadowsocks client for Android
+- [chucker](https://github.com/ChuckerTeam/chucker)
+  - 🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device) - More Chucker than Chuck
+- [immuni-app-android](https://github.com/immuni-app/immuni-app-android)
+  - Official repository for the Android version of the immuni application
+- [play-billing-samples](https://github.com/android/play-billing-samples)
+  - Samples for Google Play In-app Billing
+- [intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template)
+  - Template repository for creating plugins for IntelliJ Platform
+- [android-youtube-player](https://github.com/PierfrancescoSoffritti/android-youtube-player)
+  - YouTube Player library for Android and Chromecast, stable and customizable.
+- [nl-covid19-notification-app-android](https://github.com/minvws/nl-covid19-notification-app-android)
+  - Android sources for the Dutch Covid19 Notification App
+- [sunflower](https://github.com/android/sunflower)
+  - A gardening app illustrating Android development best practices with Android Jetpack.
+- [ideavim](https://github.com/JetBrains/ideavim)
+  - Vim emulation plug-in for IDEs based on the IntelliJ platform.
+- [detekt](https://github.com/detekt/detekt)
+  - Static code analysis for Kotlin
+- [kotlin-dsl-samples](https://github.com/gradle/kotlin-dsl-samples)
+  - Samples builds using the Gradle Kotlin DSL
+- [tachiyomi](https://github.com/inorichi/tachiyomi)
+  - Free and open source manga reader for Android
+- [awesome-android-learning-resources](https://github.com/androiddevnotes/awesome-android-learning-resources)
+  - [Hacktoberfest] 👓 A curated list of awesome android learning resources for android app developers.

@@ -1,1 +1,51 @@
 # general
+- [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) : C++
+  - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly
+- [crowdsec](https://github.com/crowdsecurity/crowdsec) : Go
+  - Crowdsec - An open-source, lightweight agent to detect and respond to bad behaviours. It also automatically benefits from our global community-wide IP reputation database.
+- [waypoint](https://github.com/hashicorp/waypoint) : Go
+  - A tool to build, deploy, and release any application on any platform.
+- [scripts](https://github.com/lxk0301/scripts) : JavaScript
+  - 京东薅羊毛工具, 京东水果、宠物、种豆 aff 互助讨论组：https://t.me/JD_fruit_pet
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course) : JavaScript
+  - Starter files, final projects and FAQ for my Complete JavaScript course
+- [bpytop](https://github.com/aristocratos/bpytop) : Python
+  - Linux/OSX/FreeBSD resource monitor
+- [fairseq](https://github.com/pytorch/fairseq) : Python
+  - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
+- [Auto.js](https://github.com/hyb1996/Auto.js) : Java
+  - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
+- [fiber](https://github.com/gofiber/fiber) : Go
+  - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
+- [base-admin](https://github.com/huanzi-qch/base-admin) : Java
+  - Base Admin一套简单通用的后台管理系统，主要功能有：权限管理、菜单管理、用户管理，系统设置、实时日志，实时监控，API加密，以及登录用户修改密码、配置个性菜单等
+- [nni](https://github.com/microsoft/nni) : Python
+  - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
+- [COVID-19](https://github.com/pcm-dpc/COVID-19) : 
+  - COVID-19 Italia - Monitoraggio situazione
+- [bubbletea](https://github.com/charmbracelet/bubbletea) : Go
+  - A powerful little TUI framework 🏗
+- [tailwindcss](https://github.com/tailwindlabs/tailwindcss) : CSS
+  - A utility-first CSS framework for rapid UI development.
+- [Luckysheet](https://github.com/mengshukeji/Luckysheet) : JavaScript
+  - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
+- [SpaceVim](https://github.com/SpaceVim/SpaceVim) : Vim script
+  - A community-driven modular vim distribution - The ultimate vim configuration
+- [gin](https://github.com/gin-gonic/gin) : Go
+  - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+- [polkadot](https://github.com/paritytech/polkadot) : Rust
+  - Polkadot Node Implementation
+- [faceswap](https://github.com/deepfakes/faceswap) : Python
+  - Deepfakes Software For All
+- [svelte](https://github.com/sveltejs/svelte) : JavaScript
+  - Cybernetically enhanced web apps
+- [COLA](https://github.com/alibaba/COLA) : Java
+  - Clean Object-oriented & Layered Architecture
+- [algo](https://github.com/wangzheng0822/algo) : Python
+  - 数据结构和算法必知必会的50个代码实现
+- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
+  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
+- [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) : JavaScript
+  - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+- [mastodon](https://github.com/tootsuite/mastodon) : Ruby
+  - Your self-hosted, globally interconnected microblogging community

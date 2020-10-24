@@ -1,3 +1,252 @@
-The deployment has been disabled
-
-DEPLOYMENT_DISABLED
+[
+  {
+    "author": "snowpackjs",
+    "name": "snowpack",
+    "href": "https://github.com/snowpackjs/snowpack",
+    "description": "WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️",
+    "language": "TypeScript",
+    "stars": 12841,
+    "forks": 479,
+    "starsInPeriod": 407
+  },
+  {
+    "author": "storybookjs",
+    "name": "storybook",
+    "href": "https://github.com/storybookjs/storybook",
+    "description": "📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!",
+    "language": "TypeScript",
+    "stars": 54300,
+    "forks": 5439,
+    "starsInPeriod": 262
+  },
+  {
+    "author": "appsmithorg",
+    "name": "appsmith",
+    "href": "https://github.com/appsmithorg/appsmith",
+    "description": "Web framework to build dashboards, workflows, forms, and any internal tool. Connect UI to DB queries or APIs to build admin panels.",
+    "language": "TypeScript",
+    "stars": 845,
+    "forks": 170,
+    "starsInPeriod": 353
+  },
+  {
+    "author": "anncwb",
+    "name": "vue-vben-admin",
+    "href": "https://github.com/anncwb/vue-vben-admin",
+    "description": "✨ ✨ ✨ A vue3 style Admin based on Vite vue3.0, vite, ant design vue 2.x, typescript，Efforts to update in progress...",
+    "language": "TypeScript",
+    "stars": 1229,
+    "forks": 222,
+    "starsInPeriod": 233
+  },
+  {
+    "author": "streamich",
+    "name": "react-use",
+    "href": "https://github.com/streamich/react-use",
+    "description": "React Hooks — 👍",
+    "language": "TypeScript",
+    "stars": 16164,
+    "forks": 1107,
+    "starsInPeriod": 179
+  },
+  {
+    "author": "facebook",
+    "name": "jest",
+    "href": "https://github.com/facebook/jest",
+    "description": "Delightful JavaScript Testing.",
+    "language": "TypeScript",
+    "stars": 32868,
+    "forks": 4701,
+    "starsInPeriod": 98
+  },
+  {
+    "author": "angular",
+    "name": "angular",
+    "href": "https://github.com/angular/angular",
+    "description": "One framework. Mobile & desktop.",
+    "language": "TypeScript",
+    "stars": 67040,
+    "forks": 17786,
+    "starsInPeriod": 280
+  },
+  {
+    "author": "react-native-webview",
+    "name": "react-native-webview",
+    "href": "https://github.com/react-native-webview/react-native-webview",
+    "description": "React Native Cross-Platform WebView",
+    "language": "TypeScript",
+    "stars": 3159,
+    "forks": 1541,
+    "starsInPeriod": 72
+  },
+  {
+    "author": "ionic-team",
+    "name": "ionic-framework",
+    "href": "https://github.com/ionic-team/ionic-framework",
+    "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.",
+    "language": "TypeScript",
+    "stars": 42001,
+    "forks": 13279,
+    "starsInPeriod": 88
+  },
+  {
+    "author": "umijs",
+    "name": "qiankun",
+    "href": "https://github.com/umijs/qiankun",
+    "description": "📦 🚀 Blazing fast, simple and completed solution for micro frontends.",
+    "language": "TypeScript",
+    "stars": 7293,
+    "forks": 730,
+    "starsInPeriod": 136
+  },
+  {
+    "author": "tensorflow",
+    "name": "tfjs-models",
+    "href": "https://github.com/tensorflow/tfjs-models",
+    "description": "Pretrained models for TensorFlow.js",
+    "language": "TypeScript",
+    "stars": 7462,
+    "forks": 2263,
+    "starsInPeriod": 83
+  },
+  {
+    "author": "le5le-com",
+    "name": "topology",
+    "href": "https://github.com/le5le-com/topology",
+    "description": "A diagram (topology, UML) framework uses canvas and typescript. 一个轻量（100k左右）、功能丰富的绘图工具（微服务架构图、拓扑图、流程图、类图等UML图、脑图，动画、视频支持）。 【在线使用】：",
+    "language": "TypeScript",
+    "stars": 2035,
+    "forks": 494,
+    "starsInPeriod": 31
+  },
+  {
+    "author": "webiny",
+    "name": "webiny-js",
+    "href": "https://github.com/webiny/webiny-js",
+    "description": "Platform for building serverless applications and APIs (Node.js, React, GraphQL)",
+    "language": "TypeScript",
+    "stars": 3329,
+    "forks": 284,
+    "starsInPeriod": 145
+  },
+  {
+    "author": "aws-amplify",
+    "name": "amplify-cli",
+    "href": "https://github.com/aws-amplify/amplify-cli",
+    "description": "A CLI toolchain for simplifying serverless web and mobile development.",
+    "language": "TypeScript",
+    "stars": 1801,
+    "forks": 385,
+    "starsInPeriod": 16
+  },
+  {
+    "author": "prabhuignoto",
+    "name": "react-chrono",
+    "href": "https://github.com/prabhuignoto/react-chrono",
+    "description": "Modern Timeline component for React",
+    "language": "TypeScript",
+    "stars": 1316,
+    "forks": 37,
+    "starsInPeriod": 949
+  },
+  {
+    "author": "taniarascia",
+    "name": "takenote",
+    "href": "https://github.com/taniarascia/takenote",
+    "description": "📝 ‎ A free, open-source notes app for the web.",
+    "language": "TypeScript",
+    "stars": 2845,
+    "forks": 297,
+    "starsInPeriod": 212
+  },
+  {
+    "author": "microsoft",
+    "name": "frontend-bootcamp",
+    "href": "https://github.com/microsoft/frontend-bootcamp",
+    "description": "Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux",
+    "language": "TypeScript",
+    "stars": 10095,
+    "forks": 1159,
+    "starsInPeriod": 81
+  },
+  {
+    "author": "davidkpiano",
+    "name": "xstate",
+    "href": "https://github.com/davidkpiano/xstate",
+    "description": "State machines and statecharts for the modern web.",
+    "language": "TypeScript",
+    "stars": 13332,
+    "forks": 568,
+    "starsInPeriod": 105
+  },
+  {
+    "author": "justadudewhohacks",
+    "name": "face-api.js",
+    "href": "https://github.com/justadudewhohacks/face-api.js",
+    "description": "JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js",
+    "language": "TypeScript",
+    "stars": 11147,
+    "forks": 2291,
+    "starsInPeriod": 72
+  },
+  {
+    "author": "vadimdemedes",
+    "name": "ink",
+    "href": "https://github.com/vadimdemedes/ink",
+    "description": "🌈 React for interactive command-line apps",
+    "language": "TypeScript",
+    "stars": 14833,
+    "forks": 393,
+    "starsInPeriod": 113
+  },
+  {
+    "author": "Chocobozzz",
+    "name": "PeerTube",
+    "href": "https://github.com/Chocobozzz/PeerTube",
+    "description": "ActivityPub-federated video streaming platform using P2P directly in your web browser",
+    "language": "TypeScript",
+    "stars": 7928,
+    "forks": 781,
+    "starsInPeriod": 67
+  },
+  {
+    "author": "chakra-ui",
+    "name": "chakra-ui",
+    "href": "https://github.com/chakra-ui/chakra-ui",
+    "description": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
+    "language": "TypeScript",
+    "stars": 11352,
+    "forks": 814,
+    "starsInPeriod": 213
+  },
+  {
+    "author": "grafana",
+    "name": "grafana",
+    "href": "https://github.com/grafana/grafana",
+    "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+    "language": "TypeScript",
+    "stars": 37764,
+    "forks": 7677,
+    "starsInPeriod": 135
+  },
+  {
+    "author": "ant-design",
+    "name": "ant-design",
+    "href": "https://github.com/ant-design/ant-design",
+    "description": "🌈 A UI Design Language and React UI library",
+    "language": "TypeScript",
+    "stars": 64205,
+    "forks": 24739,
+    "starsInPeriod": 174
+  },
+  {
+    "author": "neoclide",
+    "name": "coc.nvim",
+    "href": "https://github.com/neoclide/coc.nvim",
+    "description": "Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode",
+    "language": "TypeScript",
+    "stars": 13372,
+    "forks": 507,
+    "starsInPeriod": 149
+  }
+]

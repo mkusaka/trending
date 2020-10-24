@@ -1,1 +1,252 @@
-[{"author":"Uniswap","name":"uniswap-v2-core","avatar":"https://github.com/Uniswap.png","url":"https://github.com/Uniswap/uniswap-v2-core","description":"🎛 Core smart contracts of Uniswap V2","language":"TypeScript","languageColor":"#2b7489","stars":423,"forks":284,"currentPeriodStars":196,"builtBy":[{"username":"NoahZinsmeister","href":"https://github.com/NoahZinsmeister","avatar":"https://avatars3.githubusercontent.com/u/3760414"},{"username":"haydenadams","href":"https://github.com/haydenadams","avatar":"https://avatars3.githubusercontent.com/u/9343483"},{"username":"moodysalem","href":"https://github.com/moodysalem","avatar":"https://avatars0.githubusercontent.com/u/7897876"},{"username":"danrobinson","href":"https://github.com/danrobinson","avatar":"https://avatars3.githubusercontent.com/u/1187252"},{"username":"chriseth","href":"https://github.com/chriseth","avatar":"https://avatars0.githubusercontent.com/u/9073706"}]},{"author":"tannerlinsley","name":"react-query","avatar":"https://github.com/tannerlinsley.png","url":"https://github.com/tannerlinsley/react-query","description":"⚛️ Hooks for fetching, caching and updating asynchronous data in React","language":"TypeScript","languageColor":"#2b7489","stars":13420,"forks":512,"currentPeriodStars":2229,"builtBy":[{"username":"tannerlinsley","href":"https://github.com/tannerlinsley","avatar":"https://avatars0.githubusercontent.com/u/5580297"},{"username":"boschni","href":"https://github.com/boschni","avatar":"https://avatars3.githubusercontent.com/u/3061545"},{"username":"cherniavskii","href":"https://github.com/cherniavskii","avatar":"https://avatars2.githubusercontent.com/u/13808724"}]},{"author":"vuejs","name":"vue-next","avatar":"https://github.com/vuejs.png","url":"https://github.com/vuejs/vue-next","description":"Repo for Vue 3.0","language":"TypeScript","languageColor":"#2b7489","stars":18081,"forks":2919,"currentPeriodStars":2871,"builtBy":[{"username":"yyx990803","href":"https://github.com/yyx990803","avatar":"https://avatars2.githubusercontent.com/u/499550"},{"username":"underfin","href":"https://github.com/underfin","avatar":"https://avatars1.githubusercontent.com/u/14008915"},{"username":"pikax","href":"https://github.com/pikax","avatar":"https://avatars1.githubusercontent.com/u/4620458"},{"username":"sh7dm","href":"https://github.com/sh7dm","avatar":"https://avatars3.githubusercontent.com/u/19504461"}]},{"author":"desktop","name":"desktop","avatar":"https://github.com/desktop.png","url":"https://github.com/desktop/desktop","description":"Simple collaboration from your desktop","language":"TypeScript","languageColor":"#2b7489","stars":9928,"forks":5426,"currentPeriodStars":193,"builtBy":[{"username":"niik","href":"https://github.com/niik","avatar":"https://avatars0.githubusercontent.com/u/634063"},{"username":"shiftkey","href":"https://github.com/shiftkey","avatar":"https://avatars3.githubusercontent.com/u/359239"},{"username":"joshaber","href":"https://github.com/joshaber","avatar":"https://avatars1.githubusercontent.com/u/13760"},{"username":"iAmWillShepherd","href":"https://github.com/iAmWillShepherd","avatar":"https://avatars2.githubusercontent.com/u/1715082"},{"username":"outofambit","href":"https://github.com/outofambit","avatar":"https://avatars0.githubusercontent.com/u/964912"}]},{"author":"eclipse-theia","name":"theia","avatar":"https://github.com/eclipse-theia.png","url":"https://github.com/eclipse-theia/theia","description":"Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.","language":"TypeScript","languageColor":"#2b7489","stars":11926,"forks":1384,"currentPeriodStars":346,"builtBy":[{"username":"akosyakov","href":"https://github.com/akosyakov","avatar":"https://avatars1.githubusercontent.com/u/3082655"},{"username":"kittaakos","href":"https://github.com/kittaakos","avatar":"https://avatars1.githubusercontent.com/u/1405703"},{"username":"vince-fugnitto","href":"https://github.com/vince-fugnitto","avatar":"https://avatars1.githubusercontent.com/u/40359487"},{"username":"svenefftinge","href":"https://github.com/svenefftinge","avatar":"https://avatars3.githubusercontent.com/u/372735"},{"username":"jbicker","href":"https://github.com/jbicker","avatar":"https://avatars1.githubusercontent.com/u/28291421"}]},{"author":"nestjs","name":"nest","avatar":"https://github.com/nestjs.png","url":"https://github.com/nestjs/nest","description":"A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀","language":"TypeScript","languageColor":"#2b7489","stars":30661,"forks":2724,"currentPeriodStars":975,"builtBy":[{"username":"kamilmysliwiec","href":"https://github.com/kamilmysliwiec","avatar":"https://avatars0.githubusercontent.com/u/23244943"},{"username":"renovate-bot","href":"https://github.com/renovate-bot","avatar":"https://avatars1.githubusercontent.com/u/25180681"},{"username":"mkaufmaner","href":"https://github.com/mkaufmaner","avatar":"https://avatars3.githubusercontent.com/u/2073135"},{"username":"BrunnerLivio","href":"https://github.com/BrunnerLivio","avatar":"https://avatars0.githubusercontent.com/u/9899423"},{"username":"jbpionnier","href":"https://github.com/jbpionnier","avatar":"https://avatars2.githubusercontent.com/u/1279225"}]},{"author":"Azure","name":"azure-sdk-for-js","avatar":"https://github.com/Azure.png","url":"https://github.com/Azure/azure-sdk-for-js","description":"This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.","language":"TypeScript","languageColor":"#2b7489","stars":748,"forks":381,"currentPeriodStars":140,"builtBy":[{"username":"daschult","href":"https://github.com/daschult","avatar":"https://avatars0.githubusercontent.com/u/7052303"},{"username":"HarshaNalluru","href":"https://github.com/HarshaNalluru","avatar":"https://avatars0.githubusercontent.com/u/10452642"},{"username":"amarzavery","href":"https://github.com/amarzavery","avatar":"https://avatars1.githubusercontent.com/u/4521223"},{"username":"ramya-rao-a","href":"https://github.com/ramya-rao-a","avatar":"https://avatars1.githubusercontent.com/u/16890566"},{"username":"kpajdzik","href":"https://github.com/kpajdzik","avatar":"https://avatars1.githubusercontent.com/u/41709775"}]},{"author":"pmndrs","name":"react-three-fiber","avatar":"https://github.com/pmndrs.png","url":"https://github.com/pmndrs/react-three-fiber","description":"🇨🇭 A React renderer for Three.js (web and react-native)","language":"TypeScript","languageColor":"#2b7489","stars":9983,"forks":467,"currentPeriodStars":619,"builtBy":[{"username":"drcmda","href":"https://github.com/drcmda","avatar":"https://avatars0.githubusercontent.com/u/2223602"},{"username":"birkir","href":"https://github.com/birkir","avatar":"https://avatars2.githubusercontent.com/u/180773"},{"username":"Setsun","href":"https://github.com/Setsun","avatar":"https://avatars1.githubusercontent.com/u/4651424"},{"username":"hasparus","href":"https://github.com/hasparus","avatar":"https://avatars3.githubusercontent.com/u/15332326"},{"username":"gsimone","href":"https://github.com/gsimone","avatar":"https://avatars2.githubusercontent.com/u/1862172"}]},{"author":"blitz-js","name":"blitz","avatar":"https://github.com/blitz-js.png","url":"https://github.com/blitz-js/blitz","description":"⚡️The Fullstack React Framework — built on Next.js","language":"TypeScript","languageColor":"#2b7489","stars":4418,"forks":214,"currentPeriodStars":478,"builtBy":[{"username":"flybayer","href":"https://github.com/flybayer","avatar":"https://avatars3.githubusercontent.com/u/8813276"},{"username":"ryardley","href":"https://github.com/ryardley","avatar":"https://avatars1.githubusercontent.com/u/1256409"},{"username":"wKovacs64","href":"https://github.com/wKovacs64","avatar":"https://avatars0.githubusercontent.com/u/1288694"},{"username":"aem","href":"https://github.com/aem","avatar":"https://avatars2.githubusercontent.com/u/1909883"}]},{"author":"n8n-io","name":"n8n","avatar":"https://github.com/n8n-io.png","url":"https://github.com/n8n-io/n8n","description":"Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.","language":"TypeScript","languageColor":"#2b7489","stars":9648,"forks":701,"currentPeriodStars":816,"builtBy":[{"username":"janober","href":"https://github.com/janober","avatar":"https://avatars0.githubusercontent.com/u/6249596"},{"username":"RicardoE105","href":"https://github.com/RicardoE105","avatar":"https://avatars1.githubusercontent.com/u/16496553"},{"username":"quansenB","href":"https://github.com/quansenB","avatar":"https://avatars1.githubusercontent.com/u/47332187"},{"username":"Rupenieks","href":"https://github.com/Rupenieks","avatar":"https://avatars3.githubusercontent.com/u/32895755"},{"username":"milekz","href":"https://github.com/milekz","avatar":"https://avatars2.githubusercontent.com/u/4568379"}]},{"author":"Uniswap","name":"uniswap-interface","avatar":"https://github.com/Uniswap.png","url":"https://github.com/Uniswap/uniswap-interface","description":"🦄 An open source interface for the Uniswap protocol","language":"TypeScript","languageColor":"#2b7489","stars":695,"forks":671,"currentPeriodStars":234,"builtBy":[{"username":"moodysalem","href":"https://github.com/moodysalem","avatar":"https://avatars0.githubusercontent.com/u/7897876"},{"username":"NoahZinsmeister","href":"https://github.com/NoahZinsmeister","avatar":"https://avatars3.githubusercontent.com/u/3760414"},{"username":"haydenadams","href":"https://github.com/haydenadams","avatar":"https://avatars3.githubusercontent.com/u/9343483"},{"username":"ianlapham","href":"https://github.com/ianlapham","avatar":"https://avatars0.githubusercontent.com/u/17100331"},{"username":"chikeichan","href":"https://github.com/chikeichan","avatar":"https://avatars2.githubusercontent.com/u/8507735"}]},{"author":"neoclide","name":"coc.nvim","avatar":"https://github.com/neoclide.png","url":"https://github.com/neoclide/coc.nvim","description":"Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode","language":"TypeScript","languageColor":"#2b7489","stars":13041,"forks":481,"currentPeriodStars":582,"builtBy":[{"username":"chemzqm","href":"https://github.com/chemzqm","avatar":"https://avatars3.githubusercontent.com/u/251450"},{"username":"fannheyward","href":"https://github.com/fannheyward","avatar":"https://avatars0.githubusercontent.com/u/345274"},{"username":"weirongxu","href":"https://github.com/weirongxu","avatar":"https://avatars0.githubusercontent.com/u/1709861"},{"username":"Avi-D-coder","href":"https://github.com/Avi-D-coder","avatar":"https://avatars2.githubusercontent.com/u/29133776"},{"username":"iamcco","href":"https://github.com/iamcco","avatar":"https://avatars1.githubusercontent.com/u/5492542"}]},{"author":"ustbhuangyi","name":"better-scroll","avatar":"https://github.com/ustbhuangyi.png","url":"https://github.com/ustbhuangyi/better-scroll","description":"📜 inspired by iscroll, and it supports more features and has a better scroll perfermance","language":"TypeScript","languageColor":"#2b7489","stars":13131,"forks":2354,"currentPeriodStars":594,"builtBy":[{"username":"ustbhuangyi","href":"https://github.com/ustbhuangyi","avatar":"https://avatars0.githubusercontent.com/u/5359011"},{"username":"theniceangel","href":"https://github.com/theniceangel","avatar":"https://avatars3.githubusercontent.com/u/25956811"},{"username":"cuijing1031","href":"https://github.com/cuijing1031","avatar":"https://avatars2.githubusercontent.com/u/13687667"},{"username":"AmyFoxFN","href":"https://github.com/AmyFoxFN","avatar":"https://avatars0.githubusercontent.com/u/24366060"},{"username":"tank0317","href":"https://github.com/tank0317","avatar":"https://avatars3.githubusercontent.com/u/16872030"}]},{"author":"cypress-io","name":"cypress-realworld-app","avatar":"https://github.com/cypress-io.png","url":"https://github.com/cypress-io/cypress-realworld-app","description":"A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.","language":"TypeScript","languageColor":"#2b7489","stars":974,"forks":156,"currentPeriodStars":213,"builtBy":[{"username":"kevinold","href":"https://github.com/kevinold","avatar":"https://avatars2.githubusercontent.com/u/21967"},{"username":"renovate-bot","href":"https://github.com/renovate-bot","avatar":"https://avatars1.githubusercontent.com/u/25180681"},{"username":"amirrustam","href":"https://github.com/amirrustam","avatar":"https://avatars3.githubusercontent.com/u/334337"}]},{"author":"react-hook-form","name":"react-hook-form","avatar":"https://github.com/react-hook-form.png","url":"https://github.com/react-hook-form/react-hook-form","description":"📋 React Hooks for forms validation (Web + React Native)","language":"TypeScript","languageColor":"#2b7489","stars":14607,"forks":656,"currentPeriodStars":941,"builtBy":[{"username":"bluebill1049","href":"https://github.com/bluebill1049","avatar":"https://avatars0.githubusercontent.com/u/10513364"},{"username":"kotarella1110","href":"https://github.com/kotarella1110","avatar":"https://avatars0.githubusercontent.com/u/12913947"},{"username":"keiya01","href":"https://github.com/keiya01","avatar":"https://avatars0.githubusercontent.com/u/34934510"},{"username":"stramel","href":"https://github.com/stramel","avatar":"https://avatars2.githubusercontent.com/u/855184"},{"username":"AyumiKai","href":"https://github.com/AyumiKai","avatar":"https://avatars0.githubusercontent.com/u/14857042"}]},{"author":"vitejs","name":"vite","avatar":"https://github.com/vitejs.png","url":"https://github.com/vitejs/vite","description":"Native-ESM powered web dev build tool. It's fast.","language":"TypeScript","languageColor":"#2b7489","stars":11842,"forks":578,"currentPeriodStars":1545,"builtBy":[{"username":"yyx990803","href":"https://github.com/yyx990803","avatar":"https://avatars2.githubusercontent.com/u/499550"},{"username":"underfin","href":"https://github.com/underfin","avatar":"https://avatars1.githubusercontent.com/u/14008915"},{"username":"csr632","href":"https://github.com/csr632","avatar":"https://avatars1.githubusercontent.com/u/18747423"},{"username":"daychongyang","href":"https://github.com/daychongyang","avatar":"https://avatars3.githubusercontent.com/u/26214431"},{"username":"aleclarson","href":"https://github.com/aleclarson","avatar":"https://avatars0.githubusercontent.com/u/1925840"}]},{"author":"NativeScript","name":"NativeScript","avatar":"https://github.com/NativeScript.png","url":"https://github.com/NativeScript/NativeScript","description":"NativeScript empowers you to access native api's from JavaScript directly. Angular, Vue, Svelte, React and you name it compatible.","language":"TypeScript","languageColor":"#2b7489","stars":19063,"forks":1408,"currentPeriodStars":161,"builtBy":[{"username":"hamorphis","href":"https://github.com/hamorphis","avatar":"https://avatars0.githubusercontent.com/u/1201857"},{"username":"PanayotCankov","href":"https://github.com/PanayotCankov","avatar":"https://avatars3.githubusercontent.com/u/5919275"},{"username":"SvetoslavTsenov","href":"https://github.com/SvetoslavTsenov","avatar":"https://avatars3.githubusercontent.com/u/3598759"},{"username":"ErjanGavalji","href":"https://github.com/ErjanGavalji","avatar":"https://avatars3.githubusercontent.com/u/84975"},{"username":"hdeshev","href":"https://github.com/hdeshev","avatar":"https://avatars0.githubusercontent.com/u/63219"}]},{"author":"vuetifyjs","name":"vuetify","avatar":"https://github.com/vuetifyjs.png","url":"https://github.com/vuetifyjs/vuetify","description":"🐉 Material Component Framework for Vue","language":"TypeScript","languageColor":"#2b7489","stars":27849,"forks":5020,"currentPeriodStars":570,"builtBy":[{"username":"johnleider","href":"https://github.com/johnleider","avatar":"https://avatars2.githubusercontent.com/u/9064066"},{"username":"KaelWD","href":"https://github.com/KaelWD","avatar":"https://avatars2.githubusercontent.com/u/16421948"},{"username":"jacekkarczmarczyk","href":"https://github.com/jacekkarczmarczyk","avatar":"https://avatars2.githubusercontent.com/u/15625235"},{"username":"MajesticPotatoe","href":"https://github.com/MajesticPotatoe","avatar":"https://avatars1.githubusercontent.com/u/27827979"},{"username":"nekosaur","href":"https://github.com/nekosaur","avatar":"https://avatars1.githubusercontent.com/u/623137"}]},{"author":"snobu","name":"destreamer","avatar":"https://github.com/snobu.png","url":"https://github.com/snobu/destreamer","description":"Save Microsoft Stream videos for offline enjoyment.","language":"TypeScript","languageColor":"#2b7489","stars":692,"forks":137,"currentPeriodStars":128,"builtBy":[{"username":"snobu","href":"https://github.com/snobu","avatar":"https://avatars1.githubusercontent.com/u/6472374"},{"username":"lukaarma","href":"https://github.com/lukaarma","avatar":"https://avatars0.githubusercontent.com/u/27893195"},{"username":"kylon","href":"https://github.com/kylon","avatar":"https://avatars0.githubusercontent.com/u/3252255"},{"username":"constructor-s","href":"https://github.com/constructor-s","avatar":"https://avatars1.githubusercontent.com/u/10003477"},{"username":"angelobpool","href":"https://github.com/angelobpool","avatar":"https://avatars3.githubusercontent.com/u/43997819"}]},{"author":"grafana","name":"grafana","avatar":"https://github.com/grafana.png","url":"https://github.com/grafana/grafana","description":"The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More","language":"TypeScript","languageColor":"#2b7489","stars":37398,"forks":7555,"currentPeriodStars":621,"builtBy":[{"username":"torkelo","href":"https://github.com/torkelo","avatar":"https://avatars1.githubusercontent.com/u/10999"},{"username":"bergquist","href":"https://github.com/bergquist","avatar":"https://avatars0.githubusercontent.com/u/618863"},{"username":"marefr","href":"https://github.com/marefr","avatar":"https://avatars0.githubusercontent.com/u/1668778"},{"username":"daniellee","href":"https://github.com/daniellee","avatar":"https://avatars3.githubusercontent.com/u/434655"},{"username":"ryantxu","href":"https://github.com/ryantxu","avatar":"https://avatars3.githubusercontent.com/u/705951"}]},{"author":"yarnpkg","name":"berry","avatar":"https://github.com/yarnpkg.png","url":"https://github.com/yarnpkg/berry","description":"📦🐈 Active development trunk for Yarn 2+ ⚒","language":"TypeScript","languageColor":"#2b7489","stars":2492,"forks":286,"currentPeriodStars":110,"builtBy":[{"username":"arcanis","href":"https://github.com/arcanis","avatar":"https://avatars0.githubusercontent.com/u/1037931"},{"username":"paul-soporan","href":"https://github.com/paul-soporan","avatar":"https://avatars1.githubusercontent.com/u/32596136"},{"username":"larixer","href":"https://github.com/larixer","avatar":"https://avatars2.githubusercontent.com/u/1259926"},{"username":"merceyz","href":"https://github.com/merceyz","avatar":"https://avatars3.githubusercontent.com/u/3842800"},{"username":"yarnbot","href":"https://github.com/yarnbot","avatar":"https://avatars2.githubusercontent.com/u/50545563"}]},{"author":"DefinitelyTyped","name":"DefinitelyTyped","avatar":"https://github.com/DefinitelyTyped.png","url":"https://github.com/DefinitelyTyped/DefinitelyTyped","description":"The repository for high quality TypeScript type definitions.","language":"TypeScript","languageColor":"#2b7489","stars":30149,"forks":22710,"currentPeriodStars":585,"builtBy":[{"username":"vvakame","href":"https://github.com/vvakame","avatar":"https://avatars1.githubusercontent.com/u/125332"},{"username":"sandersn","href":"https://github.com/sandersn","avatar":"https://avatars3.githubusercontent.com/u/293473"},{"username":"DanielRosenwasser","href":"https://github.com/DanielRosenwasser","avatar":"https://avatars2.githubusercontent.com/u/972891"},{"username":"andy-ms","href":"https://github.com/andy-ms","avatar":"https://avatars0.githubusercontent.com/u/19274678"},{"username":"minestarks","href":"https://github.com/minestarks","avatar":"https://avatars2.githubusercontent.com/u/16928427"}]},{"author":"angular","name":"angular","avatar":"https://github.com/angular.png","url":"https://github.com/angular/angular","description":"One framework. Mobile & desktop.","language":"TypeScript","languageColor":"#2b7489","stars":66407,"forks":17637,"currentPeriodStars":1143,"builtBy":[{"username":"petebacondarwin","href":"https://github.com/petebacondarwin","avatar":"https://avatars2.githubusercontent.com/u/15655"},{"username":"gkalpak","href":"https://github.com/gkalpak","avatar":"https://avatars0.githubusercontent.com/u/8604205"},{"username":"vsavkin","href":"https://github.com/vsavkin","avatar":"https://avatars2.githubusercontent.com/u/35996"},{"username":"IgorMinar","href":"https://github.com/IgorMinar","avatar":"https://avatars0.githubusercontent.com/u/216296"},{"username":"vicb","href":"https://github.com/vicb","avatar":"https://avatars2.githubusercontent.com/u/248818"}]},{"author":"ant-design","name":"ant-design","avatar":"https://github.com/ant-design.png","url":"https://github.com/ant-design/ant-design","description":"🌈 A UI Design Language and React UI library","language":"TypeScript","languageColor":"#2b7489","stars":63756,"forks":24406,"currentPeriodStars":875,"builtBy":[{"username":"afc163","href":"https://github.com/afc163","avatar":"https://avatars0.githubusercontent.com/u/507615"},{"username":"zombieJ","href":"https://github.com/zombieJ","avatar":"https://avatars3.githubusercontent.com/u/5378891"},{"username":"benjycui","href":"https://github.com/benjycui","avatar":"https://avatars2.githubusercontent.com/u/3580607"},{"username":"yesmeck","href":"https://github.com/yesmeck","avatar":"https://avatars3.githubusercontent.com/u/465125"},{"username":"ycjcl868","href":"https://github.com/ycjcl868","avatar":"https://avatars2.githubusercontent.com/u/13595509"}]},{"author":"typescript-eslint","name":"typescript-eslint","avatar":"https://github.com/typescript-eslint.png","url":"https://github.com/typescript-eslint/typescript-eslint","description":"✨ Monorepo for all the tooling which enables ESLint to support TypeScript","language":"TypeScript","languageColor":"#2b7489","stars":8042,"forks":1098,"currentPeriodStars":221,"builtBy":[{"username":"bradzacher","href":"https://github.com/bradzacher","avatar":"https://avatars2.githubusercontent.com/u/7462525"},{"username":"JamesHenry","href":"https://github.com/JamesHenry","avatar":"https://avatars2.githubusercontent.com/u/900523"},{"username":"armano2","href":"https://github.com/armano2","avatar":"https://avatars1.githubusercontent.com/u/625469"},{"username":"a-tarasyuk","href":"https://github.com/a-tarasyuk","avatar":"https://avatars0.githubusercontent.com/u/509265"},{"username":"soda0289","href":"https://github.com/soda0289","avatar":"https://avatars0.githubusercontent.com/u/2373964"}]}]
+[
+  {
+    "author": "jef",
+    "name": "nvidia-snatcher",
+    "href": "https://github.com/jef/nvidia-snatcher",
+    "description": "🤖 Autonomous robot for all your Nvidia needs",
+    "language": "TypeScript",
+    "stars": 549,
+    "forks": 259,
+    "starsInPeriod": 378
+  },
+  {
+    "author": "microsoft",
+    "name": "vscode",
+    "href": "https://github.com/microsoft/vscode",
+    "description": "Visual Studio Code",
+    "language": "TypeScript",
+    "stars": 105153,
+    "forks": 16826,
+    "starsInPeriod": 1793
+  },
+  {
+    "author": "actions",
+    "name": "starter-workflows",
+    "href": "https://github.com/actions/starter-workflows",
+    "description": "Accelerating new GitHub Actions workflows",
+    "language": "TypeScript",
+    "stars": 3377,
+    "forks": 2330,
+    "starsInPeriod": 207
+  },
+  {
+    "author": "blitz-js",
+    "name": "blitz",
+    "href": "https://github.com/blitz-js/blitz",
+    "description": "⚡️The Fullstack React Framework — built on Next.js",
+    "language": "TypeScript",
+    "stars": 4744,
+    "forks": 255,
+    "starsInPeriod": 535
+  },
+  {
+    "author": "Azure",
+    "name": "azure-sdk-for-js",
+    "href": "https://github.com/Azure/azure-sdk-for-js",
+    "description": "This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.",
+    "language": "TypeScript",
+    "stars": 760,
+    "forks": 406,
+    "starsInPeriod": 135
+  },
+  {
+    "author": "tailwindlabs",
+    "name": "headlessui",
+    "href": "https://github.com/tailwindlabs/headlessui",
+    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.",
+    "language": "TypeScript",
+    "stars": 2708,
+    "forks": 56,
+    "starsInPeriod": 2680
+  },
+  {
+    "author": "grafana",
+    "name": "grafana",
+    "href": "https://github.com/grafana/grafana",
+    "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+    "language": "TypeScript",
+    "stars": 37764,
+    "forks": 7677,
+    "starsInPeriod": 535
+  },
+  {
+    "author": "cyrildiagne",
+    "name": "ar-cutpaste",
+    "href": "https://github.com/cyrildiagne/ar-cutpaste",
+    "description": "Cut and paste your surroundings using AR",
+    "language": "TypeScript",
+    "stars": 11936,
+    "forks": 1646,
+    "starsInPeriod": 955
+  },
+  {
+    "author": "typeorm",
+    "name": "typeorm",
+    "href": "https://github.com/typeorm/typeorm",
+    "description": "ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
+    "language": "TypeScript",
+    "stars": 21457,
+    "forks": 3552,
+    "starsInPeriod": 501
+  },
+  {
+    "author": "elastic",
+    "name": "kibana",
+    "href": "https://github.com/elastic/kibana",
+    "description": "Your window into the Elastic Stack",
+    "language": "TypeScript",
+    "stars": 15022,
+    "forks": 6076,
+    "starsInPeriod": 165
+  },
+  {
+    "author": "cypress-io",
+    "name": "cypress-realworld-app",
+    "href": "https://github.com/cypress-io/cypress-realworld-app",
+    "description": "A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.",
+    "language": "TypeScript",
+    "stars": 1151,
+    "forks": 200,
+    "starsInPeriod": 237
+  },
+  {
+    "author": "pmndrs",
+    "name": "react-three-fiber",
+    "href": "https://github.com/pmndrs/react-three-fiber",
+    "description": "🇨🇭 A React renderer for Three.js (web and react-native)",
+    "language": "TypeScript",
+    "stars": 10315,
+    "forks": 506,
+    "starsInPeriod": 567
+  },
+  {
+    "author": "homebridge",
+    "name": "homebridge",
+    "href": "https://github.com/homebridge/homebridge",
+    "description": "HomeKit support for the impatient",
+    "language": "TypeScript",
+    "stars": 15789,
+    "forks": 1701,
+    "starsInPeriod": 323
+  },
+  {
+    "author": "snobu",
+    "name": "destreamer",
+    "href": "https://github.com/snobu/destreamer",
+    "description": "Save Microsoft Stream videos for offline enjoyment.",
+    "language": "TypeScript",
+    "stars": 830,
+    "forks": 164,
+    "starsInPeriod": 182
+  },
+  {
+    "author": "nestjs",
+    "name": "nest",
+    "href": "https://github.com/nestjs/nest",
+    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀",
+    "language": "TypeScript",
+    "stars": 31210,
+    "forks": 2800,
+    "starsInPeriod": 845
+  },
+  {
+    "author": "angular",
+    "name": "components",
+    "href": "https://github.com/angular/components",
+    "description": "Component infrastructure and Material Design components for Angular",
+    "language": "TypeScript",
+    "stars": 20419,
+    "forks": 5503,
+    "starsInPeriod": 146
+  },
+  {
+    "author": "desktop",
+    "name": "desktop",
+    "href": "https://github.com/desktop/desktop",
+    "description": "Simple collaboration from your desktop",
+    "language": "TypeScript",
+    "stars": 10082,
+    "forks": 5549,
+    "starsInPeriod": 244
+  },
+  {
+    "author": "microsoft",
+    "name": "playwright",
+    "href": "https://github.com/microsoft/playwright",
+    "description": "Node.js library to automate Chromium, Firefox and WebKit with a single API",
+    "language": "TypeScript",
+    "stars": 17443,
+    "forks": 656,
+    "starsInPeriod": 716
+  },
+  {
+    "author": "snowpackjs",
+    "name": "snowpack",
+    "href": "https://github.com/snowpackjs/snowpack",
+    "description": "WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️",
+    "language": "TypeScript",
+    "stars": 12841,
+    "forks": 479,
+    "starsInPeriod": 854
+  },
+  {
+    "author": "doodlewind",
+    "name": "jshistory-cn",
+    "href": "https://github.com/doodlewind/jshistory-cn",
+    "description": "🇨🇳 《JavaScript 20 年》中文版",
+    "language": "TypeScript",
+    "stars": 1987,
+    "forks": 125,
+    "starsInPeriod": 721
+  },
+  {
+    "author": "tannerlinsley",
+    "name": "react-query",
+    "href": "https://github.com/tannerlinsley/react-query",
+    "description": "⚛️ Hooks for fetching, caching and updating asynchronous data in React",
+    "language": "TypeScript",
+    "stars": 14323,
+    "forks": 550,
+    "starsInPeriod": 1617
+  },
+  {
+    "author": "pop-os",
+    "name": "shell",
+    "href": "https://github.com/pop-os/shell",
+    "description": "Pop!_OS Shell",
+    "language": "TypeScript",
+    "stars": 1881,
+    "forks": 94,
+    "starsInPeriod": 144
+  },
+  {
+    "author": "tensorflow",
+    "name": "tfjs-models",
+    "href": "https://github.com/tensorflow/tfjs-models",
+    "description": "Pretrained models for TensorFlow.js",
+    "language": "TypeScript",
+    "stars": 7462,
+    "forks": 2263,
+    "starsInPeriod": 294
+  },
+  {
+    "author": "marmelab",
+    "name": "react-admin",
+    "href": "https://github.com/marmelab/react-admin",
+    "description": "A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design",
+    "language": "TypeScript",
+    "stars": 14790,
+    "forks": 3170,
+    "starsInPeriod": 675
+  },
+  {
+    "author": "umijs",
+    "name": "umi",
+    "href": "https://github.com/umijs/umi",
+    "description": "🌋 Pluggable enterprise-level react application framework.",
+    "language": "TypeScript",
+    "stars": 9332,
+    "forks": 1377,
+    "starsInPeriod": 411
+  }
+]

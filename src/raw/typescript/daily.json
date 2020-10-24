@@ -1,3 +1,252 @@
-The deployment has been disabled
-
-DEPLOYMENT_DISABLED
+[
+  {
+    "author": "puppeteer",
+    "name": "puppeteer",
+    "href": "https://github.com/puppeteer/puppeteer",
+    "description": "Headless Chrome Node.js API",
+    "language": "TypeScript",
+    "stars": 65986,
+    "forks": 6812,
+    "starsInPeriod": 27
+  },
+  {
+    "author": "tannerlinsley",
+    "name": "react-query",
+    "href": "https://github.com/tannerlinsley/react-query",
+    "description": "⚛️ Hooks for fetching, caching and updating asynchronous data in React",
+    "language": "TypeScript",
+    "stars": 14323,
+    "forks": 550,
+    "starsInPeriod": 53
+  },
+  {
+    "author": "react-native-webview",
+    "name": "react-native-webview",
+    "href": "https://github.com/react-native-webview/react-native-webview",
+    "description": "React Native Cross-Platform WebView",
+    "language": "TypeScript",
+    "stars": 3159,
+    "forks": 1541,
+    "starsInPeriod": 28
+  },
+  {
+    "author": "sveltejs",
+    "name": "sapper",
+    "href": "https://github.com/sveltejs/sapper",
+    "description": "The next small thing in web development, powered by Svelte",
+    "language": "TypeScript",
+    "stars": 6339,
+    "forks": 416,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "webiny",
+    "name": "webiny-js",
+    "href": "https://github.com/webiny/webiny-js",
+    "description": "Platform for building serverless applications and APIs (Node.js, React, GraphQL)",
+    "language": "TypeScript",
+    "stars": 3329,
+    "forks": 284,
+    "starsInPeriod": 30
+  },
+  {
+    "author": "BabylonJS",
+    "name": "Babylon.js",
+    "href": "https://github.com/BabylonJS/Babylon.js",
+    "description": "Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.",
+    "language": "TypeScript",
+    "stars": 12508,
+    "forks": 2245,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "snowpackjs",
+    "name": "snowpack",
+    "href": "https://github.com/snowpackjs/snowpack",
+    "description": "WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️",
+    "language": "TypeScript",
+    "stars": 12841,
+    "forks": 479,
+    "starsInPeriod": 87
+  },
+  {
+    "author": "doodlewind",
+    "name": "jshistory-cn",
+    "href": "https://github.com/doodlewind/jshistory-cn",
+    "description": "🇨🇳 《JavaScript 20 年》中文版",
+    "language": "TypeScript",
+    "stars": 1987,
+    "forks": 125,
+    "starsInPeriod": 18
+  },
+  {
+    "author": "rrweb-io",
+    "name": "rrweb",
+    "href": "https://github.com/rrweb-io/rrweb",
+    "description": "record and replay the web",
+    "language": "TypeScript",
+    "stars": 7760,
+    "forks": 557,
+    "starsInPeriod": 16
+  },
+  {
+    "author": "tensorflow",
+    "name": "tensorboard",
+    "href": "https://github.com/tensorflow/tensorboard",
+    "description": "TensorFlow's Visualization Toolkit",
+    "language": "TypeScript",
+    "stars": 4994,
+    "forks": 1300,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "pmndrs",
+    "name": "react-three-fiber",
+    "href": "https://github.com/pmndrs/react-three-fiber",
+    "description": "🇨🇭 A React renderer for Three.js (web and react-native)",
+    "language": "TypeScript",
+    "stars": 10315,
+    "forks": 506,
+    "starsInPeriod": 34
+  },
+  {
+    "author": "angular",
+    "name": "angular",
+    "href": "https://github.com/angular/angular",
+    "description": "One framework. Mobile & desktop.",
+    "language": "TypeScript",
+    "stars": 67040,
+    "forks": 17786,
+    "starsInPeriod": 42
+  },
+  {
+    "author": "antfu",
+    "name": "vueuse",
+    "href": "https://github.com/antfu/vueuse",
+    "description": "🧰 Collection of Composition API utils for Vue 2 and 3",
+    "language": "TypeScript",
+    "stars": 1719,
+    "forks": 85,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "facebook",
+    "name": "jest",
+    "href": "https://github.com/facebook/jest",
+    "description": "Delightful JavaScript Testing.",
+    "language": "TypeScript",
+    "stars": 32868,
+    "forks": 4701,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "streamich",
+    "name": "react-use",
+    "href": "https://github.com/streamich/react-use",
+    "description": "React Hooks — 👍",
+    "language": "TypeScript",
+    "stars": 16164,
+    "forks": 1107,
+    "starsInPeriod": 31
+  },
+  {
+    "author": "mswjs",
+    "name": "msw",
+    "href": "https://github.com/mswjs/msw",
+    "description": "Seamless REST/GraphQL API mocking library for browser and Node.",
+    "language": "TypeScript",
+    "stars": 3625,
+    "forks": 90,
+    "starsInPeriod": 64
+  },
+  {
+    "author": "smogon",
+    "name": "pokemon-showdown",
+    "href": "https://github.com/smogon/pokemon-showdown",
+    "description": "Pokémon battle simulator.",
+    "language": "TypeScript",
+    "stars": 2830,
+    "forks": 1801,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "drawrowfly",
+    "name": "tiktok-scraper",
+    "href": "https://github.com/drawrowfly/tiktok-scraper",
+    "description": "TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.",
+    "language": "TypeScript",
+    "stars": 781,
+    "forks": 171,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "pixijs",
+    "name": "pixi.js",
+    "href": "https://github.com/pixijs/pixi.js",
+    "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.",
+    "language": "TypeScript",
+    "stars": 30913,
+    "forks": 4178,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "chakra-ui",
+    "name": "chakra-ui",
+    "href": "https://github.com/chakra-ui/chakra-ui",
+    "description": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
+    "language": "TypeScript",
+    "stars": 11352,
+    "forks": 814,
+    "starsInPeriod": 44
+  },
+  {
+    "author": "aws-amplify",
+    "name": "amplify-js",
+    "href": "https://github.com/aws-amplify/amplify-js",
+    "description": "A declarative JavaScript library for application development using cloud services.",
+    "language": "TypeScript",
+    "stars": 7483,
+    "forks": 1470,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "microsoft",
+    "name": "fluentui",
+    "href": "https://github.com/microsoft/fluentui",
+    "description": "We've moved! UI Fabric is now Fluent UI - A set of React components for building Microsoft web experiences.",
+    "language": "TypeScript",
+    "stars": 9634,
+    "forks": 1726,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "typegoose",
+    "name": "typegoose",
+    "href": "https://github.com/typegoose/typegoose",
+    "description": "Typegoose - Define Mongoose models using TypeScript classes.",
+    "language": "TypeScript",
+    "stars": 903,
+    "forks": 73,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "wbkd",
+    "name": "react-flow",
+    "href": "https://github.com/wbkd/react-flow",
+    "description": "Highly customizable library for building interactive node-based editors, flow charts and diagrams",
+    "language": "TypeScript",
+    "stars": 1574,
+    "forks": 82,
+    "starsInPeriod": 52
+  },
+  {
+    "author": "verdaccio",
+    "name": "verdaccio",
+    "href": "https://github.com/verdaccio/verdaccio",
+    "description": "📦🔐A lightweight private npm proxy registry",
+    "language": "TypeScript",
+    "stars": 10541,
+    "forks": 929,
+    "starsInPeriod": 13
+  }
+]
