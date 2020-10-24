@@ -1,7 +1,7 @@
 name: monthly trending update
 on:
-  # schedule:
-  #   - cron: "0 11 1 * *"
+  schedule:
+    - cron: "0 11 1 * *"
   workflow_dispatch:
 
 jobs:

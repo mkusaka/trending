@@ -28,12 +28,12 @@ const targetLanguages = [
 async function scraper(period: Period) {
   const result = (await trending(period)) as Repository[];
   storeRawJsonFile("general", period, JSON.stringify(result, null, 2));
-  delay(500);
+  delay(1000);
 
   targetLanguages.forEach(async (language) => {
     const result = (await trending(period, language)) as Repository[];
     storeRawJsonFile(language, period, JSON.stringify(result, null, 2));
-    delay(500);
+    delay(1000);
   });
 }
 
