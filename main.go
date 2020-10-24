@@ -2,49 +2,21 @@ package main
 
 import (
 	"encoding/json"
-	"fmt"
 	"io/ioutil"
 	"log"
-	"net/http"
 	"os"
 	"strings"
-	"time"
 )
 
-type Client struct {
-	client *http.Client
-
-	Logger *log.Logger
-}
-
-func NewClient(timeoutSecond time.Duration) *Client {
-	client := &http.Client{
-		Timeout: timeoutSecond,
-	}
-	return &Client{
-		client: client,
-		Logger: log.New(ioutil.Discard, "go-client: ", log.LstdFlags),
-	}
-}
-
-type User struct {
-	Username string
-	Href     string
-	Avatar   string
-}
-
 type Trend struct {
-	Author             string
-	Name               string
-	Avatar             string
-	Url                string
-	Description        string
-	Language           string
-	LanguageColor      string
-	Stars              int
-	Forks              int
-	CurrentPeriodStars int
-	BuiltBy            []User
+	Author      string
+	Name        string
+	Avatar      string
+	Href        string
+	Description string
+	Language    string
+	Stars       int
+	Forks       int
 }
 
 func ParseTrend(RawTrending string) []Trend {
@@ -57,12 +29,12 @@ func GenerateMarkDown(trends []Trend, trendTitle string, depth int) string {
 	trendMD := strings.Repeat("#", depth) + " " + trendTitle + "\n"
 	for _, trend := range trends {
 		if trendTitle == "general" {
-			trendMD += "- [" + trend.Name + "](" + trend.Url + ") : " + trend.Language + "\n"
+			trendMD += "- [" + trend.Name + "](" + trend.Href + ") : " + trend.Language + "\n"
 			if strings.TrimSpace(trend.Description) != "" {
 				trendMD += "  - " + trend.Description + "\n"
 			}
 		} else {
-			trendMD += "- [" + trend.Name + "](" + trend.Url + ")\n  - " + trend.Description + "\n"
+			trendMD += "- [" + trend.Name + "](" + trend.Href + ")\n  - " + trend.Description + "\n"
 		}
 	}
 	return trendMD
@@ -88,50 +60,6 @@ var (
 	}
 )
 
-const baseUrl = "https://github-trending-api.now.sh/repositories"
-
-// https://githubtrendingapi.docs.apiary.io/#reference/0/languages-collection/list-trending-repositories
-func URLGenerator(period string) func(language string) string {
-	return func(language string) string {
-		return baseUrl + "?language=" + language + "&since=" + period
-	}
-}
-
-func FetchAndGenerateJSON(period string) {
-	c := NewClient(10 * time.Second)
-	targets := append([]string{General}, Languages...)
-
-	periodURLGenerator := URLGenerator(period)
-	for _, language := range targets {
-		url := periodURLGenerator(language)
-		fmt.Print(url + "\n")
-		resp, err := c.client.Get(url)
-		if err != nil {
-			log.Fatal("something error")
-		}
-
-		if resp.Body != nil {
-			defer resp.Body.Close()
-			body, err := ioutil.ReadAll(resp.Body)
-			if err != nil {
-				log.Fatal("Body io convert error")
-			}
-			if language == "" {
-				language = "general"
-			}
-			jsonFilename := "src/raw/" + language + "/" + period + ".json"
-			jsonfile, err := os.Create(jsonFilename)
-			if err != nil {
-				log.Fatalf("something wrong with create md file %s", jsonFilename)
-			}
-			defer jsonfile.Close()
-
-			jsonfile.WriteString(string(body))
-		}
-		time.Sleep(1 * time.Second)
-	}
-}
-
 func storeToLanguageMarkdown(language, period string) {
 	jsonFilename := "src/raw/" + language + "/" + period + ".json"
 	jsonByteString, err := ioutil.ReadFile(jsonFilename)
@@ -144,7 +72,7 @@ func storeToLanguageMarkdown(language, period string) {
 	filename := "src/languages/" + language + "/" + period + ".md"
 	f, err := os.Create(filename)
 	if err != nil {
-		log.Fatalf("something wrong with create md file %s", filename)
+		log.Fatalf("something wrong with create md file %s with %s", filename, err)
 	}
 	defer f.Close()
 
@@ -173,16 +101,6 @@ func storeToPeriodMarkdown(period string) {
 		md += GenerateMarkDown(parsed, language, 2)
 	}
 	f.WriteString(md)
-}
-
-func FetchJSON(period string, isAllPeriod bool) {
-	if isAllPeriod {
-		for _, _period := range Periods {
-			FetchAndGenerateJSON(_period)
-		}
-	} else {
-		FetchAndGenerateJSON(period)
-	}
 }
 
 func GeneratePeriodMarkdown(period string, isAllPeriod bool) {
@@ -233,7 +151,6 @@ func main() {
 		log.Fatal("invalid Period given. Choose valid period from daily, weekly, monthly or all.")
 	}
 
-	FetchJSON(period, isAllPeriod)
 	GeneratePeriodMarkdown(period, isAllPeriod)
 
 	if language != "" {

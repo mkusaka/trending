@@ -12,6 +12,9 @@ jobs:
       - uses: actions/checkout@v1
         with:
           fetch-depth: 1
+      - uses: actions/setup-node@v1
+        with:
+          node-version: "14"
       - name: set environment variable
         run: |
           echo ::set-env name=update_branch::daily-$(date +%F)
@@ -21,7 +24,9 @@ jobs:
           git config --global user.email "action@github.com"
           git config --global user.name "github-actions[bot]"
           git checkout -b ${{ env.update_branch }}
-          ./update daily
+          yarn
+          yarn scrape daily
+          ./main daily
           git add src/
           git commit -m "daily update "$(date +%F)
           body="@mkusaka"
