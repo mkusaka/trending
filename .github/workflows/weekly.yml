@@ -1,7 +1,8 @@
 name: weekly trending update
 on:
-  schedule:
-    - cron: "0 12 * * MON"
+  # schedule:
+  #   - cron: "0 12 * * MON"
+  workflow_dispatch:
 
 jobs:
   fetch-and-update:

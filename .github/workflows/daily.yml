@@ -1,7 +1,8 @@
 name: daily trending update
 on:
-  schedule:
-    - cron: "0 13 * * *"
+  # schedule:
+  #   - cron: "0 13 * * *"
+  workflow_dispatch:
 
 jobs:
   fetch-and-update:
