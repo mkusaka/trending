@@ -1,23 +1,23 @@
 [
   {
+    "author": "iawia002",
+    "name": "annie",
+    "href": "https://github.com/iawia002/annie",
+    "description": "👾 Fast, simple and clean video downloader",
+    "language": "Go",
+    "stars": 12669,
+    "forks": 1412,
+    "starsInPeriod": 40
+  },
+  {
     "author": "icexin",
     "name": "eggos",
     "href": "https://github.com/icexin/eggos",
     "description": "A Go unikernel running on x86 bare metal",
     "language": "Go",
-    "stars": 876,
-    "forks": 25,
-    "starsInPeriod": 282
-  },
-  {
-    "author": "hashicorp",
-    "name": "consul",
-    "href": "https://github.com/hashicorp/consul",
-    "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
-    "language": "Go",
-    "stars": 20427,
-    "forks": 3499,
-    "starsInPeriod": 12
+    "stars": 961,
+    "forks": 28,
+    "starsInPeriod": 117
   },
   {
     "author": "arl",
@@ -25,29 +25,39 @@
     "href": "https://github.com/arl/statsviz",
     "description": "🚀 Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser",
     "language": "Go",
-    "stars": 604,
-    "forks": 23,
-    "starsInPeriod": 162
+    "stars": 653,
+    "forks": 24,
+    "starsInPeriod": 96
   },
   {
-    "author": "prometheus",
-    "name": "prometheus",
-    "href": "https://github.com/prometheus/prometheus",
-    "description": "The Prometheus monitoring system and time series database.",
+    "author": "google",
+    "name": "gvisor",
+    "href": "https://github.com/google/gvisor",
+    "description": "Application Kernel for Containers",
     "language": "Go",
-    "stars": 33483,
-    "forks": 5238,
-    "starsInPeriod": 24
+    "stars": 10523,
+    "forks": 797,
+    "starsInPeriod": 13
   },
   {
-    "author": "robertkrimen",
-    "name": "otto",
-    "href": "https://github.com/robertkrimen/otto",
-    "description": "A JavaScript interpreter in Go (golang)",
+    "author": "hashicorp",
+    "name": "consul",
+    "href": "https://github.com/hashicorp/consul",
+    "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
     "language": "Go",
-    "stars": 5617,
-    "forks": 483,
-    "starsInPeriod": 17
+    "stars": 20432,
+    "forks": 3501,
+    "starsInPeriod": 21
+  },
+  {
+    "author": "alexellis",
+    "name": "k3sup",
+    "href": "https://github.com/alexellis/k3sup",
+    "description": "bootstrap Kubernetes with k3s over SSH < 1 min 🚀",
+    "language": "Go",
+    "stars": 2500,
+    "forks": 168,
+    "starsInPeriod": 18
   },
   {
     "author": "hashicorp",
@@ -55,99 +65,19 @@
     "href": "https://github.com/hashicorp/nomad",
     "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
     "language": "Go",
-    "stars": 7013,
-    "forks": 1179,
-    "starsInPeriod": 6
+    "stars": 7021,
+    "forks": 1180,
+    "starsInPeriod": 14
   },
   {
-    "author": "btcsuite",
-    "name": "btcd",
-    "href": "https://github.com/btcsuite/btcd",
-    "description": "An alternative full node bitcoin implementation written in Go (golang)",
+    "author": "denverquane",
+    "name": "automuteus",
+    "href": "https://github.com/denverquane/automuteus",
+    "description": "Discord Bot to automute Among Us players at round transitions, in conjunction with https://github.com/denverquane/amonguscapture",
     "language": "Go",
-    "stars": 3967,
-    "forks": 1354,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "golangci",
-    "name": "golangci-lint",
-    "href": "https://github.com/golangci/golangci-lint",
-    "description": "Fast linters Runner for Go",
-    "language": "Go",
-    "stars": 6378,
-    "forks": 580,
-    "starsInPeriod": 21
-  },
-  {
-    "author": "hyperledger",
-    "name": "fabric-samples",
-    "href": "https://github.com/hyperledger/fabric-samples",
-    "description": null,
-    "language": "Go",
-    "stars": 1482,
-    "forks": 1864,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "mattermost",
-    "name": "mattermost-server",
-    "href": "https://github.com/mattermost/mattermost-server",
-    "description": "Open source Slack-alternative in Golang and React - Mattermost",
-    "language": "Go",
-    "stars": 19236,
-    "forks": 4585,
-    "starsInPeriod": 23
-  },
-  {
-    "author": "kubernetes",
-    "name": "client-go",
-    "href": "https://github.com/kubernetes/client-go",
-    "description": "Go client for Kubernetes.",
-    "language": "Go",
-    "stars": 3943,
-    "forks": 1685,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "rancher",
-    "name": "k3s",
-    "href": "https://github.com/rancher/k3s",
-    "description": "Lightweight Kubernetes",
-    "language": "Go",
-    "stars": 14539,
-    "forks": 1153,
-    "starsInPeriod": 20
-  },
-  {
-    "author": "amit-davidson",
-    "name": "Chronos",
-    "href": "https://github.com/amit-davidson/Chronos",
-    "description": "Chronos - A static race detector for the go language",
-    "language": "Go",
-    "stars": 188,
-    "forks": 3,
-    "starsInPeriod": 40
-  },
-  {
-    "author": "tsenart",
-    "name": "vegeta",
-    "href": "https://github.com/tsenart/vegeta",
-    "description": "HTTP load testing tool and library. It's over 9000!",
-    "language": "Go",
-    "stars": 15670,
-    "forks": 1001,
-    "starsInPeriod": 10
-  },
-  {
-    "author": "golang",
-    "name": "protobuf",
-    "href": "https://github.com/golang/protobuf",
-    "description": "Go support for Google's protocol buffers",
-    "language": "Go",
-    "stars": 7118,
-    "forks": 1328,
-    "starsInPeriod": 6
+    "stars": 476,
+    "forks": 112,
+    "starsInPeriod": 18
   },
   {
     "author": "ardanlabs",
@@ -155,69 +85,99 @@
     "href": "https://github.com/ardanlabs/gotraining",
     "description": "Go Training Class Material :",
     "language": "Go",
-    "stars": 8321,
-    "forks": 1625,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "prometheus",
-    "name": "client_golang",
-    "href": "https://github.com/prometheus/client_golang",
-    "description": "Prometheus instrumentation library for Go applications",
-    "language": "Go",
-    "stars": 2598,
-    "forks": 659,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "go-redis",
-    "name": "redis",
-    "href": "https://github.com/go-redis/redis",
-    "description": "Type-safe Redis client for Golang",
-    "language": "Go",
-    "stars": 9915,
-    "forks": 1267,
+    "stars": 8326,
+    "forks": 1626,
     "starsInPeriod": 12
   },
   {
-    "author": "prometheus-operator",
-    "name": "prometheus-operator",
-    "href": "https://github.com/prometheus-operator/prometheus-operator",
-    "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+    "author": "omriharel",
+    "name": "deej",
+    "href": "https://github.com/omriharel/deej",
+    "description": "Set app volumes with real sliders! deej is an Arduino & Go project to let you build your own hardware mixer for Windows and Linux",
     "language": "Go",
-    "stars": 4853,
-    "forks": 2179,
-    "starsInPeriod": 6
+    "stars": 439,
+    "forks": 64,
+    "starsInPeriod": 9
   },
   {
-    "author": "avelino",
-    "name": "awesome-go",
-    "href": "https://github.com/avelino/awesome-go",
-    "description": "A curated list of awesome Go frameworks, libraries and software",
+    "author": "p4gefau1t",
+    "name": "trojan-go",
+    "href": "https://github.com/p4gefau1t/trojan-go",
+    "description": "Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/",
     "language": "Go",
-    "stars": 58470,
-    "forks": 7740,
-    "starsInPeriod": 41
+    "stars": 2091,
+    "forks": 543,
+    "starsInPeriod": 22
   },
   {
-    "author": "dgraph-io",
-    "name": "dgraph",
-    "href": "https://github.com/dgraph-io/dgraph",
-    "description": "Native GraphQL Database with graph backend",
+    "author": "amit-davidson",
+    "name": "Chronos",
+    "href": "https://github.com/amit-davidson/Chronos",
+    "description": "Chronos - A static race detector for the go language",
     "language": "Go",
-    "stars": 14137,
-    "forks": 1038,
-    "starsInPeriod": 11
+    "stars": 208,
+    "forks": 4,
+    "starsInPeriod": 61
   },
   {
-    "author": "mozilla",
-    "name": "sops",
-    "href": "https://github.com/mozilla/sops",
-    "description": "Simple and flexible tool for managing secrets",
+    "author": "bwmarrin",
+    "name": "discordgo",
+    "href": "https://github.com/bwmarrin/discordgo",
+    "description": "(Golang) Go bindings for Discord",
     "language": "Go",
-    "stars": 5253,
-    "forks": 338,
-    "starsInPeriod": 23
+    "stars": 1546,
+    "forks": 300,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "sourcegraph",
+    "name": "sourcegraph",
+    "href": "https://github.com/sourcegraph/sourcegraph",
+    "description": "Universal code search (self-hosted)",
+    "language": "Go",
+    "stars": 4024,
+    "forks": 445,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "photoprism",
+    "name": "photoprism",
+    "href": "https://github.com/photoprism/photoprism",
+    "description": "Personal Photo Management powered by Go and Google TensorFlow",
+    "language": "Go",
+    "stars": 6644,
+    "forks": 401,
+    "starsInPeriod": 28
+  },
+  {
+    "author": "rclone",
+    "name": "rclone",
+    "href": "https://github.com/rclone/rclone",
+    "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+    "language": "Go",
+    "stars": 23965,
+    "forks": 2042,
+    "starsInPeriod": 32
+  },
+  {
+    "author": "fatih",
+    "name": "color",
+    "href": "https://github.com/fatih/color",
+    "description": "Color package for Go (golang)",
+    "language": "Go",
+    "stars": 3631,
+    "forks": 454,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "aws",
+    "name": "copilot-cli",
+    "href": "https://github.com/aws/copilot-cli",
+    "description": "The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on Amazon ECS and AWS Fargate.",
+    "language": "Go",
+    "stars": 1033,
+    "forks": 104,
+    "starsInPeriod": 9
   },
   {
     "author": "ZupIT",
@@ -225,28 +185,68 @@
     "href": "https://github.com/ZupIT/ritchie-cli",
     "description": "Ritchie CLI is an open source tool that allows to create, store and share any kind of automations, executing them through command lines, to run operations or start workflows ⚙️ 🖥 💡",
     "language": "Go",
-    "stars": 284,
-    "forks": 65,
-    "starsInPeriod": 4
+    "stars": 291,
+    "forks": 66,
+    "starsInPeriod": 10
   },
   {
-    "author": "argoproj",
-    "name": "argo-cd",
-    "href": "https://github.com/argoproj/argo-cd",
-    "description": "Declarative continuous deployment for Kubernetes.",
+    "author": "sundowndev",
+    "name": "PhoneInfoga",
+    "href": "https://github.com/sundowndev/PhoneInfoga",
+    "description": "Advanced information gathering & OSINT framework for phone numbers",
     "language": "Go",
-    "stars": 4090,
-    "forks": 884,
-    "starsInPeriod": 8
+    "stars": 2343,
+    "forks": 905,
+    "starsInPeriod": 6
   },
   {
-    "author": "gorilla",
-    "name": "websocket",
-    "href": "https://github.com/gorilla/websocket",
-    "description": "A fast, well-tested and widely used WebSocket implementation for Go.",
+    "author": "fabiolb",
+    "name": "fabio",
+    "href": "https://github.com/fabiolb/fabio",
+    "description": "Consul Load-Balancing made simple",
     "language": "Go",
-    "stars": 13144,
-    "forks": 2211,
-    "starsInPeriod": 17
+    "stars": 6465,
+    "forks": 565,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "bettercap",
+    "name": "bettercap",
+    "href": "https://github.com/bettercap/bettercap",
+    "description": "The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.",
+    "language": "Go",
+    "stars": 7979,
+    "forks": 824,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "bitepeng",
+    "name": "b0pass",
+    "href": "https://github.com/bitepeng/b0pass",
+    "description": "百灵快传：基于Go语言的高性能 \"手机电脑超大文件传输神器\"、\"局域网共享文件服务器\"。LAN large file transfer tool。",
+    "language": "Go",
+    "stars": 586,
+    "forks": 88,
+    "starsInPeriod": 99
+  },
+  {
+    "author": "robertkrimen",
+    "name": "otto",
+    "href": "https://github.com/robertkrimen/otto",
+    "description": "A JavaScript interpreter in Go (golang)",
+    "language": "Go",
+    "stars": 5624,
+    "forks": 483,
+    "starsInPeriod": 22
+  },
+  {
+    "author": "pion",
+    "name": "webrtc",
+    "href": "https://github.com/pion/webrtc",
+    "description": "Pure Go implementation of the WebRTC API",
+    "language": "Go",
+    "stars": 5631,
+    "forks": 667,
+    "starsInPeriod": 18
   }
 ]

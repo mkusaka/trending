@@ -1,51 +1,51 @@
 # kotlin
-- [coil](https://github.com/coil-kt/coil)
-  - Image loading for Android backed by Kotlin Coroutines.
-- [Music-Player-GO](https://github.com/enricocid/Music-Player-GO)
-  - 🎶🎼 Very slim music player 👨‍🎤 100% made in Italy 🍕🌳🌞🍝🌄
-- [element-android](https://github.com/vector-im/element-android)
-  - A glossy Matrix collaboration client for Android.
-- [intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template)
-  - Template repository for creating plugins for IntelliJ Platform
-- [compose-samples](https://github.com/android/compose-samples)
-  - Official Jetpack Compose samples.
-- [EitherNet](https://github.com/slackhq/EitherNet)
-  - A pluggable sealed API result type for modeling Retrofit responses.
-- [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization)
-  - Kotlin multiplatform / multi-format serialization
-- [ktlint](https://github.com/pinterest/ktlint)
-  - An anti-bikeshedding Kotlin linter with built-in formatter
-- [uamp](https://github.com/android/uamp)
-  - A sample audio app for Android
-- [architecture-components-samples](https://github.com/android/architecture-components-samples)
-  - Samples for Android Architecture Components.
 - [tachiyomi](https://github.com/inorichi/tachiyomi)
   - Free and open source manga reader for Android
-- [material-components-android-examples](https://github.com/material-components/material-components-android-examples)
-  - Companion example apps and code for MDC-Android.
+- [VancedManager](https://github.com/YTVanced/VancedManager)
+  - Vanced Installer
+- [v2rayNG](https://github.com/2dust/v2rayNG)
+  - 
+- [tachiyomi-extensions](https://github.com/inorichi/tachiyomi-extensions)
+  - 
+- [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
+  - A shadowsocks client for Android
+- [Unciv](https://github.com/yairm210/Unciv)
+  - Open-source Android/Desktop remake of Civ V
+- [mirai-console](https://github.com/mamoe/mirai-console)
+  - mirai 的高效率 QQ 机器人控制台
+- [ridesharing-uber-lyft-app](https://github.com/MindorksOpenSource/ridesharing-uber-lyft-app)
+  - Ride-Sharing Uber Lyft Android App - Learn to build a ride-sharing Android Taxi Clone App like Uber, Lyft - Open-Source Project By MindOrks
+- [fenix](https://github.com/mozilla-mobile/fenix)
+  - Firefox for Android
+- [Music-Player-GO](https://github.com/enricocid/Music-Player-GO)
+  - 🎶🎼 Very slim music player 👨‍🎤 100% made in Italy 🍕🌳🌞🍝🌄
+- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android)
+  - Native Android app using the Apple/Google exposure notification API.
+- [kotlin](https://github.com/JetBrains/kotlin)
+  - The Kotlin Programming Language
+- [mirai](https://github.com/mamoe/mirai)
+  - 高效率 QQ 机器人框架 / High-performance bot framework for Tencent QQ
+- [ideavim](https://github.com/JetBrains/ideavim)
+  - Vim emulation plug-in for IDEs based on the IntelliJ platform.
+- [android-kotlin-fundamentals-starter-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-starter-apps)
+  - android-kotlin-fundamentals-starter-apps
 - [AppIntro](https://github.com/AppIntro/AppIntro)
   - Make a cool intro for your Android app.
-- [awesome-android-kotlin-apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps)
-  - [Hacktoberfest] 👓 A curated list of awesome android kotlin apps by open-source contributors.
-- [ktor](https://github.com/ktorio/ktor)
-  - Framework for quickly creating connected applications in Kotlin with minimal effort
-- [asciinema-vsync](https://github.com/JakeWharton/asciinema-vsync)
-  - Batch the commands inside an Asciinema JSON file to reduce flickering
-- [Pokedex](https://github.com/skydoves/Pokedex)
-  - 🗡️ Android Pokedex using Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
-- [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines)
-  - Library support for Kotlin coroutines
-- [okio](https://github.com/square/okio)
-  - A modern I/O library for Android, Kotlin, and Java.
-- [dotsindicator](https://github.com/tommybuonomo/dotsindicator)
-  - Three material Dots Indicators for view pagers in Android !
-- [android-showcase](https://github.com/igorwojda/android-showcase)
-  - 💎 Android application following best practices: Kotlin, coroutines, Clean Architecture, feature modules, tests, MVVM, static analysis...
-- [mockk](https://github.com/mockk/mockk)
-  - mocking library for Kotlin
-- [PlayAndroid](https://github.com/zhujiang521/PlayAndroid)
-  - MVVM版玩安卓
-- [mapbox-navigation-android](https://github.com/mapbox/mapbox-navigation-android)
-  - Mapbox Navigation SDK for Android
-- [mockito-kotlin](https://github.com/nhaarman/mockito-kotlin)
-  - Using Mockito with Kotlin
+- [OpenOctober](https://github.com/IEEESFIT1/OpenOctober)
+  - Open-October contribution destination. Midnight 18th Oct '20 - 31st Oct '20.
+- [Loritta](https://github.com/LorittaBot/Loritta)
+  - 💁 A multipurpose, multilanguage, customizable, modular, and very cute bot for Discord using JDA! ~Making your server more awesome~
+- [ImagePicker](https://github.com/Dhaval2404/ImagePicker)
+  - 📸Image Picker for Android, Pick an image from Gallery or Capture a new image with Camera
+- [intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template)
+  - Template repository for creating plugins for IntelliJ Platform
+- [client](https://github.com/kami-blue/client)
+  - KAMI Blue: a continuation of KAMI | LOOKING FOR MAINTAINERS. CHECK README.
+- [SmoothBottomBar](https://github.com/ibrahimsn98/SmoothBottomBar)
+  - A lightweight Android material bottom navigation bar library
+- [uamp](https://github.com/android/uamp)
+  - A sample audio app for Android
+- [compose-to-edge](https://github.com/evowizz/compose-to-edge)
+  - Going edge-to-edge, Jetpack Compose style!
+- [Jenny](https://github.com/LanderlYoung/Jenny)
+  - JNI glue code generator
