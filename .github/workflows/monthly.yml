@@ -39,6 +39,6 @@ jobs:
         uses: repo-sync/pull-request@v2
         with:
           source_branch: ${{ env.update_branch }} # If blank, default: triggered branch
-          destination_branch: "master" # If blank, default: master
+          destination_branch: "main" # If blank, default: master
           pr_title: ${{ env.pr_title }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
