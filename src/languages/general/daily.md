@@ -1,51 +1,51 @@
 # general
-- [ru-gpts](https://github.com/sberbank-ai/ru-gpts) : Python
-  - Russian GPT3 models.
+- [NewPipe](https://github.com/TeamNewPipe/NewPipe) : Java
+  - A libre lightweight streaming front-end for Android.
 - [edex-ui](https://github.com/GitSquared/edex-ui) : JavaScript
   - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [eul](https://github.com/gao-sun/eul) : Swift
-  - 🖥️ macOS status monitoring app written in SwiftUI.
-- [node](https://github.com/nodejs/node) : JavaScript
-  - Node.js JavaScript runtime ✨🐢🚀✨
-- [scripts](https://github.com/lxk0301/scripts) : JavaScript
-  - 京东薅羊毛工具, 京东水果、宠物、种豆 aff 互助讨论组：https://t.me/JD_fruit_pet
-- [rust-gpu](https://github.com/EmbarkStudios/rust-gpu) : Rust
-  - 🐉 Making Rust a first-class language and ecosystem for GPU code 🚧
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [eggos](https://github.com/icexin/eggos) : Go
-  - A Go unikernel running on x86 bare metal
-- [ShameCom](https://github.com/ShameCom/ShameCom) : 
-  - 收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！
-- [create-react-app](https://github.com/facebook/create-react-app) : JavaScript
-  - Set up a modern web app by running one command.
-- [fastbook](https://github.com/fastai/fastbook) : Jupyter Notebook
-  - The fastai book, published as Jupyter Notebooks
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course) : JavaScript
-  - Starter files, final projects and FAQ for my Complete JavaScript course
-- [yyjson](https://github.com/ibireme/yyjson) : C
-  - The fastest JSON library in C
-- [jdk](https://github.com/openjdk/jdk) : Java
-  - JDK main-line development
-- [scalene](https://github.com/emeryberger/scalene) : Python
-  - Scalene: a high-performance, high-precision CPU and memory profiler for Python
-- [widevine-l3-decryptor](https://github.com/tomer8007/widevine-l3-decryptor) : JavaScript
-  - A Chrome extension that demonstrates bypassing Widevine L3 DRM
-- [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) : 
-  - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
-- [pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) : Python
-  - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
-- [ansible](https://github.com/ansible/ansible) : Python
-  - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
-- [wtfpython](https://github.com/satwikkansal/wtfpython) : Python
-  - What the f*ck Python?
-- [Reflection_Summary](https://github.com/sladesha/Reflection_Summary) : 
-  - 算法理论基础知识应知应会
-- [ish](https://github.com/ish-app/ish) : C
-  - Linux shell for iOS
 - [endlessh](https://github.com/skeeto/endlessh) : C
   - SSH tarpit that slowly sends an endless banner
-- [Apollo-11](https://github.com/chrislgarry/Apollo-11) : Assembly
-  - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
-- [Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) : 
-  - 👦 👧 Technical-Interview guidelines written for those who started studying programming. I wish you all the best. 👾
+- [sherlock](https://github.com/sherlock-project/sherlock) : Python
+  - 🔎 Hunt down social media accounts by username across social networks
+- [eul](https://github.com/gao-sun/eul) : Swift
+  - 🖥️ macOS status monitoring app written in SwiftUI.
+- [fastbook](https://github.com/fastai/fastbook) : Jupyter Notebook
+  - The fastai book, published as Jupyter Notebooks
+- [pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) : Python
+  - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
+- [node](https://github.com/nodejs/node) : JavaScript
+  - Node.js JavaScript runtime ✨🐢🚀✨
+- [nat](https://github.com/willdoescode/nat) : Rust
+  - ⚡️nat - the 'ls' replacement you never knew you needed⚡️
+- [rust-gpu](https://github.com/EmbarkStudios/rust-gpu) : Rust
+  - 🐉 Making Rust a first-class language and ecosystem for GPU code 🚧
+- [youtube-dl](https://github.com/l1ving/youtube-dl) : Python
+  - A copyright-respecting fork of youtube-dl
+- [dmca](https://github.com/github/dmca) : Rich Text Format
+  - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
+- [taobao-11-11](https://github.com/hyue418/taobao-11-11) : JavaScript
+  - 🚀2020淘宝+京东+支付宝双十一全民养猫|全民营业自动化脚本【全额奖励，防检测】
+- [ai-fundamentals](https://github.com/MicrosoftDocs/ai-fundamentals) : Jupyter Notebook
+  - Code samples for AI fundamentals
+- [lede](https://github.com/coolsnowwolf/lede) : C
+  - Lean's OpenWrt source
+- [ShameCom](https://github.com/ShameCom/ShameCom) : 
+  - 收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！
+- [SkyAR](https://github.com/jiupinjia/SkyAR) : Python
+  - Dynamic sky replacement and harmonization in videos
+- [you-get](https://github.com/soimort/you-get) : Python
+  - ⏬ Dumb downloader that scrapes the web
+- [ru-gpts](https://github.com/sberbank-ai/ru-gpts) : Python
+  - Russian GPT3 models.
+- [core](https://github.com/home-assistant/core) : Python
+  - 🏡 Open source home automation that puts local control and privacy first
+- [advmlthreatmatrix](https://github.com/mitre/advmlthreatmatrix) : 
+  - Adversarial Threat Matrix
+- [openpilot](https://github.com/commaai/openpilot) : C++
+  - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
+- [Hazel](https://github.com/TheCherno/Hazel) : C++
+  - Hazel Engine
+- [node-ytdl-core](https://github.com/fent/node-ytdl-core) : HTML
+  - YouTube video downloader in javascript.
+- [react-chrono](https://github.com/prabhuignoto/react-chrono) : TypeScript
+  - Modern Timeline component for React

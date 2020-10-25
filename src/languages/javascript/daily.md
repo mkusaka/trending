@@ -3,49 +3,49 @@
   - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [node](https://github.com/nodejs/node)
   - Node.js JavaScript runtime ✨🐢🚀✨
+- [taobao-11-11](https://github.com/hyue418/taobao-11-11)
+  - 🚀2020淘宝+京东+支付宝双十一全民养猫|全民营业自动化脚本【全额奖励，防检测】
 - [scripts](https://github.com/lxk0301/scripts)
-  - 京东薅羊毛工具, 京东水果、宠物、种豆 aff 互助讨论组：https://t.me/JD_fruit_pet
+  - 京东薅羊毛工具, 京东水果、宠物、种豆等等
+- [bongo.cat](https://github.com/Externalizable/bongo.cat)
+  - Hit the bongos like Bongo Cat!
 - [create-react-app](https://github.com/facebook/create-react-app)
   - Set up a modern web app by running one command.
 - [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
   - Starter files, final projects and FAQ for my Complete JavaScript course
 - [widevine-l3-decryptor](https://github.com/tomer8007/widevine-l3-decryptor)
   - A Chrome extension that demonstrates bypassing Widevine L3 DRM
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [bongo.cat](https://github.com/Externalizable/bongo.cat)
-  - Hit the bongos like Bongo Cat!
-- [quasar](https://github.com/quasarframework/quasar)
-  - Quasar Framework - Build high-performance VueJS user interfaces in record time
-- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
-  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [d3](https://github.com/d3/d3)
-  - Bring data to life with SVG, Canvas and HTML. 📊📈🎉
-- [svelte](https://github.com/sveltejs/svelte)
-  - Cybernetically enhanced web apps
-- [taobao-11-11](https://github.com/hyue418/taobao-11-11)
-  - 2020双十一|双11全民养猫|超级星秀猫自动化脚本，支持淘宝+支付宝自动做喵币任务【全额奖励，防检测】
-- [jexcel](https://github.com/paulhodel/jexcel)
-  - jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software.
-- [react-native-calendars](https://github.com/wix/react-native-calendars)
-  - React Native Calendar Components 🗓️ 📆
-- [rockpack](https://github.com/AlexSergey/rockpack)
-  - Rockpack is a complex approach for bundling, logging, testing, SEO, SSR and more, for React application. Rockpack is create-react-app on steroids.
-- [monaco-editor](https://github.com/microsoft/monaco-editor)
-  - A browser based code editor
-- [react-virtualized](https://github.com/bvaughn/react-virtualized)
-  - React components for efficiently rendering large lists and tabular data
-- [iOS-Widgets](https://github.com/ThisIsBenny/iOS-Widgets)
-  - Collection of iOS Widgets
-- [APlayer](https://github.com/MoePlayer/APlayer)
-  - 🍭 Wow, such a beautiful HTML5 music player
 - [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
   - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-- [x-spreadsheet](https://github.com/myliang/x-spreadsheet)
-  - A web-based JavaScript（canvas） spreadsheet
-- [quill](https://github.com/quilljs/quill)
-  - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
-- [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
-  - Microsoft Authentication Library (MSAL) for JS
-- [ChineseBQB](https://github.com/zhaoolee/ChineseBQB)
-  - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
+- [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
+  - A collection of awesome readme templates to display on your profile
+- [time-to-leave](https://github.com/thamara/time-to-leave)
+  - Log work hours and get notified when it's time to leave the office and start to live.
+- [popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop)
+  - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player. Desktop ( Windows / Mac / Linux ) a Butter-Project Fork
+- [esercizi-di-programmazione-javascript](https://github.com/AlbertoOlla/esercizi-di-programmazione-javascript)
+  - Esercizi di informatica! Impara a programmare, metti alla prova!
+- [mineflayer](https://github.com/PrismarineJS/mineflayer)
+  - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
+- [axios](https://github.com/axios/axios)
+  - Promise based HTTP client for the browser and node.js
+- [iOS-Widgets](https://github.com/ThisIsBenny/iOS-Widgets)
+  - Collection of iOS Widgets
+- [docs](https://github.com/github/docs)
+  - The open-source repo for docs.github.com
+- [BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)
+  - A series of plugins and themes for BetterDiscord.
+- [svgwave](https://github.com/anup-a/svgwave)
+  - 🌊 SVG Wave is a tiny, free and beautiful SVG gradient waves generator for your UI or website desgin. It offers dead simple UI to customize, and style your waves based on your theme specifications.
+- [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+  - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
+- [etherpad-lite](https://github.com/ether/etherpad-lite)
+  - Etherpad: real-time collaborative document editor
+- [AdminLTE](https://github.com/ColorlibHQ/AdminLTE)
+  - AdminLTE - Free admin dashboard template based on Bootstrap 4
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [joplin](https://github.com/laurent22/joplin)
+  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [tailblocks](https://github.com/mertJF/tailblocks)
+  - 🎉 Ready-to-use Tailwind CSS blocks.

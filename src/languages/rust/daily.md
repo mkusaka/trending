@@ -1,51 +1,51 @@
 # rust
+- [nat](https://github.com/willdoescode/nat)
+  - ⚡️nat - the 'ls' replacement you never knew you needed⚡️
 - [rust-gpu](https://github.com/EmbarkStudios/rust-gpu)
   - 🐉 Making Rust a first-class language and ecosystem for GPU code 🚧
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [ripgrep](https://github.com/BurntSushi/ripgrep)
-  - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-- [nushell](https://github.com/nushell/nushell)
-  - A new type of shell
-- [openethereum](https://github.com/openethereum/openethereum)
-  - The fast, light, and robust client for Ethereum-like networks.
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [nickel](https://github.com/tweag/nickel)
-  - Cheap configuration language
-- [sqlx](https://github.com/launchbadge/sqlx)
-  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
-- [juniper](https://github.com/graphql-rust/juniper)
-  - GraphQL server library for Rust
-- [druid](https://github.com/linebender/druid)
-  - A data-first Rust-native UI design toolkit.
-- [substrate](https://github.com/paritytech/substrate)
-  - Substrate: The platform for blockchain innovators
-- [vector](https://github.com/timberio/vector)
-  - High-performance, vendor-neutral observability pipelines.
-- [exa](https://github.com/ogham/exa)
-  - A modern replacement for ‘ls’.
-- [icu4x](https://github.com/unicode-org/icu4x)
-  - Solving i18n for client-side and resource-constrained environments.
-- [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
-  - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
-- [tokenizers](https://github.com/huggingface/tokenizers)
-  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
-- [hyperfine](https://github.com/sharkdp/hyperfine)
-  - A command-line benchmarking tool
-- [refinery](https://github.com/rust-db/refinery)
-  - Powerful SQL migration toolkit for Rust.
-- [talent-plan](https://github.com/pingcap/talent-plan)
-  - open source training courses about distributed database and distributed systemes
-- [xsv](https://github.com/BurntSushi/xsv)
-  - A fast CSV command line toolkit written in Rust.
-- [wasmer](https://github.com/wasmerio/wasmer)
-  - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+- [firecracker](https://github.com/firecracker-microvm/firecracker)
+  - Secure and fast microVMs for serverless computing.
 - [hyper](https://github.com/hyperium/hyper)
   - An HTTP library for Rust
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
-- [warp](https://github.com/seanmonstar/warp)
-  - A super-easy, composable, web server framework for warp speeds.
-- [fnm](https://github.com/Schniz/fnm)
-  - 🚀 Fast and simple Node.js version manager, built in Rust
+- [bevy](https://github.com/bevyengine/bevy)
+  - A refreshingly simple data-driven game engine built in Rust
+- [rust-clippy](https://github.com/rust-lang/rust-clippy)
+  - A bunch of lints to catch common mistakes and improve your Rust code
+- [talent-plan](https://github.com/pingcap/talent-plan)
+  - open source training courses about distributed database and distributed systemes
+- [juniper](https://github.com/graphql-rust/juniper)
+  - GraphQL server library for Rust
+- [exa](https://github.com/ogham/exa)
+  - A modern replacement for ‘ls’.
+- [wgpu](https://github.com/gfx-rs/wgpu)
+  - Native WebGPU implementation based on gfx-hal
+- [alacritty](https://github.com/alacritty/alacritty)
+  - A cross-platform, GPU-accelerated terminal emulator
+- [examples](https://github.com/actix/examples)
+  - Community showcase and examples of Actix ecosystem usage.
+- [lsd](https://github.com/Peltoche/lsd)
+  - The next gen ls command
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [seed](https://github.com/seed-rs/seed)
+  - A Rust framework for creating web apps
+- [clap](https://github.com/clap-rs/clap)
+  - A full featured, fast Command Line Argument Parser for Rust
+- [cilk](https://github.com/maekawatoshiki/cilk)
+  - (Toy) Compiler Infrastructure influenced by LLVM written in Rust
+- [spotifyd](https://github.com/Spotifyd/spotifyd)
+  - A spotify daemon
+- [rustlings](https://github.com/rust-lang/rustlings)
+  - 🦀 Small exercises to get you used to reading and writing Rust code!
+- [actix](https://github.com/actix/actix)
+  - Actor framework for Rust.
+- [icu4x](https://github.com/unicode-org/icu4x)
+  - Solving i18n for client-side and resource-constrained environments.
+- [gfx](https://github.com/gfx-rs/gfx)
+  - A low-overhead Vulkan-like GPU API for Rust.
+- [book](https://github.com/rust-lang/book)
+  - The Rust Programming Language
+- [futures-rs](https://github.com/rust-lang/futures-rs)
+  - Zero-cost asynchronous programming in Rust
+- [noria](https://github.com/mit-pdos/noria)
+  - Fast web applications through dynamic, partially-stateful dataflow

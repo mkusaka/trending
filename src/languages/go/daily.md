@@ -1,51 +1,51 @@
 # go
+- [annie](https://github.com/iawia002/annie)
+  - 👾 Fast, simple and clean video downloader
 - [eggos](https://github.com/icexin/eggos)
   - A Go unikernel running on x86 bare metal
-- [consul](https://github.com/hashicorp/consul)
-  - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [statsviz](https://github.com/arl/statsviz)
   - 🚀 Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser
-- [prometheus](https://github.com/prometheus/prometheus)
-  - The Prometheus monitoring system and time series database.
-- [otto](https://github.com/robertkrimen/otto)
-  - A JavaScript interpreter in Go (golang)
+- [gvisor](https://github.com/google/gvisor)
+  - Application Kernel for Containers
+- [consul](https://github.com/hashicorp/consul)
+  - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+- [k3sup](https://github.com/alexellis/k3sup)
+  - bootstrap Kubernetes with k3s over SSH < 1 min 🚀
 - [nomad](https://github.com/hashicorp/nomad)
   - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [btcd](https://github.com/btcsuite/btcd)
-  - An alternative full node bitcoin implementation written in Go (golang)
-- [golangci-lint](https://github.com/golangci/golangci-lint)
-  - Fast linters Runner for Go
-- [fabric-samples](https://github.com/hyperledger/fabric-samples)
-  - 
-- [mattermost-server](https://github.com/mattermost/mattermost-server)
-  - Open source Slack-alternative in Golang and React - Mattermost
-- [client-go](https://github.com/kubernetes/client-go)
-  - Go client for Kubernetes.
-- [k3s](https://github.com/rancher/k3s)
-  - Lightweight Kubernetes
-- [Chronos](https://github.com/amit-davidson/Chronos)
-  - Chronos - A static race detector for the go language
-- [vegeta](https://github.com/tsenart/vegeta)
-  - HTTP load testing tool and library. It's over 9000!
-- [protobuf](https://github.com/golang/protobuf)
-  - Go support for Google's protocol buffers
+- [automuteus](https://github.com/denverquane/automuteus)
+  - Discord Bot to automute Among Us players at round transitions, in conjunction with https://github.com/denverquane/amonguscapture
 - [gotraining](https://github.com/ardanlabs/gotraining)
   - Go Training Class Material :
-- [client_golang](https://github.com/prometheus/client_golang)
-  - Prometheus instrumentation library for Go applications
-- [redis](https://github.com/go-redis/redis)
-  - Type-safe Redis client for Golang
-- [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
-  - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [awesome-go](https://github.com/avelino/awesome-go)
-  - A curated list of awesome Go frameworks, libraries and software
-- [dgraph](https://github.com/dgraph-io/dgraph)
-  - Native GraphQL Database with graph backend
-- [sops](https://github.com/mozilla/sops)
-  - Simple and flexible tool for managing secrets
+- [deej](https://github.com/omriharel/deej)
+  - Set app volumes with real sliders! deej is an Arduino & Go project to let you build your own hardware mixer for Windows and Linux
+- [trojan-go](https://github.com/p4gefau1t/trojan-go)
+  - Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
+- [Chronos](https://github.com/amit-davidson/Chronos)
+  - Chronos - A static race detector for the go language
+- [discordgo](https://github.com/bwmarrin/discordgo)
+  - (Golang) Go bindings for Discord
+- [sourcegraph](https://github.com/sourcegraph/sourcegraph)
+  - Universal code search (self-hosted)
+- [photoprism](https://github.com/photoprism/photoprism)
+  - Personal Photo Management powered by Go and Google TensorFlow
+- [rclone](https://github.com/rclone/rclone)
+  - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+- [color](https://github.com/fatih/color)
+  - Color package for Go (golang)
+- [copilot-cli](https://github.com/aws/copilot-cli)
+  - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on Amazon ECS and AWS Fargate.
 - [ritchie-cli](https://github.com/ZupIT/ritchie-cli)
   - Ritchie CLI is an open source tool that allows to create, store and share any kind of automations, executing them through command lines, to run operations or start workflows ⚙️ 🖥 💡
-- [argo-cd](https://github.com/argoproj/argo-cd)
-  - Declarative continuous deployment for Kubernetes.
-- [websocket](https://github.com/gorilla/websocket)
-  - A fast, well-tested and widely used WebSocket implementation for Go.
+- [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga)
+  - Advanced information gathering & OSINT framework for phone numbers
+- [fabio](https://github.com/fabiolb/fabio)
+  - Consul Load-Balancing made simple
+- [bettercap](https://github.com/bettercap/bettercap)
+  - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
+- [b0pass](https://github.com/bitepeng/b0pass)
+  - 百灵快传：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。
+- [otto](https://github.com/robertkrimen/otto)
+  - A JavaScript interpreter in Go (golang)
+- [webrtc](https://github.com/pion/webrtc)
+  - Pure Go implementation of the WebRTC API
