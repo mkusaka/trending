@@ -1,51 +1,49 @@
 # general
-- [NewPipe](https://github.com/TeamNewPipe/NewPipe) : Java
-  - A libre lightweight streaming front-end for Android.
-- [edex-ui](https://github.com/GitSquared/edex-ui) : JavaScript
-  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [endlessh](https://github.com/skeeto/endlessh) : C
-  - SSH tarpit that slowly sends an endless banner
-- [sherlock](https://github.com/sherlock-project/sherlock) : Python
-  - 🔎 Hunt down social media accounts by username across social networks
-- [eul](https://github.com/gao-sun/eul) : Swift
-  - 🖥️ macOS status monitoring app written in SwiftUI.
-- [fastbook](https://github.com/fastai/fastbook) : Jupyter Notebook
-  - The fastai book, published as Jupyter Notebooks
-- [pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) : Python
-  - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
-- [node](https://github.com/nodejs/node) : JavaScript
-  - Node.js JavaScript runtime ✨🐢🚀✨
-- [nat](https://github.com/willdoescode/nat) : Rust
-  - ⚡️nat - the 'ls' replacement you never knew you needed⚡️
-- [rust-gpu](https://github.com/EmbarkStudios/rust-gpu) : Rust
-  - 🐉 Making Rust a first-class language and ecosystem for GPU code 🚧
+- [taobao-11-11](https://github.com/hyue418/taobao-11-11) : JavaScript
+  - 🚀2020淘宝+京东+支付宝双十一|双11全民养猫|全民营业自动化脚本【全额奖励，防检测】
+- [yt-dlc](https://github.com/blackjack4494/yt-dlc) : Python
 - [youtube-dl](https://github.com/l1ving/youtube-dl) : Python
   - A copyright-respecting fork of youtube-dl
-- [dmca](https://github.com/github/dmca) : Rich Text Format
-  - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
-- [taobao-11-11](https://github.com/hyue418/taobao-11-11) : JavaScript
-  - 🚀2020淘宝+京东+支付宝双十一全民养猫|全民营业自动化脚本【全额奖励，防检测】
-- [ai-fundamentals](https://github.com/MicrosoftDocs/ai-fundamentals) : Jupyter Notebook
-  - Code samples for AI fundamentals
-- [lede](https://github.com/coolsnowwolf/lede) : C
-  - Lean's OpenWrt source
-- [ShameCom](https://github.com/ShameCom/ShameCom) : 
-  - 收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！
-- [SkyAR](https://github.com/jiupinjia/SkyAR) : Python
-  - Dynamic sky replacement and harmonization in videos
-- [you-get](https://github.com/soimort/you-get) : Python
-  - ⏬ Dumb downloader that scrapes the web
-- [ru-gpts](https://github.com/sberbank-ai/ru-gpts) : Python
-  - Russian GPT3 models.
+- [sherlock](https://github.com/sherlock-project/sherlock) : Python
+  - 🔎 Hunt down social media accounts by username across social networks
+- [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) : Shell
+  - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
+- [NewPipe](https://github.com/TeamNewPipe/NewPipe) : Java
+  - A libre lightweight streaming front-end for Android.
 - [core](https://github.com/home-assistant/core) : Python
   - 🏡 Open source home automation that puts local control and privacy first
-- [advmlthreatmatrix](https://github.com/mitre/advmlthreatmatrix) : 
-  - Adversarial Threat Matrix
+- [nat](https://github.com/willdoescode/nat) : Rust
+  - ⚡️ nat - the 'ls' replacement you never knew you needed⚡️
+- [loruki-website](https://github.com/bradtraversy/loruki-website) : HTML
+  - Cloud hosting website
+- [not-youtube-dl](https://github.com/scastillo/not-youtube-dl) : Python
+  - This is not youtube-dl
+- [dmca](https://github.com/github/dmca) : Rich Text Format
+  - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
+- [HowToHunt](https://github.com/KathanP19/HowToHunt) : 
+  - Tutorials and Things to Do while Hunting Vulnerability.
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [SkyAR](https://github.com/jiupinjia/SkyAR) : Python
+  - Dynamic sky replacement and harmonization in videos
+- [edex-ui](https://github.com/GitSquared/edex-ui) : JavaScript
+  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+- [vision_transformer](https://github.com/google-research/vision_transformer) : Jupyter Notebook
+- [EssayKiller_V2](https://github.com/EssayKillerBrain/EssayKiller_V2) : Python
+  - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
+- [win10script](https://github.com/ChrisTitusTech/win10script) : PowerShell
+  - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
 - [openpilot](https://github.com/commaai/openpilot) : C++
   - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
-- [Hazel](https://github.com/TheCherno/Hazel) : C++
-  - Hazel Engine
-- [node-ytdl-core](https://github.com/fent/node-ytdl-core) : HTML
-  - YouTube video downloader in javascript.
-- [react-chrono](https://github.com/prabhuignoto/react-chrono) : TypeScript
-  - Modern Timeline component for React
+- [manim](https://github.com/3b1b/manim) : Python
+  - Animation engine for explanatory math videos
+- [advmlthreatmatrix](https://github.com/mitre/advmlthreatmatrix) : 
+  - Adversarial Threat Matrix
+- [endlessh](https://github.com/skeeto/endlessh) : C
+  - SSH tarpit that slowly sends an endless banner
+- [ShameCom](https://github.com/ShameCom/ShameCom) : 
+  - 收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！
+- [Ariel_OOP_2020](https://github.com/simon-pikalov/Ariel_OOP_2020) : Java
+  - This repository is dedicated for Object-Oriented Programming course.
+- [DeepFaceLab](https://github.com/iperov/DeepFaceLab) : Python
+  - DeepFaceLab is the leading software for creating deepfakes.

@@ -5,19 +5,9 @@
     "href": "https://github.com/commaai/openpilot",
     "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.",
     "language": "C++",
-    "stars": 17608,
-    "forks": 4213,
-    "starsInPeriod": 53
-  },
-  {
-    "author": "TheCherno",
-    "name": "Hazel",
-    "href": "https://github.com/TheCherno/Hazel",
-    "description": "Hazel Engine",
-    "language": "C++",
-    "stars": 4232,
-    "forks": 615,
-    "starsInPeriod": 15
+    "stars": 18017,
+    "forks": 4223,
+    "starsInPeriod": 246
   },
   {
     "author": "ocornut",
@@ -25,149 +15,9 @@
     "href": "https://github.com/ocornut/imgui",
     "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
     "language": "C++",
-    "stars": 24154,
-    "forks": 4058,
-    "starsInPeriod": 20
-  },
-  {
-    "author": "mozilla",
-    "name": "DeepSpeech",
-    "href": "https://github.com/mozilla/DeepSpeech",
-    "description": "DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.",
-    "language": "C++",
-    "stars": 15495,
-    "forks": 2895,
-    "starsInPeriod": 23
-  },
-  {
-    "author": "abseil",
-    "name": "abseil-cpp",
-    "href": "https://github.com/abseil/abseil-cpp",
-    "description": "Abseil Common Libraries (C++)",
-    "language": "C++",
-    "stars": 7606,
-    "forks": 1394,
-    "starsInPeriod": 19
-  },
-  {
-    "author": "microsoft",
-    "name": "PowerToys",
-    "href": "https://github.com/microsoft/PowerToys",
-    "description": "Windows system utilities to maximize productivity",
-    "language": "C++",
-    "stars": 40264,
-    "forks": 2161,
-    "starsInPeriod": 71
-  },
-  {
-    "author": "Aircoookie",
-    "name": "WLED",
-    "href": "https://github.com/Aircoookie/WLED",
-    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
-    "language": "C++",
-    "stars": 3159,
-    "forks": 547,
-    "starsInPeriod": 24
-  },
-  {
-    "author": "XLabsProject",
-    "name": "iw6x-client",
-    "href": "https://github.com/XLabsProject/iw6x-client",
-    "description": "something new.",
-    "language": "C++",
-    "stars": 71,
-    "forks": 20,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "topjohnwu",
-    "name": "Magisk",
-    "href": "https://github.com/topjohnwu/Magisk",
-    "description": "The Magic Mask for Android",
-    "language": "C++",
-    "stars": 13818,
-    "forks": 2251,
-    "starsInPeriod": 45
-  },
-  {
-    "author": "google",
-    "name": "googletest",
-    "href": "https://github.com/google/googletest",
-    "description": "Googletest - Google Testing and Mocking Framework",
-    "language": "C++",
-    "stars": 18399,
-    "forks": 6707,
-    "starsInPeriod": 18
-  },
-  {
-    "author": "telegramdesktop",
-    "name": "tdesktop",
-    "href": "https://github.com/telegramdesktop/tdesktop",
-    "description": "Telegram Desktop messaging app",
-    "language": "C++",
-    "stars": 13387,
-    "forks": 3008,
-    "starsInPeriod": 23
-  },
-  {
-    "author": "LMMS",
-    "name": "lmms",
-    "href": "https://github.com/LMMS/lmms",
-    "description": "Cross-platform music production software",
-    "language": "C++",
-    "stars": 4362,
-    "forks": 675,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "satu0king",
-    "name": "Leetcode-Solutions",
-    "href": "https://github.com/satu0king/Leetcode-Solutions",
-    "description": null,
-    "language": "C++",
-    "stars": 32,
-    "forks": 11,
-    "starsInPeriod": 28
-  },
-  {
-    "author": "CleverRaven",
-    "name": "Cataclysm-DDA",
-    "href": "https://github.com/CleverRaven/Cataclysm-DDA",
-    "description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
-    "language": "C++",
-    "stars": 4574,
-    "forks": 2534,
-    "starsInPeriod": 12
-  },
-  {
-    "author": "simdjson",
-    "name": "simdjson",
-    "href": "https://github.com/simdjson/simdjson",
-    "description": "Parsing gigabytes of JSON per second",
-    "language": "C++",
-    "stars": 12354,
-    "forks": 622,
-    "starsInPeriod": 26
-  },
-  {
-    "author": "yuzu-emu",
-    "name": "yuzu",
-    "href": "https://github.com/yuzu-emu/yuzu",
-    "description": "Nintendo Switch Emulator",
-    "language": "C++",
-    "stars": 12304,
-    "forks": 1016,
-    "starsInPeriod": 13
-  },
-  {
-    "author": "aseprite",
-    "name": "aseprite",
-    "href": "https://github.com/aseprite/aseprite",
-    "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
-    "language": "C++",
-    "stars": 10458,
-    "forks": 1012,
-    "starsInPeriod": 19
+    "stars": 24168,
+    "forks": 4070,
+    "starsInPeriod": 17
   },
   {
     "author": "esphome",
@@ -175,9 +25,139 @@
     "href": "https://github.com/esphome/esphome",
     "description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
     "language": "C++",
-    "stars": 2309,
-    "forks": 628,
+    "stars": 2319,
+    "forks": 629,
+    "starsInPeriod": 12
+  },
+  {
+    "author": "microsoft",
+    "name": "PowerToys",
+    "href": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C++",
+    "stars": 40358,
+    "forks": 2173,
+    "starsInPeriod": 90
+  },
+  {
+    "author": "bigtreetech",
+    "name": "BIGTREETECH-SKR-mini-E3",
+    "href": "https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3",
+    "description": "BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.",
+    "language": "C++",
+    "stars": 760,
+    "forks": 1046,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "abseil",
+    "name": "abseil-cpp",
+    "href": "https://github.com/abseil/abseil-cpp",
+    "description": "Abseil Common Libraries (C++)",
+    "language": "C++",
+    "stars": 7614,
+    "forks": 1398,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "OpenRCT2",
+    "name": "OpenRCT2",
+    "href": "https://github.com/OpenRCT2/OpenRCT2",
+    "description": "An open source re-implementation of RollerCoaster Tycoon 2 🎢",
+    "language": "C++",
+    "stars": 8804,
+    "forks": 1037,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "Warzone2100",
+    "name": "warzone2100",
+    "href": "https://github.com/Warzone2100/warzone2100",
+    "description": "Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, Linux, BSD+",
+    "language": "C++",
+    "stars": 1425,
+    "forks": 355,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "mongoose-os-apps",
+    "name": "shelly-homekit",
+    "href": "https://github.com/mongoose-os-apps/shelly-homekit",
+    "description": "Apple HomeKit firmware for Shelly switches",
+    "language": "C++",
+    "stars": 286,
+    "forks": 43,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "esp8266",
+    "name": "Arduino",
+    "href": "https://github.com/esp8266/Arduino",
+    "description": "ESP8266 core for Arduino",
+    "language": "C++",
+    "stars": 11994,
+    "forks": 10223,
     "starsInPeriod": 6
+  },
+  {
+    "author": "topjohnwu",
+    "name": "Magisk",
+    "href": "https://github.com/topjohnwu/Magisk",
+    "description": "The Magic Mask for Android",
+    "language": "C++",
+    "stars": 13833,
+    "forks": 2253,
+    "starsInPeriod": 16
+  },
+  {
+    "author": "TrinityCore",
+    "name": "TrinityCore",
+    "href": "https://github.com/TrinityCore/TrinityCore",
+    "description": "TrinityCore Open Source MMO Framework (master = 8.3.7.35662, 3.3.5 = 3.3.5a.12340)",
+    "language": "C++",
+    "stars": 6404,
+    "forks": 4935,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "microsoft",
+    "name": "terminal",
+    "href": "https://github.com/microsoft/terminal",
+    "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "language": "C++",
+    "stars": 68809,
+    "forks": 6321,
+    "starsInPeriod": 35
+  },
+  {
+    "author": "CleverRaven",
+    "name": "Cataclysm-DDA",
+    "href": "https://github.com/CleverRaven/Cataclysm-DDA",
+    "description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
+    "language": "C++",
+    "stars": 4581,
+    "forks": 2536,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "AnkerLeng",
+    "name": "Cpp-0-1-Resource",
+    "href": "https://github.com/AnkerLeng/Cpp-0-1-Resource",
+    "description": "C++ 匠心之作 从0到1入门资料",
+    "language": "C++",
+    "stars": 1728,
+    "forks": 940,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "godotengine",
+    "name": "godot",
+    "href": "https://github.com/godotengine/godot",
+    "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "language": "C++",
+    "stars": 34243,
+    "forks": 6481,
+    "starsInPeriod": 32
   },
   {
     "author": "OneLoneCoder",
@@ -186,67 +166,87 @@
     "description": "The official distribution of olcConsoleGameEngine, a tool used in javidx9's YouTube videos and projects",
     "language": "C++",
     "stars": 989,
-    "forks": 794,
-    "starsInPeriod": 7
+    "forks": 797,
+    "starsInPeriod": 1
   },
   {
-    "author": "mindspore-ai",
-    "name": "mindspore",
-    "href": "https://github.com/mindspore-ai/mindspore",
-    "description": "MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.",
+    "author": "electron",
+    "name": "electron",
+    "href": "https://github.com/electron/electron",
+    "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
     "language": "C++",
-    "stars": 1487,
-    "forks": 302,
-    "starsInPeriod": 11
+    "stars": 86561,
+    "forks": 11623,
+    "starsInPeriod": 23
   },
   {
-    "author": "doitsujin",
-    "name": "dxvk",
-    "href": "https://github.com/doitsujin/dxvk",
-    "description": "Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine",
+    "author": "bkaradzic",
+    "name": "bgfx",
+    "href": "https://github.com/bkaradzic/bgfx",
+    "description": "Cross-platform, graphics API agnostic, \"Bring Your Own Engine/Framework\" style rendering library.",
     "language": "C++",
-    "stars": 5625,
-    "forks": 278,
-    "starsInPeriod": 10
-  },
-  {
-    "author": "azerothcore",
-    "name": "azerothcore-wotlk",
-    "href": "https://github.com/azerothcore/azerothcore-wotlk",
-    "description": "AzerothCore - Modular MMORPG Server. Based on MaNGOS -> TrinityCore -> SunwellCore",
-    "language": "C++",
-    "stars": 1137,
-    "forks": 767,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "tdlib",
-    "name": "td",
-    "href": "https://github.com/tdlib/td",
-    "description": "Cross-platform library for building Telegram clients",
-    "language": "C++",
-    "stars": 2963,
-    "forks": 602,
+    "stars": 8498,
+    "forks": 1336,
     "starsInPeriod": 4
   },
   {
-    "author": "ethereum",
-    "name": "solidity",
-    "href": "https://github.com/ethereum/solidity",
-    "description": "Solidity, the Contract-Oriented Programming Language",
+    "author": "mongodb",
+    "name": "mongo",
+    "href": "https://github.com/mongodb/mongo",
+    "description": "The MongoDB Database",
     "language": "C++",
-    "stars": 8432,
-    "forks": 2384,
-    "starsInPeriod": 10
+    "stars": 18715,
+    "forks": 4627,
+    "starsInPeriod": 4
   },
   {
-    "author": "hrydgard",
-    "name": "ppsspp",
-    "href": "https://github.com/hrydgard/ppsspp",
-    "description": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or in #ppsspp on freenode (IRC) or just send pull requests / issues. For discussion use the forums on ppsspp.org.",
+    "author": "TheCherno",
+    "name": "Hazel",
+    "href": "https://github.com/TheCherno/Hazel",
+    "description": "Hazel Engine",
     "language": "C++",
-    "stars": 5540,
-    "forks": 1504,
-    "starsInPeriod": 7
+    "stars": 4280,
+    "forks": 614,
+    "starsInPeriod": 57
+  },
+  {
+    "author": "YosysHQ",
+    "name": "yosys",
+    "href": "https://github.com/YosysHQ/yosys",
+    "description": "Yosys Open SYnthesis Suite",
+    "language": "C++",
+    "stars": 1449,
+    "forks": 436,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "bitcoin",
+    "name": "bitcoin",
+    "href": "https://github.com/bitcoin/bitcoin",
+    "description": "Bitcoin Core integration/staging tree",
+    "language": "C++",
+    "stars": 45628,
+    "forks": 26501,
+    "starsInPeriod": 20
+  },
+  {
+    "author": "aria2",
+    "name": "aria2",
+    "href": "https://github.com/aria2/aria2",
+    "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
+    "language": "C++",
+    "stars": 21210,
+    "forks": 2546,
+    "starsInPeriod": 16
+  },
+  {
+    "author": "OpenZWave",
+    "name": "open-zwave",
+    "href": "https://github.com/OpenZWave/open-zwave",
+    "description": "a C++ library to control Z-Wave Networks via a USB Z-Wave Controller.",
+    "language": "C++",
+    "stars": 969,
+    "forks": 903,
+    "starsInPeriod": 0
   }
 ]

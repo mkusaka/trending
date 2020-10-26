@@ -1,51 +1,51 @@
 # rust
 - [nat](https://github.com/willdoescode/nat)
-  - ⚡️nat - the 'ls' replacement you never knew you needed⚡️
-- [rust-gpu](https://github.com/EmbarkStudios/rust-gpu)
-  - 🐉 Making Rust a first-class language and ecosystem for GPU code 🚧
-- [firecracker](https://github.com/firecracker-microvm/firecracker)
-  - Secure and fast microVMs for serverless computing.
-- [hyper](https://github.com/hyperium/hyper)
-  - An HTTP library for Rust
+  - ⚡️ nat - the 'ls' replacement you never knew you needed⚡️
+- [starship](https://github.com/starship/starship)
+  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
 - [bevy](https://github.com/bevyengine/bevy)
   - A refreshingly simple data-driven game engine built in Rust
-- [rust-clippy](https://github.com/rust-lang/rust-clippy)
-  - A bunch of lints to catch common mistakes and improve your Rust code
-- [talent-plan](https://github.com/pingcap/talent-plan)
-  - open source training courses about distributed database and distributed systemes
-- [juniper](https://github.com/graphql-rust/juniper)
-  - GraphQL server library for Rust
-- [exa](https://github.com/ogham/exa)
-  - A modern replacement for ‘ls’.
-- [wgpu](https://github.com/gfx-rs/wgpu)
-  - Native WebGPU implementation based on gfx-hal
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
-- [examples](https://github.com/actix/examples)
-  - Community showcase and examples of Actix ecosystem usage.
-- [lsd](https://github.com/Peltoche/lsd)
-  - The next gen ls command
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [seed](https://github.com/seed-rs/seed)
-  - A Rust framework for creating web apps
+- [ggez](https://github.com/ggez/ggez)
+  - Rust library to create a Good Game Easily
+- [wasmtime](https://github.com/bytecodealliance/wasmtime)
+  - Standalone JIT-style runtime for WebAssembly, using Cranelift
 - [clap](https://github.com/clap-rs/clap)
   - A full featured, fast Command Line Argument Parser for Rust
-- [cilk](https://github.com/maekawatoshiki/cilk)
-  - (Toy) Compiler Infrastructure influenced by LLVM written in Rust
-- [spotifyd](https://github.com/Spotifyd/spotifyd)
-  - A spotify daemon
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
+- [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim)
+  - Language Server Protocol (LSP) support for vim and neovim.
 - [rustlings](https://github.com/rust-lang/rustlings)
   - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [actix](https://github.com/actix/actix)
-  - Actor framework for Rust.
-- [icu4x](https://github.com/unicode-org/icu4x)
-  - Solving i18n for client-side and resource-constrained environments.
-- [gfx](https://github.com/gfx-rs/gfx)
-  - A low-overhead Vulkan-like GPU API for Rust.
-- [book](https://github.com/rust-lang/book)
-  - The Rust Programming Language
-- [futures-rs](https://github.com/rust-lang/futures-rs)
-  - Zero-cost asynchronous programming in Rust
-- [noria](https://github.com/mit-pdos/noria)
-  - Fast web applications through dynamic, partially-stateful dataflow
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [tokio-tungstenite](https://github.com/snapview/tokio-tungstenite)
+  - Tokio binding for Tungstenite, the Lightweight stream-based WebSocket implementation
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
+- [oso](https://github.com/osohq/oso)
+  - oso is an open source policy engine for authorization that’s embedded in your application
+- [spotifyd](https://github.com/Spotifyd/spotifyd)
+  - A spotify daemon
+- [seed](https://github.com/seed-rs/seed)
+  - A Rust framework for creating web apps
+- [opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust)
+  - OpenTelemetry API and SDK for Rust
+- [nom](https://github.com/Geal/nom)
+  - Rust parser combinator framework
+- [talent-plan](https://github.com/pingcap/talent-plan)
+  - open source training courses about distributed database and distributed systemes
+- [pueue](https://github.com/Nukesor/pueue)
+  - 🌠 Manage your shell commands.
+- [tide](https://github.com/http-rs/tide)
+  - Fast and friendly HTTP server framework for async Rust
+- [xi-editor](https://github.com/xi-editor/xi-editor)
+  - A modern editor with a backend written in Rust.
+- [nushell](https://github.com/nushell/nushell)
+  - A new type of shell
+- [tract](https://github.com/sonos/tract)
+  - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
+- [physx-rs](https://github.com/EmbarkStudios/physx-rs)
+  - 🎳 Rust binding and wrapper over NVIDIA PhysX 🦀

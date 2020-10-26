@@ -1,13 +1,13 @@
 [
   {
-    "author": "prabhuignoto",
-    "name": "react-chrono",
-    "href": "https://github.com/prabhuignoto/react-chrono",
-    "description": "Modern Timeline component for React",
+    "author": "rome",
+    "name": "tools",
+    "href": "https://github.com/rome/tools",
+    "description": "The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.",
     "language": "TypeScript",
-    "stars": 1436,
-    "forks": 39,
-    "starsInPeriod": 967
+    "stars": 13693,
+    "forks": 425,
+    "starsInPeriod": 24
   },
   {
     "author": "foambubble",
@@ -15,179 +15,9 @@
     "href": "https://github.com/foambubble/foam",
     "description": "A personal knowledge management and sharing system for VSCode",
     "language": "TypeScript",
-    "stars": 7325,
-    "forks": 277,
-    "starsInPeriod": 21
-  },
-  {
-    "author": "TSiege",
-    "name": "Tech-Interview-Cheat-Sheet",
-    "href": "https://github.com/TSiege/Tech-Interview-Cheat-Sheet",
-    "description": "Studying for a tech interview sucks. Here's an open source cheat sheet to help",
-    "language": "TypeScript",
-    "stars": 1116,
-    "forks": 273,
-    "starsInPeriod": 59
-  },
-  {
-    "author": "fingerprintjs",
-    "name": "fingerprintjs",
-    "href": "https://github.com/fingerprintjs/fingerprintjs",
-    "description": "Modern & flexible browser fingerprinting library",
-    "language": "TypeScript",
-    "stars": 11730,
-    "forks": 1487,
-    "starsInPeriod": 72
-  },
-  {
-    "author": "benawad",
-    "name": "lireddit",
-    "href": "https://github.com/benawad/lireddit",
-    "description": null,
-    "language": "TypeScript",
-    "stars": 671,
-    "forks": 148,
-    "starsInPeriod": 9
-  },
-  {
-    "author": "snowpackjs",
-    "name": "snowpack",
-    "href": "https://github.com/snowpackjs/snowpack",
-    "description": "WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️",
-    "language": "TypeScript",
-    "stars": 12884,
-    "forks": 481,
-    "starsInPeriod": 87
-  },
-  {
-    "author": "denoland",
-    "name": "deno",
-    "href": "https://github.com/denoland/deno",
-    "description": "A secure JavaScript and TypeScript runtime",
-    "language": "TypeScript",
-    "stars": 68374,
-    "forks": 3572,
-    "starsInPeriod": 76
-  },
-  {
-    "author": "BrainJS",
-    "name": "brain.js",
-    "href": "https://github.com/BrainJS/brain.js",
-    "description": "🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js",
-    "language": "TypeScript",
-    "stars": 11444,
-    "forks": 931,
-    "starsInPeriod": 9
-  },
-  {
-    "author": "rome",
-    "name": "tools",
-    "href": "https://github.com/rome/tools",
-    "description": "The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.",
-    "language": "TypeScript",
-    "stars": 13673,
-    "forks": 424,
-    "starsInPeriod": 90
-  },
-  {
-    "author": "Kedyn",
-    "name": "fusliez-notes",
-    "href": "https://github.com/Kedyn/fusliez-notes",
-    "description": "A companion notes app for Among Us social deduction game. Lets you track of your thoughts and your winning record, and includes a notepad and maps.",
-    "language": "TypeScript",
-    "stars": 98,
-    "forks": 27,
-    "starsInPeriod": 15
-  },
-  {
-    "author": "jef",
-    "name": "nvidia-snatcher",
-    "href": "https://github.com/jef/nvidia-snatcher",
-    "description": "🤖 Autonomous robot for all your Nvidia needs",
-    "language": "TypeScript",
-    "stars": 554,
-    "forks": 262,
-    "starsInPeriod": 14
-  },
-  {
-    "author": "drawrowfly",
-    "name": "tiktok-scraper",
-    "href": "https://github.com/drawrowfly/tiktok-scraper",
-    "description": "TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.",
-    "language": "TypeScript",
-    "stars": 783,
-    "forks": 171,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "trustwallet",
-    "name": "assets",
-    "href": "https://github.com/trustwallet/assets",
-    "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
-    "language": "TypeScript",
-    "stars": 194,
-    "forks": 2342,
-    "starsInPeriod": 0
-  },
-  {
-    "author": "microsoft",
-    "name": "vscode-extension-samples",
-    "href": "https://github.com/microsoft/vscode-extension-samples",
-    "description": "Sample code illustrating the VS Code extension API.",
-    "language": "TypeScript",
-    "stars": 3344,
-    "forks": 1404,
-    "starsInPeriod": 20
-  },
-  {
-    "author": "Xmader",
-    "name": "musescore-downloader",
-    "href": "https://github.com/Xmader/musescore-downloader",
-    "description": "Download sheet music (MSCZ, PDF, MusicXML, MIDI, MP3, download individual parts as PDF) from musescore.com for free, no login or Musescore Pro required | 免登录、免 Musescore Pro，免费下载 musescore.com 上的曲谱 | Installation: https://greasyfork.org/scripts/391931",
-    "language": "TypeScript",
-    "stars": 359,
-    "forks": 28,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "puppeteer",
-    "name": "puppeteer",
-    "href": "https://github.com/puppeteer/puppeteer",
-    "description": "Headless Chrome Node.js API",
-    "language": "TypeScript",
-    "stars": 66003,
-    "forks": 6810,
-    "starsInPeriod": 43
-  },
-  {
-    "author": "santiq",
-    "name": "bulletproof-nodejs",
-    "href": "https://github.com/santiq/bulletproof-nodejs",
-    "description": "Implementation of a bulletproof node.js API 🛡️",
-    "language": "TypeScript",
-    "stars": 2901,
-    "forks": 659,
-    "starsInPeriod": 15
-  },
-  {
-    "author": "vadimdemedes",
-    "name": "ink",
-    "href": "https://github.com/vadimdemedes/ink",
-    "description": "🌈 React for interactive command-line apps",
-    "language": "TypeScript",
-    "stars": 14939,
-    "forks": 394,
-    "starsInPeriod": 106
-  },
-  {
-    "author": "facebook",
-    "name": "jest",
-    "href": "https://github.com/facebook/jest",
-    "description": "Delightful JavaScript Testing.",
-    "language": "TypeScript",
-    "stars": 32876,
-    "forks": 4704,
-    "starsInPeriod": 25
+    "stars": 7351,
+    "forks": 276,
+    "starsInPeriod": 35
   },
   {
     "author": "homebridge",
@@ -195,49 +25,209 @@
     "href": "https://github.com/homebridge/homebridge",
     "description": "HomeKit support for the impatient",
     "language": "TypeScript",
-    "stars": 15797,
-    "forks": 1700,
-    "starsInPeriod": 24
+    "stars": 15806,
+    "forks": 1701,
+    "starsInPeriod": 30
   },
   {
-    "author": "hashicorp",
-    "name": "terraform-cdk",
-    "href": "https://github.com/hashicorp/terraform-cdk",
-    "description": "Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform",
+    "author": "puppeteer",
+    "name": "puppeteer",
+    "href": "https://github.com/puppeteer/puppeteer",
+    "description": "Headless Chrome Node.js API",
     "language": "TypeScript",
-    "stars": 1136,
-    "forks": 78,
+    "stars": 66021,
+    "forks": 6815,
+    "starsInPeriod": 61
+  },
+  {
+    "author": "sveltejs",
+    "name": "sapper",
+    "href": "https://github.com/sveltejs/sapper",
+    "description": "The next small thing in web development, powered by Svelte",
+    "language": "TypeScript",
+    "stars": 6353,
+    "forks": 420,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "BrainJS",
+    "name": "brain.js",
+    "href": "https://github.com/BrainJS/brain.js",
+    "description": "🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js",
+    "language": "TypeScript",
+    "stars": 11448,
+    "forks": 931,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "vadimdemedes",
+    "name": "ink",
+    "href": "https://github.com/vadimdemedes/ink",
+    "description": "🌈 React for interactive command-line apps",
+    "language": "TypeScript",
+    "stars": 14970,
+    "forks": 394,
+    "starsInPeriod": 35
+  },
+  {
+    "author": "prabhuignoto",
+    "name": "react-chrono",
+    "href": "https://github.com/prabhuignoto/react-chrono",
+    "description": "Modern Timeline component for React",
+    "language": "TypeScript",
+    "stars": 1711,
+    "forks": 48,
+    "starsInPeriod": 290
+  },
+  {
+    "author": "adobe",
+    "name": "react-spectrum",
+    "href": "https://github.com/adobe/react-spectrum",
+    "description": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.",
+    "language": "TypeScript",
+    "stars": 3638,
+    "forks": 196,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "dstotijn",
+    "name": "hetty",
+    "href": "https://github.com/dstotijn/hetty",
+    "description": "Hetty is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.",
+    "language": "TypeScript",
+    "stars": 2565,
+    "forks": 118,
+    "starsInPeriod": 45
+  },
+  {
+    "author": "benawad",
+    "name": "lireddit",
+    "href": "https://github.com/benawad/lireddit",
+    "description": null,
+    "language": "TypeScript",
+    "stars": 676,
+    "forks": 150,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "pop-os",
+    "name": "shell",
+    "href": "https://github.com/pop-os/shell",
+    "description": "Pop!_OS Shell",
+    "language": "TypeScript",
+    "stars": 1894,
+    "forks": 96,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "oznu",
+    "name": "homebridge-config-ui-x",
+    "href": "https://github.com/oznu/homebridge-config-ui-x",
+    "description": "The Homebridge UI. Monitor, configure and backup Homebridge from a browser.",
+    "language": "TypeScript",
+    "stars": 1303,
+    "forks": 188,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "HospitalRun",
+    "name": "hospitalrun-frontend",
+    "href": "https://github.com/HospitalRun/hospitalrun-frontend",
+    "description": "Frontend for HospitalRun",
+    "language": "TypeScript",
+    "stars": 5501,
+    "forks": 1780,
     "starsInPeriod": 4
   },
   {
-    "author": "CodFrm",
-    "name": "cxmooc-tools",
-    "href": "https://github.com/CodFrm/cxmooc-tools",
-    "description": "一个 超星(学习通)/智慧树(知到)/中国大学慕课 刷课工具,火狐,谷歌,油猴支持.全自动任务,视频倍速秒过,作业考试题库,验证码自动打码(੧ᐛ੭挂科模式,启动)",
+    "author": "osohq",
+    "name": "oso-nest-demo",
+    "href": "https://github.com/osohq/oso-nest-demo",
+    "description": null,
     "language": "TypeScript",
-    "stars": 1290,
-    "forks": 290,
+    "stars": 36,
+    "forks": 1,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "Kedyn",
+    "name": "fusliez-notes",
+    "href": "https://github.com/Kedyn/fusliez-notes",
+    "description": "A companion notes app for Among Us social deduction game. Lets you track of your thoughts and your winning record, and includes a notepad and maps.",
+    "language": "TypeScript",
+    "stars": 103,
+    "forks": 30,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "johannesjo",
+    "name": "super-productivity",
+    "href": "https://github.com/johannesjo/super-productivity",
+    "description": "To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration",
+    "language": "TypeScript",
+    "stars": 2324,
+    "forks": 227,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "catnose99",
+    "name": "team-blog-hub",
+    "href": "https://github.com/catnose99/team-blog-hub",
+    "description": "RSS based blog starter kit for teams",
+    "language": "TypeScript",
+    "stars": 65,
+    "forks": 8,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "tradingview",
+    "name": "lightweight-charts",
+    "href": "https://github.com/tradingview/lightweight-charts",
+    "description": "Financial lightweight charts built with HTML5 canvas",
+    "language": "TypeScript",
+    "stars": 2445,
+    "forks": 390,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "balena-io",
+    "name": "etcher",
+    "href": "https://github.com/balena-io/etcher",
+    "description": "Flash OS images to SD cards & USB drives, safely and easily.",
+    "language": "TypeScript",
+    "stars": 18902,
+    "forks": 1261,
     "starsInPeriod": 6
   },
   {
-    "author": "react-hook-form",
-    "name": "react-hook-form",
-    "href": "https://github.com/react-hook-form/react-hook-form",
-    "description": "📋 React Hooks for forms validation (Web + React Native)",
+    "author": "neoclide",
+    "name": "coc.nvim",
+    "href": "https://github.com/neoclide/coc.nvim",
+    "description": "Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode",
     "language": "TypeScript",
-    "stars": 15101,
-    "forks": 682,
-    "starsInPeriod": 38
+    "stars": 13407,
+    "forks": 507,
+    "starsInPeriod": 27
   },
   {
-    "author": "tannerlinsley",
-    "name": "react-query",
-    "href": "https://github.com/tannerlinsley/react-query",
-    "description": "⚛️ Hooks for fetching, caching and updating asynchronous data in React",
+    "author": "tensorflow",
+    "name": "tensorboard",
+    "href": "https://github.com/tensorflow/tensorboard",
+    "description": "TensorFlow's Visualization Toolkit",
     "language": "TypeScript",
-    "stars": 14338,
-    "forks": 551,
-    "starsInPeriod": 75
+    "stars": 4996,
+    "forks": 1302,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "lk-geimfari",
+    "name": "awesomo",
+    "href": "https://github.com/lk-geimfari/awesomo",
+    "description": "A list of cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.",
+    "language": "TypeScript",
+    "stars": 7611,
+    "forks": 577,
+    "starsInPeriod": 5
   },
   {
     "author": "microsoft",
@@ -245,8 +235,18 @@
     "href": "https://github.com/microsoft/TypeScript",
     "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
     "language": "TypeScript",
-    "stars": 65232,
-    "forks": 8704,
-    "starsInPeriod": 60
+    "stars": 65248,
+    "forks": 8709,
+    "starsInPeriod": 19
+  },
+  {
+    "author": "cdk-patterns",
+    "name": "serverless",
+    "href": "https://github.com/cdk-patterns/serverless",
+    "description": "This is intended to be a repo containing all of the official AWS Serverless architecture patterns built with CDK for developers to use. All patterns come in Typescript and Python with the exported CloudFormation also included.",
+    "language": "TypeScript",
+    "stars": 679,
+    "forks": 61,
+    "starsInPeriod": 4
   }
 ]
