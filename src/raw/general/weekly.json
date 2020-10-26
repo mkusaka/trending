@@ -1,43 +1,13 @@
 [
   {
-    "author": "changkun",
-    "name": "modern-cpp-tutorial",
-    "href": "https://github.com/changkun/modern-cpp-tutorial",
-    "description": "📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly",
-    "language": "C++",
-    "stars": 8036,
-    "forks": 1108,
-    "starsInPeriod": 903
-  },
-  {
-    "author": "crowdsecurity",
-    "name": "crowdsec",
-    "href": "https://github.com/crowdsecurity/crowdsec",
-    "description": "Crowdsec - An open-source, lightweight agent to detect and respond to bad behaviours. It also automatically benefits from our global community-wide IP reputation database.",
-    "language": "Go",
-    "stars": 1237,
-    "forks": 49,
-    "starsInPeriod": 935
-  },
-  {
-    "author": "hashicorp",
-    "name": "waypoint",
-    "href": "https://github.com/hashicorp/waypoint",
-    "description": "A tool to build, deploy, and release any application on any platform.",
-    "language": "Go",
-    "stars": 2811,
-    "forks": 121,
-    "starsInPeriod": 1607
-  },
-  {
-    "author": "lxk0301",
-    "name": "scripts",
-    "href": "https://github.com/lxk0301/scripts",
-    "description": "京东薅羊毛工具, 京东水果、宠物、种豆 aff 互助讨论组：https://t.me/JD_fruit_pet",
-    "language": "JavaScript",
-    "stars": 1122,
-    "forks": 1166,
-    "starsInPeriod": 370
+    "author": "fuzhengwei",
+    "name": "itstack-demo-design",
+    "href": "https://github.com/fuzhengwei/itstack-demo-design",
+    "description": "小傅哥微信：fustack |《重学Java设计模式「22个互联网真实案例实战」》技术好就一定能写出好代码吗？不能！再漂亮的马桶放到厨房都略显尴尬！无论是家里装修还是上道开车，只有通过实战才能快速将理论转变为技能。毕竟设计模式也是源于 克里斯托佛·亚历山大 的著作 《建筑模式语言》。",
+    "language": "Java",
+    "stars": 1321,
+    "forks": 330,
+    "starsInPeriod": 702
   },
   {
     "author": "jonasschmedtmann",
@@ -45,29 +15,29 @@
     "href": "https://github.com/jonasschmedtmann/complete-javascript-course",
     "description": "Starter files, final projects and FAQ for my Complete JavaScript course",
     "language": "JavaScript",
-    "stars": 5012,
-    "forks": 6548,
-    "starsInPeriod": 347
+    "stars": 5068,
+    "forks": 6559,
+    "starsInPeriod": 386
   },
   {
-    "author": "aristocratos",
-    "name": "bpytop",
-    "href": "https://github.com/aristocratos/bpytop",
-    "description": "Linux/OSX/FreeBSD resource monitor",
-    "language": "Python",
-    "stars": 3455,
-    "forks": 121,
-    "starsInPeriod": 383
+    "author": "crowdsecurity",
+    "name": "crowdsec",
+    "href": "https://github.com/crowdsecurity/crowdsec",
+    "description": "Crowdsec - An open-source, lightweight agent to detect and respond to bad behaviours. It also automatically benefits from our global community-wide IP reputation database.",
+    "language": "Go",
+    "stars": 1411,
+    "forks": 53,
+    "starsInPeriod": 1088
   },
   {
-    "author": "pytorch",
-    "name": "fairseq",
-    "href": "https://github.com/pytorch/fairseq",
-    "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
-    "language": "Python",
-    "stars": 9886,
-    "forks": 2462,
-    "starsInPeriod": 684
+    "author": "lxk0301",
+    "name": "scripts",
+    "href": "https://github.com/lxk0301/scripts",
+    "description": "京东薅羊毛工具, 京东水果、宠物、种豆等等",
+    "language": "JavaScript",
+    "stars": 1273,
+    "forks": 1347,
+    "starsInPeriod": 474
   },
   {
     "author": "hyb1996",
@@ -75,79 +45,49 @@
     "href": "https://github.com/hyb1996/Auto.js",
     "description": "A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)",
     "language": "Java",
-    "stars": 7961,
-    "forks": 2224,
-    "starsInPeriod": 357
+    "stars": 8062,
+    "forks": 2258,
+    "starsInPeriod": 446
   },
   {
-    "author": "gofiber",
-    "name": "fiber",
-    "href": "https://github.com/gofiber/fiber",
-    "description": "⚡️ Fiber is an Express inspired web framework written in Go with ☕️",
-    "language": "Go",
-    "stars": 9339,
-    "forks": 408,
-    "starsInPeriod": 817
-  },
-  {
-    "author": "huanzi-qch",
-    "name": "base-admin",
-    "href": "https://github.com/huanzi-qch/base-admin",
-    "description": "Base Admin一套简单通用的后台管理系统，主要功能有：权限管理、菜单管理、用户管理，系统设置、实时日志，实时监控，API加密，以及登录用户修改密码、配置个性菜单等",
+    "author": "TeamNewPipe",
+    "name": "NewPipe",
+    "href": "https://github.com/TeamNewPipe/NewPipe",
+    "description": "A libre lightweight streaming front-end for Android.",
     "language": "Java",
-    "stars": 1285,
-    "forks": 698,
-    "starsInPeriod": 228
+    "stars": 10964,
+    "forks": 1516,
+    "starsInPeriod": 284
   },
   {
-    "author": "microsoft",
-    "name": "nni",
-    "href": "https://github.com/microsoft/nni",
-    "description": "An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.",
+    "author": "soimort",
+    "name": "you-get",
+    "href": "https://github.com/soimort/you-get",
+    "description": "⏬ Dumb downloader that scrapes the web",
     "language": "Python",
-    "stars": 8112,
-    "forks": 1027,
-    "starsInPeriod": 880
+    "stars": 35727,
+    "forks": 7231,
+    "starsInPeriod": 341
   },
   {
-    "author": "pcm-dpc",
-    "name": "COVID-19",
-    "href": "https://github.com/pcm-dpc/COVID-19",
-    "description": "COVID-19 Italia - Monitoraggio situazione",
-    "language": "",
-    "stars": 3540,
-    "forks": 1980,
-    "starsInPeriod": 37
+    "author": "nschurmann",
+    "name": "configs",
+    "href": "https://github.com/nschurmann/configs",
+    "description": "My neovim configuration",
+    "language": "Vim script",
+    "stars": 161,
+    "forks": 41,
+    "starsInPeriod": 77
   },
   {
     "author": "charmbracelet",
-    "name": "bubbletea",
-    "href": "https://github.com/charmbracelet/bubbletea",
-    "description": "A powerful little TUI framework 🏗",
+    "name": "glow",
+    "href": "https://github.com/charmbracelet/glow",
+    "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
     "language": "Go",
-    "stars": 3012,
-    "forks": 50,
-    "starsInPeriod": 762
-  },
-  {
-    "author": "tailwindlabs",
-    "name": "tailwindcss",
-    "href": "https://github.com/tailwindlabs/tailwindcss",
-    "description": "A utility-first CSS framework for rapid UI development.",
-    "language": "CSS",
-    "stars": 28996,
-    "forks": 1368,
-    "starsInPeriod": 560
-  },
-  {
-    "author": "mengshukeji",
-    "name": "Luckysheet",
-    "href": "https://github.com/mengshukeji/Luckysheet",
-    "description": "Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.",
-    "language": "JavaScript",
-    "stars": 5054,
-    "forks": 422,
-    "starsInPeriod": 889
+    "stars": 4950,
+    "forks": 85,
+    "starsInPeriod": 995
   },
   {
     "author": "SpaceVim",
@@ -155,69 +95,49 @@
     "href": "https://github.com/SpaceVim/SpaceVim",
     "description": "A community-driven modular vim distribution - The ultimate vim configuration",
     "language": "Vim script",
-    "stars": 15018,
-    "forks": 1231,
-    "starsInPeriod": 145
+    "stars": 15051,
+    "forks": 1233,
+    "starsInPeriod": 148
   },
   {
-    "author": "gin-gonic",
-    "name": "gin",
-    "href": "https://github.com/gin-gonic/gin",
-    "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "author": "gofiber",
+    "name": "fiber",
+    "href": "https://github.com/gofiber/fiber",
+    "description": "⚡️ Express inspired web framework written in Go",
     "language": "Go",
-    "stars": 42630,
-    "forks": 4892,
-    "starsInPeriod": 235
+    "stars": 9376,
+    "forks": 411,
+    "starsInPeriod": 542
   },
   {
-    "author": "paritytech",
-    "name": "polkadot",
-    "href": "https://github.com/paritytech/polkadot",
-    "description": "Polkadot Node Implementation",
-    "language": "Rust",
-    "stars": 1551,
-    "forks": 367,
-    "starsInPeriod": 57
+    "author": "commaai",
+    "name": "openpilot",
+    "href": "https://github.com/commaai/openpilot",
+    "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.",
+    "language": "C++",
+    "stars": 18004,
+    "forks": 4223,
+    "starsInPeriod": 626
   },
   {
-    "author": "deepfakes",
-    "name": "faceswap",
-    "href": "https://github.com/deepfakes/faceswap",
-    "description": "Deepfakes Software For All",
+    "author": "aristocratos",
+    "name": "bpytop",
+    "href": "https://github.com/aristocratos/bpytop",
+    "description": "Linux/OSX/FreeBSD resource monitor",
     "language": "Python",
-    "stars": 32895,
-    "forks": 10241,
-    "starsInPeriod": 174
+    "stars": 3515,
+    "forks": 124,
+    "starsInPeriod": 219
   },
   {
-    "author": "sveltejs",
-    "name": "svelte",
-    "href": "https://github.com/sveltejs/svelte",
-    "description": "Cybernetically enhanced web apps",
-    "language": "JavaScript",
-    "stars": 38774,
-    "forks": 1835,
-    "starsInPeriod": 1148
-  },
-  {
-    "author": "alibaba",
-    "name": "COLA",
-    "href": "https://github.com/alibaba/COLA",
-    "description": "Clean Object-oriented & Layered Architecture",
-    "language": "Java",
-    "stars": 3052,
-    "forks": 907,
-    "starsInPeriod": 54
-  },
-  {
-    "author": "wangzheng0822",
-    "name": "algo",
-    "href": "https://github.com/wangzheng0822/algo",
-    "description": "数据结构和算法必知必会的50个代码实现",
-    "language": "Python",
-    "stars": 16818,
-    "forks": 5437,
-    "starsInPeriod": 84
+    "author": "hashicorp",
+    "name": "waypoint",
+    "href": "https://github.com/hashicorp/waypoint",
+    "description": "A tool to build, deploy, and release any application on any platform.",
+    "language": "Go",
+    "stars": 2915,
+    "forks": 125,
+    "starsInPeriod": 685
   },
   {
     "author": "CSSEGISandData",
@@ -225,19 +145,9 @@
     "href": "https://github.com/CSSEGISandData/COVID-19",
     "description": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE",
     "language": "",
-    "stars": 24455,
-    "forks": 15480,
+    "stars": 24480,
+    "forks": 15495,
     "starsInPeriod": 153
-  },
-  {
-    "author": "pedroslopez",
-    "name": "whatsapp-web.js",
-    "href": "https://github.com/pedroslopez/whatsapp-web.js",
-    "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
-    "language": "JavaScript",
-    "stars": 1069,
-    "forks": 323,
-    "starsInPeriod": 76
   },
   {
     "author": "tootsuite",
@@ -245,8 +155,98 @@
     "href": "https://github.com/tootsuite/mastodon",
     "description": "Your self-hosted, globally interconnected microblogging community",
     "language": "Ruby",
-    "stars": 22092,
-    "forks": 3773,
-    "starsInPeriod": 117
+    "stars": 22110,
+    "forks": 3774,
+    "starsInPeriod": 93
+  },
+  {
+    "author": "pytorch",
+    "name": "fairseq",
+    "href": "https://github.com/pytorch/fairseq",
+    "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+    "language": "Python",
+    "stars": 9945,
+    "forks": 2473,
+    "starsInPeriod": 724
+  },
+  {
+    "author": "axios",
+    "name": "axios",
+    "href": "https://github.com/axios/axios",
+    "description": "Promise based HTTP client for the browser and node.js",
+    "language": "JavaScript",
+    "stars": 78178,
+    "forks": 7322,
+    "starsInPeriod": 264
+  },
+  {
+    "author": "facebook",
+    "name": "react",
+    "href": "https://github.com/facebook/react",
+    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "language": "JavaScript",
+    "stars": 158062,
+    "forks": 31257,
+    "starsInPeriod": 583
+  },
+  {
+    "author": "alibaba",
+    "name": "COLA",
+    "href": "https://github.com/alibaba/COLA",
+    "description": "Clean Object-oriented & Layered Architecture",
+    "language": "Java",
+    "stars": 3068,
+    "forks": 910,
+    "starsInPeriod": 66
+  },
+  {
+    "author": "gin-gonic",
+    "name": "gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "language": "Go",
+    "stars": 42669,
+    "forks": 4899,
+    "starsInPeriod": 209
+  },
+  {
+    "author": "huanzi-qch",
+    "name": "base-admin",
+    "href": "https://github.com/huanzi-qch/base-admin",
+    "description": "Base Admin一套简单通用的后台管理系统，主要功能有：权限管理、菜单管理、用户管理，系统设置、实时日志，实时监控，API加密，以及登录用户修改密码、配置个性菜单等",
+    "language": "Java",
+    "stars": 1331,
+    "forks": 715,
+    "starsInPeriod": 193
+  },
+  {
+    "author": "GitSquared",
+    "name": "edex-ui",
+    "href": "https://github.com/GitSquared/edex-ui",
+    "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "language": "JavaScript",
+    "stars": 18571,
+    "forks": 1056,
+    "starsInPeriod": 1716
+  },
+  {
+    "author": "rubocop-hq",
+    "name": "rubocop",
+    "href": "https://github.com/rubocop-hq/rubocop",
+    "description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
+    "language": "Ruby",
+    "stars": 11120,
+    "forks": 2519,
+    "starsInPeriod": 37
+  },
+  {
+    "author": "microsoft",
+    "name": "nni",
+    "href": "https://github.com/microsoft/nni",
+    "description": "An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.",
+    "language": "Python",
+    "stars": 8129,
+    "forks": 1030,
+    "starsInPeriod": 481
   }
 ]
