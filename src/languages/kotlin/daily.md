@@ -1,51 +1,51 @@
 # kotlin
-- [tachiyomi](https://github.com/inorichi/tachiyomi)
-  - Free and open source manga reader for Android
 - [VancedManager](https://github.com/YTVanced/VancedManager)
   - Vanced Installer
+- [tachiyomi](https://github.com/inorichi/tachiyomi)
+  - Free and open source manga reader for Android
+- [TapTap](https://github.com/KieronQuinn/TapTap)
+  - Port of the double tap on back of device feature from Android 11 to any Android 7.0+ device
 - [v2rayNG](https://github.com/2dust/v2rayNG)
-  - 
-- [tachiyomi-extensions](https://github.com/inorichi/tachiyomi-extensions)
   - 
 - [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
   - A shadowsocks client for Android
-- [Unciv](https://github.com/yairm210/Unciv)
-  - Open-source Android/Desktop remake of Civ V
-- [mirai-console](https://github.com/mamoe/mirai-console)
-  - mirai 的高效率 QQ 机器人控制台
-- [ridesharing-uber-lyft-app](https://github.com/MindorksOpenSource/ridesharing-uber-lyft-app)
-  - Ride-Sharing Uber Lyft Android App - Learn to build a ride-sharing Android Taxi Clone App like Uber, Lyft - Open-Source Project By MindOrks
 - [fenix](https://github.com/mozilla-mobile/fenix)
   - Firefox for Android
-- [Music-Player-GO](https://github.com/enricocid/Music-Player-GO)
-  - 🎶🎼 Very slim music player 👨‍🎤 100% made in Italy 🍕🌳🌞🍝🌄
-- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android)
-  - Native Android app using the Apple/Google exposure notification API.
-- [kotlin](https://github.com/JetBrains/kotlin)
-  - The Kotlin Programming Language
+- [element-android](https://github.com/vector-im/element-android)
+  - A glossy Matrix collaboration client for Android.
+- [legado](https://github.com/gedoor/legado)
+  - 阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+- [karel](https://github.com/fredoverflow/karel)
+  - Karel The Robot
+- [compose-dogfooding](https://github.com/lelandrichardson/compose-dogfooding)
+  - Code written during the Compose Dogfooding streams
+- [tokens](https://github.com/ethereum-lists/tokens)
+  - Ethereum token definitions
+- [Animation-Tutorials](https://github.com/SmartToolFactory/Animation-Tutorials)
+  - 🍭🚀💗 Tutorials about animations with Animators, Animated Vector Drawables, Shared Transitions, and more
+- [mirai-console](https://github.com/mamoe/mirai-console)
+  - mirai 的高效率 QQ 机器人控制台
+- [Android](https://github.com/duckduckgo/Android)
+  - DuckDuckGo Android App
+- [leakcanary](https://github.com/square/leakcanary)
+  - A memory leak detection library for Android.
+- [AccA](https://github.com/MatteCarra/AccA)
+  - Acc app allows to edit acc config file and add a tile to start and stop acc deamon
+- [tornadofx](https://github.com/edvin/tornadofx)
+  - Lightweight JavaFX Framework for Kotlin
+- [tachiyomi-extensions](https://github.com/inorichi/tachiyomi-extensions)
+  - 
+- [Neko](https://github.com/CarlosEsco/Neko)
+  - Free, open source, unofficial MangaDex reader for Android
 - [mirai](https://github.com/mamoe/mirai)
   - 高效率 QQ 机器人框架 / High-performance bot framework for Tencent QQ
-- [ideavim](https://github.com/JetBrains/ideavim)
-  - Vim emulation plug-in for IDEs based on the IntelliJ platform.
-- [android-kotlin-fundamentals-starter-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-starter-apps)
-  - android-kotlin-fundamentals-starter-apps
-- [AppIntro](https://github.com/AppIntro/AppIntro)
-  - Make a cool intro for your Android app.
-- [OpenOctober](https://github.com/IEEESFIT1/OpenOctober)
-  - Open-October contribution destination. Midnight 18th Oct '20 - 31st Oct '20.
-- [Loritta](https://github.com/LorittaBot/Loritta)
-  - 💁 A multipurpose, multilanguage, customizable, modular, and very cute bot for Discord using JDA! ~Making your server more awesome~
-- [ImagePicker](https://github.com/Dhaval2404/ImagePicker)
-  - 📸Image Picker for Android, Pick an image from Gallery or Capture a new image with Camera
-- [intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template)
-  - Template repository for creating plugins for IntelliJ Platform
-- [client](https://github.com/kami-blue/client)
-  - KAMI Blue: a continuation of KAMI | LOOKING FOR MAINTAINERS. CHECK README.
-- [SmoothBottomBar](https://github.com/ibrahimsn98/SmoothBottomBar)
-  - A lightweight Android material bottom navigation bar library
-- [uamp](https://github.com/android/uamp)
-  - A sample audio app for Android
-- [compose-to-edge](https://github.com/evowizz/compose-to-edge)
-  - Going edge-to-edge, Jetpack Compose style!
-- [Jenny](https://github.com/LanderlYoung/Jenny)
-  - JNI glue code generator
+- [android-kotlin-fundamentals-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-apps)
+  - android-kotlin-fundamentals-apps
+- [Pokedex](https://github.com/skydoves/Pokedex)
+  - 🗡️ Android Pokedex using Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
+- [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery)
+  - Browse your memories without any interruptions with this photo and video gallery
+- [Exposed](https://github.com/JetBrains/Exposed)
+  - Kotlin SQL Framework
+- [red-screen-of-death](https://github.com/mlegy/red-screen-of-death)
+  - A simple screen that is shown when your app gets crashed instead of the normal crash dialog. It's very similar to the one in Flutter.

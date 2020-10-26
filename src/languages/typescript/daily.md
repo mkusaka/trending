@@ -1,51 +1,51 @@
 # typescript
-- [react-chrono](https://github.com/prabhuignoto/react-chrono)
-  - Modern Timeline component for React
-- [foam](https://github.com/foambubble/foam)
-  - A personal knowledge management and sharing system for VSCode
-- [Tech-Interview-Cheat-Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
-  - Studying for a tech interview sucks. Here's an open source cheat sheet to help
-- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs)
-  - Modern & flexible browser fingerprinting library
-- [lireddit](https://github.com/benawad/lireddit)
-  - 
-- [snowpack](https://github.com/snowpackjs/snowpack)
-  - WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
-- [deno](https://github.com/denoland/deno)
-  - A secure JavaScript and TypeScript runtime
-- [brain.js](https://github.com/BrainJS/brain.js)
-  - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [tools](https://github.com/rome/tools)
   - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
-- [fusliez-notes](https://github.com/Kedyn/fusliez-notes)
-  - A companion notes app for Among Us social deduction game. Lets you track of your thoughts and your winning record, and includes a notepad and maps.
-- [nvidia-snatcher](https://github.com/jef/nvidia-snatcher)
-  - 🤖 Autonomous robot for all your Nvidia needs
-- [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper)
-  - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
-- [assets](https://github.com/trustwallet/assets)
-  - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
-- [vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples)
-  - Sample code illustrating the VS Code extension API.
-- [musescore-downloader](https://github.com/Xmader/musescore-downloader)
-  - Download sheet music (MSCZ, PDF, MusicXML, MIDI, MP3, download individual parts as PDF) from musescore.com for free, no login or Musescore Pro required | 免登录、免 Musescore Pro，免费下载 musescore.com 上的曲谱 | Installation: https://greasyfork.org/scripts/391931
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [bulletproof-nodejs](https://github.com/santiq/bulletproof-nodejs)
-  - Implementation of a bulletproof node.js API 🛡️
-- [ink](https://github.com/vadimdemedes/ink)
-  - 🌈 React for interactive command-line apps
-- [jest](https://github.com/facebook/jest)
-  - Delightful JavaScript Testing.
+- [foam](https://github.com/foambubble/foam)
+  - A personal knowledge management and sharing system for VSCode
 - [homebridge](https://github.com/homebridge/homebridge)
   - HomeKit support for the impatient
-- [terraform-cdk](https://github.com/hashicorp/terraform-cdk)
-  - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
-- [cxmooc-tools](https://github.com/CodFrm/cxmooc-tools)
-  - 一个 超星(学习通)/智慧树(知到)/中国大学慕课 刷课工具,火狐,谷歌,油猴支持.全自动任务,视频倍速秒过,作业考试题库,验证码自动打码(੧ᐛ੭挂科模式,启动)
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
-  - 📋 React Hooks for forms validation (Web + React Native)
-- [react-query](https://github.com/tannerlinsley/react-query)
-  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+  - Headless Chrome Node.js API
+- [sapper](https://github.com/sveltejs/sapper)
+  - The next small thing in web development, powered by Svelte
+- [brain.js](https://github.com/BrainJS/brain.js)
+  - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
+- [ink](https://github.com/vadimdemedes/ink)
+  - 🌈 React for interactive command-line apps
+- [react-chrono](https://github.com/prabhuignoto/react-chrono)
+  - Modern Timeline component for React
+- [react-spectrum](https://github.com/adobe/react-spectrum)
+  - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
+- [hetty](https://github.com/dstotijn/hetty)
+  - Hetty is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.
+- [lireddit](https://github.com/benawad/lireddit)
+  - 
+- [shell](https://github.com/pop-os/shell)
+  - Pop!_OS Shell
+- [homebridge-config-ui-x](https://github.com/oznu/homebridge-config-ui-x)
+  - The Homebridge UI. Monitor, configure and backup Homebridge from a browser.
+- [hospitalrun-frontend](https://github.com/HospitalRun/hospitalrun-frontend)
+  - Frontend for HospitalRun
+- [oso-nest-demo](https://github.com/osohq/oso-nest-demo)
+  - 
+- [fusliez-notes](https://github.com/Kedyn/fusliez-notes)
+  - A companion notes app for Among Us social deduction game. Lets you track of your thoughts and your winning record, and includes a notepad and maps.
+- [super-productivity](https://github.com/johannesjo/super-productivity)
+  - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration
+- [team-blog-hub](https://github.com/catnose99/team-blog-hub)
+  - RSS based blog starter kit for teams
+- [lightweight-charts](https://github.com/tradingview/lightweight-charts)
+  - Financial lightweight charts built with HTML5 canvas
+- [etcher](https://github.com/balena-io/etcher)
+  - Flash OS images to SD cards & USB drives, safely and easily.
+- [coc.nvim](https://github.com/neoclide/coc.nvim)
+  - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
+- [tensorboard](https://github.com/tensorflow/tensorboard)
+  - TensorFlow's Visualization Toolkit
+- [awesomo](https://github.com/lk-geimfari/awesomo)
+  - A list of cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [TypeScript](https://github.com/microsoft/TypeScript)
   - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [serverless](https://github.com/cdk-patterns/serverless)
+  - This is intended to be a repo containing all of the official AWS Serverless architecture patterns built with CDK for developers to use. All patterns come in Typescript and Python with the exported CloudFormation also included.

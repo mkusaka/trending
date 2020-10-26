@@ -1,132 +1,42 @@
 [
   {
+    "author": "forem",
+    "name": "forem",
+    "href": "https://github.com/forem/forem",
+    "description": "For empowering community 🌱",
+    "language": "Ruby",
+    "stars": 15334,
+    "forks": 2576,
+    "starsInPeriod": 9
+  },
+  {
     "author": "rapid7",
     "name": "metasploit-framework",
     "href": "https://github.com/rapid7/metasploit-framework",
     "description": "Metasploit Framework",
     "language": "Ruby",
-    "stars": 21897,
-    "forks": 10555,
-    "starsInPeriod": 24
+    "stars": 21905,
+    "forks": 10560,
+    "starsInPeriod": 11
   },
   {
-    "author": "hartator",
-    "name": "wayback-machine-downloader",
-    "href": "https://github.com/hartator/wayback-machine-downloader",
-    "description": "Download an entire website from the Wayback Machine.",
+    "author": "chatwoot",
+    "name": "chatwoot",
+    "href": "https://github.com/chatwoot/chatwoot",
+    "description": "Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬",
     "language": "Ruby",
-    "stars": 2383,
-    "forks": 371,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "freeCodeCamp",
-    "name": "devdocs",
-    "href": "https://github.com/freeCodeCamp/devdocs",
-    "description": "API Documentation Browser",
-    "language": "Ruby",
-    "stars": 24071,
-    "forks": 1632,
-    "starsInPeriod": 23
-  },
-  {
-    "author": "Hackplayers",
-    "name": "evil-winrm",
-    "href": "https://github.com/Hackplayers/evil-winrm",
-    "description": "The ultimate WinRM shell for hacking/pentesting",
-    "language": "Ruby",
-    "stars": 1401,
-    "forks": 290,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "codeforjapan",
-    "name": "decidim-cfj",
-    "href": "https://github.com/codeforjapan/decidim-cfj",
-    "description": "Code for Japan Decidim",
-    "language": "Ruby",
-    "stars": 17,
-    "forks": 12,
+    "stars": 4729,
+    "forks": 494,
     "starsInPeriod": 8
   },
   {
-    "author": "mbleigh",
-    "name": "acts-as-taggable-on",
-    "href": "https://github.com/mbleigh/acts-as-taggable-on",
-    "description": "A tagging plugin for Rails applications that allows for custom tagging along dynamic contexts.",
+    "author": "gitlabhq",
+    "name": "gitlabhq",
+    "href": "https://github.com/gitlabhq/gitlabhq",
+    "description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com",
     "language": "Ruby",
-    "stars": 4704,
-    "forks": 1113,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "discourse",
-    "name": "discourse",
-    "href": "https://github.com/discourse/discourse",
-    "description": "A platform for community discussion. Free, open, simple.",
-    "language": "Ruby",
-    "stars": 31757,
-    "forks": 7009,
-    "starsInPeriod": 10
-  },
-  {
-    "author": "d12frosted",
-    "name": "homebrew-emacs-plus",
-    "href": "https://github.com/d12frosted/homebrew-emacs-plus",
-    "description": "Emacs Plus formulae for the Homebrew package manager",
-    "language": "Ruby",
-    "stars": 801,
-    "forks": 78,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "spree",
-    "name": "spree",
-    "href": "https://github.com/spree/spree",
-    "description": "Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:",
-    "language": "Ruby",
-    "stars": 10721,
-    "forks": 4578,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "danbooru",
-    "name": "danbooru",
-    "href": "https://github.com/danbooru/danbooru",
-    "description": "A taggable image board written in Rails 6.",
-    "language": "Ruby",
-    "stars": 978,
-    "forks": 241,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "mperham",
-    "name": "sidekiq",
-    "href": "https://github.com/mperham/sidekiq",
-    "description": "Simple, efficient background processing for Ruby",
-    "language": "Ruby",
-    "stars": 10621,
-    "forks": 1867,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "postalhq",
-    "name": "postal",
-    "href": "https://github.com/postalhq/postal",
-    "description": "📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail",
-    "language": "Ruby",
-    "stars": 10061,
-    "forks": 645,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "tobymao",
-    "name": "18xx",
-    "href": "https://github.com/tobymao/18xx",
-    "description": "A platform for playing 18xx games online!",
-    "language": "Ruby",
-    "stars": 123,
-    "forks": 76,
+    "stars": 22388,
+    "forks": 5622,
     "starsInPeriod": 1
   },
   {
@@ -135,29 +45,69 @@
     "href": "https://github.com/sonic-pi-net/sonic-pi",
     "description": "Code. Music. Live.",
     "language": "Ruby",
-    "stars": 6185,
+    "stars": 6188,
     "forks": 683,
-    "starsInPeriod": 4
+    "starsInPeriod": 3
   },
   {
-    "author": "rspec",
-    "name": "rspec-rails",
-    "href": "https://github.com/rspec/rspec-rails",
-    "description": "RSpec for Rails 5+",
+    "author": "twbs",
+    "name": "bootstrap-sass",
+    "href": "https://github.com/twbs/bootstrap-sass",
+    "description": "Official Sass port of Bootstrap 2 and 3.",
     "language": "Ruby",
-    "stars": 4417,
-    "forks": 874,
-    "starsInPeriod": 2
+    "stars": 12754,
+    "forks": 3662,
+    "starsInPeriod": 1
   },
   {
-    "author": "github",
-    "name": "choosealicense.com",
-    "href": "https://github.com/github/choosealicense.com",
-    "description": "A site to provide non-judgmental guidance on choosing a license for your open source project",
+    "author": "heartcombo",
+    "name": "devise",
+    "href": "https://github.com/heartcombo/devise",
+    "description": "Flexible authentication solution for Rails with Warden.",
     "language": "Ruby",
-    "stars": 2126,
-    "forks": 937,
-    "starsInPeriod": 5
+    "stars": 21186,
+    "forks": 5098,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "pry",
+    "name": "pry",
+    "href": "https://github.com/pry/pry",
+    "description": "A runtime developer console and IRB alternative with powerful introspection capabilities.",
+    "language": "Ruby",
+    "stars": 6080,
+    "forks": 557,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "Homebrew",
+    "name": "brew",
+    "href": "https://github.com/Homebrew/brew",
+    "description": "🍺 The missing package manager for macOS (or Linux)",
+    "language": "Ruby",
+    "stars": 23434,
+    "forks": 5503,
+    "starsInPeriod": 23
+  },
+  {
+    "author": "citation-style-language",
+    "name": "styles",
+    "href": "https://github.com/citation-style-language/styles",
+    "description": "Official repository for Citation Style Language (CSL) citation styles.",
+    "language": "Ruby",
+    "stars": 2062,
+    "forks": 2823,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "danbooru",
+    "name": "danbooru",
+    "href": "https://github.com/danbooru/danbooru",
+    "description": "A taggable image board written in Rails 6.",
+    "language": "Ruby",
+    "stars": 981,
+    "forks": 242,
+    "starsInPeriod": 3
   },
   {
     "author": "github",
@@ -165,88 +115,138 @@
     "href": "https://github.com/github/explore",
     "description": "Community-curated topic and collection pages on GitHub",
     "language": "Ruby",
-    "stars": 1920,
-    "forks": 7543,
-    "starsInPeriod": 5
+    "stars": 1922,
+    "forks": 7549,
+    "starsInPeriod": 3
   },
   {
-    "author": "rubocop-hq",
-    "name": "rubocop",
-    "href": "https://github.com/rubocop-hq/rubocop",
-    "description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
+    "author": "Hackplayers",
+    "name": "evil-winrm",
+    "href": "https://github.com/Hackplayers/evil-winrm",
+    "description": "The ultimate WinRM shell for hacking/pentesting",
     "language": "Ruby",
-    "stars": 11119,
-    "forks": 2519,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "gitlabhq",
-    "name": "gitlabhq",
-    "href": "https://github.com/gitlabhq/gitlabhq",
-    "description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com",
-    "language": "Ruby",
-    "stars": 22389,
-    "forks": 5622,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "digitalocean",
-    "name": "hacktoberfest",
-    "href": "https://github.com/digitalocean/hacktoberfest",
-    "description": "Hacktoberfest - App to manage the annual open source challenge.",
-    "language": "Ruby",
-    "stars": 484,
-    "forks": 149,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "fastlane",
-    "name": "fastlane",
-    "href": "https://github.com/fastlane/fastlane",
-    "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
-    "language": "Ruby",
-    "stars": 29996,
-    "forks": 4695,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "hashicorp",
-    "name": "vagrant",
-    "href": "https://github.com/hashicorp/vagrant",
-    "description": "Vagrant is a tool for building and distributing development environments.",
-    "language": "Ruby",
-    "stars": 20833,
-    "forks": 4007,
-    "starsInPeriod": 11
-  },
-  {
-    "author": "iberianpig",
-    "name": "fusuma",
-    "href": "https://github.com/iberianpig/fusuma",
-    "description": "Multitouch gestures with libinput driver on Linux",
-    "language": "Ruby",
-    "stars": 2107,
-    "forks": 112,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "rubocop-hq",
-    "name": "rubocop-rails",
-    "href": "https://github.com/rubocop-hq/rubocop-rails",
-    "description": "A RuboCop extension focused on enforcing Rails best practices and coding conventions.",
-    "language": "Ruby",
-    "stars": 397,
-    "forks": 97,
+    "stars": 1403,
+    "forks": 291,
     "starsInPeriod": 2
   },
   {
-    "author": "Homebrew",
-    "name": "homebrew-core",
-    "href": "https://github.com/Homebrew/homebrew-core",
-    "description": "🍻 Default formulae for the missing package manager for macOS",
+    "author": "freeCodeCamp",
+    "name": "how-to-contribute-to-open-source",
+    "href": "https://github.com/freeCodeCamp/how-to-contribute-to-open-source",
+    "description": "A guide to contributing to open source",
     "language": "Ruby",
-    "stars": 8193,
-    "forks": 8480,
-    "starsInPeriod": 6
+    "stars": 4210,
+    "forks": 964,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "athityakumar",
+    "name": "colorls",
+    "href": "https://github.com/athityakumar/colorls",
+    "description": "A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. 🎉",
+    "language": "Ruby",
+    "stars": 3282,
+    "forks": 249,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "w181496",
+    "name": "Web-CTF-Cheatsheet",
+    "href": "https://github.com/w181496/Web-CTF-Cheatsheet",
+    "description": "Web CTF CheatSheet 🐈",
+    "language": "Ruby",
+    "stars": 1324,
+    "forks": 322,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "github",
+    "name": "choosealicense.com",
+    "href": "https://github.com/github/choosealicense.com",
+    "description": "A site to provide non-judgmental guidance on choosing a license for your open source project",
+    "language": "Ruby",
+    "stars": 2129,
+    "forks": 937,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "github",
+    "name": "linguist",
+    "href": "https://github.com/github/linguist",
+    "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
+    "language": "Ruby",
+    "stars": 8139,
+    "forks": 2952,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "jekyll",
+    "name": "jekyll",
+    "href": "https://github.com/jekyll/jekyll",
+    "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
+    "language": "Ruby",
+    "stars": 41487,
+    "forks": 9076,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "rubysec",
+    "name": "ruby-advisory-db",
+    "href": "https://github.com/rubysec/ruby-advisory-db",
+    "description": "A database of vulnerable Ruby Gems",
+    "language": "Ruby",
+    "stars": 809,
+    "forks": 166,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "learn-co-curriculum",
+    "name": "rails-static-request-readme",
+    "href": "https://github.com/learn-co-curriculum/rails-static-request-readme",
+    "description": null,
+    "language": "Ruby",
+    "stars": 0,
+    "forks": 133,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "learn-co-curriculum",
+    "name": "rack-dynamic-routes-lab",
+    "href": "https://github.com/learn-co-curriculum/rack-dynamic-routes-lab",
+    "description": null,
+    "language": "Ruby",
+    "stars": 0,
+    "forks": 82,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "learn-co-curriculum",
+    "name": "rack-get-params-lab",
+    "href": "https://github.com/learn-co-curriculum/rack-get-params-lab",
+    "description": null,
+    "language": "Ruby",
+    "stars": 0,
+    "forks": 107,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "learn-co-curriculum",
+    "name": "rack-dynamic-web-apps",
+    "href": "https://github.com/learn-co-curriculum/rack-dynamic-web-apps",
+    "description": null,
+    "language": "Ruby",
+    "stars": 0,
+    "forks": 115,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "learn-co-curriculum",
+    "name": "rack-intro",
+    "href": "https://github.com/learn-co-curriculum/rack-intro",
+    "description": null,
+    "language": "Ruby",
+    "stars": 0,
+    "forks": 134,
+    "starsInPeriod": 0
   }
 ]

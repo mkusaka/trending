@@ -1,103 +1,23 @@
 [
   {
-    "author": "TeamNewPipe",
-    "name": "NewPipe",
-    "href": "https://github.com/TeamNewPipe/NewPipe",
-    "description": "A libre lightweight streaming front-end for Android.",
-    "language": "Java",
-    "stars": 10820,
-    "forks": 1498,
-    "starsInPeriod": 69
-  },
-  {
-    "author": "GitSquared",
-    "name": "edex-ui",
-    "href": "https://github.com/GitSquared/edex-ui",
-    "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "author": "hyue418",
+    "name": "taobao-11-11",
+    "href": "https://github.com/hyue418/taobao-11-11",
+    "description": "🚀2020淘宝+京东+支付宝双十一|双11全民养猫|全民营业自动化脚本【全额奖励，防检测】",
     "language": "JavaScript",
-    "stars": 18123,
-    "forks": 1050,
-    "starsInPeriod": 252
+    "stars": 1242,
+    "forks": 498,
+    "starsInPeriod": 708
   },
   {
-    "author": "skeeto",
-    "name": "endlessh",
-    "href": "https://github.com/skeeto/endlessh",
-    "description": "SSH tarpit that slowly sends an endless banner",
-    "language": "C",
-    "stars": 3089,
-    "forks": 111,
-    "starsInPeriod": 111
-  },
-  {
-    "author": "sherlock-project",
-    "name": "sherlock",
-    "href": "https://github.com/sherlock-project/sherlock",
-    "description": "🔎 Hunt down social media accounts by username across social networks",
+    "author": "blackjack4494",
+    "name": "yt-dlc",
+    "href": "https://github.com/blackjack4494/yt-dlc",
+    "description": null,
     "language": "Python",
-    "stars": 15287,
-    "forks": 1625,
-    "starsInPeriod": 46
-  },
-  {
-    "author": "gao-sun",
-    "name": "eul",
-    "href": "https://github.com/gao-sun/eul",
-    "description": "🖥️ macOS status monitoring app written in SwiftUI.",
-    "language": "Swift",
-    "stars": 1264,
-    "forks": 46,
-    "starsInPeriod": 535
-  },
-  {
-    "author": "fastai",
-    "name": "fastbook",
-    "href": "https://github.com/fastai/fastbook",
-    "description": "The fastai book, published as Jupyter Notebooks",
-    "language": "Jupyter Notebook",
-    "stars": 10121,
-    "forks": 2854,
-    "starsInPeriod": 98
-  },
-  {
-    "author": "PyTorchLightning",
-    "name": "pytorch-lightning",
-    "href": "https://github.com/PyTorchLightning/pytorch-lightning",
-    "description": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",
-    "language": "Python",
-    "stars": 9385,
-    "forks": 1093,
-    "starsInPeriod": 342
-  },
-  {
-    "author": "nodejs",
-    "name": "node",
-    "href": "https://github.com/nodejs/node",
-    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
-    "language": "JavaScript",
-    "stars": 74211,
-    "forks": 18320,
-    "starsInPeriod": 188
-  },
-  {
-    "author": "willdoescode",
-    "name": "nat",
-    "href": "https://github.com/willdoescode/nat",
-    "description": "⚡️nat - the 'ls' replacement you never knew you needed⚡️",
-    "language": "Rust",
-    "stars": 198,
-    "forks": 13,
-    "starsInPeriod": 144
-  },
-  {
-    "author": "EmbarkStudios",
-    "name": "rust-gpu",
-    "href": "https://github.com/EmbarkStudios/rust-gpu",
-    "description": "🐉 Making Rust a first-class language and ecosystem for GPU code 🚧",
-    "language": "Rust",
-    "stars": 1530,
-    "forks": 28,
-    "starsInPeriod": 946
+    "stars": 286,
+    "forks": 60,
+    "starsInPeriod": 93
   },
   {
     "author": "l1ving",
@@ -105,89 +25,39 @@
     "href": "https://github.com/l1ving/youtube-dl",
     "description": "A copyright-respecting fork of youtube-dl",
     "language": "Python",
-    "stars": 304,
-    "forks": 174,
-    "starsInPeriod": 253
+    "stars": 570,
+    "forks": 249,
+    "starsInPeriod": 274
   },
   {
-    "author": "github",
-    "name": "dmca",
-    "href": "https://github.com/github/dmca",
-    "description": "Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at",
-    "language": "Rich Text Format",
-    "stars": 3440,
-    "forks": 868,
-    "starsInPeriod": 257
-  },
-  {
-    "author": "hyue418",
-    "name": "taobao-11-11",
-    "href": "https://github.com/hyue418/taobao-11-11",
-    "description": "🚀2020淘宝+京东+支付宝双十一全民养猫|全民营业自动化脚本【全额奖励，防检测】",
-    "language": "JavaScript",
-    "stars": 581,
-    "forks": 325,
-    "starsInPeriod": 445
-  },
-  {
-    "author": "MicrosoftDocs",
-    "name": "ai-fundamentals",
-    "href": "https://github.com/MicrosoftDocs/ai-fundamentals",
-    "description": "Code samples for AI fundamentals",
-    "language": "Jupyter Notebook",
-    "stars": 292,
-    "forks": 300,
-    "starsInPeriod": 51
-  },
-  {
-    "author": "coolsnowwolf",
-    "name": "lede",
-    "href": "https://github.com/coolsnowwolf/lede",
-    "description": "Lean's OpenWrt source",
-    "language": "C",
-    "stars": 12855,
-    "forks": 11736,
-    "starsInPeriod": 29
-  },
-  {
-    "author": "ShameCom",
-    "name": "ShameCom",
-    "href": "https://github.com/ShameCom/ShameCom",
-    "description": "收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！",
-    "language": "",
-    "stars": 994,
-    "forks": 69,
-    "starsInPeriod": 723
-  },
-  {
-    "author": "jiupinjia",
-    "name": "SkyAR",
-    "href": "https://github.com/jiupinjia/SkyAR",
-    "description": "Dynamic sky replacement and harmonization in videos",
+    "author": "sherlock-project",
+    "name": "sherlock",
+    "href": "https://github.com/sherlock-project/sherlock",
+    "description": "🔎 Hunt down social media accounts by username across social networks",
     "language": "Python",
-    "stars": 225,
-    "forks": 15,
-    "starsInPeriod": 188
+    "stars": 15650,
+    "forks": 1641,
+    "starsInPeriod": 369
   },
   {
-    "author": "soimort",
-    "name": "you-get",
-    "href": "https://github.com/soimort/you-get",
-    "description": "⏬ Dumb downloader that scrapes the web",
-    "language": "Python",
-    "stars": 35577,
-    "forks": 7211,
-    "starsInPeriod": 92
+    "author": "foxlet",
+    "name": "macOS-Simple-KVM",
+    "href": "https://github.com/foxlet/macOS-Simple-KVM",
+    "description": "Tools to set up a quick macOS VM in QEMU, accelerated by KVM.",
+    "language": "Shell",
+    "stars": 7813,
+    "forks": 618,
+    "starsInPeriod": 117
   },
   {
-    "author": "sberbank-ai",
-    "name": "ru-gpts",
-    "href": "https://github.com/sberbank-ai/ru-gpts",
-    "description": "Russian GPT3 models.",
-    "language": "Python",
-    "stars": 473,
-    "forks": 100,
-    "starsInPeriod": 96
+    "author": "TeamNewPipe",
+    "name": "NewPipe",
+    "href": "https://github.com/TeamNewPipe/NewPipe",
+    "description": "A libre lightweight streaming front-end for Android.",
+    "language": "Java",
+    "stars": 10976,
+    "forks": 1515,
+    "starsInPeriod": 122
   },
   {
     "author": "home-assistant",
@@ -195,19 +65,119 @@
     "href": "https://github.com/home-assistant/core",
     "description": "🏡 Open source home automation that puts local control and privacy first",
     "language": "Python",
-    "stars": 36482,
-    "forks": 11940,
-    "starsInPeriod": 42
+    "stars": 36630,
+    "forks": 11961,
+    "starsInPeriod": 93
   },
   {
-    "author": "mitre",
-    "name": "advmlthreatmatrix",
-    "href": "https://github.com/mitre/advmlthreatmatrix",
-    "description": "Adversarial Threat Matrix",
+    "author": "willdoescode",
+    "name": "nat",
+    "href": "https://github.com/willdoescode/nat",
+    "description": "⚡️ nat - the 'ls' replacement you never knew you needed⚡️",
+    "language": "Rust",
+    "stars": 486,
+    "forks": 18,
+    "starsInPeriod": 286
+  },
+  {
+    "author": "bradtraversy",
+    "name": "loruki-website",
+    "href": "https://github.com/bradtraversy/loruki-website",
+    "description": "Cloud hosting website",
+    "language": "HTML",
+    "stars": 73,
+    "forks": 35,
+    "starsInPeriod": 54
+  },
+  {
+    "author": "scastillo",
+    "name": "not-youtube-dl",
+    "href": "https://github.com/scastillo/not-youtube-dl",
+    "description": "This is not youtube-dl",
+    "language": "Python",
+    "stars": 377,
+    "forks": 226,
+    "starsInPeriod": 102
+  },
+  {
+    "author": "github",
+    "name": "dmca",
+    "href": "https://github.com/github/dmca",
+    "description": "Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at",
+    "language": "Rich Text Format",
+    "stars": 3679,
+    "forks": 1058,
+    "starsInPeriod": 385
+  },
+  {
+    "author": "KathanP19",
+    "name": "HowToHunt",
+    "href": "https://github.com/KathanP19/HowToHunt",
+    "description": "Tutorials and Things to Do while Hunting Vulnerability.",
     "language": "",
-    "stars": 182,
-    "forks": 12,
-    "starsInPeriod": 155
+    "stars": 1019,
+    "forks": 326,
+    "starsInPeriod": 149
+  },
+  {
+    "author": "jwasham",
+    "name": "coding-interview-university",
+    "href": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "",
+    "stars": 139890,
+    "forks": 39483,
+    "starsInPeriod": 573
+  },
+  {
+    "author": "jiupinjia",
+    "name": "SkyAR",
+    "href": "https://github.com/jiupinjia/SkyAR",
+    "description": "Dynamic sky replacement and harmonization in videos",
+    "language": "Python",
+    "stars": 405,
+    "forks": 27,
+    "starsInPeriod": 174
+  },
+  {
+    "author": "GitSquared",
+    "name": "edex-ui",
+    "href": "https://github.com/GitSquared/edex-ui",
+    "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "language": "JavaScript",
+    "stars": 18600,
+    "forks": 1056,
+    "starsInPeriod": 489
+  },
+  {
+    "author": "google-research",
+    "name": "vision_transformer",
+    "href": "https://github.com/google-research/vision_transformer",
+    "description": null,
+    "language": "Jupyter Notebook",
+    "stars": 514,
+    "forks": 30,
+    "starsInPeriod": 86
+  },
+  {
+    "author": "EssayKillerBrain",
+    "name": "EssayKiller_V2",
+    "href": "https://github.com/EssayKillerBrain/EssayKiller_V2",
+    "description": "基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化",
+    "language": "Python",
+    "stars": 752,
+    "forks": 121,
+    "starsInPeriod": 57
+  },
+  {
+    "author": "ChrisTitusTech",
+    "name": "win10script",
+    "href": "https://github.com/ChrisTitusTech/win10script",
+    "description": "This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.",
+    "language": "PowerShell",
+    "stars": 375,
+    "forks": 460,
+    "starsInPeriod": 54
   },
   {
     "author": "commaai",
@@ -215,38 +185,68 @@
     "href": "https://github.com/commaai/openpilot",
     "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.",
     "language": "C++",
-    "stars": 17608,
-    "forks": 4213,
-    "starsInPeriod": 53
+    "stars": 18017,
+    "forks": 4223,
+    "starsInPeriod": 246
   },
   {
-    "author": "TheCherno",
-    "name": "Hazel",
-    "href": "https://github.com/TheCherno/Hazel",
-    "description": "Hazel Engine",
-    "language": "C++",
-    "stars": 4232,
-    "forks": 615,
-    "starsInPeriod": 15
+    "author": "3b1b",
+    "name": "manim",
+    "href": "https://github.com/3b1b/manim",
+    "description": "Animation engine for explanatory math videos",
+    "language": "Python",
+    "stars": 26319,
+    "forks": 3410,
+    "starsInPeriod": 98
   },
   {
-    "author": "fent",
-    "name": "node-ytdl-core",
-    "href": "https://github.com/fent/node-ytdl-core",
-    "description": "YouTube video downloader in javascript.",
-    "language": "HTML",
-    "stars": 1809,
-    "forks": 300,
-    "starsInPeriod": 19
+    "author": "mitre",
+    "name": "advmlthreatmatrix",
+    "href": "https://github.com/mitre/advmlthreatmatrix",
+    "description": "Adversarial Threat Matrix",
+    "language": "",
+    "stars": 302,
+    "forks": 18,
+    "starsInPeriod": 113
   },
   {
-    "author": "prabhuignoto",
-    "name": "react-chrono",
-    "href": "https://github.com/prabhuignoto/react-chrono",
-    "description": "Modern Timeline component for React",
-    "language": "TypeScript",
-    "stars": 1436,
-    "forks": 39,
-    "starsInPeriod": 967
+    "author": "skeeto",
+    "name": "endlessh",
+    "href": "https://github.com/skeeto/endlessh",
+    "description": "SSH tarpit that slowly sends an endless banner",
+    "language": "C",
+    "stars": 3335,
+    "forks": 120,
+    "starsInPeriod": 257
+  },
+  {
+    "author": "ShameCom",
+    "name": "ShameCom",
+    "href": "https://github.com/ShameCom/ShameCom",
+    "description": "收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！",
+    "language": "",
+    "stars": 1278,
+    "forks": 85,
+    "starsInPeriod": 294
+  },
+  {
+    "author": "simon-pikalov",
+    "name": "Ariel_OOP_2020",
+    "href": "https://github.com/simon-pikalov/Ariel_OOP_2020",
+    "description": "This repository is dedicated for Object-Oriented Programming course.",
+    "language": "Java",
+    "stars": 17,
+    "forks": 23,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "iperov",
+    "name": "DeepFaceLab",
+    "href": "https://github.com/iperov/DeepFaceLab",
+    "description": "DeepFaceLab is the leading software for creating deepfakes.",
+    "language": "Python",
+    "stars": 20535,
+    "forks": 4821,
+    "starsInPeriod": 27
   }
 ]

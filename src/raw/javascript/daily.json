@@ -1,13 +1,23 @@
 [
   {
+    "author": "hyue418",
+    "name": "taobao-11-11",
+    "href": "https://github.com/hyue418/taobao-11-11",
+    "description": "🚀2020淘宝+京东+支付宝双十一|双11全民养猫|全民营业自动化脚本【全额奖励，防检测】",
+    "language": "JavaScript",
+    "stars": 1242,
+    "forks": 498,
+    "starsInPeriod": 708
+  },
+  {
     "author": "GitSquared",
     "name": "edex-ui",
     "href": "https://github.com/GitSquared/edex-ui",
     "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
     "language": "JavaScript",
-    "stars": 18123,
-    "forks": 1050,
-    "starsInPeriod": 252
+    "stars": 18600,
+    "forks": 1056,
+    "starsInPeriod": 489
   },
   {
     "author": "nodejs",
@@ -15,99 +25,9 @@
     "href": "https://github.com/nodejs/node",
     "description": "Node.js JavaScript runtime ✨🐢🚀✨",
     "language": "JavaScript",
-    "stars": 74211,
-    "forks": 18320,
-    "starsInPeriod": 188
-  },
-  {
-    "author": "hyue418",
-    "name": "taobao-11-11",
-    "href": "https://github.com/hyue418/taobao-11-11",
-    "description": "🚀2020淘宝+京东+支付宝双十一全民养猫|全民营业自动化脚本【全额奖励，防检测】",
-    "language": "JavaScript",
-    "stars": 581,
-    "forks": 325,
-    "starsInPeriod": 445
-  },
-  {
-    "author": "lxk0301",
-    "name": "scripts",
-    "href": "https://github.com/lxk0301/scripts",
-    "description": "京东薅羊毛工具, 京东水果、宠物、种豆等等",
-    "language": "JavaScript",
-    "stars": 1189,
-    "forks": 1242,
-    "starsInPeriod": 67
-  },
-  {
-    "author": "Externalizable",
-    "name": "bongo.cat",
-    "href": "https://github.com/Externalizable/bongo.cat",
-    "description": "Hit the bongos like Bongo Cat!",
-    "language": "JavaScript",
-    "stars": 1371,
-    "forks": 171,
-    "starsInPeriod": 67
-  },
-  {
-    "author": "facebook",
-    "name": "create-react-app",
-    "href": "https://github.com/facebook/create-react-app",
-    "description": "Set up a modern web app by running one command.",
-    "language": "JavaScript",
-    "stars": 83126,
-    "forks": 20275,
-    "starsInPeriod": 143
-  },
-  {
-    "author": "jonasschmedtmann",
-    "name": "complete-javascript-course",
-    "href": "https://github.com/jonasschmedtmann/complete-javascript-course",
-    "description": "Starter files, final projects and FAQ for my Complete JavaScript course",
-    "language": "JavaScript",
-    "stars": 5054,
-    "forks": 6556,
-    "starsInPeriod": 72
-  },
-  {
-    "author": "tomer8007",
-    "name": "widevine-l3-decryptor",
-    "href": "https://github.com/tomer8007/widevine-l3-decryptor",
-    "description": "A Chrome extension that demonstrates bypassing Widevine L3 DRM",
-    "language": "JavaScript",
-    "stars": 556,
-    "forks": 99,
-    "starsInPeriod": 82
-  },
-  {
-    "author": "bradtraversy",
-    "name": "vanillawebprojects",
-    "href": "https://github.com/bradtraversy/vanillawebprojects",
-    "description": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
-    "language": "JavaScript",
-    "stars": 7919,
-    "forks": 1725,
-    "starsInPeriod": 14
-  },
-  {
-    "author": "kautukkundan",
-    "name": "Awesome-Profile-README-templates",
-    "href": "https://github.com/kautukkundan/Awesome-Profile-README-templates",
-    "description": "A collection of awesome readme templates to display on your profile",
-    "language": "JavaScript",
-    "stars": 7018,
-    "forks": 2990,
-    "starsInPeriod": 20
-  },
-  {
-    "author": "thamara",
-    "name": "time-to-leave",
-    "href": "https://github.com/thamara/time-to-leave",
-    "description": "Log work hours and get notified when it's time to leave the office and start to live.",
-    "language": "JavaScript",
-    "stars": 92,
-    "forks": 134,
-    "starsInPeriod": 8
+    "stars": 74304,
+    "forks": 18330,
+    "starsInPeriod": 117
   },
   {
     "author": "popcorn-official",
@@ -115,39 +35,59 @@
     "href": "https://github.com/popcorn-official/popcorn-desktop",
     "description": "Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player. Desktop ( Windows / Mac / Linux ) a Butter-Project Fork",
     "language": "JavaScript",
-    "stars": 5192,
-    "forks": 215,
-    "starsInPeriod": 17
+    "stars": 5221,
+    "forks": 216,
+    "starsInPeriod": 34
   },
   {
-    "author": "AlbertoOlla",
-    "name": "esercizi-di-programmazione-javascript",
-    "href": "https://github.com/AlbertoOlla/esercizi-di-programmazione-javascript",
-    "description": "Esercizi di informatica! Impara a programmare, metti alla prova!",
+    "author": "im3x",
+    "name": "Scriptables",
+    "href": "https://github.com/im3x/Scriptables",
+    "description": "iOS14桌面组件神器（Scriptable）开发框架、教程、精美脚本分享",
     "language": "JavaScript",
-    "stars": 641,
-    "forks": 1085,
-    "starsInPeriod": 6
+    "stars": 680,
+    "forks": 87,
+    "starsInPeriod": 23
   },
   {
-    "author": "PrismarineJS",
-    "name": "mineflayer",
-    "href": "https://github.com/PrismarineJS/mineflayer",
-    "description": "Create Minecraft bots with a powerful, stable, and high level JavaScript API.",
+    "author": "discord",
+    "name": "discord-api-docs",
+    "href": "https://github.com/discord/discord-api-docs",
+    "description": "Official Discord API Documentation",
     "language": "JavaScript",
-    "stars": 1334,
-    "forks": 300,
-    "starsInPeriod": 8
+    "stars": 2248,
+    "forks": 581,
+    "starsInPeriod": 3
   },
   {
-    "author": "axios",
-    "name": "axios",
-    "href": "https://github.com/axios/axios",
-    "description": "Promise based HTTP client for the browser and node.js",
+    "author": "jonasschmedtmann",
+    "name": "complete-node-bootcamp",
+    "href": "https://github.com/jonasschmedtmann/complete-node-bootcamp",
+    "description": "Starter files, final projects and FAQ for my Complete Node.js Bootcamp",
     "language": "JavaScript",
-    "stars": 78140,
-    "forks": 7305,
-    "starsInPeriod": 73
+    "stars": 713,
+    "forks": 821,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "romacher",
+    "name": "morse-decoder",
+    "href": "https://github.com/romacher/morse-decoder",
+    "description": null,
+    "language": "JavaScript",
+    "stars": 74,
+    "forks": 2921,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "ianramzy",
+    "name": "decentralized-video-chat",
+    "href": "https://github.com/ianramzy/decentralized-video-chat",
+    "description": "🚀 Zipcall.io - 100k users 🚀 Peer to peer browser video calling platform with unmatched video quality and latency.",
+    "language": "JavaScript",
+    "stars": 3187,
+    "forks": 373,
+    "starsInPeriod": 5
   },
   {
     "author": "ThisIsBenny",
@@ -155,69 +95,129 @@
     "href": "https://github.com/ThisIsBenny/iOS-Widgets",
     "description": "Collection of iOS Widgets",
     "language": "JavaScript",
-    "stars": 35,
-    "forks": 3,
-    "starsInPeriod": 17
+    "stars": 44,
+    "forks": 5,
+    "starsInPeriod": 25
   },
   {
-    "author": "github",
-    "name": "docs",
-    "href": "https://github.com/github/docs",
-    "description": "The open-source repo for docs.github.com",
+    "author": "lxk0301",
+    "name": "scripts",
+    "href": "https://github.com/lxk0301/scripts",
+    "description": "京东薅羊毛工具, 京东水果、宠物、种豆等等",
     "language": "JavaScript",
-    "stars": 1344,
-    "forks": 1932,
-    "starsInPeriod": 28
+    "stars": 1279,
+    "forks": 1354,
+    "starsInPeriod": 72
   },
   {
-    "author": "mwittrien",
-    "name": "BetterDiscordAddons",
-    "href": "https://github.com/mwittrien/BetterDiscordAddons",
-    "description": "A series of plugins and themes for BetterDiscord.",
+    "author": "chavyleung",
+    "name": "scripts",
+    "href": "https://github.com/chavyleung/scripts",
+    "description": null,
     "language": "JavaScript",
-    "stars": 538,
-    "forks": 1305,
-    "starsInPeriod": 5
+    "stars": 1466,
+    "forks": 510,
+    "starsInPeriod": 14
   },
   {
-    "author": "anup-a",
-    "name": "svgwave",
-    "href": "https://github.com/anup-a/svgwave",
-    "description": "🌊 SVG Wave is a tiny, free and beautiful SVG gradient waves generator for your UI or website desgin. It offers dead simple UI to customize, and style your waves based on your theme specifications.",
+    "author": "ruicky",
+    "name": "jd_sign_bot",
+    "href": "https://github.com/ruicky/jd_sign_bot",
+    "description": "京东签到机器人",
     "language": "JavaScript",
-    "stars": 101,
-    "forks": 14,
-    "starsInPeriod": 53
+    "stars": 930,
+    "forks": 1530,
+    "starsInPeriod": 93
   },
   {
-    "author": "rahuldkjain",
-    "name": "github-profile-readme-generator",
-    "href": "https://github.com/rahuldkjain/github-profile-readme-generator",
-    "description": "🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.",
+    "author": "manga-download",
+    "name": "hakuneko",
+    "href": "https://github.com/manga-download/hakuneko",
+    "description": "Manga & Anime Downloader for Linux, Windows & MacOS",
     "language": "JavaScript",
-    "stars": 2612,
-    "forks": 440,
-    "starsInPeriod": 34
+    "stars": 876,
+    "forks": 114,
+    "starsInPeriod": 4
   },
   {
-    "author": "ether",
-    "name": "etherpad-lite",
-    "href": "https://github.com/ether/etherpad-lite",
-    "description": "Etherpad: real-time collaborative document editor",
+    "author": "Airtable",
+    "name": "airtable.js",
+    "href": "https://github.com/Airtable/airtable.js",
+    "description": "Airtable javascript client",
     "language": "JavaScript",
-    "stars": 9659,
-    "forks": 1975,
-    "starsInPeriod": 12
+    "stars": 1106,
+    "forks": 207,
+    "starsInPeriod": 1
   },
   {
-    "author": "ColorlibHQ",
-    "name": "AdminLTE",
-    "href": "https://github.com/ColorlibHQ/AdminLTE",
-    "description": "AdminLTE - Free admin dashboard template based on Bootstrap 4",
+    "author": "alpinejs",
+    "name": "alpine",
+    "href": "https://github.com/alpinejs/alpine",
+    "description": "A rugged, minimal framework for composing JavaScript behavior in your markup.",
     "language": "JavaScript",
-    "stars": 36469,
-    "forks": 15265,
-    "starsInPeriod": 22
+    "stars": 11348,
+    "forks": 434,
+    "starsInPeriod": 30
+  },
+  {
+    "author": "pwndoc",
+    "name": "pwndoc",
+    "href": "https://github.com/pwndoc/pwndoc",
+    "description": "Pentest Report Generator",
+    "language": "JavaScript",
+    "stars": 193,
+    "forks": 50,
+    "starsInPeriod": 19
+  },
+  {
+    "author": "expressjs",
+    "name": "express",
+    "href": "https://github.com/expressjs/express",
+    "description": "Fast, unopinionated, minimalist web framework for node.",
+    "language": "JavaScript",
+    "stars": 50631,
+    "forks": 8442,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "zadam",
+    "name": "trilium",
+    "href": "https://github.com/zadam/trilium",
+    "description": "Build your personal knowledge base with Trilium Notes",
+    "language": "JavaScript",
+    "stars": 9090,
+    "forks": 473,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "processing",
+    "name": "p5.js",
+    "href": "https://github.com/processing/p5.js",
+    "description": "p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —",
+    "language": "JavaScript",
+    "stars": 14210,
+    "forks": 2237,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "PrismarineJS",
+    "name": "mineflayer",
+    "href": "https://github.com/PrismarineJS/mineflayer",
+    "description": "Create Minecraft bots with a powerful, stable, and high level JavaScript API.",
+    "language": "JavaScript",
+    "stars": 1337,
+    "forks": 300,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "freeCodeCamp",
+    "name": "freeCodeCamp",
+    "href": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.",
+    "language": "JavaScript",
+    "stars": 316129,
+    "forks": 24955,
+    "starsInPeriod": 43
   },
   {
     "author": "awesome-selfhosted",
@@ -225,28 +225,28 @@
     "href": "https://github.com/awesome-selfhosted/awesome-selfhosted",
     "description": "A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers",
     "language": "JavaScript",
-    "stars": 49486,
+    "stars": 49515,
     "forks": 3919,
-    "starsInPeriod": 67
+    "starsInPeriod": 89
   },
   {
-    "author": "laurent22",
-    "name": "joplin",
-    "href": "https://github.com/laurent22/joplin",
-    "description": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
+    "author": "github",
+    "name": "docs",
+    "href": "https://github.com/github/docs",
+    "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "stars": 18396,
-    "forks": 1894,
-    "starsInPeriod": 33
+    "stars": 1350,
+    "forks": 2014,
+    "starsInPeriod": 37
   },
   {
-    "author": "mertJF",
-    "name": "tailblocks",
-    "href": "https://github.com/mertJF/tailblocks",
-    "description": "🎉 Ready-to-use Tailwind CSS blocks.",
+    "author": "jojoldu",
+    "name": "junior-recruit-scheduler",
+    "href": "https://github.com/jojoldu/junior-recruit-scheduler",
+    "description": "주니어 개발자 채용 정보",
     "language": "JavaScript",
-    "stars": 4026,
-    "forks": 354,
-    "starsInPeriod": 24
+    "stars": 4348,
+    "forks": 787,
+    "starsInPeriod": 5
   }
 ]
