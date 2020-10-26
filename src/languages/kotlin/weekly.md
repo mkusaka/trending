@@ -1,10 +1,10 @@
 # kotlin
 - [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook)
   - A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential
+- [element-android](https://github.com/vector-im/element-android)
+  - A glossy Matrix collaboration client for Android.
 - [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android)
   - Native Android app using the Apple/Google exposure notification API.
-- [architecture-samples](https://github.com/android/architecture-samples)
-  - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 - [coil](https://github.com/coil-kt/coil)
   - Image loading for Android backed by Kotlin Coroutines.
 - [kotlin](https://github.com/JetBrains/kotlin)
@@ -13,39 +13,39 @@
   - Multiple samples showing the best practices in camera APIs on Android.
 - [p3c](https://github.com/alibaba/p3c)
   - Alibaba Java Coding Guidelines pmd implements and IDE plugin
+- [architecture-samples](https://github.com/android/architecture-samples)
+  - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
+- [architecture-components-samples](https://github.com/android/architecture-components-samples)
+  - Samples for Android Architecture Components.
 - [legado](https://github.com/gedoor/legado)
   - 阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-- [element-android](https://github.com/vector-im/element-android)
-  - A glossy Matrix collaboration client for Android.
 - [play-billing-samples](https://github.com/android/play-billing-samples)
   - Samples for Google Play In-app Billing
 - [android-showcase](https://github.com/igorwojda/android-showcase)
   - 💎 Android application following best practices: Kotlin, coroutines, Clean Architecture, feature modules, tests, MVVM, static analysis...
-- [ktor](https://github.com/ktorio/ktor)
-  - Framework for quickly creating connected applications in Kotlin with minimal effort
-- [Android](https://github.com/duckduckgo/Android)
-  - DuckDuckGo Android App
-- [android-kotlin-fundamentals-starter-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-starter-apps)
-  - android-kotlin-fundamentals-starter-apps
-- [architecture-components-samples](https://github.com/android/architecture-components-samples)
-  - Samples for Android Architecture Components.
-- [client](https://github.com/kami-blue/client)
-  - KAMI Blue: a continuation of KAMI | LOOKING FOR MAINTAINERS. CHECK README.
-- [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization)
-  - Kotlin multiplatform / multi-format serialization
 - [v2rayNG](https://github.com/2dust/v2rayNG)
   - 
-- [mirai](https://github.com/mamoe/mirai)
-  - 高效率 QQ 机器人框架 / High-performance bot framework for Tencent QQ
-- [Scarlet](https://github.com/Tinder/Scarlet)
-  - A Retrofit inspired WebSocket client for Kotlin, Java, and Android
-- [sunflower](https://github.com/android/sunflower)
-  - A gardening app illustrating Android development best practices with Android Jetpack.
-- [RetroMusicPlayer](https://github.com/h4h13/RetroMusicPlayer)
-  - Best material design music player for Android
+- [tachiyomi](https://github.com/inorichi/tachiyomi)
+  - Free and open source manga reader for Android
+- [AppIntro](https://github.com/AppIntro/AppIntro)
+  - Make a cool intro for your Android app.
 - [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
   - A shadowsocks client for Android
-- [plaid](https://github.com/android/plaid)
-  - An Android app which provides design news & inspiration as well as being an example of implementing material design.
-- [kotlin-dsl-samples](https://github.com/gradle/kotlin-dsl-samples)
-  - Samples builds using the Gradle Kotlin DSL
+- [ktor](https://github.com/ktorio/ktor)
+  - Framework for quickly creating connected applications in Kotlin with minimal effort
+- [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators)
+  - An Android Animation library which easily add itemanimator to RecyclerView items.
+- [compose-samples](https://github.com/android/compose-samples)
+  - Official Jetpack Compose samples.
+- [client](https://github.com/kami-blue/client)
+  - KAMI Blue: a continuation of KAMI | LOOKING FOR MAINTAINERS. CHECK README.
+- [RetroMusicPlayer](https://github.com/h4h13/RetroMusicPlayer)
+  - Best material design music player for Android
+- [android-kotlin-fundamentals-starter-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-starter-apps)
+  - android-kotlin-fundamentals-starter-apps
+- [Android](https://github.com/duckduckgo/Android)
+  - DuckDuckGo Android App
+- [intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template)
+  - Template repository for creating plugins for IntelliJ Platform
+- [dotsindicator](https://github.com/tommybuonomo/dotsindicator)
+  - Three material Dots Indicators for view pagers in Android !

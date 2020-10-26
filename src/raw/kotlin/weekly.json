@@ -5,9 +5,19 @@
     "href": "https://github.com/Gurupreet/ComposeCookBook",
     "description": "A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential",
     "language": "Kotlin",
-    "stars": 874,
-    "forks": 47,
-    "starsInPeriod": 208
+    "stars": 885,
+    "forks": 51,
+    "starsInPeriod": 91
+  },
+  {
+    "author": "vector-im",
+    "name": "element-android",
+    "href": "https://github.com/vector-im/element-android",
+    "description": "A glossy Matrix collaboration client for Android.",
+    "language": "Kotlin",
+    "stars": 710,
+    "forks": 161,
+    "starsInPeriod": 23
   },
   {
     "author": "corona-warn-app",
@@ -15,19 +25,9 @@
     "href": "https://github.com/corona-warn-app/cwa-app-android",
     "description": "Native Android app using the Apple/Google exposure notification API.",
     "language": "Kotlin",
-    "stars": 2053,
-    "forks": 432,
-    "starsInPeriod": 22
-  },
-  {
-    "author": "android",
-    "name": "architecture-samples",
-    "href": "https://github.com/android/architecture-samples",
-    "description": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
-    "language": "Kotlin",
-    "stars": 37593,
-    "forks": 10409,
-    "starsInPeriod": 77
+    "stars": 2058,
+    "forks": 434,
+    "starsInPeriod": 20
   },
   {
     "author": "coil-kt",
@@ -35,9 +35,9 @@
     "href": "https://github.com/coil-kt/coil",
     "description": "Image loading for Android backed by Kotlin Coroutines.",
     "language": "Kotlin",
-    "stars": 4814,
-    "forks": 254,
-    "starsInPeriod": 123
+    "stars": 4846,
+    "forks": 256,
+    "starsInPeriod": 133
   },
   {
     "author": "JetBrains",
@@ -45,8 +45,8 @@
     "href": "https://github.com/JetBrains/kotlin",
     "description": "The Kotlin Programming Language",
     "language": "Kotlin",
-    "stars": 33743,
-    "forks": 4205,
+    "stars": 33759,
+    "forks": 4209,
     "starsInPeriod": 83
   },
   {
@@ -55,9 +55,9 @@
     "href": "https://github.com/android/camera-samples",
     "description": "Multiple samples showing the best practices in camera APIs on Android.",
     "language": "Kotlin",
-    "stars": 2229,
-    "forks": 1122,
-    "starsInPeriod": 33
+    "stars": 2235,
+    "forks": 1124,
+    "starsInPeriod": 35
   },
   {
     "author": "alibaba",
@@ -65,79 +65,19 @@
     "href": "https://github.com/alibaba/p3c",
     "description": "Alibaba Java Coding Guidelines pmd implements and IDE plugin",
     "language": "Kotlin",
-    "stars": 23549,
-    "forks": 6161,
-    "starsInPeriod": 103
-  },
-  {
-    "author": "gedoor",
-    "name": "legado",
-    "href": "https://github.com/gedoor/legado",
-    "description": "阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。",
-    "language": "Kotlin",
-    "stars": 1527,
-    "forks": 346,
-    "starsInPeriod": 46
-  },
-  {
-    "author": "vector-im",
-    "name": "element-android",
-    "href": "https://github.com/vector-im/element-android",
-    "description": "A glossy Matrix collaboration client for Android.",
-    "language": "Kotlin",
-    "stars": 708,
-    "forks": 160,
-    "starsInPeriod": 23
+    "stars": 23566,
+    "forks": 6171,
+    "starsInPeriod": 91
   },
   {
     "author": "android",
-    "name": "play-billing-samples",
-    "href": "https://github.com/android/play-billing-samples",
-    "description": "Samples for Google Play In-app Billing",
+    "name": "architecture-samples",
+    "href": "https://github.com/android/architecture-samples",
+    "description": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
     "language": "Kotlin",
-    "stars": 1570,
-    "forks": 1113,
-    "starsInPeriod": 11
-  },
-  {
-    "author": "igorwojda",
-    "name": "android-showcase",
-    "href": "https://github.com/igorwojda/android-showcase",
-    "description": "💎 Android application following best practices: Kotlin, coroutines, Clean Architecture, feature modules, tests, MVVM, static analysis...",
-    "language": "Kotlin",
-    "stars": 3995,
-    "forks": 510,
-    "starsInPeriod": 40
-  },
-  {
-    "author": "ktorio",
-    "name": "ktor",
-    "href": "https://github.com/ktorio/ktor",
-    "description": "Framework for quickly creating connected applications in Kotlin with minimal effort",
-    "language": "Kotlin",
-    "stars": 7414,
-    "forks": 615,
-    "starsInPeriod": 35
-  },
-  {
-    "author": "duckduckgo",
-    "name": "Android",
-    "href": "https://github.com/duckduckgo/Android",
-    "description": "DuckDuckGo Android App",
-    "language": "Kotlin",
-    "stars": 1593,
-    "forks": 457,
-    "starsInPeriod": 11
-  },
-  {
-    "author": "google-developer-training",
-    "name": "android-kotlin-fundamentals-starter-apps",
-    "href": "https://github.com/google-developer-training/android-kotlin-fundamentals-starter-apps",
-    "description": "android-kotlin-fundamentals-starter-apps",
-    "language": "Kotlin",
-    "stars": 455,
-    "forks": 1611,
-    "starsInPeriod": 11
+    "stars": 37599,
+    "forks": 10410,
+    "starsInPeriod": 66
   },
   {
     "author": "android",
@@ -145,29 +85,39 @@
     "href": "https://github.com/android/architecture-components-samples",
     "description": "Samples for Android Architecture Components.",
     "language": "Kotlin",
-    "stars": 18630,
-    "forks": 6461,
-    "starsInPeriod": 74
+    "stars": 18636,
+    "forks": 6463,
+    "starsInPeriod": 65
   },
   {
-    "author": "kami-blue",
-    "name": "client",
-    "href": "https://github.com/kami-blue/client",
-    "description": "KAMI Blue: a continuation of KAMI | LOOKING FOR MAINTAINERS. CHECK README.",
+    "author": "gedoor",
+    "name": "legado",
+    "href": "https://github.com/gedoor/legado",
+    "description": "阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。",
     "language": "Kotlin",
-    "stars": 153,
-    "forks": 125,
+    "stars": 1537,
+    "forks": 346,
+    "starsInPeriod": 45
+  },
+  {
+    "author": "android",
+    "name": "play-billing-samples",
+    "href": "https://github.com/android/play-billing-samples",
+    "description": "Samples for Google Play In-app Billing",
+    "language": "Kotlin",
+    "stars": 1572,
+    "forks": 1112,
     "starsInPeriod": 10
   },
   {
-    "author": "Kotlin",
-    "name": "kotlinx.serialization",
-    "href": "https://github.com/Kotlin/kotlinx.serialization",
-    "description": "Kotlin multiplatform / multi-format serialization",
+    "author": "igorwojda",
+    "name": "android-showcase",
+    "href": "https://github.com/igorwojda/android-showcase",
+    "description": "💎 Android application following best practices: Kotlin, coroutines, Clean Architecture, feature modules, tests, MVVM, static analysis...",
     "language": "Kotlin",
-    "stars": 2528,
-    "forks": 250,
-    "starsInPeriod": 26
+    "stars": 4000,
+    "forks": 510,
+    "starsInPeriod": 36
   },
   {
     "author": "2dust",
@@ -175,49 +125,29 @@
     "href": "https://github.com/2dust/v2rayNG",
     "description": null,
     "language": "Kotlin",
-    "stars": 7156,
-    "forks": 1451,
-    "starsInPeriod": 87
+    "stars": 7178,
+    "forks": 1457,
+    "starsInPeriod": 83
   },
   {
-    "author": "mamoe",
-    "name": "mirai",
-    "href": "https://github.com/mamoe/mirai",
-    "description": "高效率 QQ 机器人框架 / High-performance bot framework for Tencent QQ",
+    "author": "inorichi",
+    "name": "tachiyomi",
+    "href": "https://github.com/inorichi/tachiyomi",
+    "description": "Free and open source manga reader for Android",
     "language": "Kotlin",
-    "stars": 3954,
-    "forks": 1405,
-    "starsInPeriod": 77
+    "stars": 8843,
+    "forks": 1175,
+    "starsInPeriod": 88
   },
   {
-    "author": "Tinder",
-    "name": "Scarlet",
-    "href": "https://github.com/Tinder/Scarlet",
-    "description": "A Retrofit inspired WebSocket client for Kotlin, Java, and Android",
+    "author": "AppIntro",
+    "name": "AppIntro",
+    "href": "https://github.com/AppIntro/AppIntro",
+    "description": "Make a cool intro for your Android app.",
     "language": "Kotlin",
-    "stars": 2381,
-    "forks": 168,
-    "starsInPeriod": 15
-  },
-  {
-    "author": "android",
-    "name": "sunflower",
-    "href": "https://github.com/android/sunflower",
-    "description": "A gardening app illustrating Android development best practices with Android Jetpack.",
-    "language": "Kotlin",
-    "stars": 12606,
-    "forks": 2928,
-    "starsInPeriod": 73
-  },
-  {
-    "author": "h4h13",
-    "name": "RetroMusicPlayer",
-    "href": "https://github.com/h4h13/RetroMusicPlayer",
-    "description": "Best material design music player for Android",
-    "language": "Kotlin",
-    "stars": 958,
-    "forks": 230,
-    "starsInPeriod": 28
+    "stars": 9475,
+    "forks": 1693,
+    "starsInPeriod": 19
   },
   {
     "author": "shadowsocks",
@@ -225,28 +155,98 @@
     "href": "https://github.com/shadowsocks/shadowsocks-android",
     "description": "A shadowsocks client for Android",
     "language": "Kotlin",
-    "stars": 30406,
-    "forks": 11267,
-    "starsInPeriod": 48
+    "stars": 30420,
+    "forks": 11270,
+    "starsInPeriod": 52
+  },
+  {
+    "author": "ktorio",
+    "name": "ktor",
+    "href": "https://github.com/ktorio/ktor",
+    "description": "Framework for quickly creating connected applications in Kotlin with minimal effort",
+    "language": "Kotlin",
+    "stars": 7416,
+    "forks": 616,
+    "starsInPeriod": 31
+  },
+  {
+    "author": "wasabeef",
+    "name": "recyclerview-animators",
+    "href": "https://github.com/wasabeef/recyclerview-animators",
+    "description": "An Android Animation library which easily add itemanimator to RecyclerView items.",
+    "language": "Kotlin",
+    "stars": 10283,
+    "forks": 1903,
+    "starsInPeriod": 19
   },
   {
     "author": "android",
-    "name": "plaid",
-    "href": "https://github.com/android/plaid",
-    "description": "An Android app which provides design news & inspiration as well as being an example of implementing material design.",
+    "name": "compose-samples",
+    "href": "https://github.com/android/compose-samples",
+    "description": "Official Jetpack Compose samples.",
     "language": "Kotlin",
-    "stars": 15763,
-    "forks": 3211,
-    "starsInPeriod": 18
+    "stars": 3694,
+    "forks": 583,
+    "starsInPeriod": 63
   },
   {
-    "author": "gradle",
-    "name": "kotlin-dsl-samples",
-    "href": "https://github.com/gradle/kotlin-dsl-samples",
-    "description": "Samples builds using the Gradle Kotlin DSL",
+    "author": "kami-blue",
+    "name": "client",
+    "href": "https://github.com/kami-blue/client",
+    "description": "KAMI Blue: a continuation of KAMI | LOOKING FOR MAINTAINERS. CHECK README.",
     "language": "Kotlin",
-    "stars": 3230,
-    "forks": 376,
+    "stars": 156,
+    "forks": 124,
     "starsInPeriod": 11
+  },
+  {
+    "author": "h4h13",
+    "name": "RetroMusicPlayer",
+    "href": "https://github.com/h4h13/RetroMusicPlayer",
+    "description": "Best material design music player for Android",
+    "language": "Kotlin",
+    "stars": 964,
+    "forks": 232,
+    "starsInPeriod": 28
+  },
+  {
+    "author": "google-developer-training",
+    "name": "android-kotlin-fundamentals-starter-apps",
+    "href": "https://github.com/google-developer-training/android-kotlin-fundamentals-starter-apps",
+    "description": "android-kotlin-fundamentals-starter-apps",
+    "language": "Kotlin",
+    "stars": 457,
+    "forks": 1616,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "duckduckgo",
+    "name": "Android",
+    "href": "https://github.com/duckduckgo/Android",
+    "description": "DuckDuckGo Android App",
+    "language": "Kotlin",
+    "stars": 1596,
+    "forks": 459,
+    "starsInPeriod": 12
+  },
+  {
+    "author": "JetBrains",
+    "name": "intellij-platform-plugin-template",
+    "href": "https://github.com/JetBrains/intellij-platform-plugin-template",
+    "description": "Template repository for creating plugins for IntelliJ Platform",
+    "language": "Kotlin",
+    "stars": 335,
+    "forks": 52,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "tommybuonomo",
+    "name": "dotsindicator",
+    "href": "https://github.com/tommybuonomo/dotsindicator",
+    "description": "Three material Dots Indicators for view pagers in Android !",
+    "language": "Kotlin",
+    "stars": 1960,
+    "forks": 190,
+    "starsInPeriod": 13
   }
 ]
