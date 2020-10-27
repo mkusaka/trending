@@ -5,99 +5,9 @@
     "href": "https://github.com/hyue418/taobao-11-11",
     "description": "🚀2020淘宝+京东+支付宝双十一|双11全民养猫|全民营业自动化脚本【全额奖励，防检测】",
     "language": "JavaScript",
-    "stars": 1242,
-    "forks": 498,
-    "starsInPeriod": 708
-  },
-  {
-    "author": "GitSquared",
-    "name": "edex-ui",
-    "href": "https://github.com/GitSquared/edex-ui",
-    "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
-    "language": "JavaScript",
-    "stars": 18600,
-    "forks": 1056,
-    "starsInPeriod": 489
-  },
-  {
-    "author": "nodejs",
-    "name": "node",
-    "href": "https://github.com/nodejs/node",
-    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
-    "language": "JavaScript",
-    "stars": 74304,
-    "forks": 18330,
-    "starsInPeriod": 117
-  },
-  {
-    "author": "popcorn-official",
-    "name": "popcorn-desktop",
-    "href": "https://github.com/popcorn-official/popcorn-desktop",
-    "description": "Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player. Desktop ( Windows / Mac / Linux ) a Butter-Project Fork",
-    "language": "JavaScript",
-    "stars": 5221,
-    "forks": 216,
-    "starsInPeriod": 34
-  },
-  {
-    "author": "im3x",
-    "name": "Scriptables",
-    "href": "https://github.com/im3x/Scriptables",
-    "description": "iOS14桌面组件神器（Scriptable）开发框架、教程、精美脚本分享",
-    "language": "JavaScript",
-    "stars": 680,
-    "forks": 87,
-    "starsInPeriod": 23
-  },
-  {
-    "author": "discord",
-    "name": "discord-api-docs",
-    "href": "https://github.com/discord/discord-api-docs",
-    "description": "Official Discord API Documentation",
-    "language": "JavaScript",
-    "stars": 2248,
-    "forks": 581,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "jonasschmedtmann",
-    "name": "complete-node-bootcamp",
-    "href": "https://github.com/jonasschmedtmann/complete-node-bootcamp",
-    "description": "Starter files, final projects and FAQ for my Complete Node.js Bootcamp",
-    "language": "JavaScript",
-    "stars": 713,
-    "forks": 821,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "romacher",
-    "name": "morse-decoder",
-    "href": "https://github.com/romacher/morse-decoder",
-    "description": null,
-    "language": "JavaScript",
-    "stars": 74,
-    "forks": 2921,
-    "starsInPeriod": 0
-  },
-  {
-    "author": "ianramzy",
-    "name": "decentralized-video-chat",
-    "href": "https://github.com/ianramzy/decentralized-video-chat",
-    "description": "🚀 Zipcall.io - 100k users 🚀 Peer to peer browser video calling platform with unmatched video quality and latency.",
-    "language": "JavaScript",
-    "stars": 3187,
-    "forks": 373,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "ThisIsBenny",
-    "name": "iOS-Widgets",
-    "href": "https://github.com/ThisIsBenny/iOS-Widgets",
-    "description": "Collection of iOS Widgets",
-    "language": "JavaScript",
-    "stars": 44,
-    "forks": 5,
-    "starsInPeriod": 25
+    "stars": 1768,
+    "forks": 649,
+    "starsInPeriod": 665
   },
   {
     "author": "lxk0301",
@@ -105,59 +15,9 @@
     "href": "https://github.com/lxk0301/scripts",
     "description": "京东薅羊毛工具, 京东水果、宠物、种豆等等",
     "language": "JavaScript",
-    "stars": 1279,
-    "forks": 1354,
-    "starsInPeriod": 72
-  },
-  {
-    "author": "chavyleung",
-    "name": "scripts",
-    "href": "https://github.com/chavyleung/scripts",
-    "description": null,
-    "language": "JavaScript",
-    "stars": 1466,
-    "forks": 510,
-    "starsInPeriod": 14
-  },
-  {
-    "author": "ruicky",
-    "name": "jd_sign_bot",
-    "href": "https://github.com/ruicky/jd_sign_bot",
-    "description": "京东签到机器人",
-    "language": "JavaScript",
-    "stars": 930,
-    "forks": 1530,
-    "starsInPeriod": 93
-  },
-  {
-    "author": "manga-download",
-    "name": "hakuneko",
-    "href": "https://github.com/manga-download/hakuneko",
-    "description": "Manga & Anime Downloader for Linux, Windows & MacOS",
-    "language": "JavaScript",
-    "stars": 876,
-    "forks": 114,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "Airtable",
-    "name": "airtable.js",
-    "href": "https://github.com/Airtable/airtable.js",
-    "description": "Airtable javascript client",
-    "language": "JavaScript",
-    "stars": 1106,
-    "forks": 207,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "alpinejs",
-    "name": "alpine",
-    "href": "https://github.com/alpinejs/alpine",
-    "description": "A rugged, minimal framework for composing JavaScript behavior in your markup.",
-    "language": "JavaScript",
-    "stars": 11348,
-    "forks": 434,
-    "starsInPeriod": 30
+    "stars": 1392,
+    "forks": 1482,
+    "starsInPeriod": 97
   },
   {
     "author": "pwndoc",
@@ -165,88 +25,228 @@
     "href": "https://github.com/pwndoc/pwndoc",
     "description": "Pentest Report Generator",
     "language": "JavaScript",
-    "stars": 193,
-    "forks": 50,
+    "stars": 215,
+    "forks": 53,
+    "starsInPeriod": 27
+  },
+  {
+    "author": "GitSquared",
+    "name": "edex-ui",
+    "href": "https://github.com/GitSquared/edex-ui",
+    "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "language": "JavaScript",
+    "stars": 18887,
+    "forks": 1058,
+    "starsInPeriod": 305
+  },
+  {
+    "author": "ThisIsBenny",
+    "name": "iOS-Widgets",
+    "href": "https://github.com/ThisIsBenny/iOS-Widgets",
+    "description": "Collection of iOS Widgets",
+    "language": "JavaScript",
+    "stars": 61,
+    "forks": 7,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "trekhleb",
+    "name": "javascript-algorithms",
+    "href": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "stars": 82768,
+    "forks": 14007,
+    "starsInPeriod": 77
+  },
+  {
+    "author": "benmosher",
+    "name": "eslint-plugin-import",
+    "href": "https://github.com/benmosher/eslint-plugin-import",
+    "description": "ESLint plugin with rules that help validate proper imports.",
+    "language": "JavaScript",
+    "stars": 2827,
+    "forks": 936,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "TheAlgorithms",
+    "name": "Javascript",
+    "href": "https://github.com/TheAlgorithms/Javascript",
+    "description": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "language": "JavaScript",
+    "stars": 6890,
+    "forks": 1367,
+    "starsInPeriod": 62
+  },
+  {
+    "author": "jhu-ep-coursera",
+    "name": "fullstack-course4",
+    "href": "https://github.com/jhu-ep-coursera/fullstack-course4",
+    "description": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
+    "language": "JavaScript",
+    "stars": 4177,
+    "forks": 6990,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "facebook",
+    "name": "react-native",
+    "href": "https://github.com/facebook/react-native",
+    "description": "A framework for building native apps with React.",
+    "language": "JavaScript",
+    "stars": 90929,
+    "forks": 20133,
+    "starsInPeriod": 30
+  },
+  {
+    "author": "bradtraversy",
+    "name": "proshop_mern",
+    "href": "https://github.com/bradtraversy/proshop_mern",
+    "description": "Shopping cart built with MERN & Redux",
+    "language": "JavaScript",
+    "stars": 519,
+    "forks": 188,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "jumpserver",
+    "name": "jumpserver",
+    "href": "https://github.com/jumpserver/jumpserver",
+    "description": "JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。",
+    "language": "Python",
+    "stars": 14144,
+    "forks": 3937,
     "starsInPeriod": 19
   },
   {
-    "author": "expressjs",
-    "name": "express",
-    "href": "https://github.com/expressjs/express",
-    "description": "Fast, unopinionated, minimalist web framework for node.",
+    "author": "vercel",
+    "name": "next.js",
+    "href": "https://github.com/vercel/next.js",
+    "description": "The React Framework",
     "language": "JavaScript",
-    "stars": 50631,
-    "forks": 8442,
+    "stars": 54829,
+    "forks": 9175,
+    "starsInPeriod": 45
+  },
+  {
+    "author": "w37fhy",
+    "name": "QuantumultX",
+    "href": "https://github.com/w37fhy/QuantumultX",
+    "description": "同步和更新大佬脚本库，更新懒人配置",
+    "language": "JavaScript",
+    "stars": 127,
+    "forks": 30,
     "starsInPeriod": 11
   },
   {
-    "author": "zadam",
-    "name": "trilium",
-    "href": "https://github.com/zadam/trilium",
-    "description": "Build your personal knowledge base with Trilium Notes",
+    "author": "goldfire",
+    "name": "howler.js",
+    "href": "https://github.com/goldfire/howler.js",
+    "description": "Javascript audio library for the modern web.",
     "language": "JavaScript",
-    "stars": 9090,
-    "forks": 473,
+    "stars": 17347,
+    "forks": 1813,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "zhaoolee",
+    "name": "ChineseBQB",
+    "href": "https://github.com/zhaoolee/ChineseBQB",
+    "description": "🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~",
+    "language": "JavaScript",
+    "stars": 8124,
+    "forks": 872,
+    "starsInPeriod": 25
+  },
+  {
+    "author": "im3x",
+    "name": "Scriptables",
+    "href": "https://github.com/im3x/Scriptables",
+    "description": "iOS14桌面组件神器（Scriptable）开发框架、教程、精美脚本分享",
+    "language": "JavaScript",
+    "stars": 708,
+    "forks": 91,
+    "starsInPeriod": 19
+  },
+  {
+    "author": "open-wc",
+    "name": "open-wc",
+    "href": "https://github.com/open-wc/open-wc",
+    "description": "Open Web Components: guides, tools and libraries for modern web development and web components",
+    "language": "JavaScript",
+    "stars": 1284,
+    "forks": 260,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "ryanmcdermott",
+    "name": "clean-code-javascript",
+    "href": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "description": "🛁 Clean Code concepts adapted for JavaScript",
+    "language": "JavaScript",
+    "stars": 39871,
+    "forks": 4840,
+    "starsInPeriod": 44
+  },
+  {
+    "author": "hakimel",
+    "name": "reveal.js",
+    "href": "https://github.com/hakimel/reveal.js",
+    "description": "The HTML Presentation Framework",
+    "language": "JavaScript",
+    "stars": 53472,
+    "forks": 15121,
+    "starsInPeriod": 21
+  },
+  {
+    "author": "bigbluebutton",
+    "name": "bigbluebutton",
+    "href": "https://github.com/bigbluebutton/bigbluebutton",
+    "description": "Complete open source web conferencing system.",
+    "language": "JavaScript",
+    "stars": 5697,
+    "forks": 5150,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "givanz",
+    "name": "VvvebJs",
+    "href": "https://github.com/givanz/VvvebJs",
+    "description": "Drag and drop website builder javascript library.",
+    "language": "JavaScript",
+    "stars": 3493,
+    "forks": 870,
     "starsInPeriod": 10
   },
   {
-    "author": "processing",
-    "name": "p5.js",
-    "href": "https://github.com/processing/p5.js",
-    "description": "p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —",
+    "author": "rolling-scopes-school",
+    "name": "tasks",
+    "href": "https://github.com/rolling-scopes-school/tasks",
+    "description": null,
     "language": "JavaScript",
-    "stars": 14210,
-    "forks": 2237,
-    "starsInPeriod": 8
+    "stars": 450,
+    "forks": 1852,
+    "starsInPeriod": 1
   },
   {
-    "author": "PrismarineJS",
-    "name": "mineflayer",
-    "href": "https://github.com/PrismarineJS/mineflayer",
-    "description": "Create Minecraft bots with a powerful, stable, and high level JavaScript API.",
+    "author": "jitsi",
+    "name": "jitsi-meet",
+    "href": "https://github.com/jitsi/jitsi-meet",
+    "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.",
     "language": "JavaScript",
-    "stars": 1337,
-    "forks": 300,
-    "starsInPeriod": 11
+    "stars": 14252,
+    "forks": 4385,
+    "starsInPeriod": 18
   },
   {
-    "author": "freeCodeCamp",
-    "name": "freeCodeCamp",
-    "href": "https://github.com/freeCodeCamp/freeCodeCamp",
-    "description": "freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.",
+    "author": "motdotla",
+    "name": "dotenv",
+    "href": "https://github.com/motdotla/dotenv",
+    "description": "Loads environment variables from .env for nodejs projects.",
     "language": "JavaScript",
-    "stars": 316129,
-    "forks": 24955,
-    "starsInPeriod": 43
-  },
-  {
-    "author": "awesome-selfhosted",
-    "name": "awesome-selfhosted",
-    "href": "https://github.com/awesome-selfhosted/awesome-selfhosted",
-    "description": "A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers",
-    "language": "JavaScript",
-    "stars": 49515,
-    "forks": 3919,
-    "starsInPeriod": 89
-  },
-  {
-    "author": "github",
-    "name": "docs",
-    "href": "https://github.com/github/docs",
-    "description": "The open-source repo for docs.github.com",
-    "language": "JavaScript",
-    "stars": 1350,
-    "forks": 2014,
-    "starsInPeriod": 37
-  },
-  {
-    "author": "jojoldu",
-    "name": "junior-recruit-scheduler",
-    "href": "https://github.com/jojoldu/junior-recruit-scheduler",
-    "description": "주니어 개발자 채용 정보",
-    "language": "JavaScript",
-    "stars": 4348,
-    "forks": 787,
-    "starsInPeriod": 5
+    "stars": 12387,
+    "forks": 570,
+    "starsInPeriod": 7
   }
 ]

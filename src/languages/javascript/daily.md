@@ -1,51 +1,51 @@
 # javascript
 - [taobao-11-11](https://github.com/hyue418/taobao-11-11)
   - 🚀2020淘宝+京东+支付宝双十一|双11全民养猫|全民营业自动化脚本【全额奖励，防检测】
-- [edex-ui](https://github.com/GitSquared/edex-ui)
-  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [node](https://github.com/nodejs/node)
-  - Node.js JavaScript runtime ✨🐢🚀✨
-- [popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop)
-  - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player. Desktop ( Windows / Mac / Linux ) a Butter-Project Fork
-- [Scriptables](https://github.com/im3x/Scriptables)
-  - iOS14桌面组件神器（Scriptable）开发框架、教程、精美脚本分享
-- [discord-api-docs](https://github.com/discord/discord-api-docs)
-  - Official Discord API Documentation
-- [complete-node-bootcamp](https://github.com/jonasschmedtmann/complete-node-bootcamp)
-  - Starter files, final projects and FAQ for my Complete Node.js Bootcamp
-- [morse-decoder](https://github.com/romacher/morse-decoder)
-  - 
-- [decentralized-video-chat](https://github.com/ianramzy/decentralized-video-chat)
-  - 🚀 Zipcall.io - 100k users 🚀 Peer to peer browser video calling platform with unmatched video quality and latency.
-- [iOS-Widgets](https://github.com/ThisIsBenny/iOS-Widgets)
-  - Collection of iOS Widgets
 - [scripts](https://github.com/lxk0301/scripts)
   - 京东薅羊毛工具, 京东水果、宠物、种豆等等
-- [scripts](https://github.com/chavyleung/scripts)
-  - 
-- [jd_sign_bot](https://github.com/ruicky/jd_sign_bot)
-  - 京东签到机器人
-- [hakuneko](https://github.com/manga-download/hakuneko)
-  - Manga & Anime Downloader for Linux, Windows & MacOS
-- [airtable.js](https://github.com/Airtable/airtable.js)
-  - Airtable javascript client
-- [alpine](https://github.com/alpinejs/alpine)
-  - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [pwndoc](https://github.com/pwndoc/pwndoc)
   - Pentest Report Generator
-- [express](https://github.com/expressjs/express)
-  - Fast, unopinionated, minimalist web framework for node.
-- [trilium](https://github.com/zadam/trilium)
-  - Build your personal knowledge base with Trilium Notes
-- [p5.js](https://github.com/processing/p5.js)
-  - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
-- [mineflayer](https://github.com/PrismarineJS/mineflayer)
-  - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-  - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
-- [docs](https://github.com/github/docs)
-  - The open-source repo for docs.github.com
-- [junior-recruit-scheduler](https://github.com/jojoldu/junior-recruit-scheduler)
-  - 주니어 개발자 채용 정보
+- [edex-ui](https://github.com/GitSquared/edex-ui)
+  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+- [iOS-Widgets](https://github.com/ThisIsBenny/iOS-Widgets)
+  - Collection of iOS Widgets
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import)
+  - ESLint plugin with rules that help validate proper imports.
+- [Javascript](https://github.com/TheAlgorithms/Javascript)
+  - A repository for All algorithms implemented in Javascript (for educational purposes only)
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
+- [proshop_mern](https://github.com/bradtraversy/proshop_mern)
+  - Shopping cart built with MERN & Redux
+- [jumpserver](https://github.com/jumpserver/jumpserver)
+  - JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。
+- [next.js](https://github.com/vercel/next.js)
+  - The React Framework
+- [QuantumultX](https://github.com/w37fhy/QuantumultX)
+  - 同步和更新大佬脚本库，更新懒人配置
+- [howler.js](https://github.com/goldfire/howler.js)
+  - Javascript audio library for the modern web.
+- [ChineseBQB](https://github.com/zhaoolee/ChineseBQB)
+  - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
+- [Scriptables](https://github.com/im3x/Scriptables)
+  - iOS14桌面组件神器（Scriptable）开发框架、教程、精美脚本分享
+- [open-wc](https://github.com/open-wc/open-wc)
+  - Open Web Components: guides, tools and libraries for modern web development and web components
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [reveal.js](https://github.com/hakimel/reveal.js)
+  - The HTML Presentation Framework
+- [bigbluebutton](https://github.com/bigbluebutton/bigbluebutton)
+  - Complete open source web conferencing system.
+- [VvvebJs](https://github.com/givanz/VvvebJs)
+  - Drag and drop website builder javascript library.
+- [tasks](https://github.com/rolling-scopes-school/tasks)
+  - 
+- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
+  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [dotenv](https://github.com/motdotla/dotenv)
+  - Loads environment variables from .env for nodejs projects.

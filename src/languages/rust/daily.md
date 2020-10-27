@@ -1,51 +1,51 @@
 # rust
 - [nat](https://github.com/willdoescode/nat)
   - ⚡️ nat - the 'ls' replacement you never knew you needed⚡️
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [bat](https://github.com/sharkdp/bat)
-  - A cat(1) clone with wings.
-- [bevy](https://github.com/bevyengine/bevy)
-  - A refreshingly simple data-driven game engine built in Rust
-- [ggez](https://github.com/ggez/ggez)
-  - Rust library to create a Good Game Easily
-- [wasmtime](https://github.com/bytecodealliance/wasmtime)
-  - Standalone JIT-style runtime for WebAssembly, using Cranelift
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
-- [yew](https://github.com/yewstack/yew)
-  - Rust / Wasm framework for building client web apps
-- [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim)
-  - Language Server Protocol (LSP) support for vim and neovim.
-- [rustlings](https://github.com/rust-lang/rustlings)
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [tokio-tungstenite](https://github.com/snapview/tokio-tungstenite)
-  - Tokio binding for Tungstenite, the Lightweight stream-based WebSocket implementation
-- [substrate](https://github.com/paritytech/substrate)
-  - Substrate: The platform for blockchain innovators
-- [oso](https://github.com/osohq/oso)
-  - oso is an open source policy engine for authorization that’s embedded in your application
-- [spotifyd](https://github.com/Spotifyd/spotifyd)
-  - A spotify daemon
-- [seed](https://github.com/seed-rs/seed)
-  - A Rust framework for creating web apps
-- [opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust)
-  - OpenTelemetry API and SDK for Rust
-- [nom](https://github.com/Geal/nom)
-  - Rust parser combinator framework
-- [talent-plan](https://github.com/pingcap/talent-plan)
-  - open source training courses about distributed database and distributed systemes
 - [pueue](https://github.com/Nukesor/pueue)
   - 🌠 Manage your shell commands.
-- [tide](https://github.com/http-rs/tide)
-  - Fast and friendly HTTP server framework for async Rust
-- [xi-editor](https://github.com/xi-editor/xi-editor)
-  - A modern editor with a backend written in Rust.
-- [nushell](https://github.com/nushell/nushell)
-  - A new type of shell
-- [tract](https://github.com/sonos/tract)
-  - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
-- [physx-rs](https://github.com/EmbarkStudios/physx-rs)
-  - 🎳 Rust binding and wrapper over NVIDIA PhysX 🦀
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [polkadot](https://github.com/paritytech/polkadot)
+  - Polkadot Node Implementation
+- [rustlings](https://github.com/rust-lang/rustlings)
+  - 🦀 Small exercises to get you used to reading and writing Rust code!
+- [WASI](https://github.com/WebAssembly/WASI)
+  - WebAssembly System Interface
+- [wasmtime](https://github.com/bytecodealliance/wasmtime)
+  - Standalone JIT-style runtime for WebAssembly, using Cranelift
+- [fnm](https://github.com/Schniz/fnm)
+  - 🚀 Fast and simple Node.js version manager, built in Rust
+- [bevy](https://github.com/bevyengine/bevy)
+  - A refreshingly simple data-driven game engine built in Rust
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
+- [ggez](https://github.com/ggez/ggez)
+  - Rust library to create a Good Game Easily
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [tikv](https://github.com/tikv/tikv)
+  - Distributed transactional key-value database, originally created to complement TiDB
+- [hyper](https://github.com/hyperium/hyper)
+  - An HTTP library for Rust
+- [warp](https://github.com/seanmonstar/warp)
+  - A super-easy, composable, web server framework for warp speeds.
+- [mdBook](https://github.com/rust-lang/mdBook)
+  - Create book from markdown files. Like Gitbook but implemented in Rust
+- [lighthouse](https://github.com/sigp/lighthouse)
+  - Rust Ethereum 2.0 Client
+- [quiche](https://github.com/cloudflare/quiche)
+  - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+- [clap](https://github.com/clap-rs/clap)
+  - A full featured, fast Command Line Argument Parser for Rust
+- [tokenizers](https://github.com/huggingface/tokenizers)
+  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [building-blocks](https://github.com/bonsairobo/building-blocks)
+  - A voxel library for real-time applications.
+- [akri](https://github.com/deislabs/akri)
+  - A Kubernetes Resource Interface for the Edge
+- [tui-rs](https://github.com/fdehau/tui-rs)
+  - Build terminal user interfaces and dashboards using Rust
+- [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim)
+  - Language Server Protocol (LSP) support for vim and neovim.
+- [cargo](https://github.com/rust-lang/cargo)
+  - The Rust package manager

@@ -1,51 +1,51 @@
 # typescript
-- [tools](https://github.com/rome/tools)
-  - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
-- [foam](https://github.com/foambubble/foam)
-  - A personal knowledge management and sharing system for VSCode
-- [homebridge](https://github.com/homebridge/homebridge)
-  - HomeKit support for the impatient
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [sapper](https://github.com/sveltejs/sapper)
-  - The next small thing in web development, powered by Svelte
-- [brain.js](https://github.com/BrainJS/brain.js)
-  - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
-- [ink](https://github.com/vadimdemedes/ink)
-  - 🌈 React for interactive command-line apps
-- [react-chrono](https://github.com/prabhuignoto/react-chrono)
-  - Modern Timeline component for React
+- [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper)
+  - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
+- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs)
+  - Modern & flexible browser fingerprinting library
+- [JDCouponAssistant](https://github.com/krapnikkk/JDCouponAssistant)
+  - 京东网页端领优惠券&营销活动&日常签到的浏览器JS脚本插件
 - [react-spectrum](https://github.com/adobe/react-spectrum)
   - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
-- [hetty](https://github.com/dstotijn/hetty)
-  - Hetty is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.
-- [lireddit](https://github.com/benawad/lireddit)
-  - 
-- [shell](https://github.com/pop-os/shell)
-  - Pop!_OS Shell
-- [homebridge-config-ui-x](https://github.com/oznu/homebridge-config-ui-x)
-  - The Homebridge UI. Monitor, configure and backup Homebridge from a browser.
-- [hospitalrun-frontend](https://github.com/HospitalRun/hospitalrun-frontend)
-  - Frontend for HospitalRun
-- [oso-nest-demo](https://github.com/osohq/oso-nest-demo)
-  - 
-- [fusliez-notes](https://github.com/Kedyn/fusliez-notes)
-  - A companion notes app for Among Us social deduction game. Lets you track of your thoughts and your winning record, and includes a notepad and maps.
+- [react-query](https://github.com/tannerlinsley/react-query)
+  - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+- [react-navigation](https://github.com/react-navigation/react-navigation)
+  - Routing and navigation for your React Native apps
+- [slate](https://github.com/ianstormtaylor/slate)
+  - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [super-productivity](https://github.com/johannesjo/super-productivity)
   - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration
-- [team-blog-hub](https://github.com/catnose99/team-blog-hub)
-  - RSS based blog starter kit for teams
-- [lightweight-charts](https://github.com/tradingview/lightweight-charts)
-  - Financial lightweight charts built with HTML5 canvas
-- [etcher](https://github.com/balena-io/etcher)
-  - Flash OS images to SD cards & USB drives, safely and easily.
-- [coc.nvim](https://github.com/neoclide/coc.nvim)
-  - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
-- [tensorboard](https://github.com/tensorflow/tensorboard)
-  - TensorFlow's Visualization Toolkit
-- [awesomo](https://github.com/lk-geimfari/awesomo)
-  - A list of cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
+- [nx](https://github.com/nrwl/nx)
+  - Extensible Dev Tools for Monorepos
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui)
+  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+- [fullcalendar](https://github.com/fullcalendar/fullcalendar)
+  - Full-sized drag & drop event calendar
+- [backstage](https://github.com/spotify/backstage)
+  - Backstage is an open platform for building developer portals
+- [tfjs-models](https://github.com/tensorflow/tfjs-models)
+  - Pretrained models for TensorFlow.js
+- [js-lingui](https://github.com/lingui/js-lingui)
+  - 🌍📖 A readable, automated, and optimized (5 kb) internationalization for JavaScript
+- [react-dnd](https://github.com/react-dnd/react-dnd)
+  - Drag and Drop for React
+- [lucia](https://github.com/aidenybai/lucia)
+  - 🟪 Tiny library for tiny web apps.
+- [angular](https://github.com/angular/angular)
+  - One framework. Mobile & desktop.
+- [firebase-tools](https://github.com/firebase/firebase-tools)
+  - The Firebase Command Line Tools
+- [hetty](https://github.com/dstotijn/hetty)
+  - Hetty is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.
+- [foam](https://github.com/foambubble/foam)
+  - A personal knowledge management and sharing system for VSCode
 - [TypeScript](https://github.com/microsoft/TypeScript)
   - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [serverless](https://github.com/cdk-patterns/serverless)
-  - This is intended to be a repo containing all of the official AWS Serverless architecture patterns built with CDK for developers to use. All patterns come in Typescript and Python with the exported CloudFormation also included.
+- [wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+  - 💬 🤖 The most advanced NodeJS WhatsApp library for chatbots with advanced features. Be sure to 🌟 this repository for updates!
+- [nest](https://github.com/nestjs/nest)
+  - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [aws-cdk](https://github.com/aws/aws-cdk)
+  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+- [sparrow](https://github.com/sparrow-js/sparrow)
+  - 🎉场景化低代码（LowCode）搭建工作台，实时输出源代码

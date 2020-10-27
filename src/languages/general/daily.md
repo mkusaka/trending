@@ -1,49 +1,50 @@
 # general
 - [taobao-11-11](https://github.com/hyue418/taobao-11-11) : JavaScript
   - 🚀2020淘宝+京东+支付宝双十一|双11全民养猫|全民营业自动化脚本【全额奖励，防检测】
-- [yt-dlc](https://github.com/blackjack4494/yt-dlc) : Python
-- [youtube-dl](https://github.com/l1ving/youtube-dl) : Python
-  - A copyright-respecting fork of youtube-dl
 - [sherlock](https://github.com/sherlock-project/sherlock) : Python
   - 🔎 Hunt down social media accounts by username across social networks
+- [yt-dlc](https://github.com/blackjack4494/yt-dlc) : Python
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
 - [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) : Shell
   - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
-- [NewPipe](https://github.com/TeamNewPipe/NewPipe) : Java
-  - A libre lightweight streaming front-end for Android.
-- [core](https://github.com/home-assistant/core) : Python
-  - 🏡 Open source home automation that puts local control and privacy first
-- [nat](https://github.com/willdoescode/nat) : Rust
-  - ⚡️ nat - the 'ls' replacement you never knew you needed⚡️
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+- [aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller) : Go
+  - A Kubernetes controller for Elastic Load Balancers
+- [EssayKiller_V2](https://github.com/EssayKillerBrain/EssayKiller_V2) : Python
+  - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
 - [loruki-website](https://github.com/bradtraversy/loruki-website) : HTML
   - Cloud hosting website
-- [not-youtube-dl](https://github.com/scastillo/not-youtube-dl) : Python
-  - This is not youtube-dl
+- [wsb-detect](https://github.com/LloydLabs/wsb-detect) : C
+  - wsb-detect enables you to detect if you are running in Windows Sandbox ("WSB")
+- [go-echarts](https://github.com/go-echarts/go-echarts) : Go
+  - 🎨 The adorable charts library for Golang
 - [dmca](https://github.com/github/dmca) : Rich Text Format
   - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
 - [HowToHunt](https://github.com/KathanP19/HowToHunt) : 
   - Tutorials and Things to Do while Hunting Vulnerability.
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
-- [SkyAR](https://github.com/jiupinjia/SkyAR) : Python
-  - Dynamic sky replacement and harmonization in videos
-- [edex-ui](https://github.com/GitSquared/edex-ui) : JavaScript
-  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [vision_transformer](https://github.com/google-research/vision_transformer) : Jupyter Notebook
-- [EssayKiller_V2](https://github.com/EssayKillerBrain/EssayKiller_V2) : Python
-  - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
-- [win10script](https://github.com/ChrisTitusTech/win10script) : PowerShell
-  - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
+- [youtube-dl](https://github.com/l1ving/youtube-dl) : Python
+  - A copyright-respecting fork of youtube-dl
+- [not-youtube-dl](https://github.com/scastillo/not-youtube-dl) : Python
+  - This is not youtube-dl
 - [openpilot](https://github.com/commaai/openpilot) : C++
   - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
-- [manim](https://github.com/3b1b/manim) : Python
-  - Animation engine for explanatory math videos
+- [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) : Java
+  - To Be Top Javaer - Java工程师成神之路
 - [advmlthreatmatrix](https://github.com/mitre/advmlthreatmatrix) : 
   - Adversarial Threat Matrix
+- [malwoverview](https://github.com/alexandreborges/malwoverview) : Python
+  - Malwoverview is a first response tool used for downloading and screening malware samples, suspicious URLs, IP address, domains. Malwoverview offers threat hunting information from Virus Total, Hybrid Analysis, URLHaus, Polyswarm, Malshare, Alien Vault, Malpedia, ThreatCrowd, Valhalla and it is able to scan Android devices against VT and HA.
+- [free](https://github.com/freefq/free) : 
+  - 免费科学上网,免费翻墙,免费ssr,免费v2ray,免费vmess节点,免费节点,翻墙,蓝灯,谷歌商店
+- [project-based-learning](https://github.com/tuvtran/project-based-learning) : 
+  - Curated list of project-based tutorials
+- [scripts](https://github.com/lxk0301/scripts) : JavaScript
+  - 京东薅羊毛工具, 京东水果、宠物、种豆等等
+- [awesome-python](https://github.com/vinta/awesome-python) : Python
+  - A curated list of awesome Python frameworks, libraries, software and resources
 - [endlessh](https://github.com/skeeto/endlessh) : C
   - SSH tarpit that slowly sends an endless banner
-- [ShameCom](https://github.com/ShameCom/ShameCom) : 
-  - 收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！
-- [Ariel_OOP_2020](https://github.com/simon-pikalov/Ariel_OOP_2020) : Java
-  - This repository is dedicated for Object-Oriented Programming course.
-- [DeepFaceLab](https://github.com/iperov/DeepFaceLab) : Python
-  - DeepFaceLab is the leading software for creating deepfakes.
+- [nat](https://github.com/willdoescode/nat) : Rust
+  - ⚡️ nat - the 'ls' replacement you never knew you needed⚡️
