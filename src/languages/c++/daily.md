@@ -1,51 +1,51 @@
 # c++
 - [openpilot](https://github.com/commaai/openpilot)
   - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
-- [imgui](https://github.com/ocornut/imgui)
-  - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-- [esphome](https://github.com/esphome/esphome)
-  - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
-- [PowerToys](https://github.com/microsoft/PowerToys)
-  - Windows system utilities to maximize productivity
-- [BIGTREETECH-SKR-mini-E3](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3)
-  - BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.
-- [abseil-cpp](https://github.com/abseil/abseil-cpp)
-  - Abseil Common Libraries (C++)
-- [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2)
-  - An open source re-implementation of RollerCoaster Tycoon 2 🎢
-- [warzone2100](https://github.com/Warzone2100/warzone2100)
-  - Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, Linux, BSD+
-- [shelly-homekit](https://github.com/mongoose-os-apps/shelly-homekit)
-  - Apple HomeKit firmware for Shelly switches
-- [Arduino](https://github.com/esp8266/Arduino)
-  - ESP8266 core for Arduino
-- [Magisk](https://github.com/topjohnwu/Magisk)
-  - The Magic Mask for Android
-- [TrinityCore](https://github.com/TrinityCore/TrinityCore)
-  - TrinityCore Open Source MMO Framework (master = 8.3.7.35662, 3.3.5 = 3.3.5a.12340)
-- [terminal](https://github.com/microsoft/terminal)
-  - The new Windows Terminal and the original Windows console host, all in the same place!
-- [Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-  - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
-- [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
-  - C++ 匠心之作 从0到1入门资料
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [videos](https://github.com/OneLoneCoder/videos)
-  - The official distribution of olcConsoleGameEngine, a tool used in javidx9's YouTube videos and projects
-- [electron](https://github.com/electron/electron)
-  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [bgfx](https://github.com/bkaradzic/bgfx)
-  - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
-- [mongo](https://github.com/mongodb/mongo)
-  - The MongoDB Database
-- [Hazel](https://github.com/TheCherno/Hazel)
-  - Hazel Engine
-- [yosys](https://github.com/YosysHQ/yosys)
-  - Yosys Open SYnthesis Suite
 - [bitcoin](https://github.com/bitcoin/bitcoin)
   - Bitcoin Core integration/staging tree
-- [aria2](https://github.com/aria2/aria2)
-  - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-- [open-zwave](https://github.com/OpenZWave/open-zwave)
-  - a C++ library to control Z-Wave Networks via a USB Z-Wave Controller.
+- [imgui](https://github.com/ocornut/imgui)
+  - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+- [json](https://github.com/nlohmann/json)
+  - JSON for Modern C++
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+  - Awesome OCR toolkits based on PaddlePaddle （3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）
+- [tensorflow](https://github.com/tensorflow/tensorflow)
+  - An Open Source Machine Learning Framework for Everyone
+- [Hazel](https://github.com/TheCherno/Hazel)
+  - Hazel Engine
+- [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
+  - C++ 匠心之作 从0到1入门资料
+- [Catch2](https://github.com/catchorg/Catch2)
+  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [mongo](https://github.com/mongodb/mongo)
+  - The MongoDB Database
+- [Qv2ray](https://github.com/Qv2ray/Qv2ray)
+  - ⭐ Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / SOCKS5 | 使用 C++ / Qt5 开发 | 可拓展插件式设计 ⭐
+- [cpprestsdk](https://github.com/microsoft/cpprestsdk)
+  - The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
+- [connectedhomeip](https://github.com/project-chip/connectedhomeip)
+  - Project Connected Home over IP is a new Working Group within the Zigbee Alliance. This Working Group plans to develop and promote the adoption of a new connectivity standard to increase compatibility among smart home products, with security as a fundamental design tenet.
+- [yuzu](https://github.com/yuzu-emu/yuzu)
+  - Nintendo Switch Emulator
+- [pytorch](https://github.com/pytorch/pytorch)
+  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [EmissionControl2](https://github.com/EmissionControl2/EmissionControl2)
+  - EmissionControl2 (EC2) is a standalone interactive real-time application for granular synthesis and sound file granulation. It is available for OSX, Linux, and Windows.
+- [protobuf](https://github.com/protocolbuffers/protobuf)
+  - Protocol Buffers - Google's data interchange format
+- [onnx-tensorrt](https://github.com/onnx/onnx-tensorrt)
+  - ONNX-TensorRT: TensorRT backend for ONNX
+- [faiss](https://github.com/facebookresearch/faiss)
+  - A library for efficient similarity search and clustering of dense vectors.
+- [apollo](https://github.com/ApolloAuto/apollo)
+  - An open autonomous driving platform
+- [OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph)
+  - OpenSceneGraph git repository
+- [taskflow](https://github.com/taskflow/taskflow)
+  - Parallel and Heterogeneous Task Programming in Modern C++
+- [opencv](https://github.com/opencv/opencv)
+  - Open Source Computer Vision Library
+- [grpc](https://github.com/grpc/grpc)
+  - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [googletest](https://github.com/google/googletest)
+  - Googletest - Google Testing and Mocking Framework

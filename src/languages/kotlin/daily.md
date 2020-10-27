@@ -1,51 +1,51 @@
 # kotlin
-- [VancedManager](https://github.com/YTVanced/VancedManager)
-  - Vanced Installer
+- [2020-Fundamentals-Kotlin](https://github.com/Android-Academy-Global/2020-Fundamentals-Kotlin)
+  - 
 - [tachiyomi](https://github.com/inorichi/tachiyomi)
   - Free and open source manga reader for Android
-- [TapTap](https://github.com/KieronQuinn/TapTap)
-  - Port of the double tap on back of device feature from Android 11 to any Android 7.0+ device
-- [v2rayNG](https://github.com/2dust/v2rayNG)
-  - 
-- [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
-  - A shadowsocks client for Android
-- [fenix](https://github.com/mozilla-mobile/fenix)
-  - Firefox for Android
-- [element-android](https://github.com/vector-im/element-android)
-  - A glossy Matrix collaboration client for Android.
-- [legado](https://github.com/gedoor/legado)
-  - 阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-- [karel](https://github.com/fredoverflow/karel)
-  - Karel The Robot
-- [compose-dogfooding](https://github.com/lelandrichardson/compose-dogfooding)
-  - Code written during the Compose Dogfooding streams
-- [tokens](https://github.com/ethereum-lists/tokens)
-  - Ethereum token definitions
-- [Animation-Tutorials](https://github.com/SmartToolFactory/Animation-Tutorials)
-  - 🍭🚀💗 Tutorials about animations with Animators, Animated Vector Drawables, Shared Transitions, and more
-- [mirai-console](https://github.com/mamoe/mirai-console)
-  - mirai 的高效率 QQ 机器人控制台
-- [Android](https://github.com/duckduckgo/Android)
-  - DuckDuckGo Android App
-- [leakcanary](https://github.com/square/leakcanary)
-  - A memory leak detection library for Android.
-- [AccA](https://github.com/MatteCarra/AccA)
-  - Acc app allows to edit acc config file and add a tile to start and stop acc deamon
-- [tornadofx](https://github.com/edvin/tornadofx)
-  - Lightweight JavaFX Framework for Kotlin
-- [tachiyomi-extensions](https://github.com/inorichi/tachiyomi-extensions)
-  - 
-- [Neko](https://github.com/CarlosEsco/Neko)
-  - Free, open source, unofficial MangaDex reader for Android
-- [mirai](https://github.com/mamoe/mirai)
-  - 高效率 QQ 机器人框架 / High-performance bot framework for Tencent QQ
-- [android-kotlin-fundamentals-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-apps)
-  - android-kotlin-fundamentals-apps
-- [Pokedex](https://github.com/skydoves/Pokedex)
-  - 🗡️ Android Pokedex using Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
-- [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery)
-  - Browse your memories without any interruptions with this photo and video gallery
-- [Exposed](https://github.com/JetBrains/Exposed)
-  - Kotlin SQL Framework
 - [red-screen-of-death](https://github.com/mlegy/red-screen-of-death)
   - A simple screen that is shown when your app gets crashed instead of the normal crash dialog. It's very similar to the one in Flutter.
+- [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
+  - A shadowsocks client for Android
+- [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines)
+  - Library support for Kotlin coroutines
+- [p3c](https://github.com/alibaba/p3c)
+  - Alibaba Java Coding Guidelines pmd implements and IDE plugin
+- [ZY-Player-Android](https://github.com/vicedev/ZY-Player-Android)
+  - 基于https://github.com/Hunlongyu/ZY-Player 做的Android版本 资源播放器
+- [mapbox-navigation-android](https://github.com/mapbox/mapbox-navigation-android)
+  - Mapbox Navigation SDK for Android
+- [iosched](https://github.com/google/iosched)
+  - The Google I/O 2019 Android App
+- [intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template)
+  - Template repository for creating plugins for IntelliJ Platform
+- [material-components-android-examples](https://github.com/material-components/material-components-android-examples)
+  - Companion example apps and code for MDC-Android.
+- [Unciv](https://github.com/yairm210/Unciv)
+  - Open-source Android/Desktop remake of Civ V
+- [javalin](https://github.com/tipsy/javalin)
+  - A simple and modern Java and Kotlin web framework
+- [koin](https://github.com/InsertKoinIO/koin)
+  - Koin - a pragmatic lightweight dependency injection framework for Kotlin
+- [play-billing-samples](https://github.com/android/play-billing-samples)
+  - Samples for Google Play In-app Billing
+- [SuperXml](https://github.com/long8313002/SuperXml)
+  - android布局能力增加，轻松实现圆角、边框、虚线、属性覆盖等功能。完全无侵入
+- [awesome-android-kotlin-apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps)
+  - [Hacktoberfest] 👓 A curated list of awesome android kotlin apps by open-source contributors.
+- [JetpackMvvm](https://github.com/hegaojian/JetpackMvvm)
+  - 🐔🐔🐔一个Jetpack结合MVVM的快速开发框架，基于MVVM模式集成谷歌官方推荐的JetPack组件库：LiveData、ViewModel、Lifecycle、Navigation组件 使用Kotlin语言，添加大量拓展函数，简化代码 加入Retrofit网络请求,协程，帮你简化各种操作，让你快速开发项目
+- [mockk](https://github.com/mockk/mockk)
+  - mocking library for Kotlin
+- [stripe-android](https://github.com/stripe/stripe-android)
+  - Stripe Android SDK
+- [intellij-rust](https://github.com/intellij-rust/intellij-rust)
+  - Rust plugin for the IntelliJ Platform
+- [v2rayNG](https://github.com/2dust/v2rayNG)
+  - 
+- [AnimeXStream](https://github.com/mukul500/AnimeXStream)
+  - An Android app to watch anime on your phone without ads.
+- [dotsindicator](https://github.com/tommybuonomo/dotsindicator)
+  - Three material Dots Indicators for view pagers in Android !
+- [ktor](https://github.com/ktorio/ktor)
+  - Framework for quickly creating connected applications in Kotlin with minimal effort

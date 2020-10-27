@@ -5,219 +5,9 @@
     "href": "https://github.com/commaai/openpilot",
     "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.",
     "language": "C++",
-    "stars": 18017,
-    "forks": 4223,
-    "starsInPeriod": 246
-  },
-  {
-    "author": "ocornut",
-    "name": "imgui",
-    "href": "https://github.com/ocornut/imgui",
-    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
-    "language": "C++",
-    "stars": 24168,
-    "forks": 4070,
-    "starsInPeriod": 17
-  },
-  {
-    "author": "esphome",
-    "name": "esphome",
-    "href": "https://github.com/esphome/esphome",
-    "description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
-    "language": "C++",
-    "stars": 2319,
-    "forks": 629,
-    "starsInPeriod": 12
-  },
-  {
-    "author": "microsoft",
-    "name": "PowerToys",
-    "href": "https://github.com/microsoft/PowerToys",
-    "description": "Windows system utilities to maximize productivity",
-    "language": "C++",
-    "stars": 40358,
-    "forks": 2173,
-    "starsInPeriod": 90
-  },
-  {
-    "author": "bigtreetech",
-    "name": "BIGTREETECH-SKR-mini-E3",
-    "href": "https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3",
-    "description": "BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.",
-    "language": "C++",
-    "stars": 760,
-    "forks": 1046,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "abseil",
-    "name": "abseil-cpp",
-    "href": "https://github.com/abseil/abseil-cpp",
-    "description": "Abseil Common Libraries (C++)",
-    "language": "C++",
-    "stars": 7614,
-    "forks": 1398,
-    "starsInPeriod": 9
-  },
-  {
-    "author": "OpenRCT2",
-    "name": "OpenRCT2",
-    "href": "https://github.com/OpenRCT2/OpenRCT2",
-    "description": "An open source re-implementation of RollerCoaster Tycoon 2 🎢",
-    "language": "C++",
-    "stars": 8804,
-    "forks": 1037,
-    "starsInPeriod": 9
-  },
-  {
-    "author": "Warzone2100",
-    "name": "warzone2100",
-    "href": "https://github.com/Warzone2100/warzone2100",
-    "description": "Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, Linux, BSD+",
-    "language": "C++",
-    "stars": 1425,
-    "forks": 355,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "mongoose-os-apps",
-    "name": "shelly-homekit",
-    "href": "https://github.com/mongoose-os-apps/shelly-homekit",
-    "description": "Apple HomeKit firmware for Shelly switches",
-    "language": "C++",
-    "stars": 286,
-    "forks": 43,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "esp8266",
-    "name": "Arduino",
-    "href": "https://github.com/esp8266/Arduino",
-    "description": "ESP8266 core for Arduino",
-    "language": "C++",
-    "stars": 11994,
-    "forks": 10223,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "topjohnwu",
-    "name": "Magisk",
-    "href": "https://github.com/topjohnwu/Magisk",
-    "description": "The Magic Mask for Android",
-    "language": "C++",
-    "stars": 13833,
-    "forks": 2253,
-    "starsInPeriod": 16
-  },
-  {
-    "author": "TrinityCore",
-    "name": "TrinityCore",
-    "href": "https://github.com/TrinityCore/TrinityCore",
-    "description": "TrinityCore Open Source MMO Framework (master = 8.3.7.35662, 3.3.5 = 3.3.5a.12340)",
-    "language": "C++",
-    "stars": 6404,
-    "forks": 4935,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "microsoft",
-    "name": "terminal",
-    "href": "https://github.com/microsoft/terminal",
-    "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
-    "language": "C++",
-    "stars": 68809,
-    "forks": 6321,
-    "starsInPeriod": 35
-  },
-  {
-    "author": "CleverRaven",
-    "name": "Cataclysm-DDA",
-    "href": "https://github.com/CleverRaven/Cataclysm-DDA",
-    "description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
-    "language": "C++",
-    "stars": 4581,
-    "forks": 2536,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "AnkerLeng",
-    "name": "Cpp-0-1-Resource",
-    "href": "https://github.com/AnkerLeng/Cpp-0-1-Resource",
-    "description": "C++ 匠心之作 从0到1入门资料",
-    "language": "C++",
-    "stars": 1728,
-    "forks": 940,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "godotengine",
-    "name": "godot",
-    "href": "https://github.com/godotengine/godot",
-    "description": "Godot Engine – Multi-platform 2D and 3D game engine",
-    "language": "C++",
-    "stars": 34243,
-    "forks": 6481,
-    "starsInPeriod": 32
-  },
-  {
-    "author": "OneLoneCoder",
-    "name": "videos",
-    "href": "https://github.com/OneLoneCoder/videos",
-    "description": "The official distribution of olcConsoleGameEngine, a tool used in javidx9's YouTube videos and projects",
-    "language": "C++",
-    "stars": 989,
-    "forks": 797,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "electron",
-    "name": "electron",
-    "href": "https://github.com/electron/electron",
-    "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
-    "language": "C++",
-    "stars": 86561,
-    "forks": 11623,
-    "starsInPeriod": 23
-  },
-  {
-    "author": "bkaradzic",
-    "name": "bgfx",
-    "href": "https://github.com/bkaradzic/bgfx",
-    "description": "Cross-platform, graphics API agnostic, \"Bring Your Own Engine/Framework\" style rendering library.",
-    "language": "C++",
-    "stars": 8498,
-    "forks": 1336,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "mongodb",
-    "name": "mongo",
-    "href": "https://github.com/mongodb/mongo",
-    "description": "The MongoDB Database",
-    "language": "C++",
-    "stars": 18715,
-    "forks": 4627,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "TheCherno",
-    "name": "Hazel",
-    "href": "https://github.com/TheCherno/Hazel",
-    "description": "Hazel Engine",
-    "language": "C++",
-    "stars": 4280,
-    "forks": 614,
-    "starsInPeriod": 57
-  },
-  {
-    "author": "YosysHQ",
-    "name": "yosys",
-    "href": "https://github.com/YosysHQ/yosys",
-    "description": "Yosys Open SYnthesis Suite",
-    "language": "C++",
-    "stars": 1449,
-    "forks": 436,
-    "starsInPeriod": 3
+    "stars": 18290,
+    "forks": 4231,
+    "starsInPeriod": 256
   },
   {
     "author": "bitcoin",
@@ -225,28 +15,238 @@
     "href": "https://github.com/bitcoin/bitcoin",
     "description": "Bitcoin Core integration/staging tree",
     "language": "C++",
-    "stars": 45628,
-    "forks": 26501,
-    "starsInPeriod": 20
+    "stars": 45659,
+    "forks": 26515,
+    "starsInPeriod": 39
   },
   {
-    "author": "aria2",
-    "name": "aria2",
-    "href": "https://github.com/aria2/aria2",
-    "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
+    "author": "ocornut",
+    "name": "imgui",
+    "href": "https://github.com/ocornut/imgui",
+    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
     "language": "C++",
-    "stars": 21210,
-    "forks": 2546,
-    "starsInPeriod": 16
+    "stars": 24188,
+    "forks": 4074,
+    "starsInPeriod": 22
   },
   {
-    "author": "OpenZWave",
-    "name": "open-zwave",
-    "href": "https://github.com/OpenZWave/open-zwave",
-    "description": "a C++ library to control Z-Wave Networks via a USB Z-Wave Controller.",
+    "author": "nlohmann",
+    "name": "json",
+    "href": "https://github.com/nlohmann/json",
+    "description": "JSON for Modern C++",
     "language": "C++",
-    "stars": 969,
-    "forks": 903,
+    "stars": 20761,
+    "forks": 3679,
+    "starsInPeriod": 12
+  },
+  {
+    "author": "PaddlePaddle",
+    "name": "PaddleOCR",
+    "href": "https://github.com/PaddlePaddle/PaddleOCR",
+    "description": "Awesome OCR toolkits based on PaddlePaddle （3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）",
+    "language": "C++",
+    "stars": 5213,
+    "forks": 979,
+    "starsInPeriod": 605
+  },
+  {
+    "author": "tensorflow",
+    "name": "tensorflow",
+    "href": "https://github.com/tensorflow/tensorflow",
+    "description": "An Open Source Machine Learning Framework for Everyone",
+    "language": "C++",
+    "stars": 149584,
+    "forks": 83090,
+    "starsInPeriod": 49
+  },
+  {
+    "author": "TheCherno",
+    "name": "Hazel",
+    "href": "https://github.com/TheCherno/Hazel",
+    "description": "Hazel Engine",
+    "language": "C++",
+    "stars": 4288,
+    "forks": 619,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "AnkerLeng",
+    "name": "Cpp-0-1-Resource",
+    "href": "https://github.com/AnkerLeng/Cpp-0-1-Resource",
+    "description": "C++ 匠心之作 从0到1入门资料",
+    "language": "C++",
+    "stars": 1731,
+    "forks": 940,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "catchorg",
+    "name": "Catch2",
+    "href": "https://github.com/catchorg/Catch2",
+    "description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)",
+    "language": "C++",
+    "stars": 12248,
+    "forks": 2056,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "mongodb",
+    "name": "mongo",
+    "href": "https://github.com/mongodb/mongo",
+    "description": "The MongoDB Database",
+    "language": "C++",
+    "stars": 18724,
+    "forks": 4630,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "Qv2ray",
+    "name": "Qv2ray",
+    "href": "https://github.com/Qv2ray/Qv2ray",
+    "description": "⭐ Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / SOCKS5 | 使用 C++ / Qt5 开发 | 可拓展插件式设计 ⭐",
+    "language": "C++",
+    "stars": 6495,
+    "forks": 1041,
+    "starsInPeriod": 34
+  },
+  {
+    "author": "microsoft",
+    "name": "cpprestsdk",
+    "href": "https://github.com/microsoft/cpprestsdk",
+    "description": "The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.",
+    "language": "C++",
+    "stars": 5716,
+    "forks": 1338,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "project-chip",
+    "name": "connectedhomeip",
+    "href": "https://github.com/project-chip/connectedhomeip",
+    "description": "Project Connected Home over IP is a new Working Group within the Zigbee Alliance. This Working Group plans to develop and promote the adoption of a new connectivity standard to increase compatibility among smart home products, with security as a fundamental design tenet.",
+    "language": "C++",
+    "stars": 747,
+    "forks": 135,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "yuzu-emu",
+    "name": "yuzu",
+    "href": "https://github.com/yuzu-emu/yuzu",
+    "description": "Nintendo Switch Emulator",
+    "language": "C++",
+    "stars": 12324,
+    "forks": 1019,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "pytorch",
+    "name": "pytorch",
+    "href": "https://github.com/pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "language": "C++",
+    "stars": 43410,
+    "forks": 11380,
+    "starsInPeriod": 37
+  },
+  {
+    "author": "EmissionControl2",
+    "name": "EmissionControl2",
+    "href": "https://github.com/EmissionControl2/EmissionControl2",
+    "description": "EmissionControl2 (EC2) is a standalone interactive real-time application for granular synthesis and sound file granulation. It is available for OSX, Linux, and Windows.",
+    "language": "C++",
+    "stars": 123,
+    "forks": 4,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "protocolbuffers",
+    "name": "protobuf",
+    "href": "https://github.com/protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "language": "C++",
+    "stars": 44436,
+    "forks": 11945,
+    "starsInPeriod": 24
+  },
+  {
+    "author": "onnx",
+    "name": "onnx-tensorrt",
+    "href": "https://github.com/onnx/onnx-tensorrt",
+    "description": "ONNX-TensorRT: TensorRT backend for ONNX",
+    "language": "C++",
+    "stars": 1023,
+    "forks": 285,
     "starsInPeriod": 0
+  },
+  {
+    "author": "facebookresearch",
+    "name": "faiss",
+    "href": "https://github.com/facebookresearch/faiss",
+    "description": "A library for efficient similarity search and clustering of dense vectors.",
+    "language": "C++",
+    "stars": 11273,
+    "forks": 1996,
+    "starsInPeriod": 13
+  },
+  {
+    "author": "ApolloAuto",
+    "name": "apollo",
+    "href": "https://github.com/ApolloAuto/apollo",
+    "description": "An open autonomous driving platform",
+    "language": "C++",
+    "stars": 17234,
+    "forks": 6569,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "openscenegraph",
+    "name": "OpenSceneGraph",
+    "href": "https://github.com/openscenegraph/OpenSceneGraph",
+    "description": "OpenSceneGraph git repository",
+    "language": "C++",
+    "stars": 1957,
+    "forks": 1053,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "taskflow",
+    "name": "taskflow",
+    "href": "https://github.com/taskflow/taskflow",
+    "description": "Parallel and Heterogeneous Task Programming in Modern C++",
+    "language": "C++",
+    "stars": 4343,
+    "forks": 506,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "opencv",
+    "name": "opencv",
+    "href": "https://github.com/opencv/opencv",
+    "description": "Open Source Computer Vision Library",
+    "language": "C++",
+    "stars": 49616,
+    "forks": 40200,
+    "starsInPeriod": 40
+  },
+  {
+    "author": "grpc",
+    "name": "grpc",
+    "href": "https://github.com/grpc/grpc",
+    "description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+    "language": "C++",
+    "stars": 27955,
+    "forks": 7132,
+    "starsInPeriod": 17
+  },
+  {
+    "author": "google",
+    "name": "googletest",
+    "href": "https://github.com/google/googletest",
+    "description": "Googletest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "stars": 18427,
+    "forks": 6718,
+    "starsInPeriod": 18
   }
 ]
