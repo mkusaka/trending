@@ -1,51 +1,51 @@
 # c++
-- [openpilot](https://github.com/commaai/openpilot)
-  - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
-- [bitcoin](https://github.com/bitcoin/bitcoin)
-  - Bitcoin Core integration/staging tree
-- [imgui](https://github.com/ocornut/imgui)
-  - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-- [json](https://github.com/nlohmann/json)
-  - JSON for Modern C++
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
   - Awesome OCR toolkits based on PaddlePaddle （3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [Hazel](https://github.com/TheCherno/Hazel)
-  - Hazel Engine
-- [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
-  - C++ 匠心之作 从0到1入门资料
-- [Catch2](https://github.com/catchorg/Catch2)
-  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-- [mongo](https://github.com/mongodb/mongo)
-  - The MongoDB Database
-- [Qv2ray](https://github.com/Qv2ray/Qv2ray)
-  - ⭐ Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / SOCKS5 | 使用 C++ / Qt5 开发 | 可拓展插件式设计 ⭐
-- [cpprestsdk](https://github.com/microsoft/cpprestsdk)
-  - The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
-- [connectedhomeip](https://github.com/project-chip/connectedhomeip)
-  - Project Connected Home over IP is a new Working Group within the Zigbee Alliance. This Working Group plans to develop and promote the adoption of a new connectivity standard to increase compatibility among smart home products, with security as a fundamental design tenet.
-- [yuzu](https://github.com/yuzu-emu/yuzu)
-  - Nintendo Switch Emulator
-- [pytorch](https://github.com/pytorch/pytorch)
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [EmissionControl2](https://github.com/EmissionControl2/EmissionControl2)
-  - EmissionControl2 (EC2) is a standalone interactive real-time application for granular synthesis and sound file granulation. It is available for OSX, Linux, and Windows.
 - [protobuf](https://github.com/protocolbuffers/protobuf)
   - Protocol Buffers - Google's data interchange format
-- [onnx-tensorrt](https://github.com/onnx/onnx-tensorrt)
-  - ONNX-TensorRT: TensorRT backend for ONNX
-- [faiss](https://github.com/facebookresearch/faiss)
-  - A library for efficient similarity search and clustering of dense vectors.
-- [apollo](https://github.com/ApolloAuto/apollo)
-  - An open autonomous driving platform
-- [OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph)
-  - OpenSceneGraph git repository
-- [taskflow](https://github.com/taskflow/taskflow)
-  - Parallel and Heterogeneous Task Programming in Modern C++
-- [opencv](https://github.com/opencv/opencv)
-  - Open Source Computer Vision Library
-- [grpc](https://github.com/grpc/grpc)
-  - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [openpilot](https://github.com/commaai/openpilot)
+  - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
+- [json](https://github.com/nlohmann/json)
+  - JSON for Modern C++
 - [googletest](https://github.com/google/googletest)
   - Googletest - Google Testing and Mocking Framework
+- [arrow](https://github.com/apache/arrow)
+  - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…
+- [thrift](https://github.com/apache/thrift)
+  - Apache Thrift
+- [eos](https://github.com/EOSIO/eos)
+  - An open source smart contract platform
+- [fmt](https://github.com/fmtlib/fmt)
+  - A modern formatting library
+- [grpc](https://github.com/grpc/grpc)
+  - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [Catch2](https://github.com/catchorg/Catch2)
+  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [faiss](https://github.com/facebookresearch/faiss)
+  - A library for efficient similarity search and clustering of dense vectors.
+- [pyxel](https://github.com/kitao/pyxel)
+  - A retro game engine for Python
+- [CloudCompare](https://github.com/CloudCompare/CloudCompare)
+  - CloudCompare main repository
+- [navigation2](https://github.com/ros-planning/navigation2)
+  - ROS2 Navigation
+- [bitcoin](https://github.com/bitcoin/bitcoin)
+  - Bitcoin Core integration/staging tree
+- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+  - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+- [grid_map](https://github.com/ANYbotics/grid_map)
+  - Universal grid map library for mobile robotic mapping
+- [rapidjson](https://github.com/Tencent/rapidjson)
+  - A fast JSON parser/generator for C++ with both SAX/DOM style API
+- [pytorch](https://github.com/pytorch/pytorch)
+  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [ppsspp](https://github.com/hrydgard/ppsspp)
+  - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or in #ppsspp on freenode (IRC) or just send pull requests / issues. For discussion use the forums on ppsspp.org.
+- [TrinityCore](https://github.com/TrinityCore/TrinityCore)
+  - TrinityCore Open Source MMO Framework (master = 8.3.7.35662, 3.3.5 = 3.3.5a.12340)
+- [opencv](https://github.com/opencv/opencv)
+  - Open Source Computer Vision Library
+- [yuzu](https://github.com/yuzu-emu/yuzu)
+  - Nintendo Switch Emulator
+- [wil](https://github.com/microsoft/wil)
+  - Windows Implementation Library

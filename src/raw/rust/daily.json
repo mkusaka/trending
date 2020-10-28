@@ -1,193 +1,33 @@
 [
   {
-    "author": "willdoescode",
-    "name": "nat",
-    "href": "https://github.com/willdoescode/nat",
-    "description": "⚡️ nat - the 'ls' replacement you never knew you needed⚡️",
-    "language": "Rust",
-    "stars": 714,
-    "forks": 21,
-    "starsInPeriod": 267
-  },
-  {
-    "author": "Nukesor",
-    "name": "pueue",
-    "href": "https://github.com/Nukesor/pueue",
-    "description": "🌠 Manage your shell commands.",
-    "language": "Rust",
-    "stars": 812,
-    "forks": 32,
-    "starsInPeriod": 47
-  },
-  {
-    "author": "libra",
-    "name": "libra",
-    "href": "https://github.com/libra/libra",
-    "description": "Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.",
-    "language": "Rust",
-    "stars": 15292,
-    "forks": 2312,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "paritytech",
-    "name": "polkadot",
-    "href": "https://github.com/paritytech/polkadot",
-    "description": "Polkadot Node Implementation",
-    "language": "Rust",
-    "stars": 1566,
-    "forks": 371,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "rust-lang",
-    "name": "rustlings",
-    "href": "https://github.com/rust-lang/rustlings",
-    "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
-    "language": "Rust",
-    "stars": 12465,
-    "forks": 1564,
-    "starsInPeriod": 13
-  },
-  {
-    "author": "WebAssembly",
-    "name": "WASI",
-    "href": "https://github.com/WebAssembly/WASI",
-    "description": "WebAssembly System Interface",
-    "language": "Rust",
-    "stars": 1443,
-    "forks": 102,
-    "starsInPeriod": 4
-  },
-  {
     "author": "bytecodealliance",
     "name": "wasmtime",
     "href": "https://github.com/bytecodealliance/wasmtime",
     "description": "Standalone JIT-style runtime for WebAssembly, using Cranelift",
     "language": "Rust",
-    "stars": 4009,
-    "forks": 351,
-    "starsInPeriod": 50
+    "stars": 4034,
+    "forks": 352,
+    "starsInPeriod": 31
   },
   {
-    "author": "Schniz",
-    "name": "fnm",
-    "href": "https://github.com/Schniz/fnm",
-    "description": "🚀 Fast and simple Node.js version manager, built in Rust",
+    "author": "willdoescode",
+    "name": "nat",
+    "href": "https://github.com/willdoescode/nat",
+    "description": "⚡️ nat - the 'ls' replacement you never knew you needed⚡️",
     "language": "Rust",
-    "stars": 2689,
-    "forks": 87,
-    "starsInPeriod": 20
+    "stars": 866,
+    "forks": 23,
+    "starsInPeriod": 158
   },
   {
-    "author": "bevyengine",
-    "name": "bevy",
-    "href": "https://github.com/bevyengine/bevy",
-    "description": "A refreshingly simple data-driven game engine built in Rust",
+    "author": "rust-osdev",
+    "name": "uefi-rs",
+    "href": "https://github.com/rust-osdev/uefi-rs",
+    "description": "Rust wrapper for UEFI.",
     "language": "Rust",
-    "stars": 4414,
-    "forks": 335,
-    "starsInPeriod": 16
-  },
-  {
-    "author": "paritytech",
-    "name": "substrate",
-    "href": "https://github.com/paritytech/substrate",
-    "description": "Substrate: The platform for blockchain innovators",
-    "language": "Rust",
-    "stars": 3139,
-    "forks": 942,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "ggez",
-    "name": "ggez",
-    "href": "https://github.com/ggez/ggez",
-    "description": "Rust library to create a Good Game Easily",
-    "language": "Rust",
-    "stars": 2551,
-    "forks": 320,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "rust-lang",
-    "name": "rust",
-    "href": "https://github.com/rust-lang/rust",
-    "description": "Empowering everyone to build reliable and efficient software.",
-    "language": "Rust",
-    "stars": 49108,
-    "forks": 7234,
-    "starsInPeriod": 18
-  },
-  {
-    "author": "tikv",
-    "name": "tikv",
-    "href": "https://github.com/tikv/tikv",
-    "description": "Distributed transactional key-value database, originally created to complement TiDB",
-    "language": "Rust",
-    "stars": 8245,
-    "forks": 1278,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "hyperium",
-    "name": "hyper",
-    "href": "https://github.com/hyperium/hyper",
-    "description": "An HTTP library for Rust",
-    "language": "Rust",
-    "stars": 6995,
-    "forks": 906,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "seanmonstar",
-    "name": "warp",
-    "href": "https://github.com/seanmonstar/warp",
-    "description": "A super-easy, composable, web server framework for warp speeds.",
-    "language": "Rust",
-    "stars": 3422,
-    "forks": 342,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "rust-lang",
-    "name": "mdBook",
-    "href": "https://github.com/rust-lang/mdBook",
-    "description": "Create book from markdown files. Like Gitbook but implemented in Rust",
-    "language": "Rust",
-    "stars": 5167,
-    "forks": 618,
-    "starsInPeriod": 23
-  },
-  {
-    "author": "sigp",
-    "name": "lighthouse",
-    "href": "https://github.com/sigp/lighthouse",
-    "description": "Rust Ethereum 2.0 Client",
-    "language": "Rust",
-    "stars": 668,
-    "forks": 168,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "cloudflare",
-    "name": "quiche",
-    "href": "https://github.com/cloudflare/quiche",
-    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-    "language": "Rust",
-    "stars": 3973,
-    "forks": 247,
-    "starsInPeriod": 9
-  },
-  {
-    "author": "clap-rs",
-    "name": "clap",
-    "href": "https://github.com/clap-rs/clap",
-    "description": "A full featured, fast Command Line Argument Parser for Rust",
-    "language": "Rust",
-    "stars": 4980,
-    "forks": 484,
-    "starsInPeriod": 6
+    "stars": 508,
+    "forks": 56,
+    "starsInPeriod": 21
   },
   {
     "author": "huggingface",
@@ -195,29 +35,199 @@
     "href": "https://github.com/huggingface/tokenizers",
     "description": "💥Fast State-of-the-Art Tokenizers optimized for Research and Production",
     "language": "Rust",
-    "stars": 3859,
-    "forks": 273,
-    "starsInPeriod": 7
+    "stars": 3872,
+    "forks": 274,
+    "starsInPeriod": 13
   },
   {
-    "author": "bonsairobo",
-    "name": "building-blocks",
-    "href": "https://github.com/bonsairobo/building-blocks",
-    "description": "A voxel library for real-time applications.",
+    "author": "ruffle-rs",
+    "name": "ruffle",
+    "href": "https://github.com/ruffle-rs/ruffle",
+    "description": "A Flash Player emulator written in Rust",
     "language": "Rust",
-    "stars": 35,
-    "forks": 1,
-    "starsInPeriod": 23
+    "stars": 3145,
+    "forks": 100,
+    "starsInPeriod": 25
+  },
+  {
+    "author": "WebAssembly",
+    "name": "WASI",
+    "href": "https://github.com/WebAssembly/WASI",
+    "description": "WebAssembly System Interface",
+    "language": "Rust",
+    "stars": 1454,
+    "forks": 101,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "benfred",
+    "name": "py-spy",
+    "href": "https://github.com/benfred/py-spy",
+    "description": "Sampling profiler for Python programs",
+    "language": "Rust",
+    "stars": 6140,
+    "forks": 230,
+    "starsInPeriod": 46
+  },
+  {
+    "author": "firecracker-microvm",
+    "name": "firecracker",
+    "href": "https://github.com/firecracker-microvm/firecracker",
+    "description": "Secure and fast microVMs for serverless computing.",
+    "language": "Rust",
+    "stars": 12983,
+    "forks": 895,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "rust-lang",
+    "name": "mdBook",
+    "href": "https://github.com/rust-lang/mdBook",
+    "description": "Create book from markdown files. Like Gitbook but implemented in Rust",
+    "language": "Rust",
+    "stars": 5192,
+    "forks": 618,
+    "starsInPeriod": 26
+  },
+  {
+    "author": "xi-editor",
+    "name": "xi-editor",
+    "href": "https://github.com/xi-editor/xi-editor",
+    "description": "A modern editor with a backend written in Rust.",
+    "language": "Rust",
+    "stars": 18386,
+    "forks": 667,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "rust-lang",
+    "name": "rust",
+    "href": "https://github.com/rust-lang/rust",
+    "description": "Empowering everyone to build reliable and efficient software.",
+    "language": "Rust",
+    "stars": 49121,
+    "forks": 7234,
+    "starsInPeriod": 17
+  },
+  {
+    "author": "tikv",
+    "name": "tikv",
+    "href": "https://github.com/tikv/tikv",
+    "description": "Distributed transactional key-value database, originally created to complement TiDB",
+    "language": "Rust",
+    "stars": 8253,
+    "forks": 1278,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "PyO3",
+    "name": "pyo3",
+    "href": "https://github.com/PyO3/pyo3",
+    "description": "Rust bindings for the Python interpreter",
+    "language": "Rust",
+    "stars": 3023,
+    "forks": 201,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "rust-analyzer",
+    "name": "rust-analyzer",
+    "href": "https://github.com/rust-analyzer/rust-analyzer",
+    "description": "An experimental Rust compiler front-end for IDEs",
+    "language": "Rust",
+    "stars": 4604,
+    "forks": 458,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "paritytech",
+    "name": "substrate",
+    "href": "https://github.com/paritytech/substrate",
+    "description": "Substrate: The platform for blockchain innovators",
+    "language": "Rust",
+    "stars": 3149,
+    "forks": 945,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "wasmerio",
+    "name": "wasmer",
+    "href": "https://github.com/wasmerio/wasmer",
+    "description": "🚀 The leading WebAssembly Runtime supporting WASI and Emscripten",
+    "language": "Rust",
+    "stars": 6636,
+    "forks": 263,
+    "starsInPeriod": 4
   },
   {
     "author": "deislabs",
-    "name": "akri",
-    "href": "https://github.com/deislabs/akri",
-    "description": "A Kubernetes Resource Interface for the Edge",
+    "name": "wagi",
+    "href": "https://github.com/deislabs/wagi",
+    "description": "WebAssembly Gateway Interface",
     "language": "Rust",
-    "stars": 320,
-    "forks": 26,
-    "starsInPeriod": 9
+    "stars": 18,
+    "forks": 1,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "meilisearch",
+    "name": "MeiliSearch",
+    "href": "https://github.com/meilisearch/MeiliSearch",
+    "description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine",
+    "language": "Rust",
+    "stars": 9752,
+    "forks": 289,
+    "starsInPeriod": 20
+  },
+  {
+    "author": "rust-lang",
+    "name": "book",
+    "href": "https://github.com/rust-lang/book",
+    "description": "The Rust Programming Language",
+    "language": "Rust",
+    "stars": 5935,
+    "forks": 1612,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "diesel-rs",
+    "name": "diesel",
+    "href": "https://github.com/diesel-rs/diesel",
+    "description": "A safe, extensible ORM and Query Builder for Rust",
+    "language": "Rust",
+    "stars": 6071,
+    "forks": 572,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "rusoto",
+    "name": "rusoto",
+    "href": "https://github.com/rusoto/rusoto",
+    "description": "AWS SDK for Rust",
+    "language": "Rust",
+    "stars": 1966,
+    "forks": 324,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "Schniz",
+    "name": "fnm",
+    "href": "https://github.com/Schniz/fnm",
+    "description": "🚀 Fast and simple Node.js version manager, built in Rust",
+    "language": "Rust",
+    "stars": 2703,
+    "forks": 87,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "hyperium",
+    "name": "tonic",
+    "href": "https://github.com/hyperium/tonic",
+    "description": "A native gRPC client & server implementation with async/await support.",
+    "language": "Rust",
+    "stars": 2681,
+    "forks": 222,
+    "starsInPeriod": 7
   },
   {
     "author": "fdehau",
@@ -225,28 +235,18 @@
     "href": "https://github.com/fdehau/tui-rs",
     "description": "Build terminal user interfaces and dashboards using Rust",
     "language": "Rust",
-    "stars": 3703,
+    "stars": 3708,
     "forks": 191,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "cloudflare",
+    "name": "quiche",
+    "href": "https://github.com/cloudflare/quiche",
+    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+    "language": "Rust",
+    "stars": 3985,
+    "forks": 248,
     "starsInPeriod": 12
-  },
-  {
-    "author": "autozimu",
-    "name": "LanguageClient-neovim",
-    "href": "https://github.com/autozimu/LanguageClient-neovim",
-    "description": "Language Server Protocol (LSP) support for vim and neovim.",
-    "language": "Rust",
-    "stars": 3064,
-    "forks": 244,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "rust-lang",
-    "name": "cargo",
-    "href": "https://github.com/rust-lang/cargo",
-    "description": "The Rust package manager",
-    "language": "Rust",
-    "stars": 6093,
-    "forks": 1262,
-    "starsInPeriod": 3
   }
 ]

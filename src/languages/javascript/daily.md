@@ -1,51 +1,51 @@
 # javascript
-- [taobao-11-11](https://github.com/hyue418/taobao-11-11)
-  - 🚀2020淘宝+京东+支付宝双十一|双11全民养猫|全民营业自动化脚本【全额奖励，防检测】
-- [scripts](https://github.com/lxk0301/scripts)
-  - 京东薅羊毛工具, 京东水果、宠物、种豆等等
-- [pwndoc](https://github.com/pwndoc/pwndoc)
-  - Pentest Report Generator
-- [edex-ui](https://github.com/GitSquared/edex-ui)
-  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [iOS-Widgets](https://github.com/ThisIsBenny/iOS-Widgets)
-  - Collection of iOS Widgets
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
   - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import)
-  - ESLint plugin with rules that help validate proper imports.
-- [Javascript](https://github.com/TheAlgorithms/Javascript)
-  - A repository for All algorithms implemented in Javascript (for educational purposes only)
-- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
-  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [proshop_mern](https://github.com/bradtraversy/proshop_mern)
-  - Shopping cart built with MERN & Redux
-- [jumpserver](https://github.com/jumpserver/jumpserver)
-  - JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。
 - [next.js](https://github.com/vercel/next.js)
   - The React Framework
-- [QuantumultX](https://github.com/w37fhy/QuantumultX)
-  - 同步和更新大佬脚本库，更新懒人配置
-- [howler.js](https://github.com/goldfire/howler.js)
-  - Javascript audio library for the modern web.
-- [ChineseBQB](https://github.com/zhaoolee/ChineseBQB)
-  - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
-- [Scriptables](https://github.com/im3x/Scriptables)
-  - iOS14桌面组件神器（Scriptable）开发框架、教程、精美脚本分享
-- [open-wc](https://github.com/open-wc/open-wc)
-  - Open Web Components: guides, tools and libraries for modern web development and web components
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [reveal.js](https://github.com/hakimel/reveal.js)
-  - The HTML Presentation Framework
 - [bigbluebutton](https://github.com/bigbluebutton/bigbluebutton)
   - Complete open source web conferencing system.
+- [vanilla-todo](https://github.com/morris/vanilla-todo)
+  - A case study on viable techniques for vanilla web development.
+- [cypress](https://github.com/cypress-io/cypress)
+  - Fast, easy and reliable testing for anything that runs in a browser.
+- [scripts](https://github.com/lxk0301/scripts)
+  - 京东薅羊毛工具, 京东水果、宠物、种豆等等
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [taobao-11-11](https://github.com/hyue418/taobao-11-11)
+  - 🚀2020淘宝+京东+支付宝双十一|双11全民养猫|全民营业自动化脚本【全额奖励，防检测】
+- [eslint](https://github.com/eslint/eslint)
+  - Find and fix problems in your JavaScript code.
+- [iOS-Widgets](https://github.com/ThisIsBenny/iOS-Widgets)
+  - Collection of iOS Widgets
+- [bookshelf](https://github.com/kentcdodds/bookshelf)
+  - Build a ReactJS App workshop
+- [Scriptables](https://github.com/im3x/Scriptables)
+  - iOS14桌面组件神器（Scriptable）开发框架、教程、精美脚本分享
+- [node-youtube-dl](https://github.com/przemyslawpluta/node-youtube-dl)
+  - youtube-dl driver for node
+- [draft-js-plugins](https://github.com/draft-js-plugins/draft-js-plugins)
+  - React Plugin Architecture for Draft.js including Slack-Like Emojis, FB-Like Mentions and Stickers
+- [fullPage.js](https://github.com/alvarotrigo/fullPage.js)
+  - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
+- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
+  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+- [Fifa21-AutoBuyer](https://github.com/chithakumar13/Fifa21-AutoBuyer)
+  - Fifa 21 AutoBuyer / Snipping Bot for fifa 21 ultimate team web app
+- [ice](https://github.com/alibaba/ice)
+  - 🚀 Simple and friendly front-end development system（飞冰，简单而友好的前端研发体系 ）https://ice.work/
+- [reveal.js](https://github.com/hakimel/reveal.js)
+  - The HTML Presentation Framework
+- [exceljs](https://github.com/exceljs/exceljs)
+  - Excel Workbook Manager
+- [plugins](https://github.com/rollup/plugins)
+  - 🍣 The one-stop shop for official Rollup plugins
 - [VvvebJs](https://github.com/givanz/VvvebJs)
   - Drag and drop website builder javascript library.
-- [tasks](https://github.com/rolling-scopes-school/tasks)
-  - 
-- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
-  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [dotenv](https://github.com/motdotla/dotenv)
-  - Loads environment variables from .env for nodejs projects.
+- [semantic-release](https://github.com/semantic-release/semantic-release)
+  - 📦🚀 Fully automated version management and package publishing
+- [awx](https://github.com/ansible/awx)
+  - AWX Project
+- [howler.js](https://github.com/goldfire/howler.js)
+  - Javascript audio library for the modern web.

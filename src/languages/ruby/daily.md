@@ -1,51 +1,51 @@
 # ruby
-- [puma](https://github.com/puma/puma)
-  - A Ruby/Rack web server built for concurrency
-- [solidus](https://github.com/solidusio/solidus)
-  - 🛒Solidus, Rails eCommerce System
-- [react-native-config](https://github.com/luggit/react-native-config)
-  - Bring some 12 factor love to your mobile apps!
-- [greenlight](https://github.com/bigbluebutton/greenlight)
-  - A really simple end-user interface for your BigBlueButton server.
-- [sidekiq](https://github.com/mperham/sidekiq)
-  - Simple, efficient background processing for Ruby
-- [spree](https://github.com/spree/spree)
-  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
-- [jsonapi-serializer](https://github.com/jsonapi-serializer/jsonapi-serializer)
-  - A fast JSON:API serializer for Ruby (fork of Netflix/fast_jsonapi)
-- [chatwoot](https://github.com/chatwoot/chatwoot)
-  - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬
-- [canvas-lms](https://github.com/instructure/canvas-lms)
-  - The open LMS by Instructure, Inc.
-- [jekyll](https://github.com/jekyll/jekyll)
-  - 🌐 Jekyll is a blog-aware static site generator in Ruby
 - [faker](https://github.com/faker-ruby/faker)
   - A library for generating fake data such as names, addresses, and phone numbers.
-- [administrate](https://github.com/thoughtbot/administrate)
-  - A Rails engine that helps you put together a super-flexible admin dashboard.
-- [webpacker](https://github.com/rails/webpacker)
-  - Use Webpack to manage app-like JavaScript modules in Rails
-- [brew](https://github.com/Homebrew/brew)
-  - 🍺 The missing package manager for macOS (or Linux)
+- [react-native-config](https://github.com/luggit/react-native-config)
+  - Bring some 12 factor love to your mobile apps!
+- [chatwoot](https://github.com/chatwoot/chatwoot)
+  - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬
 - [fastlane](https://github.com/fastlane/fastlane)
   - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [sinatra](https://github.com/sinatra/sinatra)
+  - Classy web-development dressed in a DSL (official / canonical repo)
+- [linguist](https://github.com/github/linguist)
+  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+- [active_model_serializers](https://github.com/rails-api/active_model_serializers)
+  - ActiveModel::Serializer implementation and Rails hooks
+- [homebrew-bundle](https://github.com/Homebrew/homebrew-bundle)
+  - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
+- [ransack](https://github.com/activerecord-hackery/ransack)
+  - Object-based searching.
+- [spree](https://github.com/spree/spree)
+  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
+- [pundit](https://github.com/varvet/pundit)
+  - Minimal authorization through OO design and pure Ruby classes
 - [factory_bot](https://github.com/thoughtbot/factory_bot)
   - A library for setting up Ruby objects as test data.
-- [scientist](https://github.com/github/scientist)
-  - 🔬 A Ruby library for carefully refactoring critical paths.
-- [zammad](https://github.com/zammad/zammad)
-  - Zammad is a web based open source helpdesk/customer support system
-- [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)
-  - Simple one-liner tests for common Rails functionality
-- [carrierwave](https://github.com/carrierwaveuploader/carrierwave)
-  - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
-- [ruby-saml](https://github.com/onelogin/ruby-saml)
-  - SAML SSO for Ruby
-- [devise](https://github.com/heartcombo/devise)
-  - Flexible authentication solution for Rails with Warden.
+- [vets-api](https://github.com/department-of-veterans-affairs/vets-api)
+  - API powering VA.gov
+- [prawn](https://github.com/prawnpdf/prawn)
+  - Fast, Nimble PDF Writer for Ruby
+- [inspec](https://github.com/inspec/inspec)
+  - InSpec: Auditing and Testing Framework
+- [greenlight](https://github.com/bigbluebutton/greenlight)
+  - A really simple end-user interface for your BigBlueButton server.
+- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
+  - Ruby implementation of GraphQL
 - [fluentd](https://github.com/fluent/fluentd)
   - Fluentd: Unified Logging Layer (project under CNCF)
-- [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch)
-  - Ansible playbook for Elasticsearch
-- [friendly_id](https://github.com/norman/friendly_id)
-  - FriendlyId is the “Swiss Army bulldozer” of slugging and permalink plugins for ActiveRecord. It allows you to create pretty URL’s and work with human-friendly strings as if they were numeric ids for ActiveRecord models.
+- [ruby](https://github.com/ruby/ruby)
+  - The Ruby Programming Language [mirror]
+- [jbuilder](https://github.com/rails/jbuilder)
+  - Jbuilder: generate JSON objects with a Builder-style DSL
+- [fluentd-kubernetes-daemonset](https://github.com/fluent/fluentd-kubernetes-daemonset)
+  - Fluentd daemonset for Kubernetes and it Docker image
+- [xcode-install](https://github.com/xcpretty/xcode-install)
+  - 🔽 Install and update your Xcodes
+- [shrine](https://github.com/shrinerb/shrine)
+  - File Attachment toolkit for Ruby applications
+- [administrate](https://github.com/thoughtbot/administrate)
+  - A Rails engine that helps you put together a super-flexible admin dashboard.
+- [rswag](https://github.com/rswag/rswag)
+  - Seamlessly adds a Swagger to Rails-based API's
