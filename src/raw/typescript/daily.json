@@ -1,73 +1,13 @@
 [
   {
-    "author": "drawrowfly",
-    "name": "tiktok-scraper",
-    "href": "https://github.com/drawrowfly/tiktok-scraper",
-    "description": "TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.",
+    "author": "firebase",
+    "name": "firebase-tools",
+    "href": "https://github.com/firebase/firebase-tools",
+    "description": "The Firebase Command Line Tools",
     "language": "TypeScript",
-    "stars": 789,
-    "forks": 172,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "fingerprintjs",
-    "name": "fingerprintjs",
-    "href": "https://github.com/fingerprintjs/fingerprintjs",
-    "description": "Modern & flexible browser fingerprinting library",
-    "language": "TypeScript",
-    "stars": 11792,
-    "forks": 1490,
-    "starsInPeriod": 27
-  },
-  {
-    "author": "krapnikkk",
-    "name": "JDCouponAssistant",
-    "href": "https://github.com/krapnikkk/JDCouponAssistant",
-    "description": "京东网页端领优惠券&营销活动&日常签到的浏览器JS脚本插件",
-    "language": "TypeScript",
-    "stars": 415,
-    "forks": 95,
-    "starsInPeriod": 72
-  },
-  {
-    "author": "adobe",
-    "name": "react-spectrum",
-    "href": "https://github.com/adobe/react-spectrum",
-    "description": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.",
-    "language": "TypeScript",
-    "stars": 3651,
-    "forks": 195,
-    "starsInPeriod": 13
-  },
-  {
-    "author": "tannerlinsley",
-    "name": "react-query",
-    "href": "https://github.com/tannerlinsley/react-query",
-    "description": "⚛️ Hooks for fetching, caching and updating asynchronous data in React",
-    "language": "TypeScript",
-    "stars": 14405,
-    "forks": 555,
-    "starsInPeriod": 33
-  },
-  {
-    "author": "react-navigation",
-    "name": "react-navigation",
-    "href": "https://github.com/react-navigation/react-navigation",
-    "description": "Routing and navigation for your React Native apps",
-    "language": "TypeScript",
-    "stars": 18950,
-    "forks": 4056,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "ianstormtaylor",
-    "name": "slate",
-    "href": "https://github.com/ianstormtaylor/slate",
-    "description": "A completely customizable framework for building rich text editors. (Currently in beta.)",
-    "language": "TypeScript",
-    "stars": 18813,
-    "forks": 2030,
-    "starsInPeriod": 12
+    "stars": 2680,
+    "forks": 514,
+    "starsInPeriod": 5
   },
   {
     "author": "johannesjo",
@@ -75,129 +15,19 @@
     "href": "https://github.com/johannesjo/super-productivity",
     "description": "To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration",
     "language": "TypeScript",
-    "stars": 2365,
-    "forks": 229,
+    "stars": 2420,
+    "forks": 230,
+    "starsInPeriod": 58
+  },
+  {
+    "author": "pmndrs",
+    "name": "react-three-fiber",
+    "href": "https://github.com/pmndrs/react-three-fiber",
+    "description": "🇨🇭 A React renderer for Three.js (web and react-native)",
+    "language": "TypeScript",
+    "stars": 10410,
+    "forks": 508,
     "starsInPeriod": 45
-  },
-  {
-    "author": "nrwl",
-    "name": "nx",
-    "href": "https://github.com/nrwl/nx",
-    "description": "Extensible Dev Tools for Monorepos",
-    "language": "TypeScript",
-    "stars": 4800,
-    "forks": 559,
-    "starsInPeriod": 12
-  },
-  {
-    "author": "chakra-ui",
-    "name": "chakra-ui",
-    "href": "https://github.com/chakra-ui/chakra-ui",
-    "description": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
-    "language": "TypeScript",
-    "stars": 11415,
-    "forks": 826,
-    "starsInPeriod": 37
-  },
-  {
-    "author": "fullcalendar",
-    "name": "fullcalendar",
-    "href": "https://github.com/fullcalendar/fullcalendar",
-    "description": "Full-sized drag & drop event calendar",
-    "language": "TypeScript",
-    "stars": 12968,
-    "forks": 3054,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "spotify",
-    "name": "backstage",
-    "href": "https://github.com/spotify/backstage",
-    "description": "Backstage is an open platform for building developer portals",
-    "language": "TypeScript",
-    "stars": 8383,
-    "forks": 653,
-    "starsInPeriod": 22
-  },
-  {
-    "author": "tensorflow",
-    "name": "tfjs-models",
-    "href": "https://github.com/tensorflow/tfjs-models",
-    "description": "Pretrained models for TensorFlow.js",
-    "language": "TypeScript",
-    "stars": 7493,
-    "forks": 2283,
-    "starsInPeriod": 12
-  },
-  {
-    "author": "lingui",
-    "name": "js-lingui",
-    "href": "https://github.com/lingui/js-lingui",
-    "description": "🌍📖 A readable, automated, and optimized (5 kb) internationalization for JavaScript",
-    "language": "TypeScript",
-    "stars": 2839,
-    "forks": 219,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "react-dnd",
-    "name": "react-dnd",
-    "href": "https://github.com/react-dnd/react-dnd",
-    "description": "Drag and Drop for React",
-    "language": "TypeScript",
-    "stars": 14548,
-    "forks": 1554,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "aidenybai",
-    "name": "lucia",
-    "href": "https://github.com/aidenybai/lucia",
-    "description": "🟪 Tiny library for tiny web apps.",
-    "language": "TypeScript",
-    "stars": 216,
-    "forks": 5,
-    "starsInPeriod": 33
-  },
-  {
-    "author": "angular",
-    "name": "angular",
-    "href": "https://github.com/angular/angular",
-    "description": "One framework. Mobile & desktop.",
-    "language": "TypeScript",
-    "stars": 67106,
-    "forks": 17797,
-    "starsInPeriod": 41
-  },
-  {
-    "author": "firebase",
-    "name": "firebase-tools",
-    "href": "https://github.com/firebase/firebase-tools",
-    "description": "The Firebase Command Line Tools",
-    "language": "TypeScript",
-    "stars": 2676,
-    "forks": 512,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "dstotijn",
-    "name": "hetty",
-    "href": "https://github.com/dstotijn/hetty",
-    "description": "Hetty is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.",
-    "language": "TypeScript",
-    "stars": 2588,
-    "forks": 119,
-    "starsInPeriod": 25
-  },
-  {
-    "author": "foambubble",
-    "name": "foam",
-    "href": "https://github.com/foambubble/foam",
-    "description": "A personal knowledge management and sharing system for VSCode",
-    "language": "TypeScript",
-    "stars": 7370,
-    "forks": 276,
-    "starsInPeriod": 18
   },
   {
     "author": "microsoft",
@@ -205,29 +35,29 @@
     "href": "https://github.com/microsoft/TypeScript",
     "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
     "language": "TypeScript",
-    "stars": 65269,
-    "forks": 8722,
-    "starsInPeriod": 22
+    "stars": 65289,
+    "forks": 8728,
+    "starsInPeriod": 28
   },
   {
-    "author": "open-wa",
-    "name": "wa-automate-nodejs",
-    "href": "https://github.com/open-wa/wa-automate-nodejs",
-    "description": "💬 🤖 The most advanced NodeJS WhatsApp library for chatbots with advanced features. Be sure to 🌟 this repository for updates!",
+    "author": "blitz-js",
+    "name": "blitz",
+    "href": "https://github.com/blitz-js/blitz",
+    "description": "⚡️The Fullstack React Framework — built on Next.js",
     "language": "TypeScript",
-    "stars": 874,
-    "forks": 213,
-    "starsInPeriod": 5
+    "stars": 4838,
+    "forks": 257,
+    "starsInPeriod": 48
   },
   {
-    "author": "nestjs",
-    "name": "nest",
-    "href": "https://github.com/nestjs/nest",
-    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀",
+    "author": "dendronhq",
+    "name": "dendron",
+    "href": "https://github.com/dendronhq/dendron",
+    "description": "The personal knowledge management (PKM) tool that grows as you do!",
     "language": "TypeScript",
-    "stars": 31284,
-    "forks": 2812,
-    "starsInPeriod": 34
+    "stars": 692,
+    "forks": 19,
+    "starsInPeriod": 50
   },
   {
     "author": "aws",
@@ -235,9 +65,59 @@
     "href": "https://github.com/aws/aws-cdk",
     "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
     "language": "TypeScript",
-    "stars": 5590,
-    "forks": 1242,
-    "starsInPeriod": 5
+    "stars": 5599,
+    "forks": 1246,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "ant-design",
+    "name": "ant-design",
+    "href": "https://github.com/ant-design/ant-design",
+    "description": "🌈 A UI Design Language and React UI library",
+    "language": "TypeScript",
+    "stars": 64306,
+    "forks": 24792,
+    "starsInPeriod": 43
+  },
+  {
+    "author": "lensapp",
+    "name": "lens",
+    "href": "https://github.com/lensapp/lens",
+    "description": "Lens - The Kubernetes IDE",
+    "language": "TypeScript",
+    "stars": 8940,
+    "forks": 465,
+    "starsInPeriod": 16
+  },
+  {
+    "author": "firebase",
+    "name": "firebase-js-sdk",
+    "href": "https://github.com/firebase/firebase-js-sdk",
+    "description": "Firebase Javascript SDK",
+    "language": "TypeScript",
+    "stars": 3121,
+    "forks": 532,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "prisma",
+    "name": "prisma",
+    "href": "https://github.com/prisma/prisma",
+    "description": "Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite",
+    "language": "TypeScript",
+    "stars": 5917,
+    "forks": 298,
+    "starsInPeriod": 25
+  },
+  {
+    "author": "davidkpiano",
+    "name": "xstate",
+    "href": "https://github.com/davidkpiano/xstate",
+    "description": "State machines and statecharts for the modern web.",
+    "language": "TypeScript",
+    "stars": 13380,
+    "forks": 567,
+    "starsInPeriod": 31
   },
   {
     "author": "sparrow-js",
@@ -245,8 +125,128 @@
     "href": "https://github.com/sparrow-js/sparrow",
     "description": "🎉场景化低代码（LowCode）搭建工作台，实时输出源代码",
     "language": "TypeScript",
-    "stars": 342,
-    "forks": 40,
-    "starsInPeriod": 45
+    "stars": 379,
+    "forks": 41,
+    "starsInPeriod": 39
+  },
+  {
+    "author": "denoland",
+    "name": "deno",
+    "href": "https://github.com/denoland/deno",
+    "description": "A secure JavaScript and TypeScript runtime",
+    "language": "TypeScript",
+    "stars": 68454,
+    "forks": 3574,
+    "starsInPeriod": 51
+  },
+  {
+    "author": "elastic",
+    "name": "eui",
+    "href": "https://github.com/elastic/eui",
+    "description": "Elastic UI Framework 🙌",
+    "language": "TypeScript",
+    "stars": 2306,
+    "forks": 409,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "spotify",
+    "name": "backstage",
+    "href": "https://github.com/spotify/backstage",
+    "description": "Backstage is an open platform for building developer portals",
+    "language": "TypeScript",
+    "stars": 8401,
+    "forks": 659,
+    "starsInPeriod": 21
+  },
+  {
+    "author": "ReactiveX",
+    "name": "rxjs",
+    "href": "https://github.com/ReactiveX/rxjs",
+    "description": "A reactive programming library for JavaScript",
+    "language": "TypeScript",
+    "stars": 23240,
+    "forks": 2389,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "microsoft",
+    "name": "FluidFramework",
+    "href": "https://github.com/microsoft/FluidFramework",
+    "description": "Library for building distributed, real-time collaborative web applications",
+    "language": "TypeScript",
+    "stars": 2255,
+    "forks": 132,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "highcharts",
+    "name": "highcharts",
+    "href": "https://github.com/highcharts/highcharts",
+    "description": "Highcharts JS, the JavaScript charting framework",
+    "language": "TypeScript",
+    "stars": 9731,
+    "forks": 2616,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "isaachinman",
+    "name": "next-i18next",
+    "href": "https://github.com/isaachinman/next-i18next",
+    "description": "The easiest way to translate your NextJs apps.",
+    "language": "TypeScript",
+    "stars": 1532,
+    "forks": 341,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "ionic-team",
+    "name": "ionic-framework",
+    "href": "https://github.com/ionic-team/ionic-framework",
+    "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.",
+    "language": "TypeScript",
+    "stars": 42021,
+    "forks": 13280,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "electron-react-boilerplate",
+    "name": "electron-react-boilerplate",
+    "href": "https://github.com/electron-react-boilerplate/electron-react-boilerplate",
+    "description": "A Foundation for Scalable Cross-Platform Apps",
+    "language": "TypeScript",
+    "stars": 16004,
+    "forks": 2627,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "MrXujiang",
+    "name": "h5-Dooring",
+    "href": "https://github.com/MrXujiang/h5-Dooring",
+    "description": "(H5编辑器)H5-Dooring是一款功能强大，开源免费的H5可视化页面配置解决方案，致力于提供一套简单方便、专业可靠、无限可能的H5落地页最佳实践。技术栈以react为主， 后台采用nodejs开发.",
+    "language": "TypeScript",
+    "stars": 886,
+    "forks": 175,
+    "starsInPeriod": 21
+  },
+  {
+    "author": "rx-angular",
+    "name": "rx-angular",
+    "href": "https://github.com/rx-angular/rx-angular",
+    "description": "Reactive Extensions for Angular",
+    "language": "TypeScript",
+    "stars": 525,
+    "forks": 44,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "sanity-io",
+    "name": "sanity",
+    "href": "https://github.com/sanity-io/sanity",
+    "description": "The Sanity Studio – Collaborate in real-time on structured content",
+    "language": "TypeScript",
+    "stars": 2037,
+    "forks": 177,
+    "starsInPeriod": 20
   }
 ]

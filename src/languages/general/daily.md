@@ -1,50 +1,51 @@
 # general
-- [taobao-11-11](https://github.com/hyue418/taobao-11-11) : JavaScript
-  - 🚀2020淘宝+京东+支付宝双十一|双11全民养猫|全民营业自动化脚本【全额奖励，防检测】
-- [sherlock](https://github.com/sherlock-project/sherlock) : Python
-  - 🔎 Hunt down social media accounts by username across social networks
-- [yt-dlc](https://github.com/blackjack4494/yt-dlc) : Python
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
-  - A complete computer science study plan to become a software engineer.
+- [google-research](https://github.com/google-research/google-research) : Jupyter Notebook
+  - Google Research
+- [youtube-dl](https://github.com/lrvick/youtube-dl) : Python
+  - RIAA: Please go die in a fire.
+- [tempo](https://github.com/grafana/tempo) : Go
+  - Grafana Tempo is a high volume, minimal dependency trace storage.
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) : C++
+  - Awesome OCR toolkits based on PaddlePaddle （3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）
 - [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) : Shell
   - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
+- [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) : Java
+  - To Be Top Javaer - Java工程师成神之路
+- [Faker](https://github.com/fzaninotto/Faker) : PHP
+  - Faker is a PHP library that generates fake data for you
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
   - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
-- [aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller) : Go
-  - A Kubernetes controller for Elastic Load Balancers
-- [EssayKiller_V2](https://github.com/EssayKillerBrain/EssayKiller_V2) : Python
-  - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
-- [loruki-website](https://github.com/bradtraversy/loruki-website) : HTML
-  - Cloud hosting website
-- [wsb-detect](https://github.com/LloydLabs/wsb-detect) : C
-  - wsb-detect enables you to detect if you are running in Windows Sandbox ("WSB")
-- [go-echarts](https://github.com/go-echarts/go-echarts) : Go
-  - 🎨 The adorable charts library for Golang
-- [dmca](https://github.com/github/dmca) : Rich Text Format
-  - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
-- [HowToHunt](https://github.com/KathanP19/HowToHunt) : 
-  - Tutorials and Things to Do while Hunting Vulnerability.
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [youtube](https://github.com/kkdai/youtube) : Go
+  - Download Youtube Video in Golang
+- [free](https://github.com/freefq/free) : 
+  - 免费科学上网,免费翻墙,免费ssr,免费v2ray,免费vmess节点,免费节点,翻墙,蓝灯,谷歌商店
+- [demo-scene](https://github.com/confluentinc/demo-scene) : Shell
+  - Scripts and samples to support Confluent Platform talks. May be rough around the edges. For automated tutorials and QA'd code, see https://github.com/confluentinc/examples/
+- [sherlock](https://github.com/sherlock-project/sherlock) : Python
+  - 🔎 Hunt down social media accounts by username across social networks
+- [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) : 
+  - A curated list of Chaos Engineering resources.
+- [tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) : CSS
+  - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
+- [yt-dlc](https://github.com/blackjack4494/yt-dlc) : Python
+  - media downloader for various sites.
+- [abap-platform-rap-opensap](https://github.com/SAP-samples/abap-platform-rap-opensap) : 
+  - Samples for the openSAP course "Building Apps with the ABAP RESTful Application Programming model (RAP)."
+- [open-project-1](https://github.com/UnityTechnologies/open-project-1) : C#
+  - Unity Open Project #1: Action-adventure
 - [youtube-dl](https://github.com/l1ving/youtube-dl) : Python
   - A copyright-respecting fork of youtube-dl
+- [weekly](https://github.com/ruanyf/weekly) : 
+  - 科技爱好者周刊，每周五发布
+- [protobuf](https://github.com/protocolbuffers/protobuf) : C++
+  - Protocol Buffers - Google's data interchange format
+- [distribyted](https://github.com/distribyted/distribyted) : Go
+  - 📂 ➡️ 📺 🎶 🎮 Torrent client with on-demand file downloading as a filesystem.
+- [EssayKiller_V2](https://github.com/EssayKillerBrain/EssayKiller_V2) : Python
+  - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
 - [not-youtube-dl](https://github.com/scastillo/not-youtube-dl) : Python
   - This is not youtube-dl
 - [openpilot](https://github.com/commaai/openpilot) : C++
   - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
-- [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) : Java
-  - To Be Top Javaer - Java工程师成神之路
-- [advmlthreatmatrix](https://github.com/mitre/advmlthreatmatrix) : 
-  - Adversarial Threat Matrix
-- [malwoverview](https://github.com/alexandreborges/malwoverview) : Python
-  - Malwoverview is a first response tool used for downloading and screening malware samples, suspicious URLs, IP address, domains. Malwoverview offers threat hunting information from Virus Total, Hybrid Analysis, URLHaus, Polyswarm, Malshare, Alien Vault, Malpedia, ThreatCrowd, Valhalla and it is able to scan Android devices against VT and HA.
-- [free](https://github.com/freefq/free) : 
-  - 免费科学上网,免费翻墙,免费ssr,免费v2ray,免费vmess节点,免费节点,翻墙,蓝灯,谷歌商店
-- [project-based-learning](https://github.com/tuvtran/project-based-learning) : 
-  - Curated list of project-based tutorials
-- [scripts](https://github.com/lxk0301/scripts) : JavaScript
-  - 京东薅羊毛工具, 京东水果、宠物、种豆等等
-- [awesome-python](https://github.com/vinta/awesome-python) : Python
-  - A curated list of awesome Python frameworks, libraries, software and resources
-- [endlessh](https://github.com/skeeto/endlessh) : C
-  - SSH tarpit that slowly sends an endless banner
-- [nat](https://github.com/willdoescode/nat) : Rust
-  - ⚡️ nat - the 'ls' replacement you never knew you needed⚡️

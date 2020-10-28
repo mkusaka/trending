@@ -1,51 +1,51 @@
 # kotlin
-- [2020-Fundamentals-Kotlin](https://github.com/Android-Academy-Global/2020-Fundamentals-Kotlin)
-  - 
-- [tachiyomi](https://github.com/inorichi/tachiyomi)
-  - Free and open source manga reader for Android
-- [red-screen-of-death](https://github.com/mlegy/red-screen-of-death)
-  - A simple screen that is shown when your app gets crashed instead of the normal crash dialog. It's very similar to the one in Flutter.
-- [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
-  - A shadowsocks client for Android
-- [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines)
-  - Library support for Kotlin coroutines
-- [p3c](https://github.com/alibaba/p3c)
-  - Alibaba Java Coding Guidelines pmd implements and IDE plugin
-- [ZY-Player-Android](https://github.com/vicedev/ZY-Player-Android)
-  - 基于https://github.com/Hunlongyu/ZY-Player 做的Android版本 资源播放器
-- [mapbox-navigation-android](https://github.com/mapbox/mapbox-navigation-android)
-  - Mapbox Navigation SDK for Android
-- [iosched](https://github.com/google/iosched)
-  - The Google I/O 2019 Android App
-- [intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template)
-  - Template repository for creating plugins for IntelliJ Platform
-- [material-components-android-examples](https://github.com/material-components/material-components-android-examples)
-  - Companion example apps and code for MDC-Android.
-- [Unciv](https://github.com/yairm210/Unciv)
-  - Open-source Android/Desktop remake of Civ V
-- [javalin](https://github.com/tipsy/javalin)
-  - A simple and modern Java and Kotlin web framework
-- [koin](https://github.com/InsertKoinIO/koin)
-  - Koin - a pragmatic lightweight dependency injection framework for Kotlin
-- [play-billing-samples](https://github.com/android/play-billing-samples)
-  - Samples for Google Play In-app Billing
-- [SuperXml](https://github.com/long8313002/SuperXml)
-  - android布局能力增加，轻松实现圆角、边框、虚线、属性覆盖等功能。完全无侵入
-- [awesome-android-kotlin-apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps)
-  - [Hacktoberfest] 👓 A curated list of awesome android kotlin apps by open-source contributors.
-- [JetpackMvvm](https://github.com/hegaojian/JetpackMvvm)
-  - 🐔🐔🐔一个Jetpack结合MVVM的快速开发框架，基于MVVM模式集成谷歌官方推荐的JetPack组件库：LiveData、ViewModel、Lifecycle、Navigation组件 使用Kotlin语言，添加大量拓展函数，简化代码 加入Retrofit网络请求,协程，帮你简化各种操作，让你快速开发项目
-- [mockk](https://github.com/mockk/mockk)
-  - mocking library for Kotlin
-- [stripe-android](https://github.com/stripe/stripe-android)
-  - Stripe Android SDK
-- [intellij-rust](https://github.com/intellij-rust/intellij-rust)
-  - Rust plugin for the IntelliJ Platform
+- [Animation-Tutorials](https://github.com/SmartToolFactory/Animation-Tutorials)
+  - 🍭🚀💗 Tutorials about animations with Animators, Animated Vector Drawables, Shared Transitions, and more
+- [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization)
+  - Kotlin multiplatform / multi-format serialization
 - [v2rayNG](https://github.com/2dust/v2rayNG)
   - 
-- [AnimeXStream](https://github.com/mukul500/AnimeXStream)
-  - An Android app to watch anime on your phone without ads.
-- [dotsindicator](https://github.com/tommybuonomo/dotsindicator)
-  - Three material Dots Indicators for view pagers in Android !
-- [ktor](https://github.com/ktorio/ktor)
-  - Framework for quickly creating connected applications in Kotlin with minimal effort
+- [karel](https://github.com/fredoverflow/karel)
+  - Karel The Robot
+- [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines)
+  - Library support for Kotlin coroutines
+- [Exposed](https://github.com/JetBrains/Exposed)
+  - Kotlin SQL Framework
+- [gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher)
+  - GPP is Android's unofficial release automation Gradle Plugin. It can do anything from building, uploading, and then promoting your App Bundle or APK to publishing app listings and other metadata.
+- [Android-CleanArchitecture-Kotlin](https://github.com/android10/Android-CleanArchitecture-Kotlin)
+  - This is a movies sample app in Kotlin, which is part of a serie of blog posts I have written about architecting android application using different approaches.
+- [AppIntro](https://github.com/AppIntro/AppIntro)
+  - Make a cool intro for your Android app.
+- [leakcanary](https://github.com/square/leakcanary)
+  - A memory leak detection library for Android.
+- [material-components-android-examples](https://github.com/material-components/material-components-android-examples)
+  - Companion example apps and code for MDC-Android.
+- [ShadowsocksR-Android](https://github.com/HMBSbige/ShadowsocksR-Android)
+  - 【自用】咕咕咕
+- [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer)
+  - The flexible, easy to use, all in one drawer library for your Android project. Now brand new with material 2 design.
+- [kotlin](https://github.com/JetBrains/kotlin)
+  - The Kotlin Programming Language
+- [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
+  - A shadowsocks client for Android
+- [kotlin-native](https://github.com/JetBrains/kotlin-native)
+  - Kotlin/Native infrastructure
+- [aula-0](https://github.com/android-training-program/aula-0)
+  - 
+- [tornadofx](https://github.com/edvin/tornadofx)
+  - Lightweight JavaFX Framework for Kotlin
+- [android-components](https://github.com/mozilla-mobile/android-components)
+  - A collection of Android libraries to build browsers or browser-like applications.
+- [fenix](https://github.com/mozilla-mobile/fenix)
+  - Firefox for Android
+- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android)
+  - Native Android app using the Apple/Google exposure notification API.
+- [architecture-components-samples](https://github.com/android/architecture-components-samples)
+  - Samples for Android Architecture Components.
+- [client](https://github.com/kami-blue/client)
+  - KAMI Blue: a continuation of KAMI | LOOKING FOR MAINTAINERS. CHECK README.
+- [uamp](https://github.com/android/uamp)
+  - A sample audio app for Android
+- [detekt](https://github.com/detekt/detekt)
+  - Static code analysis for Kotlin
