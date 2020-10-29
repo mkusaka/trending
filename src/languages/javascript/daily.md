@@ -3,49 +3,49 @@
   - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [next.js](https://github.com/vercel/next.js)
   - The React Framework
-- [bigbluebutton](https://github.com/bigbluebutton/bigbluebutton)
-  - Complete open source web conferencing system.
+- [beginners-intro-javascript-node](https://github.com/microsoft/beginners-intro-javascript-node)
+  - Beginner's Series: Introduction to JavaScript (Node.js)
+- [iptv](https://github.com/iptv-org/iptv)
+  - Collection of 5000+ publicly available IPTV channels from all over the world
+- [gutenberg](https://github.com/WordPress/gutenberg)
+  - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
+- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
+  - 🚀🚀🚀A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.
+- [cypress-example-recipes](https://github.com/cypress-io/cypress-example-recipes)
+  - Various recipes for testing common scenarios with Cypress
+- [hls.js](https://github.com/video-dev/hls.js)
+  - JavaScript HLS client using Media Source Extension
 - [vanilla-todo](https://github.com/morris/vanilla-todo)
   - A case study on viable techniques for vanilla web development.
-- [cypress](https://github.com/cypress-io/cypress)
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [scripts](https://github.com/lxk0301/scripts)
-  - 京东薅羊毛工具, 京东水果、宠物、种豆等等
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
-- [taobao-11-11](https://github.com/hyue418/taobao-11-11)
-  - 🚀2020淘宝+京东+支付宝双十一|双11全民养猫|全民营业自动化脚本【全额奖励，防检测】
-- [eslint](https://github.com/eslint/eslint)
-  - Find and fix problems in your JavaScript code.
-- [iOS-Widgets](https://github.com/ThisIsBenny/iOS-Widgets)
-  - Collection of iOS Widgets
-- [bookshelf](https://github.com/kentcdodds/bookshelf)
-  - Build a ReactJS App workshop
-- [Scriptables](https://github.com/im3x/Scriptables)
-  - iOS14桌面组件神器（Scriptable）开发框架、教程、精美脚本分享
 - [node-youtube-dl](https://github.com/przemyslawpluta/node-youtube-dl)
   - youtube-dl driver for node
-- [draft-js-plugins](https://github.com/draft-js-plugins/draft-js-plugins)
-  - React Plugin Architecture for Draft.js including Slack-Like Emojis, FB-Like Mentions and Stickers
-- [fullPage.js](https://github.com/alvarotrigo/fullPage.js)
-  - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
-- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
-  - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
-- [Fifa21-AutoBuyer](https://github.com/chithakumar13/Fifa21-AutoBuyer)
-  - Fifa 21 AutoBuyer / Snipping Bot for fifa 21 ultimate team web app
-- [ice](https://github.com/alibaba/ice)
-  - 🚀 Simple and friendly front-end development system（飞冰，简单而友好的前端研发体系 ）https://ice.work/
-- [reveal.js](https://github.com/hakimel/reveal.js)
-  - The HTML Presentation Framework
-- [exceljs](https://github.com/exceljs/exceljs)
-  - Excel Workbook Manager
-- [plugins](https://github.com/rollup/plugins)
-  - 🍣 The one-stop shop for official Rollup plugins
-- [VvvebJs](https://github.com/givanz/VvvebJs)
-  - Drag and drop website builder javascript library.
-- [semantic-release](https://github.com/semantic-release/semantic-release)
-  - 📦🚀 Fully automated version management and package publishing
+- [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
+  - 强大的哔哩哔哩增强脚本: 下载视频, 音乐, 封面, 弹幕 / 简化直播间, 评论区, 首页 / 自定义顶栏, 删除广告, 夜间模式 / 触屏设备支持
 - [awx](https://github.com/ansible/awx)
   - AWX Project
-- [howler.js](https://github.com/goldfire/howler.js)
-  - Javascript audio library for the modern web.
+- [vue](https://github.com/vuejs/vue)
+  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [plotly.js](https://github.com/plotly/plotly.js)
+  - Open-source JavaScript charting library behind Plotly and Dash
+- [carbon](https://github.com/carbon-design-system/carbon)
+  - A design system built by IBM
+- [VvvebJs](https://github.com/givanz/VvvebJs)
+  - Drag and drop website builder javascript library.
+- [three.js](https://github.com/mrdoob/three.js)
+  - JavaScript 3D library.
+- [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
+  - OpenZeppelin Contracts is a library for secure smart contract development.
+- [Scriptable](https://github.com/GideonSenku/Scriptable)
+  - A iOS app named Scriptable's scripts
+- [hubs](https://github.com/mozilla/hubs)
+  - Duck-themed multi-user virtual spaces in WebVR. Built with A-Frame.
+- [incubator-echarts](https://github.com/apache/incubator-echarts)
+  - A powerful, interactive charting and data visualization library for browser
+- [yup](https://github.com/jquense/yup)
+  - Dead simple Object schema validation
+- [iOS-Widgets](https://github.com/ThisIsBenny/iOS-Widgets)
+  - Collection of iOS Widgets
+- [js-expert-week](https://github.com/pedrorenan/js-expert-week)
+  - Repoitório utilizado durante a Semana JS Expert com Erick Wendel
+- [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
+  - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。

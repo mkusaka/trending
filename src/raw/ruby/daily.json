@@ -1,33 +1,13 @@
 [
   {
-    "author": "faker-ruby",
-    "name": "faker",
-    "href": "https://github.com/faker-ruby/faker",
-    "description": "A library for generating fake data such as names, addresses, and phone numbers.",
+    "author": "CocoaPods",
+    "name": "CocoaPods",
+    "href": "https://github.com/CocoaPods/CocoaPods",
+    "description": "The Cocoa Dependency Manager.",
     "language": "Ruby",
-    "stars": 8943,
-    "forks": 2488,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "luggit",
-    "name": "react-native-config",
-    "href": "https://github.com/luggit/react-native-config",
-    "description": "Bring some 12 factor love to your mobile apps!",
-    "language": "Ruby",
-    "stars": 3334,
-    "forks": 542,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "chatwoot",
-    "name": "chatwoot",
-    "href": "https://github.com/chatwoot/chatwoot",
-    "description": "Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬",
-    "language": "Ruby",
-    "stars": 4740,
-    "forks": 499,
-    "starsInPeriod": 1
+    "stars": 12778,
+    "forks": 2324,
+    "starsInPeriod": 4
   },
   {
     "author": "fastlane",
@@ -35,78 +15,78 @@
     "href": "https://github.com/fastlane/fastlane",
     "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
     "language": "Ruby",
-    "stars": 30017,
+    "stars": 30019,
     "forks": 4702,
-    "starsInPeriod": 10
-  },
-  {
-    "author": "sinatra",
-    "name": "sinatra",
-    "href": "https://github.com/sinatra/sinatra",
-    "description": "Classy web-development dressed in a DSL (official / canonical repo)",
-    "language": "Ruby",
-    "stars": 11107,
-    "forks": 1990,
-    "starsInPeriod": 4
+    "starsInPeriod": 5
   },
   {
     "author": "github",
-    "name": "linguist",
-    "href": "https://github.com/github/linguist",
-    "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
+    "name": "scientist",
+    "href": "https://github.com/github/scientist",
+    "description": "🔬 A Ruby library for carefully refactoring critical paths.",
     "language": "Ruby",
-    "stars": 8154,
-    "forks": 2953,
-    "starsInPeriod": 7
+    "stars": 5755,
+    "forks": 362,
+    "starsInPeriod": 10
   },
   {
-    "author": "rails-api",
-    "name": "active_model_serializers",
-    "href": "https://github.com/rails-api/active_model_serializers",
-    "description": "ActiveModel::Serializer implementation and Rails hooks",
+    "author": "dependabot",
+    "name": "dependabot-core",
+    "href": "https://github.com/dependabot/dependabot-core",
+    "description": "🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot",
     "language": "Ruby",
-    "stars": 5025,
-    "forks": 1347,
-    "starsInPeriod": 0
+    "stars": 1469,
+    "forks": 361,
+    "starsInPeriod": 3
   },
   {
-    "author": "Homebrew",
-    "name": "homebrew-bundle",
-    "href": "https://github.com/Homebrew/homebrew-bundle",
-    "description": "📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.",
+    "author": "opf",
+    "name": "openproject",
+    "href": "https://github.com/opf/openproject",
+    "description": "OpenProject is the leading open source project management software.",
     "language": "Ruby",
-    "stars": 3402,
-    "forks": 212,
-    "starsInPeriod": 4
+    "stars": 4300,
+    "forks": 1303,
+    "starsInPeriod": 3
   },
   {
-    "author": "activerecord-hackery",
-    "name": "ransack",
-    "href": "https://github.com/activerecord-hackery/ransack",
-    "description": "Object-based searching.",
+    "author": "heartcombo",
+    "name": "devise",
+    "href": "https://github.com/heartcombo/devise",
+    "description": "Flexible authentication solution for Rails with Warden.",
     "language": "Ruby",
-    "stars": 4694,
-    "forks": 703,
+    "stars": 21189,
+    "forks": 5101,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "github-changelog-generator",
+    "name": "github-changelog-generator",
+    "href": "https://github.com/github-changelog-generator/github-changelog-generator",
+    "description": "Automatically generate change log from your tags, issues, labels and pull requests on GitHub.",
+    "language": "Ruby",
+    "stars": 6179,
+    "forks": 713,
     "starsInPeriod": 2
   },
   {
-    "author": "spree",
-    "name": "spree",
-    "href": "https://github.com/spree/spree",
-    "description": "Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:",
+    "author": "luggit",
+    "name": "react-native-config",
+    "href": "https://github.com/luggit/react-native-config",
+    "description": "Bring some 12 factor love to your mobile apps!",
     "language": "Ruby",
-    "stars": 10733,
-    "forks": 4586,
-    "starsInPeriod": 7
+    "stars": 3340,
+    "forks": 542,
+    "starsInPeriod": 6
   },
   {
-    "author": "varvet",
-    "name": "pundit",
-    "href": "https://github.com/varvet/pundit",
-    "description": "Minimal authorization through OO design and pure Ruby classes",
+    "author": "rswag",
+    "name": "rswag",
+    "href": "https://github.com/rswag/rswag",
+    "description": "Seamlessly adds a Swagger to Rails-based API's",
     "language": "Ruby",
-    "stars": 7061,
-    "forks": 544,
+    "stars": 872,
+    "forks": 238,
     "starsInPeriod": 2
   },
   {
@@ -115,69 +95,39 @@
     "href": "https://github.com/thoughtbot/factory_bot",
     "description": "A library for setting up Ruby objects as test data.",
     "language": "Ruby",
-    "stars": 7008,
-    "forks": 2219,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "department-of-veterans-affairs",
-    "name": "vets-api",
-    "href": "https://github.com/department-of-veterans-affairs/vets-api",
-    "description": "API powering VA.gov",
-    "language": "Ruby",
-    "stars": 93,
-    "forks": 45,
-    "starsInPeriod": 0
-  },
-  {
-    "author": "prawnpdf",
-    "name": "prawn",
-    "href": "https://github.com/prawnpdf/prawn",
-    "description": "Fast, Nimble PDF Writer for Ruby",
-    "language": "Ruby",
-    "stars": 4068,
-    "forks": 633,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "inspec",
-    "name": "inspec",
-    "href": "https://github.com/inspec/inspec",
-    "description": "InSpec: Auditing and Testing Framework",
-    "language": "Ruby",
-    "stars": 2193,
-    "forks": 596,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "bigbluebutton",
-    "name": "greenlight",
-    "href": "https://github.com/bigbluebutton/greenlight",
-    "description": "A really simple end-user interface for your BigBlueButton server.",
-    "language": "Ruby",
-    "stars": 456,
-    "forks": 2993,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "rmosolgo",
-    "name": "graphql-ruby",
-    "href": "https://github.com/rmosolgo/graphql-ruby",
-    "description": "Ruby implementation of GraphQL",
-    "language": "Ruby",
-    "stars": 4470,
-    "forks": 998,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "fluent",
-    "name": "fluentd",
-    "href": "https://github.com/fluent/fluentd",
-    "description": "Fluentd: Unified Logging Layer (project under CNCF)",
-    "language": "Ruby",
-    "stars": 9657,
-    "forks": 1114,
+    "stars": 7012,
+    "forks": 2221,
     "starsInPeriod": 4
+  },
+  {
+    "author": "ankane",
+    "name": "strong_migrations",
+    "href": "https://github.com/ankane/strong_migrations",
+    "description": "Catch unsafe migrations in development",
+    "language": "Ruby",
+    "stars": 2246,
+    "forks": 97,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "sonic-pi-net",
+    "name": "sonic-pi",
+    "href": "https://github.com/sonic-pi-net/sonic-pi",
+    "description": "Code. Music. Live.",
+    "language": "Ruby",
+    "stars": 6198,
+    "forks": 685,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "discourse",
+    "name": "discourse",
+    "href": "https://github.com/discourse/discourse",
+    "description": "A platform for community discussion. Free, open, simple.",
+    "language": "Ruby",
+    "stars": 31777,
+    "forks": 7016,
+    "starsInPeriod": 9
   },
   {
     "author": "ruby",
@@ -185,48 +135,48 @@
     "href": "https://github.com/ruby/ruby",
     "description": "The Ruby Programming Language [mirror]",
     "language": "Ruby",
-    "stars": 17447,
-    "forks": 4653,
-    "starsInPeriod": 4
+    "stars": 17454,
+    "forks": 4654,
+    "starsInPeriod": 7
   },
   {
-    "author": "rails",
-    "name": "jbuilder",
-    "href": "https://github.com/rails/jbuilder",
-    "description": "Jbuilder: generate JSON objects with a Builder-style DSL",
+    "author": "decidim",
+    "name": "decidim",
+    "href": "https://github.com/decidim/decidim",
+    "description": "The participatory democracy framework. A generator and multiple gems made with Ruby on Rails",
     "language": "Ruby",
-    "stars": 3822,
-    "forks": 371,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "fluent",
-    "name": "fluentd-kubernetes-daemonset",
-    "href": "https://github.com/fluent/fluentd-kubernetes-daemonset",
-    "description": "Fluentd daemonset for Kubernetes and it Docker image",
-    "language": "Ruby",
-    "stars": 783,
-    "forks": 683,
+    "stars": 793,
+    "forks": 250,
     "starsInPeriod": 0
   },
   {
-    "author": "xcpretty",
-    "name": "xcode-install",
-    "href": "https://github.com/xcpretty/xcode-install",
-    "description": "🔽 Install and update your Xcodes",
+    "author": "pivotal",
+    "name": "LicenseFinder",
+    "href": "https://github.com/pivotal/LicenseFinder",
+    "description": "Find licenses for your project's dependencies.",
     "language": "Ruby",
-    "stars": 2084,
-    "forks": 189,
-    "starsInPeriod": 6
+    "stars": 1109,
+    "forks": 243,
+    "starsInPeriod": 2
   },
   {
-    "author": "shrinerb",
-    "name": "shrine",
-    "href": "https://github.com/shrinerb/shrine",
-    "description": "File Attachment toolkit for Ruby applications",
+    "author": "solidusio",
+    "name": "solidus",
+    "href": "https://github.com/solidusio/solidus",
+    "description": "🛒Solidus, Rails eCommerce System",
     "language": "Ruby",
-    "stars": 2718,
-    "forks": 222,
+    "stars": 3330,
+    "forks": 973,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "sinatra",
+    "name": "sinatra",
+    "href": "https://github.com/sinatra/sinatra",
+    "description": "Classy web-development dressed in a DSL (official / canonical repo)",
+    "language": "Ruby",
+    "stars": 11107,
+    "forks": 1991,
     "starsInPeriod": 0
   },
   {
@@ -235,18 +185,68 @@
     "href": "https://github.com/thoughtbot/administrate",
     "description": "A Rails engine that helps you put together a super-flexible admin dashboard.",
     "language": "Ruby",
-    "stars": 4915,
+    "stars": 4919,
     "forks": 901,
     "starsInPeriod": 4
   },
   {
-    "author": "rswag",
-    "name": "rswag",
-    "href": "https://github.com/rswag/rswag",
-    "description": "Seamlessly adds a Swagger to Rails-based API's",
+    "author": "kilimchoi",
+    "name": "engineering-blogs",
+    "href": "https://github.com/kilimchoi/engineering-blogs",
+    "description": "A curated list of engineering blogs",
     "language": "Ruby",
-    "stars": 870,
-    "forks": 238,
-    "starsInPeriod": 1
+    "stars": 17464,
+    "forks": 166,
+    "starsInPeriod": 15
+  },
+  {
+    "author": "Shopify",
+    "name": "packwerk",
+    "href": "https://github.com/Shopify/packwerk",
+    "description": "Good things come in small packages.",
+    "language": "Ruby",
+    "stars": 381,
+    "forks": 18,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "alexeygrigorev",
+    "name": "data-science-interviews",
+    "href": "https://github.com/alexeygrigorev/data-science-interviews",
+    "description": "Data science interview questions and answers",
+    "language": "Ruby",
+    "stars": 3546,
+    "forks": 665,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "thoughtbot",
+    "name": "paperclip",
+    "href": "https://github.com/thoughtbot/paperclip",
+    "description": "Easy file attachment management for ActiveRecord",
+    "language": "Ruby",
+    "stars": 9066,
+    "forks": 2101,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "thoughtbot",
+    "name": "shoulda-matchers",
+    "href": "https://github.com/thoughtbot/shoulda-matchers",
+    "description": "Simple one-liner tests for common Rails functionality",
+    "language": "Ruby",
+    "stars": 2935,
+    "forks": 823,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "shrinerb",
+    "name": "shrine",
+    "href": "https://github.com/shrinerb/shrine",
+    "description": "File Attachment toolkit for Ruby applications",
+    "language": "Ruby",
+    "stars": 2720,
+    "forks": 222,
+    "starsInPeriod": 2
   }
 ]

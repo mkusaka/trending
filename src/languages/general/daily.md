@@ -1,51 +1,51 @@
 # general
-- [google-research](https://github.com/google-research/google-research) : Jupyter Notebook
-  - Google Research
+- [commerce](https://github.com/vercel/commerce) : TypeScript
+  - Next.js Commerce
+- [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) : Python
+  - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 - [youtube-dl](https://github.com/lrvick/youtube-dl) : Python
   - RIAA: Please go die in a fire.
-- [tempo](https://github.com/grafana/tempo) : Go
-  - Grafana Tempo is a high volume, minimal dependency trace storage.
-- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) : C++
-  - Awesome OCR toolkits based on PaddlePaddle （3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）
-- [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) : Shell
-  - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
-- [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) : Java
-  - To Be Top Javaer - Java工程师成神之路
 - [Faker](https://github.com/fzaninotto/Faker) : PHP
   - Faker is a PHP library that generates fake data for you
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
-  - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [youtube](https://github.com/kkdai/youtube) : Go
-  - Download Youtube Video in Golang
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
+  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
+  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
+- [google-research](https://github.com/google-research/google-research) : Jupyter Notebook
+  - Google Research
+- [tempo](https://github.com/grafana/tempo) : Go
+  - Grafana Tempo is a high volume, minimal dependency trace storage.
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) : Vue
+  - 👽 A free, fast and beautiful API request builder used by 100k+ developers. https://hoppscotch.io
+- [Charts](https://github.com/danielgindi/Charts) : Swift
+  - Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
+- [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) : Java
+  - To Be Top Javaer - Java工程师成神之路
 - [free](https://github.com/freefq/free) : 
   - 免费科学上网,免费翻墙,免费ssr,免费v2ray,免费vmess节点,免费节点,翻墙,蓝灯,谷歌商店
-- [demo-scene](https://github.com/confluentinc/demo-scene) : Shell
-  - Scripts and samples to support Confluent Platform talks. May be rough around the edges. For automated tutorials and QA'd code, see https://github.com/confluentinc/examples/
-- [sherlock](https://github.com/sherlock-project/sherlock) : Python
-  - 🔎 Hunt down social media accounts by username across social networks
-- [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) : 
-  - A curated list of Chaos Engineering resources.
-- [tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) : CSS
-  - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
-- [yt-dlc](https://github.com/blackjack4494/yt-dlc) : Python
-  - media downloader for various sites.
-- [abap-platform-rap-opensap](https://github.com/SAP-samples/abap-platform-rap-opensap) : 
-  - Samples for the openSAP course "Building Apps with the ABAP RESTful Application Programming model (RAP)."
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [open-project-1](https://github.com/UnityTechnologies/open-project-1) : C#
   - Unity Open Project #1: Action-adventure
+- [keep3r.network](https://github.com/keep3r-network/keep3r.network) : Solidity
+  - An incentivized keeper network for anonymous keeper and job registration
+- [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) : Shell
+  - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
+  - 🤓 Build your own (insert technology here)
+- [polkadot](https://github.com/paritytech/polkadot) : Rust
+  - Polkadot Node Implementation
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
+  - Roadmap to becoming a web developer in 2020
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+- [next.js](https://github.com/vercel/next.js) : JavaScript
+  - The React Framework
+- [puppeteer](https://github.com/puppeteer/puppeteer) : TypeScript
+  - Headless Chrome Node.js API
 - [youtube-dl](https://github.com/l1ving/youtube-dl) : Python
   - A copyright-respecting fork of youtube-dl
-- [weekly](https://github.com/ruanyf/weekly) : 
-  - 科技爱好者周刊，每周五发布
-- [protobuf](https://github.com/protocolbuffers/protobuf) : C++
-  - Protocol Buffers - Google's data interchange format
-- [distribyted](https://github.com/distribyted/distribyted) : Go
-  - 📂 ➡️ 📺 🎶 🎮 Torrent client with on-demand file downloading as a filesystem.
-- [EssayKiller_V2](https://github.com/EssayKillerBrain/EssayKiller_V2) : Python
-  - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
-- [not-youtube-dl](https://github.com/scastillo/not-youtube-dl) : Python
-  - This is not youtube-dl
-- [openpilot](https://github.com/commaai/openpilot) : C++
-  - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
+- [BilibiliTask](https://github.com/srcrs/BilibiliTask) : Java
+  - 哔哩哔哩(B站)自动完成每日任务，投币，点赞，直播签到，自动兑换银瓜子为硬币，自动送出即将过期礼物，漫画App签到。
+- [beginners-intro-javascript-node](https://github.com/microsoft/beginners-intro-javascript-node) : JavaScript
+  - Beginner's Series: Introduction to JavaScript (Node.js)

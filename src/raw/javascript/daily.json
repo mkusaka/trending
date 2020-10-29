@@ -5,9 +5,9 @@
     "href": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "stars": 82895,
-    "forks": 14027,
-    "starsInPeriod": 74
+    "stars": 83190,
+    "forks": 14045,
+    "starsInPeriod": 260
   },
   {
     "author": "vercel",
@@ -15,19 +15,69 @@
     "href": "https://github.com/vercel/next.js",
     "description": "The React Framework",
     "language": "JavaScript",
-    "stars": 55062,
-    "forks": 9209,
-    "starsInPeriod": 170
+    "stars": 55231,
+    "forks": 9220,
+    "starsInPeriod": 153
   },
   {
-    "author": "bigbluebutton",
-    "name": "bigbluebutton",
-    "href": "https://github.com/bigbluebutton/bigbluebutton",
-    "description": "Complete open source web conferencing system.",
+    "author": "microsoft",
+    "name": "beginners-intro-javascript-node",
+    "href": "https://github.com/microsoft/beginners-intro-javascript-node",
+    "description": "Beginner's Series: Introduction to JavaScript (Node.js)",
     "language": "JavaScript",
-    "stars": 5718,
-    "forks": 5152,
+    "stars": 815,
+    "forks": 70,
     "starsInPeriod": 8
+  },
+  {
+    "author": "iptv-org",
+    "name": "iptv",
+    "href": "https://github.com/iptv-org/iptv",
+    "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "language": "JavaScript",
+    "stars": 19941,
+    "forks": 16,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "WordPress",
+    "name": "gutenberg",
+    "href": "https://github.com/WordPress/gutenberg",
+    "description": "The Block Editor project for WordPress and beyond. Plugin is available from the official repository.",
+    "language": "JavaScript",
+    "stars": 6296,
+    "forks": 2148,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "qishibo",
+    "name": "AnotherRedisDesktopManager",
+    "href": "https://github.com/qishibo/AnotherRedisDesktopManager",
+    "description": "🚀🚀🚀A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.",
+    "language": "JavaScript",
+    "stars": 9464,
+    "forks": 988,
+    "starsInPeriod": 36
+  },
+  {
+    "author": "cypress-io",
+    "name": "cypress-example-recipes",
+    "href": "https://github.com/cypress-io/cypress-example-recipes",
+    "description": "Various recipes for testing common scenarios with Cypress",
+    "language": "JavaScript",
+    "stars": 1557,
+    "forks": 631,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "video-dev",
+    "name": "hls.js",
+    "href": "https://github.com/video-dev/hls.js",
+    "description": "JavaScript HLS client using Media Source Extension",
+    "language": "JavaScript",
+    "stars": 8601,
+    "forks": 1768,
+    "starsInPeriod": 13
   },
   {
     "author": "morris",
@@ -35,89 +85,9 @@
     "href": "https://github.com/morris/vanilla-todo",
     "description": "A case study on viable techniques for vanilla web development.",
     "language": "JavaScript",
-    "stars": 621,
-    "forks": 18,
-    "starsInPeriod": 446
-  },
-  {
-    "author": "cypress-io",
-    "name": "cypress",
-    "href": "https://github.com/cypress-io/cypress",
-    "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-    "language": "JavaScript",
-    "stars": 24176,
-    "forks": 1445,
-    "starsInPeriod": 22
-  },
-  {
-    "author": "lxk0301",
-    "name": "scripts",
-    "href": "https://github.com/lxk0301/scripts",
-    "description": "京东薅羊毛工具, 京东水果、宠物、种豆等等",
-    "language": "JavaScript",
-    "stars": 1542,
-    "forks": 1621,
-    "starsInPeriod": 155
-  },
-  {
-    "author": "awesome-selfhosted",
-    "name": "awesome-selfhosted",
-    "href": "https://github.com/awesome-selfhosted/awesome-selfhosted",
-    "description": "A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers",
-    "language": "JavaScript",
-    "stars": 49591,
-    "forks": 3929,
-    "starsInPeriod": 38
-  },
-  {
-    "author": "hyue418",
-    "name": "taobao-11-11",
-    "href": "https://github.com/hyue418/taobao-11-11",
-    "description": "🚀2020淘宝+京东+支付宝双十一|双11全民养猫|全民营业自动化脚本【全额奖励，防检测】",
-    "language": "JavaScript",
-    "stars": 2083,
-    "forks": 787,
-    "starsInPeriod": 325
-  },
-  {
-    "author": "eslint",
-    "name": "eslint",
-    "href": "https://github.com/eslint/eslint",
-    "description": "Find and fix problems in your JavaScript code.",
-    "language": "JavaScript",
-    "stars": 17325,
-    "forks": 3084,
-    "starsInPeriod": 10
-  },
-  {
-    "author": "ThisIsBenny",
-    "name": "iOS-Widgets",
-    "href": "https://github.com/ThisIsBenny/iOS-Widgets",
-    "description": "Collection of iOS Widgets",
-    "language": "JavaScript",
-    "stars": 76,
-    "forks": 8,
-    "starsInPeriod": 11
-  },
-  {
-    "author": "kentcdodds",
-    "name": "bookshelf",
-    "href": "https://github.com/kentcdodds/bookshelf",
-    "description": "Build a ReactJS App workshop",
-    "language": "JavaScript",
-    "stars": 1559,
-    "forks": 311,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "im3x",
-    "name": "Scriptables",
-    "href": "https://github.com/im3x/Scriptables",
-    "description": "iOS14桌面组件神器（Scriptable）开发框架、教程、精美脚本分享",
-    "language": "JavaScript",
-    "stars": 723,
-    "forks": 93,
-    "starsInPeriod": 34
+    "stars": 687,
+    "forks": 21,
+    "starsInPeriod": 122
   },
   {
     "author": "przemyslawpluta",
@@ -125,109 +95,19 @@
     "href": "https://github.com/przemyslawpluta/node-youtube-dl",
     "description": "youtube-dl driver for node",
     "language": "JavaScript",
-    "stars": 1491,
-    "forks": 322,
-    "starsInPeriod": 20
+    "stars": 1502,
+    "forks": 331,
+    "starsInPeriod": 31
   },
   {
-    "author": "draft-js-plugins",
-    "name": "draft-js-plugins",
-    "href": "https://github.com/draft-js-plugins/draft-js-plugins",
-    "description": "React Plugin Architecture for Draft.js including Slack-Like Emojis, FB-Like Mentions and Stickers",
+    "author": "the1812",
+    "name": "Bilibili-Evolved",
+    "href": "https://github.com/the1812/Bilibili-Evolved",
+    "description": "强大的哔哩哔哩增强脚本: 下载视频, 音乐, 封面, 弹幕 / 简化直播间, 评论区, 首页 / 自定义顶栏, 删除广告, 夜间模式 / 触屏设备支持",
     "language": "JavaScript",
-    "stars": 3620,
-    "forks": 860,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "alvarotrigo",
-    "name": "fullPage.js",
-    "href": "https://github.com/alvarotrigo/fullPage.js",
-    "description": "fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple",
-    "language": "JavaScript",
-    "stars": 30984,
-    "forks": 7153,
-    "starsInPeriod": 9
-  },
-  {
-    "author": "sudheerj",
-    "name": "reactjs-interview-questions",
-    "href": "https://github.com/sudheerj/reactjs-interview-questions",
-    "description": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
-    "language": "JavaScript",
-    "stars": 8581,
-    "forks": 1970,
-    "starsInPeriod": 11
-  },
-  {
-    "author": "chithakumar13",
-    "name": "Fifa21-AutoBuyer",
-    "href": "https://github.com/chithakumar13/Fifa21-AutoBuyer",
-    "description": "Fifa 21 AutoBuyer / Snipping Bot for fifa 21 ultimate team web app",
-    "language": "JavaScript",
-    "stars": 52,
-    "forks": 40,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "alibaba",
-    "name": "ice",
-    "href": "https://github.com/alibaba/ice",
-    "description": "🚀 Simple and friendly front-end development system（飞冰，简单而友好的前端研发体系 ）https://ice.work/",
-    "language": "JavaScript",
-    "stars": 15744,
-    "forks": 1866,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "hakimel",
-    "name": "reveal.js",
-    "href": "https://github.com/hakimel/reveal.js",
-    "description": "The HTML Presentation Framework",
-    "language": "JavaScript",
-    "stars": 53496,
-    "forks": 15123,
-    "starsInPeriod": 24
-  },
-  {
-    "author": "exceljs",
-    "name": "exceljs",
-    "href": "https://github.com/exceljs/exceljs",
-    "description": "Excel Workbook Manager",
-    "language": "JavaScript",
-    "stars": 6483,
-    "forks": 838,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "rollup",
-    "name": "plugins",
-    "href": "https://github.com/rollup/plugins",
-    "description": "🍣 The one-stop shop for official Rollup plugins",
-    "language": "JavaScript",
-    "stars": 1197,
-    "forks": 214,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "givanz",
-    "name": "VvvebJs",
-    "href": "https://github.com/givanz/VvvebJs",
-    "description": "Drag and drop website builder javascript library.",
-    "language": "JavaScript",
-    "stars": 3509,
-    "forks": 873,
-    "starsInPeriod": 13
-  },
-  {
-    "author": "semantic-release",
-    "name": "semantic-release",
-    "href": "https://github.com/semantic-release/semantic-release",
-    "description": "📦🚀 Fully automated version management and package publishing",
-    "language": "JavaScript",
-    "stars": 11021,
-    "forks": 924,
-    "starsInPeriod": 10
+    "stars": 4231,
+    "forks": 307,
+    "starsInPeriod": 42
   },
   {
     "author": "ansible",
@@ -235,18 +115,138 @@
     "href": "https://github.com/ansible/awx",
     "description": "AWX Project",
     "language": "JavaScript",
-    "stars": 8524,
-    "forks": 2169,
-    "starsInPeriod": 5
+    "stars": 8534,
+    "forks": 2171,
+    "starsInPeriod": 15
   },
   {
-    "author": "goldfire",
-    "name": "howler.js",
-    "href": "https://github.com/goldfire/howler.js",
-    "description": "Javascript audio library for the modern web.",
+    "author": "vuejs",
+    "name": "vue",
+    "href": "https://github.com/vuejs/vue",
+    "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
     "language": "JavaScript",
-    "stars": 17368,
-    "forks": 1815,
+    "stars": 174504,
+    "forks": 26974,
+    "starsInPeriod": 67
+  },
+  {
+    "author": "plotly",
+    "name": "plotly.js",
+    "href": "https://github.com/plotly/plotly.js",
+    "description": "Open-source JavaScript charting library behind Plotly and Dash",
+    "language": "JavaScript",
+    "stars": 12382,
+    "forks": 1452,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "carbon-design-system",
+    "name": "carbon",
+    "href": "https://github.com/carbon-design-system/carbon",
+    "description": "A design system built by IBM",
+    "language": "JavaScript",
+    "stars": 3598,
+    "forks": 822,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "givanz",
+    "name": "VvvebJs",
+    "href": "https://github.com/givanz/VvvebJs",
+    "description": "Drag and drop website builder javascript library.",
+    "language": "JavaScript",
+    "stars": 3527,
+    "forks": 875,
+    "starsInPeriod": 13
+  },
+  {
+    "author": "mrdoob",
+    "name": "three.js",
+    "href": "https://github.com/mrdoob/three.js",
+    "description": "JavaScript 3D library.",
+    "language": "JavaScript",
+    "stars": 64397,
+    "forks": 25368,
+    "starsInPeriod": 45
+  },
+  {
+    "author": "OpenZeppelin",
+    "name": "openzeppelin-contracts",
+    "href": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+    "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+    "language": "JavaScript",
+    "stars": 8630,
+    "forks": 3693,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "GideonSenku",
+    "name": "Scriptable",
+    "href": "https://github.com/GideonSenku/Scriptable",
+    "description": "A iOS app named Scriptable's scripts",
+    "language": "JavaScript",
+    "stars": 363,
+    "forks": 71,
+    "starsInPeriod": 21
+  },
+  {
+    "author": "mozilla",
+    "name": "hubs",
+    "href": "https://github.com/mozilla/hubs",
+    "description": "Duck-themed multi-user virtual spaces in WebVR. Built with A-Frame.",
+    "language": "JavaScript",
+    "stars": 861,
+    "forks": 271,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "apache",
+    "name": "incubator-echarts",
+    "href": "https://github.com/apache/incubator-echarts",
+    "description": "A powerful, interactive charting and data visualization library for browser",
+    "language": "JavaScript",
+    "stars": 43402,
+    "forks": 15896,
+    "starsInPeriod": 23
+  },
+  {
+    "author": "jquense",
+    "name": "yup",
+    "href": "https://github.com/jquense/yup",
+    "description": "Dead simple Object schema validation",
+    "language": "JavaScript",
+    "stars": 11341,
+    "forks": 483,
+    "starsInPeriod": 16
+  },
+  {
+    "author": "ThisIsBenny",
+    "name": "iOS-Widgets",
+    "href": "https://github.com/ThisIsBenny/iOS-Widgets",
+    "description": "Collection of iOS Widgets",
+    "language": "JavaScript",
+    "stars": 91,
+    "forks": 8,
+    "starsInPeriod": 20
+  },
+  {
+    "author": "pedrorenan",
+    "name": "js-expert-week",
+    "href": "https://github.com/pedrorenan/js-expert-week",
+    "description": "Repoitório utilizado durante a Semana JS Expert com Erick Wendel",
+    "language": "JavaScript",
+    "stars": 64,
+    "forks": 13,
     "starsInPeriod": 10
+  },
+  {
+    "author": "ryanhanwu",
+    "name": "How-To-Ask-Questions-The-Smart-Way",
+    "href": "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
+    "description": "本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。",
+    "language": "JavaScript",
+    "stars": 12895,
+    "forks": 3428,
+    "starsInPeriod": 14
   }
 ]

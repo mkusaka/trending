@@ -1,213 +1,13 @@
 [
   {
-    "author": "SmartToolFactory",
-    "name": "Animation-Tutorials",
-    "href": "https://github.com/SmartToolFactory/Animation-Tutorials",
-    "description": "🍭🚀💗 Tutorials about animations with Animators, Animated Vector Drawables, Shared Transitions, and more",
-    "language": "Kotlin",
-    "stars": 387,
-    "forks": 23,
-    "starsInPeriod": 62
-  },
-  {
-    "author": "Kotlin",
-    "name": "kotlinx.serialization",
-    "href": "https://github.com/Kotlin/kotlinx.serialization",
-    "description": "Kotlin multiplatform / multi-format serialization",
-    "language": "Kotlin",
-    "stars": 2541,
-    "forks": 253,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "2dust",
-    "name": "v2rayNG",
-    "href": "https://github.com/2dust/v2rayNG",
-    "description": null,
-    "language": "Kotlin",
-    "stars": 7224,
-    "forks": 1463,
-    "starsInPeriod": 29
-  },
-  {
-    "author": "fredoverflow",
-    "name": "karel",
-    "href": "https://github.com/fredoverflow/karel",
-    "description": "Karel The Robot",
-    "language": "Kotlin",
-    "stars": 54,
-    "forks": 11,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "Kotlin",
-    "name": "kotlinx.coroutines",
-    "href": "https://github.com/Kotlin/kotlinx.coroutines",
-    "description": "Library support for Kotlin coroutines",
-    "language": "Kotlin",
-    "stars": 8375,
-    "forks": 1181,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "JetBrains",
-    "name": "Exposed",
-    "href": "https://github.com/JetBrains/Exposed",
-    "description": "Kotlin SQL Framework",
-    "language": "Kotlin",
-    "stars": 4505,
-    "forks": 384,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "Triple-T",
-    "name": "gradle-play-publisher",
-    "href": "https://github.com/Triple-T/gradle-play-publisher",
-    "description": "GPP is Android's unofficial release automation Gradle Plugin. It can do anything from building, uploading, and then promoting your App Bundle or APK to publishing app listings and other metadata.",
-    "language": "Kotlin",
-    "stars": 3263,
-    "forks": 276,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "android10",
-    "name": "Android-CleanArchitecture-Kotlin",
-    "href": "https://github.com/android10/Android-CleanArchitecture-Kotlin",
-    "description": "This is a movies sample app in Kotlin, which is part of a serie of blog posts I have written about architecting android application using different approaches.",
-    "language": "Kotlin",
-    "stars": 2813,
-    "forks": 586,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "AppIntro",
-    "name": "AppIntro",
-    "href": "https://github.com/AppIntro/AppIntro",
-    "description": "Make a cool intro for your Android app.",
-    "language": "Kotlin",
-    "stars": 9487,
-    "forks": 1695,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "square",
-    "name": "leakcanary",
-    "href": "https://github.com/square/leakcanary",
-    "description": "A memory leak detection library for Android.",
-    "language": "Kotlin",
-    "stars": 25383,
-    "forks": 3694,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "material-components",
-    "name": "material-components-android-examples",
-    "href": "https://github.com/material-components/material-components-android-examples",
-    "description": "Companion example apps and code for MDC-Android.",
-    "language": "Kotlin",
-    "stars": 1617,
-    "forks": 309,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "HMBSbige",
-    "name": "ShadowsocksR-Android",
-    "href": "https://github.com/HMBSbige/ShadowsocksR-Android",
-    "description": "【自用】咕咕咕",
-    "language": "Kotlin",
-    "stars": 963,
-    "forks": 167,
-    "starsInPeriod": 0
-  },
-  {
-    "author": "mikepenz",
-    "name": "MaterialDrawer",
-    "href": "https://github.com/mikepenz/MaterialDrawer",
-    "description": "The flexible, easy to use, all in one drawer library for your Android project. Now brand new with material 2 design.",
-    "language": "Kotlin",
-    "stars": 11206,
-    "forks": 2091,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "JetBrains",
-    "name": "kotlin",
-    "href": "https://github.com/JetBrains/kotlin",
-    "description": "The Kotlin Programming Language",
-    "language": "Kotlin",
-    "stars": 33783,
-    "forks": 4213,
-    "starsInPeriod": 16
-  },
-  {
-    "author": "shadowsocks",
-    "name": "shadowsocks-android",
-    "href": "https://github.com/shadowsocks/shadowsocks-android",
-    "description": "A shadowsocks client for Android",
-    "language": "Kotlin",
-    "stars": 30436,
-    "forks": 11275,
-    "starsInPeriod": 11
-  },
-  {
     "author": "JetBrains",
     "name": "kotlin-native",
     "href": "https://github.com/JetBrains/kotlin-native",
     "description": "Kotlin/Native infrastructure",
     "language": "Kotlin",
-    "stars": 6902,
-    "forks": 607,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "android-training-program",
-    "name": "aula-0",
-    "href": "https://github.com/android-training-program/aula-0",
-    "description": null,
-    "language": "Kotlin",
-    "stars": 11,
-    "forks": 2,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "edvin",
-    "name": "tornadofx",
-    "href": "https://github.com/edvin/tornadofx",
-    "description": "Lightweight JavaFX Framework for Kotlin",
-    "language": "Kotlin",
-    "stars": 3201,
-    "forks": 246,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "mozilla-mobile",
-    "name": "android-components",
-    "href": "https://github.com/mozilla-mobile/android-components",
-    "description": "A collection of Android libraries to build browsers or browser-like applications.",
-    "language": "Kotlin",
-    "stars": 1546,
-    "forks": 345,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "mozilla-mobile",
-    "name": "fenix",
-    "href": "https://github.com/mozilla-mobile/fenix",
-    "description": "Firefox for Android",
-    "language": "Kotlin",
-    "stars": 4219,
-    "forks": 616,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "corona-warn-app",
-    "name": "cwa-app-android",
-    "href": "https://github.com/corona-warn-app/cwa-app-android",
-    "description": "Native Android app using the Apple/Google exposure notification API.",
-    "language": "Kotlin",
-    "stars": 2065,
-    "forks": 436,
-    "starsInPeriod": 3
+    "stars": 6907,
+    "forks": 608,
+    "starsInPeriod": 5
   },
   {
     "author": "android",
@@ -215,18 +15,168 @@
     "href": "https://github.com/android/architecture-components-samples",
     "description": "Samples for Android Architecture Components.",
     "language": "Kotlin",
-    "stars": 18658,
-    "forks": 6470,
-    "starsInPeriod": 11
+    "stars": 18666,
+    "forks": 6475,
+    "starsInPeriod": 12
   },
   {
-    "author": "kami-blue",
-    "name": "client",
-    "href": "https://github.com/kami-blue/client",
-    "description": "KAMI Blue: a continuation of KAMI | LOOKING FOR MAINTAINERS. CHECK README.",
+    "author": "2dust",
+    "name": "v2rayNG",
+    "href": "https://github.com/2dust/v2rayNG",
+    "description": null,
     "language": "Kotlin",
-    "stars": 158,
-    "forks": 126,
+    "stars": 7244,
+    "forks": 1469,
+    "starsInPeriod": 21
+  },
+  {
+    "author": "kotest",
+    "name": "kotest",
+    "href": "https://github.com/kotest/kotest",
+    "description": "Powerful, elegant and flexible test framework for Kotlin",
+    "language": "Kotlin",
+    "stars": 2603,
+    "forks": 366,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "android",
+    "name": "camera-samples",
+    "href": "https://github.com/android/camera-samples",
+    "description": "Multiple samples showing the best practices in camera APIs on Android.",
+    "language": "Kotlin",
+    "stars": 2248,
+    "forks": 1130,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "Kotlin",
+    "name": "kotlinx.coroutines",
+    "href": "https://github.com/Kotlin/kotlinx.coroutines",
+    "description": "Library support for Kotlin coroutines",
+    "language": "Kotlin",
+    "stars": 8384,
+    "forks": 1180,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "corona-warn-app",
+    "name": "cwa-app-android",
+    "href": "https://github.com/corona-warn-app/cwa-app-android",
+    "description": "Native Android app using the Apple/Google exposure notification API.",
+    "language": "Kotlin",
+    "stars": 2067,
+    "forks": 435,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "mockk",
+    "name": "mockk",
+    "href": "https://github.com/mockk/mockk",
+    "description": "mocking library for Kotlin",
+    "language": "Kotlin",
+    "stars": 3438,
+    "forks": 142,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "InsertKoinIO",
+    "name": "koin",
+    "href": "https://github.com/InsertKoinIO/koin",
+    "description": "Koin - a pragmatic lightweight dependency injection framework for Kotlin",
+    "language": "Kotlin",
+    "stars": 6111,
+    "forks": 410,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "zhujiang521",
+    "name": "PlayAndroid",
+    "href": "https://github.com/zhujiang521/PlayAndroid",
+    "description": "MVVM版玩安卓，Kotlin + MVVM + Retrofit + LCE，暗黑模式、横竖屏、无网、弱网、无数据等等各种情况",
+    "language": "Kotlin",
+    "stars": 107,
+    "forks": 24,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "Szaki",
+    "name": "XiaomiADBFastbootTools",
+    "href": "https://github.com/Szaki/XiaomiADBFastbootTools",
+    "description": "A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot",
+    "language": "Kotlin",
+    "stars": 1721,
+    "forks": 190,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "mukul500",
+    "name": "AnimeXStream",
+    "href": "https://github.com/mukul500/AnimeXStream",
+    "description": "An Android app to watch anime on your phone without ads.",
+    "language": "Kotlin",
+    "stars": 868,
+    "forks": 70,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "MindorksOpenSource",
+    "name": "Kotlin-Coroutines-Android-Examples",
+    "href": "https://github.com/MindorksOpenSource/Kotlin-Coroutines-Android-Examples",
+    "description": "Learn Kotlin Coroutines for Android by Examples. Learn how to use Kotlin Coroutines for Android App Development.",
+    "language": "Kotlin",
+    "stars": 446,
+    "forks": 108,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "kizitonwose",
+    "name": "CalendarView",
+    "href": "https://github.com/kizitonwose/CalendarView",
+    "description": "A highly customizable calendar library for Android, powered by RecyclerView.",
+    "language": "Kotlin",
+    "stars": 2228,
+    "forks": 239,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "JetBrains",
+    "name": "Exposed",
+    "href": "https://github.com/JetBrains/Exposed",
+    "description": "Kotlin SQL Framework",
+    "language": "Kotlin",
+    "stars": 4510,
+    "forks": 384,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "afollestad",
+    "name": "material-dialogs",
+    "href": "https://github.com/afollestad/material-dialogs",
+    "description": "😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android.",
+    "language": "Kotlin",
+    "stars": 18251,
+    "forks": 3051,
+    "starsInPeriod": 12
+  },
+  {
+    "author": "zetbaitsu",
+    "name": "Compressor",
+    "href": "https://github.com/zetbaitsu/Compressor",
+    "description": "An android image compression library.",
+    "language": "Kotlin",
+    "stars": 5507,
+    "forks": 796,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "google-developer-training",
+    "name": "android-kotlin-fundamentals-apps",
+    "href": "https://github.com/google-developer-training/android-kotlin-fundamentals-apps",
+    "description": "android-kotlin-fundamentals-apps",
+    "language": "Kotlin",
+    "stars": 619,
+    "forks": 988,
     "starsInPeriod": 2
   },
   {
@@ -236,17 +186,67 @@
     "description": "A sample audio app for Android",
     "language": "Kotlin",
     "stars": 11908,
-    "forks": 3509,
-    "starsInPeriod": 4
+    "forks": 3510,
+    "starsInPeriod": 2
   },
   {
-    "author": "detekt",
-    "name": "detekt",
-    "href": "https://github.com/detekt/detekt",
-    "description": "Static code analysis for Kotlin",
+    "author": "shadowsocks",
+    "name": "shadowsocks-android",
+    "href": "https://github.com/shadowsocks/shadowsocks-android",
+    "description": "A shadowsocks client for Android",
     "language": "Kotlin",
-    "stars": 3219,
-    "forks": 414,
+    "stars": 30443,
+    "forks": 11275,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "ktorio",
+    "name": "ktor",
+    "href": "https://github.com/ktorio/ktor",
+    "description": "Framework for quickly creating connected applications in Kotlin with minimal effort",
+    "language": "Kotlin",
+    "stars": 7432,
+    "forks": 617,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "mapbox",
+    "name": "mapbox-navigation-android",
+    "href": "https://github.com/mapbox/mapbox-navigation-android",
+    "description": "Mapbox Navigation SDK for Android",
+    "language": "Kotlin",
+    "stars": 385,
+    "forks": 244,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "inorichi",
+    "name": "tachiyomi-extensions",
+    "href": "https://github.com/inorichi/tachiyomi-extensions",
+    "description": null,
+    "language": "Kotlin",
+    "stars": 927,
+    "forks": 359,
     "starsInPeriod": 3
+  },
+  {
+    "author": "SimpleMobileTools",
+    "name": "Simple-Calendar",
+    "href": "https://github.com/SimpleMobileTools/Simple-Calendar",
+    "description": "A simple calendar with events, customizable widgets and no ads.",
+    "language": "Kotlin",
+    "stars": 2246,
+    "forks": 893,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "tommybuonomo",
+    "name": "dotsindicator",
+    "href": "https://github.com/tommybuonomo/dotsindicator",
+    "description": "Three material Dots Indicators for view pagers in Android !",
+    "language": "Kotlin",
+    "stars": 1970,
+    "forks": 190,
+    "starsInPeriod": 2
   }
 ]
