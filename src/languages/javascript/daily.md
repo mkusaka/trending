@@ -1,51 +1,51 @@
 # javascript
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [semana-javascript-expert01](https://github.com/ErickWendel/semana-javascript-expert01)
+  - Exemplos de código da primeira semana Javascript Expert
 - [next.js](https://github.com/vercel/next.js)
   - The React Framework
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [running_page](https://github.com/yihong0618/running_page)
+  - Make your own running page
 - [beginners-intro-javascript-node](https://github.com/microsoft/beginners-intro-javascript-node)
   - Beginner's Series: Introduction to JavaScript (Node.js)
+- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification)
+  - The OpenAPI Specification Repository
 - [iptv](https://github.com/iptv-org/iptv)
   - Collection of 5000+ publicly available IPTV channels from all over the world
-- [gutenberg](https://github.com/WordPress/gutenberg)
-  - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
-- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
-  - 🚀🚀🚀A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.
-- [cypress-example-recipes](https://github.com/cypress-io/cypress-example-recipes)
-  - Various recipes for testing common scenarios with Cypress
-- [hls.js](https://github.com/video-dev/hls.js)
-  - JavaScript HLS client using Media Source Extension
-- [vanilla-todo](https://github.com/morris/vanilla-todo)
-  - A case study on viable techniques for vanilla web development.
-- [node-youtube-dl](https://github.com/przemyslawpluta/node-youtube-dl)
-  - youtube-dl driver for node
-- [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
-  - 强大的哔哩哔哩增强脚本: 下载视频, 音乐, 封面, 弹幕 / 简化直播间, 评论区, 首页 / 自定义顶栏, 删除广告, 夜间模式 / 触屏设备支持
-- [awx](https://github.com/ansible/awx)
-  - AWX Project
-- [vue](https://github.com/vuejs/vue)
-  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [plotly.js](https://github.com/plotly/plotly.js)
-  - Open-source JavaScript charting library behind Plotly and Dash
-- [carbon](https://github.com/carbon-design-system/carbon)
-  - A design system built by IBM
-- [VvvebJs](https://github.com/givanz/VvvebJs)
-  - Drag and drop website builder javascript library.
-- [three.js](https://github.com/mrdoob/three.js)
-  - JavaScript 3D library.
-- [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
-  - OpenZeppelin Contracts is a library for secure smart contract development.
-- [Scriptable](https://github.com/GideonSenku/Scriptable)
-  - A iOS app named Scriptable's scripts
-- [hubs](https://github.com/mozilla/hubs)
-  - Duck-themed multi-user virtual spaces in WebVR. Built with A-Frame.
-- [incubator-echarts](https://github.com/apache/incubator-echarts)
-  - A powerful, interactive charting and data visualization library for browser
-- [yup](https://github.com/jquense/yup)
-  - Dead simple Object schema validation
-- [iOS-Widgets](https://github.com/ThisIsBenny/iOS-Widgets)
-  - Collection of iOS Widgets
+- [sweater](https://github.com/zarkin404/sweater)
+  - 薅 🐑 毛，做衬衫
+- [talks](https://github.com/cassidoo/talks)
+  - Talks at conferences, meetups, hackathons, and more, plus my speaker rider for good measure.
+- [gatsby](https://github.com/gatsbyjs/gatsby)
+  - Build blazing fast, modern apps and websites with React
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
 - [js-expert-week](https://github.com/pedrorenan/js-expert-week)
   - Repoitório utilizado durante a Semana JS Expert com Erick Wendel
-- [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
-  - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
+- [react-native-website](https://github.com/facebook/react-native-website)
+  - The site and docs for React Native
+- [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
+  - 强大的哔哩哔哩增强脚本: 下载视频, 音乐, 封面, 弹幕 / 简化直播间, 评论区, 首页 / 自定义顶栏, 删除广告, 夜间模式 / 触屏设备支持
+- [scriptable](https://github.com/Juniorchen2012/scriptable)
+  - scriptable scripts
+- [three.js](https://github.com/mrdoob/three.js)
+  - JavaScript 3D library.
+- [Scriptables](https://github.com/im3x/Scriptables)
+  - iOS14桌面组件神器（Scriptable）开发框架、教程、精美脚本分享
+- [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
+  - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06
+- [docs](https://github.com/github/docs)
+  - The open-source repo for docs.github.com
+- [appium](https://github.com/appium/appium)
+  - 📱 Automation for iOS, Android, and Windows Apps.
+- [alpine](https://github.com/alpinejs/alpine)
+  - A rugged, minimal framework for composing JavaScript behavior in your markup.
+- [grommet](https://github.com/grommet/grommet)
+  - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
+- [conversable-for-scriptable](https://github.com/andyngo/conversable-for-scriptable)
+  - Conversable is a simple contacts widget for Scriptable.
+- [react-table](https://github.com/tannerlinsley/react-table)
+  - ⚛️ Hooks for building fast and extendable tables and datagrids for React
+- [knex](https://github.com/knex/knex)
+  - A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.

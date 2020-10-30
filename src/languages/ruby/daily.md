@@ -1,51 +1,51 @@
 # ruby
-- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
-  - The Cocoa Dependency Manager.
-- [fastlane](https://github.com/fastlane/fastlane)
-  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [scientist](https://github.com/github/scientist)
-  - 🔬 A Ruby library for carefully refactoring critical paths.
-- [dependabot-core](https://github.com/dependabot/dependabot-core)
-  - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot
-- [openproject](https://github.com/opf/openproject)
-  - OpenProject is the leading open source project management software.
-- [devise](https://github.com/heartcombo/devise)
-  - Flexible authentication solution for Rails with Warden.
-- [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator)
-  - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
-- [react-native-config](https://github.com/luggit/react-native-config)
-  - Bring some 12 factor love to your mobile apps!
-- [rswag](https://github.com/rswag/rswag)
-  - Seamlessly adds a Swagger to Rails-based API's
 - [factory_bot](https://github.com/thoughtbot/factory_bot)
   - A library for setting up Ruby objects as test data.
-- [strong_migrations](https://github.com/ankane/strong_migrations)
-  - Catch unsafe migrations in development
-- [sonic-pi](https://github.com/sonic-pi-net/sonic-pi)
-  - Code. Music. Live.
-- [discourse](https://github.com/discourse/discourse)
-  - A platform for community discussion. Free, open, simple.
-- [ruby](https://github.com/ruby/ruby)
-  - The Ruby Programming Language [mirror]
-- [decidim](https://github.com/decidim/decidim)
-  - The participatory democracy framework. A generator and multiple gems made with Ruby on Rails
-- [LicenseFinder](https://github.com/pivotal/LicenseFinder)
-  - Find licenses for your project's dependencies.
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
+  - Metasploit Framework
+- [ransack](https://github.com/activerecord-hackery/ransack)
+  - Object-based searching.
+- [how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+  - A guide to contributing to open source
+- [devise](https://github.com/heartcombo/devise)
+  - Flexible authentication solution for Rails with Warden.
+- [fastlane](https://github.com/fastlane/fastlane)
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [forem](https://github.com/forem/forem)
+  - For empowering community 🌱
 - [solidus](https://github.com/solidusio/solidus)
   - 🛒Solidus, Rails eCommerce System
-- [sinatra](https://github.com/sinatra/sinatra)
-  - Classy web-development dressed in a DSL (official / canonical repo)
+- [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator)
+  - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+- [view_component](https://github.com/github/view_component)
+  - A framework for building reusable, testable & encapsulated view components in Ruby on Rails.
+- [ruby](https://github.com/ruby/ruby)
+  - The Ruby Programming Language [mirror]
+- [react-native-config](https://github.com/luggit/react-native-config)
+  - Bring some 12 factor love to your mobile apps!
+- [xerosploit](https://github.com/LionSec/xerosploit)
+  - Efficient and advanced man in the middle framework
+- [discourse](https://github.com/discourse/discourse)
+  - A platform for community discussion. Free, open, simple.
+- [chef](https://github.com/chef/chef)
+  - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
+- [scientist](https://github.com/github/scientist)
+  - 🔬 A Ruby library for carefully refactoring critical paths.
+- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+  - A curated list of awesome awesomeness
 - [administrate](https://github.com/thoughtbot/administrate)
   - A Rails engine that helps you put together a super-flexible admin dashboard.
-- [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
-  - A curated list of engineering blogs
-- [packwerk](https://github.com/Shopify/packwerk)
-  - Good things come in small packages.
-- [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews)
-  - Data science interview questions and answers
-- [paperclip](https://github.com/thoughtbot/paperclip)
-  - Easy file attachment management for ActiveRecord
 - [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)
   - Simple one-liner tests for common Rails functionality
-- [shrine](https://github.com/shrinerb/shrine)
-  - File Attachment toolkit for Ruby applications
+- [active_model_serializers](https://github.com/rails-api/active_model_serializers)
+  - ActiveModel::Serializer implementation and Rails hooks
+- [paper_trail](https://github.com/paper-trail-gem/paper_trail)
+  - Track changes to your rails models
+- [capybara](https://github.com/teamcapybara/capybara)
+  - Acceptance test framework for web applications
+- [greenlight](https://github.com/bigbluebutton/greenlight)
+  - A really simple end-user interface for your BigBlueButton server.
+- [rspec-mocks](https://github.com/rspec/rspec-mocks)
+  - RSpec's 'test double' framework, with support for stubbing and mocking
+- [dependabot-core](https://github.com/dependabot/dependabot-core)
+  - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot

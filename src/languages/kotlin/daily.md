@@ -1,51 +1,51 @@
 # kotlin
-- [kotlin-native](https://github.com/JetBrains/kotlin-native)
-  - Kotlin/Native infrastructure
-- [architecture-components-samples](https://github.com/android/architecture-components-samples)
-  - Samples for Android Architecture Components.
-- [v2rayNG](https://github.com/2dust/v2rayNG)
-  - 
-- [kotest](https://github.com/kotest/kotest)
-  - Powerful, elegant and flexible test framework for Kotlin
-- [camera-samples](https://github.com/android/camera-samples)
-  - Multiple samples showing the best practices in camera APIs on Android.
-- [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines)
-  - Library support for Kotlin coroutines
-- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android)
-  - Native Android app using the Apple/Google exposure notification API.
-- [mockk](https://github.com/mockk/mockk)
-  - mocking library for Kotlin
+- [compose-samples](https://github.com/android/compose-samples)
+  - Official Jetpack Compose samples.
+- [kotlin](https://github.com/JetBrains/kotlin)
+  - The Kotlin Programming Language
 - [koin](https://github.com/InsertKoinIO/koin)
   - Koin - a pragmatic lightweight dependency injection framework for Kotlin
-- [PlayAndroid](https://github.com/zhujiang521/PlayAndroid)
-  - MVVM版玩安卓，Kotlin + MVVM + Retrofit + LCE，暗黑模式、横竖屏、无网、弱网、无数据等等各种情况
-- [XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools)
-  - A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot
-- [AnimeXStream](https://github.com/mukul500/AnimeXStream)
-  - An Android app to watch anime on your phone without ads.
-- [Kotlin-Coroutines-Android-Examples](https://github.com/MindorksOpenSource/Kotlin-Coroutines-Android-Examples)
-  - Learn Kotlin Coroutines for Android by Examples. Learn how to use Kotlin Coroutines for Android App Development.
+- [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines)
+  - Library support for Kotlin coroutines
 - [CalendarView](https://github.com/kizitonwose/CalendarView)
   - A highly customizable calendar library for Android, powered by RecyclerView.
-- [Exposed](https://github.com/JetBrains/Exposed)
-  - Kotlin SQL Framework
-- [material-dialogs](https://github.com/afollestad/material-dialogs)
-  - 😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android.
-- [Compressor](https://github.com/zetbaitsu/Compressor)
-  - An android image compression library.
 - [android-kotlin-fundamentals-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-apps)
   - android-kotlin-fundamentals-apps
-- [uamp](https://github.com/android/uamp)
-  - A sample audio app for Android
-- [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
-  - A shadowsocks client for Android
+- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android)
+  - Native Android app using the Apple/Google exposure notification API.
+- [sqldelight](https://github.com/cashapp/sqldelight)
+  - SQLDelight - Generates typesafe Kotlin APIs from SQL
+- [kotlinx-datetime](https://github.com/Kotlin/kotlinx-datetime)
+  - KotlinX multiplatform date/time library
+- [camera-samples](https://github.com/android/camera-samples)
+  - Multiple samples showing the best practices in camera APIs on Android.
 - [ktor](https://github.com/ktorio/ktor)
   - Framework for quickly creating connected applications in Kotlin with minimal effort
-- [mapbox-navigation-android](https://github.com/mapbox/mapbox-navigation-android)
-  - Mapbox Navigation SDK for Android
-- [tachiyomi-extensions](https://github.com/inorichi/tachiyomi-extensions)
+- [Pokedex](https://github.com/skydoves/Pokedex)
+  - 🗡️ Android Pokedex using Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
+- [play-billing-samples](https://github.com/android/play-billing-samples)
+  - Samples for Google Play In-app Billing
+- [client](https://github.com/kami-blue/client)
+  - KAMI Blue: a continuation of KAMI | LOOKING FOR MAINTAINERS. CHECK README.
+- [kotest](https://github.com/kotest/kotest)
+  - Powerful, elegant and flexible test framework for Kotlin
+- [tivi](https://github.com/chrisbanes/tivi)
+  - Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.
+- [android-showcase](https://github.com/igorwojda/android-showcase)
+  - 💎 Android application following best practices: Kotlin, coroutines, Clean Architecture, feature modules, tests, MVVM, static analysis...
+- [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
+  - A shadowsocks client for Android
+- [fenix](https://github.com/mozilla-mobile/fenix)
+  - Firefox for Android
+- [Exposed](https://github.com/JetBrains/Exposed)
+  - Kotlin SQL Framework
+- [flexbox-layout](https://github.com/google/flexbox-layout)
+  - Flexbox for Android
+- [detekt](https://github.com/detekt/detekt)
+  - Static code analysis for Kotlin
+- [kotlin-native](https://github.com/JetBrains/kotlin-native)
+  - Kotlin/Native infrastructure
+- [v2rayNG](https://github.com/2dust/v2rayNG)
   - 
-- [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar)
-  - A simple calendar with events, customizable widgets and no ads.
-- [dotsindicator](https://github.com/tommybuonomo/dotsindicator)
-  - Three material Dots Indicators for view pagers in Android !
+- [architecture-components-samples](https://github.com/android/architecture-components-samples)
+  - Samples for Android Architecture Components.

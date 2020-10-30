@@ -1,203 +1,23 @@
 [
   {
-    "author": "vercel",
-    "name": "commerce",
-    "href": "https://github.com/vercel/commerce",
-    "description": "Next.js Commerce",
-    "language": "TypeScript",
-    "stars": 1131,
-    "forks": 150,
-    "starsInPeriod": 326
-  },
-  {
-    "author": "MrS0m30n3",
-    "name": "youtube-dl-gui",
-    "href": "https://github.com/MrS0m30n3/youtube-dl-gui",
-    "description": "A cross platform front-end GUI of the popular youtube-dl written in wxPython.",
-    "language": "Python",
-    "stars": 5464,
-    "forks": 997,
-    "starsInPeriod": 159
-  },
-  {
-    "author": "lrvick",
-    "name": "youtube-dl",
-    "href": "https://github.com/lrvick/youtube-dl",
-    "description": "RIAA: Please go die in a fire.",
-    "language": "Python",
-    "stars": 413,
-    "forks": 214,
-    "starsInPeriod": 196
-  },
-  {
-    "author": "fzaninotto",
-    "name": "Faker",
-    "href": "https://github.com/fzaninotto/Faker",
-    "description": "Faker is a PHP library that generates fake data for you",
-    "language": "PHP",
-    "stars": 25033,
-    "forks": 2830,
-    "starsInPeriod": 57
-  },
-  {
-    "author": "donnemartin",
-    "name": "system-design-primer",
-    "href": "https://github.com/donnemartin/system-design-primer",
-    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-    "language": "Python",
-    "stars": 110318,
-    "forks": 19969,
-    "starsInPeriod": 103
-  },
-  {
-    "author": "CyC2018",
-    "name": "CS-Notes",
-    "href": "https://github.com/CyC2018/CS-Notes",
-    "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++",
-    "language": "Java",
-    "stars": 113543,
-    "forks": 37040,
-    "starsInPeriod": 96
-  },
-  {
-    "author": "google-research",
-    "name": "google-research",
-    "href": "https://github.com/google-research/google-research",
-    "description": "Google Research",
-    "language": "Jupyter Notebook",
-    "stars": 13638,
-    "forks": 2714,
-    "starsInPeriod": 293
-  },
-  {
-    "author": "grafana",
-    "name": "tempo",
-    "href": "https://github.com/grafana/tempo",
-    "description": "Grafana Tempo is a high volume, minimal dependency trace storage.",
-    "language": "Go",
-    "stars": 640,
-    "forks": 21,
-    "starsInPeriod": 216
-  },
-  {
-    "author": "hoppscotch",
-    "name": "hoppscotch",
-    "href": "https://github.com/hoppscotch/hoppscotch",
-    "description": "👽 A free, fast and beautiful API request builder used by 100k+ developers. https://hoppscotch.io",
-    "language": "Vue",
-    "stars": 24608,
-    "forks": 1612,
-    "starsInPeriod": 138
-  },
-  {
-    "author": "danielgindi",
-    "name": "Charts",
-    "href": "https://github.com/danielgindi/Charts",
-    "description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
-    "language": "Swift",
-    "stars": 23468,
-    "forks": 4667,
-    "starsInPeriod": 9
-  },
-  {
-    "author": "hollischuang",
-    "name": "toBeTopJavaer",
-    "href": "https://github.com/hollischuang/toBeTopJavaer",
-    "description": "To Be Top Javaer - Java工程师成神之路",
-    "language": "Java",
-    "stars": 17907,
-    "forks": 4112,
-    "starsInPeriod": 186
-  },
-  {
-    "author": "freefq",
-    "name": "free",
-    "href": "https://github.com/freefq/free",
-    "description": "免费科学上网,免费翻墙,免费ssr,免费v2ray,免费vmess节点,免费节点,翻墙,蓝灯,谷歌商店",
-    "language": "",
-    "stars": 1278,
-    "forks": 254,
-    "starsInPeriod": 203
-  },
-  {
-    "author": "trekhleb",
-    "name": "javascript-algorithms",
-    "href": "https://github.com/trekhleb/javascript-algorithms",
-    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "author": "ErickWendel",
+    "name": "semana-javascript-expert01",
+    "href": "https://github.com/ErickWendel/semana-javascript-expert01",
+    "description": "Exemplos de código da primeira semana Javascript Expert",
     "language": "JavaScript",
-    "stars": 83190,
-    "forks": 14045,
-    "starsInPeriod": 260
+    "stars": 240,
+    "forks": 40,
+    "starsInPeriod": 102
   },
   {
-    "author": "UnityTechnologies",
-    "name": "open-project-1",
-    "href": "https://github.com/UnityTechnologies/open-project-1",
-    "description": "Unity Open Project #1: Action-adventure",
-    "language": "C#",
-    "stars": 1628,
-    "forks": 670,
-    "starsInPeriod": 76
-  },
-  {
-    "author": "keep3r-network",
-    "name": "keep3r.network",
-    "href": "https://github.com/keep3r-network/keep3r.network",
-    "description": "An incentivized keeper network for anonymous keeper and job registration",
-    "language": "Solidity",
-    "stars": 67,
-    "forks": 22,
-    "starsInPeriod": 18
-  },
-  {
-    "author": "foxlet",
-    "name": "macOS-Simple-KVM",
-    "href": "https://github.com/foxlet/macOS-Simple-KVM",
-    "description": "Tools to set up a quick macOS VM in QEMU, accelerated by KVM.",
-    "language": "Shell",
-    "stars": 8216,
-    "forks": 642,
-    "starsInPeriod": 125
-  },
-  {
-    "author": "danistefanovic",
-    "name": "build-your-own-x",
-    "href": "https://github.com/danistefanovic/build-your-own-x",
-    "description": "🤓 Build your own (insert technology here)",
-    "language": "",
-    "stars": 84779,
-    "forks": 7220,
-    "starsInPeriod": 144
-  },
-  {
-    "author": "paritytech",
-    "name": "polkadot",
-    "href": "https://github.com/paritytech/polkadot",
-    "description": "Polkadot Node Implementation",
-    "language": "Rust",
-    "stars": 1599,
-    "forks": 375,
-    "starsInPeriod": 17
-  },
-  {
-    "author": "kamranahmedse",
-    "name": "developer-roadmap",
-    "href": "https://github.com/kamranahmedse/developer-roadmap",
-    "description": "Roadmap to becoming a web developer in 2020",
-    "language": "",
-    "stars": 132151,
-    "forks": 20013,
-    "starsInPeriod": 477
-  },
-  {
-    "author": "labuladong",
-    "name": "fucking-algorithm",
-    "href": "https://github.com/labuladong/fucking-algorithm",
-    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
-    "language": "",
-    "stars": 67793,
-    "forks": 12560,
-    "starsInPeriod": 459
+    "author": "3b1b",
+    "name": "manim",
+    "href": "https://github.com/3b1b/manim",
+    "description": "Animation engine for explanatory math videos",
+    "language": "Python",
+    "stars": 26979,
+    "forks": 3452,
+    "starsInPeriod": 309
   },
   {
     "author": "vercel",
@@ -205,29 +25,109 @@
     "href": "https://github.com/vercel/next.js",
     "description": "The React Framework",
     "language": "JavaScript",
-    "stars": 55231,
-    "forks": 9220,
-    "starsInPeriod": 153
+    "stars": 55555,
+    "forks": 9249,
+    "starsInPeriod": 230
   },
   {
-    "author": "puppeteer",
-    "name": "puppeteer",
-    "href": "https://github.com/puppeteer/puppeteer",
-    "description": "Headless Chrome Node.js API",
-    "language": "TypeScript",
-    "stars": 66141,
-    "forks": 6828,
-    "starsInPeriod": 46
+    "author": "paritytech",
+    "name": "substrate",
+    "href": "https://github.com/paritytech/substrate",
+    "description": "Substrate: The platform for blockchain innovators",
+    "language": "Rust",
+    "stars": 3193,
+    "forks": 955,
+    "starsInPeriod": 25
   },
   {
-    "author": "l1ving",
-    "name": "youtube-dl",
-    "href": "https://github.com/l1ving/youtube-dl",
-    "description": "A copyright-respecting fork of youtube-dl",
+    "author": "kamranahmedse",
+    "name": "developer-roadmap",
+    "href": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Roadmap to becoming a web developer in 2020",
+    "language": "",
+    "stars": 132701,
+    "forks": 20071,
+    "starsInPeriod": 599
+  },
+  {
+    "author": "nlohmann",
+    "name": "json",
+    "href": "https://github.com/nlohmann/json",
+    "description": "JSON for Modern C++",
+    "language": "C++",
+    "stars": 20927,
+    "forks": 3705,
+    "starsInPeriod": 71
+  },
+  {
+    "author": "donnemartin",
+    "name": "system-design-primer",
+    "href": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "stars": 1206,
-    "forks": 665,
-    "starsInPeriod": 184
+    "stars": 110536,
+    "forks": 19997,
+    "starsInPeriod": 159
+  },
+  {
+    "author": "vercel",
+    "name": "commerce",
+    "href": "https://github.com/vercel/commerce",
+    "description": "Next.js Commerce",
+    "language": "TypeScript",
+    "stars": 1649,
+    "forks": 200,
+    "starsInPeriod": 565
+  },
+  {
+    "author": "keep3r-network",
+    "name": "keep3r.network",
+    "href": "https://github.com/keep3r-network/keep3r.network",
+    "description": "An incentivized keeper network for anonymous keeper and job registration",
+    "language": "Solidity",
+    "stars": 98,
+    "forks": 34,
+    "starsInPeriod": 29
+  },
+  {
+    "author": "CyC2018",
+    "name": "CS-Notes",
+    "href": "https://github.com/CyC2018/CS-Notes",
+    "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++",
+    "language": "Java",
+    "stars": 113750,
+    "forks": 37092,
+    "starsInPeriod": 247
+  },
+  {
+    "author": "stackrox",
+    "name": "kube-linter",
+    "href": "https://github.com/stackrox/kube-linter",
+    "description": "KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.",
+    "language": "Go",
+    "stars": 309,
+    "forks": 22,
+    "starsInPeriod": 97
+  },
+  {
+    "author": "trekhleb",
+    "name": "javascript-algorithms",
+    "href": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "stars": 83405,
+    "forks": 14068,
+    "starsInPeriod": 286
+  },
+  {
+    "author": "MrS0m30n3",
+    "name": "youtube-dl-gui",
+    "href": "https://github.com/MrS0m30n3/youtube-dl-gui",
+    "description": "A cross platform front-end GUI of the popular youtube-dl written in wxPython.",
+    "language": "Python",
+    "stars": 5731,
+    "forks": 1038,
+    "starsInPeriod": 221
   },
   {
     "author": "srcrs",
@@ -235,9 +135,49 @@
     "href": "https://github.com/srcrs/BilibiliTask",
     "description": "哔哩哔哩(B站)自动完成每日任务，投币，点赞，直播签到，自动兑换银瓜子为硬币，自动送出即将过期礼物，漫画App签到。",
     "language": "Java",
-    "stars": 294,
-    "forks": 253,
-    "starsInPeriod": 41
+    "stars": 408,
+    "forks": 346,
+    "starsInPeriod": 69
+  },
+  {
+    "author": "paritytech",
+    "name": "polkadot",
+    "href": "https://github.com/paritytech/polkadot",
+    "description": "Polkadot Node Implementation",
+    "language": "Rust",
+    "stars": 1638,
+    "forks": 382,
+    "starsInPeriod": 42
+  },
+  {
+    "author": "blackjack4494",
+    "name": "yt-dlc",
+    "href": "https://github.com/blackjack4494/yt-dlc",
+    "description": "media downloader for various sites.",
+    "language": "Python",
+    "stars": 1090,
+    "forks": 204,
+    "starsInPeriod": 160
+  },
+  {
+    "author": "yihong0618",
+    "name": "running_page",
+    "href": "https://github.com/yihong0618/running_page",
+    "description": "Make your own running page",
+    "language": "JavaScript",
+    "stars": 467,
+    "forks": 40,
+    "starsInPeriod": 100
+  },
+  {
+    "author": "android",
+    "name": "compose-samples",
+    "href": "https://github.com/android/compose-samples",
+    "description": "Official Jetpack Compose samples.",
+    "language": "Kotlin",
+    "stars": 3757,
+    "forks": 597,
+    "starsInPeriod": 34
   },
   {
     "author": "microsoft",
@@ -245,8 +185,68 @@
     "href": "https://github.com/microsoft/beginners-intro-javascript-node",
     "description": "Beginner's Series: Introduction to JavaScript (Node.js)",
     "language": "JavaScript",
-    "stars": 815,
-    "forks": 70,
-    "starsInPeriod": 8
+    "stars": 959,
+    "forks": 76,
+    "starsInPeriod": 61
+  },
+  {
+    "author": "quantopian",
+    "name": "zipline",
+    "href": "https://github.com/quantopian/zipline",
+    "description": "Zipline, a Pythonic Algorithmic Trading Library",
+    "language": "Python",
+    "stars": 12154,
+    "forks": 3499,
+    "starsInPeriod": 24
+  },
+  {
+    "author": "kangvcar",
+    "name": "InfoSpider",
+    "href": "https://github.com/kangvcar/InfoSpider",
+    "description": "INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。",
+    "language": "Python",
+    "stars": 2911,
+    "forks": 561,
+    "starsInPeriod": 105
+  },
+  {
+    "author": "OAI",
+    "name": "OpenAPI-Specification",
+    "href": "https://github.com/OAI/OpenAPI-Specification",
+    "description": "The OpenAPI Specification Repository",
+    "language": "JavaScript",
+    "stars": 19066,
+    "forks": 6903,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "UnityTechnologies",
+    "name": "open-project-1",
+    "href": "https://github.com/UnityTechnologies/open-project-1",
+    "description": "Unity Open Project #1: Action-adventure",
+    "language": "C#",
+    "stars": 1748,
+    "forks": 678,
+    "starsInPeriod": 109
+  },
+  {
+    "author": "chubin",
+    "name": "cheat.sh",
+    "href": "https://github.com/chubin/cheat.sh",
+    "description": "the only cheat sheet you need",
+    "language": "Python",
+    "stars": 19646,
+    "forks": 971,
+    "starsInPeriod": 30
+  },
+  {
+    "author": "lrvick",
+    "name": "youtube-dl",
+    "href": "https://github.com/lrvick/youtube-dl",
+    "description": "RIAA: Please go die in a fire.",
+    "language": "Python",
+    "stars": 536,
+    "forks": 249,
+    "starsInPeriod": 127
   }
 ]
