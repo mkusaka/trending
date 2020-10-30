@@ -1,163 +1,33 @@
 [
   {
-    "author": "capnproto",
-    "name": "capnproto",
-    "href": "https://github.com/capnproto/capnproto",
-    "description": "Cap'n Proto serialization/RPC system - core tools and C++ library",
-    "language": "C++",
-    "stars": 7813,
-    "forks": 637,
-    "starsInPeriod": 45
-  },
-  {
-    "author": "commaai",
-    "name": "openpilot",
-    "href": "https://github.com/commaai/openpilot",
-    "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.",
-    "language": "C++",
-    "stars": 18994,
-    "forks": 4249,
-    "starsInPeriod": 385
-  },
-  {
     "author": "nlohmann",
     "name": "json",
     "href": "https://github.com/nlohmann/json",
     "description": "JSON for Modern C++",
     "language": "C++",
-    "stars": 20882,
-    "forks": 3695,
-    "starsInPeriod": 95
+    "stars": 20927,
+    "forks": 3705,
+    "starsInPeriod": 71
   },
   {
-    "author": "VowpalWabbit",
-    "name": "vowpal_wabbit",
-    "href": "https://github.com/VowpalWabbit/vowpal_wabbit",
-    "description": "Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.",
+    "author": "Tencent",
+    "name": "ncnn",
+    "href": "https://github.com/Tencent/ncnn",
+    "description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
     "language": "C++",
-    "stars": 7270,
-    "forks": 1690,
-    "starsInPeriod": 3
+    "stars": 9943,
+    "forks": 2533,
+    "starsInPeriod": 13
   },
   {
-    "author": "catchorg",
-    "name": "Catch2",
-    "href": "https://github.com/catchorg/Catch2",
-    "description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)",
+    "author": "capnproto",
+    "name": "capnproto",
+    "href": "https://github.com/capnproto/capnproto",
+    "description": "Cap'n Proto serialization/RPC system - core tools and C++ library",
     "language": "C++",
-    "stars": 12266,
-    "forks": 2062,
-    "starsInPeriod": 17
-  },
-  {
-    "author": "facebook",
-    "name": "folly",
-    "href": "https://github.com/facebook/folly",
-    "description": "An open-source C++ library developed and used at Facebook.",
-    "language": "C++",
-    "stars": 15778,
-    "forks": 3729,
-    "starsInPeriod": 20
-  },
-  {
-    "author": "bouffalolab",
-    "name": "bl_iot_sdk",
-    "href": "https://github.com/bouffalolab/bl_iot_sdk",
-    "description": null,
-    "language": "C",
-    "stars": 41,
-    "forks": 54,
-    "starsInPeriod": 25
-  },
-  {
-    "author": "PaddlePaddle",
-    "name": "PaddleOCR",
-    "href": "https://github.com/PaddlePaddle/PaddleOCR",
-    "description": "Awesome multilingual OCR toolkits based on PaddlePaddle （multilingual recognition: English, Chinese, Korean, Japanese, German, French etc. 3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）",
-    "language": "C++",
-    "stars": 5656,
-    "forks": 1045,
-    "starsInPeriod": 273
-  },
-  {
-    "author": "pytorch",
-    "name": "pytorch",
-    "href": "https://github.com/pytorch/pytorch",
-    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-    "language": "C++",
-    "stars": 43471,
-    "forks": 11396,
-    "starsInPeriod": 35
-  },
-  {
-    "author": "bytedance",
-    "name": "lightseq",
-    "href": "https://github.com/bytedance/lightseq",
-    "description": "LightSeq: A High Performance Inference Library for Sequence Processing and Generation",
-    "language": "C++",
-    "stars": 266,
-    "forks": 24,
-    "starsInPeriod": 27
-  },
-  {
-    "author": "pybind",
-    "name": "pybind11",
-    "href": "https://github.com/pybind/pybind11",
-    "description": "Seamless operability between C++11 and Python",
-    "language": "C++",
-    "stars": 8181,
-    "forks": 1166,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "GTAmodding",
-    "name": "re3",
-    "href": "https://github.com/GTAmodding/re3",
-    "description": "GTA III",
-    "language": "C++",
-    "stars": 409,
-    "forks": 73,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "ocornut",
-    "name": "imgui",
-    "href": "https://github.com/ocornut/imgui",
-    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
-    "language": "C++",
-    "stars": 24222,
-    "forks": 4089,
-    "starsInPeriod": 27
-  },
-  {
-    "author": "mmp",
-    "name": "pbrt-v3",
-    "href": "https://github.com/mmp/pbrt-v3",
-    "description": "Source code for pbrt, the renderer described in the third edition of \"Physically Based Rendering: From Theory To Implementation\", by Matt Pharr, Wenzel Jakob, and Greg Humphreys.",
-    "language": "C++",
-    "stars": 3311,
-    "forks": 887,
-    "starsInPeriod": 18
-  },
-  {
-    "author": "openvinotoolkit",
-    "name": "openvino",
-    "href": "https://github.com/openvinotoolkit/openvino",
-    "description": "OpenVINO™ Toolkit repository",
-    "language": "C++",
-    "stars": 1680,
-    "forks": 707,
+    "stars": 7821,
+    "forks": 639,
     "starsInPeriod": 11
-  },
-  {
-    "author": "jxy-s",
-    "name": "herpaderping",
-    "href": "https://github.com/jxy-s/herpaderping",
-    "description": "Process Herpaderping proof of concept, tool, and technical deep dive. Process Herpaderping bypasses security products by obscuring the intentions of a process.",
-    "language": "C++",
-    "stars": 292,
-    "forks": 65,
-    "starsInPeriod": 59
   },
   {
     "author": "gabime",
@@ -165,39 +35,79 @@
     "href": "https://github.com/gabime/spdlog",
     "description": "Fast C++ logging library.",
     "language": "C++",
-    "stars": 9920,
-    "forks": 2120,
+    "stars": 9934,
+    "forks": 2122,
+    "starsInPeriod": 12
+  },
+  {
+    "author": "google",
+    "name": "flatbuffers",
+    "href": "https://github.com/google/flatbuffers",
+    "description": "FlatBuffers: Memory Efficient Serialization Library",
+    "language": "C++",
+    "stars": 15246,
+    "forks": 2356,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "google",
+    "name": "googletest",
+    "href": "https://github.com/google/googletest",
+    "description": "Googletest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "stars": 18448,
+    "forks": 6732,
+    "starsInPeriod": 12
+  },
+  {
+    "author": "swoole",
+    "name": "swoole-src",
+    "href": "https://github.com/swoole/swoole-src",
+    "description": "🚀 Coroutine-based concurrency library for PHP",
+    "language": "C++",
+    "stars": 16154,
+    "forks": 3080,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "vesoft-inc",
+    "name": "nebula",
+    "href": "https://github.com/vesoft-inc/nebula",
+    "description": "A distributed, fast open-source graph database featuring horizontal scalability and high availability",
+    "language": "C++",
+    "stars": 4805,
+    "forks": 505,
+    "starsInPeriod": 100
+  },
+  {
+    "author": "pytorch",
+    "name": "glow",
+    "href": "https://github.com/pytorch/glow",
+    "description": "Compiler for Neural Network hardware accelerators",
+    "language": "C++",
+    "stars": 2293,
+    "forks": 489,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "microsoft",
+    "name": "PowerToys",
+    "href": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C++",
+    "stars": 40727,
+    "forks": 2202,
+    "starsInPeriod": 137
+  },
+  {
+    "author": "intel-isl",
+    "name": "Open3D",
+    "href": "https://github.com/intel-isl/Open3D",
+    "description": "Open3D: A Modern Library for 3D Data Processing",
+    "language": "C++",
+    "stars": 3529,
+    "forks": 910,
     "starsInPeriod": 8
-  },
-  {
-    "author": "godotengine",
-    "name": "godot",
-    "href": "https://github.com/godotengine/godot",
-    "description": "Godot Engine – Multi-platform 2D and 3D game engine",
-    "language": "C++",
-    "stars": 34315,
-    "forks": 6496,
-    "starsInPeriod": 33
-  },
-  {
-    "author": "protocolbuffers",
-    "name": "protobuf",
-    "href": "https://github.com/protocolbuffers/protobuf",
-    "description": "Protocol Buffers - Google's data interchange format",
-    "language": "C++",
-    "stars": 44522,
-    "forks": 11954,
-    "starsInPeriod": 75
-  },
-  {
-    "author": "ClickHouse",
-    "name": "ClickHouse",
-    "href": "https://github.com/ClickHouse/ClickHouse",
-    "description": "ClickHouse is a free analytics DBMS for big data",
-    "language": "C++",
-    "stars": 12680,
-    "forks": 2533,
-    "starsInPeriod": 25
   },
   {
     "author": "grpc",
@@ -205,29 +115,79 @@
     "href": "https://github.com/grpc/grpc",
     "description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
     "language": "C++",
-    "stars": 27997,
-    "forks": 7145,
-    "starsInPeriod": 26
+    "stars": 28011,
+    "forks": 7150,
+    "starsInPeriod": 18
   },
   {
-    "author": "symless",
-    "name": "synergy-core",
-    "href": "https://github.com/symless/synergy-core",
-    "description": "Open source core of Synergy, the keyboard and mouse sharing tool",
+    "author": "keyth72",
+    "name": "SmartGuitarAmp",
+    "href": "https://github.com/keyth72/SmartGuitarAmp",
+    "description": "Guitar plugin made with JUCE that uses neural network models to emulate real world hardware.",
     "language": "C++",
-    "stars": 7741,
-    "forks": 2313,
-    "starsInPeriod": 2
+    "stars": 691,
+    "forks": 25,
+    "starsInPeriod": 10
   },
   {
-    "author": "onqtam",
-    "name": "doctest",
-    "href": "https://github.com/onqtam/doctest",
-    "description": "The fastest feature-rich C++11/14/17/20 single-header testing framework",
+    "author": "tensorflow",
+    "name": "tensorflow",
+    "href": "https://github.com/tensorflow/tensorflow",
+    "description": "An Open Source Machine Learning Framework for Everyone",
     "language": "C++",
-    "stars": 2863,
-    "forks": 301,
+    "stars": 149687,
+    "forks": 83107,
+    "starsInPeriod": 48
+  },
+  {
+    "author": "progschj",
+    "name": "ThreadPool",
+    "href": "https://github.com/progschj/ThreadPool",
+    "description": "A simple C++11 Thread Pool implementation",
+    "language": "C++",
+    "stars": 3734,
+    "forks": 1286,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "microsoft",
+    "name": "LightGBM",
+    "href": "https://github.com/microsoft/LightGBM",
+    "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.",
+    "language": "C++",
+    "stars": 11704,
+    "forks": 3090,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "interpretml",
+    "name": "interpret",
+    "href": "https://github.com/interpretml/interpret",
+    "description": "Fit interpretable models. Explain blackbox machine learning.",
+    "language": "C++",
+    "stars": 3159,
+    "forks": 394,
     "starsInPeriod": 5
+  },
+  {
+    "author": "openMVG",
+    "name": "openMVG",
+    "href": "https://github.com/openMVG/openMVG",
+    "description": "open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.",
+    "language": "C++",
+    "stars": 3147,
+    "forks": 1220,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "ocornut",
+    "name": "imgui",
+    "href": "https://github.com/ocornut/imgui",
+    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "language": "C++",
+    "stars": 24236,
+    "forks": 4092,
+    "starsInPeriod": 23
   },
   {
     "author": "llvm",
@@ -235,18 +195,58 @@
     "href": "https://github.com/llvm/llvm-project",
     "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.",
     "language": "C++",
-    "stars": 6430,
-    "forks": 2532,
-    "starsInPeriod": 19
+    "stars": 6437,
+    "forks": 2537,
+    "starsInPeriod": 11
   },
   {
-    "author": "kitao",
-    "name": "pyxel",
-    "href": "https://github.com/kitao/pyxel",
-    "description": "A retro game engine for Python",
+    "author": "apache",
+    "name": "arrow",
+    "href": "https://github.com/apache/arrow",
+    "description": "Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…",
     "language": "C++",
-    "stars": 7530,
-    "forks": 459,
-    "starsInPeriod": 9
+    "stars": 6384,
+    "forks": 1615,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "falcosecurity",
+    "name": "falco",
+    "href": "https://github.com/falcosecurity/falco",
+    "description": "Cloud Native Runtime Security",
+    "language": "C++",
+    "stars": 3079,
+    "forks": 378,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "zeromq",
+    "name": "libzmq",
+    "href": "https://github.com/zeromq/libzmq",
+    "description": "ZeroMQ core engine in C++, implements ZMTP/3.1",
+    "language": "C++",
+    "stars": 6490,
+    "forks": 1845,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "SpiderLabs",
+    "name": "ModSecurity",
+    "href": "https://github.com/SpiderLabs/ModSecurity",
+    "description": "ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…",
+    "language": "C++",
+    "stars": 3898,
+    "forks": 1057,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "Neo23x0",
+    "name": "Raccine",
+    "href": "https://github.com/Neo23x0/Raccine",
+    "description": "A Simple Ransomware Vaccine",
+    "language": "C++",
+    "stars": 497,
+    "forks": 43,
+    "starsInPeriod": 10
   }
 ]

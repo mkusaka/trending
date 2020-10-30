@@ -1,51 +1,51 @@
 # general
-- [commerce](https://github.com/vercel/commerce) : TypeScript
-  - Next.js Commerce
-- [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) : Python
-  - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
-- [youtube-dl](https://github.com/lrvick/youtube-dl) : Python
-  - RIAA: Please go die in a fire.
-- [Faker](https://github.com/fzaninotto/Faker) : PHP
-  - Faker is a PHP library that generates fake data for you
-- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
-  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
-  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
-- [google-research](https://github.com/google-research/google-research) : Jupyter Notebook
-  - Google Research
-- [tempo](https://github.com/grafana/tempo) : Go
-  - Grafana Tempo is a high volume, minimal dependency trace storage.
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) : Vue
-  - 👽 A free, fast and beautiful API request builder used by 100k+ developers. https://hoppscotch.io
-- [Charts](https://github.com/danielgindi/Charts) : Swift
-  - Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
-- [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) : Java
-  - To Be Top Javaer - Java工程师成神之路
-- [free](https://github.com/freefq/free) : 
-  - 免费科学上网,免费翻墙,免费ssr,免费v2ray,免费vmess节点,免费节点,翻墙,蓝灯,谷歌商店
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [open-project-1](https://github.com/UnityTechnologies/open-project-1) : C#
-  - Unity Open Project #1: Action-adventure
-- [keep3r.network](https://github.com/keep3r-network/keep3r.network) : Solidity
-  - An incentivized keeper network for anonymous keeper and job registration
-- [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) : Shell
-  - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : 
-  - 🤓 Build your own (insert technology here)
-- [polkadot](https://github.com/paritytech/polkadot) : Rust
-  - Polkadot Node Implementation
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
-  - Roadmap to becoming a web developer in 2020
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
-  - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+- [semana-javascript-expert01](https://github.com/ErickWendel/semana-javascript-expert01) : JavaScript
+  - Exemplos de código da primeira semana Javascript Expert
+- [manim](https://github.com/3b1b/manim) : Python
+  - Animation engine for explanatory math videos
 - [next.js](https://github.com/vercel/next.js) : JavaScript
   - The React Framework
-- [puppeteer](https://github.com/puppeteer/puppeteer) : TypeScript
-  - Headless Chrome Node.js API
-- [youtube-dl](https://github.com/l1ving/youtube-dl) : Python
-  - A copyright-respecting fork of youtube-dl
+- [substrate](https://github.com/paritytech/substrate) : Rust
+  - Substrate: The platform for blockchain innovators
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
+  - Roadmap to becoming a web developer in 2020
+- [json](https://github.com/nlohmann/json) : C++
+  - JSON for Modern C++
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
+  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [commerce](https://github.com/vercel/commerce) : TypeScript
+  - Next.js Commerce
+- [keep3r.network](https://github.com/keep3r-network/keep3r.network) : Solidity
+  - An incentivized keeper network for anonymous keeper and job registration
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
+  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
+- [kube-linter](https://github.com/stackrox/kube-linter) : Go
+  - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) : Python
+  - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 - [BilibiliTask](https://github.com/srcrs/BilibiliTask) : Java
   - 哔哩哔哩(B站)自动完成每日任务，投币，点赞，直播签到，自动兑换银瓜子为硬币，自动送出即将过期礼物，漫画App签到。
+- [polkadot](https://github.com/paritytech/polkadot) : Rust
+  - Polkadot Node Implementation
+- [yt-dlc](https://github.com/blackjack4494/yt-dlc) : Python
+  - media downloader for various sites.
+- [running_page](https://github.com/yihong0618/running_page) : JavaScript
+  - Make your own running page
+- [compose-samples](https://github.com/android/compose-samples) : Kotlin
+  - Official Jetpack Compose samples.
 - [beginners-intro-javascript-node](https://github.com/microsoft/beginners-intro-javascript-node) : JavaScript
   - Beginner's Series: Introduction to JavaScript (Node.js)
+- [zipline](https://github.com/quantopian/zipline) : Python
+  - Zipline, a Pythonic Algorithmic Trading Library
+- [InfoSpider](https://github.com/kangvcar/InfoSpider) : Python
+  - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
+- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) : JavaScript
+  - The OpenAPI Specification Repository
+- [open-project-1](https://github.com/UnityTechnologies/open-project-1) : C#
+  - Unity Open Project #1: Action-adventure
+- [cheat.sh](https://github.com/chubin/cheat.sh) : Python
+  - the only cheat sheet you need
+- [youtube-dl](https://github.com/lrvick/youtube-dl) : Python
+  - RIAA: Please go die in a fire.

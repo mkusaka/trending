@@ -1,51 +1,51 @@
 # rust
-- [polkadot](https://github.com/paritytech/polkadot)
-  - Polkadot Node Implementation
 - [substrate](https://github.com/paritytech/substrate)
   - Substrate: The platform for blockchain innovators
-- [solana](https://github.com/solana-labs/solana)
-  - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-- [RustScan](https://github.com/RustScan/RustScan)
-  - 🤖 The Modern Port Scanner 🤖
-- [globe](https://github.com/adamsky/globe)
-  - ASCII globe generator
-- [cargo](https://github.com/rust-lang/cargo)
-  - The Rust package manager
-- [ruffle](https://github.com/ruffle-rs/ruffle)
-  - A Flash Player emulator written in Rust
-- [diesel](https://github.com/diesel-rs/diesel)
-  - A safe, extensible ORM and Query Builder for Rust
-- [paru](https://github.com/Morganamilo/paru)
-  - AUR helper based on yay
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [materialize](https://github.com/MaterializeInc/materialize)
-  - The Streaming SQL Database powered by Timely Dataflow
-- [bevy](https://github.com/bevyengine/bevy)
-  - A refreshingly simple data-driven game engine built in Rust
-- [tokenizers](https://github.com/huggingface/tokenizers)
-  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
-- [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust)
-  - A Rust port of shadowsocks
-- [orbtk](https://github.com/redox-os/orbtk)
-  - The Rust UI-Toolkit.
-- [book](https://github.com/rust-lang/book)
-  - The Rust Programming Language
-- [pueue](https://github.com/Nukesor/pueue)
-  - 🌠 Manage your shell commands.
-- [serenity](https://github.com/serenity-rs/serenity)
-  - A Rust library for the Discord API.
+- [polkadot](https://github.com/paritytech/polkadot)
+  - Polkadot Node Implementation
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter)
   - An incremental parsing system for programming tools
-- [swc](https://github.com/swc-project/swc)
-  - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
-- [servo](https://github.com/servo/servo)
-  - The Servo Browser Engine
-- [tonic](https://github.com/hyperium/tonic)
-  - A native gRPC client & server implementation with async/await support.
+- [RustScan](https://github.com/RustScan/RustScan)
+  - 🤖 The Modern Port Scanner 🤖
+- [ruffle](https://github.com/ruffle-rs/ruffle)
+  - A Flash Player emulator written in Rust
+- [materialize](https://github.com/MaterializeInc/materialize)
+  - The Streaming SQL Database powered by Timely Dataflow
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
+- [paru](https://github.com/Morganamilo/paru)
+  - AUR helper based on yay
+- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+  - An experimental Rust compiler front-end for IDEs
+- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+  - 📚 Learn to write an embedded OS in Rust 🦀
+- [tokenizers](https://github.com/huggingface/tokenizers)
+  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
+- [zola](https://github.com/getzola/zola)
+  - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+- [ballista](https://github.com/ballista-compute/ballista)
+  - Distributed compute platform implemented in Rust, using Apache Arrow memory model.
+- [rust-clippy](https://github.com/rust-lang/rust-clippy)
+  - A bunch of lints to catch common mistakes and improve your Rust code
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
 - [Rocket](https://github.com/SergioBenitez/Rocket)
   - A web framework for Rust.
-- [quiche](https://github.com/cloudflare/quiche)
-  - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
-- [legion](https://github.com/amethyst/legion)
-  - High performance Rust ECS library
+- [lighthouse](https://github.com/sigp/lighthouse)
+  - Rust Ethereum 2.0 Client
+- [rapier](https://github.com/dimforge/rapier)
+  - 2D and 3D physics engines focused on performance.
+- [egui](https://github.com/emilk/egui)
+  - egui: Immediate mode GUI written in Rust, made for WASM
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [bincode](https://github.com/servo/bincode)
+  - A binary encoder / decoder implementation in Rust.
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
+  - Facilitating high-level interactions between Wasm modules and JavaScript
+- [webrtc](https://github.com/webrtc-rs/webrtc)
+  - A pure Rust implementation of WebRTC API. Rewrite Pion WebRTC stack (http://Pion.ly) in Rust!

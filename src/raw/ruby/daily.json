@@ -1,53 +1,43 @@
 [
   {
-    "author": "CocoaPods",
-    "name": "CocoaPods",
-    "href": "https://github.com/CocoaPods/CocoaPods",
-    "description": "The Cocoa Dependency Manager.",
+    "author": "thoughtbot",
+    "name": "factory_bot",
+    "href": "https://github.com/thoughtbot/factory_bot",
+    "description": "A library for setting up Ruby objects as test data.",
     "language": "Ruby",
-    "stars": 12778,
-    "forks": 2324,
+    "stars": 7013,
+    "forks": 2221,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "rapid7",
+    "name": "metasploit-framework",
+    "href": "https://github.com/rapid7/metasploit-framework",
+    "description": "Metasploit Framework",
+    "language": "Ruby",
+    "stars": 21950,
+    "forks": 10572,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "activerecord-hackery",
+    "name": "ransack",
+    "href": "https://github.com/activerecord-hackery/ransack",
+    "description": "Object-based searching.",
+    "language": "Ruby",
+    "stars": 4699,
+    "forks": 704,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "freeCodeCamp",
+    "name": "how-to-contribute-to-open-source",
+    "href": "https://github.com/freeCodeCamp/how-to-contribute-to-open-source",
+    "description": "A guide to contributing to open source",
+    "language": "Ruby",
+    "stars": 4221,
+    "forks": 970,
     "starsInPeriod": 4
-  },
-  {
-    "author": "fastlane",
-    "name": "fastlane",
-    "href": "https://github.com/fastlane/fastlane",
-    "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
-    "language": "Ruby",
-    "stars": 30019,
-    "forks": 4702,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "github",
-    "name": "scientist",
-    "href": "https://github.com/github/scientist",
-    "description": "🔬 A Ruby library for carefully refactoring critical paths.",
-    "language": "Ruby",
-    "stars": 5755,
-    "forks": 362,
-    "starsInPeriod": 10
-  },
-  {
-    "author": "dependabot",
-    "name": "dependabot-core",
-    "href": "https://github.com/dependabot/dependabot-core",
-    "description": "🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot",
-    "language": "Ruby",
-    "stars": 1469,
-    "forks": 361,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "opf",
-    "name": "openproject",
-    "href": "https://github.com/opf/openproject",
-    "description": "OpenProject is the leading open source project management software.",
-    "language": "Ruby",
-    "stars": 4300,
-    "forks": 1303,
-    "starsInPeriod": 3
   },
   {
     "author": "heartcombo",
@@ -55,109 +45,29 @@
     "href": "https://github.com/heartcombo/devise",
     "description": "Flexible authentication solution for Rails with Warden.",
     "language": "Ruby",
-    "stars": 21189,
-    "forks": 5101,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "github-changelog-generator",
-    "name": "github-changelog-generator",
-    "href": "https://github.com/github-changelog-generator/github-changelog-generator",
-    "description": "Automatically generate change log from your tags, issues, labels and pull requests on GitHub.",
-    "language": "Ruby",
-    "stars": 6179,
-    "forks": 713,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "luggit",
-    "name": "react-native-config",
-    "href": "https://github.com/luggit/react-native-config",
-    "description": "Bring some 12 factor love to your mobile apps!",
-    "language": "Ruby",
-    "stars": 3340,
-    "forks": 542,
+    "stars": 21193,
+    "forks": 5100,
     "starsInPeriod": 6
   },
   {
-    "author": "rswag",
-    "name": "rswag",
-    "href": "https://github.com/rswag/rswag",
-    "description": "Seamlessly adds a Swagger to Rails-based API's",
+    "author": "fastlane",
+    "name": "fastlane",
+    "href": "https://github.com/fastlane/fastlane",
+    "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
     "language": "Ruby",
-    "stars": 872,
-    "forks": 238,
-    "starsInPeriod": 2
+    "stars": 30029,
+    "forks": 4708,
+    "starsInPeriod": 10
   },
   {
-    "author": "thoughtbot",
-    "name": "factory_bot",
-    "href": "https://github.com/thoughtbot/factory_bot",
-    "description": "A library for setting up Ruby objects as test data.",
+    "author": "forem",
+    "name": "forem",
+    "href": "https://github.com/forem/forem",
+    "description": "For empowering community 🌱",
     "language": "Ruby",
-    "stars": 7012,
-    "forks": 2221,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "ankane",
-    "name": "strong_migrations",
-    "href": "https://github.com/ankane/strong_migrations",
-    "description": "Catch unsafe migrations in development",
-    "language": "Ruby",
-    "stars": 2246,
-    "forks": 97,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "sonic-pi-net",
-    "name": "sonic-pi",
-    "href": "https://github.com/sonic-pi-net/sonic-pi",
-    "description": "Code. Music. Live.",
-    "language": "Ruby",
-    "stars": 6198,
-    "forks": 685,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "discourse",
-    "name": "discourse",
-    "href": "https://github.com/discourse/discourse",
-    "description": "A platform for community discussion. Free, open, simple.",
-    "language": "Ruby",
-    "stars": 31777,
-    "forks": 7016,
-    "starsInPeriod": 9
-  },
-  {
-    "author": "ruby",
-    "name": "ruby",
-    "href": "https://github.com/ruby/ruby",
-    "description": "The Ruby Programming Language [mirror]",
-    "language": "Ruby",
-    "stars": 17454,
-    "forks": 4654,
+    "stars": 15357,
+    "forks": 2574,
     "starsInPeriod": 7
-  },
-  {
-    "author": "decidim",
-    "name": "decidim",
-    "href": "https://github.com/decidim/decidim",
-    "description": "The participatory democracy framework. A generator and multiple gems made with Ruby on Rails",
-    "language": "Ruby",
-    "stars": 793,
-    "forks": 250,
-    "starsInPeriod": 0
-  },
-  {
-    "author": "pivotal",
-    "name": "LicenseFinder",
-    "href": "https://github.com/pivotal/LicenseFinder",
-    "description": "Find licenses for your project's dependencies.",
-    "language": "Ruby",
-    "stars": 1109,
-    "forks": 243,
-    "starsInPeriod": 2
   },
   {
     "author": "solidusio",
@@ -165,19 +75,99 @@
     "href": "https://github.com/solidusio/solidus",
     "description": "🛒Solidus, Rails eCommerce System",
     "language": "Ruby",
-    "stars": 3330,
-    "forks": 973,
+    "stars": 3332,
+    "forks": 975,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "github-changelog-generator",
+    "name": "github-changelog-generator",
+    "href": "https://github.com/github-changelog-generator/github-changelog-generator",
+    "description": "Automatically generate change log from your tags, issues, labels and pull requests on GitHub.",
+    "language": "Ruby",
+    "stars": 6181,
+    "forks": 714,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "github",
+    "name": "view_component",
+    "href": "https://github.com/github/view_component",
+    "description": "A framework for building reusable, testable & encapsulated view components in Ruby on Rails.",
+    "language": "Ruby",
+    "stars": 1266,
+    "forks": 137,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "ruby",
+    "name": "ruby",
+    "href": "https://github.com/ruby/ruby",
+    "description": "The Ruby Programming Language [mirror]",
+    "language": "Ruby",
+    "stars": 17461,
+    "forks": 4654,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "luggit",
+    "name": "react-native-config",
+    "href": "https://github.com/luggit/react-native-config",
+    "description": "Bring some 12 factor love to your mobile apps!",
+    "language": "Ruby",
+    "stars": 3342,
+    "forks": 543,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "LionSec",
+    "name": "xerosploit",
+    "href": "https://github.com/LionSec/xerosploit",
+    "description": "Efficient and advanced man in the middle framework",
+    "language": "Ruby",
+    "stars": 1224,
+    "forks": 473,
     "starsInPeriod": 3
   },
   {
-    "author": "sinatra",
-    "name": "sinatra",
-    "href": "https://github.com/sinatra/sinatra",
-    "description": "Classy web-development dressed in a DSL (official / canonical repo)",
+    "author": "discourse",
+    "name": "discourse",
+    "href": "https://github.com/discourse/discourse",
+    "description": "A platform for community discussion. Free, open, simple.",
     "language": "Ruby",
-    "stars": 11107,
-    "forks": 1991,
-    "starsInPeriod": 0
+    "stars": 31786,
+    "forks": 7019,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "chef",
+    "name": "chef",
+    "href": "https://github.com/chef/chef",
+    "description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale",
+    "language": "Ruby",
+    "stars": 6387,
+    "forks": 2457,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "github",
+    "name": "scientist",
+    "href": "https://github.com/github/scientist",
+    "description": "🔬 A Ruby library for carefully refactoring critical paths.",
+    "language": "Ruby",
+    "stars": 5760,
+    "forks": 363,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "bayandin",
+    "name": "awesome-awesomeness",
+    "href": "https://github.com/bayandin/awesome-awesomeness",
+    "description": "A curated list of awesome awesomeness",
+    "language": "Ruby",
+    "stars": 26837,
+    "forks": 3324,
+    "starsInPeriod": 5
   },
   {
     "author": "thoughtbot",
@@ -185,49 +175,9 @@
     "href": "https://github.com/thoughtbot/administrate",
     "description": "A Rails engine that helps you put together a super-flexible admin dashboard.",
     "language": "Ruby",
-    "stars": 4919,
-    "forks": 901,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "kilimchoi",
-    "name": "engineering-blogs",
-    "href": "https://github.com/kilimchoi/engineering-blogs",
-    "description": "A curated list of engineering blogs",
-    "language": "Ruby",
-    "stars": 17464,
-    "forks": 166,
-    "starsInPeriod": 15
-  },
-  {
-    "author": "Shopify",
-    "name": "packwerk",
-    "href": "https://github.com/Shopify/packwerk",
-    "description": "Good things come in small packages.",
-    "language": "Ruby",
-    "stars": 381,
-    "forks": 18,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "alexeygrigorev",
-    "name": "data-science-interviews",
-    "href": "https://github.com/alexeygrigorev/data-science-interviews",
-    "description": "Data science interview questions and answers",
-    "language": "Ruby",
-    "stars": 3546,
-    "forks": 665,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "thoughtbot",
-    "name": "paperclip",
-    "href": "https://github.com/thoughtbot/paperclip",
-    "description": "Easy file attachment management for ActiveRecord",
-    "language": "Ruby",
-    "stars": 9066,
-    "forks": 2101,
-    "starsInPeriod": 0
+    "stars": 4921,
+    "forks": 902,
+    "starsInPeriod": 2
   },
   {
     "author": "thoughtbot",
@@ -235,18 +185,68 @@
     "href": "https://github.com/thoughtbot/shoulda-matchers",
     "description": "Simple one-liner tests for common Rails functionality",
     "language": "Ruby",
-    "stars": 2935,
+    "stars": 2936,
     "forks": 823,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "rails-api",
+    "name": "active_model_serializers",
+    "href": "https://github.com/rails-api/active_model_serializers",
+    "description": "ActiveModel::Serializer implementation and Rails hooks",
+    "language": "Ruby",
+    "stars": 5025,
+    "forks": 1348,
     "starsInPeriod": 0
   },
   {
-    "author": "shrinerb",
-    "name": "shrine",
-    "href": "https://github.com/shrinerb/shrine",
-    "description": "File Attachment toolkit for Ruby applications",
+    "author": "paper-trail-gem",
+    "name": "paper_trail",
+    "href": "https://github.com/paper-trail-gem/paper_trail",
+    "description": "Track changes to your rails models",
     "language": "Ruby",
-    "stars": 2720,
-    "forks": 222,
-    "starsInPeriod": 2
+    "stars": 5932,
+    "forks": 781,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "teamcapybara",
+    "name": "capybara",
+    "href": "https://github.com/teamcapybara/capybara",
+    "description": "Acceptance test framework for web applications",
+    "language": "Ruby",
+    "stars": 9223,
+    "forks": 1361,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "bigbluebutton",
+    "name": "greenlight",
+    "href": "https://github.com/bigbluebutton/greenlight",
+    "description": "A really simple end-user interface for your BigBlueButton server.",
+    "language": "Ruby",
+    "stars": 458,
+    "forks": 3002,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "rspec",
+    "name": "rspec-mocks",
+    "href": "https://github.com/rspec/rspec-mocks",
+    "description": "RSpec's 'test double' framework, with support for stubbing and mocking",
+    "language": "Ruby",
+    "stars": 998,
+    "forks": 307,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "dependabot",
+    "name": "dependabot-core",
+    "href": "https://github.com/dependabot/dependabot-core",
+    "description": "🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot",
+    "language": "Ruby",
+    "stars": 1476,
+    "forks": 362,
+    "starsInPeriod": 7
   }
 ]

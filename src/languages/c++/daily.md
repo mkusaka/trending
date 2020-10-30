@@ -1,51 +1,51 @@
 # c++
-- [capnproto](https://github.com/capnproto/capnproto)
-  - Cap'n Proto serialization/RPC system - core tools and C++ library
-- [openpilot](https://github.com/commaai/openpilot)
-  - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
 - [json](https://github.com/nlohmann/json)
   - JSON for Modern C++
-- [vowpal_wabbit](https://github.com/VowpalWabbit/vowpal_wabbit)
-  - Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
-- [Catch2](https://github.com/catchorg/Catch2)
-  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-- [folly](https://github.com/facebook/folly)
-  - An open-source C++ library developed and used at Facebook.
-- [bl_iot_sdk](https://github.com/bouffalolab/bl_iot_sdk)
-  - 
-- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
-  - Awesome multilingual OCR toolkits based on PaddlePaddle （multilingual recognition: English, Chinese, Korean, Japanese, German, French etc. 3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）
-- [pytorch](https://github.com/pytorch/pytorch)
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [lightseq](https://github.com/bytedance/lightseq)
-  - LightSeq: A High Performance Inference Library for Sequence Processing and Generation
-- [pybind11](https://github.com/pybind/pybind11)
-  - Seamless operability between C++11 and Python
-- [re3](https://github.com/GTAmodding/re3)
-  - GTA III
-- [imgui](https://github.com/ocornut/imgui)
-  - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-- [pbrt-v3](https://github.com/mmp/pbrt-v3)
-  - Source code for pbrt, the renderer described in the third edition of "Physically Based Rendering: From Theory To Implementation", by Matt Pharr, Wenzel Jakob, and Greg Humphreys.
-- [openvino](https://github.com/openvinotoolkit/openvino)
-  - OpenVINO™ Toolkit repository
-- [herpaderping](https://github.com/jxy-s/herpaderping)
-  - Process Herpaderping proof of concept, tool, and technical deep dive. Process Herpaderping bypasses security products by obscuring the intentions of a process.
+- [ncnn](https://github.com/Tencent/ncnn)
+  - ncnn is a high-performance neural network inference framework optimized for the mobile platform
+- [capnproto](https://github.com/capnproto/capnproto)
+  - Cap'n Proto serialization/RPC system - core tools and C++ library
 - [spdlog](https://github.com/gabime/spdlog)
   - Fast C++ logging library.
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [protobuf](https://github.com/protocolbuffers/protobuf)
-  - Protocol Buffers - Google's data interchange format
-- [ClickHouse](https://github.com/ClickHouse/ClickHouse)
-  - ClickHouse is a free analytics DBMS for big data
+- [flatbuffers](https://github.com/google/flatbuffers)
+  - FlatBuffers: Memory Efficient Serialization Library
+- [googletest](https://github.com/google/googletest)
+  - Googletest - Google Testing and Mocking Framework
+- [swoole-src](https://github.com/swoole/swoole-src)
+  - 🚀 Coroutine-based concurrency library for PHP
+- [nebula](https://github.com/vesoft-inc/nebula)
+  - A distributed, fast open-source graph database featuring horizontal scalability and high availability
+- [glow](https://github.com/pytorch/glow)
+  - Compiler for Neural Network hardware accelerators
+- [PowerToys](https://github.com/microsoft/PowerToys)
+  - Windows system utilities to maximize productivity
+- [Open3D](https://github.com/intel-isl/Open3D)
+  - Open3D: A Modern Library for 3D Data Processing
 - [grpc](https://github.com/grpc/grpc)
   - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-- [synergy-core](https://github.com/symless/synergy-core)
-  - Open source core of Synergy, the keyboard and mouse sharing tool
-- [doctest](https://github.com/onqtam/doctest)
-  - The fastest feature-rich C++11/14/17/20 single-header testing framework
+- [SmartGuitarAmp](https://github.com/keyth72/SmartGuitarAmp)
+  - Guitar plugin made with JUCE that uses neural network models to emulate real world hardware.
+- [tensorflow](https://github.com/tensorflow/tensorflow)
+  - An Open Source Machine Learning Framework for Everyone
+- [ThreadPool](https://github.com/progschj/ThreadPool)
+  - A simple C++11 Thread Pool implementation
+- [LightGBM](https://github.com/microsoft/LightGBM)
+  - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
+- [interpret](https://github.com/interpretml/interpret)
+  - Fit interpretable models. Explain blackbox machine learning.
+- [openMVG](https://github.com/openMVG/openMVG)
+  - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
+- [imgui](https://github.com/ocornut/imgui)
+  - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [llvm-project](https://github.com/llvm/llvm-project)
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
-- [pyxel](https://github.com/kitao/pyxel)
-  - A retro game engine for Python
+- [arrow](https://github.com/apache/arrow)
+  - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…
+- [falco](https://github.com/falcosecurity/falco)
+  - Cloud Native Runtime Security
+- [libzmq](https://github.com/zeromq/libzmq)
+  - ZeroMQ core engine in C++, implements ZMTP/3.1
+- [ModSecurity](https://github.com/SpiderLabs/ModSecurity)
+  - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
+- [Raccine](https://github.com/Neo23x0/Raccine)
+  - A Simple Ransomware Vaccine
