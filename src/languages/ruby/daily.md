@@ -1,51 +1,51 @@
 # ruby
-- [factory_bot](https://github.com/thoughtbot/factory_bot)
-  - A library for setting up Ruby objects as test data.
+- [explore](https://github.com/github/explore)
+  - Community-curated topic and collection pages on GitHub
+- [faker](https://github.com/faker-ruby/faker)
+  - A library for generating fake data such as names, addresses, and phone numbers.
 - [metasploit-framework](https://github.com/rapid7/metasploit-framework)
   - Metasploit Framework
-- [ransack](https://github.com/activerecord-hackery/ransack)
-  - Object-based searching.
-- [how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
-  - A guide to contributing to open source
-- [devise](https://github.com/heartcombo/devise)
-  - Flexible authentication solution for Rails with Warden.
-- [fastlane](https://github.com/fastlane/fastlane)
-  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [forem](https://github.com/forem/forem)
-  - For empowering community 🌱
-- [solidus](https://github.com/solidusio/solidus)
-  - 🛒Solidus, Rails eCommerce System
-- [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator)
-  - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
-- [view_component](https://github.com/github/view_component)
-  - A framework for building reusable, testable & encapsulated view components in Ruby on Rails.
+- [chatwoot](https://github.com/chatwoot/chatwoot)
+  - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬
 - [ruby](https://github.com/ruby/ruby)
   - The Ruby Programming Language [mirror]
-- [react-native-config](https://github.com/luggit/react-native-config)
-  - Bring some 12 factor love to your mobile apps!
-- [xerosploit](https://github.com/LionSec/xerosploit)
-  - Efficient and advanced man in the middle framework
-- [discourse](https://github.com/discourse/discourse)
-  - A platform for community discussion. Free, open, simple.
-- [chef](https://github.com/chef/chef)
-  - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
-- [scientist](https://github.com/github/scientist)
-  - 🔬 A Ruby library for carefully refactoring critical paths.
+- [choosealicense.com](https://github.com/github/choosealicense.com)
+  - A site to provide non-judgmental guidance on choosing a license for your open source project
+- [homebrew-core](https://github.com/Homebrew/homebrew-core)
+  - 🍻 Default formulae for the missing package manager for macOS
+- [huginn](https://github.com/huginn/huginn)
+  - Create agents that monitor and act on your behalf. Your agents are standing by!
+- [fastlane](https://github.com/fastlane/fastlane)
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [capistrano](https://github.com/capistrano/capistrano)
+  - Remote multi-server automation tool
+- [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts)
+  - 🚨 Collection of Prometheus alerting rules
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
   - A curated list of awesome awesomeness
-- [administrate](https://github.com/thoughtbot/administrate)
-  - A Rails engine that helps you put together a super-flexible admin dashboard.
-- [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)
-  - Simple one-liner tests for common Rails functionality
-- [active_model_serializers](https://github.com/rails-api/active_model_serializers)
-  - ActiveModel::Serializer implementation and Rails hooks
-- [paper_trail](https://github.com/paper-trail-gem/paper_trail)
-  - Track changes to your rails models
-- [capybara](https://github.com/teamcapybara/capybara)
-  - Acceptance test framework for web applications
-- [greenlight](https://github.com/bigbluebutton/greenlight)
-  - A really simple end-user interface for your BigBlueButton server.
-- [rspec-mocks](https://github.com/rspec/rspec-mocks)
-  - RSpec's 'test double' framework, with support for stubbing and mocking
-- [dependabot-core](https://github.com/dependabot/dependabot-core)
-  - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot
+- [ruby-oo-object-relationships-kickstarter-lab](https://github.com/learn-co-curriculum/ruby-oo-object-relationships-kickstarter-lab)
+  - 
+- [rps-challenge-apprenticeships](https://github.com/makersacademy/rps-challenge-apprenticeships)
+  - End of web module challenge for the apprenticeship course
+- [ruby-oo-object-relationships-banking-lab](https://github.com/learn-co-curriculum/ruby-oo-object-relationships-banking-lab)
+  - 
+- [anagram-detector](https://github.com/learn-co-curriculum/anagram-detector)
+  - 
+- [regex-lab](https://github.com/learn-co-curriculum/regex-lab)
+  - 
+- [review](https://github.com/kmuto/review)
+  - Re:VIEW is flexible document format/conversion system
+- [dashboards](https://github.com/appdev-projects/dashboards)
+  - 
+- [matestack-ui-core](https://github.com/matestack/matestack-ui-core)
+  - Matestack enables you to define sophisticated UI behavior without touching JavaScript and HTML. You end up writing 50% less code while increasing productivity, maintainability and developer happiness.
+- [first-ide-lab-bootcamp-prep-000](https://github.com/learn-co-students/first-ide-lab-bootcamp-prep-000)
+  - 
+- [js-rails-as-api-review-of-rails-mvc](https://github.com/learn-co-curriculum/js-rails-as-api-review-of-rails-mvc)
+  - 
+- [bullet](https://github.com/flyerhzm/bullet)
+  - help to kill N+1 queries and unused eager loading
+- [yaaf](https://github.com/rootstrap/yaaf)
+  - Easing the form object pattern in Rails applications
+- [jb](https://github.com/amatsuda/jb)
+  - A simple and fast JSON API template engine for Ruby on Rails
