@@ -3,49 +3,49 @@
   - Substrate: The platform for blockchain innovators
 - [polkadot](https://github.com/paritytech/polkadot)
   - Polkadot Node Implementation
-- [tree-sitter](https://github.com/tree-sitter/tree-sitter)
-  - An incremental parsing system for programming tools
-- [RustScan](https://github.com/RustScan/RustScan)
-  - 🤖 The Modern Port Scanner 🤖
-- [ruffle](https://github.com/ruffle-rs/ruffle)
-  - A Flash Player emulator written in Rust
-- [materialize](https://github.com/MaterializeInc/materialize)
-  - The Streaming SQL Database powered by Timely Dataflow
-- [bat](https://github.com/sharkdp/bat)
-  - A cat(1) clone with wings.
-- [paru](https://github.com/Morganamilo/paru)
-  - AUR helper based on yay
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
-  - 📚 Learn to write an embedded OS in Rust 🦀
-- [tokenizers](https://github.com/huggingface/tokenizers)
-  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
-- [zola](https://github.com/getzola/zola)
-  - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
-- [ballista](https://github.com/ballista-compute/ballista)
-  - Distributed compute platform implemented in Rust, using Apache Arrow memory model.
-- [rust-clippy](https://github.com/rust-lang/rust-clippy)
-  - A bunch of lints to catch common mistakes and improve your Rust code
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [Rocket](https://github.com/SergioBenitez/Rocket)
-  - A web framework for Rust.
-- [lighthouse](https://github.com/sigp/lighthouse)
-  - Rust Ethereum 2.0 Client
-- [rapier](https://github.com/dimforge/rapier)
-  - 2D and 3D physics engines focused on performance.
-- [egui](https://github.com/emilk/egui)
-  - egui: Immediate mode GUI written in Rust, made for WASM
-- [ripgrep](https://github.com/BurntSushi/ripgrep)
-  - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-- [bincode](https://github.com/servo/bincode)
-  - A binary encoder / decoder implementation in Rust.
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
-  - Facilitating high-level interactions between Wasm modules and JavaScript
+- [scrying](https://github.com/nccgroup/scrying)
+  - A tool for collecting RDP, web and VNC screenshots all in one place
 - [webrtc](https://github.com/webrtc-rs/webrtc)
   - A pure Rust implementation of WebRTC API. Rewrite Pion WebRTC stack (http://Pion.ly) in Rust!
+- [vtracer](https://github.com/visioncortex/vtracer)
+  - Raster to Vector Graphics Converter built on top of visioncortex
+- [lemmy](https://github.com/LemmyNet/lemmy)
+  - 🐀 Building a federated alternative to reddit in rust
+- [swc](https://github.com/swc-project/swc)
+  - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
+- [paru](https://github.com/Morganamilo/paru)
+  - AUR helper based on yay
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [Rocket](https://github.com/SergioBenitez/Rocket)
+  - A web framework for Rust.
+- [gitui](https://github.com/extrawurst/gitui)
+  - Blazing 💥 fast terminal-ui for git written in rust 🦀
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
+- [wagi](https://github.com/deislabs/wagi)
+  - WebAssembly Gateway Interface
+- [rust-clippy](https://github.com/rust-lang/rust-clippy)
+  - A bunch of lints to catch common mistakes and improve your Rust code
+- [yew](https://github.com/yewstack/yew)
+  - Rust / Wasm framework for building client web apps
+- [noria](https://github.com/mit-pdos/noria)
+  - Fast web applications through dynamic, partially-stateful dataflow
+- [seed](https://github.com/seed-rs/seed)
+  - A Rust framework for creating web apps
+- [zola](https://github.com/getzola/zola)
+  - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+- [tickrs](https://github.com/tarkah/tickrs)
+  - Realtime ticker data in your terminal 📈
+- [cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor)
+  - A rust-vmm based cloud hypervisor
+- [ash](https://github.com/MaikKlein/ash)
+  - Vulkan bindings for Rust
+- [procs](https://github.com/dalance/procs)
+  - A modern replacement for ps written in Rust
+- [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust)
+  - A Rust port of shadowsocks
+- [sqlx](https://github.com/launchbadge/sqlx)
+  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.

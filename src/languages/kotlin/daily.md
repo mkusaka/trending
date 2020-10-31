@@ -1,51 +1,51 @@
 # kotlin
 - [compose-samples](https://github.com/android/compose-samples)
   - Official Jetpack Compose samples.
-- [kotlin](https://github.com/JetBrains/kotlin)
-  - The Kotlin Programming Language
-- [koin](https://github.com/InsertKoinIO/koin)
-  - Koin - a pragmatic lightweight dependency injection framework for Kotlin
-- [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines)
-  - Library support for Kotlin coroutines
-- [CalendarView](https://github.com/kizitonwose/CalendarView)
-  - A highly customizable calendar library for Android, powered by RecyclerView.
-- [android-kotlin-fundamentals-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-apps)
-  - android-kotlin-fundamentals-apps
-- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android)
-  - Native Android app using the Apple/Google exposure notification API.
-- [sqldelight](https://github.com/cashapp/sqldelight)
-  - SQLDelight - Generates typesafe Kotlin APIs from SQL
-- [kotlinx-datetime](https://github.com/Kotlin/kotlinx-datetime)
-  - KotlinX multiplatform date/time library
-- [camera-samples](https://github.com/android/camera-samples)
-  - Multiple samples showing the best practices in camera APIs on Android.
+- [Compressor](https://github.com/zetbaitsu/Compressor)
+  - An android image compression library.
+- [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization)
+  - Kotlin multiplatform / multi-format serialization
+- [Unciv](https://github.com/yairm210/Unciv)
+  - Open-source Android/Desktop remake of Civ V
 - [ktor](https://github.com/ktorio/ktor)
   - Framework for quickly creating connected applications in Kotlin with minimal effort
-- [Pokedex](https://github.com/skydoves/Pokedex)
-  - 🗡️ Android Pokedex using Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
-- [play-billing-samples](https://github.com/android/play-billing-samples)
-  - Samples for Google Play In-app Billing
 - [client](https://github.com/kami-blue/client)
   - KAMI Blue: a continuation of KAMI | LOOKING FOR MAINTAINERS. CHECK README.
-- [kotest](https://github.com/kotest/kotest)
-  - Powerful, elegant and flexible test framework for Kotlin
-- [tivi](https://github.com/chrisbanes/tivi)
-  - Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.
-- [android-showcase](https://github.com/igorwojda/android-showcase)
-  - 💎 Android application following best practices: Kotlin, coroutines, Clean Architecture, feature modules, tests, MVVM, static analysis...
-- [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
-  - A shadowsocks client for Android
-- [fenix](https://github.com/mozilla-mobile/fenix)
-  - Firefox for Android
-- [Exposed](https://github.com/JetBrains/Exposed)
-  - Kotlin SQL Framework
-- [flexbox-layout](https://github.com/google/flexbox-layout)
-  - Flexbox for Android
+- [coil](https://github.com/coil-kt/coil)
+  - Image loading for Android backed by Kotlin Coroutines.
+- [NotyKT](https://github.com/PatilShreyas/NotyKT)
+  - 📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.
+- [kweb-core](https://github.com/kwebio/kweb-core)
+  - A lightweight Kotlin web framework for backend developers 🦆
+- [skiko](https://github.com/JetBrains/skiko)
+  - Kotlin MPP bindings to Skia
 - [detekt](https://github.com/detekt/detekt)
   - Static code analysis for Kotlin
-- [kotlin-native](https://github.com/JetBrains/kotlin-native)
-  - Kotlin/Native infrastructure
-- [v2rayNG](https://github.com/2dust/v2rayNG)
+- [kotlin](https://github.com/JetBrains/kotlin)
+  - The Kotlin Programming Language
+- [moko-widgets](https://github.com/icerockdev/moko-widgets)
+  - Multiplatform UI DSL with screen management in common code for mobile (android & ios) Kotlin Multiplatform development
+- [sqldelight](https://github.com/cashapp/sqldelight)
+  - SQLDelight - Generates typesafe Kotlin APIs from SQL
+- [kotlinconf-app](https://github.com/JetBrains/kotlinconf-app)
+  - KotlinConf Schedule Application
+- [dokka](https://github.com/Kotlin/dokka)
+  - Documentation Engine for Kotlin
+- [leakcanary](https://github.com/square/leakcanary)
+  - A memory leak detection library for Android.
+- [UnrealLink](https://github.com/JetBrains/UnrealLink)
   - 
-- [architecture-components-samples](https://github.com/android/architecture-components-samples)
-  - Samples for Android Architecture Components.
+- [tivi](https://github.com/chrisbanes/tivi)
+  - Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.
+- [Konfetti](https://github.com/DanielMartinus/Konfetti)
+  - Celebrate more with this lightweight confetti particle system 🎊
+- [kotlin-result](https://github.com/michaelbull/kotlin-result)
+  - A Result monad for modelling success or failure operations.
+- [mockito-kotlin](https://github.com/nhaarman/mockito-kotlin)
+  - Using Mockito with Kotlin
+- [TapTap](https://github.com/KieronQuinn/TapTap)
+  - Port of the double tap on back of device feature from Android 11 to any Android 7.0+ device
+- [flexbox-layout](https://github.com/google/flexbox-layout)
+  - Flexbox for Android
+- [slidetoact](https://github.com/cortinico/slidetoact)
+  - A simple 'Slide to Unlock' Material widget for Android, written in Kotlin 📱🎨🦄

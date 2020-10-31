@@ -3,49 +3,49 @@
   - Exemplos de código da primeira semana Javascript Expert
 - [next.js](https://github.com/vercel/next.js)
   - The React Framework
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [running_page](https://github.com/yihong0618/running_page)
-  - Make your own running page
+- [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
+  - Roadmap to becoming an Artificial Intelligence Expert in 2020
 - [beginners-intro-javascript-node](https://github.com/microsoft/beginners-intro-javascript-node)
   - Beginner's Series: Introduction to JavaScript (Node.js)
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification)
   - The OpenAPI Specification Repository
+- [Recoil](https://github.com/facebookexperimental/Recoil)
+  - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
+- [Weather-Cal](https://github.com/mzeryck/Weather-Cal)
+  - This is a Scriptable widget that lets you display, position, and format multiple elements, including dates and events, weather information, battery level, and more. You can even create your own elements.
 - [iptv](https://github.com/iptv-org/iptv)
   - Collection of 5000+ publicly available IPTV channels from all over the world
+- [esercizi-di-programmazione-javascript](https://github.com/AlbertoOlla/esercizi-di-programmazione-javascript)
+  - Esercizi di informatica! Impara a programmare, metti alla prova!
+- [halo-dream](https://github.com/dateolive/halo-dream)
+  - halo-dream 一款wordpress博客小程序
+- [bootstrap](https://github.com/twbs/bootstrap)
+  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [running_page](https://github.com/yihong0618/running_page)
+  - Make your own running page
+- [a32nx](https://github.com/flybywiresim/a32nx)
+  - The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.
+- [editor.md](https://github.com/pandao/editor.md)
+  - The open source embeddable online markdown editor (component).
+- [attestation-deplacement-derogatoire-q4-2020](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020)
+  - attestation-deplacement-derogatoire-q4-2020 public
+- [gh-proxy](https://github.com/hunshcn/gh-proxy)
+  - github release、archive以及项目文件的加速项目
+- [node-red](https://github.com/node-red/node-red)
+  - Low-code programming for event-driven applications
+- [shapez.io](https://github.com/tobspr/shapez.io)
+  - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
+- [corona-widget](https://github.com/rphl/corona-widget)
+  - COVID-19 Inzidenz-Widget für iOS innerhalb Deutschlands 🇩🇪 (Kreis/Stadt + Bundesland + Trend)
+- [discord.js](https://github.com/discordjs/discord.js)
+  - A powerful JavaScript library for interacting with the Discord API
+- [uppy](https://github.com/transloadit/uppy)
+  - The next open source file uploader for web browsers 🐶
+- [airframe-react](https://github.com/0wczar/airframe-react)
+  - Free Open Source High Quality Dashboard based on Bootstrap 4 & React 16: http://dashboards.webkom.co/react/airframe
 - [sweater](https://github.com/zarkin404/sweater)
   - 薅 🐑 毛，做衬衫
-- [talks](https://github.com/cassidoo/talks)
-  - Talks at conferences, meetups, hackathons, and more, plus my speaker rider for good measure.
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
-- [react-native](https://github.com/facebook/react-native)
-  - A framework for building native apps with React.
-- [js-expert-week](https://github.com/pedrorenan/js-expert-week)
-  - Repoitório utilizado durante a Semana JS Expert com Erick Wendel
-- [react-native-website](https://github.com/facebook/react-native-website)
-  - The site and docs for React Native
-- [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
-  - 强大的哔哩哔哩增强脚本: 下载视频, 音乐, 封面, 弹幕 / 简化直播间, 评论区, 首页 / 自定义顶栏, 删除广告, 夜间模式 / 触屏设备支持
-- [scriptable](https://github.com/Juniorchen2012/scriptable)
-  - scriptable scripts
 - [three.js](https://github.com/mrdoob/three.js)
   - JavaScript 3D library.
-- [Scriptables](https://github.com/im3x/Scriptables)
-  - iOS14桌面组件神器（Scriptable）开发框架、教程、精美脚本分享
-- [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
-  - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06
-- [docs](https://github.com/github/docs)
-  - The open-source repo for docs.github.com
-- [appium](https://github.com/appium/appium)
-  - 📱 Automation for iOS, Android, and Windows Apps.
-- [alpine](https://github.com/alpinejs/alpine)
-  - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [grommet](https://github.com/grommet/grommet)
-  - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
-- [conversable-for-scriptable](https://github.com/andyngo/conversable-for-scriptable)
-  - Conversable is a simple contacts widget for Scriptable.
-- [react-table](https://github.com/tannerlinsley/react-table)
-  - ⚛️ Hooks for building fast and extendable tables and datagrids for React
-- [knex](https://github.com/knex/knex)
-  - A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.

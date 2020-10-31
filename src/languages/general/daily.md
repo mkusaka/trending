@@ -1,51 +1,50 @@
 # general
-- [semana-javascript-expert01](https://github.com/ErickWendel/semana-javascript-expert01) : JavaScript
-  - Exemplos de código da primeira semana Javascript Expert
-- [manim](https://github.com/3b1b/manim) : Python
-  - Animation engine for explanatory math videos
-- [next.js](https://github.com/vercel/next.js) : JavaScript
-  - The React Framework
-- [substrate](https://github.com/paritytech/substrate) : Rust
-  - Substrate: The platform for blockchain innovators
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
-  - Roadmap to becoming a web developer in 2020
-- [json](https://github.com/nlohmann/json) : C++
-  - JSON for Modern C++
-- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
-  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-- [commerce](https://github.com/vercel/commerce) : TypeScript
-  - Next.js Commerce
-- [keep3r.network](https://github.com/keep3r-network/keep3r.network) : Solidity
-  - An incentivized keeper network for anonymous keeper and job registration
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
-  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
-- [kube-linter](https://github.com/stackrox/kube-linter) : Go
-  - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) : Python
-  - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
-- [BilibiliTask](https://github.com/srcrs/BilibiliTask) : Java
-  - 哔哩哔哩(B站)自动完成每日任务，投币，点赞，直播签到，自动兑换银瓜子为硬币，自动送出即将过期礼物，漫画App签到。
-- [polkadot](https://github.com/paritytech/polkadot) : Rust
-  - Polkadot Node Implementation
-- [yt-dlc](https://github.com/blackjack4494/yt-dlc) : Python
-  - media downloader for various sites.
-- [running_page](https://github.com/yihong0618/running_page) : JavaScript
-  - Make your own running page
-- [compose-samples](https://github.com/android/compose-samples) : Kotlin
-  - Official Jetpack Compose samples.
-- [beginners-intro-javascript-node](https://github.com/microsoft/beginners-intro-javascript-node) : JavaScript
-  - Beginner's Series: Introduction to JavaScript (Node.js)
 - [zipline](https://github.com/quantopian/zipline) : Python
   - Zipline, a Pythonic Algorithmic Trading Library
-- [InfoSpider](https://github.com/kangvcar/InfoSpider) : Python
-  - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
-- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) : JavaScript
-  - The OpenAPI Specification Repository
-- [open-project-1](https://github.com/UnityTechnologies/open-project-1) : C#
-  - Unity Open Project #1: Action-adventure
+- [manim](https://github.com/3b1b/manim) : Python
+  - Animation engine for explanatory math videos
+- [semana-javascript-expert01](https://github.com/ErickWendel/semana-javascript-expert01) : JavaScript
+  - Exemplos de código da primeira semana Javascript Expert
+- [deepmind-research](https://github.com/deepmind/deepmind-research) : Jupyter Notebook
+  - This repository contains implementations and illustrative code to accompany DeepMind publications
+- [next.js](https://github.com/vercel/next.js) : JavaScript
+  - The React Framework
 - [cheat.sh](https://github.com/chubin/cheat.sh) : Python
   - the only cheat sheet you need
-- [youtube-dl](https://github.com/lrvick/youtube-dl) : Python
-  - RIAA: Please go die in a fire.
+- [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) : JavaScript
+  - Roadmap to becoming an Artificial Intelligence Expert in 2020
+- [keras-ncp](https://github.com/mlech26l/keras-ncp) : Python
+  - Code repository of the paper Neural circuit policies enabling auditable autonomy published in Nature Machine Intelligence
+- [Privlege_Escalation](https://github.com/xChockax/Privlege_Escalation) : 
+- [key-book](https://github.com/datawhalechina/key-book) : 
+  - 《机器学习理论导引》（宝箱书）的证明、案例、概念补充与参考文献讲解。在线阅读地址：https://datawhalechina.github.io/key-book/
+- [beginners-intro-javascript-node](https://github.com/microsoft/beginners-intro-javascript-node) : JavaScript
+  - Beginner's Series: Introduction to JavaScript (Node.js)
+- [hyperblog](https://github.com/freddier/hyperblog) : HTML
+  - Un blog increíble para el curso de Git y Github de Platzi
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
+  - Roadmap to becoming a web developer in 2020
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
+  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
+- [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) : Swift
+  - 📱 Collaborative List of Open-Source iOS Apps
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [keep3r.network](https://github.com/keep3r-network/keep3r.network) : Solidity
+  - An incentivized keeper network for anonymous keeper and job registration
+- [ThreatPursuit-VM](https://github.com/fireeye/ThreatPursuit-VM) : PowerShell
+  - Threat Pursuit Virtual Machine (VM): A fully customizable, open-sourced Windows-based distribution focused on threat intelligence analysis and hunting designed for intel and malware analysts as well as threat hunters to get up and running quickly.
+- [BilibiliTask](https://github.com/srcrs/BilibiliTask) : Java
+  - 哔哩哔哩(B站)自动完成每日任务，投币，点赞，直播签到，自动兑换银瓜子为硬币，自动送出即将过期礼物，漫画App签到。
+- [TeachYourselfCS-CN](https://github.com/keithnull/TeachYourselfCS-CN) : 
+  - TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS
+- [computer-science](https://github.com/ossu/computer-science) : 
+  - 🎓 Path to a free self-taught education in Computer Science!
+- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) : JavaScript
+  - The OpenAPI Specification Repository
+- [app-ideas](https://github.com/florinpop17/app-ideas) : 
+  - A Collection of application ideas which can be used to improve your coding skills.
+- [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) : Jupyter Notebook
+  - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
+- [substrate](https://github.com/paritytech/substrate) : Rust
+  - Substrate: The platform for blockchain innovators

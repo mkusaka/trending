@@ -1,51 +1,51 @@
 # c++
-- [json](https://github.com/nlohmann/json)
-  - JSON for Modern C++
-- [ncnn](https://github.com/Tencent/ncnn)
-  - ncnn is a high-performance neural network inference framework optimized for the mobile platform
-- [capnproto](https://github.com/capnproto/capnproto)
-  - Cap'n Proto serialization/RPC system - core tools and C++ library
-- [spdlog](https://github.com/gabime/spdlog)
-  - Fast C++ logging library.
-- [flatbuffers](https://github.com/google/flatbuffers)
-  - FlatBuffers: Memory Efficient Serialization Library
-- [googletest](https://github.com/google/googletest)
-  - Googletest - Google Testing and Mocking Framework
-- [swoole-src](https://github.com/swoole/swoole-src)
-  - 🚀 Coroutine-based concurrency library for PHP
-- [nebula](https://github.com/vesoft-inc/nebula)
-  - A distributed, fast open-source graph database featuring horizontal scalability and high availability
-- [glow](https://github.com/pytorch/glow)
-  - Compiler for Neural Network hardware accelerators
 - [PowerToys](https://github.com/microsoft/PowerToys)
   - Windows system utilities to maximize productivity
-- [Open3D](https://github.com/intel-isl/Open3D)
-  - Open3D: A Modern Library for 3D Data Processing
-- [grpc](https://github.com/grpc/grpc)
-  - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-- [SmartGuitarAmp](https://github.com/keyth72/SmartGuitarAmp)
-  - Guitar plugin made with JUCE that uses neural network models to emulate real world hardware.
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [ThreadPool](https://github.com/progschj/ThreadPool)
-  - A simple C++11 Thread Pool implementation
-- [LightGBM](https://github.com/microsoft/LightGBM)
-  - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
-- [interpret](https://github.com/interpretml/interpret)
-  - Fit interpretable models. Explain blackbox machine learning.
-- [openMVG](https://github.com/openMVG/openMVG)
-  - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
-- [imgui](https://github.com/ocornut/imgui)
-  - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-- [llvm-project](https://github.com/llvm/llvm-project)
-  - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
+- [json](https://github.com/nlohmann/json)
+  - JSON for Modern C++
+- [FreeCAD](https://github.com/FreeCAD/FreeCAD)
+  - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker
 - [arrow](https://github.com/apache/arrow)
   - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…
-- [falco](https://github.com/falcosecurity/falco)
-  - Cloud Native Runtime Security
-- [libzmq](https://github.com/zeromq/libzmq)
-  - ZeroMQ core engine in C++, implements ZMTP/3.1
-- [ModSecurity](https://github.com/SpiderLabs/ModSecurity)
-  - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
-- [Raccine](https://github.com/Neo23x0/Raccine)
-  - A Simple Ransomware Vaccine
+- [entt](https://github.com/skypjack/entt)
+  - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
+- [tdesktop](https://github.com/telegramdesktop/tdesktop)
+  - Telegram Desktop messaging app
+- [terminal](https://github.com/microsoft/terminal)
+  - The new Windows Terminal and the original Windows console host, all in the same place!
+- [wondertrader](https://github.com/wondertrader/wondertrader)
+  - WonderTrader——量化研发交易一站式框架
+- [SFML](https://github.com/SFML/SFML)
+  - Simple and Fast Multimedia Library
+- [gobbledegook](https://github.com/1579272094/gobbledegook)
+  - 
+- [3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
+  - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
+- [node-addon-api](https://github.com/nodejs/node-addon-api)
+  - Module for using N-API from C++
+- [Open3D](https://github.com/intel-isl/Open3D)
+  - Open3D: A Modern Library for 3D Data Processing
+- [Data-Structures-](https://github.com/krishna14kant/Data-Structures-)
+  - hacktoberfest hacktoberfest2020 hacktoberfest-accepted
+- [Hactoberfest-2020-native](https://github.com/Skywalkers-24/Hactoberfest-2020-native)
+  - Make your first PR! ~ A beginner friendly repository made specifically for open source beginners. Add your profile, a blog or any program under any language (it can be anything from a hello-world program to a complex data structure algorithm) or update the existing one. Just make sure to add the file under the correct directory. Happy hacking!
+- [iw6x-client](https://github.com/XLabsProject/iw6x-client)
+  - Modification for IW6
+- [WLED](https://github.com/Aircoookie/WLED)
+  - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
+- [DeClang](https://github.com/DeNA/DeClang)
+  - An anti-hacking compiler forked from the ollvm (https://github.com/obfuscator-llvm/obfuscator)
+- [jetson-inference](https://github.com/dusty-nv/jetson-inference)
+  - Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
+- [googletest](https://github.com/google/googletest)
+  - Googletest - Google Testing and Mocking Framework
+- [abseil-cpp](https://github.com/abseil/abseil-cpp)
+  - Abseil Common Libraries (C++)
+- [H4CKT0B3RF3ST-2020](https://github.com/3NCRY9T3R/H4CKT0B3RF3ST-2020)
+  - Create Hacktoberfest Pull Requests
+- [mediasoup](https://github.com/versatica/mediasoup)
+  - Cutting Edge WebRTC Video Conferencing
+- [ppsspp](https://github.com/hrydgard/ppsspp)
+  - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or in #ppsspp on freenode (IRC) or just send pull requests / issues. For discussion use the forums on ppsspp.org.
+- [panda3d](https://github.com/panda3d/panda3d)
+  - Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU
