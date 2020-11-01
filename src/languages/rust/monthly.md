@@ -1,51 +1,51 @@
 # rust
-- [iced](https://github.com/hecrj/iced)
-  - A cross-platform GUI library for Rust, inspired by Elm
-- [druid](https://github.com/linebender/druid)
-  - A data-first Rust-native UI design toolkit.
-- [rust-clippy](https://github.com/rust-lang/rust-clippy)
-  - A bunch of lints to catch common mistakes and improve your Rust code
+- [bat](https://github.com/sharkdp/bat)
+  - A cat(1) clone with wings.
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
 - [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
   - 📚 Learn to write an embedded OS in Rust 🦀
-- [delta](https://github.com/dandavison/delta)
-  - A viewer for git and diff output
-- [tree-sitter](https://github.com/tree-sitter/tree-sitter)
-  - An incremental parsing system for programming tools
-- [rustfmt](https://github.com/rust-lang/rustfmt)
-  - Format Rust code
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [RustPython](https://github.com/RustPython/RustPython)
-  - A Python Interpreter written in Rust
-- [wrangler](https://github.com/cloudflare/wrangler)
-  - 🤠 wrangle your cloudflare workers
-- [hyper](https://github.com/hyperium/hyper)
-  - An HTTP library for Rust
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
+- [iced](https://github.com/hecrj/iced)
+  - A cross-platform GUI library for Rust, inspired by Elm
 - [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
   - An experimental Rust compiler front-end for IDEs
-- [lemmy](https://github.com/LemmyNet/lemmy)
-  - 🐀 Building a federated alternative to reddit in rust
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [spotifyd](https://github.com/Spotifyd/spotifyd)
-  - A spotify daemon
+- [rust-clippy](https://github.com/rust-lang/rust-clippy)
+  - A bunch of lints to catch common mistakes and improve your Rust code
 - [ajour](https://github.com/casperstorm/ajour)
   - A World of Warcraft addon manager written in Rust.
-- [Rust](https://github.com/TheAlgorithms/Rust)
-  - All Algorithms implemented in Rust
-- [onefetch](https://github.com/o2sh/onefetch)
-  - Git repository summary on your terminal
+- [polkadot](https://github.com/paritytech/polkadot)
+  - Polkadot Node Implementation
 - [firecracker](https://github.com/firecracker-microvm/firecracker)
   - Secure and fast microVMs for serverless computing.
-- [os_kernel_lab](https://github.com/chyyuu/os_kernel_lab)
-  - OS kernel labs based on Rust Lang & RISC-V 64
+- [wasmtime](https://github.com/bytecodealliance/wasmtime)
+  - Standalone JIT-style runtime for WebAssembly, using Cranelift
+- [tokio](https://github.com/tokio-rs/tokio)
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [lemmy](https://github.com/LemmyNet/lemmy)
+  - 🐀 Building a federated alternative to reddit in rust
+- [alacritty](https://github.com/alacritty/alacritty)
+  - A cross-platform, GPU-accelerated terminal emulator
+- [hyper](https://github.com/hyperium/hyper)
+  - An HTTP library for Rust
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
 - [quiche](https://github.com/cloudflare/quiche)
   - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-  - A curated list of Rust code and resources.
-- [lsd](https://github.com/Peltoche/lsd)
-  - The next gen ls command
-- [seed](https://github.com/seed-rs/seed)
-  - A Rust framework for creating web apps
+- [RustPython](https://github.com/RustPython/RustPython)
+  - A Python Interpreter written in Rust
+- [delta](https://github.com/dandavison/delta)
+  - A viewer for git and diff output
+- [WASI](https://github.com/WebAssembly/WASI)
+  - WebAssembly System Interface
+- [Rust](https://github.com/TheAlgorithms/Rust)
+  - All Algorithms implemented in Rust
+- [tock](https://github.com/tock/tock)
+  - A secure embedded operating system for microcontrollers
+- [ruffle](https://github.com/ruffle-rs/ruffle)
+  - A Flash Player emulator written in Rust
+- [tree-sitter](https://github.com/tree-sitter/tree-sitter)
+  - An incremental parsing system for programming tools
+- [os_kernel_lab](https://github.com/chyyuu/os_kernel_lab)
+  - OS kernel labs based on Rust Lang & RISC-V 64
+- [wrangler](https://github.com/cloudflare/wrangler)
+  - 🤠 wrangle your cloudflare workers

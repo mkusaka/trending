@@ -1,73 +1,23 @@
 [
   {
-    "author": "jef",
-    "name": "nvidia-snatcher",
-    "href": "https://github.com/jef/nvidia-snatcher",
-    "description": "🤖 Autonomous robot for all your Nvidia needs",
-    "language": "TypeScript",
-    "stars": 549,
-    "forks": 259,
-    "starsInPeriod": 378
-  },
-  {
-    "author": "microsoft",
-    "name": "vscode",
-    "href": "https://github.com/microsoft/vscode",
-    "description": "Visual Studio Code",
-    "language": "TypeScript",
-    "stars": 105153,
-    "forks": 16826,
-    "starsInPeriod": 1793
-  },
-  {
-    "author": "actions",
-    "name": "starter-workflows",
-    "href": "https://github.com/actions/starter-workflows",
-    "description": "Accelerating new GitHub Actions workflows",
-    "language": "TypeScript",
-    "stars": 3377,
-    "forks": 2330,
-    "starsInPeriod": 207
-  },
-  {
-    "author": "blitz-js",
-    "name": "blitz",
-    "href": "https://github.com/blitz-js/blitz",
-    "description": "⚡️The Fullstack React Framework — built on Next.js",
-    "language": "TypeScript",
-    "stars": 4744,
-    "forks": 255,
-    "starsInPeriod": 535
-  },
-  {
-    "author": "Azure",
-    "name": "azure-sdk-for-js",
-    "href": "https://github.com/Azure/azure-sdk-for-js",
-    "description": "This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.",
-    "language": "TypeScript",
-    "stars": 760,
-    "forks": 406,
-    "starsInPeriod": 135
-  },
-  {
     "author": "tailwindlabs",
     "name": "headlessui",
     "href": "https://github.com/tailwindlabs/headlessui",
     "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.",
     "language": "TypeScript",
-    "stars": 2708,
-    "forks": 56,
-    "starsInPeriod": 2680
+    "stars": 2855,
+    "forks": 62,
+    "starsInPeriod": 1726
   },
   {
-    "author": "grafana",
-    "name": "grafana",
-    "href": "https://github.com/grafana/grafana",
-    "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+    "author": "dstotijn",
+    "name": "hetty",
+    "href": "https://github.com/dstotijn/hetty",
+    "description": "Hetty is an HTTP toolkit for security research. Features a man-in-the-middle HTTP/1.1 proxy, project management, scope and logs.",
     "language": "TypeScript",
-    "stars": 37764,
-    "forks": 7677,
-    "starsInPeriod": 535
+    "stars": 2665,
+    "forks": 121,
+    "starsInPeriod": 2167
   },
   {
     "author": "cyrildiagne",
@@ -75,109 +25,9 @@
     "href": "https://github.com/cyrildiagne/ar-cutpaste",
     "description": "Cut and paste your surroundings using AR",
     "language": "TypeScript",
-    "stars": 11936,
-    "forks": 1646,
-    "starsInPeriod": 955
-  },
-  {
-    "author": "typeorm",
-    "name": "typeorm",
-    "href": "https://github.com/typeorm/typeorm",
-    "description": "ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
-    "language": "TypeScript",
-    "stars": 21457,
-    "forks": 3552,
-    "starsInPeriod": 501
-  },
-  {
-    "author": "elastic",
-    "name": "kibana",
-    "href": "https://github.com/elastic/kibana",
-    "description": "Your window into the Elastic Stack",
-    "language": "TypeScript",
-    "stars": 15022,
-    "forks": 6076,
-    "starsInPeriod": 165
-  },
-  {
-    "author": "cypress-io",
-    "name": "cypress-realworld-app",
-    "href": "https://github.com/cypress-io/cypress-realworld-app",
-    "description": "A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.",
-    "language": "TypeScript",
-    "stars": 1151,
-    "forks": 200,
-    "starsInPeriod": 237
-  },
-  {
-    "author": "pmndrs",
-    "name": "react-three-fiber",
-    "href": "https://github.com/pmndrs/react-three-fiber",
-    "description": "🇨🇭 A React renderer for Three.js (web and react-native)",
-    "language": "TypeScript",
-    "stars": 10315,
-    "forks": 506,
-    "starsInPeriod": 567
-  },
-  {
-    "author": "homebridge",
-    "name": "homebridge",
-    "href": "https://github.com/homebridge/homebridge",
-    "description": "HomeKit support for the impatient",
-    "language": "TypeScript",
-    "stars": 15789,
-    "forks": 1701,
-    "starsInPeriod": 323
-  },
-  {
-    "author": "snobu",
-    "name": "destreamer",
-    "href": "https://github.com/snobu/destreamer",
-    "description": "Save Microsoft Stream videos for offline enjoyment.",
-    "language": "TypeScript",
-    "stars": 830,
-    "forks": 164,
-    "starsInPeriod": 182
-  },
-  {
-    "author": "nestjs",
-    "name": "nest",
-    "href": "https://github.com/nestjs/nest",
-    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀",
-    "language": "TypeScript",
-    "stars": 31210,
-    "forks": 2800,
-    "starsInPeriod": 845
-  },
-  {
-    "author": "angular",
-    "name": "components",
-    "href": "https://github.com/angular/components",
-    "description": "Component infrastructure and Material Design components for Angular",
-    "language": "TypeScript",
-    "stars": 20419,
-    "forks": 5503,
-    "starsInPeriod": 146
-  },
-  {
-    "author": "desktop",
-    "name": "desktop",
-    "href": "https://github.com/desktop/desktop",
-    "description": "Simple collaboration from your desktop",
-    "language": "TypeScript",
-    "stars": 10082,
-    "forks": 5549,
-    "starsInPeriod": 244
-  },
-  {
-    "author": "microsoft",
-    "name": "playwright",
-    "href": "https://github.com/microsoft/playwright",
-    "description": "Node.js library to automate Chromium, Firefox and WebKit with a single API",
-    "language": "TypeScript",
-    "stars": 17443,
-    "forks": 656,
-    "starsInPeriod": 716
+    "stars": 11990,
+    "forks": 1656,
+    "starsInPeriod": 974
   },
   {
     "author": "snowpackjs",
@@ -185,59 +35,19 @@
     "href": "https://github.com/snowpackjs/snowpack",
     "description": "WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️",
     "language": "TypeScript",
-    "stars": 12841,
-    "forks": 479,
-    "starsInPeriod": 854
+    "stars": 13130,
+    "forks": 503,
+    "starsInPeriod": 1056
   },
   {
-    "author": "doodlewind",
-    "name": "jshistory-cn",
-    "href": "https://github.com/doodlewind/jshistory-cn",
-    "description": "🇨🇳 《JavaScript 20 年》中文版",
+    "author": "actions",
+    "name": "starter-workflows",
+    "href": "https://github.com/actions/starter-workflows",
+    "description": "Accelerating new GitHub Actions workflows",
     "language": "TypeScript",
-    "stars": 1987,
-    "forks": 125,
-    "starsInPeriod": 721
-  },
-  {
-    "author": "tannerlinsley",
-    "name": "react-query",
-    "href": "https://github.com/tannerlinsley/react-query",
-    "description": "⚛️ Hooks for fetching, caching and updating asynchronous data in React",
-    "language": "TypeScript",
-    "stars": 14323,
-    "forks": 550,
-    "starsInPeriod": 1617
-  },
-  {
-    "author": "pop-os",
-    "name": "shell",
-    "href": "https://github.com/pop-os/shell",
-    "description": "Pop!_OS Shell",
-    "language": "TypeScript",
-    "stars": 1881,
-    "forks": 94,
-    "starsInPeriod": 144
-  },
-  {
-    "author": "tensorflow",
-    "name": "tfjs-models",
-    "href": "https://github.com/tensorflow/tfjs-models",
-    "description": "Pretrained models for TensorFlow.js",
-    "language": "TypeScript",
-    "stars": 7462,
-    "forks": 2263,
-    "starsInPeriod": 294
-  },
-  {
-    "author": "marmelab",
-    "name": "react-admin",
-    "href": "https://github.com/marmelab/react-admin",
-    "description": "A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design",
-    "language": "TypeScript",
-    "stars": 14790,
-    "forks": 3170,
-    "starsInPeriod": 675
+    "stars": 3421,
+    "forks": 2348,
+    "starsInPeriod": 228
   },
   {
     "author": "umijs",
@@ -245,8 +55,198 @@
     "href": "https://github.com/umijs/umi",
     "description": "🌋 Pluggable enterprise-level react application framework.",
     "language": "TypeScript",
-    "stars": 9332,
-    "forks": 1377,
-    "starsInPeriod": 411
+    "stars": 9377,
+    "forks": 1390,
+    "starsInPeriod": 408
+  },
+  {
+    "author": "marmelab",
+    "name": "react-admin",
+    "href": "https://github.com/marmelab/react-admin",
+    "description": "A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design",
+    "language": "TypeScript",
+    "stars": 14876,
+    "forks": 3194,
+    "starsInPeriod": 712
+  },
+  {
+    "author": "fingerprintjs",
+    "name": "fingerprintjs",
+    "href": "https://github.com/fingerprintjs/fingerprintjs",
+    "description": "Modern & flexible browser fingerprinting library",
+    "language": "TypeScript",
+    "stars": 11916,
+    "forks": 1495,
+    "starsInPeriod": 486
+  },
+  {
+    "author": "blitz-js",
+    "name": "blitz",
+    "href": "https://github.com/blitz-js/blitz",
+    "description": "⚡️The Fullstack React Framework — built on Next.js",
+    "language": "TypeScript",
+    "stars": 4937,
+    "forks": 262,
+    "starsInPeriod": 552
+  },
+  {
+    "author": "jef",
+    "name": "nvidia-snatcher",
+    "href": "https://github.com/jef/nvidia-snatcher",
+    "description": "🤖 Autonomous robot for all your Nvidia needs",
+    "language": "TypeScript",
+    "stars": 608,
+    "forks": 285,
+    "starsInPeriod": 296
+  },
+  {
+    "author": "pmndrs",
+    "name": "react-three-fiber",
+    "href": "https://github.com/pmndrs/react-three-fiber",
+    "description": "🇨🇭 A React renderer for Three.js (web and react-native)",
+    "language": "TypeScript",
+    "stars": 10451,
+    "forks": 509,
+    "starsInPeriod": 524
+  },
+  {
+    "author": "streamich",
+    "name": "react-use",
+    "href": "https://github.com/streamich/react-use",
+    "description": "React Hooks — 👍",
+    "language": "TypeScript",
+    "stars": 16295,
+    "forks": 1129,
+    "starsInPeriod": 648
+  },
+  {
+    "author": "webiny",
+    "name": "webiny-js",
+    "href": "https://github.com/webiny/webiny-js",
+    "description": "Platform for building serverless applications and APIs (Node.js, React, GraphQL)",
+    "language": "TypeScript",
+    "stars": 3455,
+    "forks": 288,
+    "starsInPeriod": 417
+  },
+  {
+    "author": "grafana",
+    "name": "grafana",
+    "href": "https://github.com/grafana/grafana",
+    "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+    "language": "TypeScript",
+    "stars": 37883,
+    "forks": 7697,
+    "starsInPeriod": 562
+  },
+  {
+    "author": "snobu",
+    "name": "destreamer",
+    "href": "https://github.com/snobu/destreamer",
+    "description": "Save Microsoft Stream videos for offline enjoyment.",
+    "language": "TypeScript",
+    "stars": 851,
+    "forks": 171,
+    "starsInPeriod": 173
+  },
+  {
+    "author": "pop-os",
+    "name": "shell",
+    "href": "https://github.com/pop-os/shell",
+    "description": "Pop!_OS Shell",
+    "language": "TypeScript",
+    "stars": 1924,
+    "forks": 98,
+    "starsInPeriod": 166
+  },
+  {
+    "author": "homebridge",
+    "name": "homebridge",
+    "href": "https://github.com/homebridge/homebridge",
+    "description": "HomeKit support for the impatient",
+    "language": "TypeScript",
+    "stars": 15858,
+    "forks": 1708,
+    "starsInPeriod": 336
+  },
+  {
+    "author": "spotify",
+    "name": "backstage",
+    "href": "https://github.com/spotify/backstage",
+    "description": "Backstage is an open platform for building developer portals",
+    "language": "TypeScript",
+    "stars": 8459,
+    "forks": 670,
+    "starsInPeriod": 633
+  },
+  {
+    "author": "tensorflow",
+    "name": "tfjs-models",
+    "href": "https://github.com/tensorflow/tfjs-models",
+    "description": "Pretrained models for TensorFlow.js",
+    "language": "TypeScript",
+    "stars": 7527,
+    "forks": 2296,
+    "starsInPeriod": 309
+  },
+  {
+    "author": "TSiege",
+    "name": "Tech-Interview-Cheat-Sheet",
+    "href": "https://github.com/TSiege/Tech-Interview-Cheat-Sheet",
+    "description": "Studying for a tech interview sucks. Here's an open source cheat sheet to help",
+    "language": "TypeScript",
+    "stars": 1166,
+    "forks": 277,
+    "starsInPeriod": 246
+  },
+  {
+    "author": "nestjs",
+    "name": "nest",
+    "href": "https://github.com/nestjs/nest",
+    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀",
+    "language": "TypeScript",
+    "stars": 31405,
+    "forks": 2821,
+    "starsInPeriod": 839
+  },
+  {
+    "author": "matteobruni",
+    "name": "tsparticles",
+    "href": "https://github.com/matteobruni/tsparticles",
+    "description": "tsParticles - Easily add particles animations to your website. Compatible also with React, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno",
+    "language": "TypeScript",
+    "stars": 1239,
+    "forks": 128,
+    "starsInPeriod": 280
+  },
+  {
+    "author": "cypress-io",
+    "name": "cypress-realworld-app",
+    "href": "https://github.com/cypress-io/cypress-realworld-app",
+    "description": "A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.",
+    "language": "TypeScript",
+    "stars": 1171,
+    "forks": 209,
+    "starsInPeriod": 237
+  },
+  {
+    "author": "davidkpiano",
+    "name": "xstate",
+    "href": "https://github.com/davidkpiano/xstate",
+    "description": "State machines and statecharts for the modern web.",
+    "language": "TypeScript",
+    "stars": 13456,
+    "forks": 575,
+    "starsInPeriod": 423
+  },
+  {
+    "author": "aws",
+    "name": "aws-cdk",
+    "href": "https://github.com/aws/aws-cdk",
+    "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
+    "language": "TypeScript",
+    "stars": 5625,
+    "forks": 1254,
+    "starsInPeriod": 206
   }
 ]
