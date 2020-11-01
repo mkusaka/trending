@@ -1,51 +1,51 @@
 # general
+- [GHunt](https://github.com/mxrch/GHunt) : Python
+  - 🕵️‍♂️ Investigate Google Accounts with emails.
 - [Luckysheet](https://github.com/mengshukeji/Luckysheet) : JavaScript
   - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
-- [scripts](https://github.com/lxk0301/scripts) : JavaScript
-  - 京东薅羊毛工具, 京东水果、宠物、种豆 aff 互助讨论组：https://t.me/JD_fruit_pet
 - [base-admin](https://github.com/huanzi-qch/base-admin) : Java
   - Base Admin一套简单通用的后台管理系统，主要功能有：权限管理、菜单管理、用户管理，系统设置、实时日志，实时监控，API加密，以及登录用户修改密码、配置个性菜单等
-- [v2ray-core](https://github.com/v2fly/v2ray-core) : Go
-  - A platform for building proxies to bypass network restrictions.
-- [first-contributions](https://github.com/firstcontributions/first-contributions) : 
-  - 🚀✨ Help beginners to contribute to open source projects
-- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) : JavaScript
-  - Short JavaScript code snippets for all your development needs
+- [scripts](https://github.com/lxk0301/scripts) : JavaScript
+  - 京东薅羊毛工具, 京东水果、宠物、种豆等等
 - [Python](https://github.com/TheAlgorithms/Python) : Python
   - All Algorithms implemented in Python
-- [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) : Python
-  - Bringing Old Photo Back to Life (CVPR 2020 oral)
+- [v2ray-core](https://github.com/v2fly/v2ray-core) : Go
+  - A platform for building proxies to bypass network restrictions.
+- [NewPipe](https://github.com/TeamNewPipe/NewPipe) : Java
+  - A libre lightweight streaming front-end for Android.
+- [Auto.js](https://github.com/hyb1996/Auto.js) : Java
+  - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
+- [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) : C++
+  - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly
+- [chibicc](https://github.com/rui314/chibicc) : C
+  - A small C compiler
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) : JavaScript
+  - Short JavaScript code snippets for all your development needs
+- [open-project-1](https://github.com/UnityTechnologies/open-project-1) : C#
+  - Unity Open Project #1: Action-adventure
 - [masscan](https://github.com/robertdavidgraham/masscan) : C
   - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
-- [Javascript](https://github.com/TheAlgorithms/Javascript) : JavaScript
-  - A repository for All algorithms implemented in Javascript (for educational purposes only)
+- [you-get](https://github.com/soimort/you-get) : Python
+  - ⏬ Dumb downloader that scrapes the web
+- [next.js](https://github.com/vercel/next.js) : JavaScript
+  - The React Framework
 - [edex-ui](https://github.com/GitSquared/edex-ui) : JavaScript
   - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [ferry](https://github.com/lanyulei/ferry) : Go
-  - 本系统是集工单统计、任务钩子、权限管理、灵活配置流程与模版等等于一身的开源工单系统，当然也可以称之为工作流引擎。 致力于减少跨部门之间的沟通，自动任务的执行，提升工作效率与工作质量，减少不必要的工作量与人为出错率。
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) : C++
+  - Awesome multilingual OCR toolkits based on PaddlePaddle （multilingual recognition: English, Chinese, Korean, Japanese, German, French etc. 3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）
+- [COVID-19](https://github.com/pcm-dpc/COVID-19) : 
+  - COVID-19 Italia - Monitoraggio situazione
+- [headlessui](https://github.com/tailwindlabs/headlessui) : TypeScript
+  - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [esbuild](https://github.com/evanw/esbuild) : Go
   - An extremely fast JavaScript bundler and minifier
+- [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) : Shell
+  - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
+- [Impostor](https://github.com/Impostor/Impostor) : C#
+  - Impostor - An open source reimplementation of the Among Us Server
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course) : JavaScript
+  - Starter files, final projects and FAQ for my Complete JavaScript course
 - [core](https://github.com/home-assistant/core) : Python
   - 🏡 Open source home automation that puts local control and privacy first
 - [eladmin](https://github.com/elunez/eladmin) : Java
   - 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
-- [CppCon2020](https://github.com/CppCon/CppCon2020) : C++
-  - Slides and other materials from CppCon 2020
-- [headless-recorder](https://github.com/checkly/headless-recorder) : JavaScript
-  - Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.
-- [infer](https://github.com/facebook/infer) : OCaml
-  - A static analyzer for Java, C, C++, and Objective-C
-- [odoo](https://github.com/odoo/odoo) : JavaScript
-  - Odoo. Open Source Apps To Grow Your Business.
-- [COVID-19](https://github.com/pcm-dpc/COVID-19) : 
-  - COVID-19 Italia - Monitoraggio situazione
-- [Magisk](https://github.com/topjohnwu/Magisk) : C++
-  - The Magic Mask for Android
-- [nvidia-snatcher](https://github.com/jef/nvidia-snatcher) : TypeScript
-  - 🤖 Autonomous robot for all your Nvidia needs
-- [Auto.js](https://github.com/hyb1996/Auto.js) : Java
-  - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
-- [vscode](https://github.com/microsoft/vscode) : TypeScript
-  - Visual Studio Code
-- [fiber](https://github.com/gofiber/fiber) : Go
-  - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
