@@ -1,23 +1,23 @@
 [
   {
-    "author": "quantopian",
-    "name": "zipline",
-    "href": "https://github.com/quantopian/zipline",
-    "description": "Zipline, a Pythonic Algorithmic Trading Library",
-    "language": "Python",
-    "stars": 12265,
-    "forks": 3528,
-    "starsInPeriod": 57
+    "author": "LAB-MI",
+    "name": "attestation-deplacement-derogatoire-q4-2020",
+    "href": "https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020",
+    "description": "attestation-deplacement-derogatoire-q4-2020 public",
+    "language": "JavaScript",
+    "stars": 159,
+    "forks": 138,
+    "starsInPeriod": 120
   },
   {
-    "author": "3b1b",
-    "name": "manim",
-    "href": "https://github.com/3b1b/manim",
-    "description": "Animation engine for explanatory math videos",
-    "language": "Python",
-    "stars": 27178,
-    "forks": 3478,
-    "starsInPeriod": 173
+    "author": "benawad",
+    "name": "vscode-stories",
+    "href": "https://github.com/benawad/vscode-stories",
+    "description": "Stories for VSCode",
+    "language": "TypeScript",
+    "stars": 805,
+    "forks": 50,
+    "starsInPeriod": 754
   },
   {
     "author": "ErickWendel",
@@ -25,9 +25,49 @@
     "href": "https://github.com/ErickWendel/semana-javascript-expert01",
     "description": "Exemplos de código da primeira semana Javascript Expert",
     "language": "JavaScript",
-    "stars": 366,
-    "forks": 63,
-    "starsInPeriod": 122
+    "stars": 416,
+    "forks": 84,
+    "starsInPeriod": 210
+  },
+  {
+    "author": "quantopian",
+    "name": "zipline",
+    "href": "https://github.com/quantopian/zipline",
+    "description": "Zipline, a Pythonic Algorithmic Trading Library",
+    "language": "Python",
+    "stars": 12397,
+    "forks": 3547,
+    "starsInPeriod": 225
+  },
+  {
+    "author": "Cuuhomientrung",
+    "name": "cuuhomientrung",
+    "href": "https://github.com/Cuuhomientrung/cuuhomientrung",
+    "description": "Site hỗ trợ thông tin cứu hộ người dân miền Trung",
+    "language": "Python",
+    "stars": 121,
+    "forks": 31,
+    "starsInPeriod": 41
+  },
+  {
+    "author": "flutter",
+    "name": "flutter",
+    "href": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "language": "Dart",
+    "stars": 105598,
+    "forks": 14725,
+    "starsInPeriod": 110
+  },
+  {
+    "author": "ovh",
+    "name": "the-bastion",
+    "href": "https://github.com/ovh/the-bastion",
+    "description": "Authentication, authorization, traceability and auditability for SSH accesses.",
+    "language": "Perl",
+    "stars": 404,
+    "forks": 13,
+    "starsInPeriod": 359
   },
   {
     "author": "deepmind",
@@ -35,19 +75,9 @@
     "href": "https://github.com/deepmind/deepmind-research",
     "description": "This repository contains implementations and illustrative code to accompany DeepMind publications",
     "language": "Jupyter Notebook",
-    "stars": 2613,
-    "forks": 610,
-    "starsInPeriod": 50
-  },
-  {
-    "author": "vercel",
-    "name": "next.js",
-    "href": "https://github.com/vercel/next.js",
-    "description": "The React Framework",
-    "language": "JavaScript",
-    "stars": 55768,
-    "forks": 9287,
-    "starsInPeriod": 277
+    "stars": 2744,
+    "forks": 625,
+    "starsInPeriod": 172
   },
   {
     "author": "chubin",
@@ -55,9 +85,9 @@
     "href": "https://github.com/chubin/cheat.sh",
     "description": "the only cheat sheet you need",
     "language": "Python",
-    "stars": 19888,
-    "forks": 986,
-    "starsInPeriod": 108
+    "stars": 20169,
+    "forks": 994,
+    "starsInPeriod": 548
   },
   {
     "author": "AMAI-GmbH",
@@ -65,169 +95,9 @@
     "href": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
     "description": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
     "language": "JavaScript",
-    "stars": 471,
-    "forks": 19,
-    "starsInPeriod": 230
-  },
-  {
-    "author": "mlech26l",
-    "name": "keras-ncp",
-    "href": "https://github.com/mlech26l/keras-ncp",
-    "description": "Code repository of the paper Neural circuit policies enabling auditable autonomy published in Nature Machine Intelligence",
-    "language": "Python",
-    "stars": 526,
-    "forks": 63,
-    "starsInPeriod": 78
-  },
-  {
-    "author": "xChockax",
-    "name": "Privlege_Escalation",
-    "href": "https://github.com/xChockax/Privlege_Escalation",
-    "description": null,
-    "language": "",
-    "stars": 43,
-    "forks": 10,
-    "starsInPeriod": 26
-  },
-  {
-    "author": "datawhalechina",
-    "name": "key-book",
-    "href": "https://github.com/datawhalechina/key-book",
-    "description": "《机器学习理论导引》（宝箱书）的证明、案例、概念补充与参考文献讲解。在线阅读地址：https://datawhalechina.github.io/key-book/",
-    "language": "",
-    "stars": 323,
-    "forks": 56,
-    "starsInPeriod": 77
-  },
-  {
-    "author": "microsoft",
-    "name": "beginners-intro-javascript-node",
-    "href": "https://github.com/microsoft/beginners-intro-javascript-node",
-    "description": "Beginner's Series: Introduction to JavaScript (Node.js)",
-    "language": "JavaScript",
-    "stars": 1057,
-    "forks": 79,
-    "starsInPeriod": 139
-  },
-  {
-    "author": "freddier",
-    "name": "hyperblog",
-    "href": "https://github.com/freddier/hyperblog",
-    "description": "Un blog increíble para el curso de Git y Github de Platzi",
-    "language": "HTML",
-    "stars": 2973,
-    "forks": 4415,
-    "starsInPeriod": 21
-  },
-  {
-    "author": "kamranahmedse",
-    "name": "developer-roadmap",
-    "href": "https://github.com/kamranahmedse/developer-roadmap",
-    "description": "Roadmap to becoming a web developer in 2020",
-    "language": "",
-    "stars": 133181,
-    "forks": 20101,
-    "starsInPeriod": 611
-  },
-  {
-    "author": "CyC2018",
-    "name": "CS-Notes",
-    "href": "https://github.com/CyC2018/CS-Notes",
-    "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++",
-    "language": "Java",
-    "stars": 113854,
-    "forks": 37116,
-    "starsInPeriod": 215
-  },
-  {
-    "author": "dkhamsing",
-    "name": "open-source-ios-apps",
-    "href": "https://github.com/dkhamsing/open-source-ios-apps",
-    "description": "📱 Collaborative List of Open-Source iOS Apps",
-    "language": "Swift",
-    "stars": 25131,
-    "forks": 4102,
-    "starsInPeriod": 35
-  },
-  {
-    "author": "trekhleb",
-    "name": "javascript-algorithms",
-    "href": "https://github.com/trekhleb/javascript-algorithms",
-    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-    "language": "JavaScript",
-    "stars": 83601,
-    "forks": 14086,
-    "starsInPeriod": 226
-  },
-  {
-    "author": "keep3r-network",
-    "name": "keep3r.network",
-    "href": "https://github.com/keep3r-network/keep3r.network",
-    "description": "An incentivized keeper network for anonymous keeper and job registration",
-    "language": "Solidity",
-    "stars": 143,
-    "forks": 45,
-    "starsInPeriod": 44
-  },
-  {
-    "author": "fireeye",
-    "name": "ThreatPursuit-VM",
-    "href": "https://github.com/fireeye/ThreatPursuit-VM",
-    "description": "Threat Pursuit Virtual Machine (VM): A fully customizable, open-sourced Windows-based distribution focused on threat intelligence analysis and hunting designed for intel and malware analysts as well as threat hunters to get up and running quickly.",
-    "language": "PowerShell",
-    "stars": 180,
-    "forks": 17,
-    "starsInPeriod": 43
-  },
-  {
-    "author": "srcrs",
-    "name": "BilibiliTask",
-    "href": "https://github.com/srcrs/BilibiliTask",
-    "description": "哔哩哔哩(B站)自动完成每日任务，投币，点赞，直播签到，自动兑换银瓜子为硬币，自动送出即将过期礼物，漫画App签到。",
-    "language": "Java",
-    "stars": 488,
-    "forks": 402,
-    "starsInPeriod": 113
-  },
-  {
-    "author": "keithnull",
-    "name": "TeachYourselfCS-CN",
-    "href": "https://github.com/keithnull/TeachYourselfCS-CN",
-    "description": "TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS",
-    "language": "",
-    "stars": 5494,
-    "forks": 1014,
-    "starsInPeriod": 92
-  },
-  {
-    "author": "ossu",
-    "name": "computer-science",
-    "href": "https://github.com/ossu/computer-science",
-    "description": "🎓 Path to a free self-taught education in Computer Science!",
-    "language": "",
-    "stars": 67855,
-    "forks": 9987,
-    "starsInPeriod": 150
-  },
-  {
-    "author": "OAI",
-    "name": "OpenAPI-Specification",
-    "href": "https://github.com/OAI/OpenAPI-Specification",
-    "description": "The OpenAPI Specification Repository",
-    "language": "JavaScript",
-    "stars": 19168,
-    "forks": 6906,
-    "starsInPeriod": 53
-  },
-  {
-    "author": "florinpop17",
-    "name": "app-ideas",
-    "href": "https://github.com/florinpop17/app-ideas",
-    "description": "A Collection of application ideas which can be used to improve your coding skills.",
-    "language": "",
-    "stars": 32594,
-    "forks": 4581,
-    "starsInPeriod": 70
+    "stars": 957,
+    "forks": 29,
+    "starsInPeriod": 588
   },
   {
     "author": "trekhleb",
@@ -235,18 +105,148 @@
     "href": "https://github.com/trekhleb/homemade-machine-learning",
     "description": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
     "language": "Jupyter Notebook",
-    "stars": 14656,
-    "forks": 2881,
-    "starsInPeriod": 17
+    "stars": 14896,
+    "forks": 2890,
+    "starsInPeriod": 197
   },
   {
-    "author": "paritytech",
-    "name": "substrate",
-    "href": "https://github.com/paritytech/substrate",
-    "description": "Substrate: The platform for blockchain innovators",
-    "language": "Rust",
-    "stars": 3261,
-    "forks": 957,
-    "starsInPeriod": 47
+    "author": "jakevdp",
+    "name": "PythonDataScienceHandbook",
+    "href": "https://github.com/jakevdp/PythonDataScienceHandbook",
+    "description": "Python Data Science Handbook: full text in Jupyter Notebooks",
+    "language": "Jupyter Notebook",
+    "stars": 26185,
+    "forks": 11658,
+    "starsInPeriod": 74
+  },
+  {
+    "author": "EbookFoundation",
+    "name": "free-programming-books",
+    "href": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "",
+    "stars": 163753,
+    "forks": 38957,
+    "starsInPeriod": 128
+  },
+  {
+    "author": "keep3r-network",
+    "name": "keep3r.network",
+    "href": "https://github.com/keep3r-network/keep3r.network",
+    "description": "An incentivized keeper network for anonymous keeper and job registration",
+    "language": "Solidity",
+    "stars": 177,
+    "forks": 46,
+    "starsInPeriod": 88
+  },
+  {
+    "author": "quantopian",
+    "name": "research_public",
+    "href": "https://github.com/quantopian/research_public",
+    "description": "Quantitative research and educational materials",
+    "language": "Jupyter Notebook",
+    "stars": 1051,
+    "forks": 637,
+    "starsInPeriod": 31
+  },
+  {
+    "author": "discordjs",
+    "name": "discord.js",
+    "href": "https://github.com/discordjs/discord.js",
+    "description": "A powerful JavaScript library for interacting with the Discord API",
+    "language": "JavaScript",
+    "stars": 7879,
+    "forks": 1746,
+    "starsInPeriod": 16
+  },
+  {
+    "author": "datawhalechina",
+    "name": "key-book",
+    "href": "https://github.com/datawhalechina/key-book",
+    "description": "《机器学习理论导引》（宝箱书）的证明、案例、概念补充与参考文献讲解。在线阅读地址：https://datawhalechina.github.io/key-book/",
+    "language": "",
+    "stars": 390,
+    "forks": 61,
+    "starsInPeriod": 130
+  },
+  {
+    "author": "hardikkamboj",
+    "name": "An-Introduction-to-Statistical-Learning",
+    "href": "https://github.com/hardikkamboj/An-Introduction-to-Statistical-Learning",
+    "description": "This repository contains the exercises and its solution contained in the book An Introduction to Statistical Learning in python.",
+    "language": "Jupyter Notebook",
+    "stars": 852,
+    "forks": 235,
+    "starsInPeriod": 75
+  },
+  {
+    "author": "florinpop17",
+    "name": "app-ideas",
+    "href": "https://github.com/florinpop17/app-ideas",
+    "description": "A Collection of application ideas which can be used to improve your coding skills.",
+    "language": "",
+    "stars": 32846,
+    "forks": 4599,
+    "starsInPeriod": 220
+  },
+  {
+    "author": "microsoft",
+    "name": "beginners-intro-javascript-node",
+    "href": "https://github.com/microsoft/beginners-intro-javascript-node",
+    "description": "Beginner's Series: Introduction to JavaScript (Node.js)",
+    "language": "JavaScript",
+    "stars": 1185,
+    "forks": 80,
+    "starsInPeriod": 224
+  },
+  {
+    "author": "blackjack4494",
+    "name": "yt-dlc",
+    "href": "https://github.com/blackjack4494/yt-dlc",
+    "description": "media downloader for various sites.",
+    "language": "Python",
+    "stars": 1401,
+    "forks": 238,
+    "starsInPeriod": 324
+  },
+  {
+    "author": "dkhamsing",
+    "name": "open-source-ios-apps",
+    "href": "https://github.com/dkhamsing/open-source-ios-apps",
+    "description": "📱 Collaborative List of Open-Source iOS Apps",
+    "language": "Swift",
+    "stars": 25211,
+    "forks": 4107,
+    "starsInPeriod": 93
+  },
+  {
+    "author": "vercel",
+    "name": "next.js",
+    "href": "https://github.com/vercel/next.js",
+    "description": "The React Framework",
+    "language": "JavaScript",
+    "stars": 56016,
+    "forks": 9315,
+    "starsInPeriod": 451
+  },
+  {
+    "author": "TheAlgorithms",
+    "name": "Java",
+    "href": "https://github.com/TheAlgorithms/Java",
+    "description": "All Algorithms implemented in Java",
+    "language": "Java",
+    "stars": 31705,
+    "forks": 11113,
+    "starsInPeriod": 55
+  },
+  {
+    "author": "iptv-org",
+    "name": "iptv",
+    "href": "https://github.com/iptv-org/iptv",
+    "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "language": "JavaScript",
+    "stars": 20041,
+    "forks": 33,
+    "starsInPeriod": 52
   }
 ]

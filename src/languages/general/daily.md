@@ -1,50 +1,51 @@
 # general
-- [zipline](https://github.com/quantopian/zipline) : Python
-  - Zipline, a Pythonic Algorithmic Trading Library
-- [manim](https://github.com/3b1b/manim) : Python
-  - Animation engine for explanatory math videos
+- [attestation-deplacement-derogatoire-q4-2020](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020) : JavaScript
+  - attestation-deplacement-derogatoire-q4-2020 public
+- [vscode-stories](https://github.com/benawad/vscode-stories) : TypeScript
+  - Stories for VSCode
 - [semana-javascript-expert01](https://github.com/ErickWendel/semana-javascript-expert01) : JavaScript
   - Exemplos de código da primeira semana Javascript Expert
+- [zipline](https://github.com/quantopian/zipline) : Python
+  - Zipline, a Pythonic Algorithmic Trading Library
+- [cuuhomientrung](https://github.com/Cuuhomientrung/cuuhomientrung) : Python
+  - Site hỗ trợ thông tin cứu hộ người dân miền Trung
+- [flutter](https://github.com/flutter/flutter) : Dart
+  - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+- [the-bastion](https://github.com/ovh/the-bastion) : Perl
+  - Authentication, authorization, traceability and auditability for SSH accesses.
 - [deepmind-research](https://github.com/deepmind/deepmind-research) : Jupyter Notebook
   - This repository contains implementations and illustrative code to accompany DeepMind publications
-- [next.js](https://github.com/vercel/next.js) : JavaScript
-  - The React Framework
 - [cheat.sh](https://github.com/chubin/cheat.sh) : Python
   - the only cheat sheet you need
 - [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) : JavaScript
   - Roadmap to becoming an Artificial Intelligence Expert in 2020
-- [keras-ncp](https://github.com/mlech26l/keras-ncp) : Python
-  - Code repository of the paper Neural circuit policies enabling auditable autonomy published in Nature Machine Intelligence
-- [Privlege_Escalation](https://github.com/xChockax/Privlege_Escalation) : 
-- [key-book](https://github.com/datawhalechina/key-book) : 
-  - 《机器学习理论导引》（宝箱书）的证明、案例、概念补充与参考文献讲解。在线阅读地址：https://datawhalechina.github.io/key-book/
-- [beginners-intro-javascript-node](https://github.com/microsoft/beginners-intro-javascript-node) : JavaScript
-  - Beginner's Series: Introduction to JavaScript (Node.js)
-- [hyperblog](https://github.com/freddier/hyperblog) : HTML
-  - Un blog increíble para el curso de Git y Github de Platzi
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
-  - Roadmap to becoming a web developer in 2020
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
-  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
-- [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) : Swift
-  - 📱 Collaborative List of Open-Source iOS Apps
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [keep3r.network](https://github.com/keep3r-network/keep3r.network) : Solidity
-  - An incentivized keeper network for anonymous keeper and job registration
-- [ThreatPursuit-VM](https://github.com/fireeye/ThreatPursuit-VM) : PowerShell
-  - Threat Pursuit Virtual Machine (VM): A fully customizable, open-sourced Windows-based distribution focused on threat intelligence analysis and hunting designed for intel and malware analysts as well as threat hunters to get up and running quickly.
-- [BilibiliTask](https://github.com/srcrs/BilibiliTask) : Java
-  - 哔哩哔哩(B站)自动完成每日任务，投币，点赞，直播签到，自动兑换银瓜子为硬币，自动送出即将过期礼物，漫画App签到。
-- [TeachYourselfCS-CN](https://github.com/keithnull/TeachYourselfCS-CN) : 
-  - TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS
-- [computer-science](https://github.com/ossu/computer-science) : 
-  - 🎓 Path to a free self-taught education in Computer Science!
-- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) : JavaScript
-  - The OpenAPI Specification Repository
-- [app-ideas](https://github.com/florinpop17/app-ideas) : 
-  - A Collection of application ideas which can be used to improve your coding skills.
 - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) : Jupyter Notebook
   - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
-- [substrate](https://github.com/paritytech/substrate) : Rust
-  - Substrate: The platform for blockchain innovators
+- [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) : Jupyter Notebook
+  - Python Data Science Handbook: full text in Jupyter Notebooks
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
+  - 📚 Freely available programming books
+- [keep3r.network](https://github.com/keep3r-network/keep3r.network) : Solidity
+  - An incentivized keeper network for anonymous keeper and job registration
+- [research_public](https://github.com/quantopian/research_public) : Jupyter Notebook
+  - Quantitative research and educational materials
+- [discord.js](https://github.com/discordjs/discord.js) : JavaScript
+  - A powerful JavaScript library for interacting with the Discord API
+- [key-book](https://github.com/datawhalechina/key-book) : 
+  - 《机器学习理论导引》（宝箱书）的证明、案例、概念补充与参考文献讲解。在线阅读地址：https://datawhalechina.github.io/key-book/
+- [An-Introduction-to-Statistical-Learning](https://github.com/hardikkamboj/An-Introduction-to-Statistical-Learning) : Jupyter Notebook
+  - This repository contains the exercises and its solution contained in the book An Introduction to Statistical Learning in python.
+- [app-ideas](https://github.com/florinpop17/app-ideas) : 
+  - A Collection of application ideas which can be used to improve your coding skills.
+- [beginners-intro-javascript-node](https://github.com/microsoft/beginners-intro-javascript-node) : JavaScript
+  - Beginner's Series: Introduction to JavaScript (Node.js)
+- [yt-dlc](https://github.com/blackjack4494/yt-dlc) : Python
+  - media downloader for various sites.
+- [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) : Swift
+  - 📱 Collaborative List of Open-Source iOS Apps
+- [next.js](https://github.com/vercel/next.js) : JavaScript
+  - The React Framework
+- [Java](https://github.com/TheAlgorithms/Java) : Java
+  - All Algorithms implemented in Java
+- [iptv](https://github.com/iptv-org/iptv) : JavaScript
+  - Collection of 5000+ publicly available IPTV channels from all over the world

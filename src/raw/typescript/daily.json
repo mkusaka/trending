@@ -1,83 +1,73 @@
 [
   {
-    "author": "vercel",
-    "name": "commerce",
-    "href": "https://github.com/vercel/commerce",
-    "description": "Next.js Commerce",
+    "author": "benawad",
+    "name": "vscode-stories",
+    "href": "https://github.com/benawad/vscode-stories",
+    "description": "Stories for VSCode",
     "language": "TypeScript",
-    "stars": 1850,
-    "forks": 220,
-    "starsInPeriod": 403
+    "stars": 805,
+    "forks": 50,
+    "starsInPeriod": 754
   },
   {
-    "author": "aws-samples",
-    "name": "aws-secure-environment-accelerator",
-    "href": "https://github.com/aws-samples/aws-secure-environment-accelerator",
-    "description": "The AWS Secure Environment Accelerator is a tool designed to help deploy and operate secure multi-account AWS environments on an ongoing basis. The power of the solution is the configuration file which enables the completely automated deployment of customizable architectures within AWS without changing a single line of code.",
+    "author": "benawad",
+    "name": "vscode-stories-api",
+    "href": "https://github.com/benawad/vscode-stories-api",
+    "description": "api for vscode stories",
     "language": "TypeScript",
-    "stars": 34,
-    "forks": 6,
-    "starsInPeriod": 14
+    "stars": 98,
+    "forks": 10,
+    "starsInPeriod": 99
   },
   {
-    "author": "chimurai",
-    "name": "http-proxy-middleware",
-    "href": "https://github.com/chimurai/http-proxy-middleware",
-    "description": "⚡ The one-liner node.js http-proxy middleware for connect, express and browser-sync",
+    "author": "neoclide",
+    "name": "coc.nvim",
+    "href": "https://github.com/neoclide/coc.nvim",
+    "description": "Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode",
     "language": "TypeScript",
-    "stars": 7464,
-    "forks": 583,
-    "starsInPeriod": 6
+    "stars": 13509,
+    "forks": 514,
+    "starsInPeriod": 40
   },
   {
-    "author": "marmelab",
-    "name": "react-admin",
-    "href": "https://github.com/marmelab/react-admin",
-    "description": "A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design",
+    "author": "captbaritone",
+    "name": "webamp",
+    "href": "https://github.com/captbaritone/webamp",
+    "description": "Winamp 2 reimplemented for the browser",
     "language": "TypeScript",
-    "stars": 14867,
-    "forks": 3193,
+    "stars": 7480,
+    "forks": 522,
     "starsInPeriod": 18
   },
   {
-    "author": "grafana",
-    "name": "grafana",
-    "href": "https://github.com/grafana/grafana",
-    "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+    "author": "ajayyy",
+    "name": "SponsorBlock",
+    "href": "https://github.com/ajayyy/SponsorBlock",
+    "description": "Skip YouTube video sponsors (browser extension)",
     "language": "TypeScript",
-    "stars": 37864,
-    "forks": 7694,
-    "starsInPeriod": 27
+    "stars": 1214,
+    "forks": 53,
+    "starsInPeriod": 15
   },
   {
-    "author": "elastic",
-    "name": "kibana",
-    "href": "https://github.com/elastic/kibana",
-    "description": "Your window into the Elastic Stack",
+    "author": "facebook",
+    "name": "docusaurus",
+    "href": "https://github.com/facebook/docusaurus",
+    "description": "Easy to maintain open source documentation websites.",
     "language": "TypeScript",
-    "stars": 15054,
-    "forks": 6093,
-    "starsInPeriod": 8
+    "stars": 19803,
+    "forks": 2333,
+    "starsInPeriod": 44
   },
   {
-    "author": "Bearer",
-    "name": "Pizzly",
-    "href": "https://github.com/Bearer/Pizzly",
-    "description": "The simplest, fastest way to integrate your app with an OAuth API 😋",
+    "author": "microsoft",
+    "name": "TypeScript-Website",
+    "href": "https://github.com/microsoft/TypeScript-Website",
+    "description": "The Website and web infrastructure for learning TypeScript",
     "language": "TypeScript",
-    "stars": 584,
-    "forks": 58,
-    "starsInPeriod": 35
-  },
-  {
-    "author": "tinacms",
-    "name": "tinacms",
-    "href": "https://github.com/tinacms/tinacms",
-    "description": "Tina is a toolkit for building content management systems directly into websites made with React (Gatsby and Next.js)",
-    "language": "TypeScript",
-    "stars": 5095,
-    "forks": 222,
-    "starsInPeriod": 16
+    "stars": 642,
+    "forks": 400,
+    "starsInPeriod": 5
   },
   {
     "author": "microsoft",
@@ -85,9 +75,19 @@
     "href": "https://github.com/microsoft/vscode",
     "description": "Visual Studio Code",
     "language": "TypeScript",
-    "stars": 105472,
-    "forks": 16876,
-    "starsInPeriod": 61
+    "stars": 105507,
+    "forks": 16885,
+    "starsInPeriod": 117
+  },
+  {
+    "author": "dilame",
+    "name": "instagram-private-api",
+    "href": "https://github.com/dilame/instagram-private-api",
+    "description": "NodeJS Instagram private API SDK. Written in TypeScript.",
+    "language": "TypeScript",
+    "stars": 3280,
+    "forks": 784,
+    "starsInPeriod": 8
   },
   {
     "author": "adobe",
@@ -95,89 +95,129 @@
     "href": "https://github.com/adobe/react-spectrum",
     "description": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.",
     "language": "TypeScript",
-    "stars": 3732,
-    "forks": 199,
-    "starsInPeriod": 56
+    "stars": 3746,
+    "forks": 200,
+    "starsInPeriod": 71
   },
   {
-    "author": "angular",
-    "name": "angular",
-    "href": "https://github.com/angular/angular",
-    "description": "One framework. Mobile & desktop.",
+    "author": "aws",
+    "name": "amazon-chime-sdk-js",
+    "href": "https://github.com/aws/amazon-chime-sdk-js",
+    "description": "A JavaScript client library for integrating multi-party communications powered by the Amazon Chime service.",
     "language": "TypeScript",
-    "stars": 67218,
-    "forks": 17840,
-    "starsInPeriod": 41
+    "stars": 287,
+    "forks": 167,
+    "starsInPeriod": 3
   },
   {
-    "author": "bitcoinjs",
-    "name": "bitcoinjs-lib",
-    "href": "https://github.com/bitcoinjs/bitcoinjs-lib",
-    "description": "A javascript Bitcoin library for node.js and browsers.",
+    "author": "balena-io",
+    "name": "etcher",
+    "href": "https://github.com/balena-io/etcher",
+    "description": "Flash OS images to SD cards & USB drives, safely and easily.",
     "language": "TypeScript",
-    "stars": 3974,
-    "forks": 1535,
-    "starsInPeriod": 2
+    "stars": 18948,
+    "forks": 1267,
+    "starsInPeriod": 17
   },
   {
-    "author": "akveo",
-    "name": "ngx-admin",
-    "href": "https://github.com/akveo/ngx-admin",
-    "description": "Customizable admin dashboard template based on Angular 10+",
+    "author": "jef",
+    "name": "nvidia-snatcher",
+    "href": "https://github.com/jef/nvidia-snatcher",
+    "description": "🤖 Autonomous robot for all your Nvidia needs",
     "language": "TypeScript",
-    "stars": 21577,
-    "forks": 6877,
-    "starsInPeriod": 11
+    "stars": 609,
+    "forks": 285,
+    "starsInPeriod": 21
   },
   {
-    "author": "brick-design",
-    "name": "react-visual-editor",
-    "href": "https://github.com/brick-design/react-visual-editor",
-    "description": "组件可视化拖拽，页面搭建，源码生成工具,自由拖拽嵌套，可实现任何真实开发中的复杂页面，所见即所得，可完美还原UI设计，多平台展示支持，项目于2020.2.22开源，喜欢的点颗星支持鼓励一下！visual drag and drop, free nesting, real-time preview of components, real-time tracking, WYSIWYG, perfect UI design restoration, source code Generated",
+    "author": "vega",
+    "name": "vega-lite",
+    "href": "https://github.com/vega/vega-lite",
+    "description": "A concise grammar of interactive graphics, built on Vega.",
     "language": "TypeScript",
-    "stars": 2738,
-    "forks": 390,
-    "starsInPeriod": 10
+    "stars": 2837,
+    "forks": 372,
+    "starsInPeriod": 111
   },
   {
-    "author": "niklasvh",
-    "name": "html2canvas",
-    "href": "https://github.com/niklasvh/html2canvas",
-    "description": "Screenshots with JavaScript",
+    "author": "bitwarden",
+    "name": "web",
+    "href": "https://github.com/bitwarden/web",
+    "description": "The website vault (vault.bitwarden.com).",
     "language": "TypeScript",
-    "stars": 21870,
-    "forks": 3759,
-    "starsInPeriod": 14
+    "stars": 1374,
+    "forks": 244,
+    "starsInPeriod": 3
   },
   {
-    "author": "yarnpkg",
-    "name": "berry",
-    "href": "https://github.com/yarnpkg/berry",
-    "description": "📦🐈 Active development trunk for Yarn 2+ ⚒",
+    "author": "apollographql",
+    "name": "apollo-server",
+    "href": "https://github.com/apollographql/apollo-server",
+    "description": "🌍 GraphQL server for Express, Connect, Hapi, Koa and more",
     "language": "TypeScript",
-    "stars": 2581,
-    "forks": 312,
-    "starsInPeriod": 9
+    "stars": 10476,
+    "forks": 1536,
+    "starsInPeriod": 16
   },
   {
-    "author": "spotify",
-    "name": "backstage",
-    "href": "https://github.com/spotify/backstage",
-    "description": "Backstage is an open platform for building developer portals",
+    "author": "prisma",
+    "name": "prisma-examples",
+    "href": "https://github.com/prisma/prisma-examples",
+    "description": "🚀 Ready-to-run Prisma example projects",
     "language": "TypeScript",
-    "stars": 8453,
-    "forks": 670,
-    "starsInPeriod": 24
+    "stars": 1715,
+    "forks": 406,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "pop-os",
+    "name": "shell",
+    "href": "https://github.com/pop-os/shell",
+    "description": "Pop!_OS Shell",
+    "language": "TypeScript",
+    "stars": 1925,
+    "forks": 98,
+    "starsInPeriod": 12
+  },
+  {
+    "author": "thecodingmachine",
+    "name": "workadventure",
+    "href": "https://github.com/thecodingmachine/workadventure",
+    "description": "A collaborative web application (virtual office) presented as a 16-bit RPG video game",
+    "language": "TypeScript",
+    "stars": 73,
+    "forks": 19,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "benawad",
+    "name": "vscode-stories-serverless-image-uploader",
+    "href": "https://github.com/benawad/vscode-stories-serverless-image-uploader",
+    "description": "uploads gifs to azure blob storage",
+    "language": "TypeScript",
+    "stars": 68,
+    "forks": 4,
+    "starsInPeriod": 67
+  },
+  {
+    "author": "snowpackjs",
+    "name": "snowpack",
+    "href": "https://github.com/snowpackjs/snowpack",
+    "description": "WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️",
+    "language": "TypeScript",
+    "stars": 13133,
+    "forks": 503,
+    "starsInPeriod": 75
   },
   {
     "author": "aws-amplify",
-    "name": "amplify-cli",
-    "href": "https://github.com/aws-amplify/amplify-cli",
-    "description": "A CLI toolchain for simplifying serverless web and mobile development.",
+    "name": "amplify-js",
+    "href": "https://github.com/aws-amplify/amplify-js",
+    "description": "A declarative JavaScript library for application development using cloud services.",
     "language": "TypeScript",
-    "stars": 1811,
-    "forks": 386,
-    "starsInPeriod": 2
+    "stars": 7503,
+    "forks": 1480,
+    "starsInPeriod": 7
   },
   {
     "author": "litmuschaos",
@@ -185,68 +225,28 @@
     "href": "https://github.com/litmuschaos/litmus",
     "description": "Litmus helps Kubernetes SREs and developers practice chaos engineering in a Kubernetes native way. Chaos experiments are published at the ChaosHub (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q",
     "language": "TypeScript",
-    "stars": 1292,
+    "stars": 1298,
     "forks": 296,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "cdr",
+    "name": "code-server",
+    "href": "https://github.com/cdr/code-server",
+    "description": "VS Code in the browser",
+    "language": "TypeScript",
+    "stars": 36373,
+    "forks": 2796,
+    "starsInPeriod": 69
+  },
+  {
+    "author": "taniarascia",
+    "name": "takenote",
+    "href": "https://github.com/taniarascia/takenote",
+    "description": "📝 ‎ A free, open-source notes app for the web. (Demo only)",
+    "language": "TypeScript",
+    "stars": 2876,
+    "forks": 304,
     "starsInPeriod": 8
-  },
-  {
-    "author": "googleapis",
-    "name": "google-api-nodejs-client",
-    "href": "https://github.com/googleapis/google-api-nodejs-client",
-    "description": "Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.",
-    "language": "TypeScript",
-    "stars": 8895,
-    "forks": 1619,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "vuejs",
-    "name": "vue-next",
-    "href": "https://github.com/vuejs/vue-next",
-    "description": "Repo for Vue 3",
-    "language": "TypeScript",
-    "stars": 18714,
-    "forks": 3035,
-    "starsInPeriod": 22
-  },
-  {
-    "author": "vuetifyjs",
-    "name": "vuetify",
-    "href": "https://github.com/vuetifyjs/vuetify",
-    "description": "🐉 Material Component Framework for Vue",
-    "language": "TypeScript",
-    "stars": 28216,
-    "forks": 5105,
-    "starsInPeriod": 19
-  },
-  {
-    "author": "DefinitelyTyped",
-    "name": "DefinitelyTyped",
-    "href": "https://github.com/DefinitelyTyped/DefinitelyTyped",
-    "description": "The repository for high quality TypeScript type definitions.",
-    "language": "TypeScript",
-    "stars": 30570,
-    "forks": 23050,
-    "starsInPeriod": 23
-  },
-  {
-    "author": "akveo",
-    "name": "nebular",
-    "href": "https://github.com/akveo/nebular",
-    "description": "💥 Customizable Angular UI Library based on Eva Design System 🌚✨Dark Mode",
-    "language": "TypeScript",
-    "stars": 6609,
-    "forks": 1276,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "philips-labs",
-    "name": "terraform-aws-github-runner",
-    "href": "https://github.com/philips-labs/terraform-aws-github-runner",
-    "description": "Terraform module for scalable GitHub action runners on AWS",
-    "language": "TypeScript",
-    "stars": 153,
-    "forks": 50,
-    "starsInPeriod": 4
   }
 ]
