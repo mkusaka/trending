@@ -1,163 +1,33 @@
 [
   {
+    "author": "PaddlePaddle",
+    "name": "PaddleOCR",
+    "href": "https://github.com/PaddlePaddle/PaddleOCR",
+    "description": "Awesome multilingual OCR toolkits based on PaddlePaddle （multilingual recognition: English, Chinese, Korean, Japanese, German, French etc. 3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）",
+    "language": "C++",
+    "stars": 5955,
+    "forks": 1104,
+    "starsInPeriod": 1367
+  },
+  {
+    "author": "nlohmann",
+    "name": "json",
+    "href": "https://github.com/nlohmann/json",
+    "description": "JSON for Modern C++",
+    "language": "C++",
+    "stars": 21055,
+    "forks": 3715,
+    "starsInPeriod": 328
+  },
+  {
     "author": "commaai",
     "name": "openpilot",
     "href": "https://github.com/commaai/openpilot",
     "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.",
     "language": "C++",
-    "stars": 18004,
-    "forks": 4223,
-    "starsInPeriod": 626
-  },
-  {
-    "author": "mozilla",
-    "name": "DeepSpeech",
-    "href": "https://github.com/mozilla/DeepSpeech",
-    "description": "DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.",
-    "language": "C++",
-    "stars": 15509,
-    "forks": 2898,
-    "starsInPeriod": 83
-  },
-  {
-    "author": "changkun",
-    "name": "modern-cpp-tutorial",
-    "href": "https://github.com/changkun/modern-cpp-tutorial",
-    "description": "📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly",
-    "language": "C++",
-    "stars": 8113,
-    "forks": 1116,
-    "starsInPeriod": 723
-  },
-  {
-    "author": "jbeder",
-    "name": "yaml-cpp",
-    "href": "https://github.com/jbeder/yaml-cpp",
-    "description": "A YAML parser and emitter in C++",
-    "language": "C++",
-    "stars": 2267,
-    "forks": 763,
-    "starsInPeriod": 42
-  },
-  {
-    "author": "MarlinFirmware",
-    "name": "Marlin",
-    "href": "https://github.com/MarlinFirmware/Marlin",
-    "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
-    "language": "C++",
-    "stars": 8612,
-    "forks": 12066,
-    "starsInPeriod": 193
-  },
-  {
-    "author": "Aircoookie",
-    "name": "WLED",
-    "href": "https://github.com/Aircoookie/WLED",
-    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
-    "language": "C++",
-    "stars": 3170,
-    "forks": 550,
-    "starsInPeriod": 84
-  },
-  {
-    "author": "qbittorrent",
-    "name": "qBittorrent",
-    "href": "https://github.com/qbittorrent/qBittorrent",
-    "description": "qBittorrent BitTorrent client",
-    "language": "C++",
-    "stars": 10349,
-    "forks": 1863,
-    "starsInPeriod": 84
-  },
-  {
-    "author": "alphacep",
-    "name": "vosk-api",
-    "href": "https://github.com/alphacep/vosk-api",
-    "description": "Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node",
-    "language": "C++",
-    "stars": 816,
-    "forks": 168,
-    "starsInPeriod": 36
-  },
-  {
-    "author": "electron",
-    "name": "electron",
-    "href": "https://github.com/electron/electron",
-    "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
-    "language": "C++",
-    "stars": 86557,
-    "forks": 11623,
-    "starsInPeriod": 189
-  },
-  {
-    "author": "pytorch",
-    "name": "pytorch",
-    "href": "https://github.com/pytorch/pytorch",
-    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-    "language": "C++",
-    "stars": 43379,
-    "forks": 11372,
-    "starsInPeriod": 196
-  },
-  {
-    "author": "Z3Prover",
-    "name": "z3",
-    "href": "https://github.com/Z3Prover/z3",
-    "description": "The Z3 Theorem Prover",
-    "language": "C++",
-    "stars": 5828,
-    "forks": 958,
-    "starsInPeriod": 22
-  },
-  {
-    "author": "facebookresearch",
-    "name": "faiss",
-    "href": "https://github.com/facebookresearch/faiss",
-    "description": "A library for efficient similarity search and clustering of dense vectors.",
-    "language": "C++",
-    "stars": 11263,
-    "forks": 1994,
-    "starsInPeriod": 84
-  },
-  {
-    "author": "godotengine",
-    "name": "godot",
-    "href": "https://github.com/godotengine/godot",
-    "description": "Godot Engine – Multi-platform 2D and 3D game engine",
-    "language": "C++",
-    "stars": 34244,
-    "forks": 6480,
-    "starsInPeriod": 374
-  },
-  {
-    "author": "telegramdesktop",
-    "name": "tdesktop",
-    "href": "https://github.com/telegramdesktop/tdesktop",
-    "description": "Telegram Desktop messaging app",
-    "language": "C++",
-    "stars": 13399,
-    "forks": 3009,
-    "starsInPeriod": 66
-  },
-  {
-    "author": "monero-project",
-    "name": "monero",
-    "href": "https://github.com/monero-project/monero",
-    "description": "Monero: the secure, private, untraceable cryptocurrency",
-    "language": "C++",
-    "stars": 4597,
-    "forks": 2330,
-    "starsInPeriod": 18
-  },
-  {
-    "author": "microsoft",
-    "name": "calculator",
-    "href": "https://github.com/microsoft/calculator",
-    "description": "Windows Calculator: A simple yet powerful calculator that ships with Windows",
-    "language": "C++",
-    "stars": 20412,
-    "forks": 3557,
-    "starsInPeriod": 66
+    "stars": 19085,
+    "forks": 4259,
+    "starsInPeriod": 1127
   },
   {
     "author": "grpc",
@@ -165,29 +35,109 @@
     "href": "https://github.com/grpc/grpc",
     "description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
     "language": "C++",
-    "stars": 27942,
-    "forks": 7128,
-    "starsInPeriod": 90
+    "stars": 28038,
+    "forks": 7160,
+    "starsInPeriod": 110
   },
   {
-    "author": "pybind",
-    "name": "pybind11",
-    "href": "https://github.com/pybind/pybind11",
-    "description": "Seamless operability between C++11 and Python",
+    "author": "mongodb",
+    "name": "mongo",
+    "href": "https://github.com/mongodb/mongo",
+    "description": "The MongoDB Database",
     "language": "C++",
-    "stars": 8163,
-    "forks": 1162,
-    "starsInPeriod": 54
+    "stars": 18763,
+    "forks": 4637,
+    "starsInPeriod": 55
   },
   {
-    "author": "llvm",
-    "name": "llvm-project",
-    "href": "https://github.com/llvm/llvm-project",
-    "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.",
+    "author": "intel-isl",
+    "name": "Open3D",
+    "href": "https://github.com/intel-isl/Open3D",
+    "description": "Open3D: A Modern Library for 3D Data Processing",
     "language": "C++",
-    "stars": 6376,
-    "forks": 2504,
-    "starsInPeriod": 94
+    "stars": 3543,
+    "forks": 913,
+    "starsInPeriod": 40
+  },
+  {
+    "author": "protocolbuffers",
+    "name": "protobuf",
+    "href": "https://github.com/protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "language": "C++",
+    "stars": 44558,
+    "forks": 11963,
+    "starsInPeriod": 172
+  },
+  {
+    "author": "catchorg",
+    "name": "Catch2",
+    "href": "https://github.com/catchorg/Catch2",
+    "description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)",
+    "language": "C++",
+    "stars": 12274,
+    "forks": 2060,
+    "starsInPeriod": 40
+  },
+  {
+    "author": "ossrs",
+    "name": "srs",
+    "href": "https://github.com/ossrs/srs",
+    "description": "SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.",
+    "language": "C++",
+    "stars": 9888,
+    "forks": 3325,
+    "starsInPeriod": 73
+  },
+  {
+    "author": "gabime",
+    "name": "spdlog",
+    "href": "https://github.com/gabime/spdlog",
+    "description": "Fast C++ logging library.",
+    "language": "C++",
+    "stars": 9959,
+    "forks": 2127,
+    "starsInPeriod": 70
+  },
+  {
+    "author": "barry-ran",
+    "name": "QtScrcpy",
+    "href": "https://github.com/barry-ran/QtScrcpy",
+    "description": "Android real-time display control software",
+    "language": "C++",
+    "stars": 3304,
+    "forks": 561,
+    "starsInPeriod": 69
+  },
+  {
+    "author": "yuzu-emu",
+    "name": "yuzu",
+    "href": "https://github.com/yuzu-emu/yuzu",
+    "description": "Nintendo Switch Emulator",
+    "language": "C++",
+    "stars": 12382,
+    "forks": 1023,
+    "starsInPeriod": 78
+  },
+  {
+    "author": "electron",
+    "name": "electron",
+    "href": "https://github.com/electron/electron",
+    "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+    "language": "C++",
+    "stars": 86708,
+    "forks": 11644,
+    "starsInPeriod": 200
+  },
+  {
+    "author": "capnproto",
+    "name": "capnproto",
+    "href": "https://github.com/capnproto/capnproto",
+    "description": "Cap'n Proto serialization/RPC system - core tools and C++ library",
+    "language": "C++",
+    "stars": 7827,
+    "forks": 640,
+    "starsInPeriod": 74
   },
   {
     "author": "alibaba",
@@ -195,58 +145,108 @@
     "href": "https://github.com/alibaba/MNN",
     "description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba",
     "language": "C++",
-    "stars": 4750,
-    "forks": 997,
-    "starsInPeriod": 54
+    "stars": 4829,
+    "forks": 1006,
+    "starsInPeriod": 82
   },
   {
-    "author": "MegEngine",
-    "name": "MegEngine",
-    "href": "https://github.com/MegEngine/MegEngine",
-    "description": "MegEngine 是一个快速、可拓展、易于使用且支持自动求导的深度学习框架",
+    "author": "facebook",
+    "name": "folly",
+    "href": "https://github.com/facebook/folly",
+    "description": "An open-source C++ library developed and used at Facebook.",
     "language": "C++",
-    "stars": 2841,
-    "forks": 368,
-    "starsInPeriod": 181
+    "stars": 15794,
+    "forks": 3734,
+    "starsInPeriod": 50
   },
   {
-    "author": "dusty-nv",
-    "name": "jetson-inference",
-    "href": "https://github.com/dusty-nv/jetson-inference",
-    "description": "Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.",
+    "author": "TheCherno",
+    "name": "Hazel",
+    "href": "https://github.com/TheCherno/Hazel",
+    "description": "Hazel Engine",
     "language": "C++",
-    "stars": 3652,
-    "forks": 1614,
-    "starsInPeriod": 47
+    "stars": 4324,
+    "forks": 626,
+    "starsInPeriod": 50
   },
   {
-    "author": "typesense",
-    "name": "typesense",
-    "href": "https://github.com/typesense/typesense",
-    "description": "Fast, typo tolerant search engine for building delightful search experiences.",
+    "author": "trojan-gfw",
+    "name": "trojan",
+    "href": "https://github.com/trojan-gfw/trojan",
+    "description": "An unidentifiable mechanism that helps you bypass GFW.",
     "language": "C++",
-    "stars": 3100,
-    "forks": 66,
-    "starsInPeriod": 164
+    "stars": 13323,
+    "forks": 2433,
+    "starsInPeriod": 91
   },
   {
-    "author": "SHY-Corp",
-    "name": "LeetCode-Solutions",
-    "href": "https://github.com/SHY-Corp/LeetCode-Solutions",
-    "description": "A compilation of all the Leetcode solutions.",
+    "author": "Qv2ray",
+    "name": "Qv2ray",
+    "href": "https://github.com/Qv2ray/Qv2ray",
+    "description": "⭐ Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / SOCKS5 | 使用 C++ / Qt5 开发 | 可拓展插件式设计 ⭐",
     "language": "C++",
-    "stars": 139,
-    "forks": 490,
-    "starsInPeriod": 51
+    "stars": 6624,
+    "forks": 1072,
+    "starsInPeriod": 174
   },
   {
-    "author": "ApolloAuto",
-    "name": "apollo",
-    "href": "https://github.com/ApolloAuto/apollo",
-    "description": "An open autonomous driving platform",
+    "author": "milvus-io",
+    "name": "milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "description": "An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy",
     "language": "C++",
-    "stars": 17226,
-    "forks": 6558,
+    "stars": 4323,
+    "forks": 678,
+    "starsInPeriod": 46
+  },
+  {
+    "author": "pytorch",
+    "name": "pytorch",
+    "href": "https://github.com/pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "language": "C++",
+    "stars": 43557,
+    "forks": 11425,
+    "starsInPeriod": 208
+  },
+  {
+    "author": "HKUST-Aerial-Robotics",
+    "name": "VINS-Mono",
+    "href": "https://github.com/HKUST-Aerial-Robotics/VINS-Mono",
+    "description": "A Robust and Versatile Monocular Visual-Inertial State Estimator",
+    "language": "C++",
+    "stars": 2623,
+    "forks": 1465,
+    "starsInPeriod": 17
+  },
+  {
+    "author": "OneLoneCoder",
+    "name": "olcPixelGameEngine",
+    "href": "https://github.com/OneLoneCoder/olcPixelGameEngine",
+    "description": "The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects",
+    "language": "C++",
+    "stars": 1712,
+    "forks": 470,
     "starsInPeriod": 45
+  },
+  {
+    "author": "CMU-Perceptual-Computing-Lab",
+    "name": "openpose",
+    "href": "https://github.com/CMU-Perceptual-Computing-Lab/openpose",
+    "description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation",
+    "language": "C++",
+    "stars": 19035,
+    "forks": 5772,
+    "starsInPeriod": 82
+  },
+  {
+    "author": "kitao",
+    "name": "pyxel",
+    "href": "https://github.com/kitao/pyxel",
+    "description": "A retro game engine for Python",
+    "language": "C++",
+    "stars": 7566,
+    "forks": 461,
+    "starsInPeriod": 67
   }
 ]
