@@ -1,51 +1,51 @@
 # go
+- [trojan-go](https://github.com/p4gefau1t/trojan-go)
+  - Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
+- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
+  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [dasel](https://github.com/TomWright/dasel)
+  - Query and update data structures from the command line. Comparable to jq/yq but supports JSON, TOML, YAML and XML with zero runtime dependencies.
+- [flux2](https://github.com/fluxcd/flux2)
+  - Kubernetes toolkit for assembling CD pipelines the GitOps way
+- [thola](https://github.com/inexio/thola)
+  - A tool for monitoring and provisioning network devices written in Go.
+- [rclone](https://github.com/rclone/rclone)
+  - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+- [gf](https://github.com/gogf/gf)
+  - GoFrame is a modular, powerful, high-performance and production-ready application development framework of golang.
+- [fyne](https://github.com/fyne-io/fyne)
+  - Cross platform GUI in Go based on Material Design
+- [casbin](https://github.com/casbin/casbin)
+  - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
+- [hugo](https://github.com/gohugoio/hugo)
+  - The world’s fastest framework for building websites.
+- [automuteus](https://github.com/denverquane/automuteus)
+  - Discord Bot to automute Among Us players at round transitions, in conjunction with https://github.com/denverquane/amonguscapture
+- [Go](https://github.com/TheAlgorithms/Go)
+  - Algorithms Implemented in GoLang
+- [which-dns](https://github.com/redirect2me/which-dns)
+  - Detects which DNS server is being used
+- [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
+  - Network-wide ads & trackers blocking DNS server
+- [awesome-go](https://github.com/avelino/awesome-go)
+  - A curated list of awesome Go frameworks, libraries and software
+- [glab](https://github.com/profclems/glab)
+  - An open-source GitLab command line tool
+- [goquery](https://github.com/PuerkitoBio/goquery)
+  - A little like that j-thing, only in Go.
+- [matterbridge](https://github.com/42wim/matterbridge)
+  - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble and more with REST API (mattermost not required!)
+- [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
+  - 《Mastering GO》中文译本，《玩转 GO》。
+- [nuclio](https://github.com/nuclio/nuclio)
+  - High-Performance Serverless event and data processing platform
+- [lazygit](https://github.com/jesseduffield/lazygit)
+  - simple terminal UI for git commands
+- [bit](https://github.com/chriswalz/bit)
+  - Bit is a modern Git CLI
+- [pterm](https://github.com/pterm/pterm)
+  - ✨ A modern go module to beautify console output. Can be used without configuration, but if desired, everything can be customized down to the smallest detail.
 - [subfinder](https://github.com/projectdiscovery/subfinder)
   - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
 - [sh](https://github.com/mvdan/sh)
   - A shell parser, formatter, and interpreter with bash support; includes shfmt
-- [flux2](https://github.com/fluxcd/flux2)
-  - Kubernetes toolkit for assembling CD pipelines the GitOps way
-- [ebiten](https://github.com/hajimehoshi/ebiten)
-  - A dead simple 2D game library for Go
-- [Amass](https://github.com/OWASP/Amass)
-  - In-depth Attack Surface Mapping and Asset Discovery
-- [esbuild](https://github.com/evanw/esbuild)
-  - An extremely fast JavaScript bundler and minifier
-- [annie](https://github.com/iawia002/annie)
-  - 👾 Fast, simple and clean video downloader
-- [go-echarts](https://github.com/go-echarts/go-echarts)
-  - 🎨 The adorable charts library for Golang
-- [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
-  - Network-wide ads & trackers blocking DNS server
-- [hugo](https://github.com/gohugoio/hugo)
-  - The world’s fastest framework for building websites.
-- [telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api)
-  - Golang bindings for the Telegram Bot API
-- [terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
-  - Terraform provider plugin for proxmox
-- [nats-server](https://github.com/nats-io/nats-server)
-  - High-Performance server for NATS, the cloud native messaging system.
-- [thola](https://github.com/inexio/thola)
-  - A tool for monitoring and provisioning network devices written in Go.
-- [dasel](https://github.com/TomWright/dasel)
-  - Query and update data structures from the command line. Comparable to jq/yq but supports JSON, TOML, YAML and XML with zero runtime dependencies.
-- [rclone](https://github.com/rclone/rclone)
-  - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
-- [k3os](https://github.com/rancher/k3os)
-  - Purpose-built OS for Kubernetes, fully managed by Kubernetes.
-- [metrics-server](https://github.com/kubernetes-sigs/metrics-server)
-  - Cluster-wide aggregator of resource usage data.
-- [prysm](https://github.com/prysmaticlabs/prysm)
-  - Go implementation of the Ethereum 2.0 blockchain
-- [v2ray-core](https://github.com/v2fly/v2ray-core)
-  - A platform for building proxies to bypass network restrictions.
-- [glab](https://github.com/profclems/glab)
-  - An open-source GitLab command line tool
-- [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2)
-  - An open source re-implementation of Diablo 2
-- [nightingale](https://github.com/didi/nightingale)
-  - 💡 A Distributed and High-Performance Monitoring System
-- [clash](https://github.com/Dreamacro/clash)
-  - A rule-based tunnel in Go.
-- [dolt](https://github.com/dolthub/dolt)
-  - Dolt – It's Git for Data

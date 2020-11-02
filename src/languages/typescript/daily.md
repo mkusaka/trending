@@ -3,49 +3,49 @@
   - Stories for VSCode
 - [vscode-stories-api](https://github.com/benawad/vscode-stories-api)
   - api for vscode stories
-- [coc.nvim](https://github.com/neoclide/coc.nvim)
-  - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
-- [webamp](https://github.com/captbaritone/webamp)
-  - Winamp 2 reimplemented for the browser
-- [SponsorBlock](https://github.com/ajayyy/SponsorBlock)
-  - Skip YouTube video sponsors (browser extension)
-- [docusaurus](https://github.com/facebook/docusaurus)
-  - Easy to maintain open source documentation websites.
-- [TypeScript-Website](https://github.com/microsoft/TypeScript-Website)
-  - The Website and web infrastructure for learning TypeScript
-- [vscode](https://github.com/microsoft/vscode)
-  - Visual Studio Code
-- [instagram-private-api](https://github.com/dilame/instagram-private-api)
-  - NodeJS Instagram private API SDK. Written in TypeScript.
-- [react-spectrum](https://github.com/adobe/react-spectrum)
-  - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
-- [amazon-chime-sdk-js](https://github.com/aws/amazon-chime-sdk-js)
-  - A JavaScript client library for integrating multi-party communications powered by the Amazon Chime service.
+- [vdx](https://github.com/yuanqing/vdx)
+  - 🎞️ An intuitive CLI for processing video, powered by FFmpeg
+- [jovo-framework](https://github.com/jovotech/jovo-framework)
+  - 🔈 The Open Source Voice Layer: Build Voice Experiences for Alexa, Google Assistant, Samsung Bixby, Web Apps, and much more
 - [etcher](https://github.com/balena-io/etcher)
   - Flash OS images to SD cards & USB drives, safely and easily.
-- [nvidia-snatcher](https://github.com/jef/nvidia-snatcher)
-  - 🤖 Autonomous robot for all your Nvidia needs
-- [vega-lite](https://github.com/vega/vega-lite)
-  - A concise grammar of interactive graphics, built on Vega.
-- [web](https://github.com/bitwarden/web)
-  - The website vault (vault.bitwarden.com).
+- [hetty](https://github.com/dstotijn/hetty)
+  - Hetty is an HTTP toolkit for security research.
+- [uniswap-interface](https://github.com/Uniswap/uniswap-interface)
+  - 🦄 An open source interface for the Uniswap protocol
+- [tfjs-models](https://github.com/tensorflow/tfjs-models)
+  - Pretrained models for TensorFlow.js
+- [frontend](https://github.com/home-assistant/frontend)
+  - 🍭 Frontend for Home Assistant
 - [apollo-server](https://github.com/apollographql/apollo-server)
   - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
-- [prisma-examples](https://github.com/prisma/prisma-examples)
-  - 🚀 Ready-to-run Prisma example projects
-- [shell](https://github.com/pop-os/shell)
-  - Pop!_OS Shell
-- [workadventure](https://github.com/thecodingmachine/workadventure)
-  - A collaborative web application (virtual office) presented as a 16-bit RPG video game
+- [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+  - ✨ Monorepo for all the tooling which enables ESLint to support TypeScript
+- [angularfire](https://github.com/angular/angularfire)
+  - The official Angular library for Firebase.
+- [room-assistant](https://github.com/mKeRix/room-assistant)
+  - Presence tracking and more for automation on the room-level
+- [jest](https://github.com/facebook/jest)
+  - Delightful JavaScript Testing.
+- [webamp](https://github.com/captbaritone/webamp)
+  - Winamp 2 reimplemented for the browser
+- [boxednode](https://github.com/mongodb-js/boxednode)
+  - 📦 boxednode – Ship a JS file with Node.js in a box
+- [components](https://github.com/angular/components)
+  - Component infrastructure and Material Design components for Angular
+- [vueuse](https://github.com/antfu/vueuse)
+  - 🧰 Collection of Composition API utils for Vue 2 and 3
+- [SponsorBlock](https://github.com/ajayyy/SponsorBlock)
+  - Skip YouTube video sponsors (browser extension)
+- [sapper](https://github.com/sveltejs/sapper)
+  - The next small thing in web development, powered by Svelte
 - [vscode-stories-serverless-image-uploader](https://github.com/benawad/vscode-stories-serverless-image-uploader)
   - uploads gifs to azure blob storage
-- [snowpack](https://github.com/snowpackjs/snowpack)
-  - WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
-- [amplify-js](https://github.com/aws-amplify/amplify-js)
-  - A declarative JavaScript library for application development using cloud services.
-- [litmus](https://github.com/litmuschaos/litmus)
-  - Litmus helps Kubernetes SREs and developers practice chaos engineering in a Kubernetes native way. Chaos experiments are published at the ChaosHub (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q
-- [code-server](https://github.com/cdr/code-server)
-  - VS Code in the browser
-- [takenote](https://github.com/taniarascia/takenote)
-  - 📝 ‎ A free, open-source notes app for the web. (Demo only)
+- [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
+  - Tasks for Azure Pipelines
+- [erxes](https://github.com/erxes/erxes)
+  - Free and open fair-code licensed all-in-one growth marketing & management software
+- [shell](https://github.com/pop-os/shell)
+  - Pop!_OS Shell
+- [aws-secure-environment-accelerator](https://github.com/aws-samples/aws-secure-environment-accelerator)
+  - The AWS Secure Environment Accelerator is a tool designed to help deploy and operate secure multi-account AWS environments on an ongoing basis. The power of the solution is the configuration file which enables the completely automated deployment of customizable architectures within AWS without changing a single line of code.

@@ -5,9 +5,9 @@
     "href": "https://github.com/benawad/vscode-stories",
     "description": "Stories for VSCode",
     "language": "TypeScript",
-    "stars": 805,
-    "forks": 50,
-    "starsInPeriod": 754
+    "stars": 1126,
+    "forks": 65,
+    "starsInPeriod": 344
   },
   {
     "author": "benawad",
@@ -15,99 +15,29 @@
     "href": "https://github.com/benawad/vscode-stories-api",
     "description": "api for vscode stories",
     "language": "TypeScript",
-    "stars": 98,
-    "forks": 10,
-    "starsInPeriod": 99
+    "stars": 129,
+    "forks": 13,
+    "starsInPeriod": 32
   },
   {
-    "author": "neoclide",
-    "name": "coc.nvim",
-    "href": "https://github.com/neoclide/coc.nvim",
-    "description": "Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode",
+    "author": "yuanqing",
+    "name": "vdx",
+    "href": "https://github.com/yuanqing/vdx",
+    "description": "🎞️ An intuitive CLI for processing video, powered by FFmpeg",
     "language": "TypeScript",
-    "stars": 13509,
-    "forks": 514,
-    "starsInPeriod": 40
+    "stars": 1096,
+    "forks": 25,
+    "starsInPeriod": 129
   },
   {
-    "author": "captbaritone",
-    "name": "webamp",
-    "href": "https://github.com/captbaritone/webamp",
-    "description": "Winamp 2 reimplemented for the browser",
+    "author": "jovotech",
+    "name": "jovo-framework",
+    "href": "https://github.com/jovotech/jovo-framework",
+    "description": "🔈 The Open Source Voice Layer: Build Voice Experiences for Alexa, Google Assistant, Samsung Bixby, Web Apps, and much more",
     "language": "TypeScript",
-    "stars": 7480,
-    "forks": 522,
-    "starsInPeriod": 18
-  },
-  {
-    "author": "ajayyy",
-    "name": "SponsorBlock",
-    "href": "https://github.com/ajayyy/SponsorBlock",
-    "description": "Skip YouTube video sponsors (browser extension)",
-    "language": "TypeScript",
-    "stars": 1214,
-    "forks": 53,
-    "starsInPeriod": 15
-  },
-  {
-    "author": "facebook",
-    "name": "docusaurus",
-    "href": "https://github.com/facebook/docusaurus",
-    "description": "Easy to maintain open source documentation websites.",
-    "language": "TypeScript",
-    "stars": 19803,
-    "forks": 2333,
+    "stars": 1198,
+    "forks": 218,
     "starsInPeriod": 44
-  },
-  {
-    "author": "microsoft",
-    "name": "TypeScript-Website",
-    "href": "https://github.com/microsoft/TypeScript-Website",
-    "description": "The Website and web infrastructure for learning TypeScript",
-    "language": "TypeScript",
-    "stars": 642,
-    "forks": 400,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "microsoft",
-    "name": "vscode",
-    "href": "https://github.com/microsoft/vscode",
-    "description": "Visual Studio Code",
-    "language": "TypeScript",
-    "stars": 105507,
-    "forks": 16885,
-    "starsInPeriod": 117
-  },
-  {
-    "author": "dilame",
-    "name": "instagram-private-api",
-    "href": "https://github.com/dilame/instagram-private-api",
-    "description": "NodeJS Instagram private API SDK. Written in TypeScript.",
-    "language": "TypeScript",
-    "stars": 3280,
-    "forks": 784,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "adobe",
-    "name": "react-spectrum",
-    "href": "https://github.com/adobe/react-spectrum",
-    "description": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.",
-    "language": "TypeScript",
-    "stars": 3746,
-    "forks": 200,
-    "starsInPeriod": 71
-  },
-  {
-    "author": "aws",
-    "name": "amazon-chime-sdk-js",
-    "href": "https://github.com/aws/amazon-chime-sdk-js",
-    "description": "A JavaScript client library for integrating multi-party communications powered by the Amazon Chime service.",
-    "language": "TypeScript",
-    "stars": 287,
-    "forks": 167,
-    "starsInPeriod": 3
   },
   {
     "author": "balena-io",
@@ -115,38 +45,48 @@
     "href": "https://github.com/balena-io/etcher",
     "description": "Flash OS images to SD cards & USB drives, safely and easily.",
     "language": "TypeScript",
-    "stars": 18948,
-    "forks": 1267,
-    "starsInPeriod": 17
+    "stars": 18954,
+    "forks": 1268,
+    "starsInPeriod": 10
   },
   {
-    "author": "jef",
-    "name": "nvidia-snatcher",
-    "href": "https://github.com/jef/nvidia-snatcher",
-    "description": "🤖 Autonomous robot for all your Nvidia needs",
+    "author": "dstotijn",
+    "name": "hetty",
+    "href": "https://github.com/dstotijn/hetty",
+    "description": "Hetty is an HTTP toolkit for security research.",
     "language": "TypeScript",
-    "stars": 609,
-    "forks": 285,
-    "starsInPeriod": 21
+    "stars": 2692,
+    "forks": 121,
+    "starsInPeriod": 27
   },
   {
-    "author": "vega",
-    "name": "vega-lite",
-    "href": "https://github.com/vega/vega-lite",
-    "description": "A concise grammar of interactive graphics, built on Vega.",
+    "author": "Uniswap",
+    "name": "uniswap-interface",
+    "href": "https://github.com/Uniswap/uniswap-interface",
+    "description": "🦄 An open source interface for the Uniswap protocol",
     "language": "TypeScript",
-    "stars": 2837,
-    "forks": 372,
-    "starsInPeriod": 111
+    "stars": 821,
+    "forks": 809,
+    "starsInPeriod": 5
   },
   {
-    "author": "bitwarden",
-    "name": "web",
-    "href": "https://github.com/bitwarden/web",
-    "description": "The website vault (vault.bitwarden.com).",
+    "author": "tensorflow",
+    "name": "tfjs-models",
+    "href": "https://github.com/tensorflow/tfjs-models",
+    "description": "Pretrained models for TensorFlow.js",
     "language": "TypeScript",
-    "stars": 1374,
-    "forks": 244,
+    "stars": 7542,
+    "forks": 2296,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "home-assistant",
+    "name": "frontend",
+    "href": "https://github.com/home-assistant/frontend",
+    "description": "🍭 Frontend for Home Assistant",
+    "language": "TypeScript",
+    "stars": 1123,
+    "forks": 1040,
     "starsInPeriod": 3
   },
   {
@@ -155,39 +95,109 @@
     "href": "https://github.com/apollographql/apollo-server",
     "description": "🌍 GraphQL server for Express, Connect, Hapi, Koa and more",
     "language": "TypeScript",
-    "stars": 10476,
-    "forks": 1536,
-    "starsInPeriod": 16
-  },
-  {
-    "author": "prisma",
-    "name": "prisma-examples",
-    "href": "https://github.com/prisma/prisma-examples",
-    "description": "🚀 Ready-to-run Prisma example projects",
-    "language": "TypeScript",
-    "stars": 1715,
-    "forks": 406,
+    "stars": 10482,
+    "forks": 1538,
     "starsInPeriod": 7
   },
   {
-    "author": "pop-os",
-    "name": "shell",
-    "href": "https://github.com/pop-os/shell",
-    "description": "Pop!_OS Shell",
+    "author": "typescript-eslint",
+    "name": "typescript-eslint",
+    "href": "https://github.com/typescript-eslint/typescript-eslint",
+    "description": "✨ Monorepo for all the tooling which enables ESLint to support TypeScript",
     "language": "TypeScript",
-    "stars": 1925,
-    "forks": 98,
-    "starsInPeriod": 12
+    "stars": 8255,
+    "forks": 1170,
+    "starsInPeriod": 10
   },
   {
-    "author": "thecodingmachine",
-    "name": "workadventure",
-    "href": "https://github.com/thecodingmachine/workadventure",
-    "description": "A collaborative web application (virtual office) presented as a 16-bit RPG video game",
+    "author": "angular",
+    "name": "angularfire",
+    "href": "https://github.com/angular/angularfire",
+    "description": "The official Angular library for Firebase.",
     "language": "TypeScript",
-    "stars": 73,
-    "forks": 19,
-    "starsInPeriod": 4
+    "stars": 6409,
+    "forks": 1904,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "mKeRix",
+    "name": "room-assistant",
+    "href": "https://github.com/mKeRix/room-assistant",
+    "description": "Presence tracking and more for automation on the room-level",
+    "language": "TypeScript",
+    "stars": 589,
+    "forks": 71,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "facebook",
+    "name": "jest",
+    "href": "https://github.com/facebook/jest",
+    "description": "Delightful JavaScript Testing.",
+    "language": "TypeScript",
+    "stars": 32973,
+    "forks": 4728,
+    "starsInPeriod": 18
+  },
+  {
+    "author": "captbaritone",
+    "name": "webamp",
+    "href": "https://github.com/captbaritone/webamp",
+    "description": "Winamp 2 reimplemented for the browser",
+    "language": "TypeScript",
+    "stars": 7496,
+    "forks": 522,
+    "starsInPeriod": 18
+  },
+  {
+    "author": "mongodb-js",
+    "name": "boxednode",
+    "href": "https://github.com/mongodb-js/boxednode",
+    "description": "📦 boxednode – Ship a JS file with Node.js in a box",
+    "language": "TypeScript",
+    "stars": 309,
+    "forks": 4,
+    "starsInPeriod": 32
+  },
+  {
+    "author": "angular",
+    "name": "components",
+    "href": "https://github.com/angular/components",
+    "description": "Component infrastructure and Material Design components for Angular",
+    "language": "TypeScript",
+    "stars": 20445,
+    "forks": 5513,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "antfu",
+    "name": "vueuse",
+    "href": "https://github.com/antfu/vueuse",
+    "description": "🧰 Collection of Composition API utils for Vue 2 and 3",
+    "language": "TypeScript",
+    "stars": 1763,
+    "forks": 90,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "ajayyy",
+    "name": "SponsorBlock",
+    "href": "https://github.com/ajayyy/SponsorBlock",
+    "description": "Skip YouTube video sponsors (browser extension)",
+    "language": "TypeScript",
+    "stars": 1222,
+    "forks": 53,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "sveltejs",
+    "name": "sapper",
+    "href": "https://github.com/sveltejs/sapper",
+    "description": "The next small thing in web development, powered by Svelte",
+    "language": "TypeScript",
+    "stars": 6394,
+    "forks": 423,
+    "starsInPeriod": 6
   },
   {
     "author": "benawad",
@@ -195,58 +205,48 @@
     "href": "https://github.com/benawad/vscode-stories-serverless-image-uploader",
     "description": "uploads gifs to azure blob storage",
     "language": "TypeScript",
-    "stars": 68,
-    "forks": 4,
-    "starsInPeriod": 67
-  },
-  {
-    "author": "snowpackjs",
-    "name": "snowpack",
-    "href": "https://github.com/snowpackjs/snowpack",
-    "description": "WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️",
-    "language": "TypeScript",
-    "stars": 13133,
-    "forks": 503,
-    "starsInPeriod": 75
-  },
-  {
-    "author": "aws-amplify",
-    "name": "amplify-js",
-    "href": "https://github.com/aws-amplify/amplify-js",
-    "description": "A declarative JavaScript library for application development using cloud services.",
-    "language": "TypeScript",
-    "stars": 7503,
-    "forks": 1480,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "litmuschaos",
-    "name": "litmus",
-    "href": "https://github.com/litmuschaos/litmus",
-    "description": "Litmus helps Kubernetes SREs and developers practice chaos engineering in a Kubernetes native way. Chaos experiments are published at the ChaosHub (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q",
-    "language": "TypeScript",
-    "stars": 1298,
-    "forks": 296,
+    "stars": 82,
+    "forks": 5,
     "starsInPeriod": 14
   },
   {
-    "author": "cdr",
-    "name": "code-server",
-    "href": "https://github.com/cdr/code-server",
-    "description": "VS Code in the browser",
+    "author": "microsoft",
+    "name": "azure-pipelines-tasks",
+    "href": "https://github.com/microsoft/azure-pipelines-tasks",
+    "description": "Tasks for Azure Pipelines",
     "language": "TypeScript",
-    "stars": 36373,
-    "forks": 2796,
-    "starsInPeriod": 69
+    "stars": 2268,
+    "forks": 1746,
+    "starsInPeriod": 3
   },
   {
-    "author": "taniarascia",
-    "name": "takenote",
-    "href": "https://github.com/taniarascia/takenote",
-    "description": "📝 ‎ A free, open-source notes app for the web. (Demo only)",
+    "author": "erxes",
+    "name": "erxes",
+    "href": "https://github.com/erxes/erxes",
+    "description": "Free and open fair-code licensed all-in-one growth marketing & management software",
     "language": "TypeScript",
-    "stars": 2876,
-    "forks": 304,
-    "starsInPeriod": 8
+    "stars": 1408,
+    "forks": 561,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "pop-os",
+    "name": "shell",
+    "href": "https://github.com/pop-os/shell",
+    "description": "Pop!_OS Shell",
+    "language": "TypeScript",
+    "stars": 1930,
+    "forks": 98,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "aws-samples",
+    "name": "aws-secure-environment-accelerator",
+    "href": "https://github.com/aws-samples/aws-secure-environment-accelerator",
+    "description": "The AWS Secure Environment Accelerator is a tool designed to help deploy and operate secure multi-account AWS environments on an ongoing basis. The power of the solution is the configuration file which enables the completely automated deployment of customizable architectures within AWS without changing a single line of code.",
+    "language": "TypeScript",
+    "stars": 43,
+    "forks": 7,
+    "starsInPeriod": 6
   }
 ]
