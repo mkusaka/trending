@@ -1,51 +1,51 @@
 # c++
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+  - Awesome multilingual OCR toolkits based on PaddlePaddle （multilingual recognition: English, Chinese, Korean, Japanese, German, French etc. 3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）
+- [json](https://github.com/nlohmann/json)
+  - JSON for Modern C++
 - [openpilot](https://github.com/commaai/openpilot)
   - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
-- [DeepSpeech](https://github.com/mozilla/DeepSpeech)
-  - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
-- [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
-  - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly
-- [yaml-cpp](https://github.com/jbeder/yaml-cpp)
-  - A YAML parser and emitter in C++
-- [Marlin](https://github.com/MarlinFirmware/Marlin)
-  - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
-- [WLED](https://github.com/Aircoookie/WLED)
-  - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
-- [qBittorrent](https://github.com/qbittorrent/qBittorrent)
-  - qBittorrent BitTorrent client
-- [vosk-api](https://github.com/alphacep/vosk-api)
-  - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
-- [electron](https://github.com/electron/electron)
-  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [pytorch](https://github.com/pytorch/pytorch)
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [z3](https://github.com/Z3Prover/z3)
-  - The Z3 Theorem Prover
-- [faiss](https://github.com/facebookresearch/faiss)
-  - A library for efficient similarity search and clustering of dense vectors.
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [tdesktop](https://github.com/telegramdesktop/tdesktop)
-  - Telegram Desktop messaging app
-- [monero](https://github.com/monero-project/monero)
-  - Monero: the secure, private, untraceable cryptocurrency
-- [calculator](https://github.com/microsoft/calculator)
-  - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [grpc](https://github.com/grpc/grpc)
   - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-- [pybind11](https://github.com/pybind/pybind11)
-  - Seamless operability between C++11 and Python
-- [llvm-project](https://github.com/llvm/llvm-project)
-  - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
+- [mongo](https://github.com/mongodb/mongo)
+  - The MongoDB Database
+- [Open3D](https://github.com/intel-isl/Open3D)
+  - Open3D: A Modern Library for 3D Data Processing
+- [protobuf](https://github.com/protocolbuffers/protobuf)
+  - Protocol Buffers - Google's data interchange format
+- [Catch2](https://github.com/catchorg/Catch2)
+  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [srs](https://github.com/ossrs/srs)
+  - SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.
+- [spdlog](https://github.com/gabime/spdlog)
+  - Fast C++ logging library.
+- [QtScrcpy](https://github.com/barry-ran/QtScrcpy)
+  - Android real-time display control software
+- [yuzu](https://github.com/yuzu-emu/yuzu)
+  - Nintendo Switch Emulator
+- [electron](https://github.com/electron/electron)
+  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [capnproto](https://github.com/capnproto/capnproto)
+  - Cap'n Proto serialization/RPC system - core tools and C++ library
 - [MNN](https://github.com/alibaba/MNN)
   - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba
-- [MegEngine](https://github.com/MegEngine/MegEngine)
-  - MegEngine 是一个快速、可拓展、易于使用且支持自动求导的深度学习框架
-- [jetson-inference](https://github.com/dusty-nv/jetson-inference)
-  - Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
-- [typesense](https://github.com/typesense/typesense)
-  - Fast, typo tolerant search engine for building delightful search experiences.
-- [LeetCode-Solutions](https://github.com/SHY-Corp/LeetCode-Solutions)
-  - A compilation of all the Leetcode solutions.
-- [apollo](https://github.com/ApolloAuto/apollo)
-  - An open autonomous driving platform
+- [folly](https://github.com/facebook/folly)
+  - An open-source C++ library developed and used at Facebook.
+- [Hazel](https://github.com/TheCherno/Hazel)
+  - Hazel Engine
+- [trojan](https://github.com/trojan-gfw/trojan)
+  - An unidentifiable mechanism that helps you bypass GFW.
+- [Qv2ray](https://github.com/Qv2ray/Qv2ray)
+  - ⭐ Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / SOCKS5 | 使用 C++ / Qt5 开发 | 可拓展插件式设计 ⭐
+- [milvus](https://github.com/milvus-io/milvus)
+  - An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy
+- [pytorch](https://github.com/pytorch/pytorch)
+  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono)
+  - A Robust and Versatile Monocular Visual-Inertial State Estimator
+- [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)
+  - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects
+- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+  - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+- [pyxel](https://github.com/kitao/pyxel)
+  - A retro game engine for Python

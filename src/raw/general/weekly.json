@@ -1,223 +1,83 @@
 [
   {
-    "author": "fuzhengwei",
-    "name": "itstack-demo-design",
-    "href": "https://github.com/fuzhengwei/itstack-demo-design",
-    "description": "小傅哥微信：fustack |《重学Java设计模式「22个互联网真实案例实战」》技术好就一定能写出好代码吗？不能！再漂亮的马桶放到厨房都略显尴尬！无论是家里装修还是上道开车，只有通过实战才能快速将理论转变为技能。毕竟设计模式也是源于 克里斯托佛·亚历山大 的著作 《建筑模式语言》。",
-    "language": "Java",
-    "stars": 1321,
-    "forks": 330,
-    "starsInPeriod": 702
-  },
-  {
-    "author": "jonasschmedtmann",
-    "name": "complete-javascript-course",
-    "href": "https://github.com/jonasschmedtmann/complete-javascript-course",
-    "description": "Starter files, final projects and FAQ for my Complete JavaScript course",
-    "language": "JavaScript",
-    "stars": 5068,
-    "forks": 6559,
-    "starsInPeriod": 386
-  },
-  {
-    "author": "crowdsecurity",
-    "name": "crowdsec",
-    "href": "https://github.com/crowdsecurity/crowdsec",
-    "description": "Crowdsec - An open-source, lightweight agent to detect and respond to bad behaviours. It also automatically benefits from our global community-wide IP reputation database.",
-    "language": "Go",
-    "stars": 1411,
-    "forks": 53,
-    "starsInPeriod": 1088
-  },
-  {
-    "author": "lxk0301",
-    "name": "scripts",
-    "href": "https://github.com/lxk0301/scripts",
-    "description": "京东薅羊毛工具, 京东水果、宠物、种豆等等",
-    "language": "JavaScript",
-    "stars": 1273,
-    "forks": 1347,
-    "starsInPeriod": 474
-  },
-  {
-    "author": "hyb1996",
-    "name": "Auto.js",
-    "href": "https://github.com/hyb1996/Auto.js",
-    "description": "A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)",
-    "language": "Java",
-    "stars": 8062,
-    "forks": 2258,
-    "starsInPeriod": 446
-  },
-  {
-    "author": "TeamNewPipe",
-    "name": "NewPipe",
-    "href": "https://github.com/TeamNewPipe/NewPipe",
-    "description": "A libre lightweight streaming front-end for Android.",
-    "language": "Java",
-    "stars": 10964,
-    "forks": 1516,
-    "starsInPeriod": 284
-  },
-  {
-    "author": "soimort",
-    "name": "you-get",
-    "href": "https://github.com/soimort/you-get",
-    "description": "⏬ Dumb downloader that scrapes the web",
+    "author": "blackjack4494",
+    "name": "yt-dlc",
+    "href": "https://github.com/blackjack4494/yt-dlc",
+    "description": "media downloader for various sites.",
     "language": "Python",
-    "stars": 35727,
-    "forks": 7231,
-    "starsInPeriod": 341
+    "stars": 1548,
+    "forks": 255,
+    "starsInPeriod": 1298
   },
   {
-    "author": "nschurmann",
-    "name": "configs",
-    "href": "https://github.com/nschurmann/configs",
-    "description": "My neovim configuration",
-    "language": "Vim script",
-    "stars": 161,
-    "forks": 41,
-    "starsInPeriod": 77
-  },
-  {
-    "author": "charmbracelet",
-    "name": "glow",
-    "href": "https://github.com/charmbracelet/glow",
-    "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
-    "language": "Go",
-    "stars": 4950,
-    "forks": 85,
-    "starsInPeriod": 995
-  },
-  {
-    "author": "SpaceVim",
-    "name": "SpaceVim",
-    "href": "https://github.com/SpaceVim/SpaceVim",
-    "description": "A community-driven modular vim distribution - The ultimate vim configuration",
-    "language": "Vim script",
-    "stars": 15051,
-    "forks": 1233,
-    "starsInPeriod": 148
-  },
-  {
-    "author": "gofiber",
-    "name": "fiber",
-    "href": "https://github.com/gofiber/fiber",
-    "description": "⚡️ Express inspired web framework written in Go",
-    "language": "Go",
-    "stars": 9376,
-    "forks": 411,
-    "starsInPeriod": 542
-  },
-  {
-    "author": "commaai",
-    "name": "openpilot",
-    "href": "https://github.com/commaai/openpilot",
-    "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.",
-    "language": "C++",
-    "stars": 18004,
-    "forks": 4223,
-    "starsInPeriod": 626
-  },
-  {
-    "author": "aristocratos",
-    "name": "bpytop",
-    "href": "https://github.com/aristocratos/bpytop",
-    "description": "Linux/OSX/FreeBSD resource monitor",
+    "author": "l1ving",
+    "name": "youtube-dl",
+    "href": "https://github.com/l1ving/youtube-dl",
+    "description": "A fork of youtube-dl, for archival purposes.",
     "language": "Python",
-    "stars": 3515,
-    "forks": 124,
-    "starsInPeriod": 219
+    "stars": 1580,
+    "forks": 945,
+    "starsInPeriod": 1044
   },
   {
-    "author": "hashicorp",
-    "name": "waypoint",
-    "href": "https://github.com/hashicorp/waypoint",
-    "description": "A tool to build, deploy, and release any application on any platform.",
-    "language": "Go",
-    "stars": 2915,
-    "forks": 125,
-    "starsInPeriod": 685
+    "author": "hyue418",
+    "name": "taobao-11-11",
+    "href": "https://github.com/hyue418/taobao-11-11",
+    "description": "🚀2020淘宝+京东+支付宝双十一|双11全民养猫|全民营业自动化脚本【全额奖励，防检测】",
+    "language": "JavaScript",
+    "stars": 2409,
+    "forks": 954,
+    "starsInPeriod": 1231
   },
   {
-    "author": "CSSEGISandData",
-    "name": "COVID-19",
-    "href": "https://github.com/CSSEGISandData/COVID-19",
-    "description": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE",
-    "language": "",
-    "stars": 24480,
-    "forks": 15495,
-    "starsInPeriod": 153
-  },
-  {
-    "author": "tootsuite",
-    "name": "mastodon",
-    "href": "https://github.com/tootsuite/mastodon",
-    "description": "Your self-hosted, globally interconnected microblogging community",
-    "language": "Ruby",
-    "stars": 22110,
-    "forks": 3774,
-    "starsInPeriod": 93
-  },
-  {
-    "author": "pytorch",
-    "name": "fairseq",
-    "href": "https://github.com/pytorch/fairseq",
-    "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+    "author": "MrS0m30n3",
+    "name": "youtube-dl-gui",
+    "href": "https://github.com/MrS0m30n3/youtube-dl-gui",
+    "description": "A cross platform front-end GUI of the popular youtube-dl written in wxPython.",
     "language": "Python",
-    "stars": 9945,
-    "forks": 2473,
-    "starsInPeriod": 724
+    "stars": 5927,
+    "forks": 1085,
+    "starsInPeriod": 843
   },
   {
-    "author": "axios",
-    "name": "axios",
-    "href": "https://github.com/axios/axios",
-    "description": "Promise based HTTP client for the browser and node.js",
-    "language": "JavaScript",
-    "stars": 78178,
-    "forks": 7322,
-    "starsInPeriod": 264
+    "author": "github",
+    "name": "dmca",
+    "href": "https://github.com/github/dmca",
+    "description": "Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at",
+    "language": "Rich Text Format",
+    "stars": 4064,
+    "forks": 1144,
+    "starsInPeriod": 419
   },
   {
-    "author": "facebook",
-    "name": "react",
-    "href": "https://github.com/facebook/react",
-    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
-    "language": "JavaScript",
-    "stars": 158062,
-    "forks": 31257,
-    "starsInPeriod": 583
+    "author": "foxlet",
+    "name": "macOS-Simple-KVM",
+    "href": "https://github.com/foxlet/macOS-Simple-KVM",
+    "description": "Tools to set up a quick macOS VM in QEMU, accelerated by KVM.",
+    "language": "Shell",
+    "stars": 8391,
+    "forks": 659,
+    "starsInPeriod": 608
   },
   {
-    "author": "alibaba",
-    "name": "COLA",
-    "href": "https://github.com/alibaba/COLA",
-    "description": "Clean Object-oriented & Layered Architecture",
-    "language": "Java",
-    "stars": 3068,
-    "forks": 910,
-    "starsInPeriod": 66
+    "author": "scastillo",
+    "name": "not-youtube-dl",
+    "href": "https://github.com/scastillo/not-youtube-dl",
+    "description": "This is not youtube-dl",
+    "language": "Python",
+    "stars": 789,
+    "forks": 462,
+    "starsInPeriod": 431
   },
   {
-    "author": "gin-gonic",
-    "name": "gin",
-    "href": "https://github.com/gin-gonic/gin",
-    "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
-    "language": "Go",
-    "stars": 42669,
-    "forks": 4899,
-    "starsInPeriod": 209
-  },
-  {
-    "author": "huanzi-qch",
-    "name": "base-admin",
-    "href": "https://github.com/huanzi-qch/base-admin",
-    "description": "Base Admin一套简单通用的后台管理系统，主要功能有：权限管理、菜单管理、用户管理，系统设置、实时日志，实时监控，API加密，以及登录用户修改密码、配置个性菜单等",
-    "language": "Java",
-    "stars": 1331,
-    "forks": 715,
-    "starsInPeriod": 193
+    "author": "sherlock-project",
+    "name": "sherlock",
+    "href": "https://github.com/sherlock-project/sherlock",
+    "description": "🔎 Hunt down social media accounts by username across social networks",
+    "language": "Python",
+    "stars": 16609,
+    "forks": 1710,
+    "starsInPeriod": 1014
   },
   {
     "author": "GitSquared",
@@ -225,28 +85,168 @@
     "href": "https://github.com/GitSquared/edex-ui",
     "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
     "language": "JavaScript",
-    "stars": 18571,
-    "forks": 1056,
-    "starsInPeriod": 1716
+    "stars": 19634,
+    "forks": 1114,
+    "starsInPeriod": 1114
   },
   {
-    "author": "rubocop-hq",
-    "name": "rubocop",
-    "href": "https://github.com/rubocop-hq/rubocop",
-    "description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
-    "language": "Ruby",
-    "stars": 11120,
-    "forks": 2519,
-    "starsInPeriod": 37
-  },
-  {
-    "author": "microsoft",
-    "name": "nni",
-    "href": "https://github.com/microsoft/nni",
-    "description": "An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.",
+    "author": "quantopian",
+    "name": "zipline",
+    "href": "https://github.com/quantopian/zipline",
+    "description": "Zipline, a Pythonic Algorithmic Trading Library",
     "language": "Python",
-    "stars": 8129,
-    "forks": 1030,
-    "starsInPeriod": 481
+    "stars": 12514,
+    "forks": 3564,
+    "starsInPeriod": 444
+  },
+  {
+    "author": "bradtraversy",
+    "name": "loruki-website",
+    "href": "https://github.com/bradtraversy/loruki-website",
+    "description": "Cloud hosting website",
+    "language": "HTML",
+    "stars": 186,
+    "forks": 85,
+    "starsInPeriod": 119
+  },
+  {
+    "author": "kangvcar",
+    "name": "InfoSpider",
+    "href": "https://github.com/kangvcar/InfoSpider",
+    "description": "INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。",
+    "language": "Python",
+    "stars": 3055,
+    "forks": 590,
+    "starsInPeriod": 399
+  },
+  {
+    "author": "kubernetes-sigs",
+    "name": "aws-load-balancer-controller",
+    "href": "https://github.com/kubernetes-sigs/aws-load-balancer-controller",
+    "description": "A Kubernetes controller for Elastic Load Balancers",
+    "language": "Go",
+    "stars": 1804,
+    "forks": 599,
+    "starsInPeriod": 93
+  },
+  {
+    "author": "PaddlePaddle",
+    "name": "PaddleOCR",
+    "href": "https://github.com/PaddlePaddle/PaddleOCR",
+    "description": "Awesome multilingual OCR toolkits based on PaddlePaddle （multilingual recognition: English, Chinese, Korean, Japanese, German, French etc. 3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）",
+    "language": "C++",
+    "stars": 5955,
+    "forks": 1104,
+    "starsInPeriod": 1367
+  },
+  {
+    "author": "vercel",
+    "name": "next.js",
+    "href": "https://github.com/vercel/next.js",
+    "description": "The React Framework",
+    "language": "JavaScript",
+    "stars": 56305,
+    "forks": 9334,
+    "starsInPeriod": 1605
+  },
+  {
+    "author": "nlohmann",
+    "name": "json",
+    "href": "https://github.com/nlohmann/json",
+    "description": "JSON for Modern C++",
+    "language": "C++",
+    "stars": 21055,
+    "forks": 3715,
+    "starsInPeriod": 328
+  },
+  {
+    "author": "soimort",
+    "name": "you-get",
+    "href": "https://github.com/soimort/you-get",
+    "description": "⏬ Dumb downloader that scrapes the web",
+    "language": "Python",
+    "stars": 36423,
+    "forks": 7435,
+    "starsInPeriod": 719
+  },
+  {
+    "author": "fzaninotto",
+    "name": "Faker",
+    "href": "https://github.com/fzaninotto/Faker",
+    "description": "Faker is a PHP library that generates fake data for you",
+    "language": "PHP",
+    "stars": 25119,
+    "forks": 2850,
+    "starsInPeriod": 234
+  },
+  {
+    "author": "skeeto",
+    "name": "endlessh",
+    "href": "https://github.com/skeeto/endlessh",
+    "description": "SSH tarpit that slowly sends an endless banner",
+    "language": "C",
+    "stars": 3732,
+    "forks": 137,
+    "starsInPeriod": 420
+  },
+  {
+    "author": "3b1b",
+    "name": "manim",
+    "href": "https://github.com/3b1b/manim",
+    "description": "Animation engine for explanatory math videos",
+    "language": "Python",
+    "stars": 27339,
+    "forks": 3497,
+    "starsInPeriod": 1085
+  },
+  {
+    "author": "labuladong",
+    "name": "fucking-algorithm",
+    "href": "https://github.com/labuladong/fucking-algorithm",
+    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "language": "",
+    "stars": 68365,
+    "forks": 12692,
+    "starsInPeriod": 1948
+  },
+  {
+    "author": "commaai",
+    "name": "openpilot",
+    "href": "https://github.com/commaai/openpilot",
+    "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.",
+    "language": "C++",
+    "stars": 19085,
+    "forks": 4259,
+    "starsInPeriod": 1127
+  },
+  {
+    "author": "google-research",
+    "name": "google-research",
+    "href": "https://github.com/google-research/google-research",
+    "description": "Google Research",
+    "language": "Jupyter Notebook",
+    "stars": 13870,
+    "forks": 2743,
+    "starsInPeriod": 686
+  },
+  {
+    "author": "hoppscotch",
+    "name": "hoppscotch",
+    "href": "https://github.com/hoppscotch/hoppscotch",
+    "description": "👽 A free, fast and beautiful API request builder used by 100k+ developers. https://hoppscotch.io",
+    "language": "Vue",
+    "stars": 24861,
+    "forks": 1625,
+    "starsInPeriod": 722
+  },
+  {
+    "author": "hyb1996",
+    "name": "Auto.js",
+    "href": "https://github.com/hyb1996/Auto.js",
+    "description": "A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)",
+    "language": "Java",
+    "stars": 8403,
+    "forks": 2338,
+    "starsInPeriod": 358
   }
 ]

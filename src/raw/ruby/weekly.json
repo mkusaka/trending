@@ -1,153 +1,13 @@
 [
   {
-    "author": "tootsuite",
-    "name": "mastodon",
-    "href": "https://github.com/tootsuite/mastodon",
-    "description": "Your self-hosted, globally interconnected microblogging community",
-    "language": "Ruby",
-    "stars": 22110,
-    "forks": 3774,
-    "starsInPeriod": 93
-  },
-  {
-    "author": "rubocop-hq",
-    "name": "rubocop",
-    "href": "https://github.com/rubocop-hq/rubocop",
-    "description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
-    "language": "Ruby",
-    "stars": 11120,
-    "forks": 2519,
-    "starsInPeriod": 37
-  },
-  {
-    "author": "rails",
-    "name": "rails",
-    "href": "https://github.com/rails/rails",
-    "description": "Ruby on Rails",
-    "language": "Ruby",
-    "stars": 46740,
-    "forks": 18773,
-    "starsInPeriod": 73
-  },
-  {
-    "author": "faker-ruby",
-    "name": "faker",
-    "href": "https://github.com/faker-ruby/faker",
-    "description": "A library for generating fake data such as names, addresses, and phone numbers.",
-    "language": "Ruby",
-    "stars": 8937,
-    "forks": 2488,
-    "starsInPeriod": 12
-  },
-  {
-    "author": "opf",
-    "name": "openproject",
-    "href": "https://github.com/opf/openproject",
-    "description": "OpenProject is the leading open source project management software.",
-    "language": "Ruby",
-    "stars": 4292,
-    "forks": 1297,
-    "starsInPeriod": 57
-  },
-  {
-    "author": "rails",
-    "name": "webpacker",
-    "href": "https://github.com/rails/webpacker",
-    "description": "Use Webpack to manage app-like JavaScript modules in Rails",
-    "language": "Ruby",
-    "stars": 4910,
-    "forks": 1297,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "jsonapi-serializer",
-    "name": "jsonapi-serializer",
-    "href": "https://github.com/jsonapi-serializer/jsonapi-serializer",
-    "description": "A fast JSON:API serializer for Ruby (fork of Netflix/fast_jsonapi)",
-    "language": "Ruby",
-    "stars": 462,
-    "forks": 50,
-    "starsInPeriod": 17
-  },
-  {
-    "author": "heartcombo",
-    "name": "devise",
-    "href": "https://github.com/heartcombo/devise",
-    "description": "Flexible authentication solution for Rails with Warden.",
-    "language": "Ruby",
-    "stars": 21186,
-    "forks": 5098,
-    "starsInPeriod": 18
-  },
-  {
-    "author": "hashicorp",
-    "name": "vagrant",
-    "href": "https://github.com/hashicorp/vagrant",
-    "description": "Vagrant is a tool for building and distributing development environments.",
-    "language": "Ruby",
-    "stars": 20838,
-    "forks": 4008,
-    "starsInPeriod": 48
-  },
-  {
-    "author": "jekyll",
-    "name": "jekyll",
-    "href": "https://github.com/jekyll/jekyll",
-    "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
-    "language": "Ruby",
-    "stars": 41485,
-    "forks": 9077,
-    "starsInPeriod": 63
-  },
-  {
-    "author": "github",
-    "name": "explore",
-    "href": "https://github.com/github/explore",
-    "description": "Community-curated topic and collection pages on GitHub",
-    "language": "Ruby",
-    "stars": 1922,
-    "forks": 7549,
-    "starsInPeriod": 20
-  },
-  {
-    "author": "spree",
-    "name": "spree",
-    "href": "https://github.com/spree/spree",
-    "description": "Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:",
-    "language": "Ruby",
-    "stars": 10725,
-    "forks": 4580,
-    "starsInPeriod": 20
-  },
-  {
-    "author": "github",
-    "name": "linguist",
-    "href": "https://github.com/github/linguist",
-    "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
-    "language": "Ruby",
-    "stars": 8138,
-    "forks": 2951,
-    "starsInPeriod": 25
-  },
-  {
     "author": "huginn",
     "name": "huginn",
     "href": "https://github.com/huginn/huginn",
     "description": "Create agents that monitor and act on your behalf. Your agents are standing by!",
     "language": "Ruby",
-    "stars": 29852,
-    "forks": 2828,
-    "starsInPeriod": 59
-  },
-  {
-    "author": "fluent",
-    "name": "fluentd",
-    "href": "https://github.com/fluent/fluentd",
-    "description": "Fluentd: Unified Logging Layer (project under CNCF)",
-    "language": "Ruby",
-    "stars": 9652,
-    "forks": 1114,
-    "starsInPeriod": 26
+    "stars": 29958,
+    "forks": 2837,
+    "starsInPeriod": 120
   },
   {
     "author": "rapid7",
@@ -155,9 +15,29 @@
     "href": "https://github.com/rapid7/metasploit-framework",
     "description": "Metasploit Framework",
     "language": "Ruby",
-    "stars": 21905,
-    "forks": 10560,
-    "starsInPeriod": 78
+    "stars": 21972,
+    "forks": 10587,
+    "starsInPeriod": 75
+  },
+  {
+    "author": "github",
+    "name": "explore",
+    "href": "https://github.com/github/explore",
+    "description": "Community-curated topic and collection pages on GitHub",
+    "language": "Ruby",
+    "stars": 1948,
+    "forks": 7607,
+    "starsInPeriod": 30
+  },
+  {
+    "author": "rails",
+    "name": "webpacker",
+    "href": "https://github.com/rails/webpacker",
+    "description": "Use Webpack to manage app-like JavaScript modules in Rails",
+    "language": "Ruby",
+    "stars": 4920,
+    "forks": 1303,
+    "starsInPeriod": 12
   },
   {
     "author": "solidusio",
@@ -165,88 +45,208 @@
     "href": "https://github.com/solidusio/solidus",
     "description": "🛒Solidus, Rails eCommerce System",
     "language": "Ruby",
-    "stars": 3319,
-    "forks": 968,
-    "starsInPeriod": 10
+    "stars": 3334,
+    "forks": 976,
+    "starsInPeriod": 15
   },
   {
-    "author": "mperham",
-    "name": "sidekiq",
-    "href": "https://github.com/mperham/sidekiq",
-    "description": "Simple, efficient background processing for Ruby",
+    "author": "faker-ruby",
+    "name": "faker",
+    "href": "https://github.com/faker-ruby/faker",
+    "description": "A library for generating fake data such as names, addresses, and phone numbers.",
     "language": "Ruby",
-    "stars": 10622,
-    "forks": 1868,
-    "starsInPeriod": 16
+    "stars": 8958,
+    "forks": 2496,
+    "starsInPeriod": 23
   },
   {
-    "author": "dtan4",
-    "name": "terraforming",
-    "href": "https://github.com/dtan4/terraforming",
-    "description": "Export existing AWS resources to Terraform style (tf, tfstate)",
+    "author": "jekyll",
+    "name": "jekyll",
+    "href": "https://github.com/jekyll/jekyll",
+    "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
     "language": "Ruby",
-    "stars": 3749,
-    "forks": 555,
-    "starsInPeriod": 21
-  },
-  {
-    "author": "sinatra",
-    "name": "sinatra",
-    "href": "https://github.com/sinatra/sinatra",
-    "description": "Classy web-development dressed in a DSL (official / canonical repo)",
-    "language": "Ruby",
-    "stars": 11103,
-    "forks": 1991,
-    "starsInPeriod": 10
-  },
-  {
-    "author": "fastlane",
-    "name": "fastlane",
-    "href": "https://github.com/fastlane/fastlane",
-    "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
-    "language": "Ruby",
-    "stars": 30001,
-    "forks": 4697,
+    "stars": 41535,
+    "forks": 9085,
     "starsInPeriod": 64
   },
   {
-    "author": "Homebrew",
-    "name": "linuxbrew-core",
-    "href": "https://github.com/Homebrew/linuxbrew-core",
-    "description": "🍻🐧 Core formulae for the Homebrew package manager on Linux",
+    "author": "ruby",
+    "name": "ruby",
+    "href": "https://github.com/ruby/ruby",
+    "description": "The Ruby Programming Language [mirror]",
     "language": "Ruby",
-    "stars": 893,
-    "forks": 414,
+    "stars": 17472,
+    "forks": 4657,
+    "starsInPeriod": 40
+  },
+  {
+    "author": "discourse",
+    "name": "discourse",
+    "href": "https://github.com/discourse/discourse",
+    "description": "A platform for community discussion. Free, open, simple.",
+    "language": "Ruby",
+    "stars": 31807,
+    "forks": 7024,
+    "starsInPeriod": 55
+  },
+  {
+    "author": "flyerhzm",
+    "name": "bullet",
+    "href": "https://github.com/flyerhzm/bullet",
+    "description": "help to kill N+1 queries and unused eager loading",
+    "language": "Ruby",
+    "stars": 6036,
+    "forks": 331,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "github",
+    "name": "scientist",
+    "href": "https://github.com/github/scientist",
+    "description": "🔬 A Ruby library for carefully refactoring critical paths.",
+    "language": "Ruby",
+    "stars": 5767,
+    "forks": 363,
+    "starsInPeriod": 28
+  },
+  {
+    "author": "chatwoot",
+    "name": "chatwoot",
+    "href": "https://github.com/chatwoot/chatwoot",
+    "description": "Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬",
+    "language": "Ruby",
+    "stars": 4757,
+    "forks": 505,
+    "starsInPeriod": 34
+  },
+  {
+    "author": "spree",
+    "name": "spree",
+    "href": "https://github.com/spree/spree",
+    "description": "Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:",
+    "language": "Ruby",
+    "stars": 10741,
+    "forks": 4592,
+    "starsInPeriod": 19
+  },
+  {
+    "author": "bigbluebutton",
+    "name": "greenlight",
+    "href": "https://github.com/bigbluebutton/greenlight",
+    "description": "A really simple end-user interface for your BigBlueButton server.",
+    "language": "Ruby",
+    "stars": 464,
+    "forks": 3010,
+    "starsInPeriod": 13
+  },
+  {
+    "author": "luggit",
+    "name": "react-native-config",
+    "href": "https://github.com/luggit/react-native-config",
+    "description": "Bring some 12 factor love to your mobile apps!",
+    "language": "Ruby",
+    "stars": 3345,
+    "forks": 543,
+    "starsInPeriod": 19
+  },
+  {
+    "author": "rails",
+    "name": "rails",
+    "href": "https://github.com/rails/rails",
+    "description": "Ruby on Rails",
+    "language": "Ruby",
+    "stars": 46782,
+    "forks": 18807,
+    "starsInPeriod": 56
+  },
+  {
+    "author": "UnlyEd",
+    "name": "next-right-now",
+    "href": "https://github.com/UnlyEd/next-right-now",
+    "description": "Flexible production-grade boilerplate with Next.js 10, Vercel and TypeScript. Includes multiple opt-in presets using Airtable, GraphQL, Analytics, CSS-in-JS, Monitoring, End-to-end testing, Internationalization, CI/CD and SaaS B2B multi single-tenancy (monorepo) support",
+    "language": "Ruby",
+    "stars": 447,
+    "forks": 35,
+    "starsInPeriod": 25
+  },
+  {
+    "author": "mame",
+    "name": "quine-relay",
+    "href": "https://github.com/mame/quine-relay",
+    "description": "An uroboros program with 100+ programming languages",
+    "language": "Ruby",
+    "stars": 9664,
+    "forks": 453,
+    "starsInPeriod": 50
+  },
+  {
+    "author": "busyloop",
+    "name": "lolcat",
+    "href": "https://github.com/busyloop/lolcat",
+    "description": "Rainbows and unicorns!",
+    "language": "Ruby",
+    "stars": 4262,
+    "forks": 163,
+    "starsInPeriod": 18
+  },
+  {
+    "author": "bayandin",
+    "name": "awesome-awesomeness",
+    "href": "https://github.com/bayandin/awesome-awesomeness",
+    "description": "A curated list of awesome awesomeness",
+    "language": "Ruby",
+    "stars": 26846,
+    "forks": 3325,
+    "starsInPeriod": 33
+  },
+  {
+    "author": "activerecord-hackery",
+    "name": "ransack",
+    "href": "https://github.com/activerecord-hackery/ransack",
+    "description": "Object-based searching.",
+    "language": "Ruby",
+    "stars": 4701,
+    "forks": 706,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "varvet",
+    "name": "pundit",
+    "href": "https://github.com/varvet/pundit",
+    "description": "Minimal authorization through OO design and pure Ruby classes",
+    "language": "Ruby",
+    "stars": 7070,
+    "forks": 544,
+    "starsInPeriod": 15
+  },
+  {
+    "author": "jsonapi-serializer",
+    "name": "jsonapi-serializer",
+    "href": "https://github.com/jsonapi-serializer/jsonapi-serializer",
+    "description": "A fast JSON:API serializer for Ruby (fork of Netflix/fast_jsonapi)",
+    "language": "Ruby",
+    "stars": 482,
+    "forks": 50,
+    "starsInPeriod": 21
+  },
+  {
+    "author": "hashicorp",
+    "name": "vault-rails",
+    "href": "https://github.com/hashicorp/vault-rails",
+    "description": "A Rails plugin for easily integrating Vault secrets",
+    "language": "Ruby",
+    "stars": 296,
+    "forks": 51,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "chef",
+    "name": "chef",
+    "href": "https://github.com/chef/chef",
+    "description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale",
+    "language": "Ruby",
+    "stars": 6389,
+    "forks": 2457,
     "starsInPeriod": 8
-  },
-  {
-    "author": "decidim",
-    "name": "decidim",
-    "href": "https://github.com/decidim/decidim",
-    "description": "The participatory democracy framework. A generator and multiple gems made with Ruby on Rails",
-    "language": "Ruby",
-    "stars": 792,
-    "forks": 247,
-    "starsInPeriod": 9
-  },
-  {
-    "author": "ankane",
-    "name": "ahoy",
-    "href": "https://github.com/ankane/ahoy",
-    "description": "Simple, powerful, first-party analytics for Rails",
-    "language": "Ruby",
-    "stars": 3130,
-    "forks": 315,
-    "starsInPeriod": 9
-  },
-  {
-    "author": "activeadmin",
-    "name": "activeadmin",
-    "href": "https://github.com/activeadmin/activeadmin",
-    "description": "The administration framework for Ruby on Rails applications.",
-    "language": "Ruby",
-    "stars": 8847,
-    "forks": 3155,
-    "starsInPeriod": 5
   }
 ]

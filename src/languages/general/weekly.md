@@ -1,51 +1,51 @@
 # general
-- [itstack-demo-design](https://github.com/fuzhengwei/itstack-demo-design) : Java
-  - 小傅哥微信：fustack |《重学Java设计模式「22个互联网真实案例实战」》技术好就一定能写出好代码吗？不能！再漂亮的马桶放到厨房都略显尴尬！无论是家里装修还是上道开车，只有通过实战才能快速将理论转变为技能。毕竟设计模式也是源于 克里斯托佛·亚历山大 的著作 《建筑模式语言》。
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course) : JavaScript
-  - Starter files, final projects and FAQ for my Complete JavaScript course
-- [crowdsec](https://github.com/crowdsecurity/crowdsec) : Go
-  - Crowdsec - An open-source, lightweight agent to detect and respond to bad behaviours. It also automatically benefits from our global community-wide IP reputation database.
-- [scripts](https://github.com/lxk0301/scripts) : JavaScript
-  - 京东薅羊毛工具, 京东水果、宠物、种豆等等
-- [Auto.js](https://github.com/hyb1996/Auto.js) : Java
-  - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
-- [NewPipe](https://github.com/TeamNewPipe/NewPipe) : Java
-  - A libre lightweight streaming front-end for Android.
-- [you-get](https://github.com/soimort/you-get) : Python
-  - ⏬ Dumb downloader that scrapes the web
-- [configs](https://github.com/nschurmann/configs) : Vim script
-  - My neovim configuration
-- [glow](https://github.com/charmbracelet/glow) : Go
-  - Render markdown on the CLI, with pizzazz! 💅🏻
-- [SpaceVim](https://github.com/SpaceVim/SpaceVim) : Vim script
-  - A community-driven modular vim distribution - The ultimate vim configuration
-- [fiber](https://github.com/gofiber/fiber) : Go
-  - ⚡️ Express inspired web framework written in Go
-- [openpilot](https://github.com/commaai/openpilot) : C++
-  - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
-- [bpytop](https://github.com/aristocratos/bpytop) : Python
-  - Linux/OSX/FreeBSD resource monitor
-- [waypoint](https://github.com/hashicorp/waypoint) : Go
-  - A tool to build, deploy, and release any application on any platform.
-- [COVID-19](https://github.com/CSSEGISandData/COVID-19) : 
-  - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [mastodon](https://github.com/tootsuite/mastodon) : Ruby
-  - Your self-hosted, globally interconnected microblogging community
-- [fairseq](https://github.com/pytorch/fairseq) : Python
-  - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
-- [axios](https://github.com/axios/axios) : JavaScript
-  - Promise based HTTP client for the browser and node.js
-- [react](https://github.com/facebook/react) : JavaScript
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [COLA](https://github.com/alibaba/COLA) : Java
-  - Clean Object-oriented & Layered Architecture
-- [gin](https://github.com/gin-gonic/gin) : Go
-  - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [base-admin](https://github.com/huanzi-qch/base-admin) : Java
-  - Base Admin一套简单通用的后台管理系统，主要功能有：权限管理、菜单管理、用户管理，系统设置、实时日志，实时监控，API加密，以及登录用户修改密码、配置个性菜单等
+- [yt-dlc](https://github.com/blackjack4494/yt-dlc) : Python
+  - media downloader for various sites.
+- [youtube-dl](https://github.com/l1ving/youtube-dl) : Python
+  - A fork of youtube-dl, for archival purposes.
+- [taobao-11-11](https://github.com/hyue418/taobao-11-11) : JavaScript
+  - 🚀2020淘宝+京东+支付宝双十一|双11全民养猫|全民营业自动化脚本【全额奖励，防检测】
+- [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) : Python
+  - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
+- [dmca](https://github.com/github/dmca) : Rich Text Format
+  - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
+- [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) : Shell
+  - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
+- [not-youtube-dl](https://github.com/scastillo/not-youtube-dl) : Python
+  - This is not youtube-dl
+- [sherlock](https://github.com/sherlock-project/sherlock) : Python
+  - 🔎 Hunt down social media accounts by username across social networks
 - [edex-ui](https://github.com/GitSquared/edex-ui) : JavaScript
   - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [rubocop](https://github.com/rubocop-hq/rubocop) : Ruby
-  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [nni](https://github.com/microsoft/nni) : Python
-  - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
+- [zipline](https://github.com/quantopian/zipline) : Python
+  - Zipline, a Pythonic Algorithmic Trading Library
+- [loruki-website](https://github.com/bradtraversy/loruki-website) : HTML
+  - Cloud hosting website
+- [InfoSpider](https://github.com/kangvcar/InfoSpider) : Python
+  - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
+- [aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller) : Go
+  - A Kubernetes controller for Elastic Load Balancers
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) : C++
+  - Awesome multilingual OCR toolkits based on PaddlePaddle （multilingual recognition: English, Chinese, Korean, Japanese, German, French etc. 3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）
+- [next.js](https://github.com/vercel/next.js) : JavaScript
+  - The React Framework
+- [json](https://github.com/nlohmann/json) : C++
+  - JSON for Modern C++
+- [you-get](https://github.com/soimort/you-get) : Python
+  - ⏬ Dumb downloader that scrapes the web
+- [Faker](https://github.com/fzaninotto/Faker) : PHP
+  - Faker is a PHP library that generates fake data for you
+- [endlessh](https://github.com/skeeto/endlessh) : C
+  - SSH tarpit that slowly sends an endless banner
+- [manim](https://github.com/3b1b/manim) : Python
+  - Animation engine for explanatory math videos
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+- [openpilot](https://github.com/commaai/openpilot) : C++
+  - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
+- [google-research](https://github.com/google-research/google-research) : Jupyter Notebook
+  - Google Research
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) : Vue
+  - 👽 A free, fast and beautiful API request builder used by 100k+ developers. https://hoppscotch.io
+- [Auto.js](https://github.com/hyb1996/Auto.js) : Java
+  - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
