@@ -1,51 +1,51 @@
 # kotlin
-- [NotyKT](https://github.com/PatilShreyas/NotyKT)
-  - 📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.
-- [kotlin](https://github.com/JetBrains/kotlin)
-  - The Kotlin Programming Language
-- [fenix](https://github.com/mozilla-mobile/fenix)
-  - Firefox for Android
-- [iosched](https://github.com/google/iosched)
-  - The Google I/O 2019 Android App
-- [plaid](https://github.com/android/plaid)
-  - An Android app which provides design news & inspiration as well as being an example of implementing material design.
-- [client](https://github.com/kami-blue/client)
-  - KAMI Blue: a continuation of KAMI | LOOKING FOR MAINTAINERS. CHECK README.
-- [sunflower](https://github.com/android/sunflower)
-  - A gardening app illustrating Android development best practices with Android Jetpack.
-- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android)
-  - Native Android app using the Apple/Google exposure notification API.
-- [karel](https://github.com/fredoverflow/karel)
-  - Karel The Robot
-- [architecture-components-samples](https://github.com/android/architecture-components-samples)
-  - Samples for Android Architecture Components.
-- [TapTap](https://github.com/KieronQuinn/TapTap)
-  - Port of the double tap on back of device feature from Android 11 to any Android 7.0+ device
-- [tachiyomi](https://github.com/inorichi/tachiyomi)
-  - Free and open source manga reader for Android
-- [AnimeXStream](https://github.com/mukul500/AnimeXStream)
-  - An Android app to watch anime on your phone without ads.
-- [KotlinUdemy](https://github.com/hussien89aa/KotlinUdemy)
-  - Learn how to make online games, and apps for Android O, like Pokémon , twitter,Tic Tac Toe, and notepad using Kotlin
 - [VancedManager](https://github.com/YTVanced/VancedManager)
   - Vanced Installer
-- [Unciv](https://github.com/yairm210/Unciv)
-  - Open-source Android/Desktop remake of Civ V
-- [material-components-android-examples](https://github.com/material-components/material-components-android-examples)
-  - Companion example apps and code for MDC-Android.
-- [RxTool](https://github.com/Tamsiree/RxTool)
-  - Android开发人员不得不收集的工具类集合 | 支付宝支付 | 微信支付（统一下单） | 微信分享 | Zip4j压缩（支持分卷压缩与加密） | 一键集成UCrop选择圆形头像 | 一键集成二维码和条形码的扫描与生成 | 常用Dialog | WebView的封装可播放视频 | 仿斗鱼滑动验证码 | Toast封装 | 震动 | GPS | Location定位 | 图片缩放 | Exif 图片添加地理位置信息（经纬度） | 蛛网等级 | 颜色选择器 | ArcGis | VTPK | 编译运行一下说不定会找到惊喜
-- [badge-magic-android](https://github.com/fossasia/badge-magic-android)
-  - Badge Magic with LEDs - Android App https://play.google.com/apps/testing/org.fossasia.badgemagic
-- [legado](https://github.com/gedoor/legado)
-  - 阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+- [client](https://github.com/kami-blue/client)
+  - KAMI Blue: a continuation of KAMI | LOOKING FOR MAINTAINERS. CHECK README.
+- [NotyKT](https://github.com/PatilShreyas/NotyKT)
+  - 📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.
+- [Music-Player-GO](https://github.com/enricocid/Music-Player-GO)
+  - 🎶🎼 Very slim music player 👨‍🎤 100% made in Italy 🍕🌳🌞🍝🌄
+- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android)
+  - Native Android app using the Apple/Google exposure notification API.
+- [fenix](https://github.com/mozilla-mobile/fenix)
+  - Firefox for Android
+- [PeopleInSpace](https://github.com/joreilly/PeopleInSpace)
+  - Minimal Kotlin Multiplatform project using Jetpack Compose and SwiftUI
+- [v2rayNG](https://github.com/2dust/v2rayNG)
+  - 
+- [android-kotlin-fundamentals-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-apps)
+  - android-kotlin-fundamentals-apps
+- [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser)
+  - A lightweight Android browser with modern navigation
+- [tasks](https://github.com/tasks/tasks)
+  - Bringing Astrid Tasks back from the dead
+- [kotlin](https://github.com/JetBrains/kotlin)
+  - The Kotlin Programming Language
+- [Learn-Jetpack-Compose-By-Example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example)
+  - 🚀 This project contains various examples that show how you would do things the "Jetpack Compose" way
+- [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook)
+  - A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential
+- [VPNHotspot](https://github.com/Mygod/VPNHotspot)
+  - Share your VPN connection over hotspot or repeater! (root required)
+- [tachiyomi-extensions](https://github.com/inorichi/tachiyomi-extensions)
+  - 
+- [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd)
+  - Main UserLAnd Repository
+- [karel](https://github.com/fredoverflow/karel)
+  - Karel The Robot
+- [tachiyomi](https://github.com/inorichi/tachiyomi)
+  - Free and open source manga reader for Android
 - [ktor-samples](https://github.com/ktorio/ktor-samples)
   - Sample projects for Ktor
-- [tornadofx](https://github.com/edvin/tornadofx)
-  - Lightweight JavaFX Framework for Kotlin
-- [XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools)
-  - A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot
-- [Konfetti](https://github.com/DanielMartinus/Konfetti)
-  - Celebrate more with this lightweight confetti particle system 🎊
-- [coil](https://github.com/coil-kt/coil)
-  - Image loading for Android backed by Kotlin Coroutines.
+- [sqldelight](https://github.com/cashapp/sqldelight)
+  - SQLDelight - Generates typesafe Kotlin APIs from SQL
+- [android-youtube-player](https://github.com/PierfrancescoSoffritti/android-youtube-player)
+  - YouTube Player library for Android and Chromecast, stable and customizable.
+- [architecture-components-samples](https://github.com/android/architecture-components-samples)
+  - Samples for Android Architecture Components.
+- [Loritta](https://github.com/LorittaBot/Loritta)
+  - 💁 A multipurpose, multilanguage, customizable, modular, and very cute bot for Discord using JDA! ~Making your server more awesome~
+- [TapTap](https://github.com/KieronQuinn/TapTap)
+  - Port of the double tap on back of device feature from Android 11 to any Android 7.0+ device

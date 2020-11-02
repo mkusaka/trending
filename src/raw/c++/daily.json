@@ -1,93 +1,43 @@
 [
   {
-    "author": "microsoft",
-    "name": "PowerToys",
-    "href": "https://github.com/microsoft/PowerToys",
-    "description": "Windows system utilities to maximize productivity",
-    "language": "C++",
-    "stars": 40902,
-    "forks": 2224,
-    "starsInPeriod": 246
-  },
-  {
     "author": "Aircoookie",
     "name": "WLED",
     "href": "https://github.com/Aircoookie/WLED",
     "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
     "language": "C++",
-    "stars": 3216,
-    "forks": 567,
-    "starsInPeriod": 15
-  },
-  {
-    "author": "CMU-Perceptual-Computing-Lab",
-    "name": "openpose",
-    "href": "https://github.com/CMU-Perceptual-Computing-Lab/openpose",
-    "description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation",
-    "language": "C++",
-    "stars": 19024,
-    "forks": 5768,
-    "starsInPeriod": 33
-  },
-  {
-    "author": "minetest",
-    "name": "minetest",
-    "href": "https://github.com/minetest/minetest",
-    "description": "Minetest is an open source voxel game engine with easy modding and game creation",
-    "language": "C++",
-    "stars": 5522,
-    "forks": 1291,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "CppCon",
-    "name": "CppCon2020",
-    "href": "https://github.com/CppCon/CppCon2020",
-    "description": "Slides and other materials from CppCon 2020",
-    "language": "C++",
-    "stars": 757,
-    "forks": 71,
-    "starsInPeriod": 20
-  },
-  {
-    "author": "JoeyDeVries",
-    "name": "LearnOpenGL",
-    "href": "https://github.com/JoeyDeVries/LearnOpenGL",
-    "description": "Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com",
-    "language": "C++",
-    "stars": 4798,
-    "forks": 1435,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "ValveSoftware",
-    "name": "openvr",
-    "href": "https://github.com/ValveSoftware/openvr",
-    "description": "OpenVR SDK",
-    "language": "C++",
-    "stars": 4446,
-    "forks": 1068,
-    "starsInPeriod": 10
-  },
-  {
-    "author": "bigtreetech",
-    "name": "BIGTREETECH-SKR-mini-E3",
-    "href": "https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3",
-    "description": "BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.",
-    "language": "C++",
-    "stars": 769,
-    "forks": 1061,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "ocornut",
-    "name": "imgui",
-    "href": "https://github.com/ocornut/imgui",
-    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
-    "language": "C++",
-    "stars": 24261,
-    "forks": 4099,
+    "stars": 3252,
+    "forks": 571,
     "starsInPeriod": 34
+  },
+  {
+    "author": "ns1",
+    "name": "pktvisor",
+    "href": "https://github.com/ns1/pktvisor",
+    "description": "pktvisor summarizes data streams in real time and provides a clean, time-windowed HTTP interface and command line UI to the results.",
+    "language": "C++",
+    "stars": 223,
+    "forks": 12,
+    "starsInPeriod": 23
+  },
+  {
+    "author": "godotengine",
+    "name": "godot",
+    "href": "https://github.com/godotengine/godot",
+    "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "language": "C++",
+    "stars": 34415,
+    "forks": 6518,
+    "starsInPeriod": 32
+  },
+  {
+    "author": "microsoft",
+    "name": "PowerToys",
+    "href": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C++",
+    "stars": 41041,
+    "forks": 2231,
+    "starsInPeriod": 109
   },
   {
     "author": "DrKLO",
@@ -95,158 +45,208 @@
     "href": "https://github.com/DrKLO/Telegram",
     "description": "Telegram for Android source",
     "language": "C++",
-    "stars": 15028,
-    "forks": 5508,
-    "starsInPeriod": 30
-  },
-  {
-    "author": "FreeCAD",
-    "name": "FreeCAD",
-    "href": "https://github.com/FreeCAD/FreeCAD",
-    "description": "This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker",
-    "language": "C++",
-    "stars": 7925,
-    "forks": 2016,
-    "starsInPeriod": 25
-  },
-  {
-    "author": "taichi-dev",
-    "name": "taichi",
-    "href": "https://github.com/taichi-dev/taichi",
-    "description": "Productive & portable programming language for high-performance, sparse & differentiable computing on GPUs",
-    "language": "C++",
-    "stars": 12460,
-    "forks": 1345,
-    "starsInPeriod": 12
-  },
-  {
-    "author": "MarlinFirmware",
-    "name": "Marlin",
-    "href": "https://github.com/MarlinFirmware/Marlin",
-    "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
-    "language": "C++",
-    "stars": 8646,
-    "forks": 12125,
-    "starsInPeriod": 18
-  },
-  {
-    "author": "HKUST-Aerial-Robotics",
-    "name": "Fast-Planner",
-    "href": "https://github.com/HKUST-Aerial-Robotics/Fast-Planner",
-    "description": "A Robust and Efficient Trajectory Planner for Quadrotors",
-    "language": "C++",
-    "stars": 475,
-    "forks": 203,
-    "starsInPeriod": 35
-  },
-  {
-    "author": "PCSX2",
-    "name": "pcsx2",
-    "href": "https://github.com/PCSX2/pcsx2",
-    "description": "PCSX2 - The Playstation 2 Emulator",
-    "language": "C++",
-    "stars": 4490,
-    "forks": 751,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "x64dbg",
-    "name": "ScyllaHide",
-    "href": "https://github.com/x64dbg/ScyllaHide",
-    "description": "Advanced usermode anti-anti-debugger. Forked from https://bitbucket.org/NtQuery/scyllahide",
-    "language": "C++",
-    "stars": 1743,
-    "forks": 192,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "microsoft",
-    "name": "wil",
-    "href": "https://github.com/microsoft/wil",
-    "description": "Windows Implementation Library",
-    "language": "C++",
-    "stars": 1486,
-    "forks": 89,
-    "starsInPeriod": 10
-  },
-  {
-    "author": "microsoft",
-    "name": "terminal",
-    "href": "https://github.com/microsoft/terminal",
-    "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
-    "language": "C++",
-    "stars": 68972,
-    "forks": 6339,
-    "starsInPeriod": 94
-  },
-  {
-    "author": "esp8266",
-    "name": "Arduino",
-    "href": "https://github.com/esp8266/Arduino",
-    "description": "ESP8266 core for Arduino",
-    "language": "C++",
-    "stars": 12020,
-    "forks": 10257,
-    "starsInPeriod": 12
-  },
-  {
-    "author": "tdlib",
-    "name": "td",
-    "href": "https://github.com/tdlib/td",
-    "description": "Cross-platform library for building Telegram clients",
-    "language": "C++",
-    "stars": 2986,
-    "forks": 604,
+    "stars": 15034,
+    "forks": 5511,
     "starsInPeriod": 9
   },
   {
-    "author": "doitsujin",
-    "name": "dxvk",
-    "href": "https://github.com/doitsujin/dxvk",
-    "description": "Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine",
+    "author": "electron",
+    "name": "electron",
+    "href": "https://github.com/electron/electron",
+    "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
     "language": "C++",
-    "stars": 5662,
-    "forks": 279,
-    "starsInPeriod": 17
+    "stars": 86709,
+    "forks": 11644,
+    "starsInPeriod": 34
   },
   {
-    "author": "microsoft",
-    "name": "vcpkg",
-    "href": "https://github.com/microsoft/vcpkg",
-    "description": "C++ Library Manager for Windows, Linux, and MacOS",
+    "author": "trojan-gfw",
+    "name": "trojan",
+    "href": "https://github.com/trojan-gfw/trojan",
+    "description": "An unidentifiable mechanism that helps you bypass GFW.",
     "language": "C++",
-    "stars": 10771,
-    "forks": 2961,
-    "starsInPeriod": 23
+    "stars": 13324,
+    "forks": 2433,
+    "starsInPeriod": 10
   },
   {
-    "author": "RPCS3",
-    "name": "rpcs3",
-    "href": "https://github.com/RPCS3/rpcs3",
-    "description": "PS3 emulator/debugger",
+    "author": "ValveSoftware",
+    "name": "Proton",
+    "href": "https://github.com/ValveSoftware/Proton",
+    "description": "Compatibility tool for Steam Play based on Wine and additional components",
     "language": "C++",
-    "stars": 8453,
-    "forks": 1379,
-    "starsInPeriod": 7
+    "stars": 12280,
+    "forks": 484,
+    "starsInPeriod": 9
   },
   {
-    "author": "tensorflow",
-    "name": "tensorflow",
-    "href": "https://github.com/tensorflow/tensorflow",
-    "description": "An Open Source Machine Learning Framework for Everyone",
+    "author": "qbittorrent",
+    "name": "qBittorrent",
+    "href": "https://github.com/qbittorrent/qBittorrent",
+    "description": "qBittorrent BitTorrent client",
     "language": "C++",
-    "stars": 149731,
-    "forks": 83124,
-    "starsInPeriod": 93
+    "stars": 10401,
+    "forks": 1875,
+    "starsInPeriod": 13
   },
   {
-    "author": "pytorch",
-    "name": "pytorch",
-    "href": "https://github.com/pytorch/pytorch",
-    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "author": "skypjack",
+    "name": "entt",
+    "href": "https://github.com/skypjack/entt",
+    "description": "Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more",
     "language": "C++",
-    "stars": 43541,
-    "forks": 11418,
-    "starsInPeriod": 61
+    "stars": 4240,
+    "forks": 377,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "topjohnwu",
+    "name": "Magisk",
+    "href": "https://github.com/topjohnwu/Magisk",
+    "description": "The Magic Mask for Android",
+    "language": "C++",
+    "stars": 13939,
+    "forks": 2281,
+    "starsInPeriod": 16
+  },
+  {
+    "author": "Xaymar",
+    "name": "obs-StreamFX",
+    "href": "https://github.com/Xaymar/obs-StreamFX",
+    "description": "Bring your stream back to life with modern effects!",
+    "language": "C++",
+    "stars": 753,
+    "forks": 86,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "miharix",
+    "name": "miharix-wifi-rc",
+    "href": "https://github.com/miharix/miharix-wifi-rc",
+    "description": "PCB and Example Software for making super cheap RC control over WiFi (mobile phone,tablet,...)",
+    "language": "C++",
+    "stars": 34,
+    "forks": 5,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "Palakis",
+    "name": "obs-websocket",
+    "href": "https://github.com/Palakis/obs-websocket",
+    "description": "Remote-control OBS Studio through WebSockets",
+    "language": "C++",
+    "stars": 1380,
+    "forks": 266,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "zhongyang219",
+    "name": "TrafficMonitor",
+    "href": "https://github.com/zhongyang219/TrafficMonitor",
+    "description": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。",
+    "language": "C++",
+    "stars": 9598,
+    "forks": 1215,
+    "starsInPeriod": 15
+  },
+  {
+    "author": "me-no-dev",
+    "name": "ESPAsyncWebServer",
+    "href": "https://github.com/me-no-dev/ESPAsyncWebServer",
+    "description": "Async Web Server for ESP8266 and ESP32",
+    "language": "C++",
+    "stars": 1503,
+    "forks": 451,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "LMMS",
+    "name": "lmms",
+    "href": "https://github.com/LMMS/lmms",
+    "description": "Cross-platform music production software",
+    "language": "C++",
+    "stars": 4398,
+    "forks": 678,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "carla-simulator",
+    "name": "carla",
+    "href": "https://github.com/carla-simulator/carla",
+    "description": "Open-source simulator for autonomous driving research.",
+    "language": "C++",
+    "stars": 5120,
+    "forks": 1502,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "Chatterino",
+    "name": "chatterino2",
+    "href": "https://github.com/Chatterino/chatterino2",
+    "description": "Chat client for https://twitch.tv",
+    "language": "C++",
+    "stars": 548,
+    "forks": 130,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "mamedev",
+    "name": "mame",
+    "href": "https://github.com/mamedev/mame",
+    "description": "MAME",
+    "language": "C++",
+    "stars": 4772,
+    "forks": 1207,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "rathena",
+    "name": "rathena",
+    "href": "https://github.com/rathena/rathena",
+    "description": "rAthena is an open-source cross-platform MMORPG server.",
+    "language": "C++",
+    "stars": 1556,
+    "forks": 1458,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "bitcoin",
+    "name": "bitcoin",
+    "href": "https://github.com/bitcoin/bitcoin",
+    "description": "Bitcoin Core integration/staging tree",
+    "language": "C++",
+    "stars": 45742,
+    "forks": 26548,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "changkun",
+    "name": "modern-cpp-tutorial",
+    "href": "https://github.com/changkun/modern-cpp-tutorial",
+    "description": "📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly",
+    "language": "C++",
+    "stars": 8343,
+    "forks": 1152,
+    "starsInPeriod": 43
+  },
+  {
+    "author": "mongoose-os-apps",
+    "name": "shelly-homekit",
+    "href": "https://github.com/mongoose-os-apps/shelly-homekit",
+    "description": "Apple HomeKit firmware for Shelly switches",
+    "language": "C++",
+    "stars": 300,
+    "forks": 44,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "otland",
+    "name": "forgottenserver",
+    "href": "https://github.com/otland/forgottenserver",
+    "description": "A free and open-source MMORPG server emulator written in C++",
+    "language": "C++",
+    "stars": 965,
+    "forks": 731,
+    "starsInPeriod": 1
   }
 ]

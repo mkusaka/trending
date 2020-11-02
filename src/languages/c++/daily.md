@@ -1,51 +1,51 @@
 # c++
-- [PowerToys](https://github.com/microsoft/PowerToys)
-  - Windows system utilities to maximize productivity
 - [WLED](https://github.com/Aircoookie/WLED)
   - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
-- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
-  - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
-- [minetest](https://github.com/minetest/minetest)
-  - Minetest is an open source voxel game engine with easy modding and game creation
-- [CppCon2020](https://github.com/CppCon/CppCon2020)
-  - Slides and other materials from CppCon 2020
-- [LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL)
-  - Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com
-- [openvr](https://github.com/ValveSoftware/openvr)
-  - OpenVR SDK
-- [BIGTREETECH-SKR-mini-E3](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3)
-  - BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.
-- [imgui](https://github.com/ocornut/imgui)
-  - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+- [pktvisor](https://github.com/ns1/pktvisor)
+  - pktvisor summarizes data streams in real time and provides a clean, time-windowed HTTP interface and command line UI to the results.
+- [godot](https://github.com/godotengine/godot)
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [PowerToys](https://github.com/microsoft/PowerToys)
+  - Windows system utilities to maximize productivity
 - [Telegram](https://github.com/DrKLO/Telegram)
   - Telegram for Android source
-- [FreeCAD](https://github.com/FreeCAD/FreeCAD)
-  - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker
-- [taichi](https://github.com/taichi-dev/taichi)
-  - Productive & portable programming language for high-performance, sparse & differentiable computing on GPUs
-- [Marlin](https://github.com/MarlinFirmware/Marlin)
-  - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
-- [Fast-Planner](https://github.com/HKUST-Aerial-Robotics/Fast-Planner)
-  - A Robust and Efficient Trajectory Planner for Quadrotors
-- [pcsx2](https://github.com/PCSX2/pcsx2)
-  - PCSX2 - The Playstation 2 Emulator
-- [ScyllaHide](https://github.com/x64dbg/ScyllaHide)
-  - Advanced usermode anti-anti-debugger. Forked from https://bitbucket.org/NtQuery/scyllahide
-- [wil](https://github.com/microsoft/wil)
-  - Windows Implementation Library
-- [terminal](https://github.com/microsoft/terminal)
-  - The new Windows Terminal and the original Windows console host, all in the same place!
-- [Arduino](https://github.com/esp8266/Arduino)
-  - ESP8266 core for Arduino
-- [td](https://github.com/tdlib/td)
-  - Cross-platform library for building Telegram clients
-- [dxvk](https://github.com/doitsujin/dxvk)
-  - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
-- [vcpkg](https://github.com/microsoft/vcpkg)
-  - C++ Library Manager for Windows, Linux, and MacOS
-- [rpcs3](https://github.com/RPCS3/rpcs3)
-  - PS3 emulator/debugger
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [pytorch](https://github.com/pytorch/pytorch)
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [electron](https://github.com/electron/electron)
+  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [trojan](https://github.com/trojan-gfw/trojan)
+  - An unidentifiable mechanism that helps you bypass GFW.
+- [Proton](https://github.com/ValveSoftware/Proton)
+  - Compatibility tool for Steam Play based on Wine and additional components
+- [qBittorrent](https://github.com/qbittorrent/qBittorrent)
+  - qBittorrent BitTorrent client
+- [entt](https://github.com/skypjack/entt)
+  - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
+- [Magisk](https://github.com/topjohnwu/Magisk)
+  - The Magic Mask for Android
+- [obs-StreamFX](https://github.com/Xaymar/obs-StreamFX)
+  - Bring your stream back to life with modern effects!
+- [miharix-wifi-rc](https://github.com/miharix/miharix-wifi-rc)
+  - PCB and Example Software for making super cheap RC control over WiFi (mobile phone,tablet,...)
+- [obs-websocket](https://github.com/Palakis/obs-websocket)
+  - Remote-control OBS Studio through WebSockets
+- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
+  - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+- [ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer)
+  - Async Web Server for ESP8266 and ESP32
+- [lmms](https://github.com/LMMS/lmms)
+  - Cross-platform music production software
+- [carla](https://github.com/carla-simulator/carla)
+  - Open-source simulator for autonomous driving research.
+- [chatterino2](https://github.com/Chatterino/chatterino2)
+  - Chat client for https://twitch.tv
+- [mame](https://github.com/mamedev/mame)
+  - MAME
+- [rathena](https://github.com/rathena/rathena)
+  - rAthena is an open-source cross-platform MMORPG server.
+- [bitcoin](https://github.com/bitcoin/bitcoin)
+  - Bitcoin Core integration/staging tree
+- [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
+  - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly
+- [shelly-homekit](https://github.com/mongoose-os-apps/shelly-homekit)
+  - Apple HomeKit firmware for Shelly switches
+- [forgottenserver](https://github.com/otland/forgottenserver)
+  - A free and open-source MMORPG server emulator written in C++

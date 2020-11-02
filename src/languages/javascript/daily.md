@@ -1,51 +1,51 @@
 # javascript
 - [attestation-deplacement-derogatoire-q4-2020](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020)
   - attestation-deplacement-derogatoire-q4-2020 public
-- [semana-javascript-expert01](https://github.com/ErickWendel/semana-javascript-expert01)
-  - Exemplos de código da primeira semana Javascript Expert
 - [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
   - Roadmap to becoming an Artificial Intelligence Expert in 2020
-- [discord.js](https://github.com/discordjs/discord.js)
-  - A powerful JavaScript library for interacting with the Discord API
-- [beginners-intro-javascript-node](https://github.com/microsoft/beginners-intro-javascript-node)
-  - Beginner's Series: Introduction to JavaScript (Node.js)
-- [next.js](https://github.com/vercel/next.js)
-  - The React Framework
-- [iptv](https://github.com/iptv-org/iptv)
-  - Collection of 5000+ publicly available IPTV channels from all over the world
-- [bootstrap](https://github.com/twbs/bootstrap)
-  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-  - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [semana-javascript-expert01](https://github.com/ErickWendel/semana-javascript-expert01)
+  - Exemplos de código da primeira semana Javascript Expert
 - [edex-ui](https://github.com/GitSquared/edex-ui)
   - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [telekom-data-usage-widget](https://github.com/marcjulianschwarz/telekom-data-usage-widget)
-  - Telekom Datennutzung Widget für iOS 14
-- [a32nx](https://github.com/flybywiresim/a32nx)
-  - The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.
-- [Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
-  - Signal — Private Messenger for Windows, Mac, and Linux
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [discord.js](https://github.com/discordjs/discord.js)
+  - A powerful JavaScript library for interacting with the Discord API
+- [MagicMirror](https://github.com/MichMich/MagicMirror)
+  - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
+- [iptv](https://github.com/iptv-org/iptv)
+  - Collection of 5000+ publicly available IPTV channels from all over the world
+- [corona-widget](https://github.com/rphl/corona-widget)
+  - COVID-19 Inzidenz-Widget für iOS innerhalb Deutschlands 🇩🇪 (Kreis/Stadt + Bundesland + Trend)
+- [winXP](https://github.com/ShizukuIchi/winXP)
+  - 🏁 Web based Windows XP desktop recreation.
 - [realworld](https://github.com/gothinkster/realworld)
   - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [Ghost](https://github.com/TryGhost/Ghost)
-  - 👻 The #1 headless Node.js CMS for professional publishing
-- [shields](https://github.com/badges/shields)
-  - Concise, consistent, and legible badges in SVG and raster format
-- [Weather-Cal](https://github.com/mzeryck/Weather-Cal)
-  - This is a Scriptable widget that lets you display, position, and format multiple elements, including dates and events, weather information, battery level, and more. You can even create your own elements.
-- [Worn-Off-Keys-Discord-Js](https://github.com/AlexzanderFlores/Worn-Off-Keys-Discord-Js)
+- [next.js](https://github.com/vercel/next.js)
+  - The React Framework
+- [svelte](https://github.com/sveltejs/svelte)
+  - Cybernetically enhanced web apps
+- [basic-js](https://github.com/AlreadyBored/basic-js)
   - 
-- [react-fundamentals](https://github.com/kentcdodds/react-fundamentals)
-  - Material for my React Fundamentals Workshop
-- [uBlock](https://github.com/gorhill/uBlock)
-  - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-- [online](https://github.com/CollaboraOnline/online)
-  - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
-- [node-red](https://github.com/node-red/node-red)
-  - Low-code programming for event-driven applications
-- [Hacktoberfest-2020](https://github.com/OpenSourceTogether/Hacktoberfest-2020)
-  - Welcome to Open-source! Simply add your details to contributors | Repo for Hacktoberfest 2020 ✅
-- [opensource.guide](https://github.com/github/opensource.guide)
-  - 📚 Community guides for open source creators
+- [genshin-impact-wish-simulator](https://github.com/uzair-ashraf/genshin-impact-wish-simulator)
+  - A React web application to simulate Genshin Impact gacha in the browser
+- [p5.js](https://github.com/processing/p5.js)
+  - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
+- [beginners-intro-javascript-node](https://github.com/microsoft/beginners-intro-javascript-node)
+  - Beginner's Series: Introduction to JavaScript (Node.js)
+- [fspackages](https://github.com/Working-Title-MSFS-Mods/fspackages)
+  - Working Title FS Packages
+- [academicpages.github.io](https://github.com/academicpages/academicpages.github.io)
+  - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
+- [whatsapp-bot](https://github.com/MhankBarBar/whatsapp-bot)
+  - WhatsApp Bot
+- [tuyapi](https://github.com/codetheweb/tuyapi)
+  - 🌧 An easy-to-use API for devices that use Tuya's cloud services. Documentation: https://codetheweb.github.io/tuyapi.
+- [open-event-frontend](https://github.com/fossasia/open-event-frontend)
+  - The frontend for the Open Event API Server https://open-event-frontend.now.sh
+- [ccxt](https://github.com/ccxt/ccxt)
+  - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
+- [grocy](https://github.com/grocy/grocy)
+  - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
+- [DPlayer](https://github.com/MoePlayer/DPlayer)
+  - 🍭 Wow, such a lovely HTML5 danmaku video player

@@ -1,53 +1,13 @@
 [
   {
-    "author": "PatilShreyas",
-    "name": "NotyKT",
-    "href": "https://github.com/PatilShreyas/NotyKT",
-    "description": "📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.",
+    "author": "YTVanced",
+    "name": "VancedManager",
+    "href": "https://github.com/YTVanced/VancedManager",
+    "description": "Vanced Installer",
     "language": "Kotlin",
-    "stars": 149,
-    "forks": 8,
-    "starsInPeriod": 87
-  },
-  {
-    "author": "JetBrains",
-    "name": "kotlin",
-    "href": "https://github.com/JetBrains/kotlin",
-    "description": "The Kotlin Programming Language",
-    "language": "Kotlin",
-    "stars": 33836,
-    "forks": 4221,
-    "starsInPeriod": 48
-  },
-  {
-    "author": "mozilla-mobile",
-    "name": "fenix",
-    "href": "https://github.com/mozilla-mobile/fenix",
-    "description": "Firefox for Android",
-    "language": "Kotlin",
-    "stars": 4232,
-    "forks": 620,
-    "starsInPeriod": 12
-  },
-  {
-    "author": "google",
-    "name": "iosched",
-    "href": "https://github.com/google/iosched",
-    "description": "The Google I/O 2019 Android App",
-    "language": "Kotlin",
-    "stars": 20198,
-    "forks": 6102,
+    "stars": 1319,
+    "forks": 90,
     "starsInPeriod": 7
-  },
-  {
-    "author": "android",
-    "name": "plaid",
-    "href": "https://github.com/android/plaid",
-    "description": "An Android app which provides design news & inspiration as well as being an example of implementing material design.",
-    "language": "Kotlin",
-    "stars": 15777,
-    "forks": 3215,
-    "starsInPeriod": 8
   },
   {
     "author": "kami-blue",
@@ -56,18 +16,28 @@
     "description": "KAMI Blue: a continuation of KAMI | LOOKING FOR MAINTAINERS. CHECK README.",
     "language": "Kotlin",
     "stars": 163,
-    "forks": 131,
-    "starsInPeriod": 3
+    "forks": 133,
+    "starsInPeriod": 2
   },
   {
-    "author": "android",
-    "name": "sunflower",
-    "href": "https://github.com/android/sunflower",
-    "description": "A gardening app illustrating Android development best practices with Android Jetpack.",
+    "author": "PatilShreyas",
+    "name": "NotyKT",
+    "href": "https://github.com/PatilShreyas/NotyKT",
+    "description": "📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.",
     "language": "Kotlin",
-    "stars": 12660,
-    "forks": 2946,
-    "starsInPeriod": 14
+    "stars": 168,
+    "forks": 11,
+    "starsInPeriod": 22
+  },
+  {
+    "author": "enricocid",
+    "name": "Music-Player-GO",
+    "href": "https://github.com/enricocid/Music-Player-GO",
+    "description": "🎶🎼 Very slim music player 👨‍🎤 100% made in Italy 🍕🌳🌞🍝🌄",
+    "language": "Kotlin",
+    "stars": 502,
+    "forks": 93,
+    "starsInPeriod": 17
   },
   {
     "author": "corona-warn-app",
@@ -75,9 +45,129 @@
     "href": "https://github.com/corona-warn-app/cwa-app-android",
     "description": "Native Android app using the Apple/Google exposure notification API.",
     "language": "Kotlin",
-    "stars": 2073,
-    "forks": 436,
+    "stars": 2074,
+    "forks": 437,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "mozilla-mobile",
+    "name": "fenix",
+    "href": "https://github.com/mozilla-mobile/fenix",
+    "description": "Firefox for Android",
+    "language": "Kotlin",
+    "stars": 4236,
+    "forks": 621,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "joreilly",
+    "name": "PeopleInSpace",
+    "href": "https://github.com/joreilly/PeopleInSpace",
+    "description": "Minimal Kotlin Multiplatform project using Jetpack Compose and SwiftUI",
+    "language": "Kotlin",
+    "stars": 580,
+    "forks": 40,
     "starsInPeriod": 4
+  },
+  {
+    "author": "2dust",
+    "name": "v2rayNG",
+    "href": "https://github.com/2dust/v2rayNG",
+    "description": null,
+    "language": "Kotlin",
+    "stars": 7303,
+    "forks": 1474,
+    "starsInPeriod": 19
+  },
+  {
+    "author": "google-developer-training",
+    "name": "android-kotlin-fundamentals-apps",
+    "href": "https://github.com/google-developer-training/android-kotlin-fundamentals-apps",
+    "description": "android-kotlin-fundamentals-apps",
+    "language": "Kotlin",
+    "stars": 623,
+    "forks": 991,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "anthonycr",
+    "name": "Lightning-Browser",
+    "href": "https://github.com/anthonycr/Lightning-Browser",
+    "description": "A lightweight Android browser with modern navigation",
+    "language": "Kotlin",
+    "stars": 1632,
+    "forks": 728,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "tasks",
+    "name": "tasks",
+    "href": "https://github.com/tasks/tasks",
+    "description": "Bringing Astrid Tasks back from the dead",
+    "language": "Kotlin",
+    "stars": 1264,
+    "forks": 328,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "JetBrains",
+    "name": "kotlin",
+    "href": "https://github.com/JetBrains/kotlin",
+    "description": "The Kotlin Programming Language",
+    "language": "Kotlin",
+    "stars": 33846,
+    "forks": 4223,
+    "starsInPeriod": 13
+  },
+  {
+    "author": "vinaygaba",
+    "name": "Learn-Jetpack-Compose-By-Example",
+    "href": "https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example",
+    "description": "🚀 This project contains various examples that show how you would do things the \"Jetpack Compose\" way",
+    "language": "Kotlin",
+    "stars": 1040,
+    "forks": 97,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "Gurupreet",
+    "name": "ComposeCookBook",
+    "href": "https://github.com/Gurupreet/ComposeCookBook",
+    "description": "A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential",
+    "language": "Kotlin",
+    "stars": 917,
+    "forks": 52,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "Mygod",
+    "name": "VPNHotspot",
+    "href": "https://github.com/Mygod/VPNHotspot",
+    "description": "Share your VPN connection over hotspot or repeater! (root required)",
+    "language": "Kotlin",
+    "stars": 999,
+    "forks": 155,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "inorichi",
+    "name": "tachiyomi-extensions",
+    "href": "https://github.com/inorichi/tachiyomi-extensions",
+    "description": null,
+    "language": "Kotlin",
+    "stars": 929,
+    "forks": 362,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "CypherpunkArmory",
+    "name": "UserLAnd",
+    "href": "https://github.com/CypherpunkArmory/UserLAnd",
+    "description": "Main UserLAnd Repository",
+    "language": "Kotlin",
+    "stars": 1701,
+    "forks": 188,
+    "starsInPeriod": 1
   },
   {
     "author": "fredoverflow",
@@ -85,29 +175,9 @@
     "href": "https://github.com/fredoverflow/karel",
     "description": "Karel The Robot",
     "language": "Kotlin",
-    "stars": 57,
+    "stars": 59,
     "forks": 11,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "android",
-    "name": "architecture-components-samples",
-    "href": "https://github.com/android/architecture-components-samples",
-    "description": "Samples for Android Architecture Components.",
-    "language": "Kotlin",
-    "stars": 18685,
-    "forks": 6482,
-    "starsInPeriod": 17
-  },
-  {
-    "author": "KieronQuinn",
-    "name": "TapTap",
-    "href": "https://github.com/KieronQuinn/TapTap",
-    "description": "Port of the double tap on back of device feature from Android 11 to any Android 7.0+ device",
-    "language": "Kotlin",
-    "stars": 1416,
-    "forks": 116,
-    "starsInPeriod": 10
+    "starsInPeriod": 2
   },
   {
     "author": "inorichi",
@@ -115,89 +185,9 @@
     "href": "https://github.com/inorichi/tachiyomi",
     "description": "Free and open source manga reader for Android",
     "language": "Kotlin",
-    "stars": 8902,
-    "forks": 1174,
-    "starsInPeriod": 24
-  },
-  {
-    "author": "mukul500",
-    "name": "AnimeXStream",
-    "href": "https://github.com/mukul500/AnimeXStream",
-    "description": "An Android app to watch anime on your phone without ads.",
-    "language": "Kotlin",
-    "stars": 875,
-    "forks": 70,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "hussien89aa",
-    "name": "KotlinUdemy",
-    "href": "https://github.com/hussien89aa/KotlinUdemy",
-    "description": "Learn how to make online games, and apps for Android O, like Pokémon , twitter,Tic Tac Toe, and notepad using Kotlin",
-    "language": "Kotlin",
-    "stars": 1041,
-    "forks": 4342,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "YTVanced",
-    "name": "VancedManager",
-    "href": "https://github.com/YTVanced/VancedManager",
-    "description": "Vanced Installer",
-    "language": "Kotlin",
-    "stars": 1312,
-    "forks": 90,
-    "starsInPeriod": 17
-  },
-  {
-    "author": "yairm210",
-    "name": "Unciv",
-    "href": "https://github.com/yairm210/Unciv",
-    "description": "Open-source Android/Desktop remake of Civ V",
-    "language": "Kotlin",
-    "stars": 1863,
-    "forks": 536,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "material-components",
-    "name": "material-components-android-examples",
-    "href": "https://github.com/material-components/material-components-android-examples",
-    "description": "Companion example apps and code for MDC-Android.",
-    "language": "Kotlin",
-    "stars": 1632,
-    "forks": 312,
-    "starsInPeriod": 11
-  },
-  {
-    "author": "Tamsiree",
-    "name": "RxTool",
-    "href": "https://github.com/Tamsiree/RxTool",
-    "description": "Android开发人员不得不收集的工具类集合 | 支付宝支付 | 微信支付（统一下单） | 微信分享 | Zip4j压缩（支持分卷压缩与加密） | 一键集成UCrop选择圆形头像 | 一键集成二维码和条形码的扫描与生成 | 常用Dialog | WebView的封装可播放视频 | 仿斗鱼滑动验证码 | Toast封装 | 震动 | GPS | Location定位 | 图片缩放 | Exif 图片添加地理位置信息（经纬度） | 蛛网等级 | 颜色选择器 | ArcGis | VTPK | 编译运行一下说不定会找到惊喜",
-    "language": "Kotlin",
-    "stars": 11065,
-    "forks": 2721,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "fossasia",
-    "name": "badge-magic-android",
-    "href": "https://github.com/fossasia/badge-magic-android",
-    "description": "Badge Magic with LEDs - Android App https://play.google.com/apps/testing/org.fossasia.badgemagic",
-    "language": "Kotlin",
-    "stars": 1436,
-    "forks": 141,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "gedoor",
-    "name": "legado",
-    "href": "https://github.com/gedoor/legado",
-    "description": "阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。",
-    "language": "Kotlin",
-    "stars": 1572,
-    "forks": 350,
-    "starsInPeriod": 16
+    "stars": 8915,
+    "forks": 1176,
+    "starsInPeriod": 13
   },
   {
     "author": "ktorio",
@@ -205,48 +195,58 @@
     "href": "https://github.com/ktorio/ktor-samples",
     "description": "Sample projects for Ktor",
     "language": "Kotlin",
-    "stars": 645,
+    "stars": 646,
     "forks": 193,
-    "starsInPeriod": 3
+    "starsInPeriod": 1
   },
   {
-    "author": "edvin",
-    "name": "tornadofx",
-    "href": "https://github.com/edvin/tornadofx",
-    "description": "Lightweight JavaFX Framework for Kotlin",
+    "author": "cashapp",
+    "name": "sqldelight",
+    "href": "https://github.com/cashapp/sqldelight",
+    "description": "SQLDelight - Generates typesafe Kotlin APIs from SQL",
     "language": "Kotlin",
-    "stars": 3211,
-    "forks": 246,
-    "starsInPeriod": 6
+    "stars": 3562,
+    "forks": 290,
+    "starsInPeriod": 11
   },
   {
-    "author": "Szaki",
-    "name": "XiaomiADBFastbootTools",
-    "href": "https://github.com/Szaki/XiaomiADBFastbootTools",
-    "description": "A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot",
+    "author": "PierfrancescoSoffritti",
+    "name": "android-youtube-player",
+    "href": "https://github.com/PierfrancescoSoffritti/android-youtube-player",
+    "description": "YouTube Player library for Android and Chromecast, stable and customizable.",
     "language": "Kotlin",
-    "stars": 1728,
-    "forks": 191,
-    "starsInPeriod": 6
+    "stars": 1976,
+    "forks": 464,
+    "starsInPeriod": 0
   },
   {
-    "author": "DanielMartinus",
-    "name": "Konfetti",
-    "href": "https://github.com/DanielMartinus/Konfetti",
-    "description": "Celebrate more with this lightweight confetti particle system 🎊",
+    "author": "android",
+    "name": "architecture-components-samples",
+    "href": "https://github.com/android/architecture-components-samples",
+    "description": "Samples for Android Architecture Components.",
     "language": "Kotlin",
-    "stars": 1957,
-    "forks": 208,
-    "starsInPeriod": 6
+    "stars": 18693,
+    "forks": 6485,
+    "starsInPeriod": 8
   },
   {
-    "author": "coil-kt",
-    "name": "coil",
-    "href": "https://github.com/coil-kt/coil",
-    "description": "Image loading for Android backed by Kotlin Coroutines.",
+    "author": "LorittaBot",
+    "name": "Loritta",
+    "href": "https://github.com/LorittaBot/Loritta",
+    "description": "💁 A multipurpose, multilanguage, customizable, modular, and very cute bot for Discord using JDA! ~Making your server more awesome~",
     "language": "Kotlin",
-    "stars": 4925,
-    "forks": 264,
-    "starsInPeriod": 38
+    "stars": 195,
+    "forks": 95,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "KieronQuinn",
+    "name": "TapTap",
+    "href": "https://github.com/KieronQuinn/TapTap",
+    "description": "Port of the double tap on back of device feature from Android 11 to any Android 7.0+ device",
+    "language": "Kotlin",
+    "stars": 1422,
+    "forks": 116,
+    "starsInPeriod": 8
   }
 ]

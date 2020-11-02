@@ -1,51 +1,51 @@
 # general
-- [attestation-deplacement-derogatoire-q4-2020](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020) : JavaScript
-  - attestation-deplacement-derogatoire-q4-2020 public
-- [vscode-stories](https://github.com/benawad/vscode-stories) : TypeScript
-  - Stories for VSCode
-- [semana-javascript-expert01](https://github.com/ErickWendel/semana-javascript-expert01) : JavaScript
-  - Exemplos de código da primeira semana Javascript Expert
-- [zipline](https://github.com/quantopian/zipline) : Python
-  - Zipline, a Pythonic Algorithmic Trading Library
-- [cuuhomientrung](https://github.com/Cuuhomientrung/cuuhomientrung) : Python
-  - Site hỗ trợ thông tin cứu hộ người dân miền Trung
-- [flutter](https://github.com/flutter/flutter) : Dart
-  - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
-- [the-bastion](https://github.com/ovh/the-bastion) : Perl
-  - Authentication, authorization, traceability and auditability for SSH accesses.
-- [deepmind-research](https://github.com/deepmind/deepmind-research) : Jupyter Notebook
-  - This repository contains implementations and illustrative code to accompany DeepMind publications
-- [cheat.sh](https://github.com/chubin/cheat.sh) : Python
-  - the only cheat sheet you need
-- [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) : JavaScript
-  - Roadmap to becoming an Artificial Intelligence Expert in 2020
-- [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) : Jupyter Notebook
-  - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
-- [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) : Jupyter Notebook
-  - Python Data Science Handbook: full text in Jupyter Notebooks
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [keep3r.network](https://github.com/keep3r-network/keep3r.network) : Solidity
-  - An incentivized keeper network for anonymous keeper and job registration
 - [research_public](https://github.com/quantopian/research_public) : Jupyter Notebook
   - Quantitative research and educational materials
-- [discord.js](https://github.com/discordjs/discord.js) : JavaScript
-  - A powerful JavaScript library for interacting with the Discord API
-- [key-book](https://github.com/datawhalechina/key-book) : 
-  - 《机器学习理论导引》（宝箱书）的证明、案例、概念补充与参考文献讲解。在线阅读地址：https://datawhalechina.github.io/key-book/
-- [An-Introduction-to-Statistical-Learning](https://github.com/hardikkamboj/An-Introduction-to-Statistical-Learning) : Jupyter Notebook
-  - This repository contains the exercises and its solution contained in the book An Introduction to Statistical Learning in python.
+- [attestation-deplacement-derogatoire-q4-2020](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020) : JavaScript
+  - attestation-deplacement-derogatoire-q4-2020 public
+- [tinygrad](https://github.com/geohot/tinygrad) : Python
+  - You like pytorch? You like micrograd? You love tinygrad! ❤️
+- [vscode-stories](https://github.com/benawad/vscode-stories) : TypeScript
+  - Stories for VSCode
+- [zipline](https://github.com/quantopian/zipline) : Python
+  - Zipline, a Pythonic Algorithmic Trading Library
+- [WLED](https://github.com/Aircoookie/WLED) : C++
+  - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
+- [flutter](https://github.com/flutter/flutter) : Dart
+  - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+- [GHunt](https://github.com/mxrch/GHunt) : Python
+  - 🕵️‍♂️ Investigate Google Accounts with emails.
+- [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) : Jupyter Notebook
+  - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
+- [hyperblog](https://github.com/freddier/hyperblog) : HTML
+  - Un blog increíble para el curso de Git y Github de Platzi
+- [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) : JavaScript
+  - Roadmap to becoming an Artificial Intelligence Expert in 2020
+- [AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) : 
+  - Roadmap to becoming an ASP.NET Core developer in 2021
 - [app-ideas](https://github.com/florinpop17/app-ideas) : 
   - A Collection of application ideas which can be used to improve your coding skills.
-- [beginners-intro-javascript-node](https://github.com/microsoft/beginners-intro-javascript-node) : JavaScript
-  - Beginner's Series: Introduction to JavaScript (Node.js)
-- [yt-dlc](https://github.com/blackjack4494/yt-dlc) : Python
-  - media downloader for various sites.
-- [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) : Swift
-  - 📱 Collaborative List of Open-Source iOS Apps
-- [next.js](https://github.com/vercel/next.js) : JavaScript
-  - The React Framework
+- [pktvisor](https://github.com/ns1/pktvisor) : C++
+  - pktvisor summarizes data streams in real time and provides a clean, time-windowed HTTP interface and command line UI to the results.
+- [An-Introduction-to-Statistical-Learning](https://github.com/hardikkamboj/An-Introduction-to-Statistical-Learning) : Jupyter Notebook
+  - This repository contains the exercises and its solution contained in the book An Introduction to Statistical Learning in python.
+- [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) : Jupyter Notebook
+  - Python Data Science Handbook: full text in Jupyter Notebooks
+- [cheat.sh](https://github.com/chubin/cheat.sh) : Python
+  - the only cheat sheet you need
+- [godot](https://github.com/godotengine/godot) : C++
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [semana-javascript-expert01](https://github.com/ErickWendel/semana-javascript-expert01) : JavaScript
+  - Exemplos de código da primeira semana Javascript Expert
+- [PowerToys](https://github.com/microsoft/PowerToys) : C++
+  - Windows system utilities to maximize productivity
+- [handson-ml](https://github.com/ageron/handson-ml) : Jupyter Notebook
+  - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
+- [igel](https://github.com/nidhaloff/igel) : Python
+  - a delightful machine learning tool that allows you to train, test and use models without writing code
+- [edex-ui](https://github.com/GitSquared/edex-ui) : JavaScript
+  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+- [deepmind-research](https://github.com/deepmind/deepmind-research) : Jupyter Notebook
+  - This repository contains implementations and illustrative code to accompany DeepMind publications
 - [Java](https://github.com/TheAlgorithms/Java) : Java
   - All Algorithms implemented in Java
-- [iptv](https://github.com/iptv-org/iptv) : JavaScript
-  - Collection of 5000+ publicly available IPTV channels from all over the world
