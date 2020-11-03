@@ -1,13 +1,13 @@
 [
   {
-    "author": "LAB-MI",
-    "name": "attestation-deplacement-derogatoire-q4-2020",
-    "href": "https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020",
-    "description": "attestation-deplacement-derogatoire-q4-2020 public",
+    "author": "GitSquared",
+    "name": "edex-ui",
+    "href": "https://github.com/GitSquared/edex-ui",
+    "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
     "language": "JavaScript",
-    "stars": 229,
-    "forks": 193,
-    "starsInPeriod": 166
+    "stars": 20191,
+    "forks": 1134,
+    "starsInPeriod": 451
   },
   {
     "author": "AMAI-GmbH",
@@ -15,69 +15,29 @@
     "href": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
     "description": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
     "language": "JavaScript",
-    "stars": 1405,
-    "forks": 51,
-    "starsInPeriod": 442
+    "stars": 1863,
+    "forks": 69,
+    "starsInPeriod": 520
   },
   {
-    "author": "ErickWendel",
-    "name": "semana-javascript-expert01",
-    "href": "https://github.com/ErickWendel/semana-javascript-expert01",
-    "description": "Exemplos de código da primeira semana Javascript Expert",
+    "author": "LAB-MI",
+    "name": "attestation-deplacement-derogatoire-q4-2020",
+    "href": "https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020",
+    "description": "attestation-deplacement-derogatoire-q4-2020 public",
     "language": "JavaScript",
-    "stars": 484,
-    "forks": 102,
+    "stars": 282,
+    "forks": 232,
     "starsInPeriod": 71
   },
   {
-    "author": "GitSquared",
-    "name": "edex-ui",
-    "href": "https://github.com/GitSquared/edex-ui",
-    "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "author": "algorithm-visualizer",
+    "name": "algorithm-visualizer",
+    "href": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
     "language": "JavaScript",
-    "stars": 19668,
-    "forks": 1114,
-    "starsInPeriod": 191
-  },
-  {
-    "author": "jhu-ep-coursera",
-    "name": "fullstack-course4",
-    "href": "https://github.com/jhu-ep-coursera/fullstack-course4",
-    "description": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
-    "language": "JavaScript",
-    "stars": 4207,
-    "forks": 7047,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "discordjs",
-    "name": "discord.js",
-    "href": "https://github.com/discordjs/discord.js",
-    "description": "A powerful JavaScript library for interacting with the Discord API",
-    "language": "JavaScript",
-    "stars": 7976,
-    "forks": 1749,
-    "starsInPeriod": 107
-  },
-  {
-    "author": "MichMich",
-    "name": "MagicMirror",
-    "href": "https://github.com/MichMich/MagicMirror",
-    "description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.",
-    "language": "JavaScript",
-    "stars": 12925,
-    "forks": 3335,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "iptv-org",
-    "name": "iptv",
-    "href": "https://github.com/iptv-org/iptv",
-    "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
-    "language": "JavaScript",
-    "stars": 20285,
-    "forks": 45,
-    "starsInPeriod": 262
+    "stars": 31918,
+    "forks": 5372,
+    "starsInPeriod": 32
   },
   {
     "author": "rphl",
@@ -85,39 +45,189 @@
     "href": "https://github.com/rphl/corona-widget",
     "description": "COVID-19 Inzidenz-Widget für iOS innerhalb Deutschlands 🇩🇪 (Kreis/Stadt + Bundesland + Trend)",
     "language": "JavaScript",
-    "stars": 69,
-    "forks": 9,
-    "starsInPeriod": 11
+    "stars": 88,
+    "forks": 12,
+    "starsInPeriod": 15
   },
   {
-    "author": "ShizukuIchi",
-    "name": "winXP",
-    "href": "https://github.com/ShizukuIchi/winXP",
-    "description": "🏁 Web based Windows XP desktop recreation.",
+    "author": "mui-org",
+    "name": "material-ui",
+    "href": "https://github.com/mui-org/material-ui",
+    "description": "React components for faster and easier web development. Build your own design system, or start with Material Design.",
     "language": "JavaScript",
-    "stars": 3896,
-    "forks": 209,
-    "starsInPeriod": 142
+    "stars": 62147,
+    "forks": 18835,
+    "starsInPeriod": 32
   },
   {
-    "author": "gothinkster",
-    "name": "realworld",
-    "href": "https://github.com/gothinkster/realworld",
-    "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "author": "lutzroeder",
+    "name": "netron",
+    "href": "https://github.com/lutzroeder/netron",
+    "description": "Visualizer for neural network, deep learning, and machine learning models",
     "language": "JavaScript",
-    "stars": 49308,
-    "forks": 4166,
-    "starsInPeriod": 73
+    "stars": 11836,
+    "forks": 1449,
+    "starsInPeriod": 23
   },
   {
-    "author": "vercel",
-    "name": "next.js",
-    "href": "https://github.com/vercel/next.js",
-    "description": "The React Framework",
+    "author": "jitsi",
+    "name": "jitsi-meet",
+    "href": "https://github.com/jitsi/jitsi-meet",
+    "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.",
     "language": "JavaScript",
-    "stars": 56305,
-    "forks": 9335,
-    "starsInPeriod": 320
+    "stars": 14332,
+    "forks": 4418,
+    "starsInPeriod": 16
+  },
+  {
+    "author": "lerna",
+    "name": "lerna",
+    "href": "https://github.com/lerna/lerna",
+    "description": "🐉 A tool for managing JavaScript projects with multiple packages.",
+    "language": "JavaScript",
+    "stars": 25191,
+    "forks": 1620,
+    "starsInPeriod": 21
+  },
+  {
+    "author": "Ebazhanov",
+    "name": "in-quiz-questions",
+    "href": "https://github.com/Ebazhanov/in-quiz-questions",
+    "description": "Linkedin quiz assessment, answers and questions (aws-lambda, rest-api, javascript, react, git, html, jquery, maven, mongodb, xml, java, css, python ...) ответы на квиз",
+    "language": "JavaScript",
+    "stars": 809,
+    "forks": 719,
+    "starsInPeriod": 13
+  },
+  {
+    "author": "mzeryck",
+    "name": "Weather-Cal",
+    "href": "https://github.com/mzeryck/Weather-Cal",
+    "description": "This is a Scriptable widget that lets you display, position, and format multiple elements, including dates and events, weather information, battery level, and more. You can even create your own elements.",
+    "language": "JavaScript",
+    "stars": 226,
+    "forks": 186,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "fhefh2015",
+    "name": "Fast-GitHub",
+    "href": "https://github.com/fhefh2015/Fast-GitHub",
+    "description": "国内Github下载很慢，用上了这个插件后，下载速度嗖嗖嗖的~！",
+    "language": "JavaScript",
+    "stars": 263,
+    "forks": 35,
+    "starsInPeriod": 50
+  },
+  {
+    "author": "EastWorld",
+    "name": "wechat-app-mall",
+    "href": "https://github.com/EastWorld/wechat-app-mall",
+    "description": "微信小程序商城，微信小程序微店",
+    "language": "JavaScript",
+    "stars": 13404,
+    "forks": 4829,
+    "starsInPeriod": 20
+  },
+  {
+    "author": "twbs",
+    "name": "bootstrap",
+    "href": "https://github.com/twbs/bootstrap",
+    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "language": "JavaScript",
+    "stars": 145049,
+    "forks": 70895,
+    "starsInPeriod": 37
+  },
+  {
+    "author": "mikecao",
+    "name": "umami",
+    "href": "https://github.com/mikecao/umami",
+    "description": "Umami is a simple, fast, website analytics alternative to Google Analytics.",
+    "language": "JavaScript",
+    "stars": 4762,
+    "forks": 315,
+    "starsInPeriod": 41
+  },
+  {
+    "author": "jquense",
+    "name": "react-big-calendar",
+    "href": "https://github.com/jquense/react-big-calendar",
+    "description": "gcal/outlook like calendar component",
+    "language": "JavaScript",
+    "stars": 4363,
+    "forks": 1528,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "JedWatson",
+    "name": "react-select",
+    "href": "https://github.com/JedWatson/react-select",
+    "description": "The Select Component for React.js",
+    "language": "JavaScript",
+    "stars": 21223,
+    "forks": 3604,
+    "starsInPeriod": 19
+  },
+  {
+    "author": "appium",
+    "name": "appium",
+    "href": "https://github.com/appium/appium",
+    "description": "📱 Automation for iOS, Android, and Windows Apps.",
+    "language": "JavaScript",
+    "stars": 12177,
+    "forks": 4846,
+    "starsInPeriod": 13
+  },
+  {
+    "author": "nodejs",
+    "name": "undici",
+    "href": "https://github.com/nodejs/undici",
+    "description": "An HTTP/1.1 client, written from scratch for Node.js",
+    "language": "JavaScript",
+    "stars": 452,
+    "forks": 27,
+    "starsInPeriod": 27
+  },
+  {
+    "author": "typescript-cheatsheets",
+    "name": "react",
+    "href": "https://github.com/typescript-cheatsheets/react",
+    "description": "Cheatsheets for experienced React developers getting started with TypeScript",
+    "language": "JavaScript",
+    "stars": 19223,
+    "forks": 1281,
+    "starsInPeriod": 44
+  },
+  {
+    "author": "aFarkas",
+    "name": "lazysizes",
+    "href": "https://github.com/aFarkas/lazysizes",
+    "description": "High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.",
+    "language": "JavaScript",
+    "stars": 14330,
+    "forks": 1428,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "poteto",
+    "name": "hiring-without-whiteboards",
+    "href": "https://github.com/poteto/hiring-without-whiteboards",
+    "description": "⭐️ Companies that don't have a broken hiring process",
+    "language": "JavaScript",
+    "stars": 18659,
+    "forks": 1727,
+    "starsInPeriod": 12
+  },
+  {
+    "author": "cypress-io",
+    "name": "cypress",
+    "href": "https://github.com/cypress-io/cypress",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "language": "JavaScript",
+    "stars": 24265,
+    "forks": 1452,
+    "starsInPeriod": 23
   },
   {
     "author": "sveltejs",
@@ -125,128 +235,18 @@
     "href": "https://github.com/sveltejs/svelte",
     "description": "Cybernetically enhanced web apps",
     "language": "JavaScript",
-    "stars": 39021,
-    "forks": 1855,
-    "starsInPeriod": 30
+    "stars": 39057,
+    "forks": 1859,
+    "starsInPeriod": 43
   },
   {
-    "author": "AlreadyBored",
-    "name": "basic-js",
-    "href": "https://github.com/AlreadyBored/basic-js",
-    "description": null,
+    "author": "gatsbyjs",
+    "name": "gatsby",
+    "href": "https://github.com/gatsbyjs/gatsby",
+    "description": "Build blazing fast, modern apps and websites with React",
     "language": "JavaScript",
-    "stars": 45,
-    "forks": 2700,
-    "starsInPeriod": 0
-  },
-  {
-    "author": "uzair-ashraf",
-    "name": "genshin-impact-wish-simulator",
-    "href": "https://github.com/uzair-ashraf/genshin-impact-wish-simulator",
-    "description": "A React web application to simulate Genshin Impact gacha in the browser",
-    "language": "JavaScript",
-    "stars": 128,
-    "forks": 34,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "processing",
-    "name": "p5.js",
-    "href": "https://github.com/processing/p5.js",
-    "description": "p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —",
-    "language": "JavaScript",
-    "stars": 14264,
-    "forks": 2241,
-    "starsInPeriod": 9
-  },
-  {
-    "author": "microsoft",
-    "name": "beginners-intro-javascript-node",
-    "href": "https://github.com/microsoft/beginners-intro-javascript-node",
-    "description": "Beginner's Series: Introduction to JavaScript (Node.js)",
-    "language": "JavaScript",
-    "stars": 1330,
-    "forks": 83,
-    "starsInPeriod": 156
-  },
-  {
-    "author": "Working-Title-MSFS-Mods",
-    "name": "fspackages",
-    "href": "https://github.com/Working-Title-MSFS-Mods/fspackages",
-    "description": "Working Title FS Packages",
-    "language": "JavaScript",
-    "stars": 371,
-    "forks": 29,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "academicpages",
-    "name": "academicpages.github.io",
-    "href": "https://github.com/academicpages/academicpages.github.io",
-    "description": "Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes",
-    "language": "JavaScript",
-    "stars": 3389,
-    "forks": 10887,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "MhankBarBar",
-    "name": "whatsapp-bot",
-    "href": "https://github.com/MhankBarBar/whatsapp-bot",
-    "description": "WhatsApp Bot",
-    "language": "JavaScript",
-    "stars": 71,
-    "forks": 103,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "codetheweb",
-    "name": "tuyapi",
-    "href": "https://github.com/codetheweb/tuyapi",
-    "description": "🌧 An easy-to-use API for devices that use Tuya's cloud services. Documentation: https://codetheweb.github.io/tuyapi.",
-    "language": "JavaScript",
-    "stars": 796,
-    "forks": 156,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "fossasia",
-    "name": "open-event-frontend",
-    "href": "https://github.com/fossasia/open-event-frontend",
-    "description": "The frontend for the Open Event API Server https://open-event-frontend.now.sh",
-    "language": "JavaScript",
-    "stars": 1596,
-    "forks": 969,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "ccxt",
-    "name": "ccxt",
-    "href": "https://github.com/ccxt/ccxt",
-    "description": "A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges",
-    "language": "JavaScript",
-    "stars": 14852,
-    "forks": 4203,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "grocy",
-    "name": "grocy",
-    "href": "https://github.com/grocy/grocy",
-    "description": "ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home",
-    "language": "JavaScript",
-    "stars": 2660,
-    "forks": 240,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "MoePlayer",
-    "name": "DPlayer",
-    "href": "https://github.com/MoePlayer/DPlayer",
-    "description": "🍭 Wow, such a lovely HTML5 danmaku video player",
-    "language": "JavaScript",
-    "stars": 10080,
-    "forks": 1720,
-    "starsInPeriod": 6
+    "stars": 47671,
+    "forks": 9002,
+    "starsInPeriod": 21
   }
 ]

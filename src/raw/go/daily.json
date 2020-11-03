@@ -1,213 +1,23 @@
 [
   {
-    "author": "p4gefau1t",
-    "name": "trojan-go",
-    "href": "https://github.com/p4gefau1t/trojan-go",
-    "description": "Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/",
-    "language": "Go",
-    "stars": 2227,
-    "forks": 572,
-    "starsInPeriod": 37
-  },
-  {
-    "author": "halfrost",
-    "name": "LeetCode-Go",
-    "href": "https://github.com/halfrost/LeetCode-Go",
-    "description": "✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",
-    "language": "Go",
-    "stars": 8549,
-    "forks": 1307,
-    "starsInPeriod": 29
-  },
-  {
-    "author": "TomWright",
-    "name": "dasel",
-    "href": "https://github.com/TomWright/dasel",
-    "description": "Query and update data structures from the command line. Comparable to jq/yq but supports JSON, TOML, YAML and XML with zero runtime dependencies.",
-    "language": "Go",
-    "stars": 276,
-    "forks": 5,
-    "starsInPeriod": 62
-  },
-  {
-    "author": "fluxcd",
-    "name": "flux2",
-    "href": "https://github.com/fluxcd/flux2",
-    "description": "Kubernetes toolkit for assembling CD pipelines the GitOps way",
-    "language": "Go",
-    "stars": 464,
-    "forks": 42,
-    "starsInPeriod": 27
-  },
-  {
-    "author": "inexio",
-    "name": "thola",
-    "href": "https://github.com/inexio/thola",
-    "description": "A tool for monitoring and provisioning network devices written in Go.",
-    "language": "Go",
-    "stars": 91,
-    "forks": 1,
-    "starsInPeriod": 26
-  },
-  {
-    "author": "rclone",
-    "name": "rclone",
-    "href": "https://github.com/rclone/rclone",
-    "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
-    "language": "Go",
-    "stars": 24102,
-    "forks": 2058,
-    "starsInPeriod": 23
-  },
-  {
-    "author": "gogf",
-    "name": "gf",
-    "href": "https://github.com/gogf/gf",
-    "description": "GoFrame is a modular, powerful, high-performance and production-ready application development framework of golang.",
-    "language": "Go",
-    "stars": 4113,
-    "forks": 596,
-    "starsInPeriod": 22
-  },
-  {
-    "author": "fyne-io",
-    "name": "fyne",
-    "href": "https://github.com/fyne-io/fyne",
-    "description": "Cross platform GUI in Go based on Material Design",
-    "language": "Go",
-    "stars": 11078,
-    "forks": 529,
-    "starsInPeriod": 13
-  },
-  {
-    "author": "casbin",
-    "name": "casbin",
-    "href": "https://github.com/casbin/casbin",
-    "description": "An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",
-    "language": "Go",
-    "stars": 7997,
-    "forks": 869,
-    "starsInPeriod": 25
-  },
-  {
     "author": "gohugoio",
     "name": "hugo",
     "href": "https://github.com/gohugoio/hugo",
     "description": "The world’s fastest framework for building websites.",
     "language": "Go",
-    "stars": 47636,
-    "forks": 5414,
-    "starsInPeriod": 61
+    "stars": 47718,
+    "forks": 5421,
+    "starsInPeriod": 75
   },
   {
-    "author": "denverquane",
-    "name": "automuteus",
-    "href": "https://github.com/denverquane/automuteus",
-    "description": "Discord Bot to automute Among Us players at round transitions, in conjunction with https://github.com/denverquane/amonguscapture",
+    "author": "asim",
+    "name": "nitro",
+    "href": "https://github.com/asim/nitro",
+    "description": "Nitro (formerly known as Go Micro) is a blazingly fast framework for distributed app development.",
     "language": "Go",
-    "stars": 521,
-    "forks": 134,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "TheAlgorithms",
-    "name": "Go",
-    "href": "https://github.com/TheAlgorithms/Go",
-    "description": "Algorithms Implemented in GoLang",
-    "language": "Go",
-    "stars": 4132,
-    "forks": 880,
-    "starsInPeriod": 21
-  },
-  {
-    "author": "redirect2me",
-    "name": "which-dns",
-    "href": "https://github.com/redirect2me/which-dns",
-    "description": "Detects which DNS server is being used",
-    "language": "Go",
-    "stars": 305,
-    "forks": 5,
-    "starsInPeriod": 31
-  },
-  {
-    "author": "AdguardTeam",
-    "name": "AdGuardHome",
-    "href": "https://github.com/AdguardTeam/AdGuardHome",
-    "description": "Network-wide ads & trackers blocking DNS server",
-    "language": "Go",
-    "stars": 5496,
-    "forks": 602,
-    "starsInPeriod": 16
-  },
-  {
-    "author": "avelino",
-    "name": "awesome-go",
-    "href": "https://github.com/avelino/awesome-go",
-    "description": "A curated list of awesome Go frameworks, libraries and software",
-    "language": "Go",
-    "stars": 58691,
-    "forks": 7782,
-    "starsInPeriod": 38
-  },
-  {
-    "author": "profclems",
-    "name": "glab",
-    "href": "https://github.com/profclems/glab",
-    "description": "An open-source GitLab command line tool",
-    "language": "Go",
-    "stars": 718,
-    "forks": 44,
-    "starsInPeriod": 10
-  },
-  {
-    "author": "PuerkitoBio",
-    "name": "goquery",
-    "href": "https://github.com/PuerkitoBio/goquery",
-    "description": "A little like that j-thing, only in Go.",
-    "language": "Go",
-    "stars": 9426,
-    "forks": 730,
-    "starsInPeriod": 10
-  },
-  {
-    "author": "42wim",
-    "name": "matterbridge",
-    "href": "https://github.com/42wim/matterbridge",
-    "description": "bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble and more with REST API (mattermost not required!)",
-    "language": "Go",
-    "stars": 3128,
-    "forks": 311,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "hantmac",
-    "name": "Mastering_Go_ZH_CN",
-    "href": "https://github.com/hantmac/Mastering_Go_ZH_CN",
-    "description": "《Mastering GO》中文译本，《玩转 GO》。",
-    "language": "Go",
-    "stars": 1354,
-    "forks": 169,
-    "starsInPeriod": 96
-  },
-  {
-    "author": "nuclio",
-    "name": "nuclio",
-    "href": "https://github.com/nuclio/nuclio",
-    "description": "High-Performance Serverless event and data processing platform",
-    "language": "Go",
-    "stars": 3582,
-    "forks": 354,
-    "starsInPeriod": 13
-  },
-  {
-    "author": "jesseduffield",
-    "name": "lazygit",
-    "href": "https://github.com/jesseduffield/lazygit",
-    "description": "simple terminal UI for git commands",
-    "language": "Go",
-    "stars": 17811,
-    "forks": 643,
-    "starsInPeriod": 13
+    "stars": 14609,
+    "forks": 1520,
+    "starsInPeriod": 27
   },
   {
     "author": "chriswalz",
@@ -215,38 +25,228 @@
     "href": "https://github.com/chriswalz/bit",
     "description": "Bit is a modern Git CLI",
     "language": "Go",
-    "stars": 3455,
-    "forks": 53,
-    "starsInPeriod": 199
+    "stars": 3628,
+    "forks": 55,
+    "starsInPeriod": 175
+  },
+  {
+    "author": "prometheus",
+    "name": "prometheus",
+    "href": "https://github.com/prometheus/prometheus",
+    "description": "The Prometheus monitoring system and time series database.",
+    "language": "Go",
+    "stars": 33649,
+    "forks": 5271,
+    "starsInPeriod": 19
+  },
+  {
+    "author": "kubernetes",
+    "name": "kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "description": "Production-Grade Container Scheduling and Management",
+    "language": "Go",
+    "stars": 71360,
+    "forks": 25785,
+    "starsInPeriod": 36
+  },
+  {
+    "author": "moby",
+    "name": "moby",
+    "href": "https://github.com/moby/moby",
+    "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "language": "Go",
+    "stars": 58773,
+    "forks": 16921,
+    "starsInPeriod": 20
   },
   {
     "author": "pterm",
     "name": "pterm",
     "href": "https://github.com/pterm/pterm",
-    "description": "✨ A modern go module to beautify console output. Can be used without configuration, but if desired, everything can be customized down to the smallest detail.",
+    "description": "✨ A modern go module to beautify console output. Featuring charts, progressbars, tables, trees and many more 🚀 It's completely configurable and 100% cross-platform compatible.",
     "language": "Go",
-    "stars": 157,
+    "stars": 205,
     "forks": 12,
-    "starsInPeriod": 64
+    "starsInPeriod": 49
   },
   {
-    "author": "projectdiscovery",
-    "name": "subfinder",
-    "href": "https://github.com/projectdiscovery/subfinder",
-    "description": "Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.",
+    "author": "helm",
+    "name": "charts",
+    "href": "https://github.com/helm/charts",
+    "description": "Curated applications for Kubernetes",
     "language": "Go",
-    "stars": 3014,
-    "forks": 442,
-    "starsInPeriod": 16
+    "stars": 14707,
+    "forks": 16264,
+    "starsInPeriod": 6
   },
   {
-    "author": "mvdan",
-    "name": "sh",
-    "href": "https://github.com/mvdan/sh",
-    "description": "A shell parser, formatter, and interpreter with bash support; includes shfmt",
+    "author": "hantmac",
+    "name": "Mastering_Go_ZH_CN",
+    "href": "https://github.com/hantmac/Mastering_Go_ZH_CN",
+    "description": "《Mastering GO》中文译本，《玩转 GO》。",
     "language": "Go",
-    "stars": 3272,
-    "forks": 163,
-    "starsInPeriod": 22
+    "stars": 1415,
+    "forks": 177,
+    "starsInPeriod": 62
+  },
+  {
+    "author": "golangci",
+    "name": "golangci-lint",
+    "href": "https://github.com/golangci/golangci-lint",
+    "description": "Fast linters Runner for Go",
+    "language": "Go",
+    "stars": 6454,
+    "forks": 587,
+    "starsInPeriod": 17
+  },
+  {
+    "author": "hashicorp",
+    "name": "terraform-provider-aws",
+    "href": "https://github.com/hashicorp/terraform-provider-aws",
+    "description": "Terraform AWS provider",
+    "language": "Go",
+    "stars": 4979,
+    "forks": 4561,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "google",
+    "name": "ko",
+    "href": "https://github.com/google/ko",
+    "description": "Build and deploy Go applications on Kubernetes",
+    "language": "Go",
+    "stars": 2252,
+    "forks": 126,
+    "starsInPeriod": 12
+  },
+  {
+    "author": "coreos",
+    "name": "flannel",
+    "href": "https://github.com/coreos/flannel",
+    "description": "flannel is a network fabric for containers, designed for Kubernetes",
+    "language": "Go",
+    "stars": 5858,
+    "forks": 1961,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "prometheus-operator",
+    "name": "prometheus-operator",
+    "href": "https://github.com/prometheus-operator/prometheus-operator",
+    "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+    "language": "Go",
+    "stars": 4881,
+    "forks": 2190,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "terraform-providers",
+    "name": "terraform-provider-azurerm",
+    "href": "https://github.com/terraform-providers/terraform-provider-azurerm",
+    "description": "Terraform provider for Azure Resource Manager",
+    "language": "Go",
+    "stars": 2073,
+    "forks": 2040,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "aws",
+    "name": "aws-sdk-go",
+    "href": "https://github.com/aws/aws-sdk-go",
+    "description": "AWS SDK for the Go programming language.",
+    "language": "Go",
+    "stars": 6159,
+    "forks": 1560,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "knative",
+    "name": "serving",
+    "href": "https://github.com/knative/serving",
+    "description": "Kubernetes-based, scale-to-zero, request-driven compute",
+    "language": "Go",
+    "stars": 3388,
+    "forks": 720,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "DATA-DOG",
+    "name": "go-sqlmock",
+    "href": "https://github.com/DATA-DOG/go-sqlmock",
+    "description": "Sql mock driver for golang to test database interactions",
+    "language": "Go",
+    "stars": 2901,
+    "forks": 248,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "opencontainers",
+    "name": "runc",
+    "href": "https://github.com/opencontainers/runc",
+    "description": "CLI tool for spawning and running containers according to the OCI specification",
+    "language": "Go",
+    "stars": 7302,
+    "forks": 1377,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "temporalio",
+    "name": "temporal",
+    "href": "https://github.com/temporalio/temporal",
+    "description": "Temporal service and CLI",
+    "language": "Go",
+    "stars": 861,
+    "forks": 80,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "securego",
+    "name": "gosec",
+    "href": "https://github.com/securego/gosec",
+    "description": "Golang security checker",
+    "language": "Go",
+    "stars": 3687,
+    "forks": 280,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "TheAlgorithms",
+    "name": "Go",
+    "href": "https://github.com/TheAlgorithms/Go",
+    "description": "Algorithms Implemented in GoLang",
+    "language": "Go",
+    "stars": 4148,
+    "forks": 884,
+    "starsInPeriod": 20
+  },
+  {
+    "author": "GoogleCloudPlatform",
+    "name": "terraformer",
+    "href": "https://github.com/GoogleCloudPlatform/terraformer",
+    "description": "CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code",
+    "language": "Go",
+    "stars": 3620,
+    "forks": 382,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "asaskevich",
+    "name": "govalidator",
+    "href": "https://github.com/asaskevich/govalidator",
+    "description": "[Go] Package of validators and sanitizers for strings, numerics, slices and structs",
+    "language": "Go",
+    "stars": 4465,
+    "forks": 451,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "fluxcd",
+    "name": "flux",
+    "href": "https://github.com/fluxcd/flux",
+    "description": "The GitOps Kubernetes operator",
+    "language": "Go",
+    "stars": 5708,
+    "forks": 1013,
+    "starsInPeriod": 8
   }
 ]

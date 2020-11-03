@@ -1,153 +1,13 @@
 [
   {
-    "author": "quantopian",
-    "name": "research_public",
-    "href": "https://github.com/quantopian/research_public",
-    "description": "Quantitative research and educational materials",
-    "language": "Jupyter Notebook",
-    "stars": 1140,
-    "forks": 659,
-    "starsInPeriod": 90
-  },
-  {
-    "author": "LAB-MI",
-    "name": "attestation-deplacement-derogatoire-q4-2020",
-    "href": "https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020",
-    "description": "attestation-deplacement-derogatoire-q4-2020 public",
-    "language": "JavaScript",
-    "stars": 229,
-    "forks": 193,
-    "starsInPeriod": 166
-  },
-  {
-    "author": "geohot",
-    "name": "tinygrad",
-    "href": "https://github.com/geohot/tinygrad",
-    "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
-    "language": "Python",
-    "stars": 289,
-    "forks": 47,
-    "starsInPeriod": 49
-  },
-  {
-    "author": "benawad",
-    "name": "vscode-stories",
-    "href": "https://github.com/benawad/vscode-stories",
-    "description": "Stories for VSCode",
-    "language": "TypeScript",
-    "stars": 1126,
-    "forks": 65,
-    "starsInPeriod": 344
-  },
-  {
-    "author": "quantopian",
-    "name": "zipline",
-    "href": "https://github.com/quantopian/zipline",
-    "description": "Zipline, a Pythonic Algorithmic Trading Library",
-    "language": "Python",
-    "stars": 12520,
-    "forks": 3564,
-    "starsInPeriod": 141
-  },
-  {
-    "author": "Aircoookie",
-    "name": "WLED",
-    "href": "https://github.com/Aircoookie/WLED",
-    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
+    "author": "sogou",
+    "name": "workflow",
+    "href": "https://github.com/sogou/workflow",
+    "description": "C++ Programming Paradigm with Asynchronous Networking",
     "language": "C++",
-    "stars": 3252,
-    "forks": 571,
-    "starsInPeriod": 34
-  },
-  {
-    "author": "flutter",
-    "name": "flutter",
-    "href": "https://github.com/flutter/flutter",
-    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
-    "language": "Dart",
-    "stars": 105885,
-    "forks": 14735,
-    "starsInPeriod": 297
-  },
-  {
-    "author": "mxrch",
-    "name": "GHunt",
-    "href": "https://github.com/mxrch/GHunt",
-    "description": "🕵️‍♂️ Investigate Google Accounts with emails.",
-    "language": "Python",
-    "stars": 4959,
-    "forks": 384,
-    "starsInPeriod": 119
-  },
-  {
-    "author": "trekhleb",
-    "name": "homemade-machine-learning",
-    "href": "https://github.com/trekhleb/homemade-machine-learning",
-    "description": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
-    "language": "Jupyter Notebook",
-    "stars": 15133,
-    "forks": 2898,
-    "starsInPeriod": 248
-  },
-  {
-    "author": "freddier",
-    "name": "hyperblog",
-    "href": "https://github.com/freddier/hyperblog",
-    "description": "Un blog increíble para el curso de Git y Github de Platzi",
-    "language": "HTML",
-    "stars": 3036,
-    "forks": 4507,
-    "starsInPeriod": 20
-  },
-  {
-    "author": "AMAI-GmbH",
-    "name": "AI-Expert-Roadmap",
-    "href": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
-    "description": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
-    "language": "JavaScript",
-    "stars": 1405,
-    "forks": 51,
-    "starsInPeriod": 442
-  },
-  {
-    "author": "MoienTajik",
-    "name": "AspNetCore-Developer-Roadmap",
-    "href": "https://github.com/MoienTajik/AspNetCore-Developer-Roadmap",
-    "description": "Roadmap to becoming an ASP.NET Core developer in 2021",
-    "language": "",
-    "stars": 4789,
-    "forks": 835,
-    "starsInPeriod": 78
-  },
-  {
-    "author": "florinpop17",
-    "name": "app-ideas",
-    "href": "https://github.com/florinpop17/app-ideas",
-    "description": "A Collection of application ideas which can be used to improve your coding skills.",
-    "language": "",
-    "stars": 33162,
-    "forks": 4617,
-    "starsInPeriod": 548
-  },
-  {
-    "author": "ns1",
-    "name": "pktvisor",
-    "href": "https://github.com/ns1/pktvisor",
-    "description": "pktvisor summarizes data streams in real time and provides a clean, time-windowed HTTP interface and command line UI to the results.",
-    "language": "C++",
-    "stars": 223,
-    "forks": 12,
-    "starsInPeriod": 23
-  },
-  {
-    "author": "hardikkamboj",
-    "name": "An-Introduction-to-Statistical-Learning",
-    "href": "https://github.com/hardikkamboj/An-Introduction-to-Statistical-Learning",
-    "description": "This repository contains the exercises and its solution contained in the book An Introduction to Statistical Learning in python.",
-    "language": "Jupyter Notebook",
-    "stars": 950,
-    "forks": 248,
-    "starsInPeriod": 101
+    "stars": 2481,
+    "forks": 528,
+    "starsInPeriod": 62
   },
   {
     "author": "jakevdp",
@@ -155,69 +15,29 @@
     "href": "https://github.com/jakevdp/PythonDataScienceHandbook",
     "description": "Python Data Science Handbook: full text in Jupyter Notebooks",
     "language": "Jupyter Notebook",
-    "stars": 26293,
-    "forks": 11678,
-    "starsInPeriod": 116
+    "stars": 26424,
+    "forks": 11692,
+    "starsInPeriod": 127
   },
   {
-    "author": "chubin",
-    "name": "cheat.sh",
-    "href": "https://github.com/chubin/cheat.sh",
-    "description": "the only cheat sheet you need",
-    "language": "Python",
-    "stars": 20454,
-    "forks": 1004,
-    "starsInPeriod": 715
+    "author": "samyk",
+    "name": "slipstream",
+    "href": "https://github.com/samyk/slipstream",
+    "description": "NAT Slipstreaming allows an attacker to remotely access any TCP/UDP services bound to a victim machine, bypassing the victim’s NAT/firewall, just by the victim visiting a website",
+    "language": "Perl",
+    "stars": 657,
+    "forks": 70,
+    "starsInPeriod": 214
   },
   {
-    "author": "godotengine",
-    "name": "godot",
-    "href": "https://github.com/godotengine/godot",
-    "description": "Godot Engine – Multi-platform 2D and 3D game engine",
-    "language": "C++",
-    "stars": 34415,
-    "forks": 6518,
-    "starsInPeriod": 32
-  },
-  {
-    "author": "ErickWendel",
-    "name": "semana-javascript-expert01",
-    "href": "https://github.com/ErickWendel/semana-javascript-expert01",
-    "description": "Exemplos de código da primeira semana Javascript Expert",
-    "language": "JavaScript",
-    "stars": 484,
-    "forks": 102,
-    "starsInPeriod": 71
-  },
-  {
-    "author": "microsoft",
-    "name": "PowerToys",
-    "href": "https://github.com/microsoft/PowerToys",
-    "description": "Windows system utilities to maximize productivity",
-    "language": "C++",
-    "stars": 41041,
-    "forks": 2231,
-    "starsInPeriod": 109
-  },
-  {
-    "author": "ageron",
-    "name": "handson-ml",
-    "href": "https://github.com/ageron/handson-ml",
-    "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.",
-    "language": "Jupyter Notebook",
-    "stars": 21410,
-    "forks": 11559,
-    "starsInPeriod": 16
-  },
-  {
-    "author": "nidhaloff",
-    "name": "igel",
-    "href": "https://github.com/nidhaloff/igel",
-    "description": "a delightful machine learning tool that allows you to train, test and use models without writing code",
-    "language": "Python",
-    "stars": 2293,
-    "forks": 102,
-    "starsInPeriod": 39
+    "author": "harisqazi1",
+    "name": "Cybersecurity",
+    "href": "https://github.com/harisqazi1/Cybersecurity",
+    "description": "This is meant to assist people looking for entry level Cybersecurity jobs, as well as study up on skills that they can put on their resume.",
+    "language": "",
+    "stars": 154,
+    "forks": 17,
+    "starsInPeriod": 34
   },
   {
     "author": "GitSquared",
@@ -225,19 +45,199 @@
     "href": "https://github.com/GitSquared/edex-ui",
     "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
     "language": "JavaScript",
-    "stars": 19668,
-    "forks": 1114,
-    "starsInPeriod": 191
+    "stars": 20191,
+    "forks": 1134,
+    "starsInPeriod": 451
   },
   {
-    "author": "deepmind",
-    "name": "deepmind-research",
-    "href": "https://github.com/deepmind/deepmind-research",
-    "description": "This repository contains implementations and illustrative code to accompany DeepMind publications",
+    "author": "AMAI-GmbH",
+    "name": "AI-Expert-Roadmap",
+    "href": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "description": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
+    "language": "JavaScript",
+    "stars": 1863,
+    "forks": 69,
+    "starsInPeriod": 520
+  },
+  {
+    "author": "acidanthera",
+    "name": "OpenCorePkg",
+    "href": "https://github.com/acidanthera/OpenCorePkg",
+    "description": "OpenCore bootloader",
+    "language": "C",
+    "stars": 5039,
+    "forks": 863,
+    "starsInPeriod": 24
+  },
+  {
+    "author": "florinpop17",
+    "name": "app-ideas",
+    "href": "https://github.com/florinpop17/app-ideas",
+    "description": "A Collection of application ideas which can be used to improve your coding skills.",
+    "language": "",
+    "stars": 33433,
+    "forks": 4648,
+    "starsInPeriod": 301
+  },
+  {
+    "author": "LAB-MI",
+    "name": "attestation-deplacement-derogatoire-q4-2020",
+    "href": "https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020",
+    "description": "attestation-deplacement-derogatoire-q4-2020 public",
+    "language": "JavaScript",
+    "stars": 282,
+    "forks": 232,
+    "starsInPeriod": 71
+  },
+  {
+    "author": "awslabs",
+    "name": "djl",
+    "href": "https://github.com/awslabs/djl",
+    "description": "An Engine-Agnostic Deep Learning Framework in Java",
+    "language": "Java",
+    "stars": 1337,
+    "forks": 192,
+    "starsInPeriod": 29
+  },
+  {
+    "author": "funkygao",
+    "name": "cp-ddd-framework",
+    "href": "https://github.com/funkygao/cp-ddd-framework",
+    "description": "A lightweight flexible development framework for complex business architecture！轻量级业务中台开发框架，中台架构的顶层设计和完整解决方案！",
+    "language": "Java",
+    "stars": 217,
+    "forks": 46,
+    "starsInPeriod": 31
+  },
+  {
+    "author": "gto76",
+    "name": "python-cheatsheet",
+    "href": "https://github.com/gto76/python-cheatsheet",
+    "description": "Comprehensive Python Cheatsheet",
+    "language": "Python",
+    "stars": 15777,
+    "forks": 3094,
+    "starsInPeriod": 90
+  },
+  {
+    "author": "AdrienPoupa",
+    "name": "AttestationDeplacement",
+    "href": "https://github.com/AdrienPoupa/AttestationDeplacement",
+    "description": "Générez votre attestation de déplacement sur votre mobile à partir du document officiel.",
+    "language": "Java",
+    "stars": 83,
+    "forks": 10,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "algorithm-visualizer",
+    "name": "algorithm-visualizer",
+    "href": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
+    "language": "JavaScript",
+    "stars": 31918,
+    "forks": 5372,
+    "starsInPeriod": 32
+  },
+  {
+    "author": "mxrch",
+    "name": "GHunt",
+    "href": "https://github.com/mxrch/GHunt",
+    "description": "🕵️‍♂️ Investigate Google Accounts with emails.",
+    "language": "Python",
+    "stars": 5254,
+    "forks": 392,
+    "starsInPeriod": 328
+  },
+  {
+    "author": "trekhleb",
+    "name": "homemade-machine-learning",
+    "href": "https://github.com/trekhleb/homemade-machine-learning",
+    "description": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
     "language": "Jupyter Notebook",
-    "stars": 2869,
-    "forks": 630,
-    "starsInPeriod": 134
+    "stars": 15340,
+    "forks": 2907,
+    "starsInPeriod": 237
+  },
+  {
+    "author": "xingshaocheng",
+    "name": "architect-awesome",
+    "href": "https://github.com/xingshaocheng/architect-awesome",
+    "description": "后端架构师技术图谱",
+    "language": "",
+    "stars": 48003,
+    "forks": 15155,
+    "starsInPeriod": 51
+  },
+  {
+    "author": "chubin",
+    "name": "cheat.sh",
+    "href": "https://github.com/chubin/cheat.sh",
+    "description": "the only cheat sheet you need",
+    "language": "Python",
+    "stars": 20729,
+    "forks": 1017,
+    "starsInPeriod": 279
+  },
+  {
+    "author": "pcm-dpc",
+    "name": "COVID-19",
+    "href": "https://github.com/pcm-dpc/COVID-19",
+    "description": "COVID-19 Italia - Monitoraggio situazione",
+    "language": "",
+    "stars": 3592,
+    "forks": 2020,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "gohugoio",
+    "name": "hugo",
+    "href": "https://github.com/gohugoio/hugo",
+    "description": "The world’s fastest framework for building websites.",
+    "language": "Go",
+    "stars": 47718,
+    "forks": 5421,
+    "starsInPeriod": 75
+  },
+  {
+    "author": "rphl",
+    "name": "corona-widget",
+    "href": "https://github.com/rphl/corona-widget",
+    "description": "COVID-19 Inzidenz-Widget für iOS innerhalb Deutschlands 🇩🇪 (Kreis/Stadt + Bundesland + Trend)",
+    "language": "JavaScript",
+    "stars": 88,
+    "forks": 12,
+    "starsInPeriod": 15
+  },
+  {
+    "author": "horovod",
+    "name": "horovod",
+    "href": "https://github.com/horovod/horovod",
+    "description": "Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.",
+    "language": "Python",
+    "stars": 10309,
+    "forks": 1648,
+    "starsInPeriod": 15
+  },
+  {
+    "author": "saeidshirazi",
+    "name": "awesome-android-security",
+    "href": "https://github.com/saeidshirazi/awesome-android-security",
+    "description": "A curated list of Android Security materials and resources For Pentesters and Bug Hunters",
+    "language": "",
+    "stars": 338,
+    "forks": 49,
+    "starsInPeriod": 35
+  },
+  {
+    "author": "geohot",
+    "name": "tinygrad",
+    "href": "https://github.com/geohot/tinygrad",
+    "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "language": "Python",
+    "stars": 408,
+    "forks": 53,
+    "starsInPeriod": 125
   },
   {
     "author": "TheAlgorithms",
@@ -245,8 +245,8 @@
     "href": "https://github.com/TheAlgorithms/Java",
     "description": "All Algorithms implemented in Java",
     "language": "Java",
-    "stars": 31878,
-    "forks": 11127,
-    "starsInPeriod": 145
+    "stars": 32035,
+    "forks": 11155,
+    "starsInPeriod": 170
   }
 ]
