@@ -1,51 +1,51 @@
 # typescript
-- [vscode-stories](https://github.com/benawad/vscode-stories)
-  - Stories for VSCode
+- [admin-bro](https://github.com/SoftwareBrothers/admin-bro)
+  - AdminBro is an admin panel for apps written in node.js
+- [renovate](https://github.com/renovatebot/renovate)
+  - Universal dependency update tool that fits into your workflows.
+- [GitCracken](https://github.com/5cr1pt/GitCracken)
+  - Crack GitKraken
 - [vscode-stories-api](https://github.com/benawad/vscode-stories-api)
   - api for vscode stories
-- [vdx](https://github.com/yuanqing/vdx)
-  - 🎞️ An intuitive CLI for processing video, powered by FFmpeg
-- [jovo-framework](https://github.com/jovotech/jovo-framework)
-  - 🔈 The Open Source Voice Layer: Build Voice Experiences for Alexa, Google Assistant, Samsung Bixby, Web Apps, and much more
-- [etcher](https://github.com/balena-io/etcher)
-  - Flash OS images to SD cards & USB drives, safely and easily.
-- [hetty](https://github.com/dstotijn/hetty)
-  - Hetty is an HTTP toolkit for security research.
-- [uniswap-interface](https://github.com/Uniswap/uniswap-interface)
-  - 🦄 An open source interface for the Uniswap protocol
-- [tfjs-models](https://github.com/tensorflow/tfjs-models)
-  - Pretrained models for TensorFlow.js
-- [frontend](https://github.com/home-assistant/frontend)
-  - 🍭 Frontend for Home Assistant
-- [apollo-server](https://github.com/apollographql/apollo-server)
-  - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
-- [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
-  - ✨ Monorepo for all the tooling which enables ESLint to support TypeScript
-- [angularfire](https://github.com/angular/angularfire)
-  - The official Angular library for Firebase.
-- [room-assistant](https://github.com/mKeRix/room-assistant)
-  - Presence tracking and more for automation on the room-level
-- [jest](https://github.com/facebook/jest)
-  - Delightful JavaScript Testing.
-- [webamp](https://github.com/captbaritone/webamp)
-  - Winamp 2 reimplemented for the browser
-- [boxednode](https://github.com/mongodb-js/boxednode)
-  - 📦 boxednode – Ship a JS file with Node.js in a box
-- [components](https://github.com/angular/components)
-  - Component infrastructure and Material Design components for Angular
-- [vueuse](https://github.com/antfu/vueuse)
-  - 🧰 Collection of Composition API utils for Vue 2 and 3
-- [SponsorBlock](https://github.com/ajayyy/SponsorBlock)
-  - Skip YouTube video sponsors (browser extension)
-- [sapper](https://github.com/sveltejs/sapper)
-  - The next small thing in web development, powered by Svelte
-- [vscode-stories-serverless-image-uploader](https://github.com/benawad/vscode-stories-serverless-image-uploader)
-  - uploads gifs to azure blob storage
-- [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
-  - Tasks for Azure Pipelines
-- [erxes](https://github.com/erxes/erxes)
-  - Free and open fair-code licensed all-in-one growth marketing & management software
-- [shell](https://github.com/pop-os/shell)
-  - Pop!_OS Shell
+- [snyk](https://github.com/snyk/snyk)
+  - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
 - [aws-secure-environment-accelerator](https://github.com/aws-samples/aws-secure-environment-accelerator)
   - The AWS Secure Environment Accelerator is a tool designed to help deploy and operate secure multi-account AWS environments on an ongoing basis. The power of the solution is the configuration file which enables the completely automated deployment of customizable architectures within AWS without changing a single line of code.
+- [ionic-framework](https://github.com/ionic-team/ionic-framework)
+  - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+- [class-validator](https://github.com/typestack/class-validator)
+  - Decorator-based property validation for classes.
+- [apollo-server](https://github.com/apollographql/apollo-server)
+  - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
+- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
+  - The source for REST API specifications for Microsoft Azure.
+- [core](https://github.com/ngx-translate/core)
+  - The internationalization (i18n) library for Angular
+- [lireddit](https://github.com/benawad/lireddit)
+  - 
+- [angular](https://github.com/angular/angular)
+  - One framework. Mobile & desktop.
+- [sp-dev-fx-webparts](https://github.com/pnp/sp-dev-fx-webparts)
+  - SharePoint Framework web part, Teams tab, personal app, app page samples
+- [react-admin](https://github.com/marmelab/react-admin)
+  - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
+- [TypeScript](https://github.com/microsoft/TypeScript)
+  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [grafana](https://github.com/grafana/grafana)
+  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [typescript-tutorial](https://github.com/xcatliu/typescript-tutorial)
+  - TypeScript 入门教程
+- [storybook](https://github.com/storybookjs/storybook)
+  - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+  - The repository for high quality TypeScript type definitions.
+- [amplify-js](https://github.com/aws-amplify/amplify-js)
+  - A declarative JavaScript library for application development using cloud services.
+- [og-image](https://github.com/vercel/og-image)
+  - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
+- [tinymce](https://github.com/tinymce/tinymce)
+  - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
+- [vscode-stories](https://github.com/benawad/vscode-stories)
+  - Stories for VSCode
+- [amis](https://github.com/baidu/amis)
+  - 前端低代码框架，通过 JSON 配置就能生成各种后台页面。

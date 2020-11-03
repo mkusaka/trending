@@ -1,33 +1,43 @@
 [
   {
+    "author": "sogou",
+    "name": "workflow",
+    "href": "https://github.com/sogou/workflow",
+    "description": "C++ Programming Paradigm with Asynchronous Networking",
+    "language": "C++",
+    "stars": 2481,
+    "forks": 528,
+    "starsInPeriod": 62
+  },
+  {
     "author": "Aircoookie",
     "name": "WLED",
     "href": "https://github.com/Aircoookie/WLED",
     "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
     "language": "C++",
-    "stars": 3252,
-    "forks": 571,
-    "starsInPeriod": 34
+    "stars": 3345,
+    "forks": 579,
+    "starsInPeriod": 98
   },
   {
-    "author": "ns1",
-    "name": "pktvisor",
-    "href": "https://github.com/ns1/pktvisor",
-    "description": "pktvisor summarizes data streams in real time and provides a clean, time-windowed HTTP interface and command line UI to the results.",
+    "author": "microsoft",
+    "name": "vcpkg",
+    "href": "https://github.com/microsoft/vcpkg",
+    "description": "C++ Library Manager for Windows, Linux, and MacOS",
     "language": "C++",
-    "stars": 223,
-    "forks": 12,
-    "starsInPeriod": 23
+    "stars": 10794,
+    "forks": 2968,
+    "starsInPeriod": 11
   },
   {
-    "author": "godotengine",
-    "name": "godot",
-    "href": "https://github.com/godotengine/godot",
-    "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "author": "MarlinFirmware",
+    "name": "Marlin",
+    "href": "https://github.com/MarlinFirmware/Marlin",
+    "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
     "language": "C++",
-    "stars": 34415,
-    "forks": 6518,
-    "starsInPeriod": 32
+    "stars": 8661,
+    "forks": 12147,
+    "starsInPeriod": 9
   },
   {
     "author": "microsoft",
@@ -35,79 +45,109 @@
     "href": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C++",
-    "stars": 41041,
-    "forks": 2231,
-    "starsInPeriod": 109
+    "stars": 41355,
+    "forks": 2239,
+    "starsInPeriod": 340
   },
   {
-    "author": "DrKLO",
-    "name": "Telegram",
-    "href": "https://github.com/DrKLO/Telegram",
-    "description": "Telegram for Android source",
+    "author": "gaoxiang12",
+    "name": "slambook2",
+    "href": "https://github.com/gaoxiang12/slambook2",
+    "description": "edition 2 of the slambook",
     "language": "C++",
-    "stars": 15034,
-    "forks": 5511,
-    "starsInPeriod": 9
+    "stars": 1255,
+    "forks": 614,
+    "starsInPeriod": 5
   },
   {
-    "author": "electron",
-    "name": "electron",
-    "href": "https://github.com/electron/electron",
-    "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+    "author": "mozilla",
+    "name": "DeepSpeech",
+    "href": "https://github.com/mozilla/DeepSpeech",
+    "description": "DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.",
     "language": "C++",
-    "stars": 86709,
-    "forks": 11644,
-    "starsInPeriod": 34
+    "stars": 15624,
+    "forks": 2910,
+    "starsInPeriod": 40
   },
   {
-    "author": "trojan-gfw",
-    "name": "trojan",
-    "href": "https://github.com/trojan-gfw/trojan",
-    "description": "An unidentifiable mechanism that helps you bypass GFW.",
+    "author": "root-project",
+    "name": "root",
+    "href": "https://github.com/root-project/root",
+    "description": "The official repository for ROOT: analyzing, storing and visualizing big data, scientifically",
     "language": "C++",
-    "stars": 13324,
-    "forks": 2433,
-    "starsInPeriod": 10
+    "stars": 1271,
+    "forks": 787,
+    "starsInPeriod": 2
   },
   {
-    "author": "ValveSoftware",
-    "name": "Proton",
-    "href": "https://github.com/ValveSoftware/Proton",
-    "description": "Compatibility tool for Steam Play based on Wine and additional components",
+    "author": "IntelRealSense",
+    "name": "librealsense",
+    "href": "https://github.com/IntelRealSense/librealsense",
+    "description": "Intel® RealSense™ SDK",
     "language": "C++",
-    "stars": 12280,
-    "forks": 484,
-    "starsInPeriod": 9
+    "stars": 4458,
+    "forks": 3083,
+    "starsInPeriod": 7
   },
   {
-    "author": "qbittorrent",
-    "name": "qBittorrent",
-    "href": "https://github.com/qbittorrent/qBittorrent",
-    "description": "qBittorrent BitTorrent client",
+    "author": "PX4",
+    "name": "PX4-Autopilot",
+    "href": "https://github.com/PX4/PX4-Autopilot",
+    "description": "PX4 Autopilot Software",
     "language": "C++",
-    "stars": 10401,
-    "forks": 1875,
+    "stars": 3925,
+    "forks": 10534,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "x64dbg",
+    "name": "x64dbg",
+    "href": "https://github.com/x64dbg/x64dbg",
+    "description": "An open-source x64/x32 debugger for windows.",
+    "language": "C++",
+    "stars": 35784,
+    "forks": 1449,
     "starsInPeriod": 13
   },
   {
-    "author": "skypjack",
-    "name": "entt",
-    "href": "https://github.com/skypjack/entt",
-    "description": "Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more",
+    "author": "CGAL",
+    "name": "cgal",
+    "href": "https://github.com/CGAL/cgal",
+    "description": "The public CGAL repository, see the README below",
     "language": "C++",
-    "stars": 4240,
-    "forks": 377,
+    "stars": 2166,
+    "forks": 819,
     "starsInPeriod": 4
   },
   {
-    "author": "topjohnwu",
-    "name": "Magisk",
-    "href": "https://github.com/topjohnwu/Magisk",
-    "description": "The Magic Mask for Android",
+    "author": "joneivind",
+    "name": "Self-Driving-Truck",
+    "href": "https://github.com/joneivind/Self-Driving-Truck",
+    "description": "Self-driving smallscale truck with wireless charging - Master thesis @ NTNU 2019",
     "language": "C++",
-    "stars": 13939,
-    "forks": 2281,
-    "starsInPeriod": 16
+    "stars": 99,
+    "forks": 35,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "protocolbuffers",
+    "name": "protobuf",
+    "href": "https://github.com/protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "language": "C++",
+    "stars": 44584,
+    "forks": 11972,
+    "starsInPeriod": 28
+  },
+  {
+    "author": "notepad-plus-plus",
+    "name": "notepad-plus-plus",
+    "href": "https://github.com/notepad-plus-plus/notepad-plus-plus",
+    "description": "Notepad++ official repository",
+    "language": "C++",
+    "stars": 12078,
+    "forks": 2943,
+    "starsInPeriod": 7
   },
   {
     "author": "Xaymar",
@@ -115,89 +155,89 @@
     "href": "https://github.com/Xaymar/obs-StreamFX",
     "description": "Bring your stream back to life with modern effects!",
     "language": "C++",
-    "stars": 753,
-    "forks": 86,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "miharix",
-    "name": "miharix-wifi-rc",
-    "href": "https://github.com/miharix/miharix-wifi-rc",
-    "description": "PCB and Example Software for making super cheap RC control over WiFi (mobile phone,tablet,...)",
-    "language": "C++",
-    "stars": 34,
-    "forks": 5,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "Palakis",
-    "name": "obs-websocket",
-    "href": "https://github.com/Palakis/obs-websocket",
-    "description": "Remote-control OBS Studio through WebSockets",
-    "language": "C++",
-    "stars": 1380,
-    "forks": 266,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "zhongyang219",
-    "name": "TrafficMonitor",
-    "href": "https://github.com/zhongyang219/TrafficMonitor",
-    "description": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。",
-    "language": "C++",
-    "stars": 9598,
-    "forks": 1215,
-    "starsInPeriod": 15
-  },
-  {
-    "author": "me-no-dev",
-    "name": "ESPAsyncWebServer",
-    "href": "https://github.com/me-no-dev/ESPAsyncWebServer",
-    "description": "Async Web Server for ESP8266 and ESP32",
-    "language": "C++",
-    "stars": 1503,
-    "forks": 451,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "LMMS",
-    "name": "lmms",
-    "href": "https://github.com/LMMS/lmms",
-    "description": "Cross-platform music production software",
-    "language": "C++",
-    "stars": 4398,
-    "forks": 678,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "carla-simulator",
-    "name": "carla",
-    "href": "https://github.com/carla-simulator/carla",
-    "description": "Open-source simulator for autonomous driving research.",
-    "language": "C++",
-    "stars": 5120,
-    "forks": 1502,
+    "stars": 759,
+    "forks": 88,
     "starsInPeriod": 6
   },
   {
-    "author": "Chatterino",
-    "name": "chatterino2",
-    "href": "https://github.com/Chatterino/chatterino2",
-    "description": "Chat client for https://twitch.tv",
+    "author": "ApolloAuto",
+    "name": "apollo",
+    "href": "https://github.com/ApolloAuto/apollo",
+    "description": "An open autonomous driving platform",
     "language": "C++",
-    "stars": 548,
-    "forks": 130,
+    "stars": 17270,
+    "forks": 6590,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "google",
+    "name": "googletest",
+    "href": "https://github.com/google/googletest",
+    "description": "Googletest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "stars": 18479,
+    "forks": 6748,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "ClickHouse",
+    "name": "ClickHouse",
+    "href": "https://github.com/ClickHouse/ClickHouse",
+    "description": "ClickHouse is a free analytics DBMS for big data",
+    "language": "C++",
+    "stars": 12735,
+    "forks": 2546,
+    "starsInPeriod": 19
+  },
+  {
+    "author": "opencv",
+    "name": "opencv_contrib",
+    "href": "https://github.com/opencv/opencv_contrib",
+    "description": "Repository for OpenCV's extra modules",
+    "language": "C++",
+    "stars": 5944,
+    "forks": 4708,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "AGWA",
+    "name": "git-crypt",
+    "href": "https://github.com/AGWA/git-crypt",
+    "description": "Transparent file encryption in git",
+    "language": "C++",
+    "stars": 5096,
+    "forks": 308,
     "starsInPeriod": 5
   },
   {
-    "author": "mamedev",
-    "name": "mame",
-    "href": "https://github.com/mamedev/mame",
-    "description": "MAME",
+    "author": "SaschaWillems",
+    "name": "Vulkan",
+    "href": "https://github.com/SaschaWillems/Vulkan",
+    "description": "Examples and demos for the new Vulkan API",
     "language": "C++",
-    "stars": 4772,
-    "forks": 1207,
-    "starsInPeriod": 4
+    "stars": 5600,
+    "forks": 1122,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "gabime",
+    "name": "spdlog",
+    "href": "https://github.com/gabime/spdlog",
+    "description": "Fast C++ logging library.",
+    "language": "C++",
+    "stars": 9969,
+    "forks": 2131,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "google",
+    "name": "mediapipe",
+    "href": "https://github.com/google/mediapipe",
+    "description": "MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.",
+    "language": "C++",
+    "stars": 9514,
+    "forks": 1778,
+    "starsInPeriod": 67
   },
   {
     "author": "rathena",
@@ -205,48 +245,8 @@
     "href": "https://github.com/rathena/rathena",
     "description": "rAthena is an open-source cross-platform MMORPG server.",
     "language": "C++",
-    "stars": 1556,
-    "forks": 1458,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "bitcoin",
-    "name": "bitcoin",
-    "href": "https://github.com/bitcoin/bitcoin",
-    "description": "Bitcoin Core integration/staging tree",
-    "language": "C++",
-    "stars": 45742,
-    "forks": 26548,
-    "starsInPeriod": 14
-  },
-  {
-    "author": "changkun",
-    "name": "modern-cpp-tutorial",
-    "href": "https://github.com/changkun/modern-cpp-tutorial",
-    "description": "📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly",
-    "language": "C++",
-    "stars": 8343,
-    "forks": 1152,
-    "starsInPeriod": 43
-  },
-  {
-    "author": "mongoose-os-apps",
-    "name": "shelly-homekit",
-    "href": "https://github.com/mongoose-os-apps/shelly-homekit",
-    "description": "Apple HomeKit firmware for Shelly switches",
-    "language": "C++",
-    "stars": 300,
-    "forks": 44,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "otland",
-    "name": "forgottenserver",
-    "href": "https://github.com/otland/forgottenserver",
-    "description": "A free and open-source MMORPG server emulator written in C++",
-    "language": "C++",
-    "stars": 965,
-    "forks": 731,
-    "starsInPeriod": 1
+    "stars": 1558,
+    "forks": 1460,
+    "starsInPeriod": 2
   }
 ]

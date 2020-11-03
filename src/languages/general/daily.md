@@ -1,51 +1,51 @@
 # general
-- [research_public](https://github.com/quantopian/research_public) : Jupyter Notebook
-  - Quantitative research and educational materials
+- [workflow](https://github.com/sogou/workflow) : C++
+  - C++ Programming Paradigm with Asynchronous Networking
+- [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) : Jupyter Notebook
+  - Python Data Science Handbook: full text in Jupyter Notebooks
+- [slipstream](https://github.com/samyk/slipstream) : Perl
+  - NAT Slipstreaming allows an attacker to remotely access any TCP/UDP services bound to a victim machine, bypassing the victim’s NAT/firewall, just by the victim visiting a website
+- [Cybersecurity](https://github.com/harisqazi1/Cybersecurity) : 
+  - This is meant to assist people looking for entry level Cybersecurity jobs, as well as study up on skills that they can put on their resume.
+- [edex-ui](https://github.com/GitSquared/edex-ui) : JavaScript
+  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+- [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) : JavaScript
+  - Roadmap to becoming an Artificial Intelligence Expert in 2020
+- [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) : C
+  - OpenCore bootloader
+- [app-ideas](https://github.com/florinpop17/app-ideas) : 
+  - A Collection of application ideas which can be used to improve your coding skills.
 - [attestation-deplacement-derogatoire-q4-2020](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020) : JavaScript
   - attestation-deplacement-derogatoire-q4-2020 public
-- [tinygrad](https://github.com/geohot/tinygrad) : Python
-  - You like pytorch? You like micrograd? You love tinygrad! ❤️
-- [vscode-stories](https://github.com/benawad/vscode-stories) : TypeScript
-  - Stories for VSCode
-- [zipline](https://github.com/quantopian/zipline) : Python
-  - Zipline, a Pythonic Algorithmic Trading Library
-- [WLED](https://github.com/Aircoookie/WLED) : C++
-  - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
-- [flutter](https://github.com/flutter/flutter) : Dart
-  - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+- [djl](https://github.com/awslabs/djl) : Java
+  - An Engine-Agnostic Deep Learning Framework in Java
+- [cp-ddd-framework](https://github.com/funkygao/cp-ddd-framework) : Java
+  - A lightweight flexible development framework for complex business architecture！轻量级业务中台开发框架，中台架构的顶层设计和完整解决方案！
+- [python-cheatsheet](https://github.com/gto76/python-cheatsheet) : Python
+  - Comprehensive Python Cheatsheet
+- [AttestationDeplacement](https://github.com/AdrienPoupa/AttestationDeplacement) : Java
+  - Générez votre attestation de déplacement sur votre mobile à partir du document officiel.
+- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) : JavaScript
+  - 🎆Interactive Online Platform that Visualizes Algorithms from Code
 - [GHunt](https://github.com/mxrch/GHunt) : Python
   - 🕵️‍♂️ Investigate Google Accounts with emails.
 - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) : Jupyter Notebook
   - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
-- [hyperblog](https://github.com/freddier/hyperblog) : HTML
-  - Un blog increíble para el curso de Git y Github de Platzi
-- [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) : JavaScript
-  - Roadmap to becoming an Artificial Intelligence Expert in 2020
-- [AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) : 
-  - Roadmap to becoming an ASP.NET Core developer in 2021
-- [app-ideas](https://github.com/florinpop17/app-ideas) : 
-  - A Collection of application ideas which can be used to improve your coding skills.
-- [pktvisor](https://github.com/ns1/pktvisor) : C++
-  - pktvisor summarizes data streams in real time and provides a clean, time-windowed HTTP interface and command line UI to the results.
-- [An-Introduction-to-Statistical-Learning](https://github.com/hardikkamboj/An-Introduction-to-Statistical-Learning) : Jupyter Notebook
-  - This repository contains the exercises and its solution contained in the book An Introduction to Statistical Learning in python.
-- [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) : Jupyter Notebook
-  - Python Data Science Handbook: full text in Jupyter Notebooks
+- [architect-awesome](https://github.com/xingshaocheng/architect-awesome) : 
+  - 后端架构师技术图谱
 - [cheat.sh](https://github.com/chubin/cheat.sh) : Python
   - the only cheat sheet you need
-- [godot](https://github.com/godotengine/godot) : C++
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [semana-javascript-expert01](https://github.com/ErickWendel/semana-javascript-expert01) : JavaScript
-  - Exemplos de código da primeira semana Javascript Expert
-- [PowerToys](https://github.com/microsoft/PowerToys) : C++
-  - Windows system utilities to maximize productivity
-- [handson-ml](https://github.com/ageron/handson-ml) : Jupyter Notebook
-  - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
-- [igel](https://github.com/nidhaloff/igel) : Python
-  - a delightful machine learning tool that allows you to train, test and use models without writing code
-- [edex-ui](https://github.com/GitSquared/edex-ui) : JavaScript
-  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [deepmind-research](https://github.com/deepmind/deepmind-research) : Jupyter Notebook
-  - This repository contains implementations and illustrative code to accompany DeepMind publications
+- [COVID-19](https://github.com/pcm-dpc/COVID-19) : 
+  - COVID-19 Italia - Monitoraggio situazione
+- [hugo](https://github.com/gohugoio/hugo) : Go
+  - The world’s fastest framework for building websites.
+- [corona-widget](https://github.com/rphl/corona-widget) : JavaScript
+  - COVID-19 Inzidenz-Widget für iOS innerhalb Deutschlands 🇩🇪 (Kreis/Stadt + Bundesland + Trend)
+- [horovod](https://github.com/horovod/horovod) : Python
+  - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
+- [awesome-android-security](https://github.com/saeidshirazi/awesome-android-security) : 
+  - A curated list of Android Security materials and resources For Pentesters and Bug Hunters
+- [tinygrad](https://github.com/geohot/tinygrad) : Python
+  - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [Java](https://github.com/TheAlgorithms/Java) : Java
   - All Algorithms implemented in Java

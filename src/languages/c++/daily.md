@@ -1,51 +1,51 @@
 # c++
+- [workflow](https://github.com/sogou/workflow)
+  - C++ Programming Paradigm with Asynchronous Networking
 - [WLED](https://github.com/Aircoookie/WLED)
   - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
-- [pktvisor](https://github.com/ns1/pktvisor)
-  - pktvisor summarizes data streams in real time and provides a clean, time-windowed HTTP interface and command line UI to the results.
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
+- [vcpkg](https://github.com/microsoft/vcpkg)
+  - C++ Library Manager for Windows, Linux, and MacOS
+- [Marlin](https://github.com/MarlinFirmware/Marlin)
+  - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
 - [PowerToys](https://github.com/microsoft/PowerToys)
   - Windows system utilities to maximize productivity
-- [Telegram](https://github.com/DrKLO/Telegram)
-  - Telegram for Android source
-- [electron](https://github.com/electron/electron)
-  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [trojan](https://github.com/trojan-gfw/trojan)
-  - An unidentifiable mechanism that helps you bypass GFW.
-- [Proton](https://github.com/ValveSoftware/Proton)
-  - Compatibility tool for Steam Play based on Wine and additional components
-- [qBittorrent](https://github.com/qbittorrent/qBittorrent)
-  - qBittorrent BitTorrent client
-- [entt](https://github.com/skypjack/entt)
-  - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
-- [Magisk](https://github.com/topjohnwu/Magisk)
-  - The Magic Mask for Android
+- [slambook2](https://github.com/gaoxiang12/slambook2)
+  - edition 2 of the slambook
+- [DeepSpeech](https://github.com/mozilla/DeepSpeech)
+  - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
+- [root](https://github.com/root-project/root)
+  - The official repository for ROOT: analyzing, storing and visualizing big data, scientifically
+- [librealsense](https://github.com/IntelRealSense/librealsense)
+  - Intel® RealSense™ SDK
+- [PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
+  - PX4 Autopilot Software
+- [x64dbg](https://github.com/x64dbg/x64dbg)
+  - An open-source x64/x32 debugger for windows.
+- [cgal](https://github.com/CGAL/cgal)
+  - The public CGAL repository, see the README below
+- [Self-Driving-Truck](https://github.com/joneivind/Self-Driving-Truck)
+  - Self-driving smallscale truck with wireless charging - Master thesis @ NTNU 2019
+- [protobuf](https://github.com/protocolbuffers/protobuf)
+  - Protocol Buffers - Google's data interchange format
+- [notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)
+  - Notepad++ official repository
 - [obs-StreamFX](https://github.com/Xaymar/obs-StreamFX)
   - Bring your stream back to life with modern effects!
-- [miharix-wifi-rc](https://github.com/miharix/miharix-wifi-rc)
-  - PCB and Example Software for making super cheap RC control over WiFi (mobile phone,tablet,...)
-- [obs-websocket](https://github.com/Palakis/obs-websocket)
-  - Remote-control OBS Studio through WebSockets
-- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
-  - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
-- [ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer)
-  - Async Web Server for ESP8266 and ESP32
-- [lmms](https://github.com/LMMS/lmms)
-  - Cross-platform music production software
-- [carla](https://github.com/carla-simulator/carla)
-  - Open-source simulator for autonomous driving research.
-- [chatterino2](https://github.com/Chatterino/chatterino2)
-  - Chat client for https://twitch.tv
-- [mame](https://github.com/mamedev/mame)
-  - MAME
+- [apollo](https://github.com/ApolloAuto/apollo)
+  - An open autonomous driving platform
+- [googletest](https://github.com/google/googletest)
+  - Googletest - Google Testing and Mocking Framework
+- [ClickHouse](https://github.com/ClickHouse/ClickHouse)
+  - ClickHouse is a free analytics DBMS for big data
+- [opencv_contrib](https://github.com/opencv/opencv_contrib)
+  - Repository for OpenCV's extra modules
+- [git-crypt](https://github.com/AGWA/git-crypt)
+  - Transparent file encryption in git
+- [Vulkan](https://github.com/SaschaWillems/Vulkan)
+  - Examples and demos for the new Vulkan API
+- [spdlog](https://github.com/gabime/spdlog)
+  - Fast C++ logging library.
+- [mediapipe](https://github.com/google/mediapipe)
+  - MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.
 - [rathena](https://github.com/rathena/rathena)
   - rAthena is an open-source cross-platform MMORPG server.
-- [bitcoin](https://github.com/bitcoin/bitcoin)
-  - Bitcoin Core integration/staging tree
-- [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
-  - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly
-- [shelly-homekit](https://github.com/mongoose-os-apps/shelly-homekit)
-  - Apple HomeKit firmware for Shelly switches
-- [forgottenserver](https://github.com/otland/forgottenserver)
-  - A free and open-source MMORPG server emulator written in C++

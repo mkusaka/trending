@@ -1,51 +1,51 @@
 # go
-- [trojan-go](https://github.com/p4gefau1t/trojan-go)
-  - Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
-- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
-  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
-- [dasel](https://github.com/TomWright/dasel)
-  - Query and update data structures from the command line. Comparable to jq/yq but supports JSON, TOML, YAML and XML with zero runtime dependencies.
-- [flux2](https://github.com/fluxcd/flux2)
-  - Kubernetes toolkit for assembling CD pipelines the GitOps way
-- [thola](https://github.com/inexio/thola)
-  - A tool for monitoring and provisioning network devices written in Go.
-- [rclone](https://github.com/rclone/rclone)
-  - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
-- [gf](https://github.com/gogf/gf)
-  - GoFrame is a modular, powerful, high-performance and production-ready application development framework of golang.
-- [fyne](https://github.com/fyne-io/fyne)
-  - Cross platform GUI in Go based on Material Design
-- [casbin](https://github.com/casbin/casbin)
-  - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
 - [hugo](https://github.com/gohugoio/hugo)
   - The world’s fastest framework for building websites.
-- [automuteus](https://github.com/denverquane/automuteus)
-  - Discord Bot to automute Among Us players at round transitions, in conjunction with https://github.com/denverquane/amonguscapture
-- [Go](https://github.com/TheAlgorithms/Go)
-  - Algorithms Implemented in GoLang
-- [which-dns](https://github.com/redirect2me/which-dns)
-  - Detects which DNS server is being used
-- [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
-  - Network-wide ads & trackers blocking DNS server
-- [awesome-go](https://github.com/avelino/awesome-go)
-  - A curated list of awesome Go frameworks, libraries and software
-- [glab](https://github.com/profclems/glab)
-  - An open-source GitLab command line tool
-- [goquery](https://github.com/PuerkitoBio/goquery)
-  - A little like that j-thing, only in Go.
-- [matterbridge](https://github.com/42wim/matterbridge)
-  - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble and more with REST API (mattermost not required!)
-- [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
-  - 《Mastering GO》中文译本，《玩转 GO》。
-- [nuclio](https://github.com/nuclio/nuclio)
-  - High-Performance Serverless event and data processing platform
-- [lazygit](https://github.com/jesseduffield/lazygit)
-  - simple terminal UI for git commands
+- [nitro](https://github.com/asim/nitro)
+  - Nitro (formerly known as Go Micro) is a blazingly fast framework for distributed app development.
 - [bit](https://github.com/chriswalz/bit)
   - Bit is a modern Git CLI
+- [prometheus](https://github.com/prometheus/prometheus)
+  - The Prometheus monitoring system and time series database.
+- [kubernetes](https://github.com/kubernetes/kubernetes)
+  - Production-Grade Container Scheduling and Management
+- [moby](https://github.com/moby/moby)
+  - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [pterm](https://github.com/pterm/pterm)
-  - ✨ A modern go module to beautify console output. Can be used without configuration, but if desired, everything can be customized down to the smallest detail.
-- [subfinder](https://github.com/projectdiscovery/subfinder)
-  - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
-- [sh](https://github.com/mvdan/sh)
-  - A shell parser, formatter, and interpreter with bash support; includes shfmt
+  - ✨ A modern go module to beautify console output. Featuring charts, progressbars, tables, trees and many more 🚀 It's completely configurable and 100% cross-platform compatible.
+- [charts](https://github.com/helm/charts)
+  - Curated applications for Kubernetes
+- [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
+  - 《Mastering GO》中文译本，《玩转 GO》。
+- [golangci-lint](https://github.com/golangci/golangci-lint)
+  - Fast linters Runner for Go
+- [terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
+  - Terraform AWS provider
+- [ko](https://github.com/google/ko)
+  - Build and deploy Go applications on Kubernetes
+- [flannel](https://github.com/coreos/flannel)
+  - flannel is a network fabric for containers, designed for Kubernetes
+- [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
+  - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+- [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm)
+  - Terraform provider for Azure Resource Manager
+- [aws-sdk-go](https://github.com/aws/aws-sdk-go)
+  - AWS SDK for the Go programming language.
+- [serving](https://github.com/knative/serving)
+  - Kubernetes-based, scale-to-zero, request-driven compute
+- [go-sqlmock](https://github.com/DATA-DOG/go-sqlmock)
+  - Sql mock driver for golang to test database interactions
+- [runc](https://github.com/opencontainers/runc)
+  - CLI tool for spawning and running containers according to the OCI specification
+- [temporal](https://github.com/temporalio/temporal)
+  - Temporal service and CLI
+- [gosec](https://github.com/securego/gosec)
+  - Golang security checker
+- [Go](https://github.com/TheAlgorithms/Go)
+  - Algorithms Implemented in GoLang
+- [terraformer](https://github.com/GoogleCloudPlatform/terraformer)
+  - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+- [govalidator](https://github.com/asaskevich/govalidator)
+  - [Go] Package of validators and sanitizers for strings, numerics, slices and structs
+- [flux](https://github.com/fluxcd/flux)
+  - The GitOps Kubernetes operator
