@@ -1,51 +1,51 @@
 # general
-- [workflow](https://github.com/sogou/workflow) : C++
-  - C++ Programming Paradigm with Asynchronous Networking
-- [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) : Jupyter Notebook
-  - Python Data Science Handbook: full text in Jupyter Notebooks
-- [slipstream](https://github.com/samyk/slipstream) : Perl
-  - NAT Slipstreaming allows an attacker to remotely access any TCP/UDP services bound to a victim machine, bypassing the victim’s NAT/firewall, just by the victim visiting a website
-- [Cybersecurity](https://github.com/harisqazi1/Cybersecurity) : 
-  - This is meant to assist people looking for entry level Cybersecurity jobs, as well as study up on skills that they can put on their resume.
+- [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) : Python
+  - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
 - [edex-ui](https://github.com/GitSquared/edex-ui) : JavaScript
   - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) : JavaScript
-  - Roadmap to becoming an Artificial Intelligence Expert in 2020
-- [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) : C
-  - OpenCore bootloader
-- [app-ideas](https://github.com/florinpop17/app-ideas) : 
-  - A Collection of application ideas which can be used to improve your coding skills.
-- [attestation-deplacement-derogatoire-q4-2020](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020) : JavaScript
-  - attestation-deplacement-derogatoire-q4-2020 public
-- [djl](https://github.com/awslabs/djl) : Java
-  - An Engine-Agnostic Deep Learning Framework in Java
-- [cp-ddd-framework](https://github.com/funkygao/cp-ddd-framework) : Java
-  - A lightweight flexible development framework for complex business architecture！轻量级业务中台开发框架，中台架构的顶层设计和完整解决方案！
-- [python-cheatsheet](https://github.com/gto76/python-cheatsheet) : Python
-  - Comprehensive Python Cheatsheet
-- [AttestationDeplacement](https://github.com/AdrienPoupa/AttestationDeplacement) : Java
-  - Générez votre attestation de déplacement sur votre mobile à partir du document officiel.
-- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) : JavaScript
-  - 🎆Interactive Online Platform that Visualizes Algorithms from Code
 - [GHunt](https://github.com/mxrch/GHunt) : Python
   - 🕵️‍♂️ Investigate Google Accounts with emails.
-- [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) : Jupyter Notebook
-  - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
+- [youtube-dl](https://github.com/l1ving/youtube-dl) : Python
+  - A fork of youtube-dl, for archival purposes.
+- [ExoPlayer](https://github.com/google/ExoPlayer) : Java
+  - An extensible media player for Android
+- [pi-pwnbox-rogueap](https://github.com/koutto/pi-pwnbox-rogueap) : Shell
+  - Homemade Pwnbox 🚀 / Rogue AP 📡 based on Raspberry Pi — WiFi Hacking Cheatsheets + MindMap 💡
+- [python-cheatsheet](https://github.com/gto76/python-cheatsheet) : Python
+  - Comprehensive Python Cheatsheet
+- [DearPyGui](https://github.com/hoffstadt/DearPyGui) : C++
+  - Dear PyGui: A Bloat-free Graphical User Interface for Python with minimal dependencies
+- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) : JavaScript
+  - 🎆Interactive Online Platform that Visualizes Algorithms from Code
+- [Cybersecurity](https://github.com/harisqazi1/Cybersecurity) : 
+  - This is meant to assist people looking for entry level Cybersecurity jobs, as well as study up on skills that they can put on their resume.
+- [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) : JavaScript
+  - Roadmap to becoming an Artificial Intelligence Expert in 2020
+- [ThreatPursuit-VM](https://github.com/fireeye/ThreatPursuit-VM) : PowerShell
+  - Threat Pursuit Virtual Machine (VM): A fully customizable, open-sourced Windows-based distribution focused on threat intelligence analysis and hunting designed for intel and malware analysts as well as threat hunters to get up and running quickly.
+- [workflow](https://github.com/sogou/workflow) : C++
+  - C++ Programming Paradigm with Asynchronous Networking
+- [engine](https://github.com/Qovery/engine) : Rust
+  - Deploy your apps on any Cloud providers in just a few seconds
+- [awesomefluttertips](https://github.com/erluxman/awesomefluttertips) : Dart
+  - ❤️Flutter ❤️ tips and tricks ❤️ Awesome Flutter ❤️ tips and tricks ❤️
+- [trape](https://github.com/jofpin/trape) : Python
+  - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
+- [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN) : Go
+  - 《Mastering GO》中文译本，《玩转 GO》。
+- [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) : Jupyter Notebook
+  - Python Data Science Handbook: full text in Jupyter Notebooks
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) : 
   - 后端架构师技术图谱
-- [cheat.sh](https://github.com/chubin/cheat.sh) : Python
-  - the only cheat sheet you need
-- [COVID-19](https://github.com/pcm-dpc/COVID-19) : 
-  - COVID-19 Italia - Monitoraggio situazione
-- [hugo](https://github.com/gohugoio/hugo) : Go
-  - The world’s fastest framework for building websites.
-- [corona-widget](https://github.com/rphl/corona-widget) : JavaScript
-  - COVID-19 Inzidenz-Widget für iOS innerhalb Deutschlands 🇩🇪 (Kreis/Stadt + Bundesland + Trend)
-- [horovod](https://github.com/horovod/horovod) : Python
-  - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
-- [awesome-android-security](https://github.com/saeidshirazi/awesome-android-security) : 
-  - A curated list of Android Security materials and resources For Pentesters and Bug Hunters
-- [tinygrad](https://github.com/geohot/tinygrad) : Python
-  - You like pytorch? You like micrograd? You love tinygrad! ❤️
-- [Java](https://github.com/TheAlgorithms/Java) : Java
-  - All Algorithms implemented in Java
+- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) : 
+  - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+- [frontend-development](https://github.com/developer-resources/frontend-development) : 
+  - A curated list of resources for Frontend development
+- [PaddleX](https://github.com/PaddlePaddle/PaddleX) : Python
+  - PaddlePaddle Entire Process Development Toolkit（『飞桨』深度学习全流程开发工具）
+- [slipstream](https://github.com/samyk/slipstream) : Perl
+  - NAT Slipstreaming allows an attacker to remotely access any TCP/UDP services bound to a victim machine, bypassing the victim’s NAT/firewall, just by the victim visiting a website
+- [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) : Java
+  - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+- [incubator-superset](https://github.com/apache/incubator-superset) : Python
+  - Apache Superset is a Data Visualization and Data Exploration Platform

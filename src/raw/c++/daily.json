@@ -1,173 +1,23 @@
 [
   {
+    "author": "hoffstadt",
+    "name": "DearPyGui",
+    "href": "https://github.com/hoffstadt/DearPyGui",
+    "description": "Dear PyGui: A Bloat-free Graphical User Interface for Python with minimal dependencies",
+    "language": "C++",
+    "stars": 2474,
+    "forks": 105,
+    "starsInPeriod": 197
+  },
+  {
     "author": "sogou",
     "name": "workflow",
     "href": "https://github.com/sogou/workflow",
     "description": "C++ Programming Paradigm with Asynchronous Networking",
     "language": "C++",
-    "stars": 2481,
-    "forks": 528,
-    "starsInPeriod": 62
-  },
-  {
-    "author": "Aircoookie",
-    "name": "WLED",
-    "href": "https://github.com/Aircoookie/WLED",
-    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
-    "language": "C++",
-    "stars": 3345,
-    "forks": 579,
-    "starsInPeriod": 98
-  },
-  {
-    "author": "microsoft",
-    "name": "vcpkg",
-    "href": "https://github.com/microsoft/vcpkg",
-    "description": "C++ Library Manager for Windows, Linux, and MacOS",
-    "language": "C++",
-    "stars": 10794,
-    "forks": 2968,
-    "starsInPeriod": 11
-  },
-  {
-    "author": "MarlinFirmware",
-    "name": "Marlin",
-    "href": "https://github.com/MarlinFirmware/Marlin",
-    "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
-    "language": "C++",
-    "stars": 8661,
-    "forks": 12147,
-    "starsInPeriod": 9
-  },
-  {
-    "author": "microsoft",
-    "name": "PowerToys",
-    "href": "https://github.com/microsoft/PowerToys",
-    "description": "Windows system utilities to maximize productivity",
-    "language": "C++",
-    "stars": 41355,
-    "forks": 2239,
-    "starsInPeriod": 340
-  },
-  {
-    "author": "gaoxiang12",
-    "name": "slambook2",
-    "href": "https://github.com/gaoxiang12/slambook2",
-    "description": "edition 2 of the slambook",
-    "language": "C++",
-    "stars": 1255,
-    "forks": 614,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "mozilla",
-    "name": "DeepSpeech",
-    "href": "https://github.com/mozilla/DeepSpeech",
-    "description": "DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.",
-    "language": "C++",
-    "stars": 15624,
-    "forks": 2910,
-    "starsInPeriod": 40
-  },
-  {
-    "author": "root-project",
-    "name": "root",
-    "href": "https://github.com/root-project/root",
-    "description": "The official repository for ROOT: analyzing, storing and visualizing big data, scientifically",
-    "language": "C++",
-    "stars": 1271,
-    "forks": 787,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "IntelRealSense",
-    "name": "librealsense",
-    "href": "https://github.com/IntelRealSense/librealsense",
-    "description": "Intel® RealSense™ SDK",
-    "language": "C++",
-    "stars": 4458,
-    "forks": 3083,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "PX4",
-    "name": "PX4-Autopilot",
-    "href": "https://github.com/PX4/PX4-Autopilot",
-    "description": "PX4 Autopilot Software",
-    "language": "C++",
-    "stars": 3925,
-    "forks": 10534,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "x64dbg",
-    "name": "x64dbg",
-    "href": "https://github.com/x64dbg/x64dbg",
-    "description": "An open-source x64/x32 debugger for windows.",
-    "language": "C++",
-    "stars": 35784,
-    "forks": 1449,
-    "starsInPeriod": 13
-  },
-  {
-    "author": "CGAL",
-    "name": "cgal",
-    "href": "https://github.com/CGAL/cgal",
-    "description": "The public CGAL repository, see the README below",
-    "language": "C++",
-    "stars": 2166,
-    "forks": 819,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "joneivind",
-    "name": "Self-Driving-Truck",
-    "href": "https://github.com/joneivind/Self-Driving-Truck",
-    "description": "Self-driving smallscale truck with wireless charging - Master thesis @ NTNU 2019",
-    "language": "C++",
-    "stars": 99,
-    "forks": 35,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "protocolbuffers",
-    "name": "protobuf",
-    "href": "https://github.com/protocolbuffers/protobuf",
-    "description": "Protocol Buffers - Google's data interchange format",
-    "language": "C++",
-    "stars": 44584,
-    "forks": 11972,
-    "starsInPeriod": 28
-  },
-  {
-    "author": "notepad-plus-plus",
-    "name": "notepad-plus-plus",
-    "href": "https://github.com/notepad-plus-plus/notepad-plus-plus",
-    "description": "Notepad++ official repository",
-    "language": "C++",
-    "stars": 12078,
-    "forks": 2943,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "Xaymar",
-    "name": "obs-StreamFX",
-    "href": "https://github.com/Xaymar/obs-StreamFX",
-    "description": "Bring your stream back to life with modern effects!",
-    "language": "C++",
-    "stars": 759,
-    "forks": 88,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "ApolloAuto",
-    "name": "apollo",
-    "href": "https://github.com/ApolloAuto/apollo",
-    "description": "An open autonomous driving platform",
-    "language": "C++",
-    "stars": 17270,
-    "forks": 6590,
-    "starsInPeriod": 4
+    "stars": 2642,
+    "forks": 541,
+    "starsInPeriod": 128
   },
   {
     "author": "google",
@@ -175,48 +25,158 @@
     "href": "https://github.com/google/googletest",
     "description": "Googletest - Google Testing and Mocking Framework",
     "language": "C++",
-    "stars": 18479,
-    "forks": 6748,
-    "starsInPeriod": 14
+    "stars": 18489,
+    "forks": 6757,
+    "starsInPeriod": 22
   },
   {
-    "author": "ClickHouse",
-    "name": "ClickHouse",
-    "href": "https://github.com/ClickHouse/ClickHouse",
-    "description": "ClickHouse is a free analytics DBMS for big data",
+    "author": "microsoft",
+    "name": "onnxruntime",
+    "href": "https://github.com/microsoft/onnxruntime",
+    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
     "language": "C++",
-    "stars": 12735,
-    "forks": 2546,
+    "stars": 3467,
+    "forks": 810,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "ArduPilot",
+    "name": "ardupilot",
+    "href": "https://github.com/ArduPilot/ardupilot",
+    "description": "ArduPlane, ArduCopter, ArduRover source",
+    "language": "C++",
+    "stars": 5347,
+    "forks": 9990,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "tensorflow",
+    "name": "tensorflow",
+    "href": "https://github.com/tensorflow/tensorflow",
+    "description": "An Open Source Machine Learning Framework for Everyone",
+    "language": "C++",
+    "stars": 149815,
+    "forks": 83135,
+    "starsInPeriod": 64
+  },
+  {
+    "author": "SpiderLabs",
+    "name": "ModSecurity",
+    "href": "https://github.com/SpiderLabs/ModSecurity",
+    "description": "ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…",
+    "language": "C++",
+    "stars": 3905,
+    "forks": 1059,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "Aircoookie",
+    "name": "WLED",
+    "href": "https://github.com/Aircoookie/WLED",
+    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
+    "language": "C++",
+    "stars": 3367,
+    "forks": 577,
+    "starsInPeriod": 87
+  },
+  {
+    "author": "dmlc",
+    "name": "xgboost",
+    "href": "https://github.com/dmlc/xgboost",
+    "description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow",
+    "language": "C++",
+    "stars": 20062,
+    "forks": 7797,
     "starsInPeriod": 19
   },
   {
+    "author": "ossrs",
+    "name": "srs",
+    "href": "https://github.com/ossrs/srs",
+    "description": "SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.",
+    "language": "C++",
+    "stars": 9918,
+    "forks": 3331,
+    "starsInPeriod": 28
+  },
+  {
     "author": "opencv",
-    "name": "opencv_contrib",
-    "href": "https://github.com/opencv/opencv_contrib",
-    "description": "Repository for OpenCV's extra modules",
+    "name": "opencv",
+    "href": "https://github.com/opencv/opencv",
+    "description": "Open Source Computer Vision Library",
     "language": "C++",
-    "stars": 5944,
-    "forks": 4708,
-    "starsInPeriod": 4
+    "stars": 49813,
+    "forks": 40396,
+    "starsInPeriod": 62
   },
   {
-    "author": "AGWA",
-    "name": "git-crypt",
-    "href": "https://github.com/AGWA/git-crypt",
-    "description": "Transparent file encryption in git",
+    "author": "yhirose",
+    "name": "cpp-httplib",
+    "href": "https://github.com/yhirose/cpp-httplib",
+    "description": "A C++ header-only HTTP/HTTPS server and client library",
     "language": "C++",
-    "stars": 5096,
-    "forks": 308,
-    "starsInPeriod": 5
+    "stars": 3897,
+    "forks": 864,
+    "starsInPeriod": 12
   },
   {
-    "author": "SaschaWillems",
-    "name": "Vulkan",
-    "href": "https://github.com/SaschaWillems/Vulkan",
-    "description": "Examples and demos for the new Vulkan API",
+    "author": "microsoft",
+    "name": "vcpkg",
+    "href": "https://github.com/microsoft/vcpkg",
+    "description": "C++ Library Manager for Windows, Linux, and MacOS",
     "language": "C++",
-    "stars": 5600,
-    "forks": 1122,
+    "stars": 10814,
+    "forks": 2970,
+    "starsInPeriod": 28
+  },
+  {
+    "author": "ApolloAuto",
+    "name": "apollo",
+    "href": "https://github.com/ApolloAuto/apollo",
+    "description": "An open autonomous driving platform",
+    "language": "C++",
+    "stars": 17280,
+    "forks": 6595,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "catchorg",
+    "name": "Catch2",
+    "href": "https://github.com/catchorg/Catch2",
+    "description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)",
+    "language": "C++",
+    "stars": 12286,
+    "forks": 2062,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "apache",
+    "name": "arrow",
+    "href": "https://github.com/apache/arrow",
+    "description": "Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…",
+    "language": "C++",
+    "stars": 6419,
+    "forks": 1627,
+    "starsInPeriod": 18
+  },
+  {
+    "author": "envoyproxy",
+    "name": "envoy",
+    "href": "https://github.com/envoyproxy/envoy",
+    "description": "Cloud-native high-performance edge/middle/service proxy",
+    "language": "C++",
+    "stars": 15094,
+    "forks": 2605,
+    "starsInPeriod": 18
+  },
+  {
+    "author": "lightvector",
+    "name": "KataGo",
+    "href": "https://github.com/lightvector/KataGo",
+    "description": "GTP engine and self-play learning in Go",
+    "language": "C++",
+    "stars": 697,
+    "forks": 170,
     "starsInPeriod": 6
   },
   {
@@ -225,28 +185,68 @@
     "href": "https://github.com/gabime/spdlog",
     "description": "Fast C++ logging library.",
     "language": "C++",
-    "stars": 9969,
-    "forks": 2131,
-    "starsInPeriod": 11
+    "stars": 9979,
+    "forks": 2133,
+    "starsInPeriod": 17
   },
   {
-    "author": "google",
-    "name": "mediapipe",
-    "href": "https://github.com/google/mediapipe",
-    "description": "MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.",
+    "author": "Tencent",
+    "name": "mars",
+    "href": "https://github.com/Tencent/mars",
+    "description": "Mars is a cross-platform network component developed by WeChat.",
     "language": "C++",
-    "stars": 9514,
-    "forks": 1778,
-    "starsInPeriod": 67
+    "stars": 14913,
+    "forks": 3120,
+    "starsInPeriod": 9
   },
   {
-    "author": "rathena",
-    "name": "rathena",
-    "href": "https://github.com/rathena/rathena",
-    "description": "rAthena is an open-source cross-platform MMORPG server.",
+    "author": "open-source-parsers",
+    "name": "jsoncpp",
+    "href": "https://github.com/open-source-parsers/jsoncpp",
+    "description": "A C++ library for interacting with JSON.",
     "language": "C++",
-    "stars": 1558,
-    "forks": 1460,
-    "starsInPeriod": 2
+    "stars": 5072,
+    "forks": 1964,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "taskflow",
+    "name": "taskflow",
+    "href": "https://github.com/taskflow/taskflow",
+    "description": "Parallel and Heterogeneous Task Programming in Modern C++",
+    "language": "C++",
+    "stars": 4395,
+    "forks": 509,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "mozilla",
+    "name": "DeepSpeech",
+    "href": "https://github.com/mozilla/DeepSpeech",
+    "description": "DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.",
+    "language": "C++",
+    "stars": 15645,
+    "forks": 2910,
+    "starsInPeriod": 43
+  },
+  {
+    "author": "project-chip",
+    "name": "connectedhomeip",
+    "href": "https://github.com/project-chip/connectedhomeip",
+    "description": "Project Connected Home over IP is a new Working Group within the Zigbee Alliance. This Working Group plans to develop and promote the adoption of a new connectivity standard to increase compatibility among smart home products, with security as a fundamental design tenet.",
+    "language": "C++",
+    "stars": 772,
+    "forks": 138,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "NVIDIA",
+    "name": "TensorRT",
+    "href": "https://github.com/NVIDIA/TensorRT",
+    "description": "TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.",
+    "language": "C++",
+    "stars": 2936,
+    "forks": 670,
+    "starsInPeriod": 10
   }
 ]
