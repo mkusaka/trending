@@ -1,51 +1,51 @@
 # javascript
 - [edex-ui](https://github.com/GitSquared/edex-ui)
   - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
-  - Roadmap to becoming an Artificial Intelligence Expert in 2020
-- [attestation-deplacement-derogatoire-q4-2020](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020)
-  - attestation-deplacement-derogatoire-q4-2020 public
 - [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
   - 🎆Interactive Online Platform that Visualizes Algorithms from Code
+- [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
+  - Roadmap to becoming an Artificial Intelligence Expert in 2020
+- [nik_parse.js](https://github.com/bachors/nik_parse.js)
+  - Parse Nomor Induk Kependudukan (NIK) KTP Menggunakan Javascript
+- [supabase](https://github.com/supabase/supabase)
+  - Website, docs, and client libraries. Follow to stay updated about our public Beta.
 - [corona-widget](https://github.com/rphl/corona-widget)
   - COVID-19 Inzidenz-Widget für iOS innerhalb Deutschlands 🇩🇪 (Kreis/Stadt + Bundesland + Trend)
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [netron](https://github.com/lutzroeder/netron)
-  - Visualizer for neural network, deep learning, and machine learning models
-- [jitsi-meet](https://github.com/jitsi/jitsi-meet)
-  - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [lerna](https://github.com/lerna/lerna)
-  - 🐉 A tool for managing JavaScript projects with multiple packages.
-- [in-quiz-questions](https://github.com/Ebazhanov/in-quiz-questions)
-  - Linkedin quiz assessment, answers and questions (aws-lambda, rest-api, javascript, react, git, html, jquery, maven, mongodb, xml, java, css, python ...) ответы на квиз
-- [Weather-Cal](https://github.com/mzeryck/Weather-Cal)
-  - This is a Scriptable widget that lets you display, position, and format multiple elements, including dates and events, weather information, battery level, and more. You can even create your own elements.
+- [vue](https://github.com/vuejs/vue)
+  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
+  - Microsoft Authentication Library (MSAL) for JS
+- [dtale](https://github.com/man-group/dtale)
+  - Visualizer for pandas data structures
 - [Fast-GitHub](https://github.com/fhefh2015/Fast-GitHub)
   - 国内Github下载很慢，用上了这个插件后，下载速度嗖嗖嗖的~！
-- [wechat-app-mall](https://github.com/EastWorld/wechat-app-mall)
-  - 微信小程序商城，微信小程序微店
-- [bootstrap](https://github.com/twbs/bootstrap)
-  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [umami](https://github.com/mikecao/umami)
-  - Umami is a simple, fast, website analytics alternative to Google Analytics.
-- [react-big-calendar](https://github.com/jquense/react-big-calendar)
-  - gcal/outlook like calendar component
-- [react-select](https://github.com/JedWatson/react-select)
-  - The Select Component for React.js
-- [appium](https://github.com/appium/appium)
-  - 📱 Automation for iOS, Android, and Windows Apps.
-- [undici](https://github.com/nodejs/undici)
-  - An HTTP/1.1 client, written from scratch for Node.js
+- [dayjs](https://github.com/iamkun/dayjs)
+  - ⏰ Day.js 2KB immutable date-time library alternative to Moment.js with the same modern API
+- [wp-calypso](https://github.com/Automattic/wp-calypso)
+  - The JavaScript and API powered WordPress.com
+- [nextjs-aws-s3](https://github.com/leerob/nextjs-aws-s3)
+  - Example Next.js app to upload photos to an S3 bucket.
+- [joeisdone.github.io](https://github.com/joeisdone/joeisdone.github.io)
+  - Joe Is Done
+- [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)
+  - FFmpeg for browser and node, powered by WebAssembly
+- [select2](https://github.com/select2/select2)
+  - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
+- [pdfmake](https://github.com/bpampuch/pdfmake)
+  - Client/server side PDF printing in pure JavaScript
+- [whatsapp-bot](https://github.com/ArugaZ/whatsapp-bot)
+  - Whatsapp Bot - Node Js
+- [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
+  - ⛄ Possibly the smallest compiler ever
+- [jsPDF](https://github.com/MrRio/jsPDF)
+  - Client-side JavaScript PDF generation for everyone.
+- [Leaflet](https://github.com/Leaflet/Leaflet)
+  - 🍃 JavaScript library for mobile-friendly interactive maps
+- [lando](https://github.com/lando/lando)
+  - A local development and DevOps tool for all your projects that is fast, easy, powerful and liberating
+- [Recoil](https://github.com/facebookexperimental/Recoil)
+  - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
 - [react](https://github.com/typescript-cheatsheets/react)
   - Cheatsheets for experienced React developers getting started with TypeScript
-- [lazysizes](https://github.com/aFarkas/lazysizes)
-  - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-  - ⭐️ Companies that don't have a broken hiring process
-- [cypress](https://github.com/cypress-io/cypress)
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [svelte](https://github.com/sveltejs/svelte)
-  - Cybernetically enhanced web apps
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
+- [winXP](https://github.com/ShizukuIchi/winXP)
+  - 🏁 Web based Windows XP desktop recreation.

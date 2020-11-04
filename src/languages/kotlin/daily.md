@@ -1,51 +1,51 @@
 # kotlin
-- [Jetpack-Compose-Android-Examples](https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples)
-  - Learn Jetpack Compose for Android by Examples. Learn how to use Jetpack Compose for Android App Development. Android’s modern toolkit for building native UI.
-- [kotlin](https://github.com/JetBrains/kotlin)
-  - The Kotlin Programming Language
-- [Animation-Tutorials](https://github.com/SmartToolFactory/Animation-Tutorials)
-  - 🍭🚀💗 Tutorials about animations with Animators, Animated Vector Drawables, Shared Transitions, and more
-- [architecture-components-samples](https://github.com/android/architecture-components-samples)
-  - Samples for Android Architecture Components.
-- [Music-Player-GO](https://github.com/enricocid/Music-Player-GO)
-  - 🎶🎼 Very slim music player 👨‍🎤 100% made in Italy 🍕🌳🌞🍝🌄
-- [press](https://github.com/saket/press)
-  - A cross-platform markdown editor written in Kotlin Multiplatform (work in progress)
-- [material-components-android-examples](https://github.com/material-components/material-components-android-examples)
-  - Companion example apps and code for MDC-Android.
-- [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery)
-  - Browse your memories without any interruptions with this photo and video gallery
-- [sqldelight](https://github.com/cashapp/sqldelight)
-  - SQLDelight - Generates typesafe Kotlin APIs from SQL
-- [android-components](https://github.com/mozilla-mobile/android-components)
-  - A collection of Android libraries to build browsers or browser-like applications.
-- [kotlin-native](https://github.com/JetBrains/kotlin-native)
-  - Kotlin/Native infrastructure
-- [android-youtube-player](https://github.com/PierfrancescoSoffritti/android-youtube-player)
-  - YouTube Player library for Android and Chromecast, stable and customizable.
-- [KeePassDX](https://github.com/Kunzisoft/KeePassDX)
-  - 📱 KeePass implementation for android with material design and deluxe features
-- [RetroMusicPlayer](https://github.com/h4h13/RetroMusicPlayer)
-  - Best material design music player for Android
-- [mapbox-navigation-android](https://github.com/mapbox/mapbox-navigation-android)
-  - Mapbox Navigation SDK for Android
-- [PeopleInSpace](https://github.com/joreilly/PeopleInSpace)
-  - Minimal Kotlin Multiplatform project using Jetpack Compose and SwiftUI
-- [mockk](https://github.com/mockk/mockk)
-  - mocking library for Kotlin
+- [compose-samples](https://github.com/android/compose-samples)
+  - Official Jetpack Compose samples.
 - [sunflower](https://github.com/android/sunflower)
   - A gardening app illustrating Android development best practices with Android Jetpack.
-- [ktor](https://github.com/ktorio/ktor)
-  - Framework for quickly creating connected applications in Kotlin with minimal effort
+- [kotlin](https://github.com/JetBrains/kotlin)
+  - The Kotlin Programming Language
 - [Unciv](https://github.com/yairm210/Unciv)
   - Open-source Android/Desktop remake of Civ V
-- [NotyKT](https://github.com/PatilShreyas/NotyKT)
-  - 📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.
-- [red-screen-of-death](https://github.com/mlegy/red-screen-of-death)
-  - A simple screen that is shown when your app gets crashed instead of the normal crash dialog. It's very similar to the one in Flutter.
-- [kotest](https://github.com/kotest/kotest)
-  - Powerful, elegant and flexible test framework for Kotlin
-- [TapTap](https://github.com/KieronQuinn/TapTap)
-  - Port of the double tap on back of device feature from Android 11 to any Android 7.0+ device
-- [mirai](https://github.com/mamoe/mirai)
-  - 高效率 QQ 机器人框架 / High-performance bot framework for Tencent QQ
+- [material-components-android-examples](https://github.com/material-components/material-components-android-examples)
+  - Companion example apps and code for MDC-Android.
+- [mapbox-navigation-android](https://github.com/mapbox/mapbox-navigation-android)
+  - Mapbox Navigation SDK for Android
+- [Kotlin-Coroutine-Use-Cases-on-Android](https://github.com/LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android)
+  - 🎓 Learning Kotlin Coroutines for Android by example. 🚀 Sample implementations for real-world Android use cases. 🛠 Unit tests included!
+- [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd)
+  - Main UserLAnd Repository
+- [chucker](https://github.com/ChuckerTeam/chucker)
+  - 🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device) - More Chucker than Chuck
+- [badge-magic-android](https://github.com/fossasia/badge-magic-android)
+  - Badge Magic with LEDs - Android App https://play.google.com/apps/testing/org.fossasia.badgemagic
+- [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization)
+  - Kotlin multiplatform / multi-format serialization
+- [dotsindicator](https://github.com/tommybuonomo/dotsindicator)
+  - Three material Dots Indicators for view pagers in Android !
+- [databinding-samples](https://github.com/android/databinding-samples)
+  - 
+- [XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools)
+  - A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot
+- [okio](https://github.com/square/okio)
+  - A modern I/O library for Android, Kotlin, and Java.
+- [Cicerone](https://github.com/terrakok/Cicerone)
+  - 🚦 Cicerone is a lightweight library that makes the navigation in an Android app easy.
+- [koin](https://github.com/InsertKoinIO/koin)
+  - Koin - a pragmatic lightweight dependency injection framework for Kotlin
+- [flexbox-layout](https://github.com/google/flexbox-layout)
+  - Flexbox for Android
+- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android)
+  - Native Android app using the Apple/Google exposure notification API.
+- [Neko](https://github.com/CarlosEsco/Neko)
+  - Free, open source, unofficial MangaDex reader for Android
+- [architecture-samples](https://github.com/android/architecture-samples)
+  - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
+- [intellij-rust](https://github.com/intellij-rust/intellij-rust)
+  - Rust plugin for the IntelliJ Platform
+- [android](https://github.com/home-assistant/android)
+  - 📱 Home Assistant Companion for Android
+- [android-kotlin-fundamentals-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-apps)
+  - android-kotlin-fundamentals-apps
+- [ktlint](https://github.com/pinterest/ktlint)
+  - An anti-bikeshedding Kotlin linter with built-in formatter

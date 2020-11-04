@@ -1,51 +1,51 @@
 # rust
-- [amethyst](https://github.com/amethyst/amethyst)
-  - Data-oriented and data-driven game engine written in Rust
-- [nom](https://github.com/Geal/nom)
-  - Rust parser combinator framework
-- [tikv](https://github.com/tikv/tikv)
-  - Distributed transactional key-value database, originally created to complement TiDB
 - [engine](https://github.com/Qovery/engine)
   - Deploy your apps on any Cloud providers in just a few seconds
-- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
-  - 📚 Learn to write an embedded OS in Rust 🦀
-- [ripgrep](https://github.com/BurntSushi/ripgrep)
-  - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-- [bevy](https://github.com/bevyengine/bevy)
-  - A refreshingly simple data-driven game engine built in Rust
-- [crates.io](https://github.com/rust-lang/crates.io)
-  - Source code for crates.io
-- [terramach](https://github.com/lykhonis/terramach)
-  - Terra Mach is a mapping frontend system to build graphical interfaces for devices.
-- [sqlx](https://github.com/launchbadge/sqlx)
-  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
-- [mio](https://github.com/tokio-rs/mio)
-  - Metal IO library for Rust
-- [diesel](https://github.com/diesel-rs/diesel)
-  - A safe, extensible ORM and Query Builder for Rust
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [vector](https://github.com/timberio/vector)
-  - High-performance, vendor-neutral observability pipelines.
+- [mosaic](https://github.com/mosaic-org/mosaic)
+  - Terminal workspace (WIP)
 - [rust](https://github.com/rust-lang/rust)
   - Empowering everyone to build reliable and efficient software.
-- [websocat](https://github.com/vi/websocat)
-  - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
-- [juniper](https://github.com/graphql-rust/juniper)
-  - GraphQL server library for Rust
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [openethereum](https://github.com/openethereum/openethereum)
-  - The fast, light, and robust client for Ethereum-like networks.
-- [tauri](https://github.com/tauri-apps/tauri)
-  - Build smaller, faster, and more secure desktop applications with a web frontend.
-- [xi-editor](https://github.com/xi-editor/xi-editor)
-  - A modern editor with a backend written in Rust.
-- [zola](https://github.com/getzola/zola)
-  - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
-- [timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow)
-  - A modular implementation of timely dataflow in Rust
-- [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
-  - An experimental Rust compiler front-end for IDEs
-- [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
-  - The Mullvad VPN client app for desktop and mobile
+- [bevy](https://github.com/bevyengine/bevy)
+  - A refreshingly simple data-driven game engine built in Rust
+- [ox](https://github.com/curlpipe/ox)
+  - An independent Rust text editor that runs in your terminal!
+- [ajour](https://github.com/casperstorm/ajour)
+  - A World of Warcraft addon manager written in Rust.
+- [thiserror](https://github.com/dtolnay/thiserror)
+  - derive(Error) for struct and enum error types
+- [akri](https://github.com/deislabs/akri)
+  - A Kubernetes Resource Interface for the Edge
+- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+  - 📚 Learn to write an embedded OS in Rust 🦀
+- [vector](https://github.com/timberio/vector)
+  - High-performance, vendor-neutral observability pipelines.
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
+- [tokenizers](https://github.com/huggingface/tokenizers)
+  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [actix-web](https://github.com/actix/actix-web)
+  - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [scipio](https://github.com/DataDog/scipio)
+  - Scipio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans
+- [mio](https://github.com/tokio-rs/mio)
+  - Metal IO library for Rust
+- [clap](https://github.com/clap-rs/clap)
+  - A full featured, fast Command Line Argument Parser for Rust
+- [996.ICU](https://github.com/996icu/996.ICU)
+  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [winit](https://github.com/rust-windowing/winit)
+  - Window handling library in pure Rust
+- [amethyst](https://github.com/amethyst/amethyst)
+  - Data-oriented and data-driven game engine written in Rust
+- [message-io](https://github.com/lemunozm/message-io)
+  - Asynchronous network message library for building network applications easily.
+- [async-std](https://github.com/async-rs/async-std)
+  - Async version of the Rust standard library
+- [swc](https://github.com/swc-project/swc)
+  - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
+- [solana](https://github.com/solana-labs/solana)
+  - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+- [druid](https://github.com/linebender/druid)
+  - A data-first Rust-native UI design toolkit.
