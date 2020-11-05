@@ -1,51 +1,51 @@
 # general
-- [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) : Python
-  - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
-- [edex-ui](https://github.com/GitSquared/edex-ui) : JavaScript
-  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [GHunt](https://github.com/mxrch/GHunt) : Python
-  - 🕵️‍♂️ Investigate Google Accounts with emails.
 - [youtube-dl](https://github.com/l1ving/youtube-dl) : Python
   - A fork of youtube-dl, for archival purposes.
-- [ExoPlayer](https://github.com/google/ExoPlayer) : Java
-  - An extensible media player for Android
-- [pi-pwnbox-rogueap](https://github.com/koutto/pi-pwnbox-rogueap) : Shell
-  - Homemade Pwnbox 🚀 / Rogue AP 📡 based on Raspberry Pi — WiFi Hacking Cheatsheets + MindMap 💡
-- [python-cheatsheet](https://github.com/gto76/python-cheatsheet) : Python
-  - Comprehensive Python Cheatsheet
-- [DearPyGui](https://github.com/hoffstadt/DearPyGui) : C++
-  - Dear PyGui: A Bloat-free Graphical User Interface for Python with minimal dependencies
-- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) : JavaScript
-  - 🎆Interactive Online Platform that Visualizes Algorithms from Code
-- [Cybersecurity](https://github.com/harisqazi1/Cybersecurity) : 
-  - This is meant to assist people looking for entry level Cybersecurity jobs, as well as study up on skills that they can put on their resume.
+- [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) : Python
+  - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
+- [GHunt](https://github.com/mxrch/GHunt) : Python
+  - 🕵️‍♂️ Investigate Google Accounts with emails.
+- [imgui](https://github.com/ocornut/imgui) : C++
+  - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) : JavaScript
   - Roadmap to becoming an Artificial Intelligence Expert in 2020
-- [ThreatPursuit-VM](https://github.com/fireeye/ThreatPursuit-VM) : PowerShell
-  - Threat Pursuit Virtual Machine (VM): A fully customizable, open-sourced Windows-based distribution focused on threat intelligence analysis and hunting designed for intel and malware analysts as well as threat hunters to get up and running quickly.
-- [workflow](https://github.com/sogou/workflow) : C++
-  - C++ Programming Paradigm with Asynchronous Networking
-- [engine](https://github.com/Qovery/engine) : Rust
-  - Deploy your apps on any Cloud providers in just a few seconds
-- [awesomefluttertips](https://github.com/erluxman/awesomefluttertips) : Dart
-  - ❤️Flutter ❤️ tips and tricks ❤️ Awesome Flutter ❤️ tips and tricks ❤️
+- [pi-pwnbox-rogueap](https://github.com/koutto/pi-pwnbox-rogueap) : Shell
+  - Homemade Pwnbox 🚀 / Rogue AP 📡 based on Raspberry Pi — WiFi Hacking Cheatsheets + MindMap 💡
+- [100-days-of-python](https://github.com/appbrewery/100-days-of-python) : 
+  - 100 Days of Code in Python
+- [edex-ui](https://github.com/GitSquared/edex-ui) : JavaScript
+  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+- [python-cheatsheet](https://github.com/gto76/python-cheatsheet) : Python
+  - Comprehensive Python Cheatsheet
 - [trape](https://github.com/jofpin/trape) : Python
   - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
-- [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN) : Go
-  - 《Mastering GO》中文译本，《玩转 GO》。
-- [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) : Jupyter Notebook
-  - Python Data Science Handbook: full text in Jupyter Notebooks
-- [architect-awesome](https://github.com/xingshaocheng/architect-awesome) : 
-  - 后端架构师技术图谱
+- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) : JavaScript
+  - 🎆Interactive Online Platform that Visualizes Algorithms from Code
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) : 
   - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-- [frontend-development](https://github.com/developer-resources/frontend-development) : 
-  - A curated list of resources for Frontend development
-- [PaddleX](https://github.com/PaddlePaddle/PaddleX) : Python
-  - PaddlePaddle Entire Process Development Toolkit（『飞桨』深度学习全流程开发工具）
-- [slipstream](https://github.com/samyk/slipstream) : Perl
-  - NAT Slipstreaming allows an attacker to remotely access any TCP/UDP services bound to a victim machine, bypassing the victim’s NAT/firewall, just by the victim visiting a website
-- [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) : Java
-  - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+- [argo-cd](https://github.com/argoproj/argo-cd) : Go
+  - Declarative continuous deployment for Kubernetes.
+- [noisepage](https://github.com/cmu-db/noisepage) : C++
+  - Self-Driving Database Management System from Carnegie Mellon University
+- [bevy](https://github.com/bevyengine/bevy) : Rust
+  - A refreshingly simple data-driven game engine built in Rust
+- [presto](https://github.com/prestodb/presto) : Java
+  - The official home of the Presto distributed SQL query engine for big data
+- [ThreatPursuit-VM](https://github.com/fireeye/ThreatPursuit-VM) : PowerShell
+  - Threat Pursuit Virtual Machine (VM): A fully customizable, open-sourced Windows-based distribution focused on threat intelligence analysis and hunting designed for intel and malware analysts as well as threat hunters to get up and running quickly.
+- [Cybersecurity](https://github.com/harisqazi1/Cybersecurity) : 
+  - This is meant to assist people looking for entry level Cybersecurity jobs, as well as study up on skills that they can put on their resume.
+- [architect-awesome](https://github.com/xingshaocheng/architect-awesome) : 
+  - 后端架构师技术图谱
+- [onnxruntime](https://github.com/microsoft/onnxruntime) : C++
+  - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
+- [hello-algorithm](https://github.com/geekxh/hello-algorithm) : Java
+  - 🌍 东半球最酷的学习项目 | 1、我写的三十万字算法图解 2、千本开源电子书 3、100 张思维导图 4、100 篇大厂面经 5、30 个学习专题 🚀 🚀 🚀 右上角点个 star，加入我们万人学习群！English Supported！
+- [Sandboxie](https://github.com/sandboxie-plus/Sandboxie) : C
+  - Sandboxie - Open Source
+- [googletest](https://github.com/google/googletest) : C++
+  - Googletest - Google Testing and Mocking Framework
 - [incubator-superset](https://github.com/apache/incubator-superset) : Python
   - Apache Superset is a Data Visualization and Data Exploration Platform
+- [Laravel-Excel](https://github.com/Maatwebsite/Laravel-Excel) : PHP
+  - 🚀 Supercharged Excel exports and imports in Laravel

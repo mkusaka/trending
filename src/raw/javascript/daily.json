@@ -1,13 +1,23 @@
 [
   {
+    "author": "AMAI-GmbH",
+    "name": "AI-Expert-Roadmap",
+    "href": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "description": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
+    "language": "JavaScript",
+    "stars": 3370,
+    "forks": 237,
+    "starsInPeriod": 937
+  },
+  {
     "author": "GitSquared",
     "name": "edex-ui",
     "href": "https://github.com/GitSquared/edex-ui",
     "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
     "language": "JavaScript",
-    "stars": 20743,
-    "forks": 1157,
-    "starsInPeriod": 646
+    "stars": 21303,
+    "forks": 1181,
+    "starsInPeriod": 586
   },
   {
     "author": "algorithm-visualizer",
@@ -15,129 +25,39 @@
     "href": "https://github.com/algorithm-visualizer/algorithm-visualizer",
     "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
     "language": "JavaScript",
-    "stars": 32117,
-    "forks": 5385,
-    "starsInPeriod": 145
+    "stars": 32332,
+    "forks": 5391,
+    "starsInPeriod": 203
   },
   {
-    "author": "AMAI-GmbH",
-    "name": "AI-Expert-Roadmap",
-    "href": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
-    "description": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
+    "author": "iamadamdev",
+    "name": "bypass-paywalls-chrome",
+    "href": "https://github.com/iamadamdev/bypass-paywalls-chrome",
+    "description": "Bypass Paywalls web browser extension for Chrome and Firefox.",
     "language": "JavaScript",
-    "stars": 2751,
-    "forks": 183,
-    "starsInPeriod": 1150
+    "stars": 10645,
+    "forks": 730,
+    "starsInPeriod": 46
   },
   {
-    "author": "bachors",
-    "name": "nik_parse.js",
-    "href": "https://github.com/bachors/nik_parse.js",
-    "description": "Parse Nomor Induk Kependudukan (NIK) KTP Menggunakan Javascript",
-    "language": "",
-    "stars": 92,
-    "forks": 70,
-    "starsInPeriod": 72
-  },
-  {
-    "author": "supabase",
-    "name": "supabase",
-    "href": "https://github.com/supabase/supabase",
-    "description": "Website, docs, and client libraries. Follow to stay updated about our public Beta.",
+    "author": "lxk0301",
+    "name": "scripts",
+    "href": "https://github.com/lxk0301/scripts",
+    "description": "京东薅羊毛工具, 京东水果、宠物、种豆等等",
     "language": "JavaScript",
-    "stars": 2674,
-    "forks": 102,
+    "stars": 2141,
+    "forks": 2481,
     "starsInPeriod": 77
   },
   {
-    "author": "rphl",
-    "name": "corona-widget",
-    "href": "https://github.com/rphl/corona-widget",
-    "description": "COVID-19 Inzidenz-Widget für iOS innerhalb Deutschlands 🇩🇪 (Kreis/Stadt + Bundesland + Trend)",
+    "author": "RocketChat",
+    "name": "Rocket.Chat",
+    "href": "https://github.com/RocketChat/Rocket.Chat",
+    "description": "The ultimate Free Open Source Solution for team communications.",
     "language": "JavaScript",
-    "stars": 113,
-    "forks": 14,
-    "starsInPeriod": 37
-  },
-  {
-    "author": "vuejs",
-    "name": "vue",
-    "href": "https://github.com/vuejs/vue",
-    "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
-    "language": "JavaScript",
-    "stars": 174774,
-    "forks": 27031,
-    "starsInPeriod": 122
-  },
-  {
-    "author": "AzureAD",
-    "name": "microsoft-authentication-library-for-js",
-    "href": "https://github.com/AzureAD/microsoft-authentication-library-for-js",
-    "description": "Microsoft Authentication Library (MSAL) for JS",
-    "language": "JavaScript",
-    "stars": 1232,
-    "forks": 811,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "man-group",
-    "name": "dtale",
-    "href": "https://github.com/man-group/dtale",
-    "description": "Visualizer for pandas data structures",
-    "language": "JavaScript",
-    "stars": 1654,
-    "forks": 113,
-    "starsInPeriod": 59
-  },
-  {
-    "author": "fhefh2015",
-    "name": "Fast-GitHub",
-    "href": "https://github.com/fhefh2015/Fast-GitHub",
-    "description": "国内Github下载很慢，用上了这个插件后，下载速度嗖嗖嗖的~！",
-    "language": "JavaScript",
-    "stars": 323,
-    "forks": 47,
-    "starsInPeriod": 105
-  },
-  {
-    "author": "iamkun",
-    "name": "dayjs",
-    "href": "https://github.com/iamkun/dayjs",
-    "description": "⏰ Day.js 2KB immutable date-time library alternative to Moment.js with the same modern API",
-    "language": "JavaScript",
-    "stars": 31944,
-    "forks": 1520,
-    "starsInPeriod": 78
-  },
-  {
-    "author": "Automattic",
-    "name": "wp-calypso",
-    "href": "https://github.com/Automattic/wp-calypso",
-    "description": "The JavaScript and API powered WordPress.com",
-    "language": "JavaScript",
-    "stars": 11611,
-    "forks": 1801,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "leerob",
-    "name": "nextjs-aws-s3",
-    "href": "https://github.com/leerob/nextjs-aws-s3",
-    "description": "Example Next.js app to upload photos to an S3 bucket.",
-    "language": "JavaScript",
-    "stars": 155,
-    "forks": 5,
-    "starsInPeriod": 49
-  },
-  {
-    "author": "joeisdone",
-    "name": "joeisdone.github.io",
-    "href": "https://github.com/joeisdone/joeisdone.github.io",
-    "description": "Joe Is Done",
-    "language": "JavaScript",
-    "stars": 38,
-    "forks": 9,
-    "starsInPeriod": 24
+    "stars": 28642,
+    "forks": 6254,
+    "starsInPeriod": 9
   },
   {
     "author": "ffmpegwasm",
@@ -145,69 +65,49 @@
     "href": "https://github.com/ffmpegwasm/ffmpeg.wasm",
     "description": "FFmpeg for browser and node, powered by WebAssembly",
     "language": "JavaScript",
-    "stars": 1383,
-    "forks": 81,
-    "starsInPeriod": 92
+    "stars": 1855,
+    "forks": 86,
+    "starsInPeriod": 477
   },
   {
-    "author": "select2",
-    "name": "select2",
-    "href": "https://github.com/select2/select2",
-    "description": "Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.",
+    "author": "twbs",
+    "name": "bootstrap",
+    "href": "https://github.com/twbs/bootstrap",
+    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
     "language": "JavaScript",
-    "stars": 24704,
-    "forks": 6062,
-    "starsInPeriod": 6
+    "stars": 145079,
+    "forks": 70920,
+    "starsInPeriod": 31
   },
   {
-    "author": "bpampuch",
-    "name": "pdfmake",
-    "href": "https://github.com/bpampuch/pdfmake",
-    "description": "Client/server side PDF printing in pure JavaScript",
+    "author": "uxsolutions",
+    "name": "bootstrap-datepicker",
+    "href": "https://github.com/uxsolutions/bootstrap-datepicker",
+    "description": "A datepicker for twitter bootstrap (@twbs)",
     "language": "JavaScript",
-    "stars": 8681,
-    "forks": 1550,
-    "starsInPeriod": 8
+    "stars": 12226,
+    "forks": 5977,
+    "starsInPeriod": 2
   },
   {
-    "author": "ArugaZ",
-    "name": "whatsapp-bot",
-    "href": "https://github.com/ArugaZ/whatsapp-bot",
-    "description": "Whatsapp Bot - Node Js",
+    "author": "antonycourtney",
+    "name": "tad",
+    "href": "https://github.com/antonycourtney/tad",
+    "description": "A desktop application for viewing and analyzing tabular data",
     "language": "JavaScript",
-    "stars": 39,
-    "forks": 12,
-    "starsInPeriod": 9
-  },
-  {
-    "author": "jamiebuilds",
-    "name": "the-super-tiny-compiler",
-    "href": "https://github.com/jamiebuilds/the-super-tiny-compiler",
-    "description": "⛄ Possibly the smallest compiler ever",
-    "language": "JavaScript",
-    "stars": 18378,
-    "forks": 1854,
+    "stars": 2187,
+    "forks": 95,
     "starsInPeriod": 23
   },
   {
-    "author": "MrRio",
-    "name": "jsPDF",
-    "href": "https://github.com/MrRio/jsPDF",
-    "description": "Client-side JavaScript PDF generation for everyone.",
+    "author": "circleci",
+    "name": "circleci-docs",
+    "href": "https://github.com/circleci/circleci-docs",
+    "description": "Documentation for CircleCI.",
     "language": "JavaScript",
-    "stars": 20351,
-    "forks": 3819,
-    "starsInPeriod": 19
-  },
-  {
-    "author": "Leaflet",
-    "name": "Leaflet",
-    "href": "https://github.com/Leaflet/Leaflet",
-    "description": "🍃 JavaScript library for mobile-friendly interactive maps",
-    "language": "JavaScript",
-    "stars": 29330,
-    "forks": 4682,
-    "starsInPeriod": 32
+    "stars": 472,
+    "forks": 956,
+    "starsInPeriod": 0
   },
   {
     "author": "lando",
@@ -215,38 +115,138 @@
     "href": "https://github.com/lando/lando",
     "description": "A local development and DevOps tool for all your projects that is fast, easy, powerful and liberating",
     "language": "JavaScript",
-    "stars": 2547,
+    "stars": 2556,
     "forks": 444,
-    "starsInPeriod": 8
+    "starsInPeriod": 10
   },
   {
-    "author": "facebookexperimental",
-    "name": "Recoil",
-    "href": "https://github.com/facebookexperimental/Recoil",
-    "description": "Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.",
+    "author": "Advanced-Frontend",
+    "name": "Daily-Interview-Question",
+    "href": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+    "description": "我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。",
     "language": "JavaScript",
-    "stars": 10321,
-    "forks": 466,
-    "starsInPeriod": 49
+    "stars": 20908,
+    "forks": 2593,
+    "starsInPeriod": 24
   },
   {
-    "author": "typescript-cheatsheets",
-    "name": "react",
-    "href": "https://github.com/typescript-cheatsheets/react",
-    "description": "Cheatsheets for experienced React developers getting started with TypeScript",
+    "author": "bradtraversy",
+    "name": "proshop_mern",
+    "href": "https://github.com/bradtraversy/proshop_mern",
+    "description": "Shopping cart built with MERN & Redux",
     "language": "JavaScript",
-    "stars": 19258,
-    "forks": 1286,
-    "starsInPeriod": 65
+    "stars": 563,
+    "forks": 212,
+    "starsInPeriod": 5
   },
   {
-    "author": "ShizukuIchi",
-    "name": "winXP",
-    "href": "https://github.com/ShizukuIchi/winXP",
-    "description": "🏁 Web based Windows XP desktop recreation.",
+    "author": "github",
+    "name": "docs",
+    "href": "https://github.com/github/docs",
+    "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "stars": 4011,
-    "forks": 214,
-    "starsInPeriod": 85
+    "stars": 1432,
+    "forks": 2816,
+    "starsInPeriod": 13
+  },
+  {
+    "author": "ReactTraining",
+    "name": "react-router",
+    "href": "https://github.com/ReactTraining/react-router",
+    "description": "Declarative routing for React",
+    "language": "JavaScript",
+    "stars": 41957,
+    "forks": 8325,
+    "starsInPeriod": 12
+  },
+  {
+    "author": "ryanmcdermott",
+    "name": "clean-code-javascript",
+    "href": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "description": "🛁 Clean Code concepts adapted for JavaScript",
+    "language": "JavaScript",
+    "stars": 39993,
+    "forks": 4867,
+    "starsInPeriod": 31
+  },
+  {
+    "author": "Ebazhanov",
+    "name": "in-quiz-questions",
+    "href": "https://github.com/Ebazhanov/in-quiz-questions",
+    "description": "Linkedin quiz assessment, answers and questions (aws-lambda, rest-api, javascript, react, git, html, jquery, maven, mongodb, xml, java, css, python ...) ответы на квиз",
+    "language": "JavaScript",
+    "stars": 828,
+    "forks": 737,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "egonSchiele",
+    "name": "grokking_algorithms",
+    "href": "https://github.com/egonSchiele/grokking_algorithms",
+    "description": "Code for the book Grokking Algorithms (https://amzn.to/29rVyHf)",
+    "language": "JavaScript",
+    "stars": 4735,
+    "forks": 1820,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "GoogleChrome",
+    "name": "lighthouse-ci",
+    "href": "https://github.com/GoogleChrome/lighthouse-ci",
+    "description": "Automate running Lighthouse for every commit, viewing the changes, and preventing regressions",
+    "language": "JavaScript",
+    "stars": 3702,
+    "forks": 262,
+    "starsInPeriod": 60
+  },
+  {
+    "author": "mbrn",
+    "name": "material-table",
+    "href": "https://github.com/mbrn/material-table",
+    "description": "Datatable for React based on material-ui's table with additional features",
+    "language": "JavaScript",
+    "stars": 2653,
+    "forks": 809,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "odoo",
+    "name": "odoo",
+    "href": "https://github.com/odoo/odoo",
+    "description": "Odoo. Open Source Apps To Grow Your Business.",
+    "language": "JavaScript",
+    "stars": 19303,
+    "forks": 13203,
+    "starsInPeriod": 12
+  },
+  {
+    "author": "nuxt",
+    "name": "nuxt.js",
+    "href": "https://github.com/nuxt/nuxt.js",
+    "description": "The Intuitive Vue Framework",
+    "language": "JavaScript",
+    "stars": 31188,
+    "forks": 2672,
+    "starsInPeriod": 22
+  },
+  {
+    "author": "SheetJS",
+    "name": "sheetjs",
+    "href": "https://github.com/SheetJS/sheetjs",
+    "description": "📗 SheetJS Community Edition -- Spreadsheet Data Toolkit",
+    "language": "JavaScript",
+    "stars": 23306,
+    "forks": 6084,
+    "starsInPeriod": 21
+  },
+  {
+    "author": "quilljs",
+    "name": "quill",
+    "href": "https://github.com/quilljs/quill",
+    "description": "Quill is a modern WYSIWYG editor built for compatibility and extensibility.",
+    "language": "JavaScript",
+    "stars": 28024,
+    "forks": 2294,
+    "starsInPeriod": 25
   }
 ]

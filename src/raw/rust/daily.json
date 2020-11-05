@@ -1,143 +1,23 @@
 [
   {
-    "author": "Qovery",
-    "name": "engine",
-    "href": "https://github.com/Qovery/engine",
-    "description": "Deploy your apps on any Cloud providers in just a few seconds",
-    "language": "Rust",
-    "stars": 288,
-    "forks": 10,
-    "starsInPeriod": 129
-  },
-  {
-    "author": "mosaic-org",
-    "name": "mosaic",
-    "href": "https://github.com/mosaic-org/mosaic",
-    "description": "Terminal workspace (WIP)",
-    "language": "Rust",
-    "stars": 146,
-    "forks": 6,
-    "starsInPeriod": 43
-  },
-  {
-    "author": "rust-lang",
-    "name": "rust",
-    "href": "https://github.com/rust-lang/rust",
-    "description": "Empowering everyone to build reliable and efficient software.",
-    "language": "Rust",
-    "stars": 49246,
-    "forks": 7262,
-    "starsInPeriod": 38
-  },
-  {
     "author": "bevyengine",
     "name": "bevy",
     "href": "https://github.com/bevyengine/bevy",
     "description": "A refreshingly simple data-driven game engine built in Rust",
     "language": "Rust",
-    "stars": 4580,
-    "forks": 343,
-    "starsInPeriod": 120
+    "stars": 4644,
+    "forks": 347,
+    "starsInPeriod": 65
   },
   {
-    "author": "curlpipe",
-    "name": "ox",
-    "href": "https://github.com/curlpipe/ox",
-    "description": "An independent Rust text editor that runs in your terminal!",
+    "author": "Qovery",
+    "name": "engine",
+    "href": "https://github.com/Qovery/engine",
+    "description": "Deploy your apps on any Cloud providers in just a few seconds",
     "language": "Rust",
-    "stars": 1382,
-    "forks": 24,
-    "starsInPeriod": 1103
-  },
-  {
-    "author": "casperstorm",
-    "name": "ajour",
-    "href": "https://github.com/casperstorm/ajour",
-    "description": "A World of Warcraft addon manager written in Rust.",
-    "language": "Rust",
-    "stars": 576,
-    "forks": 33,
-    "starsInPeriod": 9
-  },
-  {
-    "author": "dtolnay",
-    "name": "thiserror",
-    "href": "https://github.com/dtolnay/thiserror",
-    "description": "derive(Error) for struct and enum error types",
-    "language": "Rust",
-    "stars": 1044,
-    "forks": 44,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "deislabs",
-    "name": "akri",
-    "href": "https://github.com/deislabs/akri",
-    "description": "A Kubernetes Resource Interface for the Edge",
-    "language": "Rust",
-    "stars": 367,
-    "forks": 31,
-    "starsInPeriod": 11
-  },
-  {
-    "author": "rust-embedded",
-    "name": "rust-raspberrypi-OS-tutorials",
-    "href": "https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials",
-    "description": "📚 Learn to write an embedded OS in Rust 🦀",
-    "language": "Rust",
-    "stars": 2772,
-    "forks": 168,
-    "starsInPeriod": 21
-  },
-  {
-    "author": "timberio",
-    "name": "vector",
-    "href": "https://github.com/timberio/vector",
-    "description": "High-performance, vendor-neutral observability pipelines.",
-    "language": "Rust",
-    "stars": 5547,
-    "forks": 345,
-    "starsInPeriod": 11
-  },
-  {
-    "author": "rust-unofficial",
-    "name": "awesome-rust",
-    "href": "https://github.com/rust-unofficial/awesome-rust",
-    "description": "A curated list of Rust code and resources.",
-    "language": "Rust",
-    "stars": 17481,
-    "forks": 1180,
-    "starsInPeriod": 18
-  },
-  {
-    "author": "huggingface",
-    "name": "tokenizers",
-    "href": "https://github.com/huggingface/tokenizers",
-    "description": "💥Fast State-of-the-Art Tokenizers optimized for Research and Production",
-    "language": "Rust",
-    "stars": 3916,
-    "forks": 279,
-    "starsInPeriod": 9
-  },
-  {
-    "author": "actix",
-    "name": "actix-web",
-    "href": "https://github.com/actix/actix-web",
-    "description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.",
-    "language": "Rust",
-    "stars": 9664,
-    "forks": 1117,
-    "starsInPeriod": 20
-  },
-  {
-    "author": "BurntSushi",
-    "name": "ripgrep",
-    "href": "https://github.com/BurntSushi/ripgrep",
-    "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
-    "language": "Rust",
-    "stars": 22264,
-    "forks": 981,
-    "starsInPeriod": 43
+    "stars": 511,
+    "forks": 12,
+    "starsInPeriod": 227
   },
   {
     "author": "DataDog",
@@ -145,99 +25,9 @@
     "href": "https://github.com/DataDog/scipio",
     "description": "Scipio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans",
     "language": "Rust",
-    "stars": 670,
+    "stars": 681,
     "forks": 26,
-    "starsInPeriod": 93
-  },
-  {
-    "author": "tokio-rs",
-    "name": "mio",
-    "href": "https://github.com/tokio-rs/mio",
-    "description": "Metal IO library for Rust",
-    "language": "Rust",
-    "stars": 3922,
-    "forks": 468,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "clap-rs",
-    "name": "clap",
-    "href": "https://github.com/clap-rs/clap",
-    "description": "A full featured, fast Command Line Argument Parser for Rust",
-    "language": "Rust",
-    "stars": 5008,
-    "forks": 488,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "996icu",
-    "name": "996.ICU",
-    "href": "https://github.com/996icu/996.ICU",
-    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
-    "language": "Rust",
-    "stars": 252294,
-    "forks": 21122,
-    "starsInPeriod": 55
-  },
-  {
-    "author": "rust-windowing",
-    "name": "winit",
-    "href": "https://github.com/rust-windowing/winit",
-    "description": "Window handling library in pure Rust",
-    "language": "Rust",
-    "stars": 1477,
-    "forks": 375,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "amethyst",
-    "name": "amethyst",
-    "href": "https://github.com/amethyst/amethyst",
-    "description": "Data-oriented and data-driven game engine written in Rust",
-    "language": "Rust",
-    "stars": 6283,
-    "forks": 693,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "lemunozm",
-    "name": "message-io",
-    "href": "https://github.com/lemunozm/message-io",
-    "description": "Asynchronous network message library for building network applications easily.",
-    "language": "Rust",
-    "stars": 93,
-    "forks": 5,
-    "starsInPeriod": 35
-  },
-  {
-    "author": "async-rs",
-    "name": "async-std",
-    "href": "https://github.com/async-rs/async-std",
-    "description": "Async version of the Rust standard library",
-    "language": "Rust",
-    "stars": 2573,
-    "forks": 249,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "swc-project",
-    "name": "swc",
-    "href": "https://github.com/swc-project/swc",
-    "description": "swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.",
-    "language": "Rust",
-    "stars": 9513,
-    "forks": 211,
-    "starsInPeriod": 31
-  },
-  {
-    "author": "solana-labs",
-    "name": "solana",
-    "href": "https://github.com/solana-labs/solana",
-    "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
-    "language": "Rust",
-    "stars": 1001,
-    "forks": 237,
-    "starsInPeriod": 3
+    "starsInPeriod": 11
   },
   {
     "author": "linebender",
@@ -245,8 +35,218 @@
     "href": "https://github.com/linebender/druid",
     "description": "A data-first Rust-native UI design toolkit.",
     "language": "Rust",
-    "stars": 2695,
-    "forks": 218,
+    "stars": 2701,
+    "forks": 219,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "async-rs",
+    "name": "async-std",
+    "href": "https://github.com/async-rs/async-std",
+    "description": "Async version of the Rust standard library",
+    "language": "Rust",
+    "stars": 2584,
+    "forks": 250,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "swc-project",
+    "name": "swc",
+    "href": "https://github.com/swc-project/swc",
+    "description": "swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.",
+    "language": "Rust",
+    "stars": 9529,
+    "forks": 211,
+    "starsInPeriod": 18
+  },
+  {
+    "author": "dabreegster",
+    "name": "abstreet",
+    "href": "https://github.com/dabreegster/abstreet",
+    "description": "A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.",
+    "language": "Rust",
+    "stars": 5089,
+    "forks": 135,
     "starsInPeriod": 9
+  },
+  {
+    "author": "timberio",
+    "name": "vector",
+    "href": "https://github.com/timberio/vector",
+    "description": "High-performance, vendor-neutral observability pipelines.",
+    "language": "Rust",
+    "stars": 5552,
+    "forks": 347,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "curlpipe",
+    "name": "ox",
+    "href": "https://github.com/curlpipe/ox",
+    "description": "An independent Rust text editor that runs in your terminal!",
+    "language": "Rust",
+    "stars": 1510,
+    "forks": 29,
+    "starsInPeriod": 128
+  },
+  {
+    "author": "dtolnay",
+    "name": "thiserror",
+    "href": "https://github.com/dtolnay/thiserror",
+    "description": "derive(Error) for struct and enum error types",
+    "language": "Rust",
+    "stars": 1048,
+    "forks": 44,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "meilisearch",
+    "name": "MeiliSearch",
+    "href": "https://github.com/meilisearch/MeiliSearch",
+    "description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine",
+    "language": "Rust",
+    "stars": 9892,
+    "forks": 298,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "blockstack",
+    "name": "stacks-blockchain",
+    "href": "https://github.com/blockstack/stacks-blockchain",
+    "description": "The Stacks 2.0 blockchain implementation",
+    "language": "Rust",
+    "stars": 2172,
+    "forks": 397,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "seanmonstar",
+    "name": "warp",
+    "href": "https://github.com/seanmonstar/warp",
+    "description": "A super-easy, composable, web server framework for warp speeds.",
+    "language": "Rust",
+    "stars": 3465,
+    "forks": 348,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "firecracker-microvm",
+    "name": "firecracker",
+    "href": "https://github.com/firecracker-microvm/firecracker",
+    "description": "Secure and fast microVMs for serverless computing.",
+    "language": "Rust",
+    "stars": 13024,
+    "forks": 901,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "casperstorm",
+    "name": "ajour",
+    "href": "https://github.com/casperstorm/ajour",
+    "description": "A World of Warcraft addon manager written in Rust.",
+    "language": "Rust",
+    "stars": 577,
+    "forks": 32,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "Sequal32",
+    "name": "yourcontrols",
+    "href": "https://github.com/Sequal32/yourcontrols",
+    "description": "Shared cockpit for Microsoft Flight Simulator.",
+    "language": "Rust",
+    "stars": 98,
+    "forks": 6,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "clap-rs",
+    "name": "clap",
+    "href": "https://github.com/clap-rs/clap",
+    "description": "A full featured, fast Command Line Argument Parser for Rust",
+    "language": "Rust",
+    "stars": 5010,
+    "forks": 488,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "Canop",
+    "name": "bacon",
+    "href": "https://github.com/Canop/bacon",
+    "description": "constant background compilation check",
+    "language": "Rust",
+    "stars": 46,
+    "forks": 4,
+    "starsInPeriod": 17
+  },
+  {
+    "author": "huggingface",
+    "name": "tokenizers",
+    "href": "https://github.com/huggingface/tokenizers",
+    "description": "💥Fast State-of-the-Art Tokenizers optimized for Research and Production",
+    "language": "Rust",
+    "stars": 3924,
+    "forks": 279,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "pretzelhammer",
+    "name": "rust-blog",
+    "href": "https://github.com/pretzelhammer/rust-blog",
+    "description": "Educational blog posts for Rust beginners",
+    "language": "Rust",
+    "stars": 1563,
+    "forks": 71,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "o2sh",
+    "name": "onefetch",
+    "href": "https://github.com/o2sh/onefetch",
+    "description": "Git repository summary on your terminal",
+    "language": "Rust",
+    "stars": 2406,
+    "forks": 120,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "rhysd",
+    "name": "kiro-editor",
+    "href": "https://github.com/rhysd/kiro-editor",
+    "description": "A terminal UTF-8 text editor written in Rust 📝🦀",
+    "language": "Rust",
+    "stars": 332,
+    "forks": 11,
+    "starsInPeriod": 13
+  },
+  {
+    "author": "BurntSushi",
+    "name": "ripgrep",
+    "href": "https://github.com/BurntSushi/ripgrep",
+    "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+    "language": "Rust",
+    "stars": 22280,
+    "forks": 983,
+    "starsInPeriod": 17
+  },
+  {
+    "author": "tokio-rs",
+    "name": "mio",
+    "href": "https://github.com/tokio-rs/mio",
+    "description": "Metal IO library for Rust",
+    "language": "Rust",
+    "stars": 3926,
+    "forks": 468,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "alacritty",
+    "name": "alacritty",
+    "href": "https://github.com/alacritty/alacritty",
+    "description": "A cross-platform, GPU-accelerated terminal emulator",
+    "language": "Rust",
+    "stars": 26222,
+    "forks": 1358,
+    "starsInPeriod": 15
   }
 ]

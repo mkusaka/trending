@@ -1,51 +1,51 @@
 # rust
-- [engine](https://github.com/Qovery/engine)
-  - Deploy your apps on any Cloud providers in just a few seconds
-- [mosaic](https://github.com/mosaic-org/mosaic)
-  - Terminal workspace (WIP)
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
 - [bevy](https://github.com/bevyengine/bevy)
   - A refreshingly simple data-driven game engine built in Rust
-- [ox](https://github.com/curlpipe/ox)
-  - An independent Rust text editor that runs in your terminal!
-- [ajour](https://github.com/casperstorm/ajour)
-  - A World of Warcraft addon manager written in Rust.
-- [thiserror](https://github.com/dtolnay/thiserror)
-  - derive(Error) for struct and enum error types
-- [akri](https://github.com/deislabs/akri)
-  - A Kubernetes Resource Interface for the Edge
-- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
-  - 📚 Learn to write an embedded OS in Rust 🦀
-- [vector](https://github.com/timberio/vector)
-  - High-performance, vendor-neutral observability pipelines.
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-  - A curated list of Rust code and resources.
-- [tokenizers](https://github.com/huggingface/tokenizers)
-  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
-- [actix-web](https://github.com/actix/actix-web)
-  - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
-- [ripgrep](https://github.com/BurntSushi/ripgrep)
-  - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [engine](https://github.com/Qovery/engine)
+  - Deploy your apps on any Cloud providers in just a few seconds
 - [scipio](https://github.com/DataDog/scipio)
   - Scipio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans
-- [mio](https://github.com/tokio-rs/mio)
-  - Metal IO library for Rust
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
-- [996.ICU](https://github.com/996icu/996.ICU)
-  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [winit](https://github.com/rust-windowing/winit)
-  - Window handling library in pure Rust
-- [amethyst](https://github.com/amethyst/amethyst)
-  - Data-oriented and data-driven game engine written in Rust
-- [message-io](https://github.com/lemunozm/message-io)
-  - Asynchronous network message library for building network applications easily.
+- [druid](https://github.com/linebender/druid)
+  - A data-first Rust-native UI design toolkit.
 - [async-std](https://github.com/async-rs/async-std)
   - Async version of the Rust standard library
 - [swc](https://github.com/swc-project/swc)
   - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
-- [solana](https://github.com/solana-labs/solana)
-  - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-- [druid](https://github.com/linebender/druid)
-  - A data-first Rust-native UI design toolkit.
+- [abstreet](https://github.com/dabreegster/abstreet)
+  - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
+- [vector](https://github.com/timberio/vector)
+  - High-performance, vendor-neutral observability pipelines.
+- [ox](https://github.com/curlpipe/ox)
+  - An independent Rust text editor that runs in your terminal!
+- [thiserror](https://github.com/dtolnay/thiserror)
+  - derive(Error) for struct and enum error types
+- [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
+  - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
+- [stacks-blockchain](https://github.com/blockstack/stacks-blockchain)
+  - The Stacks 2.0 blockchain implementation
+- [warp](https://github.com/seanmonstar/warp)
+  - A super-easy, composable, web server framework for warp speeds.
+- [firecracker](https://github.com/firecracker-microvm/firecracker)
+  - Secure and fast microVMs for serverless computing.
+- [ajour](https://github.com/casperstorm/ajour)
+  - A World of Warcraft addon manager written in Rust.
+- [yourcontrols](https://github.com/Sequal32/yourcontrols)
+  - Shared cockpit for Microsoft Flight Simulator.
+- [clap](https://github.com/clap-rs/clap)
+  - A full featured, fast Command Line Argument Parser for Rust
+- [bacon](https://github.com/Canop/bacon)
+  - constant background compilation check
+- [tokenizers](https://github.com/huggingface/tokenizers)
+  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [rust-blog](https://github.com/pretzelhammer/rust-blog)
+  - Educational blog posts for Rust beginners
+- [onefetch](https://github.com/o2sh/onefetch)
+  - Git repository summary on your terminal
+- [kiro-editor](https://github.com/rhysd/kiro-editor)
+  - A terminal UTF-8 text editor written in Rust 📝🦀
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [mio](https://github.com/tokio-rs/mio)
+  - Metal IO library for Rust
+- [alacritty](https://github.com/alacritty/alacritty)
+  - A cross-platform, GPU-accelerated terminal emulator

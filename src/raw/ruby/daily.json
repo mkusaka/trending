@@ -5,29 +5,9 @@
     "href": "https://github.com/rails/rails",
     "description": "Ruby on Rails",
     "language": "Ruby",
-    "stars": 46793,
-    "forks": 18820,
-    "starsInPeriod": 17
-  },
-  {
-    "author": "heartcombo",
-    "name": "devise",
-    "href": "https://github.com/heartcombo/devise",
-    "description": "Flexible authentication solution for Rails with Warden.",
-    "language": "Ruby",
-    "stars": 21206,
-    "forks": 5100,
-    "starsInPeriod": 9
-  },
-  {
-    "author": "thoughtbot",
-    "name": "factory_bot",
-    "href": "https://github.com/thoughtbot/factory_bot",
-    "description": "A library for setting up Ruby objects as test data.",
-    "language": "Ruby",
-    "stars": 7019,
-    "forks": 2227,
-    "starsInPeriod": 4
+    "stars": 46798,
+    "forks": 18828,
+    "starsInPeriod": 7
   },
   {
     "author": "faker-ruby",
@@ -35,59 +15,19 @@
     "href": "https://github.com/faker-ruby/faker",
     "description": "A library for generating fake data such as names, addresses, and phone numbers.",
     "language": "Ruby",
-    "stars": 8966,
-    "forks": 2498,
-    "starsInPeriod": 7
+    "stars": 8971,
+    "forks": 2502,
+    "starsInPeriod": 5
   },
   {
-    "author": "chef",
-    "name": "chef",
-    "href": "https://github.com/chef/chef",
-    "description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale",
+    "author": "spree",
+    "name": "spree",
+    "href": "https://github.com/spree/spree",
+    "description": "Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:",
     "language": "Ruby",
-    "stars": 6393,
-    "forks": 2458,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "asciidoctor",
-    "name": "asciidoctor",
-    "href": "https://github.com/asciidoctor/asciidoctor",
-    "description": "💎 A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.",
-    "language": "Ruby",
-    "stars": 3365,
-    "forks": 564,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "Homebrew",
-    "name": "brew",
-    "href": "https://github.com/Homebrew/brew",
-    "description": "🍺 The missing package manager for macOS (or Linux)",
-    "language": "Ruby",
-    "stars": 23521,
-    "forks": 5517,
-    "starsInPeriod": 23
-  },
-  {
-    "author": "github",
-    "name": "linguist",
-    "href": "https://github.com/github/linguist",
-    "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
-    "language": "Ruby",
-    "stars": 8169,
-    "forks": 2961,
+    "stars": 10748,
+    "forks": 4589,
     "starsInPeriod": 6
-  },
-  {
-    "author": "CocoaPods",
-    "name": "CocoaPods",
-    "href": "https://github.com/CocoaPods/CocoaPods",
-    "description": "The Cocoa Dependency Manager.",
-    "language": "Ruby",
-    "stars": 12788,
-    "forks": 2325,
-    "starsInPeriod": 2
   },
   {
     "author": "elastic",
@@ -95,29 +35,59 @@
     "href": "https://github.com/elastic/logstash",
     "description": "Logstash - transport and process your logs, events, or other data",
     "language": "Ruby",
-    "stars": 11751,
-    "forks": 3077,
+    "stars": 11759,
+    "forks": 3079,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "CocoaPods",
+    "name": "CocoaPods",
+    "href": "https://github.com/CocoaPods/CocoaPods",
+    "description": "The Cocoa Dependency Manager.",
+    "language": "Ruby",
+    "stars": 12791,
+    "forks": 2326,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "mperham",
+    "name": "sidekiq",
+    "href": "https://github.com/mperham/sidekiq",
+    "description": "Simple, efficient background processing for Ruby",
+    "language": "Ruby",
+    "stars": 10640,
+    "forks": 1874,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "hashicorp",
+    "name": "vagrant",
+    "href": "https://github.com/hashicorp/vagrant",
+    "description": "Vagrant is a tool for building and distributing development environments.",
+    "language": "Ruby",
+    "stars": 20904,
+    "forks": 4016,
     "starsInPeriod": 6
   },
   {
-    "author": "ytti",
-    "name": "oxidized",
-    "href": "https://github.com/ytti/oxidized",
-    "description": "Oxidized is a network device configuration backup tool. It's a RANCID replacement!",
+    "author": "solidusio",
+    "name": "solidus",
+    "href": "https://github.com/solidusio/solidus",
+    "description": "🛒Solidus, Rails eCommerce System",
     "language": "Ruby",
-    "stars": 1561,
-    "forks": 605,
+    "stars": 3339,
+    "forks": 981,
     "starsInPeriod": 4
   },
   {
-    "author": "fluent",
-    "name": "fluentd",
-    "href": "https://github.com/fluent/fluentd",
-    "description": "Fluentd: Unified Logging Layer (project under CNCF)",
+    "author": "Homebrew",
+    "name": "brew",
+    "href": "https://github.com/Homebrew/brew",
+    "description": "🍺 The missing package manager for macOS (or Linux)",
     "language": "Ruby",
-    "stars": 9678,
-    "forks": 1115,
-    "starsInPeriod": 6
+    "stars": 23525,
+    "forks": 5521,
+    "starsInPeriod": 10
   },
   {
     "author": "elastic",
@@ -125,79 +95,129 @@
     "href": "https://github.com/elastic/elasticsearch-ruby",
     "description": "Ruby integrations for Elasticsearch",
     "language": "Ruby",
-    "stars": 1764,
+    "stars": 1765,
     "forks": 515,
-    "starsInPeriod": 0
-  },
-  {
-    "author": "bigbluebutton",
-    "name": "greenlight",
-    "href": "https://github.com/bigbluebutton/greenlight",
-    "description": "A really simple end-user interface for your BigBlueButton server.",
-    "language": "Ruby",
-    "stars": 465,
-    "forks": 3024,
     "starsInPeriod": 1
-  },
-  {
-    "author": "dependabot",
-    "name": "dependabot-core",
-    "href": "https://github.com/dependabot/dependabot-core",
-    "description": "🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot",
-    "language": "Ruby",
-    "stars": 1483,
-    "forks": 365,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "rspec",
-    "name": "rspec-core",
-    "href": "https://github.com/rspec/rspec-core",
-    "description": "RSpec runner and formatters",
-    "language": "Ruby",
-    "stars": 1044,
-    "forks": 699,
-    "starsInPeriod": 0
   },
   {
     "author": "Homebrew",
-    "name": "homebrew-cask-versions",
-    "href": "https://github.com/Homebrew/homebrew-cask-versions",
-    "description": "🔢 Alternate versions of Casks",
+    "name": "homebrew-cask",
+    "href": "https://github.com/Homebrew/homebrew-cask",
+    "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
     "language": "Ruby",
-    "stars": 856,
-    "forks": 933,
+    "stars": 17579,
+    "forks": 8632,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "amatsuda",
+    "name": "jb",
+    "href": "https://github.com/amatsuda/jb",
+    "description": "A simple and fast JSON API template engine for Ruby on Rails",
+    "language": "Ruby",
+    "stars": 1030,
+    "forks": 28,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "rapid7",
+    "name": "metasploit-framework",
+    "href": "https://github.com/rapid7/metasploit-framework",
+    "description": "Metasploit Framework",
+    "language": "Ruby",
+    "stars": 21995,
+    "forks": 10594,
+    "starsInPeriod": 12
+  },
+  {
+    "author": "activemerchant",
+    "name": "active_merchant",
+    "href": "https://github.com/activemerchant/active_merchant",
+    "description": "Active Merchant is a simple payment abstraction library extracted from Shopify. The aim of the project is to feel natural to Ruby users and to abstract as many parts as possible away from the user to offer a consistent interface across all supported gateways.",
+    "language": "Ruby",
+    "stars": 4251,
+    "forks": 2390,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "ilyakatz",
+    "name": "data-migrate",
+    "href": "https://github.com/ilyakatz/data-migrate",
+    "description": "Migrate and update data alongside your database structure.",
+    "language": "Ruby",
+    "stars": 718,
+    "forks": 122,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "roo-rb",
+    "name": "roo",
+    "href": "https://github.com/roo-rb/roo",
+    "description": "Roo provides an interface to spreadsheets of several sorts.",
+    "language": "Ruby",
+    "stars": 2397,
+    "forks": 455,
     "starsInPeriod": 1
   },
   {
-    "author": "luggit",
-    "name": "react-native-config",
-    "href": "https://github.com/luggit/react-native-config",
-    "description": "Bring some 12 factor love to your mobile apps!",
+    "author": "ankane",
+    "name": "searchkick",
+    "href": "https://github.com/ankane/searchkick",
+    "description": "Intelligent search made easy with Rails and Elasticsearch",
     "language": "Ruby",
-    "stars": 3350,
-    "forks": 543,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "resque",
-    "name": "resque",
-    "href": "https://github.com/resque/resque",
-    "description": "Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.",
-    "language": "Ruby",
-    "stars": 8808,
-    "forks": 1588,
+    "stars": 5419,
+    "forks": 649,
     "starsInPeriod": 1
   },
   {
-    "author": "paper-trail-gem",
-    "name": "paper_trail",
-    "href": "https://github.com/paper-trail-gem/paper_trail",
-    "description": "Track changes to your rails models",
+    "author": "doorkeeper-gem",
+    "name": "doorkeeper",
+    "href": "https://github.com/doorkeeper-gem/doorkeeper",
+    "description": "Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.",
     "language": "Ruby",
-    "stars": 5937,
-    "forks": 783,
-    "starsInPeriod": 4
+    "stars": 4681,
+    "forks": 956,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "heartcombo",
+    "name": "simple_form",
+    "href": "https://github.com/heartcombo/simple_form",
+    "description": "Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.",
+    "language": "Ruby",
+    "stars": 7675,
+    "forks": 1283,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "sferik",
+    "name": "rails_admin",
+    "href": "https://github.com/sferik/rails_admin",
+    "description": "RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data",
+    "language": "Ruby",
+    "stars": 7387,
+    "forks": 2160,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "ambethia",
+    "name": "recaptcha",
+    "href": "https://github.com/ambethia/recaptcha",
+    "description": "ReCaptcha helpers for ruby apps",
+    "language": "Ruby",
+    "stars": 1738,
+    "forks": 386,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "puma",
+    "name": "puma",
+    "href": "https://github.com/puma/puma",
+    "description": "A Ruby/Rack web server built for concurrency",
+    "language": "Ruby",
+    "stars": 6561,
+    "forks": 1179,
+    "starsInPeriod": 1
   },
   {
     "author": "puppetlabs",
@@ -205,29 +225,9 @@
     "href": "https://github.com/puppetlabs/puppet",
     "description": "Server automation framework and application",
     "language": "Ruby",
-    "stars": 5947,
-    "forks": 2169,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "freeCodeCamp",
-    "name": "devdocs",
-    "href": "https://github.com/freeCodeCamp/devdocs",
-    "description": "API Documentation Browser",
-    "language": "Ruby",
-    "stars": 24133,
-    "forks": 1636,
-    "starsInPeriod": 12
-  },
-  {
-    "author": "norman",
-    "name": "friendly_id",
-    "href": "https://github.com/norman/friendly_id",
-    "description": "FriendlyId is the “Swiss Army bulldozer” of slugging and permalink plugins for ActiveRecord. It allows you to create pretty URL’s and work with human-friendly strings as if they were numeric ids for ActiveRecord models.",
-    "language": "Ruby",
-    "stars": 5545,
-    "forks": 573,
-    "starsInPeriod": 1
+    "stars": 5949,
+    "forks": 2170,
+    "starsInPeriod": 2
   },
   {
     "author": "elastic",
@@ -237,16 +237,16 @@
     "language": "Ruby",
     "stars": 2770,
     "forks": 706,
-    "starsInPeriod": 2
+    "starsInPeriod": 1
   },
   {
-    "author": "lynndylanhurley",
-    "name": "devise_token_auth",
-    "href": "https://github.com/lynndylanhurley/devise_token_auth",
-    "description": "Token based authentication for Rails JSON APIs. Designed to work with jToker and ng-token-auth.",
+    "author": "aws",
+    "name": "aws-sdk-ruby",
+    "href": "https://github.com/aws/aws-sdk-ruby",
+    "description": "The official AWS SDK for Ruby.",
     "language": "Ruby",
-    "stars": 3054,
-    "forks": 987,
-    "starsInPeriod": 5
+    "stars": 3178,
+    "forks": 1080,
+    "starsInPeriod": 1
   }
 ]
