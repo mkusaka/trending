@@ -1,33 +1,23 @@
 [
   {
-    "author": "hoffstadt",
-    "name": "DearPyGui",
-    "href": "https://github.com/hoffstadt/DearPyGui",
-    "description": "Dear PyGui: A Bloat-free Graphical User Interface for Python with minimal dependencies",
+    "author": "ocornut",
+    "name": "imgui",
+    "href": "https://github.com/ocornut/imgui",
+    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
     "language": "C++",
-    "stars": 2474,
-    "forks": 105,
-    "starsInPeriod": 197
+    "stars": 24597,
+    "forks": 4118,
+    "starsInPeriod": 286
   },
   {
-    "author": "sogou",
-    "name": "workflow",
-    "href": "https://github.com/sogou/workflow",
-    "description": "C++ Programming Paradigm with Asynchronous Networking",
+    "author": "cmu-db",
+    "name": "noisepage",
+    "href": "https://github.com/cmu-db/noisepage",
+    "description": "Self-Driving Database Management System from Carnegie Mellon University",
     "language": "C++",
-    "stars": 2642,
-    "forks": 541,
-    "starsInPeriod": 128
-  },
-  {
-    "author": "google",
-    "name": "googletest",
-    "href": "https://github.com/google/googletest",
-    "description": "Googletest - Google Testing and Mocking Framework",
-    "language": "C++",
-    "stars": 18489,
-    "forks": 6757,
-    "starsInPeriod": 22
+    "stars": 776,
+    "forks": 295,
+    "starsInPeriod": 47
   },
   {
     "author": "microsoft",
@@ -35,69 +25,39 @@
     "href": "https://github.com/microsoft/onnxruntime",
     "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
     "language": "C++",
-    "stars": 3467,
-    "forks": 810,
-    "starsInPeriod": 7
+    "stars": 3487,
+    "forks": 813,
+    "starsInPeriod": 12
   },
   {
-    "author": "ArduPilot",
-    "name": "ardupilot",
-    "href": "https://github.com/ArduPilot/ardupilot",
-    "description": "ArduPlane, ArduCopter, ArduRover source",
+    "author": "google",
+    "name": "googletest",
+    "href": "https://github.com/google/googletest",
+    "description": "Googletest - Google Testing and Mocking Framework",
     "language": "C++",
-    "stars": 5347,
-    "forks": 9990,
-    "starsInPeriod": 6
+    "stars": 18506,
+    "forks": 6760,
+    "starsInPeriod": 15
   },
   {
-    "author": "tensorflow",
-    "name": "tensorflow",
-    "href": "https://github.com/tensorflow/tensorflow",
-    "description": "An Open Source Machine Learning Framework for Everyone",
+    "author": "ros-planning",
+    "name": "navigation2",
+    "href": "https://github.com/ros-planning/navigation2",
+    "description": "ROS2 Navigation",
     "language": "C++",
-    "stars": 149815,
-    "forks": 83135,
-    "starsInPeriod": 64
+    "stars": 406,
+    "forks": 277,
+    "starsInPeriod": 2
   },
   {
-    "author": "SpiderLabs",
-    "name": "ModSecurity",
-    "href": "https://github.com/SpiderLabs/ModSecurity",
-    "description": "ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…",
+    "author": "tdlib",
+    "name": "td",
+    "href": "https://github.com/tdlib/td",
+    "description": "Cross-platform library for building Telegram clients",
     "language": "C++",
-    "stars": 3905,
-    "forks": 1059,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "Aircoookie",
-    "name": "WLED",
-    "href": "https://github.com/Aircoookie/WLED",
-    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
-    "language": "C++",
-    "stars": 3367,
-    "forks": 577,
-    "starsInPeriod": 87
-  },
-  {
-    "author": "dmlc",
-    "name": "xgboost",
-    "href": "https://github.com/dmlc/xgboost",
-    "description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow",
-    "language": "C++",
-    "stars": 20062,
-    "forks": 7797,
-    "starsInPeriod": 19
-  },
-  {
-    "author": "ossrs",
-    "name": "srs",
-    "href": "https://github.com/ossrs/srs",
-    "description": "SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.",
-    "language": "C++",
-    "stars": 9918,
-    "forks": 3331,
-    "starsInPeriod": 28
+    "stars": 3007,
+    "forks": 612,
+    "starsInPeriod": 12
   },
   {
     "author": "opencv",
@@ -105,59 +65,9 @@
     "href": "https://github.com/opencv/opencv",
     "description": "Open Source Computer Vision Library",
     "language": "C++",
-    "stars": 49813,
-    "forks": 40396,
-    "starsInPeriod": 62
-  },
-  {
-    "author": "yhirose",
-    "name": "cpp-httplib",
-    "href": "https://github.com/yhirose/cpp-httplib",
-    "description": "A C++ header-only HTTP/HTTPS server and client library",
-    "language": "C++",
-    "stars": 3897,
-    "forks": 864,
-    "starsInPeriod": 12
-  },
-  {
-    "author": "microsoft",
-    "name": "vcpkg",
-    "href": "https://github.com/microsoft/vcpkg",
-    "description": "C++ Library Manager for Windows, Linux, and MacOS",
-    "language": "C++",
-    "stars": 10814,
-    "forks": 2970,
-    "starsInPeriod": 28
-  },
-  {
-    "author": "ApolloAuto",
-    "name": "apollo",
-    "href": "https://github.com/ApolloAuto/apollo",
-    "description": "An open autonomous driving platform",
-    "language": "C++",
-    "stars": 17280,
-    "forks": 6595,
-    "starsInPeriod": 11
-  },
-  {
-    "author": "catchorg",
-    "name": "Catch2",
-    "href": "https://github.com/catchorg/Catch2",
-    "description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)",
-    "language": "C++",
-    "stars": 12286,
-    "forks": 2062,
-    "starsInPeriod": 9
-  },
-  {
-    "author": "apache",
-    "name": "arrow",
-    "href": "https://github.com/apache/arrow",
-    "description": "Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…",
-    "language": "C++",
-    "stars": 6419,
-    "forks": 1627,
-    "starsInPeriod": 18
+    "stars": 49845,
+    "forks": 40433,
+    "starsInPeriod": 36
   },
   {
     "author": "envoyproxy",
@@ -165,88 +75,178 @@
     "href": "https://github.com/envoyproxy/envoy",
     "description": "Cloud-native high-performance edge/middle/service proxy",
     "language": "C++",
-    "stars": 15094,
-    "forks": 2605,
-    "starsInPeriod": 18
+    "stars": 15114,
+    "forks": 2610,
+    "starsInPeriod": 21
   },
   {
-    "author": "lightvector",
-    "name": "KataGo",
-    "href": "https://github.com/lightvector/KataGo",
-    "description": "GTP engine and self-play learning in Go",
+    "author": "sogou",
+    "name": "workflow",
+    "href": "https://github.com/sogou/workflow",
+    "description": "C++ Programming Paradigm with Asynchronous Networking",
     "language": "C++",
-    "stars": 697,
-    "forks": 170,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "gabime",
-    "name": "spdlog",
-    "href": "https://github.com/gabime/spdlog",
-    "description": "Fast C++ logging library.",
-    "language": "C++",
-    "stars": 9979,
-    "forks": 2133,
-    "starsInPeriod": 17
+    "stars": 2715,
+    "forks": 549,
+    "starsInPeriod": 76
   },
   {
     "author": "Tencent",
-    "name": "mars",
-    "href": "https://github.com/Tencent/mars",
-    "description": "Mars is a cross-platform network component developed by WeChat.",
+    "name": "Hippy",
+    "href": "https://github.com/Tencent/Hippy",
+    "description": "A cross platform framework designed for Web developer. Introduction video - https://v.qq.com/x/page/i3038urj2mt.html",
     "language": "C++",
-    "stars": 14913,
-    "forks": 3120,
+    "stars": 5331,
+    "forks": 545,
+    "starsInPeriod": 17
+  },
+  {
+    "author": "hoffstadt",
+    "name": "DearPyGui",
+    "href": "https://github.com/hoffstadt/DearPyGui",
+    "description": "Dear PyGui: A Bloat-free Graphical User Interface for Python with minimal dependencies",
+    "language": "C++",
+    "stars": 2632,
+    "forks": 107,
+    "starsInPeriod": 162
+  },
+  {
+    "author": "pytorch",
+    "name": "pytorch",
+    "href": "https://github.com/pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "language": "C++",
+    "stars": 43634,
+    "forks": 11467,
+    "starsInPeriod": 28
+  },
+  {
+    "author": "carla-simulator",
+    "name": "carla",
+    "href": "https://github.com/carla-simulator/carla",
+    "description": "Open-source simulator for autonomous driving research.",
+    "language": "C++",
+    "stars": 5146,
+    "forks": 1511,
     "starsInPeriod": 9
   },
   {
-    "author": "open-source-parsers",
-    "name": "jsoncpp",
-    "href": "https://github.com/open-source-parsers/jsoncpp",
-    "description": "A C++ library for interacting with JSON.",
+    "author": "catchorg",
+    "name": "Catch2",
+    "href": "https://github.com/catchorg/Catch2",
+    "description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)",
     "language": "C++",
-    "stars": 5072,
-    "forks": 1964,
+    "stars": 12290,
+    "forks": 2062,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "google",
+    "name": "re2",
+    "href": "https://github.com/google/re2",
+    "description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",
+    "language": "C++",
+    "stars": 5219,
+    "forks": 781,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "yuzu-emu",
+    "name": "yuzu",
+    "href": "https://github.com/yuzu-emu/yuzu",
+    "description": "Nintendo Switch Emulator",
+    "language": "C++",
+    "stars": 12433,
+    "forks": 1027,
+    "starsInPeriod": 20
+  },
+  {
+    "author": "SpiderLabs",
+    "name": "ModSecurity",
+    "href": "https://github.com/SpiderLabs/ModSecurity",
+    "description": "ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…",
+    "language": "C++",
+    "stars": 3909,
+    "forks": 1059,
     "starsInPeriod": 4
   },
   {
-    "author": "taskflow",
-    "name": "taskflow",
-    "href": "https://github.com/taskflow/taskflow",
-    "description": "Parallel and Heterogeneous Task Programming in Modern C++",
+    "author": "Project-OSRM",
+    "name": "osrm-backend",
+    "href": "https://github.com/Project-OSRM/osrm-backend",
+    "description": "Open Source Routing Machine - C++ backend",
     "language": "C++",
-    "stars": 4395,
-    "forks": 509,
-    "starsInPeriod": 14
+    "stars": 4045,
+    "forks": 2223,
+    "starsInPeriod": 4
   },
   {
-    "author": "mozilla",
-    "name": "DeepSpeech",
-    "href": "https://github.com/mozilla/DeepSpeech",
-    "description": "DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.",
+    "author": "ouyanghuiyu",
+    "name": "chineseocr_lite",
+    "href": "https://github.com/ouyanghuiyu/chineseocr_lite",
+    "description": "超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M",
     "language": "C++",
-    "stars": 15645,
-    "forks": 2910,
-    "starsInPeriod": 43
+    "stars": 5855,
+    "forks": 1162,
+    "starsInPeriod": 8
   },
   {
-    "author": "project-chip",
-    "name": "connectedhomeip",
-    "href": "https://github.com/project-chip/connectedhomeip",
-    "description": "Project Connected Home over IP is a new Working Group within the Zigbee Alliance. This Working Group plans to develop and promote the adoption of a new connectivity standard to increase compatibility among smart home products, with security as a fundamental design tenet.",
+    "author": "protocolbuffers",
+    "name": "protobuf",
+    "href": "https://github.com/protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
     "language": "C++",
-    "stars": 772,
-    "forks": 138,
-    "starsInPeriod": 3
+    "stars": 44623,
+    "forks": 11980,
+    "starsInPeriod": 22
   },
   {
-    "author": "NVIDIA",
-    "name": "TensorRT",
-    "href": "https://github.com/NVIDIA/TensorRT",
-    "description": "TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.",
+    "author": "flameshot-org",
+    "name": "flameshot",
+    "href": "https://github.com/flameshot-org/flameshot",
+    "description": "Powerful yet simple to use screenshot software",
     "language": "C++",
-    "stars": 2936,
-    "forks": 670,
-    "starsInPeriod": 10
+    "stars": 6896,
+    "forks": 495,
+    "starsInPeriod": 19
+  },
+  {
+    "author": "pybind",
+    "name": "pybind11",
+    "href": "https://github.com/pybind/pybind11",
+    "description": "Seamless operability between C++11 and Python",
+    "language": "C++",
+    "stars": 8208,
+    "forks": 1165,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "ArduPilot",
+    "name": "ardupilot",
+    "href": "https://github.com/ArduPilot/ardupilot",
+    "description": "ArduPlane, ArduCopter, ArduRover source",
+    "language": "C++",
+    "stars": 5350,
+    "forks": 9996,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "wang-bin",
+    "name": "QtAV",
+    "href": "https://github.com/wang-bin/QtAV",
+    "description": "A cross-platform multimedia framework based on Qt and FFmpeg(https://github.com/wang-bin/avbuild). High performance. User & developer friendly. Supports Android, iOS, Windows store and desktops. 基于Qt和FFmpeg的跨平台高性能音视频播放框架",
+    "language": "C++",
+    "stars": 2601,
+    "forks": 1184,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "google",
+    "name": "iree",
+    "href": "https://github.com/google/iree",
+    "description": "👻",
+    "language": "C++",
+    "stars": 496,
+    "forks": 103,
+    "starsInPeriod": 1
   }
 ]

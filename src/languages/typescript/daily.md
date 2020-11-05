@@ -1,51 +1,51 @@
 # typescript
-- [vscode](https://github.com/microsoft/vscode)
-  - Visual Studio Code
+- [loopback-next](https://github.com/strongloop/loopback-next)
+  - LoopBack makes it easy to build modern API applications that require complex integrations.
+- [angular-cli](https://github.com/angular/angular-cli)
+  - CLI tool for Angular
+- [aws-secure-environment-accelerator](https://github.com/aws-samples/aws-secure-environment-accelerator)
+  - The AWS Secure Environment Accelerator is a tool designed to help deploy and operate secure multi-account AWS environments on an ongoing basis. The power of the solution is the configuration file which enables the completely automated deployment of customizable architectures within AWS without changing a single line of code.
 - [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)
   - The source for REST API specifications for Microsoft Azure.
-- [admin-bro](https://github.com/SoftwareBrothers/admin-bro)
-  - AdminBro is an admin panel for apps written in node.js
-- [formik](https://github.com/formium/formik)
-  - Build forms in React, without the tears 😭
-- [angularfire](https://github.com/angular/angularfire)
-  - The official Angular library for Firebase.
-- [grafana](https://github.com/grafana/grafana)
-  - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [vuetify](https://github.com/vuetifyjs/vuetify)
-  - 🐉 Material Component Framework for Vue
-- [h5-Dooring](https://github.com/MrXujiang/h5-Dooring)
-  - (H5编辑器)H5-Dooring是一款功能强大，开源免费的H5可视化页面配置解决方案，致力于提供一套简单方便、专业可靠、无限可能的H5落地页最佳实践。技术栈以react为主， 后台采用nodejs开发.
-- [react-native-paper](https://github.com/callstack/react-native-paper)
-  - Material Design for React Native (Android & iOS)
-- [lens](https://github.com/lensapp/lens)
-  - Lens - The Kubernetes IDE
-- [redux](https://github.com/reduxjs/redux)
-  - Predictable state container for JavaScript apps
-- [snyk](https://github.com/snyk/snyk)
-  - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
-- [umi](https://github.com/umijs/umi)
-  - 🌋 Pluggable enterprise-level react application framework.
+- [datahub](https://github.com/linkedin/datahub)
+  - A Generalized Metadata Search & Discovery Tool
+- [TypeScript](https://github.com/microsoft/TypeScript)
+  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [kibana](https://github.com/elastic/kibana)
   - Your window into the Elastic Stack
 - [typeorm](https://github.com/typeorm/typeorm)
   - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-- [TypeScript](https://github.com/microsoft/TypeScript)
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [react-dnd](https://github.com/react-dnd/react-dnd)
-  - Drag and Drop for React
-- [habra](https://github.com/jarvis394/habra)
-  - ✨🎉 Habrahabr, but with a new client
-- [aws-cdk](https://github.com/aws/aws-cdk)
-  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
-- [mkdocs-material](https://github.com/squidfunk/mkdocs-material)
-  - A Material Design theme for MkDocs
-- [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
-  - Tasks for Azure Pipelines
-- [cli](https://github.com/react-native-community/cli)
-  - React Native command line tools
-- [components](https://github.com/angular/components)
-  - Component infrastructure and Material Design components for Angular
-- [vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples)
-  - Sample code illustrating the VS Code extension API.
+- [storybook](https://github.com/storybookjs/storybook)
+  - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
+- [imodeljs](https://github.com/imodeljs/imodeljs)
+  - Monorepo for iModel.js Library
+- [lens](https://github.com/lensapp/lens)
+  - Lens - The Kubernetes IDE
 - [swr](https://github.com/vercel/swr)
   - React Hooks library for remote data fetching
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+  - Headless Chrome Node.js API
+- [react-flow-chart](https://github.com/MrBlenny/react-flow-chart)
+  - A flexible, stateless, declarative flow chart library for react.
+- [code-server](https://github.com/cdr/code-server)
+  - VS Code in the browser
+- [react-styleguidist](https://github.com/styleguidist/react-styleguidist)
+  - Isolated React component development environment with a living style guide
+- [wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+  - 💬 🤖 The most advanced NodeJS WhatsApp library for chatbots with advanced features. Be sure to 🌟 this repository for updates!
+- [aws-cdk](https://github.com/aws/aws-cdk)
+  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+- [checkout](https://github.com/actions/checkout)
+  - Action for checking out a repo
+- [toolkit](https://github.com/actions/toolkit)
+  - The GitHub ToolKit for developing GitHub Actions.
+- [apollo-client](https://github.com/apollographql/apollo-client)
+  - 🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
+- [blueprint](https://github.com/palantir/blueprint)
+  - A React-based UI toolkit for the web
+- [nx](https://github.com/nrwl/nx)
+  - Extensible Dev Tools for Monorepos
+- [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native)
+  - ⚛️ 📺 Projects from the “Can it be done in React Native?” YouTube series
+- [sp-dev-fx-webparts](https://github.com/pnp/sp-dev-fx-webparts)
+  - SharePoint Framework web part, Teams tab, personal app, app page samples

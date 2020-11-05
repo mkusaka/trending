@@ -1,51 +1,51 @@
 # kotlin
-- [compose-samples](https://github.com/android/compose-samples)
-  - Official Jetpack Compose samples.
-- [sunflower](https://github.com/android/sunflower)
-  - A gardening app illustrating Android development best practices with Android Jetpack.
-- [kotlin](https://github.com/JetBrains/kotlin)
-  - The Kotlin Programming Language
-- [Unciv](https://github.com/yairm210/Unciv)
-  - Open-source Android/Desktop remake of Civ V
-- [material-components-android-examples](https://github.com/material-components/material-components-android-examples)
-  - Companion example apps and code for MDC-Android.
-- [mapbox-navigation-android](https://github.com/mapbox/mapbox-navigation-android)
-  - Mapbox Navigation SDK for Android
+- [camera-samples](https://github.com/android/camera-samples)
+  - Multiple samples showing the best practices in camera APIs on Android.
+- [stripe-android](https://github.com/stripe/stripe-android)
+  - Stripe Android SDK
+- [Pokedex](https://github.com/skydoves/Pokedex)
+  - 🗡️ Android Pokedex using Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
 - [Kotlin-Coroutine-Use-Cases-on-Android](https://github.com/LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android)
   - 🎓 Learning Kotlin Coroutines for Android by example. 🚀 Sample implementations for real-world Android use cases. 🛠 Unit tests included!
-- [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd)
-  - Main UserLAnd Repository
-- [chucker](https://github.com/ChuckerTeam/chucker)
-  - 🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device) - More Chucker than Chuck
-- [badge-magic-android](https://github.com/fossasia/badge-magic-android)
-  - Badge Magic with LEDs - Android App https://play.google.com/apps/testing/org.fossasia.badgemagic
-- [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization)
-  - Kotlin multiplatform / multi-format serialization
-- [dotsindicator](https://github.com/tommybuonomo/dotsindicator)
-  - Three material Dots Indicators for view pagers in Android !
-- [databinding-samples](https://github.com/android/databinding-samples)
-  - 
-- [XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools)
-  - A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot
-- [okio](https://github.com/square/okio)
-  - A modern I/O library for Android, Kotlin, and Java.
-- [Cicerone](https://github.com/terrakok/Cicerone)
-  - 🚦 Cicerone is a lightweight library that makes the navigation in an Android app easy.
-- [koin](https://github.com/InsertKoinIO/koin)
-  - Koin - a pragmatic lightweight dependency injection framework for Kotlin
-- [flexbox-layout](https://github.com/google/flexbox-layout)
-  - Flexbox for Android
-- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android)
-  - Native Android app using the Apple/Google exposure notification API.
-- [Neko](https://github.com/CarlosEsco/Neko)
-  - Free, open source, unofficial MangaDex reader for Android
 - [architecture-samples](https://github.com/android/architecture-samples)
   - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
-- [intellij-rust](https://github.com/intellij-rust/intellij-rust)
-  - Rust plugin for the IntelliJ Platform
-- [android](https://github.com/home-assistant/android)
-  - 📱 Home Assistant Companion for Android
+- [mapbox-navigation-android](https://github.com/mapbox/mapbox-navigation-android)
+  - Mapbox Navigation SDK for Android
+- [Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
+  - Design Patterns implemented in Kotlin
+- [koin](https://github.com/InsertKoinIO/koin)
+  - Koin - a pragmatic lightweight dependency injection framework for Kotlin
+- [Unciv](https://github.com/yairm210/Unciv)
+  - Open-source Android/Desktop remake of Civ V
+- [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization)
+  - Kotlin multiplatform / multi-format serialization
+- [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines)
+  - Library support for Kotlin coroutines
+- [mockk](https://github.com/mockk/mockk)
+  - mocking library for Kotlin
+- [CalendarView](https://github.com/kizitonwose/CalendarView)
+  - A highly customizable calendar library for Android, powered by RecyclerView.
 - [android-kotlin-fundamentals-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-apps)
   - android-kotlin-fundamentals-apps
+- [okhttp-RxHttp](https://github.com/liujingxing/okhttp-RxHttp)
+  - 🔥🔥🔥 Based on OkHttp encapsulation, support Kotlin Coroutines、RxJava2、RxJava3; 30s to get started.
+- [android-modular-architecture](https://github.com/VMadalin/android-modular-architecture)
+  - 📚 Sample Android Components Architecture on a modular word focused on the scalability, testability and maintainability written in Kotlin, following best practices using Jetpack.
+- [VancedManager](https://github.com/YTVanced/VancedManager)
+  - Vanced Installer
+- [AppIntro](https://github.com/AppIntro/AppIntro)
+  - Make a cool intro for your Android app.
+- [kotlin](https://github.com/JetBrains/kotlin)
+  - The Kotlin Programming Language
+- [intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template)
+  - Template repository for creating plugins for IntelliJ Platform
 - [ktlint](https://github.com/pinterest/ktlint)
   - An anti-bikeshedding Kotlin linter with built-in formatter
+- [compose-samples](https://github.com/android/compose-samples)
+  - Official Jetpack Compose samples.
+- [architecture-components-samples](https://github.com/android/architecture-components-samples)
+  - Samples for Android Architecture Components.
+- [seedvault](https://github.com/stevesoltys/seedvault)
+  - A backup application for the Android Open Source Project.
+- [kotest](https://github.com/kotest/kotest)
+  - Powerful, elegant and flexible test framework for Kotlin

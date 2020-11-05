@@ -1,51 +1,51 @@
 # c++
-- [DearPyGui](https://github.com/hoffstadt/DearPyGui)
-  - Dear PyGui: A Bloat-free Graphical User Interface for Python with minimal dependencies
-- [workflow](https://github.com/sogou/workflow)
-  - C++ Programming Paradigm with Asynchronous Networking
-- [googletest](https://github.com/google/googletest)
-  - Googletest - Google Testing and Mocking Framework
+- [imgui](https://github.com/ocornut/imgui)
+  - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+- [noisepage](https://github.com/cmu-db/noisepage)
+  - Self-Driving Database Management System from Carnegie Mellon University
 - [onnxruntime](https://github.com/microsoft/onnxruntime)
   - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
-- [ardupilot](https://github.com/ArduPilot/ardupilot)
-  - ArduPlane, ArduCopter, ArduRover source
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [ModSecurity](https://github.com/SpiderLabs/ModSecurity)
-  - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
-- [WLED](https://github.com/Aircoookie/WLED)
-  - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
-- [xgboost](https://github.com/dmlc/xgboost)
-  - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
-- [srs](https://github.com/ossrs/srs)
-  - SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.
+- [googletest](https://github.com/google/googletest)
+  - Googletest - Google Testing and Mocking Framework
+- [navigation2](https://github.com/ros-planning/navigation2)
+  - ROS2 Navigation
+- [td](https://github.com/tdlib/td)
+  - Cross-platform library for building Telegram clients
 - [opencv](https://github.com/opencv/opencv)
   - Open Source Computer Vision Library
-- [cpp-httplib](https://github.com/yhirose/cpp-httplib)
-  - A C++ header-only HTTP/HTTPS server and client library
-- [vcpkg](https://github.com/microsoft/vcpkg)
-  - C++ Library Manager for Windows, Linux, and MacOS
-- [apollo](https://github.com/ApolloAuto/apollo)
-  - An open autonomous driving platform
-- [Catch2](https://github.com/catchorg/Catch2)
-  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-- [arrow](https://github.com/apache/arrow)
-  - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…
 - [envoy](https://github.com/envoyproxy/envoy)
   - Cloud-native high-performance edge/middle/service proxy
-- [KataGo](https://github.com/lightvector/KataGo)
-  - GTP engine and self-play learning in Go
-- [spdlog](https://github.com/gabime/spdlog)
-  - Fast C++ logging library.
-- [mars](https://github.com/Tencent/mars)
-  - Mars is a cross-platform network component developed by WeChat.
-- [jsoncpp](https://github.com/open-source-parsers/jsoncpp)
-  - A C++ library for interacting with JSON.
-- [taskflow](https://github.com/taskflow/taskflow)
-  - Parallel and Heterogeneous Task Programming in Modern C++
-- [DeepSpeech](https://github.com/mozilla/DeepSpeech)
-  - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
-- [connectedhomeip](https://github.com/project-chip/connectedhomeip)
-  - Project Connected Home over IP is a new Working Group within the Zigbee Alliance. This Working Group plans to develop and promote the adoption of a new connectivity standard to increase compatibility among smart home products, with security as a fundamental design tenet.
-- [TensorRT](https://github.com/NVIDIA/TensorRT)
-  - TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.
+- [workflow](https://github.com/sogou/workflow)
+  - C++ Programming Paradigm with Asynchronous Networking
+- [Hippy](https://github.com/Tencent/Hippy)
+  - A cross platform framework designed for Web developer. Introduction video - https://v.qq.com/x/page/i3038urj2mt.html
+- [DearPyGui](https://github.com/hoffstadt/DearPyGui)
+  - Dear PyGui: A Bloat-free Graphical User Interface for Python with minimal dependencies
+- [pytorch](https://github.com/pytorch/pytorch)
+  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [carla](https://github.com/carla-simulator/carla)
+  - Open-source simulator for autonomous driving research.
+- [Catch2](https://github.com/catchorg/Catch2)
+  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [re2](https://github.com/google/re2)
+  - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+- [yuzu](https://github.com/yuzu-emu/yuzu)
+  - Nintendo Switch Emulator
+- [ModSecurity](https://github.com/SpiderLabs/ModSecurity)
+  - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
+- [osrm-backend](https://github.com/Project-OSRM/osrm-backend)
+  - Open Source Routing Machine - C++ backend
+- [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite)
+  - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
+- [protobuf](https://github.com/protocolbuffers/protobuf)
+  - Protocol Buffers - Google's data interchange format
+- [flameshot](https://github.com/flameshot-org/flameshot)
+  - Powerful yet simple to use screenshot software
+- [pybind11](https://github.com/pybind/pybind11)
+  - Seamless operability between C++11 and Python
+- [ardupilot](https://github.com/ArduPilot/ardupilot)
+  - ArduPlane, ArduCopter, ArduRover source
+- [QtAV](https://github.com/wang-bin/QtAV)
+  - A cross-platform multimedia framework based on Qt and FFmpeg(https://github.com/wang-bin/avbuild). High performance. User & developer friendly. Supports Android, iOS, Windows store and desktops. 基于Qt和FFmpeg的跨平台高性能音视频播放框架
+- [iree](https://github.com/google/iree)
+  - 👻

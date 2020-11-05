@@ -1,23 +1,23 @@
 [
   {
+    "author": "l1ving",
+    "name": "youtube-dl",
+    "href": "https://github.com/l1ving/youtube-dl",
+    "description": "A fork of youtube-dl, for archival purposes.",
+    "language": "Python",
+    "stars": 2242,
+    "forks": 1349,
+    "starsInPeriod": 278
+  },
+  {
     "author": "MobSF",
     "name": "Mobile-Security-Framework-MobSF",
     "href": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
     "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
     "language": "Python",
-    "stars": 7032,
-    "forks": 1886,
-    "starsInPeriod": 75
-  },
-  {
-    "author": "GitSquared",
-    "name": "edex-ui",
-    "href": "https://github.com/GitSquared/edex-ui",
-    "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
-    "language": "JavaScript",
-    "stars": 20743,
-    "forks": 1157,
-    "starsInPeriod": 646
+    "stars": 7279,
+    "forks": 1901,
+    "starsInPeriod": 175
   },
   {
     "author": "mxrch",
@@ -25,79 +25,19 @@
     "href": "https://github.com/mxrch/GHunt",
     "description": "🕵️‍♂️ Investigate Google Accounts with emails.",
     "language": "Python",
-    "stars": 5484,
-    "forks": 399,
-    "starsInPeriod": 302
+    "stars": 5743,
+    "forks": 412,
+    "starsInPeriod": 242
   },
   {
-    "author": "l1ving",
-    "name": "youtube-dl",
-    "href": "https://github.com/l1ving/youtube-dl",
-    "description": "A fork of youtube-dl, for archival purposes.",
-    "language": "Python",
-    "stars": 1937,
-    "forks": 1213,
-    "starsInPeriod": 321
-  },
-  {
-    "author": "google",
-    "name": "ExoPlayer",
-    "href": "https://github.com/google/ExoPlayer",
-    "description": "An extensible media player for Android",
-    "language": "Java",
-    "stars": 16601,
-    "forks": 4962,
-    "starsInPeriod": 14
-  },
-  {
-    "author": "koutto",
-    "name": "pi-pwnbox-rogueap",
-    "href": "https://github.com/koutto/pi-pwnbox-rogueap",
-    "description": "Homemade Pwnbox 🚀 / Rogue AP 📡 based on Raspberry Pi — WiFi Hacking Cheatsheets + MindMap 💡",
-    "language": "Shell",
-    "stars": 317,
-    "forks": 36,
-    "starsInPeriod": 241
-  },
-  {
-    "author": "gto76",
-    "name": "python-cheatsheet",
-    "href": "https://github.com/gto76/python-cheatsheet",
-    "description": "Comprehensive Python Cheatsheet",
-    "language": "Python",
-    "stars": 16060,
-    "forks": 3106,
-    "starsInPeriod": 216
-  },
-  {
-    "author": "hoffstadt",
-    "name": "DearPyGui",
-    "href": "https://github.com/hoffstadt/DearPyGui",
-    "description": "Dear PyGui: A Bloat-free Graphical User Interface for Python with minimal dependencies",
+    "author": "ocornut",
+    "name": "imgui",
+    "href": "https://github.com/ocornut/imgui",
+    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
     "language": "C++",
-    "stars": 2474,
-    "forks": 105,
-    "starsInPeriod": 197
-  },
-  {
-    "author": "algorithm-visualizer",
-    "name": "algorithm-visualizer",
-    "href": "https://github.com/algorithm-visualizer/algorithm-visualizer",
-    "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
-    "language": "JavaScript",
-    "stars": 32117,
-    "forks": 5385,
-    "starsInPeriod": 145
-  },
-  {
-    "author": "harisqazi1",
-    "name": "Cybersecurity",
-    "href": "https://github.com/harisqazi1/Cybersecurity",
-    "description": "This is meant to assist people looking for entry level Cybersecurity jobs, as well as study up on skills that they can put on their resume.",
-    "language": "",
-    "stars": 333,
-    "forks": 27,
-    "starsInPeriod": 236
+    "stars": 24597,
+    "forks": 4118,
+    "starsInPeriod": 286
   },
   {
     "author": "AMAI-GmbH",
@@ -105,49 +45,49 @@
     "href": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
     "description": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
     "language": "JavaScript",
-    "stars": 2751,
-    "forks": 183,
-    "starsInPeriod": 1150
+    "stars": 3370,
+    "forks": 237,
+    "starsInPeriod": 937
   },
   {
-    "author": "fireeye",
-    "name": "ThreatPursuit-VM",
-    "href": "https://github.com/fireeye/ThreatPursuit-VM",
-    "description": "Threat Pursuit Virtual Machine (VM): A fully customizable, open-sourced Windows-based distribution focused on threat intelligence analysis and hunting designed for intel and malware analysts as well as threat hunters to get up and running quickly.",
-    "language": "PowerShell",
-    "stars": 441,
-    "forks": 55,
-    "starsInPeriod": 154
+    "author": "koutto",
+    "name": "pi-pwnbox-rogueap",
+    "href": "https://github.com/koutto/pi-pwnbox-rogueap",
+    "description": "Homemade Pwnbox 🚀 / Rogue AP 📡 based on Raspberry Pi — WiFi Hacking Cheatsheets + MindMap 💡",
+    "language": "Shell",
+    "stars": 508,
+    "forks": 44,
+    "starsInPeriod": 196
   },
   {
-    "author": "sogou",
-    "name": "workflow",
-    "href": "https://github.com/sogou/workflow",
-    "description": "C++ Programming Paradigm with Asynchronous Networking",
-    "language": "C++",
-    "stars": 2642,
-    "forks": 541,
-    "starsInPeriod": 128
+    "author": "appbrewery",
+    "name": "100-days-of-python",
+    "href": "https://github.com/appbrewery/100-days-of-python",
+    "description": "100 Days of Code in Python",
+    "language": "",
+    "stars": 159,
+    "forks": 60,
+    "starsInPeriod": 54
   },
   {
-    "author": "Qovery",
-    "name": "engine",
-    "href": "https://github.com/Qovery/engine",
-    "description": "Deploy your apps on any Cloud providers in just a few seconds",
-    "language": "Rust",
-    "stars": 288,
-    "forks": 10,
-    "starsInPeriod": 129
+    "author": "GitSquared",
+    "name": "edex-ui",
+    "href": "https://github.com/GitSquared/edex-ui",
+    "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "language": "JavaScript",
+    "stars": 21303,
+    "forks": 1181,
+    "starsInPeriod": 586
   },
   {
-    "author": "erluxman",
-    "name": "awesomefluttertips",
-    "href": "https://github.com/erluxman/awesomefluttertips",
-    "description": "❤️Flutter ❤️ tips and tricks ❤️ Awesome Flutter ❤️ tips and tricks ❤️",
-    "language": "Dart",
-    "stars": 2110,
-    "forks": 165,
-    "starsInPeriod": 98
+    "author": "gto76",
+    "name": "python-cheatsheet",
+    "href": "https://github.com/gto76/python-cheatsheet",
+    "description": "Comprehensive Python Cheatsheet",
+    "language": "Python",
+    "stars": 16294,
+    "forks": 3120,
+    "starsInPeriod": 246
   },
   {
     "author": "jofpin",
@@ -155,39 +95,19 @@
     "href": "https://github.com/jofpin/trape",
     "description": "People tracker on the Internet: OSINT analysis and research tool by Jose Pino",
     "language": "Python",
-    "stars": 5245,
-    "forks": 985,
-    "starsInPeriod": 18
+    "stars": 5387,
+    "forks": 989,
+    "starsInPeriod": 146
   },
   {
-    "author": "hantmac",
-    "name": "Mastering_Go_ZH_CN",
-    "href": "https://github.com/hantmac/Mastering_Go_ZH_CN",
-    "description": "《Mastering GO》中文译本，《玩转 GO》。",
-    "language": "Go",
-    "stars": 1525,
-    "forks": 193,
-    "starsInPeriod": 163
-  },
-  {
-    "author": "jakevdp",
-    "name": "PythonDataScienceHandbook",
-    "href": "https://github.com/jakevdp/PythonDataScienceHandbook",
-    "description": "Python Data Science Handbook: full text in Jupyter Notebooks",
-    "language": "Jupyter Notebook",
-    "stars": 26579,
-    "forks": 11713,
-    "starsInPeriod": 176
-  },
-  {
-    "author": "xingshaocheng",
-    "name": "architect-awesome",
-    "href": "https://github.com/xingshaocheng/architect-awesome",
-    "description": "后端架构师技术图谱",
-    "language": "",
-    "stars": 48099,
-    "forks": 15172,
-    "starsInPeriod": 159
+    "author": "algorithm-visualizer",
+    "name": "algorithm-visualizer",
+    "href": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
+    "language": "JavaScript",
+    "stars": 32332,
+    "forks": 5391,
+    "starsInPeriod": 203
   },
   {
     "author": "bradtraversy",
@@ -195,49 +115,119 @@
     "href": "https://github.com/bradtraversy/design-resources-for-developers",
     "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
     "language": "",
-    "stars": 21541,
-    "forks": 5304,
-    "starsInPeriod": 97
+    "stars": 21780,
+    "forks": 5328,
+    "starsInPeriod": 155
   },
   {
-    "author": "developer-resources",
-    "name": "frontend-development",
-    "href": "https://github.com/developer-resources/frontend-development",
-    "description": "A curated list of resources for Frontend development",
-    "language": "",
-    "stars": 477,
-    "forks": 37,
-    "starsInPeriod": 154
+    "author": "argoproj",
+    "name": "argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "description": "Declarative continuous deployment for Kubernetes.",
+    "language": "Go",
+    "stars": 4188,
+    "forks": 904,
+    "starsInPeriod": 11
   },
   {
-    "author": "PaddlePaddle",
-    "name": "PaddleX",
-    "href": "https://github.com/PaddlePaddle/PaddleX",
-    "description": "PaddlePaddle Entire Process Development Toolkit（『飞桨』深度学习全流程开发工具）",
-    "language": "Python",
-    "stars": 613,
-    "forks": 148,
-    "starsInPeriod": 32
+    "author": "cmu-db",
+    "name": "noisepage",
+    "href": "https://github.com/cmu-db/noisepage",
+    "description": "Self-Driving Database Management System from Carnegie Mellon University",
+    "language": "C++",
+    "stars": 776,
+    "forks": 295,
+    "starsInPeriod": 47
   },
   {
-    "author": "samyk",
-    "name": "slipstream",
-    "href": "https://github.com/samyk/slipstream",
-    "description": "NAT Slipstreaming allows an attacker to remotely access any TCP/UDP services bound to a victim machine, bypassing the victim’s NAT/firewall, just by the victim visiting a website",
-    "language": "Perl",
-    "stars": 872,
-    "forks": 80,
-    "starsInPeriod": 262
+    "author": "bevyengine",
+    "name": "bevy",
+    "href": "https://github.com/bevyengine/bevy",
+    "description": "A refreshingly simple data-driven game engine built in Rust",
+    "language": "Rust",
+    "stars": 4644,
+    "forks": 347,
+    "starsInPeriod": 65
   },
   {
-    "author": "MisterBooo",
-    "name": "LeetCodeAnimation",
-    "href": "https://github.com/MisterBooo/LeetCodeAnimation",
-    "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "author": "prestodb",
+    "name": "presto",
+    "href": "https://github.com/prestodb/presto",
+    "description": "The official home of the Presto distributed SQL query engine for big data",
     "language": "Java",
-    "stars": 60489,
-    "forks": 11466,
-    "starsInPeriod": 77
+    "stars": 11241,
+    "forks": 3868,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "fireeye",
+    "name": "ThreatPursuit-VM",
+    "href": "https://github.com/fireeye/ThreatPursuit-VM",
+    "description": "Threat Pursuit Virtual Machine (VM): A fully customizable, open-sourced Windows-based distribution focused on threat intelligence analysis and hunting designed for intel and malware analysts as well as threat hunters to get up and running quickly.",
+    "language": "PowerShell",
+    "stars": 525,
+    "forks": 65,
+    "starsInPeriod": 87
+  },
+  {
+    "author": "harisqazi1",
+    "name": "Cybersecurity",
+    "href": "https://github.com/harisqazi1/Cybersecurity",
+    "description": "This is meant to assist people looking for entry level Cybersecurity jobs, as well as study up on skills that they can put on their resume.",
+    "language": "",
+    "stars": 473,
+    "forks": 36,
+    "starsInPeriod": 153
+  },
+  {
+    "author": "xingshaocheng",
+    "name": "architect-awesome",
+    "href": "https://github.com/xingshaocheng/architect-awesome",
+    "description": "后端架构师技术图谱",
+    "language": "",
+    "stars": 48207,
+    "forks": 15186,
+    "starsInPeriod": 102
+  },
+  {
+    "author": "microsoft",
+    "name": "onnxruntime",
+    "href": "https://github.com/microsoft/onnxruntime",
+    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "language": "C++",
+    "stars": 3487,
+    "forks": 813,
+    "starsInPeriod": 12
+  },
+  {
+    "author": "geekxh",
+    "name": "hello-algorithm",
+    "href": "https://github.com/geekxh/hello-algorithm",
+    "description": "🌍 东半球最酷的学习项目 | 1、我写的三十万字算法图解 2、千本开源电子书 3、100 张思维导图 4、100 篇大厂面经 5、30 个学习专题 🚀 🚀 🚀 右上角点个 star，加入我们万人学习群！English Supported！",
+    "language": "Java",
+    "stars": 19847,
+    "forks": 3768,
+    "starsInPeriod": 21
+  },
+  {
+    "author": "sandboxie-plus",
+    "name": "Sandboxie",
+    "href": "https://github.com/sandboxie-plus/Sandboxie",
+    "description": "Sandboxie - Open Source",
+    "language": "C",
+    "stars": 1665,
+    "forks": 226,
+    "starsInPeriod": 24
+  },
+  {
+    "author": "google",
+    "name": "googletest",
+    "href": "https://github.com/google/googletest",
+    "description": "Googletest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "stars": 18506,
+    "forks": 6760,
+    "starsInPeriod": 15
   },
   {
     "author": "apache",
@@ -245,8 +235,18 @@
     "href": "https://github.com/apache/incubator-superset",
     "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
     "language": "Python",
-    "stars": 30731,
-    "forks": 6367,
-    "starsInPeriod": 35
+    "stars": 30991,
+    "forks": 6370,
+    "starsInPeriod": 199
+  },
+  {
+    "author": "Maatwebsite",
+    "name": "Laravel-Excel",
+    "href": "https://github.com/Maatwebsite/Laravel-Excel",
+    "description": "🚀 Supercharged Excel exports and imports in Laravel",
+    "language": "PHP",
+    "stars": 9152,
+    "forks": 1489,
+    "starsInPeriod": 6
   }
 ]

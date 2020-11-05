@@ -1,51 +1,51 @@
 # javascript
+- [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
+  - Roadmap to becoming an Artificial Intelligence Expert in 2020
 - [edex-ui](https://github.com/GitSquared/edex-ui)
   - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
   - 🎆Interactive Online Platform that Visualizes Algorithms from Code
-- [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
-  - Roadmap to becoming an Artificial Intelligence Expert in 2020
-- [nik_parse.js](https://github.com/bachors/nik_parse.js)
-  - Parse Nomor Induk Kependudukan (NIK) KTP Menggunakan Javascript
-- [supabase](https://github.com/supabase/supabase)
-  - Website, docs, and client libraries. Follow to stay updated about our public Beta.
-- [corona-widget](https://github.com/rphl/corona-widget)
-  - COVID-19 Inzidenz-Widget für iOS innerhalb Deutschlands 🇩🇪 (Kreis/Stadt + Bundesland + Trend)
-- [vue](https://github.com/vuejs/vue)
-  - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
-  - Microsoft Authentication Library (MSAL) for JS
-- [dtale](https://github.com/man-group/dtale)
-  - Visualizer for pandas data structures
-- [Fast-GitHub](https://github.com/fhefh2015/Fast-GitHub)
-  - 国内Github下载很慢，用上了这个插件后，下载速度嗖嗖嗖的~！
-- [dayjs](https://github.com/iamkun/dayjs)
-  - ⏰ Day.js 2KB immutable date-time library alternative to Moment.js with the same modern API
-- [wp-calypso](https://github.com/Automattic/wp-calypso)
-  - The JavaScript and API powered WordPress.com
-- [nextjs-aws-s3](https://github.com/leerob/nextjs-aws-s3)
-  - Example Next.js app to upload photos to an S3 bucket.
-- [joeisdone.github.io](https://github.com/joeisdone/joeisdone.github.io)
-  - Joe Is Done
+- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
+  - Bypass Paywalls web browser extension for Chrome and Firefox.
+- [scripts](https://github.com/lxk0301/scripts)
+  - 京东薅羊毛工具, 京东水果、宠物、种豆等等
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+  - The ultimate Free Open Source Solution for team communications.
 - [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)
   - FFmpeg for browser and node, powered by WebAssembly
-- [select2](https://github.com/select2/select2)
-  - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
-- [pdfmake](https://github.com/bpampuch/pdfmake)
-  - Client/server side PDF printing in pure JavaScript
-- [whatsapp-bot](https://github.com/ArugaZ/whatsapp-bot)
-  - Whatsapp Bot - Node Js
-- [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
-  - ⛄ Possibly the smallest compiler ever
-- [jsPDF](https://github.com/MrRio/jsPDF)
-  - Client-side JavaScript PDF generation for everyone.
-- [Leaflet](https://github.com/Leaflet/Leaflet)
-  - 🍃 JavaScript library for mobile-friendly interactive maps
+- [bootstrap](https://github.com/twbs/bootstrap)
+  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker)
+  - A datepicker for twitter bootstrap (@twbs)
+- [tad](https://github.com/antonycourtney/tad)
+  - A desktop application for viewing and analyzing tabular data
+- [circleci-docs](https://github.com/circleci/circleci-docs)
+  - Documentation for CircleCI.
 - [lando](https://github.com/lando/lando)
   - A local development and DevOps tool for all your projects that is fast, easy, powerful and liberating
-- [Recoil](https://github.com/facebookexperimental/Recoil)
-  - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
-- [react](https://github.com/typescript-cheatsheets/react)
-  - Cheatsheets for experienced React developers getting started with TypeScript
-- [winXP](https://github.com/ShizukuIchi/winXP)
-  - 🏁 Web based Windows XP desktop recreation.
+- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+- [proshop_mern](https://github.com/bradtraversy/proshop_mern)
+  - Shopping cart built with MERN & Redux
+- [docs](https://github.com/github/docs)
+  - The open-source repo for docs.github.com
+- [react-router](https://github.com/ReactTraining/react-router)
+  - Declarative routing for React
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [in-quiz-questions](https://github.com/Ebazhanov/in-quiz-questions)
+  - Linkedin quiz assessment, answers and questions (aws-lambda, rest-api, javascript, react, git, html, jquery, maven, mongodb, xml, java, css, python ...) ответы на квиз
+- [grokking_algorithms](https://github.com/egonSchiele/grokking_algorithms)
+  - Code for the book Grokking Algorithms (https://amzn.to/29rVyHf)
+- [lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci)
+  - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
+- [material-table](https://github.com/mbrn/material-table)
+  - Datatable for React based on material-ui's table with additional features
+- [odoo](https://github.com/odoo/odoo)
+  - Odoo. Open Source Apps To Grow Your Business.
+- [nuxt.js](https://github.com/nuxt/nuxt.js)
+  - The Intuitive Vue Framework
+- [sheetjs](https://github.com/SheetJS/sheetjs)
+  - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
+- [quill](https://github.com/quilljs/quill)
+  - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
