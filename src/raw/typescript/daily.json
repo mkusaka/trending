@@ -1,13 +1,53 @@
 [
   {
-    "author": "strongloop",
-    "name": "loopback-next",
-    "href": "https://github.com/strongloop/loopback-next",
-    "description": "LoopBack makes it easy to build modern API applications that require complex integrations.",
+    "author": "angular",
+    "name": "components",
+    "href": "https://github.com/angular/components",
+    "description": "Component infrastructure and Material Design components for Angular",
     "language": "TypeScript",
-    "stars": 3201,
-    "forks": 648,
-    "starsInPeriod": 9
+    "stars": 20486,
+    "forks": 5520,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "vitejs",
+    "name": "vite",
+    "href": "https://github.com/vitejs/vite",
+    "description": "Native-ESM powered web dev build tool. It's fast.",
+    "language": "TypeScript",
+    "stars": 12829,
+    "forks": 645,
+    "starsInPeriod": 57
+  },
+  {
+    "author": "ant-design",
+    "name": "pro-components",
+    "href": "https://github.com/ant-design/pro-components",
+    "description": "🏆 Use Ant Design like a Pro!",
+    "language": "TypeScript",
+    "stars": 472,
+    "forks": 142,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "niklasvh",
+    "name": "html2canvas",
+    "href": "https://github.com/niklasvh/html2canvas",
+    "description": "Screenshots with JavaScript",
+    "language": "TypeScript",
+    "stars": 21935,
+    "forks": 3763,
+    "starsInPeriod": 20
+  },
+  {
+    "author": "ionic-team",
+    "name": "ionic-framework",
+    "href": "https://github.com/ionic-team/ionic-framework",
+    "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.",
+    "language": "TypeScript",
+    "stars": 42075,
+    "forks": 13285,
+    "starsInPeriod": 12
   },
   {
     "author": "angular",
@@ -15,109 +55,49 @@
     "href": "https://github.com/angular/angular-cli",
     "description": "CLI tool for Angular",
     "language": "TypeScript",
-    "stars": 23934,
-    "forks": 9883,
+    "stars": 23939,
+    "forks": 9888,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "SoftwareBrothers",
+    "name": "admin-bro",
+    "href": "https://github.com/SoftwareBrothers/admin-bro",
+    "description": "AdminBro is an admin panel for apps written in node.js",
+    "language": "TypeScript",
+    "stars": 2697,
+    "forks": 218,
+    "starsInPeriod": 92
+  },
+  {
+    "author": "blitz-js",
+    "name": "blitz",
+    "href": "https://github.com/blitz-js/blitz",
+    "description": "⚡️The Fullstack React Framework — built on Next.js",
+    "language": "TypeScript",
+    "stars": 5030,
+    "forks": 269,
+    "starsInPeriod": 41
+  },
+  {
+    "author": "thenewboston-developers",
+    "name": "Website",
+    "href": "https://github.com/thenewboston-developers/Website",
+    "description": "The website and documentation for thenewboston.",
+    "language": "TypeScript",
+    "stars": 63,
+    "forks": 123,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "tensorflow",
+    "name": "tfjs",
+    "href": "https://github.com/tensorflow/tfjs",
+    "description": "A WebGL accelerated JavaScript library for training and deploying ML models.",
+    "language": "TypeScript",
+    "stars": 14168,
+    "forks": 1336,
     "starsInPeriod": 8
-  },
-  {
-    "author": "aws-samples",
-    "name": "aws-secure-environment-accelerator",
-    "href": "https://github.com/aws-samples/aws-secure-environment-accelerator",
-    "description": "The AWS Secure Environment Accelerator is a tool designed to help deploy and operate secure multi-account AWS environments on an ongoing basis. The power of the solution is the configuration file which enables the completely automated deployment of customizable architectures within AWS without changing a single line of code.",
-    "language": "TypeScript",
-    "stars": 84,
-    "forks": 14,
-    "starsInPeriod": 9
-  },
-  {
-    "author": "Azure",
-    "name": "azure-rest-api-specs",
-    "href": "https://github.com/Azure/azure-rest-api-specs",
-    "description": "The source for REST API specifications for Microsoft Azure.",
-    "language": "TypeScript",
-    "stars": 826,
-    "forks": 2405,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "linkedin",
-    "name": "datahub",
-    "href": "https://github.com/linkedin/datahub",
-    "description": "A Generalized Metadata Search & Discovery Tool",
-    "language": "TypeScript",
-    "stars": 2386,
-    "forks": 688,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "microsoft",
-    "name": "TypeScript",
-    "href": "https://github.com/microsoft/TypeScript",
-    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
-    "language": "TypeScript",
-    "stars": 65449,
-    "forks": 8759,
-    "starsInPeriod": 23
-  },
-  {
-    "author": "elastic",
-    "name": "kibana",
-    "href": "https://github.com/elastic/kibana",
-    "description": "Your window into the Elastic Stack",
-    "language": "TypeScript",
-    "stars": 15077,
-    "forks": 6115,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "typeorm",
-    "name": "typeorm",
-    "href": "https://github.com/typeorm/typeorm",
-    "description": "ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
-    "language": "TypeScript",
-    "stars": 21628,
-    "forks": 3606,
-    "starsInPeriod": 20
-  },
-  {
-    "author": "storybookjs",
-    "name": "storybook",
-    "href": "https://github.com/storybookjs/storybook",
-    "description": "📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!",
-    "language": "TypeScript",
-    "stars": 54587,
-    "forks": 5471,
-    "starsInPeriod": 30
-  },
-  {
-    "author": "imodeljs",
-    "name": "imodeljs",
-    "href": "https://github.com/imodeljs/imodeljs",
-    "description": "Monorepo for iModel.js Library",
-    "language": "TypeScript",
-    "stars": 209,
-    "forks": 79,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "lensapp",
-    "name": "lens",
-    "href": "https://github.com/lensapp/lens",
-    "description": "Lens - The Kubernetes IDE",
-    "language": "TypeScript",
-    "stars": 9033,
-    "forks": 473,
-    "starsInPeriod": 17
-  },
-  {
-    "author": "vercel",
-    "name": "swr",
-    "href": "https://github.com/vercel/swr",
-    "description": "React Hooks library for remote data fetching",
-    "language": "TypeScript",
-    "stars": 13991,
-    "forks": 461,
-    "starsInPeriod": 31
   },
   {
     "author": "puppeteer",
@@ -125,119 +105,29 @@
     "href": "https://github.com/puppeteer/puppeteer",
     "description": "Headless Chrome Node.js API",
     "language": "TypeScript",
-    "stars": 66341,
-    "forks": 6854,
+    "stars": 66364,
+    "forks": 6856,
     "starsInPeriod": 26
   },
   {
-    "author": "MrBlenny",
-    "name": "react-flow-chart",
-    "href": "https://github.com/MrBlenny/react-flow-chart",
-    "description": "A flexible, stateless, declarative flow chart library for react.",
+    "author": "FaridSafi",
+    "name": "react-native-gifted-chat",
+    "href": "https://github.com/FaridSafi/react-native-gifted-chat",
+    "description": "💬 The most complete chat UI for React Native",
     "language": "TypeScript",
-    "stars": 877,
-    "forks": 210,
-    "starsInPeriod": 9
-  },
-  {
-    "author": "cdr",
-    "name": "code-server",
-    "href": "https://github.com/cdr/code-server",
-    "description": "VS Code in the browser",
-    "language": "TypeScript",
-    "stars": 36479,
-    "forks": 2807,
-    "starsInPeriod": 36
-  },
-  {
-    "author": "styleguidist",
-    "name": "react-styleguidist",
-    "href": "https://github.com/styleguidist/react-styleguidist",
-    "description": "Isolated React component development environment with a living style guide",
-    "language": "TypeScript",
-    "stars": 9291,
-    "forks": 1326,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "open-wa",
-    "name": "wa-automate-nodejs",
-    "href": "https://github.com/open-wa/wa-automate-nodejs",
-    "description": "💬 🤖 The most advanced NodeJS WhatsApp library for chatbots with advanced features. Be sure to 🌟 this repository for updates!",
-    "language": "TypeScript",
-    "stars": 897,
-    "forks": 219,
-    "starsInPeriod": 9
-  },
-  {
-    "author": "aws",
-    "name": "aws-cdk",
-    "href": "https://github.com/aws/aws-cdk",
-    "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
-    "language": "TypeScript",
-    "stars": 5655,
-    "forks": 1258,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "actions",
-    "name": "checkout",
-    "href": "https://github.com/actions/checkout",
-    "description": "Action for checking out a repo",
-    "language": "TypeScript",
-    "stars": 1061,
-    "forks": 363,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "actions",
-    "name": "toolkit",
-    "href": "https://github.com/actions/toolkit",
-    "description": "The GitHub ToolKit for developing GitHub Actions.",
-    "language": "TypeScript",
-    "stars": 2138,
-    "forks": 740,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "apollographql",
-    "name": "apollo-client",
-    "href": "https://github.com/apollographql/apollo-client",
-    "description": "🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server",
-    "language": "TypeScript",
-    "stars": 15004,
-    "forks": 1918,
-    "starsInPeriod": 12
-  },
-  {
-    "author": "palantir",
-    "name": "blueprint",
-    "href": "https://github.com/palantir/blueprint",
-    "description": "A React-based UI toolkit for the web",
-    "language": "TypeScript",
-    "stars": 16903,
-    "forks": 1762,
+    "stars": 9893,
+    "forks": 2886,
     "starsInPeriod": 5
   },
   {
-    "author": "nrwl",
-    "name": "nx",
-    "href": "https://github.com/nrwl/nx",
-    "description": "Extensible Dev Tools for Monorepos",
+    "author": "strongloop",
+    "name": "loopback-next",
+    "href": "https://github.com/strongloop/loopback-next",
+    "description": "LoopBack makes it easy to build modern API applications that require complex integrations.",
     "language": "TypeScript",
-    "stars": 4986,
-    "forks": 563,
-    "starsInPeriod": 9
-  },
-  {
-    "author": "wcandillon",
-    "name": "can-it-be-done-in-react-native",
-    "href": "https://github.com/wcandillon/can-it-be-done-in-react-native",
-    "description": "⚛️ 📺 Projects from the “Can it be done in React Native?” YouTube series",
-    "language": "TypeScript",
-    "stars": 2141,
-    "forks": 549,
-    "starsInPeriod": 4
+    "stars": 3204,
+    "forks": 650,
+    "starsInPeriod": 3
   },
   {
     "author": "pnp",
@@ -245,8 +135,118 @@
     "href": "https://github.com/pnp/sp-dev-fx-webparts",
     "description": "SharePoint Framework web part, Teams tab, personal app, app page samples",
     "language": "TypeScript",
-    "stars": 1175,
-    "forks": 2452,
-    "starsInPeriod": 1
+    "stars": 1177,
+    "forks": 2455,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "react-hook-form",
+    "name": "react-hook-form",
+    "href": "https://github.com/react-hook-form/react-hook-form",
+    "description": "📋 React Hooks for forms validation (Web + React Native)",
+    "language": "TypeScript",
+    "stars": 15368,
+    "forks": 702,
+    "starsInPeriod": 32
+  },
+  {
+    "author": "pmndrs",
+    "name": "zustand",
+    "href": "https://github.com/pmndrs/zustand",
+    "description": "🐻 Bear necessities for state management in React",
+    "language": "TypeScript",
+    "stars": 5133,
+    "forks": 129,
+    "starsInPeriod": 25
+  },
+  {
+    "author": "vuejs",
+    "name": "vue-router-next",
+    "href": "https://github.com/vuejs/vue-router-next",
+    "description": "The Vue 3 official router (WIP)",
+    "language": "TypeScript",
+    "stars": 774,
+    "forks": 98,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "marmelab",
+    "name": "react-admin",
+    "href": "https://github.com/marmelab/react-admin",
+    "description": "A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design",
+    "language": "TypeScript",
+    "stars": 14933,
+    "forks": 3206,
+    "starsInPeriod": 16
+  },
+  {
+    "author": "NG-ZORRO",
+    "name": "ng-zorro-antd",
+    "href": "https://github.com/NG-ZORRO/ng-zorro-antd",
+    "description": "Angular UI Component Library based on Ant Design",
+    "language": "TypeScript",
+    "stars": 6986,
+    "forks": 2421,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "grafana",
+    "name": "grafana",
+    "href": "https://github.com/grafana/grafana",
+    "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+    "language": "TypeScript",
+    "stars": 37990,
+    "forks": 7735,
+    "starsInPeriod": 34
+  },
+  {
+    "author": "jef",
+    "name": "streetmerchant",
+    "href": "https://github.com/jef/streetmerchant",
+    "description": "🤖 Autonomous robot for all your electronic needs",
+    "language": "TypeScript",
+    "stars": 633,
+    "forks": 301,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "microsoft",
+    "name": "vscode",
+    "href": "https://github.com/microsoft/vscode",
+    "description": "Visual Studio Code",
+    "language": "TypeScript",
+    "stars": 105732,
+    "forks": 16942,
+    "starsInPeriod": 62
+  },
+  {
+    "author": "typeorm",
+    "name": "typeorm",
+    "href": "https://github.com/typeorm/typeorm",
+    "description": "ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
+    "language": "TypeScript",
+    "stars": 21643,
+    "forks": 3615,
+    "starsInPeriod": 15
+  },
+  {
+    "author": "open-wa",
+    "name": "wa-automate-nodejs",
+    "href": "https://github.com/open-wa/wa-automate-nodejs",
+    "description": "💬 🤖 The most advanced NodeJS WhatsApp library for chatbots with advanced features. Be sure to 🌟 this repository for updates!",
+    "language": "TypeScript",
+    "stars": 901,
+    "forks": 221,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "microsoft",
+    "name": "azure-pipelines-tasks",
+    "href": "https://github.com/microsoft/azure-pipelines-tasks",
+    "description": "Tasks for Azure Pipelines",
+    "language": "TypeScript",
+    "stars": 2272,
+    "forks": 1752,
+    "starsInPeriod": 2
   }
 ]

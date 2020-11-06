@@ -1,51 +1,51 @@
 # javascript
-- [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
-  - Roadmap to becoming an Artificial Intelligence Expert in 2020
 - [edex-ui](https://github.com/GitSquared/edex-ui)
   - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
-  - 🎆Interactive Online Platform that Visualizes Algorithms from Code
-- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
-  - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [scripts](https://github.com/lxk0301/scripts)
   - 京东薅羊毛工具, 京东水果、宠物、种豆等等
+- [grapesjs](https://github.com/artf/grapesjs)
+  - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
   - The ultimate Free Open Source Solution for team communications.
-- [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)
-  - FFmpeg for browser and node, powered by WebAssembly
-- [bootstrap](https://github.com/twbs/bootstrap)
-  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker)
-  - A datepicker for twitter bootstrap (@twbs)
-- [tad](https://github.com/antonycourtney/tad)
-  - A desktop application for viewing and analyzing tabular data
-- [circleci-docs](https://github.com/circleci/circleci-docs)
-  - Documentation for CircleCI.
-- [lando](https://github.com/lando/lando)
-  - A local development and DevOps tool for all your projects that is fast, easy, powerful and liberating
-- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
-  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
-- [proshop_mern](https://github.com/bradtraversy/proshop_mern)
-  - Shopping cart built with MERN & Redux
-- [docs](https://github.com/github/docs)
-  - The open-source repo for docs.github.com
-- [react-router](https://github.com/ReactTraining/react-router)
-  - Declarative routing for React
+- [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
+  - Roadmap to becoming an Artificial Intelligence Expert in 2020
+- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
+  - 🎆Interactive Online Platform that Visualizes Algorithms from Code
+- [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
+  - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
   - 🛁 Clean Code concepts adapted for JavaScript
-- [in-quiz-questions](https://github.com/Ebazhanov/in-quiz-questions)
-  - Linkedin quiz assessment, answers and questions (aws-lambda, rest-api, javascript, react, git, html, jquery, maven, mongodb, xml, java, css, python ...) ответы на квиз
-- [grokking_algorithms](https://github.com/egonSchiele/grokking_algorithms)
-  - Code for the book Grokking Algorithms (https://amzn.to/29rVyHf)
-- [lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci)
-  - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
-- [material-table](https://github.com/mbrn/material-table)
-  - Datatable for React based on material-ui's table with additional features
-- [odoo](https://github.com/odoo/odoo)
-  - Odoo. Open Source Apps To Grow Your Business.
-- [nuxt.js](https://github.com/nuxt/nuxt.js)
-  - The Intuitive Vue Framework
-- [sheetjs](https://github.com/SheetJS/sheetjs)
-  - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
+- [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)
+  - FFmpeg for browser and node, powered by WebAssembly
+- [slick](https://github.com/kenwheeler/slick)
+  - the last carousel you'll ever need
 - [quill](https://github.com/quilljs/quill)
   - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
+- [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
+  - Customizable Icons for React Native with support for NavBar/TabBar, image source and full styling.
+- [hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid)
+  - 🌊 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
+- [swiper](https://github.com/nolimits4web/swiper)
+  - Most modern mobile touch slider with hardware accelerated transitions
+- [react-native-swiper](https://github.com/leecade/react-native-swiper)
+  - The best Swiper component for React Native.
+- [javascript](https://github.com/airbnb/javascript)
+  - JavaScript Style Guide
+- [NodeBB](https://github.com/NodeBB/NodeBB)
+  - Node.js based forum software built for the modern web
+- [jsPDF](https://github.com/MrRio/jsPDF)
+  - Client-side JavaScript PDF generation for everyone.
+- [docs](https://github.com/github/docs)
+  - The open-source repo for docs.github.com
+- [react-virtualized](https://github.com/bvaughn/react-virtualized)
+  - React components for efficiently rendering large lists and tabular data
+- [joplin](https://github.com/laurent22/joplin)
+  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [cropperjs](https://github.com/fengyuanchen/cropperjs)
+  - JavaScript image cropper.
+- [samples](https://github.com/webrtc/samples)
+  - WebRTC Web demos and samples
+- [spug](https://github.com/openspug/spug)
+  - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
+- [noVNC](https://github.com/novnc/noVNC)
+  - VNC client web application

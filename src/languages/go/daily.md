@@ -1,51 +1,51 @@
 # go
-- [argo-cd](https://github.com/argoproj/argo-cd)
-  - Declarative continuous deployment for Kubernetes.
-- [aws-sdk-go](https://github.com/aws/aws-sdk-go)
-  - AWS SDK for the Go programming language.
 - [HackBrowserData](https://github.com/moonD4rk/HackBrowserData)
   - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
-- [opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector)
-  - OpenTelemetry Collector
-- [terraform](https://github.com/hashicorp/terraform)
-  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [gin](https://github.com/gin-gonic/gin)
-  - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [webrtc](https://github.com/pion/webrtc)
-  - Pure Go implementation of the WebRTC API
-- [nitro](https://github.com/asim/nitro)
-  - Nitro (formerly known as Go Micro) is a blazingly fast framework for distributed app development.
-- [temporal](https://github.com/temporalio/temporal)
-  - Temporal service and CLI
-- [thanos](https://github.com/thanos-io/thanos)
-  - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+- [argo-cd](https://github.com/argoproj/argo-cd)
+  - Declarative continuous deployment for Kubernetes.
+- [knowledge](https://github.com/nikitavoloboev/knowledge)
+  - Everything I know
+- [node_exporter](https://github.com/prometheus/node_exporter)
+  - Exporter for machine metrics
+- [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+  - A reverse proxy that provides authentication with Google, Github or other providers.
+- [podman](https://github.com/containers/podman)
+  - Podman: A tool for managing OCI containers and pods
+- [external-dns](https://github.com/kubernetes-sigs/external-dns)
+  - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [mongo-go-driver](https://github.com/mongodb/mongo-go-driver)
+  - The Go driver for MongoDB
 - [beats](https://github.com/elastic/beats)
   - 🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
-- [minio](https://github.com/minio/minio)
-  - High Performance, Kubernetes Native Object Storage
-- [swag](https://github.com/swaggo/swag)
-  - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
-- [tidb](https://github.com/pingcap/tidb)
-  - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+- [charts](https://github.com/helm/charts)
+  - Curated applications for Kubernetes
+- [aws-sdk-go](https://github.com/aws/aws-sdk-go)
+  - AWS SDK for the Go programming language.
+- [go-github](https://github.com/google/go-github)
+  - Go library for accessing the GitHub API
+- [alertmanager](https://github.com/prometheus/alertmanager)
+  - Prometheus Alertmanager
+- [k3s](https://github.com/rancher/k3s)
+  - Lightweight Kubernetes
+- [terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
+  - Terraform AWS provider
+- [echo](https://github.com/labstack/echo)
+  - High performance, minimalist Go web framework
+- [kubernetes](https://github.com/kubernetes/kubernetes)
+  - Production-Grade Container Scheduling and Management
 - [pgx](https://github.com/jackc/pgx)
   - PostgreSQL driver and toolkit for Go
-- [gocv](https://github.com/hybridgroup/gocv)
-  - Go package for computer vision using OpenCV 4 and beyond.
-- [origin](https://github.com/openshift/origin)
-  - Conformance test suite for OpenShift
+- [sops](https://github.com/mozilla/sops)
+  - Simple and flexible tool for managing secrets
 - [logrus](https://github.com/sirupsen/logrus)
   - Structured, pluggable logging for Go.
-- [ingress-nginx](https://github.com/kubernetes/ingress-nginx)
-  - NGINX Ingress Controller for Kubernetes
-- [tailscale](https://github.com/tailscale/tailscale)
-  - The easiest, most secure way to use WireGuard and 2FA.
+- [mockery](https://github.com/vektra/mockery)
+  - A mock code autogenerator for Golang
 - [mock](https://github.com/golang/mock)
   - GoMock is a mocking framework for the Go programming language.
-- [cert-manager](https://github.com/jetstack/cert-manager)
-  - Automatically provision and manage TLS certificates in Kubernetes
-- [loki](https://github.com/grafana/loki)
-  - Like Prometheus, but for logs.
-- [kind](https://github.com/kubernetes-sigs/kind)
-  - Kubernetes IN Docker - local clusters for testing Kubernetes
-- [go-sqlmock](https://github.com/DATA-DOG/go-sqlmock)
-  - Sql mock driver for golang to test database interactions
+- [packer](https://github.com/hashicorp/packer)
+  - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+- [dgraph](https://github.com/dgraph-io/dgraph)
+  - Native GraphQL Database with graph backend
+- [copilot-cli](https://github.com/aws/copilot-cli)
+  - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on Amazon ECS and AWS Fargate.

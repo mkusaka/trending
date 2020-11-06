@@ -1,51 +1,51 @@
 # rust
 - [bevy](https://github.com/bevyengine/bevy)
   - A refreshingly simple data-driven game engine built in Rust
-- [engine](https://github.com/Qovery/engine)
-  - Deploy your apps on any Cloud providers in just a few seconds
-- [scipio](https://github.com/DataDog/scipio)
-  - Scipio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans
-- [druid](https://github.com/linebender/druid)
-  - A data-first Rust-native UI design toolkit.
-- [async-std](https://github.com/async-rs/async-std)
-  - Async version of the Rust standard library
-- [swc](https://github.com/swc-project/swc)
-  - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
-- [abstreet](https://github.com/dabreegster/abstreet)
-  - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
-- [vector](https://github.com/timberio/vector)
-  - High-performance, vendor-neutral observability pipelines.
-- [ox](https://github.com/curlpipe/ox)
-  - An independent Rust text editor that runs in your terminal!
-- [thiserror](https://github.com/dtolnay/thiserror)
-  - derive(Error) for struct and enum error types
-- [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
-  - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
-- [stacks-blockchain](https://github.com/blockstack/stacks-blockchain)
-  - The Stacks 2.0 blockchain implementation
-- [warp](https://github.com/seanmonstar/warp)
-  - A super-easy, composable, web server framework for warp speeds.
+- [sonic](https://github.com/valeriansaliou/sonic)
+  - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
+- [spotify-tui](https://github.com/Rigellute/spotify-tui)
+  - Spotify for the terminal written in Rust 🚀
 - [firecracker](https://github.com/firecracker-microvm/firecracker)
   - Secure and fast microVMs for serverless computing.
-- [ajour](https://github.com/casperstorm/ajour)
-  - A World of Warcraft addon manager written in Rust.
-- [yourcontrols](https://github.com/Sequal32/yourcontrols)
-  - Shared cockpit for Microsoft Flight Simulator.
-- [clap](https://github.com/clap-rs/clap)
-  - A full featured, fast Command Line Argument Parser for Rust
-- [bacon](https://github.com/Canop/bacon)
-  - constant background compilation check
-- [tokenizers](https://github.com/huggingface/tokenizers)
-  - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [rust-blog](https://github.com/pretzelhammer/rust-blog)
   - Educational blog posts for Rust beginners
-- [onefetch](https://github.com/o2sh/onefetch)
-  - Git repository summary on your terminal
-- [kiro-editor](https://github.com/rhysd/kiro-editor)
-  - A terminal UTF-8 text editor written in Rust 📝🦀
-- [ripgrep](https://github.com/BurntSushi/ripgrep)
-  - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-- [mio](https://github.com/tokio-rs/mio)
-  - Metal IO library for Rust
+- [ktra](https://github.com/moriturus/ktra)
+  - Your Little Cargo Registry
+- [solana](https://github.com/solana-labs/solana)
+  - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+- [lighthouse](https://github.com/sigp/lighthouse)
+  - Rust Ethereum 2.0 Client
+- [tonic](https://github.com/hyperium/tonic)
+  - A native gRPC client & server implementation with async/await support.
+- [swc](https://github.com/swc-project/swc)
+  - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
 - [alacritty](https://github.com/alacritty/alacritty)
   - A cross-platform, GPU-accelerated terminal emulator
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
+- [engine](https://github.com/Qovery/engine)
+  - Deploy your apps on any Cloud providers in just a few seconds
+- [abstreet](https://github.com/dabreegster/abstreet)
+  - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
+- [cloudformation-guard](https://github.com/aws-cloudformation/cloudformation-guard)
+  - A set of tools to check AWS CloudFormation templates for policy compliance using a simple, policy-as-code, declarative syntax
+- [examples](https://github.com/actix/examples)
+  - Community showcase and examples of Actix ecosystem usage.
+- [async-std](https://github.com/async-rs/async-std)
+  - Async version of the Rust standard library
+- [mdBook](https://github.com/rust-lang/mdBook)
+  - Create book from markdown files. Like Gitbook but implemented in Rust
+- [thiserror](https://github.com/dtolnay/thiserror)
+  - derive(Error) for struct and enum error types
+- [rustls](https://github.com/ctz/rustls)
+  - A modern TLS library in Rust
+- [parity-ethereum](https://github.com/openethereum/parity-ethereum)
+  - The fast, light, and robust client for Ethereum-like networks.
+- [tensorbase](https://github.com/tensorbase/tensorbase)
+  - TensorBase is building a modern big data warehouse with performance in its core mind.
+- [rustup](https://github.com/rust-lang/rustup)
+  - The Rust toolchain installer
+- [vector](https://github.com/timberio/vector)
+  - High-performance, vendor-neutral observability pipelines.
+- [r3](https://github.com/yvt/r3)
+  - Experimental static RTOS testing the limit of Rust's const eval and generics, supporting Arm A-/M-profile and RISC-V
