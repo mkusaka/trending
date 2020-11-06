@@ -5,129 +5,29 @@
     "href": "https://github.com/bevyengine/bevy",
     "description": "A refreshingly simple data-driven game engine built in Rust",
     "language": "Rust",
-    "stars": 4644,
-    "forks": 347,
-    "starsInPeriod": 65
+    "stars": 4762,
+    "forks": 351,
+    "starsInPeriod": 125
   },
   {
-    "author": "Qovery",
-    "name": "engine",
-    "href": "https://github.com/Qovery/engine",
-    "description": "Deploy your apps on any Cloud providers in just a few seconds",
+    "author": "valeriansaliou",
+    "name": "sonic",
+    "href": "https://github.com/valeriansaliou/sonic",
+    "description": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.",
     "language": "Rust",
-    "stars": 511,
-    "forks": 12,
-    "starsInPeriod": 227
+    "stars": 9701,
+    "forks": 311,
+    "starsInPeriod": 85
   },
   {
-    "author": "DataDog",
-    "name": "scipio",
-    "href": "https://github.com/DataDog/scipio",
-    "description": "Scipio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans",
+    "author": "Rigellute",
+    "name": "spotify-tui",
+    "href": "https://github.com/Rigellute/spotify-tui",
+    "description": "Spotify for the terminal written in Rust 🚀",
     "language": "Rust",
-    "stars": 681,
-    "forks": 26,
-    "starsInPeriod": 11
-  },
-  {
-    "author": "linebender",
-    "name": "druid",
-    "href": "https://github.com/linebender/druid",
-    "description": "A data-first Rust-native UI design toolkit.",
-    "language": "Rust",
-    "stars": 2701,
-    "forks": 219,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "async-rs",
-    "name": "async-std",
-    "href": "https://github.com/async-rs/async-std",
-    "description": "Async version of the Rust standard library",
-    "language": "Rust",
-    "stars": 2584,
-    "forks": 250,
-    "starsInPeriod": 11
-  },
-  {
-    "author": "swc-project",
-    "name": "swc",
-    "href": "https://github.com/swc-project/swc",
-    "description": "swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.",
-    "language": "Rust",
-    "stars": 9529,
-    "forks": 211,
-    "starsInPeriod": 18
-  },
-  {
-    "author": "dabreegster",
-    "name": "abstreet",
-    "href": "https://github.com/dabreegster/abstreet",
-    "description": "A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.",
-    "language": "Rust",
-    "stars": 5089,
-    "forks": 135,
-    "starsInPeriod": 9
-  },
-  {
-    "author": "timberio",
-    "name": "vector",
-    "href": "https://github.com/timberio/vector",
-    "description": "High-performance, vendor-neutral observability pipelines.",
-    "language": "Rust",
-    "stars": 5552,
-    "forks": 347,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "curlpipe",
-    "name": "ox",
-    "href": "https://github.com/curlpipe/ox",
-    "description": "An independent Rust text editor that runs in your terminal!",
-    "language": "Rust",
-    "stars": 1510,
-    "forks": 29,
-    "starsInPeriod": 128
-  },
-  {
-    "author": "dtolnay",
-    "name": "thiserror",
-    "href": "https://github.com/dtolnay/thiserror",
-    "description": "derive(Error) for struct and enum error types",
-    "language": "Rust",
-    "stars": 1048,
-    "forks": 44,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "meilisearch",
-    "name": "MeiliSearch",
-    "href": "https://github.com/meilisearch/MeiliSearch",
-    "description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine",
-    "language": "Rust",
-    "stars": 9892,
-    "forks": 298,
-    "starsInPeriod": 14
-  },
-  {
-    "author": "blockstack",
-    "name": "stacks-blockchain",
-    "href": "https://github.com/blockstack/stacks-blockchain",
-    "description": "The Stacks 2.0 blockchain implementation",
-    "language": "Rust",
-    "stars": 2172,
-    "forks": 397,
-    "starsInPeriod": 0
-  },
-  {
-    "author": "seanmonstar",
-    "name": "warp",
-    "href": "https://github.com/seanmonstar/warp",
-    "description": "A super-easy, composable, web server framework for warp speeds.",
-    "language": "Rust",
-    "stars": 3465,
-    "forks": 348,
-    "starsInPeriod": 7
+    "stars": 6965,
+    "forks": 238,
+    "starsInPeriod": 3
   },
   {
     "author": "firecracker-microvm",
@@ -135,59 +35,9 @@
     "href": "https://github.com/firecracker-microvm/firecracker",
     "description": "Secure and fast microVMs for serverless computing.",
     "language": "Rust",
-    "stars": 13024,
-    "forks": 901,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "casperstorm",
-    "name": "ajour",
-    "href": "https://github.com/casperstorm/ajour",
-    "description": "A World of Warcraft addon manager written in Rust.",
-    "language": "Rust",
-    "stars": 577,
-    "forks": 32,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "Sequal32",
-    "name": "yourcontrols",
-    "href": "https://github.com/Sequal32/yourcontrols",
-    "description": "Shared cockpit for Microsoft Flight Simulator.",
-    "language": "Rust",
-    "stars": 98,
-    "forks": 6,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "clap-rs",
-    "name": "clap",
-    "href": "https://github.com/clap-rs/clap",
-    "description": "A full featured, fast Command Line Argument Parser for Rust",
-    "language": "Rust",
-    "stars": 5010,
-    "forks": 488,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "Canop",
-    "name": "bacon",
-    "href": "https://github.com/Canop/bacon",
-    "description": "constant background compilation check",
-    "language": "Rust",
-    "stars": 46,
-    "forks": 4,
-    "starsInPeriod": 17
-  },
-  {
-    "author": "huggingface",
-    "name": "tokenizers",
-    "href": "https://github.com/huggingface/tokenizers",
-    "description": "💥Fast State-of-the-Art Tokenizers optimized for Research and Production",
-    "language": "Rust",
-    "stars": 3924,
-    "forks": 279,
-    "starsInPeriod": 8
+    "stars": 13035,
+    "forks": 903,
+    "starsInPeriod": 12
   },
   {
     "author": "pretzelhammer",
@@ -195,49 +45,59 @@
     "href": "https://github.com/pretzelhammer/rust-blog",
     "description": "Educational blog posts for Rust beginners",
     "language": "Rust",
-    "stars": 1563,
+    "stars": 1567,
     "forks": 71,
-    "starsInPeriod": 10
+    "starsInPeriod": 5
   },
   {
-    "author": "o2sh",
-    "name": "onefetch",
-    "href": "https://github.com/o2sh/onefetch",
-    "description": "Git repository summary on your terminal",
+    "author": "moriturus",
+    "name": "ktra",
+    "href": "https://github.com/moriturus/ktra",
+    "description": "Your Little Cargo Registry",
     "language": "Rust",
-    "stars": 2406,
-    "forks": 120,
-    "starsInPeriod": 8
+    "stars": 98,
+    "forks": 4,
+    "starsInPeriod": 16
   },
   {
-    "author": "rhysd",
-    "name": "kiro-editor",
-    "href": "https://github.com/rhysd/kiro-editor",
-    "description": "A terminal UTF-8 text editor written in Rust 📝🦀",
+    "author": "solana-labs",
+    "name": "solana",
+    "href": "https://github.com/solana-labs/solana",
+    "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
     "language": "Rust",
-    "stars": 332,
-    "forks": 11,
-    "starsInPeriod": 13
+    "stars": 1007,
+    "forks": 239,
+    "starsInPeriod": 2
   },
   {
-    "author": "BurntSushi",
-    "name": "ripgrep",
-    "href": "https://github.com/BurntSushi/ripgrep",
-    "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+    "author": "sigp",
+    "name": "lighthouse",
+    "href": "https://github.com/sigp/lighthouse",
+    "description": "Rust Ethereum 2.0 Client",
     "language": "Rust",
-    "stars": 22280,
-    "forks": 983,
-    "starsInPeriod": 17
-  },
-  {
-    "author": "tokio-rs",
-    "name": "mio",
-    "href": "https://github.com/tokio-rs/mio",
-    "description": "Metal IO library for Rust",
-    "language": "Rust",
-    "stars": 3926,
-    "forks": 468,
+    "stars": 680,
+    "forks": 169,
     "starsInPeriod": 4
+  },
+  {
+    "author": "hyperium",
+    "name": "tonic",
+    "href": "https://github.com/hyperium/tonic",
+    "description": "A native gRPC client & server implementation with async/await support.",
+    "language": "Rust",
+    "stars": 2711,
+    "forks": 226,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "swc-project",
+    "name": "swc",
+    "href": "https://github.com/swc-project/swc",
+    "description": "swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.",
+    "language": "Rust",
+    "stars": 9569,
+    "forks": 213,
+    "starsInPeriod": 42
   },
   {
     "author": "alacritty",
@@ -245,8 +105,148 @@
     "href": "https://github.com/alacritty/alacritty",
     "description": "A cross-platform, GPU-accelerated terminal emulator",
     "language": "Rust",
-    "stars": 26222,
-    "forks": 1358,
+    "stars": 26236,
+    "forks": 1362,
     "starsInPeriod": 15
+  },
+  {
+    "author": "rust-lang",
+    "name": "rust",
+    "href": "https://github.com/rust-lang/rust",
+    "description": "Empowering everyone to build reliable and efficient software.",
+    "language": "Rust",
+    "stars": 49297,
+    "forks": 7272,
+    "starsInPeriod": 23
+  },
+  {
+    "author": "Qovery",
+    "name": "engine",
+    "href": "https://github.com/Qovery/engine",
+    "description": "Deploy your apps on any Cloud providers in just a few seconds",
+    "language": "Rust",
+    "stars": 547,
+    "forks": 13,
+    "starsInPeriod": 38
+  },
+  {
+    "author": "dabreegster",
+    "name": "abstreet",
+    "href": "https://github.com/dabreegster/abstreet",
+    "description": "A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.",
+    "language": "Rust",
+    "stars": 5095,
+    "forks": 135,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "aws-cloudformation",
+    "name": "cloudformation-guard",
+    "href": "https://github.com/aws-cloudformation/cloudformation-guard",
+    "description": "A set of tools to check AWS CloudFormation templates for policy compliance using a simple, policy-as-code, declarative syntax",
+    "language": "Rust",
+    "stars": 438,
+    "forks": 51,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "actix",
+    "name": "examples",
+    "href": "https://github.com/actix/examples",
+    "description": "Community showcase and examples of Actix ecosystem usage.",
+    "language": "Rust",
+    "stars": 1475,
+    "forks": 460,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "async-rs",
+    "name": "async-std",
+    "href": "https://github.com/async-rs/async-std",
+    "description": "Async version of the Rust standard library",
+    "language": "Rust",
+    "stars": 2587,
+    "forks": 250,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "rust-lang",
+    "name": "mdBook",
+    "href": "https://github.com/rust-lang/mdBook",
+    "description": "Create book from markdown files. Like Gitbook but implemented in Rust",
+    "language": "Rust",
+    "stars": 5257,
+    "forks": 628,
+    "starsInPeriod": 18
+  },
+  {
+    "author": "dtolnay",
+    "name": "thiserror",
+    "href": "https://github.com/dtolnay/thiserror",
+    "description": "derive(Error) for struct and enum error types",
+    "language": "Rust",
+    "stars": 1054,
+    "forks": 44,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "ctz",
+    "name": "rustls",
+    "href": "https://github.com/ctz/rustls",
+    "description": "A modern TLS library in Rust",
+    "language": "Rust",
+    "stars": 2157,
+    "forks": 213,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "openethereum",
+    "name": "parity-ethereum",
+    "href": "https://github.com/openethereum/parity-ethereum",
+    "description": "The fast, light, and robust client for Ethereum-like networks.",
+    "language": "Rust",
+    "stars": 6264,
+    "forks": 1567,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "tensorbase",
+    "name": "tensorbase",
+    "href": "https://github.com/tensorbase/tensorbase",
+    "description": "TensorBase is building a modern big data warehouse with performance in its core mind.",
+    "language": "Rust",
+    "stars": 141,
+    "forks": 6,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "rust-lang",
+    "name": "rustup",
+    "href": "https://github.com/rust-lang/rustup",
+    "description": "The Rust toolchain installer",
+    "language": "Rust",
+    "stars": 3735,
+    "forks": 555,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "timberio",
+    "name": "vector",
+    "href": "https://github.com/timberio/vector",
+    "description": "High-performance, vendor-neutral observability pipelines.",
+    "language": "Rust",
+    "stars": 5564,
+    "forks": 347,
+    "starsInPeriod": 13
+  },
+  {
+    "author": "yvt",
+    "name": "r3",
+    "href": "https://github.com/yvt/r3",
+    "description": "Experimental static RTOS testing the limit of Rust's const eval and generics, supporting Arm A-/M-profile and RISC-V",
+    "language": "Rust",
+    "stars": 52,
+    "forks": 1,
+    "starsInPeriod": 8
   }
 ]

@@ -1,33 +1,13 @@
 [
   {
-    "author": "ocornut",
-    "name": "imgui",
-    "href": "https://github.com/ocornut/imgui",
-    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "author": "tdlib",
+    "name": "telegram-bot-api",
+    "href": "https://github.com/tdlib/telegram-bot-api",
+    "description": null,
     "language": "C++",
-    "stars": 24597,
-    "forks": 4118,
-    "starsInPeriod": 286
-  },
-  {
-    "author": "cmu-db",
-    "name": "noisepage",
-    "href": "https://github.com/cmu-db/noisepage",
-    "description": "Self-Driving Database Management System from Carnegie Mellon University",
-    "language": "C++",
-    "stars": 776,
-    "forks": 295,
-    "starsInPeriod": 47
-  },
-  {
-    "author": "microsoft",
-    "name": "onnxruntime",
-    "href": "https://github.com/microsoft/onnxruntime",
-    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
-    "language": "C++",
-    "stars": 3487,
-    "forks": 813,
-    "starsInPeriod": 12
+    "stars": 355,
+    "forks": 34,
+    "starsInPeriod": 66
   },
   {
     "author": "google",
@@ -35,159 +15,29 @@
     "href": "https://github.com/google/googletest",
     "description": "Googletest - Google Testing and Mocking Framework",
     "language": "C++",
-    "stars": 18506,
-    "forks": 6760,
-    "starsInPeriod": 15
+    "stars": 18542,
+    "forks": 6766,
+    "starsInPeriod": 43
   },
   {
-    "author": "ros-planning",
-    "name": "navigation2",
-    "href": "https://github.com/ros-planning/navigation2",
-    "description": "ROS2 Navigation",
+    "author": "microsoft",
+    "name": "onnxruntime",
+    "href": "https://github.com/microsoft/onnxruntime",
+    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
     "language": "C++",
-    "stars": 406,
-    "forks": 277,
-    "starsInPeriod": 2
+    "stars": 3519,
+    "forks": 813,
+    "starsInPeriod": 27
   },
   {
-    "author": "tdlib",
-    "name": "td",
-    "href": "https://github.com/tdlib/td",
-    "description": "Cross-platform library for building Telegram clients",
+    "author": "facebookresearch",
+    "name": "faiss",
+    "href": "https://github.com/facebookresearch/faiss",
+    "description": "A library for efficient similarity search and clustering of dense vectors.",
     "language": "C++",
-    "stars": 3007,
-    "forks": 612,
-    "starsInPeriod": 12
-  },
-  {
-    "author": "opencv",
-    "name": "opencv",
-    "href": "https://github.com/opencv/opencv",
-    "description": "Open Source Computer Vision Library",
-    "language": "C++",
-    "stars": 49845,
-    "forks": 40433,
-    "starsInPeriod": 36
-  },
-  {
-    "author": "envoyproxy",
-    "name": "envoy",
-    "href": "https://github.com/envoyproxy/envoy",
-    "description": "Cloud-native high-performance edge/middle/service proxy",
-    "language": "C++",
-    "stars": 15114,
-    "forks": 2610,
-    "starsInPeriod": 21
-  },
-  {
-    "author": "sogou",
-    "name": "workflow",
-    "href": "https://github.com/sogou/workflow",
-    "description": "C++ Programming Paradigm with Asynchronous Networking",
-    "language": "C++",
-    "stars": 2715,
-    "forks": 549,
-    "starsInPeriod": 76
-  },
-  {
-    "author": "Tencent",
-    "name": "Hippy",
-    "href": "https://github.com/Tencent/Hippy",
-    "description": "A cross platform framework designed for Web developer. Introduction video - https://v.qq.com/x/page/i3038urj2mt.html",
-    "language": "C++",
-    "stars": 5331,
-    "forks": 545,
-    "starsInPeriod": 17
-  },
-  {
-    "author": "hoffstadt",
-    "name": "DearPyGui",
-    "href": "https://github.com/hoffstadt/DearPyGui",
-    "description": "Dear PyGui: A Bloat-free Graphical User Interface for Python with minimal dependencies",
-    "language": "C++",
-    "stars": 2632,
-    "forks": 107,
-    "starsInPeriod": 162
-  },
-  {
-    "author": "pytorch",
-    "name": "pytorch",
-    "href": "https://github.com/pytorch/pytorch",
-    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-    "language": "C++",
-    "stars": 43634,
-    "forks": 11467,
-    "starsInPeriod": 28
-  },
-  {
-    "author": "carla-simulator",
-    "name": "carla",
-    "href": "https://github.com/carla-simulator/carla",
-    "description": "Open-source simulator for autonomous driving research.",
-    "language": "C++",
-    "stars": 5146,
-    "forks": 1511,
-    "starsInPeriod": 9
-  },
-  {
-    "author": "catchorg",
-    "name": "Catch2",
-    "href": "https://github.com/catchorg/Catch2",
-    "description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)",
-    "language": "C++",
-    "stars": 12290,
-    "forks": 2062,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "google",
-    "name": "re2",
-    "href": "https://github.com/google/re2",
-    "description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",
-    "language": "C++",
-    "stars": 5219,
-    "forks": 781,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "yuzu-emu",
-    "name": "yuzu",
-    "href": "https://github.com/yuzu-emu/yuzu",
-    "description": "Nintendo Switch Emulator",
-    "language": "C++",
-    "stars": 12433,
-    "forks": 1027,
-    "starsInPeriod": 20
-  },
-  {
-    "author": "SpiderLabs",
-    "name": "ModSecurity",
-    "href": "https://github.com/SpiderLabs/ModSecurity",
-    "description": "ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…",
-    "language": "C++",
-    "stars": 3909,
-    "forks": 1059,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "Project-OSRM",
-    "name": "osrm-backend",
-    "href": "https://github.com/Project-OSRM/osrm-backend",
-    "description": "Open Source Routing Machine - C++ backend",
-    "language": "C++",
-    "stars": 4045,
-    "forks": 2223,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "ouyanghuiyu",
-    "name": "chineseocr_lite",
-    "href": "https://github.com/ouyanghuiyu/chineseocr_lite",
-    "description": "超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M",
-    "language": "C++",
-    "stars": 5855,
-    "forks": 1162,
-    "starsInPeriod": 8
+    "stars": 11408,
+    "forks": 2009,
+    "starsInPeriod": 37
   },
   {
     "author": "protocolbuffers",
@@ -195,19 +45,49 @@
     "href": "https://github.com/protocolbuffers/protobuf",
     "description": "Protocol Buffers - Google's data interchange format",
     "language": "C++",
-    "stars": 44623,
-    "forks": 11980,
+    "stars": 44640,
+    "forks": 11989,
     "starsInPeriod": 22
   },
   {
-    "author": "flameshot-org",
-    "name": "flameshot",
-    "href": "https://github.com/flameshot-org/flameshot",
-    "description": "Powerful yet simple to use screenshot software",
+    "author": "Light-City",
+    "name": "CPlusPlusThings",
+    "href": "https://github.com/Light-City/CPlusPlusThings",
+    "description": "C++那些事",
     "language": "C++",
-    "stars": 6896,
-    "forks": 495,
-    "starsInPeriod": 19
+    "stars": 7792,
+    "forks": 1782,
+    "starsInPeriod": 31
+  },
+  {
+    "author": "musescore",
+    "name": "MuseScore",
+    "href": "https://github.com/musescore/MuseScore",
+    "description": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",
+    "language": "C++",
+    "stars": 5229,
+    "forks": 1506,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "tensorflow",
+    "name": "tensorflow",
+    "href": "https://github.com/tensorflow/tensorflow",
+    "description": "An Open Source Machine Learning Framework for Everyone",
+    "language": "C++",
+    "stars": 149883,
+    "forks": 83151,
+    "starsInPeriod": 50
+  },
+  {
+    "author": "TheAlgorithms",
+    "name": "C-Plus-Plus",
+    "href": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "description": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
+    "language": "C++",
+    "stars": 9029,
+    "forks": 3072,
+    "starsInPeriod": 17
   },
   {
     "author": "pybind",
@@ -215,38 +95,158 @@
     "href": "https://github.com/pybind/pybind11",
     "description": "Seamless operability between C++11 and Python",
     "language": "C++",
-    "stars": 8208,
+    "stars": 8213,
     "forks": 1165,
-    "starsInPeriod": 11
+    "starsInPeriod": 6
   },
   {
-    "author": "ArduPilot",
-    "name": "ardupilot",
-    "href": "https://github.com/ArduPilot/ardupilot",
-    "description": "ArduPlane, ArduCopter, ArduRover source",
+    "author": "brave",
+    "name": "brave-core",
+    "href": "https://github.com/brave/brave-core",
+    "description": "Core engine for the Brave browser for macOS, Windows, Linux, Android. For the issue log, please see https://github.com/brave/brave-browser",
     "language": "C++",
-    "stars": 5350,
-    "forks": 9996,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "wang-bin",
-    "name": "QtAV",
-    "href": "https://github.com/wang-bin/QtAV",
-    "description": "A cross-platform multimedia framework based on Qt and FFmpeg(https://github.com/wang-bin/avbuild). High performance. User & developer friendly. Supports Android, iOS, Windows store and desktops. 基于Qt和FFmpeg的跨平台高性能音视频播放框架",
-    "language": "C++",
-    "stars": 2601,
-    "forks": 1184,
-    "starsInPeriod": 2
+    "stars": 899,
+    "forks": 288,
+    "starsInPeriod": 6
   },
   {
     "author": "google",
-    "name": "iree",
-    "href": "https://github.com/google/iree",
-    "description": "👻",
+    "name": "re2",
+    "href": "https://github.com/google/re2",
+    "description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",
     "language": "C++",
-    "stars": 496,
-    "forks": 103,
-    "starsInPeriod": 1
+    "stars": 5224,
+    "forks": 782,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "facebook",
+    "name": "folly",
+    "href": "https://github.com/facebook/folly",
+    "description": "An open-source C++ library developed and used at Facebook.",
+    "language": "C++",
+    "stars": 15817,
+    "forks": 3742,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "tesseract-ocr",
+    "name": "tesseract",
+    "href": "https://github.com/tesseract-ocr/tesseract",
+    "description": "Tesseract Open Source OCR Engine (main repository)",
+    "language": "C++",
+    "stars": 37126,
+    "forks": 6872,
+    "starsInPeriod": 13
+  },
+  {
+    "author": "tdlib",
+    "name": "td",
+    "href": "https://github.com/tdlib/td",
+    "description": "Cross-platform library for building Telegram clients",
+    "language": "C++",
+    "stars": 3014,
+    "forks": 614,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "ouyanghuiyu",
+    "name": "chineseocr_lite",
+    "href": "https://github.com/ouyanghuiyu/chineseocr_lite",
+    "description": "超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M",
+    "language": "C++",
+    "stars": 5859,
+    "forks": 1163,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "google",
+    "name": "flatbuffers",
+    "href": "https://github.com/google/flatbuffers",
+    "description": "FlatBuffers: Memory Efficient Serialization Library",
+    "language": "C++",
+    "stars": 15277,
+    "forks": 2357,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "cmu-db",
+    "name": "noisepage",
+    "href": "https://github.com/cmu-db/noisepage",
+    "description": "Self-Driving Database Management System from Carnegie Mellon University",
+    "language": "C++",
+    "stars": 842,
+    "forks": 295,
+    "starsInPeriod": 68
+  },
+  {
+    "author": "pytorch",
+    "name": "pytorch",
+    "href": "https://github.com/pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "language": "C++",
+    "stars": 43670,
+    "forks": 11480,
+    "starsInPeriod": 41
+  },
+  {
+    "author": "opencv",
+    "name": "opencv",
+    "href": "https://github.com/opencv/opencv",
+    "description": "Open Source Computer Vision Library",
+    "language": "C++",
+    "stars": 49870,
+    "forks": 40455,
+    "starsInPeriod": 27
+  },
+  {
+    "author": "haoel",
+    "name": "leetcode",
+    "href": "https://github.com/haoel/leetcode",
+    "description": "LeetCode Problems' Solutions",
+    "language": "C++",
+    "stars": 14016,
+    "forks": 4251,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "ocornut",
+    "name": "imgui",
+    "href": "https://github.com/ocornut/imgui",
+    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "language": "C++",
+    "stars": 24691,
+    "forks": 4122,
+    "starsInPeriod": 100
+  },
+  {
+    "author": "apache",
+    "name": "arrow",
+    "href": "https://github.com/apache/arrow",
+    "description": "Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…",
+    "language": "C++",
+    "stars": 6431,
+    "forks": 1633,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "ethereum",
+    "name": "solidity",
+    "href": "https://github.com/ethereum/solidity",
+    "description": "Solidity, the Contract-Oriented Programming Language",
+    "language": "C++",
+    "stars": 8489,
+    "forks": 2392,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "triton-inference-server",
+    "name": "server",
+    "href": "https://github.com/triton-inference-server/server",
+    "description": "The Triton Inference Server provides an optimized cloud and edge inferencing solution.",
+    "language": "C++",
+    "stars": 1522,
+    "forks": 322,
+    "starsInPeriod": 7
   }
 ]
