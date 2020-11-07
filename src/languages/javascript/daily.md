@@ -1,51 +1,51 @@
 # javascript
-- [edex-ui](https://github.com/GitSquared/edex-ui)
-  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [scripts](https://github.com/lxk0301/scripts)
-  - 京东薅羊毛工具, 京东水果、宠物、种豆等等
-- [grapesjs](https://github.com/artf/grapesjs)
-  - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
-- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
-  - The ultimate Free Open Source Solution for team communications.
-- [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
-  - Roadmap to becoming an Artificial Intelligence Expert in 2020
-- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
-  - 🎆Interactive Online Platform that Visualizes Algorithms from Code
-- [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
-  - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)
-  - FFmpeg for browser and node, powered by WebAssembly
-- [slick](https://github.com/kenwheeler/slick)
-  - the last carousel you'll ever need
-- [quill](https://github.com/quilljs/quill)
-  - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
-- [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
-  - Customizable Icons for React Native with support for NavBar/TabBar, image source and full styling.
-- [hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid)
-  - 🌊 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
-- [swiper](https://github.com/nolimits4web/swiper)
-  - Most modern mobile touch slider with hardware accelerated transitions
-- [react-native-swiper](https://github.com/leecade/react-native-swiper)
-  - The best Swiper component for React Native.
-- [javascript](https://github.com/airbnb/javascript)
-  - JavaScript Style Guide
-- [NodeBB](https://github.com/NodeBB/NodeBB)
-  - Node.js based forum software built for the modern web
-- [jsPDF](https://github.com/MrRio/jsPDF)
-  - Client-side JavaScript PDF generation for everyone.
-- [docs](https://github.com/github/docs)
-  - The open-source repo for docs.github.com
-- [react-virtualized](https://github.com/bvaughn/react-virtualized)
-  - React components for efficiently rendering large lists and tabular data
+- [socket.io](https://github.com/socketio/socket.io)
+  - Realtime application framework (Node.JS server)
 - [joplin](https://github.com/laurent22/joplin)
   - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
-- [cropperjs](https://github.com/fengyuanchen/cropperjs)
-  - JavaScript image cropper.
-- [samples](https://github.com/webrtc/samples)
-  - WebRTC Web demos and samples
-- [spug](https://github.com/openspug/spug)
-  - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
-- [noVNC](https://github.com/novnc/noVNC)
-  - VNC client web application
+- [wtfjs](https://github.com/denysdovhan/wtfjs)
+  - 🤪 A list of funny and tricky JavaScript examples
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [plotly.js](https://github.com/plotly/plotly.js)
+  - Open-source JavaScript charting library behind Plotly and Dash
+- [docs](https://github.com/github/docs)
+  - The open-source repo for docs.github.com
+- [twitchAdSkip](https://github.com/Wilkolicious/twitchAdSkip)
+  - 
+- [marked](https://github.com/markedjs/marked)
+  - A markdown parser and compiler. Built for speed.
+- [kubernetes-external-secrets](https://github.com/godaddy/kubernetes-external-secrets)
+  - Integrate external secret management systems with Kubernetes
+- [openlayers](https://github.com/openlayers/openlayers)
+  - OpenLayers
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [simple-icons](https://github.com/simple-icons/simple-icons)
+  - SVG icons for popular brands
+- [node-mongodb-native](https://github.com/mongodb/node-mongodb-native)
+  - The Official MongoDB Node.js Driver
+- [mui-datatables](https://github.com/gregnb/mui-datatables)
+  - Datatables for React using Material-UI - https://www.material-ui-datatables.com
+- [hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid)
+  - 🌊 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
+- [nivo](https://github.com/plouc/nivo)
+  - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
+- [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
+  - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+- [corona-widget](https://github.com/rphl/corona-widget)
+  - COVID-19 Inzidenz-Widget für iOS innerhalb Deutschlands 🇩🇪 (Kreis/Stadt + Bundesland + Trend)
+- [FileSaver.js](https://github.com/eligrey/FileSaver.js)
+  - An HTML5 saveAs() FileSaver implementation
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
+  - Roadmap to becoming an Artificial Intelligence Expert in 2020
+- [swiper](https://github.com/nolimits4web/swiper)
+  - Most modern mobile touch slider with hardware accelerated transitions
+- [scripts](https://github.com/chavyleung/scripts)
+  - 
+- [react-virtualized](https://github.com/bvaughn/react-virtualized)
+  - React components for efficiently rendering large lists and tabular data
+- [thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender)
+  - A chrome extension for suspending all tabs to free up memory

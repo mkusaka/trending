@@ -5,89 +5,9 @@
     "href": "https://github.com/bevyengine/bevy",
     "description": "A refreshingly simple data-driven game engine built in Rust",
     "language": "Rust",
-    "stars": 4762,
-    "forks": 351,
-    "starsInPeriod": 125
-  },
-  {
-    "author": "valeriansaliou",
-    "name": "sonic",
-    "href": "https://github.com/valeriansaliou/sonic",
-    "description": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.",
-    "language": "Rust",
-    "stars": 9701,
-    "forks": 311,
-    "starsInPeriod": 85
-  },
-  {
-    "author": "Rigellute",
-    "name": "spotify-tui",
-    "href": "https://github.com/Rigellute/spotify-tui",
-    "description": "Spotify for the terminal written in Rust 🚀",
-    "language": "Rust",
-    "stars": 6965,
-    "forks": 238,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "firecracker-microvm",
-    "name": "firecracker",
-    "href": "https://github.com/firecracker-microvm/firecracker",
-    "description": "Secure and fast microVMs for serverless computing.",
-    "language": "Rust",
-    "stars": 13035,
-    "forks": 903,
-    "starsInPeriod": 12
-  },
-  {
-    "author": "pretzelhammer",
-    "name": "rust-blog",
-    "href": "https://github.com/pretzelhammer/rust-blog",
-    "description": "Educational blog posts for Rust beginners",
-    "language": "Rust",
-    "stars": 1567,
-    "forks": 71,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "moriturus",
-    "name": "ktra",
-    "href": "https://github.com/moriturus/ktra",
-    "description": "Your Little Cargo Registry",
-    "language": "Rust",
-    "stars": 98,
-    "forks": 4,
-    "starsInPeriod": 16
-  },
-  {
-    "author": "solana-labs",
-    "name": "solana",
-    "href": "https://github.com/solana-labs/solana",
-    "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
-    "language": "Rust",
-    "stars": 1007,
-    "forks": 239,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "sigp",
-    "name": "lighthouse",
-    "href": "https://github.com/sigp/lighthouse",
-    "description": "Rust Ethereum 2.0 Client",
-    "language": "Rust",
-    "stars": 680,
-    "forks": 169,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "hyperium",
-    "name": "tonic",
-    "href": "https://github.com/hyperium/tonic",
-    "description": "A native gRPC client & server implementation with async/await support.",
-    "language": "Rust",
-    "stars": 2711,
-    "forks": 226,
-    "starsInPeriod": 6
+    "stars": 4861,
+    "forks": 353,
+    "starsInPeriod": 127
   },
   {
     "author": "swc-project",
@@ -95,79 +15,99 @@
     "href": "https://github.com/swc-project/swc",
     "description": "swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.",
     "language": "Rust",
-    "stars": 9569,
-    "forks": 213,
-    "starsInPeriod": 42
+    "stars": 9592,
+    "forks": 214,
+    "starsInPeriod": 52
   },
   {
-    "author": "alacritty",
-    "name": "alacritty",
-    "href": "https://github.com/alacritty/alacritty",
-    "description": "A cross-platform, GPU-accelerated terminal emulator",
+    "author": "seanmonstar",
+    "name": "reqwest",
+    "href": "https://github.com/seanmonstar/reqwest",
+    "description": "An easy and powerful Rust HTTP Client",
     "language": "Rust",
-    "stars": 26236,
-    "forks": 1362,
-    "starsInPeriod": 15
-  },
-  {
-    "author": "rust-lang",
-    "name": "rust",
-    "href": "https://github.com/rust-lang/rust",
-    "description": "Empowering everyone to build reliable and efficient software.",
-    "language": "Rust",
-    "stars": 49297,
-    "forks": 7272,
-    "starsInPeriod": 23
-  },
-  {
-    "author": "Qovery",
-    "name": "engine",
-    "href": "https://github.com/Qovery/engine",
-    "description": "Deploy your apps on any Cloud providers in just a few seconds",
-    "language": "Rust",
-    "stars": 547,
-    "forks": 13,
-    "starsInPeriod": 38
-  },
-  {
-    "author": "dabreegster",
-    "name": "abstreet",
-    "href": "https://github.com/dabreegster/abstreet",
-    "description": "A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.",
-    "language": "Rust",
-    "stars": 5095,
-    "forks": 135,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "aws-cloudformation",
-    "name": "cloudformation-guard",
-    "href": "https://github.com/aws-cloudformation/cloudformation-guard",
-    "description": "A set of tools to check AWS CloudFormation templates for policy compliance using a simple, policy-as-code, declarative syntax",
-    "language": "Rust",
-    "stars": 438,
-    "forks": 51,
+    "stars": 3267,
+    "forks": 438,
     "starsInPeriod": 3
   },
   {
-    "author": "actix",
-    "name": "examples",
-    "href": "https://github.com/actix/examples",
-    "description": "Community showcase and examples of Actix ecosystem usage.",
+    "author": "sigp",
+    "name": "lighthouse",
+    "href": "https://github.com/sigp/lighthouse",
+    "description": "Rust Ethereum 2.0 Client",
     "language": "Rust",
-    "stars": 1475,
-    "forks": 460,
-    "starsInPeriod": 1
+    "stars": 683,
+    "forks": 171,
+    "starsInPeriod": 6
   },
   {
-    "author": "async-rs",
-    "name": "async-std",
-    "href": "https://github.com/async-rs/async-std",
-    "description": "Async version of the Rust standard library",
+    "author": "rust-lang",
+    "name": "rustlings",
+    "href": "https://github.com/rust-lang/rustlings",
+    "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
     "language": "Rust",
-    "stars": 2587,
-    "forks": 250,
-    "starsInPeriod": 4
+    "stars": 12600,
+    "forks": 1587,
+    "starsInPeriod": 22
+  },
+  {
+    "author": "valeriansaliou",
+    "name": "sonic",
+    "href": "https://github.com/valeriansaliou/sonic",
+    "description": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.",
+    "language": "Rust",
+    "stars": 9736,
+    "forks": 311,
+    "starsInPeriod": 59
+  },
+  {
+    "author": "zombodb",
+    "name": "zombodb",
+    "href": "https://github.com/zombodb/zombodb",
+    "description": "Making Postgres and Elasticsearch work together like it's 2020",
+    "language": "Rust",
+    "stars": 3008,
+    "forks": 138,
+    "starsInPeriod": 19
+  },
+  {
+    "author": "rayon-rs",
+    "name": "rayon",
+    "href": "https://github.com/rayon-rs/rayon",
+    "description": "Rayon: A data parallelism library for Rust",
+    "language": "Rust",
+    "stars": 4403,
+    "forks": 249,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "RustScan",
+    "name": "RustScan",
+    "href": "https://github.com/RustScan/RustScan",
+    "description": "🤖 The Modern Port Scanner 🤖",
+    "language": "Rust",
+    "stars": 2769,
+    "forks": 225,
+    "starsInPeriod": 24
+  },
+  {
+    "author": "hyperium",
+    "name": "tonic",
+    "href": "https://github.com/hyperium/tonic",
+    "description": "A native gRPC client & server implementation with async/await support.",
+    "language": "Rust",
+    "stars": 2714,
+    "forks": 226,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "tokio-rs",
+    "name": "mio",
+    "href": "https://github.com/tokio-rs/mio",
+    "description": "Metal IO library for Rust",
+    "language": "Rust",
+    "stars": 3932,
+    "forks": 470,
+    "starsInPeriod": 5
   },
   {
     "author": "rust-lang",
@@ -175,59 +115,79 @@
     "href": "https://github.com/rust-lang/mdBook",
     "description": "Create book from markdown files. Like Gitbook but implemented in Rust",
     "language": "Rust",
-    "stars": 5257,
+    "stars": 5268,
     "forks": 628,
-    "starsInPeriod": 18
+    "starsInPeriod": 24
   },
   {
-    "author": "dtolnay",
-    "name": "thiserror",
-    "href": "https://github.com/dtolnay/thiserror",
-    "description": "derive(Error) for struct and enum error types",
+    "author": "cloudflare",
+    "name": "quiche",
+    "href": "https://github.com/cloudflare/quiche",
+    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
     "language": "Rust",
-    "stars": 1054,
-    "forks": 44,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "ctz",
-    "name": "rustls",
-    "href": "https://github.com/ctz/rustls",
-    "description": "A modern TLS library in Rust",
-    "language": "Rust",
-    "stars": 2157,
-    "forks": 213,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "openethereum",
-    "name": "parity-ethereum",
-    "href": "https://github.com/openethereum/parity-ethereum",
-    "description": "The fast, light, and robust client for Ethereum-like networks.",
-    "language": "Rust",
-    "stars": 6264,
-    "forks": 1567,
+    "stars": 4019,
+    "forks": 256,
     "starsInPeriod": 4
   },
   {
-    "author": "tensorbase",
-    "name": "tensorbase",
-    "href": "https://github.com/tensorbase/tensorbase",
-    "description": "TensorBase is building a modern big data warehouse with performance in its core mind.",
+    "author": "libra",
+    "name": "libra",
+    "href": "https://github.com/libra/libra",
+    "description": "Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.",
     "language": "Rust",
-    "stars": 141,
-    "forks": 6,
-    "starsInPeriod": 5
+    "stars": 15291,
+    "forks": 2317,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "tree-sitter",
+    "name": "tree-sitter",
+    "href": "https://github.com/tree-sitter/tree-sitter",
+    "description": "An incremental parsing system for programming tools",
+    "language": "Rust",
+    "stars": 3297,
+    "forks": 215,
+    "starsInPeriod": 15
+  },
+  {
+    "author": "redox-os",
+    "name": "orbtk",
+    "href": "https://github.com/redox-os/orbtk",
+    "description": "The Rust UI-Toolkit.",
+    "language": "Rust",
+    "stars": 2732,
+    "forks": 150,
+    "starsInPeriod": 6
   },
   {
     "author": "rust-lang",
-    "name": "rustup",
-    "href": "https://github.com/rust-lang/rustup",
-    "description": "The Rust toolchain installer",
+    "name": "rustfmt",
+    "href": "https://github.com/rust-lang/rustfmt",
+    "description": "Format Rust code",
     "language": "Rust",
-    "stars": 3735,
-    "forks": 555,
-    "starsInPeriod": 2
+    "stars": 3304,
+    "forks": 543,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "LemmyNet",
+    "name": "lemmy",
+    "href": "https://github.com/LemmyNet/lemmy",
+    "description": "🐀 Building a federated alternative to reddit in rust",
+    "language": "Rust",
+    "stars": 4281,
+    "forks": 285,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "tower-rs",
+    "name": "tower",
+    "href": "https://github.com/tower-rs/tower",
+    "description": "async fn(Request) -> Result<Response, Error>",
+    "language": "Rust",
+    "stars": 1114,
+    "forks": 86,
+    "starsInPeriod": 4
   },
   {
     "author": "timberio",
@@ -235,18 +195,58 @@
     "href": "https://github.com/timberio/vector",
     "description": "High-performance, vendor-neutral observability pipelines.",
     "language": "Rust",
-    "stars": 5564,
-    "forks": 347,
-    "starsInPeriod": 13
+    "stars": 5571,
+    "forks": 346,
+    "starsInPeriod": 12
   },
   {
-    "author": "yvt",
-    "name": "r3",
-    "href": "https://github.com/yvt/r3",
-    "description": "Experimental static RTOS testing the limit of Rust's const eval and generics, supporting Arm A-/M-profile and RISC-V",
+    "author": "bytecodealliance",
+    "name": "lucet",
+    "href": "https://github.com/bytecodealliance/lucet",
+    "description": "Lucet, the Sandboxing WebAssembly Compiler.",
     "language": "Rust",
-    "stars": 52,
-    "forks": 1,
-    "starsInPeriod": 8
+    "stars": 3407,
+    "forks": 137,
+    "starsInPeriod": 21
+  },
+  {
+    "author": "graphql-rust",
+    "name": "juniper",
+    "href": "https://github.com/graphql-rust/juniper",
+    "description": "GraphQL server library for Rust",
+    "language": "Rust",
+    "stars": 3217,
+    "forks": 278,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "ivanceras",
+    "name": "sauron",
+    "href": "https://github.com/ivanceras/sauron",
+    "description": "Sauron is an html web framework for building web-apps. It is heavily inspired by elm.",
+    "language": "Rust",
+    "stars": 1143,
+    "forks": 25,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "danburkert",
+    "name": "prost",
+    "href": "https://github.com/danburkert/prost",
+    "description": "PROST! a Protocol Buffers implementation for the Rust Language",
+    "language": "Rust",
+    "stars": 1208,
+    "forks": 149,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "SergioBenitez",
+    "name": "Rocket",
+    "href": "https://github.com/SergioBenitez/Rocket",
+    "description": "A web framework for Rust.",
+    "language": "Rust",
+    "stars": 11822,
+    "forks": 782,
+    "starsInPeriod": 16
   }
 ]

@@ -5,28 +5,138 @@
     "href": "https://github.com/chatwoot/chatwoot",
     "description": "Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬",
     "language": "Ruby",
-    "stars": 4812,
-    "forks": 510,
-    "starsInPeriod": 44
+    "stars": 4871,
+    "forks": 512,
+    "starsInPeriod": 31
   },
   {
-    "author": "shrinerb",
-    "name": "shrine",
-    "href": "https://github.com/shrinerb/shrine",
-    "description": "File Attachment toolkit for Ruby applications",
+    "author": "rails",
+    "name": "rails",
+    "href": "https://github.com/rails/rails",
+    "description": "Ruby on Rails",
     "language": "Ruby",
-    "stars": 2735,
-    "forks": 222,
+    "stars": 46837,
+    "forks": 18834,
+    "starsInPeriod": 24
+  },
+  {
+    "author": "tootsuite",
+    "name": "mastodon",
+    "href": "https://github.com/tootsuite/mastodon",
+    "description": "Your self-hosted, globally interconnected microblogging community",
+    "language": "Ruby",
+    "stars": 22202,
+    "forks": 3783,
+    "starsInPeriod": 19
+  },
+  {
+    "author": "thoughtbot",
+    "name": "factory_bot",
+    "href": "https://github.com/thoughtbot/factory_bot",
+    "description": "A library for setting up Ruby objects as test data.",
+    "language": "Ruby",
+    "stars": 7022,
+    "forks": 2231,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "zammad",
+    "name": "zammad",
+    "href": "https://github.com/zammad/zammad",
+    "description": "Zammad is a web based open source helpdesk/customer support system",
+    "language": "Ruby",
+    "stars": 2337,
+    "forks": 466,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "fastlane",
+    "name": "fastlane",
+    "href": "https://github.com/fastlane/fastlane",
+    "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+    "language": "Ruby",
+    "stars": 30060,
+    "forks": 4712,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "freeCodeCamp",
+    "name": "devdocs",
+    "href": "https://github.com/freeCodeCamp/devdocs",
+    "description": "API Documentation Browser",
+    "language": "Ruby",
+    "stars": 24153,
+    "forks": 1636,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "hashicorp",
+    "name": "vagrant",
+    "href": "https://github.com/hashicorp/vagrant",
+    "description": "Vagrant is a tool for building and distributing development environments.",
+    "language": "Ruby",
+    "stars": 20916,
+    "forks": 4017,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "heartcombo",
+    "name": "devise",
+    "href": "https://github.com/heartcombo/devise",
+    "description": "Flexible authentication solution for Rails with Warden.",
+    "language": "Ruby",
+    "stars": 21208,
+    "forks": 5102,
     "starsInPeriod": 2
   },
   {
-    "author": "simplecov-ruby",
-    "name": "simplecov",
-    "href": "https://github.com/simplecov-ruby/simplecov",
-    "description": "Code coverage for Ruby with a powerful configuration library and automatic merging of coverage across test suites",
+    "author": "alexeygrigorev",
+    "name": "data-science-interviews",
+    "href": "https://github.com/alexeygrigorev/data-science-interviews",
+    "description": "Data science interview questions and answers",
     "language": "Ruby",
-    "stars": 4121,
-    "forks": 487,
+    "stars": 3576,
+    "forks": 680,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "decidim",
+    "name": "decidim",
+    "href": "https://github.com/decidim/decidim",
+    "description": "The participatory democracy framework. A generator and multiple gems made with Ruby on Rails",
+    "language": "Ruby",
+    "stars": 806,
+    "forks": 253,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "github",
+    "name": "linguist",
+    "href": "https://github.com/github/linguist",
+    "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
+    "language": "Ruby",
+    "stars": 8185,
+    "forks": 2963,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "rmosolgo",
+    "name": "graphql-ruby",
+    "href": "https://github.com/rmosolgo/graphql-ruby",
+    "description": "Ruby implementation of GraphQL",
+    "language": "Ruby",
+    "stars": 4484,
+    "forks": 1000,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "thoughtbot",
+    "name": "administrate",
+    "href": "https://github.com/thoughtbot/administrate",
+    "description": "A Rails engine that helps you put together a super-flexible admin dashboard.",
+    "language": "Ruby",
+    "stars": 4926,
+    "forks": 901,
     "starsInPeriod": 2
   },
   {
@@ -35,69 +145,19 @@
     "href": "https://github.com/spree/spree",
     "description": "Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:",
     "language": "Ruby",
-    "stars": 10751,
+    "stars": 10753,
     "forks": 4590,
     "starsInPeriod": 3
   },
   {
-    "author": "thoughtbot",
-    "name": "factory_bot",
-    "href": "https://github.com/thoughtbot/factory_bot",
-    "description": "A library for setting up Ruby objects as test data.",
+    "author": "aws",
+    "name": "aws-sdk-ruby",
+    "href": "https://github.com/aws/aws-sdk-ruby",
+    "description": "The official AWS SDK for Ruby.",
     "language": "Ruby",
-    "stars": 7024,
-    "forks": 2231,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "hashicorp",
-    "name": "vagrant",
-    "href": "https://github.com/hashicorp/vagrant",
-    "description": "Vagrant is a tool for building and distributing development environments.",
-    "language": "Ruby",
-    "stars": 20911,
-    "forks": 4016,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "rubocop-hq",
-    "name": "rubocop",
-    "href": "https://github.com/rubocop-hq/rubocop",
-    "description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
-    "language": "Ruby",
-    "stars": 11139,
-    "forks": 2527,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "fluent",
-    "name": "fluentd",
-    "href": "https://github.com/fluent/fluentd",
-    "description": "Fluentd: Unified Logging Layer (project under CNCF)",
-    "language": "Ruby",
-    "stars": 9685,
-    "forks": 1115,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "Homebrew",
-    "name": "brew",
-    "href": "https://github.com/Homebrew/brew",
-    "description": "🍺 The missing package manager for macOS (or Linux)",
-    "language": "Ruby",
-    "stars": 23544,
-    "forks": 5527,
-    "starsInPeriod": 20
-  },
-  {
-    "author": "thoughtbot",
-    "name": "paperclip",
-    "href": "https://github.com/thoughtbot/paperclip",
-    "description": "Easy file attachment management for ActiveRecord",
-    "language": "Ruby",
-    "stars": 9065,
-    "forks": 2099,
-    "starsInPeriod": 0
+    "stars": 3180,
+    "forks": 1080,
+    "starsInPeriod": 1
   },
   {
     "author": "CocoaPods",
@@ -105,59 +165,9 @@
     "href": "https://github.com/CocoaPods/CocoaPods",
     "description": "The Cocoa Dependency Manager.",
     "language": "Ruby",
-    "stars": 12792,
+    "stars": 12791,
     "forks": 2326,
     "starsInPeriod": 1
-  },
-  {
-    "author": "luggit",
-    "name": "react-native-config",
-    "href": "https://github.com/luggit/react-native-config",
-    "description": "Bring some 12 factor love to your mobile apps!",
-    "language": "Ruby",
-    "stars": 3352,
-    "forks": 543,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "solidusio",
-    "name": "solidus",
-    "href": "https://github.com/solidusio/solidus",
-    "description": "🛒Solidus, Rails eCommerce System",
-    "language": "Ruby",
-    "stars": 3340,
-    "forks": 982,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "fastlane",
-    "name": "fastlane",
-    "href": "https://github.com/fastlane/fastlane",
-    "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
-    "language": "Ruby",
-    "stars": 30056,
-    "forks": 4712,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "sorbet",
-    "name": "sorbet",
-    "href": "https://github.com/sorbet/sorbet",
-    "description": "A fast, powerful type checker designed for Ruby",
-    "language": "Ruby",
-    "stars": 2439,
-    "forks": 240,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "ctran",
-    "name": "annotate_models",
-    "href": "https://github.com/ctran/annotate_models",
-    "description": "Annotate Rails classes with schema and routes info",
-    "language": "Ruby",
-    "stars": 3585,
-    "forks": 462,
-    "starsInPeriod": 0
   },
   {
     "author": "doorkeeper-gem",
@@ -165,88 +175,78 @@
     "href": "https://github.com/doorkeeper-gem/doorkeeper",
     "description": "Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.",
     "language": "Ruby",
-    "stars": 4681,
+    "stars": 4682,
     "forks": 956,
-    "starsInPeriod": 0
-  },
-  {
-    "author": "Homebrew",
-    "name": "homebrew-bundle",
-    "href": "https://github.com/Homebrew/homebrew-bundle",
-    "description": "📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.",
-    "language": "Ruby",
-    "stars": 3413,
-    "forks": 211,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "onelogin",
-    "name": "ruby-saml",
-    "href": "https://github.com/onelogin/ruby-saml",
-    "description": "SAML SSO for Ruby",
-    "language": "Ruby",
-    "stars": 726,
-    "forks": 509,
-    "starsInPeriod": 0
-  },
-  {
-    "author": "zdennis",
-    "name": "activerecord-import",
-    "href": "https://github.com/zdennis/activerecord-import",
-    "description": "A library for bulk insertion of data into your database using ActiveRecord.",
-    "language": "Ruby",
-    "stars": 3373,
-    "forks": 559,
     "starsInPeriod": 1
   },
   {
-    "author": "rails",
-    "name": "rails",
-    "href": "https://github.com/rails/rails",
-    "description": "Ruby on Rails",
+    "author": "github",
+    "name": "view_component",
+    "href": "https://github.com/github/view_component",
+    "description": "A framework for building reusable, testable & encapsulated view components in Ruby on Rails.",
     "language": "Ruby",
-    "stars": 46809,
-    "forks": 18830,
-    "starsInPeriod": 13
+    "stars": 1283,
+    "forks": 140,
+    "starsInPeriod": 5
   },
   {
-    "author": "MeetYouDevs",
-    "name": "cocoapods-imy-bin",
-    "href": "https://github.com/MeetYouDevs/cocoapods-imy-bin",
-    "description": null,
+    "author": "ilyakatz",
+    "name": "data-migrate",
+    "href": "https://github.com/ilyakatz/data-migrate",
+    "description": "Migrate and update data alongside your database structure.",
     "language": "Ruby",
-    "stars": 269,
-    "forks": 54,
-    "starsInPeriod": 13
+    "stars": 721,
+    "forks": 122,
+    "starsInPeriod": 3
   },
   {
-    "author": "ytti",
-    "name": "oxidized",
-    "href": "https://github.com/ytti/oxidized",
-    "description": "Oxidized is a network device configuration backup tool. It's a RANCID replacement!",
+    "author": "chef",
+    "name": "chef",
+    "href": "https://github.com/chef/chef",
+    "description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale",
     "language": "Ruby",
-    "stars": 1563,
-    "forks": 605,
+    "stars": 6395,
+    "forks": 2458,
     "starsInPeriod": 2
   },
   {
-    "author": "alexreisner",
-    "name": "geocoder",
-    "href": "https://github.com/alexreisner/geocoder",
-    "description": "Complete Ruby geocoding solution.",
+    "author": "teamcapybara",
+    "name": "capybara",
+    "href": "https://github.com/teamcapybara/capybara",
+    "description": "Acceptance test framework for web applications",
     "language": "Ruby",
-    "stars": 5757,
-    "forks": 1112,
-    "starsInPeriod": 1
+    "stars": 9229,
+    "forks": 1362,
+    "starsInPeriod": 2
   },
   {
-    "author": "faker-ruby",
-    "name": "faker",
-    "href": "https://github.com/faker-ruby/faker",
-    "description": "A library for generating fake data such as names, addresses, and phone numbers.",
+    "author": "varvet",
+    "name": "pundit",
+    "href": "https://github.com/varvet/pundit",
+    "description": "Minimal authorization through OO design and pure Ruby classes",
     "language": "Ruby",
-    "stars": 8972,
-    "forks": 2504,
-    "starsInPeriod": 2
+    "stars": 7074,
+    "forks": 545,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "Shopify",
+    "name": "liquid",
+    "href": "https://github.com/Shopify/liquid",
+    "description": "Liquid markup language. Safe, customer facing template language for flexible web apps.",
+    "language": "Ruby",
+    "stars": 8251,
+    "forks": 1082,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "norman",
+    "name": "friendly_id",
+    "href": "https://github.com/norman/friendly_id",
+    "description": "FriendlyId is the “Swiss Army bulldozer” of slugging and permalink plugins for ActiveRecord. It allows you to create pretty URL’s and work with human-friendly strings as if they were numeric ids for ActiveRecord models.",
+    "language": "Ruby",
+    "stars": 5547,
+    "forks": 574,
+    "starsInPeriod": 0
   }
 ]
