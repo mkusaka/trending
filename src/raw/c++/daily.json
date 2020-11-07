@@ -5,9 +5,9 @@
     "href": "https://github.com/tdlib/telegram-bot-api",
     "description": null,
     "language": "C++",
-    "stars": 355,
-    "forks": 34,
-    "starsInPeriod": 66
+    "stars": 434,
+    "forks": 39,
+    "starsInPeriod": 75
   },
   {
     "author": "google",
@@ -15,9 +15,9 @@
     "href": "https://github.com/google/googletest",
     "description": "Googletest - Google Testing and Mocking Framework",
     "language": "C++",
-    "stars": 18542,
+    "stars": 18584,
     "forks": 6766,
-    "starsInPeriod": 43
+    "starsInPeriod": 48
   },
   {
     "author": "microsoft",
@@ -25,29 +25,29 @@
     "href": "https://github.com/microsoft/onnxruntime",
     "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
     "language": "C++",
-    "stars": 3519,
+    "stars": 3556,
     "forks": 813,
-    "starsInPeriod": 27
+    "starsInPeriod": 39
   },
   {
-    "author": "facebookresearch",
-    "name": "faiss",
-    "href": "https://github.com/facebookresearch/faiss",
-    "description": "A library for efficient similarity search and clustering of dense vectors.",
+    "author": "typesense",
+    "name": "typesense",
+    "href": "https://github.com/typesense/typesense",
+    "description": "Fast, typo tolerant search engine for building delightful search experiences.",
     "language": "C++",
-    "stars": 11408,
-    "forks": 2009,
-    "starsInPeriod": 37
+    "stars": 3378,
+    "forks": 76,
+    "starsInPeriod": 148
   },
   {
-    "author": "protocolbuffers",
-    "name": "protobuf",
-    "href": "https://github.com/protocolbuffers/protobuf",
-    "description": "Protocol Buffers - Google's data interchange format",
+    "author": "apache",
+    "name": "incubator-brpc",
+    "href": "https://github.com/apache/incubator-brpc",
+    "description": "Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services. \"brpc\" means \"better RPC\".",
     "language": "C++",
-    "stars": 44640,
-    "forks": 11989,
-    "starsInPeriod": 22
+    "stars": 10752,
+    "forks": 2656,
+    "starsInPeriod": 33
   },
   {
     "author": "Light-City",
@@ -55,39 +55,69 @@
     "href": "https://github.com/Light-City/CPlusPlusThings",
     "description": "C++那些事",
     "language": "C++",
-    "stars": 7792,
-    "forks": 1782,
+    "stars": 7807,
+    "forks": 1787,
+    "starsInPeriod": 37
+  },
+  {
+    "author": "facebookresearch",
+    "name": "faiss",
+    "href": "https://github.com/facebookresearch/faiss",
+    "description": "A library for efficient similarity search and clustering of dense vectors.",
+    "language": "C++",
+    "stars": 11451,
+    "forks": 2010,
+    "starsInPeriod": 69
+  },
+  {
+    "author": "citizenfx",
+    "name": "fivem",
+    "href": "https://github.com/citizenfx/fivem",
+    "description": "The source code for the FiveM modification framework for GTA V.",
+    "language": "C++",
+    "stars": 1519,
+    "forks": 748,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "oneapi-src",
+    "name": "oneDNN",
+    "href": "https://github.com/oneapi-src/oneDNN",
+    "description": "oneAPI Deep Neural Network Library (oneDNN)",
+    "language": "C++",
+    "stars": 2133,
+    "forks": 568,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "gflags",
+    "name": "gflags",
+    "href": "https://github.com/gflags/gflags",
+    "description": "The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source file in which they are used. Online documentation available at:",
+    "language": "C++",
+    "stars": 1889,
+    "forks": 638,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "cms-sw",
+    "name": "cmssw",
+    "href": "https://github.com/cms-sw/cmssw",
+    "description": "CMS Offline Software",
+    "language": "C++",
+    "stars": 760,
+    "forks": 3373,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "bitcoin",
+    "name": "bitcoin",
+    "href": "https://github.com/bitcoin/bitcoin",
+    "description": "Bitcoin Core integration/staging tree",
+    "language": "C++",
+    "stars": 45811,
+    "forks": 26577,
     "starsInPeriod": 31
-  },
-  {
-    "author": "musescore",
-    "name": "MuseScore",
-    "href": "https://github.com/musescore/MuseScore",
-    "description": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",
-    "language": "C++",
-    "stars": 5229,
-    "forks": 1506,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "tensorflow",
-    "name": "tensorflow",
-    "href": "https://github.com/tensorflow/tensorflow",
-    "description": "An Open Source Machine Learning Framework for Everyone",
-    "language": "C++",
-    "stars": 149883,
-    "forks": 83151,
-    "starsInPeriod": 50
-  },
-  {
-    "author": "TheAlgorithms",
-    "name": "C-Plus-Plus",
-    "href": "https://github.com/TheAlgorithms/C-Plus-Plus",
-    "description": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
-    "language": "C++",
-    "stars": 9029,
-    "forks": 3072,
-    "starsInPeriod": 17
   },
   {
     "author": "pybind",
@@ -95,158 +125,128 @@
     "href": "https://github.com/pybind/pybind11",
     "description": "Seamless operability between C++11 and Python",
     "language": "C++",
-    "stars": 8213,
-    "forks": 1165,
+    "stars": 8215,
+    "forks": 1166,
     "starsInPeriod": 6
   },
   {
-    "author": "brave",
-    "name": "brave-core",
-    "href": "https://github.com/brave/brave-core",
-    "description": "Core engine for the Brave browser for macOS, Windows, Linux, Android. For the issue log, please see https://github.com/brave/brave-browser",
+    "author": "ValveSoftware",
+    "name": "Proton",
+    "href": "https://github.com/ValveSoftware/Proton",
+    "description": "Compatibility tool for Steam Play based on Wine and additional components",
     "language": "C++",
-    "stars": 899,
-    "forks": 288,
-    "starsInPeriod": 6
+    "stars": 12318,
+    "forks": 488,
+    "starsInPeriod": 15
+  },
+  {
+    "author": "taichi-dev",
+    "name": "taichi",
+    "href": "https://github.com/taichi-dev/taichi",
+    "description": "Productive & portable programming language for high-performance, sparse & differentiable computing on GPUs",
+    "language": "C++",
+    "stars": 12495,
+    "forks": 1347,
+    "starsInPeriod": 12
   },
   {
     "author": "google",
-    "name": "re2",
-    "href": "https://github.com/google/re2",
-    "description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",
+    "name": "glog",
+    "href": "https://github.com/google/glog",
+    "description": "C++ implementation of the Google logging module",
     "language": "C++",
-    "stars": 5224,
-    "forks": 782,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "facebook",
-    "name": "folly",
-    "href": "https://github.com/facebook/folly",
-    "description": "An open-source C++ library developed and used at Facebook.",
-    "language": "C++",
-    "stars": 15817,
-    "forks": 3742,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "tesseract-ocr",
-    "name": "tesseract",
-    "href": "https://github.com/tesseract-ocr/tesseract",
-    "description": "Tesseract Open Source OCR Engine (main repository)",
-    "language": "C++",
-    "stars": 37126,
-    "forks": 6872,
-    "starsInPeriod": 13
-  },
-  {
-    "author": "tdlib",
-    "name": "td",
-    "href": "https://github.com/tdlib/td",
-    "description": "Cross-platform library for building Telegram clients",
-    "language": "C++",
-    "stars": 3014,
-    "forks": 614,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "ouyanghuiyu",
-    "name": "chineseocr_lite",
-    "href": "https://github.com/ouyanghuiyu/chineseocr_lite",
-    "description": "超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M",
-    "language": "C++",
-    "stars": 5859,
-    "forks": 1163,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "google",
-    "name": "flatbuffers",
-    "href": "https://github.com/google/flatbuffers",
-    "description": "FlatBuffers: Memory Efficient Serialization Library",
-    "language": "C++",
-    "stars": 15277,
-    "forks": 2357,
+    "stars": 4118,
+    "forks": 1575,
     "starsInPeriod": 3
   },
   {
-    "author": "cmu-db",
-    "name": "noisepage",
-    "href": "https://github.com/cmu-db/noisepage",
-    "description": "Self-Driving Database Management System from Carnegie Mellon University",
+    "author": "microsoft",
+    "name": "LightGBM",
+    "href": "https://github.com/microsoft/LightGBM",
+    "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.",
     "language": "C++",
-    "stars": 842,
-    "forks": 295,
-    "starsInPeriod": 68
+    "stars": 11743,
+    "forks": 3099,
+    "starsInPeriod": 7
   },
   {
-    "author": "pytorch",
-    "name": "pytorch",
-    "href": "https://github.com/pytorch/pytorch",
-    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "author": "rui314",
+    "name": "mold",
+    "href": "https://github.com/rui314/mold",
+    "description": "mold: A Modern Linker",
     "language": "C++",
-    "stars": 43670,
-    "forks": 11480,
-    "starsInPeriod": 41
-  },
-  {
-    "author": "opencv",
-    "name": "opencv",
-    "href": "https://github.com/opencv/opencv",
-    "description": "Open Source Computer Vision Library",
-    "language": "C++",
-    "stars": 49870,
-    "forks": 40455,
+    "stars": 206,
+    "forks": 2,
     "starsInPeriod": 27
   },
   {
-    "author": "haoel",
-    "name": "leetcode",
-    "href": "https://github.com/haoel/leetcode",
-    "description": "LeetCode Problems' Solutions",
+    "author": "qgis",
+    "name": "QGIS",
+    "href": "https://github.com/qgis/QGIS",
+    "description": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)",
     "language": "C++",
-    "stars": 14016,
-    "forks": 4251,
+    "stars": 4063,
+    "forks": 1889,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "abseil",
+    "name": "abseil-cpp",
+    "href": "https://github.com/abseil/abseil-cpp",
+    "description": "Abseil Common Libraries (C++)",
+    "language": "C++",
+    "stars": 7664,
+    "forks": 1411,
     "starsInPeriod": 4
   },
   {
-    "author": "ocornut",
-    "name": "imgui",
-    "href": "https://github.com/ocornut/imgui",
-    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "author": "mavlink",
+    "name": "qgroundcontrol",
+    "href": "https://github.com/mavlink/qgroundcontrol",
+    "description": "Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)",
     "language": "C++",
-    "stars": 24691,
-    "forks": 4122,
-    "starsInPeriod": 100
+    "stars": 1657,
+    "forks": 2207,
+    "starsInPeriod": 2
   },
   {
-    "author": "apache",
-    "name": "arrow",
-    "href": "https://github.com/apache/arrow",
-    "description": "Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…",
+    "author": "llvm",
+    "name": "llvm-project",
+    "href": "https://github.com/llvm/llvm-project",
+    "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.",
     "language": "C++",
-    "stars": 6431,
-    "forks": 1633,
-    "starsInPeriod": 10
+    "stars": 6531,
+    "forks": 2577,
+    "starsInPeriod": 18
   },
   {
-    "author": "ethereum",
-    "name": "solidity",
-    "href": "https://github.com/ethereum/solidity",
-    "description": "Solidity, the Contract-Oriented Programming Language",
+    "author": "dmlc",
+    "name": "xgboost",
+    "href": "https://github.com/dmlc/xgboost",
+    "description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
     "language": "C++",
-    "stars": 8489,
-    "forks": 2392,
-    "starsInPeriod": 8
+    "stars": 20076,
+    "forks": 7803,
+    "starsInPeriod": 5
   },
   {
-    "author": "triton-inference-server",
-    "name": "server",
-    "href": "https://github.com/triton-inference-server/server",
-    "description": "The Triton Inference Server provides an optimized cloud and edge inferencing solution.",
+    "author": "Tencent",
+    "name": "ncnn",
+    "href": "https://github.com/Tencent/ncnn",
+    "description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
     "language": "C++",
-    "stars": 1522,
-    "forks": 322,
-    "starsInPeriod": 7
+    "stars": 10013,
+    "forks": 2548,
+    "starsInPeriod": 25
+  },
+  {
+    "author": "SpiderLabs",
+    "name": "ModSecurity",
+    "href": "https://github.com/SpiderLabs/ModSecurity",
+    "description": "ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…",
+    "language": "C++",
+    "stars": 3912,
+    "forks": 1059,
+    "starsInPeriod": 3
   }
 ]

@@ -5,47 +5,47 @@
   - Googletest - Google Testing and Mocking Framework
 - [onnxruntime](https://github.com/microsoft/onnxruntime)
   - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
-- [faiss](https://github.com/facebookresearch/faiss)
-  - A library for efficient similarity search and clustering of dense vectors.
-- [protobuf](https://github.com/protocolbuffers/protobuf)
-  - Protocol Buffers - Google's data interchange format
+- [typesense](https://github.com/typesense/typesense)
+  - Fast, typo tolerant search engine for building delightful search experiences.
+- [incubator-brpc](https://github.com/apache/incubator-brpc)
+  - Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services. "brpc" means "better RPC".
 - [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
   - C++那些事
-- [MuseScore](https://github.com/musescore/MuseScore)
-  - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
-  - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
+- [faiss](https://github.com/facebookresearch/faiss)
+  - A library for efficient similarity search and clustering of dense vectors.
+- [fivem](https://github.com/citizenfx/fivem)
+  - The source code for the FiveM modification framework for GTA V.
+- [oneDNN](https://github.com/oneapi-src/oneDNN)
+  - oneAPI Deep Neural Network Library (oneDNN)
+- [gflags](https://github.com/gflags/gflags)
+  - The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source file in which they are used. Online documentation available at:
+- [cmssw](https://github.com/cms-sw/cmssw)
+  - CMS Offline Software
+- [bitcoin](https://github.com/bitcoin/bitcoin)
+  - Bitcoin Core integration/staging tree
 - [pybind11](https://github.com/pybind/pybind11)
   - Seamless operability between C++11 and Python
-- [brave-core](https://github.com/brave/brave-core)
-  - Core engine for the Brave browser for macOS, Windows, Linux, Android. For the issue log, please see https://github.com/brave/brave-browser
-- [re2](https://github.com/google/re2)
-  - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
-- [folly](https://github.com/facebook/folly)
-  - An open-source C++ library developed and used at Facebook.
-- [tesseract](https://github.com/tesseract-ocr/tesseract)
-  - Tesseract Open Source OCR Engine (main repository)
-- [td](https://github.com/tdlib/td)
-  - Cross-platform library for building Telegram clients
-- [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite)
-  - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
-- [flatbuffers](https://github.com/google/flatbuffers)
-  - FlatBuffers: Memory Efficient Serialization Library
-- [noisepage](https://github.com/cmu-db/noisepage)
-  - Self-Driving Database Management System from Carnegie Mellon University
-- [pytorch](https://github.com/pytorch/pytorch)
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [opencv](https://github.com/opencv/opencv)
-  - Open Source Computer Vision Library
-- [leetcode](https://github.com/haoel/leetcode)
-  - LeetCode Problems' Solutions
-- [imgui](https://github.com/ocornut/imgui)
-  - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-- [arrow](https://github.com/apache/arrow)
-  - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…
-- [solidity](https://github.com/ethereum/solidity)
-  - Solidity, the Contract-Oriented Programming Language
-- [server](https://github.com/triton-inference-server/server)
-  - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
+- [Proton](https://github.com/ValveSoftware/Proton)
+  - Compatibility tool for Steam Play based on Wine and additional components
+- [taichi](https://github.com/taichi-dev/taichi)
+  - Productive & portable programming language for high-performance, sparse & differentiable computing on GPUs
+- [glog](https://github.com/google/glog)
+  - C++ implementation of the Google logging module
+- [LightGBM](https://github.com/microsoft/LightGBM)
+  - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
+- [mold](https://github.com/rui314/mold)
+  - mold: A Modern Linker
+- [QGIS](https://github.com/qgis/QGIS)
+  - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
+- [abseil-cpp](https://github.com/abseil/abseil-cpp)
+  - Abseil Common Libraries (C++)
+- [qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
+  - Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)
+- [llvm-project](https://github.com/llvm/llvm-project)
+  - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
+- [xgboost](https://github.com/dmlc/xgboost)
+  - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
+- [ncnn](https://github.com/Tencent/ncnn)
+  - ncnn is a high-performance neural network inference framework optimized for the mobile platform
+- [ModSecurity](https://github.com/SpiderLabs/ModSecurity)
+  - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…

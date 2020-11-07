@@ -1,183 +1,53 @@
 [
   {
-    "author": "GitSquared",
-    "name": "edex-ui",
-    "href": "https://github.com/GitSquared/edex-ui",
-    "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "author": "socketio",
+    "name": "socket.io",
+    "href": "https://github.com/socketio/socket.io",
+    "description": "Realtime application framework (Node.JS server)",
     "language": "JavaScript",
-    "stars": 21825,
-    "forks": 1199,
-    "starsInPeriod": 551
+    "stars": 51142,
+    "forks": 9297,
+    "starsInPeriod": 25
   },
   {
-    "author": "lxk0301",
-    "name": "scripts",
-    "href": "https://github.com/lxk0301/scripts",
-    "description": "京东薅羊毛工具, 京东水果、宠物、种豆等等",
+    "author": "laurent22",
+    "name": "joplin",
+    "href": "https://github.com/laurent22/joplin",
+    "description": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
     "language": "JavaScript",
-    "stars": 2268,
-    "forks": 2656,
-    "starsInPeriod": 134
+    "stars": 18667,
+    "forks": 1921,
+    "starsInPeriod": 62
   },
   {
-    "author": "artf",
-    "name": "grapesjs",
-    "href": "https://github.com/artf/grapesjs",
-    "description": "Free and Open source Web Builder Framework. Next generation tool for building templates without coding",
+    "author": "denysdovhan",
+    "name": "wtfjs",
+    "href": "https://github.com/denysdovhan/wtfjs",
+    "description": "🤪 A list of funny and tricky JavaScript examples",
     "language": "JavaScript",
-    "stars": 12047,
-    "forks": 2250,
+    "stars": 19253,
+    "forks": 1256,
+    "starsInPeriod": 149
+  },
+  {
+    "author": "facebook",
+    "name": "react",
+    "href": "https://github.com/facebook/react",
+    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "language": "JavaScript",
+    "stars": 158658,
+    "forks": 31469,
+    "starsInPeriod": 85
+  },
+  {
+    "author": "plotly",
+    "name": "plotly.js",
+    "href": "https://github.com/plotly/plotly.js",
+    "description": "Open-source JavaScript charting library behind Plotly and Dash",
+    "language": "JavaScript",
+    "stars": 12423,
+    "forks": 1461,
     "starsInPeriod": 12
-  },
-  {
-    "author": "RocketChat",
-    "name": "Rocket.Chat",
-    "href": "https://github.com/RocketChat/Rocket.Chat",
-    "description": "The ultimate Free Open Source Solution for team communications.",
-    "language": "JavaScript",
-    "stars": 28653,
-    "forks": 6258,
-    "starsInPeriod": 14
-  },
-  {
-    "author": "AMAI-GmbH",
-    "name": "AI-Expert-Roadmap",
-    "href": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
-    "description": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
-    "language": "JavaScript",
-    "stars": 3913,
-    "forks": 288,
-    "starsInPeriod": 551
-  },
-  {
-    "author": "algorithm-visualizer",
-    "name": "algorithm-visualizer",
-    "href": "https://github.com/algorithm-visualizer/algorithm-visualizer",
-    "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
-    "language": "JavaScript",
-    "stars": 32452,
-    "forks": 5394,
-    "starsInPeriod": 127
-  },
-  {
-    "author": "pedroslopez",
-    "name": "whatsapp-web.js",
-    "href": "https://github.com/pedroslopez/whatsapp-web.js",
-    "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
-    "language": "JavaScript",
-    "stars": 1155,
-    "forks": 342,
-    "starsInPeriod": 16
-  },
-  {
-    "author": "ryanmcdermott",
-    "name": "clean-code-javascript",
-    "href": "https://github.com/ryanmcdermott/clean-code-javascript",
-    "description": "🛁 Clean Code concepts adapted for JavaScript",
-    "language": "JavaScript",
-    "stars": 40017,
-    "forks": 4870,
-    "starsInPeriod": 27
-  },
-  {
-    "author": "ffmpegwasm",
-    "name": "ffmpeg.wasm",
-    "href": "https://github.com/ffmpegwasm/ffmpeg.wasm",
-    "description": "FFmpeg for browser and node, powered by WebAssembly",
-    "language": "JavaScript",
-    "stars": 2115,
-    "forks": 87,
-    "starsInPeriod": 266
-  },
-  {
-    "author": "kenwheeler",
-    "name": "slick",
-    "href": "https://github.com/kenwheeler/slick",
-    "description": "the last carousel you'll ever need",
-    "language": "JavaScript",
-    "stars": 26208,
-    "forks": 5431,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "quilljs",
-    "name": "quill",
-    "href": "https://github.com/quilljs/quill",
-    "description": "Quill is a modern WYSIWYG editor built for compatibility and extensibility.",
-    "language": "JavaScript",
-    "stars": 28055,
-    "forks": 2295,
-    "starsInPeriod": 33
-  },
-  {
-    "author": "oblador",
-    "name": "react-native-vector-icons",
-    "href": "https://github.com/oblador/react-native-vector-icons",
-    "description": "Customizable Icons for React Native with support for NavBar/TabBar, image source and full styling.",
-    "language": "JavaScript",
-    "stars": 14075,
-    "forks": 1698,
-    "starsInPeriod": 9
-  },
-  {
-    "author": "fluid-dev",
-    "name": "hexo-theme-fluid",
-    "href": "https://github.com/fluid-dev/hexo-theme-fluid",
-    "description": "🌊 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo",
-    "language": "JavaScript",
-    "stars": 1867,
-    "forks": 298,
-    "starsInPeriod": 13
-  },
-  {
-    "author": "nolimits4web",
-    "name": "swiper",
-    "href": "https://github.com/nolimits4web/swiper",
-    "description": "Most modern mobile touch slider with hardware accelerated transitions",
-    "language": "JavaScript",
-    "stars": 25226,
-    "forks": 9205,
-    "starsInPeriod": 21
-  },
-  {
-    "author": "leecade",
-    "name": "react-native-swiper",
-    "href": "https://github.com/leecade/react-native-swiper",
-    "description": "The best Swiper component for React Native.",
-    "language": "JavaScript",
-    "stars": 9230,
-    "forks": 2181,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "airbnb",
-    "name": "javascript",
-    "href": "https://github.com/airbnb/javascript",
-    "description": "JavaScript Style Guide",
-    "language": "JavaScript",
-    "stars": 101158,
-    "forks": 19686,
-    "starsInPeriod": 32
-  },
-  {
-    "author": "NodeBB",
-    "name": "NodeBB",
-    "href": "https://github.com/NodeBB/NodeBB",
-    "description": "Node.js based forum software built for the modern web",
-    "language": "JavaScript",
-    "stars": 11441,
-    "forks": 2282,
-    "starsInPeriod": 11
-  },
-  {
-    "author": "MrRio",
-    "name": "jsPDF",
-    "href": "https://github.com/MrRio/jsPDF",
-    "description": "Client-side JavaScript PDF generation for everyone.",
-    "language": "JavaScript",
-    "stars": 20375,
-    "forks": 3824,
-    "starsInPeriod": 9
   },
   {
     "author": "github",
@@ -185,8 +55,178 @@
     "href": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "stars": 1443,
-    "forks": 2896,
+    "stars": 1453,
+    "forks": 2997,
+    "starsInPeriod": 22
+  },
+  {
+    "author": "Wilkolicious",
+    "name": "twitchAdSkip",
+    "href": "https://github.com/Wilkolicious/twitchAdSkip",
+    "description": null,
+    "language": "JavaScript",
+    "stars": 87,
+    "forks": 8,
+    "starsInPeriod": 39
+  },
+  {
+    "author": "markedjs",
+    "name": "marked",
+    "href": "https://github.com/markedjs/marked",
+    "description": "A markdown parser and compiler. Built for speed.",
+    "language": "JavaScript",
+    "stars": 23615,
+    "forks": 2919,
+    "starsInPeriod": 29
+  },
+  {
+    "author": "godaddy",
+    "name": "kubernetes-external-secrets",
+    "href": "https://github.com/godaddy/kubernetes-external-secrets",
+    "description": "Integrate external secret management systems with Kubernetes",
+    "language": "JavaScript",
+    "stars": 1286,
+    "forks": 188,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "openlayers",
+    "name": "openlayers",
+    "href": "https://github.com/openlayers/openlayers",
+    "description": "OpenLayers",
+    "language": "JavaScript",
+    "stars": 7483,
+    "forks": 2416,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "ryanmcdermott",
+    "name": "clean-code-javascript",
+    "href": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "description": "🛁 Clean Code concepts adapted for JavaScript",
+    "language": "JavaScript",
+    "stars": 40032,
+    "forks": 4875,
+    "starsInPeriod": 32
+  },
+  {
+    "author": "simple-icons",
+    "name": "simple-icons",
+    "href": "https://github.com/simple-icons/simple-icons",
+    "description": "SVG icons for popular brands",
+    "language": "JavaScript",
+    "stars": 9530,
+    "forks": 1256,
+    "starsInPeriod": 19
+  },
+  {
+    "author": "mongodb",
+    "name": "node-mongodb-native",
+    "href": "https://github.com/mongodb/node-mongodb-native",
+    "description": "The Official MongoDB Node.js Driver",
+    "language": "JavaScript",
+    "stars": 8763,
+    "forks": 1610,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "gregnb",
+    "name": "mui-datatables",
+    "href": "https://github.com/gregnb/mui-datatables",
+    "description": "Datatables for React using Material-UI - https://www.material-ui-datatables.com",
+    "language": "JavaScript",
+    "stars": 1720,
+    "forks": 625,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "fluid-dev",
+    "name": "hexo-theme-fluid",
+    "href": "https://github.com/fluid-dev/hexo-theme-fluid",
+    "description": "🌊 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo",
+    "language": "JavaScript",
+    "stars": 1874,
+    "forks": 302,
+    "starsInPeriod": 19
+  },
+  {
+    "author": "plouc",
+    "name": "nivo",
+    "href": "https://github.com/plouc/nivo",
+    "description": "nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries",
+    "language": "JavaScript",
+    "stars": 7722,
+    "forks": 584,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "pedroslopez",
+    "name": "whatsapp-web.js",
+    "href": "https://github.com/pedroslopez/whatsapp-web.js",
+    "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+    "language": "JavaScript",
+    "stars": 1164,
+    "forks": 341,
+    "starsInPeriod": 18
+  },
+  {
+    "author": "rphl",
+    "name": "corona-widget",
+    "href": "https://github.com/rphl/corona-widget",
+    "description": "COVID-19 Inzidenz-Widget für iOS innerhalb Deutschlands 🇩🇪 (Kreis/Stadt + Bundesland + Trend)",
+    "language": "JavaScript",
+    "stars": 152,
+    "forks": 24,
+    "starsInPeriod": 20
+  },
+  {
+    "author": "eligrey",
+    "name": "FileSaver.js",
+    "href": "https://github.com/eligrey/FileSaver.js",
+    "description": "An HTML5 saveAs() FileSaver implementation",
+    "language": "JavaScript",
+    "stars": 15309,
+    "forks": 3587,
+    "starsInPeriod": 18
+  },
+  {
+    "author": "mui-org",
+    "name": "material-ui",
+    "href": "https://github.com/mui-org/material-ui",
+    "description": "React components for faster and easier web development. Build your own design system, or start with Material Design.",
+    "language": "JavaScript",
+    "stars": 62239,
+    "forks": 18901,
+    "starsInPeriod": 37
+  },
+  {
+    "author": "AMAI-GmbH",
+    "name": "AI-Expert-Roadmap",
+    "href": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "description": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
+    "language": "JavaScript",
+    "stars": 4249,
+    "forks": 319,
+    "starsInPeriod": 620
+  },
+  {
+    "author": "nolimits4web",
+    "name": "swiper",
+    "href": "https://github.com/nolimits4web/swiper",
+    "description": "Most modern mobile touch slider with hardware accelerated transitions",
+    "language": "JavaScript",
+    "stars": 25242,
+    "forks": 9205,
+    "starsInPeriod": 32
+  },
+  {
+    "author": "chavyleung",
+    "name": "scripts",
+    "href": "https://github.com/chavyleung/scripts",
+    "description": null,
+    "language": "JavaScript",
+    "stars": 1566,
+    "forks": 534,
     "starsInPeriod": 14
   },
   {
@@ -195,58 +235,18 @@
     "href": "https://github.com/bvaughn/react-virtualized",
     "description": "React components for efficiently rendering large lists and tabular data",
     "language": "JavaScript",
-    "stars": 20331,
+    "stars": 20339,
     "forks": 2492,
-    "starsInPeriod": 20
+    "starsInPeriod": 22
   },
   {
-    "author": "laurent22",
-    "name": "joplin",
-    "href": "https://github.com/laurent22/joplin",
-    "description": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
+    "author": "greatsuspender",
+    "name": "thegreatsuspender",
+    "href": "https://github.com/greatsuspender/thegreatsuspender",
+    "description": "A chrome extension for suspending all tabs to free up memory",
     "language": "JavaScript",
-    "stars": 18636,
-    "forks": 1916,
-    "starsInPeriod": 42
-  },
-  {
-    "author": "fengyuanchen",
-    "name": "cropperjs",
-    "href": "https://github.com/fengyuanchen/cropperjs",
-    "description": "JavaScript image cropper.",
-    "language": "JavaScript",
-    "stars": 8401,
-    "forks": 1688,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "webrtc",
-    "name": "samples",
-    "href": "https://github.com/webrtc/samples",
-    "description": "WebRTC Web demos and samples",
-    "language": "JavaScript",
-    "stars": 9567,
-    "forks": 4412,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "openspug",
-    "name": "spug",
-    "href": "https://github.com/openspug/spug",
-    "description": "开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。",
-    "language": "JavaScript",
-    "stars": 4892,
-    "forks": 1018,
+    "stars": 3711,
+    "forks": 355,
     "starsInPeriod": 8
-  },
-  {
-    "author": "novnc",
-    "name": "noVNC",
-    "href": "https://github.com/novnc/noVNC",
-    "description": "VNC client web application",
-    "language": "JavaScript",
-    "stars": 7013,
-    "forks": 1468,
-    "starsInPeriod": 7
   }
 ]
