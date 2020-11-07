@@ -4,16 +4,6 @@ import { writeFileSync } from "fs";
 import { resolve } from "path";
 
 type Period = "daily" | "weekly" | "monthly";
-type Repository = {
-  author: string;
-  name: string;
-  href: string;
-  description: string | null;
-  language: string;
-  stars: number;
-  forks: number;
-  starsInPeriod: number | null;
-};
 
 const targetLanguages = [
   "go",
@@ -26,12 +16,12 @@ const targetLanguages = [
 ] as const;
 
 async function scraper(period: Period) {
-  const result = (await trending(period)) as Repository[];
+  const result = await trending(period);
   storeRawJsonFile("general", period, JSON.stringify(result, null, 2));
   delay(1000);
 
   targetLanguages.forEach(async (language) => {
-    const result = (await trending(period, language)) as Repository[];
+    const result = await trending(period, language);
     storeRawJsonFile(language, period, JSON.stringify(result, null, 2));
     delay(1000);
   });
