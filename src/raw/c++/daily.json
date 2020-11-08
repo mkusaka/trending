@@ -1,133 +1,23 @@
 [
   {
-    "author": "tdlib",
-    "name": "telegram-bot-api",
-    "href": "https://github.com/tdlib/telegram-bot-api",
-    "description": null,
+    "author": "MarlinFirmware",
+    "name": "Marlin",
+    "href": "https://github.com/MarlinFirmware/Marlin",
+    "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
     "language": "C++",
-    "stars": 434,
-    "forks": 39,
-    "starsInPeriod": 75
+    "stars": 8701,
+    "forks": 12210,
+    "starsInPeriod": 16
   },
   {
-    "author": "google",
-    "name": "googletest",
-    "href": "https://github.com/google/googletest",
-    "description": "Googletest - Google Testing and Mocking Framework",
+    "author": "cmu-snap",
+    "name": "pigasus",
+    "href": "https://github.com/cmu-snap/pigasus",
+    "description": "100Gbps Intrusion Detection and Prevention System",
     "language": "C++",
-    "stars": 18584,
-    "forks": 6766,
-    "starsInPeriod": 48
-  },
-  {
-    "author": "microsoft",
-    "name": "onnxruntime",
-    "href": "https://github.com/microsoft/onnxruntime",
-    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
-    "language": "C++",
-    "stars": 3556,
-    "forks": 813,
-    "starsInPeriod": 39
-  },
-  {
-    "author": "typesense",
-    "name": "typesense",
-    "href": "https://github.com/typesense/typesense",
-    "description": "Fast, typo tolerant search engine for building delightful search experiences.",
-    "language": "C++",
-    "stars": 3378,
-    "forks": 76,
-    "starsInPeriod": 148
-  },
-  {
-    "author": "apache",
-    "name": "incubator-brpc",
-    "href": "https://github.com/apache/incubator-brpc",
-    "description": "Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services. \"brpc\" means \"better RPC\".",
-    "language": "C++",
-    "stars": 10752,
-    "forks": 2656,
-    "starsInPeriod": 33
-  },
-  {
-    "author": "Light-City",
-    "name": "CPlusPlusThings",
-    "href": "https://github.com/Light-City/CPlusPlusThings",
-    "description": "C++那些事",
-    "language": "C++",
-    "stars": 7807,
-    "forks": 1787,
-    "starsInPeriod": 37
-  },
-  {
-    "author": "facebookresearch",
-    "name": "faiss",
-    "href": "https://github.com/facebookresearch/faiss",
-    "description": "A library for efficient similarity search and clustering of dense vectors.",
-    "language": "C++",
-    "stars": 11451,
-    "forks": 2010,
-    "starsInPeriod": 69
-  },
-  {
-    "author": "citizenfx",
-    "name": "fivem",
-    "href": "https://github.com/citizenfx/fivem",
-    "description": "The source code for the FiveM modification framework for GTA V.",
-    "language": "C++",
-    "stars": 1519,
-    "forks": 748,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "oneapi-src",
-    "name": "oneDNN",
-    "href": "https://github.com/oneapi-src/oneDNN",
-    "description": "oneAPI Deep Neural Network Library (oneDNN)",
-    "language": "C++",
-    "stars": 2133,
-    "forks": 568,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "gflags",
-    "name": "gflags",
-    "href": "https://github.com/gflags/gflags",
-    "description": "The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source file in which they are used. Online documentation available at:",
-    "language": "C++",
-    "stars": 1889,
-    "forks": 638,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "cms-sw",
-    "name": "cmssw",
-    "href": "https://github.com/cms-sw/cmssw",
-    "description": "CMS Offline Software",
-    "language": "C++",
-    "stars": 760,
-    "forks": 3373,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "bitcoin",
-    "name": "bitcoin",
-    "href": "https://github.com/bitcoin/bitcoin",
-    "description": "Bitcoin Core integration/staging tree",
-    "language": "C++",
-    "stars": 45811,
-    "forks": 26577,
-    "starsInPeriod": 31
-  },
-  {
-    "author": "pybind",
-    "name": "pybind11",
-    "href": "https://github.com/pybind/pybind11",
-    "description": "Seamless operability between C++11 and Python",
-    "language": "C++",
-    "stars": 8215,
-    "forks": 1166,
-    "starsInPeriod": 6
+    "stars": 217,
+    "forks": 23,
+    "starsInPeriod": 174
   },
   {
     "author": "ValveSoftware",
@@ -135,59 +25,159 @@
     "href": "https://github.com/ValveSoftware/Proton",
     "description": "Compatibility tool for Steam Play based on Wine and additional components",
     "language": "C++",
-    "stars": 12318,
-    "forks": 488,
-    "starsInPeriod": 15
-  },
-  {
-    "author": "taichi-dev",
-    "name": "taichi",
-    "href": "https://github.com/taichi-dev/taichi",
-    "description": "Productive & portable programming language for high-performance, sparse & differentiable computing on GPUs",
-    "language": "C++",
-    "stars": 12495,
-    "forks": 1347,
-    "starsInPeriod": 12
+    "stars": 12345,
+    "forks": 489,
+    "starsInPeriod": 24
   },
   {
     "author": "google",
-    "name": "glog",
-    "href": "https://github.com/google/glog",
-    "description": "C++ implementation of the Google logging module",
+    "name": "googletest",
+    "href": "https://github.com/google/googletest",
+    "description": "Googletest - Google Testing and Mocking Framework",
     "language": "C++",
-    "stars": 4118,
-    "forks": 1575,
-    "starsInPeriod": 3
+    "stars": 18624,
+    "forks": 6771,
+    "starsInPeriod": 108
   },
   {
-    "author": "microsoft",
-    "name": "LightGBM",
-    "href": "https://github.com/microsoft/LightGBM",
-    "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.",
+    "author": "Zielon",
+    "name": "PBRVulkan",
+    "href": "https://github.com/Zielon/PBRVulkan",
+    "description": "Vulkan Real-time Path Tracer Engine",
     "language": "C++",
-    "stars": 11743,
-    "forks": 3099,
+    "stars": 187,
+    "forks": 11,
+    "starsInPeriod": 184
+  },
+  {
+    "author": "RPCS3",
+    "name": "rpcs3",
+    "href": "https://github.com/RPCS3/rpcs3",
+    "description": "PS3 emulator/debugger",
+    "language": "C++",
+    "stars": 8476,
+    "forks": 1383,
     "starsInPeriod": 7
   },
   {
-    "author": "rui314",
-    "name": "mold",
-    "href": "https://github.com/rui314/mold",
-    "description": "mold: A Modern Linker",
+    "author": "microsoft",
+    "name": "onnxruntime",
+    "href": "https://github.com/microsoft/onnxruntime",
+    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
     "language": "C++",
-    "stars": 206,
-    "forks": 2,
-    "starsInPeriod": 27
+    "stars": 3590,
+    "forks": 813,
+    "starsInPeriod": 92
   },
   {
-    "author": "qgis",
-    "name": "QGIS",
-    "href": "https://github.com/qgis/QGIS",
-    "description": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)",
+    "author": "topjohnwu",
+    "name": "Magisk",
+    "href": "https://github.com/topjohnwu/Magisk",
+    "description": "The Magic Mask for Android",
     "language": "C++",
-    "stars": 4063,
-    "forks": 1889,
-    "starsInPeriod": 5
+    "stars": 14011,
+    "forks": 2305,
+    "starsInPeriod": 38
+  },
+  {
+    "author": "USTC-Hackergame",
+    "name": "hackergame2020-writeups",
+    "href": "https://github.com/USTC-Hackergame/hackergame2020-writeups",
+    "description": "中国科学技术大学第七届信息安全大赛的官方与非官方题解",
+    "language": "C++",
+    "stars": 133,
+    "forks": 35,
+    "starsInPeriod": 133
+  },
+  {
+    "author": "qbittorrent",
+    "name": "qBittorrent",
+    "href": "https://github.com/qbittorrent/qBittorrent",
+    "description": "qBittorrent BitTorrent client",
+    "language": "C++",
+    "stars": 10444,
+    "forks": 1882,
+    "starsInPeriod": 16
+  },
+  {
+    "author": "YosysHQ",
+    "name": "yosys",
+    "href": "https://github.com/YosysHQ/yosys",
+    "description": "Yosys Open SYnthesis Suite",
+    "language": "C++",
+    "stars": 1470,
+    "forks": 439,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "tdlib",
+    "name": "telegram-bot-api",
+    "href": "https://github.com/tdlib/telegram-bot-api",
+    "description": null,
+    "language": "C++",
+    "stars": 495,
+    "forks": 42,
+    "starsInPeriod": 179
+  },
+  {
+    "author": "telegramdesktop",
+    "name": "tdesktop",
+    "href": "https://github.com/telegramdesktop/tdesktop",
+    "description": "Telegram Desktop messaging app",
+    "language": "C++",
+    "stars": 13519,
+    "forks": 3030,
+    "starsInPeriod": 26
+  },
+  {
+    "author": "esphome",
+    "name": "esphome",
+    "href": "https://github.com/esphome/esphome",
+    "description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
+    "language": "C++",
+    "stars": 2363,
+    "forks": 649,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "bitcoin",
+    "name": "bitcoin",
+    "href": "https://github.com/bitcoin/bitcoin",
+    "description": "Bitcoin Core integration/staging tree",
+    "language": "C++",
+    "stars": 45826,
+    "forks": 26581,
+    "starsInPeriod": 48
+  },
+  {
+    "author": "PetoiCamp",
+    "name": "OpenCat",
+    "href": "https://github.com/PetoiCamp/OpenCat",
+    "description": "A programmable and highly maneuverable robotic cat for STEM education and AI-enhanced services.",
+    "language": "C++",
+    "stars": 1273,
+    "forks": 355,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "anonymous5l",
+    "name": "ncmdump",
+    "href": "https://github.com/anonymous5l/ncmdump",
+    "description": "netease cloud music copyright protection file dump",
+    "language": "C++",
+    "stars": 1931,
+    "forks": 339,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "microsoft",
+    "name": "PowerToys",
+    "href": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C++",
+    "stars": 41785,
+    "forks": 2260,
+    "starsInPeriod": 263
   },
   {
     "author": "abseil",
@@ -195,58 +185,68 @@
     "href": "https://github.com/abseil/abseil-cpp",
     "description": "Abseil Common Libraries (C++)",
     "language": "C++",
-    "stars": 7664,
-    "forks": 1411,
-    "starsInPeriod": 4
+    "stars": 7666,
+    "forks": 1413,
+    "starsInPeriod": 6
   },
   {
-    "author": "mavlink",
-    "name": "qgroundcontrol",
-    "href": "https://github.com/mavlink/qgroundcontrol",
-    "description": "Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)",
+    "author": "doitsujin",
+    "name": "dxvk",
+    "href": "https://github.com/doitsujin/dxvk",
+    "description": "Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine",
     "language": "C++",
-    "stars": 1657,
-    "forks": 2207,
-    "starsInPeriod": 2
+    "stars": 5684,
+    "forks": 278,
+    "starsInPeriod": 12
   },
   {
-    "author": "llvm",
-    "name": "llvm-project",
-    "href": "https://github.com/llvm/llvm-project",
-    "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.",
+    "author": "tdlib",
+    "name": "td",
+    "href": "https://github.com/tdlib/td",
+    "description": "Cross-platform library for building Telegram clients",
     "language": "C++",
-    "stars": 6531,
-    "forks": 2577,
-    "starsInPeriod": 18
+    "stars": 3026,
+    "forks": 616,
+    "starsInPeriod": 15
   },
   {
-    "author": "dmlc",
-    "name": "xgboost",
-    "href": "https://github.com/dmlc/xgboost",
-    "description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
+    "author": "microsoft",
+    "name": "calculator",
+    "href": "https://github.com/microsoft/calculator",
+    "description": "Windows Calculator: A simple yet powerful calculator that ships with Windows",
     "language": "C++",
-    "stars": 20076,
-    "forks": 7803,
-    "starsInPeriod": 5
+    "stars": 20498,
+    "forks": 3578,
+    "starsInPeriod": 22
   },
   {
-    "author": "Tencent",
-    "name": "ncnn",
-    "href": "https://github.com/Tencent/ncnn",
-    "description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+    "author": "acidanthera",
+    "name": "WhateverGreen",
+    "href": "https://github.com/acidanthera/WhateverGreen",
+    "description": "Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs",
     "language": "C++",
-    "stars": 10013,
-    "forks": 2548,
-    "starsInPeriod": 25
+    "stars": 2183,
+    "forks": 385,
+    "starsInPeriod": 6
   },
   {
-    "author": "SpiderLabs",
-    "name": "ModSecurity",
-    "href": "https://github.com/SpiderLabs/ModSecurity",
-    "description": "ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…",
+    "author": "mixxxdj",
+    "name": "mixxx",
+    "href": "https://github.com/mixxxdj/mixxx",
+    "description": "Mixxx is Free DJ software that gives you everything you need to perform live mixes.",
     "language": "C++",
-    "stars": 3912,
-    "forks": 1059,
-    "starsInPeriod": 3
+    "stars": 1887,
+    "forks": 755,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "OneLoneCoder",
+    "name": "olcPixelGameEngine",
+    "href": "https://github.com/OneLoneCoder/olcPixelGameEngine",
+    "description": "The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects",
+    "language": "C++",
+    "stars": 1740,
+    "forks": 475,
+    "starsInPeriod": 9
   }
 ]

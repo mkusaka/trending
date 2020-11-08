@@ -1,51 +1,51 @@
 # kotlin
-- [compose-jb](https://github.com/JetBrains/compose-jb)
-  - Compose monorepository
 - [tachiyomi](https://github.com/inorichi/tachiyomi)
   - Free and open source manga reader for Android
-- [android-kotlin-fundamentals-starter-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-starter-apps)
-  - android-kotlin-fundamentals-starter-apps
-- [android](https://github.com/home-assistant/android)
-  - 📱 Home Assistant Companion for Android
+- [compose-jb](https://github.com/JetBrains/compose-jb)
+  - Compose monorepository
+- [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
+  - A shadowsocks client for Android
 - [tivi](https://github.com/chrisbanes/tivi)
   - Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.
-- [tachiyomi-extensions](https://github.com/inorichi/tachiyomi-extensions)
-  - 
-- [Cicerone](https://github.com/terrakok/Cicerone)
-  - 🚦 Cicerone is a lightweight library that makes the navigation in an Android app easy.
-- [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer)
-  - The flexible, easy to use, all in one drawer library for your Android project. Now brand new with material 2 design.
-- [AppIntro](https://github.com/AppIntro/AppIntro)
-  - Make a cool intro for your Android app.
-- [ktlint](https://github.com/pinterest/ktlint)
-  - An anti-bikeshedding Kotlin linter with built-in formatter
-- [p3c](https://github.com/alibaba/p3c)
-  - Alibaba Java Coding Guidelines pmd implements and IDE plugin
-- [ktor](https://github.com/ktorio/ktor)
-  - Framework for quickly creating connected applications in Kotlin with minimal effort
-- [sunflower](https://github.com/android/sunflower)
-  - A gardening app illustrating Android development best practices with Android Jetpack.
-- [architecture-samples](https://github.com/android/architecture-samples)
-  - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
-- [Exposed](https://github.com/JetBrains/Exposed)
-  - Kotlin SQL Framework
-- [mockk](https://github.com/mockk/mockk)
-  - mocking library for Kotlin
-- [android-kotlin-fundamentals-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-apps)
-  - android-kotlin-fundamentals-apps
-- [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines)
-  - Library support for Kotlin coroutines
 - [AffectedModuleDetector](https://github.com/dropbox/AffectedModuleDetector)
   - A Gradle Plugin to determine which modules were affected by a set of files in a commit.
-- [ComposePictures](https://github.com/hi-manshu/ComposePictures)
-  - This is a project built using Jetpack Compose on UI, Clean architecture, Dagger Hilt, Kotlin Flow, Navigation Components etc.
-- [v2ray-plugin-android](https://github.com/shadowsocks/v2ray-plugin-android)
-  - A SIP003 V2ray plugin on Android
-- [compose-richtext](https://github.com/zach-klippenstein/compose-richtext)
-  - A collection of Compose libraries for advanced text formatting and alternative display types.
-- [jaicf-jaicp-caila-template](https://github.com/just-ai/jaicf-jaicp-caila-template)
+- [karel](https://github.com/fredoverflow/karel)
+  - Karel The Robot
+- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android)
+  - Native Android app using the Apple/Google exposure notification API.
+- [v2rayNG](https://github.com/2dust/v2rayNG)
   - 
-- [mapbox-navigation-android](https://github.com/mapbox/mapbox-navigation-android)
-  - Mapbox Navigation SDK for Android
-- [kitsunebi-android](https://github.com/eycorsican/kitsunebi-android)
-  - A fully-featured V2Ray client for Android.
+- [android](https://github.com/home-assistant/android)
+  - 📱 Home Assistant Companion for Android
+- [XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools)
+  - A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot
+- [AppIntro](https://github.com/AppIntro/AppIntro)
+  - Make a cool intro for your Android app.
+- [tachiyomi-extensions](https://github.com/inorichi/tachiyomi-extensions)
+  - 
+- [Unciv](https://github.com/yairm210/Unciv)
+  - Open-source Android/Desktop remake of Civ V
+- [mirai-console](https://github.com/mamoe/mirai-console)
+  - mirai 的高效率 QQ 机器人控制台
+- [ktor](https://github.com/ktorio/ktor)
+  - Framework for quickly creating connected applications in Kotlin with minimal effort
+- [ZY-Player-Android](https://github.com/vicedev/ZY-Player-Android)
+  - 基于https://github.com/Hunlongyu/ZY-Player 做的Android版本 资源播放器
+- [AnimeXStream](https://github.com/mukul500/AnimeXStream)
+  - An Android app to watch anime on your phone without ads.
+- [VancedManager](https://github.com/YTVanced/VancedManager)
+  - Vanced Installer
+- [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook)
+  - A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential
+- [mirai-api-http](https://github.com/project-mirai/mirai-api-http)
+  - Mirai HTTP API (console) plugin
+- [Android-CleanArchitecture-Kotlin](https://github.com/android10/Android-CleanArchitecture-Kotlin)
+  - This is a movies sample app in Kotlin, which is part of a serie of blog posts I have written about architecting android application using different approaches.
+- [Loritta](https://github.com/LorittaBot/Loritta)
+  - 💁 A multipurpose, multilanguage, customizable, modular, and very cute bot for Discord using JDA! ~Making your server more awesome~
+- [compose-samples](https://github.com/android/compose-samples)
+  - Official Jetpack Compose samples.
+- [mirai](https://github.com/mamoe/mirai)
+  - 高效率 QQ 机器人框架 / High-performance bot framework for Tencent QQ
+- [NotyKT](https://github.com/PatilShreyas/NotyKT)
+  - 📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.

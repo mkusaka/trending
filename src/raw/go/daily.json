@@ -1,43 +1,13 @@
 [
   {
-    "author": "hashicorp",
-    "name": "terraform-provider-aws",
-    "href": "https://github.com/hashicorp/terraform-provider-aws",
-    "description": "Terraform AWS provider",
+    "author": "sundowndev",
+    "name": "PhoneInfoga",
+    "href": "https://github.com/sundowndev/PhoneInfoga",
+    "description": "Advanced information gathering & OSINT framework for phone numbers",
     "language": "Go",
-    "stars": 4993,
-    "forks": 4574,
-    "starsInPeriod": 9
-  },
-  {
-    "author": "roboll",
-    "name": "helmfile",
-    "href": "https://github.com/roboll/helmfile",
-    "description": "Deploy Kubernetes Helm Charts",
-    "language": "Go",
-    "stars": 2488,
-    "forks": 395,
-    "starsInPeriod": 10
-  },
-  {
-    "author": "screego",
-    "name": "server",
-    "href": "https://github.com/screego/server",
-    "description": "screen sharing for developers https://screego.net/",
-    "language": "Go",
-    "stars": 2786,
-    "forks": 128,
-    "starsInPeriod": 22
-  },
-  {
-    "author": "kubernetes-sigs",
-    "name": "external-dns",
-    "href": "https://github.com/kubernetes-sigs/external-dns",
-    "description": "Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",
-    "language": "Go",
-    "stars": 3507,
-    "forks": 1100,
-    "starsInPeriod": 7
+    "stars": 2428,
+    "forks": 932,
+    "starsInPeriod": 13
   },
   {
     "author": "moonD4rk",
@@ -45,9 +15,59 @@
     "href": "https://github.com/moonD4rk/HackBrowserData",
     "description": "Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。",
     "language": "Go",
-    "stars": 987,
-    "forks": 208,
-    "starsInPeriod": 192
+    "stars": 1038,
+    "forks": 210,
+    "starsInPeriod": 243
+  },
+  {
+    "author": "tomnomnom",
+    "name": "gron",
+    "href": "https://github.com/tomnomnom/gron",
+    "description": "Make JSON greppable!",
+    "language": "Go",
+    "stars": 7881,
+    "forks": 171,
+    "starsInPeriod": 1151
+  },
+  {
+    "author": "bxcodec",
+    "name": "go-clean-arch",
+    "href": "https://github.com/bxcodec/go-clean-arch",
+    "description": "Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture",
+    "language": "Go",
+    "stars": 3484,
+    "forks": 564,
+    "starsInPeriod": 70
+  },
+  {
+    "author": "Dreamacro",
+    "name": "clash",
+    "href": "https://github.com/Dreamacro/clash",
+    "description": "A rule-based tunnel in Go.",
+    "language": "Go",
+    "stars": 12517,
+    "forks": 1790,
+    "starsInPeriod": 43
+  },
+  {
+    "author": "miekg",
+    "name": "dns",
+    "href": "https://github.com/miekg/dns",
+    "description": "DNS library in Go",
+    "language": "Go",
+    "stars": 4962,
+    "forks": 816,
+    "starsInPeriod": 13
+  },
+  {
+    "author": "ThreeDotsLabs",
+    "name": "wild-workouts-go-ddd-example",
+    "href": "https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example",
+    "description": "Complete serverless application to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring of a Go project.",
+    "language": "Go",
+    "stars": 403,
+    "forks": 43,
+    "starsInPeriod": 39
   },
   {
     "author": "nikitavoloboev",
@@ -55,109 +75,129 @@
     "href": "https://github.com/nikitavoloboev/knowledge",
     "description": "Everything I know",
     "language": "Go",
-    "stars": 1972,
-    "forks": 212,
-    "starsInPeriod": 35
+    "stars": 1993,
+    "forks": 215,
+    "starsInPeriod": 55
   },
   {
-    "author": "mozilla",
-    "name": "sops",
-    "href": "https://github.com/mozilla/sops",
-    "description": "Simple and flexible tool for managing secrets",
+    "author": "projectdiscovery",
+    "name": "subfinder",
+    "href": "https://github.com/projectdiscovery/subfinder",
+    "description": "Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.",
     "language": "Go",
-    "stars": 5433,
-    "forks": 345,
-    "starsInPeriod": 84
-  },
-  {
-    "author": "Mrs4s",
-    "name": "go-cqhttp",
-    "href": "https://github.com/Mrs4s/go-cqhttp",
-    "description": "cqhttp的golang实现，轻量、原生跨平台.",
-    "language": "Go",
-    "stars": 736,
-    "forks": 195,
-    "starsInPeriod": 13
-  },
-  {
-    "author": "terraform-providers",
-    "name": "terraform-provider-azurerm",
-    "href": "https://github.com/terraform-providers/terraform-provider-azurerm",
-    "description": "Terraform provider for Azure Resource Manager",
-    "language": "Go",
-    "stars": 2077,
-    "forks": 2055,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "rancher",
-    "name": "k3s",
-    "href": "https://github.com/rancher/k3s",
-    "description": "Lightweight Kubernetes",
-    "language": "Go",
-    "stars": 14729,
-    "forks": 1162,
-    "starsInPeriod": 37
-  },
-  {
-    "author": "argoproj",
-    "name": "argo-cd",
-    "href": "https://github.com/argoproj/argo-cd",
-    "description": "Declarative continuous deployment for Kubernetes.",
-    "language": "Go",
-    "stars": 4264,
-    "forks": 909,
-    "starsInPeriod": 44
-  },
-  {
-    "author": "mongodb",
-    "name": "mongo-go-driver",
-    "href": "https://github.com/mongodb/mongo-go-driver",
-    "description": "The Go driver for MongoDB",
-    "language": "Go",
-    "stars": 5022,
-    "forks": 562,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "prometheus-operator",
-    "name": "prometheus-operator",
-    "href": "https://github.com/prometheus-operator/prometheus-operator",
-    "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
-    "language": "Go",
-    "stars": 4899,
-    "forks": 2194,
-    "starsInPeriod": 9
-  },
-  {
-    "author": "golang",
-    "name": "mock",
-    "href": "https://github.com/golang/mock",
-    "description": "GoMock is a mocking framework for the Go programming language.",
-    "language": "Go",
-    "stars": 4809,
-    "forks": 387,
+    "stars": 3035,
+    "forks": 444,
     "starsInPeriod": 10
   },
   {
-    "author": "derailed",
-    "name": "k9s",
-    "href": "https://github.com/derailed/k9s",
-    "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+    "author": "labstack",
+    "name": "echo",
+    "href": "https://github.com/labstack/echo",
+    "description": "High performance, minimalist Go web framework",
     "language": "Go",
-    "stars": 9698,
-    "forks": 515,
-    "starsInPeriod": 28
+    "stars": 18438,
+    "forks": 1649,
+    "starsInPeriod": 32
   },
   {
-    "author": "chaos-mesh",
-    "name": "chaos-mesh",
-    "href": "https://github.com/chaos-mesh/chaos-mesh",
-    "description": "A Chaos Engineering Platform for Kubernetes.",
+    "author": "tailscale",
+    "name": "tailscale",
+    "href": "https://github.com/tailscale/tailscale",
+    "description": "The easiest, most secure way to use WireGuard and 2FA.",
     "language": "Go",
-    "stars": 2612,
-    "forks": 264,
+    "stars": 2933,
+    "forks": 150,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "prysmaticlabs",
+    "name": "prysm",
+    "href": "https://github.com/prysmaticlabs/prysm",
+    "description": "Go implementation of the Ethereum 2.0 blockchain",
+    "language": "Go",
+    "stars": 1258,
+    "forks": 364,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "v2fly",
+    "name": "v2ray-core",
+    "href": "https://github.com/v2fly/v2ray-core",
+    "description": "A platform for building proxies to bypass network restrictions.",
+    "language": "Go",
+    "stars": 4509,
+    "forks": 722,
+    "starsInPeriod": 93
+  },
+  {
+    "author": "asticode",
+    "name": "go-astilectron",
+    "href": "https://github.com/asticode/go-astilectron",
+    "description": "Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)",
+    "language": "Go",
+    "stars": 3477,
+    "forks": 237,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "zu1k",
+    "name": "xray-crack",
+    "href": "https://github.com/zu1k/xray-crack",
+    "description": "xray社区高级版证书生成，仅供学习研究，正常使用请支持正版",
+    "language": "Go",
+    "stars": 417,
+    "forks": 241,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "denverquane",
+    "name": "automuteus",
+    "href": "https://github.com/denverquane/automuteus",
+    "description": "Discord Bot to automute Among Us players at round transitions, in conjunction with https://github.com/denverquane/amonguscapture",
+    "language": "Go",
+    "stars": 548,
+    "forks": 145,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "bettercap",
+    "name": "bettercap",
+    "href": "https://github.com/bettercap/bettercap",
+    "description": "The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.",
+    "language": "Go",
+    "stars": 8052,
+    "forks": 833,
     "starsInPeriod": 12
+  },
+  {
+    "author": "zricethezav",
+    "name": "gitleaks",
+    "href": "https://github.com/zricethezav/gitleaks",
+    "description": "Scan git repos for secrets using regex and entropy 🔑",
+    "language": "Go",
+    "stars": 6682,
+    "forks": 561,
+    "starsInPeriod": 41
+  },
+  {
+    "author": "Jguer",
+    "name": "yay",
+    "href": "https://github.com/Jguer/yay",
+    "description": "Yet another Yogurt - An AUR Helper written in Go",
+    "language": "Go",
+    "stars": 5531,
+    "forks": 218,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "felixonmars",
+    "name": "BaiduPCS-Go",
+    "href": "https://github.com/felixonmars/BaiduPCS-Go",
+    "description": "Re-upload of iikira/BaiduPCS-Go",
+    "language": "Go",
+    "stars": 441,
+    "forks": 211,
+    "starsInPeriod": 5
   },
   {
     "author": "fyne-io",
@@ -165,88 +205,48 @@
     "href": "https://github.com/fyne-io/fyne",
     "description": "Cross platform GUI in Go based on Material Design",
     "language": "Go",
-    "stars": 11132,
+    "stars": 11139,
     "forks": 535,
-    "starsInPeriod": 20
+    "starsInPeriod": 29
   },
   {
-    "author": "rancher",
-    "name": "rancher",
-    "href": "https://github.com/rancher/rancher",
-    "description": "Complete container management platform",
+    "author": "kavishgr",
+    "name": "tempomail",
+    "href": "https://github.com/kavishgr/tempomail",
+    "description": "Generate a custom Email Address in 1 Second and receive Emails.",
     "language": "Go",
-    "stars": 15615,
-    "forks": 1933,
-    "starsInPeriod": 12
+    "stars": 30,
+    "forks": 7,
+    "starsInPeriod": 30
   },
   {
-    "author": "pingcap",
-    "name": "tidb",
-    "href": "https://github.com/pingcap/tidb",
-    "description": "TiDB is an open source distributed HTAP database compatible with the MySQL protocol",
+    "author": "ribice",
+    "name": "gorsk",
+    "href": "https://github.com/ribice/gorsk",
+    "description": "🔥 Idiomatic Golang Restful Starter Kit",
     "language": "Go",
-    "stars": 25600,
-    "forks": 3991,
-    "starsInPeriod": 11
+    "stars": 956,
+    "forks": 140,
+    "starsInPeriod": 46
   },
   {
-    "author": "sirupsen",
-    "name": "logrus",
-    "href": "https://github.com/sirupsen/logrus",
-    "description": "Structured, pluggable logging for Go.",
+    "author": "txthinking",
+    "name": "brook",
+    "href": "https://github.com/txthinking/brook",
+    "description": "Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration.",
     "language": "Go",
-    "stars": 16395,
-    "forks": 1804,
-    "starsInPeriod": 18
+    "stars": 11798,
+    "forks": 2201,
+    "starsInPeriod": 10
   },
   {
-    "author": "weaveworks",
-    "name": "eksctl",
-    "href": "https://github.com/weaveworks/eksctl",
-    "description": "The official CLI for Amazon EKS",
+    "author": "ReactiveX",
+    "name": "RxGo",
+    "href": "https://github.com/ReactiveX/RxGo",
+    "description": "Reactive Extensions for the Go language.",
     "language": "Go",
-    "stars": 2725,
-    "forks": 631,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "DATA-DOG",
-    "name": "go-sqlmock",
-    "href": "https://github.com/DATA-DOG/go-sqlmock",
-    "description": "Sql mock driver for golang to test database interactions",
-    "language": "Go",
-    "stars": 2923,
-    "forks": 248,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "dolthub",
-    "name": "dolt",
-    "href": "https://github.com/dolthub/dolt",
-    "description": "Dolt – It's Git for Data",
-    "language": "Go",
-    "stars": 1894,
-    "forks": 61,
-    "starsInPeriod": 16
-  },
-  {
-    "author": "moby",
-    "name": "moby",
-    "href": "https://github.com/moby/moby",
-    "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
-    "language": "Go",
-    "stars": 58811,
-    "forks": 16936,
-    "starsInPeriod": 16
-  },
-  {
-    "author": "docker",
-    "name": "cli",
-    "href": "https://github.com/docker/cli",
-    "description": "The Docker CLI",
-    "language": "Go",
-    "stars": 2481,
-    "forks": 1160,
-    "starsInPeriod": 5
+    "stars": 3058,
+    "forks": 229,
+    "starsInPeriod": 29
   }
 ]
