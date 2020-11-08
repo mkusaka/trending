@@ -5,19 +5,9 @@
     "href": "https://github.com/socketio/socket.io",
     "description": "Realtime application framework (Node.JS server)",
     "language": "JavaScript",
-    "stars": 51142,
-    "forks": 9297,
-    "starsInPeriod": 25
-  },
-  {
-    "author": "laurent22",
-    "name": "joplin",
-    "href": "https://github.com/laurent22/joplin",
-    "description": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
-    "language": "JavaScript",
-    "stars": 18667,
-    "forks": 1921,
-    "starsInPeriod": 62
+    "stars": 51293,
+    "forks": 9301,
+    "starsInPeriod": 135
   },
   {
     "author": "denysdovhan",
@@ -25,199 +15,19 @@
     "href": "https://github.com/denysdovhan/wtfjs",
     "description": "🤪 A list of funny and tricky JavaScript examples",
     "language": "JavaScript",
-    "stars": 19253,
-    "forks": 1256,
-    "starsInPeriod": 149
+    "stars": 19353,
+    "forks": 1259,
+    "starsInPeriod": 252
   },
   {
-    "author": "facebook",
-    "name": "react",
-    "href": "https://github.com/facebook/react",
-    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "author": "bradtraversy",
+    "name": "storybooks",
+    "href": "https://github.com/bradtraversy/storybooks",
+    "description": "Node.js app with Google OAuth",
     "language": "JavaScript",
-    "stars": 158658,
-    "forks": 31469,
-    "starsInPeriod": 85
-  },
-  {
-    "author": "plotly",
-    "name": "plotly.js",
-    "href": "https://github.com/plotly/plotly.js",
-    "description": "Open-source JavaScript charting library behind Plotly and Dash",
-    "language": "JavaScript",
-    "stars": 12423,
-    "forks": 1461,
-    "starsInPeriod": 12
-  },
-  {
-    "author": "github",
-    "name": "docs",
-    "href": "https://github.com/github/docs",
-    "description": "The open-source repo for docs.github.com",
-    "language": "JavaScript",
-    "stars": 1453,
-    "forks": 2997,
-    "starsInPeriod": 22
-  },
-  {
-    "author": "Wilkolicious",
-    "name": "twitchAdSkip",
-    "href": "https://github.com/Wilkolicious/twitchAdSkip",
-    "description": null,
-    "language": "JavaScript",
-    "stars": 87,
-    "forks": 8,
-    "starsInPeriod": 39
-  },
-  {
-    "author": "markedjs",
-    "name": "marked",
-    "href": "https://github.com/markedjs/marked",
-    "description": "A markdown parser and compiler. Built for speed.",
-    "language": "JavaScript",
-    "stars": 23615,
-    "forks": 2919,
-    "starsInPeriod": 29
-  },
-  {
-    "author": "godaddy",
-    "name": "kubernetes-external-secrets",
-    "href": "https://github.com/godaddy/kubernetes-external-secrets",
-    "description": "Integrate external secret management systems with Kubernetes",
-    "language": "JavaScript",
-    "stars": 1286,
-    "forks": 188,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "openlayers",
-    "name": "openlayers",
-    "href": "https://github.com/openlayers/openlayers",
-    "description": "OpenLayers",
-    "language": "JavaScript",
-    "stars": 7483,
-    "forks": 2416,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "ryanmcdermott",
-    "name": "clean-code-javascript",
-    "href": "https://github.com/ryanmcdermott/clean-code-javascript",
-    "description": "🛁 Clean Code concepts adapted for JavaScript",
-    "language": "JavaScript",
-    "stars": 40032,
-    "forks": 4875,
-    "starsInPeriod": 32
-  },
-  {
-    "author": "simple-icons",
-    "name": "simple-icons",
-    "href": "https://github.com/simple-icons/simple-icons",
-    "description": "SVG icons for popular brands",
-    "language": "JavaScript",
-    "stars": 9530,
-    "forks": 1256,
-    "starsInPeriod": 19
-  },
-  {
-    "author": "mongodb",
-    "name": "node-mongodb-native",
-    "href": "https://github.com/mongodb/node-mongodb-native",
-    "description": "The Official MongoDB Node.js Driver",
-    "language": "JavaScript",
-    "stars": 8763,
-    "forks": 1610,
-    "starsInPeriod": 10
-  },
-  {
-    "author": "gregnb",
-    "name": "mui-datatables",
-    "href": "https://github.com/gregnb/mui-datatables",
-    "description": "Datatables for React using Material-UI - https://www.material-ui-datatables.com",
-    "language": "JavaScript",
-    "stars": 1720,
-    "forks": 625,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "fluid-dev",
-    "name": "hexo-theme-fluid",
-    "href": "https://github.com/fluid-dev/hexo-theme-fluid",
-    "description": "🌊 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo",
-    "language": "JavaScript",
-    "stars": 1874,
-    "forks": 302,
-    "starsInPeriod": 19
-  },
-  {
-    "author": "plouc",
-    "name": "nivo",
-    "href": "https://github.com/plouc/nivo",
-    "description": "nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries",
-    "language": "JavaScript",
-    "stars": 7722,
-    "forks": 584,
-    "starsInPeriod": 11
-  },
-  {
-    "author": "pedroslopez",
-    "name": "whatsapp-web.js",
-    "href": "https://github.com/pedroslopez/whatsapp-web.js",
-    "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
-    "language": "JavaScript",
-    "stars": 1164,
-    "forks": 341,
-    "starsInPeriod": 18
-  },
-  {
-    "author": "rphl",
-    "name": "corona-widget",
-    "href": "https://github.com/rphl/corona-widget",
-    "description": "COVID-19 Inzidenz-Widget für iOS innerhalb Deutschlands 🇩🇪 (Kreis/Stadt + Bundesland + Trend)",
-    "language": "JavaScript",
-    "stars": 152,
-    "forks": 24,
-    "starsInPeriod": 20
-  },
-  {
-    "author": "eligrey",
-    "name": "FileSaver.js",
-    "href": "https://github.com/eligrey/FileSaver.js",
-    "description": "An HTML5 saveAs() FileSaver implementation",
-    "language": "JavaScript",
-    "stars": 15309,
-    "forks": 3587,
-    "starsInPeriod": 18
-  },
-  {
-    "author": "mui-org",
-    "name": "material-ui",
-    "href": "https://github.com/mui-org/material-ui",
-    "description": "React components for faster and easier web development. Build your own design system, or start with Material Design.",
-    "language": "JavaScript",
-    "stars": 62239,
-    "forks": 18901,
-    "starsInPeriod": 37
-  },
-  {
-    "author": "AMAI-GmbH",
-    "name": "AI-Expert-Roadmap",
-    "href": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
-    "description": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
-    "language": "JavaScript",
-    "stars": 4249,
-    "forks": 319,
-    "starsInPeriod": 620
-  },
-  {
-    "author": "nolimits4web",
-    "name": "swiper",
-    "href": "https://github.com/nolimits4web/swiper",
-    "description": "Most modern mobile touch slider with hardware accelerated transitions",
-    "language": "JavaScript",
-    "stars": 25242,
-    "forks": 9205,
-    "starsInPeriod": 32
+    "stars": 222,
+    "forks": 195,
+    "starsInPeriod": 14
   },
   {
     "author": "chavyleung",
@@ -225,28 +35,218 @@
     "href": "https://github.com/chavyleung/scripts",
     "description": null,
     "language": "JavaScript",
-    "stars": 1566,
-    "forks": 534,
+    "stars": 1579,
+    "forks": 536,
+    "starsInPeriod": 27
+  },
+  {
+    "author": "github",
+    "name": "docs",
+    "href": "https://github.com/github/docs",
+    "description": "The open-source repo for docs.github.com",
+    "language": "JavaScript",
+    "stars": 1465,
+    "forks": 3092,
+    "starsInPeriod": 36
+  },
+  {
+    "author": "lxk0301",
+    "name": "scripts",
+    "href": "https://github.com/lxk0301/scripts",
+    "description": "京东薅羊毛工具, 京东水果、宠物、种豆等等",
+    "language": "JavaScript",
+    "stars": 2395,
+    "forks": 2823,
+    "starsInPeriod": 201
+  },
+  {
+    "author": "gorhill",
+    "name": "uBlock",
+    "href": "https://github.com/gorhill/uBlock",
+    "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+    "language": "JavaScript",
+    "stars": 22555,
+    "forks": 1829,
+    "starsInPeriod": 35
+  },
+  {
+    "author": "GitSquared",
+    "name": "edex-ui",
+    "href": "https://github.com/GitSquared/edex-ui",
+    "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "language": "JavaScript",
+    "stars": 22377,
+    "forks": 1239,
+    "starsInPeriod": 834
+  },
+  {
+    "author": "Wilkolicious",
+    "name": "twitchAdSkip",
+    "href": "https://github.com/Wilkolicious/twitchAdSkip",
+    "description": null,
+    "language": "JavaScript",
+    "stars": 107,
+    "forks": 8,
+    "starsInPeriod": 59
+  },
+  {
+    "author": "facebook",
+    "name": "react",
+    "href": "https://github.com/facebook/react",
+    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "language": "JavaScript",
+    "stars": 158706,
+    "forks": 31475,
+    "starsInPeriod": 138
+  },
+  {
+    "author": "pedroslopez",
+    "name": "whatsapp-web.js",
+    "href": "https://github.com/pedroslopez/whatsapp-web.js",
+    "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+    "language": "JavaScript",
+    "stars": 1173,
+    "forks": 344,
+    "starsInPeriod": 27
+  },
+  {
+    "author": "badges",
+    "name": "shields",
+    "href": "https://github.com/badges/shields",
+    "description": "Concise, consistent, and legible badges in SVG and raster format",
+    "language": "JavaScript",
+    "stars": 12544,
+    "forks": 3384,
+    "starsInPeriod": 16
+  },
+  {
+    "author": "discordjs",
+    "name": "discord.js",
+    "href": "https://github.com/discordjs/discord.js",
+    "description": "A powerful JavaScript library for interacting with the Discord API",
+    "language": "JavaScript",
+    "stars": 8024,
+    "forks": 1764,
     "starsInPeriod": 14
   },
   {
-    "author": "bvaughn",
-    "name": "react-virtualized",
-    "href": "https://github.com/bvaughn/react-virtualized",
-    "description": "React components for efficiently rendering large lists and tabular data",
+    "author": "adrianhajdin",
+    "name": "project_mern_memories",
+    "href": "https://github.com/adrianhajdin/project_mern_memories",
+    "description": "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called \"Memories\" and it is a simple social media app that allows users to post interesting events that happened in their lives.",
     "language": "JavaScript",
-    "stars": 20339,
-    "forks": 2492,
-    "starsInPeriod": 22
+    "stars": 66,
+    "forks": 10,
+    "starsInPeriod": 24
   },
   {
-    "author": "greatsuspender",
-    "name": "thegreatsuspender",
-    "href": "https://github.com/greatsuspender/thegreatsuspender",
-    "description": "A chrome extension for suspending all tabs to free up memory",
+    "author": "BretFisher",
+    "name": "udemy-docker-mastery",
+    "href": "https://github.com/BretFisher/udemy-docker-mastery",
+    "description": "Udemy Course to build, compose, deploy, and manage containers from local development to high-availability in the cloud",
     "language": "JavaScript",
-    "stars": 3711,
-    "forks": 355,
+    "stars": 3279,
+    "forks": 3605,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "nightscout",
+    "name": "cgm-remote-monitor",
+    "href": "https://github.com/nightscout/cgm-remote-monitor",
+    "description": "nightscout web monitor",
+    "language": "JavaScript",
+    "stars": 1325,
+    "forks": 46781,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "sql-js",
+    "name": "sql.js",
+    "href": "https://github.com/sql-js/sql.js",
+    "description": "A javascript library to run SQLite on the web.",
+    "language": "JavaScript",
+    "stars": 7437,
+    "forks": 798,
+    "starsInPeriod": 170
+  },
+  {
+    "author": "fossasia",
+    "name": "open-event-frontend",
+    "href": "https://github.com/fossasia/open-event-frontend",
+    "description": "The frontend for the Open Event API Server https://open-event-frontend.now.sh",
+    "language": "JavaScript",
+    "stars": 1617,
+    "forks": 998,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "yagop",
+    "name": "node-telegram-bot-api",
+    "href": "https://github.com/yagop/node-telegram-bot-api",
+    "description": "Telegram Bot API for NodeJS",
+    "language": "JavaScript",
+    "stars": 4667,
+    "forks": 868,
     "starsInPeriod": 8
+  },
+  {
+    "author": "axios",
+    "name": "axios",
+    "href": "https://github.com/axios/axios",
+    "description": "Promise based HTTP client for the browser and node.js",
+    "language": "JavaScript",
+    "stars": 78648,
+    "forks": 7406,
+    "starsInPeriod": 82
+  },
+  {
+    "author": "imranhsayed",
+    "name": "gatsby-woocommerce-themes",
+    "href": "https://github.com/imranhsayed/gatsby-woocommerce-themes",
+    "description": "⚡ A Gatsby Theme for WooCommerce E-commerce site Gatsby WooCommerce WordPress",
+    "language": "JavaScript",
+    "stars": 143,
+    "forks": 61,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "github",
+    "name": "opensource.guide",
+    "href": "https://github.com/github/opensource.guide",
+    "description": "📚 Community guides for open source creators",
+    "language": "JavaScript",
+    "stars": 7494,
+    "forks": 8364,
+    "starsInPeriod": 16
+  },
+  {
+    "author": "orkestral",
+    "name": "venom",
+    "href": "https://github.com/orkestral/venom",
+    "description": "Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp",
+    "language": "JavaScript",
+    "stars": 776,
+    "forks": 132,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "twbs",
+    "name": "bootstrap",
+    "href": "https://github.com/twbs/bootstrap",
+    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "language": "JavaScript",
+    "stars": 145124,
+    "forks": 70949,
+    "starsInPeriod": 55
+  },
+  {
+    "author": "invertase",
+    "name": "react-native-firebase",
+    "href": "https://github.com/invertase/react-native-firebase",
+    "description": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.",
+    "language": "JavaScript",
+    "stars": 8462,
+    "forks": 1603,
+    "starsInPeriod": 13
   }
 ]

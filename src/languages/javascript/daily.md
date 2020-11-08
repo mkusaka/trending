@@ -1,51 +1,51 @@
 # javascript
 - [socket.io](https://github.com/socketio/socket.io)
   - Realtime application framework (Node.JS server)
-- [joplin](https://github.com/laurent22/joplin)
-  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [wtfjs](https://github.com/denysdovhan/wtfjs)
   - 🤪 A list of funny and tricky JavaScript examples
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [plotly.js](https://github.com/plotly/plotly.js)
-  - Open-source JavaScript charting library behind Plotly and Dash
-- [docs](https://github.com/github/docs)
-  - The open-source repo for docs.github.com
-- [twitchAdSkip](https://github.com/Wilkolicious/twitchAdSkip)
-  - 
-- [marked](https://github.com/markedjs/marked)
-  - A markdown parser and compiler. Built for speed.
-- [kubernetes-external-secrets](https://github.com/godaddy/kubernetes-external-secrets)
-  - Integrate external secret management systems with Kubernetes
-- [openlayers](https://github.com/openlayers/openlayers)
-  - OpenLayers
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [simple-icons](https://github.com/simple-icons/simple-icons)
-  - SVG icons for popular brands
-- [node-mongodb-native](https://github.com/mongodb/node-mongodb-native)
-  - The Official MongoDB Node.js Driver
-- [mui-datatables](https://github.com/gregnb/mui-datatables)
-  - Datatables for React using Material-UI - https://www.material-ui-datatables.com
-- [hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid)
-  - 🌊 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
-- [nivo](https://github.com/plouc/nivo)
-  - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
-- [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
-  - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
-- [corona-widget](https://github.com/rphl/corona-widget)
-  - COVID-19 Inzidenz-Widget für iOS innerhalb Deutschlands 🇩🇪 (Kreis/Stadt + Bundesland + Trend)
-- [FileSaver.js](https://github.com/eligrey/FileSaver.js)
-  - An HTML5 saveAs() FileSaver implementation
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
-  - Roadmap to becoming an Artificial Intelligence Expert in 2020
-- [swiper](https://github.com/nolimits4web/swiper)
-  - Most modern mobile touch slider with hardware accelerated transitions
+- [storybooks](https://github.com/bradtraversy/storybooks)
+  - Node.js app with Google OAuth
 - [scripts](https://github.com/chavyleung/scripts)
   - 
-- [react-virtualized](https://github.com/bvaughn/react-virtualized)
-  - React components for efficiently rendering large lists and tabular data
-- [thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender)
-  - A chrome extension for suspending all tabs to free up memory
+- [docs](https://github.com/github/docs)
+  - The open-source repo for docs.github.com
+- [scripts](https://github.com/lxk0301/scripts)
+  - 京东薅羊毛工具, 京东水果、宠物、种豆等等
+- [uBlock](https://github.com/gorhill/uBlock)
+  - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+- [edex-ui](https://github.com/GitSquared/edex-ui)
+  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+- [twitchAdSkip](https://github.com/Wilkolicious/twitchAdSkip)
+  - 
+- [react](https://github.com/facebook/react)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
+  - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+- [shields](https://github.com/badges/shields)
+  - Concise, consistent, and legible badges in SVG and raster format
+- [discord.js](https://github.com/discordjs/discord.js)
+  - A powerful JavaScript library for interacting with the Discord API
+- [project_mern_memories](https://github.com/adrianhajdin/project_mern_memories)
+  - Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives.
+- [udemy-docker-mastery](https://github.com/BretFisher/udemy-docker-mastery)
+  - Udemy Course to build, compose, deploy, and manage containers from local development to high-availability in the cloud
+- [cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor)
+  - nightscout web monitor
+- [sql.js](https://github.com/sql-js/sql.js)
+  - A javascript library to run SQLite on the web.
+- [open-event-frontend](https://github.com/fossasia/open-event-frontend)
+  - The frontend for the Open Event API Server https://open-event-frontend.now.sh
+- [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api)
+  - Telegram Bot API for NodeJS
+- [axios](https://github.com/axios/axios)
+  - Promise based HTTP client for the browser and node.js
+- [gatsby-woocommerce-themes](https://github.com/imranhsayed/gatsby-woocommerce-themes)
+  - ⚡ A Gatsby Theme for WooCommerce E-commerce site Gatsby WooCommerce WordPress
+- [opensource.guide](https://github.com/github/opensource.guide)
+  - 📚 Community guides for open source creators
+- [venom](https://github.com/orkestral/venom)
+  - Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp
+- [bootstrap](https://github.com/twbs/bootstrap)
+  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [react-native-firebase](https://github.com/invertase/react-native-firebase)
+  - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.

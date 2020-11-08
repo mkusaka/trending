@@ -1,49 +1,49 @@
 # general
-- [nyt-2020-election-scraper](https://github.com/alex/nyt-2020-election-scraper) : HTML
-- [trape](https://github.com/jofpin/trape) : Python
-  - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
-- [compose-jb](https://github.com/JetBrains/compose-jb) : Kotlin
-  - Compose monorepository
-- [streetmerchant](https://github.com/jef/streetmerchant) : TypeScript
-  - 🤖 Autonomous robot for all your electronic needs
+- [2020_benfords](https://github.com/cjph8914/2020_benfords) : Jupyter Notebook
 - [Account-Manager](https://github.com/thenewboston-developers/Account-Manager) : TypeScript
   - Account manager desktop application for thenewboston digital currency.
-- [personal-server](https://github.com/erebe/personal-server) : Shell
-  - Personal server configuration with k3s
-- [telegram-bot-api](https://github.com/tdlib/telegram-bot-api) : C++
-- [ibis](https://github.com/themsaid/ibis) : PHP
-  - A PHP tool that helps you write eBooks in markdown and convert to PDF.
-- [deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) : 
-  - Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
+- [chatwoot](https://github.com/chatwoot/chatwoot) : Ruby
+  - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬
+- [Marlin](https://github.com/MarlinFirmware/Marlin) : C++
+  - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
+- [v](https://github.com/vlang/v) : V
+  - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io
+- [avancadev](https://github.com/codeedu/avancadev) : HTML
+- [socket.io](https://github.com/socketio/socket.io) : JavaScript
+  - Realtime application framework (Node.JS server)
 - [pifuhd](https://github.com/facebookresearch/pifuhd) : Python
   - High-Resolution 3D Human Digitization from A Single Image.
+- [monkey](https://github.com/guardicore/monkey) : Python
+  - Infection Monkey - An automated pentest tool
+- [pigasus](https://github.com/cmu-snap/pigasus) : C++
+  - 100Gbps Intrusion Detection and Prevention System
+- [tinygrad](https://github.com/geohot/tinygrad) : Python
+  - You like pytorch? You like micrograd? You love tinygrad! ❤️
+- [streetmerchant](https://github.com/jef/streetmerchant) : TypeScript
+  - 🤖 Autonomous robot for all your electronic needs
+- [trape](https://github.com/jofpin/trape) : Python
+  - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
+- [Website](https://github.com/thenewboston-developers/Website) : TypeScript
+  - The website and documentation for thenewboston.
+- [XamarinCommunityToolkit](https://github.com/xamarin/XamarinCommunityToolkit) : C#
+  - The Xamarin Community Toolkit is a collection of Animations, Behaviors, Converters, and Effects for mobile development with Xamarin.Forms. It simplifies and demonstrates common developer tasks building iOS, Android, and UWP apps with Xamarin.Forms.
+- [100-days-of-python](https://github.com/appbrewery/100-days-of-python) : 
+  - 100 Days of Code in Python
 - [hello-algorithm](https://github.com/geekxh/hello-algorithm) : Java
   - 🌍 东半球最酷的学习项目 | 1、我写的三十万字算法图解 2、千本开源电子书 3、100 张思维导图 4、100 篇大厂面经 5、30 个学习专题 🚀 🚀 🚀 右上角点个 star，加入我们万人学习群！English Supported！
 - [EffectiveModernCppChinese](https://github.com/kelthuzadx/EffectiveModernCppChinese) : 
   - 《Effective Modern C++》翻译 - 2020更新中
-- [googletest](https://github.com/google/googletest) : C++
-  - Googletest - Google Testing and Mocking Framework
-- [bevy](https://github.com/bevyengine/bevy) : Rust
-  - A refreshingly simple data-driven game engine built in Rust
-- [onnxruntime](https://github.com/microsoft/onnxruntime) : C++
-  - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
-- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) : 
-  - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-- [svg-path-editor](https://github.com/Yqnn/svg-path-editor) : TypeScript
-  - Online editor to create and manipulate SVG paths
-- [100-days-of-python](https://github.com/appbrewery/100-days-of-python) : 
-  - 100 Days of Code in Python
-- [monkey](https://github.com/guardicore/monkey) : Python
-  - Infection Monkey - An automated pentest tool
-- [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) : 
+- [ip2region](https://github.com/lionsoul2014/ip2region) : Java
+  - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
+- [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) : JavaScript
   - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
-- [socket.io](https://github.com/socketio/socket.io) : JavaScript
-  - Realtime application framework (Node.JS server)
-- [chatwoot](https://github.com/chatwoot/chatwoot) : Ruby
-  - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬
-- [uno](https://github.com/unoplatform/uno) : C#
-  - Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.
-- [rails](https://github.com/rails/rails) : Ruby
-  - Ruby on Rails
-- [Sandboxie](https://github.com/sandboxie-plus/Sandboxie) : C
-  - Sandboxie - Open Source
+- [linux](https://github.com/raspberrypi/linux) : C
+  - Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://www.raspberrypi.org/forum
+- [Proton](https://github.com/ValveSoftware/Proton) : C++
+  - Compatibility tool for Steam Play based on Wine and additional components
+- [invidious](https://github.com/iv-org/invidious) : Crystal
+  - Invidious is an alternative front-end to YouTube
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) : Batchfile
+  - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.
+- [Tasmota](https://github.com/arendst/Tasmota) : C
+  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at

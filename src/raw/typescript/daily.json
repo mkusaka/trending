@@ -1,33 +1,23 @@
 [
   {
-    "author": "jef",
-    "name": "streetmerchant",
-    "href": "https://github.com/jef/streetmerchant",
-    "description": "🤖 Autonomous robot for all your electronic needs",
-    "language": "TypeScript",
-    "stars": 678,
-    "forks": 307,
-    "starsInPeriod": 14
-  },
-  {
     "author": "thenewboston-developers",
     "name": "Account-Manager",
     "href": "https://github.com/thenewboston-developers/Account-Manager",
     "description": "Account manager desktop application for thenewboston digital currency.",
     "language": "TypeScript",
-    "stars": 78,
-    "forks": 63,
-    "starsInPeriod": 14
+    "stars": 142,
+    "forks": 75,
+    "starsInPeriod": 52
   },
   {
-    "author": "Yqnn",
-    "name": "svg-path-editor",
-    "href": "https://github.com/Yqnn/svg-path-editor",
-    "description": "Online editor to create and manipulate SVG paths",
+    "author": "jef",
+    "name": "streetmerchant",
+    "href": "https://github.com/jef/streetmerchant",
+    "description": "🤖 Autonomous robot for all your electronic needs",
     "language": "TypeScript",
-    "stars": 665,
-    "forks": 37,
-    "starsInPeriod": 185
+    "stars": 859,
+    "forks": 320,
+    "starsInPeriod": 125
   },
   {
     "author": "thenewboston-developers",
@@ -35,119 +25,29 @@
     "href": "https://github.com/thenewboston-developers/Website",
     "description": "The website and documentation for thenewboston.",
     "language": "TypeScript",
-    "stars": 84,
-    "forks": 149,
-    "starsInPeriod": 34
+    "stars": 115,
+    "forks": 165,
+    "starsInPeriod": 46
   },
   {
-    "author": "MrXujiang",
-    "name": "h5-Dooring",
-    "href": "https://github.com/MrXujiang/h5-Dooring",
-    "description": "(H5编辑器)H5-Dooring是一款功能强大，开源免费的H5可视化页面配置解决方案，致力于提供一套简单方便、专业可靠、无限可能的H5落地页最佳实践。技术栈以react为主， 后台采用nodejs开发.",
+    "author": "Yqnn",
+    "name": "svg-path-editor",
+    "href": "https://github.com/Yqnn/svg-path-editor",
+    "description": "Online editor to create and manipulate SVG paths",
     "language": "TypeScript",
-    "stars": 1240,
-    "forks": 231,
-    "starsInPeriod": 155
+    "stars": 798,
+    "forks": 42,
+    "starsInPeriod": 352
   },
   {
-    "author": "angular",
-    "name": "components",
-    "href": "https://github.com/angular/components",
-    "description": "Component infrastructure and Material Design components for Angular",
+    "author": "alephjs",
+    "name": "aleph.js",
+    "href": "https://github.com/alephjs/aleph.js",
+    "description": "The React Framework in Deno.",
     "language": "TypeScript",
-    "stars": 20574,
-    "forks": 5522,
-    "starsInPeriod": 121
-  },
-  {
-    "author": "streamich",
-    "name": "react-use",
-    "href": "https://github.com/streamich/react-use",
-    "description": "React Hooks — 👍",
-    "language": "TypeScript",
-    "stars": 16407,
-    "forks": 1142,
-    "starsInPeriod": 40
-  },
-  {
-    "author": "angular",
-    "name": "angular",
-    "href": "https://github.com/angular/angular",
-    "description": "One framework. Mobile & desktop.",
-    "language": "TypeScript",
-    "stars": 67413,
-    "forks": 17904,
-    "starsInPeriod": 51
-  },
-  {
-    "author": "microsoft",
-    "name": "vscode",
-    "href": "https://github.com/microsoft/vscode",
-    "description": "Visual Studio Code",
-    "language": "TypeScript",
-    "stars": 105791,
-    "forks": 16949,
-    "starsInPeriod": 100
-  },
-  {
-    "author": "ionic-team",
-    "name": "ionic-framework",
-    "href": "https://github.com/ionic-team/ionic-framework",
-    "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.",
-    "language": "TypeScript",
-    "stars": 42081,
-    "forks": 13286,
-    "starsInPeriod": 13
-  },
-  {
-    "author": "EnixCoda",
-    "name": "Gitako",
-    "href": "https://github.com/EnixCoda/Gitako",
-    "description": "🐙 File tree extension for GitHub on Chrome & Firefox & Edge",
-    "language": "TypeScript",
-    "stars": 686,
-    "forks": 31,
-    "starsInPeriod": 183
-  },
-  {
-    "author": "marmelab",
-    "name": "react-admin",
-    "href": "https://github.com/marmelab/react-admin",
-    "description": "A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design",
-    "language": "TypeScript",
-    "stars": 14943,
-    "forks": 3208,
-    "starsInPeriod": 19
-  },
-  {
-    "author": "niklasvh",
-    "name": "html2canvas",
-    "href": "https://github.com/niklasvh/html2canvas",
-    "description": "Screenshots with JavaScript",
-    "language": "TypeScript",
-    "stars": 21944,
-    "forks": 3764,
-    "starsInPeriod": 22
-  },
-  {
-    "author": "antfu",
-    "name": "vueuse",
-    "href": "https://github.com/antfu/vueuse",
-    "description": "🧰 Collection of Composition API utils for Vue 2 and 3",
-    "language": "TypeScript",
-    "stars": 1824,
-    "forks": 93,
-    "starsInPeriod": 34
-  },
-  {
-    "author": "openvinotoolkit",
-    "name": "cvat",
-    "href": "https://github.com/openvinotoolkit/cvat",
-    "description": "Powerful and efficient Computer Vision Annotation Tool (CVAT)",
-    "language": "TypeScript",
-    "stars": 4405,
-    "forks": 1185,
-    "starsInPeriod": 8
+    "stars": 591,
+    "forks": 9,
+    "starsInPeriod": 434
   },
   {
     "author": "open-wa",
@@ -155,39 +55,29 @@
     "href": "https://github.com/open-wa/wa-automate-nodejs",
     "description": "💬 🤖 The most advanced NodeJS WhatsApp library for chatbots with advanced features. Be sure to 🌟 this repository for updates!",
     "language": "TypeScript",
-    "stars": 907,
-    "forks": 221,
-    "starsInPeriod": 7
+    "stars": 910,
+    "forks": 224,
+    "starsInPeriod": 10
   },
   {
-    "author": "microsoft",
-    "name": "vscode-extension-samples",
-    "href": "https://github.com/microsoft/vscode-extension-samples",
-    "description": "Sample code illustrating the VS Code extension API.",
+    "author": "yarnpkg",
+    "name": "berry",
+    "href": "https://github.com/yarnpkg/berry",
+    "description": "📦🐈 Active development trunk for Yarn 2+ ⚒",
     "language": "TypeScript",
-    "stars": 3414,
-    "forks": 1433,
-    "starsInPeriod": 12
+    "stars": 2603,
+    "forks": 314,
+    "starsInPeriod": 9
   },
   {
-    "author": "microsoft",
-    "name": "vscode-cpptools",
-    "href": "https://github.com/microsoft/vscode-cpptools",
-    "description": "Official repository for the Microsoft C/C++ extension for VS Code.",
+    "author": "santiq",
+    "name": "bulletproof-nodejs",
+    "href": "https://github.com/santiq/bulletproof-nodejs",
+    "description": "Implementation of a bulletproof node.js API 🛡️",
     "language": "TypeScript",
-    "stars": 3702,
-    "forks": 1019,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "vuejs",
-    "name": "vue-next",
-    "href": "https://github.com/vuejs/vue-next",
-    "description": "Repo for Vue 3",
-    "language": "TypeScript",
-    "stars": 18794,
-    "forks": 3064,
-    "starsInPeriod": 26
+    "stars": 2964,
+    "forks": 680,
+    "starsInPeriod": 10
   },
   {
     "author": "react-hook-form",
@@ -195,29 +85,139 @@
     "href": "https://github.com/react-hook-form/react-hook-form",
     "description": "📋 React Hooks for forms validation (Web + React Native)",
     "language": "TypeScript",
-    "stars": 15384,
-    "forks": 703,
-    "starsInPeriod": 39
+    "stars": 15402,
+    "forks": 705,
+    "starsInPeriod": 57
   },
   {
-    "author": "google",
-    "name": "model-viewer",
-    "href": "https://github.com/google/model-viewer",
-    "description": "Easily display interactive 3D models on the web and in AR!",
+    "author": "Kedyn",
+    "name": "fusliez-notes",
+    "href": "https://github.com/Kedyn/fusliez-notes",
+    "description": "A companion notes app for Among Us social deduction game. Lets you track of your thoughts and your winning record, and includes a notepad and maps.",
     "language": "TypeScript",
-    "stars": 2232,
-    "forks": 265,
-    "starsInPeriod": 10
+    "stars": 134,
+    "forks": 38,
+    "starsInPeriod": 5
   },
   {
-    "author": "cdr",
-    "name": "code-server",
-    "href": "https://github.com/cdr/code-server",
-    "description": "VS Code in the browser",
+    "author": "homebridge",
+    "name": "homebridge",
+    "href": "https://github.com/homebridge/homebridge",
+    "description": "HomeKit support for the impatient",
     "language": "TypeScript",
-    "stars": 36533,
-    "forks": 2808,
-    "starsInPeriod": 48
+    "stars": 15919,
+    "forks": 1712,
+    "starsInPeriod": 19
+  },
+  {
+    "author": "denoland",
+    "name": "deno",
+    "href": "https://github.com/denoland/deno",
+    "description": "A secure JavaScript and TypeScript runtime",
+    "language": "TypeScript",
+    "stars": 68834,
+    "forks": 3590,
+    "starsInPeriod": 93
+  },
+  {
+    "author": "microsoft",
+    "name": "TypeScript",
+    "href": "https://github.com/microsoft/TypeScript",
+    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+    "language": "TypeScript",
+    "stars": 65519,
+    "forks": 8769,
+    "starsInPeriod": 70
+  },
+  {
+    "author": "FormidableLabs",
+    "name": "urql",
+    "href": "https://github.com/FormidableLabs/urql",
+    "description": "The highly customizable and versatile GraphQL client.",
+    "language": "TypeScript",
+    "stars": 5172,
+    "forks": 211,
+    "starsInPeriod": 12
+  },
+  {
+    "author": "xtermjs",
+    "name": "xterm.js",
+    "href": "https://github.com/xtermjs/xterm.js",
+    "description": "A terminal for the web",
+    "language": "TypeScript",
+    "stars": 9352,
+    "forks": 982,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "Dreamacro",
+    "name": "clash-dashboard",
+    "href": "https://github.com/Dreamacro/clash-dashboard",
+    "description": "web port of clash",
+    "language": "TypeScript",
+    "stars": 481,
+    "forks": 109,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "aws-amplify",
+    "name": "amplify-cli",
+    "href": "https://github.com/aws-amplify/amplify-cli",
+    "description": "A CLI toolchain for simplifying serverless web and mobile development.",
+    "language": "TypeScript",
+    "stars": 1819,
+    "forks": 389,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "chakra-ui",
+    "name": "chakra-ui",
+    "href": "https://github.com/chakra-ui/chakra-ui",
+    "description": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
+    "language": "TypeScript",
+    "stars": 11682,
+    "forks": 857,
+    "starsInPeriod": 46
+  },
+  {
+    "author": "apm-ai",
+    "name": "datav",
+    "href": "https://github.com/apm-ai/datav",
+    "description": "Datav is a data visualization platform, providing observability for metrics/logs/traces/big-screens, written in react and go.",
+    "language": "TypeScript",
+    "stars": 1733,
+    "forks": 460,
+    "starsInPeriod": 475
+  },
+  {
+    "author": "givemeurhats",
+    "name": "japper",
+    "href": "https://github.com/givemeurhats/japper",
+    "description": "Javascript database library for PostgreSQL that doesn't get in your way but makes interacting with database more elegant!",
+    "language": "TypeScript",
+    "stars": 24,
+    "forks": 1,
+    "starsInPeriod": 24
+  },
+  {
+    "author": "Silind",
+    "name": "twitter-api-client",
+    "href": "https://github.com/Silind/twitter-api-client",
+    "description": "A user-friendly Node.js / JavaScript client library for interacting with the Twitter API.",
+    "language": "TypeScript",
+    "stars": 337,
+    "forks": 32,
+    "starsInPeriod": 29
+  },
+  {
+    "author": "vuejs",
+    "name": "vue-next",
+    "href": "https://github.com/vuejs/vue-next",
+    "description": "Repo for Vue 3",
+    "language": "TypeScript",
+    "stars": 18809,
+    "forks": 3064,
+    "starsInPeriod": 44
   },
   {
     "author": "prisma",
@@ -225,28 +225,28 @@
     "href": "https://github.com/prisma/prisma",
     "description": "Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite",
     "language": "TypeScript",
-    "stars": 6083,
-    "forks": 302,
-    "starsInPeriod": 27
+    "stars": 6101,
+    "forks": 304,
+    "starsInPeriod": 46
   },
   {
-    "author": "ant-design",
-    "name": "ant-design",
-    "href": "https://github.com/ant-design/ant-design",
-    "description": "🌈 A UI Design Language and React UI library",
+    "author": "nestjs",
+    "name": "nest",
+    "href": "https://github.com/nestjs/nest",
+    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀",
     "language": "TypeScript",
-    "stars": 64549,
-    "forks": 24972,
-    "starsInPeriod": 47
+    "stars": 31583,
+    "forks": 2842,
+    "starsInPeriod": 56
   },
   {
-    "author": "open-telemetry",
-    "name": "opentelemetry-js",
-    "href": "https://github.com/open-telemetry/opentelemetry-js",
-    "description": "OpenTelemetry JavaScript API and SDK",
+    "author": "angular",
+    "name": "angular",
+    "href": "https://github.com/angular/angular",
+    "description": "One framework. Mobile & desktop.",
     "language": "TypeScript",
-    "stars": 533,
-    "forks": 175,
-    "starsInPeriod": 4
+    "stars": 67436,
+    "forks": 17910,
+    "starsInPeriod": 79
   }
 ]

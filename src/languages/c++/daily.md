@@ -1,51 +1,51 @@
 # c++
-- [telegram-bot-api](https://github.com/tdlib/telegram-bot-api)
-  - 
-- [googletest](https://github.com/google/googletest)
-  - Googletest - Google Testing and Mocking Framework
-- [onnxruntime](https://github.com/microsoft/onnxruntime)
-  - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
-- [typesense](https://github.com/typesense/typesense)
-  - Fast, typo tolerant search engine for building delightful search experiences.
-- [incubator-brpc](https://github.com/apache/incubator-brpc)
-  - Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services. "brpc" means "better RPC".
-- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
-  - C++那些事
-- [faiss](https://github.com/facebookresearch/faiss)
-  - A library for efficient similarity search and clustering of dense vectors.
-- [fivem](https://github.com/citizenfx/fivem)
-  - The source code for the FiveM modification framework for GTA V.
-- [oneDNN](https://github.com/oneapi-src/oneDNN)
-  - oneAPI Deep Neural Network Library (oneDNN)
-- [gflags](https://github.com/gflags/gflags)
-  - The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source file in which they are used. Online documentation available at:
-- [cmssw](https://github.com/cms-sw/cmssw)
-  - CMS Offline Software
-- [bitcoin](https://github.com/bitcoin/bitcoin)
-  - Bitcoin Core integration/staging tree
-- [pybind11](https://github.com/pybind/pybind11)
-  - Seamless operability between C++11 and Python
+- [Marlin](https://github.com/MarlinFirmware/Marlin)
+  - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
+- [pigasus](https://github.com/cmu-snap/pigasus)
+  - 100Gbps Intrusion Detection and Prevention System
 - [Proton](https://github.com/ValveSoftware/Proton)
   - Compatibility tool for Steam Play based on Wine and additional components
-- [taichi](https://github.com/taichi-dev/taichi)
-  - Productive & portable programming language for high-performance, sparse & differentiable computing on GPUs
-- [glog](https://github.com/google/glog)
-  - C++ implementation of the Google logging module
-- [LightGBM](https://github.com/microsoft/LightGBM)
-  - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
-- [mold](https://github.com/rui314/mold)
-  - mold: A Modern Linker
-- [QGIS](https://github.com/qgis/QGIS)
-  - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
+- [googletest](https://github.com/google/googletest)
+  - Googletest - Google Testing and Mocking Framework
+- [PBRVulkan](https://github.com/Zielon/PBRVulkan)
+  - Vulkan Real-time Path Tracer Engine
+- [rpcs3](https://github.com/RPCS3/rpcs3)
+  - PS3 emulator/debugger
+- [onnxruntime](https://github.com/microsoft/onnxruntime)
+  - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
+- [Magisk](https://github.com/topjohnwu/Magisk)
+  - The Magic Mask for Android
+- [hackergame2020-writeups](https://github.com/USTC-Hackergame/hackergame2020-writeups)
+  - 中国科学技术大学第七届信息安全大赛的官方与非官方题解
+- [qBittorrent](https://github.com/qbittorrent/qBittorrent)
+  - qBittorrent BitTorrent client
+- [yosys](https://github.com/YosysHQ/yosys)
+  - Yosys Open SYnthesis Suite
+- [telegram-bot-api](https://github.com/tdlib/telegram-bot-api)
+  - 
+- [tdesktop](https://github.com/telegramdesktop/tdesktop)
+  - Telegram Desktop messaging app
+- [esphome](https://github.com/esphome/esphome)
+  - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+- [bitcoin](https://github.com/bitcoin/bitcoin)
+  - Bitcoin Core integration/staging tree
+- [OpenCat](https://github.com/PetoiCamp/OpenCat)
+  - A programmable and highly maneuverable robotic cat for STEM education and AI-enhanced services.
+- [ncmdump](https://github.com/anonymous5l/ncmdump)
+  - netease cloud music copyright protection file dump
+- [PowerToys](https://github.com/microsoft/PowerToys)
+  - Windows system utilities to maximize productivity
 - [abseil-cpp](https://github.com/abseil/abseil-cpp)
   - Abseil Common Libraries (C++)
-- [qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
-  - Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)
-- [llvm-project](https://github.com/llvm/llvm-project)
-  - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
-- [xgboost](https://github.com/dmlc/xgboost)
-  - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
-- [ncnn](https://github.com/Tencent/ncnn)
-  - ncnn is a high-performance neural network inference framework optimized for the mobile platform
-- [ModSecurity](https://github.com/SpiderLabs/ModSecurity)
-  - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
+- [dxvk](https://github.com/doitsujin/dxvk)
+  - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
+- [td](https://github.com/tdlib/td)
+  - Cross-platform library for building Telegram clients
+- [calculator](https://github.com/microsoft/calculator)
+  - Windows Calculator: A simple yet powerful calculator that ships with Windows
+- [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
+  - Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs
+- [mixxx](https://github.com/mixxxdj/mixxx)
+  - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
+- [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)
+  - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects
