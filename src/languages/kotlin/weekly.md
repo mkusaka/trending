@@ -1,51 +1,51 @@
 # kotlin
-- [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
-  - A shadowsocks client for Android
-- [p3c](https://github.com/alibaba/p3c)
-  - Alibaba Java Coding Guidelines pmd implements and IDE plugin
-- [compose-samples](https://github.com/android/compose-samples)
-  - Official Jetpack Compose samples.
-- [Animation-Tutorials](https://github.com/SmartToolFactory/Animation-Tutorials)
-  - 🍭🚀💗 Tutorials about animations with Animators, Animated Vector Drawables, Shared Transitions, and more
-- [v2rayNG](https://github.com/2dust/v2rayNG)
-  - 
-- [coil](https://github.com/coil-kt/coil)
-  - Image loading for Android backed by Kotlin Coroutines.
-- [client](https://github.com/kami-blue/client)
-  - KAMI Blue: a continuation of KAMI | LOOKING FOR MAINTAINERS. CHECK README.
-- [kotlin-native](https://github.com/JetBrains/kotlin-native)
-  - Kotlin/Native infrastructure
-- [architecture-components-samples](https://github.com/android/architecture-components-samples)
-  - Samples for Android Architecture Components.
-- [material-components-android-examples](https://github.com/material-components/material-components-android-examples)
-  - Companion example apps and code for MDC-Android.
-- [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines)
-  - Library support for Kotlin coroutines
-- [camera-samples](https://github.com/android/camera-samples)
-  - Multiple samples showing the best practices in camera APIs on Android.
-- [ktor](https://github.com/ktorio/ktor)
-  - Framework for quickly creating connected applications in Kotlin with minimal effort
+- [NotyKT](https://github.com/PatilShreyas/NotyKT)
+  - 📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.
 - [kotlin](https://github.com/JetBrains/kotlin)
   - The Kotlin Programming Language
-- [tachiyomi](https://github.com/inorichi/tachiyomi)
-  - Free and open source manga reader for Android
-- [karel](https://github.com/fredoverflow/karel)
-  - Karel The Robot
+- [v2rayNG](https://github.com/2dust/v2rayNG)
+  - 
+- [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery)
+  - Browse your memories without any interruptions with this photo and video gallery
+- [compose-jb](https://github.com/JetBrains/compose-jb)
+  - Compose monorepository
 - [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android)
   - Native Android app using the Apple/Google exposure notification API.
-- [2020-Fundamentals-Kotlin](https://github.com/Android-Academy-Global/2020-Fundamentals-Kotlin)
-  - 
-- [kitsunebi-android](https://github.com/eycorsican/kitsunebi-android)
-  - A fully-featured V2Ray client for Android.
-- [material-dialogs](https://github.com/afollestad/material-dialogs)
-  - 😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android.
+- [architecture-components-samples](https://github.com/android/architecture-components-samples)
+  - Samples for Android Architecture Components.
+- [compose-samples](https://github.com/android/compose-samples)
+  - Official Jetpack Compose samples.
+- [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
+  - A shadowsocks client for Android
+- [Cicerone](https://github.com/terrakok/Cicerone)
+  - 🚦 Cicerone is a lightweight library that makes the navigation in an Android app easy.
+- [Music-Player-GO](https://github.com/enricocid/Music-Player-GO)
+  - 🎶🎼 Very slim music player 👨‍🎤 100% made in Italy 🍕🌳🌞🍝🌄
+- [android](https://github.com/home-assistant/android)
+  - 📱 Home Assistant Companion for Android
+- [p3c](https://github.com/alibaba/p3c)
+  - Alibaba Java Coding Guidelines pmd implements and IDE plugin
+- [material-components-android-examples](https://github.com/material-components/material-components-android-examples)
+  - Companion example apps and code for MDC-Android.
+- [sunflower](https://github.com/android/sunflower)
+  - A gardening app illustrating Android development best practices with Android Jetpack.
+- [PeopleInSpace](https://github.com/joreilly/PeopleInSpace)
+  - Minimal Kotlin Multiplatform project using Jetpack Compose and SwiftUI
+- [XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools)
+  - A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot
 - [fenix](https://github.com/mozilla-mobile/fenix)
   - Firefox for Android
-- [KotlinUdemy](https://github.com/hussien89aa/KotlinUdemy)
-  - Learn how to make online games, and apps for Android O, like Pokémon , twitter,Tic Tac Toe, and notepad using Kotlin
-- [TimberX](https://github.com/naman14/TimberX)
-  - Material theme music player that works across all form factors (phones, wear, auto, cast, assistant) and uses latest tools (Kotlin, Architecture components, Room, Databinding)
-- [play-billing-samples](https://github.com/android/play-billing-samples)
-  - Samples for Google Play In-app Billing
-- [transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local)
-  - 📌 The missing Java™ std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits ThreadLocal values between threads even using thread pooling components.
+- [sqldelight](https://github.com/cashapp/sqldelight)
+  - SQLDelight - Generates typesafe Kotlin APIs from SQL
+- [ktor](https://github.com/ktorio/ktor)
+  - Framework for quickly creating connected applications in Kotlin with minimal effort
+- [RxTool](https://github.com/Tamsiree/RxTool)
+  - Android开发人员不得不收集的工具类集合 | 支付宝支付 | 微信支付（统一下单） | 微信分享 | Zip4j压缩（支持分卷压缩与加密） | 一键集成UCrop选择圆形头像 | 一键集成二维码和条形码的扫描与生成 | 常用Dialog | WebView的封装可播放视频 | 仿斗鱼滑动验证码 | Toast封装 | 震动 | GPS | Location定位 | 图片缩放 | Exif 图片添加地理位置信息（经纬度） | 蛛网等级 | 颜色选择器 | ArcGis | VTPK | 编译运行一下说不定会找到惊喜
+- [architecture-samples](https://github.com/android/architecture-samples)
+  - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
+- [tachiyomi](https://github.com/inorichi/tachiyomi)
+  - Free and open source manga reader for Android
+- [Animation-Tutorials](https://github.com/SmartToolFactory/Animation-Tutorials)
+  - 🍭🚀💗 Tutorials about animations with Animators, Animated Vector Drawables, Shared Transitions, and more
+- [camera-samples](https://github.com/android/camera-samples)
+  - Multiple samples showing the best practices in camera APIs on Android.

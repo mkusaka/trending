@@ -1,51 +1,51 @@
 # javascript
-- [taobao-11-11](https://github.com/hyue418/taobao-11-11)
-  - 🚀2020淘宝+京东+支付宝双十一|双11全民养猫|全民营业自动化脚本【全额奖励，防检测】
 - [edex-ui](https://github.com/GitSquared/edex-ui)
   - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [next.js](https://github.com/vercel/next.js)
-  - The React Framework
-- [create-react-app](https://github.com/facebook/create-react-app)
-  - Set up a modern web app by running one command.
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
-  - Starter files, final projects and FAQ for my Complete JavaScript course
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [axios](https://github.com/axios/axios)
-  - Promise based HTTP client for the browser and node.js
-- [incubator-echarts](https://github.com/apache/incubator-echarts)
-  - A powerful, interactive charting and data visualization library for browser
-- [scripts](https://github.com/lxk0301/scripts)
-  - 京东薅羊毛工具, 京东水果、宠物、种豆等等
-- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
-  - 🚀🚀🚀A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.
-- [listen1_desktop](https://github.com/listen1/listen1_desktop)
-  - one for all free music in china (Windows, Mac, Linux desktop)
-- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification)
-  - The OpenAPI Specification Repository
-- [monkeytype](https://github.com/Miodec/monkeytype)
-  - A minimalistic typing test
-- [scripts](https://github.com/chavyleung/scripts)
-  - 
-- [vant](https://github.com/youzan/vant)
-  - Lightweight Mobile UI Components built on Vue
-- [junior-recruit-scheduler](https://github.com/jojoldu/junior-recruit-scheduler)
-  - 주니어 개발자 채용 정보
+- [attestation-deplacement-derogatoire-q4-2020](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020)
+  - attestation-deplacement-derogatoire-q4-2020 public
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
   - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。 阿里招 Python P6/P7 上海张江, gaojunqi@outlook.com
+- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
+  - Bypass Paywalls web browser extension for Chrome and Firefox.
+- [wechat-app-mall](https://github.com/EastWorld/wechat-app-mall)
+  - 微信小程序商城，微信小程序微店
+- [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
+  - Roadmap to becoming an Artificial Intelligence Expert in 2020
+- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
+  - 🎆Interactive Online Platform that Visualizes Algorithms from Code
+- [scripts](https://github.com/lxk0301/scripts)
+  - 京东薅羊毛工具, 京东水果、宠物、种豆等等
+- [wtfjs](https://github.com/denysdovhan/wtfjs)
+  - 🤪 A list of funny and tricky JavaScript examples
+- [winXP](https://github.com/ShizukuIchi/winXP)
+  - 🏁 Web based Windows XP desktop recreation.
+- [iptv](https://github.com/iptv-org/iptv)
+  - Collection of 5000+ publicly available IPTV channels from all over the world
+- [QuantumultX](https://github.com/w37fhy/QuantumultX)
+  - 同步和更新大佬脚本库，更新懒人配置
+- [socket.io](https://github.com/socketio/socket.io)
+  - Realtime application framework (Node.JS server)
+- [scripts](https://github.com/chavyleung/scripts)
+  - 
+- [bootstrap](https://github.com/twbs/bootstrap)
+  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [rengine](https://github.com/yogeshojha/rengine)
+  - reNgine is an automated reconnaissance framework meant for gathering information during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
+- [whatsapp-bot](https://github.com/MhankBarBar/whatsapp-bot)
+  - WhatsApp Bot
+- [joplin](https://github.com/laurent22/joplin)
+  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+- [drawio](https://github.com/jgraph/drawio)
+  - Source to app.diagrams.net
 - [jd_sign_bot](https://github.com/ruicky/jd_sign_bot)
   - 京东签到机器人
-- [three.js](https://github.com/mrdoob/three.js)
-  - JavaScript 3D library.
-- [node](https://github.com/nodejs/node)
-  - Node.js JavaScript runtime ✨🐢🚀✨
-- [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
-  - a vue2.0 minimal admin template
-- [VvvebJs](https://github.com/givanz/VvvebJs)
-  - Drag and drop website builder javascript library.
-- [AdminLTE](https://github.com/ColorlibHQ/AdminLTE)
-  - AdminLTE - Free admin dashboard template based on Bootstrap 4
-- [FE-Essay](https://github.com/i-want-offer/FE-Essay)
-  - 2020 前端初中级面试题
-- [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
-  - OpenZeppelin Contracts is a library for secure smart contract development.
+- [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
+  - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+- [vue-cli](https://github.com/vuejs/vue-cli)
+  - 🛠️ Standard Tooling for Vue.js Development
+- [sheetjs](https://github.com/SheetJS/sheetjs)
+  - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
+- [swiper](https://github.com/nolimits4web/swiper)
+  - Most modern mobile touch slider with hardware accelerated transitions

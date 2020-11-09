@@ -1,133 +1,13 @@
 [
   {
-    "author": "shadowsocks",
-    "name": "shadowsocks-android",
-    "href": "https://github.com/shadowsocks/shadowsocks-android",
-    "description": "A shadowsocks client for Android",
+    "author": "PatilShreyas",
+    "name": "NotyKT",
+    "href": "https://github.com/PatilShreyas/NotyKT",
+    "description": "📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.",
     "language": "Kotlin",
-    "stars": 30458,
-    "forks": 11282,
-    "starsInPeriod": 60
-  },
-  {
-    "author": "alibaba",
-    "name": "p3c",
-    "href": "https://github.com/alibaba/p3c",
-    "description": "Alibaba Java Coding Guidelines pmd implements and IDE plugin",
-    "language": "Kotlin",
-    "stars": 23628,
-    "forks": 6195,
-    "starsInPeriod": 72
-  },
-  {
-    "author": "android",
-    "name": "compose-samples",
-    "href": "https://github.com/android/compose-samples",
-    "description": "Official Jetpack Compose samples.",
-    "language": "Kotlin",
-    "stars": 3824,
-    "forks": 602,
-    "starsInPeriod": 133
-  },
-  {
-    "author": "SmartToolFactory",
-    "name": "Animation-Tutorials",
-    "href": "https://github.com/SmartToolFactory/Animation-Tutorials",
-    "description": "🍭🚀💗 Tutorials about animations with Animators, Animated Vector Drawables, Shared Transitions, and more",
-    "language": "Kotlin",
-    "stars": 447,
-    "forks": 28,
-    "starsInPeriod": 153
-  },
-  {
-    "author": "2dust",
-    "name": "v2rayNG",
-    "href": "https://github.com/2dust/v2rayNG",
-    "description": null,
-    "language": "Kotlin",
-    "stars": 7303,
-    "forks": 1474,
-    "starsInPeriod": 132
-  },
-  {
-    "author": "coil-kt",
-    "name": "coil",
-    "href": "https://github.com/coil-kt/coil",
-    "description": "Image loading for Android backed by Kotlin Coroutines.",
-    "language": "Kotlin",
-    "stars": 4936,
-    "forks": 265,
-    "starsInPeriod": 96
-  },
-  {
-    "author": "kami-blue",
-    "name": "client",
-    "href": "https://github.com/kami-blue/client",
-    "description": "KAMI Blue: a continuation of KAMI | LOOKING FOR MAINTAINERS. CHECK README.",
-    "language": "Kotlin",
-    "stars": 163,
-    "forks": 132,
-    "starsInPeriod": 11
-  },
-  {
-    "author": "JetBrains",
-    "name": "kotlin-native",
-    "href": "https://github.com/JetBrains/kotlin-native",
-    "description": "Kotlin/Native infrastructure",
-    "language": "Kotlin",
-    "stars": 6912,
-    "forks": 609,
-    "starsInPeriod": 16
-  },
-  {
-    "author": "android",
-    "name": "architecture-components-samples",
-    "href": "https://github.com/android/architecture-components-samples",
-    "description": "Samples for Android Architecture Components.",
-    "language": "Kotlin",
-    "stars": 18693,
-    "forks": 6485,
-    "starsInPeriod": 62
-  },
-  {
-    "author": "material-components",
-    "name": "material-components-android-examples",
-    "href": "https://github.com/material-components/material-components-android-examples",
-    "description": "Companion example apps and code for MDC-Android.",
-    "language": "Kotlin",
-    "stars": 1638,
-    "forks": 315,
-    "starsInPeriod": 29
-  },
-  {
-    "author": "Kotlin",
-    "name": "kotlinx.coroutines",
-    "href": "https://github.com/Kotlin/kotlinx.coroutines",
-    "description": "Library support for Kotlin coroutines",
-    "language": "Kotlin",
-    "stars": 8401,
-    "forks": 1181,
-    "starsInPeriod": 47
-  },
-  {
-    "author": "android",
-    "name": "camera-samples",
-    "href": "https://github.com/android/camera-samples",
-    "description": "Multiple samples showing the best practices in camera APIs on Android.",
-    "language": "Kotlin",
-    "stars": 2263,
-    "forks": 1135,
-    "starsInPeriod": 28
-  },
-  {
-    "author": "ktorio",
-    "name": "ktor",
-    "href": "https://github.com/ktorio/ktor",
-    "description": "Framework for quickly creating connected applications in Kotlin with minimal effort",
-    "language": "Kotlin",
-    "stars": 7455,
-    "forks": 618,
-    "starsInPeriod": 41
+    "stars": 224,
+    "forks": 16,
+    "starsInPeriod": 57
   },
   {
     "author": "JetBrains",
@@ -135,29 +15,39 @@
     "href": "https://github.com/JetBrains/kotlin",
     "description": "The Kotlin Programming Language",
     "language": "Kotlin",
-    "stars": 33845,
-    "forks": 4223,
-    "starsInPeriod": 101
+    "stars": 33902,
+    "forks": 4232,
+    "starsInPeriod": 79
   },
   {
-    "author": "inorichi",
-    "name": "tachiyomi",
-    "href": "https://github.com/inorichi/tachiyomi",
-    "description": "Free and open source manga reader for Android",
+    "author": "2dust",
+    "name": "v2rayNG",
+    "href": "https://github.com/2dust/v2rayNG",
+    "description": null,
     "language": "Kotlin",
-    "stars": 8915,
-    "forks": 1177,
-    "starsInPeriod": 84
+    "stars": 7410,
+    "forks": 1486,
+    "starsInPeriod": 113
   },
   {
-    "author": "fredoverflow",
-    "name": "karel",
-    "href": "https://github.com/fredoverflow/karel",
-    "description": "Karel The Robot",
+    "author": "SimpleMobileTools",
+    "name": "Simple-Gallery",
+    "href": "https://github.com/SimpleMobileTools/Simple-Gallery",
+    "description": "Browse your memories without any interruptions with this photo and video gallery",
     "language": "Kotlin",
-    "stars": 59,
-    "forks": 11,
-    "starsInPeriod": 12
+    "stars": 1562,
+    "forks": 462,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "JetBrains",
+    "name": "compose-jb",
+    "href": "https://github.com/JetBrains/compose-jb",
+    "description": "Compose monorepository",
+    "language": "Kotlin",
+    "stars": 885,
+    "forks": 22,
+    "starsInPeriod": 885
   },
   {
     "author": "corona-warn-app",
@@ -165,39 +55,119 @@
     "href": "https://github.com/corona-warn-app/cwa-app-android",
     "description": "Native Android app using the Apple/Google exposure notification API.",
     "language": "Kotlin",
-    "stars": 2074,
-    "forks": 437,
-    "starsInPeriod": 17
+    "stars": 2087,
+    "forks": 443,
+    "starsInPeriod": 15
   },
   {
-    "author": "Android-Academy-Global",
-    "name": "2020-Fundamentals-Kotlin",
-    "href": "https://github.com/Android-Academy-Global/2020-Fundamentals-Kotlin",
-    "description": null,
+    "author": "android",
+    "name": "architecture-components-samples",
+    "href": "https://github.com/android/architecture-components-samples",
+    "description": "Samples for Android Architecture Components.",
     "language": "Kotlin",
-    "stars": 22,
-    "forks": 44,
-    "starsInPeriod": 10
+    "stars": 18747,
+    "forks": 6502,
+    "starsInPeriod": 62
   },
   {
-    "author": "eycorsican",
-    "name": "kitsunebi-android",
-    "href": "https://github.com/eycorsican/kitsunebi-android",
-    "description": "A fully-featured V2Ray client for Android.",
+    "author": "android",
+    "name": "compose-samples",
+    "href": "https://github.com/android/compose-samples",
+    "description": "Official Jetpack Compose samples.",
     "language": "Kotlin",
-    "stars": 1387,
-    "forks": 262,
-    "starsInPeriod": 10
+    "stars": 3903,
+    "forks": 613,
+    "starsInPeriod": 86
   },
   {
-    "author": "afollestad",
-    "name": "material-dialogs",
-    "href": "https://github.com/afollestad/material-dialogs",
-    "description": "😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android.",
+    "author": "shadowsocks",
+    "name": "shadowsocks-android",
+    "href": "https://github.com/shadowsocks/shadowsocks-android",
+    "description": "A shadowsocks client for Android",
     "language": "Kotlin",
-    "stars": 18261,
-    "forks": 3053,
-    "starsInPeriod": 33
+    "stars": 30511,
+    "forks": 11288,
+    "starsInPeriod": 65
+  },
+  {
+    "author": "terrakok",
+    "name": "Cicerone",
+    "href": "https://github.com/terrakok/Cicerone",
+    "description": "🚦 Cicerone is a lightweight library that makes the navigation in an Android app easy.",
+    "language": "Kotlin",
+    "stars": 2109,
+    "forks": 174,
+    "starsInPeriod": 26
+  },
+  {
+    "author": "enricocid",
+    "name": "Music-Player-GO",
+    "href": "https://github.com/enricocid/Music-Player-GO",
+    "description": "🎶🎼 Very slim music player 👨‍🎤 100% made in Italy 🍕🌳🌞🍝🌄",
+    "language": "Kotlin",
+    "stars": 514,
+    "forks": 92,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "home-assistant",
+    "name": "android",
+    "href": "https://github.com/home-assistant/android",
+    "description": "📱 Home Assistant Companion for Android",
+    "language": "Kotlin",
+    "stars": 710,
+    "forks": 192,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "alibaba",
+    "name": "p3c",
+    "href": "https://github.com/alibaba/p3c",
+    "description": "Alibaba Java Coding Guidelines pmd implements and IDE plugin",
+    "language": "Kotlin",
+    "stars": 23707,
+    "forks": 6219,
+    "starsInPeriod": 88
+  },
+  {
+    "author": "material-components",
+    "name": "material-components-android-examples",
+    "href": "https://github.com/material-components/material-components-android-examples",
+    "description": "Companion example apps and code for MDC-Android.",
+    "language": "Kotlin",
+    "stars": 1668,
+    "forks": 315,
+    "starsInPeriod": 32
+  },
+  {
+    "author": "android",
+    "name": "sunflower",
+    "href": "https://github.com/android/sunflower",
+    "description": "A gardening app illustrating Android development best practices with Android Jetpack.",
+    "language": "Kotlin",
+    "stars": 12705,
+    "forks": 2969,
+    "starsInPeriod": 48
+  },
+  {
+    "author": "joreilly",
+    "name": "PeopleInSpace",
+    "href": "https://github.com/joreilly/PeopleInSpace",
+    "description": "Minimal Kotlin Multiplatform project using Jetpack Compose and SwiftUI",
+    "language": "Kotlin",
+    "stars": 597,
+    "forks": 42,
+    "starsInPeriod": 18
+  },
+  {
+    "author": "Szaki",
+    "name": "XiaomiADBFastbootTools",
+    "href": "https://github.com/Szaki/XiaomiADBFastbootTools",
+    "description": "A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot",
+    "language": "Kotlin",
+    "stars": 1750,
+    "forks": 199,
+    "starsInPeriod": 23
   },
   {
     "author": "mozilla-mobile",
@@ -205,48 +175,78 @@
     "href": "https://github.com/mozilla-mobile/fenix",
     "description": "Firefox for Android",
     "language": "Kotlin",
-    "stars": 4236,
+    "stars": 4261,
+    "forks": 630,
+    "starsInPeriod": 29
+  },
+  {
+    "author": "cashapp",
+    "name": "sqldelight",
+    "href": "https://github.com/cashapp/sqldelight",
+    "description": "SQLDelight - Generates typesafe Kotlin APIs from SQL",
+    "language": "Kotlin",
+    "stars": 3588,
+    "forks": 290,
+    "starsInPeriod": 27
+  },
+  {
+    "author": "ktorio",
+    "name": "ktor",
+    "href": "https://github.com/ktorio/ktor",
+    "description": "Framework for quickly creating connected applications in Kotlin with minimal effort",
+    "language": "Kotlin",
+    "stars": 7482,
     "forks": 621,
-    "starsInPeriod": 35
+    "starsInPeriod": 31
   },
   {
-    "author": "hussien89aa",
-    "name": "KotlinUdemy",
-    "href": "https://github.com/hussien89aa/KotlinUdemy",
-    "description": "Learn how to make online games, and apps for Android O, like Pokémon , twitter,Tic Tac Toe, and notepad using Kotlin",
+    "author": "Tamsiree",
+    "name": "RxTool",
+    "href": "https://github.com/Tamsiree/RxTool",
+    "description": "Android开发人员不得不收集的工具类集合 | 支付宝支付 | 微信支付（统一下单） | 微信分享 | Zip4j压缩（支持分卷压缩与加密） | 一键集成UCrop选择圆形头像 | 一键集成二维码和条形码的扫描与生成 | 常用Dialog | WebView的封装可播放视频 | 仿斗鱼滑动验证码 | Toast封装 | 震动 | GPS | Location定位 | 图片缩放 | Exif 图片添加地理位置信息（经纬度） | 蛛网等级 | 颜色选择器 | ArcGis | VTPK | 编译运行一下说不定会找到惊喜",
     "language": "Kotlin",
-    "stars": 1043,
-    "forks": 4345,
-    "starsInPeriod": 14
-  },
-  {
-    "author": "naman14",
-    "name": "TimberX",
-    "href": "https://github.com/naman14/TimberX",
-    "description": "Material theme music player that works across all form factors (phones, wear, auto, cast, assistant) and uses latest tools (Kotlin, Architecture components, Room, Databinding)",
-    "language": "Kotlin",
-    "stars": 1012,
-    "forks": 242,
-    "starsInPeriod": 13
+    "stars": 11083,
+    "forks": 2730,
+    "starsInPeriod": 18
   },
   {
     "author": "android",
-    "name": "play-billing-samples",
-    "href": "https://github.com/android/play-billing-samples",
-    "description": "Samples for Google Play In-app Billing",
+    "name": "architecture-samples",
+    "href": "https://github.com/android/architecture-samples",
+    "description": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
     "language": "Kotlin",
-    "stars": 1587,
-    "forks": 1112,
-    "starsInPeriod": 15
+    "stars": 37681,
+    "forks": 10417,
+    "starsInPeriod": 60
   },
   {
-    "author": "alibaba",
-    "name": "transmittable-thread-local",
-    "href": "https://github.com/alibaba/transmittable-thread-local",
-    "description": "📌 The missing Java™ std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits ThreadLocal values between threads even using thread pooling components.",
+    "author": "inorichi",
+    "name": "tachiyomi",
+    "href": "https://github.com/inorichi/tachiyomi",
+    "description": "Free and open source manga reader for Android",
     "language": "Kotlin",
-    "stars": 3249,
-    "forks": 979,
-    "starsInPeriod": 23
+    "stars": 8967,
+    "forks": 1182,
+    "starsInPeriod": 63
+  },
+  {
+    "author": "SmartToolFactory",
+    "name": "Animation-Tutorials",
+    "href": "https://github.com/SmartToolFactory/Animation-Tutorials",
+    "description": "🍭🚀💗 Tutorials about animations with Animators, Animated Vector Drawables, Shared Transitions, and more",
+    "language": "Kotlin",
+    "stars": 477,
+    "forks": 30,
+    "starsInPeriod": 30
+  },
+  {
+    "author": "android",
+    "name": "camera-samples",
+    "href": "https://github.com/android/camera-samples",
+    "description": "Multiple samples showing the best practices in camera APIs on Android.",
+    "language": "Kotlin",
+    "stars": 2279,
+    "forks": 1144,
+    "starsInPeriod": 19
   }
 ]
