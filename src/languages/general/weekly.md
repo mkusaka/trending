@@ -1,51 +1,51 @@
 # general
-- [yt-dlc](https://github.com/blackjack4494/yt-dlc) : Python
-  - media downloader for various sites.
-- [youtube-dl](https://github.com/l1ving/youtube-dl) : Python
-  - A fork of youtube-dl, for archival purposes.
-- [taobao-11-11](https://github.com/hyue418/taobao-11-11) : JavaScript
-  - 🚀2020淘宝+京东+支付宝双十一|双11全民养猫|全民营业自动化脚本【全额奖励，防检测】
-- [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) : Python
-  - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
-- [dmca](https://github.com/github/dmca) : Rich Text Format
-  - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
-- [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) : Shell
-  - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
-- [not-youtube-dl](https://github.com/scastillo/not-youtube-dl) : Python
-  - This is not youtube-dl
-- [sherlock](https://github.com/sherlock-project/sherlock) : Python
-  - 🔎 Hunt down social media accounts by username across social networks
 - [edex-ui](https://github.com/GitSquared/edex-ui) : JavaScript
   - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [zipline](https://github.com/quantopian/zipline) : Python
-  - Zipline, a Pythonic Algorithmic Trading Library
-- [loruki-website](https://github.com/bradtraversy/loruki-website) : HTML
-  - Cloud hosting website
+- [pifuhd](https://github.com/facebookresearch/pifuhd) : Python
+  - High-Resolution 3D Human Digitization from A Single Image.
+- [youtube-dl](https://github.com/l1ving/youtube-dl) : Python
+  - A fork of youtube-dl, for archival purposes.
+- [tinygrad](https://github.com/geohot/tinygrad) : Python
+  - You like pytorch? You like micrograd? You love tinygrad! ❤️
+- [bevy](https://github.com/bevyengine/bevy) : Rust
+  - A refreshingly simple data-driven game engine built in Rust
+- [hello-algorithm](https://github.com/geekxh/hello-algorithm) : Java
+  - 🌍 东半球最酷的学习项目 | 1、我写的三十万字算法图解 2、千本开源电子书 3、100 张思维导图 4、100 篇大厂面经 5、30 个学习专题 🚀 🚀 🚀 右上角点个 star，加入我们万人学习群！English Supported！
+- [workflow](https://github.com/sogou/workflow) : C++
+  - C++ Programming Paradigm with Asynchronous Networking
+- [cp-ddd-framework](https://github.com/funkygao/cp-ddd-framework) : Java
+  - A lightweight flexible development framework for complex business architecture with full ecosystem！轻量级业务中台开发框架，中台架构的顶层设计和完整解决方案！
+- [chatwoot](https://github.com/chatwoot/chatwoot) : Ruby
+  - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬
+- [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) : Python
+  - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
+- [routersploit](https://github.com/threat9/routersploit) : Python
+  - Exploitation Framework for Embedded Devices
+- [googletest](https://github.com/google/googletest) : C++
+  - Googletest - Google Testing and Mocking Framework
+- [attestation-deplacement-derogatoire-q4-2020](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020) : JavaScript
+  - attestation-deplacement-derogatoire-q4-2020 public
+- [Qv2ray](https://github.com/Qv2ray/Qv2ray) : C++
+  - ⭐ Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt5 开发 | 可拓展插件式设计 ⭐
+- [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) : Java
+  - spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…
 - [InfoSpider](https://github.com/kangvcar/InfoSpider) : Python
   - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
-- [aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller) : Go
-  - A Kubernetes controller for Elastic Load Balancers
-- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) : C++
-  - Awesome multilingual OCR toolkits based on PaddlePaddle （multilingual recognition: English, Chinese, Korean, Japanese, German, French etc. 3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）
-- [next.js](https://github.com/vercel/next.js) : JavaScript
-  - The React Framework
-- [json](https://github.com/nlohmann/json) : C++
-  - JSON for Modern C++
-- [you-get](https://github.com/soimort/you-get) : Python
-  - ⏬ Dumb downloader that scrapes the web
-- [Faker](https://github.com/fzaninotto/Faker) : PHP
-  - Faker is a PHP library that generates fake data for you
-- [endlessh](https://github.com/skeeto/endlessh) : C
-  - SSH tarpit that slowly sends an endless banner
-- [manim](https://github.com/3b1b/manim) : Python
-  - Animation engine for explanatory math videos
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
-  - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
-- [openpilot](https://github.com/commaai/openpilot) : C++
-  - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
-- [google-research](https://github.com/google-research/google-research) : Jupyter Notebook
-  - Google Research
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) : Vue
-  - 👽 A free, fast and beautiful API request builder used by 100k+ developers. https://hoppscotch.io
-- [Auto.js](https://github.com/hyb1996/Auto.js) : Java
-  - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
+- [COVID-19](https://github.com/pcm-dpc/COVID-19) : 
+  - COVID-19 Italia - Monitoraggio situazione
+- [vscode-stories](https://github.com/benawad/vscode-stories) : TypeScript
+  - Stories for VSCode
+- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) : JavaScript
+  - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。 阿里招 Python P6/P7 上海张江, gaojunqi@outlook.com
+- [td](https://github.com/tdlib/td) : C++
+  - Cross-platform library for building Telegram clients
+- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) : JavaScript
+  - Bypass Paywalls web browser extension for Chrome and Firefox.
+- [wechat-app-mall](https://github.com/EastWorld/wechat-app-mall) : JavaScript
+  - 微信小程序商城，微信小程序微店
+- [imgui](https://github.com/ocornut/imgui) : C++
+  - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+- [arrow](https://github.com/apache/arrow) : C++
+  - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…
+- [avatarify](https://github.com/alievk/avatarify) : Python
+  - Avatars for Zoom, Skype and other video-conferencing apps.

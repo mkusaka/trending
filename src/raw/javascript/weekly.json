@@ -1,163 +1,23 @@
 [
   {
-    "author": "hyue418",
-    "name": "taobao-11-11",
-    "href": "https://github.com/hyue418/taobao-11-11",
-    "description": "🚀2020淘宝+京东+支付宝双十一|双11全民养猫|全民营业自动化脚本【全额奖励，防检测】",
-    "language": "JavaScript",
-    "stars": 2409,
-    "forks": 954,
-    "starsInPeriod": 1231
-  },
-  {
     "author": "GitSquared",
     "name": "edex-ui",
     "href": "https://github.com/GitSquared/edex-ui",
     "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
     "language": "JavaScript",
-    "stars": 19634,
-    "forks": 1114,
-    "starsInPeriod": 1114
+    "stars": 22573,
+    "forks": 1256,
+    "starsInPeriod": 3016
   },
   {
-    "author": "vercel",
-    "name": "next.js",
-    "href": "https://github.com/vercel/next.js",
-    "description": "The React Framework",
+    "author": "LAB-MI",
+    "name": "attestation-deplacement-derogatoire-q4-2020",
+    "href": "https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020",
+    "description": "attestation-deplacement-derogatoire-q4-2020 public",
     "language": "JavaScript",
-    "stars": 56305,
-    "forks": 9334,
-    "starsInPeriod": 1605
-  },
-  {
-    "author": "facebook",
-    "name": "create-react-app",
-    "href": "https://github.com/facebook/create-react-app",
-    "description": "Set up a modern web app by running one command.",
-    "language": "JavaScript",
-    "stars": 83427,
-    "forks": 20374,
-    "starsInPeriod": 299
-  },
-  {
-    "author": "jonasschmedtmann",
-    "name": "complete-javascript-course",
-    "href": "https://github.com/jonasschmedtmann/complete-javascript-course",
-    "description": "Starter files, final projects and FAQ for my Complete JavaScript course",
-    "language": "JavaScript",
-    "stars": 5194,
-    "forks": 6645,
-    "starsInPeriod": 134
-  },
-  {
-    "author": "trekhleb",
-    "name": "javascript-algorithms",
-    "href": "https://github.com/trekhleb/javascript-algorithms",
-    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-    "language": "JavaScript",
-    "stars": 83860,
-    "forks": 14127,
-    "starsInPeriod": 1254
-  },
-  {
-    "author": "axios",
-    "name": "axios",
-    "href": "https://github.com/axios/axios",
-    "description": "Promise based HTTP client for the browser and node.js",
-    "language": "JavaScript",
-    "stars": 78442,
-    "forks": 7368,
-    "starsInPeriod": 304
-  },
-  {
-    "author": "apache",
-    "name": "incubator-echarts",
-    "href": "https://github.com/apache/incubator-echarts",
-    "description": "A powerful, interactive charting and data visualization library for browser",
-    "language": "JavaScript",
-    "stars": 43446,
-    "forks": 15917,
+    "stars": 321,
+    "forks": 280,
     "starsInPeriod": 106
-  },
-  {
-    "author": "lxk0301",
-    "name": "scripts",
-    "href": "https://github.com/lxk0301/scripts",
-    "description": "京东薅羊毛工具, 京东水果、宠物、种豆等等",
-    "language": "JavaScript",
-    "stars": 1898,
-    "forks": 2113,
-    "starsInPeriod": 644
-  },
-  {
-    "author": "qishibo",
-    "name": "AnotherRedisDesktopManager",
-    "href": "https://github.com/qishibo/AnotherRedisDesktopManager",
-    "description": "🚀🚀🚀A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.",
-    "language": "JavaScript",
-    "stars": 9572,
-    "forks": 1003,
-    "starsInPeriod": 238
-  },
-  {
-    "author": "listen1",
-    "name": "listen1_desktop",
-    "href": "https://github.com/listen1/listen1_desktop",
-    "description": "one for all free music in china (Windows, Mac, Linux desktop)",
-    "language": "JavaScript",
-    "stars": 3174,
-    "forks": 775,
-    "starsInPeriod": 51
-  },
-  {
-    "author": "OAI",
-    "name": "OpenAPI-Specification",
-    "href": "https://github.com/OAI/OpenAPI-Specification",
-    "description": "The OpenAPI Specification Repository",
-    "language": "JavaScript",
-    "stars": 19252,
-    "forks": 6914,
-    "starsInPeriod": 239
-  },
-  {
-    "author": "Miodec",
-    "name": "monkeytype",
-    "href": "https://github.com/Miodec/monkeytype",
-    "description": "A minimalistic typing test",
-    "language": "JavaScript",
-    "stars": 659,
-    "forks": 107,
-    "starsInPeriod": 97
-  },
-  {
-    "author": "chavyleung",
-    "name": "scripts",
-    "href": "https://github.com/chavyleung/scripts",
-    "description": null,
-    "language": "JavaScript",
-    "stars": 1521,
-    "forks": 523,
-    "starsInPeriod": 61
-  },
-  {
-    "author": "youzan",
-    "name": "vant",
-    "href": "https://github.com/youzan/vant",
-    "description": "Lightweight Mobile UI Components built on Vue",
-    "language": "JavaScript",
-    "stars": 15421,
-    "forks": 7331,
-    "starsInPeriod": 103
-  },
-  {
-    "author": "jojoldu",
-    "name": "junior-recruit-scheduler",
-    "href": "https://github.com/jojoldu/junior-recruit-scheduler",
-    "description": "주니어 개발자 채용 정보",
-    "language": "JavaScript",
-    "stars": 4395,
-    "forks": 794,
-    "starsInPeriod": 51
   },
   {
     "author": "chinese-poetry",
@@ -165,9 +25,179 @@
     "href": "https://github.com/chinese-poetry/chinese-poetry",
     "description": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。 阿里招 Python P6/P7 上海张江, gaojunqi@outlook.com",
     "language": "JavaScript",
-    "stars": 30173,
-    "forks": 6186,
-    "starsInPeriod": 81
+    "stars": 30268,
+    "forks": 6210,
+    "starsInPeriod": 104
+  },
+  {
+    "author": "iamadamdev",
+    "name": "bypass-paywalls-chrome",
+    "href": "https://github.com/iamadamdev/bypass-paywalls-chrome",
+    "description": "Bypass Paywalls web browser extension for Chrome and Firefox.",
+    "language": "JavaScript",
+    "stars": 10758,
+    "forks": 745,
+    "starsInPeriod": 236
+  },
+  {
+    "author": "EastWorld",
+    "name": "wechat-app-mall",
+    "href": "https://github.com/EastWorld/wechat-app-mall",
+    "description": "微信小程序商城，微信小程序微店",
+    "language": "JavaScript",
+    "stars": 13457,
+    "forks": 4837,
+    "starsInPeriod": 78
+  },
+  {
+    "author": "AMAI-GmbH",
+    "name": "AI-Expert-Roadmap",
+    "href": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "description": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
+    "language": "JavaScript",
+    "stars": 4659,
+    "forks": 381,
+    "starsInPeriod": 3328
+  },
+  {
+    "author": "algorithm-visualizer",
+    "name": "algorithm-visualizer",
+    "href": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
+    "language": "JavaScript",
+    "stars": 32480,
+    "forks": 5399,
+    "starsInPeriod": 648
+  },
+  {
+    "author": "lxk0301",
+    "name": "scripts",
+    "href": "https://github.com/lxk0301/scripts",
+    "description": "京东薅羊毛工具, 京东水果、宠物、种豆等等",
+    "language": "JavaScript",
+    "stars": 2461,
+    "forks": 2942,
+    "starsInPeriod": 602
+  },
+  {
+    "author": "denysdovhan",
+    "name": "wtfjs",
+    "href": "https://github.com/denysdovhan/wtfjs",
+    "description": "🤪 A list of funny and tricky JavaScript examples",
+    "language": "JavaScript",
+    "stars": 19511,
+    "forks": 1268,
+    "starsInPeriod": 515
+  },
+  {
+    "author": "ShizukuIchi",
+    "name": "winXP",
+    "href": "https://github.com/ShizukuIchi/winXP",
+    "description": "🏁 Web based Windows XP desktop recreation.",
+    "language": "JavaScript",
+    "stars": 4173,
+    "forks": 226,
+    "starsInPeriod": 286
+  },
+  {
+    "author": "iptv-org",
+    "name": "iptv",
+    "href": "https://github.com/iptv-org/iptv",
+    "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "language": "JavaScript",
+    "stars": 20408,
+    "forks": 82,
+    "starsInPeriod": 141
+  },
+  {
+    "author": "w37fhy",
+    "name": "QuantumultX",
+    "href": "https://github.com/w37fhy/QuantumultX",
+    "description": "同步和更新大佬脚本库，更新懒人配置",
+    "language": "JavaScript",
+    "stars": 245,
+    "forks": 59,
+    "starsInPeriod": 74
+  },
+  {
+    "author": "socketio",
+    "name": "socket.io",
+    "href": "https://github.com/socketio/socket.io",
+    "description": "Realtime application framework (Node.JS server)",
+    "language": "JavaScript",
+    "stars": 51422,
+    "forks": 9308,
+    "starsInPeriod": 402
+  },
+  {
+    "author": "chavyleung",
+    "name": "scripts",
+    "href": "https://github.com/chavyleung/scripts",
+    "description": null,
+    "language": "JavaScript",
+    "stars": 1582,
+    "forks": 540,
+    "starsInPeriod": 63
+  },
+  {
+    "author": "twbs",
+    "name": "bootstrap",
+    "href": "https://github.com/twbs/bootstrap",
+    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "language": "JavaScript",
+    "stars": 145135,
+    "forks": 70970,
+    "starsInPeriod": 168
+  },
+  {
+    "author": "yogeshojha",
+    "name": "rengine",
+    "href": "https://github.com/yogeshojha/rengine",
+    "description": "reNgine is an automated reconnaissance framework meant for gathering information during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.",
+    "language": "JavaScript",
+    "stars": 1575,
+    "forks": 272,
+    "starsInPeriod": 84
+  },
+  {
+    "author": "MhankBarBar",
+    "name": "whatsapp-bot",
+    "href": "https://github.com/MhankBarBar/whatsapp-bot",
+    "description": "WhatsApp Bot",
+    "language": "JavaScript",
+    "stars": 93,
+    "forks": 128,
+    "starsInPeriod": 23
+  },
+  {
+    "author": "laurent22",
+    "name": "joplin",
+    "href": "https://github.com/laurent22/joplin",
+    "description": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
+    "language": "JavaScript",
+    "stars": 18703,
+    "forks": 1921,
+    "starsInPeriod": 189
+  },
+  {
+    "author": "Advanced-Frontend",
+    "name": "Daily-Interview-Question",
+    "href": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+    "description": "我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。",
+    "language": "JavaScript",
+    "stars": 20956,
+    "forks": 2601,
+    "starsInPeriod": 96
+  },
+  {
+    "author": "jgraph",
+    "name": "drawio",
+    "href": "https://github.com/jgraph/drawio",
+    "description": "Source to app.diagrams.net",
+    "language": "JavaScript",
+    "stars": 20278,
+    "forks": 4136,
+    "starsInPeriod": 132
   },
   {
     "author": "ruicky",
@@ -175,78 +205,48 @@
     "href": "https://github.com/ruicky/jd_sign_bot",
     "description": "京东签到机器人",
     "language": "JavaScript",
-    "stars": 1149,
-    "forks": 1841,
-    "starsInPeriod": 247
+    "stars": 1361,
+    "forks": 2154,
+    "starsInPeriod": 240
   },
   {
-    "author": "mrdoob",
-    "name": "three.js",
-    "href": "https://github.com/mrdoob/three.js",
-    "description": "JavaScript 3D library.",
+    "author": "pedroslopez",
+    "name": "whatsapp-web.js",
+    "href": "https://github.com/pedroslopez/whatsapp-web.js",
+    "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
     "language": "JavaScript",
-    "stars": 64498,
-    "forks": 25403,
-    "starsInPeriod": 206
+    "stars": 1180,
+    "forks": 347,
+    "starsInPeriod": 61
   },
   {
-    "author": "nodejs",
-    "name": "node",
-    "href": "https://github.com/nodejs/node",
-    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "author": "vuejs",
+    "name": "vue-cli",
+    "href": "https://github.com/vuejs/vue-cli",
+    "description": "🛠️ Standard Tooling for Vue.js Development",
     "language": "JavaScript",
-    "stars": 74491,
-    "forks": 18390,
-    "starsInPeriod": 239
-  },
-  {
-    "author": "PanJiaChen",
-    "name": "vue-admin-template",
-    "href": "https://github.com/PanJiaChen/vue-admin-template",
-    "description": "a vue2.0 minimal admin template",
-    "language": "JavaScript",
-    "stars": 12404,
-    "forks": 4788,
+    "stars": 26714,
+    "forks": 5158,
     "starsInPeriod": 69
   },
   {
-    "author": "givanz",
-    "name": "VvvebJs",
-    "href": "https://github.com/givanz/VvvebJs",
-    "description": "Drag and drop website builder javascript library.",
+    "author": "SheetJS",
+    "name": "sheetjs",
+    "href": "https://github.com/SheetJS/sheetjs",
+    "description": "📗 SheetJS Community Edition -- Spreadsheet Data Toolkit",
     "language": "JavaScript",
-    "stars": 3556,
-    "forks": 875,
-    "starsInPeriod": 76
+    "stars": 23364,
+    "forks": 6097,
+    "starsInPeriod": 114
   },
   {
-    "author": "ColorlibHQ",
-    "name": "AdminLTE",
-    "href": "https://github.com/ColorlibHQ/AdminLTE",
-    "description": "AdminLTE - Free admin dashboard template based on Bootstrap 4",
+    "author": "nolimits4web",
+    "name": "swiper",
+    "href": "https://github.com/nolimits4web/swiper",
+    "description": "Most modern mobile touch slider with hardware accelerated transitions",
     "language": "JavaScript",
-    "stars": 36556,
-    "forks": 15304,
-    "starsInPeriod": 86
-  },
-  {
-    "author": "i-want-offer",
-    "name": "FE-Essay",
-    "href": "https://github.com/i-want-offer/FE-Essay",
-    "description": "2020 前端初中级面试题",
-    "language": "JavaScript",
-    "stars": 267,
-    "forks": 88,
-    "starsInPeriod": 52
-  },
-  {
-    "author": "OpenZeppelin",
-    "name": "openzeppelin-contracts",
-    "href": "https://github.com/OpenZeppelin/openzeppelin-contracts",
-    "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
-    "language": "JavaScript",
-    "stars": 8646,
-    "forks": 3703,
-    "starsInPeriod": 36
+    "stars": 25266,
+    "forks": 9208,
+    "starsInPeriod": 94
   }
 ]
