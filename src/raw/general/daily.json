@@ -1,73 +1,13 @@
 [
   {
-    "author": "cjph8914",
-    "name": "2020_benfords",
-    "href": "https://github.com/cjph8914/2020_benfords",
-    "description": null,
-    "language": "Jupyter Notebook",
-    "stars": 185,
-    "forks": 58,
-    "starsInPeriod": 170
-  },
-  {
-    "author": "thenewboston-developers",
-    "name": "Account-Manager",
-    "href": "https://github.com/thenewboston-developers/Account-Manager",
-    "description": "Account manager desktop application for thenewboston digital currency.",
-    "language": "TypeScript",
-    "stars": 142,
-    "forks": 75,
-    "starsInPeriod": 52
-  },
-  {
     "author": "chatwoot",
     "name": "chatwoot",
     "href": "https://github.com/chatwoot/chatwoot",
     "description": "Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬",
     "language": "Ruby",
-    "stars": 5098,
-    "forks": 520,
-    "starsInPeriod": 184
-  },
-  {
-    "author": "MarlinFirmware",
-    "name": "Marlin",
-    "href": "https://github.com/MarlinFirmware/Marlin",
-    "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
-    "language": "C++",
-    "stars": 8701,
-    "forks": 12210,
-    "starsInPeriod": 16
-  },
-  {
-    "author": "vlang",
-    "name": "v",
-    "href": "https://github.com/vlang/v",
-    "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
-    "language": "V",
-    "stars": 19049,
-    "forks": 1177,
-    "starsInPeriod": 38
-  },
-  {
-    "author": "codeedu",
-    "name": "avancadev",
-    "href": "https://github.com/codeedu/avancadev",
-    "description": null,
-    "language": "HTML",
-    "stars": 217,
-    "forks": 174,
-    "starsInPeriod": 64
-  },
-  {
-    "author": "socketio",
-    "name": "socket.io",
-    "href": "https://github.com/socketio/socket.io",
-    "description": "Realtime application framework (Node.JS server)",
-    "language": "JavaScript",
-    "stars": 51293,
-    "forks": 9301,
-    "starsInPeriod": 135
+    "stars": 5415,
+    "forks": 537,
+    "starsInPeriod": 434
   },
   {
     "author": "facebookresearch",
@@ -75,169 +15,9 @@
     "href": "https://github.com/facebookresearch/pifuhd",
     "description": "High-Resolution 3D Human Digitization from A Single Image.",
     "language": "Python",
-    "stars": 4084,
-    "forks": 460,
-    "starsInPeriod": 558
-  },
-  {
-    "author": "guardicore",
-    "name": "monkey",
-    "href": "https://github.com/guardicore/monkey",
-    "description": "Infection Monkey - An automated pentest tool",
-    "language": "Python",
-    "stars": 4317,
-    "forks": 517,
-    "starsInPeriod": 523
-  },
-  {
-    "author": "cmu-snap",
-    "name": "pigasus",
-    "href": "https://github.com/cmu-snap/pigasus",
-    "description": "100Gbps Intrusion Detection and Prevention System",
-    "language": "C++",
-    "stars": 217,
-    "forks": 23,
-    "starsInPeriod": 174
-  },
-  {
-    "author": "geohot",
-    "name": "tinygrad",
-    "href": "https://github.com/geohot/tinygrad",
-    "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
-    "language": "Python",
-    "stars": 596,
-    "forks": 75,
-    "starsInPeriod": 76
-  },
-  {
-    "author": "jef",
-    "name": "streetmerchant",
-    "href": "https://github.com/jef/streetmerchant",
-    "description": "🤖 Autonomous robot for all your electronic needs",
-    "language": "TypeScript",
-    "stars": 859,
-    "forks": 320,
-    "starsInPeriod": 125
-  },
-  {
-    "author": "jofpin",
-    "name": "trape",
-    "href": "https://github.com/jofpin/trape",
-    "description": "People tracker on the Internet: OSINT analysis and research tool by Jose Pino",
-    "language": "Python",
-    "stars": 5891,
-    "forks": 1021,
-    "starsInPeriod": 363
-  },
-  {
-    "author": "thenewboston-developers",
-    "name": "Website",
-    "href": "https://github.com/thenewboston-developers/Website",
-    "description": "The website and documentation for thenewboston.",
-    "language": "TypeScript",
-    "stars": 115,
-    "forks": 165,
-    "starsInPeriod": 46
-  },
-  {
-    "author": "xamarin",
-    "name": "XamarinCommunityToolkit",
-    "href": "https://github.com/xamarin/XamarinCommunityToolkit",
-    "description": "The Xamarin Community Toolkit is a collection of Animations, Behaviors, Converters, and Effects for mobile development with Xamarin.Forms. It simplifies and demonstrates common developer tasks building iOS, Android, and UWP apps with Xamarin.Forms.",
-    "language": "C#",
-    "stars": 783,
-    "forks": 146,
-    "starsInPeriod": 13
-  },
-  {
-    "author": "appbrewery",
-    "name": "100-days-of-python",
-    "href": "https://github.com/appbrewery/100-days-of-python",
-    "description": "100 Days of Code in Python",
-    "language": "",
-    "stars": 683,
-    "forks": 114,
-    "starsInPeriod": 368
-  },
-  {
-    "author": "geekxh",
-    "name": "hello-algorithm",
-    "href": "https://github.com/geekxh/hello-algorithm",
-    "description": "🌍 东半球最酷的学习项目 | 1、我写的三十万字算法图解 2、千本开源电子书 3、100 张思维导图 4、100 篇大厂面经 5、30 个学习专题 🚀 🚀 🚀 右上角点个 star，加入我们万人学习群！English Supported！",
-    "language": "Java",
-    "stars": 20316,
-    "forks": 3850,
-    "starsInPeriod": 322
-  },
-  {
-    "author": "kelthuzadx",
-    "name": "EffectiveModernCppChinese",
-    "href": "https://github.com/kelthuzadx/EffectiveModernCppChinese",
-    "description": "《Effective Modern C++》翻译 - 2020更新中",
-    "language": "",
-    "stars": 1348,
-    "forks": 200,
-    "starsInPeriod": 228
-  },
-  {
-    "author": "lionsoul2014",
-    "name": "ip2region",
-    "href": "https://github.com/lionsoul2014/ip2region",
-    "description": "Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm",
-    "language": "Java",
-    "stars": 8544,
-    "forks": 1551,
-    "starsInPeriod": 64
-  },
-  {
-    "author": "edent",
-    "name": "SuperTinyIcons",
-    "href": "https://github.com/edent/SuperTinyIcons",
-    "description": "Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos",
-    "language": "JavaScript",
-    "stars": 9997,
-    "forks": 540,
-    "starsInPeriod": 693
-  },
-  {
-    "author": "raspberrypi",
-    "name": "linux",
-    "href": "https://github.com/raspberrypi/linux",
-    "description": "Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://www.raspberrypi.org/forum",
-    "language": "C",
-    "stars": 7282,
-    "forks": 3529,
-    "starsInPeriod": 9
-  },
-  {
-    "author": "ValveSoftware",
-    "name": "Proton",
-    "href": "https://github.com/ValveSoftware/Proton",
-    "description": "Compatibility tool for Steam Play based on Wine and additional components",
-    "language": "C++",
-    "stars": 12345,
-    "forks": 489,
-    "starsInPeriod": 24
-  },
-  {
-    "author": "iv-org",
-    "name": "invidious",
-    "href": "https://github.com/iv-org/invidious",
-    "description": "Invidious is an alternative front-end to YouTube",
-    "language": "Crystal",
-    "stars": 4001,
-    "forks": 306,
-    "starsInPeriod": 13
-  },
-  {
-    "author": "massgravel",
-    "name": "Microsoft-Activation-Scripts",
-    "href": "https://github.com/massgravel/Microsoft-Activation-Scripts",
-    "description": "A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.",
-    "language": "Batchfile",
-    "stars": 1617,
-    "forks": 286,
-    "starsInPeriod": 68
+    "stars": 4489,
+    "forks": 511,
+    "starsInPeriod": 810
   },
   {
     "author": "arendst",
@@ -245,8 +25,228 @@
     "href": "https://github.com/arendst/Tasmota",
     "description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
     "language": "C",
-    "stars": 12745,
-    "forks": 2917,
-    "starsInPeriod": 33
+    "stars": 12904,
+    "forks": 2922,
+    "starsInPeriod": 141
+  },
+  {
+    "author": "vlang",
+    "name": "v",
+    "href": "https://github.com/vlang/v",
+    "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "language": "V",
+    "stars": 19278,
+    "forks": 1181,
+    "starsInPeriod": 183
+  },
+  {
+    "author": "geohot",
+    "name": "tinygrad",
+    "href": "https://github.com/geohot/tinygrad",
+    "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "language": "Python",
+    "stars": 699,
+    "forks": 82,
+    "starsInPeriod": 173
+  },
+  {
+    "author": "thenewboston-developers",
+    "name": "Website",
+    "href": "https://github.com/thenewboston-developers/Website",
+    "description": "The website and documentation for thenewboston.",
+    "language": "TypeScript",
+    "stars": 159,
+    "forks": 180,
+    "starsInPeriod": 46
+  },
+  {
+    "author": "iv-org",
+    "name": "invidious",
+    "href": "https://github.com/iv-org/invidious",
+    "description": "Invidious is an alternative front-end to YouTube",
+    "language": "Crystal",
+    "stars": 4074,
+    "forks": 310,
+    "starsInPeriod": 59
+  },
+  {
+    "author": "socketio",
+    "name": "socket.io",
+    "href": "https://github.com/socketio/socket.io",
+    "description": "Realtime application framework (Node.JS server)",
+    "language": "JavaScript",
+    "stars": 51432,
+    "forks": 9308,
+    "starsInPeriod": 147
+  },
+  {
+    "author": "Qovery",
+    "name": "engine",
+    "href": "https://github.com/Qovery/engine",
+    "description": "Deploy your apps on any Cloud providers in just a few seconds",
+    "language": "Rust",
+    "stars": 1535,
+    "forks": 20,
+    "starsInPeriod": 874
+  },
+  {
+    "author": "cjph8914",
+    "name": "2020_benfords",
+    "href": "https://github.com/cjph8914/2020_benfords",
+    "description": null,
+    "language": "Jupyter Notebook",
+    "stars": 287,
+    "forks": 85,
+    "starsInPeriod": 233
+  },
+  {
+    "author": "donnemartin",
+    "name": "system-design-primer",
+    "href": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "stars": 111323,
+    "forks": 20135,
+    "starsInPeriod": 89
+  },
+  {
+    "author": "appbrewery",
+    "name": "100-days-of-python",
+    "href": "https://github.com/appbrewery/100-days-of-python",
+    "description": "100 Days of Code in Python",
+    "language": "",
+    "stars": 858,
+    "forks": 137,
+    "starsInPeriod": 520
+  },
+  {
+    "author": "thenewboston-developers",
+    "name": "Account-Manager",
+    "href": "https://github.com/thenewboston-developers/Account-Manager",
+    "description": "Account manager desktop application for thenewboston digital currency.",
+    "language": "TypeScript",
+    "stars": 220,
+    "forks": 87,
+    "starsInPeriod": 131
+  },
+  {
+    "author": "gao-sun",
+    "name": "eul",
+    "href": "https://github.com/gao-sun/eul",
+    "description": "🖥️ macOS status monitoring app written in SwiftUI.",
+    "language": "Swift",
+    "stars": 2299,
+    "forks": 82,
+    "starsInPeriod": 172
+  },
+  {
+    "author": "UnityTechnologies",
+    "name": "open-project-1",
+    "href": "https://github.com/UnityTechnologies/open-project-1",
+    "description": "Unity Open Project #1: Action-adventure",
+    "language": "C#",
+    "stars": 1949,
+    "forks": 724,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "guardicore",
+    "name": "monkey",
+    "href": "https://github.com/guardicore/monkey",
+    "description": "Infection Monkey - An automated pentest tool",
+    "language": "Python",
+    "stars": 4621,
+    "forks": 531,
+    "starsInPeriod": 870
+  },
+  {
+    "author": "TiendaNube",
+    "name": "php-programming-best-practices",
+    "href": "https://github.com/TiendaNube/php-programming-best-practices",
+    "description": "Referencia para los desarrolladores de Tiendanube y para la comunidad de PHP.",
+    "language": "",
+    "stars": 69,
+    "forks": 14,
+    "starsInPeriod": 27
+  },
+  {
+    "author": "lightspin-tech",
+    "name": "red-kube",
+    "href": "https://github.com/lightspin-tech/red-kube",
+    "description": "Red Team KubeCTL Cheat Sheet",
+    "language": "",
+    "stars": 225,
+    "forks": 15,
+    "starsInPeriod": 71
+  },
+  {
+    "author": "yogeshojha",
+    "name": "rengine",
+    "href": "https://github.com/yogeshojha/rengine",
+    "description": "reNgine is an automated reconnaissance framework meant for gathering information during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.",
+    "language": "JavaScript",
+    "stars": 1581,
+    "forks": 275,
+    "starsInPeriod": 47
+  },
+  {
+    "author": "scarsty",
+    "name": "kys-cpp",
+    "href": "https://github.com/scarsty/kys-cpp",
+    "description": "《金庸群侠传》c++复刻版，已完工",
+    "language": "C++",
+    "stars": 633,
+    "forks": 152,
+    "starsInPeriod": 62
+  },
+  {
+    "author": "cmu-snap",
+    "name": "pigasus",
+    "href": "https://github.com/cmu-snap/pigasus",
+    "description": "100Gbps Intrusion Detection and Prevention System",
+    "language": "C++",
+    "stars": 346,
+    "forks": 28,
+    "starsInPeriod": 272
+  },
+  {
+    "author": "Atcold",
+    "name": "pytorch-Deep-Learning",
+    "href": "https://github.com/Atcold/pytorch-Deep-Learning",
+    "description": "Deep Learning (with PyTorch)",
+    "language": "Jupyter Notebook",
+    "stars": 3367,
+    "forks": 1095,
+    "starsInPeriod": 30
+  },
+  {
+    "author": "USTC-Hackergame",
+    "name": "hackergame2020-writeups",
+    "href": "https://github.com/USTC-Hackergame/hackergame2020-writeups",
+    "description": "中国科学技术大学第七届信息安全大赛的官方与非官方题解",
+    "language": "C++",
+    "stars": 194,
+    "forks": 41,
+    "starsInPeriod": 49
+  },
+  {
+    "author": "MarlinFirmware",
+    "name": "Marlin",
+    "href": "https://github.com/MarlinFirmware/Marlin",
+    "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "language": "C++",
+    "stars": 8786,
+    "forks": 12218,
+    "starsInPeriod": 86
+  },
+  {
+    "author": "geekxh",
+    "name": "hello-algorithm",
+    "href": "https://github.com/geekxh/hello-algorithm",
+    "description": "🌍 东半球最酷的学习项目 | 1、我写的三十万字算法图解 2、千本开源电子书 3、100 张思维导图 4、100 篇大厂面经 5、30 个学习专题 🚀 🚀 🚀 右上角点个 star，加入我们万人学习群！English Supported！",
+    "language": "Java",
+    "stars": 20618,
+    "forks": 3907,
+    "starsInPeriod": 304
   }
 ]
