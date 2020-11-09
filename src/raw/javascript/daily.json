@@ -5,39 +5,19 @@
     "href": "https://github.com/socketio/socket.io",
     "description": "Realtime application framework (Node.JS server)",
     "language": "JavaScript",
-    "stars": 51293,
-    "forks": 9301,
-    "starsInPeriod": 135
+    "stars": 51432,
+    "forks": 9308,
+    "starsInPeriod": 147
   },
   {
-    "author": "denysdovhan",
-    "name": "wtfjs",
-    "href": "https://github.com/denysdovhan/wtfjs",
-    "description": "🤪 A list of funny and tricky JavaScript examples",
+    "author": "yogeshojha",
+    "name": "rengine",
+    "href": "https://github.com/yogeshojha/rengine",
+    "description": "reNgine is an automated reconnaissance framework meant for gathering information during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.",
     "language": "JavaScript",
-    "stars": 19353,
-    "forks": 1259,
-    "starsInPeriod": 252
-  },
-  {
-    "author": "bradtraversy",
-    "name": "storybooks",
-    "href": "https://github.com/bradtraversy/storybooks",
-    "description": "Node.js app with Google OAuth",
-    "language": "JavaScript",
-    "stars": 222,
-    "forks": 195,
-    "starsInPeriod": 14
-  },
-  {
-    "author": "chavyleung",
-    "name": "scripts",
-    "href": "https://github.com/chavyleung/scripts",
-    "description": null,
-    "language": "JavaScript",
-    "stars": 1579,
-    "forks": 536,
-    "starsInPeriod": 27
+    "stars": 1581,
+    "forks": 275,
+    "starsInPeriod": 47
   },
   {
     "author": "github",
@@ -45,168 +25,68 @@
     "href": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "stars": 1465,
-    "forks": 3092,
-    "starsInPeriod": 36
+    "stars": 1482,
+    "forks": 3183,
+    "starsInPeriod": 19
   },
   {
-    "author": "lxk0301",
-    "name": "scripts",
-    "href": "https://github.com/lxk0301/scripts",
-    "description": "京东薅羊毛工具, 京东水果、宠物、种豆等等",
+    "author": "orkestral",
+    "name": "venom",
+    "href": "https://github.com/orkestral/venom",
+    "description": "Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp",
     "language": "JavaScript",
-    "stars": 2395,
-    "forks": 2823,
-    "starsInPeriod": 201
+    "stars": 787,
+    "forks": 132,
+    "starsInPeriod": 12
   },
   {
-    "author": "gorhill",
-    "name": "uBlock",
-    "href": "https://github.com/gorhill/uBlock",
-    "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+    "author": "bradtraversy",
+    "name": "storybooks",
+    "href": "https://github.com/bradtraversy/storybooks",
+    "description": "Node.js app with Google OAuth",
     "language": "JavaScript",
-    "stars": 22555,
-    "forks": 1829,
-    "starsInPeriod": 35
+    "stars": 225,
+    "forks": 206,
+    "starsInPeriod": 4
   },
   {
-    "author": "GitSquared",
-    "name": "edex-ui",
-    "href": "https://github.com/GitSquared/edex-ui",
-    "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
-    "language": "JavaScript",
-    "stars": 22377,
-    "forks": 1239,
-    "starsInPeriod": 834
-  },
-  {
-    "author": "Wilkolicious",
-    "name": "twitchAdSkip",
-    "href": "https://github.com/Wilkolicious/twitchAdSkip",
+    "author": "dompling",
+    "name": "Scriptable",
+    "href": "https://github.com/dompling/Scriptable",
     "description": null,
     "language": "JavaScript",
-    "stars": 107,
-    "forks": 8,
-    "starsInPeriod": 59
+    "stars": 92,
+    "forks": 11,
+    "starsInPeriod": 20
   },
   {
-    "author": "facebook",
-    "name": "react",
-    "href": "https://github.com/facebook/react",
-    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "author": "denysdovhan",
+    "name": "wtfjs",
+    "href": "https://github.com/denysdovhan/wtfjs",
+    "description": "🤪 A list of funny and tricky JavaScript examples",
     "language": "JavaScript",
-    "stars": 158706,
-    "forks": 31475,
-    "starsInPeriod": 138
+    "stars": 19517,
+    "forks": 1269,
+    "starsInPeriod": 169
   },
   {
-    "author": "pedroslopez",
-    "name": "whatsapp-web.js",
-    "href": "https://github.com/pedroslopez/whatsapp-web.js",
-    "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+    "author": "Working-Title-MSFS-Mods",
+    "name": "fspackages",
+    "href": "https://github.com/Working-Title-MSFS-Mods/fspackages",
+    "description": "Working Title FS Packages",
     "language": "JavaScript",
-    "stars": 1173,
-    "forks": 344,
-    "starsInPeriod": 27
-  },
-  {
-    "author": "badges",
-    "name": "shields",
-    "href": "https://github.com/badges/shields",
-    "description": "Concise, consistent, and legible badges in SVG and raster format",
-    "language": "JavaScript",
-    "stars": 12544,
-    "forks": 3384,
-    "starsInPeriod": 16
-  },
-  {
-    "author": "discordjs",
-    "name": "discord.js",
-    "href": "https://github.com/discordjs/discord.js",
-    "description": "A powerful JavaScript library for interacting with the Discord API",
-    "language": "JavaScript",
-    "stars": 8024,
-    "forks": 1764,
-    "starsInPeriod": 14
-  },
-  {
-    "author": "adrianhajdin",
-    "name": "project_mern_memories",
-    "href": "https://github.com/adrianhajdin/project_mern_memories",
-    "description": "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called \"Memories\" and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-    "language": "JavaScript",
-    "stars": 66,
-    "forks": 10,
-    "starsInPeriod": 24
-  },
-  {
-    "author": "BretFisher",
-    "name": "udemy-docker-mastery",
-    "href": "https://github.com/BretFisher/udemy-docker-mastery",
-    "description": "Udemy Course to build, compose, deploy, and manage containers from local development to high-availability in the cloud",
-    "language": "JavaScript",
-    "stars": 3279,
-    "forks": 3605,
+    "stars": 420,
+    "forks": 26,
     "starsInPeriod": 9
   },
   {
-    "author": "nightscout",
-    "name": "cgm-remote-monitor",
-    "href": "https://github.com/nightscout/cgm-remote-monitor",
-    "description": "nightscout web monitor",
+    "author": "Orz-3",
+    "name": "QuantumultX",
+    "href": "https://github.com/Orz-3/QuantumultX",
+    "description": null,
     "language": "JavaScript",
-    "stars": 1325,
-    "forks": 46781,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "sql-js",
-    "name": "sql.js",
-    "href": "https://github.com/sql-js/sql.js",
-    "description": "A javascript library to run SQLite on the web.",
-    "language": "JavaScript",
-    "stars": 7437,
-    "forks": 798,
-    "starsInPeriod": 170
-  },
-  {
-    "author": "fossasia",
-    "name": "open-event-frontend",
-    "href": "https://github.com/fossasia/open-event-frontend",
-    "description": "The frontend for the Open Event API Server https://open-event-frontend.now.sh",
-    "language": "JavaScript",
-    "stars": 1617,
-    "forks": 998,
-    "starsInPeriod": 11
-  },
-  {
-    "author": "yagop",
-    "name": "node-telegram-bot-api",
-    "href": "https://github.com/yagop/node-telegram-bot-api",
-    "description": "Telegram Bot API for NodeJS",
-    "language": "JavaScript",
-    "stars": 4667,
-    "forks": 868,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "axios",
-    "name": "axios",
-    "href": "https://github.com/axios/axios",
-    "description": "Promise based HTTP client for the browser and node.js",
-    "language": "JavaScript",
-    "stars": 78648,
-    "forks": 7406,
-    "starsInPeriod": 82
-  },
-  {
-    "author": "imranhsayed",
-    "name": "gatsby-woocommerce-themes",
-    "href": "https://github.com/imranhsayed/gatsby-woocommerce-themes",
-    "description": "⚡ A Gatsby Theme for WooCommerce E-commerce site Gatsby WooCommerce WordPress",
-    "language": "JavaScript",
-    "stars": 143,
-    "forks": 61,
+    "stars": 229,
+    "forks": 82,
     "starsInPeriod": 5
   },
   {
@@ -215,38 +95,158 @@
     "href": "https://github.com/github/opensource.guide",
     "description": "📚 Community guides for open source creators",
     "language": "JavaScript",
-    "stars": 7494,
-    "forks": 8364,
-    "starsInPeriod": 16
+    "stars": 7501,
+    "forks": 8378,
+    "starsInPeriod": 10
   },
   {
-    "author": "orkestral",
-    "name": "venom",
-    "href": "https://github.com/orkestral/venom",
-    "description": "Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp",
+    "author": "blackmatrix7",
+    "name": "ios_rule_script",
+    "href": "https://github.com/blackmatrix7/ios_rule_script",
+    "description": "iOS平台的分流规则、复写规则和一些自动化脚本。",
     "language": "JavaScript",
-    "stars": 776,
-    "forks": 132,
+    "stars": 515,
+    "forks": 98,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "processing",
+    "name": "p5.js",
+    "href": "https://github.com/processing/p5.js",
+    "description": "p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —",
+    "language": "JavaScript",
+    "stars": 14319,
+    "forks": 2249,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "agalwood",
+    "name": "Motrix",
+    "href": "https://github.com/agalwood/Motrix",
+    "description": "A full-featured download manager.",
+    "language": "JavaScript",
+    "stars": 23324,
+    "forks": 2900,
+    "starsInPeriod": 17
+  },
+  {
+    "author": "flybywiresim",
+    "name": "a32nx",
+    "href": "https://github.com/flybywiresim/a32nx",
+    "description": "The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.",
+    "language": "JavaScript",
+    "stars": 2020,
+    "forks": 316,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "kentcdodds",
+    "name": "react-fundamentals",
+    "href": "https://github.com/kentcdodds/react-fundamentals",
+    "description": "Material for my React Fundamentals Workshop",
+    "language": "JavaScript",
+    "stars": 1528,
+    "forks": 427,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "Asabeneh",
+    "name": "30-Days-Of-JavaScript",
+    "href": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "description": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days",
+    "language": "JavaScript",
+    "stars": 3194,
+    "forks": 749,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "iancoleman",
+    "name": "bip39",
+    "href": "https://github.com/iancoleman/bip39",
+    "description": "A web tool for converting BIP39 mnemonic codes",
+    "language": "JavaScript",
+    "stars": 1347,
+    "forks": 795,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "vinissimus",
+    "name": "next-translate",
+    "href": "https://github.com/vinissimus/next-translate",
+    "description": "i18n tool for Next.js 10 🌍 - Load page translations and use them in an easy way!",
+    "language": "JavaScript",
+    "stars": 460,
+    "forks": 57,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "OAI",
+    "name": "OpenAPI-Specification",
+    "href": "https://github.com/OAI/OpenAPI-Specification",
+    "description": "The OpenAPI Specification Repository",
+    "language": "JavaScript",
+    "stars": 19306,
+    "forks": 6929,
+    "starsInPeriod": 13
+  },
+  {
+    "author": "DIYgod",
+    "name": "RSSHub",
+    "href": "https://github.com/DIYgod/RSSHub",
+    "description": "🍰 Everything is RSSible",
+    "language": "JavaScript",
+    "stars": 14352,
+    "forks": 2212,
     "starsInPeriod": 14
   },
   {
-    "author": "twbs",
-    "name": "bootstrap",
-    "href": "https://github.com/twbs/bootstrap",
-    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "author": "MichMich",
+    "name": "MagicMirror",
+    "href": "https://github.com/MichMich/MagicMirror",
+    "description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.",
     "language": "JavaScript",
-    "stars": 145124,
-    "forks": 70949,
-    "starsInPeriod": 55
+    "stars": 12970,
+    "forks": 3345,
+    "starsInPeriod": 8
   },
   {
-    "author": "invertase",
-    "name": "react-native-firebase",
-    "href": "https://github.com/invertase/react-native-firebase",
-    "description": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.",
+    "author": "lrsjng",
+    "name": "h5ai",
+    "href": "https://github.com/lrsjng/h5ai",
+    "description": "HTTP web server index for Apache httpd, lighttpd and nginx.",
     "language": "JavaScript",
-    "stars": 8462,
-    "forks": 1603,
-    "starsInPeriod": 13
+    "stars": 4113,
+    "forks": 494,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "neoclide",
+    "name": "coc.nvim",
+    "href": "https://github.com/neoclide/coc.nvim",
+    "description": "Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode",
+    "language": "JavaScript",
+    "stars": 13654,
+    "forks": 521,
+    "starsInPeriod": 23
+  },
+  {
+    "author": "nightscout",
+    "name": "cgm-remote-monitor",
+    "href": "https://github.com/nightscout/cgm-remote-monitor",
+    "description": "nightscout web monitor",
+    "language": "JavaScript",
+    "stars": 1328,
+    "forks": 46865,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "freeCodeCamp",
+    "name": "freeCodeCamp",
+    "href": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.",
+    "language": "JavaScript",
+    "stars": 316532,
+    "forks": 25026,
+    "starsInPeriod": 50
   }
 ]

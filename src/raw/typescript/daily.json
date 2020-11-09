@@ -1,13 +1,23 @@
 [
   {
     "author": "thenewboston-developers",
+    "name": "Website",
+    "href": "https://github.com/thenewboston-developers/Website",
+    "description": "The website and documentation for thenewboston.",
+    "language": "TypeScript",
+    "stars": 159,
+    "forks": 180,
+    "starsInPeriod": 46
+  },
+  {
+    "author": "thenewboston-developers",
     "name": "Account-Manager",
     "href": "https://github.com/thenewboston-developers/Account-Manager",
     "description": "Account manager desktop application for thenewboston digital currency.",
     "language": "TypeScript",
-    "stars": 142,
-    "forks": 75,
-    "starsInPeriod": 52
+    "stars": 220,
+    "forks": 87,
+    "starsInPeriod": 131
   },
   {
     "author": "jef",
@@ -15,99 +25,9 @@
     "href": "https://github.com/jef/streetmerchant",
     "description": "🤖 Autonomous robot for all your electronic needs",
     "language": "TypeScript",
-    "stars": 859,
-    "forks": 320,
-    "starsInPeriod": 125
-  },
-  {
-    "author": "thenewboston-developers",
-    "name": "Website",
-    "href": "https://github.com/thenewboston-developers/Website",
-    "description": "The website and documentation for thenewboston.",
-    "language": "TypeScript",
-    "stars": 115,
-    "forks": 165,
-    "starsInPeriod": 46
-  },
-  {
-    "author": "Yqnn",
-    "name": "svg-path-editor",
-    "href": "https://github.com/Yqnn/svg-path-editor",
-    "description": "Online editor to create and manipulate SVG paths",
-    "language": "TypeScript",
-    "stars": 798,
-    "forks": 42,
-    "starsInPeriod": 352
-  },
-  {
-    "author": "alephjs",
-    "name": "aleph.js",
-    "href": "https://github.com/alephjs/aleph.js",
-    "description": "The React Framework in Deno.",
-    "language": "TypeScript",
-    "stars": 591,
-    "forks": 9,
-    "starsInPeriod": 434
-  },
-  {
-    "author": "open-wa",
-    "name": "wa-automate-nodejs",
-    "href": "https://github.com/open-wa/wa-automate-nodejs",
-    "description": "💬 🤖 The most advanced NodeJS WhatsApp library for chatbots with advanced features. Be sure to 🌟 this repository for updates!",
-    "language": "TypeScript",
-    "stars": 910,
-    "forks": 224,
-    "starsInPeriod": 10
-  },
-  {
-    "author": "yarnpkg",
-    "name": "berry",
-    "href": "https://github.com/yarnpkg/berry",
-    "description": "📦🐈 Active development trunk for Yarn 2+ ⚒",
-    "language": "TypeScript",
-    "stars": 2603,
-    "forks": 314,
-    "starsInPeriod": 9
-  },
-  {
-    "author": "santiq",
-    "name": "bulletproof-nodejs",
-    "href": "https://github.com/santiq/bulletproof-nodejs",
-    "description": "Implementation of a bulletproof node.js API 🛡️",
-    "language": "TypeScript",
-    "stars": 2964,
-    "forks": 680,
-    "starsInPeriod": 10
-  },
-  {
-    "author": "react-hook-form",
-    "name": "react-hook-form",
-    "href": "https://github.com/react-hook-form/react-hook-form",
-    "description": "📋 React Hooks for forms validation (Web + React Native)",
-    "language": "TypeScript",
-    "stars": 15402,
-    "forks": 705,
-    "starsInPeriod": 57
-  },
-  {
-    "author": "Kedyn",
-    "name": "fusliez-notes",
-    "href": "https://github.com/Kedyn/fusliez-notes",
-    "description": "A companion notes app for Among Us social deduction game. Lets you track of your thoughts and your winning record, and includes a notepad and maps.",
-    "language": "TypeScript",
-    "stars": 134,
-    "forks": 38,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "homebridge",
-    "name": "homebridge",
-    "href": "https://github.com/homebridge/homebridge",
-    "description": "HomeKit support for the impatient",
-    "language": "TypeScript",
-    "stars": 15919,
-    "forks": 1712,
-    "starsInPeriod": 19
+    "stars": 973,
+    "forks": 324,
+    "starsInPeriod": 119
   },
   {
     "author": "denoland",
@@ -115,119 +35,59 @@
     "href": "https://github.com/denoland/deno",
     "description": "A secure JavaScript and TypeScript runtime",
     "language": "TypeScript",
-    "stars": 68834,
-    "forks": 3590,
-    "starsInPeriod": 93
+    "stars": 68869,
+    "forks": 3592,
+    "starsInPeriod": 42
   },
   {
-    "author": "microsoft",
-    "name": "TypeScript",
-    "href": "https://github.com/microsoft/TypeScript",
-    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+    "author": "homebridge",
+    "name": "homebridge",
+    "href": "https://github.com/homebridge/homebridge",
+    "description": "HomeKit support for the impatient",
     "language": "TypeScript",
-    "stars": 65519,
-    "forks": 8769,
-    "starsInPeriod": 70
+    "stars": 15928,
+    "forks": 1713,
+    "starsInPeriod": 11
   },
   {
-    "author": "FormidableLabs",
-    "name": "urql",
-    "href": "https://github.com/FormidableLabs/urql",
-    "description": "The highly customizable and versatile GraphQL client.",
+    "author": "alephjs",
+    "name": "aleph.js",
+    "href": "https://github.com/alephjs/aleph.js",
+    "description": "The React Framework in Deno.",
     "language": "TypeScript",
-    "stars": 5172,
-    "forks": 211,
-    "starsInPeriod": 12
+    "stars": 678,
+    "forks": 11,
+    "starsInPeriod": 91
   },
   {
-    "author": "xtermjs",
-    "name": "xterm.js",
-    "href": "https://github.com/xtermjs/xterm.js",
-    "description": "A terminal for the web",
+    "author": "balena-io",
+    "name": "etcher",
+    "href": "https://github.com/balena-io/etcher",
+    "description": "Flash OS images to SD cards & USB drives, safely and easily.",
     "language": "TypeScript",
-    "stars": 9352,
-    "forks": 982,
+    "stars": 19021,
+    "forks": 1272,
     "starsInPeriod": 14
   },
   {
-    "author": "Dreamacro",
-    "name": "clash-dashboard",
-    "href": "https://github.com/Dreamacro/clash-dashboard",
-    "description": "web port of clash",
+    "author": "dstotijn",
+    "name": "hetty",
+    "href": "https://github.com/dstotijn/hetty",
+    "description": "Hetty is an HTTP toolkit for security research.",
     "language": "TypeScript",
-    "stars": 481,
-    "forks": 109,
-    "starsInPeriod": 2
+    "stars": 2785,
+    "forks": 125,
+    "starsInPeriod": 50
   },
   {
-    "author": "aws-amplify",
-    "name": "amplify-cli",
-    "href": "https://github.com/aws-amplify/amplify-cli",
-    "description": "A CLI toolchain for simplifying serverless web and mobile development.",
+    "author": "mobxjs",
+    "name": "mobx",
+    "href": "https://github.com/mobxjs/mobx",
+    "description": "Simple, scalable state management.",
     "language": "TypeScript",
-    "stars": 1819,
-    "forks": 389,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "chakra-ui",
-    "name": "chakra-ui",
-    "href": "https://github.com/chakra-ui/chakra-ui",
-    "description": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
-    "language": "TypeScript",
-    "stars": 11682,
-    "forks": 857,
-    "starsInPeriod": 46
-  },
-  {
-    "author": "apm-ai",
-    "name": "datav",
-    "href": "https://github.com/apm-ai/datav",
-    "description": "Datav is a data visualization platform, providing observability for metrics/logs/traces/big-screens, written in react and go.",
-    "language": "TypeScript",
-    "stars": 1733,
-    "forks": 460,
-    "starsInPeriod": 475
-  },
-  {
-    "author": "givemeurhats",
-    "name": "japper",
-    "href": "https://github.com/givemeurhats/japper",
-    "description": "Javascript database library for PostgreSQL that doesn't get in your way but makes interacting with database more elegant!",
-    "language": "TypeScript",
-    "stars": 24,
-    "forks": 1,
-    "starsInPeriod": 24
-  },
-  {
-    "author": "Silind",
-    "name": "twitter-api-client",
-    "href": "https://github.com/Silind/twitter-api-client",
-    "description": "A user-friendly Node.js / JavaScript client library for interacting with the Twitter API.",
-    "language": "TypeScript",
-    "stars": 337,
-    "forks": 32,
-    "starsInPeriod": 29
-  },
-  {
-    "author": "vuejs",
-    "name": "vue-next",
-    "href": "https://github.com/vuejs/vue-next",
-    "description": "Repo for Vue 3",
-    "language": "TypeScript",
-    "stars": 18809,
-    "forks": 3064,
-    "starsInPeriod": 44
-  },
-  {
-    "author": "prisma",
-    "name": "prisma",
-    "href": "https://github.com/prisma/prisma",
-    "description": "Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite",
-    "language": "TypeScript",
-    "stars": 6101,
-    "forks": 304,
-    "starsInPeriod": 46
+    "stars": 22721,
+    "forks": 1452,
+    "starsInPeriod": 8
   },
   {
     "author": "nestjs",
@@ -235,18 +95,158 @@
     "href": "https://github.com/nestjs/nest",
     "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀",
     "language": "TypeScript",
-    "stars": 31583,
-    "forks": 2842,
-    "starsInPeriod": 56
+    "stars": 31613,
+    "forks": 2852,
+    "starsInPeriod": 34
+  },
+  {
+    "author": "lucent-sea",
+    "name": "Remotely",
+    "href": "https://github.com/lucent-sea/Remotely",
+    "description": "A remote control and remote scripting solution, built with .NET Core, SignalR Core, and WebRTC.",
+    "language": "TypeScript",
+    "stars": 611,
+    "forks": 162,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "DefinitelyTyped",
+    "name": "DefinitelyTyped",
+    "href": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "description": "The repository for high quality TypeScript type definitions.",
+    "language": "TypeScript",
+    "stars": 30691,
+    "forks": 23120,
+    "starsInPeriod": 14
   },
   {
     "author": "angular",
-    "name": "angular",
-    "href": "https://github.com/angular/angular",
-    "description": "One framework. Mobile & desktop.",
+    "name": "angularfire",
+    "href": "https://github.com/angular/angularfire",
+    "description": "The official Angular library for Firebase.",
     "language": "TypeScript",
-    "stars": 67436,
-    "forks": 17910,
-    "starsInPeriod": 79
+    "stars": 6424,
+    "forks": 1914,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "telegraf",
+    "name": "telegraf",
+    "href": "https://github.com/telegraf/telegraf",
+    "description": "Modern Telegram Bot Framework for Node.js",
+    "language": "TypeScript",
+    "stars": 3844,
+    "forks": 571,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "w3tecch",
+    "name": "express-typescript-boilerplate",
+    "href": "https://github.com/w3tecch/express-typescript-boilerplate",
+    "description": "A delightful way to building a RESTful API with NodeJs & TypeScript by @w3tecch",
+    "language": "TypeScript",
+    "stars": 1582,
+    "forks": 465,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "microsoft",
+    "name": "vscode",
+    "href": "https://github.com/microsoft/vscode",
+    "description": "Visual Studio Code",
+    "language": "TypeScript",
+    "stars": 105883,
+    "forks": 16968,
+    "starsInPeriod": 58
+  },
+  {
+    "author": "apm-ai",
+    "name": "datav",
+    "href": "https://github.com/apm-ai/datav",
+    "description": "Datav is a data visualization platform, providing observability for metrics/logs/traces/big-screens, written in react and go.",
+    "language": "TypeScript",
+    "stars": 1952,
+    "forks": 527,
+    "starsInPeriod": 227
+  },
+  {
+    "author": "cypress-io",
+    "name": "cypress-realworld-app",
+    "href": "https://github.com/cypress-io/cypress-realworld-app",
+    "description": "A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.",
+    "language": "TypeScript",
+    "stars": 1193,
+    "forks": 220,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "oceanprotocol",
+    "name": "list-datapartners",
+    "href": "https://github.com/oceanprotocol/list-datapartners",
+    "description": "🦑 Ocean Protocol's Data Partners list",
+    "language": "TypeScript",
+    "stars": 17,
+    "forks": 2,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "oceanprotocol",
+    "name": "market",
+    "href": "https://github.com/oceanprotocol/market",
+    "description": "🧜‍♀️ THE Data Market",
+    "language": "TypeScript",
+    "stars": 12,
+    "forks": 5,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "typescript-eslint",
+    "name": "typescript-eslint",
+    "href": "https://github.com/typescript-eslint/typescript-eslint",
+    "description": "✨ Monorepo for all the tooling which enables ESLint to support TypeScript",
+    "language": "TypeScript",
+    "stars": 8304,
+    "forks": 1179,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "type-challenges",
+    "name": "type-challenges",
+    "href": "https://github.com/type-challenges/type-challenges",
+    "description": "Collection of TypeScript type challenges with online judge",
+    "language": "TypeScript",
+    "stars": 1735,
+    "forks": 75,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "krapnikkk",
+    "name": "JDCouponAssistant",
+    "href": "https://github.com/krapnikkk/JDCouponAssistant",
+    "description": "京东网页端领优惠券&营销活动&日常签到的浏览器JS脚本插件",
+    "language": "TypeScript",
+    "stars": 552,
+    "forks": 117,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "johannesjo",
+    "name": "super-productivity",
+    "href": "https://github.com/johannesjo/super-productivity",
+    "description": "To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration",
+    "language": "TypeScript",
+    "stars": 2505,
+    "forks": 238,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "peers",
+    "name": "peerjs",
+    "href": "https://github.com/peers/peerjs",
+    "description": "Simple peer-to-peer with WebRTC",
+    "language": "TypeScript",
+    "stars": 8074,
+    "forks": 1156,
+    "starsInPeriod": 9
   }
 ]

@@ -1,13 +1,13 @@
 [
   {
-    "author": "MarlinFirmware",
-    "name": "Marlin",
-    "href": "https://github.com/MarlinFirmware/Marlin",
-    "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "author": "scarsty",
+    "name": "kys-cpp",
+    "href": "https://github.com/scarsty/kys-cpp",
+    "description": "《金庸群侠传》c++复刻版，已完工",
     "language": "C++",
-    "stars": 8701,
-    "forks": 12210,
-    "starsInPeriod": 16
+    "stars": 633,
+    "forks": 152,
+    "starsInPeriod": 62
   },
   {
     "author": "cmu-snap",
@@ -15,69 +15,9 @@
     "href": "https://github.com/cmu-snap/pigasus",
     "description": "100Gbps Intrusion Detection and Prevention System",
     "language": "C++",
-    "stars": 217,
-    "forks": 23,
-    "starsInPeriod": 174
-  },
-  {
-    "author": "ValveSoftware",
-    "name": "Proton",
-    "href": "https://github.com/ValveSoftware/Proton",
-    "description": "Compatibility tool for Steam Play based on Wine and additional components",
-    "language": "C++",
-    "stars": 12345,
-    "forks": 489,
-    "starsInPeriod": 24
-  },
-  {
-    "author": "google",
-    "name": "googletest",
-    "href": "https://github.com/google/googletest",
-    "description": "Googletest - Google Testing and Mocking Framework",
-    "language": "C++",
-    "stars": 18624,
-    "forks": 6771,
-    "starsInPeriod": 108
-  },
-  {
-    "author": "Zielon",
-    "name": "PBRVulkan",
-    "href": "https://github.com/Zielon/PBRVulkan",
-    "description": "Vulkan Real-time Path Tracer Engine",
-    "language": "C++",
-    "stars": 187,
-    "forks": 11,
-    "starsInPeriod": 184
-  },
-  {
-    "author": "RPCS3",
-    "name": "rpcs3",
-    "href": "https://github.com/RPCS3/rpcs3",
-    "description": "PS3 emulator/debugger",
-    "language": "C++",
-    "stars": 8476,
-    "forks": 1383,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "microsoft",
-    "name": "onnxruntime",
-    "href": "https://github.com/microsoft/onnxruntime",
-    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
-    "language": "C++",
-    "stars": 3590,
-    "forks": 813,
-    "starsInPeriod": 92
-  },
-  {
-    "author": "topjohnwu",
-    "name": "Magisk",
-    "href": "https://github.com/topjohnwu/Magisk",
-    "description": "The Magic Mask for Android",
-    "language": "C++",
-    "stars": 14011,
-    "forks": 2305,
-    "starsInPeriod": 38
+    "stars": 346,
+    "forks": 28,
+    "starsInPeriod": 272
   },
   {
     "author": "USTC-Hackergame",
@@ -85,89 +25,19 @@
     "href": "https://github.com/USTC-Hackergame/hackergame2020-writeups",
     "description": "中国科学技术大学第七届信息安全大赛的官方与非官方题解",
     "language": "C++",
-    "stars": 133,
-    "forks": 35,
-    "starsInPeriod": 133
+    "stars": 194,
+    "forks": 41,
+    "starsInPeriod": 49
   },
   {
-    "author": "qbittorrent",
-    "name": "qBittorrent",
-    "href": "https://github.com/qbittorrent/qBittorrent",
-    "description": "qBittorrent BitTorrent client",
+    "author": "MarlinFirmware",
+    "name": "Marlin",
+    "href": "https://github.com/MarlinFirmware/Marlin",
+    "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
     "language": "C++",
-    "stars": 10444,
-    "forks": 1882,
-    "starsInPeriod": 16
-  },
-  {
-    "author": "YosysHQ",
-    "name": "yosys",
-    "href": "https://github.com/YosysHQ/yosys",
-    "description": "Yosys Open SYnthesis Suite",
-    "language": "C++",
-    "stars": 1470,
-    "forks": 439,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "tdlib",
-    "name": "telegram-bot-api",
-    "href": "https://github.com/tdlib/telegram-bot-api",
-    "description": null,
-    "language": "C++",
-    "stars": 495,
-    "forks": 42,
-    "starsInPeriod": 179
-  },
-  {
-    "author": "telegramdesktop",
-    "name": "tdesktop",
-    "href": "https://github.com/telegramdesktop/tdesktop",
-    "description": "Telegram Desktop messaging app",
-    "language": "C++",
-    "stars": 13519,
-    "forks": 3030,
-    "starsInPeriod": 26
-  },
-  {
-    "author": "esphome",
-    "name": "esphome",
-    "href": "https://github.com/esphome/esphome",
-    "description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
-    "language": "C++",
-    "stars": 2363,
-    "forks": 649,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "bitcoin",
-    "name": "bitcoin",
-    "href": "https://github.com/bitcoin/bitcoin",
-    "description": "Bitcoin Core integration/staging tree",
-    "language": "C++",
-    "stars": 45826,
-    "forks": 26581,
-    "starsInPeriod": 48
-  },
-  {
-    "author": "PetoiCamp",
-    "name": "OpenCat",
-    "href": "https://github.com/PetoiCamp/OpenCat",
-    "description": "A programmable and highly maneuverable robotic cat for STEM education and AI-enhanced services.",
-    "language": "C++",
-    "stars": 1273,
-    "forks": 355,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "anonymous5l",
-    "name": "ncmdump",
-    "href": "https://github.com/anonymous5l/ncmdump",
-    "description": "netease cloud music copyright protection file dump",
-    "language": "C++",
-    "stars": 1931,
-    "forks": 339,
-    "starsInPeriod": 6
+    "stars": 8786,
+    "forks": 12218,
+    "starsInPeriod": 86
   },
   {
     "author": "microsoft",
@@ -175,69 +45,69 @@
     "href": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C++",
-    "stars": 41785,
-    "forks": 2260,
-    "starsInPeriod": 263
+    "stars": 42032,
+    "forks": 2286,
+    "starsInPeriod": 259
   },
   {
-    "author": "abseil",
-    "name": "abseil-cpp",
-    "href": "https://github.com/abseil/abseil-cpp",
-    "description": "Abseil Common Libraries (C++)",
+    "author": "ValveSoftware",
+    "name": "Proton",
+    "href": "https://github.com/ValveSoftware/Proton",
+    "description": "Compatibility tool for Steam Play based on Wine and additional components",
     "language": "C++",
-    "stars": 7666,
-    "forks": 1413,
-    "starsInPeriod": 6
+    "stars": 12429,
+    "forks": 491,
+    "starsInPeriod": 90
   },
   {
-    "author": "doitsujin",
-    "name": "dxvk",
-    "href": "https://github.com/doitsujin/dxvk",
-    "description": "Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine",
+    "author": "FreeCAD",
+    "name": "FreeCAD",
+    "href": "https://github.com/FreeCAD/FreeCAD",
+    "description": "This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker",
     "language": "C++",
-    "stars": 5684,
-    "forks": 278,
-    "starsInPeriod": 12
+    "stars": 7976,
+    "forks": 2021,
+    "starsInPeriod": 18
   },
   {
-    "author": "tdlib",
-    "name": "td",
-    "href": "https://github.com/tdlib/td",
-    "description": "Cross-platform library for building Telegram clients",
+    "author": "opencv",
+    "name": "opencv",
+    "href": "https://github.com/opencv/opencv",
+    "description": "Open Source Computer Vision Library",
     "language": "C++",
-    "stars": 3026,
-    "forks": 616,
-    "starsInPeriod": 15
+    "stars": 49944,
+    "forks": 40538,
+    "starsInPeriod": 31
   },
   {
     "author": "microsoft",
-    "name": "calculator",
-    "href": "https://github.com/microsoft/calculator",
-    "description": "Windows Calculator: A simple yet powerful calculator that ships with Windows",
+    "name": "vcpkg",
+    "href": "https://github.com/microsoft/vcpkg",
+    "description": "C++ Library Manager for Windows, Linux, and MacOS",
     "language": "C++",
-    "stars": 20498,
-    "forks": 3578,
-    "starsInPeriod": 22
+    "stars": 10890,
+    "forks": 2996,
+    "starsInPeriod": 23
   },
   {
-    "author": "acidanthera",
-    "name": "WhateverGreen",
-    "href": "https://github.com/acidanthera/WhateverGreen",
-    "description": "Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs",
+    "author": "xbmc",
+    "name": "xbmc",
+    "href": "https://github.com/xbmc/xbmc",
+    "description": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.",
     "language": "C++",
-    "stars": 2183,
-    "forks": 385,
-    "starsInPeriod": 6
+    "stars": 11352,
+    "forks": 5568,
+    "starsInPeriod": 9
   },
   {
-    "author": "mixxxdj",
-    "name": "mixxx",
-    "href": "https://github.com/mixxxdj/mixxx",
-    "description": "Mixxx is Free DJ software that gives you everything you need to perform live mixes.",
+    "author": "polybar",
+    "name": "polybar",
+    "href": "https://github.com/polybar/polybar",
+    "description": "A fast and easy-to-use status bar",
     "language": "C++",
-    "stars": 1887,
-    "forks": 755,
-    "starsInPeriod": 6
+    "stars": 7610,
+    "forks": 410,
+    "starsInPeriod": 9
   },
   {
     "author": "OneLoneCoder",
@@ -245,8 +115,138 @@
     "href": "https://github.com/OneLoneCoder/olcPixelGameEngine",
     "description": "The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects",
     "language": "C++",
-    "stars": 1740,
+    "stars": 1747,
     "forks": 475,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "TheCherno",
+    "name": "Hazel",
+    "href": "https://github.com/TheCherno/Hazel",
+    "description": "Hazel Engine",
+    "language": "C++",
+    "stars": 4360,
+    "forks": 634,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "bitcoin",
+    "name": "bitcoin",
+    "href": "https://github.com/bitcoin/bitcoin",
+    "description": "Bitcoin Core integration/staging tree",
+    "language": "C++",
+    "stars": 45842,
+    "forks": 26601,
+    "starsInPeriod": 21
+  },
+  {
+    "author": "mixxxdj",
+    "name": "mixxx",
+    "href": "https://github.com/mixxxdj/mixxx",
+    "description": "Mixxx is Free DJ software that gives you everything you need to perform live mixes.",
+    "language": "C++",
+    "stars": 1898,
+    "forks": 756,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "ArduPilot",
+    "name": "ardupilot",
+    "href": "https://github.com/ArduPilot/ardupilot",
+    "description": "ArduPlane, ArduCopter, ArduRover source",
+    "language": "C++",
+    "stars": 5360,
+    "forks": 10023,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "OpenRCT2",
+    "name": "OpenRCT2",
+    "href": "https://github.com/OpenRCT2/OpenRCT2",
+    "description": "An open source re-implementation of RollerCoaster Tycoon 2 🎢",
+    "language": "C++",
+    "stars": 8849,
+    "forks": 1042,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "PX4",
+    "name": "PX4-Autopilot",
+    "href": "https://github.com/PX4/PX4-Autopilot",
+    "description": "PX4 Autopilot Software",
+    "language": "C++",
+    "stars": 3946,
+    "forks": 10556,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "google",
+    "name": "googletest",
+    "href": "https://github.com/google/googletest",
+    "description": "Googletest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "stars": 18633,
+    "forks": 6777,
     "starsInPeriod": 9
+  },
+  {
+    "author": "hanickadot",
+    "name": "compile-time-regular-expressions",
+    "href": "https://github.com/hanickadot/compile-time-regular-expressions",
+    "description": "A Compile time PCRE (almost) compatible regular expression matcher.",
+    "language": "C++",
+    "stars": 1617,
+    "forks": 85,
+    "starsInPeriod": 31
+  },
+  {
+    "author": "doitsujin",
+    "name": "dxvk",
+    "href": "https://github.com/doitsujin/dxvk",
+    "description": "Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine",
+    "language": "C++",
+    "stars": 5693,
+    "forks": 279,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "OpenZWave",
+    "name": "open-zwave",
+    "href": "https://github.com/OpenZWave/open-zwave",
+    "description": "a C++ library to control Z-Wave Networks via a USB Z-Wave Controller.",
+    "language": "C++",
+    "stars": 975,
+    "forks": 906,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "dusty-nv",
+    "name": "jetson-inference",
+    "href": "https://github.com/dusty-nv/jetson-inference",
+    "description": "Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.",
+    "language": "C++",
+    "stars": 3712,
+    "forks": 1650,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "applenob",
+    "name": "Cpp_Primer_Practice",
+    "href": "https://github.com/applenob/Cpp_Primer_Practice",
+    "description": "搞定C++👊。C++ Primer 中文版第5版学习仓库，包括笔记和课后练习答案。",
+    "language": "C++",
+    "stars": 1489,
+    "forks": 476,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "danielkrupinski",
+    "name": "Osiris",
+    "href": "https://github.com/danielkrupinski/Osiris",
+    "description": "Free open-source game cheat for Counter-Strike: Global Offensive, written in modern C++. GUI powered by imgui.",
+    "language": "C++",
+    "stars": 1212,
+    "forks": 536,
+    "starsInPeriod": 3
   }
 ]
