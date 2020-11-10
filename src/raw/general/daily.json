@@ -1,93 +1,23 @@
 [
   {
-    "author": "chatwoot",
-    "name": "chatwoot",
-    "href": "https://github.com/chatwoot/chatwoot",
-    "description": "Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬",
-    "language": "Ruby",
-    "stars": 5415,
-    "forks": 537,
-    "starsInPeriod": 434
-  },
-  {
-    "author": "facebookresearch",
-    "name": "pifuhd",
-    "href": "https://github.com/facebookresearch/pifuhd",
-    "description": "High-Resolution 3D Human Digitization from A Single Image.",
+    "author": "donnemartin",
+    "name": "system-design-primer",
+    "href": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "stars": 4489,
-    "forks": 511,
-    "starsInPeriod": 810
+    "stars": 111558,
+    "forks": 20178,
+    "starsInPeriod": 130
   },
   {
-    "author": "arendst",
-    "name": "Tasmota",
-    "href": "https://github.com/arendst/Tasmota",
-    "description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
-    "language": "C",
-    "stars": 12904,
-    "forks": 2922,
-    "starsInPeriod": 141
-  },
-  {
-    "author": "vlang",
-    "name": "v",
-    "href": "https://github.com/vlang/v",
-    "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
-    "language": "V",
-    "stars": 19278,
-    "forks": 1181,
-    "starsInPeriod": 183
-  },
-  {
-    "author": "geohot",
-    "name": "tinygrad",
-    "href": "https://github.com/geohot/tinygrad",
-    "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
-    "language": "Python",
-    "stars": 699,
-    "forks": 82,
-    "starsInPeriod": 173
-  },
-  {
-    "author": "thenewboston-developers",
-    "name": "Website",
-    "href": "https://github.com/thenewboston-developers/Website",
-    "description": "The website and documentation for thenewboston.",
-    "language": "TypeScript",
-    "stars": 159,
-    "forks": 180,
-    "starsInPeriod": 46
-  },
-  {
-    "author": "iv-org",
-    "name": "invidious",
-    "href": "https://github.com/iv-org/invidious",
-    "description": "Invidious is an alternative front-end to YouTube",
-    "language": "Crystal",
-    "stars": 4074,
-    "forks": 310,
-    "starsInPeriod": 59
-  },
-  {
-    "author": "socketio",
-    "name": "socket.io",
-    "href": "https://github.com/socketio/socket.io",
-    "description": "Realtime application framework (Node.JS server)",
-    "language": "JavaScript",
-    "stars": 51432,
-    "forks": 9308,
-    "starsInPeriod": 147
-  },
-  {
-    "author": "Qovery",
-    "name": "engine",
-    "href": "https://github.com/Qovery/engine",
-    "description": "Deploy your apps on any Cloud providers in just a few seconds",
-    "language": "Rust",
-    "stars": 1535,
-    "forks": 20,
-    "starsInPeriod": 874
+    "author": "Fmstrat",
+    "name": "winapps",
+    "href": "https://github.com/Fmstrat/winapps",
+    "description": "Run Windows apps such as Microsoft Office in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.",
+    "language": "Shell",
+    "stars": 1811,
+    "forks": 43,
+    "starsInPeriod": 316
   },
   {
     "author": "cjph8914",
@@ -95,39 +25,39 @@
     "href": "https://github.com/cjph8914/2020_benfords",
     "description": null,
     "language": "Jupyter Notebook",
-    "stars": 287,
-    "forks": 85,
-    "starsInPeriod": 233
+    "stars": 339,
+    "forks": 101,
+    "starsInPeriod": 95
   },
   {
-    "author": "donnemartin",
-    "name": "system-design-primer",
-    "href": "https://github.com/donnemartin/system-design-primer",
-    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-    "language": "Python",
-    "stars": 111323,
-    "forks": 20135,
-    "starsInPeriod": 89
+    "author": "chatwoot",
+    "name": "chatwoot",
+    "href": "https://github.com/chatwoot/chatwoot",
+    "description": "Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬",
+    "language": "Ruby",
+    "stars": 5739,
+    "forks": 549,
+    "starsInPeriod": 344
   },
   {
-    "author": "appbrewery",
-    "name": "100-days-of-python",
-    "href": "https://github.com/appbrewery/100-days-of-python",
-    "description": "100 Days of Code in Python",
-    "language": "",
-    "stars": 858,
-    "forks": 137,
-    "starsInPeriod": 520
+    "author": "arendst",
+    "name": "Tasmota",
+    "href": "https://github.com/arendst/Tasmota",
+    "description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "language": "C",
+    "stars": 13082,
+    "forks": 2926,
+    "starsInPeriod": 187
   },
   {
-    "author": "thenewboston-developers",
-    "name": "Account-Manager",
-    "href": "https://github.com/thenewboston-developers/Account-Manager",
-    "description": "Account manager desktop application for thenewboston digital currency.",
-    "language": "TypeScript",
-    "stars": 220,
-    "forks": 87,
-    "starsInPeriod": 131
+    "author": "rileytestut",
+    "name": "AltStore",
+    "href": "https://github.com/rileytestut/AltStore",
+    "description": "AltStore is an alternative app store for non-jailbroken iOS devices.",
+    "language": "Swift",
+    "stars": 3978,
+    "forks": 313,
+    "starsInPeriod": 348
   },
   {
     "author": "gao-sun",
@@ -135,109 +65,9 @@
     "href": "https://github.com/gao-sun/eul",
     "description": "🖥️ macOS status monitoring app written in SwiftUI.",
     "language": "Swift",
-    "stars": 2299,
-    "forks": 82,
-    "starsInPeriod": 172
-  },
-  {
-    "author": "UnityTechnologies",
-    "name": "open-project-1",
-    "href": "https://github.com/UnityTechnologies/open-project-1",
-    "description": "Unity Open Project #1: Action-adventure",
-    "language": "C#",
-    "stars": 1949,
-    "forks": 724,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "guardicore",
-    "name": "monkey",
-    "href": "https://github.com/guardicore/monkey",
-    "description": "Infection Monkey - An automated pentest tool",
-    "language": "Python",
-    "stars": 4621,
-    "forks": 531,
-    "starsInPeriod": 870
-  },
-  {
-    "author": "TiendaNube",
-    "name": "php-programming-best-practices",
-    "href": "https://github.com/TiendaNube/php-programming-best-practices",
-    "description": "Referencia para los desarrolladores de Tiendanube y para la comunidad de PHP.",
-    "language": "",
-    "stars": 69,
-    "forks": 14,
-    "starsInPeriod": 27
-  },
-  {
-    "author": "lightspin-tech",
-    "name": "red-kube",
-    "href": "https://github.com/lightspin-tech/red-kube",
-    "description": "Red Team KubeCTL Cheat Sheet",
-    "language": "",
-    "stars": 225,
-    "forks": 15,
-    "starsInPeriod": 71
-  },
-  {
-    "author": "yogeshojha",
-    "name": "rengine",
-    "href": "https://github.com/yogeshojha/rengine",
-    "description": "reNgine is an automated reconnaissance framework meant for gathering information during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.",
-    "language": "JavaScript",
-    "stars": 1581,
-    "forks": 275,
-    "starsInPeriod": 47
-  },
-  {
-    "author": "scarsty",
-    "name": "kys-cpp",
-    "href": "https://github.com/scarsty/kys-cpp",
-    "description": "《金庸群侠传》c++复刻版，已完工",
-    "language": "C++",
-    "stars": 633,
-    "forks": 152,
-    "starsInPeriod": 62
-  },
-  {
-    "author": "cmu-snap",
-    "name": "pigasus",
-    "href": "https://github.com/cmu-snap/pigasus",
-    "description": "100Gbps Intrusion Detection and Prevention System",
-    "language": "C++",
-    "stars": 346,
-    "forks": 28,
-    "starsInPeriod": 272
-  },
-  {
-    "author": "Atcold",
-    "name": "pytorch-Deep-Learning",
-    "href": "https://github.com/Atcold/pytorch-Deep-Learning",
-    "description": "Deep Learning (with PyTorch)",
-    "language": "Jupyter Notebook",
-    "stars": 3367,
-    "forks": 1095,
-    "starsInPeriod": 30
-  },
-  {
-    "author": "USTC-Hackergame",
-    "name": "hackergame2020-writeups",
-    "href": "https://github.com/USTC-Hackergame/hackergame2020-writeups",
-    "description": "中国科学技术大学第七届信息安全大赛的官方与非官方题解",
-    "language": "C++",
-    "stars": 194,
-    "forks": 41,
-    "starsInPeriod": 49
-  },
-  {
-    "author": "MarlinFirmware",
-    "name": "Marlin",
-    "href": "https://github.com/MarlinFirmware/Marlin",
-    "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
-    "language": "C++",
-    "stars": 8786,
-    "forks": 12218,
-    "starsInPeriod": 86
+    "stars": 2555,
+    "forks": 85,
+    "starsInPeriod": 289
   },
   {
     "author": "geekxh",
@@ -245,8 +75,178 @@
     "href": "https://github.com/geekxh/hello-algorithm",
     "description": "🌍 东半球最酷的学习项目 | 1、我写的三十万字算法图解 2、千本开源电子书 3、100 张思维导图 4、100 篇大厂面经 5、30 个学习专题 🚀 🚀 🚀 右上角点个 star，加入我们万人学习群！English Supported！",
     "language": "Java",
-    "stars": 20618,
-    "forks": 3907,
-    "starsInPeriod": 304
+    "stars": 20902,
+    "forks": 3951,
+    "starsInPeriod": 298
+  },
+  {
+    "author": "RayWangQvQ",
+    "name": "BiliBiliTool",
+    "href": "https://github.com/RayWangQvQ/BiliBiliTool",
+    "description": ".Net Core 编写的跨平台的B站（哔哩哔哩）任务工具，通过GitHub Actions实现每日线上自动运行任务：每日自动登录、观看、分享、投币视频，获取每日任务的满额经验，轻松升级Level 6，实现自动领取大会员权益、月底自动为自己充电等功能。",
+    "language": "C#",
+    "stars": 310,
+    "forks": 589,
+    "starsInPeriod": 112
+  },
+  {
+    "author": "Marak",
+    "name": "faker.js",
+    "href": "https://github.com/Marak/faker.js",
+    "description": "generate massive amounts of realistic fake data in Node.js and the browser",
+    "language": "JavaScript",
+    "stars": 26228,
+    "forks": 2257,
+    "starsInPeriod": 467
+  },
+  {
+    "author": "PavelDoGreat",
+    "name": "WebGL-Fluid-Simulation",
+    "href": "https://github.com/PavelDoGreat/WebGL-Fluid-Simulation",
+    "description": "Play with fluids in your browser (works even on mobile)",
+    "language": "JavaScript",
+    "stars": 9502,
+    "forks": 903,
+    "starsInPeriod": 263
+  },
+  {
+    "author": "appbrewery",
+    "name": "100-days-of-python",
+    "href": "https://github.com/appbrewery/100-days-of-python",
+    "description": "100 Days of Code in Python",
+    "language": "",
+    "stars": 1017,
+    "forks": 159,
+    "starsInPeriod": 168
+  },
+  {
+    "author": "yogeshojha",
+    "name": "rengine",
+    "href": "https://github.com/yogeshojha/rengine",
+    "description": "reNgine is an automated reconnaissance framework meant for gathering information during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.",
+    "language": "JavaScript",
+    "stars": 1700,
+    "forks": 279,
+    "starsInPeriod": 60
+  },
+  {
+    "author": "Atcold",
+    "name": "pytorch-Deep-Learning",
+    "href": "https://github.com/Atcold/pytorch-Deep-Learning",
+    "description": "Deep Learning (with PyTorch)",
+    "language": "Jupyter Notebook",
+    "stars": 3480,
+    "forks": 1109,
+    "starsInPeriod": 48
+  },
+  {
+    "author": "firstcontributions",
+    "name": "first-contributions",
+    "href": "https://github.com/firstcontributions/first-contributions",
+    "description": "🚀✨ Help beginners to contribute to open source projects",
+    "language": "",
+    "stars": 12570,
+    "forks": 32669,
+    "starsInPeriod": 126
+  },
+  {
+    "author": "newbee-ltd",
+    "name": "newbee-mall-vue3-app",
+    "href": "https://github.com/newbee-ltd/newbee-mall-vue3-app",
+    "description": "新蜂商城Vue3版本",
+    "language": "JavaScript",
+    "stars": 330,
+    "forks": 79,
+    "starsInPeriod": 119
+  },
+  {
+    "author": "facebookresearch",
+    "name": "pifuhd",
+    "href": "https://github.com/facebookresearch/pifuhd",
+    "description": "High-Resolution 3D Human Digitization from A Single Image.",
+    "language": "Python",
+    "stars": 4850,
+    "forks": 546,
+    "starsInPeriod": 377
+  },
+  {
+    "author": "sorrycc",
+    "name": "awesome-javascript",
+    "href": "https://github.com/sorrycc/awesome-javascript",
+    "description": "🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.",
+    "language": "",
+    "stars": 21477,
+    "forks": 3173,
+    "starsInPeriod": 47
+  },
+  {
+    "author": "gordicaleksa",
+    "name": "pytorch-original-transformer",
+    "href": "https://github.com/gordicaleksa/pytorch-original-transformer",
+    "description": "My implementation of the original transformer model (Vaswani et al.). I've additionally included the playground.py file for visualizing otherwise seemingly hard concepts. Currently included IWSLT pretrained models.",
+    "language": "Python",
+    "stars": 205,
+    "forks": 27,
+    "starsInPeriod": 57
+  },
+  {
+    "author": "lightspin-tech",
+    "name": "red-kube",
+    "href": "https://github.com/lightspin-tech/red-kube",
+    "description": "Red Team KubeCTL Cheat Sheet",
+    "language": "",
+    "stars": 356,
+    "forks": 19,
+    "starsInPeriod": 116
+  },
+  {
+    "author": "thenewboston-developers",
+    "name": "Website",
+    "href": "https://github.com/thenewboston-developers/Website",
+    "description": "The website and documentation for thenewboston.",
+    "language": "TypeScript",
+    "stars": 263,
+    "forks": 206,
+    "starsInPeriod": 51
+  },
+  {
+    "author": "michalsnik",
+    "name": "aos",
+    "href": "https://github.com/michalsnik/aos",
+    "description": "Animate on scroll library",
+    "language": "JavaScript",
+    "stars": 14462,
+    "forks": 1601,
+    "starsInPeriod": 22
+  },
+  {
+    "author": "vlang",
+    "name": "v",
+    "href": "https://github.com/vlang/v",
+    "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "language": "V",
+    "stars": 19460,
+    "forks": 1185,
+    "starsInPeriod": 200
+  },
+  {
+    "author": "scarsty",
+    "name": "kys-cpp",
+    "href": "https://github.com/scarsty/kys-cpp",
+    "description": "《金庸群侠传》c++复刻版，已完工",
+    "language": "C++",
+    "stars": 773,
+    "forks": 159,
+    "starsInPeriod": 63
+  },
+  {
+    "author": "allenai",
+    "name": "allennlp",
+    "href": "https://github.com/allenai/allennlp",
+    "description": "An open-source NLP research library, built on PyTorch.",
+    "language": "Python",
+    "stars": 9273,
+    "forks": 1937,
+    "starsInPeriod": 7
   }
 ]
