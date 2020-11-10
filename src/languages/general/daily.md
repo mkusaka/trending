@@ -1,50 +1,50 @@
 # general
-- [chatwoot](https://github.com/chatwoot/chatwoot) : Ruby
-  - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬
-- [pifuhd](https://github.com/facebookresearch/pifuhd) : Python
-  - High-Resolution 3D Human Digitization from A Single Image.
-- [Tasmota](https://github.com/arendst/Tasmota) : C
-  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
-- [v](https://github.com/vlang/v) : V
-  - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io
-- [tinygrad](https://github.com/geohot/tinygrad) : Python
-  - You like pytorch? You like micrograd? You love tinygrad! ❤️
-- [Website](https://github.com/thenewboston-developers/Website) : TypeScript
-  - The website and documentation for thenewboston.
-- [invidious](https://github.com/iv-org/invidious) : Crystal
-  - Invidious is an alternative front-end to YouTube
-- [socket.io](https://github.com/socketio/socket.io) : JavaScript
-  - Realtime application framework (Node.JS server)
-- [engine](https://github.com/Qovery/engine) : Rust
-  - Deploy your apps on any Cloud providers in just a few seconds
-- [2020_benfords](https://github.com/cjph8914/2020_benfords) : Jupyter Notebook
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
   - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-- [100-days-of-python](https://github.com/appbrewery/100-days-of-python) : 
-  - 100 Days of Code in Python
-- [Account-Manager](https://github.com/thenewboston-developers/Account-Manager) : TypeScript
-  - Account manager desktop application for thenewboston digital currency.
+- [winapps](https://github.com/Fmstrat/winapps) : Shell
+  - Run Windows apps such as Microsoft Office in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
+- [2020_benfords](https://github.com/cjph8914/2020_benfords) : Jupyter Notebook
+- [chatwoot](https://github.com/chatwoot/chatwoot) : Ruby
+  - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬
+- [Tasmota](https://github.com/arendst/Tasmota) : C
+  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
+- [AltStore](https://github.com/rileytestut/AltStore) : Swift
+  - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [eul](https://github.com/gao-sun/eul) : Swift
   - 🖥️ macOS status monitoring app written in SwiftUI.
-- [open-project-1](https://github.com/UnityTechnologies/open-project-1) : C#
-  - Unity Open Project #1: Action-adventure
-- [monkey](https://github.com/guardicore/monkey) : Python
-  - Infection Monkey - An automated pentest tool
-- [php-programming-best-practices](https://github.com/TiendaNube/php-programming-best-practices) : 
-  - Referencia para los desarrolladores de Tiendanube y para la comunidad de PHP.
-- [red-kube](https://github.com/lightspin-tech/red-kube) : 
-  - Red Team KubeCTL Cheat Sheet
-- [rengine](https://github.com/yogeshojha/rengine) : JavaScript
-  - reNgine is an automated reconnaissance framework meant for gathering information during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
-- [kys-cpp](https://github.com/scarsty/kys-cpp) : C++
-  - 《金庸群侠传》c++复刻版，已完工
-- [pigasus](https://github.com/cmu-snap/pigasus) : C++
-  - 100Gbps Intrusion Detection and Prevention System
-- [pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning) : Jupyter Notebook
-  - Deep Learning (with PyTorch)
-- [hackergame2020-writeups](https://github.com/USTC-Hackergame/hackergame2020-writeups) : C++
-  - 中国科学技术大学第七届信息安全大赛的官方与非官方题解
-- [Marlin](https://github.com/MarlinFirmware/Marlin) : C++
-  - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
 - [hello-algorithm](https://github.com/geekxh/hello-algorithm) : Java
   - 🌍 东半球最酷的学习项目 | 1、我写的三十万字算法图解 2、千本开源电子书 3、100 张思维导图 4、100 篇大厂面经 5、30 个学习专题 🚀 🚀 🚀 右上角点个 star，加入我们万人学习群！English Supported！
+- [BiliBiliTool](https://github.com/RayWangQvQ/BiliBiliTool) : C#
+  - .Net Core 编写的跨平台的B站（哔哩哔哩）任务工具，通过GitHub Actions实现每日线上自动运行任务：每日自动登录、观看、分享、投币视频，获取每日任务的满额经验，轻松升级Level 6，实现自动领取大会员权益、月底自动为自己充电等功能。
+- [faker.js](https://github.com/Marak/faker.js) : JavaScript
+  - generate massive amounts of realistic fake data in Node.js and the browser
+- [WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) : JavaScript
+  - Play with fluids in your browser (works even on mobile)
+- [100-days-of-python](https://github.com/appbrewery/100-days-of-python) : 
+  - 100 Days of Code in Python
+- [rengine](https://github.com/yogeshojha/rengine) : JavaScript
+  - reNgine is an automated reconnaissance framework meant for gathering information during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
+- [pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning) : Jupyter Notebook
+  - Deep Learning (with PyTorch)
+- [first-contributions](https://github.com/firstcontributions/first-contributions) : 
+  - 🚀✨ Help beginners to contribute to open source projects
+- [newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app) : JavaScript
+  - 新蜂商城Vue3版本
+- [pifuhd](https://github.com/facebookresearch/pifuhd) : Python
+  - High-Resolution 3D Human Digitization from A Single Image.
+- [awesome-javascript](https://github.com/sorrycc/awesome-javascript) : 
+  - 🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.
+- [pytorch-original-transformer](https://github.com/gordicaleksa/pytorch-original-transformer) : Python
+  - My implementation of the original transformer model (Vaswani et al.). I've additionally included the playground.py file for visualizing otherwise seemingly hard concepts. Currently included IWSLT pretrained models.
+- [red-kube](https://github.com/lightspin-tech/red-kube) : 
+  - Red Team KubeCTL Cheat Sheet
+- [Website](https://github.com/thenewboston-developers/Website) : TypeScript
+  - The website and documentation for thenewboston.
+- [aos](https://github.com/michalsnik/aos) : JavaScript
+  - Animate on scroll library
+- [v](https://github.com/vlang/v) : V
+  - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io
+- [kys-cpp](https://github.com/scarsty/kys-cpp) : C++
+  - 《金庸群侠传》c++复刻版，已完工
+- [allennlp](https://github.com/allenai/allennlp) : Python
+  - An open-source NLP research library, built on PyTorch.

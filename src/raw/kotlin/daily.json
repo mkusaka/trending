@@ -1,173 +1,13 @@
 [
   {
-    "author": "shadowsocks",
-    "name": "shadowsocks-android",
-    "href": "https://github.com/shadowsocks/shadowsocks-android",
-    "description": "A shadowsocks client for Android",
+    "author": "YTVanced",
+    "name": "VancedManager",
+    "href": "https://github.com/YTVanced/VancedManager",
+    "description": "Vanced Installer",
     "language": "Kotlin",
-    "stars": 30512,
-    "forks": 11288,
-    "starsInPeriod": 13
-  },
-  {
-    "author": "PatilShreyas",
-    "name": "NotyKT",
-    "href": "https://github.com/PatilShreyas/NotyKT",
-    "description": "📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.",
-    "language": "Kotlin",
-    "stars": 224,
-    "forks": 16,
-    "starsInPeriod": 12
-  },
-  {
-    "author": "inorichi",
-    "name": "tachiyomi",
-    "href": "https://github.com/inorichi/tachiyomi",
-    "description": "Free and open source manga reader for Android",
-    "language": "Kotlin",
-    "stars": 8967,
-    "forks": 1182,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "MatteCarra",
-    "name": "AccA",
-    "href": "https://github.com/MatteCarra/AccA",
-    "description": "Acc app allows to edit acc config file and add a tile to start and stop acc deamon",
-    "language": "Kotlin",
-    "stars": 293,
-    "forks": 20,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "dropbox",
-    "name": "AffectedModuleDetector",
-    "href": "https://github.com/dropbox/AffectedModuleDetector",
-    "description": "A Gradle Plugin to determine which modules were affected by a set of files in a commit.",
-    "language": "Kotlin",
-    "stars": 160,
-    "forks": 2,
-    "starsInPeriod": 60
-  },
-  {
-    "author": "android",
-    "name": "architecture-components-samples",
-    "href": "https://github.com/android/architecture-components-samples",
-    "description": "Samples for Android Architecture Components.",
-    "language": "Kotlin",
-    "stars": 18747,
-    "forks": 6503,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "thanksmister",
-    "name": "wallpanel-android",
-    "href": "https://github.com/thanksmister/wallpanel-android",
-    "description": "WallPanel is an Android application for Web Based Dashboards and Home Automation Platforms",
-    "language": "Kotlin",
-    "stars": 326,
-    "forks": 57,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "anthonycr",
-    "name": "Lightning-Browser",
-    "href": "https://github.com/anthonycr/Lightning-Browser",
-    "description": "A lightweight Android browser with modern navigation",
-    "language": "Kotlin",
-    "stars": 1641,
-    "forks": 729,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "Ccixyj",
-    "name": "JBusDriver",
-    "href": "https://github.com/Ccixyj/JBusDriver",
-    "description": "这是去幼儿园的班车(滑稽",
-    "language": "Kotlin",
-    "stars": 1785,
-    "forks": 219,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "chrisbanes",
-    "name": "tivi",
-    "href": "https://github.com/chrisbanes/tivi",
-    "description": "Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.",
-    "language": "Kotlin",
-    "stars": 3313,
-    "forks": 437,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "CypherpunkArmory",
-    "name": "UserLAnd",
-    "href": "https://github.com/CypherpunkArmory/UserLAnd",
-    "description": "Main UserLAnd Repository",
-    "language": "Kotlin",
-    "stars": 1708,
-    "forks": 188,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "yairm210",
-    "name": "Unciv",
-    "href": "https://github.com/yairm210/Unciv",
-    "description": "Open-source Android/Desktop remake of Civ V",
-    "language": "Kotlin",
-    "stars": 1877,
-    "forks": 540,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "CraZyLegenD",
-    "name": "Set-Of-Useful-Kotlin-Extensions-and-Helpers",
-    "href": "https://github.com/CraZyLegenD/Set-Of-Useful-Kotlin-Extensions-and-Helpers",
-    "description": "Kotlin Extensions (Android extensions) and Helpers for smoother Android development",
-    "language": "Kotlin",
-    "stars": 288,
-    "forks": 25,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "joreilly",
-    "name": "PeopleInSpace",
-    "href": "https://github.com/joreilly/PeopleInSpace",
-    "description": "Minimal Kotlin Multiplatform project using Jetpack Compose and SwiftUI",
-    "language": "Kotlin",
-    "stars": 597,
-    "forks": 42,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "rajandev17",
-    "name": "Plasma",
-    "href": "https://github.com/rajandev17/Plasma",
-    "description": "An Android Application written using latest Android Jetpack components and best practices, which displays trending movies/TV shows and cast, user can search movies and TV shows and also add them to watchlist.",
-    "language": "Kotlin",
-    "stars": 13,
-    "forks": 7,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "Szaki",
-    "name": "XiaomiADBFastbootTools",
-    "href": "https://github.com/Szaki/XiaomiADBFastbootTools",
-    "description": "A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot",
-    "language": "Kotlin",
-    "stars": 1751,
-    "forks": 199,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "mamoe",
-    "name": "mirai",
-    "href": "https://github.com/mamoe/mirai",
-    "description": "高效率 QQ 机器人框架 / High-performance bot framework for Tencent QQ",
-    "language": "Kotlin",
-    "stars": 4104,
-    "forks": 1440,
-    "starsInPeriod": 8
+    "stars": 1382,
+    "forks": 94,
+    "starsInPeriod": 14
   },
   {
     "author": "detekt",
@@ -175,39 +15,9 @@
     "href": "https://github.com/detekt/detekt",
     "description": "Static code analysis for Kotlin",
     "language": "Kotlin",
-    "stars": 3233,
-    "forks": 418,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "SimpleMobileTools",
-    "name": "Simple-Gallery",
-    "href": "https://github.com/SimpleMobileTools/Simple-Gallery",
-    "description": "Browse your memories without any interruptions with this photo and video gallery",
-    "language": "Kotlin",
-    "stars": 1562,
-    "forks": 462,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "androiddevnotes",
-    "name": "awesome-android-kotlin-apps",
-    "href": "https://github.com/androiddevnotes/awesome-android-kotlin-apps",
-    "description": "👓 A curated list of awesome android kotlin apps by open-source contributors.",
-    "language": "Kotlin",
-    "stars": 823,
-    "forks": 135,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "inorichi",
-    "name": "tachiyomi-extensions",
-    "href": "https://github.com/inorichi/tachiyomi-extensions",
-    "description": null,
-    "language": "Kotlin",
-    "stars": 936,
-    "forks": 362,
-    "starsInPeriod": 1
+    "stars": 3236,
+    "forks": 419,
+    "starsInPeriod": 3
   },
   {
     "author": "skydoves",
@@ -215,9 +25,209 @@
     "href": "https://github.com/skydoves/Pokedex",
     "description": "🗡️ Android Pokedex using Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.",
     "language": "Kotlin",
-    "stars": 3426,
-    "forks": 292,
+    "stars": 3437,
+    "forks": 291,
+    "starsInPeriod": 12
+  },
+  {
+    "author": "dropbox",
+    "name": "AffectedModuleDetector",
+    "href": "https://github.com/dropbox/AffectedModuleDetector",
+    "description": "A Gradle Plugin to determine which modules were affected by a set of files in a commit.",
+    "language": "Kotlin",
+    "stars": 188,
+    "forks": 3,
+    "starsInPeriod": 29
+  },
+  {
+    "author": "AdevintaSpain",
+    "name": "Barista",
+    "href": "https://github.com/AdevintaSpain/Barista",
+    "description": "☕ The one who serves a great Espresso",
+    "language": "Kotlin",
+    "stars": 1255,
+    "forks": 95,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "KieronQuinn",
+    "name": "TapTap",
+    "href": "https://github.com/KieronQuinn/TapTap",
+    "description": "Port of the double tap on back of device feature from Android 11 to any Android 7.0+ device",
+    "language": "Kotlin",
+    "stars": 1446,
+    "forks": 119,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "android",
+    "name": "camera-samples",
+    "href": "https://github.com/android/camera-samples",
+    "description": "Multiple samples showing the best practices in camera APIs on Android.",
+    "language": "Kotlin",
+    "stars": 2286,
+    "forks": 1147,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "ExpediaGroup",
+    "name": "graphql-kotlin",
+    "href": "https://github.com/ExpediaGroup/graphql-kotlin",
+    "description": "Libraries for running GraphQL in Kotlin",
+    "language": "Kotlin",
+    "stars": 853,
+    "forks": 155,
     "starsInPeriod": 4
+  },
+  {
+    "author": "wasabeef",
+    "name": "recyclerview-animators",
+    "href": "https://github.com/wasabeef/recyclerview-animators",
+    "description": "An Android Animation library which easily add itemanimator to RecyclerView items.",
+    "language": "Kotlin",
+    "stars": 10314,
+    "forks": 1909,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "rajandev17",
+    "name": "Plasma",
+    "href": "https://github.com/rajandev17/Plasma",
+    "description": "An Android Application written using latest Android Jetpack components and best practices, which displays trending movies/TV shows and cast, user can search movies and TV shows and also add them to watchlist.",
+    "language": "Kotlin",
+    "stars": 19,
+    "forks": 9,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "Kotlin",
+    "name": "anko",
+    "href": "https://github.com/Kotlin/anko",
+    "description": "Pleasant Android application development",
+    "language": "Kotlin",
+    "stars": 15842,
+    "forks": 1275,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "Kotlin",
+    "name": "dokka",
+    "href": "https://github.com/Kotlin/dokka",
+    "description": "Documentation Engine for Kotlin",
+    "language": "Kotlin",
+    "stars": 1792,
+    "forks": 183,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "MindorksOpenSource",
+    "name": "ridesharing-uber-lyft-app",
+    "href": "https://github.com/MindorksOpenSource/ridesharing-uber-lyft-app",
+    "description": "Ride-Sharing Uber Lyft Android App - Learn to build a ride-sharing Android Taxi Clone App like Uber, Lyft - Open-Source Project By MindOrks",
+    "language": "Kotlin",
+    "stars": 767,
+    "forks": 236,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "android",
+    "name": "architecture-samples",
+    "href": "https://github.com/android/architecture-samples",
+    "description": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
+    "language": "Kotlin",
+    "stars": 37688,
+    "forks": 10419,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "Kotlin",
+    "name": "kotlinx.serialization",
+    "href": "https://github.com/Kotlin/kotlinx.serialization",
+    "description": "Kotlin multiplatform / multi-format serialization",
+    "language": "Kotlin",
+    "stars": 2575,
+    "forks": 262,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "mockk",
+    "name": "mockk",
+    "href": "https://github.com/mockk/mockk",
+    "description": "mocking library for Kotlin",
+    "language": "Kotlin",
+    "stars": 3465,
+    "forks": 143,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "mikepenz",
+    "name": "FastAdapter",
+    "href": "https://github.com/mikepenz/FastAdapter",
+    "description": "The bullet proof, fast and easy to use adapter library, which minimizes developing time to a fraction...",
+    "language": "Kotlin",
+    "stars": 3212,
+    "forks": 449,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "ktorio",
+    "name": "ktor",
+    "href": "https://github.com/ktorio/ktor",
+    "description": "Framework for quickly creating connected applications in Kotlin with minimal effort",
+    "language": "Kotlin",
+    "stars": 7490,
+    "forks": 622,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "VIPyinzhiwei",
+    "name": "Eyepetizer",
+    "href": "https://github.com/VIPyinzhiwei/Eyepetizer",
+    "description": "🔥基于 Kotlin 语言仿写「开眼 Eyepetizer」的一个短视频 Android 客户端项目，采用 Jetpack + 协程实现的 MVVM 架构。",
+    "language": "Kotlin",
+    "stars": 776,
+    "forks": 198,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "JetBrains",
+    "name": "Exposed",
+    "href": "https://github.com/JetBrains/Exposed",
+    "description": "Kotlin SQL Framework",
+    "language": "Kotlin",
+    "stars": 4540,
+    "forks": 386,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "JetBrains",
+    "name": "intellij-platform-plugin-template",
+    "href": "https://github.com/JetBrains/intellij-platform-plugin-template",
+    "description": "Template repository for creating plugins for IntelliJ Platform",
+    "language": "Kotlin",
+    "stars": 361,
+    "forks": 53,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "InsertKoinIO",
+    "name": "koin",
+    "href": "https://github.com/InsertKoinIO/koin",
+    "description": "Koin - a pragmatic lightweight dependency injection framework for Kotlin",
+    "language": "Kotlin",
+    "stars": 6148,
+    "forks": 412,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "tanujnotes",
+    "name": "Olauncher",
+    "href": "https://github.com/tanujnotes/Olauncher",
+    "description": "Minimal and (ad) free launcher app for Android. Available at Play Store and F-Droid.",
+    "language": "Kotlin",
+    "stars": 124,
+    "forks": 6,
+    "starsInPeriod": 2
   },
   {
     "author": "android10",
@@ -225,28 +235,18 @@
     "href": "https://github.com/android10/Android-CleanArchitecture-Kotlin",
     "description": "This is a movies sample app in Kotlin, which is part of a serie of blog posts I have written about architecting android application using different approaches.",
     "language": "Kotlin",
-    "stars": 2834,
+    "stars": 2835,
     "forks": 589,
-    "starsInPeriod": 7
+    "starsInPeriod": 2
   },
   {
-    "author": "fredoverflow",
-    "name": "karel",
-    "href": "https://github.com/fredoverflow/karel",
-    "description": "Karel The Robot",
+    "author": "android",
+    "name": "architecture-components-samples",
+    "href": "https://github.com/android/architecture-components-samples",
+    "description": "Samples for Android Architecture Components.",
     "language": "Kotlin",
-    "stars": 68,
-    "forks": 17,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "material-components",
-    "name": "material-components-android-examples",
-    "href": "https://github.com/material-components/material-components-android-examples",
-    "description": "Companion example apps and code for MDC-Android.",
-    "language": "Kotlin",
-    "stars": 1668,
-    "forks": 315,
-    "starsInPeriod": 4
+    "stars": 18755,
+    "forks": 6509,
+    "starsInPeriod": 8
   }
 ]

@@ -1,51 +1,51 @@
 # go
-- [clash](https://github.com/Dreamacro/clash)
-  - A rule-based tunnel in Go.
-- [gin](https://github.com/gin-gonic/gin)
-  - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [ffuf](https://github.com/ffuf/ffuf)
-  - Fast web fuzzer written in Go
-- [v2ray-core](https://github.com/v2ray/v2ray-core)
-  - A platform for building proxies to bypass network restrictions.
-- [v2ray-core](https://github.com/v2fly/v2ray-core)
-  - A platform for building proxies to bypass network restrictions.
-- [automuteus](https://github.com/denverquane/automuteus)
-  - Discord Bot to automute Among Us players at round transitions, in conjunction with https://github.com/denverquane/amonguscapture
-- [dns](https://github.com/miekg/dns)
-  - DNS library in Go
-- [wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example)
-  - Complete serverless application to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring of a Go project.
-- [prysm](https://github.com/prysmaticlabs/prysm)
-  - Go implementation of the Ethereum 2.0 blockchain
-- [bettercap](https://github.com/bettercap/bettercap)
-  - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
-- [discordgo](https://github.com/bwmarrin/discordgo)
-  - (Golang) Go bindings for Discord
-- [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga)
-  - Advanced information gathering & OSINT framework for phone numbers
-- [tinygo](https://github.com/tinygo-org/tinygo)
-  - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
-- [frp](https://github.com/fatedier/frp)
-  - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [zpan](https://github.com/saltbo/zpan)
-  - A self-host cloud disk base on the cloud storage./ 一个基于云存储的网盘系统，用于自建私人网盘或企业网盘。
-- [go-clean-arch](https://github.com/bxcodec/go-clean-arch)
-  - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
-- [go-patterns](https://github.com/tmrts/go-patterns)
-  - Curated list of Go design patterns, recipes and idioms
-- [RxGo](https://github.com/ReactiveX/RxGo)
-  - Reactive Extensions for the Go language.
-- [external-dns](https://github.com/kubernetes-sigs/external-dns)
-  - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [tailscale](https://github.com/tailscale/tailscale)
-  - The easiest, most secure way to use WireGuard and 2FA.
-- [magma](https://github.com/magma/magma)
-  - Platform for building access networks and modular network services
-- [ReverseProxy](https://github.com/ilanyu/ReverseProxy)
-  - ReverseProxy in golang
-- [tempomail](https://github.com/kavishgr/tempomail)
-  - Generate a custom Email Address in 1 Second and receive Emails.
-- [telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api)
-  - Golang bindings for the Telegram Bot API
+- [gopsutil](https://github.com/shirou/gopsutil)
+  - psutil for golang
 - [awesome-go](https://github.com/avelino/awesome-go)
   - A curated list of awesome Go frameworks, libraries and software
+- [oauth2](https://github.com/golang/oauth2)
+  - Go OAuth2
+- [traefik](https://github.com/traefik/traefik)
+  - The Cloud Native Application Proxy
+- [minikube](https://github.com/kubernetes/minikube)
+  - Run Kubernetes locally
+- [apple-store-helper](https://github.com/hteen/apple-store-helper)
+  - Apple Store iPhone预约助手
+- [go-ethereum](https://github.com/ethereum/go-ethereum)
+  - Official Go implementation of the Ethereum protocol
+- [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
+  - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+- [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+  - A reverse proxy that provides authentication with Google, Github or other providers.
+- [kubeedge](https://github.com/kubeedge/kubeedge)
+  - Kubernetes Native Edge Computing Framework (project under CNCF)
+- [crawlab](https://github.com/crawlab-team/crawlab)
+  - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
+- [telegraf](https://github.com/influxdata/telegraf)
+  - The plugin-driven server agent for collecting & reporting metrics.
+- [dex](https://github.com/dexidp/dex)
+  - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
+- [terraform](https://github.com/hashicorp/terraform)
+  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [nats-server](https://github.com/nats-io/nats-server)
+  - High-Performance server for NATS, the cloud native messaging system.
+- [client_golang](https://github.com/prometheus/client_golang)
+  - Prometheus instrumentation library for Go applications
+- [charts](https://github.com/helm/charts)
+  - Curated applications for Kubernetes
+- [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway)
+  - gRPC to JSON proxy generator following the gRPC HTTP spec
+- [xray-crack](https://github.com/zu1k/xray-crack)
+  - xray社区高级版证书生成，仅供学习研究，正常使用请支持正版
+- [vault](https://github.com/hashicorp/vault)
+  - A tool for secrets management, encryption as a service, and privileged access management
+- [k3s](https://github.com/rancher/k3s)
+  - Lightweight Kubernetes
+- [magma](https://github.com/magma/magma)
+  - Platform for building access networks and modular network services
+- [tempomail](https://github.com/kavishgr/tempomail)
+  - Generate a custom Email Address in 1 Second and receive Emails.
+- [sarama](https://github.com/Shopify/sarama)
+  - Sarama is a Go library for Apache Kafka 0.8, and up.
+- [RxGo](https://github.com/ReactiveX/RxGo)
+  - Reactive Extensions for the Go language.

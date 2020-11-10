@@ -1,13 +1,23 @@
 [
   {
-    "author": "socketio",
-    "name": "socket.io",
-    "href": "https://github.com/socketio/socket.io",
-    "description": "Realtime application framework (Node.JS server)",
+    "author": "Marak",
+    "name": "faker.js",
+    "href": "https://github.com/Marak/faker.js",
+    "description": "generate massive amounts of realistic fake data in Node.js and the browser",
     "language": "JavaScript",
-    "stars": 51432,
-    "forks": 9308,
-    "starsInPeriod": 147
+    "stars": 26228,
+    "forks": 2257,
+    "starsInPeriod": 467
+  },
+  {
+    "author": "PavelDoGreat",
+    "name": "WebGL-Fluid-Simulation",
+    "href": "https://github.com/PavelDoGreat/WebGL-Fluid-Simulation",
+    "description": "Play with fluids in your browser (works even on mobile)",
+    "language": "JavaScript",
+    "stars": 9502,
+    "forks": 903,
+    "starsInPeriod": 263
   },
   {
     "author": "yogeshojha",
@@ -15,219 +25,109 @@
     "href": "https://github.com/yogeshojha/rengine",
     "description": "reNgine is an automated reconnaissance framework meant for gathering information during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.",
     "language": "JavaScript",
-    "stars": 1581,
-    "forks": 275,
-    "starsInPeriod": 47
+    "stars": 1700,
+    "forks": 279,
+    "starsInPeriod": 76
   },
   {
-    "author": "github",
-    "name": "docs",
-    "href": "https://github.com/github/docs",
-    "description": "The open-source repo for docs.github.com",
+    "author": "newbee-ltd",
+    "name": "newbee-mall-vue3-app",
+    "href": "https://github.com/newbee-ltd/newbee-mall-vue3-app",
+    "description": "新蜂商城Vue3版本",
     "language": "JavaScript",
-    "stars": 1482,
-    "forks": 3183,
-    "starsInPeriod": 19
+    "stars": 330,
+    "forks": 79,
+    "starsInPeriod": 120
   },
   {
-    "author": "orkestral",
-    "name": "venom",
-    "href": "https://github.com/orkestral/venom",
-    "description": "Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp",
+    "author": "michalsnik",
+    "name": "aos",
+    "href": "https://github.com/michalsnik/aos",
+    "description": "Animate on scroll library",
     "language": "JavaScript",
-    "stars": 787,
-    "forks": 132,
-    "starsInPeriod": 12
+    "stars": 14462,
+    "forks": 1601,
+    "starsInPeriod": 22
   },
   {
-    "author": "bradtraversy",
-    "name": "storybooks",
-    "href": "https://github.com/bradtraversy/storybooks",
-    "description": "Node.js app with Google OAuth",
+    "author": "rollup",
+    "name": "plugins",
+    "href": "https://github.com/rollup/plugins",
+    "description": "🍣 The one-stop shop for official Rollup plugins",
     "language": "JavaScript",
-    "stars": 225,
-    "forks": 206,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "dompling",
-    "name": "Scriptable",
-    "href": "https://github.com/dompling/Scriptable",
-    "description": null,
-    "language": "JavaScript",
-    "stars": 92,
-    "forks": 11,
-    "starsInPeriod": 20
-  },
-  {
-    "author": "denysdovhan",
-    "name": "wtfjs",
-    "href": "https://github.com/denysdovhan/wtfjs",
-    "description": "🤪 A list of funny and tricky JavaScript examples",
-    "language": "JavaScript",
-    "stars": 19517,
-    "forks": 1269,
-    "starsInPeriod": 169
-  },
-  {
-    "author": "Working-Title-MSFS-Mods",
-    "name": "fspackages",
-    "href": "https://github.com/Working-Title-MSFS-Mods/fspackages",
-    "description": "Working Title FS Packages",
-    "language": "JavaScript",
-    "stars": 420,
-    "forks": 26,
-    "starsInPeriod": 9
-  },
-  {
-    "author": "Orz-3",
-    "name": "QuantumultX",
-    "href": "https://github.com/Orz-3/QuantumultX",
-    "description": null,
-    "language": "JavaScript",
-    "stars": 229,
-    "forks": 82,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "github",
-    "name": "opensource.guide",
-    "href": "https://github.com/github/opensource.guide",
-    "description": "📚 Community guides for open source creators",
-    "language": "JavaScript",
-    "stars": 7501,
-    "forks": 8378,
-    "starsInPeriod": 10
-  },
-  {
-    "author": "blackmatrix7",
-    "name": "ios_rule_script",
-    "href": "https://github.com/blackmatrix7/ios_rule_script",
-    "description": "iOS平台的分流规则、复写规则和一些自动化脚本。",
-    "language": "JavaScript",
-    "stars": 515,
-    "forks": 98,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "processing",
-    "name": "p5.js",
-    "href": "https://github.com/processing/p5.js",
-    "description": "p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —",
-    "language": "JavaScript",
-    "stars": 14319,
-    "forks": 2249,
-    "starsInPeriod": 10
-  },
-  {
-    "author": "agalwood",
-    "name": "Motrix",
-    "href": "https://github.com/agalwood/Motrix",
-    "description": "A full-featured download manager.",
-    "language": "JavaScript",
-    "stars": 23324,
-    "forks": 2900,
+    "stars": 1254,
+    "forks": 219,
     "starsInPeriod": 17
   },
   {
-    "author": "flybywiresim",
-    "name": "a32nx",
-    "href": "https://github.com/flybywiresim/a32nx",
-    "description": "The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.",
+    "author": "nuxt",
+    "name": "nuxt.js",
+    "href": "https://github.com/nuxt/nuxt.js",
+    "description": "The Intuitive Vue Framework",
     "language": "JavaScript",
-    "stars": 2020,
-    "forks": 316,
-    "starsInPeriod": 9
-  },
-  {
-    "author": "kentcdodds",
-    "name": "react-fundamentals",
-    "href": "https://github.com/kentcdodds/react-fundamentals",
-    "description": "Material for my React Fundamentals Workshop",
-    "language": "JavaScript",
-    "stars": 1528,
-    "forks": 427,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "Asabeneh",
-    "name": "30-Days-Of-JavaScript",
-    "href": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
-    "description": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days",
-    "language": "JavaScript",
-    "stars": 3194,
-    "forks": 749,
-    "starsInPeriod": 9
-  },
-  {
-    "author": "iancoleman",
-    "name": "bip39",
-    "href": "https://github.com/iancoleman/bip39",
-    "description": "A web tool for converting BIP39 mnemonic codes",
-    "language": "JavaScript",
-    "stars": 1347,
-    "forks": 795,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "vinissimus",
-    "name": "next-translate",
-    "href": "https://github.com/vinissimus/next-translate",
-    "description": "i18n tool for Next.js 10 🌍 - Load page translations and use them in an easy way!",
-    "language": "JavaScript",
-    "stars": 460,
-    "forks": 57,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "OAI",
-    "name": "OpenAPI-Specification",
-    "href": "https://github.com/OAI/OpenAPI-Specification",
-    "description": "The OpenAPI Specification Repository",
-    "language": "JavaScript",
-    "stars": 19306,
-    "forks": 6929,
-    "starsInPeriod": 13
-  },
-  {
-    "author": "DIYgod",
-    "name": "RSSHub",
-    "href": "https://github.com/DIYgod/RSSHub",
-    "description": "🍰 Everything is RSSible",
-    "language": "JavaScript",
-    "stars": 14352,
-    "forks": 2212,
-    "starsInPeriod": 14
-  },
-  {
-    "author": "MichMich",
-    "name": "MagicMirror",
-    "href": "https://github.com/MichMich/MagicMirror",
-    "description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.",
-    "language": "JavaScript",
-    "stars": 12970,
-    "forks": 3345,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "lrsjng",
-    "name": "h5ai",
-    "href": "https://github.com/lrsjng/h5ai",
-    "description": "HTTP web server index for Apache httpd, lighttpd and nginx.",
-    "language": "JavaScript",
-    "stars": 4113,
-    "forks": 494,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "neoclide",
-    "name": "coc.nvim",
-    "href": "https://github.com/neoclide/coc.nvim",
-    "description": "Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode",
-    "language": "JavaScript",
-    "stars": 13654,
-    "forks": 521,
+    "stars": 31253,
+    "forks": 2683,
     "starsInPeriod": 23
+  },
+  {
+    "author": "freeCodeCamp",
+    "name": "freeCodeCamp",
+    "href": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.",
+    "language": "JavaScript",
+    "stars": 316562,
+    "forks": 25026,
+    "starsInPeriod": 55
+  },
+  {
+    "author": "socketio",
+    "name": "socket.io",
+    "href": "https://github.com/socketio/socket.io",
+    "description": "Realtime application framework (Node.JS server)",
+    "language": "JavaScript",
+    "stars": 51544,
+    "forks": 9313,
+    "starsInPeriod": 151
+  },
+  {
+    "author": "discordjs",
+    "name": "discord.js",
+    "href": "https://github.com/discordjs/discord.js",
+    "description": "A powerful JavaScript library for interacting with the Discord API",
+    "language": "JavaScript",
+    "stars": 8051,
+    "forks": 1774,
+    "starsInPeriod": 16
+  },
+  {
+    "author": "ix64",
+    "name": "unlock-music",
+    "href": "https://github.com/ix64/unlock-music",
+    "description": "Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。",
+    "language": "JavaScript",
+    "stars": 5155,
+    "forks": 1031,
+    "starsInPeriod": 69
+  },
+  {
+    "author": "Shopify",
+    "name": "draggable",
+    "href": "https://github.com/Shopify/draggable",
+    "description": "The JavaScript Drag & Drop library your grandparents warned you about.",
+    "language": "JavaScript",
+    "stars": 14688,
+    "forks": 868,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "uxsolutions",
+    "name": "bootstrap-datepicker",
+    "href": "https://github.com/uxsolutions/bootstrap-datepicker",
+    "description": "A datepicker for twitter bootstrap (@twbs)",
+    "language": "JavaScript",
+    "stars": 12233,
+    "forks": 5984,
+    "starsInPeriod": 4
   },
   {
     "author": "nightscout",
@@ -236,17 +136,117 @@
     "description": "nightscout web monitor",
     "language": "JavaScript",
     "stars": 1328,
-    "forks": 46865,
+    "forks": 46923,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "vercel",
+    "name": "next.js",
+    "href": "https://github.com/vercel/next.js",
+    "description": "The React Framework",
+    "language": "JavaScript",
+    "stars": 56715,
+    "forks": 9438,
+    "starsInPeriod": 71
+  },
+  {
+    "author": "orkestral",
+    "name": "venom",
+    "href": "https://github.com/orkestral/venom",
+    "description": "Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp",
+    "language": "JavaScript",
+    "stars": 799,
+    "forks": 134,
+    "starsInPeriod": 16
+  },
+  {
+    "author": "godaddy",
+    "name": "kubernetes-external-secrets",
+    "href": "https://github.com/godaddy/kubernetes-external-secrets",
+    "description": "Integrate external secret management systems with Kubernetes",
+    "language": "JavaScript",
+    "stars": 1292,
+    "forks": 192,
     "starsInPeriod": 4
   },
   {
-    "author": "freeCodeCamp",
-    "name": "freeCodeCamp",
-    "href": "https://github.com/freeCodeCamp/freeCodeCamp",
-    "description": "freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.",
+    "author": "LXK9301",
+    "name": "lxk0301_scripts",
+    "href": "https://github.com/LXK9301/lxk0301_scripts",
+    "description": null,
     "language": "JavaScript",
-    "stars": 316532,
-    "forks": 25026,
-    "starsInPeriod": 50
+    "stars": 42,
+    "forks": 42,
+    "starsInPeriod": 19
+  },
+  {
+    "author": "bigbluebutton",
+    "name": "bigbluebutton",
+    "href": "https://github.com/bigbluebutton/bigbluebutton",
+    "description": "Complete open source web conferencing system.",
+    "language": "JavaScript",
+    "stars": 5797,
+    "forks": 5183,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "sequelize",
+    "name": "sequelize",
+    "href": "https://github.com/sequelize/sequelize",
+    "description": "An easy-to-use multi SQL dialect ORM for Node.js",
+    "language": "JavaScript",
+    "stars": 23151,
+    "forks": 3575,
+    "starsInPeriod": 15
+  },
+  {
+    "author": "KhronosGroup",
+    "name": "Vulkan-Docs",
+    "href": "https://github.com/KhronosGroup/Vulkan-Docs",
+    "description": "The Vulkan API Specification and related tools",
+    "language": "JavaScript",
+    "stars": 1782,
+    "forks": 298,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "plotly",
+    "name": "plotly.js",
+    "href": "https://github.com/plotly/plotly.js",
+    "description": "Open-source JavaScript charting library behind Plotly and Dash",
+    "language": "JavaScript",
+    "stars": 12440,
+    "forks": 1463,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "vuejs",
+    "name": "vue-router",
+    "href": "https://github.com/vuejs/vue-router",
+    "description": "🚦 The official router for Vue.js.",
+    "language": "JavaScript",
+    "stars": 17310,
+    "forks": 4710,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "rjsf-team",
+    "name": "react-jsonschema-form",
+    "href": "https://github.com/rjsf-team/react-jsonschema-form",
+    "description": "A React component for building Web forms from JSON Schema.",
+    "language": "JavaScript",
+    "stars": 9162,
+    "forks": 1496,
+    "starsInPeriod": 12
+  },
+  {
+    "author": "flybywiresim",
+    "name": "a32nx",
+    "href": "https://github.com/flybywiresim/a32nx",
+    "description": "The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.",
+    "language": "JavaScript",
+    "stars": 2027,
+    "forks": 315,
+    "starsInPeriod": 10
   }
 ]

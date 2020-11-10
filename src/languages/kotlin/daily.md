@@ -1,51 +1,51 @@
 # kotlin
-- [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
-  - A shadowsocks client for Android
-- [NotyKT](https://github.com/PatilShreyas/NotyKT)
-  - 📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.
-- [tachiyomi](https://github.com/inorichi/tachiyomi)
-  - Free and open source manga reader for Android
-- [AccA](https://github.com/MatteCarra/AccA)
-  - Acc app allows to edit acc config file and add a tile to start and stop acc deamon
-- [AffectedModuleDetector](https://github.com/dropbox/AffectedModuleDetector)
-  - A Gradle Plugin to determine which modules were affected by a set of files in a commit.
-- [architecture-components-samples](https://github.com/android/architecture-components-samples)
-  - Samples for Android Architecture Components.
-- [wallpanel-android](https://github.com/thanksmister/wallpanel-android)
-  - WallPanel is an Android application for Web Based Dashboards and Home Automation Platforms
-- [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser)
-  - A lightweight Android browser with modern navigation
-- [JBusDriver](https://github.com/Ccixyj/JBusDriver)
-  - 这是去幼儿园的班车(滑稽
-- [tivi](https://github.com/chrisbanes/tivi)
-  - Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.
-- [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd)
-  - Main UserLAnd Repository
-- [Unciv](https://github.com/yairm210/Unciv)
-  - Open-source Android/Desktop remake of Civ V
-- [Set-Of-Useful-Kotlin-Extensions-and-Helpers](https://github.com/CraZyLegenD/Set-Of-Useful-Kotlin-Extensions-and-Helpers)
-  - Kotlin Extensions (Android extensions) and Helpers for smoother Android development
-- [PeopleInSpace](https://github.com/joreilly/PeopleInSpace)
-  - Minimal Kotlin Multiplatform project using Jetpack Compose and SwiftUI
-- [Plasma](https://github.com/rajandev17/Plasma)
-  - An Android Application written using latest Android Jetpack components and best practices, which displays trending movies/TV shows and cast, user can search movies and TV shows and also add them to watchlist.
-- [XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools)
-  - A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot
-- [mirai](https://github.com/mamoe/mirai)
-  - 高效率 QQ 机器人框架 / High-performance bot framework for Tencent QQ
+- [VancedManager](https://github.com/YTVanced/VancedManager)
+  - Vanced Installer
 - [detekt](https://github.com/detekt/detekt)
   - Static code analysis for Kotlin
-- [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery)
-  - Browse your memories without any interruptions with this photo and video gallery
-- [awesome-android-kotlin-apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps)
-  - 👓 A curated list of awesome android kotlin apps by open-source contributors.
-- [tachiyomi-extensions](https://github.com/inorichi/tachiyomi-extensions)
-  - 
 - [Pokedex](https://github.com/skydoves/Pokedex)
   - 🗡️ Android Pokedex using Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
+- [AffectedModuleDetector](https://github.com/dropbox/AffectedModuleDetector)
+  - A Gradle Plugin to determine which modules were affected by a set of files in a commit.
+- [Barista](https://github.com/AdevintaSpain/Barista)
+  - ☕ The one who serves a great Espresso
+- [TapTap](https://github.com/KieronQuinn/TapTap)
+  - Port of the double tap on back of device feature from Android 11 to any Android 7.0+ device
+- [camera-samples](https://github.com/android/camera-samples)
+  - Multiple samples showing the best practices in camera APIs on Android.
+- [graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin)
+  - Libraries for running GraphQL in Kotlin
+- [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators)
+  - An Android Animation library which easily add itemanimator to RecyclerView items.
+- [Plasma](https://github.com/rajandev17/Plasma)
+  - An Android Application written using latest Android Jetpack components and best practices, which displays trending movies/TV shows and cast, user can search movies and TV shows and also add them to watchlist.
+- [anko](https://github.com/Kotlin/anko)
+  - Pleasant Android application development
+- [dokka](https://github.com/Kotlin/dokka)
+  - Documentation Engine for Kotlin
+- [ridesharing-uber-lyft-app](https://github.com/MindorksOpenSource/ridesharing-uber-lyft-app)
+  - Ride-Sharing Uber Lyft Android App - Learn to build a ride-sharing Android Taxi Clone App like Uber, Lyft - Open-Source Project By MindOrks
+- [architecture-samples](https://github.com/android/architecture-samples)
+  - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
+- [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization)
+  - Kotlin multiplatform / multi-format serialization
+- [mockk](https://github.com/mockk/mockk)
+  - mocking library for Kotlin
+- [FastAdapter](https://github.com/mikepenz/FastAdapter)
+  - The bullet proof, fast and easy to use adapter library, which minimizes developing time to a fraction...
+- [ktor](https://github.com/ktorio/ktor)
+  - Framework for quickly creating connected applications in Kotlin with minimal effort
+- [Eyepetizer](https://github.com/VIPyinzhiwei/Eyepetizer)
+  - 🔥基于 Kotlin 语言仿写「开眼 Eyepetizer」的一个短视频 Android 客户端项目，采用 Jetpack + 协程实现的 MVVM 架构。
+- [Exposed](https://github.com/JetBrains/Exposed)
+  - Kotlin SQL Framework
+- [intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template)
+  - Template repository for creating plugins for IntelliJ Platform
+- [koin](https://github.com/InsertKoinIO/koin)
+  - Koin - a pragmatic lightweight dependency injection framework for Kotlin
+- [Olauncher](https://github.com/tanujnotes/Olauncher)
+  - Minimal and (ad) free launcher app for Android. Available at Play Store and F-Droid.
 - [Android-CleanArchitecture-Kotlin](https://github.com/android10/Android-CleanArchitecture-Kotlin)
   - This is a movies sample app in Kotlin, which is part of a serie of blog posts I have written about architecting android application using different approaches.
-- [karel](https://github.com/fredoverflow/karel)
-  - Karel The Robot
-- [material-components-android-examples](https://github.com/material-components/material-components-android-examples)
-  - Companion example apps and code for MDC-Android.
+- [architecture-components-samples](https://github.com/android/architecture-components-samples)
+  - Samples for Android Architecture Components.
