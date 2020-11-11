@@ -1,51 +1,51 @@
 # c++
 - [kys-cpp](https://github.com/scarsty/kys-cpp)
   - 《金庸群侠传》c++复刻版，已完工
-- [falco](https://github.com/falcosecurity/falco)
-  - Cloud Native Runtime Security
-- [Marlin](https://github.com/MarlinFirmware/Marlin)
-  - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
-- [rocksdb](https://github.com/facebook/rocksdb)
-  - A library that provides an embeddable, persistent key-value store for fast storage.
-- [pigasus](https://github.com/cmu-snap/pigasus)
-  - 100Gbps Intrusion Detection and Prevention System
-- [PowerToys](https://github.com/microsoft/PowerToys)
-  - Windows system utilities to maximize productivity
-- [Catch2](https://github.com/catchorg/Catch2)
-  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-- [ClickHouse](https://github.com/ClickHouse/ClickHouse)
-  - ClickHouse is a free analytics DBMS for big data
-- [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe)
-  - waifu2xのCaffe版
-- [MMKV](https://github.com/Tencent/MMKV)
-  - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
-- [Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice)
-  - 搞定C++👊。C++ Primer 中文版第5版学习仓库，包括笔记和课后练习答案。
-- [sentencepiece](https://github.com/google/sentencepiece)
-  - Unsupervised text tokenizer for Neural Network-based text generation.
-- [angle](https://github.com/google/angle)
-  - A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android.
-- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
-  - Awesome multilingual OCR toolkits based on PaddlePaddle （multilingual recognition: English, Chinese, Korean, Japanese, German, French etc. 3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）
-- [filament](https://github.com/google/filament)
-  - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
-- [Vulkan-Samples](https://github.com/KhronosGroup/Vulkan-Samples)
-  - One stop solution for all Vulkan samples
+- [godot](https://github.com/godotengine/godot)
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [tensorflow](https://github.com/tensorflow/tensorflow)
+  - An Open Source Machine Learning Framework for Everyone
 - [vosk-api](https://github.com/alphacep/vosk-api)
   - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
-- [async-profiler](https://github.com/jvm-profiling-tools/async-profiler)
-  - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events
-- [json](https://github.com/nlohmann/json)
-  - JSON for Modern C++
-- [Hazel](https://github.com/TheCherno/Hazel)
-  - Hazel Engine
-- [xmrig](https://github.com/xmrig/xmrig)
-  - RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner
+- [DeepSpeech](https://github.com/mozilla/DeepSpeech)
+  - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
+- [bpftrace](https://github.com/iovisor/bpftrace)
+  - High-level tracing language for Linux eBPF
+- [swift](https://github.com/apple/swift)
+  - The Swift Programming Language
 - [tdesktop](https://github.com/telegramdesktop/tdesktop)
   - Telegram Desktop messaging app
-- [LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)
-  - LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain
-- [jetson-inference](https://github.com/dusty-nv/jetson-inference)
-  - Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
-- [gdal](https://github.com/OSGeo/gdal)
-  - GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats.
+- [Catch2](https://github.com/catchorg/Catch2)
+  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [ProjectReunion](https://github.com/microsoft/ProjectReunion)
+  - Project Reunion is an evolution of the Windows developer platform that will make it more compatible, agile, modern and open.
+- [envoy](https://github.com/envoyproxy/envoy)
+  - Cloud-native high-performance edge/middle/service proxy
+- [MMKV](https://github.com/Tencent/MMKV)
+  - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
+- [arangodb](https://github.com/arangodb/arangodb)
+  - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
+- [re2](https://github.com/google/re2)
+  - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+- [benchmark](https://github.com/google/benchmark)
+  - A microbenchmark support library
+- [pytorch](https://github.com/pytorch/pytorch)
+  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [serenity](https://github.com/SerenityOS/serenity)
+  - The Serenity Operating System 🐞
+- [PowerToys](https://github.com/microsoft/PowerToys)
+  - Windows system utilities to maximize productivity
+- [pubsubclient](https://github.com/knolleary/pubsubclient)
+  - A client library for the Arduino Ethernet Shield that provides support for MQTT.
+- [libzmq](https://github.com/zeromq/libzmq)
+  - ZeroMQ core engine in C++, implements ZMTP/3.1
+- [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe)
+  - waifu2xのCaffe版
+- [opencv](https://github.com/opencv/opencv)
+  - Open Source Computer Vision Library
+- [swoole-src](https://github.com/swoole/swoole-src)
+  - 🚀 Coroutine-based concurrency library for PHP
+- [uWebSockets.js](https://github.com/uNetworking/uWebSockets.js)
+  - μWebSockets for Node.js back-ends 🤘
+- [openpilot](https://github.com/commaai/openpilot)
+  - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.

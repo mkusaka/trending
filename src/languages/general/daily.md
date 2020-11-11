@@ -1,50 +1,50 @@
 # general
-- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
-  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-- [winapps](https://github.com/Fmstrat/winapps) : Shell
-  - Run Windows apps such as Microsoft Office in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
-- [2020_benfords](https://github.com/cjph8914/2020_benfords) : Jupyter Notebook
-- [chatwoot](https://github.com/chatwoot/chatwoot) : Ruby
-  - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬
-- [Tasmota](https://github.com/arendst/Tasmota) : C
-  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
-- [AltStore](https://github.com/rileytestut/AltStore) : Swift
-  - AltStore is an alternative app store for non-jailbroken iOS devices.
-- [eul](https://github.com/gao-sun/eul) : Swift
-  - 🖥️ macOS status monitoring app written in SwiftUI.
-- [hello-algorithm](https://github.com/geekxh/hello-algorithm) : Java
-  - 🌍 东半球最酷的学习项目 | 1、我写的三十万字算法图解 2、千本开源电子书 3、100 张思维导图 4、100 篇大厂面经 5、30 个学习专题 🚀 🚀 🚀 右上角点个 star，加入我们万人学习群！English Supported！
-- [BiliBiliTool](https://github.com/RayWangQvQ/BiliBiliTool) : C#
-  - .Net Core 编写的跨平台的B站（哔哩哔哩）任务工具，通过GitHub Actions实现每日线上自动运行任务：每日自动登录、观看、分享、投币视频，获取每日任务的满额经验，轻松升级Level 6，实现自动领取大会员权益、月底自动为自己充电等功能。
+- [tye](https://github.com/dotnet/tye) : C#
+  - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
 - [faker.js](https://github.com/Marak/faker.js) : JavaScript
   - generate massive amounts of realistic fake data in Node.js and the browser
+- [Website](https://github.com/thenewboston-developers/Website) : TypeScript
+  - The website and documentation for thenewboston.
+- [rengine](https://github.com/yogeshojha/rengine) : JavaScript
+  - reNgine is an automated reconnaissance framework meant for information gathering during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
+- [chatwoot](https://github.com/chatwoot/chatwoot) : Ruby
+  - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬
+- [breeze](https://github.com/laravel/breeze) : PHP
+- [julia](https://github.com/JuliaLang/julia) : Julia
+  - The Julia Programming Language
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
+  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [BiliBiliTool](https://github.com/RayWangQvQ/BiliBiliTool) : C#
+  - .Net Core 编写的跨平台的B站（哔哩哔哩）任务工具，通过GitHub Actions实现每日线上自动运行任务：每日自动登录、观看、分享、投币视频，获取每日任务的满额经验，轻松升级Level 6，实现自动领取大会员权益、月底自动为自己充电等功能。
 - [WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) : JavaScript
   - Play with fluids in your browser (works even on mobile)
-- [100-days-of-python](https://github.com/appbrewery/100-days-of-python) : 
-  - 100 Days of Code in Python
-- [rengine](https://github.com/yogeshojha/rengine) : JavaScript
-  - reNgine is an automated reconnaissance framework meant for gathering information during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
 - [pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning) : Jupyter Notebook
   - Deep Learning (with PyTorch)
 - [first-contributions](https://github.com/firstcontributions/first-contributions) : 
   - 🚀✨ Help beginners to contribute to open source projects
-- [newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app) : JavaScript
-  - 新蜂商城Vue3版本
-- [pifuhd](https://github.com/facebookresearch/pifuhd) : Python
-  - High-Resolution 3D Human Digitization from A Single Image.
 - [awesome-javascript](https://github.com/sorrycc/awesome-javascript) : 
   - 🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.
-- [pytorch-original-transformer](https://github.com/gordicaleksa/pytorch-original-transformer) : Python
-  - My implementation of the original transformer model (Vaswani et al.). I've additionally included the playground.py file for visualizing otherwise seemingly hard concepts. Currently included IWSLT pretrained models.
-- [red-kube](https://github.com/lightspin-tech/red-kube) : 
-  - Red Team KubeCTL Cheat Sheet
-- [Website](https://github.com/thenewboston-developers/Website) : TypeScript
-  - The website and documentation for thenewboston.
-- [aos](https://github.com/michalsnik/aos) : JavaScript
-  - Animate on scroll library
-- [v](https://github.com/vlang/v) : V
-  - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io
-- [kys-cpp](https://github.com/scarsty/kys-cpp) : C++
-  - 《金庸群侠传》c++复刻版，已完工
-- [allennlp](https://github.com/allenai/allennlp) : Python
-  - An open-source NLP research library, built on PyTorch.
+- [hello-algorithm](https://github.com/geekxh/hello-algorithm) : Java
+  - 🌍 东半球最酷的学习项目 | 1、我写的三十万字算法图解 2、千本开源电子书 3、100 张思维导图 4、100 篇大厂面经 5、30 个学习专题 🚀 🚀 🚀 右上角点个 star，加入我们万人学习群！English Supported！
+- [manim](https://github.com/3b1b/manim) : Python
+  - Animation engine for explanatory math videos
+- [Tasmota](https://github.com/arendst/Tasmota) : C
+  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
+- [airflow](https://github.com/apache/airflow) : Python
+  - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [open-project-1](https://github.com/UnityTechnologies/open-project-1) : C#
+  - Unity Open Project #1: Action-adventure
+- [AmongLock](https://github.com/Litteeen/AmongLock) : Objective-C
+  - You were not the owner of this device
+- [rich](https://github.com/willmcgugan/rich) : Python
+  - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [snyk](https://github.com/snyk/snyk) : TypeScript
+  - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
+- [eladmin](https://github.com/elunez/eladmin) : Java
+  - 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
+- [micro](https://github.com/micro/micro) : Go
+  - Micro is a platform for cloud native application development
+- [oauth2](https://github.com/golang/oauth2) : Go
+  - Go OAuth2
+- [flutter](https://github.com/flutter/flutter) : Dart
+  - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
