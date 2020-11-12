@@ -5,9 +5,9 @@
     "href": "https://github.com/Marak/faker.js",
     "description": "generate massive amounts of realistic fake data in Node.js and the browser",
     "language": "JavaScript",
-    "stars": 26617,
-    "forks": 2288,
-    "starsInPeriod": 293
+    "stars": 26970,
+    "forks": 2303,
+    "starsInPeriod": 399
   },
   {
     "author": "yogeshojha",
@@ -15,9 +15,9 @@
     "href": "https://github.com/yogeshojha/rengine",
     "description": "reNgine is an automated reconnaissance framework meant for information gathering during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.",
     "language": "JavaScript",
-    "stars": 1805,
-    "forks": 284,
-    "starsInPeriod": 116
+    "stars": 1922,
+    "forks": 289,
+    "starsInPeriod": 112
   },
   {
     "author": "PavelDoGreat",
@@ -25,9 +25,9 @@
     "href": "https://github.com/PavelDoGreat/WebGL-Fluid-Simulation",
     "description": "Play with fluids in your browser (works even on mobile)",
     "language": "JavaScript",
-    "stars": 9721,
-    "forks": 910,
-    "starsInPeriod": 213
+    "stars": 9872,
+    "forks": 918,
+    "starsInPeriod": 171
   },
   {
     "author": "mui-org",
@@ -35,9 +35,9 @@
     "href": "https://github.com/mui-org/material-ui",
     "description": "React components for faster and easier web development. Build your own design system, or start with Material Design.",
     "language": "JavaScript",
-    "stars": 62322,
-    "forks": 18974,
-    "starsInPeriod": 28
+    "stars": 62362,
+    "forks": 18997,
+    "starsInPeriod": 22
   },
   {
     "author": "invertase",
@@ -45,9 +45,9 @@
     "href": "https://github.com/invertase/react-native-firebase",
     "description": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.",
     "language": "JavaScript",
-    "stars": 8473,
-    "forks": 1612,
-    "starsInPeriod": 6
+    "stars": 8480,
+    "forks": 1616,
+    "starsInPeriod": 8
   },
   {
     "author": "airbnb",
@@ -55,8 +55,8 @@
     "href": "https://github.com/airbnb/javascript",
     "description": "JavaScript Style Guide",
     "language": "JavaScript",
-    "stars": 101297,
-    "forks": 19730,
+    "stars": 101350,
+    "forks": 19740,
     "starsInPeriod": 38
   },
   {
@@ -65,9 +65,9 @@
     "href": "https://github.com/zonetti/zonote",
     "description": "Cross-platform desktop note-taking app. Sticky notes with Markdown and Tabs. All in one .txt file.",
     "language": "JavaScript",
-    "stars": 184,
+    "stars": 195,
     "forks": 5,
-    "starsInPeriod": 60
+    "starsInPeriod": 23
   },
   {
     "author": "wekan",
@@ -75,8 +75,8 @@
     "href": "https://github.com/wekan/wekan",
     "description": "The open-source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.",
     "language": "JavaScript",
-    "stars": 16786,
-    "forks": 2492,
+    "stars": 16791,
+    "forks": 2493,
     "starsInPeriod": 5
   },
   {
@@ -85,9 +85,9 @@
     "href": "https://github.com/benmosher/eslint-plugin-import",
     "description": "ESLint plugin with rules that help validate proper imports.",
     "language": "JavaScript",
-    "stars": 2861,
+    "stars": 2866,
     "forks": 947,
-    "starsInPeriod": 3
+    "starsInPeriod": 2
   },
   {
     "author": "ZHDeveloper",
@@ -95,9 +95,9 @@
     "href": "https://github.com/ZHDeveloper/JD_Sign_Action",
     "description": "基于github actions的京东签到、领京豆",
     "language": "JavaScript",
-    "stars": 257,
-    "forks": 716,
-    "starsInPeriod": 13
+    "stars": 272,
+    "forks": 739,
+    "starsInPeriod": 7
   },
   {
     "author": "odensc",
@@ -105,9 +105,9 @@
     "href": "https://github.com/odensc/ttv-ublock",
     "description": "Blocking ads on that certain streaming website",
     "language": "JavaScript",
-    "stars": 261,
-    "forks": 36,
-    "starsInPeriod": 42
+    "stars": 284,
+    "forks": 38,
+    "starsInPeriod": 29
   },
   {
     "author": "cypress-io",
@@ -115,9 +115,9 @@
     "href": "https://github.com/cypress-io/cypress",
     "description": "Fast, easy and reliable testing for anything that runs in a browser.",
     "language": "JavaScript",
-    "stars": 24403,
+    "stars": 24428,
     "forks": 1462,
-    "starsInPeriod": 27
+    "starsInPeriod": 19
   },
   {
     "author": "atom",
@@ -125,9 +125,9 @@
     "href": "https://github.com/atom/atom",
     "description": "The hackable text editor",
     "language": "JavaScript",
-    "stars": 53529,
-    "forks": 15340,
-    "starsInPeriod": 18
+    "stars": 53550,
+    "forks": 15352,
+    "starsInPeriod": 31
   },
   {
     "author": "vinissimus",
@@ -135,9 +135,9 @@
     "href": "https://github.com/vinissimus/next-translate",
     "description": "i18n tool for Next.js 10 🌍 - Load page translations and use them in an easy way!",
     "language": "JavaScript",
-    "stars": 478,
+    "stars": 486,
     "forks": 61,
-    "starsInPeriod": 9
+    "starsInPeriod": 8
   },
   {
     "author": "taniarascia",
@@ -145,9 +145,9 @@
     "href": "https://github.com/taniarascia/webpack-boilerplate",
     "description": "📦 ‎ A sensible webpack 5 boilerplate.",
     "language": "JavaScript",
-    "stars": 1011,
-    "forks": 196,
-    "starsInPeriod": 35
+    "stars": 1028,
+    "forks": 201,
+    "starsInPeriod": 18
   },
   {
     "author": "mermaid-js",
@@ -155,9 +155,9 @@
     "href": "https://github.com/mermaid-js/mermaid",
     "description": "Generation of diagram and flowchart from text in a similar manner as markdown",
     "language": "JavaScript",
-    "stars": 32673,
-    "forks": 2210,
-    "starsInPeriod": 28
+    "stars": 32704,
+    "forks": 2213,
+    "starsInPeriod": 29
   },
   {
     "author": "SortableJS",
@@ -165,9 +165,9 @@
     "href": "https://github.com/SortableJS/sortablejs",
     "description": "Create and reorder lists with drag-and-drop. For use with modern browsers and touch devices",
     "language": "JavaScript",
-    "stars": 21270,
+    "stars": 21288,
     "forks": 3129,
-    "starsInPeriod": 18
+    "starsInPeriod": 14
   },
   {
     "author": "mozilla",
@@ -175,9 +175,9 @@
     "href": "https://github.com/mozilla/hubs",
     "description": "Duck-themed multi-user virtual spaces in WebVR. Built with A-Frame.",
     "language": "JavaScript",
-    "stars": 890,
-    "forks": 278,
-    "starsInPeriod": 7
+    "stars": 896,
+    "forks": 280,
+    "starsInPeriod": 5
   },
   {
     "author": "rjsf-team",
@@ -185,9 +185,9 @@
     "href": "https://github.com/rjsf-team/react-jsonschema-form",
     "description": "A React component for building Web forms from JSON Schema.",
     "language": "JavaScript",
-    "stars": 9180,
-    "forks": 1498,
-    "starsInPeriod": 10
+    "stars": 9199,
+    "forks": 1500,
+    "starsInPeriod": 24
   },
   {
     "author": "atlassian",
@@ -195,9 +195,9 @@
     "href": "https://github.com/atlassian/react-beautiful-dnd",
     "description": "Beautiful and accessible drag and drop for lists with React",
     "language": "JavaScript",
-    "stars": 21323,
-    "forks": 1476,
-    "starsInPeriod": 16
+    "stars": 21338,
+    "forks": 1480,
+    "starsInPeriod": 17
   },
   {
     "author": "rollup",
@@ -205,9 +205,9 @@
     "href": "https://github.com/rollup/plugins",
     "description": "🍣 The one-stop shop for official Rollup plugins",
     "language": "JavaScript",
-    "stars": 1262,
-    "forks": 219,
-    "starsInPeriod": 13
+    "stars": 1264,
+    "forks": 221,
+    "starsInPeriod": 6
   },
   {
     "author": "adam-p",
@@ -215,8 +215,8 @@
     "href": "https://github.com/adam-p/markdown-here",
     "description": "Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.",
     "language": "JavaScript",
-    "stars": 48914,
-    "forks": 9108,
+    "stars": 48929,
+    "forks": 9113,
     "starsInPeriod": 21
   },
   {
@@ -225,9 +225,9 @@
     "href": "https://github.com/carbon-design-system/carbon",
     "description": "A design system built by IBM",
     "language": "JavaScript",
-    "stars": 3625,
-    "forks": 831,
-    "starsInPeriod": 5
+    "stars": 3640,
+    "forks": 832,
+    "starsInPeriod": 7
   },
   {
     "author": "fengyuanchen",
@@ -235,9 +235,9 @@
     "href": "https://github.com/fengyuanchen/cropperjs",
     "description": "JavaScript image cropper.",
     "language": "JavaScript",
-    "stars": 8428,
-    "forks": 1691,
-    "starsInPeriod": 4
+    "stars": 8444,
+    "forks": 1696,
+    "starsInPeriod": 10
   },
   {
     "author": "w37fhy",
@@ -245,8 +245,8 @@
     "href": "https://github.com/w37fhy/QuantumultX",
     "description": "同步和更新大佬脚本库，更新懒人配置",
     "language": "JavaScript",
-    "stars": 284,
-    "forks": 68,
-    "starsInPeriod": 16
+    "stars": 303,
+    "forks": 69,
+    "starsInPeriod": 19
   }
 ]

@@ -5,9 +5,9 @@
     "href": "https://github.com/chatwoot/chatwoot",
     "description": "Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬",
     "language": "Ruby",
-    "stars": 5960,
-    "forks": 563,
-    "starsInPeriod": 297
+    "stars": 6099,
+    "forks": 573,
+    "starsInPeriod": 184
   },
   {
     "author": "faker-ruby",
@@ -15,9 +15,9 @@
     "href": "https://github.com/faker-ruby/faker",
     "description": "A library for generating fake data such as names, addresses, and phone numbers.",
     "language": "Ruby",
-    "stars": 8987,
-    "forks": 2509,
-    "starsInPeriod": 6
+    "stars": 8990,
+    "forks": 2512,
+    "starsInPeriod": 3
   },
   {
     "author": "bkeepers",
@@ -25,9 +25,9 @@
     "href": "https://github.com/bkeepers/dotenv",
     "description": "A Ruby gem to load environment variables from `.env`.",
     "language": "Ruby",
-    "stars": 5678,
-    "forks": 409,
-    "starsInPeriod": 1
+    "stars": 5680,
+    "forks": 408,
+    "starsInPeriod": 2
   },
   {
     "author": "vcr",
@@ -35,8 +35,8 @@
     "href": "https://github.com/vcr/vcr",
     "description": "Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.",
     "language": "Ruby",
-    "stars": 4938,
-    "forks": 463,
+    "stars": 4939,
+    "forks": 464,
     "starsInPeriod": 1
   },
   {
@@ -45,8 +45,8 @@
     "href": "https://github.com/luggit/react-native-config",
     "description": "Bring some 12 factor love to your mobile apps!",
     "language": "Ruby",
-    "stars": 3358,
-    "forks": 542,
+    "stars": 3360,
+    "forks": 543,
     "starsInPeriod": 2
   },
   {
@@ -55,9 +55,9 @@
     "href": "https://github.com/fluent/fluentd",
     "description": "Fluentd: Unified Logging Layer (project under CNCF)",
     "language": "Ruby",
-    "stars": 9694,
-    "forks": 1115,
-    "starsInPeriod": 3
+    "stars": 9700,
+    "forks": 1113,
+    "starsInPeriod": 6
   },
   {
     "author": "paper-trail-gem",
@@ -65,9 +65,9 @@
     "href": "https://github.com/paper-trail-gem/paper_trail",
     "description": "Track changes to your rails models",
     "language": "Ruby",
-    "stars": 5942,
+    "stars": 5941,
     "forks": 784,
-    "starsInPeriod": 2
+    "starsInPeriod": 0
   },
   {
     "author": "jsonapi-serializer",
@@ -75,9 +75,9 @@
     "href": "https://github.com/jsonapi-serializer/jsonapi-serializer",
     "description": "A fast JSON:API serializer for Ruby (fork of Netflix/fast_jsonapi)",
     "language": "Ruby",
-    "stars": 503,
-    "forks": 54,
-    "starsInPeriod": 3
+    "stars": 504,
+    "forks": 55,
+    "starsInPeriod": 1
   },
   {
     "author": "puma",
@@ -85,9 +85,9 @@
     "href": "https://github.com/puma/puma",
     "description": "A Ruby/Rack web server built for concurrency",
     "language": "Ruby",
-    "stars": 6571,
+    "stars": 6573,
     "forks": 1179,
-    "starsInPeriod": 5
+    "starsInPeriod": 2
   },
   {
     "author": "elastic",
@@ -95,9 +95,9 @@
     "href": "https://github.com/elastic/logstash",
     "description": "Logstash - transport and process your logs, events, or other data",
     "language": "Ruby",
-    "stars": 11768,
-    "forks": 3081,
-    "starsInPeriod": 3
+    "stars": 11769,
+    "forks": 3082,
+    "starsInPeriod": 1
   },
   {
     "author": "Homebrew",
@@ -105,9 +105,9 @@
     "href": "https://github.com/Homebrew/brew",
     "description": "🍺 The missing package manager for macOS (or Linux)",
     "language": "Ruby",
-    "stars": 23625,
-    "forks": 5545,
-    "starsInPeriod": 33
+    "stars": 23656,
+    "forks": 5544,
+    "starsInPeriod": 36
   },
   {
     "author": "CocoaPods",
@@ -115,7 +115,7 @@
     "href": "https://github.com/CocoaPods/CocoaPods",
     "description": "The Cocoa Dependency Manager.",
     "language": "Ruby",
-    "stars": 12801,
+    "stars": 12802,
     "forks": 2329,
     "starsInPeriod": 2
   },
@@ -125,9 +125,9 @@
     "href": "https://github.com/thoughtbot/shoulda-matchers",
     "description": "Simple one-liner tests for common Rails functionality",
     "language": "Ruby",
-    "stars": 2946,
+    "stars": 2947,
     "forks": 826,
-    "starsInPeriod": 0
+    "starsInPeriod": 1
   },
   {
     "author": "Homebrew",
@@ -135,9 +135,9 @@
     "href": "https://github.com/Homebrew/homebrew-bundle",
     "description": "📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.",
     "language": "Ruby",
-    "stars": 3424,
+    "stars": 3427,
     "forks": 211,
-    "starsInPeriod": 6
+    "starsInPeriod": 3
   },
   {
     "author": "ankane",
@@ -145,9 +145,9 @@
     "href": "https://github.com/ankane/strong_migrations",
     "description": "Catch unsafe migrations in development",
     "language": "Ruby",
-    "stars": 2258,
+    "stars": 2261,
     "forks": 97,
-    "starsInPeriod": 0
+    "starsInPeriod": 3
   },
   {
     "author": "discourse",
@@ -155,8 +155,8 @@
     "href": "https://github.com/discourse/discourse",
     "description": "A platform for community discussion. Free, open, simple.",
     "language": "Ruby",
-    "stars": 31868,
-    "forks": 7033,
+    "stars": 31875,
+    "forks": 7032,
     "starsInPeriod": 10
   },
   {
@@ -165,9 +165,9 @@
     "href": "https://github.com/mperham/sidekiq",
     "description": "Simple, efficient background processing for Ruby",
     "language": "Ruby",
-    "stars": 10647,
-    "forks": 1872,
-    "starsInPeriod": 3
+    "stars": 10651,
+    "forks": 1873,
+    "starsInPeriod": 4
   },
   {
     "author": "rails",
@@ -175,9 +175,9 @@
     "href": "https://github.com/rails/webpacker",
     "description": "Use Webpack to manage app-like JavaScript modules in Rails",
     "language": "Ruby",
-    "stars": 4927,
-    "forks": 1305,
-    "starsInPeriod": 0
+    "stars": 4929,
+    "forks": 1307,
+    "starsInPeriod": 2
   },
   {
     "author": "thoughtbot",
@@ -185,9 +185,9 @@
     "href": "https://github.com/thoughtbot/factory_bot",
     "description": "A library for setting up Ruby objects as test data.",
     "language": "Ruby",
-    "stars": 7031,
-    "forks": 2232,
-    "starsInPeriod": 3
+    "stars": 7032,
+    "forks": 2236,
+    "starsInPeriod": 1
   },
   {
     "author": "freeCodeCamp",
@@ -195,9 +195,9 @@
     "href": "https://github.com/freeCodeCamp/devdocs",
     "description": "API Documentation Browser",
     "language": "Ruby",
-    "stars": 24187,
+    "stars": 24196,
     "forks": 1641,
-    "starsInPeriod": 8
+    "starsInPeriod": 11
   },
   {
     "author": "lostisland",
@@ -206,8 +206,8 @@
     "description": "Simple, but flexible HTTP client library, with support for multiple backends.",
     "language": "Ruby",
     "stars": 4907,
-    "forks": 814,
-    "starsInPeriod": 2
+    "forks": 815,
+    "starsInPeriod": 0
   },
   {
     "author": "rubocop-hq",
@@ -215,9 +215,9 @@
     "href": "https://github.com/rubocop-hq/rubocop",
     "description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
     "language": "Ruby",
-    "stars": 11147,
-    "forks": 2528,
-    "starsInPeriod": 2
+    "stars": 11145,
+    "forks": 2529,
+    "starsInPeriod": 1
   },
   {
     "author": "sinatra",
@@ -225,7 +225,7 @@
     "href": "https://github.com/sinatra/sinatra",
     "description": "Classy web-development dressed in a DSL (official / canonical repo)",
     "language": "Ruby",
-    "stars": 11119,
+    "stars": 11121,
     "forks": 1997,
     "starsInPeriod": 2
   },
@@ -235,9 +235,9 @@
     "href": "https://github.com/mikel/mail",
     "description": "A Really Ruby Mail Library",
     "language": "Ruby",
-    "stars": 3274,
+    "stars": 3278,
     "forks": 834,
-    "starsInPeriod": 1
+    "starsInPeriod": 4
   },
   {
     "author": "teamcapybara",
@@ -245,7 +245,7 @@
     "href": "https://github.com/teamcapybara/capybara",
     "description": "Acceptance test framework for web applications",
     "language": "Ruby",
-    "stars": 9235,
+    "stars": 9236,
     "forks": 1361,
     "starsInPeriod": 1
   }
