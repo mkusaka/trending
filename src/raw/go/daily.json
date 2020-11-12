@@ -5,9 +5,9 @@
     "href": "https://github.com/micro/micro",
     "description": "Micro is a platform for cloud native application development",
     "language": "Go",
-    "stars": 8781,
-    "forks": 771,
-    "starsInPeriod": 44
+    "stars": 8891,
+    "forks": 773,
+    "starsInPeriod": 56
   },
   {
     "author": "golang",
@@ -15,9 +15,9 @@
     "href": "https://github.com/golang/oauth2",
     "description": "Go OAuth2",
     "language": "Go",
-    "stars": 3202,
+    "stars": 3292,
     "forks": 689,
-    "starsInPeriod": 3
+    "starsInPeriod": 34
   },
   {
     "author": "magma",
@@ -25,9 +25,9 @@
     "href": "https://github.com/magma/magma",
     "description": "Platform for building access networks and modular network services",
     "language": "Go",
-    "stars": 601,
-    "forks": 233,
-    "starsInPeriod": 2
+    "stars": 610,
+    "forks": 234,
+    "starsInPeriod": 8
   },
   {
     "author": "gofiber",
@@ -35,9 +35,9 @@
     "href": "https://github.com/gofiber/fiber",
     "description": "⚡️ Express inspired web framework written in Go",
     "language": "Go",
-    "stars": 9773,
-    "forks": 435,
-    "starsInPeriod": 34
+    "stars": 9804,
+    "forks": 437,
+    "starsInPeriod": 33
   },
   {
     "author": "ossf",
@@ -45,9 +45,9 @@
     "href": "https://github.com/ossf/scorecard",
     "description": "OSS Security Scorecards",
     "language": "Go",
-    "stars": 190,
-    "forks": 9,
-    "starsInPeriod": 73
+    "stars": 242,
+    "forks": 12,
+    "starsInPeriod": 55
   },
   {
     "author": "redcode-labs",
@@ -55,9 +55,9 @@
     "href": "https://github.com/redcode-labs/Coldfire",
     "description": "Golang malware development library",
     "language": "Go",
-    "stars": 148,
-    "forks": 10,
-    "starsInPeriod": 36
+    "stars": 178,
+    "forks": 14,
+    "starsInPeriod": 29
   },
   {
     "author": "golang",
@@ -65,9 +65,9 @@
     "href": "https://github.com/golang/go",
     "description": "The Go programming language",
     "language": "Go",
-    "stars": 78425,
-    "forks": 11342,
-    "starsInPeriod": 54
+    "stars": 78476,
+    "forks": 11349,
+    "starsInPeriod": 59
   },
   {
     "author": "helm",
@@ -75,9 +75,9 @@
     "href": "https://github.com/helm/helm",
     "description": "The Kubernetes Package Manager",
     "language": "Go",
-    "stars": 18339,
-    "forks": 5418,
-    "starsInPeriod": 12
+    "stars": 18350,
+    "forks": 5420,
+    "starsInPeriod": 9
   },
   {
     "author": "Vlad-Shevliakov",
@@ -85,9 +85,9 @@
     "href": "https://github.com/Vlad-Shevliakov/ASCII-render",
     "description": "Spinning Donut 🍩",
     "language": "Go",
-    "stars": 13,
-    "forks": 1,
-    "starsInPeriod": 3
+    "stars": 17,
+    "forks": 2,
+    "starsInPeriod": 4
   },
   {
     "author": "ethereum",
@@ -95,8 +95,8 @@
     "href": "https://github.com/ethereum/go-ethereum",
     "description": "Official Go implementation of the Ethereum protocol",
     "language": "Go",
-    "stars": 27096,
-    "forks": 9974,
+    "stars": 27109,
+    "forks": 9983,
     "starsInPeriod": 19
   },
   {
@@ -105,9 +105,9 @@
     "href": "https://github.com/kubernetes/autoscaler",
     "description": "Autoscaling components for Kubernetes",
     "language": "Go",
-    "stars": 3725,
-    "forks": 1724,
-    "starsInPeriod": 2
+    "stars": 3732,
+    "forks": 1727,
+    "starsInPeriod": 8
   },
   {
     "author": "terraform-providers",
@@ -115,8 +115,8 @@
     "href": "https://github.com/terraform-providers/terraform-provider-azurerm",
     "description": "Terraform provider for Azure Resource Manager",
     "language": "Go",
-    "stars": 2086,
-    "forks": 2060,
+    "stars": 2090,
+    "forks": 2062,
     "starsInPeriod": 4
   },
   {
@@ -125,9 +125,9 @@
     "href": "https://github.com/argoproj/argo-cd",
     "description": "Declarative continuous deployment for Kubernetes.",
     "language": "Go",
-    "stars": 4288,
-    "forks": 918,
-    "starsInPeriod": 7
+    "stars": 4294,
+    "forks": 920,
+    "starsInPeriod": 4
   },
   {
     "author": "vmware-tanzu",
@@ -135,9 +135,9 @@
     "href": "https://github.com/vmware-tanzu/velero",
     "description": "Backup and migrate Kubernetes applications and their persistent volumes",
     "language": "Go",
-    "stars": 4488,
-    "forks": 722,
-    "starsInPeriod": 8
+    "stars": 4490,
+    "forks": 723,
+    "starsInPeriod": 4
   },
   {
     "author": "gin-gonic",
@@ -145,9 +145,9 @@
     "href": "https://github.com/gin-gonic/gin",
     "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
     "language": "Go",
-    "stars": 43126,
-    "forks": 4954,
-    "starsInPeriod": 30
+    "stars": 43167,
+    "forks": 4958,
+    "starsInPeriod": 28
   },
   {
     "author": "opencontainers",
@@ -155,7 +155,7 @@
     "href": "https://github.com/opencontainers/runc",
     "description": "CLI tool for spawning and running containers according to the OCI specification",
     "language": "Go",
-    "stars": 7321,
+    "stars": 7328,
     "forks": 1383,
     "starsInPeriod": 6
   },
@@ -165,9 +165,9 @@
     "href": "https://github.com/shirou/gopsutil",
     "description": "psutil for golang",
     "language": "Go",
-    "stars": 5493,
-    "forks": 957,
-    "starsInPeriod": 9
+    "stars": 5500,
+    "forks": 958,
+    "starsInPeriod": 10
   },
   {
     "author": "awslabs",
@@ -175,7 +175,7 @@
     "href": "https://github.com/awslabs/amazon-ecr-credential-helper",
     "description": "Automatically gets credentials for Amazon ECR on docker push/docker pull",
     "language": "Go",
-    "stars": 1445,
+    "stars": 1447,
     "forks": 189,
     "starsInPeriod": 2
   },
@@ -185,9 +185,9 @@
     "href": "https://github.com/fullstorydev/grpcurl",
     "description": "Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers",
     "language": "Go",
-    "stars": 4042,
+    "stars": 4058,
     "forks": 193,
-    "starsInPeriod": 9
+    "starsInPeriod": 19
   },
   {
     "author": "grpc",
@@ -195,9 +195,9 @@
     "href": "https://github.com/grpc/grpc-go",
     "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
     "language": "Go",
-    "stars": 12528,
-    "forks": 2666,
-    "starsInPeriod": 8
+    "stars": 12537,
+    "forks": 2665,
+    "starsInPeriod": 10
   },
   {
     "author": "golang",
@@ -205,9 +205,9 @@
     "href": "https://github.com/golang/groupcache",
     "description": "groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.",
     "language": "Go",
-    "stars": 9340,
-    "forks": 1061,
-    "starsInPeriod": 8
+    "stars": 9346,
+    "forks": 1062,
+    "starsInPeriod": 7
   },
   {
     "author": "Tencent",
@@ -215,9 +215,9 @@
     "href": "https://github.com/Tencent/bk-cmdb",
     "description": "蓝鲸智云配置平台(BlueKing CMDB)",
     "language": "Go",
-    "stars": 3702,
-    "forks": 1196,
-    "starsInPeriod": 5
+    "stars": 3708,
+    "forks": 1197,
+    "starsInPeriod": 3
   },
   {
     "author": "dominikh",
@@ -225,9 +225,9 @@
     "href": "https://github.com/dominikh/go-tools",
     "description": "Staticcheck - The advanced Go linter",
     "language": "Go",
-    "stars": 3500,
+    "stars": 3509,
     "forks": 220,
-    "starsInPeriod": 2
+    "starsInPeriod": 11
   },
   {
     "author": "cilium",
@@ -235,9 +235,9 @@
     "href": "https://github.com/cilium/cilium",
     "description": "eBPF-based Networking, Security, and Observability",
     "language": "Go",
-    "stars": 6823,
-    "forks": 796,
-    "starsInPeriod": 53
+    "stars": 6853,
+    "forks": 797,
+    "starsInPeriod": 28
   },
   {
     "author": "google",
@@ -245,8 +245,8 @@
     "href": "https://github.com/google/syzkaller",
     "description": "syzkaller is an unsupervised coverage-guided kernel fuzzer",
     "language": "Go",
-    "stars": 3217,
+    "stars": 3223,
     "forks": 743,
-    "starsInPeriod": 3
+    "starsInPeriod": 7
   }
 ]

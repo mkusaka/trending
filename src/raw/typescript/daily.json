@@ -5,9 +5,9 @@
     "href": "https://github.com/thenewboston-developers/Website",
     "description": "The website and documentation for thenewboston.",
     "language": "TypeScript",
-    "stars": 324,
-    "forks": 232,
-    "starsInPeriod": 107
+    "stars": 389,
+    "forks": 243,
+    "starsInPeriod": 68
   },
   {
     "author": "snyk",
@@ -15,9 +15,9 @@
     "href": "https://github.com/snyk/snyk",
     "description": "CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies",
     "language": "TypeScript",
-    "stars": 2367,
+    "stars": 2487,
     "forks": 253,
-    "starsInPeriod": 28
+    "starsInPeriod": 59
   },
   {
     "author": "n8n-io",
@@ -25,9 +25,9 @@
     "href": "https://github.com/n8n-io/n8n",
     "description": "Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.",
     "language": "TypeScript",
-    "stars": 10283,
-    "forks": 774,
-    "starsInPeriod": 21
+    "stars": 10344,
+    "forks": 780,
+    "starsInPeriod": 50
   },
   {
     "author": "DefinitelyTyped",
@@ -35,8 +35,8 @@
     "href": "https://github.com/DefinitelyTyped/DefinitelyTyped",
     "description": "The repository for high quality TypeScript type definitions.",
     "language": "TypeScript",
-    "stars": 30726,
-    "forks": 23139,
+    "stars": 30746,
+    "forks": 23154,
     "starsInPeriod": 19
   },
   {
@@ -45,9 +45,9 @@
     "href": "https://github.com/antfu/vueuse",
     "description": "🧰 Collection of Composition API utils for Vue 2 and 3",
     "language": "TypeScript",
-    "stars": 1882,
+    "stars": 1901,
     "forks": 97,
-    "starsInPeriod": 16
+    "starsInPeriod": 20
   },
   {
     "author": "Azure",
@@ -55,9 +55,9 @@
     "href": "https://github.com/Azure/azure-sdk-for-js",
     "description": "This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.",
     "language": "TypeScript",
-    "stars": 778,
-    "forks": 418,
-    "starsInPeriod": 2
+    "stars": 779,
+    "forks": 420,
+    "starsInPeriod": 1
   },
   {
     "author": "aws",
@@ -65,9 +65,9 @@
     "href": "https://github.com/aws/aws-cdk",
     "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
     "language": "TypeScript",
-    "stars": 5684,
-    "forks": 1269,
-    "starsInPeriod": 9
+    "stars": 5693,
+    "forks": 1272,
+    "starsInPeriod": 7
   },
   {
     "author": "facebook",
@@ -75,9 +75,9 @@
     "href": "https://github.com/facebook/jest",
     "description": "Delightful JavaScript Testing.",
     "language": "TypeScript",
-    "stars": 33068,
-    "forks": 4743,
-    "starsInPeriod": 19
+    "stars": 33079,
+    "forks": 4744,
+    "starsInPeriod": 14
   },
   {
     "author": "Chocobozzz",
@@ -85,9 +85,9 @@
     "href": "https://github.com/Chocobozzz/PeerTube",
     "description": "ActivityPub-federated video streaming platform using P2P directly in your web browser",
     "language": "TypeScript",
-    "stars": 8020,
-    "forks": 791,
-    "starsInPeriod": 17
+    "stars": 8033,
+    "forks": 792,
+    "starsInPeriod": 13
   },
   {
     "author": "microsoft",
@@ -95,9 +95,9 @@
     "href": "https://github.com/microsoft/fluentui",
     "description": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications.",
     "language": "TypeScript",
-    "stars": 9730,
-    "forks": 1737,
-    "starsInPeriod": 13
+    "stars": 9745,
+    "forks": 1739,
+    "starsInPeriod": 15
   },
   {
     "author": "openvinotoolkit",
@@ -105,9 +105,9 @@
     "href": "https://github.com/openvinotoolkit/cvat",
     "description": "Powerful and efficient Computer Vision Annotation Tool (CVAT)",
     "language": "TypeScript",
-    "stars": 4435,
-    "forks": 1193,
-    "starsInPeriod": 11
+    "stars": 4442,
+    "forks": 1195,
+    "starsInPeriod": 9
   },
   {
     "author": "angular",
@@ -116,8 +116,8 @@
     "description": "Component infrastructure and Material Design components for Angular",
     "language": "TypeScript",
     "stars": 20593,
-    "forks": 5523,
-    "starsInPeriod": 9
+    "forks": 5524,
+    "starsInPeriod": 8
   },
   {
     "author": "Redocly",
@@ -125,9 +125,9 @@
     "href": "https://github.com/Redocly/redoc",
     "description": "📘 OpenAPI/Swagger-generated API Reference Documentation",
     "language": "TypeScript",
-    "stars": 11233,
-    "forks": 1287,
-    "starsInPeriod": 19
+    "stars": 11265,
+    "forks": 1290,
+    "starsInPeriod": 31
   },
   {
     "author": "adazzle",
@@ -135,9 +135,9 @@
     "href": "https://github.com/adazzle/react-data-grid",
     "description": "Excel-like grid component built with React, with editors, keyboard navigation, copy & paste, and the like",
     "language": "TypeScript",
-    "stars": 4191,
-    "forks": 1795,
-    "starsInPeriod": 5
+    "stars": 4200,
+    "forks": 1796,
+    "starsInPeriod": 7
   },
   {
     "author": "angular",
@@ -145,9 +145,9 @@
     "href": "https://github.com/angular/angular",
     "description": "One framework. Mobile & desktop.",
     "language": "TypeScript",
-    "stars": 67505,
-    "forks": 17923,
-    "starsInPeriod": 34
+    "stars": 67553,
+    "forks": 17926,
+    "starsInPeriod": 58
   },
   {
     "author": "prisma",
@@ -155,9 +155,9 @@
     "href": "https://github.com/prisma/prisma",
     "description": "Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite",
     "language": "TypeScript",
-    "stars": 6169,
+    "stars": 6175,
     "forks": 305,
-    "starsInPeriod": 24
+    "starsInPeriod": 9
   },
   {
     "author": "electron-userland",
@@ -165,9 +165,9 @@
     "href": "https://github.com/electron-userland/electron-builder",
     "description": "A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box",
     "language": "TypeScript",
-    "stars": 9821,
+    "stars": 9828,
     "forks": 1197,
-    "starsInPeriod": 5
+    "starsInPeriod": 8
   },
   {
     "author": "firebase",
@@ -175,9 +175,9 @@
     "href": "https://github.com/firebase/firebase-js-sdk",
     "description": "Firebase Javascript SDK",
     "language": "TypeScript",
-    "stars": 3158,
-    "forks": 540,
-    "starsInPeriod": 16
+    "stars": 3166,
+    "forks": 541,
+    "starsInPeriod": 15
   },
   {
     "author": "vuetifyjs",
@@ -185,8 +185,8 @@
     "href": "https://github.com/vuetifyjs/vuetify",
     "description": "🐉 Material Component Framework for Vue",
     "language": "TypeScript",
-    "stars": 28365,
-    "forks": 5123,
+    "stars": 28383,
+    "forks": 5124,
     "starsInPeriod": 20
   },
   {
@@ -196,8 +196,8 @@
     "description": "Tasks for Azure Pipelines",
     "language": "TypeScript",
     "stars": 2276,
-    "forks": 1754,
-    "starsInPeriod": 2
+    "forks": 1757,
+    "starsInPeriod": 1
   },
   {
     "author": "hediet",
@@ -205,9 +205,9 @@
     "href": "https://github.com/hediet/vscode-drawio",
     "description": "This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.",
     "language": "TypeScript",
-    "stars": 6722,
+    "stars": 6724,
     "forks": 218,
-    "starsInPeriod": 13
+    "starsInPeriod": 8
   },
   {
     "author": "denoland",
@@ -215,9 +215,9 @@
     "href": "https://github.com/denoland/deno",
     "description": "A secure JavaScript and TypeScript runtime",
     "language": "TypeScript",
-    "stars": 68949,
-    "forks": 3592,
-    "starsInPeriod": 51
+    "stars": 68982,
+    "forks": 3593,
+    "starsInPeriod": 36
   },
   {
     "author": "aws-amplify",
@@ -225,7 +225,7 @@
     "href": "https://github.com/aws-amplify/docs",
     "description": "Amplify Framework Documentation",
     "language": "TypeScript",
-    "stars": 212,
+    "stars": 211,
     "forks": 533,
     "starsInPeriod": 1
   },
@@ -235,9 +235,9 @@
     "href": "https://github.com/alephjs/aleph.js",
     "description": "The React Framework in Deno.",
     "language": "TypeScript",
-    "stars": 929,
-    "forks": 16,
-    "starsInPeriod": 122
+    "stars": 997,
+    "forks": 19,
+    "starsInPeriod": 111
   },
   {
     "author": "rome",
@@ -245,8 +245,8 @@
     "href": "https://github.com/rome/tools",
     "description": "The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.",
     "language": "TypeScript",
-    "stars": 13789,
+    "stars": 13799,
     "forks": 426,
-    "starsInPeriod": 13
+    "starsInPeriod": 11
   }
 ]
