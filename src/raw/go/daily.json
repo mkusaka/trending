@@ -1,33 +1,43 @@
 [
   {
-    "author": "micro",
-    "name": "micro",
-    "href": "https://github.com/micro/micro",
-    "description": "Micro is a platform for cloud native application development",
+    "author": "photoprism",
+    "name": "photoprism",
+    "href": "https://github.com/photoprism/photoprism",
+    "description": "Personal Photo Management powered by Go and Google TensorFlow",
     "language": "Go",
-    "stars": 8891,
-    "forks": 773,
-    "starsInPeriod": 56
+    "stars": 7015,
+    "forks": 421,
+    "starsInPeriod": 97
   },
   {
-    "author": "golang",
-    "name": "oauth2",
-    "href": "https://github.com/golang/oauth2",
-    "description": "Go OAuth2",
+    "author": "hashicorp",
+    "name": "terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
     "language": "Go",
-    "stars": 3292,
-    "forks": 689,
-    "starsInPeriod": 34
+    "stars": 24458,
+    "forks": 6219,
+    "starsInPeriod": 17
   },
   {
-    "author": "magma",
-    "name": "magma",
-    "href": "https://github.com/magma/magma",
-    "description": "Platform for building access networks and modular network services",
+    "author": "kitabisa",
+    "name": "teler",
+    "href": "https://github.com/kitabisa/teler",
+    "description": "Real-time HTTP Intrusion Detection",
     "language": "Go",
-    "stars": 610,
-    "forks": 234,
-    "starsInPeriod": 8
+    "stars": 545,
+    "forks": 54,
+    "starsInPeriod": 73
+  },
+  {
+    "author": "drk1wi",
+    "name": "Modlishka",
+    "href": "https://github.com/drk1wi/Modlishka",
+    "description": "Modlishka. Reverse Proxy.",
+    "language": "Go",
+    "stars": 3071,
+    "forks": 600,
+    "starsInPeriod": 15
   },
   {
     "author": "gofiber",
@@ -35,29 +45,39 @@
     "href": "https://github.com/gofiber/fiber",
     "description": "⚡️ Express inspired web framework written in Go",
     "language": "Go",
-    "stars": 9804,
-    "forks": 437,
-    "starsInPeriod": 33
+    "stars": 9842,
+    "forks": 438,
+    "starsInPeriod": 42
   },
   {
-    "author": "ossf",
-    "name": "scorecard",
-    "href": "https://github.com/ossf/scorecard",
-    "description": "OSS Security Scorecards",
+    "author": "microsoft",
+    "name": "CBL-Mariner",
+    "href": "https://github.com/microsoft/CBL-Mariner",
+    "description": "Linux OS for Azure 1P services and edge appliances",
     "language": "Go",
-    "stars": 242,
-    "forks": 12,
-    "starsInPeriod": 55
+    "stars": 155,
+    "forks": 24,
+    "starsInPeriod": 26
   },
   {
-    "author": "redcode-labs",
-    "name": "Coldfire",
-    "href": "https://github.com/redcode-labs/Coldfire",
-    "description": "Golang malware development library",
+    "author": "magma",
+    "name": "magma",
+    "href": "https://github.com/magma/magma",
+    "description": "Platform for building access networks and modular network services",
     "language": "Go",
-    "stars": 178,
-    "forks": 14,
-    "starsInPeriod": 29
+    "stars": 614,
+    "forks": 234,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "olivere",
+    "name": "elastic",
+    "href": "https://github.com/olivere/elastic",
+    "description": "Elasticsearch client for Go.",
+    "language": "Go",
+    "stars": 5479,
+    "forks": 947,
+    "starsInPeriod": 5
   },
   {
     "author": "golang",
@@ -65,28 +85,158 @@
     "href": "https://github.com/golang/go",
     "description": "The Go programming language",
     "language": "Go",
-    "stars": 78476,
-    "forks": 11349,
-    "starsInPeriod": 59
+    "stars": 78519,
+    "forks": 11358,
+    "starsInPeriod": 50
   },
   {
-    "author": "helm",
-    "name": "helm",
-    "href": "https://github.com/helm/helm",
-    "description": "The Kubernetes Package Manager",
+    "author": "ossf",
+    "name": "scorecard",
+    "href": "https://github.com/ossf/scorecard",
+    "description": "OSS Security Scorecards",
     "language": "Go",
-    "stars": 18350,
-    "forks": 5420,
-    "starsInPeriod": 9
+    "stars": 285,
+    "forks": 17,
+    "starsInPeriod": 45
   },
   {
-    "author": "Vlad-Shevliakov",
-    "name": "ASCII-render",
-    "href": "https://github.com/Vlad-Shevliakov/ASCII-render",
-    "description": "Spinning Donut 🍩",
+    "author": "kubernetes",
+    "name": "kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "description": "Production-Grade Container Scheduling and Management",
     "language": "Go",
-    "stars": 17,
-    "forks": 2,
+    "stars": 71615,
+    "forks": 25914,
+    "starsInPeriod": 35
+  },
+  {
+    "author": "micro",
+    "name": "micro",
+    "href": "https://github.com/micro/micro",
+    "description": "Micro is a platform for cloud native application development",
+    "language": "Go",
+    "stars": 9000,
+    "forks": 776,
+    "starsInPeriod": 119
+  },
+  {
+    "author": "moby",
+    "name": "moby",
+    "href": "https://github.com/moby/moby",
+    "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "language": "Go",
+    "stars": 58874,
+    "forks": 16950,
+    "starsInPeriod": 19
+  },
+  {
+    "author": "prometheus",
+    "name": "node_exporter",
+    "href": "https://github.com/prometheus/node_exporter",
+    "description": "Exporter for machine metrics",
+    "language": "Go",
+    "stars": 5285,
+    "forks": 1322,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "kubernetes-sigs",
+    "name": "kustomize",
+    "href": "https://github.com/kubernetes-sigs/kustomize",
+    "description": "Customization of kubernetes YAML configurations",
+    "language": "Go",
+    "stars": 6385,
+    "forks": 1182,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "sourcegraph",
+    "name": "sourcegraph",
+    "href": "https://github.com/sourcegraph/sourcegraph",
+    "description": "Universal code search (self-hosted)",
+    "language": "Go",
+    "stars": 4060,
+    "forks": 453,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "360EntSecGroup-Skylar",
+    "name": "excelize",
+    "href": "https://github.com/360EntSecGroup-Skylar/excelize",
+    "description": "Golang library for reading and writing Microsoft Excel™ (XLSX) files.",
+    "language": "Go",
+    "stars": 7251,
+    "forks": 785,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "pingcap",
+    "name": "tidb",
+    "href": "https://github.com/pingcap/tidb",
+    "description": "TiDB is an open source distributed HTAP database compatible with the MySQL protocol",
+    "language": "Go",
+    "stars": 25671,
+    "forks": 4003,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "go-chi",
+    "name": "chi",
+    "href": "https://github.com/go-chi/chi",
+    "description": "lightweight, idiomatic and composable router for building Go HTTP services",
+    "language": "Go",
+    "stars": 8420,
+    "forks": 577,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "btcsuite",
+    "name": "btcd",
+    "href": "https://github.com/btcsuite/btcd",
+    "description": "An alternative full node bitcoin implementation written in Go (golang)",
+    "language": "Go",
+    "stars": 3994,
+    "forks": 1359,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "vitessio",
+    "name": "vitess",
+    "href": "https://github.com/vitessio/vitess",
+    "description": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+    "language": "Go",
+    "stars": 10884,
+    "forks": 1401,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "kgretzky",
+    "name": "evilginx2",
+    "href": "https://github.com/kgretzky/evilginx2",
+    "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+    "language": "Go",
+    "stars": 3668,
+    "forks": 735,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "go-redis",
+    "name": "redis",
+    "href": "https://github.com/go-redis/redis",
+    "description": "Type-safe Redis client for Golang",
+    "language": "Go",
+    "stars": 10054,
+    "forks": 1275,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "filecoin-project",
+    "name": "lotus",
+    "href": "https://github.com/filecoin-project/lotus",
+    "description": "Implementation of the Filecoin protocol, written in Go",
+    "language": "Go",
+    "stars": 878,
+    "forks": 483,
     "starsInPeriod": 4
   },
   {
@@ -95,158 +245,8 @@
     "href": "https://github.com/ethereum/go-ethereum",
     "description": "Official Go implementation of the Ethereum protocol",
     "language": "Go",
-    "stars": 27109,
-    "forks": 9983,
-    "starsInPeriod": 19
-  },
-  {
-    "author": "kubernetes",
-    "name": "autoscaler",
-    "href": "https://github.com/kubernetes/autoscaler",
-    "description": "Autoscaling components for Kubernetes",
-    "language": "Go",
-    "stars": 3732,
-    "forks": 1727,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "terraform-providers",
-    "name": "terraform-provider-azurerm",
-    "href": "https://github.com/terraform-providers/terraform-provider-azurerm",
-    "description": "Terraform provider for Azure Resource Manager",
-    "language": "Go",
-    "stars": 2090,
-    "forks": 2062,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "argoproj",
-    "name": "argo-cd",
-    "href": "https://github.com/argoproj/argo-cd",
-    "description": "Declarative continuous deployment for Kubernetes.",
-    "language": "Go",
-    "stars": 4294,
-    "forks": 920,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "vmware-tanzu",
-    "name": "velero",
-    "href": "https://github.com/vmware-tanzu/velero",
-    "description": "Backup and migrate Kubernetes applications and their persistent volumes",
-    "language": "Go",
-    "stars": 4490,
-    "forks": 723,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "gin-gonic",
-    "name": "gin",
-    "href": "https://github.com/gin-gonic/gin",
-    "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
-    "language": "Go",
-    "stars": 43167,
-    "forks": 4958,
-    "starsInPeriod": 28
-  },
-  {
-    "author": "opencontainers",
-    "name": "runc",
-    "href": "https://github.com/opencontainers/runc",
-    "description": "CLI tool for spawning and running containers according to the OCI specification",
-    "language": "Go",
-    "stars": 7328,
-    "forks": 1383,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "shirou",
-    "name": "gopsutil",
-    "href": "https://github.com/shirou/gopsutil",
-    "description": "psutil for golang",
-    "language": "Go",
-    "stars": 5500,
-    "forks": 958,
-    "starsInPeriod": 10
-  },
-  {
-    "author": "awslabs",
-    "name": "amazon-ecr-credential-helper",
-    "href": "https://github.com/awslabs/amazon-ecr-credential-helper",
-    "description": "Automatically gets credentials for Amazon ECR on docker push/docker pull",
-    "language": "Go",
-    "stars": 1447,
-    "forks": 189,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "fullstorydev",
-    "name": "grpcurl",
-    "href": "https://github.com/fullstorydev/grpcurl",
-    "description": "Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers",
-    "language": "Go",
-    "stars": 4058,
-    "forks": 193,
-    "starsInPeriod": 19
-  },
-  {
-    "author": "grpc",
-    "name": "grpc-go",
-    "href": "https://github.com/grpc/grpc-go",
-    "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
-    "language": "Go",
-    "stars": 12537,
-    "forks": 2665,
-    "starsInPeriod": 10
-  },
-  {
-    "author": "golang",
-    "name": "groupcache",
-    "href": "https://github.com/golang/groupcache",
-    "description": "groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.",
-    "language": "Go",
-    "stars": 9346,
-    "forks": 1062,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "Tencent",
-    "name": "bk-cmdb",
-    "href": "https://github.com/Tencent/bk-cmdb",
-    "description": "蓝鲸智云配置平台(BlueKing CMDB)",
-    "language": "Go",
-    "stars": 3708,
-    "forks": 1197,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "dominikh",
-    "name": "go-tools",
-    "href": "https://github.com/dominikh/go-tools",
-    "description": "Staticcheck - The advanced Go linter",
-    "language": "Go",
-    "stars": 3509,
-    "forks": 220,
-    "starsInPeriod": 11
-  },
-  {
-    "author": "cilium",
-    "name": "cilium",
-    "href": "https://github.com/cilium/cilium",
-    "description": "eBPF-based Networking, Security, and Observability",
-    "language": "Go",
-    "stars": 6853,
-    "forks": 797,
-    "starsInPeriod": 28
-  },
-  {
-    "author": "google",
-    "name": "syzkaller",
-    "href": "https://github.com/google/syzkaller",
-    "description": "syzkaller is an unsupervised coverage-guided kernel fuzzer",
-    "language": "Go",
-    "stars": 3223,
-    "forks": 743,
-    "starsInPeriod": 7
+    "stars": 27121,
+    "forks": 9994,
+    "starsInPeriod": 14
   }
 ]

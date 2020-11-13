@@ -1,51 +1,51 @@
 # javascript
-- [faker.js](https://github.com/Marak/faker.js)
-  - generate massive amounts of realistic fake data in Node.js and the browser
-- [rengine](https://github.com/yogeshojha/rengine)
-  - reNgine is an automated reconnaissance framework meant for information gathering during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
+- [22120](https://github.com/c9fe/22120)
+  - 🏛️ 22120 - Self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.
+- [notion-clone](https://github.com/konstantinmuenster/notion-clone)
+  - Edit Notes like in Notion.so. Full-Stack App using React/Express.
+- [Weather-Cal](https://github.com/mzeryck/Weather-Cal)
+  - This is a Scriptable widget that lets you display, position, and format multiple elements, including dates and events, weather information, battery level, and more. You can even create your own elements.
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
 - [WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
   - Play with fluids in your browser (works even on mobile)
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [react-native-firebase](https://github.com/invertase/react-native-firebase)
-  - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
-- [javascript](https://github.com/airbnb/javascript)
-  - JavaScript Style Guide
-- [zonote](https://github.com/zonetti/zonote)
-  - Cross-platform desktop note-taking app. Sticky notes with Markdown and Tabs. All in one .txt file.
-- [wekan](https://github.com/wekan/wekan)
-  - The open-source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
-- [eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import)
-  - ESLint plugin with rules that help validate proper imports.
-- [JD_Sign_Action](https://github.com/ZHDeveloper/JD_Sign_Action)
-  - 基于github actions的京东签到、领京豆
+- [rengine](https://github.com/yogeshojha/rengine)
+  - reNgine is an automated reconnaissance framework meant for information gathering during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
+- [three.js](https://github.com/mrdoob/three.js)
+  - JavaScript 3D library.
 - [ttv-ublock](https://github.com/odensc/ttv-ublock)
   - Blocking ads on that certain streaming website
-- [cypress](https://github.com/cypress-io/cypress)
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [atom](https://github.com/atom/atom)
-  - The hackable text editor
-- [next-translate](https://github.com/vinissimus/next-translate)
-  - i18n tool for Next.js 10 🌍 - Load page translations and use them in an easy way!
-- [webpack-boilerplate](https://github.com/taniarascia/webpack-boilerplate)
-  - 📦 ‎ A sensible webpack 5 boilerplate.
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [gatsby](https://github.com/gatsbyjs/gatsby)
+  - Build blazing fast, modern apps and websites with React
 - [mermaid](https://github.com/mermaid-js/mermaid)
   - Generation of diagram and flowchart from text in a similar manner as markdown
-- [sortablejs](https://github.com/SortableJS/sortablejs)
-  - Create and reorder lists with drag-and-drop. For use with modern browsers and touch devices
-- [hubs](https://github.com/mozilla/hubs)
-  - Duck-themed multi-user virtual spaces in WebVR. Built with A-Frame.
-- [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
-  - A React component for building Web forms from JSON Schema.
-- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
-  - Beautiful and accessible drag and drop for lists with React
-- [plugins](https://github.com/rollup/plugins)
-  - 🍣 The one-stop shop for official Rollup plugins
-- [markdown-here](https://github.com/adam-p/markdown-here)
-  - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
-- [carbon](https://github.com/carbon-design-system/carbon)
-  - A design system built by IBM
-- [cropperjs](https://github.com/fengyuanchen/cropperjs)
-  - JavaScript image cropper.
 - [QuantumultX](https://github.com/w37fhy/QuantumultX)
   - 同步和更新大佬脚本库，更新懒人配置
+- [monaco-editor](https://github.com/microsoft/monaco-editor)
+  - A browser based code editor
+- [react-native-snap-carousel](https://github.com/archriss/react-native-snap-carousel)
+  - Swiper/carousel component for React Native featuring previews, multiple layouts, parallax images, performant handling of huge numbers of items, and more. Compatible with Android & iOS.
+- [MyActions](https://github.com/sazs34/MyActions)
+  - 基于Github-Action实现的京东签到,已集合NobyDa和lxk0301的签到内容,只需配置一条secret即可签到
+- [appium](https://github.com/appium/appium)
+  - 📱 Automation for iOS, Android, and Windows Apps.
+- [Chart.js](https://github.com/chartjs/Chart.js)
+  - Simple HTML5 Charts using the <canvas> tag
+- [slick](https://github.com/kenwheeler/slick)
+  - the last carousel you'll ever need
+- [swiper](https://github.com/nolimits4web/swiper)
+  - Most modern mobile touch slider with hardware accelerated transitions
+- [javascript](https://github.com/airbnb/javascript)
+  - JavaScript Style Guide
+- [cypress](https://github.com/cypress-io/cypress)
+  - Fast, easy and reliable testing for anything that runs in a browser.
+- [react-grid-layout](https://github.com/STRML/react-grid-layout)
+  - A draggable and resizable grid layout with responsive breakpoints, for React.
+- [juice-shop](https://github.com/bkimminich/juice-shop)
+  - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
+- [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools)
+  - The best design tools and plugins for everything 👉
+- [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+  - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.

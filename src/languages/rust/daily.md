@@ -1,51 +1,51 @@
 # rust
-- [dog](https://github.com/ogham/dog)
-  - Command-line DNS client
-- [tracing](https://github.com/tokio-rs/tracing)
-  - Application level tracing for Rust.
-- [wasmer](https://github.com/wasmerio/wasmer)
-  - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [ruffle](https://github.com/ruffle-rs/ruffle)
-  - A Flash Player emulator written in Rust
-- [openethereum](https://github.com/openethereum/openethereum)
-  - The fast, light, and robust client for the Ethereum mainnet.
-- [libra](https://github.com/libra/libra)
-  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)
-  - Rust bindings to wgpu native library
-- [tokio](https://github.com/tokio-rs/tokio)
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [rust-blog](https://github.com/pretzelhammer/rust-blog)
   - Educational blog posts for Rust beginners
-- [RustScan](https://github.com/RustScan/RustScan)
-  - 🤖 The Modern Port Scanner 🤖
-- [indy-sdk](https://github.com/hyperledger/indy-sdk)
-  - Everything needed to build applications that interact with an Indy distributed identity ledger.
-- [solana](https://github.com/solana-labs/solana)
-  - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-- [rCore](https://github.com/rcore-os/rCore)
-  - Rust version of THU uCore OS. Linux compatible.
-- [Findomain](https://github.com/Findomain/Findomain)
-  - The fastest and cross-platform subdomain enumerator, do not waste your time.
+- [rust_test](https://github.com/sebbbi/rust_test)
+  - Rust & Vulkan test projects
+- [rust-gpu](https://github.com/EmbarkStudios/rust-gpu)
+  - 🐉 Making Rust a first-class language and ecosystem for GPU code 🚧
 - [tikv](https://github.com/tikv/tikv)
   - Distributed transactional key-value database, originally created to complement TiDB
-- [hyperfine](https://github.com/sharkdp/hyperfine)
-  - A command-line benchmarking tool
-- [py-spy](https://github.com/benfred/py-spy)
-  - Sampling profiler for Python programs
-- [talent-plan](https://github.com/pingcap/talent-plan)
-  - open source training courses about distributed database and distributed systemes
-- [firecracker](https://github.com/firecracker-microvm/firecracker)
-  - Secure and fast microVMs for serverless computing.
+- [lighthouse](https://github.com/sigp/lighthouse)
+  - Rust Ethereum 2.0 Client
+- [diesel](https://github.com/diesel-rs/diesel)
+  - A safe, extensible ORM and Query Builder for Rust
 - [pyo3](https://github.com/PyO3/pyo3)
   - Rust bindings for the Python interpreter
-- [cleora](https://github.com/Synerise/cleora)
-  - Cleora AI is a general-purpose model for efficient, scalable learning of stable and inductive entity embeddings for heterogeneous relational data.
-- [exa](https://github.com/ogham/exa)
-  - A modern replacement for ‘ls’.
+- [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
+  - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
+- [tauri](https://github.com/tauri-apps/tauri)
+  - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [solana](https://github.com/solana-labs/solana)
+  - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [stacks-blockchain](https://github.com/blockstack/stacks-blockchain)
   - The Stacks 2.0 blockchain implementation
-- [nushell](https://github.com/nushell/nushell)
-  - A new type of shell
+- [baru](https://github.com/doums/baru)
+  - A system monitor written in Rust and C.
+- [rustlings](https://github.com/rust-lang/rustlings)
+  - 🦀 Small exercises to get you used to reading and writing Rust code!
+- [influxdb_iox](https://github.com/influxdata/influxdb_iox)
+  - Pronounced (influxdb eye-ox), short for iron oxide. This is the new core of InfluxDB written in Rust on top of Apache Arrow.
+- [tokio](https://github.com/tokio-rs/tokio)
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [openethereum](https://github.com/openethereum/openethereum)
+  - The fast, light, and robust client for the Ethereum mainnet.
+- [py-spy](https://github.com/benfred/py-spy)
+  - Sampling profiler for Python programs
+- [libra](https://github.com/libra/libra)
+  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [onefuzz](https://github.com/microsoft/onefuzz)
+  - A self-hosted Fuzzing-As-A-Service platform
+- [Theseus](https://github.com/theseus-os/Theseus)
+  - A modern experimental OS written from scratch in Rust to explore novel OS structure and state management techniques.
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
+- [tower](https://github.com/tower-rs/tower)
+  - async fn(Request) -> Result<Response, Error>
+- [sqlx](https://github.com/launchbadge/sqlx)
+  - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
+- [paru](https://github.com/Morganamilo/paru)
+  - AUR helper based on yay
+- [tide](https://github.com/http-rs/tide)
+  - Fast and friendly HTTP server framework for async Rust

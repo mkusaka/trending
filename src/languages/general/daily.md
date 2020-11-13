@@ -1,50 +1,51 @@
 # general
-- [tye](https://github.com/dotnet/tye) : C#
-  - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
-- [faker.js](https://github.com/Marak/faker.js) : JavaScript
-  - generate massive amounts of realistic fake data in Node.js and the browser
-- [Website](https://github.com/thenewboston-developers/Website) : TypeScript
-  - The website and documentation for thenewboston.
-- [rengine](https://github.com/yogeshojha/rengine) : JavaScript
-  - reNgine is an automated reconnaissance framework meant for information gathering during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
-- [chatwoot](https://github.com/chatwoot/chatwoot) : Ruby
-  - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬
-- [breeze](https://github.com/laravel/breeze) : PHP
-- [julia](https://github.com/JuliaLang/julia) : Julia
-  - The Julia Programming Language
-- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
-  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-- [BiliBiliTool](https://github.com/RayWangQvQ/BiliBiliTool) : C#
-  - .Net Core 编写的跨平台的B站（哔哩哔哩）任务工具，通过GitHub Actions实现每日线上自动运行任务：每日自动登录、观看、分享、投币视频，获取每日任务的满额经验，轻松升级Level 6，实现自动领取大会员权益、月底自动为自己充电等功能。
-- [WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) : JavaScript
-  - Play with fluids in your browser (works even on mobile)
-- [pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning) : Jupyter Notebook
-  - Deep Learning (with PyTorch)
-- [first-contributions](https://github.com/firstcontributions/first-contributions) : 
-  - 🚀✨ Help beginners to contribute to open source projects
-- [awesome-javascript](https://github.com/sorrycc/awesome-javascript) : 
-  - 🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.
-- [hello-algorithm](https://github.com/geekxh/hello-algorithm) : Java
-  - 🌍 东半球最酷的学习项目 | 1、我写的三十万字算法图解 2、千本开源电子书 3、100 张思维导图 4、100 篇大厂面经 5、30 个学习专题 🚀 🚀 🚀 右上角点个 star，加入我们万人学习群！English Supported！
-- [manim](https://github.com/3b1b/manim) : Python
-  - Animation engine for explanatory math videos
-- [Tasmota](https://github.com/arendst/Tasmota) : C
-  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
-- [airflow](https://github.com/apache/airflow) : Python
-  - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [open-project-1](https://github.com/UnityTechnologies/open-project-1) : C#
-  - Unity Open Project #1: Action-adventure
+- [CobaltStrike](https://github.com/Freakboy/CobaltStrike) : Java
+  - CobaltStrike's source code
+- [22120](https://github.com/c9fe/22120) : JavaScript
+  - 🏛️ 22120 - Self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.
+- [gibMacOS](https://github.com/corpnewt/gibMacOS) : Python
+  - Py2/py3 script that can download macOS components direct from Apple
+- [bird-bot](https://github.com/natewong1313/bird-bot) : Python
+  - A Nintendo Switch checkout bot. Currently supports Walmart and Best buy
+- [notion-clone](https://github.com/konstantinmuenster/notion-clone) : JavaScript
+  - Edit Notes like in Notion.so. Full-Stack App using React/Express.
+- [doesitarm](https://github.com/ThatGuySam/doesitarm) : Vue
+  - A list of reported app support for Apple Silicon
 - [AmongLock](https://github.com/Litteeen/AmongLock) : Objective-C
   - You were not the owner of this device
-- [rich](https://github.com/willmcgugan/rich) : Python
-  - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [snyk](https://github.com/snyk/snyk) : TypeScript
-  - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
-- [eladmin](https://github.com/elunez/eladmin) : Java
-  - 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
-- [micro](https://github.com/micro/micro) : Go
-  - Micro is a platform for cloud native application development
-- [oauth2](https://github.com/golang/oauth2) : Go
-  - Go OAuth2
-- [flutter](https://github.com/flutter/flutter) : Dart
-  - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+- [rust-blog](https://github.com/pretzelhammer/rust-blog) : Rust
+  - Educational blog posts for Rust beginners
+- [PathPlanning](https://github.com/zhm-real/PathPlanning) : Python
+  - Common used path planning algorithms with animations.
+- [macadmin-scripts](https://github.com/munki/macadmin-scripts) : Python
+  - Scripts of possible interest to macOS admins
+- [element-plus](https://github.com/element-plus/element-plus) : Vue
+  - 🎉 A Vue.js 3.0 UI Library
+- [kphp](https://github.com/VKCOM/kphp) : C++
+  - KPHP — a PHP compiler
+- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) : Python
+  - 30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.
+- [Objectron](https://github.com/google-research-datasets/Objectron) : Jupyter Notebook
+  - Objectron is a dataset of short, object-centric video clips. In addition, the videos also contain AR session metadata including camera poses, sparse point-clouds and planes. In each video, the camera moves around and above the object and captures it from different views. Each object is annotated with a 3D bounding box. The 3D bounding box descri…
+- [big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher) : Shell
+  - A primitive USB patcher for installing macOS Big Sur on unsupported Macs
+- [redisson](https://github.com/redisson/redisson) : Java
+  - Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, local cache ...
+- [BiliBiliTool](https://github.com/RayWangQvQ/BiliBiliTool) : C#
+  - .Net Core 编写的跨平台的B站（哔哩哔哩）任务工具，通过GitHub Actions实现每日线上自动运行任务：每日自动登录、观看、分享、投币视频，获取每日任务的满额经验，轻松升级Level 6，实现自动领取大会员权益、月底自动为自己充电等功能。
+- [openedr](https://github.com/ComodoSecurity/openedr) : C++
+  - Open EDR public repository
+- [abp](https://github.com/abpframework/abp) : C#
+  - Open Source Web Application Framework for ASP.NET Core
+- [puppeteer](https://github.com/puppeteer/puppeteer) : TypeScript
+  - Headless Chrome Node.js API
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) : 
+  - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+- [interactive](https://github.com/dotnet/interactive) : C#
+  - .NET Interactive takes the power of .NET and embeds it into your interactive experiences. Share code, explore data, write, and learn across your apps in ways you couldn't before.
+- [angular](https://github.com/angular/angular) : TypeScript
+  - One framework. Mobile & desktop.
+- [n8n](https://github.com/n8n-io/n8n) : TypeScript
+  - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+- [public-apis](https://github.com/public-apis/public-apis) : Python
+  - A collective list of free APIs for use in software and web development.
