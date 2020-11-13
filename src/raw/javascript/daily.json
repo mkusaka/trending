@@ -1,23 +1,43 @@
 [
   {
-    "author": "Marak",
-    "name": "faker.js",
-    "href": "https://github.com/Marak/faker.js",
-    "description": "generate massive amounts of realistic fake data in Node.js and the browser",
+    "author": "c9fe",
+    "name": "22120",
+    "href": "https://github.com/c9fe/22120",
+    "description": "🏛️ 22120 - Self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.",
     "language": "JavaScript",
-    "stars": 26970,
-    "forks": 2303,
-    "starsInPeriod": 399
+    "stars": 1870,
+    "forks": 65,
+    "starsInPeriod": 243
   },
   {
-    "author": "yogeshojha",
-    "name": "rengine",
-    "href": "https://github.com/yogeshojha/rengine",
-    "description": "reNgine is an automated reconnaissance framework meant for information gathering during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.",
+    "author": "konstantinmuenster",
+    "name": "notion-clone",
+    "href": "https://github.com/konstantinmuenster/notion-clone",
+    "description": "Edit Notes like in Notion.so. Full-Stack App using React/Express.",
     "language": "JavaScript",
-    "stars": 1922,
-    "forks": 289,
-    "starsInPeriod": 112
+    "stars": 672,
+    "forks": 33,
+    "starsInPeriod": 264
+  },
+  {
+    "author": "mzeryck",
+    "name": "Weather-Cal",
+    "href": "https://github.com/mzeryck/Weather-Cal",
+    "description": "This is a Scriptable widget that lets you display, position, and format multiple elements, including dates and events, weather information, battery level, and more. You can even create your own elements.",
+    "language": "JavaScript",
+    "stars": 274,
+    "forks": 212,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "awesome-selfhosted",
+    "name": "awesome-selfhosted",
+    "href": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "description": "A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers",
+    "language": "JavaScript",
+    "stars": 50012,
+    "forks": 3978,
+    "starsInPeriod": 39
   },
   {
     "author": "PavelDoGreat",
@@ -25,79 +45,29 @@
     "href": "https://github.com/PavelDoGreat/WebGL-Fluid-Simulation",
     "description": "Play with fluids in your browser (works even on mobile)",
     "language": "JavaScript",
-    "stars": 9872,
-    "forks": 918,
-    "starsInPeriod": 171
+    "stars": 10001,
+    "forks": 923,
+    "starsInPeriod": 136
   },
   {
-    "author": "mui-org",
-    "name": "material-ui",
-    "href": "https://github.com/mui-org/material-ui",
-    "description": "React components for faster and easier web development. Build your own design system, or start with Material Design.",
+    "author": "yogeshojha",
+    "name": "rengine",
+    "href": "https://github.com/yogeshojha/rengine",
+    "description": "reNgine is an automated reconnaissance framework meant for information gathering during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.",
     "language": "JavaScript",
-    "stars": 62362,
-    "forks": 18997,
-    "starsInPeriod": 22
+    "stars": 2011,
+    "forks": 292,
+    "starsInPeriod": 116
   },
   {
-    "author": "invertase",
-    "name": "react-native-firebase",
-    "href": "https://github.com/invertase/react-native-firebase",
-    "description": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.",
+    "author": "mrdoob",
+    "name": "three.js",
+    "href": "https://github.com/mrdoob/three.js",
+    "description": "JavaScript 3D library.",
     "language": "JavaScript",
-    "stars": 8480,
-    "forks": 1616,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "airbnb",
-    "name": "javascript",
-    "href": "https://github.com/airbnb/javascript",
-    "description": "JavaScript Style Guide",
-    "language": "JavaScript",
-    "stars": 101350,
-    "forks": 19740,
-    "starsInPeriod": 38
-  },
-  {
-    "author": "zonetti",
-    "name": "zonote",
-    "href": "https://github.com/zonetti/zonote",
-    "description": "Cross-platform desktop note-taking app. Sticky notes with Markdown and Tabs. All in one .txt file.",
-    "language": "JavaScript",
-    "stars": 195,
-    "forks": 5,
-    "starsInPeriod": 23
-  },
-  {
-    "author": "wekan",
-    "name": "wekan",
-    "href": "https://github.com/wekan/wekan",
-    "description": "The open-source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.",
-    "language": "JavaScript",
-    "stars": 16791,
-    "forks": 2493,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "benmosher",
-    "name": "eslint-plugin-import",
-    "href": "https://github.com/benmosher/eslint-plugin-import",
-    "description": "ESLint plugin with rules that help validate proper imports.",
-    "language": "JavaScript",
-    "stars": 2866,
-    "forks": 947,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "ZHDeveloper",
-    "name": "JD_Sign_Action",
-    "href": "https://github.com/ZHDeveloper/JD_Sign_Action",
-    "description": "基于github actions的京东签到、领京豆",
-    "language": "JavaScript",
-    "stars": 272,
-    "forks": 739,
-    "starsInPeriod": 7
+    "stars": 64773,
+    "forks": 25567,
+    "starsInPeriod": 32
   },
   {
     "author": "odensc",
@@ -105,49 +75,29 @@
     "href": "https://github.com/odensc/ttv-ublock",
     "description": "Blocking ads on that certain streaming website",
     "language": "JavaScript",
-    "stars": 284,
-    "forks": 38,
-    "starsInPeriod": 29
+    "stars": 311,
+    "forks": 40,
+    "starsInPeriod": 26
   },
   {
-    "author": "cypress-io",
-    "name": "cypress",
-    "href": "https://github.com/cypress-io/cypress",
-    "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "author": "mui-org",
+    "name": "material-ui",
+    "href": "https://github.com/mui-org/material-ui",
+    "description": "React components for faster and easier web development. Build your own design system, or start with Material Design.",
     "language": "JavaScript",
-    "stars": 24428,
-    "forks": 1462,
-    "starsInPeriod": 19
+    "stars": 62401,
+    "forks": 19013,
+    "starsInPeriod": 46
   },
   {
-    "author": "atom",
-    "name": "atom",
-    "href": "https://github.com/atom/atom",
-    "description": "The hackable text editor",
+    "author": "gatsbyjs",
+    "name": "gatsby",
+    "href": "https://github.com/gatsbyjs/gatsby",
+    "description": "Build blazing fast, modern apps and websites with React",
     "language": "JavaScript",
-    "stars": 53550,
-    "forks": 15352,
-    "starsInPeriod": 31
-  },
-  {
-    "author": "vinissimus",
-    "name": "next-translate",
-    "href": "https://github.com/vinissimus/next-translate",
-    "description": "i18n tool for Next.js 10 🌍 - Load page translations and use them in an easy way!",
-    "language": "JavaScript",
-    "stars": 486,
-    "forks": 61,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "taniarascia",
-    "name": "webpack-boilerplate",
-    "href": "https://github.com/taniarascia/webpack-boilerplate",
-    "description": "📦 ‎ A sensible webpack 5 boilerplate.",
-    "language": "JavaScript",
-    "stars": 1028,
-    "forks": 201,
-    "starsInPeriod": 18
+    "stars": 47787,
+    "forks": 9041,
+    "starsInPeriod": 15
   },
   {
     "author": "mermaid-js",
@@ -155,89 +105,9 @@
     "href": "https://github.com/mermaid-js/mermaid",
     "description": "Generation of diagram and flowchart from text in a similar manner as markdown",
     "language": "JavaScript",
-    "stars": 32704,
-    "forks": 2213,
-    "starsInPeriod": 29
-  },
-  {
-    "author": "SortableJS",
-    "name": "sortablejs",
-    "href": "https://github.com/SortableJS/sortablejs",
-    "description": "Create and reorder lists with drag-and-drop. For use with modern browsers and touch devices",
-    "language": "JavaScript",
-    "stars": 21288,
-    "forks": 3129,
-    "starsInPeriod": 14
-  },
-  {
-    "author": "mozilla",
-    "name": "hubs",
-    "href": "https://github.com/mozilla/hubs",
-    "description": "Duck-themed multi-user virtual spaces in WebVR. Built with A-Frame.",
-    "language": "JavaScript",
-    "stars": 896,
-    "forks": 280,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "rjsf-team",
-    "name": "react-jsonschema-form",
-    "href": "https://github.com/rjsf-team/react-jsonschema-form",
-    "description": "A React component for building Web forms from JSON Schema.",
-    "language": "JavaScript",
-    "stars": 9199,
-    "forks": 1500,
-    "starsInPeriod": 24
-  },
-  {
-    "author": "atlassian",
-    "name": "react-beautiful-dnd",
-    "href": "https://github.com/atlassian/react-beautiful-dnd",
-    "description": "Beautiful and accessible drag and drop for lists with React",
-    "language": "JavaScript",
-    "stars": 21338,
-    "forks": 1480,
-    "starsInPeriod": 17
-  },
-  {
-    "author": "rollup",
-    "name": "plugins",
-    "href": "https://github.com/rollup/plugins",
-    "description": "🍣 The one-stop shop for official Rollup plugins",
-    "language": "JavaScript",
-    "stars": 1264,
-    "forks": 221,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "adam-p",
-    "name": "markdown-here",
-    "href": "https://github.com/adam-p/markdown-here",
-    "description": "Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.",
-    "language": "JavaScript",
-    "stars": 48929,
-    "forks": 9113,
-    "starsInPeriod": 21
-  },
-  {
-    "author": "carbon-design-system",
-    "name": "carbon",
-    "href": "https://github.com/carbon-design-system/carbon",
-    "description": "A design system built by IBM",
-    "language": "JavaScript",
-    "stars": 3640,
-    "forks": 832,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "fengyuanchen",
-    "name": "cropperjs",
-    "href": "https://github.com/fengyuanchen/cropperjs",
-    "description": "JavaScript image cropper.",
-    "language": "JavaScript",
-    "stars": 8444,
-    "forks": 1696,
-    "starsInPeriod": 10
+    "stars": 32731,
+    "forks": 2218,
+    "starsInPeriod": 32
   },
   {
     "author": "w37fhy",
@@ -245,8 +115,138 @@
     "href": "https://github.com/w37fhy/QuantumultX",
     "description": "同步和更新大佬脚本库，更新懒人配置",
     "language": "JavaScript",
-    "stars": 303,
-    "forks": 69,
-    "starsInPeriod": 19
+    "stars": 324,
+    "forks": 77,
+    "starsInPeriod": 21
+  },
+  {
+    "author": "microsoft",
+    "name": "monaco-editor",
+    "href": "https://github.com/microsoft/monaco-editor",
+    "description": "A browser based code editor",
+    "language": "JavaScript",
+    "stars": 22228,
+    "forks": 2005,
+    "starsInPeriod": 23
+  },
+  {
+    "author": "archriss",
+    "name": "react-native-snap-carousel",
+    "href": "https://github.com/archriss/react-native-snap-carousel",
+    "description": "Swiper/carousel component for React Native featuring previews, multiple layouts, parallax images, performant handling of huge numbers of items, and more. Compatible with Android & iOS.",
+    "language": "JavaScript",
+    "stars": 7909,
+    "forks": 1515,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "sazs34",
+    "name": "MyActions",
+    "href": "https://github.com/sazs34/MyActions",
+    "description": "基于Github-Action实现的京东签到,已集合NobyDa和lxk0301的签到内容,只需配置一条secret即可签到",
+    "language": "JavaScript",
+    "stars": 291,
+    "forks": 400,
+    "starsInPeriod": 17
+  },
+  {
+    "author": "appium",
+    "name": "appium",
+    "href": "https://github.com/appium/appium",
+    "description": "📱 Automation for iOS, Android, and Windows Apps.",
+    "language": "JavaScript",
+    "stars": 12224,
+    "forks": 4859,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "chartjs",
+    "name": "Chart.js",
+    "href": "https://github.com/chartjs/Chart.js",
+    "description": "Simple HTML5 Charts using the <canvas> tag",
+    "language": "JavaScript",
+    "stars": 50972,
+    "forks": 10695,
+    "starsInPeriod": 22
+  },
+  {
+    "author": "kenwheeler",
+    "name": "slick",
+    "href": "https://github.com/kenwheeler/slick",
+    "description": "the last carousel you'll ever need",
+    "language": "JavaScript",
+    "stars": 26233,
+    "forks": 5451,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "nolimits4web",
+    "name": "swiper",
+    "href": "https://github.com/nolimits4web/swiper",
+    "description": "Most modern mobile touch slider with hardware accelerated transitions",
+    "language": "JavaScript",
+    "stars": 25312,
+    "forks": 9223,
+    "starsInPeriod": 20
+  },
+  {
+    "author": "airbnb",
+    "name": "javascript",
+    "href": "https://github.com/airbnb/javascript",
+    "description": "JavaScript Style Guide",
+    "language": "JavaScript",
+    "stars": 101409,
+    "forks": 19751,
+    "starsInPeriod": 52
+  },
+  {
+    "author": "cypress-io",
+    "name": "cypress",
+    "href": "https://github.com/cypress-io/cypress",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "language": "JavaScript",
+    "stars": 24446,
+    "forks": 1462,
+    "starsInPeriod": 29
+  },
+  {
+    "author": "STRML",
+    "name": "react-grid-layout",
+    "href": "https://github.com/STRML/react-grid-layout",
+    "description": "A draggable and resizable grid layout with responsive breakpoints, for React.",
+    "language": "JavaScript",
+    "stars": 12280,
+    "forks": 1674,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "bkimminich",
+    "name": "juice-shop",
+    "href": "https://github.com/bkimminich/juice-shop",
+    "description": "OWASP Juice Shop: Probably the most modern and sophisticated insecure web application",
+    "language": "JavaScript",
+    "stars": 3957,
+    "forks": 2653,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "goabstract",
+    "name": "Awesome-Design-Tools",
+    "href": "https://github.com/goabstract/Awesome-Design-Tools",
+    "description": "The best design tools and plugins for everything 👉",
+    "language": "JavaScript",
+    "stars": 20670,
+    "forks": 1547,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "LeCoupa",
+    "name": "awesome-cheatsheets",
+    "href": "https://github.com/LeCoupa/awesome-cheatsheets",
+    "description": "👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.",
+    "language": "JavaScript",
+    "stars": 13871,
+    "forks": 2406,
+    "starsInPeriod": 12
   }
 ]

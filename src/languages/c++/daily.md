@@ -1,51 +1,51 @@
 # c++
-- [kys-cpp](https://github.com/scarsty/kys-cpp)
-  - 《金庸群侠传》c++复刻版，已完工
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [vosk-api](https://github.com/alphacep/vosk-api)
-  - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
+- [kphp](https://github.com/VKCOM/kphp)
+  - KPHP — a PHP compiler
+- [openedr](https://github.com/ComodoSecurity/openedr)
+  - Open EDR public repository
+- [connectedhomeip](https://github.com/project-chip/connectedhomeip)
+  - Project Connected Home over IP is a new Working Group within the Zigbee Alliance. This Working Group plans to develop and promote the adoption of a new connectivity standard to increase compatibility among smart home products, with security as a fundamental design tenet.
+- [terminal](https://github.com/microsoft/terminal)
+  - The new Windows Terminal and the original Windows console host, all in the same place!
+- [or-tools](https://github.com/google/or-tools)
+  - Google's Operations Research tools:
+- [rehex](https://github.com/solemnwarning/rehex)
+  - Reverse Engineers' Hex Editor
+- [bullet3](https://github.com/bulletphysics/bullet3)
+  - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
+- [Arduino-IRremote](https://github.com/z3t0/Arduino-IRremote)
+  - Infrared remote library for Arduino: send and receive infrared signals with multiple protocols
+- [MegEngine](https://github.com/MegEngine/MegEngine)
+  - MegEngine 是一个快速、可拓展、易于使用且支持自动求导的深度学习框架
+- [arrow](https://github.com/apache/arrow)
+  - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…
+- [cpprestsdk](https://github.com/microsoft/cpprestsdk)
+  - The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
+- [GEOSX](https://github.com/GEOSX/GEOSX)
+  - GEOSX Simulation Framework
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech)
   - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
-- [bpftrace](https://github.com/iovisor/bpftrace)
-  - High-level tracing language for Linux eBPF
-- [swift](https://github.com/apple/swift)
-  - The Swift Programming Language
-- [tdesktop](https://github.com/telegramdesktop/tdesktop)
-  - Telegram Desktop messaging app
 - [Catch2](https://github.com/catchorg/Catch2)
   - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [Magisk](https://github.com/topjohnwu/Magisk)
+  - The Magic Mask for Android
 - [ProjectReunion](https://github.com/microsoft/ProjectReunion)
   - Project Reunion is an evolution of the Windows developer platform that will make it more compatible, agile, modern and open.
-- [envoy](https://github.com/envoyproxy/envoy)
-  - Cloud-native high-performance edge/middle/service proxy
-- [MMKV](https://github.com/Tencent/MMKV)
-  - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
-- [arangodb](https://github.com/arangodb/arangodb)
-  - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
-- [re2](https://github.com/google/re2)
-  - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
-- [benchmark](https://github.com/google/benchmark)
-  - A microbenchmark support library
-- [pytorch](https://github.com/pytorch/pytorch)
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [serenity](https://github.com/SerenityOS/serenity)
-  - The Serenity Operating System 🐞
-- [PowerToys](https://github.com/microsoft/PowerToys)
-  - Windows system utilities to maximize productivity
-- [pubsubclient](https://github.com/knolleary/pubsubclient)
-  - A client library for the Arduino Ethernet Shield that provides support for MQTT.
-- [libzmq](https://github.com/zeromq/libzmq)
-  - ZeroMQ core engine in C++, implements ZMTP/3.1
-- [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe)
-  - waifu2xのCaffe版
-- [opencv](https://github.com/opencv/opencv)
-  - Open Source Computer Vision Library
-- [swoole-src](https://github.com/swoole/swoole-src)
-  - 🚀 Coroutine-based concurrency library for PHP
-- [uWebSockets.js](https://github.com/uNetworking/uWebSockets.js)
-  - μWebSockets for Node.js back-ends 🤘
-- [openpilot](https://github.com/commaai/openpilot)
-  - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
+- [ClickHouse](https://github.com/ClickHouse/ClickHouse)
+  - ClickHouse is a free analytics DBMS for big data
+- [rathena](https://github.com/rathena/rathena)
+  - rAthena is an open-source cross-platform MMORPG server.
+- [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite)
+  - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
+- [nnfusion](https://github.com/microsoft/nnfusion)
+  - A flexible and efficient deep neural network (DNN) compiler that generates high-performance executable from a DNN model description.
+- [tensorflow](https://github.com/tensorflow/tensorflow)
+  - An Open Source Machine Learning Framework for Everyone
+- [vowpal_wabbit](https://github.com/VowpalWabbit/vowpal_wabbit)
+  - Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
+- [thrift](https://github.com/apache/thrift)
+  - Apache Thrift
+- [flatbuffers](https://github.com/google/flatbuffers)
+  - FlatBuffers: Memory Efficient Serialization Library
+- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+  - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation

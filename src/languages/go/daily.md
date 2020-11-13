@@ -1,51 +1,51 @@
 # go
-- [micro](https://github.com/micro/micro)
-  - Micro is a platform for cloud native application development
-- [oauth2](https://github.com/golang/oauth2)
-  - Go OAuth2
-- [magma](https://github.com/magma/magma)
-  - Platform for building access networks and modular network services
+- [photoprism](https://github.com/photoprism/photoprism)
+  - Personal Photo Management powered by Go and Google TensorFlow
+- [terraform](https://github.com/hashicorp/terraform)
+  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [teler](https://github.com/kitabisa/teler)
+  - Real-time HTTP Intrusion Detection
+- [Modlishka](https://github.com/drk1wi/Modlishka)
+  - Modlishka. Reverse Proxy.
 - [fiber](https://github.com/gofiber/fiber)
   - ⚡️ Express inspired web framework written in Go
-- [scorecard](https://github.com/ossf/scorecard)
-  - OSS Security Scorecards
-- [Coldfire](https://github.com/redcode-labs/Coldfire)
-  - Golang malware development library
+- [CBL-Mariner](https://github.com/microsoft/CBL-Mariner)
+  - Linux OS for Azure 1P services and edge appliances
+- [magma](https://github.com/magma/magma)
+  - Platform for building access networks and modular network services
+- [elastic](https://github.com/olivere/elastic)
+  - Elasticsearch client for Go.
 - [go](https://github.com/golang/go)
   - The Go programming language
-- [helm](https://github.com/helm/helm)
-  - The Kubernetes Package Manager
-- [ASCII-render](https://github.com/Vlad-Shevliakov/ASCII-render)
-  - Spinning Donut 🍩
+- [scorecard](https://github.com/ossf/scorecard)
+  - OSS Security Scorecards
+- [kubernetes](https://github.com/kubernetes/kubernetes)
+  - Production-Grade Container Scheduling and Management
+- [micro](https://github.com/micro/micro)
+  - Micro is a platform for cloud native application development
+- [moby](https://github.com/moby/moby)
+  - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [node_exporter](https://github.com/prometheus/node_exporter)
+  - Exporter for machine metrics
+- [kustomize](https://github.com/kubernetes-sigs/kustomize)
+  - Customization of kubernetes YAML configurations
+- [sourcegraph](https://github.com/sourcegraph/sourcegraph)
+  - Universal code search (self-hosted)
+- [excelize](https://github.com/360EntSecGroup-Skylar/excelize)
+  - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
+- [tidb](https://github.com/pingcap/tidb)
+  - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+- [chi](https://github.com/go-chi/chi)
+  - lightweight, idiomatic and composable router for building Go HTTP services
+- [btcd](https://github.com/btcsuite/btcd)
+  - An alternative full node bitcoin implementation written in Go (golang)
+- [vitess](https://github.com/vitessio/vitess)
+  - Vitess is a database clustering system for horizontal scaling of MySQL.
+- [evilginx2](https://github.com/kgretzky/evilginx2)
+  - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
+- [redis](https://github.com/go-redis/redis)
+  - Type-safe Redis client for Golang
+- [lotus](https://github.com/filecoin-project/lotus)
+  - Implementation of the Filecoin protocol, written in Go
 - [go-ethereum](https://github.com/ethereum/go-ethereum)
   - Official Go implementation of the Ethereum protocol
-- [autoscaler](https://github.com/kubernetes/autoscaler)
-  - Autoscaling components for Kubernetes
-- [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm)
-  - Terraform provider for Azure Resource Manager
-- [argo-cd](https://github.com/argoproj/argo-cd)
-  - Declarative continuous deployment for Kubernetes.
-- [velero](https://github.com/vmware-tanzu/velero)
-  - Backup and migrate Kubernetes applications and their persistent volumes
-- [gin](https://github.com/gin-gonic/gin)
-  - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [runc](https://github.com/opencontainers/runc)
-  - CLI tool for spawning and running containers according to the OCI specification
-- [gopsutil](https://github.com/shirou/gopsutil)
-  - psutil for golang
-- [amazon-ecr-credential-helper](https://github.com/awslabs/amazon-ecr-credential-helper)
-  - Automatically gets credentials for Amazon ECR on docker push/docker pull
-- [grpcurl](https://github.com/fullstorydev/grpcurl)
-  - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
-- [grpc-go](https://github.com/grpc/grpc-go)
-  - The Go language implementation of gRPC. HTTP/2 based RPC
-- [groupcache](https://github.com/golang/groupcache)
-  - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
-- [bk-cmdb](https://github.com/Tencent/bk-cmdb)
-  - 蓝鲸智云配置平台(BlueKing CMDB)
-- [go-tools](https://github.com/dominikh/go-tools)
-  - Staticcheck - The advanced Go linter
-- [cilium](https://github.com/cilium/cilium)
-  - eBPF-based Networking, Security, and Observability
-- [syzkaller](https://github.com/google/syzkaller)
-  - syzkaller is an unsupervised coverage-guided kernel fuzzer
