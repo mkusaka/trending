@@ -1,103 +1,43 @@
 [
   {
-    "author": "c9fe",
-    "name": "22120",
-    "href": "https://github.com/c9fe/22120",
-    "description": "🏛️ 22120 - Self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.",
+    "author": "ryanmcdermott",
+    "name": "clean-code-javascript",
+    "href": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "description": "🛁 Clean Code concepts adapted for JavaScript",
     "language": "JavaScript",
-    "stars": 1870,
-    "forks": 65,
-    "starsInPeriod": 243
+    "stars": 40257,
+    "forks": 4902,
+    "starsInPeriod": 108
   },
   {
-    "author": "konstantinmuenster",
-    "name": "notion-clone",
-    "href": "https://github.com/konstantinmuenster/notion-clone",
-    "description": "Edit Notes like in Notion.so. Full-Stack App using React/Express.",
+    "author": "microsoft",
+    "name": "Web-Dev-For-Beginners",
+    "href": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "stars": 672,
-    "forks": 33,
-    "starsInPeriod": 264
+    "stars": 334,
+    "forks": 31,
+    "starsInPeriod": 111
   },
   {
-    "author": "mzeryck",
-    "name": "Weather-Cal",
-    "href": "https://github.com/mzeryck/Weather-Cal",
-    "description": "This is a Scriptable widget that lets you display, position, and format multiple elements, including dates and events, weather information, battery level, and more. You can even create your own elements.",
+    "author": "Marak",
+    "name": "faker.js",
+    "href": "https://github.com/Marak/faker.js",
+    "description": "generate massive amounts of realistic fake data in Node.js and the browser",
     "language": "JavaScript",
-    "stars": 274,
-    "forks": 212,
-    "starsInPeriod": 9
+    "stars": 27482,
+    "forks": 2364,
+    "starsInPeriod": 384
   },
   {
-    "author": "awesome-selfhosted",
-    "name": "awesome-selfhosted",
-    "href": "https://github.com/awesome-selfhosted/awesome-selfhosted",
-    "description": "A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers",
+    "author": "geongeorge",
+    "name": "Git-User-Switch",
+    "href": "https://github.com/geongeorge/Git-User-Switch",
+    "description": "Switch git user and email at ease",
     "language": "JavaScript",
-    "stars": 50012,
-    "forks": 3978,
-    "starsInPeriod": 39
-  },
-  {
-    "author": "PavelDoGreat",
-    "name": "WebGL-Fluid-Simulation",
-    "href": "https://github.com/PavelDoGreat/WebGL-Fluid-Simulation",
-    "description": "Play with fluids in your browser (works even on mobile)",
-    "language": "JavaScript",
-    "stars": 10001,
-    "forks": 923,
-    "starsInPeriod": 136
-  },
-  {
-    "author": "yogeshojha",
-    "name": "rengine",
-    "href": "https://github.com/yogeshojha/rengine",
-    "description": "reNgine is an automated reconnaissance framework meant for information gathering during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.",
-    "language": "JavaScript",
-    "stars": 2011,
-    "forks": 292,
-    "starsInPeriod": 116
-  },
-  {
-    "author": "mrdoob",
-    "name": "three.js",
-    "href": "https://github.com/mrdoob/three.js",
-    "description": "JavaScript 3D library.",
-    "language": "JavaScript",
-    "stars": 64773,
-    "forks": 25567,
-    "starsInPeriod": 32
-  },
-  {
-    "author": "odensc",
-    "name": "ttv-ublock",
-    "href": "https://github.com/odensc/ttv-ublock",
-    "description": "Blocking ads on that certain streaming website",
-    "language": "JavaScript",
-    "stars": 311,
-    "forks": 40,
-    "starsInPeriod": 26
-  },
-  {
-    "author": "mui-org",
-    "name": "material-ui",
-    "href": "https://github.com/mui-org/material-ui",
-    "description": "React components for faster and easier web development. Build your own design system, or start with Material Design.",
-    "language": "JavaScript",
-    "stars": 62401,
-    "forks": 19013,
-    "starsInPeriod": 46
-  },
-  {
-    "author": "gatsbyjs",
-    "name": "gatsby",
-    "href": "https://github.com/gatsbyjs/gatsby",
-    "description": "Build blazing fast, modern apps and websites with React",
-    "language": "JavaScript",
-    "stars": 47787,
-    "forks": 9041,
-    "starsInPeriod": 15
+    "stars": 322,
+    "forks": 9,
+    "starsInPeriod": 101
   },
   {
     "author": "mermaid-js",
@@ -105,19 +45,9 @@
     "href": "https://github.com/mermaid-js/mermaid",
     "description": "Generation of diagram and flowchart from text in a similar manner as markdown",
     "language": "JavaScript",
-    "stars": 32731,
-    "forks": 2218,
-    "starsInPeriod": 32
-  },
-  {
-    "author": "w37fhy",
-    "name": "QuantumultX",
-    "href": "https://github.com/w37fhy/QuantumultX",
-    "description": "同步和更新大佬脚本库，更新懒人配置",
-    "language": "JavaScript",
-    "stars": 324,
-    "forks": 77,
-    "starsInPeriod": 21
+    "stars": 32769,
+    "forks": 2222,
+    "starsInPeriod": 35
   },
   {
     "author": "microsoft",
@@ -125,109 +55,179 @@
     "href": "https://github.com/microsoft/monaco-editor",
     "description": "A browser based code editor",
     "language": "JavaScript",
-    "stars": 22228,
-    "forks": 2005,
-    "starsInPeriod": 23
+    "stars": 22242,
+    "forks": 2006,
+    "starsInPeriod": 15
   },
   {
-    "author": "archriss",
-    "name": "react-native-snap-carousel",
-    "href": "https://github.com/archriss/react-native-snap-carousel",
-    "description": "Swiper/carousel component for React Native featuring previews, multiple layouts, parallax images, performant handling of huge numbers of items, and more. Compatible with Android & iOS.",
+    "author": "konstantinmuenster",
+    "name": "notion-clone",
+    "href": "https://github.com/konstantinmuenster/notion-clone",
+    "description": "Edit Notes like in Notion.so. Full-Stack App using React/Express.",
     "language": "JavaScript",
-    "stars": 7909,
-    "forks": 1515,
-    "starsInPeriod": 9
+    "stars": 849,
+    "forks": 45,
+    "starsInPeriod": 262
   },
   {
-    "author": "sazs34",
-    "name": "MyActions",
-    "href": "https://github.com/sazs34/MyActions",
-    "description": "基于Github-Action实现的京东签到,已集合NobyDa和lxk0301的签到内容,只需配置一条secret即可签到",
+    "author": "mifi",
+    "name": "editly",
+    "href": "https://github.com/mifi/editly",
+    "description": "Slick, declarative command line video editing & API",
     "language": "JavaScript",
-    "stars": 291,
-    "forks": 400,
-    "starsInPeriod": 17
+    "stars": 2388,
+    "forks": 83,
+    "starsInPeriod": 58
   },
   {
-    "author": "appium",
-    "name": "appium",
-    "href": "https://github.com/appium/appium",
-    "description": "📱 Automation for iOS, Android, and Windows Apps.",
+    "author": "trekhleb",
+    "name": "javascript-algorithms",
+    "href": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "stars": 12224,
-    "forks": 4859,
-    "starsInPeriod": 14
+    "stars": 84435,
+    "forks": 14253,
+    "starsInPeriod": 109
   },
   {
-    "author": "chartjs",
-    "name": "Chart.js",
-    "href": "https://github.com/chartjs/Chart.js",
-    "description": "Simple HTML5 Charts using the <canvas> tag",
+    "author": "koajs",
+    "name": "koa",
+    "href": "https://github.com/koajs/koa",
+    "description": "Expressive middleware for node.js using ES2017 async functions",
     "language": "JavaScript",
-    "stars": 50972,
-    "forks": 10695,
+    "stars": 30232,
+    "forks": 2891,
+    "starsInPeriod": 13
+  },
+  {
+    "author": "c9fe",
+    "name": "22120",
+    "href": "https://github.com/c9fe/22120",
+    "description": "🏛️ 22120 - Self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.",
+    "language": "JavaScript",
+    "stars": 2064,
+    "forks": 72,
+    "starsInPeriod": 266
+  },
+  {
+    "author": "quasarframework",
+    "name": "quasar",
+    "href": "https://github.com/quasarframework/quasar",
+    "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time",
+    "language": "JavaScript",
+    "stars": 16772,
+    "forks": 1966,
     "starsInPeriod": 22
   },
   {
-    "author": "kenwheeler",
-    "name": "slick",
-    "href": "https://github.com/kenwheeler/slick",
-    "description": "the last carousel you'll ever need",
+    "author": "mrdoob",
+    "name": "three.js",
+    "href": "https://github.com/mrdoob/three.js",
+    "description": "JavaScript 3D library.",
     "language": "JavaScript",
-    "stars": 26233,
-    "forks": 5451,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "nolimits4web",
-    "name": "swiper",
-    "href": "https://github.com/nolimits4web/swiper",
-    "description": "Most modern mobile touch slider with hardware accelerated transitions",
-    "language": "JavaScript",
-    "stars": 25312,
-    "forks": 9223,
-    "starsInPeriod": 20
-  },
-  {
-    "author": "airbnb",
-    "name": "javascript",
-    "href": "https://github.com/airbnb/javascript",
-    "description": "JavaScript Style Guide",
-    "language": "JavaScript",
-    "stars": 101409,
-    "forks": 19751,
-    "starsInPeriod": 52
-  },
-  {
-    "author": "cypress-io",
-    "name": "cypress",
-    "href": "https://github.com/cypress-io/cypress",
-    "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-    "language": "JavaScript",
-    "stars": 24446,
-    "forks": 1462,
+    "stars": 64793,
+    "forks": 25580,
     "starsInPeriod": 29
   },
   {
-    "author": "STRML",
-    "name": "react-grid-layout",
-    "href": "https://github.com/STRML/react-grid-layout",
-    "description": "A draggable and resizable grid layout with responsive breakpoints, for React.",
+    "author": "mui-org",
+    "name": "material-ui",
+    "href": "https://github.com/mui-org/material-ui",
+    "description": "React components for faster and easier web development. Build your own design system, or start with Material Design.",
     "language": "JavaScript",
-    "stars": 12280,
-    "forks": 1674,
-    "starsInPeriod": 9
+    "stars": 62429,
+    "forks": 19023,
+    "starsInPeriod": 37
   },
   {
-    "author": "bkimminich",
-    "name": "juice-shop",
-    "href": "https://github.com/bkimminich/juice-shop",
-    "description": "OWASP Juice Shop: Probably the most modern and sophisticated insecure web application",
+    "author": "ansible",
+    "name": "awx",
+    "href": "https://github.com/ansible/awx",
+    "description": "AWX Project",
     "language": "JavaScript",
-    "stars": 3957,
-    "forks": 2653,
-    "starsInPeriod": 3
+    "stars": 8628,
+    "forks": 2201,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "ramda",
+    "name": "ramda",
+    "href": "https://github.com/ramda/ramda",
+    "description": "🐏 Practical functional Javascript",
+    "language": "JavaScript",
+    "stars": 19738,
+    "forks": 1261,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "google",
+    "name": "shaka-player",
+    "href": "https://github.com/google/shaka-player",
+    "description": "JavaScript player library / DASH & HLS client / MSE-EME player",
+    "language": "JavaScript",
+    "stars": 4474,
+    "forks": 829,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "qianguyihao",
+    "name": "Web",
+    "href": "https://github.com/qianguyihao/Web",
+    "description": "前端入门到进阶图文教程，超详细的Web前端学习笔记。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。",
+    "language": "JavaScript",
+    "stars": 13188,
+    "forks": 3621,
+    "starsInPeriod": 22
+  },
+  {
+    "author": "yangshun",
+    "name": "tech-interview-handbook",
+    "href": "https://github.com/yangshun/tech-interview-handbook",
+    "description": "💯 Materials to help you rock your next coding interview",
+    "language": "JavaScript",
+    "stars": 46018,
+    "forks": 6551,
+    "starsInPeriod": 84
+  },
+  {
+    "author": "jhu-ep-coursera",
+    "name": "fullstack-course4",
+    "href": "https://github.com/jhu-ep-coursera/fullstack-course4",
+    "description": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
+    "language": "JavaScript",
+    "stars": 4262,
+    "forks": 7137,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "webdriverio",
+    "name": "webdriverio",
+    "href": "https://github.com/webdriverio/webdriverio",
+    "description": "Next-gen browser and mobile automation test framework for Node.js",
+    "language": "JavaScript",
+    "stars": 6105,
+    "forks": 1816,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "prebid",
+    "name": "Prebid.js",
+    "href": "https://github.com/prebid/Prebid.js",
+    "description": "Setup and manage header bidding advertising partners without writing code or confusing line items. Prebid.js is open source and free.",
+    "language": "JavaScript",
+    "stars": 962,
+    "forks": 1337,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "potree",
+    "name": "potree",
+    "href": "https://github.com/potree/potree",
+    "description": "WebGL point cloud viewer for large datasets",
+    "language": "JavaScript",
+    "stars": 1968,
+    "forks": 574,
+    "starsInPeriod": 6
   },
   {
     "author": "goabstract",
@@ -235,18 +235,18 @@
     "href": "https://github.com/goabstract/Awesome-Design-Tools",
     "description": "The best design tools and plugins for everything 👉",
     "language": "JavaScript",
-    "stars": 20670,
+    "stars": 20687,
     "forks": 1547,
-    "starsInPeriod": 9
+    "starsInPeriod": 16
   },
   {
-    "author": "LeCoupa",
-    "name": "awesome-cheatsheets",
-    "href": "https://github.com/LeCoupa/awesome-cheatsheets",
-    "description": "👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.",
+    "author": "gpujs",
+    "name": "gpu.js",
+    "href": "https://github.com/gpujs/gpu.js",
+    "description": "GPU Accelerated JavaScript",
     "language": "JavaScript",
-    "stars": 13871,
-    "forks": 2406,
-    "starsInPeriod": 12
+    "stars": 11758,
+    "forks": 525,
+    "starsInPeriod": 17
   }
 ]

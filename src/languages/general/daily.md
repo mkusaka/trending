@@ -1,51 +1,51 @@
 # general
-- [CobaltStrike](https://github.com/Freakboy/CobaltStrike) : Java
-  - CobaltStrike's source code
-- [22120](https://github.com/c9fe/22120) : JavaScript
-  - 🏛️ 22120 - Self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.
-- [gibMacOS](https://github.com/corpnewt/gibMacOS) : Python
-  - Py2/py3 script that can download macOS components direct from Apple
-- [bird-bot](https://github.com/natewong1313/bird-bot) : Python
-  - A Nintendo Switch checkout bot. Currently supports Walmart and Best buy
-- [notion-clone](https://github.com/konstantinmuenster/notion-clone) : JavaScript
-  - Edit Notes like in Notion.so. Full-Stack App using React/Express.
-- [doesitarm](https://github.com/ThatGuySam/doesitarm) : Vue
-  - A list of reported app support for Apple Silicon
-- [AmongLock](https://github.com/Litteeen/AmongLock) : Objective-C
-  - You were not the owner of this device
-- [rust-blog](https://github.com/pretzelhammer/rust-blog) : Rust
-  - Educational blog posts for Rust beginners
-- [PathPlanning](https://github.com/zhm-real/PathPlanning) : Python
-  - Common used path planning algorithms with animations.
-- [macadmin-scripts](https://github.com/munki/macadmin-scripts) : Python
-  - Scripts of possible interest to macOS admins
-- [element-plus](https://github.com/element-plus/element-plus) : Vue
-  - 🎉 A Vue.js 3.0 UI Library
-- [kphp](https://github.com/VKCOM/kphp) : C++
-  - KPHP — a PHP compiler
-- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) : Python
-  - 30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.
-- [Objectron](https://github.com/google-research-datasets/Objectron) : Jupyter Notebook
-  - Objectron is a dataset of short, object-centric video clips. In addition, the videos also contain AR session metadata including camera poses, sparse point-clouds and planes. In each video, the camera moves around and above the object and captures it from different views. Each object is annotated with a 3D bounding box. The 3D bounding box descri…
-- [big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher) : Shell
-  - A primitive USB patcher for installing macOS Big Sur on unsupported Macs
-- [redisson](https://github.com/redisson/redisson) : Java
-  - Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, local cache ...
-- [BiliBiliTool](https://github.com/RayWangQvQ/BiliBiliTool) : C#
-  - .Net Core 编写的跨平台的B站（哔哩哔哩）任务工具，通过GitHub Actions实现每日线上自动运行任务：每日自动登录、观看、分享、投币视频，获取每日任务的满额经验，轻松升级Level 6，实现自动领取大会员权益、月底自动为自己充电等功能。
+- [macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) : Vue
+  - Replacement icons for popular apps in the style of macOS Big Sur
 - [openedr](https://github.com/ComodoSecurity/openedr) : C++
   - Open EDR public repository
-- [abp](https://github.com/abpframework/abp) : C#
-  - Open Source Web Application Framework for ASP.NET Core
-- [puppeteer](https://github.com/puppeteer/puppeteer) : TypeScript
-  - Headless Chrome Node.js API
+- [PathPlanning](https://github.com/zhm-real/PathPlanning) : Python
+  - Common used path planning algorithms with animations.
+- [workflow](https://github.com/sogou/workflow) : C++
+  - C++ Programming Paradigm with Asynchronous Networking
+- [dmca](https://github.com/github/dmca) : Rich Text Format
+  - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
+- [CobaltStrike](https://github.com/Freakboy/CobaltStrike) : Java
+  - CobaltStrike's source code
+- [gibMacOS](https://github.com/corpnewt/gibMacOS) : Python
+  - Py2/py3 script that can download macOS components direct from Apple
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) : 
   - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [interactive](https://github.com/dotnet/interactive) : C#
-  - .NET Interactive takes the power of .NET and embeds it into your interactive experiences. Share code, explore data, write, and learn across your apps in ways you couldn't before.
-- [angular](https://github.com/angular/angular) : TypeScript
-  - One framework. Mobile & desktop.
-- [n8n](https://github.com/n8n-io/n8n) : TypeScript
-  - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+- [awesome](https://github.com/sindresorhus/awesome) : 
+  - 😎 Awesome lists about all kinds of interesting topics
+- [big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher) : Shell
+  - A primitive USB patcher for installing macOS Big Sur on unsupported Macs
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [kphp](https://github.com/VKCOM/kphp) : C++
+  - KPHP — a PHP compiler
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
+  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) : Python
+  - 30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.
 - [public-apis](https://github.com/public-apis/public-apis) : Python
   - A collective list of free APIs for use in software and web development.
+- [Objectron](https://github.com/google-research-datasets/Objectron) : Jupyter Notebook
+  - Objectron is a dataset of short, object-centric video clips. In addition, the videos also contain AR session metadata including camera poses, sparse point-clouds and planes. In each video, the camera moves around and above the object and captures it from different views. Each object is annotated with a 3D bounding box. The 3D bounding box descri…
+- [livewire](https://github.com/livewire/livewire) : Blade
+  - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
+- [VancedManager](https://github.com/YTVanced/VancedManager) : Kotlin
+  - Vanced Installer
+- [MathToolsforNeuroscience](https://github.com/ebatty/MathToolsforNeuroscience) : Jupyter Notebook
+  - Materials for Mathematical Tools for Neuroscience course at Harvard (Neurobio 212)
+- [libhv](https://github.com/ithewei/libhv) : C
+  - Like libevent, libev, and libuv, libhv provides event-loop with non-blocking IO and timer, but simpler apis and richer protocols.
+- [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) : JavaScript
+  - 24 Lessons, 12 Weeks, Get Started as a Web Developer
+- [rust-blog](https://github.com/pretzelhammer/rust-blog) : Rust
+  - Educational blog posts for Rust beginners
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui) : TypeScript
+  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+- [angular](https://github.com/angular/angular) : TypeScript
+  - One framework. Mobile & desktop.
+- [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) : Python
+  - Bringing Old Photo Back to Life (CVPR 2020 oral)
