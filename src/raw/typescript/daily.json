@@ -1,13 +1,13 @@
 [
   {
-    "author": "puppeteer",
-    "name": "puppeteer",
-    "href": "https://github.com/puppeteer/puppeteer",
-    "description": "Headless Chrome Node.js API",
+    "author": "chakra-ui",
+    "name": "chakra-ui",
+    "href": "https://github.com/chakra-ui/chakra-ui",
+    "description": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
     "language": "TypeScript",
-    "stars": 66538,
-    "forks": 6878,
-    "starsInPeriod": 35
+    "stars": 11854,
+    "forks": 876,
+    "starsInPeriod": 59
   },
   {
     "author": "angular",
@@ -15,9 +15,9 @@
     "href": "https://github.com/angular/angular",
     "description": "One framework. Mobile & desktop.",
     "language": "TypeScript",
-    "stars": 67619,
-    "forks": 17926,
-    "starsInPeriod": 58
+    "stars": 67771,
+    "forks": 17929,
+    "starsInPeriod": 106
   },
   {
     "author": "n8n-io",
@@ -25,79 +25,59 @@
     "href": "https://github.com/n8n-io/n8n",
     "description": "Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.",
     "language": "TypeScript",
-    "stars": 10458,
-    "forks": 785,
-    "starsInPeriod": 65
+    "stars": 10625,
+    "forks": 788,
+    "starsInPeriod": 244
   },
   {
-    "author": "snyk",
-    "name": "snyk",
-    "href": "https://github.com/snyk/snyk",
-    "description": "CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies",
+    "author": "sorry-cypress",
+    "name": "sorry-cypress",
+    "href": "https://github.com/sorry-cypress/sorry-cypress",
+    "description": "An open-source on-premise, self-hosted alternative to cypress dashboard",
     "language": "TypeScript",
-    "stars": 2553,
-    "forks": 256,
-    "starsInPeriod": 109
-  },
-  {
-    "author": "storybookjs",
-    "name": "storybook",
-    "href": "https://github.com/storybookjs/storybook",
-    "description": "📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!",
-    "language": "TypeScript",
-    "stars": 54781,
-    "forks": 5513,
-    "starsInPeriod": 39
-  },
-  {
-    "author": "aws-amplify",
-    "name": "amplify-js",
-    "href": "https://github.com/aws-amplify/amplify-js",
-    "description": "A declarative JavaScript library for application development using cloud services.",
-    "language": "TypeScript",
-    "stars": 7548,
-    "forks": 1492,
+    "stars": 639,
+    "forks": 79,
     "starsInPeriod": 7
   },
   {
-    "author": "thenewboston-developers",
-    "name": "Website",
-    "href": "https://github.com/thenewboston-developers/Website",
-    "description": "The website and documentation for thenewboston.",
+    "author": "ionic-team",
+    "name": "ionic-framework",
+    "href": "https://github.com/ionic-team/ionic-framework",
+    "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.",
     "language": "TypeScript",
-    "stars": 459,
-    "forks": 259,
-    "starsInPeriod": 84
-  },
-  {
-    "author": "AzureAD",
-    "name": "microsoft-authentication-library-for-js",
-    "href": "https://github.com/AzureAD/microsoft-authentication-library-for-js",
-    "description": "Microsoft Authentication Library (MSAL) for JS",
-    "language": "TypeScript",
-    "stars": 1251,
-    "forks": 823,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "DefinitelyTyped",
-    "name": "DefinitelyTyped",
-    "href": "https://github.com/DefinitelyTyped/DefinitelyTyped",
-    "description": "The repository for high quality TypeScript type definitions.",
-    "language": "TypeScript",
-    "stars": 30764,
-    "forks": 23184,
-    "starsInPeriod": 24
-  },
-  {
-    "author": "dodois",
-    "name": "dosvpn",
-    "href": "https://github.com/dodois/dosvpn",
-    "description": "🚀 极速、简单、开源的VPN访问外网学习先进科学技术的必备工具",
-    "language": "TypeScript",
-    "stars": 239,
-    "forks": 93,
+    "stars": 42126,
+    "forks": 13294,
     "starsInPeriod": 11
+  },
+  {
+    "author": "benawad",
+    "name": "vscode-stories",
+    "href": "https://github.com/benawad/vscode-stories",
+    "description": "Stories for VSCode",
+    "language": "TypeScript",
+    "stars": 1689,
+    "forks": 97,
+    "starsInPeriod": 36
+  },
+  {
+    "author": "grafana",
+    "name": "grafana",
+    "href": "https://github.com/grafana/grafana",
+    "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+    "language": "TypeScript",
+    "stars": 38129,
+    "forks": 7762,
+    "starsInPeriod": 30
+  },
+  {
+    "author": "BabylonJS",
+    "name": "Babylon.js",
+    "href": "https://github.com/BabylonJS/Babylon.js",
+    "description": "Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.",
+    "language": "TypeScript",
+    "stars": 12727,
+    "forks": 2270,
+    "starsInPeriod": 74
   },
   {
     "author": "microsoft",
@@ -105,129 +85,29 @@
     "href": "https://github.com/microsoft/vscode",
     "description": "Visual Studio Code",
     "language": "TypeScript",
-    "stars": 106110,
-    "forks": 17031,
-    "starsInPeriod": 82
+    "stars": 106153,
+    "forks": 17041,
+    "starsInPeriod": 73
   },
   {
-    "author": "aws",
-    "name": "aws-cdk",
-    "href": "https://github.com/aws/aws-cdk",
-    "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
+    "author": "angular",
+    "name": "angular-cli",
+    "href": "https://github.com/angular/angular-cli",
+    "description": "CLI tool for Angular",
     "language": "TypeScript",
-    "stars": 5699,
-    "forks": 1276,
-    "starsInPeriod": 12
+    "stars": 23958,
+    "forks": 9940,
+    "starsInPeriod": 2
   },
   {
-    "author": "Uniswap",
-    "name": "uniswap-interface",
-    "href": "https://github.com/Uniswap/uniswap-interface",
-    "description": "🦄 An open source interface for the Uniswap protocol",
+    "author": "benawad",
+    "name": "lireddit",
+    "href": "https://github.com/benawad/lireddit",
+    "description": null,
     "language": "TypeScript",
-    "stars": 845,
-    "forks": 861,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "tannerlinsley",
-    "name": "react-query",
-    "href": "https://github.com/tannerlinsley/react-query",
-    "description": "⚛️ Hooks for fetching, caching and updating asynchronous data in React",
-    "language": "TypeScript",
-    "stars": 14880,
-    "forks": 573,
-    "starsInPeriod": 26
-  },
-  {
-    "author": "cypress-io",
-    "name": "cypress-realworld-app",
-    "href": "https://github.com/cypress-io/cypress-realworld-app",
-    "description": "A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.",
-    "language": "TypeScript",
-    "stars": 1207,
-    "forks": 227,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "NativeScript",
-    "name": "NativeScript",
-    "href": "https://github.com/NativeScript/NativeScript",
-    "description": "NativeScript empowers you to access native api's from JavaScript directly. Angular, Vue, Svelte, React and you name it compatible.",
-    "language": "TypeScript",
-    "stars": 19214,
-    "forks": 1422,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "auth0",
-    "name": "nextjs-auth0",
-    "href": "https://github.com/auth0/nextjs-auth0",
-    "description": "Next.js SDK for signing in with Auth0 (Experimental)",
-    "language": "TypeScript",
-    "stars": 449,
-    "forks": 100,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "formium",
-    "name": "formik",
-    "href": "https://github.com/formium/formik",
-    "description": "Build forms in React, without the tears 😭",
-    "language": "TypeScript",
-    "stars": 25262,
-    "forks": 1972,
-    "starsInPeriod": 14
-  },
-  {
-    "author": "Redocly",
-    "name": "redoc",
-    "href": "https://github.com/Redocly/redoc",
-    "description": "📘 OpenAPI/Swagger-generated API Reference Documentation",
-    "language": "TypeScript",
-    "stars": 11290,
-    "forks": 1292,
-    "starsInPeriod": 29
-  },
-  {
-    "author": "ant-design",
-    "name": "ant-design",
-    "href": "https://github.com/ant-design/ant-design",
-    "description": "🌈 A UI Design Language and React UI library",
-    "language": "TypeScript",
-    "stars": 64698,
-    "forks": 25075,
-    "starsInPeriod": 33
-  },
-  {
-    "author": "vuetifyjs",
-    "name": "vuetify",
-    "href": "https://github.com/vuetifyjs/vuetify",
-    "description": "🐉 Material Component Framework for Vue",
-    "language": "TypeScript",
-    "stars": 28396,
-    "forks": 5127,
-    "starsInPeriod": 15
-  },
-  {
-    "author": "anncwb",
-    "name": "vue-vben-admin",
-    "href": "https://github.com/anncwb/vue-vben-admin",
-    "description": "✨ ✨ ✨ A vue3 style Admin based on Vite vue3.0, vite, ant-design-vue 2.x, typescript，Efforts to update in progress...",
-    "language": "TypeScript",
-    "stars": 1559,
-    "forks": 317,
-    "starsInPeriod": 28
-  },
-  {
-    "author": "typeorm",
-    "name": "typeorm",
-    "href": "https://github.com/typeorm/typeorm",
-    "description": "ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
-    "language": "TypeScript",
-    "stars": 21762,
-    "forks": 3646,
-    "starsInPeriod": 23
+    "stars": 729,
+    "forks": 161,
+    "starsInPeriod": 5
   },
   {
     "author": "facebook",
@@ -235,18 +115,138 @@
     "href": "https://github.com/facebook/docusaurus",
     "description": "Easy to maintain open source documentation websites.",
     "language": "TypeScript",
-    "stars": 19967,
-    "forks": 2370,
-    "starsInPeriod": 17
+    "stars": 19981,
+    "forks": 2369,
+    "starsInPeriod": 16
   },
   {
-    "author": "pulumi",
-    "name": "examples",
-    "href": "https://github.com/pulumi/examples",
-    "description": "Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi",
+    "author": "formium",
+    "name": "formik",
+    "href": "https://github.com/formium/formik",
+    "description": "Build forms in React, without the tears 😭",
     "language": "TypeScript",
-    "stars": 942,
-    "forks": 303,
+    "stars": 25268,
+    "forks": 1975,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "adobe",
+    "name": "react-spectrum",
+    "href": "https://github.com/adobe/react-spectrum",
+    "description": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.",
+    "language": "TypeScript",
+    "stars": 3825,
+    "forks": 208,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "firebase",
+    "name": "firebase-tools",
+    "href": "https://github.com/firebase/firebase-tools",
+    "description": "The Firebase Command Line Tools",
+    "language": "TypeScript",
+    "stars": 2718,
+    "forks": 518,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "Azure",
+    "name": "azure-sdk-for-js",
+    "href": "https://github.com/Azure/azure-sdk-for-js",
+    "description": "This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.",
+    "language": "TypeScript",
+    "stars": 782,
+    "forks": 422,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "puppeteer",
+    "name": "puppeteer",
+    "href": "https://github.com/puppeteer/puppeteer",
+    "description": "Headless Chrome Node.js API",
+    "language": "TypeScript",
+    "stars": 66632,
+    "forks": 6877,
+    "starsInPeriod": 81
+  },
+  {
+    "author": "ant-design",
+    "name": "ant-design",
+    "href": "https://github.com/ant-design/ant-design",
+    "description": "🌈 A UI Design Language and React UI library",
+    "language": "TypeScript",
+    "stars": 64719,
+    "forks": 25075,
+    "starsInPeriod": 39
+  },
+  {
+    "author": "GoogleChromeLabs",
+    "name": "comlink",
+    "href": "https://github.com/GoogleChromeLabs/comlink",
+    "description": "Comlink makes WebWorkers enjoyable.",
+    "language": "TypeScript",
+    "stars": 6670,
+    "forks": 229,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "benawad",
+    "name": "vscode-stories-api",
+    "href": "https://github.com/benawad/vscode-stories-api",
+    "description": "api for vscode stories",
+    "language": "TypeScript",
+    "stars": 217,
+    "forks": 26,
+    "starsInPeriod": 21
+  },
+  {
+    "author": "wcandillon",
+    "name": "can-it-be-done-in-react-native",
+    "href": "https://github.com/wcandillon/can-it-be-done-in-react-native",
+    "description": "⚛️ 📺 Projects from the “Can it be done in React Native?” YouTube series",
+    "language": "TypeScript",
+    "stars": 2161,
+    "forks": 557,
     "starsInPeriod": 5
+  },
+  {
+    "author": "desktop",
+    "name": "desktop",
+    "href": "https://github.com/desktop/desktop",
+    "description": "Simple collaboration from your desktop",
+    "language": "TypeScript",
+    "stars": 10163,
+    "forks": 5628,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "eclipse-theia",
+    "name": "theia",
+    "href": "https://github.com/eclipse-theia/theia",
+    "description": "Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.",
+    "language": "TypeScript",
+    "stars": 12250,
+    "forks": 1450,
+    "starsInPeriod": 13
+  },
+  {
+    "author": "aws",
+    "name": "aws-cdk",
+    "href": "https://github.com/aws/aws-cdk",
+    "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
+    "language": "TypeScript",
+    "stars": 5707,
+    "forks": 1276,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "James-Yu",
+    "name": "LaTeX-Workshop",
+    "href": "https://github.com/James-Yu/LaTeX-Workshop",
+    "description": "Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.",
+    "language": "TypeScript",
+    "stars": 6436,
+    "forks": 334,
+    "starsInPeriod": 21
   }
 ]

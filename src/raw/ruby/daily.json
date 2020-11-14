@@ -1,13 +1,13 @@
 [
   {
-    "author": "mame",
-    "name": "quine-relay",
-    "href": "https://github.com/mame/quine-relay",
-    "description": "An uroboros program with 100+ programming languages",
+    "author": "fastlane",
+    "name": "fastlane",
+    "href": "https://github.com/fastlane/fastlane",
+    "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
     "language": "Ruby",
-    "stars": 9868,
-    "forks": 460,
-    "starsInPeriod": 42
+    "stars": 30113,
+    "forks": 4718,
+    "starsInPeriod": 16
   },
   {
     "author": "Homebrew",
@@ -15,29 +15,9 @@
     "href": "https://github.com/Homebrew/brew",
     "description": "🍺 The missing package manager for macOS (or Linux)",
     "language": "Ruby",
-    "stars": 23687,
-    "forks": 5546,
-    "starsInPeriod": 34
-  },
-  {
-    "author": "luggit",
-    "name": "react-native-config",
-    "href": "https://github.com/luggit/react-native-config",
-    "description": "Bring some 12 factor love to your mobile apps!",
-    "language": "Ruby",
-    "stars": 3363,
-    "forks": 544,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "heartcombo",
-    "name": "devise",
-    "href": "https://github.com/heartcombo/devise",
-    "description": "Flexible authentication solution for Rails with Warden.",
-    "language": "Ruby",
-    "stars": 21222,
-    "forks": 5109,
-    "starsInPeriod": 5
+    "stars": 23712,
+    "forks": 5548,
+    "starsInPeriod": 46
   },
   {
     "author": "solidusio",
@@ -45,39 +25,79 @@
     "href": "https://github.com/solidusio/solidus",
     "description": "🛒Solidus, Rails eCommerce System",
     "language": "Ruby",
-    "stars": 3358,
-    "forks": 989,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "bkeepers",
-    "name": "dotenv",
-    "href": "https://github.com/bkeepers/dotenv",
-    "description": "A Ruby gem to load environment variables from `.env`.",
-    "language": "Ruby",
-    "stars": 5684,
-    "forks": 410,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "Homebrew",
-    "name": "homebrew-cask",
-    "href": "https://github.com/Homebrew/homebrew-cask",
-    "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
-    "language": "Ruby",
-    "stars": 17602,
-    "forks": 8643,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "opf",
-    "name": "openproject",
-    "href": "https://github.com/opf/openproject",
-    "description": "OpenProject is the leading open source project management software.",
-    "language": "Ruby",
-    "stars": 4343,
-    "forks": 1316,
+    "stars": 3359,
+    "forks": 991,
     "starsInPeriod": 3
+  },
+  {
+    "author": "CocoaPods",
+    "name": "CocoaPods",
+    "href": "https://github.com/CocoaPods/CocoaPods",
+    "description": "The Cocoa Dependency Manager.",
+    "language": "Ruby",
+    "stars": 12805,
+    "forks": 2332,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "github",
+    "name": "view_component",
+    "href": "https://github.com/github/view_component",
+    "description": "A framework for building reusable, testable & encapsulated view components in Ruby on Rails.",
+    "language": "Ruby",
+    "stars": 1302,
+    "forks": 144,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "jsonapi-serializer",
+    "name": "jsonapi-serializer",
+    "href": "https://github.com/jsonapi-serializer/jsonapi-serializer",
+    "description": "A fast JSON:API serializer for Ruby (fork of Netflix/fast_jsonapi)",
+    "language": "Ruby",
+    "stars": 509,
+    "forks": 56,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "puma",
+    "name": "puma",
+    "href": "https://github.com/puma/puma",
+    "description": "A Ruby/Rack web server built for concurrency",
+    "language": "Ruby",
+    "stars": 6576,
+    "forks": 1182,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "freeCodeCamp",
+    "name": "devdocs",
+    "href": "https://github.com/freeCodeCamp/devdocs",
+    "description": "API Documentation Browser",
+    "language": "Ruby",
+    "stars": 24210,
+    "forks": 1643,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "jemmaissroff",
+    "name": "find_github_email",
+    "href": "https://github.com/jemmaissroff/find_github_email",
+    "description": "The warmest start to a cold email",
+    "language": "Ruby",
+    "stars": 61,
+    "forks": 1,
+    "starsInPeriod": 17
+  },
+  {
+    "author": "thoughtbot",
+    "name": "factory_bot",
+    "href": "https://github.com/thoughtbot/factory_bot",
+    "description": "A library for setting up Ruby objects as test data.",
+    "language": "Ruby",
+    "stars": 7033,
+    "forks": 2240,
+    "starsInPeriod": 1
   },
   {
     "author": "rubocop-hq",
@@ -86,18 +106,28 @@
     "description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
     "language": "Ruby",
     "stars": 11148,
-    "forks": 2527,
-    "starsInPeriod": 4
+    "forks": 2528,
+    "starsInPeriod": 2
   },
   {
-    "author": "CocoaPods",
-    "name": "CocoaPods",
-    "href": "https://github.com/CocoaPods/CocoaPods",
-    "description": "The Cocoa Dependency Manager.",
+    "author": "guard",
+    "name": "listen",
+    "href": "https://github.com/guard/listen",
+    "description": "The Listen gem listens to file modifications and notifies you about the changes.",
     "language": "Ruby",
-    "stars": 12804,
-    "forks": 2332,
-    "starsInPeriod": 2
+    "stars": 1716,
+    "forks": 209,
+    "starsInPeriod": 13
+  },
+  {
+    "author": "forem",
+    "name": "forem",
+    "href": "https://github.com/forem/forem",
+    "description": "For empowering community 🌱",
+    "language": "Ruby",
+    "stars": 15451,
+    "forks": 2610,
+    "starsInPeriod": 11
   },
   {
     "author": "mperham",
@@ -105,9 +135,29 @@
     "href": "https://github.com/mperham/sidekiq",
     "description": "Simple, efficient background processing for Ruby",
     "language": "Ruby",
-    "stars": 10656,
-    "forks": 1873,
+    "stars": 10659,
+    "forks": 1876,
     "starsInPeriod": 6
+  },
+  {
+    "author": "Homebrew",
+    "name": "homebrew-cask-fonts",
+    "href": "https://github.com/Homebrew/homebrew-cask-fonts",
+    "description": "🖋 Casks of Ｆ🅾𝓝𝐓𝚂",
+    "language": "Ruby",
+    "stars": 1880,
+    "forks": 361,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "fluent",
+    "name": "fluentd",
+    "href": "https://github.com/fluent/fluentd",
+    "description": "Fluentd: Unified Logging Layer (project under CNCF)",
+    "language": "Ruby",
+    "stars": 9701,
+    "forks": 1115,
+    "starsInPeriod": 2
   },
   {
     "author": "aasm",
@@ -117,37 +167,27 @@
     "language": "Ruby",
     "stars": 4151,
     "forks": 553,
-    "starsInPeriod": 2
+    "starsInPeriod": 0
   },
   {
-    "author": "samber",
-    "name": "awesome-prometheus-alerts",
-    "href": "https://github.com/samber/awesome-prometheus-alerts",
-    "description": "🚨 Collection of Prometheus alerting rules",
+    "author": "elastic",
+    "name": "elasticsearch-rails",
+    "href": "https://github.com/elastic/elasticsearch-rails",
+    "description": "Elasticsearch integrations for ActiveModel/Record and Ruby on Rails",
     "language": "Ruby",
-    "stars": 1769,
-    "forks": 324,
-    "starsInPeriod": 2
+    "stars": 2776,
+    "forks": 706,
+    "starsInPeriod": 1
   },
   {
-    "author": "rails",
-    "name": "webpacker",
-    "href": "https://github.com/rails/webpacker",
-    "description": "Use Webpack to manage app-like JavaScript modules in Rails",
+    "author": "thoughtbot",
+    "name": "shoulda-matchers",
+    "href": "https://github.com/thoughtbot/shoulda-matchers",
+    "description": "Simple one-liner tests for common Rails functionality",
     "language": "Ruby",
-    "stars": 4932,
-    "forks": 1306,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "jsonapi-serializer",
-    "name": "jsonapi-serializer",
-    "href": "https://github.com/jsonapi-serializer/jsonapi-serializer",
-    "description": "A fast JSON:API serializer for Ruby (fork of Netflix/fast_jsonapi)",
-    "language": "Ruby",
-    "stars": 507,
-    "forks": 56,
-    "starsInPeriod": 3
+    "stars": 2948,
+    "forks": 826,
+    "starsInPeriod": 1
   },
   {
     "author": "activerecord-hackery",
@@ -155,98 +195,58 @@
     "href": "https://github.com/activerecord-hackery/ransack",
     "description": "Object-based searching.",
     "language": "Ruby",
-    "stars": 4713,
-    "forks": 709,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "lostisland",
-    "name": "faraday",
-    "href": "https://github.com/lostisland/faraday",
-    "description": "Simple, but flexible HTTP client library, with support for multiple backends.",
-    "language": "Ruby",
-    "stars": 4908,
-    "forks": 817,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "getsentry",
-    "name": "sentry-ruby",
-    "href": "https://github.com/getsentry/sentry-ruby",
-    "description": "Sentry SDK for Ruby",
-    "language": "Ruby",
-    "stars": 690,
-    "forks": 333,
-    "starsInPeriod": 0
-  },
-  {
-    "author": "elastic",
-    "name": "elasticsearch-ruby",
-    "href": "https://github.com/elastic/elasticsearch-ruby",
-    "description": "Ruby integrations for Elasticsearch",
-    "language": "Ruby",
-    "stars": 1773,
-    "forks": 514,
+    "stars": 4714,
+    "forks": 710,
     "starsInPeriod": 1
   },
   {
     "author": "Homebrew",
-    "name": "homebrew-core",
-    "href": "https://github.com/Homebrew/homebrew-core",
-    "description": "🍻 Default formulae for the missing package manager for macOS",
+    "name": "homebrew-cask",
+    "href": "https://github.com/Homebrew/homebrew-cask",
+    "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
     "language": "Ruby",
-    "stars": 8270,
-    "forks": 8553,
+    "stars": 17606,
+    "forks": 8649,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "wix",
+    "name": "homebrew-brew",
+    "href": "https://github.com/wix/homebrew-brew",
+    "description": "Homebrew tap for formulae for software developed by Wix",
+    "language": "Ruby",
+    "stars": 7,
+    "forks": 5,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "fluent",
+    "name": "fluentd-kubernetes-daemonset",
+    "href": "https://github.com/fluent/fluentd-kubernetes-daemonset",
+    "description": "Fluentd daemonset for Kubernetes and it Docker image",
+    "language": "Ruby",
+    "stars": 793,
+    "forks": 689,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "macournoyer",
+    "name": "thin",
+    "href": "https://github.com/macournoyer/thin",
+    "description": "A very fast & simple Ruby web server",
+    "language": "Ruby",
+    "stars": 2122,
+    "forks": 328,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "alexeygrigorev",
+    "name": "data-science-interviews",
+    "href": "https://github.com/alexeygrigorev/data-science-interviews",
+    "description": "Data science interview questions and answers",
+    "language": "Ruby",
+    "stars": 3595,
+    "forks": 690,
     "starsInPeriod": 4
-  },
-  {
-    "author": "sinatra",
-    "name": "sinatra",
-    "href": "https://github.com/sinatra/sinatra",
-    "description": "Classy web-development dressed in a DSL (official / canonical repo)",
-    "language": "Ruby",
-    "stars": 11122,
-    "forks": 1998,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "rails-api",
-    "name": "active_model_serializers",
-    "href": "https://github.com/rails-api/active_model_serializers",
-    "description": "ActiveModel::Serializer implementation and Rails hooks",
-    "language": "Ruby",
-    "stars": 5030,
-    "forks": 1353,
-    "starsInPeriod": 0
-  },
-  {
-    "author": "zendesk",
-    "name": "ruby-kafka",
-    "href": "https://github.com/zendesk/ruby-kafka",
-    "description": "A Ruby client library for Apache Kafka",
-    "language": "Ruby",
-    "stars": 1003,
-    "forks": 297,
-    "starsInPeriod": 0
-  },
-  {
-    "author": "puppetlabs",
-    "name": "puppet",
-    "href": "https://github.com/puppetlabs/puppet",
-    "description": "Server automation framework and application",
-    "language": "Ruby",
-    "stars": 5959,
-    "forks": 2171,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "mislav",
-    "name": "will_paginate",
-    "href": "https://github.com/mislav/will_paginate",
-    "description": "Pagination library for Rails, Sinatra, Merb, DataMapper, and more",
-    "language": "Ruby",
-    "stars": 5542,
-    "forks": 889,
-    "starsInPeriod": 2
   }
 ]

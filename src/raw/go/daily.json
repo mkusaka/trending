@@ -1,23 +1,13 @@
 [
   {
-    "author": "photoprism",
-    "name": "photoprism",
-    "href": "https://github.com/photoprism/photoprism",
-    "description": "Personal Photo Management powered by Go and Google TensorFlow",
+    "author": "cortexlabs",
+    "name": "cortex",
+    "href": "https://github.com/cortexlabs/cortex",
+    "description": "Deploy machine learning models to production",
     "language": "Go",
-    "stars": 7015,
-    "forks": 421,
-    "starsInPeriod": 97
-  },
-  {
-    "author": "hashicorp",
-    "name": "terraform",
-    "href": "https://github.com/hashicorp/terraform",
-    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-    "language": "Go",
-    "stars": 24458,
-    "forks": 6219,
-    "starsInPeriod": 17
+    "stars": 6798,
+    "forks": 515,
+    "starsInPeriod": 16
   },
   {
     "author": "kitabisa",
@@ -25,9 +15,89 @@
     "href": "https://github.com/kitabisa/teler",
     "description": "Real-time HTTP Intrusion Detection",
     "language": "Go",
-    "stars": 545,
-    "forks": 54,
-    "starsInPeriod": 73
+    "stars": 585,
+    "forks": 55,
+    "starsInPeriod": 92
+  },
+  {
+    "author": "cosmos",
+    "name": "cosmos-sdk",
+    "href": "https://github.com/cosmos/cosmos-sdk",
+    "description": "⛓️ A Framework for Building High Value Public Blockchains ✨",
+    "language": "Go",
+    "stars": 1909,
+    "forks": 904,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "kyleconroy",
+    "name": "sqlc",
+    "href": "https://github.com/kyleconroy/sqlc",
+    "description": "Generate type safe Go from SQL",
+    "language": "Go",
+    "stars": 2522,
+    "forks": 136,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "ipfs",
+    "name": "go-ipfs",
+    "href": "https://github.com/ipfs/go-ipfs",
+    "description": "IPFS implementation in Go",
+    "language": "Go",
+    "stars": 10349,
+    "forks": 1945,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "aws",
+    "name": "aws-sdk-go",
+    "href": "https://github.com/aws/aws-sdk-go",
+    "description": "AWS SDK for the Go programming language.",
+    "language": "Go",
+    "stars": 6196,
+    "forks": 1570,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "photoprism",
+    "name": "photoprism",
+    "href": "https://github.com/photoprism/photoprism",
+    "description": "Personal Photo Management powered by Go and Google TensorFlow",
+    "language": "Go",
+    "stars": 7061,
+    "forks": 424,
+    "starsInPeriod": 67
+  },
+  {
+    "author": "derailed",
+    "name": "k9s",
+    "href": "https://github.com/derailed/k9s",
+    "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+    "language": "Go",
+    "stars": 9790,
+    "forks": 523,
+    "starsInPeriod": 23
+  },
+  {
+    "author": "nats-io",
+    "name": "nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "description": "High-Performance server for NATS, the cloud native messaging system.",
+    "language": "Go",
+    "stars": 8486,
+    "forks": 827,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "jesseduffield",
+    "name": "lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "description": "The lazier way to manage everything docker",
+    "language": "Go",
+    "stars": 16536,
+    "forks": 618,
+    "starsInPeriod": 10
   },
   {
     "author": "drk1wi",
@@ -35,19 +105,9 @@
     "href": "https://github.com/drk1wi/Modlishka",
     "description": "Modlishka. Reverse Proxy.",
     "language": "Go",
-    "stars": 3071,
-    "forks": 600,
-    "starsInPeriod": 15
-  },
-  {
-    "author": "gofiber",
-    "name": "fiber",
-    "href": "https://github.com/gofiber/fiber",
-    "description": "⚡️ Express inspired web framework written in Go",
-    "language": "Go",
-    "stars": 9842,
-    "forks": 438,
-    "starsInPeriod": 42
+    "stars": 3075,
+    "forks": 602,
+    "starsInPeriod": 12
   },
   {
     "author": "microsoft",
@@ -55,158 +115,88 @@
     "href": "https://github.com/microsoft/CBL-Mariner",
     "description": "Linux OS for Azure 1P services and edge appliances",
     "language": "Go",
-    "stars": 155,
-    "forks": 24,
-    "starsInPeriod": 26
-  },
-  {
-    "author": "magma",
-    "name": "magma",
-    "href": "https://github.com/magma/magma",
-    "description": "Platform for building access networks and modular network services",
-    "language": "Go",
-    "stars": 614,
-    "forks": 234,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "olivere",
-    "name": "elastic",
-    "href": "https://github.com/olivere/elastic",
-    "description": "Elasticsearch client for Go.",
-    "language": "Go",
-    "stars": 5479,
-    "forks": 947,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "golang",
-    "name": "go",
-    "href": "https://github.com/golang/go",
-    "description": "The Go programming language",
-    "language": "Go",
-    "stars": 78519,
-    "forks": 11358,
-    "starsInPeriod": 50
-  },
-  {
-    "author": "ossf",
-    "name": "scorecard",
-    "href": "https://github.com/ossf/scorecard",
-    "description": "OSS Security Scorecards",
-    "language": "Go",
-    "stars": 285,
-    "forks": 17,
-    "starsInPeriod": 45
-  },
-  {
-    "author": "kubernetes",
-    "name": "kubernetes",
-    "href": "https://github.com/kubernetes/kubernetes",
-    "description": "Production-Grade Container Scheduling and Management",
-    "language": "Go",
-    "stars": 71615,
-    "forks": 25914,
-    "starsInPeriod": 35
-  },
-  {
-    "author": "micro",
-    "name": "micro",
-    "href": "https://github.com/micro/micro",
-    "description": "Micro is a platform for cloud native application development",
-    "language": "Go",
-    "stars": 9000,
-    "forks": 776,
-    "starsInPeriod": 119
-  },
-  {
-    "author": "moby",
-    "name": "moby",
-    "href": "https://github.com/moby/moby",
-    "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
-    "language": "Go",
-    "stars": 58874,
-    "forks": 16950,
-    "starsInPeriod": 19
-  },
-  {
-    "author": "prometheus",
-    "name": "node_exporter",
-    "href": "https://github.com/prometheus/node_exporter",
-    "description": "Exporter for machine metrics",
-    "language": "Go",
-    "stars": 5285,
-    "forks": 1322,
-    "starsInPeriod": 10
-  },
-  {
-    "author": "kubernetes-sigs",
-    "name": "kustomize",
-    "href": "https://github.com/kubernetes-sigs/kustomize",
-    "description": "Customization of kubernetes YAML configurations",
-    "language": "Go",
-    "stars": 6385,
-    "forks": 1182,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "sourcegraph",
-    "name": "sourcegraph",
-    "href": "https://github.com/sourcegraph/sourcegraph",
-    "description": "Universal code search (self-hosted)",
-    "language": "Go",
-    "stars": 4060,
-    "forks": 453,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "360EntSecGroup-Skylar",
-    "name": "excelize",
-    "href": "https://github.com/360EntSecGroup-Skylar/excelize",
-    "description": "Golang library for reading and writing Microsoft Excel™ (XLSX) files.",
-    "language": "Go",
-    "stars": 7251,
-    "forks": 785,
-    "starsInPeriod": 10
-  },
-  {
-    "author": "pingcap",
-    "name": "tidb",
-    "href": "https://github.com/pingcap/tidb",
-    "description": "TiDB is an open source distributed HTAP database compatible with the MySQL protocol",
-    "language": "Go",
-    "stars": 25671,
-    "forks": 4003,
+    "stars": 166,
+    "forks": 26,
     "starsInPeriod": 14
   },
   {
-    "author": "go-chi",
-    "name": "chi",
-    "href": "https://github.com/go-chi/chi",
-    "description": "lightweight, idiomatic and composable router for building Go HTTP services",
+    "author": "terraform-providers",
+    "name": "terraform-provider-azurerm",
+    "href": "https://github.com/terraform-providers/terraform-provider-azurerm",
+    "description": "Terraform provider for Azure Resource Manager",
     "language": "Go",
-    "stars": 8420,
-    "forks": 577,
+    "stars": 2096,
+    "forks": 2069,
     "starsInPeriod": 5
   },
   {
-    "author": "btcsuite",
-    "name": "btcd",
-    "href": "https://github.com/btcsuite/btcd",
-    "description": "An alternative full node bitcoin implementation written in Go (golang)",
+    "author": "go-redis",
+    "name": "redis",
+    "href": "https://github.com/go-redis/redis",
+    "description": "Type-safe Redis client for Golang",
     "language": "Go",
-    "stars": 3994,
-    "forks": 1359,
+    "stars": 10060,
+    "forks": 1275,
+    "starsInPeriod": 15
+  },
+  {
+    "author": "k0sproject",
+    "name": "k0s",
+    "href": "https://github.com/k0sproject/k0s",
+    "description": "k0s - Zero Friction Kubernetes",
+    "language": "Go",
+    "stars": 147,
+    "forks": 10,
+    "starsInPeriod": 92
+  },
+  {
+    "author": "prometheus",
+    "name": "client_golang",
+    "href": "https://github.com/prometheus/client_golang",
+    "description": "Prometheus instrumentation library for Go applications",
+    "language": "Go",
+    "stars": 2635,
+    "forks": 672,
     "starsInPeriod": 3
   },
   {
-    "author": "vitessio",
-    "name": "vitess",
-    "href": "https://github.com/vitessio/vitess",
-    "description": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+    "author": "gopasspw",
+    "name": "gopass",
+    "href": "https://github.com/gopasspw/gopass",
+    "description": "The slightly more awesome standard unix password manager for teams",
     "language": "Go",
-    "stars": 10884,
-    "forks": 1401,
+    "stars": 3657,
+    "forks": 324,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "tektoncd",
+    "name": "pipeline",
+    "href": "https://github.com/tektoncd/pipeline",
+    "description": "A K8s-native Pipeline resource.",
+    "language": "Go",
+    "stars": 5708,
+    "forks": 1042,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "hashicorp",
+    "name": "terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "language": "Go",
+    "stars": 24467,
+    "forks": 6221,
+    "starsInPeriod": 13
+  },
+  {
+    "author": "influxdata",
+    "name": "telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "description": "The plugin-driven server agent for collecting & reporting metrics.",
+    "language": "Go",
+    "stars": 9378,
+    "forks": 3889,
     "starsInPeriod": 8
   },
   {
@@ -215,38 +205,48 @@
     "href": "https://github.com/kgretzky/evilginx2",
     "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
     "language": "Go",
-    "stars": 3668,
-    "forks": 735,
+    "stars": 3673,
+    "forks": 736,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "FiloSottile",
+    "name": "age",
+    "href": "https://github.com/FiloSottile/age",
+    "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
+    "language": "Go",
+    "stars": 4707,
+    "forks": 147,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "berty",
+    "name": "berty",
+    "href": "https://github.com/berty/berty",
+    "description": "Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network",
+    "language": "Go",
+    "stars": 556,
+    "forks": 52,
     "starsInPeriod": 8
   },
   {
-    "author": "go-redis",
-    "name": "redis",
-    "href": "https://github.com/go-redis/redis",
-    "description": "Type-safe Redis client for Golang",
+    "author": "magma",
+    "name": "magma",
+    "href": "https://github.com/magma/magma",
+    "description": "Platform for building access networks and modular network services",
     "language": "Go",
-    "stars": 10054,
-    "forks": 1275,
-    "starsInPeriod": 11
+    "stars": 620,
+    "forks": 234,
+    "starsInPeriod": 5
   },
   {
-    "author": "filecoin-project",
-    "name": "lotus",
-    "href": "https://github.com/filecoin-project/lotus",
-    "description": "Implementation of the Filecoin protocol, written in Go",
+    "author": "gruntwork-io",
+    "name": "terragrunt",
+    "href": "https://github.com/gruntwork-io/terragrunt",
+    "description": "Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.",
     "language": "Go",
-    "stars": 878,
-    "forks": 483,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "ethereum",
-    "name": "go-ethereum",
-    "href": "https://github.com/ethereum/go-ethereum",
-    "description": "Official Go implementation of the Ethereum protocol",
-    "language": "Go",
-    "stars": 27121,
-    "forks": 9994,
-    "starsInPeriod": 14
+    "stars": 4452,
+    "forks": 570,
+    "starsInPeriod": 6
   }
 ]

@@ -1,51 +1,51 @@
 # kotlin
-- [kotlin](https://github.com/JetBrains/kotlin)
-  - The Kotlin Programming Language
 - [VancedManager](https://github.com/YTVanced/VancedManager)
   - Vanced Installer
-- [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization)
-  - Kotlin multiplatform / multi-format serialization
-- [camera-samples](https://github.com/android/camera-samples)
-  - Multiple samples showing the best practices in camera APIs on Android.
-- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android)
-  - Native Android app using the Apple/Google exposure notification API.
-- [detekt](https://github.com/detekt/detekt)
-  - Static code analysis for Kotlin
-- [compose-samples](https://github.com/android/compose-samples)
-  - Official Jetpack Compose samples.
-- [projector-server](https://github.com/JetBrains/projector-server)
-  - Server-side library for running Swing applications remotely
 - [architecture-components-samples](https://github.com/android/architecture-components-samples)
   - Samples for Android Architecture Components.
-- [ideavim](https://github.com/JetBrains/ideavim)
-  - Vim emulation plugin for IDEs based on the IntelliJ Platform
-- [mockk](https://github.com/mockk/mockk)
-  - mocking library for Kotlin
-- [MvRx](https://github.com/airbnb/MvRx)
-  - MvRx: Android on Autopilot
-- [Exposed](https://github.com/JetBrains/Exposed)
-  - Kotlin SQL Framework
-- [koin](https://github.com/InsertKoinIO/koin)
-  - Koin - a pragmatic lightweight dependency injection framework for Kotlin
+- [TapTap](https://github.com/KieronQuinn/TapTap)
+  - Port of the double tap on back of device feature from Android 11 to any Android 7.0+ device
+- [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization)
+  - Kotlin multiplatform / multi-format serialization
+- [Konfetti](https://github.com/DanielMartinus/Konfetti)
+  - Celebrate more with this lightweight confetti particle system 🎊
 - [coil](https://github.com/coil-kt/coil)
   - Image loading for Android backed by Kotlin Coroutines.
-- [ktor](https://github.com/ktorio/ktor)
-  - Framework for quickly creating connected applications in Kotlin with minimal effort
-- [BRV](https://github.com/liangjingkanji/BRV)
-  - Android上最强大的RecyclerView库
-- [karel](https://github.com/fredoverflow/karel)
-  - Karel The Robot
-- [architecture-samples](https://github.com/android/architecture-samples)
-  - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
-- [android-kotlin-fundamentals-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-apps)
-  - android-kotlin-fundamentals-apps
-- [android-youtube-player](https://github.com/PierfrancescoSoffritti/android-youtube-player)
-  - YouTube Player library for Android and Chromecast, stable and customizable.
-- [tornadofx](https://github.com/edvin/tornadofx)
-  - Lightweight JavaFX Framework for Kotlin
-- [javalin](https://github.com/tipsy/javalin)
-  - A simple and modern Java and Kotlin web framework
-- [uamp](https://github.com/android/uamp)
-  - A sample audio app for Android
+- [dodo](https://github.com/JakeWharton/dodo)
+  - Synchronize your Twitter timeline to a local database for archival and search
 - [kotlin-native](https://github.com/JetBrains/kotlin-native)
   - Kotlin/Native infrastructure
+- [camera-samples](https://github.com/android/camera-samples)
+  - Multiple samples showing the best practices in camera APIs on Android.
+- [architecture-samples](https://github.com/android/architecture-samples)
+  - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
+- [flexbox-layout](https://github.com/google/flexbox-layout)
+  - Flexbox for Android
+- [p3c](https://github.com/alibaba/p3c)
+  - Alibaba Java Coding Guidelines pmd implements and IDE plugin
+- [Pokedex](https://github.com/skydoves/Pokedex)
+  - 🗡️ Android Pokedex using Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
+- [Android](https://github.com/duckduckgo/Android)
+  - DuckDuckGo Android App
+- [Exposed](https://github.com/JetBrains/Exposed)
+  - Kotlin SQL Framework
+- [dokka](https://github.com/Kotlin/dokka)
+  - Documentation Engine for Kotlin
+- [kotest](https://github.com/kotest/kotest)
+  - Powerful, elegant and flexible test framework for Kotlin
+- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android)
+  - Native Android app using the Apple/Google exposure notification API.
+- [javalin](https://github.com/tipsy/javalin)
+  - A simple and modern Java and Kotlin web framework
+- [Simple-Music-Player](https://github.com/SimpleMobileTools/Simple-Music-Player)
+  - A clean music player with a customizable widget, stylish interface and no ads.
+- [android](https://github.com/home-assistant/android)
+  - 📱 Home Assistant Companion for Android
+- [koin](https://github.com/InsertKoinIO/koin)
+  - Koin - a pragmatic lightweight dependency injection framework for Kotlin
+- [material-dialogs](https://github.com/afollestad/material-dialogs)
+  - 😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android.
+- [tachiyomi](https://github.com/inorichi/tachiyomi)
+  - Free and open source manga reader for Android
+- [android-sdk](https://github.com/qonversion/android-sdk)
+  - In-app purchases and subscriptions implementation, analytics, growth.

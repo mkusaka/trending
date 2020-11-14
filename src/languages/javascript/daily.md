@@ -1,51 +1,51 @@
 # javascript
-- [22120](https://github.com/c9fe/22120)
-  - 🏛️ 22120 - Self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.
-- [notion-clone](https://github.com/konstantinmuenster/notion-clone)
-  - Edit Notes like in Notion.so. Full-Stack App using React/Express.
-- [Weather-Cal](https://github.com/mzeryck/Weather-Cal)
-  - This is a Scriptable widget that lets you display, position, and format multiple elements, including dates and events, weather information, battery level, and more. You can even create your own elements.
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
-- [WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
-  - Play with fluids in your browser (works even on mobile)
-- [rengine](https://github.com/yogeshojha/rengine)
-  - reNgine is an automated reconnaissance framework meant for information gathering during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
-- [three.js](https://github.com/mrdoob/three.js)
-  - JavaScript 3D library.
-- [ttv-ublock](https://github.com/odensc/ttv-ublock)
-  - Blocking ads on that certain streaming website
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+  - 24 Lessons, 12 Weeks, Get Started as a Web Developer
+- [faker.js](https://github.com/Marak/faker.js)
+  - generate massive amounts of realistic fake data in Node.js and the browser
+- [Git-User-Switch](https://github.com/geongeorge/Git-User-Switch)
+  - Switch git user and email at ease
 - [mermaid](https://github.com/mermaid-js/mermaid)
   - Generation of diagram and flowchart from text in a similar manner as markdown
-- [QuantumultX](https://github.com/w37fhy/QuantumultX)
-  - 同步和更新大佬脚本库，更新懒人配置
 - [monaco-editor](https://github.com/microsoft/monaco-editor)
   - A browser based code editor
-- [react-native-snap-carousel](https://github.com/archriss/react-native-snap-carousel)
-  - Swiper/carousel component for React Native featuring previews, multiple layouts, parallax images, performant handling of huge numbers of items, and more. Compatible with Android & iOS.
-- [MyActions](https://github.com/sazs34/MyActions)
-  - 基于Github-Action实现的京东签到,已集合NobyDa和lxk0301的签到内容,只需配置一条secret即可签到
-- [appium](https://github.com/appium/appium)
-  - 📱 Automation for iOS, Android, and Windows Apps.
-- [Chart.js](https://github.com/chartjs/Chart.js)
-  - Simple HTML5 Charts using the <canvas> tag
-- [slick](https://github.com/kenwheeler/slick)
-  - the last carousel you'll ever need
-- [swiper](https://github.com/nolimits4web/swiper)
-  - Most modern mobile touch slider with hardware accelerated transitions
-- [javascript](https://github.com/airbnb/javascript)
-  - JavaScript Style Guide
-- [cypress](https://github.com/cypress-io/cypress)
-  - Fast, easy and reliable testing for anything that runs in a browser.
-- [react-grid-layout](https://github.com/STRML/react-grid-layout)
-  - A draggable and resizable grid layout with responsive breakpoints, for React.
-- [juice-shop](https://github.com/bkimminich/juice-shop)
-  - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
+- [notion-clone](https://github.com/konstantinmuenster/notion-clone)
+  - Edit Notes like in Notion.so. Full-Stack App using React/Express.
+- [editly](https://github.com/mifi/editly)
+  - Slick, declarative command line video editing & API
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [koa](https://github.com/koajs/koa)
+  - Expressive middleware for node.js using ES2017 async functions
+- [22120](https://github.com/c9fe/22120)
+  - 🏛️ 22120 - Self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.
+- [quasar](https://github.com/quasarframework/quasar)
+  - Quasar Framework - Build high-performance VueJS user interfaces in record time
+- [three.js](https://github.com/mrdoob/three.js)
+  - JavaScript 3D library.
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [awx](https://github.com/ansible/awx)
+  - AWX Project
+- [ramda](https://github.com/ramda/ramda)
+  - 🐏 Practical functional Javascript
+- [shaka-player](https://github.com/google/shaka-player)
+  - JavaScript player library / DASH & HLS client / MSE-EME player
+- [Web](https://github.com/qianguyihao/Web)
+  - 前端入门到进阶图文教程，超详细的Web前端学习笔记。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+  - 💯 Materials to help you rock your next coding interview
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [webdriverio](https://github.com/webdriverio/webdriverio)
+  - Next-gen browser and mobile automation test framework for Node.js
+- [Prebid.js](https://github.com/prebid/Prebid.js)
+  - Setup and manage header bidding advertising partners without writing code or confusing line items. Prebid.js is open source and free.
+- [potree](https://github.com/potree/potree)
+  - WebGL point cloud viewer for large datasets
 - [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools)
   - The best design tools and plugins for everything 👉
-- [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
-  - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+- [gpu.js](https://github.com/gpujs/gpu.js)
+  - GPU Accelerated JavaScript
