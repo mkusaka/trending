@@ -1,51 +1,51 @@
 # javascript
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-  - 🛁 Clean Code concepts adapted for JavaScript
+- [FallChallenge2020](https://github.com/CodinGame/FallChallenge2020)
+  - Source code for CodinGame's Fall Challenge 2020 event.
 - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
   - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [faker.js](https://github.com/Marak/faker.js)
-  - generate massive amounts of realistic fake data in Node.js and the browser
-- [Git-User-Switch](https://github.com/geongeorge/Git-User-Switch)
-  - Switch git user and email at ease
-- [mermaid](https://github.com/mermaid-js/mermaid)
-  - Generation of diagram and flowchart from text in a similar manner as markdown
-- [monaco-editor](https://github.com/microsoft/monaco-editor)
-  - A browser based code editor
-- [notion-clone](https://github.com/konstantinmuenster/notion-clone)
-  - Edit Notes like in Notion.so. Full-Stack App using React/Express.
-- [editly](https://github.com/mifi/editly)
-  - Slick, declarative command line video editing & API
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [koa](https://github.com/koajs/koa)
-  - Expressive middleware for node.js using ES2017 async functions
-- [22120](https://github.com/c9fe/22120)
-  - 🏛️ 22120 - Self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.
-- [quasar](https://github.com/quasarframework/quasar)
-  - Quasar Framework - Build high-performance VueJS user interfaces in record time
-- [three.js](https://github.com/mrdoob/three.js)
-  - JavaScript 3D library.
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [awx](https://github.com/ansible/awx)
-  - AWX Project
-- [ramda](https://github.com/ramda/ramda)
-  - 🐏 Practical functional Javascript
-- [shaka-player](https://github.com/google/shaka-player)
-  - JavaScript player library / DASH & HLS client / MSE-EME player
-- [Web](https://github.com/qianguyihao/Web)
-  - 前端入门到进阶图文教程，超详细的Web前端学习笔记。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [iptv](https://github.com/iptv-org/iptv)
+  - Collection of 5000+ publicly available IPTV channels from all over the world
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
   - 💯 Materials to help you rock your next coding interview
-- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
-  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-- [webdriverio](https://github.com/webdriverio/webdriverio)
-  - Next-gen browser and mobile automation test framework for Node.js
-- [Prebid.js](https://github.com/prebid/Prebid.js)
-  - Setup and manage header bidding advertising partners without writing code or confusing line items. Prebid.js is open source and free.
-- [potree](https://github.com/potree/potree)
-  - WebGL point cloud viewer for large datasets
-- [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools)
-  - The best design tools and plugins for everything 👉
-- [gpu.js](https://github.com/gpujs/gpu.js)
-  - GPU Accelerated JavaScript
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+  - ⚡ Dynamically generated stats for your github readmes
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [strapi](https://github.com/strapi/strapi)
+  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [responsively-app](https://github.com/responsively-org/responsively-app)
+  - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
+- [node](https://github.com/nodejs/node)
+  - Node.js JavaScript runtime ✨🐢🚀✨
+- [unlock-music](https://github.com/ix64/unlock-music)
+  - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
+- [three.js](https://github.com/mrdoob/three.js)
+  - JavaScript 3D library.
+- [whatsapp-bot](https://github.com/ArugaZ/whatsapp-bot)
+  - Whatsapp Bot - Node Js
+- [svelte](https://github.com/sveltejs/svelte)
+  - Cybernetically enhanced web apps
+- [docs](https://github.com/github/docs)
+  - The open-source repo for docs.github.com
+- [ccxt](https://github.com/ccxt/ccxt)
+  - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
+- [wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules)
+  - 📝 The website builder for Hugo. Build and deploy a beautiful website in minutes!
+- [yyz](https://github.com/mattdesl/yyz)
+  - 
+- [realworld](https://github.com/gothinkster/realworld)
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [outline](https://github.com/outline/outline)
+  - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
+- [OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide)
+  - Repo for the OpenCore Install Guide
+- [attestation-deplacement-derogatoire-q4-2020](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020)
+  - attestation-deplacement-derogatoire-q4-2020 public
+- [parcel](https://github.com/parcel-bundler/parcel)
+  - 📦🚀 Blazing fast, zero configuration web application bundler
+- [proshop_mern](https://github.com/bradtraversy/proshop_mern)
+  - Shopping cart built with MERN & Redux
+- [SmartYouTubeTV](https://github.com/yuliskov/SmartYouTubeTV)
+  - Watch YouTube videos on your TV and set-top-box with comfort
