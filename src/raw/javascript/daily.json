@@ -1,13 +1,13 @@
 [
   {
-    "author": "ryanmcdermott",
-    "name": "clean-code-javascript",
-    "href": "https://github.com/ryanmcdermott/clean-code-javascript",
-    "description": "🛁 Clean Code concepts adapted for JavaScript",
+    "author": "CodinGame",
+    "name": "FallChallenge2020",
+    "href": "https://github.com/CodinGame/FallChallenge2020",
+    "description": "Source code for CodinGame's Fall Challenge 2020 event.",
     "language": "JavaScript",
-    "stars": 40257,
-    "forks": 4902,
-    "starsInPeriod": 108
+    "stars": 27,
+    "forks": 7,
+    "starsInPeriod": 12
   },
   {
     "author": "microsoft",
@@ -15,169 +15,29 @@
     "href": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "stars": 334,
-    "forks": 31,
-    "starsInPeriod": 111
+    "stars": 1064,
+    "forks": 56,
+    "starsInPeriod": 567
   },
   {
-    "author": "Marak",
-    "name": "faker.js",
-    "href": "https://github.com/Marak/faker.js",
-    "description": "generate massive amounts of realistic fake data in Node.js and the browser",
+    "author": "ryanmcdermott",
+    "name": "clean-code-javascript",
+    "href": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "description": "🛁 Clean Code concepts adapted for JavaScript",
     "language": "JavaScript",
-    "stars": 27482,
-    "forks": 2364,
-    "starsInPeriod": 384
+    "stars": 40511,
+    "forks": 4920,
+    "starsInPeriod": 195
   },
   {
-    "author": "geongeorge",
-    "name": "Git-User-Switch",
-    "href": "https://github.com/geongeorge/Git-User-Switch",
-    "description": "Switch git user and email at ease",
+    "author": "iptv-org",
+    "name": "iptv",
+    "href": "https://github.com/iptv-org/iptv",
+    "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
     "language": "JavaScript",
-    "stars": 322,
-    "forks": 9,
-    "starsInPeriod": 101
-  },
-  {
-    "author": "mermaid-js",
-    "name": "mermaid",
-    "href": "https://github.com/mermaid-js/mermaid",
-    "description": "Generation of diagram and flowchart from text in a similar manner as markdown",
-    "language": "JavaScript",
-    "stars": 32769,
-    "forks": 2222,
-    "starsInPeriod": 35
-  },
-  {
-    "author": "microsoft",
-    "name": "monaco-editor",
-    "href": "https://github.com/microsoft/monaco-editor",
-    "description": "A browser based code editor",
-    "language": "JavaScript",
-    "stars": 22242,
-    "forks": 2006,
-    "starsInPeriod": 15
-  },
-  {
-    "author": "konstantinmuenster",
-    "name": "notion-clone",
-    "href": "https://github.com/konstantinmuenster/notion-clone",
-    "description": "Edit Notes like in Notion.so. Full-Stack App using React/Express.",
-    "language": "JavaScript",
-    "stars": 849,
-    "forks": 45,
-    "starsInPeriod": 262
-  },
-  {
-    "author": "mifi",
-    "name": "editly",
-    "href": "https://github.com/mifi/editly",
-    "description": "Slick, declarative command line video editing & API",
-    "language": "JavaScript",
-    "stars": 2388,
-    "forks": 83,
-    "starsInPeriod": 58
-  },
-  {
-    "author": "trekhleb",
-    "name": "javascript-algorithms",
-    "href": "https://github.com/trekhleb/javascript-algorithms",
-    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-    "language": "JavaScript",
-    "stars": 84435,
-    "forks": 14253,
-    "starsInPeriod": 109
-  },
-  {
-    "author": "koajs",
-    "name": "koa",
-    "href": "https://github.com/koajs/koa",
-    "description": "Expressive middleware for node.js using ES2017 async functions",
-    "language": "JavaScript",
-    "stars": 30232,
-    "forks": 2891,
-    "starsInPeriod": 13
-  },
-  {
-    "author": "c9fe",
-    "name": "22120",
-    "href": "https://github.com/c9fe/22120",
-    "description": "🏛️ 22120 - Self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.",
-    "language": "JavaScript",
-    "stars": 2064,
-    "forks": 72,
-    "starsInPeriod": 266
-  },
-  {
-    "author": "quasarframework",
-    "name": "quasar",
-    "href": "https://github.com/quasarframework/quasar",
-    "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time",
-    "language": "JavaScript",
-    "stars": 16772,
-    "forks": 1966,
-    "starsInPeriod": 22
-  },
-  {
-    "author": "mrdoob",
-    "name": "three.js",
-    "href": "https://github.com/mrdoob/three.js",
-    "description": "JavaScript 3D library.",
-    "language": "JavaScript",
-    "stars": 64793,
-    "forks": 25580,
-    "starsInPeriod": 29
-  },
-  {
-    "author": "mui-org",
-    "name": "material-ui",
-    "href": "https://github.com/mui-org/material-ui",
-    "description": "React components for faster and easier web development. Build your own design system, or start with Material Design.",
-    "language": "JavaScript",
-    "stars": 62429,
-    "forks": 19023,
-    "starsInPeriod": 37
-  },
-  {
-    "author": "ansible",
-    "name": "awx",
-    "href": "https://github.com/ansible/awx",
-    "description": "AWX Project",
-    "language": "JavaScript",
-    "stars": 8628,
-    "forks": 2201,
-    "starsInPeriod": 10
-  },
-  {
-    "author": "ramda",
-    "name": "ramda",
-    "href": "https://github.com/ramda/ramda",
-    "description": "🐏 Practical functional Javascript",
-    "language": "JavaScript",
-    "stars": 19738,
-    "forks": 1261,
-    "starsInPeriod": 14
-  },
-  {
-    "author": "google",
-    "name": "shaka-player",
-    "href": "https://github.com/google/shaka-player",
-    "description": "JavaScript player library / DASH & HLS client / MSE-EME player",
-    "language": "JavaScript",
-    "stars": 4474,
-    "forks": 829,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "qianguyihao",
-    "name": "Web",
-    "href": "https://github.com/qianguyihao/Web",
-    "description": "前端入门到进阶图文教程，超详细的Web前端学习笔记。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。",
-    "language": "JavaScript",
-    "stars": 13188,
-    "forks": 3621,
-    "starsInPeriod": 22
+    "stars": 20581,
+    "forks": 117,
+    "starsInPeriod": 81
   },
   {
     "author": "yangshun",
@@ -185,68 +45,208 @@
     "href": "https://github.com/yangshun/tech-interview-handbook",
     "description": "💯 Materials to help you rock your next coding interview",
     "language": "JavaScript",
-    "stars": 46018,
-    "forks": 6551,
-    "starsInPeriod": 84
+    "stars": 46167,
+    "forks": 6560,
+    "starsInPeriod": 174
   },
   {
-    "author": "jhu-ep-coursera",
-    "name": "fullstack-course4",
-    "href": "https://github.com/jhu-ep-coursera/fullstack-course4",
-    "description": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
+    "author": "anuraghazra",
+    "name": "github-readme-stats",
+    "href": "https://github.com/anuraghazra/github-readme-stats",
+    "description": "⚡ Dynamically generated stats for your github readmes",
     "language": "JavaScript",
-    "stars": 4262,
-    "forks": 7137,
+    "stars": 13663,
+    "forks": 2736,
+    "starsInPeriod": 69
+  },
+  {
+    "author": "trekhleb",
+    "name": "javascript-algorithms",
+    "href": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "stars": 84560,
+    "forks": 14271,
+    "starsInPeriod": 135
+  },
+  {
+    "author": "strapi",
+    "name": "strapi",
+    "href": "https://github.com/strapi/strapi",
+    "description": "🚀 Open source Node.js Headless CMS to easily build customisable APIs",
+    "language": "JavaScript",
+    "stars": 30902,
+    "forks": 3923,
+    "starsInPeriod": 50
+  },
+  {
+    "author": "responsively-org",
+    "name": "responsively-app",
+    "href": "https://github.com/responsively-org/responsively-app",
+    "description": "A modified web browser that helps in responsive web development. A web developer's must have dev-tool.",
+    "language": "JavaScript",
+    "stars": 8932,
+    "forks": 465,
+    "starsInPeriod": 34
+  },
+  {
+    "author": "nodejs",
+    "name": "node",
+    "href": "https://github.com/nodejs/node",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "language": "JavaScript",
+    "stars": 74776,
+    "forks": 18524,
+    "starsInPeriod": 68
+  },
+  {
+    "author": "ix64",
+    "name": "unlock-music",
+    "href": "https://github.com/ix64/unlock-music",
+    "description": "Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。",
+    "language": "JavaScript",
+    "stars": 5238,
+    "forks": 1047,
+    "starsInPeriod": 41
+  },
+  {
+    "author": "mrdoob",
+    "name": "three.js",
+    "href": "https://github.com/mrdoob/three.js",
+    "description": "JavaScript 3D library.",
+    "language": "JavaScript",
+    "stars": 64810,
+    "forks": 25584,
+    "starsInPeriod": 53
+  },
+  {
+    "author": "ArugaZ",
+    "name": "whatsapp-bot",
+    "href": "https://github.com/ArugaZ/whatsapp-bot",
+    "description": "Whatsapp Bot - Node Js",
+    "language": "JavaScript",
+    "stars": 86,
+    "forks": 47,
     "starsInPeriod": 10
   },
   {
-    "author": "webdriverio",
-    "name": "webdriverio",
-    "href": "https://github.com/webdriverio/webdriverio",
-    "description": "Next-gen browser and mobile automation test framework for Node.js",
+    "author": "sveltejs",
+    "name": "svelte",
+    "href": "https://github.com/sveltejs/svelte",
+    "description": "Cybernetically enhanced web apps",
     "language": "JavaScript",
-    "stars": 6105,
-    "forks": 1816,
+    "stars": 39368,
+    "forks": 1875,
+    "starsInPeriod": 59
+  },
+  {
+    "author": "github",
+    "name": "docs",
+    "href": "https://github.com/github/docs",
+    "description": "The open-source repo for docs.github.com",
+    "language": "JavaScript",
+    "stars": 1541,
+    "forks": 3713,
+    "starsInPeriod": 28
+  },
+  {
+    "author": "ccxt",
+    "name": "ccxt",
+    "href": "https://github.com/ccxt/ccxt",
+    "description": "A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges",
+    "language": "JavaScript",
+    "stars": 14944,
+    "forks": 4221,
+    "starsInPeriod": 20
+  },
+  {
+    "author": "wowchemy",
+    "name": "wowchemy-hugo-modules",
+    "href": "https://github.com/wowchemy/wowchemy-hugo-modules",
+    "description": "📝 The website builder for Hugo. Build and deploy a beautiful website in minutes!",
+    "language": "JavaScript",
+    "stars": 5149,
+    "forks": 2305,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "mattdesl",
+    "name": "yyz",
+    "href": "https://github.com/mattdesl/yyz",
+    "description": null,
+    "language": "JavaScript",
+    "stars": 93,
+    "forks": 3,
+    "starsInPeriod": 53
+  },
+  {
+    "author": "gothinkster",
+    "name": "realworld",
+    "href": "https://github.com/gothinkster/realworld",
+    "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "language": "JavaScript",
+    "stars": 49631,
+    "forks": 4199,
+    "starsInPeriod": 60
+  },
+  {
+    "author": "outline",
+    "name": "outline",
+    "href": "https://github.com/outline/outline",
+    "description": "The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.",
+    "language": "JavaScript",
+    "stars": 10140,
+    "forks": 691,
+    "starsInPeriod": 34
+  },
+  {
+    "author": "dortania",
+    "name": "OpenCore-Install-Guide",
+    "href": "https://github.com/dortania/OpenCore-Install-Guide",
+    "description": "Repo for the OpenCore Install Guide",
+    "language": "JavaScript",
+    "stars": 1555,
+    "forks": 219,
+    "starsInPeriod": 19
+  },
+  {
+    "author": "LAB-MI",
+    "name": "attestation-deplacement-derogatoire-q4-2020",
+    "href": "https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020",
+    "description": "attestation-deplacement-derogatoire-q4-2020 public",
+    "language": "JavaScript",
+    "stars": 330,
+    "forks": 289,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "parcel-bundler",
+    "name": "parcel",
+    "href": "https://github.com/parcel-bundler/parcel",
+    "description": "📦🚀 Blazing fast, zero configuration web application bundler",
+    "language": "JavaScript",
+    "stars": 37054,
+    "forks": 1840,
+    "starsInPeriod": 15
+  },
+  {
+    "author": "bradtraversy",
+    "name": "proshop_mern",
+    "href": "https://github.com/bradtraversy/proshop_mern",
+    "description": "Shopping cart built with MERN & Redux",
+    "language": "JavaScript",
+    "stars": 595,
+    "forks": 225,
     "starsInPeriod": 6
   },
   {
-    "author": "prebid",
-    "name": "Prebid.js",
-    "href": "https://github.com/prebid/Prebid.js",
-    "description": "Setup and manage header bidding advertising partners without writing code or confusing line items. Prebid.js is open source and free.",
+    "author": "yuliskov",
+    "name": "SmartYouTubeTV",
+    "href": "https://github.com/yuliskov/SmartYouTubeTV",
+    "description": "Watch YouTube videos on your TV and set-top-box with comfort",
     "language": "JavaScript",
-    "stars": 962,
-    "forks": 1337,
-    "starsInPeriod": 0
-  },
-  {
-    "author": "potree",
-    "name": "potree",
-    "href": "https://github.com/potree/potree",
-    "description": "WebGL point cloud viewer for large datasets",
-    "language": "JavaScript",
-    "stars": 1968,
-    "forks": 574,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "goabstract",
-    "name": "Awesome-Design-Tools",
-    "href": "https://github.com/goabstract/Awesome-Design-Tools",
-    "description": "The best design tools and plugins for everything 👉",
-    "language": "JavaScript",
-    "stars": 20687,
-    "forks": 1547,
-    "starsInPeriod": 16
-  },
-  {
-    "author": "gpujs",
-    "name": "gpu.js",
-    "href": "https://github.com/gpujs/gpu.js",
-    "description": "GPU Accelerated JavaScript",
-    "language": "JavaScript",
-    "stars": 11758,
-    "forks": 525,
-    "starsInPeriod": 17
+    "stars": 3593,
+    "forks": 499,
+    "starsInPeriod": 12
   }
 ]

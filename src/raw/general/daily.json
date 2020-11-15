@@ -1,223 +1,23 @@
 [
   {
+    "author": "orf",
+    "name": "gping",
+    "href": "https://github.com/orf/gping",
+    "description": "Ping, but with a graph",
+    "language": "Rust",
+    "stars": 1897,
+    "forks": 90,
+    "starsInPeriod": 803
+  },
+  {
     "author": "elrumo",
     "name": "macOS_Big_Sur_icons_replacements",
     "href": "https://github.com/elrumo/macOS_Big_Sur_icons_replacements",
     "description": "Replacement icons for popular apps in the style of macOS Big Sur",
     "language": "Vue",
-    "stars": 1437,
-    "forks": 123,
-    "starsInPeriod": 120
-  },
-  {
-    "author": "ComodoSecurity",
-    "name": "openedr",
-    "href": "https://github.com/ComodoSecurity/openedr",
-    "description": "Open EDR public repository",
-    "language": "C++",
-    "stars": 490,
-    "forks": 66,
-    "starsInPeriod": 178
-  },
-  {
-    "author": "zhm-real",
-    "name": "PathPlanning",
-    "href": "https://github.com/zhm-real/PathPlanning",
-    "description": "Common used path planning algorithms with animations.",
-    "language": "Python",
-    "stars": 665,
-    "forks": 129,
-    "starsInPeriod": 113
-  },
-  {
-    "author": "sogou",
-    "name": "workflow",
-    "href": "https://github.com/sogou/workflow",
-    "description": "C++ Programming Paradigm with Asynchronous Networking",
-    "language": "C++",
-    "stars": 2909,
-    "forks": 584,
-    "starsInPeriod": 80
-  },
-  {
-    "author": "github",
-    "name": "dmca",
-    "href": "https://github.com/github/dmca",
-    "description": "Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at",
-    "language": "Rich Text Format",
-    "stars": 4202,
-    "forks": 1184,
-    "starsInPeriod": 24
-  },
-  {
-    "author": "Freakboy",
-    "name": "CobaltStrike",
-    "href": "https://github.com/Freakboy/CobaltStrike",
-    "description": "CobaltStrike's source code",
-    "language": "Java",
-    "stars": 942,
-    "forks": 758,
-    "starsInPeriod": 229
-  },
-  {
-    "author": "corpnewt",
-    "name": "gibMacOS",
-    "href": "https://github.com/corpnewt/gibMacOS",
-    "description": "Py2/py3 script that can download macOS components direct from Apple",
-    "language": "Python",
-    "stars": 2458,
-    "forks": 349,
-    "starsInPeriod": 90
-  },
-  {
-    "author": "trimstray",
-    "name": "the-book-of-secret-knowledge",
-    "href": "https://github.com/trimstray/the-book-of-secret-knowledge",
-    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
-    "language": "",
-    "stars": 34600,
-    "forks": 3713,
-    "starsInPeriod": 88
-  },
-  {
-    "author": "sindresorhus",
-    "name": "awesome",
-    "href": "https://github.com/sindresorhus/awesome",
-    "description": "😎 Awesome lists about all kinds of interesting topics",
-    "language": "",
-    "stars": 144230,
-    "forks": 19019,
-    "starsInPeriod": 219
-  },
-  {
-    "author": "barrykn",
-    "name": "big-sur-micropatcher",
-    "href": "https://github.com/barrykn/big-sur-micropatcher",
-    "description": "A primitive USB patcher for installing macOS Big Sur on unsupported Macs",
-    "language": "Shell",
-    "stars": 393,
-    "forks": 51,
-    "starsInPeriod": 58
-  },
-  {
-    "author": "ryanmcdermott",
-    "name": "clean-code-javascript",
-    "href": "https://github.com/ryanmcdermott/clean-code-javascript",
-    "description": "🛁 Clean Code concepts adapted for JavaScript",
-    "language": "JavaScript",
-    "stars": 40257,
-    "forks": 4902,
-    "starsInPeriod": 108
-  },
-  {
-    "author": "VKCOM",
-    "name": "kphp",
-    "href": "https://github.com/VKCOM/kphp",
-    "description": "KPHP — a PHP compiler",
-    "language": "C++",
-    "stars": 402,
-    "forks": 11,
-    "starsInPeriod": 104
-  },
-  {
-    "author": "ripienaar",
-    "name": "free-for-dev",
-    "href": "https://github.com/ripienaar/free-for-dev",
-    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-    "language": "HTML",
-    "stars": 39301,
-    "forks": 4177,
-    "starsInPeriod": 72
-  },
-  {
-    "author": "Asabeneh",
-    "name": "30-Days-Of-Python",
-    "href": "https://github.com/Asabeneh/30-Days-Of-Python",
-    "description": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
-    "language": "Python",
-    "stars": 2644,
-    "forks": 653,
-    "starsInPeriod": 64
-  },
-  {
-    "author": "public-apis",
-    "name": "public-apis",
-    "href": "https://github.com/public-apis/public-apis",
-    "description": "A collective list of free APIs for use in software and web development.",
-    "language": "Python",
-    "stars": 100125,
-    "forks": 12251,
-    "starsInPeriod": 205
-  },
-  {
-    "author": "google-research-datasets",
-    "name": "Objectron",
-    "href": "https://github.com/google-research-datasets/Objectron",
-    "description": "Objectron is a dataset of short, object-centric video clips. In addition, the videos also contain AR session metadata including camera poses, sparse point-clouds and planes. In each video, the camera moves around and above the object and captures it from different views. Each object is annotated with a 3D bounding box. The 3D bounding box descri…",
-    "language": "Jupyter Notebook",
-    "stars": 538,
-    "forks": 50,
-    "starsInPeriod": 111
-  },
-  {
-    "author": "livewire",
-    "name": "livewire",
-    "href": "https://github.com/livewire/livewire",
-    "description": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
-    "language": "Blade",
-    "stars": 7649,
-    "forks": 515,
-    "starsInPeriod": 30
-  },
-  {
-    "author": "YTVanced",
-    "name": "VancedManager",
-    "href": "https://github.com/YTVanced/VancedManager",
-    "description": "Vanced Installer",
-    "language": "Kotlin",
-    "stars": 1541,
-    "forks": 98,
-    "starsInPeriod": 97
-  },
-  {
-    "author": "ebatty",
-    "name": "MathToolsforNeuroscience",
-    "href": "https://github.com/ebatty/MathToolsforNeuroscience",
-    "description": "Materials for Mathematical Tools for Neuroscience course at Harvard (Neurobio 212)",
-    "language": "Jupyter Notebook",
-    "stars": 136,
-    "forks": 9,
-    "starsInPeriod": 38
-  },
-  {
-    "author": "ithewei",
-    "name": "libhv",
-    "href": "https://github.com/ithewei/libhv",
-    "description": "Like libevent, libev, and libuv, libhv provides event-loop with non-blocking IO and timer, but simpler apis and richer protocols.",
-    "language": "C",
-    "stars": 939,
-    "forks": 191,
-    "starsInPeriod": 33
-  },
-  {
-    "author": "microsoft",
-    "name": "Web-Dev-For-Beginners",
-    "href": "https://github.com/microsoft/Web-Dev-For-Beginners",
-    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
-    "language": "JavaScript",
-    "stars": 334,
-    "forks": 31,
-    "starsInPeriod": 111
-  },
-  {
-    "author": "pretzelhammer",
-    "name": "rust-blog",
-    "href": "https://github.com/pretzelhammer/rust-blog",
-    "description": "Educational blog posts for Rust beginners",
-    "language": "Rust",
-    "stars": 1884,
-    "forks": 86,
-    "starsInPeriod": 144
+    "stars": 1737,
+    "forks": 133,
+    "starsInPeriod": 366
   },
   {
     "author": "chakra-ui",
@@ -225,19 +25,109 @@
     "href": "https://github.com/chakra-ui/chakra-ui",
     "description": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
     "language": "TypeScript",
-    "stars": 11854,
-    "forks": 876,
-    "starsInPeriod": 59
+    "stars": 11993,
+    "forks": 882,
+    "starsInPeriod": 105
   },
   {
-    "author": "angular",
-    "name": "angular",
-    "href": "https://github.com/angular/angular",
-    "description": "One framework. Mobile & desktop.",
-    "language": "TypeScript",
-    "stars": 67771,
-    "forks": 17929,
-    "starsInPeriod": 95
+    "author": "solemnwarning",
+    "name": "rehex",
+    "href": "https://github.com/solemnwarning/rehex",
+    "description": "Reverse Engineers' Hex Editor",
+    "language": "C++",
+    "stars": 836,
+    "forks": 36,
+    "starsInPeriod": 417
+  },
+  {
+    "author": "YTVanced",
+    "name": "VancedManager",
+    "href": "https://github.com/YTVanced/VancedManager",
+    "description": "Vanced Installer",
+    "language": "Kotlin",
+    "stars": 1634,
+    "forks": 100,
+    "starsInPeriod": 175
+  },
+  {
+    "author": "CodinGame",
+    "name": "FallChallenge2020",
+    "href": "https://github.com/CodinGame/FallChallenge2020",
+    "description": "Source code for CodinGame's Fall Challenge 2020 event.",
+    "language": "JavaScript",
+    "stars": 27,
+    "forks": 7,
+    "starsInPeriod": 12
+  },
+  {
+    "author": "barrykn",
+    "name": "big-sur-micropatcher",
+    "href": "https://github.com/barrykn/big-sur-micropatcher",
+    "description": "A primitive USB patcher for installing macOS Big Sur on unsupported Macs",
+    "language": "Shell",
+    "stars": 443,
+    "forks": 52,
+    "starsInPeriod": 112
+  },
+  {
+    "author": "k0sproject",
+    "name": "k0s",
+    "href": "https://github.com/k0sproject/k0s",
+    "description": "k0s - Zero Friction Kubernetes",
+    "language": "Go",
+    "stars": 238,
+    "forks": 12,
+    "starsInPeriod": 77
+  },
+  {
+    "author": "microsoft",
+    "name": "Web-Dev-For-Beginners",
+    "href": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "stars": 1064,
+    "forks": 56,
+    "starsInPeriod": 567
+  },
+  {
+    "author": "sindresorhus",
+    "name": "awesome",
+    "href": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "",
+    "stars": 144668,
+    "forks": 19050,
+    "starsInPeriod": 493
+  },
+  {
+    "author": "ryanmcdermott",
+    "name": "clean-code-javascript",
+    "href": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "description": "🛁 Clean Code concepts adapted for JavaScript",
+    "language": "JavaScript",
+    "stars": 40511,
+    "forks": 4920,
+    "starsInPeriod": 195
+  },
+  {
+    "author": "ripienaar",
+    "name": "free-for-dev",
+    "href": "https://github.com/ripienaar/free-for-dev",
+    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "language": "HTML",
+    "stars": 39547,
+    "forks": 4184,
+    "starsInPeriod": 179
+  },
+  {
+    "author": "trimstray",
+    "name": "the-book-of-secret-knowledge",
+    "href": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "language": "",
+    "stars": 34801,
+    "forks": 3721,
+    "starsInPeriod": 361
   },
   {
     "author": "microsoft",
@@ -245,8 +135,118 @@
     "href": "https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life",
     "description": "Bringing Old Photo Back to Life (CVPR 2020 oral)",
     "language": "Python",
-    "stars": 1705,
-    "forks": 194,
-    "starsInPeriod": 11
+    "stars": 2212,
+    "forks": 200,
+    "starsInPeriod": 373
+  },
+  {
+    "author": "iptv-org",
+    "name": "iptv",
+    "href": "https://github.com/iptv-org/iptv",
+    "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "language": "JavaScript",
+    "stars": 20581,
+    "forks": 117,
+    "starsInPeriod": 81
+  },
+  {
+    "author": "Asabeneh",
+    "name": "30-Days-Of-Python",
+    "href": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "description": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
+    "language": "Python",
+    "stars": 2772,
+    "forks": 670,
+    "starsInPeriod": 244
+  },
+  {
+    "author": "ComodoSecurity",
+    "name": "openedr",
+    "href": "https://github.com/ComodoSecurity/openedr",
+    "description": "Open EDR public repository",
+    "language": "C++",
+    "stars": 590,
+    "forks": 75,
+    "starsInPeriod": 306
+  },
+  {
+    "author": "google-research-datasets",
+    "name": "Objectron",
+    "href": "https://github.com/google-research-datasets/Objectron",
+    "description": "Objectron is a dataset of short, object-centric video clips. In addition, the videos also contain AR session metadata including camera poses, sparse point-clouds and planes. In each video, the camera moves around and above the object and captures it from different views. Each object is annotated with a 3D bounding box. The 3D bounding box descri…",
+    "language": "Jupyter Notebook",
+    "stars": 677,
+    "forks": 67,
+    "starsInPeriod": 343
+  },
+  {
+    "author": "yangshun",
+    "name": "tech-interview-handbook",
+    "href": "https://github.com/yangshun/tech-interview-handbook",
+    "description": "💯 Materials to help you rock your next coding interview",
+    "language": "JavaScript",
+    "stars": 46167,
+    "forks": 6560,
+    "starsInPeriod": 174
+  },
+  {
+    "author": "public-apis",
+    "name": "public-apis",
+    "href": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs for use in software and web development.",
+    "language": "Python",
+    "stars": 100400,
+    "forks": 12264,
+    "starsInPeriod": 613
+  },
+  {
+    "author": "Freakboy",
+    "name": "CobaltStrike",
+    "href": "https://github.com/Freakboy/CobaltStrike",
+    "description": "CobaltStrike's source code",
+    "language": "Java",
+    "stars": 1007,
+    "forks": 824,
+    "starsInPeriod": 360
+  },
+  {
+    "author": "lydiahallie",
+    "name": "javascript-questions",
+    "href": "https://github.com/lydiahallie/javascript-questions",
+    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "language": "",
+    "stars": 23978,
+    "forks": 3151,
+    "starsInPeriod": 232
+  },
+  {
+    "author": "starship",
+    "name": "starship",
+    "href": "https://github.com/starship/starship",
+    "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+    "language": "Rust",
+    "stars": 11137,
+    "forks": 499,
+    "starsInPeriod": 103
+  },
+  {
+    "author": "corpnewt",
+    "name": "GenSMBIOS",
+    "href": "https://github.com/corpnewt/GenSMBIOS",
+    "description": "Py script that uses acidanthera's macserial to generate SMBIOS and optionally saves them to a plist.",
+    "language": "Python",
+    "stars": 360,
+    "forks": 56,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "golang",
+    "name": "go",
+    "href": "https://github.com/golang/go",
+    "description": "The Go programming language",
+    "language": "Go",
+    "stars": 78598,
+    "forks": 11378,
+    "starsInPeriod": 85
   }
 ]
