@@ -1,63 +1,63 @@
 [
   {
+    "author": "bitcoin",
+    "name": "bitcoin",
+    "href": "https://github.com/bitcoin/bitcoin",
+    "description": "Bitcoin Core integration/staging tree",
+    "language": "C++",
+    "stars": 45984,
+    "forks": 26635,
+    "starsInPeriod": 25
+  },
+  {
     "author": "solemnwarning",
     "name": "rehex",
     "href": "https://github.com/solemnwarning/rehex",
     "description": "Reverse Engineers' Hex Editor",
     "language": "C++",
-    "stars": 836,
-    "forks": 36,
-    "starsInPeriod": 417
+    "stars": 1060,
+    "forks": 44,
+    "starsInPeriod": 240
   },
   {
-    "author": "ComodoSecurity",
-    "name": "openedr",
-    "href": "https://github.com/ComodoSecurity/openedr",
-    "description": "Open EDR public repository",
+    "author": "an-tao",
+    "name": "drogon",
+    "href": "https://github.com/an-tao/drogon",
+    "description": "Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows",
     "language": "C++",
-    "stars": 590,
-    "forks": 75,
-    "starsInPeriod": 306
+    "stars": 3931,
+    "forks": 323,
+    "starsInPeriod": 11
   },
   {
-    "author": "vectorizedio",
-    "name": "redpanda",
-    "href": "https://github.com/vectorizedio/redpanda",
-    "description": "Redpanda is the real-time engine for modern apps.",
+    "author": "musescore",
+    "name": "MuseScore",
+    "href": "https://github.com/musescore/MuseScore",
+    "description": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",
     "language": "C++",
-    "stars": 303,
-    "forks": 16,
-    "starsInPeriod": 64
+    "stars": 5253,
+    "forks": 1509,
+    "starsInPeriod": 5
   },
   {
-    "author": "VKCOM",
-    "name": "kphp",
-    "href": "https://github.com/VKCOM/kphp",
-    "description": "KPHP — a PHP compiler",
+    "author": "TheAlgorithms",
+    "name": "C-Plus-Plus",
+    "href": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "description": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
     "language": "C++",
-    "stars": 463,
-    "forks": 17,
-    "starsInPeriod": 93
+    "stars": 9144,
+    "forks": 3102,
+    "starsInPeriod": 14
   },
   {
-    "author": "rr-debugger",
-    "name": "rr",
-    "href": "https://github.com/rr-debugger/rr",
-    "description": "Record and Replay Framework",
+    "author": "ocornut",
+    "name": "imgui",
+    "href": "https://github.com/ocornut/imgui",
+    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
     "language": "C++",
-    "stars": 5426,
-    "forks": 383,
-    "starsInPeriod": 16
-  },
-  {
-    "author": "Aircoookie",
-    "name": "WLED",
-    "href": "https://github.com/Aircoookie/WLED",
-    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
-    "language": "C++",
-    "stars": 3505,
-    "forks": 597,
-    "starsInPeriod": 34
+    "stars": 24872,
+    "forks": 4161,
+    "starsInPeriod": 22
   },
   {
     "author": "godotengine",
@@ -65,8 +65,38 @@
     "href": "https://github.com/godotengine/godot",
     "description": "Godot Engine – Multi-platform 2D and 3D game engine",
     "language": "C++",
-    "stars": 34691,
-    "forks": 6549,
+    "stars": 34713,
+    "forks": 6551,
+    "starsInPeriod": 28
+  },
+  {
+    "author": "qbittorrent",
+    "name": "qBittorrent",
+    "href": "https://github.com/qbittorrent/qBittorrent",
+    "description": "qBittorrent BitTorrent client",
+    "language": "C++",
+    "stars": 10495,
+    "forks": 1887,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "mozilla",
+    "name": "DeepSpeech",
+    "href": "https://github.com/mozilla/DeepSpeech",
+    "description": "DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.",
+    "language": "C++",
+    "stars": 15761,
+    "forks": 2927,
+    "starsInPeriod": 15
+  },
+  {
+    "author": "Aircoookie",
+    "name": "WLED",
+    "href": "https://github.com/Aircoookie/WLED",
+    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
+    "language": "C++",
+    "stars": 3522,
+    "forks": 597,
     "starsInPeriod": 30
   },
   {
@@ -75,119 +105,9 @@
     "href": "https://github.com/xbmc/xbmc",
     "description": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.",
     "language": "C++",
-    "stars": 11380,
-    "forks": 5568,
-    "starsInPeriod": 17
-  },
-  {
-    "author": "sogou",
-    "name": "workflow",
-    "href": "https://github.com/sogou/workflow",
-    "description": "C++ Programming Paradigm with Asynchronous Networking",
-    "language": "C++",
-    "stars": 2966,
-    "forks": 585,
-    "starsInPeriod": 120
-  },
-  {
-    "author": "topjohnwu",
-    "name": "Magisk",
-    "href": "https://github.com/topjohnwu/Magisk",
-    "description": "The Magic Mask for Android",
-    "language": "C++",
-    "stars": 14129,
-    "forks": 2342,
-    "starsInPeriod": 54
-  },
-  {
-    "author": "electron",
-    "name": "electron",
-    "href": "https://github.com/electron/electron",
-    "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
-    "language": "C++",
-    "stars": 86966,
-    "forks": 11680,
-    "starsInPeriod": 50
-  },
-  {
-    "author": "Palakis",
-    "name": "obs-websocket",
-    "href": "https://github.com/Palakis/obs-websocket",
-    "description": "Remote-control OBS Studio through WebSockets",
-    "language": "C++",
-    "stars": 1419,
-    "forks": 272,
-    "starsInPeriod": 9
-  },
-  {
-    "author": "AaronFeng753",
-    "name": "Waifu2x-Extension-GUI",
-    "href": "https://github.com/AaronFeng753/Waifu2x-Extension-GUI",
-    "description": "Image, GIF and Video enlarger/upscaler(super-resolution) achieved with Waifu2x, SRMD, RealSR, Anime4K and ACNet.",
-    "language": "C++",
-    "stars": 2464,
-    "forks": 235,
-    "starsInPeriod": 23
-  },
-  {
-    "author": "TheCherno",
-    "name": "Hazel",
-    "href": "https://github.com/TheCherno/Hazel",
-    "description": "Hazel Engine",
-    "language": "C++",
-    "stars": 4406,
-    "forks": 639,
-    "starsInPeriod": 14
-  },
-  {
-    "author": "nlohmann",
-    "name": "json",
-    "href": "https://github.com/nlohmann/json",
-    "description": "JSON for Modern C++",
-    "language": "C++",
-    "stars": 21230,
-    "forks": 3767,
-    "starsInPeriod": 26
-  },
-  {
-    "author": "MultiMC",
-    "name": "MultiMC5",
-    "href": "https://github.com/MultiMC/MultiMC5",
-    "description": "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once",
-    "language": "C++",
-    "stars": 1682,
-    "forks": 357,
+    "stars": 11385,
+    "forks": 5571,
     "starsInPeriod": 7
-  },
-  {
-    "author": "qbittorrent",
-    "name": "qBittorrent",
-    "href": "https://github.com/qbittorrent/qBittorrent",
-    "description": "qBittorrent BitTorrent client",
-    "language": "C++",
-    "stars": 10484,
-    "forks": 1883,
-    "starsInPeriod": 19
-  },
-  {
-    "author": "ethereum-mining",
-    "name": "ethminer",
-    "href": "https://github.com/ethereum-mining/ethminer",
-    "description": "Ethereum miner with OpenCL, CUDA and stratum support",
-    "language": "C++",
-    "stars": 3217,
-    "forks": 1083,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "Neo23x0",
-    "name": "Raccine",
-    "href": "https://github.com/Neo23x0/Raccine",
-    "description": "A Simple Ransomware Vaccine",
-    "language": "C++",
-    "stars": 556,
-    "forks": 49,
-    "starsInPeriod": 10
   },
   {
     "author": "OpenZWave",
@@ -195,58 +115,138 @@
     "href": "https://github.com/OpenZWave/open-zwave",
     "description": "a C++ library to control Z-Wave Networks via a USB Z-Wave Controller.",
     "language": "C++",
-    "stars": 976,
-    "forks": 908,
+    "stars": 975,
+    "forks": 911,
     "starsInPeriod": 0
   },
   {
-    "author": "USCiLab",
-    "name": "cereal",
-    "href": "https://github.com/USCiLab/cereal",
-    "description": "A C++11 library for serialization",
+    "author": "google",
+    "name": "googletest",
+    "href": "https://github.com/google/googletest",
+    "description": "Googletest - Google Testing and Mocking Framework",
     "language": "C++",
-    "stars": 2546,
-    "forks": 500,
+    "stars": 18702,
+    "forks": 6795,
+    "starsInPeriod": 17
+  },
+  {
+    "author": "fmtlib",
+    "name": "fmt",
+    "href": "https://github.com/fmtlib/fmt",
+    "description": "A modern formatting library",
+    "language": "C++",
+    "stars": 9661,
+    "forks": 1175,
     "starsInPeriod": 6
   },
   {
-    "author": "esp8266",
-    "name": "Arduino",
-    "href": "https://github.com/esp8266/Arduino",
-    "description": "ESP8266 core for Arduino",
+    "author": "DrKLO",
+    "name": "Telegram",
+    "href": "https://github.com/DrKLO/Telegram",
+    "description": "Telegram for Android source",
     "language": "C++",
-    "stars": 12072,
-    "forks": 10325,
-    "starsInPeriod": 11
+    "stars": 15103,
+    "forks": 5519,
+    "starsInPeriod": 2
   },
   {
-    "author": "prusa3d",
-    "name": "PrusaSlicer",
-    "href": "https://github.com/prusa3d/PrusaSlicer",
-    "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)",
+    "author": "topjohnwu",
+    "name": "Magisk",
+    "href": "https://github.com/topjohnwu/Magisk",
+    "description": "The Magic Mask for Android",
     "language": "C++",
-    "stars": 2564,
-    "forks": 644,
-    "starsInPeriod": 9
+    "stars": 14148,
+    "forks": 2343,
+    "starsInPeriod": 19
   },
   {
-    "author": "pybind",
-    "name": "pybind11",
-    "href": "https://github.com/pybind/pybind11",
-    "description": "Seamless operability between C++11 and Python",
+    "author": "esphome",
+    "name": "esphome",
+    "href": "https://github.com/esphome/esphome",
+    "description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
     "language": "C++",
-    "stars": 8245,
-    "forks": 1173,
+    "stars": 2394,
+    "forks": 669,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "atcoder",
+    "name": "ac-library",
+    "href": "https://github.com/atcoder/ac-library",
+    "description": "AtCoder Library",
+    "language": "C++",
+    "stars": 331,
+    "forks": 46,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "ArduPilot",
+    "name": "ardupilot",
+    "href": "https://github.com/ArduPilot/ardupilot",
+    "description": "ArduPlane, ArduCopter, ArduRover source",
+    "language": "C++",
+    "stars": 5390,
+    "forks": 10042,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "pytorch",
+    "name": "pytorch",
+    "href": "https://github.com/pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "language": "C++",
+    "stars": 43913,
+    "forks": 11555,
+    "starsInPeriod": 38
+  },
+  {
+    "author": "MarlinFirmware",
+    "name": "Marlin",
+    "href": "https://github.com/MarlinFirmware/Marlin",
+    "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "language": "C++",
+    "stars": 8868,
+    "forks": 12288,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "RPCS3",
+    "name": "rpcs3",
+    "href": "https://github.com/RPCS3/rpcs3",
+    "description": "PS3 emulator/debugger",
+    "language": "C++",
+    "stars": 8502,
+    "forks": 1389,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "yuzu-emu",
+    "name": "yuzu",
+    "href": "https://github.com/yuzu-emu/yuzu",
+    "description": "Nintendo Switch Emulator",
+    "language": "C++",
+    "stars": 12514,
+    "forks": 1034,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "dusty-nv",
+    "name": "jetson-inference",
+    "href": "https://github.com/dusty-nv/jetson-inference",
+    "description": "Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.",
+    "language": "C++",
+    "stars": 3750,
+    "forks": 1669,
     "starsInPeriod": 7
   },
   {
-    "author": "picotorrent",
-    "name": "picotorrent",
-    "href": "https://github.com/picotorrent/picotorrent",
-    "description": "A tiny, hackable BitTorrent client.",
+    "author": "aseprite",
+    "name": "aseprite",
+    "href": "https://github.com/aseprite/aseprite",
+    "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
     "language": "C++",
-    "stars": 1344,
-    "forks": 126,
-    "starsInPeriod": 4
+    "stars": 10666,
+    "forks": 1036,
+    "starsInPeriod": 18
   }
 ]
