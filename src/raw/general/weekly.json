@@ -1,13 +1,23 @@
 [
   {
-    "author": "GitSquared",
-    "name": "edex-ui",
-    "href": "https://github.com/GitSquared/edex-ui",
-    "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
-    "language": "JavaScript",
-    "stars": 22573,
-    "forks": 1256,
-    "starsInPeriod": 3016
+    "author": "Fmstrat",
+    "name": "winapps",
+    "href": "https://github.com/Fmstrat/winapps",
+    "description": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.",
+    "language": "Shell",
+    "stars": 2671,
+    "forks": 78,
+    "starsInPeriod": 1155
+  },
+  {
+    "author": "geekxh",
+    "name": "hello-algorithm",
+    "href": "https://github.com/geekxh/hello-algorithm",
+    "description": "🌍「算法面试+算法知识」这是一套针对小白的完整算法训练 | 还包括：1、千本开源电子书 2、阿里、字节、滴滴 等面经汇总 3、百张思维导图 （来个Star吧~）",
+    "language": "Java",
+    "stars": 21738,
+    "forks": 4098,
+    "starsInPeriod": 1167
   },
   {
     "author": "facebookresearch",
@@ -15,69 +25,39 @@
     "href": "https://github.com/facebookresearch/pifuhd",
     "description": "High-Resolution 3D Human Digitization from A Single Image.",
     "language": "Python",
-    "stars": 4466,
-    "forks": 509,
-    "starsInPeriod": 1223
+    "stars": 5504,
+    "forks": 627,
+    "starsInPeriod": 1065
   },
   {
-    "author": "l1ving",
-    "name": "youtube-dl",
-    "href": "https://github.com/l1ving/youtube-dl",
-    "description": "A fork of youtube-dl, for archival purposes.",
+    "author": "thenewboston-developers",
+    "name": "Website",
+    "href": "https://github.com/thenewboston-developers/Website",
+    "description": "The website and documentation for thenewboston.",
+    "language": "TypeScript",
+    "stars": 475,
+    "forks": 280,
+    "starsInPeriod": 326
+  },
+  {
+    "author": "Marak",
+    "name": "faker.js",
+    "href": "https://github.com/Marak/faker.js",
+    "description": "generate massive amounts of realistic fake data in Node.js and the browser",
+    "language": "JavaScript",
+    "stars": 27642,
+    "forks": 2382,
+    "starsInPeriod": 1979
+  },
+  {
+    "author": "Rudrabha",
+    "name": "Wav2Lip",
+    "href": "https://github.com/Rudrabha/Wav2Lip",
+    "description": "This repository contains the codes of \"A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild\", published at ACM Multimedia 2020.",
     "language": "Python",
-    "stars": 2645,
-    "forks": 1542,
-    "starsInPeriod": 1088
-  },
-  {
-    "author": "geohot",
-    "name": "tinygrad",
-    "href": "https://github.com/geohot/tinygrad",
-    "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
-    "language": "Python",
-    "stars": 695,
-    "forks": 82,
-    "starsInPeriod": 419
-  },
-  {
-    "author": "bevyengine",
-    "name": "bevy",
-    "href": "https://github.com/bevyengine/bevy",
-    "description": "A refreshingly simple data-driven game engine built in Rust",
-    "language": "Rust",
-    "stars": 4956,
-    "forks": 361,
-    "starsInPeriod": 514
-  },
-  {
-    "author": "geekxh",
-    "name": "hello-algorithm",
-    "href": "https://github.com/geekxh/hello-algorithm",
-    "description": "🌍 东半球最酷的学习项目 | 1、我写的三十万字算法图解 2、千本开源电子书 3、100 张思维导图 4、100 篇大厂面经 5、30 个学习专题 🚀 🚀 🚀 右上角点个 star，加入我们万人学习群！English Supported！",
-    "language": "Java",
-    "stars": 20603,
-    "forks": 3905,
-    "starsInPeriod": 919
-  },
-  {
-    "author": "sogou",
-    "name": "workflow",
-    "href": "https://github.com/sogou/workflow",
-    "description": "C++ Programming Paradigm with Asynchronous Networking",
-    "language": "C++",
-    "stars": 2757,
-    "forks": 558,
-    "starsInPeriod": 368
-  },
-  {
-    "author": "funkygao",
-    "name": "cp-ddd-framework",
-    "href": "https://github.com/funkygao/cp-ddd-framework",
-    "description": "A lightweight flexible development framework for complex business architecture with full ecosystem！轻量级业务中台开发框架，中台架构的顶层设计和完整解决方案！",
-    "language": "Java",
-    "stars": 386,
-    "forks": 74,
-    "starsInPeriod": 205
+    "stars": 1537,
+    "forks": 246,
+    "starsInPeriod": 325
   },
   {
     "author": "chatwoot",
@@ -85,168 +65,188 @@
     "href": "https://github.com/chatwoot/chatwoot",
     "description": "Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬",
     "language": "Ruby",
-    "stars": 5395,
-    "forks": 537,
-    "starsInPeriod": 658
+    "stars": 6292,
+    "forks": 583,
+    "starsInPeriod": 935
   },
   {
-    "author": "MobSF",
-    "name": "Mobile-Security-Framework-MobSF",
-    "href": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
-    "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
+    "author": "corpnewt",
+    "name": "gibMacOS",
+    "href": "https://github.com/corpnewt/gibMacOS",
+    "description": "Py2/py3 script that can download macOS components direct from Apple",
     "language": "Python",
-    "stars": 7557,
-    "forks": 1919,
-    "starsInPeriod": 620
+    "stars": 2516,
+    "forks": 351,
+    "starsInPeriod": 276
   },
   {
-    "author": "threat9",
-    "name": "routersploit",
-    "href": "https://github.com/threat9/routersploit",
-    "description": "Exploitation Framework for Embedded Devices",
+    "author": "JetBrains",
+    "name": "compose-jb",
+    "href": "https://github.com/JetBrains/compose-jb",
+    "description": "Jetpack Compose for Desktop, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.",
+    "language": "Kotlin",
+    "stars": 1437,
+    "forks": 37,
+    "starsInPeriod": 555
+  },
+  {
+    "author": "Atcold",
+    "name": "pytorch-Deep-Learning",
+    "href": "https://github.com/Atcold/pytorch-Deep-Learning",
+    "description": "Deep Learning (with PyTorch)",
+    "language": "Jupyter Notebook",
+    "stars": 3749,
+    "forks": 1167,
+    "starsInPeriod": 395
+  },
+  {
+    "author": "cjph8914",
+    "name": "2020_benfords",
+    "href": "https://github.com/cjph8914/2020_benfords",
+    "description": null,
+    "language": "Jupyter Notebook",
+    "stars": 383,
+    "forks": 108,
+    "starsInPeriod": 101
+  },
+  {
+    "author": "chakra-ui",
+    "name": "chakra-ui",
+    "href": "https://github.com/chakra-ui/chakra-ui",
+    "description": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
+    "language": "TypeScript",
+    "stars": 12214,
+    "forks": 885,
+    "starsInPeriod": 540
+  },
+  {
+    "author": "rileytestut",
+    "name": "AltStore",
+    "href": "https://github.com/rileytestut/AltStore",
+    "description": "AltStore is an alternative app store for non-jailbroken iOS devices.",
+    "language": "Swift",
+    "stars": 4180,
+    "forks": 316,
+    "starsInPeriod": 377
+  },
+  {
+    "author": "dotnet",
+    "name": "core",
+    "href": "https://github.com/dotnet/core",
+    "description": "Home repository for .NET Core",
+    "language": "Shell",
+    "stars": 14800,
+    "forks": 3692,
+    "starsInPeriod": 103
+  },
+  {
+    "author": "gao-sun",
+    "name": "eul",
+    "href": "https://github.com/gao-sun/eul",
+    "description": "🖥️ macOS status monitoring app written in SwiftUI.",
+    "language": "Swift",
+    "stars": 3179,
+    "forks": 102,
+    "starsInPeriod": 917
+  },
+  {
+    "author": "kgrzybek",
+    "name": "modular-monolith-with-ddd",
+    "href": "https://github.com/kgrzybek/modular-monolith-with-ddd",
+    "description": "Full Modular Monolith application with Domain-Driven Design approach.",
+    "language": "C#",
+    "stars": 3937,
+    "forks": 516,
+    "starsInPeriod": 89
+  },
+  {
+    "author": "microsoft",
+    "name": "Bringing-Old-Photos-Back-to-Life",
+    "href": "https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life",
+    "description": "Bringing Old Photo Back to Life (CVPR 2020 oral)",
     "language": "Python",
-    "stars": 8623,
-    "forks": 1903,
-    "starsInPeriod": 175
+    "stars": 2640,
+    "forks": 209,
+    "starsInPeriod": 1055
   },
   {
-    "author": "google",
-    "name": "googletest",
-    "href": "https://github.com/google/googletest",
-    "description": "Googletest - Google Testing and Mocking Framework",
-    "language": "C++",
-    "stars": 18633,
-    "forks": 6777,
-    "starsInPeriod": 179
+    "author": "tychxn",
+    "name": "jd-assistant",
+    "href": "https://github.com/tychxn/jd-assistant",
+    "description": "京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能",
+    "language": "Python",
+    "stars": 2365,
+    "forks": 729,
+    "starsInPeriod": 99
   },
   {
-    "author": "LAB-MI",
-    "name": "attestation-deplacement-derogatoire-q4-2020",
-    "href": "https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020",
-    "description": "attestation-deplacement-derogatoire-q4-2020 public",
-    "language": "JavaScript",
-    "stars": 321,
-    "forks": 280,
+    "author": "MrXujiang",
+    "name": "h5-Dooring",
+    "href": "https://github.com/MrXujiang/h5-Dooring",
+    "description": "(H5编辑器)H5-Dooring是一款功能强大，开源免费的H5可视化页面配置解决方案，致力于提供一套简单方便、专业可靠、无限可能的H5落地页最佳实践。技术栈以react为主， 后台采用nodejs开发.",
+    "language": "TypeScript",
+    "stars": 1633,
+    "forks": 282,
+    "starsInPeriod": 257
+  },
+  {
+    "author": "labuladong",
+    "name": "fucking-algorithm",
+    "href": "https://github.com/labuladong/fucking-algorithm",
+    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "language": "",
+    "stars": 70578,
+    "forks": 13272,
+    "starsInPeriod": 1387
+  },
+  {
+    "author": "donnemartin",
+    "name": "system-design-primer",
+    "href": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "stars": 112532,
+    "forks": 20328,
+    "starsInPeriod": 1302
+  },
+  {
+    "author": "starship",
+    "name": "starship",
+    "href": "https://github.com/starship/starship",
+    "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+    "language": "Rust",
+    "stars": 11589,
+    "forks": 503,
+    "starsInPeriod": 732
+  },
+  {
+    "author": "localstack",
+    "name": "localstack",
+    "href": "https://github.com/localstack/localstack",
+    "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!",
+    "language": "Python",
+    "stars": 27245,
+    "forks": 2112,
+    "starsInPeriod": 135
+  },
+  {
+    "author": "acidanthera",
+    "name": "OpenCorePkg",
+    "href": "https://github.com/acidanthera/OpenCorePkg",
+    "description": "OpenCore bootloader",
+    "language": "C",
+    "stars": 5240,
+    "forks": 902,
     "starsInPeriod": 106
   },
   {
-    "author": "Qv2ray",
-    "name": "Qv2ray",
-    "href": "https://github.com/Qv2ray/Qv2ray",
-    "description": "⭐ Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt5 开发 | 可拓展插件式设计 ⭐",
-    "language": "C++",
-    "stars": 6802,
-    "forks": 1112,
-    "starsInPeriod": 196
-  },
-  {
-    "author": "xkcoding",
-    "name": "spring-boot-demo",
-    "href": "https://github.com/xkcoding/spring-boot-demo",
-    "description": "spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…",
-    "language": "Java",
-    "stars": 18936,
-    "forks": 6482,
-    "starsInPeriod": 255
-  },
-  {
-    "author": "kangvcar",
-    "name": "InfoSpider",
-    "href": "https://github.com/kangvcar/InfoSpider",
-    "description": "INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。",
-    "language": "Python",
-    "stars": 3406,
-    "forks": 669,
-    "starsInPeriod": 356
-  },
-  {
-    "author": "pcm-dpc",
-    "name": "COVID-19",
-    "href": "https://github.com/pcm-dpc/COVID-19",
-    "description": "COVID-19 Italia - Monitoraggio situazione",
-    "language": "",
-    "stars": 3635,
-    "forks": 2043,
-    "starsInPeriod": 58
-  },
-  {
-    "author": "benawad",
-    "name": "vscode-stories",
-    "href": "https://github.com/benawad/vscode-stories",
-    "description": "Stories for VSCode",
+    "author": "thenewboston-developers",
+    "name": "Account-Manager",
+    "href": "https://github.com/thenewboston-developers/Account-Manager",
+    "description": "Account manager desktop application for thenewboston digital currency.",
     "language": "TypeScript",
-    "stars": 1598,
-    "forks": 79,
-    "starsInPeriod": 483
-  },
-  {
-    "author": "chinese-poetry",
-    "name": "chinese-poetry",
-    "href": "https://github.com/chinese-poetry/chinese-poetry",
-    "description": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。 阿里招 Python P6/P7 上海张江, gaojunqi@outlook.com",
-    "language": "JavaScript",
-    "stars": 30268,
-    "forks": 6210,
-    "starsInPeriod": 104
-  },
-  {
-    "author": "tdlib",
-    "name": "td",
-    "href": "https://github.com/tdlib/td",
-    "description": "Cross-platform library for building Telegram clients",
-    "language": "C++",
-    "stars": 3030,
-    "forks": 616,
-    "starsInPeriod": 43
-  },
-  {
-    "author": "iamadamdev",
-    "name": "bypass-paywalls-chrome",
-    "href": "https://github.com/iamadamdev/bypass-paywalls-chrome",
-    "description": "Bypass Paywalls web browser extension for Chrome and Firefox.",
-    "language": "JavaScript",
-    "stars": 10758,
-    "forks": 745,
-    "starsInPeriod": 236
-  },
-  {
-    "author": "EastWorld",
-    "name": "wechat-app-mall",
-    "href": "https://github.com/EastWorld/wechat-app-mall",
-    "description": "微信小程序商城，微信小程序微店",
-    "language": "JavaScript",
-    "stars": 13457,
-    "forks": 4837,
-    "starsInPeriod": 78
-  },
-  {
-    "author": "ocornut",
-    "name": "imgui",
-    "href": "https://github.com/ocornut/imgui",
-    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
-    "language": "C++",
-    "stars": 24760,
-    "forks": 4130,
-    "starsInPeriod": 508
-  },
-  {
-    "author": "apache",
-    "name": "arrow",
-    "href": "https://github.com/apache/arrow",
-    "description": "Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…",
-    "language": "C++",
-    "stars": 6442,
-    "forks": 1639,
-    "starsInPeriod": 48
-  },
-  {
-    "author": "alievk",
-    "name": "avatarify",
-    "href": "https://github.com/alievk/avatarify",
-    "description": "Avatars for Zoom, Skype and other video-conferencing apps.",
-    "language": "Python",
-    "stars": 9331,
-    "forks": 1279,
-    "starsInPeriod": 70
+    "stars": 284,
+    "forks": 104,
+    "starsInPeriod": 69
   }
 ]
