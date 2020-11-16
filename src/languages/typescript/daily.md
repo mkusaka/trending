@@ -1,51 +1,51 @@
 # typescript
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui)
   - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [lireddit](https://github.com/benawad/lireddit)
-  - 
-- [homebridge](https://github.com/homebridge/homebridge)
-  - HomeKit support for the impatient
-- [playwright](https://github.com/microsoft/playwright)
-  - Node.js library to automate Chromium, Firefox and WebKit with a single API
-- [pixi.js](https://github.com/pixijs/pixi.js)
-  - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [frontend](https://github.com/home-assistant/frontend)
   - 🍭 Frontend for Home Assistant
-- [uniswap-interface](https://github.com/Uniswap/uniswap-interface)
-  - 🦄 An open source interface for the Uniswap protocol
-- [jsx-lite](https://github.com/BuilderIO/jsx-lite)
-  - Write components once, run everywhere. Compiles to Vue, React, Solid, Liquid, Svelte, and more.
-- [n8n](https://github.com/n8n-io/n8n)
-  - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
-- [vscode-stories](https://github.com/ide-stories/vscode-stories)
-  - Stories for VSCode
-- [streamlabs-obs](https://github.com/stream-labs/streamlabs-obs)
-  - Free and open source streaming software built on OBS and Electron.
-- [etcher](https://github.com/balena-io/etcher)
-  - Flash OS images to SD cards & USB drives, safely and easily.
-- [excalidraw](https://github.com/excalidraw/excalidraw)
-  - Virtual whiteboard for sketching hand-drawn like diagrams
+- [vscode-stories-serverless-image-uploader](https://github.com/benawad/vscode-stories-serverless-image-uploader)
+  - uploads gifs to azure blob storage
 - [vscode-stories-api](https://github.com/ide-stories/vscode-stories-api)
   - api for vscode stories
-- [ngx-admin](https://github.com/akveo/ngx-admin)
-  - Customizable admin dashboard template based on Angular 10+
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
-- [vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
-  - VS Code Jupyter extension
-- [angular-cli](https://github.com/angular/angular-cli)
-  - CLI tool for Angular
-- [react-flow-chart](https://github.com/MrBlenny/react-flow-chart)
-  - A flexible, stateless, declarative flow chart library for react.
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [react-firebase-hooks](https://github.com/CSFrequency/react-firebase-hooks)
-  - React Hooks for Firebase.
-- [playground](https://github.com/tensorflow/playground)
-  - Play with neural networks!
+- [chrome](https://github.com/browserless/chrome)
+  - Chrome as a service in docker. Run on our cloud, or bring your own
+- [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer)
+  - An extension for VS Code that visualizes data during debugging.
+- [angularfire](https://github.com/angular/angularfire)
+  - The official Angular library for Firebase.
+- [cxmooc-tools](https://github.com/CodFrm/cxmooc-tools)
+  - 一个 超星(学习通)/智慧树(知到)/中国大学慕课 刷课工具,火狐,谷歌,油猴支持.全自动任务,视频倍速秒过,作业考试题库,验证码自动打码(੧ᐛ੭挂科模式,启动)
+- [xstate](https://github.com/davidkpiano/xstate)
+  - State machines and statecharts for the modern web.
+- [typeorm](https://github.com/typeorm/typeorm)
+  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+- [bulletproof-nodejs](https://github.com/santiq/bulletproof-nodejs)
+  - Implementation of a bulletproof node.js API 🛡️
+- [NodePolus](https://github.com/roobscoob/NodePolus)
+  - NodePolus is a JavaScript library containing Implementations for working with Among Us.
+- [solid](https://github.com/ryansolid/solid)
+  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [TypeScript](https://github.com/microsoft/TypeScript)
+  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [lireddit](https://github.com/benawad/lireddit)
+  - 
+- [jsx-lite](https://github.com/BuilderIO/jsx-lite)
+  - Write components once, run everywhere. Compiles to Vue, React, Solid, Liquid, Svelte, and more.
+- [uniswap-interface](https://github.com/Uniswap/uniswap-interface)
+  - 🦄 An open source interface for the Uniswap protocol
 - [blitz](https://github.com/blitz-js/blitz)
   - ⚡️The Fullstack React Framework — built on Next.js
-- [Babylon.js](https://github.com/BabylonJS/Babylon.js)
-  - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
-- [deno](https://github.com/denoland/deno)
-  - A secure JavaScript and TypeScript runtime
+- [outline-client](https://github.com/Jigsaw-Code/outline-client)
+  - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
+- [instagram-private-api](https://github.com/dilame/instagram-private-api)
+  - NodeJS Instagram private API SDK. Written in TypeScript.
+- [typescript-book](https://github.com/basarat/typescript-book)
+  - 📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖. Free and Open Source 🌹
+- [scite-zotero-plugin](https://github.com/scitedotai/scite-zotero-plugin)
+  - scite zotero plugin
+- [super-productivity](https://github.com/johannesjo/super-productivity)
+  - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration
+- [react-three-fiber](https://github.com/pmndrs/react-three-fiber)
+  - 🇨🇭 A React renderer for Three.js (web and react-native)
+- [vscode-gitlens](https://github.com/eamodio/vscode-gitlens)
+  - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more

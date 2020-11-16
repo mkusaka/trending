@@ -1,51 +1,51 @@
 # c++
+- [bitcoin](https://github.com/bitcoin/bitcoin)
+  - Bitcoin Core integration/staging tree
 - [rehex](https://github.com/solemnwarning/rehex)
   - Reverse Engineers' Hex Editor
-- [openedr](https://github.com/ComodoSecurity/openedr)
-  - Open EDR public repository
-- [redpanda](https://github.com/vectorizedio/redpanda)
-  - Redpanda is the real-time engine for modern apps.
-- [kphp](https://github.com/VKCOM/kphp)
-  - KPHP — a PHP compiler
-- [rr](https://github.com/rr-debugger/rr)
-  - Record and Replay Framework
-- [WLED](https://github.com/Aircoookie/WLED)
-  - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
+- [drogon](https://github.com/an-tao/drogon)
+  - Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows
+- [MuseScore](https://github.com/musescore/MuseScore)
+  - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
+- [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
+  - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
+- [imgui](https://github.com/ocornut/imgui)
+  - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [godot](https://github.com/godotengine/godot)
   - Godot Engine – Multi-platform 2D and 3D game engine
-- [xbmc](https://github.com/xbmc/xbmc)
-  - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
-- [workflow](https://github.com/sogou/workflow)
-  - C++ Programming Paradigm with Asynchronous Networking
-- [Magisk](https://github.com/topjohnwu/Magisk)
-  - The Magic Mask for Android
-- [electron](https://github.com/electron/electron)
-  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [obs-websocket](https://github.com/Palakis/obs-websocket)
-  - Remote-control OBS Studio through WebSockets
-- [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
-  - Image, GIF and Video enlarger/upscaler(super-resolution) achieved with Waifu2x, SRMD, RealSR, Anime4K and ACNet.
-- [Hazel](https://github.com/TheCherno/Hazel)
-  - Hazel Engine
-- [json](https://github.com/nlohmann/json)
-  - JSON for Modern C++
-- [MultiMC5](https://github.com/MultiMC/MultiMC5)
-  - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 - [qBittorrent](https://github.com/qbittorrent/qBittorrent)
   - qBittorrent BitTorrent client
-- [ethminer](https://github.com/ethereum-mining/ethminer)
-  - Ethereum miner with OpenCL, CUDA and stratum support
-- [Raccine](https://github.com/Neo23x0/Raccine)
-  - A Simple Ransomware Vaccine
+- [DeepSpeech](https://github.com/mozilla/DeepSpeech)
+  - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
+- [WLED](https://github.com/Aircoookie/WLED)
+  - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
+- [xbmc](https://github.com/xbmc/xbmc)
+  - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
 - [open-zwave](https://github.com/OpenZWave/open-zwave)
   - a C++ library to control Z-Wave Networks via a USB Z-Wave Controller.
-- [cereal](https://github.com/USCiLab/cereal)
-  - A C++11 library for serialization
-- [Arduino](https://github.com/esp8266/Arduino)
-  - ESP8266 core for Arduino
-- [PrusaSlicer](https://github.com/prusa3d/PrusaSlicer)
-  - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
-- [pybind11](https://github.com/pybind/pybind11)
-  - Seamless operability between C++11 and Python
-- [picotorrent](https://github.com/picotorrent/picotorrent)
-  - A tiny, hackable BitTorrent client.
+- [googletest](https://github.com/google/googletest)
+  - Googletest - Google Testing and Mocking Framework
+- [fmt](https://github.com/fmtlib/fmt)
+  - A modern formatting library
+- [Telegram](https://github.com/DrKLO/Telegram)
+  - Telegram for Android source
+- [Magisk](https://github.com/topjohnwu/Magisk)
+  - The Magic Mask for Android
+- [esphome](https://github.com/esphome/esphome)
+  - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+- [ac-library](https://github.com/atcoder/ac-library)
+  - AtCoder Library
+- [ardupilot](https://github.com/ArduPilot/ardupilot)
+  - ArduPlane, ArduCopter, ArduRover source
+- [pytorch](https://github.com/pytorch/pytorch)
+  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [Marlin](https://github.com/MarlinFirmware/Marlin)
+  - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
+- [rpcs3](https://github.com/RPCS3/rpcs3)
+  - PS3 emulator/debugger
+- [yuzu](https://github.com/yuzu-emu/yuzu)
+  - Nintendo Switch Emulator
+- [jetson-inference](https://github.com/dusty-nv/jetson-inference)
+  - Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
+- [aseprite](https://github.com/aseprite/aseprite)
+  - Animated sprite editor & pixel art tool (Windows, macOS, Linux)

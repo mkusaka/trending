@@ -1,13 +1,13 @@
 [
   {
-    "author": "rapid7",
-    "name": "metasploit-framework",
-    "href": "https://github.com/rapid7/metasploit-framework",
-    "description": "Metasploit Framework",
+    "author": "ruby",
+    "name": "ruby",
+    "href": "https://github.com/ruby/ruby",
+    "description": "The Ruby Programming Language [mirror]",
     "language": "Ruby",
-    "stars": 22095,
-    "forks": 10630,
-    "starsInPeriod": 25
+    "stars": 17504,
+    "forks": 4670,
+    "starsInPeriod": 4
   },
   {
     "author": "Homebrew",
@@ -15,9 +15,19 @@
     "href": "https://github.com/Homebrew/brew",
     "description": "🍺 The missing package manager for macOS (or Linux)",
     "language": "Ruby",
-    "stars": 23734,
-    "forks": 5551,
-    "starsInPeriod": 56
+    "stars": 23759,
+    "forks": 5553,
+    "starsInPeriod": 31
+  },
+  {
+    "author": "fluent",
+    "name": "fluentd",
+    "href": "https://github.com/fluent/fluentd",
+    "description": "Fluentd: Unified Logging Layer (project under CNCF)",
+    "language": "Ruby",
+    "stars": 9707,
+    "forks": 1117,
+    "starsInPeriod": 4
   },
   {
     "author": "jekyll",
@@ -25,19 +35,19 @@
     "href": "https://github.com/jekyll/jekyll",
     "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
     "language": "Ruby",
-    "stars": 41610,
-    "forks": 9099,
-    "starsInPeriod": 12
+    "stars": 41614,
+    "forks": 9103,
+    "starsInPeriod": 5
   },
   {
-    "author": "Homebrew",
-    "name": "homebrew-cask",
-    "href": "https://github.com/Homebrew/homebrew-cask",
-    "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
+    "author": "rapid7",
+    "name": "metasploit-framework",
+    "href": "https://github.com/rapid7/metasploit-framework",
+    "description": "Metasploit Framework",
     "language": "Ruby",
-    "stars": 17610,
-    "forks": 8653,
-    "starsInPeriod": 9
+    "stars": 22103,
+    "forks": 10632,
+    "starsInPeriod": 11
   },
   {
     "author": "freeCodeCamp",
@@ -45,19 +55,19 @@
     "href": "https://github.com/freeCodeCamp/devdocs",
     "description": "API Documentation Browser",
     "language": "Ruby",
-    "stars": 24220,
-    "forks": 1644,
+    "stars": 24237,
+    "forks": 1646,
     "starsInPeriod": 17
   },
   {
-    "author": "OpenCSPM",
-    "name": "opencspm",
-    "href": "https://github.com/OpenCSPM/opencspm",
-    "description": "Open Cloud Security Posture Management Engine",
+    "author": "rails",
+    "name": "rails",
+    "href": "https://github.com/rails/rails",
+    "description": "Ruby on Rails",
     "language": "Ruby",
-    "stars": 60,
-    "forks": 2,
-    "starsInPeriod": 50
+    "stars": 46940,
+    "forks": 18853,
+    "starsInPeriod": 12
   },
   {
     "author": "sonic-pi-net",
@@ -65,9 +75,19 @@
     "href": "https://github.com/sonic-pi-net/sonic-pi",
     "description": "Code. Music. Live.",
     "language": "Ruby",
-    "stars": 6258,
+    "stars": 6263,
     "forks": 689,
     "starsInPeriod": 5
+  },
+  {
+    "author": "OpenCSPM",
+    "name": "opencspm",
+    "href": "https://github.com/OpenCSPM/opencspm",
+    "description": "Open Cloud Security Posture Management Engine",
+    "language": "Ruby",
+    "stars": 85,
+    "forks": 4,
+    "starsInPeriod": 26
   },
   {
     "author": "gitlabhq",
@@ -75,29 +95,39 @@
     "href": "https://github.com/gitlabhq/gitlabhq",
     "description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com",
     "language": "Ruby",
-    "stars": 22408,
-    "forks": 5619,
+    "stars": 22410,
+    "forks": 5620,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "opf",
+    "name": "openproject",
+    "href": "https://github.com/opf/openproject",
+    "description": "OpenProject is the leading open source project management software.",
+    "language": "Ruby",
+    "stars": 4353,
+    "forks": 1317,
     "starsInPeriod": 4
   },
   {
-    "author": "tootsuite",
-    "name": "mastodon",
-    "href": "https://github.com/tootsuite/mastodon",
-    "description": "Your self-hosted, globally interconnected microblogging community",
+    "author": "hartator",
+    "name": "wayback-machine-downloader",
+    "href": "https://github.com/hartator/wayback-machine-downloader",
+    "description": "Download an entire website from the Wayback Machine.",
     "language": "Ruby",
-    "stars": 22271,
-    "forks": 3795,
-    "starsInPeriod": 24
+    "stars": 2420,
+    "forks": 375,
+    "starsInPeriod": 6
   },
   {
-    "author": "rubocop-hq",
-    "name": "rubocop",
-    "href": "https://github.com/rubocop-hq/rubocop",
-    "description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
+    "author": "rails",
+    "name": "webpacker",
+    "href": "https://github.com/rails/webpacker",
+    "description": "Use Webpack to manage app-like JavaScript modules in Rails",
     "language": "Ruby",
-    "stars": 11150,
-    "forks": 2528,
-    "starsInPeriod": 4
+    "stars": 4934,
+    "forks": 1305,
+    "starsInPeriod": 1
   },
   {
     "author": "Homebrew",
@@ -105,29 +135,9 @@
     "href": "https://github.com/Homebrew/homebrew-core",
     "description": "🍻 Default formulae for the missing package manager for macOS",
     "language": "Ruby",
-    "stars": 8273,
-    "forks": 8555,
+    "stars": 8280,
+    "forks": 8563,
     "starsInPeriod": 8
-  },
-  {
-    "author": "elastic",
-    "name": "logstash",
-    "href": "https://github.com/elastic/logstash",
-    "description": "Logstash - transport and process your logs, events, or other data",
-    "language": "Ruby",
-    "stars": 11776,
-    "forks": 3086,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "twitterdev",
-    "name": "Twitter-API-v2-sample-code",
-    "href": "https://github.com/twitterdev/Twitter-API-v2-sample-code",
-    "description": "Sample code for the Twitter API early access endpoints (Python, Java, Ruby, and Node.js).",
-    "language": "Ruby",
-    "stars": 86,
-    "forks": 53,
-    "starsInPeriod": 4
   },
   {
     "author": "Homebrew",
@@ -135,89 +145,39 @@
     "href": "https://github.com/Homebrew/homebrew-bundle",
     "description": "📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.",
     "language": "Ruby",
-    "stars": 3430,
-    "forks": 213,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "wpscanteam",
-    "name": "wpscan",
-    "href": "https://github.com/wpscanteam/wpscan",
-    "description": "WPScan is a free, for non-commercial use, black box WordPress security scanner written for security professionals and blog maintainers to test the security of their WordPress websites.",
-    "language": "Ruby",
-    "stars": 5283,
-    "forks": 948,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "luggit",
-    "name": "react-native-config",
-    "href": "https://github.com/luggit/react-native-config",
-    "description": "Bring some 12 factor love to your mobile apps!",
-    "language": "Ruby",
-    "stars": 3366,
-    "forks": 544,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "github",
-    "name": "linguist",
-    "href": "https://github.com/github/linguist",
-    "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
-    "language": "Ruby",
-    "stars": 8214,
-    "forks": 2969,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "iberianpig",
-    "name": "fusuma",
-    "href": "https://github.com/iberianpig/fusuma",
-    "description": "Multitouch gestures with libinput driver on Linux",
-    "language": "Ruby",
-    "stars": 2174,
-    "forks": 114,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "rubygems",
-    "name": "rubygems",
-    "href": "https://github.com/rubygems/rubygems",
-    "description": "Library packaging and distribution for Ruby.",
-    "language": "Ruby",
-    "stars": 2487,
-    "forks": 1257,
-    "starsInPeriod": 1
+    "stars": 3432,
+    "forks": 214,
+    "starsInPeriod": 2
   },
   {
     "author": "Homebrew",
-    "name": "homebrew-cask-fonts",
-    "href": "https://github.com/Homebrew/homebrew-cask-fonts",
-    "description": "🖋 Casks of Ｆ🅾𝓝𝐓𝚂",
+    "name": "homebrew-cask",
+    "href": "https://github.com/Homebrew/homebrew-cask",
+    "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
     "language": "Ruby",
-    "stars": 1882,
-    "forks": 362,
-    "starsInPeriod": 6
+    "stars": 17612,
+    "forks": 8657,
+    "starsInPeriod": 4
   },
   {
-    "author": "Hackplayers",
-    "name": "evil-winrm",
-    "href": "https://github.com/Hackplayers/evil-winrm",
-    "description": "The ultimate WinRM shell for hacking/pentesting",
+    "author": "urbanadventurer",
+    "name": "WhatWeb",
+    "href": "https://github.com/urbanadventurer/WhatWeb",
+    "description": "Next generation web scanner",
     "language": "Ruby",
-    "stars": 1429,
-    "forks": 295,
-    "starsInPeriod": 1
+    "stars": 2717,
+    "forks": 656,
+    "starsInPeriod": 5
   },
   {
-    "author": "rswag",
-    "name": "rswag",
-    "href": "https://github.com/rswag/rswag",
-    "description": "Seamlessly adds a Swagger to Rails-based API's",
+    "author": "redmine",
+    "name": "redmine",
+    "href": "https://github.com/redmine/redmine",
+    "description": "Mirror of redmine code source - Official SVN repository is at https://svn.redmine.org/redmine - contact: @jbbarth or jeanbaptiste.barth (at) gmail (dot) com",
     "language": "Ruby",
-    "stars": 890,
-    "forks": 241,
-    "starsInPeriod": 3
+    "stars": 3908,
+    "forks": 2002,
+    "starsInPeriod": 2
   },
   {
     "author": "github",
@@ -225,18 +185,38 @@
     "href": "https://github.com/github/explore",
     "description": "Community-curated topic and collection pages on GitHub",
     "language": "Ruby",
-    "stars": 1964,
-    "forks": 7661,
-    "starsInPeriod": 3
+    "stars": 1967,
+    "forks": 7666,
+    "starsInPeriod": 4
   },
   {
-    "author": "d12frosted",
-    "name": "homebrew-emacs-plus",
-    "href": "https://github.com/d12frosted/homebrew-emacs-plus",
-    "description": "Emacs Plus formulae for the Homebrew package manager",
+    "author": "sinatra",
+    "name": "sinatra",
+    "href": "https://github.com/sinatra/sinatra",
+    "description": "Classy web-development dressed in a DSL (official / canonical repo)",
     "language": "Ruby",
-    "stars": 822,
-    "forks": 79,
+    "stars": 11125,
+    "forks": 1997,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "puppetlabs",
+    "name": "puppet",
+    "href": "https://github.com/puppetlabs/puppet",
+    "description": "Server automation framework and application",
+    "language": "Ruby",
+    "stars": 5962,
+    "forks": 2171,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "postalhq",
+    "name": "postal",
+    "href": "https://github.com/postalhq/postal",
+    "description": "📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail",
+    "language": "Ruby",
+    "stars": 10089,
+    "forks": 654,
     "starsInPeriod": 1
   },
   {
@@ -245,8 +225,28 @@
     "href": "https://github.com/geerlingguy/raspberry-pi-pcie-devices",
     "description": "Raspberry Pi PCI Express device compatibility database",
     "language": "Ruby",
-    "stars": 93,
+    "stars": 95,
     "forks": 5,
-    "starsInPeriod": 9
+    "starsInPeriod": 4
+  },
+  {
+    "author": "openstreetmap",
+    "name": "openstreetmap-website",
+    "href": "https://github.com/openstreetmap/openstreetmap-website",
+    "description": "The Rails application that powers OpenStreetMap",
+    "language": "Ruby",
+    "stars": 1194,
+    "forks": 677,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "bayandin",
+    "name": "awesome-awesomeness",
+    "href": "https://github.com/bayandin/awesome-awesomeness",
+    "description": "A curated list of awesome awesomeness",
+    "language": "Ruby",
+    "stars": 26888,
+    "forks": 3319,
+    "starsInPeriod": 6
   }
 ]
