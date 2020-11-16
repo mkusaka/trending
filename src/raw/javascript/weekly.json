@@ -1,103 +1,63 @@
 [
   {
-    "author": "GitSquared",
-    "name": "edex-ui",
-    "href": "https://github.com/GitSquared/edex-ui",
-    "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "author": "Marak",
+    "name": "faker.js",
+    "href": "https://github.com/Marak/faker.js",
+    "description": "generate massive amounts of realistic fake data in Node.js and the browser",
     "language": "JavaScript",
-    "stars": 22573,
-    "forks": 1256,
-    "starsInPeriod": 3016
+    "stars": 27642,
+    "forks": 2382,
+    "starsInPeriod": 1979
   },
   {
-    "author": "LAB-MI",
-    "name": "attestation-deplacement-derogatoire-q4-2020",
-    "href": "https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020",
-    "description": "attestation-deplacement-derogatoire-q4-2020 public",
+    "author": "ffmpegwasm",
+    "name": "ffmpeg.wasm",
+    "href": "https://github.com/ffmpegwasm/ffmpeg.wasm",
+    "description": "FFmpeg for browser and node, powered by WebAssembly",
     "language": "JavaScript",
-    "stars": 321,
-    "forks": 280,
-    "starsInPeriod": 106
+    "stars": 2585,
+    "forks": 94,
+    "starsInPeriod": 295
   },
   {
-    "author": "chinese-poetry",
-    "name": "chinese-poetry",
-    "href": "https://github.com/chinese-poetry/chinese-poetry",
-    "description": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。 阿里招 Python P6/P7 上海张江, gaojunqi@outlook.com",
+    "author": "mermaid-js",
+    "name": "mermaid",
+    "href": "https://github.com/mermaid-js/mermaid",
+    "description": "Generation of diagram and flowchart from text in a similar manner as markdown",
     "language": "JavaScript",
-    "stars": 30268,
-    "forks": 6210,
-    "starsInPeriod": 104
+    "stars": 32830,
+    "forks": 2225,
+    "starsInPeriod": 214
   },
   {
-    "author": "iamadamdev",
-    "name": "bypass-paywalls-chrome",
-    "href": "https://github.com/iamadamdev/bypass-paywalls-chrome",
-    "description": "Bypass Paywalls web browser extension for Chrome and Firefox.",
+    "author": "PavelDoGreat",
+    "name": "WebGL-Fluid-Simulation",
+    "href": "https://github.com/PavelDoGreat/WebGL-Fluid-Simulation",
+    "description": "Play with fluids in your browser (works even on mobile)",
     "language": "JavaScript",
-    "stars": 10758,
-    "forks": 745,
-    "starsInPeriod": 236
+    "stars": 10088,
+    "forks": 925,
+    "starsInPeriod": 811
   },
   {
-    "author": "EastWorld",
-    "name": "wechat-app-mall",
-    "href": "https://github.com/EastWorld/wechat-app-mall",
-    "description": "微信小程序商城，微信小程序微店",
+    "author": "yogeshojha",
+    "name": "rengine",
+    "href": "https://github.com/yogeshojha/rengine",
+    "description": "reNgine is an automated reconnaissance framework meant for information gathering during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.",
     "language": "JavaScript",
-    "stars": 13457,
-    "forks": 4837,
-    "starsInPeriod": 78
+    "stars": 2039,
+    "forks": 295,
+    "starsInPeriod": 477
   },
   {
-    "author": "AMAI-GmbH",
-    "name": "AI-Expert-Roadmap",
-    "href": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
-    "description": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
+    "author": "ryanmcdermott",
+    "name": "clean-code-javascript",
+    "href": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "description": "🛁 Clean Code concepts adapted for JavaScript",
     "language": "JavaScript",
-    "stars": 4659,
-    "forks": 381,
-    "starsInPeriod": 3328
-  },
-  {
-    "author": "algorithm-visualizer",
-    "name": "algorithm-visualizer",
-    "href": "https://github.com/algorithm-visualizer/algorithm-visualizer",
-    "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
-    "language": "JavaScript",
-    "stars": 32480,
-    "forks": 5399,
-    "starsInPeriod": 648
-  },
-  {
-    "author": "lxk0301",
-    "name": "scripts",
-    "href": "https://github.com/lxk0301/scripts",
-    "description": "京东薅羊毛工具, 京东水果、宠物、种豆等等",
-    "language": "JavaScript",
-    "stars": 2461,
-    "forks": 2942,
-    "starsInPeriod": 602
-  },
-  {
-    "author": "denysdovhan",
-    "name": "wtfjs",
-    "href": "https://github.com/denysdovhan/wtfjs",
-    "description": "🤪 A list of funny and tricky JavaScript examples",
-    "language": "JavaScript",
-    "stars": 19511,
-    "forks": 1268,
-    "starsInPeriod": 515
-  },
-  {
-    "author": "ShizukuIchi",
-    "name": "winXP",
-    "href": "https://github.com/ShizukuIchi/winXP",
-    "description": "🏁 Web based Windows XP desktop recreation.",
-    "language": "JavaScript",
-    "stars": 4173,
-    "forks": 226,
-    "starsInPeriod": 286
+    "stars": 40913,
+    "forks": 4953,
+    "starsInPeriod": 896
   },
   {
     "author": "iptv-org",
@@ -105,9 +65,19 @@
     "href": "https://github.com/iptv-org/iptv",
     "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
     "language": "JavaScript",
-    "stars": 20408,
-    "forks": 82,
-    "starsInPeriod": 141
+    "stars": 20859,
+    "forks": 126,
+    "starsInPeriod": 472
+  },
+  {
+    "author": "newbee-ltd",
+    "name": "newbee-mall-vue3-app",
+    "href": "https://github.com/newbee-ltd/newbee-mall-vue3-app",
+    "description": "新蜂商城Vue3版本",
+    "language": "JavaScript",
+    "stars": 478,
+    "forks": 114,
+    "starsInPeriod": 227
   },
   {
     "author": "w37fhy",
@@ -115,19 +85,29 @@
     "href": "https://github.com/w37fhy/QuantumultX",
     "description": "同步和更新大佬脚本库，更新懒人配置",
     "language": "JavaScript",
-    "stars": 245,
-    "forks": 59,
-    "starsInPeriod": 74
+    "stars": 347,
+    "forks": 82,
+    "starsInPeriod": 108
   },
   {
-    "author": "socketio",
-    "name": "socket.io",
-    "href": "https://github.com/socketio/socket.io",
-    "description": "Realtime application framework (Node.JS server)",
+    "author": "ix64",
+    "name": "unlock-music",
+    "href": "https://github.com/ix64/unlock-music",
+    "description": "Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。",
     "language": "JavaScript",
-    "stars": 51422,
-    "forks": 9308,
-    "starsInPeriod": 402
+    "stars": 5253,
+    "forks": 1048,
+    "starsInPeriod": 154
+  },
+  {
+    "author": "yangshun",
+    "name": "tech-interview-handbook",
+    "href": "https://github.com/yangshun/tech-interview-handbook",
+    "description": "💯 Materials to help you rock your next coding interview",
+    "language": "JavaScript",
+    "stars": 46492,
+    "forks": 6582,
+    "starsInPeriod": 635
   },
   {
     "author": "chavyleung",
@@ -135,118 +115,138 @@
     "href": "https://github.com/chavyleung/scripts",
     "description": null,
     "language": "JavaScript",
-    "stars": 1582,
-    "forks": 540,
-    "starsInPeriod": 63
+    "stars": 1656,
+    "forks": 560,
+    "starsInPeriod": 80
   },
   {
-    "author": "twbs",
-    "name": "bootstrap",
-    "href": "https://github.com/twbs/bootstrap",
-    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "author": "lerna",
+    "name": "lerna",
+    "href": "https://github.com/lerna/lerna",
+    "description": "🐉 A tool for managing JavaScript projects with multiple packages.",
     "language": "JavaScript",
-    "stars": 145135,
-    "forks": 70970,
-    "starsInPeriod": 168
+    "stars": 25360,
+    "forks": 1636,
+    "starsInPeriod": 117
   },
   {
-    "author": "yogeshojha",
-    "name": "rengine",
-    "href": "https://github.com/yogeshojha/rengine",
-    "description": "reNgine is an automated reconnaissance framework meant for gathering information during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.",
+    "author": "socketio",
+    "name": "socket.io",
+    "href": "https://github.com/socketio/socket.io",
+    "description": "Realtime application framework (Node.JS server)",
     "language": "JavaScript",
-    "stars": 1575,
-    "forks": 272,
-    "starsInPeriod": 84
+    "stars": 51626,
+    "forks": 9320,
+    "starsInPeriod": 222
   },
   {
-    "author": "MhankBarBar",
-    "name": "whatsapp-bot",
-    "href": "https://github.com/MhankBarBar/whatsapp-bot",
-    "description": "WhatsApp Bot",
+    "author": "chinese-poetry",
+    "name": "chinese-poetry",
+    "href": "https://github.com/chinese-poetry/chinese-poetry",
+    "description": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。 阿里招 Python P6/P7 上海张江, gaojunqi@outlook.com",
     "language": "JavaScript",
-    "stars": 93,
-    "forks": 128,
-    "starsInPeriod": 23
+    "stars": 30394,
+    "forks": 6228,
+    "starsInPeriod": 138
   },
   {
-    "author": "laurent22",
-    "name": "joplin",
-    "href": "https://github.com/laurent22/joplin",
-    "description": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
+    "author": "airbnb",
+    "name": "javascript",
+    "href": "https://github.com/airbnb/javascript",
+    "description": "JavaScript Style Guide",
     "language": "JavaScript",
-    "stars": 18703,
-    "forks": 1921,
-    "starsInPeriod": 189
+    "stars": 101485,
+    "forks": 19757,
+    "starsInPeriod": 287
   },
   {
-    "author": "Advanced-Frontend",
-    "name": "Daily-Interview-Question",
-    "href": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
-    "description": "我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。",
+    "author": "denysdovhan",
+    "name": "wtfjs",
+    "href": "https://github.com/denysdovhan/wtfjs",
+    "description": "🤪 A list of funny and tricky JavaScript examples",
     "language": "JavaScript",
-    "stars": 20956,
-    "forks": 2601,
-    "starsInPeriod": 96
+    "stars": 19870,
+    "forks": 1287,
+    "starsInPeriod": 372
   },
   {
-    "author": "jgraph",
-    "name": "drawio",
-    "href": "https://github.com/jgraph/drawio",
-    "description": "Source to app.diagrams.net",
+    "author": "mui-org",
+    "name": "material-ui",
+    "href": "https://github.com/mui-org/material-ui",
+    "description": "React components for faster and easier web development. Build your own design system, or start with Material Design.",
     "language": "JavaScript",
-    "stars": 20278,
-    "forks": 4136,
-    "starsInPeriod": 132
+    "stars": 62475,
+    "forks": 19051,
+    "starsInPeriod": 228
   },
   {
-    "author": "ruicky",
-    "name": "jd_sign_bot",
-    "href": "https://github.com/ruicky/jd_sign_bot",
-    "description": "京东签到机器人",
+    "author": "mrdoob",
+    "name": "three.js",
+    "href": "https://github.com/mrdoob/three.js",
+    "description": "JavaScript 3D library.",
     "language": "JavaScript",
-    "stars": 1361,
-    "forks": 2154,
-    "starsInPeriod": 240
+    "stars": 64830,
+    "forks": 25591,
+    "starsInPeriod": 186
   },
   {
-    "author": "pedroslopez",
-    "name": "whatsapp-web.js",
-    "href": "https://github.com/pedroslopez/whatsapp-web.js",
-    "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+    "author": "michalsnik",
+    "name": "aos",
+    "href": "https://github.com/michalsnik/aos",
+    "description": "Animate on scroll library",
     "language": "JavaScript",
-    "stars": 1180,
-    "forks": 347,
-    "starsInPeriod": 61
+    "stars": 14624,
+    "forks": 1613,
+    "starsInPeriod": 215
   },
   {
-    "author": "vuejs",
-    "name": "vue-cli",
-    "href": "https://github.com/vuejs/vue-cli",
-    "description": "🛠️ Standard Tooling for Vue.js Development",
+    "author": "GoogleChrome",
+    "name": "lighthouse",
+    "href": "https://github.com/GoogleChrome/lighthouse",
+    "description": "Automated auditing, performance metrics, and best practices for the web.",
     "language": "JavaScript",
-    "stars": 26714,
-    "forks": 5158,
-    "starsInPeriod": 69
+    "stars": 21123,
+    "forks": 7397,
+    "starsInPeriod": 53
   },
   {
-    "author": "SheetJS",
-    "name": "sheetjs",
-    "href": "https://github.com/SheetJS/sheetjs",
-    "description": "📗 SheetJS Community Edition -- Spreadsheet Data Toolkit",
+    "author": "invertase",
+    "name": "react-native-firebase",
+    "href": "https://github.com/invertase/react-native-firebase",
+    "description": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.",
     "language": "JavaScript",
-    "stars": 23364,
-    "forks": 6097,
-    "starsInPeriod": 114
+    "stars": 8499,
+    "forks": 1617,
+    "starsInPeriod": 38
   },
   {
-    "author": "nolimits4web",
-    "name": "swiper",
-    "href": "https://github.com/nolimits4web/swiper",
-    "description": "Most modern mobile touch slider with hardware accelerated transitions",
+    "author": "trekhleb",
+    "name": "javascript-algorithms",
+    "href": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "stars": 25266,
-    "forks": 9208,
-    "starsInPeriod": 94
+    "stars": 84852,
+    "forks": 14323,
+    "starsInPeriod": 692
+  },
+  {
+    "author": "standard",
+    "name": "standard",
+    "href": "https://github.com/standard/standard",
+    "description": "🌟 JavaScript Style Guide, with linter & automatic code fixer",
+    "language": "JavaScript",
+    "stars": 24665,
+    "forks": 1923,
+    "starsInPeriod": 70
+  },
+  {
+    "author": "gatsbyjs",
+    "name": "gatsby",
+    "href": "https://github.com/gatsbyjs/gatsby",
+    "description": "Build blazing fast, modern apps and websites with React",
+    "language": "JavaScript",
+    "stars": 47828,
+    "forks": 9048,
+    "starsInPeriod": 119
   }
 ]

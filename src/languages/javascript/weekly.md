@@ -1,51 +1,51 @@
 # javascript
-- [edex-ui](https://github.com/GitSquared/edex-ui)
-  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [attestation-deplacement-derogatoire-q4-2020](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020)
-  - attestation-deplacement-derogatoire-q4-2020 public
-- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
-  - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。 阿里招 Python P6/P7 上海张江, gaojunqi@outlook.com
-- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
-  - Bypass Paywalls web browser extension for Chrome and Firefox.
-- [wechat-app-mall](https://github.com/EastWorld/wechat-app-mall)
-  - 微信小程序商城，微信小程序微店
-- [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
-  - Roadmap to becoming an Artificial Intelligence Expert in 2020
-- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
-  - 🎆Interactive Online Platform that Visualizes Algorithms from Code
-- [scripts](https://github.com/lxk0301/scripts)
-  - 京东薅羊毛工具, 京东水果、宠物、种豆等等
-- [wtfjs](https://github.com/denysdovhan/wtfjs)
-  - 🤪 A list of funny and tricky JavaScript examples
-- [winXP](https://github.com/ShizukuIchi/winXP)
-  - 🏁 Web based Windows XP desktop recreation.
+- [faker.js](https://github.com/Marak/faker.js)
+  - generate massive amounts of realistic fake data in Node.js and the browser
+- [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)
+  - FFmpeg for browser and node, powered by WebAssembly
+- [mermaid](https://github.com/mermaid-js/mermaid)
+  - Generation of diagram and flowchart from text in a similar manner as markdown
+- [WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
+  - Play with fluids in your browser (works even on mobile)
+- [rengine](https://github.com/yogeshojha/rengine)
+  - reNgine is an automated reconnaissance framework meant for information gathering during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - 🛁 Clean Code concepts adapted for JavaScript
 - [iptv](https://github.com/iptv-org/iptv)
   - Collection of 5000+ publicly available IPTV channels from all over the world
+- [newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app)
+  - 新蜂商城Vue3版本
 - [QuantumultX](https://github.com/w37fhy/QuantumultX)
   - 同步和更新大佬脚本库，更新懒人配置
-- [socket.io](https://github.com/socketio/socket.io)
-  - Realtime application framework (Node.JS server)
+- [unlock-music](https://github.com/ix64/unlock-music)
+  - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+  - 💯 Materials to help you rock your next coding interview
 - [scripts](https://github.com/chavyleung/scripts)
   - 
-- [bootstrap](https://github.com/twbs/bootstrap)
-  - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [rengine](https://github.com/yogeshojha/rengine)
-  - reNgine is an automated reconnaissance framework meant for gathering information during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
-- [whatsapp-bot](https://github.com/MhankBarBar/whatsapp-bot)
-  - WhatsApp Bot
-- [joplin](https://github.com/laurent22/joplin)
-  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
-- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
-  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
-- [drawio](https://github.com/jgraph/drawio)
-  - Source to app.diagrams.net
-- [jd_sign_bot](https://github.com/ruicky/jd_sign_bot)
-  - 京东签到机器人
-- [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
-  - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
-- [vue-cli](https://github.com/vuejs/vue-cli)
-  - 🛠️ Standard Tooling for Vue.js Development
-- [sheetjs](https://github.com/SheetJS/sheetjs)
-  - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
-- [swiper](https://github.com/nolimits4web/swiper)
-  - Most modern mobile touch slider with hardware accelerated transitions
+- [lerna](https://github.com/lerna/lerna)
+  - 🐉 A tool for managing JavaScript projects with multiple packages.
+- [socket.io](https://github.com/socketio/socket.io)
+  - Realtime application framework (Node.JS server)
+- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
+  - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。 阿里招 Python P6/P7 上海张江, gaojunqi@outlook.com
+- [javascript](https://github.com/airbnb/javascript)
+  - JavaScript Style Guide
+- [wtfjs](https://github.com/denysdovhan/wtfjs)
+  - 🤪 A list of funny and tricky JavaScript examples
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [three.js](https://github.com/mrdoob/three.js)
+  - JavaScript 3D library.
+- [aos](https://github.com/michalsnik/aos)
+  - Animate on scroll library
+- [lighthouse](https://github.com/GoogleChrome/lighthouse)
+  - Automated auditing, performance metrics, and best practices for the web.
+- [react-native-firebase](https://github.com/invertase/react-native-firebase)
+  - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [standard](https://github.com/standard/standard)
+  - 🌟 JavaScript Style Guide, with linter & automatic code fixer
+- [gatsby](https://github.com/gatsbyjs/gatsby)
+  - Build blazing fast, modern apps and websites with React
