@@ -1,51 +1,51 @@
 # general
-- [GHunt](https://github.com/mxrch/GHunt) : Python
-  - 🕵️‍♂️ Investigate Google Accounts with emails.
-- [Luckysheet](https://github.com/mengshukeji/Luckysheet) : JavaScript
-  - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
-- [base-admin](https://github.com/huanzi-qch/base-admin) : Java
-  - Base Admin一套简单通用的后台管理系统，主要功能有：权限管理、菜单管理、用户管理，系统设置、实时日志，实时监控，API加密，以及登录用户修改密码、配置个性菜单等
-- [scripts](https://github.com/lxk0301/scripts) : JavaScript
-  - 京东薅羊毛工具, 京东水果、宠物、种豆等等
-- [Python](https://github.com/TheAlgorithms/Python) : Python
-  - All Algorithms implemented in Python
-- [v2ray-core](https://github.com/v2fly/v2ray-core) : Go
-  - A platform for building proxies to bypass network restrictions.
-- [NewPipe](https://github.com/TeamNewPipe/NewPipe) : Java
-  - A libre lightweight streaming front-end for Android.
-- [Auto.js](https://github.com/hyb1996/Auto.js) : Java
-  - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
-- [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) : C++
-  - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly
-- [chibicc](https://github.com/rui314/chibicc) : C
-  - A small C compiler
-- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) : JavaScript
-  - Short JavaScript code snippets for all your development needs
-- [open-project-1](https://github.com/UnityTechnologies/open-project-1) : C#
-  - Unity Open Project #1: Action-adventure
-- [masscan](https://github.com/robertdavidgraham/masscan) : C
-  - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
-- [you-get](https://github.com/soimort/you-get) : Python
-  - ⏬ Dumb downloader that scrapes the web
-- [next.js](https://github.com/vercel/next.js) : JavaScript
-  - The React Framework
+- [youtube-dl](https://github.com/l1ving/youtube-dl) : Python
+  - A fork of youtube-dl, for archival purposes. | ORIGINAL REPO NOW REINSTATED
+- [pifuhd](https://github.com/facebookresearch/pifuhd) : Python
+  - High-Resolution 3D Human Digitization from A Single Image.
 - [edex-ui](https://github.com/GitSquared/edex-ui) : JavaScript
   - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) : C++
-  - Awesome multilingual OCR toolkits based on PaddlePaddle （multilingual recognition: English, Chinese, Korean, Japanese, German, French etc. 3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）
-- [COVID-19](https://github.com/pcm-dpc/COVID-19) : 
-  - COVID-19 Italia - Monitoraggio situazione
-- [headlessui](https://github.com/tailwindlabs/headlessui) : TypeScript
-  - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
-- [esbuild](https://github.com/evanw/esbuild) : Go
-  - An extremely fast JavaScript bundler and minifier
+- [yt-dlc](https://github.com/blackjack4494/yt-dlc) : Python
+  - media downloader and libray for various sites.
+- [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) : Python
+  - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
+- [next.js](https://github.com/vercel/next.js) : JavaScript
+  - The React Framework
+- [you-get](https://github.com/soimort/you-get) : Python
+  - ⏬ Dumb downloader that scrapes the web
+- [taobao-11-11](https://github.com/hyue418/taobao-11-11) : JavaScript
+  - 🚀2020淘宝+京东+支付宝双十一|双11全民养猫|全民营业自动化脚本【全额奖励，防检测】
+- [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) : Python
+  - Bringing Old Photo Back to Life (CVPR 2020 oral)
+- [dmca](https://github.com/github/dmca) : Rich Text Format
+  - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
 - [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) : Shell
   - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
-- [Impostor](https://github.com/Impostor/Impostor) : C#
-  - Impostor - An open source reimplementation of the Among Us Server
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course) : JavaScript
-  - Starter files, final projects and FAQ for my Complete JavaScript course
-- [core](https://github.com/home-assistant/core) : Python
-  - 🏡 Open source home automation that puts local control and privacy first
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) : C++
+  - Awesome multilingual OCR toolkits based on PaddlePaddle （multilingual recognition: English, Chinese, Korean, Japanese, German, French etc. 3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）
+- [manim](https://github.com/3b1b/manim) : Python
+  - Animation engine for explanatory math videos
+- [eul](https://github.com/gao-sun/eul) : Swift
+  - 🖥️ macOS status monitoring app written in SwiftUI.
+- [zipline](https://github.com/quantopian/zipline) : Python
+  - Zipline, a Pythonic Algorithmic Trading Library
+- [shardingsphere](https://github.com/apache/shardingsphere) : Java
+  - Distributed database middleware
+- [json](https://github.com/nlohmann/json) : C++
+  - JSON for Modern C++
+- [gibMacOS](https://github.com/corpnewt/gibMacOS) : Python
+  - Py2/py3 script that can download macOS components direct from Apple
+- [h5-Dooring](https://github.com/MrXujiang/h5-Dooring) : TypeScript
+  - (H5编辑器)H5-Dooring是一款功能强大，开源免费的H5可视化页面配置解决方案，致力于提供一套简单方便、专业可靠、无限可能的H5落地页最佳实践。技术栈以react为主， 后台采用nodejs开发.
 - [eladmin](https://github.com/elunez/eladmin) : Java
   - 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
+- [loruki-website](https://github.com/bradtraversy/loruki-website) : HTML
+  - Cloud hosting website
+- [InfoSpider](https://github.com/kangvcar/InfoSpider) : Python
+  - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
+- [COVID-19](https://github.com/pcm-dpc/COVID-19) : 
+  - COVID-19 Italia - Monitoraggio situazione
+- [openpilot](https://github.com/commaai/openpilot) : C++
+  - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
+- [element3](https://github.com/hug-sun/element3) : Vue
+  - A Vue.js 3.0 UI Toolkit for Web.

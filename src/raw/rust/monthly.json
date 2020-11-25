@@ -1,123 +1,33 @@
 [
   {
-    "author": "sharkdp",
-    "name": "bat",
-    "href": "https://github.com/sharkdp/bat",
-    "description": "A cat(1) clone with wings.",
+    "author": "bevyengine",
+    "name": "bevy",
+    "href": "https://github.com/bevyengine/bevy",
+    "description": "A refreshingly simple data-driven game engine built in Rust",
     "language": "Rust",
-    "stars": 23513,
-    "forks": 581,
-    "starsInPeriod": 678
+    "stars": 5229,
+    "forks": 387,
+    "starsInPeriod": 887
   },
   {
-    "author": "paritytech",
-    "name": "substrate",
-    "href": "https://github.com/paritytech/substrate",
-    "description": "Substrate: The platform for blockchain innovators",
+    "author": "starship",
+    "name": "starship",
+    "href": "https://github.com/starship/starship",
+    "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
     "language": "Rust",
-    "stars": 3296,
-    "forks": 958,
-    "starsInPeriod": 354
+    "stars": 12355,
+    "forks": 524,
+    "starsInPeriod": 1755
   },
   {
-    "author": "rust-embedded",
-    "name": "rust-raspberrypi-OS-tutorials",
-    "href": "https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials",
-    "description": "📚 Learn to write an embedded OS in Rust 🦀",
+    "author": "servo",
+    "name": "servo",
+    "href": "https://github.com/servo/servo",
+    "description": "The Servo Browser Engine",
     "language": "Rust",
-    "stars": 2738,
-    "forks": 168,
-    "starsInPeriod": 225
-  },
-  {
-    "author": "hecrj",
-    "name": "iced",
-    "href": "https://github.com/hecrj/iced",
-    "description": "A cross-platform GUI library for Rust, inspired by Elm",
-    "language": "Rust",
-    "stars": 7351,
-    "forks": 299,
-    "starsInPeriod": 411
-  },
-  {
-    "author": "rust-analyzer",
-    "name": "rust-analyzer",
-    "href": "https://github.com/rust-analyzer/rust-analyzer",
-    "description": "An experimental Rust compiler front-end for IDEs",
-    "language": "Rust",
-    "stars": 4641,
-    "forks": 462,
-    "starsInPeriod": 221
-  },
-  {
-    "author": "rust-lang",
-    "name": "rust-clippy",
-    "href": "https://github.com/rust-lang/rust-clippy",
-    "description": "A bunch of lints to catch common mistakes and improve your Rust code",
-    "language": "Rust",
-    "stars": 5160,
-    "forks": 721,
-    "starsInPeriod": 113
-  },
-  {
-    "author": "casperstorm",
-    "name": "ajour",
-    "href": "https://github.com/casperstorm/ajour",
-    "description": "A World of Warcraft addon manager written in Rust.",
-    "language": "Rust",
-    "stars": 567,
-    "forks": 33,
-    "starsInPeriod": 370
-  },
-  {
-    "author": "paritytech",
-    "name": "polkadot",
-    "href": "https://github.com/paritytech/polkadot",
-    "description": "Polkadot Node Implementation",
-    "language": "Rust",
-    "stars": 1672,
-    "forks": 383,
-    "starsInPeriod": 228
-  },
-  {
-    "author": "firecracker-microvm",
-    "name": "firecracker",
-    "href": "https://github.com/firecracker-microvm/firecracker",
-    "description": "Secure and fast microVMs for serverless computing.",
-    "language": "Rust",
-    "stars": 13005,
-    "forks": 897,
-    "starsInPeriod": 244
-  },
-  {
-    "author": "bytecodealliance",
-    "name": "wasmtime",
-    "href": "https://github.com/bytecodealliance/wasmtime",
-    "description": "Standalone JIT-style runtime for WebAssembly, using Cranelift",
-    "language": "Rust",
-    "stars": 4073,
-    "forks": 354,
-    "starsInPeriod": 272
-  },
-  {
-    "author": "tokio-rs",
-    "name": "tokio",
-    "href": "https://github.com/tokio-rs/tokio",
-    "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
-    "language": "Rust",
-    "stars": 9580,
-    "forks": 888,
-    "starsInPeriod": 238
-  },
-  {
-    "author": "LemmyNet",
-    "name": "lemmy",
-    "href": "https://github.com/LemmyNet/lemmy",
-    "description": "🐀 Building a federated alternative to reddit in rust",
-    "language": "Rust",
-    "stars": 4268,
-    "forks": 284,
-    "starsInPeriod": 157
+    "stars": 18679,
+    "forks": 2506,
+    "starsInPeriod": 892
   },
   {
     "author": "alacritty",
@@ -125,89 +35,49 @@
     "href": "https://github.com/alacritty/alacritty",
     "description": "A cross-platform, GPU-accelerated terminal emulator",
     "language": "Rust",
-    "stars": 26159,
-    "forks": 1352,
-    "starsInPeriod": 742
+    "stars": 27035,
+    "forks": 1406,
+    "starsInPeriod": 1117
   },
   {
-    "author": "hyperium",
-    "name": "hyper",
-    "href": "https://github.com/hyperium/hyper",
-    "description": "An HTTP library for Rust",
+    "author": "paritytech",
+    "name": "substrate",
+    "href": "https://github.com/paritytech/substrate",
+    "description": "Substrate: The platform for blockchain innovators",
     "language": "Rust",
-    "stars": 7015,
-    "forks": 910,
-    "starsInPeriod": 212
+    "stars": 3387,
+    "forks": 991,
+    "starsInPeriod": 283
   },
   {
-    "author": "rust-lang",
-    "name": "rust",
-    "href": "https://github.com/rust-lang/rust",
-    "description": "Empowering everyone to build reliable and efficient software.",
+    "author": "bytecodealliance",
+    "name": "wasmtime",
+    "href": "https://github.com/bytecodealliance/wasmtime",
+    "description": "Standalone JIT-style runtime for WebAssembly, using Cranelift",
     "language": "Rust",
-    "stars": 49191,
-    "forks": 7250,
-    "starsInPeriod": 771
+    "stars": 4211,
+    "forks": 364,
+    "starsInPeriod": 284
   },
   {
-    "author": "cloudflare",
-    "name": "quiche",
-    "href": "https://github.com/cloudflare/quiche",
-    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+    "author": "BurntSushi",
+    "name": "ripgrep",
+    "href": "https://github.com/BurntSushi/ripgrep",
+    "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
     "language": "Rust",
-    "stars": 4001,
-    "forks": 252,
-    "starsInPeriod": 211
+    "stars": 22572,
+    "forks": 992,
+    "starsInPeriod": 513
   },
   {
-    "author": "RustPython",
-    "name": "RustPython",
-    "href": "https://github.com/RustPython/RustPython",
-    "description": "A Python Interpreter written in Rust",
+    "author": "paritytech",
+    "name": "polkadot",
+    "href": "https://github.com/paritytech/polkadot",
+    "description": "Polkadot Node Implementation",
     "language": "Rust",
-    "stars": 6106,
-    "forks": 446,
-    "starsInPeriod": 167
-  },
-  {
-    "author": "dandavison",
-    "name": "delta",
-    "href": "https://github.com/dandavison/delta",
-    "description": "A viewer for git and diff output",
-    "language": "Rust",
-    "stars": 5979,
-    "forks": 106,
-    "starsInPeriod": 952
-  },
-  {
-    "author": "WebAssembly",
-    "name": "WASI",
-    "href": "https://github.com/WebAssembly/WASI",
-    "description": "WebAssembly System Interface",
-    "language": "Rust",
-    "stars": 1460,
-    "forks": 102,
-    "starsInPeriod": 60
-  },
-  {
-    "author": "TheAlgorithms",
-    "name": "Rust",
-    "href": "https://github.com/TheAlgorithms/Rust",
-    "description": "All Algorithms implemented in Rust",
-    "language": "Rust",
-    "stars": 1632,
-    "forks": 281,
-    "starsInPeriod": 221
-  },
-  {
-    "author": "tock",
-    "name": "tock",
-    "href": "https://github.com/tock/tock",
-    "description": "A secure embedded operating system for microcontrollers",
-    "language": "Rust",
-    "stars": 2451,
-    "forks": 334,
-    "starsInPeriod": 61
+    "stars": 1740,
+    "forks": 400,
+    "starsInPeriod": 205
   },
   {
     "author": "ruffle-rs",
@@ -215,38 +85,168 @@
     "href": "https://github.com/ruffle-rs/ruffle",
     "description": "A Flash Player emulator written in Rust",
     "language": "Rust",
-    "stars": 3183,
-    "forks": 100,
-    "starsInPeriod": 194
+    "stars": 4275,
+    "forks": 142,
+    "starsInPeriod": 1179
   },
   {
-    "author": "tree-sitter",
-    "name": "tree-sitter",
-    "href": "https://github.com/tree-sitter/tree-sitter",
-    "description": "An incremental parsing system for programming tools",
+    "author": "Geal",
+    "name": "nom",
+    "href": "https://github.com/Geal/nom",
+    "description": "Rust parser combinator framework",
     "language": "Rust",
-    "stars": 3263,
-    "forks": 216,
-    "starsInPeriod": 185
+    "stars": 4534,
+    "forks": 512,
+    "starsInPeriod": 142
   },
   {
-    "author": "chyyuu",
-    "name": "os_kernel_lab",
-    "href": "https://github.com/chyyuu/os_kernel_lab",
-    "description": "OS kernel labs based on Rust Lang & RISC-V 64",
+    "author": "launchbadge",
+    "name": "sqlx",
+    "href": "https://github.com/launchbadge/sqlx",
+    "description": "🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",
     "language": "Rust",
-    "stars": 2720,
-    "forks": 1689,
-    "starsInPeriod": 78
+    "stars": 2969,
+    "forks": 236,
+    "starsInPeriod": 199
+  },
+  {
+    "author": "rust-lang",
+    "name": "rust",
+    "href": "https://github.com/rust-lang/rust",
+    "description": "Empowering everyone to build reliable and efficient software.",
+    "language": "Rust",
+    "stars": 49716,
+    "forks": 7315,
+    "starsInPeriod": 759
+  },
+  {
+    "author": "huggingface",
+    "name": "tokenizers",
+    "href": "https://github.com/huggingface/tokenizers",
+    "description": "💥 Fast State-of-the-Art Tokenizers optimized for Research and Production",
+    "language": "Rust",
+    "stars": 3993,
+    "forks": 285,
+    "starsInPeriod": 151
+  },
+  {
+    "author": "tokio-rs",
+    "name": "tokio",
+    "href": "https://github.com/tokio-rs/tokio",
+    "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+    "language": "Rust",
+    "stars": 9802,
+    "forks": 908,
+    "starsInPeriod": 290
+  },
+  {
+    "author": "async-rs",
+    "name": "async-std",
+    "href": "https://github.com/async-rs/async-std",
+    "description": "Async version of the Rust standard library",
+    "language": "Rust",
+    "stars": 2616,
+    "forks": 247,
+    "starsInPeriod": 66
+  },
+  {
+    "author": "rust-analyzer",
+    "name": "rust-analyzer",
+    "href": "https://github.com/rust-analyzer/rust-analyzer",
+    "description": "An experimental Rust compiler front-end for IDEs",
+    "language": "Rust",
+    "stars": 4791,
+    "forks": 474,
+    "starsInPeriod": 216
+  },
+  {
+    "author": "http-rs",
+    "name": "tide",
+    "href": "https://github.com/http-rs/tide",
+    "description": "Fast and friendly HTTP server framework for async Rust",
+    "language": "Rust",
+    "stars": 2603,
+    "forks": 248,
+    "starsInPeriod": 109
+  },
+  {
+    "author": "tauri-apps",
+    "name": "tauri",
+    "href": "https://github.com/tauri-apps/tauri",
+    "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "language": "Rust",
+    "stars": 7275,
+    "forks": 174,
+    "starsInPeriod": 312
+  },
+  {
+    "author": "swc-project",
+    "name": "swc",
+    "href": "https://github.com/swc-project/swc",
+    "description": "swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.",
+    "language": "Rust",
+    "stars": 9728,
+    "forks": 218,
+    "starsInPeriod": 337
   },
   {
     "author": "cloudflare",
-    "name": "wrangler",
-    "href": "https://github.com/cloudflare/wrangler",
-    "description": "🤠 wrangle your cloudflare workers",
+    "name": "quiche",
+    "href": "https://github.com/cloudflare/quiche",
+    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
     "language": "Rust",
-    "stars": 1757,
-    "forks": 217,
-    "starsInPeriod": 88
+    "stars": 4090,
+    "forks": 261,
+    "starsInPeriod": 143
+  },
+  {
+    "author": "getzola",
+    "name": "zola",
+    "href": "https://github.com/getzola/zola",
+    "description": "A fast static site generator in a single binary with everything built-in. https://www.getzola.org",
+    "language": "Rust",
+    "stars": 4557,
+    "forks": 384,
+    "starsInPeriod": 262
+  },
+  {
+    "author": "curlpipe",
+    "name": "ox",
+    "href": "https://github.com/curlpipe/ox",
+    "description": "An independent Rust text editor that runs in your terminal!",
+    "language": "Rust",
+    "stars": 2179,
+    "forks": 50,
+    "starsInPeriod": 1918
+  },
+  {
+    "author": "WebAssembly",
+    "name": "WASI",
+    "href": "https://github.com/WebAssembly/WASI",
+    "description": "WebAssembly System Interface",
+    "language": "Rust",
+    "stars": 1502,
+    "forks": 105,
+    "starsInPeriod": 69
+  },
+  {
+    "author": "rust-embedded",
+    "name": "rust-raspberrypi-OS-tutorials",
+    "href": "https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials",
+    "description": "📚 Learn to write an embedded OS in Rust 🦀",
+    "language": "Rust",
+    "stars": 2891,
+    "forks": 178,
+    "starsInPeriod": 189
+  },
+  {
+    "author": "996icu",
+    "name": "996.ICU",
+    "href": "https://github.com/996icu/996.ICU",
+    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "language": "Rust",
+    "stars": 252589,
+    "forks": 21113,
+    "starsInPeriod": 786
   }
 ]

@@ -1,51 +1,51 @@
 # ruby
-- [mastodon](https://github.com/tootsuite/mastodon)
-  - Your self-hosted, globally interconnected microblogging community
-- [huginn](https://github.com/huginn/huginn)
-  - Create agents that monitor and act on your behalf. Your agents are standing by!
-- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
-  - Metasploit Framework
-- [openproject](https://github.com/opf/openproject)
-  - OpenProject is the leading open source project management software.
-- [explore](https://github.com/github/explore)
-  - Community-curated topic and collection pages on GitHub
-- [discourse](https://github.com/discourse/discourse)
-  - A platform for community discussion. Free, open, simple.
-- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
-  - The Cocoa Dependency Manager.
-- [how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
-  - A guide to contributing to open source
-- [redmine](https://github.com/redmine/redmine)
-  - Mirror of redmine code source - Official SVN repository is at https://svn.redmine.org/redmine - contact: @jbbarth or jeanbaptiste.barth (at) gmail (dot) com
-- [rubocop](https://github.com/rubocop-hq/rubocop)
-  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [logstash](https://github.com/elastic/logstash)
-  - Logstash - transport and process your logs, events, or other data
-- [view_component](https://github.com/github/view_component)
-  - A framework for building reusable, testable & encapsulated view components in Ruby on Rails.
 - [brew](https://github.com/Homebrew/brew)
   - 🍺 The missing package manager for macOS (or Linux)
-- [faker](https://github.com/faker-ruby/faker)
-  - A library for generating fake data such as names, addresses, and phone numbers.
-- [forem](https://github.com/forem/forem)
-  - For empowering community 🌱
-- [hacktoberfest](https://github.com/digitalocean/hacktoberfest)
-  - Hacktoberfest - App to manage the annual open source challenge.
-- [choosealicense.com](https://github.com/github/choosealicense.com)
-  - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [rails](https://github.com/rails/rails)
   - Ruby on Rails
+- [chatwoot](https://github.com/chatwoot/chatwoot)
+  - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬
+- [discourse](https://github.com/discourse/discourse)
+  - A platform for community discussion. Free, open, simple.
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
+  - Metasploit Framework
+- [faker](https://github.com/faker-ruby/faker)
+  - A library for generating fake data such as names, addresses, and phone numbers.
 - [homebrew-core](https://github.com/Homebrew/homebrew-core)
   - 🍻 Default formulae for the missing package manager for macOS
-- [danger](https://github.com/danger/danger)
-  - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
+- [mastodon](https://github.com/tootsuite/mastodon)
+  - Your self-hosted, globally interconnected microblogging community
 - [solidus](https://github.com/solidusio/solidus)
   - 🛒Solidus, Rails eCommerce System
-- [styles](https://github.com/citation-style-language/styles)
-  - Official repository for Citation Style Language (CSL) citation styles.
-- [active_merchant](https://github.com/activemerchant/active_merchant)
-  - Active Merchant is a simple payment abstraction library extracted from Shopify. The aim of the project is to feel natural to Ruby users and to abstract as many parts as possible away from the user to offer a consistent interface across all supported gateways.
+- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+- [webpacker](https://github.com/rails/webpacker)
+  - Use Webpack to manage app-like JavaScript modules in Rails
+- [scientist](https://github.com/github/scientist)
+  - 🔬 A Ruby library for carefully refactoring critical paths.
+- [explore](https://github.com/github/explore)
+  - Community-curated topic and collection pages on GitHub
 - [factory_bot](https://github.com/thoughtbot/factory_bot)
   - A library for setting up Ruby objects as test data.
-- [sidekiq](https://github.com/mperham/sidekiq)
-  - Simple, efficient background processing for Ruby
+- [sonic-pi](https://github.com/sonic-pi-net/sonic-pi)
+  - Code. Music. Live.
+- [homebrew-bundle](https://github.com/Homebrew/homebrew-bundle)
+  - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
+- [bullet](https://github.com/flyerhzm/bullet)
+  - help to kill N+1 queries and unused eager loading
+- [choosealicense.com](https://github.com/github/choosealicense.com)
+  - A site to provide non-judgmental guidance on choosing a license for your open source project
+- [quine-relay](https://github.com/mame/quine-relay)
+  - An uroboros program with 100+ programming languages
+- [ruby](https://github.com/ruby/ruby)
+  - The Ruby Programming Language [mirror]
+- [dependabot-core](https://github.com/dependabot/dependabot-core)
+  - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot
+- [devdocs](https://github.com/freeCodeCamp/devdocs)
+  - API Documentation Browser
+- [Twitter-API-v2-sample-code](https://github.com/twitterdev/Twitter-API-v2-sample-code)
+  - Sample code for the Twitter API early access endpoints (Python, Java, Ruby, and Node.js).
+- [jekyll](https://github.com/jekyll/jekyll)
+  - 🌐 Jekyll is a blog-aware static site generator in Ruby
+- [diaspora](https://github.com/diaspora/diaspora)
+  - A privacy-aware, distributed, open source social network.

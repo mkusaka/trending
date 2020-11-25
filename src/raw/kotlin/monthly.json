@@ -1,33 +1,23 @@
 [
   {
+    "author": "YTVanced",
+    "name": "VancedManager",
+    "href": "https://github.com/YTVanced/VancedManager",
+    "description": "Vanced Installer",
+    "language": "Kotlin",
+    "stars": 1850,
+    "forks": 110,
+    "starsInPeriod": 621
+  },
+  {
     "author": "2dust",
     "name": "v2rayNG",
     "href": "https://github.com/2dust/v2rayNG",
     "description": null,
     "language": "Kotlin",
-    "stars": 7284,
-    "forks": 1470,
-    "starsInPeriod": 462
-  },
-  {
-    "author": "Gurupreet",
-    "name": "ComposeCookBook",
-    "href": "https://github.com/Gurupreet/ComposeCookBook",
-    "description": "A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential",
-    "language": "Kotlin",
-    "stars": 912,
-    "forks": 52,
-    "starsInPeriod": 343
-  },
-  {
-    "author": "corona-warn-app",
-    "name": "cwa-app-android",
-    "href": "https://github.com/corona-warn-app/cwa-app-android",
-    "description": "Native Android app using the Apple/Google exposure notification API.",
-    "language": "Kotlin",
-    "stars": 2073,
-    "forks": 436,
-    "starsInPeriod": 62
+    "stars": 7609,
+    "forks": 1518,
+    "starsInPeriod": 474
   },
   {
     "author": "shadowsocks",
@@ -35,159 +25,9 @@
     "href": "https://github.com/shadowsocks/shadowsocks-android",
     "description": "A shadowsocks client for Android",
     "language": "Kotlin",
-    "stars": 30456,
-    "forks": 11282,
-    "starsInPeriod": 233
-  },
-  {
-    "author": "Kotlin",
-    "name": "kotlinx.serialization",
-    "href": "https://github.com/Kotlin/kotlinx.serialization",
-    "description": "Kotlin multiplatform / multi-format serialization",
-    "language": "Kotlin",
-    "stars": 2550,
-    "forks": 255,
-    "starsInPeriod": 138
-  },
-  {
-    "author": "JetBrains",
-    "name": "intellij-platform-plugin-template",
-    "href": "https://github.com/JetBrains/intellij-platform-plugin-template",
-    "description": "Template repository for creating plugins for IntelliJ Platform",
-    "language": "Kotlin",
-    "stars": 345,
-    "forks": 54,
-    "starsInPeriod": 74
-  },
-  {
-    "author": "h4h13",
-    "name": "RetroMusicPlayer",
-    "href": "https://github.com/h4h13/RetroMusicPlayer",
-    "description": "Best material design music player for Android",
-    "language": "Kotlin",
-    "stars": 979,
-    "forks": 233,
-    "starsInPeriod": 98
-  },
-  {
-    "author": "inorichi",
-    "name": "tachiyomi",
-    "href": "https://github.com/inorichi/tachiyomi",
-    "description": "Free and open source manga reader for Android",
-    "language": "Kotlin",
-    "stars": 8902,
-    "forks": 1174,
-    "starsInPeriod": 336
-  },
-  {
-    "author": "android",
-    "name": "play-billing-samples",
-    "href": "https://github.com/android/play-billing-samples",
-    "description": "Samples for Google Play In-app Billing",
-    "language": "Kotlin",
-    "stars": 1586,
-    "forks": 1112,
-    "starsInPeriod": 57
-  },
-  {
-    "author": "ktorio",
-    "name": "ktor",
-    "href": "https://github.com/ktorio/ktor",
-    "description": "Framework for quickly creating connected applications in Kotlin with minimal effort",
-    "language": "Kotlin",
-    "stars": 7449,
-    "forks": 618,
-    "starsInPeriod": 157
-  },
-  {
-    "author": "duckduckgo",
-    "name": "Android",
-    "href": "https://github.com/duckduckgo/Android",
-    "description": "DuckDuckGo Android App",
-    "language": "Kotlin",
-    "stars": 1604,
-    "forks": 461,
-    "starsInPeriod": 72
-  },
-  {
-    "author": "YTVanced",
-    "name": "VancedManager",
-    "href": "https://github.com/YTVanced/VancedManager",
-    "description": "Vanced Installer",
-    "language": "Kotlin",
-    "stars": 1312,
-    "forks": 90,
-    "starsInPeriod": 285
-  },
-  {
-    "author": "fossasia",
-    "name": "open-event-attendee-android",
-    "href": "https://github.com/fossasia/open-event-attendee-android",
-    "description": "Open Event Attendee Android General App https://github.com/fossasia/open-event-android/blob/apk/open-event-dev-app-playStore-debug.apk",
-    "language": "Kotlin",
-    "stars": 1608,
-    "forks": 528,
-    "starsInPeriod": 113
-  },
-  {
-    "author": "minvws",
-    "name": "nl-covid19-notification-app-android",
-    "href": "https://github.com/minvws/nl-covid19-notification-app-android",
-    "description": "Android sources for the Dutch Covid19 Notification App",
-    "language": "Kotlin",
-    "stars": 143,
-    "forks": 20,
-    "starsInPeriod": 25
-  },
-  {
-    "author": "DanielMartinus",
-    "name": "Konfetti",
-    "href": "https://github.com/DanielMartinus/Konfetti",
-    "description": "Celebrate more with this lightweight confetti particle system 🎊",
-    "language": "Kotlin",
-    "stars": 1957,
-    "forks": 208,
-    "starsInPeriod": 89
-  },
-  {
-    "author": "coil-kt",
-    "name": "coil",
-    "href": "https://github.com/coil-kt/coil",
-    "description": "Image loading for Android backed by Kotlin Coroutines.",
-    "language": "Kotlin",
-    "stars": 4924,
-    "forks": 264,
-    "starsInPeriod": 343
-  },
-  {
-    "author": "immuni-app",
-    "name": "immuni-app-android",
-    "href": "https://github.com/immuni-app/immuni-app-android",
-    "description": "Official repository for the Android version of the immuni application",
-    "language": "Kotlin",
-    "stars": 889,
-    "forks": 160,
-    "starsInPeriod": 36
-  },
-  {
-    "author": "google-developer-training",
-    "name": "android-kotlin-fundamentals-starter-apps",
-    "href": "https://github.com/google-developer-training/android-kotlin-fundamentals-starter-apps",
-    "description": "android-kotlin-fundamentals-starter-apps",
-    "language": "Kotlin",
-    "stars": 459,
-    "forks": 1640,
-    "starsInPeriod": 29
-  },
-  {
-    "author": "tipsy",
-    "name": "javalin",
-    "href": "https://github.com/tipsy/javalin",
-    "description": "A simple and modern Java and Kotlin web framework",
-    "language": "Kotlin",
-    "stars": 4313,
-    "forks": 384,
-    "starsInPeriod": 109
+    "stars": 30612,
+    "forks": 11302,
+    "starsInPeriod": 273
   },
   {
     "author": "JetBrains",
@@ -195,19 +35,209 @@
     "href": "https://github.com/JetBrains/kotlin",
     "description": "The Kotlin Programming Language",
     "language": "Kotlin",
-    "stars": 33835,
-    "forks": 4220,
-    "starsInPeriod": 424
+    "stars": 34118,
+    "forks": 4243,
+    "starsInPeriod": 442
   },
   {
-    "author": "mikepenz",
-    "name": "MaterialDrawer",
-    "href": "https://github.com/mikepenz/MaterialDrawer",
-    "description": "The flexible, easy to use, all in one drawer library for your Android project. Now brand new with material 2 design.",
+    "author": "gedoor",
+    "name": "legado",
+    "href": "https://github.com/gedoor/legado",
+    "description": "阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。",
     "language": "Kotlin",
-    "stars": 11207,
-    "forks": 2094,
+    "stars": 1728,
+    "forks": 385,
+    "starsInPeriod": 203
+  },
+  {
+    "author": "SmartToolFactory",
+    "name": "Animation-Tutorials",
+    "href": "https://github.com/SmartToolFactory/Animation-Tutorials",
+    "description": "🍭🚀💗 Tutorials about animations with Animators, Animated Vector Drawables, Shared Transitions, and more",
+    "language": "Kotlin",
+    "stars": 508,
+    "forks": 35,
+    "starsInPeriod": 275
+  },
+  {
+    "author": "JetBrains",
+    "name": "compose-jb",
+    "href": "https://github.com/JetBrains/compose-jb",
+    "description": "Jetpack Compose for Desktop, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.",
+    "language": "Kotlin",
+    "stars": 1824,
+    "forks": 51,
+    "starsInPeriod": 1828
+  },
+  {
+    "author": "google-developer-training",
+    "name": "android-kotlin-fundamentals-starter-apps",
+    "href": "https://github.com/google-developer-training/android-kotlin-fundamentals-starter-apps",
+    "description": "android-kotlin-fundamentals-starter-apps",
+    "language": "Kotlin",
+    "stars": 472,
+    "forks": 1734,
+    "starsInPeriod": 18
+  },
+  {
+    "author": "alibaba",
+    "name": "p3c",
+    "href": "https://github.com/alibaba/p3c",
+    "description": "Alibaba Java Coding Guidelines pmd implements and IDE plugin",
+    "language": "Kotlin",
+    "stars": 23889,
+    "forks": 6285,
+    "starsInPeriod": 375
+  },
+  {
+    "author": "JetBrains",
+    "name": "kotlin-native",
+    "href": "https://github.com/JetBrains/kotlin-native",
+    "description": "Kotlin/Native infrastructure",
+    "language": "Kotlin",
+    "stars": 6936,
+    "forks": 618,
+    "starsInPeriod": 47
+  },
+  {
+    "author": "android",
+    "name": "compose-samples",
+    "href": "https://github.com/android/compose-samples",
+    "description": "Official Jetpack Compose samples.",
+    "language": "Kotlin",
+    "stars": 4136,
+    "forks": 640,
+    "starsInPeriod": 475
+  },
+  {
+    "author": "Kotlin",
+    "name": "kotlinx.coroutines",
+    "href": "https://github.com/Kotlin/kotlinx.coroutines",
+    "description": "Library support for Kotlin coroutines",
+    "language": "Kotlin",
+    "stars": 8513,
+    "forks": 1197,
+    "starsInPeriod": 170
+  },
+  {
+    "author": "corona-warn-app",
+    "name": "cwa-app-android",
+    "href": "https://github.com/corona-warn-app/cwa-app-android",
+    "description": "Native Android app using the Apple/Google exposure notification API.",
+    "language": "Kotlin",
+    "stars": 2113,
+    "forks": 446,
+    "starsInPeriod": 65
+  },
+  {
+    "author": "home-assistant",
+    "name": "android",
+    "href": "https://github.com/home-assistant/android",
+    "description": "📱 Home Assistant Companion for Android",
+    "language": "Kotlin",
+    "stars": 737,
+    "forks": 200,
+    "starsInPeriod": 50
+  },
+  {
+    "author": "ExpediaGroup",
+    "name": "graphql-kotlin",
+    "href": "https://github.com/ExpediaGroup/graphql-kotlin",
+    "description": "Libraries for running GraphQL in Kotlin",
+    "language": "Kotlin",
+    "stars": 876,
+    "forks": 159,
+    "starsInPeriod": 43
+  },
+  {
+    "author": "VMadalin",
+    "name": "android-modular-architecture",
+    "href": "https://github.com/VMadalin/android-modular-architecture",
+    "description": "📚 Sample Android Components Architecture on a modular word focused on the scalability, testability and maintainability written in Kotlin, following best practices using Jetpack.",
+    "language": "Kotlin",
+    "stars": 1580,
+    "forks": 235,
+    "starsInPeriod": 81
+  },
+  {
+    "author": "SimpleMobileTools",
+    "name": "Simple-Gallery",
+    "href": "https://github.com/SimpleMobileTools/Simple-Gallery",
+    "description": "Browse your memories without any interruptions with this photo and video gallery",
+    "language": "Kotlin",
+    "stars": 1589,
+    "forks": 466,
+    "starsInPeriod": 59
+  },
+  {
+    "author": "eycorsican",
+    "name": "kitsunebi-android",
+    "href": "https://github.com/eycorsican/kitsunebi-android",
+    "description": "A fully-featured V2Ray client for Android.",
+    "language": "Kotlin",
+    "stars": 1413,
+    "forks": 264,
+    "starsInPeriod": 37
+  },
+  {
+    "author": "android",
+    "name": "camera-samples",
+    "href": "https://github.com/android/camera-samples",
+    "description": "Multiple samples showing the best practices in camera APIs on Android.",
+    "language": "Kotlin",
+    "stars": 2329,
+    "forks": 1169,
+    "starsInPeriod": 107
+  },
+  {
+    "author": "mozilla-mobile",
+    "name": "fenix",
+    "href": "https://github.com/mozilla-mobile/fenix",
+    "description": "Firefox for Android",
+    "language": "Kotlin",
+    "stars": 4331,
+    "forks": 647,
+    "starsInPeriod": 149
+  },
+  {
+    "author": "cashapp",
+    "name": "sqldelight",
+    "href": "https://github.com/cashapp/sqldelight",
+    "description": "SQLDelight - Generates typesafe Kotlin APIs from SQL",
+    "language": "Kotlin",
+    "stars": 3634,
+    "forks": 295,
+    "starsInPeriod": 111
+  },
+  {
+    "author": "kami-blue",
+    "name": "client",
+    "href": "https://github.com/kami-blue/client",
+    "description": "KAMI Blue: a continuation of KAMI | LOOKING FOR MAINTAINERS. CHECK README.",
+    "language": "Kotlin",
+    "stars": 173,
+    "forks": 140,
+    "starsInPeriod": 26
+  },
+  {
+    "author": "Tamsiree",
+    "name": "RxTool",
+    "href": "https://github.com/Tamsiree/RxTool",
+    "description": "Android开发人员不得不收集的工具类集合 | 支付宝支付 | 微信支付（统一下单） | 微信分享 | Zip4j压缩（支持分卷压缩与加密） | 一键集成UCrop选择圆形头像 | 一键集成二维码和条形码的扫描与生成 | 常用Dialog | WebView的封装可播放视频 | 仿斗鱼滑动验证码 | Toast封装 | 震动 | GPS | Location定位 | 图片缩放 | Exif 图片添加地理位置信息（经纬度） | 蛛网等级 | 颜色选择器 | ArcGis | VTPK | 编译运行一下说不定会找到惊喜",
+    "language": "Kotlin",
+    "stars": 11106,
+    "forks": 2741,
     "starsInPeriod": 62
+  },
+  {
+    "author": "LukasLechnerDev",
+    "name": "Kotlin-Coroutine-Use-Cases-on-Android",
+    "href": "https://github.com/LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android",
+    "description": "🎓 Learning Kotlin Coroutines for Android by example. 🚀 Sample implementations for real-world Android use cases. 🛠 Unit tests included!",
+    "language": "Kotlin",
+    "stars": 1370,
+    "forks": 121,
+    "starsInPeriod": 84
   },
   {
     "author": "android",
@@ -215,38 +245,8 @@
     "href": "https://github.com/android/sunflower",
     "description": "A gardening app illustrating Android development best practices with Android Jetpack.",
     "language": "Kotlin",
-    "stars": 12659,
-    "forks": 2945,
-    "starsInPeriod": 262
-  },
-  {
-    "author": "gradle",
-    "name": "kotlin-dsl-samples",
-    "href": "https://github.com/gradle/kotlin-dsl-samples",
-    "description": "Samples builds using the Gradle Kotlin DSL",
-    "language": "Kotlin",
-    "stars": 3234,
-    "forks": 376,
-    "starsInPeriod": 40
-  },
-  {
-    "author": "JetBrains",
-    "name": "Exposed",
-    "href": "https://github.com/JetBrains/Exposed",
-    "description": "Kotlin SQL Framework",
-    "language": "Kotlin",
-    "stars": 4517,
-    "forks": 384,
-    "starsInPeriod": 118
-  },
-  {
-    "author": "android",
-    "name": "architecture-components-samples",
-    "href": "https://github.com/android/architecture-components-samples",
-    "description": "Samples for Android Architecture Components.",
-    "language": "Kotlin",
-    "stars": 18685,
-    "forks": 6482,
-    "starsInPeriod": 279
+    "stars": 12834,
+    "forks": 3018,
+    "starsInPeriod": 250
   }
 ]

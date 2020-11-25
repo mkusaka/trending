@@ -1,51 +1,51 @@
 # go
-- [v2ray-core](https://github.com/v2fly/v2ray-core)
-  - A platform for building proxies to bypass network restrictions.
-- [esbuild](https://github.com/evanw/esbuild)
-  - An extremely fast JavaScript bundler and minifier
-- [fiber](https://github.com/gofiber/fiber)
-  - ⚡️ Express inspired web framework written in Go
-- [go-admin](https://github.com/go-admin-team/go-admin)
-  - 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建等）分分钟构建自己的中后台项目；文档：http://doc.zhangwj.com/go-admin-site/ Demo： http://www.zhangwj.com/#/login
-- [ferry](https://github.com/lanyulei/ferry)
-  - 本系统是集工单统计、任务钩子、权限管理、灵活配置流程与模版等等于一身的开源工单系统，当然也可以称之为工作流引擎。 致力于减少跨部门之间的沟通，自动任务的执行，提升工作效率与工作质量，减少不必要的工作量与人为出错率。
-- [hugo](https://github.com/gohugoio/hugo)
-  - The world’s fastest framework for building websites.
-- [mattermost-server](https://github.com/mattermost/mattermost-server)
-  - Open source Slack-alternative in Golang and React - Mattermost
-- [ali](https://github.com/nakabonne/ali)
-  - Generate HTTP load and plot the results in real-time
-- [seaweedfs](https://github.com/chrislusf/seaweedfs)
-  - SeaweedFS is a distributed object store and file system to store and serve billions of files fast! Object store has O(1) disk seek, transparent cloud integration. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
-- [podman](https://github.com/containers/podman)
-  - Podman: A tool for managing OCI containers and pods
-- [nomad](https://github.com/hashicorp/nomad)
-  - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [trojan-go](https://github.com/p4gefau1t/trojan-go)
-  - Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
-- [automuteus](https://github.com/denverquane/automuteus)
-  - Discord Bot to automute Among Us players at round transitions, in conjunction with https://github.com/denverquane/amonguscapture
-- [gitea](https://github.com/go-gitea/gitea)
-  - Git with a cup of tea, painless self-hosted git service
-- [terraform](https://github.com/hashicorp/terraform)
-  - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [gogs](https://github.com/gogs/gogs)
-  - Gogs is a painless self-hosted Git service
-- [lantern](https://github.com/getlantern/lantern)
-  - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 lantern proxy vpn censorship-circumvention censorship gfw accelerator
-- [7days-golang](https://github.com/geektutu/7days-golang)
-  - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7天用Go动手写/从零实现系列
-- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws)
-  - Terraform AWS provider
-- [Go](https://github.com/TheAlgorithms/Go)
-  - Algorithms Implemented in GoLang
+- [loki](https://github.com/grafana/loki)
+  - Like Prometheus, but for logs.
+- [fyne](https://github.com/fyne-io/fyne)
+  - Cross platform GUI in Go based on Material Design
 - [photoprism](https://github.com/photoprism/photoprism)
   - Personal Photo Management powered by Go and Google TensorFlow
+- [7days-golang](https://github.com/geektutu/7days-golang)
+  - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7天用Go动手写/从零实现系列
+- [annie](https://github.com/iawia002/annie)
+  - 👾 Fast, simple and clean video downloader
+- [tidb](https://github.com/pingcap/tidb)
+  - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+- [go-ethereum](https://github.com/ethereum/go-ethereum)
+  - Official Go implementation of the Ethereum protocol
+- [v2ray-core](https://github.com/v2fly/v2ray-core)
+  - A platform for building proxies to bypass network restrictions.
+- [istio](https://github.com/istio/istio)
+  - Connect, secure, control, and observe services.
+- [gf](https://github.com/gogf/gf)
+  - GoFrame is a modular, powerful, high-performance and production-ready application development framework of golang.
+- [filebrowser](https://github.com/filebrowser/filebrowser)
+  - 📂 Web File Browser which can be used as a middleware or standalone app.
+- [kratos](https://github.com/go-kratos/kratos)
+  - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
+- [k3s](https://github.com/rancher/k3s)
+  - Lightweight Kubernetes
+- [teler](https://github.com/kitabisa/teler)
+  - Real-time HTTP Intrusion Detection
+- [argo-cd](https://github.com/argoproj/argo-cd)
+  - Declarative continuous deployment for Kubernetes.
+- [clash](https://github.com/Dreamacro/clash)
+  - A rule-based tunnel in Go.
+- [podman](https://github.com/containers/podman)
+  - Podman: A tool for managing OCI containers and pods
+- [cilium](https://github.com/cilium/cilium)
+  - eBPF-based Networking, Security, and Observability
+- [lantern](https://github.com/getlantern/lantern)
+  - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 lantern proxy vpn censorship-circumvention censorship gfw accelerator
+- [go](https://github.com/golang/go)
+  - The Go programming language
+- [fabric](https://github.com/hyperledger/fabric)
+  - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
 - [aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller)
   - A Kubernetes controller for Elastic Load Balancers
+- [livego](https://github.com/gwuhaolin/livego)
+  - live video streaming server in golang
+- [influxdb](https://github.com/influxdata/influxdb)
+  - Scalable datastore for metrics, events, and real-time analytics
 - [tfsec](https://github.com/tfsec/tfsec)
   - 🔒🌍 Security scanner for your Terraform code
-- [rancher](https://github.com/rancher/rancher)
-  - Complete container management platform
-- [lotus](https://github.com/filecoin-project/lotus)
-  - Implementation of the Filecoin protocol, written in Go
