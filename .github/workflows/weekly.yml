@@ -17,8 +17,8 @@ jobs:
           node-version: "14"
       - name: set environment variable
         run: |
-          echo ::set-env name=update_branch::weekly-$(date +%F)
-          echo ::set-env name=pr_title::"Weekly update "$(date +%F)
+          echo "update_branch=\"weekly-\"$(date +%F)" >> $GITHUB_ENV
+          echo "pr_title=\"Weekly update \"$(date +%F)" >> $GITHUB_ENV
       - name: update
         run: |
           git config --global user.email "action@github.com"
