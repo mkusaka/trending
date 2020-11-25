@@ -31,7 +31,6 @@ jobs:
           git commit -m "daily update "$(date +%F)
           body="@mkusaka"
           echo $body
-          echo ::set-env name=pr_body::"$body"
       - name: push current changes
         uses: ad-m/github-push-action@master
         with:
@@ -44,5 +43,4 @@ jobs:
           source_branch: ${{ env.update_branch }} # If blank, default: triggered branch
           destination_branch: "main" # If blank, default: master
           pr_title: ${{ env.pr_title }}
-          pr_body: ${{ env.pr_body }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
