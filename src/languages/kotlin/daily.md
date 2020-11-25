@@ -1,51 +1,51 @@
 # kotlin
-- [VancedManager](https://github.com/YTVanced/VancedManager)
-  - Vanced Installer
-- [mirai](https://github.com/mamoe/mirai)
-  - 高效率 QQ 机器人框架 / High-performance bot framework for Tencent QQ
-- [kotlin](https://github.com/JetBrains/kotlin)
-  - The Kotlin Programming Language
+- [ComposeSpotifyDesktop](https://github.com/Gurupreet/ComposeSpotifyDesktop)
+  - Spotify Demo Desktop app using Jetpack compose
+- [architecture-samples](https://github.com/android/architecture-samples)
+  - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
+- [Loritta](https://github.com/LorittaBot/Loritta)
+  - 💁 A multipurpose, multilanguage, customizable, modular, and very cute bot for Discord using JDA! ~Making your server more awesome~
 - [v2rayNG](https://github.com/2dust/v2rayNG)
   - 
-- [tachiyomi](https://github.com/inorichi/tachiyomi)
-  - Free and open source manga reader for Android
-- [javalin](https://github.com/tipsy/javalin)
-  - A simple and modern Java and Kotlin web framework
-- [karel](https://github.com/fredoverflow/karel)
-  - Karel The Robot
-- [Android](https://github.com/duckduckgo/Android)
-  - DuckDuckGo Android App
-- [XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools)
-  - A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot
-- [Unciv](https://github.com/yairm210/Unciv)
-  - Open-source Android/Desktop remake of Civ V
-- [legado](https://github.com/gedoor/legado)
-  - 阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-- [StreetComplete](https://github.com/westnordost/StreetComplete)
-  - Easy to use OpenStreetMap editor for Android
-- [element-android](https://github.com/vector-im/element-android)
-  - A glossy Matrix collaboration client for Android.
-- [RetroMusicPlayer](https://github.com/h4h13/RetroMusicPlayer)
-  - Best material design music player for Android
-- [fenix](https://github.com/mozilla-mobile/fenix)
-  - Firefox for Android
-- [android-kotlin-fundamentals-starter-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-starter-apps)
-  - android-kotlin-fundamentals-starter-apps
-- [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)
-  - Spotify Music Downloader For Android!
-- [android](https://github.com/home-assistant/android)
-  - 📱 Home Assistant Companion for Android
-- [blokada](https://github.com/blokadaorg/blokada)
-  - The official repo for Blokada for Android and iOS.
+- [compose-for-web-demos](https://github.com/JetBrains/compose-for-web-demos)
+  - Demo projects powered by Compose for Web. / DON'T USE IN PRODUCTION!
+- [Exposed](https://github.com/JetBrains/Exposed)
+  - Kotlin SQL Framework
+- [camera-samples](https://github.com/android/camera-samples)
+  - Multiple samples showing the best practices in camera APIs on Android.
+- [kotlin](https://github.com/JetBrains/kotlin)
+  - The Kotlin Programming Language
+- [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization)
+  - Kotlin multiplatform / multi-format serialization
+- [coil](https://github.com/coil-kt/coil)
+  - Image loading for Android backed by Kotlin Coroutines.
+- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android)
+  - Native Android app using the Apple/Google exposure notification API.
+- [android-kotlin-fundamentals-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-apps)
+  - android-kotlin-fundamentals-apps
+- [ktlint](https://github.com/pinterest/ktlint)
+  - An anti-bikeshedding Kotlin linter with built-in formatter
+- [detekt](https://github.com/detekt/detekt)
+  - Static code analysis for Kotlin
+- [uamp](https://github.com/android/uamp)
+  - A sample audio app for Android
+- [iosched](https://github.com/google/iosched)
+  - The Google I/O 2019 Android App
+- [vlc-android](https://github.com/videolan/vlc-android)
+  - VLC for Android, Android TV and ChromeOS
+- [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin)
+  - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 - [architecture-components-samples](https://github.com/android/architecture-components-samples)
   - Samples for Android Architecture Components.
-- [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd)
-  - Main UserLAnd Repository
-- [Music-Player-GO](https://github.com/enricocid/Music-Player-GO)
-  - 🎶🎼 Very slim music player 👨‍🎤 100% made in Italy 🍕🌳🌞🍝🌄
-- [ScreenStream](https://github.com/dkrivoruchko/ScreenStream)
-  - Screen Stream over HTTP mobile app
-- [okio](https://github.com/square/okio)
-  - A modern I/O library for Android, Kotlin, and Java.
-- [Vigilante](https://github.com/CraZyLegenD/Vigilante)
-  - 🛡️ Android security (camera/microphone dots indicators) app using Hilt, Animations, Coroutines, Material, StateFlow, Jetpack (Room, ViewModel, Paging, Security, Biometrics, Start-up) based on MVVM architecture.
+- [ImagePicker](https://github.com/Dhaval2404/ImagePicker)
+  - 📸Image Picker for Android, Pick an image from Gallery or Capture a new image with Camera
+- [KaMPKit](https://github.com/touchlab/KaMPKit)
+  - KaMP Kit by Touchlab is a collection of code and tools designed to get your mobile team started quickly with Kotlin Multiplatform.
+- [android-youtube-player](https://github.com/PierfrancescoSoffritti/android-youtube-player)
+  - YouTube Player library for Android and Chromecast, stable and customizable.
+- [Twidere-Android](https://github.com/TwidereProject/Twidere-Android)
+  - 
+- [koin](https://github.com/InsertKoinIO/koin)
+  - Koin - a pragmatic lightweight dependency injection framework for Kotlin
+- [material-dialogs](https://github.com/afollestad/material-dialogs)
+  - 😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android.

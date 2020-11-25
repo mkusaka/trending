@@ -1,51 +1,51 @@
 # general
-- [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) : JavaScript
-  - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [starship](https://github.com/starship/starship) : Rust
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [awesome](https://github.com/sindresorhus/awesome) : 
-  - 😎 Awesome lists about all kinds of interesting topics
-- [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) : Python
-  - Bringing Old Photo Back to Life (CVPR 2020 oral)
-- [gping](https://github.com/orf/gping) : Rust
-  - Ping, but with a graph
-- [FallChallenge2020](https://github.com/CodinGame/FallChallenge2020) : JavaScript
-  - Source code for CodinGame's Fall Challenge 2020 event.
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui) : TypeScript
-  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [iptv](https://github.com/iptv-org/iptv) : JavaScript
-  - Collection of 5000+ publicly available IPTV channels from all over the world
-- [k0s](https://github.com/k0sproject/k0s) : Go
-  - k0s - Zero Friction Kubernetes
-- [alacritty](https://github.com/alacritty/alacritty) : Rust
-  - A cross-platform, GPU-accelerated terminal emulator
-- [macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) : Vue
-  - Replacement icons for popular apps in the style of macOS Big Sur
-- [rustlings](https://github.com/rust-lang/rustlings) : Rust
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
+- [Python](https://github.com/TheAlgorithms/Python) : Python
+  - All Algorithms implemented in Python
+- [azure-docs](https://github.com/MicrosoftDocs/azure-docs) : PowerShell
+  - Open source documentation of Microsoft Azure
+- [U-2-Net](https://github.com/NathanUA/U-2-Net) : Python
+  - The code for our newly accepted paper in Pattern Recognition 2020: "U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection."
+- [react-native](https://github.com/facebook/react-native) : JavaScript
+  - A framework for building native apps with React.
+- [nanodet](https://github.com/RangiLyu/nanodet) : Python
+  - ⚡Super fast and lightweight anchor-free object detection model. 🔥Only 1.8mb and run 97FPS on cellphone🔥
+- [javascript-code-challenges](https://github.com/sadanandpai/javascript-code-challenges) : 
+  - A collection of JavaScript modern interview code challenges for beginners to experts
+- [pi-webcam](https://github.com/geerlingguy/pi-webcam) : 
+  - Automation to configure a Raspberry Pi as a USB OTG webcam
+- [create-ml-app](https://github.com/shreyashankar/create-ml-app) : Python
+  - Template Makefile for ML projects in Python.
+- [Modern-HTML-Starter-Template](https://github.com/harryheman/Modern-HTML-Starter-Template) : HTML
+  - Modern HTML Starter Template
+- [urlhunter](https://github.com/utkusen/urlhunter) : Go
+  - a recon tool that allows searching on URLs that are exposed via shortener services
+- [k6](https://github.com/loadimpact/k6) : Go
+  - A modern load testing tool, using Go and JavaScript - https://k6.io
+- [Reverse-Engineering-Tutorial](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial) : C++
+  - A comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
+- [tokio](https://github.com/tokio-rs/tokio) : Rust
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [architect-awesome](https://github.com/xingshaocheng/architect-awesome) : 
+  - 后端架构师技术图谱
+- [OffensiveNim](https://github.com/byt3bl33d3r/OffensiveNim) : Nim
+  - My experiments in weaponizing Nim (https://nim-lang.org/)
+- [BurpSuite_403Bypasser](https://github.com/sting8k/BurpSuite_403Bypasser) : Python
+  - Burpsuite Extension to bypass 403 restricted directory
+- [Hazel](https://github.com/TheCherno/Hazel) : C++
+  - Hazel Engine
+- [MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) : Assembly
+  - Collection of malware source code for a variety of platforms in an array of different programming languages.
+- [NativeScript](https://github.com/NativeScript/NativeScript) : TypeScript
+  - NativeScript empowers you to access native api's from JavaScript directly. Angular, Vue, Svelte, React and you name it compatible.
+- [TypeScript](https://github.com/microsoft/TypeScript) : TypeScript
+  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [material-ui](https://github.com/mui-org/material-ui) : JavaScript
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [EasyOCR](https://github.com/JaidedAI/EasyOCR) : Python
+  - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
   - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
-  - A long list of (advanced) JavaScript questions, and their explanations ✨
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
-  - 💯 Materials to help you rock your next coding interview
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [faker](https://github.com/joke2k/faker) : Python
-  - Faker is a Python package that generates fake data for you.
-- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) : 
-  - A list of awesome beginners-friendly projects.
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [bitcoin](https://github.com/bitcoin/bitcoin) : C++
-  - Bitcoin Core integration/staging tree
-- [core](https://github.com/home-assistant/core) : Python
-  - 🏡 Open source home automation that puts local control and privacy first
-- [Testnet3-Challenges](https://github.com/Concordium/Testnet3-Challenges) : 
-  - This repo is dedicated to Concordium Incentivized Testnet3.
-- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) : Python
-  - 30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.
-- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) : Go
-  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [devops-resources](https://github.com/bregman-arie/devops-resources) : Groovy
+  - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
