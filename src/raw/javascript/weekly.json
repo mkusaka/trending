@@ -1,223 +1,23 @@
 [
   {
-    "author": "Marak",
-    "name": "faker.js",
-    "href": "https://github.com/Marak/faker.js",
-    "description": "generate massive amounts of realistic fake data in Node.js and the browser",
+    "author": "microsoft",
+    "name": "Web-Dev-For-Beginners",
+    "href": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "stars": 27642,
-    "forks": 2382,
-    "starsInPeriod": 1979
+    "stars": 6041,
+    "forks": 697,
+    "starsInPeriod": 2173
   },
   {
-    "author": "ffmpegwasm",
-    "name": "ffmpeg.wasm",
-    "href": "https://github.com/ffmpegwasm/ffmpeg.wasm",
-    "description": "FFmpeg for browser and node, powered by WebAssembly",
+    "author": "odensc",
+    "name": "ttv-ublock",
+    "href": "https://github.com/odensc/ttv-ublock",
+    "description": "Blocking ads on that certain streaming website",
     "language": "JavaScript",
-    "stars": 2585,
-    "forks": 94,
-    "starsInPeriod": 295
-  },
-  {
-    "author": "mermaid-js",
-    "name": "mermaid",
-    "href": "https://github.com/mermaid-js/mermaid",
-    "description": "Generation of diagram and flowchart from text in a similar manner as markdown",
-    "language": "JavaScript",
-    "stars": 32830,
-    "forks": 2225,
-    "starsInPeriod": 214
-  },
-  {
-    "author": "PavelDoGreat",
-    "name": "WebGL-Fluid-Simulation",
-    "href": "https://github.com/PavelDoGreat/WebGL-Fluid-Simulation",
-    "description": "Play with fluids in your browser (works even on mobile)",
-    "language": "JavaScript",
-    "stars": 10088,
-    "forks": 925,
-    "starsInPeriod": 811
-  },
-  {
-    "author": "yogeshojha",
-    "name": "rengine",
-    "href": "https://github.com/yogeshojha/rengine",
-    "description": "reNgine is an automated reconnaissance framework meant for information gathering during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.",
-    "language": "JavaScript",
-    "stars": 2039,
-    "forks": 295,
-    "starsInPeriod": 477
-  },
-  {
-    "author": "ryanmcdermott",
-    "name": "clean-code-javascript",
-    "href": "https://github.com/ryanmcdermott/clean-code-javascript",
-    "description": "🛁 Clean Code concepts adapted for JavaScript",
-    "language": "JavaScript",
-    "stars": 40913,
-    "forks": 4953,
-    "starsInPeriod": 896
-  },
-  {
-    "author": "iptv-org",
-    "name": "iptv",
-    "href": "https://github.com/iptv-org/iptv",
-    "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
-    "language": "JavaScript",
-    "stars": 20859,
-    "forks": 126,
-    "starsInPeriod": 472
-  },
-  {
-    "author": "newbee-ltd",
-    "name": "newbee-mall-vue3-app",
-    "href": "https://github.com/newbee-ltd/newbee-mall-vue3-app",
-    "description": "新蜂商城Vue3版本",
-    "language": "JavaScript",
-    "stars": 478,
-    "forks": 114,
-    "starsInPeriod": 227
-  },
-  {
-    "author": "w37fhy",
-    "name": "QuantumultX",
-    "href": "https://github.com/w37fhy/QuantumultX",
-    "description": "同步和更新大佬脚本库，更新懒人配置",
-    "language": "JavaScript",
-    "stars": 347,
-    "forks": 82,
-    "starsInPeriod": 108
-  },
-  {
-    "author": "ix64",
-    "name": "unlock-music",
-    "href": "https://github.com/ix64/unlock-music",
-    "description": "Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。",
-    "language": "JavaScript",
-    "stars": 5253,
-    "forks": 1048,
-    "starsInPeriod": 154
-  },
-  {
-    "author": "yangshun",
-    "name": "tech-interview-handbook",
-    "href": "https://github.com/yangshun/tech-interview-handbook",
-    "description": "💯 Materials to help you rock your next coding interview",
-    "language": "JavaScript",
-    "stars": 46492,
-    "forks": 6582,
-    "starsInPeriod": 635
-  },
-  {
-    "author": "chavyleung",
-    "name": "scripts",
-    "href": "https://github.com/chavyleung/scripts",
-    "description": null,
-    "language": "JavaScript",
-    "stars": 1656,
-    "forks": 560,
-    "starsInPeriod": 80
-  },
-  {
-    "author": "lerna",
-    "name": "lerna",
-    "href": "https://github.com/lerna/lerna",
-    "description": "🐉 A tool for managing JavaScript projects with multiple packages.",
-    "language": "JavaScript",
-    "stars": 25360,
-    "forks": 1636,
-    "starsInPeriod": 117
-  },
-  {
-    "author": "socketio",
-    "name": "socket.io",
-    "href": "https://github.com/socketio/socket.io",
-    "description": "Realtime application framework (Node.JS server)",
-    "language": "JavaScript",
-    "stars": 51626,
-    "forks": 9320,
-    "starsInPeriod": 222
-  },
-  {
-    "author": "chinese-poetry",
-    "name": "chinese-poetry",
-    "href": "https://github.com/chinese-poetry/chinese-poetry",
-    "description": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。 阿里招 Python P6/P7 上海张江, gaojunqi@outlook.com",
-    "language": "JavaScript",
-    "stars": 30394,
-    "forks": 6228,
-    "starsInPeriod": 138
-  },
-  {
-    "author": "airbnb",
-    "name": "javascript",
-    "href": "https://github.com/airbnb/javascript",
-    "description": "JavaScript Style Guide",
-    "language": "JavaScript",
-    "stars": 101485,
-    "forks": 19757,
-    "starsInPeriod": 287
-  },
-  {
-    "author": "denysdovhan",
-    "name": "wtfjs",
-    "href": "https://github.com/denysdovhan/wtfjs",
-    "description": "🤪 A list of funny and tricky JavaScript examples",
-    "language": "JavaScript",
-    "stars": 19870,
-    "forks": 1287,
-    "starsInPeriod": 372
-  },
-  {
-    "author": "mui-org",
-    "name": "material-ui",
-    "href": "https://github.com/mui-org/material-ui",
-    "description": "React components for faster and easier web development. Build your own design system, or start with Material Design.",
-    "language": "JavaScript",
-    "stars": 62475,
-    "forks": 19051,
-    "starsInPeriod": 228
-  },
-  {
-    "author": "mrdoob",
-    "name": "three.js",
-    "href": "https://github.com/mrdoob/three.js",
-    "description": "JavaScript 3D library.",
-    "language": "JavaScript",
-    "stars": 64830,
-    "forks": 25591,
-    "starsInPeriod": 186
-  },
-  {
-    "author": "michalsnik",
-    "name": "aos",
-    "href": "https://github.com/michalsnik/aos",
-    "description": "Animate on scroll library",
-    "language": "JavaScript",
-    "stars": 14624,
-    "forks": 1613,
-    "starsInPeriod": 215
-  },
-  {
-    "author": "GoogleChrome",
-    "name": "lighthouse",
-    "href": "https://github.com/GoogleChrome/lighthouse",
-    "description": "Automated auditing, performance metrics, and best practices for the web.",
-    "language": "JavaScript",
-    "stars": 21123,
-    "forks": 7397,
-    "starsInPeriod": 53
-  },
-  {
-    "author": "invertase",
-    "name": "react-native-firebase",
-    "href": "https://github.com/invertase/react-native-firebase",
-    "description": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.",
-    "language": "JavaScript",
-    "stars": 8499,
-    "forks": 1617,
-    "starsInPeriod": 38
+    "stars": 694,
+    "forks": 59,
+    "starsInPeriod": 238
   },
   {
     "author": "trekhleb",
@@ -225,19 +25,199 @@
     "href": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "stars": 84852,
-    "forks": 14323,
-    "starsInPeriod": 692
+    "stars": 86547,
+    "forks": 14565,
+    "starsInPeriod": 1064
   },
   {
-    "author": "standard",
-    "name": "standard",
-    "href": "https://github.com/standard/standard",
-    "description": "🌟 JavaScript Style Guide, with linter & automatic code fixer",
+    "author": "modood",
+    "name": "Administrative-divisions-of-China",
+    "href": "https://github.com/modood/Administrative-divisions-of-China",
+    "description": "中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。",
     "language": "JavaScript",
-    "stars": 24665,
-    "forks": 1923,
-    "starsInPeriod": 70
+    "stars": 9280,
+    "forks": 4666,
+    "starsInPeriod": 78
+  },
+  {
+    "author": "jgraph",
+    "name": "drawio",
+    "href": "https://github.com/jgraph/drawio",
+    "description": "Source to app.diagrams.net",
+    "language": "JavaScript",
+    "stars": 20601,
+    "forks": 4213,
+    "starsInPeriod": 145
+  },
+  {
+    "author": "beautifulinteractions",
+    "name": "beautiful-react-diagrams",
+    "href": "https://github.com/beautifulinteractions/beautiful-react-diagrams",
+    "description": "💎 A collection of lightweight React components and hooks to build diagrams with ease 💎",
+    "language": "JavaScript",
+    "stars": 1861,
+    "forks": 69,
+    "starsInPeriod": 1307
+  },
+  {
+    "author": "BrasilAPI",
+    "name": "BrasilAPI",
+    "href": "https://github.com/BrasilAPI/BrasilAPI",
+    "description": "Vamos transformar o Brasil em uma API?",
+    "language": "JavaScript",
+    "stars": 2818,
+    "forks": 219,
+    "starsInPeriod": 499
+  },
+  {
+    "author": "lwitzani",
+    "name": "homebridgeStatusWidget",
+    "href": "https://github.com/lwitzani/homebridgeStatusWidget",
+    "description": null,
+    "language": "JavaScript",
+    "stars": 139,
+    "forks": 70,
+    "starsInPeriod": 50
+  },
+  {
+    "author": "haizlin",
+    "name": "fe-interview",
+    "href": "https://github.com/haizlin/fe-interview",
+    "description": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），3000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……",
+    "language": "JavaScript",
+    "stars": 14711,
+    "forks": 1961,
+    "starsInPeriod": 449
+  },
+  {
+    "author": "BrasilAPI",
+    "name": "cep-promise",
+    "href": "https://github.com/BrasilAPI/cep-promise",
+    "description": "Busca por CEP integrado diretamente aos serviços dos Correios, ViaCEP e outros (Node.js e Browser)",
+    "language": "JavaScript",
+    "stars": 2156,
+    "forks": 281,
+    "starsInPeriod": 111
+  },
+  {
+    "author": "Advanced-Frontend",
+    "name": "Daily-Interview-Question",
+    "href": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+    "description": "我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。",
+    "language": "JavaScript",
+    "stars": 21224,
+    "forks": 2655,
+    "starsInPeriod": 138
+  },
+  {
+    "author": "iptv-org",
+    "name": "iptv",
+    "href": "https://github.com/iptv-org/iptv",
+    "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "language": "JavaScript",
+    "stars": 21426,
+    "forks": 184,
+    "starsInPeriod": 218
+  },
+  {
+    "author": "nuxt",
+    "name": "nuxt.js",
+    "href": "https://github.com/nuxt/nuxt.js",
+    "description": "The Intuitive Vue Framework",
+    "language": "JavaScript",
+    "stars": 32223,
+    "forks": 2703,
+    "starsInPeriod": 890
+  },
+  {
+    "author": "facebook",
+    "name": "react-native",
+    "href": "https://github.com/facebook/react-native",
+    "description": "A framework for building native apps with React.",
+    "language": "JavaScript",
+    "stars": 91607,
+    "forks": 20237,
+    "starsInPeriod": 314
+  },
+  {
+    "author": "alyssaxuu",
+    "name": "flowy",
+    "href": "https://github.com/alyssaxuu/flowy",
+    "description": "The minimal javascript library to create flowcharts ✨",
+    "language": "JavaScript",
+    "stars": 7371,
+    "forks": 469,
+    "starsInPeriod": 152
+  },
+  {
+    "author": "docsifyjs",
+    "name": "docsify",
+    "href": "https://github.com/docsifyjs/docsify",
+    "description": "🃏 A magical documentation site generator.",
+    "language": "JavaScript",
+    "stars": 15789,
+    "forks": 3799,
+    "starsInPeriod": 117
+  },
+  {
+    "author": "ryanmcdermott",
+    "name": "clean-code-javascript",
+    "href": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "description": "🛁 Clean Code concepts adapted for JavaScript",
+    "language": "JavaScript",
+    "stars": 41642,
+    "forks": 5026,
+    "starsInPeriod": 351
+  },
+  {
+    "author": "jaywcjlove",
+    "name": "awesome-mac",
+    "href": "https://github.com/jaywcjlove/awesome-mac",
+    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
+    "language": "JavaScript",
+    "stars": 39946,
+    "forks": 4531,
+    "starsInPeriod": 114
+  },
+  {
+    "author": "lxk0301",
+    "name": "jd_scripts",
+    "href": "https://github.com/lxk0301/jd_scripts",
+    "description": null,
+    "language": "JavaScript",
+    "stars": 1259,
+    "forks": 696,
+    "starsInPeriod": 251
+  },
+  {
+    "author": "mapbox",
+    "name": "mapbox-gl-js",
+    "href": "https://github.com/mapbox/mapbox-gl-js",
+    "description": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL",
+    "language": "JavaScript",
+    "stars": 6499,
+    "forks": 1542,
+    "starsInPeriod": 25
+  },
+  {
+    "author": "mermaid-js",
+    "name": "mermaid",
+    "href": "https://github.com/mermaid-js/mermaid",
+    "description": "Generation of diagram and flowchart from text in a similar manner as markdown",
+    "language": "JavaScript",
+    "stars": 33048,
+    "forks": 2251,
+    "starsInPeriod": 181
+  },
+  {
+    "author": "twbs",
+    "name": "bootstrap",
+    "href": "https://github.com/twbs/bootstrap",
+    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "language": "JavaScript",
+    "stars": 145407,
+    "forks": 71137,
+    "starsInPeriod": 182
   },
   {
     "author": "gatsbyjs",
@@ -245,8 +225,28 @@
     "href": "https://github.com/gatsbyjs/gatsby",
     "description": "Build blazing fast, modern apps and websites with React",
     "language": "JavaScript",
-    "stars": 47828,
-    "forks": 9048,
-    "starsInPeriod": 119
+    "stars": 47945,
+    "forks": 9076,
+    "starsInPeriod": 114
+  },
+  {
+    "author": "dortania",
+    "name": "OpenCore-Install-Guide",
+    "href": "https://github.com/dortania/OpenCore-Install-Guide",
+    "description": "Repo for the OpenCore Install Guide",
+    "language": "JavaScript",
+    "stars": 1629,
+    "forks": 233,
+    "starsInPeriod": 50
+  },
+  {
+    "author": "module-federation",
+    "name": "module-federation-examples",
+    "href": "https://github.com/module-federation/module-federation-examples",
+    "description": "Implementation examples of module federation , by the creators of module federation",
+    "language": "JavaScript",
+    "stars": 584,
+    "forks": 122,
+    "starsInPeriod": 42
   }
 ]
