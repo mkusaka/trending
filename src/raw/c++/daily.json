@@ -1,63 +1,13 @@
 [
   {
-    "author": "bitcoin",
-    "name": "bitcoin",
-    "href": "https://github.com/bitcoin/bitcoin",
-    "description": "Bitcoin Core integration/staging tree",
+    "author": "changkun",
+    "name": "modern-cpp-tutorial",
+    "href": "https://github.com/changkun/modern-cpp-tutorial",
+    "description": "📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly",
     "language": "C++",
-    "stars": 45984,
-    "forks": 26635,
-    "starsInPeriod": 25
-  },
-  {
-    "author": "solemnwarning",
-    "name": "rehex",
-    "href": "https://github.com/solemnwarning/rehex",
-    "description": "Reverse Engineers' Hex Editor",
-    "language": "C++",
-    "stars": 1060,
-    "forks": 44,
-    "starsInPeriod": 240
-  },
-  {
-    "author": "an-tao",
-    "name": "drogon",
-    "href": "https://github.com/an-tao/drogon",
-    "description": "Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows",
-    "language": "C++",
-    "stars": 3931,
-    "forks": 323,
-    "starsInPeriod": 11
-  },
-  {
-    "author": "musescore",
-    "name": "MuseScore",
-    "href": "https://github.com/musescore/MuseScore",
-    "description": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",
-    "language": "C++",
-    "stars": 5253,
-    "forks": 1509,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "TheAlgorithms",
-    "name": "C-Plus-Plus",
-    "href": "https://github.com/TheAlgorithms/C-Plus-Plus",
-    "description": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
-    "language": "C++",
-    "stars": 9144,
-    "forks": 3102,
-    "starsInPeriod": 14
-  },
-  {
-    "author": "ocornut",
-    "name": "imgui",
-    "href": "https://github.com/ocornut/imgui",
-    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
-    "language": "C++",
-    "stars": 24872,
-    "forks": 4161,
-    "starsInPeriod": 22
+    "stars": 9117,
+    "forks": 1266,
+    "starsInPeriod": 81
   },
   {
     "author": "godotengine",
@@ -65,69 +15,19 @@
     "href": "https://github.com/godotengine/godot",
     "description": "Godot Engine – Multi-platform 2D and 3D game engine",
     "language": "C++",
-    "stars": 34713,
-    "forks": 6551,
-    "starsInPeriod": 28
+    "stars": 34912,
+    "forks": 6589,
+    "starsInPeriod": 21
   },
   {
-    "author": "qbittorrent",
-    "name": "qBittorrent",
-    "href": "https://github.com/qbittorrent/qBittorrent",
-    "description": "qBittorrent BitTorrent client",
+    "author": "gabime",
+    "name": "spdlog",
+    "href": "https://github.com/gabime/spdlog",
+    "description": "Fast C++ logging library.",
     "language": "C++",
-    "stars": 10495,
-    "forks": 1887,
-    "starsInPeriod": 14
-  },
-  {
-    "author": "mozilla",
-    "name": "DeepSpeech",
-    "href": "https://github.com/mozilla/DeepSpeech",
-    "description": "DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.",
-    "language": "C++",
-    "stars": 15761,
-    "forks": 2927,
-    "starsInPeriod": 15
-  },
-  {
-    "author": "Aircoookie",
-    "name": "WLED",
-    "href": "https://github.com/Aircoookie/WLED",
-    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
-    "language": "C++",
-    "stars": 3522,
-    "forks": 597,
-    "starsInPeriod": 30
-  },
-  {
-    "author": "xbmc",
-    "name": "xbmc",
-    "href": "https://github.com/xbmc/xbmc",
-    "description": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.",
-    "language": "C++",
-    "stars": 11385,
-    "forks": 5571,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "OpenZWave",
-    "name": "open-zwave",
-    "href": "https://github.com/OpenZWave/open-zwave",
-    "description": "a C++ library to control Z-Wave Networks via a USB Z-Wave Controller.",
-    "language": "C++",
-    "stars": 975,
-    "forks": 911,
-    "starsInPeriod": 0
-  },
-  {
-    "author": "google",
-    "name": "googletest",
-    "href": "https://github.com/google/googletest",
-    "description": "Googletest - Google Testing and Mocking Framework",
-    "language": "C++",
-    "stars": 18702,
-    "forks": 6795,
-    "starsInPeriod": 17
+    "stars": 10167,
+    "forks": 2163,
+    "starsInPeriod": 23
   },
   {
     "author": "fmtlib",
@@ -135,59 +35,189 @@
     "href": "https://github.com/fmtlib/fmt",
     "description": "A modern formatting library",
     "language": "C++",
-    "stars": 9661,
-    "forks": 1175,
+    "stars": 9750,
+    "forks": 1193,
+    "starsInPeriod": 13
+  },
+  {
+    "author": "Aircoookie",
+    "name": "WLED",
+    "href": "https://github.com/Aircoookie/WLED",
+    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
+    "language": "C++",
+    "stars": 3670,
+    "forks": 645,
+    "starsInPeriod": 18
+  },
+  {
+    "author": "commaai",
+    "name": "openpilot",
+    "href": "https://github.com/commaai/openpilot",
+    "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.",
+    "language": "C++",
+    "stars": 19566,
+    "forks": 4348,
+    "starsInPeriod": 56
+  },
+  {
+    "author": "opencv",
+    "name": "opencv",
+    "href": "https://github.com/opencv/opencv",
+    "description": "Open Source Computer Vision Library",
+    "language": "C++",
+    "stars": 50417,
+    "forks": 41033,
+    "starsInPeriod": 33
+  },
+  {
+    "author": "cmderdev",
+    "name": "cmder",
+    "href": "https://github.com/cmderdev/cmder",
+    "description": "Lovely console emulator package for Windows",
+    "language": "C++",
+    "stars": 21841,
+    "forks": 1751,
+    "starsInPeriod": 13
+  },
+  {
+    "author": "bigtreetech",
+    "name": "BIGTREETECH-SKR-mini-E3",
+    "href": "https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3",
+    "description": "BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.",
+    "language": "C++",
+    "stars": 804,
+    "forks": 1109,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "lettier",
+    "name": "3d-game-shaders-for-beginners",
+    "href": "https://github.com/lettier/3d-game-shaders-for-beginners",
+    "description": "🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.",
+    "language": "C++",
+    "stars": 7430,
+    "forks": 536,
+    "starsInPeriod": 25
+  },
+  {
+    "author": "RikkaApps",
+    "name": "Riru",
+    "href": "https://github.com/RikkaApps/Riru",
+    "description": "Inject into zygote process",
+    "language": "C++",
+    "stars": 2160,
+    "forks": 238,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "wang-xinyu",
+    "name": "tensorrtx",
+    "href": "https://github.com/wang-xinyu/tensorrtx",
+    "description": "Implementation of popular deep learning networks with TensorRT network definition API",
+    "language": "C++",
+    "stars": 1260,
+    "forks": 311,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "SerenityOS",
+    "name": "serenity",
+    "href": "https://github.com/SerenityOS/serenity",
+    "description": "The Serenity Operating System 🐞",
+    "language": "C++",
+    "stars": 7504,
+    "forks": 665,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "alphacep",
+    "name": "vosk-api",
+    "href": "https://github.com/alphacep/vosk-api",
+    "description": "Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node",
+    "language": "C++",
+    "stars": 930,
+    "forks": 184,
+    "starsInPeriod": 13
+  },
+  {
+    "author": "MegEngine",
+    "name": "MegEngine",
+    "href": "https://github.com/MegEngine/MegEngine",
+    "description": "MegEngine 是一个快速、可拓展、易于使用且支持自动求导的深度学习框架",
+    "language": "C++",
+    "stars": 3296,
+    "forks": 374,
+    "starsInPeriod": 53
+  },
+  {
+    "author": "emscripten-core",
+    "name": "emscripten",
+    "href": "https://github.com/emscripten-core/emscripten",
+    "description": "Emscripten: An LLVM-to-WebAssembly Compiler",
+    "language": "C++",
+    "stars": 19911,
+    "forks": 2452,
     "starsInPeriod": 6
   },
   {
-    "author": "DrKLO",
-    "name": "Telegram",
-    "href": "https://github.com/DrKLO/Telegram",
-    "description": "Telegram for Android source",
+    "author": "google",
+    "name": "or-tools",
+    "href": "https://github.com/google/or-tools",
+    "description": "Google's Operations Research tools:",
     "language": "C++",
-    "stars": 15103,
-    "forks": 5519,
-    "starsInPeriod": 2
+    "stars": 6330,
+    "forks": 1363,
+    "starsInPeriod": 3
   },
   {
-    "author": "topjohnwu",
-    "name": "Magisk",
-    "href": "https://github.com/topjohnwu/Magisk",
-    "description": "The Magic Mask for Android",
+    "author": "facebook",
+    "name": "folly",
+    "href": "https://github.com/facebook/folly",
+    "description": "An open-source C++ library developed and used at Facebook.",
     "language": "C++",
-    "stars": 14148,
-    "forks": 2343,
-    "starsInPeriod": 19
+    "stars": 15930,
+    "forks": 3751,
+    "starsInPeriod": 15
   },
   {
-    "author": "esphome",
-    "name": "esphome",
-    "href": "https://github.com/esphome/esphome",
-    "description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
+    "author": "zaphoyd",
+    "name": "websocketpp",
+    "href": "https://github.com/zaphoyd/websocketpp",
+    "description": "C++ websocket client/server library",
     "language": "C++",
-    "stars": 2394,
-    "forks": 669,
-    "starsInPeriod": 6
+    "stars": 4334,
+    "forks": 1426,
+    "starsInPeriod": 21
   },
   {
-    "author": "atcoder",
-    "name": "ac-library",
-    "href": "https://github.com/atcoder/ac-library",
-    "description": "AtCoder Library",
+    "author": "google",
+    "name": "sentencepiece",
+    "href": "https://github.com/google/sentencepiece",
+    "description": "Unsupervised text tokenizer for Neural Network-based text generation.",
     "language": "C++",
-    "stars": 331,
-    "forks": 46,
-    "starsInPeriod": 4
+    "stars": 4570,
+    "forks": 610,
+    "starsInPeriod": 3
   },
   {
-    "author": "ArduPilot",
-    "name": "ardupilot",
-    "href": "https://github.com/ArduPilot/ardupilot",
-    "description": "ArduPlane, ArduCopter, ArduRover source",
+    "author": "ros-planning",
+    "name": "navigation2",
+    "href": "https://github.com/ros-planning/navigation2",
+    "description": "ROS2 Navigation",
     "language": "C++",
-    "stars": 5390,
-    "forks": 10042,
-    "starsInPeriod": 6
+    "stars": 440,
+    "forks": 290,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "ApolloAuto",
+    "name": "apollo",
+    "href": "https://github.com/ApolloAuto/apollo",
+    "description": "An open autonomous driving platform",
+    "language": "C++",
+    "stars": 17398,
+    "forks": 6685,
+    "starsInPeriod": 12
   },
   {
     "author": "pytorch",
@@ -195,58 +225,28 @@
     "href": "https://github.com/pytorch/pytorch",
     "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
     "language": "C++",
-    "stars": 43913,
-    "forks": 11555,
-    "starsInPeriod": 38
+    "stars": 44255,
+    "forks": 11681,
+    "starsInPeriod": 35
   },
   {
-    "author": "MarlinFirmware",
-    "name": "Marlin",
-    "href": "https://github.com/MarlinFirmware/Marlin",
-    "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "author": "CGAL",
+    "name": "cgal",
+    "href": "https://github.com/CGAL/cgal",
+    "description": "The public CGAL repository, see the README below",
     "language": "C++",
-    "stars": 8868,
-    "forks": 12288,
-    "starsInPeriod": 8
+    "stars": 2213,
+    "forks": 825,
+    "starsInPeriod": 3
   },
   {
-    "author": "RPCS3",
-    "name": "rpcs3",
-    "href": "https://github.com/RPCS3/rpcs3",
-    "description": "PS3 emulator/debugger",
+    "author": "dmlc",
+    "name": "xgboost",
+    "href": "https://github.com/dmlc/xgboost",
+    "description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
     "language": "C++",
-    "stars": 8502,
-    "forks": 1389,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "yuzu-emu",
-    "name": "yuzu",
-    "href": "https://github.com/yuzu-emu/yuzu",
-    "description": "Nintendo Switch Emulator",
-    "language": "C++",
-    "stars": 12514,
-    "forks": 1034,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "dusty-nv",
-    "name": "jetson-inference",
-    "href": "https://github.com/dusty-nv/jetson-inference",
-    "description": "Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.",
-    "language": "C++",
-    "stars": 3750,
-    "forks": 1669,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "aseprite",
-    "name": "aseprite",
-    "href": "https://github.com/aseprite/aseprite",
-    "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
-    "language": "C++",
-    "stars": 10666,
-    "forks": 1036,
-    "starsInPeriod": 18
+    "stars": 20197,
+    "forks": 7830,
+    "starsInPeriod": 12
   }
 ]
