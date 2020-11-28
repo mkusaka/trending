@@ -1,33 +1,43 @@
 [
   {
-    "author": "YTVanced",
-    "name": "VancedManager",
-    "href": "https://github.com/YTVanced/VancedManager",
-    "description": "Vanced Installer",
+    "author": "gedoor",
+    "name": "legado",
+    "href": "https://github.com/gedoor/legado",
+    "description": "阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。",
     "language": "Kotlin",
-    "stars": 1710,
-    "forks": 103,
-    "starsInPeriod": 87
+    "stars": 1746,
+    "forks": 390,
+    "starsInPeriod": 8
   },
   {
-    "author": "mamoe",
-    "name": "mirai",
-    "href": "https://github.com/mamoe/mirai",
-    "description": "高效率 QQ 机器人框架 / High-performance bot framework for Tencent QQ",
+    "author": "Gurupreet",
+    "name": "ComposeCookBook",
+    "href": "https://github.com/Gurupreet/ComposeCookBook",
+    "description": "A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential",
     "language": "Kotlin",
-    "stars": 4165,
-    "forks": 1445,
-    "starsInPeriod": 15
+    "stars": 1123,
+    "forks": 72,
+    "starsInPeriod": 44
   },
   {
-    "author": "JetBrains",
-    "name": "kotlin",
-    "href": "https://github.com/JetBrains/kotlin",
-    "description": "The Kotlin Programming Language",
+    "author": "android",
+    "name": "plaid",
+    "href": "https://github.com/android/plaid",
+    "description": "An Android app which provides design news & inspiration as well as being an example of implementing material design.",
     "language": "Kotlin",
-    "stars": 33976,
-    "forks": 4239,
-    "starsInPeriod": 13
+    "stars": 15808,
+    "forks": 3228,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "material-components",
+    "name": "material-components-android-examples",
+    "href": "https://github.com/material-components/material-components-android-examples",
+    "description": "Companion example apps and code for MDC-Android.",
+    "language": "Kotlin",
+    "stars": 1771,
+    "forks": 326,
+    "starsInPeriod": 61
   },
   {
     "author": "2dust",
@@ -35,9 +45,49 @@
     "href": "https://github.com/2dust/v2rayNG",
     "description": null,
     "language": "Kotlin",
-    "stars": 7503,
-    "forks": 1501,
-    "starsInPeriod": 16
+    "stars": 7664,
+    "forks": 1523,
+    "starsInPeriod": 29
+  },
+  {
+    "author": "corona-warn-app",
+    "name": "cwa-app-android",
+    "href": "https://github.com/corona-warn-app/cwa-app-android",
+    "description": "Native Android app using the Apple/Google exposure notification API.",
+    "language": "Kotlin",
+    "stars": 2120,
+    "forks": 449,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "coil-kt",
+    "name": "coil",
+    "href": "https://github.com/coil-kt/coil",
+    "description": "Image loading for Android backed by Kotlin Coroutines.",
+    "language": "Kotlin",
+    "stars": 5129,
+    "forks": 277,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "Kotlin",
+    "name": "kotlinx-datetime",
+    "href": "https://github.com/Kotlin/kotlinx-datetime",
+    "description": "KotlinX multiplatform date/time library",
+    "language": "Kotlin",
+    "stars": 658,
+    "forks": 11,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "SimpleMobileTools",
+    "name": "Simple-Gallery",
+    "href": "https://github.com/SimpleMobileTools/Simple-Gallery",
+    "description": "Browse your memories without any interruptions with this photo and video gallery",
+    "language": "Kotlin",
+    "stars": 1595,
+    "forks": 468,
+    "starsInPeriod": 3
   },
   {
     "author": "inorichi",
@@ -45,119 +95,59 @@
     "href": "https://github.com/inorichi/tachiyomi",
     "description": "Free and open source manga reader for Android",
     "language": "Kotlin",
-    "stars": 9021,
-    "forks": 1189,
-    "starsInPeriod": 12
+    "stars": 9145,
+    "forks": 1198,
+    "starsInPeriod": 13
   },
   {
-    "author": "tipsy",
-    "name": "javalin",
-    "href": "https://github.com/tipsy/javalin",
-    "description": "A simple and modern Java and Kotlin web framework",
+    "author": "mikepenz",
+    "name": "MaterialDrawer",
+    "href": "https://github.com/mikepenz/MaterialDrawer",
+    "description": "The flexible, easy to use, all in one drawer library for your Android project. Now brand new with material 2 design.",
     "language": "Kotlin",
-    "stars": 4350,
-    "forks": 387,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "fredoverflow",
-    "name": "karel",
-    "href": "https://github.com/fredoverflow/karel",
-    "description": "Karel The Robot",
-    "language": "Kotlin",
-    "stars": 84,
-    "forks": 17,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "duckduckgo",
-    "name": "Android",
-    "href": "https://github.com/duckduckgo/Android",
-    "description": "DuckDuckGo Android App",
-    "language": "Kotlin",
-    "stars": 1622,
-    "forks": 464,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "Szaki",
-    "name": "XiaomiADBFastbootTools",
-    "href": "https://github.com/Szaki/XiaomiADBFastbootTools",
-    "description": "A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot",
-    "language": "Kotlin",
-    "stars": 1778,
-    "forks": 200,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "yairm210",
-    "name": "Unciv",
-    "href": "https://github.com/yairm210/Unciv",
-    "description": "Open-source Android/Desktop remake of Civ V",
-    "language": "Kotlin",
-    "stars": 1888,
-    "forks": 553,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "gedoor",
-    "name": "legado",
-    "href": "https://github.com/gedoor/legado",
-    "description": "阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。",
-    "language": "Kotlin",
-    "stars": 1663,
-    "forks": 369,
-    "starsInPeriod": 11
-  },
-  {
-    "author": "westnordost",
-    "name": "StreetComplete",
-    "href": "https://github.com/westnordost/StreetComplete",
-    "description": "Easy to use OpenStreetMap editor for Android",
-    "language": "Kotlin",
-    "stars": 1634,
-    "forks": 168,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "vector-im",
-    "name": "element-android",
-    "href": "https://github.com/vector-im/element-android",
-    "description": "A glossy Matrix collaboration client for Android.",
-    "language": "Kotlin",
-    "stars": 738,
-    "forks": 159,
+    "stars": 11244,
+    "forks": 2102,
     "starsInPeriod": 5
   },
   {
-    "author": "h4h13",
-    "name": "RetroMusicPlayer",
-    "href": "https://github.com/h4h13/RetroMusicPlayer",
-    "description": "Best material design music player for Android",
+    "author": "android",
+    "name": "compose-samples",
+    "href": "https://github.com/android/compose-samples",
+    "description": "Official Jetpack Compose samples.",
     "language": "Kotlin",
-    "stars": 1011,
-    "forks": 237,
-    "starsInPeriod": 4
+    "stars": 4180,
+    "forks": 651,
+    "starsInPeriod": 19
   },
   {
-    "author": "mozilla-mobile",
-    "name": "fenix",
-    "href": "https://github.com/mozilla-mobile/fenix",
-    "description": "Firefox for Android",
+    "author": "android",
+    "name": "uamp",
+    "href": "https://github.com/android/uamp",
+    "description": "A sample audio app for Android",
     "language": "Kotlin",
-    "stars": 4280,
-    "forks": 637,
-    "starsInPeriod": 1
+    "stars": 11936,
+    "forks": 3526,
+    "starsInPeriod": 3
   },
   {
-    "author": "google-developer-training",
-    "name": "android-kotlin-fundamentals-starter-apps",
-    "href": "https://github.com/google-developer-training/android-kotlin-fundamentals-starter-apps",
-    "description": "android-kotlin-fundamentals-starter-apps",
+    "author": "android",
+    "name": "camera-samples",
+    "href": "https://github.com/android/camera-samples",
+    "description": "Multiple samples showing the best practices in camera APIs on Android.",
     "language": "Kotlin",
-    "stars": 463,
-    "forks": 1699,
-    "starsInPeriod": 1
+    "stars": 2341,
+    "forks": 1179,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "android",
+    "name": "architecture-samples",
+    "href": "https://github.com/android/architecture-samples",
+    "description": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
+    "language": "Kotlin",
+    "stars": 37808,
+    "forks": 10438,
+    "starsInPeriod": 6
   },
   {
     "author": "Shabinder",
@@ -165,58 +155,8 @@
     "href": "https://github.com/Shabinder/SpotiFlyer",
     "description": "Spotify Music Downloader For Android!",
     "language": "Kotlin",
-    "stars": 47,
-    "forks": 5,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "home-assistant",
-    "name": "android",
-    "href": "https://github.com/home-assistant/android",
-    "description": "📱 Home Assistant Companion for Android",
-    "language": "Kotlin",
-    "stars": 712,
-    "forks": 195,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "blokadaorg",
-    "name": "blokada",
-    "href": "https://github.com/blokadaorg/blokada",
-    "description": "The official repo for Blokada for Android and iOS.",
-    "language": "Kotlin",
-    "stars": 1774,
-    "forks": 127,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "android",
-    "name": "architecture-components-samples",
-    "href": "https://github.com/android/architecture-components-samples",
-    "description": "Samples for Android Architecture Components.",
-    "language": "Kotlin",
-    "stars": 18796,
-    "forks": 6534,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "CypherpunkArmory",
-    "name": "UserLAnd",
-    "href": "https://github.com/CypherpunkArmory/UserLAnd",
-    "description": "Main UserLAnd Repository",
-    "language": "Kotlin",
-    "stars": 1718,
-    "forks": 195,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "enricocid",
-    "name": "Music-Player-GO",
-    "href": "https://github.com/enricocid/Music-Player-GO",
-    "description": "🎶🎼 Very slim music player 👨‍🎤 100% made in Italy 🍕🌳🌞🍝🌄",
-    "language": "Kotlin",
-    "stars": 526,
-    "forks": 95,
+    "stars": 55,
+    "forks": 7,
     "starsInPeriod": 2
   },
   {
@@ -225,28 +165,88 @@
     "href": "https://github.com/dkrivoruchko/ScreenStream",
     "description": "Screen Stream over HTTP mobile app",
     "language": "Kotlin",
-    "stars": 573,
-    "forks": 169,
-    "starsInPeriod": 2
+    "stars": 589,
+    "forks": 171,
+    "starsInPeriod": 7
   },
   {
-    "author": "square",
-    "name": "okio",
-    "href": "https://github.com/square/okio",
-    "description": "A modern I/O library for Android, Kotlin, and Java.",
+    "author": "InsertKoinIO",
+    "name": "koin",
+    "href": "https://github.com/InsertKoinIO/koin",
+    "description": "Koin - a pragmatic lightweight dependency injection framework for Kotlin",
     "language": "Kotlin",
-    "stars": 7275,
-    "forks": 1022,
-    "starsInPeriod": 3
+    "stars": 6218,
+    "forks": 422,
+    "starsInPeriod": 9
   },
   {
-    "author": "CraZyLegenD",
-    "name": "Vigilante",
-    "href": "https://github.com/CraZyLegenD/Vigilante",
-    "description": "🛡️ Android security (camera/microphone dots indicators) app using Hilt, Animations, Coroutines, Material, StateFlow, Jetpack (Room, ViewModel, Paging, Security, Biometrics, Start-up) based on MVVM architecture.",
+    "author": "JetBrains",
+    "name": "intellij-platform-plugin-template",
+    "href": "https://github.com/JetBrains/intellij-platform-plugin-template",
+    "description": "Template repository for creating plugins for IntelliJ Platform",
     "language": "Kotlin",
-    "stars": 72,
+    "stars": 394,
+    "forks": 61,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "jhbxyz",
+    "name": "WanAndroidJetpack",
+    "href": "https://github.com/jhbxyz/WanAndroidJetpack",
+    "description": "🔥 WanAndroid 客户端，Kotlin + MVVM + Jetpack + Retrofit + Glide。基于 MVVM 架构，用 Jetpack 实现，网络采用 Kotlin 的协程和 Retrofit 配合使用！精美的 UI，便捷突出的功能实现，欢迎下载体验！",
+    "language": "Kotlin",
+    "stars": 31,
     "forks": 6,
-    "starsInPeriod": 39
+    "starsInPeriod": 22
+  },
+  {
+    "author": "moezbhatti",
+    "name": "qksms",
+    "href": "https://github.com/moezbhatti/qksms",
+    "description": "The most beautiful SMS messenger for Android",
+    "language": "Kotlin",
+    "stars": 3031,
+    "forks": 889,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "videolan",
+    "name": "vlc-android",
+    "href": "https://github.com/videolan/vlc-android",
+    "description": "VLC for Android, Android TV and ChromeOS",
+    "language": "Kotlin",
+    "stars": 917,
+    "forks": 296,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "google",
+    "name": "iosched",
+    "href": "https://github.com/google/iosched",
+    "description": "The Google I/O 2019 Android App",
+    "language": "Kotlin",
+    "stars": 20229,
+    "forks": 6101,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "KotlinBy",
+    "name": "awesome-kotlin",
+    "href": "https://github.com/KotlinBy/awesome-kotlin",
+    "description": "A curated list of awesome Kotlin related stuff Inspired by awesome-java.",
+    "language": "Kotlin",
+    "stars": 9118,
+    "forks": 1053,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "fredoverflow",
+    "name": "karel",
+    "href": "https://github.com/fredoverflow/karel",
+    "description": "Karel The Robot",
+    "language": "Kotlin",
+    "stars": 113,
+    "forks": 19,
+    "starsInPeriod": 3
   }
 ]

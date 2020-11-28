@@ -1,51 +1,51 @@
 # general
-- [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) : JavaScript
-  - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [starship](https://github.com/starship/starship) : Rust
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) : Objective-C
+  - Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)
+- [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) : C++
+  - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
+- [Xray-core](https://github.com/XTLS/Xray-core) : Go
+  - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
+- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
+  - Course Files for Complete Python 3 Bootcamp Course on Udemy
+- [tinygrad](https://github.com/geohot/tinygrad) : Python
+  - You like pytorch? You like micrograd? You love tinygrad! ❤️
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
+  - Roadmap to becoming a web developer in 2020
+- [Modern-HTML-Starter-Template](https://github.com/harryheman/Modern-HTML-Starter-Template) : JavaScript
+  - Modern HTML Starter Template
+- [Rainbow-Fart-MBG](https://github.com/Nanguage/Rainbow-Fart-MBG) : 
+  - 程序员要讲码德，耗子尾汁，好好反思！
+- [libra](https://github.com/libra/libra) : Rust
+  - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [Tasmota](https://github.com/arendst/Tasmota) : C
+  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
+- [iced](https://github.com/hecrj/iced) : Rust
+  - A cross-platform GUI library for Rust, inspired by Elm
+- [InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday) : 
+  - All the deals for InfoSec related software/tools this Black Friday
+- [git-flight-rules](https://github.com/k88hudson/git-flight-rules) : 
+  - Flight rules for git
 - [awesome](https://github.com/sindresorhus/awesome) : 
   - 😎 Awesome lists about all kinds of interesting topics
-- [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) : Python
-  - Bringing Old Photo Back to Life (CVPR 2020 oral)
-- [gping](https://github.com/orf/gping) : Rust
-  - Ping, but with a graph
-- [FallChallenge2020](https://github.com/CodinGame/FallChallenge2020) : JavaScript
-  - Source code for CodinGame's Fall Challenge 2020 event.
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui) : TypeScript
-  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [iptv](https://github.com/iptv-org/iptv) : JavaScript
-  - Collection of 5000+ publicly available IPTV channels from all over the world
-- [k0s](https://github.com/k0sproject/k0s) : Go
-  - k0s - Zero Friction Kubernetes
-- [alacritty](https://github.com/alacritty/alacritty) : Rust
-  - A cross-platform, GPU-accelerated terminal emulator
-- [macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) : Vue
-  - Replacement icons for popular apps in the style of macOS Big Sur
-- [rustlings](https://github.com/rust-lang/rustlings) : Rust
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
-  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
   - A long list of (advanced) JavaScript questions, and their explanations ✨
+- [datasets](https://github.com/huggingface/datasets) : Python
+  - 🤗 Fast, efficient, open-access datasets and evaluation metrics in PyTorch, TensorFlow, NumPy and Pandas
+- [leetcode_101](https://github.com/changgyhub/leetcode_101) : 
+  - LeetCode 101：和你一起你轻松刷题（C++）
+- [PrivescCheck](https://github.com/itm4n/PrivescCheck) : PowerShell
+  - Privilege Escalation Enumeration Script for Windows
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
   - 🛁 Clean Code concepts adapted for JavaScript
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
-  - 💯 Materials to help you rock your next coding interview
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [faker](https://github.com/joke2k/faker) : Python
-  - Faker is a Python package that generates fake data for you.
+- [Coding-Interview-101](https://github.com/xianzhez/Coding-Interview-101) : 
+  - Coding interview tips
 - [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) : 
   - A list of awesome beginners-friendly projects.
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [bitcoin](https://github.com/bitcoin/bitcoin) : C++
-  - Bitcoin Core integration/staging tree
-- [core](https://github.com/home-assistant/core) : Python
-  - 🏡 Open source home automation that puts local control and privacy first
-- [Testnet3-Challenges](https://github.com/Concordium/Testnet3-Challenges) : 
-  - This repo is dedicated to Concordium Incentivized Testnet3.
-- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) : Python
-  - 30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.
-- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) : Go
-  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
+  - 💯 Materials to help you rock your next coding interview
+- [spectre.console](https://github.com/spectresystems/spectre.console) : C#
+  - A library that makes it easier to create beautiful console applications.
+- [SimpleVM](https://github.com/KhaosT/SimpleVM) : Swift
+  - Sample code for Virtualization framework
+- [MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) : Assembly
+  - Collection of malware source code for a variety of platforms in an array of different programming languages.
