@@ -1,13 +1,13 @@
 [
   {
-    "author": "ruby",
-    "name": "ruby",
-    "href": "https://github.com/ruby/ruby",
-    "description": "The Ruby Programming Language [mirror]",
+    "author": "tootsuite",
+    "name": "mastodon",
+    "href": "https://github.com/tootsuite/mastodon",
+    "description": "Your self-hosted, globally interconnected microblogging community",
     "language": "Ruby",
-    "stars": 17504,
-    "forks": 4670,
-    "starsInPeriod": 4
+    "stars": 22366,
+    "forks": 3810,
+    "starsInPeriod": 17
   },
   {
     "author": "Homebrew",
@@ -15,59 +15,9 @@
     "href": "https://github.com/Homebrew/brew",
     "description": "🍺 The missing package manager for macOS (or Linux)",
     "language": "Ruby",
-    "stars": 23759,
-    "forks": 5553,
-    "starsInPeriod": 31
-  },
-  {
-    "author": "fluent",
-    "name": "fluentd",
-    "href": "https://github.com/fluent/fluentd",
-    "description": "Fluentd: Unified Logging Layer (project under CNCF)",
-    "language": "Ruby",
-    "stars": 9707,
-    "forks": 1117,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "jekyll",
-    "name": "jekyll",
-    "href": "https://github.com/jekyll/jekyll",
-    "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
-    "language": "Ruby",
-    "stars": 41614,
-    "forks": 9103,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "rapid7",
-    "name": "metasploit-framework",
-    "href": "https://github.com/rapid7/metasploit-framework",
-    "description": "Metasploit Framework",
-    "language": "Ruby",
-    "stars": 22103,
-    "forks": 10632,
-    "starsInPeriod": 11
-  },
-  {
-    "author": "freeCodeCamp",
-    "name": "devdocs",
-    "href": "https://github.com/freeCodeCamp/devdocs",
-    "description": "API Documentation Browser",
-    "language": "Ruby",
-    "stars": 24237,
-    "forks": 1646,
-    "starsInPeriod": 17
-  },
-  {
-    "author": "rails",
-    "name": "rails",
-    "href": "https://github.com/rails/rails",
-    "description": "Ruby on Rails",
-    "language": "Ruby",
-    "stars": 46940,
-    "forks": 18853,
-    "starsInPeriod": 12
+    "stars": 24249,
+    "forks": 5612,
+    "starsInPeriod": 87
   },
   {
     "author": "sonic-pi-net",
@@ -75,69 +25,29 @@
     "href": "https://github.com/sonic-pi-net/sonic-pi",
     "description": "Code. Music. Live.",
     "language": "Ruby",
-    "stars": 6263,
-    "forks": 689,
-    "starsInPeriod": 5
+    "stars": 6332,
+    "forks": 692,
+    "starsInPeriod": 14
   },
   {
-    "author": "OpenCSPM",
-    "name": "opencspm",
-    "href": "https://github.com/OpenCSPM/opencspm",
-    "description": "Open Cloud Security Posture Management Engine",
+    "author": "kilimchoi",
+    "name": "engineering-blogs",
+    "href": "https://github.com/kilimchoi/engineering-blogs",
+    "description": "A curated list of engineering blogs",
     "language": "Ruby",
-    "stars": 85,
-    "forks": 4,
-    "starsInPeriod": 26
-  },
-  {
-    "author": "gitlabhq",
-    "name": "gitlabhq",
-    "href": "https://github.com/gitlabhq/gitlabhq",
-    "description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com",
-    "language": "Ruby",
-    "stars": 22410,
-    "forks": 5620,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "opf",
-    "name": "openproject",
-    "href": "https://github.com/opf/openproject",
-    "description": "OpenProject is the leading open source project management software.",
-    "language": "Ruby",
-    "stars": 4353,
-    "forks": 1317,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "hartator",
-    "name": "wayback-machine-downloader",
-    "href": "https://github.com/hartator/wayback-machine-downloader",
-    "description": "Download an entire website from the Wayback Machine.",
-    "language": "Ruby",
-    "stars": 2420,
-    "forks": 375,
+    "stars": 17564,
+    "forks": 182,
     "starsInPeriod": 6
   },
   {
-    "author": "rails",
-    "name": "webpacker",
-    "href": "https://github.com/rails/webpacker",
-    "description": "Use Webpack to manage app-like JavaScript modules in Rails",
+    "author": "rapid7",
+    "name": "metasploit-framework",
+    "href": "https://github.com/rapid7/metasploit-framework",
+    "description": "Metasploit Framework",
     "language": "Ruby",
-    "stars": 4934,
-    "forks": 1305,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "Homebrew",
-    "name": "homebrew-core",
-    "href": "https://github.com/Homebrew/homebrew-core",
-    "description": "🍻 Default formulae for the missing package manager for macOS",
-    "language": "Ruby",
-    "stars": 8280,
-    "forks": 8563,
-    "starsInPeriod": 8
+    "stars": 22226,
+    "forks": 10687,
+    "starsInPeriod": 18
   },
   {
     "author": "Homebrew",
@@ -145,49 +55,29 @@
     "href": "https://github.com/Homebrew/homebrew-bundle",
     "description": "📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.",
     "language": "Ruby",
-    "stars": 3432,
-    "forks": 214,
-    "starsInPeriod": 2
+    "stars": 3460,
+    "forks": 216,
+    "starsInPeriod": 7
   },
   {
-    "author": "Homebrew",
-    "name": "homebrew-cask",
-    "href": "https://github.com/Homebrew/homebrew-cask",
-    "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
+    "author": "freeCodeCamp",
+    "name": "devdocs",
+    "href": "https://github.com/freeCodeCamp/devdocs",
+    "description": "API Documentation Browser",
     "language": "Ruby",
-    "stars": 17612,
-    "forks": 8657,
-    "starsInPeriod": 4
+    "stars": 24323,
+    "forks": 1655,
+    "starsInPeriod": 17
   },
   {
-    "author": "urbanadventurer",
-    "name": "WhatWeb",
-    "href": "https://github.com/urbanadventurer/WhatWeb",
-    "description": "Next generation web scanner",
+    "author": "alexeygrigorev",
+    "name": "data-science-interviews",
+    "href": "https://github.com/alexeygrigorev/data-science-interviews",
+    "description": "Data science interview questions and answers",
     "language": "Ruby",
-    "stars": 2717,
-    "forks": 656,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "redmine",
-    "name": "redmine",
-    "href": "https://github.com/redmine/redmine",
-    "description": "Mirror of redmine code source - Official SVN repository is at https://svn.redmine.org/redmine - contact: @jbbarth or jeanbaptiste.barth (at) gmail (dot) com",
-    "language": "Ruby",
-    "stars": 3908,
-    "forks": 2002,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "github",
-    "name": "explore",
-    "href": "https://github.com/github/explore",
-    "description": "Community-curated topic and collection pages on GitHub",
-    "language": "Ruby",
-    "stars": 1967,
-    "forks": 7666,
-    "starsInPeriod": 4
+    "stars": 3644,
+    "forks": 702,
+    "starsInPeriod": 9
   },
   {
     "author": "sinatra",
@@ -195,9 +85,89 @@
     "href": "https://github.com/sinatra/sinatra",
     "description": "Classy web-development dressed in a DSL (official / canonical repo)",
     "language": "Ruby",
-    "stars": 11125,
+    "stars": 11133,
     "forks": 1997,
-    "starsInPeriod": 1
+    "starsInPeriod": 4
+  },
+  {
+    "author": "TheOdinProject",
+    "name": "theodinproject",
+    "href": "https://github.com/TheOdinProject/theodinproject",
+    "description": "Main Website for The Odin Project",
+    "language": "Ruby",
+    "stars": 1137,
+    "forks": 928,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "jekyll",
+    "name": "jekyll",
+    "href": "https://github.com/jekyll/jekyll",
+    "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
+    "language": "Ruby",
+    "stars": 41684,
+    "forks": 9111,
+    "starsInPeriod": 24
+  },
+  {
+    "author": "CocoaPods",
+    "name": "Xcodeproj",
+    "href": "https://github.com/CocoaPods/Xcodeproj",
+    "description": "Create and modify Xcode projects from Ruby.",
+    "language": "Ruby",
+    "stars": 1796,
+    "forks": 387,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "Homebrew",
+    "name": "homebrew-cask",
+    "href": "https://github.com/Homebrew/homebrew-cask",
+    "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
+    "language": "Ruby",
+    "stars": 17670,
+    "forks": 8682,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "rubocop-hq",
+    "name": "rubocop",
+    "href": "https://github.com/rubocop-hq/rubocop",
+    "description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
+    "language": "Ruby",
+    "stars": 11170,
+    "forks": 2542,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "citation-style-language",
+    "name": "styles",
+    "href": "https://github.com/citation-style-language/styles",
+    "description": "Official repository for Citation Style Language (CSL) citation styles.",
+    "language": "Ruby",
+    "stars": 2099,
+    "forks": 2864,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "rails",
+    "name": "rails",
+    "href": "https://github.com/rails/rails",
+    "description": "Ruby on Rails",
+    "language": "Ruby",
+    "stars": 47019,
+    "forks": 18873,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "shivammathur",
+    "name": "homebrew-php",
+    "href": "https://github.com/shivammathur/homebrew-php",
+    "description": "🍻 Homebrew tap for PHP 5.6 to 8.1. PHP 8.1 is a nightly build.",
+    "language": "Ruby",
+    "stars": 122,
+    "forks": 7,
+    "starsInPeriod": 17
   },
   {
     "author": "puppetlabs",
@@ -205,48 +175,78 @@
     "href": "https://github.com/puppetlabs/puppet",
     "description": "Server automation framework and application",
     "language": "Ruby",
-    "stars": 5962,
-    "forks": 2171,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "postalhq",
-    "name": "postal",
-    "href": "https://github.com/postalhq/postal",
-    "description": "📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail",
-    "language": "Ruby",
-    "stars": 10089,
-    "forks": 654,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "geerlingguy",
-    "name": "raspberry-pi-pcie-devices",
-    "href": "https://github.com/geerlingguy/raspberry-pi-pcie-devices",
-    "description": "Raspberry Pi PCI Express device compatibility database",
-    "language": "Ruby",
-    "stars": 95,
-    "forks": 5,
+    "stars": 5979,
+    "forks": 2170,
     "starsInPeriod": 4
   },
   {
-    "author": "openstreetmap",
-    "name": "openstreetmap-website",
-    "href": "https://github.com/openstreetmap/openstreetmap-website",
-    "description": "The Rails application that powers OpenStreetMap",
+    "author": "github",
+    "name": "explore",
+    "href": "https://github.com/github/explore",
+    "description": "Community-curated topic and collection pages on GitHub",
     "language": "Ruby",
-    "stars": 1194,
-    "forks": 677,
+    "stars": 1988,
+    "forks": 7721,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "learn-co-curriculum",
+    "name": "getting-remote-data-working-with-apis",
+    "href": "https://github.com/learn-co-curriculum/getting-remote-data-working-with-apis",
+    "description": null,
+    "language": "Ruby",
+    "stars": 1,
+    "forks": 404,
     "starsInPeriod": 0
   },
   {
-    "author": "bayandin",
-    "name": "awesome-awesomeness",
-    "href": "https://github.com/bayandin/awesome-awesomeness",
-    "description": "A curated list of awesome awesomeness",
+    "author": "Hackplayers",
+    "name": "evil-winrm",
+    "href": "https://github.com/Hackplayers/evil-winrm",
+    "description": "The ultimate WinRM shell for hacking/pentesting",
     "language": "Ruby",
-    "stars": 26888,
-    "forks": 3319,
-    "starsInPeriod": 6
+    "stars": 1447,
+    "forks": 300,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "learn-co-curriculum",
+    "name": "cookies_and_sessions_lab",
+    "href": "https://github.com/learn-co-curriculum/cookies_and_sessions_lab",
+    "description": null,
+    "language": "Ruby",
+    "stars": 0,
+    "forks": 131,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "rubysec",
+    "name": "ruby-advisory-db",
+    "href": "https://github.com/rubysec/ruby-advisory-db",
+    "description": "A database of vulnerable Ruby Gems",
+    "language": "Ruby",
+    "stars": 811,
+    "forks": 166,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "makersacademy",
+    "name": "airport_challenge",
+    "href": "https://github.com/makersacademy/airport_challenge",
+    "description": "Fly!",
+    "language": "Ruby",
+    "stars": 16,
+    "forks": 1782,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "learn-co-curriculum",
+    "name": "sessions_controller_lab",
+    "href": "https://github.com/learn-co-curriculum/sessions_controller_lab",
+    "description": null,
+    "language": "Ruby",
+    "stars": 0,
+    "forks": 99,
+    "starsInPeriod": 0
   }
 ]

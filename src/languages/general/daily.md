@@ -1,51 +1,50 @@
 # general
-- [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) : JavaScript
-  - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [starship](https://github.com/starship/starship) : Rust
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [k6](https://github.com/loadimpact/k6) : Go
+  - A modern load testing tool, using Go and JavaScript - https://k6.io
+- [lede](https://github.com/coolsnowwolf/lede) : C
+  - Lean's OpenWrt source
+- [CrewLink](https://github.com/ottomated/CrewLink) : TypeScript
+  - Free, open, Among Us Proximity Chat
+- [reveal.js](https://github.com/hakimel/reveal.js) : JavaScript
+  - The HTML Presentation Framework
+- [x](https://github.com/DustinBrett/x) : JavaScript
+  - Desktop environment in the browser.
+- [flutter](https://github.com/flutter/flutter) : Dart
+  - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
+  - Course Files for Complete Python 3 Bootcamp Course on Udemy
+- [drogon](https://github.com/an-tao/drogon) : C++
+  - Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows
+- [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) : Python
+  - We have made you a wrapper you can't refuse
+- [openwrt-passwall](https://github.com/xiaorouji/openwrt-passwall) : HTML
+- [Neurax](https://github.com/redcode-labs/Neurax) : Go
+  - A library for constructing self-spreading binaries
+- [inventory-hunter](https://github.com/EricJMarti/inventory-hunter) : Python
+  - ⚡️ Get notified as soon as your next CPU/GPU is in stock
+- [Tasmota](https://github.com/arendst/Tasmota) : C
+  - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
+- [twin.macro](https://github.com/ben-rogerson/twin.macro) : JavaScript
+  - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components and goober) at build time.
+- [ABigSurvey](https://github.com/NiuTrans/ABigSurvey) : 
+  - A collection of 400+ survey papers on Natural Language Processing (NLP) and Machine Learning (ML)
+- [edex-ui](https://github.com/GitSquared/edex-ui) : JavaScript
+  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+- [Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet) : 
+  - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
+- [awesome-flutter](https://github.com/Solido/awesome-flutter) : Dart
+  - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
+- [datasets](https://github.com/huggingface/datasets) : Python
+  - 🤗 Fast, efficient, open-access datasets and evaluation metrics in PyTorch, TensorFlow, NumPy and Pandas
+- [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) : Objective-C
+  - Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)
 - [awesome](https://github.com/sindresorhus/awesome) : 
   - 😎 Awesome lists about all kinds of interesting topics
-- [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) : Python
-  - Bringing Old Photo Back to Life (CVPR 2020 oral)
-- [gping](https://github.com/orf/gping) : Rust
-  - Ping, but with a graph
-- [FallChallenge2020](https://github.com/CodinGame/FallChallenge2020) : JavaScript
-  - Source code for CodinGame's Fall Challenge 2020 event.
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui) : TypeScript
-  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [iptv](https://github.com/iptv-org/iptv) : JavaScript
-  - Collection of 5000+ publicly available IPTV channels from all over the world
-- [k0s](https://github.com/k0sproject/k0s) : Go
-  - k0s - Zero Friction Kubernetes
-- [alacritty](https://github.com/alacritty/alacritty) : Rust
-  - A cross-platform, GPU-accelerated terminal emulator
-- [macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) : Vue
-  - Replacement icons for popular apps in the style of macOS Big Sur
-- [rustlings](https://github.com/rust-lang/rustlings) : Rust
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
-  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
   - A long list of (advanced) JavaScript questions, and their explanations ✨
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
-  - 💯 Materials to help you rock your next coding interview
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [faker](https://github.com/joke2k/faker) : Python
-  - Faker is a Python package that generates fake data for you.
-- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) : 
-  - A list of awesome beginners-friendly projects.
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [bitcoin](https://github.com/bitcoin/bitcoin) : C++
-  - Bitcoin Core integration/staging tree
-- [core](https://github.com/home-assistant/core) : Python
-  - 🏡 Open source home automation that puts local control and privacy first
-- [Testnet3-Challenges](https://github.com/Concordium/Testnet3-Challenges) : 
-  - This repo is dedicated to Concordium Incentivized Testnet3.
-- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) : Python
-  - 30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.
-- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) : Go
-  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday) : 
+  - All the deals for InfoSec related software/tools this Black Friday
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) : 
+  - Roadmap to becoming a web developer in 2020
+- [pi-hole](https://github.com/pi-hole/pi-hole) : Shell
+  - A black hole for Internet advertisements

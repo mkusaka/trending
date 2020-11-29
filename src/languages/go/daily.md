@@ -1,51 +1,51 @@
 # go
-- [k0s](https://github.com/k0sproject/k0s)
-  - k0s - Zero Friction Kubernetes
-- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
-  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
-- [gatus](https://github.com/TwinProduction/gatus)
-  - ⛑ Gatus - Automated service health dashboard
-- [teler](https://github.com/kitabisa/teler)
-  - Real-time HTTP Intrusion Detection
-- [automuteus](https://github.com/denverquane/automuteus)
-  - Discord Bot to automute Among Us players at round transitions, in conjunction with https://github.com/denverquane/amonguscapture
-- [go](https://github.com/golang/go)
-  - The Go programming language
-- [WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons)
-  - ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting
-- [kraken](https://github.com/uber/kraken)
-  - P2P Docker registry capable of distributing TBs of data in seconds
-- [fyne](https://github.com/fyne-io/fyne)
-  - Cross platform GUI in Go based on Material Design
-- [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy)
-  - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
-- [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2)
-  - An open source re-implementation of Diablo 2
-- [rclone](https://github.com/rclone/rclone)
-  - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
-- [OpenMetrics](https://github.com/OpenObservability/OpenMetrics)
-  - Evolving the Prometheus exposition format into a standard.
-- [gotraining](https://github.com/ardanlabs/gotraining)
-  - Go Training Class Material :
+- [k6](https://github.com/loadimpact/k6)
+  - A modern load testing tool, using Go and JavaScript - https://k6.io
+- [Neurax](https://github.com/redcode-labs/Neurax)
+  - A library for constructing self-spreading binaries
+- [kratos](https://github.com/go-kratos/kratos)
+  - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
+- [Xray-core](https://github.com/XTLS/Xray-core)
+  - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
 - [v2ray-core](https://github.com/v2fly/v2ray-core)
   - A platform for building proxies to bypass network restrictions.
-- [gobuster](https://github.com/OJ/gobuster)
-  - Directory/File, DNS and VHost busting tool written in Go
-- [micro](https://github.com/zyedidia/micro)
-  - A modern and intuitive terminal-based text editor
-- [v2ray-core](https://github.com/v2ray/v2ray-core)
-  - A platform for building proxies to bypass network restrictions.
-- [go-echarts](https://github.com/go-echarts/go-echarts)
-  - 🎨 The adorable charts library for Golang
-- [kratos](https://github.com/ory/kratos)
-  - Never build user login, user registration, 2fa, profile management ever again! Works on any operating system, cloud, with any programming language, user interface, and user experience! Written in Go.
-- [colly](https://github.com/gocolly/colly)
-  - Elegant Scraper and Crawler Framework for Golang
-- [ServerScan](https://github.com/Adminisme/ServerScan)
-  - ServerScan一款使用Golang开发的高并发网络扫描、服务探测工具。
-- [flux2](https://github.com/fluxcd/flux2)
-  - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
-- [glow](https://github.com/charmbracelet/glow)
-  - Render markdown on the CLI, with pizzazz! 💅🏻
+- [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga)
+  - Advanced information gathering & OSINT framework for phone numbers
+- [cloudquery](https://github.com/cloudquery/cloudquery)
+  - cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security.
+- [prysm](https://github.com/prysmaticlabs/prysm)
+  - Go implementation of the Ethereum 2.0 blockchain
+- [privacy](https://github.com/kallydev/privacy)
+  - 个人数据泄漏检测网站，适用于 QQ / 京东 / 顺丰 / 微博。
+- [automuteus](https://github.com/denverquane/automuteus)
+  - Discord Bot to automute Among Us players at round transitions, in conjunction with https://github.com/denverquane/amonguscapture
 - [fiber](https://github.com/gofiber/fiber)
   - ⚡️ Express inspired web framework written in Go
+- [opa](https://github.com/open-policy-agent/opa)
+  - An open source, general-purpose policy engine.
+- [syncthing](https://github.com/syncthing/syncthing)
+  - Open Source Continuous File Synchronization
+- [inlets](https://github.com/inlets/inlets)
+  - Cloud Native Tunnel for APIs
+- [ethr](https://github.com/microsoft/ethr)
+  - Ethr is a Network Performance Measurement Tool for TCP, UDP & HTTP.
+- [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy)
+  - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
+- [discordgo](https://github.com/bwmarrin/discordgo)
+  - (Golang) Go bindings for Discord
+- [chat](https://github.com/tinode/chat)
+  - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
+- [machinery](https://github.com/RichardKnop/machinery)
+  - Machinery is an asynchronous task queue/job queue based on distributed message passing.
+- [pgx](https://github.com/jackc/pgx)
+  - PostgreSQL driver and toolkit for Go
+- [lazykube](https://github.com/TNK-Studio/lazykube)
+  - ⎈ The lazier way to manage kubernetes.
+- [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
+  - Network-wide ads & trackers blocking DNS server
+- [trojan-go](https://github.com/p4gefau1t/trojan-go)
+  - Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
+- [kit](https://github.com/go-kit/kit)
+  - A standard library for microservices.
+- [please](https://github.com/thought-machine/please)
+  - High-performance extensible build system for reproducible multi-language builds.
