@@ -1,223 +1,93 @@
 [
   {
-    "author": "thenewboston-developers",
-    "name": "Website",
-    "href": "https://github.com/thenewboston-developers/Website",
-    "description": "The website and documentation for thenewboston.",
-    "language": "TypeScript",
-    "stars": 475,
-    "forks": 280,
-    "starsInPeriod": 326
-  },
-  {
-    "author": "chakra-ui",
-    "name": "chakra-ui",
-    "href": "https://github.com/chakra-ui/chakra-ui",
-    "description": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
-    "language": "TypeScript",
-    "stars": 12214,
-    "forks": 885,
-    "starsInPeriod": 540
-  },
-  {
-    "author": "MrXujiang",
-    "name": "h5-Dooring",
-    "href": "https://github.com/MrXujiang/h5-Dooring",
-    "description": "(H5编辑器)H5-Dooring是一款功能强大，开源免费的H5可视化页面配置解决方案，致力于提供一套简单方便、专业可靠、无限可能的H5落地页最佳实践。技术栈以react为主， 后台采用nodejs开发.",
-    "language": "TypeScript",
-    "stars": 1633,
-    "forks": 282,
-    "starsInPeriod": 257
-  },
-  {
-    "author": "thenewboston-developers",
-    "name": "Account-Manager",
-    "href": "https://github.com/thenewboston-developers/Account-Manager",
-    "description": "Account manager desktop application for thenewboston digital currency.",
-    "language": "TypeScript",
-    "stars": 284,
-    "forks": 104,
-    "starsInPeriod": 69
-  },
-  {
-    "author": "n8n-io",
-    "name": "n8n",
-    "href": "https://github.com/n8n-io/n8n",
-    "description": "Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.",
-    "language": "TypeScript",
-    "stars": 10701,
-    "forks": 793,
-    "starsInPeriod": 466
-  },
-  {
-    "author": "alephjs",
-    "name": "aleph.js",
-    "href": "https://github.com/alephjs/aleph.js",
-    "description": "The React Framework in Deno.",
-    "language": "TypeScript",
-    "stars": 1126,
-    "forks": 26,
-    "starsInPeriod": 456
-  },
-  {
-    "author": "DefinitelyTyped",
-    "name": "DefinitelyTyped",
-    "href": "https://github.com/DefinitelyTyped/DefinitelyTyped",
-    "description": "The repository for high quality TypeScript type definitions.",
-    "language": "TypeScript",
-    "stars": 30794,
-    "forks": 23206,
-    "starsInPeriod": 115
-  },
-  {
-    "author": "microsoft",
-    "name": "vscode",
-    "href": "https://github.com/microsoft/vscode",
-    "description": "Visual Studio Code",
-    "language": "TypeScript",
-    "stars": 106249,
-    "forks": 17062,
-    "starsInPeriod": 432
-  },
-  {
-    "author": "eclipse-theia",
-    "name": "theia",
-    "href": "https://github.com/eclipse-theia/theia",
-    "description": "Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.",
-    "language": "TypeScript",
-    "stars": 12260,
-    "forks": 1450,
-    "starsInPeriod": 76
-  },
-  {
-    "author": "angular",
-    "name": "angular",
-    "href": "https://github.com/angular/angular",
-    "description": "One framework. Mobile & desktop.",
-    "language": "TypeScript",
-    "stars": 67898,
-    "forks": 17942,
-    "starsInPeriod": 503
-  },
-  {
-    "author": "CopyTranslator",
-    "name": "CopyTranslator",
-    "href": "https://github.com/CopyTranslator/CopyTranslator",
-    "description": "Foreign language reading and translation assistant based on copy and translate.",
-    "language": "TypeScript",
-    "stars": 9578,
-    "forks": 1311,
-    "starsInPeriod": 89
-  },
-  {
-    "author": "edp963",
-    "name": "davinci",
-    "href": "https://github.com/edp963/davinci",
-    "description": "Davinci is a DVsaaS (Data Visualization as a Service) Platform",
-    "language": "TypeScript",
-    "stars": 2897,
-    "forks": 1176,
-    "starsInPeriod": 47
-  },
-  {
     "author": "jef",
     "name": "streetmerchant",
     "href": "https://github.com/jef/streetmerchant",
     "description": "🤖 Autonomous robot for all your electronic needs",
     "language": "TypeScript",
-    "stars": 1077,
-    "forks": 359,
-    "starsInPeriod": 111
+    "stars": 1577,
+    "forks": 497,
+    "starsInPeriod": 352
   },
   {
-    "author": "snyk",
-    "name": "snyk",
-    "href": "https://github.com/snyk/snyk",
-    "description": "CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies",
+    "author": "NodePolus",
+    "name": "NodePolus",
+    "href": "https://github.com/NodePolus/NodePolus",
+    "description": "NodePolus is a JavaScript library containing multiple implementations of the Among Us network protocol.",
     "language": "TypeScript",
-    "stars": 2565,
-    "forks": 256,
-    "starsInPeriod": 250
+    "stars": 222,
+    "forks": 22,
+    "starsInPeriod": 78
   },
   {
-    "author": "lensapp",
-    "name": "lens",
-    "href": "https://github.com/lensapp/lens",
-    "description": "Lens - The Kubernetes IDE",
+    "author": "cdr",
+    "name": "code-server",
+    "href": "https://github.com/cdr/code-server",
+    "description": "VS Code in the browser",
     "language": "TypeScript",
-    "stars": 9215,
-    "forks": 486,
-    "starsInPeriod": 141
+    "stars": 37764,
+    "forks": 2883,
+    "starsInPeriod": 529
   },
   {
-    "author": "ant-design",
-    "name": "ant-design",
-    "href": "https://github.com/ant-design/ant-design",
-    "description": "🌈 A UI Design Language and React UI library",
+    "author": "facebook",
+    "name": "docusaurus",
+    "href": "https://github.com/facebook/docusaurus",
+    "description": "Easy to maintain open source documentation websites.",
     "language": "TypeScript",
-    "stars": 64748,
-    "forks": 25096,
-    "starsInPeriod": 184
+    "stars": 20290,
+    "forks": 2419,
+    "starsInPeriod": 154
   },
   {
-    "author": "puppeteer",
-    "name": "puppeteer",
-    "href": "https://github.com/puppeteer/puppeteer",
-    "description": "Headless Chrome Node.js API",
+    "author": "NativeScript",
+    "name": "NativeScript",
+    "href": "https://github.com/NativeScript/NativeScript",
+    "description": "NativeScript empowers you to access native api's from JavaScript directly. Angular, Vue, Svelte, React and you name it compatible.",
     "language": "TypeScript",
-    "stars": 66670,
-    "forks": 6887,
-    "starsInPeriod": 288
+    "stars": 19441,
+    "forks": 1434,
+    "starsInPeriod": 197
   },
   {
-    "author": "serverless-nextjs",
-    "name": "serverless-next.js",
-    "href": "https://github.com/serverless-nextjs/serverless-next.js",
-    "description": "⚡ Deploy your Next.js apps on AWS Lambda@Edge via Serverless Components",
+    "author": "balena-io",
+    "name": "etcher",
+    "href": "https://github.com/balena-io/etcher",
+    "description": "Flash OS images to SD cards & USB drives, safely and easily.",
     "language": "TypeScript",
-    "stars": 1456,
-    "forks": 217,
-    "starsInPeriod": 61
+    "stars": 19232,
+    "forks": 1293,
+    "starsInPeriod": 83
   },
   {
-    "author": "BabylonJS",
-    "name": "Babylon.js",
-    "href": "https://github.com/BabylonJS/Babylon.js",
-    "description": "Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.",
+    "author": "vuejs",
+    "name": "vue-next",
+    "href": "https://github.com/vuejs/vue-next",
+    "description": "Repo for Vue 3",
     "language": "TypeScript",
-    "stars": 12765,
-    "forks": 2272,
-    "starsInPeriod": 162
+    "stars": 19198,
+    "forks": 3166,
+    "starsInPeriod": 170
   },
   {
-    "author": "microsoft",
-    "name": "TypeScript",
-    "href": "https://github.com/microsoft/TypeScript",
-    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+    "author": "denoland",
+    "name": "deno",
+    "href": "https://github.com/denoland/deno",
+    "description": "A secure JavaScript and TypeScript runtime",
     "language": "TypeScript",
-    "stars": 65711,
-    "forks": 8797,
-    "starsInPeriod": 198
+    "stars": 69523,
+    "forks": 3612,
+    "starsInPeriod": 286
   },
   {
-    "author": "recharts",
-    "name": "recharts",
-    "href": "https://github.com/recharts/recharts",
-    "description": "Redefined chart library built with React and D3",
+    "author": "storybookjs",
+    "name": "storybook",
+    "href": "https://github.com/storybookjs/storybook",
+    "description": "📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!",
     "language": "TypeScript",
-    "stars": 15204,
-    "forks": 1154,
-    "starsInPeriod": 67
-  },
-  {
-    "author": "Chocobozzz",
-    "name": "PeerTube",
-    "href": "https://github.com/Chocobozzz/PeerTube",
-    "description": "ActivityPub-federated video streaming platform using P2P directly in your web browser",
-    "language": "TypeScript",
-    "stars": 8051,
-    "forks": 795,
-    "starsInPeriod": 65
+    "stars": 55285,
+    "forks": 5581,
+    "starsInPeriod": 258
   },
   {
     "author": "wechaty",
@@ -225,19 +95,9 @@
     "href": "https://github.com/wechaty/wechaty",
     "description": "Conversational SDK for Chatbot Makers",
     "language": "TypeScript",
-    "stars": 8951,
-    "forks": 1315,
-    "starsInPeriod": 49
-  },
-  {
-    "author": "AzureAD",
-    "name": "microsoft-authentication-library-for-js",
-    "href": "https://github.com/AzureAD/microsoft-authentication-library-for-js",
-    "description": "Microsoft Authentication Library (MSAL) for JS",
-    "language": "TypeScript",
-    "stars": 1257,
-    "forks": 825,
-    "starsInPeriod": 18
+    "stars": 9041,
+    "forks": 1328,
+    "starsInPeriod": 50
   },
   {
     "author": "typeorm",
@@ -245,8 +105,148 @@
     "href": "https://github.com/typeorm/typeorm",
     "description": "ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
     "language": "TypeScript",
-    "stars": 21806,
-    "forks": 3652,
-    "starsInPeriod": 128
+    "stars": 22025,
+    "forks": 3707,
+    "starsInPeriod": 131
+  },
+  {
+    "author": "microsoft",
+    "name": "vscode",
+    "href": "https://github.com/microsoft/vscode",
+    "description": "Visual Studio Code",
+    "language": "TypeScript",
+    "stars": 106923,
+    "forks": 17246,
+    "starsInPeriod": 387
+  },
+  {
+    "author": "homebridge",
+    "name": "homebridge",
+    "href": "https://github.com/homebridge/homebridge",
+    "description": "HomeKit support for the impatient",
+    "language": "TypeScript",
+    "stars": 16156,
+    "forks": 1724,
+    "starsInPeriod": 84
+  },
+  {
+    "author": "baidu",
+    "name": "amis",
+    "href": "https://github.com/baidu/amis",
+    "description": "前端低代码框架，通过 JSON 配置就能生成各种后台页面。",
+    "language": "TypeScript",
+    "stars": 5118,
+    "forks": 636,
+    "starsInPeriod": 140
+  },
+  {
+    "author": "alibaba",
+    "name": "hooks",
+    "href": "https://github.com/alibaba/hooks",
+    "description": "React Hooks Library",
+    "language": "TypeScript",
+    "stars": 4843,
+    "forks": 562,
+    "starsInPeriod": 68
+  },
+  {
+    "author": "VVNoodle",
+    "name": "PS5bot",
+    "href": "https://github.com/VVNoodle/PS5bot",
+    "description": "bot to monitor PS5 stock and auto-purchase when available",
+    "language": "TypeScript",
+    "stars": 175,
+    "forks": 33,
+    "starsInPeriod": 22
+  },
+  {
+    "author": "remaxjs",
+    "name": "remax",
+    "href": "https://github.com/remaxjs/remax",
+    "description": "使用真正的 React 构建跨平台小程序",
+    "language": "TypeScript",
+    "stars": 3386,
+    "forks": 254,
+    "starsInPeriod": 28
+  },
+  {
+    "author": "apache",
+    "name": "incubator-echarts",
+    "href": "https://github.com/apache/incubator-echarts",
+    "description": "Apache ECharts (incubating) is a powerful, interactive charting and data visualization library for browser",
+    "language": "TypeScript",
+    "stars": 43844,
+    "forks": 16165,
+    "starsInPeriod": 132
+  },
+  {
+    "author": "balenalabs",
+    "name": "balena-sound",
+    "href": "https://github.com/balenalabs/balena-sound",
+    "description": "Build a single or multi-room streamer for an existing audio device using a Raspberry Pi! Supports Bluetooth, Airplay and Spotify Connect",
+    "language": "TypeScript",
+    "stars": 1076,
+    "forks": 197,
+    "starsInPeriod": 155
+  },
+  {
+    "author": "wcandillon",
+    "name": "can-it-be-done-in-react-native",
+    "href": "https://github.com/wcandillon/can-it-be-done-in-react-native",
+    "description": "⚛️ 📺 Projects from the “Can it be done in React Native?” YouTube series",
+    "language": "TypeScript",
+    "stars": 2226,
+    "forks": 583,
+    "starsInPeriod": 34
+  },
+  {
+    "author": "BuilderIO",
+    "name": "jsx-lite",
+    "href": "https://github.com/BuilderIO/jsx-lite",
+    "description": "Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and Liquid. Import code from Figma and Builder.io",
+    "language": "TypeScript",
+    "stars": 617,
+    "forks": 15,
+    "starsInPeriod": 171
+  },
+  {
+    "author": "dotansimha",
+    "name": "graphql-code-generator",
+    "href": "https://github.com/dotansimha/graphql-code-generator",
+    "description": "A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.",
+    "language": "TypeScript",
+    "stars": 5894,
+    "forks": 588,
+    "starsInPeriod": 59
+  },
+  {
+    "author": "justadudewhohacks",
+    "name": "face-api.js",
+    "href": "https://github.com/justadudewhohacks/face-api.js",
+    "description": "JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js",
+    "language": "TypeScript",
+    "stars": 11367,
+    "forks": 2374,
+    "starsInPeriod": 60
+  },
+  {
+    "author": "umijs",
+    "name": "umi",
+    "href": "https://github.com/umijs/umi",
+    "description": "🌋 Pluggable enterprise-level react application framework.",
+    "language": "TypeScript",
+    "stars": 9543,
+    "forks": 1435,
+    "starsInPeriod": 52
+  },
+  {
+    "author": "ant-design",
+    "name": "ant-design",
+    "href": "https://github.com/ant-design/ant-design",
+    "description": "🌈 A UI Design Language and React UI library",
+    "language": "TypeScript",
+    "stars": 65088,
+    "forks": 25355,
+    "starsInPeriod": 196
   }
 ]
