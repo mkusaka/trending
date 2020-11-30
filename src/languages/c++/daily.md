@@ -1,51 +1,51 @@
 # c++
-- [bitcoin](https://github.com/bitcoin/bitcoin)
-  - Bitcoin Core integration/staging tree
-- [rehex](https://github.com/solemnwarning/rehex)
-  - Reverse Engineers' Hex Editor
 - [drogon](https://github.com/an-tao/drogon)
   - Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows
-- [MuseScore](https://github.com/musescore/MuseScore)
-  - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
-- [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
-  - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
-- [imgui](https://github.com/ocornut/imgui)
-  - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [qBittorrent](https://github.com/qbittorrent/qBittorrent)
-  - qBittorrent BitTorrent client
-- [DeepSpeech](https://github.com/mozilla/DeepSpeech)
-  - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
-- [WLED](https://github.com/Aircoookie/WLED)
-  - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
-- [xbmc](https://github.com/xbmc/xbmc)
-  - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
-- [open-zwave](https://github.com/OpenZWave/open-zwave)
-  - a C++ library to control Z-Wave Networks via a USB Z-Wave Controller.
-- [googletest](https://github.com/google/googletest)
-  - Googletest - Google Testing and Mocking Framework
-- [fmt](https://github.com/fmtlib/fmt)
-  - A modern formatting library
-- [Telegram](https://github.com/DrKLO/Telegram)
-  - Telegram for Android source
-- [Magisk](https://github.com/topjohnwu/Magisk)
-  - The Magic Mask for Android
-- [esphome](https://github.com/esphome/esphome)
-  - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
-- [ac-library](https://github.com/atcoder/ac-library)
-  - AtCoder Library
-- [ardupilot](https://github.com/ArduPilot/ardupilot)
-  - ArduPlane, ArduCopter, ArduRover source
-- [pytorch](https://github.com/pytorch/pytorch)
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
+  - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
+- [MangoHud](https://github.com/flightlessmango/MangoHud)
+  - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
+- [LightGBM](https://github.com/microsoft/LightGBM)
+  - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
+- [Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+  - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
 - [Marlin](https://github.com/MarlinFirmware/Marlin)
   - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
-- [rpcs3](https://github.com/RPCS3/rpcs3)
-  - PS3 emulator/debugger
-- [yuzu](https://github.com/yuzu-emu/yuzu)
-  - Nintendo Switch Emulator
-- [jetson-inference](https://github.com/dusty-nv/jetson-inference)
-  - Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
+- [folly](https://github.com/facebook/folly)
+  - An open-source C++ library developed and used at Facebook.
+- [MultiMC5](https://github.com/MultiMC/MultiMC5)
+  - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
+- [dxvk](https://github.com/doitsujin/dxvk)
+  - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
+- [dolphin](https://github.com/dolphin-emu/dolphin)
+  - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
+- [360Controller](https://github.com/360Controller/360Controller)
+  - TattieBogle Xbox 360 Driver (with improvements)
+- [entt](https://github.com/skypjack/entt)
+  - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
+- [rc-switch](https://github.com/sui77/rc-switch)
+  - Arduino lib to operate 433/315Mhz devices like power outlet sockets.
+- [shotcut](https://github.com/mltframework/shotcut)
+  - cross-platform (Qt), open-source (GPLv3) video editor
+- [WLED](https://github.com/Aircoookie/WLED)
+  - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
+- [yosys](https://github.com/YosysHQ/yosys)
+  - Yosys Open SYnthesis Suite
+- [multipass](https://github.com/canonical/multipass)
+  - Multipass orchestrates virtual Ubuntu instances
+- [lmms](https://github.com/LMMS/lmms)
+  - Cross-platform music production software
+- [godot](https://github.com/godotengine/godot)
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [re3](https://github.com/GTAmodding/re3)
+  - GTA III
+- [warzone2100](https://github.com/Warzone2100/warzone2100)
+  - Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, Linux, BSD+
 - [aseprite](https://github.com/aseprite/aseprite)
   - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
+- [deconz-rest-plugin](https://github.com/dresden-elektronik/deconz-rest-plugin)
+  - deCONZ REST-API plugin to control ZigBee devices
+- [bitcoin](https://github.com/bitcoin/bitcoin)
+  - Bitcoin Core integration/staging tree
+- [JUCE](https://github.com/juce-framework/JUCE)
+  - JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.

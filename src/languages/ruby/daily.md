@@ -1,51 +1,51 @@
 # ruby
-- [ruby](https://github.com/ruby/ruby)
-  - The Ruby Programming Language [mirror]
-- [brew](https://github.com/Homebrew/brew)
-  - 🍺 The missing package manager for macOS (or Linux)
-- [fluentd](https://github.com/fluent/fluentd)
-  - Fluentd: Unified Logging Layer (project under CNCF)
 - [jekyll](https://github.com/jekyll/jekyll)
   - 🌐 Jekyll is a blog-aware static site generator in Ruby
 - [metasploit-framework](https://github.com/rapid7/metasploit-framework)
   - Metasploit Framework
-- [devdocs](https://github.com/freeCodeCamp/devdocs)
-  - API Documentation Browser
-- [rails](https://github.com/rails/rails)
-  - Ruby on Rails
-- [sonic-pi](https://github.com/sonic-pi-net/sonic-pi)
-  - Code. Music. Live.
-- [opencspm](https://github.com/OpenCSPM/opencspm)
-  - Open Cloud Security Posture Management Engine
-- [gitlabhq](https://github.com/gitlabhq/gitlabhq)
-  - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
-- [openproject](https://github.com/opf/openproject)
-  - OpenProject is the leading open source project management software.
-- [wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader)
-  - Download an entire website from the Wayback Machine.
-- [webpacker](https://github.com/rails/webpacker)
-  - Use Webpack to manage app-like JavaScript modules in Rails
-- [homebrew-core](https://github.com/Homebrew/homebrew-core)
-  - 🍻 Default formulae for the missing package manager for macOS
-- [homebrew-bundle](https://github.com/Homebrew/homebrew-bundle)
-  - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
-- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-- [WhatWeb](https://github.com/urbanadventurer/WhatWeb)
-  - Next generation web scanner
-- [redmine](https://github.com/redmine/redmine)
-  - Mirror of redmine code source - Official SVN repository is at https://svn.redmine.org/redmine - contact: @jbbarth or jeanbaptiste.barth (at) gmail (dot) com
+- [linguist](https://github.com/github/linguist)
+  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [explore](https://github.com/github/explore)
   - Community-curated topic and collection pages on GitHub
 - [sinatra](https://github.com/sinatra/sinatra)
   - Classy web-development dressed in a DSL (official / canonical repo)
-- [puppet](https://github.com/puppetlabs/puppet)
-  - Server automation framework and application
-- [postal](https://github.com/postalhq/postal)
-  - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
-- [raspberry-pi-pcie-devices](https://github.com/geerlingguy/raspberry-pi-pcie-devices)
-  - Raspberry Pi PCI Express device compatibility database
-- [openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website)
-  - The Rails application that powers OpenStreetMap
-- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-  - A curated list of awesome awesomeness
+- [choosealicense.com](https://github.com/github/choosealicense.com)
+  - A site to provide non-judgmental guidance on choosing a license for your open source project
+- [how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+  - A guide to contributing to open source
+- [sonic-pi](https://github.com/sonic-pi-net/sonic-pi)
+  - Code. Music. Live.
+- [rubocop](https://github.com/rubocop-hq/rubocop)
+  - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+- [acts_as_tenant](https://github.com/ErwinM/acts_as_tenant)
+  - Easy multi-tenancy for Rails in a shared database setup.
+- [styles](https://github.com/citation-style-language/styles)
+  - Official repository for Citation Style Language (CSL) citation styles.
+- [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
+  - A curated list of engineering blogs
+- [evil-winrm](https://github.com/Hackplayers/evil-winrm)
+  - The ultimate WinRM shell for hacking/pentesting
+- [mastodon](https://github.com/tootsuite/mastodon)
+  - Your self-hosted, globally interconnected microblogging community
+- [fusuma](https://github.com/iberianpig/fusuma)
+  - Multitouch gestures with libinput driver on Linux
+- [sidekiq](https://github.com/mperham/sidekiq)
+  - Simple, efficient background processing for Ruby
+- [brew](https://github.com/Homebrew/brew)
+  - 🍺 The missing package manager for macOS (or Linux)
+- [huginn](https://github.com/huginn/huginn)
+  - Create agents that monitor and act on your behalf. Your agents are standing by!
+- [xerosploit](https://github.com/LionSec/xerosploit)
+  - Efficient and advanced man in the middle framework
+- [gitlabhq](https://github.com/gitlabhq/gitlabhq)
+  - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
+- [json](https://github.com/flori/json)
+  - JSON implementation for Ruby
+- [fluentd](https://github.com/fluent/fluentd)
+  - Fluentd: Unified Logging Layer (project under CNCF)
+- [react-native-config](https://github.com/luggit/react-native-config)
+  - Bring some 12 factor love to your mobile apps!
+- [liquid](https://github.com/Shopify/liquid)
+  - Liquid markup language. Safe, customer facing template language for flexible web apps.
+- [rubygems](https://github.com/rubygems/rubygems)
+  - Library packaging and distribution for Ruby.

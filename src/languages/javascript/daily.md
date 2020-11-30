@@ -1,51 +1,51 @@
 # javascript
-- [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-  - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [FallChallenge2020](https://github.com/CodinGame/FallChallenge2020)
-  - Source code for CodinGame's Fall Challenge 2020 event.
-- [iptv](https://github.com/iptv-org/iptv)
-  - Collection of 5000+ publicly available IPTV channels from all over the world
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
-  - 💯 Materials to help you rock your next coding interview
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [discord.js](https://github.com/discordjs/discord.js)
-  - A powerful JavaScript library for interacting with the Discord API
-- [joplin](https://github.com/laurent22/joplin)
-  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
-- [discord-api-docs](https://github.com/discord/discord-api-docs)
-  - Official Discord API Documentation
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
-- [open-event-frontend](https://github.com/fossasia/open-event-frontend)
-  - The frontend for the Open Event API Server https://open-event-frontend.now.sh
-- [homebridgeStatusWidget](https://github.com/lwitzani/homebridgeStatusWidget)
-  - 
-- [express](https://github.com/expressjs/express)
-  - Fast, unopinionated, minimalist web framework for node.
-- [QuantumultX](https://github.com/Orz-3/QuantumultX)
-  - 
-- [evobot](https://github.com/eritislami/evobot)
-  - 🤖 EvoBot is a Discord Music Bot built with discord.js & uses Command Handler from discordjs.guide
-- [ScriptableWidgets](https://github.com/Necriso/ScriptableWidgets)
-  - 
+- [x](https://github.com/DustinBrett/x)
+  - Desktop environment in the browser.
+- [reveal.js](https://github.com/hakimel/reveal.js)
+  - The HTML Presentation Framework
+- [twin.macro](https://github.com/ben-rogerson/twin.macro)
+  - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components and goober) at build time.
+- [edex-ui](https://github.com/GitSquared/edex-ui)
+  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+- [JavaScript](https://github.com/ziye12/JavaScript)
+  - 本人quantumult x，优先适配quantumult x， surge loon应该也能用
+- [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+  - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
+  - Revive unavailable songs for Netease Cloud Music
 - [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
   - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
-- [node](https://github.com/nodejs/node)
-  - Node.js JavaScript runtime ✨🐢🚀✨
-- [babel](https://github.com/babel/babel)
-  - 🐠 Babel is a compiler for writing next generation JavaScript.
-- [attestation-deplacement-derogatoire-q4-2020](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020)
-  - attestation-deplacement-derogatoire-q4-2020 public
-- [ios_rule_script](https://github.com/blackmatrix7/ios_rule_script)
-  - iOS平台的分流规则、复写规则和一些自动化脚本。
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
+  - Short JavaScript code snippets for all your development needs
+- [Zettlr](https://github.com/Zettlr/Zettlr)
+  - A Markdown Editor for the 21st century.
+- [Multiavatar](https://github.com/multiavatar/Multiavatar)
+  - 12 Billion Unique Multicultural Avatars
+- [ccxt](https://github.com/ccxt/ccxt)
+  - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
+- [Motrix](https://github.com/agalwood/Motrix)
+  - A full-featured download manager.
+- [discord-api-docs](https://github.com/discord/discord-api-docs)
+  - Official Discord API Documentation
+- [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
+  - 📜 33 concepts every JavaScript developer should know.
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [bookshelf](https://github.com/kentcdodds/bookshelf)
+  - Build a ReactJS App workshop
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+  - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
+- [OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide)
+  - Repo for the OpenCore Install Guide
+- [MyActions](https://github.com/sazs34/MyActions)
+  - 
+- [Worn-Off-Keys-Discord-Js](https://github.com/AlexzanderFlores/Worn-Off-Keys-Discord-Js)
+  - 
+- [junior-recruit-scheduler](https://github.com/jojoldu/junior-recruit-scheduler)
+  - 주니어 개발자 채용 정보
 - [docs](https://github.com/github/docs)
   - The open-source repo for docs.github.com
-- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
-  - 🕸 No-bullshit answers to the famous h5bp "Front-end Job Interview Questions"
-- [react-website-v1](https://github.com/briancodex/react-website-v1)
-  - 
-- [cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor)
-  - nightscout web monitor
+- [Weather-Cal](https://github.com/mzeryck/Weather-Cal)
+  - This is a Scriptable widget that lets you display, position, and format multiple elements, including dates and events, weather information, battery level, and more. You can even create your own elements.

@@ -1,51 +1,51 @@
 # kotlin
-- [VancedManager](https://github.com/YTVanced/VancedManager)
-  - Vanced Installer
-- [mirai](https://github.com/mamoe/mirai)
-  - 高效率 QQ 机器人框架 / High-performance bot framework for Tencent QQ
-- [kotlin](https://github.com/JetBrains/kotlin)
-  - The Kotlin Programming Language
 - [v2rayNG](https://github.com/2dust/v2rayNG)
   - 
-- [tachiyomi](https://github.com/inorichi/tachiyomi)
-  - Free and open source manga reader for Android
-- [javalin](https://github.com/tipsy/javalin)
-  - A simple and modern Java and Kotlin web framework
-- [karel](https://github.com/fredoverflow/karel)
-  - Karel The Robot
-- [Android](https://github.com/duckduckgo/Android)
-  - DuckDuckGo Android App
-- [XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools)
-  - A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot
-- [Unciv](https://github.com/yairm210/Unciv)
-  - Open-source Android/Desktop remake of Civ V
-- [legado](https://github.com/gedoor/legado)
-  - 阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-- [StreetComplete](https://github.com/westnordost/StreetComplete)
-  - Easy to use OpenStreetMap editor for Android
-- [element-android](https://github.com/vector-im/element-android)
-  - A glossy Matrix collaboration client for Android.
 - [RetroMusicPlayer](https://github.com/h4h13/RetroMusicPlayer)
   - Best material design music player for Android
-- [fenix](https://github.com/mozilla-mobile/fenix)
-  - Firefox for Android
-- [android-kotlin-fundamentals-starter-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-starter-apps)
-  - android-kotlin-fundamentals-starter-apps
+- [VancedManager](https://github.com/YTVanced/VancedManager)
+  - Vanced Installer
+- [tachiyomi-extensions](https://github.com/inorichi/tachiyomi-extensions)
+  - 
+- [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer)
+  - The flexible, easy to use, all in one drawer library for your Android project. Now brand new with material 2 design.
+- [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
+  - A shadowsocks client for Android
+- [tachiyomi](https://github.com/inorichi/tachiyomi)
+  - Free and open source manga reader for Android
+- [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook)
+  - A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential
+- [android-kotlin-fundamentals-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-apps)
+  - android-kotlin-fundamentals-apps
+- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android)
+  - Native Android app using the Apple/Google exposure notification API.
 - [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)
   - Spotify Music Downloader For Android!
-- [android](https://github.com/home-assistant/android)
-  - 📱 Home Assistant Companion for Android
-- [blokada](https://github.com/blokadaorg/blokada)
-  - The official repo for Blokada for Android and iOS.
-- [architecture-components-samples](https://github.com/android/architecture-components-samples)
-  - Samples for Android Architecture Components.
-- [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd)
-  - Main UserLAnd Repository
-- [Music-Player-GO](https://github.com/enricocid/Music-Player-GO)
-  - 🎶🎼 Very slim music player 👨‍🎤 100% made in Italy 🍕🌳🌞🍝🌄
-- [ScreenStream](https://github.com/dkrivoruchko/ScreenStream)
-  - Screen Stream over HTTP mobile app
-- [okio](https://github.com/square/okio)
-  - A modern I/O library for Android, Kotlin, and Java.
-- [Vigilante](https://github.com/CraZyLegenD/Vigilante)
-  - 🛡️ Android security (camera/microphone dots indicators) app using Hilt, Animations, Coroutines, Material, StateFlow, Jetpack (Room, ViewModel, Paging, Security, Biometrics, Start-up) based on MVVM architecture.
+- [wallpanel-android](https://github.com/thanksmister/wallpanel-android)
+  - WallPanel is an Android application for Web Based Dashboards and Home Automation Platforms
+- [AnimeXStream](https://github.com/mukul500/AnimeXStream)
+  - An Android app to watch anime on your phone without ads.
+- [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery)
+  - Browse your memories without any interruptions with this photo and video gallery
+- [element-android](https://github.com/vector-im/element-android)
+  - A glossy Matrix collaboration client for Android.
+- [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization)
+  - Kotlin multiplatform / multi-format serialization
+- [material-components-android-examples](https://github.com/material-components/material-components-android-examples)
+  - Companion example apps and code for MDC-Android.
+- [Kotlin-Coroutine-Use-Cases-on-Android](https://github.com/LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android)
+  - 🎓 Learning Kotlin Coroutines for Android by example. 🚀 Sample implementations for real-world Android use cases. 🛠 Unit tests included!
+- [android-showcase](https://github.com/igorwojda/android-showcase)
+  - 💎 Android application following best practices: Kotlin, coroutines, Clean Architecture, feature modules, tests, MVVM, static analysis...
+- [qksms](https://github.com/moezbhatti/qksms)
+  - The most beautiful SMS messenger for Android
+- [NYTimes-App](https://github.com/TheCodeMonks/NYTimes-App)
+  - 🗽 A Simple Demonstration of the New York Times App 📱 using Jsoup web crawler with MVVM Architecture 🔥
+- [flexbox-layout](https://github.com/google/flexbox-layout)
+  - Flexbox for Android
+- [AppIntro](https://github.com/AppIntro/AppIntro)
+  - Make a cool intro for your Android app.
+- [TapTap](https://github.com/KieronQuinn/TapTap)
+  - Port of the double tap on back of device feature from Android 11 to any Android 7.0+ device
+- [mirai](https://github.com/mamoe/mirai)
+  - 高效率 QQ 机器人框架 / High-performance bot framework for Tencent QQ
