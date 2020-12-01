@@ -1,51 +1,51 @@
 # general
-- [GHunt](https://github.com/mxrch/GHunt) : Python
-  - 🕵️‍♂️ Investigate Google Accounts with emails.
-- [Luckysheet](https://github.com/mengshukeji/Luckysheet) : JavaScript
-  - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
-- [base-admin](https://github.com/huanzi-qch/base-admin) : Java
-  - Base Admin一套简单通用的后台管理系统，主要功能有：权限管理、菜单管理、用户管理，系统设置、实时日志，实时监控，API加密，以及登录用户修改密码、配置个性菜单等
-- [scripts](https://github.com/lxk0301/scripts) : JavaScript
-  - 京东薅羊毛工具, 京东水果、宠物、种豆等等
-- [Python](https://github.com/TheAlgorithms/Python) : Python
-  - All Algorithms implemented in Python
-- [v2ray-core](https://github.com/v2fly/v2ray-core) : Go
-  - A platform for building proxies to bypass network restrictions.
-- [NewPipe](https://github.com/TeamNewPipe/NewPipe) : Java
-  - A libre lightweight streaming front-end for Android.
-- [Auto.js](https://github.com/hyb1996/Auto.js) : Java
-  - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
-- [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) : C++
-  - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly
-- [chibicc](https://github.com/rui314/chibicc) : C
-  - A small C compiler
-- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) : JavaScript
-  - Short JavaScript code snippets for all your development needs
-- [open-project-1](https://github.com/UnityTechnologies/open-project-1) : C#
-  - Unity Open Project #1: Action-adventure
-- [masscan](https://github.com/robertdavidgraham/masscan) : C
-  - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
-- [you-get](https://github.com/soimort/you-get) : Python
-  - ⏬ Dumb downloader that scrapes the web
-- [next.js](https://github.com/vercel/next.js) : JavaScript
-  - The React Framework
+- [pifuhd](https://github.com/facebookresearch/pifuhd) : Python
+  - High-Resolution 3D Human Digitization from A Single Image.
 - [edex-ui](https://github.com/GitSquared/edex-ui) : JavaScript
   - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) : C++
-  - Awesome multilingual OCR toolkits based on PaddlePaddle （multilingual recognition: English, Chinese, Korean, Japanese, German, French etc. 3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）
-- [COVID-19](https://github.com/pcm-dpc/COVID-19) : 
-  - COVID-19 Italia - Monitoraggio situazione
-- [headlessui](https://github.com/tailwindlabs/headlessui) : TypeScript
-  - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
-- [esbuild](https://github.com/evanw/esbuild) : Go
-  - An extremely fast JavaScript bundler and minifier
-- [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) : Shell
-  - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
-- [Impostor](https://github.com/Impostor/Impostor) : C#
-  - Impostor - An open source reimplementation of the Among Us Server
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course) : JavaScript
-  - Starter files, final projects and FAQ for my Complete JavaScript course
-- [core](https://github.com/home-assistant/core) : Python
-  - 🏡 Open source home automation that puts local control and privacy first
+- [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) : Python
+  - Bringing Old Photo Back to Life (CVPR 2020 oral)
+- [streetmerchant](https://github.com/jef/streetmerchant) : TypeScript
+  - 🤖 Autonomous robot for all your electronic needs
+- [faker.js](https://github.com/Marak/faker.js) : JavaScript
+  - generate massive amounts of realistic fake data in Node.js and the browser
+- [youtube-dl](https://github.com/l1ving/youtube-dl) : Python
+  - A fork of youtube-dl, for archival purposes. | ORIGINAL REPO NOW REINSTATED
+- [brew](https://github.com/Homebrew/brew) : Ruby
+  - 🍺 The missing package manager for macOS (or Linux)
+- [element3](https://github.com/hug-sun/element3) : JavaScript
+  - A Vue.js 3.0 UI Toolkit for Web.
+- [element-plus](https://github.com/element-plus/element-plus) : Vue
+  - 🎉 A Vue.js 3.0 UI Library
+- [shardingsphere](https://github.com/apache/shardingsphere) : Java
+  - Distributed database middleware
+- [gibMacOS](https://github.com/corpnewt/gibMacOS) : Python
+  - Py2/py3 script that can download macOS components direct from Apple
+- [h5-Dooring](https://github.com/MrXujiang/h5-Dooring) : TypeScript
+  - (H5编辑器)H5-Dooring是一款功能强大，开源免费的H5可视化页面配置解决方案，致力于提供一套简单方便、专业可靠、无限可能的H5落地页最佳实践。技术栈以react为主， 后台采用nodejs开发.
+- [pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning) : Jupyter Notebook
+  - Deep Learning (with PyTorch)
 - [eladmin](https://github.com/elunez/eladmin) : Java
   - 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
+- [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) : C++
+  - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
+- [QUANTAXIS](https://github.com/QUANTAXIS/QUANTAXIS) : Python
+  - QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权/港股/虚拟货币 数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案
+- [faker](https://github.com/joke2k/faker) : Python
+  - Faker is a Python package that generates fake data for you.
+- [rich](https://github.com/willmcgugan/rich) : Python
+  - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [bevy](https://github.com/bevyengine/bevy) : Rust
+  - A refreshingly simple data-driven game engine built in Rust
+- [WLED](https://github.com/Aircoookie/WLED) : C++
+  - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
+- [kratos](https://github.com/go-kratos/kratos) : Go
+  - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
+- [tailwindcss](https://github.com/tailwindlabs/tailwindcss) : CSS
+  - A utility-first CSS framework for rapid UI development.
+- [modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) : C#
+  - Full Modular Monolith application with Domain-Driven Design approach.
+- [nvidia-bot](https://github.com/Hari-Nagarajan/nvidia-bot) : Python
+  - Tool to help us buy a GPU in 2020
+- [alacritty](https://github.com/alacritty/alacritty) : Rust
+  - A cross-platform, GPU-accelerated terminal emulator

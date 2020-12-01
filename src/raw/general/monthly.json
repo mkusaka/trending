@@ -1,153 +1,13 @@
 [
   {
-    "author": "mxrch",
-    "name": "GHunt",
-    "href": "https://github.com/mxrch/GHunt",
-    "description": "🕵️‍♂️ Investigate Google Accounts with emails.",
+    "author": "facebookresearch",
+    "name": "pifuhd",
+    "href": "https://github.com/facebookresearch/pifuhd",
+    "description": "High-Resolution 3D Human Digitization from A Single Image.",
     "language": "Python",
-    "stars": 4828,
-    "forks": 378,
-    "starsInPeriod": 4846
-  },
-  {
-    "author": "mengshukeji",
-    "name": "Luckysheet",
-    "href": "https://github.com/mengshukeji/Luckysheet",
-    "description": "Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.",
-    "language": "JavaScript",
-    "stars": 5542,
-    "forks": 465,
-    "starsInPeriod": 3529
-  },
-  {
-    "author": "huanzi-qch",
-    "name": "base-admin",
-    "href": "https://github.com/huanzi-qch/base-admin",
-    "description": "Base Admin一套简单通用的后台管理系统，主要功能有：权限管理、菜单管理、用户管理，系统设置、实时日志，实时监控，API加密，以及登录用户修改密码、配置个性菜单等",
-    "language": "Java",
-    "stars": 1465,
-    "forks": 758,
-    "starsInPeriod": 937
-  },
-  {
-    "author": "lxk0301",
-    "name": "scripts",
-    "href": "https://github.com/lxk0301/scripts",
-    "description": "京东薅羊毛工具, 京东水果、宠物、种豆等等",
-    "language": "JavaScript",
-    "stars": 1802,
-    "forks": 1989,
-    "starsInPeriod": 1425
-  },
-  {
-    "author": "TheAlgorithms",
-    "name": "Python",
-    "href": "https://github.com/TheAlgorithms/Python",
-    "description": "All Algorithms implemented in Python",
-    "language": "Python",
-    "stars": 90699,
-    "forks": 26737,
-    "starsInPeriod": 4879
-  },
-  {
-    "author": "v2fly",
-    "name": "v2ray-core",
-    "href": "https://github.com/v2fly/v2ray-core",
-    "description": "A platform for building proxies to bypass network restrictions.",
-    "language": "Go",
-    "stars": 4234,
-    "forks": 667,
-    "starsInPeriod": 1613
-  },
-  {
-    "author": "TeamNewPipe",
-    "name": "NewPipe",
-    "href": "https://github.com/TeamNewPipe/NewPipe",
-    "description": "A libre lightweight streaming front-end for Android.",
-    "language": "Java",
-    "stars": 11259,
-    "forks": 1536,
-    "starsInPeriod": 904
-  },
-  {
-    "author": "hyb1996",
-    "name": "Auto.js",
-    "href": "https://github.com/hyb1996/Auto.js",
-    "description": "A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)",
-    "language": "Java",
-    "stars": 8368,
-    "forks": 2318,
-    "starsInPeriod": 887
-  },
-  {
-    "author": "changkun",
-    "name": "modern-cpp-tutorial",
-    "href": "https://github.com/changkun/modern-cpp-tutorial",
-    "description": "📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly",
-    "language": "C++",
-    "stars": 8300,
-    "forks": 1148,
-    "starsInPeriod": 1285
-  },
-  {
-    "author": "rui314",
-    "name": "chibicc",
-    "href": "https://github.com/rui314/chibicc",
-    "description": "A small C compiler",
-    "language": "C",
-    "stars": 2052,
-    "forks": 89,
-    "starsInPeriod": 1713
-  },
-  {
-    "author": "30-seconds",
-    "name": "30-seconds-of-code",
-    "href": "https://github.com/30-seconds/30-seconds-of-code",
-    "description": "Short JavaScript code snippets for all your development needs",
-    "language": "JavaScript",
-    "stars": 64972,
-    "forks": 7198,
-    "starsInPeriod": 2804
-  },
-  {
-    "author": "UnityTechnologies",
-    "name": "open-project-1",
-    "href": "https://github.com/UnityTechnologies/open-project-1",
-    "description": "Unity Open Project #1: Action-adventure",
-    "language": "C#",
-    "stars": 1881,
-    "forks": 690,
-    "starsInPeriod": 1883
-  },
-  {
-    "author": "robertdavidgraham",
-    "name": "masscan",
-    "href": "https://github.com/robertdavidgraham/masscan",
-    "description": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
-    "language": "C",
-    "stars": 14130,
-    "forks": 2234,
-    "starsInPeriod": 1012
-  },
-  {
-    "author": "soimort",
-    "name": "you-get",
-    "href": "https://github.com/soimort/you-get",
-    "description": "⏬ Dumb downloader that scrapes the web",
-    "language": "Python",
-    "stars": 36317,
-    "forks": 7406,
-    "starsInPeriod": 1260
-  },
-  {
-    "author": "vercel",
-    "name": "next.js",
-    "href": "https://github.com/vercel/next.js",
-    "description": "The React Framework",
-    "language": "JavaScript",
-    "stars": 55984,
-    "forks": 9313,
-    "starsInPeriod": 2398
+    "stars": 5989,
+    "forks": 692,
+    "starsInPeriod": 2765
   },
   {
     "author": "GitSquared",
@@ -155,89 +15,119 @@
     "href": "https://github.com/GitSquared/edex-ui",
     "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
     "language": "JavaScript",
-    "stars": 19390,
-    "forks": 1100,
-    "starsInPeriod": 2939
+    "stars": 24170,
+    "forks": 1348,
+    "starsInPeriod": 4938
   },
   {
-    "author": "PaddlePaddle",
-    "name": "PaddleOCR",
-    "href": "https://github.com/PaddlePaddle/PaddleOCR",
-    "description": "Awesome multilingual OCR toolkits based on PaddlePaddle （multilingual recognition: English, Chinese, Korean, Japanese, German, French etc. 3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）",
-    "language": "C++",
-    "stars": 5878,
-    "forks": 1088,
-    "starsInPeriod": 1876
-  },
-  {
-    "author": "pcm-dpc",
-    "name": "COVID-19",
-    "href": "https://github.com/pcm-dpc/COVID-19",
-    "description": "COVID-19 Italia - Monitoraggio situazione",
-    "language": "",
-    "stars": 3579,
-    "forks": 2010,
-    "starsInPeriod": 147
-  },
-  {
-    "author": "tailwindlabs",
-    "name": "headlessui",
-    "href": "https://github.com/tailwindlabs/headlessui",
-    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.",
-    "language": "TypeScript",
-    "stars": 2855,
-    "forks": 62,
-    "starsInPeriod": 1726
-  },
-  {
-    "author": "evanw",
-    "name": "esbuild",
-    "href": "https://github.com/evanw/esbuild",
-    "description": "An extremely fast JavaScript bundler and minifier",
-    "language": "Go",
-    "stars": 15070,
-    "forks": 319,
-    "starsInPeriod": 2353
-  },
-  {
-    "author": "foxlet",
-    "name": "macOS-Simple-KVM",
-    "href": "https://github.com/foxlet/macOS-Simple-KVM",
-    "description": "Tools to set up a quick macOS VM in QEMU, accelerated by KVM.",
-    "language": "Shell",
-    "stars": 8326,
-    "forks": 652,
-    "starsInPeriod": 833
-  },
-  {
-    "author": "Impostor",
-    "name": "Impostor",
-    "href": "https://github.com/Impostor/Impostor",
-    "description": "Impostor - An open source reimplementation of the Among Us Server",
-    "language": "C#",
-    "stars": 1067,
-    "forks": 109,
-    "starsInPeriod": 598
-  },
-  {
-    "author": "jonasschmedtmann",
-    "name": "complete-javascript-course",
-    "href": "https://github.com/jonasschmedtmann/complete-javascript-course",
-    "description": "Starter files, final projects and FAQ for my Complete JavaScript course",
-    "language": "JavaScript",
-    "stars": 5186,
-    "forks": 6630,
-    "starsInPeriod": 602
-  },
-  {
-    "author": "home-assistant",
-    "name": "core",
-    "href": "https://github.com/home-assistant/core",
-    "description": "🏡 Open source home automation that puts local control and privacy first",
+    "author": "microsoft",
+    "name": "Bringing-Old-Photos-Back-to-Life",
+    "href": "https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life",
+    "description": "Bringing Old Photo Back to Life (CVPR 2020 oral)",
     "language": "Python",
-    "stars": 36836,
-    "forks": 12015,
-    "starsInPeriod": 1060
+    "stars": 5448,
+    "forks": 425,
+    "starsInPeriod": 3930
+  },
+  {
+    "author": "jef",
+    "name": "streetmerchant",
+    "href": "https://github.com/jef/streetmerchant",
+    "description": "🤖 Autonomous robot for all your electronic needs",
+    "language": "TypeScript",
+    "stars": 1628,
+    "forks": 513,
+    "starsInPeriod": 1036
+  },
+  {
+    "author": "Marak",
+    "name": "faker.js",
+    "href": "https://github.com/Marak/faker.js",
+    "description": "generate massive amounts of realistic fake data in Node.js and the browser",
+    "language": "JavaScript",
+    "stars": 28621,
+    "forks": 2473,
+    "starsInPeriod": 3101
+  },
+  {
+    "author": "l1ving",
+    "name": "youtube-dl",
+    "href": "https://github.com/l1ving/youtube-dl",
+    "description": "A fork of youtube-dl, for archival purposes. | ORIGINAL REPO NOW REINSTATED",
+    "language": "Python",
+    "stars": 2937,
+    "forks": 1664,
+    "starsInPeriod": 1532
+  },
+  {
+    "author": "Homebrew",
+    "name": "brew",
+    "href": "https://github.com/Homebrew/brew",
+    "description": "🍺 The missing package manager for macOS (or Linux)",
+    "language": "Ruby",
+    "stars": 24328,
+    "forks": 5620,
+    "starsInPeriod": 892
+  },
+  {
+    "author": "hug-sun",
+    "name": "element3",
+    "href": "https://github.com/hug-sun/element3",
+    "description": "A Vue.js 3.0 UI Toolkit for Web.",
+    "language": "JavaScript",
+    "stars": 1859,
+    "forks": 711,
+    "starsInPeriod": 933
+  },
+  {
+    "author": "element-plus",
+    "name": "element-plus",
+    "href": "https://github.com/element-plus/element-plus",
+    "description": "🎉 A Vue.js 3.0 UI Library",
+    "language": "Vue",
+    "stars": 4762,
+    "forks": 389,
+    "starsInPeriod": 2740
+  },
+  {
+    "author": "apache",
+    "name": "shardingsphere",
+    "href": "https://github.com/apache/shardingsphere",
+    "description": "Distributed database middleware",
+    "language": "Java",
+    "stars": 12802,
+    "forks": 4309,
+    "starsInPeriod": 523
+  },
+  {
+    "author": "corpnewt",
+    "name": "gibMacOS",
+    "href": "https://github.com/corpnewt/gibMacOS",
+    "description": "Py2/py3 script that can download macOS components direct from Apple",
+    "language": "Python",
+    "stars": 2700,
+    "forks": 368,
+    "starsInPeriod": 521
+  },
+  {
+    "author": "MrXujiang",
+    "name": "h5-Dooring",
+    "href": "https://github.com/MrXujiang/h5-Dooring",
+    "description": "(H5编辑器)H5-Dooring是一款功能强大，开源免费的H5可视化页面配置解决方案，致力于提供一套简单方便、专业可靠、无限可能的H5落地页最佳实践。技术栈以react为主， 后台采用nodejs开发.",
+    "language": "TypeScript",
+    "stars": 1916,
+    "forks": 348,
+    "starsInPeriod": 963
+  },
+  {
+    "author": "Atcold",
+    "name": "pytorch-Deep-Learning",
+    "href": "https://github.com/Atcold/pytorch-Deep-Learning",
+    "description": "Deep Learning (with PyTorch)",
+    "language": "Jupyter Notebook",
+    "stars": 3936,
+    "forks": 1230,
+    "starsInPeriod": 665
   },
   {
     "author": "elunez",
@@ -245,8 +135,118 @@
     "href": "https://github.com/elunez/eladmin",
     "description": "项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由",
     "language": "Java",
-    "stars": 11667,
-    "forks": 4319,
-    "starsInPeriod": 844
+    "stars": 12794,
+    "forks": 4716,
+    "starsInPeriod": 1177
+  },
+  {
+    "author": "changkun",
+    "name": "modern-cpp-tutorial",
+    "href": "https://github.com/changkun/modern-cpp-tutorial",
+    "description": "📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/",
+    "language": "C++",
+    "stars": 10103,
+    "forks": 1299,
+    "starsInPeriod": 1833
+  },
+  {
+    "author": "QUANTAXIS",
+    "name": "QUANTAXIS",
+    "href": "https://github.com/QUANTAXIS/QUANTAXIS",
+    "description": "QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权/港股/虚拟货币 数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案",
+    "language": "Python",
+    "stars": 4461,
+    "forks": 1855,
+    "starsInPeriod": 299
+  },
+  {
+    "author": "joke2k",
+    "name": "faker",
+    "href": "https://github.com/joke2k/faker",
+    "description": "Faker is a Python package that generates fake data for you.",
+    "language": "Python",
+    "stars": 11639,
+    "forks": 1319,
+    "starsInPeriod": 928
+  },
+  {
+    "author": "willmcgugan",
+    "name": "rich",
+    "href": "https://github.com/willmcgugan/rich",
+    "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "language": "Python",
+    "stars": 15456,
+    "forks": 444,
+    "starsInPeriod": 2104
+  },
+  {
+    "author": "bevyengine",
+    "name": "bevy",
+    "href": "https://github.com/bevyengine/bevy",
+    "description": "A refreshingly simple data-driven game engine built in Rust",
+    "language": "Rust",
+    "stars": 5334,
+    "forks": 400,
+    "starsInPeriod": 925
+  },
+  {
+    "author": "Aircoookie",
+    "name": "WLED",
+    "href": "https://github.com/Aircoookie/WLED",
+    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
+    "language": "C++",
+    "stars": 3755,
+    "forks": 657,
+    "starsInPeriod": 555
+  },
+  {
+    "author": "go-kratos",
+    "name": "kratos",
+    "href": "https://github.com/go-kratos/kratos",
+    "description": "Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。",
+    "language": "Go",
+    "stars": 10974,
+    "forks": 2350,
+    "starsInPeriod": 345
+  },
+  {
+    "author": "tailwindlabs",
+    "name": "tailwindcss",
+    "href": "https://github.com/tailwindlabs/tailwindcss",
+    "description": "A utility-first CSS framework for rapid UI development.",
+    "language": "CSS",
+    "stars": 31959,
+    "forks": 1464,
+    "starsInPeriod": 2824
+  },
+  {
+    "author": "kgrzybek",
+    "name": "modular-monolith-with-ddd",
+    "href": "https://github.com/kgrzybek/modular-monolith-with-ddd",
+    "description": "Full Modular Monolith application with Domain-Driven Design approach.",
+    "language": "C#",
+    "stars": 4067,
+    "forks": 544,
+    "starsInPeriod": 289
+  },
+  {
+    "author": "Hari-Nagarajan",
+    "name": "nvidia-bot",
+    "href": "https://github.com/Hari-Nagarajan/nvidia-bot",
+    "description": "Tool to help us buy a GPU in 2020",
+    "language": "Python",
+    "stars": 539,
+    "forks": 206,
+    "starsInPeriod": 278
+  },
+  {
+    "author": "alacritty",
+    "name": "alacritty",
+    "href": "https://github.com/alacritty/alacritty",
+    "description": "A cross-platform, GPU-accelerated terminal emulator",
+    "language": "Rust",
+    "stars": 27244,
+    "forks": 1410,
+    "starsInPeriod": 1172
   }
 ]

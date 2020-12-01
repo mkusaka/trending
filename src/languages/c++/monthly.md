@@ -1,51 +1,51 @@
 # c++
 - [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
-  - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly
-- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
-  - Awesome multilingual OCR toolkits based on PaddlePaddle （multilingual recognition: English, Chinese, Korean, Japanese, German, French etc. 3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）
-- [openpilot](https://github.com/commaai/openpilot)
-  - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
-- [json](https://github.com/nlohmann/json)
-  - JSON for Modern C++
-- [Magisk](https://github.com/topjohnwu/Magisk)
-  - The Magic Mask for Android
-- [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)
-  - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects
-- [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
-  - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
-- [llvm-project](https://github.com/llvm/llvm-project)
-  - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
-- [PowerToys](https://github.com/microsoft/PowerToys)
-  - Windows system utilities to maximize productivity
-- [Marlin](https://github.com/MarlinFirmware/Marlin)
-  - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
-- [calculator](https://github.com/microsoft/calculator)
-  - Windows Calculator: A simple yet powerful calculator that ships with Windows
-- [grpc](https://github.com/grpc/grpc)
-  - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
-  - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
-- [Proton](https://github.com/ValveSoftware/Proton)
-  - Compatibility tool for Steam Play based on Wine and additional components
-- [opencv](https://github.com/opencv/opencv)
-  - Open Source Computer Vision Library
-- [Arduino](https://github.com/esp8266/Arduino)
-  - ESP8266 core for Arduino
-- [serenity](https://github.com/SerenityOS/serenity)
-  - The Serenity Operating System 🐞
+  - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
+- [WLED](https://github.com/Aircoookie/WLED)
+  - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
+- [imgui](https://github.com/ocornut/imgui)
+  - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
+  - C++那些事
 - [tensorflow](https://github.com/tensorflow/tensorflow)
   - An Open Source Machine Learning Framework for Everyone
-- [xbmc](https://github.com/xbmc/xbmc)
-  - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
-- [CppCon2020](https://github.com/CppCon/CppCon2020)
-  - Slides and other materials from CppCon 2020
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
+- [td](https://github.com/tdlib/td)
+  - Cross-platform library for building Telegram clients
 - [bitcoin](https://github.com/bitcoin/bitcoin)
   - Bitcoin Core integration/staging tree
-- [swift](https://github.com/apple/swift)
-  - The Swift Programming Language
-- [qBittorrent](https://github.com/qbittorrent/qBittorrent)
-  - qBittorrent BitTorrent client
-- [libigl](https://github.com/libigl/libigl)
-  - Simple C++ geometry processing library.
+- [jetson-inference](https://github.com/dusty-nv/jetson-inference)
+  - Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
+- [ClickHouse](https://github.com/ClickHouse/ClickHouse)
+  - ClickHouse® is a free analytics DBMS for big data
+- [mediapipe](https://github.com/google/mediapipe)
+  - MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.
+- [PowerToys](https://github.com/microsoft/PowerToys)
+  - Windows system utilities to maximize productivity
+- [Qv2ray](https://github.com/Qv2ray/Qv2ray)
+  - ⭐ Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 ⭐
+- [tdesktop](https://github.com/telegramdesktop/tdesktop)
+  - Telegram Desktop messaging app
+- [yuzu](https://github.com/yuzu-emu/yuzu)
+  - Nintendo Switch Emulator
+- [srs](https://github.com/ossrs/srs)
+  - SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.
+- [DearPyGui](https://github.com/hoffstadt/DearPyGui)
+  - Dear PyGui: A Bloat-free Graphical User Interface for Python with minimal dependencies
+- [json](https://github.com/nlohmann/json)
+  - JSON for Modern C++
+- [electron](https://github.com/electron/electron)
+  - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [solidity](https://github.com/ethereum/solidity)
+  - Solidity, the Contract-Oriented Programming Language
+- [milvus](https://github.com/milvus-io/milvus)
+  - An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy
+- [opencv](https://github.com/opencv/opencv)
+  - Open Source Computer Vision Library
+- [incubator-brpc](https://github.com/apache/incubator-brpc)
+  - Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services. "brpc" means "better RPC".
+- [rpcs3](https://github.com/RPCS3/rpcs3)
+  - PS3 emulator/debugger
+- [Arduino](https://github.com/esp8266/Arduino)
+  - ESP8266 core for Arduino
+- [Marlin](https://github.com/MarlinFirmware/Marlin)
+  - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.

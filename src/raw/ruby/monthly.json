@@ -1,173 +1,13 @@
 [
   {
-    "author": "tootsuite",
-    "name": "mastodon",
-    "href": "https://github.com/tootsuite/mastodon",
-    "description": "Your self-hosted, globally interconnected microblogging community",
-    "language": "Ruby",
-    "stars": 22154,
-    "forks": 3782,
-    "starsInPeriod": 291
-  },
-  {
-    "author": "huginn",
-    "name": "huginn",
-    "href": "https://github.com/huginn/huginn",
-    "description": "Create agents that monitor and act on your behalf. Your agents are standing by!",
-    "language": "Ruby",
-    "stars": 29944,
-    "forks": 2838,
-    "starsInPeriod": 393
-  },
-  {
-    "author": "rapid7",
-    "name": "metasploit-framework",
-    "href": "https://github.com/rapid7/metasploit-framework",
-    "description": "Metasploit Framework",
-    "language": "Ruby",
-    "stars": 21969,
-    "forks": 10582,
-    "starsInPeriod": 352
-  },
-  {
-    "author": "opf",
-    "name": "openproject",
-    "href": "https://github.com/opf/openproject",
-    "description": "OpenProject is the leading open source project management software.",
-    "language": "Ruby",
-    "stars": 4305,
-    "forks": 1306,
-    "starsInPeriod": 194
-  },
-  {
-    "author": "github",
-    "name": "explore",
-    "href": "https://github.com/github/explore",
-    "description": "Community-curated topic and collection pages on GitHub",
-    "language": "Ruby",
-    "stars": 1945,
-    "forks": 7600,
-    "starsInPeriod": 85
-  },
-  {
-    "author": "discourse",
-    "name": "discourse",
-    "href": "https://github.com/discourse/discourse",
-    "description": "A platform for community discussion. Free, open, simple.",
-    "language": "Ruby",
-    "stars": 31797,
-    "forks": 7022,
-    "starsInPeriod": 241
-  },
-  {
-    "author": "CocoaPods",
-    "name": "CocoaPods",
-    "href": "https://github.com/CocoaPods/CocoaPods",
-    "description": "The Cocoa Dependency Manager.",
-    "language": "Ruby",
-    "stars": 12786,
-    "forks": 2324,
-    "starsInPeriod": 86
-  },
-  {
-    "author": "freeCodeCamp",
-    "name": "how-to-contribute-to-open-source",
-    "href": "https://github.com/freeCodeCamp/how-to-contribute-to-open-source",
-    "description": "A guide to contributing to open source",
-    "language": "Ruby",
-    "stars": 4225,
-    "forks": 975,
-    "starsInPeriod": 228
-  },
-  {
-    "author": "redmine",
-    "name": "redmine",
-    "href": "https://github.com/redmine/redmine",
-    "description": "Mirror of redmine code source - Official SVN repository is at https://svn.redmine.org/redmine - contact: @jbbarth or jeanbaptiste.barth (at) gmail (dot) com",
-    "language": "Ruby",
-    "stars": 3890,
-    "forks": 1999,
-    "starsInPeriod": 38
-  },
-  {
-    "author": "rubocop-hq",
-    "name": "rubocop",
-    "href": "https://github.com/rubocop-hq/rubocop",
-    "description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
-    "language": "Ruby",
-    "stars": 11129,
-    "forks": 2525,
-    "starsInPeriod": 91
-  },
-  {
-    "author": "elastic",
-    "name": "logstash",
-    "href": "https://github.com/elastic/logstash",
-    "description": "Logstash - transport and process your logs, events, or other data",
-    "language": "Ruby",
-    "stars": 11742,
-    "forks": 3077,
-    "starsInPeriod": 87
-  },
-  {
-    "author": "github",
-    "name": "view_component",
-    "href": "https://github.com/github/view_component",
-    "description": "A framework for building reusable, testable & encapsulated view components in Ruby on Rails.",
-    "language": "Ruby",
-    "stars": 1271,
-    "forks": 137,
-    "starsInPeriod": 161
-  },
-  {
     "author": "Homebrew",
     "name": "brew",
     "href": "https://github.com/Homebrew/brew",
     "description": "🍺 The missing package manager for macOS (or Linux)",
     "language": "Ruby",
-    "stars": 23491,
-    "forks": 5512,
-    "starsInPeriod": 405
-  },
-  {
-    "author": "faker-ruby",
-    "name": "faker",
-    "href": "https://github.com/faker-ruby/faker",
-    "description": "A library for generating fake data such as names, addresses, and phone numbers.",
-    "language": "Ruby",
-    "stars": 8951,
-    "forks": 2494,
-    "starsInPeriod": 61
-  },
-  {
-    "author": "forem",
-    "name": "forem",
-    "href": "https://github.com/forem/forem",
-    "description": "For empowering community 🌱",
-    "language": "Ruby",
-    "stars": 15364,
-    "forks": 2580,
-    "starsInPeriod": 414
-  },
-  {
-    "author": "digitalocean",
-    "name": "hacktoberfest",
-    "href": "https://github.com/digitalocean/hacktoberfest",
-    "description": "Hacktoberfest - App to manage the annual open source challenge.",
-    "language": "Ruby",
-    "stars": 505,
-    "forks": 152,
-    "starsInPeriod": 404
-  },
-  {
-    "author": "github",
-    "name": "choosealicense.com",
-    "href": "https://github.com/github/choosealicense.com",
-    "description": "A site to provide non-judgmental guidance on choosing a license for your open source project",
-    "language": "Ruby",
-    "stars": 2139,
-    "forks": 941,
-    "starsInPeriod": 61
+    "stars": 24328,
+    "forks": 5620,
+    "starsInPeriod": 892
   },
   {
     "author": "rails",
@@ -175,9 +15,19 @@
     "href": "https://github.com/rails/rails",
     "description": "Ruby on Rails",
     "language": "Ruby",
-    "stars": 46774,
-    "forks": 18805,
-    "starsInPeriod": 271
+    "stars": 47029,
+    "forks": 18877,
+    "starsInPeriod": 322
+  },
+  {
+    "author": "chatwoot",
+    "name": "chatwoot",
+    "href": "https://github.com/chatwoot/chatwoot",
+    "description": "Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬",
+    "language": "Ruby",
+    "stars": 6470,
+    "forks": 618,
+    "starsInPeriod": 1761
   },
   {
     "author": "Homebrew",
@@ -185,19 +35,49 @@
     "href": "https://github.com/Homebrew/homebrew-core",
     "description": "🍻 Default formulae for the missing package manager for macOS",
     "language": "Ruby",
-    "stars": 8222,
-    "forks": 8508,
-    "starsInPeriod": 151
+    "stars": 8387,
+    "forks": 8646,
+    "starsInPeriod": 188
   },
   {
-    "author": "danger",
-    "name": "danger",
-    "href": "https://github.com/danger/danger",
-    "description": "🚫 Stop saying \"you forgot to …\" in code review (in Ruby)",
+    "author": "Homebrew",
+    "name": "homebrew-cask",
+    "href": "https://github.com/Homebrew/homebrew-cask",
+    "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
     "language": "Ruby",
-    "stars": 4215,
-    "forks": 396,
-    "starsInPeriod": 45
+    "stars": 17677,
+    "forks": 8688,
+    "starsInPeriod": 135
+  },
+  {
+    "author": "tootsuite",
+    "name": "mastodon",
+    "href": "https://github.com/tootsuite/mastodon",
+    "description": "Your self-hosted, globally interconnected microblogging community",
+    "language": "Ruby",
+    "stars": 22384,
+    "forks": 3810,
+    "starsInPeriod": 271
+  },
+  {
+    "author": "rapid7",
+    "name": "metasploit-framework",
+    "href": "https://github.com/rapid7/metasploit-framework",
+    "description": "Metasploit Framework",
+    "language": "Ruby",
+    "stars": 22236,
+    "forks": 10692,
+    "starsInPeriod": 315
+  },
+  {
+    "author": "faker-ruby",
+    "name": "faker",
+    "href": "https://github.com/faker-ruby/faker",
+    "description": "A library for generating fake data such as names, addresses, and phone numbers.",
+    "language": "Ruby",
+    "stars": 9022,
+    "forks": 2522,
+    "starsInPeriod": 81
   },
   {
     "author": "solidusio",
@@ -205,29 +85,9 @@
     "href": "https://github.com/solidusio/solidus",
     "description": "🛒Solidus, Rails eCommerce System",
     "language": "Ruby",
-    "stars": 3333,
-    "forks": 976,
-    "starsInPeriod": 46
-  },
-  {
-    "author": "citation-style-language",
-    "name": "styles",
-    "href": "https://github.com/citation-style-language/styles",
-    "description": "Official repository for Citation Style Language (CSL) citation styles.",
-    "language": "Ruby",
-    "stars": 2065,
-    "forks": 2830,
-    "starsInPeriod": 34
-  },
-  {
-    "author": "activemerchant",
-    "name": "active_merchant",
-    "href": "https://github.com/activemerchant/active_merchant",
-    "description": "Active Merchant is a simple payment abstraction library extracted from Shopify. The aim of the project is to feel natural to Ruby users and to abstract as many parts as possible away from the user to offer a consistent interface across all supported gateways.",
-    "language": "Ruby",
-    "stars": 4249,
-    "forks": 2390,
-    "starsInPeriod": 14
+    "stars": 3382,
+    "forks": 997,
+    "starsInPeriod": 52
   },
   {
     "author": "thoughtbot",
@@ -235,18 +95,158 @@
     "href": "https://github.com/thoughtbot/factory_bot",
     "description": "A library for setting up Ruby objects as test data.",
     "language": "Ruby",
-    "stars": 7014,
-    "forks": 2223,
-    "starsInPeriod": 33
+    "stars": 7047,
+    "forks": 2261,
+    "starsInPeriod": 46
   },
   {
-    "author": "mperham",
-    "name": "sidekiq",
-    "href": "https://github.com/mperham/sidekiq",
-    "description": "Simple, efficient background processing for Ruby",
+    "author": "freeCodeCamp",
+    "name": "devdocs",
+    "href": "https://github.com/freeCodeCamp/devdocs",
+    "description": "API Documentation Browser",
     "language": "Ruby",
-    "stars": 10632,
-    "forks": 1871,
-    "starsInPeriod": 67
+    "stars": 24344,
+    "forks": 1654,
+    "starsInPeriod": 254
+  },
+  {
+    "author": "sonic-pi-net",
+    "name": "sonic-pi",
+    "href": "https://github.com/sonic-pi-net/sonic-pi",
+    "description": "Code. Music. Live.",
+    "language": "Ruby",
+    "stars": 6341,
+    "forks": 692,
+    "starsInPeriod": 140
+  },
+  {
+    "author": "discourse",
+    "name": "discourse",
+    "href": "https://github.com/discourse/discourse",
+    "description": "A platform for community discussion. Free, open, simple.",
+    "language": "Ruby",
+    "stars": 32014,
+    "forks": 7051,
+    "starsInPeriod": 266
+  },
+  {
+    "author": "Shopify",
+    "name": "liquid",
+    "href": "https://github.com/Shopify/liquid",
+    "description": "Liquid markup language. Safe, customer facing template language for flexible web apps.",
+    "language": "Ruby",
+    "stars": 8320,
+    "forks": 1094,
+    "starsInPeriod": 89
+  },
+  {
+    "author": "Homebrew",
+    "name": "homebrew-bundle",
+    "href": "https://github.com/Homebrew/homebrew-bundle",
+    "description": "📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.",
+    "language": "Ruby",
+    "stars": 3461,
+    "forks": 217,
+    "starsInPeriod": 66
+  },
+  {
+    "author": "ruby",
+    "name": "ruby",
+    "href": "https://github.com/ruby/ruby",
+    "description": "The Ruby Programming Language [mirror]",
+    "language": "Ruby",
+    "stars": 17551,
+    "forks": 4686,
+    "starsInPeriod": 123
+  },
+  {
+    "author": "twitterdev",
+    "name": "Twitter-API-v2-sample-code",
+    "href": "https://github.com/twitterdev/Twitter-API-v2-sample-code",
+    "description": "Sample code for the Twitter API early access endpoints (Python, Java, Ruby, and Node.js).",
+    "language": "Ruby",
+    "stars": 107,
+    "forks": 66,
+    "starsInPeriod": 34
+  },
+  {
+    "author": "mame",
+    "name": "quine-relay",
+    "href": "https://github.com/mame/quine-relay",
+    "description": "An uroboros program with 100+ programming languages",
+    "language": "Ruby",
+    "stars": 10114,
+    "forks": 470,
+    "starsInPeriod": 469
+  },
+  {
+    "author": "learn-co-curriculum",
+    "name": "getting-remote-data-working-with-apis",
+    "href": "https://github.com/learn-co-curriculum/getting-remote-data-working-with-apis",
+    "description": null,
+    "language": "Ruby",
+    "stars": 1,
+    "forks": 424,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "github",
+    "name": "choosealicense.com",
+    "href": "https://github.com/github/choosealicense.com",
+    "description": "A site to provide non-judgmental guidance on choosing a license for your open source project",
+    "language": "Ruby",
+    "stars": 2166,
+    "forks": 969,
+    "starsInPeriod": 39
+  },
+  {
+    "author": "Homebrew",
+    "name": "homebrew-cask-fonts",
+    "href": "https://github.com/Homebrew/homebrew-cask-fonts",
+    "description": "🖋 Casks of Ｆ🅾𝓝𝐓𝚂",
+    "language": "Ruby",
+    "stars": 1895,
+    "forks": 364,
+    "starsInPeriod": 38
+  },
+  {
+    "author": "Dwire",
+    "name": "mod2_pactice_camping_is_fun",
+    "href": "https://github.com/Dwire/mod2_pactice_camping_is_fun",
+    "description": null,
+    "language": "Ruby",
+    "stars": 0,
+    "forks": 137,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "redmine",
+    "name": "redmine",
+    "href": "https://github.com/redmine/redmine",
+    "description": "Mirror of redmine code source - Official SVN repository is at https://svn.redmine.org/redmine - contact: @jbbarth or jeanbaptiste.barth (at) gmail (dot) com",
+    "language": "Ruby",
+    "stars": 3928,
+    "forks": 2006,
+    "starsInPeriod": 42
+  },
+  {
+    "author": "activerecord-hackery",
+    "name": "ransack",
+    "href": "https://github.com/activerecord-hackery/ransack",
+    "description": "Object-based searching.",
+    "language": "Ruby",
+    "stars": 4726,
+    "forks": 711,
+    "starsInPeriod": 29
+  },
+  {
+    "author": "rails",
+    "name": "webpacker",
+    "href": "https://github.com/rails/webpacker",
+    "description": "Use Webpack to manage app-like JavaScript modules in Rails",
+    "language": "Ruby",
+    "stars": 4941,
+    "forks": 1319,
+    "starsInPeriod": 30
   }
 ]

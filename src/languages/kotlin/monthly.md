@@ -1,51 +1,51 @@
 # kotlin
-- [v2rayNG](https://github.com/2dust/v2rayNG)
-  - 
-- [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook)
-  - A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential
-- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android)
-  - Native Android app using the Apple/Google exposure notification API.
-- [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
-  - A shadowsocks client for Android
-- [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization)
-  - Kotlin multiplatform / multi-format serialization
-- [intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template)
-  - Template repository for creating plugins for IntelliJ Platform
-- [RetroMusicPlayer](https://github.com/h4h13/RetroMusicPlayer)
-  - Best material design music player for Android
-- [tachiyomi](https://github.com/inorichi/tachiyomi)
-  - Free and open source manga reader for Android
-- [play-billing-samples](https://github.com/android/play-billing-samples)
-  - Samples for Google Play In-app Billing
-- [ktor](https://github.com/ktorio/ktor)
-  - Framework for quickly creating connected applications in Kotlin with minimal effort
-- [Android](https://github.com/duckduckgo/Android)
-  - DuckDuckGo Android App
 - [VancedManager](https://github.com/YTVanced/VancedManager)
   - Vanced Installer
-- [open-event-attendee-android](https://github.com/fossasia/open-event-attendee-android)
-  - Open Event Attendee Android General App https://github.com/fossasia/open-event-android/blob/apk/open-event-dev-app-playStore-debug.apk
-- [nl-covid19-notification-app-android](https://github.com/minvws/nl-covid19-notification-app-android)
-  - Android sources for the Dutch Covid19 Notification App
-- [Konfetti](https://github.com/DanielMartinus/Konfetti)
-  - Celebrate more with this lightweight confetti particle system 🎊
-- [coil](https://github.com/coil-kt/coil)
-  - Image loading for Android backed by Kotlin Coroutines.
-- [immuni-app-android](https://github.com/immuni-app/immuni-app-android)
-  - Official repository for the Android version of the immuni application
+- [android](https://github.com/home-assistant/android)
+  - 📱 Home Assistant Companion for Android
+- [v2rayNG](https://github.com/2dust/v2rayNG)
+  - 
+- [p3c](https://github.com/alibaba/p3c)
+  - Alibaba Java Coding Guidelines pmd implements and IDE plugin
+- [legado](https://github.com/gedoor/legado)
+  - 阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+- [material-components-android-examples](https://github.com/material-components/material-components-android-examples)
+  - Companion example apps and code for MDC-Android.
+- [graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin)
+  - Libraries for running GraphQL in Kotlin
+- [databinding-samples](https://github.com/android/databinding-samples)
+  - 
 - [android-kotlin-fundamentals-starter-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-starter-apps)
   - android-kotlin-fundamentals-starter-apps
-- [javalin](https://github.com/tipsy/javalin)
-  - A simple and modern Java and Kotlin web framework
-- [kotlin](https://github.com/JetBrains/kotlin)
-  - The Kotlin Programming Language
-- [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer)
-  - The flexible, easy to use, all in one drawer library for your Android project. Now brand new with material 2 design.
+- [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
+  - A shadowsocks client for Android
+- [android-kotlin-fundamentals-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-apps)
+  - android-kotlin-fundamentals-apps
 - [sunflower](https://github.com/android/sunflower)
   - A gardening app illustrating Android development best practices with Android Jetpack.
-- [kotlin-dsl-samples](https://github.com/gradle/kotlin-dsl-samples)
-  - Samples builds using the Gradle Kotlin DSL
-- [Exposed](https://github.com/JetBrains/Exposed)
-  - Kotlin SQL Framework
-- [architecture-components-samples](https://github.com/android/architecture-components-samples)
-  - Samples for Android Architecture Components.
+- [Kotlin-Coroutine-Use-Cases-on-Android](https://github.com/LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android)
+  - 🎓 Learning Kotlin Coroutines for Android by example. 🚀 Sample implementations for real-world Android use cases. 🛠 Unit tests included!
+- [sqldelight](https://github.com/cashapp/sqldelight)
+  - SQLDelight - Generates typesafe Kotlin APIs from SQL
+- [tachiyomi](https://github.com/inorichi/tachiyomi)
+  - Free and open source manga reader for Android
+- [PeopleInSpace](https://github.com/joreilly/PeopleInSpace)
+  - Minimal Kotlin Multiplatform project using Jetpack Compose and SwiftUI
+- [architecture-samples](https://github.com/android/architecture-samples)
+  - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
+- [compose-samples](https://github.com/android/compose-samples)
+  - Official Jetpack Compose samples.
+- [karel](https://github.com/fredoverflow/karel)
+  - Karel The Robot
+- [camera-samples](https://github.com/android/camera-samples)
+  - Multiple samples showing the best practices in camera APIs on Android.
+- [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines)
+  - Library support for Kotlin coroutines
+- [Android](https://github.com/duckduckgo/Android)
+  - DuckDuckGo Android App
+- [vlc-android](https://github.com/videolan/vlc-android)
+  - VLC for Android, Android TV and ChromeOS
+- [AndroidX-Jetpack-Practice](https://github.com/hi-dhl/AndroidX-Jetpack-Practice)
+  - 本仓库致力于建立最全、最新的的 AndroidX Jetpack 相关组件的实践项目 以及组件对应的分析文章（持续更新中）如果对你有帮助，请在右上角 star 一下，感谢
+- [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook)
+  - A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential

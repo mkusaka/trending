@@ -1,51 +1,51 @@
 # javascript
-- [Luckysheet](https://github.com/mengshukeji/Luckysheet)
-  - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
-- [scripts](https://github.com/lxk0301/scripts)
-  - 京东薅羊毛工具, 京东水果、宠物、种豆等等
-- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
-  - Short JavaScript code snippets for all your development needs
-- [next.js](https://github.com/vercel/next.js)
-  - The React Framework
 - [edex-ui](https://github.com/GitSquared/edex-ui)
   - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
-  - Starter files, final projects and FAQ for my Complete JavaScript course
-- [react-fundamentals](https://github.com/kentcdodds/react-fundamentals)
-  - Material for my React Fundamentals Workshop
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-  - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
-- [create-react-app](https://github.com/facebook/create-react-app)
-  - Set up a modern web app by running one command.
-- [odoo](https://github.com/odoo/odoo)
-  - Odoo. Open Source Apps To Grow Your Business.
-- [axios](https://github.com/axios/axios)
-  - Promise based HTTP client for the browser and node.js
-- [html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
-  - A professional front-end template for building fast, robust, and adaptable web apps or sites.
-- [Chart.js](https://github.com/chartjs/Chart.js)
-  - Simple HTML5 Charts using the <canvas> tag
-- [proshop_mern](https://github.com/bradtraversy/proshop_mern)
-  - Shopping cart built with MERN & Redux
-- [uBlock](https://github.com/gorhill/uBlock)
-  - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-- [remote-jobs](https://github.com/remoteintech/remote-jobs)
-  - A list of semi to fully remote-friendly companies in tech.
-- [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
-  - 30 Days of React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.
-- [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
-  - 30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days
-- [headless-recorder](https://github.com/checkly/headless-recorder)
-  - Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.
-- [shapez.io](https://github.com/tobspr/shapez.io)
-  - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
-- [zhaopp](https://github.com/gdtool/zhaopp)
-  - 一个Google Drive搜索引擎 https://GeZhong.vip
-- [netflix](https://github.com/karlhadwen/netflix)
-  - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Netflix Using React
-- [cli](https://github.com/npm/cli)
-  - the package manager for JavaScript
-- [react](https://github.com/facebook/react)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
-  - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+- [faker.js](https://github.com/Marak/faker.js)
+  - generate massive amounts of realistic fake data in Node.js and the browser
+- [element3](https://github.com/hug-sun/element3)
+  - A Vue.js 3.0 UI Toolkit for Web.
+- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
+  - 🎆Interactive Online Platform that Visualizes Algorithms from Code
+- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
+  - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。 阿里招 Python P6/P7 上海张江, gaojunqi@outlook.com
+- [Motrix](https://github.com/agalwood/Motrix)
+  - A full-featured download manager.
+- [socket.io](https://github.com/socketio/socket.io)
+  - Realtime application framework (Node.JS server)
+- [material-ui](https://github.com/mui-org/material-ui)
+  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)
+  - 网易云音乐 Node.js API service
+- [joplin](https://github.com/laurent22/joplin)
+  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [drawio](https://github.com/jgraph/drawio)
+  - Source to app.diagrams.net
+- [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
+  - Roadmap to becoming an Artificial Intelligence Expert in 2020
+- [iptv](https://github.com/iptv-org/iptv)
+  - Collection of 5000+ publicly available IPTV channels from all over the world
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [QuantumultX](https://github.com/w37fhy/QuantumultX)
+  - 同步和更新大佬脚本库，更新懒人配置
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [wtfjs](https://github.com/denysdovhan/wtfjs)
+  - 🤪 A list of funny and tricky JavaScript examples
+- [fe-interview](https://github.com/haizlin/fe-interview)
+  - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），3000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
+- [mermaid](https://github.com/mermaid-js/mermaid)
+  - Generation of diagram and flowchart from text in a similar manner as markdown
+- [unlock-music](https://github.com/ix64/unlock-music)
+  - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
+- [scripts](https://github.com/chavyleung/scripts)
+  - 
+- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+  - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+  - 💯 Materials to help you rock your next coding interview
+- [node](https://github.com/nodejs/node)
+  - Node.js JavaScript runtime ✨🐢🚀✨
+- [react-native](https://github.com/facebook/react-native)
+  - A framework for building native apps with React.
