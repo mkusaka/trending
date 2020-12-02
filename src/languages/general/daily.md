@@ -1,51 +1,51 @@
 # general
-- [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) : JavaScript
-  - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [starship](https://github.com/starship/starship) : Rust
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [awesome](https://github.com/sindresorhus/awesome) : 
-  - 😎 Awesome lists about all kinds of interesting topics
-- [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) : Python
-  - Bringing Old Photo Back to Life (CVPR 2020 oral)
-- [gping](https://github.com/orf/gping) : Rust
-  - Ping, but with a graph
-- [FallChallenge2020](https://github.com/CodinGame/FallChallenge2020) : JavaScript
-  - Source code for CodinGame's Fall Challenge 2020 event.
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui) : TypeScript
-  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [iptv](https://github.com/iptv-org/iptv) : JavaScript
-  - Collection of 5000+ publicly available IPTV channels from all over the world
-- [k0s](https://github.com/k0sproject/k0s) : Go
-  - k0s - Zero Friction Kubernetes
-- [alacritty](https://github.com/alacritty/alacritty) : Rust
-  - A cross-platform, GPU-accelerated terminal emulator
-- [macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) : Vue
-  - Replacement icons for popular apps in the style of macOS Big Sur
-- [rustlings](https://github.com/rust-lang/rustlings) : Rust
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
-  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
-  - A long list of (advanced) JavaScript questions, and their explanations ✨
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
-  - 💯 Materials to help you rock your next coding interview
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [faker](https://github.com/joke2k/faker) : Python
-  - Faker is a Python package that generates fake data for you.
-- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) : 
-  - A list of awesome beginners-friendly projects.
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [bitcoin](https://github.com/bitcoin/bitcoin) : C++
-  - Bitcoin Core integration/staging tree
-- [core](https://github.com/home-assistant/core) : Python
-  - 🏡 Open source home automation that puts local control and privacy first
-- [Testnet3-Challenges](https://github.com/Concordium/Testnet3-Challenges) : 
-  - This repo is dedicated to Concordium Incentivized Testnet3.
-- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) : Python
-  - 30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.
-- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) : Go
-  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [googletest](https://github.com/google/googletest) : C++
+  - Googletest - Google Testing and Mocking Framework
+- [pi-hole](https://github.com/pi-hole/pi-hole) : Shell
+  - A black hole for Internet advertisements
+- [element-plus](https://github.com/element-plus/element-plus) : Vue
+  - 🎉 A Vue.js 3.0 UI Library
+- [raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) : HTML
+  - Main Web Site (Online Books)
+- [r0capture](https://github.com/r0ysue/r0capture) : Python
+  - 安卓应用层抓包通杀脚本
+- [zfs](https://github.com/openzfs/zfs) : C
+  - OpenZFS on Linux and FreeBSD
+- [takenote](https://github.com/taniarascia/takenote) : TypeScript
+  - 📝 ‎ A web-based notes app for developers. (Demo only)
+- [neural_prophet](https://github.com/ourownstory/neural_prophet) : Jupyter Notebook
+  - NeuralProphet - a Neural Network based Time-Series model
+- [deepmind-research](https://github.com/deepmind/deepmind-research) : Jupyter Notebook
+  - This repository contains implementations and illustrative code to accompany DeepMind publications
+- [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) : JavaScript
+  - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
+- [porn-vault](https://github.com/porn-vault/porn-vault) : TypeScript
+  - 💋 Manage your ever-growing porn collection. Using Vue & GraphQL
+- [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) : 
+  - A list of resources for those interested in getting started in bug bounties
+- [datasets](https://github.com/huggingface/datasets) : Python
+  - 🤗 Fast, efficient, open-access datasets and evaluation metrics in PyTorch, TensorFlow, NumPy and Pandas
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+- [lunatic](https://github.com/lunatic-lang/lunatic) : Rust
+  - The Lunatic VM
+- [navigan](https://github.com/yandex-research/navigan) : Jupyter Notebook
+  - Navigating the GAN Parameter Space for Semantic Image Editing
+- [soul](https://github.com/dromara/soul) : Java
+  - High-Performance Java API Gateway
+- [inventory-hunter](https://github.com/EricJMarti/inventory-hunter) : Python
+  - ⚡️ Get notified as soon as your next CPU, GPU, or game console is in stock
+- [privacy](https://github.com/kallydev/privacy) : 
+  - 个人数据泄漏检测网站，适用于近期流传的 40GB+ 数据。
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) : Java
+  - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
+- [eth2.0-specs](https://github.com/ethereum/eth2.0-specs) : Python
+  - Ethereum 2.0 Specifications
+- [edex-ui](https://github.com/GitSquared/edex-ui) : JavaScript
+  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+- [prysm](https://github.com/prysmaticlabs/prysm) : Go
+  - Go implementation of the Ethereum 2.0 blockchain
+- [A-Red-Teamer-diaries](https://github.com/ihebski/A-Red-Teamer-diaries) : 
+  - RedTeam/Pentest notes and experiments tested on several infrastructures related to professional engagements.
+- [SecLists](https://github.com/danielmiessler/SecLists) : PHP
+  - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
