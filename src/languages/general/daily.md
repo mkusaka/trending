@@ -1,51 +1,49 @@
 # general
-- [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) : JavaScript
-  - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [starship](https://github.com/starship/starship) : Rust
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [awesome](https://github.com/sindresorhus/awesome) : 
-  - 😎 Awesome lists about all kinds of interesting topics
-- [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) : Python
-  - Bringing Old Photo Back to Life (CVPR 2020 oral)
-- [gping](https://github.com/orf/gping) : Rust
-  - Ping, but with a graph
-- [FallChallenge2020](https://github.com/CodinGame/FallChallenge2020) : JavaScript
-  - Source code for CodinGame's Fall Challenge 2020 event.
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui) : TypeScript
-  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [iptv](https://github.com/iptv-org/iptv) : JavaScript
-  - Collection of 5000+ publicly available IPTV channels from all over the world
-- [k0s](https://github.com/k0sproject/k0s) : Go
-  - k0s - Zero Friction Kubernetes
-- [alacritty](https://github.com/alacritty/alacritty) : Rust
-  - A cross-platform, GPU-accelerated terminal emulator
-- [macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) : Vue
-  - Replacement icons for popular apps in the style of macOS Big Sur
-- [rustlings](https://github.com/rust-lang/rustlings) : Rust
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
-  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
-  - A long list of (advanced) JavaScript questions, and their explanations ✨
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
-  - 💯 Materials to help you rock your next coding interview
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [faker](https://github.com/joke2k/faker) : Python
-  - Faker is a Python package that generates fake data for you.
-- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) : 
-  - A list of awesome beginners-friendly projects.
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [bitcoin](https://github.com/bitcoin/bitcoin) : C++
-  - Bitcoin Core integration/staging tree
-- [core](https://github.com/home-assistant/core) : Python
-  - 🏡 Open source home automation that puts local control and privacy first
-- [Testnet3-Challenges](https://github.com/Concordium/Testnet3-Challenges) : 
-  - This repo is dedicated to Concordium Incentivized Testnet3.
-- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) : Python
-  - 30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.
-- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) : Go
-  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [googletest](https://github.com/google/googletest) : C++
+  - Googletest - Google Testing and Mocking Framework
+- [takenote](https://github.com/taniarascia/takenote) : TypeScript
+  - 📝 ‎ A web-based notes app for developers. (Demo only)
+- [porn-vault](https://github.com/porn-vault/porn-vault) : TypeScript
+  - 💋 Manage your ever-growing porn collection. Using Vue & GraphQL
+- [pulse](https://github.com/adamian98/pulse) : Python
+  - PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
+- [kibana](https://github.com/elastic/kibana) : TypeScript
+  - Your window into the Elastic Stack
+- [monica](https://github.com/monicahq/monica) : PHP
+  - Personal CRM. Remember everything about your friends, family and business relationships.
+- [azure-docs](https://github.com/MicrosoftDocs/azure-docs) : PowerShell
+  - Open source documentation of Microsoft Azure
+- [aws-proton-sample-templates](https://github.com/aws-samples/aws-proton-sample-templates) : 
+  - Sample templates for AWS Proton, available in preview
+- [podman](https://github.com/containers/podman) : Go
+  - Podman: A tool for managing OCI containers and pods
+- [micronaut-core](https://github.com/micronaut-projects/micronaut-core) : Java
+  - Micronaut Application Framework
+- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) : 
+  - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+- [50projects50days](https://github.com/bradtraversy/50projects50days) : CSS
+  - 50+ mini web projects using HTML, CSS & JS
+- [virtual-environments](https://github.com/actions/virtual-environments) : PowerShell
+  - GitHub Actions virtual environments
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) : JavaScript
+  - ✅ The Node.js best practices list (December 2020)
+- [realworld](https://github.com/gothinkster/realworld) : JavaScript
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [wmr](https://github.com/preactjs/wmr) : JavaScript
+  - 👩‍🚀 The tiny all-in-one development tool for modern web apps.
+- [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) : JavaScript
+  - A professional front-end template for building fast, robust, and adaptable web apps or sites.
+- [Mindustry](https://github.com/Anuken/Mindustry) : Java
+  - A sandbox tower defense game
+- [Udemy-Course-Grabber](https://github.com/techtanic/Udemy-Course-Grabber) : Python
+- [Countries](https://github.com/Free-IPTV/Countries) : 
+  - Free legally receivable IPTV channels as .m3u for Kodi. :-)
+- [javascript](https://github.com/airbnb/javascript) : JavaScript
+  - JavaScript Style Guide
+- [gitea](https://github.com/go-gitea/gitea) : Go
+  - Git with a cup of tea, painless self-hosted git service
+- [supabase](https://github.com/supabase/supabase) : TypeScript
+  - Website, docs, and examples. Follow to stay updated about our public Beta.
+- [ACVM](https://github.com/KhaosT/ACVM) : C
+- [awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) : JavaScript
+  - A collection of awesome resources related to the yearly Advent of Code challenge.
