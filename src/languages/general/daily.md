@@ -1,51 +1,50 @@
 # general
-- [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) : JavaScript
-  - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [starship](https://github.com/starship/starship) : Rust
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [awesome](https://github.com/sindresorhus/awesome) : 
-  - 😎 Awesome lists about all kinds of interesting topics
-- [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) : Python
-  - Bringing Old Photo Back to Life (CVPR 2020 oral)
-- [gping](https://github.com/orf/gping) : Rust
-  - Ping, but with a graph
-- [FallChallenge2020](https://github.com/CodinGame/FallChallenge2020) : JavaScript
-  - Source code for CodinGame's Fall Challenge 2020 event.
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui) : TypeScript
-  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [iptv](https://github.com/iptv-org/iptv) : JavaScript
-  - Collection of 5000+ publicly available IPTV channels from all over the world
-- [k0s](https://github.com/k0sproject/k0s) : Go
-  - k0s - Zero Friction Kubernetes
+- [porn-vault](https://github.com/porn-vault/porn-vault) : TypeScript
+  - 💋 Manage your ever-growing porn collection. Using Vue & GraphQL
+- [googletest](https://github.com/google/googletest) : C++
+  - Googletest - Google Testing and Mocking Framework
+- [ImHex](https://github.com/WerWolv/ImHex) : C++
+  - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
+- [wmr](https://github.com/preactjs/wmr) : JavaScript
+  - 👩‍🚀 The tiny all-in-one development tool for modern web apps.
+- [bazel](https://github.com/bazelbuild/bazel) : Java
+  - a fast, scalable, multi-language and extensible build system
+- [hutool](https://github.com/looly/hutool) : Java
+  - A set of tools that keep Java sweet.
+- [streetmerchant](https://github.com/jef/streetmerchant) : TypeScript
+  - 🤖 Autonomous robot for all your electronic needs
+- [takenote](https://github.com/taniarascia/takenote) : TypeScript
+  - 📝 ‎ A web-based notes app for developers.
+- [containerd](https://github.com/containerd/containerd) : Go
+  - An open and reliable container runtime
+- [azure-docs](https://github.com/MicrosoftDocs/azure-docs) : PowerShell
+  - Open source documentation of Microsoft Azure
+- [hostifi-mvp](https://github.com/reillychase/hostifi-mvp) : Python
+- [50projects50days](https://github.com/bradtraversy/50projects50days) : CSS
+  - 50+ mini web projects using HTML, CSS & JS
+- [bytepack_archive](https://github.com/dashbitco/bytepack_archive) : Elixir
+  - Archive of bytepack.io
+- [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) : JavaScript
+  - A professional front-end template for building fast, robust, and adaptable web apps or sites.
+- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) : 
+  - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [alacritty](https://github.com/alacritty/alacritty) : Rust
   - A cross-platform, GPU-accelerated terminal emulator
-- [macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) : Vue
-  - Replacement icons for popular apps in the style of macOS Big Sur
-- [rustlings](https://github.com/rust-lang/rustlings) : Rust
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
-  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
-  - A long list of (advanced) JavaScript questions, and their explanations ✨
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
-  - 💯 Materials to help you rock your next coding interview
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [faker](https://github.com/joke2k/faker) : Python
-  - Faker is a Python package that generates fake data for you.
-- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) : 
-  - A list of awesome beginners-friendly projects.
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [bitcoin](https://github.com/bitcoin/bitcoin) : C++
-  - Bitcoin Core integration/staging tree
-- [core](https://github.com/home-assistant/core) : Python
-  - 🏡 Open source home automation that puts local control and privacy first
-- [Testnet3-Challenges](https://github.com/Concordium/Testnet3-Challenges) : 
-  - This repo is dedicated to Concordium Incentivized Testnet3.
-- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) : Python
-  - 30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.
-- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) : Go
-  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [TinyCheck](https://github.com/KasperskyLab/TinyCheck) : Python
+  - TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In orde…
+- [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) : 
+  - A list of resources for those interested in getting started in bug bounties
+- [realworld](https://github.com/gothinkster/realworld) : JavaScript
+  - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) : JavaScript
+  - A collection of awesome resources related to the yearly Advent of Code challenge.
+- [crater](https://github.com/bytefury/crater) : PHP
+  - Free & Open Source Invoice App for Freelancers & Small Businesses
+- [javascript](https://github.com/airbnb/javascript) : JavaScript
+  - JavaScript Style Guide
+- [Countries](https://github.com/Free-IPTV/Countries) : 
+  - Free legally receivable IPTV channels as .m3u for Kodi. :-)
+- [micronaut-core](https://github.com/micronaut-projects/micronaut-core) : Java
+  - Micronaut Application Framework
+- [pulse](https://github.com/adamian98/pulse) : Python
+  - PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models

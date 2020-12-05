@@ -1,51 +1,51 @@
 # kotlin
-- [VancedManager](https://github.com/YTVanced/VancedManager)
-  - Vanced Installer
-- [mirai](https://github.com/mamoe/mirai)
-  - 高效率 QQ 机器人框架 / High-performance bot framework for Tencent QQ
-- [kotlin](https://github.com/JetBrains/kotlin)
-  - The Kotlin Programming Language
-- [v2rayNG](https://github.com/2dust/v2rayNG)
-  - 
-- [tachiyomi](https://github.com/inorichi/tachiyomi)
-  - Free and open source manga reader for Android
-- [javalin](https://github.com/tipsy/javalin)
-  - A simple and modern Java and Kotlin web framework
-- [karel](https://github.com/fredoverflow/karel)
-  - Karel The Robot
-- [Android](https://github.com/duckduckgo/Android)
-  - DuckDuckGo Android App
-- [XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools)
-  - A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot
-- [Unciv](https://github.com/yairm210/Unciv)
-  - Open-source Android/Desktop remake of Civ V
-- [legado](https://github.com/gedoor/legado)
-  - 阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-- [StreetComplete](https://github.com/westnordost/StreetComplete)
-  - Easy to use OpenStreetMap editor for Android
-- [element-android](https://github.com/vector-im/element-android)
-  - A glossy Matrix collaboration client for Android.
-- [RetroMusicPlayer](https://github.com/h4h13/RetroMusicPlayer)
-  - Best material design music player for Android
-- [fenix](https://github.com/mozilla-mobile/fenix)
-  - Firefox for Android
-- [android-kotlin-fundamentals-starter-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-starter-apps)
-  - android-kotlin-fundamentals-starter-apps
-- [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)
-  - Spotify Music Downloader For Android!
-- [android](https://github.com/home-assistant/android)
-  - 📱 Home Assistant Companion for Android
-- [blokada](https://github.com/blokadaorg/blokada)
-  - The official repo for Blokada for Android and iOS.
+- [compose-jb](https://github.com/JetBrains/compose-jb)
+  - Jetpack Compose for Desktop, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+- [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines)
+  - Library support for Kotlin coroutines
+- [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization)
+  - Kotlin multiplatform / multi-format serialization
+- [compose-samples](https://github.com/android/compose-samples)
+  - Official Jetpack Compose samples.
 - [architecture-components-samples](https://github.com/android/architecture-components-samples)
   - Samples for Android Architecture Components.
-- [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd)
-  - Main UserLAnd Repository
-- [Music-Player-GO](https://github.com/enricocid/Music-Player-GO)
-  - 🎶🎼 Very slim music player 👨‍🎤 100% made in Italy 🍕🌳🌞🍝🌄
-- [ScreenStream](https://github.com/dkrivoruchko/ScreenStream)
-  - Screen Stream over HTTP mobile app
+- [CalendarView](https://github.com/kizitonwose/CalendarView)
+  - A highly customizable calendar library for Android, powered by RecyclerView.
+- [Foodium](https://github.com/PatilShreyas/Foodium)
+  - 🍲Foodium is a sample food blog Android application 📱 built to demonstrate the use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2/Hilt, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).
+- [javalin](https://github.com/tipsy/javalin)
+  - A simple and modern Java and Kotlin web framework
+- [dokka](https://github.com/Kotlin/dokka)
+  - Documentation Engine for Kotlin
+- [Twidere-Android](https://github.com/TwidereProject/Twidere-Android)
+  - 
+- [PeopleInSpace](https://github.com/joreilly/PeopleInSpace)
+  - Minimal Kotlin Multiplatform project using Jetpack Compose and SwiftUI
+- [ktor](https://github.com/ktorio/ktor)
+  - Framework for quickly creating connected applications in Kotlin with minimal effort
+- [Android](https://github.com/duckduckgo/Android)
+  - DuckDuckGo Android App
+- [android-kotlin-fundamentals-starter-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-starter-apps)
+  - android-kotlin-fundamentals-starter-apps
 - [okio](https://github.com/square/okio)
   - A modern I/O library for Android, Kotlin, and Java.
-- [Vigilante](https://github.com/CraZyLegenD/Vigilante)
-  - 🛡️ Android security (camera/microphone dots indicators) app using Hilt, Animations, Coroutines, Material, StateFlow, Jetpack (Room, ViewModel, Paging, Security, Biometrics, Start-up) based on MVVM architecture.
+- [Pokedex](https://github.com/skydoves/Pokedex)
+  - 🗡️ Android Pokedex using Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
+- [intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template)
+  - Template repository for creating plugins for IntelliJ Platform
+- [coil](https://github.com/coil-kt/coil)
+  - Image loading for Android backed by Kotlin Coroutines.
+- [legado](https://github.com/gedoor/legado)
+  - 阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+- [android-components](https://github.com/mozilla-mobile/android-components)
+  - A collection of Android libraries to build browsers or browser-like applications.
+- [plaid](https://github.com/android/plaid)
+  - An Android app which provides design news & inspiration as well as being an example of implementing material design.
+- [material-dialogs](https://github.com/afollestad/material-dialogs)
+  - 😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android.
+- [gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher)
+  - GPP is Android's unofficial release automation Gradle Plugin. It can do anything from building, uploading, and then promoting your App Bundle or APK to publishing app listings and other metadata.
+- [tivi](https://github.com/chrisbanes/tivi)
+  - Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.
+- [AffectedModuleDetector](https://github.com/dropbox/AffectedModuleDetector)
+  - A Gradle Plugin to determine which modules were affected by a set of files in a commit.

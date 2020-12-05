@@ -1,93 +1,153 @@
 [
   {
-    "author": "microsoft",
-    "name": "Web-Dev-For-Beginners",
-    "href": "https://github.com/microsoft/Web-Dev-For-Beginners",
-    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
-    "language": "JavaScript",
-    "stars": 2070,
-    "forks": 135,
-    "starsInPeriod": 1163
-  },
-  {
-    "author": "starship",
-    "name": "starship",
-    "href": "https://github.com/starship/starship",
-    "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
-    "language": "Rust",
-    "stars": 11613,
-    "forks": 503,
-    "starsInPeriod": 372
-  },
-  {
-    "author": "sindresorhus",
-    "name": "awesome",
-    "href": "https://github.com/sindresorhus/awesome",
-    "description": "😎 Awesome lists about all kinds of interesting topics",
-    "language": "",
-    "stars": 145315,
-    "forks": 19097,
-    "starsInPeriod": 788
-  },
-  {
-    "author": "microsoft",
-    "name": "Bringing-Old-Photos-Back-to-Life",
-    "href": "https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life",
-    "description": "Bringing Old Photo Back to Life (CVPR 2020 oral)",
-    "language": "Python",
-    "stars": 2673,
-    "forks": 210,
-    "starsInPeriod": 418
-  },
-  {
-    "author": "orf",
-    "name": "gping",
-    "href": "https://github.com/orf/gping",
-    "description": "Ping, but with a graph",
-    "language": "Rust",
-    "stars": 2536,
-    "forks": 102,
-    "starsInPeriod": 566
-  },
-  {
-    "author": "CodinGame",
-    "name": "FallChallenge2020",
-    "href": "https://github.com/CodinGame/FallChallenge2020",
-    "description": "Source code for CodinGame's Fall Challenge 2020 event.",
-    "language": "JavaScript",
-    "stars": 74,
-    "forks": 11,
-    "starsInPeriod": 20
-  },
-  {
-    "author": "chakra-ui",
-    "name": "chakra-ui",
-    "href": "https://github.com/chakra-ui/chakra-ui",
-    "description": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
+    "author": "porn-vault",
+    "name": "porn-vault",
+    "href": "https://github.com/porn-vault/porn-vault",
+    "description": "💋 Manage your ever-growing porn collection. Using Vue & GraphQL",
     "language": "TypeScript",
-    "stars": 12220,
-    "forks": 886,
-    "starsInPeriod": 234
+    "stars": 991,
+    "forks": 66,
+    "starsInPeriod": 225
   },
   {
-    "author": "iptv-org",
-    "name": "iptv",
-    "href": "https://github.com/iptv-org/iptv",
-    "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "author": "google",
+    "name": "googletest",
+    "href": "https://github.com/google/googletest",
+    "description": "Googletest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "stars": 19475,
+    "forks": 6910,
+    "starsInPeriod": 97
+  },
+  {
+    "author": "WerWolv",
+    "name": "ImHex",
+    "href": "https://github.com/WerWolv/ImHex",
+    "description": "A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.",
+    "language": "C++",
+    "stars": 1417,
+    "forks": 41,
+    "starsInPeriod": 560
+  },
+  {
+    "author": "preactjs",
+    "name": "wmr",
+    "href": "https://github.com/preactjs/wmr",
+    "description": "👩‍🚀 The tiny all-in-one development tool for modern web apps.",
     "language": "JavaScript",
-    "stars": 20876,
-    "forks": 127,
-    "starsInPeriod": 299
+    "stars": 1913,
+    "forks": 28,
+    "starsInPeriod": 450
   },
   {
-    "author": "k0sproject",
-    "name": "k0s",
-    "href": "https://github.com/k0sproject/k0s",
-    "description": "k0s - Zero Friction Kubernetes",
+    "author": "bazelbuild",
+    "name": "bazel",
+    "href": "https://github.com/bazelbuild/bazel",
+    "description": "a fast, scalable, multi-language and extensible build system",
+    "language": "Java",
+    "stars": 15819,
+    "forks": 2770,
+    "starsInPeriod": 12
+  },
+  {
+    "author": "looly",
+    "name": "hutool",
+    "href": "https://github.com/looly/hutool",
+    "description": "A set of tools that keep Java sweet.",
+    "language": "Java",
+    "stars": 16825,
+    "forks": 5124,
+    "starsInPeriod": 61
+  },
+  {
+    "author": "jef",
+    "name": "streetmerchant",
+    "href": "https://github.com/jef/streetmerchant",
+    "description": "🤖 Autonomous robot for all your electronic needs",
+    "language": "TypeScript",
+    "stars": 1946,
+    "forks": 590,
+    "starsInPeriod": 97
+  },
+  {
+    "author": "taniarascia",
+    "name": "takenote",
+    "href": "https://github.com/taniarascia/takenote",
+    "description": "📝 ‎ A web-based notes app for developers.",
+    "language": "TypeScript",
+    "stars": 3798,
+    "forks": 395,
+    "starsInPeriod": 228
+  },
+  {
+    "author": "containerd",
+    "name": "containerd",
+    "href": "https://github.com/containerd/containerd",
+    "description": "An open and reliable container runtime",
     "language": "Go",
-    "stars": 496,
-    "forks": 16,
-    "starsInPeriod": 236
+    "stars": 6690,
+    "forks": 1353,
+    "starsInPeriod": 103
+  },
+  {
+    "author": "MicrosoftDocs",
+    "name": "azure-docs",
+    "href": "https://github.com/MicrosoftDocs/azure-docs",
+    "description": "Open source documentation of Microsoft Azure",
+    "language": "PowerShell",
+    "stars": 4774,
+    "forks": 11729,
+    "starsInPeriod": 38
+  },
+  {
+    "author": "reillychase",
+    "name": "hostifi-mvp",
+    "href": "https://github.com/reillychase/hostifi-mvp",
+    "description": null,
+    "language": "Python",
+    "stars": 399,
+    "forks": 74,
+    "starsInPeriod": 250
+  },
+  {
+    "author": "bradtraversy",
+    "name": "50projects50days",
+    "href": "https://github.com/bradtraversy/50projects50days",
+    "description": "50+ mini web projects using HTML, CSS & JS",
+    "language": "CSS",
+    "stars": 1118,
+    "forks": 189,
+    "starsInPeriod": 394
+  },
+  {
+    "author": "dashbitco",
+    "name": "bytepack_archive",
+    "href": "https://github.com/dashbitco/bytepack_archive",
+    "description": "Archive of bytepack.io",
+    "language": "Elixir",
+    "stars": 142,
+    "forks": 18,
+    "starsInPeriod": 45
+  },
+  {
+    "author": "h5bp",
+    "name": "html5-boilerplate",
+    "href": "https://github.com/h5bp/html5-boilerplate",
+    "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
+    "language": "JavaScript",
+    "stars": 48217,
+    "forks": 11232,
+    "starsInPeriod": 140
+  },
+  {
+    "author": "thedaviddias",
+    "name": "Front-End-Checklist",
+    "href": "https://github.com/thedaviddias/Front-End-Checklist",
+    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers",
+    "language": "",
+    "stars": 44759,
+    "forks": 4458,
+    "starsInPeriod": 424
   },
   {
     "author": "alacritty",
@@ -95,158 +155,98 @@
     "href": "https://github.com/alacritty/alacritty",
     "description": "A cross-platform, GPU-accelerated terminal emulator",
     "language": "Rust",
-    "stars": 26507,
-    "forks": 1387,
-    "starsInPeriod": 20
+    "stars": 27514,
+    "forks": 1421,
+    "starsInPeriod": 55
   },
   {
-    "author": "elrumo",
-    "name": "macOS_Big_Sur_icons_replacements",
-    "href": "https://github.com/elrumo/macOS_Big_Sur_icons_replacements",
-    "description": "Replacement icons for popular apps in the style of macOS Big Sur",
-    "language": "Vue",
-    "stars": 2002,
-    "forks": 136,
-    "starsInPeriod": 430
+    "author": "KasperskyLab",
+    "name": "TinyCheck",
+    "href": "https://github.com/KasperskyLab/TinyCheck",
+    "description": "TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In orde…",
+    "language": "Python",
+    "stars": 762,
+    "forks": 40,
+    "starsInPeriod": 257
   },
   {
-    "author": "rust-lang",
-    "name": "rustlings",
-    "href": "https://github.com/rust-lang/rustlings",
-    "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
-    "language": "Rust",
-    "stars": 12750,
-    "forks": 1607,
-    "starsInPeriod": 13
-  },
-  {
-    "author": "ripienaar",
-    "name": "free-for-dev",
-    "href": "https://github.com/ripienaar/free-for-dev",
-    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-    "language": "HTML",
-    "stars": 39959,
-    "forks": 4216,
-    "starsInPeriod": 490
-  },
-  {
-    "author": "lydiahallie",
-    "name": "javascript-questions",
-    "href": "https://github.com/lydiahallie/javascript-questions",
-    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "author": "nahamsec",
+    "name": "Resources-for-Beginner-Bug-Bounty-Hunters",
+    "href": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "description": "A list of resources for those interested in getting started in bug bounties",
     "language": "",
-    "stars": 24504,
-    "forks": 3190,
-    "starsInPeriod": 533
+    "stars": 4523,
+    "forks": 815,
+    "starsInPeriod": 143
   },
   {
-    "author": "ryanmcdermott",
-    "name": "clean-code-javascript",
-    "href": "https://github.com/ryanmcdermott/clean-code-javascript",
-    "description": "🛁 Clean Code concepts adapted for JavaScript",
+    "author": "gothinkster",
+    "name": "realworld",
+    "href": "https://github.com/gothinkster/realworld",
+    "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
     "language": "JavaScript",
-    "stars": 40934,
-    "forks": 4955,
-    "starsInPeriod": 422
+    "stars": 50675,
+    "forks": 4299,
+    "starsInPeriod": 250
   },
   {
-    "author": "yangshun",
-    "name": "tech-interview-handbook",
-    "href": "https://github.com/yangshun/tech-interview-handbook",
-    "description": "💯 Materials to help you rock your next coding interview",
+    "author": "Bogdanp",
+    "name": "awesome-advent-of-code",
+    "href": "https://github.com/Bogdanp/awesome-advent-of-code",
+    "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
     "language": "JavaScript",
-    "stars": 46509,
-    "forks": 6584,
+    "stars": 687,
+    "forks": 351,
+    "starsInPeriod": 59
+  },
+  {
+    "author": "bytefury",
+    "name": "crater",
+    "href": "https://github.com/bytefury/crater",
+    "description": "Free & Open Source Invoice App for Freelancers & Small Businesses",
+    "language": "PHP",
+    "stars": 2927,
+    "forks": 607,
+    "starsInPeriod": 43
+  },
+  {
+    "author": "airbnb",
+    "name": "javascript",
+    "href": "https://github.com/airbnb/javascript",
+    "description": "JavaScript Style Guide",
+    "language": "JavaScript",
+    "stars": 102349,
+    "forks": 19881,
     "starsInPeriod": 208
   },
   {
-    "author": "trekhleb",
-    "name": "javascript-algorithms",
-    "href": "https://github.com/trekhleb/javascript-algorithms",
-    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-    "language": "JavaScript",
-    "stars": 84867,
-    "forks": 14325,
-    "starsInPeriod": 290
+    "author": "Free-IPTV",
+    "name": "Countries",
+    "href": "https://github.com/Free-IPTV/Countries",
+    "description": "Free legally receivable IPTV channels as .m3u for Kodi. :-)",
+    "language": "",
+    "stars": 329,
+    "forks": 189,
+    "starsInPeriod": 77
   },
   {
-    "author": "joke2k",
-    "name": "faker",
-    "href": "https://github.com/joke2k/faker",
-    "description": "Faker is a Python package that generates fake data for you.",
+    "author": "micronaut-projects",
+    "name": "micronaut-core",
+    "href": "https://github.com/micronaut-projects/micronaut-core",
+    "description": "Micronaut Application Framework",
+    "language": "Java",
+    "stars": 4440,
+    "forks": 729,
+    "starsInPeriod": 49
+  },
+  {
+    "author": "adamian98",
+    "name": "pulse",
+    "href": "https://github.com/adamian98/pulse",
+    "description": "PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models",
     "language": "Python",
-    "stars": 10914,
-    "forks": 1292,
-    "starsInPeriod": 58
-  },
-  {
-    "author": "MunGell",
-    "name": "awesome-for-beginners",
-    "href": "https://github.com/MunGell/awesome-for-beginners",
-    "description": "A list of awesome beginners-friendly projects.",
-    "language": "",
-    "stars": 24987,
-    "forks": 4104,
-    "starsInPeriod": 131
-  },
-  {
-    "author": "EbookFoundation",
-    "name": "free-programming-books",
-    "href": "https://github.com/EbookFoundation/free-programming-books",
-    "description": "📚 Freely available programming books",
-    "language": "",
-    "stars": 164934,
-    "forks": 39083,
+    "stars": 4328,
+    "forks": 879,
     "starsInPeriod": 181
-  },
-  {
-    "author": "bitcoin",
-    "name": "bitcoin",
-    "href": "https://github.com/bitcoin/bitcoin",
-    "description": "Bitcoin Core integration/staging tree",
-    "language": "C++",
-    "stars": 45984,
-    "forks": 26635,
-    "starsInPeriod": 25
-  },
-  {
-    "author": "home-assistant",
-    "name": "core",
-    "href": "https://github.com/home-assistant/core",
-    "description": "🏡 Open source home automation that puts local control and privacy first",
-    "language": "Python",
-    "stars": 37176,
-    "forks": 12214,
-    "starsInPeriod": 24
-  },
-  {
-    "author": "Concordium",
-    "name": "Testnet3-Challenges",
-    "href": "https://github.com/Concordium/Testnet3-Challenges",
-    "description": "This repo is dedicated to Concordium Incentivized Testnet3.",
-    "language": "",
-    "stars": 324,
-    "forks": 523,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "Asabeneh",
-    "name": "30-Days-Of-Python",
-    "href": "https://github.com/Asabeneh/30-Days-Of-Python",
-    "description": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
-    "language": "Python",
-    "stars": 2948,
-    "forks": 684,
-    "starsInPeriod": 203
-  },
-  {
-    "author": "halfrost",
-    "name": "LeetCode-Go",
-    "href": "https://github.com/halfrost/LeetCode-Go",
-    "description": "✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",
-    "language": "Go",
-    "stars": 8935,
-    "forks": 1396,
-    "starsInPeriod": 43
   }
 ]
