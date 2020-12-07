@@ -1,51 +1,49 @@
 # typescript
-- [Website](https://github.com/thenewboston-developers/Website)
-  - The website and documentation for thenewboston.
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui)
-  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [h5-Dooring](https://github.com/MrXujiang/h5-Dooring)
-  - (H5编辑器)H5-Dooring是一款功能强大，开源免费的H5可视化页面配置解决方案，致力于提供一套简单方便、专业可靠、无限可能的H5落地页最佳实践。技术栈以react为主， 后台采用nodejs开发.
-- [Account-Manager](https://github.com/thenewboston-developers/Account-Manager)
-  - Account manager desktop application for thenewboston digital currency.
-- [n8n](https://github.com/n8n-io/n8n)
-  - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
-- [aleph.js](https://github.com/alephjs/aleph.js)
-  - The React Framework in Deno.
-- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-  - The repository for high quality TypeScript type definitions.
-- [vscode](https://github.com/microsoft/vscode)
-  - Visual Studio Code
-- [theia](https://github.com/eclipse-theia/theia)
-  - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [angular](https://github.com/angular/angular)
-  - One framework. Mobile & desktop.
-- [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
-  - Foreign language reading and translation assistant based on copy and translate.
-- [davinci](https://github.com/edp963/davinci)
-  - Davinci is a DVsaaS (Data Visualization as a Service) Platform
+- [CrewLink](https://github.com/ottomated/CrewLink)
+  - Free, open, Among Us Proximity Chat
 - [streetmerchant](https://github.com/jef/streetmerchant)
-  - 🤖 Autonomous robot for all your electronic needs
-- [snyk](https://github.com/snyk/snyk)
-  - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
-- [lens](https://github.com/lensapp/lens)
-  - Lens - The Kubernetes IDE
-- [ant-design](https://github.com/ant-design/ant-design)
-  - 🌈 A UI Design Language and React UI library
-- [puppeteer](https://github.com/puppeteer/puppeteer)
-  - Headless Chrome Node.js API
-- [serverless-next.js](https://github.com/serverless-nextjs/serverless-next.js)
-  - ⚡ Deploy your Next.js apps on AWS Lambda@Edge via Serverless Components
-- [Babylon.js](https://github.com/BabylonJS/Babylon.js)
-  - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
-- [TypeScript](https://github.com/microsoft/TypeScript)
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [recharts](https://github.com/recharts/recharts)
-  - Redefined chart library built with React and D3
-- [PeerTube](https://github.com/Chocobozzz/PeerTube)
-  - ActivityPub-federated video streaming platform using P2P directly in your web browser
-- [wechaty](https://github.com/wechaty/wechaty)
-  - Conversational SDK for Chatbot Makers
-- [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
-  - Microsoft Authentication Library (MSAL) for JS
-- [typeorm](https://github.com/typeorm/typeorm)
-  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+  - 🔮 Autonomous robot for all your electronic needs
+- [supabase](https://github.com/supabase/supabase)
+  - Website, docs, and examples. Follow to stay updated about our public Beta.
+- [takenote](https://github.com/taniarascia/takenote)
+  - 📝 ‎ A web-based notes app for developers.
+- [fullcalendar](https://github.com/fullcalendar/fullcalendar)
+  - Full-sized drag & drop event calendar
+- [amis](https://github.com/baidu/amis)
+  - 前端低代码框架，通过 JSON 配置就能生成各种页面。
+- [playwright](https://github.com/microsoft/playwright)
+  - Node.js library to automate Chromium, Firefox and WebKit with a single API
+- [kibana](https://github.com/elastic/kibana)
+  - Your window into the Elastic Stack
+- [tfjs-models](https://github.com/tensorflow/tfjs-models)
+  - Pretrained models for TensorFlow.js
+- [excalidraw](https://github.com/excalidraw/excalidraw)
+  - Virtual whiteboard for sketching hand-drawn like diagrams
+- [aws-cdk](https://github.com/aws/aws-cdk)
+  - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+- [incubator-echarts](https://github.com/apache/incubator-echarts)
+  - Apache ECharts (incubating) is a powerful, interactive charting and data visualization library for browser
+- [ionic-framework](https://github.com/ionic-team/ionic-framework)
+  - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+- [face-api.js](https://github.com/justadudewhohacks/face-api.js)
+  - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
+- [homebridge](https://github.com/homebridge/homebridge)
+  - HomeKit support for the impatient
+- [G6](https://github.com/antvis/G6)
+  - ♾ A Graph Visualization Framework in JavaScript
+- [react-three-fiber](https://github.com/pmndrs/react-three-fiber)
+  - 🇨🇭 A React renderer for Three.js (web and react-native)
+- [CrewLink-server](https://github.com/ottomated/CrewLink-server)
+  - Voice Relay server for CrewLink.
+- [vuetify](https://github.com/vuetifyjs/vuetify)
+  - 🐉 Material Component Framework for Vue
+- [rrweb](https://github.com/rrweb-io/rrweb)
+  - record and replay the web
+- [schema](https://github.com/graphql-nexus/schema)
+  - Code-First, Type-Safe, GraphQL Schema Construction
+- [code-server](https://github.com/cdr/code-server)
+  - VS Code in the browser
+- [vue-next](https://github.com/vuejs/vue-next)
+  - Repo for Vue 3
+- [vite](https://github.com/vitejs/vite)
+  - Native-ESM powered web dev build tool. It's fast.

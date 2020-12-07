@@ -1,252 +1,252 @@
 [
   {
-    "author": "Fmstrat",
-    "name": "winapps",
-    "href": "https://github.com/Fmstrat/winapps",
-    "description": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.",
-    "language": "Shell",
-    "stars": 2671,
-    "forks": 78,
-    "starsInPeriod": 1155
+    "author": "element-plus",
+    "name": "element-plus",
+    "href": "https://github.com/element-plus/element-plus",
+    "description": "🎉 A Vue.js 3.0 UI Library made by Element team",
+    "language": "Vue",
+    "stars": 6209,
+    "forks": 476,
+    "starsInPeriod": 2124
   },
   {
-    "author": "geekxh",
-    "name": "hello-algorithm",
-    "href": "https://github.com/geekxh/hello-algorithm",
-    "description": "🌍「算法面试+算法知识」这是一套针对小白的完整算法训练 | 还包括：1、千本开源电子书 2、阿里、字节、滴滴 等面经汇总 3、百张思维导图 （来个Star吧~）",
+    "author": "ottomated",
+    "name": "CrewLink",
+    "href": "https://github.com/ottomated/CrewLink",
+    "description": "Free, open, Among Us Proximity Chat",
+    "language": "TypeScript",
+    "stars": 851,
+    "forks": 91,
+    "starsInPeriod": 513
+  },
+  {
+    "author": "EricJMarti",
+    "name": "inventory-hunter",
+    "href": "https://github.com/EricJMarti/inventory-hunter",
+    "description": "⚡️ Get notified as soon as your next CPU, GPU, or game console is in stock",
+    "language": "Python",
+    "stars": 516,
+    "forks": 79,
+    "starsInPeriod": 360
+  },
+  {
+    "author": "jef",
+    "name": "streetmerchant",
+    "href": "https://github.com/jef/streetmerchant",
+    "description": "🔮 Autonomous robot for all your electronic needs",
+    "language": "TypeScript",
+    "stars": 2156,
+    "forks": 624,
+    "starsInPeriod": 594
+  },
+  {
+    "author": "Anuken",
+    "name": "Mindustry",
+    "href": "https://github.com/Anuken/Mindustry",
+    "description": "A sandbox tower defense game",
     "language": "Java",
-    "stars": 21738,
-    "forks": 4098,
-    "starsInPeriod": 1167
+    "stars": 7322,
+    "forks": 1210,
+    "starsInPeriod": 716
   },
   {
-    "author": "facebookresearch",
-    "name": "pifuhd",
-    "href": "https://github.com/facebookresearch/pifuhd",
-    "description": "High-Resolution 3D Human Digitization from A Single Image.",
-    "language": "Python",
-    "stars": 5504,
-    "forks": 627,
-    "starsInPeriod": 1065
-  },
-  {
-    "author": "thenewboston-developers",
-    "name": "Website",
-    "href": "https://github.com/thenewboston-developers/Website",
-    "description": "The website and documentation for thenewboston.",
-    "language": "TypeScript",
-    "stars": 475,
-    "forks": 280,
-    "starsInPeriod": 326
-  },
-  {
-    "author": "Marak",
-    "name": "faker.js",
-    "href": "https://github.com/Marak/faker.js",
-    "description": "generate massive amounts of realistic fake data in Node.js and the browser",
-    "language": "JavaScript",
-    "stars": 27642,
-    "forks": 2382,
-    "starsInPeriod": 1979
-  },
-  {
-    "author": "Rudrabha",
-    "name": "Wav2Lip",
-    "href": "https://github.com/Rudrabha/Wav2Lip",
-    "description": "This repository contains the codes of \"A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild\", published at ACM Multimedia 2020.",
-    "language": "Python",
-    "stars": 1537,
-    "forks": 246,
-    "starsInPeriod": 325
-  },
-  {
-    "author": "chatwoot",
-    "name": "chatwoot",
-    "href": "https://github.com/chatwoot/chatwoot",
-    "description": "Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬",
-    "language": "Ruby",
-    "stars": 6292,
-    "forks": 583,
-    "starsInPeriod": 935
-  },
-  {
-    "author": "corpnewt",
-    "name": "gibMacOS",
-    "href": "https://github.com/corpnewt/gibMacOS",
-    "description": "Py2/py3 script that can download macOS components direct from Apple",
-    "language": "Python",
-    "stars": 2516,
-    "forks": 351,
-    "starsInPeriod": 276
-  },
-  {
-    "author": "JetBrains",
-    "name": "compose-jb",
-    "href": "https://github.com/JetBrains/compose-jb",
-    "description": "Jetpack Compose for Desktop, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.",
-    "language": "Kotlin",
-    "stars": 1437,
-    "forks": 37,
-    "starsInPeriod": 555
-  },
-  {
-    "author": "Atcold",
-    "name": "pytorch-Deep-Learning",
-    "href": "https://github.com/Atcold/pytorch-Deep-Learning",
-    "description": "Deep Learning (with PyTorch)",
-    "language": "Jupyter Notebook",
-    "stars": 3749,
-    "forks": 1167,
-    "starsInPeriod": 395
-  },
-  {
-    "author": "cjph8914",
-    "name": "2020_benfords",
-    "href": "https://github.com/cjph8914/2020_benfords",
-    "description": null,
-    "language": "Jupyter Notebook",
-    "stars": 383,
-    "forks": 108,
-    "starsInPeriod": 101
-  },
-  {
-    "author": "chakra-ui",
-    "name": "chakra-ui",
-    "href": "https://github.com/chakra-ui/chakra-ui",
-    "description": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
-    "language": "TypeScript",
-    "stars": 12214,
-    "forks": 885,
-    "starsInPeriod": 540
-  },
-  {
-    "author": "rileytestut",
-    "name": "AltStore",
-    "href": "https://github.com/rileytestut/AltStore",
-    "description": "AltStore is an alternative app store for non-jailbroken iOS devices.",
-    "language": "Swift",
-    "stars": 4180,
-    "forks": 316,
-    "starsInPeriod": 377
-  },
-  {
-    "author": "dotnet",
-    "name": "core",
-    "href": "https://github.com/dotnet/core",
-    "description": "Home repository for .NET Core",
-    "language": "Shell",
-    "stars": 14800,
-    "forks": 3692,
-    "starsInPeriod": 103
-  },
-  {
-    "author": "gao-sun",
-    "name": "eul",
-    "href": "https://github.com/gao-sun/eul",
-    "description": "🖥️ macOS status monitoring app written in SwiftUI.",
-    "language": "Swift",
-    "stars": 3179,
-    "forks": 102,
-    "starsInPeriod": 917
-  },
-  {
-    "author": "kgrzybek",
-    "name": "modular-monolith-with-ddd",
-    "href": "https://github.com/kgrzybek/modular-monolith-with-ddd",
-    "description": "Full Modular Monolith application with Domain-Driven Design approach.",
-    "language": "C#",
-    "stars": 3937,
-    "forks": 516,
-    "starsInPeriod": 89
-  },
-  {
-    "author": "microsoft",
-    "name": "Bringing-Old-Photos-Back-to-Life",
-    "href": "https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life",
-    "description": "Bringing Old Photo Back to Life (CVPR 2020 oral)",
-    "language": "Python",
-    "stars": 2640,
-    "forks": 209,
-    "starsInPeriod": 1055
-  },
-  {
-    "author": "tychxn",
-    "name": "jd-assistant",
-    "href": "https://github.com/tychxn/jd-assistant",
-    "description": "京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能",
-    "language": "Python",
-    "stars": 2365,
-    "forks": 729,
-    "starsInPeriod": 99
-  },
-  {
-    "author": "MrXujiang",
-    "name": "h5-Dooring",
-    "href": "https://github.com/MrXujiang/h5-Dooring",
-    "description": "(H5编辑器)H5-Dooring是一款功能强大，开源免费的H5可视化页面配置解决方案，致力于提供一套简单方便、专业可靠、无限可能的H5落地页最佳实践。技术栈以react为主， 后台采用nodejs开发.",
-    "language": "TypeScript",
-    "stars": 1633,
-    "forks": 282,
-    "starsInPeriod": 257
-  },
-  {
-    "author": "labuladong",
-    "name": "fucking-algorithm",
-    "href": "https://github.com/labuladong/fucking-algorithm",
-    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "author": "peng-zhihui",
+    "name": "PocketLCD",
+    "href": "https://github.com/peng-zhihui/PocketLCD",
+    "description": "带充电宝功能的便携显示器",
     "language": "",
-    "stars": 70578,
-    "forks": 13272,
-    "starsInPeriod": 1387
+    "stars": 1694,
+    "forks": 260,
+    "starsInPeriod": 652
   },
   {
-    "author": "donnemartin",
-    "name": "system-design-primer",
-    "href": "https://github.com/donnemartin/system-design-primer",
-    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "author": "google",
+    "name": "googletest",
+    "href": "https://github.com/google/googletest",
+    "description": "Googletest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "stars": 19559,
+    "forks": 6928,
+    "starsInPeriod": 478
+  },
+  {
+    "author": "zwpro",
+    "name": "coupons",
+    "href": "https://github.com/zwpro/coupons",
+    "description": "美团饿了吗红包，先领红包再下单。外卖红包，cps分成，别人领红包下单，你拿佣金。",
+    "language": "Vue",
+    "stars": 658,
+    "forks": 137,
+    "starsInPeriod": 233
+  },
+  {
+    "author": "prysmaticlabs",
+    "name": "prysm",
+    "href": "https://github.com/prysmaticlabs/prysm",
+    "description": "Go implementation of the Ethereum 2.0 blockchain",
+    "language": "Go",
+    "stars": 1733,
+    "forks": 408,
+    "starsInPeriod": 398
+  },
+  {
+    "author": "dromara",
+    "name": "soul",
+    "href": "https://github.com/dromara/soul",
+    "description": "High-Performance Java API Gateway",
+    "language": "Java",
+    "stars": 3056,
+    "forks": 1039,
+    "starsInPeriod": 373
+  },
+  {
+    "author": "RayTracing",
+    "name": "raytracing.github.io",
+    "href": "https://github.com/RayTracing/raytracing.github.io",
+    "description": "Main Web Site (Online Books)",
+    "language": "HTML",
+    "stars": 2788,
+    "forks": 243,
+    "starsInPeriod": 483
+  },
+  {
+    "author": "changgyhub",
+    "name": "leetcode_101",
+    "href": "https://github.com/changgyhub/leetcode_101",
+    "description": "LeetCode 101：和你一起你轻松刷题（C++）",
+    "language": "",
+    "stars": 1550,
+    "forks": 252,
+    "starsInPeriod": 371
+  },
+  {
+    "author": "AI4Finance-LLC",
+    "name": "FinRL-Library",
+    "href": "https://github.com/AI4Finance-LLC/FinRL-Library",
+    "description": "A Deep Reinforcement Learning Library for Automated Trading in Quantitative Finance, NeurIPS 2020 DRL workshop.",
+    "language": "Jupyter Notebook",
+    "stars": 483,
+    "forks": 101,
+    "starsInPeriod": 152
+  },
+  {
+    "author": "Hari-Nagarajan",
+    "name": "fairgame",
+    "href": "https://github.com/Hari-Nagarajan/fairgame",
+    "description": "Tool to help us buy a GPU in 2020",
     "language": "Python",
-    "stars": 112532,
-    "forks": 20328,
-    "starsInPeriod": 1302
+    "stars": 650,
+    "forks": 225,
+    "starsInPeriod": 131
   },
   {
-    "author": "starship",
-    "name": "starship",
-    "href": "https://github.com/starship/starship",
-    "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
-    "language": "Rust",
-    "stars": 11589,
-    "forks": 503,
-    "starsInPeriod": 732
+    "author": "srcrs",
+    "name": "BilibiliTask",
+    "href": "https://github.com/srcrs/BilibiliTask",
+    "description": "哔哩哔哩(B站)自动完成每日任务，投币，点赞，直播签到，自动兑换银瓜子为硬币，自动送出即将过期礼物，漫画App签到。",
+    "language": "Java",
+    "stars": 1171,
+    "forks": 1417,
+    "starsInPeriod": 179
   },
   {
-    "author": "localstack",
-    "name": "localstack",
-    "href": "https://github.com/localstack/localstack",
-    "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!",
-    "language": "Python",
-    "stars": 27245,
-    "forks": 2112,
-    "starsInPeriod": 135
+    "author": "Aircoookie",
+    "name": "WLED",
+    "href": "https://github.com/Aircoookie/WLED",
+    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
+    "language": "C++",
+    "stars": 3893,
+    "forks": 683,
+    "starsInPeriod": 178
   },
   {
-    "author": "acidanthera",
-    "name": "OpenCorePkg",
-    "href": "https://github.com/acidanthera/OpenCorePkg",
-    "description": "OpenCore bootloader",
+    "author": "openzfs",
+    "name": "zfs",
+    "href": "https://github.com/openzfs/zfs",
+    "description": "OpenZFS on Linux and FreeBSD",
     "language": "C",
-    "stars": 5240,
-    "forks": 902,
-    "starsInPeriod": 106
+    "stars": 6528,
+    "forks": 1244,
+    "starsInPeriod": 527
   },
   {
-    "author": "thenewboston-developers",
-    "name": "Account-Manager",
-    "href": "https://github.com/thenewboston-developers/Account-Manager",
-    "description": "Account manager desktop application for thenewboston digital currency.",
+    "author": "h5bp",
+    "name": "html5-boilerplate",
+    "href": "https://github.com/h5bp/html5-boilerplate",
+    "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
+    "language": "JavaScript",
+    "stars": 48513,
+    "forks": 11253,
+    "starsInPeriod": 687
+  },
+  {
+    "author": "actions",
+    "name": "virtual-environments",
+    "href": "https://github.com/actions/virtual-environments",
+    "description": "GitHub Actions virtual environments",
+    "language": "PowerShell",
+    "stars": 1886,
+    "forks": 709,
+    "starsInPeriod": 310
+  },
+  {
+    "author": "supabase",
+    "name": "supabase",
+    "href": "https://github.com/supabase/supabase",
+    "description": "Website, docs, and examples. Follow to stay updated about our public Beta.",
     "language": "TypeScript",
-    "stars": 284,
-    "forks": 104,
-    "starsInPeriod": 69
+    "stars": 3741,
+    "forks": 130,
+    "starsInPeriod": 698
+  },
+  {
+    "author": "qianguyihao",
+    "name": "Web",
+    "href": "https://github.com/qianguyihao/Web",
+    "description": "前端入门到进阶图文教程，超详细的Web前端学习笔记。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。",
+    "language": "JavaScript",
+    "stars": 13600,
+    "forks": 3729,
+    "starsInPeriod": 243
+  },
+  {
+    "author": "huggingface",
+    "name": "datasets",
+    "href": "https://github.com/huggingface/datasets",
+    "description": "🤗 Fast, efficient, open-access datasets and evaluation metrics in PyTorch, TensorFlow, NumPy and Pandas",
+    "language": "Python",
+    "stars": 5664,
+    "forks": 521,
+    "starsInPeriod": 599
+  },
+  {
+    "author": "elastic",
+    "name": "detection-rules",
+    "href": "https://github.com/elastic/detection-rules",
+    "description": "Rules for Elastic Security's detection engine",
+    "language": "Python",
+    "stars": 543,
+    "forks": 103,
+    "starsInPeriod": 18
+  },
+  {
+    "author": "hakimel",
+    "name": "reveal.js",
+    "href": "https://github.com/hakimel/reveal.js",
+    "description": "The HTML Presentation Framework",
+    "language": "JavaScript",
+    "stars": 54775,
+    "forks": 15216,
+    "starsInPeriod": 371
+  },
+  {
+    "author": "flybywiresim",
+    "name": "a32nx",
+    "href": "https://github.com/flybywiresim/a32nx",
+    "description": "The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.",
+    "language": "JavaScript",
+    "stars": 2249,
+    "forks": 376,
+    "starsInPeriod": 71
   }
 ]
