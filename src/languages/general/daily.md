@@ -1,51 +1,51 @@
 # general
-- [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) : JavaScript
-  - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [starship](https://github.com/starship/starship) : Rust
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [awesome](https://github.com/sindresorhus/awesome) : 
-  - 😎 Awesome lists about all kinds of interesting topics
-- [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) : Python
-  - Bringing Old Photo Back to Life (CVPR 2020 oral)
-- [gping](https://github.com/orf/gping) : Rust
-  - Ping, but with a graph
-- [FallChallenge2020](https://github.com/CodinGame/FallChallenge2020) : JavaScript
-  - Source code for CodinGame's Fall Challenge 2020 event.
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui) : TypeScript
-  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [iptv](https://github.com/iptv-org/iptv) : JavaScript
-  - Collection of 5000+ publicly available IPTV channels from all over the world
-- [k0s](https://github.com/k0sproject/k0s) : Go
-  - k0s - Zero Friction Kubernetes
-- [alacritty](https://github.com/alacritty/alacritty) : Rust
-  - A cross-platform, GPU-accelerated terminal emulator
-- [macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) : Vue
-  - Replacement icons for popular apps in the style of macOS Big Sur
-- [rustlings](https://github.com/rust-lang/rustlings) : Rust
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
-  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
-  - A long list of (advanced) JavaScript questions, and their explanations ✨
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
-  - 💯 Materials to help you rock your next coding interview
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [faker](https://github.com/joke2k/faker) : Python
-  - Faker is a Python package that generates fake data for you.
-- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) : 
-  - A list of awesome beginners-friendly projects.
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [bitcoin](https://github.com/bitcoin/bitcoin) : C++
-  - Bitcoin Core integration/staging tree
-- [core](https://github.com/home-assistant/core) : Python
-  - 🏡 Open source home automation that puts local control and privacy first
-- [Testnet3-Challenges](https://github.com/Concordium/Testnet3-Challenges) : 
-  - This repo is dedicated to Concordium Incentivized Testnet3.
-- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) : Python
-  - 30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.
-- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) : Go
-  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [Depix](https://github.com/beurtschipper/Depix) : Python
+  - Recovers passwords from pixelized screenshots
+- [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) : Java
+  - A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.
+- [magma](https://github.com/magma/magma) : Go
+  - Platform for building access networks and modular network services
+- [fastlane](https://github.com/fastlane/fastlane) : Ruby
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [onnx-tensorrt](https://github.com/onnx/onnx-tensorrt) : C++
+  - ONNX-TensorRT: TensorRT backend for ONNX
+- [content](https://github.com/demisto/content) : Python
+  - Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated!
+- [cardano-node](https://github.com/input-output-hk/cardano-node) : Haskell
+  - The core component that is used to participate in a Cardano decentralised blockchain.
+- [Catch2](https://github.com/catchorg/Catch2) : C++
+  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [tfenv](https://github.com/tfutils/tfenv) : Shell
+  - Terraform version manager
+- [yaml](https://github.com/go-yaml/yaml) : Go
+  - YAML support for the Go language.
+- [rapidjson](https://github.com/Tencent/rapidjson) : C++
+  - A fast JSON parser/generator for C++ with both SAX/DOM style API
+- [hue](https://github.com/cloudera/hue) : Python
+  - Hue Editor: Open source SQL Query Assistant for Databases/Warehouses
+- [kured](https://github.com/weaveworks/kured) : Go
+  - Kubernetes Reboot Daemon
+- [velero](https://github.com/vmware-tanzu/velero) : Go
+  - Backup and migrate Kubernetes applications and their persistent volumes
+- [selling-partner-api-docs](https://github.com/amzn/selling-partner-api-docs) : 
+  - This repository contains documentation for developers to use to call Selling Partner APIs.
+- [laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) : PHP
+  - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
+- [json](https://github.com/nlohmann/json) : C++
+  - JSON for Modern C++
+- [terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) : HCL
+  - A Terraform module for configuring GKE clusters.
+- [AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) : C
+  - The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
+- [flot](https://github.com/flot/flot) : JavaScript
+  - Attractive JavaScript charts for jQuery
+- [thanos](https://github.com/thanos-io/thanos) : Go
+  - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+- [eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import) : JavaScript
+  - ESLint plugin with rules that help validate proper imports.
+- [skynet](https://github.com/cloudwu/skynet) : C
+  - A lightweight online game framework
+- [carrierwave](https://github.com/carrierwaveuploader/carrierwave) : Ruby
+  - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
+- [maps](https://github.com/react-native-mapbox-gl/maps) : JavaScript
+  - A Mapbox GL react native module for creating custom maps

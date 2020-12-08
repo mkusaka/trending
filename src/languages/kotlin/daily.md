@@ -1,51 +1,45 @@
 # kotlin
-- [VancedManager](https://github.com/YTVanced/VancedManager)
-  - Vanced Installer
-- [mirai](https://github.com/mamoe/mirai)
-  - 高效率 QQ 机器人框架 / High-performance bot framework for Tencent QQ
-- [kotlin](https://github.com/JetBrains/kotlin)
-  - The Kotlin Programming Language
-- [v2rayNG](https://github.com/2dust/v2rayNG)
-  - 
-- [tachiyomi](https://github.com/inorichi/tachiyomi)
-  - Free and open source manga reader for Android
-- [javalin](https://github.com/tipsy/javalin)
-  - A simple and modern Java and Kotlin web framework
-- [karel](https://github.com/fredoverflow/karel)
-  - Karel The Robot
-- [Android](https://github.com/duckduckgo/Android)
-  - DuckDuckGo Android App
-- [XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools)
-  - A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot
-- [Unciv](https://github.com/yairm210/Unciv)
-  - Open-source Android/Desktop remake of Civ V
+- [Pokedex](https://github.com/skydoves/Pokedex)
+  - 🗡️ Android Pokedex using Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
+- [leakcanary](https://github.com/square/leakcanary)
+  - A memory leak detection library for Android.
 - [legado](https://github.com/gedoor/legado)
   - 阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-- [StreetComplete](https://github.com/westnordost/StreetComplete)
-  - Easy to use OpenStreetMap editor for Android
-- [element-android](https://github.com/vector-im/element-android)
-  - A glossy Matrix collaboration client for Android.
-- [RetroMusicPlayer](https://github.com/h4h13/RetroMusicPlayer)
-  - Best material design music player for Android
-- [fenix](https://github.com/mozilla-mobile/fenix)
-  - Firefox for Android
-- [android-kotlin-fundamentals-starter-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-starter-apps)
-  - android-kotlin-fundamentals-starter-apps
-- [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)
-  - Spotify Music Downloader For Android!
-- [android](https://github.com/home-assistant/android)
-  - 📱 Home Assistant Companion for Android
-- [blokada](https://github.com/blokadaorg/blokada)
-  - The official repo for Blokada for Android and iOS.
-- [architecture-components-samples](https://github.com/android/architecture-components-samples)
-  - Samples for Android Architecture Components.
-- [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd)
-  - Main UserLAnd Repository
-- [Music-Player-GO](https://github.com/enricocid/Music-Player-GO)
-  - 🎶🎼 Very slim music player 👨‍🎤 100% made in Italy 🍕🌳🌞🍝🌄
+- [tingshu](https://github.com/eprendre/tingshu)
+  - 一款可在线播放多个免费听书站点的安卓app
+- [TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin)
+  - 🔌Translation plugin for JetBrains IDEs/Android Studio
+- [android-luajit-launcher](https://github.com/koreader/android-luajit-launcher)
+  - Android NativeActivity based launcher for LuaJIT, implementing the main loop within Lua land via FFI
+- [speedometer](https://github.com/ibrahimsn98/speedometer)
+  - A lightweight circular indicator view library for Android
 - [ScreenStream](https://github.com/dkrivoruchko/ScreenStream)
   - Screen Stream over HTTP mobile app
-- [okio](https://github.com/square/okio)
-  - A modern I/O library for Android, Kotlin, and Java.
-- [Vigilante](https://github.com/CraZyLegenD/Vigilante)
-  - 🛡️ Android security (camera/microphone dots indicators) app using Hilt, Animations, Coroutines, Material, StateFlow, Jetpack (Room, ViewModel, Paging, Security, Biometrics, Start-up) based on MVVM architecture.
+- [ChatTriggers](https://github.com/ChatTriggers/ChatTriggers)
+  - A framework for Minecraft Forge that allows for client modifications to be scripted in JavaScript
+- [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization)
+  - Kotlin multiplatform / multi-format serialization
+- [android-junit5](https://github.com/mannodermaus/android-junit5)
+  - Testing with JUnit 5 for Android.
+- [StreetComplete](https://github.com/westnordost/StreetComplete)
+  - Easy to use OpenStreetMap editor for Android
+- [twilio-video-app-android](https://github.com/twilio/twilio-video-app-android)
+  - A collaboration application built with the Twilio Video Android SDK
+- [koin](https://github.com/InsertKoinIO/koin)
+  - Koin - a pragmatic lightweight dependency injection framework for Kotlin
+- [ktlint](https://github.com/pinterest/ktlint)
+  - An anti-bikeshedding Kotlin linter with built-in formatter
+- [mobile-android](https://github.com/AU-COVIDSafe/mobile-android)
+  - COVIDSafe android app
+- [databinding-samples](https://github.com/android/databinding-samples)
+  - 
+- [Exposed](https://github.com/JetBrains/Exposed)
+  - Kotlin SQL Framework
+- [projector-server](https://github.com/JetBrains/projector-server)
+  - Server-side library for running Swing applications remotely
+- [projector-client](https://github.com/JetBrains/projector-client)
+  - Common and client-related code for running Swing applications remotely
+- [woocommerce-android](https://github.com/woocommerce/woocommerce-android)
+  - WooCommerce Android app
+- [ShadowsocksR-Android](https://github.com/HMBSbige/ShadowsocksR-Android)
+  - 【自用】咕咕咕

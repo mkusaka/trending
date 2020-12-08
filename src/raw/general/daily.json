@@ -1,252 +1,252 @@
 [
   {
-    "author": "microsoft",
-    "name": "Web-Dev-For-Beginners",
-    "href": "https://github.com/microsoft/Web-Dev-For-Beginners",
-    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
-    "language": "JavaScript",
-    "stars": 2070,
-    "forks": 135,
-    "starsInPeriod": 1163
-  },
-  {
-    "author": "starship",
-    "name": "starship",
-    "href": "https://github.com/starship/starship",
-    "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
-    "language": "Rust",
-    "stars": 11613,
-    "forks": 503,
-    "starsInPeriod": 372
-  },
-  {
-    "author": "sindresorhus",
-    "name": "awesome",
-    "href": "https://github.com/sindresorhus/awesome",
-    "description": "😎 Awesome lists about all kinds of interesting topics",
-    "language": "",
-    "stars": 145315,
-    "forks": 19097,
-    "starsInPeriod": 788
-  },
-  {
-    "author": "microsoft",
-    "name": "Bringing-Old-Photos-Back-to-Life",
-    "href": "https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life",
-    "description": "Bringing Old Photo Back to Life (CVPR 2020 oral)",
+    "author": "beurtschipper",
+    "name": "Depix",
+    "href": "https://github.com/beurtschipper/Depix",
+    "description": "Recovers passwords from pixelized screenshots",
     "language": "Python",
-    "stars": 2673,
-    "forks": 210,
-    "starsInPeriod": 418
+    "stars": 6080,
+    "forks": 314,
+    "starsInPeriod": 4230
   },
   {
-    "author": "orf",
-    "name": "gping",
-    "href": "https://github.com/orf/gping",
-    "description": "Ping, but with a graph",
-    "language": "Rust",
-    "stars": 2536,
-    "forks": 102,
-    "starsInPeriod": 566
-  },
-  {
-    "author": "CodinGame",
-    "name": "FallChallenge2020",
-    "href": "https://github.com/CodinGame/FallChallenge2020",
-    "description": "Source code for CodinGame's Fall Challenge 2020 event.",
-    "language": "JavaScript",
-    "stars": 74,
-    "forks": 11,
-    "starsInPeriod": 20
-  },
-  {
-    "author": "chakra-ui",
-    "name": "chakra-ui",
-    "href": "https://github.com/chakra-ui/chakra-ui",
-    "description": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
-    "language": "TypeScript",
-    "stars": 12220,
-    "forks": 886,
-    "starsInPeriod": 234
-  },
-  {
-    "author": "iptv-org",
-    "name": "iptv",
-    "href": "https://github.com/iptv-org/iptv",
-    "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
-    "language": "JavaScript",
-    "stars": 20876,
-    "forks": 127,
-    "starsInPeriod": 299
-  },
-  {
-    "author": "k0sproject",
-    "name": "k0s",
-    "href": "https://github.com/k0sproject/k0s",
-    "description": "k0s - Zero Friction Kubernetes",
-    "language": "Go",
-    "stars": 496,
-    "forks": 16,
-    "starsInPeriod": 236
-  },
-  {
-    "author": "alacritty",
-    "name": "alacritty",
-    "href": "https://github.com/alacritty/alacritty",
-    "description": "A cross-platform, GPU-accelerated terminal emulator",
-    "language": "Rust",
-    "stars": 26507,
-    "forks": 1387,
-    "starsInPeriod": 20
-  },
-  {
-    "author": "elrumo",
-    "name": "macOS_Big_Sur_icons_replacements",
-    "href": "https://github.com/elrumo/macOS_Big_Sur_icons_replacements",
-    "description": "Replacement icons for popular apps in the style of macOS Big Sur",
-    "language": "Vue",
-    "stars": 2002,
-    "forks": 136,
-    "starsInPeriod": 430
-  },
-  {
-    "author": "rust-lang",
-    "name": "rustlings",
-    "href": "https://github.com/rust-lang/rustlings",
-    "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
-    "language": "Rust",
-    "stars": 12750,
-    "forks": 1607,
-    "starsInPeriod": 13
-  },
-  {
-    "author": "ripienaar",
-    "name": "free-for-dev",
-    "href": "https://github.com/ripienaar/free-for-dev",
-    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-    "language": "HTML",
-    "stars": 39959,
-    "forks": 4216,
-    "starsInPeriod": 490
-  },
-  {
-    "author": "lydiahallie",
-    "name": "javascript-questions",
-    "href": "https://github.com/lydiahallie/javascript-questions",
-    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
-    "language": "",
-    "stars": 24504,
-    "forks": 3190,
-    "starsInPeriod": 533
-  },
-  {
-    "author": "ryanmcdermott",
-    "name": "clean-code-javascript",
-    "href": "https://github.com/ryanmcdermott/clean-code-javascript",
-    "description": "🛁 Clean Code concepts adapted for JavaScript",
-    "language": "JavaScript",
-    "stars": 40934,
-    "forks": 4955,
-    "starsInPeriod": 422
-  },
-  {
-    "author": "yangshun",
-    "name": "tech-interview-handbook",
-    "href": "https://github.com/yangshun/tech-interview-handbook",
-    "description": "💯 Materials to help you rock your next coding interview",
-    "language": "JavaScript",
-    "stars": 46509,
-    "forks": 6584,
-    "starsInPeriod": 208
-  },
-  {
-    "author": "trekhleb",
-    "name": "javascript-algorithms",
-    "href": "https://github.com/trekhleb/javascript-algorithms",
-    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-    "language": "JavaScript",
-    "stars": 84867,
-    "forks": 14325,
-    "starsInPeriod": 290
-  },
-  {
-    "author": "joke2k",
-    "name": "faker",
-    "href": "https://github.com/joke2k/faker",
-    "description": "Faker is a Python package that generates fake data for you.",
-    "language": "Python",
-    "stars": 10914,
-    "forks": 1292,
-    "starsInPeriod": 58
-  },
-  {
-    "author": "MunGell",
-    "name": "awesome-for-beginners",
-    "href": "https://github.com/MunGell/awesome-for-beginners",
-    "description": "A list of awesome beginners-friendly projects.",
-    "language": "",
-    "stars": 24987,
-    "forks": 4104,
-    "starsInPeriod": 131
-  },
-  {
-    "author": "EbookFoundation",
-    "name": "free-programming-books",
-    "href": "https://github.com/EbookFoundation/free-programming-books",
-    "description": "📚 Freely available programming books",
-    "language": "",
-    "stars": 164934,
-    "forks": 39083,
-    "starsInPeriod": 181
-  },
-  {
-    "author": "bitcoin",
-    "name": "bitcoin",
-    "href": "https://github.com/bitcoin/bitcoin",
-    "description": "Bitcoin Core integration/staging tree",
-    "language": "C++",
-    "stars": 45984,
-    "forks": 26635,
-    "starsInPeriod": 25
-  },
-  {
-    "author": "home-assistant",
-    "name": "core",
-    "href": "https://github.com/home-assistant/core",
-    "description": "🏡 Open source home automation that puts local control and privacy first",
-    "language": "Python",
-    "stars": 37176,
-    "forks": 12214,
+    "author": "PhilJay",
+    "name": "MPAndroidChart",
+    "href": "https://github.com/PhilJay/MPAndroidChart",
+    "description": "A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.",
+    "language": "Java",
+    "stars": 32297,
+    "forks": 8203,
     "starsInPeriod": 24
   },
   {
-    "author": "Concordium",
-    "name": "Testnet3-Challenges",
-    "href": "https://github.com/Concordium/Testnet3-Challenges",
-    "description": "This repo is dedicated to Concordium Incentivized Testnet3.",
-    "language": "",
-    "stars": 324,
-    "forks": 523,
+    "author": "magma",
+    "name": "magma",
+    "href": "https://github.com/magma/magma",
+    "description": "Platform for building access networks and modular network services",
+    "language": "Go",
+    "stars": 656,
+    "forks": 237,
     "starsInPeriod": 7
   },
   {
-    "author": "Asabeneh",
-    "name": "30-Days-Of-Python",
-    "href": "https://github.com/Asabeneh/30-Days-Of-Python",
-    "description": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
-    "language": "Python",
-    "stars": 2948,
-    "forks": 684,
-    "starsInPeriod": 203
+    "author": "fastlane",
+    "name": "fastlane",
+    "href": "https://github.com/fastlane/fastlane",
+    "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+    "language": "Ruby",
+    "stars": 30337,
+    "forks": 4738,
+    "starsInPeriod": 38
   },
   {
-    "author": "halfrost",
-    "name": "LeetCode-Go",
-    "href": "https://github.com/halfrost/LeetCode-Go",
-    "description": "✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",
+    "author": "onnx",
+    "name": "onnx-tensorrt",
+    "href": "https://github.com/onnx/onnx-tensorrt",
+    "description": "ONNX-TensorRT: TensorRT backend for ONNX",
+    "language": "C++",
+    "stars": 1079,
+    "forks": 298,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "demisto",
+    "name": "content",
+    "href": "https://github.com/demisto/content",
+    "description": "Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated!",
+    "language": "Python",
+    "stars": 461,
+    "forks": 531,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "input-output-hk",
+    "name": "cardano-node",
+    "href": "https://github.com/input-output-hk/cardano-node",
+    "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
+    "language": "Haskell",
+    "stars": 321,
+    "forks": 126,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "catchorg",
+    "name": "Catch2",
+    "href": "https://github.com/catchorg/Catch2",
+    "description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)",
+    "language": "C++",
+    "stars": 12417,
+    "forks": 2091,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "tfutils",
+    "name": "tfenv",
+    "href": "https://github.com/tfutils/tfenv",
+    "description": "Terraform version manager",
+    "language": "Shell",
+    "stars": 1763,
+    "forks": 188,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "go-yaml",
+    "name": "yaml",
+    "href": "https://github.com/go-yaml/yaml",
+    "description": "YAML support for the Go language.",
     "language": "Go",
-    "stars": 8935,
-    "forks": 1396,
-    "starsInPeriod": 43
+    "stars": 4462,
+    "forks": 741,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "Tencent",
+    "name": "rapidjson",
+    "href": "https://github.com/Tencent/rapidjson",
+    "description": "A fast JSON parser/generator for C++ with both SAX/DOM style API",
+    "language": "C++",
+    "stars": 10067,
+    "forks": 2730,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "cloudera",
+    "name": "hue",
+    "href": "https://github.com/cloudera/hue",
+    "description": "Hue Editor: Open source SQL Query Assistant for Databases/Warehouses",
+    "language": "Python",
+    "stars": 4626,
+    "forks": 1697,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "weaveworks",
+    "name": "kured",
+    "href": "https://github.com/weaveworks/kured",
+    "description": "Kubernetes Reboot Daemon",
+    "language": "Go",
+    "stars": 987,
+    "forks": 99,
+    "starsInPeriod": 13
+  },
+  {
+    "author": "vmware-tanzu",
+    "name": "velero",
+    "href": "https://github.com/vmware-tanzu/velero",
+    "description": "Backup and migrate Kubernetes applications and their persistent volumes",
+    "language": "Go",
+    "stars": 4592,
+    "forks": 741,
+    "starsInPeriod": 18
+  },
+  {
+    "author": "amzn",
+    "name": "selling-partner-api-docs",
+    "href": "https://github.com/amzn/selling-partner-api-docs",
+    "description": "This repository contains documentation for developers to use to call Selling Partner APIs.",
+    "language": "",
+    "stars": 261,
+    "forks": 81,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "jenssegers",
+    "name": "laravel-mongodb",
+    "href": "https://github.com/jenssegers/laravel-mongodb",
+    "description": "A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)",
+    "language": "PHP",
+    "stars": 5209,
+    "forks": 1205,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "nlohmann",
+    "name": "json",
+    "href": "https://github.com/nlohmann/json",
+    "description": "JSON for Modern C++",
+    "language": "C++",
+    "stars": 21774,
+    "forks": 3849,
+    "starsInPeriod": 37
+  },
+  {
+    "author": "terraform-google-modules",
+    "name": "terraform-google-kubernetes-engine",
+    "href": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
+    "description": "A Terraform module for configuring GKE clusters.",
+    "language": "HCL",
+    "stars": 429,
+    "forks": 370,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "AFLplusplus",
+    "name": "AFLplusplus",
+    "href": "https://github.com/AFLplusplus/AFLplusplus",
+    "description": "The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",
+    "language": "C",
+    "stars": 1019,
+    "forks": 242,
+    "starsInPeriod": 33
+  },
+  {
+    "author": "flot",
+    "name": "flot",
+    "href": "https://github.com/flot/flot",
+    "description": "Attractive JavaScript charts for jQuery",
+    "language": "JavaScript",
+    "stars": 5829,
+    "forks": 1586,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "thanos-io",
+    "name": "thanos",
+    "href": "https://github.com/thanos-io/thanos",
+    "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
+    "language": "Go",
+    "stars": 6785,
+    "forks": 1007,
+    "starsInPeriod": 18
+  },
+  {
+    "author": "benmosher",
+    "name": "eslint-plugin-import",
+    "href": "https://github.com/benmosher/eslint-plugin-import",
+    "description": "ESLint plugin with rules that help validate proper imports.",
+    "language": "JavaScript",
+    "stars": 2918,
+    "forks": 960,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "cloudwu",
+    "name": "skynet",
+    "href": "https://github.com/cloudwu/skynet",
+    "description": "A lightweight online game framework",
+    "language": "C",
+    "stars": 9587,
+    "forks": 3499,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "carrierwaveuploader",
+    "name": "carrierwave",
+    "href": "https://github.com/carrierwaveuploader/carrierwave",
+    "description": "Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks",
+    "language": "Ruby",
+    "stars": 8554,
+    "forks": 1556,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "react-native-mapbox-gl",
+    "name": "maps",
+    "href": "https://github.com/react-native-mapbox-gl/maps",
+    "description": "A Mapbox GL react native module for creating custom maps",
+    "language": "JavaScript",
+    "stars": 749,
+    "forks": 374,
+    "starsInPeriod": 5
   }
 ]
