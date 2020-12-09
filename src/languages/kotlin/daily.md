@@ -1,51 +1,51 @@
 # kotlin
-- [VancedManager](https://github.com/YTVanced/VancedManager)
-  - Vanced Installer
-- [mirai](https://github.com/mamoe/mirai)
-  - 高效率 QQ 机器人框架 / High-performance bot framework for Tencent QQ
-- [kotlin](https://github.com/JetBrains/kotlin)
-  - The Kotlin Programming Language
-- [v2rayNG](https://github.com/2dust/v2rayNG)
-  - 
-- [tachiyomi](https://github.com/inorichi/tachiyomi)
-  - Free and open source manga reader for Android
+- [camera-samples](https://github.com/android/camera-samples)
+  - Multiple samples showing the best practices in camera APIs on Android.
 - [javalin](https://github.com/tipsy/javalin)
   - A simple and modern Java and Kotlin web framework
-- [karel](https://github.com/fredoverflow/karel)
-  - Karel The Robot
-- [Android](https://github.com/duckduckgo/Android)
-  - DuckDuckGo Android App
-- [XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools)
-  - A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot
-- [Unciv](https://github.com/yairm210/Unciv)
-  - Open-source Android/Desktop remake of Civ V
-- [legado](https://github.com/gedoor/legado)
-  - 阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-- [StreetComplete](https://github.com/westnordost/StreetComplete)
-  - Easy to use OpenStreetMap editor for Android
+- [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines)
+  - Library support for Kotlin coroutines
+- [Exposed](https://github.com/JetBrains/Exposed)
+  - Kotlin SQL Framework
+- [andfun-kotlin-android-trivia](https://github.com/udacity/andfun-kotlin-android-trivia)
+  - 
+- [VancedManager](https://github.com/YTVanced/VancedManager)
+  - Vanced Installer
+- [ktor](https://github.com/ktorio/ktor)
+  - Framework for quickly creating connected applications in Kotlin with minimal effort
+- [v2rayNG](https://github.com/2dust/v2rayNG)
+  - 
+- [uamp](https://github.com/android/uamp)
+  - A sample audio app for Android
+- [TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin)
+  - 🔌Translation plugin for JetBrains IDEs/Android Studio
+- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android)
+  - Native Android app using the Apple/Google exposure notification API.
+- [p3c](https://github.com/alibaba/p3c)
+  - Alibaba Java Coding Guidelines pmd implements and IDE plugin
+- [architecture-samples](https://github.com/android/architecture-samples)
+  - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
+- [tachiyomi](https://github.com/inorichi/tachiyomi)
+  - Free and open source manga reader for Android
+- [Android-CleanArchitecture-Kotlin](https://github.com/android10/Android-CleanArchitecture-Kotlin)
+  - This is a movies sample app in Kotlin, which is part of a serie of blog posts I have written about architecting android application using different approaches.
+- [sqldelight](https://github.com/cashapp/sqldelight)
+  - SQLDelight - Generates typesafe Kotlin APIs from SQL
+- [NotyKT](https://github.com/PatilShreyas/NotyKT)
+  - 📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.
+- [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization)
+  - Kotlin multiplatform / multi-format serialization
+- [play-billing-samples](https://github.com/android/play-billing-samples)
+  - Samples for Google Play In-app Billing
+- [projector-server](https://github.com/JetBrains/projector-server)
+  - Server-side library for running Swing applications remotely
 - [element-android](https://github.com/vector-im/element-android)
   - A glossy Matrix collaboration client for Android.
-- [RetroMusicPlayer](https://github.com/h4h13/RetroMusicPlayer)
-  - Best material design music player for Android
-- [fenix](https://github.com/mozilla-mobile/fenix)
-  - Firefox for Android
-- [android-kotlin-fundamentals-starter-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-starter-apps)
-  - android-kotlin-fundamentals-starter-apps
-- [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)
-  - Spotify Music Downloader For Android!
-- [android](https://github.com/home-assistant/android)
-  - 📱 Home Assistant Companion for Android
-- [blokada](https://github.com/blokadaorg/blokada)
-  - The official repo for Blokada for Android and iOS.
-- [architecture-components-samples](https://github.com/android/architecture-components-samples)
-  - Samples for Android Architecture Components.
-- [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd)
-  - Main UserLAnd Repository
-- [Music-Player-GO](https://github.com/enricocid/Music-Player-GO)
-  - 🎶🎼 Very slim music player 👨‍🎤 100% made in Italy 🍕🌳🌞🍝🌄
-- [ScreenStream](https://github.com/dkrivoruchko/ScreenStream)
-  - Screen Stream over HTTP mobile app
-- [okio](https://github.com/square/okio)
-  - A modern I/O library for Android, Kotlin, and Java.
-- [Vigilante](https://github.com/CraZyLegenD/Vigilante)
-  - 🛡️ Android security (camera/microphone dots indicators) app using Hilt, Animations, Coroutines, Material, StateFlow, Jetpack (Room, ViewModel, Paging, Security, Biometrics, Start-up) based on MVVM architecture.
+- [dotsindicator](https://github.com/tommybuonomo/dotsindicator)
+  - Three material Dots Indicators for view pagers in Android !
+- [WordPress-Android](https://github.com/wordpress-mobile/WordPress-Android)
+  - WordPress for Android
+- [MultiStatePage](https://github.com/Zhao-Yan-Yan/MultiStatePage)
+  - Android APP缺省页的正确打开方式 高度解耦、低侵入、易拓展 视图状态切换器
+- [tachiyomi-extensions](https://github.com/inorichi/tachiyomi-extensions)
+  - 

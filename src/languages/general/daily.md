@@ -1,51 +1,49 @@
 # general
-- [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) : JavaScript
-  - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [starship](https://github.com/starship/starship) : Rust
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [awesome](https://github.com/sindresorhus/awesome) : 
-  - 😎 Awesome lists about all kinds of interesting topics
-- [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) : Python
-  - Bringing Old Photo Back to Life (CVPR 2020 oral)
-- [gping](https://github.com/orf/gping) : Rust
-  - Ping, but with a graph
-- [FallChallenge2020](https://github.com/CodinGame/FallChallenge2020) : JavaScript
-  - Source code for CodinGame's Fall Challenge 2020 event.
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui) : TypeScript
-  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [iptv](https://github.com/iptv-org/iptv) : JavaScript
-  - Collection of 5000+ publicly available IPTV channels from all over the world
-- [k0s](https://github.com/k0sproject/k0s) : Go
-  - k0s - Zero Friction Kubernetes
-- [alacritty](https://github.com/alacritty/alacritty) : Rust
-  - A cross-platform, GPU-accelerated terminal emulator
-- [macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) : Vue
-  - Replacement icons for popular apps in the style of macOS Big Sur
-- [rustlings](https://github.com/rust-lang/rustlings) : Rust
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
-  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
-  - A long list of (advanced) JavaScript questions, and their explanations ✨
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
-  - 💯 Materials to help you rock your next coding interview
+- [school-of-sre](https://github.com/linkedin/school-of-sre) : HTML
+  - At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
+- [en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) : HTML
+  - Modern JavaScript Tutorial
+- [ionic-framework](https://github.com/ionic-team/ionic-framework) : TypeScript
+  - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+- [rapidjson](https://github.com/Tencent/rapidjson) : C++
+  - A fast JSON parser/generator for C++ with both SAX/DOM style API
+- [lens](https://github.com/lensapp/lens) : TypeScript
+  - Lens - The Kubernetes IDE
+- [Alamofire](https://github.com/Alamofire/Alamofire) : Swift
+  - Elegant HTTP Networking in Swift
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
   - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [faker](https://github.com/joke2k/faker) : Python
-  - Faker is a Python package that generates fake data for you.
-- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) : 
-  - A list of awesome beginners-friendly projects.
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [bitcoin](https://github.com/bitcoin/bitcoin) : C++
-  - Bitcoin Core integration/staging tree
-- [core](https://github.com/home-assistant/core) : Python
-  - 🏡 Open source home automation that puts local control and privacy first
-- [Testnet3-Challenges](https://github.com/Concordium/Testnet3-Challenges) : 
-  - This repo is dedicated to Concordium Incentivized Testnet3.
-- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) : Python
-  - 30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.
-- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) : Go
-  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [crowdsec](https://github.com/crowdsecurity/crowdsec) : Go
+  - Crowdsec - An open-source, lightweight agent to detect and respond to bad behaviours. It also automatically benefits from our global community-wide IP reputation database.
+- [ms-teams-rce](https://github.com/oskarsve/ms-teams-rce) : 
+- [Depix](https://github.com/beurtschipper/Depix) : Python
+  - Recovers passwords from pixelized screenshots
+- [thanos](https://github.com/thanos-io/thanos) : Go
+  - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+- [Profiles](https://github.com/DivineEngine/Profiles) : 
+  - 🌐Dial-up Internet access
+- [CrewLink](https://github.com/ottomated/CrewLink) : TypeScript
+  - Free, open, Among Us Proximity Chat
+- [sail](https://github.com/laravel/sail) : Shell
+- [sonic-pi](https://github.com/sonic-pi-net/sonic-pi) : Ruby
+  - Code. Music. Live.
+- [architect-awesome](https://github.com/xingshaocheng/architect-awesome) : 
+  - 后端架构师技术图谱
+- [fastlane](https://github.com/fastlane/fastlane) : Ruby
+  - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [tensorflow](https://github.com/tensorflow/tensorflow) : C++
+  - An Open Source Machine Learning Framework for Everyone
+- [Catch2](https://github.com/catchorg/Catch2) : C++
+  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [json](https://github.com/nlohmann/json) : C++
+  - JSON for Modern C++
+- [go-git](https://github.com/go-git/go-git) : Go
+  - A highly extensible Git implementation in pure Go.
+- [nomad](https://github.com/hashicorp/nomad) : Go
+  - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+- [mml-book.github.io](https://github.com/mml-book/mml-book.github.io) : Jupyter Notebook
+  - Companion webpage to the book "Mathematics For Machine Learning"
+- [ATC_MiThermometer](https://github.com/atc1441/ATC_MiThermometer) : C
+  - Custom firmware for the Xiaomi Thermometer LYWSD03MMC and Telink Flasher via USB to Serial converter
+- [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) : Go
+  - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
