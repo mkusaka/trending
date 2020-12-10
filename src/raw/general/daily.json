@@ -1,163 +1,193 @@
 [
   {
-    "author": "microsoft",
-    "name": "Web-Dev-For-Beginners",
-    "href": "https://github.com/microsoft/Web-Dev-For-Beginners",
-    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
-    "language": "JavaScript",
-    "stars": 2070,
-    "forks": 135,
-    "starsInPeriod": 1163
+    "author": "fireeye",
+    "name": "red_team_tool_countermeasures",
+    "href": "https://github.com/fireeye/red_team_tool_countermeasures",
+    "description": null,
+    "language": "YARA",
+    "stars": 1742,
+    "forks": 651,
+    "starsInPeriod": 1623
   },
   {
-    "author": "starship",
-    "name": "starship",
-    "href": "https://github.com/starship/starship",
-    "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
-    "language": "Rust",
-    "stars": 11613,
-    "forks": 503,
-    "starsInPeriod": 372
+    "author": "linkedin",
+    "name": "school-of-sre",
+    "href": "https://github.com/linkedin/school-of-sre",
+    "description": "At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.",
+    "language": "HTML",
+    "stars": 2219,
+    "forks": 122,
+    "starsInPeriod": 945
+  },
+  {
+    "author": "minhealthnz",
+    "name": "nzcovidtracer-app",
+    "href": "https://github.com/minhealthnz/nzcovidtracer-app",
+    "description": "This is the repository for the front-end of the NZ COVID Tracer app.",
+    "language": "TypeScript",
+    "stars": 139,
+    "forks": 9,
+    "starsInPeriod": 91
+  },
+  {
+    "author": "mapbox",
+    "name": "mapbox-gl-js",
+    "href": "https://github.com/mapbox/mapbox-gl-js",
+    "description": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL",
+    "language": "JavaScript",
+    "stars": 6638,
+    "forks": 1591,
+    "starsInPeriod": 44
+  },
+  {
+    "author": "nlohmann",
+    "name": "json",
+    "href": "https://github.com/nlohmann/json",
+    "description": "JSON for Modern C++",
+    "language": "C++",
+    "stars": 21990,
+    "forks": 3862,
+    "starsInPeriod": 157
+  },
+  {
+    "author": "lensapp",
+    "name": "lens",
+    "href": "https://github.com/lensapp/lens",
+    "description": "Lens - The Kubernetes IDE",
+    "language": "TypeScript",
+    "stars": 10134,
+    "forks": 520,
+    "starsInPeriod": 252
+  },
+  {
+    "author": "cypress-io",
+    "name": "cypress",
+    "href": "https://github.com/cypress-io/cypress",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "language": "JavaScript",
+    "stars": 24985,
+    "forks": 1497,
+    "starsInPeriod": 34
+  },
+  {
+    "author": "sonic-pi-net",
+    "name": "sonic-pi",
+    "href": "https://github.com/sonic-pi-net/sonic-pi",
+    "description": "Code. Music. Live.",
+    "language": "Ruby",
+    "stars": 6832,
+    "forks": 707,
+    "starsInPeriod": 262
   },
   {
     "author": "sindresorhus",
-    "name": "awesome",
-    "href": "https://github.com/sindresorhus/awesome",
-    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "name": "css-in-readme-like-wat",
+    "href": "https://github.com/sindresorhus/css-in-readme-like-wat",
+    "description": "Style your readme using CSS with this simple trick",
     "language": "",
-    "stars": 145315,
-    "forks": 19097,
-    "starsInPeriod": 788
+    "stars": 3340,
+    "forks": 1225,
+    "starsInPeriod": 1534
   },
   {
-    "author": "microsoft",
-    "name": "Bringing-Old-Photos-Back-to-Life",
-    "href": "https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life",
-    "description": "Bringing Old Photo Back to Life (CVPR 2020 oral)",
+    "author": "fireeye",
+    "name": "commando-vm",
+    "href": "https://github.com/fireeye/commando-vm",
+    "description": "Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@fireeye.com",
+    "language": "PowerShell",
+    "stars": 4106,
+    "forks": 885,
+    "starsInPeriod": 155
+  },
+  {
+    "author": "xingshaocheng",
+    "name": "architect-awesome",
+    "href": "https://github.com/xingshaocheng/architect-awesome",
+    "description": "后端架构师技术图谱",
+    "language": "",
+    "stars": 50259,
+    "forks": 15666,
+    "starsInPeriod": 376
+  },
+  {
+    "author": "mml-book",
+    "name": "mml-book.github.io",
+    "href": "https://github.com/mml-book/mml-book.github.io",
+    "description": "Companion webpage to the book \"Mathematics For Machine Learning\"",
+    "language": "Jupyter Notebook",
+    "stars": 7921,
+    "forks": 1593,
+    "starsInPeriod": 121
+  },
+  {
+    "author": "PaddlePaddle",
+    "name": "PaddleX",
+    "href": "https://github.com/PaddlePaddle/PaddleX",
+    "description": "PaddlePaddle End-to-End Development Toolkit（『飞桨』深度学习全流程开发工具）",
     "language": "Python",
-    "stars": 2673,
-    "forks": 210,
-    "starsInPeriod": 418
+    "stars": 883,
+    "forks": 182,
+    "starsInPeriod": 65
   },
   {
-    "author": "orf",
-    "name": "gping",
-    "href": "https://github.com/orf/gping",
-    "description": "Ping, but with a graph",
-    "language": "Rust",
-    "stars": 2536,
-    "forks": 102,
-    "starsInPeriod": 566
+    "author": "Tencent",
+    "name": "rapidjson",
+    "href": "https://github.com/Tencent/rapidjson",
+    "description": "A fast JSON parser/generator for C++ with both SAX/DOM style API",
+    "language": "C++",
+    "stars": 10220,
+    "forks": 2735,
+    "starsInPeriod": 98
   },
   {
-    "author": "CodinGame",
-    "name": "FallChallenge2020",
-    "href": "https://github.com/CodinGame/FallChallenge2020",
-    "description": "Source code for CodinGame's Fall Challenge 2020 event.",
-    "language": "JavaScript",
-    "stars": 74,
-    "forks": 11,
-    "starsInPeriod": 20
+    "author": "laravel",
+    "name": "sail",
+    "href": "https://github.com/laravel/sail",
+    "description": null,
+    "language": "Shell",
+    "stars": 264,
+    "forks": 18,
+    "starsInPeriod": 96
   },
   {
-    "author": "chakra-ui",
-    "name": "chakra-ui",
-    "href": "https://github.com/chakra-ui/chakra-ui",
-    "description": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
-    "language": "TypeScript",
-    "stars": 12220,
-    "forks": 886,
-    "starsInPeriod": 234
-  },
-  {
-    "author": "iptv-org",
-    "name": "iptv",
-    "href": "https://github.com/iptv-org/iptv",
-    "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
-    "language": "JavaScript",
-    "stars": 20876,
-    "forks": 127,
-    "starsInPeriod": 299
-  },
-  {
-    "author": "k0sproject",
-    "name": "k0s",
-    "href": "https://github.com/k0sproject/k0s",
-    "description": "k0s - Zero Friction Kubernetes",
-    "language": "Go",
-    "stars": 496,
-    "forks": 16,
-    "starsInPeriod": 236
-  },
-  {
-    "author": "alacritty",
-    "name": "alacritty",
-    "href": "https://github.com/alacritty/alacritty",
-    "description": "A cross-platform, GPU-accelerated terminal emulator",
-    "language": "Rust",
-    "stars": 26507,
-    "forks": 1387,
-    "starsInPeriod": 20
-  },
-  {
-    "author": "elrumo",
-    "name": "macOS_Big_Sur_icons_replacements",
-    "href": "https://github.com/elrumo/macOS_Big_Sur_icons_replacements",
-    "description": "Replacement icons for popular apps in the style of macOS Big Sur",
-    "language": "Vue",
-    "stars": 2002,
-    "forks": 136,
-    "starsInPeriod": 430
-  },
-  {
-    "author": "rust-lang",
-    "name": "rustlings",
-    "href": "https://github.com/rust-lang/rustlings",
-    "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
-    "language": "Rust",
-    "stars": 12750,
-    "forks": 1607,
+    "author": "aapatre",
+    "name": "Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
+    "href": "https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
+    "description": "Do you want to LEARN NEW STUFF for FREE? Don't worry, with the power of web-scraping and automation, this script will find the necessary Udemy coupons & enroll you for PAID UDEMY COURSES, ABSOLUTELY FREE!",
+    "language": "Python",
+    "stars": 426,
+    "forks": 120,
     "starsInPeriod": 13
   },
   {
-    "author": "ripienaar",
-    "name": "free-for-dev",
-    "href": "https://github.com/ripienaar/free-for-dev",
-    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "author": "ionic-team",
+    "name": "ionic-framework",
+    "href": "https://github.com/ionic-team/ionic-framework",
+    "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.",
+    "language": "TypeScript",
+    "stars": 42505,
+    "forks": 13304,
+    "starsInPeriod": 106
+  },
+  {
+    "author": "donnemartin",
+    "name": "system-design-primer",
+    "href": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "stars": 114359,
+    "forks": 20633,
+    "starsInPeriod": 161
+  },
+  {
+    "author": "javascript-tutorial",
+    "name": "en.javascript.info",
+    "href": "https://github.com/javascript-tutorial/en.javascript.info",
+    "description": "Modern JavaScript Tutorial",
     "language": "HTML",
-    "stars": 39959,
-    "forks": 4216,
-    "starsInPeriod": 490
-  },
-  {
-    "author": "lydiahallie",
-    "name": "javascript-questions",
-    "href": "https://github.com/lydiahallie/javascript-questions",
-    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
-    "language": "",
-    "stars": 24504,
-    "forks": 3190,
-    "starsInPeriod": 533
-  },
-  {
-    "author": "ryanmcdermott",
-    "name": "clean-code-javascript",
-    "href": "https://github.com/ryanmcdermott/clean-code-javascript",
-    "description": "🛁 Clean Code concepts adapted for JavaScript",
-    "language": "JavaScript",
-    "stars": 40934,
-    "forks": 4955,
-    "starsInPeriod": 422
-  },
-  {
-    "author": "yangshun",
-    "name": "tech-interview-handbook",
-    "href": "https://github.com/yangshun/tech-interview-handbook",
-    "description": "💯 Materials to help you rock your next coding interview",
-    "language": "JavaScript",
-    "stars": 46509,
-    "forks": 6584,
-    "starsInPeriod": 208
+    "stars": 12438,
+    "forks": 2464,
+    "starsInPeriod": 239
   },
   {
     "author": "trekhleb",
@@ -165,88 +195,58 @@
     "href": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "stars": 84867,
-    "forks": 14325,
-    "starsInPeriod": 290
+    "stars": 88326,
+    "forks": 14847,
+    "starsInPeriod": 330
   },
   {
-    "author": "joke2k",
-    "name": "faker",
-    "href": "https://github.com/joke2k/faker",
-    "description": "Faker is a Python package that generates fake data for you.",
-    "language": "Python",
-    "stars": 10914,
-    "forks": 1292,
-    "starsInPeriod": 58
-  },
-  {
-    "author": "MunGell",
-    "name": "awesome-for-beginners",
-    "href": "https://github.com/MunGell/awesome-for-beginners",
-    "description": "A list of awesome beginners-friendly projects.",
+    "author": "imarvinle",
+    "name": "awesome-cs-books",
+    "href": "https://github.com/imarvinle/awesome-cs-books",
+    "description": "经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等",
     "language": "",
-    "stars": 24987,
-    "forks": 4104,
-    "starsInPeriod": 131
+    "stars": 369,
+    "forks": 66,
+    "starsInPeriod": 147
   },
   {
-    "author": "EbookFoundation",
-    "name": "free-programming-books",
-    "href": "https://github.com/EbookFoundation/free-programming-books",
-    "description": "📚 Freely available programming books",
-    "language": "",
-    "stars": 164934,
-    "forks": 39083,
-    "starsInPeriod": 181
-  },
-  {
-    "author": "bitcoin",
-    "name": "bitcoin",
-    "href": "https://github.com/bitcoin/bitcoin",
-    "description": "Bitcoin Core integration/staging tree",
-    "language": "C++",
-    "stars": 45984,
-    "forks": 26635,
-    "starsInPeriod": 25
-  },
-  {
-    "author": "home-assistant",
-    "name": "core",
-    "href": "https://github.com/home-assistant/core",
-    "description": "🏡 Open source home automation that puts local control and privacy first",
-    "language": "Python",
-    "stars": 37176,
-    "forks": 12214,
-    "starsInPeriod": 24
-  },
-  {
-    "author": "Concordium",
-    "name": "Testnet3-Challenges",
-    "href": "https://github.com/Concordium/Testnet3-Challenges",
-    "description": "This repo is dedicated to Concordium Incentivized Testnet3.",
-    "language": "",
-    "stars": 324,
-    "forks": 523,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "Asabeneh",
-    "name": "30-Days-Of-Python",
-    "href": "https://github.com/Asabeneh/30-Days-Of-Python",
-    "description": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
-    "language": "Python",
-    "stars": 2948,
-    "forks": 684,
-    "starsInPeriod": 203
-  },
-  {
-    "author": "halfrost",
-    "name": "LeetCode-Go",
-    "href": "https://github.com/halfrost/LeetCode-Go",
-    "description": "✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",
+    "author": "thanos-io",
+    "name": "thanos",
+    "href": "https://github.com/thanos-io/thanos",
+    "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
     "language": "Go",
-    "stars": 8935,
-    "forks": 1396,
-    "starsInPeriod": 43
+    "stars": 7056,
+    "forks": 1012,
+    "starsInPeriod": 122
+  },
+  {
+    "author": "denoland",
+    "name": "deno",
+    "href": "https://github.com/denoland/deno",
+    "description": "A secure JavaScript and TypeScript runtime",
+    "language": "TypeScript",
+    "stars": 69998,
+    "forks": 3643,
+    "starsInPeriod": 68
+  },
+  {
+    "author": "Alamofire",
+    "name": "Alamofire",
+    "href": "https://github.com/Alamofire/Alamofire",
+    "description": "Elegant HTTP Networking in Swift",
+    "language": "Swift",
+    "stars": 34879,
+    "forks": 6499,
+    "starsInPeriod": 45
+  },
+  {
+    "author": "DivineEngine",
+    "name": "Profiles",
+    "href": "https://github.com/DivineEngine/Profiles",
+    "description": "🌐Dial-up Internet access",
+    "language": "",
+    "stars": 1229,
+    "forks": 427,
+    "starsInPeriod": 69
   }
 ]
