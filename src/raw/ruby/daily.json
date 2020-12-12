@@ -1,223 +1,13 @@
 [
   {
-    "author": "ruby",
-    "name": "ruby",
-    "href": "https://github.com/ruby/ruby",
-    "description": "The Ruby Programming Language [mirror]",
-    "language": "Ruby",
-    "stars": 17504,
-    "forks": 4670,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "Homebrew",
-    "name": "brew",
-    "href": "https://github.com/Homebrew/brew",
-    "description": "🍺 The missing package manager for macOS (or Linux)",
-    "language": "Ruby",
-    "stars": 23759,
-    "forks": 5553,
-    "starsInPeriod": 31
-  },
-  {
-    "author": "fluent",
-    "name": "fluentd",
-    "href": "https://github.com/fluent/fluentd",
-    "description": "Fluentd: Unified Logging Layer (project under CNCF)",
-    "language": "Ruby",
-    "stars": 9707,
-    "forks": 1117,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "jekyll",
-    "name": "jekyll",
-    "href": "https://github.com/jekyll/jekyll",
-    "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
-    "language": "Ruby",
-    "stars": 41614,
-    "forks": 9103,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "rapid7",
-    "name": "metasploit-framework",
-    "href": "https://github.com/rapid7/metasploit-framework",
-    "description": "Metasploit Framework",
-    "language": "Ruby",
-    "stars": 22103,
-    "forks": 10632,
-    "starsInPeriod": 11
-  },
-  {
-    "author": "freeCodeCamp",
-    "name": "devdocs",
-    "href": "https://github.com/freeCodeCamp/devdocs",
-    "description": "API Documentation Browser",
-    "language": "Ruby",
-    "stars": 24237,
-    "forks": 1646,
-    "starsInPeriod": 17
-  },
-  {
-    "author": "rails",
-    "name": "rails",
-    "href": "https://github.com/rails/rails",
-    "description": "Ruby on Rails",
-    "language": "Ruby",
-    "stars": 46940,
-    "forks": 18853,
-    "starsInPeriod": 12
-  },
-  {
     "author": "sonic-pi-net",
     "name": "sonic-pi",
     "href": "https://github.com/sonic-pi-net/sonic-pi",
     "description": "Code. Music. Live.",
     "language": "Ruby",
-    "stars": 6263,
-    "forks": 689,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "OpenCSPM",
-    "name": "opencspm",
-    "href": "https://github.com/OpenCSPM/opencspm",
-    "description": "Open Cloud Security Posture Management Engine",
-    "language": "Ruby",
-    "stars": 85,
-    "forks": 4,
-    "starsInPeriod": 26
-  },
-  {
-    "author": "gitlabhq",
-    "name": "gitlabhq",
-    "href": "https://github.com/gitlabhq/gitlabhq",
-    "description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com",
-    "language": "Ruby",
-    "stars": 22410,
-    "forks": 5620,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "opf",
-    "name": "openproject",
-    "href": "https://github.com/opf/openproject",
-    "description": "OpenProject is the leading open source project management software.",
-    "language": "Ruby",
-    "stars": 4353,
-    "forks": 1317,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "hartator",
-    "name": "wayback-machine-downloader",
-    "href": "https://github.com/hartator/wayback-machine-downloader",
-    "description": "Download an entire website from the Wayback Machine.",
-    "language": "Ruby",
-    "stars": 2420,
-    "forks": 375,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "rails",
-    "name": "webpacker",
-    "href": "https://github.com/rails/webpacker",
-    "description": "Use Webpack to manage app-like JavaScript modules in Rails",
-    "language": "Ruby",
-    "stars": 4934,
-    "forks": 1305,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "Homebrew",
-    "name": "homebrew-core",
-    "href": "https://github.com/Homebrew/homebrew-core",
-    "description": "🍻 Default formulae for the missing package manager for macOS",
-    "language": "Ruby",
-    "stars": 8280,
-    "forks": 8563,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "Homebrew",
-    "name": "homebrew-bundle",
-    "href": "https://github.com/Homebrew/homebrew-bundle",
-    "description": "📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.",
-    "language": "Ruby",
-    "stars": 3432,
-    "forks": 214,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "Homebrew",
-    "name": "homebrew-cask",
-    "href": "https://github.com/Homebrew/homebrew-cask",
-    "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
-    "language": "Ruby",
-    "stars": 17612,
-    "forks": 8657,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "urbanadventurer",
-    "name": "WhatWeb",
-    "href": "https://github.com/urbanadventurer/WhatWeb",
-    "description": "Next generation web scanner",
-    "language": "Ruby",
-    "stars": 2717,
-    "forks": 656,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "redmine",
-    "name": "redmine",
-    "href": "https://github.com/redmine/redmine",
-    "description": "Mirror of redmine code source - Official SVN repository is at https://svn.redmine.org/redmine - contact: @jbbarth or jeanbaptiste.barth (at) gmail (dot) com",
-    "language": "Ruby",
-    "stars": 3908,
-    "forks": 2002,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "github",
-    "name": "explore",
-    "href": "https://github.com/github/explore",
-    "description": "Community-curated topic and collection pages on GitHub",
-    "language": "Ruby",
-    "stars": 1967,
-    "forks": 7666,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "sinatra",
-    "name": "sinatra",
-    "href": "https://github.com/sinatra/sinatra",
-    "description": "Classy web-development dressed in a DSL (official / canonical repo)",
-    "language": "Ruby",
-    "stars": 11125,
-    "forks": 1997,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "puppetlabs",
-    "name": "puppet",
-    "href": "https://github.com/puppetlabs/puppet",
-    "description": "Server automation framework and application",
-    "language": "Ruby",
-    "stars": 5962,
-    "forks": 2171,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "postalhq",
-    "name": "postal",
-    "href": "https://github.com/postalhq/postal",
-    "description": "📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail",
-    "language": "Ruby",
-    "stars": 10089,
-    "forks": 654,
-    "starsInPeriod": 1
+    "stars": 7341,
+    "forks": 710,
+    "starsInPeriod": 298
   },
   {
     "author": "geerlingguy",
@@ -225,28 +15,238 @@
     "href": "https://github.com/geerlingguy/raspberry-pi-pcie-devices",
     "description": "Raspberry Pi PCI Express device compatibility database",
     "language": "Ruby",
-    "stars": 95,
-    "forks": 5,
-    "starsInPeriod": 4
+    "stars": 143,
+    "forks": 7,
+    "starsInPeriod": 25
   },
   {
-    "author": "openstreetmap",
-    "name": "openstreetmap-website",
-    "href": "https://github.com/openstreetmap/openstreetmap-website",
-    "description": "The Rails application that powers OpenStreetMap",
+    "author": "Homebrew",
+    "name": "brew",
+    "href": "https://github.com/Homebrew/brew",
+    "description": "🍺 The missing package manager for macOS (or Linux)",
     "language": "Ruby",
-    "stars": 1194,
-    "forks": 677,
+    "stars": 24636,
+    "forks": 5646,
+    "starsInPeriod": 54
+  },
+  {
+    "author": "ruby",
+    "name": "ruby",
+    "href": "https://github.com/ruby/ruby",
+    "description": "The Ruby Programming Language [mirror]",
+    "language": "Ruby",
+    "stars": 17589,
+    "forks": 4691,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "rails-api",
+    "name": "active_model_serializers",
+    "href": "https://github.com/rails-api/active_model_serializers",
+    "description": "ActiveModel::Serializer implementation and Rails hooks",
+    "language": "Ruby",
+    "stars": 5042,
+    "forks": 1361,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "rails",
+    "name": "rails",
+    "href": "https://github.com/rails/rails",
+    "description": "Ruby on Rails",
+    "language": "Ruby",
+    "stars": 47157,
+    "forks": 18903,
+    "starsInPeriod": 30
+  },
+  {
+    "author": "instructure",
+    "name": "canvas-lms",
+    "href": "https://github.com/instructure/canvas-lms",
+    "description": "The open LMS by Instructure, Inc.",
+    "language": "Ruby",
+    "stars": 3708,
+    "forks": 1588,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "luggit",
+    "name": "react-native-config",
+    "href": "https://github.com/luggit/react-native-config",
+    "description": "Bring some 12 factor love to your mobile apps!",
+    "language": "Ruby",
+    "stars": 3410,
+    "forks": 541,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "heartcombo",
+    "name": "devise",
+    "href": "https://github.com/heartcombo/devise",
+    "description": "Flexible authentication solution for Rails with Warden.",
+    "language": "Ruby",
+    "stars": 21294,
+    "forks": 5130,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "flyerhzm",
+    "name": "bullet",
+    "href": "https://github.com/flyerhzm/bullet",
+    "description": "help to kill N+1 queries and unused eager loading",
+    "language": "Ruby",
+    "stars": 6081,
+    "forks": 342,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "mbleigh",
+    "name": "acts-as-taggable-on",
+    "href": "https://github.com/mbleigh/acts-as-taggable-on",
+    "description": "A tagging plugin for Rails applications that allows for custom tagging along dynamic contexts.",
+    "language": "Ruby",
+    "stars": 4718,
+    "forks": 1125,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "turingschool-examples",
+    "name": "rails_driver",
+    "href": "https://github.com/turingschool-examples/rails_driver",
+    "description": null,
+    "language": "Ruby",
+    "stars": 0,
+    "forks": 77,
     "starsInPeriod": 0
   },
   {
-    "author": "bayandin",
-    "name": "awesome-awesomeness",
-    "href": "https://github.com/bayandin/awesome-awesomeness",
-    "description": "A curated list of awesome awesomeness",
+    "author": "rubysherpas",
+    "name": "paranoia",
+    "href": "https://github.com/rubysherpas/paranoia",
+    "description": "acts_as_paranoid for Rails 3, 4 and 5",
     "language": "Ruby",
-    "stars": 26888,
-    "forks": 3319,
-    "starsInPeriod": 6
+    "stars": 2592,
+    "forks": 487,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "Homebrew",
+    "name": "linuxbrew-core",
+    "href": "https://github.com/Homebrew/linuxbrew-core",
+    "description": "🍻🐧 Core formulae for the Homebrew package manager on Linux",
+    "language": "Ruby",
+    "stars": 916,
+    "forks": 435,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "faker-ruby",
+    "name": "faker",
+    "href": "https://github.com/faker-ruby/faker",
+    "description": "A library for generating fake data such as names, addresses, and phone numbers.",
+    "language": "Ruby",
+    "stars": 9041,
+    "forks": 2537,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "rubygems",
+    "name": "rubygems",
+    "href": "https://github.com/rubygems/rubygems",
+    "description": "Library packaging and distribution for Ruby.",
+    "language": "Ruby",
+    "stars": 2503,
+    "forks": 1275,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "kaminari",
+    "name": "kaminari",
+    "href": "https://github.com/kaminari/kaminari",
+    "description": "⚡ A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps",
+    "language": "Ruby",
+    "stars": 7861,
+    "forks": 1029,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "activeadmin",
+    "name": "activeadmin",
+    "href": "https://github.com/activeadmin/activeadmin",
+    "description": "The administration framework for Ruby on Rails applications.",
+    "language": "Ruby",
+    "stars": 8875,
+    "forks": 3161,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "mame",
+    "name": "quine-relay",
+    "href": "https://github.com/mame/quine-relay",
+    "description": "An uroboros program with 100+ programming languages",
+    "language": "Ruby",
+    "stars": 10270,
+    "forks": 480,
+    "starsInPeriod": 22
+  },
+  {
+    "author": "collectiveidea",
+    "name": "audited",
+    "href": "https://github.com/collectiveidea/audited",
+    "description": "Audited (formerly acts_as_audited) is an ORM extension that logs all changes to your Rails models.",
+    "language": "Ruby",
+    "stars": 2773,
+    "forks": 552,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "thoughtbot",
+    "name": "administrate",
+    "href": "https://github.com/thoughtbot/administrate",
+    "description": "A Rails engine that helps you put together a super-flexible admin dashboard.",
+    "language": "Ruby",
+    "stars": 4944,
+    "forks": 901,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "shrinerb",
+    "name": "shrine",
+    "href": "https://github.com/shrinerb/shrine",
+    "description": "File Attachment toolkit for Ruby applications",
+    "language": "Ruby",
+    "stars": 2754,
+    "forks": 227,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "github",
+    "name": "explore",
+    "href": "https://github.com/github/explore",
+    "description": "Community-curated topic and collection pages on GitHub",
+    "language": "Ruby",
+    "stars": 2005,
+    "forks": 7780,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "thoughtbot",
+    "name": "paperclip",
+    "href": "https://github.com/thoughtbot/paperclip",
+    "description": "Easy file attachment management for ActiveRecord",
+    "language": "Ruby",
+    "stars": 9060,
+    "forks": 2100,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "alexreisner",
+    "name": "geocoder",
+    "href": "https://github.com/alexreisner/geocoder",
+    "description": "Complete Ruby geocoding solution.",
+    "language": "Ruby",
+    "stars": 5783,
+    "forks": 1114,
+    "starsInPeriod": 1
   }
 ]
