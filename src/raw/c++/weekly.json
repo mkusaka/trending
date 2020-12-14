@@ -1,143 +1,43 @@
 [
   {
-    "author": "apache",
-    "name": "incubator-brpc",
-    "href": "https://github.com/apache/incubator-brpc",
-    "description": "Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services. \"brpc\" means \"better RPC\".",
+    "author": "WerWolv",
+    "name": "ImHex",
+    "href": "https://github.com/WerWolv/ImHex",
+    "description": "A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.",
     "language": "C++",
-    "stars": 10875,
-    "forks": 2669,
-    "starsInPeriod": 103
+    "stars": 5657,
+    "forks": 212,
+    "starsInPeriod": 2908
   },
   {
-    "author": "google",
-    "name": "flatbuffers",
-    "href": "https://github.com/google/flatbuffers",
-    "description": "FlatBuffers: Memory Efficient Serialization Library",
+    "author": "Tencent",
+    "name": "rapidjson",
+    "href": "https://github.com/Tencent/rapidjson",
+    "description": "A fast JSON parser/generator for C++ with both SAX/DOM style API",
     "language": "C++",
-    "stars": 15337,
-    "forks": 2367,
-    "starsInPeriod": 52
+    "stars": 10268,
+    "forks": 2737,
+    "starsInPeriod": 230
   },
   {
-    "author": "microsoft",
-    "name": "PowerToys",
-    "href": "https://github.com/microsoft/PowerToys",
-    "description": "Windows system utilities to maximize productivity",
+    "author": "ValveSoftware",
+    "name": "Proton",
+    "href": "https://github.com/ValveSoftware/Proton",
+    "description": "Compatibility tool for Steam Play based on Wine and additional components",
     "language": "C++",
-    "stars": 42888,
-    "forks": 2344,
-    "starsInPeriod": 922
+    "stars": 12768,
+    "forks": 512,
+    "starsInPeriod": 184
   },
   {
-    "author": "google",
-    "name": "mediapipe",
-    "href": "https://github.com/google/mediapipe",
-    "description": "MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.",
+    "author": "nlohmann",
+    "name": "json",
+    "href": "https://github.com/nlohmann/json",
+    "description": "JSON for Modern C++",
     "language": "C++",
-    "stars": 9722,
-    "forks": 1828,
-    "starsInPeriod": 127
-  },
-  {
-    "author": "USTC-Hackergame",
-    "name": "hackergame2020-writeups",
-    "href": "https://github.com/USTC-Hackergame/hackergame2020-writeups",
-    "description": "中国科学技术大学第七届信息安全大赛的官方与非官方题解",
-    "language": "C++",
-    "stars": 314,
-    "forks": 58,
-    "starsInPeriod": 130
-  },
-  {
-    "author": "zeromq",
-    "name": "libzmq",
-    "href": "https://github.com/zeromq/libzmq",
-    "description": "ZeroMQ core engine in C++, implements ZMTP/3.1",
-    "language": "C++",
-    "stars": 6535,
-    "forks": 1854,
-    "starsInPeriod": 24
-  },
-  {
-    "author": "milvus-io",
-    "name": "milvus",
-    "href": "https://github.com/milvus-io/milvus",
-    "description": "An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy",
-    "language": "C++",
-    "stars": 4444,
-    "forks": 695,
-    "starsInPeriod": 75
-  },
-  {
-    "author": "tdlib",
-    "name": "telegram-bot-api",
-    "href": "https://github.com/tdlib/telegram-bot-api",
-    "description": null,
-    "language": "C++",
-    "stars": 574,
-    "forks": 58,
-    "starsInPeriod": 71
-  },
-  {
-    "author": "topjohnwu",
-    "name": "Magisk",
-    "href": "https://github.com/topjohnwu/Magisk",
-    "description": "The Magic Mask for Android",
-    "language": "C++",
-    "stars": 14147,
-    "forks": 2343,
-    "starsInPeriod": 137
-  },
-  {
-    "author": "protocolbuffers",
-    "name": "protobuf",
-    "href": "https://github.com/protocolbuffers/protobuf",
-    "description": "Protocol Buffers - Google's data interchange format",
-    "language": "C++",
-    "stars": 44768,
-    "forks": 12025,
-    "starsInPeriod": 100
-  },
-  {
-    "author": "Light-City",
-    "name": "CPlusPlusThings",
-    "href": "https://github.com/Light-City/CPlusPlusThings",
-    "description": "C++那些事",
-    "language": "C++",
-    "stars": 8008,
-    "forks": 1842,
-    "starsInPeriod": 171
-  },
-  {
-    "author": "MarlinFirmware",
-    "name": "Marlin",
-    "href": "https://github.com/MarlinFirmware/Marlin",
-    "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
-    "language": "C++",
-    "stars": 8868,
-    "forks": 12287,
-    "starsInPeriod": 95
-  },
-  {
-    "author": "ossrs",
-    "name": "srs",
-    "href": "https://github.com/ossrs/srs",
-    "description": "SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.",
-    "language": "C++",
-    "stars": 10016,
-    "forks": 3366,
-    "starsInPeriod": 71
-  },
-  {
-    "author": "tensorflow",
-    "name": "tensorflow",
-    "href": "https://github.com/tensorflow/tensorflow",
-    "description": "An Open Source Machine Learning Framework for Everyone",
-    "language": "C++",
-    "stars": 150151,
-    "forks": 83224,
-    "starsInPeriod": 270
+    "stars": 22354,
+    "forks": 3874,
+    "starsInPeriod": 650
   },
   {
     "author": "catchorg",
@@ -145,108 +45,208 @@
     "href": "https://github.com/catchorg/Catch2",
     "description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)",
     "language": "C++",
-    "stars": 12344,
-    "forks": 2072,
-    "starsInPeriod": 51
+    "stars": 12515,
+    "forks": 2101,
+    "starsInPeriod": 118
   },
   {
-    "author": "VowpalWabbit",
-    "name": "vowpal_wabbit",
-    "href": "https://github.com/VowpalWabbit/vowpal_wabbit",
-    "description": "Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.",
+    "author": "commaai",
+    "name": "openpilot",
+    "href": "https://github.com/commaai/openpilot",
+    "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.",
     "language": "C++",
-    "stars": 7305,
-    "forks": 1696,
-    "starsInPeriod": 16
+    "stars": 20687,
+    "forks": 4454,
+    "starsInPeriod": 898
   },
   {
-    "author": "sogou",
-    "name": "workflow",
-    "href": "https://github.com/sogou/workflow",
-    "description": "C++ Programming Paradigm with Asynchronous Networking",
+    "author": "MegEngine",
+    "name": "MegEngine",
+    "href": "https://github.com/MegEngine/MegEngine",
+    "description": "MegEngine 是一个快速、可拓展、易于使用且支持自动求导的深度学习框架",
     "language": "C++",
-    "stars": 2997,
-    "forks": 589,
-    "starsInPeriod": 253
+    "stars": 3581,
+    "forks": 384,
+    "starsInPeriod": 195
   },
   {
-    "author": "microsoft",
-    "name": "AirSim",
-    "href": "https://github.com/microsoft/AirSim",
-    "description": "Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research",
+    "author": "Aircoookie",
+    "name": "WLED",
+    "href": "https://github.com/Aircoookie/WLED",
+    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
     "language": "C++",
-    "stars": 10901,
-    "forks": 2978,
-    "starsInPeriod": 26
+    "stars": 4032,
+    "forks": 712,
+    "starsInPeriod": 146
   },
   {
-    "author": "microsoft",
-    "name": "terminal",
-    "href": "https://github.com/microsoft/terminal",
-    "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "author": "gabime",
+    "name": "spdlog",
+    "href": "https://github.com/gabime/spdlog",
+    "description": "Fast C++ logging library.",
     "language": "C++",
-    "stars": 69381,
-    "forks": 6359,
-    "starsInPeriod": 244
+    "stars": 10360,
+    "forks": 2196,
+    "starsInPeriod": 82
   },
   {
-    "author": "cmu-snap",
-    "name": "pigasus",
-    "href": "https://github.com/cmu-snap/pigasus",
-    "description": "100Gbps Intrusion Detection and Prevention System",
+    "author": "aseprite",
+    "name": "aseprite",
+    "href": "https://github.com/aseprite/aseprite",
+    "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
     "language": "C++",
-    "stars": 438,
-    "forks": 34,
-    "starsInPeriod": 103
+    "stars": 11614,
+    "forks": 1056,
+    "starsInPeriod": 360
   },
   {
-    "author": "dusty-nv",
-    "name": "jetson-inference",
-    "href": "https://github.com/dusty-nv/jetson-inference",
-    "description": "Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.",
+    "author": "versatica",
+    "name": "mediasoup",
+    "href": "https://github.com/versatica/mediasoup",
+    "description": "Cutting Edge WebRTC Video Conferencing",
     "language": "C++",
-    "stars": 3750,
-    "forks": 1669,
-    "starsInPeriod": 43
+    "stars": 2798,
+    "forks": 528,
+    "starsInPeriod": 23
   },
   {
-    "author": "envoyproxy",
-    "name": "envoy",
-    "href": "https://github.com/envoyproxy/envoy",
-    "description": "Cloud-native high-performance edge/middle/service proxy",
+    "author": "zhongyang219",
+    "name": "TrafficMonitor",
+    "href": "https://github.com/zhongyang219/TrafficMonitor",
+    "description": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。",
     "language": "C++",
-    "stars": 15222,
-    "forks": 2650,
-    "starsInPeriod": 79
+    "stars": 10053,
+    "forks": 1258,
+    "starsInPeriod": 107
   },
   {
-    "author": "uNetworking",
-    "name": "uWebSockets",
-    "href": "https://github.com/uNetworking/uWebSockets",
-    "description": "Simple, secure & standards compliant web server for the most demanding of applications",
+    "author": "xmrig",
+    "name": "xmrig",
+    "href": "https://github.com/xmrig/xmrig",
+    "description": "RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner",
     "language": "C++",
-    "stars": 11973,
-    "forks": 1251,
-    "starsInPeriod": 27
+    "stars": 3451,
+    "forks": 1622,
+    "starsInPeriod": 33
   },
   {
-    "author": "scarsty",
-    "name": "kys-cpp",
-    "href": "https://github.com/scarsty/kys-cpp",
-    "description": "《金庸群侠传》c++复刻版，已完工",
+    "author": "aria2",
+    "name": "aria2",
+    "href": "https://github.com/aria2/aria2",
+    "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
     "language": "C++",
-    "stars": 1046,
-    "forks": 182,
-    "starsInPeriod": 426
+    "stars": 21605,
+    "forks": 2593,
+    "starsInPeriod": 82
   },
   {
-    "author": "acidanthera",
-    "name": "WhateverGreen",
-    "href": "https://github.com/acidanthera/WhateverGreen",
-    "description": "Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs",
+    "author": "tensorflow",
+    "name": "tensorflow",
+    "href": "https://github.com/tensorflow/tensorflow",
+    "description": "An Open Source Machine Learning Framework for Everyone",
     "language": "C++",
-    "stars": 2203,
-    "forks": 390,
-    "starsInPeriod": 18
+    "stars": 151506,
+    "forks": 83483,
+    "starsInPeriod": 422
+  },
+  {
+    "author": "ocornut",
+    "name": "imgui",
+    "href": "https://github.com/ocornut/imgui",
+    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "language": "C++",
+    "stars": 25532,
+    "forks": 4267,
+    "starsInPeriod": 207
+  },
+  {
+    "author": "FreeCAD",
+    "name": "FreeCAD",
+    "href": "https://github.com/FreeCAD/FreeCAD",
+    "description": "This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker",
+    "language": "C++",
+    "stars": 8194,
+    "forks": 2073,
+    "starsInPeriod": 57
+  },
+  {
+    "author": "google",
+    "name": "flatbuffers",
+    "href": "https://github.com/google/flatbuffers",
+    "description": "FlatBuffers: Memory Efficient Serialization Library",
+    "language": "C++",
+    "stars": 15492,
+    "forks": 2386,
+    "starsInPeriod": 65
+  },
+  {
+    "author": "qbittorrent",
+    "name": "qBittorrent",
+    "href": "https://github.com/qbittorrent/qBittorrent",
+    "description": "qBittorrent BitTorrent client",
+    "language": "C++",
+    "stars": 10723,
+    "forks": 1929,
+    "starsInPeriod": 68
+  },
+  {
+    "author": "simulationcraft",
+    "name": "simc",
+    "href": "https://github.com/simulationcraft/simc",
+    "description": "Simulationcraft engine/GUI",
+    "language": "C++",
+    "stars": 963,
+    "forks": 472,
+    "starsInPeriod": 15
+  },
+  {
+    "author": "facontidavide",
+    "name": "PlotJuggler",
+    "href": "https://github.com/facontidavide/PlotJuggler",
+    "description": "The Time Series Visualization Tool that you deserve.",
+    "language": "C++",
+    "stars": 1837,
+    "forks": 202,
+    "starsInPeriod": 898
+  },
+  {
+    "author": "google",
+    "name": "atheris",
+    "href": "https://github.com/google/atheris",
+    "description": null,
+    "language": "C++",
+    "stars": 579,
+    "forks": 43,
+    "starsInPeriod": 356
+  },
+  {
+    "author": "typesense",
+    "name": "typesense",
+    "href": "https://github.com/typesense/typesense",
+    "description": "Fast, typo tolerant, fuzzy search engine for building delightful search experiences.",
+    "language": "C++",
+    "stars": 4209,
+    "forks": 89,
+    "starsInPeriod": 375
+  },
+  {
+    "author": "henrypp",
+    "name": "memreduct",
+    "href": "https://github.com/henrypp/memreduct",
+    "description": "Lightweight real-time memory management application to monitor and clean system memory on your computer.",
+    "language": "C++",
+    "stars": 943,
+    "forks": 150,
+    "starsInPeriod": 49
+  },
+  {
+    "author": "google",
+    "name": "mediapipe",
+    "href": "https://github.com/google/mediapipe",
+    "description": "Cross-platform, customizable ML solutions for live and streaming media.",
+    "language": "C++",
+    "stars": 10129,
+    "forks": 1896,
+    "starsInPeriod": 155
   }
 ]
