@@ -1,13 +1,33 @@
 [
   {
-    "author": "chakra-ui",
-    "name": "chakra-ui",
-    "href": "https://github.com/chakra-ui/chakra-ui",
-    "description": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
+    "author": "getmeli",
+    "name": "meli",
+    "href": "https://github.com/getmeli/meli",
+    "description": null,
     "language": "TypeScript",
-    "stars": 12220,
-    "forks": 886,
-    "starsInPeriod": 234
+    "stars": 1088,
+    "forks": 20,
+    "starsInPeriod": 513
+  },
+  {
+    "author": "balena-io",
+    "name": "etcher",
+    "href": "https://github.com/balena-io/etcher",
+    "description": "Flash OS images to SD cards & USB drives, safely and easily.",
+    "language": "TypeScript",
+    "stars": 19351,
+    "forks": 1309,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "benawad",
+    "name": "vsinder",
+    "href": "https://github.com/benawad/vsinder",
+    "description": "Dating App for VSCode",
+    "language": "TypeScript",
+    "stars": 990,
+    "forks": 47,
+    "starsInPeriod": 114
   },
   {
     "author": "home-assistant",
@@ -15,129 +35,179 @@
     "href": "https://github.com/home-assistant/frontend",
     "description": "🍭 Frontend for Home Assistant",
     "language": "TypeScript",
-    "stars": 1151,
-    "forks": 1061,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "benawad",
-    "name": "vscode-stories-serverless-image-uploader",
-    "href": "https://github.com/benawad/vscode-stories-serverless-image-uploader",
-    "description": "uploads gifs to azure blob storage",
-    "language": "TypeScript",
-    "stars": 101,
-    "forks": 14,
+    "stars": 1214,
+    "forks": 1093,
     "starsInPeriod": 4
-  },
-  {
-    "author": "ide-stories",
-    "name": "vscode-stories-api",
-    "href": "https://github.com/ide-stories/vscode-stories-api",
-    "description": "api for vscode stories",
-    "language": "TypeScript",
-    "stars": 241,
-    "forks": 31,
-    "starsInPeriod": 16
-  },
-  {
-    "author": "browserless",
-    "name": "chrome",
-    "href": "https://github.com/browserless/chrome",
-    "description": "Chrome as a service in docker. Run on our cloud, or bring your own",
-    "language": "TypeScript",
-    "stars": 3126,
-    "forks": 282,
-    "starsInPeriod": 26
-  },
-  {
-    "author": "hediet",
-    "name": "vscode-debug-visualizer",
-    "href": "https://github.com/hediet/vscode-debug-visualizer",
-    "description": "An extension for VS Code that visualizes data during debugging.",
-    "language": "TypeScript",
-    "stars": 6521,
-    "forks": 284,
-    "starsInPeriod": 29
-  },
-  {
-    "author": "angular",
-    "name": "angularfire",
-    "href": "https://github.com/angular/angularfire",
-    "description": "The official Angular library for Firebase.",
-    "language": "TypeScript",
-    "stars": 6440,
-    "forks": 1918,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "CodFrm",
-    "name": "cxmooc-tools",
-    "href": "https://github.com/CodFrm/cxmooc-tools",
-    "description": "一个 超星(学习通)/智慧树(知到)/中国大学慕课 刷课工具,火狐,谷歌,油猴支持.全自动任务,视频倍速秒过,作业考试题库,验证码自动打码(੧ᐛ੭挂科模式,启动)",
-    "language": "TypeScript",
-    "stars": 1366,
-    "forks": 307,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "davidkpiano",
-    "name": "xstate",
-    "href": "https://github.com/davidkpiano/xstate",
-    "description": "State machines and statecharts for the modern web.",
-    "language": "TypeScript",
-    "stars": 13657,
-    "forks": 592,
-    "starsInPeriod": 15
-  },
-  {
-    "author": "typeorm",
-    "name": "typeorm",
-    "href": "https://github.com/typeorm/typeorm",
-    "description": "ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
-    "language": "TypeScript",
-    "stars": 21806,
-    "forks": 3652,
-    "starsInPeriod": 20
-  },
-  {
-    "author": "santiq",
-    "name": "bulletproof-nodejs",
-    "href": "https://github.com/santiq/bulletproof-nodejs",
-    "description": "Implementation of a bulletproof node.js API 🛡️",
-    "language": "TypeScript",
-    "stars": 3000,
-    "forks": 681,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "roobscoob",
-    "name": "NodePolus",
-    "href": "https://github.com/roobscoob/NodePolus",
-    "description": "NodePolus is a JavaScript library containing Implementations for working with Among Us.",
-    "language": "TypeScript",
-    "stars": 57,
-    "forks": 9,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "ryansolid",
-    "name": "solid",
-    "href": "https://github.com/ryansolid/solid",
-    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
-    "language": "TypeScript",
-    "stars": 4414,
-    "forks": 122,
-    "starsInPeriod": 6
   },
   {
     "author": "microsoft",
-    "name": "TypeScript",
-    "href": "https://github.com/microsoft/TypeScript",
-    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+    "name": "FluidFramework",
+    "href": "https://github.com/microsoft/FluidFramework",
+    "description": "Library for building distributed, real-time collaborative web applications",
     "language": "TypeScript",
-    "stars": 65712,
-    "forks": 8797,
-    "starsInPeriod": 21
+    "stars": 2470,
+    "forks": 154,
+    "starsInPeriod": 75
+  },
+  {
+    "author": "ottomated",
+    "name": "CrewLink-server",
+    "href": "https://github.com/ottomated/CrewLink-server",
+    "description": "Voice Relay server for CrewLink.",
+    "language": "TypeScript",
+    "stars": 295,
+    "forks": 184,
+    "starsInPeriod": 16
+  },
+  {
+    "author": "storybookjs",
+    "name": "storybook",
+    "href": "https://github.com/storybookjs/storybook",
+    "description": "📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!",
+    "language": "TypeScript",
+    "stars": 55810,
+    "forks": 5639,
+    "starsInPeriod": 31
+  },
+  {
+    "author": "tailwindlabs",
+    "name": "headlessui",
+    "href": "https://github.com/tailwindlabs/headlessui",
+    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.",
+    "language": "TypeScript",
+    "stars": 3552,
+    "forks": 87,
+    "starsInPeriod": 23
+  },
+  {
+    "author": "microsoft",
+    "name": "vscode",
+    "href": "https://github.com/microsoft/vscode",
+    "description": "Visual Studio Code",
+    "language": "TypeScript",
+    "stars": 107788,
+    "forks": 17386,
+    "starsInPeriod": 58
+  },
+  {
+    "author": "desktop",
+    "name": "desktop",
+    "href": "https://github.com/desktop/desktop",
+    "description": "Simple collaboration from your desktop",
+    "language": "TypeScript",
+    "stars": 10485,
+    "forks": 5760,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "akveo",
+    "name": "kittenTricks",
+    "href": "https://github.com/akveo/kittenTricks",
+    "description": "React Native starter kit with over 40 screens and modern Light and Dark theme for creating stunning cross-platform mobile applications.",
+    "language": "TypeScript",
+    "stars": 6400,
+    "forks": 941,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "itsfaqih",
+    "name": "fama",
+    "href": "https://github.com/itsfaqih/fama",
+    "description": "TailwindCSS based personal branding template. Built with react and framer-motion",
+    "language": "TypeScript",
+    "stars": 65,
+    "forks": 20,
+    "starsInPeriod": 58
+  },
+  {
+    "author": "tannerlinsley",
+    "name": "react-query",
+    "href": "https://github.com/tannerlinsley/react-query",
+    "description": "⚛️ Hooks for fetching, caching and updating asynchronous data in React",
+    "language": "TypeScript",
+    "stars": 15627,
+    "forks": 626,
+    "starsInPeriod": 37
+  },
+  {
+    "author": "pmndrs",
+    "name": "zustand",
+    "href": "https://github.com/pmndrs/zustand",
+    "description": "🐻 Bear necessities for state management in React",
+    "language": "TypeScript",
+    "stars": 5603,
+    "forks": 142,
+    "starsInPeriod": 50
+  },
+  {
+    "author": "streamich",
+    "name": "react-use",
+    "href": "https://github.com/streamich/react-use",
+    "description": "React Hooks — 👍",
+    "language": "TypeScript",
+    "stars": 17505,
+    "forks": 1219,
+    "starsInPeriod": 19
+  },
+  {
+    "author": "roedesh",
+    "name": "copyguard",
+    "href": "https://github.com/roedesh/copyguard",
+    "description": "A simple browser extension that warns you when your copy action was hijacked.",
+    "language": "TypeScript",
+    "stars": 67,
+    "forks": 1,
+    "starsInPeriod": 17
+  },
+  {
+    "author": "ottomated",
+    "name": "CrewLink",
+    "href": "https://github.com/ottomated/CrewLink",
+    "description": "Free, open, Among Us Proximity Chat",
+    "language": "TypeScript",
+    "stars": 1425,
+    "forks": 194,
+    "starsInPeriod": 111
+  },
+  {
+    "author": "captbaritone",
+    "name": "webamp",
+    "href": "https://github.com/captbaritone/webamp",
+    "description": "Winamp 2 reimplemented for the browser",
+    "language": "TypeScript",
+    "stars": 7589,
+    "forks": 525,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "grafana",
+    "name": "grafana",
+    "href": "https://github.com/grafana/grafana",
+    "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+    "language": "TypeScript",
+    "stars": 38752,
+    "forks": 7884,
+    "starsInPeriod": 12
+  },
+  {
+    "author": "material-components",
+    "name": "material-components-web-components",
+    "href": "https://github.com/material-components/material-components-web-components",
+    "description": "Material Design Web Components",
+    "language": "TypeScript",
+    "stars": 2292,
+    "forks": 357,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "aws",
+    "name": "aws-cdk",
+    "href": "https://github.com/aws/aws-cdk",
+    "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
+    "language": "TypeScript",
+    "stars": 5904,
+    "forks": 1340,
+    "starsInPeriod": 11
   },
   {
     "author": "benawad",
@@ -145,108 +215,38 @@
     "href": "https://github.com/benawad/lireddit",
     "description": null,
     "language": "TypeScript",
-    "stars": 733,
-    "forks": 163,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "BuilderIO",
-    "name": "jsx-lite",
-    "href": "https://github.com/BuilderIO/jsx-lite",
-    "description": "Write components once, run everywhere. Compiles to Vue, React, Solid, Liquid, Svelte, and more.",
-    "language": "TypeScript",
-    "stars": 171,
-    "forks": 5,
-    "starsInPeriod": 42
-  },
-  {
-    "author": "Uniswap",
-    "name": "uniswap-interface",
-    "href": "https://github.com/Uniswap/uniswap-interface",
-    "description": "🦄 An open source interface for the Uniswap protocol",
-    "language": "TypeScript",
-    "stars": 866,
-    "forks": 866,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "blitz-js",
-    "name": "blitz",
-    "href": "https://github.com/blitz-js/blitz",
-    "description": "⚡️The Fullstack React Framework — built on Next.js",
-    "language": "TypeScript",
-    "stars": 5273,
-    "forks": 276,
-    "starsInPeriod": 42
-  },
-  {
-    "author": "Jigsaw-Code",
-    "name": "outline-client",
-    "href": "https://github.com/Jigsaw-Code/outline-client",
-    "description": "Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.",
-    "language": "TypeScript",
-    "stars": 5887,
-    "forks": 1028,
+    "stars": 806,
+    "forks": 192,
     "starsInPeriod": 6
   },
   {
-    "author": "dilame",
-    "name": "instagram-private-api",
-    "href": "https://github.com/dilame/instagram-private-api",
-    "description": "NodeJS Instagram private API SDK. Written in TypeScript.",
+    "author": "felixfbecker",
+    "name": "svg-screenshots",
+    "href": "https://github.com/felixfbecker/svg-screenshots",
+    "description": "📸🧩 Browser extension to take scalable, semantic, accessible screenshots of websites in SVG format.",
     "language": "TypeScript",
-    "stars": 3330,
-    "forks": 795,
-    "starsInPeriod": 7
+    "stars": 303,
+    "forks": 4,
+    "starsInPeriod": 61
   },
   {
-    "author": "basarat",
-    "name": "typescript-book",
-    "href": "https://github.com/basarat/typescript-book",
-    "description": "📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖. Free and Open Source 🌹",
+    "author": "santiq",
+    "name": "bulletproof-nodejs",
+    "href": "https://github.com/santiq/bulletproof-nodejs",
+    "description": "Implementation of a bulletproof node.js API 🛡️",
     "language": "TypeScript",
-    "stars": 11513,
-    "forks": 1485,
-    "starsInPeriod": 22
-  },
-  {
-    "author": "scitedotai",
-    "name": "scite-zotero-plugin",
-    "href": "https://github.com/scitedotai/scite-zotero-plugin",
-    "description": "scite zotero plugin",
-    "language": "TypeScript",
-    "stars": 56,
-    "forks": 2,
-    "starsInPeriod": 17
-  },
-  {
-    "author": "johannesjo",
-    "name": "super-productivity",
-    "href": "https://github.com/johannesjo/super-productivity",
-    "description": "To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration",
-    "language": "TypeScript",
-    "stars": 2548,
-    "forks": 243,
+    "stars": 3119,
+    "forks": 715,
     "starsInPeriod": 8
   },
   {
-    "author": "pmndrs",
-    "name": "react-three-fiber",
-    "href": "https://github.com/pmndrs/react-three-fiber",
-    "description": "🇨🇭 A React renderer for Three.js (web and react-native)",
+    "author": "angular",
+    "name": "angularfire",
+    "href": "https://github.com/angular/angularfire",
+    "description": "The official Angular library for Firebase.",
     "language": "TypeScript",
-    "stars": 10657,
-    "forks": 523,
-    "starsInPeriod": 10
-  },
-  {
-    "author": "eamodio",
-    "name": "vscode-gitlens",
-    "href": "https://github.com/eamodio/vscode-gitlens",
-    "description": "Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more",
-    "language": "TypeScript",
-    "stars": 5178,
-    "forks": 367,
-    "starsInPeriod": 29
+    "stars": 6483,
+    "forks": 1932,
+    "starsInPeriod": 2
   }
 ]
