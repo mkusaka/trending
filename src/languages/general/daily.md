@@ -1,51 +1,50 @@
 # general
-- [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) : JavaScript
-  - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [starship](https://github.com/starship/starship) : Rust
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [awesome](https://github.com/sindresorhus/awesome) : 
-  - 😎 Awesome lists about all kinds of interesting topics
-- [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) : Python
-  - Bringing Old Photo Back to Life (CVPR 2020 oral)
-- [gping](https://github.com/orf/gping) : Rust
-  - Ping, but with a graph
-- [FallChallenge2020](https://github.com/CodinGame/FallChallenge2020) : JavaScript
-  - Source code for CodinGame's Fall Challenge 2020 event.
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui) : TypeScript
-  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [iptv](https://github.com/iptv-org/iptv) : JavaScript
-  - Collection of 5000+ publicly available IPTV channels from all over the world
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [sherlock](https://github.com/sherlock-project/sherlock) : Python
+  - 🔎 Hunt down social media accounts by username across social networks
+- [BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) : Python
+  - Real-Time High-Resolution Background Matting
+- [packer](https://github.com/hashicorp/packer) : Go
+  - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+- [bicep](https://github.com/Azure/bicep) : C#
+  - Bicep is a declarative language for describing and deploying Azure resources
+- [duckstation](https://github.com/stenzek/duckstation) : C++
+  - Fast PlayStation 1 emulator for PC and Android
+- [kbd-audio](https://github.com/ggerganov/kbd-audio) : C++
+  - Tools for capturing and analysing keyboard input paired with microphone capture 🎤⌨️
+- [vk_mini_path_tracer](https://github.com/nvpro-samples/vk_mini_path_tracer) : C++
+  - A beginner-friendly Vulkan path tracing tutorial in under 300 lines of C++.
 - [k0s](https://github.com/k0sproject/k0s) : Go
   - k0s - Zero Friction Kubernetes
-- [alacritty](https://github.com/alacritty/alacritty) : Rust
-  - A cross-platform, GPU-accelerated terminal emulator
-- [macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) : Vue
-  - Replacement icons for popular apps in the style of macOS Big Sur
-- [rustlings](https://github.com/rust-lang/rustlings) : Rust
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
-  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
-  - A long list of (advanced) JavaScript questions, and their explanations ✨
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
-  - 💯 Materials to help you rock your next coding interview
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [faker](https://github.com/joke2k/faker) : Python
-  - Faker is a Python package that generates fake data for you.
-- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) : 
-  - A list of awesome beginners-friendly projects.
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [bitcoin](https://github.com/bitcoin/bitcoin) : C++
-  - Bitcoin Core integration/staging tree
-- [core](https://github.com/home-assistant/core) : Python
-  - 🏡 Open source home automation that puts local control and privacy first
-- [Testnet3-Challenges](https://github.com/Concordium/Testnet3-Challenges) : 
-  - This repo is dedicated to Concordium Incentivized Testnet3.
-- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) : Python
-  - 30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.
-- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) : Go
-  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE](https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE) : Python
+  - Do you want to LEARN NEW STUFF for FREE? Don't worry, with the power of web-scraping and automation, this script will find the necessary Udemy coupons & enroll you for PAID UDEMY COURSES, ABSOLUTELY FREE!
+- [playwright](https://github.com/microsoft/playwright) : TypeScript
+  - Node.js library to automate Chromium, Firefox and WebKit with a single API
+- [mundane](https://github.com/google/mundane) : Rust
+  - Mundane is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).
+- [cloudquery](https://github.com/cloudquery/cloudquery) : Go
+  - cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security.
+- [Jackalope](https://github.com/googleprojectzero/Jackalope) : C++
+  - Binary, coverage-guided fuzzer for Windows and macOS
+- [research](https://github.com/bambenek/research) : 
+- [shakesearch](https://github.com/ProlificLabs/shakesearch) : CSS
+  - The Pulley ShakeSearch Take-home Challenge
+- [metersphere](https://github.com/metersphere/metersphere) : Java
+  - An open source continuous testing platform. MeterSphere 是一站式开源持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能，全面兼容 JMeter、Postman 等开源、主流标准。项目采用 SpringBoot 2.x + MyBatis + Vue.js + Element + Docker + Kafka + MySQL等开发。
+- [ssh-tutorial](https://github.com/wangdoc/ssh-tutorial) : 
+  - SSH 教程
+- [Reverse-Engineering-Tutorial](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial) : C++
+  - A comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
+- [fastapi](https://github.com/tiangolo/fastapi) : Python
+  - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) : Python
+  - Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）
+- [PerformanceOverhaulCyberpunk](https://github.com/yamashi/PerformanceOverhaulCyberpunk) : C++
+  - Performance boost, bug fixes and hacks for fun for Cyberpunk 2077
+- [react-native-paper](https://github.com/callstack/react-native-paper) : TypeScript
+  - Material Design for React Native (Android & iOS)
+- [solarflare](https://github.com/mubix/solarflare) : C#
+  - SolarWinds Orion Account Audit / Password Dumping Utility
+- [solutions-architecture-patterns](https://github.com/chanakaudaya/solutions-architecture-patterns) : 
+  - This repository contains solutions architecture patterns which can be reused to build enterprise software systems

@@ -1,51 +1,51 @@
 # typescript
+- [playwright](https://github.com/microsoft/playwright)
+  - Node.js library to automate Chromium, Firefox and WebKit with a single API
+- [react-native-paper](https://github.com/callstack/react-native-paper)
+  - Material Design for React Native (Android & iOS)
+- [components](https://github.com/angular/components)
+  - Component infrastructure and Material Design components for Angular
+- [angular](https://github.com/angular/angular)
+  - One framework. Mobile & desktop.
+- [storybook](https://github.com/storybookjs/storybook)
+  - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
+- [nx](https://github.com/nrwl/nx)
+  - Extensible Dev Tools for Monorepos
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+  - Headless Chrome Node.js API
+- [platform](https://github.com/ngrx/platform)
+  - Reactive libraries for Angular
+- [hyper](https://github.com/vercel/hyper)
+  - A terminal built on web technologies
+- [RoboScan](https://github.com/bezineb5/RoboScan)
+  - Raspberry Pi-powered analog film automatic scanner
+- [react-use](https://github.com/streamich/react-use)
+  - React Hooks — 👍
+- [firebase-tools](https://github.com/firebase/firebase-tools)
+  - The Firebase Command Line Tools
+- [prisma](https://github.com/prisma/prisma)
+  - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite
+- [overseerr](https://github.com/sct/overseerr)
+  - Request management and media discovery tool for the Plex ecosystem
+- [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper)
+  - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
+- [supabase](https://github.com/supabase/supabase)
+  - Website, docs, and examples. Follow to stay updated about our public Beta.
+- [ant-design](https://github.com/ant-design/ant-design)
+  - 🌈 A UI Design Language and React UI library
+- [motion](https://github.com/framer/motion)
+  - Open source, production-ready animation and gesture library for React
+- [google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client)
+  - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
+- [formik](https://github.com/formium/formik)
+  - Build forms in React, without the tears 😭
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui)
   - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [frontend](https://github.com/home-assistant/frontend)
-  - 🍭 Frontend for Home Assistant
-- [vscode-stories-serverless-image-uploader](https://github.com/benawad/vscode-stories-serverless-image-uploader)
-  - uploads gifs to azure blob storage
-- [vscode-stories-api](https://github.com/ide-stories/vscode-stories-api)
-  - api for vscode stories
-- [chrome](https://github.com/browserless/chrome)
-  - Chrome as a service in docker. Run on our cloud, or bring your own
-- [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer)
-  - An extension for VS Code that visualizes data during debugging.
-- [angularfire](https://github.com/angular/angularfire)
-  - The official Angular library for Firebase.
-- [cxmooc-tools](https://github.com/CodFrm/cxmooc-tools)
-  - 一个 超星(学习通)/智慧树(知到)/中国大学慕课 刷课工具,火狐,谷歌,油猴支持.全自动任务,视频倍速秒过,作业考试题库,验证码自动打码(੧ᐛ੭挂科模式,启动)
-- [xstate](https://github.com/davidkpiano/xstate)
-  - State machines and statecharts for the modern web.
-- [typeorm](https://github.com/typeorm/typeorm)
-  - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-- [bulletproof-nodejs](https://github.com/santiq/bulletproof-nodejs)
-  - Implementation of a bulletproof node.js API 🛡️
-- [NodePolus](https://github.com/roobscoob/NodePolus)
-  - NodePolus is a JavaScript library containing Implementations for working with Among Us.
-- [solid](https://github.com/ryansolid/solid)
-  - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [TypeScript](https://github.com/microsoft/TypeScript)
-  - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [lireddit](https://github.com/benawad/lireddit)
-  - 
-- [jsx-lite](https://github.com/BuilderIO/jsx-lite)
-  - Write components once, run everywhere. Compiles to Vue, React, Solid, Liquid, Svelte, and more.
-- [uniswap-interface](https://github.com/Uniswap/uniswap-interface)
-  - 🦄 An open source interface for the Uniswap protocol
-- [blitz](https://github.com/blitz-js/blitz)
-  - ⚡️The Fullstack React Framework — built on Next.js
-- [outline-client](https://github.com/Jigsaw-Code/outline-client)
-  - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
-- [instagram-private-api](https://github.com/dilame/instagram-private-api)
-  - NodeJS Instagram private API SDK. Written in TypeScript.
-- [typescript-book](https://github.com/basarat/typescript-book)
-  - 📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖. Free and Open Source 🌹
-- [scite-zotero-plugin](https://github.com/scitedotai/scite-zotero-plugin)
-  - scite zotero plugin
-- [super-productivity](https://github.com/johannesjo/super-productivity)
-  - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration
-- [react-three-fiber](https://github.com/pmndrs/react-three-fiber)
-  - 🇨🇭 A React renderer for Three.js (web and react-native)
-- [vscode-gitlens](https://github.com/eamodio/vscode-gitlens)
-  - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
+- [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator)
+  - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
+- [slate](https://github.com/ianstormtaylor/slate)
+  - A completely customizable framework for building rich text editors. (Currently in beta.)
+- [starter-workflows](https://github.com/actions/starter-workflows)
+  - Accelerating new GitHub Actions workflows
+- [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
+  - Microsoft Authentication Library (MSAL) for JS

@@ -1,51 +1,51 @@
 # c++
+- [duckstation](https://github.com/stenzek/duckstation)
+  - Fast PlayStation 1 emulator for PC and Android
+- [kbd-audio](https://github.com/ggerganov/kbd-audio)
+  - Tools for capturing and analysing keyboard input paired with microphone capture 🎤⌨️
+- [vk_mini_path_tracer](https://github.com/nvpro-samples/vk_mini_path_tracer)
+  - A beginner-friendly Vulkan path tracing tutorial in under 300 lines of C++.
+- [Jackalope](https://github.com/googleprojectzero/Jackalope)
+  - Binary, coverage-guided fuzzer for Windows and macOS
+- [Reverse-Engineering-Tutorial](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
+  - A comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
+- [PerformanceOverhaulCyberpunk](https://github.com/yamashi/PerformanceOverhaulCyberpunk)
+  - Performance boost, bug fixes and hacks for fun for Cyberpunk 2077
+- [openpilot](https://github.com/commaai/openpilot)
+  - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
+- [ProjectReunion](https://github.com/microsoft/ProjectReunion)
+  - Project Reunion is an evolution of the Windows developer platform that will make it more compatible, agile, modern and open.
+- [openedr](https://github.com/ComodoSecurity/openedr)
+  - Open EDR public repository
+- [sumo](https://github.com/eclipse/sumo)
+  - Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.
+- [onnxruntime](https://github.com/microsoft/onnxruntime)
+  - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
+- [srs](https://github.com/ossrs/srs)
+  - SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.
 - [bitcoin](https://github.com/bitcoin/bitcoin)
   - Bitcoin Core integration/staging tree
-- [rehex](https://github.com/solemnwarning/rehex)
-  - Reverse Engineers' Hex Editor
-- [drogon](https://github.com/an-tao/drogon)
-  - Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows
-- [MuseScore](https://github.com/musescore/MuseScore)
-  - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
-- [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
-  - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
-- [imgui](https://github.com/ocornut/imgui)
-  - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-- [godot](https://github.com/godotengine/godot)
-  - Godot Engine – Multi-platform 2D and 3D game engine
-- [qBittorrent](https://github.com/qbittorrent/qBittorrent)
-  - qBittorrent BitTorrent client
-- [DeepSpeech](https://github.com/mozilla/DeepSpeech)
-  - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
-- [WLED](https://github.com/Aircoookie/WLED)
-  - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
-- [xbmc](https://github.com/xbmc/xbmc)
-  - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
-- [open-zwave](https://github.com/OpenZWave/open-zwave)
-  - a C++ library to control Z-Wave Networks via a USB Z-Wave Controller.
 - [googletest](https://github.com/google/googletest)
   - Googletest - Google Testing and Mocking Framework
-- [fmt](https://github.com/fmtlib/fmt)
-  - A modern formatting library
-- [Telegram](https://github.com/DrKLO/Telegram)
-  - Telegram for Android source
-- [Magisk](https://github.com/topjohnwu/Magisk)
-  - The Magic Mask for Android
-- [esphome](https://github.com/esphome/esphome)
-  - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
-- [ac-library](https://github.com/atcoder/ac-library)
-  - AtCoder Library
-- [ardupilot](https://github.com/ArduPilot/ardupilot)
-  - ArduPlane, ArduCopter, ArduRover source
-- [pytorch](https://github.com/pytorch/pytorch)
-  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [Marlin](https://github.com/MarlinFirmware/Marlin)
-  - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
-- [rpcs3](https://github.com/RPCS3/rpcs3)
-  - PS3 emulator/debugger
-- [yuzu](https://github.com/yuzu-emu/yuzu)
-  - Nintendo Switch Emulator
-- [jetson-inference](https://github.com/dusty-nv/jetson-inference)
-  - Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
-- [aseprite](https://github.com/aseprite/aseprite)
-  - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
+- [DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples)
+  - Deep Learning Examples
+- [incubator-doris](https://github.com/apache/incubator-doris)
+  - Apache Doris (Incubating)
+- [solidity](https://github.com/ethereum/solidity)
+  - Solidity, the Contract-Oriented Programming Language
+- [taskflow](https://github.com/taskflow/taskflow)
+  - A General-purpose Parallel and Heterogeneous Task Programming System
+- [rebel](https://github.com/facebookresearch/rebel)
+  - An algorithm that generalizes the paradigm of self-play reinforcement learning and search to imperfect-information games.
+- [robin-hood-hashing](https://github.com/martinus/robin-hood-hashing)
+  - Fast & memory efficient hashtable based on robin hood hashing for C++11/14/17/20
+- [arcore-android-sdk](https://github.com/google-ar/arcore-android-sdk)
+  - ARCore SDK for Android Studio
+- [PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
+  - PX4 Autopilot Software
+- [folly](https://github.com/facebook/folly)
+  - An open-source C++ library developed and used at Facebook.
+- [wav2letter](https://github.com/facebookresearch/wav2letter)
+  - Facebook AI Research's Automatic Speech Recognition Toolkit
+- [librealsense](https://github.com/IntelRealSense/librealsense)
+  - Intel® RealSense™ SDK

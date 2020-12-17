@@ -1,51 +1,51 @@
 # ruby
-- [ruby](https://github.com/ruby/ruby)
-  - The Ruby Programming Language [mirror]
-- [brew](https://github.com/Homebrew/brew)
-  - 🍺 The missing package manager for macOS (or Linux)
-- [fluentd](https://github.com/fluent/fluentd)
-  - Fluentd: Unified Logging Layer (project under CNCF)
-- [jekyll](https://github.com/jekyll/jekyll)
-  - 🌐 Jekyll is a blog-aware static site generator in Ruby
-- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
-  - Metasploit Framework
-- [devdocs](https://github.com/freeCodeCamp/devdocs)
-  - API Documentation Browser
-- [rails](https://github.com/rails/rails)
-  - Ruby on Rails
-- [sonic-pi](https://github.com/sonic-pi-net/sonic-pi)
-  - Code. Music. Live.
-- [opencspm](https://github.com/OpenCSPM/opencspm)
-  - Open Cloud Security Posture Management Engine
-- [gitlabhq](https://github.com/gitlabhq/gitlabhq)
-  - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
-- [openproject](https://github.com/opf/openproject)
-  - OpenProject is the leading open source project management software.
-- [wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader)
-  - Download an entire website from the Wayback Machine.
-- [webpacker](https://github.com/rails/webpacker)
-  - Use Webpack to manage app-like JavaScript modules in Rails
+- [spree](https://github.com/spree/spree)
+  - Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:
+- [factory_bot](https://github.com/thoughtbot/factory_bot)
+  - A library for setting up Ruby objects as test data.
+- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
+  - The Cocoa Dependency Manager.
+- [view_component](https://github.com/github/view_component)
+  - A framework for building reusable, testable & encapsulated view components in Ruby on Rails.
+- [devise](https://github.com/heartcombo/devise)
+  - Flexible authentication solution for Rails with Warden.
+- [forem](https://github.com/forem/forem)
+  - For empowering community 🌱
 - [homebrew-core](https://github.com/Homebrew/homebrew-core)
   - 🍻 Default formulae for the missing package manager for macOS
-- [homebrew-bundle](https://github.com/Homebrew/homebrew-bundle)
-  - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
-- [homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-  - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-- [WhatWeb](https://github.com/urbanadventurer/WhatWeb)
-  - Next generation web scanner
-- [redmine](https://github.com/redmine/redmine)
-  - Mirror of redmine code source - Official SVN repository is at https://svn.redmine.org/redmine - contact: @jbbarth or jeanbaptiste.barth (at) gmail (dot) com
-- [explore](https://github.com/github/explore)
-  - Community-curated topic and collection pages on GitHub
-- [sinatra](https://github.com/sinatra/sinatra)
-  - Classy web-development dressed in a DSL (official / canonical repo)
-- [puppet](https://github.com/puppetlabs/puppet)
-  - Server automation framework and application
-- [postal](https://github.com/postalhq/postal)
-  - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
-- [raspberry-pi-pcie-devices](https://github.com/geerlingguy/raspberry-pi-pcie-devices)
-  - Raspberry Pi PCI Express device compatibility database
-- [openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website)
-  - The Rails application that powers OpenStreetMap
-- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-  - A curated list of awesome awesomeness
+- [pghero](https://github.com/ankane/pghero)
+  - A performance dashboard for Postgres
+- [blazer](https://github.com/ankane/blazer)
+  - Business intelligence made simple
+- [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator)
+  - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+- [geocoder](https://github.com/alexreisner/geocoder)
+  - Complete Ruby geocoding solution.
+- [linguist](https://github.com/github/linguist)
+  - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+- [next-right-now](https://github.com/UnlyEd/next-right-now)
+  - Flexible production-grade boilerplate with Next.js 10, Vercel and TypeScript. Includes multiple opt-in presets using Airtable, GraphQL, Analytics, CSS-in-JS, Monitoring, End-to-end testing, Internationalization, CI/CD and SaaS B2B multi single-tenancy (monorepo) support
+- [scientist](https://github.com/github/scientist)
+  - 🔬 A Ruby library for carefully refactoring critical paths.
+- [jsonapi-serializer](https://github.com/jsonapi-serializer/jsonapi-serializer)
+  - A fast JSON:API serializer for Ruby (fork of Netflix/fast_jsonapi)
+- [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch)
+  - Ansible playbook for Elasticsearch
+- [chatwoot](https://github.com/chatwoot/chatwoot)
+  - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬
+- [sentry-ruby](https://github.com/getsentry/sentry-ruby)
+  - Sentry SDK for Ruby
+- [mail](https://github.com/mikel/mail)
+  - A Really Ruby Mail Library
+- [rest-client](https://github.com/rest-client/rest-client)
+  - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
+- [react-native-config](https://github.com/luggit/react-native-config)
+  - Bring some 12 factor love to your mobile apps!
+- [wpscan](https://github.com/wpscanteam/wpscan)
+  - WPScan is a free, for non-commercial use, black box WordPress security scanner written for security professionals and blog maintainers to test the security of their WordPress websites.
+- [greenlight](https://github.com/bigbluebutton/greenlight)
+  - A really simple end-user interface for your BigBlueButton server.
+- [fluentd-kubernetes-daemonset](https://github.com/fluent/fluentd-kubernetes-daemonset)
+  - Fluentd daemonset for Kubernetes and it Docker image
+- [mailcatcher](https://github.com/sj26/mailcatcher)
+  - Catches mail and serves it through a dream.
