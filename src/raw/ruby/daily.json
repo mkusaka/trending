@@ -1,23 +1,23 @@
 [
   {
-    "author": "ruby",
-    "name": "ruby",
-    "href": "https://github.com/ruby/ruby",
-    "description": "The Ruby Programming Language [mirror]",
+    "author": "CocoaPods",
+    "name": "CocoaPods",
+    "href": "https://github.com/CocoaPods/CocoaPods",
+    "description": "The Cocoa Dependency Manager.",
     "language": "Ruby",
-    "stars": 17504,
-    "forks": 4670,
-    "starsInPeriod": 4
+    "stars": 12878,
+    "forks": 2347,
+    "starsInPeriod": 6
   },
   {
-    "author": "Homebrew",
-    "name": "brew",
-    "href": "https://github.com/Homebrew/brew",
-    "description": "🍺 The missing package manager for macOS (or Linux)",
+    "author": "elastic",
+    "name": "logstash",
+    "href": "https://github.com/elastic/logstash",
+    "description": "Logstash - transport and process your logs, events, or other data",
     "language": "Ruby",
-    "stars": 23759,
-    "forks": 5553,
-    "starsInPeriod": 31
+    "stars": 11848,
+    "forks": 3107,
+    "starsInPeriod": 3
   },
   {
     "author": "fluent",
@@ -25,168 +25,8 @@
     "href": "https://github.com/fluent/fluentd",
     "description": "Fluentd: Unified Logging Layer (project under CNCF)",
     "language": "Ruby",
-    "stars": 9707,
-    "forks": 1117,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "jekyll",
-    "name": "jekyll",
-    "href": "https://github.com/jekyll/jekyll",
-    "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
-    "language": "Ruby",
-    "stars": 41614,
-    "forks": 9103,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "rapid7",
-    "name": "metasploit-framework",
-    "href": "https://github.com/rapid7/metasploit-framework",
-    "description": "Metasploit Framework",
-    "language": "Ruby",
-    "stars": 22103,
-    "forks": 10632,
-    "starsInPeriod": 11
-  },
-  {
-    "author": "freeCodeCamp",
-    "name": "devdocs",
-    "href": "https://github.com/freeCodeCamp/devdocs",
-    "description": "API Documentation Browser",
-    "language": "Ruby",
-    "stars": 24237,
-    "forks": 1646,
-    "starsInPeriod": 17
-  },
-  {
-    "author": "rails",
-    "name": "rails",
-    "href": "https://github.com/rails/rails",
-    "description": "Ruby on Rails",
-    "language": "Ruby",
-    "stars": 46940,
-    "forks": 18853,
-    "starsInPeriod": 12
-  },
-  {
-    "author": "sonic-pi-net",
-    "name": "sonic-pi",
-    "href": "https://github.com/sonic-pi-net/sonic-pi",
-    "description": "Code. Music. Live.",
-    "language": "Ruby",
-    "stars": 6263,
-    "forks": 689,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "OpenCSPM",
-    "name": "opencspm",
-    "href": "https://github.com/OpenCSPM/opencspm",
-    "description": "Open Cloud Security Posture Management Engine",
-    "language": "Ruby",
-    "stars": 85,
-    "forks": 4,
-    "starsInPeriod": 26
-  },
-  {
-    "author": "gitlabhq",
-    "name": "gitlabhq",
-    "href": "https://github.com/gitlabhq/gitlabhq",
-    "description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com",
-    "language": "Ruby",
-    "stars": 22410,
-    "forks": 5620,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "opf",
-    "name": "openproject",
-    "href": "https://github.com/opf/openproject",
-    "description": "OpenProject is the leading open source project management software.",
-    "language": "Ruby",
-    "stars": 4353,
-    "forks": 1317,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "hartator",
-    "name": "wayback-machine-downloader",
-    "href": "https://github.com/hartator/wayback-machine-downloader",
-    "description": "Download an entire website from the Wayback Machine.",
-    "language": "Ruby",
-    "stars": 2420,
-    "forks": 375,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "rails",
-    "name": "webpacker",
-    "href": "https://github.com/rails/webpacker",
-    "description": "Use Webpack to manage app-like JavaScript modules in Rails",
-    "language": "Ruby",
-    "stars": 4934,
-    "forks": 1305,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "Homebrew",
-    "name": "homebrew-core",
-    "href": "https://github.com/Homebrew/homebrew-core",
-    "description": "🍻 Default formulae for the missing package manager for macOS",
-    "language": "Ruby",
-    "stars": 8280,
-    "forks": 8563,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "Homebrew",
-    "name": "homebrew-bundle",
-    "href": "https://github.com/Homebrew/homebrew-bundle",
-    "description": "📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.",
-    "language": "Ruby",
-    "stars": 3432,
-    "forks": 214,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "Homebrew",
-    "name": "homebrew-cask",
-    "href": "https://github.com/Homebrew/homebrew-cask",
-    "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
-    "language": "Ruby",
-    "stars": 17612,
-    "forks": 8657,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "urbanadventurer",
-    "name": "WhatWeb",
-    "href": "https://github.com/urbanadventurer/WhatWeb",
-    "description": "Next generation web scanner",
-    "language": "Ruby",
-    "stars": 2717,
-    "forks": 656,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "redmine",
-    "name": "redmine",
-    "href": "https://github.com/redmine/redmine",
-    "description": "Mirror of redmine code source - Official SVN repository is at https://svn.redmine.org/redmine - contact: @jbbarth or jeanbaptiste.barth (at) gmail (dot) com",
-    "language": "Ruby",
-    "stars": 3908,
-    "forks": 2002,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "github",
-    "name": "explore",
-    "href": "https://github.com/github/explore",
-    "description": "Community-curated topic and collection pages on GitHub",
-    "language": "Ruby",
-    "stars": 1967,
-    "forks": 7666,
+    "stars": 9823,
+    "forks": 1132,
     "starsInPeriod": 4
   },
   {
@@ -195,58 +35,218 @@
     "href": "https://github.com/sinatra/sinatra",
     "description": "Classy web-development dressed in a DSL (official / canonical repo)",
     "language": "Ruby",
-    "stars": 11125,
-    "forks": 1997,
+    "stars": 11145,
+    "forks": 2000,
     "starsInPeriod": 1
   },
   {
-    "author": "puppetlabs",
-    "name": "puppet",
-    "href": "https://github.com/puppetlabs/puppet",
-    "description": "Server automation framework and application",
+    "author": "googleapis",
+    "name": "google-cloud-ruby",
+    "href": "https://github.com/googleapis/google-cloud-ruby",
+    "description": "Google Cloud Client Library for Ruby",
     "language": "Ruby",
-    "stars": 5962,
-    "forks": 2171,
+    "stars": 1032,
+    "forks": 426,
     "starsInPeriod": 1
   },
   {
-    "author": "postalhq",
-    "name": "postal",
-    "href": "https://github.com/postalhq/postal",
-    "description": "📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail",
+    "author": "github",
+    "name": "linguist",
+    "href": "https://github.com/github/linguist",
+    "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
     "language": "Ruby",
-    "stars": 10089,
-    "forks": 654,
-    "starsInPeriod": 1
-  },
-  {
-    "author": "geerlingguy",
-    "name": "raspberry-pi-pcie-devices",
-    "href": "https://github.com/geerlingguy/raspberry-pi-pcie-devices",
-    "description": "Raspberry Pi PCI Express device compatibility database",
-    "language": "Ruby",
-    "stars": 95,
-    "forks": 5,
+    "stars": 8281,
+    "forks": 2996,
     "starsInPeriod": 4
   },
   {
-    "author": "openstreetmap",
-    "name": "openstreetmap-website",
-    "href": "https://github.com/openstreetmap/openstreetmap-website",
-    "description": "The Rails application that powers OpenStreetMap",
+    "author": "elastic",
+    "name": "ansible-elasticsearch",
+    "href": "https://github.com/elastic/ansible-elasticsearch",
+    "description": "Ansible playbook for Elasticsearch",
     "language": "Ruby",
-    "stars": 1194,
-    "forks": 677,
+    "stars": 1261,
+    "forks": 686,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "faker-ruby",
+    "name": "faker",
+    "href": "https://github.com/faker-ruby/faker",
+    "description": "A library for generating fake data such as names, addresses, and phone numbers.",
+    "language": "Ruby",
+    "stars": 9047,
+    "forks": 2544,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "rubocop-hq",
+    "name": "rubocop",
+    "href": "https://github.com/rubocop-hq/rubocop",
+    "description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
+    "language": "Ruby",
+    "stars": 11205,
+    "forks": 2559,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "oracle",
+    "name": "truffleruby",
+    "href": "https://github.com/oracle/truffleruby",
+    "description": "A high performance implementation of the Ruby programming language. Built on the GraalVM by Oracle Labs.",
+    "language": "Ruby",
+    "stars": 2434,
+    "forks": 129,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "elastic",
+    "name": "elasticsearch-ruby",
+    "href": "https://github.com/elastic/elasticsearch-ruby",
+    "description": "Ruby integrations for Elasticsearch",
+    "language": "Ruby",
+    "stars": 1781,
+    "forks": 518,
     "starsInPeriod": 0
   },
   {
-    "author": "bayandin",
-    "name": "awesome-awesomeness",
-    "href": "https://github.com/bayandin/awesome-awesomeness",
-    "description": "A curated list of awesome awesomeness",
+    "author": "flori",
+    "name": "json",
+    "href": "https://github.com/flori/json",
+    "description": "JSON implementation for Ruby",
     "language": "Ruby",
-    "stars": 26888,
-    "forks": 3319,
+    "stars": 583,
+    "forks": 257,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "rspec",
+    "name": "rspec-rails",
+    "href": "https://github.com/rspec/rspec-rails",
+    "description": "RSpec for Rails 5+",
+    "language": "Ruby",
+    "stars": 4442,
+    "forks": 875,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "freeCodeCamp",
+    "name": "devdocs",
+    "href": "https://github.com/freeCodeCamp/devdocs",
+    "description": "API Documentation Browser",
+    "language": "Ruby",
+    "stars": 24485,
+    "forks": 1664,
     "starsInPeriod": 6
+  },
+  {
+    "author": "heartcombo",
+    "name": "simple_form",
+    "href": "https://github.com/heartcombo/simple_form",
+    "description": "Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.",
+    "language": "Ruby",
+    "stars": 7701,
+    "forks": 1285,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "paper-trail-gem",
+    "name": "paper_trail",
+    "href": "https://github.com/paper-trail-gem/paper_trail",
+    "description": "Track changes to your rails models",
+    "language": "Ruby",
+    "stars": 5972,
+    "forks": 790,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "github",
+    "name": "view_component",
+    "href": "https://github.com/github/view_component",
+    "description": "A framework for building reusable, testable & encapsulated view components in Ruby on Rails.",
+    "language": "Ruby",
+    "stars": 1461,
+    "forks": 154,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "thoughtbot",
+    "name": "factory_bot",
+    "href": "https://github.com/thoughtbot/factory_bot",
+    "description": "A library for setting up Ruby objects as test data.",
+    "language": "Ruby",
+    "stars": 7066,
+    "forks": 2271,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "opf",
+    "name": "openproject",
+    "href": "https://github.com/opf/openproject",
+    "description": "OpenProject is the leading open source project management software.",
+    "language": "Ruby",
+    "stars": 4430,
+    "forks": 1333,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "rails-on-services",
+    "name": "apartment",
+    "href": "https://github.com/rails-on-services/apartment",
+    "description": "Database multi-tenancy for Rack (and Rails) applications",
+    "language": "Ruby",
+    "stars": 135,
+    "forks": 20,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "elastic",
+    "name": "elasticsearch-rails",
+    "href": "https://github.com/elastic/elasticsearch-rails",
+    "description": "Elasticsearch integrations for ActiveModel/Record and Ruby on Rails",
+    "language": "Ruby",
+    "stars": 2788,
+    "forks": 713,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "ruby-grape",
+    "name": "grape",
+    "href": "https://github.com/ruby-grape/grape",
+    "description": "An opinionated framework for creating REST-like APIs in Ruby.",
+    "language": "Ruby",
+    "stars": 9220,
+    "forks": 1177,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "rapid7",
+    "name": "metasploit-framework",
+    "href": "https://github.com/rapid7/metasploit-framework",
+    "description": "Metasploit Framework",
+    "language": "Ruby",
+    "stars": 22554,
+    "forks": 10760,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "typhoeus",
+    "name": "typhoeus",
+    "href": "https://github.com/typhoeus/typhoeus",
+    "description": "Typhoeus wraps libcurl in order to make fast and reliable requests.",
+    "language": "Ruby",
+    "stars": 3792,
+    "forks": 424,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "rubysherpas",
+    "name": "paranoia",
+    "href": "https://github.com/rubysherpas/paranoia",
+    "description": "acts_as_paranoid for Rails 3, 4 and 5",
+    "language": "Ruby",
+    "stars": 2593,
+    "forks": 488,
+    "starsInPeriod": 0
   }
 ]

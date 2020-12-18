@@ -1,83 +1,193 @@
 [
   {
-    "author": "microsoft",
-    "name": "Web-Dev-For-Beginners",
-    "href": "https://github.com/microsoft/Web-Dev-For-Beginners",
-    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
-    "language": "JavaScript",
-    "stars": 2070,
-    "forks": 135,
-    "starsInPeriod": 1163
+    "author": "ggerganov",
+    "name": "kbd-audio",
+    "href": "https://github.com/ggerganov/kbd-audio",
+    "description": "Tools for capturing and analysing keyboard input paired with microphone capture 🎤⌨️",
+    "language": "C++",
+    "stars": 3510,
+    "forks": 302,
+    "starsInPeriod": 285
   },
   {
-    "author": "starship",
-    "name": "starship",
-    "href": "https://github.com/starship/starship",
-    "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
-    "language": "Rust",
-    "stars": 11613,
-    "forks": 503,
-    "starsInPeriod": 372
-  },
-  {
-    "author": "sindresorhus",
-    "name": "awesome",
-    "href": "https://github.com/sindresorhus/awesome",
-    "description": "😎 Awesome lists about all kinds of interesting topics",
-    "language": "",
-    "stars": 145315,
-    "forks": 19097,
-    "starsInPeriod": 788
-  },
-  {
-    "author": "microsoft",
-    "name": "Bringing-Old-Photos-Back-to-Life",
-    "href": "https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life",
-    "description": "Bringing Old Photo Back to Life (CVPR 2020 oral)",
+    "author": "RedDrip7",
+    "name": "SunBurst_DGA_Decode",
+    "href": "https://github.com/RedDrip7/SunBurst_DGA_Decode",
+    "description": "SunBurst DGA Decode Script",
     "language": "Python",
-    "stars": 2673,
-    "forks": 210,
-    "starsInPeriod": 418
+    "stars": 105,
+    "forks": 28,
+    "starsInPeriod": 36
   },
   {
-    "author": "orf",
-    "name": "gping",
-    "href": "https://github.com/orf/gping",
-    "description": "Ping, but with a graph",
-    "language": "Rust",
-    "stars": 2536,
-    "forks": 102,
-    "starsInPeriod": 566
+    "author": "h2oai",
+    "name": "wave",
+    "href": "https://github.com/h2oai/wave",
+    "description": "Realtime Web Apps and Dashboards for Python",
+    "language": "Python",
+    "stars": 345,
+    "forks": 19,
+    "starsInPeriod": 199
   },
   {
-    "author": "CodinGame",
-    "name": "FallChallenge2020",
-    "href": "https://github.com/CodinGame/FallChallenge2020",
-    "description": "Source code for CodinGame's Fall Challenge 2020 event.",
-    "language": "JavaScript",
-    "stars": 74,
-    "forks": 11,
-    "starsInPeriod": 20
-  },
-  {
-    "author": "chakra-ui",
-    "name": "chakra-ui",
-    "href": "https://github.com/chakra-ui/chakra-ui",
-    "description": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
+    "author": "vercel",
+    "name": "virtual-event-starter-kit",
+    "href": "https://github.com/vercel/virtual-event-starter-kit",
+    "description": "Open source demo that Next.js developers can clone, deploy, and fully customize for events.",
     "language": "TypeScript",
-    "stars": 12220,
-    "forks": 886,
-    "starsInPeriod": 234
+    "stars": 535,
+    "forks": 32,
+    "starsInPeriod": 119
   },
   {
-    "author": "iptv-org",
-    "name": "iptv",
-    "href": "https://github.com/iptv-org/iptv",
-    "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "author": "PaddlePaddle",
+    "name": "PaddleOCR",
+    "href": "https://github.com/PaddlePaddle/PaddleOCR",
+    "description": "Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）",
+    "language": "Python",
+    "stars": 7667,
+    "forks": 1502,
+    "starsInPeriod": 166
+  },
+  {
+    "author": "jwasham",
+    "name": "coding-interview-university",
+    "href": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "",
+    "stars": 148378,
+    "forks": 41571,
+    "starsInPeriod": 1122
+  },
+  {
+    "author": "r0ysue",
+    "name": "r0capture",
+    "href": "https://github.com/r0ysue/r0capture",
+    "description": "安卓应用层抓包通杀脚本",
+    "language": "Python",
+    "stars": 1634,
+    "forks": 272,
+    "starsInPeriod": 79
+  },
+  {
+    "author": "sherlock-project",
+    "name": "sherlock",
+    "href": "https://github.com/sherlock-project/sherlock",
+    "description": "🔎 Hunt down social media accounts by username across social networks",
+    "language": "Python",
+    "stars": 18361,
+    "forks": 1901,
+    "starsInPeriod": 334
+  },
+  {
+    "author": "metersphere",
+    "name": "metersphere",
+    "href": "https://github.com/metersphere/metersphere",
+    "description": "【求 Star!】【求 Fork!】【求关注!】An open source continuous testing platform. MeterSphere 是一站式开源持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能，全面兼容 JMeter、Postman 等开源、主流标准。项目采用 SpringBoot 2.x + MyBatis + Vue.js + Element + Docker + Kafka + MySQL等开发。",
+    "language": "Java",
+    "stars": 3251,
+    "forks": 697,
+    "starsInPeriod": 131
+  },
+  {
+    "author": "donnemartin",
+    "name": "system-design-primer",
+    "href": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "stars": 115580,
+    "forks": 20874,
+    "starsInPeriod": 267
+  },
+  {
+    "author": "mozilla-mobile",
+    "name": "firefox-ios",
+    "href": "https://github.com/mozilla-mobile/firefox-ios",
+    "description": "Firefox for iOS",
+    "language": "Swift",
+    "stars": 9765,
+    "forks": 2304,
+    "starsInPeriod": 17
+  },
+  {
+    "author": "hashicorp",
+    "name": "packer",
+    "href": "https://github.com/hashicorp/packer",
+    "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+    "language": "Go",
+    "stars": 12077,
+    "forks": 3039,
+    "starsInPeriod": 290
+  },
+  {
+    "author": "mytechnotalent",
+    "name": "Reverse-Engineering-Tutorial",
+    "href": "https://github.com/mytechnotalent/Reverse-Engineering-Tutorial",
+    "description": "A comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.",
+    "language": "C++",
+    "stars": 1610,
+    "forks": 125,
+    "starsInPeriod": 109
+  },
+  {
+    "author": "chanakaudaya",
+    "name": "solutions-architecture-patterns",
+    "href": "https://github.com/chanakaudaya/solutions-architecture-patterns",
+    "description": "This repository contains solutions architecture patterns which can be reused to build enterprise software systems",
+    "language": "",
+    "stars": 798,
+    "forks": 114,
+    "starsInPeriod": 77
+  },
+  {
+    "author": "facebook",
+    "name": "zstd",
+    "href": "https://github.com/facebook/zstd",
+    "description": "Zstandard - Fast real-time compression algorithm",
+    "language": "C",
+    "stars": 13422,
+    "forks": 1259,
+    "starsInPeriod": 106
+  },
+  {
+    "author": "tiangolo",
+    "name": "fastapi",
+    "href": "https://github.com/tiangolo/fastapi",
+    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "language": "Python",
+    "stars": 24705,
+    "forks": 1676,
+    "starsInPeriod": 257
+  },
+  {
+    "author": "public-apis",
+    "name": "public-apis",
+    "href": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs for use in software and web development.",
+    "language": "Python",
+    "stars": 104620,
+    "forks": 12753,
+    "starsInPeriod": 290
+  },
+  {
+    "author": "strapi",
+    "name": "strapi",
+    "href": "https://github.com/strapi/strapi",
+    "description": "🚀 Open source Node.js Headless CMS to easily build customisable APIs",
     "language": "JavaScript",
-    "stars": 20876,
-    "forks": 127,
-    "starsInPeriod": 299
+    "stars": 31666,
+    "forks": 4006,
+    "starsInPeriod": 45
+  },
+  {
+    "author": "hashicorp",
+    "name": "consul",
+    "href": "https://github.com/hashicorp/consul",
+    "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "language": "Go",
+    "stars": 20834,
+    "forks": 3570,
+    "starsInPeriod": 12
   },
   {
     "author": "k0sproject",
@@ -85,119 +195,39 @@
     "href": "https://github.com/k0sproject/k0s",
     "description": "k0s - Zero Friction Kubernetes",
     "language": "Go",
-    "stars": 496,
-    "forks": 16,
-    "starsInPeriod": 236
+    "stars": 2780,
+    "forks": 104,
+    "starsInPeriod": 86
   },
   {
-    "author": "alacritty",
-    "name": "alacritty",
-    "href": "https://github.com/alacritty/alacritty",
-    "description": "A cross-platform, GPU-accelerated terminal emulator",
-    "language": "Rust",
-    "stars": 26507,
-    "forks": 1387,
-    "starsInPeriod": 20
-  },
-  {
-    "author": "elrumo",
-    "name": "macOS_Big_Sur_icons_replacements",
-    "href": "https://github.com/elrumo/macOS_Big_Sur_icons_replacements",
-    "description": "Replacement icons for popular apps in the style of macOS Big Sur",
-    "language": "Vue",
-    "stars": 2002,
-    "forks": 136,
-    "starsInPeriod": 430
-  },
-  {
-    "author": "rust-lang",
-    "name": "rustlings",
-    "href": "https://github.com/rust-lang/rustlings",
-    "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
-    "language": "Rust",
-    "stars": 12750,
-    "forks": 1607,
-    "starsInPeriod": 13
-  },
-  {
-    "author": "ripienaar",
-    "name": "free-for-dev",
-    "href": "https://github.com/ripienaar/free-for-dev",
-    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-    "language": "HTML",
-    "stars": 39959,
-    "forks": 4216,
-    "starsInPeriod": 490
-  },
-  {
-    "author": "lydiahallie",
-    "name": "javascript-questions",
-    "href": "https://github.com/lydiahallie/javascript-questions",
-    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
-    "language": "",
-    "stars": 24504,
-    "forks": 3190,
-    "starsInPeriod": 533
-  },
-  {
-    "author": "ryanmcdermott",
-    "name": "clean-code-javascript",
-    "href": "https://github.com/ryanmcdermott/clean-code-javascript",
-    "description": "🛁 Clean Code concepts adapted for JavaScript",
-    "language": "JavaScript",
-    "stars": 40934,
-    "forks": 4955,
-    "starsInPeriod": 422
-  },
-  {
-    "author": "yangshun",
-    "name": "tech-interview-handbook",
-    "href": "https://github.com/yangshun/tech-interview-handbook",
-    "description": "💯 Materials to help you rock your next coding interview",
-    "language": "JavaScript",
-    "stars": 46509,
-    "forks": 6584,
-    "starsInPeriod": 208
-  },
-  {
-    "author": "trekhleb",
-    "name": "javascript-algorithms",
-    "href": "https://github.com/trekhleb/javascript-algorithms",
-    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-    "language": "JavaScript",
-    "stars": 84867,
-    "forks": 14325,
-    "starsInPeriod": 290
-  },
-  {
-    "author": "joke2k",
-    "name": "faker",
-    "href": "https://github.com/joke2k/faker",
-    "description": "Faker is a Python package that generates fake data for you.",
+    "author": "PeterL1n",
+    "name": "BackgroundMattingV2",
+    "href": "https://github.com/PeterL1n/BackgroundMattingV2",
+    "description": "Real-Time High-Resolution Background Matting",
     "language": "Python",
-    "stars": 10914,
-    "forks": 1292,
-    "starsInPeriod": 58
+    "stars": 1174,
+    "forks": 87,
+    "starsInPeriod": 314
   },
   {
-    "author": "MunGell",
-    "name": "awesome-for-beginners",
-    "href": "https://github.com/MunGell/awesome-for-beginners",
-    "description": "A list of awesome beginners-friendly projects.",
-    "language": "",
-    "stars": 24987,
-    "forks": 4104,
-    "starsInPeriod": 131
+    "author": "dokku",
+    "name": "dokku",
+    "href": "https://github.com/dokku/dokku",
+    "description": "A docker-powered PaaS that helps you build and manage the lifecycle of applications",
+    "language": "Shell",
+    "stars": 20246,
+    "forks": 1601,
+    "starsInPeriod": 26
   },
   {
-    "author": "EbookFoundation",
-    "name": "free-programming-books",
-    "href": "https://github.com/EbookFoundation/free-programming-books",
-    "description": "📚 Freely available programming books",
+    "author": "jlevy",
+    "name": "the-art-of-command-line",
+    "href": "https://github.com/jlevy/the-art-of-command-line",
+    "description": "Master the command line, in one page",
     "language": "",
-    "stars": 164934,
-    "forks": 39083,
-    "starsInPeriod": 181
+    "stars": 82190,
+    "forks": 9366,
+    "starsInPeriod": 157
   },
   {
     "author": "bitcoin",
@@ -205,48 +235,18 @@
     "href": "https://github.com/bitcoin/bitcoin",
     "description": "Bitcoin Core integration/staging tree",
     "language": "C++",
-    "stars": 45984,
-    "forks": 26635,
-    "starsInPeriod": 25
+    "stars": 46626,
+    "forks": 26821,
+    "starsInPeriod": 33
   },
   {
-    "author": "home-assistant",
-    "name": "core",
-    "href": "https://github.com/home-assistant/core",
-    "description": "🏡 Open source home automation that puts local control and privacy first",
+    "author": "django",
+    "name": "django",
+    "href": "https://github.com/django/django",
+    "description": "The Web framework for perfectionists with deadlines.",
     "language": "Python",
-    "stars": 37176,
-    "forks": 12214,
-    "starsInPeriod": 24
-  },
-  {
-    "author": "Concordium",
-    "name": "Testnet3-Challenges",
-    "href": "https://github.com/Concordium/Testnet3-Challenges",
-    "description": "This repo is dedicated to Concordium Incentivized Testnet3.",
-    "language": "",
-    "stars": 324,
-    "forks": 523,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "Asabeneh",
-    "name": "30-Days-Of-Python",
-    "href": "https://github.com/Asabeneh/30-Days-Of-Python",
-    "description": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
-    "language": "Python",
-    "stars": 2948,
-    "forks": 684,
-    "starsInPeriod": 203
-  },
-  {
-    "author": "halfrost",
-    "name": "LeetCode-Go",
-    "href": "https://github.com/halfrost/LeetCode-Go",
-    "description": "✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",
-    "language": "Go",
-    "stars": 8935,
-    "forks": 1396,
-    "starsInPeriod": 43
+    "stars": 54280,
+    "forks": 23371,
+    "starsInPeriod": 33
   }
 ]
