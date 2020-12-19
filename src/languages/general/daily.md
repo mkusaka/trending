@@ -1,51 +1,49 @@
 # general
-- [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) : JavaScript
-  - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [starship](https://github.com/starship/starship) : Rust
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [awesome](https://github.com/sindresorhus/awesome) : 
-  - 😎 Awesome lists about all kinds of interesting topics
-- [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) : Python
-  - Bringing Old Photo Back to Life (CVPR 2020 oral)
-- [gping](https://github.com/orf/gping) : Rust
-  - Ping, but with a graph
-- [FallChallenge2020](https://github.com/CodinGame/FallChallenge2020) : JavaScript
-  - Source code for CodinGame's Fall Challenge 2020 event.
+- [ghidra](https://github.com/NationalSecurityAgency/ghidra) : Java
+  - Ghidra is a software reverse engineering (SRE) framework
+- [playwright](https://github.com/microsoft/playwright) : TypeScript
+  - Node.js library to automate Chromium, Firefox and WebKit with a single API
+- [BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) : Python
+  - Real-Time High-Resolution Background Matting
+- [supertokens-core](https://github.com/supertokens/supertokens-core) : Java
+  - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
+- [metabase](https://github.com/metabase/metabase) : Clojure
+  - The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋
+- [terminal](https://github.com/microsoft/terminal) : C++
+  - The new Windows Terminal and the original Windows console host, all in the same place!
+- [strapi](https://github.com/strapi/strapi) : JavaScript
+  - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [hls.js](https://github.com/video-dev/hls.js) : JavaScript
+  - JavaScript HLS client using Media Source Extension
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) : TypeScript
   - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [iptv](https://github.com/iptv-org/iptv) : JavaScript
-  - Collection of 5000+ publicly available IPTV channels from all over the world
-- [k0s](https://github.com/k0sproject/k0s) : Go
-  - k0s - Zero Friction Kubernetes
-- [alacritty](https://github.com/alacritty/alacritty) : Rust
-  - A cross-platform, GPU-accelerated terminal emulator
-- [macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) : Vue
-  - Replacement icons for popular apps in the style of macOS Big Sur
-- [rustlings](https://github.com/rust-lang/rustlings) : Rust
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
-  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
-  - A long list of (advanced) JavaScript questions, and their explanations ✨
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
-  - 💯 Materials to help you rock your next coding interview
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [faker](https://github.com/joke2k/faker) : Python
-  - Faker is a Python package that generates fake data for you.
-- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) : 
-  - A list of awesome beginners-friendly projects.
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
+- [wave](https://github.com/h2oai/wave) : Python
+  - Realtime Web Apps and Dashboards for Python
+- [missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) : CSS
+  - the CS missing semester Chinese version
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [applied-ml](https://github.com/eugeneyan/applied-ml) : 
+  - 📚 Papers by organizations sharing their work on applied data science & machine learning.
+- [harvester](https://github.com/rancher/harvester) : Go
+  - Open source hyperconverged infrastructure (HCI) software
+- [public-apis](https://github.com/public-apis/public-apis) : Python
+  - A collective list of free APIs for use in software and web development.
+- [flutter](https://github.com/flutter/flutter) : Dart
+  - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+- [taskbar-groups](https://github.com/tjackenpacken/taskbar-groups) : C#
+- [Fully-Undetectable-Techniques](https://github.com/gnxbr/Fully-Undetectable-Techniques) : C
 - [bitcoin](https://github.com/bitcoin/bitcoin) : C++
   - Bitcoin Core integration/staging tree
-- [core](https://github.com/home-assistant/core) : Python
-  - 🏡 Open source home automation that puts local control and privacy first
-- [Testnet3-Challenges](https://github.com/Concordium/Testnet3-Challenges) : 
-  - This repo is dedicated to Concordium Incentivized Testnet3.
-- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) : Python
-  - 30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.
-- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) : Go
-  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [packer](https://github.com/hashicorp/packer) : Go
+  - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
+  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [compose-jb](https://github.com/JetBrains/compose-jb) : Kotlin
+  - Jetpack Compose for Desktop, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+- [solutions-architecture-patterns](https://github.com/chanakaudaya/solutions-architecture-patterns) : 
+  - This repository contains solutions architecture patterns which can be reused to build enterprise software systems
+- [common-regex](https://github.com/cdoco/common-regex) : 
+  - 🎃 常用正则表达式 - 收集一些在平时项目开发中经常用到的正则表达式。
+- [imgui](https://github.com/ocornut/imgui) : C++
+  - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
