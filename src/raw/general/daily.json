@@ -1,203 +1,23 @@
 [
   {
-    "author": "microsoft",
-    "name": "Web-Dev-For-Beginners",
-    "href": "https://github.com/microsoft/Web-Dev-For-Beginners",
-    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
-    "language": "JavaScript",
-    "stars": 2070,
-    "forks": 135,
-    "starsInPeriod": 1163
+    "author": "FlaxEngine",
+    "name": "FlaxEngine",
+    "href": "https://github.com/FlaxEngine/FlaxEngine",
+    "description": "Flax Engine – multi-platform 3D game engine",
+    "language": "C++",
+    "stars": 248,
+    "forks": 21,
+    "starsInPeriod": 117
   },
   {
-    "author": "starship",
-    "name": "starship",
-    "href": "https://github.com/starship/starship",
-    "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
-    "language": "Rust",
-    "stars": 11613,
-    "forks": 503,
-    "starsInPeriod": 372
-  },
-  {
-    "author": "sindresorhus",
-    "name": "awesome",
-    "href": "https://github.com/sindresorhus/awesome",
-    "description": "😎 Awesome lists about all kinds of interesting topics",
-    "language": "",
-    "stars": 145315,
-    "forks": 19097,
-    "starsInPeriod": 788
-  },
-  {
-    "author": "microsoft",
-    "name": "Bringing-Old-Photos-Back-to-Life",
-    "href": "https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life",
-    "description": "Bringing Old Photo Back to Life (CVPR 2020 oral)",
-    "language": "Python",
-    "stars": 2673,
-    "forks": 210,
-    "starsInPeriod": 418
-  },
-  {
-    "author": "orf",
-    "name": "gping",
-    "href": "https://github.com/orf/gping",
-    "description": "Ping, but with a graph",
-    "language": "Rust",
-    "stars": 2536,
-    "forks": 102,
-    "starsInPeriod": 566
-  },
-  {
-    "author": "CodinGame",
-    "name": "FallChallenge2020",
-    "href": "https://github.com/CodinGame/FallChallenge2020",
-    "description": "Source code for CodinGame's Fall Challenge 2020 event.",
-    "language": "JavaScript",
-    "stars": 74,
-    "forks": 11,
-    "starsInPeriod": 20
-  },
-  {
-    "author": "chakra-ui",
-    "name": "chakra-ui",
-    "href": "https://github.com/chakra-ui/chakra-ui",
-    "description": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
-    "language": "TypeScript",
-    "stars": 12220,
-    "forks": 886,
-    "starsInPeriod": 234
-  },
-  {
-    "author": "iptv-org",
-    "name": "iptv",
-    "href": "https://github.com/iptv-org/iptv",
-    "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
-    "language": "JavaScript",
-    "stars": 20876,
-    "forks": 127,
-    "starsInPeriod": 299
-  },
-  {
-    "author": "k0sproject",
-    "name": "k0s",
-    "href": "https://github.com/k0sproject/k0s",
-    "description": "k0s - Zero Friction Kubernetes",
-    "language": "Go",
-    "stars": 496,
-    "forks": 16,
-    "starsInPeriod": 236
-  },
-  {
-    "author": "alacritty",
-    "name": "alacritty",
-    "href": "https://github.com/alacritty/alacritty",
-    "description": "A cross-platform, GPU-accelerated terminal emulator",
-    "language": "Rust",
-    "stars": 26507,
-    "forks": 1387,
-    "starsInPeriod": 20
-  },
-  {
-    "author": "elrumo",
-    "name": "macOS_Big_Sur_icons_replacements",
-    "href": "https://github.com/elrumo/macOS_Big_Sur_icons_replacements",
-    "description": "Replacement icons for popular apps in the style of macOS Big Sur",
-    "language": "Vue",
-    "stars": 2002,
-    "forks": 136,
-    "starsInPeriod": 430
-  },
-  {
-    "author": "rust-lang",
-    "name": "rustlings",
-    "href": "https://github.com/rust-lang/rustlings",
-    "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
-    "language": "Rust",
-    "stars": 12750,
-    "forks": 1607,
-    "starsInPeriod": 13
-  },
-  {
-    "author": "ripienaar",
-    "name": "free-for-dev",
-    "href": "https://github.com/ripienaar/free-for-dev",
-    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-    "language": "HTML",
-    "stars": 39959,
-    "forks": 4216,
-    "starsInPeriod": 490
-  },
-  {
-    "author": "lydiahallie",
-    "name": "javascript-questions",
-    "href": "https://github.com/lydiahallie/javascript-questions",
-    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
-    "language": "",
-    "stars": 24504,
-    "forks": 3190,
-    "starsInPeriod": 533
-  },
-  {
-    "author": "ryanmcdermott",
-    "name": "clean-code-javascript",
-    "href": "https://github.com/ryanmcdermott/clean-code-javascript",
-    "description": "🛁 Clean Code concepts adapted for JavaScript",
-    "language": "JavaScript",
-    "stars": 40934,
-    "forks": 4955,
-    "starsInPeriod": 422
-  },
-  {
-    "author": "yangshun",
-    "name": "tech-interview-handbook",
-    "href": "https://github.com/yangshun/tech-interview-handbook",
-    "description": "💯 Materials to help you rock your next coding interview",
-    "language": "JavaScript",
-    "stars": 46509,
-    "forks": 6584,
-    "starsInPeriod": 208
-  },
-  {
-    "author": "trekhleb",
-    "name": "javascript-algorithms",
-    "href": "https://github.com/trekhleb/javascript-algorithms",
-    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-    "language": "JavaScript",
-    "stars": 84867,
-    "forks": 14325,
-    "starsInPeriod": 290
-  },
-  {
-    "author": "joke2k",
-    "name": "faker",
-    "href": "https://github.com/joke2k/faker",
-    "description": "Faker is a Python package that generates fake data for you.",
-    "language": "Python",
-    "stars": 10914,
-    "forks": 1292,
-    "starsInPeriod": 58
-  },
-  {
-    "author": "MunGell",
-    "name": "awesome-for-beginners",
-    "href": "https://github.com/MunGell/awesome-for-beginners",
-    "description": "A list of awesome beginners-friendly projects.",
-    "language": "",
-    "stars": 24987,
-    "forks": 4104,
-    "starsInPeriod": 131
-  },
-  {
-    "author": "EbookFoundation",
-    "name": "free-programming-books",
-    "href": "https://github.com/EbookFoundation/free-programming-books",
-    "description": "📚 Freely available programming books",
-    "language": "",
-    "stars": 164934,
-    "forks": 39083,
-    "starsInPeriod": 181
+    "author": "NationalSecurityAgency",
+    "name": "ghidra",
+    "href": "https://github.com/NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework",
+    "language": "Java",
+    "stars": 23603,
+    "forks": 3209,
+    "starsInPeriod": 116
   },
   {
     "author": "bitcoin",
@@ -205,48 +25,228 @@
     "href": "https://github.com/bitcoin/bitcoin",
     "description": "Bitcoin Core integration/staging tree",
     "language": "C++",
-    "stars": 45984,
-    "forks": 26635,
-    "starsInPeriod": 25
+    "stars": 46821,
+    "forks": 26846,
+    "starsInPeriod": 134
   },
   {
-    "author": "home-assistant",
-    "name": "core",
-    "href": "https://github.com/home-assistant/core",
-    "description": "🏡 Open source home automation that puts local control and privacy first",
+    "author": "GitSquared",
+    "name": "edex-ui",
+    "href": "https://github.com/GitSquared/edex-ui",
+    "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "language": "JavaScript",
+    "stars": 25318,
+    "forks": 1393,
+    "starsInPeriod": 34
+  },
+  {
+    "author": "changkun",
+    "name": "modern-cpp-tutorial",
+    "href": "https://github.com/changkun/modern-cpp-tutorial",
+    "description": "📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/",
+    "language": "C++",
+    "stars": 10596,
+    "forks": 1356,
+    "starsInPeriod": 50
+  },
+  {
+    "author": "vijishmadhavan",
+    "name": "ArtLine",
+    "href": "https://github.com/vijishmadhavan/ArtLine",
+    "description": "A Deep Learning based project for creating line art portraits.",
+    "language": "Jupyter Notebook",
+    "stars": 805,
+    "forks": 75,
+    "starsInPeriod": 131
+  },
+  {
+    "author": "microsoft",
+    "name": "playwright",
+    "href": "https://github.com/microsoft/playwright",
+    "description": "Node.js library to automate Chromium, Firefox and WebKit with a single API",
+    "language": "TypeScript",
+    "stars": 19334,
+    "forks": 774,
+    "starsInPeriod": 321
+  },
+  {
+    "author": "ocornut",
+    "name": "imgui",
+    "href": "https://github.com/ocornut/imgui",
+    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "language": "C++",
+    "stars": 25740,
+    "forks": 4286,
+    "starsInPeriod": 66
+  },
+  {
+    "author": "microsoft",
+    "name": "Cognitive-Samples-IntelligentKiosk",
+    "href": "https://github.com/microsoft/Cognitive-Samples-IntelligentKiosk",
+    "description": "Welcome to the Intelligent Kiosk Sample! Here you will find several demos showcasing workflows and experiences built on top of the Microsoft Cognitive Services.",
+    "language": "C#",
+    "stars": 795,
+    "forks": 482,
+    "starsInPeriod": 45
+  },
+  {
+    "author": "h2oai",
+    "name": "wave",
+    "href": "https://github.com/h2oai/wave",
+    "description": "Realtime Web Apps and Dashboards for Python",
     "language": "Python",
-    "stars": 37176,
-    "forks": 12214,
-    "starsInPeriod": 24
+    "stars": 998,
+    "forks": 34,
+    "starsInPeriod": 452
   },
   {
-    "author": "Concordium",
-    "name": "Testnet3-Challenges",
-    "href": "https://github.com/Concordium/Testnet3-Challenges",
-    "description": "This repo is dedicated to Concordium Incentivized Testnet3.",
-    "language": "",
-    "stars": 324,
-    "forks": 523,
-    "starsInPeriod": 7
+    "author": "thangchung",
+    "name": "clean-code-dotnet",
+    "href": "https://github.com/thangchung/clean-code-dotnet",
+    "description": "🛁 Clean Code concepts and tools adapted for .NET",
+    "language": "C#",
+    "stars": 2891,
+    "forks": 506,
+    "starsInPeriod": 39
   },
   {
-    "author": "Asabeneh",
-    "name": "30-Days-Of-Python",
-    "href": "https://github.com/Asabeneh/30-Days-Of-Python",
-    "description": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
-    "language": "Python",
-    "stars": 2948,
-    "forks": 684,
-    "starsInPeriod": 203
-  },
-  {
-    "author": "halfrost",
-    "name": "LeetCode-Go",
-    "href": "https://github.com/halfrost/LeetCode-Go",
-    "description": "✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",
-    "language": "Go",
-    "stars": 8935,
-    "forks": 1396,
+    "author": "bevyengine",
+    "name": "bevy",
+    "href": "https://github.com/bevyengine/bevy",
+    "description": "A refreshingly simple data-driven game engine built in Rust",
+    "language": "Rust",
+    "stars": 5617,
+    "forks": 425,
     "starsInPeriod": 43
+  },
+  {
+    "author": "eugeneyan",
+    "name": "applied-ml",
+    "href": "https://github.com/eugeneyan/applied-ml",
+    "description": "📚 Papers by organizations sharing their work on applied data science & machine learning.",
+    "language": "",
+    "stars": 4657,
+    "forks": 668,
+    "starsInPeriod": 70
+  },
+  {
+    "author": "UnityTechnologies",
+    "name": "open-project-1",
+    "href": "https://github.com/UnityTechnologies/open-project-1",
+    "description": "Unity Open Project #1: Action-adventure",
+    "language": "C#",
+    "stars": 2363,
+    "forks": 861,
+    "starsInPeriod": 26
+  },
+  {
+    "author": "abuanwar072",
+    "name": "E-commerce-Complete-Flutter-UI",
+    "href": "https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI",
+    "description": null,
+    "language": "Dart",
+    "stars": 816,
+    "forks": 320,
+    "starsInPeriod": 15
+  },
+  {
+    "author": "nwtgck",
+    "name": "piping-server",
+    "href": "https://github.com/nwtgck/piping-server",
+    "description": "Infinitely transfer between every device over pure HTTP: designed for everyone including people using Unix pipe and even for browser users",
+    "language": "TypeScript",
+    "stars": 854,
+    "forks": 44,
+    "starsInPeriod": 90
+  },
+  {
+    "author": "gnxbr",
+    "name": "Fully-Undetectable-Techniques",
+    "href": "https://github.com/gnxbr/Fully-Undetectable-Techniques",
+    "description": null,
+    "language": "C",
+    "stars": 232,
+    "forks": 34,
+    "starsInPeriod": 77
+  },
+  {
+    "author": "JetBrains",
+    "name": "compose-jb",
+    "href": "https://github.com/JetBrains/compose-jb",
+    "description": "Jetpack Compose for Desktop, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.",
+    "language": "Kotlin",
+    "stars": 2484,
+    "forks": 81,
+    "starsInPeriod": 86
+  },
+  {
+    "author": "vlang",
+    "name": "v",
+    "href": "https://github.com/vlang/v",
+    "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "language": "V",
+    "stars": 20025,
+    "forks": 1223,
+    "starsInPeriod": 27
+  },
+  {
+    "author": "chakra-ui",
+    "name": "chakra-ui",
+    "href": "https://github.com/chakra-ui/chakra-ui",
+    "description": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
+    "language": "TypeScript",
+    "stars": 13318,
+    "forks": 987,
+    "starsInPeriod": 92
+  },
+  {
+    "author": "EvineDeng",
+    "name": "jd-base",
+    "href": "https://github.com/EvineDeng/jd-base",
+    "description": "京东薅羊毛脚本https://github.com/lxk0301/jd_scripts 的shell套壳工具",
+    "language": "Shell",
+    "stars": 713,
+    "forks": 219,
+    "starsInPeriod": 51
+  },
+  {
+    "author": "SuLingGG",
+    "name": "OpenWrt-Rpi",
+    "href": "https://github.com/SuLingGG/OpenWrt-Rpi",
+    "description": "Raspberry Pi & NanoPi R2S & G-Dock & x86 OpenWrt Compile Project. (Based on Github Action / Daily Update)",
+    "language": "Shell",
+    "stars": 720,
+    "forks": 219,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "supertokens",
+    "name": "supertokens-core",
+    "href": "https://github.com/supertokens/supertokens-core",
+    "description": "Open source alternative to Auth0 / Firebase Auth / AWS Cognito",
+    "language": "Java",
+    "stars": 1323,
+    "forks": 32,
+    "starsInPeriod": 281
+  },
+  {
+    "author": "flutter",
+    "name": "flutter",
+    "href": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "language": "Dart",
+    "stars": 109281,
+    "forks": 15410,
+    "starsInPeriod": 122
+  },
+  {
+    "author": "r-spacex",
+    "name": "SpaceX-API",
+    "href": "https://github.com/r-spacex/SpaceX-API",
+    "description": "🚀 Open Source REST API for rocket, core, capsule, pad, and launch data",
+    "language": "JavaScript",
+    "stars": 7039,
+    "forks": 567,
+    "starsInPeriod": 8
   }
 ]
