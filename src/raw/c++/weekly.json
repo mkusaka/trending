@@ -1,123 +1,23 @@
 [
   {
-    "author": "apache",
-    "name": "incubator-brpc",
-    "href": "https://github.com/apache/incubator-brpc",
-    "description": "Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services. \"brpc\" means \"better RPC\".",
+    "author": "vnpy",
+    "name": "vnpy",
+    "href": "https://github.com/vnpy/vnpy",
+    "description": "基于Python的开源量化交易平台开发框架",
     "language": "C++",
-    "stars": 10875,
-    "forks": 2669,
-    "starsInPeriod": 103
+    "stars": 13442,
+    "forks": 5736,
+    "starsInPeriod": 73
   },
   {
-    "author": "google",
-    "name": "flatbuffers",
-    "href": "https://github.com/google/flatbuffers",
-    "description": "FlatBuffers: Memory Efficient Serialization Library",
+    "author": "SerenityOS",
+    "name": "serenity",
+    "href": "https://github.com/SerenityOS/serenity",
+    "description": "The Serenity Operating System 🐞",
     "language": "C++",
-    "stars": 15337,
-    "forks": 2367,
-    "starsInPeriod": 52
-  },
-  {
-    "author": "microsoft",
-    "name": "PowerToys",
-    "href": "https://github.com/microsoft/PowerToys",
-    "description": "Windows system utilities to maximize productivity",
-    "language": "C++",
-    "stars": 42888,
-    "forks": 2344,
-    "starsInPeriod": 922
-  },
-  {
-    "author": "google",
-    "name": "mediapipe",
-    "href": "https://github.com/google/mediapipe",
-    "description": "MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.",
-    "language": "C++",
-    "stars": 9722,
-    "forks": 1828,
-    "starsInPeriod": 127
-  },
-  {
-    "author": "USTC-Hackergame",
-    "name": "hackergame2020-writeups",
-    "href": "https://github.com/USTC-Hackergame/hackergame2020-writeups",
-    "description": "中国科学技术大学第七届信息安全大赛的官方与非官方题解",
-    "language": "C++",
-    "stars": 314,
-    "forks": 58,
-    "starsInPeriod": 130
-  },
-  {
-    "author": "zeromq",
-    "name": "libzmq",
-    "href": "https://github.com/zeromq/libzmq",
-    "description": "ZeroMQ core engine in C++, implements ZMTP/3.1",
-    "language": "C++",
-    "stars": 6535,
-    "forks": 1854,
-    "starsInPeriod": 24
-  },
-  {
-    "author": "milvus-io",
-    "name": "milvus",
-    "href": "https://github.com/milvus-io/milvus",
-    "description": "An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy",
-    "language": "C++",
-    "stars": 4444,
-    "forks": 695,
+    "stars": 7674,
+    "forks": 671,
     "starsInPeriod": 75
-  },
-  {
-    "author": "tdlib",
-    "name": "telegram-bot-api",
-    "href": "https://github.com/tdlib/telegram-bot-api",
-    "description": null,
-    "language": "C++",
-    "stars": 574,
-    "forks": 58,
-    "starsInPeriod": 71
-  },
-  {
-    "author": "topjohnwu",
-    "name": "Magisk",
-    "href": "https://github.com/topjohnwu/Magisk",
-    "description": "The Magic Mask for Android",
-    "language": "C++",
-    "stars": 14147,
-    "forks": 2343,
-    "starsInPeriod": 137
-  },
-  {
-    "author": "protocolbuffers",
-    "name": "protobuf",
-    "href": "https://github.com/protocolbuffers/protobuf",
-    "description": "Protocol Buffers - Google's data interchange format",
-    "language": "C++",
-    "stars": 44768,
-    "forks": 12025,
-    "starsInPeriod": 100
-  },
-  {
-    "author": "Light-City",
-    "name": "CPlusPlusThings",
-    "href": "https://github.com/Light-City/CPlusPlusThings",
-    "description": "C++那些事",
-    "language": "C++",
-    "stars": 8008,
-    "forks": 1842,
-    "starsInPeriod": 171
-  },
-  {
-    "author": "MarlinFirmware",
-    "name": "Marlin",
-    "href": "https://github.com/MarlinFirmware/Marlin",
-    "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
-    "language": "C++",
-    "stars": 8868,
-    "forks": 12287,
-    "starsInPeriod": 95
   },
   {
     "author": "ossrs",
@@ -125,128 +25,228 @@
     "href": "https://github.com/ossrs/srs",
     "description": "SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.",
     "language": "C++",
-    "stars": 10016,
-    "forks": 3366,
-    "starsInPeriod": 71
+    "stars": 10363,
+    "forks": 3452,
+    "starsInPeriod": 101
   },
   {
-    "author": "tensorflow",
-    "name": "tensorflow",
-    "href": "https://github.com/tensorflow/tensorflow",
-    "description": "An Open Source Machine Learning Framework for Everyone",
+    "author": "bitcoin",
+    "name": "bitcoin",
+    "href": "https://github.com/bitcoin/bitcoin",
+    "description": "Bitcoin Core integration/staging tree",
     "language": "C++",
-    "stars": 150151,
-    "forks": 83224,
-    "starsInPeriod": 270
+    "stars": 46946,
+    "forks": 26855,
+    "starsInPeriod": 459
   },
   {
-    "author": "catchorg",
-    "name": "Catch2",
-    "href": "https://github.com/catchorg/Catch2",
-    "description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)",
+    "author": "stenzek",
+    "name": "duckstation",
+    "href": "https://github.com/stenzek/duckstation",
+    "description": "Fast PlayStation 1 emulator for PC and Android",
     "language": "C++",
-    "stars": 12344,
-    "forks": 2072,
-    "starsInPeriod": 51
+    "stars": 1024,
+    "forks": 82,
+    "starsInPeriod": 472
   },
   {
-    "author": "VowpalWabbit",
-    "name": "vowpal_wabbit",
-    "href": "https://github.com/VowpalWabbit/vowpal_wabbit",
-    "description": "Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.",
+    "author": "microsoft",
+    "name": "STL",
+    "href": "https://github.com/microsoft/STL",
+    "description": "MSVC's implementation of the C++ Standard Library.",
     "language": "C++",
-    "stars": 7305,
-    "forks": 1696,
+    "stars": 6286,
+    "forks": 766,
+    "starsInPeriod": 45
+  },
+  {
+    "author": "commaai",
+    "name": "openpilot",
+    "href": "https://github.com/commaai/openpilot",
+    "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.",
+    "language": "C++",
+    "stars": 21587,
+    "forks": 4499,
+    "starsInPeriod": 957
+  },
+  {
+    "author": "mytechnotalent",
+    "name": "Reverse-Engineering-Tutorial",
+    "href": "https://github.com/mytechnotalent/Reverse-Engineering-Tutorial",
+    "description": "A comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.",
+    "language": "C++",
+    "stars": 1800,
+    "forks": 133,
+    "starsInPeriod": 549
+  },
+  {
+    "author": "yhirose",
+    "name": "cpp-httplib",
+    "href": "https://github.com/yhirose/cpp-httplib",
+    "description": "A C++ header-only HTTP/HTTPS server and client library",
+    "language": "C++",
+    "stars": 4161,
+    "forks": 935,
+    "starsInPeriod": 61
+  },
+  {
+    "author": "qt",
+    "name": "qtbase",
+    "href": "https://github.com/qt/qtbase",
+    "description": "Qt Base (Core, Gui, Widgets, Network, ...)",
+    "language": "C++",
+    "stars": 1210,
+    "forks": 607,
     "starsInPeriod": 16
   },
   {
-    "author": "sogou",
-    "name": "workflow",
-    "href": "https://github.com/sogou/workflow",
-    "description": "C++ Programming Paradigm with Asynchronous Networking",
+    "author": "ocornut",
+    "name": "imgui",
+    "href": "https://github.com/ocornut/imgui",
+    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
     "language": "C++",
-    "stars": 2997,
-    "forks": 589,
-    "starsInPeriod": 253
+    "stars": 25820,
+    "forks": 4290,
+    "starsInPeriod": 311
+  },
+  {
+    "author": "godotengine",
+    "name": "godot",
+    "href": "https://github.com/godotengine/godot",
+    "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "language": "C++",
+    "stars": 35306,
+    "forks": 6681,
+    "starsInPeriod": 147
+  },
+  {
+    "author": "sphawes",
+    "name": "index",
+    "href": "https://github.com/sphawes/index",
+    "description": "The Index is an open source pick and place machine.",
+    "language": "C++",
+    "stars": 918,
+    "forks": 106,
+    "starsInPeriod": 56
+  },
+  {
+    "author": "typesense",
+    "name": "typesense",
+    "href": "https://github.com/typesense/typesense",
+    "description": "Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍",
+    "language": "C++",
+    "stars": 4409,
+    "forks": 93,
+    "starsInPeriod": 210
+  },
+  {
+    "author": "OneLoneCoder",
+    "name": "olcPixelGameEngine",
+    "href": "https://github.com/OneLoneCoder/olcPixelGameEngine",
+    "description": "The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects",
+    "language": "C++",
+    "stars": 1853,
+    "forks": 520,
+    "starsInPeriod": 31
+  },
+  {
+    "author": "google",
+    "name": "tink",
+    "href": "https://github.com/google/tink",
+    "description": "Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.",
+    "language": "C++",
+    "stars": 10875,
+    "forks": 894,
+    "starsInPeriod": 44
+  },
+  {
+    "author": "apache",
+    "name": "incubator-doris",
+    "href": "https://github.com/apache/incubator-doris",
+    "description": "Apache Doris (Incubating)",
+    "language": "C++",
+    "stars": 2138,
+    "forks": 638,
+    "starsInPeriod": 25
+  },
+  {
+    "author": "Tencent",
+    "name": "TNN",
+    "href": "https://github.com/Tencent/TNN",
+    "description": "TNN：由腾讯优图实验室打造，移动端高性能、轻量级推理框架，同时拥有跨平台、高性能、模型压缩、代码裁剪等众多突出优势。TNN框架在原有Rapidnet、ncnn框架的基础上进一步加强了移动端设备的支持以及性能优化，同时也借鉴了业界主流开源框架高性能和良好拓展性的优点。目前TNN已经在手Q、微视、P图等应用中落地，欢迎大家参与协同共建，促进TNN推理框架进一步完善。",
+    "language": "C++",
+    "stars": 2208,
+    "forks": 347,
+    "starsInPeriod": 48
+  },
+  {
+    "author": "cameron314",
+    "name": "concurrentqueue",
+    "href": "https://github.com/cameron314/concurrentqueue",
+    "description": "A fast multi-producer, multi-consumer lock-free concurrent queue for C++11",
+    "language": "C++",
+    "stars": 5094,
+    "forks": 1070,
+    "starsInPeriod": 29
+  },
+  {
+    "author": "osquery",
+    "name": "osquery",
+    "href": "https://github.com/osquery/osquery",
+    "description": "SQL powered operating system instrumentation, monitoring, and analytics.",
+    "language": "C++",
+    "stars": 17456,
+    "forks": 2086,
+    "starsInPeriod": 31
+  },
+  {
+    "author": "yamashi",
+    "name": "CyberEngineTweaks",
+    "href": "https://github.com/yamashi/CyberEngineTweaks",
+    "description": "Performance boost, bug fixes and hacks for fun for Cyberpunk 2077",
+    "language": "C++",
+    "stars": 2481,
+    "forks": 80,
+    "starsInPeriod": 2005
+  },
+  {
+    "author": "protocolbuffers",
+    "name": "protobuf",
+    "href": "https://github.com/protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "language": "C++",
+    "stars": 45373,
+    "forks": 12166,
+    "starsInPeriod": 125
+  },
+  {
+    "author": "pytorch",
+    "name": "pytorch",
+    "href": "https://github.com/pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "language": "C++",
+    "stars": 44913,
+    "forks": 11887,
+    "starsInPeriod": 224
   },
   {
     "author": "microsoft",
-    "name": "AirSim",
-    "href": "https://github.com/microsoft/AirSim",
-    "description": "Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research",
+    "name": "ProjectReunion",
+    "href": "https://github.com/microsoft/ProjectReunion",
+    "description": "Project Reunion is an evolution of the Windows developer platform that will make it more compatible, agile, modern and open.",
     "language": "C++",
-    "stars": 10901,
-    "forks": 2978,
-    "starsInPeriod": 26
+    "stars": 1211,
+    "forks": 56,
+    "starsInPeriod": 115
   },
   {
-    "author": "microsoft",
-    "name": "terminal",
-    "href": "https://github.com/microsoft/terminal",
-    "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "author": "FreeCAD",
+    "name": "FreeCAD",
+    "href": "https://github.com/FreeCAD/FreeCAD",
+    "description": "This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker",
     "language": "C++",
-    "stars": 69381,
-    "forks": 6359,
-    "starsInPeriod": 244
-  },
-  {
-    "author": "cmu-snap",
-    "name": "pigasus",
-    "href": "https://github.com/cmu-snap/pigasus",
-    "description": "100Gbps Intrusion Detection and Prevention System",
-    "language": "C++",
-    "stars": 438,
-    "forks": 34,
-    "starsInPeriod": 103
-  },
-  {
-    "author": "dusty-nv",
-    "name": "jetson-inference",
-    "href": "https://github.com/dusty-nv/jetson-inference",
-    "description": "Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.",
-    "language": "C++",
-    "stars": 3750,
-    "forks": 1669,
-    "starsInPeriod": 43
-  },
-  {
-    "author": "envoyproxy",
-    "name": "envoy",
-    "href": "https://github.com/envoyproxy/envoy",
-    "description": "Cloud-native high-performance edge/middle/service proxy",
-    "language": "C++",
-    "stars": 15222,
-    "forks": 2650,
-    "starsInPeriod": 79
-  },
-  {
-    "author": "uNetworking",
-    "name": "uWebSockets",
-    "href": "https://github.com/uNetworking/uWebSockets",
-    "description": "Simple, secure & standards compliant web server for the most demanding of applications",
-    "language": "C++",
-    "stars": 11973,
-    "forks": 1251,
-    "starsInPeriod": 27
-  },
-  {
-    "author": "scarsty",
-    "name": "kys-cpp",
-    "href": "https://github.com/scarsty/kys-cpp",
-    "description": "《金庸群侠传》c++复刻版，已完工",
-    "language": "C++",
-    "stars": 1046,
-    "forks": 182,
-    "starsInPeriod": 426
-  },
-  {
-    "author": "acidanthera",
-    "name": "WhateverGreen",
-    "href": "https://github.com/acidanthera/WhateverGreen",
-    "description": "Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs",
-    "language": "C++",
-    "stars": 2203,
-    "forks": 390,
-    "starsInPeriod": 18
+    "stars": 8237,
+    "forks": 2086,
+    "starsInPeriod": 50
   }
 ]

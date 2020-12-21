@@ -1,183 +1,23 @@
 [
   {
-    "author": "Marak",
-    "name": "faker.js",
-    "href": "https://github.com/Marak/faker.js",
-    "description": "generate massive amounts of realistic fake data in Node.js and the browser",
+    "author": "GoogleChrome",
+    "name": "chrome-extensions-samples",
+    "href": "https://github.com/GoogleChrome/chrome-extensions-samples",
+    "description": "Chrome Extensions Samples",
     "language": "JavaScript",
-    "stars": 27642,
-    "forks": 2382,
-    "starsInPeriod": 1979
+    "stars": 7115,
+    "forks": 4629,
+    "starsInPeriod": 146
   },
   {
-    "author": "ffmpegwasm",
-    "name": "ffmpeg.wasm",
-    "href": "https://github.com/ffmpegwasm/ffmpeg.wasm",
-    "description": "FFmpeg for browser and node, powered by WebAssembly",
+    "author": "MichMich",
+    "name": "MagicMirror",
+    "href": "https://github.com/MichMich/MagicMirror",
+    "description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.",
     "language": "JavaScript",
-    "stars": 2585,
-    "forks": 94,
-    "starsInPeriod": 295
-  },
-  {
-    "author": "mermaid-js",
-    "name": "mermaid",
-    "href": "https://github.com/mermaid-js/mermaid",
-    "description": "Generation of diagram and flowchart from text in a similar manner as markdown",
-    "language": "JavaScript",
-    "stars": 32830,
-    "forks": 2225,
-    "starsInPeriod": 214
-  },
-  {
-    "author": "PavelDoGreat",
-    "name": "WebGL-Fluid-Simulation",
-    "href": "https://github.com/PavelDoGreat/WebGL-Fluid-Simulation",
-    "description": "Play with fluids in your browser (works even on mobile)",
-    "language": "JavaScript",
-    "stars": 10088,
-    "forks": 925,
-    "starsInPeriod": 811
-  },
-  {
-    "author": "yogeshojha",
-    "name": "rengine",
-    "href": "https://github.com/yogeshojha/rengine",
-    "description": "reNgine is an automated reconnaissance framework meant for information gathering during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.",
-    "language": "JavaScript",
-    "stars": 2039,
-    "forks": 295,
-    "starsInPeriod": 477
-  },
-  {
-    "author": "ryanmcdermott",
-    "name": "clean-code-javascript",
-    "href": "https://github.com/ryanmcdermott/clean-code-javascript",
-    "description": "🛁 Clean Code concepts adapted for JavaScript",
-    "language": "JavaScript",
-    "stars": 40913,
-    "forks": 4953,
-    "starsInPeriod": 896
-  },
-  {
-    "author": "iptv-org",
-    "name": "iptv",
-    "href": "https://github.com/iptv-org/iptv",
-    "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
-    "language": "JavaScript",
-    "stars": 20859,
-    "forks": 126,
-    "starsInPeriod": 472
-  },
-  {
-    "author": "newbee-ltd",
-    "name": "newbee-mall-vue3-app",
-    "href": "https://github.com/newbee-ltd/newbee-mall-vue3-app",
-    "description": "新蜂商城Vue3版本",
-    "language": "JavaScript",
-    "stars": 478,
-    "forks": 114,
-    "starsInPeriod": 227
-  },
-  {
-    "author": "w37fhy",
-    "name": "QuantumultX",
-    "href": "https://github.com/w37fhy/QuantumultX",
-    "description": "同步和更新大佬脚本库，更新懒人配置",
-    "language": "JavaScript",
-    "stars": 347,
-    "forks": 82,
-    "starsInPeriod": 108
-  },
-  {
-    "author": "ix64",
-    "name": "unlock-music",
-    "href": "https://github.com/ix64/unlock-music",
-    "description": "Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。",
-    "language": "JavaScript",
-    "stars": 5253,
-    "forks": 1048,
-    "starsInPeriod": 154
-  },
-  {
-    "author": "yangshun",
-    "name": "tech-interview-handbook",
-    "href": "https://github.com/yangshun/tech-interview-handbook",
-    "description": "💯 Materials to help you rock your next coding interview",
-    "language": "JavaScript",
-    "stars": 46492,
-    "forks": 6582,
-    "starsInPeriod": 635
-  },
-  {
-    "author": "chavyleung",
-    "name": "scripts",
-    "href": "https://github.com/chavyleung/scripts",
-    "description": null,
-    "language": "JavaScript",
-    "stars": 1656,
-    "forks": 560,
-    "starsInPeriod": 80
-  },
-  {
-    "author": "lerna",
-    "name": "lerna",
-    "href": "https://github.com/lerna/lerna",
-    "description": "🐉 A tool for managing JavaScript projects with multiple packages.",
-    "language": "JavaScript",
-    "stars": 25360,
-    "forks": 1636,
-    "starsInPeriod": 117
-  },
-  {
-    "author": "socketio",
-    "name": "socket.io",
-    "href": "https://github.com/socketio/socket.io",
-    "description": "Realtime application framework (Node.JS server)",
-    "language": "JavaScript",
-    "stars": 51626,
-    "forks": 9320,
-    "starsInPeriod": 222
-  },
-  {
-    "author": "chinese-poetry",
-    "name": "chinese-poetry",
-    "href": "https://github.com/chinese-poetry/chinese-poetry",
-    "description": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。 阿里招 Python P6/P7 上海张江, gaojunqi@outlook.com",
-    "language": "JavaScript",
-    "stars": 30394,
-    "forks": 6228,
-    "starsInPeriod": 138
-  },
-  {
-    "author": "airbnb",
-    "name": "javascript",
-    "href": "https://github.com/airbnb/javascript",
-    "description": "JavaScript Style Guide",
-    "language": "JavaScript",
-    "stars": 101485,
-    "forks": 19757,
-    "starsInPeriod": 287
-  },
-  {
-    "author": "denysdovhan",
-    "name": "wtfjs",
-    "href": "https://github.com/denysdovhan/wtfjs",
-    "description": "🤪 A list of funny and tricky JavaScript examples",
-    "language": "JavaScript",
-    "stars": 19870,
-    "forks": 1287,
-    "starsInPeriod": 372
-  },
-  {
-    "author": "mui-org",
-    "name": "material-ui",
-    "href": "https://github.com/mui-org/material-ui",
-    "description": "React components for faster and easier web development. Build your own design system, or start with Material Design.",
-    "language": "JavaScript",
-    "stars": 62475,
-    "forks": 19051,
-    "starsInPeriod": 228
+    "stars": 13480,
+    "forks": 3392,
+    "starsInPeriod": 254
   },
   {
     "author": "mrdoob",
@@ -185,68 +25,228 @@
     "href": "https://github.com/mrdoob/three.js",
     "description": "JavaScript 3D library.",
     "language": "JavaScript",
-    "stars": 64830,
-    "forks": 25591,
-    "starsInPeriod": 186
+    "stars": 65720,
+    "forks": 26030,
+    "starsInPeriod": 222
   },
   {
-    "author": "michalsnik",
-    "name": "aos",
-    "href": "https://github.com/michalsnik/aos",
-    "description": "Animate on scroll library",
+    "author": "ruicky",
+    "name": "jd_sign_bot",
+    "href": "https://github.com/ruicky/jd_sign_bot",
+    "description": "京东签到机器人",
     "language": "JavaScript",
-    "stars": 14624,
-    "forks": 1613,
-    "starsInPeriod": 215
+    "stars": 2123,
+    "forks": 3428,
+    "starsInPeriod": 176
   },
   {
-    "author": "GoogleChrome",
-    "name": "lighthouse",
-    "href": "https://github.com/GoogleChrome/lighthouse",
-    "description": "Automated auditing, performance metrics, and best practices for the web.",
+    "author": "RobinLinus",
+    "name": "snapdrop",
+    "href": "https://github.com/RobinLinus/snapdrop",
+    "description": "A Progressive Web App for local file sharing",
     "language": "JavaScript",
-    "stars": 21123,
-    "forks": 7397,
+    "stars": 5824,
+    "forks": 572,
+    "starsInPeriod": 1524
+  },
+  {
+    "author": "goldbergyoni",
+    "name": "nodebestpractices",
+    "href": "https://github.com/goldbergyoni/nodebestpractices",
+    "description": "✅ The Node.js best practices list (December 2020)",
+    "language": "JavaScript",
+    "stars": 57296,
+    "forks": 5519,
+    "starsInPeriod": 920
+  },
+  {
+    "author": "Miodec",
+    "name": "monkeytype",
+    "href": "https://github.com/Miodec/monkeytype",
+    "description": "A minimalistic typing test",
+    "language": "JavaScript",
+    "stars": 1124,
+    "forks": 186,
+    "starsInPeriod": 92
+  },
+  {
+    "author": "lockfale",
+    "name": "OSINT-Framework",
+    "href": "https://github.com/lockfale/OSINT-Framework",
+    "description": "OSINT Framework",
+    "language": "JavaScript",
+    "stars": 2324,
+    "forks": 550,
+    "starsInPeriod": 44
+  },
+  {
+    "author": "lgwebdream",
+    "name": "FE-Interview",
+    "href": "https://github.com/lgwebdream/FE-Interview",
+    "description": "前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器",
+    "language": "JavaScript",
+    "stars": 2143,
+    "forks": 286,
+    "starsInPeriod": 174
+  },
+  {
+    "author": "video-dev",
+    "name": "hls.js",
+    "href": "https://github.com/video-dev/hls.js",
+    "description": "JavaScript HLS client using Media Source Extension",
+    "language": "JavaScript",
+    "stars": 9045,
+    "forks": 1817,
+    "starsInPeriod": 201
+  },
+  {
+    "author": "locomotivemtl",
+    "name": "locomotive-scroll",
+    "href": "https://github.com/locomotivemtl/locomotive-scroll",
+    "description": "🛤 Detection of elements in viewport & smooth scrolling with parallax.",
+    "language": "JavaScript",
+    "stars": 2587,
+    "forks": 301,
+    "starsInPeriod": 251
+  },
+  {
+    "author": "jhu-ep-coursera",
+    "name": "fullstack-course4",
+    "href": "https://github.com/jhu-ep-coursera/fullstack-course4",
+    "description": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
+    "language": "JavaScript",
+    "stars": 4470,
+    "forks": 7367,
+    "starsInPeriod": 54
+  },
+  {
+    "author": "discord",
+    "name": "discord-api-docs",
+    "href": "https://github.com/discord/discord-api-docs",
+    "description": "Official Discord API Documentation",
+    "language": "JavaScript",
+    "stars": 2471,
+    "forks": 636,
     "starsInPeriod": 53
   },
   {
-    "author": "invertase",
-    "name": "react-native-firebase",
-    "href": "https://github.com/invertase/react-native-firebase",
-    "description": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.",
+    "author": "30-seconds",
+    "name": "30-seconds-of-code",
+    "href": "https://github.com/30-seconds/30-seconds-of-code",
+    "description": "Short JavaScript code snippets for all your development needs",
     "language": "JavaScript",
-    "stars": 8499,
-    "forks": 1617,
+    "stars": 66463,
+    "forks": 7343,
+    "starsInPeriod": 314
+  },
+  {
+    "author": "leonardomso",
+    "name": "33-js-concepts",
+    "href": "https://github.com/leonardomso/33-js-concepts",
+    "description": "📜 33 concepts every JavaScript developer should know.",
+    "language": "JavaScript",
+    "stars": 34208,
+    "forks": 4085,
+    "starsInPeriod": 181
+  },
+  {
+    "author": "docker",
+    "name": "getting-started",
+    "href": "https://github.com/docker/getting-started",
+    "description": "Getting started with Docker",
+    "language": "JavaScript",
+    "stars": 564,
+    "forks": 209,
+    "starsInPeriod": 28
+  },
+  {
+    "author": "signalapp",
+    "name": "Signal-Desktop",
+    "href": "https://github.com/signalapp/Signal-Desktop",
+    "description": "Signal — Private Messenger for Windows, Mac, and Linux",
+    "language": "JavaScript",
+    "stars": 6470,
+    "forks": 1230,
+    "starsInPeriod": 43
+  },
+  {
+    "author": "npm",
+    "name": "cli",
+    "href": "https://github.com/npm/cli",
+    "description": "the package manager for JavaScript",
+    "language": "JavaScript",
+    "stars": 3884,
+    "forks": 1054,
     "starsInPeriod": 38
   },
   {
-    "author": "trekhleb",
-    "name": "javascript-algorithms",
-    "href": "https://github.com/trekhleb/javascript-algorithms",
-    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "author": "MetaMask",
+    "name": "metamask-extension",
+    "href": "https://github.com/MetaMask/metamask-extension",
+    "description": "🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites",
     "language": "JavaScript",
-    "stars": 84852,
-    "forks": 14323,
-    "starsInPeriod": 692
+    "stars": 4083,
+    "forks": 1622,
+    "starsInPeriod": 21
   },
   {
-    "author": "standard",
-    "name": "standard",
-    "href": "https://github.com/standard/standard",
-    "description": "🌟 JavaScript Style Guide, with linter & automatic code fixer",
+    "author": "builderbook",
+    "name": "builderbook",
+    "href": "https://github.com/builderbook/builderbook",
+    "description": "Open source web application to learn JS stack: React, Material-UI, Next.js, Node.js, Express.js, Mongoose, MongoDB database.",
     "language": "JavaScript",
-    "stars": 24665,
-    "forks": 1923,
-    "starsInPeriod": 70
+    "stars": 2493,
+    "forks": 571,
+    "starsInPeriod": 284
   },
   {
-    "author": "gatsbyjs",
-    "name": "gatsby",
-    "href": "https://github.com/gatsbyjs/gatsby",
-    "description": "Build blazing fast, modern apps and websites with React",
+    "author": "yyhsong",
+    "name": "iDataV",
+    "href": "https://github.com/yyhsong/iDataV",
+    "description": "大屏数据可视化 Big screen data visualization demo",
     "language": "JavaScript",
-    "stars": 47828,
-    "forks": 9048,
-    "starsInPeriod": 119
+    "stars": 2628,
+    "forks": 934,
+    "starsInPeriod": 74
+  },
+  {
+    "author": "electron-react-boilerplate",
+    "name": "electron-react-boilerplate",
+    "href": "https://github.com/electron-react-boilerplate/electron-react-boilerplate",
+    "description": "A Foundation for Scalable Cross-Platform Apps",
+    "language": "JavaScript",
+    "stars": 16493,
+    "forks": 2674,
+    "starsInPeriod": 84
+  },
+  {
+    "author": "maplibre",
+    "name": "maplibre-gl-js",
+    "href": "https://github.com/maplibre/maplibre-gl-js",
+    "description": "MapLibre GL is a free and open-source fork of @mapbox/mapbox-gl",
+    "language": "JavaScript",
+    "stars": 534,
+    "forks": 25,
+    "starsInPeriod": 131
+  },
+  {
+    "author": "freeCodeCamp",
+    "name": "freeCodeCamp",
+    "href": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.",
+    "language": "JavaScript",
+    "stars": 317864,
+    "forks": 25167,
+    "starsInPeriod": 334
+  },
+  {
+    "author": "gorhill",
+    "name": "uBlock",
+    "href": "https://github.com/gorhill/uBlock",
+    "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+    "language": "JavaScript",
+    "stars": 23036,
+    "forks": 1869,
+    "starsInPeriod": 105
   }
 ]

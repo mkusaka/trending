@@ -1,51 +1,51 @@
 # kotlin
-- [compose-jb](https://github.com/JetBrains/compose-jb)
-  - Jetpack Compose for Desktop, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
-- [legado](https://github.com/gedoor/legado)
-  - 阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+- [intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template)
+  - Template repository for creating plugins for IntelliJ Platform
+- [tivi](https://github.com/chrisbanes/tivi)
+  - Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.
+- [tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
+  - Free and open source manga reader for Android.
 - [VancedManager](https://github.com/YTVanced/VancedManager)
   - Vanced Installer
-- [ZY-Player-Android](https://github.com/vicedev/ZY-Player-Android)
-  - 基于https://github.com/Hunlongyu/ZY-Player 做的Android版本 资源播放器
+- [fenix](https://github.com/mozilla-mobile/fenix)
+  - Firefox for Android
 - [graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin)
   - Libraries for running GraphQL in Kotlin
-- [android-youtube-player](https://github.com/PierfrancescoSoffritti/android-youtube-player)
-  - YouTube Player library for Android and Chromecast, stable and customizable.
-- [Unciv](https://github.com/yairm210/Unciv)
-  - Open-source Android/Desktop remake of Civ V
-- [TapTap](https://github.com/KieronQuinn/TapTap)
-  - Port of the double tap on back of device feature from Android 11 to any Android 7.0+ device
-- [detekt](https://github.com/detekt/detekt)
-  - Static code analysis for Kotlin
-- [koin](https://github.com/InsertKoinIO/koin)
-  - Koin - a pragmatic lightweight dependency injection framework for Kotlin
-- [camera-samples](https://github.com/android/camera-samples)
-  - Multiple samples showing the best practices in camera APIs on Android.
-- [architecture-samples](https://github.com/android/architecture-samples)
-  - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
-- [ideavim](https://github.com/JetBrains/ideavim)
-  - Vim emulation plugin for IDEs based on the IntelliJ Platform
+- [Android](https://github.com/duckduckgo/Android)
+  - DuckDuckGo Android App
+- [material-components-android-examples](https://github.com/material-components/material-components-android-examples)
+  - Companion example apps and code for MDC-Android.
 - [Pokedex](https://github.com/skydoves/Pokedex)
   - 🗡️ Android Pokedex using Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
-- [javalin](https://github.com/tipsy/javalin)
-  - A simple and modern Java and Kotlin web framework
-- [p3c](https://github.com/alibaba/p3c)
-  - Alibaba Java Coding Guidelines pmd implements and IDE plugin
-- [android](https://github.com/home-assistant/android)
-  - 📱 Home Assistant Companion for Android
-- [Exposed](https://github.com/JetBrains/Exposed)
-  - Kotlin SQL Framework
-- [karel](https://github.com/fredoverflow/karel)
-  - Karel The Robot
+- [android-modular-architecture](https://github.com/VMadalin/android-modular-architecture)
+  - 📚 Sample Android Components Architecture on a modular word focused on the scalability, testability and maintainability written in Kotlin, following best practices using Jetpack.
+- [tachiyomi-extensions](https://github.com/tachiyomiorg/tachiyomi-extensions)
+  - Source extensions for the Tachiyomi app.
+- [compose-jb](https://github.com/JetBrains/compose-jb)
+  - Jetpack Compose for Desktop, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+- [mirai](https://github.com/mamoe/mirai)
+  - 高效率 QQ 机器人框架 / High-performance bot framework for Tencent QQ
+- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android)
+  - Native Android app using the Apple/Google exposure notification API.
+- [legado](https://github.com/gedoor/legado)
+  - 阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+- [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook)
+  - A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential
+- [sunflower](https://github.com/android/sunflower)
+  - A gardening app illustrating Android development best practices with Android Jetpack.
+- [detekt](https://github.com/detekt/detekt)
+  - Static code analysis for Kotlin
+- [camera-samples](https://github.com/android/camera-samples)
+  - Multiple samples showing the best practices in camera APIs on Android.
+- [ktor](https://github.com/ktorio/ktor)
+  - Framework for quickly creating connected applications in Kotlin with minimal effort
+- [material-dialogs](https://github.com/afollestad/material-dialogs)
+  - 😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android.
+- [RatPoison](https://github.com/TheRatCode/RatPoison)
+  - Latest Ver: 1.7; Default Menu Key is F1; Charlatano's Successor
+- [architecture-samples](https://github.com/android/architecture-samples)
+  - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
+- [MVVM-Architecture](https://github.com/qingmei2/MVVM-Architecture)
+  - The practice of MVVM + Jetpack architecture in Android.
 - [android-components](https://github.com/mozilla-mobile/android-components)
   - A collection of Android libraries to build browsers or browser-like applications.
-- [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators)
-  - An Android Animation library which easily add itemanimator to RecyclerView items.
-- [kotlin](https://github.com/JetBrains/kotlin)
-  - The Kotlin Programming Language
-- [architecture-components-samples](https://github.com/android/architecture-components-samples)
-  - Samples for Android Architecture Components.
-- [v2rayNG](https://github.com/2dust/v2rayNG)
-  - 
-- [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
-  - A shadowsocks client for Android

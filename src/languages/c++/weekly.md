@@ -1,51 +1,51 @@
 # c++
-- [incubator-brpc](https://github.com/apache/incubator-brpc)
-  - Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services. "brpc" means "better RPC".
-- [flatbuffers](https://github.com/google/flatbuffers)
-  - FlatBuffers: Memory Efficient Serialization Library
-- [PowerToys](https://github.com/microsoft/PowerToys)
-  - Windows system utilities to maximize productivity
-- [mediapipe](https://github.com/google/mediapipe)
-  - MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.
-- [hackergame2020-writeups](https://github.com/USTC-Hackergame/hackergame2020-writeups)
-  - 中国科学技术大学第七届信息安全大赛的官方与非官方题解
-- [libzmq](https://github.com/zeromq/libzmq)
-  - ZeroMQ core engine in C++, implements ZMTP/3.1
-- [milvus](https://github.com/milvus-io/milvus)
-  - An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy
-- [telegram-bot-api](https://github.com/tdlib/telegram-bot-api)
-  - 
-- [Magisk](https://github.com/topjohnwu/Magisk)
-  - The Magic Mask for Android
-- [protobuf](https://github.com/protocolbuffers/protobuf)
-  - Protocol Buffers - Google's data interchange format
-- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
-  - C++那些事
-- [Marlin](https://github.com/MarlinFirmware/Marlin)
-  - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
+- [vnpy](https://github.com/vnpy/vnpy)
+  - 基于Python的开源量化交易平台开发框架
+- [serenity](https://github.com/SerenityOS/serenity)
+  - The Serenity Operating System 🐞
 - [srs](https://github.com/ossrs/srs)
   - SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [Catch2](https://github.com/catchorg/Catch2)
-  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-- [vowpal_wabbit](https://github.com/VowpalWabbit/vowpal_wabbit)
-  - Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
-- [workflow](https://github.com/sogou/workflow)
-  - C++ Programming Paradigm with Asynchronous Networking
-- [AirSim](https://github.com/microsoft/AirSim)
-  - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
-- [terminal](https://github.com/microsoft/terminal)
-  - The new Windows Terminal and the original Windows console host, all in the same place!
-- [pigasus](https://github.com/cmu-snap/pigasus)
-  - 100Gbps Intrusion Detection and Prevention System
-- [jetson-inference](https://github.com/dusty-nv/jetson-inference)
-  - Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
-- [envoy](https://github.com/envoyproxy/envoy)
-  - Cloud-native high-performance edge/middle/service proxy
-- [uWebSockets](https://github.com/uNetworking/uWebSockets)
-  - Simple, secure & standards compliant web server for the most demanding of applications
-- [kys-cpp](https://github.com/scarsty/kys-cpp)
-  - 《金庸群侠传》c++复刻版，已完工
-- [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
-  - Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs
+- [bitcoin](https://github.com/bitcoin/bitcoin)
+  - Bitcoin Core integration/staging tree
+- [duckstation](https://github.com/stenzek/duckstation)
+  - Fast PlayStation 1 emulator for PC and Android
+- [STL](https://github.com/microsoft/STL)
+  - MSVC's implementation of the C++ Standard Library.
+- [openpilot](https://github.com/commaai/openpilot)
+  - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
+- [Reverse-Engineering-Tutorial](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
+  - A comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
+- [cpp-httplib](https://github.com/yhirose/cpp-httplib)
+  - A C++ header-only HTTP/HTTPS server and client library
+- [qtbase](https://github.com/qt/qtbase)
+  - Qt Base (Core, Gui, Widgets, Network, ...)
+- [imgui](https://github.com/ocornut/imgui)
+  - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+- [godot](https://github.com/godotengine/godot)
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [index](https://github.com/sphawes/index)
+  - The Index is an open source pick and place machine.
+- [typesense](https://github.com/typesense/typesense)
+  - Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍
+- [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)
+  - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects
+- [tink](https://github.com/google/tink)
+  - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
+- [incubator-doris](https://github.com/apache/incubator-doris)
+  - Apache Doris (Incubating)
+- [TNN](https://github.com/Tencent/TNN)
+  - TNN：由腾讯优图实验室打造，移动端高性能、轻量级推理框架，同时拥有跨平台、高性能、模型压缩、代码裁剪等众多突出优势。TNN框架在原有Rapidnet、ncnn框架的基础上进一步加强了移动端设备的支持以及性能优化，同时也借鉴了业界主流开源框架高性能和良好拓展性的优点。目前TNN已经在手Q、微视、P图等应用中落地，欢迎大家参与协同共建，促进TNN推理框架进一步完善。
+- [concurrentqueue](https://github.com/cameron314/concurrentqueue)
+  - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
+- [osquery](https://github.com/osquery/osquery)
+  - SQL powered operating system instrumentation, monitoring, and analytics.
+- [CyberEngineTweaks](https://github.com/yamashi/CyberEngineTweaks)
+  - Performance boost, bug fixes and hacks for fun for Cyberpunk 2077
+- [protobuf](https://github.com/protocolbuffers/protobuf)
+  - Protocol Buffers - Google's data interchange format
+- [pytorch](https://github.com/pytorch/pytorch)
+  - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [ProjectReunion](https://github.com/microsoft/ProjectReunion)
+  - Project Reunion is an evolution of the Windows developer platform that will make it more compatible, agile, modern and open.
+- [FreeCAD](https://github.com/FreeCAD/FreeCAD)
+  - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker

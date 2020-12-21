@@ -1,51 +1,51 @@
 # javascript
-- [faker.js](https://github.com/Marak/faker.js)
-  - generate massive amounts of realistic fake data in Node.js and the browser
-- [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)
-  - FFmpeg for browser and node, powered by WebAssembly
-- [mermaid](https://github.com/mermaid-js/mermaid)
-  - Generation of diagram and flowchart from text in a similar manner as markdown
-- [WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
-  - Play with fluids in your browser (works even on mobile)
-- [rengine](https://github.com/yogeshojha/rengine)
-  - reNgine is an automated reconnaissance framework meant for information gathering during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [iptv](https://github.com/iptv-org/iptv)
-  - Collection of 5000+ publicly available IPTV channels from all over the world
-- [newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app)
-  - 新蜂商城Vue3版本
-- [QuantumultX](https://github.com/w37fhy/QuantumultX)
-  - 同步和更新大佬脚本库，更新懒人配置
-- [unlock-music](https://github.com/ix64/unlock-music)
-  - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
-  - 💯 Materials to help you rock your next coding interview
-- [scripts](https://github.com/chavyleung/scripts)
-  - 
-- [lerna](https://github.com/lerna/lerna)
-  - 🐉 A tool for managing JavaScript projects with multiple packages.
-- [socket.io](https://github.com/socketio/socket.io)
-  - Realtime application framework (Node.JS server)
-- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
-  - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。 阿里招 Python P6/P7 上海张江, gaojunqi@outlook.com
-- [javascript](https://github.com/airbnb/javascript)
-  - JavaScript Style Guide
-- [wtfjs](https://github.com/denysdovhan/wtfjs)
-  - 🤪 A list of funny and tricky JavaScript examples
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples)
+  - Chrome Extensions Samples
+- [MagicMirror](https://github.com/MichMich/MagicMirror)
+  - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 - [three.js](https://github.com/mrdoob/three.js)
   - JavaScript 3D library.
-- [aos](https://github.com/michalsnik/aos)
-  - Animate on scroll library
-- [lighthouse](https://github.com/GoogleChrome/lighthouse)
-  - Automated auditing, performance metrics, and best practices for the web.
-- [react-native-firebase](https://github.com/invertase/react-native-firebase)
-  - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [standard](https://github.com/standard/standard)
-  - 🌟 JavaScript Style Guide, with linter & automatic code fixer
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
+- [jd_sign_bot](https://github.com/ruicky/jd_sign_bot)
+  - 京东签到机器人
+- [snapdrop](https://github.com/RobinLinus/snapdrop)
+  - A Progressive Web App for local file sharing
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+  - ✅ The Node.js best practices list (December 2020)
+- [monkeytype](https://github.com/Miodec/monkeytype)
+  - A minimalistic typing test
+- [OSINT-Framework](https://github.com/lockfale/OSINT-Framework)
+  - OSINT Framework
+- [FE-Interview](https://github.com/lgwebdream/FE-Interview)
+  - 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器
+- [hls.js](https://github.com/video-dev/hls.js)
+  - JavaScript HLS client using Media Source Extension
+- [locomotive-scroll](https://github.com/locomotivemtl/locomotive-scroll)
+  - 🛤 Detection of elements in viewport & smooth scrolling with parallax.
+- [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
+  - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+- [discord-api-docs](https://github.com/discord/discord-api-docs)
+  - Official Discord API Documentation
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
+  - Short JavaScript code snippets for all your development needs
+- [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
+  - 📜 33 concepts every JavaScript developer should know.
+- [getting-started](https://github.com/docker/getting-started)
+  - Getting started with Docker
+- [Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
+  - Signal — Private Messenger for Windows, Mac, and Linux
+- [cli](https://github.com/npm/cli)
+  - the package manager for JavaScript
+- [metamask-extension](https://github.com/MetaMask/metamask-extension)
+  - 🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [builderbook](https://github.com/builderbook/builderbook)
+  - Open source web application to learn JS stack: React, Material-UI, Next.js, Node.js, Express.js, Mongoose, MongoDB database.
+- [iDataV](https://github.com/yyhsong/iDataV)
+  - 大屏数据可视化 Big screen data visualization demo
+- [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
+  - A Foundation for Scalable Cross-Platform Apps
+- [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js)
+  - MapLibre GL is a free and open-source fork of @mapbox/mapbox-gl
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+  - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
+- [uBlock](https://github.com/gorhill/uBlock)
+  - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
