@@ -1,23 +1,33 @@
 [
   {
-    "author": "microsoft",
-    "name": "Web-Dev-For-Beginners",
-    "href": "https://github.com/microsoft/Web-Dev-For-Beginners",
-    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "author": "youzan",
+    "name": "vant",
+    "href": "https://github.com/youzan/vant",
+    "description": "Lightweight Mobile UI Components built on Vue",
     "language": "JavaScript",
-    "stars": 2070,
-    "forks": 135,
-    "starsInPeriod": 1163
+    "stars": 16102,
+    "forks": 7989,
+    "starsInPeriod": 60
   },
   {
-    "author": "CodinGame",
-    "name": "FallChallenge2020",
-    "href": "https://github.com/CodinGame/FallChallenge2020",
-    "description": "Source code for CodinGame's Fall Challenge 2020 event.",
+    "author": "hotwired",
+    "name": "turbo-rails",
+    "href": "https://github.com/hotwired/turbo-rails",
+    "description": "Turbo gives you the speed of a single-page web application without having to write any JavaScript.",
     "language": "JavaScript",
-    "stars": 74,
-    "forks": 11,
-    "starsInPeriod": 20
+    "stars": 371,
+    "forks": 23,
+    "starsInPeriod": 122
+  },
+  {
+    "author": "nondanee",
+    "name": "UnblockNeteaseMusic",
+    "href": "https://github.com/nondanee/UnblockNeteaseMusic",
+    "description": "Revive unavailable songs for Netease Cloud Music",
+    "language": "JavaScript",
+    "stars": 12726,
+    "forks": 1913,
+    "starsInPeriod": 108
   },
   {
     "author": "iptv-org",
@@ -25,109 +35,49 @@
     "href": "https://github.com/iptv-org/iptv",
     "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
     "language": "JavaScript",
-    "stars": 20876,
-    "forks": 127,
-    "starsInPeriod": 299
+    "stars": 22654,
+    "forks": 339,
+    "starsInPeriod": 318
   },
   {
-    "author": "ryanmcdermott",
-    "name": "clean-code-javascript",
-    "href": "https://github.com/ryanmcdermott/clean-code-javascript",
-    "description": "🛁 Clean Code concepts adapted for JavaScript",
+    "author": "GitSquared",
+    "name": "edex-ui",
+    "href": "https://github.com/GitSquared/edex-ui",
+    "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
     "language": "JavaScript",
-    "stars": 40934,
-    "forks": 4955,
-    "starsInPeriod": 422
+    "stars": 27198,
+    "forks": 1439,
+    "starsInPeriod": 556
   },
   {
-    "author": "yangshun",
-    "name": "tech-interview-handbook",
-    "href": "https://github.com/yangshun/tech-interview-handbook",
-    "description": "💯 Materials to help you rock your next coding interview",
+    "author": "victor369basu",
+    "name": "Real-time-stock-market-prediction",
+    "href": "https://github.com/victor369basu/Real-time-stock-market-prediction",
+    "description": "In this repository, I have developed the entire server-side principal architecture for real-time stock market prediction with Machine Learning. I have used Tensorflow.js for constructing ml model architecture, and Kafka for real-time data streaming and pipelining.",
     "language": "JavaScript",
-    "stars": 46509,
-    "forks": 6584,
-    "starsInPeriod": 208
+    "stars": 190,
+    "forks": 30,
+    "starsInPeriod": 73
   },
   {
-    "author": "trekhleb",
-    "name": "javascript-algorithms",
-    "href": "https://github.com/trekhleb/javascript-algorithms",
-    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "author": "RobinLinus",
+    "name": "snapdrop",
+    "href": "https://github.com/RobinLinus/snapdrop",
+    "description": "A Progressive Web App for local file sharing",
     "language": "JavaScript",
-    "stars": 84867,
-    "forks": 14325,
-    "starsInPeriod": 290
+    "stars": 6528,
+    "forks": 606,
+    "starsInPeriod": 562
   },
   {
-    "author": "discordjs",
-    "name": "discord.js",
-    "href": "https://github.com/discordjs/discord.js",
-    "description": "A powerful JavaScript library for interacting with the Discord API",
+    "author": "Working-Title-MSFS-Mods",
+    "name": "fspackages",
+    "href": "https://github.com/Working-Title-MSFS-Mods/fspackages",
+    "description": "Working Title FS Packages",
     "language": "JavaScript",
-    "stars": 8100,
-    "forks": 1790,
-    "starsInPeriod": 10
-  },
-  {
-    "author": "laurent22",
-    "name": "joplin",
-    "href": "https://github.com/laurent22/joplin",
-    "description": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
-    "language": "JavaScript",
-    "stars": 18843,
-    "forks": 1936,
-    "starsInPeriod": 35
-  },
-  {
-    "author": "discord",
-    "name": "discord-api-docs",
-    "href": "https://github.com/discord/discord-api-docs",
-    "description": "Official Discord API Documentation",
-    "language": "JavaScript",
-    "stars": 2322,
-    "forks": 600,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "awesome-selfhosted",
-    "name": "awesome-selfhosted",
-    "href": "https://github.com/awesome-selfhosted/awesome-selfhosted",
-    "description": "A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers",
-    "language": "JavaScript",
-    "stars": 50090,
-    "forks": 3981,
-    "starsInPeriod": 32
-  },
-  {
-    "author": "fossasia",
-    "name": "open-event-frontend",
-    "href": "https://github.com/fossasia/open-event-frontend",
-    "description": "The frontend for the Open Event API Server https://open-event-frontend.now.sh",
-    "language": "JavaScript",
-    "stars": 1642,
-    "forks": 1021,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "lwitzani",
-    "name": "homebridgeStatusWidget",
-    "href": "https://github.com/lwitzani/homebridgeStatusWidget",
-    "description": null,
-    "language": "JavaScript",
-    "stars": 39,
-    "forks": 18,
-    "starsInPeriod": 15
-  },
-  {
-    "author": "expressjs",
-    "name": "express",
-    "href": "https://github.com/expressjs/express",
-    "description": "Fast, unopinionated, minimalist web framework for node.",
-    "language": "JavaScript",
-    "stars": 50834,
-    "forks": 8482,
-    "starsInPeriod": 12
+    "stars": 599,
+    "forks": 41,
+    "starsInPeriod": 18
   },
   {
     "author": "Orz-3",
@@ -135,118 +85,168 @@
     "href": "https://github.com/Orz-3/QuantumultX",
     "description": null,
     "language": "JavaScript",
-    "stars": 257,
-    "forks": 91,
-    "starsInPeriod": 11
-  },
-  {
-    "author": "eritislami",
-    "name": "evobot",
-    "href": "https://github.com/eritislami/evobot",
-    "description": "🤖 EvoBot is a Discord Music Bot built with discord.js & uses Command Handler from discordjs.guide",
-    "language": "JavaScript",
-    "stars": 223,
-    "forks": 442,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "Necriso",
-    "name": "ScriptableWidgets",
-    "href": "https://github.com/Necriso/ScriptableWidgets",
-    "description": null,
-    "language": "JavaScript",
-    "stars": 11,
-    "forks": 5,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "Koenkk",
-    "name": "zigbee2mqtt",
-    "href": "https://github.com/Koenkk/zigbee2mqtt",
-    "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
-    "language": "JavaScript",
-    "stars": 4870,
-    "forks": 854,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "nodejs",
-    "name": "node",
-    "href": "https://github.com/nodejs/node",
-    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
-    "language": "JavaScript",
-    "stars": 74804,
-    "forks": 18538,
-    "starsInPeriod": 26
-  },
-  {
-    "author": "babel",
-    "name": "babel",
-    "href": "https://github.com/babel/babel",
-    "description": "🐠 Babel is a compiler for writing next generation JavaScript.",
-    "language": "JavaScript",
-    "stars": 37788,
-    "forks": 4568,
-    "starsInPeriod": 17
-  },
-  {
-    "author": "LAB-MI",
-    "name": "attestation-deplacement-derogatoire-q4-2020",
-    "href": "https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020",
-    "description": "attestation-deplacement-derogatoire-q4-2020 public",
-    "language": "JavaScript",
-    "stars": 336,
-    "forks": 288,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "blackmatrix7",
-    "name": "ios_rule_script",
-    "href": "https://github.com/blackmatrix7/ios_rule_script",
-    "description": "iOS平台的分流规则、复写规则和一些自动化脚本。",
-    "language": "JavaScript",
-    "stars": 572,
-    "forks": 115,
+    "stars": 411,
+    "forks": 132,
     "starsInPeriod": 14
   },
   {
-    "author": "github",
-    "name": "docs",
-    "href": "https://github.com/github/docs",
-    "description": "The open-source repo for docs.github.com",
+    "author": "nextauthjs",
+    "name": "next-auth",
+    "href": "https://github.com/nextauthjs/next-auth",
+    "description": "Authentication for Next.js",
     "language": "JavaScript",
-    "stars": 1549,
-    "forks": 3799,
-    "starsInPeriod": 15
+    "stars": 3801,
+    "forks": 423,
+    "starsInPeriod": 26
   },
   {
-    "author": "yangshun",
-    "name": "front-end-interview-handbook",
-    "href": "https://github.com/yangshun/front-end-interview-handbook",
-    "description": "🕸 No-bullshit answers to the famous h5bp \"Front-end Job Interview Questions\"",
+    "author": "reactjs",
+    "name": "server-components-demo",
+    "href": "https://github.com/reactjs/server-components-demo",
+    "description": "Demo app of React Server Components.",
     "language": "JavaScript",
-    "stars": 26510,
-    "forks": 3763,
-    "starsInPeriod": 20
+    "stars": 2044,
+    "forks": 180,
+    "starsInPeriod": 605
   },
   {
-    "author": "briancodex",
-    "name": "react-website-v1",
-    "href": "https://github.com/briancodex/react-website-v1",
+    "author": "r-spacex",
+    "name": "SpaceX-API",
+    "href": "https://github.com/r-spacex/SpaceX-API",
+    "description": "🚀 Open Source REST API for rocket, core, capsule, pad, and launch data",
+    "language": "JavaScript",
+    "stars": 7759,
+    "forks": 587,
+    "starsInPeriod": 145
+  },
+  {
+    "author": "vuejs",
+    "name": "vue-devtools",
+    "href": "https://github.com/vuejs/vue-devtools",
+    "description": "⚙️ Browser devtools extension for debugging Vue.js applications.",
+    "language": "JavaScript",
+    "stars": 19046,
+    "forks": 3031,
+    "starsInPeriod": 24
+  },
+  {
+    "author": "Jermolene",
+    "name": "TiddlyWiki5",
+    "href": "https://github.com/Jermolene/TiddlyWiki5",
+    "description": "A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.",
+    "language": "JavaScript",
+    "stars": 5464,
+    "forks": 929,
+    "starsInPeriod": 17
+  },
+  {
+    "author": "fex-team",
+    "name": "ueditor",
+    "href": "https://github.com/fex-team/ueditor",
+    "description": "rich text 富文本编辑器",
+    "language": "JavaScript",
+    "stars": 5525,
+    "forks": 2071,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "didi",
+    "name": "cube-ui",
+    "href": "https://github.com/didi/cube-ui",
+    "description": "🔶 A fantastic mobile ui lib implement by Vue",
+    "language": "JavaScript",
+    "stars": 8574,
+    "forks": 1463,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "ruicky",
+    "name": "jd_sign_bot",
+    "href": "https://github.com/ruicky/jd_sign_bot",
+    "description": "京东签到机器人",
+    "language": "JavaScript",
+    "stars": 2232,
+    "forks": 3595,
+    "starsInPeriod": 70
+  },
+  {
+    "author": "brave",
+    "name": "brave-browser",
+    "href": "https://github.com/brave/brave-browser",
+    "description": "Next generation Brave browser for Android, Linux, macOS, Windows.",
+    "language": "JavaScript",
+    "stars": 7832,
+    "forks": 807,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "xuedingmiaojun",
+    "name": "wxappUnpacker",
+    "href": "https://github.com/xuedingmiaojun/wxappUnpacker",
+    "description": "小程序反编译(支持分包)",
+    "language": "JavaScript",
+    "stars": 653,
+    "forks": 461,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "Matt-Fontes",
+    "name": "SendScriptWhatsApp",
+    "href": "https://github.com/Matt-Fontes/SendScriptWhatsApp",
     "description": null,
     "language": "JavaScript",
-    "stars": 80,
-    "forks": 166,
-    "starsInPeriod": 0
+    "stars": 73,
+    "forks": 67,
+    "starsInPeriod": 2
   },
   {
-    "author": "nightscout",
-    "name": "cgm-remote-monitor",
-    "href": "https://github.com/nightscout/cgm-remote-monitor",
-    "description": "nightscout web monitor",
+    "author": "nolimits4web",
+    "name": "swiper",
+    "href": "https://github.com/nolimits4web/swiper",
+    "description": "Most modern mobile touch slider with hardware accelerated transitions",
     "language": "JavaScript",
-    "stars": 1333,
-    "forks": 47643,
-    "starsInPeriod": 1
+    "stars": 25714,
+    "forks": 9277,
+    "starsInPeriod": 17
+  },
+  {
+    "author": "meng-chuan",
+    "name": "Unlock-netease-cloud-music",
+    "href": "https://github.com/meng-chuan/Unlock-netease-cloud-music",
+    "description": "解锁网易云音乐客户端变灰歌曲",
+    "language": "JavaScript",
+    "stars": 2635,
+    "forks": 349,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "alyssaxuu",
+    "name": "screenity",
+    "href": "https://github.com/alyssaxuu/screenity",
+    "description": "The most powerful screen recorder & annotation tool for Chrome 🎥",
+    "language": "JavaScript",
+    "stars": 4577,
+    "forks": 277,
+    "starsInPeriod": 120
+  },
+  {
+    "author": "bailicangdu",
+    "name": "node-elm",
+    "href": "https://github.com/bailicangdu/node-elm",
+    "description": "基于 node.js + Mongodb 构建的后台系统",
+    "language": "JavaScript",
+    "stars": 10431,
+    "forks": 3397,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "ai",
+    "name": "nanoid",
+    "href": "https://github.com/ai/nanoid",
+    "description": "A tiny (108 bytes), secure, URL-friendly, unique string ID generator for JavaScript",
+    "language": "JavaScript",
+    "stars": 11111,
+    "forks": 422,
+    "starsInPeriod": 56
   }
 ]

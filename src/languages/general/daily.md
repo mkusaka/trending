@@ -1,51 +1,49 @@
 # general
-- [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) : JavaScript
-  - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [starship](https://github.com/starship/starship) : Rust
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [awesome](https://github.com/sindresorhus/awesome) : 
-  - 😎 Awesome lists about all kinds of interesting topics
-- [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) : Python
-  - Bringing Old Photo Back to Life (CVPR 2020 oral)
-- [gping](https://github.com/orf/gping) : Rust
-  - Ping, but with a graph
-- [FallChallenge2020](https://github.com/CodinGame/FallChallenge2020) : JavaScript
-  - Source code for CodinGame's Fall Challenge 2020 event.
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui) : TypeScript
-  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+- [netdata](https://github.com/netdata/netdata) : C
+  - Real-time performance monitoring, done right! https://www.netdata.cloud
+- [jd_scripts](https://github.com/lxk0301/jd_scripts) : 
+  - 基于JavaScript的京东薅羊毛工具
+- [Python](https://github.com/TheAlgorithms/Python) : Python
+  - All Algorithms implemented in Python
+- [terarkdb](https://github.com/bytedance/terarkdb) : C++
+  - A RocksDB compatible KV storage engine with better performance
+- [vant](https://github.com/youzan/vant) : JavaScript
+  - Lightweight Mobile UI Components built on Vue
+- [turbo](https://github.com/hotwired/turbo) : TypeScript
+  - The speed of a single-page web application without having to write any JavaScript.
+- [learngo](https://github.com/inancgumus/learngo) : Go
+  - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
+- [hotwire-rails-demo-chat](https://github.com/hotwired/hotwire-rails-demo-chat) : Ruby
+  - Repository from the Hotwire demo
+- [sktime](https://github.com/alan-turing-institute/sktime) : Python
+  - A unified framework for machine learning with time series
+- [turbo-rails](https://github.com/hotwired/turbo-rails) : JavaScript
+  - Turbo gives you the speed of a single-page web application without having to write any JavaScript.
+- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) : JavaScript
+  - Revive unavailable songs for Netease Cloud Music
 - [iptv](https://github.com/iptv-org/iptv) : JavaScript
   - Collection of 5000+ publicly available IPTV channels from all over the world
-- [k0s](https://github.com/k0sproject/k0s) : Go
-  - k0s - Zero Friction Kubernetes
-- [alacritty](https://github.com/alacritty/alacritty) : Rust
-  - A cross-platform, GPU-accelerated terminal emulator
-- [macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) : Vue
-  - Replacement icons for popular apps in the style of macOS Big Sur
-- [rustlings](https://github.com/rust-lang/rustlings) : Rust
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
-  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
-  - A long list of (advanced) JavaScript questions, and their explanations ✨
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
-  - 💯 Materials to help you rock your next coding interview
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [faker](https://github.com/joke2k/faker) : Python
-  - Faker is a Python package that generates fake data for you.
-- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) : 
-  - A list of awesome beginners-friendly projects.
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [bitcoin](https://github.com/bitcoin/bitcoin) : C++
-  - Bitcoin Core integration/staging tree
-- [core](https://github.com/home-assistant/core) : Python
-  - 🏡 Open source home automation that puts local control and privacy first
-- [Testnet3-Challenges](https://github.com/Concordium/Testnet3-Challenges) : 
-  - This repo is dedicated to Concordium Incentivized Testnet3.
-- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) : Python
-  - 30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.
-- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) : Go
-  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [muzero-general](https://github.com/werner-duvaud/muzero-general) : Python
+  - MuZero
+- [yolact_edge](https://github.com/haotian-liu/yolact_edge) : Python
+  - The first competitive instance segmentation approach that runs on small edge devices at real-time speeds.
+- [ssb](https://github.com/kitabisa/ssb) : Go
+  - Secure Shell Bruteforcer — A faster & simpler way to bruteforce SSH server
+- [Maya](https://github.com/25H/Maya) : Less
+  - Maya 一个简洁小巧的快速启动工具
+- [edex-ui](https://github.com/GitSquared/edex-ui) : JavaScript
+  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+- [css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) : 
+  - Style your readme using CSS with this simple trick
+- [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) : Jupyter Notebook
+  - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
+- [Real-time-stock-market-prediction](https://github.com/victor369basu/Real-time-stock-market-prediction) : JavaScript
+  - In this repository, I have developed the entire server-side principal architecture for real-time stock market prediction with Machine Learning. I have used Tensorflow.js for constructing ml model architecture, and Kafka for real-time data streaming and pipelining.
+- [jd_seckill](https://github.com/huanghyw/jd_seckill) : Python
+  - 京东秒杀商品抢购，目前只支持茅台抢购，不支持其他商品！
+- [Tendis](https://github.com/Tencent/Tendis) : C++
+  - Tendis is a high-performance distributed storage system fully compatible with the Redis protocol.
+- [omim](https://github.com/mapsme/omim) : C++
+  - 🗺️ MAPS.ME — Offline OpenStreetMap maps for iOS and Android
+- [DSC-30-Days-of-Web](https://github.com/30DaysofWebDEV/DSC-30-Days-of-Web) : JavaScript
+- [introduction-to-python](https://github.com/globalaihub/introduction-to-python) : Jupyter Notebook
