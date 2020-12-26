@@ -1,51 +1,50 @@
 # general
-- [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) : JavaScript
-  - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [starship](https://github.com/starship/starship) : Rust
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [awesome](https://github.com/sindresorhus/awesome) : 
-  - 😎 Awesome lists about all kinds of interesting topics
-- [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) : Python
-  - Bringing Old Photo Back to Life (CVPR 2020 oral)
-- [gping](https://github.com/orf/gping) : Rust
-  - Ping, but with a graph
-- [FallChallenge2020](https://github.com/CodinGame/FallChallenge2020) : JavaScript
-  - Source code for CodinGame's Fall Challenge 2020 event.
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui) : TypeScript
-  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+- [deit](https://github.com/facebookresearch/deit) : Python
+  - Official DeiT repository
 - [iptv](https://github.com/iptv-org/iptv) : JavaScript
   - Collection of 5000+ publicly available IPTV channels from all over the world
-- [k0s](https://github.com/k0sproject/k0s) : Go
-  - k0s - Zero Friction Kubernetes
-- [alacritty](https://github.com/alacritty/alacritty) : Rust
-  - A cross-platform, GPU-accelerated terminal emulator
-- [macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) : Vue
-  - Replacement icons for popular apps in the style of macOS Big Sur
-- [rustlings](https://github.com/rust-lang/rustlings) : Rust
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
-  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
-  - A long list of (advanced) JavaScript questions, and their explanations ✨
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
-  - 💯 Materials to help you rock your next coding interview
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [faker](https://github.com/joke2k/faker) : Python
-  - Faker is a Python package that generates fake data for you.
-- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) : 
-  - A list of awesome beginners-friendly projects.
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [bitcoin](https://github.com/bitcoin/bitcoin) : C++
-  - Bitcoin Core integration/staging tree
-- [core](https://github.com/home-assistant/core) : Python
-  - 🏡 Open source home automation that puts local control and privacy first
-- [Testnet3-Challenges](https://github.com/Concordium/Testnet3-Challenges) : 
-  - This repo is dedicated to Concordium Incentivized Testnet3.
-- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) : Python
-  - 30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.
-- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) : Go
-  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [learngo](https://github.com/inancgumus/learngo) : Go
+  - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
+- [jd_seckill](https://github.com/huanghyw/jd_seckill) : Python
+  - 京东秒杀商品抢购，目前只支持茅台抢购，不支持其他商品！
+- [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) : JavaScript
+  - 24 Lessons, 12 Weeks, Get Started as a Web Developer
+- [ruby](https://github.com/ruby/ruby) : Ruby
+  - The Ruby Programming Language [mirror]
+- [netdata](https://github.com/netdata/netdata) : C
+  - Real-time performance monitoring, done right! https://www.netdata.cloud
+- [muzero-general](https://github.com/werner-duvaud/muzero-general) : Python
+  - MuZero
+- [DSC-30-Days-of-Web](https://github.com/30DaysofWebDEV/DSC-30-Days-of-Web) : JavaScript
+- [Python](https://github.com/TheAlgorithms/Python) : Python
+  - All Algorithms implemented in Python
+- [Reverse-Engineering-Tutorial](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial) : C++
+  - A comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
+- [Loon-Script](https://github.com/Tartarus2014/Loon-Script) : 
+  - Loon脚本收集
+- [snapdrop](https://github.com/RobinLinus/snapdrop) : JavaScript
+  - A Progressive Web App for local file sharing
+- [jd_scripts](https://github.com/lxk0301/jd_scripts) : 
+  - 基于JavaScript的京东薅羊毛工具
+- [edex-ui](https://github.com/GitSquared/edex-ui) : JavaScript
+  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+- [Best_AI_paper_2020](https://github.com/louisfb01/Best_AI_paper_2020) : 
+  - A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code
+- [yolact_edge](https://github.com/haotian-liu/yolact_edge) : Python
+  - The first competitive instance segmentation approach that runs on small edge devices at real-time speeds.
+- [xmastree2020](https://github.com/standupmaths/xmastree2020) : Python
+  - My 500 LED xmas tree
+- [css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) : 
+  - Style your readme using CSS with this simple trick
+- [svoice](https://github.com/facebookresearch/svoice) : Python
+  - We provide a PyTorch implementation of the paper Voice Separation with an Unknown Number of Multiple Speakers In which, we present a new method for separating a mixed audio sequence, in which multiple voices speak simultaneously. The new method employs gated neural networks that are trained to separate the voices at multiple processing steps, wh…
+- [ccxt](https://github.com/ccxt/ccxt) : JavaScript
+  - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
+- [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) : Makefile
+  - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。
+- [turbo](https://github.com/hotwired/turbo) : TypeScript
+  - The speed of a single-page web application without having to write any JavaScript.
+- [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) : PowerShell
+  - Script to remove Windows 10 bloatware.
+- [darktable](https://github.com/darktable-org/darktable) : C
+  - darktable is an open source photography workflow application and raw developer
