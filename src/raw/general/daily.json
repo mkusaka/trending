@@ -5,69 +5,9 @@
     "href": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "stars": 2070,
-    "forks": 135,
-    "starsInPeriod": 1163
-  },
-  {
-    "author": "starship",
-    "name": "starship",
-    "href": "https://github.com/starship/starship",
-    "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
-    "language": "Rust",
-    "stars": 11613,
-    "forks": 503,
-    "starsInPeriod": 372
-  },
-  {
-    "author": "sindresorhus",
-    "name": "awesome",
-    "href": "https://github.com/sindresorhus/awesome",
-    "description": "😎 Awesome lists about all kinds of interesting topics",
-    "language": "",
-    "stars": 145315,
-    "forks": 19097,
-    "starsInPeriod": 788
-  },
-  {
-    "author": "microsoft",
-    "name": "Bringing-Old-Photos-Back-to-Life",
-    "href": "https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life",
-    "description": "Bringing Old Photo Back to Life (CVPR 2020 oral)",
-    "language": "Python",
-    "stars": 2673,
-    "forks": 210,
-    "starsInPeriod": 418
-  },
-  {
-    "author": "orf",
-    "name": "gping",
-    "href": "https://github.com/orf/gping",
-    "description": "Ping, but with a graph",
-    "language": "Rust",
-    "stars": 2536,
-    "forks": 102,
-    "starsInPeriod": 566
-  },
-  {
-    "author": "CodinGame",
-    "name": "FallChallenge2020",
-    "href": "https://github.com/CodinGame/FallChallenge2020",
-    "description": "Source code for CodinGame's Fall Challenge 2020 event.",
-    "language": "JavaScript",
-    "stars": 74,
-    "forks": 11,
-    "starsInPeriod": 20
-  },
-  {
-    "author": "chakra-ui",
-    "name": "chakra-ui",
-    "href": "https://github.com/chakra-ui/chakra-ui",
-    "description": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
-    "language": "TypeScript",
-    "stars": 12220,
-    "forks": 886,
-    "starsInPeriod": 234
+    "stars": 8900,
+    "forks": 1739,
+    "starsInPeriod": 1057
   },
   {
     "author": "iptv-org",
@@ -75,178 +15,238 @@
     "href": "https://github.com/iptv-org/iptv",
     "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
     "language": "JavaScript",
-    "stars": 20876,
-    "forks": 127,
-    "starsInPeriod": 299
+    "stars": 23171,
+    "forks": 372,
+    "starsInPeriod": 308
   },
   {
-    "author": "k0sproject",
-    "name": "k0s",
-    "href": "https://github.com/k0sproject/k0s",
-    "description": "k0s - Zero Friction Kubernetes",
+    "author": "inancgumus",
+    "name": "learngo",
+    "href": "https://github.com/inancgumus/learngo",
+    "description": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
     "language": "Go",
-    "stars": 496,
-    "forks": 16,
-    "starsInPeriod": 236
+    "stars": 6827,
+    "forks": 809,
+    "starsInPeriod": 260
   },
   {
-    "author": "alacritty",
-    "name": "alacritty",
-    "href": "https://github.com/alacritty/alacritty",
-    "description": "A cross-platform, GPU-accelerated terminal emulator",
-    "language": "Rust",
-    "stars": 26507,
-    "forks": 1387,
-    "starsInPeriod": 20
+    "author": "arduino",
+    "name": "Arduino",
+    "href": "https://github.com/arduino/Arduino",
+    "description": "open-source electronics platform",
+    "language": "Java",
+    "stars": 10981,
+    "forks": 6770,
+    "starsInPeriod": 7
   },
   {
-    "author": "elrumo",
-    "name": "macOS_Big_Sur_icons_replacements",
-    "href": "https://github.com/elrumo/macOS_Big_Sur_icons_replacements",
-    "description": "Replacement icons for popular apps in the style of macOS Big Sur",
-    "language": "Vue",
-    "stars": 2002,
-    "forks": 136,
-    "starsInPeriod": 430
-  },
-  {
-    "author": "rust-lang",
-    "name": "rustlings",
-    "href": "https://github.com/rust-lang/rustlings",
-    "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
-    "language": "Rust",
-    "stars": 12750,
-    "forks": 1607,
-    "starsInPeriod": 13
-  },
-  {
-    "author": "ripienaar",
-    "name": "free-for-dev",
-    "href": "https://github.com/ripienaar/free-for-dev",
-    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-    "language": "HTML",
-    "stars": 39959,
-    "forks": 4216,
-    "starsInPeriod": 490
-  },
-  {
-    "author": "lydiahallie",
-    "name": "javascript-questions",
-    "href": "https://github.com/lydiahallie/javascript-questions",
-    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
-    "language": "",
-    "stars": 24504,
-    "forks": 3190,
-    "starsInPeriod": 533
-  },
-  {
-    "author": "ryanmcdermott",
-    "name": "clean-code-javascript",
-    "href": "https://github.com/ryanmcdermott/clean-code-javascript",
-    "description": "🛁 Clean Code concepts adapted for JavaScript",
-    "language": "JavaScript",
-    "stars": 40934,
-    "forks": 4955,
-    "starsInPeriod": 422
-  },
-  {
-    "author": "yangshun",
-    "name": "tech-interview-handbook",
-    "href": "https://github.com/yangshun/tech-interview-handbook",
-    "description": "💯 Materials to help you rock your next coding interview",
-    "language": "JavaScript",
-    "stars": 46509,
-    "forks": 6584,
-    "starsInPeriod": 208
-  },
-  {
-    "author": "trekhleb",
-    "name": "javascript-algorithms",
-    "href": "https://github.com/trekhleb/javascript-algorithms",
-    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-    "language": "JavaScript",
-    "stars": 84867,
-    "forks": 14325,
-    "starsInPeriod": 290
-  },
-  {
-    "author": "joke2k",
-    "name": "faker",
-    "href": "https://github.com/joke2k/faker",
-    "description": "Faker is a Python package that generates fake data for you.",
+    "author": "huanghyw",
+    "name": "jd_seckill",
+    "href": "https://github.com/huanghyw/jd_seckill",
+    "description": "京东秒杀商品抢购，目前只支持茅台抢购，不支持其他商品！",
     "language": "Python",
-    "stars": 10914,
-    "forks": 1292,
-    "starsInPeriod": 58
+    "stars": 599,
+    "forks": 206,
+    "starsInPeriod": 92
   },
   {
-    "author": "MunGell",
-    "name": "awesome-for-beginners",
-    "href": "https://github.com/MunGell/awesome-for-beginners",
-    "description": "A list of awesome beginners-friendly projects.",
-    "language": "",
-    "stars": 24987,
-    "forks": 4104,
-    "starsInPeriod": 131
-  },
-  {
-    "author": "EbookFoundation",
-    "name": "free-programming-books",
-    "href": "https://github.com/EbookFoundation/free-programming-books",
-    "description": "📚 Freely available programming books",
-    "language": "",
-    "stars": 164934,
-    "forks": 39083,
-    "starsInPeriod": 181
-  },
-  {
-    "author": "bitcoin",
-    "name": "bitcoin",
-    "href": "https://github.com/bitcoin/bitcoin",
-    "description": "Bitcoin Core integration/staging tree",
-    "language": "C++",
-    "stars": 45984,
-    "forks": 26635,
-    "starsInPeriod": 25
+    "author": "raysan5",
+    "name": "raylib",
+    "href": "https://github.com/raysan5/raylib",
+    "description": "A simple and easy-to-use library to enjoy videogames programming",
+    "language": "C",
+    "stars": 4986,
+    "forks": 605,
+    "starsInPeriod": 26
   },
   {
     "author": "home-assistant",
     "name": "core",
     "href": "https://github.com/home-assistant/core",
-    "description": "🏡 Open source home automation that puts local control and privacy first",
+    "description": "WE ARE ON HOLIDAY. REVIEWS WILL TAKE A WHILE. HAPPY HOLIDAYS! ✨ 🏡 Open source home automation that puts local control and privacy first",
     "language": "Python",
-    "stars": 37176,
-    "forks": 12214,
-    "starsInPeriod": 24
+    "stars": 38455,
+    "forks": 12670,
+    "starsInPeriod": 21
   },
   {
-    "author": "Concordium",
-    "name": "Testnet3-Challenges",
-    "href": "https://github.com/Concordium/Testnet3-Challenges",
-    "description": "This repo is dedicated to Concordium Incentivized Testnet3.",
+    "author": "TheAlgorithms",
+    "name": "Python",
+    "href": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "stars": 95733,
+    "forks": 27766,
+    "starsInPeriod": 320
+  },
+  {
+    "author": "freqtrade",
+    "name": "freqtrade",
+    "href": "https://github.com/freqtrade/freqtrade",
+    "description": "Free, open source crypto trading bot",
+    "language": "Python",
+    "stars": 4197,
+    "forks": 1315,
+    "starsInPeriod": 12
+  },
+  {
+    "author": "rwbfd",
+    "name": "ml-training-camp",
+    "href": "https://github.com/rwbfd/ml-training-camp",
+    "description": null,
+    "language": "Jupyter Notebook",
+    "stars": 66,
+    "forks": 49,
+    "starsInPeriod": 16
+  },
+  {
+    "author": "anushka23g",
+    "name": "Complete-Placement-Preparation",
+    "href": "https://github.com/anushka23g/Complete-Placement-Preparation",
+    "description": "This repository consists of all the material required for cracking the coding rounds and technical interviews during placements.",
     "language": "",
-    "stars": 324,
-    "forks": 523,
-    "starsInPeriod": 7
+    "stars": 217,
+    "forks": 70,
+    "starsInPeriod": 107
   },
   {
-    "author": "Asabeneh",
-    "name": "30-Days-Of-Python",
-    "href": "https://github.com/Asabeneh/30-Days-Of-Python",
-    "description": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
+    "author": "mytechnotalent",
+    "name": "Reverse-Engineering-Tutorial",
+    "href": "https://github.com/mytechnotalent/Reverse-Engineering-Tutorial",
+    "description": "A comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.",
+    "language": "C++",
+    "stars": 2164,
+    "forks": 162,
+    "starsInPeriod": 140
+  },
+  {
+    "author": "cisagov",
+    "name": "Sparrow",
+    "href": "https://github.com/cisagov/Sparrow",
+    "description": "Sparrow.ps1 was created by CISA's Cloud Forensics team to help detect possible compromised accounts and applications in the Azure/m365 environment.",
+    "language": "PowerShell",
+    "stars": 418,
+    "forks": 39,
+    "starsInPeriod": 151
+  },
+  {
+    "author": "lxk0301",
+    "name": "jd_scripts",
+    "href": "https://github.com/lxk0301/jd_scripts",
+    "description": "基于JavaScript的京东薅羊毛工具",
+    "language": "",
+    "stars": 2403,
+    "forks": 1309,
+    "starsInPeriod": 122
+  },
+  {
+    "author": "Col-E",
+    "name": "Recaf",
+    "href": "https://github.com/Col-E/Recaf",
+    "description": "The modern Java bytecode editor",
+    "language": "Java",
+    "stars": 1428,
+    "forks": 160,
+    "starsInPeriod": 121
+  },
+  {
+    "author": "CrowdStrike",
+    "name": "CRT",
+    "href": "https://github.com/CrowdStrike/CRT",
+    "description": "Contact: CRT@crowdstrike.com",
+    "language": "PowerShell",
+    "stars": 138,
+    "forks": 19,
+    "starsInPeriod": 48
+  },
+  {
+    "author": "werner-duvaud",
+    "name": "muzero-general",
+    "href": "https://github.com/werner-duvaud/muzero-general",
+    "description": "MuZero",
     "language": "Python",
-    "stars": 2948,
-    "forks": 684,
-    "starsInPeriod": 203
+    "stars": 733,
+    "forks": 169,
+    "starsInPeriod": 86
   },
   {
-    "author": "halfrost",
-    "name": "LeetCode-Go",
-    "href": "https://github.com/halfrost/LeetCode-Go",
-    "description": "✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",
-    "language": "Go",
-    "stars": 8935,
-    "forks": 1396,
-    "starsInPeriod": 43
+    "author": "darktable-org",
+    "name": "darktable",
+    "href": "https://github.com/darktable-org/darktable",
+    "description": "darktable is an open source photography workflow application and raw developer",
+    "language": "C",
+    "stars": 4817,
+    "forks": 801,
+    "starsInPeriod": 92
+  },
+  {
+    "author": "MarlinFirmware",
+    "name": "Marlin",
+    "href": "https://github.com/MarlinFirmware/Marlin",
+    "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "language": "C++",
+    "stars": 9134,
+    "forks": 12731,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "abraunegg",
+    "name": "onedrive",
+    "href": "https://github.com/abraunegg/onedrive",
+    "description": "OneDrive Client for Linux",
+    "language": "D",
+    "stars": 3175,
+    "forks": 383,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "AMAI-GmbH",
+    "name": "AI-Expert-Roadmap",
+    "href": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "description": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
+    "language": "JavaScript",
+    "stars": 7097,
+    "forks": 670,
+    "starsInPeriod": 40
+  },
+  {
+    "author": "qilingframework",
+    "name": "qiling",
+    "href": "https://github.com/qilingframework/qiling",
+    "description": "Qiling Advanced Binary Emulation Framework",
+    "language": "Python",
+    "stars": 1910,
+    "forks": 315,
+    "starsInPeriod": 32
+  },
+  {
+    "author": "esphome",
+    "name": "esphome",
+    "href": "https://github.com/esphome/esphome",
+    "description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
+    "language": "C++",
+    "stars": 2573,
+    "forks": 723,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "zhzyker",
+    "name": "vulmap",
+    "href": "https://github.com/zhzyker/vulmap",
+    "description": "Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530",
+    "language": "Python",
+    "stars": 521,
+    "forks": 103,
+    "starsInPeriod": 22
+  },
+  {
+    "author": "TeamNewPipe",
+    "name": "NewPipe",
+    "href": "https://github.com/TeamNewPipe/NewPipe",
+    "description": "A libre lightweight streaming front-end for Android.",
+    "language": "Java",
+    "stars": 12003,
+    "forks": 1622,
+    "starsInPeriod": 18
   }
 ]
