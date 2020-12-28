@@ -1,51 +1,51 @@
 # rust
-- [starship](https://github.com/starship/starship)
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [engine](https://github.com/Qovery/engine)
-  - Deploy your apps on any Cloud providers in just a few seconds
-- [wasmer](https://github.com/wasmerio/wasmer)
-  - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
-- [ruffle](https://github.com/ruffle-rs/ruffle)
-  - A Flash Player emulator written in Rust
-- [rust](https://github.com/rust-lang/rust)
-  - Empowering everyone to build reliable and efficient software.
-- [alacritty](https://github.com/alacritty/alacritty)
-  - A cross-platform, GPU-accelerated terminal emulator
 - [bevy](https://github.com/bevyengine/bevy)
   - A refreshingly simple data-driven game engine built in Rust
-- [rustlings](https://github.com/rust-lang/rustlings)
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
+- [tokio](https://github.com/tokio-rs/tokio)
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [hyper](https://github.com/hyperium/hyper)
+  - An HTTP library for Rust
+- [tui-rs](https://github.com/fdehau/tui-rs)
+  - Build terminal user interfaces and dashboards using Rust
+- [polkadot](https://github.com/paritytech/polkadot)
+  - Polkadot Node Implementation
 - [sqlx](https://github.com/launchbadge/sqlx)
   - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
-- [sonic](https://github.com/valeriansaliou/sonic)
-  - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
-- [tauri](https://github.com/tauri-apps/tauri)
-  - Build smaller, faster, and more secure desktop applications with a web frontend.
-- [yourcontrols](https://github.com/Sequal32/yourcontrols)
-  - Shared cockpit for Microsoft Flight Simulator.
+- [zola](https://github.com/getzola/zola)
+  - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+- [tonic](https://github.com/hyperium/tonic)
+  - A native gRPC client & server implementation with async/await support.
+- [book](https://github.com/rust-lang/book)
+  - The Rust Programming Language
+- [wasmer](https://github.com/wasmerio/wasmer)
+  - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+- [rust](https://github.com/rust-lang/rust)
+  - Empowering everyone to build reliable and efficient software.
 - [996.ICU](https://github.com/996icu/996.ICU)
   - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [graph-node](https://github.com/graphprotocol/graph-node)
+  - Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - A curated list of Rust code and resources.
+- [mio](https://github.com/tokio-rs/mio)
+  - Metal IO library for Rust
 - [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
   - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
-- [Findomain](https://github.com/Findomain/Findomain)
-  - The fastest and cross-platform subdomain enumerator, do not waste your time.
+- [Rocket](https://github.com/SergioBenitez/Rocket)
+  - A web framework for Rust.
+- [substrate](https://github.com/paritytech/substrate)
+  - Substrate: The platform for blockchain innovators
+- [wasm-pack](https://github.com/rustwasm/wasm-pack)
+  - 📦✨ your favorite rust -> wasm workflow tool!
+- [reqwest](https://github.com/seanmonstar/reqwest)
+  - An easy and powerful Rust HTTP Client
 - [dog](https://github.com/ogham/dog)
   - Command-line DNS client
-- [rust-blog](https://github.com/pretzelhammer/rust-blog)
-  - Educational blog posts for Rust beginners
-- [solana](https://github.com/solana-labs/solana)
-  - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-- [cleora](https://github.com/Synerise/cleora)
-  - Cleora AI is a general-purpose model for efficient, scalable learning of stable and inductive entity embeddings for heterogeneous relational data.
-- [futures-rs](https://github.com/rust-lang/futures-rs)
-  - Zero-cost asynchronous programming in Rust
-- [tide](https://github.com/http-rs/tide)
-  - Fast and friendly HTTP server framework for async Rust
-- [winit](https://github.com/rust-windowing/winit)
-  - Window handling library in pure Rust
-- [RustScan](https://github.com/RustScan/RustScan)
-  - 🤖 The Modern Port Scanner 🤖
-- [tracing](https://github.com/tokio-rs/tracing)
-  - Application level tracing for Rust.
-- [pyo3](https://github.com/PyO3/pyo3)
-  - Rust bindings for the Python interpreter
+- [GraphScope](https://github.com/alibaba/GraphScope)
+  - GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba
+- [diem](https://github.com/diem/diem)
+  - Diem’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [amethyst](https://github.com/amethyst/amethyst)
+  - Data-oriented and data-driven game engine written in Rust
+- [spotify-tui](https://github.com/Rigellute/spotify-tui)
+  - Spotify for the terminal written in Rust 🚀

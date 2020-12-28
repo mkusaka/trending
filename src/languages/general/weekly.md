@@ -1,50 +1,50 @@
 # general
-- [winapps](https://github.com/Fmstrat/winapps) : Shell
-  - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
-- [hello-algorithm](https://github.com/geekxh/hello-algorithm) : Java
-  - 🌍「算法面试+算法知识」这是一套针对小白的完整算法训练 | 还包括：1、千本开源电子书 2、阿里、字节、滴滴 等面经汇总 3、百张思维导图 （来个Star吧~）
-- [pifuhd](https://github.com/facebookresearch/pifuhd) : Python
-  - High-Resolution 3D Human Digitization from A Single Image.
-- [Website](https://github.com/thenewboston-developers/Website) : TypeScript
-  - The website and documentation for thenewboston.
-- [faker.js](https://github.com/Marak/faker.js) : JavaScript
-  - generate massive amounts of realistic fake data in Node.js and the browser
-- [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) : Python
-  - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020.
-- [chatwoot](https://github.com/chatwoot/chatwoot) : Ruby
-  - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬
-- [gibMacOS](https://github.com/corpnewt/gibMacOS) : Python
-  - Py2/py3 script that can download macOS components direct from Apple
-- [compose-jb](https://github.com/JetBrains/compose-jb) : Kotlin
-  - Jetpack Compose for Desktop, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
-- [pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning) : Jupyter Notebook
-  - Deep Learning (with PyTorch)
-- [2020_benfords](https://github.com/cjph8914/2020_benfords) : Jupyter Notebook
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui) : TypeScript
-  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [AltStore](https://github.com/rileytestut/AltStore) : Swift
-  - AltStore is an alternative app store for non-jailbroken iOS devices.
-- [core](https://github.com/dotnet/core) : Shell
-  - Home repository for .NET Core
-- [eul](https://github.com/gao-sun/eul) : Swift
-  - 🖥️ macOS status monitoring app written in SwiftUI.
-- [modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) : C#
-  - Full Modular Monolith application with Domain-Driven Design approach.
-- [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) : Python
-  - Bringing Old Photo Back to Life (CVPR 2020 oral)
-- [jd-assistant](https://github.com/tychxn/jd-assistant) : Python
-  - 京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能
-- [h5-Dooring](https://github.com/MrXujiang/h5-Dooring) : TypeScript
-  - (H5编辑器)H5-Dooring是一款功能强大，开源免费的H5可视化页面配置解决方案，致力于提供一套简单方便、专业可靠、无限可能的H5落地页最佳实践。技术栈以react为主， 后台采用nodejs开发.
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
-  - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
-- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
-  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-- [starship](https://github.com/starship/starship) : Rust
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [localstack](https://github.com/localstack/localstack) : Python
-  - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
-- [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) : C
-  - OpenCore bootloader
-- [Account-Manager](https://github.com/thenewboston-developers/Account-Manager) : TypeScript
-  - Account manager desktop application for thenewboston digital currency.
+- [ArtLine](https://github.com/vijishmadhavan/ArtLine) : Jupyter Notebook
+  - A Deep Learning based project for creating line art portraits.
+- [v](https://github.com/vlang/v) : V
+  - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io
+- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) : JavaScript
+  - Revive unavailable songs for Netease Cloud Music
+- [open-project-1](https://github.com/UnityTechnologies/open-project-1) : C#
+  - Unity Open Project #1: Action-adventure
+- [bevy](https://github.com/bevyengine/bevy) : Rust
+  - A refreshingly simple data-driven game engine built in Rust
+- [jd-base](https://github.com/EvineDeng/jd-base) : Shell
+  - 京东薅羊毛脚本https://github.com/lxk0301/jd_scripts 的shell套壳工具
+- [edex-ui](https://github.com/GitSquared/edex-ui) : JavaScript
+  - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+- [learngo](https://github.com/inancgumus/learngo) : Go
+  - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
+- [nuclei](https://github.com/projectdiscovery/nuclei) : Go
+  - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
+- [netdata](https://github.com/netdata/netdata) : C
+  - Real-time performance monitoring, done right! https://www.netdata.cloud
+- [serenity](https://github.com/SerenityOS/serenity) : C++
+  - The Serenity Operating System 🐞
+- [ssh-tutorial](https://github.com/wangdoc/ssh-tutorial) : 
+  - SSH 教程
+- [snapdrop](https://github.com/RobinLinus/snapdrop) : JavaScript
+  - A Progressive Web App for local file sharing
+- [imgui](https://github.com/ocornut/imgui) : C++
+  - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) : 
+  - A book series on JavaScript. @YDKJS on twitter.
+- [CyberEngineTweaks](https://github.com/yamashi/CyberEngineTweaks) : C++
+  - Performance boost, bug fixes and hacks for fun for Cyberpunk 2077
+- [E-commerce-Complete-Flutter-UI](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI) : Dart
+- [bitcoin](https://github.com/bitcoin/bitcoin) : C++
+  - Bitcoin Core integration/staging tree
+- [advanced-java](https://github.com/doocs/advanced-java) : Java
+  - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
+- [theia](https://github.com/eclipse-theia/theia) : TypeScript
+  - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+- [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) : C++
+  - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
+- [BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) : Python
+  - Real-Time High-Resolution Background Matting
+- [chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) : JavaScript
+  - Chrome Extensions Samples
+- [tokio](https://github.com/tokio-rs/tokio) : Rust
+  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [Telegram](https://github.com/DrKLO/Telegram) : C++
+  - Telegram for Android source

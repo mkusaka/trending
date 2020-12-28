@@ -1,51 +1,51 @@
 # c++
-- [incubator-brpc](https://github.com/apache/incubator-brpc)
-  - Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services. "brpc" means "better RPC".
-- [flatbuffers](https://github.com/google/flatbuffers)
-  - FlatBuffers: Memory Efficient Serialization Library
-- [PowerToys](https://github.com/microsoft/PowerToys)
-  - Windows system utilities to maximize productivity
-- [mediapipe](https://github.com/google/mediapipe)
-  - MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.
-- [hackergame2020-writeups](https://github.com/USTC-Hackergame/hackergame2020-writeups)
-  - 中国科学技术大学第七届信息安全大赛的官方与非官方题解
-- [libzmq](https://github.com/zeromq/libzmq)
-  - ZeroMQ core engine in C++, implements ZMTP/3.1
-- [milvus](https://github.com/milvus-io/milvus)
-  - An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy
-- [telegram-bot-api](https://github.com/tdlib/telegram-bot-api)
-  - 
-- [Magisk](https://github.com/topjohnwu/Magisk)
-  - The Magic Mask for Android
-- [protobuf](https://github.com/protocolbuffers/protobuf)
-  - Protocol Buffers - Google's data interchange format
-- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
-  - C++那些事
-- [Marlin](https://github.com/MarlinFirmware/Marlin)
-  - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
+- [serenity](https://github.com/SerenityOS/serenity)
+  - The Serenity Operating System 🐞
+- [imgui](https://github.com/ocornut/imgui)
+  - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+- [CyberEngineTweaks](https://github.com/yamashi/CyberEngineTweaks)
+  - Performance boost, bug fixes and hacks for fun for Cyberpunk 2077
+- [bitcoin](https://github.com/bitcoin/bitcoin)
+  - Bitcoin Core integration/staging tree
+- [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
+  - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
+- [Telegram](https://github.com/DrKLO/Telegram)
+  - Telegram for Android source
+- [dolphin](https://github.com/dolphin-emu/dolphin)
+  - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
 - [srs](https://github.com/ossrs/srs)
   - SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.
-- [tensorflow](https://github.com/tensorflow/tensorflow)
-  - An Open Source Machine Learning Framework for Everyone
-- [Catch2](https://github.com/catchorg/Catch2)
-  - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-- [vowpal_wabbit](https://github.com/VowpalWabbit/vowpal_wabbit)
-  - Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
-- [workflow](https://github.com/sogou/workflow)
-  - C++ Programming Paradigm with Asynchronous Networking
-- [AirSim](https://github.com/microsoft/AirSim)
-  - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
-- [terminal](https://github.com/microsoft/terminal)
-  - The new Windows Terminal and the original Windows console host, all in the same place!
-- [pigasus](https://github.com/cmu-snap/pigasus)
-  - 100Gbps Intrusion Detection and Prevention System
-- [jetson-inference](https://github.com/dusty-nv/jetson-inference)
-  - Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
-- [envoy](https://github.com/envoyproxy/envoy)
-  - Cloud-native high-performance edge/middle/service proxy
-- [uWebSockets](https://github.com/uNetworking/uWebSockets)
-  - Simple, secure & standards compliant web server for the most demanding of applications
-- [kys-cpp](https://github.com/scarsty/kys-cpp)
-  - 《金庸群侠传》c++复刻版，已完工
-- [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
-  - Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs
+- [FreeCAD](https://github.com/FreeCAD/FreeCAD)
+  - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker
+- [rocksdb](https://github.com/facebook/rocksdb)
+  - A library that provides an embeddable, persistent key-value store for fast storage.
+- [qBittorrent](https://github.com/qbittorrent/qBittorrent)
+  - qBittorrent BitTorrent client
+- [yuzu](https://github.com/yuzu-emu/yuzu)
+  - Nintendo Switch Emulator
+- [FlaxEngine](https://github.com/FlaxEngine/FlaxEngine)
+  - Flax Engine – multi-platform 3D game engine
+- [Marlin](https://github.com/MarlinFirmware/Marlin)
+  - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
+- [vnpy](https://github.com/vnpy/vnpy)
+  - 基于Python的开源量化交易平台开发框架
+- [DearPyGui](https://github.com/hoffstadt/DearPyGui)
+  - Dear PyGui: A fast and powerful Graphical User Interface for Python with minimal dependencies
+- [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2)
+  - An open source re-implementation of RollerCoaster Tycoon 2 🎢
+- [esphome](https://github.com/esphome/esphome)
+  - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+- [WLED](https://github.com/Aircoookie/WLED)
+  - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
+- [ZLMediaKit](https://github.com/xia-chu/ZLMediaKit)
+  - A lightweight RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181 server and client framework based on C++11
+- [faiss](https://github.com/facebookresearch/faiss)
+  - A library for efficient similarity search and clustering of dense vectors.
+- [mediapipe](https://github.com/google/mediapipe)
+  - Cross-platform, customizable ML solutions for live and streaming media.
+- [PrusaSlicer](https://github.com/prusa3d/PrusaSlicer)
+  - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
+- [opencv](https://github.com/opencv/opencv)
+  - Open Source Computer Vision Library
+- [interview](https://github.com/huihut/interview)
+  - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendatio…

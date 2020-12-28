@@ -1,51 +1,51 @@
 # kotlin
-- [compose-jb](https://github.com/JetBrains/compose-jb)
-  - Jetpack Compose for Desktop, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
-- [legado](https://github.com/gedoor/legado)
-  - 阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-- [VancedManager](https://github.com/YTVanced/VancedManager)
-  - Vanced Installer
-- [ZY-Player-Android](https://github.com/vicedev/ZY-Player-Android)
-  - 基于https://github.com/Hunlongyu/ZY-Player 做的Android版本 资源播放器
-- [graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin)
-  - Libraries for running GraphQL in Kotlin
-- [android-youtube-player](https://github.com/PierfrancescoSoffritti/android-youtube-player)
-  - YouTube Player library for Android and Chromecast, stable and customizable.
-- [Unciv](https://github.com/yairm210/Unciv)
-  - Open-source Android/Desktop remake of Civ V
+- [mirai](https://github.com/mamoe/mirai)
+  - 高效率 QQ 机器人框架 / High-performance bot framework for Tencent QQ
+- [compose-samples](https://github.com/android/compose-samples)
+  - Official Jetpack Compose samples.
 - [TapTap](https://github.com/KieronQuinn/TapTap)
   - Port of the double tap on back of device feature from Android 11 to any Android 7.0+ device
-- [detekt](https://github.com/detekt/detekt)
-  - Static code analysis for Kotlin
-- [koin](https://github.com/InsertKoinIO/koin)
-  - Koin - a pragmatic lightweight dependency injection framework for Kotlin
-- [camera-samples](https://github.com/android/camera-samples)
-  - Multiple samples showing the best practices in camera APIs on Android.
-- [architecture-samples](https://github.com/android/architecture-samples)
-  - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
-- [ideavim](https://github.com/JetBrains/ideavim)
-  - Vim emulation plugin for IDEs based on the IntelliJ Platform
-- [Pokedex](https://github.com/skydoves/Pokedex)
-  - 🗡️ Android Pokedex using Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
-- [javalin](https://github.com/tipsy/javalin)
-  - A simple and modern Java and Kotlin web framework
-- [p3c](https://github.com/alibaba/p3c)
-  - Alibaba Java Coding Guidelines pmd implements and IDE plugin
-- [android](https://github.com/home-assistant/android)
-  - 📱 Home Assistant Companion for Android
-- [Exposed](https://github.com/JetBrains/Exposed)
-  - Kotlin SQL Framework
-- [karel](https://github.com/fredoverflow/karel)
-  - Karel The Robot
-- [android-components](https://github.com/mozilla-mobile/android-components)
-  - A collection of Android libraries to build browsers or browser-like applications.
-- [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators)
-  - An Android Animation library which easily add itemanimator to RecyclerView items.
-- [kotlin](https://github.com/JetBrains/kotlin)
-  - The Kotlin Programming Language
-- [architecture-components-samples](https://github.com/android/architecture-components-samples)
-  - Samples for Android Architecture Components.
-- [v2rayNG](https://github.com/2dust/v2rayNG)
-  - 
 - [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
   - A shadowsocks client for Android
+- [compose-jb](https://github.com/JetBrains/compose-jb)
+  - Jetpack Compose for Desktop, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+- [XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools)
+  - A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot
+- [VancedManager](https://github.com/YTVanced/VancedManager)
+  - Vanced Installer
+- [tivi](https://github.com/chrisbanes/tivi)
+  - Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.
+- [RetroMusicPlayer](https://github.com/h4h13/RetroMusicPlayer)
+  - Best material design music player for Android
+- [Android](https://github.com/duckduckgo/Android)
+  - DuckDuckGo Android App
+- [tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
+  - Free and open source manga reader for Android.
+- [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines)
+  - Library support for Kotlin coroutines
+- [ktor](https://github.com/ktorio/ktor)
+  - Framework for quickly creating connected applications in Kotlin with minimal effort
+- [architecture-components-samples](https://github.com/android/architecture-components-samples)
+  - Samples for Android Architecture Components.
+- [element-android](https://github.com/vector-im/element-android)
+  - A glossy Matrix collaboration client for Android.
+- [plaid](https://github.com/android/plaid)
+  - An Android app which provides design news & inspiration as well as being an example of implementing material design.
+- [fenix](https://github.com/mozilla-mobile/fenix)
+  - Firefox for Android
+- [p3c](https://github.com/alibaba/p3c)
+  - Alibaba Java Coding Guidelines pmd implements and IDE plugin
+- [leakcanary](https://github.com/square/leakcanary)
+  - A memory leak detection library for Android.
+- [iosched](https://github.com/google/iosched)
+  - The Google I/O 2019 Android App
+- [sunflower](https://github.com/android/sunflower)
+  - A gardening app illustrating Android development best practices with Android Jetpack.
+- [client](https://github.com/kami-blue/client)
+  - KAMI Blue: a continuation of 1.12.2 KAMI
+- [FGA](https://github.com/Fate-Grand-Automata/FGA)
+  - Auto-battle app for F/GO Android
+- [graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin)
+  - Libraries for running GraphQL in Kotlin
+- [andfun-kotlin-guess-it](https://github.com/udacity/andfun-kotlin-guess-it)
+  - 
