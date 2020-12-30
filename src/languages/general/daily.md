@@ -1,51 +1,48 @@
 # general
-- [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) : JavaScript
-  - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [starship](https://github.com/starship/starship) : Rust
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [awesome](https://github.com/sindresorhus/awesome) : 
-  - 😎 Awesome lists about all kinds of interesting topics
-- [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) : Python
-  - Bringing Old Photo Back to Life (CVPR 2020 oral)
-- [gping](https://github.com/orf/gping) : Rust
-  - Ping, but with a graph
-- [FallChallenge2020](https://github.com/CodinGame/FallChallenge2020) : JavaScript
-  - Source code for CodinGame's Fall Challenge 2020 event.
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui) : TypeScript
-  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [iptv](https://github.com/iptv-org/iptv) : JavaScript
-  - Collection of 5000+ publicly available IPTV channels from all over the world
-- [k0s](https://github.com/k0sproject/k0s) : Go
-  - k0s - Zero Friction Kubernetes
-- [alacritty](https://github.com/alacritty/alacritty) : Rust
-  - A cross-platform, GPU-accelerated terminal emulator
-- [macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) : Vue
-  - Replacement icons for popular apps in the style of macOS Big Sur
-- [rustlings](https://github.com/rust-lang/rustlings) : Rust
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
-  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
-  - A long list of (advanced) JavaScript questions, and their explanations ✨
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
-  - 💯 Materials to help you rock your next coding interview
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [faker](https://github.com/joke2k/faker) : Python
-  - Faker is a Python package that generates fake data for you.
-- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) : 
-  - A list of awesome beginners-friendly projects.
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [bitcoin](https://github.com/bitcoin/bitcoin) : C++
-  - Bitcoin Core integration/staging tree
+- [jd_seckill](https://github.com/huanghyw/jd_seckill) : Python
+- [workadventure](https://github.com/thecodingmachine/workadventure) : TypeScript
+  - A collaborative web application (virtual office) presented as a 16-bit RPG video game
+- [substrate](https://github.com/paritytech/substrate) : Rust
+  - Substrate: The platform for blockchain innovators
+- [models](https://github.com/tensorflow/models) : Python
+  - Models and examples built with TensorFlow
+- [Tmall_Tickets](https://github.com/cehui0303/Tmall_Tickets) : JavaScript
+  - 天猫超市茅台抢票功能
+- [xbmc](https://github.com/xbmc/xbmc) : C++
+  - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
+- [computer-science](https://github.com/ossu/computer-science) : 
+  - 🎓 Path to a free self-taught education in Computer Science!
+- [Cracking-The-Coding-Interview-Python-Solutions-and-Explanations](https://github.com/arpan74/Cracking-The-Coding-Interview-Python-Solutions-and-Explanations) : 
+  - Cracking the Coding Interview in Python 3. The solutions all have detailed explanations with visuals.
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) : 
+  - A complete computer science study plan to become a software engineer.
+- [vas-quod](https://github.com/flouthoc/vas-quod) : Rust
+  - 🚡 Minimal linux container runtime.
+- [social-analyzer](https://github.com/qeeqbox/social-analyzer) : JavaScript
+  - API and Web App for analyzing & finding a person profile across 300+ social media websites (Detections are updated regularly)
+- [ansible](https://github.com/ansible/ansible) : Python
+  - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) : PHP
+  - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
+- [ValorantStreamOverlay](https://github.com/RumbleMike/ValorantStreamOverlay) : C#
 - [core](https://github.com/home-assistant/core) : Python
-  - 🏡 Open source home automation that puts local control and privacy first
-- [Testnet3-Challenges](https://github.com/Concordium/Testnet3-Challenges) : 
-  - This repo is dedicated to Concordium Incentivized Testnet3.
-- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) : Python
-  - 30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.
-- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) : Go
-  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+  - WE ARE ON HOLIDAY. REVIEWS WILL TAKE A WHILE. HAPPY HOLIDAYS! ✨ 🏡 Open source home automation that puts local control and privacy first
+- [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) : JavaScript
+  - Roadmap to becoming an Artificial Intelligence Expert in 2020
+- [Complete-Placement-Preparation](https://github.com/anushka23g/Complete-Placement-Preparation) : 
+  - This repository consists of all the material required for cracking the coding rounds and technical interviews during placements.
+- [Magisk](https://github.com/topjohnwu/Magisk) : C++
+  - The Magic Mask for Android
+- [czkawka](https://github.com/qarmin/czkawka) : Rust
+  - Multi functional app to find duplicates, empty folders, similar images etc.
+- [CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) : C#
+  - Clean Architecture Solution Template for Angular 10 and .NET 5
+- [KingOfBugBountyTips](https://github.com/KingOfBugbounty/KingOfBugBountyTips) : 
+- [PowerToys](https://github.com/microsoft/PowerToys) : C++
+  - Windows system utilities to maximize productivity
+- [awesome-cs-books](https://github.com/imarvinle/awesome-cs-books) : 
+  - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
+- [covid-19-data](https://github.com/owid/covid-19-data) : Python
+  - Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data
+- [public-apis](https://github.com/public-apis/public-apis) : Python
+  - A collective list of free APIs for use in software and web development.
