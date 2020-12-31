@@ -1,51 +1,51 @@
 # kotlin
-- [VancedManager](https://github.com/YTVanced/VancedManager)
-  - Vanced Installer
-- [mirai](https://github.com/mamoe/mirai)
-  - 高效率 QQ 机器人框架 / High-performance bot framework for Tencent QQ
-- [kotlin](https://github.com/JetBrains/kotlin)
-  - The Kotlin Programming Language
-- [v2rayNG](https://github.com/2dust/v2rayNG)
-  - 
-- [tachiyomi](https://github.com/inorichi/tachiyomi)
-  - Free and open source manga reader for Android
-- [javalin](https://github.com/tipsy/javalin)
-  - A simple and modern Java and Kotlin web framework
-- [karel](https://github.com/fredoverflow/karel)
-  - Karel The Robot
-- [Android](https://github.com/duckduckgo/Android)
-  - DuckDuckGo Android App
-- [XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools)
-  - A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot
-- [Unciv](https://github.com/yairm210/Unciv)
-  - Open-source Android/Desktop remake of Civ V
-- [legado](https://github.com/gedoor/legado)
-  - 阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-- [StreetComplete](https://github.com/westnordost/StreetComplete)
-  - Easy to use OpenStreetMap editor for Android
-- [element-android](https://github.com/vector-im/element-android)
-  - A glossy Matrix collaboration client for Android.
-- [RetroMusicPlayer](https://github.com/h4h13/RetroMusicPlayer)
-  - Best material design music player for Android
-- [fenix](https://github.com/mozilla-mobile/fenix)
-  - Firefox for Android
-- [android-kotlin-fundamentals-starter-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-starter-apps)
-  - android-kotlin-fundamentals-starter-apps
-- [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)
-  - Spotify Music Downloader For Android!
-- [android](https://github.com/home-assistant/android)
-  - 📱 Home Assistant Companion for Android
-- [blokada](https://github.com/blokadaorg/blokada)
-  - The official repo for Blokada for Android and iOS.
+- [architecture-samples](https://github.com/android/architecture-samples)
+  - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
+- [tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
+  - Free and open source manga reader for Android.
+- [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android)
+  - Native Android app using the Apple/Google exposure notification API.
 - [architecture-components-samples](https://github.com/android/architecture-components-samples)
   - Samples for Android Architecture Components.
-- [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd)
-  - Main UserLAnd Repository
-- [Music-Player-GO](https://github.com/enricocid/Music-Player-GO)
-  - 🎶🎼 Very slim music player 👨‍🎤 100% made in Italy 🍕🌳🌞🍝🌄
-- [ScreenStream](https://github.com/dkrivoruchko/ScreenStream)
-  - Screen Stream over HTTP mobile app
-- [okio](https://github.com/square/okio)
-  - A modern I/O library for Android, Kotlin, and Java.
-- [Vigilante](https://github.com/CraZyLegenD/Vigilante)
-  - 🛡️ Android security (camera/microphone dots indicators) app using Hilt, Animations, Coroutines, Material, StateFlow, Jetpack (Room, ViewModel, Paging, Security, Biometrics, Start-up) based on MVVM architecture.
+- [UltimateBarX](https://github.com/Zackratos/UltimateBarX)
+  - Make Android transparent statusbar and navigationbar easy.
+- [transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local)
+  - 📌 The missing Java™ std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits ThreadLocal values between threads even using thread pooling components.
+- [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines)
+  - Library support for Kotlin coroutines
+- [android-kotlin-fundamentals-starter-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-starter-apps)
+  - android-kotlin-fundamentals-starter-apps
+- [compose-browser-demo](https://github.com/ShikaSD/compose-browser-demo)
+  - Demo of Jetpack Compose working in the browser with Kotlin/JS
+- [sunflower](https://github.com/android/sunflower)
+  - A gardening app illustrating Android development best practices with Android Jetpack.
+- [ktlint](https://github.com/pinterest/ktlint)
+  - An anti-bikeshedding Kotlin linter with built-in formatter
+- [javalin](https://github.com/tipsy/javalin)
+  - A simple and modern Java and Kotlin web framework
+- [plaid](https://github.com/android/plaid)
+  - An Android app which provides design news & inspiration as well as being an example of implementing material design.
+- [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)
+  - Spotify/Gaana/Youtube Music Downloader For Android!
+- [vlc-android](https://github.com/videolan/vlc-android)
+  - VLC for Android, Android TV and ChromeOS
+- [flexbox-layout](https://github.com/google/flexbox-layout)
+  - Flexbox for Android
+- [android-kotlin-fundamentals-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-apps)
+  - android-kotlin-fundamentals-apps
+- [AndroidX-Jetpack-Practice](https://github.com/hi-dhl/AndroidX-Jetpack-Practice)
+  - 本仓库致力于建立最全、最新的的 AndroidX Jetpack 相关组件的实践项目 以及组件对应的分析文章（持续更新中）如果对你有帮助，请在右上角 star 一下，感谢
+- [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators)
+  - An Android Animation library which easily add itemanimator to RecyclerView items.
+- [android](https://github.com/home-assistant/android)
+  - 📱 Home Assistant Companion for Android
+- [mirai](https://github.com/mamoe/mirai)
+  - 高效率 QQ 机器人框架 / High-performance bot framework for Tencent QQ
+- [Android-Iconics](https://github.com/mikepenz/Android-Iconics)
+  - Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application.
+- [camera-samples](https://github.com/android/camera-samples)
+  - Multiple samples showing the best practices in camera APIs on Android.
+- [ktlint-gradle](https://github.com/JLLeitschuh/ktlint-gradle)
+  - A ktlint gradle plugin
+- [intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template)
+  - Template repository for creating plugins for IntelliJ Platform

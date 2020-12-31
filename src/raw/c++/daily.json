@@ -1,103 +1,23 @@
 [
   {
-    "author": "bitcoin",
-    "name": "bitcoin",
-    "href": "https://github.com/bitcoin/bitcoin",
-    "description": "Bitcoin Core integration/staging tree",
+    "author": "microsoft",
+    "name": "PowerToys",
+    "href": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
     "language": "C++",
-    "stars": 45984,
-    "forks": 26635,
-    "starsInPeriod": 25
+    "stars": 47423,
+    "forks": 2607,
+    "starsInPeriod": 215
   },
   {
-    "author": "solemnwarning",
-    "name": "rehex",
-    "href": "https://github.com/solemnwarning/rehex",
-    "description": "Reverse Engineers' Hex Editor",
+    "author": "hoffstadt",
+    "name": "DearPyGui",
+    "href": "https://github.com/hoffstadt/DearPyGui",
+    "description": "Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies",
     "language": "C++",
-    "stars": 1060,
-    "forks": 44,
-    "starsInPeriod": 240
-  },
-  {
-    "author": "an-tao",
-    "name": "drogon",
-    "href": "https://github.com/an-tao/drogon",
-    "description": "Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows",
-    "language": "C++",
-    "stars": 3931,
-    "forks": 323,
-    "starsInPeriod": 11
-  },
-  {
-    "author": "musescore",
-    "name": "MuseScore",
-    "href": "https://github.com/musescore/MuseScore",
-    "description": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",
-    "language": "C++",
-    "stars": 5253,
-    "forks": 1509,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "TheAlgorithms",
-    "name": "C-Plus-Plus",
-    "href": "https://github.com/TheAlgorithms/C-Plus-Plus",
-    "description": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
-    "language": "C++",
-    "stars": 9144,
-    "forks": 3102,
-    "starsInPeriod": 14
-  },
-  {
-    "author": "ocornut",
-    "name": "imgui",
-    "href": "https://github.com/ocornut/imgui",
-    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
-    "language": "C++",
-    "stars": 24872,
-    "forks": 4161,
-    "starsInPeriod": 22
-  },
-  {
-    "author": "godotengine",
-    "name": "godot",
-    "href": "https://github.com/godotengine/godot",
-    "description": "Godot Engine – Multi-platform 2D and 3D game engine",
-    "language": "C++",
-    "stars": 34713,
-    "forks": 6551,
-    "starsInPeriod": 28
-  },
-  {
-    "author": "qbittorrent",
-    "name": "qBittorrent",
-    "href": "https://github.com/qbittorrent/qBittorrent",
-    "description": "qBittorrent BitTorrent client",
-    "language": "C++",
-    "stars": 10495,
-    "forks": 1887,
-    "starsInPeriod": 14
-  },
-  {
-    "author": "mozilla",
-    "name": "DeepSpeech",
-    "href": "https://github.com/mozilla/DeepSpeech",
-    "description": "DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.",
-    "language": "C++",
-    "stars": 15761,
-    "forks": 2927,
-    "starsInPeriod": 15
-  },
-  {
-    "author": "Aircoookie",
-    "name": "WLED",
-    "href": "https://github.com/Aircoookie/WLED",
-    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
-    "language": "C++",
-    "stars": 3522,
-    "forks": 597,
-    "starsInPeriod": 30
+    "stars": 3381,
+    "forks": 141,
+    "starsInPeriod": 82
   },
   {
     "author": "xbmc",
@@ -105,99 +25,39 @@
     "href": "https://github.com/xbmc/xbmc",
     "description": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.",
     "language": "C++",
-    "stars": 11385,
-    "forks": 5571,
+    "stars": 11887,
+    "forks": 5612,
+    "starsInPeriod": 184
+  },
+  {
+    "author": "catchorg",
+    "name": "Catch2",
+    "href": "https://github.com/catchorg/Catch2",
+    "description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)",
+    "language": "C++",
+    "stars": 12580,
+    "forks": 2112,
     "starsInPeriod": 7
   },
   {
-    "author": "OpenZWave",
-    "name": "open-zwave",
-    "href": "https://github.com/OpenZWave/open-zwave",
-    "description": "a C++ library to control Z-Wave Networks via a USB Z-Wave Controller.",
+    "author": "taichi-dev",
+    "name": "taichi",
+    "href": "https://github.com/taichi-dev/taichi",
+    "description": "Productive & portable programming language for high-performance, sparse & differentiable computing on CPUs & GPUs",
     "language": "C++",
-    "stars": 975,
-    "forks": 911,
-    "starsInPeriod": 0
-  },
-  {
-    "author": "google",
-    "name": "googletest",
-    "href": "https://github.com/google/googletest",
-    "description": "Googletest - Google Testing and Mocking Framework",
-    "language": "C++",
-    "stars": 18702,
-    "forks": 6795,
-    "starsInPeriod": 17
-  },
-  {
-    "author": "fmtlib",
-    "name": "fmt",
-    "href": "https://github.com/fmtlib/fmt",
-    "description": "A modern formatting library",
-    "language": "C++",
-    "stars": 9661,
-    "forks": 1175,
+    "stars": 12737,
+    "forks": 1368,
     "starsInPeriod": 6
   },
   {
-    "author": "DrKLO",
-    "name": "Telegram",
-    "href": "https://github.com/DrKLO/Telegram",
-    "description": "Telegram for Android source",
+    "author": "esp8266",
+    "name": "Arduino",
+    "href": "https://github.com/esp8266/Arduino",
+    "description": "ESP8266 core for Arduino",
     "language": "C++",
-    "stars": 15103,
-    "forks": 5519,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "topjohnwu",
-    "name": "Magisk",
-    "href": "https://github.com/topjohnwu/Magisk",
-    "description": "The Magic Mask for Android",
-    "language": "C++",
-    "stars": 14148,
-    "forks": 2343,
-    "starsInPeriod": 19
-  },
-  {
-    "author": "esphome",
-    "name": "esphome",
-    "href": "https://github.com/esphome/esphome",
-    "description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
-    "language": "C++",
-    "stars": 2394,
-    "forks": 669,
+    "stars": 12282,
+    "forks": 10524,
     "starsInPeriod": 6
-  },
-  {
-    "author": "atcoder",
-    "name": "ac-library",
-    "href": "https://github.com/atcoder/ac-library",
-    "description": "AtCoder Library",
-    "language": "C++",
-    "stars": 331,
-    "forks": 46,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "ArduPilot",
-    "name": "ardupilot",
-    "href": "https://github.com/ArduPilot/ardupilot",
-    "description": "ArduPlane, ArduCopter, ArduRover source",
-    "language": "C++",
-    "stars": 5390,
-    "forks": 10042,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "pytorch",
-    "name": "pytorch",
-    "href": "https://github.com/pytorch/pytorch",
-    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-    "language": "C++",
-    "stars": 43913,
-    "forks": 11555,
-    "starsInPeriod": 38
   },
   {
     "author": "MarlinFirmware",
@@ -205,29 +65,159 @@
     "href": "https://github.com/MarlinFirmware/Marlin",
     "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
     "language": "C++",
-    "stars": 8868,
-    "forks": 12288,
+    "stars": 9370,
+    "forks": 12792,
+    "starsInPeriod": 52
+  },
+  {
+    "author": "triton-inference-server",
+    "name": "server",
+    "href": "https://github.com/triton-inference-server/server",
+    "description": "The Triton Inference Server provides an optimized cloud and edge inferencing solution.",
+    "language": "C++",
+    "stars": 1693,
+    "forks": 373,
     "starsInPeriod": 8
   },
   {
-    "author": "RPCS3",
-    "name": "rpcs3",
-    "href": "https://github.com/RPCS3/rpcs3",
-    "description": "PS3 emulator/debugger",
+    "author": "google",
+    "name": "flatbuffers",
+    "href": "https://github.com/google/flatbuffers",
+    "description": "FlatBuffers: Memory Efficient Serialization Library",
     "language": "C++",
-    "stars": 8502,
-    "forks": 1389,
-    "starsInPeriod": 2
+    "stars": 15576,
+    "forks": 2399,
+    "starsInPeriod": 9
   },
   {
-    "author": "yuzu-emu",
-    "name": "yuzu",
-    "href": "https://github.com/yuzu-emu/yuzu",
-    "description": "Nintendo Switch Emulator",
+    "author": "PixelRick",
+    "name": "CyberpunkSaveEditor",
+    "href": "https://github.com/PixelRick/CyberpunkSaveEditor",
+    "description": "A tool to edit Cyberpunk 2077 sav.dat files",
     "language": "C++",
-    "stars": 12514,
-    "forks": 1034,
+    "stars": 63,
+    "forks": 4,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "Light-City",
+    "name": "CPlusPlusThings",
+    "href": "https://github.com/Light-City/CPlusPlusThings",
+    "description": "C++那些事",
+    "language": "C++",
+    "stars": 8817,
+    "forks": 2081,
+    "starsInPeriod": 19
+  },
+  {
+    "author": "google",
+    "name": "googletest",
+    "href": "https://github.com/google/googletest",
+    "description": "Googletest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "stars": 19793,
+    "forks": 7024,
+    "starsInPeriod": 15
+  },
+  {
+    "author": "ceph",
+    "name": "ceph",
+    "href": "https://github.com/ceph/ceph",
+    "description": "Ceph is a distributed object, block, and file storage platform",
+    "language": "C++",
+    "stars": 8633,
+    "forks": 4138,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "nlohmann",
+    "name": "json",
+    "href": "https://github.com/nlohmann/json",
+    "description": "JSON for Modern C++",
+    "language": "C++",
+    "stars": 22574,
+    "forks": 3916,
+    "starsInPeriod": 19
+  },
+  {
+    "author": "apache",
+    "name": "thrift",
+    "href": "https://github.com/apache/thrift",
+    "description": "Apache Thrift",
+    "language": "C++",
+    "stars": 7990,
+    "forks": 3501,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "commaai",
+    "name": "openpilot",
+    "href": "https://github.com/commaai/openpilot",
+    "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.",
+    "language": "C++",
+    "stars": 21752,
+    "forks": 4536,
+    "starsInPeriod": 23
+  },
+  {
+    "author": "ethereum",
+    "name": "solidity",
+    "href": "https://github.com/ethereum/solidity",
+    "description": "Solidity, the Contract-Oriented Programming Language",
+    "language": "C++",
+    "stars": 8863,
+    "forks": 2475,
+    "starsInPeriod": 50
+  },
+  {
+    "author": "hyperion-project",
+    "name": "hyperion.ng",
+    "href": "https://github.com/hyperion-project/hyperion.ng",
+    "description": "The successor to Hyperion aka Hyperion Next Generation",
+    "language": "C++",
+    "stars": 761,
+    "forks": 215,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "emscripten-core",
+    "name": "emscripten",
+    "href": "https://github.com/emscripten-core/emscripten",
+    "description": "Emscripten: An LLVM-to-WebAssembly Compiler",
+    "language": "C++",
+    "stars": 20067,
+    "forks": 2470,
     "starsInPeriod": 8
+  },
+  {
+    "author": "musescore",
+    "name": "MuseScore",
+    "href": "https://github.com/musescore/MuseScore",
+    "description": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",
+    "language": "C++",
+    "stars": 5381,
+    "forks": 1534,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "sass",
+    "name": "node-sass",
+    "href": "https://github.com/sass/node-sass",
+    "description": "🌈 Node.js bindings to libsass",
+    "language": "C++",
+    "stars": 7538,
+    "forks": 1167,
+    "starsInPeriod": 0
+  },
+  {
+    "author": "bitcoin",
+    "name": "bitcoin",
+    "href": "https://github.com/bitcoin/bitcoin",
+    "description": "Bitcoin Core integration/staging tree",
+    "language": "C++",
+    "stars": 47240,
+    "forks": 26929,
+    "starsInPeriod": 42
   },
   {
     "author": "dusty-nv",
@@ -235,18 +225,28 @@
     "href": "https://github.com/dusty-nv/jetson-inference",
     "description": "Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.",
     "language": "C++",
-    "stars": 3750,
-    "forks": 1669,
-    "starsInPeriod": 7
+    "stars": 3932,
+    "forks": 1752,
+    "starsInPeriod": 5
   },
   {
-    "author": "aseprite",
-    "name": "aseprite",
-    "href": "https://github.com/aseprite/aseprite",
-    "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
+    "author": "facebook",
+    "name": "folly",
+    "href": "https://github.com/facebook/folly",
+    "description": "An open-source C++ library developed and used at Facebook.",
     "language": "C++",
-    "stars": 10666,
-    "forks": 1036,
-    "starsInPeriod": 18
+    "stars": 16076,
+    "forks": 3772,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "sphawes",
+    "name": "index",
+    "href": "https://github.com/sphawes/index",
+    "description": "The Index is an open source pick and place machine.",
+    "language": "C++",
+    "stars": 929,
+    "forks": 110,
+    "starsInPeriod": 3
   }
 ]

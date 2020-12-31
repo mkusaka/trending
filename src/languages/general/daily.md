@@ -1,51 +1,44 @@
 # general
-- [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) : JavaScript
-  - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [starship](https://github.com/starship/starship) : Rust
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [awesome](https://github.com/sindresorhus/awesome) : 
-  - 😎 Awesome lists about all kinds of interesting topics
-- [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) : Python
-  - Bringing Old Photo Back to Life (CVPR 2020 oral)
-- [gping](https://github.com/orf/gping) : Rust
-  - Ping, but with a graph
-- [FallChallenge2020](https://github.com/CodinGame/FallChallenge2020) : JavaScript
-  - Source code for CodinGame's Fall Challenge 2020 event.
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui) : TypeScript
-  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [iptv](https://github.com/iptv-org/iptv) : JavaScript
-  - Collection of 5000+ publicly available IPTV channels from all over the world
-- [k0s](https://github.com/k0sproject/k0s) : Go
-  - k0s - Zero Friction Kubernetes
-- [alacritty](https://github.com/alacritty/alacritty) : Rust
-  - A cross-platform, GPU-accelerated terminal emulator
-- [macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) : Vue
-  - Replacement icons for popular apps in the style of macOS Big Sur
-- [rustlings](https://github.com/rust-lang/rustlings) : Rust
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
-  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
-  - A long list of (advanced) JavaScript questions, and their explanations ✨
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
-  - 💯 Materials to help you rock your next coding interview
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [faker](https://github.com/joke2k/faker) : Python
-  - Faker is a Python package that generates fake data for you.
-- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) : 
-  - A list of awesome beginners-friendly projects.
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [bitcoin](https://github.com/bitcoin/bitcoin) : C++
-  - Bitcoin Core integration/staging tree
-- [core](https://github.com/home-assistant/core) : Python
-  - 🏡 Open source home automation that puts local control and privacy first
-- [Testnet3-Challenges](https://github.com/Concordium/Testnet3-Challenges) : 
-  - This repo is dedicated to Concordium Incentivized Testnet3.
-- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) : Python
-  - 30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.
+- [jd_seckill](https://github.com/huanghyw/jd_seckill) : Python
+- [Tmall_Tickets](https://github.com/cehui0303/Tmall_Tickets) : JavaScript
+  - 天猫超市茅台抢票功能
+- [social-analyzer](https://github.com/qeeqbox/social-analyzer) : JavaScript
+  - API and Web App for analyzing & finding a person profile across 300+ social media websites (Detections are updated regularly)
+- [GHunt](https://github.com/mxrch/GHunt) : Python
+  - 🕵️‍♂️ Investigate Google Accounts with emails.
+- [computer-science](https://github.com/ossu/computer-science) : 
+  - 🎓 Path to a free self-taught education in Computer Science!
+- [workadventure](https://github.com/thecodingmachine/workadventure) : TypeScript
+  - A collaborative web application (virtual office) presented as a 16-bit RPG video game
+- [github_huanghyw_jd_seckill](https://github.com/back8/github_huanghyw_jd_seckill) : Python
+- [joplin](https://github.com/laurent22/joplin) : JavaScript
+  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [basiscash-protocol](https://github.com/Basis-Cash/basiscash-protocol) : Solidity
+  - Solidity implementation of the Basis Cash Protocol
 - [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) : Go
   - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [PowerToys](https://github.com/microsoft/PowerToys) : C++
+  - Windows system utilities to maximize productivity
+- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) : PHP
+  - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) : JavaScript
+  - ✅ The Node.js best practices list (December 2020)
+- [models](https://github.com/tensorflow/models) : Python
+  - Models and examples built with TensorFlow
+- [covid-19-data](https://github.com/owid/covid-19-data) : Python
+  - Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data
+- [core](https://github.com/home-assistant/core) : Python
+  - WE ARE ON HOLIDAY. REVIEWS WILL TAKE A WHILE. HAPPY HOLIDAYS! ✨ 🏡 Open source home automation that puts local control and privacy first
+- [Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) : 
+  - Xiaomi Mobile Phone Kernel OpenSource
+- [KingOfBugBountyTips](https://github.com/KingOfBugbounty/KingOfBugBountyTips) : 
+- [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) : 
+  - A list of resources for those interested in getting started in bug bounties
+- [jd-assistant](https://github.com/tychxn/jd-assistant) : Python
+  - 京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能
+- [react-magic-painter](https://github.com/codeAdrian/react-magic-painter) : TypeScript
+- [ValorantStreamOverlay](https://github.com/RumbleMike/ValorantStreamOverlay) : C#
+- [upptime](https://github.com/upptime/upptime) : 
+  - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
+- [city-roads](https://github.com/anvaka/city-roads) : JavaScript
+  - Visualization of all roads within any city
