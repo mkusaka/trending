@@ -1,53 +1,33 @@
 [
   {
-    "author": "microsoft",
-    "name": "Web-Dev-For-Beginners",
-    "href": "https://github.com/microsoft/Web-Dev-For-Beginners",
-    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "author": "osnr",
+    "name": "TabFS",
+    "href": "https://github.com/osnr/TabFS",
+    "description": "🗄 Mount your browser tabs as a filesystem.",
     "language": "JavaScript",
-    "stars": 2070,
-    "forks": 135,
-    "starsInPeriod": 1163
+    "stars": 1591,
+    "forks": 44,
+    "starsInPeriod": 1284
   },
   {
-    "author": "CodinGame",
-    "name": "FallChallenge2020",
-    "href": "https://github.com/CodinGame/FallChallenge2020",
-    "description": "Source code for CodinGame's Fall Challenge 2020 event.",
+    "author": "qeeqbox",
+    "name": "social-analyzer",
+    "href": "https://github.com/qeeqbox/social-analyzer",
+    "description": "API and Web App for analyzing & finding a person profile across 300+ social media websites (Detections are updated regularly)",
     "language": "JavaScript",
-    "stars": 74,
-    "forks": 11,
-    "starsInPeriod": 20
+    "stars": 2578,
+    "forks": 110,
+    "starsInPeriod": 1452
   },
   {
-    "author": "iptv-org",
-    "name": "iptv",
-    "href": "https://github.com/iptv-org/iptv",
-    "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "author": "subnub",
+    "name": "myDrive",
+    "href": "https://github.com/subnub/myDrive",
+    "description": "Node.js and mongoDB Google Drive Clone",
     "language": "JavaScript",
-    "stars": 20876,
-    "forks": 127,
-    "starsInPeriod": 299
-  },
-  {
-    "author": "ryanmcdermott",
-    "name": "clean-code-javascript",
-    "href": "https://github.com/ryanmcdermott/clean-code-javascript",
-    "description": "🛁 Clean Code concepts adapted for JavaScript",
-    "language": "JavaScript",
-    "stars": 40934,
-    "forks": 4955,
-    "starsInPeriod": 422
-  },
-  {
-    "author": "yangshun",
-    "name": "tech-interview-handbook",
-    "href": "https://github.com/yangshun/tech-interview-handbook",
-    "description": "💯 Materials to help you rock your next coding interview",
-    "language": "JavaScript",
-    "stars": 46509,
-    "forks": 6584,
-    "starsInPeriod": 208
+    "stars": 1841,
+    "forks": 207,
+    "starsInPeriod": 18
   },
   {
     "author": "trekhleb",
@@ -55,39 +35,59 @@
     "href": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "stars": 84867,
-    "forks": 14325,
-    "starsInPeriod": 290
+    "stars": 91667,
+    "forks": 15390,
+    "starsInPeriod": 218
   },
   {
-    "author": "discordjs",
-    "name": "discord.js",
-    "href": "https://github.com/discordjs/discord.js",
-    "description": "A powerful JavaScript library for interacting with the Discord API",
+    "author": "ryanmcdermott",
+    "name": "clean-code-javascript",
+    "href": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "description": "🛁 Clean Code concepts adapted for JavaScript",
     "language": "JavaScript",
-    "stars": 8100,
-    "forks": 1790,
-    "starsInPeriod": 10
+    "stars": 43890,
+    "forks": 5325,
+    "starsInPeriod": 411
   },
   {
-    "author": "laurent22",
-    "name": "joplin",
-    "href": "https://github.com/laurent22/joplin",
-    "description": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
+    "author": "ryanhanwu",
+    "name": "How-To-Ask-Questions-The-Smart-Way",
+    "href": "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
+    "description": "本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。",
     "language": "JavaScript",
-    "stars": 18843,
-    "forks": 1936,
-    "starsInPeriod": 35
+    "stars": 13892,
+    "forks": 3616,
+    "starsInPeriod": 94
   },
   {
-    "author": "discord",
-    "name": "discord-api-docs",
-    "href": "https://github.com/discord/discord-api-docs",
-    "description": "Official Discord API Documentation",
+    "author": "leonardomso",
+    "name": "33-js-concepts",
+    "href": "https://github.com/leonardomso/33-js-concepts",
+    "description": "📜 33 concepts every JavaScript developer should know.",
     "language": "JavaScript",
-    "stars": 2322,
-    "forks": 600,
-    "starsInPeriod": 8
+    "stars": 35486,
+    "forks": 4232,
+    "starsInPeriod": 240
+  },
+  {
+    "author": "jonasschmedtmann",
+    "name": "complete-javascript-course",
+    "href": "https://github.com/jonasschmedtmann/complete-javascript-course",
+    "description": "Starter files, final projects and FAQ for my Complete JavaScript course",
+    "language": "JavaScript",
+    "stars": 5636,
+    "forks": 7140,
+    "starsInPeriod": 13
+  },
+  {
+    "author": "alpinejs",
+    "name": "alpine",
+    "href": "https://github.com/alpinejs/alpine",
+    "description": "A rugged, minimal framework for composing JavaScript behavior in your markup.",
+    "language": "JavaScript",
+    "stars": 12829,
+    "forks": 491,
+    "starsInPeriod": 126
   },
   {
     "author": "awesome-selfhosted",
@@ -95,68 +95,98 @@
     "href": "https://github.com/awesome-selfhosted/awesome-selfhosted",
     "description": "A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers",
     "language": "JavaScript",
-    "stars": 50090,
-    "forks": 3981,
-    "starsInPeriod": 32
+    "stars": 52113,
+    "forks": 4110,
+    "starsInPeriod": 58
   },
   {
-    "author": "fossasia",
-    "name": "open-event-frontend",
-    "href": "https://github.com/fossasia/open-event-frontend",
-    "description": "The frontend for the Open Event API Server https://open-event-frontend.now.sh",
+    "author": "vercel",
+    "name": "next.js",
+    "href": "https://github.com/vercel/next.js",
+    "description": "The React Framework",
     "language": "JavaScript",
-    "stars": 1642,
-    "forks": 1021,
-    "starsInPeriod": 7
+    "stars": 59565,
+    "forks": 10265,
+    "starsInPeriod": 308
   },
   {
-    "author": "lwitzani",
-    "name": "homebridgeStatusWidget",
-    "href": "https://github.com/lwitzani/homebridgeStatusWidget",
-    "description": null,
+    "author": "bradtraversy",
+    "name": "vanillawebprojects",
+    "href": "https://github.com/bradtraversy/vanillawebprojects",
+    "description": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
     "language": "JavaScript",
-    "stars": 39,
-    "forks": 18,
-    "starsInPeriod": 15
+    "stars": 8231,
+    "forks": 1897,
+    "starsInPeriod": 17
   },
   {
-    "author": "expressjs",
-    "name": "express",
-    "href": "https://github.com/expressjs/express",
-    "description": "Fast, unopinionated, minimalist web framework for node.",
+    "author": "kautukkundan",
+    "name": "Awesome-Profile-README-templates",
+    "href": "https://github.com/kautukkundan/Awesome-Profile-README-templates",
+    "description": "A collection of awesome readme templates to display on your profile",
     "language": "JavaScript",
-    "stars": 50834,
-    "forks": 8482,
-    "starsInPeriod": 12
+    "stars": 7277,
+    "forks": 3458,
+    "starsInPeriod": 10
   },
   {
-    "author": "Orz-3",
-    "name": "QuantumultX",
-    "href": "https://github.com/Orz-3/QuantumultX",
-    "description": null,
+    "author": "HelloZeroNet",
+    "name": "ZeroNet",
+    "href": "https://github.com/HelloZeroNet/ZeroNet",
+    "description": "ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network",
     "language": "JavaScript",
-    "stars": 257,
-    "forks": 91,
-    "starsInPeriod": 11
+    "stars": 16309,
+    "forks": 2089,
+    "starsInPeriod": 9
   },
   {
-    "author": "eritislami",
-    "name": "evobot",
-    "href": "https://github.com/eritislami/evobot",
-    "description": "🤖 EvoBot is a Discord Music Bot built with discord.js & uses Command Handler from discordjs.guide",
+    "author": "outline",
+    "name": "outline",
+    "href": "https://github.com/outline/outline",
+    "description": "The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.",
     "language": "JavaScript",
-    "stars": 223,
-    "forks": 442,
-    "starsInPeriod": 3
+    "stars": 10475,
+    "forks": 726,
+    "starsInPeriod": 8
   },
   {
-    "author": "Necriso",
-    "name": "ScriptableWidgets",
-    "href": "https://github.com/Necriso/ScriptableWidgets",
-    "description": null,
+    "author": "cehui0303",
+    "name": "Tmall_Tickets",
+    "href": "https://github.com/cehui0303/Tmall_Tickets",
+    "description": "天猫超市茅台抢票功能",
     "language": "JavaScript",
-    "stars": 11,
+    "stars": 883,
+    "forks": 782,
+    "starsInPeriod": 143
+  },
+  {
+    "author": "ChavaScript",
+    "name": "chavascript",
+    "href": "https://github.com/ChavaScript/chavascript",
+    "description": "ChavaScript language transpiler",
+    "language": "JavaScript",
+    "stars": 61,
     "forks": 5,
+    "starsInPeriod": 19
+  },
+  {
+    "author": "RobinLinus",
+    "name": "snapdrop",
+    "href": "https://github.com/RobinLinus/snapdrop",
+    "description": "A Progressive Web App for local file sharing",
+    "language": "JavaScript",
+    "stars": 7048,
+    "forks": 630,
+    "starsInPeriod": 31
+  },
+  {
+    "author": "justdjango",
+    "name": "django-ecommerce",
+    "href": "https://github.com/justdjango/django-ecommerce",
+    "description": "An e-commerce website built with Django",
+    "language": "JavaScript",
+    "stars": 779,
+    "forks": 760,
     "starsInPeriod": 3
   },
   {
@@ -165,88 +195,58 @@
     "href": "https://github.com/Koenkk/zigbee2mqtt",
     "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
     "language": "JavaScript",
-    "stars": 4870,
-    "forks": 854,
-    "starsInPeriod": 6
+    "stars": 5144,
+    "forks": 905,
+    "starsInPeriod": 9
   },
   {
-    "author": "nodejs",
-    "name": "node",
-    "href": "https://github.com/nodejs/node",
-    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "author": "MichMich",
+    "name": "MagicMirror",
+    "href": "https://github.com/MichMich/MagicMirror",
+    "description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.",
     "language": "JavaScript",
-    "stars": 74804,
-    "forks": 18538,
-    "starsInPeriod": 26
-  },
-  {
-    "author": "babel",
-    "name": "babel",
-    "href": "https://github.com/babel/babel",
-    "description": "🐠 Babel is a compiler for writing next generation JavaScript.",
-    "language": "JavaScript",
-    "stars": 37788,
-    "forks": 4568,
-    "starsInPeriod": 17
-  },
-  {
-    "author": "LAB-MI",
-    "name": "attestation-deplacement-derogatoire-q4-2020",
-    "href": "https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020",
-    "description": "attestation-deplacement-derogatoire-q4-2020 public",
-    "language": "JavaScript",
-    "stars": 336,
-    "forks": 288,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "blackmatrix7",
-    "name": "ios_rule_script",
-    "href": "https://github.com/blackmatrix7/ios_rule_script",
-    "description": "iOS平台的分流规则、复写规则和一些自动化脚本。",
-    "language": "JavaScript",
-    "stars": 572,
-    "forks": 115,
-    "starsInPeriod": 14
-  },
-  {
-    "author": "github",
-    "name": "docs",
-    "href": "https://github.com/github/docs",
-    "description": "The open-source repo for docs.github.com",
-    "language": "JavaScript",
-    "stars": 1549,
-    "forks": 3799,
+    "stars": 13598,
+    "forks": 3422,
     "starsInPeriod": 15
   },
   {
-    "author": "yangshun",
-    "name": "front-end-interview-handbook",
-    "href": "https://github.com/yangshun/front-end-interview-handbook",
-    "description": "🕸 No-bullshit answers to the famous h5bp \"Front-end Job Interview Questions\"",
+    "author": "flybywiresim",
+    "name": "a32nx",
+    "href": "https://github.com/flybywiresim/a32nx",
+    "description": "The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.",
     "language": "JavaScript",
-    "stars": 26510,
-    "forks": 3763,
-    "starsInPeriod": 20
+    "stars": 2406,
+    "forks": 402,
+    "starsInPeriod": 7
   },
   {
-    "author": "briancodex",
-    "name": "react-website-v1",
-    "href": "https://github.com/briancodex/react-website-v1",
-    "description": null,
+    "author": "fluid-dev",
+    "name": "hexo-theme-fluid",
+    "href": "https://github.com/fluid-dev/hexo-theme-fluid",
+    "description": "🌊 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo",
     "language": "JavaScript",
-    "stars": 80,
-    "forks": 166,
-    "starsInPeriod": 0
+    "stars": 2150,
+    "forks": 369,
+    "starsInPeriod": 7
   },
   {
-    "author": "nightscout",
-    "name": "cgm-remote-monitor",
-    "href": "https://github.com/nightscout/cgm-remote-monitor",
-    "description": "nightscout web monitor",
+    "author": "iptv-org",
+    "name": "iptv",
+    "href": "https://github.com/iptv-org/iptv",
+    "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
     "language": "JavaScript",
-    "stars": 1333,
-    "forks": 47643,
-    "starsInPeriod": 1
+    "stars": 24204,
+    "forks": 453,
+    "starsInPeriod": 64
+  },
+  {
+    "author": "Hypfer",
+    "name": "Valetudo",
+    "href": "https://github.com/Hypfer/Valetudo",
+    "description": "Cloud-free control webinterface for vacuum robots",
+    "language": "JavaScript",
+    "stars": 1770,
+    "forks": 190,
+    "starsInPeriod": 3
   }
 ]
