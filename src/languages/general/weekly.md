@@ -1,50 +1,50 @@
 # general
-- [winapps](https://github.com/Fmstrat/winapps) : Shell
-  - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
-- [hello-algorithm](https://github.com/geekxh/hello-algorithm) : Java
-  - 🌍「算法面试+算法知识」这是一套针对小白的完整算法训练 | 还包括：1、千本开源电子书 2、阿里、字节、滴滴 等面经汇总 3、百张思维导图 （来个Star吧~）
-- [pifuhd](https://github.com/facebookresearch/pifuhd) : Python
-  - High-Resolution 3D Human Digitization from A Single Image.
-- [Website](https://github.com/thenewboston-developers/Website) : TypeScript
-  - The website and documentation for thenewboston.
-- [faker.js](https://github.com/Marak/faker.js) : JavaScript
-  - generate massive amounts of realistic fake data in Node.js and the browser
-- [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) : Python
-  - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020.
-- [chatwoot](https://github.com/chatwoot/chatwoot) : Ruby
-  - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬
-- [gibMacOS](https://github.com/corpnewt/gibMacOS) : Python
-  - Py2/py3 script that can download macOS components direct from Apple
-- [compose-jb](https://github.com/JetBrains/compose-jb) : Kotlin
-  - Jetpack Compose for Desktop, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
-- [pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning) : Jupyter Notebook
-  - Deep Learning (with PyTorch)
-- [2020_benfords](https://github.com/cjph8914/2020_benfords) : Jupyter Notebook
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui) : TypeScript
-  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [AltStore](https://github.com/rileytestut/AltStore) : Swift
-  - AltStore is an alternative app store for non-jailbroken iOS devices.
-- [core](https://github.com/dotnet/core) : Shell
-  - Home repository for .NET Core
-- [eul](https://github.com/gao-sun/eul) : Swift
-  - 🖥️ macOS status monitoring app written in SwiftUI.
-- [modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) : C#
-  - Full Modular Monolith application with Domain-Driven Design approach.
-- [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) : Python
-  - Bringing Old Photo Back to Life (CVPR 2020 oral)
-- [jd-assistant](https://github.com/tychxn/jd-assistant) : Python
-  - 京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能
-- [h5-Dooring](https://github.com/MrXujiang/h5-Dooring) : TypeScript
-  - (H5编辑器)H5-Dooring是一款功能强大，开源免费的H5可视化页面配置解决方案，致力于提供一套简单方便、专业可靠、无限可能的H5落地页最佳实践。技术栈以react为主， 后台采用nodejs开发.
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
-  - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
-- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Python
-  - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-- [starship](https://github.com/starship/starship) : Rust
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [localstack](https://github.com/localstack/localstack) : Python
-  - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
-- [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) : C
-  - OpenCore bootloader
-- [Account-Manager](https://github.com/thenewboston-developers/Account-Manager) : TypeScript
-  - Account manager desktop application for thenewboston digital currency.
+- [jd_seckill](https://github.com/huanghyw/jd_seckill) : Python
+- [GHunt](https://github.com/mxrch/GHunt) : Python
+  - 🕵️‍♂️ Investigate Google Accounts with emails.
+- [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) : JavaScript
+  - 24 Lessons, 12 Weeks, Get Started as a Web Developer
+- [iptv](https://github.com/iptv-org/iptv) : JavaScript
+  - Collection of 5000+ publicly available IPTV channels from all over the world
+- [raylib](https://github.com/raysan5/raylib) : C
+  - A simple and easy-to-use library to enjoy videogames programming
+- [freqtrade](https://github.com/freqtrade/freqtrade) : Python
+  - Free, open source crypto trading bot
+- [trino](https://github.com/trinodb/trino) : Java
+  - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
+- [basiscash-protocol](https://github.com/Basis-Cash/basiscash-protocol) : Solidity
+  - Solidity implementation of the Basis Cash Protocol
+- [itstack-demo-design](https://github.com/fuzhengwei/itstack-demo-design) : Java
+  - 🎨 《重学Java设计模式》是一本互联网真实案例实践书籍。以落地解决方案为核心，从实际业务中抽离出，交易、营销、秒杀、中间件、源码等22个真实场景，来学习设计模式的运用。欢迎关注小傅哥，微信(fustack)，公众号：bugstack虫洞栈，博客：https://bugstack.cn
+- [Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) : 
+  - Xiaomi Mobile Phone Kernel OpenSource
+- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) : Go
+  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [learngo](https://github.com/inancgumus/learngo) : Go
+  - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
+- [photoprism](https://github.com/photoprism/photoprism) : Go
+  - Personal Photo Management powered by Go and Google TensorFlow
+- [xbmc](https://github.com/xbmc/xbmc) : C++
+  - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
+- [Marlin](https://github.com/MarlinFirmware/Marlin) : C++
+  - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
+- [monero](https://github.com/monero-project/monero) : C++
+  - Monero: the secure, private, untraceable cryptocurrency
+- [godot](https://github.com/godotengine/godot) : C++
+  - Godot Engine – Multi-platform 2D and 3D game engine
+- [dockerfile](https://github.com/hexops/dockerfile) : Dockerfile
+  - Dockerfile best-practices for writing production-worthy Docker images.
+- [deit](https://github.com/facebookresearch/deit) : Python
+  - Official DeiT repository
+- [esphome](https://github.com/esphome/esphome) : C++
+  - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+- [stock](https://github.com/pythonstock/stock) : Python
+  - stock，股票系统。使用python进行开发。
+- [rich](https://github.com/willmcgugan/rich) : Python
+  - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [fyne](https://github.com/fyne-io/fyne) : Go
+  - Cross platform GUI in Go based on Material Design
+- [upptime](https://github.com/upptime/upptime) : 
+  - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
+- [joplin](https://github.com/laurent22/joplin) : JavaScript
+  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/

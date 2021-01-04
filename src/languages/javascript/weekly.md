@@ -1,51 +1,51 @@
 # javascript
-- [faker.js](https://github.com/Marak/faker.js)
-  - generate massive amounts of realistic fake data in Node.js and the browser
-- [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)
-  - FFmpeg for browser and node, powered by WebAssembly
-- [mermaid](https://github.com/mermaid-js/mermaid)
-  - Generation of diagram and flowchart from text in a similar manner as markdown
-- [WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
-  - Play with fluids in your browser (works even on mobile)
-- [rengine](https://github.com/yogeshojha/rengine)
-  - reNgine is an automated reconnaissance framework meant for information gathering during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-  - 🛁 Clean Code concepts adapted for JavaScript
+- [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+  - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [iptv](https://github.com/iptv-org/iptv)
   - Collection of 5000+ publicly available IPTV channels from all over the world
-- [newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app)
-  - 新蜂商城Vue3版本
+- [joplin](https://github.com/laurent22/joplin)
+  - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [jd-base](https://github.com/EvineDeng/jd-base)
+  - 京东薅羊毛脚本https://github.com/lxk0301/jd_scripts 的shell套壳工具
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs)
+  - Unofficial Bitwarden compatible server written in Rust
+- [Tmall_Tickets](https://github.com/cehui0303/Tmall_Tickets)
+  - 天猫超市茅台抢票功能
+- [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
+  - 📜 33 concepts every JavaScript developer should know.
+- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
+  - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+- [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
+  - Roadmap to becoming an Artificial Intelligence Expert in 2020
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - 🛁 Clean Code concepts adapted for JavaScript
+- [Scripts](https://github.com/Sunert/Scripts)
+  - 
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+  - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [ccxt](https://github.com/ccxt/ccxt)
+  - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
+- [tailblocks](https://github.com/mertJF/tailblocks)
+  - Ready-to-use Tailwind CSS blocks.
+- [SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet)
+  - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
+- [TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5)
+  - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
+- [alpine](https://github.com/alpinejs/alpine)
+  - A rugged, minimal framework for composing JavaScript behavior in your markup.
+- [ethereumbook](https://github.com/ethereumbook/ethereumbook)
+  - Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
+- [JD_Sign_Action](https://github.com/ZHDeveloper/JD_Sign_Action)
+  - 基于github actions的京东签到、领京豆
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+  - ✅ The Node.js best practices list (January 2021)
+- [luci](https://github.com/openwrt/luci)
+  - LuCI - OpenWrt Configuration Interface
+- [marktext](https://github.com/marktext/marktext)
+  - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [QuantumultX](https://github.com/w37fhy/QuantumultX)
   - 同步和更新大佬脚本库，更新懒人配置
-- [unlock-music](https://github.com/ix64/unlock-music)
-  - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
-  - 💯 Materials to help you rock your next coding interview
-- [scripts](https://github.com/chavyleung/scripts)
-  - 
-- [lerna](https://github.com/lerna/lerna)
-  - 🐉 A tool for managing JavaScript projects with multiple packages.
-- [socket.io](https://github.com/socketio/socket.io)
-  - Realtime application framework (Node.JS server)
-- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
-  - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。 阿里招 Python P6/P7 上海张江, gaojunqi@outlook.com
-- [javascript](https://github.com/airbnb/javascript)
-  - JavaScript Style Guide
-- [wtfjs](https://github.com/denysdovhan/wtfjs)
-  - 🤪 A list of funny and tricky JavaScript examples
-- [material-ui](https://github.com/mui-org/material-ui)
-  - React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [three.js](https://github.com/mrdoob/three.js)
-  - JavaScript 3D library.
-- [aos](https://github.com/michalsnik/aos)
-  - Animate on scroll library
-- [lighthouse](https://github.com/GoogleChrome/lighthouse)
-  - Automated auditing, performance metrics, and best practices for the web.
-- [react-native-firebase](https://github.com/invertase/react-native-firebase)
-  - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [standard](https://github.com/standard/standard)
-  - 🌟 JavaScript Style Guide, with linter & automatic code fixer
-- [gatsby](https://github.com/gatsbyjs/gatsby)
-  - Build blazing fast, modern apps and websites with React
+- [bitcore](https://github.com/bitpay/bitcore)
+  - A full stack for bitcoin and blockchain-based applications
+- [next.js](https://github.com/vercel/next.js)
+  - The React Framework
