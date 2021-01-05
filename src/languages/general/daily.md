@@ -1,51 +1,50 @@
 # general
-- [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) : JavaScript
-  - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [starship](https://github.com/starship/starship) : Rust
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [awesome](https://github.com/sindresorhus/awesome) : 
-  - 😎 Awesome lists about all kinds of interesting topics
-- [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) : Python
-  - Bringing Old Photo Back to Life (CVPR 2020 oral)
-- [gping](https://github.com/orf/gping) : Rust
-  - Ping, but with a graph
-- [FallChallenge2020](https://github.com/CodinGame/FallChallenge2020) : JavaScript
-  - Source code for CodinGame's Fall Challenge 2020 event.
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui) : TypeScript
-  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [iptv](https://github.com/iptv-org/iptv) : JavaScript
-  - Collection of 5000+ publicly available IPTV channels from all over the world
-- [k0s](https://github.com/k0sproject/k0s) : Go
-  - k0s - Zero Friction Kubernetes
-- [alacritty](https://github.com/alacritty/alacritty) : Rust
-  - A cross-platform, GPU-accelerated terminal emulator
-- [macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) : Vue
-  - Replacement icons for popular apps in the style of macOS Big Sur
-- [rustlings](https://github.com/rust-lang/rustlings) : Rust
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
-  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
-  - A long list of (advanced) JavaScript questions, and their explanations ✨
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
-  - 💯 Materials to help you rock your next coding interview
+- [jd_maotai_seckill](https://github.com/ChinaVolvocars/jd_maotai_seckill) : Python
+  - 优化版本的京东茅台抢购神器
+- [Java](https://github.com/TheAlgorithms/Java) : Java
+  - All Algorithms implemented in Java
+- [miaosha](https://github.com/qiurunze123/miaosha) : Java
+  - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
+- [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) : 
+  - 500 AI Machine learning Deep learning Computer vision NLP Projects with code
+- [photoprism](https://github.com/photoprism/photoprism) : Go
+  - Personal Photo Management powered by Go and Google TensorFlow
+- [jd_seckill](https://github.com/ztino/jd_seckill) : Go
+  - go版本jd_seckill，京东茅台抢购，降低使用门栏。
+- [ImHex](https://github.com/WerWolv/ImHex) : C++
+  - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
+- [Web-Fuzzing-Box](https://github.com/gh0stkey/Web-Fuzzing-Box) : HTML
+  - Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱口令暴力破解、目录以及文件枚举、Web漏洞...字典运用于实战案例：https://gh0st.cn/archives/2019-11-11/1
+- [DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) : Jupyter Notebook
+  - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️
+- [jdbc-postgres](https://github.com/devsuperior/jdbc-postgres) : Java
+- [first-contributions](https://github.com/firstcontributions/first-contributions) : 
+  - 🚀✨ Help beginners to contribute to open source projects
+- [vite](https://github.com/vitejs/vite) : TypeScript
+  - Next generation frontend tooling. It's fast.
+- [996.ICU](https://github.com/996icu/996.ICU) : Rust
+  - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [ml-visuals](https://github.com/dair-ai/ml-visuals) : 
+  - 🎨 ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.
+- [Projects](https://github.com/karan/Projects) : 
+  - 📃 A list of practical projects that anyone can solve in any programming language.
+- [SysWhispers2](https://github.com/jthuraisamy/SysWhispers2) : Assembly
+  - AV/EDR evasion via direct system calls.
+- [sherlock](https://github.com/sherlock-project/sherlock) : Python
+  - 🔎 Hunt down social media accounts by username across social networks
+- [TabFS](https://github.com/osnr/TabFS) : JavaScript
+  - 🗄 Mount your browser tabs as a filesystem.
+- [COLA](https://github.com/alibaba/COLA) : Java
+  - Clean Object-oriented & Layered Architecture
+- [flutter](https://github.com/flutter/flutter) : Dart
+  - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+- [faceai](https://github.com/vipstone/faceai) : Python
+  - 一款入门级的人脸、视频、文字检测以及识别的项目.
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
   - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [faker](https://github.com/joke2k/faker) : Python
-  - Faker is a Python package that generates fake data for you.
-- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) : 
-  - A list of awesome beginners-friendly projects.
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [bitcoin](https://github.com/bitcoin/bitcoin) : C++
-  - Bitcoin Core integration/staging tree
-- [core](https://github.com/home-assistant/core) : Python
-  - 🏡 Open source home automation that puts local control and privacy first
-- [Testnet3-Challenges](https://github.com/Concordium/Testnet3-Challenges) : 
-  - This repo is dedicated to Concordium Incentivized Testnet3.
-- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) : Python
-  - 30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.
-- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) : Go
-  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [Awesome-CobaltStrike-Defence](https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence) : 
+  - Defences against Cobalt Strike
+- [redoc](https://github.com/Redocly/redoc) : TypeScript
+  - 📘 OpenAPI/Swagger-generated API Reference Documentation
+- [Oblivion](https://github.com/loseys/Oblivion) : Python
+  - Data leak checker & OSINT Tool
