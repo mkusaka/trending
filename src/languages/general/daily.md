@@ -1,51 +1,50 @@
 # general
-- [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) : JavaScript
-  - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [starship](https://github.com/starship/starship) : Rust
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [awesome](https://github.com/sindresorhus/awesome) : 
-  - 😎 Awesome lists about all kinds of interesting topics
-- [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) : Python
-  - Bringing Old Photo Back to Life (CVPR 2020 oral)
-- [gping](https://github.com/orf/gping) : Rust
-  - Ping, but with a graph
-- [FallChallenge2020](https://github.com/CodinGame/FallChallenge2020) : JavaScript
-  - Source code for CodinGame's Fall Challenge 2020 event.
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui) : TypeScript
-  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [iptv](https://github.com/iptv-org/iptv) : JavaScript
-  - Collection of 5000+ publicly available IPTV channels from all over the world
-- [k0s](https://github.com/k0sproject/k0s) : Go
-  - k0s - Zero Friction Kubernetes
-- [alacritty](https://github.com/alacritty/alacritty) : Rust
-  - A cross-platform, GPU-accelerated terminal emulator
-- [macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) : Vue
-  - Replacement icons for popular apps in the style of macOS Big Sur
-- [rustlings](https://github.com/rust-lang/rustlings) : Rust
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
-  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
-  - A long list of (advanced) JavaScript questions, and their explanations ✨
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
-  - 🛁 Clean Code concepts adapted for JavaScript
+- [mtSecKill](https://github.com/zqjzqj/mtSecKill) : Go
+  - 京东茅台抢购
+- [Signal-Android](https://github.com/signalapp/Signal-Android) : Java
+  - A private messenger for Android.
+- [lens](https://github.com/lensapp/lens) : TypeScript
+  - Lens - The Kubernetes IDE
+- [WebKit](https://github.com/WebKit/WebKit) : 
+  - Official git mirror of the WebKit repository, https://svn.webkit.org/repository/webkit, future canonical repository.
+- [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) : JavaScript
+  - 30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days
+- [Hack-Tools](https://github.com/LasCC/Hack-Tools) : JavaScript
+  - The all-in-one Red Team extension for Web Pentester 🛠
+- [GCPSketchnote](https://github.com/priyankavergadia/GCPSketchnote) : 
+  - If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.
+- [DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch) : Python
+  - Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch
+- [sn_jd_tb_tm_maotai_seckill](https://github.com/shenzhenjinma/sn_jd_tb_tm_maotai_seckill) : Shell
+  - 苏宁 京东 淘宝 天猫 茅台秒杀脚本 基于chrome浏览器插件
+- [PeerTube](https://github.com/Chocobozzz/PeerTube) : TypeScript
+  - ActivityPub-federated video streaming platform using P2P directly in your web browser
+- [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) : JavaScript
+  - Based on a true story
+- [helloworld](https://github.com/ztino/helloworld) : Go
+  - Hello，MT
+- [angular](https://github.com/angular/angular) : TypeScript
+  - One framework. Mobile & desktop.
+- [learn-cantrill-io-labs](https://github.com/acantril/learn-cantrill-io-labs) : Shell
+  - Standard and Advanced Demos for learn.cantrill.io courses
+- [sds2](https://github.com/devsuperior/sds2) : CSS
+- [metrics](https://github.com/lowlighter/metrics) : JavaScript
+  - 📊 An image generator with 20+ metrics about your GitHub account such as activity, community, repositories, coding habits, website performances, music played, starred topics, etc. that you can put on your profile or elsewhere !
+- [CLIP](https://github.com/openai/CLIP) : Jupyter Notebook
+  - Contrastive Language-Image Pretraining
+- [wasmer](https://github.com/wasmerio/wasmer) : Rust
+  - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+- [jd_kill](https://github.com/who0sy/jd_kill) : Python
+  - 京东茅台懂得都懂 main分支是新版本，old分支是docker之前的版本
+- [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) : 
+  - 500 AI Machine learning Deep learning Computer vision NLP Projects with code
+- [mmtracking](https://github.com/open-mmlab/mmtracking) : Python
+  - OpenMMLab Video Perception Toolbox. It supports Single Object Tracking (SOT), Multiple Object Tracking (MOT), Video Object Detection (VID) with a unified framework.
+- [interview](https://github.com/Olshansk/interview) : 
+  - Everything you need to prepare for your technical interview
+- [aws-sdk-go](https://github.com/aws/aws-sdk-go) : Go
+  - AWS SDK for the Go programming language.
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
   - 💯 Materials to help you rock your next coding interview
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [faker](https://github.com/joke2k/faker) : Python
-  - Faker is a Python package that generates fake data for you.
-- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) : 
-  - A list of awesome beginners-friendly projects.
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [bitcoin](https://github.com/bitcoin/bitcoin) : C++
-  - Bitcoin Core integration/staging tree
-- [core](https://github.com/home-assistant/core) : Python
-  - 🏡 Open source home automation that puts local control and privacy first
-- [Testnet3-Challenges](https://github.com/Concordium/Testnet3-Challenges) : 
-  - This repo is dedicated to Concordium Incentivized Testnet3.
-- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) : Python
-  - 30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.
-- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) : Go
-  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [jamstack-ecommerce](https://github.com/jamstack-cms/jamstack-ecommerce) : JavaScript
+  - A starter project for building performant ECommerce applications with Next.js and React

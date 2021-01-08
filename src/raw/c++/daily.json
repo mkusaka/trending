@@ -1,123 +1,33 @@
 [
   {
-    "author": "bitcoin",
-    "name": "bitcoin",
-    "href": "https://github.com/bitcoin/bitcoin",
-    "description": "Bitcoin Core integration/staging tree",
+    "author": "c0pperdragon",
+    "name": "Amiga-Digital-Video",
+    "href": "https://github.com/c0pperdragon/Amiga-Digital-Video",
+    "description": "Add a digital video port to vintage Amiga machines",
     "language": "C++",
-    "stars": 45984,
-    "forks": 26635,
-    "starsInPeriod": 25
-  },
-  {
-    "author": "solemnwarning",
-    "name": "rehex",
-    "href": "https://github.com/solemnwarning/rehex",
-    "description": "Reverse Engineers' Hex Editor",
-    "language": "C++",
-    "stars": 1060,
-    "forks": 44,
-    "starsInPeriod": 240
-  },
-  {
-    "author": "an-tao",
-    "name": "drogon",
-    "href": "https://github.com/an-tao/drogon",
-    "description": "Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows",
-    "language": "C++",
-    "stars": 3931,
-    "forks": 323,
-    "starsInPeriod": 11
-  },
-  {
-    "author": "musescore",
-    "name": "MuseScore",
-    "href": "https://github.com/musescore/MuseScore",
-    "description": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",
-    "language": "C++",
-    "stars": 5253,
-    "forks": 1509,
+    "stars": 85,
+    "forks": 11,
     "starsInPeriod": 5
   },
   {
-    "author": "TheAlgorithms",
-    "name": "C-Plus-Plus",
-    "href": "https://github.com/TheAlgorithms/C-Plus-Plus",
-    "description": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
+    "author": "nlohmann",
+    "name": "json",
+    "href": "https://github.com/nlohmann/json",
+    "description": "JSON for Modern C++",
     "language": "C++",
-    "stars": 9144,
-    "forks": 3102,
-    "starsInPeriod": 14
+    "stars": 22661,
+    "forks": 3929,
+    "starsInPeriod": 17
   },
   {
-    "author": "ocornut",
-    "name": "imgui",
-    "href": "https://github.com/ocornut/imgui",
-    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "author": "Tencent",
+    "name": "rapidjson",
+    "href": "https://github.com/Tencent/rapidjson",
+    "description": "A fast JSON parser/generator for C++ with both SAX/DOM style API",
     "language": "C++",
-    "stars": 24872,
-    "forks": 4161,
-    "starsInPeriod": 22
-  },
-  {
-    "author": "godotengine",
-    "name": "godot",
-    "href": "https://github.com/godotengine/godot",
-    "description": "Godot Engine – Multi-platform 2D and 3D game engine",
-    "language": "C++",
-    "stars": 34713,
-    "forks": 6551,
-    "starsInPeriod": 28
-  },
-  {
-    "author": "qbittorrent",
-    "name": "qBittorrent",
-    "href": "https://github.com/qbittorrent/qBittorrent",
-    "description": "qBittorrent BitTorrent client",
-    "language": "C++",
-    "stars": 10495,
-    "forks": 1887,
-    "starsInPeriod": 14
-  },
-  {
-    "author": "mozilla",
-    "name": "DeepSpeech",
-    "href": "https://github.com/mozilla/DeepSpeech",
-    "description": "DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.",
-    "language": "C++",
-    "stars": 15761,
-    "forks": 2927,
-    "starsInPeriod": 15
-  },
-  {
-    "author": "Aircoookie",
-    "name": "WLED",
-    "href": "https://github.com/Aircoookie/WLED",
-    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
-    "language": "C++",
-    "stars": 3522,
-    "forks": 597,
-    "starsInPeriod": 30
-  },
-  {
-    "author": "xbmc",
-    "name": "xbmc",
-    "href": "https://github.com/xbmc/xbmc",
-    "description": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.",
-    "language": "C++",
-    "stars": 11385,
-    "forks": 5571,
+    "stars": 10363,
+    "forks": 2770,
     "starsInPeriod": 7
-  },
-  {
-    "author": "OpenZWave",
-    "name": "open-zwave",
-    "href": "https://github.com/OpenZWave/open-zwave",
-    "description": "a C++ library to control Z-Wave Networks via a USB Z-Wave Controller.",
-    "language": "C++",
-    "stars": 975,
-    "forks": 911,
-    "starsInPeriod": 0
   },
   {
     "author": "google",
@@ -125,69 +35,9 @@
     "href": "https://github.com/google/googletest",
     "description": "Googletest - Google Testing and Mocking Framework",
     "language": "C++",
-    "stars": 18702,
-    "forks": 6795,
-    "starsInPeriod": 17
-  },
-  {
-    "author": "fmtlib",
-    "name": "fmt",
-    "href": "https://github.com/fmtlib/fmt",
-    "description": "A modern formatting library",
-    "language": "C++",
-    "stars": 9661,
-    "forks": 1175,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "DrKLO",
-    "name": "Telegram",
-    "href": "https://github.com/DrKLO/Telegram",
-    "description": "Telegram for Android source",
-    "language": "C++",
-    "stars": 15103,
-    "forks": 5519,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "topjohnwu",
-    "name": "Magisk",
-    "href": "https://github.com/topjohnwu/Magisk",
-    "description": "The Magic Mask for Android",
-    "language": "C++",
-    "stars": 14148,
-    "forks": 2343,
+    "stars": 19966,
+    "forks": 7052,
     "starsInPeriod": 19
-  },
-  {
-    "author": "esphome",
-    "name": "esphome",
-    "href": "https://github.com/esphome/esphome",
-    "description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
-    "language": "C++",
-    "stars": 2394,
-    "forks": 669,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "atcoder",
-    "name": "ac-library",
-    "href": "https://github.com/atcoder/ac-library",
-    "description": "AtCoder Library",
-    "language": "C++",
-    "stars": 331,
-    "forks": 46,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "ArduPilot",
-    "name": "ardupilot",
-    "href": "https://github.com/ArduPilot/ardupilot",
-    "description": "ArduPlane, ArduCopter, ArduRover source",
-    "language": "C++",
-    "stars": 5390,
-    "forks": 10042,
-    "starsInPeriod": 6
   },
   {
     "author": "pytorch",
@@ -195,58 +45,208 @@
     "href": "https://github.com/pytorch/pytorch",
     "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
     "language": "C++",
-    "stars": 43913,
-    "forks": 11555,
-    "starsInPeriod": 38
+    "stars": 45318,
+    "forks": 12012,
+    "starsInPeriod": 26
   },
   {
-    "author": "MarlinFirmware",
-    "name": "Marlin",
-    "href": "https://github.com/MarlinFirmware/Marlin",
-    "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "author": "tensorflow",
+    "name": "tensorflow",
+    "href": "https://github.com/tensorflow/tensorflow",
+    "description": "An Open Source Machine Learning Framework for Everyone",
     "language": "C++",
-    "stars": 8868,
-    "forks": 12288,
-    "starsInPeriod": 8
+    "stars": 152238,
+    "forks": 83699,
+    "starsInPeriod": 29
   },
   {
-    "author": "RPCS3",
-    "name": "rpcs3",
-    "href": "https://github.com/RPCS3/rpcs3",
-    "description": "PS3 emulator/debugger",
+    "author": "grpc",
+    "name": "grpc",
+    "href": "https://github.com/grpc/grpc",
+    "description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
     "language": "C++",
-    "stars": 8502,
-    "forks": 1389,
-    "starsInPeriod": 2
+    "stars": 28875,
+    "forks": 7380,
+    "starsInPeriod": 16
   },
   {
-    "author": "yuzu-emu",
-    "name": "yuzu",
-    "href": "https://github.com/yuzu-emu/yuzu",
-    "description": "Nintendo Switch Emulator",
+    "author": "ceph",
+    "name": "ceph",
+    "href": "https://github.com/ceph/ceph",
+    "description": "Ceph is a distributed object, block, and file storage platform",
     "language": "C++",
-    "stars": 12514,
-    "forks": 1034,
-    "starsInPeriod": 8
+    "stars": 8661,
+    "forks": 4142,
+    "starsInPeriod": 9
   },
   {
-    "author": "dusty-nv",
-    "name": "jetson-inference",
-    "href": "https://github.com/dusty-nv/jetson-inference",
-    "description": "Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.",
+    "author": "android",
+    "name": "ndk-samples",
+    "href": "https://github.com/android/ndk-samples",
+    "description": "Android NDK samples with Android Studio",
     "language": "C++",
-    "stars": 3750,
-    "forks": 1669,
+    "stars": 7797,
+    "forks": 3553,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "OSGeo",
+    "name": "gdal",
+    "href": "https://github.com/OSGeo/gdal",
+    "description": "GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats.",
+    "language": "C++",
+    "stars": 2275,
+    "forks": 1250,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "electron",
+    "name": "electron",
+    "href": "https://github.com/electron/electron",
+    "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+    "language": "C++",
+    "stars": 88593,
+    "forks": 11865,
+    "starsInPeriod": 47
+  },
+  {
+    "author": "weidai11",
+    "name": "cryptopp",
+    "href": "https://github.com/weidai11/cryptopp",
+    "description": "free C++ class library of cryptographic schemes",
+    "language": "C++",
+    "stars": 2592,
+    "forks": 795,
     "starsInPeriod": 7
   },
   {
-    "author": "aseprite",
-    "name": "aseprite",
-    "href": "https://github.com/aseprite/aseprite",
-    "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
+    "author": "tencentyun",
+    "name": "TRTCSDK",
+    "href": "https://github.com/tencentyun/TRTCSDK",
+    "description": "腾讯云TRTC音视频服务，国内下载镜像：",
     "language": "C++",
-    "stars": 10666,
-    "forks": 1036,
-    "starsInPeriod": 18
+    "stars": 830,
+    "forks": 883,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "catchorg",
+    "name": "Catch2",
+    "href": "https://github.com/catchorg/Catch2",
+    "description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)",
+    "language": "C++",
+    "stars": 12608,
+    "forks": 2120,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "protocolbuffers",
+    "name": "protobuf",
+    "href": "https://github.com/protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "language": "C++",
+    "stars": 45586,
+    "forks": 12227,
+    "starsInPeriod": 15
+  },
+  {
+    "author": "apple",
+    "name": "swift",
+    "href": "https://github.com/apple/swift",
+    "description": "The Swift Programming Language",
+    "language": "C++",
+    "stars": 54732,
+    "forks": 8779,
+    "starsInPeriod": 15
+  },
+  {
+    "author": "nanocurrency",
+    "name": "nano-node",
+    "href": "https://github.com/nanocurrency/nano-node",
+    "description": "Nano is a cryptocurrency",
+    "language": "C++",
+    "stars": 2721,
+    "forks": 616,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "dmlc",
+    "name": "xgboost",
+    "href": "https://github.com/dmlc/xgboost",
+    "description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
+    "language": "C++",
+    "stars": 20365,
+    "forks": 7853,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "TheCherno",
+    "name": "Hazel",
+    "href": "https://github.com/TheCherno/Hazel",
+    "description": "Hazel Engine",
+    "language": "C++",
+    "stars": 4784,
+    "forks": 716,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "apache",
+    "name": "arrow",
+    "href": "https://github.com/apache/arrow",
+    "description": "Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…",
+    "language": "C++",
+    "stars": 6836,
+    "forks": 1719,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "grpc",
+    "name": "grpc-web",
+    "href": "https://github.com/grpc/grpc-web",
+    "description": "gRPC for Web Clients",
+    "language": "C++",
+    "stars": 5134,
+    "forks": 473,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "project-chip",
+    "name": "connectedhomeip",
+    "href": "https://github.com/project-chip/connectedhomeip",
+    "description": "Project Connected Home over IP is a new Working Group within the Zigbee Alliance. This Working Group plans to develop and promote the adoption of a new connectivity standard to increase compatibility among smart home products, with security as a fundamental design tenet.",
+    "language": "C++",
+    "stars": 920,
+    "forks": 165,
+    "starsInPeriod": 2
+  },
+  {
+    "author": "SFML",
+    "name": "SFML",
+    "href": "https://github.com/SFML/SFML",
+    "description": "Simple and Fast Multimedia Library",
+    "language": "C++",
+    "stars": 6476,
+    "forks": 1247,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "ApolloAuto",
+    "name": "apollo",
+    "href": "https://github.com/ApolloAuto/apollo",
+    "description": "An open autonomous driving platform",
+    "language": "C++",
+    "stars": 17665,
+    "forks": 6839,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "DrKLO",
+    "name": "Telegram",
+    "href": "https://github.com/DrKLO/Telegram",
+    "description": "Telegram for Android source",
+    "language": "C++",
+    "stars": 15427,
+    "forks": 5596,
+    "starsInPeriod": 13
   }
 ]
