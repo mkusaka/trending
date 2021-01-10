@@ -1,213 +1,23 @@
 [
   {
-    "author": "bitcoin",
-    "name": "bitcoin",
-    "href": "https://github.com/bitcoin/bitcoin",
-    "description": "Bitcoin Core integration/staging tree",
-    "language": "C++",
-    "stars": 45984,
-    "forks": 26635,
-    "starsInPeriod": 25
-  },
-  {
-    "author": "solemnwarning",
-    "name": "rehex",
-    "href": "https://github.com/solemnwarning/rehex",
-    "description": "Reverse Engineers' Hex Editor",
-    "language": "C++",
-    "stars": 1060,
-    "forks": 44,
-    "starsInPeriod": 240
-  },
-  {
-    "author": "an-tao",
-    "name": "drogon",
-    "href": "https://github.com/an-tao/drogon",
-    "description": "Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows",
-    "language": "C++",
-    "stars": 3931,
-    "forks": 323,
-    "starsInPeriod": 11
-  },
-  {
-    "author": "musescore",
-    "name": "MuseScore",
-    "href": "https://github.com/musescore/MuseScore",
-    "description": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",
-    "language": "C++",
-    "stars": 5253,
-    "forks": 1509,
-    "starsInPeriod": 5
-  },
-  {
-    "author": "TheAlgorithms",
-    "name": "C-Plus-Plus",
-    "href": "https://github.com/TheAlgorithms/C-Plus-Plus",
-    "description": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
-    "language": "C++",
-    "stars": 9144,
-    "forks": 3102,
-    "starsInPeriod": 14
-  },
-  {
-    "author": "ocornut",
-    "name": "imgui",
-    "href": "https://github.com/ocornut/imgui",
-    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
-    "language": "C++",
-    "stars": 24872,
-    "forks": 4161,
-    "starsInPeriod": 22
-  },
-  {
-    "author": "godotengine",
-    "name": "godot",
-    "href": "https://github.com/godotengine/godot",
-    "description": "Godot Engine – Multi-platform 2D and 3D game engine",
-    "language": "C++",
-    "stars": 34713,
-    "forks": 6551,
-    "starsInPeriod": 28
-  },
-  {
-    "author": "qbittorrent",
-    "name": "qBittorrent",
-    "href": "https://github.com/qbittorrent/qBittorrent",
-    "description": "qBittorrent BitTorrent client",
-    "language": "C++",
-    "stars": 10495,
-    "forks": 1887,
-    "starsInPeriod": 14
-  },
-  {
-    "author": "mozilla",
-    "name": "DeepSpeech",
-    "href": "https://github.com/mozilla/DeepSpeech",
-    "description": "DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.",
-    "language": "C++",
-    "stars": 15761,
-    "forks": 2927,
-    "starsInPeriod": 15
-  },
-  {
-    "author": "Aircoookie",
-    "name": "WLED",
-    "href": "https://github.com/Aircoookie/WLED",
-    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
-    "language": "C++",
-    "stars": 3522,
-    "forks": 597,
-    "starsInPeriod": 30
-  },
-  {
-    "author": "xbmc",
-    "name": "xbmc",
-    "href": "https://github.com/xbmc/xbmc",
-    "description": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.",
-    "language": "C++",
-    "stars": 11385,
-    "forks": 5571,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "OpenZWave",
-    "name": "open-zwave",
-    "href": "https://github.com/OpenZWave/open-zwave",
-    "description": "a C++ library to control Z-Wave Networks via a USB Z-Wave Controller.",
-    "language": "C++",
-    "stars": 975,
-    "forks": 911,
-    "starsInPeriod": 0
-  },
-  {
-    "author": "google",
-    "name": "googletest",
-    "href": "https://github.com/google/googletest",
-    "description": "Googletest - Google Testing and Mocking Framework",
-    "language": "C++",
-    "stars": 18702,
-    "forks": 6795,
-    "starsInPeriod": 17
-  },
-  {
-    "author": "fmtlib",
-    "name": "fmt",
-    "href": "https://github.com/fmtlib/fmt",
-    "description": "A modern formatting library",
-    "language": "C++",
-    "stars": 9661,
-    "forks": 1175,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "DrKLO",
-    "name": "Telegram",
-    "href": "https://github.com/DrKLO/Telegram",
-    "description": "Telegram for Android source",
-    "language": "C++",
-    "stars": 15103,
-    "forks": 5519,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "topjohnwu",
-    "name": "Magisk",
-    "href": "https://github.com/topjohnwu/Magisk",
-    "description": "The Magic Mask for Android",
-    "language": "C++",
-    "stars": 14148,
-    "forks": 2343,
-    "starsInPeriod": 19
-  },
-  {
-    "author": "esphome",
-    "name": "esphome",
-    "href": "https://github.com/esphome/esphome",
-    "description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
-    "language": "C++",
-    "stars": 2394,
-    "forks": 669,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "atcoder",
-    "name": "ac-library",
-    "href": "https://github.com/atcoder/ac-library",
-    "description": "AtCoder Library",
-    "language": "C++",
-    "stars": 331,
-    "forks": 46,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "ArduPilot",
-    "name": "ardupilot",
-    "href": "https://github.com/ArduPilot/ardupilot",
-    "description": "ArduPlane, ArduCopter, ArduRover source",
-    "language": "C++",
-    "stars": 5390,
-    "forks": 10042,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "pytorch",
-    "name": "pytorch",
-    "href": "https://github.com/pytorch/pytorch",
-    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-    "language": "C++",
-    "stars": 43913,
-    "forks": 11555,
-    "starsInPeriod": 38
-  },
-  {
     "author": "MarlinFirmware",
     "name": "Marlin",
     "href": "https://github.com/MarlinFirmware/Marlin",
     "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
     "language": "C++",
-    "stars": 8868,
-    "forks": 12288,
-    "starsInPeriod": 8
+    "stars": 9498,
+    "forks": 12931,
+    "starsInPeriod": 30
+  },
+  {
+    "author": "telegramdesktop",
+    "name": "tdesktop",
+    "href": "https://github.com/telegramdesktop/tdesktop",
+    "description": "Telegram Desktop messaging app",
+    "language": "C++",
+    "stars": 14163,
+    "forks": 3110,
+    "starsInPeriod": 59
   },
   {
     "author": "RPCS3",
@@ -215,29 +25,219 @@
     "href": "https://github.com/RPCS3/rpcs3",
     "description": "PS3 emulator/debugger",
     "language": "C++",
-    "stars": 8502,
-    "forks": 1389,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "yuzu-emu",
-    "name": "yuzu",
-    "href": "https://github.com/yuzu-emu/yuzu",
-    "description": "Nintendo Switch Emulator",
-    "language": "C++",
-    "stars": 12514,
-    "forks": 1034,
+    "stars": 8701,
+    "forks": 1414,
     "starsInPeriod": 8
   },
   {
-    "author": "dusty-nv",
-    "name": "jetson-inference",
-    "href": "https://github.com/dusty-nv/jetson-inference",
-    "description": "Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.",
+    "author": "pytorch",
+    "name": "pytorch",
+    "href": "https://github.com/pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
     "language": "C++",
-    "stars": 3750,
-    "forks": 1669,
-    "starsInPeriod": 7
+    "stars": 45353,
+    "forks": 12031,
+    "starsInPeriod": 55
+  },
+  {
+    "author": "DrKLO",
+    "name": "Telegram",
+    "href": "https://github.com/DrKLO/Telegram",
+    "description": "Telegram for Android source",
+    "language": "C++",
+    "stars": 15523,
+    "forks": 5610,
+    "starsInPeriod": 54
+  },
+  {
+    "author": "Aircoookie",
+    "name": "WLED",
+    "href": "https://github.com/Aircoookie/WLED",
+    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
+    "language": "C++",
+    "stars": 4549,
+    "forks": 818,
+    "starsInPeriod": 35
+  },
+  {
+    "author": "Qv2ray",
+    "name": "Qv2ray",
+    "href": "https://github.com/Qv2ray/Qv2ray",
+    "description": "⭐ Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 ⭐",
+    "language": "C++",
+    "stars": 7961,
+    "forks": 1337,
+    "starsInPeriod": 41
+  },
+  {
+    "author": "xournalpp",
+    "name": "xournalpp",
+    "href": "https://github.com/xournalpp/xournalpp",
+    "description": "Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.",
+    "language": "C++",
+    "stars": 3327,
+    "forks": 361,
+    "starsInPeriod": 18
+  },
+  {
+    "author": "nanocurrency",
+    "name": "nano-node",
+    "href": "https://github.com/nanocurrency/nano-node",
+    "description": "Nano is a cryptocurrency",
+    "language": "C++",
+    "stars": 2729,
+    "forks": 617,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "alphacep",
+    "name": "vosk-api",
+    "href": "https://github.com/alphacep/vosk-api",
+    "description": "Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node",
+    "language": "C++",
+    "stars": 1084,
+    "forks": 206,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "ethereum-mining",
+    "name": "ethminer",
+    "href": "https://github.com/ethereum-mining/ethminer",
+    "description": "Ethereum miner with OpenCL, CUDA and stratum support",
+    "language": "C++",
+    "stars": 3406,
+    "forks": 1176,
+    "starsInPeriod": 18
+  },
+  {
+    "author": "prusa3d",
+    "name": "PrusaSlicer",
+    "href": "https://github.com/prusa3d/PrusaSlicer",
+    "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)",
+    "language": "C++",
+    "stars": 2868,
+    "forks": 704,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "OGoodness",
+    "name": "Minesweeper-Login",
+    "href": "https://github.com/OGoodness/Minesweeper-Login",
+    "description": "Minesweeper that cannot be exited in any way other than completing the game. Make it run while logging in and it will work as a second form of \"auth\". Used as a joke for Cyber Team --- Bypass with code - 6969420",
+    "language": "C++",
+    "stars": 69,
+    "forks": 2,
+    "starsInPeriod": 69
+  },
+  {
+    "author": "bitcoin",
+    "name": "bitcoin",
+    "href": "https://github.com/bitcoin/bitcoin",
+    "description": "Bitcoin Core integration/staging tree",
+    "language": "C++",
+    "stars": 47717,
+    "forks": 27054,
+    "starsInPeriod": 117
+  },
+  {
+    "author": "Atmosphere-NX",
+    "name": "Atmosphere",
+    "href": "https://github.com/Atmosphere-NX/Atmosphere",
+    "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+    "language": "C++",
+    "stars": 5534,
+    "forks": 623,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "godotengine",
+    "name": "godot",
+    "href": "https://github.com/godotengine/godot",
+    "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "language": "C++",
+    "stars": 35794,
+    "forks": 6767,
+    "starsInPeriod": 48
+  },
+  {
+    "author": "TrinityCore",
+    "name": "TrinityCore",
+    "href": "https://github.com/TrinityCore/TrinityCore",
+    "description": "TrinityCore Open Source MMO Framework (master = 9.0.2.37142, 3.3.5 = 3.3.5a.12340)",
+    "language": "C++",
+    "stars": 6502,
+    "forks": 4987,
+    "starsInPeriod": 1
+  },
+  {
+    "author": "tdlib",
+    "name": "telegram-bot-api",
+    "href": "https://github.com/tdlib/telegram-bot-api",
+    "description": null,
+    "language": "C++",
+    "stars": 744,
+    "forks": 113,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "citra-emu",
+    "name": "citra",
+    "href": "https://github.com/citra-emu/citra",
+    "description": "A Nintendo 3DS Emulator",
+    "language": "C++",
+    "stars": 6259,
+    "forks": 1275,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "polybar",
+    "name": "polybar",
+    "href": "https://github.com/polybar/polybar",
+    "description": "A fast and easy-to-use status bar",
+    "language": "C++",
+    "stars": 7934,
+    "forks": 425,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "skypjack",
+    "name": "entt",
+    "href": "https://github.com/skypjack/entt",
+    "description": "Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more",
+    "language": "C++",
+    "stars": 4555,
+    "forks": 408,
+    "starsInPeriod": 75
+  },
+  {
+    "author": "domoticz",
+    "name": "domoticz",
+    "href": "https://github.com/domoticz/domoticz",
+    "description": "Open source Home Automation System",
+    "language": "C++",
+    "stars": 2834,
+    "forks": 1037,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "FastLED",
+    "name": "FastLED",
+    "href": "https://github.com/FastLED/FastLED",
+    "description": "The FastLED library for colored LED animation on Arduino. Please direct questions/requests for help to the FastLED Reddit community: http://fastled.io/r We'd like to use github \"issues\" just for tracking library bugs / enhancements.",
+    "language": "C++",
+    "stars": 4319,
+    "forks": 1172,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "ocornut",
+    "name": "imgui",
+    "href": "https://github.com/ocornut/imgui",
+    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "language": "C++",
+    "stars": 26369,
+    "forks": 4383,
+    "starsInPeriod": 54
   },
   {
     "author": "aseprite",
@@ -245,8 +245,8 @@
     "href": "https://github.com/aseprite/aseprite",
     "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
     "language": "C++",
-    "stars": 10666,
-    "forks": 1036,
-    "starsInPeriod": 18
+    "stars": 11894,
+    "forks": 1076,
+    "starsInPeriod": 35
   }
 ]

@@ -1,51 +1,51 @@
 # general
-- [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) : JavaScript
-  - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [starship](https://github.com/starship/starship) : Rust
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [awesome](https://github.com/sindresorhus/awesome) : 
-  - 😎 Awesome lists about all kinds of interesting topics
-- [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) : Python
-  - Bringing Old Photo Back to Life (CVPR 2020 oral)
-- [gping](https://github.com/orf/gping) : Rust
-  - Ping, but with a graph
-- [FallChallenge2020](https://github.com/CodinGame/FallChallenge2020) : JavaScript
-  - Source code for CodinGame's Fall Challenge 2020 event.
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui) : TypeScript
-  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [iptv](https://github.com/iptv-org/iptv) : JavaScript
-  - Collection of 5000+ publicly available IPTV channels from all over the world
-- [k0s](https://github.com/k0sproject/k0s) : Go
-  - k0s - Zero Friction Kubernetes
-- [alacritty](https://github.com/alacritty/alacritty) : Rust
-  - A cross-platform, GPU-accelerated terminal emulator
-- [macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) : Vue
-  - Replacement icons for popular apps in the style of macOS Big Sur
-- [rustlings](https://github.com/rust-lang/rustlings) : Rust
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
-  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
-  - A long list of (advanced) JavaScript questions, and their explanations ✨
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
-  - 💯 Materials to help you rock your next coding interview
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [faker](https://github.com/joke2k/faker) : Python
-  - Faker is a Python package that generates fake data for you.
-- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) : 
-  - A list of awesome beginners-friendly projects.
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [bitcoin](https://github.com/bitcoin/bitcoin) : C++
-  - Bitcoin Core integration/staging tree
-- [core](https://github.com/home-assistant/core) : Python
-  - 🏡 Open source home automation that puts local control and privacy first
-- [Testnet3-Challenges](https://github.com/Concordium/Testnet3-Challenges) : 
-  - This repo is dedicated to Concordium Incentivized Testnet3.
-- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) : Python
-  - 30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.
-- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) : Go
-  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [Signal-Android](https://github.com/signalapp/Signal-Android) : Java
+  - A private messenger for Android.
+- [Signal-Server](https://github.com/signalapp/Signal-Server) : Java
+  - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS
+- [Signal-Desktop](https://github.com/signalapp/Signal-Desktop) : JavaScript
+  - Signal — Private Messenger for Windows, Mac, and Linux
+- [mtSecKill](https://github.com/zqjzqj/mtSecKill) : Go
+  - 京东茅台抢购
+- [Signal-iOS](https://github.com/signalapp/Signal-iOS) : Swift
+  - A private messenger for iOS.
+- [StyleFlow](https://github.com/RameenAbdal/StyleFlow) : Python
+  - StyleFlow: Attribute-conditioned Exploration of StyleGAN-generated Images using Conditional Continuous Normalizing Flows
+- [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) : JavaScript
+  - 30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days
+- [Marlin](https://github.com/MarlinFirmware/Marlin) : C++
+  - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
+- [lens](https://github.com/lensapp/lens) : TypeScript
+  - Lens - The Kubernetes IDE
+- [mastodon](https://github.com/tootsuite/mastodon) : Ruby
+  - Your self-hosted, globally interconnected microblogging community
+- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) : Jupyter Notebook
+  - Course Files for Complete Python 3 Bootcamp Course on Udemy
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework) : Ruby
+  - Metasploit Framework
+- [Projects](https://github.com/karan/Projects) : 
+  - 📃 A list of practical projects that anyone can solve in any programming language.
+- [Cloud-DevSecOps-Learning](https://github.com/chughes29/Cloud-DevSecOps-Learning) : 
+  - Collection of Cloud and DevSecOps learning resources
+- [games](https://github.com/leereilly/games) : 
+  - 🎮 A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) : TeX
+  - Latex code for making neural networks diagrams
+- [DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch) : Python
+  - Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch
+- [coder2gwy](https://github.com/coder2gwy/coder2gwy) : 
+  - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
+- [Magisk](https://github.com/topjohnwu/Magisk) : Kotlin
+  - The Magic Mask for Android
+- [crackq](https://github.com/f0cker/crackq) : Python
+  - CrackQ: A Python Hashcat cracking queue system
+- [openwrt](https://github.com/openwrt/openwrt) : C
+  - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org
+- [AmericaOpposeAmerica](https://github.com/zealotCE/AmericaOpposeAmerica) : 
+  - 《美国反对美国》是王沪宁先生在上世纪80年代末赴美观察写作的。我们知道在那个年代中国对西方特别是美国的追捧有多高，所以突然看到一个学者在80年代就有如此清楚的认识，十分钦佩。由于网上只有效果很差的PDF扫描版，所以我想利用OCR技术和肉眼（人体OCR）来转成现代化的文本格式。目前已经全部完成。
+- [tdesktop](https://github.com/telegramdesktop/tdesktop) : C++
+  - Telegram Desktop messaging app
+- [zola](https://github.com/getzola/zola) : Rust
+  - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+- [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) : Go
+  - Advanced information gathering & OSINT framework for phone numbers
