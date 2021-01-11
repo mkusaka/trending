@@ -1,233 +1,113 @@
 [
   {
-    "author": "microsoft",
-    "name": "Web-Dev-For-Beginners",
-    "href": "https://github.com/microsoft/Web-Dev-For-Beginners",
-    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "author": "signalapp",
+    "name": "Signal-Android",
+    "href": "https://github.com/signalapp/Signal-Android",
+    "description": "A private messenger for Android.",
+    "language": "Java",
+    "stars": 16352,
+    "forks": 3910,
+    "starsInPeriod": 1248
+  },
+  {
+    "author": "signalapp",
+    "name": "Signal-Server",
+    "href": "https://github.com/signalapp/Signal-Server",
+    "description": "Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS",
+    "language": "Java",
+    "stars": 3533,
+    "forks": 936,
+    "starsInPeriod": 644
+  },
+  {
+    "author": "signalapp",
+    "name": "Signal-iOS",
+    "href": "https://github.com/signalapp/Signal-iOS",
+    "description": "A private messenger for iOS.",
+    "language": "Swift",
+    "stars": 6179,
+    "forks": 1617,
+    "starsInPeriod": 395
+  },
+  {
+    "author": "signalapp",
+    "name": "Signal-Desktop",
+    "href": "https://github.com/signalapp/Signal-Desktop",
+    "description": "Signal — Private Messenger for Windows, Mac, and Linux",
     "language": "JavaScript",
-    "stars": 2070,
-    "forks": 135,
-    "starsInPeriod": 1163
+    "stars": 7689,
+    "forks": 1386,
+    "starsInPeriod": 552
   },
   {
-    "author": "starship",
-    "name": "starship",
-    "href": "https://github.com/starship/starship",
-    "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
-    "language": "Rust",
-    "stars": 11613,
-    "forks": 503,
-    "starsInPeriod": 372
-  },
-  {
-    "author": "sindresorhus",
-    "name": "awesome",
-    "href": "https://github.com/sindresorhus/awesome",
-    "description": "😎 Awesome lists about all kinds of interesting topics",
-    "language": "",
-    "stars": 145315,
-    "forks": 19097,
-    "starsInPeriod": 788
-  },
-  {
-    "author": "microsoft",
-    "name": "Bringing-Old-Photos-Back-to-Life",
-    "href": "https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life",
-    "description": "Bringing Old Photo Back to Life (CVPR 2020 oral)",
-    "language": "Python",
-    "stars": 2673,
-    "forks": 210,
-    "starsInPeriod": 418
-  },
-  {
-    "author": "orf",
-    "name": "gping",
-    "href": "https://github.com/orf/gping",
-    "description": "Ping, but with a graph",
-    "language": "Rust",
-    "stars": 2536,
-    "forks": 102,
-    "starsInPeriod": 566
-  },
-  {
-    "author": "CodinGame",
-    "name": "FallChallenge2020",
-    "href": "https://github.com/CodinGame/FallChallenge2020",
-    "description": "Source code for CodinGame's Fall Challenge 2020 event.",
-    "language": "JavaScript",
-    "stars": 74,
-    "forks": 11,
-    "starsInPeriod": 20
-  },
-  {
-    "author": "chakra-ui",
-    "name": "chakra-ui",
-    "href": "https://github.com/chakra-ui/chakra-ui",
-    "description": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
-    "language": "TypeScript",
-    "stars": 12220,
-    "forks": 886,
-    "starsInPeriod": 234
-  },
-  {
-    "author": "iptv-org",
-    "name": "iptv",
-    "href": "https://github.com/iptv-org/iptv",
-    "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
-    "language": "JavaScript",
-    "stars": 20876,
-    "forks": 127,
-    "starsInPeriod": 299
-  },
-  {
-    "author": "k0sproject",
-    "name": "k0s",
-    "href": "https://github.com/k0sproject/k0s",
-    "description": "k0s - Zero Friction Kubernetes",
+    "author": "zqjzqj",
+    "name": "mtSecKill",
+    "href": "https://github.com/zqjzqj/mtSecKill",
+    "description": "京东茅台抢购",
     "language": "Go",
-    "stars": 496,
-    "forks": 16,
-    "starsInPeriod": 236
+    "stars": 934,
+    "forks": 664,
+    "starsInPeriod": 434
   },
   {
-    "author": "alacritty",
-    "name": "alacritty",
-    "href": "https://github.com/alacritty/alacritty",
-    "description": "A cross-platform, GPU-accelerated terminal emulator",
-    "language": "Rust",
-    "stars": 26507,
-    "forks": 1387,
-    "starsInPeriod": 20
-  },
-  {
-    "author": "elrumo",
-    "name": "macOS_Big_Sur_icons_replacements",
-    "href": "https://github.com/elrumo/macOS_Big_Sur_icons_replacements",
-    "description": "Replacement icons for popular apps in the style of macOS Big Sur",
-    "language": "Vue",
-    "stars": 2002,
-    "forks": 136,
-    "starsInPeriod": 430
-  },
-  {
-    "author": "rust-lang",
-    "name": "rustlings",
-    "href": "https://github.com/rust-lang/rustlings",
-    "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
-    "language": "Rust",
-    "stars": 12750,
-    "forks": 1607,
-    "starsInPeriod": 13
-  },
-  {
-    "author": "ripienaar",
-    "name": "free-for-dev",
-    "href": "https://github.com/ripienaar/free-for-dev",
-    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-    "language": "HTML",
-    "stars": 39959,
-    "forks": 4216,
-    "starsInPeriod": 490
-  },
-  {
-    "author": "lydiahallie",
-    "name": "javascript-questions",
-    "href": "https://github.com/lydiahallie/javascript-questions",
-    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
-    "language": "",
-    "stars": 24504,
-    "forks": 3190,
-    "starsInPeriod": 533
-  },
-  {
-    "author": "ryanmcdermott",
-    "name": "clean-code-javascript",
-    "href": "https://github.com/ryanmcdermott/clean-code-javascript",
-    "description": "🛁 Clean Code concepts adapted for JavaScript",
-    "language": "JavaScript",
-    "stars": 40934,
-    "forks": 4955,
-    "starsInPeriod": 422
-  },
-  {
-    "author": "yangshun",
-    "name": "tech-interview-handbook",
-    "href": "https://github.com/yangshun/tech-interview-handbook",
-    "description": "💯 Materials to help you rock your next coding interview",
-    "language": "JavaScript",
-    "stars": 46509,
-    "forks": 6584,
-    "starsInPeriod": 208
-  },
-  {
-    "author": "trekhleb",
-    "name": "javascript-algorithms",
-    "href": "https://github.com/trekhleb/javascript-algorithms",
-    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-    "language": "JavaScript",
-    "stars": 84867,
-    "forks": 14325,
-    "starsInPeriod": 290
-  },
-  {
-    "author": "joke2k",
-    "name": "faker",
-    "href": "https://github.com/joke2k/faker",
-    "description": "Faker is a Python package that generates fake data for you.",
-    "language": "Python",
-    "stars": 10914,
-    "forks": 1292,
-    "starsInPeriod": 58
-  },
-  {
-    "author": "MunGell",
-    "name": "awesome-for-beginners",
-    "href": "https://github.com/MunGell/awesome-for-beginners",
-    "description": "A list of awesome beginners-friendly projects.",
-    "language": "",
-    "stars": 24987,
-    "forks": 4104,
-    "starsInPeriod": 131
-  },
-  {
-    "author": "EbookFoundation",
-    "name": "free-programming-books",
-    "href": "https://github.com/EbookFoundation/free-programming-books",
-    "description": "📚 Freely available programming books",
-    "language": "",
-    "stars": 164934,
-    "forks": 39083,
-    "starsInPeriod": 181
-  },
-  {
-    "author": "bitcoin",
-    "name": "bitcoin",
-    "href": "https://github.com/bitcoin/bitcoin",
-    "description": "Bitcoin Core integration/staging tree",
+    "author": "MarlinFirmware",
+    "name": "Marlin",
+    "href": "https://github.com/MarlinFirmware/Marlin",
+    "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
     "language": "C++",
-    "stars": 45984,
-    "forks": 26635,
-    "starsInPeriod": 25
+    "stars": 9617,
+    "forks": 12946,
+    "starsInPeriod": 66
   },
   {
-    "author": "home-assistant",
-    "name": "core",
-    "href": "https://github.com/home-assistant/core",
-    "description": "🏡 Open source home automation that puts local control and privacy first",
-    "language": "Python",
-    "stars": 37176,
-    "forks": 12214,
-    "starsInPeriod": 24
+    "author": "telegramdesktop",
+    "name": "tdesktop",
+    "href": "https://github.com/telegramdesktop/tdesktop",
+    "description": "Telegram Desktop messaging app",
+    "language": "C++",
+    "stars": 14317,
+    "forks": 3118,
+    "starsInPeriod": 187
   },
   {
-    "author": "Concordium",
-    "name": "Testnet3-Challenges",
-    "href": "https://github.com/Concordium/Testnet3-Challenges",
-    "description": "This repo is dedicated to Concordium Incentivized Testnet3.",
-    "language": "",
-    "stars": 324,
-    "forks": 523,
-    "starsInPeriod": 7
+    "author": "acidanthera",
+    "name": "OpenCorePkg",
+    "href": "https://github.com/acidanthera/OpenCorePkg",
+    "description": "OpenCore bootloader",
+    "language": "C",
+    "stars": 6013,
+    "forks": 1040,
+    "starsInPeriod": 26
+  },
+  {
+    "author": "tootsuite",
+    "name": "mastodon",
+    "href": "https://github.com/tootsuite/mastodon",
+    "description": "Your self-hosted, globally interconnected microblogging community",
+    "language": "Ruby",
+    "stars": 22879,
+    "forks": 3848,
+    "starsInPeriod": 167
+  },
+  {
+    "author": "ccxt",
+    "name": "ccxt",
+    "href": "https://github.com/ccxt/ccxt",
+    "description": "A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges",
+    "language": "JavaScript",
+    "stars": 16056,
+    "forks": 4356,
+    "starsInPeriod": 19
+  },
+  {
+    "author": "ottomated",
+    "name": "CrewLink-server",
+    "href": "https://github.com/ottomated/CrewLink-server",
+    "description": "Voice Relay server for CrewLink.",
+    "language": "TypeScript",
+    "stars": 558,
+    "forks": 425,
+    "starsInPeriod": 6
   },
   {
     "author": "Asabeneh",
@@ -235,18 +115,138 @@
     "href": "https://github.com/Asabeneh/30-Days-Of-Python",
     "description": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
     "language": "Python",
-    "stars": 2948,
-    "forks": 684,
-    "starsInPeriod": 203
+    "stars": 3614,
+    "forks": 820,
+    "starsInPeriod": 285
   },
   {
-    "author": "halfrost",
-    "name": "LeetCode-Go",
-    "href": "https://github.com/halfrost/LeetCode-Go",
-    "description": "✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",
+    "author": "mydexchain",
+    "name": "mydexchain",
+    "href": "https://github.com/mydexchain/mydexchain",
+    "description": null,
+    "language": "",
+    "stars": 227,
+    "forks": 48,
+    "starsInPeriod": 199
+  },
+  {
+    "author": "leereilly",
+    "name": "games",
+    "href": "https://github.com/leereilly/games",
+    "description": "🎮 A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.",
+    "language": "",
+    "stars": 16091,
+    "forks": 2152,
+    "starsInPeriod": 442
+  },
+  {
+    "author": "topjohnwu",
+    "name": "Magisk",
+    "href": "https://github.com/topjohnwu/Magisk",
+    "description": "The Magic Mask for Android",
+    "language": "Kotlin",
+    "stars": 15183,
+    "forks": 2525,
+    "starsInPeriod": 57
+  },
+  {
+    "author": "Asabeneh",
+    "name": "30-Days-Of-JavaScript",
+    "href": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "description": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days",
+    "language": "JavaScript",
+    "stars": 4567,
+    "forks": 980,
+    "starsInPeriod": 303
+  },
+  {
+    "author": "ihebski",
+    "name": "DefaultCreds-cheat-sheet",
+    "href": "https://github.com/ihebski/DefaultCreds-cheat-sheet",
+    "description": "One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️🔥",
+    "language": "Jupyter Notebook",
+    "stars": 605,
+    "forks": 86,
+    "starsInPeriod": 202
+  },
+  {
+    "author": "zealotCE",
+    "name": "AmericaOpposeAmerica",
+    "href": "https://github.com/zealotCE/AmericaOpposeAmerica",
+    "description": "《美国反对美国》是王沪宁先生在上世纪80年代末赴美观察写作的。我们知道在那个年代中国对西方特别是美国的追捧有多高，所以突然看到一个学者在80年代就有如此清楚的认识，十分钦佩。由于网上只有效果很差的PDF扫描版，所以我想利用OCR技术和肉眼（人体OCR）来转成现代化的文本格式。目前已经全部完成。",
+    "language": "",
+    "stars": 843,
+    "forks": 123,
+    "starsInPeriod": 235
+  },
+  {
+    "author": "MacroAnalyst",
+    "name": "Linear_Algebra_With_Python",
+    "href": "https://github.com/MacroAnalyst/Linear_Algebra_With_Python",
+    "description": "Lecture Notes for Linear Algebra Featuring Python",
+    "language": "Jupyter Notebook",
+    "stars": 498,
+    "forks": 135,
+    "starsInPeriod": 118
+  },
+  {
+    "author": "chughes29",
+    "name": "Cloud-DevSecOps-Learning",
+    "href": "https://github.com/chughes29/Cloud-DevSecOps-Learning",
+    "description": "Collection of Cloud and DevSecOps learning resources",
+    "language": "",
+    "stars": 150,
+    "forks": 15,
+    "starsInPeriod": 104
+  },
+  {
+    "author": "pi-hole",
+    "name": "pi-hole",
+    "href": "https://github.com/pi-hole/pi-hole",
+    "description": "A black hole for Internet advertisements",
+    "language": "Shell",
+    "stars": 28485,
+    "forks": 1864,
+    "starsInPeriod": 16
+  },
+  {
+    "author": "sundowndev",
+    "name": "PhoneInfoga",
+    "href": "https://github.com/sundowndev/PhoneInfoga",
+    "description": "Advanced information gathering & OSINT framework for phone numbers",
     "language": "Go",
-    "stars": 8935,
-    "forks": 1396,
+    "stars": 2809,
+    "forks": 1032,
     "starsInPeriod": 43
+  },
+  {
+    "author": "lydiahallie",
+    "name": "javascript-questions",
+    "href": "https://github.com/lydiahallie/javascript-questions",
+    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "language": "",
+    "stars": 27485,
+    "forks": 3642,
+    "starsInPeriod": 285
+  },
+  {
+    "author": "SharonBrizinov",
+    "name": "s3viewer",
+    "href": "https://github.com/SharonBrizinov/s3viewer",
+    "description": "Publicly Open Amazon AWS S3 Bucket Viewer",
+    "language": "Python",
+    "stars": 109,
+    "forks": 14,
+    "starsInPeriod": 32
+  },
+  {
+    "author": "ageron",
+    "name": "handson-ml2",
+    "href": "https://github.com/ageron/handson-ml2",
+    "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+    "language": "Jupyter Notebook",
+    "stars": 12297,
+    "forks": 5874,
+    "starsInPeriod": 16
   }
 ]
