@@ -1,51 +1,51 @@
 # go
-- [micro](https://github.com/micro/micro)
-  - Micro is a platform for cloud native application development
 - [photoprism](https://github.com/photoprism/photoprism)
   - Personal Photo Management powered by Go and Google TensorFlow
-- [go](https://github.com/golang/go)
-  - The Go programming language
-- [magma](https://github.com/magma/magma)
-  - Platform for building access networks and modular network services
-- [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
-  - 《Mastering GO》中文译本，《玩转 GO》。
-- [golang-design-pattern](https://github.com/senghoo/golang-design-pattern)
-  - 设计模式 Golang实现－《研磨设计模式》读书笔记
-- [cilium](https://github.com/cilium/cilium)
-  - eBPF-based Networking, Security, and Observability
-- [go-ethereum](https://github.com/ethereum/go-ethereum)
-  - Official Go implementation of the Ethereum protocol
-- [gron](https://github.com/tomnomnom/gron)
-  - Make JSON greppable!
+- [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2)
+  - An open source re-implementation of Diablo 2
 - [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
   - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
-- [kruise](https://github.com/openkruise/kruise)
-  - Automate application workloads management on Kubernetes
-- [apple-store-helper](https://github.com/hteen/apple-store-helper)
-  - Apple Store iPhone预约助手
-- [kit](https://github.com/go-kit/kit)
-  - A standard library for microservices.
-- [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
-  - A golang ebook intro how to build a web with golang
-- [tools](https://github.com/golang/tools)
-  - [mirror] Go Tools
-- [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm)
-  - Terraform provider for Azure Resource Manager
-- [dapr](https://github.com/dapr/dapr)
-  - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-- [gin](https://github.com/gin-gonic/gin)
-  - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [wails](https://github.com/wailsapp/wails)
-  - Create desktop apps using Go and Web Technologies.
-- [autoscaler](https://github.com/kubernetes/autoscaler)
-  - Autoscaling components for Kubernetes
-- [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
-  - Network-wide ads & trackers blocking DNS server
-- [oauth2](https://github.com/golang/oauth2)
-  - Go OAuth2
-- [badger](https://github.com/dgraph-io/badger)
-  - Fast key-value DB in Go.
-- [sarama](https://github.com/Shopify/sarama)
-  - Sarama is a Go library for Apache Kafka 0.8, and up.
-- [gopsutil](https://github.com/shirou/gopsutil)
-  - psutil for golang
+- [7days-golang](https://github.com/geektutu/7days-golang)
+  - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7天用Go动手写/从零实现系列
+- [aws-sdk-go](https://github.com/aws/aws-sdk-go)
+  - AWS SDK for the Go programming language.
+- [go-ethereum](https://github.com/ethereum/go-ethereum)
+  - Official Go implementation of the Ethereum protocol
+- [high-performance-go](https://github.com/geektutu/high-performance-go)
+  - high performance coding with golang（Go 语言高性能编程，Go 语言陷阱，Gotchas，Traps）
+- [vitess](https://github.com/vitessio/vitess)
+  - Vitess is a database clustering system for horizontal scaling of MySQL.
+- [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga)
+  - Advanced information gathering & OSINT framework for phone numbers
+- [awesome-go](https://github.com/avelino/awesome-go)
+  - A curated list of awesome Go frameworks, libraries and software
+- [gf](https://github.com/gogf/gf)
+  - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
+- [cosmos-sdk](https://github.com/cosmos/cosmos-sdk)
+  - ⛓️ A Framework for Building High Value Public Blockchains ✨
+- [terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
+  - Terraform AWS provider
+- [fzf](https://github.com/junegunn/fzf)
+  - 🌸 A command-line fuzzy finder
+- [go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
+  - cqhttp的golang实现，轻量、原生跨平台.
+- [chromedp](https://github.com/chromedp/chromedp)
+  - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
+- [helloworld](https://github.com/ztino/helloworld)
+  - Hello，MT
+- [cockroach](https://github.com/cockroachdb/cockroach)
+  - CockroachDB - the open source, cloud-native distributed SQL database.
+- [dendrite](https://github.com/matrix-org/dendrite)
+  - Dendrite is a second-generation Matrix homeserver written in Go!
+- [Amass](https://github.com/OWASP/Amass)
+  - In-depth Attack Surface Mapping and Asset Discovery
+- [uroboros](https://github.com/evilsocket/uroboros)
+  - A GNU/Linux monitoring and profiling tool focused on single processes.
+- [filestash](https://github.com/mickael-kerjean/filestash)
+  - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [nightingale](https://github.com/didi/nightingale)
+  - 💡 A Distributed and High-Performance Monitoring System. The next generation of Open-Falcon
+- [testify](https://github.com/stretchr/testify)
+  - A toolkit with common assertions and mocks that plays nicely with the standard library
+- [mattermost-server](https://github.com/mattermost/mattermost-server)
+  - Open source Slack-alternative in Golang and React - Mattermost
