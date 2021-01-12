@@ -1,233 +1,123 @@
 [
   {
-    "author": "microsoft",
-    "name": "Web-Dev-For-Beginners",
-    "href": "https://github.com/microsoft/Web-Dev-For-Beginners",
-    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "author": "tootsuite",
+    "name": "mastodon",
+    "href": "https://github.com/tootsuite/mastodon",
+    "description": "Your self-hosted, globally interconnected microblogging community",
+    "language": "Ruby",
+    "stars": 23027,
+    "forks": 3862,
+    "starsInPeriod": 162
+  },
+  {
+    "author": "signalapp",
+    "name": "Signal-Desktop",
+    "href": "https://github.com/signalapp/Signal-Desktop",
+    "description": "Signal — Private Messenger for Windows, Mac, and Linux",
     "language": "JavaScript",
-    "stars": 2070,
-    "forks": 135,
-    "starsInPeriod": 1163
+    "stars": 8161,
+    "forks": 1434,
+    "starsInPeriod": 489
   },
   {
-    "author": "starship",
-    "name": "starship",
-    "href": "https://github.com/starship/starship",
-    "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
-    "language": "Rust",
-    "stars": 11613,
-    "forks": 503,
-    "starsInPeriod": 372
+    "author": "signalapp",
+    "name": "Signal-Android",
+    "href": "https://github.com/signalapp/Signal-Android",
+    "description": "A private messenger for Android.",
+    "language": "Java",
+    "stars": 17031,
+    "forks": 4041,
+    "starsInPeriod": 842
   },
   {
-    "author": "sindresorhus",
-    "name": "awesome",
-    "href": "https://github.com/sindresorhus/awesome",
-    "description": "😎 Awesome lists about all kinds of interesting topics",
-    "language": "",
-    "stars": 145315,
-    "forks": 19097,
-    "starsInPeriod": 788
+    "author": "signalapp",
+    "name": "Signal-iOS",
+    "href": "https://github.com/signalapp/Signal-iOS",
+    "description": "A private messenger for iOS.",
+    "language": "Swift",
+    "stars": 6496,
+    "forks": 1672,
+    "starsInPeriod": 367
   },
   {
-    "author": "microsoft",
-    "name": "Bringing-Old-Photos-Back-to-Life",
-    "href": "https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life",
-    "description": "Bringing Old Photo Back to Life (CVPR 2020 oral)",
-    "language": "Python",
-    "stars": 2673,
-    "forks": 210,
-    "starsInPeriod": 418
-  },
-  {
-    "author": "orf",
-    "name": "gping",
-    "href": "https://github.com/orf/gping",
-    "description": "Ping, but with a graph",
-    "language": "Rust",
-    "stars": 2536,
-    "forks": 102,
-    "starsInPeriod": 566
-  },
-  {
-    "author": "CodinGame",
-    "name": "FallChallenge2020",
-    "href": "https://github.com/CodinGame/FallChallenge2020",
-    "description": "Source code for CodinGame's Fall Challenge 2020 event.",
-    "language": "JavaScript",
-    "stars": 74,
-    "forks": 11,
-    "starsInPeriod": 20
-  },
-  {
-    "author": "chakra-ui",
-    "name": "chakra-ui",
-    "href": "https://github.com/chakra-ui/chakra-ui",
-    "description": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
+    "author": "imgcook",
+    "name": "imove",
+    "href": "https://github.com/imgcook/imove",
+    "description": "Move your mouse, generate code from flow chart",
     "language": "TypeScript",
-    "stars": 12220,
-    "forks": 886,
-    "starsInPeriod": 234
+    "stars": 273,
+    "forks": 20,
+    "starsInPeriod": 40
   },
   {
-    "author": "iptv-org",
-    "name": "iptv",
-    "href": "https://github.com/iptv-org/iptv",
-    "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
-    "language": "JavaScript",
-    "stars": 20876,
-    "forks": 127,
-    "starsInPeriod": 299
+    "author": "signalapp",
+    "name": "Signal-Server",
+    "href": "https://github.com/signalapp/Signal-Server",
+    "description": "Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS",
+    "language": "Java",
+    "stars": 4014,
+    "forks": 989,
+    "starsInPeriod": 580
   },
   {
-    "author": "k0sproject",
-    "name": "k0s",
-    "href": "https://github.com/k0sproject/k0s",
-    "description": "k0s - Zero Friction Kubernetes",
+    "author": "Rust-GCC",
+    "name": "gccrs",
+    "href": "https://github.com/Rust-GCC/gccrs",
+    "description": "GCC Front-End for Rust",
+    "language": "",
+    "stars": 477,
+    "forks": 22,
+    "starsInPeriod": 105
+  },
+  {
+    "author": "coder2gwy",
+    "name": "coder2gwy",
+    "href": "https://github.com/coder2gwy/coder2gwy",
+    "description": "互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。",
+    "language": "",
+    "stars": 3883,
+    "forks": 517,
+    "starsInPeriod": 888
+  },
+  {
+    "author": "Avik-Jain",
+    "name": "100-Days-Of-ML-Code",
+    "href": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "description": "100 Days of ML Coding",
+    "language": "",
+    "stars": 31015,
+    "forks": 7849,
+    "starsInPeriod": 137
+  },
+  {
+    "author": "MacroAnalyst",
+    "name": "Linear_Algebra_With_Python",
+    "href": "https://github.com/MacroAnalyst/Linear_Algebra_With_Python",
+    "description": "Lecture Notes for Linear Algebra Featuring Python",
+    "language": "Jupyter Notebook",
+    "stars": 815,
+    "forks": 196,
+    "starsInPeriod": 188
+  },
+  {
+    "author": "juicedata",
+    "name": "juicefs",
+    "href": "https://github.com/juicedata/juicefs",
+    "description": "A distributed POSIX file system built on top of Redis and S3.",
     "language": "Go",
-    "stars": 496,
-    "forks": 16,
-    "starsInPeriod": 236
+    "stars": 749,
+    "forks": 45,
+    "starsInPeriod": 387
   },
   {
-    "author": "alacritty",
-    "name": "alacritty",
-    "href": "https://github.com/alacritty/alacritty",
-    "description": "A cross-platform, GPU-accelerated terminal emulator",
-    "language": "Rust",
-    "stars": 26507,
-    "forks": 1387,
-    "starsInPeriod": 20
-  },
-  {
-    "author": "elrumo",
-    "name": "macOS_Big_Sur_icons_replacements",
-    "href": "https://github.com/elrumo/macOS_Big_Sur_icons_replacements",
-    "description": "Replacement icons for popular apps in the style of macOS Big Sur",
-    "language": "Vue",
-    "stars": 2002,
-    "forks": 136,
-    "starsInPeriod": 430
-  },
-  {
-    "author": "rust-lang",
-    "name": "rustlings",
-    "href": "https://github.com/rust-lang/rustlings",
-    "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
-    "language": "Rust",
-    "stars": 12750,
-    "forks": 1607,
-    "starsInPeriod": 13
-  },
-  {
-    "author": "ripienaar",
-    "name": "free-for-dev",
-    "href": "https://github.com/ripienaar/free-for-dev",
-    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-    "language": "HTML",
-    "stars": 39959,
-    "forks": 4216,
-    "starsInPeriod": 490
-  },
-  {
-    "author": "lydiahallie",
-    "name": "javascript-questions",
-    "href": "https://github.com/lydiahallie/javascript-questions",
-    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "author": "ayuer",
+    "name": "shanghai_house_knowledge",
+    "href": "https://github.com/ayuer/shanghai_house_knowledge",
+    "description": "2020年11月在上海买房经历总结出来的买房购房做的一些功课分享给大家，技术人帮助技术人，希望对大家有所帮助。",
     "language": "",
-    "stars": 24504,
-    "forks": 3190,
-    "starsInPeriod": 533
-  },
-  {
-    "author": "ryanmcdermott",
-    "name": "clean-code-javascript",
-    "href": "https://github.com/ryanmcdermott/clean-code-javascript",
-    "description": "🛁 Clean Code concepts adapted for JavaScript",
-    "language": "JavaScript",
-    "stars": 40934,
-    "forks": 4955,
-    "starsInPeriod": 422
-  },
-  {
-    "author": "yangshun",
-    "name": "tech-interview-handbook",
-    "href": "https://github.com/yangshun/tech-interview-handbook",
-    "description": "💯 Materials to help you rock your next coding interview",
-    "language": "JavaScript",
-    "stars": 46509,
-    "forks": 6584,
-    "starsInPeriod": 208
-  },
-  {
-    "author": "trekhleb",
-    "name": "javascript-algorithms",
-    "href": "https://github.com/trekhleb/javascript-algorithms",
-    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-    "language": "JavaScript",
-    "stars": 84867,
-    "forks": 14325,
-    "starsInPeriod": 290
-  },
-  {
-    "author": "joke2k",
-    "name": "faker",
-    "href": "https://github.com/joke2k/faker",
-    "description": "Faker is a Python package that generates fake data for you.",
-    "language": "Python",
-    "stars": 10914,
-    "forks": 1292,
-    "starsInPeriod": 58
-  },
-  {
-    "author": "MunGell",
-    "name": "awesome-for-beginners",
-    "href": "https://github.com/MunGell/awesome-for-beginners",
-    "description": "A list of awesome beginners-friendly projects.",
-    "language": "",
-    "stars": 24987,
-    "forks": 4104,
-    "starsInPeriod": 131
-  },
-  {
-    "author": "EbookFoundation",
-    "name": "free-programming-books",
-    "href": "https://github.com/EbookFoundation/free-programming-books",
-    "description": "📚 Freely available programming books",
-    "language": "",
-    "stars": 164934,
-    "forks": 39083,
-    "starsInPeriod": 181
-  },
-  {
-    "author": "bitcoin",
-    "name": "bitcoin",
-    "href": "https://github.com/bitcoin/bitcoin",
-    "description": "Bitcoin Core integration/staging tree",
-    "language": "C++",
-    "stars": 45984,
-    "forks": 26635,
-    "starsInPeriod": 25
-  },
-  {
-    "author": "home-assistant",
-    "name": "core",
-    "href": "https://github.com/home-assistant/core",
-    "description": "🏡 Open source home automation that puts local control and privacy first",
-    "language": "Python",
-    "stars": 37176,
-    "forks": 12214,
-    "starsInPeriod": 24
-  },
-  {
-    "author": "Concordium",
-    "name": "Testnet3-Challenges",
-    "href": "https://github.com/Concordium/Testnet3-Challenges",
-    "description": "This repo is dedicated to Concordium Incentivized Testnet3.",
-    "language": "",
-    "stars": 324,
-    "forks": 523,
-    "starsInPeriod": 7
+    "stars": 1877,
+    "forks": 241,
+    "starsInPeriod": 227
   },
   {
     "author": "Asabeneh",
@@ -235,18 +125,128 @@
     "href": "https://github.com/Asabeneh/30-Days-Of-Python",
     "description": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
     "language": "Python",
-    "stars": 2948,
-    "forks": 684,
-    "starsInPeriod": 203
+    "stars": 3940,
+    "forks": 849,
+    "starsInPeriod": 275
   },
   {
-    "author": "halfrost",
-    "name": "LeetCode-Go",
-    "href": "https://github.com/halfrost/LeetCode-Go",
-    "description": "✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",
+    "author": "rystsov",
+    "name": "awesome-distributed-transactions",
+    "href": "https://github.com/rystsov/awesome-distributed-transactions",
+    "description": "Awesome list of distributed transactions",
+    "language": "",
+    "stars": 338,
+    "forks": 12,
+    "starsInPeriod": 124
+  },
+  {
+    "author": "zqjzqj",
+    "name": "mtSecKill",
+    "href": "https://github.com/zqjzqj/mtSecKill",
+    "description": "京东茅台抢购",
     "language": "Go",
-    "stars": 8935,
-    "forks": 1396,
-    "starsInPeriod": 43
+    "stars": 1235,
+    "forks": 848,
+    "starsInPeriod": 300
+  },
+  {
+    "author": "chughes29",
+    "name": "Cloud-DevSecOps-Learning",
+    "href": "https://github.com/chughes29/Cloud-DevSecOps-Learning",
+    "description": "Collection of Cloud and DevSecOps learning resources",
+    "language": "",
+    "stars": 222,
+    "forks": 23,
+    "starsInPeriod": 91
+  },
+  {
+    "author": "webpack",
+    "name": "webpack",
+    "href": "https://github.com/webpack/webpack",
+    "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+    "language": "JavaScript",
+    "stars": 57020,
+    "forks": 7501,
+    "starsInPeriod": 16
+  },
+  {
+    "author": "SharonBrizinov",
+    "name": "s3viewer",
+    "href": "https://github.com/SharonBrizinov/s3viewer",
+    "description": "Publicly Open Amazon AWS S3 Bucket Viewer",
+    "language": "Python",
+    "stars": 223,
+    "forks": 20,
+    "starsInPeriod": 57
+  },
+  {
+    "author": "liuhuanyong",
+    "name": "ChineseDiachronicCorpus",
+    "href": "https://github.com/liuhuanyong/ChineseDiachronicCorpus",
+    "description": "ChineseDiachronicCorpus，中文历时语料库，横跨六十余年，包括腾讯历时新闻2000-2016，人民日报历时语料1946-2003，参考消息历时语料1957-2002。基于历时流通语料库，可用于历时语言变化计算、语言监测、社会文化变迁研究提供基础性的语料支持。",
+    "language": "",
+    "stars": 148,
+    "forks": 17,
+    "starsInPeriod": 56
+  },
+  {
+    "author": "lydiahallie",
+    "name": "javascript-questions",
+    "href": "https://github.com/lydiahallie/javascript-questions",
+    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "language": "",
+    "stars": 27879,
+    "forks": 3659,
+    "starsInPeriod": 209
+  },
+  {
+    "author": "ihebski",
+    "name": "DefaultCreds-cheat-sheet",
+    "href": "https://github.com/ihebski/DefaultCreds-cheat-sheet",
+    "description": "One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️🔥",
+    "language": "Jupyter Notebook",
+    "stars": 792,
+    "forks": 105,
+    "starsInPeriod": 169
+  },
+  {
+    "author": "signals-dev",
+    "name": "Orion",
+    "href": "https://github.com/signals-dev/Orion",
+    "description": "A machine learning library for detecting anomalies in signals.",
+    "language": "Jupyter Notebook",
+    "stars": 139,
+    "forks": 36,
+    "starsInPeriod": 16
+  },
+  {
+    "author": "ossu",
+    "name": "data-science",
+    "href": "https://github.com/ossu/data-science",
+    "description": "📊 Path to a free self-taught education in Data Science!",
+    "language": "",
+    "stars": 9990,
+    "forks": 1830,
+    "starsInPeriod": 17
+  },
+  {
+    "author": "ccxt",
+    "name": "ccxt",
+    "href": "https://github.com/ccxt/ccxt",
+    "description": "A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges",
+    "language": "JavaScript",
+    "stars": 16329,
+    "forks": 4361,
+    "starsInPeriod": 144
+  },
+  {
+    "author": "protocolbuffers",
+    "name": "protobuf",
+    "href": "https://github.com/protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "language": "C++",
+    "stars": 45655,
+    "forks": 12246,
+    "starsInPeriod": 21
   }
 ]

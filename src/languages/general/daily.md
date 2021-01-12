@@ -1,51 +1,51 @@
 # general
-- [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) : JavaScript
-  - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [starship](https://github.com/starship/starship) : Rust
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [awesome](https://github.com/sindresorhus/awesome) : 
-  - 😎 Awesome lists about all kinds of interesting topics
-- [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) : Python
-  - Bringing Old Photo Back to Life (CVPR 2020 oral)
-- [gping](https://github.com/orf/gping) : Rust
-  - Ping, but with a graph
-- [FallChallenge2020](https://github.com/CodinGame/FallChallenge2020) : JavaScript
-  - Source code for CodinGame's Fall Challenge 2020 event.
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui) : TypeScript
-  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [iptv](https://github.com/iptv-org/iptv) : JavaScript
-  - Collection of 5000+ publicly available IPTV channels from all over the world
-- [k0s](https://github.com/k0sproject/k0s) : Go
-  - k0s - Zero Friction Kubernetes
-- [alacritty](https://github.com/alacritty/alacritty) : Rust
-  - A cross-platform, GPU-accelerated terminal emulator
-- [macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) : Vue
-  - Replacement icons for popular apps in the style of macOS Big Sur
-- [rustlings](https://github.com/rust-lang/rustlings) : Rust
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
-  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
-  - A long list of (advanced) JavaScript questions, and their explanations ✨
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
-  - 💯 Materials to help you rock your next coding interview
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [faker](https://github.com/joke2k/faker) : Python
-  - Faker is a Python package that generates fake data for you.
-- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) : 
-  - A list of awesome beginners-friendly projects.
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [bitcoin](https://github.com/bitcoin/bitcoin) : C++
-  - Bitcoin Core integration/staging tree
-- [core](https://github.com/home-assistant/core) : Python
-  - 🏡 Open source home automation that puts local control and privacy first
-- [Testnet3-Challenges](https://github.com/Concordium/Testnet3-Challenges) : 
-  - This repo is dedicated to Concordium Incentivized Testnet3.
+- [mastodon](https://github.com/tootsuite/mastodon) : Ruby
+  - Your self-hosted, globally interconnected microblogging community
+- [Signal-Desktop](https://github.com/signalapp/Signal-Desktop) : JavaScript
+  - Signal — Private Messenger for Windows, Mac, and Linux
+- [Signal-Android](https://github.com/signalapp/Signal-Android) : Java
+  - A private messenger for Android.
+- [Signal-iOS](https://github.com/signalapp/Signal-iOS) : Swift
+  - A private messenger for iOS.
+- [imove](https://github.com/imgcook/imove) : TypeScript
+  - Move your mouse, generate code from flow chart
+- [Signal-Server](https://github.com/signalapp/Signal-Server) : Java
+  - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS
+- [gccrs](https://github.com/Rust-GCC/gccrs) : 
+  - GCC Front-End for Rust
+- [coder2gwy](https://github.com/coder2gwy/coder2gwy) : 
+  - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
+- [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) : 
+  - 100 Days of ML Coding
+- [Linear_Algebra_With_Python](https://github.com/MacroAnalyst/Linear_Algebra_With_Python) : Jupyter Notebook
+  - Lecture Notes for Linear Algebra Featuring Python
+- [juicefs](https://github.com/juicedata/juicefs) : Go
+  - A distributed POSIX file system built on top of Redis and S3.
+- [shanghai_house_knowledge](https://github.com/ayuer/shanghai_house_knowledge) : 
+  - 2020年11月在上海买房经历总结出来的买房购房做的一些功课分享给大家，技术人帮助技术人，希望对大家有所帮助。
 - [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) : Python
   - 30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.
-- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) : Go
-  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [awesome-distributed-transactions](https://github.com/rystsov/awesome-distributed-transactions) : 
+  - Awesome list of distributed transactions
+- [mtSecKill](https://github.com/zqjzqj/mtSecKill) : Go
+  - 京东茅台抢购
+- [Cloud-DevSecOps-Learning](https://github.com/chughes29/Cloud-DevSecOps-Learning) : 
+  - Collection of Cloud and DevSecOps learning resources
+- [webpack](https://github.com/webpack/webpack) : JavaScript
+  - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+- [s3viewer](https://github.com/SharonBrizinov/s3viewer) : Python
+  - Publicly Open Amazon AWS S3 Bucket Viewer
+- [ChineseDiachronicCorpus](https://github.com/liuhuanyong/ChineseDiachronicCorpus) : 
+  - ChineseDiachronicCorpus，中文历时语料库，横跨六十余年，包括腾讯历时新闻2000-2016，人民日报历时语料1946-2003，参考消息历时语料1957-2002。基于历时流通语料库，可用于历时语言变化计算、语言监测、社会文化变迁研究提供基础性的语料支持。
+- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
+  - A long list of (advanced) JavaScript questions, and their explanations ✨
+- [DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) : Jupyter Notebook
+  - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️🔥
+- [Orion](https://github.com/signals-dev/Orion) : Jupyter Notebook
+  - A machine learning library for detecting anomalies in signals.
+- [data-science](https://github.com/ossu/data-science) : 
+  - 📊 Path to a free self-taught education in Data Science!
+- [ccxt](https://github.com/ccxt/ccxt) : JavaScript
+  - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
+- [protobuf](https://github.com/protocolbuffers/protobuf) : C++
+  - Protocol Buffers - Google's data interchange format
