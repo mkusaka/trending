@@ -1,51 +1,51 @@
 # general
-- [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) : JavaScript
-  - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [starship](https://github.com/starship/starship) : Rust
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [awesome](https://github.com/sindresorhus/awesome) : 
-  - 😎 Awesome lists about all kinds of interesting topics
-- [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) : Python
-  - Bringing Old Photo Back to Life (CVPR 2020 oral)
-- [gping](https://github.com/orf/gping) : Rust
-  - Ping, but with a graph
-- [FallChallenge2020](https://github.com/CodinGame/FallChallenge2020) : JavaScript
-  - Source code for CodinGame's Fall Challenge 2020 event.
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui) : TypeScript
-  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [iptv](https://github.com/iptv-org/iptv) : JavaScript
-  - Collection of 5000+ publicly available IPTV channels from all over the world
-- [k0s](https://github.com/k0sproject/k0s) : Go
-  - k0s - Zero Friction Kubernetes
-- [alacritty](https://github.com/alacritty/alacritty) : Rust
-  - A cross-platform, GPU-accelerated terminal emulator
-- [macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) : Vue
-  - Replacement icons for popular apps in the style of macOS Big Sur
-- [rustlings](https://github.com/rust-lang/rustlings) : Rust
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
-  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
-  - A long list of (advanced) JavaScript questions, and their explanations ✨
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
-  - 💯 Materials to help you rock your next coding interview
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [faker](https://github.com/joke2k/faker) : Python
-  - Faker is a Python package that generates fake data for you.
-- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) : 
-  - A list of awesome beginners-friendly projects.
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
-  - 📚 Freely available programming books
-- [bitcoin](https://github.com/bitcoin/bitcoin) : C++
-  - Bitcoin Core integration/staging tree
-- [core](https://github.com/home-assistant/core) : Python
-  - 🏡 Open source home automation that puts local control and privacy first
-- [Testnet3-Challenges](https://github.com/Concordium/Testnet3-Challenges) : 
-  - This repo is dedicated to Concordium Incentivized Testnet3.
-- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) : Python
-  - 30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.
-- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) : Go
-  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [coder2gwy](https://github.com/coder2gwy/coder2gwy) : 
+  - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
+- [imove](https://github.com/imgcook/imove) : TypeScript
+  - Move your mouse, generate code from flow chart
+- [juicefs](https://github.com/juicedata/juicefs) : Go
+  - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+- [parler-tricks](https://github.com/d0nk/parler-tricks) : Python
+  - Reverse engineered Parler API
+- [Signal-iOS](https://github.com/signalapp/Signal-iOS) : Swift
+  - A private messenger for iOS.
+- [Signal-Desktop](https://github.com/signalapp/Signal-Desktop) : JavaScript
+  - Signal — Private Messenger for Windows, Mac, and Linux
+- [protobuf](https://github.com/protocolbuffers/protobuf) : C++
+  - Protocol Buffers - Google's data interchange format
+- [parler-grab](https://github.com/ArchiveTeam/parler-grab) : Lua
+  - Archiving Parler.
+- [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) : JavaScript
+  - 30 Days of React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.
+- [mewehkdirectory](https://github.com/mewedir/mewehkdirectory) : 
+  - MeWe Directory for HongKonger
+- [Files](https://github.com/files-community/Files) : C#
+  - A modern file explorer that pushes the boundaries of the platform.
+- [flutter-ui-kits](https://github.com/OLayemii/flutter-ui-kits) : Dart
+  - Free Flutter UI Kits developed by Olayemi Garuba
+- [DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) : Jupyter Notebook
+  - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️🔥
+- [Signal-Android](https://github.com/signalapp/Signal-Android) : Java
+  - A private messenger for Android.
+- [frontend-challenges](https://github.com/felipefialho/frontend-challenges) : 
+  - 💥 Listing some playful open-source's challenges of jobs to test your knowledge
+- [mastodon](https://github.com/tootsuite/mastodon) : Ruby
+  - Your self-hosted, globally interconnected microblogging community
+- [LuLu](https://github.com/objective-see/LuLu) : Objective-C
+  - LuLu is the free macOS firewall
+- [data-science](https://github.com/ossu/data-science) : 
+  - 📊 Path to a free self-taught education in Data Science!
+- [shanghai_house_knowledge](https://github.com/ayuer/shanghai_house_knowledge) : 
+  - 2020年11月在上海买房经历总结出来的买房购房做的一些功课分享给大家，技术人帮助技术人，希望对大家有所帮助。
+- [ccxt](https://github.com/ccxt/ccxt) : JavaScript
+  - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
+- [hacktricks](https://github.com/carlospolop/hacktricks) : Python
+  - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
+- [Orion](https://github.com/signals-dev/Orion) : Jupyter Notebook
+  - A machine learning library for detecting anomalies in signals.
+- [git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) : 
+  - git and git flow cheat sheet
+- [cmake-raytracer](https://github.com/64/cmake-raytracer) : CMake
+  - Ray tracer written in pure CMake
+- [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) : 
+  - 100 Days of ML Coding
