@@ -1,51 +1,51 @@
 # general
-- [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) : JavaScript
-  - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [starship](https://github.com/starship/starship) : Rust
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [awesome](https://github.com/sindresorhus/awesome) : 
-  - 😎 Awesome lists about all kinds of interesting topics
-- [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) : Python
-  - Bringing Old Photo Back to Life (CVPR 2020 oral)
-- [gping](https://github.com/orf/gping) : Rust
-  - Ping, but with a graph
-- [FallChallenge2020](https://github.com/CodinGame/FallChallenge2020) : JavaScript
-  - Source code for CodinGame's Fall Challenge 2020 event.
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui) : TypeScript
-  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+- [Files](https://github.com/files-community/Files) : C#
+  - A modern file explorer that pushes the boundaries of the platform.
+- [jd-base](https://github.com/EvineDeng/jd-base) : JavaScript
+  - 京东薅羊毛脚本 https://github.com/LXK9301/jd_scripts 的shell套壳工具
 - [iptv](https://github.com/iptv-org/iptv) : JavaScript
   - Collection of 5000+ publicly available IPTV channels from all over the world
-- [k0s](https://github.com/k0sproject/k0s) : Go
-  - k0s - Zero Friction Kubernetes
-- [alacritty](https://github.com/alacritty/alacritty) : Rust
-  - A cross-platform, GPU-accelerated terminal emulator
-- [macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) : Vue
-  - Replacement icons for popular apps in the style of macOS Big Sur
-- [rustlings](https://github.com/rust-lang/rustlings) : Rust
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
-  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
-  - A long list of (advanced) JavaScript questions, and their explanations ✨
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
-  - 💯 Materials to help you rock your next coding interview
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [faker](https://github.com/joke2k/faker) : Python
-  - Faker is a Python package that generates fake data for you.
-- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) : 
-  - A list of awesome beginners-friendly projects.
+- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) : PowerShell
+  - Azure Quickstart Templates
+- [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) : JavaScript
+  - 30 Days of React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+- [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) : 
+  - List of Computer Science courses with video lectures.
+- [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) : 
+  - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
+- [xnuspy](https://github.com/jsherman212/xnuspy) : C
+  - an iOS kernel function hooking framework for checkra1n'able devices
+- [best-of-python](https://github.com/ml-tooling/best-of-python) : 
+  - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form) : TypeScript
+  - 📋 React Hooks for forms validation (Web + React Native)
+- [emba](https://github.com/e-m-b-a/emba) : Shell
+  - emba - An analyzer for Linux-based firmware of embedded devices.
+- [Logi-KafkaManager](https://github.com/didi/Logi-KafkaManager) : Java
+  - 一站式Apache Kafka集群指标监控与运维管控平台
+- [best-of-web-python](https://github.com/ml-tooling/best-of-web-python) : 
+  - 🏆 A ranked list of awesome python libraries for web development. Updated weekly.
+- [HealthCode](https://github.com/XJP-GIT/HealthCode) : 
+  - 健康码演示
+- [dagster](https://github.com/dagster-io/dagster) : Python
+  - A data orchestrator for machine learning, analytics, and ETL.
+- [taiga-ui](https://github.com/TinkoffCreditSystems/taiga-ui) : TypeScript
+  - Angular UI Kit and components library for awesome people
+- [svelte](https://github.com/sveltejs/svelte) : JavaScript
+  - Cybernetically enhanced web apps
+- [hacktricks](https://github.com/carlospolop/hacktricks) : Python
+  - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
+- [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) : 
+  - Roadmap to becoming a data engineer in 2021
+- [safetynet-fix](https://github.com/kdrag0n/safetynet-fix) : Shell
+  - A universal fix for Google SafetyNet on Android devices with hardware attestation and unlocked bootloaders.
+- [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) : Objective-C
+  - Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)
+- [ruffle](https://github.com/ruffle-rs/ruffle) : Rust
+  - A Flash Player emulator written in Rust
+- [fem-easybank](https://github.com/thecodercoder/fem-easybank) : SCSS
+  - Easybank landing page from Frontend Mentor
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
   - 📚 Freely available programming books
-- [bitcoin](https://github.com/bitcoin/bitcoin) : C++
-  - Bitcoin Core integration/staging tree
-- [core](https://github.com/home-assistant/core) : Python
-  - 🏡 Open source home automation that puts local control and privacy first
-- [Testnet3-Challenges](https://github.com/Concordium/Testnet3-Challenges) : 
-  - This repo is dedicated to Concordium Incentivized Testnet3.
-- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) : Python
-  - 30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.
-- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) : Go
-  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解

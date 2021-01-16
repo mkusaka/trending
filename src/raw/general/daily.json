@@ -1,73 +1,23 @@
 [
   {
-    "author": "microsoft",
-    "name": "Web-Dev-For-Beginners",
-    "href": "https://github.com/microsoft/Web-Dev-For-Beginners",
-    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "author": "files-community",
+    "name": "Files",
+    "href": "https://github.com/files-community/Files",
+    "description": "A modern file explorer that pushes the boundaries of the platform.",
+    "language": "C#",
+    "stars": 4983,
+    "forks": 307,
+    "starsInPeriod": 413
+  },
+  {
+    "author": "EvineDeng",
+    "name": "jd-base",
+    "href": "https://github.com/EvineDeng/jd-base",
+    "description": "京东薅羊毛脚本 https://github.com/LXK9301/jd_scripts 的shell套壳工具",
     "language": "JavaScript",
-    "stars": 2070,
-    "forks": 135,
-    "starsInPeriod": 1163
-  },
-  {
-    "author": "starship",
-    "name": "starship",
-    "href": "https://github.com/starship/starship",
-    "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
-    "language": "Rust",
-    "stars": 11613,
-    "forks": 503,
-    "starsInPeriod": 372
-  },
-  {
-    "author": "sindresorhus",
-    "name": "awesome",
-    "href": "https://github.com/sindresorhus/awesome",
-    "description": "😎 Awesome lists about all kinds of interesting topics",
-    "language": "",
-    "stars": 145315,
-    "forks": 19097,
-    "starsInPeriod": 788
-  },
-  {
-    "author": "microsoft",
-    "name": "Bringing-Old-Photos-Back-to-Life",
-    "href": "https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life",
-    "description": "Bringing Old Photo Back to Life (CVPR 2020 oral)",
-    "language": "Python",
-    "stars": 2673,
-    "forks": 210,
-    "starsInPeriod": 418
-  },
-  {
-    "author": "orf",
-    "name": "gping",
-    "href": "https://github.com/orf/gping",
-    "description": "Ping, but with a graph",
-    "language": "Rust",
-    "stars": 2536,
-    "forks": 102,
-    "starsInPeriod": 566
-  },
-  {
-    "author": "CodinGame",
-    "name": "FallChallenge2020",
-    "href": "https://github.com/CodinGame/FallChallenge2020",
-    "description": "Source code for CodinGame's Fall Challenge 2020 event.",
-    "language": "JavaScript",
-    "stars": 74,
-    "forks": 11,
-    "starsInPeriod": 20
-  },
-  {
-    "author": "chakra-ui",
-    "name": "chakra-ui",
-    "href": "https://github.com/chakra-ui/chakra-ui",
-    "description": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
-    "language": "TypeScript",
-    "stars": 12220,
-    "forks": 886,
-    "starsInPeriod": 234
+    "stars": 1677,
+    "forks": 615,
+    "starsInPeriod": 122
   },
   {
     "author": "iptv-org",
@@ -75,119 +25,219 @@
     "href": "https://github.com/iptv-org/iptv",
     "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
     "language": "JavaScript",
-    "stars": 20876,
-    "forks": 127,
-    "starsInPeriod": 299
+    "stars": 24749,
+    "forks": 538,
+    "starsInPeriod": 79
   },
   {
-    "author": "k0sproject",
-    "name": "k0s",
-    "href": "https://github.com/k0sproject/k0s",
-    "description": "k0s - Zero Friction Kubernetes",
-    "language": "Go",
-    "stars": 496,
+    "author": "Azure",
+    "name": "azure-quickstart-templates",
+    "href": "https://github.com/Azure/azure-quickstart-templates",
+    "description": "Azure Quickstart Templates",
+    "language": "PowerShell",
+    "stars": 8922,
+    "forks": 12051,
+    "starsInPeriod": 87
+  },
+  {
+    "author": "Asabeneh",
+    "name": "30-Days-Of-React",
+    "href": "https://github.com/Asabeneh/30-Days-Of-React",
+    "description": "30 Days of React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.",
+    "language": "JavaScript",
+    "stars": 3925,
+    "forks": 935,
+    "starsInPeriod": 306
+  },
+  {
+    "author": "labuladong",
+    "name": "fucking-algorithm",
+    "href": "https://github.com/labuladong/fucking-algorithm",
+    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "language": "",
+    "stars": 79911,
+    "forks": 15308,
+    "starsInPeriod": 259
+  },
+  {
+    "author": "Developer-Y",
+    "name": "cs-video-courses",
+    "href": "https://github.com/Developer-Y/cs-video-courses",
+    "description": "List of Computer Science courses with video lectures.",
+    "language": "",
+    "stars": 17615,
+    "forks": 2466,
+    "starsInPeriod": 1043
+  },
+  {
+    "author": "ml-tooling",
+    "name": "best-of-ml-python",
+    "href": "https://github.com/ml-tooling/best-of-ml-python",
+    "description": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+    "language": "",
+    "stars": 632,
+    "forks": 75,
+    "starsInPeriod": 250
+  },
+  {
+    "author": "jsherman212",
+    "name": "xnuspy",
+    "href": "https://github.com/jsherman212/xnuspy",
+    "description": "an iOS kernel function hooking framework for checkra1n'able devices",
+    "language": "C",
+    "stars": 155,
     "forks": 16,
-    "starsInPeriod": 236
+    "starsInPeriod": 101
   },
   {
-    "author": "alacritty",
-    "name": "alacritty",
-    "href": "https://github.com/alacritty/alacritty",
-    "description": "A cross-platform, GPU-accelerated terminal emulator",
-    "language": "Rust",
-    "stars": 26507,
-    "forks": 1387,
-    "starsInPeriod": 20
-  },
-  {
-    "author": "elrumo",
-    "name": "macOS_Big_Sur_icons_replacements",
-    "href": "https://github.com/elrumo/macOS_Big_Sur_icons_replacements",
-    "description": "Replacement icons for popular apps in the style of macOS Big Sur",
-    "language": "Vue",
-    "stars": 2002,
-    "forks": 136,
-    "starsInPeriod": 430
-  },
-  {
-    "author": "rust-lang",
-    "name": "rustlings",
-    "href": "https://github.com/rust-lang/rustlings",
-    "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
-    "language": "Rust",
-    "stars": 12750,
-    "forks": 1607,
-    "starsInPeriod": 13
-  },
-  {
-    "author": "ripienaar",
-    "name": "free-for-dev",
-    "href": "https://github.com/ripienaar/free-for-dev",
-    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-    "language": "HTML",
-    "stars": 39959,
-    "forks": 4216,
-    "starsInPeriod": 490
-  },
-  {
-    "author": "lydiahallie",
-    "name": "javascript-questions",
-    "href": "https://github.com/lydiahallie/javascript-questions",
-    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "author": "ml-tooling",
+    "name": "best-of-python",
+    "href": "https://github.com/ml-tooling/best-of-python",
+    "description": "🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.",
     "language": "",
-    "stars": 24504,
-    "forks": 3190,
-    "starsInPeriod": 533
+    "stars": 407,
+    "forks": 30,
+    "starsInPeriod": 239
   },
   {
-    "author": "ryanmcdermott",
-    "name": "clean-code-javascript",
-    "href": "https://github.com/ryanmcdermott/clean-code-javascript",
-    "description": "🛁 Clean Code concepts adapted for JavaScript",
-    "language": "JavaScript",
-    "stars": 40934,
-    "forks": 4955,
-    "starsInPeriod": 422
+    "author": "react-hook-form",
+    "name": "react-hook-form",
+    "href": "https://github.com/react-hook-form/react-hook-form",
+    "description": "📋 React Hooks for forms validation (Web + React Native)",
+    "language": "TypeScript",
+    "stars": 17183,
+    "forks": 782,
+    "starsInPeriod": 175
   },
   {
-    "author": "yangshun",
-    "name": "tech-interview-handbook",
-    "href": "https://github.com/yangshun/tech-interview-handbook",
-    "description": "💯 Materials to help you rock your next coding interview",
-    "language": "JavaScript",
-    "stars": 46509,
-    "forks": 6584,
-    "starsInPeriod": 208
+    "author": "e-m-b-a",
+    "name": "emba",
+    "href": "https://github.com/e-m-b-a/emba",
+    "description": "emba - An analyzer for Linux-based firmware of embedded devices.",
+    "language": "Shell",
+    "stars": 396,
+    "forks": 37,
+    "starsInPeriod": 85
   },
   {
-    "author": "trekhleb",
-    "name": "javascript-algorithms",
-    "href": "https://github.com/trekhleb/javascript-algorithms",
-    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-    "language": "JavaScript",
-    "stars": 84867,
-    "forks": 14325,
-    "starsInPeriod": 290
+    "author": "didi",
+    "name": "Logi-KafkaManager",
+    "href": "https://github.com/didi/Logi-KafkaManager",
+    "description": "一站式Apache Kafka集群指标监控与运维管控平台",
+    "language": "Java",
+    "stars": 855,
+    "forks": 247,
+    "starsInPeriod": 108
   },
   {
-    "author": "joke2k",
-    "name": "faker",
-    "href": "https://github.com/joke2k/faker",
-    "description": "Faker is a Python package that generates fake data for you.",
+    "author": "ml-tooling",
+    "name": "best-of-web-python",
+    "href": "https://github.com/ml-tooling/best-of-web-python",
+    "description": "🏆 A ranked list of awesome python libraries for web development. Updated weekly.",
+    "language": "",
+    "stars": 209,
+    "forks": 13,
+    "starsInPeriod": 95
+  },
+  {
+    "author": "XJP-GIT",
+    "name": "HealthCode",
+    "href": "https://github.com/XJP-GIT/HealthCode",
+    "description": "健康码演示",
+    "language": "",
+    "stars": 117,
+    "forks": 80,
+    "starsInPeriod": 43
+  },
+  {
+    "author": "dagster-io",
+    "name": "dagster",
+    "href": "https://github.com/dagster-io/dagster",
+    "description": "A data orchestrator for machine learning, analytics, and ETL.",
     "language": "Python",
-    "stars": 10914,
-    "forks": 1292,
-    "starsInPeriod": 58
+    "stars": 2685,
+    "forks": 271,
+    "starsInPeriod": 52
   },
   {
-    "author": "MunGell",
-    "name": "awesome-for-beginners",
-    "href": "https://github.com/MunGell/awesome-for-beginners",
-    "description": "A list of awesome beginners-friendly projects.",
+    "author": "TinkoffCreditSystems",
+    "name": "taiga-ui",
+    "href": "https://github.com/TinkoffCreditSystems/taiga-ui",
+    "description": "Angular UI Kit and components library for awesome people",
+    "language": "TypeScript",
+    "stars": 755,
+    "forks": 32,
+    "starsInPeriod": 178
+  },
+  {
+    "author": "sveltejs",
+    "name": "svelte",
+    "href": "https://github.com/sveltejs/svelte",
+    "description": "Cybernetically enhanced web apps",
+    "language": "JavaScript",
+    "stars": 41652,
+    "forks": 1968,
+    "starsInPeriod": 246
+  },
+  {
+    "author": "carlospolop",
+    "name": "hacktricks",
+    "href": "https://github.com/carlospolop/hacktricks",
+    "description": "Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.",
+    "language": "Python",
+    "stars": 1481,
+    "forks": 315,
+    "starsInPeriod": 222
+  },
+  {
+    "author": "datastacktv",
+    "name": "data-engineer-roadmap",
+    "href": "https://github.com/datastacktv/data-engineer-roadmap",
+    "description": "Roadmap to becoming a data engineer in 2021",
     "language": "",
-    "stars": 24987,
-    "forks": 4104,
-    "starsInPeriod": 131
+    "stars": 3816,
+    "forks": 289,
+    "starsInPeriod": 65
+  },
+  {
+    "author": "kdrag0n",
+    "name": "safetynet-fix",
+    "href": "https://github.com/kdrag0n/safetynet-fix",
+    "description": "A universal fix for Google SafetyNet on Android devices with hardware attestation and unlocked bootloaders.",
+    "language": "Shell",
+    "stars": 181,
+    "forks": 10,
+    "starsInPeriod": 50
+  },
+  {
+    "author": "MustangYM",
+    "name": "WeChatExtension-ForMac",
+    "href": "https://github.com/MustangYM/WeChatExtension-ForMac",
+    "description": "Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)",
+    "language": "Objective-C",
+    "stars": 13647,
+    "forks": 2048,
+    "starsInPeriod": 141
+  },
+  {
+    "author": "ruffle-rs",
+    "name": "ruffle",
+    "href": "https://github.com/ruffle-rs/ruffle",
+    "description": "A Flash Player emulator written in Rust",
+    "language": "Rust",
+    "stars": 6316,
+    "forks": 214,
+    "starsInPeriod": 86
+  },
+  {
+    "author": "thecodercoder",
+    "name": "fem-easybank",
+    "href": "https://github.com/thecodercoder/fem-easybank",
+    "description": "Easybank landing page from Frontend Mentor",
+    "language": "SCSS",
+    "stars": 70,
+    "forks": 60,
+    "starsInPeriod": 10
   },
   {
     "author": "EbookFoundation",
@@ -195,58 +245,8 @@
     "href": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "",
-    "stars": 164934,
-    "forks": 39083,
-    "starsInPeriod": 181
-  },
-  {
-    "author": "bitcoin",
-    "name": "bitcoin",
-    "href": "https://github.com/bitcoin/bitcoin",
-    "description": "Bitcoin Core integration/staging tree",
-    "language": "C++",
-    "stars": 45984,
-    "forks": 26635,
-    "starsInPeriod": 25
-  },
-  {
-    "author": "home-assistant",
-    "name": "core",
-    "href": "https://github.com/home-assistant/core",
-    "description": "🏡 Open source home automation that puts local control and privacy first",
-    "language": "Python",
-    "stars": 37176,
-    "forks": 12214,
-    "starsInPeriod": 24
-  },
-  {
-    "author": "Concordium",
-    "name": "Testnet3-Challenges",
-    "href": "https://github.com/Concordium/Testnet3-Challenges",
-    "description": "This repo is dedicated to Concordium Incentivized Testnet3.",
-    "language": "",
-    "stars": 324,
-    "forks": 523,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "Asabeneh",
-    "name": "30-Days-Of-Python",
-    "href": "https://github.com/Asabeneh/30-Days-Of-Python",
-    "description": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
-    "language": "Python",
-    "stars": 2948,
-    "forks": 684,
-    "starsInPeriod": 203
-  },
-  {
-    "author": "halfrost",
-    "name": "LeetCode-Go",
-    "href": "https://github.com/halfrost/LeetCode-Go",
-    "description": "✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",
-    "language": "Go",
-    "stars": 8935,
-    "forks": 1396,
-    "starsInPeriod": 43
+    "stars": 171125,
+    "forks": 39951,
+    "starsInPeriod": 173
   }
 ]

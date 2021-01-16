@@ -1,23 +1,13 @@
 [
   {
-    "author": "microsoft",
-    "name": "Web-Dev-For-Beginners",
-    "href": "https://github.com/microsoft/Web-Dev-For-Beginners",
-    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "author": "EvineDeng",
+    "name": "jd-base",
+    "href": "https://github.com/EvineDeng/jd-base",
+    "description": "京东薅羊毛脚本 https://github.com/LXK9301/jd_scripts 的shell套壳工具",
     "language": "JavaScript",
-    "stars": 2070,
-    "forks": 135,
-    "starsInPeriod": 1163
-  },
-  {
-    "author": "CodinGame",
-    "name": "FallChallenge2020",
-    "href": "https://github.com/CodinGame/FallChallenge2020",
-    "description": "Source code for CodinGame's Fall Challenge 2020 event.",
-    "language": "JavaScript",
-    "stars": 74,
-    "forks": 11,
-    "starsInPeriod": 20
+    "stars": 1677,
+    "forks": 615,
+    "starsInPeriod": 122
   },
   {
     "author": "iptv-org",
@@ -25,228 +15,238 @@
     "href": "https://github.com/iptv-org/iptv",
     "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
     "language": "JavaScript",
-    "stars": 20876,
-    "forks": 127,
-    "starsInPeriod": 299
+    "stars": 24749,
+    "forks": 538,
+    "starsInPeriod": 79
   },
   {
-    "author": "ryanmcdermott",
-    "name": "clean-code-javascript",
-    "href": "https://github.com/ryanmcdermott/clean-code-javascript",
-    "description": "🛁 Clean Code concepts adapted for JavaScript",
+    "author": "Asabeneh",
+    "name": "30-Days-Of-React",
+    "href": "https://github.com/Asabeneh/30-Days-Of-React",
+    "description": "30 Days of React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.",
     "language": "JavaScript",
-    "stars": 40934,
-    "forks": 4955,
-    "starsInPeriod": 422
+    "stars": 3925,
+    "forks": 935,
+    "starsInPeriod": 306
   },
   {
-    "author": "yangshun",
-    "name": "tech-interview-handbook",
-    "href": "https://github.com/yangshun/tech-interview-handbook",
-    "description": "💯 Materials to help you rock your next coding interview",
+    "author": "sveltejs",
+    "name": "svelte",
+    "href": "https://github.com/sveltejs/svelte",
+    "description": "Cybernetically enhanced web apps",
     "language": "JavaScript",
-    "stars": 46509,
-    "forks": 6584,
-    "starsInPeriod": 208
+    "stars": 41652,
+    "forks": 1968,
+    "starsInPeriod": 246
   },
   {
-    "author": "trekhleb",
-    "name": "javascript-algorithms",
-    "href": "https://github.com/trekhleb/javascript-algorithms",
-    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "author": "alpinejs",
+    "name": "alpine",
+    "href": "https://github.com/alpinejs/alpine",
+    "description": "A rugged, minimal framework for composing JavaScript behavior in your markup.",
     "language": "JavaScript",
-    "stars": 84867,
-    "forks": 14325,
-    "starsInPeriod": 290
+    "stars": 13135,
+    "forks": 503,
+    "starsInPeriod": 47
   },
   {
-    "author": "discordjs",
-    "name": "discord.js",
-    "href": "https://github.com/discordjs/discord.js",
-    "description": "A powerful JavaScript library for interacting with the Discord API",
+    "author": "outline",
+    "name": "outline",
+    "href": "https://github.com/outline/outline",
+    "description": "The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.",
     "language": "JavaScript",
-    "stars": 8100,
-    "forks": 1790,
-    "starsInPeriod": 10
-  },
-  {
-    "author": "laurent22",
-    "name": "joplin",
-    "href": "https://github.com/laurent22/joplin",
-    "description": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
-    "language": "JavaScript",
-    "stars": 18843,
-    "forks": 1936,
-    "starsInPeriod": 35
-  },
-  {
-    "author": "discord",
-    "name": "discord-api-docs",
-    "href": "https://github.com/discord/discord-api-docs",
-    "description": "Official Discord API Documentation",
-    "language": "JavaScript",
-    "stars": 2322,
-    "forks": 600,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "awesome-selfhosted",
-    "name": "awesome-selfhosted",
-    "href": "https://github.com/awesome-selfhosted/awesome-selfhosted",
-    "description": "A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers",
-    "language": "JavaScript",
-    "stars": 50090,
-    "forks": 3981,
-    "starsInPeriod": 32
-  },
-  {
-    "author": "fossasia",
-    "name": "open-event-frontend",
-    "href": "https://github.com/fossasia/open-event-frontend",
-    "description": "The frontend for the Open Event API Server https://open-event-frontend.now.sh",
-    "language": "JavaScript",
-    "stars": 1642,
-    "forks": 1021,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "lwitzani",
-    "name": "homebridgeStatusWidget",
-    "href": "https://github.com/lwitzani/homebridgeStatusWidget",
-    "description": null,
-    "language": "JavaScript",
-    "stars": 39,
-    "forks": 18,
-    "starsInPeriod": 15
-  },
-  {
-    "author": "expressjs",
-    "name": "express",
-    "href": "https://github.com/expressjs/express",
-    "description": "Fast, unopinionated, minimalist web framework for node.",
-    "language": "JavaScript",
-    "stars": 50834,
-    "forks": 8482,
-    "starsInPeriod": 12
-  },
-  {
-    "author": "Orz-3",
-    "name": "QuantumultX",
-    "href": "https://github.com/Orz-3/QuantumultX",
-    "description": null,
-    "language": "JavaScript",
-    "stars": 257,
-    "forks": 91,
-    "starsInPeriod": 11
-  },
-  {
-    "author": "eritislami",
-    "name": "evobot",
-    "href": "https://github.com/eritislami/evobot",
-    "description": "🤖 EvoBot is a Discord Music Bot built with discord.js & uses Command Handler from discordjs.guide",
-    "language": "JavaScript",
-    "stars": 223,
-    "forks": 442,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "Necriso",
-    "name": "ScriptableWidgets",
-    "href": "https://github.com/Necriso/ScriptableWidgets",
-    "description": null,
-    "language": "JavaScript",
-    "stars": 11,
-    "forks": 5,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "Koenkk",
-    "name": "zigbee2mqtt",
-    "href": "https://github.com/Koenkk/zigbee2mqtt",
-    "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
-    "language": "JavaScript",
-    "stars": 4870,
-    "forks": 854,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "nodejs",
-    "name": "node",
-    "href": "https://github.com/nodejs/node",
-    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
-    "language": "JavaScript",
-    "stars": 74804,
-    "forks": 18538,
-    "starsInPeriod": 26
-  },
-  {
-    "author": "babel",
-    "name": "babel",
-    "href": "https://github.com/babel/babel",
-    "description": "🐠 Babel is a compiler for writing next generation JavaScript.",
-    "language": "JavaScript",
-    "stars": 37788,
-    "forks": 4568,
-    "starsInPeriod": 17
-  },
-  {
-    "author": "LAB-MI",
-    "name": "attestation-deplacement-derogatoire-q4-2020",
-    "href": "https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020",
-    "description": "attestation-deplacement-derogatoire-q4-2020 public",
-    "language": "JavaScript",
-    "stars": 336,
-    "forks": 288,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "blackmatrix7",
-    "name": "ios_rule_script",
-    "href": "https://github.com/blackmatrix7/ios_rule_script",
-    "description": "iOS平台的分流规则、复写规则和一些自动化脚本。",
-    "language": "JavaScript",
-    "stars": 572,
-    "forks": 115,
-    "starsInPeriod": 14
-  },
-  {
-    "author": "github",
-    "name": "docs",
-    "href": "https://github.com/github/docs",
-    "description": "The open-source repo for docs.github.com",
-    "language": "JavaScript",
-    "stars": 1549,
-    "forks": 3799,
-    "starsInPeriod": 15
-  },
-  {
-    "author": "yangshun",
-    "name": "front-end-interview-handbook",
-    "href": "https://github.com/yangshun/front-end-interview-handbook",
-    "description": "🕸 No-bullshit answers to the famous h5bp \"Front-end Job Interview Questions\"",
-    "language": "JavaScript",
-    "stars": 26510,
-    "forks": 3763,
+    "stars": 10590,
+    "forks": 741,
     "starsInPeriod": 20
   },
   {
-    "author": "briancodex",
-    "name": "react-website-v1",
-    "href": "https://github.com/briancodex/react-website-v1",
-    "description": null,
+    "author": "carbon-design-system",
+    "name": "carbon",
+    "href": "https://github.com/carbon-design-system/carbon",
+    "description": "A design system built by IBM",
     "language": "JavaScript",
-    "stars": 80,
-    "forks": 166,
-    "starsInPeriod": 0
+    "stars": 3846,
+    "forks": 885,
+    "starsInPeriod": 4
   },
   {
-    "author": "nightscout",
-    "name": "cgm-remote-monitor",
-    "href": "https://github.com/nightscout/cgm-remote-monitor",
-    "description": "nightscout web monitor",
+    "author": "serverless",
+    "name": "serverless",
+    "href": "https://github.com/serverless/serverless",
+    "description": "⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –",
     "language": "JavaScript",
-    "stars": 1333,
-    "forks": 47643,
-    "starsInPeriod": 1
+    "stars": 38565,
+    "forks": 4562,
+    "starsInPeriod": 18
+  },
+  {
+    "author": "GitSquared",
+    "name": "edex-ui",
+    "href": "https://github.com/GitSquared/edex-ui",
+    "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "language": "JavaScript",
+    "stars": 28310,
+    "forks": 1495,
+    "starsInPeriod": 149
+  },
+  {
+    "author": "rphl",
+    "name": "corona-widget",
+    "href": "https://github.com/rphl/corona-widget",
+    "description": "COVID-19 Inzidenz-Widget für iOS innerhalb Deutschlands 🇩🇪 (Kreis/Stadt + Bundesland + Trend)",
+    "language": "JavaScript",
+    "stars": 355,
+    "forks": 64,
+    "starsInPeriod": 12
+  },
+  {
+    "author": "snowpackjs",
+    "name": "snowpack",
+    "href": "https://github.com/snowpackjs/snowpack",
+    "description": "WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️",
+    "language": "JavaScript",
+    "stars": 15523,
+    "forks": 676,
+    "starsInPeriod": 104
+  },
+  {
+    "author": "facebookexperimental",
+    "name": "Recoil",
+    "href": "https://github.com/facebookexperimental/Recoil",
+    "description": "Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.",
+    "language": "JavaScript",
+    "stars": 11333,
+    "forks": 521,
+    "starsInPeriod": 24
+  },
+  {
+    "author": "adrianhajdin",
+    "name": "project_mern_memories",
+    "href": "https://github.com/adrianhajdin/project_mern_memories",
+    "description": "This is a code repository for the corresponding video tutorial. Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called \"Memories\" and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    "language": "JavaScript",
+    "stars": 348,
+    "forks": 90,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "Yx1aoq1",
+    "name": "jdms",
+    "href": "https://github.com/Yx1aoq1/jdms",
+    "description": "京东抢购秒杀助手",
+    "language": "JavaScript",
+    "stars": 476,
+    "forks": 204,
+    "starsInPeriod": 104
+  },
+  {
+    "author": "gothinkster",
+    "name": "vue-realworld-example-app",
+    "href": "https://github.com/gothinkster/vue-realworld-example-app",
+    "description": "An exemplary real-world application built with Vue.js, Vuex, axios and different other technologies. This is a good example to discover Vue for beginners.",
+    "language": "JavaScript",
+    "stars": 3383,
+    "forks": 1027,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "shylocks",
+    "name": "Loon",
+    "href": "https://github.com/shylocks/Loon",
+    "description": null,
+    "language": "JavaScript",
+    "stars": 97,
+    "forks": 68,
+    "starsInPeriod": 20
+  },
+  {
+    "author": "semantic-release",
+    "name": "semantic-release",
+    "href": "https://github.com/semantic-release/semantic-release",
+    "description": "📦🚀 Fully automated version management and package publishing",
+    "language": "JavaScript",
+    "stars": 11614,
+    "forks": 1009,
+    "starsInPeriod": 16
+  },
+  {
+    "author": "external-secrets",
+    "name": "kubernetes-external-secrets",
+    "href": "https://github.com/external-secrets/kubernetes-external-secrets",
+    "description": "Integrate external secret management systems with Kubernetes",
+    "language": "JavaScript",
+    "stars": 1440,
+    "forks": 217,
+    "starsInPeriod": 4
+  },
+  {
+    "author": "jhu-ep-coursera",
+    "name": "fullstack-course4",
+    "href": "https://github.com/jhu-ep-coursera/fullstack-course4",
+    "description": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
+    "language": "JavaScript",
+    "stars": 4637,
+    "forks": 7563,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "bbc",
+    "name": "simorgh",
+    "href": "https://github.com/bbc/simorgh",
+    "description": "The BBC's Open Source Single Page Application. Contributions welcome! Used on some of our biggest websites, e.g.",
+    "language": "JavaScript",
+    "stars": 476,
+    "forks": 87,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "strapi",
+    "name": "strapi",
+    "href": "https://github.com/strapi/strapi",
+    "description": "🚀 Open source Node.js Headless CMS to easily build customisable APIs",
+    "language": "JavaScript",
+    "stars": 32780,
+    "forks": 4069,
+    "starsInPeriod": 37
+  },
+  {
+    "author": "mui-org",
+    "name": "material-ui",
+    "href": "https://github.com/mui-org/material-ui",
+    "description": "React components for faster and simpler web development. Build your own design system, or start with Material Design.",
+    "language": "JavaScript",
+    "stars": 64343,
+    "forks": 19994,
+    "starsInPeriod": 42
+  },
+  {
+    "author": "vercel",
+    "name": "next.js",
+    "href": "https://github.com/vercel/next.js",
+    "description": "The React Framework",
+    "language": "JavaScript",
+    "stars": 60167,
+    "forks": 10485,
+    "starsInPeriod": 65
+  },
+  {
+    "author": "JedWatson",
+    "name": "react-select",
+    "href": "https://github.com/JedWatson/react-select",
+    "description": "The Select Component for React.js",
+    "language": "JavaScript",
+    "stars": 21690,
+    "forks": 3635,
+    "starsInPeriod": 15
+  },
+  {
+    "author": "simple-icons",
+    "name": "simple-icons",
+    "href": "https://github.com/simple-icons/simple-icons",
+    "description": "SVG icons for popular brands",
+    "language": "JavaScript",
+    "stars": 10089,
+    "forks": 1322,
+    "starsInPeriod": 14
   }
 ]
