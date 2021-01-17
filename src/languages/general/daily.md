@@ -1,51 +1,49 @@
 # general
-- [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) : JavaScript
-  - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [starship](https://github.com/starship/starship) : Rust
-  - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [awesome](https://github.com/sindresorhus/awesome) : 
-  - 😎 Awesome lists about all kinds of interesting topics
-- [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) : Python
-  - Bringing Old Photo Back to Life (CVPR 2020 oral)
-- [gping](https://github.com/orf/gping) : Rust
-  - Ping, but with a graph
-- [FallChallenge2020](https://github.com/CodinGame/FallChallenge2020) : JavaScript
-  - Source code for CodinGame's Fall Challenge 2020 event.
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui) : TypeScript
-  - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+- [Files](https://github.com/files-community/Files) : C#
+  - A modern file explorer that pushes the boundaries of the platform.
+- [abrash-black-book](https://github.com/jagregory/abrash-black-book) : CSS
+  - Markdown source for Michael Abrash's Graphics Programming Black Book
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 
+  - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [iptv](https://github.com/iptv-org/iptv) : JavaScript
   - Collection of 5000+ publicly available IPTV channels from all over the world
-- [k0s](https://github.com/k0sproject/k0s) : Go
-  - k0s - Zero Friction Kubernetes
-- [alacritty](https://github.com/alacritty/alacritty) : Rust
-  - A cross-platform, GPU-accelerated terminal emulator
-- [macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) : Vue
-  - Replacement icons for popular apps in the style of macOS Big Sur
-- [rustlings](https://github.com/rust-lang/rustlings) : Rust
-  - 🦀 Small exercises to get you used to reading and writing Rust code!
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) : HTML
-  - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : 
-  - A long list of (advanced) JavaScript questions, and their explanations ✨
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : JavaScript
-  - 🛁 Clean Code concepts adapted for JavaScript
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) : JavaScript
-  - 💯 Materials to help you rock your next coding interview
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : JavaScript
-  - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [faker](https://github.com/joke2k/faker) : Python
-  - Faker is a Python package that generates fake data for you.
-- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) : 
-  - A list of awesome beginners-friendly projects.
+- [svelte](https://github.com/sveltejs/svelte) : JavaScript
+  - Cybernetically enhanced web apps
+- [warp](https://github.com/seanmonstar/warp) : Rust
+  - A super-easy, composable, web server framework for warp speeds.
+- [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) : 
+  - List of Computer Science courses with video lectures.
+- [glass-website](https://github.com/developedbyed/glass-website) : CSS
+- [Paper](https://github.com/PaperMC/Paper) : Shell
+  - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl) : Python
+  - Command-line program to download videos from YouTube.com and other video sites
+- [jd-base](https://github.com/EvineDeng/jd-base) : JavaScript
+  - 京东薅羊毛脚本 https://github.com/LXK9301/jd_scripts 的shell套壳工具
+- [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) : JavaScript
+  - 30 Days of React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.
+- [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) : JavaScript
+  - ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets
+- [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) : 
+  - Roadmap to becoming a data engineer in 2021
+- [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) : Python
+  - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 
   - 📚 Freely available programming books
-- [bitcoin](https://github.com/bitcoin/bitcoin) : C++
-  - Bitcoin Core integration/staging tree
-- [core](https://github.com/home-assistant/core) : Python
-  - 🏡 Open source home automation that puts local control and privacy first
-- [Testnet3-Challenges](https://github.com/Concordium/Testnet3-Challenges) : 
-  - This repo is dedicated to Concordium Incentivized Testnet3.
-- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) : Python
-  - 30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.
-- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) : Go
-  - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) : Swift
+  - Telegram-iOS
+- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) : Java
+  - 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
+- [ActionRoguelike](https://github.com/tomlooman/ActionRoguelike) : C++
+  - Third-person Action Roguelike made in Unreal Engine C++ (for Stanford CS193U 2020)
+- [libsignal-client](https://github.com/signalapp/libsignal-client) : Rust
+- [RadareEye](https://github.com/souravbaghz/RadareEye) : Shell
+  - A tool made for specially scanning nearby devices[BLE, Bluetooth & Wifi] and execute our given command on our system when the target device comes in-between range.
+- [best-of-python](https://github.com/ml-tooling/best-of-python) : Python
+  - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
+- [snowpack](https://github.com/snowpackjs/snowpack) : JavaScript
+  - WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
+- [zig](https://github.com/ziglang/zig) : Zig
+  - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+- [Flutter-Course-Resources](https://github.com/londonappbrewery/Flutter-Course-Resources) : 
+  - Learn to Code While Building Apps - The Complete Flutter Development Bootcamp

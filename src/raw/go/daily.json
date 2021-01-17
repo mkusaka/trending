@@ -1,143 +1,13 @@
 [
   {
-    "author": "k0sproject",
-    "name": "k0s",
-    "href": "https://github.com/k0sproject/k0s",
-    "description": "k0s - Zero Friction Kubernetes",
+    "author": "XTLS",
+    "name": "Xray-core",
+    "href": "https://github.com/XTLS/Xray-core",
+    "description": "Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",
     "language": "Go",
-    "stars": 496,
-    "forks": 16,
-    "starsInPeriod": 236
-  },
-  {
-    "author": "halfrost",
-    "name": "LeetCode-Go",
-    "href": "https://github.com/halfrost/LeetCode-Go",
-    "description": "✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",
-    "language": "Go",
-    "stars": 8935,
-    "forks": 1396,
-    "starsInPeriod": 43
-  },
-  {
-    "author": "TwinProduction",
-    "name": "gatus",
-    "href": "https://github.com/TwinProduction/gatus",
-    "description": "⛑ Gatus - Automated service health dashboard",
-    "language": "Go",
-    "stars": 812,
-    "forks": 31,
-    "starsInPeriod": 81
-  },
-  {
-    "author": "kitabisa",
-    "name": "teler",
-    "href": "https://github.com/kitabisa/teler",
-    "description": "Real-time HTTP Intrusion Detection",
-    "language": "Go",
-    "stars": 682,
-    "forks": 57,
-    "starsInPeriod": 67
-  },
-  {
-    "author": "denverquane",
-    "name": "automuteus",
-    "href": "https://github.com/denverquane/automuteus",
-    "description": "Discord Bot to automute Among Us players at round transitions, in conjunction with https://github.com/denverquane/amonguscapture",
-    "language": "Go",
-    "stars": 584,
-    "forks": 160,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "golang",
-    "name": "go",
-    "href": "https://github.com/golang/go",
-    "description": "The Go programming language",
-    "language": "Go",
-    "stars": 78740,
-    "forks": 11389,
-    "starsInPeriod": 80
-  },
-  {
-    "author": "hahwul",
-    "name": "WebHackersWeapons",
-    "href": "https://github.com/hahwul/WebHackersWeapons",
-    "description": "⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting",
-    "language": "Go",
-    "stars": 872,
-    "forks": 233,
-    "starsInPeriod": 11
-  },
-  {
-    "author": "uber",
-    "name": "kraken",
-    "href": "https://github.com/uber/kraken",
-    "description": "P2P Docker registry capable of distributing TBs of data in seconds",
-    "language": "Go",
-    "stars": 4080,
-    "forks": 253,
-    "starsInPeriod": 22
-  },
-  {
-    "author": "fyne-io",
-    "name": "fyne",
-    "href": "https://github.com/fyne-io/fyne",
-    "description": "Cross platform GUI in Go based on Material Design",
-    "language": "Go",
-    "stars": 11228,
-    "forks": 541,
-    "starsInPeriod": 11
-  },
-  {
-    "author": "DNSCrypt",
-    "name": "dnscrypt-proxy",
-    "href": "https://github.com/DNSCrypt/dnscrypt-proxy",
-    "description": "dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.",
-    "language": "Go",
-    "stars": 6744,
-    "forks": 658,
-    "starsInPeriod": 7
-  },
-  {
-    "author": "OpenDiablo2",
-    "name": "OpenDiablo2",
-    "href": "https://github.com/OpenDiablo2/OpenDiablo2",
-    "description": "An open source re-implementation of Diablo 2",
-    "language": "Go",
-    "stars": 8732,
-    "forks": 580,
-    "starsInPeriod": 10
-  },
-  {
-    "author": "rclone",
-    "name": "rclone",
-    "href": "https://github.com/rclone/rclone",
-    "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
-    "language": "Go",
-    "stars": 24309,
-    "forks": 2086,
-    "starsInPeriod": 24
-  },
-  {
-    "author": "OpenObservability",
-    "name": "OpenMetrics",
-    "href": "https://github.com/OpenObservability/OpenMetrics",
-    "description": "Evolving the Prometheus exposition format into a standard.",
-    "language": "Go",
-    "stars": 1183,
-    "forks": 73,
-    "starsInPeriod": 32
-  },
-  {
-    "author": "ardanlabs",
-    "name": "gotraining",
-    "href": "https://github.com/ardanlabs/gotraining",
-    "description": "Go Training Class Material :",
-    "language": "Go",
-    "stars": 8410,
-    "forks": 1641,
-    "starsInPeriod": 5
+    "stars": 2046,
+    "forks": 310,
+    "starsInPeriod": 33
   },
   {
     "author": "v2fly",
@@ -145,19 +15,179 @@
     "href": "https://github.com/v2fly/v2ray-core",
     "description": "A platform for building proxies to bypass network restrictions.",
     "language": "Go",
-    "stars": 4773,
-    "forks": 770,
-    "starsInPeriod": 40
+    "stars": 6365,
+    "forks": 1064,
+    "starsInPeriod": 54
   },
   {
-    "author": "OJ",
-    "name": "gobuster",
-    "href": "https://github.com/OJ/gobuster",
-    "description": "Directory/File, DNS and VHost busting tool written in Go",
+    "author": "p4gefau1t",
+    "name": "trojan-go",
+    "href": "https://github.com/p4gefau1t/trojan-go",
+    "description": "Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/",
     "language": "Go",
-    "stars": 3849,
-    "forks": 644,
+    "stars": 2780,
+    "forks": 688,
+    "starsInPeriod": 14
+  },
+  {
+    "author": "inancgumus",
+    "name": "learngo",
+    "href": "https://github.com/inancgumus/learngo",
+    "description": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
+    "language": "Go",
+    "stars": 7781,
+    "forks": 918,
+    "starsInPeriod": 11
+  },
+  {
+    "author": "Dreamacro",
+    "name": "clash",
+    "href": "https://github.com/Dreamacro/clash",
+    "description": "A rule-based tunnel in Go.",
+    "language": "Go",
+    "stars": 14026,
+    "forks": 1986,
+    "starsInPeriod": 36
+  },
+  {
+    "author": "naiba",
+    "name": "nezha",
+    "href": "https://github.com/naiba/nezha",
+    "description": "哪吒面板 可能是最优秀的探针了",
+    "language": "Go",
+    "stars": 381,
+    "forks": 115,
+    "starsInPeriod": 53
+  },
+  {
+    "author": "emirpasic",
+    "name": "gods",
+    "href": "https://github.com/emirpasic/gods",
+    "description": "GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet, LinkedHashSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap, LinkedHashMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, …",
+    "language": "Go",
+    "stars": 9481,
+    "forks": 1096,
     "starsInPeriod": 7
+  },
+  {
+    "author": "miekg",
+    "name": "dns",
+    "href": "https://github.com/miekg/dns",
+    "description": "DNS library in Go",
+    "language": "Go",
+    "stars": 5102,
+    "forks": 832,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "OWASP",
+    "name": "Amass",
+    "href": "https://github.com/OWASP/Amass",
+    "description": "In-depth Attack Surface Mapping and Asset Discovery",
+    "language": "Go",
+    "stars": 4604,
+    "forks": 827,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "fabpot",
+    "name": "local-php-security-checker",
+    "href": "https://github.com/fabpot/local-php-security-checker",
+    "description": "PHP security vulnerabilities checker",
+    "language": "Go",
+    "stars": 119,
+    "forks": 4,
+    "starsInPeriod": 33
+  },
+  {
+    "author": "bwmarrin",
+    "name": "discordgo",
+    "href": "https://github.com/bwmarrin/discordgo",
+    "description": "(Golang) Go bindings for Discord",
+    "language": "Go",
+    "stars": 1746,
+    "forks": 325,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "avelino",
+    "name": "awesome-go",
+    "href": "https://github.com/avelino/awesome-go",
+    "description": "A curated list of awesome Go frameworks, libraries and software",
+    "language": "Go",
+    "stars": 60832,
+    "forks": 8055,
+    "starsInPeriod": 54
+  },
+  {
+    "author": "quii",
+    "name": "learn-go-with-tests",
+    "href": "https://github.com/quii/learn-go-with-tests",
+    "description": "Learn Go with test-driven development",
+    "language": "Go",
+    "stars": 12626,
+    "forks": 1606,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "urfave",
+    "name": "cli",
+    "href": "https://github.com/urfave/cli",
+    "description": "A simple, fast, and fun package for building command line apps in Go",
+    "language": "Go",
+    "stars": 15111,
+    "forks": 1304,
+    "starsInPeriod": 12
+  },
+  {
+    "author": "matrix-org",
+    "name": "dendrite",
+    "href": "https://github.com/matrix-org/dendrite",
+    "description": "Dendrite is a second-generation Matrix homeserver written in Go!",
+    "language": "Go",
+    "stars": 1602,
+    "forks": 235,
+    "starsInPeriod": 9
+  },
+  {
+    "author": "slackhq",
+    "name": "nebula",
+    "href": "https://github.com/slackhq/nebula",
+    "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
+    "language": "Go",
+    "stars": 6568,
+    "forks": 434,
+    "starsInPeriod": 19
+  },
+  {
+    "author": "xtaci",
+    "name": "kcptun",
+    "href": "https://github.com/xtaci/kcptun",
+    "description": "A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。KCPプロトコルに基づく安全なトンネル。KCP 프로토콜을 기반으로 하는 보안 터널입니다。",
+    "language": "Go",
+    "stars": 12254,
+    "forks": 2369,
+    "starsInPeriod": 6
+  },
+  {
+    "author": "mattermost",
+    "name": "mattermost-server",
+    "href": "https://github.com/mattermost/mattermost-server",
+    "description": "Open source Slack-alternative in Golang and React - Mattermost",
+    "language": "Go",
+    "stars": 19696,
+    "forks": 4740,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "smartcontractkit",
+    "name": "chainlink",
+    "href": "https://github.com/smartcontractkit/chainlink",
+    "description": "node of the decentralized oracle network, bridging on and off-chain computation",
+    "language": "Go",
+    "stars": 1464,
+    "forks": 405,
+    "starsInPeriod": 4
   },
   {
     "author": "zyedidia",
@@ -165,88 +195,58 @@
     "href": "https://github.com/zyedidia/micro",
     "description": "A modern and intuitive terminal-based text editor",
     "language": "Go",
-    "stars": 15345,
-    "forks": 746,
-    "starsInPeriod": 7
+    "stars": 15903,
+    "forks": 784,
+    "starsInPeriod": 11
   },
   {
-    "author": "v2ray",
-    "name": "v2ray-core",
-    "href": "https://github.com/v2ray/v2ray-core",
-    "description": "A platform for building proxies to bypass network restrictions.",
+    "author": "uber",
+    "name": "cadence",
+    "href": "https://github.com/uber/cadence",
+    "description": "Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.",
     "language": "Go",
-    "stars": 35666,
-    "forks": 7947,
-    "starsInPeriod": 18
+    "stars": 4592,
+    "forks": 447,
+    "starsInPeriod": 0
   },
   {
-    "author": "go-echarts",
-    "name": "go-echarts",
-    "href": "https://github.com/go-echarts/go-echarts",
-    "description": "🎨 The adorable charts library for Golang",
+    "author": "evanw",
+    "name": "esbuild",
+    "href": "https://github.com/evanw/esbuild",
+    "description": "An extremely fast JavaScript bundler and minifier",
     "language": "Go",
-    "stars": 2939,
-    "forks": 255,
-    "starsInPeriod": 17
+    "stars": 17284,
+    "forks": 368,
+    "starsInPeriod": 117
   },
   {
-    "author": "ory",
-    "name": "kratos",
-    "href": "https://github.com/ory/kratos",
-    "description": "Never build user login, user registration, 2fa, profile management ever again! Works on any operating system, cloud, with any programming language, user interface, and user experience! Written in Go.",
+    "author": "k8gege",
+    "name": "LadonGo",
+    "href": "https://github.com/k8gege/LadonGo",
+    "description": "Ladon Pentest Scanner framework 全平台LadonGo开源内网渗透扫描器框架，使用它可轻松一键批量探测C段、B段、A段存活主机、高危漏洞检测MS17010、SmbGhost，远程执行SSH/Winrm，密码爆破SMB/SSH/FTP/Mysql/Mssql/Oracle/Winrm/HttpBasic/Redis，端口扫描服务识别PortScan指纹识别/HttpBanner/HttpTitle/TcpBanner/Weblogic/Oxid多网卡主机，端口扫描服务识别PortScan。",
     "language": "Go",
-    "stars": 1572,
-    "forks": 167,
-    "starsInPeriod": 4
+    "stars": 297,
+    "forks": 53,
+    "starsInPeriod": 12
   },
   {
-    "author": "gocolly",
-    "name": "colly",
-    "href": "https://github.com/gocolly/colly",
-    "description": "Elegant Scraper and Crawler Framework for Golang",
+    "author": "alexellis",
+    "name": "arkade",
+    "href": "https://github.com/alexellis/arkade",
+    "description": "Open Source Kubernetes Marketplace",
     "language": "Go",
-    "stars": 12336,
-    "forks": 1061,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "Adminisme",
-    "name": "ServerScan",
-    "href": "https://github.com/Adminisme/ServerScan",
-    "description": "ServerScan一款使用Golang开发的高并发网络扫描、服务探测工具。",
-    "language": "Go",
-    "stars": 503,
-    "forks": 73,
+    "stars": 1446,
+    "forks": 114,
     "starsInPeriod": 14
   },
   {
-    "author": "fluxcd",
-    "name": "flux2",
-    "href": "https://github.com/fluxcd/flux2",
-    "description": "Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.",
+    "author": "brianvoe",
+    "name": "gofakeit",
+    "href": "https://github.com/brianvoe/gofakeit",
+    "description": "Random fake data generator written in go",
     "language": "Go",
-    "stars": 589,
-    "forks": 57,
-    "starsInPeriod": 6
-  },
-  {
-    "author": "charmbracelet",
-    "name": "glow",
-    "href": "https://github.com/charmbracelet/glow",
-    "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
-    "language": "Go",
-    "stars": 5445,
-    "forks": 102,
-    "starsInPeriod": 18
-  },
-  {
-    "author": "gofiber",
-    "name": "fiber",
-    "href": "https://github.com/gofiber/fiber",
-    "description": "⚡️ Express inspired web framework written in Go",
-    "language": "Go",
-    "stars": 9930,
-    "forks": 441,
-    "starsInPeriod": 41
+    "stars": 1460,
+    "forks": 85,
+    "starsInPeriod": 32
   }
 ]

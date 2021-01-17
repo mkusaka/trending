@@ -1,93 +1,143 @@
 [
   {
-    "author": "starship",
-    "name": "starship",
-    "href": "https://github.com/starship/starship",
-    "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+    "author": "seanmonstar",
+    "name": "warp",
+    "href": "https://github.com/seanmonstar/warp",
+    "description": "A super-easy, composable, web server framework for warp speeds.",
     "language": "Rust",
-    "stars": 11613,
-    "forks": 503,
-    "starsInPeriod": 372
+    "stars": 3892,
+    "forks": 385,
+    "starsInPeriod": 22
   },
   {
-    "author": "orf",
-    "name": "gping",
-    "href": "https://github.com/orf/gping",
-    "description": "Ping, but with a graph",
+    "author": "signalapp",
+    "name": "libsignal-client",
+    "href": "https://github.com/signalapp/libsignal-client",
+    "description": null,
     "language": "Rust",
-    "stars": 2536,
-    "forks": 102,
-    "starsInPeriod": 566
+    "stars": 306,
+    "forks": 20,
+    "starsInPeriod": 91
   },
   {
-    "author": "alacritty",
-    "name": "alacritty",
-    "href": "https://github.com/alacritty/alacritty",
-    "description": "A cross-platform, GPU-accelerated terminal emulator",
+    "author": "paritytech",
+    "name": "polkadot",
+    "href": "https://github.com/paritytech/polkadot",
+    "description": "Polkadot Node Implementation",
     "language": "Rust",
-    "stars": 26507,
-    "forks": 1387,
+    "stars": 2058,
+    "forks": 468,
+    "starsInPeriod": 28
+  },
+  {
+    "author": "actix",
+    "name": "examples",
+    "href": "https://github.com/actix/examples",
+    "description": "Community showcase and examples of Actix ecosystem usage.",
+    "language": "Rust",
+    "stars": 1614,
+    "forks": 484,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "clap-rs",
+    "name": "clap",
+    "href": "https://github.com/clap-rs/clap",
+    "description": "A full featured, fast Command Line Argument Parser for Rust",
+    "language": "Rust",
+    "stars": 5330,
+    "forks": 517,
+    "starsInPeriod": 10
+  },
+  {
+    "author": "ruffle-rs",
+    "name": "ruffle",
+    "href": "https://github.com/ruffle-rs/ruffle",
+    "description": "A Flash Player emulator written in Rust",
+    "language": "Rust",
+    "stars": 6390,
+    "forks": 215,
+    "starsInPeriod": 124
+  },
+  {
+    "author": "actix",
+    "name": "actix-web",
+    "href": "https://github.com/actix/actix-web",
+    "description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.",
+    "language": "Rust",
+    "stars": 10268,
+    "forks": 1140,
     "starsInPeriod": 20
   },
   {
-    "author": "rust-lang",
-    "name": "rustlings",
-    "href": "https://github.com/rust-lang/rustlings",
-    "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
+    "author": "epi052",
+    "name": "feroxbuster",
+    "href": "https://github.com/epi052/feroxbuster",
+    "description": "A fast, simple, recursive content discovery tool written in Rust.",
     "language": "Rust",
-    "stars": 12750,
-    "forks": 1607,
-    "starsInPeriod": 13
+    "stars": 685,
+    "forks": 78,
+    "starsInPeriod": 30
   },
   {
-    "author": "hecrj",
-    "name": "iced",
-    "href": "https://github.com/hecrj/iced",
-    "description": "A cross-platform GUI library for Rust, inspired by Elm",
+    "author": "hyperium",
+    "name": "tonic",
+    "href": "https://github.com/hyperium/tonic",
+    "description": "A native gRPC client & server implementation with async/await support.",
     "language": "Rust",
-    "stars": 7488,
-    "forks": 309,
+    "stars": 2994,
+    "forks": 268,
     "starsInPeriod": 17
   },
   {
-    "author": "nushell",
-    "name": "nushell",
-    "href": "https://github.com/nushell/nushell",
-    "description": "A new type of shell",
+    "author": "SergioBenitez",
+    "name": "Rocket",
+    "href": "https://github.com/SergioBenitez/Rocket",
+    "description": "A web framework for Rust.",
     "language": "Rust",
-    "stars": 8823,
-    "forks": 450,
-    "starsInPeriod": 9
+    "stars": 12352,
+    "forks": 829,
+    "starsInPeriod": 20
+  },
+  {
+    "author": "graphql-rust",
+    "name": "juniper",
+    "href": "https://github.com/graphql-rust/juniper",
+    "description": "GraphQL server library for Rust",
+    "language": "Rust",
+    "stars": 3414,
+    "forks": 288,
+    "starsInPeriod": 7
+  },
+  {
+    "author": "async-rs",
+    "name": "async-std",
+    "href": "https://github.com/async-rs/async-std",
+    "description": "Async version of the Rust standard library",
+    "language": "Rust",
+    "stars": 2724,
+    "forks": 256,
+    "starsInPeriod": 13
+  },
+  {
+    "author": "signalapp",
+    "name": "SecureValueRecovery",
+    "href": "https://github.com/signalapp/SecureValueRecovery",
+    "description": null,
+    "language": "Rust",
+    "stars": 181,
+    "forks": 15,
+    "starsInPeriod": 3
   },
   {
     "author": "rust-lang",
-    "name": "book",
-    "href": "https://github.com/rust-lang/book",
-    "description": "The Rust Programming Language",
+    "name": "rust",
+    "href": "https://github.com/rust-lang/rust",
+    "description": "Empowering everyone to build reliable and efficient software.",
     "language": "Rust",
-    "stars": 6022,
-    "forks": 1626,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "fdehau",
-    "name": "tui-rs",
-    "href": "https://github.com/fdehau/tui-rs",
-    "description": "Build terminal user interfaces and dashboards using Rust",
-    "language": "Rust",
-    "stars": 3773,
-    "forks": 196,
-    "starsInPeriod": 11
-  },
-  {
-    "author": "servo",
-    "name": "servo",
-    "href": "https://github.com/servo/servo",
-    "description": "The Servo Browser Engine",
-    "language": "Rust",
-    "stars": 17908,
-    "forks": 2464,
-    "starsInPeriod": 5
+    "stars": 51101,
+    "forks": 7481,
+    "starsInPeriod": 35
   },
   {
     "author": "amethyst",
@@ -95,8 +145,88 @@
     "href": "https://github.com/amethyst/amethyst",
     "description": "Data-oriented and data-driven game engine written in Rust",
     "language": "Rust",
-    "stars": 6337,
-    "forks": 694,
+    "stars": 6609,
+    "forks": 716,
+    "starsInPeriod": 8
+  },
+  {
+    "author": "rustwasm",
+    "name": "wasm-pack",
+    "href": "https://github.com/rustwasm/wasm-pack",
+    "description": "📦✨ your favorite rust -> wasm workflow tool!",
+    "language": "Rust",
+    "stars": 3129,
+    "forks": 207,
+    "starsInPeriod": 5
+  },
+  {
+    "author": "ballista-compute",
+    "name": "ballista",
+    "href": "https://github.com/ballista-compute/ballista",
+    "description": "Distributed compute platform implemented in Rust, using Apache Arrow memory model.",
+    "language": "Rust",
+    "stars": 988,
+    "forks": 71,
+    "starsInPeriod": 3
+  },
+  {
+    "author": "webrtc-rs",
+    "name": "webrtc",
+    "href": "https://github.com/webrtc-rs/webrtc",
+    "description": "A pure Rust implementation of WebRTC API. Rewrite Pion WebRTC stack (http://Pion.ly) in Rust!",
+    "language": "Rust",
+    "stars": 513,
+    "forks": 22,
+    "starsInPeriod": 73
+  },
+  {
+    "author": "ogham",
+    "name": "exa",
+    "href": "https://github.com/ogham/exa",
+    "description": "A modern replacement for ‘ls’.",
+    "language": "Rust",
+    "stars": 11934,
+    "forks": 361,
+    "starsInPeriod": 30
+  },
+  {
+    "author": "meilisearch",
+    "name": "MeiliSearch",
+    "href": "https://github.com/meilisearch/MeiliSearch",
+    "description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine",
+    "language": "Rust",
+    "stars": 11063,
+    "forks": 354,
+    "starsInPeriod": 107
+  },
+  {
+    "author": "rust-lang",
+    "name": "rustlings",
+    "href": "https://github.com/rust-lang/rustlings",
+    "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
+    "language": "Rust",
+    "stars": 13919,
+    "forks": 1767,
+    "starsInPeriod": 18
+  },
+  {
+    "author": "timberio",
+    "name": "vector",
+    "href": "https://github.com/timberio/vector",
+    "description": "A high-performance observability data pipeline.",
+    "language": "Rust",
+    "stars": 6119,
+    "forks": 384,
+    "starsInPeriod": 23
+  },
+  {
+    "author": "mobilecoinfoundation",
+    "name": "mobilecoin",
+    "href": "https://github.com/mobilecoinfoundation/mobilecoin",
+    "description": "Private payments for mobile devices.",
+    "language": "Rust",
+    "stars": 179,
+    "forks": 35,
     "starsInPeriod": 2
   },
   {
@@ -105,148 +235,18 @@
     "href": "https://github.com/launchbadge/sqlx",
     "description": "🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",
     "language": "Rust",
-    "stars": 2928,
-    "forks": 228,
-    "starsInPeriod": 9
+    "stars": 3279,
+    "forks": 293,
+    "starsInPeriod": 16
   },
   {
-    "author": "curlpipe",
-    "name": "ox",
-    "href": "https://github.com/curlpipe/ox",
-    "description": "An independent Rust text editor that runs in your terminal!",
+    "author": "deltachat",
+    "name": "deltachat-core-rust",
+    "href": "https://github.com/deltachat/deltachat-core-rust",
+    "description": "Delta Chat Rust Core library, used by Android/iOS/desktop apps and bindings",
     "language": "Rust",
-    "stars": 2007,
-    "forks": 44,
-    "starsInPeriod": 45
-  },
-  {
-    "author": "gfx-rs",
-    "name": "wgpu",
-    "href": "https://github.com/gfx-rs/wgpu",
-    "description": "Native WebGPU implementation based on gfx-hal",
-    "language": "Rust",
-    "stars": 1441,
-    "forks": 139,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "solana-labs",
-    "name": "solana",
-    "href": "https://github.com/solana-labs/solana",
-    "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
-    "language": "Rust",
-    "stars": 1023,
-    "forks": 245,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "valeriansaliou",
-    "name": "sonic",
-    "href": "https://github.com/valeriansaliou/sonic",
-    "description": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.",
-    "language": "Rust",
-    "stars": 9924,
-    "forks": 319,
-    "starsInPeriod": 22
-  },
-  {
-    "author": "yewstack",
-    "name": "yew",
-    "href": "https://github.com/yewstack/yew",
-    "description": "Rust / Wasm framework for building client web apps",
-    "language": "Rust",
-    "stars": 13895,
-    "forks": 636,
+    "stars": 241,
+    "forks": 34,
     "starsInPeriod": 14
-  },
-  {
-    "author": "meilisearch",
-    "name": "MeiliSearch",
-    "href": "https://github.com/meilisearch/MeiliSearch",
-    "description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine",
-    "language": "Rust",
-    "stars": 10068,
-    "forks": 301,
-    "starsInPeriod": 20
-  },
-  {
-    "author": "rust-unofficial",
-    "name": "awesome-rust",
-    "href": "https://github.com/rust-unofficial/awesome-rust",
-    "description": "A curated list of Rust code and resources.",
-    "language": "Rust",
-    "stars": 17570,
-    "forks": 1188,
-    "starsInPeriod": 13
-  },
-  {
-    "author": "rust-lang",
-    "name": "rust",
-    "href": "https://github.com/rust-lang/rust",
-    "description": "Empowering everyone to build reliable and efficient software.",
-    "language": "Rust",
-    "stars": 49513,
-    "forks": 7297,
-    "starsInPeriod": 28
-  },
-  {
-    "author": "Geal",
-    "name": "nom",
-    "href": "https://github.com/Geal/nom",
-    "description": "Rust parser combinator framework",
-    "language": "Rust",
-    "stars": 4515,
-    "forks": 511,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "autozimu",
-    "name": "LanguageClient-neovim",
-    "href": "https://github.com/autozimu/LanguageClient-neovim",
-    "description": "Language Server Protocol (LSP) support for vim and neovim.",
-    "language": "Rust",
-    "stars": 3086,
-    "forks": 248,
-    "starsInPeriod": 2
-  },
-  {
-    "author": "SergioBenitez",
-    "name": "Rocket",
-    "href": "https://github.com/SergioBenitez/Rocket",
-    "description": "A web framework for Rust.",
-    "language": "Rust",
-    "stars": 11864,
-    "forks": 786,
-    "starsInPeriod": 8
-  },
-  {
-    "author": "libra",
-    "name": "libra",
-    "href": "https://github.com/libra/libra",
-    "description": "Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.",
-    "language": "Rust",
-    "stars": 15310,
-    "forks": 2317,
-    "starsInPeriod": 3
-  },
-  {
-    "author": "linebender",
-    "name": "druid",
-    "href": "https://github.com/linebender/druid",
-    "description": "A data-first Rust-native UI design toolkit.",
-    "language": "Rust",
-    "stars": 2730,
-    "forks": 221,
-    "starsInPeriod": 4
-  },
-  {
-    "author": "image-rs",
-    "name": "image",
-    "href": "https://github.com/image-rs/image",
-    "description": "Encoding and decoding images in Rust",
-    "language": "Rust",
-    "stars": 1834,
-    "forks": 333,
-    "starsInPeriod": 5
   }
 ]
