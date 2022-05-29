@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Assembly Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-05-29T02:32:08Z</updated>
+  <subtitle>Monthly Trending of Assembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mytechnotalent/Reverse-Engineering</title>
+    <updated>2022-05-29T02:32:08Z</updated>
+    <id>tag:github.com,2022-05-29:/mytechnotalent/Reverse-Engineering</id>
+    <link href="https://github.com/mytechnotalent/Reverse-Engineering" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM &amp; 64-bit ARM architectures.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>leachim6/hello-world</title>
+    <updated>2022-05-29T02:32:08Z</updated>
+    <id>tag:github.com,2022-05-29:/leachim6/hello-world</id>
+    <link href="https://github.com/leachim6/hello-world" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pret/pokecrystal</title>
+    <updated>2022-05-29T02:32:08Z</updated>
+    <id>tag:github.com,2022-05-29:/pret/pokecrystal</id>
+    <link href="https://github.com/pret/pokecrystal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Disassembly of Pokémon Crystal&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kanaka/mal</title>
+    <updated>2022-05-29T02:32:08Z</updated>
+    <id>tag:github.com,2022-05-29:/kanaka/mal</id>
+    <link href="https://github.com/kanaka/mal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;mal - Make a Lisp&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>BLAKE3-team/BLAKE3</title>
+    <updated>2022-05-29T02:32:08Z</updated>
+    <id>tag:github.com,2022-05-29:/BLAKE3-team/BLAKE3</id>
+    <link href="https://github.com/BLAKE3-team/BLAKE3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;the official Rust and C implementations of the BLAKE3 cryptographic hash function&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>chrislgarry/Apollo-11</title>
+    <updated>2022-05-29T02:32:08Z</updated>
+    <id>tag:github.com,2022-05-29:/chrislgarry/Apollo-11</id>
+    <link href="https://github.com/chrislgarry/Apollo-11" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pret/pokered</title>
+    <updated>2022-05-29T02:32:08Z</updated>
+    <id>tag:github.com,2022-05-29:/pret/pokered</id>
+    <link href="https://github.com/pret/pokered" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Disassembly of Pokémon Red/Blue&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Cpasjuste/pemu</title>
+    <updated>2022-05-29T02:32:08Z</updated>
+    <id>tag:github.com,2022-05-29:/Cpasjuste/pemu</id>
+    <link href="https://github.com/Cpasjuste/pemu" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>corkami/pics</title>
+    <updated>2022-05-29T02:32:08Z</updated>
+    <id>tag:github.com,2022-05-29:/corkami/pics</id>
+    <link href="https://github.com/corkami/pics" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Posters, drawings...&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Rangi42/polishedcrystal</title>
+    <updated>2022-05-29T02:32:08Z</updated>
+    <id>tag:github.com,2022-05-29:/Rangi42/polishedcrystal</id>
+    <link href="https://github.com/Rangi42/polishedcrystal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>microsoft/MS-DOS</title>
+    <updated>2022-05-29T02:32:08Z</updated>
+    <id>tag:github.com,2022-05-29:/microsoft/MS-DOS</id>
+    <link href="https://github.com/microsoft/MS-DOS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The original sources of MS-DOS 1.25 and 2.0, for reference purposes&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Nusantara-ROM/android_bionic</title>
+    <updated>2022-05-29T02:32:08Z</updated>
+    <id>tag:github.com,2022-05-29:/Nusantara-ROM/android_bionic</id>
+    <link href="https://github.com/Nusantara-ROM/android_bionic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AOSP-Krypton/bionic</title>
+    <updated>2022-05-29T02:32:08Z</updated>
+    <id>tag:github.com,2022-05-29:/AOSP-Krypton/bionic</id>
+    <link href="https://github.com/AOSP-Krypton/bionic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>boostorg/context</title>
+    <updated>2022-05-29T02:32:08Z</updated>
+    <id>tag:github.com,2022-05-29:/boostorg/context</id>
+    <link href="https://github.com/boostorg/context" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>UnclePunch/Training-Mode</title>
+    <updated>2022-05-29T02:32:08Z</updated>
+    <id>tag:github.com,2022-05-29:/UnclePunch/Training-Mode</id>
+    <link href="https://github.com/UnclePunch/Training-Mode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A modpack for Super Smash Bros, Melee for practicing tech.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>enricobottazzi/ZKverse</title>
+    <updated>2022-05-29T02:32:08Z</updated>
+    <id>tag:github.com,2022-05-29:/enricobottazzi/ZKverse</id>
+    <link href="https://github.com/enricobottazzi/ZKverse" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Introduction to Zero Knowledge Proof&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>xiph/rav1e</title>
+    <updated>2022-05-29T02:32:08Z</updated>
+    <id>tag:github.com,2022-05-29:/xiph/rav1e</id>
+    <link href="https://github.com/xiph/rav1e" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The fastest and safest AV1 encoder.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>riscv/riscv-v-spec</title>
+    <updated>2022-05-29T02:32:08Z</updated>
+    <id>tag:github.com,2022-05-29:/riscv/riscv-v-spec</id>
+    <link href="https://github.com/riscv/riscv-v-spec" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Working draft of the proposed RISC-V V vector extension&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Unity-Technologies/com.unity.webrtc</title>
+    <updated>2022-05-29T02:32:08Z</updated>
+    <id>tag:github.com,2022-05-29:/Unity-Technologies/com.unity.webrtc</id>
+    <link href="https://github.com/Unity-Technologies/com.unity.webrtc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;WebRTC package for Unity&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>klauspost/reedsolomon</title>
+    <updated>2022-05-29T02:32:08Z</updated>
+    <id>tag:github.com,2022-05-29:/klauspost/reedsolomon</id>
+    <link href="https://github.com/klauspost/reedsolomon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Reed-Solomon Erasure Coding in Go&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bitdump/BLHeli</title>
+    <updated>2022-05-29T02:32:08Z</updated>
+    <id>tag:github.com,2022-05-29:/bitdump/BLHeli</id>
+    <link href="https://github.com/bitdump/BLHeli" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;BLHeli for brushless ESC firmware&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>herumi/mcl</title>
+    <updated>2022-05-29T02:32:08Z</updated>
+    <id>tag:github.com,2022-05-29:/herumi/mcl</id>
+    <link href="https://github.com/herumi/mcl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a portable and fast pairing-based cryptography library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>netwide-assembler/nasm</title>
+    <updated>2022-05-29T02:32:08Z</updated>
+    <id>tag:github.com,2022-05-29:/netwide-assembler/nasm</id>
+    <link href="https://github.com/netwide-assembler/nasm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A cross-platform x86 assembler with an Intel-like syntax&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>briansmith/ring</title>
+    <updated>2022-05-29T02:32:08Z</updated>
+    <id>tag:github.com,2022-05-29:/briansmith/ring</id>
+    <link href="https://github.com/briansmith/ring" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Safe, fast, small crypto using Rust&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jmechner/Prince-of-Persia-Apple-II</title>
+    <updated>2022-05-29T02:32:08Z</updated>
+    <id>tag:github.com,2022-05-29:/jmechner/Prince-of-Persia-Apple-II</id>
+    <link href="https://github.com/jmechner/Prince-of-Persia-Apple-II" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A running-jumping-swordfighting game I made on the Apple II from 1985-89&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

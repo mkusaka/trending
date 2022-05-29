@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Classic ASP Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-05-29T02:33:56Z</updated>
+  <subtitle>Monthly Trending of Classic ASP in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>andrewcottam/IWC-ArcGIS-Server-SecurityWebServices</title>
+    <updated>2022-05-29T02:33:56Z</updated>
+    <id>tag:github.com,2022-05-29:/andrewcottam/IWC-ArcGIS-Server-SecurityWebServices</id>
+    <link href="https://github.com/andrewcottam/IWC-ArcGIS-Server-SecurityWebServices" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SOAP services that use the ArcGIS Security model for creating and managing users&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Unity-Technologies/AddressableAssetsWebinar</title>
+    <updated>2022-05-29T02:33:56Z</updated>
+    <id>tag:github.com,2022-05-29:/Unity-Technologies/AddressableAssetsWebinar</id>
+    <link href="https://github.com/Unity-Technologies/AddressableAssetsWebinar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zendesk/zendesk_jwt_sso_examples</title>
+    <updated>2022-05-29T02:33:56Z</updated>
+    <id>tag:github.com,2022-05-29:/zendesk/zendesk_jwt_sso_examples</id>
+    <link href="https://github.com/zendesk/zendesk_jwt_sso_examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Examples using JWT for Zendesk SSO&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
