@@ -1,4 +1,4 @@
-name: daily trending update
+name: daily trending check
 on:
   schedule:
     - cron: "0 13 * * *"
@@ -9,38 +9,12 @@ jobs:
     name: update
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v3
         with:
           fetch-depth: 1
-      - uses: actions/setup-node@v1
+      - uses: actions/setup-go@v3
         with:
-          node-version: "14"
-      - name: set environment variable
-        run: |
-          echo "update_branch=\"daily-\"$(date +%F)" >> $GITHUB_ENV
-          echo "pr_title=\"Daily update \"$(date +%F)" >> $GITHUB_ENV
-      - name: update
-        run: |
-          git config --global user.email "action@github.com"
-          git config --global user.name "github-actions[bot]"
-          git checkout -b ${{ env.update_branch }}
-          yarn
-          yarn scrape daily
-          ./main daily
-          git add src/
-          git commit -m "daily update "$(date +%F)
-          body="@mkusaka"
-          echo $body
-      - name: push current changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ env.update_branch }}
-      - uses: actions/checkout@v1
-      - name: create pull request
-        uses: repo-sync/pull-request@v2
-        with:
-          source_branch: ${{ env.update_branch }} # If blank, default: triggered branch
-          destination_branch: "main" # If blank, default: master
-          pr_title: ${{ env.pr_title }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          check-latest: true
+          cache: true
+      - run: |
+          go run main.go

@@ -1,171 +1,103 @@
 package main
 
 import (
-	"encoding/json"
+	"fmt"
 	"io/ioutil"
-	"log"
 	"os"
-	"strings"
+	"path"
+
+	"github.com/gorilla/feeds"
+	"github.com/mmcdole/gofeed"
+	"github.com/pkg/errors"
+	"golang.org/x/sync/errgroup"
 )
 
-type Trend struct {
-	Author      string
-	Name        string
-	Avatar      string
-	Href        string
-	Description string
-	Language    string
-	Stars       int
-	Forks       int
-}
-
-func ParseTrend(RawTrending string) []Trend {
-	var Trends []Trend
-	json.Unmarshal([]byte(RawTrending), &Trends)
-	return Trends
-}
-
-func GenerateMarkDown(trends []Trend, trendTitle string, depth int) string {
-	trendMD := strings.Repeat("#", depth) + " " + trendTitle + "\n"
-	for _, trend := range trends {
-		if trendTitle == "general" {
-			trendMD += "- [" + trend.Name + "](" + trend.Href + ") : " + trend.Language + "\n"
-			if strings.TrimSpace(trend.Description) != "" {
-				trendMD += "  - " + trend.Description + "\n"
-			}
-		} else {
-			trendMD += "- [" + trend.Name + "](" + trend.Href + ")\n  - " + trend.Description + "\n"
-		}
-	}
-	return trendMD
-}
-
-var (
-	General = ""
-
-	Languages = []string{
-		"go",
-		"javascript",
-		"typescript",
-		"kotlin",
-		"ruby",
-		"rust",
-		"c++",
-	}
-
-	Periods = []string{
-		"daily",
-		"weekly",
-		"monthly",
-	}
-)
-
-func storeToLanguageMarkdown(language, period string) {
-	jsonFilename := "src/raw/" + language + "/" + period + ".json"
-	jsonByteString, err := ioutil.ReadFile(jsonFilename)
-	if err != nil {
-		log.Fatalf("something wrong with read file %s", jsonFilename)
-	}
-
-	parsed := ParseTrend(string(jsonByteString))
-	md := GenerateMarkDown(parsed, language, 1)
-	filename := "src/languages/" + language + "/" + period + ".md"
-	f, err := os.Create(filename)
-	if err != nil {
-		log.Fatalf("something wrong with create md file %s with %s", filename, err)
-	}
-	defer f.Close()
-
-	f.WriteString(md)
-}
-
-func storeToPeriodMarkdown(period string) {
-	filename := "src/periods/" + period + ".md"
-	f, err := os.Create(filename)
-	if err != nil {
-		log.Fatalf("something wrong with create md file %s", filename)
-	}
-	defer f.Close()
-	md := "# " + period + "\n"
-	for _, language := range append([]string{General}, Languages...) {
-		if language == "" {
-			language = "general"
-		}
-		jsonFilename := "src/raw/" + language + "/" + period + ".json"
-		jsonByteString, err := ioutil.ReadFile(jsonFilename)
-		if err != nil {
-			log.Fatalf("something wrong with read file %s", jsonFilename)
-		}
-
-		parsed := ParseTrend(string(jsonByteString))
-		md += GenerateMarkDown(parsed, language, 2)
-	}
-	f.WriteString(md)
-}
-
-func GeneratePeriodMarkdown(period string, isAllPeriod bool) {
-	if isAllPeriod {
-		for _, _period := range Periods {
-			storeToPeriodMarkdown(_period)
-		}
-	} else {
-		storeToPeriodMarkdown(period)
-	}
-}
-
-func GenerateLanguageMarkdown(language string, isAllLanguages bool) {
-	if isAllLanguages {
-		for _, _language := range append([]string{General}, Languages...) {
-			if _language == "" {
-				_language = "general"
-			}
-			for _, period := range Periods {
-				storeToLanguageMarkdown(_language, period)
-			}
-		}
-	} else {
-		for _, period := range Periods {
-			storeToLanguageMarkdown(language, period)
-		}
-	}
-}
+const baseUrl = "https://mshibanami.github.io/GitHubTrendingRSS/"
 
 func main() {
-	period := os.Args[1]
-	language := ""
-	if len(os.Args) >= 3 {
-		language = os.Args[2]
+	err := run()
+	if err != nil {
+		fmt.Println(err)
+		os.Exit(1)
 	}
-	isValidPeriod := false
-	for _, _period := range Periods {
-		if period == _period {
-			isValidPeriod = true
-			break
+	os.Exit(0)
+}
+
+type UrlAndDirectory struct {
+	Url       string
+	Directory string
+}
+
+func run() error {
+	//periodTypes := []string{"daily", "weekly", "monthly"}
+	periodTypes := []string{"daily"}
+	//languageTypes := []string{"all", "unknown", "c++", "html", "java", "javascript", "php", "python", "ruby", "1c-enterprise", "2-dimensional-array", "4d", "abap", "abap-cds", "abnf", "actionscript", "ada", "adobe-font-metrics", "agda", "ags-script", "aidl", "al", "alloy", "alpine-abuild", "altium-designer", "ampl", "angelscript", "ant-build-system", "antlr", "apacheconf", "apex", "api-blueprint", "apl", "apollo-guidance-computer", "applescript", "arc", "asciidoc", "asl", "asn.1", "classic-asp", "asp.net", "aspectj", "assembly", "astro", "asymptote", "ats", "augeas", "autohotkey", "autoit", "avro-idl", "awk", "ballerina", "basic", "batchfile", "beef", "befunge", "berry", "bibtex", "bicep", "bison", "bitbake", "blade", "blitzbasic", "blitzmax", "bluespec", "boo", "boogie", "brainfuck", "brightscript", "zeek", "browserslist", "c", "c%23", "c-objdump", "c2hs-haskell", "cabal-config", "cadence", "cairo", "cap'n-proto", "cartocss", "ceylon", "chapel", "charity", "chuck", "cil", "cirru", "clarion", "clarity", "clean", "click", "clips", "clojure", "closure-templates", "cloud-firestore-security-rules", "cmake", "cobol", "codeowners", "codeql", "coffeescript", "coldfusion", "coldfusion-cfc", "collada", "common-lisp", "common-workflow-language", "component-pascal", "conll-u", "cool", "coq", "cpp-objdump", "creole", "crystal", "cson", "csound", "csound-document", "csound-score", "css", "csv", "cuda", "cue", "curl-config", "curry", "cweb", "cycript", "cython", "d", "d-objdump", "dafny", "darcs-patch", "dart", "dataweave", "debian-package-control-file", "denizenscript", "desktop", "dhall", "diff", "digital-command-language", "dircolors", "directx-3d-file", "dm", "dns-zone", "dockerfile", "dogescript", "dtrace", "dylan", "e", "e-mail", "eagle", "earthly", "easybuild", "ebnf", "ec", "ecere-projects", "ecl", "eclipse", "editorconfig", "edje-data-collection", "edn", "eiffel", "ejs", "elixir", "elm", "emacs-lisp", "emberscript", "eq", "erlang", "euphoria", "f%23", "f*", "factor", "fancy", "fantom", "faust", "fennel", "figlet-font", "filebench-wml", "filterscript", "fish", "fluent", "flux", "formatted", "forth", "fortran", "fortran-free-form", "freebasic", "freemarker", "frege", "futhark", "g-code", "game-maker-language", "gaml", "gams", "gap", "gcc-machine-description", "gdb", "gdscript", "gedcom", "gemfile.lock", "genero", "genero-forms", "genie", "genshi", "gentoo-ebuild", "gentoo-eclass", "gerber-image", "gettext-catalog", "gherkin", "git-attributes", "git-config", "gleam", "glsl", "glyph", "glyph-bitmap-distribution-format", "gn", "gnuplot", "go", "go-checksums", "go-module", "golo", "gosu", "grace", "gradle", "grammatical-framework", "graph-modeling-language", "graphql", "graphviz-(dot)", "groovy", "groovy-server-pages", "gsc", "hack", "haml", "handlebars", "haproxy", "harbour", "haskell", "haxe", "hcl", "hiveql", "hlsl", "holyc", "hoon", "jinja", "html+ecr", "html+eex", "html+erb", "html+php", "html+razor", "http", "hxml", "hy", "hyphy", "idl", "idris", "ignore-list", "igor-pro", "imagej-macro", "inform-7", "ini", "inno-setup", "io", "ioke", "irc-log", "isabelle", "isabelle-root", "j", "janet", "jar-manifest", "jasmin", "java-properties", "java-server-pages", "javascript+erb", "jest-snapshot", "jflex", "jison", "jison-lex", "jolie", "jq", "json", "json-with-comments", "json5", "jsoniq", "jsonld", "jsonnet", "julia", "jupyter-notebook", "kaitai-struct", "kakounescript", "kicad-layout", "kicad-legacy-layout", "kicad-schematic", "kit", "kotlin", "krl", "kusto", "kvlang", "labview", "lark", "lasso", "latte", "lean", "less", "lex", "lfe", "ligolang", "lilypond", "limbo", "linker-script", "linux-kernel-module", "liquid", "literate-agda", "literate-coffeescript", "literate-haskell", "livescript", "llvm", "logos", "logtalk", "lolcode", "lookml", "loomscript", "lsl", "ltspice-symbol", "lua", "m", "m4", "m4sugar", "macaulay2", "makefile", "mako", "markdown", "marko", "mask", "mathematica", "matlab", "maven-pom", "max", "maxscript", "mcfunction", "wikitext", "mercury", "meson", "metal", "microsoft-developer-studio-project", "microsoft-visual-studio-solution", "minid", "mint", "mirah", "mirc-script", "mlir", "modelica", "modula-2", "modula-3", "module-management-system", "monkey", "monkey-c", "moocode", "moonscript", "motoko", "motorola-68k-assembly", "mql4", "mql5", "mtml", "muf", "mupad", "muse", "mustache", "myghty", "nanorc", "nasl", "ncl", "nearley", "nemerle", "neon", "nesc", "netlinx", "netlinx+erb", "netlogo", "newlisp", "nextflow", "nginx", "nim", "ninja", "nit", "nix", "nl", "npm-config", "nsis", "nu", "numpy", "nunjucks", "nwscript", "objdump", "object-data-instance-notation", "objective-c", "objective-c++", "objective-j", "objectscript", "ocaml", "odin", "omgrofl", "ooc", "opa", "opal", "open-policy-agent", "opencl", "openedge-abl", "openqasm", "openrc-runscript", "openscad", "openstep-property-list", "opentype-feature-file", "org", "ox", "oxygene", "oz", "p4", "pan", "papyrus", "parrot", "parrot-assembly", "parrot-internal-representation", "pascal", "pawn", "peg.js", "pep8", "perl", "pic", "pickle", "picolisp", "piglatin", "pike", "plantuml", "plpgsql", "plsql", "pod", "pod-6", "pogoscript", "pony", "postcss", "postscript", "pov-ray-sdl", "powerbuilder", "powershell", "prisma", "processing", "procfile", "proguard", "prolog", "promela", "propeller-spin", "protocol-buffer", "protocol-buffer-text-format", "public-key", "pug", "puppet", "pure-data", "purebasic", "purescript", "python-console", "python-traceback", "q", "q%23", "qmake", "qml", "qt-script", "quake", "r", "racket", "ragel", "raku", "raml", "rascal", "raw-token-data", "rdoc", "readline-config", "realbasic", "reason", "rebol", "record-jar", "red", "redcode", "redirect-rules", "regular-expression", "ren'py", "renderscript", "rescript", "restructuredtext", "rexx", "rich-text-format", "ring", "riot", "rmarkdown", "robotframework", "robots.txt", "roff", "roff-manpage", "rouge", "rpc", "rpgle", "rpm-spec", "runoff", "rust", "sage", "saltstack", "sas", "sass", "scala", "scaml", "scheme", "scilab", "scss", "sed", "self", "selinux-policy", "shaderlab", "shell", "shellcheck-config", "shellsession", "shen", "sieve", "singularity", "slash", "slice", "slim", "smali", "smalltalk", "smarty", "smpl", "smt", "solidity", "soong", "sourcepawn", "sparql", "spline-font-database", "sqf", "sql", "sqlpl", "squirrel", "srecode-template", "ssh-config", "stan", "standard-ml", "starlark", "stata", "ston", "stringtemplate", "stylus", "subrip-text", "sugarss", "supercollider", "svelte", "svg", "swift", "swig", "systemverilog", "talon", "tcl", "tcsh", "tea", "terra", "tex", "texinfo", "text", "textile", "textmate-properties", "thrift", "ti-program", "tla", "toml", "tsql", "tsv", "tsx", "turing", "turtle", "twig", "txl", "type-language", "typescript", "unified-parallel-c", "unity3d-asset", "unix-assembly", "uno", "unrealscript", "urweb", "v", "vala", "valve-data-format", "vba", "vbscript", "vcl", "verilog", "vhdl", "vim-help-file", "vim-script", "vim-snippet", "visual-basic-.net", "volt", "vue", "vyper", "wavefront-material", "wavefront-object", "wdl", "web-ontology-language", "webassembly", "webidl", "webvtt", "wget-config", "windows-registry-entries", "wisp", "witcher-script", "wollok", "world-of-warcraft-addon-data", "x-bitmap", "x-font-directory-index", "x-pixmap", "x10", "xbase", "xc", "xcompose", "xml", "xml-property-list", "xojo", "xonsh", "xpages", "xproc", "xquery", "xs", "xslt", "xtend", "yacc", "yaml", "yang", "yara", "yasnippet", "zap", "zenscript", "zephir", "zig", "zil", "zimpl"}
+	languageTypes := []string{"all"}
+
+	var urlAndDirectories []*UrlAndDirectory
+	for _, periodType := range periodTypes {
+		for _, languageType := range languageTypes {
+			urlAndDirectories = append(urlAndDirectories, &UrlAndDirectory{
+				Url:       fmt.Sprintf("%s/%s/%s.xml", baseUrl, periodType, languageType),
+				Directory: path.Join("out", languageType, periodType),
+			})
 		}
 	}
-	isAllPeriod := false
-	if period == "all" {
-		isAllPeriod = true
-	}
-	if !(isValidPeriod || isAllPeriod) {
-		log.Fatal("invalid Period given. Choose valid period from daily, weekly, monthly or all.")
-	}
+	eg := errgroup.Group{}
 
-	GeneratePeriodMarkdown(period, isAllPeriod)
+	fp := gofeed.NewParser()
+	fmt.Println("urlAndDirectories", urlAndDirectories)
 
-	if language != "" {
-		isValidLanguage := false
-		for _, _language := range Languages {
-			if language == _language {
-				isValidLanguage = true
-				break
+	for _, urlAndDirectory := range urlAndDirectories {
+		eg.Go(func() error {
+			parsedFeed, err := fp.ParseURL(urlAndDirectory.Url)
+			if err != nil {
+				return errors.WithStack(err)
 			}
-		}
-		if !isValidLanguage {
-			log.Fatal("invalid language")
-		}
-		GenerateLanguageMarkdown(language, false)
-	} else {
-		GenerateLanguageMarkdown("", true)
+
+			feed := &feeds.Feed{
+				Title:       parsedFeed.Title,
+				Description: parsedFeed.Description,
+				//Updated:     *parsedFeed.UpdatedParsed,
+				Created: *parsedFeed.PublishedParsed,
+				Link: &feeds.Link{
+					Href: parsedFeed.Link,
+				},
+			}
+
+			for _, item := range parsedFeed.Items {
+				feed.Items = append(feed.Items, &feeds.Item{
+					Title: item.Title,
+					Link: &feeds.Link{
+						Href: item.Link,
+					},
+					Description: item.Description,
+					Updated:     *parsedFeed.PublishedParsed,
+					Created:     *parsedFeed.PublishedParsed,
+				})
+			}
+			f, err := feed.ToAtom()
+			if err != nil {
+				return errors.WithStack(err)
+			}
+
+			err = os.MkdirAll(urlAndDirectory.Directory, os.ModePerm)
+			if err != nil {
+				return errors.WithStack(err)
+			}
+
+			err = ioutil.WriteFile(path.Join(urlAndDirectory.Directory, "index.xml"), []byte(f), os.ModePerm)
+
+			if err != nil {
+				return errors.WithStack(err)
+			}
+
+			return nil
+		})
 	}
+	if err := eg.Wait(); err != nil {
+		return err
+	}
+
+	return nil
 }
