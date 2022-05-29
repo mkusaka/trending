@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub YARA Daily Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-05-29T01:59:29Z</updated>
+  <subtitle>Daily Trending of YARA in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>regeciovad/YaraRex-demo</title>
+    <updated>2022-05-29T01:59:29Z</updated>
+    <id>tag:github.com,2022-05-29:/regeciovad/YaraRex-demo</id>
+    <link href="https://github.com/regeciovad/YaraRex-demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A set of Yara rules for demonstration of the YaraRex tool.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>CyberMonitor/APT_CyberCriminal_Campagin_Collections</title>
+    <updated>2022-05-29T01:59:29Z</updated>
+    <id>tag:github.com,2022-05-29:/CyberMonitor/APT_CyberCriminal_Campagin_Collections</id>
+    <link href="https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;APT &amp; CyberCriminal Campaign Collection&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ParrotSec/mimikatz</title>
+    <updated>2022-05-29T01:59:29Z</updated>
+    <id>tag:github.com,2022-05-29:/ParrotSec/mimikatz</id>
+    <link href="https://github.com/ParrotSec/mimikatz" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Yara-Rules/rules</title>
+    <updated>2022-05-29T01:59:29Z</updated>
+    <id>tag:github.com,2022-05-29:/Yara-Rules/rules</id>
+    <link href="https://github.com/Yara-Rules/rules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository of yara rules&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Neo23x0/signature-base</title>
+    <updated>2022-05-29T01:59:29Z</updated>
+    <id>tag:github.com,2022-05-29:/Neo23x0/signature-base</id>
+    <link href="https://github.com/Neo23x0/signature-base" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Signature base for my scanner tools&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

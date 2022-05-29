@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Rascal Daily Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-05-29T01:52:26Z</updated>
+  <subtitle>Daily Trending of Rascal in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kelthuzadx/hosts</title>
+    <updated>2022-05-29T01:52:26Z</updated>
+    <id>tag:github.com,2022-05-29:/kelthuzadx/hosts</id>
+    <link href="https://github.com/kelthuzadx/hosts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🗽最新可用的google hosts文件。国内镜像：&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

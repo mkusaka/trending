@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Haml Daily Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-05-29T01:42:55Z</updated>
+  <subtitle>Daily Trending of Haml in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>olivierlacan/keep-a-changelog</title>
+    <updated>2022-05-29T01:42:55Z</updated>
+    <id>tag:github.com,2022-05-29:/olivierlacan/keep-a-changelog</id>
+    <link href="https://github.com/olivierlacan/keep-a-changelog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;If you build software, keep a changelog.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nix Daily Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-05-29T01:48:40Z</updated>
+  <subtitle>Daily Trending of Nix in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>divnix/digga</title>
+    <updated>2022-05-29T01:48:40Z</updated>
+    <id>tag:github.com,2022-05-29:/divnix/digga</id>
+    <link href="https://github.com/divnix/digga" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A flake utility library to craft shell-, home-, and hosts- environments.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>input-output-hk/haskell.nix</title>
+    <updated>2022-05-29T01:48:40Z</updated>
+    <id>tag:github.com,2022-05-29:/input-output-hk/haskell.nix</id>
+    <link href="https://github.com/input-output-hk/haskell.nix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Alternative Haskell Infrastructure for Nixpkgs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>NixOS/nixos-hardware</title>
+    <updated>2022-05-29T01:48:40Z</updated>
+    <id>tag:github.com,2022-05-29:/NixOS/nixos-hardware</id>
+    <link href="https://github.com/NixOS/nixos-hardware" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of NixOS modules covering hardware quirks.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>NixOS/nixpkgs</title>
+    <updated>2022-05-29T01:48:40Z</updated>
+    <id>tag:github.com,2022-05-29:/NixOS/nixpkgs</id>
+    <link href="https://github.com/NixOS/nixpkgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nix Packages collection&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cardano-foundation/cardano-token-registry</title>
+    <updated>2022-05-29T01:48:40Z</updated>
+    <id>tag:github.com,2022-05-29:/cardano-foundation/cardano-token-registry</id>
+    <link href="https://github.com/cardano-foundation/cardano-token-registry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

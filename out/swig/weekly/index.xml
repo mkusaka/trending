@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SWIG Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-05-29T02:25:05Z</updated>
+  <subtitle>Weekly Trending of SWIG in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pymupdf/PyMuPDF</title>
+    <updated>2022-05-29T02:25:05Z</updated>
+    <id>tag:github.com,2022-05-29:/pymupdf/PyMuPDF</id>
+    <link href="https://github.com/pymupdf/PyMuPDF" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Python bindings for MuPDF&#39;s rendering library.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SimpleITK/SimpleITK</title>
+    <updated>2022-05-29T02:25:05Z</updated>
+    <id>tag:github.com,2022-05-29:/SimpleITK/SimpleITK</id>
+    <link href="https://github.com/SimpleITK/SimpleITK" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SimpleITK: a layer built on top of the Insight Toolkit (ITK), intended to simplify and facilitate ITK&#39;s use in rapid prototyping, education and interpreted languages.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

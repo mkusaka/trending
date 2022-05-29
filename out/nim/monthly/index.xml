@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nim Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-05-29T02:45:46Z</updated>
+  <subtitle>Monthly Trending of Nim in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nim-lang/Nim</title>
+    <updated>2022-05-29T02:45:46Z</updated>
+    <id>tag:github.com,2022-05-29:/nim-lang/Nim</id>
+    <link href="https://github.com/nim-lang/Nim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Anuken/animdustry</title>
+    <updated>2022-05-29T02:45:46Z</updated>
+    <id>tag:github.com,2022-05-29:/Anuken/animdustry</id>
+    <link href="https://github.com/Anuken/animdustry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;the anime gacha rhythm game&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sergiotapia/torrentinim</title>
+    <updated>2022-05-29T02:45:46Z</updated>
+    <id>tag:github.com,2022-05-29:/sergiotapia/torrentinim</id>
+    <link href="https://github.com/sergiotapia/torrentinim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A very low memory-footprint, self hosted API-only torrent search engine. Sonarr + Radarr Compatible, native support for Linux, Mac and Windows.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nim-lang/packages</title>
+    <updated>2022-05-29T02:45:46Z</updated>
+    <id>tag:github.com,2022-05-29:/nim-lang/packages</id>
+    <link href="https://github.com/nim-lang/packages" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;List of packages for Nimble&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>codic12/worm</title>
+    <updated>2022-05-29T02:45:46Z</updated>
+    <id>tag:github.com,2022-05-29:/codic12/worm</id>
+    <link href="https://github.com/codic12/worm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A dynamic, tag-based window manager written in Nim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zedeus/nitter</title>
+    <updated>2022-05-29T02:45:46Z</updated>
+    <id>tag:github.com,2022-05-29:/zedeus/nitter</id>
+    <link href="https://github.com/zedeus/nitter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Alternative Twitter front-end&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

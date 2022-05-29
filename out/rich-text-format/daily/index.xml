@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Rich Text Format Daily Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-05-29T01:52:59Z</updated>
+  <subtitle>Daily Trending of Rich Text Format in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dotnet/docs-desktop</title>
+    <updated>2022-05-29T01:52:59Z</updated>
+    <id>tag:github.com,2022-05-29:/dotnet/docs-desktop</id>
+    <link href="https://github.com/dotnet/docs-desktop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository contains .NET documentation related to Windows Forms (winforms) and Windows Presentation Foundation (WPF).&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jlord/patchwork</title>
+    <updated>2022-05-29T01:52:59Z</updated>
+    <id>tag:github.com,2022-05-29:/jlord/patchwork</id>
+    <link href="https://github.com/jlord/patchwork" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;All the Git-it Workshop completers!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>couchbase/product-texts</title>
+    <updated>2022-05-29T01:52:59Z</updated>
+    <id>tag:github.com,2022-05-29:/couchbase/product-texts</id>
+    <link href="https://github.com/couchbase/product-texts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for product-specific documents (e.g. READMEs, license files, etc.)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>TP-Lab/tokens</title>
+    <updated>2022-05-29T01:52:59Z</updated>
+    <id>tag:github.com,2022-05-29:/TP-Lab/tokens</id>
+    <link href="https://github.com/TP-Lab/tokens" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Token assets for TokenPocket&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>IAOldman/parallels</title>
+    <updated>2022-05-29T01:52:59Z</updated>
+    <id>tag:github.com,2022-05-29:/IAOldman/parallels</id>
+    <link href="https://github.com/IAOldman/parallels" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PD Runner&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>microsoft/TemplateStudio</title>
+    <updated>2022-05-29T01:52:59Z</updated>
+    <id>tag:github.com,2022-05-29:/microsoft/TemplateStudio</id>
+    <link href="https://github.com/microsoft/TemplateStudio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Template Studio accelerates the creation of new WinUI 3, WPF, and UWP apps using a wizard-based experience.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>decalage2/oletools</title>
+    <updated>2022-05-29T01:52:59Z</updated>
+    <id>tag:github.com,2022-05-29:/decalage2/oletools</id>
+    <link href="https://github.com/decalage2/oletools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

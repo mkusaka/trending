@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elm Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-05-29T02:36:49Z</updated>
+  <subtitle>Monthly Trending of Elm in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rtfeldman/elm-spa-example</title>
+    <updated>2022-05-29T02:36:49Z</updated>
+    <id>tag:github.com,2022-05-29:/rtfeldman/elm-spa-example</id>
+    <link href="https://github.com/rtfeldman/elm-spa-example" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Single Page Application written in Elm&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

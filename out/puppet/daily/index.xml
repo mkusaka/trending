@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Puppet Daily Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-05-29T01:51:39Z</updated>
+  <subtitle>Daily Trending of Puppet in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>doodles526/Atom-Group</title>
+    <updated>2022-05-29T01:51:39Z</updated>
+    <id>tag:github.com,2022-05-29:/doodles526/Atom-Group</id>
+    <link href="https://github.com/doodles526/Atom-Group" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ILC 2012 Cluster + openMPI project&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fibon/puppet-cq</title>
+    <updated>2022-05-29T01:51:39Z</updated>
+    <id>tag:github.com,2022-05-29:/fibon/puppet-cq</id>
+    <link href="https://github.com/fibon/puppet-cq" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Puppet module for Adobe CQ configuration&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

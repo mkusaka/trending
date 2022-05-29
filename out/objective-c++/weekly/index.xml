@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Objective-C++ Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-05-29T02:17:46Z</updated>
+  <subtitle>Weekly Trending of Objective-C++ in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>gree/unity-webview</title>
+    <updated>2022-05-29T02:17:46Z</updated>
+    <id>tag:github.com,2022-05-29:/gree/unity-webview</id>
+    <link href="https://github.com/gree/unity-webview" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pocketsvg/PocketSVG</title>
+    <updated>2022-05-29T02:17:46Z</updated>
+    <id>tag:github.com,2022-05-29:/pocketsvg/PocketSVG</id>
+    <link href="https://github.com/pocketsvg/PocketSVG" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Easily convert your SVG files into CGPaths, CAShapeLayers, and UIBezierPaths&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>TextureGroup/Texture</title>
+    <updated>2022-05-29T02:17:46Z</updated>
+    <id>tag:github.com,2022-05-29:/TextureGroup/Texture</id>
+    <link href="https://github.com/TextureGroup/Texture" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Smooth asynchronous user interfaces for iOS apps.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>phonegap/phonegap-plugin-barcodescanner</title>
+    <updated>2022-05-29T02:17:46Z</updated>
+    <id>tag:github.com,2022-05-29:/phonegap/phonegap-plugin-barcodescanner</id>
+    <link href="https://github.com/phonegap/phonegap-plugin-barcodescanner" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;cross-platform BarcodeScanner for Cordova / PhoneGap&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>facebook/FBRetainCycleDetector</title>
+    <updated>2022-05-29T02:17:46Z</updated>
+    <id>tag:github.com,2022-05-29:/facebook/FBRetainCycleDetector</id>
+    <link href="https://github.com/facebook/FBRetainCycleDetector" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;iOS library to help detecting retain cycles in runtime.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>KhronosGroup/MoltenVK</title>
+    <updated>2022-05-29T02:17:46Z</updated>
+    <id>tag:github.com,2022-05-29:/KhronosGroup/MoltenVK</id>
+    <link href="https://github.com/KhronosGroup/MoltenVK" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MoltenVK is a Vulkan Portability implementation. It layers a subset of the high-performance, industry-standard Vulkan graphics and compute API over Apple&#39;s Metal graphics framework, enabling Vulkan applications to run on macOS, iOS and tvOS.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

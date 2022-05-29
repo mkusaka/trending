@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub MATLAB Daily Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-05-29T01:47:08Z</updated>
+  <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>TadasBaltrusaitis/OpenFace</title>
+    <updated>2022-05-29T01:47:08Z</updated>
+    <id>tag:github.com,2022-05-29:/TadasBaltrusaitis/OpenFace</id>
+    <link href="https://github.com/TadasBaltrusaitis/OpenFace" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bw1129/PIDtoolbox</title>
+    <updated>2022-05-29T01:47:08Z</updated>
+    <id>tag:github.com,2022-05-29:/bw1129/PIDtoolbox</id>
+    <link href="https://github.com/bw1129/PIDtoolbox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PIDtoolbox is a set of graphical tools for analyzing blackbox log data&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fieldtrip/fieldtrip</title>
+    <updated>2022-05-29T01:47:08Z</updated>
+    <id>tag:github.com,2022-05-29:/fieldtrip/fieldtrip</id>
+    <link href="https://github.com/fieldtrip/fieldtrip" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The MATLAB toolbox for MEG, EEG and iEEG analysis&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mathworks/MathWorks-Excellence-in-Innovation</title>
+    <updated>2022-05-29T01:47:08Z</updated>
+    <id>tag:github.com,2022-05-29:/mathworks/MathWorks-Excellence-in-Innovation</id>
+    <link href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Capstone and senior design project ideas for undergraduate and graduate students to gain practical experience and insight into technology trends and industry directions.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fangq/jsonlab</title>
+    <updated>2022-05-29T01:47:08Z</updated>
+    <id>tag:github.com,2022-05-29:/fangq/jsonlab</id>
+    <link href="https://github.com/fangq/jsonlab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JSONLab: compact, portable, robust JSON/binary-JSON encoder/decoder for MATLAB/Octave&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>personqianduixue/Math_Model</title>
+    <updated>2022-05-29T01:47:08Z</updated>
+    <id>tag:github.com,2022-05-29:/personqianduixue/Math_Model</id>
+    <link href="https://github.com/personqianduixue/Math_Model" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、常用matlab算法、国赛评阅要点、软件模型算法汇总、智能算法、优化算法&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sbordyak/TemporalIsolation</title>
+    <updated>2022-05-29T01:47:08Z</updated>
+    <id>tag:github.com,2022-05-29:/sbordyak/TemporalIsolation</id>
+    <link href="https://github.com/sbordyak/TemporalIsolation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Software for modeling the effects of emergence timing, lifespan, and plant tissue availability for the reproductive isolation of insects&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Shuai-Xie/genetic-algorithm</title>
+    <updated>2022-05-29T01:47:08Z</updated>
+    <id>tag:github.com,2022-05-29:/Shuai-Xie/genetic-algorithm</id>
+    <link href="https://github.com/Shuai-Xie/genetic-algorithm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;遗传算法 - Matlab&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Lenskiy/PandasToMatlab</title>
+    <updated>2022-05-29T01:47:08Z</updated>
+    <id>tag:github.com,2022-05-29:/Lenskiy/PandasToMatlab</id>
+    <link href="https://github.com/Lenskiy/PandasToMatlab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The functions designed to convert Pandas DataFrames and Series to Matlab and Back.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera</title>
+    <updated>2022-05-29T01:47:08Z</updated>
+    <id>tag:github.com,2022-05-29:/UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera</id>
+    <link href="https://github.com/UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Contains the Course Material and Assignment Solutions for the Machine Learning Course at Stanford University on Coursera.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>atinesh-s/Coursera-Machine-Learning-Stanford</title>
+    <updated>2022-05-29T01:47:08Z</updated>
+    <id>tag:github.com,2022-05-29:/atinesh-s/Coursera-Machine-Learning-Stanford</id>
+    <link href="https://github.com/atinesh-s/Coursera-Machine-Learning-Stanford" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Machine learning-Stanford University&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Ayatans/Machine-Learning-homework</title>
+    <updated>2022-05-29T01:47:08Z</updated>
+    <id>tag:github.com,2022-05-29:/Ayatans/Machine-Learning-homework</id>
+    <link href="https://github.com/Ayatans/Machine-Learning-homework" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Matlab Coding homework for Machine Learning&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>petercorke/robotics-toolbox-matlab</title>
+    <updated>2022-05-29T01:47:08Z</updated>
+    <id>tag:github.com,2022-05-29:/petercorke/robotics-toolbox-matlab</id>
+    <link href="https://github.com/petercorke/robotics-toolbox-matlab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Robotics Toolbox for MATLAB&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

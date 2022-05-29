@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SystemVerilog Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-05-29T02:25:03Z</updated>
+  <subtitle>Weekly Trending of SystemVerilog in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pulp-platform/snitch</title>
+    <updated>2022-05-29T02:25:03Z</updated>
+    <id>tag:github.com,2022-05-29:/pulp-platform/snitch</id>
+    <link href="https://github.com/pulp-platform/snitch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lean but mean RISC-V system!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pulp-platform/axi</title>
+    <updated>2022-05-29T02:25:03Z</updated>
+    <id>tag:github.com,2022-05-29:/pulp-platform/axi</id>
+    <link href="https://github.com/pulp-platform/axi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
