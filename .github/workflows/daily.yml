@@ -16,5 +16,11 @@ jobs:
         with:
           check-latest: true
           cache: true
+      - uses: actions/setup-node@v3
+        with:
+          node-version: current
       - run: |
           go run main.go
+      - run: |
+          yarn install
+          yarn deploy
