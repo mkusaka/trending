@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Erlang Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-05-29T02:37:33Z</updated>
+  <subtitle>Monthly Trending of Erlang in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>erlang/otp</title>
+    <updated>2022-05-29T02:37:33Z</updated>
+    <id>tag:github.com,2022-05-29:/erlang/otp</id>
+    <link href="https://github.com/erlang/otp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang/OTP&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dgiot/dgiot</title>
+    <updated>2022-05-29T02:37:33Z</updated>
+    <id>tag:github.com,2022-05-29:/dgiot/dgiot</id>
+    <link href="https://github.com/dgiot/dgiot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open source platform for IoT,30 min Quick Deployment,10M devices connection,Carrier level Stability;物联网开源平台,30分钟快速部署,千万级承载,电信级稳定性. Low code for Object model-Rule Engine-Data Channel-Configuration Page; Fully open source, Multi industrial protocols are compatible.物模型-规则引擎-数据通道-组态页面全流程零代码开发、前后端完全开源、多行业工业协议兼容。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>helium/miner</title>
+    <updated>2022-05-29T02:37:33Z</updated>
+    <id>tag:github.com,2022-05-29:/helium/miner</id>
+    <link href="https://github.com/helium/miner" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Miner for the helium blockchain&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>processone/ejabberd</title>
+    <updated>2022-05-29T02:37:33Z</updated>
+    <id>tag:github.com,2022-05-29:/processone/ejabberd</id>
+    <link href="https://github.com/processone/ejabberd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>deadtrickster/rebar3_elvis_plugin</title>
+    <updated>2022-05-29T02:37:33Z</updated>
+    <id>tag:github.com,2022-05-29:/deadtrickster/rebar3_elvis_plugin</id>
+    <link href="https://github.com/deadtrickster/rebar3_elvis_plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Run Elvis as rebar3 plugin&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>josefs/Gradualizer</title>
+    <updated>2022-05-29T02:37:33Z</updated>
+    <id>tag:github.com,2022-05-29:/josefs/Gradualizer</id>
+    <link href="https://github.com/josefs/Gradualizer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Gradual type system for Erlang&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>potatosalad/erlang-jose</title>
+    <updated>2022-05-29T02:37:33Z</updated>
+    <id>tag:github.com,2022-05-29:/potatosalad/erlang-jose</id>
+    <link href="https://github.com/potatosalad/erlang-jose" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JSON Object Signing and Encryption (JOSE) for Erlang and Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tomas-abrahamsson/gpb</title>
+    <updated>2022-05-29T02:37:33Z</updated>
+    <id>tag:github.com,2022-05-29:/tomas-abrahamsson/gpb</id>
+    <link href="https://github.com/tomas-abrahamsson/gpb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Google Protobuf implementation for Erlang&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>milindparikh/nakiabu</title>
+    <updated>2022-05-29T02:37:33Z</updated>
+    <id>tag:github.com,2022-05-29:/milindparikh/nakiabu</id>
+    <link href="https://github.com/milindparikh/nakiabu" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;9 9s of availability is the goal&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ferd/recon</title>
+    <updated>2022-05-29T02:37:33Z</updated>
+    <id>tag:github.com,2022-05-29:/ferd/recon</id>
+    <link href="https://github.com/ferd/recon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of functions and scripts to debug Erlang in production.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>erlang-ls/erlang_ls</title>
+    <updated>2022-05-29T02:37:33Z</updated>
+    <id>tag:github.com,2022-05-29:/erlang-ls/erlang_ls</id>
+    <link href="https://github.com/erlang-ls/erlang_ls" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Erlang Language Server&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rabbitmq/rabbitmq-delayed-message-exchange</title>
+    <updated>2022-05-29T02:37:33Z</updated>
+    <id>tag:github.com,2022-05-29:/rabbitmq/rabbitmq-delayed-message-exchange</id>
+    <link href="https://github.com/rabbitmq/rabbitmq-delayed-message-exchange" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Delayed Messaging for RabbitMQ&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>erlydtl/erlydtl</title>
+    <updated>2022-05-29T02:37:33Z</updated>
+    <id>tag:github.com,2022-05-29:/erlydtl/erlydtl</id>
+    <link href="https://github.com/erlydtl/erlydtl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Django templates for Erlang&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dmitryme/erlang_localtime</title>
+    <updated>2022-05-29T02:37:33Z</updated>
+    <id>tag:github.com,2022-05-29:/dmitryme/erlang_localtime</id>
+    <link href="https://github.com/dmitryme/erlang_localtime" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang library for conversion from one local time to another&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>blt/port_compiler</title>
+    <updated>2022-05-29T02:37:33Z</updated>
+    <id>tag:github.com,2022-05-29:/blt/port_compiler</id>
+    <link href="https://github.com/blt/port_compiler" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A rebar3 port compiler&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>emqx/emqx</title>
+    <updated>2022-05-29T02:37:33Z</updated>
+    <id>tag:github.com,2022-05-29:/emqx/emqx</id>
+    <link href="https://github.com/emqx/emqx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An open-source, cloud-native distributed MQTT broker for IoT.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>apache/couchdb</title>
+    <updated>2022-05-29T02:37:33Z</updated>
+    <id>tag:github.com,2022-05-29:/apache/couchdb</id>
+    <link href="https://github.com/apache/couchdb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>talentdeficit/jsx</title>
+    <updated>2022-05-29T02:37:33Z</updated>
+    <id>tag:github.com,2022-05-29:/talentdeficit/jsx</id>
+    <link href="https://github.com/talentdeficit/jsx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;an erlang application for consuming, producing and manipulating json. inspired by yajl&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ninenines/cowlib</title>
+    <updated>2022-05-29T02:37:33Z</updated>
+    <id>tag:github.com,2022-05-29:/ninenines/cowlib</id>
+    <link href="https://github.com/ninenines/cowlib" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Support library for manipulating Web protocols.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>basho/lager_syslog</title>
+    <updated>2022-05-29T02:37:33Z</updated>
+    <id>tag:github.com,2022-05-29:/basho/lager_syslog</id>
+    <link href="https://github.com/basho/lager_syslog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Syslog backend for lager&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>proper-testing/proper</title>
+    <updated>2022-05-29T02:37:33Z</updated>
+    <id>tag:github.com,2022-05-29:/proper-testing/proper</id>
+    <link href="https://github.com/proper-testing/proper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PropEr: a QuickCheck-inspired property-based testing tool for Erlang&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>couchbase/couchdb</title>
+    <updated>2022-05-29T02:37:33Z</updated>
+    <id>tag:github.com,2022-05-29:/couchbase/couchdb</id>
+    <link href="https://github.com/couchbase/couchdb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CouchDB&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>benoitc/hackney</title>
+    <updated>2022-05-29T02:37:33Z</updated>
+    <id>tag:github.com,2022-05-29:/benoitc/hackney</id>
+    <link href="https://github.com/benoitc/hackney" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;simple HTTP client in Erlang&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>erlang-lager/lager</title>
+    <updated>2022-05-29T02:37:33Z</updated>
+    <id>tag:github.com,2022-05-29:/erlang-lager/lager</id>
+    <link href="https://github.com/erlang-lager/lager" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A logging framework for Erlang/OTP&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>couchbase/geocouch</title>
+    <updated>2022-05-29T02:37:33Z</updated>
+    <id>tag:github.com,2022-05-29:/couchbase/geocouch</id>
+    <link href="https://github.com/couchbase/geocouch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GeoCouch, a spatial index for CouchDB&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

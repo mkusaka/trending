@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Hack Daily Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-05-29T01:42:53Z</updated>
+  <subtitle>Daily Trending of Hack in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Ignitetch/AdvPhishing</title>
+    <updated>2022-05-29T01:42:53Z</updated>
+    <id>tag:github.com,2022-05-29:/Ignitetch/AdvPhishing</id>
+    <link href="https://github.com/Ignitetch/AdvPhishing" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is Advance Phishing Tool ! OTP PHISHING&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>htr-tech/zphisher</title>
+    <updated>2022-05-29T01:42:53Z</updated>
+    <id>tag:github.com,2022-05-29:/htr-tech/zphisher</id>
+    <link href="https://github.com/htr-tech/zphisher" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>convenia/php-full-8.1-image</title>
+    <updated>2022-05-29T01:42:53Z</updated>
+    <id>tag:github.com,2022-05-29:/convenia/php-full-8.1-image</id>
+    <link href="https://github.com/convenia/php-full-8.1-image" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple way to run PHP applications&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

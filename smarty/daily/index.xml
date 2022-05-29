@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smarty Daily Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-05-29T01:54:46Z</updated>
+  <subtitle>Daily Trending of Smarty in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>yu-steven/openit</title>
+    <updated>2022-05-29T01:54:46Z</updated>
+    <id>tag:github.com,2022-05-29:/yu-steven/openit</id>
+    <link href="https://github.com/yu-steven/openit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Openit订阅致力于打造免费无感的翻墙环境&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hmcts/sds-flux-config</title>
+    <updated>2022-05-29T01:54:46Z</updated>
+    <id>tag:github.com,2022-05-29:/hmcts/sds-flux-config</id>
+    <link href="https://github.com/hmcts/sds-flux-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>traefik/traefik-helm-chart</title>
+    <updated>2022-05-29T01:54:46Z</updated>
+    <id>tag:github.com,2022-05-29:/traefik/traefik-helm-chart</id>
+    <link href="https://github.com/traefik/traefik-helm-chart" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Traefik v2 helm chart&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>grafana/helm-charts</title>
+    <updated>2022-05-29T01:54:46Z</updated>
+    <id>tag:github.com,2022-05-29:/grafana/helm-charts</id>
+    <link href="https://github.com/grafana/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rskTech/k8s_material</title>
+    <updated>2022-05-29T01:54:46Z</updated>
+    <id>tag:github.com,2022-05-29:/rskTech/k8s_material</id>
+    <link href="https://github.com/rskTech/k8s_material" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fluent/helm-charts</title>
+    <updated>2022-05-29T01:54:46Z</updated>
+    <id>tag:github.com,2022-05-29:/fluent/helm-charts</id>
+    <link href="https://github.com/fluent/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm Charts for Fluentd and Fluent Bit&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Anankke/SSPanel-Uim</title>
+    <updated>2022-05-29T01:54:46Z</updated>
+    <id>tag:github.com,2022-05-29:/Anankke/SSPanel-Uim</id>
+    <link href="https://github.com/Anankke/SSPanel-Uim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SSPanel V3 魔改再次修改版&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rancher/charts</title>
+    <updated>2022-05-29T01:54:46Z</updated>
+    <id>tag:github.com,2022-05-29:/rancher/charts</id>
+    <link href="https://github.com/rancher/charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>airflow-helm/charts</title>
+    <updated>2022-05-29T01:54:46Z</updated>
+    <id>tag:github.com,2022-05-29:/airflow-helm/charts</id>
+    <link href="https://github.com/airflow-helm/charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The User-Community Airflow Helm Chart is the standard way to deploy Apache Airflow on Kubernetes with Helm. Originally created in 2018, it has since helped thousands of companies create production-ready deployments of Airflow on Kubernetes.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>FIWARE-Ops/marinera</title>
+    <updated>2022-05-29T01:54:46Z</updated>
+    <id>tag:github.com,2022-05-29:/FIWARE-Ops/marinera</id>
+    <link href="https://github.com/FIWARE-Ops/marinera" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gitops repository for the residency&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>castai/helm-charts</title>
+    <updated>2022-05-29T01:54:46Z</updated>
+    <id>tag:github.com,2022-05-29:/castai/helm-charts</id>
+    <link href="https://github.com/castai/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CAST AI Kubernetes helm charts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>getoutreach/stencil-base</title>
+    <updated>2022-05-29T01:54:46Z</updated>
+    <id>tag:github.com,2022-05-29:/getoutreach/stencil-base</id>
+    <link href="https://github.com/getoutreach/stencil-base" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Base templates for a stencil backed service&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>truecharts/apps</title>
+    <updated>2022-05-29T01:54:46Z</updated>
+    <id>tag:github.com,2022-05-29:/truecharts/apps</id>
+    <link href="https://github.com/truecharts/apps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Community App Catalog for TrueNAS SCALE&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>CircleCI-Public/circleci-runner-k8s</title>
+    <updated>2022-05-29T01:54:46Z</updated>
+    <id>tag:github.com,2022-05-29:/CircleCI-Public/circleci-runner-k8s</id>
+    <link href="https://github.com/CircleCI-Public/circleci-runner-k8s" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository with Helm charts to install CircleCI&#39;s runner on a Kubernetes cluster.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>getoutreach/stencil-circleci</title>
+    <updated>2022-05-29T01:54:46Z</updated>
+    <id>tag:github.com,2022-05-29:/getoutreach/stencil-circleci</id>
+    <link href="https://github.com/getoutreach/stencil-circleci" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CircleCI configuration for stencil&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>farrukh90/k8s-apps</title>
+    <updated>2022-05-29T01:54:46Z</updated>
+    <id>tag:github.com,2022-05-29:/farrukh90/k8s-apps</id>
+    <link href="https://github.com/farrukh90/k8s-apps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

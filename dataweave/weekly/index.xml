@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub DataWeave Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-05-29T02:07:47Z</updated>
+  <subtitle>Weekly Trending of DataWeave in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mulesoft/docs-dataweave</title>
+    <updated>2022-05-29T02:07:47Z</updated>
+    <id>tag:github.com,2022-05-29:/mulesoft/docs-dataweave</id>
+    <link href="https://github.com/mulesoft/docs-dataweave" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mulesoft/data-weave-analytics-library</title>
+    <updated>2022-05-29T02:07:47Z</updated>
+    <id>tag:github.com,2022-05-29:/mulesoft/data-weave-analytics-library</id>
+    <link href="https://github.com/mulesoft/data-weave-analytics-library" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mulesoft/data-weave-jwt-library</title>
+    <updated>2022-05-29T02:07:47Z</updated>
+    <id>tag:github.com,2022-05-29:/mulesoft/data-weave-jwt-library</id>
+    <link href="https://github.com/mulesoft/data-weave-jwt-library" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mulesoft/data-weave-slack-library</title>
+    <updated>2022-05-29T02:07:47Z</updated>
+    <id>tag:github.com,2022-05-29:/mulesoft/data-weave-slack-library</id>
+    <link href="https://github.com/mulesoft/data-weave-slack-library" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mulesoft/data-weave-mock-data-generators-library</title>
+    <updated>2022-05-29T02:07:47Z</updated>
+    <id>tag:github.com,2022-05-29:/mulesoft/data-weave-mock-data-generators-library</id>
+    <link href="https://github.com/mulesoft/data-weave-mock-data-generators-library" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mulesoft/data-weave-io</title>
+    <updated>2022-05-29T02:07:47Z</updated>
+    <id>tag:github.com,2022-05-29:/mulesoft/data-weave-io</id>
+    <link href="https://github.com/mulesoft/data-weave-io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Everything that is related to IO support for data weave: file, HTTP, OAS/RAML, GraphQL&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub VBScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-05-29T02:26:24Z</updated>
+  <subtitle>Weekly Trending of VBScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pyenv-win/pyenv-win</title>
+    <updated>2022-05-29T02:26:24Z</updated>
+    <id>tag:github.com,2022-05-29:/pyenv-win/pyenv-win</id>
+    <link href="https://github.com/pyenv-win/pyenv-win" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It&#39;s simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>xiaokaixuan/gost-heroku</title>
+    <updated>2022-05-29T02:26:24Z</updated>
+    <id>tag:github.com,2022-05-29:/xiaokaixuan/gost-heroku</id>
+    <link href="https://github.com/xiaokaixuan/gost-heroku" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一键部署 Gost(ss+mws) 到 Heroku/KubeSail&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

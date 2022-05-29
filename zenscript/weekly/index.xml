@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub ZenScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-05-29T02:28:16Z</updated>
+  <subtitle>Weekly Trending of ZenScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>TCreopargh/GreedyCraft</title>
+    <updated>2022-05-29T02:28:16Z</updated>
+    <id>tag:github.com,2022-05-29:/TCreopargh/GreedyCraft</id>
+    <link href="https://github.com/TCreopargh/GreedyCraft" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mega hybrid Minecraft modpack with over 530 loaded mods.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mahjerion/Craft-to-Exile-Dissonance</title>
+    <updated>2022-05-29T02:28:16Z</updated>
+    <id>tag:github.com,2022-05-29:/mahjerion/Craft-to-Exile-Dissonance</id>
+    <link href="https://github.com/mahjerion/Craft-to-Exile-Dissonance" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Minecraft modpack that aims to turn MC into an ARPG similar to Path of Exile and Diablo II. Focused progression and exploration is the main goal of the modpack.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Nomifactory/Nomifactory</title>
+    <updated>2022-05-29T02:28:16Z</updated>
+    <id>tag:github.com,2022-05-29:/Nomifactory/Nomifactory</id>
+    <link href="https://github.com/Nomifactory/Nomifactory" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nomifactory, a modpack for Minecraft 1.12.2&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>GTNewHorizons/GT-New-Horizons-Modpack</title>
+    <updated>2022-05-29T02:28:16Z</updated>
+    <id>tag:github.com,2022-05-29:/GTNewHorizons/GT-New-Horizons-Modpack</id>
+    <link href="https://github.com/GTNewHorizons/GT-New-Horizons-Modpack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;New Modpack with Gregtech and Thaumcraft&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>DarkPacks/SevTech-Ages</title>
+    <updated>2022-05-29T02:28:16Z</updated>
+    <id>tag:github.com,2022-05-29:/DarkPacks/SevTech-Ages</id>
+    <link href="https://github.com/DarkPacks/SevTech-Ages" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SevTech: Ages is a massive Minecraft modpack packed with content and progression.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

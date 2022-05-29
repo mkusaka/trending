@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Fennel Daily Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-05-29T01:40:54Z</updated>
+  <subtitle>Daily Trending of Fennel in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ggandor/leap.nvim</title>
+    <updated>2022-05-29T01:40:54Z</updated>
+    <id>tag:github.com,2022-05-29:/ggandor/leap.nvim</id>
+    <link href="https://github.com/ggandor/leap.nvim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🦘 A motion plugin that lets you look before you leap&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>shaunsingh/nyoom.nvim</title>
+    <updated>2022-05-29T01:40:54Z</updated>
+    <id>tag:github.com,2022-05-29:/shaunsingh/nyoom.nvim</id>
+    <link href="https://github.com/shaunsingh/nyoom.nvim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Blazing fast, configurable, minimal and lispy neovim config written in Fennel. Base config for users to extend and add upon, leading to a more unique editing experience. (🚀)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ggandor/lightspeed.nvim</title>
+    <updated>2022-05-29T01:40:54Z</updated>
+    <id>tag:github.com,2022-05-29:/ggandor/lightspeed.nvim</id>
+    <link href="https://github.com/ggandor/lightspeed.nvim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal cognitive effort&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

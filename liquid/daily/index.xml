@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Liquid Daily Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-05-29T01:46:02Z</updated>
+  <subtitle>Daily Trending of Liquid in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Shopify/dawn</title>
+    <updated>2022-05-29T01:46:02Z</updated>
+    <id>tag:github.com,2022-05-29:/Shopify/dawn</id>
+    <link href="https://github.com/Shopify/dawn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Shopify&#39;s first source available reference theme, with Online Store 2.0 features and performance built-in.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

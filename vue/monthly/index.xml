@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-05-29T02:55:30Z</updated>
+  <subtitle>Monthly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>element-plus/element-plus</title>
+    <updated>2022-05-29T02:55:30Z</updated>
+    <id>tag:github.com,2022-05-29:/element-plus/element-plus</id>
+    <link href="https://github.com/element-plus/element-plus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎉 A Vue.js 3 UI Library made by Element team&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Lissy93/dashy</title>
+    <updated>2022-05-29T02:55:30Z</updated>
+    <id>tag:github.com,2022-05-29:/Lissy93/dashy</id>
+    <link href="https://github.com/Lissy93/dashy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>shfshanyue/Daily-Question</title>
+    <updated>2022-05-29T02:55:30Z</updated>
+    <id>tag:github.com,2022-05-29:/shfshanyue/Daily-Question</id>
+    <link href="https://github.com/shfshanyue/Daily-Question" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>abhisheknaiidu/awesome-github-profile-readme</title>
+    <updated>2022-05-29T02:55:30Z</updated>
+    <id>tag:github.com,2022-05-29:/abhisheknaiidu/awesome-github-profile-readme</id>
+    <link href="https://github.com/abhisheknaiidu/awesome-github-profile-readme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;😎 A curated list of awesome GitHub Profile READMEs 📝&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>advplyr/audiobookshelf</title>
+    <updated>2022-05-29T02:55:30Z</updated>
+    <id>tag:github.com,2022-05-29:/advplyr/audiobookshelf</id>
+    <link href="https://github.com/advplyr/audiobookshelf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Self-hosted audiobook and podcast server&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>epicmaxco/vuestic-admin</title>
+    <updated>2022-05-29T02:55:30Z</updated>
+    <id>tag:github.com,2022-05-29:/epicmaxco/vuestic-admin</id>
+    <link href="https://github.com/epicmaxco/vuestic-admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free and Beautiful Vue 3 Admin Template&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>justboil/admin-one-vue-tailwind</title>
+    <updated>2022-05-29T02:55:30Z</updated>
+    <id>tag:github.com,2022-05-29:/justboil/admin-one-vue-tailwind</id>
+    <link href="https://github.com/justboil/admin-one-vue-tailwind" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free Vue.js 3.x Tailwind 3.x admin dashboard template with dark mode. Vite &amp; Vue CLI supported. Laravel integration available&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ElemeFE/element</title>
+    <updated>2022-05-29T02:55:30Z</updated>
+    <id>tag:github.com,2022-05-29:/ElemeFE/element</id>
+    <link href="https://github.com/ElemeFE/element" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Vue.js 2.0 UI Toolkit for Web&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jeecgboot/jeecgboot-vue3</title>
+    <updated>2022-05-29T02:55:30Z</updated>
+    <id>tag:github.com,2022-05-29:/jeecgboot/jeecgboot-vue3</id>
+    <link href="https://github.com/jeecgboot/jeecgboot-vue3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;采用 Vue3.0、Vite、 Ant-Design-Vue、TypeScript 等新技术方案，包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。 是在 Vben-Admin 基础上研发的，适合于JeecgBoot的新版前端VUE3框架。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vbenjs/vue-vben-admin</title>
+    <updated>2022-05-29T02:55:30Z</updated>
+    <id>tag:github.com,2022-05-29:/vbenjs/vue-vben-admin</id>
+    <link href="https://github.com/vbenjs/vue-vben-admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A modern vue admin. It is based on Vue3, vite and TypeScript. It&#39;s fast！&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>doocs/md</title>
+    <updated>2022-05-29T02:55:30Z</updated>
+    <id>tag:github.com,2022-05-29:/doocs/md</id>
+    <link href="https://github.com/doocs/md" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SelfhostedPro/Yacht</title>
+    <updated>2022-05-29T02:55:30Z</updated>
+    <id>tag:github.com,2022-05-29:/SelfhostedPro/Yacht</id>
+    <link href="https://github.com/SelfhostedPro/Yacht" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>qier222/YesPlayMusic</title>
+    <updated>2022-05-29T02:55:30Z</updated>
+    <id>tag:github.com,2022-05-29:/qier222/YesPlayMusic</id>
+    <link href="https://github.com/qier222/YesPlayMusic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;高颜值的第三方网易云播放器，支持 Windows / macOS / Linux&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>un-pany/v3-admin-vite</title>
+    <updated>2022-05-29T02:55:30Z</updated>
+    <id>tag:github.com,2022-05-29:/un-pany/v3-admin-vite</id>
+    <link href="https://github.com/un-pany/v3-admin-vite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;☀️ vue3 admin template, vue3 后台管理模板, 基于 vite、够轻、够新、够用&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bastienwirtz/homer</title>
+    <updated>2022-05-29T02:55:30Z</updated>
+    <id>tag:github.com,2022-05-29:/bastienwirtz/homer</id>
+    <link href="https://github.com/bastienwirtz/homer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A very simple static homepage for your server.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pipipi-pikachu/PPTist</title>
+    <updated>2022-05-29T02:55:30Z</updated>
+    <id>tag:github.com,2022-05-29:/pipipi-pikachu/PPTist</id>
+    <link href="https://github.com/pipipi-pikachu/PPTist" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于 Vue3.x + TypeScript 的在线演示文稿（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示。支持导出PPT文件。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jdf2e/nutui</title>
+    <updated>2022-05-29T02:55:30Z</updated>
+    <id>tag:github.com,2022-05-29:/jdf2e/nutui</id>
+    <link href="https://github.com/jdf2e/nutui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;京东风格的移动端 Vue2、Vue3 组件库 、支持多端小程序(A Vue.js UI Toolkit for Mobile Web)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vueComponent/ant-design-vue</title>
+    <updated>2022-05-29T02:55:30Z</updated>
+    <id>tag:github.com,2022-05-29:/vueComponent/ant-design-vue</id>
+    <link href="https://github.com/vueComponent/ant-design-vue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>PanJiaChen/vue-element-admin</title>
+    <updated>2022-05-29T02:55:30Z</updated>
+    <id>tag:github.com,2022-05-29:/PanJiaChen/vue-element-admin</id>
+    <link href="https://github.com/PanJiaChen/vue-element-admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>requarks/wiki</title>
+    <updated>2022-05-29T02:55:30Z</updated>
+    <id>tag:github.com,2022-05-29:/requarks/wiki</id>
+    <link href="https://github.com/requarks/wiki" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Wiki.js | A modern and powerful wiki app built on Node.js&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>salomonelli/best-resume-ever</title>
+    <updated>2022-05-29T02:55:30Z</updated>
+    <id>tag:github.com,2022-05-29:/salomonelli/best-resume-ever</id>
+    <link href="https://github.com/salomonelli/best-resume-ever" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vuejs/docs</title>
+    <updated>2022-05-29T02:55:30Z</updated>
+    <id>tag:github.com,2022-05-29:/vuejs/docs</id>
+    <link href="https://github.com/vuejs/docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📄 Documentation for Vue 3&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>miyuesc/bpmn-process-designer</title>
+    <updated>2022-05-29T02:55:30Z</updated>
+    <id>tag:github.com,2022-05-29:/miyuesc/bpmn-process-designer</id>
+    <link href="https://github.com/miyuesc/bpmn-process-designer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Base on Vue 2.x and ElementUI，基于 Bpmn.js、Vue 2.x 和 ElementUI 的流程编辑器（前端部分），支持监听器，扩展属性，表单等配置，可自由扩展&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>element-plus/element-plus-vite-starter</title>
+    <updated>2022-05-29T02:55:30Z</updated>
+    <id>tag:github.com,2022-05-29:/element-plus/element-plus-vite-starter</id>
+    <link href="https://github.com/element-plus/element-plus-vite-starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌰 A starter kit for Element Plus with Vite&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>chaitin/xray</title>
+    <updated>2022-05-29T02:55:30Z</updated>
+    <id>tag:github.com,2022-05-29:/chaitin/xray</id>
+    <link href="https://github.com/chaitin/xray" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

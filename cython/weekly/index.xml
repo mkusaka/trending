@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Cython Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-05-29T02:07:14Z</updated>
+  <subtitle>Weekly Trending of Cython in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mrjbq7/ta-lib</title>
+    <updated>2022-05-29T02:07:14Z</updated>
+    <id>tag:github.com,2022-05-29:/mrjbq7/ta-lib</id>
+    <link href="https://github.com/mrjbq7/ta-lib" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Python wrapper for TA-Lib (http://ta-lib.org/).&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>openai/mujoco-py</title>
+    <updated>2022-05-29T02:07:14Z</updated>
+    <id>tag:github.com,2022-05-29:/openai/mujoco-py</id>
+    <link href="https://github.com/openai/mujoco-py" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>macs3-project/MACS</title>
+    <updated>2022-05-29T02:07:14Z</updated>
+    <id>tag:github.com,2022-05-29:/macs3-project/MACS</id>
+    <link href="https://github.com/macs3-project/MACS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MACS -- Model-based Analysis of ChIP-Seq&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SAP/PyRFC</title>
+    <updated>2022-05-29T02:07:14Z</updated>
+    <id>tag:github.com,2022-05-29:/SAP/PyRFC</id>
+    <link href="https://github.com/SAP/PyRFC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Asynchronous, non-blocking SAP NW RFC SDK bindings for Python&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

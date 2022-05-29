@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub OpenSCAD Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-05-29T02:18:29Z</updated>
+  <subtitle>Weekly Trending of OpenSCAD in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>maduce/fosscad-repo</title>
+    <updated>2022-05-29T02:18:29Z</updated>
+    <id>tag:github.com,2022-05-29:/maduce/fosscad-repo</id>
+    <link href="https://github.com/maduce/fosscad-repo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official FOSSCAD Library Repository&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>revarbat/BOSL2</title>
+    <updated>2022-05-29T02:18:29Z</updated>
+    <id>tag:github.com,2022-05-29:/revarbat/BOSL2</id>
+    <link href="https://github.com/revarbat/BOSL2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Belfry OpenScad Library, v2.0. An OpenSCAD library of shapes, masks, and manipulators to make working with OpenSCAD easier. BETA&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

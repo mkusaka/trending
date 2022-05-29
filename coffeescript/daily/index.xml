@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Daily Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-05-29T01:37:37Z</updated>
+  <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>adaltas/node-csv</title>
+    <updated>2022-05-29T01:37:37Z</updated>
+    <id>tag:github.com,2022-05-29:/adaltas/node-csv</id>
+    <link href="https://github.com/adaltas/node-csv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Full featured CSV parser with simple api and tested against large datasets.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>basecamp/trix</title>
+    <updated>2022-05-29T01:37:37Z</updated>
+    <id>tag:github.com,2022-05-29:/basecamp/trix</id>
+    <link href="https://github.com/basecamp/trix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A rich text editor for everyday writing&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>turbolinks/turbolinks-classic</title>
+    <updated>2022-05-29T01:37:37Z</updated>
+    <id>tag:github.com,2022-05-29:/turbolinks/turbolinks-classic</id>
+    <link href="https://github.com/turbolinks/turbolinks-classic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Classic version of Turbolinks. Now deprecated in favor of Turbolinks 5.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>m9/hubot-basecamp-pomodoro</title>
+    <updated>2022-05-29T01:37:37Z</updated>
+    <id>tag:github.com,2022-05-29:/m9/hubot-basecamp-pomodoro</id>
+    <link href="https://github.com/m9/hubot-basecamp-pomodoro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Basecamp and Pomodoro integration for Github Hubot&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dropbox/zxcvbn</title>
+    <updated>2022-05-29T01:37:37Z</updated>
+    <id>tag:github.com,2022-05-29:/dropbox/zxcvbn</id>
+    <link href="https://github.com/dropbox/zxcvbn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Low-Budget Password Strength Estimation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>antho1404/chat.js</title>
+    <updated>2022-05-29T01:37:37Z</updated>
+    <id>tag:github.com,2022-05-29:/antho1404/chat.js</id>
+    <link href="https://github.com/antho1404/chat.js" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A node.js chat&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>FelisCatus/SwitchyOmega</title>
+    <updated>2022-05-29T01:37:37Z</updated>
+    <id>tag:github.com,2022-05-29:/FelisCatus/SwitchyOmega</id>
+    <link href="https://github.com/FelisCatus/SwitchyOmega" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Manage and switch between multiple proxies quickly &amp; easily.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mojs/mojs</title>
+    <updated>2022-05-29T01:37:37Z</updated>
+    <id>tag:github.com,2022-05-29:/mojs/mojs</id>
+    <link href="https://github.com/mojs/mojs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The motion graphics toolbelt for the web&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fragaria/angular-daterangepicker</title>
+    <updated>2022-05-29T01:37:37Z</updated>
+    <id>tag:github.com,2022-05-29:/fragaria/angular-daterangepicker</id>
+    <link href="https://github.com/fragaria/angular-daterangepicker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Angular.js wrapper for dangrossman/bootstrap-daterangepicker&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>michaelficarra/CoffeeScriptRedux</title>
+    <updated>2022-05-29T01:37:37Z</updated>
+    <id>tag:github.com,2022-05-29:/michaelficarra/CoffeeScriptRedux</id>
+    <link href="https://github.com/michaelficarra/CoffeeScriptRedux" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;😓 rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>chuanyi/msexcel-builder</title>
+    <updated>2022-05-29T01:37:37Z</updated>
+    <id>tag:github.com,2022-05-29:/chuanyi/msexcel-builder</id>
+    <link href="https://github.com/chuanyi/msexcel-builder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple and fast library to create MS Office Excel(&gt;2007) xlsx files.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>s0ber/ijax</title>
+    <updated>2022-05-29T01:37:37Z</updated>
+    <id>tag:github.com,2022-05-29:/s0ber/ijax</id>
+    <link href="https://github.com/s0ber/ijax" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Library for creating GET ajax requests via iframe&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>s0ber/mock-async</title>
+    <updated>2022-05-29T01:37:37Z</updated>
+    <id>tag:github.com,2022-05-29:/s0ber/mock-async</id>
+    <link href="https://github.com/s0ber/mock-async" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple one-method library for mocking asynchronous methods&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>codecombat/codecombat</title>
+    <updated>2022-05-29T01:37:37Z</updated>
+    <id>tag:github.com,2022-05-29:/codecombat/codecombat</id>
+    <link href="https://github.com/codecombat/codecombat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Game for learning how to code.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>node-cache/node-cache</title>
+    <updated>2022-05-29T01:37:37Z</updated>
+    <id>tag:github.com,2022-05-29:/node-cache/node-cache</id>
+    <link href="https://github.com/node-cache/node-cache" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a node internal (in-memory) caching module&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>morrisjs/morris.js</title>
+    <updated>2022-05-29T01:37:37Z</updated>
+    <id>tag:github.com,2022-05-29:/morrisjs/morris.js</id>
+    <link href="https://github.com/morrisjs/morris.js" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pretty time-series line graphs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nicolaskruchten/pivottable</title>
+    <updated>2022-05-29T01:37:37Z</updated>
+    <id>tag:github.com,2022-05-29:/nicolaskruchten/pivottable</id>
+    <link href="https://github.com/nicolaskruchten/pivottable" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag&#39;n&#39;drop.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hellodigit/bondjs</title>
+    <updated>2022-05-29T01:37:37Z</updated>
+    <id>tag:github.com,2022-05-29:/hellodigit/bondjs</id>
+    <link href="https://github.com/hellodigit/bondjs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Deprecated, use sinon&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>danielgtaylor/aglio</title>
+    <updated>2022-05-29T01:37:37Z</updated>
+    <id>tag:github.com,2022-05-29:/danielgtaylor/aglio</id>
+    <link href="https://github.com/danielgtaylor/aglio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An API Blueprint renderer with theme support that outputs static HTML&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

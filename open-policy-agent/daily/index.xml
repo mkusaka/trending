@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Open Policy Agent Daily Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-05-29T01:49:40Z</updated>
+  <subtitle>Daily Trending of Open Policy Agent in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure/azure-policy</title>
+    <updated>2022-05-29T01:49:40Z</updated>
+    <id>tag:github.com,2022-05-29:/Azure/azure-policy</id>
+    <link href="https://github.com/Azure/azure-policy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for Azure Resource Policy built-in definitions and samples&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>openvinotoolkit/cvat</title>
+    <updated>2022-05-29T01:49:40Z</updated>
+    <id>tag:github.com,2022-05-29:/openvinotoolkit/cvat</id>
+    <link href="https://github.com/openvinotoolkit/cvat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Powerful and efficient Computer Vision Annotation Tool (CVAT)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Checkmarx/kics</title>
+    <updated>2022-05-29T01:49:40Z</updated>
+    <id>tag:github.com,2022-05-29:/Checkmarx/kics</id>
+    <link href="https://github.com/Checkmarx/kics" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>open-policy-agent/gatekeeper-library</title>
+    <updated>2022-05-29T01:49:40Z</updated>
+    <id>tag:github.com,2022-05-29:/open-policy-agent/gatekeeper-library</id>
+    <link href="https://github.com/open-policy-agent/gatekeeper-library" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The OPA Gatekeeper policy library.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

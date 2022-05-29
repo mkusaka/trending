@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Visual Basic .NET Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-05-29T02:55:16Z</updated>
+  <subtitle>Monthly Trending of Visual Basic .NET in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pdftables/vba-pdftables-api</title>
+    <updated>2022-05-29T02:55:16Z</updated>
+    <id>tag:github.com,2022-05-29:/pdftables/vba-pdftables-api</id>
+    <link href="https://github.com/pdftables/vba-pdftables-api" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Visual Basic for Applications macros for using the PDFTables.com API; contributed by Dan Elgaard&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>VBA-tools/VBA-JSON</title>
+    <updated>2022-05-29T02:55:16Z</updated>
+    <id>tag:github.com,2022-05-29:/VBA-tools/VBA-JSON</id>
+    <link href="https://github.com/VBA-tools/VBA-JSON" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JSON conversion and parsing for VBA&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>NYAN-x-CAT/Lime-RAT</title>
+    <updated>2022-05-29T02:55:16Z</updated>
+    <id>tag:github.com,2022-05-29:/NYAN-x-CAT/Lime-RAT</id>
+    <link href="https://github.com/NYAN-x-CAT/Lime-RAT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LimeRAT | Simple, yet powerful remote administration tool for Windows (RAT)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>DangerMouseB/QUtils</title>
+    <updated>2022-05-29T02:55:16Z</updated>
+    <id>tag:github.com,2022-05-29:/DangerMouseB/QUtils</id>
+    <link href="https://github.com/DangerMouseB/QUtils" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A C-Style DLL that exposes QCommon for use in XL&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>VBA-tools/VBA-Web</title>
+    <updated>2022-05-29T02:55:16Z</updated>
+    <id>tag:github.com,2022-05-29:/VBA-tools/VBA-Web</id>
+    <link href="https://github.com/VBA-tools/VBA-Web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;VBA-Web: Connect VBA, Excel, Access, and Office for Windows and Mac to web services and the web&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MightAndMagic/Mighty-Remote-Control-Client</title>
+    <updated>2022-05-29T02:55:16Z</updated>
+    <id>tag:github.com,2022-05-29:/MightAndMagic/Mighty-Remote-Control-Client</id>
+    <link href="https://github.com/MightAndMagic/Mighty-Remote-Control-Client" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smalltalk Daily Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-05-29T01:54:52Z</updated>
+  <subtitle>Daily Trending of Smalltalk in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pharo-contributions/OSSubprocess</title>
+    <updated>2022-05-29T01:54:52Z</updated>
+    <id>tag:github.com,2022-05-29:/pharo-contributions/OSSubprocess</id>
+    <link href="https://github.com/pharo-contributions/OSSubprocess" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Forking Operating System Processes from within Pharo Language&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pharo-ide/Ghost</title>
+    <updated>2022-05-29T01:54:52Z</updated>
+    <id>tag:github.com,2022-05-29:/pharo-ide/Ghost</id>
+    <link href="https://github.com/pharo-ide/Ghost" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ghost is framework to implement unnatural smalltalk objects like proxies or prototypes&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>svenvc/NeoJSON</title>
+    <updated>2022-05-29T01:54:52Z</updated>
+    <id>tag:github.com,2022-05-29:/svenvc/NeoJSON</id>
+    <link href="https://github.com/svenvc/NeoJSON" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NeoJSON is an elegant and efficient standalone Smalltalk framework to read and write JSON converting to or from Smalltalk objects.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>juliendelplanque/Python3Generator</title>
+    <updated>2022-05-29T01:54:52Z</updated>
+    <id>tag:github.com,2022-05-29:/juliendelplanque/Python3Generator</id>
+    <link href="https://github.com/juliendelplanque/Python3Generator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A toolkit to generate Python 3 source code from Pharo.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/gtoolkit-utility</title>
+    <updated>2022-05-29T01:54:52Z</updated>
+    <id>tag:github.com,2022-05-29:/feenkcom/gtoolkit-utility</id>
+    <link href="https://github.com/feenkcom/gtoolkit-utility" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pharo integrations&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/linkeddata</title>
+    <updated>2022-05-29T01:54:52Z</updated>
+    <id>tag:github.com,2022-05-29:/feenkcom/linkeddata</id>
+    <link href="https://github.com/feenkcom/linkeddata" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Linked Data is structured data which is interlinked with other data so it becomes more useful through semantic queries&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kursjan/petitparser2</title>
+    <updated>2022-05-29T01:54:52Z</updated>
+    <id>tag:github.com,2022-05-29:/kursjan/petitparser2</id>
+    <link href="https://github.com/kursjan/petitparser2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A high-performance top-down parser&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pharo-contributions/BitmapCharacterSet</title>
+    <updated>2022-05-29T01:54:52Z</updated>
+    <id>tag:github.com,2022-05-29:/pharo-contributions/BitmapCharacterSet</id>
+    <link href="https://github.com/pharo-contributions/BitmapCharacterSet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;BitmapCharacterSet is a set for characters that uses a bitmap for storing wide characters and an array of truth values for byte characters. Used by XMLParser.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dionisiydk/StateSpecs</title>
+    <updated>2022-05-29T01:54:52Z</updated>
+    <id>tag:github.com,2022-05-29:/dionisiydk/StateSpecs</id>
+    <link href="https://github.com/dionisiydk/StateSpecs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Object validation framework based on first class specs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>smarr/SMark</title>
+    <updated>2022-05-29T01:54:52Z</updated>
+    <id>tag:github.com,2022-05-29:/smarr/SMark</id>
+    <link href="https://github.com/smarr/SMark" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Write Benchmarks like Tests&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pharo-contributions/Athens-SVG</title>
+    <updated>2022-05-29T01:54:52Z</updated>
+    <id>tag:github.com,2022-05-29:/pharo-contributions/Athens-SVG</id>
+    <link href="https://github.com/pharo-contributions/Athens-SVG" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SVG support for Athens framework in Pharo&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pharo-contributions/CollectionExtensions</title>
+    <updated>2022-05-29T01:54:52Z</updated>
+    <id>tag:github.com,2022-05-29:/pharo-contributions/CollectionExtensions</id>
+    <link href="https://github.com/pharo-contributions/CollectionExtensions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;I am a project containing extensions of the Pharo collection API.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>svenvc/zodiac</title>
+    <updated>2022-05-29T01:54:52Z</updated>
+    <id>tag:github.com,2022-05-29:/svenvc/zodiac</id>
+    <link href="https://github.com/svenvc/zodiac" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Zodiac is an open-source Smalltalk framework implementing TLS/SSL secure as well as regular socket streams.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/JavaScriptGenerator</title>
+    <updated>2022-05-29T01:54:52Z</updated>
+    <id>tag:github.com,2022-05-29:/feenkcom/JavaScriptGenerator</id>
+    <link href="https://github.com/feenkcom/JavaScriptGenerator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A toolkit to generate JavaScript source code from Pharo.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/gtoolkit-examples</title>
+    <updated>2022-05-29T01:54:52Z</updated>
+    <id>tag:github.com,2022-05-29:/feenkcom/gtoolkit-examples</id>
+    <link href="https://github.com/feenkcom/gtoolkit-examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The engine for example-driven development in Pharo.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/gtoolkit-spotter</title>
+    <updated>2022-05-29T01:54:52Z</updated>
+    <id>tag:github.com,2022-05-29:/feenkcom/gtoolkit-spotter</id>
+    <link href="https://github.com/feenkcom/gtoolkit-spotter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The moldable search tool.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/gtoolkit-external-process</title>
+    <updated>2022-05-29T01:54:52Z</updated>
+    <id>tag:github.com,2022-05-29:/feenkcom/gtoolkit-external-process</id>
+    <link href="https://github.com/feenkcom/gtoolkit-external-process" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Pharo library for cross-platform running of external commands and getting their output.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/gtoolkit-remote-python</title>
+    <updated>2022-05-29T01:54:52Z</updated>
+    <id>tag:github.com,2022-05-29:/feenkcom/gtoolkit-remote-python</id>
+    <link href="https://github.com/feenkcom/gtoolkit-remote-python" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gtoolkit specific functionality for Python integration&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/gt4ruby</title>
+    <updated>2022-05-29T01:54:52Z</updated>
+    <id>tag:github.com,2022-05-29:/feenkcom/gt4ruby</id>
+    <link href="https://github.com/feenkcom/gt4ruby" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/gtoolkit-clipboard</title>
+    <updated>2022-05-29T01:54:52Z</updated>
+    <id>tag:github.com,2022-05-29:/feenkcom/gtoolkit-clipboard</id>
+    <link href="https://github.com/feenkcom/gtoolkit-clipboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Glamorous Toolkit bindings to Clipboard&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/gtoolkit-phlow</title>
+    <updated>2022-05-29T01:54:52Z</updated>
+    <id>tag:github.com,2022-05-29:/feenkcom/gtoolkit-phlow</id>
+    <link href="https://github.com/feenkcom/gtoolkit-phlow" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The GT engine for scripting reactive browsers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/JSLink</title>
+    <updated>2022-05-29T01:54:52Z</updated>
+    <id>tag:github.com,2022-05-29:/feenkcom/JSLink</id>
+    <link href="https://github.com/feenkcom/JSLink" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A bridge between Pharo and JavaScript&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/gtoolkit-pager</title>
+    <updated>2022-05-29T01:54:52Z</updated>
+    <id>tag:github.com,2022-05-29:/feenkcom/gtoolkit-pager</id>
+    <link href="https://github.com/feenkcom/gtoolkit-pager" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The tool that spawns other tools (inspector, playground, debugger, ...) into pages&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/gt4famix3</title>
+    <updated>2022-05-29T01:54:52Z</updated>
+    <id>tag:github.com,2022-05-29:/feenkcom/gt4famix3</id>
+    <link href="https://github.com/feenkcom/gt4famix3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository holds the Glamorous Toolkit extensions for Famix3.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/pharo-debugadapterprotocol</title>
+    <updated>2022-05-29T01:54:52Z</updated>
+    <id>tag:github.com,2022-05-29:/feenkcom/pharo-debugadapterprotocol</id>
+    <link href="https://github.com/feenkcom/pharo-debugadapterprotocol" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Debug Adapter Protocol client for Pharo&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

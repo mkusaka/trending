@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Gherkin Daily Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-05-29T01:41:58Z</updated>
+  <subtitle>Daily Trending of Gherkin in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>algorand/algorand-sdk-testing</title>
+    <updated>2022-05-29T01:41:58Z</updated>
+    <id>tag:github.com,2022-05-29:/algorand/algorand-sdk-testing</id>
+    <link href="https://github.com/algorand/algorand-sdk-testing" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Testing framework for Algorand SDKs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>opencypher/openCypher</title>
+    <updated>2022-05-29T01:41:58Z</updated>
+    <id>tag:github.com,2022-05-29:/opencypher/openCypher</id>
+    <link href="https://github.com/opencypher/openCypher" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Specification of the Cypher property graph query language&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>moodle-an-hochschulen/moodle-local_boostnavigation</title>
+    <updated>2022-05-29T01:41:58Z</updated>
+    <id>tag:github.com,2022-05-29:/moodle-an-hochschulen/moodle-local_boostnavigation</id>
+    <link href="https://github.com/moodle-an-hochschulen/moodle-local_boostnavigation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Moodle plugin which tries to overcome some fixed appearance behaviours of Boost&#39;s nav drawer in a clean way&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>thoughtbot/factory_bot_rails</title>
+    <updated>2022-05-29T01:41:58Z</updated>
+    <id>tag:github.com,2022-05-29:/thoughtbot/factory_bot_rails</id>
+    <link href="https://github.com/thoughtbot/factory_bot_rails" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Factory Bot ♥ Rails&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

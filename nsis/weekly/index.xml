@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub NSIS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-05-29T02:17:27Z</updated>
+  <subtitle>Weekly Trending of NSIS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bituq/Roshade</title>
+    <updated>2022-05-29T02:17:27Z</updated>
+    <id>tag:github.com,2022-05-29:/bituq/Roshade</id>
+    <link href="https://github.com/bituq/Roshade" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An installation package made in NSIS for installing Reshade presets and shaders to Roblox.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>voicemxil/TS2-Starter-Pack</title>
+    <updated>2022-05-29T02:17:27Z</updated>
+    <id>tag:github.com,2022-05-29:/voicemxil/TS2-Starter-Pack</id>
+    <link href="https://github.com/voicemxil/TS2-Starter-Pack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Resources for download &amp; setup of TS2: Ultimate Collection.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

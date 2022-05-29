@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Cuda Daily Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-05-29T01:38:21Z</updated>
+  <subtitle>Daily Trending of Cuda in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>NVlabs/instant-ngp</title>
+    <updated>2022-05-29T01:38:21Z</updated>
+    <id>tag:github.com,2022-05-29:/NVlabs/instant-ngp</id>
+    <link href="https://github.com/NVlabs/instant-ngp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Instant neural graphics primitives: lightning fast NeRF and more&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zhen-xie/Tahoe</title>
+    <updated>2022-05-29T01:38:21Z</updated>
+    <id>tag:github.com,2022-05-29:/zhen-xie/Tahoe</id>
+    <link href="https://github.com/zhen-xie/Tahoe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tahoe: Tree Structure-Aware High Performance Inference Engine for Decision Tree Ensemble on GPU&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA/warp</title>
+    <updated>2022-05-29T01:38:21Z</updated>
+    <id>tag:github.com,2022-05-29:/NVIDIA/warp</id>
+    <link href="https://github.com/NVIDIA/warp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Python framework for high performance GPU simulation and graphics&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rapidsai/cuml</title>
+    <updated>2022-05-29T01:38:21Z</updated>
+    <id>tag:github.com,2022-05-29:/rapidsai/cuml</id>
+    <link href="https://github.com/rapidsai/cuml" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;cuML - RAPIDS Machine Learning Library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>princeton-vl/lietorch</title>
+    <updated>2022-05-29T01:38:21Z</updated>
+    <id>tag:github.com,2022-05-29:/princeton-vl/lietorch</id>
+    <link href="https://github.com/princeton-vl/lietorch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>leoxiaobin/deep-high-resolution-net.pytorch</title>
+    <updated>2022-05-29T01:38:21Z</updated>
+    <id>tag:github.com,2022-05-29:/leoxiaobin/deep-high-resolution-net.pytorch</id>
+    <link href="https://github.com/leoxiaobin/deep-high-resolution-net.pytorch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The project is an official implementation of our CVPR2019 paper &#34;Deep High-Resolution Representation Learning for Human Pose Estimation&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA/nccl-tests</title>
+    <updated>2022-05-29T01:38:21Z</updated>
+    <id>tag:github.com,2022-05-29:/NVIDIA/nccl-tests</id>
+    <link href="https://github.com/NVIDIA/nccl-tests" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NCCL Tests&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

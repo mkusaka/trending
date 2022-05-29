@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Crystal Daily Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-05-29T01:38:01Z</updated>
+  <subtitle>Daily Trending of Crystal in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>crystal-lang/crystal</title>
+    <updated>2022-05-29T01:38:01Z</updated>
+    <id>tag:github.com,2022-05-29:/crystal-lang/crystal</id>
+    <link href="https://github.com/crystal-lang/crystal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Crystal Programming Language&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Anyolite/anyolite</title>
+    <updated>2022-05-29T01:38:01Z</updated>
+    <id>tag:github.com,2022-05-29:/Anyolite/anyolite</id>
+    <link href="https://github.com/Anyolite/anyolite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Embedded mruby/Ruby for Crystal&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
