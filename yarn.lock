@@ -5,10 +5,10 @@ __metadata:
   version: 4
   cacheKey: 7
 
-"@types/node@npm:^14.14.6":
-  version: 14.14.6
-  resolution: "@types/node@npm:14.14.6"
-  checksum: 9b06b04ab2ae3761136fb39b573f95d90e748ebcf232e126304d642e4910039a74973547635729b627a0401791a1f2491aa9aa6d4d6bb80922a0b869a2731a63
+"@types/node@npm:^16.0.0":
+  version: 16.11.36
+  resolution: "@types/node@npm:16.11.36"
+  checksum: 569084ec8b11c62a9efcb91561b58106597f5f44709720dbc6b46231b972fefafe1b61b85803f1ed28fd3216050ae07aba8d6f3f5d1539dfb50447415217e2fc
   languageName: node
   linkType: hard
 
@@ -370,7 +370,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "trending@workspace:."
   dependencies:
-    "@types/node": ^14.14.6
+    "@types/node": ^16.0.0
     gh-pages: 4.0.0
   languageName: unknown
   linkType: soft

@@ -6,7 +6,7 @@
   "author": "mkusaka <hinoshita1992@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@types/node": "^14.14.6"
+    "@types/node": "^16.0.0"
   },
   "scripts": {
     "deploy": "gh-pages -d out"
