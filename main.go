@@ -10,7 +10,6 @@ import (
 	"github.com/mmcdole/gofeed"
 	_ "github.com/motemen/go-loghttp/global"
 	"github.com/pkg/errors"
-	"golang.org/x/sync/errgroup"
 )
 
 const baseUrl = "https://mshibanami.github.io/GitHubTrendingRSS"
@@ -45,65 +44,58 @@ func run() error {
 		}
 	}
 
-	eg := errgroup.Group{}
 	for _, urlAndDirectory := range urlAndDirectories {
 		und := urlAndDirectory
-		eg.Go(func() error {
-			fp := gofeed.NewParser()
-			parsedFeed, err := fp.ParseURL(und.Url)
-			if err != nil {
-				fmt.Printf("failed to parse: %s with: %+v\n", und.Url, errors.WithStack(err))
-				return nil
+		fp := gofeed.NewParser()
+		parsedFeed, err := fp.ParseURL(und.Url)
+		if err != nil {
+			fmt.Printf("failed to parse: %s with: %+v\n", und.Url, errors.WithStack(err))
+			continue
 
-				// some feed sometime failed..
-				//return errors.WithStack(err)
-			}
+			// some feed sometime failed..
+			//return errors.WithStack(err)
+		}
 
-			feed := &feeds.Feed{
-				Title:       parsedFeed.Title,
-				Description: parsedFeed.Description,
-				//Updated:     *parsedFeed.UpdatedParsed,
-				Created: *parsedFeed.PublishedParsed,
+		feed := &feeds.Feed{
+			Title:       parsedFeed.Title,
+			Description: parsedFeed.Description,
+			//Updated:     *parsedFeed.UpdatedParsed,
+			Created: *parsedFeed.PublishedParsed,
+			Link: &feeds.Link{
+				Href: parsedFeed.Link,
+			},
+		}
+
+		for _, item := range parsedFeed.Items {
+			feed.Items = append(feed.Items, &feeds.Item{
+				Title: item.Title,
 				Link: &feeds.Link{
-					Href: parsedFeed.Link,
+					Href: item.Link,
 				},
-			}
+				Description: item.Description,
+				Updated:     *parsedFeed.PublishedParsed,
+				Created:     *parsedFeed.PublishedParsed,
+			})
+		}
+		f, err := feed.ToAtom()
+		if err != nil {
+			return errors.WithStack(err)
+		}
 
-			for _, item := range parsedFeed.Items {
-				feed.Items = append(feed.Items, &feeds.Item{
-					Title: item.Title,
-					Link: &feeds.Link{
-						Href: item.Link,
-					},
-					Description: item.Description,
-					Updated:     *parsedFeed.PublishedParsed,
-					Created:     *parsedFeed.PublishedParsed,
-				})
-			}
-			f, err := feed.ToAtom()
-			if err != nil {
-				return errors.WithStack(err)
-			}
+		fmt.Printf("create directory %s start...\n", und.Directory)
+		err = os.MkdirAll(und.Directory, os.ModePerm)
+		fmt.Printf("create directory %s done...\n", und.Directory)
+		if err != nil {
+			return errors.WithStack(err)
+		}
 
-			fmt.Printf("create directory %s start...\n", und.Directory)
-			err = os.MkdirAll(und.Directory, os.ModePerm)
-			fmt.Printf("create directory %s done...\n", und.Directory)
-			if err != nil {
-				return errors.WithStack(err)
-			}
+		file := path.Join(und.Directory, "index.xml")
+		fmt.Printf("write file %s start...\n", file)
+		err = ioutil.WriteFile(file, []byte(f), os.ModePerm)
+		fmt.Printf("write file %s done...\n", file)
 
-			file := path.Join(und.Directory, "index.xml")
-			fmt.Printf("write file %s start...\n", file)
-			err = ioutil.WriteFile(file, []byte(f), os.ModePerm)
-			fmt.Printf("write file %s done...\n", file)
-
-			if err != nil {
-				return errors.WithStack(err)
-			}
-			return nil
-		})
-		if err := eg.Wait(); err != nil {
-			return err
+		if err != nil {
+			return errors.WithStack(err)
 		}
 	}
 
