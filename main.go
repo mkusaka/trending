@@ -8,6 +8,7 @@ import (
 
 	"github.com/gorilla/feeds"
 	"github.com/mmcdole/gofeed"
+	_ "github.com/motemen/go-loghttp/global"
 	"github.com/pkg/errors"
 	"golang.org/x/sync/errgroup"
 )
@@ -45,12 +46,11 @@ func run() error {
 	}
 	eg := errgroup.Group{}
 
-	fp := gofeed.NewParser()
-	fmt.Println("urlAndDirectories", urlAndDirectories)
-
 	for _, urlAndDirectory := range urlAndDirectories {
+		und := urlAndDirectory
 		eg.Go(func() error {
-			parsedFeed, err := fp.ParseURL(urlAndDirectory.Url)
+			fp := gofeed.NewParser()
+			parsedFeed, err := fp.ParseURL(und.Url)
 			if err != nil {
 				return errors.WithStack(err)
 			}
@@ -81,12 +81,17 @@ func run() error {
 				return errors.WithStack(err)
 			}
 
-			err = os.MkdirAll(urlAndDirectory.Directory, os.ModePerm)
+			fmt.Printf("create directory %s start...\n", und.Directory)
+			err = os.MkdirAll(und.Directory, os.ModePerm)
+			fmt.Printf("create directory %s done...\n", und.Directory)
 			if err != nil {
 				return errors.WithStack(err)
 			}
 
-			err = ioutil.WriteFile(path.Join(urlAndDirectory.Directory, "index.xml"), []byte(f), os.ModePerm)
+			file := path.Join(und.Directory, "index.xml")
+			fmt.Printf("write file %s start...\n", file)
+			err = ioutil.WriteFile(file, []byte(f), os.ModePerm)
+			fmt.Printf("write file %s done...\n", file)
 
 			if err != nil {
 				return errors.WithStack(err)
