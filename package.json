@@ -9,7 +9,8 @@
     "@types/node": "^16.0.0"
   },
   "scripts": {
-    "deploy": "gh-pages -d out"
+    "deploy": "gh-pages -d out",
+    "deploy:ci": "gh-pages -d out -u 'github-actions-bot <support+actions@github.com>'"
   },
   "devDependencies": {
     "gh-pages": "4.0.0"
