@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Prolog Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T02:20:02Z</updated>
+  <updated>2022-05-30T02:18:42Z</updated>
   <subtitle>Weekly Trending of Prolog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>JoeSc/Kitchen_CTRL_PCB</title>
-    <updated>2022-05-29T02:20:02Z</updated>
-    <id>tag:github.com,2022-05-29:/JoeSc/Kitchen_CTRL_PCB</id>
+    <updated>2022-05-30T02:18:42Z</updated>
+    <id>tag:github.com,2022-05-30:/JoeSc/Kitchen_CTRL_PCB</id>
     <link href="https://github.com/JoeSc/Kitchen_CTRL_PCB" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Control PCB for Kitchen LED&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>terminusdb/terminusdb</title>
-    <updated>2022-05-29T02:20:02Z</updated>
-    <id>tag:github.com,2022-05-29:/terminusdb/terminusdb</id>
-    <link href="https://github.com/terminusdb/terminusdb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;TerminusDB is a distributed database with a collaboration model&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

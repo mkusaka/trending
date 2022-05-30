@@ -1,182 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T01:55:02Z</updated>
+  <updated>2022-05-30T01:53:18Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ethereum/EIPs</title>
-    <updated>2022-05-29T01:55:02Z</updated>
-    <id>tag:github.com,2022-05-29:/ethereum/EIPs</id>
-    <link href="https://github.com/ethereum/EIPs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Ethereum Improvement Proposal repository&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>HashLips/hashlips_nft_contract</title>
-    <updated>2022-05-29T01:55:02Z</updated>
-    <id>tag:github.com,2022-05-29:/HashLips/hashlips_nft_contract</id>
-    <link href="https://github.com/HashLips/hashlips_nft_contract" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple NFT smart contract that works with the rest of the HashLips ecosystem.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>OpenZeppelin/openzeppelin-contracts-upgradeable</title>
-    <updated>2022-05-29T01:55:02Z</updated>
-    <id>tag:github.com,2022-05-29:/OpenZeppelin/openzeppelin-contracts-upgradeable</id>
-    <link href="https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>libevm/subway</title>
-    <updated>2022-05-29T01:55:02Z</updated>
-    <id>tag:github.com,2022-05-29:/libevm/subway</id>
-    <link href="https://github.com/libevm/subway" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A practical example on how to perform sandwich attacks on Ethereum&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>paco0x/amm-arbitrageur</title>
-    <updated>2022-05-29T01:55:02Z</updated>
-    <id>tag:github.com,2022-05-29:/paco0x/amm-arbitrageur</id>
+    <updated>2022-05-30T01:53:18Z</updated>
+    <id>tag:github.com,2022-05-30:/paco0x/amm-arbitrageur</id>
     <link href="https://github.com/paco0x/amm-arbitrageur" rel="alternate"></link>
     <summary type="html">&lt;p&gt;An arbitrage bot between Uniswap AMMs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>fravoll/solidity-patterns</title>
-    <updated>2022-05-29T01:55:02Z</updated>
-    <id>tag:github.com,2022-05-29:/fravoll/solidity-patterns</id>
-    <link href="https://github.com/fravoll/solidity-patterns" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A compilation of patterns and best practices for the smart contract programming language Solidity&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nibbstack/erc721</title>
-    <updated>2022-05-29T01:55:02Z</updated>
-    <id>tag:github.com,2022-05-29:/nibbstack/erc721</id>
-    <link href="https://github.com/nibbstack/erc721" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The reference implementation of the ERC-721 non-fungible token standard.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>OpenZeppelin/openzeppelin-contracts-upgradeable</title>
+    <updated>2022-05-30T01:53:18Z</updated>
+    <id>tag:github.com,2022-05-30:/OpenZeppelin/openzeppelin-contracts-upgradeable</id>
+    <link href="https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>Dapp-Learning-DAO/Dapp-Learning</title>
-    <updated>2022-05-29T01:55:02Z</updated>
-    <id>tag:github.com,2022-05-29:/Dapp-Learning-DAO/Dapp-Learning</id>
+    <updated>2022-05-30T01:53:18Z</updated>
+    <id>tag:github.com,2022-05-30:/Dapp-Learning-DAO/Dapp-Learning</id>
     <link href="https://github.com/Dapp-Learning-DAO/Dapp-Learning" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jamesbachini/DEX-Arbitrage</title>
-    <updated>2022-05-29T01:55:02Z</updated>
-    <id>tag:github.com,2022-05-29:/jamesbachini/DEX-Arbitrage</id>
-    <link href="https://github.com/jamesbachini/DEX-Arbitrage" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Example arbitrage trading bot&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Saw-mon-and-Natalie/forge-etk-template</title>
-    <updated>2022-05-29T01:55:02Z</updated>
-    <id>tag:github.com,2022-05-29:/Saw-mon-and-Natalie/forge-etk-template</id>
-    <link href="https://github.com/Saw-mon-and-Natalie/forge-etk-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⛳ Template for Forge + EVM Toolkit&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>runtimeverification/verified-smart-contracts</title>
-    <updated>2022-05-29T01:55:02Z</updated>
-    <id>tag:github.com,2022-05-29:/runtimeverification/verified-smart-contracts</id>
-    <link href="https://github.com/runtimeverification/verified-smart-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Smart contracts which are formally verified&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>FraxFinance/frax-solidity</title>
-    <updated>2022-05-29T01:55:02Z</updated>
-    <id>tag:github.com,2022-05-29:/FraxFinance/frax-solidity</id>
-    <link href="https://github.com/FraxFinance/frax-solidity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Solidity implementation of the Frax Protocol&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Metaschoolso/Learning-Projects</title>
-    <updated>2022-05-29T01:55:02Z</updated>
-    <id>tag:github.com,2022-05-29:/Metaschoolso/Learning-Projects</id>
-    <link href="https://github.com/Metaschoolso/Learning-Projects" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;All the learning projects code from Metaschool website.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>compound-finance/compound-protocol</title>
-    <updated>2022-05-29T01:55:02Z</updated>
-    <id>tag:github.com,2022-05-29:/compound-finance/compound-protocol</id>
-    <link href="https://github.com/compound-finance/compound-protocol" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Compound On-Chain Protocol&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>willitscale/learning-solidity</title>
-    <updated>2022-05-29T01:55:02Z</updated>
-    <id>tag:github.com,2022-05-29:/willitscale/learning-solidity</id>
-    <link href="https://github.com/willitscale/learning-solidity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The companion to the Youtube tutorials&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>maple-labs/contract-test-utils</title>
-    <updated>2022-05-29T01:55:02Z</updated>
-    <id>tag:github.com,2022-05-29:/maple-labs/contract-test-utils</id>
-    <link href="https://github.com/maple-labs/contract-test-utils" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;It provides helper functions to test the maple-core contracts.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ethereum/legacytests</title>
-    <updated>2022-05-29T01:55:02Z</updated>
-    <id>tag:github.com,2022-05-29:/ethereum/legacytests</id>
-    <link href="https://github.com/ethereum/legacytests" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Rari-Capital/solmate</title>
-    <updated>2022-05-29T01:55:02Z</updated>
-    <id>tag:github.com,2022-05-29:/Rari-Capital/solmate</id>
-    <link href="https://github.com/Rari-Capital/solmate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Modern, opinionated, and gas optimized building blocks for smart contract development.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>thirdweb-dev/contracts</title>
+    <updated>2022-05-30T01:53:18Z</updated>
+    <id>tag:github.com,2022-05-30:/thirdweb-dev/contracts</id>
+    <link href="https://github.com/thirdweb-dev/contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of smart contracts deployable via thirdweb&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>Uniswap/v2-periphery</title>
-    <updated>2022-05-29T01:55:02Z</updated>
-    <id>tag:github.com,2022-05-29:/Uniswap/v2-periphery</id>
+    <updated>2022-05-30T01:53:18Z</updated>
+    <id>tag:github.com,2022-05-30:/Uniswap/v2-periphery</id>
     <link href="https://github.com/Uniswap/v2-periphery" rel="alternate"></link>
     <summary type="html">&lt;p&gt;🎚 Peripheral smart contracts for interacting with Uniswap V2&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>net2devcrypto/nftstaking</title>
-    <updated>2022-05-29T01:55:02Z</updated>
-    <id>tag:github.com,2022-05-29:/net2devcrypto/nftstaking</id>
-    <link href="https://github.com/net2devcrypto/nftstaking" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Stake your ERC721 NFTs and issue ERC20 Tokens as Rewards!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>libevm/subway</title>
+    <updated>2022-05-30T01:53:18Z</updated>
+    <id>tag:github.com,2022-05-30:/libevm/subway</id>
+    <link href="https://github.com/libevm/subway" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A practical example on how to perform sandwich attacks on Ethereum&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CodeforDAO/contracts</title>
-    <updated>2022-05-29T01:55:02Z</updated>
-    <id>tag:github.com,2022-05-29:/CodeforDAO/contracts</id>
-    <link href="https://github.com/CodeforDAO/contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;smart contracts of codefordao&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>HashLips/solidity_smart_contracts</title>
+    <updated>2022-05-30T01:53:18Z</updated>
+    <id>tag:github.com,2022-05-30:/HashLips/solidity_smart_contracts</id>
+    <link href="https://github.com/HashLips/solidity_smart_contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A list of smart contracts coded in solidity&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>unlock-protocol/unlock</title>
-    <updated>2022-05-29T01:55:02Z</updated>
-    <id>tag:github.com,2022-05-29:/unlock-protocol/unlock</id>
-    <link href="https://github.com/unlock-protocol/unlock" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ʉnlock is a protocol for memberships built on a blockchain.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Rari-Capital/solmate</title>
+    <updated>2022-05-30T01:53:18Z</updated>
+    <id>tag:github.com,2022-05-30:/Rari-Capital/solmate</id>
+    <link href="https://github.com/Rari-Capital/solmate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modern, opinionated, and gas optimized building blocks for smart contract development.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>crytic/building-secure-contracts</title>
-    <updated>2022-05-29T01:55:02Z</updated>
-    <id>tag:github.com,2022-05-29:/crytic/building-secure-contracts</id>
-    <link href="https://github.com/crytic/building-secure-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Guidelines and training material to write secure smart contracts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>foundry-rs/forge-std</title>
+    <updated>2022-05-30T01:53:18Z</updated>
+    <id>tag:github.com,2022-05-30:/foundry-rs/forge-std</id>
+    <link href="https://github.com/foundry-rs/forge-std" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Forge Standard Library is a collection of helpful contracts for use with forge and foundry. It leverages forge&#39;s cheatcodes to make writing tests easier and faster, while improving the UX of cheatcodes. For more in-depth usage examples checkout the tests.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dapphub/ds-test</title>
+    <updated>2022-05-30T01:53:18Z</updated>
+    <id>tag:github.com,2022-05-30:/dapphub/ds-test</id>
+    <link href="https://github.com/dapphub/ds-test" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Assertions, equality checks and other test helpers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>ExtropyIO/defi-bot</title>
-    <updated>2022-05-29T01:55:02Z</updated>
-    <id>tag:github.com,2022-05-29:/ExtropyIO/defi-bot</id>
+    <updated>2022-05-30T01:53:18Z</updated>
+    <id>tag:github.com,2022-05-30:/ExtropyIO/defi-bot</id>
     <link href="https://github.com/ExtropyIO/defi-bot" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Tutorial for building DeFi arbitrage bots&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>foundry-rs/forge-std</title>
-    <updated>2022-05-29T01:55:02Z</updated>
-    <id>tag:github.com,2022-05-29:/foundry-rs/forge-std</id>
-    <link href="https://github.com/foundry-rs/forge-std" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Forge Standard Library is a collection of helpful contracts for use with forge and foundry. It leverages forge&#39;s cheatcodes to make writing tests easier and faster, while improving the UX of cheatcodes. For more in-depth usage examples checkout the tests.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>FraxFinance/frax-solidity</title>
+    <updated>2022-05-30T01:53:18Z</updated>
+    <id>tag:github.com,2022-05-30:/FraxFinance/frax-solidity</id>
+    <link href="https://github.com/FraxFinance/frax-solidity" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Solidity implementation of the Frax Protocol&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>The-Stripes-NFT/the-stripes-nft-contract</title>
+    <updated>2022-05-30T01:53:18Z</updated>
+    <id>tag:github.com,2022-05-30:/The-Stripes-NFT/the-stripes-nft-contract</id>
+    <link href="https://github.com/The-Stripes-NFT/the-stripes-nft-contract" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is the official repository of The Stripes NFT Contract&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>yuyasugano/pancake-bakery-arbitrage</title>
+    <updated>2022-05-30T01:53:18Z</updated>
+    <id>tag:github.com,2022-05-30:/yuyasugano/pancake-bakery-arbitrage</id>
+    <link href="https://github.com/yuyasugano/pancake-bakery-arbitrage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A sample application invokes a flashswap in PancakeSwap and a monitoring tool in Node.js.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ethereum/legacytests</title>
+    <updated>2022-05-30T01:53:18Z</updated>
+    <id>tag:github.com,2022-05-30:/ethereum/legacytests</id>
+    <link href="https://github.com/ethereum/legacytests" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>TRON-Developer-Hub/TRC20-Contract-Template</title>
+    <updated>2022-05-30T01:53:18Z</updated>
+    <id>tag:github.com,2022-05-30:/TRON-Developer-Hub/TRC20-Contract-Template</id>
+    <link href="https://github.com/TRON-Developer-Hub/TRC20-Contract-Template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>iskdrews/awesome-solidity-gas-optimization</title>
+    <updated>2022-05-30T01:53:18Z</updated>
+    <id>tag:github.com,2022-05-30:/iskdrews/awesome-solidity-gas-optimization</id>
+    <link href="https://github.com/iskdrews/awesome-solidity-gas-optimization" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Best resources for Solidity gas optimizations ⛽&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Raz0r/semgrep-smart-contracts</title>
+    <updated>2022-05-30T01:53:18Z</updated>
+    <id>tag:github.com,2022-05-30:/Raz0r/semgrep-smart-contracts</id>
+    <link href="https://github.com/Raz0r/semgrep-smart-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Semgrep rules for smart contracts based on DeFi exploits&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ourzora/zora-drops-contracts</title>
+    <updated>2022-05-30T01:53:18Z</updated>
+    <id>tag:github.com,2022-05-30:/ourzora/zora-drops-contracts</id>
+    <link href="https://github.com/ourzora/zora-drops-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Zora drops contracts (powers create.zora.co)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Metaschoolso/Learning-Projects</title>
+    <updated>2022-05-30T01:53:18Z</updated>
+    <id>tag:github.com,2022-05-30:/Metaschoolso/Learning-Projects</id>
+    <link href="https://github.com/Metaschoolso/Learning-Projects" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;All the learning projects code from Metaschool website.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dappuniversity/nft_batch_minting</title>
+    <updated>2022-05-30T01:53:18Z</updated>
+    <id>tag:github.com,2022-05-30:/dappuniversity/nft_batch_minting</id>
+    <link href="https://github.com/dappuniversity/nft_batch_minting" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>solidproof/projects</title>
+    <updated>2022-05-30T01:53:18Z</updated>
+    <id>tag:github.com,2022-05-30:/solidproof/projects</id>
+    <link href="https://github.com/solidproof/projects" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>HashLips/hashlips_nft_contract</title>
+    <updated>2022-05-30T01:53:18Z</updated>
+    <id>tag:github.com,2022-05-30:/HashLips/hashlips_nft_contract</id>
+    <link href="https://github.com/HashLips/hashlips_nft_contract" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple NFT smart contract that works with the rest of the HashLips ecosystem.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dmfxyz/murky</title>
+    <updated>2022-05-30T01:53:18Z</updated>
+    <id>tag:github.com,2022-05-30:/dmfxyz/murky</id>
+    <link href="https://github.com/dmfxyz/murky" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Merkle Proof Generator and Validator in Solidity&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>foundry-rs/book</title>
+    <updated>2022-05-30T01:53:18Z</updated>
+    <id>tag:github.com,2022-05-30:/foundry-rs/book</id>
+    <link href="https://github.com/foundry-rs/book" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A book on all things Foundry, available at https://book.getfoundry.sh.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

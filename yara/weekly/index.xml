@@ -1,27 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub YARA Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T02:28:06Z</updated>
+  <updated>2022-05-30T02:27:00Z</updated>
   <subtitle>Weekly Trending of YARA in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>curated-intel/Ukraine-Cyber-Operations</title>
-    <updated>2022-05-29T02:28:06Z</updated>
-    <id>tag:github.com,2022-05-29:/curated-intel/Ukraine-Cyber-Operations</id>
-    <link href="https://github.com/curated-intel/Ukraine-Cyber-Operations" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Curated Intelligence is working with analysts from around the world to provide useful information to organisations in Ukraine looking for additional free threat intelligence. Slava Ukraini. Glory to Ukraine.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>CyberMonitor/APT_CyberCriminal_Campagin_Collections</title>
-    <updated>2022-05-29T02:28:06Z</updated>
-    <id>tag:github.com,2022-05-29:/CyberMonitor/APT_CyberCriminal_Campagin_Collections</id>
+    <updated>2022-05-30T02:27:00Z</updated>
+    <id>tag:github.com,2022-05-30:/CyberMonitor/APT_CyberCriminal_Campagin_Collections</id>
     <link href="https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections" rel="alternate"></link>
     <summary type="html">&lt;p&gt;APT &amp; CyberCriminal Campaign Collection&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>Yara-Rules/rules</title>
-    <updated>2022-05-29T02:28:06Z</updated>
-    <id>tag:github.com,2022-05-29:/Yara-Rules/rules</id>
+    <updated>2022-05-30T02:27:00Z</updated>
+    <id>tag:github.com,2022-05-30:/Yara-Rules/rules</id>
     <link href="https://github.com/Yara-Rules/rules" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Repository of yara rules&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ApacheConf Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T01:34:47Z</updated>
+  <updated>2022-05-30T01:32:59Z</updated>
   <subtitle>Daily Trending of ApacheConf in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>MadeByLoosers/real-names</title>
-    <updated>2022-05-29T01:34:47Z</updated>
-    <id>tag:github.com,2022-05-29:/MadeByLoosers/real-names</id>
-    <link href="https://github.com/MadeByLoosers/real-names" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A celebration of traditional names that put the Great into Britain; why call your kids something trendy and modern when there are so many delightful yet under-used names available. Names with pedigree. Names with history.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>scm-ninja/starter-web</title>
-    <updated>2022-05-29T01:34:47Z</updated>
-    <id>tag:github.com,2022-05-29:/scm-ninja/starter-web</id>
+    <updated>2022-05-30T01:32:59Z</updated>
+    <id>tag:github.com,2022-05-30:/scm-ninja/starter-web</id>
     <link href="https://github.com/scm-ninja/starter-web" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Simple starting point website project based upon Initializr&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

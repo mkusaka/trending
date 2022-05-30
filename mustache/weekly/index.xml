@@ -1,182 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T02:16:53Z</updated>
+  <updated>2022-05-30T02:15:32Z</updated>
   <subtitle>Weekly Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>prometheus-community/helm-charts</title>
-    <updated>2022-05-29T02:16:53Z</updated>
-    <id>tag:github.com,2022-05-29:/prometheus-community/helm-charts</id>
+    <updated>2022-05-30T02:15:32Z</updated>
+    <id>tag:github.com,2022-05-30:/prometheus-community/helm-charts</id>
     <link href="https://github.com/prometheus-community/helm-charts" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Prometheus community Helm charts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bitnami/charts</title>
-    <updated>2022-05-29T02:16:53Z</updated>
-    <id>tag:github.com,2022-05-29:/bitnami/charts</id>
-    <link href="https://github.com/bitnami/charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bitnami Helm Charts&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>argoproj/argo-helm</title>
-    <updated>2022-05-29T02:16:53Z</updated>
-    <id>tag:github.com,2022-05-29:/argoproj/argo-helm</id>
+    <updated>2022-05-30T02:15:32Z</updated>
+    <id>tag:github.com,2022-05-30:/argoproj/argo-helm</id>
     <link href="https://github.com/argoproj/argo-helm" rel="alternate"></link>
     <summary type="html">&lt;p&gt;ArgoProj Helm Charts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>bitnami/charts</title>
+    <updated>2022-05-30T02:15:32Z</updated>
+    <id>tag:github.com,2022-05-30:/bitnami/charts</id>
+    <link href="https://github.com/bitnami/charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bitnami Helm Charts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>confluentinc/cp-helm-charts</title>
-    <updated>2022-05-29T02:16:53Z</updated>
-    <id>tag:github.com,2022-05-29:/confluentinc/cp-helm-charts</id>
+    <updated>2022-05-30T02:15:32Z</updated>
+    <id>tag:github.com,2022-05-30:/confluentinc/cp-helm-charts</id>
     <link href="https://github.com/confluentinc/cp-helm-charts" rel="alternate"></link>
     <summary type="html">&lt;p&gt;The Confluent Platform Helm charts enable you to deploy Confluent Platform services on Kubernetes for development, test, and proof of concept environments.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>redkubes/otomi-core</title>
-    <updated>2022-05-29T02:16:53Z</updated>
-    <id>tag:github.com,2022-05-29:/redkubes/otomi-core</id>
+    <updated>2022-05-30T02:15:32Z</updated>
+    <id>tag:github.com,2022-05-30:/redkubes/otomi-core</id>
     <link href="https://github.com/redkubes/otomi-core" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Self-hosted PaaS for Kubernetes&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>kubecost/cost-analyzer-helm-chart</title>
-    <updated>2022-05-29T02:16:53Z</updated>
-    <id>tag:github.com,2022-05-29:/kubecost/cost-analyzer-helm-chart</id>
+    <updated>2022-05-30T02:15:32Z</updated>
+    <id>tag:github.com,2022-05-30:/kubecost/cost-analyzer-helm-chart</id>
     <link href="https://github.com/kubecost/cost-analyzer-helm-chart" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Kubecost helm chart&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>jenkinsci/helm-charts</title>
-    <updated>2022-05-29T02:16:53Z</updated>
-    <id>tag:github.com,2022-05-29:/jenkinsci/helm-charts</id>
+    <updated>2022-05-30T02:15:32Z</updated>
+    <id>tag:github.com,2022-05-30:/jenkinsci/helm-charts</id>
     <link href="https://github.com/jenkinsci/helm-charts" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Jenkins community Helm charts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>aws/eks-charts</title>
-    <updated>2022-05-29T02:16:53Z</updated>
-    <id>tag:github.com,2022-05-29:/aws/eks-charts</id>
-    <link href="https://github.com/aws/eks-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Amazon EKS Helm chart repository&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sentry-kubernetes/charts</title>
+    <updated>2022-05-30T02:15:32Z</updated>
+    <id>tag:github.com,2022-05-30:/sentry-kubernetes/charts</id>
+    <link href="https://github.com/sentry-kubernetes/charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Easily deploy Sentry on your Kubernetes Cluster&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>vmware-tanzu/helm-charts</title>
-    <updated>2022-05-29T02:16:53Z</updated>
-    <id>tag:github.com,2022-05-29:/vmware-tanzu/helm-charts</id>
+    <updated>2022-05-30T02:15:32Z</updated>
+    <id>tag:github.com,2022-05-30:/vmware-tanzu/helm-charts</id>
     <link href="https://github.com/vmware-tanzu/helm-charts" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Contains Helm charts for Kubernetes related open source tools&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>codecentric/helm-charts</title>
-    <updated>2022-05-29T02:16:53Z</updated>
-    <id>tag:github.com,2022-05-29:/codecentric/helm-charts</id>
+    <updated>2022-05-30T02:15:32Z</updated>
+    <id>tag:github.com,2022-05-30:/codecentric/helm-charts</id>
     <link href="https://github.com/codecentric/helm-charts" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A curated set of Helm charts brought to you by codecentric&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sentry-kubernetes/charts</title>
-    <updated>2022-05-29T02:16:53Z</updated>
-    <id>tag:github.com,2022-05-29:/sentry-kubernetes/charts</id>
-    <link href="https://github.com/sentry-kubernetes/charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Easily deploy Sentry on your Kubernetes Cluster&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aws/eks-charts</title>
+    <updated>2022-05-30T02:15:32Z</updated>
+    <id>tag:github.com,2022-05-30:/aws/eks-charts</id>
+    <link href="https://github.com/aws/eks-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Amazon EKS Helm chart repository&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>Kong/charts</title>
-    <updated>2022-05-29T02:16:53Z</updated>
-    <id>tag:github.com,2022-05-29:/Kong/charts</id>
+    <updated>2022-05-30T02:15:32Z</updated>
+    <id>tag:github.com,2022-05-30:/Kong/charts</id>
     <link href="https://github.com/Kong/charts" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Helm chart for Kong&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>initsixcloud/petclinic</title>
+    <updated>2022-05-30T02:15:32Z</updated>
+    <id>tag:github.com,2022-05-30:/initsixcloud/petclinic</id>
+    <link href="https://github.com/initsixcloud/petclinic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>javahometech/node-app</title>
+    <updated>2022-05-30T02:15:32Z</updated>
+    <id>tag:github.com,2022-05-30:/javahometech/node-app</id>
+    <link href="https://github.com/javahometech/node-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>SonarSource/helm-chart-sonarqube</title>
-    <updated>2022-05-29T02:16:53Z</updated>
-    <id>tag:github.com,2022-05-29:/SonarSource/helm-chart-sonarqube</id>
+    <updated>2022-05-30T02:15:32Z</updated>
+    <id>tag:github.com,2022-05-30:/SonarSource/helm-chart-sonarqube</id>
     <link href="https://github.com/SonarSource/helm-chart-sonarqube" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rudderlabs/rudderstack-helm</title>
-    <updated>2022-05-29T02:16:53Z</updated>
-    <id>tag:github.com,2022-05-29:/rudderlabs/rudderstack-helm</id>
-    <link href="https://github.com/rudderlabs/rudderstack-helm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open-source, warehouse-first Customer Data Pipeline and Segment-alternative. Collects and routes clickstream data and builds your customer data lake on your data warehouse.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DataDog/helm-charts</title>
+    <updated>2022-05-30T02:15:32Z</updated>
+    <id>tag:github.com,2022-05-30:/DataDog/helm-charts</id>
+    <link href="https://github.com/DataDog/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm charts for Datadog products&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>kiali/helm-charts</title>
-    <updated>2022-05-29T02:16:53Z</updated>
-    <id>tag:github.com,2022-05-29:/kiali/helm-charts</id>
+    <updated>2022-05-30T02:15:32Z</updated>
+    <id>tag:github.com,2022-05-30:/kiali/helm-charts</id>
     <link href="https://github.com/kiali/helm-charts" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Helm Charts used to install Kiali resources.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>yugabyte/charts</title>
-    <updated>2022-05-29T02:16:53Z</updated>
-    <id>tag:github.com,2022-05-29:/yugabyte/charts</id>
+    <updated>2022-05-30T02:15:32Z</updated>
+    <id>tag:github.com,2022-05-30:/yugabyte/charts</id>
     <link href="https://github.com/yugabyte/charts" rel="alternate"></link>
     <summary type="html">&lt;p&gt;This repo will have all the helm charts that are owned by Yugabyte&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>yugabyte/yugabyte-platform-gke-app</title>
-    <updated>2022-05-29T02:16:53Z</updated>
-    <id>tag:github.com,2022-05-29:/yugabyte/yugabyte-platform-gke-app</id>
+    <updated>2022-05-30T02:15:32Z</updated>
+    <id>tag:github.com,2022-05-30:/yugabyte/yugabyte-platform-gke-app</id>
     <link href="https://github.com/yugabyte/yugabyte-platform-gke-app" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Yugabyte Platform GKE App for GCP Marketplace&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>yugabyte/yugabyte-platform-operator</title>
-    <updated>2022-05-29T02:16:53Z</updated>
-    <id>tag:github.com,2022-05-29:/yugabyte/yugabyte-platform-operator</id>
+    <updated>2022-05-30T02:15:32Z</updated>
+    <id>tag:github.com,2022-05-30:/yugabyte/yugabyte-platform-operator</id>
     <link href="https://github.com/yugabyte/yugabyte-platform-operator" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Operator for Yugabyte Platform makes it easy to deploy and upgrade Yugabyte platform on kubernetes environment&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>DataDog/helm-charts</title>
-    <updated>2022-05-29T02:16:53Z</updated>
-    <id>tag:github.com,2022-05-29:/DataDog/helm-charts</id>
-    <link href="https://github.com/DataDog/helm-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helm charts for Datadog products&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>javahometech/node-app</title>
-    <updated>2022-05-29T02:16:53Z</updated>
-    <id>tag:github.com,2022-05-29:/javahometech/node-app</id>
-    <link href="https://github.com/javahometech/node-app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>opensearch-project/helm-charts</title>
-    <updated>2022-05-29T02:16:53Z</updated>
-    <id>tag:github.com,2022-05-29:/opensearch-project/helm-charts</id>
-    <link href="https://github.com/opensearch-project/helm-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;☸️ A community repository for Helm Charts of OpenSearch Project.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>swagger-api/swagger-codegen</title>
-    <updated>2022-05-29T02:16:53Z</updated>
-    <id>tag:github.com,2022-05-29:/swagger-api/swagger-codegen</id>
+    <updated>2022-05-30T02:15:32Z</updated>
+    <id>tag:github.com,2022-05-30:/swagger-api/swagger-codegen</id>
     <link href="https://github.com/swagger-api/swagger-codegen" rel="alternate"></link>
     <summary type="html">&lt;p&gt;swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>opensearch-project/helm-charts</title>
+    <updated>2022-05-30T02:15:32Z</updated>
+    <id>tag:github.com,2022-05-30:/opensearch-project/helm-charts</id>
+    <link href="https://github.com/opensearch-project/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;☸️ A community repository for Helm Charts of OpenSearch Project.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>jaegertracing/helm-charts</title>
-    <updated>2022-05-29T02:16:53Z</updated>
-    <id>tag:github.com,2022-05-29:/jaegertracing/helm-charts</id>
+    <updated>2022-05-30T02:15:32Z</updated>
+    <id>tag:github.com,2022-05-30:/jaegertracing/helm-charts</id>
     <link href="https://github.com/jaegertracing/helm-charts" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Helm Charts for Jaeger backend&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ory/k8s</title>
-    <updated>2022-05-29T02:16:53Z</updated>
-    <id>tag:github.com,2022-05-29:/ory/k8s</id>
-    <link href="https://github.com/ory/k8s" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Kubernetes Helm Charts for the ORY ecosystem.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rudderlabs/rudderstack-helm</title>
+    <updated>2022-05-30T02:15:32Z</updated>
+    <id>tag:github.com,2022-05-30:/rudderlabs/rudderstack-helm</id>
+    <link href="https://github.com/rudderlabs/rudderstack-helm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open-source, warehouse-first Customer Data Pipeline and Segment-alternative. Collects and routes clickstream data and builds your customer data lake on your data warehouse.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>swagger-api/swagger-codegen-generators</title>
-    <updated>2022-05-29T02:16:53Z</updated>
-    <id>tag:github.com,2022-05-29:/swagger-api/swagger-codegen-generators</id>
-    <link href="https://github.com/swagger-api/swagger-codegen-generators" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>VictoriaMetrics/helm-charts</title>
+    <updated>2022-05-30T02:15:32Z</updated>
+    <id>tag:github.com,2022-05-30:/VictoriaMetrics/helm-charts</id>
+    <link href="https://github.com/VictoriaMetrics/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm charts for VictoriaMetrics&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

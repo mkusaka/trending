@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ReScript Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T02:21:31Z</updated>
+  <updated>2022-05-30T02:20:11Z</updated>
   <subtitle>Weekly Trending of ReScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>SteamDatabase/GameTracking-CSGO</title>
-    <updated>2022-05-29T02:21:31Z</updated>
-    <id>tag:github.com,2022-05-29:/SteamDatabase/GameTracking-CSGO</id>
+    <updated>2022-05-30T02:20:11Z</updated>
+    <id>tag:github.com,2022-05-30:/SteamDatabase/GameTracking-CSGO</id>
     <link href="https://github.com/SteamDatabase/GameTracking-CSGO" rel="alternate"></link>
     <summary type="html">&lt;p&gt;📥 Game Tracker: Counter-Strike: Global Offensive&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>ThePrimeagen/tyrone-biggums</title>
-    <updated>2022-05-29T02:21:31Z</updated>
-    <id>tag:github.com,2022-05-29:/ThePrimeagen/tyrone-biggums</id>
+    <updated>2022-05-30T02:20:11Z</updated>
+    <id>tag:github.com,2022-05-30:/ThePrimeagen/tyrone-biggums</id>
     <link href="https://github.com/ThePrimeagen/tyrone-biggums" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Clearly a repo about websockets and their comparison...&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>Jack-Myth/Threshold-Miku</title>
-    <updated>2022-05-29T02:21:31Z</updated>
-    <id>tag:github.com,2022-05-29:/Jack-Myth/Threshold-Miku</id>
+    <updated>2022-05-30T02:20:11Z</updated>
+    <id>tag:github.com,2022-05-30:/Jack-Myth/Threshold-Miku</id>
     <link href="https://github.com/Jack-Myth/Threshold-Miku" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A Hatsune Miku Steam Theme Skin with Steam New Library Supported!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>purogamer/Fluent-for-Steam</title>
-    <updated>2022-05-29T02:21:31Z</updated>
-    <id>tag:github.com,2022-05-29:/purogamer/Fluent-for-Steam</id>
+    <updated>2022-05-30T02:20:11Z</updated>
+    <id>tag:github.com,2022-05-30:/purogamer/Fluent-for-Steam</id>
     <link href="https://github.com/purogamer/Fluent-for-Steam" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A simple skin for steam to make it look like windows 11.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

@@ -1,181 +1,181 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T02:36:56Z</updated>
+  <updated>2022-05-30T02:36:02Z</updated>
   <subtitle>Monthly Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>lucasvegi/Elixir-Code-Smells</title>
-    <updated>2022-05-29T02:36:56Z</updated>
-    <id>tag:github.com,2022-05-29:/lucasvegi/Elixir-Code-Smells</id>
+    <updated>2022-05-30T02:36:02Z</updated>
+    <id>tag:github.com,2022-05-30:/lucasvegi/Elixir-Code-Smells</id>
     <link href="https://github.com/lucasvegi/Elixir-Code-Smells" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Catalog of Elixir-specific code smells&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>livebook-dev/livebook</title>
-    <updated>2022-05-29T02:36:56Z</updated>
-    <id>tag:github.com,2022-05-29:/livebook-dev/livebook</id>
+    <updated>2022-05-30T02:36:02Z</updated>
+    <id>tag:github.com,2022-05-30:/livebook-dev/livebook</id>
     <link href="https://github.com/livebook-dev/livebook" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Interactive and collaborative code notebooks for Elixir - built with Phoenix LiveView&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>elixir-ecto/ecto</title>
-    <updated>2022-05-29T02:36:56Z</updated>
-    <id>tag:github.com,2022-05-29:/elixir-ecto/ecto</id>
-    <link href="https://github.com/elixir-ecto/ecto" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A toolkit for data mapping and language integrated query.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>elixir-lang/elixir</title>
-    <updated>2022-05-29T02:36:56Z</updated>
-    <id>tag:github.com,2022-05-29:/elixir-lang/elixir</id>
-    <link href="https://github.com/elixir-lang/elixir" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elixir is a dynamic, functional language designed for building scalable and maintainable applications&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>firezone/firezone</title>
+    <updated>2022-05-30T02:36:02Z</updated>
+    <id>tag:github.com,2022-05-30:/firezone/firezone</id>
+    <link href="https://github.com/firezone/firezone" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;WireGuard®-based VPN server and firewall&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>blockscout/blockscout</title>
-    <updated>2022-05-29T02:36:56Z</updated>
-    <id>tag:github.com,2022-05-29:/blockscout/blockscout</id>
+    <updated>2022-05-30T02:36:02Z</updated>
+    <id>tag:github.com,2022-05-30:/blockscout/blockscout</id>
     <link href="https://github.com/blockscout/blockscout" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>elixir-ecto/ecto</title>
+    <updated>2022-05-30T02:36:02Z</updated>
+    <id>tag:github.com,2022-05-30:/elixir-ecto/ecto</id>
+    <link href="https://github.com/elixir-ecto/ecto" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A toolkit for data mapping and language integrated query.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>sorentwo/oban</title>
-    <updated>2022-05-29T02:36:56Z</updated>
-    <id>tag:github.com,2022-05-29:/sorentwo/oban</id>
+    <updated>2022-05-30T02:36:02Z</updated>
+    <id>tag:github.com,2022-05-30:/sorentwo/oban</id>
     <link href="https://github.com/sorentwo/oban" rel="alternate"></link>
     <summary type="html">&lt;p&gt;💎 Robust job processing in Elixir, backed by modern PostgreSQL&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>elixir-lang/elixir</title>
+    <updated>2022-05-30T02:36:02Z</updated>
+    <id>tag:github.com,2022-05-30:/elixir-lang/elixir</id>
+    <link href="https://github.com/elixir-lang/elixir" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Elixir is a dynamic, functional language designed for building scalable and maintainable applications&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>dashbitco/broadway_kafka</title>
-    <updated>2022-05-29T02:36:56Z</updated>
-    <id>tag:github.com,2022-05-29:/dashbitco/broadway_kafka</id>
+    <updated>2022-05-30T02:36:02Z</updated>
+    <id>tag:github.com,2022-05-30:/dashbitco/broadway_kafka</id>
     <link href="https://github.com/dashbitco/broadway_kafka" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A Broadway connector for Kafka&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>elixir-nx/explorer</title>
-    <updated>2022-05-29T02:36:56Z</updated>
-    <id>tag:github.com,2022-05-29:/elixir-nx/explorer</id>
-    <link href="https://github.com/elixir-nx/explorer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Series (one-dimensional) and dataframes (two-dimensional) for fast data exploration in Elixir&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>discord/instruments</title>
-    <updated>2022-05-29T02:36:56Z</updated>
-    <id>tag:github.com,2022-05-29:/discord/instruments</id>
+    <updated>2022-05-30T02:36:02Z</updated>
+    <id>tag:github.com,2022-05-30:/discord/instruments</id>
     <link href="https://github.com/discord/instruments" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Simple and Fast metrics for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rrrene/credo</title>
-    <updated>2022-05-29T02:36:56Z</updated>
-    <id>tag:github.com,2022-05-29:/rrrene/credo</id>
-    <link href="https://github.com/rrrene/credo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A static code analysis tool for the Elixir language with a focus on code consistency and teaching.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>discord/semaphore</title>
-    <updated>2022-05-29T02:36:56Z</updated>
-    <id>tag:github.com,2022-05-29:/discord/semaphore</id>
+    <updated>2022-05-30T02:36:02Z</updated>
+    <id>tag:github.com,2022-05-30:/discord/semaphore</id>
     <link href="https://github.com/discord/semaphore" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Fast semaphore using ETS.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>ntrepid8/ex_crypto</title>
-    <updated>2022-05-29T02:36:56Z</updated>
-    <id>tag:github.com,2022-05-29:/ntrepid8/ex_crypto</id>
+    <updated>2022-05-30T02:36:02Z</updated>
+    <id>tag:github.com,2022-05-30:/ntrepid8/ex_crypto</id>
     <link href="https://github.com/ntrepid8/ex_crypto" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Wrapper around the Erlang crypto module for Elixir.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>discord/zen_monitor</title>
-    <updated>2022-05-29T02:36:56Z</updated>
-    <id>tag:github.com,2022-05-29:/discord/zen_monitor</id>
-    <link href="https://github.com/discord/zen_monitor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Efficient Process.monitor replacement&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>elixir-grpc/grpc</title>
+    <updated>2022-05-30T02:36:02Z</updated>
+    <id>tag:github.com,2022-05-30:/elixir-grpc/grpc</id>
+    <link href="https://github.com/elixir-grpc/grpc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Elixir implementation of gRPC&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>discord/ex_hash_ring</title>
-    <updated>2022-05-29T02:36:56Z</updated>
-    <id>tag:github.com,2022-05-29:/discord/ex_hash_ring</id>
+    <updated>2022-05-30T02:36:02Z</updated>
+    <id>tag:github.com,2022-05-30:/discord/ex_hash_ring</id>
     <link href="https://github.com/discord/ex_hash_ring" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A fast consistent hash ring implementation in Elixir.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>discord/gen_registry</title>
-    <updated>2022-05-29T02:36:56Z</updated>
-    <id>tag:github.com,2022-05-29:/discord/gen_registry</id>
+    <updated>2022-05-30T02:36:02Z</updated>
+    <id>tag:github.com,2022-05-30:/discord/gen_registry</id>
     <link href="https://github.com/discord/gen_registry" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Simple and efficient local Process Registry&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>elixir-grpc/grpc</title>
-    <updated>2022-05-29T02:36:56Z</updated>
-    <id>tag:github.com,2022-05-29:/elixir-grpc/grpc</id>
-    <link href="https://github.com/elixir-grpc/grpc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An Elixir implementation of gRPC&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>discord/deque</title>
-    <updated>2022-05-29T02:36:56Z</updated>
-    <id>tag:github.com,2022-05-29:/discord/deque</id>
-    <link href="https://github.com/discord/deque" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fast bounded deque using two rotating lists.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>discord/manifold</title>
-    <updated>2022-05-29T02:36:56Z</updated>
-    <id>tag:github.com,2022-05-29:/discord/manifold</id>
-    <link href="https://github.com/discord/manifold" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fast batch message passing between nodes for Erlang/Elixir.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>discord/zen_monitor</title>
+    <updated>2022-05-30T02:36:02Z</updated>
+    <id>tag:github.com,2022-05-30:/discord/zen_monitor</id>
+    <link href="https://github.com/discord/zen_monitor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Efficient Process.monitor replacement&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>phoenixframework/phoenix_live_view</title>
-    <updated>2022-05-29T02:36:56Z</updated>
-    <id>tag:github.com,2022-05-29:/phoenixframework/phoenix_live_view</id>
+    <updated>2022-05-30T02:36:02Z</updated>
+    <id>tag:github.com,2022-05-30:/phoenixframework/phoenix_live_view</id>
     <link href="https://github.com/phoenixframework/phoenix_live_view" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Rich, real-time user experiences with server-rendered HTML&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>phoenixframework/phoenix</title>
-    <updated>2022-05-29T02:36:56Z</updated>
-    <id>tag:github.com,2022-05-29:/phoenixframework/phoenix</id>
-    <link href="https://github.com/phoenixframework/phoenix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Peace of mind from prototype to production&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>discord/deque</title>
+    <updated>2022-05-30T02:36:02Z</updated>
+    <id>tag:github.com,2022-05-30:/discord/deque</id>
+    <link href="https://github.com/discord/deque" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fast bounded deque using two rotating lists.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>elixir-nx/explorer</title>
+    <updated>2022-05-30T02:36:02Z</updated>
+    <id>tag:github.com,2022-05-30:/elixir-nx/explorer</id>
+    <link href="https://github.com/elixir-nx/explorer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Series (one-dimensional) and dataframes (two-dimensional) for fast data exploration in Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>discord/manifold</title>
+    <updated>2022-05-30T02:36:02Z</updated>
+    <id>tag:github.com,2022-05-30:/discord/manifold</id>
+    <link href="https://github.com/discord/manifold" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fast batch message passing between nodes for Erlang/Elixir.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rrrene/credo</title>
+    <updated>2022-05-30T02:36:02Z</updated>
+    <id>tag:github.com,2022-05-30:/rrrene/credo</id>
+    <link href="https://github.com/rrrene/credo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A static code analysis tool for the Elixir language with a focus on code consistency and teaching.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>snyk/snyk-hex-plugin</title>
-    <updated>2022-05-29T02:36:56Z</updated>
-    <id>tag:github.com,2022-05-29:/snyk/snyk-hex-plugin</id>
+    <updated>2022-05-30T02:36:02Z</updated>
+    <id>tag:github.com,2022-05-30:/snyk/snyk-hex-plugin</id>
     <link href="https://github.com/snyk/snyk-hex-plugin" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Hentioe/policr-mini</title>
-    <updated>2022-05-29T02:36:56Z</updated>
-    <id>tag:github.com,2022-05-29:/Hentioe/policr-mini</id>
-    <link href="https://github.com/Hentioe/policr-mini" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;更加现代的 Policr 迷你版&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Financial-Times/k8s_traffic_plug</title>
-    <updated>2022-05-29T02:36:56Z</updated>
-    <id>tag:github.com,2022-05-29:/Financial-Times/k8s_traffic_plug</id>
-    <link href="https://github.com/Financial-Times/k8s_traffic_plug" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Traffic endpoint and graceful shutdown for Elixir Plug apps&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>h4cc/awesome-elixir</title>
-    <updated>2022-05-29T02:36:56Z</updated>
-    <id>tag:github.com,2022-05-29:/h4cc/awesome-elixir</id>
+    <updated>2022-05-30T02:36:02Z</updated>
+    <id>tag:github.com,2022-05-30:/h4cc/awesome-elixir</id>
     <link href="https://github.com/h4cc/awesome-elixir" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>Financial-Times/k8s_traffic_plug</title>
+    <updated>2022-05-30T02:36:02Z</updated>
+    <id>tag:github.com,2022-05-30:/Financial-Times/k8s_traffic_plug</id>
+    <link href="https://github.com/Financial-Times/k8s_traffic_plug" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Traffic endpoint and graceful shutdown for Elixir Plug apps&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Hentioe/policr-mini</title>
+    <updated>2022-05-30T02:36:02Z</updated>
+    <id>tag:github.com,2022-05-30:/Hentioe/policr-mini</id>
+    <link href="https://github.com/Hentioe/policr-mini" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;更加现代的 Policr 迷你版&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>elixir-ecto/ecto_sql</title>
-    <updated>2022-05-29T02:36:56Z</updated>
-    <id>tag:github.com,2022-05-29:/elixir-ecto/ecto_sql</id>
+    <updated>2022-05-30T02:36:02Z</updated>
+    <id>tag:github.com,2022-05-30:/elixir-ecto/ecto_sql</id>
     <link href="https://github.com/elixir-ecto/ecto_sql" rel="alternate"></link>
     <summary type="html">&lt;p&gt;SQL-based adapters for Ecto and database migrations&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

@@ -1,62 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jsonnet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T01:44:48Z</updated>
+  <updated>2022-05-30T01:43:18Z</updated>
   <subtitle>Daily Trending of Jsonnet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kserve/kserve</title>
-    <updated>2022-05-29T01:44:48Z</updated>
-    <id>tag:github.com,2022-05-29:/kserve/kserve</id>
-    <link href="https://github.com/kserve/kserve" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Serverless Inferencing on Kubernetes&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>kubeflow/kubeflow</title>
-    <updated>2022-05-29T01:44:48Z</updated>
-    <id>tag:github.com,2022-05-29:/kubeflow/kubeflow</id>
+    <updated>2022-05-30T01:43:18Z</updated>
+    <id>tag:github.com,2022-05-30:/kubeflow/kubeflow</id>
     <link href="https://github.com/kubeflow/kubeflow" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Machine Learning Toolkit for Kubernetes&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>argoproj/argocd-example-apps</title>
-    <updated>2022-05-29T01:44:48Z</updated>
-    <id>tag:github.com,2022-05-29:/argoproj/argocd-example-apps</id>
-    <link href="https://github.com/argoproj/argocd-example-apps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Example Apps to Demonstrate Argo CD&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>getoutreach/jsonnet-libs</title>
-    <updated>2022-05-29T01:44:48Z</updated>
-    <id>tag:github.com,2022-05-29:/getoutreach/jsonnet-libs</id>
+    <updated>2022-05-30T01:43:18Z</updated>
+    <id>tag:github.com,2022-05-30:/getoutreach/jsonnet-libs</id>
     <link href="https://github.com/getoutreach/jsonnet-libs" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Libraries to help simplify Outreach manifests&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>prometheus-operator/kube-prometheus</title>
-    <updated>2022-05-29T01:44:48Z</updated>
-    <id>tag:github.com,2022-05-29:/prometheus-operator/kube-prometheus</id>
+    <updated>2022-05-30T01:43:18Z</updated>
+    <id>tag:github.com,2022-05-30:/prometheus-operator/kube-prometheus</id>
     <link href="https://github.com/prometheus-operator/kube-prometheus" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Use Prometheus to monitor Kubernetes and applications running on Kubernetes&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>kserve/kserve</title>
+    <updated>2022-05-30T01:43:18Z</updated>
+    <id>tag:github.com,2022-05-30:/kserve/kserve</id>
+    <link href="https://github.com/kserve/kserve" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Serverless Inferencing on Kubernetes&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>google/jsonnet</title>
-    <updated>2022-05-29T01:44:48Z</updated>
-    <id>tag:github.com,2022-05-29:/google/jsonnet</id>
+    <updated>2022-05-30T01:43:18Z</updated>
+    <id>tag:github.com,2022-05-30:/google/jsonnet</id>
     <link href="https://github.com/google/jsonnet" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Jsonnet - The data templating language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>grafana/grafonnet-lib</title>
-    <updated>2022-05-29T01:44:48Z</updated>
-    <id>tag:github.com,2022-05-29:/grafana/grafonnet-lib</id>
-    <link href="https://github.com/grafana/grafonnet-lib" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Jsonnet library for generating Grafana dashboard files.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>alphagov/govuk-content-schemas</title>
-    <updated>2022-05-29T01:44:48Z</updated>
-    <id>tag:github.com,2022-05-29:/alphagov/govuk-content-schemas</id>
+    <updated>2022-05-30T01:43:18Z</updated>
+    <id>tag:github.com,2022-05-30:/alphagov/govuk-content-schemas</id>
     <link href="https://github.com/alphagov/govuk-content-schemas" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Definitions of the data formats used to represent content on GOV.UK&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

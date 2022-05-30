@@ -1,42 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Less Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T01:45:52Z</updated>
+  <updated>2022-05-30T01:44:12Z</updated>
   <subtitle>Daily Trending of Less in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Remix-Design/RemixIcon</title>
-    <updated>2022-05-29T01:45:52Z</updated>
-    <id>tag:github.com,2022-05-29:/Remix-Design/RemixIcon</id>
-    <link href="https://github.com/Remix-Design/RemixIcon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open source neutral style icon system&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>jerrykuku/luci-theme-argon</title>
-    <updated>2022-05-29T01:45:52Z</updated>
-    <id>tag:github.com,2022-05-29:/jerrykuku/luci-theme-argon</id>
+    <updated>2022-05-30T01:44:12Z</updated>
+    <id>tag:github.com,2022-05-30:/jerrykuku/luci-theme-argon</id>
     <link href="https://github.com/jerrykuku/luci-theme-argon" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Argon is a clean HTML5 theme for OpenWrt LuCI. Users may setup their own favorite logins, including beautiful pics and customized mp4 videos.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Tencent/weui-wxss</title>
-    <updated>2022-05-29T01:45:52Z</updated>
-    <id>tag:github.com,2022-05-29:/Tencent/weui-wxss</id>
-    <link href="https://github.com/Tencent/weui-wxss" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A UI library by WeChat official design team, includes the most useful widgets/modules.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>getgridea/gridea</title>
-    <updated>2022-05-29T01:45:52Z</updated>
-    <id>tag:github.com,2022-05-29:/getgridea/gridea</id>
+    <updated>2022-05-30T01:44:12Z</updated>
+    <id>tag:github.com,2022-05-30:/getgridea/gridea</id>
     <link href="https://github.com/getgridea/gridea" rel="alternate"></link>
     <summary type="html">&lt;p&gt;✍️ A static blog writing client (一个静态博客写作客户端)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>meteor/meteor-theme-hexo</title>
-    <updated>2022-05-29T01:45:52Z</updated>
-    <id>tag:github.com,2022-05-29:/meteor/meteor-theme-hexo</id>
-    <link href="https://github.com/meteor/meteor-theme-hexo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The framework we use for docs.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Remix-Design/RemixIcon</title>
+    <updated>2022-05-30T01:44:12Z</updated>
+    <id>tag:github.com,2022-05-30:/Remix-Design/RemixIcon</id>
+    <link href="https://github.com/Remix-Design/RemixIcon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open source neutral style icon system&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>25H/Maya</title>
+    <updated>2022-05-30T01:44:12Z</updated>
+    <id>tag:github.com,2022-05-30:/25H/Maya</id>
+    <link href="https://github.com/25H/Maya" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Maye 一个简洁小巧的快速启动工具&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dracula/cider</title>
+    <updated>2022-05-30T01:44:12Z</updated>
+    <id>tag:github.com,2022-05-30:/dracula/cider</id>
+    <link href="https://github.com/dracula/cider" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🧛🏻‍♂️ Dracula Dark theme for Cider&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Tencent/weui-wxss</title>
+    <updated>2022-05-30T01:44:12Z</updated>
+    <id>tag:github.com,2022-05-30:/Tencent/weui-wxss</id>
+    <link href="https://github.com/Tencent/weui-wxss" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A UI library by WeChat official design team, includes the most useful widgets/modules.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

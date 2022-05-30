@@ -1,63 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T02:21:47Z</updated>
+  <updated>2022-05-30T02:20:30Z</updated>
   <subtitle>Weekly Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>pyenv/pyenv</title>
-    <updated>2022-05-29T02:21:47Z</updated>
-    <id>tag:github.com,2022-05-29:/pyenv/pyenv</id>
+    <updated>2022-05-30T02:20:30Z</updated>
+    <id>tag:github.com,2022-05-30:/pyenv/pyenv</id>
     <link href="https://github.com/pyenv/pyenv" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Simple Python version management&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JonathanSalwan/VMProtect-devirtualization</title>
-    <updated>2022-05-29T02:21:47Z</updated>
-    <id>tag:github.com,2022-05-29:/JonathanSalwan/VMProtect-devirtualization</id>
-    <link href="https://github.com/JonathanSalwan/VMProtect-devirtualization" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>yous/YousList</title>
-    <updated>2022-05-29T02:21:47Z</updated>
-    <id>tag:github.com,2022-05-29:/yous/YousList</id>
+    <updated>2022-05-30T02:20:30Z</updated>
+    <id>tag:github.com,2022-05-30:/yous/YousList</id>
     <link href="https://github.com/yous/YousList" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Block filter for advertisements, mainly on Korean sites&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>03376836-OOP-2564/OOP-2564-Week-05</title>
-    <updated>2022-05-29T02:21:47Z</updated>
-    <id>tag:github.com,2022-05-29:/03376836-OOP-2564/OOP-2564-Week-05</id>
-    <link href="https://github.com/03376836-OOP-2564/OOP-2564-Week-05" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>edk2-porting/WOA-Drivers</title>
-    <updated>2022-05-29T02:21:47Z</updated>
-    <id>tag:github.com,2022-05-29:/edk2-porting/WOA-Drivers</id>
-    <link href="https://github.com/edk2-porting/WOA-Drivers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Windows Drivers for Qualcomm Snapdragon platforms&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JonathanSalwan/VMProtect-devirtualization</title>
+    <updated>2022-05-30T02:20:30Z</updated>
+    <id>tag:github.com,2022-05-30:/JonathanSalwan/VMProtect-devirtualization</id>
+    <link href="https://github.com/JonathanSalwan/VMProtect-devirtualization" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>Fxzzi/.dots</title>
-    <updated>2022-05-29T02:21:47Z</updated>
-    <id>tag:github.com,2022-05-29:/Fxzzi/.dots</id>
+    <updated>2022-05-30T02:20:30Z</updated>
+    <id>tag:github.com,2022-05-30:/Fxzzi/.dots</id>
     <link href="https://github.com/Fxzzi/.dots" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Dotfiles for my linux configuration, edited and maintained by fxzzi.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>gkjohnson/threejs-sandbox</title>
-    <updated>2022-05-29T02:21:47Z</updated>
-    <id>tag:github.com,2022-05-29:/gkjohnson/threejs-sandbox</id>
-    <link href="https://github.com/gkjohnson/threejs-sandbox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Set of experiments and extensions to THREE.js.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>edk2-porting/WOA-Drivers</title>
+    <updated>2022-05-30T02:20:30Z</updated>
+    <id>tag:github.com,2022-05-30:/edk2-porting/WOA-Drivers</id>
+    <link href="https://github.com/edk2-porting/WOA-Drivers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Windows Drivers for Qualcomm Snapdragon platforms&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>oasislinux/oasis</title>
-    <updated>2022-05-29T02:21:47Z</updated>
-    <id>tag:github.com,2022-05-29:/oasislinux/oasis</id>
-    <link href="https://github.com/oasislinux/oasis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a small statically-linked linux system&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Lozy/danted</title>
+    <updated>2022-05-30T02:20:30Z</updated>
+    <id>tag:github.com,2022-05-30:/Lozy/danted</id>
+    <link href="https://github.com/Lozy/danted" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fast script for installing &amp; configing Danted--Socks5 Proxy Server.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

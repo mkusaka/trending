@@ -1,34 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Handlebars Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T02:40:11Z</updated>
+  <updated>2022-05-30T02:39:29Z</updated>
   <subtitle>Monthly Trending of Handlebars in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>elastic/integrations</title>
-    <updated>2022-05-29T02:40:11Z</updated>
-    <id>tag:github.com,2022-05-29:/elastic/integrations</id>
+    <updated>2022-05-30T02:39:29Z</updated>
+    <id>tag:github.com,2022-05-30:/elastic/integrations</id>
     <link href="https://github.com/elastic/integrations" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Elastic Integrations&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>CrunchyData/postgres-operator-examples</title>
-    <updated>2022-05-29T02:40:11Z</updated>
-    <id>tag:github.com,2022-05-29:/CrunchyData/postgres-operator-examples</id>
+    <updated>2022-05-30T02:39:29Z</updated>
+    <id>tag:github.com,2022-05-30:/CrunchyData/postgres-operator-examples</id>
     <link href="https://github.com/CrunchyData/postgres-operator-examples" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Examples for deploying applications with PGO, the Postgres Operator from Crunchy Data&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>rustlang-cn/rusty-book</title>
+    <updated>2022-05-30T02:39:29Z</updated>
+    <id>tag:github.com,2022-05-30:/rustlang-cn/rusty-book</id>
+    <link href="https://github.com/rustlang-cn/rusty-book" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of recipes and repos that can be used to build your rusty projects. Rusty Book = Cookbook + Awesome Rust！&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>microsoft/vscode-codicons</title>
-    <updated>2022-05-29T02:40:11Z</updated>
-    <id>tag:github.com,2022-05-29:/microsoft/vscode-codicons</id>
+    <updated>2022-05-30T02:39:29Z</updated>
+    <id>tag:github.com,2022-05-30:/microsoft/vscode-codicons</id>
     <link href="https://github.com/microsoft/vscode-codicons" rel="alternate"></link>
     <summary type="html">&lt;p&gt;The icon font for Visual Studio Code&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>Esri/esri-leaflet-doc</title>
-    <updated>2022-05-29T02:40:11Z</updated>
-    <id>tag:github.com,2022-05-29:/Esri/esri-leaflet-doc</id>
+    <updated>2022-05-30T02:39:29Z</updated>
+    <id>tag:github.com,2022-05-30:/Esri/esri-leaflet-doc</id>
     <link href="https://github.com/Esri/esri-leaflet-doc" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Documentation, API Reference and Samples&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

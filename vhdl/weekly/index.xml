@@ -1,42 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VHDL Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T02:26:34Z</updated>
+  <updated>2022-05-30T02:25:28Z</updated>
   <subtitle>Weekly Trending of VHDL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>slaclab/surf</title>
-    <updated>2022-05-29T02:26:34Z</updated>
-    <id>tag:github.com,2022-05-29:/slaclab/surf</id>
+    <updated>2022-05-30T02:25:28Z</updated>
+    <id>tag:github.com,2022-05-30:/slaclab/surf</id>
     <link href="https://github.com/slaclab/surf" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A huge VHDL library for FPGA development&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>ViacheslavL/vhdl_examples</title>
-    <updated>2022-05-29T02:26:34Z</updated>
-    <id>tag:github.com,2022-05-29:/ViacheslavL/vhdl_examples</id>
+    <updated>2022-05-30T02:25:28Z</updated>
+    <id>tag:github.com,2022-05-30:/ViacheslavL/vhdl_examples</id>
     <link href="https://github.com/ViacheslavL/vhdl_examples" rel="alternate"></link>
     <summary type="html">&lt;p&gt;my&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>dtatulea/fpga-pong</title>
-    <updated>2022-05-29T02:26:34Z</updated>
-    <id>tag:github.com,2022-05-29:/dtatulea/fpga-pong</id>
+    <updated>2022-05-30T02:25:28Z</updated>
+    <id>tag:github.com,2022-05-30:/dtatulea/fpga-pong</id>
     <link href="https://github.com/dtatulea/fpga-pong" rel="alternate"></link>
     <summary type="html">&lt;p&gt;fpga pong on virtex 3&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>OSVVM/OSVVM</title>
-    <updated>2022-05-29T02:26:34Z</updated>
-    <id>tag:github.com,2022-05-29:/OSVVM/OSVVM</id>
+    <updated>2022-05-30T02:25:28Z</updated>
+    <id>tag:github.com,2022-05-30:/OSVVM/OSVVM</id>
     <link href="https://github.com/OSVVM/OSVVM" rel="alternate"></link>
     <summary type="html">&lt;p&gt;OSVVM Utility Library: AlertLogPkg, CoveragePkg, RandomPkg, ScoreboardGenericPkg, MemoryPkg, TbUtilPkg, TranscriptPkg, ...&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>aws/aws-fpga</title>
-    <updated>2022-05-29T02:26:34Z</updated>
-    <id>tag:github.com,2022-05-29:/aws/aws-fpga</id>
-    <link href="https://github.com/aws/aws-fpga" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Official repository of the AWS EC2 FPGA Hardware and Software Development Kit&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Gherkin Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T02:10:43Z</updated>
+  <updated>2022-05-30T02:09:11Z</updated>
   <subtitle>Weekly Trending of Gherkin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>moodle-an-hochschulen/moodle-local_boostnavigation</title>
-    <updated>2022-05-29T02:10:43Z</updated>
-    <id>tag:github.com,2022-05-29:/moodle-an-hochschulen/moodle-local_boostnavigation</id>
+    <updated>2022-05-30T02:09:11Z</updated>
+    <id>tag:github.com,2022-05-30:/moodle-an-hochschulen/moodle-local_boostnavigation</id>
     <link href="https://github.com/moodle-an-hochschulen/moodle-local_boostnavigation" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Moodle plugin which tries to overcome some fixed appearance behaviours of Boost&#39;s nav drawer in a clean way&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sdkman/sdkman-cli</title>
-    <updated>2022-05-29T02:10:43Z</updated>
-    <id>tag:github.com,2022-05-29:/sdkman/sdkman-cli</id>
-    <link href="https://github.com/sdkman/sdkman-cli" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The SDKMAN! Command Line Interface&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wiris/moodle-atto_wiris</title>
+    <updated>2022-05-30T02:09:11Z</updated>
+    <id>tag:github.com,2022-05-30:/wiris/moodle-atto_wiris</id>
+    <link href="https://github.com/wiris/moodle-atto_wiris" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Moodle Atto&#39;s editor plugin for MathType, the leading formula editor and equation writer for the web by Wiris&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>thoughtbot/factory_bot_rails</title>
+    <updated>2022-05-30T02:09:11Z</updated>
+    <id>tag:github.com,2022-05-30:/thoughtbot/factory_bot_rails</id>
+    <link href="https://github.com/thoughtbot/factory_bot_rails" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Factory Bot ♥ Rails&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,27 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub YAML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T01:59:17Z</updated>
+  <updated>2022-05-30T01:57:27Z</updated>
   <subtitle>Daily Trending of YAML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>kubeflow/manifests</title>
-    <updated>2022-05-29T01:59:17Z</updated>
-    <id>tag:github.com,2022-05-29:/kubeflow/manifests</id>
+    <updated>2022-05-30T01:57:27Z</updated>
+    <id>tag:github.com,2022-05-30:/kubeflow/manifests</id>
     <link href="https://github.com/kubeflow/manifests" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A repository for Kustomize manifests&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>trinib/AdGuard-WireGuard-Unbound-Cloudflare</title>
+    <updated>2022-05-30T01:57:27Z</updated>
+    <id>tag:github.com,2022-05-30:/trinib/AdGuard-WireGuard-Unbound-Cloudflare</id>
+    <link href="https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The ultimate self-hosted network security guide ─ Protection🔒 | Privacy🔎 | Performance🚀 for your network 24/7🕛 Accessible anywhere🌏&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>ansible-lockdown/RHEL7-CIS</title>
-    <updated>2022-05-29T01:59:17Z</updated>
-    <id>tag:github.com,2022-05-29:/ansible-lockdown/RHEL7-CIS</id>
+    <updated>2022-05-30T01:57:27Z</updated>
+    <id>tag:github.com,2022-05-30:/ansible-lockdown/RHEL7-CIS</id>
     <link href="https://github.com/ansible-lockdown/RHEL7-CIS" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Ansible role for Red Hat 7 CIS Baseline&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>stashapp/CommunityScrapers</title>
-    <updated>2022-05-29T01:59:17Z</updated>
-    <id>tag:github.com,2022-05-29:/stashapp/CommunityScrapers</id>
+    <updated>2022-05-30T01:57:27Z</updated>
+    <id>tag:github.com,2022-05-30:/stashapp/CommunityScrapers</id>
     <link href="https://github.com/stashapp/CommunityScrapers" rel="alternate"></link>
     <summary type="html">&lt;p&gt;This is a public repository containing scrapers created by the Stash Community.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

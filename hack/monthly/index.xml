@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Hack Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T02:40:13Z</updated>
+  <updated>2022-05-30T02:39:27Z</updated>
   <subtitle>Monthly Trending of Hack in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>htr-tech/zphisher</title>
-    <updated>2022-05-29T02:40:13Z</updated>
-    <id>tag:github.com,2022-05-29:/htr-tech/zphisher</id>
+    <updated>2022-05-30T02:39:27Z</updated>
+    <id>tag:github.com,2022-05-30:/htr-tech/zphisher</id>
     <link href="https://github.com/htr-tech/zphisher" rel="alternate"></link>
     <summary type="html">&lt;p&gt;An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>Ignitetch/AdvPhishing</title>
-    <updated>2022-05-29T02:40:13Z</updated>
-    <id>tag:github.com,2022-05-29:/Ignitetch/AdvPhishing</id>
+    <updated>2022-05-30T02:39:27Z</updated>
+    <id>tag:github.com,2022-05-30:/Ignitetch/AdvPhishing</id>
     <link href="https://github.com/Ignitetch/AdvPhishing" rel="alternate"></link>
     <summary type="html">&lt;p&gt;This is Advance Phishing Tool ! OTP PHISHING&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

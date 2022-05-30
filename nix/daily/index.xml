@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T01:48:40Z</updated>
+  <updated>2022-05-30T01:47:01Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>divnix/digga</title>
-    <updated>2022-05-29T01:48:40Z</updated>
-    <id>tag:github.com,2022-05-29:/divnix/digga</id>
-    <link href="https://github.com/divnix/digga" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A flake utility library to craft shell-, home-, and hosts- environments.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>input-output-hk/haskell.nix</title>
-    <updated>2022-05-29T01:48:40Z</updated>
-    <id>tag:github.com,2022-05-29:/input-output-hk/haskell.nix</id>
-    <link href="https://github.com/input-output-hk/haskell.nix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Alternative Haskell Infrastructure for Nixpkgs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>NixOS/nixos-hardware</title>
-    <updated>2022-05-29T01:48:40Z</updated>
-    <id>tag:github.com,2022-05-29:/NixOS/nixos-hardware</id>
-    <link href="https://github.com/NixOS/nixos-hardware" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of NixOS modules covering hardware quirks.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nix-community/home-manager</title>
+    <updated>2022-05-30T01:47:01Z</updated>
+    <id>tag:github.com,2022-05-30:/nix-community/home-manager</id>
+    <link href="https://github.com/nix-community/home-manager" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Manage a user environment using Nix [maintainer=@rycee]&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>NixOS/nixpkgs</title>
-    <updated>2022-05-29T01:48:40Z</updated>
-    <id>tag:github.com,2022-05-29:/NixOS/nixpkgs</id>
+    <updated>2022-05-30T01:47:01Z</updated>
+    <id>tag:github.com,2022-05-30:/NixOS/nixpkgs</id>
     <link href="https://github.com/NixOS/nixpkgs" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Nix Packages collection&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>cardano-foundation/cardano-token-registry</title>
-    <updated>2022-05-29T01:48:40Z</updated>
-    <id>tag:github.com,2022-05-29:/cardano-foundation/cardano-token-registry</id>
+    <updated>2022-05-30T01:47:01Z</updated>
+    <id>tag:github.com,2022-05-30:/cardano-foundation/cardano-token-registry</id>
     <link href="https://github.com/cardano-foundation/cardano-token-registry" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>reflex-frp/reflex-platform</title>
+    <updated>2022-05-30T01:47:01Z</updated>
+    <id>tag:github.com,2022-05-30:/reflex-frp/reflex-platform</id>
+    <link href="https://github.com/reflex-frp/reflex-platform" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated package set and set of tools that let you build Haskell packages so they can run on a variety of platforms. reflex-platform is built on top of the nix package manager.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>LnL7/nix-darwin</title>
+    <updated>2022-05-30T01:47:01Z</updated>
+    <id>tag:github.com,2022-05-30:/LnL7/nix-darwin</id>
+    <link href="https://github.com/LnL7/nix-darwin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;nix modules for darwin&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

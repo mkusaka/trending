@@ -1,20 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub NSIS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T01:48:50Z</updated>
+  <updated>2022-05-30T01:47:11Z</updated>
   <subtitle>Daily Trending of NSIS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bmatzelle/gow</title>
-    <updated>2022-05-29T01:48:50Z</updated>
-    <id>tag:github.com,2022-05-29:/bmatzelle/gow</id>
-    <link href="https://github.com/bmatzelle/gow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Unix command line utilities installer for Windows.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bituq/Roshade</title>
+    <updated>2022-05-30T01:47:11Z</updated>
+    <id>tag:github.com,2022-05-30:/bituq/Roshade</id>
+    <link href="https://github.com/bituq/Roshade" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An installation package made in NSIS for installing Reshade presets and shaders to Roblox.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>voicemxil/TS2-Starter-Pack</title>
+    <updated>2022-05-30T01:47:11Z</updated>
+    <id>tag:github.com,2022-05-30:/voicemxil/TS2-Starter-Pack</id>
+    <link href="https://github.com/voicemxil/TS2-Starter-Pack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Resources for download &amp; setup of TS2: Ultimate Collection.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>devkitPro/installer</title>
+    <updated>2022-05-30T01:47:11Z</updated>
+    <id>tag:github.com,2022-05-30:/devkitPro/installer</id>
+    <link href="https://github.com/devkitPro/installer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>TASEmulators/BizHawk-Prereqs</title>
+    <updated>2022-05-30T01:47:11Z</updated>
+    <id>tag:github.com,2022-05-30:/TASEmulators/BizHawk-Prereqs</id>
+    <link href="https://github.com/TASEmulators/BizHawk-Prereqs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;BizHawk Prerequisite Installer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>adafruit/Adafruit_Windows_Drivers</title>
-    <updated>2022-05-29T01:48:50Z</updated>
-    <id>tag:github.com,2022-05-29:/adafruit/Adafruit_Windows_Drivers</id>
+    <updated>2022-05-30T01:47:11Z</updated>
+    <id>tag:github.com,2022-05-30:/adafruit/Adafruit_Windows_Drivers</id>
     <link href="https://github.com/adafruit/Adafruit_Windows_Drivers" rel="alternate"></link>
     <summary type="html">&lt;p&gt;All in one Windows driver installer for Adafruit&#39;s boards.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

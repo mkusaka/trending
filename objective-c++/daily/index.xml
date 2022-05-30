@@ -1,49 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T01:49:06Z</updated>
+  <updated>2022-05-30T01:47:25Z</updated>
   <subtitle>Daily Trending of Objective-C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gree/unity-webview</title>
-    <updated>2022-05-29T01:49:06Z</updated>
-    <id>tag:github.com,2022-05-29:/gree/unity-webview</id>
-    <link href="https://github.com/gree/unity-webview" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>TextureGroup/Texture</title>
-    <updated>2022-05-29T01:49:06Z</updated>
-    <id>tag:github.com,2022-05-29:/TextureGroup/Texture</id>
-    <link href="https://github.com/TextureGroup/Texture" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Smooth asynchronous user interfaces for iOS apps.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rive-app/rive-ios</title>
+    <updated>2022-05-30T01:47:25Z</updated>
+    <id>tag:github.com,2022-05-30:/rive-app/rive-ios</id>
+    <link href="https://github.com/rive-app/rive-ios" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;iOS runtime for Rive&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>pocketsvg/PocketSVG</title>
-    <updated>2022-05-29T01:49:06Z</updated>
-    <id>tag:github.com,2022-05-29:/pocketsvg/PocketSVG</id>
+    <updated>2022-05-30T01:47:25Z</updated>
+    <id>tag:github.com,2022-05-30:/pocketsvg/PocketSVG</id>
     <link href="https://github.com/pocketsvg/PocketSVG" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Easily convert your SVG files into CGPaths, CAShapeLayers, and UIBezierPaths&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cedarbdd/cedar</title>
-    <updated>2022-05-29T01:49:06Z</updated>
-    <id>tag:github.com,2022-05-29:/cedarbdd/cedar</id>
-    <link href="https://github.com/cedarbdd/cedar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;BDD-style testing using Objective-C&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>johnboiles/obs-mac-virtualcam</title>
+    <updated>2022-05-30T01:47:25Z</updated>
+    <id>tag:github.com,2022-05-30:/johnboiles/obs-mac-virtualcam</id>
+    <link href="https://github.com/johnboiles/obs-mac-virtualcam" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ARCHIVED! This plugin is officially a part of OBS as of version 26.1. See note below for info on upgrading. 🎉🎉🎉Creates a virtual webcam device from the output of OBS. Especially useful for streaming smooth, composited video into Zoom, Hangouts, Jitsi etc. Like CatxFish/obs-virtualcam but for macOS.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>avibrazil/RDM</title>
-    <updated>2022-05-29T01:49:06Z</updated>
-    <id>tag:github.com,2022-05-29:/avibrazil/RDM</id>
+    <updated>2022-05-30T01:47:25Z</updated>
+    <id>tag:github.com,2022-05-30:/avibrazil/RDM</id>
     <link href="https://github.com/avibrazil/RDM" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Easily set Mac Retina display to higher unsupported resolutions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rive-app/rive-ios</title>
-    <updated>2022-05-29T01:49:06Z</updated>
-    <id>tag:github.com,2022-05-29:/rive-app/rive-ios</id>
-    <link href="https://github.com/rive-app/rive-ios" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;iOS runtime for Rive&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>facebook/FBRetainCycleDetector</title>
+    <updated>2022-05-30T01:47:25Z</updated>
+    <id>tag:github.com,2022-05-30:/facebook/FBRetainCycleDetector</id>
+    <link href="https://github.com/facebook/FBRetainCycleDetector" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;iOS library to help detecting retain cycles in runtime.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

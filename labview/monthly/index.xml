@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub LabVIEW Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T02:42:46Z</updated>
+  <updated>2022-05-30T02:42:11Z</updated>
   <subtitle>Monthly Trending of LabVIEW in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>ruanqizhen/labview_book</title>
-    <updated>2022-05-29T02:42:46Z</updated>
-    <id>tag:github.com,2022-05-29:/ruanqizhen/labview_book</id>
+    <updated>2022-05-30T02:42:11Z</updated>
+    <id>tag:github.com,2022-05-30:/ruanqizhen/labview_book</id>
     <link href="https://github.com/ruanqizhen/labview_book" rel="alternate"></link>
     <summary type="html">&lt;p&gt;LabVIEW 编程经验&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

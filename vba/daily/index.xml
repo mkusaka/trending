@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VBA Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T01:57:48Z</updated>
+  <updated>2022-05-30T01:55:51Z</updated>
   <subtitle>Daily Trending of VBA in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>YidaozhanYa/NSEmuHelper</title>
-    <updated>2022-05-29T01:57:48Z</updated>
-    <id>tag:github.com,2022-05-29:/YidaozhanYa/NSEmuHelper</id>
+    <updated>2022-05-30T01:55:51Z</updated>
+    <id>tag:github.com,2022-05-30:/YidaozhanYa/NSEmuHelper</id>
     <link href="https://github.com/YidaozhanYa/NSEmuHelper" rel="alternate"></link>
     <summary type="html">&lt;p&gt;简单高效的 NS 模拟器安装管理辅助工具&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Jonathan-LeRoux/IguanaTex</title>
-    <updated>2022-05-29T01:57:48Z</updated>
-    <id>tag:github.com,2022-05-29:/Jonathan-LeRoux/IguanaTex</id>
-    <link href="https://github.com/Jonathan-LeRoux/IguanaTex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A PowerPoint add-in allowing you to insert LaTeX equations into PowerPoint presentations on Windows and Mac&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dragokas/hijackthis</title>
+    <updated>2022-05-30T01:55:51Z</updated>
+    <id>tag:github.com,2022-05-30:/dragokas/hijackthis</id>
+    <link href="https://github.com/dragokas/hijackthis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A free utility that finds malware, adware and other security threats&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>RelaxTools/RelaxTools-Addin</title>
-    <updated>2022-05-29T01:57:48Z</updated>
-    <id>tag:github.com,2022-05-29:/RelaxTools/RelaxTools-Addin</id>
-    <link href="https://github.com/RelaxTools/RelaxTools-Addin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RelaxTools Addin for Microsoft Excel 2010/2013/2016&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bluetata/concise-excel-vba</title>
+    <updated>2022-05-30T01:55:51Z</updated>
+    <id>tag:github.com,2022-05-30:/bluetata/concise-excel-vba</id>
+    <link href="https://github.com/bluetata/concise-excel-vba" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Excel-vba 开发使用手册&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

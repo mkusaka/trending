@@ -1,35 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T01:41:33Z</updated>
+  <updated>2022-05-30T01:39:56Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
+    <title>arcaneenergy/tilemap-level-editor</title>
+    <updated>2022-05-30T01:39:56Z</updated>
+    <id>tag:github.com,2022-05-30:/arcaneenergy/tilemap-level-editor</id>
+    <link href="https://github.com/arcaneenergy/tilemap-level-editor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple tilemap level editor with export capability. Made for the Godot game engine.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>LunCoSim/lunco-sim</title>
+    <updated>2022-05-30T01:39:56Z</updated>
+    <id>tag:github.com,2022-05-30:/LunCoSim/lunco-sim</id>
+    <link href="https://github.com/LunCoSim/lunco-sim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LunCo: full-cycle space operations sim tool 🌎🚀🌚&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>Orama-Interactive/Pixelorama</title>
-    <updated>2022-05-29T01:41:33Z</updated>
-    <id>tag:github.com,2022-05-29:/Orama-Interactive/Pixelorama</id>
+    <updated>2022-05-30T01:39:56Z</updated>
+    <id>tag:github.com,2022-05-30:/Orama-Interactive/Pixelorama</id>
     <link href="https://github.com/Orama-Interactive/Pixelorama" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A free &amp; open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>godotengine/godot-demo-projects</title>
-    <updated>2022-05-29T01:41:33Z</updated>
-    <id>tag:github.com,2022-05-29:/godotengine/godot-demo-projects</id>
+    <updated>2022-05-30T01:39:56Z</updated>
+    <id>tag:github.com,2022-05-30:/godotengine/godot-demo-projects</id>
     <link href="https://github.com/godotengine/godot-demo-projects" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Demonstration and Template Projects&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>coppolaemilio/dialogic</title>
-    <updated>2022-05-29T01:41:33Z</updated>
-    <id>tag:github.com,2022-05-29:/coppolaemilio/dialogic</id>
-    <link href="https://github.com/coppolaemilio/dialogic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;💬 Create dialogs, characters and scenes to display conversations in your Godot games.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>mbrlabs/Lorien</title>
-    <updated>2022-05-29T01:41:33Z</updated>
-    <id>tag:github.com,2022-05-29:/mbrlabs/Lorien</id>
+    <updated>2022-05-30T01:39:56Z</updated>
+    <id>tag:github.com,2022-05-30:/mbrlabs/Lorien</id>
     <link href="https://github.com/mbrlabs/Lorien" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>uheartbeast/youtube-tutorials</title>
+    <updated>2022-05-30T01:39:56Z</updated>
+    <id>tag:github.com,2022-05-30:/uheartbeast/youtube-tutorials</id>
+    <link href="https://github.com/uheartbeast/youtube-tutorials" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A repository for holding all the source code to my YouTube tutorial videos.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

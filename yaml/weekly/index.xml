@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub YAML Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T02:27:58Z</updated>
+  <updated>2022-05-30T02:26:48Z</updated>
   <subtitle>Weekly Trending of YAML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>kubeflow/manifests</title>
-    <updated>2022-05-29T02:27:58Z</updated>
-    <id>tag:github.com,2022-05-29:/kubeflow/manifests</id>
+    <updated>2022-05-30T02:26:48Z</updated>
+    <id>tag:github.com,2022-05-30:/kubeflow/manifests</id>
     <link href="https://github.com/kubeflow/manifests" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A repository for Kustomize manifests&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>trinib/AdGuard-WireGuard-Unbound-Cloudflare</title>
+    <updated>2022-05-30T02:26:48Z</updated>
+    <id>tag:github.com,2022-05-30:/trinib/AdGuard-WireGuard-Unbound-Cloudflare</id>
+    <link href="https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The ultimate self-hosted network security guide ─ Protection🔒 | Privacy🔎 | Performance🚀 for your network 24/7🕛 Accessible anywhere🌏&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>usnistgov/macos_security</title>
-    <updated>2022-05-29T02:27:58Z</updated>
-    <id>tag:github.com,2022-05-29:/usnistgov/macos_security</id>
+    <updated>2022-05-30T02:26:48Z</updated>
+    <id>tag:github.com,2022-05-30:/usnistgov/macos_security</id>
     <link href="https://github.com/usnistgov/macos_security" rel="alternate"></link>
     <summary type="html">&lt;p&gt;macOS Security Compliance Project&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

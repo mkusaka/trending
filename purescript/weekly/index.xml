@@ -1,182 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PureScript Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T02:20:29Z</updated>
+  <updated>2022-05-30T02:19:10Z</updated>
   <subtitle>Weekly Trending of PureScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>nwolverson/purescript-aff-promise</title>
-    <updated>2022-05-29T02:20:29Z</updated>
-    <id>tag:github.com,2022-05-29:/nwolverson/purescript-aff-promise</id>
+    <updated>2022-05-30T02:19:10Z</updated>
+    <id>tag:github.com,2022-05-30:/nwolverson/purescript-aff-promise</id>
     <link href="https://github.com/nwolverson/purescript-aff-promise" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sharkdp/insect</title>
-    <updated>2022-05-29T02:20:29Z</updated>
-    <id>tag:github.com,2022-05-29:/sharkdp/insect</id>
-    <link href="https://github.com/sharkdp/insect" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;High precision scientific calculator with support for physical units&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript-contrib/purescript-aff</title>
+    <updated>2022-05-30T02:19:10Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript-contrib/purescript-aff</id>
+    <link href="https://github.com/purescript-contrib/purescript-aff" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An asynchronous effect monad for PureScript&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>purescript/purescript-arrays</title>
-    <updated>2022-05-29T02:20:29Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript/purescript-arrays</id>
+    <updated>2022-05-30T02:19:10Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript/purescript-arrays</id>
     <link href="https://github.com/purescript/purescript-arrays" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Array utility functions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purescript/purescript-datetime</title>
-    <updated>2022-05-29T02:20:29Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript/purescript-datetime</id>
-    <link href="https://github.com/purescript/purescript-datetime" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Date and time library for PureScript.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sharkdp/insect</title>
+    <updated>2022-05-30T02:19:10Z</updated>
+    <id>tag:github.com,2022-05-30:/sharkdp/insect</id>
+    <link href="https://github.com/sharkdp/insect" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;High precision scientific calculator with support for physical units&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>purescript/purescript-const</title>
-    <updated>2022-05-29T02:20:29Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript/purescript-const</id>
+    <updated>2022-05-30T02:19:10Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript/purescript-const</id>
     <link href="https://github.com/purescript/purescript-const" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Const data type and typeclass instances&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>purescript/purescript-foldable-traversable</title>
-    <updated>2022-05-29T02:20:29Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript/purescript-foldable-traversable</id>
+    <updated>2022-05-30T02:19:10Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript/purescript-foldable-traversable</id>
     <link href="https://github.com/purescript/purescript-foldable-traversable" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Classes for foldable and traversable data structures&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>purescript/purescript-datetime</title>
+    <updated>2022-05-30T02:19:10Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript/purescript-datetime</id>
+    <link href="https://github.com/purescript/purescript-datetime" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Date and time library for PureScript.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>input-output-hk/marlowe-cardano</title>
+    <updated>2022-05-30T02:19:10Z</updated>
+    <id>tag:github.com,2022-05-30:/input-output-hk/marlowe-cardano</id>
+    <link href="https://github.com/input-output-hk/marlowe-cardano" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Marlowe smart contract language Cardano implementation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>purescript-contrib/purescript-form-urlencoded</title>
-    <updated>2022-05-29T02:20:29Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript-contrib/purescript-form-urlencoded</id>
+    <updated>2022-05-30T02:19:10Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript-contrib/purescript-form-urlencoded</id>
     <link href="https://github.com/purescript-contrib/purescript-form-urlencoded" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A data type, and encoding / decoding functions for application/x-www-form-urlencoded&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>purescript/purescript-strings</title>
-    <updated>2022-05-29T02:20:29Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript/purescript-strings</id>
+    <updated>2022-05-30T02:19:10Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript/purescript-strings</id>
     <link href="https://github.com/purescript/purescript-strings" rel="alternate"></link>
     <summary type="html">&lt;p&gt;String utility functions, Char type, regular expressions.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>purescript/purescript-foreign</title>
-    <updated>2022-05-29T02:20:29Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript/purescript-foreign</id>
+    <updated>2022-05-30T02:19:10Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript/purescript-foreign</id>
     <link href="https://github.com/purescript/purescript-foreign" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Library for dealing with foreign data (JavaScript objects) in PureScript&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purescript-contrib/purescript-aff</title>
-    <updated>2022-05-29T02:20:29Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript-contrib/purescript-aff</id>
-    <link href="https://github.com/purescript-contrib/purescript-aff" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An asynchronous effect monad for PureScript&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hdgarrood/purescript-ansi</title>
-    <updated>2022-05-29T02:20:29Z</updated>
-    <id>tag:github.com,2022-05-29:/hdgarrood/purescript-ansi</id>
-    <link href="https://github.com/hdgarrood/purescript-ansi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A PureScript library for dealing with ANSI escape codes.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>purescript/purescript-enums</title>
-    <updated>2022-05-29T02:20:29Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript/purescript-enums</id>
-    <link href="https://github.com/purescript/purescript-enums" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Operations for sequentially ordered types&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>purescript/purescript-functions</title>
-    <updated>2022-05-29T02:20:29Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript/purescript-functions</id>
+    <updated>2022-05-30T02:19:10Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript/purescript-functions</id>
     <link href="https://github.com/purescript/purescript-functions" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Function combinators and types for multi-argument functions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>purescript/purescript-integers</title>
-    <updated>2022-05-29T02:20:29Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript/purescript-integers</id>
+    <updated>2022-05-30T02:19:10Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript/purescript-integers</id>
     <link href="https://github.com/purescript/purescript-integers" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Functions and bitwise operators for the Int numeric type&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>purescript/purescript-exceptions</title>
-    <updated>2022-05-29T02:20:29Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript/purescript-exceptions</id>
+    <updated>2022-05-30T02:19:10Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript/purescript-exceptions</id>
     <link href="https://github.com/purescript/purescript-exceptions" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Exception effects&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>purescript/purescript-parallel</title>
-    <updated>2022-05-29T02:20:29Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript/purescript-parallel</id>
+    <updated>2022-05-30T02:19:10Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript/purescript-parallel</id>
     <link href="https://github.com/purescript/purescript-parallel" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Classes for parallel composition and racing of asynchronous computations&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>purescript/purescript-gen</title>
-    <updated>2022-05-29T02:20:29Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript/purescript-gen</id>
+    <updated>2022-05-30T02:19:10Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript/purescript-gen</id>
     <link href="https://github.com/purescript/purescript-gen" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A type class for random generator implementations.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>purescript/purescript-enums</title>
+    <updated>2022-05-30T02:19:10Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript/purescript-enums</id>
+    <link href="https://github.com/purescript/purescript-enums" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Operations for sequentially ordered types&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>purescript/purescript-record</title>
-    <updated>2022-05-29T02:20:29Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript/purescript-record</id>
+    <updated>2022-05-30T02:19:10Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript/purescript-record</id>
     <link href="https://github.com/purescript/purescript-record" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Functions for working with records and polymorphic labels&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purescript/purescript-invariant</title>
-    <updated>2022-05-29T02:20:29Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript/purescript-invariant</id>
-    <link href="https://github.com/purescript/purescript-invariant" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Invariant functors&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript/purescript-contravariant</title>
+    <updated>2022-05-30T02:19:10Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript/purescript-contravariant</id>
+    <link href="https://github.com/purescript/purescript-contravariant" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Contravariant functors&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purescript/purescript-newtype</title>
-    <updated>2022-05-29T02:20:29Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript/purescript-newtype</id>
-    <link href="https://github.com/purescript/purescript-newtype" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Type class and functions for working with newtypes&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript/purescript-identity</title>
+    <updated>2022-05-30T02:19:10Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript/purescript-identity</id>
+    <link href="https://github.com/purescript/purescript-identity" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Identity value&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Plutonomicon/cardano-transaction-lib</title>
-    <updated>2022-05-29T02:20:29Z</updated>
-    <id>tag:github.com,2022-05-29:/Plutonomicon/cardano-transaction-lib</id>
-    <link href="https://github.com/Plutonomicon/cardano-transaction-lib" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript/purescript-partial</title>
+    <updated>2022-05-30T02:19:10Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript/purescript-partial</id>
+    <link href="https://github.com/purescript/purescript-partial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Utilities for working with partial functions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purescript/purescript-bifunctors</title>
-    <updated>2022-05-29T02:20:29Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript/purescript-bifunctors</id>
-    <link href="https://github.com/purescript/purescript-bifunctors" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bifunctors and biapplicatives&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript/purescript-transformers</title>
+    <updated>2022-05-30T02:19:10Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript/purescript-transformers</id>
+    <link href="https://github.com/purescript/purescript-transformers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Monad and comonad transformers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purescript/purescript-maybe</title>
-    <updated>2022-05-29T02:20:29Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript/purescript-maybe</id>
-    <link href="https://github.com/purescript/purescript-maybe" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Optional values&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript/purescript-control</title>
+    <updated>2022-05-30T02:19:10Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript/purescript-control</id>
+    <link href="https://github.com/purescript/purescript-control" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Common control classes and utility functions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purescript/purescript-unsafe-coerce</title>
-    <updated>2022-05-29T02:20:29Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript/purescript-unsafe-coerce</id>
-    <link href="https://github.com/purescript/purescript-unsafe-coerce" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Unsafe coercion of values&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript/purescript-distributive</title>
+    <updated>2022-05-30T02:19:10Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript/purescript-distributive</id>
+    <link href="https://github.com/purescript/purescript-distributive" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Distributive typeclass&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purescript/purescript-st</title>
-    <updated>2022-05-29T02:20:29Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript/purescript-st</id>
-    <link href="https://github.com/purescript/purescript-st" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The ST effect, for safe local mutation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript/purescript-functors</title>
+    <updated>2022-05-30T02:19:10Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript/purescript-functors</id>
+    <link href="https://github.com/purescript/purescript-functors" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Functor products, coproducts, and composition&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

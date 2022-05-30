@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Thrift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T01:56:53Z</updated>
+  <updated>2022-05-30T01:55:02Z</updated>
   <subtitle>Daily Trending of Thrift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
+    <title>ClickHouse/hive-metastore</title>
+    <updated>2022-05-30T01:55:02Z</updated>
+    <id>tag:github.com,2022-05-30:/ClickHouse/hive-metastore</id>
+    <link href="https://github.com/ClickHouse/hive-metastore" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;For files generated with https://github.com/apache/thrift&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>uber/cadence-idl</title>
-    <updated>2022-05-29T01:56:53Z</updated>
-    <id>tag:github.com,2022-05-29:/uber/cadence-idl</id>
+    <updated>2022-05-30T01:55:02Z</updated>
+    <id>tag:github.com,2022-05-30:/uber/cadence-idl</id>
     <link href="https://github.com/uber/cadence-idl" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Cadence IDL repo, shared by server / clients&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jaegertracing/jaeger-idl</title>
+    <updated>2022-05-30T01:55:02Z</updated>
+    <id>tag:github.com,2022-05-30:/jaegertracing/jaeger-idl</id>
+    <link href="https://github.com/jaegertracing/jaeger-idl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A set of shared data model definitions used by Jaeger components.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

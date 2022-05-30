@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cap&#39;n Proto Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T02:05:35Z</updated>
+  <updated>2022-05-30T02:03:54Z</updated>
   <subtitle>Weekly Trending of Cap&#39;n Proto in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>commaai/cereal</title>
-    <updated>2022-05-29T02:05:35Z</updated>
-    <id>tag:github.com,2022-05-29:/commaai/cereal</id>
-    <link href="https://github.com/commaai/cereal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;capnp struct definitions and messaging used in comma ecosystem&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

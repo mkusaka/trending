@@ -1,182 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T02:22:33Z</updated>
+  <updated>2022-05-30T02:21:16Z</updated>
   <subtitle>Weekly Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mdo/code-guide</title>
-    <updated>2022-05-29T02:22:33Z</updated>
-    <id>tag:github.com,2022-05-29:/mdo/code-guide</id>
-    <link href="https://github.com/mdo/code-guide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Standards for developing consistent, flexible, and sustainable HTML and CSS.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rozniak/xfce-winxp-tc</title>
-    <updated>2022-05-29T02:22:33Z</updated>
-    <id>tag:github.com,2022-05-29:/rozniak/xfce-winxp-tc</id>
-    <link href="https://github.com/rozniak/xfce-winxp-tc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Windows XP stuff for XFCE&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>wowchemy/wowchemy-hugo-themes</title>
-    <updated>2022-05-29T02:22:33Z</updated>
-    <id>tag:github.com,2022-05-29:/wowchemy/wowchemy-hugo-themes</id>
+    <updated>2022-05-30T02:21:16Z</updated>
+    <id>tag:github.com,2022-05-30:/wowchemy/wowchemy-hugo-themes</id>
     <link href="https://github.com/wowchemy/wowchemy-hugo-themes" rel="alternate"></link>
     <summary type="html">&lt;p&gt;🔥 Hugo website builder, Hugo themes &amp; Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>material-components/material-web</title>
-    <updated>2022-05-29T02:22:33Z</updated>
-    <id>tag:github.com,2022-05-29:/material-components/material-web</id>
-    <link href="https://github.com/material-components/material-web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Material Design Web Components&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mdo/code-guide</title>
+    <updated>2022-05-30T02:21:16Z</updated>
+    <id>tag:github.com,2022-05-30:/mdo/code-guide</id>
+    <link href="https://github.com/mdo/code-guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Standards for developing consistent, flexible, and sustainable HTML and CSS.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>jekyll/minima</title>
-    <updated>2022-05-29T02:22:33Z</updated>
-    <id>tag:github.com,2022-05-29:/jekyll/minima</id>
+    <updated>2022-05-30T02:21:16Z</updated>
+    <id>tag:github.com,2022-05-30:/jekyll/minima</id>
     <link href="https://github.com/jekyll/minima" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Minima is a one-size-fits-all Jekyll theme for writers.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>just-the-docs/just-the-docs</title>
-    <updated>2022-05-29T02:22:33Z</updated>
-    <id>tag:github.com,2022-05-29:/just-the-docs/just-the-docs</id>
-    <link href="https://github.com/just-the-docs/just-the-docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A modern, high customizable, responsive Jekyll theme for documention with built-in search.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>KittyGiraudel/sass-boilerplate</title>
-    <updated>2022-05-29T02:22:33Z</updated>
-    <id>tag:github.com,2022-05-29:/KittyGiraudel/sass-boilerplate</id>
-    <link href="https://github.com/KittyGiraudel/sass-boilerplate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A boilerplate for Sass projects using the 7-1 architecture pattern from Sass Guidelines.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>zabbix/community-templates</title>
-    <updated>2022-05-29T02:22:33Z</updated>
-    <id>tag:github.com,2022-05-29:/zabbix/community-templates</id>
-    <link href="https://github.com/zabbix/community-templates" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Zabbix Community Templates repository&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Keldos-Li/typora-latex-theme</title>
-    <updated>2022-05-29T02:22:33Z</updated>
-    <id>tag:github.com,2022-05-29:/Keldos-Li/typora-latex-theme</id>
-    <link href="https://github.com/Keldos-Li/typora-latex-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>slatedocs/slate</title>
-    <updated>2022-05-29T02:22:33Z</updated>
-    <id>tag:github.com,2022-05-29:/slatedocs/slate</id>
-    <link href="https://github.com/slatedocs/slate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Beautiful static documentation for your API&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ppeetteerrs/obsidian-zola</title>
-    <updated>2022-05-29T02:22:33Z</updated>
-    <id>tag:github.com,2022-05-29:/ppeetteerrs/obsidian-zola</id>
-    <link href="https://github.com/ppeetteerrs/obsidian-zola" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A no-brainer solution to turning your Obsidian PKM into a Zola site.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>microsoft/TypeScript-Node-Starter</title>
-    <updated>2022-05-29T02:22:33Z</updated>
-    <id>tag:github.com,2022-05-29:/microsoft/TypeScript-Node-Starter</id>
-    <link href="https://github.com/microsoft/TypeScript-Node-Starter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A reference example for TypeScript and Node with a detailed README describing how to use the two together.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>uswds/uswds</title>
-    <updated>2022-05-29T02:22:33Z</updated>
-    <id>tag:github.com,2022-05-29:/uswds/uswds</id>
-    <link href="https://github.com/uswds/uswds" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>vinceliuice/WhiteSur-gtk-theme</title>
-    <updated>2022-05-29T02:22:33Z</updated>
-    <id>tag:github.com,2022-05-29:/vinceliuice/WhiteSur-gtk-theme</id>
-    <link href="https://github.com/vinceliuice/WhiteSur-gtk-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MacOS Big Sur like theme for Gnome desktops&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mdbootstrap/mdb-ui-kit</title>
-    <updated>2022-05-29T02:22:33Z</updated>
-    <id>tag:github.com,2022-05-29:/mdbootstrap/mdb-ui-kit</id>
-    <link href="https://github.com/mdbootstrap/mdb-ui-kit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bootstrap 5 &amp; Material Design 2.0 UI KIT&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>prometheus/docs</title>
-    <updated>2022-05-29T02:22:33Z</updated>
-    <id>tag:github.com,2022-05-29:/prometheus/docs</id>
-    <link href="https://github.com/prometheus/docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Prometheus documentation: content and static site generator&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>material-components/material-web</title>
+    <updated>2022-05-30T02:21:16Z</updated>
+    <id>tag:github.com,2022-05-30:/material-components/material-web</id>
+    <link href="https://github.com/material-components/material-web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Material Design Web Components&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>RyanFitzgerald/devportfolio</title>
-    <updated>2022-05-29T02:22:33Z</updated>
-    <id>tag:github.com,2022-05-29:/RyanFitzgerald/devportfolio</id>
+    <updated>2022-05-30T02:21:16Z</updated>
+    <id>tag:github.com,2022-05-30:/RyanFitzgerald/devportfolio</id>
     <link href="https://github.com/RyanFitzgerald/devportfolio" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>zabbix/community-templates</title>
+    <updated>2022-05-30T02:21:16Z</updated>
+    <id>tag:github.com,2022-05-30:/zabbix/community-templates</id>
+    <link href="https://github.com/zabbix/community-templates" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Zabbix Community Templates repository&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ppeetteerrs/obsidian-zola</title>
+    <updated>2022-05-30T02:21:16Z</updated>
+    <id>tag:github.com,2022-05-30:/ppeetteerrs/obsidian-zola</id>
+    <link href="https://github.com/ppeetteerrs/obsidian-zola" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A no-brainer solution to turning your Obsidian PKM into a Zola site.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>just-the-docs/just-the-docs</title>
+    <updated>2022-05-30T02:21:16Z</updated>
+    <id>tag:github.com,2022-05-30:/just-the-docs/just-the-docs</id>
+    <link href="https://github.com/just-the-docs/just-the-docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A modern, high customizable, responsive Jekyll theme for documention with built-in search.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vinceliuice/WhiteSur-gtk-theme</title>
+    <updated>2022-05-30T02:21:16Z</updated>
+    <id>tag:github.com,2022-05-30:/vinceliuice/WhiteSur-gtk-theme</id>
+    <link href="https://github.com/vinceliuice/WhiteSur-gtk-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MacOS Big Sur like theme for Gnome desktops&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>microsoft/TypeScript-Node-Starter</title>
+    <updated>2022-05-30T02:21:16Z</updated>
+    <id>tag:github.com,2022-05-30:/microsoft/TypeScript-Node-Starter</id>
+    <link href="https://github.com/microsoft/TypeScript-Node-Starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A reference example for TypeScript and Node with a detailed README describing how to use the two together.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>slatedocs/slate</title>
+    <updated>2022-05-30T02:21:16Z</updated>
+    <id>tag:github.com,2022-05-30:/slatedocs/slate</id>
+    <link href="https://github.com/slatedocs/slate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Beautiful static documentation for your API&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cruip/open-react-template</title>
+    <updated>2022-05-30T02:21:16Z</updated>
+    <id>tag:github.com,2022-05-30:/cruip/open-react-template</id>
+    <link href="https://github.com/cruip/open-react-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A free React landing page template designed to showcase open source projects, SaaS products, online services, and more. Made by&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mdbootstrap/mdb-ui-kit</title>
+    <updated>2022-05-30T02:21:16Z</updated>
+    <id>tag:github.com,2022-05-30:/mdbootstrap/mdb-ui-kit</id>
+    <link href="https://github.com/mdbootstrap/mdb-ui-kit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bootstrap 5 &amp; Material Design 2.0 UI KIT&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>kitian616/jekyll-TeXt-theme</title>
-    <updated>2022-05-29T02:22:33Z</updated>
-    <id>tag:github.com,2022-05-29:/kitian616/jekyll-TeXt-theme</id>
+    <updated>2022-05-30T02:21:16Z</updated>
+    <id>tag:github.com,2022-05-30:/kitian616/jekyll-TeXt-theme</id>
     <link href="https://github.com/kitian616/jekyll-TeXt-theme" rel="alternate"></link>
     <summary type="html">&lt;p&gt;💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>picocss/pico</title>
-    <updated>2022-05-29T02:22:33Z</updated>
-    <id>tag:github.com,2022-05-29:/picocss/pico</id>
-    <link href="https://github.com/picocss/pico" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Minimal CSS Framework for semantic HTML&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>next-step/atdd-subway-admin</title>
+    <updated>2022-05-30T02:21:16Z</updated>
+    <id>tag:github.com,2022-05-30:/next-step/atdd-subway-admin</id>
+    <link href="https://github.com/next-step/atdd-subway-admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;우아한테크캠프 pro ATDD 과정 저장소&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mate-academy/layout_miami</title>
-    <updated>2022-05-29T02:22:33Z</updated>
-    <id>tag:github.com,2022-05-29:/mate-academy/layout_miami</id>
-    <link href="https://github.com/mate-academy/layout_miami" rel="alternate"></link>
+    <title>mate-academy/layout_creativeBakery</title>
+    <updated>2022-05-30T02:21:16Z</updated>
+    <id>tag:github.com,2022-05-30:/mate-academy/layout_creativeBakery</id>
+    <link href="https://github.com/mate-academy/layout_creativeBakery" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>creativetimofficial/material-dashboard</title>
-    <updated>2022-05-29T02:22:33Z</updated>
-    <id>tag:github.com,2022-05-29:/creativetimofficial/material-dashboard</id>
-    <link href="https://github.com/creativetimofficial/material-dashboard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Material Dashboard - Open Source Bootstrap 5 Material Design Admin&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>mate-academy/Eco_cosmetics</title>
-    <updated>2022-05-29T02:22:33Z</updated>
-    <id>tag:github.com,2022-05-29:/mate-academy/Eco_cosmetics</id>
+    <updated>2022-05-30T02:21:16Z</updated>
+    <id>tag:github.com,2022-05-30:/mate-academy/Eco_cosmetics</id>
     <link href="https://github.com/mate-academy/Eco_cosmetics" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>conventional-commits/conventionalcommits.org</title>
-    <updated>2022-05-29T02:22:33Z</updated>
-    <id>tag:github.com,2022-05-29:/conventional-commits/conventionalcommits.org</id>
-    <link href="https://github.com/conventional-commits/conventionalcommits.org" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The conventional commits specification&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mate-academy/layout_miami</title>
+    <updated>2022-05-30T02:21:16Z</updated>
+    <id>tag:github.com,2022-05-30:/mate-academy/layout_miami</id>
+    <link href="https://github.com/mate-academy/layout_miami" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>flutter/website</title>
-    <updated>2022-05-29T02:22:33Z</updated>
-    <id>tag:github.com,2022-05-29:/flutter/website</id>
-    <link href="https://github.com/flutter/website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Flutter documentation web site&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>patdryburgh/hitchens</title>
+    <updated>2022-05-30T02:21:16Z</updated>
+    <id>tag:github.com,2022-05-30:/patdryburgh/hitchens</id>
+    <link href="https://github.com/patdryburgh/hitchens" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An inarguably well-designed Jekyll theme.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>mate-academy/layout_dia</title>
-    <updated>2022-05-29T02:22:33Z</updated>
-    <id>tag:github.com,2022-05-29:/mate-academy/layout_dia</id>
+    <updated>2022-05-30T02:21:16Z</updated>
+    <id>tag:github.com,2022-05-30:/mate-academy/layout_dia</id>
     <link href="https://github.com/mate-academy/layout_dia" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rozniak/xfce-winxp-tc</title>
+    <updated>2022-05-30T02:21:16Z</updated>
+    <id>tag:github.com,2022-05-30:/rozniak/xfce-winxp-tc</id>
+    <link href="https://github.com/rozniak/xfce-winxp-tc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Windows XP stuff for XFCE&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>uswds/uswds</title>
+    <updated>2022-05-30T02:21:16Z</updated>
+    <id>tag:github.com,2022-05-30:/uswds/uswds</id>
+    <link href="https://github.com/uswds/uswds" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SpiderStrategies/scoreboard-colors</title>
+    <updated>2022-05-30T02:21:16Z</updated>
+    <id>tag:github.com,2022-05-30:/SpiderStrategies/scoreboard-colors</id>
+    <link href="https://github.com/SpiderStrategies/scoreboard-colors" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sass stylesheets for colors shared between various Scoreboard projects&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>creativetimofficial/material-dashboard</title>
+    <updated>2022-05-30T02:21:16Z</updated>
+    <id>tag:github.com,2022-05-30:/creativetimofficial/material-dashboard</id>
+    <link href="https://github.com/creativetimofficial/material-dashboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Material Dashboard - Open Source Bootstrap 5 Material Design Admin&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bedimcode/responsive-404-page</title>
+    <updated>2022-05-30T02:21:16Z</updated>
+    <id>tag:github.com,2022-05-30:/bedimcode/responsive-404-page</id>
+    <link href="https://github.com/bedimcode/responsive-404-page" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Responsive 404 Page Website Design Using HTML CSS &amp; JavaScript&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

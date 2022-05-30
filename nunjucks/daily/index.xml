@@ -1,35 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nunjucks Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T01:49:00Z</updated>
+  <updated>2022-05-30T01:47:17Z</updated>
   <subtitle>Daily Trending of Nunjucks in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>phpstan/phpstan</title>
-    <updated>2022-05-29T01:49:00Z</updated>
-    <id>tag:github.com,2022-05-29:/phpstan/phpstan</id>
-    <link href="https://github.com/phpstan/phpstan" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PHP Static Analysis Tool - discover bugs in your code without running it!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jamstack/jamstack.org</title>
-    <updated>2022-05-29T01:49:00Z</updated>
-    <id>tag:github.com,2022-05-29:/jamstack/jamstack.org</id>
-    <link href="https://github.com/jamstack/jamstack.org" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The official Jamstack site&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>h5bp/Front-end-Developer-Interview-Questions</title>
-    <updated>2022-05-29T01:49:00Z</updated>
-    <id>tag:github.com,2022-05-29:/h5bp/Front-end-Developer-Interview-Questions</id>
+    <updated>2022-05-30T01:47:17Z</updated>
+    <id>tag:github.com,2022-05-30:/h5bp/Front-end-Developer-Interview-Questions</id>
     <link href="https://github.com/h5bp/Front-end-Developer-Interview-Questions" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>GoogleChromeLabs/quicklink</title>
-    <updated>2022-05-29T01:49:00Z</updated>
-    <id>tag:github.com,2022-05-29:/GoogleChromeLabs/quicklink</id>
-    <link href="https://github.com/GoogleChromeLabs/quicklink" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>stefanjudis/tiny-helpers</title>
+    <updated>2022-05-30T01:47:17Z</updated>
+    <id>tag:github.com,2022-05-30:/stefanjudis/tiny-helpers</id>
+    <link href="https://github.com/stefanjudis/tiny-helpers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of useful online web development tools&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>phpstan/phpstan</title>
+    <updated>2022-05-30T01:47:17Z</updated>
+    <id>tag:github.com,2022-05-30:/phpstan/phpstan</id>
+    <link href="https://github.com/phpstan/phpstan" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PHP Static Analysis Tool - discover bugs in your code without running it!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>11ty/eleventy-base-blog</title>
+    <updated>2022-05-30T01:47:17Z</updated>
+    <id>tag:github.com,2022-05-30:/11ty/eleventy-base-blog</id>
+    <link href="https://github.com/11ty/eleventy-base-blog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A starter repository for a blog web site using the Eleventy static site generator.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>soyHenry/Math4Data</title>
+    <updated>2022-05-30T01:47:17Z</updated>
+    <id>tag:github.com,2022-05-30:/soyHenry/Math4Data</id>
+    <link href="https://github.com/soyHenry/Math4Data" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

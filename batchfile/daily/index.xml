@@ -1,182 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T01:35:42Z</updated>
+  <updated>2022-05-30T01:33:52Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>enhorse/java-interview</title>
-    <updated>2022-05-29T01:35:42Z</updated>
-    <id>tag:github.com,2022-05-29:/enhorse/java-interview</id>
-    <link href="https://github.com/enhorse/java-interview" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Вопросы и ответы к интервью Java разработчика&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>massgravel/Microsoft-Activation-Scripts</title>
-    <updated>2022-05-29T01:35:42Z</updated>
-    <id>tag:github.com,2022-05-29:/massgravel/Microsoft-Activation-Scripts</id>
+    <updated>2022-05-30T01:33:52Z</updated>
+    <id>tag:github.com,2022-05-30:/massgravel/Microsoft-Activation-Scripts</id>
     <link href="https://github.com/massgravel/Microsoft-Activation-Scripts" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LordOfMice/hidusbf</title>
-    <updated>2022-05-29T01:35:42Z</updated>
-    <id>tag:github.com,2022-05-29:/LordOfMice/hidusbf</id>
-    <link href="https://github.com/LordOfMice/hidusbf" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;USB Mice Overclocking Software (for Windows)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Zakybotz/Rdp-Free</title>
-    <updated>2022-05-29T01:35:42Z</updated>
-    <id>tag:github.com,2022-05-29:/Zakybotz/Rdp-Free</id>
-    <link href="https://github.com/Zakybotz/Rdp-Free" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gw mau bagiin rdp nih cuy😅&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>zohaibcsl/Free-RDP</title>
-    <updated>2022-05-29T01:35:42Z</updated>
-    <id>tag:github.com,2022-05-29:/zohaibcsl/Free-RDP</id>
-    <link href="https://github.com/zohaibcsl/Free-RDP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jahabardeen/Windows_RDP.001</title>
-    <updated>2022-05-29T01:35:42Z</updated>
-    <id>tag:github.com,2022-05-29:/jahabardeen/Windows_RDP.001</id>
-    <link href="https://github.com/jahabardeen/Windows_RDP.001" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Rdprepogithub01/Rdp</title>
-    <updated>2022-05-29T01:35:42Z</updated>
-    <id>tag:github.com,2022-05-29:/Rdprepogithub01/Rdp</id>
-    <link href="https://github.com/Rdprepogithub01/Rdp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>NightBOTDeveloper/freerdp1</title>
-    <updated>2022-05-29T01:35:42Z</updated>
-    <id>tag:github.com,2022-05-29:/NightBOTDeveloper/freerdp1</id>
-    <link href="https://github.com/NightBOTDeveloper/freerdp1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pannila/Windows2019RDP-Github-main</title>
-    <updated>2022-05-29T01:35:42Z</updated>
-    <id>tag:github.com,2022-05-29:/pannila/Windows2019RDP-Github-main</id>
-    <link href="https://github.com/pannila/Windows2019RDP-Github-main" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>timerz23/Ngrok-rdp</title>
-    <updated>2022-05-29T01:35:42Z</updated>
-    <id>tag:github.com,2022-05-29:/timerz23/Ngrok-rdp</id>
-    <link href="https://github.com/timerz23/Ngrok-rdp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>redgans/RDPngrokkk</title>
-    <updated>2022-05-29T01:35:42Z</updated>
-    <id>tag:github.com,2022-05-29:/redgans/RDPngrokkk</id>
-    <link href="https://github.com/redgans/RDPngrokkk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;adfada&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>freljordfrost/RDP</title>
-    <updated>2022-05-29T01:35:42Z</updated>
-    <id>tag:github.com,2022-05-29:/freljordfrost/RDP</id>
-    <link href="https://github.com/freljordfrost/RDP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mariorossi43438/FreeRDP-Remastered-main</title>
-    <updated>2022-05-29T01:35:42Z</updated>
-    <id>tag:github.com,2022-05-29:/mariorossi43438/FreeRDP-Remastered-main</id>
-    <link href="https://github.com/mariorossi43438/FreeRDP-Remastered-main" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;infinite time&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>NextronSystems/APTSimulator</title>
-    <updated>2022-05-29T01:35:42Z</updated>
-    <id>tag:github.com,2022-05-29:/NextronSystems/APTSimulator</id>
-    <link href="https://github.com/NextronSystems/APTSimulator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A toolset to make a system look as if it was the victim of an APT attack&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>senananyan/freerdp1</title>
-    <updated>2022-05-29T01:35:42Z</updated>
-    <id>tag:github.com,2022-05-29:/senananyan/freerdp1</id>
-    <link href="https://github.com/senananyan/freerdp1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;freerdp&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>MichaelJorky/Free_RDP_Ngrok</title>
-    <updated>2022-05-29T01:35:42Z</updated>
-    <id>tag:github.com,2022-05-29:/MichaelJorky/Free_RDP_Ngrok</id>
-    <link href="https://github.com/MichaelJorky/Free_RDP_Ngrok" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>AveYo/MediaCreationTool.bat</title>
-    <updated>2022-05-29T01:35:42Z</updated>
-    <id>tag:github.com,2022-05-29:/AveYo/MediaCreationTool.bat</id>
-    <link href="https://github.com/AveYo/MediaCreationTool.bat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>yaiselcubilla/-Windows2019RDP-Github</title>
-    <updated>2022-05-29T01:35:42Z</updated>
-    <id>tag:github.com,2022-05-29:/yaiselcubilla/-Windows2019RDP-Github</id>
-    <link href="https://github.com/yaiselcubilla/-Windows2019RDP-Github" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>CesiumGS/3d-tiles</title>
-    <updated>2022-05-29T01:35:42Z</updated>
-    <id>tag:github.com,2022-05-29:/CesiumGS/3d-tiles</id>
-    <link href="https://github.com/CesiumGS/3d-tiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Specification for streaming massive heterogeneous 3D geospatial datasets 🌎&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>badafans/better-cloudflare-ip</title>
-    <updated>2022-05-29T01:35:42Z</updated>
-    <id>tag:github.com,2022-05-29:/badafans/better-cloudflare-ip</id>
+    <updated>2022-05-30T01:33:52Z</updated>
+    <id>tag:github.com,2022-05-30:/badafans/better-cloudflare-ip</id>
     <link href="https://github.com/badafans/better-cloudflare-ip" rel="alternate"></link>
     <summary type="html">&lt;p&gt;查找适合自己当前网络环境的优选cloudflare anycast IP&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>shenyaocn/IP-Camera-Bridge</title>
-    <updated>2022-05-29T01:35:42Z</updated>
-    <id>tag:github.com,2022-05-29:/shenyaocn/IP-Camera-Bridge</id>
-    <link href="https://github.com/shenyaocn/IP-Camera-Bridge" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A MJPEG video streaming and virtual microphone driver for Windows which can make your Windows applications using IP Camera as WebCam with audio input.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Mr-xn/RedTeam_BlueTeam_HW</title>
-    <updated>2022-05-29T01:35:42Z</updated>
-    <id>tag:github.com,2022-05-29:/Mr-xn/RedTeam_BlueTeam_HW</id>
-    <link href="https://github.com/Mr-xn/RedTeam_BlueTeam_HW" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）和内存马查杀工具&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>realpython/python-guide</title>
-    <updated>2022-05-29T01:35:42Z</updated>
-    <id>tag:github.com,2022-05-29:/realpython/python-guide</id>
+    <updated>2022-05-30T01:33:52Z</updated>
+    <id>tag:github.com,2022-05-30:/realpython/python-guide</id>
     <link href="https://github.com/realpython/python-guide" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Python best practices guidebook, written for humans.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>NGLEmp/NGLEmp</title>
-    <updated>2022-05-29T01:35:42Z</updated>
-    <id>tag:github.com,2022-05-29:/NGLEmp/NGLEmp</id>
-    <link href="https://github.com/NGLEmp/NGLEmp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Best Photoshop 2022 plugin.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>enhorse/java-interview</title>
+    <updated>2022-05-30T01:33:52Z</updated>
+    <id>tag:github.com,2022-05-30:/enhorse/java-interview</id>
+    <link href="https://github.com/enhorse/java-interview" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Вопросы и ответы к интервью Java разработчика&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>DesktopECHO/Kali-xRDP</title>
-    <updated>2022-05-29T01:35:42Z</updated>
-    <id>tag:github.com,2022-05-29:/DesktopECHO/Kali-xRDP</id>
-    <link href="https://github.com/DesktopECHO/Kali-xRDP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Kali xRDP GUI for WSL1 &amp; WSL2&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AveYo/MediaCreationTool.bat</title>
+    <updated>2022-05-30T01:33:52Z</updated>
+    <id>tag:github.com,2022-05-30:/AveYo/MediaCreationTool.bat</id>
+    <link href="https://github.com/AveYo/MediaCreationTool.bat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Atlas-OS/Atlas</title>
+    <updated>2022-05-30T01:33:52Z</updated>
+    <id>tag:github.com,2022-05-30:/Atlas-OS/Atlas</id>
+    <link href="https://github.com/Atlas-OS/Atlas" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An open source modification of the Windows 10 operating system, designed to optimize performance, and latency.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>LordOfMice/hidusbf</title>
+    <updated>2022-05-30T01:33:52Z</updated>
+    <id>tag:github.com,2022-05-30:/LordOfMice/hidusbf</id>
+    <link href="https://github.com/LordOfMice/hidusbf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;USB Mice Overclocking Software (for Windows)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rootmelo92118/-</title>
+    <updated>2022-05-30T01:33:52Z</updated>
+    <id>tag:github.com,2022-05-30:/rootmelo92118/-</id>
+    <link href="https://github.com/rootmelo92118/-" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Rdprepogithub01/Rdp</title>
+    <updated>2022-05-30T01:33:52Z</updated>
+    <id>tag:github.com,2022-05-30:/Rdprepogithub01/Rdp</id>
+    <link href="https://github.com/Rdprepogithub01/Rdp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sr2echa/Monotone-HWID-Spoofer</title>
+    <updated>2022-05-30T01:33:52Z</updated>
+    <id>tag:github.com,2022-05-30:/sr2echa/Monotone-HWID-Spoofer</id>
+    <link href="https://github.com/sr2echa/Monotone-HWID-Spoofer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Custom Created Hardware ID Spoofer to Bypass Hardware or IP Bans&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AyGemuy/RDP-WIN10</title>
+    <updated>2022-05-30T01:33:52Z</updated>
+    <id>tag:github.com,2022-05-30:/AyGemuy/RDP-WIN10</id>
+    <link href="https://github.com/AyGemuy/RDP-WIN10" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;6 JAM&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dangelochristiansen/Tech-To-Bangla</title>
+    <updated>2022-05-30T01:33:52Z</updated>
+    <id>tag:github.com,2022-05-30:/dangelochristiansen/Tech-To-Bangla</id>
+    <link href="https://github.com/dangelochristiansen/Tech-To-Bangla" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>adtitas/ngrok-rdp</title>
+    <updated>2022-05-30T01:33:52Z</updated>
+    <id>tag:github.com,2022-05-30:/adtitas/ngrok-rdp</id>
+    <link href="https://github.com/adtitas/ngrok-rdp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Virtual Remote Server | ngrok&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>FQrabbit/SSTap-Rule</title>
+    <updated>2022-05-30T01:33:52Z</updated>
+    <id>tag:github.com,2022-05-30:/FQrabbit/SSTap-Rule</id>
+    <link href="https://github.com/FQrabbit/SSTap-Rule" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;支持更多游戏规则，让SSTap成为真正的“网游加速器”&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kkkgo/LTSC-Add-MicrosoftStore</title>
+    <updated>2022-05-30T01:33:52Z</updated>
+    <id>tag:github.com,2022-05-30:/kkkgo/LTSC-Add-MicrosoftStore</id>
+    <link href="https://github.com/kkkgo/LTSC-Add-MicrosoftStore" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Add Windows Store for LTSC&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>abbodi1406/KMS_VL_ALL_AIO</title>
+    <updated>2022-05-30T01:33:52Z</updated>
+    <id>tag:github.com,2022-05-30:/abbodi1406/KMS_VL_ALL_AIO</id>
+    <link href="https://github.com/abbodi1406/KMS_VL_ALL_AIO" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Smart Activation Script&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>voletro/wsa-toolbox</title>
+    <updated>2022-05-30T01:33:52Z</updated>
+    <id>tag:github.com,2022-05-30:/voletro/wsa-toolbox</id>
+    <link href="https://github.com/voletro/wsa-toolbox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Windows 11 application to easily install and use the Windows Subsystem For Android™ package on your computer.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>awesome-windows11/windows11</title>
+    <updated>2022-05-30T01:33:52Z</updated>
+    <id>tag:github.com,2022-05-30:/awesome-windows11/windows11</id>
+    <link href="https://github.com/awesome-windows11/windows11" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Windows 11 Settings, Tweaks, Scripts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>namikulaufa/rdpngrok</title>
+    <updated>2022-05-30T01:33:52Z</updated>
+    <id>tag:github.com,2022-05-30:/namikulaufa/rdpngrok</id>
+    <link href="https://github.com/namikulaufa/rdpngrok" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SarnaxLii/HWID_Spoofer</title>
+    <updated>2022-05-30T01:33:52Z</updated>
+    <id>tag:github.com,2022-05-30:/SarnaxLii/HWID_Spoofer</id>
+    <link href="https://github.com/SarnaxLii/HWID_Spoofer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This will change the S/N and Hardware ID.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bill-zhanxg/MEMZ_Destructive_Clean-Download</title>
+    <updated>2022-05-30T01:33:52Z</updated>
+    <id>tag:github.com,2022-05-30:/bill-zhanxg/MEMZ_Destructive_Clean-Download</id>
+    <link href="https://github.com/bill-zhanxg/MEMZ_Destructive_Clean-Download" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Asia81/HackingToolkit9DS-Deprecated-</title>
+    <updated>2022-05-30T01:33:52Z</updated>
+    <id>tag:github.com,2022-05-30:/Asia81/HackingToolkit9DS-Deprecated-</id>
+    <link href="https://github.com/Asia81/HackingToolkit9DS-Deprecated-" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;HackingToolkit9DS, a (deprecated) 3DS RomHacking Tool&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Zakybotz/Rdp-Free</title>
+    <updated>2022-05-30T01:33:52Z</updated>
+    <id>tag:github.com,2022-05-30:/Zakybotz/Rdp-Free</id>
+    <link href="https://github.com/Zakybotz/Rdp-Free" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gw mau bagiin rdp nih cuy😅&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nodemcu/nodemcu-devkit</title>
+    <updated>2022-05-30T01:33:52Z</updated>
+    <id>tag:github.com,2022-05-30:/nodemcu/nodemcu-devkit</id>
+    <link href="https://github.com/nodemcu/nodemcu-devkit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A development kit for NodeMCU firmware&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>shenyaocn/IP-Camera-Bridge</title>
+    <updated>2022-05-30T01:33:52Z</updated>
+    <id>tag:github.com,2022-05-30:/shenyaocn/IP-Camera-Bridge</id>
+    <link href="https://github.com/shenyaocn/IP-Camera-Bridge" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A MJPEG video streaming and virtual microphone driver for Windows which can make your Windows applications using IP Camera as WebCam with audio input.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

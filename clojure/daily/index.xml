@@ -1,161 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T01:37:19Z</updated>
+  <updated>2022-05-30T01:35:34Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>clj-kondo/clj-kondo</title>
-    <updated>2022-05-29T01:37:19Z</updated>
-    <id>tag:github.com,2022-05-29:/clj-kondo/clj-kondo</id>
-    <link href="https://github.com/clj-kondo/clj-kondo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A linter for Clojure code that sparks joy.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>status-im/status-react</title>
-    <updated>2022-05-29T01:37:19Z</updated>
-    <id>tag:github.com,2022-05-29:/status-im/status-react</id>
-    <link href="https://github.com/status-im/status-react" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a free (libre) open source, mobile OS for Ethereum&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>BetterThanTomorrow/calva</title>
-    <updated>2022-05-29T01:37:19Z</updated>
-    <id>tag:github.com,2022-05-29:/BetterThanTomorrow/calva</id>
-    <link href="https://github.com/BetterThanTomorrow/calva" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clojure &amp; ClojureScript Interactive Programming for VS Code&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>logseq/logseq</title>
-    <updated>2022-05-29T01:37:19Z</updated>
-    <id>tag:github.com,2022-05-29:/logseq/logseq</id>
+    <updated>2022-05-30T01:35:34Z</updated>
+    <id>tag:github.com,2022-05-30:/logseq/logseq</id>
     <link href="https://github.com/logseq/logseq" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>metabase/metabase</title>
-    <updated>2022-05-29T01:37:19Z</updated>
-    <id>tag:github.com,2022-05-29:/metabase/metabase</id>
-    <link href="https://github.com/metabase/metabase" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>functional-koans/clojure-koans</title>
+    <updated>2022-05-30T01:35:34Z</updated>
+    <id>tag:github.com,2022-05-30:/functional-koans/clojure-koans</id>
+    <link href="https://github.com/functional-koans/clojure-koans" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A set of exercises for learning Clojure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jepsen-io/jepsen</title>
-    <updated>2022-05-29T01:37:19Z</updated>
-    <id>tag:github.com,2022-05-29:/jepsen-io/jepsen</id>
-    <link href="https://github.com/jepsen-io/jepsen" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A framework for distributed systems verification, with fault injection&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tonsky/datascript</title>
-    <updated>2022-05-29T01:37:19Z</updated>
-    <id>tag:github.com,2022-05-29:/tonsky/datascript</id>
-    <link href="https://github.com/tonsky/datascript" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Immutable database and Datalog query engine for Clojure, ClojureScript and JS&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>metosin/malli</title>
-    <updated>2022-05-29T01:37:19Z</updated>
-    <id>tag:github.com,2022-05-29:/metosin/malli</id>
-    <link href="https://github.com/metosin/malli" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Data-Driven Schemas for Clojure/Script.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tonsky/FiraCode</title>
-    <updated>2022-05-29T01:37:19Z</updated>
-    <id>tag:github.com,2022-05-29:/tonsky/FiraCode</id>
-    <link href="https://github.com/tonsky/FiraCode" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Free monospaced font with programming ligatures&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>puppetlabs/puppetserver</title>
-    <updated>2022-05-29T01:37:19Z</updated>
-    <id>tag:github.com,2022-05-29:/puppetlabs/puppetserver</id>
-    <link href="https://github.com/puppetlabs/puppetserver" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Server automation framework and application&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>athensresearch/athens</title>
-    <updated>2022-05-29T01:37:19Z</updated>
-    <id>tag:github.com,2022-05-29:/athensresearch/athens</id>
-    <link href="https://github.com/athensresearch/athens" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://athensresearch.github.io/docs/&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>clojure/tools.build</title>
-    <updated>2022-05-29T01:37:19Z</updated>
-    <id>tag:github.com,2022-05-29:/clojure/tools.build</id>
-    <link href="https://github.com/clojure/tools.build" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clojure builds as Clojure programs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ertugrulcetin/herfi</title>
-    <updated>2022-05-29T01:37:19Z</updated>
-    <id>tag:github.com,2022-05-29:/ertugrulcetin/herfi</id>
-    <link href="https://github.com/ertugrulcetin/herfi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;3D multiplayer game prototype written in Clojure and ClojureScript&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rogeriochaves/npm-force-resolutions</title>
-    <updated>2022-05-29T01:37:19Z</updated>
-    <id>tag:github.com,2022-05-29:/rogeriochaves/npm-force-resolutions</id>
-    <link href="https://github.com/rogeriochaves/npm-force-resolutions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Force npm to install a specific transitive dependency version&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>seancorfield/build-clj</title>
-    <updated>2022-05-29T01:37:19Z</updated>
-    <id>tag:github.com,2022-05-29:/seancorfield/build-clj</id>
-    <link href="https://github.com/seancorfield/build-clj" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Common build tasks abstracted into a library.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>clj-commons/etaoin</title>
-    <updated>2022-05-29T01:37:19Z</updated>
-    <id>tag:github.com,2022-05-29:/clj-commons/etaoin</id>
-    <link href="https://github.com/clj-commons/etaoin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pure Clojure Webdriver protocol implementation&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>puppetlabs/puppetdb</title>
-    <updated>2022-05-29T01:37:19Z</updated>
-    <id>tag:github.com,2022-05-29:/puppetlabs/puppetdb</id>
-    <link href="https://github.com/puppetlabs/puppetdb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Centralized Puppet Storage&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>babashka/babashka</title>
-    <updated>2022-05-29T01:37:19Z</updated>
-    <id>tag:github.com,2022-05-29:/babashka/babashka</id>
-    <link href="https://github.com/babashka/babashka" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Native, fast starting Clojure interpreter for scripting&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>clj-kondo/clj-kondo</title>
+    <updated>2022-05-30T01:35:34Z</updated>
+    <id>tag:github.com,2022-05-30:/clj-kondo/clj-kondo</id>
+    <link href="https://github.com/clj-kondo/clj-kondo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A linter for Clojure code that sparks joy.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>babashka/sci</title>
-    <updated>2022-05-29T01:37:19Z</updated>
-    <id>tag:github.com,2022-05-29:/babashka/sci</id>
+    <updated>2022-05-30T01:35:34Z</updated>
+    <id>tag:github.com,2022-05-30:/babashka/sci</id>
     <link href="https://github.com/babashka/sci" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Configurable Clojure interpreter suitable for scripting and Clojure DSLs.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>reagent-project/reagent</title>
-    <updated>2022-05-29T01:37:19Z</updated>
-    <id>tag:github.com,2022-05-29:/reagent-project/reagent</id>
-    <link href="https://github.com/reagent-project/reagent" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A minimalistic ClojureScript interface to React.js&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>babashka/babashka</title>
+    <updated>2022-05-30T01:35:34Z</updated>
+    <id>tag:github.com,2022-05-30:/babashka/babashka</id>
+    <link href="https://github.com/babashka/babashka" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Native, fast starting Clojure interpreter for scripting&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>penpot/penpot</title>
+    <updated>2022-05-30T01:35:34Z</updated>
+    <id>tag:github.com,2022-05-30:/penpot/penpot</id>
+    <link href="https://github.com/penpot/penpot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Penpot - The Open-Source design &amp; prototyping platform&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>puppetlabs/puppetserver</title>
+    <updated>2022-05-30T01:35:34Z</updated>
+    <id>tag:github.com,2022-05-30:/puppetlabs/puppetserver</id>
+    <link href="https://github.com/puppetlabs/puppetserver" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Server automation framework and application&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>metabase/metabase</title>
+    <updated>2022-05-30T01:35:34Z</updated>
+    <id>tag:github.com,2022-05-30:/metabase/metabase</id>
+    <link href="https://github.com/metabase/metabase" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Tensegritics/ClojureDart</title>
+    <updated>2022-05-30T01:35:34Z</updated>
+    <id>tag:github.com,2022-05-30:/Tensegritics/ClojureDart</id>
+    <link href="https://github.com/Tensegritics/ClojureDart" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A port of Clojure that compiles to Dart&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>BetterThanTomorrow/calva</title>
+    <updated>2022-05-30T01:35:34Z</updated>
+    <id>tag:github.com,2022-05-30:/BetterThanTomorrow/calva</id>
+    <link href="https://github.com/BetterThanTomorrow/calva" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clojure &amp; ClojureScript Interactive Programming for VS Code&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nextjournal/clerk</title>
+    <updated>2022-05-30T01:35:34Z</updated>
+    <id>tag:github.com,2022-05-30:/nextjournal/clerk</id>
+    <link href="https://github.com/nextjournal/clerk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Local-First Notebooks for Clojure&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>swarmpit/swarmpit</title>
+    <updated>2022-05-30T01:35:34Z</updated>
+    <id>tag:github.com,2022-05-30:/swarmpit/swarmpit</id>
+    <link href="https://github.com/swarmpit/swarmpit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lightweight mobile-friendly Docker Swarm management UI&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>xtdb/xtdb</title>
+    <updated>2022-05-30T01:35:34Z</updated>
+    <id>tag:github.com,2022-05-30:/xtdb/xtdb</id>
+    <link href="https://github.com/xtdb/xtdb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;General-purpose bitemporal database for SQL, Datalog &amp; graph queries. Developed by @juxt&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tonsky/FiraCode</title>
+    <updated>2022-05-30T01:35:34Z</updated>
+    <id>tag:github.com,2022-05-30:/tonsky/FiraCode</id>
+    <link href="https://github.com/tonsky/FiraCode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free monospaced font with programming ligatures&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>seancorfield/usermanager-example</title>
+    <updated>2022-05-30T01:35:34Z</updated>
+    <id>tag:github.com,2022-05-30:/seancorfield/usermanager-example</id>
+    <link href="https://github.com/seancorfield/usermanager-example" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A little demo web app in Clojure, using Component, Ring, Compojure, Selmer (and a database)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ertugrulcetin/herfi</title>
+    <updated>2022-05-30T01:35:34Z</updated>
+    <id>tag:github.com,2022-05-30:/ertugrulcetin/herfi</id>
+    <link href="https://github.com/ertugrulcetin/herfi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;3D multiplayer game prototype written in Clojure and ClojureScript&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tonsky/datascript</title>
+    <updated>2022-05-30T01:35:34Z</updated>
+    <id>tag:github.com,2022-05-30:/tonsky/datascript</id>
+    <link href="https://github.com/tonsky/datascript" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Immutable database and Datalog query engine for Clojure, ClojureScript and JS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cognitect-labs/test-runner</title>
+    <updated>2022-05-30T01:35:34Z</updated>
+    <id>tag:github.com,2022-05-30:/cognitect-labs/test-runner</id>
+    <link href="https://github.com/cognitect-labs/test-runner" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>seancorfield/build-uber-log4j2-handler</title>
+    <updated>2022-05-30T01:35:34Z</updated>
+    <id>tag:github.com,2022-05-30:/seancorfield/build-uber-log4j2-handler</id>
+    <link href="https://github.com/seancorfield/build-uber-log4j2-handler" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A conflict handler for log4j2 plugins cache files for the tools.build uber task.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>seancorfield/build-clj</title>
+    <updated>2022-05-30T01:35:34Z</updated>
+    <id>tag:github.com,2022-05-30:/seancorfield/build-clj</id>
+    <link href="https://github.com/seancorfield/build-clj" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Common build tasks abstracted into a library.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>day8/re-frame</title>
-    <updated>2022-05-29T01:37:19Z</updated>
-    <id>tag:github.com,2022-05-29:/day8/re-frame</id>
+    <updated>2022-05-30T01:35:34Z</updated>
+    <id>tag:github.com,2022-05-30:/day8/re-frame</id>
     <link href="https://github.com/day8/re-frame" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A ClojureScript framework for building user interfaces, leveraging React&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>xtdb/xtdb</title>
-    <updated>2022-05-29T01:37:19Z</updated>
-    <id>tag:github.com,2022-05-29:/xtdb/xtdb</id>
-    <link href="https://github.com/xtdb/xtdb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;General-purpose bitemporal database for SQL, Datalog &amp; graph queries. Developed by @juxt&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>clojure-lsp/homebrew-brew</title>
+    <updated>2022-05-30T01:35:34Z</updated>
+    <id>tag:github.com,2022-05-30:/clojure-lsp/homebrew-brew</id>
+    <link href="https://github.com/clojure-lsp/homebrew-brew" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The official clojure-lsp tap homebrew tap&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>flyingmachine/pegthing</title>
+    <updated>2022-05-30T01:35:34Z</updated>
+    <id>tag:github.com,2022-05-30:/flyingmachine/pegthing</id>
+    <link href="https://github.com/flyingmachine/pegthing" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>clojure/tools.build</title>
+    <updated>2022-05-30T01:35:34Z</updated>
+    <id>tag:github.com,2022-05-30:/clojure/tools.build</id>
+    <link href="https://github.com/clojure/tools.build" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clojure builds as Clojure programs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>reagent-project/reagent</title>
+    <updated>2022-05-30T01:35:34Z</updated>
+    <id>tag:github.com,2022-05-30:/reagent-project/reagent</id>
+    <link href="https://github.com/reagent-project/reagent" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A minimalistic ClojureScript interface to React.js&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

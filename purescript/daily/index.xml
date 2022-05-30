@@ -1,182 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PureScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T01:51:51Z</updated>
+  <updated>2022-05-30T01:50:09Z</updated>
   <subtitle>Daily Trending of PureScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
+    <title>natefaubion/purescript-variant</title>
+    <updated>2022-05-30T01:50:09Z</updated>
+    <id>tag:github.com,2022-05-30:/natefaubion/purescript-variant</id>
+    <link href="https://github.com/natefaubion/purescript-variant" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Polymorphic variants for PureScript&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript-spec/purescript-spec</title>
+    <updated>2022-05-30T01:50:09Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript-spec/purescript-spec</id>
+    <link href="https://github.com/purescript-spec/purescript-spec" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Testing framework for Purescript&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>felixSchl/purescript-pipes</title>
+    <updated>2022-05-30T01:50:09Z</updated>
+    <id>tag:github.com,2022-05-30:/felixSchl/purescript-pipes</id>
+    <link href="https://github.com/felixSchl/purescript-pipes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Purescript port of Pipes - http://hackage.haskell.org/package/pipes-4.1.9&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript-contrib/purescript-aff</title>
+    <updated>2022-05-30T01:50:09Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript-contrib/purescript-aff</id>
+    <link href="https://github.com/purescript-contrib/purescript-aff" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An asynchronous effect monad for PureScript&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript-web/purescript-web-xhr</title>
+    <updated>2022-05-30T01:50:09Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript-web/purescript-web-xhr</id>
+    <link href="https://github.com/purescript-web/purescript-web-xhr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Type definitions and low level interface implementations for the W3C XmlHttpRequest API&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript-contrib/purescript-affjax</title>
+    <updated>2022-05-30T01:50:09Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript-contrib/purescript-affjax</id>
+    <link href="https://github.com/purescript-contrib/purescript-affjax" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An asynchronous AJAX library built using Aff.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>purescript-contrib/purescript-fork</title>
-    <updated>2022-05-29T01:51:51Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript-contrib/purescript-fork</id>
+    <updated>2022-05-30T01:50:09Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript-contrib/purescript-fork</id>
     <link href="https://github.com/purescript-contrib/purescript-fork" rel="alternate"></link>
     <summary type="html">&lt;p&gt;An MTL-style class for monads that support forking&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>hdgarrood/purescript-ansi</title>
-    <updated>2022-05-29T01:51:51Z</updated>
-    <id>tag:github.com,2022-05-29:/hdgarrood/purescript-ansi</id>
+    <updated>2022-05-30T01:50:09Z</updated>
+    <id>tag:github.com,2022-05-30:/hdgarrood/purescript-ansi</id>
     <link href="https://github.com/hdgarrood/purescript-ansi" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A PureScript library for dealing with ANSI escape codes.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>purescript-contrib/purescript-http-methods</title>
+    <updated>2022-05-30T01:50:09Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript-contrib/purescript-http-methods</id>
+    <link href="https://github.com/purescript-contrib/purescript-http-methods" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;HTTP method type&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>purescript/purescript-random</title>
-    <updated>2022-05-29T01:51:51Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript/purescript-random</id>
+    <updated>2022-05-30T01:50:09Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript/purescript-random</id>
     <link href="https://github.com/purescript/purescript-random" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Random number generation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>purescript-contrib/purescript-arraybuffer-types</title>
-    <updated>2022-05-29T01:51:51Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript-contrib/purescript-arraybuffer-types</id>
+    <updated>2022-05-30T01:50:09Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript-contrib/purescript-arraybuffer-types</id>
     <link href="https://github.com/purescript-contrib/purescript-arraybuffer-types" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Type definitions for JavaScript ArrayBuffers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purescript/purescript-const</title>
-    <updated>2022-05-29T01:51:51Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript/purescript-const</id>
-    <link href="https://github.com/purescript/purescript-const" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Const data type and typeclass instances&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript-contrib/purescript-argonaut-core</title>
+    <updated>2022-05-30T01:50:09Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript-contrib/purescript-argonaut-core</id>
+    <link href="https://github.com/purescript-contrib/purescript-argonaut-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A fast, native representation for JSON, with serialization and folding&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purescript-web/purescript-web-html</title>
-    <updated>2022-05-29T01:51:51Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript-web/purescript-web-html</id>
-    <link href="https://github.com/purescript-web/purescript-web-html" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Type definitions and low level interface implementations for the W3C HTML5 spec&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript-contrib/purescript-avar</title>
+    <updated>2022-05-30T01:50:09Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript-contrib/purescript-avar</id>
+    <link href="https://github.com/purescript-contrib/purescript-avar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Low-level interface for asynchronous variables&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purescript/purescript-psci-support</title>
-    <updated>2022-05-29T01:51:51Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript/purescript-psci-support</id>
-    <link href="https://github.com/purescript/purescript-psci-support" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Support module for the PSCI interactive mode&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript-web/purescript-web-file</title>
+    <updated>2022-05-30T01:50:09Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript-web/purescript-web-file</id>
+    <link href="https://github.com/purescript-web/purescript-web-file" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Type definitions and low level interface implementations for the W3C file API&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript-web/purescript-web-storage</title>
+    <updated>2022-05-30T01:50:09Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript-web/purescript-web-storage</id>
+    <link href="https://github.com/purescript-web/purescript-web-storage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Type definitions and low level interface implementations for the W3C WebStorage API&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>input-output-hk/marlowe-cardano</title>
+    <updated>2022-05-30T01:50:09Z</updated>
+    <id>tag:github.com,2022-05-30:/input-output-hk/marlowe-cardano</id>
+    <link href="https://github.com/input-output-hk/marlowe-cardano" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Marlowe smart contract language Cardano implementation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>purescript-contrib/purescript-now</title>
-    <updated>2022-05-29T01:51:51Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript-contrib/purescript-now</id>
+    <updated>2022-05-30T01:50:09Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript-contrib/purescript-now</id>
     <link href="https://github.com/purescript-contrib/purescript-now" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Effect type and functions for accessing the current machine&#39;s date and time.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>purescript-contrib/purescript-js-date</title>
+    <updated>2022-05-30T01:50:09Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript-contrib/purescript-js-date</id>
+    <link href="https://github.com/purescript-contrib/purescript-js-date" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JavaScript&#39;s native date type and corresponding functions.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript/purescript-psci-support</title>
+    <updated>2022-05-30T01:50:09Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript/purescript-psci-support</id>
+    <link href="https://github.com/purescript/purescript-psci-support" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Support module for the PSCI interactive mode&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript-web/purescript-web-html</title>
+    <updated>2022-05-30T01:50:09Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript-web/purescript-web-html</id>
+    <link href="https://github.com/purescript-web/purescript-web-html" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Type definitions and low level interface implementations for the W3C HTML5 spec&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nwolverson/purescript-aff-promise</title>
+    <updated>2022-05-30T01:50:09Z</updated>
+    <id>tag:github.com,2022-05-30:/nwolverson/purescript-aff-promise</id>
+    <link href="https://github.com/nwolverson/purescript-aff-promise" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>purescript-contrib/purescript-media-types</title>
-    <updated>2022-05-29T01:51:51Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript-contrib/purescript-media-types</id>
+    <updated>2022-05-30T01:50:09Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript-contrib/purescript-media-types</id>
     <link href="https://github.com/purescript-contrib/purescript-media-types" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Internet media / content / MIME types&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>purescript/purescript-free</title>
-    <updated>2022-05-29T01:51:51Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript/purescript-free</id>
+    <updated>2022-05-30T01:50:09Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript/purescript-free</id>
     <link href="https://github.com/purescript/purescript-free" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Free monads, Cofree comonads, Yoneda and Coyoneda functors, and the Trampoline monad.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purescript-contrib/purescript-js-date</title>
-    <updated>2022-05-29T01:51:51Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript-contrib/purescript-js-date</id>
-    <link href="https://github.com/purescript-contrib/purescript-js-date" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;JavaScript&#39;s native date type and corresponding functions.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>purescript/purescript-catenable-lists</title>
-    <updated>2022-05-29T01:51:51Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript/purescript-catenable-lists</id>
+    <updated>2022-05-30T01:50:09Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript/purescript-catenable-lists</id>
     <link href="https://github.com/purescript/purescript-catenable-lists" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Catenable lists&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purescript-contrib/purescript-avar</title>
-    <updated>2022-05-29T01:51:51Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript-contrib/purescript-avar</id>
-    <link href="https://github.com/purescript-contrib/purescript-avar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Low-level interface for asynchronous variables&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>purescript/purescript-foreign-object</title>
-    <updated>2022-05-29T01:51:51Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript/purescript-foreign-object</id>
-    <link href="https://github.com/purescript/purescript-foreign-object" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Functions for working with homogeneous JavaScript objects&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>purescript-web/purescript-web-events</title>
-    <updated>2022-05-29T01:51:51Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript-web/purescript-web-events</id>
-    <link href="https://github.com/purescript-web/purescript-web-events" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Type definitions and low level interface implementations for Event, CustomEvent, and EventTarget&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nwolverson/purescript-aff-promise</title>
-    <updated>2022-05-29T01:51:51Z</updated>
-    <id>tag:github.com,2022-05-29:/nwolverson/purescript-aff-promise</id>
-    <link href="https://github.com/nwolverson/purescript-aff-promise" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>purescript-web/purescript-web-dom</title>
-    <updated>2022-05-29T01:51:51Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript-web/purescript-web-dom</id>
+    <updated>2022-05-30T01:50:09Z</updated>
+    <id>tag:github.com,2022-05-30:/purescript-web/purescript-web-dom</id>
     <link href="https://github.com/purescript-web/purescript-web-dom" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Type definitions and low level interface implementations for the W3C DOM spec&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>purescript-web/purescript-web-storage</title>
-    <updated>2022-05-29T01:51:51Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript-web/purescript-web-storage</id>
-    <link href="https://github.com/purescript-web/purescript-web-storage" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Type definitions and low level interface implementations for the W3C WebStorage API&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>purescript-web/purescript-web-file</title>
-    <updated>2022-05-29T01:51:51Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript-web/purescript-web-file</id>
-    <link href="https://github.com/purescript-web/purescript-web-file" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Type definitions and low level interface implementations for the W3C file API&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>garyb/purescript-debug</title>
-    <updated>2022-05-29T01:51:51Z</updated>
-    <id>tag:github.com,2022-05-29:/garyb/purescript-debug</id>
-    <link href="https://github.com/garyb/purescript-debug" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Console based debugging functions&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>purescript/purescript-typelevel-prelude</title>
-    <updated>2022-05-29T01:51:51Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript/purescript-typelevel-prelude</id>
-    <link href="https://github.com/purescript/purescript-typelevel-prelude" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Types and kinds for basic type-level programming&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>purescript/purescript-effect</title>
-    <updated>2022-05-29T01:51:51Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript/purescript-effect</id>
-    <link href="https://github.com/purescript/purescript-effect" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Effect monad, for handling native side effects&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>purescript/purescript-record</title>
-    <updated>2022-05-29T01:51:51Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript/purescript-record</id>
-    <link href="https://github.com/purescript/purescript-record" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Functions for working with records and polymorphic labels&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>purescript/purescript-numbers</title>
-    <updated>2022-05-29T01:51:51Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript/purescript-numbers</id>
-    <link href="https://github.com/purescript/purescript-numbers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Functions for working with PureScripts &#39;Number&#39; type&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>purescript/purescript-profunctor</title>
-    <updated>2022-05-29T01:51:51Z</updated>
-    <id>tag:github.com,2022-05-29:/purescript/purescript-profunctor</id>
-    <link href="https://github.com/purescript/purescript-profunctor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Profunctor type classes and data structures&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

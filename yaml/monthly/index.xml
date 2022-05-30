@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub YAML Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T02:56:33Z</updated>
+  <updated>2022-05-30T02:56:13Z</updated>
   <subtitle>Monthly Trending of YAML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>kubeflow/manifests</title>
-    <updated>2022-05-29T02:56:33Z</updated>
-    <id>tag:github.com,2022-05-29:/kubeflow/manifests</id>
+    <updated>2022-05-30T02:56:13Z</updated>
+    <id>tag:github.com,2022-05-30:/kubeflow/manifests</id>
     <link href="https://github.com/kubeflow/manifests" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A repository for Kustomize manifests&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>argoflow/argoflow</title>
+    <updated>2022-05-30T02:56:13Z</updated>
+    <id>tag:github.com,2022-05-30:/argoflow/argoflow</id>
+    <link href="https://github.com/argoflow/argoflow" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Deploying Kubeflow with Argo CD&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>stashapp/CommunityScrapers</title>
-    <updated>2022-05-29T02:56:33Z</updated>
-    <id>tag:github.com,2022-05-29:/stashapp/CommunityScrapers</id>
+    <updated>2022-05-30T02:56:13Z</updated>
+    <id>tag:github.com,2022-05-30:/stashapp/CommunityScrapers</id>
     <link href="https://github.com/stashapp/CommunityScrapers" rel="alternate"></link>
     <summary type="html">&lt;p&gt;This is a public repository containing scrapers created by the Stash Community.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

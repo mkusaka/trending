@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T02:56:48Z</updated>
+  <updated>2022-05-30T02:56:30Z</updated>
   <subtitle>Monthly Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
+    <title>riverwm/river</title>
+    <updated>2022-05-30T02:56:30Z</updated>
+    <id>tag:github.com,2022-05-30:/riverwm/river</id>
+    <link href="https://github.com/riverwm/river" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A dynamic tiling Wayland compositor&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>ziglang/zig</title>
-    <updated>2022-05-29T02:56:48Z</updated>
-    <id>tag:github.com,2022-05-29:/ziglang/zig</id>
+    <updated>2022-05-30T02:56:30Z</updated>
+    <id>tag:github.com,2022-05-30:/ziglang/zig</id>
     <link href="https://github.com/ziglang/zig" rel="alternate"></link>
     <summary type="html">&lt;p&gt;General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>ratfactor/ziglings</title>
-    <updated>2022-05-29T02:56:48Z</updated>
-    <id>tag:github.com,2022-05-29:/ratfactor/ziglings</id>
+    <updated>2022-05-30T02:56:30Z</updated>
+    <id>tag:github.com,2022-05-30:/ratfactor/ziglings</id>
     <link href="https://github.com/ratfactor/ziglings" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Learn the Zig programming language by fixing tiny broken programs.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>riverwm/river</title>
-    <updated>2022-05-29T02:56:48Z</updated>
-    <id>tag:github.com,2022-05-29:/riverwm/river</id>
-    <link href="https://github.com/riverwm/river" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A dynamic tiling Wayland compositor&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zigtools/zls</title>
+    <updated>2022-05-30T02:56:30Z</updated>
+    <id>tag:github.com,2022-05-30:/zigtools/zls</id>
+    <link href="https://github.com/zigtools/zls" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Zig LSP implementation + Zig Language Server&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>coilhq/tigerbeetle</title>
-    <updated>2022-05-29T02:56:48Z</updated>
-    <id>tag:github.com,2022-05-29:/coilhq/tigerbeetle</id>
+    <updated>2022-05-30T02:56:30Z</updated>
+    <id>tag:github.com,2022-05-30:/coilhq/tigerbeetle</id>
     <link href="https://github.com/coilhq/tigerbeetle" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A distributed financial accounting database designed for mission critical safety and performance to power the future of financial services.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>zigtools/zls</title>
-    <updated>2022-05-29T02:56:48Z</updated>
-    <id>tag:github.com,2022-05-29:/zigtools/zls</id>
-    <link href="https://github.com/zigtools/zls" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Zig LSP implementation + Zig Language Server&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

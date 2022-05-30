@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub reStructuredText Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T02:49:56Z</updated>
+  <updated>2022-05-30T02:49:39Z</updated>
   <subtitle>Monthly Trending of reStructuredText in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>godotengine/godot-docs</title>
-    <updated>2022-05-29T02:49:56Z</updated>
-    <id>tag:github.com,2022-05-29:/godotengine/godot-docs</id>
+    <updated>2022-05-30T02:49:39Z</updated>
+    <id>tag:github.com,2022-05-30:/godotengine/godot-docs</id>
     <link href="https://github.com/godotengine/godot-docs" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Godot Engine official documentation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

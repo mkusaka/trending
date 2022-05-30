@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PostScript Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T02:48:08Z</updated>
+  <updated>2022-05-30T02:47:46Z</updated>
   <subtitle>Monthly Trending of PostScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>BlackSamorez/mipt_lab</title>
-    <updated>2022-05-29T02:48:08Z</updated>
-    <id>tag:github.com,2022-05-29:/BlackSamorez/mipt_lab</id>
+    <updated>2022-05-30T02:47:46Z</updated>
+    <id>tag:github.com,2022-05-30:/BlackSamorez/mipt_lab</id>
     <link href="https://github.com/BlackSamorez/mipt_lab" rel="alternate"></link>
     <summary type="html">&lt;p&gt;MIPT physics lab reports&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>plotly/Kaleido</title>
-    <updated>2022-05-29T02:48:08Z</updated>
-    <id>tag:github.com,2022-05-29:/plotly/Kaleido</id>
+    <updated>2022-05-30T02:47:46Z</updated>
+    <id>tag:github.com,2022-05-30:/plotly/Kaleido</id>
     <link href="https://github.com/plotly/Kaleido" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Fast static image export for web-based visualization libraries with zero dependencies&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

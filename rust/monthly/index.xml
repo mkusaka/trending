@@ -1,182 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T02:50:31Z</updated>
+  <updated>2022-05-30T02:50:15Z</updated>
   <subtitle>Monthly Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>rustdesk/rustdesk</title>
-    <updated>2022-05-29T02:50:31Z</updated>
-    <id>tag:github.com,2022-05-29:/rustdesk/rustdesk</id>
+    <updated>2022-05-30T02:50:15Z</updated>
+    <id>tag:github.com,2022-05-30:/rustdesk/rustdesk</id>
     <link href="https://github.com/rustdesk/rustdesk" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>aptos-labs/aptos-core</title>
-    <updated>2022-05-29T02:50:31Z</updated>
-    <id>tag:github.com,2022-05-29:/aptos-labs/aptos-core</id>
+    <updated>2022-05-30T02:50:15Z</updated>
+    <id>tag:github.com,2022-05-30:/aptos-labs/aptos-core</id>
     <link href="https://github.com/aptos-labs/aptos-core" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A layer 1 for everyone!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>uutils/coreutils</title>
-    <updated>2022-05-29T02:50:31Z</updated>
-    <id>tag:github.com,2022-05-29:/uutils/coreutils</id>
-    <link href="https://github.com/uutils/coreutils" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cross-platform Rust rewrite of the GNU coreutils&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>tauri-apps/tauri</title>
-    <updated>2022-05-29T02:50:31Z</updated>
-    <id>tag:github.com,2022-05-29:/tauri-apps/tauri</id>
+    <updated>2022-05-30T02:50:15Z</updated>
+    <id>tag:github.com,2022-05-30:/tauri-apps/tauri</id>
     <link href="https://github.com/tauri-apps/tauri" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Build smaller, faster, and more secure desktop applications with a web frontend.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pola-rs/polars</title>
-    <updated>2022-05-29T02:50:31Z</updated>
-    <id>tag:github.com,2022-05-29:/pola-rs/polars</id>
-    <link href="https://github.com/pola-rs/polars" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fast multi-threaded DataFrame library in Rust | Python | Node.js&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>0x192/universal-android-debloater</title>
-    <updated>2022-05-29T02:50:31Z</updated>
-    <id>tag:github.com,2022-05-29:/0x192/universal-android-debloater</id>
-    <link href="https://github.com/0x192/universal-android-debloater" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>sunface/rust-course</title>
-    <updated>2022-05-29T02:50:31Z</updated>
-    <id>tag:github.com,2022-05-29:/sunface/rust-course</id>
+    <updated>2022-05-30T02:50:15Z</updated>
+    <id>tag:github.com,2022-05-30:/sunface/rust-course</id>
     <link href="https://github.com/sunface/rust-course" rel="alternate"></link>
     <summary type="html">&lt;p&gt;“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石&#34; — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程/书籍&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>0x192/universal-android-debloater</title>
+    <updated>2022-05-30T02:50:15Z</updated>
+    <id>tag:github.com,2022-05-30:/0x192/universal-android-debloater</id>
+    <link href="https://github.com/0x192/universal-android-debloater" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pola-rs/polars</title>
+    <updated>2022-05-30T02:50:15Z</updated>
+    <id>tag:github.com,2022-05-30:/pola-rs/polars</id>
+    <link href="https://github.com/pola-rs/polars" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fast multi-threaded DataFrame library in Rust | Python | Node.js&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>emilk/egui</title>
-    <updated>2022-05-29T02:50:31Z</updated>
-    <id>tag:github.com,2022-05-29:/emilk/egui</id>
+    <updated>2022-05-30T02:50:15Z</updated>
+    <id>tag:github.com,2022-05-30:/emilk/egui</id>
     <link href="https://github.com/emilk/egui" rel="alternate"></link>
     <summary type="html">&lt;p&gt;egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>solana-labs/solana</title>
-    <updated>2022-05-29T02:50:31Z</updated>
-    <id>tag:github.com,2022-05-29:/solana-labs/solana</id>
+    <updated>2022-05-30T02:50:15Z</updated>
+    <id>tag:github.com,2022-05-30:/solana-labs/solana</id>
     <link href="https://github.com/solana-labs/solana" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>FyroxEngine/Fyrox</title>
-    <updated>2022-05-29T02:50:31Z</updated>
-    <id>tag:github.com,2022-05-29:/FyroxEngine/Fyrox</id>
-    <link href="https://github.com/FyroxEngine/Fyrox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;3D and 2D game engine written in Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>uutils/coreutils</title>
+    <updated>2022-05-30T02:50:15Z</updated>
+    <id>tag:github.com,2022-05-30:/uutils/coreutils</id>
+    <link href="https://github.com/uutils/coreutils" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cross-platform Rust rewrite of the GNU coreutils&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>copy/v86</title>
-    <updated>2022-05-29T02:50:31Z</updated>
-    <id>tag:github.com,2022-05-29:/copy/v86</id>
+    <updated>2022-05-30T02:50:15Z</updated>
+    <id>tag:github.com,2022-05-30:/copy/v86</id>
     <link href="https://github.com/copy/v86" rel="alternate"></link>
     <summary type="html">&lt;p&gt;x86 virtualization in your browser, recompiling x86 to wasm on the fly&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rust-lang/rustlings</title>
-    <updated>2022-05-29T02:50:31Z</updated>
-    <id>tag:github.com,2022-05-29:/rust-lang/rustlings</id>
-    <link href="https://github.com/rust-lang/rustlings" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🦀 Small exercises to get you used to reading and writing Rust code!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bevyengine/bevy</title>
-    <updated>2022-05-29T02:50:31Z</updated>
-    <id>tag:github.com,2022-05-29:/bevyengine/bevy</id>
-    <link href="https://github.com/bevyengine/bevy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A refreshingly simple data-driven game engine built in Rust&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rust-lang/rust</title>
-    <updated>2022-05-29T02:50:31Z</updated>
-    <id>tag:github.com,2022-05-29:/rust-lang/rust</id>
-    <link href="https://github.com/rust-lang/rust" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Empowering everyone to build reliable and efficient software.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>singularity-data/risingwave</title>
-    <updated>2022-05-29T02:50:31Z</updated>
-    <id>tag:github.com,2022-05-29:/singularity-data/risingwave</id>
+    <updated>2022-05-30T02:50:15Z</updated>
+    <id>tag:github.com,2022-05-30:/singularity-data/risingwave</id>
     <link href="https://github.com/singularity-data/risingwave" rel="alternate"></link>
     <summary type="html">&lt;p&gt;RisingWave: the next-generation streaming database in the cloud.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>rust-lang/rustlings</title>
+    <updated>2022-05-30T02:50:15Z</updated>
+    <id>tag:github.com,2022-05-30:/rust-lang/rustlings</id>
+    <link href="https://github.com/rust-lang/rustlings" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🦀 Small exercises to get you used to reading and writing Rust code!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>Qovery/Replibyte</title>
-    <updated>2022-05-29T02:50:31Z</updated>
-    <id>tag:github.com,2022-05-29:/Qovery/Replibyte</id>
+    <updated>2022-05-30T02:50:15Z</updated>
+    <id>tag:github.com,2022-05-30:/Qovery/Replibyte</id>
     <link href="https://github.com/Qovery/Replibyte" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Seed your development database with real data ⚡️&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>datafuselabs/databend</title>
-    <updated>2022-05-29T02:50:31Z</updated>
-    <id>tag:github.com,2022-05-29:/datafuselabs/databend</id>
+    <updated>2022-05-30T02:50:15Z</updated>
+    <id>tag:github.com,2022-05-30:/datafuselabs/databend</id>
     <link href="https://github.com/datafuselabs/databend" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics. https://app.databend.com/&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>rust-lang/rust</title>
+    <updated>2022-05-30T02:50:15Z</updated>
+    <id>tag:github.com,2022-05-30:/rust-lang/rust</id>
+    <link href="https://github.com/rust-lang/rust" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Empowering everyone to build reliable and efficient software.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>DioxusLabs/dioxus</title>
+    <updated>2022-05-30T02:50:15Z</updated>
+    <id>tag:github.com,2022-05-30:/DioxusLabs/dioxus</id>
+    <link href="https://github.com/DioxusLabs/dioxus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Friendly React-like crossplatform app development for desktop, web, mobile, and more.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bevyengine/bevy</title>
+    <updated>2022-05-30T02:50:15Z</updated>
+    <id>tag:github.com,2022-05-30:/bevyengine/bevy</id>
+    <link href="https://github.com/bevyengine/bevy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A refreshingly simple data-driven game engine built in Rust&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>yewstack/yew</title>
-    <updated>2022-05-29T02:50:31Z</updated>
-    <id>tag:github.com,2022-05-29:/yewstack/yew</id>
+    <updated>2022-05-30T02:50:15Z</updated>
+    <id>tag:github.com,2022-05-30:/yewstack/yew</id>
     <link href="https://github.com/yewstack/yew" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Rust / Wasm framework for building client web apps&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>tokio-rs/tokio</title>
-    <updated>2022-05-29T02:50:31Z</updated>
-    <id>tag:github.com,2022-05-29:/tokio-rs/tokio</id>
+    <updated>2022-05-30T02:50:15Z</updated>
+    <id>tag:github.com,2022-05-30:/tokio-rs/tokio</id>
     <link href="https://github.com/tokio-rs/tokio" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>DioxusLabs/dioxus</title>
-    <updated>2022-05-29T02:50:31Z</updated>
-    <id>tag:github.com,2022-05-29:/DioxusLabs/dioxus</id>
-    <link href="https://github.com/DioxusLabs/dioxus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Friendly React-like crossplatform app development for desktop, web, mobile, and more.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>FyroxEngine/Fyrox</title>
+    <updated>2022-05-30T02:50:15Z</updated>
+    <id>tag:github.com,2022-05-30:/FyroxEngine/Fyrox</id>
+    <link href="https://github.com/FyroxEngine/Fyrox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;3D and 2D game engine written in Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>foundry-rs/foundry</title>
-    <updated>2022-05-29T02:50:31Z</updated>
-    <id>tag:github.com,2022-05-29:/foundry-rs/foundry</id>
+    <updated>2022-05-30T02:50:15Z</updated>
+    <id>tag:github.com,2022-05-30:/foundry-rs/foundry</id>
     <link href="https://github.com/foundry-rs/foundry" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>firecracker-microvm/firecracker</title>
-    <updated>2022-05-29T02:50:31Z</updated>
-    <id>tag:github.com,2022-05-29:/firecracker-microvm/firecracker</id>
+    <updated>2022-05-30T02:50:15Z</updated>
+    <id>tag:github.com,2022-05-30:/firecracker-microvm/firecracker</id>
     <link href="https://github.com/firecracker-microvm/firecracker" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Secure and fast microVMs for serverless computing.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>xi-editor/xi-editor</title>
-    <updated>2022-05-29T02:50:31Z</updated>
-    <id>tag:github.com,2022-05-29:/xi-editor/xi-editor</id>
+    <updated>2022-05-30T02:50:15Z</updated>
+    <id>tag:github.com,2022-05-30:/xi-editor/xi-editor</id>
     <link href="https://github.com/xi-editor/xi-editor" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A modern editor with a backend written in Rust.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ajeetdsouza/zoxide</title>
-    <updated>2022-05-29T02:50:31Z</updated>
-    <id>tag:github.com,2022-05-29:/ajeetdsouza/zoxide</id>
-    <link href="https://github.com/ajeetdsouza/zoxide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A smarter cd command. Supports all major shells.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AppFlowy-IO/AppFlowy</title>
+    <updated>2022-05-30T02:50:15Z</updated>
+    <id>tag:github.com,2022-05-30:/AppFlowy-IO/AppFlowy</id>
+    <link href="https://github.com/AppFlowy-IO/AppFlowy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ogham/exa</title>
-    <updated>2022-05-29T02:50:31Z</updated>
-    <id>tag:github.com,2022-05-29:/ogham/exa</id>
-    <link href="https://github.com/ogham/exa" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A modern replacement for ‘ls’.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ajeetdsouza/zoxide</title>
+    <updated>2022-05-30T02:50:15Z</updated>
+    <id>tag:github.com,2022-05-30:/ajeetdsouza/zoxide</id>
+    <link href="https://github.com/ajeetdsouza/zoxide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A smarter cd command. Supports all major shells.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PostScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T01:51:00Z</updated>
+  <updated>2022-05-30T01:49:09Z</updated>
   <subtitle>Daily Trending of PostScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>plotly/Kaleido</title>
-    <updated>2022-05-29T01:51:00Z</updated>
-    <id>tag:github.com,2022-05-29:/plotly/Kaleido</id>
-    <link href="https://github.com/plotly/Kaleido" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fast static image export for web-based visualization libraries with zero dependencies&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>ryanoasis/powerline-extra-symbols</title>
-    <updated>2022-05-29T01:51:00Z</updated>
-    <id>tag:github.com,2022-05-29:/ryanoasis/powerline-extra-symbols</id>
+    <updated>2022-05-30T01:49:09Z</updated>
+    <id>tag:github.com,2022-05-30:/ryanoasis/powerline-extra-symbols</id>
     <link href="https://github.com/ryanoasis/powerline-extra-symbols" rel="alternate"></link>
     <summary type="html">&lt;p&gt;▶️ Extra glyphs for your powerline separators&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

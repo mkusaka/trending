@@ -1,182 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T01:46:50Z</updated>
+  <updated>2022-05-30T01:45:11Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>Naereen/badges</title>
-    <updated>2022-05-29T01:46:50Z</updated>
-    <id>tag:github.com,2022-05-29:/Naereen/badges</id>
+    <updated>2022-05-30T01:45:11Z</updated>
+    <id>tag:github.com,2022-05-30:/Naereen/badges</id>
     <link href="https://github.com/Naereen/badges" rel="alternate"></link>
     <summary type="html">&lt;p&gt;📝 Markdown code for lots of small badges 🎀 📌 (shields.io, forthebadge.com etc) 😎. Contributions are welcome! Please add yours!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rabbitmq/rabbitmq-server</title>
-    <updated>2022-05-29T01:46:50Z</updated>
-    <id>tag:github.com,2022-05-29:/rabbitmq/rabbitmq-server</id>
-    <link href="https://github.com/rabbitmq/rabbitmq-server" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open source RabbitMQ: core server and tier 1 (built-in) plugins&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>foostan/crkbd</title>
-    <updated>2022-05-29T01:46:50Z</updated>
-    <id>tag:github.com,2022-05-29:/foostan/crkbd</id>
-    <link href="https://github.com/foostan/crkbd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Clever/discovery-go</title>
-    <updated>2022-05-29T01:46:50Z</updated>
-    <id>tag:github.com,2022-05-29:/Clever/discovery-go</id>
-    <link href="https://github.com/Clever/discovery-go" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Programmatically find services&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>olxbr/make-snippets</title>
-    <updated>2022-05-29T01:46:50Z</updated>
-    <id>tag:github.com,2022-05-29:/olxbr/make-snippets</id>
-    <link href="https://github.com/olxbr/make-snippets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SiftScience/sift-ios</title>
-    <updated>2022-05-29T01:46:50Z</updated>
-    <id>tag:github.com,2022-05-29:/SiftScience/sift-ios</id>
-    <link href="https://github.com/SiftScience/sift-ios" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sift iOS SDK&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>gl-inet/gl-infra-builder</title>
-    <updated>2022-05-29T01:46:50Z</updated>
-    <id>tag:github.com,2022-05-29:/gl-inet/gl-infra-builder</id>
-    <link href="https://github.com/gl-inet/gl-infra-builder" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hmcts/nfdiv-cron</title>
-    <updated>2022-05-29T01:46:50Z</updated>
-    <id>tag:github.com,2022-05-29:/hmcts/nfdiv-cron</id>
-    <link href="https://github.com/hmcts/nfdiv-cron" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helm chart for nfdiv kubernetes cron job&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tetratelabs/istio-api</title>
-    <updated>2022-05-29T01:46:50Z</updated>
-    <id>tag:github.com,2022-05-29:/tetratelabs/istio-api</id>
-    <link href="https://github.com/tetratelabs/istio-api" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>LibreELEC/LibreELEC.tv</title>
-    <updated>2022-05-29T01:46:50Z</updated>
-    <id>tag:github.com,2022-05-29:/LibreELEC/LibreELEC.tv</id>
-    <link href="https://github.com/LibreELEC/LibreELEC.tv" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Just enough OS for KODI&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JustEnoughLinuxOS/distribution</title>
-    <updated>2022-05-29T01:46:50Z</updated>
-    <id>tag:github.com,2022-05-29:/JustEnoughLinuxOS/distribution</id>
-    <link href="https://github.com/JustEnoughLinuxOS/distribution" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Home of the JELOS Linux distribution.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>openwrt/packages</title>
-    <updated>2022-05-29T01:46:50Z</updated>
-    <id>tag:github.com,2022-05-29:/openwrt/packages</id>
+    <updated>2022-05-30T01:45:11Z</updated>
+    <id>tag:github.com,2022-05-30:/openwrt/packages</id>
     <link href="https://github.com/openwrt/packages" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Clever/csvlint</title>
-    <updated>2022-05-29T01:46:50Z</updated>
-    <id>tag:github.com,2022-05-29:/Clever/csvlint</id>
-    <link href="https://github.com/Clever/csvlint" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;library and command line tool that validates a CSV file&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>temporalio/api</title>
-    <updated>2022-05-29T01:46:50Z</updated>
-    <id>tag:github.com,2022-05-29:/temporalio/api</id>
-    <link href="https://github.com/temporalio/api" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Temporal gRPC API and proto files&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>yuk7/ArchWSL</title>
-    <updated>2022-05-29T01:46:50Z</updated>
-    <id>tag:github.com,2022-05-29:/yuk7/ArchWSL</id>
-    <link href="https://github.com/yuk7/ArchWSL" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ArchLinux based WSL Distribution. Supports multiple install.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Xilinx/Vitis_Accel_Examples</title>
-    <updated>2022-05-29T01:46:50Z</updated>
-    <id>tag:github.com,2022-05-29:/Xilinx/Vitis_Accel_Examples</id>
-    <link href="https://github.com/Xilinx/Vitis_Accel_Examples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vitis_Accel_Examples&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cserl-iitb/bootcamp2022</title>
-    <updated>2022-05-29T01:46:50Z</updated>
-    <id>tag:github.com,2022-05-29:/cserl-iitb/bootcamp2022</id>
-    <link href="https://github.com/cserl-iitb/bootcamp2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The repo for all content related to Bootcamp 2022.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>zh-google-styleguide/zh-google-styleguide</title>
-    <updated>2022-05-29T01:46:50Z</updated>
-    <id>tag:github.com,2022-05-29:/zh-google-styleguide/zh-google-styleguide</id>
-    <link href="https://github.com/zh-google-styleguide/zh-google-styleguide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Google 开源项目风格指南 (中文版)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>thockin/go-build-template</title>
-    <updated>2022-05-29T01:46:50Z</updated>
-    <id>tag:github.com,2022-05-29:/thockin/go-build-template</id>
-    <link href="https://github.com/thockin/go-build-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Makefile/Dockerfile example for Go projects.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>open-telemetry/opentelemetry-specification</title>
-    <updated>2022-05-29T01:46:50Z</updated>
-    <id>tag:github.com,2022-05-29:/open-telemetry/opentelemetry-specification</id>
+    <updated>2022-05-30T01:45:11Z</updated>
+    <id>tag:github.com,2022-05-30:/open-telemetry/opentelemetry-specification</id>
     <link href="https://github.com/open-telemetry/opentelemetry-specification" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Specifications for OpenTelemetry&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ysoftwareab/core.inc.mk</title>
-    <updated>2022-05-29T01:46:50Z</updated>
-    <id>tag:github.com,2022-05-29:/ysoftwareab/core.inc.mk</id>
-    <link href="https://github.com/ysoftwareab/core.inc.mk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My utility belt `Makefile` (and my memory belt in docs)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>buildroot/buildroot</title>
+    <updated>2022-05-30T01:45:11Z</updated>
+    <id>tag:github.com,2022-05-30:/buildroot/buildroot</id>
+    <link href="https://github.com/buildroot/buildroot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at http://git.buildroot.net/buildroot/. Do not open issues or file pull requests here.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>waveaccounting/terraform-aws-chatbot-slack-configuration</title>
-    <updated>2022-05-29T01:46:50Z</updated>
-    <id>tag:github.com,2022-05-29:/waveaccounting/terraform-aws-chatbot-slack-configuration</id>
-    <link href="https://github.com/waveaccounting/terraform-aws-chatbot-slack-configuration" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Module to enable Chatbot Slack channel configuration in Terraform&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JustEnoughLinuxOS/distribution</title>
+    <updated>2022-05-30T01:45:11Z</updated>
+    <id>tag:github.com,2022-05-30:/JustEnoughLinuxOS/distribution</id>
+    <link href="https://github.com/JustEnoughLinuxOS/distribution" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Home of the JELOS Linux distribution.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>json-schema-org/json-schema-spec</title>
-    <updated>2022-05-29T01:46:50Z</updated>
-    <id>tag:github.com,2022-05-29:/json-schema-org/json-schema-spec</id>
-    <link href="https://github.com/json-schema-org/json-schema-spec" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The JSON Schema I-D sources&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mesosphere/kommander-applications</title>
+    <updated>2022-05-30T01:45:11Z</updated>
+    <id>tag:github.com,2022-05-30:/mesosphere/kommander-applications</id>
+    <link href="https://github.com/mesosphere/kommander-applications" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>lightstep/lightstep-tracer-common</title>
-    <updated>2022-05-29T01:46:50Z</updated>
-    <id>tag:github.com,2022-05-29:/lightstep/lightstep-tracer-common</id>
-    <link href="https://github.com/lightstep/lightstep-tracer-common" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Files shared by most or all of the Lightstep tracer implementations&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tinygo-org/stm32-svd</title>
+    <updated>2022-05-30T01:45:11Z</updated>
+    <id>tag:github.com,2022-05-30:/tinygo-org/stm32-svd</id>
+    <link href="https://github.com/tinygo-org/stm32-svd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mcauser/awesome-micropython</title>
-    <updated>2022-05-29T01:46:50Z</updated>
-    <id>tag:github.com,2022-05-29:/mcauser/awesome-micropython</id>
-    <link href="https://github.com/mcauser/awesome-micropython" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of awesome MicroPython libraries, frameworks, software and resources.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>motioneye-project/motioneyeos</title>
+    <updated>2022-05-30T01:45:11Z</updated>
+    <id>tag:github.com,2022-05-30:/motioneye-project/motioneyeos</id>
+    <link href="https://github.com/motioneye-project/motioneyeos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Video Surveillance OS For Single-board Computers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>LibreELEC/LibreELEC.tv</title>
+    <updated>2022-05-30T01:45:11Z</updated>
+    <id>tag:github.com,2022-05-30:/LibreELEC/LibreELEC.tv</id>
+    <link href="https://github.com/LibreELEC/LibreELEC.tv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Just enough OS for KODI&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SynoCommunity/spksrc</title>
+    <updated>2022-05-30T01:45:11Z</updated>
+    <id>tag:github.com,2022-05-30:/SynoCommunity/spksrc</id>
+    <link href="https://github.com/SynoCommunity/spksrc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cross compilation framework to create native packages for the Synology&#39;s NAS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AmberELEC/AmberELEC</title>
+    <updated>2022-05-30T01:45:11Z</updated>
+    <id>tag:github.com,2022-05-30:/AmberELEC/AmberELEC</id>
+    <link href="https://github.com/AmberELEC/AmberELEC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Handheld firmware optimized for the Anbernic RG351P/M/V/MP and RG552 devices.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ucan-lab/docker-laravel</title>
+    <updated>2022-05-30T01:45:11Z</updated>
+    <id>tag:github.com,2022-05-30:/ucan-lab/docker-laravel</id>
+    <link href="https://github.com/ucan-lab/docker-laravel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🐳 Build a simple laravel development environment with docker-compose.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>CoreELEC/CoreELEC</title>
+    <updated>2022-05-30T01:45:11Z</updated>
+    <id>tag:github.com,2022-05-30:/CoreELEC/CoreELEC</id>
+    <link href="https://github.com/CoreELEC/CoreELEC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A lightweight OS for KODI&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>yuk7/ArchWSL</title>
+    <updated>2022-05-30T01:45:11Z</updated>
+    <id>tag:github.com,2022-05-30:/yuk7/ArchWSL</id>
+    <link href="https://github.com/yuk7/ArchWSL" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ArchLinux based WSL Distribution. Supports multiple install.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>theos/theos</title>
+    <updated>2022-05-30T01:45:11Z</updated>
+    <id>tag:github.com,2022-05-30:/theos/theos</id>
+    <link href="https://github.com/theos/theos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A cross-platform suite of tools for building and deploying software for iOS and other platforms.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hmcts/nfdiv-cron</title>
+    <updated>2022-05-30T01:45:11Z</updated>
+    <id>tag:github.com,2022-05-30:/hmcts/nfdiv-cron</id>
+    <link href="https://github.com/hmcts/nfdiv-cron" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm chart for nfdiv kubernetes cron job&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>foostan/crkbd</title>
+    <updated>2022-05-30T01:45:11Z</updated>
+    <id>tag:github.com,2022-05-30:/foostan/crkbd</id>
+    <link href="https://github.com/foostan/crkbd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ihaveamac/ctr-no-timeoffset</title>
+    <updated>2022-05-30T01:45:11Z</updated>
+    <id>tag:github.com,2022-05-30:/ihaveamac/ctr-no-timeoffset</id>
+    <link href="https://github.com/ihaveamac/ctr-no-timeoffset" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sets the time offset in Config Savegame to 0&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>seanFlutter/Google_map_demo</title>
+    <updated>2022-05-30T01:45:11Z</updated>
+    <id>tag:github.com,2022-05-30:/seanFlutter/Google_map_demo</id>
+    <link href="https://github.com/seanFlutter/Google_map_demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mesosphere/dkp-catalog-applications</title>
+    <updated>2022-05-30T01:45:11Z</updated>
+    <id>tag:github.com,2022-05-30:/mesosphere/dkp-catalog-applications</id>
+    <link href="https://github.com/mesosphere/dkp-catalog-applications" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>airmap/interfaces</title>
+    <updated>2022-05-30T01:45:11Z</updated>
+    <id>tag:github.com,2022-05-30:/airmap/interfaces</id>
+    <link href="https://github.com/airmap/interfaces" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of public AirMap gRPC definitions&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mkubecek/vmware-host-modules</title>
+    <updated>2022-05-30T01:45:11Z</updated>
+    <id>tag:github.com,2022-05-30:/mkubecek/vmware-host-modules</id>
+    <link href="https://github.com/mkubecek/vmware-host-modules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Patches needed to build VMware (Player and Workstation) host modules against recent kernels&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>upbound/build</title>
+    <updated>2022-05-30T01:45:11Z</updated>
+    <id>tag:github.com,2022-05-30:/upbound/build</id>
+    <link href="https://github.com/upbound/build" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Upbound build and CI scripts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kost/nmap-android</title>
+    <updated>2022-05-30T01:45:11Z</updated>
+    <id>tag:github.com,2022-05-30:/kost/nmap-android</id>
+    <link href="https://github.com/kost/nmap-android" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nmap on Android - Makefile/diff/scripts to build it with Android NDK&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>marco-calautti/SigpatchesModuleWiiU</title>
+    <updated>2022-05-30T01:45:11Z</updated>
+    <id>tag:github.com,2022-05-30:/marco-calautti/SigpatchesModuleWiiU</id>
+    <link href="https://github.com/marco-calautti/SigpatchesModuleWiiU" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

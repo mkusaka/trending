@@ -1,182 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T02:06:10Z</updated>
+  <updated>2022-05-30T02:04:35Z</updated>
   <subtitle>Weekly Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>k2-fsa/sherpa</title>
-    <updated>2022-05-29T02:06:10Z</updated>
-    <id>tag:github.com,2022-05-29:/k2-fsa/sherpa</id>
-    <link href="https://github.com/k2-fsa/sherpa" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Streaming and non-streaming ASR server in Python&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mavlink/mavlink</title>
+    <updated>2022-05-30T02:04:35Z</updated>
+    <id>tag:github.com,2022-05-30:/mavlink/mavlink</id>
+    <link href="https://github.com/mavlink/mavlink" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Marshalling / communication library for drones.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>NNTU-CS/ADS-9</title>
-    <updated>2022-05-29T02:06:10Z</updated>
-    <id>tag:github.com,2022-05-29:/NNTU-CS/ADS-9</id>
+    <updated>2022-05-30T02:04:35Z</updated>
+    <id>tag:github.com,2022-05-30:/NNTU-CS/ADS-9</id>
     <link href="https://github.com/NNTU-CS/ADS-9" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>k2-fsa/sherpa</title>
+    <updated>2022-05-30T02:04:35Z</updated>
+    <id>tag:github.com,2022-05-30:/k2-fsa/sherpa</id>
+    <link href="https://github.com/k2-fsa/sherpa" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Streaming and non-streaming ASR server in Python&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>tier4/sensor_component_description</title>
-    <updated>2022-05-29T02:06:10Z</updated>
-    <id>tag:github.com,2022-05-29:/tier4/sensor_component_description</id>
+    <updated>2022-05-30T02:04:35Z</updated>
+    <id>tag:github.com,2022-05-30:/tier4/sensor_component_description</id>
     <link href="https://github.com/tier4/sensor_component_description" rel="alternate"></link>
     <summary type="html">&lt;p&gt;sensor_description for autoware.iv&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>astuff/astuff_sensor_msgs</title>
-    <updated>2022-05-29T02:06:10Z</updated>
-    <id>tag:github.com,2022-05-29:/astuff/astuff_sensor_msgs</id>
+    <updated>2022-05-30T02:04:35Z</updated>
+    <id>tag:github.com,2022-05-30:/astuff/astuff_sensor_msgs</id>
     <link href="https://github.com/astuff/astuff_sensor_msgs" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A set of messages specific to each sensor supported by AutonomouStuff.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cpm-cmake/CPM.cmake</title>
-    <updated>2022-05-29T02:06:10Z</updated>
-    <id>tag:github.com,2022-05-29:/cpm-cmake/CPM.cmake</id>
-    <link href="https://github.com/cpm-cmake/CPM.cmake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📦 CMake&#39;s missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>tier4/aip_description.iv</title>
-    <updated>2022-05-29T02:06:10Z</updated>
-    <id>tag:github.com,2022-05-29:/tier4/aip_description.iv</id>
+    <updated>2022-05-30T02:04:35Z</updated>
+    <id>tag:github.com,2022-05-30:/tier4/aip_description.iv</id>
     <link href="https://github.com/tier4/aip_description.iv" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>cpm-cmake/CPM.cmake</title>
+    <updated>2022-05-30T02:04:35Z</updated>
+    <id>tag:github.com,2022-05-30:/cpm-cmake/CPM.cmake</id>
+    <link href="https://github.com/cpm-cmake/CPM.cmake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📦 CMake&#39;s missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>tier4/autoware_auto_msgs</title>
-    <updated>2022-05-29T02:06:10Z</updated>
-    <id>tag:github.com,2022-05-29:/tier4/autoware_auto_msgs</id>
+    <updated>2022-05-30T02:04:35Z</updated>
+    <id>tag:github.com,2022-05-30:/tier4/autoware_auto_msgs</id>
     <link href="https://github.com/tier4/autoware_auto_msgs" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Forked from https://gitlab.com/autowarefoundation/autoware.auto/autoware_auto_msgs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>microsoft/vcpkg</title>
-    <updated>2022-05-29T02:06:10Z</updated>
-    <id>tag:github.com,2022-05-29:/microsoft/vcpkg</id>
-    <link href="https://github.com/microsoft/vcpkg" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;C++ Library Manager for Windows, Linux, and MacOS&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>mosra/toolchains</title>
-    <updated>2022-05-29T02:06:10Z</updated>
-    <id>tag:github.com,2022-05-29:/mosra/toolchains</id>
+    <updated>2022-05-30T02:04:35Z</updated>
+    <id>tag:github.com,2022-05-30:/mosra/toolchains</id>
     <link href="https://github.com/mosra/toolchains" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Toolchains for crosscompiling with CMake.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dragandbot/dragandbot_common</title>
-    <updated>2022-05-29T02:06:10Z</updated>
-    <id>tag:github.com,2022-05-29:/dragandbot/dragandbot_common</id>
-    <link href="https://github.com/dragandbot/dragandbot_common" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Contains dragandbot messages and services&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>apple/swift-installer-scripts</title>
-    <updated>2022-05-29T02:06:10Z</updated>
-    <id>tag:github.com,2022-05-29:/apple/swift-installer-scripts</id>
-    <link href="https://github.com/apple/swift-installer-scripts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>autowarefoundation/autoware_common</title>
-    <updated>2022-05-29T02:06:10Z</updated>
-    <id>tag:github.com,2022-05-29:/autowarefoundation/autoware_common</id>
-    <link href="https://github.com/autowarefoundation/autoware_common" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>cpp-best-practices/gui_starter_template</title>
-    <updated>2022-05-29T02:06:10Z</updated>
-    <id>tag:github.com,2022-05-29:/cpp-best-practices/gui_starter_template</id>
+    <updated>2022-05-30T02:04:35Z</updated>
+    <id>tag:github.com,2022-05-30:/cpp-best-practices/gui_starter_template</id>
     <link href="https://github.com/cpp-best-practices/gui_starter_template" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A template CMake project to get you started with C++ and tooling&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mavlink/mavlink</title>
-    <updated>2022-05-29T02:06:10Z</updated>
-    <id>tag:github.com,2022-05-29:/mavlink/mavlink</id>
-    <link href="https://github.com/mavlink/mavlink" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Marshalling / communication library for drones.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>microsoft/vcpkg</title>
+    <updated>2022-05-30T02:04:35Z</updated>
+    <id>tag:github.com,2022-05-30:/microsoft/vcpkg</id>
+    <link href="https://github.com/microsoft/vcpkg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;C++ Library Manager for Windows, Linux, and MacOS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>autowarefoundation/autoware_common</title>
+    <updated>2022-05-30T02:04:35Z</updated>
+    <id>tag:github.com,2022-05-30:/autowarefoundation/autoware_common</id>
+    <link href="https://github.com/autowarefoundation/autoware_common" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>eve-autonomy/autoware_state_machine_msgs</title>
-    <updated>2022-05-29T02:06:10Z</updated>
-    <id>tag:github.com,2022-05-29:/eve-autonomy/autoware_state_machine_msgs</id>
+    <updated>2022-05-30T02:04:35Z</updated>
+    <id>tag:github.com,2022-05-30:/eve-autonomy/autoware_state_machine_msgs</id>
     <link href="https://github.com/eve-autonomy/autoware_state_machine_msgs" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>eve-autonomy/audio_driver_msgs</title>
-    <updated>2022-05-29T02:06:10Z</updated>
-    <id>tag:github.com,2022-05-29:/eve-autonomy/audio_driver_msgs</id>
+    <updated>2022-05-30T02:04:35Z</updated>
+    <id>tag:github.com,2022-05-30:/eve-autonomy/audio_driver_msgs</id>
     <link href="https://github.com/eve-autonomy/audio_driver_msgs" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ethz-asl/suitesparse</title>
-    <updated>2022-05-29T02:06:10Z</updated>
-    <id>tag:github.com,2022-05-29:/ethz-asl/suitesparse</id>
-    <link href="https://github.com/ethz-asl/suitesparse" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A catkin wrapper package for Dr. Tim Davis Suitesparse 4.2.1 (with PIC) http://faculty.cse.tamu.edu/davis/suitesparse.html&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>xmos/xmos_cmake_toolchain</title>
-    <updated>2022-05-29T02:06:10Z</updated>
-    <id>tag:github.com,2022-05-29:/xmos/xmos_cmake_toolchain</id>
+    <updated>2022-05-30T02:04:35Z</updated>
+    <id>tag:github.com,2022-05-30:/xmos/xmos_cmake_toolchain</id>
     <link href="https://github.com/xmos/xmos_cmake_toolchain" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>swift-nav/cmake</title>
-    <updated>2022-05-29T02:06:10Z</updated>
-    <id>tag:github.com,2022-05-29:/swift-nav/cmake</id>
+    <updated>2022-05-30T02:04:35Z</updated>
+    <id>tag:github.com,2022-05-30:/swift-nav/cmake</id>
     <link href="https://github.com/swift-nav/cmake" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Swift&#39;s commonly used CMake modules&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>arsenm/sanitizers-cmake</title>
-    <updated>2022-05-29T02:06:10Z</updated>
-    <id>tag:github.com,2022-05-29:/arsenm/sanitizers-cmake</id>
-    <link href="https://github.com/arsenm/sanitizers-cmake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CMake modules to help use sanitizers&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ros-controls/control_msgs</title>
-    <updated>2022-05-29T02:06:10Z</updated>
-    <id>tag:github.com,2022-05-29:/ros-controls/control_msgs</id>
-    <link href="https://github.com/ros-controls/control_msgs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>Azure/c-testrunnerswitcher</title>
-    <updated>2022-05-29T02:06:10Z</updated>
-    <id>tag:github.com,2022-05-29:/Azure/c-testrunnerswitcher</id>
+    <updated>2022-05-30T02:04:35Z</updated>
+    <id>tag:github.com,2022-05-30:/Azure/c-testrunnerswitcher</id>
     <link href="https://github.com/Azure/c-testrunnerswitcher" rel="alternate"></link>
     <summary type="html">&lt;p&gt;C test runner switcher repo to be broken off from azure-c-shared-utility so it can be reused in several of our IoT repos&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ROBOTIS-GIT/dynamixel-workbench-msgs</title>
-    <updated>2022-05-29T02:06:10Z</updated>
-    <id>tag:github.com,2022-05-29:/ROBOTIS-GIT/dynamixel-workbench-msgs</id>
-    <link href="https://github.com/ROBOTIS-GIT/dynamixel-workbench-msgs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Message package for dynamixel-workbench&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ethz-asl/suitesparse</title>
+    <updated>2022-05-30T02:04:35Z</updated>
+    <id>tag:github.com,2022-05-30:/ethz-asl/suitesparse</id>
+    <link href="https://github.com/ethz-asl/suitesparse" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A catkin wrapper package for Dr. Tim Davis Suitesparse 4.2.1 (with PIC) http://faculty.cse.tamu.edu/davis/suitesparse.html&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>leetal/ios-cmake</title>
+    <updated>2022-05-30T02:04:35Z</updated>
+    <id>tag:github.com,2022-05-30:/leetal/ios-cmake</id>
+    <link href="https://github.com/leetal/ios-cmake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A CMake toolchain file for iOS, macOS, watchOS &amp; tvOS C/C++/Obj-C++ development&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dragandbot/dragandbot_common</title>
+    <updated>2022-05-30T02:04:35Z</updated>
+    <id>tag:github.com,2022-05-30:/dragandbot/dragandbot_common</id>
+    <link href="https://github.com/dragandbot/dragandbot_common" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Contains dragandbot messages and services&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>ros-planning/moveit_msgs</title>
-    <updated>2022-05-29T02:06:10Z</updated>
-    <id>tag:github.com,2022-05-29:/ros-planning/moveit_msgs</id>
+    <updated>2022-05-30T02:04:35Z</updated>
+    <id>tag:github.com,2022-05-30:/ros-planning/moveit_msgs</id>
     <link href="https://github.com/ros-planning/moveit_msgs" rel="alternate"></link>
     <summary type="html">&lt;p&gt;ROS messages used by MoveIt&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>couchbase/tlm</title>
-    <updated>2022-05-29T02:06:10Z</updated>
-    <id>tag:github.com,2022-05-29:/couchbase/tlm</id>
+    <updated>2022-05-30T02:04:35Z</updated>
+    <id>tag:github.com,2022-05-30:/couchbase/tlm</id>
     <link href="https://github.com/couchbase/tlm" rel="alternate"></link>
     <summary type="html">&lt;p&gt;top level makefile&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>allnes/pp_2022_spring_report</title>
+    <updated>2022-05-30T02:04:35Z</updated>
+    <id>tag:github.com,2022-05-30:/allnes/pp_2022_spring_report</id>
+    <link href="https://github.com/allnes/pp_2022_spring_report" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>autowarefoundation/sample_vehicle_launch</title>
+    <updated>2022-05-30T02:04:35Z</updated>
+    <id>tag:github.com,2022-05-30:/autowarefoundation/sample_vehicle_launch</id>
+    <link href="https://github.com/autowarefoundation/sample_vehicle_launch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>arsenm/sanitizers-cmake</title>
+    <updated>2022-05-30T02:04:35Z</updated>
+    <id>tag:github.com,2022-05-30:/arsenm/sanitizers-cmake</id>
+    <link href="https://github.com/arsenm/sanitizers-cmake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CMake modules to help use sanitizers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

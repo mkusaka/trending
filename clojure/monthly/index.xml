@@ -1,182 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T02:34:04Z</updated>
+  <updated>2022-05-30T02:33:05Z</updated>
   <subtitle>Monthly Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>logseq/logseq</title>
-    <updated>2022-05-29T02:34:04Z</updated>
-    <id>tag:github.com,2022-05-29:/logseq/logseq</id>
+    <updated>2022-05-30T02:33:05Z</updated>
+    <id>tag:github.com,2022-05-30:/logseq/logseq</id>
     <link href="https://github.com/logseq/logseq" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>metabase/metabase</title>
-    <updated>2022-05-29T02:34:04Z</updated>
-    <id>tag:github.com,2022-05-29:/metabase/metabase</id>
+    <updated>2022-05-30T02:33:05Z</updated>
+    <id>tag:github.com,2022-05-30:/metabase/metabase</id>
     <link href="https://github.com/metabase/metabase" rel="alternate"></link>
     <summary type="html">&lt;p&gt;The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>babashka/babashka</title>
-    <updated>2022-05-29T02:34:04Z</updated>
-    <id>tag:github.com,2022-05-29:/babashka/babashka</id>
-    <link href="https://github.com/babashka/babashka" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Native, fast starting Clojure interpreter for scripting&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hiredman/bc</title>
-    <updated>2022-05-29T02:34:04Z</updated>
-    <id>tag:github.com,2022-05-29:/hiredman/bc</id>
-    <link href="https://github.com/hiredman/bc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;bc is a java bytecode dissambler written in clojure, very rough, includes some bits for generating ruby&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jepsen-io/jepsen</title>
-    <updated>2022-05-29T02:34:04Z</updated>
-    <id>tag:github.com,2022-05-29:/jepsen-io/jepsen</id>
-    <link href="https://github.com/jepsen-io/jepsen" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A framework for distributed systems verification, with fault injection&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>beulet/DrugsRUs</title>
-    <updated>2022-05-29T02:34:04Z</updated>
-    <id>tag:github.com,2022-05-29:/beulet/DrugsRUs</id>
+    <updated>2022-05-30T02:33:05Z</updated>
+    <id>tag:github.com,2022-05-30:/beulet/DrugsRUs</id>
     <link href="https://github.com/beulet/DrugsRUs" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A program that solves the 0 1 Knapsack problem in Clojure.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>Bronsa/om</title>
-    <updated>2022-05-29T02:34:04Z</updated>
-    <id>tag:github.com,2022-05-29:/Bronsa/om</id>
+    <updated>2022-05-30T02:33:05Z</updated>
+    <id>tag:github.com,2022-05-30:/Bronsa/om</id>
     <link href="https://github.com/Bronsa/om" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tonsky/FiraCode</title>
-    <updated>2022-05-29T02:34:04Z</updated>
-    <id>tag:github.com,2022-05-29:/tonsky/FiraCode</id>
-    <link href="https://github.com/tonsky/FiraCode" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Free monospaced font with programming ligatures&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>clojure/tools.build</title>
-    <updated>2022-05-29T02:34:04Z</updated>
-    <id>tag:github.com,2022-05-29:/clojure/tools.build</id>
-    <link href="https://github.com/clojure/tools.build" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clojure builds as Clojure programs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nubank/docopt.clj</title>
-    <updated>2022-05-29T02:34:04Z</updated>
-    <id>tag:github.com,2022-05-29:/nubank/docopt.clj</id>
-    <link href="https://github.com/nubank/docopt.clj" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clojure implementation of the docopt description language&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nubank/selvage</title>
-    <updated>2022-05-29T02:34:04Z</updated>
-    <id>tag:github.com,2022-05-29:/nubank/selvage</id>
-    <link href="https://github.com/nubank/selvage" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Testing at the edges with a world-transition style integration test framework&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nubank/new-grad-template</title>
-    <updated>2022-05-29T02:34:04Z</updated>
-    <id>tag:github.com,2022-05-29:/nubank/new-grad-template</id>
-    <link href="https://github.com/nubank/new-grad-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jepsen-io/jepsen</title>
+    <updated>2022-05-30T02:33:05Z</updated>
+    <id>tag:github.com,2022-05-30:/jepsen-io/jepsen</id>
+    <link href="https://github.com/jepsen-io/jepsen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A framework for distributed systems verification, with fault injection&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>nubank/state-flow</title>
-    <updated>2022-05-29T02:34:04Z</updated>
-    <id>tag:github.com,2022-05-29:/nubank/state-flow</id>
+    <updated>2022-05-30T02:33:05Z</updated>
+    <id>tag:github.com,2022-05-30:/nubank/state-flow</id>
     <link href="https://github.com/nubank/state-flow" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Integration testing framework using a state monad in the backend for building and composing flows&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nubank/matcher-combinators</title>
-    <updated>2022-05-29T02:34:04Z</updated>
-    <id>tag:github.com,2022-05-29:/nubank/matcher-combinators</id>
-    <link href="https://github.com/nubank/matcher-combinators" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Library for creating matcher combinator to compare nested data structures&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nubank/new-grad-template</title>
+    <updated>2022-05-30T02:33:05Z</updated>
+    <id>tag:github.com,2022-05-30:/nubank/new-grad-template</id>
+    <link href="https://github.com/nubank/new-grad-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nubank/umschreiben-clj</title>
-    <updated>2022-05-29T02:34:04Z</updated>
-    <id>tag:github.com,2022-05-29:/nubank/umschreiben-clj</id>
-    <link href="https://github.com/nubank/umschreiben-clj" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rewrite utilities for refactoring clojure files&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nubank/selvage</title>
+    <updated>2022-05-30T02:33:05Z</updated>
+    <id>tag:github.com,2022-05-30:/nubank/selvage</id>
+    <link href="https://github.com/nubank/selvage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Testing at the edges with a world-transition style integration test framework&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nubank/ordnungsamt</title>
-    <updated>2022-05-29T02:34:04Z</updated>
-    <id>tag:github.com,2022-05-29:/nubank/ordnungsamt</id>
-    <link href="https://github.com/nubank/ordnungsamt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;helping maintain order and consistency across code-bases&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nubank/docopt.clj</title>
+    <updated>2022-05-30T02:33:05Z</updated>
+    <id>tag:github.com,2022-05-30:/nubank/docopt.clj</id>
+    <link href="https://github.com/nubank/docopt.clj" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clojure implementation of the docopt description language&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tonsky/FiraCode</title>
+    <updated>2022-05-30T02:33:05Z</updated>
+    <id>tag:github.com,2022-05-30:/tonsky/FiraCode</id>
+    <link href="https://github.com/tonsky/FiraCode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free monospaced font with programming ligatures&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>nubank/clj-bigpanda</title>
-    <updated>2022-05-29T02:34:04Z</updated>
-    <id>tag:github.com,2022-05-29:/nubank/clj-bigpanda</id>
+    <updated>2022-05-30T02:33:05Z</updated>
+    <id>tag:github.com,2022-05-30:/nubank/clj-bigpanda</id>
     <link href="https://github.com/nubank/clj-bigpanda" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A clojure library for BigPanda Alerts and Deployments&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>nubank/ordnungsamt</title>
+    <updated>2022-05-30T02:33:05Z</updated>
+    <id>tag:github.com,2022-05-30:/nubank/ordnungsamt</id>
+    <link href="https://github.com/nubank/ordnungsamt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;helping maintain order and consistency across code-bases&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nubank/umschreiben-clj</title>
+    <updated>2022-05-30T02:33:05Z</updated>
+    <id>tag:github.com,2022-05-30:/nubank/umschreiben-clj</id>
+    <link href="https://github.com/nubank/umschreiben-clj" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rewrite utilities for refactoring clojure files&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nubank/matcher-combinators</title>
+    <updated>2022-05-30T02:33:05Z</updated>
+    <id>tag:github.com,2022-05-30:/nubank/matcher-combinators</id>
+    <link href="https://github.com/nubank/matcher-combinators" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Library for creating matcher combinator to compare nested data structures&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>nubank/workspaces</title>
-    <updated>2022-05-29T02:34:04Z</updated>
-    <id>tag:github.com,2022-05-29:/nubank/workspaces</id>
+    <updated>2022-05-30T02:33:05Z</updated>
+    <id>tag:github.com,2022-05-30:/nubank/workspaces</id>
     <link href="https://github.com/nubank/workspaces" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Live development environment for Clojurescript&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>nubank/clj-github-app</title>
-    <updated>2022-05-29T02:34:04Z</updated>
-    <id>tag:github.com,2022-05-29:/nubank/clj-github-app</id>
+    <updated>2022-05-30T02:33:05Z</updated>
+    <id>tag:github.com,2022-05-30:/nubank/clj-github-app</id>
     <link href="https://github.com/nubank/clj-github-app" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A library to implement GitHub Apps in Clojure.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>nubank/k8s-api</title>
-    <updated>2022-05-29T02:34:04Z</updated>
-    <id>tag:github.com,2022-05-29:/nubank/k8s-api</id>
+    <updated>2022-05-30T02:33:05Z</updated>
+    <id>tag:github.com,2022-05-30:/nubank/k8s-api</id>
     <link href="https://github.com/nubank/k8s-api" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Kubernetes client, data driven&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nubank/robocode-clojure</title>
-    <updated>2022-05-29T02:34:04Z</updated>
-    <id>tag:github.com,2022-05-29:/nubank/robocode-clojure</id>
-    <link href="https://github.com/nubank/robocode-clojure" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Template project for building a Robocode Robot in Clojure&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hiredman/bc</title>
+    <updated>2022-05-30T02:33:05Z</updated>
+    <id>tag:github.com,2022-05-30:/hiredman/bc</id>
+    <link href="https://github.com/hiredman/bc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;bc is a java bytecode dissambler written in clojure, very rough, includes some bits for generating ruby&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>nubank/clj-github-mock</title>
-    <updated>2022-05-29T02:34:04Z</updated>
-    <id>tag:github.com,2022-05-29:/nubank/clj-github-mock</id>
+    <updated>2022-05-30T02:33:05Z</updated>
+    <id>tag:github.com,2022-05-30:/nubank/clj-github-mock</id>
     <link href="https://github.com/nubank/clj-github-mock" rel="alternate"></link>
     <summary type="html">&lt;p&gt;An emulator of the github api implemented in clojure to test your github app&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>nubank/robocode-clojure</title>
+    <updated>2022-05-30T02:33:05Z</updated>
+    <id>tag:github.com,2022-05-30:/nubank/robocode-clojure</id>
+    <link href="https://github.com/nubank/robocode-clojure" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Template project for building a Robocode Robot in Clojure&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>status-im/status-react</title>
-    <updated>2022-05-29T02:34:04Z</updated>
-    <id>tag:github.com,2022-05-29:/status-im/status-react</id>
+    <updated>2022-05-30T02:33:05Z</updated>
+    <id>tag:github.com,2022-05-30:/status-im/status-react</id>
     <link href="https://github.com/status-im/status-react" rel="alternate"></link>
     <summary type="html">&lt;p&gt;a free (libre) open source, mobile OS for Ethereum&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>clj-kondo/clj-kondo</title>
-    <updated>2022-05-29T02:34:04Z</updated>
-    <id>tag:github.com,2022-05-29:/clj-kondo/clj-kondo</id>
-    <link href="https://github.com/clj-kondo/clj-kondo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A linter for Clojure code that sparks joy.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>joshaber/clojurem</title>
-    <updated>2022-05-29T02:34:04Z</updated>
-    <id>tag:github.com,2022-05-29:/joshaber/clojurem</id>
+    <updated>2022-05-30T02:33:05Z</updated>
+    <id>tag:github.com,2022-05-30:/joshaber/clojurem</id>
     <link href="https://github.com/joshaber/clojurem" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Clojure to Objective-C compiler&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nubank/clj-github</title>
+    <updated>2022-05-30T02:33:05Z</updated>
+    <id>tag:github.com,2022-05-30:/nubank/clj-github</id>
+    <link href="https://github.com/nubank/clj-github" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Clojure library for interacting with the github developer API&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>clojure/tools.build</title>
+    <updated>2022-05-30T02:33:05Z</updated>
+    <id>tag:github.com,2022-05-30:/clojure/tools.build</id>
+    <link href="https://github.com/clojure/tools.build" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clojure builds as Clojure programs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tonsky/datascript</title>
+    <updated>2022-05-30T02:33:05Z</updated>
+    <id>tag:github.com,2022-05-30:/tonsky/datascript</id>
+    <link href="https://github.com/tonsky/datascript" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Immutable database and Datalog query engine for Clojure, ClojureScript and JS&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

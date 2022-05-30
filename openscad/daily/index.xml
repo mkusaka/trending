@@ -1,13 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OpenSCAD Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T01:49:46Z</updated>
+  <updated>2022-05-30T01:48:02Z</updated>
   <subtitle>Daily Trending of OpenSCAD in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
+    <title>grame-cncm/faustlibraries</title>
+    <updated>2022-05-30T01:48:02Z</updated>
+    <id>tag:github.com,2022-05-30:/grame-cncm/faustlibraries</id>
+    <link href="https://github.com/grame-cncm/faustlibraries" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Faust libraries&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>prusa3d/Original-Prusa-i3</title>
+    <updated>2022-05-30T01:48:02Z</updated>
+    <id>tag:github.com,2022-05-30:/prusa3d/Original-Prusa-i3</id>
+    <link href="https://github.com/prusa3d/Original-Prusa-i3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Original Prusa i3 MK2 3D printer printed parts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>adereth/dactyl-keyboard</title>
+    <updated>2022-05-30T01:48:02Z</updated>
+    <id>tag:github.com,2022-05-30:/adereth/dactyl-keyboard</id>
+    <link href="https://github.com/adereth/dactyl-keyboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Parameterized ergonomic keyboard&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>maduce/fosscad-repo</title>
+    <updated>2022-05-30T01:48:02Z</updated>
+    <id>tag:github.com,2022-05-30:/maduce/fosscad-repo</id>
+    <link href="https://github.com/maduce/fosscad-repo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official FOSSCAD Library Repository&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>FrameworkComputer/Mainboard</title>
+    <updated>2022-05-30T01:48:02Z</updated>
+    <id>tag:github.com,2022-05-30:/FrameworkComputer/Mainboard</id>
+    <link href="https://github.com/FrameworkComputer/Mainboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Documentation for the Mainboard in the Framework Laptop&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>revarbat/BOSL2</title>
-    <updated>2022-05-29T01:49:46Z</updated>
-    <id>tag:github.com,2022-05-29:/revarbat/BOSL2</id>
+    <updated>2022-05-30T01:48:02Z</updated>
+    <id>tag:github.com,2022-05-30:/revarbat/BOSL2</id>
     <link href="https://github.com/revarbat/BOSL2" rel="alternate"></link>
     <summary type="html">&lt;p&gt;The Belfry OpenScad Library, v2.0. An OpenSCAD library of shapes, masks, and manipulators to make working with OpenSCAD easier. BETA&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

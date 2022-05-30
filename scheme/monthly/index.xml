@@ -1,69 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scheme Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T02:50:37Z</updated>
+  <updated>2022-05-30T02:50:22Z</updated>
   <subtitle>Monthly Trending of Scheme in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>nvim-treesitter/nvim-treesitter</title>
-    <updated>2022-05-29T02:50:37Z</updated>
-    <id>tag:github.com,2022-05-29:/nvim-treesitter/nvim-treesitter</id>
+    <updated>2022-05-30T02:50:22Z</updated>
+    <id>tag:github.com,2022-05-30:/nvim-treesitter/nvim-treesitter</id>
     <link href="https://github.com/nvim-treesitter/nvim-treesitter" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Nvim Treesitter configurations and abstraction layer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>SmiteshP/nvim-gps</title>
-    <updated>2022-05-29T02:50:37Z</updated>
-    <id>tag:github.com,2022-05-29:/SmiteshP/nvim-gps</id>
+    <updated>2022-05-30T02:50:22Z</updated>
+    <id>tag:github.com,2022-05-30:/SmiteshP/nvim-gps</id>
     <link href="https://github.com/SmiteshP/nvim-gps" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Simple statusline component that shows what scope you are working inside&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>nvim-treesitter/nvim-treesitter-textobjects</title>
-    <updated>2022-05-29T02:50:37Z</updated>
-    <id>tag:github.com,2022-05-29:/nvim-treesitter/nvim-treesitter-textobjects</id>
+    <updated>2022-05-30T02:50:22Z</updated>
+    <id>tag:github.com,2022-05-30:/nvim-treesitter/nvim-treesitter-textobjects</id>
     <link href="https://github.com/nvim-treesitter/nvim-treesitter-textobjects" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>cisco/ChezScheme</title>
-    <updated>2022-05-29T02:50:37Z</updated>
-    <id>tag:github.com,2022-05-29:/cisco/ChezScheme</id>
+    <updated>2022-05-30T02:50:22Z</updated>
+    <id>tag:github.com,2022-05-30:/cisco/ChezScheme</id>
     <link href="https://github.com/cisco/ChezScheme" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Chez Scheme&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>racket/racket</title>
-    <updated>2022-05-29T02:50:37Z</updated>
-    <id>tag:github.com,2022-05-29:/racket/racket</id>
+    <updated>2022-05-30T02:50:22Z</updated>
+    <id>tag:github.com,2022-05-30:/racket/racket</id>
     <link href="https://github.com/racket/racket" rel="alternate"></link>
     <summary type="html">&lt;p&gt;The Racket repository&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>valvallow/tumblrand</title>
-    <updated>2022-05-29T02:50:37Z</updated>
-    <id>tag:github.com,2022-05-29:/valvallow/tumblrand</id>
+    <updated>2022-05-30T02:50:22Z</updated>
+    <id>tag:github.com,2022-05-30:/valvallow/tumblrand</id>
     <link href="https://github.com/valvallow/tumblrand" rel="alternate"></link>
     <summary type="html">&lt;p&gt;display random tumble&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>erbenmo/SICP</title>
-    <updated>2022-05-29T02:50:37Z</updated>
-    <id>tag:github.com,2022-05-29:/erbenmo/SICP</id>
+    <updated>2022-05-30T02:50:22Z</updated>
+    <id>tag:github.com,2022-05-30:/erbenmo/SICP</id>
     <link href="https://github.com/erbenmo/SICP" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>marcomaggi/vicare-curl</title>
-    <updated>2022-05-29T02:50:37Z</updated>
-    <id>tag:github.com,2022-05-29:/marcomaggi/vicare-curl</id>
+    <updated>2022-05-30T02:50:22Z</updated>
+    <id>tag:github.com,2022-05-30:/marcomaggi/vicare-curl</id>
     <link href="https://github.com/marcomaggi/vicare-curl" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Vicare Scheme binding to Libcurl&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>RRethy/nvim-treesitter-textsubjects</title>
-    <updated>2022-05-29T02:50:37Z</updated>
-    <id>tag:github.com,2022-05-29:/RRethy/nvim-treesitter-textsubjects</id>
+    <updated>2022-05-30T02:50:22Z</updated>
+    <id>tag:github.com,2022-05-30:/RRethy/nvim-treesitter-textsubjects</id>
     <link href="https://github.com/RRethy/nvim-treesitter-textsubjects" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Location and syntax aware text objects which *do what you mean*&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

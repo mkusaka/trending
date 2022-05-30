@@ -1,182 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T01:37:28Z</updated>
+  <updated>2022-05-30T01:35:44Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>steinbergmedia/vst3sdk</title>
-    <updated>2022-05-29T01:37:28Z</updated>
-    <id>tag:github.com,2022-05-29:/steinbergmedia/vst3sdk</id>
+    <updated>2022-05-30T01:35:44Z</updated>
+    <id>tag:github.com,2022-05-30:/steinbergmedia/vst3sdk</id>
     <link href="https://github.com/steinbergmedia/vst3sdk" rel="alternate"></link>
     <summary type="html">&lt;p&gt;VST 3 Plug-In SDK&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>microsoft/vcpkg</title>
-    <updated>2022-05-29T01:37:28Z</updated>
-    <id>tag:github.com,2022-05-29:/microsoft/vcpkg</id>
-    <link href="https://github.com/microsoft/vcpkg" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;C++ Library Manager for Windows, Linux, and MacOS&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mosra/toolchains</title>
-    <updated>2022-05-29T01:37:28Z</updated>
-    <id>tag:github.com,2022-05-29:/mosra/toolchains</id>
-    <link href="https://github.com/mosra/toolchains" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Toolchains for crosscompiling with CMake.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>swift-nav/cmake</title>
-    <updated>2022-05-29T01:37:28Z</updated>
-    <id>tag:github.com,2022-05-29:/swift-nav/cmake</id>
-    <link href="https://github.com/swift-nav/cmake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Swift&#39;s commonly used CMake modules&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>allnes/pp_2022_spring_report</title>
-    <updated>2022-05-29T01:37:28Z</updated>
-    <id>tag:github.com,2022-05-29:/allnes/pp_2022_spring_report</id>
+    <updated>2022-05-30T01:35:44Z</updated>
+    <id>tag:github.com,2022-05-30:/allnes/pp_2022_spring_report</id>
     <link href="https://github.com/allnes/pp_2022_spring_report" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>wzpan/cmake-demo</title>
-    <updated>2022-05-29T01:37:28Z</updated>
-    <id>tag:github.com,2022-05-29:/wzpan/cmake-demo</id>
-    <link href="https://github.com/wzpan/cmake-demo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;《CMake入门实战》源码&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>xmos/xmos_cmake_toolchain</title>
-    <updated>2022-05-29T01:37:28Z</updated>
-    <id>tag:github.com,2022-05-29:/xmos/xmos_cmake_toolchain</id>
-    <link href="https://github.com/xmos/xmos_cmake_toolchain" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>TartanLlama/tl-cmake</title>
-    <updated>2022-05-29T01:37:28Z</updated>
-    <id>tag:github.com,2022-05-29:/TartanLlama/tl-cmake</id>
-    <link href="https://github.com/TartanLlama/tl-cmake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>flathub/shared-modules</title>
-    <updated>2022-05-29T01:37:28Z</updated>
-    <id>tag:github.com,2022-05-29:/flathub/shared-modules</id>
-    <link href="https://github.com/flathub/shared-modules" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Common Flatpak modules that can be used as a git submodule&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>leetal/ios-cmake</title>
-    <updated>2022-05-29T01:37:28Z</updated>
-    <id>tag:github.com,2022-05-29:/leetal/ios-cmake</id>
-    <link href="https://github.com/leetal/ios-cmake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A CMake toolchain file for iOS, macOS, watchOS &amp; tvOS C/C++/Obj-C++ development&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ReFil/zmk-config</title>
-    <updated>2022-05-29T01:37:28Z</updated>
-    <id>tag:github.com,2022-05-29:/ReFil/zmk-config</id>
-    <link href="https://github.com/ReFil/zmk-config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>eve-autonomy/audio_driver_msgs</title>
-    <updated>2022-05-29T01:37:28Z</updated>
-    <id>tag:github.com,2022-05-29:/eve-autonomy/audio_driver_msgs</id>
-    <link href="https://github.com/eve-autonomy/audio_driver_msgs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ros-controls/control_msgs</title>
-    <updated>2022-05-29T01:37:28Z</updated>
-    <id>tag:github.com,2022-05-29:/ros-controls/control_msgs</id>
-    <link href="https://github.com/ros-controls/control_msgs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>eve-autonomy/autoware_state_machine_msgs</title>
-    <updated>2022-05-29T01:37:28Z</updated>
-    <id>tag:github.com,2022-05-29:/eve-autonomy/autoware_state_machine_msgs</id>
-    <link href="https://github.com/eve-autonomy/autoware_state_machine_msgs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>StableCoder/cmake-scripts</title>
-    <updated>2022-05-29T01:37:28Z</updated>
-    <id>tag:github.com,2022-05-29:/StableCoder/cmake-scripts</id>
-    <link href="https://github.com/StableCoder/cmake-scripts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A selection of useful scripts for use in CMake projects, include code coverage, sanitizers, and dependency graph generation.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>NNTU-CS/ADS-9</title>
-    <updated>2022-05-29T01:37:28Z</updated>
-    <id>tag:github.com,2022-05-29:/NNTU-CS/ADS-9</id>
+    <updated>2022-05-30T01:35:44Z</updated>
+    <id>tag:github.com,2022-05-30:/NNTU-CS/ADS-9</id>
     <link href="https://github.com/NNTU-CS/ADS-9" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ros-industrial/ur_msgs</title>
-    <updated>2022-05-29T01:37:28Z</updated>
-    <id>tag:github.com,2022-05-29:/ros-industrial/ur_msgs</id>
-    <link href="https://github.com/ros-industrial/ur_msgs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ROS messages and services for Universal Robots robot controllers.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mosra/toolchains</title>
+    <updated>2022-05-30T01:35:44Z</updated>
+    <id>tag:github.com,2022-05-30:/mosra/toolchains</id>
+    <link href="https://github.com/mosra/toolchains" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Toolchains for crosscompiling with CMake.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>eve-autonomy/go_interface_msgs</title>
-    <updated>2022-05-29T01:37:28Z</updated>
-    <id>tag:github.com,2022-05-29:/eve-autonomy/go_interface_msgs</id>
-    <link href="https://github.com/eve-autonomy/go_interface_msgs" rel="alternate"></link>
+    <title>microsoft/vcpkg</title>
+    <updated>2022-05-30T01:35:44Z</updated>
+    <id>tag:github.com,2022-05-30:/microsoft/vcpkg</id>
+    <link href="https://github.com/microsoft/vcpkg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;C++ Library Manager for Windows, Linux, and MacOS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>UNN-IASR/mod-lab06-markov</title>
+    <updated>2022-05-30T01:35:44Z</updated>
+    <id>tag:github.com,2022-05-30:/UNN-IASR/mod-lab06-markov</id>
+    <link href="https://github.com/UNN-IASR/mod-lab06-markov" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>eve-autonomy/proj_launch</title>
-    <updated>2022-05-29T01:37:28Z</updated>
-    <id>tag:github.com,2022-05-29:/eve-autonomy/proj_launch</id>
-    <link href="https://github.com/eve-autonomy/proj_launch" rel="alternate"></link>
+    <title>TartanLlama/tl-cmake</title>
+    <updated>2022-05-30T01:35:44Z</updated>
+    <id>tag:github.com,2022-05-30:/TartanLlama/tl-cmake</id>
+    <link href="https://github.com/TartanLlama/tl-cmake" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>steinbergmedia/vst3_cmake</title>
-    <updated>2022-05-29T01:37:28Z</updated>
-    <id>tag:github.com,2022-05-29:/steinbergmedia/vst3_cmake</id>
-    <link href="https://github.com/steinbergmedia/vst3_cmake" rel="alternate"></link>
+    <title>UNN-IASR/mod-lab08-shop</title>
+    <updated>2022-05-30T01:35:44Z</updated>
+    <id>tag:github.com,2022-05-30:/UNN-IASR/mod-lab08-shop</id>
+    <link href="https://github.com/UNN-IASR/mod-lab08-shop" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cpp-best-practices/gui_starter_template</title>
-    <updated>2022-05-29T01:37:28Z</updated>
-    <id>tag:github.com,2022-05-29:/cpp-best-practices/gui_starter_template</id>
-    <link href="https://github.com/cpp-best-practices/gui_starter_template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A template CMake project to get you started with C++ and tooling&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>boostorg/cmake</title>
+    <updated>2022-05-30T01:35:44Z</updated>
+    <id>tag:github.com,2022-05-30:/boostorg/cmake</id>
+    <link href="https://github.com/boostorg/cmake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CMake support infrastructure Boost submodule; experimental&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>TheLartians/ModernCppStarter</title>
+    <updated>2022-05-30T01:35:44Z</updated>
+    <id>tag:github.com,2022-05-30:/TheLartians/ModernCppStarter</id>
+    <link href="https://github.com/TheLartians/ModernCppStarter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>Azure/c-testrunnerswitcher</title>
-    <updated>2022-05-29T01:37:28Z</updated>
-    <id>tag:github.com,2022-05-29:/Azure/c-testrunnerswitcher</id>
+    <updated>2022-05-30T01:35:44Z</updated>
+    <id>tag:github.com,2022-05-30:/Azure/c-testrunnerswitcher</id>
     <link href="https://github.com/Azure/c-testrunnerswitcher" rel="alternate"></link>
     <summary type="html">&lt;p&gt;C test runner switcher repo to be broken off from azure-c-shared-utility so it can be reused in several of our IoT repos&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>GEOS-ESM/GEOSgcm</title>
-    <updated>2022-05-29T01:37:28Z</updated>
-    <id>tag:github.com,2022-05-29:/GEOS-ESM/GEOSgcm</id>
-    <link href="https://github.com/GEOS-ESM/GEOSgcm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GEOS Earth System Model GEOSgcm Fixture&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TLeonardUK/ds3os</title>
+    <updated>2022-05-30T01:35:44Z</updated>
+    <id>tag:github.com,2022-05-30:/TLeonardUK/ds3os</id>
+    <link href="https://github.com/TLeonardUK/ds3os" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dark Souls 3 - Open Server&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mavlink/mavlink-gbp-release</title>
+    <updated>2022-05-30T01:35:44Z</updated>
+    <id>tag:github.com,2022-05-30:/mavlink/mavlink-gbp-release</id>
+    <link href="https://github.com/mavlink/mavlink-gbp-release" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;git-buildpackage repository for releasing mavlink as 3-rd party library for ROS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>EVerest/libtimer</title>
+    <updated>2022-05-30T01:35:44Z</updated>
+    <id>tag:github.com,2022-05-30:/EVerest/libtimer</id>
+    <link href="https://github.com/EVerest/libtimer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Convenient wrapper for often used timer functions&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>steinbergmedia/vst3_cmake</title>
+    <updated>2022-05-30T01:35:44Z</updated>
+    <id>tag:github.com,2022-05-30:/steinbergmedia/vst3_cmake</id>
+    <link href="https://github.com/steinbergmedia/vst3_cmake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>minecraft-linux/mcpelauncher-manifest</title>
+    <updated>2022-05-30T01:35:44Z</updated>
+    <id>tag:github.com,2022-05-30:/minecraft-linux/mcpelauncher-manifest</id>
+    <link href="https://github.com/minecraft-linux/mcpelauncher-manifest" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>aminya/project_options</title>
+    <updated>2022-05-30T01:35:44Z</updated>
+    <id>tag:github.com,2022-05-30:/aminya/project_options</id>
+    <link href="https://github.com/aminya/project_options" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A general-purpose CMake library that makes using CMake easier&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>arsenm/sanitizers-cmake</title>
+    <updated>2022-05-30T01:35:44Z</updated>
+    <id>tag:github.com,2022-05-30:/arsenm/sanitizers-cmake</id>
+    <link href="https://github.com/arsenm/sanitizers-cmake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CMake modules to help use sanitizers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>autowarefoundation/sample_vehicle_launch</title>
+    <updated>2022-05-30T01:35:44Z</updated>
+    <id>tag:github.com,2022-05-30:/autowarefoundation/sample_vehicle_launch</id>
+    <link href="https://github.com/autowarefoundation/sample_vehicle_launch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>autowarefoundation/autoware_individual_params</title>
+    <updated>2022-05-30T01:35:44Z</updated>
+    <id>tag:github.com,2022-05-30:/autowarefoundation/autoware_individual_params</id>
+    <link href="https://github.com/autowarefoundation/autoware_individual_params" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>qt/qttranslations</title>
+    <updated>2022-05-30T01:35:44Z</updated>
+    <id>tag:github.com,2022-05-30:/qt/qttranslations</id>
+    <link href="https://github.com/qt/qttranslations" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Qt Translations&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>couchbase/tlm</title>
-    <updated>2022-05-29T01:37:28Z</updated>
-    <id>tag:github.com,2022-05-29:/couchbase/tlm</id>
+    <updated>2022-05-30T01:35:44Z</updated>
+    <id>tag:github.com,2022-05-30:/couchbase/tlm</id>
     <link href="https://github.com/couchbase/tlm" rel="alternate"></link>
     <summary type="html">&lt;p&gt;top level makefile&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>GEOS-ESM/ESMA_cmake</title>
-    <updated>2022-05-29T01:37:28Z</updated>
-    <id>tag:github.com,2022-05-29:/GEOS-ESM/ESMA_cmake</id>
-    <link href="https://github.com/GEOS-ESM/ESMA_cmake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Custom CMake macros for the GEOS Earth System Model&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mavlink/mavlink</title>
+    <updated>2022-05-30T01:35:44Z</updated>
+    <id>tag:github.com,2022-05-30:/mavlink/mavlink</id>
+    <link href="https://github.com/mavlink/mavlink" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Marshalling / communication library for drones.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ros-controls/control_msgs</title>
+    <updated>2022-05-30T01:35:44Z</updated>
+    <id>tag:github.com,2022-05-30:/ros-controls/control_msgs</id>
+    <link href="https://github.com/ros-controls/control_msgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ReFil/zmk-config</title>
+    <updated>2022-05-30T01:35:44Z</updated>
+    <id>tag:github.com,2022-05-30:/ReFil/zmk-config</id>
+    <link href="https://github.com/ReFil/zmk-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

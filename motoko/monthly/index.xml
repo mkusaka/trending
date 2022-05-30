@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Motoko Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-29T02:45:01Z</updated>
+  <updated>2022-05-30T02:44:41Z</updated>
   <subtitle>Monthly Trending of Motoko in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>Psychedelic/cap-motoko-library</title>
-    <updated>2022-05-29T02:45:01Z</updated>
-    <id>tag:github.com,2022-05-29:/Psychedelic/cap-motoko-library</id>
+    <updated>2022-05-30T02:44:41Z</updated>
+    <id>tag:github.com,2022-05-30:/Psychedelic/cap-motoko-library</id>
     <link href="https://github.com/Psychedelic/cap-motoko-library" rel="alternate"></link>
     <summary type="html">&lt;p&gt;The CAP (Certified Asset Provenance) Motoko Library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>dfinity/examples</title>
-    <updated>2022-05-29T02:45:01Z</updated>
-    <id>tag:github.com,2022-05-29:/dfinity/examples</id>
+    <updated>2022-05-30T02:44:41Z</updated>
+    <id>tag:github.com,2022-05-30:/dfinity/examples</id>
     <link href="https://github.com/dfinity/examples" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Example applications, microservices, and code samples for the Internet Computer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
