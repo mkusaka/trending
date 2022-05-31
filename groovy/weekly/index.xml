@@ -1,181 +1,181 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T02:10:10Z</updated>
+  <updated>2022-05-31T02:10:30Z</updated>
   <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>bregman-arie/devops-resources</title>
-    <updated>2022-05-30T02:10:10Z</updated>
-    <id>tag:github.com,2022-05-30:/bregman-arie/devops-resources</id>
+    <updated>2022-05-31T02:10:30Z</updated>
+    <id>tag:github.com,2022-05-31:/bregman-arie/devops-resources</id>
     <link href="https://github.com/bregman-arie/devops-resources" rel="alternate"></link>
     <summary type="html">&lt;p&gt;DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SmartThingsCommunity/SmartThingsPublic</title>
-    <updated>2022-05-30T02:10:10Z</updated>
-    <id>tag:github.com,2022-05-30:/SmartThingsCommunity/SmartThingsPublic</id>
-    <link href="https://github.com/SmartThingsCommunity/SmartThingsPublic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SmartThings open-source DeviceTypeHandlers and SmartApps code&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>google/protobuf-gradle-plugin</title>
-    <updated>2022-05-30T02:10:10Z</updated>
-    <id>tag:github.com,2022-05-30:/google/protobuf-gradle-plugin</id>
-    <link href="https://github.com/google/protobuf-gradle-plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Protobuf Plugin for Gradle&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>jenkinsci/pipeline-examples</title>
-    <updated>2022-05-30T02:10:10Z</updated>
-    <id>tag:github.com,2022-05-30:/jenkinsci/pipeline-examples</id>
+    <updated>2022-05-31T02:10:30Z</updated>
+    <id>tag:github.com,2022-05-31:/jenkinsci/pipeline-examples</id>
     <link href="https://github.com/jenkinsci/pipeline-examples" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>rundeck/rundeck</title>
-    <updated>2022-05-30T02:10:10Z</updated>
-    <id>tag:github.com,2022-05-30:/rundeck/rundeck</id>
+    <updated>2022-05-31T02:10:30Z</updated>
+    <id>tag:github.com,2022-05-31:/rundeck/rundeck</id>
     <link href="https://github.com/rundeck/rundeck" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>nextflow-io/nextflow</title>
-    <updated>2022-05-30T02:10:10Z</updated>
-    <id>tag:github.com,2022-05-30:/nextflow-io/nextflow</id>
+    <updated>2022-05-31T02:10:30Z</updated>
+    <id>tag:github.com,2022-05-31:/nextflow-io/nextflow</id>
     <link href="https://github.com/nextflow-io/nextflow" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A DSL for data-driven computational pipelines&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>Zer0d/blunt</title>
-    <updated>2022-05-30T02:10:10Z</updated>
-    <id>tag:github.com,2022-05-30:/Zer0d/blunt</id>
+    <updated>2022-05-31T02:10:30Z</updated>
+    <id>tag:github.com,2022-05-31:/Zer0d/blunt</id>
     <link href="https://github.com/Zer0d/blunt" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Ka-ching! You zero&#39;d another repo.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>LandmakTechnology/JenkinsSharedLibraries</title>
-    <updated>2022-05-30T02:10:10Z</updated>
-    <id>tag:github.com,2022-05-30:/LandmakTechnology/JenkinsSharedLibraries</id>
+    <updated>2022-05-31T02:10:30Z</updated>
+    <id>tag:github.com,2022-05-31:/LandmakTechnology/JenkinsSharedLibraries</id>
     <link href="https://github.com/LandmakTechnology/JenkinsSharedLibraries" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>gradle/gradle</title>
-    <updated>2022-05-30T02:10:10Z</updated>
-    <id>tag:github.com,2022-05-30:/gradle/gradle</id>
-    <link href="https://github.com/gradle/gradle" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Adaptable, fast automation for all&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SmartThingsCommunity/SmartThingsPublic</title>
+    <updated>2022-05-31T02:10:30Z</updated>
+    <id>tag:github.com,2022-05-31:/SmartThingsCommunity/SmartThingsPublic</id>
+    <link href="https://github.com/SmartThingsCommunity/SmartThingsPublic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SmartThings open-source DeviceTypeHandlers and SmartApps code&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>google/protobuf-gradle-plugin</title>
+    <updated>2022-05-31T02:10:30Z</updated>
+    <id>tag:github.com,2022-05-31:/google/protobuf-gradle-plugin</id>
+    <link href="https://github.com/google/protobuf-gradle-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Protobuf Plugin for Gradle&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>AdobeDocs/experience-manager-65.en</title>
-    <updated>2022-05-30T02:10:10Z</updated>
-    <id>tag:github.com,2022-05-30:/AdobeDocs/experience-manager-65.en</id>
+    <updated>2022-05-31T02:10:30Z</updated>
+    <id>tag:github.com,2022-05-31:/AdobeDocs/experience-manager-65.en</id>
     <link href="https://github.com/AdobeDocs/experience-manager-65.en" rel="alternate"></link>
     <summary type="html">&lt;p&gt;This is the repository for Adobe Experience Manager 6.5 documentation. Your contributions to the documentation are welcome.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>olxbr/gradle-plugins</title>
-    <updated>2022-05-30T02:10:10Z</updated>
-    <id>tag:github.com,2022-05-30:/olxbr/gradle-plugins</id>
+    <updated>2022-05-31T02:10:30Z</updated>
+    <id>tag:github.com,2022-05-31:/olxbr/gradle-plugins</id>
     <link href="https://github.com/olxbr/gradle-plugins" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Gradle plugins that can be used for several projects&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>iquix/Smartthings</title>
-    <updated>2022-05-30T02:10:10Z</updated>
-    <id>tag:github.com,2022-05-30:/iquix/Smartthings</id>
+    <updated>2022-05-31T02:10:30Z</updated>
+    <id>tag:github.com,2022-05-31:/iquix/Smartthings</id>
     <link href="https://github.com/iquix/Smartthings" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Custom DTHs for Smartthings&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>ultraq/thymeleaf-layout-dialect</title>
-    <updated>2022-05-30T02:10:10Z</updated>
-    <id>tag:github.com,2022-05-30:/ultraq/thymeleaf-layout-dialect</id>
+    <updated>2022-05-31T02:10:30Z</updated>
+    <id>tag:github.com,2022-05-31:/ultraq/thymeleaf-layout-dialect</id>
     <link href="https://github.com/ultraq/thymeleaf-layout-dialect" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A dialect for Thymeleaf that lets you build layouts and reusable templates in order to improve code reuse&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>gradle/gradle</title>
+    <updated>2022-05-31T02:10:30Z</updated>
+    <id>tag:github.com,2022-05-31:/gradle/gradle</id>
+    <link href="https://github.com/gradle/gradle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Adaptable, fast automation for all&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>jenkinsci/pipeline-model-definition-plugin</title>
-    <updated>2022-05-30T02:10:10Z</updated>
-    <id>tag:github.com,2022-05-30:/jenkinsci/pipeline-model-definition-plugin</id>
+    <updated>2022-05-31T02:10:30Z</updated>
+    <id>tag:github.com,2022-05-31:/jenkinsci/pipeline-model-definition-plugin</id>
     <link href="https://github.com/jenkinsci/pipeline-model-definition-plugin" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>cardenizen/testSectionTracking</title>
-    <updated>2022-05-30T02:10:10Z</updated>
-    <id>tag:github.com,2022-05-30:/cardenizen/testSectionTracking</id>
+    <updated>2022-05-31T02:10:30Z</updated>
+    <id>tag:github.com,2022-05-31:/cardenizen/testSectionTracking</id>
     <link href="https://github.com/cardenizen/testSectionTracking" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>darinpope/github-api-global-lib</title>
-    <updated>2022-05-30T02:10:10Z</updated>
-    <id>tag:github.com,2022-05-30:/darinpope/github-api-global-lib</id>
-    <link href="https://github.com/darinpope/github-api-global-lib" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jfrog/artifactory-user-plugins</title>
-    <updated>2022-05-30T02:10:10Z</updated>
-    <id>tag:github.com,2022-05-30:/jfrog/artifactory-user-plugins</id>
-    <link href="https://github.com/jfrog/artifactory-user-plugins" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sample Artifactory User Plugins&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mulesoft/mule-assembly-verifier-plugin</title>
-    <updated>2022-05-30T02:10:10Z</updated>
-    <id>tag:github.com,2022-05-30:/mulesoft/mule-assembly-verifier-plugin</id>
-    <link href="https://github.com/mulesoft/mule-assembly-verifier-plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Maven Assembly Verifier for Mule Build&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>embeddedartistry/templates</title>
-    <updated>2022-05-30T02:10:10Z</updated>
-    <id>tag:github.com,2022-05-30:/embeddedartistry/templates</id>
-    <link href="https://github.com/embeddedartistry/templates" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Document templates for open-source projects (README, CONTRIBUTING, GitHub templates)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>zeyangli/jenkinslibrary</title>
-    <updated>2022-05-30T02:10:10Z</updated>
-    <id>tag:github.com,2022-05-30:/zeyangli/jenkinslibrary</id>
+    <updated>2022-05-31T02:10:30Z</updated>
+    <id>tag:github.com,2022-05-31:/zeyangli/jenkinslibrary</id>
     <link href="https://github.com/zeyangli/jenkinslibrary" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Jenkins共享库&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>node-gradle/gradle-node-plugin</title>
-    <updated>2022-05-30T02:10:10Z</updated>
-    <id>tag:github.com,2022-05-30:/node-gradle/gradle-node-plugin</id>
-    <link href="https://github.com/node-gradle/gradle-node-plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gradle plugin for integrating NodeJS in your build. 🚀&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>kezong/fat-aar-android</title>
-    <updated>2022-05-30T02:10:10Z</updated>
-    <id>tag:github.com,2022-05-30:/kezong/fat-aar-android</id>
+    <updated>2022-05-31T02:10:30Z</updated>
+    <id>tag:github.com,2022-05-31:/kezong/fat-aar-android</id>
     <link href="https://github.com/kezong/fat-aar-android" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A gradle plugin that merge dependencies into the final aar file works with AGP 3.+&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bmuschko/gradle-docker-plugin</title>
-    <updated>2022-05-30T02:10:10Z</updated>
-    <id>tag:github.com,2022-05-30:/bmuschko/gradle-docker-plugin</id>
-    <link href="https://github.com/bmuschko/gradle-docker-plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gradle plugin for managing Docker images and containers.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bit-bots/bitbots_jenkins_library</title>
+    <updated>2022-05-31T02:10:30Z</updated>
+    <id>tag:github.com,2022-05-31:/bit-bots/bitbots_jenkins_library</id>
+    <link href="https://github.com/bit-bots/bitbots_jenkins_library" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Jenkins library which provides functions to make working with bitbots (and ROS) code easier in pipelines&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jfrog/artifactory-user-plugins</title>
+    <updated>2022-05-31T02:10:30Z</updated>
+    <id>tag:github.com,2022-05-31:/jfrog/artifactory-user-plugins</id>
+    <link href="https://github.com/jfrog/artifactory-user-plugins" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sample Artifactory User Plugins&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>darinpope/github-api-global-lib</title>
+    <updated>2022-05-31T02:10:30Z</updated>
+    <id>tag:github.com,2022-05-31:/darinpope/github-api-global-lib</id>
+    <link href="https://github.com/darinpope/github-api-global-lib" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mulesoft/mule-assembly-verifier-plugin</title>
+    <updated>2022-05-31T02:10:30Z</updated>
+    <id>tag:github.com,2022-05-31:/mulesoft/mule-assembly-verifier-plugin</id>
+    <link href="https://github.com/mulesoft/mule-assembly-verifier-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Maven Assembly Verifier for Mule Build&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>jenkinsci/JenkinsPipelineUnit</title>
-    <updated>2022-05-30T02:10:10Z</updated>
-    <id>tag:github.com,2022-05-30:/jenkinsci/JenkinsPipelineUnit</id>
+    <updated>2022-05-31T02:10:30Z</updated>
+    <id>tag:github.com,2022-05-31:/jenkinsci/JenkinsPipelineUnit</id>
     <link href="https://github.com/jenkinsci/JenkinsPipelineUnit" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Framework for unit testing Jenkins pipelines&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>node-gradle/gradle-node-plugin</title>
+    <updated>2022-05-31T02:10:30Z</updated>
+    <id>tag:github.com,2022-05-31:/node-gradle/gradle-node-plugin</id>
+    <link href="https://github.com/node-gradle/gradle-node-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gradle plugin for integrating NodeJS in your build. 🚀&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jenkinsci/jenkins-scripts</title>
+    <updated>2022-05-31T02:10:30Z</updated>
+    <id>tag:github.com,2022-05-31:/jenkinsci/jenkins-scripts</id>
+    <link href="https://github.com/jenkinsci/jenkins-scripts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Scripts in Groovy, shell, Ruby, Python, whatever for managing/interacting with Jenkins&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>mkdecisiondev/moqui-pac4j-authentication</title>
-    <updated>2022-05-30T02:10:10Z</updated>
-    <id>tag:github.com,2022-05-30:/mkdecisiondev/moqui-pac4j-authentication</id>
+    <updated>2022-05-31T02:10:30Z</updated>
+    <id>tag:github.com,2022-05-31:/mkdecisiondev/moqui-pac4j-authentication</id>
     <link href="https://github.com/mkdecisiondev/moqui-pac4j-authentication" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Single Sign-on authentication support for Moqui&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

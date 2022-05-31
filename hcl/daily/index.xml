@@ -1,182 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T01:41:30Z</updated>
+  <updated>2022-05-31T01:41:50Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
+    <title>khuedoan/homelab</title>
+    <updated>2022-05-31T01:41:50Z</updated>
+    <id>tag:github.com,2022-05-31:/khuedoan/homelab</id>
+    <link href="https://github.com/khuedoan/homelab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>aws-ia/terraform-aws-eks-blueprints</title>
+    <updated>2022-05-31T01:41:50Z</updated>
+    <id>tag:github.com,2022-05-31:/aws-ia/terraform-aws-eks-blueprints</id>
+    <link href="https://github.com/aws-ia/terraform-aws-eks-blueprints" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Configure and deploy complete EKS clusters.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure/terraform-azurerm-network</title>
+    <updated>2022-05-31T01:41:50Z</updated>
+    <id>tag:github.com,2022-05-31:/Azure/terraform-azurerm-network</id>
+    <link href="https://github.com/Azure/terraform-azurerm-network" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform Azure RM Module for Network&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Olivr/free-domain</title>
+    <updated>2022-05-31T01:41:50Z</updated>
+    <id>tag:github.com,2022-05-31:/Olivr/free-domain</id>
+    <link href="https://github.com/Olivr/free-domain" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Get a cluster.ws &amp; wip.la domain for free and instantly&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>xcad2k/boilerplates</title>
-    <updated>2022-05-30T01:41:30Z</updated>
-    <id>tag:github.com,2022-05-30:/xcad2k/boilerplates</id>
+    <updated>2022-05-31T01:41:50Z</updated>
+    <id>tag:github.com,2022-05-31:/xcad2k/boilerplates</id>
     <link href="https://github.com/xcad2k/boilerplates" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Templates and configurations for various projects and deployment scenarios&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>brikis98/terraform-up-and-running-code</title>
-    <updated>2022-05-30T01:41:30Z</updated>
-    <id>tag:github.com,2022-05-30:/brikis98/terraform-up-and-running-code</id>
+    <updated>2022-05-31T01:41:50Z</updated>
+    <id>tag:github.com,2022-05-31:/brikis98/terraform-up-and-running-code</id>
     <link href="https://github.com/brikis98/terraform-up-and-running-code" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Code samples for the book &#34;Terraform: Up &amp; Running&#34; by Yevgeniy Brikman&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>stacksimplify/azure-aks-kubernetes-masterclass</title>
+    <updated>2022-05-31T01:41:50Z</updated>
+    <id>tag:github.com,2022-05-31:/stacksimplify/azure-aks-kubernetes-masterclass</id>
+    <link href="https://github.com/stacksimplify/azure-aks-kubernetes-masterclass" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Azure AKS Kubernetes Masterclass&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure/azure-spring-cloud-reference-architecture</title>
+    <updated>2022-05-31T01:41:50Z</updated>
+    <id>tag:github.com,2022-05-31:/Azure/azure-spring-cloud-reference-architecture</id>
+    <link href="https://github.com/Azure/azure-spring-cloud-reference-architecture" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Quickstarts for deploying Azure Spring Cloud Reference Architecture - using Terraform, ARM Template, Bicep or Azure CLI&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>CloudHealth/terraform-cloudhealth-iam</title>
-    <updated>2022-05-30T01:41:30Z</updated>
-    <id>tag:github.com,2022-05-30:/CloudHealth/terraform-cloudhealth-iam</id>
+    <updated>2022-05-31T01:41:50Z</updated>
+    <id>tag:github.com,2022-05-31:/CloudHealth/terraform-cloudhealth-iam</id>
     <link href="https://github.com/CloudHealth/terraform-cloudhealth-iam" rel="alternate"></link>
     <summary type="html">&lt;p&gt;CloudHealth Terraform module for IAM Roles provisioning&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>vikas99341/Terraform-codes</title>
-    <updated>2022-05-30T01:41:30Z</updated>
-    <id>tag:github.com,2022-05-30:/vikas99341/Terraform-codes</id>
-    <link href="https://github.com/vikas99341/Terraform-codes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Azure/terraform</title>
+    <updated>2022-05-31T01:41:50Z</updated>
+    <id>tag:github.com,2022-05-31:/Azure/terraform</id>
+    <link href="https://github.com/Azure/terraform" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Source code for the Azure Marketplace Terraform development VM package.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rhythmictech/terraform-terraform-errorcheck</title>
-    <updated>2022-05-30T01:41:30Z</updated>
-    <id>tag:github.com,2022-05-30:/rhythmictech/terraform-terraform-errorcheck</id>
-    <link href="https://github.com/rhythmictech/terraform-terraform-errorcheck" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Use the `external` module to implement custom error checking at plan time&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hashicorp/terraform-aws-consul</title>
-    <updated>2022-05-30T01:41:30Z</updated>
-    <id>tag:github.com,2022-05-30:/hashicorp/terraform-aws-consul</id>
-    <link href="https://github.com/hashicorp/terraform-aws-consul" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Terraform Module for how to run Consul on AWS using Terraform and Packer&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>champ-oss/terraform-aws-vpc</title>
-    <updated>2022-05-30T01:41:30Z</updated>
-    <id>tag:github.com,2022-05-30:/champ-oss/terraform-aws-vpc</id>
-    <link href="https://github.com/champ-oss/terraform-aws-vpc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Creates an Amazon Virtual Private Cloud&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>terraform-aws-modules/terraform-aws-rds-proxy</title>
-    <updated>2022-05-30T01:41:30Z</updated>
-    <id>tag:github.com,2022-05-30:/terraform-aws-modules/terraform-aws-rds-proxy</id>
-    <link href="https://github.com/terraform-aws-modules/terraform-aws-rds-proxy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module which creates AWS RDS Proxy resources 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>champ-oss/terraform-aws-acm</title>
-    <updated>2022-05-30T01:41:30Z</updated>
-    <id>tag:github.com,2022-05-30:/champ-oss/terraform-aws-acm</id>
-    <link href="https://github.com/champ-oss/terraform-aws-acm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Creates a certificate using AWS Certificate Manager&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cloudposse/terraform-aws-s3-website</title>
-    <updated>2022-05-30T01:41:30Z</updated>
-    <id>tag:github.com,2022-05-30:/cloudposse/terraform-aws-s3-website</id>
-    <link href="https://github.com/cloudposse/terraform-aws-s3-website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform Module for Creating S3 backed Websites and Route53 DNS&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>champ-oss/terraform-aws-alb</title>
+    <updated>2022-05-31T01:41:50Z</updated>
+    <id>tag:github.com,2022-05-31:/champ-oss/terraform-aws-alb</id>
+    <link href="https://github.com/champ-oss/terraform-aws-alb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Creates an AWS Application Load Balancer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>MichaHoffmann/tree-sitter-hcl</title>
-    <updated>2022-05-30T01:41:30Z</updated>
-    <id>tag:github.com,2022-05-30:/MichaHoffmann/tree-sitter-hcl</id>
+    <updated>2022-05-31T01:41:50Z</updated>
+    <id>tag:github.com,2022-05-31:/MichaHoffmann/tree-sitter-hcl</id>
     <link href="https://github.com/MichaHoffmann/tree-sitter-hcl" rel="alternate"></link>
     <summary type="html">&lt;p&gt;tree-sitter grammar for HCL&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>stacksimplify/hashicorp-certified-terraform-associate</title>
-    <updated>2022-05-30T01:41:30Z</updated>
-    <id>tag:github.com,2022-05-30:/stacksimplify/hashicorp-certified-terraform-associate</id>
-    <link href="https://github.com/stacksimplify/hashicorp-certified-terraform-associate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hashicorp Certified Terraform Associate&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hashicorp/terraform-aws-consul</title>
+    <updated>2022-05-31T01:41:50Z</updated>
+    <id>tag:github.com,2022-05-31:/hashicorp/terraform-aws-consul</id>
+    <link href="https://github.com/hashicorp/terraform-aws-consul" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Terraform Module for how to run Consul on AWS using Terraform and Packer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cloudposse/terraform-aws-codebuild</title>
-    <updated>2022-05-30T01:41:30Z</updated>
-    <id>tag:github.com,2022-05-30:/cloudposse/terraform-aws-codebuild</id>
-    <link href="https://github.com/cloudposse/terraform-aws-codebuild" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform Module to easily leverage AWS CodeBuild for Continuous Integration&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>terraform-aws-modules/terraform-aws-key-pair</title>
+    <updated>2022-05-31T01:41:50Z</updated>
+    <id>tag:github.com,2022-05-31:/terraform-aws-modules/terraform-aws-key-pair</id>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-key-pair" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module which creates EC2 key pair on AWS 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>USSBA/terraform-aws-easy-fargate-service</title>
-    <updated>2022-05-30T01:41:30Z</updated>
-    <id>tag:github.com,2022-05-30:/USSBA/terraform-aws-easy-fargate-service</id>
-    <link href="https://github.com/USSBA/terraform-aws-easy-fargate-service" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A terraform module to easily stand up a fargate service&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>champ-oss/terraform-aws-acm</title>
+    <updated>2022-05-31T01:41:50Z</updated>
+    <id>tag:github.com,2022-05-31:/champ-oss/terraform-aws-acm</id>
+    <link href="https://github.com/champ-oss/terraform-aws-acm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Creates a certificate using AWS Certificate Manager&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>stacksimplify/terraform-on-aws-eks</title>
-    <updated>2022-05-30T01:41:30Z</updated>
-    <id>tag:github.com,2022-05-30:/stacksimplify/terraform-on-aws-eks</id>
-    <link href="https://github.com/stacksimplify/terraform-on-aws-eks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform on AWS EKS Kubernetes IaC SRE- 50 Real-World Demos&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>champ-oss/terraform-aws-vpc</title>
+    <updated>2022-05-31T01:41:50Z</updated>
+    <id>tag:github.com,2022-05-31:/champ-oss/terraform-aws-vpc</id>
+    <link href="https://github.com/champ-oss/terraform-aws-vpc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Creates an Amazon Virtual Private Cloud&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>stacksimplify/terraform-on-aws-ec2</title>
-    <updated>2022-05-30T01:41:30Z</updated>
-    <id>tag:github.com,2022-05-30:/stacksimplify/terraform-on-aws-ec2</id>
-    <link href="https://github.com/stacksimplify/terraform-on-aws-ec2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform On AWS for EC2, VPC, ASG, ALB, CLB, NLB, CloudWatch, SNS, S3, CodePipeline, ACM, Route53&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lornasong/terraform-local-cts_kv_file</title>
-    <updated>2022-05-30T01:41:30Z</updated>
-    <id>tag:github.com,2022-05-30:/lornasong/terraform-local-cts_kv_file</id>
-    <link href="https://github.com/lornasong/terraform-local-cts_kv_file" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module that uses CTS to create text files based off of Consul KV pairs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>trussworks/terraform-aws-acm-cert</title>
-    <updated>2022-05-30T01:41:30Z</updated>
-    <id>tag:github.com,2022-05-30:/trussworks/terraform-aws-acm-cert</id>
-    <link href="https://github.com/trussworks/terraform-aws-acm-cert" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Creates a TLS certificate using AWS ACM for domains hosted on Route53.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mkam/terraform-cts-hello</title>
-    <updated>2022-05-30T01:41:30Z</updated>
-    <id>tag:github.com,2022-05-30:/mkam/terraform-cts-hello</id>
-    <link href="https://github.com/mkam/terraform-cts-hello" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module for testing Consul-Terraform-Sync user provided metadata&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>terraform-aws-modules/terraform-aws-atlantis</title>
-    <updated>2022-05-30T01:41:30Z</updated>
-    <id>tag:github.com,2022-05-30:/terraform-aws-modules/terraform-aws-atlantis</id>
-    <link href="https://github.com/terraform-aws-modules/terraform-aws-atlantis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform configurations for running Atlantis on AWS Fargate. Github, Gitlab and BitBucket are supported 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cloudposse/terraform-aws-efs</title>
-    <updated>2022-05-30T01:41:30Z</updated>
-    <id>tag:github.com,2022-05-30:/cloudposse/terraform-aws-efs</id>
-    <link href="https://github.com/cloudposse/terraform-aws-efs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform Module to define an EFS Filesystem (aka NFS)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hashicorp/terraform-aws-nomad</title>
-    <updated>2022-05-30T01:41:30Z</updated>
-    <id>tag:github.com,2022-05-30:/hashicorp/terraform-aws-nomad</id>
-    <link href="https://github.com/hashicorp/terraform-aws-nomad" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Terraform Module for how to run Nomad on AWS using Terraform and Packer&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>asquarezone/TerraformZone</title>
+    <updated>2022-05-31T01:41:50Z</updated>
+    <id>tag:github.com,2022-05-31:/asquarezone/TerraformZone</id>
+    <link href="https://github.com/asquarezone/TerraformZone" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>hashicorp/terraform-aws-vault</title>
-    <updated>2022-05-30T01:41:30Z</updated>
-    <id>tag:github.com,2022-05-30:/hashicorp/terraform-aws-vault</id>
+    <updated>2022-05-31T01:41:50Z</updated>
+    <id>tag:github.com,2022-05-31:/hashicorp/terraform-aws-vault</id>
     <link href="https://github.com/hashicorp/terraform-aws-vault" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A Terraform Module for how to run Vault on AWS using Terraform and Packer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>utrains/utrains_terraform_three_tiers</title>
-    <updated>2022-05-30T01:41:30Z</updated>
-    <id>tag:github.com,2022-05-30:/utrains/utrains_terraform_three_tiers</id>
-    <link href="https://github.com/utrains/utrains_terraform_three_tiers" rel="alternate"></link>
+    <title>cloudposse/terraform-aws-efs</title>
+    <updated>2022-05-31T01:41:50Z</updated>
+    <id>tag:github.com,2022-05-31:/cloudposse/terraform-aws-efs</id>
+    <link href="https://github.com/cloudposse/terraform-aws-efs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform Module to define an EFS Filesystem (aka NFS)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure/terraform-azurerm-aks</title>
+    <updated>2022-05-31T01:41:50Z</updated>
+    <id>tag:github.com,2022-05-31:/Azure/terraform-azurerm-aks</id>
+    <link href="https://github.com/Azure/terraform-azurerm-aks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform Module for deploying an AKS cluster&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>terraform-google-modules/terraform-google-bastion-host</title>
+    <updated>2022-05-31T01:41:50Z</updated>
+    <id>tag:github.com,2022-05-31:/terraform-google-modules/terraform-google-bastion-host</id>
+    <link href="https://github.com/terraform-google-modules/terraform-google-bastion-host" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This module will generate a bastion host vm compatible with OS Login and IAP Tunneling that can be used to access internal VMs.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>GoogleCloudPlatform/cloud-foundation-fabric</title>
+    <updated>2022-05-31T01:41:50Z</updated>
+    <id>tag:github.com,2022-05-31:/GoogleCloudPlatform/cloud-foundation-fabric</id>
+    <link href="https://github.com/GoogleCloudPlatform/cloud-foundation-fabric" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;End-to-end modular samples for Terraform on GCP.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jpetazzo/ampernetacle</title>
+    <updated>2022-05-31T01:41:50Z</updated>
+    <id>tag:github.com,2022-05-31:/jpetazzo/ampernetacle</id>
+    <link href="https://github.com/jpetazzo/ampernetacle" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>HoussemDellai/terraform-course</title>
-    <updated>2022-05-30T01:41:30Z</updated>
-    <id>tag:github.com,2022-05-30:/HoussemDellai/terraform-course</id>
-    <link href="https://github.com/HoussemDellai/terraform-course" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Full course for deploying Infrastructure to the Cloud using Terraform&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>stacksimplify/terraform-on-aws-eks</title>
+    <updated>2022-05-31T01:41:50Z</updated>
+    <id>tag:github.com,2022-05-31:/stacksimplify/terraform-on-aws-eks</id>
+    <link href="https://github.com/stacksimplify/terraform-on-aws-eks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform on AWS EKS Kubernetes IaC SRE- 50 Real-World Demos&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hashicorp/terraform-google-nomad</title>
+    <updated>2022-05-31T01:41:50Z</updated>
+    <id>tag:github.com,2022-05-31:/hashicorp/terraform-google-nomad</id>
+    <link href="https://github.com/hashicorp/terraform-google-nomad" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Terraform Module for how to run Nomad on Google Cloud using Terraform and Packer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

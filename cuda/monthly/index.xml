@@ -1,62 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T02:34:17Z</updated>
+  <updated>2022-05-31T02:35:11Z</updated>
   <subtitle>Monthly Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>NVIDIA/cub</title>
-    <updated>2022-05-30T02:34:17Z</updated>
-    <id>tag:github.com,2022-05-30:/NVIDIA/cub</id>
+    <updated>2022-05-31T02:35:11Z</updated>
+    <id>tag:github.com,2022-05-31:/NVIDIA/cub</id>
     <link href="https://github.com/NVIDIA/cub" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Cooperative primitives for CUDA C++.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>NVIDIA/warp</title>
-    <updated>2022-05-30T02:34:17Z</updated>
-    <id>tag:github.com,2022-05-30:/NVIDIA/warp</id>
+    <updated>2022-05-31T02:35:11Z</updated>
+    <id>tag:github.com,2022-05-31:/NVIDIA/warp</id>
     <link href="https://github.com/NVIDIA/warp" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A Python framework for high performance GPU simulation and graphics&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>leoxiaobin/deep-high-resolution-net.pytorch</title>
-    <updated>2022-05-30T02:34:17Z</updated>
-    <id>tag:github.com,2022-05-30:/leoxiaobin/deep-high-resolution-net.pytorch</id>
+    <updated>2022-05-31T02:35:11Z</updated>
+    <id>tag:github.com,2022-05-31:/leoxiaobin/deep-high-resolution-net.pytorch</id>
     <link href="https://github.com/leoxiaobin/deep-high-resolution-net.pytorch" rel="alternate"></link>
     <summary type="html">&lt;p&gt;The project is an official implementation of our CVPR2019 paper &#34;Deep High-Resolution Representation Learning for Human Pose Estimation&#34;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>rapidsai/cuml</title>
-    <updated>2022-05-30T02:34:17Z</updated>
-    <id>tag:github.com,2022-05-30:/rapidsai/cuml</id>
+    <updated>2022-05-31T02:35:11Z</updated>
+    <id>tag:github.com,2022-05-31:/rapidsai/cuml</id>
     <link href="https://github.com/rapidsai/cuml" rel="alternate"></link>
     <summary type="html">&lt;p&gt;cuML - RAPIDS Machine Learning Library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>fangwei123456/spikingjelly</title>
-    <updated>2022-05-30T02:34:17Z</updated>
-    <id>tag:github.com,2022-05-30:/fangwei123456/spikingjelly</id>
-    <link href="https://github.com/fangwei123456/spikingjelly" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SpikingJelly is an open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>NVIDIA/CUDALibrarySamples</title>
-    <updated>2022-05-30T02:34:17Z</updated>
-    <id>tag:github.com,2022-05-30:/NVIDIA/CUDALibrarySamples</id>
+    <updated>2022-05-31T02:35:11Z</updated>
+    <id>tag:github.com,2022-05-31:/NVIDIA/CUDALibrarySamples</id>
     <link href="https://github.com/NVIDIA/CUDALibrarySamples" rel="alternate"></link>
     <summary type="html">&lt;p&gt;CUDA Library Samples&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>rapidsai/cugraph</title>
-    <updated>2022-05-30T02:34:17Z</updated>
-    <id>tag:github.com,2022-05-30:/rapidsai/cugraph</id>
+    <updated>2022-05-31T02:35:11Z</updated>
+    <id>tag:github.com,2022-05-31:/rapidsai/cugraph</id>
     <link href="https://github.com/rapidsai/cugraph" rel="alternate"></link>
     <summary type="html">&lt;p&gt;cuGraph - RAPIDS Graph Analytics Library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>NVIDIA/nccl-tests</title>
-    <updated>2022-05-30T02:34:17Z</updated>
-    <id>tag:github.com,2022-05-30:/NVIDIA/nccl-tests</id>
+    <updated>2022-05-31T02:35:11Z</updated>
+    <id>tag:github.com,2022-05-31:/NVIDIA/nccl-tests</id>
     <link href="https://github.com/NVIDIA/nccl-tests" rel="alternate"></link>
     <summary type="html">&lt;p&gt;NCCL Tests&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

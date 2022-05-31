@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AppleScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T01:33:15Z</updated>
+  <updated>2022-05-31T01:33:29Z</updated>
   <subtitle>Daily Trending of AppleScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>vitorgalvao/custom-alfred-iterm-scripts</title>
+    <updated>2022-05-31T01:33:29Z</updated>
+    <id>tag:github.com,2022-05-31:/vitorgalvao/custom-alfred-iterm-scripts</id>
+    <link href="https://github.com/vitorgalvao/custom-alfred-iterm-scripts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AppleScript for iTerm2 Alfred integration.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Custom Alfred iTerm Scripts&lt;/h1&gt; &#xA;&lt;p&gt;AppleScript for &lt;a href=&#34;https://iterm2.com/&#34;&gt;iTerm2&lt;/a&gt; &lt;a href=&#34;https://www.alfredapp.com/&#34;&gt;Alfred&lt;/a&gt; integration.&lt;/p&gt; &#xA;&lt;h2&gt;Use&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/vitorgalvao/custom-alfred-iterm-scripts/master/#copy-the-script&#34;&gt;Copy the script to your clipboard&lt;/a&gt;.&lt;/li&gt; &#xA; &lt;li&gt;Open Alfred Preferences (call Alfred and press &lt;kbd&gt;⌘&lt;/kbd&gt;&lt;kbd&gt;,&lt;/kbd&gt;).&lt;/li&gt; &#xA; &lt;li&gt;Navigate to Features → Terminal → Custom.&lt;/li&gt; &#xA; &lt;li&gt;Set &lt;code&gt;Application&lt;/code&gt; to &lt;code&gt;Custom&lt;/code&gt;.&lt;/li&gt; &#xA; &lt;li&gt;Select the text in the box.&lt;/li&gt; &#xA; &lt;li&gt;Paste.&lt;/li&gt; &#xA; &lt;li&gt;Optionally, change the script’s behaviour by changing the &lt;code&gt;property&lt;/code&gt; lines at the top.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h3&gt;Copy the script&lt;/h3&gt; &#xA;&lt;p&gt;To copy the script to your clipboard, run the following command.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;curl --silent &#39;https://raw.githubusercontent.com/vitorgalvao/custom-alfred-iterm-scripts/master/custom_iterm_script.applescript&#39; | pbcopy&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h4&gt;License&lt;/h4&gt; &#xA;&lt;p&gt;The Unlicense (Public Domain, essentially)&lt;/p&gt;</summary>
+  </entry>
 </feed>

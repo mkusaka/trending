@@ -1,56 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T01:35:49Z</updated>
+  <updated>2022-05-31T01:36:11Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>balena-os/balena-raspberrypi</title>
-    <updated>2022-05-30T01:35:49Z</updated>
-    <id>tag:github.com,2022-05-30:/balena-os/balena-raspberrypi</id>
-    <link href="https://github.com/balena-os/balena-raspberrypi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Balena support for RaspberryPI boards&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>morrisjs/morris.js</title>
+    <updated>2022-05-31T01:36:11Z</updated>
+    <id>tag:github.com,2022-05-31:/morrisjs/morris.js</id>
+    <link href="https://github.com/morrisjs/morris.js" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pretty time-series line graphs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>FelisCatus/SwitchyOmega</title>
-    <updated>2022-05-30T01:35:49Z</updated>
-    <id>tag:github.com,2022-05-30:/FelisCatus/SwitchyOmega</id>
-    <link href="https://github.com/FelisCatus/SwitchyOmega" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Manage and switch between multiple proxies quickly &amp; easily.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>node-cache/node-cache</title>
+    <updated>2022-05-31T01:36:11Z</updated>
+    <id>tag:github.com,2022-05-31:/node-cache/node-cache</id>
+    <link href="https://github.com/node-cache/node-cache" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a node internal (in-memory) caching module&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>jashkenas/coffeescript</title>
-    <updated>2022-05-30T01:35:49Z</updated>
-    <id>tag:github.com,2022-05-30:/jashkenas/coffeescript</id>
+    <updated>2022-05-31T01:36:11Z</updated>
+    <id>tag:github.com,2022-05-31:/jashkenas/coffeescript</id>
     <link href="https://github.com/jashkenas/coffeescript" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Unfancy JavaScript&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>m9/hubot-basecamp-pomodoro</title>
-    <updated>2022-05-30T01:35:49Z</updated>
-    <id>tag:github.com,2022-05-30:/m9/hubot-basecamp-pomodoro</id>
-    <link href="https://github.com/m9/hubot-basecamp-pomodoro" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Basecamp and Pomodoro integration for Github Hubot&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>unpoly/unpoly</title>
+    <updated>2022-05-31T01:36:11Z</updated>
+    <id>tag:github.com,2022-05-31:/unpoly/unpoly</id>
+    <link href="https://github.com/unpoly/unpoly" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Unobtrusive Javascript Framework for server-side applications&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>basecamp/trix</title>
-    <updated>2022-05-30T01:35:49Z</updated>
-    <id>tag:github.com,2022-05-30:/basecamp/trix</id>
+    <updated>2022-05-31T01:36:11Z</updated>
+    <id>tag:github.com,2022-05-31:/basecamp/trix</id>
     <link href="https://github.com/basecamp/trix" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A rich text editor for everyday writing&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>adaltas/node-csv</title>
+    <updated>2022-05-31T01:36:11Z</updated>
+    <id>tag:github.com,2022-05-31:/adaltas/node-csv</id>
+    <link href="https://github.com/adaltas/node-csv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Full featured CSV parser with simple api and tested against large datasets.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>chuanyi/msexcel-builder</title>
+    <updated>2022-05-31T01:36:11Z</updated>
+    <id>tag:github.com,2022-05-31:/chuanyi/msexcel-builder</id>
+    <link href="https://github.com/chuanyi/msexcel-builder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple and fast library to create MS Office Excel(&gt;2007) xlsx files.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dropbox/zxcvbn</title>
+    <updated>2022-05-31T01:36:11Z</updated>
+    <id>tag:github.com,2022-05-31:/dropbox/zxcvbn</id>
+    <link href="https://github.com/dropbox/zxcvbn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Low-Budget Password Strength Estimation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>pyalot/webgl-heatmap</title>
-    <updated>2022-05-30T01:35:49Z</updated>
-    <id>tag:github.com,2022-05-30:/pyalot/webgl-heatmap</id>
+    <updated>2022-05-31T01:36:11Z</updated>
+    <id>tag:github.com,2022-05-31:/pyalot/webgl-heatmap</id>
     <link href="https://github.com/pyalot/webgl-heatmap" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A high performance WebGL/JS heatmap display library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>codecombat/codecombat</title>
-    <updated>2022-05-30T01:35:49Z</updated>
-    <id>tag:github.com,2022-05-30:/codecombat/codecombat</id>
-    <link href="https://github.com/codecombat/codecombat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Game for learning how to code.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>basecamp/local_time</title>
+    <updated>2022-05-31T01:36:11Z</updated>
+    <id>tag:github.com,2022-05-31:/basecamp/local_time</id>
+    <link href="https://github.com/basecamp/local_time" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rails engine for cache-friendly, client-side local time&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mojs/mojs</title>
+    <updated>2022-05-31T01:36:11Z</updated>
+    <id>tag:github.com,2022-05-31:/mojs/mojs</id>
+    <link href="https://github.com/mojs/mojs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The motion graphics toolbelt for the web&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fbsamples/graph-api-webhooks-samples</title>
+    <updated>2022-05-31T01:36:11Z</updated>
+    <id>tag:github.com,2022-05-31:/fbsamples/graph-api-webhooks-samples</id>
+    <link href="https://github.com/fbsamples/graph-api-webhooks-samples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;These are sample clients for Facebook&#39;s Graph API Webhooks and Instagram&#39;s Real-time Photo Updates API.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ccd0/4chan-x</title>
+    <updated>2022-05-31T01:36:11Z</updated>
+    <id>tag:github.com,2022-05-31:/ccd0/4chan-x</id>
+    <link href="https://github.com/ccd0/4chan-x" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Adds various features to anonymous imageboards.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

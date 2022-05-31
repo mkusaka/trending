@@ -1,27 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub YARA Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T01:57:34Z</updated>
+  <updated>2022-05-31T01:58:10Z</updated>
   <subtitle>Daily Trending of YARA in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>CyberMonitor/APT_CyberCriminal_Campagin_Collections</title>
-    <updated>2022-05-30T01:57:34Z</updated>
-    <id>tag:github.com,2022-05-30:/CyberMonitor/APT_CyberCriminal_Campagin_Collections</id>
+    <updated>2022-05-31T01:58:10Z</updated>
+    <id>tag:github.com,2022-05-31:/CyberMonitor/APT_CyberCriminal_Campagin_Collections</id>
     <link href="https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections" rel="alternate"></link>
     <summary type="html">&lt;p&gt;APT &amp; CyberCriminal Campaign Collection&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rednaga/APKiD</title>
-    <updated>2022-05-30T01:57:34Z</updated>
-    <id>tag:github.com,2022-05-30:/rednaga/APKiD</id>
-    <link href="https://github.com/rednaga/APKiD" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>Yara-Rules/rules</title>
-    <updated>2022-05-30T01:57:34Z</updated>
-    <id>tag:github.com,2022-05-30:/Yara-Rules/rules</id>
+    <updated>2022-05-31T01:58:10Z</updated>
+    <id>tag:github.com,2022-05-31:/Yara-Rules/rules</id>
     <link href="https://github.com/Yara-Rules/rules" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Repository of yara rules&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

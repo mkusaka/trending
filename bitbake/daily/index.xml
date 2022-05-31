@@ -1,69 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub BitBake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T01:34:13Z</updated>
+  <updated>2022-05-31T01:34:19Z</updated>
   <subtitle>Daily Trending of BitBake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>Freescale/meta-freescale-distro</title>
-    <updated>2022-05-30T01:34:13Z</updated>
-    <id>tag:github.com,2022-05-30:/Freescale/meta-freescale-distro</id>
+    <updated>2022-05-31T01:34:19Z</updated>
+    <id>tag:github.com,2022-05-31:/Freescale/meta-freescale-distro</id>
     <link href="https://github.com/Freescale/meta-freescale-distro" rel="alternate"></link>
     <summary type="html">&lt;p&gt;OpenEmbedded/Yocto BSP layer for Freescale&#39;s ARM based platforms&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Xilinx/meta-browser</title>
-    <updated>2022-05-30T01:34:13Z</updated>
-    <id>tag:github.com,2022-05-30:/Xilinx/meta-browser</id>
-    <link href="https://github.com/Xilinx/meta-browser" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>IntelRealSense/meta-intel-realsense</title>
+    <updated>2022-05-31T01:34:19Z</updated>
+    <id>tag:github.com,2022-05-31:/IntelRealSense/meta-intel-realsense</id>
+    <link href="https://github.com/IntelRealSense/meta-intel-realsense" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Yocto layer for realsense-sdk and librealsense&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>Xilinx/meta-mingw</title>
-    <updated>2022-05-30T01:34:13Z</updated>
-    <id>tag:github.com,2022-05-30:/Xilinx/meta-mingw</id>
+    <updated>2022-05-31T01:34:19Z</updated>
+    <id>tag:github.com,2022-05-31:/Xilinx/meta-mingw</id>
     <link href="https://github.com/Xilinx/meta-mingw" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>Xilinx/meta-browser</title>
+    <updated>2022-05-31T01:34:19Z</updated>
+    <id>tag:github.com,2022-05-31:/Xilinx/meta-browser</id>
+    <link href="https://github.com/Xilinx/meta-browser" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>Xilinx/meta-jupyter</title>
-    <updated>2022-05-30T01:34:13Z</updated>
-    <id>tag:github.com,2022-05-30:/Xilinx/meta-jupyter</id>
+    <updated>2022-05-31T01:34:19Z</updated>
+    <id>tag:github.com,2022-05-31:/Xilinx/meta-jupyter</id>
     <link href="https://github.com/Xilinx/meta-jupyter" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>balena-os/meta-balena</title>
-    <updated>2022-05-30T01:34:13Z</updated>
-    <id>tag:github.com,2022-05-30:/balena-os/meta-balena</id>
-    <link href="https://github.com/balena-os/meta-balena" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of Yocto layers used to build balenaOS images&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rauc/meta-rauc</title>
-    <updated>2022-05-30T01:34:13Z</updated>
-    <id>tag:github.com,2022-05-30:/rauc/meta-rauc</id>
-    <link href="https://github.com/rauc/meta-rauc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Yocto meta layer for RAUC, the embedded Linux update framework&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>OE4T/meta-tegra</title>
+    <updated>2022-05-31T01:34:19Z</updated>
+    <id>tag:github.com,2022-05-31:/OE4T/meta-tegra</id>
+    <link href="https://github.com/OE4T/meta-tegra" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;BSP layer for NVIDIA Jetson platforms, based on L4T&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>riscv/meta-riscv</title>
-    <updated>2022-05-30T01:34:13Z</updated>
-    <id>tag:github.com,2022-05-30:/riscv/meta-riscv</id>
+    <updated>2022-05-31T01:34:19Z</updated>
+    <id>tag:github.com,2022-05-31:/riscv/meta-riscv</id>
     <link href="https://github.com/riscv/meta-riscv" rel="alternate"></link>
     <summary type="html">&lt;p&gt;OpenEmbedded/Yocto layer for RISC-V Architecture&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>lgirdk/meta-virtualization</title>
-    <updated>2022-05-30T01:34:13Z</updated>
-    <id>tag:github.com,2022-05-30:/lgirdk/meta-virtualization</id>
-    <link href="https://github.com/lgirdk/meta-virtualization" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;forked from git://git.yoctoproject.org/meta-virtualization&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kraj/meta-clang</title>
+    <updated>2022-05-31T01:34:19Z</updated>
+    <id>tag:github.com,2022-05-31:/kraj/meta-clang</id>
+    <link href="https://github.com/kraj/meta-clang" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clang C/C++ cross compiler and runtime for OpenEmbedded/Yocto Project&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Freescale/meta-freescale</title>
+    <updated>2022-05-31T01:34:19Z</updated>
+    <id>tag:github.com,2022-05-31:/Freescale/meta-freescale</id>
+    <link href="https://github.com/Freescale/meta-freescale" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Layer containing NXP hardware support metadata&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>Xilinx/meta-xilinx-tools</title>
-    <updated>2022-05-30T01:34:13Z</updated>
-    <id>tag:github.com,2022-05-30:/Xilinx/meta-xilinx-tools</id>
+    <updated>2022-05-31T01:34:19Z</updated>
+    <id>tag:github.com,2022-05-31:/Xilinx/meta-xilinx-tools</id>
     <link href="https://github.com/Xilinx/meta-xilinx-tools" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

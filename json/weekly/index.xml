@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub JSON Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T02:12:05Z</updated>
+  <updated>2022-05-31T02:12:22Z</updated>
   <subtitle>Weekly Trending of JSON in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>mdn/browser-compat-data</title>
-    <updated>2022-05-30T02:12:05Z</updated>
-    <id>tag:github.com,2022-05-30:/mdn/browser-compat-data</id>
+    <updated>2022-05-31T02:12:22Z</updated>
+    <id>tag:github.com,2022-05-31:/mdn/browser-compat-data</id>
     <link href="https://github.com/mdn/browser-compat-data" rel="alternate"></link>
     <summary type="html">&lt;p&gt;This repository contains compatibility data for Web technologies as displayed on MDN&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

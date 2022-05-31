@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T01:52:26Z</updated>
+  <updated>2022-05-31T01:52:53Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Elringus/SpriteGlow</title>
-    <updated>2022-05-30T01:52:26Z</updated>
-    <id>tag:github.com,2022-05-30:/Elringus/SpriteGlow</id>
-    <link href="https://github.com/Elringus/SpriteGlow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A sprite glow effect for Unity game engine&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>legoandmars/GorillaTagMapProject</title>
-    <updated>2022-05-30T01:52:26Z</updated>
-    <id>tag:github.com,2022-05-30:/legoandmars/GorillaTagMapProject</id>
-    <link href="https://github.com/legoandmars/GorillaTagMapProject" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Unity project for Gorilla Tag maps.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>csdjk/LearnUnityShader</title>
-    <updated>2022-05-30T01:52:26Z</updated>
-    <id>tag:github.com,2022-05-30:/csdjk/LearnUnityShader</id>
-    <link href="https://github.com/csdjk/LearnUnityShader" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;记录学习Unity Shader过程中实现过的一些Demo。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Unity-Technologies/Addressables-Sample</title>
+    <updated>2022-05-31T01:52:53Z</updated>
+    <id>tag:github.com,2022-05-31:/Unity-Technologies/Addressables-Sample</id>
+    <link href="https://github.com/Unity-Technologies/Addressables-Sample" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Demo project using Addressables package&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>whiteflare/Unlit_WF_ShaderSuite</title>
-    <updated>2022-05-30T01:52:26Z</updated>
-    <id>tag:github.com,2022-05-30:/whiteflare/Unlit_WF_ShaderSuite</id>
+    <updated>2022-05-31T01:52:53Z</updated>
+    <id>tag:github.com,2022-05-31:/whiteflare/Unlit_WF_ShaderSuite</id>
     <link href="https://github.com/whiteflare/Unlit_WF_ShaderSuite" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Shader project for unity/vrchat&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>unity3d-jp/UnityChanToonShaderVer2_Project</title>
-    <updated>2022-05-30T01:52:26Z</updated>
-    <id>tag:github.com,2022-05-30:/unity3d-jp/UnityChanToonShaderVer2_Project</id>
+    <updated>2022-05-31T01:52:53Z</updated>
+    <id>tag:github.com,2022-05-31:/unity3d-jp/UnityChanToonShaderVer2_Project</id>
     <link href="https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project" rel="alternate"></link>
     <summary type="html">&lt;p&gt;UnityChanToonShaderVer2 Project / v.2.0.8 Release&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>legoandmars/GorillaTagMapProject</title>
+    <updated>2022-05-31T01:52:53Z</updated>
+    <id>tag:github.com,2022-05-31:/legoandmars/GorillaTagMapProject</id>
+    <link href="https://github.com/legoandmars/GorillaTagMapProject" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Unity project for Gorilla Tag maps.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>adrian-miasik/unity-shaders</title>
-    <updated>2022-05-30T01:52:26Z</updated>
-    <id>tag:github.com,2022-05-30:/adrian-miasik/unity-shaders</id>
+    <updated>2022-05-31T01:52:53Z</updated>
+    <id>tag:github.com,2022-05-31:/adrian-miasik/unity-shaders</id>
     <link href="https://github.com/adrian-miasik/unity-shaders" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A bunch of shader examples created in Unity (ShaderGraph &amp; Built-in) 🧙✨&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>microsoft/OpenXR-Unity-MixedReality-Samples</title>
-    <updated>2022-05-30T01:52:26Z</updated>
-    <id>tag:github.com,2022-05-30:/microsoft/OpenXR-Unity-MixedReality-Samples</id>
-    <link href="https://github.com/microsoft/OpenXR-Unity-MixedReality-Samples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sample Unity projects to demo how to use OpenXR plugin in Unity for HoloLens 2 and Mixed Reality headsets&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>candycat1992/Unity_Shaders_Book</title>
-    <updated>2022-05-30T01:52:26Z</updated>
-    <id>tag:github.com,2022-05-30:/candycat1992/Unity_Shaders_Book</id>
+    <updated>2022-05-31T01:52:53Z</updated>
+    <id>tag:github.com,2022-05-31:/candycat1992/Unity_Shaders_Book</id>
     <link href="https://github.com/candycat1992/Unity_Shaders_Book" rel="alternate"></link>
     <summary type="html">&lt;p&gt;📖 书籍《Unity Shader入门精要》源代码&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>microsoft/OpenXR-Unity-MixedReality-Samples</title>
+    <updated>2022-05-31T01:52:53Z</updated>
+    <id>tag:github.com,2022-05-31:/microsoft/OpenXR-Unity-MixedReality-Samples</id>
+    <link href="https://github.com/microsoft/OpenXR-Unity-MixedReality-Samples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sample Unity projects to demo how to use OpenXR plugin in Unity for HoloLens 2 and Mixed Reality headsets&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>ToniMacaroni/AssetCreationProject</title>
-    <updated>2022-05-30T01:52:26Z</updated>
-    <id>tag:github.com,2022-05-30:/ToniMacaroni/AssetCreationProject</id>
+    <updated>2022-05-31T01:52:53Z</updated>
+    <id>tag:github.com,2022-05-31:/ToniMacaroni/AssetCreationProject</id>
     <link href="https://github.com/ToniMacaroni/AssetCreationProject" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Base unity project for creating beat saber mod assets&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Xibanya/ShaderTutorials</title>
+    <updated>2022-05-31T01:52:53Z</updated>
+    <id>tag:github.com,2022-05-31:/Xibanya/ShaderTutorials</id>
+    <link href="https://github.com/Xibanya/ShaderTutorials" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Shaders For People Who Don&#39;t Know How To Shader, a tutorial series for beginners!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ada Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T02:01:19Z</updated>
+  <updated>2022-05-31T02:02:04Z</updated>
   <subtitle>Weekly Trending of Ada in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>AdaCore/spawn</title>
-    <updated>2022-05-30T02:01:19Z</updated>
-    <id>tag:github.com,2022-05-30:/AdaCore/spawn</id>
+    <updated>2022-05-31T02:02:04Z</updated>
+    <id>tag:github.com,2022-05-31:/AdaCore/spawn</id>
     <link href="https://github.com/AdaCore/spawn" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>AdaCore/gnatdoc</title>
-    <updated>2022-05-30T02:01:19Z</updated>
-    <id>tag:github.com,2022-05-30:/AdaCore/gnatdoc</id>
+    <updated>2022-05-31T02:02:04Z</updated>
+    <id>tag:github.com,2022-05-31:/AdaCore/gnatdoc</id>
     <link href="https://github.com/AdaCore/gnatdoc" rel="alternate"></link>
     <summary type="html">&lt;p&gt;GNAT Documentation Generator&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>AdaCore/VSS</title>
-    <updated>2022-05-30T02:01:19Z</updated>
-    <id>tag:github.com,2022-05-30:/AdaCore/VSS</id>
+    <updated>2022-05-31T02:02:04Z</updated>
+    <id>tag:github.com,2022-05-31:/AdaCore/VSS</id>
     <link href="https://github.com/AdaCore/VSS" rel="alternate"></link>
     <summary type="html">&lt;p&gt;High level string and text processing library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>AdaCore/ada_language_server</title>
-    <updated>2022-05-30T02:01:19Z</updated>
-    <id>tag:github.com,2022-05-30:/AdaCore/ada_language_server</id>
+    <updated>2022-05-31T02:02:04Z</updated>
+    <id>tag:github.com,2022-05-31:/AdaCore/ada_language_server</id>
     <link href="https://github.com/AdaCore/ada_language_server" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Server implementing the Microsoft Language Protocol for Ada and SPARK&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

@@ -1,118 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T02:22:07Z</updated>
+  <updated>2022-05-31T02:22:29Z</updated>
   <subtitle>Weekly Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>yu-steven/openit</title>
-    <updated>2022-05-30T02:22:07Z</updated>
-    <id>tag:github.com,2022-05-30:/yu-steven/openit</id>
-    <link href="https://github.com/yu-steven/openit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Openit订阅致力于打造免费无感的翻墙环境&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>grafana/helm-charts</title>
-    <updated>2022-05-30T02:22:07Z</updated>
-    <id>tag:github.com,2022-05-30:/grafana/helm-charts</id>
+    <updated>2022-05-31T02:22:29Z</updated>
+    <id>tag:github.com,2022-05-31:/grafana/helm-charts</id>
     <link href="https://github.com/grafana/helm-charts" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>getoutreach/stencil-base</title>
-    <updated>2022-05-30T02:22:07Z</updated>
-    <id>tag:github.com,2022-05-30:/getoutreach/stencil-base</id>
-    <link href="https://github.com/getoutreach/stencil-base" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Base templates for a stencil backed service&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Anankke/SSPanel-Uim</title>
-    <updated>2022-05-30T02:22:07Z</updated>
-    <id>tag:github.com,2022-05-30:/Anankke/SSPanel-Uim</id>
-    <link href="https://github.com/Anankke/SSPanel-Uim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SSPanel V3 魔改再次修改版&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nsbno/terraform-aws-trafficinfo</title>
-    <updated>2022-05-30T02:22:07Z</updated>
-    <id>tag:github.com,2022-05-30:/nsbno/terraform-aws-trafficinfo</id>
-    <link href="https://github.com/nsbno/terraform-aws-trafficinfo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A repository containing Terraform modules used by trafficinfo&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yu-steven/openit</title>
+    <updated>2022-05-31T02:22:29Z</updated>
+    <id>tag:github.com,2022-05-31:/yu-steven/openit</id>
+    <link href="https://github.com/yu-steven/openit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Openit订阅致力于打造免费无感的翻墙环境&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>rubyhan1314/Golang-100-Days</title>
-    <updated>2022-05-30T02:22:07Z</updated>
-    <id>tag:github.com,2022-05-30:/rubyhan1314/Golang-100-Days</id>
+    <updated>2022-05-31T02:22:29Z</updated>
+    <id>tag:github.com,2022-05-31:/rubyhan1314/Golang-100-Days</id>
     <link href="https://github.com/rubyhan1314/Golang-100-Days" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Golang - 100天从新手到大师&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>DandelionSprout/adfilt</title>
-    <updated>2022-05-30T02:22:07Z</updated>
-    <id>tag:github.com,2022-05-30:/DandelionSprout/adfilt</id>
-    <link href="https://github.com/DandelionSprout/adfilt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>getoutreach/stencil-base</title>
+    <updated>2022-05-31T02:22:29Z</updated>
+    <id>tag:github.com,2022-05-31:/getoutreach/stencil-base</id>
+    <link href="https://github.com/getoutreach/stencil-base" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Base templates for a stencil backed service&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>airflow-helm/charts</title>
-    <updated>2022-05-30T02:22:07Z</updated>
-    <id>tag:github.com,2022-05-30:/airflow-helm/charts</id>
-    <link href="https://github.com/airflow-helm/charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The User-Community Airflow Helm Chart is the standard way to deploy Apache Airflow on Kubernetes with Helm. Originally created in 2018, it has since helped thousands of companies create production-ready deployments of Airflow on Kubernetes.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nsbno/terraform-aws-trafficinfo</title>
+    <updated>2022-05-31T02:22:29Z</updated>
+    <id>tag:github.com,2022-05-31:/nsbno/terraform-aws-trafficinfo</id>
+    <link href="https://github.com/nsbno/terraform-aws-trafficinfo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A repository containing Terraform modules used by trafficinfo&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>open-telemetry/opentelemetry-helm-charts</title>
-    <updated>2022-05-30T02:22:07Z</updated>
-    <id>tag:github.com,2022-05-30:/open-telemetry/opentelemetry-helm-charts</id>
+    <updated>2022-05-31T02:22:29Z</updated>
+    <id>tag:github.com,2022-05-31:/open-telemetry/opentelemetry-helm-charts</id>
     <link href="https://github.com/open-telemetry/opentelemetry-helm-charts" rel="alternate"></link>
     <summary type="html">&lt;p&gt;OpenTelemetry Helm Charts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>airflow-helm/charts</title>
+    <updated>2022-05-31T02:22:29Z</updated>
+    <id>tag:github.com,2022-05-31:/airflow-helm/charts</id>
+    <link href="https://github.com/airflow-helm/charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The User-Community Airflow Helm Chart is the standard way to deploy Apache Airflow on Kubernetes with Helm. Originally created in 2018, it has since helped thousands of companies create production-ready deployments of Airflow on Kubernetes.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>newrelic/helm-charts</title>
-    <updated>2022-05-30T02:22:07Z</updated>
-    <id>tag:github.com,2022-05-30:/newrelic/helm-charts</id>
+    <updated>2022-05-31T02:22:29Z</updated>
+    <id>tag:github.com,2022-05-31:/newrelic/helm-charts</id>
     <link href="https://github.com/newrelic/helm-charts" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Helm charts for New Relic applications&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>aiven/aiven-charts</title>
+    <updated>2022-05-31T02:22:29Z</updated>
+    <id>tag:github.com,2022-05-31:/aiven/aiven-charts</id>
+    <link href="https://github.com/aiven/aiven-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The official @aiven helm repository&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>PrestaShop/classic-theme</title>
+    <updated>2022-05-31T02:22:29Z</updated>
+    <id>tag:github.com,2022-05-31:/PrestaShop/classic-theme</id>
+    <link href="https://github.com/PrestaShop/classic-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Default theme for PrestaShop 1.7&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Anankke/SSPanel-Uim</title>
+    <updated>2022-05-31T02:22:29Z</updated>
+    <id>tag:github.com,2022-05-31:/Anankke/SSPanel-Uim</id>
+    <link href="https://github.com/Anankke/SSPanel-Uim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SSPanel V3 魔改再次修改版&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>k8s-at-home/library-charts</title>
-    <updated>2022-05-30T02:22:07Z</updated>
-    <id>tag:github.com,2022-05-30:/k8s-at-home/library-charts</id>
+    <updated>2022-05-31T02:22:29Z</updated>
+    <id>tag:github.com,2022-05-31:/k8s-at-home/library-charts</id>
     <link href="https://github.com/k8s-at-home/library-charts" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Helm library charts for the k8s@home Helm charts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>rancher/charts</title>
-    <updated>2022-05-30T02:22:07Z</updated>
-    <id>tag:github.com,2022-05-30:/rancher/charts</id>
+    <updated>2022-05-31T02:22:29Z</updated>
+    <id>tag:github.com,2022-05-31:/rancher/charts</id>
     <link href="https://github.com/rancher/charts" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>fluent/helm-charts</title>
-    <updated>2022-05-30T02:22:07Z</updated>
-    <id>tag:github.com,2022-05-30:/fluent/helm-charts</id>
+    <updated>2022-05-31T02:22:29Z</updated>
+    <id>tag:github.com,2022-05-31:/fluent/helm-charts</id>
     <link href="https://github.com/fluent/helm-charts" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Helm Charts for Fluentd and Fluent Bit&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>truecharts/apps</title>
-    <updated>2022-05-30T02:22:07Z</updated>
-    <id>tag:github.com,2022-05-30:/truecharts/apps</id>
+    <updated>2022-05-31T02:22:29Z</updated>
+    <id>tag:github.com,2022-05-31:/truecharts/apps</id>
     <link href="https://github.com/truecharts/apps" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Community App Catalog for TrueNAS SCALE&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>snyk/snyk-broker-helm</title>
-    <updated>2022-05-30T02:22:07Z</updated>
-    <id>tag:github.com,2022-05-30:/snyk/snyk-broker-helm</id>
+    <updated>2022-05-31T02:22:29Z</updated>
+    <id>tag:github.com,2022-05-31:/snyk/snyk-broker-helm</id>
     <link href="https://github.com/snyk/snyk-broker-helm" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>traefik/traefik-helm-chart</title>
-    <updated>2022-05-30T02:22:07Z</updated>
-    <id>tag:github.com,2022-05-30:/traefik/traefik-helm-chart</id>
+    <updated>2022-05-31T02:22:29Z</updated>
+    <id>tag:github.com,2022-05-31:/traefik/traefik-helm-chart</id>
     <link href="https://github.com/traefik/traefik-helm-chart" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Traefik v2 helm chart&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

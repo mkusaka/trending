@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rich Text Format Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T01:51:22Z</updated>
+  <updated>2022-05-31T01:51:45Z</updated>
   <subtitle>Daily Trending of Rich Text Format in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TP-Lab/tokens</title>
-    <updated>2022-05-30T01:51:22Z</updated>
-    <id>tag:github.com,2022-05-30:/TP-Lab/tokens</id>
-    <link href="https://github.com/TP-Lab/tokens" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Token assets for TokenPocket&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>FailedShack/USBHelperInstaller</title>
-    <updated>2022-05-30T01:51:22Z</updated>
-    <id>tag:github.com,2022-05-30:/FailedShack/USBHelperInstaller</id>
+    <updated>2022-05-31T01:51:45Z</updated>
+    <id>tag:github.com,2022-05-31:/FailedShack/USBHelperInstaller</id>
     <link href="https://github.com/FailedShack/USBHelperInstaller" rel="alternate"></link>
     <summary type="html">&lt;p&gt;An installer for USBHelperLauncher.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nicehash/NiceHashMiner</title>
-    <updated>2022-05-30T01:51:22Z</updated>
-    <id>tag:github.com,2022-05-30:/nicehash/NiceHashMiner</id>
-    <link href="https://github.com/nicehash/NiceHashMiner" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;NiceHash Miner&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>Maradonna90/NewGAN-Manager</title>
-    <updated>2022-05-30T01:51:22Z</updated>
-    <id>tag:github.com,2022-05-30:/Maradonna90/NewGAN-Manager</id>
+    <updated>2022-05-31T01:51:45Z</updated>
+    <id>tag:github.com,2022-05-31:/Maradonna90/NewGAN-Manager</id>
     <link href="https://github.com/Maradonna90/NewGAN-Manager" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A tool to generate and manage xml configs for the Newgen Facepack.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ckeditor/ckeditor4</title>
-    <updated>2022-05-30T01:51:22Z</updated>
-    <id>tag:github.com,2022-05-30:/ckeditor/ckeditor4</id>
-    <link href="https://github.com/ckeditor/ckeditor4" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The best enterprise-grade WYSIWYG editor. Fully customizable with countless features and plugins.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nicehash/NiceHashMiner</title>
+    <updated>2022-05-31T01:51:45Z</updated>
+    <id>tag:github.com,2022-05-31:/nicehash/NiceHashMiner</id>
+    <link href="https://github.com/nicehash/NiceHashMiner" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NiceHash Miner&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>openFudan/fudan-coursera</title>
-    <updated>2022-05-30T01:51:22Z</updated>
-    <id>tag:github.com,2022-05-30:/openFudan/fudan-coursera</id>
-    <link href="https://github.com/openFudan/fudan-coursera" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;复旦大学课程资源（计算机专业的课程已全部上传~）&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TP-Lab/tokens</title>
+    <updated>2022-05-31T01:51:45Z</updated>
+    <id>tag:github.com,2022-05-31:/TP-Lab/tokens</id>
+    <link href="https://github.com/TP-Lab/tokens" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Token assets for TokenPocket&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>phodal/github</title>
-    <updated>2022-05-30T01:51:22Z</updated>
-    <id>tag:github.com,2022-05-30:/phodal/github</id>
+    <updated>2022-05-31T01:51:45Z</updated>
+    <id>tag:github.com,2022-05-31:/phodal/github</id>
     <link href="https://github.com/phodal/github" rel="alternate"></link>
     <summary type="html">&lt;p&gt;GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users&#39; behavior. Find some thing interest.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>IAOldman/parallels</title>
-    <updated>2022-05-30T01:51:22Z</updated>
-    <id>tag:github.com,2022-05-30:/IAOldman/parallels</id>
+    <updated>2022-05-31T01:51:45Z</updated>
+    <id>tag:github.com,2022-05-31:/IAOldman/parallels</id>
     <link href="https://github.com/IAOldman/parallels" rel="alternate"></link>
     <summary type="html">&lt;p&gt;PD Runner&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jlord/patchwork</title>
-    <updated>2022-05-30T01:51:22Z</updated>
-    <id>tag:github.com,2022-05-30:/jlord/patchwork</id>
-    <link href="https://github.com/jlord/patchwork" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;All the Git-it Workshop completers!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dotnet/docs-desktop</title>
+    <updated>2022-05-31T01:51:45Z</updated>
+    <id>tag:github.com,2022-05-31:/dotnet/docs-desktop</id>
+    <link href="https://github.com/dotnet/docs-desktop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository contains .NET documentation related to Windows Forms (winforms) and Windows Presentation Foundation (WPF).&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>decalage2/oletools</title>
+    <updated>2022-05-31T01:51:45Z</updated>
+    <id>tag:github.com,2022-05-31:/decalage2/oletools</id>
+    <link href="https://github.com/decalage2/oletools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ckeditor/ckeditor4</title>
+    <updated>2022-05-31T01:51:45Z</updated>
+    <id>tag:github.com,2022-05-31:/ckeditor/ckeditor4</id>
+    <link href="https://github.com/ckeditor/ckeditor4" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The best enterprise-grade WYSIWYG editor. Fully customizable with countless features and plugins.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,126 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T02:12:15Z</updated>
+  <updated>2022-05-31T02:12:34Z</updated>
   <subtitle>Weekly Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>JuliaRegistries/General</title>
-    <updated>2022-05-30T02:12:15Z</updated>
-    <id>tag:github.com,2022-05-30:/JuliaRegistries/General</id>
+    <updated>2022-05-31T02:12:34Z</updated>
+    <id>tag:github.com,2022-05-31:/JuliaRegistries/General</id>
     <link href="https://github.com/JuliaRegistries/General" rel="alternate"></link>
     <summary type="html">&lt;p&gt;The official registry of general Julia packages&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>JuliaLang/julia</title>
-    <updated>2022-05-30T02:12:15Z</updated>
-    <id>tag:github.com,2022-05-30:/JuliaLang/julia</id>
+    <updated>2022-05-31T02:12:34Z</updated>
+    <id>tag:github.com,2022-05-31:/JuliaLang/julia</id>
     <link href="https://github.com/JuliaLang/julia" rel="alternate"></link>
     <summary type="html">&lt;p&gt;The Julia Programming Language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>JuliaComputing/HTTPDownloads.jl</title>
-    <updated>2022-05-30T02:12:15Z</updated>
-    <id>tag:github.com,2022-05-30:/JuliaComputing/HTTPDownloads.jl</id>
+    <updated>2022-05-31T02:12:34Z</updated>
+    <id>tag:github.com,2022-05-31:/JuliaComputing/HTTPDownloads.jl</id>
     <link href="https://github.com/JuliaComputing/HTTPDownloads.jl" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Use Downloads.jl as a backend for HTTP.jl&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JuliaPackaging/Yggdrasil</title>
-    <updated>2022-05-30T02:12:15Z</updated>
-    <id>tag:github.com,2022-05-30:/JuliaPackaging/Yggdrasil</id>
-    <link href="https://github.com/JuliaPackaging/Yggdrasil" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of builder repositories for BinaryBuilder.jl&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>GenieFramework/Genie.jl</title>
-    <updated>2022-05-30T02:12:15Z</updated>
-    <id>tag:github.com,2022-05-30:/GenieFramework/Genie.jl</id>
+    <updated>2022-05-31T02:12:34Z</updated>
+    <id>tag:github.com,2022-05-31:/GenieFramework/Genie.jl</id>
     <link href="https://github.com/GenieFramework/Genie.jl" rel="alternate"></link>
     <summary type="html">&lt;p&gt;🧞The highly productive Julia web framework&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>JuliaPackaging/Yggdrasil</title>
+    <updated>2022-05-31T02:12:34Z</updated>
+    <id>tag:github.com,2022-05-31:/JuliaPackaging/Yggdrasil</id>
+    <link href="https://github.com/JuliaPackaging/Yggdrasil" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of builder repositories for BinaryBuilder.jl&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>JuliaPlots/Makie.jl</title>
-    <updated>2022-05-30T02:12:15Z</updated>
-    <id>tag:github.com,2022-05-30:/JuliaPlots/Makie.jl</id>
+    <updated>2022-05-31T02:12:34Z</updated>
+    <id>tag:github.com,2022-05-31:/JuliaPlots/Makie.jl</id>
     <link href="https://github.com/JuliaPlots/Makie.jl" rel="alternate"></link>
     <summary type="html">&lt;p&gt;High level plotting on the GPU.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bcc-research/CFMMRouter.jl</title>
-    <updated>2022-05-30T02:12:15Z</updated>
-    <id>tag:github.com,2022-05-30:/bcc-research/CFMMRouter.jl</id>
-    <link href="https://github.com/bcc-research/CFMMRouter.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Convex optimization for fun and profit. (Now in Julia!)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>FedeClaudi/Term.jl</title>
-    <updated>2022-05-30T02:12:15Z</updated>
-    <id>tag:github.com,2022-05-30:/FedeClaudi/Term.jl</id>
-    <link href="https://github.com/FedeClaudi/Term.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Julia library for stylized terminal output&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jump-dev/MiniZinc.jl</title>
-    <updated>2022-05-30T02:12:15Z</updated>
-    <id>tag:github.com,2022-05-30:/jump-dev/MiniZinc.jl</id>
-    <link href="https://github.com/jump-dev/MiniZinc.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SciML/DifferentialEquations.jl</title>
-    <updated>2022-05-30T02:12:15Z</updated>
-    <id>tag:github.com,2022-05-30:/SciML/DifferentialEquations.jl</id>
-    <link href="https://github.com/SciML/DifferentialEquations.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SciML) components&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jump-dev/benchmarks</title>
-    <updated>2022-05-30T02:12:15Z</updated>
-    <id>tag:github.com,2022-05-30:/jump-dev/benchmarks</id>
-    <link href="https://github.com/jump-dev/benchmarks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A repository for long-term benchmarking of JuMP performance&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cjdoris/PythonCall.jl</title>
-    <updated>2022-05-30T02:12:15Z</updated>
-    <id>tag:github.com,2022-05-30:/cjdoris/PythonCall.jl</id>
-    <link href="https://github.com/cjdoris/PythonCall.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Python and Julia in harmony.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>FluxML/model-zoo</title>
-    <updated>2022-05-30T02:12:15Z</updated>
-    <id>tag:github.com,2022-05-30:/FluxML/model-zoo</id>
-    <link href="https://github.com/FluxML/model-zoo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Please do not feed the models&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>jump-dev/JuMP.jl</title>
-    <updated>2022-05-30T02:12:15Z</updated>
-    <id>tag:github.com,2022-05-30:/jump-dev/JuMP.jl</id>
+    <updated>2022-05-31T02:12:34Z</updated>
+    <id>tag:github.com,2022-05-31:/jump-dev/JuMP.jl</id>
     <link href="https://github.com/jump-dev/JuMP.jl" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>SciML/DifferentialEquations.jl</title>
+    <updated>2022-05-31T02:12:34Z</updated>
+    <id>tag:github.com,2022-05-31:/SciML/DifferentialEquations.jl</id>
+    <link href="https://github.com/SciML/DifferentialEquations.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SciML) components&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jump-dev/MiniZinc.jl</title>
+    <updated>2022-05-31T02:12:34Z</updated>
+    <id>tag:github.com,2022-05-31:/jump-dev/MiniZinc.jl</id>
+    <link href="https://github.com/jump-dev/MiniZinc.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>FedeClaudi/Term.jl</title>
+    <updated>2022-05-31T02:12:34Z</updated>
+    <id>tag:github.com,2022-05-31:/FedeClaudi/Term.jl</id>
+    <link href="https://github.com/FedeClaudi/Term.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Julia library for stylized terminal output&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>JuliaData/DataFrames.jl</title>
-    <updated>2022-05-30T02:12:15Z</updated>
-    <id>tag:github.com,2022-05-30:/JuliaData/DataFrames.jl</id>
+    <updated>2022-05-31T02:12:34Z</updated>
+    <id>tag:github.com,2022-05-31:/JuliaData/DataFrames.jl</id>
     <link href="https://github.com/JuliaData/DataFrames.jl" rel="alternate"></link>
     <summary type="html">&lt;p&gt;In-memory tabular data in Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JuliaGPU/CUDA.jl</title>
-    <updated>2022-05-30T02:12:15Z</updated>
-    <id>tag:github.com,2022-05-30:/JuliaGPU/CUDA.jl</id>
-    <link href="https://github.com/JuliaGPU/CUDA.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CUDA programming in Julia.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bcc-research/CFMMRouter.jl</title>
+    <updated>2022-05-31T02:12:34Z</updated>
+    <id>tag:github.com,2022-05-31:/bcc-research/CFMMRouter.jl</id>
+    <link href="https://github.com/bcc-research/CFMMRouter.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Convex optimization for fun and profit. (Now in Julia!)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>FluxML/Flux.jl</title>
-    <updated>2022-05-30T02:12:15Z</updated>
-    <id>tag:github.com,2022-05-30:/FluxML/Flux.jl</id>
-    <link href="https://github.com/FluxML/Flux.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Relax! Flux is the ML library that doesn&#39;t make you tensor&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaDocs/Documenter.jl</title>
+    <updated>2022-05-31T02:12:34Z</updated>
+    <id>tag:github.com,2022-05-31:/JuliaDocs/Documenter.jl</id>
+    <link href="https://github.com/JuliaDocs/Documenter.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A documentation generator for Julia.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fonsp/Pluto.jl</title>
+    <updated>2022-05-31T02:12:34Z</updated>
+    <id>tag:github.com,2022-05-31:/fonsp/Pluto.jl</id>
+    <link href="https://github.com/fonsp/Pluto.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎈 Simple reactive notebooks for Julia&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaGPU/CUDA.jl</title>
+    <updated>2022-05-31T02:12:34Z</updated>
+    <id>tag:github.com,2022-05-31:/JuliaGPU/CUDA.jl</id>
+    <link href="https://github.com/JuliaGPU/CUDA.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CUDA programming in Julia.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

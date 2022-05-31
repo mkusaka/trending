@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub reStructuredText Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T01:51:15Z</updated>
+  <updated>2022-05-31T01:51:40Z</updated>
   <subtitle>Daily Trending of reStructuredText in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>godotengine/godot-docs</title>
-    <updated>2022-05-30T01:51:15Z</updated>
-    <id>tag:github.com,2022-05-30:/godotengine/godot-docs</id>
+    <updated>2022-05-31T01:51:40Z</updated>
+    <id>tag:github.com,2022-05-31:/godotengine/godot-docs</id>
     <link href="https://github.com/godotengine/godot-docs" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Godot Engine official documentation&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>odoo/documentation</title>
-    <updated>2022-05-30T01:51:15Z</updated>
-    <id>tag:github.com,2022-05-30:/odoo/documentation</id>
-    <link href="https://github.com/odoo/documentation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Odoo documentation sources&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

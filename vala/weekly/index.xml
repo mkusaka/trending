@@ -1,42 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vala Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T02:25:18Z</updated>
+  <updated>2022-05-31T02:25:41Z</updated>
   <subtitle>Weekly Trending of Vala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>teejee2008/timeshift</title>
-    <updated>2022-05-30T02:25:18Z</updated>
-    <id>tag:github.com,2022-05-30:/teejee2008/timeshift</id>
-    <link href="https://github.com/teejee2008/timeshift" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>tkashkin/GameHub</title>
-    <updated>2022-05-30T02:25:18Z</updated>
-    <id>tag:github.com,2022-05-30:/tkashkin/GameHub</id>
+    <updated>2022-05-31T02:25:41Z</updated>
+    <id>tag:github.com,2022-05-31:/tkashkin/GameHub</id>
     <link href="https://github.com/tkashkin/GameHub" rel="alternate"></link>
     <summary type="html">&lt;p&gt;All your games in one place&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>BuddiesOfBudgie/budgie-desktop</title>
-    <updated>2022-05-30T02:25:18Z</updated>
-    <id>tag:github.com,2022-05-30:/BuddiesOfBudgie/budgie-desktop</id>
+    <updated>2022-05-31T02:25:41Z</updated>
+    <id>tag:github.com,2022-05-31:/BuddiesOfBudgie/budgie-desktop</id>
     <link href="https://github.com/BuddiesOfBudgie/budgie-desktop" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Budgie Desktop is a familiar, modern desktop environment.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>phw/peek</title>
-    <updated>2022-05-30T02:25:18Z</updated>
-    <id>tag:github.com,2022-05-30:/phw/peek</id>
+    <updated>2022-05-31T02:25:41Z</updated>
+    <id>tag:github.com,2022-05-31:/phw/peek</id>
     <link href="https://github.com/phw/peek" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Simple animated GIF screen recorder with an easy to use interface&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>alainm23/planner</title>
-    <updated>2022-05-30T02:25:18Z</updated>
-    <id>tag:github.com,2022-05-30:/alainm23/planner</id>
-    <link href="https://github.com/alainm23/planner" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Task manager with Todoist support designed for GNU/Linux 🚀&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>teejee2008/timeshift</title>
+    <updated>2022-05-31T02:25:41Z</updated>
+    <id>tag:github.com,2022-05-31:/teejee2008/timeshift</id>
+    <link href="https://github.com/teejee2008/timeshift" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

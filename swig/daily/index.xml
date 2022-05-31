@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SWIG Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T01:54:32Z</updated>
+  <updated>2022-05-31T01:55:08Z</updated>
   <subtitle>Daily Trending of SWIG in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SimpleITK/SimpleITK</title>
-    <updated>2022-05-30T01:54:32Z</updated>
-    <id>tag:github.com,2022-05-30:/SimpleITK/SimpleITK</id>
-    <link href="https://github.com/SimpleITK/SimpleITK" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SimpleITK: a layer built on top of the Insight Toolkit (ITK), intended to simplify and facilitate ITK&#39;s use in rapid prototyping, education and interpreted languages.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pymupdf/PyMuPDF</title>
+    <updated>2022-05-31T01:55:08Z</updated>
+    <id>tag:github.com,2022-05-31:/pymupdf/PyMuPDF</id>
+    <link href="https://github.com/pymupdf/PyMuPDF" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Python bindings for MuPDF&#39;s rendering library.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>microsoft/Microsoft-3D-Movie-Maker</title>
-    <updated>2022-05-30T01:54:32Z</updated>
-    <id>tag:github.com,2022-05-30:/microsoft/Microsoft-3D-Movie-Maker</id>
+    <updated>2022-05-31T01:55:08Z</updated>
+    <id>tag:github.com,2022-05-31:/microsoft/Microsoft-3D-Movie-Maker</id>
     <link href="https://github.com/microsoft/Microsoft-3D-Movie-Maker" rel="alternate"></link>
     <summary type="html">&lt;p&gt;This is the source code for the original Microsoft 3D Movie Maker released in 1995. This is not supported software.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

@@ -1,182 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T02:39:21Z</updated>
+  <updated>2022-05-31T02:40:24Z</updated>
   <subtitle>Monthly Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>bregman-arie/devops-resources</title>
-    <updated>2022-05-30T02:39:21Z</updated>
-    <id>tag:github.com,2022-05-30:/bregman-arie/devops-resources</id>
+    <updated>2022-05-31T02:40:24Z</updated>
+    <id>tag:github.com,2022-05-31:/bregman-arie/devops-resources</id>
     <link href="https://github.com/bregman-arie/devops-resources" rel="alternate"></link>
     <summary type="html">&lt;p&gt;DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>rundeck/rundeck</title>
-    <updated>2022-05-30T02:39:21Z</updated>
-    <id>tag:github.com,2022-05-30:/rundeck/rundeck</id>
+    <updated>2022-05-31T02:40:24Z</updated>
+    <id>tag:github.com,2022-05-31:/rundeck/rundeck</id>
     <link href="https://github.com/rundeck/rundeck" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>gradle/gradle</title>
-    <updated>2022-05-30T02:39:21Z</updated>
-    <id>tag:github.com,2022-05-30:/gradle/gradle</id>
+    <updated>2022-05-31T02:40:24Z</updated>
+    <id>tag:github.com,2022-05-31:/gradle/gradle</id>
     <link href="https://github.com/gradle/gradle" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Adaptable, fast automation for all&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>google/protobuf-gradle-plugin</title>
-    <updated>2022-05-30T02:39:21Z</updated>
-    <id>tag:github.com,2022-05-30:/google/protobuf-gradle-plugin</id>
-    <link href="https://github.com/google/protobuf-gradle-plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Protobuf Plugin for Gradle&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>nextflow-io/nextflow</title>
-    <updated>2022-05-30T02:39:21Z</updated>
-    <id>tag:github.com,2022-05-30:/nextflow-io/nextflow</id>
+    <updated>2022-05-31T02:40:24Z</updated>
+    <id>tag:github.com,2022-05-31:/nextflow-io/nextflow</id>
     <link href="https://github.com/nextflow-io/nextflow" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A DSL for data-driven computational pipelines&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>google/protobuf-gradle-plugin</title>
+    <updated>2022-05-31T02:40:24Z</updated>
+    <id>tag:github.com,2022-05-31:/google/protobuf-gradle-plugin</id>
+    <link href="https://github.com/google/protobuf-gradle-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Protobuf Plugin for Gradle&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>olxbr/gradle-plugins</title>
-    <updated>2022-05-30T02:39:21Z</updated>
-    <id>tag:github.com,2022-05-30:/olxbr/gradle-plugins</id>
+    <updated>2022-05-31T02:40:24Z</updated>
+    <id>tag:github.com,2022-05-31:/olxbr/gradle-plugins</id>
     <link href="https://github.com/olxbr/gradle-plugins" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Gradle plugins that can be used for several projects&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>christianhxc/jenkins-pipeline-tutorial</title>
-    <updated>2022-05-30T02:39:21Z</updated>
-    <id>tag:github.com,2022-05-30:/christianhxc/jenkins-pipeline-tutorial</id>
-    <link href="https://github.com/christianhxc/jenkins-pipeline-tutorial" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Jenkins Pipeline Tutorial&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>OneSignal/OneSignal-Gradle-Plugin</title>
-    <updated>2022-05-30T02:39:21Z</updated>
-    <id>tag:github.com,2022-05-30:/OneSignal/OneSignal-Gradle-Plugin</id>
-    <link href="https://github.com/OneSignal/OneSignal-Gradle-Plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Use with OneSignal-Android-SDK to help integrate it into your Android Studio or Gradle project. https://onesignal.com&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>MithunTechnologiesDevOps/slacknotification-sharedlibs</title>
-    <updated>2022-05-30T02:39:21Z</updated>
-    <id>tag:github.com,2022-05-30:/MithunTechnologiesDevOps/slacknotification-sharedlibs</id>
+    <updated>2022-05-31T02:40:24Z</updated>
+    <id>tag:github.com,2022-05-31:/MithunTechnologiesDevOps/slacknotification-sharedlibs</id>
     <link href="https://github.com/MithunTechnologiesDevOps/slacknotification-sharedlibs" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>OneSignal/OneSignal-Gradle-Plugin</title>
+    <updated>2022-05-31T02:40:24Z</updated>
+    <id>tag:github.com,2022-05-31:/OneSignal/OneSignal-Gradle-Plugin</id>
+    <link href="https://github.com/OneSignal/OneSignal-Gradle-Plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Use with OneSignal-Android-SDK to help integrate it into your Android Studio or Gradle project. https://onesignal.com&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SmartThingsCommunity/SmartThingsPublic</title>
+    <updated>2022-05-31T02:40:24Z</updated>
+    <id>tag:github.com,2022-05-31:/SmartThingsCommunity/SmartThingsPublic</id>
+    <link href="https://github.com/SmartThingsCommunity/SmartThingsPublic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SmartThings open-source DeviceTypeHandlers and SmartApps code&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>spockframework/spock-example</title>
+    <updated>2022-05-31T02:40:24Z</updated>
+    <id>tag:github.com,2022-05-31:/spockframework/spock-example</id>
+    <link href="https://github.com/spockframework/spock-example" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Spock example specifications along with ready-to-go Gradle and Maven builds&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>spinnaker/clouddriver</title>
-    <updated>2022-05-30T02:39:21Z</updated>
-    <id>tag:github.com,2022-05-30:/spinnaker/clouddriver</id>
+    <updated>2022-05-31T02:40:24Z</updated>
+    <id>tag:github.com,2022-05-31:/spinnaker/clouddriver</id>
     <link href="https://github.com/spinnaker/clouddriver" rel="alternate"></link>
     <summary type="html">&lt;p&gt;read and write operations across cloud providers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>ultraq/thymeleaf-layout-dialect</title>
-    <updated>2022-05-30T02:39:21Z</updated>
-    <id>tag:github.com,2022-05-30:/ultraq/thymeleaf-layout-dialect</id>
+    <updated>2022-05-31T02:40:24Z</updated>
+    <id>tag:github.com,2022-05-31:/ultraq/thymeleaf-layout-dialect</id>
     <link href="https://github.com/ultraq/thymeleaf-layout-dialect" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A dialect for Thymeleaf that lets you build layouts and reusable templates in order to improve code reuse&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>spockframework/spock-example</title>
-    <updated>2022-05-30T02:39:21Z</updated>
-    <id>tag:github.com,2022-05-30:/spockframework/spock-example</id>
-    <link href="https://github.com/spockframework/spock-example" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Spock example specifications along with ready-to-go Gradle and Maven builds&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SmartThingsCommunity/SmartThingsPublic</title>
-    <updated>2022-05-30T02:39:21Z</updated>
-    <id>tag:github.com,2022-05-30:/SmartThingsCommunity/SmartThingsPublic</id>
-    <link href="https://github.com/SmartThingsCommunity/SmartThingsPublic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SmartThings open-source DeviceTypeHandlers and SmartApps code&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>Unity-Technologies/kaizen</title>
-    <updated>2022-05-30T02:39:21Z</updated>
-    <id>tag:github.com,2022-05-30:/Unity-Technologies/kaizen</id>
+    <updated>2022-05-31T02:40:24Z</updated>
+    <id>tag:github.com,2022-05-31:/Unity-Technologies/kaizen</id>
     <link href="https://github.com/Unity-Technologies/kaizen" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>AdobeDocs/experience-manager-65.en</title>
-    <updated>2022-05-30T02:39:21Z</updated>
-    <id>tag:github.com,2022-05-30:/AdobeDocs/experience-manager-65.en</id>
+    <updated>2022-05-31T02:40:24Z</updated>
+    <id>tag:github.com,2022-05-31:/AdobeDocs/experience-manager-65.en</id>
     <link href="https://github.com/AdobeDocs/experience-manager-65.en" rel="alternate"></link>
     <summary type="html">&lt;p&gt;This is the repository for Adobe Experience Manager 6.5 documentation. Your contributions to the documentation are welcome.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>elastic/elasticsearch-groovy</title>
-    <updated>2022-05-30T02:39:21Z</updated>
-    <id>tag:github.com,2022-05-30:/elastic/elasticsearch-groovy</id>
+    <updated>2022-05-31T02:40:24Z</updated>
+    <id>tag:github.com,2022-05-31:/elastic/elasticsearch-groovy</id>
     <link href="https://github.com/elastic/elasticsearch-groovy" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Elasticsearch Groovy client&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>node-gradle/gradle-node-plugin</title>
-    <updated>2022-05-30T02:39:21Z</updated>
-    <id>tag:github.com,2022-05-30:/node-gradle/gradle-node-plugin</id>
+    <updated>2022-05-31T02:40:24Z</updated>
+    <id>tag:github.com,2022-05-31:/node-gradle/gradle-node-plugin</id>
     <link href="https://github.com/node-gradle/gradle-node-plugin" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Gradle plugin for integrating NodeJS in your build. 🚀&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>darinpope/github-api-global-lib</title>
-    <updated>2022-05-30T02:39:21Z</updated>
-    <id>tag:github.com,2022-05-30:/darinpope/github-api-global-lib</id>
+    <updated>2022-05-31T02:40:24Z</updated>
+    <id>tag:github.com,2022-05-31:/darinpope/github-api-global-lib</id>
     <link href="https://github.com/darinpope/github-api-global-lib" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>elastic/apm-pipeline-library</title>
-    <updated>2022-05-30T02:39:21Z</updated>
-    <id>tag:github.com,2022-05-30:/elastic/apm-pipeline-library</id>
+    <updated>2022-05-31T02:40:24Z</updated>
+    <id>tag:github.com,2022-05-31:/elastic/apm-pipeline-library</id>
     <link href="https://github.com/elastic/apm-pipeline-library" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Jenkins pipeline shared library for the APM project&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>christianhxc/jenkins-pipeline-tutorial</title>
+    <updated>2022-05-31T02:40:24Z</updated>
+    <id>tag:github.com,2022-05-31:/christianhxc/jenkins-pipeline-tutorial</id>
+    <link href="https://github.com/christianhxc/jenkins-pipeline-tutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jenkins Pipeline Tutorial&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>okta/okta-sdk-java</title>
-    <updated>2022-05-30T02:39:21Z</updated>
-    <id>tag:github.com,2022-05-30:/okta/okta-sdk-java</id>
+    <updated>2022-05-31T02:40:24Z</updated>
+    <id>tag:github.com,2022-05-31:/okta/okta-sdk-java</id>
     <link href="https://github.com/okta/okta-sdk-java" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>spotbugs/spotbugs-gradle-plugin</title>
-    <updated>2022-05-30T02:39:21Z</updated>
-    <id>tag:github.com,2022-05-30:/spotbugs/spotbugs-gradle-plugin</id>
+    <updated>2022-05-31T02:40:24Z</updated>
+    <id>tag:github.com,2022-05-31:/spotbugs/spotbugs-gradle-plugin</id>
     <link href="https://github.com/spotbugs/spotbugs-gradle-plugin" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>bmuschko/gradle-docker-plugin</title>
+    <updated>2022-05-31T02:40:24Z</updated>
+    <id>tag:github.com,2022-05-31:/bmuschko/gradle-docker-plugin</id>
+    <link href="https://github.com/bmuschko/gradle-docker-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gradle plugin for managing Docker images and containers.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>elastic/package-storage</title>
-    <updated>2022-05-30T02:39:21Z</updated>
-    <id>tag:github.com,2022-05-30:/elastic/package-storage</id>
+    <updated>2022-05-31T02:40:24Z</updated>
+    <id>tag:github.com,2022-05-31:/elastic/package-storage</id>
     <link href="https://github.com/elastic/package-storage" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Package storage for packages served through the package registry service&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>johnrengelman/shadow</title>
-    <updated>2022-05-30T02:39:21Z</updated>
-    <id>tag:github.com,2022-05-30:/johnrengelman/shadow</id>
+    <updated>2022-05-31T02:40:24Z</updated>
+    <id>tag:github.com,2022-05-31:/johnrengelman/shadow</id>
     <link href="https://github.com/johnrengelman/shadow" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven&#39;s Shade plugin.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bmuschko/gradle-docker-plugin</title>
-    <updated>2022-05-30T02:39:21Z</updated>
-    <id>tag:github.com,2022-05-30:/bmuschko/gradle-docker-plugin</id>
-    <link href="https://github.com/bmuschko/gradle-docker-plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gradle plugin for managing Docker images and containers.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Seagate/cortx-re</title>
-    <updated>2022-05-30T02:39:21Z</updated>
-    <id>tag:github.com,2022-05-30:/Seagate/cortx-re</id>
-    <link href="https://github.com/Seagate/cortx-re" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CORTX Release Engineering Scripts and Dockerfiles.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jenkinsci/pipeline-examples</title>
+    <updated>2022-05-31T02:40:24Z</updated>
+    <id>tag:github.com,2022-05-31:/jenkinsci/pipeline-examples</id>
+    <link href="https://github.com/jenkinsci/pipeline-examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

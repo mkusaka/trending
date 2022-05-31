@@ -1,56 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T01:55:12Z</updated>
+  <updated>2022-05-31T01:55:48Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>erikaduan/r_tips</title>
-    <updated>2022-05-30T01:55:12Z</updated>
-    <id>tag:github.com,2022-05-30:/erikaduan/r_tips</id>
-    <link href="https://github.com/erikaduan/r_tips" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A repository of R usage tips for data cleaning, data mining, data visualisation, statistical inference and machine learning.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TdP-esami/2020-07-14</title>
+    <updated>2022-05-31T01:55:48Z</updated>
+    <id>tag:github.com,2022-05-31:/TdP-esami/2020-07-14</id>
+    <link href="https://github.com/TdP-esami/2020-07-14" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tema d&#39;esame del 14/07/2020 (PremierLeague, simulazione)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>AlexTheAnalyst/SQL-Code</title>
-    <updated>2022-05-30T01:55:12Z</updated>
-    <id>tag:github.com,2022-05-30:/AlexTheAnalyst/SQL-Code</id>
-    <link href="https://github.com/AlexTheAnalyst/SQL-Code" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;All SQL Code or Documents from AlexTheAnalyst YouTube videos&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BrentOzarULTD/SQL-Server-First-Responder-Kit</title>
+    <updated>2022-05-31T01:55:48Z</updated>
+    <id>tag:github.com,2022-05-31:/BrentOzarULTD/SQL-Server-First-Responder-Kit</id>
+    <link href="https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;sp_Blitz, sp_BlitzCache, sp_BlitzFirst, sp_BlitzIndex, and other SQL Server scripts for health checks and performance tuning.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>TdP-esami/2020-06-03-simulazione</title>
-    <updated>2022-05-30T01:55:12Z</updated>
-    <id>tag:github.com,2022-05-30:/TdP-esami/2020-06-03-simulazione</id>
+    <updated>2022-05-31T01:55:48Z</updated>
+    <id>tag:github.com,2022-05-31:/TdP-esami/2020-06-03-simulazione</id>
     <link href="https://github.com/TdP-esami/2020-06-03-simulazione" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Simulazione d&#39;esame del 3/06/2020 (PremierLeague, ricorsione)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>TdP-esami/2020-06-10-simulazione</title>
-    <updated>2022-05-30T01:55:12Z</updated>
-    <id>tag:github.com,2022-05-30:/TdP-esami/2020-06-10-simulazione</id>
+    <updated>2022-05-31T01:55:48Z</updated>
+    <id>tag:github.com,2022-05-31:/TdP-esami/2020-06-10-simulazione</id>
     <link href="https://github.com/TdP-esami/2020-06-10-simulazione" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Simulazione d&#39;esame del 10/06/2020 (IMDb, simulazione)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>TdP-esami/2020-07-14</title>
-    <updated>2022-05-30T01:55:12Z</updated>
-    <id>tag:github.com,2022-05-30:/TdP-esami/2020-07-14</id>
-    <link href="https://github.com/TdP-esami/2020-07-14" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tema d&#39;esame del 14/07/2020 (PremierLeague, simulazione)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AlexTheAnalyst/SQL-Code</title>
+    <updated>2022-05-31T01:55:48Z</updated>
+    <id>tag:github.com,2022-05-31:/AlexTheAnalyst/SQL-Code</id>
+    <link href="https://github.com/AlexTheAnalyst/SQL-Code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;All SQL Code or Documents from AlexTheAnalyst YouTube videos&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>MarczakIO/azure4everyone-samples</title>
-    <updated>2022-05-30T01:55:12Z</updated>
-    <id>tag:github.com,2022-05-30:/MarczakIO/azure4everyone-samples</id>
-    <link href="https://github.com/MarczakIO/azure4everyone-samples" rel="alternate"></link>
+    <title>Chenzilla/SQL_Zoo</title>
+    <updated>2022-05-31T01:55:48Z</updated>
+    <id>tag:github.com,2022-05-31:/Chenzilla/SQL_Zoo</id>
+    <link href="https://github.com/Chenzilla/SQL_Zoo" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mrinal1704/SQL-Leetcode-Challenge</title>
-    <updated>2022-05-30T01:55:12Z</updated>
-    <id>tag:github.com,2022-05-30:/mrinal1704/SQL-Leetcode-Challenge</id>
-    <link href="https://github.com/mrinal1704/SQL-Leetcode-Challenge" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Contains all the 117 Leetcode questions with their solutions ranging from Easy to Hard in MySQL.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

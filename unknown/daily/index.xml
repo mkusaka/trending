@@ -1,182 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T01:32:11Z</updated>
+  <updated>2022-05-31T01:32:20Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>smartcontractkit/full-blockchain-solidity-course-js</title>
-    <updated>2022-05-30T01:32:11Z</updated>
-    <id>tag:github.com,2022-05-30:/smartcontractkit/full-blockchain-solidity-course-js</id>
-    <link href="https://github.com/smartcontractkit/full-blockchain-solidity-course-js" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>zijie0/HumanSystemOptimization</title>
-    <updated>2022-05-30T01:32:11Z</updated>
-    <id>tag:github.com,2022-05-30:/zijie0/HumanSystemOptimization</id>
+    <updated>2022-05-31T01:32:20Z</updated>
+    <id>tag:github.com,2022-05-31:/zijie0/HumanSystemOptimization</id>
     <link href="https://github.com/zijie0/HumanSystemOptimization" rel="alternate"></link>
     <summary type="html">&lt;p&gt;健康学习到150岁 - 人体系统调优不完全指南&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>smartcontractkit/full-blockchain-solidity-course-js</title>
+    <updated>2022-05-31T01:32:20Z</updated>
+    <id>tag:github.com,2022-05-31:/smartcontractkit/full-blockchain-solidity-course-js</id>
+    <link href="https://github.com/smartcontractkit/full-blockchain-solidity-course-js" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zju3dv/OnePose</title>
+    <updated>2022-05-31T01:32:20Z</updated>
+    <id>tag:github.com,2022-05-31:/zju3dv/OnePose</id>
+    <link href="https://github.com/zju3dv/OnePose" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code for &#34;OnePose: One-Shot Object Pose Estimation without CAD Models&#34;, CVPR 2022&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ngosang/trackerslist</title>
+    <updated>2022-05-31T01:32:20Z</updated>
+    <id>tag:github.com,2022-05-31:/ngosang/trackerslist</id>
+    <link href="https://github.com/ngosang/trackerslist" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Updated list of public BitTorrent trackers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Reiten966/Polyformer</title>
+    <updated>2022-05-31T01:32:20Z</updated>
+    <id>tag:github.com,2022-05-31:/Reiten966/Polyformer</id>
+    <link href="https://github.com/Reiten966/Polyformer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Polyformer is an open-source project that aims to recycle plastics into FDM filaments&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>The-Run-Philosophy-Organization/run</title>
+    <updated>2022-05-31T01:32:20Z</updated>
+    <id>tag:github.com,2022-05-31:/The-Run-Philosophy-Organization/run</id>
+    <link href="https://github.com/The-Run-Philosophy-Organization/run" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dair-ai/Transformers-Recipe</title>
+    <updated>2022-05-31T01:32:20Z</updated>
+    <id>tag:github.com,2022-05-31:/dair-ai/Transformers-Recipe</id>
+    <link href="https://github.com/dair-ai/Transformers-Recipe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🧠 A quick recipe to learn all about Transformers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>LukeYui/EldenRingSeamlessCoopRelease</title>
+    <updated>2022-05-31T01:32:20Z</updated>
+    <id>tag:github.com,2022-05-31:/LukeYui/EldenRingSeamlessCoopRelease</id>
+    <link href="https://github.com/LukeYui/EldenRingSeamlessCoopRelease" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sorrycc/awesome-javascript</title>
+    <updated>2022-05-31T01:32:20Z</updated>
+    <id>tag:github.com,2022-05-31:/sorrycc/awesome-javascript</id>
+    <link href="https://github.com/sorrycc/awesome-javascript" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>practical-tutorials/project-based-learning</title>
+    <updated>2022-05-31T01:32:20Z</updated>
+    <id>tag:github.com,2022-05-31:/practical-tutorials/project-based-learning</id>
+    <link href="https://github.com/practical-tutorials/project-based-learning" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Curated list of project-based tutorials&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>rzashakeri/beautify-github-profile</title>
-    <updated>2022-05-30T01:32:11Z</updated>
-    <id>tag:github.com,2022-05-30:/rzashakeri/beautify-github-profile</id>
+    <updated>2022-05-31T01:32:20Z</updated>
+    <id>tag:github.com,2022-05-31:/rzashakeri/beautify-github-profile</id>
     <link href="https://github.com/rzashakeri/beautify-github-profile" rel="alternate"></link>
     <summary type="html">&lt;p&gt;This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>Dimbreath/GenshinData</title>
-    <updated>2022-05-30T01:32:11Z</updated>
-    <id>tag:github.com,2022-05-30:/Dimbreath/GenshinData</id>
+    <updated>2022-05-31T01:32:20Z</updated>
+    <id>tag:github.com,2022-05-31:/Dimbreath/GenshinData</id>
     <link href="https://github.com/Dimbreath/GenshinData" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Repository containing the game data for the game Genshin Impact.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>auctors/free-lunch</title>
-    <updated>2022-05-30T01:32:11Z</updated>
-    <id>tag:github.com,2022-05-30:/auctors/free-lunch</id>
-    <link href="https://github.com/auctors/free-lunch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of free Windows software, online services and resources.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vavkamil/awesome-bugbounty-tools</title>
+    <updated>2022-05-31T01:32:20Z</updated>
+    <id>tag:github.com,2022-05-31:/vavkamil/awesome-bugbounty-tools</id>
+    <link href="https://github.com/vavkamil/awesome-bugbounty-tools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of various bug bounty tools&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>trickest/cve</title>
-    <updated>2022-05-30T01:32:11Z</updated>
-    <id>tag:github.com,2022-05-30:/trickest/cve</id>
-    <link href="https://github.com/trickest/cve" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gather and update all available and newest CVEs with their PoC.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MoienTajik/AspNetCore-Developer-Roadmap</title>
+    <updated>2022-05-31T01:32:20Z</updated>
+    <id>tag:github.com,2022-05-31:/MoienTajik/AspNetCore-Developer-Roadmap</id>
+    <link href="https://github.com/MoienTajik/AspNetCore-Developer-Roadmap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Roadmap to becoming an ASP.NET Core developer in 2022&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>smartcontractkit/full-blockchain-solidity-course-py</title>
-    <updated>2022-05-30T01:32:11Z</updated>
-    <id>tag:github.com,2022-05-30:/smartcontractkit/full-blockchain-solidity-course-py</id>
-    <link href="https://github.com/smartcontractkit/full-blockchain-solidity-course-py" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>imarvinle/awesome-cs-books</title>
+    <updated>2022-05-31T01:32:20Z</updated>
+    <id>tag:github.com,2022-05-31:/imarvinle/awesome-cs-books</id>
+    <link href="https://github.com/imarvinle/awesome-cs-books" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>EbookFoundation/free-programming-books</title>
-    <updated>2022-05-30T01:32:11Z</updated>
-    <id>tag:github.com,2022-05-30:/EbookFoundation/free-programming-books</id>
-    <link href="https://github.com/EbookFoundation/free-programming-books" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📚 Freely available programming books&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>xream/scripts</title>
+    <updated>2022-05-31T01:32:20Z</updated>
+    <id>tag:github.com,2022-05-31:/xream/scripts</id>
+    <link href="https://github.com/xream/scripts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>trimstray/the-book-of-secret-knowledge</title>
-    <updated>2022-05-30T01:32:11Z</updated>
-    <id>tag:github.com,2022-05-30:/trimstray/the-book-of-secret-knowledge</id>
-    <link href="https://github.com/trimstray/the-book-of-secret-knowledge" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>thedaviddias/Front-End-Checklist</title>
-    <updated>2022-05-30T01:32:11Z</updated>
-    <id>tag:github.com,2022-05-30:/thedaviddias/Front-End-Checklist</id>
-    <link href="https://github.com/thedaviddias/Front-End-Checklist" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🗂 The perfect Front-End Checklist for modern websites and meticulous developers&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>weeeBox/mobile-system-design</title>
-    <updated>2022-05-30T01:32:11Z</updated>
-    <id>tag:github.com,2022-05-30:/weeeBox/mobile-system-design</id>
-    <link href="https://github.com/weeeBox/mobile-system-design" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple framework for mobile system design interviews&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>reanalytics-databoutique/webscraping-open-project</title>
+    <updated>2022-05-31T01:32:20Z</updated>
+    <id>tag:github.com,2022-05-31:/reanalytics-databoutique/webscraping-open-project</id>
+    <link href="https://github.com/reanalytics-databoutique/webscraping-open-project" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The web scraping open project repository aims to share knowledge and experiences about web scraping with Python&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>cmhungsteve/Awesome-Transformer-Attention</title>
-    <updated>2022-05-30T01:32:11Z</updated>
-    <id>tag:github.com,2022-05-30:/cmhungsteve/Awesome-Transformer-Attention</id>
+    <updated>2022-05-31T01:32:20Z</updated>
+    <id>tag:github.com,2022-05-31:/cmhungsteve/Awesome-Transformer-Attention</id>
     <link href="https://github.com/cmhungsteve/Awesome-Transformer-Attention" rel="alternate"></link>
     <summary type="html">&lt;p&gt;An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>reanalytics-databoutique/webscraping-open-project</title>
-    <updated>2022-05-30T01:32:11Z</updated>
-    <id>tag:github.com,2022-05-30:/reanalytics-databoutique/webscraping-open-project</id>
-    <link href="https://github.com/reanalytics-databoutique/webscraping-open-project" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository of open knowledge about web scraping in Python&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nomi-sec/PoC-in-GitHub</title>
+    <updated>2022-05-31T01:32:20Z</updated>
+    <id>tag:github.com,2022-05-31:/nomi-sec/PoC-in-GitHub</id>
+    <link href="https://github.com/nomi-sec/PoC-in-GitHub" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CyC2018/CS-Notes</title>
-    <updated>2022-05-30T01:32:11Z</updated>
-    <id>tag:github.com,2022-05-30:/CyC2018/CS-Notes</id>
-    <link href="https://github.com/CyC2018/CS-Notes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dastergon/awesome-sre</title>
-    <updated>2022-05-30T01:32:11Z</updated>
-    <id>tag:github.com,2022-05-30:/dastergon/awesome-sre</id>
-    <link href="https://github.com/dastergon/awesome-sre" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of Site Reliability and Production Engineering resources.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>trickest/cve</title>
+    <updated>2022-05-31T01:32:20Z</updated>
+    <id>tag:github.com,2022-05-31:/trickest/cve</id>
+    <link href="https://github.com/trickest/cve" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gather and update all available and newest CVEs with their PoC.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>zeroruka/GI_Textures</title>
-    <updated>2022-05-30T01:32:11Z</updated>
-    <id>tag:github.com,2022-05-30:/zeroruka/GI_Textures</id>
+    <updated>2022-05-31T01:32:20Z</updated>
+    <id>tag:github.com,2022-05-31:/zeroruka/GI_Textures</id>
     <link href="https://github.com/zeroruka/GI_Textures" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Character textures for Genshin. Used in Melon&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>threat-hunting/awesome_Threat-Hunting</title>
-    <updated>2022-05-30T01:32:11Z</updated>
-    <id>tag:github.com,2022-05-30:/threat-hunting/awesome_Threat-Hunting</id>
-    <link href="https://github.com/threat-hunting/awesome_Threat-Hunting" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of the most important and useful resources about Threat Detection,Hunting and Intelligence.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ossu/data-science</title>
+    <updated>2022-05-31T01:32:20Z</updated>
+    <id>tag:github.com,2022-05-31:/ossu/data-science</id>
+    <link href="https://github.com/ossu/data-science" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📊 Path to a free self-taught education in Data Science!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>AllThingsSmitty/css-protips</title>
-    <updated>2022-05-30T01:32:11Z</updated>
-    <id>tag:github.com,2022-05-30:/AllThingsSmitty/css-protips</id>
-    <link href="https://github.com/AllThingsSmitty/css-protips" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of tips to help take your CSS skills pro&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Rem0o/FanControl.Releases</title>
+    <updated>2022-05-31T01:32:20Z</updated>
+    <id>tag:github.com,2022-05-31:/Rem0o/FanControl.Releases</id>
+    <link href="https://github.com/Rem0o/FanControl.Releases" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>eryajf/Thanks-Mirror</title>
-    <updated>2022-05-30T01:32:11Z</updated>
-    <id>tag:github.com,2022-05-30:/eryajf/Thanks-Mirror</id>
-    <link href="https://github.com/eryajf/Thanks-Mirror" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。 走过路过，如觉不错，麻烦点个赞👆🌟&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CSSEGISandData/COVID-19</title>
+    <updated>2022-05-31T01:32:20Z</updated>
+    <id>tag:github.com,2022-05-31:/CSSEGISandData/COVID-19</id>
+    <link href="https://github.com/CSSEGISandData/COVID-19" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ngosang/trackerslist</title>
-    <updated>2022-05-30T01:32:11Z</updated>
-    <id>tag:github.com,2022-05-30:/ngosang/trackerslist</id>
-    <link href="https://github.com/ngosang/trackerslist" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Updated list of public BitTorrent trackers&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>resumejob/free-project-course</title>
-    <updated>2022-05-30T01:32:11Z</updated>
-    <id>tag:github.com,2022-05-30:/resumejob/free-project-course</id>
-    <link href="https://github.com/resumejob/free-project-course" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Free course for Resume, 整理和搜集网络免费的项目实战课程，包括 Java 项目实战，Python 项目实战，C++ 项目实战等&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>randorisec/MobileHackingCheatSheet</title>
-    <updated>2022-05-30T01:32:11Z</updated>
-    <id>tag:github.com,2022-05-30:/randorisec/MobileHackingCheatSheet</id>
-    <link href="https://github.com/randorisec/MobileHackingCheatSheet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Basics on commands/tools/info on how to assess the security of mobile applications&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>goatfungus/NMSSaveEditor</title>
-    <updated>2022-05-30T01:32:11Z</updated>
-    <id>tag:github.com,2022-05-30:/goatfungus/NMSSaveEditor</id>
-    <link href="https://github.com/goatfungus/NMSSaveEditor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;No Man&#39;s Sky - Save Editor&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Developer-Y/cs-video-courses</title>
-    <updated>2022-05-30T01:32:11Z</updated>
-    <id>tag:github.com,2022-05-30:/Developer-Y/cs-video-courses</id>
-    <link href="https://github.com/Developer-Y/cs-video-courses" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;List of Computer Science courses with video lectures.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>FBlackBox/BlackBox</title>
-    <updated>2022-05-30T01:32:11Z</updated>
-    <id>tag:github.com,2022-05-30:/FBlackBox/BlackBox</id>
-    <link href="https://github.com/FBlackBox/BlackBox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;BlackBox is a virtual engine, it can clone and run virtual application on Android, users don&#39;t have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ombharatiya/FAANG-Coding-Interview-Questions</title>
+    <updated>2022-05-31T01:32:20Z</updated>
+    <id>tag:github.com,2022-05-31:/ombharatiya/FAANG-Coding-Interview-Questions</id>
+    <link href="https://github.com/ombharatiya/FAANG-Coding-Interview-Questions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated List of Coding Questions Asked in FAANG Interviews&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

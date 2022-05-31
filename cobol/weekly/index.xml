@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub COBOL Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T02:04:30Z</updated>
+  <updated>2022-05-31T02:05:06Z</updated>
   <subtitle>Weekly Trending of COBOL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>SonarSource/sonar-scanning-examples</title>
-    <updated>2022-05-30T02:04:30Z</updated>
-    <id>tag:github.com,2022-05-30:/SonarSource/sonar-scanning-examples</id>
+    <updated>2022-05-31T02:05:06Z</updated>
+    <id>tag:github.com,2022-05-31:/SonarSource/sonar-scanning-examples</id>
     <link href="https://github.com/SonarSource/sonar-scanning-examples" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Shows how to use the Scanners&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>openmainframeproject/cobol-programming-course</title>
+    <updated>2022-05-31T02:05:06Z</updated>
+    <id>tag:github.com,2022-05-31:/openmainframeproject/cobol-programming-course</id>
+    <link href="https://github.com/openmainframeproject/cobol-programming-course" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Training materials and labs for a &#34;Getting Started&#34; level course on COBOL&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

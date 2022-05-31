@@ -1,21 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cython Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T01:36:49Z</updated>
+  <updated>2022-05-31T01:37:08Z</updated>
   <subtitle>Daily Trending of Cython in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>mrjbq7/ta-lib</title>
-    <updated>2022-05-30T01:36:49Z</updated>
-    <id>tag:github.com,2022-05-30:/mrjbq7/ta-lib</id>
+    <updated>2022-05-31T01:37:08Z</updated>
+    <id>tag:github.com,2022-05-31:/mrjbq7/ta-lib</id>
     <link href="https://github.com/mrjbq7/ta-lib" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Python wrapper for TA-Lib (http://ta-lib.org/).&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>openai/mujoco-py</title>
-    <updated>2022-05-30T01:36:49Z</updated>
-    <id>tag:github.com,2022-05-30:/openai/mujoco-py</id>
+    <updated>2022-05-31T01:37:08Z</updated>
+    <id>tag:github.com,2022-05-31:/openai/mujoco-py</id>
     <link href="https://github.com/openai/mujoco-py" rel="alternate"></link>
     <summary type="html">&lt;p&gt;MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MagicStack/uvloop</title>
+    <updated>2022-05-31T01:37:08Z</updated>
+    <id>tag:github.com,2022-05-31:/MagicStack/uvloop</id>
+    <link href="https://github.com/MagicStack/uvloop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ultra fast asyncio event loop.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>discord/erlpack</title>
+    <updated>2022-05-31T01:37:08Z</updated>
+    <id>tag:github.com,2022-05-31:/discord/erlpack</id>
+    <link href="https://github.com/discord/erlpack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;High Performance Erlang Term Format Packer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

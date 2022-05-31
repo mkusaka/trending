@@ -1,76 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T01:45:29Z</updated>
+  <updated>2022-05-31T01:46:04Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Ayatans/Machine-Learning-homework</title>
-    <updated>2022-05-30T01:45:29Z</updated>
-    <id>tag:github.com,2022-05-30:/Ayatans/Machine-Learning-homework</id>
-    <link href="https://github.com/Ayatans/Machine-Learning-homework" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Matlab Coding homework for Machine Learning&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>atinesh-s/Coursera-Machine-Learning-Stanford</title>
-    <updated>2022-05-30T01:45:29Z</updated>
-    <id>tag:github.com,2022-05-30:/atinesh-s/Coursera-Machine-Learning-Stanford</id>
+    <updated>2022-05-31T01:46:04Z</updated>
+    <id>tag:github.com,2022-05-31:/atinesh-s/Coursera-Machine-Learning-Stanford</id>
     <link href="https://github.com/atinesh-s/Coursera-Machine-Learning-Stanford" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Machine learning-Stanford University&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bw1129/PIDtoolbox</title>
-    <updated>2022-05-30T01:45:29Z</updated>
-    <id>tag:github.com,2022-05-30:/bw1129/PIDtoolbox</id>
-    <link href="https://github.com/bw1129/PIDtoolbox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PIDtoolbox is a set of graphical tools for analyzing blackbox log data&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>personqianduixue/Math_Model</title>
-    <updated>2022-05-30T01:45:29Z</updated>
-    <id>tag:github.com,2022-05-30:/personqianduixue/Math_Model</id>
-    <link href="https://github.com/personqianduixue/Math_Model" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、常用matlab算法、国赛评阅要点、软件模型算法汇总、智能算法、优化算法&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>fangq/jsonlab</title>
-    <updated>2022-05-30T01:45:29Z</updated>
-    <id>tag:github.com,2022-05-30:/fangq/jsonlab</id>
-    <link href="https://github.com/fangq/jsonlab" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;JSONLab: compact, portable, robust JSON/binary-JSON encoder/decoder for MATLAB/Octave&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>natbuswell/mae10s22</title>
-    <updated>2022-05-30T01:45:29Z</updated>
-    <id>tag:github.com,2022-05-30:/natbuswell/mae10s22</id>
-    <link href="https://github.com/natbuswell/mae10s22" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>csjunxu/Bovik_NIQE_SPL2013</title>
-    <updated>2022-05-30T01:45:29Z</updated>
-    <id>tag:github.com,2022-05-30:/csjunxu/Bovik_NIQE_SPL2013</id>
-    <link href="https://github.com/csjunxu/Bovik_NIQE_SPL2013" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>petercorke/robotics-toolbox-matlab</title>
-    <updated>2022-05-30T01:45:29Z</updated>
-    <id>tag:github.com,2022-05-30:/petercorke/robotics-toolbox-matlab</id>
-    <link href="https://github.com/petercorke/robotics-toolbox-matlab" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Robotics Toolbox for MATLAB&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera</title>
-    <updated>2022-05-30T01:45:29Z</updated>
-    <id>tag:github.com,2022-05-30:/UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera</id>
+    <updated>2022-05-31T01:46:04Z</updated>
+    <id>tag:github.com,2022-05-31:/UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera</id>
     <link href="https://github.com/UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Contains the Course Material and Assignment Solutions for the Machine Learning Course at Stanford University on Coursera.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>bw1129/PIDtoolbox</title>
+    <updated>2022-05-31T01:46:04Z</updated>
+    <id>tag:github.com,2022-05-31:/bw1129/PIDtoolbox</id>
+    <link href="https://github.com/bw1129/PIDtoolbox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PIDtoolbox is a set of graphical tools for analyzing blackbox log data&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>macs-lab/arb-adaptive-regulation-benchmark-lv2-training</title>
+    <updated>2022-05-31T01:46:04Z</updated>
+    <id>tag:github.com,2022-05-31:/macs-lab/arb-adaptive-regulation-benchmark-lv2-training</id>
+    <link href="https://github.com/macs-lab/arb-adaptive-regulation-benchmark-lv2-training" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>macs-lab/macs-arb-adaptive-regulation-benchmark</title>
+    <updated>2022-05-31T01:46:04Z</updated>
+    <id>tag:github.com,2022-05-31:/macs-lab/macs-arb-adaptive-regulation-benchmark</id>
+    <link href="https://github.com/macs-lab/macs-arb-adaptive-regulation-benchmark" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fast adaptative regulation of time-varying disturbances demo.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Ayatans/Machine-Learning-homework</title>
+    <updated>2022-05-31T01:46:04Z</updated>
+    <id>tag:github.com,2022-05-31:/Ayatans/Machine-Learning-homework</id>
+    <link href="https://github.com/Ayatans/Machine-Learning-homework" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Matlab Coding homework for Machine Learning&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>csjunxu/Bovik_NIQE_SPL2013</title>
+    <updated>2022-05-31T01:46:04Z</updated>
+    <id>tag:github.com,2022-05-31:/csjunxu/Bovik_NIQE_SPL2013</id>
+    <link href="https://github.com/csjunxu/Bovik_NIQE_SPL2013" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>VincentWong3/automated-driving-control</title>
+    <updated>2022-05-31T01:46:04Z</updated>
+    <id>tag:github.com,2022-05-31:/VincentWong3/automated-driving-control</id>
+    <link href="https://github.com/VincentWong3/automated-driving-control" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Linfeng-Tang/Image-Fusion</title>
+    <updated>2022-05-31T01:46:04Z</updated>
+    <id>tag:github.com,2022-05-31:/Linfeng-Tang/Image-Fusion</id>
+    <link href="https://github.com/Linfeng-Tang/Image-Fusion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Deep Learning-based Image Fusion: A Survey&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fieldtrip/fieldtrip</title>
+    <updated>2022-05-31T01:46:04Z</updated>
+    <id>tag:github.com,2022-05-31:/fieldtrip/fieldtrip</id>
+    <link href="https://github.com/fieldtrip/fieldtrip" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The MATLAB toolbox for MEG, EEG and iEEG analysis&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>personqianduixue/Math_Model</title>
+    <updated>2022-05-31T01:46:04Z</updated>
+    <id>tag:github.com,2022-05-31:/personqianduixue/Math_Model</id>
+    <link href="https://github.com/personqianduixue/Math_Model" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、常用matlab算法、国赛评阅要点、软件模型算法汇总、智能算法、优化算法&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>mathworks/MathWorks-Excellence-in-Innovation</title>
-    <updated>2022-05-30T01:45:29Z</updated>
-    <id>tag:github.com,2022-05-30:/mathworks/MathWorks-Excellence-in-Innovation</id>
+    <updated>2022-05-31T01:46:04Z</updated>
+    <id>tag:github.com,2022-05-31:/mathworks/MathWorks-Excellence-in-Innovation</id>
     <link href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Capstone and senior design project ideas for undergraduate and graduate students to gain practical experience and insight into technology trends and industry directions.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Gherkin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T01:40:17Z</updated>
+  <updated>2022-05-31T01:40:33Z</updated>
   <subtitle>Daily Trending of Gherkin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>wiris/moodle-tinymce_tiny_mce_wiris</title>
-    <updated>2022-05-30T01:40:17Z</updated>
-    <id>tag:github.com,2022-05-30:/wiris/moodle-tinymce_tiny_mce_wiris</id>
+    <updated>2022-05-31T01:40:33Z</updated>
+    <id>tag:github.com,2022-05-31:/wiris/moodle-tinymce_tiny_mce_wiris</id>
     <link href="https://github.com/wiris/moodle-tinymce_tiny_mce_wiris" rel="alternate"></link>
     <summary type="html">&lt;p&gt;TinyMCE&#39;s editor Moodle plugin for MathType, the leading formula editor and equation writer for the web by Wiris&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>wiris/moodle-atto_wiris</title>
-    <updated>2022-05-30T01:40:17Z</updated>
-    <id>tag:github.com,2022-05-30:/wiris/moodle-atto_wiris</id>
-    <link href="https://github.com/wiris/moodle-atto_wiris" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Moodle Atto&#39;s editor plugin for MathType, the leading formula editor and equation writer for the web by Wiris&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>opencypher/openCypher</title>
-    <updated>2022-05-30T01:40:17Z</updated>
-    <id>tag:github.com,2022-05-30:/opencypher/openCypher</id>
+    <updated>2022-05-31T01:40:33Z</updated>
+    <id>tag:github.com,2022-05-31:/opencypher/openCypher</id>
     <link href="https://github.com/opencypher/openCypher" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Specification of the Cypher property graph query language&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wiris/moodle-atto_wiris</title>
+    <updated>2022-05-31T01:40:33Z</updated>
+    <id>tag:github.com,2022-05-31:/wiris/moodle-atto_wiris</id>
+    <link href="https://github.com/wiris/moodle-atto_wiris" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Moodle Atto&#39;s editor plugin for MathType, the leading formula editor and equation writer for the web by Wiris&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

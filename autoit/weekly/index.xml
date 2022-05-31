@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoIt Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T02:02:24Z</updated>
+  <updated>2022-05-31T02:03:12Z</updated>
   <subtitle>Weekly Trending of AutoIt in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>J2TEAM/idm-trial-reset</title>
-    <updated>2022-05-30T02:02:24Z</updated>
-    <id>tag:github.com,2022-05-30:/J2TEAM/idm-trial-reset</id>
+    <updated>2022-05-31T02:03:12Z</updated>
+    <id>tag:github.com,2022-05-31:/J2TEAM/idm-trial-reset</id>
     <link href="https://github.com/J2TEAM/idm-trial-reset" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Use IDM forever without cracking&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>rcmaehl/MSEdgeRedirect</title>
-    <updated>2022-05-30T02:02:24Z</updated>
-    <id>tag:github.com,2022-05-30:/rcmaehl/MSEdgeRedirect</id>
+    <updated>2022-05-31T02:03:12Z</updated>
+    <id>tag:github.com,2022-05-31:/rcmaehl/MSEdgeRedirect</id>
     <link href="https://github.com/rcmaehl/MSEdgeRedirect" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>rcmaehl/WhyNotWin11</title>
-    <updated>2022-05-30T02:02:24Z</updated>
-    <id>tag:github.com,2022-05-30:/rcmaehl/WhyNotWin11</id>
+    <updated>2022-05-31T02:03:12Z</updated>
+    <id>tag:github.com,2022-05-31:/rcmaehl/WhyNotWin11</id>
     <link href="https://github.com/rcmaehl/WhyNotWin11" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Detection Script to help identify why your PC is not Windows 11 Release Ready&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>chall32/LDWin</title>
-    <updated>2022-05-30T02:02:24Z</updated>
-    <id>tag:github.com,2022-05-30:/chall32/LDWin</id>
-    <link href="https://github.com/chall32/LDWin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Link Discovery for Windows&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Sunblood/D2RML</title>
-    <updated>2022-05-30T02:02:24Z</updated>
-    <id>tag:github.com,2022-05-30:/Sunblood/D2RML</id>
-    <link href="https://github.com/Sunblood/D2RML" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Diablo 2 Resurrected Multilauncher&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>Bioruebe/UniExtract2</title>
-    <updated>2022-05-30T02:02:24Z</updated>
-    <id>tag:github.com,2022-05-30:/Bioruebe/UniExtract2</id>
+    <updated>2022-05-31T02:03:12Z</updated>
+    <id>tag:github.com,2022-05-31:/Bioruebe/UniExtract2</id>
     <link href="https://github.com/Bioruebe/UniExtract2" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Universal Extractor 2 is a tool to extract files from any type of archive or installer.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>RattletraPM/Snickerstream</title>
-    <updated>2022-05-30T02:02:24Z</updated>
-    <id>tag:github.com,2022-05-30:/RattletraPM/Snickerstream</id>
-    <link href="https://github.com/RattletraPM/Snickerstream" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Unified NTR and HzMod streaming client for the 3DS&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chall32/LDWin</title>
+    <updated>2022-05-31T02:03:12Z</updated>
+    <id>tag:github.com,2022-05-31:/chall32/LDWin</id>
+    <link href="https://github.com/chall32/LDWin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Link Discovery for Windows&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SegoCode/AutoWall</title>
+    <updated>2022-05-31T02:03:12Z</updated>
+    <id>tag:github.com,2022-05-31:/SegoCode/AutoWall</id>
+    <link href="https://github.com/SegoCode/AutoWall" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌌 Live wallpapers on Windows 10/11 using open-source wallpaper engine&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Sunblood/D2RML</title>
+    <updated>2022-05-31T02:03:12Z</updated>
+    <id>tag:github.com,2022-05-31:/Sunblood/D2RML</id>
+    <link href="https://github.com/Sunblood/D2RML" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Diablo 2 Resurrected Multilauncher&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

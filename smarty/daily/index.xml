@@ -1,62 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T01:53:04Z</updated>
+  <updated>2022-05-31T01:53:48Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hmcts/sds-flux-config</title>
-    <updated>2022-05-30T01:53:04Z</updated>
-    <id>tag:github.com,2022-05-30:/hmcts/sds-flux-config</id>
-    <link href="https://github.com/hmcts/sds-flux-config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>DandelionSprout/adfilt</title>
-    <updated>2022-05-30T01:53:04Z</updated>
-    <id>tag:github.com,2022-05-30:/DandelionSprout/adfilt</id>
-    <link href="https://github.com/DandelionSprout/adfilt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dracula/metatrader5</title>
-    <updated>2022-05-30T01:53:04Z</updated>
-    <id>tag:github.com,2022-05-30:/dracula/metatrader5</id>
-    <link href="https://github.com/dracula/metatrader5" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🧛🏻‍♂️ Dark theme for MetaTrader 5&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>truecharts/apps</title>
-    <updated>2022-05-30T01:53:04Z</updated>
-    <id>tag:github.com,2022-05-30:/truecharts/apps</id>
-    <link href="https://github.com/truecharts/apps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Community App Catalog for TrueNAS SCALE&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Anankke/SSPanel-Uim</title>
-    <updated>2022-05-30T01:53:04Z</updated>
-    <id>tag:github.com,2022-05-30:/Anankke/SSPanel-Uim</id>
-    <link href="https://github.com/Anankke/SSPanel-Uim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SSPanel V3 魔改再次修改版&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>yu-steven/openit</title>
-    <updated>2022-05-30T01:53:04Z</updated>
-    <id>tag:github.com,2022-05-30:/yu-steven/openit</id>
+    <updated>2022-05-31T01:53:48Z</updated>
+    <id>tag:github.com,2022-05-31:/yu-steven/openit</id>
     <link href="https://github.com/yu-steven/openit" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Openit订阅致力于打造免费无感的翻墙环境&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>hmcts/sds-flux-config</title>
+    <updated>2022-05-31T01:53:48Z</updated>
+    <id>tag:github.com,2022-05-31:/hmcts/sds-flux-config</id>
+    <link href="https://github.com/hmcts/sds-flux-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Anankke/SSPanel-Uim</title>
+    <updated>2022-05-31T01:53:48Z</updated>
+    <id>tag:github.com,2022-05-31:/Anankke/SSPanel-Uim</id>
+    <link href="https://github.com/Anankke/SSPanel-Uim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SSPanel V3 魔改再次修改版&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>FIWARE-Ops/marinera</title>
+    <updated>2022-05-31T01:53:48Z</updated>
+    <id>tag:github.com,2022-05-31:/FIWARE-Ops/marinera</id>
+    <link href="https://github.com/FIWARE-Ops/marinera" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gitops repository for the residency&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>grafana/helm-charts</title>
+    <updated>2022-05-31T01:53:48Z</updated>
+    <id>tag:github.com,2022-05-31:/grafana/helm-charts</id>
+    <link href="https://github.com/grafana/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>traefik/traefik-helm-chart</title>
+    <updated>2022-05-31T01:53:48Z</updated>
+    <id>tag:github.com,2022-05-31:/traefik/traefik-helm-chart</id>
+    <link href="https://github.com/traefik/traefik-helm-chart" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Traefik v2 helm chart&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nsbno/terraform-aws-trafficinfo</title>
+    <updated>2022-05-31T01:53:48Z</updated>
+    <id>tag:github.com,2022-05-31:/nsbno/terraform-aws-trafficinfo</id>
+    <link href="https://github.com/nsbno/terraform-aws-trafficinfo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A repository containing Terraform modules used by trafficinfo&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rubyhan1314/Golang-100-Days</title>
+    <updated>2022-05-31T01:53:48Z</updated>
+    <id>tag:github.com,2022-05-31:/rubyhan1314/Golang-100-Days</id>
+    <link href="https://github.com/rubyhan1314/Golang-100-Days" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Golang - 100天从新手到大师&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>hashicorp/nomad-pack-community-registry</title>
-    <updated>2022-05-30T01:53:04Z</updated>
-    <id>tag:github.com,2022-05-30:/hashicorp/nomad-pack-community-registry</id>
+    <updated>2022-05-31T01:53:48Z</updated>
+    <id>tag:github.com,2022-05-31:/hashicorp/nomad-pack-community-registry</id>
     <link href="https://github.com/hashicorp/nomad-pack-community-registry" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A repo for Packs written and maintained by Nomad community members&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>getoutreach/stencil-template-base</title>
+    <updated>2022-05-31T01:53:48Z</updated>
+    <id>tag:github.com,2022-05-31:/getoutreach/stencil-template-base</id>
+    <link href="https://github.com/getoutreach/stencil-template-base" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Stencil template repository for template repositories&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>truecharts/apps</title>
+    <updated>2022-05-31T01:53:48Z</updated>
+    <id>tag:github.com,2022-05-31:/truecharts/apps</id>
+    <link href="https://github.com/truecharts/apps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Community App Catalog for TrueNAS SCALE&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>DandelionSprout/adfilt</title>
+    <updated>2022-05-31T01:53:48Z</updated>
+    <id>tag:github.com,2022-05-31:/DandelionSprout/adfilt</id>
+    <link href="https://github.com/DandelionSprout/adfilt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>open-telemetry/opentelemetry-helm-charts</title>
+    <updated>2022-05-31T01:53:48Z</updated>
+    <id>tag:github.com,2022-05-31:/open-telemetry/opentelemetry-helm-charts</id>
+    <link href="https://github.com/open-telemetry/opentelemetry-helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenTelemetry Helm Charts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>getoutreach/stencil-circleci</title>
-    <updated>2022-05-30T01:53:04Z</updated>
-    <id>tag:github.com,2022-05-30:/getoutreach/stencil-circleci</id>
+    <updated>2022-05-31T01:53:48Z</updated>
+    <id>tag:github.com,2022-05-31:/getoutreach/stencil-circleci</id>
     <link href="https://github.com/getoutreach/stencil-circleci" rel="alternate"></link>
     <summary type="html">&lt;p&gt;CircleCI configuration for stencil&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

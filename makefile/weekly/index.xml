@@ -1,182 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T02:14:11Z</updated>
+  <updated>2022-05-31T02:14:31Z</updated>
   <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>golang-standards/project-layout</title>
-    <updated>2022-05-30T02:14:11Z</updated>
-    <id>tag:github.com,2022-05-30:/golang-standards/project-layout</id>
+    <updated>2022-05-31T02:14:31Z</updated>
+    <id>tag:github.com,2022-05-31:/golang-standards/project-layout</id>
     <link href="https://github.com/golang-standards/project-layout" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Standard Go Project Layout&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>rabbitmq/rabbitmq-server</title>
-    <updated>2022-05-30T02:14:11Z</updated>
-    <id>tag:github.com,2022-05-30:/rabbitmq/rabbitmq-server</id>
+    <updated>2022-05-31T02:14:31Z</updated>
+    <id>tag:github.com,2022-05-31:/rabbitmq/rabbitmq-server</id>
     <link href="https://github.com/rabbitmq/rabbitmq-server" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Open source RabbitMQ: core server and tier 1 (built-in) plugins&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>zh-google-styleguide/zh-google-styleguide</title>
-    <updated>2022-05-30T02:14:11Z</updated>
-    <id>tag:github.com,2022-05-30:/zh-google-styleguide/zh-google-styleguide</id>
+    <updated>2022-05-31T02:14:31Z</updated>
+    <id>tag:github.com,2022-05-31:/zh-google-styleguide/zh-google-styleguide</id>
     <link href="https://github.com/zh-google-styleguide/zh-google-styleguide" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Google 开源项目风格指南 (中文版)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>openwrt/packages</title>
+    <updated>2022-05-31T02:14:31Z</updated>
+    <id>tag:github.com,2022-05-31:/openwrt/packages</id>
+    <link href="https://github.com/openwrt/packages" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>open-telemetry/opentelemetry-specification</title>
-    <updated>2022-05-30T02:14:11Z</updated>
-    <id>tag:github.com,2022-05-30:/open-telemetry/opentelemetry-specification</id>
+    <updated>2022-05-31T02:14:31Z</updated>
+    <id>tag:github.com,2022-05-31:/open-telemetry/opentelemetry-specification</id>
     <link href="https://github.com/open-telemetry/opentelemetry-specification" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Specifications for OpenTelemetry&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>buildroot/buildroot</title>
-    <updated>2022-05-30T02:14:11Z</updated>
-    <id>tag:github.com,2022-05-30:/buildroot/buildroot</id>
-    <link href="https://github.com/buildroot/buildroot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at http://git.buildroot.net/buildroot/. Do not open issues or file pull requests here.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>confluentinc/demos-docker-common</title>
-    <updated>2022-05-30T02:14:11Z</updated>
-    <id>tag:github.com,2022-05-30:/confluentinc/demos-docker-common</id>
+    <updated>2022-05-31T02:14:31Z</updated>
+    <id>tag:github.com,2022-05-31:/confluentinc/demos-docker-common</id>
     <link href="https://github.com/confluentinc/demos-docker-common" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>prometheus/client_model</title>
-    <updated>2022-05-30T02:14:11Z</updated>
-    <id>tag:github.com,2022-05-30:/prometheus/client_model</id>
-    <link href="https://github.com/prometheus/client_model" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Data model artifacts for Prometheus.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>buildroot/buildroot</title>
+    <updated>2022-05-31T02:14:31Z</updated>
+    <id>tag:github.com,2022-05-31:/buildroot/buildroot</id>
+    <link href="https://github.com/buildroot/buildroot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at http://git.buildroot.net/buildroot/. Do not open issues or file pull requests here.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>sharanda/manrope</title>
-    <updated>2022-05-30T02:14:11Z</updated>
-    <id>tag:github.com,2022-05-30:/sharanda/manrope</id>
+    <updated>2022-05-31T02:14:31Z</updated>
+    <id>tag:github.com,2022-05-31:/sharanda/manrope</id>
     <link href="https://github.com/sharanda/manrope" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Manrope font – modern geometric sans-serif&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Clever/csvlint</title>
-    <updated>2022-05-30T02:14:11Z</updated>
-    <id>tag:github.com,2022-05-30:/Clever/csvlint</id>
-    <link href="https://github.com/Clever/csvlint" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;library and command line tool that validates a CSV file&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>thockin/go-build-template</title>
-    <updated>2022-05-30T02:14:11Z</updated>
-    <id>tag:github.com,2022-05-30:/thockin/go-build-template</id>
-    <link href="https://github.com/thockin/go-build-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Makefile/Dockerfile example for Go projects.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>waveaccounting/terraform-aws-chatbot-slack-configuration</title>
-    <updated>2022-05-30T02:14:11Z</updated>
-    <id>tag:github.com,2022-05-30:/waveaccounting/terraform-aws-chatbot-slack-configuration</id>
+    <updated>2022-05-31T02:14:31Z</updated>
+    <id>tag:github.com,2022-05-31:/waveaccounting/terraform-aws-chatbot-slack-configuration</id>
     <link href="https://github.com/waveaccounting/terraform-aws-chatbot-slack-configuration" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Module to enable Chatbot Slack channel configuration in Terraform&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SiftScience/sift-ios</title>
-    <updated>2022-05-30T02:14:11Z</updated>
-    <id>tag:github.com,2022-05-30:/SiftScience/sift-ios</id>
-    <link href="https://github.com/SiftScience/sift-ios" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sift iOS SDK&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>prometheus/client_model</title>
+    <updated>2022-05-31T02:14:31Z</updated>
+    <id>tag:github.com,2022-05-31:/prometheus/client_model</id>
+    <link href="https://github.com/prometheus/client_model" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Data model artifacts for Prometheus.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Clever/csvlint</title>
+    <updated>2022-05-31T02:14:31Z</updated>
+    <id>tag:github.com,2022-05-31:/Clever/csvlint</id>
+    <link href="https://github.com/Clever/csvlint" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;library and command line tool that validates a CSV file&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>niudai/How-to-be-a-good-programmer</title>
-    <updated>2022-05-30T02:14:11Z</updated>
-    <id>tag:github.com,2022-05-30:/niudai/How-to-be-a-good-programmer</id>
+    <updated>2022-05-31T02:14:31Z</updated>
+    <id>tag:github.com,2022-05-31:/niudai/How-to-be-a-good-programmer</id>
     <link href="https://github.com/niudai/How-to-be-a-good-programmer" rel="alternate"></link>
     <summary type="html">&lt;p&gt;I&#39;m here to tell you some amazing stuff which teacher would never tell you.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>foostan/crkbd</title>
-    <updated>2022-05-30T02:14:11Z</updated>
-    <id>tag:github.com,2022-05-30:/foostan/crkbd</id>
-    <link href="https://github.com/foostan/crkbd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SiftScience/sift-ios</title>
+    <updated>2022-05-31T02:14:31Z</updated>
+    <id>tag:github.com,2022-05-31:/SiftScience/sift-ios</id>
+    <link href="https://github.com/SiftScience/sift-ios" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sift iOS SDK&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Naereen/badges</title>
+    <updated>2022-05-31T02:14:31Z</updated>
+    <id>tag:github.com,2022-05-31:/Naereen/badges</id>
+    <link href="https://github.com/Naereen/badges" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📝 Markdown code for lots of small badges 🎀 📌 (shields.io, forthebadge.com etc) 😎. Contributions are welcome! Please add yours!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>gobuffalo/gitgen</title>
-    <updated>2022-05-30T02:14:11Z</updated>
-    <id>tag:github.com,2022-05-30:/gobuffalo/gitgen</id>
+    <updated>2022-05-31T02:14:31Z</updated>
+    <id>tag:github.com,2022-05-31:/gobuffalo/gitgen</id>
     <link href="https://github.com/gobuffalo/gitgen" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>fiatjaf/lnurl-rfc</title>
-    <updated>2022-05-30T02:14:11Z</updated>
-    <id>tag:github.com,2022-05-30:/fiatjaf/lnurl-rfc</id>
+    <updated>2022-05-31T02:14:31Z</updated>
+    <id>tag:github.com,2022-05-31:/fiatjaf/lnurl-rfc</id>
     <link href="https://github.com/fiatjaf/lnurl-rfc" rel="alternate"></link>
     <summary type="html">&lt;p&gt;lnurl specifications&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>mesosphere/kommander-applications</title>
-    <updated>2022-05-30T02:14:11Z</updated>
-    <id>tag:github.com,2022-05-30:/mesosphere/kommander-applications</id>
+    <updated>2022-05-31T02:14:31Z</updated>
+    <id>tag:github.com,2022-05-31:/mesosphere/kommander-applications</id>
     <link href="https://github.com/mesosphere/kommander-applications" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>inaka/elvis.mk</title>
-    <updated>2022-05-30T02:14:11Z</updated>
-    <id>tag:github.com,2022-05-30:/inaka/elvis.mk</id>
-    <link href="https://github.com/inaka/elvis.mk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;3rd party elrang.mk plug-in for Elvis&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>uber/go.uber.org</title>
-    <updated>2022-05-30T02:14:11Z</updated>
-    <id>tag:github.com,2022-05-30:/uber/go.uber.org</id>
-    <link href="https://github.com/uber/go.uber.org" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Golang https://go.uber.org custom import path&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>thockin/go-build-template</title>
+    <updated>2022-05-31T02:14:31Z</updated>
+    <id>tag:github.com,2022-05-31:/thockin/go-build-template</id>
+    <link href="https://github.com/thockin/go-build-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Makefile/Dockerfile example for Go projects.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>mkubecek/vmware-host-modules</title>
-    <updated>2022-05-30T02:14:11Z</updated>
-    <id>tag:github.com,2022-05-30:/mkubecek/vmware-host-modules</id>
+    <updated>2022-05-31T02:14:31Z</updated>
+    <id>tag:github.com,2022-05-31:/mkubecek/vmware-host-modules</id>
     <link href="https://github.com/mkubecek/vmware-host-modules" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Patches needed to build VMware (Player and Workstation) host modules against recent kernels&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>gl-inet/gl-infra-builder</title>
+    <updated>2022-05-31T02:14:31Z</updated>
+    <id>tag:github.com,2022-05-31:/gl-inet/gl-infra-builder</id>
+    <link href="https://github.com/gl-inet/gl-infra-builder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>uber/go.uber.org</title>
+    <updated>2022-05-31T02:14:31Z</updated>
+    <id>tag:github.com,2022-05-31:/uber/go.uber.org</id>
+    <link href="https://github.com/uber/go.uber.org" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Golang https://go.uber.org custom import path&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>inaka/elvis.mk</title>
+    <updated>2022-05-31T02:14:31Z</updated>
+    <id>tag:github.com,2022-05-31:/inaka/elvis.mk</id>
+    <link href="https://github.com/inaka/elvis.mk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;3rd party elrang.mk plug-in for Elvis&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>ChargePoint/buildroot</title>
-    <updated>2022-05-30T02:14:11Z</updated>
-    <id>tag:github.com,2022-05-30:/ChargePoint/buildroot</id>
+    <updated>2022-05-31T02:14:31Z</updated>
+    <id>tag:github.com,2022-05-31:/ChargePoint/buildroot</id>
     <link href="https://github.com/ChargePoint/buildroot" rel="alternate"></link>
     <summary type="html">&lt;p&gt;ChargePoint internal mirror of buildroot. Upstream: git://git.busybox.net/buildroot&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kubernetes/design-proposals-archive</title>
-    <updated>2022-05-30T02:14:11Z</updated>
-    <id>tag:github.com,2022-05-30:/kubernetes/design-proposals-archive</id>
-    <link href="https://github.com/kubernetes/design-proposals-archive" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Archive of Kubernetes Design Proposals&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hyper-type/hahmlet</title>
-    <updated>2022-05-30T02:14:11Z</updated>
-    <id>tag:github.com,2022-05-30:/hyper-type/hahmlet</id>
-    <link href="https://github.com/hyper-type/hahmlet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hahmlet font by Minjoo Ham and Mark Frömberg aka Hypertype&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>counteractive/incident-response-plan-template</title>
-    <updated>2022-05-30T02:14:11Z</updated>
-    <id>tag:github.com,2022-05-30:/counteractive/incident-response-plan-template</id>
+    <updated>2022-05-31T02:14:31Z</updated>
+    <id>tag:github.com,2022-05-31:/counteractive/incident-response-plan-template</id>
     <link href="https://github.com/counteractive/incident-response-plan-template" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A concise, directive, specific, flexible, and free incident response plan template&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>temporalio/api</title>
-    <updated>2022-05-30T02:14:11Z</updated>
-    <id>tag:github.com,2022-05-30:/temporalio/api</id>
-    <link href="https://github.com/temporalio/api" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Temporal gRPC API and proto files&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hyper-type/hahmlet</title>
+    <updated>2022-05-31T02:14:31Z</updated>
+    <id>tag:github.com,2022-05-31:/hyper-type/hahmlet</id>
+    <link href="https://github.com/hyper-type/hahmlet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hahmlet font by Minjoo Ham and Mark Frömberg aka Hypertype&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

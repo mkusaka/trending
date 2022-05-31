@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T01:49:53Z</updated>
+  <updated>2022-05-31T01:50:29Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>doodles526/Atom-Group</title>
-    <updated>2022-05-30T01:49:53Z</updated>
-    <id>tag:github.com,2022-05-30:/doodles526/Atom-Group</id>
-    <link href="https://github.com/doodles526/Atom-Group" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ILC 2012 Cluster + openMPI project&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>puppetlabs/puppetlabs-pe_databases</title>
-    <updated>2022-05-30T01:49:53Z</updated>
-    <id>tag:github.com,2022-05-30:/puppetlabs/puppetlabs-pe_databases</id>
+    <updated>2022-05-31T01:50:29Z</updated>
+    <id>tag:github.com,2022-05-31:/puppetlabs/puppetlabs-pe_databases</id>
     <link href="https://github.com/puppetlabs/puppetlabs-pe_databases" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A Puppet Module for Backing Up / Maintaining / Tuning Your Puppet Enterprise Databases&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

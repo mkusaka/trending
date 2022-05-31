@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub YASnippet Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T02:56:24Z</updated>
+  <updated>2022-05-31T02:57:12Z</updated>
   <subtitle>Monthly Trending of YASnippet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>AndreaCrotti/yasnippet-snippets</title>
-    <updated>2022-05-30T02:56:24Z</updated>
-    <id>tag:github.com,2022-05-30:/AndreaCrotti/yasnippet-snippets</id>
+    <updated>2022-05-31T02:57:12Z</updated>
+    <id>tag:github.com,2022-05-31:/AndreaCrotti/yasnippet-snippets</id>
     <link href="https://github.com/AndreaCrotti/yasnippet-snippets" rel="alternate"></link>
     <summary type="html">&lt;p&gt;a collection of yasnippet snippets for many languages&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

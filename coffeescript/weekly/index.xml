@@ -1,132 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T02:04:42Z</updated>
+  <updated>2022-05-31T02:05:21Z</updated>
   <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>FelisCatus/SwitchyOmega</title>
-    <updated>2022-05-30T02:04:42Z</updated>
-    <id>tag:github.com,2022-05-30:/FelisCatus/SwitchyOmega</id>
+    <updated>2022-05-31T02:05:21Z</updated>
+    <id>tag:github.com,2022-05-31:/FelisCatus/SwitchyOmega</id>
     <link href="https://github.com/FelisCatus/SwitchyOmega" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Manage and switch between multiple proxies quickly &amp; easily.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>adaltas/node-csv</title>
-    <updated>2022-05-30T02:04:42Z</updated>
-    <id>tag:github.com,2022-05-30:/adaltas/node-csv</id>
+    <updated>2022-05-31T02:05:21Z</updated>
+    <id>tag:github.com,2022-05-31:/adaltas/node-csv</id>
     <link href="https://github.com/adaltas/node-csv" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Full featured CSV parser with simple api and tested against large datasets.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>mojs/mojs</title>
-    <updated>2022-05-30T02:04:42Z</updated>
-    <id>tag:github.com,2022-05-30:/mojs/mojs</id>
+    <updated>2022-05-31T02:05:21Z</updated>
+    <id>tag:github.com,2022-05-31:/mojs/mojs</id>
     <link href="https://github.com/mojs/mojs" rel="alternate"></link>
     <summary type="html">&lt;p&gt;The motion graphics toolbelt for the web&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>codecombat/codecombat</title>
-    <updated>2022-05-30T02:04:42Z</updated>
-    <id>tag:github.com,2022-05-30:/codecombat/codecombat</id>
-    <link href="https://github.com/codecombat/codecombat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Game for learning how to code.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>hellodigit/bondjs</title>
-    <updated>2022-05-30T02:04:42Z</updated>
-    <id>tag:github.com,2022-05-30:/hellodigit/bondjs</id>
+    <updated>2022-05-31T02:05:21Z</updated>
+    <id>tag:github.com,2022-05-31:/hellodigit/bondjs</id>
     <link href="https://github.com/hellodigit/bondjs" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Deprecated, use sinon&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>adamgamble/jenkins_wall_display_webgl</title>
-    <updated>2022-05-30T02:04:42Z</updated>
-    <id>tag:github.com,2022-05-30:/adamgamble/jenkins_wall_display_webgl</id>
-    <link href="https://github.com/adamgamble/jenkins_wall_display_webgl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>basecamp/trix</title>
+    <updated>2022-05-31T02:05:21Z</updated>
+    <id>tag:github.com,2022-05-31:/basecamp/trix</id>
+    <link href="https://github.com/basecamp/trix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A rich text editor for everyday writing&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>nicolaskruchten/pivottable</title>
-    <updated>2022-05-30T02:04:42Z</updated>
-    <id>tag:github.com,2022-05-30:/nicolaskruchten/pivottable</id>
+    <updated>2022-05-31T02:05:21Z</updated>
+    <id>tag:github.com,2022-05-31:/nicolaskruchten/pivottable</id>
     <link href="https://github.com/nicolaskruchten/pivottable" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag&#39;n&#39;drop.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tongue/TrippleCheese</title>
-    <updated>2022-05-30T02:04:42Z</updated>
-    <id>tag:github.com,2022-05-30:/tongue/TrippleCheese</id>
-    <link href="https://github.com/tongue/TrippleCheese" rel="alternate"></link>
+    <title>adamgamble/jenkins_wall_display_webgl</title>
+    <updated>2022-05-31T02:05:21Z</updated>
+    <id>tag:github.com,2022-05-31:/adamgamble/jenkins_wall_display_webgl</id>
+    <link href="https://github.com/adamgamble/jenkins_wall_display_webgl" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>github/hubot-scripts</title>
-    <updated>2022-05-30T02:04:42Z</updated>
-    <id>tag:github.com,2022-05-30:/github/hubot-scripts</id>
-    <link href="https://github.com/github/hubot-scripts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DEPRECATED, see https://github.com/github/hubot-scripts/issues/1113 for details - optional scripts for hubot, opt in via hubot-scripts.json&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>Glavin001/atom-beautify</title>
-    <updated>2022-05-30T02:04:42Z</updated>
-    <id>tag:github.com,2022-05-30:/Glavin001/atom-beautify</id>
+    <updated>2022-05-31T02:05:21Z</updated>
+    <id>tag:github.com,2022-05-31:/Glavin001/atom-beautify</id>
     <link href="https://github.com/Glavin001/atom-beautify" rel="alternate"></link>
     <summary type="html">&lt;p&gt;📣 Help Wanted - Looking for Maintainer: https://github.com/Glavin001/atom-beautify/issues/2572 | 💄 Universal beautification package for Atom editor (⚠️ Currently migrating to https://github.com/Unibeautify/ and have very limited bandwidth for Atom-Beautify Issues. Thank you for your patience and understanding ❤️ )&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>jakubroztocil/cloudtunes</title>
-    <updated>2022-05-30T02:04:42Z</updated>
-    <id>tag:github.com,2022-05-30:/jakubroztocil/cloudtunes</id>
+    <updated>2022-05-31T02:05:21Z</updated>
+    <id>tag:github.com,2022-05-31:/jakubroztocil/cloudtunes</id>
     <link href="https://github.com/jakubroztocil/cloudtunes" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Web-based music player for the cloud ☁️ 🎶 Play music from YouTube, Dropbox, etc.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>github/hubot-scripts</title>
+    <updated>2022-05-31T02:05:21Z</updated>
+    <id>tag:github.com,2022-05-31:/github/hubot-scripts</id>
+    <link href="https://github.com/github/hubot-scripts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DEPRECATED, see https://github.com/github/hubot-scripts/issues/1113 for details - optional scripts for hubot, opt in via hubot-scripts.json&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>fetch/jquery-jwplayer</title>
-    <updated>2022-05-30T02:04:42Z</updated>
-    <id>tag:github.com,2022-05-30:/fetch/jquery-jwplayer</id>
+    <updated>2022-05-31T02:05:21Z</updated>
+    <id>tag:github.com,2022-05-31:/fetch/jquery-jwplayer</id>
     <link href="https://github.com/fetch/jquery-jwplayer" rel="alternate"></link>
     <summary type="html">&lt;p&gt;jQuery wrapper for JWPlayer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>mulesoft/osprey-cli</title>
-    <updated>2022-05-30T02:04:42Z</updated>
-    <id>tag:github.com,2022-05-30:/mulesoft/osprey-cli</id>
+    <updated>2022-05-31T02:05:21Z</updated>
+    <id>tag:github.com,2022-05-31:/mulesoft/osprey-cli</id>
     <link href="https://github.com/mulesoft/osprey-cli" rel="alternate"></link>
     <summary type="html">&lt;p&gt;The Command Line Interface (CLI) scaffolding tool to generate Osprey-based applications, ideally from a pre-defined RAML API spec, with just a single command.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dropbox/zxcvbn</title>
-    <updated>2022-05-30T02:04:42Z</updated>
-    <id>tag:github.com,2022-05-30:/dropbox/zxcvbn</id>
-    <link href="https://github.com/dropbox/zxcvbn" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Low-Budget Password Strength Estimation&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>michaelficarra/cscodegen</title>
-    <updated>2022-05-30T02:04:42Z</updated>
-    <id>tag:github.com,2022-05-30:/michaelficarra/cscodegen</id>
+    <updated>2022-05-31T02:05:21Z</updated>
+    <id>tag:github.com,2022-05-31:/michaelficarra/cscodegen</id>
     <link href="https://github.com/michaelficarra/cscodegen" rel="alternate"></link>
     <summary type="html">&lt;p&gt;♻️ CoffeeScript code generator&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>node-cache/node-cache</title>
-    <updated>2022-05-30T02:04:42Z</updated>
-    <id>tag:github.com,2022-05-30:/node-cache/node-cache</id>
-    <link href="https://github.com/node-cache/node-cache" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a node internal (in-memory) caching module&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jashkenas/coffeescript</title>
-    <updated>2022-05-30T02:04:42Z</updated>
-    <id>tag:github.com,2022-05-30:/jashkenas/coffeescript</id>
-    <link href="https://github.com/jashkenas/coffeescript" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Unfancy JavaScript&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Leonidas-from-XIV/node-xml2js</title>
+    <updated>2022-05-31T02:05:21Z</updated>
+    <id>tag:github.com,2022-05-31:/Leonidas-from-XIV/node-xml2js</id>
+    <link href="https://github.com/Leonidas-from-XIV/node-xml2js" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;XML to JavaScript object converter.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>mikemurray/kis</title>
-    <updated>2022-05-30T02:04:42Z</updated>
-    <id>tag:github.com,2022-05-30:/mikemurray/kis</id>
+    <updated>2022-05-31T02:05:21Z</updated>
+    <id>tag:github.com,2022-05-31:/mikemurray/kis</id>
     <link href="https://github.com/mikemurray/kis" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A simple static site generator using Jade, CoffeeScript and Stylus&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

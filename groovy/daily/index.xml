@@ -1,98 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T01:41:11Z</updated>
+  <updated>2022-05-31T01:41:28Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
+    <title>rundeck/rundeck</title>
+    <updated>2022-05-31T01:41:28Z</updated>
+    <id>tag:github.com,2022-05-31:/rundeck/rundeck</id>
+    <link href="https://github.com/rundeck/rundeck" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>bregman-arie/devops-resources</title>
-    <updated>2022-05-30T01:41:11Z</updated>
-    <id>tag:github.com,2022-05-30:/bregman-arie/devops-resources</id>
+    <updated>2022-05-31T01:41:28Z</updated>
+    <id>tag:github.com,2022-05-31:/bregman-arie/devops-resources</id>
     <link href="https://github.com/bregman-arie/devops-resources" rel="alternate"></link>
     <summary type="html">&lt;p&gt;DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>zeyangli/jenkinslibrary</title>
+    <updated>2022-05-31T01:41:28Z</updated>
+    <id>tag:github.com,2022-05-31:/zeyangli/jenkinslibrary</id>
+    <link href="https://github.com/zeyangli/jenkinslibrary" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jenkins共享库&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Sonal0409/Purdue_DevOps</title>
+    <updated>2022-05-31T01:41:28Z</updated>
+    <id>tag:github.com,2022-05-31:/Sonal0409/Purdue_DevOps</id>
+    <link href="https://github.com/Sonal0409/Purdue_DevOps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>SmartThingsCommunity/SmartThingsPublic</title>
-    <updated>2022-05-30T01:41:11Z</updated>
-    <id>tag:github.com,2022-05-30:/SmartThingsCommunity/SmartThingsPublic</id>
+    <updated>2022-05-31T01:41:28Z</updated>
+    <id>tag:github.com,2022-05-31:/SmartThingsCommunity/SmartThingsPublic</id>
     <link href="https://github.com/SmartThingsCommunity/SmartThingsPublic" rel="alternate"></link>
     <summary type="html">&lt;p&gt;SmartThings open-source DeviceTypeHandlers and SmartApps code&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>gradle/gradle</title>
-    <updated>2022-05-30T01:41:11Z</updated>
-    <id>tag:github.com,2022-05-30:/gradle/gradle</id>
+    <updated>2022-05-31T01:41:28Z</updated>
+    <id>tag:github.com,2022-05-31:/gradle/gradle</id>
     <link href="https://github.com/gradle/gradle" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Adaptable, fast automation for all&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>MithunTechnologiesDevOps/JenkinsSharedLibraries</title>
-    <updated>2022-05-30T01:41:11Z</updated>
-    <id>tag:github.com,2022-05-30:/MithunTechnologiesDevOps/JenkinsSharedLibraries</id>
-    <link href="https://github.com/MithunTechnologiesDevOps/JenkinsSharedLibraries" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rundeck/rundeck</title>
-    <updated>2022-05-30T01:41:11Z</updated>
-    <id>tag:github.com,2022-05-30:/rundeck/rundeck</id>
-    <link href="https://github.com/rundeck/rundeck" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>fison67/LG-Connector</title>
-    <updated>2022-05-30T01:41:11Z</updated>
-    <id>tag:github.com,2022-05-30:/fison67/LG-Connector</id>
-    <link href="https://github.com/fison67/LG-Connector" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Connector for LG Devices with SmartThings&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bmuschko/gradle-docker-plugin</title>
+    <updated>2022-05-31T01:41:28Z</updated>
+    <id>tag:github.com,2022-05-31:/bmuschko/gradle-docker-plugin</id>
+    <link href="https://github.com/bmuschko/gradle-docker-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gradle plugin for managing Docker images and containers.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>nextflow-io/nextflow</title>
-    <updated>2022-05-30T01:41:11Z</updated>
-    <id>tag:github.com,2022-05-30:/nextflow-io/nextflow</id>
+    <updated>2022-05-31T01:41:28Z</updated>
+    <id>tag:github.com,2022-05-31:/nextflow-io/nextflow</id>
     <link href="https://github.com/nextflow-io/nextflow" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A DSL for data-driven computational pipelines&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>iquix/Smartthings</title>
-    <updated>2022-05-30T01:41:11Z</updated>
-    <id>tag:github.com,2022-05-30:/iquix/Smartthings</id>
-    <link href="https://github.com/iquix/Smartthings" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Custom DTHs for Smartthings&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fison67/LG-Connector</title>
+    <updated>2022-05-31T01:41:28Z</updated>
+    <id>tag:github.com,2022-05-31:/fison67/LG-Connector</id>
+    <link href="https://github.com/fison67/LG-Connector" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Connector for LG Devices with SmartThings&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>johnrengelman/shadow</title>
-    <updated>2022-05-30T01:41:11Z</updated>
-    <id>tag:github.com,2022-05-30:/johnrengelman/shadow</id>
+    <updated>2022-05-31T01:41:28Z</updated>
+    <id>tag:github.com,2022-05-31:/johnrengelman/shadow</id>
     <link href="https://github.com/johnrengelman/shadow" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven&#39;s Shade plugin.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>IBM/dbb-zappbuild</title>
-    <updated>2022-05-30T01:41:11Z</updated>
-    <id>tag:github.com,2022-05-30:/IBM/dbb-zappbuild</id>
-    <link href="https://github.com/IBM/dbb-zappbuild" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;zAppBuild is a generic build solution for building z/OS applications using Apache Groovy build scripts and IBM Dependency Based Build (DBB) APIs.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mkdecisiondev/moqui-pac4j-authentication</title>
-    <updated>2022-05-30T01:41:11Z</updated>
-    <id>tag:github.com,2022-05-30:/mkdecisiondev/moqui-pac4j-authentication</id>
-    <link href="https://github.com/mkdecisiondev/moqui-pac4j-authentication" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Single Sign-on authentication support for Moqui&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LandmakTechnology/JenkinsSharedLibraries</title>
+    <updated>2022-05-31T01:41:28Z</updated>
+    <id>tag:github.com,2022-05-31:/LandmakTechnology/JenkinsSharedLibraries</id>
+    <link href="https://github.com/LandmakTechnology/JenkinsSharedLibraries" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>google/protobuf-gradle-plugin</title>
-    <updated>2022-05-30T01:41:11Z</updated>
-    <id>tag:github.com,2022-05-30:/google/protobuf-gradle-plugin</id>
+    <updated>2022-05-31T01:41:28Z</updated>
+    <id>tag:github.com,2022-05-31:/google/protobuf-gradle-plugin</id>
     <link href="https://github.com/google/protobuf-gradle-plugin" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Protobuf Plugin for Gradle&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>embeddedartistry/templates</title>
-    <updated>2022-05-30T01:41:11Z</updated>
-    <id>tag:github.com,2022-05-30:/embeddedartistry/templates</id>
-    <link href="https://github.com/embeddedartistry/templates" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Document templates for open-source projects (README, CONTRIBUTING, GitHub templates)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kezong/fat-aar-android</title>
+    <updated>2022-05-31T01:41:28Z</updated>
+    <id>tag:github.com,2022-05-31:/kezong/fat-aar-android</id>
+    <link href="https://github.com/kezong/fat-aar-android" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A gradle plugin that merge dependencies into the final aar file works with AGP 3.+&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

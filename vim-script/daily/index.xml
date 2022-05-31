@@ -1,182 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T01:56:13Z</updated>
+  <updated>2022-05-31T01:56:52Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>craftzdog/dotfiles-public</title>
-    <updated>2022-05-30T01:56:13Z</updated>
-    <id>tag:github.com,2022-05-30:/craftzdog/dotfiles-public</id>
-    <link href="https://github.com/craftzdog/dotfiles-public" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My personal dotfiles&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>junegunn/vim-plug</title>
-    <updated>2022-05-30T01:56:13Z</updated>
-    <id>tag:github.com,2022-05-30:/junegunn/vim-plug</id>
-    <link href="https://github.com/junegunn/vim-plug" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌺 Minimalist Vim Plugin Manager&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>github/copilot.vim</title>
-    <updated>2022-05-30T01:56:13Z</updated>
-    <id>tag:github.com,2022-05-30:/github/copilot.vim</id>
-    <link href="https://github.com/github/copilot.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Neovim plugin for GitHub Copilot&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>vim/vim</title>
-    <updated>2022-05-30T01:56:13Z</updated>
-    <id>tag:github.com,2022-05-30:/vim/vim</id>
-    <link href="https://github.com/vim/vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The official Vim repository&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>neovim/neovim</title>
-    <updated>2022-05-30T01:56:13Z</updated>
-    <id>tag:github.com,2022-05-30:/neovim/neovim</id>
+    <updated>2022-05-31T01:56:52Z</updated>
+    <id>tag:github.com,2022-05-31:/neovim/neovim</id>
     <link href="https://github.com/neovim/neovim" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Vim-fork focused on extensibility and usability&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rust-lang/rust.vim</title>
-    <updated>2022-05-30T01:56:13Z</updated>
-    <id>tag:github.com,2022-05-30:/rust-lang/rust.vim</id>
-    <link href="https://github.com/rust-lang/rust.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim configuration for Rust.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>junegunn/vim-plug</title>
+    <updated>2022-05-31T01:56:52Z</updated>
+    <id>tag:github.com,2022-05-31:/junegunn/vim-plug</id>
+    <link href="https://github.com/junegunn/vim-plug" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌺 Minimalist Vim Plugin Manager&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>mg979/vim-visual-multi</title>
-    <updated>2022-05-30T01:56:13Z</updated>
-    <id>tag:github.com,2022-05-30:/mg979/vim-visual-multi</id>
+    <updated>2022-05-31T01:56:52Z</updated>
+    <id>tag:github.com,2022-05-31:/mg979/vim-visual-multi</id>
     <link href="https://github.com/mg979/vim-visual-multi" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Multiple cursors plugin for vim/neovim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>VundleVim/Vundle.vim</title>
-    <updated>2022-05-30T01:56:13Z</updated>
-    <id>tag:github.com,2022-05-30:/VundleVim/Vundle.vim</id>
-    <link href="https://github.com/VundleVim/Vundle.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vundle, the plug-in manager for Vim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>craftzdog/dotfiles-public</title>
+    <updated>2022-05-31T01:56:52Z</updated>
+    <id>tag:github.com,2022-05-31:/craftzdog/dotfiles-public</id>
+    <link href="https://github.com/craftzdog/dotfiles-public" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My personal dotfiles&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sainnhe/sonokai</title>
-    <updated>2022-05-30T01:56:13Z</updated>
-    <id>tag:github.com,2022-05-30:/sainnhe/sonokai</id>
-    <link href="https://github.com/sainnhe/sonokai" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;High Contrast &amp; Vivid Color Scheme based on Monokai Pro&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sainnhe/gruvbox-material</title>
-    <updated>2022-05-30T01:56:13Z</updated>
-    <id>tag:github.com,2022-05-30:/sainnhe/gruvbox-material</id>
-    <link href="https://github.com/sainnhe/gruvbox-material" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gruvbox with Material Palette&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mattn/emmet-vim</title>
-    <updated>2022-05-30T01:56:13Z</updated>
-    <id>tag:github.com,2022-05-30:/mattn/emmet-vim</id>
-    <link href="https://github.com/mattn/emmet-vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;emmet for vim: http://emmet.io/&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jiangmiao/auto-pairs</title>
-    <updated>2022-05-30T01:56:13Z</updated>
-    <id>tag:github.com,2022-05-30:/jiangmiao/auto-pairs</id>
-    <link href="https://github.com/jiangmiao/auto-pairs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim plugin, insert or delete brackets, parens, quotes in pair&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sainnhe/everforest</title>
-    <updated>2022-05-30T01:56:13Z</updated>
-    <id>tag:github.com,2022-05-30:/sainnhe/everforest</id>
-    <link href="https://github.com/sainnhe/everforest" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌲 Comfortable &amp; Pleasant Color Scheme for Vim&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>morhetz/gruvbox</title>
-    <updated>2022-05-30T01:56:13Z</updated>
-    <id>tag:github.com,2022-05-30:/morhetz/gruvbox</id>
-    <link href="https://github.com/morhetz/gruvbox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Retro groove color scheme for Vim&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>easymotion/vim-easymotion</title>
-    <updated>2022-05-30T01:56:13Z</updated>
-    <id>tag:github.com,2022-05-30:/easymotion/vim-easymotion</id>
-    <link href="https://github.com/easymotion/vim-easymotion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim motions on speed!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hrsh7th/vim-vsnip</title>
-    <updated>2022-05-30T01:56:13Z</updated>
-    <id>tag:github.com,2022-05-30:/hrsh7th/vim-vsnip</id>
-    <link href="https://github.com/hrsh7th/vim-vsnip" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Snippet plugin for vim/nvim that supports LSP/VSCode&#39;s snippet format.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ryanoasis/vim-devicons</title>
-    <updated>2022-05-30T01:56:13Z</updated>
-    <id>tag:github.com,2022-05-30:/ryanoasis/vim-devicons</id>
-    <link href="https://github.com/ryanoasis/vim-devicons" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tpope/vim-commentary</title>
-    <updated>2022-05-30T01:56:13Z</updated>
-    <id>tag:github.com,2022-05-30:/tpope/vim-commentary</id>
-    <link href="https://github.com/tpope/vim-commentary" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;commentary.vim: comment stuff out&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vim/vim</title>
+    <updated>2022-05-31T01:56:52Z</updated>
+    <id>tag:github.com,2022-05-31:/vim/vim</id>
+    <link href="https://github.com/vim/vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The official Vim repository&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>tpope/vim-fugitive</title>
-    <updated>2022-05-30T01:56:13Z</updated>
-    <id>tag:github.com,2022-05-30:/tpope/vim-fugitive</id>
+    <updated>2022-05-31T01:56:52Z</updated>
+    <id>tag:github.com,2022-05-31:/tpope/vim-fugitive</id>
     <link href="https://github.com/tpope/vim-fugitive" rel="alternate"></link>
     <summary type="html">&lt;p&gt;fugitive.vim: A Git wrapper so awesome, it should be illegal&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>vim-test/vim-test</title>
+    <updated>2022-05-31T01:56:52Z</updated>
+    <id>tag:github.com,2022-05-31:/vim-test/vim-test</id>
+    <link href="https://github.com/vim-test/vim-test" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Run your tests at the speed of thought&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tpope/vim-commentary</title>
+    <updated>2022-05-31T01:56:52Z</updated>
+    <id>tag:github.com,2022-05-31:/tpope/vim-commentary</id>
+    <link href="https://github.com/tpope/vim-commentary" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;commentary.vim: comment stuff out&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>morhetz/gruvbox</title>
+    <updated>2022-05-31T01:56:52Z</updated>
+    <id>tag:github.com,2022-05-31:/morhetz/gruvbox</id>
+    <link href="https://github.com/morhetz/gruvbox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Retro groove color scheme for Vim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fatih/vim-go</title>
+    <updated>2022-05-31T01:56:52Z</updated>
+    <id>tag:github.com,2022-05-31:/fatih/vim-go</id>
+    <link href="https://github.com/fatih/vim-go" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Go development plugin for Vim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dense-analysis/ale</title>
+    <updated>2022-05-31T01:56:52Z</updated>
+    <id>tag:github.com,2022-05-31:/dense-analysis/ale</id>
+    <link href="https://github.com/dense-analysis/ale" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vim-syntastic/syntastic</title>
+    <updated>2022-05-31T01:56:52Z</updated>
+    <id>tag:github.com,2022-05-31:/vim-syntastic/syntastic</id>
+    <link href="https://github.com/vim-syntastic/syntastic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Syntax checking hacks for vim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ryanoasis/vim-devicons</title>
+    <updated>2022-05-31T01:56:52Z</updated>
+    <id>tag:github.com,2022-05-31:/ryanoasis/vim-devicons</id>
+    <link href="https://github.com/ryanoasis/vim-devicons" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sainnhe/everforest</title>
+    <updated>2022-05-31T01:56:52Z</updated>
+    <id>tag:github.com,2022-05-31:/sainnhe/everforest</id>
+    <link href="https://github.com/sainnhe/everforest" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌲 Comfortable &amp; Pleasant Color Scheme for Vim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rust-lang/rust.vim</title>
+    <updated>2022-05-31T01:56:52Z</updated>
+    <id>tag:github.com,2022-05-31:/rust-lang/rust.vim</id>
+    <link href="https://github.com/rust-lang/rust.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim configuration for Rust.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>github/copilot.vim</title>
+    <updated>2022-05-31T01:56:52Z</updated>
+    <id>tag:github.com,2022-05-31:/github/copilot.vim</id>
+    <link href="https://github.com/github/copilot.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Neovim plugin for GitHub Copilot&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>preservim/tagbar</title>
+    <updated>2022-05-31T01:56:52Z</updated>
+    <id>tag:github.com,2022-05-31:/preservim/tagbar</id>
+    <link href="https://github.com/preservim/tagbar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim plugin that displays tags in a window, ordered by scope&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>preservim/nerdtree</title>
-    <updated>2022-05-30T01:56:13Z</updated>
-    <id>tag:github.com,2022-05-30:/preservim/nerdtree</id>
+    <updated>2022-05-31T01:56:52Z</updated>
+    <id>tag:github.com,2022-05-31:/preservim/nerdtree</id>
     <link href="https://github.com/preservim/nerdtree" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A tree explorer plugin for vim.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>tpope/vim-surround</title>
+    <updated>2022-05-31T01:56:52Z</updated>
+    <id>tag:github.com,2022-05-31:/tpope/vim-surround</id>
+    <link href="https://github.com/tpope/vim-surround" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jdhao/nvim-config</title>
+    <updated>2022-05-31T01:56:52Z</updated>
+    <id>tag:github.com,2022-05-31:/jdhao/nvim-config</id>
+    <link href="https://github.com/jdhao/nvim-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A modern Neovim configuration with full battery for Python, C++, Markdown, LaTeX, and more...&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jiangmiao/auto-pairs</title>
+    <updated>2022-05-31T01:56:52Z</updated>
+    <id>tag:github.com,2022-05-31:/jiangmiao/auto-pairs</id>
+    <link href="https://github.com/jiangmiao/auto-pairs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim plugin, insert or delete brackets, parens, quotes in pair&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>glepnir/dashboard-nvim</title>
-    <updated>2022-05-30T01:56:13Z</updated>
-    <id>tag:github.com,2022-05-30:/glepnir/dashboard-nvim</id>
+    <updated>2022-05-31T01:56:52Z</updated>
+    <id>tag:github.com,2022-05-31:/glepnir/dashboard-nvim</id>
     <link href="https://github.com/glepnir/dashboard-nvim" rel="alternate"></link>
     <summary type="html">&lt;p&gt;vim dashboard&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dstein64/vim-startuptime</title>
-    <updated>2022-05-30T01:56:13Z</updated>
-    <id>tag:github.com,2022-05-30:/dstein64/vim-startuptime</id>
-    <link href="https://github.com/dstein64/vim-startuptime" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⏲️ A Vim plugin for profiling Vim&#39;s startup time.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>easymotion/vim-easymotion</title>
+    <updated>2022-05-31T01:56:52Z</updated>
+    <id>tag:github.com,2022-05-31:/easymotion/vim-easymotion</id>
+    <link href="https://github.com/easymotion/vim-easymotion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim motions on speed!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mbbill/undotree</title>
-    <updated>2022-05-30T01:56:13Z</updated>
-    <id>tag:github.com,2022-05-30:/mbbill/undotree</id>
-    <link href="https://github.com/mbbill/undotree" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The undo history visualizer for VIM&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>preservim/nerdcommenter</title>
+    <updated>2022-05-31T01:56:52Z</updated>
+    <id>tag:github.com,2022-05-31:/preservim/nerdcommenter</id>
+    <link href="https://github.com/preservim/nerdcommenter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim plugin for intensely nerdy commenting powers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ntpeters/vim-better-whitespace</title>
-    <updated>2022-05-30T01:56:13Z</updated>
-    <id>tag:github.com,2022-05-30:/ntpeters/vim-better-whitespace</id>
-    <link href="https://github.com/ntpeters/vim-better-whitespace" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Better whitespace highlighting for Vim&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>andymass/vim-matchup</title>
-    <updated>2022-05-30T01:56:13Z</updated>
-    <id>tag:github.com,2022-05-30:/andymass/vim-matchup</id>
-    <link href="https://github.com/andymass/vim-matchup" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;vim match-up: even better % 👊 navigate and highlight matching words 👊 modern matchit and matchparen&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>joshdick/onedark.vim</title>
+    <updated>2022-05-31T01:56:52Z</updated>
+    <id>tag:github.com,2022-05-31:/joshdick/onedark.vim</id>
+    <link href="https://github.com/joshdick/onedark.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A dark Vim/Neovim color scheme inspired by Atom&#39;s One Dark syntax theme.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

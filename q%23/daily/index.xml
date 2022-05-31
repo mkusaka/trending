@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Q# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T01:50:15Z</updated>
+  <updated>2022-05-31T01:50:50Z</updated>
   <subtitle>Daily Trending of Q# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>microsoft/QuantumLibraries</title>
-    <updated>2022-05-30T01:50:15Z</updated>
-    <id>tag:github.com,2022-05-30:/microsoft/QuantumLibraries</id>
+    <updated>2022-05-31T01:50:50Z</updated>
+    <id>tag:github.com,2022-05-31:/microsoft/QuantumLibraries</id>
     <link href="https://github.com/microsoft/QuantumLibraries" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Q# libraries for the Quantum Development Kit&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

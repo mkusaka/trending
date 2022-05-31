@@ -1,90 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pug Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T02:48:24Z</updated>
+  <updated>2022-05-31T02:49:16Z</updated>
   <subtitle>Monthly Trending of Pug in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>anders94/blockchain-demo</title>
-    <updated>2022-05-30T02:48:24Z</updated>
-    <id>tag:github.com,2022-05-30:/anders94/blockchain-demo</id>
+    <updated>2022-05-31T02:49:16Z</updated>
+    <id>tag:github.com,2022-05-31:/anders94/blockchain-demo</id>
     <link href="https://github.com/anders94/blockchain-demo" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A web-based demonstration of blockchain concepts.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>StartBootstrap/startbootstrap-freelancer</title>
-    <updated>2022-05-30T02:48:24Z</updated>
-    <id>tag:github.com,2022-05-30:/StartBootstrap/startbootstrap-freelancer</id>
+    <updated>2022-05-31T02:49:16Z</updated>
+    <id>tag:github.com,2022-05-31:/StartBootstrap/startbootstrap-freelancer</id>
     <link href="https://github.com/StartBootstrap/startbootstrap-freelancer" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A flat design, one page, MIT licensed Bootstrap portfolio theme created by Start Bootstrap&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>StartBootstrap/startbootstrap-resume</title>
-    <updated>2022-05-30T02:48:24Z</updated>
-    <id>tag:github.com,2022-05-30:/StartBootstrap/startbootstrap-resume</id>
+    <updated>2022-05-31T02:49:16Z</updated>
+    <id>tag:github.com,2022-05-31:/StartBootstrap/startbootstrap-resume</id>
     <link href="https://github.com/StartBootstrap/startbootstrap-resume" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A Bootstrap 4 resume/CV theme created by Start Bootstrap&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>StartBootstrap/startbootstrap-sb-admin</title>
-    <updated>2022-05-30T02:48:24Z</updated>
-    <id>tag:github.com,2022-05-30:/StartBootstrap/startbootstrap-sb-admin</id>
+    <updated>2022-05-31T02:49:16Z</updated>
+    <id>tag:github.com,2022-05-31:/StartBootstrap/startbootstrap-sb-admin</id>
     <link href="https://github.com/StartBootstrap/startbootstrap-sb-admin" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A free, open source, Bootstrap admin theme created by Start Bootstrap&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>StartBootstrap/startbootstrap-creative</title>
-    <updated>2022-05-30T02:48:24Z</updated>
-    <id>tag:github.com,2022-05-30:/StartBootstrap/startbootstrap-creative</id>
-    <link href="https://github.com/StartBootstrap/startbootstrap-creative" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A one page HTML theme for creatives by Start Bootstrap&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>StartBootstrap/startbootstrap-grayscale</title>
+    <updated>2022-05-31T02:49:16Z</updated>
+    <id>tag:github.com,2022-05-31:/StartBootstrap/startbootstrap-grayscale</id>
+    <link href="https://github.com/StartBootstrap/startbootstrap-grayscale" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A multipurpose one page Bootstrap theme created by Start Bootstrap&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>StartBootstrap/startbootstrap-agency</title>
-    <updated>2022-05-30T02:48:24Z</updated>
-    <id>tag:github.com,2022-05-30:/StartBootstrap/startbootstrap-agency</id>
+    <updated>2022-05-31T02:49:16Z</updated>
+    <id>tag:github.com,2022-05-31:/StartBootstrap/startbootstrap-agency</id>
     <link href="https://github.com/StartBootstrap/startbootstrap-agency" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A one page HTML theme for agencies created by Start Bootstrap&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>StartBootstrap/startbootstrap-clean-blog</title>
-    <updated>2022-05-30T02:48:24Z</updated>
-    <id>tag:github.com,2022-05-30:/StartBootstrap/startbootstrap-clean-blog</id>
+    <updated>2022-05-31T02:49:16Z</updated>
+    <id>tag:github.com,2022-05-31:/StartBootstrap/startbootstrap-clean-blog</id>
     <link href="https://github.com/StartBootstrap/startbootstrap-clean-blog" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A clean Bootstrap blog theme created by Start Bootstrap&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>StartBootstrap/startbootstrap-grayscale</title>
-    <updated>2022-05-30T02:48:24Z</updated>
-    <id>tag:github.com,2022-05-30:/StartBootstrap/startbootstrap-grayscale</id>
-    <link href="https://github.com/StartBootstrap/startbootstrap-grayscale" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A multipurpose one page Bootstrap theme created by Start Bootstrap&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>StartBootstrap/startbootstrap-shop-homepage</title>
-    <updated>2022-05-30T02:48:24Z</updated>
-    <id>tag:github.com,2022-05-30:/StartBootstrap/startbootstrap-shop-homepage</id>
+    <updated>2022-05-31T02:49:16Z</updated>
+    <id>tag:github.com,2022-05-31:/StartBootstrap/startbootstrap-shop-homepage</id>
     <link href="https://github.com/StartBootstrap/startbootstrap-shop-homepage" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A shop homepage Bootstrap HTML template created by Start Bootstrap&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nigelpoulton/getting-started-k8s</title>
-    <updated>2022-05-30T02:48:24Z</updated>
-    <id>tag:github.com,2022-05-30:/nigelpoulton/getting-started-k8s</id>
-    <link href="https://github.com/nigelpoulton/getting-started-k8s" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Code and YAML files for Getting Started with Kubernetes video course on Pluralsight&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>StartBootstrap/startbootstrap-creative</title>
+    <updated>2022-05-31T02:49:16Z</updated>
+    <id>tag:github.com,2022-05-31:/StartBootstrap/startbootstrap-creative</id>
+    <link href="https://github.com/StartBootstrap/startbootstrap-creative" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A one page HTML theme for creatives by Start Bootstrap&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>Azure/actions-workflow-samples</title>
-    <updated>2022-05-30T02:48:24Z</updated>
-    <id>tag:github.com,2022-05-30:/Azure/actions-workflow-samples</id>
+    <updated>2022-05-31T02:49:16Z</updated>
+    <id>tag:github.com,2022-05-31:/Azure/actions-workflow-samples</id>
     <link href="https://github.com/Azure/actions-workflow-samples" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Help developers to easily get started with GitHub Action workflows to deploy to Azure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>nigelpoulton/getting-started-k8s</title>
+    <updated>2022-05-31T02:49:16Z</updated>
+    <id>tag:github.com,2022-05-31:/nigelpoulton/getting-started-k8s</id>
+    <link href="https://github.com/nigelpoulton/getting-started-k8s" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code and YAML files for Getting Started with Kubernetes video course on Pluralsight&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>StartBootstrap/startbootstrap-landing-page</title>
-    <updated>2022-05-30T02:48:24Z</updated>
-    <id>tag:github.com,2022-05-30:/StartBootstrap/startbootstrap-landing-page</id>
+    <updated>2022-05-31T02:49:16Z</updated>
+    <id>tag:github.com,2022-05-31:/StartBootstrap/startbootstrap-landing-page</id>
     <link href="https://github.com/StartBootstrap/startbootstrap-landing-page" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A responsive, Bootstrap landing page template created by Start Bootstrap&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

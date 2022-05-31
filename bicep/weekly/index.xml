@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T02:02:50Z</updated>
+  <updated>2022-05-31T02:03:33Z</updated>
   <subtitle>Weekly Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>Azure/ALZ-Bicep</title>
-    <updated>2022-05-30T02:02:50Z</updated>
-    <id>tag:github.com,2022-05-30:/Azure/ALZ-Bicep</id>
+    <updated>2022-05-31T02:03:33Z</updated>
+    <id>tag:github.com,2022-05-31:/Azure/ALZ-Bicep</id>
     <link href="https://github.com/Azure/ALZ-Bicep" rel="alternate"></link>
     <summary type="html">&lt;p&gt;This repository contains the Azure Landing Zones (ALZ) Bicep modules that help deliver and deploy the Azure Landing Zone conceptual architecture in a modular approach. https://aka.ms/alz/docs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>Azure/bicep</title>
-    <updated>2022-05-30T02:02:50Z</updated>
-    <id>tag:github.com,2022-05-30:/Azure/bicep</id>
+    <updated>2022-05-31T02:03:33Z</updated>
+    <id>tag:github.com,2022-05-31:/Azure/bicep</id>
     <link href="https://github.com/Azure/bicep" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Bicep is a declarative language for describing and deploying Azure resources&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>Azure/Enterprise-Scale</title>
-    <updated>2022-05-30T02:02:50Z</updated>
-    <id>tag:github.com,2022-05-30:/Azure/Enterprise-Scale</id>
+    <updated>2022-05-31T02:03:33Z</updated>
+    <id>tag:github.com,2022-05-31:/Azure/Enterprise-Scale</id>
     <link href="https://github.com/Azure/Enterprise-Scale" rel="alternate"></link>
     <summary type="html">&lt;p&gt;The Enterprise-Scale architecture provides prescriptive guidance coupled with Azure best practices, and it follows design principles across the critical design areas for organizations to define their Azure architecture&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

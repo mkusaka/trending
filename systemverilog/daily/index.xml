@@ -1,84 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T01:54:30Z</updated>
+  <updated>2022-05-31T01:55:06Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>lowRISC/opentitan</title>
-    <updated>2022-05-30T01:54:30Z</updated>
-    <id>tag:github.com,2022-05-30:/lowRISC/opentitan</id>
+    <updated>2022-05-31T01:55:06Z</updated>
+    <id>tag:github.com,2022-05-31:/lowRISC/opentitan</id>
     <link href="https://github.com/lowRISC/opentitan" rel="alternate"></link>
     <summary type="html">&lt;p&gt;OpenTitan: Open source silicon root of trust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>pulp-platform/snitch</title>
+    <updated>2022-05-31T01:55:06Z</updated>
+    <id>tag:github.com,2022-05-31:/pulp-platform/snitch</id>
+    <link href="https://github.com/pulp-platform/snitch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lean but mean RISC-V system!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>pulp-platform/axi</title>
-    <updated>2022-05-30T01:54:30Z</updated>
-    <id>tag:github.com,2022-05-30:/pulp-platform/axi</id>
+    <updated>2022-05-31T01:55:06Z</updated>
+    <id>tag:github.com,2022-05-31:/pulp-platform/axi</id>
     <link href="https://github.com/pulp-platform/axi" rel="alternate"></link>
     <summary type="html">&lt;p&gt;AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>pulp-platform/common_cells</title>
-    <updated>2022-05-30T01:54:30Z</updated>
-    <id>tag:github.com,2022-05-30:/pulp-platform/common_cells</id>
+    <updated>2022-05-31T01:55:06Z</updated>
+    <id>tag:github.com,2022-05-31:/pulp-platform/common_cells</id>
     <link href="https://github.com/pulp-platform/common_cells" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Common SystemVerilog components&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>openhwgroup/cvfpu</title>
-    <updated>2022-05-30T01:54:30Z</updated>
-    <id>tag:github.com,2022-05-30:/openhwgroup/cvfpu</id>
-    <link href="https://github.com/openhwgroup/cvfpu" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Parametric floating-point unit with support for standard RISC-V formats and operations as well as transprecision formats.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lowRISC/ibex</title>
-    <updated>2022-05-30T01:54:30Z</updated>
-    <id>tag:github.com,2022-05-30:/lowRISC/ibex</id>
-    <link href="https://github.com/lowRISC/ibex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ibex is a small 32 bit RISC-V CPU core, previously known as zero-riscy.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>taichi-ishitani/tvip-axi</title>
-    <updated>2022-05-30T01:54:30Z</updated>
-    <id>tag:github.com,2022-05-30:/taichi-ishitani/tvip-axi</id>
-    <link href="https://github.com/taichi-ishitani/tvip-axi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AMBA AXI VIP&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pulp-platform/axi_node</title>
-    <updated>2022-05-30T01:54:30Z</updated>
-    <id>tag:github.com,2022-05-30:/pulp-platform/axi_node</id>
-    <link href="https://github.com/pulp-platform/axi_node" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AXI X-Bar&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>srg320/Saturn_MiSTer</title>
-    <updated>2022-05-30T01:54:30Z</updated>
-    <id>tag:github.com,2022-05-30:/srg320/Saturn_MiSTer</id>
-    <link href="https://github.com/srg320/Saturn_MiSTer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pulp-platform/axi_slice</title>
-    <updated>2022-05-30T01:54:30Z</updated>
-    <id>tag:github.com,2022-05-30:/pulp-platform/axi_slice</id>
-    <link href="https://github.com/pulp-platform/axi_slice" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pipelines the AXI path with FIFOs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>openhwgroup/cv32e40s</title>
-    <updated>2022-05-30T01:54:30Z</updated>
-    <id>tag:github.com,2022-05-30:/openhwgroup/cv32e40s</id>
-    <link href="https://github.com/openhwgroup/cv32e40s" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;4 stage, in-order, secure RISC-V core based on the CV32E40P&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pulp-platform/tech_cells_generic</title>
-    <updated>2022-05-30T01:54:30Z</updated>
-    <id>tag:github.com,2022-05-30:/pulp-platform/tech_cells_generic</id>
-    <link href="https://github.com/pulp-platform/tech_cells_generic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Technology dependent cells instantiated in the design for generic process (simulation, FPGA)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

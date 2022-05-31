@@ -1,48 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub D Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T02:34:23Z</updated>
+  <updated>2022-05-31T02:35:17Z</updated>
   <subtitle>Monthly Trending of D in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>abraunegg/onedrive</title>
-    <updated>2022-05-30T02:34:23Z</updated>
-    <id>tag:github.com,2022-05-30:/abraunegg/onedrive</id>
+    <updated>2022-05-31T02:35:17Z</updated>
+    <id>tag:github.com,2022-05-31:/abraunegg/onedrive</id>
     <link href="https://github.com/abraunegg/onedrive" rel="alternate"></link>
     <summary type="html">&lt;p&gt;#1 Free OneDrive Client for Linux&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dlang/druntime</title>
-    <updated>2022-05-30T02:34:23Z</updated>
-    <id>tag:github.com,2022-05-30:/dlang/druntime</id>
-    <link href="https://github.com/dlang/druntime" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Low level runtime library for the D programming language&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>dlang/dmd</title>
-    <updated>2022-05-30T02:34:23Z</updated>
-    <id>tag:github.com,2022-05-30:/dlang/dmd</id>
+    <updated>2022-05-31T02:35:17Z</updated>
+    <id>tag:github.com,2022-05-31:/dlang/dmd</id>
     <link href="https://github.com/dlang/dmd" rel="alternate"></link>
     <summary type="html">&lt;p&gt;dmd D Programming Language compiler&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>gnunn1/tilix</title>
-    <updated>2022-05-30T02:34:23Z</updated>
-    <id>tag:github.com,2022-05-30:/gnunn1/tilix</id>
+    <updated>2022-05-31T02:35:17Z</updated>
+    <id>tag:github.com,2022-05-31:/gnunn1/tilix</id>
     <link href="https://github.com/gnunn1/tilix" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A tiling terminal emulator for Linux using GTK+ 3&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>dlang/phobos</title>
-    <updated>2022-05-30T02:34:23Z</updated>
-    <id>tag:github.com,2022-05-30:/dlang/phobos</id>
+    <updated>2022-05-31T02:35:17Z</updated>
+    <id>tag:github.com,2022-05-31:/dlang/phobos</id>
     <link href="https://github.com/dlang/phobos" rel="alternate"></link>
     <summary type="html">&lt;p&gt;The standard library of the D programming language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>Inochi2D/inochi2d</title>
-    <updated>2022-05-30T02:34:23Z</updated>
-    <id>tag:github.com,2022-05-30:/Inochi2D/inochi2d</id>
+    <updated>2022-05-31T02:35:17Z</updated>
+    <id>tag:github.com,2022-05-31:/Inochi2D/inochi2d</id>
     <link href="https://github.com/Inochi2D/inochi2d" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Inochi2D reference implementation aimed at rendering 2D puppets that can be animated in real-time (using eg. facial capture).&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

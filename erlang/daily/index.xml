@@ -1,182 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T01:38:58Z</updated>
+  <updated>2022-05-31T01:39:20Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
+    <title>erlang/otp</title>
+    <updated>2022-05-31T01:39:20Z</updated>
+    <id>tag:github.com,2022-05-31:/erlang/otp</id>
+    <link href="https://github.com/erlang/otp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang/OTP&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>dgiot/dgiot</title>
-    <updated>2022-05-30T01:38:58Z</updated>
-    <id>tag:github.com,2022-05-30:/dgiot/dgiot</id>
+    <updated>2022-05-31T01:39:20Z</updated>
+    <id>tag:github.com,2022-05-31:/dgiot/dgiot</id>
     <link href="https://github.com/dgiot/dgiot" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Open source platform for IoT,30 min Quick Deployment,10M devices connection,Carrier level Stability;物联网开源平台,30分钟快速部署,千万级承载,电信级稳定性. Low code for Object model-Rule Engine-Data Channel-Configuration Page; Fully open source, Multi industrial protocols are compatible.物模型-规则引擎-数据通道-组态页面全流程零代码开发、前后端完全开源、多行业工业协议兼容。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>emqx/emqx</title>
+    <updated>2022-05-31T01:39:20Z</updated>
+    <id>tag:github.com,2022-05-31:/emqx/emqx</id>
+    <link href="https://github.com/emqx/emqx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An open-source, cloud-native distributed MQTT broker for IoT.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>seth/ej</title>
-    <updated>2022-05-30T01:38:58Z</updated>
-    <id>tag:github.com,2022-05-30:/seth/ej</id>
+    <updated>2022-05-31T01:39:20Z</updated>
+    <id>tag:github.com,2022-05-31:/seth/ej</id>
     <link href="https://github.com/seth/ej" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Helper module for working with Erlang terms representing JSON&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rcouch/ecsv</title>
-    <updated>2022-05-30T01:38:58Z</updated>
-    <id>tag:github.com,2022-05-30:/rcouch/ecsv</id>
-    <link href="https://github.com/rcouch/ecsv" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Erlang CSV Parser&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ninenines/gun</title>
+    <updated>2022-05-31T01:39:20Z</updated>
+    <id>tag:github.com,2022-05-31:/ninenines/gun</id>
+    <link href="https://github.com/ninenines/gun" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mochi/mochiweb</title>
+    <updated>2022-05-31T01:39:20Z</updated>
+    <id>tag:github.com,2022-05-31:/mochi/mochiweb</id>
+    <link href="https://github.com/mochi/mochiweb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MochiWeb is an Erlang library for building lightweight HTTP servers.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>erlsci/iso8601</title>
-    <updated>2022-05-30T01:38:58Z</updated>
-    <id>tag:github.com,2022-05-30:/erlsci/iso8601</id>
+    <updated>2022-05-31T01:39:20Z</updated>
+    <id>tag:github.com,2022-05-31:/erlsci/iso8601</id>
     <link href="https://github.com/erlsci/iso8601" rel="alternate"></link>
     <summary type="html">&lt;p&gt;An ISO 8601 date formating and parsing library for Erlang&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>basho/riak-erlang-client</title>
-    <updated>2022-05-30T01:38:58Z</updated>
-    <id>tag:github.com,2022-05-30:/basho/riak-erlang-client</id>
-    <link href="https://github.com/basho/riak-erlang-client" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Riak client for Erlang.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rcouch/ecsv</title>
+    <updated>2022-05-31T01:39:20Z</updated>
+    <id>tag:github.com,2022-05-31:/rcouch/ecsv</id>
+    <link href="https://github.com/rcouch/ecsv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang CSV Parser&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ninenines/cowlib</title>
+    <updated>2022-05-31T01:39:20Z</updated>
+    <id>tag:github.com,2022-05-31:/ninenines/cowlib</id>
+    <link href="https://github.com/ninenines/cowlib" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Support library for manipulating Web protocols.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>couchbase/couchdb</title>
+    <updated>2022-05-31T01:39:20Z</updated>
+    <id>tag:github.com,2022-05-31:/couchbase/couchdb</id>
+    <link href="https://github.com/couchbase/couchdb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CouchDB&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rabbitmq/khepri</title>
+    <updated>2022-05-31T01:39:20Z</updated>
+    <id>tag:github.com,2022-05-31:/rabbitmq/khepri</id>
+    <link href="https://github.com/rabbitmq/khepri" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Khepri is a tree-like replicated on-disk database library for Erlang and Elixir.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>sile/jsone</title>
-    <updated>2022-05-30T01:38:58Z</updated>
-    <id>tag:github.com,2022-05-30:/sile/jsone</id>
+    <updated>2022-05-31T01:39:20Z</updated>
+    <id>tag:github.com,2022-05-31:/sile/jsone</id>
     <link href="https://github.com/sile/jsone" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Erlang JSON library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>uwiger/parse_trans</title>
-    <updated>2022-05-30T01:38:58Z</updated>
-    <id>tag:github.com,2022-05-30:/uwiger/parse_trans</id>
+    <updated>2022-05-31T01:39:20Z</updated>
+    <id>tag:github.com,2022-05-31:/uwiger/parse_trans</id>
     <link href="https://github.com/uwiger/parse_trans" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Parse transform utilities for Erlang&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dvv/base64url</title>
-    <updated>2022-05-30T01:38:58Z</updated>
-    <id>tag:github.com,2022-05-30:/dvv/base64url</id>
-    <link href="https://github.com/dvv/base64url" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;URL safe base64-compatible codec&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nomasystems/nct_util</title>
-    <updated>2022-05-30T01:38:58Z</updated>
-    <id>tag:github.com,2022-05-30:/nomasystems/nct_util</id>
-    <link href="https://github.com/nomasystems/nct_util" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Common Test util library&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>choptastic/qdate</title>
-    <updated>2022-05-30T01:38:58Z</updated>
-    <id>tag:github.com,2022-05-30:/choptastic/qdate</id>
-    <link href="https://github.com/choptastic/qdate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Erlang date, time, and timezone management: formatting, conversion, and date arithmetic&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>eproxus/meck</title>
-    <updated>2022-05-30T01:38:58Z</updated>
-    <id>tag:github.com,2022-05-30:/eproxus/meck</id>
-    <link href="https://github.com/eproxus/meck" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A mocking library for Erlang&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mochi/mochiweb</title>
-    <updated>2022-05-30T01:38:58Z</updated>
-    <id>tag:github.com,2022-05-30:/mochi/mochiweb</id>
-    <link href="https://github.com/mochi/mochiweb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MochiWeb is an Erlang library for building lightweight HTTP servers.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ninenines/gun</title>
-    <updated>2022-05-30T01:38:58Z</updated>
-    <id>tag:github.com,2022-05-30:/ninenines/gun</id>
-    <link href="https://github.com/ninenines/gun" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>emqx/emqx</title>
-    <updated>2022-05-30T01:38:58Z</updated>
-    <id>tag:github.com,2022-05-30:/emqx/emqx</id>
-    <link href="https://github.com/emqx/emqx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An open-source, cloud-native distributed MQTT broker for IoT.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>uwiger/gproc</title>
-    <updated>2022-05-30T01:38:58Z</updated>
-    <id>tag:github.com,2022-05-30:/uwiger/gproc</id>
+    <updated>2022-05-31T01:39:20Z</updated>
+    <id>tag:github.com,2022-05-31:/uwiger/gproc</id>
     <link href="https://github.com/uwiger/gproc" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Extended process registry for Erlang&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>GeneStevens/jsonpath</title>
-    <updated>2022-05-30T01:38:58Z</updated>
-    <id>tag:github.com,2022-05-30:/GeneStevens/jsonpath</id>
-    <link href="https://github.com/GeneStevens/jsonpath" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fast Erlang JSON data retrieval and updates via javascript-like notation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>eproxus/meck</title>
+    <updated>2022-05-31T01:39:20Z</updated>
+    <id>tag:github.com,2022-05-31:/eproxus/meck</id>
+    <link href="https://github.com/eproxus/meck" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A mocking library for Erlang&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>chef/chef-server</title>
-    <updated>2022-05-30T01:38:58Z</updated>
-    <id>tag:github.com,2022-05-30:/chef/chef-server</id>
-    <link href="https://github.com/chef/chef-server" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Chef Infra Server is a hub for configuration data; storing cookbooks, node policies and metadata of managed nodes.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>helium/miner</title>
+    <updated>2022-05-31T01:39:20Z</updated>
+    <id>tag:github.com,2022-05-31:/helium/miner</id>
+    <link href="https://github.com/helium/miner" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Miner for the helium blockchain&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>benoitc/unicode_util_compat</title>
-    <updated>2022-05-30T01:38:58Z</updated>
-    <id>tag:github.com,2022-05-30:/benoitc/unicode_util_compat</id>
-    <link href="https://github.com/benoitc/unicode_util_compat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;unicode_util compatibility library for Erlang &lt; 20&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>epgsql/epgsql</title>
+    <updated>2022-05-31T01:39:20Z</updated>
+    <id>tag:github.com,2022-05-31:/epgsql/epgsql</id>
+    <link href="https://github.com/epgsql/epgsql" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang PostgreSQL client library.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>erlcloud/erlcloud</title>
-    <updated>2022-05-30T01:38:58Z</updated>
-    <id>tag:github.com,2022-05-30:/erlcloud/erlcloud</id>
-    <link href="https://github.com/erlcloud/erlcloud" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AWS APIs library for Erlang (Amazon EC2, S3, SQS, DDB, ELB and etc)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yakaz/yamerl</title>
+    <updated>2022-05-31T01:39:20Z</updated>
+    <id>tag:github.com,2022-05-31:/yakaz/yamerl</id>
+    <link href="https://github.com/yakaz/yamerl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;YAML 1.2 and JSON parser in pure Erlang&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>choptastic/qdate</title>
+    <updated>2022-05-31T01:39:20Z</updated>
+    <id>tag:github.com,2022-05-31:/choptastic/qdate</id>
+    <link href="https://github.com/choptastic/qdate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang date, time, and timezone management: formatting, conversion, and date arithmetic&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>for-GET/jesse</title>
-    <updated>2022-05-30T01:38:58Z</updated>
-    <id>tag:github.com,2022-05-30:/for-GET/jesse</id>
+    <updated>2022-05-31T01:39:20Z</updated>
+    <id>tag:github.com,2022-05-31:/for-GET/jesse</id>
     <link href="https://github.com/for-GET/jesse" rel="alternate"></link>
     <summary type="html">&lt;p&gt;jesse (JSon Schema Erlang) is an implementation of a JSON Schema validator for Erlang.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>erlang/otp</title>
-    <updated>2022-05-30T01:38:58Z</updated>
-    <id>tag:github.com,2022-05-30:/erlang/otp</id>
-    <link href="https://github.com/erlang/otp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Erlang/OTP&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>erlcloud/erlcloud</title>
+    <updated>2022-05-31T01:39:20Z</updated>
+    <id>tag:github.com,2022-05-31:/erlcloud/erlcloud</id>
+    <link href="https://github.com/erlcloud/erlcloud" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AWS APIs library for Erlang (Amazon EC2, S3, SQS, DDB, ELB and etc)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>apache/couchdb</title>
+    <updated>2022-05-31T01:39:20Z</updated>
+    <id>tag:github.com,2022-05-31:/apache/couchdb</id>
+    <link href="https://github.com/apache/couchdb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dvv/base64url</title>
+    <updated>2022-05-31T01:39:20Z</updated>
+    <id>tag:github.com,2022-05-31:/dvv/base64url</id>
+    <link href="https://github.com/dvv/base64url" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;URL safe base64-compatible codec&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>willemdj/erlsom</title>
-    <updated>2022-05-30T01:38:58Z</updated>
-    <id>tag:github.com,2022-05-30:/willemdj/erlsom</id>
+    <updated>2022-05-31T01:39:20Z</updated>
+    <id>tag:github.com,2022-05-31:/willemdj/erlsom</id>
     <link href="https://github.com/willemdj/erlsom" rel="alternate"></link>
     <summary type="html">&lt;p&gt;XML parser for Erlang&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>adgear/consent-string</title>
-    <updated>2022-05-30T01:38:58Z</updated>
-    <id>tag:github.com,2022-05-30:/adgear/consent-string</id>
-    <link href="https://github.com/adgear/consent-string" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Erlang IAB consent-string library&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>helium/router</title>
-    <updated>2022-05-30T01:38:58Z</updated>
-    <id>tag:github.com,2022-05-30:/helium/router</id>
+    <updated>2022-05-31T01:39:20Z</updated>
+    <id>tag:github.com,2022-05-31:/helium/router</id>
     <link href="https://github.com/helium/router" rel="alternate"></link>
     <summary type="html">&lt;p&gt;router combines a LoRaWAN Network Server with an API for console, and provides a proxy to the Helium blockchain&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kafka4beam/brod</title>
-    <updated>2022-05-30T01:38:58Z</updated>
-    <id>tag:github.com,2022-05-30:/kafka4beam/brod</id>
-    <link href="https://github.com/kafka4beam/brod" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Apache Kafka client library for Erlang/Elixir&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

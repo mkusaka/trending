@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T02:53:59Z</updated>
+  <updated>2022-05-31T02:54:48Z</updated>
   <subtitle>Monthly Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>amachanic/sp_whoisactive</title>
-    <updated>2022-05-30T02:53:59Z</updated>
-    <id>tag:github.com,2022-05-30:/amachanic/sp_whoisactive</id>
+    <updated>2022-05-31T02:54:48Z</updated>
+    <id>tag:github.com,2022-05-31:/amachanic/sp_whoisactive</id>
     <link href="https://github.com/amachanic/sp_whoisactive" rel="alternate"></link>
     <summary type="html">&lt;p&gt;sp_whoisactive&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>mrinal1704/SQL-Leetcode-Challenge</title>
-    <updated>2022-05-30T02:53:59Z</updated>
-    <id>tag:github.com,2022-05-30:/mrinal1704/SQL-Leetcode-Challenge</id>
+    <updated>2022-05-31T02:54:48Z</updated>
+    <id>tag:github.com,2022-05-31:/mrinal1704/SQL-Leetcode-Challenge</id>
     <link href="https://github.com/mrinal1704/SQL-Leetcode-Challenge" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Contains all the 117 Leetcode questions with their solutions ranging from Easy to Hard in MySQL.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>olahallengren/sql-server-maintenance-solution</title>
-    <updated>2022-05-30T02:53:59Z</updated>
-    <id>tag:github.com,2022-05-30:/olahallengren/sql-server-maintenance-solution</id>
+    <updated>2022-05-31T02:54:48Z</updated>
+    <id>tag:github.com,2022-05-31:/olahallengren/sql-server-maintenance-solution</id>
     <link href="https://github.com/olahallengren/sql-server-maintenance-solution" rel="alternate"></link>
     <summary type="html">&lt;p&gt;SQL Server Maintenance Solution&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>SSWConsulting/SSW.Rules.Content</title>
-    <updated>2022-05-30T02:53:59Z</updated>
-    <id>tag:github.com,2022-05-30:/SSWConsulting/SSW.Rules.Content</id>
+    <updated>2022-05-31T02:54:48Z</updated>
+    <id>tag:github.com,2022-05-31:/SSWConsulting/SSW.Rules.Content</id>
     <link href="https://github.com/SSWConsulting/SSW.Rules.Content" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Secret ingredients to quality software&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>BrentOzarULTD/SQL-Server-First-Responder-Kit</title>
-    <updated>2022-05-30T02:53:59Z</updated>
-    <id>tag:github.com,2022-05-30:/BrentOzarULTD/SQL-Server-First-Responder-Kit</id>
+    <updated>2022-05-31T02:54:48Z</updated>
+    <id>tag:github.com,2022-05-31:/BrentOzarULTD/SQL-Server-First-Responder-Kit</id>
     <link href="https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit" rel="alternate"></link>
     <summary type="html">&lt;p&gt;sp_Blitz, sp_BlitzCache, sp_BlitzFirst, sp_BlitzIndex, and other SQL Server scripts for health checks and performance tuning.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

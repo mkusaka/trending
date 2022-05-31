@@ -1,56 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T01:36:44Z</updated>
+  <updated>2022-05-31T01:37:02Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>NVlabs/instant-ngp</title>
-    <updated>2022-05-30T01:36:44Z</updated>
-    <id>tag:github.com,2022-05-30:/NVlabs/instant-ngp</id>
+    <updated>2022-05-31T01:37:02Z</updated>
+    <id>tag:github.com,2022-05-31:/NVlabs/instant-ngp</id>
     <link href="https://github.com/NVlabs/instant-ngp" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Instant neural graphics primitives: lightning fast NeRF and more&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>leoxiaobin/deep-high-resolution-net.pytorch</title>
-    <updated>2022-05-30T01:36:44Z</updated>
-    <id>tag:github.com,2022-05-30:/leoxiaobin/deep-high-resolution-net.pytorch</id>
-    <link href="https://github.com/leoxiaobin/deep-high-resolution-net.pytorch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The project is an official implementation of our CVPR2019 paper &#34;Deep High-Resolution Representation Learning for Human Pose Estimation&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>brucefan1983/GPUMD</title>
+    <updated>2022-05-31T01:37:02Z</updated>
+    <id>tag:github.com,2022-05-31:/brucefan1983/GPUMD</id>
+    <link href="https://github.com/brucefan1983/GPUMD" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Graphics Processing Units Molecular Dynamics&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Tony-Tan/CUDA_Freshman</title>
-    <updated>2022-05-30T01:36:44Z</updated>
-    <id>tag:github.com,2022-05-30:/Tony-Tan/CUDA_Freshman</id>
-    <link href="https://github.com/Tony-Tan/CUDA_Freshman" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>PacktPublishing/Learn-CUDA-Programming</title>
-    <updated>2022-05-30T01:36:44Z</updated>
-    <id>tag:github.com,2022-05-30:/PacktPublishing/Learn-CUDA-Programming</id>
-    <link href="https://github.com/PacktPublishing/Learn-CUDA-Programming" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Learn CUDA Programming, published by Packt&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tensorflow/recommenders-addons</title>
+    <updated>2022-05-31T01:37:02Z</updated>
+    <id>tag:github.com,2022-05-31:/tensorflow/recommenders-addons</id>
+    <link href="https://github.com/tensorflow/recommenders-addons" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Additional utils and helpers to extend TensorFlow when build recommendation systems, contributed and maintained by SIG Recommenders.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>NVIDIA/warp</title>
-    <updated>2022-05-30T01:36:44Z</updated>
-    <id>tag:github.com,2022-05-30:/NVIDIA/warp</id>
+    <updated>2022-05-31T01:37:02Z</updated>
+    <id>tag:github.com,2022-05-31:/NVIDIA/warp</id>
     <link href="https://github.com/NVIDIA/warp" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A Python framework for high performance GPU simulation and graphics&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>NVIDIA/cub</title>
-    <updated>2022-05-30T01:36:44Z</updated>
-    <id>tag:github.com,2022-05-30:/NVIDIA/cub</id>
-    <link href="https://github.com/NVIDIA/cub" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cooperative primitives for CUDA C++.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rapidsai/cugraph</title>
+    <updated>2022-05-31T01:37:02Z</updated>
+    <id>tag:github.com,2022-05-31:/rapidsai/cugraph</id>
+    <link href="https://github.com/rapidsai/cugraph" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;cuGraph - RAPIDS Graph Analytics Library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rapidsai/cuml</title>
-    <updated>2022-05-30T01:36:44Z</updated>
-    <id>tag:github.com,2022-05-30:/rapidsai/cuml</id>
-    <link href="https://github.com/rapidsai/cuml" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;cuML - RAPIDS Machine Learning Library&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NVIDIA/nccl-tests</title>
+    <updated>2022-05-31T01:37:02Z</updated>
+    <id>tag:github.com,2022-05-31:/NVIDIA/nccl-tests</id>
+    <link href="https://github.com/NVIDIA/nccl-tests" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NCCL Tests&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

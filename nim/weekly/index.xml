@@ -1,28 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T02:15:55Z</updated>
+  <updated>2022-05-31T02:16:14Z</updated>
   <subtitle>Weekly Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>nim-lang/Nim</title>
-    <updated>2022-05-30T02:15:55Z</updated>
-    <id>tag:github.com,2022-05-30:/nim-lang/Nim</id>
+    <updated>2022-05-31T02:16:14Z</updated>
+    <id>tag:github.com,2022-05-31:/nim-lang/Nim</id>
     <link href="https://github.com/nim-lang/Nim" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>codic12/worm</title>
-    <updated>2022-05-30T02:15:55Z</updated>
-    <id>tag:github.com,2022-05-30:/codic12/worm</id>
+    <updated>2022-05-31T02:16:14Z</updated>
+    <id>tag:github.com,2022-05-31:/codic12/worm</id>
     <link href="https://github.com/codic12/worm" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A dynamic, tag-based window manager written in Nim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>zedeus/nitter</title>
-    <updated>2022-05-30T02:15:55Z</updated>
-    <id>tag:github.com,2022-05-30:/zedeus/nitter</id>
+    <updated>2022-05-31T02:16:14Z</updated>
+    <id>tag:github.com,2022-05-31:/zedeus/nitter</id>
     <link href="https://github.com/zedeus/nitter" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Alternative Twitter front-end&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>icyguider/Nimcrypt2</title>
+    <updated>2022-05-31T02:16:14Z</updated>
+    <id>tag:github.com,2022-05-31:/icyguider/Nimcrypt2</id>
+    <link href="https://github.com/icyguider/Nimcrypt2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;.NET, PE, &amp; Raw Shellcode Packer/Loader Written in Nim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

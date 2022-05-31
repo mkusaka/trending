@@ -1,98 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T02:17:40Z</updated>
+  <updated>2022-05-31T02:18:00Z</updated>
   <subtitle>Weekly Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cheat-engine/cheat-engine</title>
-    <updated>2022-05-30T02:17:40Z</updated>
-    <id>tag:github.com,2022-05-30:/cheat-engine/cheat-engine</id>
-    <link href="https://github.com/cheat-engine/cheat-engine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cheat Engine. A development environment focused on modding&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>teppicom/RealThinClient-SDK</title>
-    <updated>2022-05-30T02:17:40Z</updated>
-    <id>tag:github.com,2022-05-30:/teppicom/RealThinClient-SDK</id>
+    <updated>2022-05-31T02:18:00Z</updated>
+    <id>tag:github.com,2022-05-31:/teppicom/RealThinClient-SDK</id>
     <link href="https://github.com/teppicom/RealThinClient-SDK" rel="alternate"></link>
     <summary type="html">&lt;p&gt;RealThinClient SDK - Delphi components for building HTTP(S) applications&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>cheat-engine/cheat-engine</title>
+    <updated>2022-05-31T02:18:00Z</updated>
+    <id>tag:github.com,2022-05-31:/cheat-engine/cheat-engine</id>
+    <link href="https://github.com/cheat-engine/cheat-engine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cheat Engine. A development environment focused on modding&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>stascorp/rdpwrap</title>
-    <updated>2022-05-30T02:17:40Z</updated>
-    <id>tag:github.com,2022-05-30:/stascorp/rdpwrap</id>
+    <updated>2022-05-31T02:18:00Z</updated>
+    <id>tag:github.com,2022-05-31:/stascorp/rdpwrap</id>
     <link href="https://github.com/stascorp/rdpwrap" rel="alternate"></link>
     <summary type="html">&lt;p&gt;RDP Wrapper Library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jrsoftware/issrc</title>
-    <updated>2022-05-30T02:17:40Z</updated>
-    <id>tag:github.com,2022-05-30:/jrsoftware/issrc</id>
-    <link href="https://github.com/jrsoftware/issrc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Inno Setup is a free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>0xsp-SRD/mortar</title>
-    <updated>2022-05-30T02:17:40Z</updated>
-    <id>tag:github.com,2022-05-30:/0xsp-SRD/mortar</id>
+    <updated>2022-05-31T02:18:00Z</updated>
+    <id>tag:github.com,2022-05-31:/0xsp-SRD/mortar</id>
     <link href="https://github.com/0xsp-SRD/mortar" rel="alternate"></link>
     <summary type="html">&lt;p&gt;evasion technique to defeat and divert detection and prevention of security products (AV/EDR/XDR)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ElginDeveloperCommunity/Impressoras</title>
-    <updated>2022-05-30T02:17:40Z</updated>
-    <id>tag:github.com,2022-05-30:/ElginDeveloperCommunity/Impressoras</id>
-    <link href="https://github.com/ElginDeveloperCommunity/Impressoras" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Embarcadero/Dev-Cpp</title>
-    <updated>2022-05-30T02:17:40Z</updated>
-    <id>tag:github.com,2022-05-30:/Embarcadero/Dev-Cpp</id>
-    <link href="https://github.com/Embarcadero/Dev-Cpp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A fast, portable, simple, and free C/C++ IDE&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>HashLoad/horse</title>
-    <updated>2022-05-30T02:17:40Z</updated>
-    <id>tag:github.com,2022-05-30:/HashLoad/horse</id>
-    <link href="https://github.com/HashLoad/horse" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fast, opinionated, minimalist web framework for Delphi&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jrsoftware/issrc</title>
+    <updated>2022-05-31T02:18:00Z</updated>
+    <id>tag:github.com,2022-05-31:/jrsoftware/issrc</id>
+    <link href="https://github.com/jrsoftware/issrc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Inno Setup is a free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>peazip/PeaZip</title>
-    <updated>2022-05-30T02:17:40Z</updated>
-    <id>tag:github.com,2022-05-30:/peazip/PeaZip</id>
+    <updated>2022-05-31T02:18:00Z</updated>
+    <id>tag:github.com,2022-05-31:/peazip/PeaZip</id>
     <link href="https://github.com/peazip/PeaZip" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>Embarcadero/Dev-Cpp</title>
+    <updated>2022-05-31T02:18:00Z</updated>
+    <id>tag:github.com,2022-05-31:/Embarcadero/Dev-Cpp</id>
+    <link href="https://github.com/Embarcadero/Dev-Cpp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A fast, portable, simple, and free C/C++ IDE&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ElginDeveloperCommunity/Impressoras</title>
+    <updated>2022-05-31T02:18:00Z</updated>
+    <id>tag:github.com,2022-05-31:/ElginDeveloperCommunity/Impressoras</id>
+    <link href="https://github.com/ElginDeveloperCommunity/Impressoras" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>salvadordf/CEF4Delphi</title>
-    <updated>2022-05-30T02:17:40Z</updated>
-    <id>tag:github.com,2022-05-30:/salvadordf/CEF4Delphi</id>
+    <updated>2022-05-31T02:18:00Z</updated>
+    <id>tag:github.com,2022-05-31:/salvadordf/CEF4Delphi</id>
     <link href="https://github.com/salvadordf/CEF4Delphi" rel="alternate"></link>
     <summary type="html">&lt;p&gt;CEF4Delphi is an open source project to embed Chromium-based browsers in applications made with Delphi or Lazarus/FPC for Windows, Linux and MacOS.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>HashLoad/horse</title>
+    <updated>2022-05-31T02:18:00Z</updated>
+    <id>tag:github.com,2022-05-31:/HashLoad/horse</id>
+    <link href="https://github.com/HashLoad/horse" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fast, opinionated, minimalist web framework for Delphi&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>transmission-remote-gui/transgui</title>
+    <updated>2022-05-31T02:18:00Z</updated>
+    <id>tag:github.com,2022-05-31:/transmission-remote-gui/transgui</id>
+    <link href="https://github.com/transmission-remote-gui/transgui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>wppconnect-team/WPP4Delphi</title>
-    <updated>2022-05-30T02:17:40Z</updated>
-    <id>tag:github.com,2022-05-30:/wppconnect-team/WPP4Delphi</id>
+    <updated>2022-05-31T02:18:00Z</updated>
+    <id>tag:github.com,2022-05-31:/wppconnect-team/WPP4Delphi</id>
     <link href="https://github.com/wppconnect-team/WPP4Delphi" rel="alternate"></link>
     <summary type="html">&lt;p&gt;WPP4Delphi is an open-source project with the aim of exporting functions from WhatsApp Web for Delphi, which can be used to support the creation of any interaction.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>skia4delphi/skia4delphi</title>
-    <updated>2022-05-30T02:17:40Z</updated>
-    <id>tag:github.com,2022-05-30:/skia4delphi/skia4delphi</id>
+    <updated>2022-05-31T02:18:00Z</updated>
+    <id>tag:github.com,2022-05-31:/skia4delphi/skia4delphi</id>
     <link href="https://github.com/skia4delphi/skia4delphi" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Skia4Delphi is a cross-platform 2D graphics API for Delphi platforms based on Google&#39;s Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>MediaArea/MediaInfo</title>
-    <updated>2022-05-30T02:17:40Z</updated>
-    <id>tag:github.com,2022-05-30:/MediaArea/MediaInfo</id>
-    <link href="https://github.com/MediaArea/MediaInfo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Convenient unified display of the most relevant technical and tag data for video and audio files.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AngusJohnson/Clipper2</title>
+    <updated>2022-05-31T02:18:00Z</updated>
+    <id>tag:github.com,2022-05-31:/AngusJohnson/Clipper2</id>
+    <link href="https://github.com/AngusJohnson/Clipper2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Polygon Clipping and Offsetting library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

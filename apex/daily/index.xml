@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Apex Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T01:33:07Z</updated>
+  <updated>2022-05-31T01:33:21Z</updated>
   <subtitle>Daily Trending of Apex in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>developerforce/trailhead-code-samples</title>
-    <updated>2022-05-30T01:33:07Z</updated>
-    <id>tag:github.com,2022-05-30:/developerforce/trailhead-code-samples</id>
-    <link href="https://github.com/developerforce/trailhead-code-samples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Public code samples to support Trailhead challenges&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>trailheadapps/apex-recipes</title>
-    <updated>2022-05-30T01:33:07Z</updated>
-    <id>tag:github.com,2022-05-30:/trailheadapps/apex-recipes</id>
-    <link href="https://github.com/trailheadapps/apex-recipes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A library of concise, meaningful examples of Apex code for common use cases following best practices.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>SalesforceFoundation/EDA</title>
-    <updated>2022-05-30T01:33:07Z</updated>
-    <id>tag:github.com,2022-05-30:/SalesforceFoundation/EDA</id>
+    <updated>2022-05-31T01:33:21Z</updated>
+    <id>tag:github.com,2022-05-31:/SalesforceFoundation/EDA</id>
     <link href="https://github.com/SalesforceFoundation/EDA" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Education Data Architecture&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>developerforce/trailhead-code-samples</title>
+    <updated>2022-05-31T01:33:21Z</updated>
+    <id>tag:github.com,2022-05-31:/developerforce/trailhead-code-samples</id>
+    <link href="https://github.com/developerforce/trailhead-code-samples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Public code samples to support Trailhead challenges&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

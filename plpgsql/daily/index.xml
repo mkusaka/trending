@@ -1,42 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T01:48:55Z</updated>
+  <updated>2022-05-31T01:49:36Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>aneasystone/mysql-deadlocks</title>
-    <updated>2022-05-30T01:48:55Z</updated>
-    <id>tag:github.com,2022-05-30:/aneasystone/mysql-deadlocks</id>
-    <link href="https://github.com/aneasystone/mysql-deadlocks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;收集一些常见的 MySQL 死锁案例&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>digoal/blog</title>
-    <updated>2022-05-30T01:48:55Z</updated>
-    <id>tag:github.com,2022-05-30:/digoal/blog</id>
-    <link href="https://github.com/digoal/blog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Everything about database,business.(Most for PostgreSQL).&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Guray00/IngegneriaInformatica</title>
-    <updated>2022-05-30T01:48:55Z</updated>
-    <id>tag:github.com,2022-05-30:/Guray00/IngegneriaInformatica</id>
-    <link href="https://github.com/Guray00/IngegneriaInformatica" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Materiale didattico per gli studenti di Ingegneria Informatica presso l&#39;università di Pisa (classe L-8).&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>TryGhost/node-sqlite3</title>
-    <updated>2022-05-30T01:48:55Z</updated>
-    <id>tag:github.com,2022-05-30:/TryGhost/node-sqlite3</id>
+    <updated>2022-05-31T01:49:36Z</updated>
+    <id>tag:github.com,2022-05-31:/TryGhost/node-sqlite3</id>
     <link href="https://github.com/TryGhost/node-sqlite3" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Asynchronous, non-blocking SQLite3 bindings for Node.js&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>Guray00/IngegneriaInformatica</title>
+    <updated>2022-05-31T01:49:36Z</updated>
+    <id>tag:github.com,2022-05-31:/Guray00/IngegneriaInformatica</id>
+    <link href="https://github.com/Guray00/IngegneriaInformatica" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Materiale didattico per gli studenti di Ingegneria Informatica presso l&#39;università di Pisa (classe L-8).&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>theory/pgtap</title>
-    <updated>2022-05-30T01:48:55Z</updated>
-    <id>tag:github.com,2022-05-30:/theory/pgtap</id>
+    <updated>2022-05-31T01:49:36Z</updated>
+    <id>tag:github.com,2022-05-31:/theory/pgtap</id>
     <link href="https://github.com/theory/pgtap" rel="alternate"></link>
     <summary type="html">&lt;p&gt;PostgreSQL Unit Testing Suite&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>chillzhuang/SpringBlade</title>
+    <updated>2022-05-31T01:49:36Z</updated>
+    <id>tag:github.com,2022-05-31:/chillzhuang/SpringBlade</id>
+    <link href="https://github.com/chillzhuang/SpringBlade" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SpringBlade 是一个由商业级项目升级优化而来的SpringCloud分布式微服务架构、SpringBoot单体式微服务架构并存的综合型项目，采用Java8 API重构了业务代码，完全遵循阿里巴巴编码规范。采用Spring Boot 2.6 、Spring Cloud 2021 、Mybatis 等核心技术，同时提供基于React和Vue的两个前端框架用于快速搭建企业级的SaaS多租户微服务平台。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>aneasystone/mysql-deadlocks</title>
+    <updated>2022-05-31T01:49:36Z</updated>
+    <id>tag:github.com,2022-05-31:/aneasystone/mysql-deadlocks</id>
+    <link href="https://github.com/aneasystone/mysql-deadlocks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;收集一些常见的 MySQL 死锁案例&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>duneanalytics/abstractions</title>
+    <updated>2022-05-31T01:49:36Z</updated>
+    <id>tag:github.com,2022-05-31:/duneanalytics/abstractions</id>
+    <link href="https://github.com/duneanalytics/abstractions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SQL views for Dune&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>supabase/pg_graphql</title>
+    <updated>2022-05-31T01:49:36Z</updated>
+    <id>tag:github.com,2022-05-31:/supabase/pg_graphql</id>
+    <link href="https://github.com/supabase/pg_graphql" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GraphQL support for PostgreSQL&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

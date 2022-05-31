@@ -1,27 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub NSIS Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T02:45:35Z</updated>
+  <updated>2022-05-31T02:46:29Z</updated>
   <subtitle>Monthly Trending of NSIS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>devkitPro/installer</title>
-    <updated>2022-05-30T02:45:35Z</updated>
-    <id>tag:github.com,2022-05-30:/devkitPro/installer</id>
+    <updated>2022-05-31T02:46:29Z</updated>
+    <id>tag:github.com,2022-05-31:/devkitPro/installer</id>
     <link href="https://github.com/devkitPro/installer" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>da2x/EdgeDeflector</title>
-    <updated>2022-05-30T02:45:35Z</updated>
-    <id>tag:github.com,2022-05-30:/da2x/EdgeDeflector</id>
-    <link href="https://github.com/da2x/EdgeDeflector" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A tiny helper application to force Windows 10 to use your preferred web browser instead of ignoring the setting to promote Microsoft Edge. Only runs for a microsecond when needed.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>bmatzelle/gow</title>
-    <updated>2022-05-30T02:45:35Z</updated>
-    <id>tag:github.com,2022-05-30:/bmatzelle/gow</id>
+    <updated>2022-05-31T02:46:29Z</updated>
+    <id>tag:github.com,2022-05-31:/bmatzelle/gow</id>
     <link href="https://github.com/bmatzelle/gow" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Unix command line utilities installer for Windows.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

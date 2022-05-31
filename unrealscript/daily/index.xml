@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub UnrealScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-30T01:55:44Z</updated>
+  <updated>2022-05-31T01:56:22Z</updated>
   <subtitle>Daily Trending of UnrealScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>long-war-2/lwotc</title>
-    <updated>2022-05-30T01:55:44Z</updated>
-    <id>tag:github.com,2022-05-30:/long-war-2/lwotc</id>
+    <updated>2022-05-31T01:56:22Z</updated>
+    <id>tag:github.com,2022-05-31:/long-war-2/lwotc</id>
     <link href="https://github.com/long-war-2/lwotc" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Port of Long War 2 to XCOM 2&#39;s War of the Chosen expansion&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
