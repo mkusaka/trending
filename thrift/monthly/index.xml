@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Thrift Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T02:54:40Z</updated>
+  <updated>2022-06-01T02:52:47Z</updated>
   <subtitle>Monthly Trending of Thrift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>uber/dosa-idl</title>
-    <updated>2022-05-31T02:54:40Z</updated>
-    <id>tag:github.com,2022-05-31:/uber/dosa-idl</id>
+    <updated>2022-06-01T02:52:47Z</updated>
+    <id>tag:github.com,2022-06-01:/uber/dosa-idl</id>
     <link href="https://github.com/uber/dosa-idl" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>uber/tchannel</title>
-    <updated>2022-05-31T02:54:40Z</updated>
-    <id>tag:github.com,2022-05-31:/uber/tchannel</id>
+    <updated>2022-06-01T02:52:47Z</updated>
+    <id>tag:github.com,2022-06-01:/uber/tchannel</id>
     <link href="https://github.com/uber/tchannel" rel="alternate"></link>
     <summary type="html">&lt;p&gt;network multiplexing and framing protocol for RPC&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>uber/cadence-idl</title>
-    <updated>2022-05-31T02:54:40Z</updated>
-    <id>tag:github.com,2022-05-31:/uber/cadence-idl</id>
+    <updated>2022-06-01T02:52:47Z</updated>
+    <id>tag:github.com,2022-06-01:/uber/cadence-idl</id>
     <link href="https://github.com/uber/cadence-idl" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Cadence IDL repo, shared by server / clients&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

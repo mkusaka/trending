@@ -1,91 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoHotkey Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T01:33:55Z</updated>
+  <updated>2022-06-01T01:35:06Z</updated>
   <subtitle>Daily Trending of AutoHotkey in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>preco21/destiny-macros</title>
-    <updated>2022-05-31T01:33:55Z</updated>
-    <id>tag:github.com,2022-05-31:/preco21/destiny-macros</id>
+    <updated>2022-06-01T01:35:06Z</updated>
+    <id>tag:github.com,2022-06-01:/preco21/destiny-macros</id>
     <link href="https://github.com/preco21/destiny-macros" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A collection of Destiny 2 macros built with AutoHotKey&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Cweamy/Mighty-Omega-Macro</title>
-    <updated>2022-05-31T01:33:55Z</updated>
-    <id>tag:github.com,2022-05-31:/Cweamy/Mighty-Omega-Macro</id>
-    <link href="https://github.com/Cweamy/Mighty-Omega-Macro" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;macro for Mighty Omega using Autohotkey&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>CemuUser8/mouse2joystick_custom_CEMU</title>
-    <updated>2022-05-31T01:33:55Z</updated>
-    <id>tag:github.com,2022-05-31:/CemuUser8/mouse2joystick_custom_CEMU</id>
-    <link href="https://github.com/CemuUser8/mouse2joystick_custom_CEMU" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An AutoHotkey Script to allow the use of Mouse and Keyboard control in CEMU. This uses vJoy and provides several additional features over regular keyboard control, like: the ability to control the camera with the mouse, toggle walking speed, in BotW use MouseWheel to change weapons, a separate Toggle key for ZL useful for locking onto a target …&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Pulover/PuloversMacroCreator</title>
-    <updated>2022-05-31T01:33:55Z</updated>
-    <id>tag:github.com,2022-05-31:/Pulover/PuloversMacroCreator</id>
-    <link href="https://github.com/Pulover/PuloversMacroCreator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Automation Utility - Recorder &amp; Script Generator&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>DEFINITELYNOTDARKNET/Apex-Legend-No-recoil-AHK-script-2021</title>
-    <updated>2022-05-31T01:33:55Z</updated>
-    <id>tag:github.com,2022-05-31:/DEFINITELYNOTDARKNET/Apex-Legend-No-recoil-AHK-script-2021</id>
-    <link href="https://github.com/DEFINITELYNOTDARKNET/Apex-Legend-No-recoil-AHK-script-2021" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hi so I want to share this apex legend no recoil ahk script for you guys&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>TheMCHK/HWIDGEN</title>
-    <updated>2022-05-31T01:33:55Z</updated>
-    <id>tag:github.com,2022-05-31:/TheMCHK/HWIDGEN</id>
-    <link href="https://github.com/TheMCHK/HWIDGEN" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;HWIDGEN&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>esge/PoE-HarvestVendor</title>
-    <updated>2022-05-31T01:33:55Z</updated>
-    <id>tag:github.com,2022-05-31:/esge/PoE-HarvestVendor</id>
-    <link href="https://github.com/esge/PoE-HarvestVendor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tool for getting the list of crafts out of Horticrafting station in Path of exile&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Aetopia/Lunar-Client-Lite-Launcher</title>
-    <updated>2022-05-31T01:33:55Z</updated>
-    <id>tag:github.com,2022-05-31:/Aetopia/Lunar-Client-Lite-Launcher</id>
-    <link href="https://github.com/Aetopia/Lunar-Client-Lite-Launcher" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A lightweight and unlocked launcher for Lunar Client. Made in AutoHotkey.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lemasato/POE-Trades-Companion</title>
-    <updated>2022-05-31T01:33:55Z</updated>
-    <id>tag:github.com,2022-05-31:/lemasato/POE-Trades-Companion</id>
-    <link href="https://github.com/lemasato/POE-Trades-Companion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Enhance your trading experience in Path of Exile. Highly customizable.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>fuhsjr00/bug.n</title>
-    <updated>2022-05-31T01:33:55Z</updated>
-    <id>tag:github.com,2022-05-31:/fuhsjr00/bug.n</id>
+    <updated>2022-06-01T01:35:06Z</updated>
+    <id>tag:github.com,2022-06-01:/fuhsjr00/bug.n</id>
     <link href="https://github.com/fuhsjr00/bug.n" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Tiling Window Manager for Windows&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>joffreybesos/d2r-mapview</title>
-    <updated>2022-05-31T01:33:55Z</updated>
-    <id>tag:github.com,2022-05-31:/joffreybesos/d2r-mapview</id>
-    <link href="https://github.com/joffreybesos/d2r-mapview" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Diablo 2 Map reveal screen overlay&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>wo52616111/capslock-plus</title>
-    <updated>2022-05-31T01:33:55Z</updated>
-    <id>tag:github.com,2022-05-31:/wo52616111/capslock-plus</id>
-    <link href="https://github.com/wo52616111/capslock-plus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An efficiency tool that provides various functions by enhancing the Caps Lock key into a modifier key.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

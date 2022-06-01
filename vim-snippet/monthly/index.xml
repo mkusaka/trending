@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Snippet Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T02:55:45Z</updated>
+  <updated>2022-06-01T02:53:59Z</updated>
   <subtitle>Monthly Trending of Vim Snippet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>honza/vim-snippets</title>
-    <updated>2022-05-31T02:55:45Z</updated>
-    <id>tag:github.com,2022-05-31:/honza/vim-snippets</id>
+    <updated>2022-06-01T02:53:59Z</updated>
+    <id>tag:github.com,2022-06-01:/honza/vim-snippets</id>
     <link href="https://github.com/honza/vim-snippets" rel="alternate"></link>
     <summary type="html">&lt;p&gt;vim-snipmate default snippets (Previously snipmate-snippets)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

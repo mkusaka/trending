@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VHDL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T01:56:39Z</updated>
+  <updated>2022-06-01T01:57:02Z</updated>
   <subtitle>Daily Trending of VHDL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>OSVVM/OSVVM</title>
-    <updated>2022-05-31T01:56:39Z</updated>
-    <id>tag:github.com,2022-05-31:/OSVVM/OSVVM</id>
+    <updated>2022-06-01T01:57:02Z</updated>
+    <id>tag:github.com,2022-06-01:/OSVVM/OSVVM</id>
     <link href="https://github.com/OSVVM/OSVVM" rel="alternate"></link>
     <summary type="html">&lt;p&gt;OSVVM Utility Library: AlertLogPkg, CoveragePkg, RandomPkg, ScoreboardGenericPkg, MemoryPkg, TbUtilPkg, TranscriptPkg, ...&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>MiSTer-devel/PSX_MiSTer</title>
-    <updated>2022-05-31T01:56:39Z</updated>
-    <id>tag:github.com,2022-05-31:/MiSTer-devel/PSX_MiSTer</id>
-    <link href="https://github.com/MiSTer-devel/PSX_MiSTer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PSX for MiSTer&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>stnolting/neorv32</title>
+    <updated>2022-06-01T01:57:02Z</updated>
+    <id>tag:github.com,2022-06-01:/stnolting/neorv32</id>
+    <link href="https://github.com/stnolting/neorv32" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🖥️ A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ghdl/ghdl</title>
-    <updated>2022-05-31T01:56:39Z</updated>
-    <id>tag:github.com,2022-05-31:/ghdl/ghdl</id>
-    <link href="https://github.com/ghdl/ghdl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;VHDL 2008/93/87 simulator&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aws/aws-fpga</title>
+    <updated>2022-06-01T01:57:02Z</updated>
+    <id>tag:github.com,2022-06-01:/aws/aws-fpga</id>
+    <link href="https://github.com/aws/aws-fpga" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official repository of the AWS EC2 FPGA Hardware and Software Development Kit&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

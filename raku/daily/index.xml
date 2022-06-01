@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Raku Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T01:51:11Z</updated>
+  <updated>2022-06-01T01:51:53Z</updated>
   <subtitle>Daily Trending of Raku in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>LineageOS/android_prebuilts_tools-lineage</title>
-    <updated>2022-05-31T01:51:11Z</updated>
-    <id>tag:github.com,2022-05-31:/LineageOS/android_prebuilts_tools-lineage</id>
-    <link href="https://github.com/LineageOS/android_prebuilts_tools-lineage" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rakudo/rakudo</title>
+    <updated>2022-06-01T01:51:53Z</updated>
+    <id>tag:github.com,2022-06-01:/rakudo/rakudo</id>
+    <link href="https://github.com/rakudo/rakudo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🦋 Rakudo – Raku on MoarVM, JVM, and JS&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

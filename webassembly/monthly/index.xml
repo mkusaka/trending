@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub WebAssembly Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T02:56:12Z</updated>
+  <updated>2022-06-01T02:54:24Z</updated>
   <subtitle>Monthly Trending of WebAssembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>WebAssembly/binaryen</title>
-    <updated>2022-05-31T02:56:12Z</updated>
-    <id>tag:github.com,2022-05-31:/WebAssembly/binaryen</id>
+    <updated>2022-06-01T02:54:24Z</updated>
+    <id>tag:github.com,2022-06-01:/WebAssembly/binaryen</id>
     <link href="https://github.com/WebAssembly/binaryen" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Compiler infrastructure and toolchain library for WebAssembly&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>WebAssembly/testsuite</title>
-    <updated>2022-05-31T02:56:12Z</updated>
-    <id>tag:github.com,2022-05-31:/WebAssembly/testsuite</id>
-    <link href="https://github.com/WebAssembly/testsuite" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mirror of the spec testsuite&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>AssemblyScript/assemblyscript</title>
-    <updated>2022-05-31T02:56:12Z</updated>
-    <id>tag:github.com,2022-05-31:/AssemblyScript/assemblyscript</id>
+    <updated>2022-06-01T02:54:24Z</updated>
+    <id>tag:github.com,2022-06-01:/AssemblyScript/assemblyscript</id>
     <link href="https://github.com/AssemblyScript/assemblyscript" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A TypeScript-like language for WebAssembly.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>WebAssembly/testsuite</title>
+    <updated>2022-06-01T02:54:24Z</updated>
+    <id>tag:github.com,2022-06-01:/WebAssembly/testsuite</id>
+    <link href="https://github.com/WebAssembly/testsuite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mirror of the spec testsuite&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>WebAssembly/spec</title>
-    <updated>2022-05-31T02:56:12Z</updated>
-    <id>tag:github.com,2022-05-31:/WebAssembly/spec</id>
+    <updated>2022-06-01T02:54:24Z</updated>
+    <id>tag:github.com,2022-06-01:/WebAssembly/spec</id>
     <link href="https://github.com/WebAssembly/spec" rel="alternate"></link>
     <summary type="html">&lt;p&gt;WebAssembly specification, reference interpreter, and test suite.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

@@ -1,34 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Crystal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T01:36:37Z</updated>
+  <updated>2022-06-01T01:37:39Z</updated>
   <subtitle>Daily Trending of Crystal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>crystal-lang/crystal</title>
-    <updated>2022-05-31T01:36:37Z</updated>
-    <id>tag:github.com,2022-05-31:/crystal-lang/crystal</id>
+    <updated>2022-06-01T01:37:39Z</updated>
+    <id>tag:github.com,2022-06-01:/crystal-lang/crystal</id>
     <link href="https://github.com/crystal-lang/crystal" rel="alternate"></link>
     <summary type="html">&lt;p&gt;The Crystal Programming Language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>oprypin/nightly.link</title>
-    <updated>2022-05-31T01:36:37Z</updated>
-    <id>tag:github.com,2022-05-31:/oprypin/nightly.link</id>
-    <link href="https://github.com/oprypin/nightly.link" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Downloads the latest &#34;nightly&#34; build/artifact from a continuous testing workflow&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hkalexling/Mango</title>
-    <updated>2022-05-31T01:36:37Z</updated>
-    <id>tag:github.com,2022-05-31:/hkalexling/Mango</id>
-    <link href="https://github.com/hkalexling/Mango" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mango is a self-hosted manga server and web reader&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>iv-org/invidious</title>
-    <updated>2022-05-31T01:36:37Z</updated>
-    <id>tag:github.com,2022-05-31:/iv-org/invidious</id>
+    <updated>2022-06-01T01:37:39Z</updated>
+    <id>tag:github.com,2022-06-01:/iv-org/invidious</id>
     <link href="https://github.com/iv-org/invidious" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Invidious is an alternative front-end to YouTube&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

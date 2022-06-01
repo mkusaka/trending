@@ -1,182 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T02:21:43Z</updated>
+  <updated>2022-06-01T02:21:26Z</updated>
   <subtitle>Weekly Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mdo/code-guide</title>
-    <updated>2022-05-31T02:21:43Z</updated>
-    <id>tag:github.com,2022-05-31:/mdo/code-guide</id>
-    <link href="https://github.com/mdo/code-guide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Standards for developing consistent, flexible, and sustainable HTML and CSS.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jekyll/minima</title>
-    <updated>2022-05-31T02:21:43Z</updated>
-    <id>tag:github.com,2022-05-31:/jekyll/minima</id>
-    <link href="https://github.com/jekyll/minima" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Minima is a one-size-fits-all Jekyll theme for writers.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>zabbix/community-templates</title>
-    <updated>2022-05-31T02:21:43Z</updated>
-    <id>tag:github.com,2022-05-31:/zabbix/community-templates</id>
+    <updated>2022-06-01T02:21:26Z</updated>
+    <id>tag:github.com,2022-06-01:/zabbix/community-templates</id>
     <link href="https://github.com/zabbix/community-templates" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Zabbix Community Templates repository&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>RyanFitzgerald/devportfolio</title>
-    <updated>2022-05-31T02:21:43Z</updated>
-    <id>tag:github.com,2022-05-31:/RyanFitzgerald/devportfolio</id>
-    <link href="https://github.com/RyanFitzgerald/devportfolio" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ppeetteerrs/obsidian-zola</title>
-    <updated>2022-05-31T02:21:43Z</updated>
-    <id>tag:github.com,2022-05-31:/ppeetteerrs/obsidian-zola</id>
-    <link href="https://github.com/ppeetteerrs/obsidian-zola" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A no-brainer solution to turning your Obsidian PKM into a Zola site.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mdo/code-guide</title>
+    <updated>2022-06-01T02:21:26Z</updated>
+    <id>tag:github.com,2022-06-01:/mdo/code-guide</id>
+    <link href="https://github.com/mdo/code-guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Standards for developing consistent, flexible, and sustainable HTML and CSS.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>wowchemy/wowchemy-hugo-themes</title>
-    <updated>2022-05-31T02:21:43Z</updated>
-    <id>tag:github.com,2022-05-31:/wowchemy/wowchemy-hugo-themes</id>
+    <updated>2022-06-01T02:21:26Z</updated>
+    <id>tag:github.com,2022-06-01:/wowchemy/wowchemy-hugo-themes</id>
     <link href="https://github.com/wowchemy/wowchemy-hugo-themes" rel="alternate"></link>
     <summary type="html">&lt;p&gt;🔥 Hugo website builder, Hugo themes &amp; Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mdbootstrap/mdb-ui-kit</title>
-    <updated>2022-05-31T02:21:43Z</updated>
-    <id>tag:github.com,2022-05-31:/mdbootstrap/mdb-ui-kit</id>
-    <link href="https://github.com/mdbootstrap/mdb-ui-kit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bootstrap 5 &amp; Material Design 2.0 UI KIT&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jekyll/minima</title>
+    <updated>2022-06-01T02:21:26Z</updated>
+    <id>tag:github.com,2022-06-01:/jekyll/minima</id>
+    <link href="https://github.com/jekyll/minima" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Minima is a one-size-fits-all Jekyll theme for writers.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>just-the-docs/just-the-docs</title>
-    <updated>2022-05-31T02:21:43Z</updated>
-    <id>tag:github.com,2022-05-31:/just-the-docs/just-the-docs</id>
-    <link href="https://github.com/just-the-docs/just-the-docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A modern, high customizable, responsive Jekyll theme for documention with built-in search.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>material-components/material-web</title>
-    <updated>2022-05-31T02:21:43Z</updated>
-    <id>tag:github.com,2022-05-31:/material-components/material-web</id>
-    <link href="https://github.com/material-components/material-web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Material Design Web Components&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>flutter/website</title>
-    <updated>2022-05-31T02:21:43Z</updated>
-    <id>tag:github.com,2022-05-31:/flutter/website</id>
-    <link href="https://github.com/flutter/website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Flutter documentation web site&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>RyanFitzgerald/devportfolio</title>
+    <updated>2022-06-01T02:21:26Z</updated>
+    <id>tag:github.com,2022-06-01:/RyanFitzgerald/devportfolio</id>
+    <link href="https://github.com/RyanFitzgerald/devportfolio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>cruip/open-react-template</title>
-    <updated>2022-05-31T02:21:43Z</updated>
-    <id>tag:github.com,2022-05-31:/cruip/open-react-template</id>
+    <updated>2022-06-01T02:21:26Z</updated>
+    <id>tag:github.com,2022-06-01:/cruip/open-react-template</id>
     <link href="https://github.com/cruip/open-react-template" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A free React landing page template designed to showcase open source projects, SaaS products, online services, and more. Made by&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>mdbootstrap/mdb-ui-kit</title>
+    <updated>2022-06-01T02:21:26Z</updated>
+    <id>tag:github.com,2022-06-01:/mdbootstrap/mdb-ui-kit</id>
+    <link href="https://github.com/mdbootstrap/mdb-ui-kit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bootstrap 5 &amp; Material Design 2.0 UI KIT&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>slatedocs/slate</title>
-    <updated>2022-05-31T02:21:43Z</updated>
-    <id>tag:github.com,2022-05-31:/slatedocs/slate</id>
+    <updated>2022-06-01T02:21:26Z</updated>
+    <id>tag:github.com,2022-06-01:/slatedocs/slate</id>
     <link href="https://github.com/slatedocs/slate" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Beautiful static documentation for your API&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>microsoft/TypeScript-Node-Starter</title>
-    <updated>2022-05-31T02:21:43Z</updated>
-    <id>tag:github.com,2022-05-31:/microsoft/TypeScript-Node-Starter</id>
-    <link href="https://github.com/microsoft/TypeScript-Node-Starter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A reference example for TypeScript and Node with a detailed README describing how to use the two together.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kitian616/jekyll-TeXt-theme</title>
-    <updated>2022-05-31T02:21:43Z</updated>
-    <id>tag:github.com,2022-05-31:/kitian616/jekyll-TeXt-theme</id>
-    <link href="https://github.com/kitian616/jekyll-TeXt-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Ileriayo/markdown-badges</title>
+    <updated>2022-06-01T02:21:26Z</updated>
+    <id>tag:github.com,2022-06-01:/Ileriayo/markdown-badges</id>
+    <link href="https://github.com/Ileriayo/markdown-badges" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Badges for your personal developer branding, profile, and projects.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>vinceliuice/WhiteSur-gtk-theme</title>
-    <updated>2022-05-31T02:21:43Z</updated>
-    <id>tag:github.com,2022-05-31:/vinceliuice/WhiteSur-gtk-theme</id>
+    <updated>2022-06-01T02:21:26Z</updated>
+    <id>tag:github.com,2022-06-01:/vinceliuice/WhiteSur-gtk-theme</id>
     <link href="https://github.com/vinceliuice/WhiteSur-gtk-theme" rel="alternate"></link>
     <summary type="html">&lt;p&gt;MacOS Big Sur like theme for Gnome desktops&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>next-step/atdd-subway-admin</title>
-    <updated>2022-05-31T02:21:43Z</updated>
-    <id>tag:github.com,2022-05-31:/next-step/atdd-subway-admin</id>
+    <updated>2022-06-01T02:21:26Z</updated>
+    <id>tag:github.com,2022-06-01:/next-step/atdd-subway-admin</id>
     <link href="https://github.com/next-step/atdd-subway-admin" rel="alternate"></link>
     <summary type="html">&lt;p&gt;우아한테크캠프 pro ATDD 과정 저장소&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>mate-academy/layout_creativeBakery</title>
+    <updated>2022-06-01T02:21:26Z</updated>
+    <id>tag:github.com,2022-06-01:/mate-academy/layout_creativeBakery</id>
+    <link href="https://github.com/mate-academy/layout_creativeBakery" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rstacruz/cheatsheets</title>
+    <updated>2022-06-01T02:21:26Z</updated>
+    <id>tag:github.com,2022-06-01:/rstacruz/cheatsheets</id>
+    <link href="https://github.com/rstacruz/cheatsheets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My cheatsheets&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>mate-academy/Kickstarter</title>
-    <updated>2022-05-31T02:21:43Z</updated>
-    <id>tag:github.com,2022-05-31:/mate-academy/Kickstarter</id>
+    <updated>2022-06-01T02:21:26Z</updated>
+    <id>tag:github.com,2022-06-01:/mate-academy/Kickstarter</id>
     <link href="https://github.com/mate-academy/Kickstarter" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>mate-academy/Eco_cosmetics</title>
-    <updated>2022-05-31T02:21:43Z</updated>
-    <id>tag:github.com,2022-05-31:/mate-academy/Eco_cosmetics</id>
+    <updated>2022-06-01T02:21:26Z</updated>
+    <id>tag:github.com,2022-06-01:/mate-academy/Eco_cosmetics</id>
     <link href="https://github.com/mate-academy/Eco_cosmetics" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>abhinavs/moonwalk</title>
-    <updated>2022-05-31T02:21:43Z</updated>
-    <id>tag:github.com,2022-05-31:/abhinavs/moonwalk</id>
+    <updated>2022-06-01T02:21:26Z</updated>
+    <id>tag:github.com,2022-06-01:/abhinavs/moonwalk</id>
     <link href="https://github.com/abhinavs/moonwalk" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A fast &amp; minimal Jekyll blog theme with clean dark mode&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>mate-academy/layout_dia</title>
-    <updated>2022-05-31T02:21:43Z</updated>
-    <id>tag:github.com,2022-05-31:/mate-academy/layout_dia</id>
+    <updated>2022-06-01T02:21:26Z</updated>
+    <id>tag:github.com,2022-06-01:/mate-academy/layout_dia</id>
     <link href="https://github.com/mate-academy/layout_dia" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>SpiderStrategies/scoreboard-colors</title>
-    <updated>2022-05-31T02:21:43Z</updated>
-    <id>tag:github.com,2022-05-31:/SpiderStrategies/scoreboard-colors</id>
+    <updated>2022-06-01T02:21:26Z</updated>
+    <id>tag:github.com,2022-06-01:/SpiderStrategies/scoreboard-colors</id>
     <link href="https://github.com/SpiderStrategies/scoreboard-colors" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Sass stylesheets for colors shared between various Scoreboard projects&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rozniak/xfce-winxp-tc</title>
-    <updated>2022-05-31T02:21:43Z</updated>
-    <id>tag:github.com,2022-05-31:/rozniak/xfce-winxp-tc</id>
-    <link href="https://github.com/rozniak/xfce-winxp-tc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Windows XP stuff for XFCE&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>odoo/design-themes</title>
-    <updated>2022-05-31T02:21:43Z</updated>
-    <id>tag:github.com,2022-05-31:/odoo/design-themes</id>
-    <link href="https://github.com/odoo/design-themes" rel="alternate"></link>
+    <title>mate-academy/Museum</title>
+    <updated>2022-06-01T02:21:26Z</updated>
+    <id>tag:github.com,2022-06-01:/mate-academy/Museum</id>
+    <link href="https://github.com/mate-academy/Museum" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>patdryburgh/hitchens</title>
-    <updated>2022-05-31T02:21:43Z</updated>
-    <id>tag:github.com,2022-05-31:/patdryburgh/hitchens</id>
+    <updated>2022-06-01T02:21:26Z</updated>
+    <id>tag:github.com,2022-06-01:/patdryburgh/hitchens</id>
     <link href="https://github.com/patdryburgh/hitchens" rel="alternate"></link>
     <summary type="html">&lt;p&gt;An inarguably well-designed Jekyll theme.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>just-the-docs/just-the-docs</title>
+    <updated>2022-06-01T02:21:26Z</updated>
+    <id>tag:github.com,2022-06-01:/just-the-docs/just-the-docs</id>
+    <link href="https://github.com/just-the-docs/just-the-docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A modern, high customizable, responsive Jekyll theme for documention with built-in search.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>marcojakob/code.makery.ch</title>
+    <updated>2022-06-01T02:21:26Z</updated>
+    <id>tag:github.com,2022-06-01:/marcojakob/code.makery.ch</id>
+    <link href="https://github.com/marcojakob/code.makery.ch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learning how to code. Tutorials and Blog about programming.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>StaticMania/roxo-hugo</title>
+    <updated>2022-06-01T02:21:26Z</updated>
+    <id>tag:github.com,2022-06-01:/StaticMania/roxo-hugo</id>
+    <link href="https://github.com/StaticMania/roxo-hugo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>duckduckgo/duckduckgo-help-pages</title>
-    <updated>2022-05-31T02:21:43Z</updated>
-    <id>tag:github.com,2022-05-31:/duckduckgo/duckduckgo-help-pages</id>
+    <updated>2022-06-01T02:21:26Z</updated>
+    <id>tag:github.com,2022-06-01:/duckduckgo/duckduckgo-help-pages</id>
     <link href="https://github.com/duckduckgo/duckduckgo-help-pages" rel="alternate"></link>
     <summary type="html">&lt;p&gt;DuckDuckGo Help Pages&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>microsoft/TypeScript-Node-Starter</title>
+    <updated>2022-06-01T02:21:26Z</updated>
+    <id>tag:github.com,2022-06-01:/microsoft/TypeScript-Node-Starter</id>
+    <link href="https://github.com/microsoft/TypeScript-Node-Starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A reference example for TypeScript and Node with a detailed README describing how to use the two together.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

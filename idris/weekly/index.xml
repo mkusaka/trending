@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Idris Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T02:11:31Z</updated>
+  <updated>2022-06-01T02:11:34Z</updated>
   <subtitle>Weekly Trending of Idris in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>idris-lang/Idris2</title>
-    <updated>2022-05-31T02:11:31Z</updated>
-    <id>tag:github.com,2022-05-31:/idris-lang/Idris2</id>
+    <updated>2022-06-01T02:11:34Z</updated>
+    <id>tag:github.com,2022-06-01:/idris-lang/Idris2</id>
     <link href="https://github.com/idris-lang/Idris2" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A purely functional programming language with first class types&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

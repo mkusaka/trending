@@ -1,56 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Apex Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T02:02:37Z</updated>
+  <updated>2022-06-01T02:02:38Z</updated>
   <subtitle>Weekly Trending of Apex in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>developerforce/trailhead-code-samples</title>
-    <updated>2022-05-31T02:02:37Z</updated>
-    <id>tag:github.com,2022-05-31:/developerforce/trailhead-code-samples</id>
+    <updated>2022-06-01T02:02:38Z</updated>
+    <id>tag:github.com,2022-06-01:/developerforce/trailhead-code-samples</id>
     <link href="https://github.com/developerforce/trailhead-code-samples" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Public code samples to support Trailhead challenges&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>apex-enterprise-patterns/fflib-apex-common</title>
-    <updated>2022-05-31T02:02:37Z</updated>
-    <id>tag:github.com,2022-05-31:/apex-enterprise-patterns/fflib-apex-common</id>
-    <link href="https://github.com/apex-enterprise-patterns/fflib-apex-common" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Common Apex Library supporting Apex Enterprise Patterns and much more!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>choudharymanish8585/Apex-Development-Course</title>
-    <updated>2022-05-31T02:02:37Z</updated>
-    <id>tag:github.com,2022-05-31:/choudharymanish8585/Apex-Development-Course</id>
-    <link href="https://github.com/choudharymanish8585/Apex-Development-Course" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>trailheadapps/apex-recipes</title>
+    <updated>2022-06-01T02:02:38Z</updated>
+    <id>tag:github.com,2022-06-01:/trailheadapps/apex-recipes</id>
+    <link href="https://github.com/trailheadapps/apex-recipes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A library of concise, meaningful examples of Apex code for common use cases following best practices.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>SalesforceFoundation/EDA</title>
-    <updated>2022-05-31T02:02:37Z</updated>
-    <id>tag:github.com,2022-05-31:/SalesforceFoundation/EDA</id>
+    <updated>2022-06-01T02:02:38Z</updated>
+    <id>tag:github.com,2022-06-01:/SalesforceFoundation/EDA</id>
     <link href="https://github.com/SalesforceFoundation/EDA" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Education Data Architecture&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>apex-enterprise-patterns/fflib-apex-common</title>
+    <updated>2022-06-01T02:02:38Z</updated>
+    <id>tag:github.com,2022-06-01:/apex-enterprise-patterns/fflib-apex-common</id>
+    <link href="https://github.com/apex-enterprise-patterns/fflib-apex-common" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Common Apex Library supporting Apex Enterprise Patterns and much more!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>alexed1/LightningFlowComponents</title>
-    <updated>2022-05-31T02:02:37Z</updated>
-    <id>tag:github.com,2022-05-31:/alexed1/LightningFlowComponents</id>
+    <updated>2022-06-01T02:02:38Z</updated>
+    <id>tag:github.com,2022-06-01:/alexed1/LightningFlowComponents</id>
     <link href="https://github.com/alexed1/LightningFlowComponents" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A collection of unofficial Flow extensions that can be used to enhance Salesforce Flow and Orchestrator.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SalesforceFoundation/NPSP</title>
-    <updated>2022-05-31T02:02:37Z</updated>
-    <id>tag:github.com,2022-05-31:/SalesforceFoundation/NPSP</id>
-    <link href="https://github.com/SalesforceFoundation/NPSP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The current version of the Salesforce.org Nonprofit Success Pack&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SFDO-Community/declarative-lookup-rollup-summaries</title>
-    <updated>2022-05-31T02:02:37Z</updated>
-    <id>tag:github.com,2022-05-31:/SFDO-Community/declarative-lookup-rollup-summaries</id>
-    <link href="https://github.com/SFDO-Community/declarative-lookup-rollup-summaries" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Declarative Rollup Summaries for Lookups&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

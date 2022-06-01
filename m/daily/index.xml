@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub M Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T01:45:19Z</updated>
+  <updated>2022-06-01T01:45:59Z</updated>
   <subtitle>Daily Trending of M in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>waydabber/m1ddc</title>
-    <updated>2022-05-31T01:45:19Z</updated>
-    <id>tag:github.com,2022-05-31:/waydabber/m1ddc</id>
-    <link href="https://github.com/waydabber/m1ddc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This little tool controls external displays (connected via USB-C/DisplayPort Alt Mode) using DDC/CI on M1 Macs. Useful to embed in various scripts.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

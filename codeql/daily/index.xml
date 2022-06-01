@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CodeQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T01:36:08Z</updated>
+  <updated>2022-06-01T01:37:14Z</updated>
   <subtitle>Daily Trending of CodeQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>github/vscode-codeql-starter</title>
-    <updated>2022-05-31T01:36:08Z</updated>
-    <id>tag:github.com,2022-05-31:/github/vscode-codeql-starter</id>
-    <link href="https://github.com/github/vscode-codeql-starter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Starter workspace to use with the CodeQL extension for Visual Studio Code.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>github/codeql</title>
+    <updated>2022-06-01T01:37:14Z</updated>
+    <id>tag:github.com,2022-06-01:/github/codeql</id>
+    <link href="https://github.com/github/codeql" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security (code scanning), LGTM.com, and LGTM Enterprise&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>github/codeql-go</title>
-    <updated>2022-05-31T01:36:08Z</updated>
-    <id>tag:github.com,2022-05-31:/github/codeql-go</id>
+    <updated>2022-06-01T01:37:14Z</updated>
+    <id>tag:github.com,2022-06-01:/github/codeql-go</id>
     <link href="https://github.com/github/codeql-go" rel="alternate"></link>
     <summary type="html">&lt;p&gt;The CodeQL extractor and libraries for Go.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

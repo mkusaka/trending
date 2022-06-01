@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub M4 Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T02:14:09Z</updated>
+  <updated>2022-06-01T02:14:12Z</updated>
   <subtitle>Weekly Trending of M4 in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>catalyst/moodle-fileconverter_librelambda</title>
-    <updated>2022-05-31T02:14:09Z</updated>
-    <id>tag:github.com,2022-05-31:/catalyst/moodle-fileconverter_librelambda</id>
+    <updated>2022-06-01T02:14:12Z</updated>
+    <id>tag:github.com,2022-06-01:/catalyst/moodle-fileconverter_librelambda</id>
     <link href="https://github.com/catalyst/moodle-fileconverter_librelambda" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A Libre Office document converter for Moodle leveraging AWS Lambda&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>libMesh/autoconf-submodule</title>
-    <updated>2022-05-31T02:14:09Z</updated>
-    <id>tag:github.com,2022-05-31:/libMesh/autoconf-submodule</id>
+    <updated>2022-06-01T02:14:12Z</updated>
+    <id>tag:github.com,2022-06-01:/libMesh/autoconf-submodule</id>
     <link href="https://github.com/libMesh/autoconf-submodule" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>LineageOS/android_prebuilts_build-tools</title>
-    <updated>2022-05-31T02:14:09Z</updated>
-    <id>tag:github.com,2022-05-31:/LineageOS/android_prebuilts_build-tools</id>
+    <updated>2022-06-01T02:14:12Z</updated>
+    <id>tag:github.com,2022-06-01:/LineageOS/android_prebuilts_build-tools</id>
     <link href="https://github.com/LineageOS/android_prebuilts_build-tools" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

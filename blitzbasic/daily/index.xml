@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub BlitzBasic Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T01:34:24Z</updated>
+  <updated>2022-06-01T01:35:36Z</updated>
   <subtitle>Daily Trending of BlitzBasic in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>1N3/IntruderPayloads</title>
-    <updated>2022-05-31T01:34:24Z</updated>
-    <id>tag:github.com,2022-05-31:/1N3/IntruderPayloads</id>
-    <link href="https://github.com/1N3/IntruderPayloads" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>wagiro/BurpBounty</title>
-    <updated>2022-05-31T01:34:24Z</updated>
-    <id>tag:github.com,2022-05-31:/wagiro/BurpBounty</id>
-    <link href="https://github.com/wagiro/BurpBounty" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Burp Bounty (Scan Check Builder in BApp Store) is a extension of Burp Suite that allows you, in a quick and simple way, to improve the active and passive scanner by means of personalized rules through a very intuitive graphical interface.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

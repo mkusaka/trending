@@ -1,98 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T01:43:32Z</updated>
+  <updated>2022-06-01T01:44:22Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
+    <title>avik-pal/Lux.jl</title>
+    <updated>2022-06-01T01:44:22Z</updated>
+    <id>tag:github.com,2022-06-01:/avik-pal/Lux.jl</id>
+    <link href="https://github.com/avik-pal/Lux.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Explicitly Parameterized Neural Networks in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>JuliaRegistries/General</title>
-    <updated>2022-05-31T01:43:32Z</updated>
-    <id>tag:github.com,2022-05-31:/JuliaRegistries/General</id>
+    <updated>2022-06-01T01:44:22Z</updated>
+    <id>tag:github.com,2022-06-01:/JuliaRegistries/General</id>
     <link href="https://github.com/JuliaRegistries/General" rel="alternate"></link>
     <summary type="html">&lt;p&gt;The official registry of general Julia packages&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>JuliaLang/julia</title>
-    <updated>2022-05-31T01:43:32Z</updated>
-    <id>tag:github.com,2022-05-31:/JuliaLang/julia</id>
+    <updated>2022-06-01T01:44:22Z</updated>
+    <id>tag:github.com,2022-06-01:/JuliaLang/julia</id>
     <link href="https://github.com/JuliaLang/julia" rel="alternate"></link>
     <summary type="html">&lt;p&gt;The Julia Programming Language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SciML/DiffEqFlux.jl</title>
-    <updated>2022-05-31T01:43:32Z</updated>
-    <id>tag:github.com,2022-05-31:/SciML/DiffEqFlux.jl</id>
-    <link href="https://github.com/SciML/DiffEqFlux.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Universal neural differential equations with O(1) backprop, GPUs, and stiff+non-stiff DE solvers, demonstrating scientific machine learning (SciML) and physics-informed machine learning methods&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaLang/Pkg.jl</title>
+    <updated>2022-06-01T01:44:22Z</updated>
+    <id>tag:github.com,2022-06-01:/JuliaLang/Pkg.jl</id>
+    <link href="https://github.com/JuliaLang/Pkg.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pkg - Package manager for the Julia programming language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CliMA/CalibrateEDMF.jl</title>
-    <updated>2022-05-31T01:43:32Z</updated>
-    <id>tag:github.com,2022-05-31:/CliMA/CalibrateEDMF.jl</id>
-    <link href="https://github.com/CliMA/CalibrateEDMF.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A package to calibrate atmospheric turbulence and convection parameterizations using gradient-free ensemble Kalman methods&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaStats/Distributions.jl</title>
+    <updated>2022-06-01T01:44:22Z</updated>
+    <id>tag:github.com,2022-06-01:/JuliaStats/Distributions.jl</id>
+    <link href="https://github.com/JuliaStats/Distributions.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Julia package for probability distributions and associated functions.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JuliaComputing/HTTPDownloads.jl</title>
-    <updated>2022-05-31T01:43:32Z</updated>
-    <id>tag:github.com,2022-05-31:/JuliaComputing/HTTPDownloads.jl</id>
-    <link href="https://github.com/JuliaComputing/HTTPDownloads.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Use Downloads.jl as a backend for HTTP.jl&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>FluxML/Flux.jl</title>
-    <updated>2022-05-31T01:43:32Z</updated>
-    <id>tag:github.com,2022-05-31:/FluxML/Flux.jl</id>
-    <link href="https://github.com/FluxML/Flux.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Relax! Flux is the ML library that doesn&#39;t make you tensor&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mitmath/18S191</title>
-    <updated>2022-05-31T01:43:32Z</updated>
-    <id>tag:github.com,2022-05-31:/mitmath/18S191</id>
-    <link href="https://github.com/mitmath/18S191" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Course 18.S191 at MIT, Spring 2021 - Introduction to computational thinking with Julia:&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaMolSim/Molly.jl</title>
-    <updated>2022-05-31T01:43:32Z</updated>
-    <id>tag:github.com,2022-05-31:/JuliaMolSim/Molly.jl</id>
-    <link href="https://github.com/JuliaMolSim/Molly.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Molecular simulation in Julia&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SciML/DiffEqDocs.jl</title>
-    <updated>2022-05-31T01:43:32Z</updated>
-    <id>tag:github.com,2022-05-31:/SciML/DiffEqDocs.jl</id>
-    <link href="https://github.com/SciML/DiffEqDocs.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Documentation for the DiffEq differential equations and scientific machine learning (SciML) ecosystem&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bcc-research/CFMMRouter.jl</title>
+    <updated>2022-06-01T01:44:22Z</updated>
+    <id>tag:github.com,2022-06-01:/bcc-research/CFMMRouter.jl</id>
+    <link href="https://github.com/bcc-research/CFMMRouter.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Convex optimization for fun and profit. (Now in Julia!)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>JuliaPlots/Makie.jl</title>
-    <updated>2022-05-31T01:43:32Z</updated>
-    <id>tag:github.com,2022-05-31:/JuliaPlots/Makie.jl</id>
+    <updated>2022-06-01T01:44:22Z</updated>
+    <id>tag:github.com,2022-06-01:/JuliaPlots/Makie.jl</id>
     <link href="https://github.com/JuliaPlots/Makie.jl" rel="alternate"></link>
     <summary type="html">&lt;p&gt;High level plotting on the GPU.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JuliaGPU/CUDA.jl</title>
-    <updated>2022-05-31T01:43:32Z</updated>
-    <id>tag:github.com,2022-05-31:/JuliaGPU/CUDA.jl</id>
-    <link href="https://github.com/JuliaGPU/CUDA.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CUDA programming in Julia.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>FluxML/Flux.jl</title>
+    <updated>2022-06-01T01:44:22Z</updated>
+    <id>tag:github.com,2022-06-01:/FluxML/Flux.jl</id>
+    <link href="https://github.com/FluxML/Flux.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Relax! Flux is the ML library that doesn&#39;t make you tensor&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JuliaDynamics/DynamicalSystems.jl</title>
-    <updated>2022-05-31T01:43:32Z</updated>
-    <id>tag:github.com,2022-05-31:/JuliaDynamics/DynamicalSystems.jl</id>
-    <link href="https://github.com/JuliaDynamics/DynamicalSystems.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Award winning software library for nonlinear dynamics&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaComputing/HTTPDownloads.jl</title>
+    <updated>2022-06-01T01:44:22Z</updated>
+    <id>tag:github.com,2022-06-01:/JuliaComputing/HTTPDownloads.jl</id>
+    <link href="https://github.com/JuliaComputing/HTTPDownloads.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Use Downloads.jl as a backend for HTTP.jl&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sisl/BayesNets.jl</title>
-    <updated>2022-05-31T01:43:32Z</updated>
-    <id>tag:github.com,2022-05-31:/sisl/BayesNets.jl</id>
-    <link href="https://github.com/sisl/BayesNets.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bayesian Networks for Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaPlots/Plots.jl</title>
+    <updated>2022-06-01T01:44:22Z</updated>
+    <id>tag:github.com,2022-06-01:/JuliaPlots/Plots.jl</id>
+    <link href="https://github.com/JuliaPlots/Plots.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Powerful convenience for Julia visualizations and data analysis&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaData/DataFrames.jl</title>
+    <updated>2022-06-01T01:44:22Z</updated>
+    <id>tag:github.com,2022-06-01:/JuliaData/DataFrames.jl</id>
+    <link href="https://github.com/JuliaData/DataFrames.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;In-memory tabular data in Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

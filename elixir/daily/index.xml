@@ -1,182 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T01:38:41Z</updated>
+  <updated>2022-06-01T01:39:47Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>firezone/firezone</title>
-    <updated>2022-05-31T01:38:41Z</updated>
-    <id>tag:github.com,2022-05-31:/firezone/firezone</id>
-    <link href="https://github.com/firezone/firezone" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;WireGuard®-based VPN server and firewall&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Hentioe/policr-mini</title>
-    <updated>2022-05-31T01:38:41Z</updated>
-    <id>tag:github.com,2022-05-31:/Hentioe/policr-mini</id>
-    <link href="https://github.com/Hentioe/policr-mini" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;更加现代的 Policr 迷你版&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>phoenixframework/phoenix_live_view</title>
-    <updated>2022-05-31T01:38:41Z</updated>
-    <id>tag:github.com,2022-05-31:/phoenixframework/phoenix_live_view</id>
-    <link href="https://github.com/phoenixframework/phoenix_live_view" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rich, real-time user experiences with server-rendered HTML&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>wojtekmach/req</title>
-    <updated>2022-05-31T01:38:41Z</updated>
-    <id>tag:github.com,2022-05-31:/wojtekmach/req</id>
-    <link href="https://github.com/wojtekmach/req" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Req is a batteries-included HTTP client for Elixir.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>elixir-lang/elixir</title>
-    <updated>2022-05-31T01:38:41Z</updated>
-    <id>tag:github.com,2022-05-31:/elixir-lang/elixir</id>
-    <link href="https://github.com/elixir-lang/elixir" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elixir is a dynamic, functional language designed for building scalable and maintainable applications&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>blockscout/blockscout</title>
-    <updated>2022-05-31T01:38:41Z</updated>
-    <id>tag:github.com,2022-05-31:/blockscout/blockscout</id>
+    <updated>2022-06-01T01:39:47Z</updated>
+    <id>tag:github.com,2022-06-01:/blockscout/blockscout</id>
     <link href="https://github.com/blockscout/blockscout" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>danielberkompas/cloak</title>
-    <updated>2022-05-31T01:38:41Z</updated>
-    <id>tag:github.com,2022-05-31:/danielberkompas/cloak</id>
-    <link href="https://github.com/danielberkompas/cloak" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elixir encryption library designed for Ecto&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wojtekmach/req</title>
+    <updated>2022-06-01T01:39:47Z</updated>
+    <id>tag:github.com,2022-06-01:/wojtekmach/req</id>
+    <link href="https://github.com/wojtekmach/req" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Req is a batteries-included HTTP client for Elixir.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>supabase/realtime</title>
-    <updated>2022-05-31T01:38:41Z</updated>
-    <id>tag:github.com,2022-05-31:/supabase/realtime</id>
-    <link href="https://github.com/supabase/realtime" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sorentwo/oban</title>
+    <updated>2022-06-01T01:39:47Z</updated>
+    <id>tag:github.com,2022-06-01:/sorentwo/oban</id>
+    <link href="https://github.com/sorentwo/oban" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💎 Robust job processing in Elixir, backed by modern PostgreSQL&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hissssst/pathex</title>
-    <updated>2022-05-31T01:38:41Z</updated>
-    <id>tag:github.com,2022-05-31:/hissssst/pathex</id>
-    <link href="https://github.com/hissssst/pathex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fastest way to access data in Elixir&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>livebook-dev/livebook</title>
-    <updated>2022-05-31T01:38:41Z</updated>
-    <id>tag:github.com,2022-05-31:/livebook-dev/livebook</id>
-    <link href="https://github.com/livebook-dev/livebook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Interactive and collaborative code notebooks for Elixir - built with Phoenix LiveView&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>phoenixframework/phoenix</title>
-    <updated>2022-05-31T01:38:41Z</updated>
-    <id>tag:github.com,2022-05-31:/phoenixframework/phoenix</id>
-    <link href="https://github.com/phoenixframework/phoenix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Peace of mind from prototype to production&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>getsentry/sentry-elixir</title>
-    <updated>2022-05-31T01:38:41Z</updated>
-    <id>tag:github.com,2022-05-31:/getsentry/sentry-elixir</id>
-    <link href="https://github.com/getsentry/sentry-elixir" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The official Elixir SDK for Sentry (sentry.io)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>notifiex/notifiex</title>
-    <updated>2022-05-31T01:38:41Z</updated>
-    <id>tag:github.com,2022-05-31:/notifiex/notifiex</id>
-    <link href="https://github.com/notifiex/notifiex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A dead simple Elixir library for sending notifications to various messaging services. (supports file uploads, multiple notification dispatching, and much more! ✨)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>petalframework/petal_components</title>
-    <updated>2022-05-31T01:38:41Z</updated>
-    <id>tag:github.com,2022-05-31:/petalframework/petal_components</id>
-    <link href="https://github.com/petalframework/petal_components" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Phoenix + Live View HEEX Components&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kafkaex/kafka_ex</title>
-    <updated>2022-05-31T01:38:41Z</updated>
-    <id>tag:github.com,2022-05-31:/kafkaex/kafka_ex</id>
-    <link href="https://github.com/kafkaex/kafka_ex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Kafka client library for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lucasvegi/Elixir-Code-Smells</title>
-    <updated>2022-05-31T01:38:41Z</updated>
-    <id>tag:github.com,2022-05-31:/lucasvegi/Elixir-Code-Smells</id>
-    <link href="https://github.com/lucasvegi/Elixir-Code-Smells" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Catalog of Elixir-specific code smells&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>elixir-nx/explorer</title>
-    <updated>2022-05-31T01:38:41Z</updated>
-    <id>tag:github.com,2022-05-31:/elixir-nx/explorer</id>
-    <link href="https://github.com/elixir-nx/explorer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Series (one-dimensional) and dataframes (two-dimensional) for fast data exploration in Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>plausible/analytics</title>
+    <updated>2022-06-01T01:39:47Z</updated>
+    <id>tag:github.com,2022-06-01:/plausible/analytics</id>
+    <link href="https://github.com/plausible/analytics" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>esl/gradient</title>
-    <updated>2022-05-31T01:38:41Z</updated>
-    <id>tag:github.com,2022-05-31:/esl/gradient</id>
+    <updated>2022-06-01T01:39:47Z</updated>
+    <id>tag:github.com,2022-06-01:/esl/gradient</id>
     <link href="https://github.com/esl/gradient" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Gradient is a static typechecker for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>surface-ui/surface</title>
-    <updated>2022-05-31T01:38:41Z</updated>
-    <id>tag:github.com,2022-05-31:/surface-ui/surface</id>
+    <updated>2022-06-01T01:39:47Z</updated>
+    <id>tag:github.com,2022-06-01:/surface-ui/surface</id>
     <link href="https://github.com/surface-ui/surface" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A server-side rendering component library for Phoenix&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ThePrimeagen/yew-have-ligma</title>
-    <updated>2022-05-31T01:38:41Z</updated>
-    <id>tag:github.com,2022-05-31:/ThePrimeagen/yew-have-ligma</id>
-    <link href="https://github.com/ThePrimeagen/yew-have-ligma" rel="alternate"></link>
+    <title>access-company/antikythera</title>
+    <updated>2022-06-01T01:39:47Z</updated>
+    <id>tag:github.com,2022-06-01:/access-company/antikythera</id>
+    <link href="https://github.com/access-company/antikythera" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Elixir framework to build your own in-house PaaS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>livebook-dev/livebook</title>
+    <updated>2022-06-01T01:39:47Z</updated>
+    <id>tag:github.com,2022-06-01:/livebook-dev/livebook</id>
+    <link href="https://github.com/livebook-dev/livebook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Interactive and collaborative code notebooks for Elixir - built with Phoenix LiveView&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>open-api-spex/open_api_spex</title>
+    <updated>2022-06-01T01:39:47Z</updated>
+    <id>tag:github.com,2022-06-01:/open-api-spex/open_api_spex</id>
+    <link href="https://github.com/open-api-spex/open_api_spex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open API Specifications for Elixir Plug applications&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>membraneframework/membrane_telemetry_metrics</title>
+    <updated>2022-06-01T01:39:47Z</updated>
+    <id>tag:github.com,2022-06-01:/membraneframework/membrane_telemetry_metrics</id>
+    <link href="https://github.com/membraneframework/membrane_telemetry_metrics" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mojotech/torch</title>
-    <updated>2022-05-31T01:38:41Z</updated>
-    <id>tag:github.com,2022-05-31:/mojotech/torch</id>
-    <link href="https://github.com/mojotech/torch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A rapid admin generator for Elixir &amp; Phoenix&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>membraneframework/membrane_rtp_plugin</title>
+    <updated>2022-06-01T01:39:47Z</updated>
+    <id>tag:github.com,2022-06-01:/membraneframework/membrane_rtp_plugin</id>
+    <link href="https://github.com/membraneframework/membrane_rtp_plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Membrane bins and elements for sending and receiving RTP/SRTP and RTCP/SRTCP streams&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>h4cc/awesome-elixir</title>
-    <updated>2022-05-31T01:38:41Z</updated>
-    <id>tag:github.com,2022-05-31:/h4cc/awesome-elixir</id>
+    <updated>2022-06-01T01:39:47Z</updated>
+    <id>tag:github.com,2022-06-01:/h4cc/awesome-elixir</id>
     <link href="https://github.com/h4cc/awesome-elixir" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>elixir-nx/nx</title>
-    <updated>2022-05-31T01:38:41Z</updated>
-    <id>tag:github.com,2022-05-31:/elixir-nx/nx</id>
-    <link href="https://github.com/elixir-nx/nx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Multi-dimensional arrays (tensors) and numerical definitions for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>solfacil/feature-flag</title>
+    <updated>2022-06-01T01:39:47Z</updated>
+    <id>tag:github.com,2022-06-01:/solfacil/feature-flag</id>
+    <link href="https://github.com/solfacil/feature-flag" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FeatureFlag abstract the communication with Launch Darkly SDK&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dashbitco/broadway_kafka</title>
+    <updated>2022-06-01T01:39:47Z</updated>
+    <id>tag:github.com,2022-06-01:/dashbitco/broadway_kafka</id>
+    <link href="https://github.com/dashbitco/broadway_kafka" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Broadway connector for Kafka&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dashbitco/broadway</title>
+    <updated>2022-06-01T01:39:47Z</updated>
+    <id>tag:github.com,2022-06-01:/dashbitco/broadway</id>
+    <link href="https://github.com/dashbitco/broadway" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Concurrent and multi-stage data ingestion and data processing with Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>firezone/firezone</title>
+    <updated>2022-06-01T01:39:47Z</updated>
+    <id>tag:github.com,2022-06-01:/firezone/firezone</id>
+    <link href="https://github.com/firezone/firezone" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;WireGuard®-based VPN server and firewall&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>beam-community/stripity_stripe</title>
+    <updated>2022-06-01T01:39:47Z</updated>
+    <id>tag:github.com,2022-06-01:/beam-community/stripity_stripe</id>
+    <link href="https://github.com/beam-community/stripity_stripe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Elixir Library for Stripe&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>elixir-grpc/grpc</title>
-    <updated>2022-05-31T01:38:41Z</updated>
-    <id>tag:github.com,2022-05-31:/elixir-grpc/grpc</id>
+    <updated>2022-06-01T01:39:47Z</updated>
+    <id>tag:github.com,2022-06-01:/elixir-grpc/grpc</id>
     <link href="https://github.com/elixir-grpc/grpc" rel="alternate"></link>
     <summary type="html">&lt;p&gt;An Elixir implementation of gRPC&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>unrelentingtech/httpotion</title>
-    <updated>2022-05-31T01:38:41Z</updated>
-    <id>tag:github.com,2022-05-31:/unrelentingtech/httpotion</id>
-    <link href="https://github.com/unrelentingtech/httpotion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;(soft-deprecated) HTTP client for Elixir (use Tesla please)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>getsentry/sentry-elixir</title>
+    <updated>2022-06-01T01:39:47Z</updated>
+    <id>tag:github.com,2022-06-01:/getsentry/sentry-elixir</id>
+    <link href="https://github.com/getsentry/sentry-elixir" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The official Elixir SDK for Sentry (sentry.io)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>phoenixframework/phoenix_live_view</title>
+    <updated>2022-06-01T01:39:47Z</updated>
+    <id>tag:github.com,2022-06-01:/phoenixframework/phoenix_live_view</id>
+    <link href="https://github.com/phoenixframework/phoenix_live_view" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rich, real-time user experiences with server-rendered HTML&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>elixirs/faker</title>
+    <updated>2022-06-01T01:39:47Z</updated>
+    <id>tag:github.com,2022-06-01:/elixirs/faker</id>
+    <link href="https://github.com/elixirs/faker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Faker is a pure Elixir library for generating fake data.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>FunkyStudioHQ/phoenix_pagination</title>
+    <updated>2022-06-01T01:39:47Z</updated>
+    <id>tag:github.com,2022-06-01:/FunkyStudioHQ/phoenix_pagination</id>
+    <link href="https://github.com/FunkyStudioHQ/phoenix_pagination" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple pagination for Ecto and Phoenix that uses plain EEx templates.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>elixir-protobuf/protobuf</title>
+    <updated>2022-06-01T01:39:47Z</updated>
+    <id>tag:github.com,2022-06-01:/elixir-protobuf/protobuf</id>
+    <link href="https://github.com/elixir-protobuf/protobuf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A pure Elixir implementation of Google Protobuf.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>elixir-lang/elixir</title>
+    <updated>2022-06-01T01:39:47Z</updated>
+    <id>tag:github.com,2022-06-01:/elixir-lang/elixir</id>
+    <link href="https://github.com/elixir-lang/elixir" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Elixir is a dynamic, functional language designed for building scalable and maintainable applications&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>phoenixframework/phoenix</title>
+    <updated>2022-06-01T01:39:47Z</updated>
+    <id>tag:github.com,2022-06-01:/phoenixframework/phoenix</id>
+    <link href="https://github.com/phoenixframework/phoenix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Peace of mind from prototype to production&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub hoon Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T01:42:00Z</updated>
+  <updated>2022-06-01T01:42:57Z</updated>
   <subtitle>Daily Trending of hoon in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>urbit/urbit</title>
-    <updated>2022-05-31T01:42:00Z</updated>
-    <id>tag:github.com,2022-05-31:/urbit/urbit</id>
-    <link href="https://github.com/urbit/urbit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An operating function&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

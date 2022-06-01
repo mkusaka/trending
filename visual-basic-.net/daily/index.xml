@@ -1,35 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Visual Basic .NET Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T01:56:48Z</updated>
+  <updated>2022-06-01T01:57:13Z</updated>
   <subtitle>Daily Trending of Visual Basic .NET in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
+    <title>basildane/WakeOnLAN</title>
+    <updated>2022-06-01T01:57:13Z</updated>
+    <id>tag:github.com,2022-06-01:/basildane/WakeOnLAN</id>
+    <link href="https://github.com/basildane/WakeOnLAN" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Wake On LAN, WakeOnLAN, shutdown software for Windows. A powerful WOL, ping, shutdown, GUI application.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>AliBawazeEer/RAT-NjRat-0.7d-modded-source-code</title>
-    <updated>2022-05-31T01:56:48Z</updated>
-    <id>tag:github.com,2022-05-31:/AliBawazeEer/RAT-NjRat-0.7d-modded-source-code</id>
+    <updated>2022-06-01T01:57:13Z</updated>
+    <id>tag:github.com,2022-06-01:/AliBawazeEer/RAT-NjRat-0.7d-modded-source-code</id>
     <link href="https://github.com/AliBawazeEer/RAT-NjRat-0.7d-modded-source-code" rel="alternate"></link>
     <summary type="html">&lt;p&gt;NJR&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>pdftables/vba-pdftables-api</title>
+    <updated>2022-06-01T01:57:13Z</updated>
+    <id>tag:github.com,2022-06-01:/pdftables/vba-pdftables-api</id>
+    <link href="https://github.com/pdftables/vba-pdftables-api" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Visual Basic for Applications macros for using the PDFTables.com API; contributed by Dan Elgaard&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>VBA-tools/VBA-Web</title>
+    <updated>2022-06-01T01:57:13Z</updated>
+    <id>tag:github.com,2022-06-01:/VBA-tools/VBA-Web</id>
+    <link href="https://github.com/VBA-tools/VBA-Web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;VBA-Web: Connect VBA, Excel, Access, and Office for Windows and Mac to web services and the web&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>VBA-tools/VBA-JSON</title>
-    <updated>2022-05-31T01:56:48Z</updated>
-    <id>tag:github.com,2022-05-31:/VBA-tools/VBA-JSON</id>
+    <updated>2022-06-01T01:57:13Z</updated>
+    <id>tag:github.com,2022-06-01:/VBA-tools/VBA-JSON</id>
     <link href="https://github.com/VBA-tools/VBA-JSON" rel="alternate"></link>
     <summary type="html">&lt;p&gt;JSON conversion and parsing for VBA&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>NYAN-x-CAT/Lime-RAT</title>
-    <updated>2022-05-31T01:56:48Z</updated>
-    <id>tag:github.com,2022-05-31:/NYAN-x-CAT/Lime-RAT</id>
-    <link href="https://github.com/NYAN-x-CAT/Lime-RAT" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;LimeRAT | Simple, yet powerful remote administration tool for Windows (RAT)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>basildane/WakeOnLAN</title>
-    <updated>2022-05-31T01:56:48Z</updated>
-    <id>tag:github.com,2022-05-31:/basildane/WakeOnLAN</id>
-    <link href="https://github.com/basildane/WakeOnLAN" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Wake On LAN, WakeOnLAN, shutdown software for Windows. A powerful WOL, ping, shutdown, GUI application.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

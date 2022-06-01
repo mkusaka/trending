@@ -1,49 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smali Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T01:53:37Z</updated>
+  <updated>2022-06-01T01:54:01Z</updated>
   <subtitle>Daily Trending of Smali in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
+    <title>tigr1234566/TikTokMod</title>
+    <updated>2022-06-01T01:54:01Z</updated>
+    <id>tag:github.com,2022-06-01:/tigr1234566/TikTokMod</id>
+    <link href="https://github.com/tigr1234566/TikTokMod" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My TikTok Modification repo&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>phhusson/treble_experimentations</title>
-    <updated>2022-05-31T01:53:37Z</updated>
-    <id>tag:github.com,2022-05-31:/phhusson/treble_experimentations</id>
+    <updated>2022-06-01T01:54:01Z</updated>
+    <id>tag:github.com,2022-06-01:/phhusson/treble_experimentations</id>
     <link href="https://github.com/phhusson/treble_experimentations" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Notes about tinkering with Android Project Treble&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>vtosters/lite</title>
-    <updated>2022-05-31T01:53:37Z</updated>
-    <id>tag:github.com,2022-05-31:/vtosters/lite</id>
+    <updated>2022-06-01T01:54:01Z</updated>
+    <id>tag:github.com,2022-06-01:/vtosters/lite</id>
     <link href="https://github.com/vtosters/lite" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Модифицированный клиент VK&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>D3VL/L3MON</title>
-    <updated>2022-05-31T01:53:37Z</updated>
-    <id>tag:github.com,2022-05-31:/D3VL/L3MON</id>
-    <link href="https://github.com/D3VL/L3MON" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;L3MON - Remote Android Managment Suite&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>AhMyth/AhMyth-Android-RAT</title>
-    <updated>2022-05-31T01:53:37Z</updated>
-    <id>tag:github.com,2022-05-31:/AhMyth/AhMyth-Android-RAT</id>
+    <updated>2022-06-01T01:54:01Z</updated>
+    <id>tag:github.com,2022-06-01:/AhMyth/AhMyth-Android-RAT</id>
     <link href="https://github.com/AhMyth/AhMyth-Android-RAT" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Android Remote Administration Tool&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tigr1234566/TikTokMod</title>
-    <updated>2022-05-31T01:53:37Z</updated>
-    <id>tag:github.com,2022-05-31:/tigr1234566/TikTokMod</id>
-    <link href="https://github.com/tigr1234566/TikTokMod" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My TikTok Modification repo&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jonathandata1/pegasus_spyware</title>
-    <updated>2022-05-31T01:53:37Z</updated>
-    <id>tag:github.com,2022-05-31:/jonathandata1/pegasus_spyware</id>
-    <link href="https://github.com/jonathandata1/pegasus_spyware" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;decompiled pegasus_spyware&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

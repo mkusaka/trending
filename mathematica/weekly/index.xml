@@ -1,35 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mathematica Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T02:14:37Z</updated>
+  <updated>2022-06-01T02:14:39Z</updated>
   <subtitle>Weekly Trending of Mathematica in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>Eikanya/Live2d-model</title>
-    <updated>2022-05-31T02:14:37Z</updated>
-    <id>tag:github.com,2022-05-31:/Eikanya/Live2d-model</id>
+    <updated>2022-06-01T02:14:39Z</updated>
+    <id>tag:github.com,2022-06-01:/Eikanya/Live2d-model</id>
     <link href="https://github.com/Eikanya/Live2d-model" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Live2d model collection&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>KhronosGroup/glTF-Sample-Models</title>
-    <updated>2022-05-31T02:14:37Z</updated>
-    <id>tag:github.com,2022-05-31:/KhronosGroup/glTF-Sample-Models</id>
+    <updated>2022-06-01T02:14:39Z</updated>
+    <id>tag:github.com,2022-06-01:/KhronosGroup/glTF-Sample-Models</id>
     <link href="https://github.com/KhronosGroup/glTF-Sample-Models" rel="alternate"></link>
     <summary type="html">&lt;p&gt;glTF Sample Models&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>Autodesk/maya-usd</title>
-    <updated>2022-05-31T02:14:37Z</updated>
-    <id>tag:github.com,2022-05-31:/Autodesk/maya-usd</id>
+    <updated>2022-06-01T02:14:39Z</updated>
+    <id>tag:github.com,2022-06-01:/Autodesk/maya-usd</id>
     <link href="https://github.com/Autodesk/maya-usd" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A common USD (Universal Scene Description) plugin for Autodesk Maya&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>GameDevChef/CarController</title>
-    <updated>2022-05-31T02:14:37Z</updated>
-    <id>tag:github.com,2022-05-31:/GameDevChef/CarController</id>
+    <updated>2022-06-01T02:14:39Z</updated>
+    <id>tag:github.com,2022-06-01:/GameDevChef/CarController</id>
     <link href="https://github.com/GameDevChef/CarController" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Tutorial project for car controller in Unity&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dracula/wolfram-notebooks</title>
+    <updated>2022-06-01T02:14:39Z</updated>
+    <id>tag:github.com,2022-06-01:/dracula/wolfram-notebooks</id>
+    <link href="https://github.com/dracula/wolfram-notebooks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🧛🏻‍♂️ Dark theme for Wolfram Notebooks&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

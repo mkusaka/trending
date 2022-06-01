@@ -1,28 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Stylus Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T01:54:30Z</updated>
+  <updated>2022-06-01T01:54:56Z</updated>
   <subtitle>Daily Trending of Stylus in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>jerryc127/hexo-theme-butterfly</title>
-    <updated>2022-05-31T01:54:30Z</updated>
-    <id>tag:github.com,2022-05-31:/jerryc127/hexo-theme-butterfly</id>
+    <updated>2022-06-01T01:54:56Z</updated>
+    <id>tag:github.com,2022-06-01:/jerryc127/hexo-theme-butterfly</id>
     <link href="https://github.com/jerryc127/hexo-theme-butterfly" rel="alternate"></link>
     <summary type="html">&lt;p&gt;🦋 A Hexo Theme: Butterfly&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>blade-runner/ds</title>
+    <updated>2022-06-01T01:54:56Z</updated>
+    <id>tag:github.com,2022-06-01:/blade-runner/ds</id>
+    <link href="https://github.com/blade-runner/ds" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>theme-next/hexo-theme-next</title>
-    <updated>2022-05-31T01:54:30Z</updated>
-    <id>tag:github.com,2022-05-31:/theme-next/hexo-theme-next</id>
+    <updated>2022-06-01T01:54:56Z</updated>
+    <id>tag:github.com,2022-06-01:/theme-next/hexo-theme-next</id>
     <link href="https://github.com/theme-next/hexo-theme-next" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Elegant and powerful theme for Hexo.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>YunYouJun/hexo-theme-yun</title>
-    <updated>2022-05-31T01:54:30Z</updated>
-    <id>tag:github.com,2022-05-31:/YunYouJun/hexo-theme-yun</id>
-    <link href="https://github.com/YunYouJun/hexo-theme-yun" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;☁️ A fast &amp; light &amp; lovely theme for Hexo. 一个对可爱自以为是的 Hexo 主题。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alphadev-sthlm/alphadev-inside-v2.0</title>
+    <updated>2022-06-01T01:54:56Z</updated>
+    <id>tag:github.com,2022-06-01:/alphadev-sthlm/alphadev-inside-v2.0</id>
+    <link href="https://github.com/alphadev-sthlm/alphadev-inside-v2.0" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;New site&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tistory-projects/tistory-skin-hELLO</title>
+    <updated>2022-06-01T01:54:56Z</updated>
+    <id>tag:github.com,2022-06-01:/tistory-projects/tistory-skin-hELLO</id>
+    <link href="https://github.com/tistory-projects/tistory-skin-hELLO" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;✨당신의 멋진 블로그에 걸맞는 최고의 티스토리 스킨&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>xaoxuu/hexo-theme-stellar</title>
+    <updated>2022-06-01T01:54:56Z</updated>
+    <id>tag:github.com,2022-06-01:/xaoxuu/hexo-theme-stellar</id>
+    <link href="https://github.com/xaoxuu/hexo-theme-stellar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Elegant and powerful theme for Hexo.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>f-dong/hexo-theme-minimalism</title>
+    <updated>2022-06-01T01:54:56Z</updated>
+    <id>tag:github.com,2022-06-01:/f-dong/hexo-theme-minimalism</id>
+    <link href="https://github.com/f-dong/hexo-theme-minimalism" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;hexo 极简主题&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

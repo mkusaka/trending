@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub YAML Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T02:57:03Z</updated>
+  <updated>2022-06-01T02:55:12Z</updated>
   <subtitle>Monthly Trending of YAML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>kubeflow/manifests</title>
-    <updated>2022-05-31T02:57:03Z</updated>
-    <id>tag:github.com,2022-05-31:/kubeflow/manifests</id>
+    <updated>2022-06-01T02:55:12Z</updated>
+    <id>tag:github.com,2022-06-01:/kubeflow/manifests</id>
     <link href="https://github.com/kubeflow/manifests" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A repository for Kustomize manifests&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>argoflow/argoflow</title>
+    <updated>2022-06-01T02:55:12Z</updated>
+    <id>tag:github.com,2022-06-01:/argoflow/argoflow</id>
+    <link href="https://github.com/argoflow/argoflow" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Deploying Kubeflow with Argo CD&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

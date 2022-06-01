@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Classic ASP Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T02:04:52Z</updated>
+  <updated>2022-06-01T02:04:48Z</updated>
   <subtitle>Weekly Trending of Classic ASP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>andrewcottam/IWC-ArcGIS-Server-SecurityWebServices</title>
-    <updated>2022-05-31T02:04:52Z</updated>
-    <id>tag:github.com,2022-05-31:/andrewcottam/IWC-ArcGIS-Server-SecurityWebServices</id>
+    <updated>2022-06-01T02:04:48Z</updated>
+    <id>tag:github.com,2022-06-01:/andrewcottam/IWC-ArcGIS-Server-SecurityWebServices</id>
     <link href="https://github.com/andrewcottam/IWC-ArcGIS-Server-SecurityWebServices" rel="alternate"></link>
     <summary type="html">&lt;p&gt;SOAP services that use the ArcGIS Security model for creating and managing users&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>vinaymancha/Subway-Surfers-AI</title>
-    <updated>2022-05-31T02:04:52Z</updated>
-    <id>tag:github.com,2022-05-31:/vinaymancha/Subway-Surfers-AI</id>
-    <link href="https://github.com/vinaymancha/Subway-Surfers-AI" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Deep Convolutional Q learning based Self learning implementation for Subway Surfers game&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

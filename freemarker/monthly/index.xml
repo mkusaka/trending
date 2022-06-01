@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub FreeMarker Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T02:38:18Z</updated>
+  <updated>2022-06-01T02:36:54Z</updated>
   <subtitle>Monthly Trending of FreeMarker in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>mozilla/send</title>
-    <updated>2022-05-31T02:38:18Z</updated>
-    <id>tag:github.com,2022-05-31:/mozilla/send</id>
+    <updated>2022-06-01T02:36:54Z</updated>
+    <id>tag:github.com,2022-06-01:/mozilla/send</id>
     <link href="https://github.com/mozilla/send" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Simple, private file sharing from the makers of Firefox&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

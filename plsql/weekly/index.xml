@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLSQL Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T02:18:34Z</updated>
+  <updated>2022-06-01T02:18:30Z</updated>
   <subtitle>Weekly Trending of PLSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>oracle-samples/db-sample-schemas</title>
-    <updated>2022-05-31T02:18:34Z</updated>
-    <id>tag:github.com,2022-05-31:/oracle-samples/db-sample-schemas</id>
+    <updated>2022-06-01T02:18:30Z</updated>
+    <id>tag:github.com,2022-06-01:/oracle-samples/db-sample-schemas</id>
     <link href="https://github.com/oracle-samples/db-sample-schemas" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Oracle Database Sample Schemas&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

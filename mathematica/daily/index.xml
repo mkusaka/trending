@@ -1,42 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mathematica Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T01:45:52Z</updated>
+  <updated>2022-06-01T01:46:36Z</updated>
   <subtitle>Daily Trending of Mathematica in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Eikanya/Live2d-model</title>
-    <updated>2022-05-31T01:45:52Z</updated>
-    <id>tag:github.com,2022-05-31:/Eikanya/Live2d-model</id>
-    <link href="https://github.com/Eikanya/Live2d-model" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Live2d model collection&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>KhronosGroup/glTF-Sample-Models</title>
-    <updated>2022-05-31T01:45:52Z</updated>
-    <id>tag:github.com,2022-05-31:/KhronosGroup/glTF-Sample-Models</id>
+    <updated>2022-06-01T01:46:36Z</updated>
+    <id>tag:github.com,2022-06-01:/KhronosGroup/glTF-Sample-Models</id>
     <link href="https://github.com/KhronosGroup/glTF-Sample-Models" rel="alternate"></link>
     <summary type="html">&lt;p&gt;glTF Sample Models&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pantor/ruckig</title>
-    <updated>2022-05-31T01:45:52Z</updated>
-    <id>tag:github.com,2022-05-31:/pantor/ruckig</id>
-    <link href="https://github.com/pantor/ruckig" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Motion Generation for Robots and Machines. Real-time. Jerk-constrained. Time-optimal.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>blab/rt-from-frequency-dynamics</title>
+    <updated>2022-06-01T01:46:36Z</updated>
+    <id>tag:github.com,2022-06-01:/blab/rt-from-frequency-dynamics</id>
+    <link href="https://github.com/blab/rt-from-frequency-dynamics" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Brackeys/Health-Bar</title>
-    <updated>2022-05-31T01:45:52Z</updated>
-    <id>tag:github.com,2022-05-31:/Brackeys/Health-Bar</id>
-    <link href="https://github.com/Brackeys/Health-Bar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Project files for our tutorial on how to create a health bar in Unity.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Autodesk/maya-usd</title>
+    <updated>2022-06-01T01:46:36Z</updated>
+    <id>tag:github.com,2022-06-01:/Autodesk/maya-usd</id>
+    <link href="https://github.com/Autodesk/maya-usd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A common USD (Universal Scene Description) plugin for Autodesk Maya&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>GameDevChef/CarController</title>
-    <updated>2022-05-31T01:45:52Z</updated>
-    <id>tag:github.com,2022-05-31:/GameDevChef/CarController</id>
-    <link href="https://github.com/GameDevChef/CarController" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tutorial project for car controller in Unity&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dracula/wolfram-notebooks</title>
+    <updated>2022-06-01T01:46:36Z</updated>
+    <id>tag:github.com,2022-06-01:/dracula/wolfram-notebooks</id>
+    <link href="https://github.com/dracula/wolfram-notebooks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🧛🏻‍♂️ Dark theme for Wolfram Notebooks&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dzhang314/YouTubeDrive</title>
+    <updated>2022-06-01T01:46:36Z</updated>
+    <id>tag:github.com,2022-06-01:/dzhang314/YouTubeDrive</id>
+    <link href="https://github.com/dzhang314/YouTubeDrive" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Store files as YouTube videos == infinite disk space&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>BabylonJS/Exporters</title>
+    <updated>2022-06-01T01:46:36Z</updated>
+    <id>tag:github.com,2022-06-01:/BabylonJS/Exporters</id>
+    <link href="https://github.com/BabylonJS/Exporters" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exporters for Babylon.js and gltf file formats&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Eikanya/Live2d-model</title>
+    <updated>2022-06-01T01:46:36Z</updated>
+    <id>tag:github.com,2022-06-01:/Eikanya/Live2d-model</id>
+    <link href="https://github.com/Eikanya/Live2d-model" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Live2d model collection&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

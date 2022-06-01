@@ -1,182 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T02:03:21Z</updated>
+  <updated>2022-06-01T02:03:21Z</updated>
   <subtitle>Weekly Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
+    <title>lxgw/LxgwWenKai</title>
+    <updated>2022-06-01T02:03:21Z</updated>
+    <id>tag:github.com,2022-06-01:/lxgw/LxgwWenKai</id>
+    <link href="https://github.com/lxgw/LxgwWenKai" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An open-source Chinese font derived from Fontworks&#39; Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>massgravel/Microsoft-Activation-Scripts</title>
-    <updated>2022-05-31T02:03:21Z</updated>
-    <id>tag:github.com,2022-05-31:/massgravel/Microsoft-Activation-Scripts</id>
+    <updated>2022-06-01T02:03:21Z</updated>
+    <id>tag:github.com,2022-06-01:/massgravel/Microsoft-Activation-Scripts</id>
     <link href="https://github.com/massgravel/Microsoft-Activation-Scripts" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>enhorse/java-interview</title>
+    <updated>2022-06-01T02:03:21Z</updated>
+    <id>tag:github.com,2022-06-01:/enhorse/java-interview</id>
+    <link href="https://github.com/enhorse/java-interview" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Вопросы и ответы к интервью Java разработчика&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>badafans/better-cloudflare-ip</title>
-    <updated>2022-05-31T02:03:21Z</updated>
-    <id>tag:github.com,2022-05-31:/badafans/better-cloudflare-ip</id>
+    <updated>2022-06-01T02:03:21Z</updated>
+    <id>tag:github.com,2022-06-01:/badafans/better-cloudflare-ip</id>
     <link href="https://github.com/badafans/better-cloudflare-ip" rel="alternate"></link>
     <summary type="html">&lt;p&gt;查找适合自己当前网络环境的优选cloudflare anycast IP&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>AveYo/MediaCreationTool.bat</title>
-    <updated>2022-05-31T02:03:21Z</updated>
-    <id>tag:github.com,2022-05-31:/AveYo/MediaCreationTool.bat</id>
+    <updated>2022-06-01T02:03:21Z</updated>
+    <id>tag:github.com,2022-06-01:/AveYo/MediaCreationTool.bat</id>
     <link href="https://github.com/AveYo/MediaCreationTool.bat" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>enhorse/java-interview</title>
-    <updated>2022-05-31T02:03:21Z</updated>
-    <id>tag:github.com,2022-05-31:/enhorse/java-interview</id>
-    <link href="https://github.com/enhorse/java-interview" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Вопросы и ответы к интервью Java разработчика&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>Mr-xn/RedTeam_BlueTeam_HW</title>
-    <updated>2022-05-31T02:03:21Z</updated>
-    <id>tag:github.com,2022-05-31:/Mr-xn/RedTeam_BlueTeam_HW</id>
+    <updated>2022-06-01T02:03:21Z</updated>
+    <id>tag:github.com,2022-06-01:/Mr-xn/RedTeam_BlueTeam_HW</id>
     <link href="https://github.com/Mr-xn/RedTeam_BlueTeam_HW" rel="alternate"></link>
     <summary type="html">&lt;p&gt;红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）和内存马查杀工具&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>xinggsf/Adblock-Plus-Rule</title>
-    <updated>2022-05-31T02:03:21Z</updated>
-    <id>tag:github.com,2022-05-31:/xinggsf/Adblock-Plus-Rule</id>
-    <link href="https://github.com/xinggsf/Adblock-Plus-Rule" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;uBlock Origin 乘风广告过滤规则&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>abbodi1406/KMS_VL_ALL_AIO</title>
+    <updated>2022-06-01T02:03:21Z</updated>
+    <id>tag:github.com,2022-06-01:/abbodi1406/KMS_VL_ALL_AIO</id>
+    <link href="https://github.com/abbodi1406/KMS_VL_ALL_AIO" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Smart Activation Script&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>realpython/python-guide</title>
-    <updated>2022-05-31T02:03:21Z</updated>
-    <id>tag:github.com,2022-05-31:/realpython/python-guide</id>
-    <link href="https://github.com/realpython/python-guide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Python best practices guidebook, written for humans.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Harchanel15/RDP-BULAN-APRIL-BY-HAR-CHANEL</title>
-    <updated>2022-05-31T02:03:21Z</updated>
-    <id>tag:github.com,2022-05-31:/Harchanel15/RDP-BULAN-APRIL-BY-HAR-CHANEL</id>
-    <link href="https://github.com/Harchanel15/RDP-BULAN-APRIL-BY-HAR-CHANEL" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gunakan sebaik mungkin dan jangan lupa subscribe Channel Har Chanel&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>voletro/wsa-toolbox</title>
+    <updated>2022-06-01T02:03:21Z</updated>
+    <id>tag:github.com,2022-06-01:/voletro/wsa-toolbox</id>
+    <link href="https://github.com/voletro/wsa-toolbox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Windows 11 application to easily install and use the Windows Subsystem For Android™ package on your computer.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>adtitas/ngrok-rdp</title>
-    <updated>2022-05-31T02:03:21Z</updated>
-    <id>tag:github.com,2022-05-31:/adtitas/ngrok-rdp</id>
+    <updated>2022-06-01T02:03:21Z</updated>
+    <id>tag:github.com,2022-06-01:/adtitas/ngrok-rdp</id>
     <link href="https://github.com/adtitas/ngrok-rdp" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Virtual Remote Server | ngrok&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>Harchanel15/RDP-BULAN-APRIL-BY-HAR-CHANEL</title>
+    <updated>2022-06-01T02:03:21Z</updated>
+    <id>tag:github.com,2022-06-01:/Harchanel15/RDP-BULAN-APRIL-BY-HAR-CHANEL</id>
+    <link href="https://github.com/Harchanel15/RDP-BULAN-APRIL-BY-HAR-CHANEL" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gunakan sebaik mungkin dan jangan lupa subscribe Channel Har Chanel&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MichaelJorky/Free_RDP_Ngrok</title>
+    <updated>2022-06-01T02:03:21Z</updated>
+    <id>tag:github.com,2022-06-01:/MichaelJorky/Free_RDP_Ngrok</id>
+    <link href="https://github.com/MichaelJorky/Free_RDP_Ngrok" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>Rdprepogithub01/Rdp</title>
-    <updated>2022-05-31T02:03:21Z</updated>
-    <id>tag:github.com,2022-05-31:/Rdprepogithub01/Rdp</id>
+    <updated>2022-06-01T02:03:21Z</updated>
+    <id>tag:github.com,2022-06-01:/Rdprepogithub01/Rdp</id>
     <link href="https://github.com/Rdprepogithub01/Rdp" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>wildan444/TechToBangla</title>
-    <updated>2022-05-31T02:03:21Z</updated>
-    <id>tag:github.com,2022-05-31:/wildan444/TechToBangla</id>
+    <updated>2022-06-01T02:03:21Z</updated>
+    <id>tag:github.com,2022-06-01:/wildan444/TechToBangla</id>
     <link href="https://github.com/wildan444/TechToBangla" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>MichaelJorky/Free_RDP_Ngrok</title>
-    <updated>2022-05-31T02:03:21Z</updated>
-    <id>tag:github.com,2022-05-31:/MichaelJorky/Free_RDP_Ngrok</id>
-    <link href="https://github.com/MichaelJorky/Free_RDP_Ngrok" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dangelochristiansen/Tech-To-Bangla</title>
-    <updated>2022-05-31T02:03:21Z</updated>
-    <id>tag:github.com,2022-05-31:/dangelochristiansen/Tech-To-Bangla</id>
-    <link href="https://github.com/dangelochristiansen/Tech-To-Bangla" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>zohaibcsl/Free-RDP</title>
-    <updated>2022-05-31T02:03:21Z</updated>
-    <id>tag:github.com,2022-05-31:/zohaibcsl/Free-RDP</id>
+    <updated>2022-06-01T02:03:21Z</updated>
+    <id>tag:github.com,2022-06-01:/zohaibcsl/Free-RDP</id>
     <link href="https://github.com/zohaibcsl/Free-RDP" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>voletro/wsa-toolbox</title>
-    <updated>2022-05-31T02:03:21Z</updated>
-    <id>tag:github.com,2022-05-31:/voletro/wsa-toolbox</id>
-    <link href="https://github.com/voletro/wsa-toolbox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Windows 11 application to easily install and use the Windows Subsystem For Android™ package on your computer.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>mariorossi43438/FreeRDP-Remastered-main</title>
-    <updated>2022-05-31T02:03:21Z</updated>
-    <id>tag:github.com,2022-05-31:/mariorossi43438/FreeRDP-Remastered-main</id>
+    <updated>2022-06-01T02:03:21Z</updated>
+    <id>tag:github.com,2022-06-01:/mariorossi43438/FreeRDP-Remastered-main</id>
     <link href="https://github.com/mariorossi43438/FreeRDP-Remastered-main" rel="alternate"></link>
     <summary type="html">&lt;p&gt;infinite time&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>namikulaufa/rdpngrok</title>
-    <updated>2022-05-31T02:03:21Z</updated>
-    <id>tag:github.com,2022-05-31:/namikulaufa/rdpngrok</id>
-    <link href="https://github.com/namikulaufa/rdpngrok" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MinatoAka/RDP-New</title>
+    <updated>2022-06-01T02:03:21Z</updated>
+    <id>tag:github.com,2022-06-01:/MinatoAka/RDP-New</id>
+    <link href="https://github.com/MinatoAka/RDP-New" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free RDP for learning&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>NextronSystems/APTSimulator</title>
+    <updated>2022-06-01T02:03:21Z</updated>
+    <id>tag:github.com,2022-06-01:/NextronSystems/APTSimulator</id>
+    <link href="https://github.com/NextronSystems/APTSimulator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A toolset to make a system look as if it was the victim of an APT attack&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>cationx/GitHub-Action-RDP</title>
-    <updated>2022-05-31T02:03:21Z</updated>
-    <id>tag:github.com,2022-05-31:/cationx/GitHub-Action-RDP</id>
+    <updated>2022-06-01T02:03:21Z</updated>
+    <id>tag:github.com,2022-06-01:/cationx/GitHub-Action-RDP</id>
     <link href="https://github.com/cationx/GitHub-Action-RDP" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Remote operational GitHub Actions VM for debugging, etc..&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LordOfMice/hidusbf</title>
-    <updated>2022-05-31T02:03:21Z</updated>
-    <id>tag:github.com,2022-05-31:/LordOfMice/hidusbf</id>
-    <link href="https://github.com/LordOfMice/hidusbf" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;USB Mice Overclocking Software (for Windows)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>timerz23/Ngrok-rdp</title>
+    <updated>2022-06-01T02:03:21Z</updated>
+    <id>tag:github.com,2022-06-01:/timerz23/Ngrok-rdp</id>
+    <link href="https://github.com/timerz23/Ngrok-rdp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>realpython/python-guide</title>
+    <updated>2022-06-01T02:03:21Z</updated>
+    <id>tag:github.com,2022-06-01:/realpython/python-guide</id>
+    <link href="https://github.com/realpython/python-guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Python best practices guidebook, written for humans.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dangelochristiansen/Tech-To-Bangla</title>
+    <updated>2022-06-01T02:03:21Z</updated>
+    <id>tag:github.com,2022-06-01:/dangelochristiansen/Tech-To-Bangla</id>
+    <link href="https://github.com/dangelochristiansen/Tech-To-Bangla" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>Preston-Sundar/windows-10-activation-script</title>
-    <updated>2022-05-31T02:03:21Z</updated>
-    <id>tag:github.com,2022-05-31:/Preston-Sundar/windows-10-activation-script</id>
+    <updated>2022-06-01T02:03:21Z</updated>
+    <id>tag:github.com,2022-06-01:/Preston-Sundar/windows-10-activation-script</id>
     <link href="https://github.com/Preston-Sundar/windows-10-activation-script" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A Windows batch file that tries Windows activation keys found around the internet.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CesiumGS/3d-tiles</title>
-    <updated>2022-05-31T02:03:21Z</updated>
-    <id>tag:github.com,2022-05-31:/CesiumGS/3d-tiles</id>
-    <link href="https://github.com/CesiumGS/3d-tiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Specification for streaming massive heterogeneous 3D geospatial datasets 🌎&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>nadun0409/FreeRDP</title>
-    <updated>2022-05-31T02:03:21Z</updated>
-    <id>tag:github.com,2022-05-31:/nadun0409/FreeRDP</id>
+    <updated>2022-06-01T02:03:21Z</updated>
+    <id>tag:github.com,2022-06-01:/nadun0409/FreeRDP</id>
     <link href="https://github.com/nadun0409/FreeRDP" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>FirewallSH567/TechToBangla</title>
-    <updated>2022-05-31T02:03:21Z</updated>
-    <id>tag:github.com,2022-05-31:/FirewallSH567/TechToBangla</id>
-    <link href="https://github.com/FirewallSH567/TechToBangla" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LintangWisesa/Microsoft_Office_2016_Activator</title>
+    <updated>2022-06-01T02:03:21Z</updated>
+    <id>tag:github.com,2022-06-01:/LintangWisesa/Microsoft_Office_2016_Activator</id>
+    <link href="https://github.com/LintangWisesa/Microsoft_Office_2016_Activator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple batch file to activate Microsoft Office 2016&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>zkteco-home/redis-windows</title>
-    <updated>2022-05-31T02:03:21Z</updated>
-    <id>tag:github.com,2022-05-31:/zkteco-home/redis-windows</id>
-    <link href="https://github.com/zkteco-home/redis-windows" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Native port of Redis for Windows,it can be installed as service.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>thuonghoanglong/RDPngrok</title>
-    <updated>2022-05-31T02:03:21Z</updated>
-    <id>tag:github.com,2022-05-31:/thuonghoanglong/RDPngrok</id>
-    <link href="https://github.com/thuonghoanglong/RDPngrok" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LordOfMice/hidusbf</title>
+    <updated>2022-06-01T02:03:21Z</updated>
+    <id>tag:github.com,2022-06-01:/LordOfMice/hidusbf</id>
+    <link href="https://github.com/LordOfMice/hidusbf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;USB Mice Overclocking Software (for Windows)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SWIG Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T02:54:04Z</updated>
+  <updated>2022-06-01T02:52:15Z</updated>
   <subtitle>Monthly Trending of SWIG in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>pymupdf/PyMuPDF</title>
-    <updated>2022-05-31T02:54:04Z</updated>
-    <id>tag:github.com,2022-05-31:/pymupdf/PyMuPDF</id>
+    <updated>2022-06-01T02:52:15Z</updated>
+    <id>tag:github.com,2022-06-01:/pymupdf/PyMuPDF</id>
     <link href="https://github.com/pymupdf/PyMuPDF" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Python bindings for MuPDF&#39;s rendering library.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

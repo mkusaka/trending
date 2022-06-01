@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Sass Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T02:21:19Z</updated>
+  <updated>2022-06-01T02:21:03Z</updated>
   <subtitle>Weekly Trending of Sass in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
+    <title>Weilbyte/PVEDiscordDark</title>
+    <updated>2022-06-01T02:21:03Z</updated>
+    <id>tag:github.com,2022-06-01:/Weilbyte/PVEDiscordDark</id>
+    <link href="https://github.com/Weilbyte/PVEDiscordDark" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Discord-like dark theme for the Proxmox Web UI.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>nisrulz/app-privacy-policy-generator</title>
-    <updated>2022-05-31T02:21:19Z</updated>
-    <id>tag:github.com,2022-05-31:/nisrulz/app-privacy-policy-generator</id>
+    <updated>2022-06-01T02:21:03Z</updated>
+    <id>tag:github.com,2022-06-01:/nisrulz/app-privacy-policy-generator</id>
     <link href="https://github.com/nisrulz/app-privacy-policy-generator" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A simple web app to generate a generic privacy policy for your Android/iOS apps&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>pradyunsg/furo</title>
-    <updated>2022-05-31T02:21:19Z</updated>
-    <id>tag:github.com,2022-05-31:/pradyunsg/furo</id>
+    <updated>2022-06-01T02:21:03Z</updated>
+    <id>tag:github.com,2022-06-01:/pradyunsg/furo</id>
     <link href="https://github.com/pradyunsg/furo" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A clean customizable documentation theme for Sphinx&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Weilbyte/PVEDiscordDark</title>
-    <updated>2022-05-31T02:21:19Z</updated>
-    <id>tag:github.com,2022-05-31:/Weilbyte/PVEDiscordDark</id>
-    <link href="https://github.com/Weilbyte/PVEDiscordDark" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Discord-like dark theme for the Proxmox Web UI.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>StefMa/hugo-fresh</title>
-    <updated>2022-05-31T02:21:19Z</updated>
-    <id>tag:github.com,2022-05-31:/StefMa/hugo-fresh</id>
+    <updated>2022-06-01T02:21:03Z</updated>
+    <id>tag:github.com,2022-06-01:/StefMa/hugo-fresh</id>
     <link href="https://github.com/StefMa/hugo-fresh" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Hugo Fresh Theme&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

@@ -1,182 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T01:53:45Z</updated>
+  <updated>2022-06-01T01:54:12Z</updated>
   <subtitle>Daily Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kursjan/petitparser2</title>
-    <updated>2022-05-31T01:53:45Z</updated>
-    <id>tag:github.com,2022-05-31:/kursjan/petitparser2</id>
-    <link href="https://github.com/kursjan/petitparser2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A high-performance top-down parser&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>feenkcom/linkeddata</title>
+    <updated>2022-06-01T01:54:12Z</updated>
+    <id>tag:github.com,2022-06-01:/feenkcom/linkeddata</id>
+    <link href="https://github.com/feenkcom/linkeddata" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Linked Data is structured data which is interlinked with other data so it becomes more useful through semantic queries&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>svenvc/NeoJSON</title>
+    <updated>2022-06-01T01:54:12Z</updated>
+    <id>tag:github.com,2022-06-01:/svenvc/NeoJSON</id>
+    <link href="https://github.com/svenvc/NeoJSON" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NeoJSON is an elegant and efficient standalone Smalltalk framework to read and write JSON converting to or from Smalltalk objects.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>svenvc/ztimestamp</title>
+    <updated>2022-06-01T01:54:12Z</updated>
+    <id>tag:github.com,2022-06-01:/svenvc/ztimestamp</id>
+    <link href="https://github.com/svenvc/ztimestamp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;I am ZTimestamp, a Magnitude, a point in time, an alternative to DateAndTime and TimeStamp&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pharo-contributions/XML-XMLParser</title>
+    <updated>2022-06-01T01:54:12Z</updated>
+    <id>tag:github.com,2022-06-01:/pharo-contributions/XML-XMLParser</id>
+    <link href="https://github.com/pharo-contributions/XML-XMLParser" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;XML Parser for Pharo&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dionisiydk/StateSpecs</title>
+    <updated>2022-06-01T01:54:12Z</updated>
+    <id>tag:github.com,2022-06-01:/dionisiydk/StateSpecs</id>
+    <link href="https://github.com/dionisiydk/StateSpecs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Object validation framework based on first class specs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pharo-contributions/BitmapCharacterSet</title>
+    <updated>2022-06-01T01:54:12Z</updated>
+    <id>tag:github.com,2022-06-01:/pharo-contributions/BitmapCharacterSet</id>
+    <link href="https://github.com/pharo-contributions/BitmapCharacterSet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;BitmapCharacterSet is a set for characters that uses a bitmap for storing wide characters and an array of truth values for byte characters. Used by XMLParser.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>feenkcom/gtoolkit-notifications</title>
-    <updated>2022-05-31T01:53:45Z</updated>
-    <id>tag:github.com,2022-05-31:/feenkcom/gtoolkit-notifications</id>
+    <updated>2022-06-01T01:54:12Z</updated>
+    <id>tag:github.com,2022-06-01:/feenkcom/gtoolkit-notifications</id>
     <link href="https://github.com/feenkcom/gtoolkit-notifications" rel="alternate"></link>
     <summary type="html">&lt;p&gt;The user notifications subsystem for GToolkit&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>pharo-ide/Ghost</title>
+    <updated>2022-06-01T01:54:12Z</updated>
+    <id>tag:github.com,2022-06-01:/pharo-ide/Ghost</id>
+    <link href="https://github.com/pharo-ide/Ghost" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ghost is framework to implement unnatural smalltalk objects like proxies or prototypes&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dionisiydk/Mocketry</title>
+    <updated>2022-06-01T01:54:12Z</updated>
+    <id>tag:github.com,2022-06-01:/dionisiydk/Mocketry</id>
+    <link href="https://github.com/dionisiydk/Mocketry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mock objects framework&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kursjan/petitparser2</title>
+    <updated>2022-06-01T01:54:12Z</updated>
+    <id>tag:github.com,2022-06-01:/kursjan/petitparser2</id>
+    <link href="https://github.com/kursjan/petitparser2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A high-performance top-down parser&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pharo-contributions/OrderPreservingDictionary</title>
+    <updated>2022-06-01T01:54:12Z</updated>
+    <id>tag:github.com,2022-06-01:/pharo-contributions/OrderPreservingDictionary</id>
+    <link href="https://github.com/pharo-contributions/OrderPreservingDictionary" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a little preserving dictionary&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>juliendelplanque/Python3Generator</title>
+    <updated>2022-06-01T01:54:12Z</updated>
+    <id>tag:github.com,2022-06-01:/juliendelplanque/Python3Generator</id>
+    <link href="https://github.com/juliendelplanque/Python3Generator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A toolkit to generate Python 3 source code from Pharo.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/gtoolkit-boxer</title>
+    <updated>2022-06-01T01:54:12Z</updated>
+    <id>tag:github.com,2022-06-01:/feenkcom/gtoolkit-boxer</id>
+    <link href="https://github.com/feenkcom/gtoolkit-boxer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A set of utilities to work with Rust through FFI&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/gtoolkit-installer</title>
+    <updated>2022-06-01T01:54:12Z</updated>
+    <id>tag:github.com,2022-06-01:/feenkcom/gtoolkit-installer</id>
+    <link href="https://github.com/feenkcom/gtoolkit-installer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GT Installer is a set of tools for installation of various software system artefacts such as shared libraries or projects&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pharo-contributions/OSSubprocess</title>
+    <updated>2022-06-01T01:54:12Z</updated>
+    <id>tag:github.com,2022-06-01:/pharo-contributions/OSSubprocess</id>
+    <link href="https://github.com/pharo-contributions/OSSubprocess" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Forking Operating System Processes from within Pharo Language&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>feenkcom/gtoolkit-examples</title>
-    <updated>2022-05-31T01:53:45Z</updated>
-    <id>tag:github.com,2022-05-31:/feenkcom/gtoolkit-examples</id>
+    <updated>2022-06-01T01:54:12Z</updated>
+    <id>tag:github.com,2022-06-01:/feenkcom/gtoolkit-examples</id>
     <link href="https://github.com/feenkcom/gtoolkit-examples" rel="alternate"></link>
     <summary type="html">&lt;p&gt;The engine for example-driven development in Pharo.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>pharo-contributions/CollectionExtensions</title>
-    <updated>2022-05-31T01:53:45Z</updated>
-    <id>tag:github.com,2022-05-31:/pharo-contributions/CollectionExtensions</id>
+    <updated>2022-06-01T01:54:12Z</updated>
+    <id>tag:github.com,2022-06-01:/pharo-contributions/CollectionExtensions</id>
     <link href="https://github.com/pharo-contributions/CollectionExtensions" rel="alternate"></link>
     <summary type="html">&lt;p&gt;I am a project containing extensions of the Pharo collection API.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>feenkcom/gt4dockerengine</title>
-    <updated>2022-05-31T01:53:45Z</updated>
-    <id>tag:github.com,2022-05-31:/feenkcom/gt4dockerengine</id>
-    <link href="https://github.com/feenkcom/gt4dockerengine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Glamorous Toolkit extensions for Docker Engine&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>feenkcom/PharoLink</title>
+    <updated>2022-06-01T01:54:12Z</updated>
+    <id>tag:github.com,2022-06-01:/feenkcom/PharoLink</id>
+    <link href="https://github.com/feenkcom/PharoLink" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A PythonBridge / JSLink style server for Pharo&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>feenkcom/gt4json</title>
-    <updated>2022-05-31T01:53:45Z</updated>
-    <id>tag:github.com,2022-05-31:/feenkcom/gt4json</id>
-    <link href="https://github.com/feenkcom/gt4json" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Glamorous JSON Toolkit&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/JSLink</title>
-    <updated>2022-05-31T01:53:45Z</updated>
-    <id>tag:github.com,2022-05-31:/feenkcom/JSLink</id>
-    <link href="https://github.com/feenkcom/JSLink" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A bridge between Pharo and JavaScript&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>feenkcom/bloc-pac</title>
+    <updated>2022-06-01T01:54:12Z</updated>
+    <id>tag:github.com,2022-06-01:/feenkcom/bloc-pac</id>
+    <link href="https://github.com/feenkcom/bloc-pac" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bloc Pac is a suite of libraries and components to help developers create UI with Bloc&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>feenkcom/XPath</title>
-    <updated>2022-05-31T01:53:45Z</updated>
-    <id>tag:github.com,2022-05-31:/feenkcom/XPath</id>
+    <updated>2022-06-01T01:54:12Z</updated>
+    <id>tag:github.com,2022-06-01:/feenkcom/XPath</id>
     <link href="https://github.com/feenkcom/XPath" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>feenkcom/gtoolkit-coder</title>
-    <updated>2022-05-31T01:53:45Z</updated>
-    <id>tag:github.com,2022-05-31:/feenkcom/gtoolkit-coder</id>
-    <link href="https://github.com/feenkcom/gtoolkit-coder" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The GT set of tools for writing Pharo code.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/gtoolkit</title>
-    <updated>2022-05-31T01:53:45Z</updated>
-    <id>tag:github.com,2022-05-31:/feenkcom/gtoolkit</id>
-    <link href="https://github.com/feenkcom/gtoolkit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Glamorous Toolkit is a multilanguage notebook. A fancy code editor. A software analysis platform. A visualization engine. A knowledge management system. All programmable. All in one.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/gt4ruby</title>
-    <updated>2022-05-31T01:53:45Z</updated>
-    <id>tag:github.com,2022-05-31:/feenkcom/gt4ruby</id>
-    <link href="https://github.com/feenkcom/gt4ruby" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/gtoolkit-filebrowser</title>
-    <updated>2022-05-31T01:53:45Z</updated>
-    <id>tag:github.com,2022-05-31:/feenkcom/gtoolkit-filebrowser</id>
-    <link href="https://github.com/feenkcom/gtoolkit-filebrowser" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A glamorous file browser&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/gtoolkit-clipboard</title>
-    <updated>2022-05-31T01:53:45Z</updated>
-    <id>tag:github.com,2022-05-31:/feenkcom/gtoolkit-clipboard</id>
-    <link href="https://github.com/feenkcom/gtoolkit-clipboard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Glamorous Toolkit bindings to Clipboard&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/gtoolkit-presenter</title>
-    <updated>2022-05-31T01:53:45Z</updated>
-    <id>tag:github.com,2022-05-31:/feenkcom/gtoolkit-presenter</id>
-    <link href="https://github.com/feenkcom/gtoolkit-presenter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The tool for live slide-based storytelling.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>feenkcom/gtoolkit-pager</title>
+    <updated>2022-06-01T01:54:12Z</updated>
+    <id>tag:github.com,2022-06-01:/feenkcom/gtoolkit-pager</id>
+    <link href="https://github.com/feenkcom/gtoolkit-pager" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The tool that spawns other tools (inspector, playground, debugger, ...) into pages&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>feenkcom/gtoolkit-remote-python</title>
-    <updated>2022-05-31T01:53:45Z</updated>
-    <id>tag:github.com,2022-05-31:/feenkcom/gtoolkit-remote-python</id>
+    <updated>2022-06-01T01:54:12Z</updated>
+    <id>tag:github.com,2022-06-01:/feenkcom/gtoolkit-remote-python</id>
     <link href="https://github.com/feenkcom/gtoolkit-remote-python" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Gtoolkit specific functionality for Python integration&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>feenkcom/gt4smacc</title>
-    <updated>2022-05-31T01:53:45Z</updated>
-    <id>tag:github.com,2022-05-31:/feenkcom/gt4smacc</id>
-    <link href="https://github.com/feenkcom/gt4smacc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The development environment for SmaCC based on the Glamorous Toolkit.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/XMLWriter</title>
-    <updated>2022-05-31T01:53:45Z</updated>
-    <id>tag:github.com,2022-05-31:/feenkcom/XMLWriter</id>
-    <link href="https://github.com/feenkcom/XMLWriter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/gtoolkit-releaser</title>
-    <updated>2022-05-31T01:53:45Z</updated>
-    <id>tag:github.com,2022-05-31:/feenkcom/gtoolkit-releaser</id>
-    <link href="https://github.com/feenkcom/gtoolkit-releaser" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The engine for releasing deeply nested projects.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/gt4git</title>
-    <updated>2022-05-31T01:53:45Z</updated>
-    <id>tag:github.com,2022-05-31:/feenkcom/gt4git</id>
-    <link href="https://github.com/feenkcom/gt4git" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The interface to work with Git projects from within Glamorous Toolkit.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/gtoolkit-gleam</title>
-    <updated>2022-05-31T01:53:45Z</updated>
-    <id>tag:github.com,2022-05-31:/feenkcom/gtoolkit-gleam</id>
-    <link href="https://github.com/feenkcom/gtoolkit-gleam" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;C wrapper around OpenGL bindings for Servo&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/gtoolkit-remoterunner</title>
-    <updated>2022-05-31T01:53:45Z</updated>
-    <id>tag:github.com,2022-05-31:/feenkcom/gtoolkit-remoterunner</id>
-    <link href="https://github.com/feenkcom/gtoolkit-remoterunner" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A framework for running tests and examples across a distributed system&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>feenkcom/gtoolkit-demos</title>
-    <updated>2022-05-31T01:53:45Z</updated>
-    <id>tag:github.com,2022-05-31:/feenkcom/gtoolkit-demos</id>
+    <updated>2022-06-01T01:54:12Z</updated>
+    <id>tag:github.com,2022-06-01:/feenkcom/gtoolkit-demos</id>
     <link href="https://github.com/feenkcom/gtoolkit-demos" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A collection of ready to run demos of Glamorous Toolkit.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>feenkcom/gtoolkit-debugger</title>
-    <updated>2022-05-31T01:53:45Z</updated>
-    <id>tag:github.com,2022-05-31:/feenkcom/gtoolkit-debugger</id>
-    <link href="https://github.com/feenkcom/gtoolkit-debugger" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GT Debugger is a ... debugger. A moldable debugger.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/gtoolkit-completer</title>
-    <updated>2022-05-31T01:53:45Z</updated>
-    <id>tag:github.com,2022-05-31:/feenkcom/gtoolkit-completer</id>
-    <link href="https://github.com/feenkcom/gtoolkit-completer" rel="alternate"></link>
+    <title>feenkcom/XMLWriter</title>
+    <updated>2022-06-01T01:54:12Z</updated>
+    <id>tag:github.com,2022-06-01:/feenkcom/XMLWriter</id>
+    <link href="https://github.com/feenkcom/XMLWriter" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>feenkcom/gtoolkit-external-process</title>
-    <updated>2022-05-31T01:53:45Z</updated>
-    <id>tag:github.com,2022-05-31:/feenkcom/gtoolkit-external-process</id>
-    <link href="https://github.com/feenkcom/gtoolkit-external-process" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Pharo library for cross-platform running of external commands and getting their output.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>feenkcom/gt4git</title>
+    <updated>2022-06-01T01:54:12Z</updated>
+    <id>tag:github.com,2022-06-01:/feenkcom/gt4git</id>
+    <link href="https://github.com/feenkcom/gt4git" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The interface to work with Git projects from within Glamorous Toolkit.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

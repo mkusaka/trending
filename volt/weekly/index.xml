@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Volt Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T02:26:12Z</updated>
+  <updated>2022-06-01T02:25:45Z</updated>
   <subtitle>Weekly Trending of Volt in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>crowdsecurity/opnsense-plugin-crowdsec</title>
+    <updated>2022-06-01T02:25:45Z</updated>
+    <id>tag:github.com,2022-06-01:/crowdsecurity/opnsense-plugin-crowdsec</id>
+    <link href="https://github.com/crowdsecurity/opnsense-plugin-crowdsec" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OPNsense plugin for CrowdSec&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

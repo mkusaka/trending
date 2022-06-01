@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Crystal Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T02:34:44Z</updated>
+  <updated>2022-06-01T02:33:35Z</updated>
   <subtitle>Monthly Trending of Crystal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>iv-org/invidious</title>
-    <updated>2022-05-31T02:34:44Z</updated>
-    <id>tag:github.com,2022-05-31:/iv-org/invidious</id>
+    <updated>2022-06-01T02:33:35Z</updated>
+    <id>tag:github.com,2022-06-01:/iv-org/invidious</id>
     <link href="https://github.com/iv-org/invidious" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Invidious is an alternative front-end to YouTube&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>crystal-lang/crystal</title>
-    <updated>2022-05-31T02:34:44Z</updated>
-    <id>tag:github.com,2022-05-31:/crystal-lang/crystal</id>
+    <updated>2022-06-01T02:33:35Z</updated>
+    <id>tag:github.com,2022-06-01:/crystal-lang/crystal</id>
     <link href="https://github.com/crystal-lang/crystal" rel="alternate"></link>
     <summary type="html">&lt;p&gt;The Crystal Programming Language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

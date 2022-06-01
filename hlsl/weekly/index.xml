@@ -1,56 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HLSL Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T02:11:06Z</updated>
+  <updated>2022-06-01T02:11:12Z</updated>
   <subtitle>Weekly Trending of HLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>Blinue/Magpie</title>
-    <updated>2022-05-31T02:11:06Z</updated>
-    <id>tag:github.com,2022-05-31:/Blinue/Magpie</id>
+    <updated>2022-06-01T02:11:12Z</updated>
+    <id>tag:github.com,2022-06-01:/Blinue/Magpie</id>
     <link href="https://github.com/Blinue/Magpie" rel="alternate"></link>
     <summary type="html">&lt;p&gt;使游戏窗口全屏显示&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>Samueleonard/AIG-ModelMatching-For-MSFS</title>
-    <updated>2022-05-31T02:11:06Z</updated>
-    <id>tag:github.com,2022-05-31:/Samueleonard/AIG-ModelMatching-For-MSFS</id>
+    <updated>2022-06-01T02:11:12Z</updated>
+    <id>tag:github.com,2022-06-01:/Samueleonard/AIG-ModelMatching-For-MSFS</id>
     <link href="https://github.com/Samueleonard/AIG-ModelMatching-For-MSFS" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Latest version of AIG modelmatching for MSFS&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>crosire/reshade-shaders</title>
+    <updated>2022-06-01T02:11:12Z</updated>
+    <id>tag:github.com,2022-06-01:/crosire/reshade-shaders</id>
+    <link href="https://github.com/crosire/reshade-shaders" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of post-processing shaders written for ReShade.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>hecomi/UnityFurURP</title>
-    <updated>2022-05-31T02:11:06Z</updated>
-    <id>tag:github.com,2022-05-31:/hecomi/UnityFurURP</id>
+    <updated>2022-06-01T02:11:12Z</updated>
+    <id>tag:github.com,2022-06-01:/hecomi/UnityFurURP</id>
     <link href="https://github.com/hecomi/UnityFurURP" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Fur shader implementation for URP&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>ray-cast/ray-mmd</title>
-    <updated>2022-05-31T02:11:06Z</updated>
-    <id>tag:github.com,2022-05-31:/ray-cast/ray-mmd</id>
+    <updated>2022-06-01T02:11:12Z</updated>
+    <id>tag:github.com,2022-06-01:/ray-cast/ray-mmd</id>
     <link href="https://github.com/ray-cast/ray-mmd" rel="alternate"></link>
     <summary type="html">&lt;p&gt;🎨 The project is designed to create a physically-based rendering at mikumikudance.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>crosire/reshade-shaders</title>
-    <updated>2022-05-31T02:11:06Z</updated>
-    <id>tag:github.com,2022-05-31:/crosire/reshade-shaders</id>
-    <link href="https://github.com/crosire/reshade-shaders" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of post-processing shaders written for ReShade.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JimmyCushnie/Noisy-Nodes</title>
-    <updated>2022-05-31T02:11:06Z</updated>
-    <id>tag:github.com,2022-05-31:/JimmyCushnie/Noisy-Nodes</id>
-    <link href="https://github.com/JimmyCushnie/Noisy-Nodes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Adds various noise generation nodes to Unity Shader Graph, including 3D noise nodes.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ColinLeung-NiloCat/UnityURPToonLitShaderExample</title>
-    <updated>2022-05-31T02:11:06Z</updated>
-    <id>tag:github.com,2022-05-31:/ColinLeung-NiloCat/UnityURPToonLitShaderExample</id>
-    <link href="https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A very simple toon lit shader example, for you to learn writing custom lit shader in Unity URP&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>martymcmodding/qUINT</title>
+    <updated>2022-06-01T02:11:12Z</updated>
+    <id>tag:github.com,2022-06-01:/martymcmodding/qUINT</id>
+    <link href="https://github.com/martymcmodding/qUINT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of general-purpose effects for the ReShade shader injector.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

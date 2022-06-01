@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ASL Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T02:02:40Z</updated>
+  <updated>2022-06-01T02:02:40Z</updated>
   <subtitle>Weekly Trending of ASL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
+    <title>daliansky/XiaoMi-Pro-Hackintosh</title>
+    <updated>2022-06-01T02:02:40Z</updated>
+    <id>tag:github.com,2022-06-01:/daliansky/XiaoMi-Pro-Hackintosh</id>
+    <link href="https://github.com/daliansky/XiaoMi-Pro-Hackintosh" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;XiaoMi NoteBook Pro Hackintosh&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>dortania/Getting-Started-With-ACPI</title>
-    <updated>2022-05-31T02:02:40Z</updated>
-    <id>tag:github.com,2022-05-31:/dortania/Getting-Started-With-ACPI</id>
+    <updated>2022-06-01T02:02:40Z</updated>
+    <id>tag:github.com,2022-06-01:/dortania/Getting-Started-With-ACPI</id>
     <link href="https://github.com/dortania/Getting-Started-With-ACPI" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Repo for Getting Started With ACPI&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>osy/HaC-Mini</title>
-    <updated>2022-05-31T02:02:40Z</updated>
-    <id>tag:github.com,2022-05-31:/osy/HaC-Mini</id>
+    <updated>2022-06-01T02:02:40Z</updated>
+    <id>tag:github.com,2022-06-01:/osy/HaC-Mini</id>
     <link href="https://github.com/osy/HaC-Mini" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Intel NUC Hades Canyon Hackintosh support&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

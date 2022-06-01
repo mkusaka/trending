@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ABAP Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T02:30:39Z</updated>
+  <updated>2022-06-01T02:29:44Z</updated>
   <subtitle>Monthly Trending of ABAP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>SAP/code-pal-for-abap</title>
-    <updated>2022-05-31T02:30:39Z</updated>
-    <id>tag:github.com,2022-05-31:/SAP/code-pal-for-abap</id>
+    <updated>2022-06-01T02:29:44Z</updated>
+    <id>tag:github.com,2022-06-01:/SAP/code-pal-for-abap</id>
     <link href="https://github.com/SAP/code-pal-for-abap" rel="alternate"></link>
     <summary type="html">&lt;p&gt;code pal for ABAP is a highly configurable engine, fully integrated into the ABAP development framework ensuring Cloud’s built-in quality.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>abapGit/abapGit</title>
-    <updated>2022-05-31T02:30:39Z</updated>
-    <id>tag:github.com,2022-05-31:/abapGit/abapGit</id>
-    <link href="https://github.com/abapGit/abapGit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Git client for ABAP&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>abap2xlsx/abap2xlsx</title>
-    <updated>2022-05-31T02:30:39Z</updated>
-    <id>tag:github.com,2022-05-31:/abap2xlsx/abap2xlsx</id>
+    <updated>2022-06-01T02:29:44Z</updated>
+    <id>tag:github.com,2022-06-01:/abap2xlsx/abap2xlsx</id>
     <link href="https://github.com/abap2xlsx/abap2xlsx" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Generate your professional Excel spreadsheet from ABAP&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>abapGit/abapGit</title>
+    <updated>2022-06-01T02:29:44Z</updated>
+    <id>tag:github.com,2022-06-01:/abapGit/abapGit</id>
+    <link href="https://github.com/abapGit/abapGit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Git client for ABAP&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

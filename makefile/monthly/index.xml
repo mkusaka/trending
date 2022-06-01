@@ -1,182 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T02:44:28Z</updated>
+  <updated>2022-06-01T02:42:50Z</updated>
   <subtitle>Monthly Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>NVIDIA/nvidia-docker</title>
-    <updated>2022-05-31T02:44:28Z</updated>
-    <id>tag:github.com,2022-05-31:/NVIDIA/nvidia-docker</id>
+    <updated>2022-06-01T02:42:50Z</updated>
+    <id>tag:github.com,2022-06-01:/NVIDIA/nvidia-docker</id>
     <link href="https://github.com/NVIDIA/nvidia-docker" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Build and run Docker containers leveraging NVIDIA GPUs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>buildroot/buildroot</title>
-    <updated>2022-05-31T02:44:28Z</updated>
-    <id>tag:github.com,2022-05-31:/buildroot/buildroot</id>
-    <link href="https://github.com/buildroot/buildroot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at http://git.buildroot.net/buildroot/. Do not open issues or file pull requests here.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>open-telemetry/opentelemetry-specification</title>
-    <updated>2022-05-31T02:44:28Z</updated>
-    <id>tag:github.com,2022-05-31:/open-telemetry/opentelemetry-specification</id>
-    <link href="https://github.com/open-telemetry/opentelemetry-specification" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Specifications for OpenTelemetry&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mkubecek/vmware-host-modules</title>
-    <updated>2022-05-31T02:44:28Z</updated>
-    <id>tag:github.com,2022-05-31:/mkubecek/vmware-host-modules</id>
-    <link href="https://github.com/mkubecek/vmware-host-modules" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Patches needed to build VMware (Player and Workstation) host modules against recent kernels&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rabbitmq/rabbitmq-server</title>
-    <updated>2022-05-31T02:44:28Z</updated>
-    <id>tag:github.com,2022-05-31:/rabbitmq/rabbitmq-server</id>
-    <link href="https://github.com/rabbitmq/rabbitmq-server" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open source RabbitMQ: core server and tier 1 (built-in) plugins&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>golang-standards/project-layout</title>
-    <updated>2022-05-31T02:44:28Z</updated>
-    <id>tag:github.com,2022-05-31:/golang-standards/project-layout</id>
+    <updated>2022-06-01T02:42:50Z</updated>
+    <id>tag:github.com,2022-06-01:/golang-standards/project-layout</id>
     <link href="https://github.com/golang-standards/project-layout" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Standard Go Project Layout&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>open-telemetry/opentelemetry-specification</title>
+    <updated>2022-06-01T02:42:50Z</updated>
+    <id>tag:github.com,2022-06-01:/open-telemetry/opentelemetry-specification</id>
+    <link href="https://github.com/open-telemetry/opentelemetry-specification" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Specifications for OpenTelemetry&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rabbitmq/rabbitmq-server</title>
+    <updated>2022-06-01T02:42:50Z</updated>
+    <id>tag:github.com,2022-06-01:/rabbitmq/rabbitmq-server</id>
+    <link href="https://github.com/rabbitmq/rabbitmq-server" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open source RabbitMQ: core server and tier 1 (built-in) plugins&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mkubecek/vmware-host-modules</title>
+    <updated>2022-06-01T02:42:50Z</updated>
+    <id>tag:github.com,2022-06-01:/mkubecek/vmware-host-modules</id>
+    <link href="https://github.com/mkubecek/vmware-host-modules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Patches needed to build VMware (Player and Workstation) host modules against recent kernels&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>buildroot/buildroot</title>
+    <updated>2022-06-01T02:42:50Z</updated>
+    <id>tag:github.com,2022-06-01:/buildroot/buildroot</id>
+    <link href="https://github.com/buildroot/buildroot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at http://git.buildroot.net/buildroot/. Do not open issues or file pull requests here.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>open-telemetry/opentelemetry-proto</title>
-    <updated>2022-05-31T02:44:28Z</updated>
-    <id>tag:github.com,2022-05-31:/open-telemetry/opentelemetry-proto</id>
+    <updated>2022-06-01T02:42:50Z</updated>
+    <id>tag:github.com,2022-06-01:/open-telemetry/opentelemetry-proto</id>
     <link href="https://github.com/open-telemetry/opentelemetry-proto" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Protobuf definitions for the OpenTelemetry protocol (OTLP)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>NJU-ProjectN/os-workbench-2022</title>
+    <updated>2022-06-01T02:42:50Z</updated>
+    <id>tag:github.com,2022-06-01:/NJU-ProjectN/os-workbench-2022</id>
+    <link href="https://github.com/NJU-ProjectN/os-workbench-2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>AOSP-Krypton/device_qcom_sepolicy-legacy-um</title>
-    <updated>2022-05-31T02:44:28Z</updated>
-    <id>tag:github.com,2022-05-31:/AOSP-Krypton/device_qcom_sepolicy-legacy-um</id>
+    <updated>2022-06-01T02:42:50Z</updated>
+    <id>tag:github.com,2022-06-01:/AOSP-Krypton/device_qcom_sepolicy-legacy-um</id>
     <link href="https://github.com/AOSP-Krypton/device_qcom_sepolicy-legacy-um" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>waveaccounting/terraform-aws-chatbot-slack-configuration</title>
-    <updated>2022-05-31T02:44:28Z</updated>
-    <id>tag:github.com,2022-05-31:/waveaccounting/terraform-aws-chatbot-slack-configuration</id>
+    <updated>2022-06-01T02:42:50Z</updated>
+    <id>tag:github.com,2022-06-01:/waveaccounting/terraform-aws-chatbot-slack-configuration</id>
     <link href="https://github.com/waveaccounting/terraform-aws-chatbot-slack-configuration" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Module to enable Chatbot Slack channel configuration in Terraform&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>gogo/googleapis</title>
-    <updated>2022-05-31T02:44:28Z</updated>
-    <id>tag:github.com,2022-05-31:/gogo/googleapis</id>
+    <updated>2022-06-01T02:42:50Z</updated>
+    <id>tag:github.com,2022-06-01:/gogo/googleapis</id>
     <link href="https://github.com/gogo/googleapis" rel="alternate"></link>
     <summary type="html">&lt;p&gt;googleapis generated with gogoprotobuf&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>foostan/crkbd</title>
-    <updated>2022-05-31T02:44:28Z</updated>
-    <id>tag:github.com,2022-05-31:/foostan/crkbd</id>
-    <link href="https://github.com/foostan/crkbd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>AOSP-Krypton/vendor_lawnchair</title>
-    <updated>2022-05-31T02:44:28Z</updated>
-    <id>tag:github.com,2022-05-31:/AOSP-Krypton/vendor_lawnchair</id>
-    <link href="https://github.com/AOSP-Krypton/vendor_lawnchair" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>uber/go.uber.org</title>
-    <updated>2022-05-31T02:44:28Z</updated>
-    <id>tag:github.com,2022-05-31:/uber/go.uber.org</id>
-    <link href="https://github.com/uber/go.uber.org" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Golang https://go.uber.org custom import path&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>matyo91/matyo91</title>
-    <updated>2022-05-31T02:44:28Z</updated>
-    <id>tag:github.com,2022-05-31:/matyo91/matyo91</id>
+    <updated>2022-06-01T02:42:50Z</updated>
+    <id>tag:github.com,2022-06-01:/matyo91/matyo91</id>
     <link href="https://github.com/matyo91/matyo91" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Github Profil description&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>AOSP-Krypton/vendor_qcom_opensource_bluetooth-commonsys-intf</title>
-    <updated>2022-05-31T02:44:28Z</updated>
-    <id>tag:github.com,2022-05-31:/AOSP-Krypton/vendor_qcom_opensource_bluetooth-commonsys-intf</id>
-    <link href="https://github.com/AOSP-Krypton/vendor_qcom_opensource_bluetooth-commonsys-intf" rel="alternate"></link>
+    <title>uber/go.uber.org</title>
+    <updated>2022-06-01T02:42:50Z</updated>
+    <id>tag:github.com,2022-06-01:/uber/go.uber.org</id>
+    <link href="https://github.com/uber/go.uber.org" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Golang https://go.uber.org custom import path&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AOSP-Krypton/vendor_lawnchair</title>
+    <updated>2022-06-01T02:42:50Z</updated>
+    <id>tag:github.com,2022-06-01:/AOSP-Krypton/vendor_lawnchair</id>
+    <link href="https://github.com/AOSP-Krypton/vendor_lawnchair" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>AOSP-Krypton/vendor_themes</title>
-    <updated>2022-05-31T02:44:28Z</updated>
-    <id>tag:github.com,2022-05-31:/AOSP-Krypton/vendor_themes</id>
-    <link href="https://github.com/AOSP-Krypton/vendor_themes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>foostan/crkbd</title>
+    <updated>2022-06-01T02:42:50Z</updated>
+    <id>tag:github.com,2022-06-01:/foostan/crkbd</id>
+    <link href="https://github.com/foostan/crkbd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>olxbr/es-cerebro</title>
-    <updated>2022-05-31T02:44:28Z</updated>
-    <id>tag:github.com,2022-05-31:/olxbr/es-cerebro</id>
+    <updated>2022-06-01T02:42:50Z</updated>
+    <id>tag:github.com,2022-06-01:/olxbr/es-cerebro</id>
     <link href="https://github.com/olxbr/es-cerebro" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>olxbr/make-snippets</title>
-    <updated>2022-05-31T02:44:28Z</updated>
-    <id>tag:github.com,2022-05-31:/olxbr/make-snippets</id>
-    <link href="https://github.com/olxbr/make-snippets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>olxbr/kafka-manager</title>
-    <updated>2022-05-31T02:44:28Z</updated>
-    <id>tag:github.com,2022-05-31:/olxbr/kafka-manager</id>
+    <updated>2022-06-01T02:42:50Z</updated>
+    <id>tag:github.com,2022-06-01:/olxbr/kafka-manager</id>
     <link href="https://github.com/olxbr/kafka-manager" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Dockerized kafka-manager&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>olxbr/make-snippets</title>
+    <updated>2022-06-01T02:42:50Z</updated>
+    <id>tag:github.com,2022-06-01:/olxbr/make-snippets</id>
+    <link href="https://github.com/olxbr/make-snippets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AOSP-Krypton/vendor_krypton</title>
+    <updated>2022-06-01T02:42:50Z</updated>
+    <id>tag:github.com,2022-06-01:/AOSP-Krypton/vendor_krypton</id>
+    <link href="https://github.com/AOSP-Krypton/vendor_krypton" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vendor tree for AOSP-Krypton&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>temporalio/api</title>
+    <updated>2022-06-01T02:42:50Z</updated>
+    <id>tag:github.com,2022-06-01:/temporalio/api</id>
+    <link href="https://github.com/temporalio/api" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Temporal gRPC API and proto files&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>niudai/How-to-be-a-good-programmer</title>
+    <updated>2022-06-01T02:42:50Z</updated>
+    <id>tag:github.com,2022-06-01:/niudai/How-to-be-a-good-programmer</id>
+    <link href="https://github.com/niudai/How-to-be-a-good-programmer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;I&#39;m here to tell you some amazing stuff which teacher would never tell you.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>WerWolv/Tesla-Menu</title>
-    <updated>2022-05-31T02:44:28Z</updated>
-    <id>tag:github.com,2022-05-31:/WerWolv/Tesla-Menu</id>
+    <updated>2022-06-01T02:42:50Z</updated>
+    <id>tag:github.com,2022-06-01:/WerWolv/Tesla-Menu</id>
     <link href="https://github.com/WerWolv/Tesla-Menu" rel="alternate"></link>
     <summary type="html">&lt;p&gt;The Nintendo Switch overlay menu&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Nusantara-ROM/android_system_sepolicy</title>
-    <updated>2022-05-31T02:44:28Z</updated>
-    <id>tag:github.com,2022-05-31:/Nusantara-ROM/android_system_sepolicy</id>
-    <link href="https://github.com/Nusantara-ROM/android_system_sepolicy" rel="alternate"></link>
+    <title>Nusantara-ROM/android_device_nad_sepolicy</title>
+    <updated>2022-06-01T02:42:50Z</updated>
+    <id>tag:github.com,2022-06-01:/Nusantara-ROM/android_device_nad_sepolicy</id>
+    <link href="https://github.com/Nusantara-ROM/android_device_nad_sepolicy" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>Nusantara-ROM/android_device_qcom_sepolicy_vndr</title>
-    <updated>2022-05-31T02:44:28Z</updated>
-    <id>tag:github.com,2022-05-31:/Nusantara-ROM/android_device_qcom_sepolicy_vndr</id>
+    <updated>2022-06-01T02:42:50Z</updated>
+    <id>tag:github.com,2022-06-01:/Nusantara-ROM/android_device_qcom_sepolicy_vndr</id>
     <link href="https://github.com/Nusantara-ROM/android_device_qcom_sepolicy_vndr" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>Nusantara-ROM/android_device_qcom_sepolicy-legacy-um</title>
-    <updated>2022-05-31T02:44:28Z</updated>
-    <id>tag:github.com,2022-05-31:/Nusantara-ROM/android_device_qcom_sepolicy-legacy-um</id>
+    <updated>2022-06-01T02:42:50Z</updated>
+    <id>tag:github.com,2022-06-01:/Nusantara-ROM/android_device_qcom_sepolicy-legacy-um</id>
     <link href="https://github.com/Nusantara-ROM/android_device_qcom_sepolicy-legacy-um" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Nusantara-ROM/android_device_nad_sepolicy</title>
-    <updated>2022-05-31T02:44:28Z</updated>
-    <id>tag:github.com,2022-05-31:/Nusantara-ROM/android_device_nad_sepolicy</id>
-    <link href="https://github.com/Nusantara-ROM/android_device_nad_sepolicy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>AOSP-Krypton/vendor_krypton</title>
-    <updated>2022-05-31T02:44:28Z</updated>
-    <id>tag:github.com,2022-05-31:/AOSP-Krypton/vendor_krypton</id>
-    <link href="https://github.com/AOSP-Krypton/vendor_krypton" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vendor tree for AOSP-Krypton&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,42 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T01:47:59Z</updated>
+  <updated>2022-06-01T01:48:37Z</updated>
   <subtitle>Daily Trending of Objective-C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mapbox/mapbox-gl-native-ios</title>
-    <updated>2022-05-31T01:47:59Z</updated>
-    <id>tag:github.com,2022-05-31:/mapbox/mapbox-gl-native-ios</id>
-    <link href="https://github.com/mapbox/mapbox-gl-native-ios" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Interactive, thoroughly customizable maps for iOS powered by vector tiles and OpenGL&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>michaeleisel/ZippyJSONCFamily</title>
+    <updated>2022-06-01T01:48:37Z</updated>
+    <id>tag:github.com,2022-06-01:/michaeleisel/ZippyJSONCFamily</id>
+    <link href="https://github.com/michaeleisel/ZippyJSONCFamily" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;C Family dependencies for ZippyJSON - Do not use directly!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>KhronosGroup/MoltenVK</title>
-    <updated>2022-05-31T01:47:59Z</updated>
-    <id>tag:github.com,2022-05-31:/KhronosGroup/MoltenVK</id>
-    <link href="https://github.com/KhronosGroup/MoltenVK" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MoltenVK is a Vulkan Portability implementation. It layers a subset of the high-performance, industry-standard Vulkan graphics and compute API over Apple&#39;s Metal graphics framework, enabling Vulkan applications to run on macOS, iOS and tvOS.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TextureGroup/Texture</title>
+    <updated>2022-06-01T01:48:37Z</updated>
+    <id>tag:github.com,2022-06-01:/TextureGroup/Texture</id>
+    <link href="https://github.com/TextureGroup/Texture" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Smooth asynchronous user interfaces for iOS apps.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Unity-Technologies/uaal-example</title>
-    <updated>2022-05-31T01:47:59Z</updated>
-    <id>tag:github.com,2022-05-31:/Unity-Technologies/uaal-example</id>
-    <link href="https://github.com/Unity-Technologies/uaal-example" rel="alternate"></link>
+    <title>pivotal-legacy/PivotalCoreKit</title>
+    <updated>2022-06-01T01:48:37Z</updated>
+    <id>tag:github.com,2022-06-01:/pivotal-legacy/PivotalCoreKit</id>
+    <link href="https://github.com/pivotal-legacy/PivotalCoreKit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Shared library and test code for iOS and macOS projects&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pocketsvg/PocketSVG</title>
+    <updated>2022-06-01T01:48:37Z</updated>
+    <id>tag:github.com,2022-06-01:/pocketsvg/PocketSVG</id>
+    <link href="https://github.com/pocketsvg/PocketSVG" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Easily convert your SVG files into CGPaths, CAShapeLayers, and UIBezierPaths&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gree/unity-webview</title>
+    <updated>2022-06-01T01:48:37Z</updated>
+    <id>tag:github.com,2022-06-01:/gree/unity-webview</id>
+    <link href="https://github.com/gree/unity-webview" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>textmate/textmate</title>
-    <updated>2022-05-31T01:47:59Z</updated>
-    <id>tag:github.com,2022-05-31:/textmate/textmate</id>
-    <link href="https://github.com/textmate/textmate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;TextMate is a graphical text editor for macOS 10.12 or later&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>phonegap/phonegap-plugin-barcodescanner</title>
+    <updated>2022-06-01T01:48:37Z</updated>
+    <id>tag:github.com,2022-06-01:/phonegap/phonegap-plugin-barcodescanner</id>
+    <link href="https://github.com/phonegap/phonegap-plugin-barcodescanner" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;cross-platform BarcodeScanner for Cordova / PhoneGap&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>johnboiles/obs-mac-virtualcam</title>
-    <updated>2022-05-31T01:47:59Z</updated>
-    <id>tag:github.com,2022-05-31:/johnboiles/obs-mac-virtualcam</id>
-    <link href="https://github.com/johnboiles/obs-mac-virtualcam" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ARCHIVED! This plugin is officially a part of OBS as of version 26.1. See note below for info on upgrading. 🎉🎉🎉Creates a virtual webcam device from the output of OBS. Especially useful for streaming smooth, composited video into Zoom, Hangouts, Jitsi etc. Like CatxFish/obs-virtualcam but for macOS.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>facebookarchive/pop</title>
+    <updated>2022-06-01T01:48:37Z</updated>
+    <id>tag:github.com,2022-06-01:/facebookarchive/pop</id>
+    <link href="https://github.com/facebookarchive/pop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An extensible iOS and OS X animation library, useful for physics-based interactions.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

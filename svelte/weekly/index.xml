@@ -1,98 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T02:23:24Z</updated>
+  <updated>2022-06-01T02:23:08Z</updated>
   <subtitle>Weekly Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>saadeghi/daisyui</title>
-    <updated>2022-05-31T02:23:24Z</updated>
-    <id>tag:github.com,2022-05-31:/saadeghi/daisyui</id>
+    <updated>2022-06-01T02:23:08Z</updated>
+    <id>tag:github.com,2022-06-01:/saadeghi/daisyui</id>
     <link href="https://github.com/saadeghi/daisyui" rel="alternate"></link>
     <summary type="html">&lt;p&gt;⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>iotaledger/firefly</title>
-    <updated>2022-05-31T02:23:24Z</updated>
-    <id>tag:github.com,2022-05-31:/iotaledger/firefly</id>
-    <link href="https://github.com/iotaledger/firefly" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;IOTA&#39;s New Wallet&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>carbon-design-system/carbon-components-svelte</title>
-    <updated>2022-05-31T02:23:24Z</updated>
-    <id>tag:github.com,2022-05-31:/carbon-design-system/carbon-components-svelte</id>
+    <updated>2022-06-01T02:23:08Z</updated>
+    <id>tag:github.com,2022-06-01:/carbon-design-system/carbon-components-svelte</id>
     <link href="https://github.com/carbon-design-system/carbon-components-svelte" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Svelte implementation of the Carbon Design System&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>ForgQi/biliup-app</title>
-    <updated>2022-05-31T02:23:24Z</updated>
-    <id>tag:github.com,2022-05-31:/ForgQi/biliup-app</id>
+    <updated>2022-06-01T02:23:08Z</updated>
+    <id>tag:github.com,2022-06-01:/ForgQi/biliup-app</id>
     <link href="https://github.com/ForgQi/biliup-app" rel="alternate"></link>
     <summary type="html">&lt;p&gt;b站全平台投稿客户端，支持多p投稿，稿件编辑&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>iotaledger/firefly</title>
+    <updated>2022-06-01T02:23:08Z</updated>
+    <id>tag:github.com,2022-06-01:/iotaledger/firefly</id>
+    <link href="https://github.com/iotaledger/firefly" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;IOTA&#39;s New Wallet&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>cupcakearmy/cryptgeon</title>
-    <updated>2022-05-31T02:23:24Z</updated>
-    <id>tag:github.com,2022-05-31:/cupcakearmy/cryptgeon</id>
+    <updated>2022-06-01T02:23:08Z</updated>
+    <id>tag:github.com,2022-06-01:/cupcakearmy/cryptgeon</id>
     <link href="https://github.com/cupcakearmy/cryptgeon" rel="alternate"></link>
     <summary type="html">&lt;p&gt;cryptgeon is a secure, open source note / file sharing service inspired by PrivNote written in rust &amp; svelte.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nmelhado/league-page</title>
-    <updated>2022-05-31T02:23:24Z</updated>
-    <id>tag:github.com,2022-05-31:/nmelhado/league-page</id>
-    <link href="https://github.com/nmelhado/league-page" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Create a custom league page for your Sleeper fantasy football league!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>snuffyDev/Beatbump</title>
-    <updated>2022-05-31T02:23:24Z</updated>
-    <id>tag:github.com,2022-05-31:/snuffyDev/Beatbump</id>
-    <link href="https://github.com/snuffyDev/Beatbump" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PuruVJ/macos-web</title>
+    <updated>2022-06-01T02:23:08Z</updated>
+    <id>tag:github.com,2022-06-01:/PuruVJ/macos-web</id>
+    <link href="https://github.com/PuruVJ/macos-web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>oslabs-beta/Svetch</title>
-    <updated>2022-05-31T02:23:24Z</updated>
-    <id>tag:github.com,2022-05-31:/oslabs-beta/Svetch</id>
+    <updated>2022-06-01T02:23:08Z</updated>
+    <id>tag:github.com,2022-06-01:/oslabs-beta/Svetch</id>
     <link href="https://github.com/oslabs-beta/Svetch" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rgossiaux/svelte-headlessui</title>
-    <updated>2022-05-31T02:23:24Z</updated>
-    <id>tag:github.com,2022-05-31:/rgossiaux/svelte-headlessui</id>
-    <link href="https://github.com/rgossiaux/svelte-headlessui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Unofficial Svelte port of the Headless UI component library&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Rich-Harris/svelte-cubed</title>
-    <updated>2022-05-31T02:23:24Z</updated>
-    <id>tag:github.com,2022-05-31:/Rich-Harris/svelte-cubed</id>
-    <link href="https://github.com/Rich-Harris/svelte-cubed" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Svelte ❤️ Three&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>snuffyDev/Beatbump</title>
+    <updated>2022-06-01T02:23:08Z</updated>
+    <id>tag:github.com,2022-06-01:/snuffyDev/Beatbump</id>
+    <link href="https://github.com/snuffyDev/Beatbump" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>coollabsio/coolify</title>
-    <updated>2022-05-31T02:23:24Z</updated>
-    <id>tag:github.com,2022-05-31:/coollabsio/coolify</id>
+    <updated>2022-06-01T02:23:08Z</updated>
+    <id>tag:github.com,2022-06-01:/coollabsio/coolify</id>
     <link href="https://github.com/coollabsio/coolify" rel="alternate"></link>
     <summary type="html">&lt;p&gt;An open-source &amp; self-hostable Heroku / Netlify alternative.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hperrin/svelte-material-ui</title>
-    <updated>2022-05-31T02:23:24Z</updated>
-    <id>tag:github.com,2022-05-31:/hperrin/svelte-material-ui</id>
-    <link href="https://github.com/hperrin/svelte-material-ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Svelte Material UI Components&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nmelhado/league-page</title>
+    <updated>2022-06-01T02:23:08Z</updated>
+    <id>tag:github.com,2022-06-01:/nmelhado/league-page</id>
+    <link href="https://github.com/nmelhado/league-page" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Create a custom league page for your Sleeper fantasy football league!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>svelteuidev/svelteui</title>
-    <updated>2022-05-31T02:23:24Z</updated>
-    <id>tag:github.com,2022-05-31:/svelteuidev/svelteui</id>
-    <link href="https://github.com/svelteuidev/svelteui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SvelteUI Monorepo&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rgossiaux/svelte-headlessui</title>
+    <updated>2022-06-01T02:23:08Z</updated>
+    <id>tag:github.com,2022-06-01:/rgossiaux/svelte-headlessui</id>
+    <link href="https://github.com/rgossiaux/svelte-headlessui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Unofficial Svelte port of the Headless UI component library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>themesberg/flowbite-svelte</title>
+    <updated>2022-06-01T02:23:08Z</updated>
+    <id>tag:github.com,2022-06-01:/themesberg/flowbite-svelte</id>
+    <link href="https://github.com/themesberg/flowbite-svelte" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official Svelte components built for Flowbite and Tailwind CSS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Rich-Harris/svelte-cubed</title>
+    <updated>2022-06-01T02:23:08Z</updated>
+    <id>tag:github.com,2022-06-01:/Rich-Harris/svelte-cubed</id>
+    <link href="https://github.com/Rich-Harris/svelte-cubed" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Svelte ❤️ Three&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hperrin/svelte-material-ui</title>
+    <updated>2022-06-01T02:23:08Z</updated>
+    <id>tag:github.com,2022-06-01:/hperrin/svelte-material-ui</id>
+    <link href="https://github.com/hperrin/svelte-material-ui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Svelte Material UI Components&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

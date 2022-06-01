@@ -1,63 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rich Text Format Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T02:20:39Z</updated>
+  <updated>2022-06-01T02:20:25Z</updated>
   <subtitle>Weekly Trending of Rich Text Format in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>couchbase/product-texts</title>
-    <updated>2022-05-31T02:20:39Z</updated>
-    <id>tag:github.com,2022-05-31:/couchbase/product-texts</id>
-    <link href="https://github.com/couchbase/product-texts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository for product-specific documents (e.g. READMEs, license files, etc.)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>decalage2/oletools</title>
+    <updated>2022-06-01T02:20:25Z</updated>
+    <id>tag:github.com,2022-06-01:/decalage2/oletools</id>
+    <link href="https://github.com/decalage2/oletools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dotnet/docs-desktop</title>
+    <updated>2022-06-01T02:20:25Z</updated>
+    <id>tag:github.com,2022-06-01:/dotnet/docs-desktop</id>
+    <link href="https://github.com/dotnet/docs-desktop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository contains .NET documentation related to Windows Forms (winforms) and Windows Presentation Foundation (WPF).&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tsingui/clover-efi</title>
+    <updated>2022-06-01T02:20:25Z</updated>
+    <id>tag:github.com,2022-06-01:/tsingui/clover-efi</id>
+    <link href="https://github.com/tsingui/clover-efi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;分享整理一些黑苹果Clover驱动配置文件&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>cncf/foundation</title>
-    <updated>2022-05-31T02:20:39Z</updated>
-    <id>tag:github.com,2022-05-31:/cncf/foundation</id>
+    <updated>2022-06-01T02:20:25Z</updated>
+    <id>tag:github.com,2022-06-01:/cncf/foundation</id>
     <link href="https://github.com/cncf/foundation" rel="alternate"></link>
     <summary type="html">&lt;p&gt;☁️♮🏛File non-technical issues related to CNCF&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>microsoft/TemplateStudio</title>
-    <updated>2022-05-31T02:20:39Z</updated>
-    <id>tag:github.com,2022-05-31:/microsoft/TemplateStudio</id>
+    <updated>2022-06-01T02:20:25Z</updated>
+    <id>tag:github.com,2022-06-01:/microsoft/TemplateStudio</id>
     <link href="https://github.com/microsoft/TemplateStudio" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Template Studio accelerates the creation of new WinUI 3, WPF, and UWP apps using a wizard-based experience.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dotnet/docs-desktop</title>
-    <updated>2022-05-31T02:20:39Z</updated>
-    <id>tag:github.com,2022-05-31:/dotnet/docs-desktop</id>
-    <link href="https://github.com/dotnet/docs-desktop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository contains .NET documentation related to Windows Forms (winforms) and Windows Presentation Foundation (WPF).&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>ckeditor/ckeditor4</title>
-    <updated>2022-05-31T02:20:39Z</updated>
-    <id>tag:github.com,2022-05-31:/ckeditor/ckeditor4</id>
+    <updated>2022-06-01T02:20:25Z</updated>
+    <id>tag:github.com,2022-06-01:/ckeditor/ckeditor4</id>
     <link href="https://github.com/ckeditor/ckeditor4" rel="alternate"></link>
     <summary type="html">&lt;p&gt;The best enterprise-grade WYSIWYG editor. Fully customizable with countless features and plugins.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>decalage2/oletools</title>
-    <updated>2022-05-31T02:20:39Z</updated>
-    <id>tag:github.com,2022-05-31:/decalage2/oletools</id>
-    <link href="https://github.com/decalage2/oletools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>TP-Lab/tokens</title>
-    <updated>2022-05-31T02:20:39Z</updated>
-    <id>tag:github.com,2022-05-31:/TP-Lab/tokens</id>
+    <updated>2022-06-01T02:20:25Z</updated>
+    <id>tag:github.com,2022-06-01:/TP-Lab/tokens</id>
     <link href="https://github.com/TP-Lab/tokens" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Token assets for TokenPocket&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Maradonna90/NewGAN-Manager</title>
-    <updated>2022-05-31T02:20:39Z</updated>
-    <id>tag:github.com,2022-05-31:/Maradonna90/NewGAN-Manager</id>
-    <link href="https://github.com/Maradonna90/NewGAN-Manager" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A tool to generate and manage xml configs for the Newgen Facepack.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>couchbase/product-texts</title>
+    <updated>2022-06-01T02:20:25Z</updated>
+    <id>tag:github.com,2022-06-01:/couchbase/product-texts</id>
+    <link href="https://github.com/couchbase/product-texts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for product-specific documents (e.g. READMEs, license files, etc.)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mcxiaoke/mqtt</title>
+    <updated>2022-06-01T02:20:25Z</updated>
+    <id>tag:github.com,2022-06-01:/mcxiaoke/mqtt</id>
+    <link href="https://github.com/mcxiaoke/mqtt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MQTT协议3.1.1中文翻译版，IoT，物联网&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

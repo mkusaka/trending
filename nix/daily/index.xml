@@ -1,49 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T01:47:37Z</updated>
+  <updated>2022-06-01T01:48:15Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nix-community/home-manager</title>
-    <updated>2022-05-31T01:47:37Z</updated>
-    <id>tag:github.com,2022-05-31:/nix-community/home-manager</id>
-    <link href="https://github.com/nix-community/home-manager" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Manage a user environment using Nix [maintainer=@rycee]&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>NixOS/nixpkgs</title>
-    <updated>2022-05-31T01:47:37Z</updated>
-    <id>tag:github.com,2022-05-31:/NixOS/nixpkgs</id>
+    <updated>2022-06-01T01:48:15Z</updated>
+    <id>tag:github.com,2022-06-01:/NixOS/nixpkgs</id>
     <link href="https://github.com/NixOS/nixpkgs" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Nix Packages collection&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
+    <title>nix-community/home-manager</title>
+    <updated>2022-06-01T01:48:15Z</updated>
+    <id>tag:github.com,2022-06-01:/nix-community/home-manager</id>
+    <link href="https://github.com/nix-community/home-manager" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Manage a user environment using Nix [maintainer=@rycee]&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nixosbrasil/climod</title>
+    <updated>2022-06-01T01:48:15Z</updated>
+    <id>tag:github.com,2022-06-01:/nixosbrasil/climod</id>
+    <link href="https://github.com/nixosbrasil/climod" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modular generated command line interfaces using the same technology as the NixOS module system.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>cardano-foundation/cardano-token-registry</title>
-    <updated>2022-05-31T01:47:37Z</updated>
-    <id>tag:github.com,2022-05-31:/cardano-foundation/cardano-token-registry</id>
+    <updated>2022-06-01T01:48:15Z</updated>
+    <id>tag:github.com,2022-06-01:/cardano-foundation/cardano-token-registry</id>
     <link href="https://github.com/cardano-foundation/cardano-token-registry" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nix-community/emacs-overlay</title>
-    <updated>2022-05-31T01:47:37Z</updated>
-    <id>tag:github.com,2022-05-31:/nix-community/emacs-overlay</id>
-    <link href="https://github.com/nix-community/emacs-overlay" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bleeding edge emacs overlay [maintainer=@adisbladis]&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>numtide/flake-utils</title>
-    <updated>2022-05-31T01:47:37Z</updated>
-    <id>tag:github.com,2022-05-31:/numtide/flake-utils</id>
-    <link href="https://github.com/numtide/flake-utils" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pure Nix flake utility functions&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>LnL7/nix-darwin</title>
-    <updated>2022-05-31T01:47:37Z</updated>
-    <id>tag:github.com,2022-05-31:/LnL7/nix-darwin</id>
-    <link href="https://github.com/LnL7/nix-darwin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;nix modules for darwin&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

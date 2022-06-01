@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T02:49:13Z</updated>
+  <updated>2022-06-01T02:47:31Z</updated>
   <subtitle>Monthly Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
+    <title>confluentinc/securing-kafka-blog</title>
+    <updated>2022-06-01T02:47:31Z</updated>
+    <id>tag:github.com,2022-06-01:/confluentinc/securing-kafka-blog</id>
+    <link href="https://github.com/confluentinc/securing-kafka-blog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Secure Kafka cluster (in a VM) for development and testing&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>doodles526/Atom-Group</title>
-    <updated>2022-05-31T02:49:13Z</updated>
-    <id>tag:github.com,2022-05-31:/doodles526/Atom-Group</id>
+    <updated>2022-06-01T02:47:31Z</updated>
+    <id>tag:github.com,2022-06-01:/doodles526/Atom-Group</id>
     <link href="https://github.com/doodles526/Atom-Group" rel="alternate"></link>
     <summary type="html">&lt;p&gt;ILC 2012 Cluster + openMPI project&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>elastic/puppet-logstashforwarder</title>
-    <updated>2022-05-31T02:49:13Z</updated>
-    <id>tag:github.com,2022-05-31:/elastic/puppet-logstashforwarder</id>
-    <link href="https://github.com/elastic/puppet-logstashforwarder" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Puppet module for Logstash Forwarder&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
     <title>knowshan/puppetserver-manifest-tree-submodules</title>
-    <updated>2022-05-31T02:49:13Z</updated>
-    <id>tag:github.com,2022-05-31:/knowshan/puppetserver-manifest-tree-submodules</id>
+    <updated>2022-06-01T02:47:31Z</updated>
+    <id>tag:github.com,2022-06-01:/knowshan/puppetserver-manifest-tree-submodules</id>
     <link href="https://github.com/knowshan/puppetserver-manifest-tree-submodules" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Puppet server manifest tree&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>octoenergy/puppet-octo_nginx</title>
-    <updated>2022-05-31T02:49:13Z</updated>
-    <id>tag:github.com,2022-05-31:/octoenergy/puppet-octo_nginx</id>
+    <updated>2022-06-01T02:47:31Z</updated>
+    <id>tag:github.com,2022-06-01:/octoenergy/puppet-octo_nginx</id>
     <link href="https://github.com/octoenergy/puppet-octo_nginx" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Nginx puppet module&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

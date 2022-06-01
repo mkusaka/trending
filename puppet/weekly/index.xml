@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-05-31T02:19:21Z</updated>
+  <updated>2022-06-01T02:19:13Z</updated>
   <subtitle>Weekly Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>doodles526/Atom-Group</title>
-    <updated>2022-05-31T02:19:21Z</updated>
-    <id>tag:github.com,2022-05-31:/doodles526/Atom-Group</id>
+    <updated>2022-06-01T02:19:13Z</updated>
+    <id>tag:github.com,2022-06-01:/doodles526/Atom-Group</id>
     <link href="https://github.com/doodles526/Atom-Group" rel="alternate"></link>
     <summary type="html">&lt;p&gt;ILC 2012 Cluster + openMPI project&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
     <title>confluentinc/securing-kafka-blog</title>
-    <updated>2022-05-31T02:19:21Z</updated>
-    <id>tag:github.com,2022-05-31:/confluentinc/securing-kafka-blog</id>
+    <updated>2022-06-01T02:19:13Z</updated>
+    <id>tag:github.com,2022-06-01:/confluentinc/securing-kafka-blog</id>
     <link href="https://github.com/confluentinc/securing-kafka-blog" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Secure Kafka cluster (in a VM) for development and testing&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mofr/CannonWarrior</title>
-    <updated>2022-05-31T02:19:21Z</updated>
-    <id>tag:github.com,2022-05-31:/mofr/CannonWarrior</id>
-    <link href="https://github.com/mofr/CannonWarrior" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>elastic/puppet-logstashforwarder</title>
+    <updated>2022-06-01T02:19:13Z</updated>
+    <id>tag:github.com,2022-06-01:/elastic/puppet-logstashforwarder</id>
+    <link href="https://github.com/elastic/puppet-logstashforwarder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Puppet module for Logstash Forwarder&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
