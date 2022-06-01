@@ -99,3 +99,5 @@ Temporary Items
 !.yarn/plugins
 !.yarn/sdks
 !.yarn/versions
+
+out/

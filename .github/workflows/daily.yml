@@ -21,6 +21,12 @@ jobs:
           node-version: current
       - run: |
           go run main.go
+          git add datum.json
+          git config user.email "github-actions@github.com"
+          git config user.name "github-actions"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/"${GITHUB_REPOSITORY}".git
+          git commit -m "update"  
+          git push origin HEAD
       - run: |
           git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
           yarn install

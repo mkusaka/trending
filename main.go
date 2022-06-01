@@ -85,17 +85,18 @@ func run() error {
 			}
 
 			for _, item := range parsedFeed.Items {
-				if has(r, item.Link) {
-					fmt.Printf("link: %s already posted\n", item.Link)
-					continue
-				}
-
-				r = append(r, Recent{
+				rr := Recent{
 					Logged:   *parsedFeed.PublishedParsed,
 					Uri:      item.Link,
 					Period:   periodType,
 					Language: languageType,
-				})
+				}
+				if has(r, rr) {
+					fmt.Printf("link: %s already posted\n", item.Link)
+					continue
+				}
+
+				r = append(r, rr)
 				feed.Items = append(feed.Items, &feeds.Item{
 					Title: item.Title,
 					Link: &feeds.Link{
@@ -129,7 +130,7 @@ func run() error {
 		}
 	}
 
-	marshal, err := json.Marshal(r)
+	marshal, err := json.MarshalIndent(r, "", "  ")
 	if err != nil {
 		return errors.WithStack(err)
 	}
@@ -142,9 +143,9 @@ func run() error {
 	return nil
 }
 
-func has(rs []Recent, uri string) bool {
+func has(rs []Recent, rr Recent) bool {
 	for _, r := range rs {
-		if r.Uri == uri {
+		if r.Uri == rr.Uri && r.Period == rr.Period && r.Language == rr.Language {
 			return true
 		}
 	}
