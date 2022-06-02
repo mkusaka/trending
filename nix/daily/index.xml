@@ -1,35 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T01:48:15Z</updated>
+  <updated>2022-06-02T01:49:07Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>NixOS/nixpkgs</title>
-    <updated>2022-06-01T01:48:15Z</updated>
-    <id>tag:github.com,2022-06-01:/NixOS/nixpkgs</id>
-    <link href="https://github.com/NixOS/nixpkgs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nix Packages collection&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Kpler/python-katas</title>
+    <updated>2022-06-02T01:49:07Z</updated>
+    <id>tag:github.com,2022-06-02:/Kpler/python-katas</id>
+    <link href="https://github.com/Kpler/python-katas" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a project for employees of Kpler to train while doing katas&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nix-community/home-manager</title>
-    <updated>2022-06-01T01:48:15Z</updated>
-    <id>tag:github.com,2022-06-01:/nix-community/home-manager</id>
-    <link href="https://github.com/nix-community/home-manager" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Manage a user environment using Nix [maintainer=@rycee]&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mitchellh/nixos-config</title>
+    <updated>2022-06-02T01:49:07Z</updated>
+    <id>tag:github.com,2022-06-02:/mitchellh/nixos-config</id>
+    <link href="https://github.com/mitchellh/nixos-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My NixOS configurations.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nixosbrasil/climod</title>
-    <updated>2022-06-01T01:48:15Z</updated>
-    <id>tag:github.com,2022-06-01:/nixosbrasil/climod</id>
-    <link href="https://github.com/nixosbrasil/climod" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Modular generated command line interfaces using the same technology as the NixOS module system.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Infinidoge/nix-minecraft</title>
+    <updated>2022-06-02T01:49:07Z</updated>
+    <id>tag:github.com,2022-06-02:/Infinidoge/nix-minecraft</id>
+    <link href="https://github.com/Infinidoge/nix-minecraft" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An attempt to better support Minecraft-related content for the Nix ecosystem&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cardano-foundation/cardano-token-registry</title>
-    <updated>2022-06-01T01:48:15Z</updated>
-    <id>tag:github.com,2022-06-01:/cardano-foundation/cardano-token-registry</id>
-    <link href="https://github.com/cardano-foundation/cardano-token-registry" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>reflex-frp/reflex-platform</title>
+    <updated>2022-06-02T01:49:07Z</updated>
+    <id>tag:github.com,2022-06-02:/reflex-frp/reflex-platform</id>
+    <link href="https://github.com/reflex-frp/reflex-platform" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated package set and set of tools that let you build Haskell packages so they can run on a variety of platforms. reflex-platform is built on top of the nix package manager.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>LnL7/nix-darwin</title>
+    <updated>2022-06-02T01:49:07Z</updated>
+    <id>tag:github.com,2022-06-02:/LnL7/nix-darwin</id>
+    <link href="https://github.com/LnL7/nix-darwin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;nix modules for darwin&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,182 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:22:19Z</updated>
+  <updated>2022-06-02T02:24:36Z</updated>
   <subtitle>Weekly Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>j-brant/RBFormatter</title>
-    <updated>2022-06-01T02:22:19Z</updated>
-    <id>tag:github.com,2022-06-01:/j-brant/RBFormatter</id>
-    <link href="https://github.com/j-brant/RBFormatter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;the RBConfigurableFormatter from the Refactoring Browser&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>feenkcom/gtoolkit-examples</title>
+    <updated>2022-06-02T02:24:36Z</updated>
+    <id>tag:github.com,2022-06-02:/feenkcom/gtoolkit-examples</id>
+    <link href="https://github.com/feenkcom/gtoolkit-examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The engine for example-driven development in Pharo.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>juliendelplanque/Python3Generator</title>
-    <updated>2022-06-01T02:22:19Z</updated>
-    <id>tag:github.com,2022-06-01:/juliendelplanque/Python3Generator</id>
-    <link href="https://github.com/juliendelplanque/Python3Generator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A toolkit to generate Python 3 source code from Pharo.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>feenkcom/gt4gemstone</title>
+    <updated>2022-06-02T02:24:36Z</updated>
+    <id>tag:github.com,2022-06-02:/feenkcom/gt4gemstone</id>
+    <link href="https://github.com/feenkcom/gt4gemstone" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Gtoolkit interface to GemStone&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kursjan/petitparser2</title>
-    <updated>2022-06-01T02:22:19Z</updated>
-    <id>tag:github.com,2022-06-01:/kursjan/petitparser2</id>
-    <link href="https://github.com/kursjan/petitparser2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A high-performance top-down parser&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>feenkcom/gt4smacc</title>
+    <updated>2022-06-02T02:24:36Z</updated>
+    <id>tag:github.com,2022-06-02:/feenkcom/gt4smacc</id>
+    <link href="https://github.com/feenkcom/gt4smacc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The development environment for SmaCC based on the Glamorous Toolkit.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>feenkcom/gtoolkit-chrome</title>
-    <updated>2022-06-01T02:22:19Z</updated>
-    <id>tag:github.com,2022-06-01:/feenkcom/gtoolkit-chrome</id>
-    <link href="https://github.com/feenkcom/gtoolkit-chrome" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gtoolkit specific functionality for Chrome Dev Tools access&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/JavaScriptGenerator</title>
-    <updated>2022-06-01T02:22:19Z</updated>
-    <id>tag:github.com,2022-06-01:/feenkcom/JavaScriptGenerator</id>
-    <link href="https://github.com/feenkcom/JavaScriptGenerator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A toolkit to generate JavaScript source code from Pharo.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pharo-contributions/CollectionExtensions</title>
-    <updated>2022-06-01T02:22:19Z</updated>
-    <id>tag:github.com,2022-06-01:/pharo-contributions/CollectionExtensions</id>
-    <link href="https://github.com/pharo-contributions/CollectionExtensions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;I am a project containing extensions of the Pharo collection API.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/gtoolkit-utility</title>
-    <updated>2022-06-01T02:22:19Z</updated>
-    <id>tag:github.com,2022-06-01:/feenkcom/gtoolkit-utility</id>
-    <link href="https://github.com/feenkcom/gtoolkit-utility" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pharo integrations&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/xdoc</title>
-    <updated>2022-06-01T02:22:19Z</updated>
-    <id>tag:github.com,2022-06-01:/feenkcom/xdoc</id>
-    <link href="https://github.com/feenkcom/xdoc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The executable document engine.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/XPath</title>
-    <updated>2022-06-01T02:22:19Z</updated>
-    <id>tag:github.com,2022-06-01:/feenkcom/XPath</id>
-    <link href="https://github.com/feenkcom/XPath" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/XMLParser</title>
-    <updated>2022-06-01T02:22:19Z</updated>
-    <id>tag:github.com,2022-06-01:/feenkcom/XMLParser</id>
-    <link href="https://github.com/feenkcom/XMLParser" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/pharo-debugadapterprotocol</title>
-    <updated>2022-06-01T02:22:19Z</updated>
-    <id>tag:github.com,2022-06-01:/feenkcom/pharo-debugadapterprotocol</id>
-    <link href="https://github.com/feenkcom/pharo-debugadapterprotocol" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Debug Adapter Protocol client for Pharo&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/gtoolkit-debugadapterprotocol</title>
-    <updated>2022-06-01T02:22:19Z</updated>
-    <id>tag:github.com,2022-06-01:/feenkcom/gtoolkit-debugadapterprotocol</id>
-    <link href="https://github.com/feenkcom/gtoolkit-debugadapterprotocol" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gtoolkit specific functionality for Debug Adapter Protocol access&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/gtoolkit-constrainer</title>
-    <updated>2022-06-01T02:22:19Z</updated>
-    <id>tag:github.com,2022-06-01:/feenkcom/gtoolkit-constrainer</id>
-    <link href="https://github.com/feenkcom/gtoolkit-constrainer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Apply constraints on Pharo object models and reveal rule breakers.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/XMLWriter</title>
-    <updated>2022-06-01T02:22:19Z</updated>
-    <id>tag:github.com,2022-06-01:/feenkcom/XMLWriter</id>
-    <link href="https://github.com/feenkcom/XMLWriter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/gt4ruby</title>
-    <updated>2022-06-01T02:22:19Z</updated>
-    <id>tag:github.com,2022-06-01:/feenkcom/gt4ruby</id>
-    <link href="https://github.com/feenkcom/gt4ruby" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/lepiter</title>
-    <updated>2022-06-01T02:22:19Z</updated>
-    <id>tag:github.com,2022-06-01:/feenkcom/lepiter</id>
-    <link href="https://github.com/feenkcom/lepiter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/gt4git</title>
-    <updated>2022-06-01T02:22:19Z</updated>
-    <id>tag:github.com,2022-06-01:/feenkcom/gt4git</id>
-    <link href="https://github.com/feenkcom/gt4git" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The interface to work with Git projects from within Glamorous Toolkit.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/famix3</title>
-    <updated>2022-06-01T02:22:19Z</updated>
-    <id>tag:github.com,2022-06-01:/feenkcom/famix3</id>
-    <link href="https://github.com/feenkcom/famix3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a port of the FAMIX 3 meta-model and of the depending projects.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/JSLink</title>
-    <updated>2022-06-01T02:22:19Z</updated>
-    <id>tag:github.com,2022-06-01:/feenkcom/JSLink</id>
-    <link href="https://github.com/feenkcom/JSLink" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A bridge between Pharo and JavaScript&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/gt4json</title>
-    <updated>2022-06-01T02:22:19Z</updated>
-    <id>tag:github.com,2022-06-01:/feenkcom/gt4json</id>
-    <link href="https://github.com/feenkcom/gt4json" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Glamorous JSON Toolkit&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>svenvc/ztimestamp</title>
-    <updated>2022-06-01T02:22:19Z</updated>
-    <id>tag:github.com,2022-06-01:/svenvc/ztimestamp</id>
-    <link href="https://github.com/svenvc/ztimestamp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;I am ZTimestamp, a Magnitude, a point in time, an alternative to DateAndTime and TimeStamp&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/gt4famix3</title>
-    <updated>2022-06-01T02:22:19Z</updated>
-    <id>tag:github.com,2022-06-01:/feenkcom/gt4famix3</id>
-    <link href="https://github.com/feenkcom/gt4famix3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository holds the Glamorous Toolkit extensions for Famix3.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/gtoolkit-remote-javascript</title>
-    <updated>2022-06-01T02:22:19Z</updated>
-    <id>tag:github.com,2022-06-01:/feenkcom/gtoolkit-remote-javascript</id>
-    <link href="https://github.com/feenkcom/gtoolkit-remote-javascript" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gtoolkit specific functionality for JavaScript integration&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/gt4changes</title>
-    <updated>2022-06-01T02:22:19Z</updated>
-    <id>tag:github.com,2022-06-01:/feenkcom/gt4changes</id>
-    <link href="https://github.com/feenkcom/gt4changes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The interface to work with changes from within Glamorous Toolkit.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/gt4petitparser2</title>
-    <updated>2022-06-01T02:22:19Z</updated>
-    <id>tag:github.com,2022-06-01:/feenkcom/gt4petitparser2</id>
-    <link href="https://github.com/feenkcom/gt4petitparser2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Glamorous Toolkit for PetitParser2&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>feenkcom/gtoolkit-remote</title>
+    <updated>2022-06-02T02:24:36Z</updated>
+    <id>tag:github.com,2022-06-02:/feenkcom/gtoolkit-remote</id>
+    <link href="https://github.com/feenkcom/gtoolkit-remote" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The engine to work with remote systems (like remote a Pharo image).&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

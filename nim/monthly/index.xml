@@ -1,49 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:44:31Z</updated>
+  <updated>2022-06-02T02:47:02Z</updated>
   <subtitle>Monthly Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nim-lang/Nim</title>
-    <updated>2022-06-01T02:44:31Z</updated>
-    <id>tag:github.com,2022-06-01:/nim-lang/Nim</id>
-    <link href="https://github.com/nim-lang/Nim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Anuken/animdustry</title>
-    <updated>2022-06-01T02:44:31Z</updated>
-    <id>tag:github.com,2022-06-01:/Anuken/animdustry</id>
-    <link href="https://github.com/Anuken/animdustry" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;the anime gacha rhythm game&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>d4rckh/nimc2</title>
-    <updated>2022-06-01T02:44:31Z</updated>
-    <id>tag:github.com,2022-06-01:/d4rckh/nimc2</id>
-    <link href="https://github.com/d4rckh/nimc2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a c2 fully written in nim&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>codic12/worm</title>
-    <updated>2022-06-01T02:44:31Z</updated>
-    <id>tag:github.com,2022-06-01:/codic12/worm</id>
-    <link href="https://github.com/codic12/worm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A dynamic, tag-based window manager written in Nim&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nim-lang/packages</title>
-    <updated>2022-06-01T02:44:31Z</updated>
-    <id>tag:github.com,2022-06-01:/nim-lang/packages</id>
-    <link href="https://github.com/nim-lang/packages" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;List of packages for Nimble&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>zedeus/nitter</title>
-    <updated>2022-06-01T02:44:31Z</updated>
-    <id>tag:github.com,2022-06-01:/zedeus/nitter</id>
-    <link href="https://github.com/zedeus/nitter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Alternative Twitter front-end&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

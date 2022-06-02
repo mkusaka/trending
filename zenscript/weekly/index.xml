@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ZenScript Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:27:03Z</updated>
+  <updated>2022-06-02T02:29:13Z</updated>
   <subtitle>Weekly Trending of ZenScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mahjerion/Craft-to-Exile-Dissonance</title>
-    <updated>2022-06-01T02:27:03Z</updated>
-    <id>tag:github.com,2022-06-01:/mahjerion/Craft-to-Exile-Dissonance</id>
-    <link href="https://github.com/mahjerion/Craft-to-Exile-Dissonance" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Minecraft modpack that aims to turn MC into an ARPG similar to Path of Exile and Diablo II. Focused progression and exploration is the main goal of the modpack.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AsciiDoc Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:02:46Z</updated>
+  <updated>2022-06-02T02:04:22Z</updated>
   <subtitle>Weekly Trending of AsciiDoc in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>lnbook/lnbook</title>
-    <updated>2022-06-01T02:02:46Z</updated>
-    <id>tag:github.com,2022-06-01:/lnbook/lnbook</id>
-    <link href="https://github.com/lnbook/lnbook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mastering the Lightning Network (LN)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bitcoinbook/bitcoinbook</title>
-    <updated>2022-06-01T02:02:46Z</updated>
-    <id>tag:github.com,2022-06-01:/bitcoinbook/bitcoinbook</id>
-    <link href="https://github.com/bitcoinbook/bitcoinbook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mastering Bitcoin 2nd Edition - Programming the Open Blockchain&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

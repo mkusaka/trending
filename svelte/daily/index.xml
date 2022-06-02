@@ -1,119 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T01:55:03Z</updated>
+  <updated>2022-06-02T01:56:30Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>coollabsio/coolify</title>
-    <updated>2022-06-01T01:55:03Z</updated>
-    <id>tag:github.com,2022-06-01:/coollabsio/coolify</id>
-    <link href="https://github.com/coollabsio/coolify" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An open-source &amp; self-hostable Heroku / Netlify alternative.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bestguy/sveltestrap</title>
+    <updated>2022-06-02T01:56:30Z</updated>
+    <id>tag:github.com,2022-06-02:/bestguy/sveltestrap</id>
+    <link href="https://github.com/bestguy/sveltestrap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bootstrap 4 &amp; 5 components for Svelte&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sveltejs/realworld</title>
-    <updated>2022-06-01T01:55:03Z</updated>
-    <id>tag:github.com,2022-06-01:/sveltejs/realworld</id>
-    <link href="https://github.com/sveltejs/realworld" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SvelteKit implementation of the RealWorld app&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mermaid-js/mermaid-live-editor</title>
+    <updated>2022-06-02T01:56:30Z</updated>
+    <id>tag:github.com,2022-06-02:/mermaid-js/mermaid-live-editor</id>
+    <link href="https://github.com/mermaid-js/mermaid-live-editor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ForgQi/biliup-app</title>
-    <updated>2022-06-01T01:55:03Z</updated>
-    <id>tag:github.com,2022-06-01:/ForgQi/biliup-app</id>
-    <link href="https://github.com/ForgQi/biliup-app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;b站全平台投稿客户端，支持多p投稿，稿件编辑&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pstanoev/simple-svelte-autocomplete</title>
+    <updated>2022-06-02T01:56:30Z</updated>
+    <id>tag:github.com,2022-06-02:/pstanoev/simple-svelte-autocomplete</id>
+    <link href="https://github.com/pstanoev/simple-svelte-autocomplete" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple Autocomplete / typeahead component for Svelte&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>PuruVJ/macos-web</title>
-    <updated>2022-06-01T01:55:03Z</updated>
-    <id>tag:github.com,2022-06-01:/PuruVJ/macos-web</id>
-    <link href="https://github.com/PuruVJ/macos-web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>themesberg/flowbite-svelte</title>
+    <updated>2022-06-02T01:56:30Z</updated>
+    <id>tag:github.com,2022-06-02:/themesberg/flowbite-svelte</id>
+    <link href="https://github.com/themesberg/flowbite-svelte" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official Svelte components built for Flowbite and Tailwind CSS&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>fathym-it/arcade-recipe</title>
-    <updated>2022-06-01T01:55:03Z</updated>
-    <id>tag:github.com,2022-06-01:/fathym-it/arcade-recipe</id>
-    <link href="https://github.com/fathym-it/arcade-recipe" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;the recipe for the Fathym arcade&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>saadeghi/daisyui</title>
-    <updated>2022-06-01T01:55:03Z</updated>
-    <id>tag:github.com,2022-06-01:/saadeghi/daisyui</id>
-    <link href="https://github.com/saadeghi/daisyui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>v1ack/v1ack.github.io</title>
-    <updated>2022-06-01T01:55:03Z</updated>
-    <id>tag:github.com,2022-06-01:/v1ack/v1ack.github.io</id>
-    <link href="https://github.com/v1ack/v1ack.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;vlack&#39;s personal site&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>snuffyDev/Beatbump</title>
-    <updated>2022-06-01T01:55:03Z</updated>
-    <id>tag:github.com,2022-06-01:/snuffyDev/Beatbump</id>
-    <link href="https://github.com/snuffyDev/Beatbump" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hperrin/svelte-material-ui</title>
-    <updated>2022-06-01T01:55:03Z</updated>
-    <id>tag:github.com,2022-06-01:/hperrin/svelte-material-ui</id>
-    <link href="https://github.com/hperrin/svelte-material-ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Svelte Material UI Components&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ThaUnknown/miru</title>
-    <updated>2022-06-01T01:55:03Z</updated>
-    <id>tag:github.com,2022-06-01:/ThaUnknown/miru</id>
-    <link href="https://github.com/ThaUnknown/miru" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rgossiaux/svelte-headlessui</title>
-    <updated>2022-06-01T01:55:03Z</updated>
-    <id>tag:github.com,2022-06-01:/rgossiaux/svelte-headlessui</id>
-    <link href="https://github.com/rgossiaux/svelte-headlessui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Unofficial Svelte port of the Headless UI component library&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>g-plane/swc-css-playground</title>
-    <updated>2022-06-01T01:55:03Z</updated>
-    <id>tag:github.com,2022-06-01:/g-plane/swc-css-playground</id>
-    <link href="https://github.com/g-plane/swc-css-playground" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Playground for SWC CSS.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>StevenWeathers/thunderdome-planning-poker</title>
-    <updated>2022-06-01T01:55:03Z</updated>
-    <id>tag:github.com,2022-06-01:/StevenWeathers/thunderdome-planning-poker</id>
-    <link href="https://github.com/StevenWeathers/thunderdome-planning-poker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⚡ Thunderdome is an open source agile planning poker tool in the theme of Battling for points&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bradtraversy/svelte-feedback-app</title>
-    <updated>2022-06-01T01:55:03Z</updated>
-    <id>tag:github.com,2022-06-01:/bradtraversy/svelte-feedback-app</id>
-    <link href="https://github.com/bradtraversy/svelte-feedback-app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Feedback app built with Svelte&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>carbon-design-system/carbon-components-svelte</title>
-    <updated>2022-06-01T01:55:03Z</updated>
-    <id>tag:github.com,2022-06-01:/carbon-design-system/carbon-components-svelte</id>
-    <link href="https://github.com/carbon-design-system/carbon-components-svelte" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Svelte implementation of the Carbon Design System&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dbgate/dbgate</title>
-    <updated>2022-06-01T01:55:03Z</updated>
-    <id>tag:github.com,2022-06-01:/dbgate/dbgate</id>
-    <link href="https://github.com/dbgate/dbgate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nmelhado/league-page</title>
+    <updated>2022-06-02T01:56:30Z</updated>
+    <id>tag:github.com,2022-06-02:/nmelhado/league-page</id>
+    <link href="https://github.com/nmelhado/league-page" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Create a custom league page for your Sleeper fantasy football league!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

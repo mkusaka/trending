@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoHotkey Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T01:35:06Z</updated>
+  <updated>2022-06-02T01:35:35Z</updated>
   <subtitle>Daily Trending of AutoHotkey in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>preco21/destiny-macros</title>
-    <updated>2022-06-01T01:35:06Z</updated>
-    <id>tag:github.com,2022-06-01:/preco21/destiny-macros</id>
-    <link href="https://github.com/preco21/destiny-macros" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of Destiny 2 macros built with AutoHotKey&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>fuhsjr00/bug.n</title>
-    <updated>2022-06-01T01:35:06Z</updated>
-    <id>tag:github.com,2022-06-01:/fuhsjr00/bug.n</id>
-    <link href="https://github.com/fuhsjr00/bug.n" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tiling Window Manager for Windows&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hui-Zz/RunAny</title>
+    <updated>2022-06-02T01:35:35Z</updated>
+    <id>tag:github.com,2022-06-02:/hui-Zz/RunAny</id>
+    <link href="https://github.com/hui-Zz/RunAny" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;【RunAny】一劳永逸的快速启动软件，拥有三键启动、一键直达、规则启动、批量搜索、全局热键、短语输出、热键映射、脚本插件等功能&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

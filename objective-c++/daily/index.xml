@@ -1,56 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T01:48:37Z</updated>
+  <updated>2022-06-02T01:49:29Z</updated>
   <subtitle>Daily Trending of Objective-C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>michaeleisel/ZippyJSONCFamily</title>
-    <updated>2022-06-01T01:48:37Z</updated>
-    <id>tag:github.com,2022-06-01:/michaeleisel/ZippyJSONCFamily</id>
-    <link href="https://github.com/michaeleisel/ZippyJSONCFamily" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;C Family dependencies for ZippyJSON - Do not use directly!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>TextureGroup/Texture</title>
-    <updated>2022-06-01T01:48:37Z</updated>
-    <id>tag:github.com,2022-06-01:/TextureGroup/Texture</id>
-    <link href="https://github.com/TextureGroup/Texture" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Smooth asynchronous user interfaces for iOS apps.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pivotal-legacy/PivotalCoreKit</title>
-    <updated>2022-06-01T01:48:37Z</updated>
-    <id>tag:github.com,2022-06-01:/pivotal-legacy/PivotalCoreKit</id>
-    <link href="https://github.com/pivotal-legacy/PivotalCoreKit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Shared library and test code for iOS and macOS projects&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pocketsvg/PocketSVG</title>
-    <updated>2022-06-01T01:48:37Z</updated>
-    <id>tag:github.com,2022-06-01:/pocketsvg/PocketSVG</id>
-    <link href="https://github.com/pocketsvg/PocketSVG" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Easily convert your SVG files into CGPaths, CAShapeLayers, and UIBezierPaths&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>gree/unity-webview</title>
-    <updated>2022-06-01T01:48:37Z</updated>
-    <id>tag:github.com,2022-06-01:/gree/unity-webview</id>
-    <link href="https://github.com/gree/unity-webview" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>phonegap/phonegap-plugin-barcodescanner</title>
-    <updated>2022-06-01T01:48:37Z</updated>
-    <id>tag:github.com,2022-06-01:/phonegap/phonegap-plugin-barcodescanner</id>
-    <link href="https://github.com/phonegap/phonegap-plugin-barcodescanner" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;cross-platform BarcodeScanner for Cordova / PhoneGap&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>facebookarchive/pop</title>
-    <updated>2022-06-01T01:48:37Z</updated>
-    <id>tag:github.com,2022-06-01:/facebookarchive/pop</id>
-    <link href="https://github.com/facebookarchive/pop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An extensible iOS and OS X animation library, useful for physics-based interactions.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cedarbdd/cedar</title>
+    <updated>2022-06-02T01:49:29Z</updated>
+    <id>tag:github.com,2022-06-02:/cedarbdd/cedar</id>
+    <link href="https://github.com/cedarbdd/cedar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;BDD-style testing using Objective-C&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

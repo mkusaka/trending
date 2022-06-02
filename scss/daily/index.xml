@@ -1,182 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T01:53:25Z</updated>
+  <updated>2022-06-02T01:54:31Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Keldos-Li/typora-latex-theme</title>
-    <updated>2022-06-01T01:53:25Z</updated>
-    <id>tag:github.com,2022-06-01:/Keldos-Li/typora-latex-theme</id>
-    <link href="https://github.com/Keldos-Li/typora-latex-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>just-the-docs/just-the-docs</title>
+    <updated>2022-06-02T01:54:31Z</updated>
+    <id>tag:github.com,2022-06-02:/just-the-docs/just-the-docs</id>
+    <link href="https://github.com/just-the-docs/just-the-docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A modern, high customizable, responsive Jekyll theme for documention with built-in search.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Ileriayo/markdown-badges</title>
-    <updated>2022-06-01T01:53:25Z</updated>
-    <id>tag:github.com,2022-06-01:/Ileriayo/markdown-badges</id>
-    <link href="https://github.com/Ileriayo/markdown-badges" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Badges for your personal developer branding, profile, and projects.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sivan/heti</title>
+    <updated>2022-06-02T01:54:31Z</updated>
+    <id>tag:github.com,2022-06-02:/sivan/heti</id>
+    <link href="https://github.com/sivan/heti" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>maildev/maildev</title>
-    <updated>2022-06-01T01:53:25Z</updated>
-    <id>tag:github.com,2022-06-01:/maildev/maildev</id>
-    <link href="https://github.com/maildev/maildev" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📫 SMTP Server + Web Interface for viewing and testing emails during development.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>luizdepra/hugo-coder</title>
+    <updated>2022-06-02T01:54:31Z</updated>
+    <id>tag:github.com,2022-06-02:/luizdepra/hugo-coder</id>
+    <link href="https://github.com/luizdepra/hugo-coder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A minimalist blog theme for hugo.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>slatedocs/slate</title>
-    <updated>2022-06-01T01:53:25Z</updated>
-    <id>tag:github.com,2022-06-01:/slatedocs/slate</id>
-    <link href="https://github.com/slatedocs/slate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Beautiful static documentation for your API&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>twbs/bootstrap-sass</title>
+    <updated>2022-06-02T01:54:31Z</updated>
+    <id>tag:github.com,2022-06-02:/twbs/bootstrap-sass</id>
+    <link href="https://github.com/twbs/bootstrap-sass" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official Sass port of Bootstrap 2 and 3.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>keyvanakbary/learning-notes</title>
-    <updated>2022-06-01T01:53:25Z</updated>
-    <id>tag:github.com,2022-06-01:/keyvanakbary/learning-notes</id>
-    <link href="https://github.com/keyvanakbary/learning-notes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Notes on books I read, talks I watch, articles I study, and papers I love&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Prince-1501/Complete-DSA-Preparation</title>
+    <updated>2022-06-02T01:54:31Z</updated>
+    <id>tag:github.com,2022-06-02:/Prince-1501/Complete-DSA-Preparation</id>
+    <link href="https://github.com/Prince-1501/Complete-DSA-Preparation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is A complete DSA preparation Course. A DSA self-paced course for ultimate Interview and Placement Preparation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>zabbix/community-templates</title>
-    <updated>2022-06-01T01:53:25Z</updated>
-    <id>tag:github.com,2022-06-01:/zabbix/community-templates</id>
-    <link href="https://github.com/zabbix/community-templates" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Zabbix Community Templates repository&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vinceliuice/WhiteSur-gtk-theme</title>
+    <updated>2022-06-02T01:54:31Z</updated>
+    <id>tag:github.com,2022-06-02:/vinceliuice/WhiteSur-gtk-theme</id>
+    <link href="https://github.com/vinceliuice/WhiteSur-gtk-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MacOS Big Sur like theme for Gnome desktops&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rstacruz/cheatsheets</title>
-    <updated>2022-06-01T01:53:25Z</updated>
-    <id>tag:github.com,2022-06-01:/rstacruz/cheatsheets</id>
-    <link href="https://github.com/rstacruz/cheatsheets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My cheatsheets&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kitian616/jekyll-TeXt-theme</title>
+    <updated>2022-06-02T01:54:31Z</updated>
+    <id>tag:github.com,2022-06-02:/kitian616/jekyll-TeXt-theme</id>
+    <link href="https://github.com/kitian616/jekyll-TeXt-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>material-components/material-web</title>
-    <updated>2022-06-01T01:53:25Z</updated>
-    <id>tag:github.com,2022-06-01:/material-components/material-web</id>
-    <link href="https://github.com/material-components/material-web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Material Design Web Components&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mesosphere/dcos-docs-site</title>
+    <updated>2022-06-02T01:54:31Z</updated>
+    <id>tag:github.com,2022-06-02:/mesosphere/dcos-docs-site</id>
+    <link href="https://github.com/mesosphere/dcos-docs-site" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;D2iQ Product Documentation and Docs Website Code&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>next-step/infra-subway-deploy</title>
-    <updated>2022-06-01T01:53:25Z</updated>
-    <id>tag:github.com,2022-06-01:/next-step/infra-subway-deploy</id>
-    <link href="https://github.com/next-step/infra-subway-deploy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>RayeRen/acad-homepage.github.io</title>
+    <updated>2022-06-02T01:54:31Z</updated>
+    <id>tag:github.com,2022-06-02:/RayeRen/acad-homepage.github.io</id>
+    <link href="https://github.com/RayeRen/acad-homepage.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AcadHomepage: A Modern and Responsive Academic Personal Homepage&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>GriffinJohnston/uiball-loaders</title>
-    <updated>2022-06-01T01:53:25Z</updated>
-    <id>tag:github.com,2022-06-01:/GriffinJohnston/uiball-loaders</id>
-    <link href="https://github.com/GriffinJohnston/uiball-loaders" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Modern, tree-shakeable loaders &amp; spinners for React. Made with CSS, HTML and a splash of SVG. https://uiball.com/loaders&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mmistakes/jekyll-theme-basically-basic</title>
+    <updated>2022-06-02T01:54:31Z</updated>
+    <id>tag:github.com,2022-06-02:/mmistakes/jekyll-theme-basically-basic</id>
+    <link href="https://github.com/mmistakes/jekyll-theme-basically-basic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Your new Jekyll default theme&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nostalgic-css/NES.css</title>
-    <updated>2022-06-01T01:53:25Z</updated>
-    <id>tag:github.com,2022-06-01:/nostalgic-css/NES.css</id>
-    <link href="https://github.com/nostalgic-css/NES.css" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;NES-style CSS Framework | ファミコン風CSSフレームワーク&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mpa139/allanlab</title>
+    <updated>2022-06-02T01:54:31Z</updated>
+    <id>tag:github.com,2022-06-02:/mpa139/allanlab</id>
+    <link href="https://github.com/mpa139/allanlab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Allan Lab website&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>prometheus/docs</title>
-    <updated>2022-06-01T01:53:25Z</updated>
-    <id>tag:github.com,2022-06-01:/prometheus/docs</id>
-    <link href="https://github.com/prometheus/docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Prometheus documentation: content and static site generator&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>marcojakob/code.makery.ch</title>
-    <updated>2022-06-01T01:53:25Z</updated>
-    <id>tag:github.com,2022-06-01:/marcojakob/code.makery.ch</id>
-    <link href="https://github.com/marcojakob/code.makery.ch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Learning how to code. Tutorials and Blog about programming.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bedimcode/battery-level-indicator</title>
-    <updated>2022-06-01T01:53:25Z</updated>
-    <id>tag:github.com,2022-06-01:/bedimcode/battery-level-indicator</id>
-    <link href="https://github.com/bedimcode/battery-level-indicator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Battery Level Indicator Percentage Using HTML CSS &amp; JavaScript&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>alexgurr/react-coding-challenges</title>
-    <updated>2022-06-01T01:53:25Z</updated>
-    <id>tag:github.com,2022-06-01:/alexgurr/react-coding-challenges</id>
-    <link href="https://github.com/alexgurr/react-coding-challenges" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A series of ReactJS coding challenges with a variety of difficulties.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mmistakes/so-simple-theme</title>
-    <updated>2022-06-01T01:53:25Z</updated>
-    <id>tag:github.com,2022-06-01:/mmistakes/so-simple-theme</id>
-    <link href="https://github.com/mmistakes/so-simple-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple Jekyll theme for words and pictures.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bedimcode/responsive-404-page</title>
-    <updated>2022-06-01T01:53:25Z</updated>
-    <id>tag:github.com,2022-06-01:/bedimcode/responsive-404-page</id>
-    <link href="https://github.com/bedimcode/responsive-404-page" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Responsive 404 Page Website Design Using HTML CSS &amp; JavaScript&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>microsoft/TypeScript-Node-Starter</title>
-    <updated>2022-06-01T01:53:25Z</updated>
-    <id>tag:github.com,2022-06-01:/microsoft/TypeScript-Node-Starter</id>
-    <link href="https://github.com/microsoft/TypeScript-Node-Starter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A reference example for TypeScript and Node with a detailed README describing how to use the two together.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>creativetimofficial/material-dashboard</title>
-    <updated>2022-06-01T01:53:25Z</updated>
-    <id>tag:github.com,2022-06-01:/creativetimofficial/material-dashboard</id>
-    <link href="https://github.com/creativetimofficial/material-dashboard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Material Dashboard - Open Source Bootstrap 5 Material Design Admin&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Esri/calcite-web</title>
-    <updated>2022-06-01T01:53:25Z</updated>
-    <id>tag:github.com,2022-06-01:/Esri/calcite-web</id>
-    <link href="https://github.com/Esri/calcite-web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Authoritative front-end development resources for Calcite design initiative. Includes extendable base components and styles, as well as a modular and efficient framework for ArcGIS properties.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pages-themes/minimal</title>
-    <updated>2022-06-01T01:53:25Z</updated>
-    <id>tag:github.com,2022-06-01:/pages-themes/minimal</id>
-    <link href="https://github.com/pages-themes/minimal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Minimal is a Jekyll theme for GitHub Pages&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>primer/css</title>
-    <updated>2022-06-01T01:53:25Z</updated>
-    <id>tag:github.com,2022-06-01:/primer/css</id>
-    <link href="https://github.com/primer/css" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The CSS design system that powers GitHub&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mdo/code-guide</title>
-    <updated>2022-06-01T01:53:25Z</updated>
-    <id>tag:github.com,2022-06-01:/mdo/code-guide</id>
-    <link href="https://github.com/mdo/code-guide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Standards for developing consistent, flexible, and sustainable HTML and CSS.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jonsuh/hamburgers</title>
-    <updated>2022-06-01T01:53:25Z</updated>
-    <id>tag:github.com,2022-06-01:/jonsuh/hamburgers</id>
-    <link href="https://github.com/jonsuh/hamburgers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tasty CSS-animated Hamburgers&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cruip/open-react-template</title>
-    <updated>2022-06-01T01:53:25Z</updated>
-    <id>tag:github.com,2022-06-01:/cruip/open-react-template</id>
-    <link href="https://github.com/cruip/open-react-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A free React landing page template designed to showcase open source projects, SaaS products, online services, and more. Made by&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>theicfire/makefiletutorial</title>
+    <updated>2022-06-02T01:54:31Z</updated>
+    <id>tag:github.com,2022-06-02:/theicfire/makefiletutorial</id>
+    <link href="https://github.com/theicfire/makefiletutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learn make by example&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

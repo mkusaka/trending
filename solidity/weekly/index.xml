@@ -1,182 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:22:29Z</updated>
+  <updated>2022-06-02T02:24:46Z</updated>
   <subtitle>Weekly Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ProjectOpenSea/seaport</title>
-    <updated>2022-06-01T02:22:29Z</updated>
-    <id>tag:github.com,2022-06-01:/ProjectOpenSea/seaport</id>
-    <link href="https://github.com/ProjectOpenSea/seaport" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Seaport is a marketplace protocol for safely and efficiently buying and selling NFTs.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>HashLips/solidity_smart_contracts</title>
+    <updated>2022-06-02T02:24:46Z</updated>
+    <id>tag:github.com,2022-06-02:/HashLips/solidity_smart_contracts</id>
+    <link href="https://github.com/HashLips/solidity_smart_contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A list of smart contracts coded in solidity&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ethereum/EIPs</title>
-    <updated>2022-06-01T02:22:29Z</updated>
-    <id>tag:github.com,2022-06-01:/ethereum/EIPs</id>
-    <link href="https://github.com/ethereum/EIPs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Ethereum Improvement Proposal repository&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>AmazingAng/WTFSolidity</title>
-    <updated>2022-06-01T02:22:29Z</updated>
-    <id>tag:github.com,2022-06-01:/AmazingAng/WTFSolidity</id>
-    <link href="https://github.com/AmazingAng/WTFSolidity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;我最近在重新学solidity，巩固一下细节，也写一个“Solidity极简入门”，供小白们使用（编程大佬可以另找教程），每周更新1-3讲。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>HashLips/hashlips_nft_contract</title>
-    <updated>2022-06-01T02:22:29Z</updated>
-    <id>tag:github.com,2022-06-01:/HashLips/hashlips_nft_contract</id>
-    <link href="https://github.com/HashLips/hashlips_nft_contract" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple NFT smart contract that works with the rest of the HashLips ecosystem.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Uniswap/v2-periphery</title>
-    <updated>2022-06-01T02:22:29Z</updated>
-    <id>tag:github.com,2022-06-01:/Uniswap/v2-periphery</id>
-    <link href="https://github.com/Uniswap/v2-periphery" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎚 Peripheral smart contracts for interacting with Uniswap V2&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>OpenZeppelin/openzeppelin-contracts-upgradeable</title>
-    <updated>2022-06-01T02:22:29Z</updated>
-    <id>tag:github.com,2022-06-01:/OpenZeppelin/openzeppelin-contracts-upgradeable</id>
-    <link href="https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Raz0r/semgrep-smart-contracts</title>
-    <updated>2022-06-01T02:22:29Z</updated>
-    <id>tag:github.com,2022-06-01:/Raz0r/semgrep-smart-contracts</id>
-    <link href="https://github.com/Raz0r/semgrep-smart-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Semgrep rules for smart contracts based on DeFi exploits&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>spo0ds/Journey-to-become-a-Blockchain-Engineer</title>
-    <updated>2022-06-01T02:22:29Z</updated>
-    <id>tag:github.com,2022-06-01:/spo0ds/Journey-to-become-a-Blockchain-Engineer</id>
-    <link href="https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;I&#39;m sharing everything I&#39;m learning to become a Blockchain Engineer&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>foundry-rs/book</title>
-    <updated>2022-06-01T02:22:29Z</updated>
-    <id>tag:github.com,2022-06-01:/foundry-rs/book</id>
-    <link href="https://github.com/foundry-rs/book" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A book on all things Foundry, available at https://book.getfoundry.sh.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>paco0x/amm-arbitrageur</title>
-    <updated>2022-06-01T02:22:29Z</updated>
-    <id>tag:github.com,2022-06-01:/paco0x/amm-arbitrageur</id>
-    <link href="https://github.com/paco0x/amm-arbitrageur" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An arbitrage bot between Uniswap AMMs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>crytic/echidna</title>
-    <updated>2022-06-01T02:22:29Z</updated>
-    <id>tag:github.com,2022-06-01:/crytic/echidna</id>
-    <link href="https://github.com/crytic/echidna" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ethereum smart contract fuzzer&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>fravoll/solidity-patterns</title>
-    <updated>2022-06-01T02:22:29Z</updated>
-    <id>tag:github.com,2022-06-01:/fravoll/solidity-patterns</id>
-    <link href="https://github.com/fravoll/solidity-patterns" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A compilation of patterns and best practices for the smart contract programming language Solidity&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pancakeswap/pancake-swap-periphery</title>
-    <updated>2022-06-01T02:22:29Z</updated>
-    <id>tag:github.com,2022-06-01:/pancakeswap/pancake-swap-periphery</id>
-    <link href="https://github.com/pancakeswap/pancake-swap-periphery" rel="alternate"></link>
+    <title>code-423n4/2022-05-rubicon</title>
+    <updated>2022-06-02T02:24:46Z</updated>
+    <id>tag:github.com,2022-06-02:/code-423n4/2022-05-rubicon</id>
+    <link href="https://github.com/code-423n4/2022-05-rubicon" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>FraxFinance/frax-solidity</title>
-    <updated>2022-06-01T02:22:29Z</updated>
-    <id>tag:github.com,2022-06-01:/FraxFinance/frax-solidity</id>
-    <link href="https://github.com/FraxFinance/frax-solidity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Solidity implementation of the Frax Protocol&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ethereum/legacytests</title>
-    <updated>2022-06-01T02:22:29Z</updated>
-    <id>tag:github.com,2022-06-01:/ethereum/legacytests</id>
-    <link href="https://github.com/ethereum/legacytests" rel="alternate"></link>
+    <title>w1nt3r-eth/hot-chain-svg</title>
+    <updated>2022-06-02T02:24:46Z</updated>
+    <id>tag:github.com,2022-06-02:/w1nt3r-eth/hot-chain-svg</id>
+    <link href="https://github.com/w1nt3r-eth/hot-chain-svg" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>OlympusDAO/olympus-contracts</title>
-    <updated>2022-06-01T02:22:29Z</updated>
-    <id>tag:github.com,2022-06-01:/OlympusDAO/olympus-contracts</id>
-    <link href="https://github.com/OlympusDAO/olympus-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>safemoonprotocol/Safemoon.sol</title>
+    <updated>2022-06-02T02:24:46Z</updated>
+    <id>tag:github.com,2022-06-02:/safemoonprotocol/Safemoon.sol</id>
+    <link href="https://github.com/safemoonprotocol/Safemoon.sol" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;safemoon contract&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>thirdweb-dev/contracts</title>
-    <updated>2022-06-01T02:22:29Z</updated>
-    <id>tag:github.com,2022-06-01:/thirdweb-dev/contracts</id>
-    <link href="https://github.com/thirdweb-dev/contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of smart contracts deployable via thirdweb&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>crytic/building-secure-contracts</title>
+    <updated>2022-06-02T02:24:46Z</updated>
+    <id>tag:github.com,2022-06-02:/crytic/building-secure-contracts</id>
+    <link href="https://github.com/crytic/building-secure-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Guidelines and training material to write secure smart contracts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jamesbachini/DEX-Arbitrage</title>
-    <updated>2022-06-01T02:22:29Z</updated>
-    <id>tag:github.com,2022-06-01:/jamesbachini/DEX-Arbitrage</id>
-    <link href="https://github.com/jamesbachini/DEX-Arbitrage" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Example arbitrage trading bot&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Dapp-Learning-DAO/Dapp-Learning</title>
-    <updated>2022-06-01T02:22:29Z</updated>
-    <id>tag:github.com,2022-06-01:/Dapp-Learning-DAO/Dapp-Learning</id>
-    <link href="https://github.com/Dapp-Learning-DAO/Dapp-Learning" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>maple-labs/proxy-factory</title>
-    <updated>2022-06-01T02:22:29Z</updated>
-    <id>tag:github.com,2022-06-01:/maple-labs/proxy-factory</id>
-    <link href="https://github.com/maple-labs/proxy-factory" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Generic factory for deploying upgradeable proxy contracts&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>makerdao/dss</title>
-    <updated>2022-06-01T02:22:29Z</updated>
-    <id>tag:github.com,2022-06-01:/makerdao/dss</id>
-    <link href="https://github.com/makerdao/dss" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dai Stablecoin System&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pancakeswap/pancake-farm</title>
-    <updated>2022-06-01T02:22:29Z</updated>
-    <id>tag:github.com,2022-06-01:/pancakeswap/pancake-farm</id>
-    <link href="https://github.com/pancakeswap/pancake-farm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>willitscale/learning-solidity</title>
-    <updated>2022-06-01T02:22:29Z</updated>
-    <id>tag:github.com,2022-06-01:/willitscale/learning-solidity</id>
-    <link href="https://github.com/willitscale/learning-solidity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The companion to the Youtube tutorials&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Drakenwolf/Nft_Staking_System</title>
-    <updated>2022-06-01T02:22:29Z</updated>
-    <id>tag:github.com,2022-06-01:/Drakenwolf/Nft_Staking_System</id>
-    <link href="https://github.com/Drakenwolf/Nft_Staking_System" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A open source, nft staking system.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>maple-labs/contract-test-utils</title>
-    <updated>2022-06-01T02:22:29Z</updated>
-    <id>tag:github.com,2022-06-01:/maple-labs/contract-test-utils</id>
-    <link href="https://github.com/maple-labs/contract-test-utils" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;It provides helper functions to test the maple-core contracts.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>net2devcrypto/nftstaking</title>
+    <updated>2022-06-02T02:24:46Z</updated>
+    <id>tag:github.com,2022-06-02:/net2devcrypto/nftstaking</id>
+    <link href="https://github.com/net2devcrypto/nftstaking" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Stake your ERC721 NFTs and issue ERC20 Tokens as Rewards!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,63 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:21:32Z</updated>
+  <updated>2022-06-02T02:23:42Z</updated>
   <subtitle>Weekly Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>QianMo/Awesome-Unity-Shader</title>
-    <updated>2022-06-01T02:21:32Z</updated>
-    <id>tag:github.com,2022-06-01:/QianMo/Awesome-Unity-Shader</id>
-    <link href="https://github.com/QianMo/Awesome-Unity-Shader" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⛵ 关于炫酷的Unity3D Shader | About Cool Unity3D Shaders&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>microsoft/OpenXR-Unity-MixedReality-Samples</title>
+    <updated>2022-06-02T02:23:42Z</updated>
+    <id>tag:github.com,2022-06-02:/microsoft/OpenXR-Unity-MixedReality-Samples</id>
+    <link href="https://github.com/microsoft/OpenXR-Unity-MixedReality-Samples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sample Unity projects to demo how to use OpenXR plugin in Unity for HoloLens 2 and Mixed Reality headsets&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>beaucarnes/unity_fps</title>
-    <updated>2022-06-01T02:21:32Z</updated>
-    <id>tag:github.com,2022-06-01:/beaucarnes/unity_fps</id>
-    <link href="https://github.com/beaucarnes/unity_fps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Project and asset files for FPS Unity game.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TwoTailsGames/Unity-Built-in-Shaders</title>
+    <updated>2022-06-02T02:23:42Z</updated>
+    <id>tag:github.com,2022-06-02:/TwoTailsGames/Unity-Built-in-Shaders</id>
+    <link href="https://github.com/TwoTailsGames/Unity-Built-in-Shaders" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Unity Built in Shaders&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Elringus/SpriteGlow</title>
-    <updated>2022-06-01T02:21:32Z</updated>
-    <id>tag:github.com,2022-06-01:/Elringus/SpriteGlow</id>
-    <link href="https://github.com/Elringus/SpriteGlow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A sprite glow effect for Unity game engine&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>adrian-miasik/unity-shaders</title>
-    <updated>2022-06-01T02:21:32Z</updated>
-    <id>tag:github.com,2022-06-01:/adrian-miasik/unity-shaders</id>
-    <link href="https://github.com/adrian-miasik/unity-shaders" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A bunch of shader examples created in Unity (ShaderGraph &amp; Built-in) 🧙✨&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>unity3d-jp/UnityChanToonShaderVer2_Project</title>
-    <updated>2022-06-01T02:21:32Z</updated>
-    <id>tag:github.com,2022-06-01:/unity3d-jp/UnityChanToonShaderVer2_Project</id>
-    <link href="https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;UnityChanToonShaderVer2 Project / v.2.0.8 Release&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>whiteflare/Unlit_WF_ShaderSuite</title>
-    <updated>2022-06-01T02:21:32Z</updated>
-    <id>tag:github.com,2022-06-01:/whiteflare/Unlit_WF_ShaderSuite</id>
-    <link href="https://github.com/whiteflare/Unlit_WF_ShaderSuite" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Shader project for unity/vrchat&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Unity-Technologies/Addressables-Sample</title>
-    <updated>2022-06-01T02:21:32Z</updated>
-    <id>tag:github.com,2022-06-01:/Unity-Technologies/Addressables-Sample</id>
-    <link href="https://github.com/Unity-Technologies/Addressables-Sample" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Demo project using Addressables package&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>csdjk/LearnUnityShader</title>
-    <updated>2022-06-01T02:21:32Z</updated>
-    <id>tag:github.com,2022-06-01:/csdjk/LearnUnityShader</id>
-    <link href="https://github.com/csdjk/LearnUnityShader" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;记录学习Unity Shader过程中实现过的一些Demo。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>legoandmars/GorillaTagMapProject</title>
+    <updated>2022-06-02T02:23:42Z</updated>
+    <id>tag:github.com,2022-06-02:/legoandmars/GorillaTagMapProject</id>
+    <link href="https://github.com/legoandmars/GorillaTagMapProject" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Unity project for Gorilla Tag maps.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

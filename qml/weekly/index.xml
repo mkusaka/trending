@@ -1,56 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub QML Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:19:33Z</updated>
+  <updated>2022-06-02T02:21:38Z</updated>
   <subtitle>Weekly Trending of QML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Swordfish90/cool-retro-term</title>
-    <updated>2022-06-01T02:19:33Z</updated>
-    <id>tag:github.com,2022-06-01:/Swordfish90/cool-retro-term</id>
-    <link href="https://github.com/Swordfish90/cool-retro-term" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A good looking terminal emulator which mimics the old cathode display...&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>customskinlol/cslol-manager</title>
-    <updated>2022-06-01T02:19:33Z</updated>
-    <id>tag:github.com,2022-06-01:/customskinlol/cslol-manager</id>
-    <link href="https://github.com/customskinlol/cslol-manager" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Dr-Incognito/V2Ray-Desktop</title>
-    <updated>2022-06-01T02:19:33Z</updated>
-    <id>tag:github.com,2022-06-01:/Dr-Incognito/V2Ray-Desktop</id>
-    <link href="https://github.com/Dr-Incognito/V2Ray-Desktop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;最优雅的跨平台代理客户端，支持Shadowsocks(R)，V2Ray和Trojan协议。The most elegant cross-platform proxy GUI client that supports Shadowsocks(R), V2Ray, and Trojan. Built with Qt5 and QML2.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jaredtao/TaoQuick</title>
-    <updated>2022-06-01T02:19:33Z</updated>
-    <id>tag:github.com,2022-06-01:/jaredtao/TaoQuick</id>
-    <link href="https://github.com/jaredtao/TaoQuick" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a cool QtQuick/qml component library and demo(一套酷炫的QtQuick/Qml基础库和示例)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>qt/qtlocation</title>
-    <updated>2022-06-01T02:19:33Z</updated>
-    <id>tag:github.com,2022-06-01:/qt/qtlocation</id>
-    <link href="https://github.com/qt/qtlocation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Qt Location&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>qt/qtquicktimeline</title>
-    <updated>2022-06-01T02:19:33Z</updated>
-    <id>tag:github.com,2022-06-01:/qt/qtquicktimeline</id>
-    <link href="https://github.com/qt/qtquicktimeline" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Module for keyframe-based timeline construction.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>wsdfhjxc/virtual-desktop-bar</title>
-    <updated>2022-06-01T02:19:33Z</updated>
-    <id>tag:github.com,2022-06-01:/wsdfhjxc/virtual-desktop-bar</id>
-    <link href="https://github.com/wsdfhjxc/virtual-desktop-bar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A pager panel widget for KDE Plasma&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

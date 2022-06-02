@@ -1,98 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T01:57:05Z</updated>
+  <updated>2022-06-02T01:58:39Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>analogdevicesinc/hdl</title>
-    <updated>2022-06-01T01:57:05Z</updated>
-    <id>tag:github.com,2022-06-01:/analogdevicesinc/hdl</id>
-    <link href="https://github.com/analogdevicesinc/hdl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;HDL libraries and projects&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>The-OpenROAD-Project/OpenLane</title>
-    <updated>2022-06-01T01:57:05Z</updated>
-    <id>tag:github.com,2022-06-01:/The-OpenROAD-Project/OpenLane</id>
-    <link href="https://github.com/The-OpenROAD-Project/OpenLane" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OpenLane is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen, Fault and custom methodology scripts for design exploration and optimization.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>alexforencich/verilog-ethernet</title>
-    <updated>2022-06-01T01:57:05Z</updated>
-    <id>tag:github.com,2022-06-01:/alexforencich/verilog-ethernet</id>
-    <link href="https://github.com/alexforencich/verilog-ethernet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Verilog Ethernet components for FPGA implementation&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>YosysHQ/picorv32</title>
-    <updated>2022-06-01T01:57:05Z</updated>
-    <id>tag:github.com,2022-06-01:/YosysHQ/picorv32</id>
-    <link href="https://github.com/YosysHQ/picorv32" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PicoRV32 - A Size-Optimized RISC-V CPU&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pConst/basic_verilog</title>
-    <updated>2022-06-01T01:57:05Z</updated>
-    <id>tag:github.com,2022-06-01:/pConst/basic_verilog</id>
-    <link href="https://github.com/pConst/basic_verilog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Must-have verilog systemverilog modules&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>codedchip/AMSGateArray</title>
-    <updated>2022-06-01T01:57:05Z</updated>
-    <id>tag:github.com,2022-06-01:/codedchip/AMSGateArray</id>
-    <link href="https://github.com/codedchip/AMSGateArray" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Prototype boards and verilog for development of Xilinx CPLD replacements for the Amstrad 40010 and 40007 gate array chips.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>litex-hub/pythondata-cpu-lm32</title>
-    <updated>2022-06-01T01:57:05Z</updated>
-    <id>tag:github.com,2022-06-01:/litex-hub/pythondata-cpu-lm32</id>
-    <link href="https://github.com/litex-hub/pythondata-cpu-lm32" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Python module containing verilog files for lm32 cpu (for use with LiteX).&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>litex-hub/pythondata-cpu-serv</title>
-    <updated>2022-06-01T01:57:05Z</updated>
-    <id>tag:github.com,2022-06-01:/litex-hub/pythondata-cpu-serv</id>
-    <link href="https://github.com/litex-hub/pythondata-cpu-serv" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Python module containing verilog files for serv cpu (for use with LiteX).&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>EttusResearch/uhd</title>
-    <updated>2022-06-01T01:57:05Z</updated>
-    <id>tag:github.com,2022-06-01:/EttusResearch/uhd</id>
-    <link href="https://github.com/EttusResearch/uhd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The USRP™ Hardware Driver Repository&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>alexforencich/verilog-axi</title>
-    <updated>2022-06-01T01:57:05Z</updated>
-    <id>tag:github.com,2022-06-01:/alexforencich/verilog-axi</id>
-    <link href="https://github.com/alexforencich/verilog-axi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Verilog AXI components for FPGA implementation&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ucb-bar/sha3</title>
-    <updated>2022-06-01T01:57:05Z</updated>
-    <id>tag:github.com,2022-06-01:/ucb-bar/sha3</id>
-    <link href="https://github.com/ucb-bar/sha3" rel="alternate"></link>
+    <title>The-OpenROAD-Project/OpenROAD-flow-scripts</title>
+    <updated>2022-06-02T01:58:39Z</updated>
+    <id>tag:github.com,2022-06-02:/The-OpenROAD-Project/OpenROAD-flow-scripts</id>
+    <link href="https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>chipsalliance/yosys-f4pga-plugins</title>
-    <updated>2022-06-01T01:57:05Z</updated>
-    <id>tag:github.com,2022-06-01:/chipsalliance/yosys-f4pga-plugins</id>
-    <link href="https://github.com/chipsalliance/yosys-f4pga-plugins" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Plugins for Yosys developed as part of the F4PGA project.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>efabless/caravel_user_project</title>
+    <updated>2022-06-02T01:58:39Z</updated>
+    <id>tag:github.com,2022-06-02:/efabless/caravel_user_project</id>
+    <link href="https://github.com/efabless/caravel_user_project" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;https://caravel-user-project.readthedocs.io&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>IObundle/iob-picorv32</title>
-    <updated>2022-06-01T01:57:05Z</updated>
-    <id>tag:github.com,2022-06-01:/IObundle/iob-picorv32</id>
-    <link href="https://github.com/IObundle/iob-picorv32" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;IOb_SoC version of the Picorv32 RISC-V Verilog IP core&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>IObundle/iob-cache</title>
+    <updated>2022-06-02T01:58:39Z</updated>
+    <id>tag:github.com,2022-06-02:/IObundle/iob-cache</id>
+    <link href="https://github.com/IObundle/iob-cache" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Verilog configurable cache&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>IObundle/iob-axi</title>
+    <updated>2022-06-02T01:58:39Z</updated>
+    <id>tag:github.com,2022-06-02:/IObundle/iob-axi</id>
+    <link href="https://github.com/IObundle/iob-axi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>IObundle/iob-mem</title>
+    <updated>2022-06-02T01:58:39Z</updated>
+    <id>tag:github.com,2022-06-02:/IObundle/iob-mem</id>
+    <link href="https://github.com/IObundle/iob-mem" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Verilog behavioral description of various memories&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

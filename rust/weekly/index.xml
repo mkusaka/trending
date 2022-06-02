@@ -1,182 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:20:59Z</updated>
+  <updated>2022-06-02T02:23:09Z</updated>
   <subtitle>Weekly Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>singularity-data/risingwave</title>
-    <updated>2022-06-01T02:20:59Z</updated>
-    <id>tag:github.com,2022-06-01:/singularity-data/risingwave</id>
-    <link href="https://github.com/singularity-data/risingwave" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RisingWave: the next-generation streaming database in the cloud.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TheAlgorithms/Rust</title>
+    <updated>2022-06-02T02:23:09Z</updated>
+    <id>tag:github.com,2022-06-02:/TheAlgorithms/Rust</id>
+    <link href="https://github.com/TheAlgorithms/Rust" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;All Algorithms implemented in Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rustdesk/rustdesk-server</title>
-    <updated>2022-06-01T02:20:59Z</updated>
-    <id>tag:github.com,2022-06-01:/rustdesk/rustdesk-server</id>
-    <link href="https://github.com/rustdesk/rustdesk-server" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RustDesk Server Program&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>osohq/oso</title>
+    <updated>2022-06-02T02:23:09Z</updated>
+    <id>tag:github.com,2022-06-02:/osohq/oso</id>
+    <link href="https://github.com/osohq/oso" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Oso is a batteries-included framework for building authorization in your application.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SerenityOS/jakt</title>
-    <updated>2022-06-01T02:20:59Z</updated>
-    <id>tag:github.com,2022-06-01:/SerenityOS/jakt</id>
-    <link href="https://github.com/SerenityOS/jakt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Jakt Programming Language&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>uutils/coreutils</title>
-    <updated>2022-06-01T02:20:59Z</updated>
-    <id>tag:github.com,2022-06-01:/uutils/coreutils</id>
-    <link href="https://github.com/uutils/coreutils" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cross-platform Rust rewrite of the GNU coreutils&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>helix-editor/helix</title>
-    <updated>2022-06-01T02:20:59Z</updated>
-    <id>tag:github.com,2022-06-01:/helix-editor/helix</id>
-    <link href="https://github.com/helix-editor/helix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A post-modern modal text editor.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rustdesk/rustdesk</title>
-    <updated>2022-06-01T02:20:59Z</updated>
-    <id>tag:github.com,2022-06-01:/rustdesk/rustdesk</id>
-    <link href="https://github.com/rustdesk/rustdesk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>FyroxEngine/Fyrox</title>
-    <updated>2022-06-01T02:20:59Z</updated>
-    <id>tag:github.com,2022-06-01:/FyroxEngine/Fyrox</id>
-    <link href="https://github.com/FyroxEngine/Fyrox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;3D and 2D game engine written in Rust&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rust-lang/mdBook</title>
-    <updated>2022-06-01T02:20:59Z</updated>
-    <id>tag:github.com,2022-06-01:/rust-lang/mdBook</id>
-    <link href="https://github.com/rust-lang/mdBook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Create book from markdown files. Like Gitbook but implemented in Rust&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>MystenLabs/sui</title>
-    <updated>2022-06-01T02:20:59Z</updated>
-    <id>tag:github.com,2022-06-01:/MystenLabs/sui</id>
-    <link href="https://github.com/MystenLabs/sui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ruffle-rs/ruffle</title>
-    <updated>2022-06-01T02:20:59Z</updated>
-    <id>tag:github.com,2022-06-01:/ruffle-rs/ruffle</id>
-    <link href="https://github.com/ruffle-rs/ruffle" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Flash Player emulator written in Rust&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>yewstack/yew</title>
-    <updated>2022-06-01T02:20:59Z</updated>
-    <id>tag:github.com,2022-06-01:/yewstack/yew</id>
-    <link href="https://github.com/yewstack/yew" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rust / Wasm framework for building client web apps&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>project-serum/anchor</title>
-    <updated>2022-06-01T02:20:59Z</updated>
-    <id>tag:github.com,2022-06-01:/project-serum/anchor</id>
-    <link href="https://github.com/project-serum/anchor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⚓ Solana Sealevel Framework&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>apache/arrow-datafusion</title>
-    <updated>2022-06-01T02:20:59Z</updated>
-    <id>tag:github.com,2022-06-01:/apache/arrow-datafusion</id>
-    <link href="https://github.com/apache/arrow-datafusion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Apache Arrow DataFusion SQL Query Engine&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>fzyzcjy/flutter_rust_bridge</title>
-    <updated>2022-06-01T02:20:59Z</updated>
-    <id>tag:github.com,2022-06-01:/fzyzcjy/flutter_rust_bridge</id>
-    <link href="https://github.com/fzyzcjy/flutter_rust_bridge" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;High-level memory-safe binding generator for Flutter/Dart &lt;-&gt; Rust&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pretzelhammer/rust-blog</title>
-    <updated>2022-06-01T02:20:59Z</updated>
-    <id>tag:github.com,2022-06-01:/pretzelhammer/rust-blog</id>
-    <link href="https://github.com/pretzelhammer/rust-blog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Educational blog posts for Rust beginners&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pola-rs/polars</title>
-    <updated>2022-06-01T02:20:59Z</updated>
-    <id>tag:github.com,2022-06-01:/pola-rs/polars</id>
-    <link href="https://github.com/pola-rs/polars" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fast multi-threaded DataFrame library in Rust | Python | Node.js&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rust-unofficial/awesome-rust</title>
-    <updated>2022-06-01T02:20:59Z</updated>
-    <id>tag:github.com,2022-06-01:/rust-unofficial/awesome-rust</id>
-    <link href="https://github.com/rust-unofficial/awesome-rust" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of Rust code and resources.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>paritytech/substrate</title>
-    <updated>2022-06-01T02:20:59Z</updated>
-    <id>tag:github.com,2022-06-01:/paritytech/substrate</id>
-    <link href="https://github.com/paritytech/substrate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Substrate: The platform for blockchain innovators&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hyperium/hyper</title>
-    <updated>2022-06-01T02:20:59Z</updated>
-    <id>tag:github.com,2022-06-01:/hyperium/hyper</id>
-    <link href="https://github.com/hyperium/hyper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An HTTP library for Rust&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bottlerocket-os/bottlerocket</title>
-    <updated>2022-06-01T02:20:59Z</updated>
-    <id>tag:github.com,2022-06-01:/bottlerocket-os/bottlerocket</id>
-    <link href="https://github.com/bottlerocket-os/bottlerocket" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An operating system designed for hosting containers&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rust-lang/rust</title>
-    <updated>2022-06-01T02:20:59Z</updated>
-    <id>tag:github.com,2022-06-01:/rust-lang/rust</id>
-    <link href="https://github.com/rust-lang/rust" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Empowering everyone to build reliable and efficient software.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dani-garcia/vaultwarden</title>
-    <updated>2022-06-01T02:20:59Z</updated>
-    <id>tag:github.com,2022-06-01:/dani-garcia/vaultwarden</id>
-    <link href="https://github.com/dani-garcia/vaultwarden" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>solana-labs/solana</title>
-    <updated>2022-06-01T02:20:59Z</updated>
-    <id>tag:github.com,2022-06-01:/solana-labs/solana</id>
-    <link href="https://github.com/solana-labs/solana" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>vectordotdev/vector</title>
-    <updated>2022-06-01T02:20:59Z</updated>
-    <id>tag:github.com,2022-06-01:/vectordotdev/vector</id>
-    <link href="https://github.com/vectordotdev/vector" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A high-performance observability data pipeline.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>foundry-rs/foundry</title>
-    <updated>2022-06-01T02:20:59Z</updated>
-    <id>tag:github.com,2022-06-01:/foundry-rs/foundry</id>
-    <link href="https://github.com/foundry-rs/foundry" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>flxzt/rnote</title>
+    <updated>2022-06-02T02:23:09Z</updated>
+    <id>tag:github.com,2022-06-02:/flxzt/rnote</id>
+    <link href="https://github.com/flxzt/rnote" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sketch and take handwritten notes.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

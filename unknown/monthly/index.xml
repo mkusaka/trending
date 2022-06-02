@@ -1,182 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:29:26Z</updated>
+  <updated>2022-06-02T02:31:33Z</updated>
   <subtitle>Monthly Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Dimbreath/GenshinData</title>
-    <updated>2022-06-01T02:29:26Z</updated>
-    <id>tag:github.com,2022-06-01:/Dimbreath/GenshinData</id>
-    <link href="https://github.com/Dimbreath/GenshinData" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository containing the game data for the game Genshin Impact.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>onceupon/Bash-Oneliner</title>
+    <updated>2022-06-02T02:31:33Z</updated>
+    <id>tag:github.com,2022-06-02:/onceupon/Bash-Oneliner</id>
+    <link href="https://github.com/onceupon/Bash-Oneliner" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>getify/You-Dont-Know-JS</title>
-    <updated>2022-06-01T02:29:26Z</updated>
-    <id>tag:github.com,2022-06-01:/getify/You-Dont-Know-JS</id>
-    <link href="https://github.com/getify/You-Dont-Know-JS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A book series on JavaScript. @YDKJS on twitter.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dair-ai/ML-Course-Notes</title>
-    <updated>2022-06-01T02:29:26Z</updated>
-    <id>tag:github.com,2022-06-01:/dair-ai/ML-Course-Notes</id>
-    <link href="https://github.com/dair-ai/ML-Course-Notes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎓 Sharing course notes on all topics related to machine learning, NLP, and AI.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>florinpop17/app-ideas</title>
-    <updated>2022-06-01T02:29:26Z</updated>
-    <id>tag:github.com,2022-06-01:/florinpop17/app-ideas</id>
-    <link href="https://github.com/florinpop17/app-ideas" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Collection of application ideas which can be used to improve your coding skills.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>reactjs/rfcs</title>
-    <updated>2022-06-01T02:29:26Z</updated>
-    <id>tag:github.com,2022-06-01:/reactjs/rfcs</id>
-    <link href="https://github.com/reactjs/rfcs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RFCs for changes to React&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>safak/youtube2022</title>
-    <updated>2022-06-01T02:29:26Z</updated>
-    <id>tag:github.com,2022-06-01:/safak/youtube2022</id>
-    <link href="https://github.com/safak/youtube2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Season 2 on Lama Dev&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>felipefialho/frontend-challenges</title>
-    <updated>2022-06-01T02:29:26Z</updated>
-    <id>tag:github.com,2022-06-01:/felipefialho/frontend-challenges</id>
-    <link href="https://github.com/felipefialho/frontend-challenges" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A public list of open-source challenges from companies around the world&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>zbezj/HEU_KMS_Activator</title>
-    <updated>2022-06-01T02:29:26Z</updated>
-    <id>tag:github.com,2022-06-01:/zbezj/HEU_KMS_Activator</id>
-    <link href="https://github.com/zbezj/HEU_KMS_Activator" rel="alternate"></link>
+    <title>LaravelDaily/Laravel-Roadmap-Learning-Path</title>
+    <updated>2022-06-02T02:31:33Z</updated>
+    <id>tag:github.com,2022-06-02:/LaravelDaily/Laravel-Roadmap-Learning-Path</id>
+    <link href="https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>weeeBox/mobile-system-design</title>
-    <updated>2022-06-01T02:29:26Z</updated>
-    <id>tag:github.com,2022-06-01:/weeeBox/mobile-system-design</id>
-    <link href="https://github.com/weeeBox/mobile-system-design" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple framework for mobile system design interviews&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>programthink/books</title>
-    <updated>2022-06-01T02:29:26Z</updated>
-    <id>tag:github.com,2022-06-01:/programthink/books</id>
-    <link href="https://github.com/programthink/books" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;【编程随想】收藏的电子书清单（多个学科，含下载链接）&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Wechat-ggGitHub/Awesome-GitHub-Repo</title>
-    <updated>2022-06-01T02:29:26Z</updated>
-    <id>tag:github.com,2022-06-01:/Wechat-ggGitHub/Awesome-GitHub-Repo</id>
-    <link href="https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;收集整理 GitHub 上高质量、有趣的开源项目。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ossu/computer-science</title>
-    <updated>2022-06-01T02:29:26Z</updated>
-    <id>tag:github.com,2022-06-01:/ossu/computer-science</id>
-    <link href="https://github.com/ossu/computer-science" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎓 Path to a free self-taught education in Computer Science!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sindresorhus/awesome</title>
-    <updated>2022-06-01T02:29:26Z</updated>
-    <id>tag:github.com,2022-06-01:/sindresorhus/awesome</id>
-    <link href="https://github.com/sindresorhus/awesome" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;😎 Awesome lists about all kinds of interesting topics&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Developer-Y/cs-video-courses</title>
-    <updated>2022-06-01T02:29:26Z</updated>
-    <id>tag:github.com,2022-06-01:/Developer-Y/cs-video-courses</id>
-    <link href="https://github.com/Developer-Y/cs-video-courses" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;List of Computer Science courses with video lectures.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>MoienTajik/AspNetCore-Developer-Roadmap</title>
-    <updated>2022-06-01T02:29:26Z</updated>
-    <id>tag:github.com,2022-06-01:/MoienTajik/AspNetCore-Developer-Roadmap</id>
-    <link href="https://github.com/MoienTajik/AspNetCore-Developer-Roadmap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Roadmap to becoming an ASP.NET Core developer in 2022&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>LSPosed/MagiskOnWSA</title>
-    <updated>2022-06-01T02:29:26Z</updated>
-    <id>tag:github.com,2022-06-01:/LSPosed/MagiskOnWSA</id>
-    <link href="https://github.com/LSPosed/MagiskOnWSA" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cncf/mentoring</title>
-    <updated>2022-06-01T02:29:26Z</updated>
-    <id>tag:github.com,2022-06-01:/cncf/mentoring</id>
-    <link href="https://github.com/cncf/mentoring" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + LFX Mentorship + Summer of Code + Season of Docs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Pawdroid/Free-servers</title>
-    <updated>2022-06-01T02:29:26Z</updated>
-    <id>tag:github.com,2022-06-01:/Pawdroid/Free-servers</id>
-    <link href="https://github.com/Pawdroid/Free-servers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>LaravelDaily/laravel-tips</title>
-    <updated>2022-06-01T02:29:26Z</updated>
-    <id>tag:github.com,2022-06-01:/LaravelDaily/laravel-tips</id>
-    <link href="https://github.com/LaravelDaily/laravel-tips" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Awesome tips for Laravel&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pluja/awesome-privacy</title>
-    <updated>2022-06-01T02:29:26Z</updated>
-    <id>tag:github.com,2022-06-01:/pluja/awesome-privacy</id>
-    <link href="https://github.com/pluja/awesome-privacy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dair-ai/ML-YouTube-Courses</title>
-    <updated>2022-06-01T02:29:26Z</updated>
-    <id>tag:github.com,2022-06-01:/dair-ai/ML-YouTube-Courses</id>
-    <link href="https://github.com/dair-ai/ML-YouTube-Courses" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📺 A place to discover the latest machine learning courses on YouTube.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>othneildrew/Best-README-Template</title>
-    <updated>2022-06-01T02:29:26Z</updated>
-    <id>tag:github.com,2022-06-01:/othneildrew/Best-README-Template</id>
-    <link href="https://github.com/othneildrew/Best-README-Template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An awesome README template to jumpstart your projects!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>khangich/machine-learning-interview</title>
-    <updated>2022-06-01T02:29:26Z</updated>
-    <id>tag:github.com,2022-06-01:/khangich/machine-learning-interview</id>
-    <link href="https://github.com/khangich/machine-learning-interview" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dotnet/docs</title>
-    <updated>2022-06-01T02:29:26Z</updated>
-    <id>tag:github.com,2022-06-01:/dotnet/docs</id>
-    <link href="https://github.com/dotnet/docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository contains .NET Documentation.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>NebuTech/NBMiner</title>
-    <updated>2022-06-01T02:29:26Z</updated>
-    <id>tag:github.com,2022-06-01:/NebuTech/NBMiner</id>
-    <link href="https://github.com/NebuTech/NBMiner" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GPU Miner for ETH, RVN, BEAM, CFX, ZIL, AE, ERGO&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub nesC Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:16:04Z</updated>
+  <updated>2022-06-02T02:18:08Z</updated>
   <subtitle>Weekly Trending of nesC in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>bdring/Grbl_Esp32</title>
-    <updated>2022-06-01T02:16:04Z</updated>
-    <id>tag:github.com,2022-06-01:/bdring/Grbl_Esp32</id>
-    <link href="https://github.com/bdring/Grbl_Esp32" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A port of Grbl CNC Firmware for ESP32&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

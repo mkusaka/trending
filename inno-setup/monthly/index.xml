@@ -1,63 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Inno Setup Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:40:03Z</updated>
+  <updated>2022-06-02T02:42:33Z</updated>
   <subtitle>Monthly Trending of Inno Setup in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>taozhiyu/TyProAction</title>
-    <updated>2022-06-01T02:40:03Z</updated>
-    <id>tag:github.com,2022-06-01:/taozhiyu/TyProAction</id>
-    <link href="https://github.com/taozhiyu/TyProAction" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Github Action about Ty (Pro Version)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mentebinaria/retoolkit</title>
-    <updated>2022-06-01T02:40:03Z</updated>
-    <id>tag:github.com,2022-06-01:/mentebinaria/retoolkit</id>
-    <link href="https://github.com/mentebinaria/retoolkit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Reverse Engineer&#39;s Toolkit&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ManlyMarco/KK-HF_Patch</title>
-    <updated>2022-06-01T02:40:03Z</updated>
-    <id>tag:github.com,2022-06-01:/ManlyMarco/KK-HF_Patch</id>
-    <link href="https://github.com/ManlyMarco/KK-HF_Patch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Automatically translate, uncensor and update Koikatu! and Koikatsu Party!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>git-for-windows/build-extra</title>
-    <updated>2022-06-01T02:40:03Z</updated>
-    <id>tag:github.com,2022-06-01:/git-for-windows/build-extra</id>
-    <link href="https://github.com/git-for-windows/build-extra" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Additional files and scripts to help build Git for Windows on MSYS2.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ManlyMarco/AI-HF_Patch</title>
-    <updated>2022-06-01T02:40:03Z</updated>
-    <id>tag:github.com,2022-06-01:/ManlyMarco/AI-HF_Patch</id>
-    <link href="https://github.com/ManlyMarco/AI-HF_Patch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Automatically translate, uncensor and update AI-Shoujo!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cleolibrary/CLEO-Redux</title>
-    <updated>2022-06-01T02:40:03Z</updated>
-    <id>tag:github.com,2022-06-01:/cleolibrary/CLEO-Redux</id>
-    <link href="https://github.com/cleolibrary/CLEO-Redux" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Experimental JavaScript runtime for GTA 3D era games.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ManlyMarco/KKS-HF_Patch</title>
-    <updated>2022-06-01T02:40:03Z</updated>
-    <id>tag:github.com,2022-06-01:/ManlyMarco/KKS-HF_Patch</id>
-    <link href="https://github.com/ManlyMarco/KKS-HF_Patch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Automatically translate, uncensor and update Koikatsu Sunshine!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>krypto5863/COM-Modular-Installer</title>
-    <updated>2022-06-01T02:40:03Z</updated>
-    <id>tag:github.com,2022-06-01:/krypto5863/COM-Modular-Installer</id>
-    <link href="https://github.com/krypto5863/COM-Modular-Installer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repo is dedicated to the COM Modular Installer. An installer built in Inno and using a C# library to extend functions.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

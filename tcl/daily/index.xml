@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Tcl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T01:55:31Z</updated>
+  <updated>2022-06-02T01:57:05Z</updated>
   <subtitle>Daily Trending of Tcl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>macports/macports-ports</title>
-    <updated>2022-06-01T01:55:31Z</updated>
-    <id>tag:github.com,2022-06-01:/macports/macports-ports</id>
-    <link href="https://github.com/macports/macports-ports" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The MacPorts ports tree&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rdbende/Sun-Valley-ttk-theme</title>
-    <updated>2022-06-01T01:55:31Z</updated>
-    <id>tag:github.com,2022-06-01:/rdbende/Sun-Valley-ttk-theme</id>
-    <link href="https://github.com/rdbende/Sun-Valley-ttk-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A gorgeous theme for ttk, based on Microsoft&#39;s Sun Valley visual style ✨&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

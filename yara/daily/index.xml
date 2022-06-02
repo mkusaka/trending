@@ -1,28 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub YARA Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T01:58:34Z</updated>
+  <updated>2022-06-02T02:00:09Z</updated>
   <subtitle>Daily Trending of YARA in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Yara-Rules/rules</title>
-    <updated>2022-06-01T01:58:34Z</updated>
-    <id>tag:github.com,2022-06-01:/Yara-Rules/rules</id>
-    <link href="https://github.com/Yara-Rules/rules" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository of yara rules&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>GossiTheDog/ThreatHunting</title>
+    <updated>2022-06-02T02:00:09Z</updated>
+    <id>tag:github.com,2022-06-02:/GossiTheDog/ThreatHunting</id>
+    <link href="https://github.com/GossiTheDog/ThreatHunting" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tools for hunting for threats.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Neo23x0/signature-base</title>
-    <updated>2022-06-01T01:58:34Z</updated>
-    <id>tag:github.com,2022-06-01:/Neo23x0/signature-base</id>
-    <link href="https://github.com/Neo23x0/signature-base" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Signature base for my scanner tools&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>curated-intel/Ukraine-Cyber-Operations</title>
+    <updated>2022-06-02T02:00:09Z</updated>
+    <id>tag:github.com,2022-06-02:/curated-intel/Ukraine-Cyber-Operations</id>
+    <link href="https://github.com/curated-intel/Ukraine-Cyber-Operations" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Curated Intelligence is working with analysts from around the world to provide useful information to organisations in Ukraine looking for additional free threat intelligence. Slava Ukraini. Glory to Ukraine.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CyberMonitor/APT_CyberCriminal_Campagin_Collections</title>
-    <updated>2022-06-01T01:58:34Z</updated>
-    <id>tag:github.com,2022-06-01:/CyberMonitor/APT_CyberCriminal_Campagin_Collections</id>
-    <link href="https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;APT &amp; CyberCriminal Campaign Collection&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NVISOsecurity/nviso-cti</title>
+    <updated>2022-06-02T02:00:09Z</updated>
+    <id>tag:github.com,2022-06-02:/NVISOsecurity/nviso-cti</id>
+    <link href="https://github.com/NVISOsecurity/nviso-cti" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sophoslabs/IoCs</title>
+    <updated>2022-06-02T02:00:09Z</updated>
+    <id>tag:github.com,2022-06-02:/sophoslabs/IoCs</id>
+    <link href="https://github.com/sophoslabs/IoCs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sophos-originated indicators-of-compromise from published reports&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

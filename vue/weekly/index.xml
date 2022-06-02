@@ -1,182 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:25:49Z</updated>
+  <updated>2022-06-02T02:27:57Z</updated>
   <subtitle>Weekly Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>requarks/wiki</title>
-    <updated>2022-06-01T02:25:49Z</updated>
-    <id>tag:github.com,2022-06-01:/requarks/wiki</id>
-    <link href="https://github.com/requarks/wiki" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Wiki.js | A modern and powerful wiki app built on Node.js&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>varletjs/varlet</title>
+    <updated>2022-06-02T02:27:57Z</updated>
+    <id>tag:github.com,2022-06-02:/varletjs/varlet</id>
+    <link href="https://github.com/varletjs/varlet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于 Vue3 的 Material design 风格移动端组件库 Material design mobile component library for Vue3&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>element-plus/element-plus</title>
-    <updated>2022-06-01T02:25:49Z</updated>
-    <id>tag:github.com,2022-06-01:/element-plus/element-plus</id>
-    <link href="https://github.com/element-plus/element-plus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎉 A Vue.js 3 UI Library made by Element team&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Armour/vue-typescript-admin-template</title>
+    <updated>2022-06-02T02:27:57Z</updated>
+    <id>tag:github.com,2022-06-02:/Armour/vue-typescript-admin-template</id>
+    <link href="https://github.com/Armour/vue-typescript-admin-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🖖 A vue-cli 3.0 + typescript minimal admin template&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>element-plus/element-plus-vite-starter</title>
-    <updated>2022-06-01T02:25:49Z</updated>
-    <id>tag:github.com,2022-06-01:/element-plus/element-plus-vite-starter</id>
-    <link href="https://github.com/element-plus/element-plus-vite-starter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌰 A starter kit for Element Plus with Vite&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bailicangdu/vue2-manage</title>
+    <updated>2022-06-02T02:27:57Z</updated>
+    <id>tag:github.com,2022-06-02:/bailicangdu/vue2-manage</id>
+    <link href="https://github.com/bailicangdu/vue2-manage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于 vue + element-ui 的后台管理系统&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pipipi-pikachu/PPTist</title>
-    <updated>2022-06-01T02:25:49Z</updated>
-    <id>tag:github.com,2022-06-01:/pipipi-pikachu/PPTist</id>
-    <link href="https://github.com/pipipi-pikachu/PPTist" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于 Vue3.x + TypeScript 的在线演示文稿（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示。支持导出PPT文件。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>macrozheng/mall-admin-web</title>
+    <updated>2022-06-02T02:27:57Z</updated>
+    <id>tag:github.com,2022-06-02:/macrozheng/mall-admin-web</id>
+    <link href="https://github.com/macrozheng/mall-admin-web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Element实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ElemeFE/element</title>
-    <updated>2022-06-01T02:25:49Z</updated>
-    <id>tag:github.com,2022-06-01:/ElemeFE/element</id>
-    <link href="https://github.com/ElemeFE/element" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Vue.js 2.0 UI Toolkit for Web&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fenixsoft/awesome-fenix</title>
+    <updated>2022-06-02T02:27:57Z</updated>
+    <id>tag:github.com,2022-06-02:/fenixsoft/awesome-fenix</id>
+    <link href="https://github.com/fenixsoft/awesome-fenix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;讨论如何构建一套可靠的大型分布式系统&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>PanJiaChen/vue-element-admin</title>
-    <updated>2022-06-01T02:25:49Z</updated>
-    <id>tag:github.com,2022-06-01:/PanJiaChen/vue-element-admin</id>
-    <link href="https://github.com/PanJiaChen/vue-element-admin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>newbee-ltd/vue3-admin</title>
-    <updated>2022-06-01T02:25:49Z</updated>
-    <id>tag:github.com,2022-06-01:/newbee-ltd/vue3-admin</id>
-    <link href="https://github.com/newbee-ltd/vue3-admin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔥 🎉 Vue 3.0 + Vite 2.0 + Vue-Router 4.0 + Element-Plus + Echarts 5.0 + Axios 开发的后台管理系统&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bailicangdu/vue2-elm</title>
-    <updated>2022-06-01T02:25:49Z</updated>
-    <id>tag:github.com,2022-06-01:/bailicangdu/vue2-elm</id>
-    <link href="https://github.com/bailicangdu/vue2-elm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>epicmaxco/vuestic-ui</title>
-    <updated>2022-06-01T02:25:49Z</updated>
-    <id>tag:github.com,2022-06-01:/epicmaxco/vuestic-ui</id>
-    <link href="https://github.com/epicmaxco/vuestic-ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Free and Open Source UI Library for Vue 3 🤘&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>buqiyuan/vue3-antd-admin</title>
-    <updated>2022-06-01T02:25:49Z</updated>
-    <id>tag:github.com,2022-06-01:/buqiyuan/vue3-antd-admin</id>
-    <link href="https://github.com/buqiyuan/vue3-antd-admin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于vue-cli5.x/vite2.x + vue3.x + ant-design-vue3.x + typescript hooks 的基础后台管理系统模板 RBAC的权限系统, JSON Schema动态表单,动态表格,漂亮锁屏界面&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>weilanwl/ColorUI</title>
-    <updated>2022-06-01T02:25:49Z</updated>
-    <id>tag:github.com,2022-06-01:/weilanwl/ColorUI</id>
-    <link href="https://github.com/weilanwl/ColorUI" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;鲜亮的高饱和色彩，专注视觉的小程序组件库&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hoppscotch/hoppscotch</title>
-    <updated>2022-06-01T02:25:49Z</updated>
-    <id>tag:github.com,2022-06-01:/hoppscotch/hoppscotch</id>
-    <link href="https://github.com/hoppscotch/hoppscotch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;👽 Open source API development ecosystem - https://hoppscotch.io&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>xugaoyi/vuepress-theme-vdoing</title>
-    <updated>2022-06-01T02:25:49Z</updated>
-    <id>tag:github.com,2022-06-01:/xugaoyi/vuepress-theme-vdoing</id>
-    <link href="https://github.com/xugaoyi/vuepress-theme-vdoing" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🚀一款简洁高效的VuePress知识管理&amp;博客(blog)主题&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>AutomaApp/automa</title>
-    <updated>2022-06-01T02:25:49Z</updated>
-    <id>tag:github.com,2022-06-01:/AutomaApp/automa</id>
-    <link href="https://github.com/AutomaApp/automa" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A browser extension for automating your browser by connecting blocks&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ccfddl/ccf-deadlines</title>
-    <updated>2022-06-01T02:25:49Z</updated>
-    <id>tag:github.com,2022-06-01:/ccfddl/ccf-deadlines</id>
-    <link href="https://github.com/ccfddl/ccf-deadlines" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⏰ CCF recommendation conference Deadline Countdowns / Please star this project, thanks~&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>chuzhixin/vue-admin-better</title>
-    <updated>2022-06-01T02:25:49Z</updated>
-    <id>tag:github.com,2022-06-01:/chuzhixin/vue-admin-better</id>
-    <link href="https://github.com/chuzhixin/vue-admin-better" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lin-xin/vue-manage-system</title>
-    <updated>2022-06-01T02:25:49Z</updated>
-    <id>tag:github.com,2022-06-01:/lin-xin/vue-manage-system</id>
-    <link href="https://github.com/lin-xin/vue-manage-system" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于Vue3 + Element Plus 的后台管理系统解决方案&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>RainManGO/vue3-composition-admin</title>
-    <updated>2022-06-01T02:25:49Z</updated>
-    <id>tag:github.com,2022-06-01:/RainManGO/vue3-composition-admin</id>
-    <link href="https://github.com/RainManGO/vue3-composition-admin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎉 基于vue3 的管理端模板(Vue3 TS Vuex4 element-plus vue-i18n-next composition-api) vue3-admin vue3-ts-admin&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>fofapro/vulfocus</title>
-    <updated>2022-06-01T02:25:49Z</updated>
-    <id>tag:github.com,2022-06-01:/fofapro/vulfocus</id>
-    <link href="https://github.com/fofapro/vulfocus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🚀Vulfocus 是一个漏洞集成平台，将漏洞环境 docker 镜像，放入即可使用，开箱即用。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JakHuang/form-generator</title>
-    <updated>2022-06-01T02:25:49Z</updated>
-    <id>tag:github.com,2022-06-01:/JakHuang/form-generator</id>
-    <link href="https://github.com/JakHuang/form-generator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;✨Element UI表单设计及代码生成器&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>vueComponent/ant-design-vue</title>
-    <updated>2022-06-01T02:25:49Z</updated>
-    <id>tag:github.com,2022-06-01:/vueComponent/ant-design-vue</id>
-    <link href="https://github.com/vueComponent/ant-design-vue" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jekip/naive-ui-admin</title>
-    <updated>2022-06-01T02:25:49Z</updated>
-    <id>tag:github.com,2022-06-01:/jekip/naive-ui-admin</id>
-    <link href="https://github.com/jekip/naive-ui-admin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Naive Ui Admin 是一个基于 vue3,vite2,TypeScript 的中后台解决方案，它使用了最新的前端技术栈，并提炼了典型的业务模型，页面，包括二次封装组件、动态菜单、权限校验、粒子化权限控制等功能，它可以帮助你快速搭建企业级中后台项目，相信不管是从新技术使用还是其他方面，都能帮助到你，持续更新中。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>vbenjs/vue-vben-admin</title>
-    <updated>2022-06-01T02:25:49Z</updated>
-    <id>tag:github.com,2022-06-01:/vbenjs/vue-vben-admin</id>
-    <link href="https://github.com/vbenjs/vue-vben-admin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A modern vue admin. It is based on Vue3, vite and TypeScript. It&#39;s fast！&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>xiaoxian521/vue-pure-admin</title>
-    <updated>2022-06-01T02:25:49Z</updated>
-    <id>tag:github.com,2022-06-01:/xiaoxian521/vue-pure-admin</id>
-    <link href="https://github.com/xiaoxian521/vue-pure-admin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>justboil/admin-one-vue-tailwind</title>
-    <updated>2022-06-01T02:25:49Z</updated>
-    <id>tag:github.com,2022-06-01:/justboil/admin-one-vue-tailwind</id>
-    <link href="https://github.com/justboil/admin-one-vue-tailwind" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Free Vue.js 3.x Tailwind 3.x admin dashboard template with dark mode. Vite &amp; Vue CLI supported. Laravel integration available&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yangzongzhuan/RuoYi-Vue3</title>
+    <updated>2022-06-02T02:27:57Z</updated>
+    <id>tag:github.com,2022-06-02:/yangzongzhuan/RuoYi-Vue3</id>
+    <link href="https://github.com/yangzongzhuan/RuoYi-Vue3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 &amp; Vite、Element Plus 的前后端分离权限管理系统&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

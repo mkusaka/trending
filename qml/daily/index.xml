@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub QML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T01:51:27Z</updated>
+  <updated>2022-06-02T01:52:34Z</updated>
   <subtitle>Daily Trending of QML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vinceliuice/WhiteSur-kde</title>
-    <updated>2022-06-01T01:51:27Z</updated>
-    <id>tag:github.com,2022-06-01:/vinceliuice/WhiteSur-kde</id>
-    <link href="https://github.com/vinceliuice/WhiteSur-kde" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MacOS big sur theme for kde plasma&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jaredtao/TaoQuick</title>
+    <updated>2022-06-02T01:52:34Z</updated>
+    <id>tag:github.com,2022-06-02:/jaredtao/TaoQuick</id>
+    <link href="https://github.com/jaredtao/TaoQuick" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a cool QtQuick/qml component library and demo(一套酷炫的QtQuick/Qml基础库和示例)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Swordfish90/cool-retro-term</title>
-    <updated>2022-06-01T01:51:27Z</updated>
-    <id>tag:github.com,2022-06-01:/Swordfish90/cool-retro-term</id>
-    <link href="https://github.com/Swordfish90/cool-retro-term" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A good looking terminal emulator which mimics the old cathode display...&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Esri/arcgis-appstudio-samples</title>
-    <updated>2022-06-01T01:51:27Z</updated>
-    <id>tag:github.com,2022-06-01:/Esri/arcgis-appstudio-samples</id>
-    <link href="https://github.com/Esri/arcgis-appstudio-samples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of samples available in AppStudio for ArcGIS desktop to learn and help build your next app.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>qt/qtquicktimeline</title>
+    <updated>2022-06-02T01:52:34Z</updated>
+    <id>tag:github.com,2022-06-02:/qt/qtquicktimeline</id>
+    <link href="https://github.com/qt/qtquicktimeline" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Module for keyframe-based timeline construction.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,63 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:02:08Z</updated>
+  <updated>2022-06-02T02:03:49Z</updated>
   <subtitle>Weekly Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>onemangroup/FlashUtils</title>
-    <updated>2022-06-01T02:02:08Z</updated>
-    <id>tag:github.com,2022-06-01:/onemangroup/FlashUtils</id>
-    <link href="https://github.com/onemangroup/FlashUtils" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Just some of my utils...&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>frederic-nguyen-huynh-zz/AndroidStarling</title>
-    <updated>2022-06-01T02:02:08Z</updated>
-    <id>tag:github.com,2022-06-01:/frederic-nguyen-huynh-zz/AndroidStarling</id>
-    <link href="https://github.com/frederic-nguyen-huynh-zz/AndroidStarling" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>darscan/robotlegs-demos-HelloFlash</title>
-    <updated>2022-06-01T02:02:08Z</updated>
-    <id>tag:github.com,2022-06-01:/darscan/robotlegs-demos-HelloFlash</id>
-    <link href="https://github.com/darscan/robotlegs-demos-HelloFlash" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple Robotlegs 2 Flash Demo&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>psygnoser/nanoPHAGE</title>
-    <updated>2022-06-01T02:02:08Z</updated>
-    <id>tag:github.com,2022-06-01:/psygnoser/nanoPHAGE</id>
-    <link href="https://github.com/psygnoser/nanoPHAGE" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AS3 game for a personal research/learning project&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jhuckaby/webcamjs</title>
-    <updated>2022-06-01T02:02:08Z</updated>
-    <id>tag:github.com,2022-06-01:/jhuckaby/webcamjs</id>
-    <link href="https://github.com/jhuckaby/webcamjs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;HTML5 Webcam Image Capture Library with Flash Fallback&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>prefuse/Flare</title>
-    <updated>2022-06-01T02:02:08Z</updated>
-    <id>tag:github.com,2022-06-01:/prefuse/Flare</id>
-    <link href="https://github.com/prefuse/Flare" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Flare is an ActionScript library for creating visualizations that run in the Adobe Flash Player. From basic charts and graphs to complex interactive graphics, the toolkit supports data management, visual encoding, animation, and interaction techniques.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kohyama/SimpleFTP</title>
-    <updated>2022-06-01T02:02:08Z</updated>
-    <id>tag:github.com,2022-06-01:/kohyama/SimpleFTP</id>
-    <link href="https://github.com/kohyama/SimpleFTP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An ActionScript3 class to put string to and get as string from files on FTP servers&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cordechasse/frankenstein</title>
-    <updated>2022-06-01T02:02:08Z</updated>
-    <id>tag:github.com,2022-06-01:/cordechasse/frankenstein</id>
-    <link href="https://github.com/cordechasse/frankenstein" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

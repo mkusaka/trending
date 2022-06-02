@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub RAML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T01:51:55Z</updated>
+  <updated>2022-06-02T01:52:53Z</updated>
   <subtitle>Daily Trending of RAML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>spotify/web-api</title>
+    <updated>2022-06-02T01:52:53Z</updated>
+    <id>tag:github.com,2022-06-02:/spotify/web-api</id>
+    <link href="https://github.com/spotify/web-api" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This issue tracker is no longer used. Join us in the Spotify for Developers forum for support with the Spotify Web API ➡️ https://community.spotify.com/t5/Spotify-for-Developers/bd-p/Spotify_Developer&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

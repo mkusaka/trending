@@ -1,182 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Starlark Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:22:53Z</updated>
+  <updated>2022-06-02T02:25:11Z</updated>
   <subtitle>Weekly Trending of Starlark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>masmovil/bazel-rules</title>
-    <updated>2022-06-01T02:22:53Z</updated>
-    <id>tag:github.com,2022-06-01:/masmovil/bazel-rules</id>
-    <link href="https://github.com/masmovil/bazel-rules" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bazelbuild/rules_jsonnet</title>
+    <updated>2022-06-02T02:25:11Z</updated>
+    <id>tag:github.com,2022-06-02:/bazelbuild/rules_jsonnet</id>
+    <link href="https://github.com/bazelbuild/rules_jsonnet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jsonnet rules for Bazel&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>DataDog/rules_oci_bootstrap</title>
-    <updated>2022-06-01T02:22:53Z</updated>
-    <id>tag:github.com,2022-06-01:/DataDog/rules_oci_bootstrap</id>
-    <link href="https://github.com/DataDog/rules_oci_bootstrap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bazel rules to bootstrap from an OCI registry&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>envoyproxy/data-plane-api</title>
-    <updated>2022-06-01T02:22:53Z</updated>
-    <id>tag:github.com,2022-06-01:/envoyproxy/data-plane-api</id>
-    <link href="https://github.com/envoyproxy/data-plane-api" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;[READ ONLY MIRROR] Envoy REST/proto API definitions and documentation.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bazelbuild/rules_nodejs</title>
-    <updated>2022-06-01T02:22:53Z</updated>
-    <id>tag:github.com,2022-06-01:/bazelbuild/rules_nodejs</id>
-    <link href="https://github.com/bazelbuild/rules_nodejs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;JavaScript and NodeJS rules for Bazel&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cncf/udpa</title>
-    <updated>2022-06-01T02:22:53Z</updated>
-    <id>tag:github.com,2022-06-01:/cncf/udpa</id>
-    <link href="https://github.com/cncf/udpa" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌌📊✈Universal Data Plane API Working Group (UDPA-WG)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>atlassian/bazel-tools</title>
-    <updated>2022-06-01T02:22:53Z</updated>
-    <id>tag:github.com,2022-06-01:/atlassian/bazel-tools</id>
-    <link href="https://github.com/atlassian/bazel-tools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Reusable bits for Bazel&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bazelbuild/rules_docker</title>
-    <updated>2022-06-01T02:22:53Z</updated>
-    <id>tag:github.com,2022-06-01:/bazelbuild/rules_docker</id>
-    <link href="https://github.com/bazelbuild/rules_docker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rules for building and handling Docker images with Bazel&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bazelbuild/rules_scala</title>
-    <updated>2022-06-01T02:22:53Z</updated>
-    <id>tag:github.com,2022-06-01:/bazelbuild/rules_scala</id>
-    <link href="https://github.com/bazelbuild/rules_scala" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Scala rules for Bazel&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>GoogleContainerTools/distroless</title>
-    <updated>2022-06-01T02:22:53Z</updated>
-    <id>tag:github.com,2022-06-01:/GoogleContainerTools/distroless</id>
-    <link href="https://github.com/GoogleContainerTools/distroless" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🥑 Language focused docker images, minus the operating system.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>coinbase/rules_ruby</title>
-    <updated>2022-06-01T02:22:53Z</updated>
-    <id>tag:github.com,2022-06-01:/coinbase/rules_ruby</id>
-    <link href="https://github.com/coinbase/rules_ruby" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bazel Ruby Rules&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tweag/rules_sh</title>
-    <updated>2022-06-01T02:22:53Z</updated>
-    <id>tag:github.com,2022-06-01:/tweag/rules_sh</id>
-    <link href="https://github.com/tweag/rules_sh" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Shell rules for Bazel&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>googleapis/api-common-protos</title>
-    <updated>2022-06-01T02:22:53Z</updated>
-    <id>tag:github.com,2022-06-01:/googleapis/api-common-protos</id>
-    <link href="https://github.com/googleapis/api-common-protos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A standard library for use in specifying protocol buffer APIs.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>soniaai/rules_poetry</title>
-    <updated>2022-06-01T02:22:53Z</updated>
-    <id>tag:github.com,2022-06-01:/soniaai/rules_poetry</id>
-    <link href="https://github.com/soniaai/rules_poetry" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bazel rules that use Poetry for Python package management&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tweag/rules_haskell</title>
-    <updated>2022-06-01T02:22:53Z</updated>
-    <id>tag:github.com,2022-06-01:/tweag/rules_haskell</id>
-    <link href="https://github.com/tweag/rules_haskell" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Haskell rules for Bazel.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>znly/rules_gomobile</title>
-    <updated>2022-06-01T02:22:53Z</updated>
-    <id>tag:github.com,2022-06-01:/znly/rules_gomobile</id>
-    <link href="https://github.com/znly/rules_gomobile" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;gomobile bind rules for Bazel&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>googleapis/googleapis</title>
-    <updated>2022-06-01T02:22:53Z</updated>
-    <id>tag:github.com,2022-06-01:/googleapis/googleapis</id>
-    <link href="https://github.com/googleapis/googleapis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Public interface definitions of Google APIs.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bazelbuild/rules_python</title>
-    <updated>2022-06-01T02:22:53Z</updated>
-    <id>tag:github.com,2022-06-01:/bazelbuild/rules_python</id>
-    <link href="https://github.com/bazelbuild/rules_python" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bazel Python Rules&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bazelbuild/rules_rust</title>
-    <updated>2022-06-01T02:22:53Z</updated>
-    <id>tag:github.com,2022-06-01:/bazelbuild/rules_rust</id>
-    <link href="https://github.com/bazelbuild/rules_rust" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rust rules for Bazel&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bazelbuild/examples</title>
-    <updated>2022-06-01T02:22:53Z</updated>
-    <id>tag:github.com,2022-06-01:/bazelbuild/examples</id>
-    <link href="https://github.com/bazelbuild/examples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Examples for Bazel&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bazelbuild/rules_proto</title>
-    <updated>2022-06-01T02:22:53Z</updated>
-    <id>tag:github.com,2022-06-01:/bazelbuild/rules_proto</id>
-    <link href="https://github.com/bazelbuild/rules_proto" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Protocol buffer rules for Bazel&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>grailbio/bazel-compilation-database</title>
-    <updated>2022-06-01T02:22:53Z</updated>
-    <id>tag:github.com,2022-06-01:/grailbio/bazel-compilation-database</id>
-    <link href="https://github.com/grailbio/bazel-compilation-database" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tool to generate compile_commands.json from the Bazel build system&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ash2k/bazel-tools</title>
-    <updated>2022-06-01T02:22:53Z</updated>
-    <id>tag:github.com,2022-06-01:/ash2k/bazel-tools</id>
-    <link href="https://github.com/ash2k/bazel-tools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Reusable bits for Bazel&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>vaticle/bazel-distribution</title>
-    <updated>2022-06-01T02:22:53Z</updated>
-    <id>tag:github.com,2022-06-01:/vaticle/bazel-distribution</id>
-    <link href="https://github.com/vaticle/bazel-distribution" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bazel rules for assembling and deploying software distributions (see @vaticle for usage example)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>grpc/grpc-proto</title>
-    <updated>2022-06-01T02:22:53Z</updated>
-    <id>tag:github.com,2022-06-01:/grpc/grpc-proto</id>
-    <link href="https://github.com/grpc/grpc-proto" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bazelbuild/bazel-skylib</title>
-    <updated>2022-06-01T02:22:53Z</updated>
-    <id>tag:github.com,2022-06-01:/bazelbuild/bazel-skylib</id>
-    <link href="https://github.com/bazelbuild/bazel-skylib" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Common useful functions and rules for Bazel&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bazelbuild/starlark</title>
+    <updated>2022-06-02T02:25:11Z</updated>
+    <id>tag:github.com,2022-06-02:/bazelbuild/starlark</id>
+    <link href="https://github.com/bazelbuild/starlark" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Starlark Language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

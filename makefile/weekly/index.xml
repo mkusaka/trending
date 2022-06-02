@@ -1,182 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:14:33Z</updated>
+  <updated>2022-06-02T02:16:33Z</updated>
   <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>golang-standards/project-layout</title>
-    <updated>2022-06-01T02:14:33Z</updated>
-    <id>tag:github.com,2022-06-01:/golang-standards/project-layout</id>
-    <link href="https://github.com/golang-standards/project-layout" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Standard Go Project Layout&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Clever/csvlint</title>
+    <updated>2022-06-02T02:16:33Z</updated>
+    <id>tag:github.com,2022-06-02:/Clever/csvlint</id>
+    <link href="https://github.com/Clever/csvlint" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;library and command line tool that validates a CSV file&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rabbitmq/rabbitmq-server</title>
-    <updated>2022-06-01T02:14:33Z</updated>
-    <id>tag:github.com,2022-06-01:/rabbitmq/rabbitmq-server</id>
-    <link href="https://github.com/rabbitmq/rabbitmq-server" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open source RabbitMQ: core server and tier 1 (built-in) plugins&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>inaka/elvis.mk</title>
+    <updated>2022-06-02T02:16:33Z</updated>
+    <id>tag:github.com,2022-06-02:/inaka/elvis.mk</id>
+    <link href="https://github.com/inaka/elvis.mk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;3rd party elrang.mk plug-in for Elvis&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>openwrt/packages</title>
-    <updated>2022-06-01T02:14:33Z</updated>
-    <id>tag:github.com,2022-06-01:/openwrt/packages</id>
-    <link href="https://github.com/openwrt/packages" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Ewenwan/Ros</title>
+    <updated>2022-06-02T02:16:33Z</updated>
+    <id>tag:github.com,2022-06-02:/Ewenwan/Ros</id>
+    <link href="https://github.com/Ewenwan/Ros" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;机器人操作系统ROS 语音识别 语义理解 视觉控制 gazebo仿真 雷达建图导航&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>zh-google-styleguide/zh-google-styleguide</title>
-    <updated>2022-06-01T02:14:33Z</updated>
-    <id>tag:github.com,2022-06-01:/zh-google-styleguide/zh-google-styleguide</id>
-    <link href="https://github.com/zh-google-styleguide/zh-google-styleguide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Google 开源项目风格指南 (中文版)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>open-telemetry/opentelemetry-proto</title>
+    <updated>2022-06-02T02:16:33Z</updated>
+    <id>tag:github.com,2022-06-02:/open-telemetry/opentelemetry-proto</id>
+    <link href="https://github.com/open-telemetry/opentelemetry-proto" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Protobuf definitions for the OpenTelemetry protocol (OTLP)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>open-telemetry/opentelemetry-specification</title>
-    <updated>2022-06-01T02:14:33Z</updated>
-    <id>tag:github.com,2022-06-01:/open-telemetry/opentelemetry-specification</id>
-    <link href="https://github.com/open-telemetry/opentelemetry-specification" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Specifications for OpenTelemetry&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>confluentinc/demos-docker-common</title>
-    <updated>2022-06-01T02:14:33Z</updated>
-    <id>tag:github.com,2022-06-01:/confluentinc/demos-docker-common</id>
-    <link href="https://github.com/confluentinc/demos-docker-common" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SiftScience/sift-ios</title>
-    <updated>2022-06-01T02:14:33Z</updated>
-    <id>tag:github.com,2022-06-01:/SiftScience/sift-ios</id>
-    <link href="https://github.com/SiftScience/sift-ios" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sift iOS SDK&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>waveaccounting/terraform-aws-chatbot-slack-configuration</title>
-    <updated>2022-06-01T02:14:33Z</updated>
-    <id>tag:github.com,2022-06-01:/waveaccounting/terraform-aws-chatbot-slack-configuration</id>
-    <link href="https://github.com/waveaccounting/terraform-aws-chatbot-slack-configuration" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Module to enable Chatbot Slack channel configuration in Terraform&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mesosphere/kommander-applications</title>
-    <updated>2022-06-01T02:14:33Z</updated>
-    <id>tag:github.com,2022-06-01:/mesosphere/kommander-applications</id>
-    <link href="https://github.com/mesosphere/kommander-applications" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sharanda/manrope</title>
-    <updated>2022-06-01T02:14:33Z</updated>
-    <id>tag:github.com,2022-06-01:/sharanda/manrope</id>
-    <link href="https://github.com/sharanda/manrope" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Manrope font – modern geometric sans-serif&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>theos/theos</title>
-    <updated>2022-06-01T02:14:33Z</updated>
-    <id>tag:github.com,2022-06-01:/theos/theos</id>
-    <link href="https://github.com/theos/theos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A cross-platform suite of tools for building and deploying software for iOS and other platforms.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>fiatjaf/lnurl-rfc</title>
-    <updated>2022-06-01T02:14:33Z</updated>
-    <id>tag:github.com,2022-06-01:/fiatjaf/lnurl-rfc</id>
-    <link href="https://github.com/fiatjaf/lnurl-rfc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;lnurl specifications&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Clever/go-process-metrics</title>
-    <updated>2022-06-01T02:14:33Z</updated>
-    <id>tag:github.com,2022-06-01:/Clever/go-process-metrics</id>
-    <link href="https://github.com/Clever/go-process-metrics" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A library for tracking golang process metrics&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>openshift/build-machinery-go</title>
-    <updated>2022-06-01T02:14:33Z</updated>
-    <id>tag:github.com,2022-06-01:/openshift/build-machinery-go</id>
-    <link href="https://github.com/openshift/build-machinery-go" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Shared location for Makefiles, helper scripts, and other common build machinery&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>prometheus/client_model</title>
-    <updated>2022-06-01T02:14:33Z</updated>
-    <id>tag:github.com,2022-06-01:/prometheus/client_model</id>
-    <link href="https://github.com/prometheus/client_model" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Data model artifacts for Prometheus.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Naereen/badges</title>
-    <updated>2022-06-01T02:14:33Z</updated>
-    <id>tag:github.com,2022-06-01:/Naereen/badges</id>
-    <link href="https://github.com/Naereen/badges" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📝 Markdown code for lots of small badges 🎀 📌 (shields.io, forthebadge.com etc) 😎. Contributions are welcome! Please add yours!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>thockin/go-build-template</title>
-    <updated>2022-06-01T02:14:33Z</updated>
-    <id>tag:github.com,2022-06-01:/thockin/go-build-template</id>
-    <link href="https://github.com/thockin/go-build-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Makefile/Dockerfile example for Go projects.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>uber/go.uber.org</title>
-    <updated>2022-06-01T02:14:33Z</updated>
-    <id>tag:github.com,2022-06-01:/uber/go.uber.org</id>
-    <link href="https://github.com/uber/go.uber.org" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Golang https://go.uber.org custom import path&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>LibreELEC/LibreELEC.tv</title>
-    <updated>2022-06-01T02:14:33Z</updated>
-    <id>tag:github.com,2022-06-01:/LibreELEC/LibreELEC.tv</id>
-    <link href="https://github.com/LibreELEC/LibreELEC.tv" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Just enough OS for KODI&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mkubecek/vmware-host-modules</title>
-    <updated>2022-06-01T02:14:33Z</updated>
-    <id>tag:github.com,2022-06-01:/mkubecek/vmware-host-modules</id>
-    <link href="https://github.com/mkubecek/vmware-host-modules" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Patches needed to build VMware (Player and Workstation) host modules against recent kernels&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hyper-type/hahmlet</title>
-    <updated>2022-06-01T02:14:33Z</updated>
-    <id>tag:github.com,2022-06-01:/hyper-type/hahmlet</id>
-    <link href="https://github.com/hyper-type/hahmlet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hahmlet font by Minjoo Ham and Mark Frömberg aka Hypertype&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Clever/discovery-go</title>
-    <updated>2022-06-01T02:14:33Z</updated>
-    <id>tag:github.com,2022-06-01:/Clever/discovery-go</id>
-    <link href="https://github.com/Clever/discovery-go" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Programmatically find services&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>buildroot/buildroot</title>
-    <updated>2022-06-01T02:14:33Z</updated>
-    <id>tag:github.com,2022-06-01:/buildroot/buildroot</id>
-    <link href="https://github.com/buildroot/buildroot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at http://git.buildroot.net/buildroot/. Do not open issues or file pull requests here.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>temporalio/api</title>
-    <updated>2022-06-01T02:14:33Z</updated>
-    <id>tag:github.com,2022-06-01:/temporalio/api</id>
-    <link href="https://github.com/temporalio/api" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Temporal gRPC API and proto files&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kubernetes/design-proposals-archive</title>
-    <updated>2022-06-01T02:14:33Z</updated>
-    <id>tag:github.com,2022-06-01:/kubernetes/design-proposals-archive</id>
-    <link href="https://github.com/kubernetes/design-proposals-archive" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Archive of Kubernetes Design Proposals&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>open-telemetry/opentelemetry-proto-go</title>
+    <updated>2022-06-02T02:16:33Z</updated>
+    <id>tag:github.com,2022-06-02:/open-telemetry/opentelemetry-proto-go</id>
+    <link href="https://github.com/open-telemetry/opentelemetry-proto-go" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Generated code for OpenTelemetry protobuf data model&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

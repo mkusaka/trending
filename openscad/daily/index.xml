@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OpenSCAD Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T01:49:16Z</updated>
+  <updated>2022-06-02T01:50:11Z</updated>
   <subtitle>Daily Trending of OpenSCAD in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>maduce/fosscad-repo</title>
-    <updated>2022-06-01T01:49:16Z</updated>
-    <id>tag:github.com,2022-06-01:/maduce/fosscad-repo</id>
-    <link href="https://github.com/maduce/fosscad-repo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Official FOSSCAD Library Repository&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>prusa3d/Original-Prusa-i3</title>
-    <updated>2022-06-01T01:49:16Z</updated>
-    <id>tag:github.com,2022-06-01:/prusa3d/Original-Prusa-i3</id>
-    <link href="https://github.com/prusa3d/Original-Prusa-i3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Original Prusa i3 MK2 3D printer printed parts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>FrameworkComputer/Mainboard</title>
+    <updated>2022-06-02T01:50:11Z</updated>
+    <id>tag:github.com,2022-06-02:/FrameworkComputer/Mainboard</id>
+    <link href="https://github.com/FrameworkComputer/Mainboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Documentation for the Mainboard in the Framework Laptop&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

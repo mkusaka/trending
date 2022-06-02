@@ -1,35 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:03:38Z</updated>
+  <updated>2022-06-02T02:05:15Z</updated>
   <subtitle>Weekly Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Azure/ALZ-Bicep</title>
-    <updated>2022-06-01T02:03:38Z</updated>
-    <id>tag:github.com,2022-06-01:/Azure/ALZ-Bicep</id>
-    <link href="https://github.com/Azure/ALZ-Bicep" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository contains the Azure Landing Zones (ALZ) Bicep modules that help deliver and deploy the Azure Landing Zone conceptual architecture in a modular approach. https://aka.ms/alz/docs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Azure/data-management-zone</title>
+    <updated>2022-06-02T02:05:15Z</updated>
+    <id>tag:github.com,2022-06-02:/Azure/data-management-zone</id>
+    <link href="https://github.com/Azure/data-management-zone" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Template to deploy the Data Management Zone of the Data Management &amp; Analytics Scenario (former Enterprise-Scale Analytics). The Data Management Zone provides data governance and management capabilities for the data platform of an organization.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Azure/bicep</title>
-    <updated>2022-06-01T02:03:38Z</updated>
-    <id>tag:github.com,2022-06-01:/Azure/bicep</id>
-    <link href="https://github.com/Azure/bicep" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bicep is a declarative language for describing and deploying Azure resources&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Azure/ResourceModules</title>
-    <updated>2022-06-01T02:03:38Z</updated>
-    <id>tag:github.com,2022-06-01:/Azure/ResourceModules</id>
-    <link href="https://github.com/Azure/ResourceModules" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository includes a CI platform for and collection of mature and curated Bicep modules. The platform supports both ARM and Bicep and can be leveraged using GitHub actions as well as Azure DevOps pipelines.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Azure/Enterprise-Scale</title>
-    <updated>2022-06-01T02:03:38Z</updated>
-    <id>tag:github.com,2022-06-01:/Azure/Enterprise-Scale</id>
-    <link href="https://github.com/Azure/Enterprise-Scale" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Enterprise-Scale architecture provides prescriptive guidance coupled with Azure best practices, and it follows design principles across the critical design areas for organizations to define their Azure architecture&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mspnp/aks-baseline</title>
+    <updated>2022-06-02T02:05:15Z</updated>
+    <id>tag:github.com,2022-06-02:/mspnp/aks-baseline</id>
+    <link href="https://github.com/mspnp/aks-baseline" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is the Azure Kubernetes Service (AKS) Baseline Cluster reference implementation as produced by the Microsoft Azure Architecture Center.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

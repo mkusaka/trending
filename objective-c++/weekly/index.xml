@@ -1,49 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C++ Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:16:43Z</updated>
+  <updated>2022-06-02T02:18:47Z</updated>
   <subtitle>Weekly Trending of Objective-C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gree/unity-webview</title>
-    <updated>2022-06-01T02:16:43Z</updated>
-    <id>tag:github.com,2022-06-01:/gree/unity-webview</id>
-    <link href="https://github.com/gree/unity-webview" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>textmate/textmate</title>
+    <updated>2022-06-02T02:18:47Z</updated>
+    <id>tag:github.com,2022-06-02:/textmate/textmate</id>
+    <link href="https://github.com/textmate/textmate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TextMate is a graphical text editor for macOS 10.12 or later&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>TextureGroup/Texture</title>
-    <updated>2022-06-01T02:16:43Z</updated>
-    <id>tag:github.com,2022-06-01:/TextureGroup/Texture</id>
-    <link href="https://github.com/TextureGroup/Texture" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Smooth asynchronous user interfaces for iOS apps.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pocketsvg/PocketSVG</title>
-    <updated>2022-06-01T02:16:43Z</updated>
-    <id>tag:github.com,2022-06-01:/pocketsvg/PocketSVG</id>
-    <link href="https://github.com/pocketsvg/PocketSVG" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Easily convert your SVG files into CGPaths, CAShapeLayers, and UIBezierPaths&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>phonegap/phonegap-plugin-barcodescanner</title>
-    <updated>2022-06-01T02:16:43Z</updated>
-    <id>tag:github.com,2022-06-01:/phonegap/phonegap-plugin-barcodescanner</id>
-    <link href="https://github.com/phonegap/phonegap-plugin-barcodescanner" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;cross-platform BarcodeScanner for Cordova / PhoneGap&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>shaqian/flutter_tflite</title>
-    <updated>2022-06-01T02:16:43Z</updated>
-    <id>tag:github.com,2022-06-01:/shaqian/flutter_tflite</id>
-    <link href="https://github.com/shaqian/flutter_tflite" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Flutter plugin for TensorFlow Lite&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>facebook/componentkit</title>
-    <updated>2022-06-01T02:16:43Z</updated>
-    <id>tag:github.com,2022-06-01:/facebook/componentkit</id>
-    <link href="https://github.com/facebook/componentkit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A React-inspired view framework for iOS.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>facebook/FBRetainCycleDetector</title>
+    <updated>2022-06-02T02:18:47Z</updated>
+    <id>tag:github.com,2022-06-02:/facebook/FBRetainCycleDetector</id>
+    <link href="https://github.com/facebook/FBRetainCycleDetector" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;iOS library to help detecting retain cycles in runtime.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

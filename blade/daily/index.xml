@@ -1,35 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Blade Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T01:35:34Z</updated>
+  <updated>2022-06-02T01:35:55Z</updated>
   <subtitle>Daily Trending of Blade in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>livewire/livewire</title>
-    <updated>2022-06-01T01:35:34Z</updated>
-    <id>tag:github.com,2022-06-01:/livewire/livewire</id>
-    <link href="https://github.com/livewire/livewire" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A full-stack framework for Laravel that takes the pain out of building dynamic UIs.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hrshadhin/school-management-system</title>
-    <updated>2022-06-01T01:35:34Z</updated>
-    <id>tag:github.com,2022-06-01:/hrshadhin/school-management-system</id>
-    <link href="https://github.com/hrshadhin/school-management-system" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Another School Management System&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lsky-org/lsky-pro</title>
-    <updated>2022-06-01T01:35:34Z</updated>
-    <id>tag:github.com,2022-06-01:/lsky-org/lsky-pro</id>
-    <link href="https://github.com/lsky-org/lsky-pro" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;☁️兰空图床(Lsky Pro) - Your photo album on the cloud.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>laravel/laravel.com</title>
-    <updated>2022-06-01T01:35:34Z</updated>
-    <id>tag:github.com,2022-06-01:/laravel/laravel.com</id>
-    <link href="https://github.com/laravel/laravel.com" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The source code of the official Laravel website.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mkocansey/bladewind</title>
+    <updated>2022-06-02T01:35:55Z</updated>
+    <id>tag:github.com,2022-06-02:/mkocansey/bladewind</id>
+    <link href="https://github.com/mkocansey/bladewind" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Super simple but elegant Laravel blade-based UI components using TailwindCSS and vanilla Javascript&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

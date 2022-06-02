@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ASL Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:30:24Z</updated>
+  <updated>2022-06-02T02:32:39Z</updated>
   <subtitle>Monthly Trending of ASL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dortania/Getting-Started-With-ACPI</title>
-    <updated>2022-06-01T02:30:24Z</updated>
-    <id>tag:github.com,2022-06-01:/dortania/Getting-Started-With-ACPI</id>
-    <link href="https://github.com/dortania/Getting-Started-With-ACPI" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repo for Getting Started With ACPI&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

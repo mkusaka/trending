@@ -1,182 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T01:52:59Z</updated>
+  <updated>2022-06-02T01:54:02Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>neondatabase/neon</title>
-    <updated>2022-06-01T01:52:59Z</updated>
-    <id>tag:github.com,2022-06-01:/neondatabase/neon</id>
-    <link href="https://github.com/neondatabase/neon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The serverless open source alternative to AWS Aurora Postgres.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>subspace/subspace</title>
+    <updated>2022-06-02T01:54:02Z</updated>
+    <id>tag:github.com,2022-06-02:/subspace/subspace</id>
+    <link href="https://github.com/subspace/subspace" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Subspace Network reference implementation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>helix-editor/helix</title>
-    <updated>2022-06-01T01:52:59Z</updated>
-    <id>tag:github.com,2022-06-01:/helix-editor/helix</id>
-    <link href="https://github.com/helix-editor/helix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A post-modern modal text editor.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>influxdata/influxdb_iox</title>
+    <updated>2022-06-02T01:54:02Z</updated>
+    <id>tag:github.com,2022-06-02:/influxdata/influxdb_iox</id>
+    <link href="https://github.com/influxdata/influxdb_iox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pronounced (influxdb eye-ox), short for iron oxide. This is the new core of InfluxDB written in Rust on top of Apache Arrow.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>solana-labs/solana-program-library</title>
-    <updated>2022-06-01T01:52:59Z</updated>
-    <id>tag:github.com,2022-06-01:/solana-labs/solana-program-library</id>
-    <link href="https://github.com/solana-labs/solana-program-library" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of Solana-maintained on-chain programs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cube-js/cube.js</title>
+    <updated>2022-06-02T01:54:02Z</updated>
+    <id>tag:github.com,2022-06-02:/cube-js/cube.js</id>
+    <link href="https://github.com/cube-js/cube.js" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📊 Cube — Headless Business Intelligence for Building Data Applications&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>MarginResearch/cannoli</title>
-    <updated>2022-06-01T01:52:59Z</updated>
-    <id>tag:github.com,2022-06-01:/MarginResearch/cannoli</id>
-    <link href="https://github.com/MarginResearch/cannoli" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;High-performance QEMU memory and instruction tracing&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rust-lang/cargo</title>
+    <updated>2022-06-02T01:54:02Z</updated>
+    <id>tag:github.com,2022-06-02:/rust-lang/cargo</id>
+    <link href="https://github.com/rust-lang/cargo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Rust package manager&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rust-unofficial/awesome-rust</title>
-    <updated>2022-06-01T01:52:59Z</updated>
-    <id>tag:github.com,2022-06-01:/rust-unofficial/awesome-rust</id>
-    <link href="https://github.com/rust-unofficial/awesome-rust" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of Rust code and resources.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bytecodealliance/wasmtime</title>
+    <updated>2022-06-02T01:54:02Z</updated>
+    <id>tag:github.com,2022-06-02:/bytecodealliance/wasmtime</id>
+    <link href="https://github.com/bytecodealliance/wasmtime" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Standalone JIT-style runtime for WebAssembly, using Cranelift&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>TheAlgorithms/Rust</title>
-    <updated>2022-06-01T01:52:59Z</updated>
-    <id>tag:github.com,2022-06-01:/TheAlgorithms/Rust</id>
-    <link href="https://github.com/TheAlgorithms/Rust" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;All Algorithms implemented in Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Geal/nom</title>
+    <updated>2022-06-02T01:54:02Z</updated>
+    <id>tag:github.com,2022-06-02:/Geal/nom</id>
+    <link href="https://github.com/Geal/nom" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rust parser combinator framework&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>launchbadge/sqlx</title>
-    <updated>2022-06-01T01:52:59Z</updated>
-    <id>tag:github.com,2022-06-01:/launchbadge/sqlx</id>
-    <link href="https://github.com/launchbadge/sqlx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>indygreg/PyOxidizer</title>
+    <updated>2022-06-02T01:54:02Z</updated>
+    <id>tag:github.com,2022-06-02:/indygreg/PyOxidizer</id>
+    <link href="https://github.com/indygreg/PyOxidizer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A modern Python application packaging and distribution tool&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>shadowsocks/shadowsocks-rust</title>
-    <updated>2022-06-01T01:52:59Z</updated>
-    <id>tag:github.com,2022-06-01:/shadowsocks/shadowsocks-rust</id>
-    <link href="https://github.com/shadowsocks/shadowsocks-rust" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Rust port of shadowsocks&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rayon-rs/rayon</title>
+    <updated>2022-06-02T01:54:02Z</updated>
+    <id>tag:github.com,2022-06-02:/rayon-rs/rayon</id>
+    <link href="https://github.com/rayon-rs/rayon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rayon: A data parallelism library for Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>gamozolabs/mempeek</title>
-    <updated>2022-06-01T01:52:59Z</updated>
-    <id>tag:github.com,2022-06-01:/gamozolabs/mempeek</id>
-    <link href="https://github.com/gamozolabs/mempeek" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A command line tool that resembles a debugger as well as Cheat Engine, to search for values in memory&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Peltoche/lsd</title>
+    <updated>2022-06-02T01:54:02Z</updated>
+    <id>tag:github.com,2022-06-02:/Peltoche/lsd</id>
+    <link href="https://github.com/Peltoche/lsd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The next gen ls command&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>project-serum/anchor</title>
-    <updated>2022-06-01T01:52:59Z</updated>
-    <id>tag:github.com,2022-06-01:/project-serum/anchor</id>
-    <link href="https://github.com/project-serum/anchor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⚓ Solana Sealevel Framework&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vi/websocat</title>
+    <updated>2022-06-02T01:54:02Z</updated>
+    <id>tag:github.com,2022-06-02:/vi/websocat</id>
+    <link href="https://github.com/vi/websocat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>meilisearch/meilisearch</title>
-    <updated>2022-06-01T01:52:59Z</updated>
-    <id>tag:github.com,2022-06-01:/meilisearch/meilisearch</id>
-    <link href="https://github.com/meilisearch/meilisearch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Powerful, fast, and an easy to use search engine&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>extrawurst/gitui</title>
+    <updated>2022-06-02T01:54:02Z</updated>
+    <id>tag:github.com,2022-06-02:/extrawurst/gitui</id>
+    <link href="https://github.com/extrawurst/gitui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Blazing 💥 fast terminal-ui for git written in rust 🦀&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>alibaba/GaiaX</title>
-    <updated>2022-06-01T01:52:59Z</updated>
-    <id>tag:github.com,2022-06-01:/alibaba/GaiaX</id>
-    <link href="https://github.com/alibaba/GaiaX" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GaiaX dynamic template engine is a lightweight cross-platform solution of pure native dynamic card.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>linebender/druid</title>
+    <updated>2022-06-02T01:54:02Z</updated>
+    <id>tag:github.com,2022-06-02:/linebender/druid</id>
+    <link href="https://github.com/linebender/druid" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A data-first Rust-native UI design toolkit.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>foundry-rs/foundry</title>
-    <updated>2022-06-01T01:52:59Z</updated>
-    <id>tag:github.com,2022-06-01:/foundry-rs/foundry</id>
-    <link href="https://github.com/foundry-rs/foundry" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>near-examples/FT</title>
+    <updated>2022-06-02T01:54:02Z</updated>
+    <id>tag:github.com,2022-06-02:/near-examples/FT</id>
+    <link href="https://github.com/near-examples/FT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Example implementations of money-like tokens, where one token is the same as any other, using the NEP-141 spec (similar to ERC-20)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rustwasm/wasm-bindgen</title>
-    <updated>2022-06-01T01:52:59Z</updated>
-    <id>tag:github.com,2022-06-01:/rustwasm/wasm-bindgen</id>
-    <link href="https://github.com/rustwasm/wasm-bindgen" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Facilitating high-level interactions between Wasm modules and JavaScript&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sigp/lighthouse</title>
-    <updated>2022-06-01T01:52:59Z</updated>
-    <id>tag:github.com,2022-06-01:/sigp/lighthouse</id>
-    <link href="https://github.com/sigp/lighthouse" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ethereum consensus client in Rust&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tokio-rs/axum</title>
-    <updated>2022-06-01T01:52:59Z</updated>
-    <id>tag:github.com,2022-06-01:/tokio-rs/axum</id>
-    <link href="https://github.com/tokio-rs/axum" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ergonomic and modular web framework built with Tokio, Tower, and Hyper&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tauri-apps/tauri</title>
-    <updated>2022-06-01T01:52:59Z</updated>
-    <id>tag:github.com,2022-06-01:/tauri-apps/tauri</id>
-    <link href="https://github.com/tauri-apps/tauri" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Build smaller, faster, and more secure desktop applications with a web frontend.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>not-fl3/macroquad</title>
-    <updated>2022-06-01T01:52:59Z</updated>
-    <id>tag:github.com,2022-06-01:/not-fl3/macroquad</id>
-    <link href="https://github.com/not-fl3/macroquad" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cross-platform game engine in Rust.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>paritytech/substrate</title>
-    <updated>2022-06-01T01:52:59Z</updated>
-    <id>tag:github.com,2022-06-01:/paritytech/substrate</id>
-    <link href="https://github.com/paritytech/substrate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Substrate: The platform for blockchain innovators&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>emilk/egui</title>
-    <updated>2022-06-01T01:52:59Z</updated>
-    <id>tag:github.com,2022-06-01:/emilk/egui</id>
-    <link href="https://github.com/emilk/egui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kitao/pyxel</title>
-    <updated>2022-06-01T01:52:59Z</updated>
-    <id>tag:github.com,2022-06-01:/kitao/pyxel</id>
-    <link href="https://github.com/kitao/pyxel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A retro game engine for Python&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>quickwit-oss/tantivy</title>
-    <updated>2022-06-01T01:52:59Z</updated>
-    <id>tag:github.com,2022-06-01:/quickwit-oss/tantivy</id>
-    <link href="https://github.com/quickwit-oss/tantivy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>AppFlowy-IO/AppFlowy</title>
-    <updated>2022-06-01T01:52:59Z</updated>
-    <id>tag:github.com,2022-06-01:/AppFlowy-IO/AppFlowy</id>
-    <link href="https://github.com/AppFlowy-IO/AppFlowy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>solana-labs/solana</title>
-    <updated>2022-06-01T01:52:59Z</updated>
-    <id>tag:github.com,2022-06-01:/solana-labs/solana</id>
-    <link href="https://github.com/solana-labs/solana" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>datafuselabs/databend</title>
-    <updated>2022-06-01T01:52:59Z</updated>
-    <id>tag:github.com,2022-06-01:/datafuselabs/databend</id>
-    <link href="https://github.com/datafuselabs/databend" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics. https://app.databend.com/&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fdehau/tui-rs</title>
+    <updated>2022-06-02T01:54:02Z</updated>
+    <id>tag:github.com,2022-06-02:/fdehau/tui-rs</id>
+    <link href="https://github.com/fdehau/tui-rs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Build terminal user interfaces and dashboards using Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

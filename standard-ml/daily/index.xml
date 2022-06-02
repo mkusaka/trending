@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Standard ML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T01:54:43Z</updated>
+  <updated>2022-06-02T01:56:09Z</updated>
   <subtitle>Daily Trending of Standard ML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>BohemiaInteractive/Arma-Reforger-Samples</title>
-    <updated>2022-06-01T01:54:43Z</updated>
-    <id>tag:github.com,2022-06-01:/BohemiaInteractive/Arma-Reforger-Samples</id>
-    <link href="https://github.com/BohemiaInteractive/Arma-Reforger-Samples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Modding Samples&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mdsol/mauth-protocol-test-suite</title>
-    <updated>2022-06-01T01:54:43Z</updated>
-    <id>tag:github.com,2022-06-01:/mdsol/mauth-protocol-test-suite</id>
-    <link href="https://github.com/mdsol/mauth-protocol-test-suite" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;mAuth Client Signing/Authentication Protocol Test Suite&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>GoldenCheetah/GoldenCheetah</title>
-    <updated>2022-06-01T01:54:43Z</updated>
-    <id>tag:github.com,2022-06-01:/GoldenCheetah/GoldenCheetah</id>
-    <link href="https://github.com/GoldenCheetah/GoldenCheetah" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Performance Software for Cyclists, Runners, Triathletes and Coaches&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>composer/getcomposer.org</title>
-    <updated>2022-06-01T01:54:43Z</updated>
-    <id>tag:github.com,2022-06-01:/composer/getcomposer.org</id>
-    <link href="https://github.com/composer/getcomposer.org" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;getcomposer.org sources&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

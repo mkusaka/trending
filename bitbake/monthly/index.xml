@@ -1,77 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub BitBake Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:31:22Z</updated>
+  <updated>2022-06-02T02:33:31Z</updated>
   <subtitle>Monthly Trending of BitBake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>aws4embeddedlinux/meta-aws</title>
-    <updated>2022-06-01T02:31:22Z</updated>
-    <id>tag:github.com,2022-06-01:/aws4embeddedlinux/meta-aws</id>
-    <link href="https://github.com/aws4embeddedlinux/meta-aws" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The metadata layer for baking AWS device software to Embedded Linux distributions built by the Yocto Project build system.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>openembedded/meta-openembedded</title>
-    <updated>2022-06-01T02:31:22Z</updated>
-    <id>tag:github.com,2022-06-01:/openembedded/meta-openembedded</id>
-    <link href="https://github.com/openembedded/meta-openembedded" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>LibertyGlobal/meta-virtualization</title>
-    <updated>2022-06-01T02:31:22Z</updated>
-    <id>tag:github.com,2022-06-01:/LibertyGlobal/meta-virtualization</id>
-    <link href="https://github.com/LibertyGlobal/meta-virtualization" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mirror of http://git.yoctoproject.org/cgit/cgit.cgi/meta-virtualization/&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>OSSystems/meta-gstreamer1.0</title>
-    <updated>2022-06-01T02:31:22Z</updated>
-    <id>tag:github.com,2022-06-01:/OSSystems/meta-gstreamer1.0</id>
-    <link href="https://github.com/OSSystems/meta-gstreamer1.0" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OpenEmbedded layer for GStreamer 1.0&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Freescale/meta-freescale-distro</title>
-    <updated>2022-06-01T02:31:22Z</updated>
-    <id>tag:github.com,2022-06-01:/Freescale/meta-freescale-distro</id>
-    <link href="https://github.com/Freescale/meta-freescale-distro" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OpenEmbedded/Yocto BSP layer for Freescale&#39;s ARM based platforms&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kraj/meta-clang</title>
-    <updated>2022-06-01T02:31:22Z</updated>
-    <id>tag:github.com,2022-06-01:/kraj/meta-clang</id>
-    <link href="https://github.com/kraj/meta-clang" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clang C/C++ cross compiler and runtime for OpenEmbedded/Yocto Project&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Freescale/meta-freescale</title>
-    <updated>2022-06-01T02:31:22Z</updated>
-    <id>tag:github.com,2022-06-01:/Freescale/meta-freescale</id>
-    <link href="https://github.com/Freescale/meta-freescale" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Layer containing NXP hardware support metadata&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>meta-qt5/meta-qt5</title>
-    <updated>2022-06-01T02:31:22Z</updated>
-    <id>tag:github.com,2022-06-01:/meta-qt5/meta-qt5</id>
-    <link href="https://github.com/meta-qt5/meta-qt5" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;QT5 layer for openembedded&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Freescale/meta-freescale-3rdparty</title>
-    <updated>2022-06-01T02:31:22Z</updated>
-    <id>tag:github.com,2022-06-01:/Freescale/meta-freescale-3rdparty</id>
-    <link href="https://github.com/Freescale/meta-freescale-3rdparty" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OpenEmbedded/Yocto BSP layer for Freescale&#39;s ARM based platforms&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Xilinx/meta-xilinx-tools</title>
-    <updated>2022-06-01T02:31:22Z</updated>
-    <id>tag:github.com,2022-06-01:/Xilinx/meta-xilinx-tools</id>
-    <link href="https://github.com/Xilinx/meta-xilinx-tools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lgirdk/meta-virtualization</title>
+    <updated>2022-06-02T02:33:31Z</updated>
+    <id>tag:github.com,2022-06-02:/lgirdk/meta-virtualization</id>
+    <link href="https://github.com/lgirdk/meta-virtualization" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;forked from git://git.yoctoproject.org/meta-virtualization&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

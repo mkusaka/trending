@@ -1,35 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T01:52:42Z</updated>
+  <updated>2022-06-02T01:53:44Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Creality3DPrinting/Ender-3</title>
-    <updated>2022-06-01T01:52:42Z</updated>
-    <id>tag:github.com,2022-06-01:/Creality3DPrinting/Ender-3</id>
-    <link href="https://github.com/Creality3DPrinting/Ender-3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Creality3D Ender-3, a fully Open Source 3D printer perfect for new users on a budget.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alextanhongpin/database-design</title>
+    <updated>2022-06-02T01:53:44Z</updated>
+    <id>tag:github.com,2022-06-02:/alextanhongpin/database-design</id>
+    <link href="https://github.com/alextanhongpin/database-design" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ideas on better database design&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pyenv/pyenv</title>
-    <updated>2022-06-01T01:52:42Z</updated>
-    <id>tag:github.com,2022-06-01:/pyenv/pyenv</id>
-    <link href="https://github.com/pyenv/pyenv" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple Python version management&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JonathanSalwan/VMProtect-devirtualization</title>
+    <updated>2022-06-02T01:53:44Z</updated>
+    <id>tag:github.com,2022-06-02:/JonathanSalwan/VMProtect-devirtualization</id>
+    <link href="https://github.com/JonathanSalwan/VMProtect-devirtualization" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>commonsense/conceptnet5</title>
-    <updated>2022-06-01T01:52:42Z</updated>
-    <id>tag:github.com,2022-06-01:/commonsense/conceptnet5</id>
-    <link href="https://github.com/commonsense/conceptnet5" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Code for building ConceptNet from raw data.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>oasislinux/oasis</title>
-    <updated>2022-06-01T01:52:42Z</updated>
-    <id>tag:github.com,2022-06-01:/oasislinux/oasis</id>
-    <link href="https://github.com/oasislinux/oasis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a small statically-linked linux system&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yous/YousList</title>
+    <updated>2022-06-02T01:53:44Z</updated>
+    <id>tag:github.com,2022-06-02:/yous/YousList</id>
+    <link href="https://github.com/yous/YousList" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Block filter for advertisements, mainly on Korean sites&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

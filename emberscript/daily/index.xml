@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EmberScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T01:39:49Z</updated>
+  <updated>2022-06-02T01:40:28Z</updated>
   <subtitle>Daily Trending of EmberScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>catkin/catkin_simple</title>
+    <updated>2022-06-02T01:40:28Z</updated>
+    <id>tag:github.com,2022-06-02:/catkin/catkin_simple</id>
+    <link href="https://github.com/catkin/catkin_simple" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;catkin, simpler&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zurich-eye/cmake_external_project_catkin</title>
+    <updated>2022-06-02T01:40:28Z</updated>
+    <id>tag:github.com,2022-06-02:/zurich-eye/cmake_external_project_catkin</id>
+    <link href="https://github.com/zurich-eye/cmake_external_project_catkin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;macros that help to make ExternalProject dependencies install and build correctly when used with catkin devel and install locations&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

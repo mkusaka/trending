@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fennel Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:36:31Z</updated>
+  <updated>2022-06-02T02:38:55Z</updated>
   <subtitle>Monthly Trending of Fennel in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ggandor/leap.nvim</title>
-    <updated>2022-06-01T02:36:31Z</updated>
-    <id>tag:github.com,2022-06-01:/ggandor/leap.nvim</id>
-    <link href="https://github.com/ggandor/leap.nvim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🦘 A motion plugin that lets you look before you leap&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ggandor/lightspeed.nvim</title>
-    <updated>2022-06-01T02:36:31Z</updated>
-    <id>tag:github.com,2022-06-01:/ggandor/lightspeed.nvim</id>
-    <link href="https://github.com/ggandor/lightspeed.nvim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal cognitive effort&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Olical/magic-kit</title>
+    <updated>2022-06-02T02:38:55Z</updated>
+    <id>tag:github.com,2022-06-02:/Olical/magic-kit</id>
+    <link href="https://github.com/Olical/magic-kit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A starter kit for Conjure, Aniseed and Neovim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

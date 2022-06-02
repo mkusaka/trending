@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PureBasic Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:47:28Z</updated>
+  <updated>2022-06-02T02:50:06Z</updated>
   <subtitle>Monthly Trending of PureBasic in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kahst/BirdNET-Analyzer</title>
-    <updated>2022-06-01T02:47:28Z</updated>
-    <id>tag:github.com,2022-06-01:/kahst/BirdNET-Analyzer</id>
-    <link href="https://github.com/kahst/BirdNET-Analyzer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;BirdNET analyzer for scientific audio data processing.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

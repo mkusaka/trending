@@ -1,133 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T01:37:17Z</updated>
+  <updated>2022-06-02T01:37:49Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>codecombat/codecombat</title>
-    <updated>2022-06-01T01:37:17Z</updated>
-    <id>tag:github.com,2022-06-01:/codecombat/codecombat</id>
-    <link href="https://github.com/codecombat/codecombat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Game for learning how to code.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>morrisjs/morris.js</title>
+    <updated>2022-06-02T01:37:49Z</updated>
+    <id>tag:github.com,2022-06-02:/morrisjs/morris.js</id>
+    <link href="https://github.com/morrisjs/morris.js" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pretty time-series line graphs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jashkenas/coffeescript</title>
-    <updated>2022-06-01T01:37:17Z</updated>
-    <id>tag:github.com,2022-06-01:/jashkenas/coffeescript</id>
-    <link href="https://github.com/jashkenas/coffeescript" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Unfancy JavaScript&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lukaszb/pypi</title>
+    <updated>2022-06-02T01:37:49Z</updated>
+    <id>tag:github.com,2022-06-02:/lukaszb/pypi</id>
+    <link href="https://github.com/lukaszb/pypi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Node client for Python Package Index&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>turbolinks/turbolinks-classic</title>
-    <updated>2022-06-01T01:37:17Z</updated>
-    <id>tag:github.com,2022-06-01:/turbolinks/turbolinks-classic</id>
-    <link href="https://github.com/turbolinks/turbolinks-classic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Classic version of Turbolinks. Now deprecated in favor of Turbolinks 5.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>adamgamble/jenkins_wall_display_webgl</title>
+    <updated>2022-06-02T01:37:49Z</updated>
+    <id>tag:github.com,2022-06-02:/adamgamble/jenkins_wall_display_webgl</id>
+    <link href="https://github.com/adamgamble/jenkins_wall_display_webgl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>basecamp/trix</title>
-    <updated>2022-06-01T01:37:17Z</updated>
-    <id>tag:github.com,2022-06-01:/basecamp/trix</id>
-    <link href="https://github.com/basecamp/trix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A rich text editor for everyday writing&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>basecamp/local_time</title>
+    <updated>2022-06-02T01:37:49Z</updated>
+    <id>tag:github.com,2022-06-02:/basecamp/local_time</id>
+    <link href="https://github.com/basecamp/local_time" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rails engine for cache-friendly, client-side local time&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pyalot/webgl-heatmap</title>
-    <updated>2022-06-01T01:37:17Z</updated>
-    <id>tag:github.com,2022-06-01:/pyalot/webgl-heatmap</id>
-    <link href="https://github.com/pyalot/webgl-heatmap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A high performance WebGL/JS heatmap display library&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mojs/mojs</title>
-    <updated>2022-06-01T01:37:17Z</updated>
-    <id>tag:github.com,2022-06-01:/mojs/mojs</id>
-    <link href="https://github.com/mojs/mojs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The motion graphics toolbelt for the web&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nicolaskruchten/pivottable</title>
-    <updated>2022-06-01T01:37:17Z</updated>
-    <id>tag:github.com,2022-06-01:/nicolaskruchten/pivottable</id>
-    <link href="https://github.com/nicolaskruchten/pivottable" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag&#39;n&#39;drop.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>node-cache/node-cache</title>
-    <updated>2022-06-01T01:37:17Z</updated>
-    <id>tag:github.com,2022-06-01:/node-cache/node-cache</id>
-    <link href="https://github.com/node-cache/node-cache" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a node internal (in-memory) caching module&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Leonidas-from-XIV/node-xml2js</title>
-    <updated>2022-06-01T01:37:17Z</updated>
-    <id>tag:github.com,2022-06-01:/Leonidas-from-XIV/node-xml2js</id>
-    <link href="https://github.com/Leonidas-from-XIV/node-xml2js" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;XML to JavaScript object converter.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>adaltas/node-csv</title>
-    <updated>2022-06-01T01:37:17Z</updated>
-    <id>tag:github.com,2022-06-01:/adaltas/node-csv</id>
-    <link href="https://github.com/adaltas/node-csv" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Full featured CSV parser with simple api and tested against large datasets.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>balena-os/balena-raspberrypi</title>
-    <updated>2022-06-01T01:37:17Z</updated>
-    <id>tag:github.com,2022-06-01:/balena-os/balena-raspberrypi</id>
-    <link href="https://github.com/balena-os/balena-raspberrypi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Balena support for RaspberryPI boards&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>s0ber/mock-async</title>
-    <updated>2022-06-01T01:37:17Z</updated>
-    <id>tag:github.com,2022-06-01:/s0ber/mock-async</id>
-    <link href="https://github.com/s0ber/mock-async" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple one-method library for mocking asynchronous methods&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>s0ber/ijax</title>
-    <updated>2022-06-01T01:37:17Z</updated>
-    <id>tag:github.com,2022-06-01:/s0ber/ijax</id>
-    <link href="https://github.com/s0ber/ijax" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Library for creating GET ajax requests via iframe&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>m9/hubot-basecamp-pomodoro</title>
-    <updated>2022-06-01T01:37:17Z</updated>
-    <id>tag:github.com,2022-06-01:/m9/hubot-basecamp-pomodoro</id>
-    <link href="https://github.com/m9/hubot-basecamp-pomodoro" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Basecamp and Pomodoro integration for Github Hubot&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>egtann/sidebar</title>
-    <updated>2022-06-01T01:37:17Z</updated>
-    <id>tag:github.com,2022-06-01:/egtann/sidebar</id>
-    <link href="https://github.com/egtann/sidebar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A free and interactive sidebar made with CSS and CoffeeScript&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>michaelficarra/CoffeeScriptRedux</title>
-    <updated>2022-06-01T01:37:17Z</updated>
-    <id>tag:github.com,2022-06-01:/michaelficarra/CoffeeScriptRedux</id>
-    <link href="https://github.com/michaelficarra/CoffeeScriptRedux" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;😓 rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dropbox/zxcvbn</title>
-    <updated>2022-06-01T01:37:17Z</updated>
-    <id>tag:github.com,2022-06-01:/dropbox/zxcvbn</id>
-    <link href="https://github.com/dropbox/zxcvbn" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Low-Budget Password Strength Estimation&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>antho1404/chat.js</title>
-    <updated>2022-06-01T01:37:17Z</updated>
-    <id>tag:github.com,2022-06-01:/antho1404/chat.js</id>
-    <link href="https://github.com/antho1404/chat.js" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A node.js chat&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fbsamples/graph-api-webhooks-samples</title>
+    <updated>2022-06-02T01:37:49Z</updated>
+    <id>tag:github.com,2022-06-02:/fbsamples/graph-api-webhooks-samples</id>
+    <link href="https://github.com/fbsamples/graph-api-webhooks-samples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;These are sample clients for Facebook&#39;s Graph API Webhooks and Instagram&#39;s Real-time Photo Updates API.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

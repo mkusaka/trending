@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Liquid Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:13:51Z</updated>
+  <updated>2022-06-02T02:15:50Z</updated>
   <subtitle>Weekly Trending of Liquid in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Shopify/dawn</title>
-    <updated>2022-06-01T02:13:51Z</updated>
-    <id>tag:github.com,2022-06-01:/Shopify/dawn</id>
-    <link href="https://github.com/Shopify/dawn" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Shopify&#39;s first source available reference theme, with Online Store 2.0 features and performance built-in.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sylhare/Type-on-Strap</title>
-    <updated>2022-06-01T02:13:51Z</updated>
-    <id>tag:github.com,2022-06-01:/sylhare/Type-on-Strap</id>
-    <link href="https://github.com/sylhare/Type-on-Strap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎨 Simplistic, responsive jekyll based open source theme&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

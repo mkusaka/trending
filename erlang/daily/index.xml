@@ -1,182 +1,133 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T01:40:20Z</updated>
+  <updated>2022-06-02T01:40:55Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>erlang/otp</title>
-    <updated>2022-06-01T01:40:20Z</updated>
-    <id>tag:github.com,2022-06-01:/erlang/otp</id>
-    <link href="https://github.com/erlang/otp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Erlang/OTP&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ninenines/cowboy</title>
+    <updated>2022-06-02T01:40:55Z</updated>
+    <id>tag:github.com,2022-06-02:/ninenines/cowboy</id>
+    <link href="https://github.com/ninenines/cowboy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Small, fast, modern HTTP server for Erlang/OTP.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>seth/ej</title>
-    <updated>2022-06-01T01:40:20Z</updated>
-    <id>tag:github.com,2022-06-01:/seth/ej</id>
-    <link href="https://github.com/seth/ej" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helper module for working with Erlang terms representing JSON&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>benoitc/hackney</title>
+    <updated>2022-06-02T01:40:55Z</updated>
+    <id>tag:github.com,2022-06-02:/benoitc/hackney</id>
+    <link href="https://github.com/benoitc/hackney" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;simple HTTP client in Erlang&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>uwiger/parse_trans</title>
-    <updated>2022-06-01T01:40:20Z</updated>
-    <id>tag:github.com,2022-06-01:/uwiger/parse_trans</id>
-    <link href="https://github.com/uwiger/parse_trans" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Parse transform utilities for Erlang&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rebar/rebar</title>
+    <updated>2022-06-02T01:40:55Z</updated>
+    <id>tag:github.com,2022-06-02:/rebar/rebar</id>
+    <link href="https://github.com/rebar/rebar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Deprecated Erlang build tool that makes it easy to compile and test Erlang applications, port drivers and releases. We encourage you to move to https://github.com/erlang/rebar3.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>erlcloud/erlcloud</title>
-    <updated>2022-06-01T01:40:20Z</updated>
-    <id>tag:github.com,2022-06-01:/erlcloud/erlcloud</id>
-    <link href="https://github.com/erlcloud/erlcloud" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AWS APIs library for Erlang (Amazon EC2, S3, SQS, DDB, ELB and etc)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>goj/base16</title>
+    <updated>2022-06-02T01:40:55Z</updated>
+    <id>tag:github.com,2022-06-02:/goj/base16</id>
+    <link href="https://github.com/goj/base16" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The last time I hexadecimify Erlang binaries...&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cmullaparthi/ibrowse</title>
-    <updated>2022-06-01T01:40:20Z</updated>
-    <id>tag:github.com,2022-06-01:/cmullaparthi/ibrowse</id>
-    <link href="https://github.com/cmullaparthi/ibrowse" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Erlang HTTP client&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>deadtrickster/ssl_verify_fun.erl</title>
+    <updated>2022-06-02T01:40:55Z</updated>
+    <id>tag:github.com,2022-06-02:/deadtrickster/ssl_verify_fun.erl</id>
+    <link href="https://github.com/deadtrickster/ssl_verify_fun.erl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of ssl verification functions for Erlang&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>covertool/covertool</title>
-    <updated>2022-06-01T01:40:20Z</updated>
-    <id>tag:github.com,2022-06-01:/covertool/covertool</id>
-    <link href="https://github.com/covertool/covertool" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tool to convert Erlang cover data files into Cobertura XML reports&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>benoitc/mimerl</title>
+    <updated>2022-06-02T01:40:55Z</updated>
+    <id>tag:github.com,2022-06-02:/benoitc/mimerl</id>
+    <link href="https://github.com/benoitc/mimerl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;library to handle mimetypes&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kivra/jsonformat</title>
-    <updated>2022-06-01T01:40:20Z</updated>
-    <id>tag:github.com,2022-06-01:/kivra/jsonformat</id>
-    <link href="https://github.com/kivra/jsonformat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Erlang Logger Json Formatter - Structured Logging of Maps to JSON&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>devinus/poolboy</title>
+    <updated>2022-06-02T01:40:55Z</updated>
+    <id>tag:github.com,2022-06-02:/devinus/poolboy</id>
+    <link href="https://github.com/devinus/poolboy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A hunky Erlang worker pool factory&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sumup/hj_rebar3_plugin</title>
-    <updated>2022-06-01T01:40:20Z</updated>
-    <id>tag:github.com,2022-06-01:/sumup/hj_rebar3_plugin</id>
-    <link href="https://github.com/sumup/hj_rebar3_plugin" rel="alternate"></link>
+    <title>erlcloud/eini</title>
+    <updated>2022-06-02T01:40:55Z</updated>
+    <id>tag:github.com,2022-06-02:/erlcloud/eini</id>
+    <link href="https://github.com/erlcloud/eini" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Erlang INI parser&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>boundary/bear</title>
+    <updated>2022-06-02T01:40:55Z</updated>
+    <id>tag:github.com,2022-06-02:/boundary/bear</id>
+    <link href="https://github.com/boundary/bear" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a set of statistics functions for erlang&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>couchbase/couchdb</title>
+    <updated>2022-06-02T01:40:55Z</updated>
+    <id>tag:github.com,2022-06-02:/couchbase/couchdb</id>
+    <link href="https://github.com/couchbase/couchdb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CouchDB&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rabbitmq/osiris</title>
+    <updated>2022-06-02T01:40:55Z</updated>
+    <id>tag:github.com,2022-06-02:/rabbitmq/osiris</id>
+    <link href="https://github.com/rabbitmq/osiris" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Log based streaming subsystem for RabbitMQ&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>open-telemetry/opentelemetry-erlang-contrib</title>
+    <updated>2022-06-02T01:40:55Z</updated>
+    <id>tag:github.com,2022-06-02:/open-telemetry/opentelemetry-erlang-contrib</id>
+    <link href="https://github.com/open-telemetry/opentelemetry-erlang-contrib" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenTelemetry instrumentation for Erlang &amp; Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>erlydtl/erlydtl</title>
+    <updated>2022-06-02T01:40:55Z</updated>
+    <id>tag:github.com,2022-06-02:/erlydtl/erlydtl</id>
+    <link href="https://github.com/erlydtl/erlydtl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Django templates for Erlang&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>processone/ejabberd</title>
+    <updated>2022-06-02T01:40:55Z</updated>
+    <id>tag:github.com,2022-06-02:/processone/ejabberd</id>
+    <link href="https://github.com/processone/ejabberd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>basho/riak_pb</title>
+    <updated>2022-06-02T01:40:55Z</updated>
+    <id>tag:github.com,2022-06-02:/basho/riak_pb</id>
+    <link href="https://github.com/basho/riak_pb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Riak Protocol Buffers Messages&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rabbitmq/rabbitmq-management</title>
+    <updated>2022-06-02T01:40:55Z</updated>
+    <id>tag:github.com,2022-06-02:/rabbitmq/rabbitmq-management</id>
+    <link href="https://github.com/rabbitmq/rabbitmq-management" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RabbitMQ Management UI and HTTP API&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>couchbase/chronicle</title>
+    <updated>2022-06-02T01:40:55Z</updated>
+    <id>tag:github.com,2022-06-02:/couchbase/chronicle</id>
+    <link href="https://github.com/couchbase/chronicle" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dvv/base64url</title>
-    <updated>2022-06-01T01:40:20Z</updated>
-    <id>tag:github.com,2022-06-01:/dvv/base64url</id>
-    <link href="https://github.com/dvv/base64url" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;URL safe base64-compatible codec&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>talentdeficit/jsx</title>
-    <updated>2022-06-01T01:40:20Z</updated>
-    <id>tag:github.com,2022-06-01:/talentdeficit/jsx</id>
-    <link href="https://github.com/talentdeficit/jsx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;an erlang application for consuming, producing and manipulating json. inspired by yajl&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>choptastic/qdate</title>
-    <updated>2022-06-01T01:40:20Z</updated>
-    <id>tag:github.com,2022-06-01:/choptastic/qdate</id>
-    <link href="https://github.com/choptastic/qdate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Erlang date, time, and timezone management: formatting, conversion, and date arithmetic&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mochi/mochiweb</title>
-    <updated>2022-06-01T01:40:20Z</updated>
-    <id>tag:github.com,2022-06-01:/mochi/mochiweb</id>
-    <link href="https://github.com/mochi/mochiweb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MochiWeb is an Erlang library for building lightweight HTTP servers.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>proper-testing/proper</title>
-    <updated>2022-06-01T01:40:20Z</updated>
-    <id>tag:github.com,2022-06-01:/proper-testing/proper</id>
-    <link href="https://github.com/proper-testing/proper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PropEr: a QuickCheck-inspired property-based testing tool for Erlang&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>eproxus/meck</title>
-    <updated>2022-06-01T01:40:20Z</updated>
-    <id>tag:github.com,2022-06-01:/eproxus/meck</id>
-    <link href="https://github.com/eproxus/meck" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A mocking library for Erlang&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>emqx/emqx</title>
-    <updated>2022-06-01T01:40:20Z</updated>
-    <id>tag:github.com,2022-06-01:/emqx/emqx</id>
-    <link href="https://github.com/emqx/emqx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An open-source, cloud-native distributed MQTT broker for IoT.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>carlos-jenkins/path-finding</title>
-    <updated>2022-06-01T01:40:20Z</updated>
-    <id>tag:github.com,2022-06-01:/carlos-jenkins/path-finding</id>
-    <link href="https://github.com/carlos-jenkins/path-finding" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Some path finding algorithms written in Erlang&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>vernemq/vernemq</title>
-    <updated>2022-06-01T01:40:20Z</updated>
-    <id>tag:github.com,2022-06-01:/vernemq/vernemq</id>
-    <link href="https://github.com/vernemq/vernemq" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A distributed MQTT message broker based on Erlang/OTP. Built for high quality &amp; Industrial use cases.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>apache/couchdb</title>
-    <updated>2022-06-01T01:40:20Z</updated>
-    <id>tag:github.com,2022-06-01:/apache/couchdb</id>
-    <link href="https://github.com/apache/couchdb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>erlsci/iso8601</title>
-    <updated>2022-06-01T01:40:20Z</updated>
-    <id>tag:github.com,2022-06-01:/erlsci/iso8601</id>
-    <link href="https://github.com/erlsci/iso8601" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An ISO 8601 date formating and parsing library for Erlang&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>openx/ox-thrift</title>
-    <updated>2022-06-01T01:40:20Z</updated>
-    <id>tag:github.com,2022-06-01:/openx/ox-thrift</id>
-    <link href="https://github.com/openx/ox-thrift" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Erlang Thrift encoder/decoder library optimized for efficiency&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rabbitmq/rabbitmq-delayed-message-exchange</title>
-    <updated>2022-06-01T01:40:20Z</updated>
-    <id>tag:github.com,2022-06-01:/rabbitmq/rabbitmq-delayed-message-exchange</id>
-    <link href="https://github.com/rabbitmq/rabbitmq-delayed-message-exchange" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Delayed Messaging for RabbitMQ&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>uwiger/edown</title>
-    <updated>2022-06-01T01:40:20Z</updated>
-    <id>tag:github.com,2022-06-01:/uwiger/edown</id>
-    <link href="https://github.com/uwiger/edown" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;EDoc extension for generating Github-flavored Markdown&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>chef/chef-server</title>
-    <updated>2022-06-01T01:40:20Z</updated>
-    <id>tag:github.com,2022-06-01:/chef/chef-server</id>
-    <link href="https://github.com/chef/chef-server" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Chef Infra Server is a hub for configuration data; storing cookbooks, node policies and metadata of managed nodes.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rabbitmq/ra</title>
-    <updated>2022-06-01T01:40:20Z</updated>
-    <id>tag:github.com,2022-06-01:/rabbitmq/ra</id>
-    <link href="https://github.com/rabbitmq/ra" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Raft implementation for Erlang and Elixir that strives to be efficient and make it easier to use multiple Raft clusters in a single system.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jeremyong/websocket_client</title>
-    <updated>2022-06-01T01:40:20Z</updated>
-    <id>tag:github.com,2022-06-01:/jeremyong/websocket_client</id>
-    <link href="https://github.com/jeremyong/websocket_client" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Erlang websocket client (ws and wss supported)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>erlware/erlcron</title>
+    <updated>2022-06-02T01:40:55Z</updated>
+    <id>tag:github.com,2022-06-02:/erlware/erlcron</id>
+    <link href="https://github.com/erlware/erlcron" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang cronish system&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

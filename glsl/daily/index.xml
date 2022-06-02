@@ -1,84 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T01:41:45Z</updated>
+  <updated>2022-06-02T01:42:23Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>PaddlePaddle/PaddleSpatial</title>
-    <updated>2022-06-01T01:41:45Z</updated>
-    <id>tag:github.com,2022-06-01:/PaddlePaddle/PaddleSpatial</id>
-    <link href="https://github.com/PaddlePaddle/PaddleSpatial" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PaddleSpatial is an open-source spatial-temporal computing tool based on PaddlePaddle.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>poiyomi/PoiyomiToonShader</title>
-    <updated>2022-06-01T01:41:45Z</updated>
-    <id>tag:github.com,2022-06-01:/poiyomi/PoiyomiToonShader</id>
-    <link href="https://github.com/poiyomi/PoiyomiToonShader" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A feature rich toon shader for unity and VR Chat&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lilxyzw/lilToon</title>
-    <updated>2022-06-01T01:41:45Z</updated>
-    <id>tag:github.com,2022-06-01:/lilxyzw/lilToon</id>
-    <link href="https://github.com/lilxyzw/lilToon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Feature-rich shaders for avatars&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Swordfish90/cheap-upscaling-triangulation</title>
-    <updated>2022-06-01T01:41:45Z</updated>
-    <id>tag:github.com,2022-06-01:/Swordfish90/cheap-upscaling-triangulation</id>
-    <link href="https://github.com/Swordfish90/cheap-upscaling-triangulation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple, fast and efficient algorithm to upscale retro games&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pa1nki113r/Project_Brutality</title>
-    <updated>2022-06-01T01:41:45Z</updated>
-    <id>tag:github.com,2022-06-01:/pa1nki113r/Project_Brutality</id>
-    <link href="https://github.com/pa1nki113r/Project_Brutality" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is the primary repository for collaborative efforts between Doom developers on Project Brutality. This is the bleeding-edge version that is constantly being developed on, and not meant in any way shape or form to be representative of the final version of the mod.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SaschaWillems/Vulkan</title>
-    <updated>2022-06-01T01:41:45Z</updated>
-    <id>tag:github.com,2022-06-01:/SaschaWillems/Vulkan</id>
-    <link href="https://github.com/SaschaWillems/Vulkan" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Examples and demos for the new Vulkan API&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>patriciogonzalezvivo/thebookofshaders</title>
-    <updated>2022-06-01T01:41:45Z</updated>
-    <id>tag:github.com,2022-06-01:/patriciogonzalezvivo/thebookofshaders</id>
-    <link href="https://github.com/patriciogonzalezvivo/thebookofshaders" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Step-by-step guide through the abstract and complex universe of Fragment Shaders.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hooke007/MPV_lazy</title>
-    <updated>2022-06-01T01:41:45Z</updated>
-    <id>tag:github.com,2022-06-01:/hooke007/MPV_lazy</id>
-    <link href="https://github.com/hooke007/MPV_lazy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔄 mpv player 播放器折腾记录 windows conf ； 中文注释配置 快速帮助萌新入门 ； mpv-lazy 懒人包 win10 x64&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tovacinni/sdf-explorer</title>
-    <updated>2022-06-01T01:41:45Z</updated>
-    <id>tag:github.com,2022-06-01:/tovacinni/sdf-explorer</id>
-    <link href="https://github.com/tovacinni/sdf-explorer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is accompanying code for our JCGT / I3D paper, &#34;A Dataset and Explorer for 3D Signed Distance Functions (SDF)&#34;.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rashevskyv/kefir</title>
-    <updated>2022-06-01T01:41:45Z</updated>
-    <id>tag:github.com,2022-06-01:/rashevskyv/kefir</id>
-    <link href="https://github.com/rashevskyv/kefir" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>patriciogonzalezvivo/lygia</title>
-    <updated>2022-06-01T01:41:45Z</updated>
-    <id>tag:github.com,2022-06-01:/patriciogonzalezvivo/lygia</id>
-    <link href="https://github.com/patriciogonzalezvivo/lygia" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;lygia, it&#39;s a granular and multi-language shader library designed for performance and flexibility&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zesterer/openmw-shaders</title>
+    <updated>2022-06-02T01:42:23Z</updated>
+    <id>tag:github.com,2022-06-02:/zesterer/openmw-shaders</id>
+    <link href="https://github.com/zesterer/openmw-shaders" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PBR shaders for Morrowind&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

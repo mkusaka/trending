@@ -1,182 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:25:39Z</updated>
+  <updated>2022-06-02T02:27:47Z</updated>
   <subtitle>Weekly Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>github/copilot.vim</title>
-    <updated>2022-06-01T02:25:39Z</updated>
-    <id>tag:github.com,2022-06-01:/github/copilot.vim</id>
-    <link href="https://github.com/github/copilot.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Neovim plugin for GitHub Copilot&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vim-scripts/butane.vim</title>
+    <updated>2022-06-02T02:27:47Z</updated>
+    <id>tag:github.com,2022-06-02:/vim-scripts/butane.vim</id>
+    <link href="https://github.com/vim-scripts/butane.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Light up your buffers.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>junegunn/vim-plug</title>
-    <updated>2022-06-01T02:25:39Z</updated>
-    <id>tag:github.com,2022-06-01:/junegunn/vim-plug</id>
-    <link href="https://github.com/junegunn/vim-plug" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌺 Minimalist Vim Plugin Manager&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dense-analysis/ale</title>
+    <updated>2022-06-02T02:27:47Z</updated>
+    <id>tag:github.com,2022-06-02:/dense-analysis/ale</id>
+    <link href="https://github.com/dense-analysis/ale" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mg979/vim-visual-multi</title>
-    <updated>2022-06-01T02:25:39Z</updated>
-    <id>tag:github.com,2022-06-01:/mg979/vim-visual-multi</id>
-    <link href="https://github.com/mg979/vim-visual-multi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Multiple cursors plugin for vim/neovim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>glepnir/dashboard-nvim</title>
+    <updated>2022-06-02T02:27:47Z</updated>
+    <id>tag:github.com,2022-06-02:/glepnir/dashboard-nvim</id>
+    <link href="https://github.com/glepnir/dashboard-nvim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;vim dashboard&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>amix/vimrc</title>
-    <updated>2022-06-01T02:25:39Z</updated>
-    <id>tag:github.com,2022-06-01:/amix/vimrc</id>
-    <link href="https://github.com/amix/vimrc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The ultimate Vim configuration (vimrc)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>vim/vim</title>
-    <updated>2022-06-01T02:25:39Z</updated>
-    <id>tag:github.com,2022-06-01:/vim/vim</id>
-    <link href="https://github.com/vim/vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The official Vim repository&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tpope/vim-surround</title>
-    <updated>2022-06-01T02:25:39Z</updated>
-    <id>tag:github.com,2022-06-01:/tpope/vim-surround</id>
-    <link href="https://github.com/tpope/vim-surround" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>AaronLasseigne/dotfiles</title>
-    <updated>2022-06-01T02:25:39Z</updated>
-    <id>tag:github.com,2022-06-01:/AaronLasseigne/dotfiles</id>
-    <link href="https://github.com/AaronLasseigne/dotfiles" rel="alternate"></link>
+    <title>prabirshrestha/asyncomplete-lsp.vim</title>
+    <updated>2022-06-02T02:27:47Z</updated>
+    <id>tag:github.com,2022-06-02:/prabirshrestha/asyncomplete-lsp.vim</id>
+    <link href="https://github.com/prabirshrestha/asyncomplete-lsp.vim" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>brglng/vim-im-select</title>
-    <updated>2022-06-01T02:25:39Z</updated>
-    <id>tag:github.com,2022-06-01:/brglng/vim-im-select</id>
-    <link href="https://github.com/brglng/vim-im-select" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Improve Vim/Neovim experience with input methods.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>preservim/nerdcommenter</title>
+    <updated>2022-06-02T02:27:47Z</updated>
+    <id>tag:github.com,2022-06-02:/preservim/nerdcommenter</id>
+    <link href="https://github.com/preservim/nerdcommenter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim plugin for intensely nerdy commenting powers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jhulten/dotvim</title>
-    <updated>2022-06-01T02:25:39Z</updated>
-    <id>tag:github.com,2022-06-01:/jhulten/dotvim</id>
-    <link href="https://github.com/jhulten/dotvim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My .vim directory&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cbrenton/dotfiles</title>
-    <updated>2022-06-01T02:25:39Z</updated>
-    <id>tag:github.com,2022-06-01:/cbrenton/dotfiles</id>
-    <link href="https://github.com/cbrenton/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My configuration files.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>digitaltoad/vim-pug</title>
-    <updated>2022-06-01T02:25:39Z</updated>
-    <id>tag:github.com,2022-06-01:/digitaltoad/vim-pug</id>
-    <link href="https://github.com/digitaltoad/vim-pug" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim Pug (formerly Jade) template engine syntax highlighting and indention&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>slim-template/vim-slim</title>
-    <updated>2022-06-01T02:25:39Z</updated>
-    <id>tag:github.com,2022-06-01:/slim-template/vim-slim</id>
-    <link href="https://github.com/slim-template/vim-slim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Syntax highlighting for VIM&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bluddy/dotvim</title>
-    <updated>2022-06-01T02:25:39Z</updated>
-    <id>tag:github.com,2022-06-01:/bluddy/dotvim</id>
-    <link href="https://github.com/bluddy/dotvim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My vim configuration&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ramseydsilva/dotfiles</title>
-    <updated>2022-06-01T02:25:39Z</updated>
-    <id>tag:github.com,2022-06-01:/ramseydsilva/dotfiles</id>
-    <link href="https://github.com/ramseydsilva/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;files with dots&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>neovim/neovim</title>
-    <updated>2022-06-01T02:25:39Z</updated>
-    <id>tag:github.com,2022-06-01:/neovim/neovim</id>
-    <link href="https://github.com/neovim/neovim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim-fork focused on extensibility and usability&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>voldikss/vim-floaterm</title>
-    <updated>2022-06-01T02:25:39Z</updated>
-    <id>tag:github.com,2022-06-01:/voldikss/vim-floaterm</id>
-    <link href="https://github.com/voldikss/vim-floaterm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌟 Terminal manager for (neo)vim&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pedrohdz/vim-yaml-folds</title>
-    <updated>2022-06-01T02:25:39Z</updated>
-    <id>tag:github.com,2022-06-01:/pedrohdz/vim-yaml-folds</id>
-    <link href="https://github.com/pedrohdz/vim-yaml-folds" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;YAML, RAML, EYAML &amp; SaltStack SLS folding for Vim&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mhartington/oceanic-next</title>
-    <updated>2022-06-01T02:25:39Z</updated>
-    <id>tag:github.com,2022-06-01:/mhartington/oceanic-next</id>
-    <link href="https://github.com/mhartington/oceanic-next" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Oceanic Next theme for neovim&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sainnhe/gruvbox-material</title>
-    <updated>2022-06-01T02:25:39Z</updated>
-    <id>tag:github.com,2022-06-01:/sainnhe/gruvbox-material</id>
-    <link href="https://github.com/sainnhe/gruvbox-material" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gruvbox with Material Palette&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>google/vim-codefmt</title>
-    <updated>2022-06-01T02:25:39Z</updated>
-    <id>tag:github.com,2022-06-01:/google/vim-codefmt</id>
-    <link href="https://github.com/google/vim-codefmt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>craftzdog/dotfiles-public</title>
-    <updated>2022-06-01T02:25:39Z</updated>
-    <id>tag:github.com,2022-06-01:/craftzdog/dotfiles-public</id>
-    <link href="https://github.com/craftzdog/dotfiles-public" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My personal dotfiles&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>justinmk/vim-sneak</title>
-    <updated>2022-06-01T02:25:39Z</updated>
-    <id>tag:github.com,2022-06-01:/justinmk/vim-sneak</id>
-    <link href="https://github.com/justinmk/vim-sneak" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The missing motion for Vim 👟&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>overcache/NeoSolarized</title>
-    <updated>2022-06-01T02:25:39Z</updated>
-    <id>tag:github.com,2022-06-01:/overcache/NeoSolarized</id>
-    <link href="https://github.com/overcache/NeoSolarized" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;NeoSolarized: A fixed solarized colorscheme for better truecolor support.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>boboism/dotvim</title>
-    <updated>2022-06-01T02:25:39Z</updated>
-    <id>tag:github.com,2022-06-01:/boboism/dotvim</id>
-    <link href="https://github.com/boboism/dotvim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;my .vim repo&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kana/vim-textobj-line</title>
-    <updated>2022-06-01T02:25:39Z</updated>
-    <id>tag:github.com,2022-06-01:/kana/vim-textobj-line</id>
-    <link href="https://github.com/kana/vim-textobj-line" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim plugin: Text objects for the current line&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>derekwyatt/vim-scala</title>
+    <updated>2022-06-02T02:27:47Z</updated>
+    <id>tag:github.com,2022-06-02:/derekwyatt/vim-scala</id>
+    <link href="https://github.com/derekwyatt/vim-scala" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My work on integration of Scala into Vim - not a ton here, but useful for me.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

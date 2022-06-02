@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Processing Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:18:45Z</updated>
+  <updated>2022-06-02T02:20:48Z</updated>
   <subtitle>Weekly Trending of Processing in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>greerviau/SnakeAI</title>
-    <updated>2022-06-01T02:18:45Z</updated>
-    <id>tag:github.com,2022-06-01:/greerviau/SnakeAI</id>
-    <link href="https://github.com/greerviau/SnakeAI" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Train a Neural Network to play Snake using a Genetic Algorithm&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JohnEarnest/StoneSoup</title>
+    <updated>2022-06-02T02:20:48Z</updated>
+    <id>tag:github.com,2022-06-02:/JohnEarnest/StoneSoup</id>
+    <link href="https://github.com/JohnEarnest/StoneSoup" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A guide to making simple games with Processing&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

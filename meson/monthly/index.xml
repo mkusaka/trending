@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Meson Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:43:12Z</updated>
+  <updated>2022-06-02T02:45:46Z</updated>
   <subtitle>Monthly Trending of Meson in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>openbmc/phosphor-dbus-interfaces</title>
-    <updated>2022-06-01T02:43:12Z</updated>
-    <id>tag:github.com,2022-06-01:/openbmc/phosphor-dbus-interfaces</id>
-    <link href="https://github.com/openbmc/phosphor-dbus-interfaces" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;YAML descriptors of standard dbus interfaces&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

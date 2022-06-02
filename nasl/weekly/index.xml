@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub NASL Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:15:47Z</updated>
+  <updated>2022-06-02T02:17:47Z</updated>
   <subtitle>Weekly Trending of NASL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>OSSystems/meta-browser</title>
-    <updated>2022-06-01T02:15:47Z</updated>
-    <id>tag:github.com,2022-06-01:/OSSystems/meta-browser</id>
-    <link href="https://github.com/OSSystems/meta-browser" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OpenEmbedded/Yocto BSP layer for Web Browsers&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>MentorEmbedded/meta-sourcery</title>
-    <updated>2022-06-01T02:15:47Z</updated>
-    <id>tag:github.com,2022-06-01:/MentorEmbedded/meta-sourcery</id>
-    <link href="https://github.com/MentorEmbedded/meta-sourcery" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Yocto/OE metadata for the external sourcery g++ toolchain&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>meta-rust/meta-rust</title>
+    <updated>2022-06-02T02:17:47Z</updated>
+    <id>tag:github.com,2022-06-02:/meta-rust/meta-rust</id>
+    <link href="https://github.com/meta-rust/meta-rust" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenEmbedded/Yocto layer for Rust and Cargo&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

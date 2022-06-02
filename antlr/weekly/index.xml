@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ANTLR Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:02:30Z</updated>
+  <updated>2022-06-02T02:04:08Z</updated>
   <subtitle>Weekly Trending of ANTLR in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>microsoft/qsharp-language</title>
-    <updated>2022-06-01T02:02:30Z</updated>
-    <id>tag:github.com,2022-06-01:/microsoft/qsharp-language</id>
-    <link href="https://github.com/microsoft/qsharp-language" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Official repository for design of the quantum programming language Q# and its core libraries&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>antlr/grammars-v4</title>
-    <updated>2022-06-01T02:02:30Z</updated>
-    <id>tag:github.com,2022-06-01:/antlr/grammars-v4</id>
-    <link href="https://github.com/antlr/grammars-v4" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Grammars written for ANTLR v4; expectation that the grammars are free of actions.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kstenerud/concise-encoding</title>
+    <updated>2022-06-02T02:04:08Z</updated>
+    <id>tag:github.com,2022-06-02:/kstenerud/concise-encoding</id>
+    <link href="https://github.com/kstenerud/concise-encoding" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The secure data format for a modern world&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

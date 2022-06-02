@@ -1,182 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T01:42:42Z</updated>
+  <updated>2022-06-02T01:43:30Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>aws-ia/terraform-aws-eks-blueprints</title>
-    <updated>2022-06-01T01:42:42Z</updated>
-    <id>tag:github.com,2022-06-01:/aws-ia/terraform-aws-eks-blueprints</id>
-    <link href="https://github.com/aws-ia/terraform-aws-eks-blueprints" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Configure and deploy complete EKS clusters.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>terraform-google-modules/terraform-google-kubernetes-engine</title>
+    <updated>2022-06-02T01:43:30Z</updated>
+    <id>tag:github.com,2022-06-02:/terraform-google-modules/terraform-google-kubernetes-engine</id>
+    <link href="https://github.com/terraform-google-modules/terraform-google-kubernetes-engine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Terraform module for configuring GKE clusters.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>terraform-aws-modules/terraform-aws-s3-bucket</title>
-    <updated>2022-06-01T01:42:42Z</updated>
-    <id>tag:github.com,2022-06-01:/terraform-aws-modules/terraform-aws-s3-bucket</id>
-    <link href="https://github.com/terraform-aws-modules/terraform-aws-s3-bucket" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module which creates S3 bucket resources on AWS 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>terraform-aws-modules/terraform-aws-security-group</title>
+    <updated>2022-06-02T01:43:30Z</updated>
+    <id>tag:github.com,2022-06-02:/terraform-aws-modules/terraform-aws-security-group</id>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-security-group" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module which creates EC2-VPC security groups on AWS 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>terraform-aws-modules/terraform-aws-lambda</title>
-    <updated>2022-06-01T01:42:42Z</updated>
-    <id>tag:github.com,2022-06-01:/terraform-aws-modules/terraform-aws-lambda</id>
-    <link href="https://github.com/terraform-aws-modules/terraform-aws-lambda" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>terraform-aws-modules/terraform-aws-rds-aurora</title>
+    <updated>2022-06-02T01:43:30Z</updated>
+    <id>tag:github.com,2022-06-02:/terraform-aws-modules/terraform-aws-rds-aurora</id>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-rds-aurora" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module which creates RDS Aurora resources on AWS 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>terraform-aws-modules/terraform-aws-ec2-instance</title>
-    <updated>2022-06-01T01:42:42Z</updated>
-    <id>tag:github.com,2022-06-01:/terraform-aws-modules/terraform-aws-ec2-instance</id>
-    <link href="https://github.com/terraform-aws-modules/terraform-aws-ec2-instance" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module which creates EC2 instance(s) on AWS 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>terraform-aws-modules/terraform-aws-alb</title>
+    <updated>2022-06-02T01:43:30Z</updated>
+    <id>tag:github.com,2022-06-02:/terraform-aws-modules/terraform-aws-alb</id>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-alb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module to create an AWS Application/Network Load Balancer (ALB/NLB) and associated resources 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>terraform-aws-modules/terraform-aws-vpc</title>
-    <updated>2022-06-01T01:42:42Z</updated>
-    <id>tag:github.com,2022-06-01:/terraform-aws-modules/terraform-aws-vpc</id>
-    <link href="https://github.com/terraform-aws-modules/terraform-aws-vpc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module which creates VPC resources on AWS 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>terraform-google-modules/terraform-google-sql-db</title>
+    <updated>2022-06-02T01:43:30Z</updated>
+    <id>tag:github.com,2022-06-02:/terraform-google-modules/terraform-google-sql-db</id>
+    <link href="https://github.com/terraform-google-modules/terraform-google-sql-db" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modular Cloud SQL database instance for Terraform.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>terraform-aws-modules/terraform-aws-acm</title>
-    <updated>2022-06-01T01:42:42Z</updated>
-    <id>tag:github.com,2022-06-01:/terraform-aws-modules/terraform-aws-acm</id>
-    <link href="https://github.com/terraform-aws-modules/terraform-aws-acm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module which creates and validates ACM certificate 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>antonputra/tutorials</title>
+    <updated>2022-06-02T01:43:30Z</updated>
+    <id>tag:github.com,2022-06-02:/antonputra/tutorials</id>
+    <link href="https://github.com/antonputra/tutorials" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DevOps by Example&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>digitalocean/Kubernetes-Starter-Kit-Developers</title>
-    <updated>2022-06-01T01:42:42Z</updated>
-    <id>tag:github.com,2022-06-01:/digitalocean/Kubernetes-Starter-Kit-Developers</id>
-    <link href="https://github.com/digitalocean/Kubernetes-Starter-Kit-Developers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hands-on tutorial and Automation stack for an operations-ready DigitalOcean Kubernetes (DOKS) cluster.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aws-ia/terraform-aws-control_tower_account_factory</title>
+    <updated>2022-06-02T01:43:30Z</updated>
+    <id>tag:github.com,2022-06-02:/aws-ia/terraform-aws-control_tower_account_factory</id>
+    <link href="https://github.com/aws-ia/terraform-aws-control_tower_account_factory" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AWS Control Tower Account Factory&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>zealvora/terraform-beginner-to-advanced-resource</title>
-    <updated>2022-06-01T01:42:42Z</updated>
-    <id>tag:github.com,2022-06-01:/zealvora/terraform-beginner-to-advanced-resource</id>
-    <link href="https://github.com/zealvora/terraform-beginner-to-advanced-resource" rel="alternate"></link>
+    <title>hashicorp/learn-terraform-provision-eks-cluster</title>
+    <updated>2022-06-02T01:43:30Z</updated>
+    <id>tag:github.com,2022-06-02:/hashicorp/learn-terraform-provision-eks-cluster</id>
+    <link href="https://github.com/hashicorp/learn-terraform-provision-eks-cluster" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>stacksimplify/azure-aks-kubernetes-masterclass</title>
-    <updated>2022-06-01T01:42:42Z</updated>
-    <id>tag:github.com,2022-06-01:/stacksimplify/azure-aks-kubernetes-masterclass</id>
-    <link href="https://github.com/stacksimplify/azure-aks-kubernetes-masterclass" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Azure AKS Kubernetes Masterclass&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>terraform-google-modules/terraform-google-network</title>
+    <updated>2022-06-02T01:43:30Z</updated>
+    <id>tag:github.com,2022-06-02:/terraform-google-modules/terraform-google-network</id>
+    <link href="https://github.com/terraform-google-modules/terraform-google-network" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Terraform module that makes it easy to set up a new VPC Network in GCP.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>terraform-aws-modules/terraform-aws-route53</title>
-    <updated>2022-06-01T01:42:42Z</updated>
-    <id>tag:github.com,2022-06-01:/terraform-aws-modules/terraform-aws-route53</id>
-    <link href="https://github.com/terraform-aws-modules/terraform-aws-route53" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module which creates Route53 resources on AWS 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>terraform-google-modules/terraform-example-foundation</title>
+    <updated>2022-06-02T01:43:30Z</updated>
+    <id>tag:github.com,2022-06-02:/terraform-google-modules/terraform-example-foundation</id>
+    <link href="https://github.com/terraform-google-modules/terraform-example-foundation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Example repo showing how the CFT modules can be composed to build a secure cloud foundation.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>terraform-aws-modules/terraform-aws-eks</title>
-    <updated>2022-06-01T01:42:42Z</updated>
-    <id>tag:github.com,2022-06-01:/terraform-aws-modules/terraform-aws-eks</id>
-    <link href="https://github.com/terraform-aws-modules/terraform-aws-eks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>aztfmod/terraform-azurerm-caf</title>
-    <updated>2022-06-01T01:42:42Z</updated>
-    <id>tag:github.com,2022-06-01:/aztfmod/terraform-azurerm-caf</id>
-    <link href="https://github.com/aztfmod/terraform-azurerm-caf" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform supermodule for the CAF Terraform landing zones part of Microsoft Cloud Adoption Framework for Azure&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>terraform-aws-modules/terraform-aws-autoscaling</title>
-    <updated>2022-06-01T01:42:42Z</updated>
-    <id>tag:github.com,2022-06-01:/terraform-aws-modules/terraform-aws-autoscaling</id>
-    <link href="https://github.com/terraform-aws-modules/terraform-aws-autoscaling" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module which creates Auto Scaling resources on AWS 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>GoogleCloudPlatform/cloud-foundation-fabric</title>
-    <updated>2022-06-01T01:42:42Z</updated>
-    <id>tag:github.com,2022-06-01:/GoogleCloudPlatform/cloud-foundation-fabric</id>
-    <link href="https://github.com/GoogleCloudPlatform/cloud-foundation-fabric" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;End-to-end modular samples for Terraform on GCP.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>terraform-aws-modules/terraform-aws-iam</title>
-    <updated>2022-06-01T01:42:42Z</updated>
-    <id>tag:github.com,2022-06-01:/terraform-aws-modules/terraform-aws-iam</id>
-    <link href="https://github.com/terraform-aws-modules/terraform-aws-iam" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module which creates IAM resources on AWS 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>terraform-aws-modules/terraform-aws-apigateway-v2</title>
-    <updated>2022-06-01T01:42:42Z</updated>
-    <id>tag:github.com,2022-06-01:/terraform-aws-modules/terraform-aws-apigateway-v2</id>
-    <link href="https://github.com/terraform-aws-modules/terraform-aws-apigateway-v2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module to create an AWS API Gateway v2 (HTTP/WebSocket) 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Azure/terraform</title>
-    <updated>2022-06-01T01:42:42Z</updated>
-    <id>tag:github.com,2022-06-01:/Azure/terraform</id>
-    <link href="https://github.com/Azure/terraform" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Source code for the Azure Marketplace Terraform development VM package.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>openshift/okd</title>
-    <updated>2022-06-01T01:42:42Z</updated>
-    <id>tag:github.com,2022-06-01:/openshift/okd</id>
-    <link href="https://github.com/openshift/okd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The self-managing, auto-upgrading, Kubernetes distribution for everyone&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>terraform-aws-modules/terraform-aws-rds</title>
-    <updated>2022-06-01T01:42:42Z</updated>
-    <id>tag:github.com,2022-06-01:/terraform-aws-modules/terraform-aws-rds</id>
-    <link href="https://github.com/terraform-aws-modules/terraform-aws-rds" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module which creates RDS resources on AWS 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Azure/terraform-azurerm-caf-enterprise-scale</title>
-    <updated>2022-06-01T01:42:42Z</updated>
-    <id>tag:github.com,2022-06-01:/Azure/terraform-azurerm-caf-enterprise-scale</id>
-    <link href="https://github.com/Azure/terraform-azurerm-caf-enterprise-scale" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Azure landing zones Terraform module&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>CloudHealth/terraform-cloudhealth-iam</title>
-    <updated>2022-06-01T01:42:42Z</updated>
-    <id>tag:github.com,2022-06-01:/CloudHealth/terraform-cloudhealth-iam</id>
-    <link href="https://github.com/CloudHealth/terraform-cloudhealth-iam" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CloudHealth Terraform module for IAM Roles provisioning&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nsbno/terraform-aws-ecs-service</title>
-    <updated>2022-06-01T01:42:42Z</updated>
-    <id>tag:github.com,2022-06-01:/nsbno/terraform-aws-ecs-service</id>
-    <link href="https://github.com/nsbno/terraform-aws-ecs-service" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple way to get ECS services up and running&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cloudposse/terraform-aws-efs</title>
-    <updated>2022-06-01T01:42:42Z</updated>
-    <id>tag:github.com,2022-06-01:/cloudposse/terraform-aws-efs</id>
-    <link href="https://github.com/cloudposse/terraform-aws-efs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform Module to define an EFS Filesystem (aka NFS)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>terraform-google-modules/terraform-google-vm</title>
-    <updated>2022-06-01T01:42:42Z</updated>
-    <id>tag:github.com,2022-06-01:/terraform-google-modules/terraform-google-vm</id>
-    <link href="https://github.com/terraform-google-modules/terraform-google-vm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a collection of opinionated submodules that can be used to provision VMs in GCP.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>terraform-google-modules/terraform-google-container-vm</title>
-    <updated>2022-06-01T01:42:42Z</updated>
-    <id>tag:github.com,2022-06-01:/terraform-google-modules/terraform-google-container-vm</id>
-    <link href="https://github.com/terraform-google-modules/terraform-google-container-vm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This module simplifies deploying containers on GCE instances.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>terraform-google-modules/terraform-google-project-factory</title>
+    <updated>2022-06-02T01:43:30Z</updated>
+    <id>tag:github.com,2022-06-02:/terraform-google-modules/terraform-google-project-factory</id>
+    <link href="https://github.com/terraform-google-modules/terraform-google-project-factory" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Opinionated Google Cloud Platform project creation and configuration with Shared VPC, IAM, APIs, etc.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

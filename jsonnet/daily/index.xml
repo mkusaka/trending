@@ -1,63 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jsonnet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T01:44:25Z</updated>
+  <updated>2022-06-02T01:45:10Z</updated>
   <subtitle>Daily Trending of Jsonnet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>prometheus-operator/kube-prometheus</title>
-    <updated>2022-06-01T01:44:25Z</updated>
-    <id>tag:github.com,2022-06-01:/prometheus-operator/kube-prometheus</id>
-    <link href="https://github.com/prometheus-operator/kube-prometheus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Use Prometheus to monitor Kubernetes and applications running on Kubernetes&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>observatorium/observatorium</title>
+    <updated>2022-06-02T01:45:10Z</updated>
+    <id>tag:github.com,2022-06-02:/observatorium/observatorium</id>
+    <link href="https://github.com/observatorium/observatorium" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository contains the deployment configurations for the Observatorium instances&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kserve/kserve</title>
-    <updated>2022-06-01T01:44:25Z</updated>
-    <id>tag:github.com,2022-06-01:/kserve/kserve</id>
-    <link href="https://github.com/kserve/kserve" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Serverless Inferencing on Kubernetes&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>grafana/grafonnet-lib</title>
+    <updated>2022-06-02T01:45:10Z</updated>
+    <id>tag:github.com,2022-06-02:/grafana/grafonnet-lib</id>
+    <link href="https://github.com/grafana/grafonnet-lib" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jsonnet library for generating Grafana dashboard files.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kubeflow/kubeflow</title>
-    <updated>2022-06-01T01:44:25Z</updated>
-    <id>tag:github.com,2022-06-01:/kubeflow/kubeflow</id>
-    <link href="https://github.com/kubeflow/kubeflow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Machine Learning Toolkit for Kubernetes&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>google/jsonnet</title>
+    <updated>2022-06-02T01:45:10Z</updated>
+    <id>tag:github.com,2022-06-02:/google/jsonnet</id>
+    <link href="https://github.com/google/jsonnet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jsonnet - The data templating language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>monitoringartist/grafana-aws-cloudwatch-dashboards</title>
-    <updated>2022-06-01T01:44:25Z</updated>
-    <id>tag:github.com,2022-06-01:/monitoringartist/grafana-aws-cloudwatch-dashboards</id>
-    <link href="https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;☁️ 30+ Grafana dashboards for AWS CloudWatch metrics: EC2, Lambda, S3, ELB, EMR, EBS, SNS, SES, SQS, RDS, EFS, ElastiCache, Billing, API Gateway, VPN, Step Functions, Route 53, CodeBuild, ...&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>argoproj/argocd-example-apps</title>
-    <updated>2022-06-01T01:44:25Z</updated>
-    <id>tag:github.com,2022-06-01:/argoproj/argocd-example-apps</id>
-    <link href="https://github.com/argoproj/argocd-example-apps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Example Apps to Demonstrate Argo CD&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kubeflow/examples</title>
-    <updated>2022-06-01T01:44:25Z</updated>
-    <id>tag:github.com,2022-06-01:/kubeflow/examples</id>
-    <link href="https://github.com/kubeflow/examples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A repository to host extended examples and tutorials&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kubernetes-monitoring/kubernetes-mixin</title>
-    <updated>2022-06-01T01:44:25Z</updated>
-    <id>tag:github.com,2022-06-01:/kubernetes-monitoring/kubernetes-mixin</id>
-    <link href="https://github.com/kubernetes-monitoring/kubernetes-mixin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A set of Grafana dashboards and Prometheus alerts for Kubernetes.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>alphagov/govuk-content-schemas</title>
-    <updated>2022-06-01T01:44:25Z</updated>
-    <id>tag:github.com,2022-06-01:/alphagov/govuk-content-schemas</id>
-    <link href="https://github.com/alphagov/govuk-content-schemas" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Definitions of the data formats used to represent content on GOV.UK&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>grafana/jsonnet-libs</title>
+    <updated>2022-06-02T01:45:10Z</updated>
+    <id>tag:github.com,2022-06-02:/grafana/jsonnet-libs</id>
+    <link href="https://github.com/grafana/jsonnet-libs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Grafana Labs&#39; Jsonnet libraries&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

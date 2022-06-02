@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Reason Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:48:21Z</updated>
+  <updated>2022-06-02T02:51:00Z</updated>
   <subtitle>Monthly Trending of Reason in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>grain-lang/grain</title>
-    <updated>2022-06-01T02:48:21Z</updated>
-    <id>tag:github.com,2022-06-01:/grain-lang/grain</id>
-    <link href="https://github.com/grain-lang/grain" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Grain compiler toolchain and CLI. Home of the modern web staple. 🌾&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

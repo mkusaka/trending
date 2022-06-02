@@ -1,112 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:51:29Z</updated>
+  <updated>2022-06-02T02:54:09Z</updated>
   <subtitle>Monthly Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rgossiaux/svelte-headlessui</title>
-    <updated>2022-06-01T02:51:29Z</updated>
-    <id>tag:github.com,2022-06-01:/rgossiaux/svelte-headlessui</id>
-    <link href="https://github.com/rgossiaux/svelte-headlessui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Unofficial Svelte port of the Headless UI component library&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>saadeghi/daisyui</title>
-    <updated>2022-06-01T02:51:29Z</updated>
-    <id>tag:github.com,2022-06-01:/saadeghi/daisyui</id>
-    <link href="https://github.com/saadeghi/daisyui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>svelteuidev/svelteui</title>
-    <updated>2022-06-01T02:51:29Z</updated>
-    <id>tag:github.com,2022-06-01:/svelteuidev/svelteui</id>
-    <link href="https://github.com/svelteuidev/svelteui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SvelteUI Monorepo&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dbgate/dbgate</title>
-    <updated>2022-06-01T02:51:29Z</updated>
-    <id>tag:github.com,2022-06-01:/dbgate/dbgate</id>
-    <link href="https://github.com/dbgate/dbgate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ForgQi/biliup-app</title>
-    <updated>2022-06-01T02:51:29Z</updated>
-    <id>tag:github.com,2022-06-01:/ForgQi/biliup-app</id>
-    <link href="https://github.com/ForgQi/biliup-app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;b站全平台投稿客户端，支持多p投稿，稿件编辑&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nmelhado/league-page</title>
-    <updated>2022-06-01T02:51:29Z</updated>
-    <id>tag:github.com,2022-06-01:/nmelhado/league-page</id>
-    <link href="https://github.com/nmelhado/league-page" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Create a custom league page for your Sleeper fantasy football league!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sveltejs/realworld</title>
-    <updated>2022-06-01T02:51:29Z</updated>
-    <id>tag:github.com,2022-06-01:/sveltejs/realworld</id>
-    <link href="https://github.com/sveltejs/realworld" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SvelteKit implementation of the RealWorld app&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>EddieHubCommunity/good-first-issue-finder</title>
-    <updated>2022-06-01T02:51:29Z</updated>
-    <id>tag:github.com,2022-06-01:/EddieHubCommunity/good-first-issue-finder</id>
-    <link href="https://github.com/EddieHubCommunity/good-first-issue-finder" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Issue-Crawler for Github based on Sveltekit&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>themesberg/flowbite-svelte</title>
-    <updated>2022-06-01T02:51:29Z</updated>
-    <id>tag:github.com,2022-06-01:/themesberg/flowbite-svelte</id>
-    <link href="https://github.com/themesberg/flowbite-svelte" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Official Svelte components built for Flowbite and Tailwind CSS&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>carbon-design-system/carbon-components-svelte</title>
-    <updated>2022-06-01T02:51:29Z</updated>
-    <id>tag:github.com,2022-06-01:/carbon-design-system/carbon-components-svelte</id>
-    <link href="https://github.com/carbon-design-system/carbon-components-svelte" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Svelte implementation of the Carbon Design System&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>liveblocks/pixel-art-together</title>
-    <updated>2022-06-01T02:51:29Z</updated>
-    <id>tag:github.com,2022-06-01:/liveblocks/pixel-art-together</id>
-    <link href="https://github.com/liveblocks/pixel-art-together" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pixel Art Together is a multiplayer pixel art editor powered by Liveblocks.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>PuruVJ/macos-web</title>
-    <updated>2022-06-01T02:51:29Z</updated>
-    <id>tag:github.com,2022-06-01:/PuruVJ/macos-web</id>
-    <link href="https://github.com/PuruVJ/macos-web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Rich-Harris/svelte-cubed</title>
-    <updated>2022-06-01T02:51:29Z</updated>
-    <id>tag:github.com,2022-06-01:/Rich-Harris/svelte-cubed</id>
-    <link href="https://github.com/Rich-Harris/svelte-cubed" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Svelte ❤️ Three&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hperrin/svelte-material-ui</title>
-    <updated>2022-06-01T02:51:29Z</updated>
-    <id>tag:github.com,2022-06-01:/hperrin/svelte-material-ui</id>
-    <link href="https://github.com/hperrin/svelte-material-ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Svelte Material UI Components&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mermaid-js/mermaid-live-editor</title>
-    <updated>2022-06-01T02:51:29Z</updated>
-    <id>tag:github.com,2022-06-01:/mermaid-js/mermaid-live-editor</id>
-    <link href="https://github.com/mermaid-js/mermaid-live-editor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>coollabsio/coolify</title>
+    <updated>2022-06-02T02:54:09Z</updated>
+    <id>tag:github.com,2022-06-02:/coollabsio/coolify</id>
+    <link href="https://github.com/coollabsio/coolify" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An open-source &amp; self-hostable Heroku / Netlify alternative.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

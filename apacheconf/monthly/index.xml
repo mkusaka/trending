@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ApacheConf Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:30:14Z</updated>
+  <updated>2022-06-02T02:32:27Z</updated>
   <subtitle>Monthly Trending of ApacheConf in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>scm-ninja/starter-web</title>
-    <updated>2022-06-01T02:30:14Z</updated>
-    <id>tag:github.com,2022-06-01:/scm-ninja/starter-web</id>
-    <link href="https://github.com/scm-ninja/starter-web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple starting point website project based upon Initializr&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

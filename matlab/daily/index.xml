@@ -1,63 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T01:46:42Z</updated>
+  <updated>2022-06-02T01:47:32Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>atinesh-s/Coursera-Machine-Learning-Stanford</title>
-    <updated>2022-06-01T01:46:42Z</updated>
-    <id>tag:github.com,2022-06-01:/atinesh-s/Coursera-Machine-Learning-Stanford</id>
-    <link href="https://github.com/atinesh-s/Coursera-Machine-Learning-Stanford" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Machine learning-Stanford University&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>fieldtrip/fieldtrip</title>
-    <updated>2022-06-01T01:46:42Z</updated>
-    <id>tag:github.com,2022-06-01:/fieldtrip/fieldtrip</id>
-    <link href="https://github.com/fieldtrip/fieldtrip" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The MATLAB toolbox for MEG, EEG and iEEG analysis&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>TadasBaltrusaitis/OpenFace</title>
-    <updated>2022-06-01T01:46:42Z</updated>
-    <id>tag:github.com,2022-06-01:/TadasBaltrusaitis/OpenFace</id>
-    <link href="https://github.com/TadasBaltrusaitis/OpenFace" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Ayatans/Machine-Learning-homework</title>
-    <updated>2022-06-01T01:46:42Z</updated>
-    <id>tag:github.com,2022-06-01:/Ayatans/Machine-Learning-homework</id>
-    <link href="https://github.com/Ayatans/Machine-Learning-homework" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Matlab Coding homework for Machine Learning&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bw1129/PIDtoolbox</title>
-    <updated>2022-06-01T01:46:42Z</updated>
-    <id>tag:github.com,2022-06-01:/bw1129/PIDtoolbox</id>
-    <link href="https://github.com/bw1129/PIDtoolbox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PIDtoolbox is a set of graphical tools for analyzing blackbox log data&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nfloery/crowd-flow-optimization</title>
-    <updated>2022-06-01T01:46:42Z</updated>
-    <id>tag:github.com,2022-06-01:/nfloery/crowd-flow-optimization</id>
-    <link href="https://github.com/nfloery/crowd-flow-optimization" rel="alternate"></link>
+    <title>cooperrc/computational-mechanics</title>
+    <updated>2022-06-02T01:47:32Z</updated>
+    <id>tag:github.com,2022-06-02:/cooperrc/computational-mechanics</id>
+    <link href="https://github.com/cooperrc/computational-mechanics" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>googollee/eviltransform</title>
-    <updated>2022-06-01T01:46:42Z</updated>
-    <id>tag:github.com,2022-06-01:/googollee/eviltransform</id>
-    <link href="https://github.com/googollee/eviltransform" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Transport coordinate between earth(WGS-84) and mars in china(GCJ-02).&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Metkom/OSGPUP</title>
+    <updated>2022-06-02T01:47:32Z</updated>
+    <id>tag:github.com,2022-06-02:/Metkom/OSGPUP</id>
+    <link href="https://github.com/Metkom/OSGPUP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OSGPUP: An open-source library for geophysical data processing and interpretation based on C++, Perl, Octave and Python.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>macs-lab/macs-arb-adaptive-regulation-benchmark</title>
-    <updated>2022-06-01T01:46:42Z</updated>
-    <id>tag:github.com,2022-06-01:/macs-lab/macs-arb-adaptive-regulation-benchmark</id>
-    <link href="https://github.com/macs-lab/macs-arb-adaptive-regulation-benchmark" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fast adaptative regulation of time-varying disturbances demo.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sccn/eeglab</title>
+    <updated>2022-06-02T01:47:32Z</updated>
+    <id>tag:github.com,2022-06-02:/sccn/eeglab</id>
+    <link href="https://github.com/sccn/eeglab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;EEGLAB is an open source signal processing environment for electrophysiological signals running on Matlab and developed at the SCCN/UCSD&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mathworks/MathWorks-Excellence-in-Innovation</title>
+    <updated>2022-06-02T01:47:32Z</updated>
+    <id>tag:github.com,2022-06-02:/mathworks/MathWorks-Excellence-in-Innovation</id>
+    <link href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Capstone and senior design project ideas for undergraduate and graduate students to gain practical experience and insight into technology trends and industry directions.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>VincentWong3/automated-driving-control</title>
+    <updated>2022-06-02T01:47:32Z</updated>
+    <id>tag:github.com,2022-06-02:/VincentWong3/automated-driving-control</id>
+    <link href="https://github.com/VincentWong3/automated-driving-control" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

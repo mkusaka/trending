@@ -1,56 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:44:41Z</updated>
+  <updated>2022-06-02T02:47:12Z</updated>
   <subtitle>Monthly Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>NixOS/nixpkgs</title>
-    <updated>2022-06-01T02:44:41Z</updated>
-    <id>tag:github.com,2022-06-01:/NixOS/nixpkgs</id>
-    <link href="https://github.com/NixOS/nixpkgs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nix Packages collection&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mitchellh/nixos-config</title>
-    <updated>2022-06-01T02:44:41Z</updated>
-    <id>tag:github.com,2022-06-01:/mitchellh/nixos-config</id>
-    <link href="https://github.com/mitchellh/nixos-config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My NixOS configurations.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nubank/nixpkgs</title>
-    <updated>2022-06-01T02:44:41Z</updated>
-    <id>tag:github.com,2022-06-01:/nubank/nixpkgs</id>
-    <link href="https://github.com/nubank/nixpkgs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nix Packages collection used in Nubank&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>input-output-hk/haskell.nix</title>
-    <updated>2022-06-01T02:44:41Z</updated>
-    <id>tag:github.com,2022-06-01:/input-output-hk/haskell.nix</id>
-    <link href="https://github.com/input-output-hk/haskell.nix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Alternative Haskell Infrastructure for Nixpkgs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>input-output-hk/cardano-world</title>
-    <updated>2022-06-01T02:44:41Z</updated>
-    <id>tag:github.com,2022-06-01:/input-output-hk/cardano-world</id>
-    <link href="https://github.com/input-output-hk/cardano-world" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nix-community/home-manager</title>
-    <updated>2022-06-01T02:44:41Z</updated>
-    <id>tag:github.com,2022-06-01:/nix-community/home-manager</id>
-    <link href="https://github.com/nix-community/home-manager" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Manage a user environment using Nix [maintainer=@rycee]&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hlissner/dotfiles</title>
-    <updated>2022-06-01T02:44:41Z</updated>
-    <id>tag:github.com,2022-06-01:/hlissner/dotfiles</id>
-    <link href="https://github.com/hlissner/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;And I say hey, what&#39;s going on?&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NixOS/nixos-hardware</title>
+    <updated>2022-06-02T02:47:12Z</updated>
+    <id>tag:github.com,2022-06-02:/NixOS/nixos-hardware</id>
+    <link href="https://github.com/NixOS/nixos-hardware" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of NixOS modules covering hardware quirks.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,35 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Handlebars Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:10:44Z</updated>
+  <updated>2022-06-02T02:12:40Z</updated>
   <subtitle>Weekly Trending of Handlebars in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>elastic/integrations</title>
-    <updated>2022-06-01T02:10:44Z</updated>
-    <id>tag:github.com,2022-06-01:/elastic/integrations</id>
-    <link href="https://github.com/elastic/integrations" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elastic Integrations&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>haxball/haxball-issues</title>
-    <updated>2022-06-01T02:10:44Z</updated>
-    <id>tag:github.com,2022-06-01:/haxball/haxball-issues</id>
-    <link href="https://github.com/haxball/haxball-issues" rel="alternate"></link>
+    <title>pivotal/docs-tap</title>
+    <updated>2022-06-02T02:12:40Z</updated>
+    <id>tag:github.com,2022-06-02:/pivotal/docs-tap</id>
+    <link href="https://github.com/pivotal/docs-tap" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>CrunchyData/postgres-operator-examples</title>
-    <updated>2022-06-01T02:10:44Z</updated>
-    <id>tag:github.com,2022-06-01:/CrunchyData/postgres-operator-examples</id>
-    <link href="https://github.com/CrunchyData/postgres-operator-examples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Examples for deploying applications with PGO, the Postgres Operator from Crunchy Data&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mulesoft/docs-site-ui</title>
-    <updated>2022-06-01T02:10:44Z</updated>
-    <id>tag:github.com,2022-06-01:/mulesoft/docs-site-ui</id>
-    <link href="https://github.com/mulesoft/docs-site-ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This project produces the UI bundles used by the MuleSoft documentation sites.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,182 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T01:37:08Z</updated>
+  <updated>2022-06-02T01:37:39Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>microsoft/vcpkg</title>
-    <updated>2022-06-01T01:37:08Z</updated>
-    <id>tag:github.com,2022-06-01:/microsoft/vcpkg</id>
-    <link href="https://github.com/microsoft/vcpkg" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;C++ Library Manager for Windows, Linux, and MacOS&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ethz-asl/protobuf_catkin</title>
+    <updated>2022-06-02T01:37:39Z</updated>
+    <id>tag:github.com,2022-06-02:/ethz-asl/protobuf_catkin</id>
+    <link href="https://github.com/ethz-asl/protobuf_catkin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A catkin wrapper for Google protocol buffers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ttroy50/cmake-examples</title>
-    <updated>2022-06-01T01:37:08Z</updated>
-    <id>tag:github.com,2022-06-01:/ttroy50/cmake-examples</id>
-    <link href="https://github.com/ttroy50/cmake-examples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Useful CMake Examples&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>editorconfig/editorconfig-core-test</title>
+    <updated>2022-06-02T01:37:39Z</updated>
+    <id>tag:github.com,2022-06-02:/editorconfig/editorconfig-core-test</id>
+    <link href="https://github.com/editorconfig/editorconfig-core-test" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Testings for EditorConfig Core&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>TheLartians/ModernCppStarter</title>
-    <updated>2022-06-01T01:37:08Z</updated>
-    <id>tag:github.com,2022-06-01:/TheLartians/ModernCppStarter</id>
-    <link href="https://github.com/TheLartians/ModernCppStarter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ethz-asl/gflags_catkin</title>
+    <updated>2022-06-02T01:37:39Z</updated>
+    <id>tag:github.com,2022-06-02:/ethz-asl/gflags_catkin</id>
+    <link href="https://github.com/ethz-asl/gflags_catkin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A catkin wrapper for Google gflags&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>TartanLlama/tl-cmake</title>
-    <updated>2022-06-01T01:37:08Z</updated>
-    <id>tag:github.com,2022-06-01:/TartanLlama/tl-cmake</id>
-    <link href="https://github.com/TartanLlama/tl-cmake" rel="alternate"></link>
+    <title>steinbergmedia/vst3_cmake</title>
+    <updated>2022-06-02T01:37:39Z</updated>
+    <id>tag:github.com,2022-06-02:/steinbergmedia/vst3_cmake</id>
+    <link href="https://github.com/steinbergmedia/vst3_cmake" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ROBOTIS-GIT/dynamixel-workbench-msgs</title>
-    <updated>2022-06-01T01:37:08Z</updated>
-    <id>tag:github.com,2022-06-01:/ROBOTIS-GIT/dynamixel-workbench-msgs</id>
-    <link href="https://github.com/ROBOTIS-GIT/dynamixel-workbench-msgs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Message package for dynamixel-workbench&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ethz-asl/opencv3_catkin</title>
+    <updated>2022-06-02T01:37:39Z</updated>
+    <id>tag:github.com,2022-06-02:/ethz-asl/opencv3_catkin</id>
+    <link href="https://github.com/ethz-asl/opencv3_catkin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Catkin wrapper for opencv3&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ojdkbuild/ojdkbuild</title>
-    <updated>2022-06-01T01:37:08Z</updated>
-    <id>tag:github.com,2022-06-01:/ojdkbuild/ojdkbuild</id>
-    <link href="https://github.com/ojdkbuild/ojdkbuild" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Community builds using source code from OpenJDK project&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ethz-asl/glog_catkin</title>
+    <updated>2022-06-02T01:37:39Z</updated>
+    <id>tag:github.com,2022-06-02:/ethz-asl/glog_catkin</id>
+    <link href="https://github.com/ethz-asl/glog_catkin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A catkin wrapper for Google glog&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bit-bots/humanoid_league_msgs</title>
-    <updated>2022-06-01T01:37:08Z</updated>
-    <id>tag:github.com,2022-06-01:/bit-bots/humanoid_league_msgs</id>
-    <link href="https://github.com/bit-bots/humanoid_league_msgs" rel="alternate"></link>
+    <title>couchbase/tlm</title>
+    <updated>2022-06-02T01:37:39Z</updated>
+    <id>tag:github.com,2022-06-02:/couchbase/tlm</id>
+    <link href="https://github.com/couchbase/tlm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;top level makefile&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>CogRob/catkin_grpc</title>
+    <updated>2022-06-02T01:37:39Z</updated>
+    <id>tag:github.com,2022-06-02:/CogRob/catkin_grpc</id>
+    <link href="https://github.com/CogRob/catkin_grpc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Integrates gRPC into Catkin/ROS ecosystem.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ethz-asl/eigen_catkin</title>
+    <updated>2022-06-02T01:37:39Z</updated>
+    <id>tag:github.com,2022-06-02:/ethz-asl/eigen_catkin</id>
+    <link href="https://github.com/ethz-asl/eigen_catkin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Eigen convenience for catkin&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ethz-asl/catkin_boost_python_buildtool</title>
+    <updated>2022-06-02T01:37:39Z</updated>
+    <id>tag:github.com,2022-06-02:/ethz-asl/catkin_boost_python_buildtool</id>
+    <link href="https://github.com/ethz-asl/catkin_boost_python_buildtool" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;catkin &#39;buildtool&#39; for boost python c++ libraries&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JCSDA-internal/ufo-data</title>
+    <updated>2022-06-02T01:37:39Z</updated>
+    <id>tag:github.com,2022-06-02:/JCSDA-internal/ufo-data</id>
+    <link href="https://github.com/JCSDA-internal/ufo-data" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tier-1 test files for ufo repository&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zeek/cmake</title>
+    <updated>2022-06-02T01:37:39Z</updated>
+    <id>tag:github.com,2022-06-02:/zeek/cmake</id>
+    <link href="https://github.com/zeek/cmake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CMake scripts used in Zeek&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure/c-testrunnerswitcher</title>
+    <updated>2022-06-02T01:37:39Z</updated>
+    <id>tag:github.com,2022-06-02:/Azure/c-testrunnerswitcher</id>
+    <link href="https://github.com/Azure/c-testrunnerswitcher" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;C test runner switcher repo to be broken off from azure-c-shared-utility so it can be reused in several of our IoT repos&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>astuff/astuff_sensor_msgs</title>
+    <updated>2022-06-02T01:37:39Z</updated>
+    <id>tag:github.com,2022-06-02:/astuff/astuff_sensor_msgs</id>
+    <link href="https://github.com/astuff/astuff_sensor_msgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A set of messages specific to each sensor supported by AutonomouStuff.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>autowarefoundation/autoware_common</title>
+    <updated>2022-06-02T01:37:39Z</updated>
+    <id>tag:github.com,2022-06-02:/autowarefoundation/autoware_common</id>
+    <link href="https://github.com/autowarefoundation/autoware_common" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>yujinrobot/kobuki_msgs</title>
-    <updated>2022-06-01T01:37:08Z</updated>
-    <id>tag:github.com,2022-06-01:/yujinrobot/kobuki_msgs</id>
-    <link href="https://github.com/yujinrobot/kobuki_msgs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Custom ROS messages for Kobuki&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bit-bots/bitbots_msgs</title>
-    <updated>2022-06-01T01:37:08Z</updated>
-    <id>tag:github.com,2022-06-01:/bit-bots/bitbots_msgs</id>
-    <link href="https://github.com/bit-bots/bitbots_msgs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ROS package with message definitions from the RoboCup team Hamburg Bit-Bots&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ros-sports/biped_interfaces</title>
-    <updated>2022-06-01T01:37:08Z</updated>
-    <id>tag:github.com,2022-06-01:/ros-sports/biped_interfaces</id>
-    <link href="https://github.com/ros-sports/biped_interfaces" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A package defining interfaces used for a biped robot.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mosra/toolchains</title>
-    <updated>2022-06-01T01:37:08Z</updated>
-    <id>tag:github.com,2022-06-01:/mosra/toolchains</id>
-    <link href="https://github.com/mosra/toolchains" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Toolchains for crosscompiling with CMake.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>allnes/pp_2022_spring_report</title>
-    <updated>2022-06-01T01:37:08Z</updated>
-    <id>tag:github.com,2022-06-01:/allnes/pp_2022_spring_report</id>
-    <link href="https://github.com/allnes/pp_2022_spring_report" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ros-sports/soccer_interfaces</title>
-    <updated>2022-06-01T01:37:08Z</updated>
-    <id>tag:github.com,2022-06-01:/ros-sports/soccer_interfaces</id>
-    <link href="https://github.com/ros-sports/soccer_interfaces" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A set of packages which contain common soccer interface files&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>StableCoder/cmake-scripts</title>
-    <updated>2022-06-01T01:37:08Z</updated>
-    <id>tag:github.com,2022-06-01:/StableCoder/cmake-scripts</id>
-    <link href="https://github.com/StableCoder/cmake-scripts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A selection of useful scripts for use in CMake projects, include code coverage, sanitizers, and dependency graph generation.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>vthiery/cpp-statsd-client</title>
-    <updated>2022-06-01T01:37:08Z</updated>
-    <id>tag:github.com,2022-06-01:/vthiery/cpp-statsd-client</id>
-    <link href="https://github.com/vthiery/cpp-statsd-client" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A header-only StatsD client implemented in C++&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>PX4/uavcan_board_ident</title>
-    <updated>2022-06-01T01:37:08Z</updated>
-    <id>tag:github.com,2022-06-01:/PX4/uavcan_board_ident</id>
-    <link href="https://github.com/PX4/uavcan_board_ident" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ATLFlight/cmake_hexagon</title>
-    <updated>2022-06-01T01:37:08Z</updated>
-    <id>tag:github.com,2022-06-01:/ATLFlight/cmake_hexagon</id>
-    <link href="https://github.com/ATLFlight/cmake_hexagon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CMake toolchain and rules for building apps for Hexagon DSP and apps processor on Qualcomm SoCs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>EVerest/libtimer</title>
-    <updated>2022-06-01T01:37:08Z</updated>
-    <id>tag:github.com,2022-06-01:/EVerest/libtimer</id>
-    <link href="https://github.com/EVerest/libtimer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Convenient wrapper for often used timer functions&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>leetal/ios-cmake</title>
-    <updated>2022-06-01T01:37:08Z</updated>
-    <id>tag:github.com,2022-06-01:/leetal/ios-cmake</id>
-    <link href="https://github.com/leetal/ios-cmake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A CMake toolchain file for iOS, macOS, watchOS &amp; tvOS C/C++/Obj-C++ development&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mavlink/mavlink</title>
-    <updated>2022-06-01T01:37:08Z</updated>
-    <id>tag:github.com,2022-06-01:/mavlink/mavlink</id>
-    <link href="https://github.com/mavlink/mavlink" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Marshalling / communication library for drones.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>PaulVnc/organ-fight</title>
-    <updated>2022-06-01T01:37:08Z</updated>
-    <id>tag:github.com,2022-06-01:/PaulVnc/organ-fight</id>
-    <link href="https://github.com/PaulVnc/organ-fight" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dendibakh/perf-challenge6</title>
-    <updated>2022-06-01T01:37:08Z</updated>
-    <id>tag:github.com,2022-06-01:/dendibakh/perf-challenge6</id>
-    <link href="https://github.com/dendibakh/perf-challenge6" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>arsenm/sanitizers-cmake</title>
-    <updated>2022-06-01T01:37:08Z</updated>
-    <id>tag:github.com,2022-06-01:/arsenm/sanitizers-cmake</id>
-    <link href="https://github.com/arsenm/sanitizers-cmake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CMake modules to help use sanitizers&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kokkos/mdspan</title>
-    <updated>2022-06-01T01:37:08Z</updated>
-    <id>tag:github.com,2022-06-01:/kokkos/mdspan</id>
-    <link href="https://github.com/kokkos/mdspan" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Reference implementation of mdspan targeting C++23&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>TRL-RMF/caato</title>
-    <updated>2022-06-01T01:37:08Z</updated>
-    <id>tag:github.com,2022-06-01:/TRL-RMF/caato</id>
-    <link href="https://github.com/TRL-RMF/caato" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;V1 of CAATO, deprecated.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ethz-asl/nlopt</title>
+    <updated>2022-06-02T01:37:39Z</updated>
+    <id>tag:github.com,2022-06-02:/ethz-asl/nlopt</id>
+    <link href="https://github.com/ethz-asl/nlopt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This package integrates NL opt with Catkin&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

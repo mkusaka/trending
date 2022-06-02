@@ -1,175 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:31:06Z</updated>
+  <updated>2022-06-02T02:33:20Z</updated>
   <subtitle>Monthly Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lxgw/LxgwWenKai</title>
-    <updated>2022-06-01T02:31:06Z</updated>
-    <id>tag:github.com,2022-06-01:/lxgw/LxgwWenKai</id>
-    <link href="https://github.com/lxgw/LxgwWenKai" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An open-source Chinese font derived from Fontworks&#39; Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>npocmaka/batch.scripts</title>
+    <updated>2022-06-02T02:33:20Z</updated>
+    <id>tag:github.com,2022-06-02:/npocmaka/batch.scripts</id>
+    <link href="https://github.com/npocmaka/batch.scripts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;batch script utils and examples by npocmaka -&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>massgravel/Microsoft-Activation-Scripts</title>
-    <updated>2022-06-01T02:31:06Z</updated>
-    <id>tag:github.com,2022-06-01:/massgravel/Microsoft-Activation-Scripts</id>
-    <link href="https://github.com/massgravel/Microsoft-Activation-Scripts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>badafans/better-cloudflare-ip</title>
-    <updated>2022-06-01T02:31:06Z</updated>
-    <id>tag:github.com,2022-06-01:/badafans/better-cloudflare-ip</id>
-    <link href="https://github.com/badafans/better-cloudflare-ip" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;查找适合自己当前网络环境的优选cloudflare anycast IP&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>R2Northstar/Northstar</title>
-    <updated>2022-06-01T02:31:06Z</updated>
-    <id>tag:github.com,2022-06-01:/R2Northstar/Northstar</id>
-    <link href="https://github.com/R2Northstar/Northstar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repo for packaged Northstar releases&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Atlas-OS/Atlas</title>
-    <updated>2022-06-01T02:31:06Z</updated>
-    <id>tag:github.com,2022-06-01:/Atlas-OS/Atlas</id>
-    <link href="https://github.com/Atlas-OS/Atlas" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An open source modification of the Windows 10 operating system, designed to optimize performance, and latency.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>xinggsf/Adblock-Plus-Rule</title>
-    <updated>2022-06-01T02:31:06Z</updated>
-    <id>tag:github.com,2022-06-01:/xinggsf/Adblock-Plus-Rule</id>
-    <link href="https://github.com/xinggsf/Adblock-Plus-Rule" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;uBlock Origin 乘风广告过滤规则&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Mr-xn/RedTeam_BlueTeam_HW</title>
-    <updated>2022-06-01T02:31:06Z</updated>
-    <id>tag:github.com,2022-06-01:/Mr-xn/RedTeam_BlueTeam_HW</id>
-    <link href="https://github.com/Mr-xn/RedTeam_BlueTeam_HW" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）和内存马查杀工具&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>realpython/python-guide</title>
-    <updated>2022-06-01T02:31:06Z</updated>
-    <id>tag:github.com,2022-06-01:/realpython/python-guide</id>
-    <link href="https://github.com/realpython/python-guide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Python best practices guidebook, written for humans.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>enhorse/java-interview</title>
-    <updated>2022-06-01T02:31:06Z</updated>
-    <id>tag:github.com,2022-06-01:/enhorse/java-interview</id>
-    <link href="https://github.com/enhorse/java-interview" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Вопросы и ответы к интервью Java разработчика&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>AveYo/MediaCreationTool.bat</title>
-    <updated>2022-06-01T02:31:06Z</updated>
-    <id>tag:github.com,2022-06-01:/AveYo/MediaCreationTool.bat</id>
-    <link href="https://github.com/AveYo/MediaCreationTool.bat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>krenx1983/openctp</title>
-    <updated>2022-06-01T02:31:06Z</updated>
-    <id>tag:github.com,2022-06-01:/krenx1983/openctp</id>
-    <link href="https://github.com/krenx1983/openctp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CTP开放平台提供A股、港股、美股、期货、期权等全品种接入通道，通过提供中泰证券XTP、华鑫证券奇点、东方证券OST、东方财富证券EMT、盈透证券TWS等各通道的CTPAPI接口，CTP程序可以无缝对接各股票柜台。平台也提供了一套基于TTS交易系统的模拟环境，同样提供了CTPAPI兼容接口，可以替代Simnow，为CTP量化交易开发者提供7x24可用的模拟环境。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lesuixin/Hearthstone-Hearthbuddy</title>
-    <updated>2022-06-01T02:31:06Z</updated>
-    <id>tag:github.com,2022-06-01:/lesuixin/Hearthstone-Hearthbuddy</id>
-    <link href="https://github.com/lesuixin/Hearthstone-Hearthbuddy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hearthstone 炉石传说 Hearthbuddy 炉石兄弟&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>redgans/RDPngrokkk</title>
-    <updated>2022-06-01T02:31:06Z</updated>
-    <id>tag:github.com,2022-06-01:/redgans/RDPngrokkk</id>
-    <link href="https://github.com/redgans/RDPngrokkk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;adfada&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kkkgo/LTSC-Add-MicrosoftStore</title>
-    <updated>2022-06-01T02:31:06Z</updated>
-    <id>tag:github.com,2022-06-01:/kkkgo/LTSC-Add-MicrosoftStore</id>
-    <link href="https://github.com/kkkgo/LTSC-Add-MicrosoftStore" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Add Windows Store for LTSC&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nicehash/excavator</title>
-    <updated>2022-06-01T02:31:06Z</updated>
-    <id>tag:github.com,2022-06-01:/nicehash/excavator</id>
-    <link href="https://github.com/nicehash/excavator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;NiceHash&#39;s proprietary low-level CUDA miner&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Rdprepogithub01/Rdp</title>
-    <updated>2022-06-01T02:31:06Z</updated>
-    <id>tag:github.com,2022-06-01:/Rdprepogithub01/Rdp</id>
-    <link href="https://github.com/Rdprepogithub01/Rdp" rel="alternate"></link>
+    <title>bill-zhanxg/MEMZ_Destructive_Clean-Download</title>
+    <updated>2022-06-02T02:33:20Z</updated>
+    <id>tag:github.com,2022-06-02:/bill-zhanxg/MEMZ_Destructive_Clean-Download</id>
+    <link href="https://github.com/bill-zhanxg/MEMZ_Destructive_Clean-Download" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>MinatoAka/RDP-New</title>
-    <updated>2022-06-01T02:31:06Z</updated>
-    <id>tag:github.com,2022-06-01:/MinatoAka/RDP-New</id>
-    <link href="https://github.com/MinatoAka/RDP-New" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Free RDP for learning&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>MichaelJorky/Free_RDP_Ngrok</title>
-    <updated>2022-06-01T02:31:06Z</updated>
-    <id>tag:github.com,2022-06-01:/MichaelJorky/Free_RDP_Ngrok</id>
-    <link href="https://github.com/MichaelJorky/Free_RDP_Ngrok" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>aakkam22/windowsUpdateLoopFix</title>
-    <updated>2022-06-01T02:31:06Z</updated>
-    <id>tag:github.com,2022-06-01:/aakkam22/windowsUpdateLoopFix</id>
-    <link href="https://github.com/aakkam22/windowsUpdateLoopFix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An automated script to fix the &#34;Checking for Updates&#34; loop on Windows 7&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bmrf/tron</title>
-    <updated>2022-06-01T02:31:06Z</updated>
-    <id>tag:github.com,2022-06-01:/bmrf/tron</id>
-    <link href="https://github.com/bmrf/tron" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tron&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pal1000/mesa-dist-win</title>
-    <updated>2022-06-01T02:31:06Z</updated>
-    <id>tag:github.com,2022-06-01:/pal1000/mesa-dist-win</id>
-    <link href="https://github.com/pal1000/mesa-dist-win" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pre-built Mesa3D drivers for Windows&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>abbodi1406/KMS_VL_ALL_AIO</title>
-    <updated>2022-06-01T02:31:06Z</updated>
-    <id>tag:github.com,2022-06-01:/abbodi1406/KMS_VL_ALL_AIO</id>
-    <link href="https://github.com/abbodi1406/KMS_VL_ALL_AIO" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Smart Activation Script&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>zkteco-home/redis-windows</title>
-    <updated>2022-06-01T02:31:06Z</updated>
-    <id>tag:github.com,2022-06-01:/zkteco-home/redis-windows</id>
-    <link href="https://github.com/zkteco-home/redis-windows" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Native port of Redis for Windows,it can be installed as service.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>FQrabbit/SSTap-Rule</title>
-    <updated>2022-06-01T02:31:06Z</updated>
-    <id>tag:github.com,2022-06-01:/FQrabbit/SSTap-Rule</id>
-    <link href="https://github.com/FQrabbit/SSTap-Rule" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;支持更多游戏规则，让SSTap成为真正的“网游加速器”&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

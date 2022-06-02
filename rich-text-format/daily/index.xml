@@ -1,70 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rich Text Format Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T01:52:27Z</updated>
+  <updated>2022-06-02T01:53:28Z</updated>
   <subtitle>Daily Trending of Rich Text Format in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TP-Lab/tokens</title>
-    <updated>2022-06-01T01:52:27Z</updated>
-    <id>tag:github.com,2022-06-01:/TP-Lab/tokens</id>
-    <link href="https://github.com/TP-Lab/tokens" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Token assets for TokenPocket&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mcxiaoke/mqtt</title>
+    <updated>2022-06-02T01:53:28Z</updated>
+    <id>tag:github.com,2022-06-02:/mcxiaoke/mqtt</id>
+    <link href="https://github.com/mcxiaoke/mqtt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MQTT协议3.1.1中文翻译版，IoT，物联网&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>xebia-france/contrat-agile</title>
-    <updated>2022-06-01T01:52:27Z</updated>
-    <id>tag:github.com,2022-06-01:/xebia-france/contrat-agile</id>
-    <link href="https://github.com/xebia-france/contrat-agile" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Public contrat-agile website&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>phodal/github</title>
+    <updated>2022-06-02T01:53:28Z</updated>
+    <id>tag:github.com,2022-06-02:/phodal/github</id>
+    <link href="https://github.com/phodal/github" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users&#39; behavior. Find some thing interest.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sqlsec/clover</title>
-    <updated>2022-06-01T01:52:27Z</updated>
-    <id>tag:github.com,2022-06-01:/sqlsec/clover</id>
-    <link href="https://github.com/sqlsec/clover" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Share some hackintosh Clover files 分享一些黑苹果clover配置文件&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>frankwxu/digital-forensics-lab</title>
+    <updated>2022-06-02T01:53:28Z</updated>
+    <id>tag:github.com,2022-06-02:/frankwxu/digital-forensics-lab</id>
+    <link href="https://github.com/frankwxu/digital-forensics-lab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free hands-on digital forensics labs for students and faculty&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>huangyz0918/Hackintosh-Installer-University</title>
-    <updated>2022-06-01T01:52:27Z</updated>
-    <id>tag:github.com,2022-06-01:/huangyz0918/Hackintosh-Installer-University</id>
-    <link href="https://github.com/huangyz0918/Hackintosh-Installer-University" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open source tutorial &amp; information collector for hackintosh installation.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>couchbase/product-texts</title>
+    <updated>2022-06-02T01:53:28Z</updated>
+    <id>tag:github.com,2022-06-02:/couchbase/product-texts</id>
+    <link href="https://github.com/couchbase/product-texts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for product-specific documents (e.g. READMEs, license files, etc.)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jlord/patchwork</title>
-    <updated>2022-06-01T01:52:27Z</updated>
-    <id>tag:github.com,2022-06-01:/jlord/patchwork</id>
-    <link href="https://github.com/jlord/patchwork" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;All the Git-it Workshop completers!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>openFudan/fudan-coursera</title>
+    <updated>2022-06-02T01:53:28Z</updated>
+    <id>tag:github.com,2022-06-02:/openFudan/fudan-coursera</id>
+    <link href="https://github.com/openFudan/fudan-coursera" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;复旦大学课程资源（计算机专业的课程已全部上传~）&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>decalage2/oletools</title>
-    <updated>2022-06-01T01:52:27Z</updated>
-    <id>tag:github.com,2022-06-01:/decalage2/oletools</id>
-    <link href="https://github.com/decalage2/oletools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dotnet/docs-desktop</title>
-    <updated>2022-06-01T01:52:27Z</updated>
-    <id>tag:github.com,2022-06-01:/dotnet/docs-desktop</id>
-    <link href="https://github.com/dotnet/docs-desktop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository contains .NET documentation related to Windows Forms (winforms) and Windows Presentation Foundation (WPF).&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Intelihub/Template_Aluno</title>
-    <updated>2022-06-01T01:52:27Z</updated>
-    <id>tag:github.com,2022-06-01:/Intelihub/Template_Aluno</id>
-    <link href="https://github.com/Intelihub/Template_Aluno" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Template para entregas pessoais/Auto Estudo&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ckeditor/ckeditor4</title>
-    <updated>2022-06-01T01:52:27Z</updated>
-    <id>tag:github.com,2022-06-01:/ckeditor/ckeditor4</id>
-    <link href="https://github.com/ckeditor/ckeditor4" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The best enterprise-grade WYSIWYG editor. Fully customizable with countless features and plugins.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cncf/foundation</title>
+    <updated>2022-06-02T01:53:28Z</updated>
+    <id>tag:github.com,2022-06-02:/cncf/foundation</id>
+    <link href="https://github.com/cncf/foundation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;☁️♮🏛File non-technical issues related to CNCF&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

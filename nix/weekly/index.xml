@@ -1,56 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T02:16:21Z</updated>
+  <updated>2022-06-02T02:18:23Z</updated>
   <subtitle>Weekly Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>NixOS/nixpkgs</title>
-    <updated>2022-06-01T02:16:21Z</updated>
-    <id>tag:github.com,2022-06-01:/NixOS/nixpkgs</id>
-    <link href="https://github.com/NixOS/nixpkgs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nix Packages collection&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cardano-foundation/cardano-token-registry</title>
-    <updated>2022-06-01T02:16:21Z</updated>
-    <id>tag:github.com,2022-06-01:/cardano-foundation/cardano-token-registry</id>
-    <link href="https://github.com/cardano-foundation/cardano-token-registry" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mitchellh/nixos-config</title>
-    <updated>2022-06-01T02:16:21Z</updated>
-    <id>tag:github.com,2022-06-01:/mitchellh/nixos-config</id>
-    <link href="https://github.com/mitchellh/nixos-config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My NixOS configurations.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nix-community/home-manager</title>
-    <updated>2022-06-01T02:16:21Z</updated>
-    <id>tag:github.com,2022-06-01:/nix-community/home-manager</id>
-    <link href="https://github.com/nix-community/home-manager" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Manage a user environment using Nix [maintainer=@rycee]&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>replit/rfbproxy</title>
-    <updated>2022-06-01T02:16:21Z</updated>
-    <id>tag:github.com,2022-06-01:/replit/rfbproxy</id>
-    <link href="https://github.com/replit/rfbproxy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An RFB proxy that enables WebSockets and audio.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>divnix/digga</title>
-    <updated>2022-06-01T02:16:21Z</updated>
-    <id>tag:github.com,2022-06-01:/divnix/digga</id>
-    <link href="https://github.com/divnix/digga" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A flake utility library to craft shell-, home-, and hosts- environments.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>replit/nixpkgs-replit</title>
-    <updated>2022-06-01T02:16:21Z</updated>
-    <id>tag:github.com,2022-06-01:/replit/nixpkgs-replit</id>
-    <link href="https://github.com/replit/nixpkgs-replit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

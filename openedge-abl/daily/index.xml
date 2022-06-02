@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OpenEdge ABL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T01:49:18Z</updated>
+  <updated>2022-06-02T01:50:09Z</updated>
   <subtitle>Daily Trending of OpenEdge ABL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>julik/discreet_proxy</title>
-    <updated>2022-06-01T01:49:18Z</updated>
-    <id>tag:github.com,2022-06-01:/julik/discreet_proxy</id>
-    <link href="https://github.com/julik/discreet_proxy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Generate and read Flame&#39;s .p icon proxies&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

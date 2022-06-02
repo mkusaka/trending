@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ASL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T01:34:43Z</updated>
+  <updated>2022-06-02T01:35:08Z</updated>
   <subtitle>Daily Trending of ASL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>daliansky/XiaoMi-Pro-Hackintosh</title>
-    <updated>2022-06-01T01:34:43Z</updated>
-    <id>tag:github.com,2022-06-01:/daliansky/XiaoMi-Pro-Hackintosh</id>
-    <link href="https://github.com/daliansky/XiaoMi-Pro-Hackintosh" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;XiaoMi NoteBook Pro Hackintosh&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sunflower2333/MU-sm8150pkg</title>
-    <updated>2022-06-01T01:34:43Z</updated>
-    <id>tag:github.com,2022-06-01:/sunflower2333/MU-sm8150pkg</id>
-    <link href="https://github.com/sunflower2333/MU-sm8150pkg" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Trying to port SurfaceDuoPkg for other msmnile devices.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>osy/HaC-Mini</title>
-    <updated>2022-06-01T01:34:43Z</updated>
-    <id>tag:github.com,2022-06-01:/osy/HaC-Mini</id>
-    <link href="https://github.com/osy/HaC-Mini" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Intel NUC Hades Canyon Hackintosh support&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

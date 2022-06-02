@@ -1,49 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Handlebars Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-01T01:42:31Z</updated>
+  <updated>2022-06-02T01:43:16Z</updated>
   <subtitle>Daily Trending of Handlebars in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rustlang-cn/rusty-book</title>
-    <updated>2022-06-01T01:42:31Z</updated>
-    <id>tag:github.com,2022-06-01:/rustlang-cn/rusty-book</id>
-    <link href="https://github.com/rustlang-cn/rusty-book" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of recipes and repos that can be used to build your rusty projects. Rusty Book = Cookbook + Awesome Rust！&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>wet-boew/wet-boew</title>
-    <updated>2022-06-01T01:42:31Z</updated>
-    <id>tag:github.com,2022-06-01:/wet-boew/wet-boew</id>
-    <link href="https://github.com/wet-boew/wet-boew" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Web Experience Toolkit (WET): Open source code library for building innovative websites that are accessible, usable, interoperable, mobile-friendly and multilingual. This collaborative open source project is led by the Government of Canada.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>alexey-goloburdin/typed-python-book</title>
-    <updated>2022-06-01T01:42:31Z</updated>
-    <id>tag:github.com,2022-06-01:/alexey-goloburdin/typed-python-book</id>
-    <link href="https://github.com/alexey-goloburdin/typed-python-book" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pivotal/docs-tap</title>
-    <updated>2022-06-01T01:42:31Z</updated>
-    <id>tag:github.com,2022-06-01:/pivotal/docs-tap</id>
-    <link href="https://github.com/pivotal/docs-tap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>CrunchyData/postgres-operator-examples</title>
-    <updated>2022-06-01T01:42:31Z</updated>
-    <id>tag:github.com,2022-06-01:/CrunchyData/postgres-operator-examples</id>
-    <link href="https://github.com/CrunchyData/postgres-operator-examples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Examples for deploying applications with PGO, the Postgres Operator from Crunchy Data&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>elastic/integrations</title>
-    <updated>2022-06-01T01:42:31Z</updated>
-    <id>tag:github.com,2022-06-01:/elastic/integrations</id>
-    <link href="https://github.com/elastic/integrations" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elastic Integrations&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
