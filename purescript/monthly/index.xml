@@ -1,49 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PureScript Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:50:21Z</updated>
+  <updated>2022-06-03T02:49:56Z</updated>
   <subtitle>Monthly Trending of PureScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>purescript-web/purescript-web-html</title>
-    <updated>2022-06-02T02:50:21Z</updated>
-    <id>tag:github.com,2022-06-02:/purescript-web/purescript-web-html</id>
-    <link href="https://github.com/purescript-web/purescript-web-html" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Type definitions and low level interface implementations for the W3C HTML5 spec&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sharkdp/insect</title>
+    <updated>2022-06-03T02:49:56Z</updated>
+    <id>tag:github.com,2022-06-03:/sharkdp/insect</id>
+    <link href="https://github.com/sharkdp/insect" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;High precision scientific calculator with support for physical units&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purescript/purescript-psci-support</title>
-    <updated>2022-06-02T02:50:21Z</updated>
-    <id>tag:github.com,2022-06-02:/purescript/purescript-psci-support</id>
-    <link href="https://github.com/purescript/purescript-psci-support" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Support module for the PSCI interactive mode&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript/purescript-functors</title>
+    <updated>2022-06-03T02:49:56Z</updated>
+    <id>tag:github.com,2022-06-03:/purescript/purescript-functors</id>
+    <link href="https://github.com/purescript/purescript-functors" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Functor products, coproducts, and composition&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purescript/purescript-random</title>
-    <updated>2022-06-02T02:50:21Z</updated>
-    <id>tag:github.com,2022-06-02:/purescript/purescript-random</id>
-    <link href="https://github.com/purescript/purescript-random" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Random number generation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript/purescript-maybe</title>
+    <updated>2022-06-03T02:49:56Z</updated>
+    <id>tag:github.com,2022-06-03:/purescript/purescript-maybe</id>
+    <link href="https://github.com/purescript/purescript-maybe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Optional values&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purescript-contrib/purescript-argonaut-core</title>
-    <updated>2022-06-02T02:50:21Z</updated>
-    <id>tag:github.com,2022-06-02:/purescript-contrib/purescript-argonaut-core</id>
-    <link href="https://github.com/purescript-contrib/purescript-argonaut-core" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A fast, native representation for JSON, with serialization and folding&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>purescript/purescript-profunctor</title>
-    <updated>2022-06-02T02:50:21Z</updated>
-    <id>tag:github.com,2022-06-02:/purescript/purescript-profunctor</id>
-    <link href="https://github.com/purescript/purescript-profunctor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Profunctor type classes and data structures&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>purescript/purescript-integers</title>
-    <updated>2022-06-02T02:50:21Z</updated>
-    <id>tag:github.com,2022-06-02:/purescript/purescript-integers</id>
-    <link href="https://github.com/purescript/purescript-integers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Functions and bitwise operators for the Int numeric type&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript/purescript-newtype</title>
+    <updated>2022-06-03T02:49:56Z</updated>
+    <id>tag:github.com,2022-06-03:/purescript/purescript-newtype</id>
+    <link href="https://github.com/purescript/purescript-newtype" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Type class and functions for working with newtypes&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,42 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:37:49Z</updated>
+  <updated>2022-06-03T01:35:47Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>morrisjs/morris.js</title>
-    <updated>2022-06-02T01:37:49Z</updated>
-    <id>tag:github.com,2022-06-02:/morrisjs/morris.js</id>
-    <link href="https://github.com/morrisjs/morris.js" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pretty time-series line graphs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>programmfabrik/easydb-library</title>
+    <updated>2022-06-03T01:35:47Z</updated>
+    <id>tag:github.com,2022-06-03:/programmfabrik/easydb-library</id>
+    <link href="https://github.com/programmfabrik/easydb-library" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Library to support Plugin Development for easydb&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>lukaszb/pypi</title>
-    <updated>2022-06-02T01:37:49Z</updated>
-    <id>tag:github.com,2022-06-02:/lukaszb/pypi</id>
-    <link href="https://github.com/lukaszb/pypi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Node client for Python Package Index&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>adamgamble/jenkins_wall_display_webgl</title>
-    <updated>2022-06-02T01:37:49Z</updated>
-    <id>tag:github.com,2022-06-02:/adamgamble/jenkins_wall_display_webgl</id>
-    <link href="https://github.com/adamgamble/jenkins_wall_display_webgl" rel="alternate"></link>
+    <title>programmfabrik/easydb-custom-data-type-gn250</title>
+    <updated>2022-06-03T01:35:47Z</updated>
+    <id>tag:github.com,2022-06-03:/programmfabrik/easydb-custom-data-type-gn250</id>
+    <link href="https://github.com/programmfabrik/easydb-custom-data-type-gn250" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>basecamp/local_time</title>
-    <updated>2022-06-02T01:37:49Z</updated>
-    <id>tag:github.com,2022-06-02:/basecamp/local_time</id>
-    <link href="https://github.com/basecamp/local_time" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rails engine for cache-friendly, client-side local time&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>scottybarr/track-my-bus</title>
+    <updated>2022-06-03T01:35:47Z</updated>
+    <id>tag:github.com,2022-06-03:/scottybarr/track-my-bus</id>
+    <link href="https://github.com/scottybarr/track-my-bus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Backup bus tracker for lothian buses.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>fbsamples/graph-api-webhooks-samples</title>
-    <updated>2022-06-02T01:37:49Z</updated>
-    <id>tag:github.com,2022-06-02:/fbsamples/graph-api-webhooks-samples</id>
-    <link href="https://github.com/fbsamples/graph-api-webhooks-samples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;These are sample clients for Facebook&#39;s Graph API Webhooks and Instagram&#39;s Real-time Photo Updates API.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Clever/sentry-node</title>
+    <updated>2022-06-03T01:35:47Z</updated>
+    <id>tag:github.com,2022-06-03:/Clever/sentry-node</id>
+    <link href="https://github.com/Clever/sentry-node" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;simple node wrapper around the Sentry API&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Clever/node-redis-reservation</title>
+    <updated>2022-06-03T01:35:47Z</updated>
+    <id>tag:github.com,2022-06-03:/Clever/node-redis-reservation</id>
+    <link href="https://github.com/Clever/node-redis-reservation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Distributed locking mechanism built on redis.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>iron-io/iron_core_node</title>
+    <updated>2022-06-03T01:35:47Z</updated>
+    <id>tag:github.com,2022-06-03:/iron-io/iron_core_node</id>
+    <link href="https://github.com/iron-io/iron_core_node" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Glavin001/atom-beautify</title>
+    <updated>2022-06-03T01:35:47Z</updated>
+    <id>tag:github.com,2022-06-03:/Glavin001/atom-beautify</id>
+    <link href="https://github.com/Glavin001/atom-beautify" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📣 Help Wanted - Looking for Maintainer: https://github.com/Glavin001/atom-beautify/issues/2572 | 💄 Universal beautification package for Atom editor (⚠️ Currently migrating to https://github.com/Unibeautify/ and have very limited bandwidth for Atom-Beautify Issues. Thank you for your patience and understanding ❤️ )&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>FelisCatus/SwitchyOmega</title>
+    <updated>2022-06-03T01:35:47Z</updated>
+    <id>tag:github.com,2022-06-03:/FelisCatus/SwitchyOmega</id>
+    <link href="https://github.com/FelisCatus/SwitchyOmega" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Manage and switch between multiple proxies quickly &amp; easily.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Clever/ARCHIVED-json-schema-converter</title>
+    <updated>2022-06-03T01:35:47Z</updated>
+    <id>tag:github.com,2022-06-03:/Clever/ARCHIVED-json-schema-converter</id>
+    <link href="https://github.com/Clever/ARCHIVED-json-schema-converter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Utilities to translate your schema into anything, as long as &#39;anything&#39; is JSON Schema.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

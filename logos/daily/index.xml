@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Logos Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:46:34Z</updated>
+  <updated>2022-06-03T01:44:33Z</updated>
   <subtitle>Daily Trending of Logos in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>donato-fiore/GameSeagull</title>
-    <updated>2022-06-02T01:46:34Z</updated>
-    <id>tag:github.com,2022-06-02:/donato-fiore/GameSeagull</id>
-    <link href="https://github.com/donato-fiore/GameSeagull" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Tweak for GamerDelights&#39; GamePigeon&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Paisseon/SatellaJailed</title>
+    <updated>2022-06-03T01:44:33Z</updated>
+    <id>tag:github.com,2022-06-03:/Paisseon/SatellaJailed</id>
+    <link href="https://github.com/Paisseon/SatellaJailed" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A jailed in-app purchase cracker for iOS 12.0-15.4.1&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:41:52Z</updated>
+  <updated>2022-06-03T01:39:48Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Whimfoome/godot-FirstPersonStarter</title>
-    <updated>2022-06-02T01:41:52Z</updated>
-    <id>tag:github.com,2022-06-02:/Whimfoome/godot-FirstPersonStarter</id>
-    <link href="https://github.com/Whimfoome/godot-FirstPersonStarter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;FPS (First Person Shooter) controller template for Godot 3.5 to give starter content for a new or already existing project!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Totobird-Creations/Godot-GDScript-Plus</title>
-    <updated>2022-06-02T01:41:52Z</updated>
-    <id>tag:github.com,2022-06-02:/Totobird-Creations/Godot-GDScript-Plus</id>
-    <link href="https://github.com/Totobird-Creations/Godot-GDScript-Plus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An addon for Godot 3.4, written completely in GDScript, that gives GDScript some extra functionality.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>RodZill4/material-maker</title>
-    <updated>2022-06-02T01:41:52Z</updated>
-    <id>tag:github.com,2022-06-02:/RodZill4/material-maker</id>
-    <link href="https://github.com/RodZill4/material-maker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A procedural textures authoring and 3D model painting tool based on the Godot game engine&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kyzfrintin/Godot-Mixing-Desk</title>
+    <updated>2022-06-03T01:39:48Z</updated>
+    <id>tag:github.com,2022-06-03:/kyzfrintin/Godot-Mixing-Desk</id>
+    <link href="https://github.com/kyzfrintin/Godot-Mixing-Desk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A complete audio solution for Godot 3.3.x, making procedural sound and adaptive/procedural music possible with a few nodes and a couple lines of code.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

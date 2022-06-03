@@ -1,112 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:33:55Z</updated>
+  <updated>2022-06-03T01:32:01Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sottlmarek/DevSecOps</title>
-    <updated>2022-06-02T01:33:55Z</updated>
-    <id>tag:github.com,2022-06-02:/sottlmarek/DevSecOps</id>
-    <link href="https://github.com/sottlmarek/DevSecOps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ultimate DevSecOps library&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>coderQuad/New-Grad-Positions-2023</title>
+    <updated>2022-06-03T01:32:01Z</updated>
+    <id>tag:github.com,2022-06-03:/coderQuad/New-Grad-Positions-2023</id>
+    <link href="https://github.com/coderQuad/New-Grad-Positions-2023" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of New Grad full time roles in SWE, Quant, and PM.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>djsime1/awesome-flipperzero</title>
-    <updated>2022-06-02T01:33:55Z</updated>
-    <id>tag:github.com,2022-06-02:/djsime1/awesome-flipperzero</id>
-    <link href="https://github.com/djsime1/awesome-flipperzero" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🐬 A collection of awesome resources for the Flipper Zero device.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>khangich/machine-learning-interview</title>
+    <updated>2022-06-03T01:32:01Z</updated>
+    <id>tag:github.com,2022-06-03:/khangich/machine-learning-interview</id>
+    <link href="https://github.com/khangich/machine-learning-interview" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>freefq/free</title>
-    <updated>2022-06-02T01:33:55Z</updated>
-    <id>tag:github.com,2022-06-02:/freefq/free</id>
-    <link href="https://github.com/freefq/free" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DavidBrightSparc/Tenets-of-IT</title>
+    <updated>2022-06-03T01:32:01Z</updated>
+    <id>tag:github.com,2022-06-03:/DavidBrightSparc/Tenets-of-IT</id>
+    <link href="https://github.com/DavidBrightSparc/Tenets-of-IT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Tenets of IT: an accumulation of IT advice, wisdom, and humour.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>frontendbr/vagas</title>
-    <updated>2022-06-02T01:33:55Z</updated>
-    <id>tag:github.com,2022-06-02:/frontendbr/vagas</id>
-    <link href="https://github.com/frontendbr/vagas" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔬 Espaço para divulgação de vagas para front-enders.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>byoungd/English-level-up-tips</title>
+    <updated>2022-06-03T01:32:01Z</updated>
+    <id>tag:github.com,2022-06-03:/byoungd/English-level-up-tips</id>
+    <link href="https://github.com/byoungd/English-level-up-tips" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An advanced guide to learn English which might benefit you a lot 🎉 . 可能是让你受益匪浅的英语进阶指南。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ManasHarsh/Awesome-Web3-security</title>
-    <updated>2022-06-02T01:33:55Z</updated>
-    <id>tag:github.com,2022-06-02:/ManasHarsh/Awesome-Web3-security</id>
-    <link href="https://github.com/ManasHarsh/Awesome-Web3-security" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of resources for learning web3 hacking/Security&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>formulahendry/955.WLB</title>
+    <updated>2022-06-03T01:32:01Z</updated>
+    <id>tag:github.com,2022-06-03:/formulahendry/955.WLB</id>
+    <link href="https://github.com/formulahendry/955.WLB" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mit-han-lab/bevfusion</title>
-    <updated>2022-06-02T01:33:55Z</updated>
-    <id>tag:github.com,2022-06-02:/mit-han-lab/bevfusion</id>
-    <link href="https://github.com/mit-han-lab/bevfusion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird&#39;s-Eye View Representation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Wechat-ggGitHub/Awesome-GitHub-Repo</title>
+    <updated>2022-06-03T01:32:01Z</updated>
+    <id>tag:github.com,2022-06-03:/Wechat-ggGitHub/Awesome-GitHub-Repo</id>
+    <link href="https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;收集整理 GitHub 上高质量、有趣的开源项目。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>taowen/awesome-lowcode</title>
-    <updated>2022-06-02T01:33:55Z</updated>
-    <id>tag:github.com,2022-06-02:/taowen/awesome-lowcode</id>
-    <link href="https://github.com/taowen/awesome-lowcode" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;国内低代码平台从业者交流&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JMousqueton/PoC-CVE-2022-30190</title>
+    <updated>2022-06-03T01:32:01Z</updated>
+    <id>tag:github.com,2022-06-03:/JMousqueton/PoC-CVE-2022-30190</id>
+    <link href="https://github.com/JMousqueton/PoC-CVE-2022-30190" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>coder2gwy/coder2gwy</title>
-    <updated>2022-06-02T01:33:55Z</updated>
-    <id>tag:github.com,2022-06-02:/coder2gwy/coder2gwy</id>
-    <link href="https://github.com/coder2gwy/coder2gwy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>josejesusguzman/acordeon-az900-innovaccion</title>
+    <updated>2022-06-03T01:32:01Z</updated>
+    <id>tag:github.com,2022-06-03:/josejesusguzman/acordeon-az900-innovaccion</id>
+    <link href="https://github.com/josejesusguzman/acordeon-az900-innovaccion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Aquí podrás encontrar recursos clave y adicionales para tu paso por la certificación Microsoft Azure Fundamentals AZ-900&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Universidade-Livre/ciencia-da-computacao</title>
-    <updated>2022-06-02T01:33:55Z</updated>
-    <id>tag:github.com,2022-06-02:/Universidade-Livre/ciencia-da-computacao</id>
-    <link href="https://github.com/Universidade-Livre/ciencia-da-computacao" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎓 Um caminho para a educação autodidata em Ciência da Computação!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MuhammedKalkan/OpenLens</title>
+    <updated>2022-06-03T01:32:01Z</updated>
+    <id>tag:github.com,2022-06-03:/MuhammedKalkan/OpenLens</id>
+    <link href="https://github.com/MuhammedKalkan/OpenLens" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenLens Binary Build Repository&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>arthurspk/guiadevbrasil</title>
-    <updated>2022-06-02T01:33:55Z</updated>
-    <id>tag:github.com,2022-06-02:/arthurspk/guiadevbrasil</id>
-    <link href="https://github.com/arthurspk/guiadevbrasil" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GUIA EXTENSO DE PROGRAMAÇÃO:&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>penberg/awesome-low-latency</title>
+    <updated>2022-06-03T01:32:01Z</updated>
+    <id>tag:github.com,2022-06-03:/penberg/awesome-low-latency</id>
+    <link href="https://github.com/penberg/awesome-low-latency" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>microsoft/api-guidelines</title>
-    <updated>2022-06-02T01:33:55Z</updated>
-    <id>tag:github.com,2022-06-02:/microsoft/api-guidelines</id>
-    <link href="https://github.com/microsoft/api-guidelines" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Microsoft REST API Guidelines&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>xream/scripts</title>
+    <updated>2022-06-03T01:32:01Z</updated>
+    <id>tag:github.com,2022-06-03:/xream/scripts</id>
+    <link href="https://github.com/xream/scripts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>reprise99/Sentinel-Queries</title>
-    <updated>2022-06-02T01:33:55Z</updated>
-    <id>tag:github.com,2022-06-02:/reprise99/Sentinel-Queries</id>
-    <link href="https://github.com/reprise99/Sentinel-Queries" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of KQL queries&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>amusi/CVPR2022-Papers-with-Code</title>
+    <updated>2022-06-03T01:32:01Z</updated>
+    <id>tag:github.com,2022-06-03:/amusi/CVPR2022-Papers-with-Code</id>
+    <link href="https://github.com/amusi/CVPR2022-Papers-with-Code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CVPR 2022 论文和开源项目合集&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>azat-io/you-dont-know-js-ru</title>
-    <updated>2022-06-02T01:33:55Z</updated>
-    <id>tag:github.com,2022-06-02:/azat-io/you-dont-know-js-ru</id>
-    <link href="https://github.com/azat-io/you-dont-know-js-ru" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📚 Russian translation of &#34;You Don&#39;t Know JS&#34; book series&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>okyyds/yyds</title>
+    <updated>2022-06-03T01:32:01Z</updated>
+    <id>tag:github.com,2022-06-03:/okyyds/yyds</id>
+    <link href="https://github.com/okyyds/yyds" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mouredev/Monthly-App-Challenge-2022</title>
-    <updated>2022-06-02T01:33:55Z</updated>
-    <id>tag:github.com,2022-06-02:/mouredev/Monthly-App-Challenge-2022</id>
-    <link href="https://github.com/mouredev/Monthly-App-Challenge-2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Retos mensuales de la comunidad MoureDev para crear pequeñas aplicaciones en base a requisitos&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>brillout/awesome-react-components</title>
+    <updated>2022-06-03T01:32:01Z</updated>
+    <id>tag:github.com,2022-06-03:/brillout/awesome-react-components</id>
+    <link href="https://github.com/brillout/awesome-react-components" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Curated List of React Components &amp; Libraries.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>joelparkerhenderson/architecture-decision-record</title>
-    <updated>2022-06-02T01:33:55Z</updated>
-    <id>tag:github.com,2022-06-02:/joelparkerhenderson/architecture-decision-record</id>
-    <link href="https://github.com/joelparkerhenderson/architecture-decision-record" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cutenode/1x.engineer</title>
+    <updated>2022-06-03T01:32:01Z</updated>
+    <id>tag:github.com,2022-06-03:/cutenode/1x.engineer</id>
+    <link href="https://github.com/cutenode/1x.engineer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The official website of 1x Engineers around the world&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SharingSource/LogicStack-LeetCode</title>
+    <updated>2022-06-03T01:32:01Z</updated>
+    <id>tag:github.com,2022-06-03:/SharingSource/LogicStack-LeetCode</id>
+    <link href="https://github.com/SharingSource/LogicStack-LeetCode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;公众号「宫水三叶的刷题日记」刷穿 LeetCode 系列文章源码&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mrcodedev/frontend-developer-resources</title>
+    <updated>2022-06-03T01:32:01Z</updated>
+    <id>tag:github.com,2022-06-03:/mrcodedev/frontend-developer-resources</id>
+    <link href="https://github.com/mrcodedev/frontend-developer-resources" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Recursos gratuitos para empezar a ser un Frontend Developer o ampliar conocimientos&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

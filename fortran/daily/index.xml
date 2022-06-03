@@ -1,98 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:41:29Z</updated>
+  <updated>2022-06-03T01:39:23Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>OpenFAST/openfast</title>
-    <updated>2022-06-02T01:41:29Z</updated>
-    <id>tag:github.com,2022-06-02:/OpenFAST/openfast</id>
-    <link href="https://github.com/OpenFAST/openfast" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Main repository for the NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>E3SM-Project/scream</title>
+    <updated>2022-06-03T01:39:23Z</updated>
+    <id>tag:github.com,2022-06-03:/E3SM-Project/scream</id>
+    <link href="https://github.com/E3SM-Project/scream" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exascale global atmosphere model written in C++ as part of the E3SM project&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>GEOS-ESM/FVdycoreCubed_GridComp</title>
-    <updated>2022-06-02T01:41:29Z</updated>
-    <id>tag:github.com,2022-06-02:/GEOS-ESM/FVdycoreCubed_GridComp</id>
-    <link href="https://github.com/GEOS-ESM/FVdycoreCubed_GridComp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MAPL/ESMF wrapper for the cubed-sphere finite volume dynamical core&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>grimme-lab/xtb</title>
+    <updated>2022-06-03T01:39:23Z</updated>
+    <id>tag:github.com,2022-06-03:/grimme-lab/xtb</id>
+    <link href="https://github.com/grimme-lab/xtb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Semiempirical Extended Tight-Binding Program Package&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>GEOS-ESM/GEOS_OceanGridComp</title>
-    <updated>2022-06-02T01:41:29Z</updated>
-    <id>tag:github.com,2022-06-02:/GEOS-ESM/GEOS_OceanGridComp</id>
-    <link href="https://github.com/GEOS-ESM/GEOS_OceanGridComp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GEOS Ocean Gridded Component&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MPAS-Dev/MPAS-Model</title>
+    <updated>2022-06-03T01:39:23Z</updated>
+    <id>tag:github.com,2022-06-03:/MPAS-Dev/MPAS-Model</id>
+    <link href="https://github.com/MPAS-Dev/MPAS-Model" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for MPAS models and shared framework releases.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ai2cm/fv3gfs-fortran</title>
-    <updated>2022-06-02T01:41:29Z</updated>
-    <id>tag:github.com,2022-06-02:/ai2cm/fv3gfs-fortran</id>
-    <link href="https://github.com/ai2cm/fv3gfs-fortran" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;FV3GFS Fortran for internal development at AI2&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>GEOS-ESM/GEOSldas</title>
+    <updated>2022-06-03T01:39:23Z</updated>
+    <id>tag:github.com,2022-06-03:/GEOS-ESM/GEOSldas</id>
+    <link href="https://github.com/GEOS-ESM/GEOSldas" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for the GEOS Land Data Assimilation Fixture&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Goddard-Fortran-Ecosystem/gFTL</title>
-    <updated>2022-06-02T01:41:29Z</updated>
-    <id>tag:github.com,2022-06-02:/Goddard-Fortran-Ecosystem/gFTL</id>
-    <link href="https://github.com/Goddard-Fortran-Ecosystem/gFTL" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Software containers for Fortran&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Reference-LAPACK/lapack</title>
+    <updated>2022-06-03T01:39:23Z</updated>
+    <id>tag:github.com,2022-06-03:/Reference-LAPACK/lapack</id>
+    <link href="https://github.com/Reference-LAPACK/lapack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LAPACK development repository&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>GEOS-ESM/MAPL</title>
-    <updated>2022-06-02T01:41:29Z</updated>
-    <id>tag:github.com,2022-06-02:/GEOS-ESM/MAPL</id>
-    <link href="https://github.com/GEOS-ESM/MAPL" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework (ESMF)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>E3SM-Project/E3SM</title>
-    <updated>2022-06-02T01:41:29Z</updated>
-    <id>tag:github.com,2022-06-02:/E3SM-Project/E3SM</id>
-    <link href="https://github.com/E3SM-Project/E3SM" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Energy Exascale Earth System Model source code.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>GEOS-ESM/GMAO_Shared</title>
-    <updated>2022-06-02T01:41:29Z</updated>
-    <id>tag:github.com,2022-06-02:/GEOS-ESM/GMAO_Shared</id>
-    <link href="https://github.com/GEOS-ESM/GMAO_Shared" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository for GEOS Earth System Model shared infrastructure&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>GEOS-ESM/GEOSgcm_GridComp</title>
-    <updated>2022-06-02T01:41:29Z</updated>
-    <id>tag:github.com,2022-06-02:/GEOS-ESM/GEOSgcm_GridComp</id>
-    <link href="https://github.com/GEOS-ESM/GEOSgcm_GridComp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository containing the physics and IAU code for the GEOS Earth System Model&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ESCOMP/CTSM</title>
-    <updated>2022-06-02T01:41:29Z</updated>
-    <id>tag:github.com,2022-06-02:/ESCOMP/CTSM</id>
-    <link href="https://github.com/ESCOMP/CTSM" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Community Terrestrial Systems Model (includes the Community Land Model of CESM)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>MPP-LSM/MPP</title>
-    <updated>2022-06-02T01:41:29Z</updated>
-    <id>tag:github.com,2022-06-02:/MPP-LSM/MPP</id>
-    <link href="https://github.com/MPP-LSM/MPP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Multi-Physics Problem (MPP) library is a standalone library that solves biophysics problems relevant to global land surface models (LSMs).&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>BeTR-biogeochemistry-modeling/sbetr</title>
-    <updated>2022-06-02T01:41:29Z</updated>
-    <id>tag:github.com,2022-06-02:/BeTR-biogeochemistry-modeling/sbetr</id>
-    <link href="https://github.com/BeTR-biogeochemistry-modeling/sbetr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Standalone implementation of BeTR, the Biogeochemical Transport and Reaction module&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>CVMix/CVMix-src</title>
-    <updated>2022-06-02T01:41:29Z</updated>
-    <id>tag:github.com,2022-06-02:/CVMix/CVMix-src</id>
-    <link href="https://github.com/CVMix/CVMix-src" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CVMix source code (including protex documentation) as well as build system and examples / tests&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gonum/mathext</title>
+    <updated>2022-06-03T01:39:23Z</updated>
+    <id>tag:github.com,2022-06-03:/gonum/mathext</id>
+    <link href="https://github.com/gonum/mathext" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;mathext implements basic elementary functions not included in the Go standard library [DEPRECATED]&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

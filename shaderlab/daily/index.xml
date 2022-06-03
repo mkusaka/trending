@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:54:37Z</updated>
+  <updated>2022-06-03T01:52:22Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Unity-Technologies/Addressables-Sample</title>
-    <updated>2022-06-02T01:54:37Z</updated>
-    <id>tag:github.com,2022-06-02:/Unity-Technologies/Addressables-Sample</id>
-    <link href="https://github.com/Unity-Technologies/Addressables-Sample" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Demo project using Addressables package&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

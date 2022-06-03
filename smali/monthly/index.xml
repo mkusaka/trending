@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smali Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:53:08Z</updated>
+  <updated>2022-06-03T02:52:46Z</updated>
   <subtitle>Monthly Trending of Smali in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>phhusson/treble_experimentations</title>
-    <updated>2022-06-02T02:53:08Z</updated>
-    <id>tag:github.com,2022-06-02:/phhusson/treble_experimentations</id>
-    <link href="https://github.com/phhusson/treble_experimentations" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Notes about tinkering with Android Project Treble&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

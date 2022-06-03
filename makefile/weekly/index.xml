@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:16:33Z</updated>
+  <updated>2022-06-03T02:14:42Z</updated>
   <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Clever/csvlint</title>
-    <updated>2022-06-02T02:16:33Z</updated>
-    <id>tag:github.com,2022-06-02:/Clever/csvlint</id>
-    <link href="https://github.com/Clever/csvlint" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;library and command line tool that validates a CSV file&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>foostan/crkbd</title>
+    <updated>2022-06-03T02:14:42Z</updated>
+    <id>tag:github.com,2022-06-03:/foostan/crkbd</id>
+    <link href="https://github.com/foostan/crkbd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>inaka/elvis.mk</title>
-    <updated>2022-06-02T02:16:33Z</updated>
-    <id>tag:github.com,2022-06-02:/inaka/elvis.mk</id>
-    <link href="https://github.com/inaka/elvis.mk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;3rd party elrang.mk plug-in for Elvis&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>niudai/How-to-be-a-good-programmer</title>
+    <updated>2022-06-03T02:14:42Z</updated>
+    <id>tag:github.com,2022-06-03:/niudai/How-to-be-a-good-programmer</id>
+    <link href="https://github.com/niudai/How-to-be-a-good-programmer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;I&#39;m here to tell you some amazing stuff which teacher would never tell you.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Ewenwan/Ros</title>
-    <updated>2022-06-02T02:16:33Z</updated>
-    <id>tag:github.com,2022-06-02:/Ewenwan/Ros</id>
-    <link href="https://github.com/Ewenwan/Ros" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;机器人操作系统ROS 语音识别 语义理解 视觉控制 gazebo仿真 雷达建图导航&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>motioneye-project/motioneyeos</title>
+    <updated>2022-06-03T02:14:42Z</updated>
+    <id>tag:github.com,2022-06-03:/motioneye-project/motioneyeos</id>
+    <link href="https://github.com/motioneye-project/motioneyeos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Video Surveillance OS For Single-board Computers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>open-telemetry/opentelemetry-proto</title>
-    <updated>2022-06-02T02:16:33Z</updated>
-    <id>tag:github.com,2022-06-02:/open-telemetry/opentelemetry-proto</id>
-    <link href="https://github.com/open-telemetry/opentelemetry-proto" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Protobuf definitions for the OpenTelemetry protocol (OTLP)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>counteractive/incident-response-plan-template</title>
+    <updated>2022-06-03T02:14:42Z</updated>
+    <id>tag:github.com,2022-06-03:/counteractive/incident-response-plan-template</id>
+    <link href="https://github.com/counteractive/incident-response-plan-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A concise, directive, specific, flexible, and free incident response plan template&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>open-telemetry/opentelemetry-proto-go</title>
-    <updated>2022-06-02T02:16:33Z</updated>
-    <id>tag:github.com,2022-06-02:/open-telemetry/opentelemetry-proto-go</id>
-    <link href="https://github.com/open-telemetry/opentelemetry-proto-go" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Generated code for OpenTelemetry protobuf data model&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>anncode1/Curso-de-Flutter-Avanzado-en-Platzi</title>
+    <updated>2022-06-03T02:14:42Z</updated>
+    <id>tag:github.com,2022-06-03:/anncode1/Curso-de-Flutter-Avanzado-en-Platzi</id>
+    <link href="https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,49 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:27:57Z</updated>
+  <updated>2022-06-03T02:26:51Z</updated>
   <subtitle>Weekly Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>varletjs/varlet</title>
-    <updated>2022-06-02T02:27:57Z</updated>
-    <id>tag:github.com,2022-06-02:/varletjs/varlet</id>
-    <link href="https://github.com/varletjs/varlet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于 Vue3 的 Material design 风格移动端组件库 Material design mobile component library for Vue3&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>viandwi24/nuxt3-awesome-starter</title>
+    <updated>2022-06-03T02:26:51Z</updated>
+    <id>tag:github.com,2022-06-03:/viandwi24/nuxt3-awesome-starter</id>
+    <link href="https://github.com/viandwi24/nuxt3-awesome-starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a Nuxt 3 template and boilerplate with a lot of useful features. Nuxt 3 + Tailwindcss v3&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Armour/vue-typescript-admin-template</title>
-    <updated>2022-06-02T02:27:57Z</updated>
-    <id>tag:github.com,2022-06-02:/Armour/vue-typescript-admin-template</id>
-    <link href="https://github.com/Armour/vue-typescript-admin-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🖖 A vue-cli 3.0 + typescript minimal admin template&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>modrinth/knossos</title>
+    <updated>2022-06-03T02:26:51Z</updated>
+    <id>tag:github.com,2022-06-03:/modrinth/knossos</id>
+    <link href="https://github.com/modrinth/knossos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vue based frontend with SSR &amp; caching for UX, speed, and compatibility.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bailicangdu/vue2-manage</title>
-    <updated>2022-06-02T02:27:57Z</updated>
-    <id>tag:github.com,2022-06-02:/bailicangdu/vue2-manage</id>
-    <link href="https://github.com/bailicangdu/vue2-manage" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于 vue + element-ui 的后台管理系统&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>macrozheng/mall-admin-web</title>
-    <updated>2022-06-02T02:27:57Z</updated>
-    <id>tag:github.com,2022-06-02:/macrozheng/mall-admin-web</id>
-    <link href="https://github.com/macrozheng/mall-admin-web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Element实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>fenixsoft/awesome-fenix</title>
-    <updated>2022-06-02T02:27:57Z</updated>
-    <id>tag:github.com,2022-06-02:/fenixsoft/awesome-fenix</id>
-    <link href="https://github.com/fenixsoft/awesome-fenix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;讨论如何构建一套可靠的大型分布式系统&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>yangzongzhuan/RuoYi-Vue3</title>
-    <updated>2022-06-02T02:27:57Z</updated>
-    <id>tag:github.com,2022-06-02:/yangzongzhuan/RuoYi-Vue3</id>
-    <link href="https://github.com/yangzongzhuan/RuoYi-Vue3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 &amp; Vite、Element Plus 的前后端分离权限管理系统&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DataV-Team/DataV</title>
+    <updated>2022-06-03T02:26:51Z</updated>
+    <id>tag:github.com,2022-06-03:/DataV-Team/DataV</id>
+    <link href="https://github.com/DataV-Team/DataV" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VBA Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:56:26Z</updated>
+  <updated>2022-06-03T02:56:03Z</updated>
   <subtitle>Monthly Trending of VBA in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>RelaxTools/RelaxTools-Addin</title>
-    <updated>2022-06-02T02:56:26Z</updated>
-    <id>tag:github.com,2022-06-02:/RelaxTools/RelaxTools-Addin</id>
-    <link href="https://github.com/RelaxTools/RelaxTools-Addin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RelaxTools Addin for Microsoft Excel 2010/2013/2016&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mymmsc/books</title>
+    <updated>2022-06-03T02:56:03Z</updated>
+    <id>tag:github.com,2022-06-03:/mymmsc/books</id>
+    <link href="https://github.com/mymmsc/books" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;常用书籍&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

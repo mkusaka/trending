@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:53:15Z</updated>
+  <updated>2022-06-03T02:52:53Z</updated>
   <subtitle>Monthly Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>getoutreach/stencil-golang</title>
-    <updated>2022-06-02T02:53:15Z</updated>
-    <id>tag:github.com,2022-06-02:/getoutreach/stencil-golang</id>
-    <link href="https://github.com/getoutreach/stencil-golang" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Template repository for Golang applications&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

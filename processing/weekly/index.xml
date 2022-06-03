@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Processing Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:20:48Z</updated>
+  <updated>2022-06-03T02:19:11Z</updated>
   <subtitle>Weekly Trending of Processing in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JohnEarnest/StoneSoup</title>
-    <updated>2022-06-02T02:20:48Z</updated>
-    <id>tag:github.com,2022-06-02:/JohnEarnest/StoneSoup</id>
-    <link href="https://github.com/JohnEarnest/StoneSoup" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A guide to making simple games with Processing&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>animist/animist.github.com</title>
+    <updated>2022-06-03T02:19:11Z</updated>
+    <id>tag:github.com,2022-06-03:/animist/animist.github.com</id>
+    <link href="https://github.com/animist/animist.github.com" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Github Page&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

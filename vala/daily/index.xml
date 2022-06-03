@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:58:26Z</updated>
+  <updated>2022-06-03T01:56:19Z</updated>
   <subtitle>Daily Trending of Vala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>linuxmint/timeshift</title>
-    <updated>2022-06-02T01:58:26Z</updated>
-    <id>tag:github.com,2022-06-02:/linuxmint/timeshift</id>
-    <link href="https://github.com/linuxmint/timeshift" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gnome-pomodoro/gnome-pomodoro</title>
+    <updated>2022-06-03T01:56:19Z</updated>
+    <id>tag:github.com,2022-06-03:/gnome-pomodoro/gnome-pomodoro</id>
+    <link href="https://github.com/gnome-pomodoro/gnome-pomodoro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A time management utility for GNOME based on the pomodoro technique!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

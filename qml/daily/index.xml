@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub QML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:52:34Z</updated>
+  <updated>2022-06-03T01:50:19Z</updated>
   <subtitle>Daily Trending of QML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jaredtao/TaoQuick</title>
-    <updated>2022-06-02T01:52:34Z</updated>
-    <id>tag:github.com,2022-06-02:/jaredtao/TaoQuick</id>
-    <link href="https://github.com/jaredtao/TaoQuick" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a cool QtQuick/qml component library and demo(一套酷炫的QtQuick/Qml基础库和示例)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>qt/qtquicktimeline</title>
-    <updated>2022-06-02T01:52:34Z</updated>
-    <id>tag:github.com,2022-06-02:/qt/qtquicktimeline</id>
-    <link href="https://github.com/qt/qtquicktimeline" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Module for keyframe-based timeline construction.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

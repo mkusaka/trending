@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Crystal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:38:15Z</updated>
+  <updated>2022-06-03T01:36:12Z</updated>
   <subtitle>Daily Trending of Crystal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>CustomEntity/crNormz</title>
-    <updated>2022-06-02T01:38:15Z</updated>
-    <id>tag:github.com,2022-06-02:/CustomEntity/crNormz</id>
-    <link href="https://github.com/CustomEntity/crNormz" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The best norminette tool for Epitech C projects.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hendisantika/List-All-Programming-Telegram-Group</title>
-    <updated>2022-06-02T01:38:15Z</updated>
-    <id>tag:github.com,2022-06-02:/hendisantika/List-All-Programming-Telegram-Group</id>
-    <link href="https://github.com/hendisantika/List-All-Programming-Telegram-Group" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;List of All Programming Telegram Group&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>oprypin/nightly.link</title>
-    <updated>2022-06-02T01:38:15Z</updated>
-    <id>tag:github.com,2022-06-02:/oprypin/nightly.link</id>
-    <link href="https://github.com/oprypin/nightly.link" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Downloads the latest &#34;nightly&#34; build/artifact from a continuous testing workflow&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,112 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:59:00Z</updated>
+  <updated>2022-06-03T01:56:48Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Yin-Hongwei/music-website</title>
-    <updated>2022-06-02T01:59:00Z</updated>
-    <id>tag:github.com,2022-06-02:/Yin-Hongwei/music-website</id>
-    <link href="https://github.com/Yin-Hongwei/music-website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎧 Vue + SpringBoot + MyBatis 音乐网站&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>headwaymaps/headway</title>
+    <updated>2022-06-03T01:56:48Z</updated>
+    <id>tag:github.com,2022-06-03:/headwaymaps/headway</id>
+    <link href="https://github.com/headwaymaps/headway" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Self-hostable maps stack, powered by OpenStreetMap.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>chuzhixin/vue-admin-better</title>
-    <updated>2022-06-02T01:59:00Z</updated>
-    <id>tag:github.com,2022-06-02:/chuzhixin/vue-admin-better</id>
-    <link href="https://github.com/chuzhixin/vue-admin-better" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Lissy93/dashy</title>
+    <updated>2022-06-03T01:56:48Z</updated>
+    <id>tag:github.com,2022-06-03:/Lissy93/dashy</id>
+    <link href="https://github.com/Lissy93/dashy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>iview/iview-admin</title>
-    <updated>2022-06-02T01:59:00Z</updated>
-    <id>tag:github.com,2022-06-02:/iview/iview-admin</id>
-    <link href="https://github.com/iview/iview-admin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vue 2.0 admin management system template based on iView&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>macrozheng/mall-admin-web</title>
+    <updated>2022-06-03T01:56:48Z</updated>
+    <id>tag:github.com,2022-06-03:/macrozheng/mall-admin-web</id>
+    <link href="https://github.com/macrozheng/mall-admin-web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Element实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hinesboy/mavonEditor</title>
-    <updated>2022-06-02T01:59:00Z</updated>
-    <id>tag:github.com,2022-06-02:/hinesboy/mavonEditor</id>
-    <link href="https://github.com/hinesboy/mavonEditor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;mavonEditor - A markdown editor based on Vue that supports a variety of personalized features&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>woai3c/visual-drag-demo</title>
+    <updated>2022-06-03T01:56:48Z</updated>
+    <id>tag:github.com,2022-06-03:/woai3c/visual-drag-demo</id>
+    <link href="https://github.com/woai3c/visual-drag-demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一个低代码（可视化拖拽）教学项目&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JakHuang/form-generator</title>
-    <updated>2022-06-02T01:59:00Z</updated>
-    <id>tag:github.com,2022-06-02:/JakHuang/form-generator</id>
-    <link href="https://github.com/JakHuang/form-generator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;✨Element UI表单设计及代码生成器&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bastienwirtz/homer</title>
+    <updated>2022-06-03T01:56:48Z</updated>
+    <id>tag:github.com,2022-06-03:/bastienwirtz/homer</id>
+    <link href="https://github.com/bastienwirtz/homer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A very simple static homepage for your server.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>iczer/vue-antd-admin</title>
-    <updated>2022-06-02T01:59:00Z</updated>
-    <id>tag:github.com,2022-06-02:/iczer/vue-antd-admin</id>
-    <link href="https://github.com/iczer/vue-antd-admin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🐜 Ant Design Pro&#39;s implementation with Vue&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>viandwi24/nuxt3-awesome-starter</title>
+    <updated>2022-06-03T01:56:48Z</updated>
+    <id>tag:github.com,2022-06-03:/viandwi24/nuxt3-awesome-starter</id>
+    <link href="https://github.com/viandwi24/nuxt3-awesome-starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a Nuxt 3 template and boilerplate with a lot of useful features. Nuxt 3 + Tailwindcss v3&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jsbroks/coco-annotator</title>
-    <updated>2022-06-02T01:59:00Z</updated>
-    <id>tag:github.com,2022-06-02:/jsbroks/coco-annotator</id>
-    <link href="https://github.com/jsbroks/coco-annotator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;✏️ Web-based image segmentation tool for object detection, localization, and keypoints&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wangyuan389/mall-cook</title>
+    <updated>2022-06-03T01:56:48Z</updated>
+    <id>tag:github.com,2022-06-03:/wangyuan389/mall-cook</id>
+    <link href="https://github.com/wangyuan389/mall-cook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;商城低代码平台，可视化搭建H5、小程序多端商城&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>xiaozhu188/electron-vue-cloud-music</title>
-    <updated>2022-06-02T01:59:00Z</updated>
-    <id>tag:github.com,2022-06-02:/xiaozhu188/electron-vue-cloud-music</id>
-    <link href="https://github.com/xiaozhu188/electron-vue-cloud-music" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🚀Electron + Vue 仿网易云音乐windows客户端&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>elunez/eladmin-web</title>
+    <updated>2022-06-03T01:56:48Z</updated>
+    <id>tag:github.com,2022-06-03:/elunez/eladmin-web</id>
+    <link href="https://github.com/elunez/eladmin-web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;eladmin前端源码，项目基于 Spring Boot 2.1.0 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统， 权限控制采用 RBAC，菜单动态路由&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>newbee-ltd/newbee-mall-vue3-app</title>
-    <updated>2022-06-02T01:59:00Z</updated>
-    <id>tag:github.com,2022-06-02:/newbee-ltd/newbee-mall-vue3-app</id>
-    <link href="https://github.com/newbee-ltd/newbee-mall-vue3-app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔥 🎉Vue3 全家桶 + Vant 搭建大型单页面商城项目，新蜂商城 Vue3 版本，技术栈为 Vue 3.0 + Vue-Router 4.0 + Vuex 4.0 + Vant 3.0。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>VueTubeApp/VueTube</title>
+    <updated>2022-06-03T01:56:48Z</updated>
+    <id>tag:github.com,2022-06-03:/VueTubeApp/VueTube</id>
+    <link href="https://github.com/VueTubeApp/VueTube" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>umicro/uView2.0</title>
-    <updated>2022-06-02T01:59:00Z</updated>
-    <id>tag:github.com,2022-06-02:/umicro/uView2.0</id>
-    <link href="https://github.com/umicro/uView2.0" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;uView UI，是全面兼容nvue的uni-app生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nuxt/nuxtjs.org</title>
+    <updated>2022-06-03T01:56:48Z</updated>
+    <id>tag:github.com,2022-06-03:/nuxt/nuxtjs.org</id>
+    <link href="https://github.com/nuxt/nuxtjs.org" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nuxt 2 Documentation Website&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hoppscotch/hoppscotch</title>
-    <updated>2022-06-02T01:59:00Z</updated>
-    <id>tag:github.com,2022-06-02:/hoppscotch/hoppscotch</id>
-    <link href="https://github.com/hoppscotch/hoppscotch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;👽 Open source API development ecosystem - https://hoppscotch.io&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lin-xin/vue-manage-system</title>
-    <updated>2022-06-02T01:59:00Z</updated>
-    <id>tag:github.com,2022-06-02:/lin-xin/vue-manage-system</id>
-    <link href="https://github.com/lin-xin/vue-manage-system" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于Vue3 + Element Plus 的后台管理系统解决方案&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>weilanwl/coloruiBeta</title>
-    <updated>2022-06-02T01:59:00Z</updated>
-    <id>tag:github.com,2022-06-02:/weilanwl/coloruiBeta</id>
-    <link href="https://github.com/weilanwl/coloruiBeta" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Colorui先行版本&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jeecgboot/jeecgboot-vue3</title>
-    <updated>2022-06-02T01:59:00Z</updated>
-    <id>tag:github.com,2022-06-02:/jeecgboot/jeecgboot-vue3</id>
-    <link href="https://github.com/jeecgboot/jeecgboot-vue3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;采用 Vue3.0、Vite、 Ant-Design-Vue、TypeScript 等新技术方案，包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。 是在 Vben-Admin 基础上研发的，适合于JeecgBoot的新版前端VUE3框架。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>vueComponent/ant-design-vue-pro</title>
-    <updated>2022-06-02T01:59:00Z</updated>
-    <id>tag:github.com,2022-06-02:/vueComponent/ant-design-vue-pro</id>
-    <link href="https://github.com/vueComponent/ant-design-vue-pro" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro! (vue2)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>epicmaxco/vuestic-admin</title>
+    <updated>2022-06-03T01:56:48Z</updated>
+    <id>tag:github.com,2022-06-03:/epicmaxco/vuestic-admin</id>
+    <link href="https://github.com/epicmaxco/vuestic-admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free and Beautiful Vue 3 Admin Template&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

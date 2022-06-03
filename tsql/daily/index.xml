@@ -1,49 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:57:45Z</updated>
+  <updated>2022-06-03T01:55:36Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>BrentOzarULTD/SQL-Server-First-Responder-Kit</title>
-    <updated>2022-06-02T01:57:45Z</updated>
-    <id>tag:github.com,2022-06-02:/BrentOzarULTD/SQL-Server-First-Responder-Kit</id>
-    <link href="https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;sp_Blitz, sp_BlitzCache, sp_BlitzFirst, sp_BlitzIndex, and other SQL Server scripts for health checks and performance tuning.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cisagov/cset</title>
+    <updated>2022-06-03T01:55:36Z</updated>
+    <id>tag:github.com,2022-06-03:/cisagov/cset</id>
+    <link href="https://github.com/cisagov/cset" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cybersecurity Evaluation Tool&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>XD-DENG/SQL-exercise</title>
-    <updated>2022-06-02T01:57:45Z</updated>
-    <id>tag:github.com,2022-06-02:/XD-DENG/SQL-exercise</id>
-    <link href="https://github.com/XD-DENG/SQL-exercise" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Practice with &#34;Real&#34; SQL Problems&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TdP-esami/2019-06-05-simulazione-JDK11</title>
+    <updated>2022-06-03T01:55:36Z</updated>
+    <id>tag:github.com,2022-06-03:/TdP-esami/2019-06-05-simulazione-JDK11</id>
+    <link href="https://github.com/TdP-esami/2019-06-05-simulazione-JDK11" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Conversione a JDK11 della simulazione d&#39;esame 2019-06-05&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>TdP-esami/2019-07-12-A</title>
-    <updated>2022-06-02T01:57:45Z</updated>
-    <id>tag:github.com,2022-06-02:/TdP-esami/2019-07-12-A</id>
-    <link href="https://github.com/TdP-esami/2019-07-12-A" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tema d&#39;esame del 12/07/2019, Turno A (Food Pyramid, simulazione)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>amachanic/sp_whoisactive</title>
-    <updated>2022-06-02T01:57:45Z</updated>
-    <id>tag:github.com,2022-06-02:/amachanic/sp_whoisactive</id>
-    <link href="https://github.com/amachanic/sp_whoisactive" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;sp_whoisactive&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ktaranov/sqlserver-kit</title>
-    <updated>2022-06-02T01:57:45Z</updated>
-    <id>tag:github.com,2022-06-02:/ktaranov/sqlserver-kit</id>
-    <link href="https://github.com/ktaranov/sqlserver-kit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Useful links, scripts, tools and best practice for Microsoft SQL Server Database&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>AlexTheAnalyst/SQL-Code</title>
-    <updated>2022-06-02T01:57:45Z</updated>
-    <id>tag:github.com,2022-06-02:/AlexTheAnalyst/SQL-Code</id>
-    <link href="https://github.com/AlexTheAnalyst/SQL-Code" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;All SQL Code or Documents from AlexTheAnalyst YouTube videos&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>matesic-damir/MS-SQL-New-functions-syntaxes-tips-tricks</title>
+    <updated>2022-06-03T01:55:36Z</updated>
+    <id>tag:github.com,2022-06-03:/matesic-damir/MS-SQL-New-functions-syntaxes-tips-tricks</id>
+    <link href="https://github.com/matesic-damir/MS-SQL-New-functions-syntaxes-tips-tricks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:38:41Z</updated>
+  <updated>2022-06-03T01:36:35Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>NVIDIA/nccl-tests</title>
-    <updated>2022-06-02T01:38:41Z</updated>
-    <id>tag:github.com,2022-06-02:/NVIDIA/nccl-tests</id>
-    <link href="https://github.com/NVIDIA/nccl-tests" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;NCCL Tests&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Tony-Tan/CUDA_Freshman</title>
+    <updated>2022-06-03T01:36:35Z</updated>
+    <id>tag:github.com,2022-06-03:/Tony-Tan/CUDA_Freshman</id>
+    <link href="https://github.com/Tony-Tan/CUDA_Freshman" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rapidsai/cugraph</title>
+    <updated>2022-06-03T01:36:35Z</updated>
+    <id>tag:github.com,2022-06-03:/rapidsai/cugraph</id>
+    <link href="https://github.com/rapidsai/cugraph" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;cuGraph - RAPIDS Graph Analytics Library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>k2-fsa/k2</title>
+    <updated>2022-06-03T01:36:35Z</updated>
+    <id>tag:github.com,2022-06-03:/k2-fsa/k2</id>
+    <link href="https://github.com/k2-fsa/k2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FSA/FST algorithms, differentiable, with PyTorch compatibility.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bytedance/lightseq</title>
+    <updated>2022-06-03T01:36:35Z</updated>
+    <id>tag:github.com,2022-06-03:/bytedance/lightseq</id>
+    <link href="https://github.com/bytedance/lightseq" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LightSeq: A High Performance Library for Sequence Processing and Generation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tensorflow/recommenders-addons</title>
+    <updated>2022-06-03T01:36:35Z</updated>
+    <id>tag:github.com,2022-06-03:/tensorflow/recommenders-addons</id>
+    <link href="https://github.com/tensorflow/recommenders-addons" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Additional utils and helpers to extend TensorFlow when build recommendation systems, contributed and maintained by SIG Recommenders.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>brucefan1983/GPUMD</title>
+    <updated>2022-06-03T01:36:35Z</updated>
+    <id>tag:github.com,2022-06-03:/brucefan1983/GPUMD</id>
+    <link href="https://github.com/brucefan1983/GPUMD" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Graphics Processing Units Molecular Dynamics&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

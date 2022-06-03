@@ -1,42 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:56:30Z</updated>
+  <updated>2022-06-03T01:54:15Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bestguy/sveltestrap</title>
-    <updated>2022-06-02T01:56:30Z</updated>
-    <id>tag:github.com,2022-06-02:/bestguy/sveltestrap</id>
-    <link href="https://github.com/bestguy/sveltestrap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bootstrap 4 &amp; 5 components for Svelte&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>svelteuidev/svelteui</title>
+    <updated>2022-06-03T01:54:15Z</updated>
+    <id>tag:github.com,2022-06-03:/svelteuidev/svelteui</id>
+    <link href="https://github.com/svelteuidev/svelteui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SvelteUI Monorepo&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mermaid-js/mermaid-live-editor</title>
-    <updated>2022-06-02T01:56:30Z</updated>
-    <id>tag:github.com,2022-06-02:/mermaid-js/mermaid-live-editor</id>
-    <link href="https://github.com/mermaid-js/mermaid-live-editor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pstanoev/simple-svelte-autocomplete</title>
-    <updated>2022-06-02T01:56:30Z</updated>
-    <id>tag:github.com,2022-06-02:/pstanoev/simple-svelte-autocomplete</id>
-    <link href="https://github.com/pstanoev/simple-svelte-autocomplete" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple Autocomplete / typeahead component for Svelte&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>themesberg/flowbite-svelte</title>
-    <updated>2022-06-02T01:56:30Z</updated>
-    <id>tag:github.com,2022-06-02:/themesberg/flowbite-svelte</id>
-    <link href="https://github.com/themesberg/flowbite-svelte" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Official Svelte components built for Flowbite and Tailwind CSS&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nmelhado/league-page</title>
-    <updated>2022-06-02T01:56:30Z</updated>
-    <id>tag:github.com,2022-06-02:/nmelhado/league-page</id>
-    <link href="https://github.com/nmelhado/league-page" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Create a custom league page for your Sleeper fantasy football league!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>oslabs-beta/Svetch</title>
+    <updated>2022-06-03T01:54:15Z</updated>
+    <id>tag:github.com,2022-06-03:/oslabs-beta/Svetch</id>
+    <link href="https://github.com/oslabs-beta/Svetch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

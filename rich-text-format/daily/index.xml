@@ -1,49 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rich Text Format Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:53:28Z</updated>
+  <updated>2022-06-03T01:51:14Z</updated>
   <subtitle>Daily Trending of Rich Text Format in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mcxiaoke/mqtt</title>
-    <updated>2022-06-02T01:53:28Z</updated>
-    <id>tag:github.com,2022-06-02:/mcxiaoke/mqtt</id>
-    <link href="https://github.com/mcxiaoke/mqtt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MQTT协议3.1.1中文翻译版，IoT，物联网&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bytecaps/CVE-2022-30190</title>
+    <updated>2022-06-03T01:51:14Z</updated>
+    <id>tag:github.com,2022-06-03:/bytecaps/CVE-2022-30190</id>
+    <link href="https://github.com/bytecaps/CVE-2022-30190" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Microsoft Office Word Rce 复现(CVE-2022-30190)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>phodal/github</title>
-    <updated>2022-06-02T01:53:28Z</updated>
-    <id>tag:github.com,2022-06-02:/phodal/github</id>
-    <link href="https://github.com/phodal/github" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users&#39; behavior. Find some thing interest.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>microsoft/TemplateStudio</title>
+    <updated>2022-06-03T01:51:14Z</updated>
+    <id>tag:github.com,2022-06-03:/microsoft/TemplateStudio</id>
+    <link href="https://github.com/microsoft/TemplateStudio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Template Studio accelerates the creation of new WinUI 3, WPF, and UWP apps using a wizard-based experience.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>frankwxu/digital-forensics-lab</title>
-    <updated>2022-06-02T01:53:28Z</updated>
-    <id>tag:github.com,2022-06-02:/frankwxu/digital-forensics-lab</id>
-    <link href="https://github.com/frankwxu/digital-forensics-lab" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Free hands-on digital forensics labs for students and faculty&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>couchbase/product-texts</title>
-    <updated>2022-06-02T01:53:28Z</updated>
-    <id>tag:github.com,2022-06-02:/couchbase/product-texts</id>
-    <link href="https://github.com/couchbase/product-texts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository for product-specific documents (e.g. READMEs, license files, etc.)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>openFudan/fudan-coursera</title>
-    <updated>2022-06-02T01:53:28Z</updated>
-    <id>tag:github.com,2022-06-02:/openFudan/fudan-coursera</id>
-    <link href="https://github.com/openFudan/fudan-coursera" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;复旦大学课程资源（计算机专业的课程已全部上传~）&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cncf/foundation</title>
-    <updated>2022-06-02T01:53:28Z</updated>
-    <id>tag:github.com,2022-06-02:/cncf/foundation</id>
-    <link href="https://github.com/cncf/foundation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;☁️♮🏛File non-technical issues related to CNCF&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>giellalt/giella-shared</title>
+    <updated>2022-06-03T01:51:14Z</updated>
+    <id>tag:github.com,2022-06-03:/giellalt/giella-shared</id>
+    <link href="https://github.com/giellalt/giella-shared" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Shared linguistic resources, like names, digits, fst filtering and dependency parsing.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

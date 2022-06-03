@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:27:36Z</updated>
+  <updated>2022-06-03T02:26:26Z</updated>
   <subtitle>Weekly Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mertcetin/Basic-ATME-HW</title>
-    <updated>2022-06-02T02:27:36Z</updated>
-    <id>tag:github.com,2022-06-02:/mertcetin/Basic-ATME-HW</id>
-    <link href="https://github.com/mertcetin/Basic-ATME-HW" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Verilog RTL for Basic Implementation of ATME (Adaptive True Motion Estimation) Hardware&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>octoml/hw-widgets</title>
+    <updated>2022-06-03T02:26:26Z</updated>
+    <id>tag:github.com,2022-06-03:/octoml/hw-widgets</id>
+    <link href="https://github.com/octoml/hw-widgets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>The-OpenROAD-Project/OpenROAD-flow-scripts</title>
-    <updated>2022-06-02T02:27:36Z</updated>
-    <id>tag:github.com,2022-06-02:/The-OpenROAD-Project/OpenROAD-flow-scripts</id>
-    <link href="https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ucb-bar/nvdla-wrapper</title>
+    <updated>2022-06-03T02:26:26Z</updated>
+    <id>tag:github.com,2022-06-03:/ucb-bar/nvdla-wrapper</id>
+    <link href="https://github.com/ucb-bar/nvdla-wrapper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Wraps the NVDLA project for Chipyard integration&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>corundum/corundum</title>
+    <updated>2022-06-03T02:26:26Z</updated>
+    <id>tag:github.com,2022-06-03:/corundum/corundum</id>
+    <link href="https://github.com/corundum/corundum" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open source FPGA-based NIC and platform for in-network compute&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

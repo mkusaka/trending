@@ -1,35 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:12:33Z</updated>
+  <updated>2022-06-03T02:10:30Z</updated>
   <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>spinnaker/clouddriver</title>
-    <updated>2022-06-02T02:12:33Z</updated>
-    <id>tag:github.com,2022-06-02:/spinnaker/clouddriver</id>
-    <link href="https://github.com/spinnaker/clouddriver" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;read and write operations across cloud providers&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>palantir/gradle-docker</title>
-    <updated>2022-06-02T02:12:33Z</updated>
-    <id>tag:github.com,2022-06-02:/palantir/gradle-docker</id>
-    <link href="https://github.com/palantir/gradle-docker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a Gradle plugin for orchestrating docker builds and pushes.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>schmidie/Carmob</title>
-    <updated>2022-06-02T02:12:33Z</updated>
-    <id>tag:github.com,2022-06-02:/schmidie/Carmob</id>
-    <link href="https://github.com/schmidie/Carmob" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;dynamische intermodale Routenplanung&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>VINCIVIZ/FormBuilderProject</title>
-    <updated>2022-06-02T02:12:33Z</updated>
-    <id>tag:github.com,2022-06-02:/VINCIVIZ/FormBuilderProject</id>
-    <link href="https://github.com/VINCIVIZ/FormBuilderProject" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Source code for Form Builder&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mkdecisiondev/moqui-pac4j-authentication</title>
+    <updated>2022-06-03T02:10:30Z</updated>
+    <id>tag:github.com,2022-06-03:/mkdecisiondev/moqui-pac4j-authentication</id>
+    <link href="https://github.com/mkdecisiondev/moqui-pac4j-authentication" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Single Sign-on authentication support for Moqui&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

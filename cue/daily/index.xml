@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CUE Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:38:37Z</updated>
+  <updated>2022-06-03T01:36:28Z</updated>
   <subtitle>Daily Trending of CUE in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>techcraftco/rpi-usb-gadget</title>
-    <updated>2022-06-02T01:38:37Z</updated>
-    <id>tag:github.com,2022-06-02:/techcraftco/rpi-usb-gadget</id>
-    <link href="https://github.com/techcraftco/rpi-usb-gadget" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pre-built, Raspberry Pi images to simplify using the Pi as a USB gadget.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>greymatter-io/operator</title>
-    <updated>2022-06-02T01:38:37Z</updated>
-    <id>tag:github.com,2022-06-02:/greymatter-io/operator</id>
-    <link href="https://github.com/greymatter-io/operator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

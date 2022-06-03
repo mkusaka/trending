@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Eiffel Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:09:42Z</updated>
+  <updated>2022-06-03T02:07:32Z</updated>
   <subtitle>Weekly Trending of Eiffel in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Eiffel-World/log4e</title>
+    <updated>2022-06-03T02:07:32Z</updated>
+    <id>tag:github.com,2022-06-03:/Eiffel-World/log4e</id>
+    <link href="https://github.com/Eiffel-World/log4e" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

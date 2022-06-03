@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HolyC Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:13:07Z</updated>
+  <updated>2022-06-03T02:11:12Z</updated>
   <subtitle>Weekly Trending of HolyC in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cia-foundation/TempleOS</title>
-    <updated>2022-06-02T02:13:07Z</updated>
-    <id>tag:github.com,2022-06-02:/cia-foundation/TempleOS</id>
-    <link href="https://github.com/cia-foundation/TempleOS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Talk to God on up to 64 cores. Final snapshot of the Third Temple.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

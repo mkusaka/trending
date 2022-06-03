@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoHotkey Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:35:35Z</updated>
+  <updated>2022-06-03T01:33:35Z</updated>
   <subtitle>Daily Trending of AutoHotkey in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hui-Zz/RunAny</title>
-    <updated>2022-06-02T01:35:35Z</updated>
-    <id>tag:github.com,2022-06-02:/hui-Zz/RunAny</id>
-    <link href="https://github.com/hui-Zz/RunAny" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;【RunAny】一劳永逸的快速启动软件，拥有三键启动、一键直达、规则启动、批量搜索、全局热键、短语输出、热键映射、脚本插件等功能&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Ixiko/AHK-libs-and-classes-collection</title>
+    <updated>2022-06-03T01:33:35Z</updated>
+    <id>tag:github.com,2022-06-03:/Ixiko/AHK-libs-and-classes-collection</id>
+    <link href="https://github.com/Ixiko/AHK-libs-and-classes-collection" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a collection of currently around 3300 Autohotkey libraries, classes with examples.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Cweamy/Mighty-Omega-Macro</title>
+    <updated>2022-06-03T01:33:35Z</updated>
+    <id>tag:github.com,2022-06-03:/Cweamy/Mighty-Omega-Macro</id>
+    <link href="https://github.com/Cweamy/Mighty-Omega-Macro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;macro for Mighty Omega using Autohotkey&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

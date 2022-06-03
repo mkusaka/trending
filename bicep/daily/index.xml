@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:35:59Z</updated>
+  <updated>2022-06-03T01:33:56Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Azure/data-management-zone</title>
-    <updated>2022-06-02T01:35:59Z</updated>
-    <id>tag:github.com,2022-06-02:/Azure/data-management-zone</id>
-    <link href="https://github.com/Azure/data-management-zone" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Template to deploy the Data Management Zone of the Data Management &amp; Analytics Scenario (former Enterprise-Scale Analytics). The Data Management Zone provides data governance and management capabilities for the data platform of an organization.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Azure/ALZ-Bicep</title>
-    <updated>2022-06-02T01:35:59Z</updated>
-    <id>tag:github.com,2022-06-02:/Azure/ALZ-Bicep</id>
-    <link href="https://github.com/Azure/ALZ-Bicep" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository contains the Azure Landing Zones (ALZ) Bicep modules that help deliver and deploy the Azure Landing Zone conceptual architecture in a modular approach. https://aka.ms/alz/docs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,119 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:37:39Z</updated>
+  <updated>2022-06-03T01:35:39Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ethz-asl/protobuf_catkin</title>
-    <updated>2022-06-02T01:37:39Z</updated>
-    <id>tag:github.com,2022-06-02:/ethz-asl/protobuf_catkin</id>
-    <link href="https://github.com/ethz-asl/protobuf_catkin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A catkin wrapper for Google protocol buffers&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>eProsima/foonathan_memory_vendor</title>
+    <updated>2022-06-03T01:35:39Z</updated>
+    <id>tag:github.com,2022-06-03:/eProsima/foonathan_memory_vendor</id>
+    <link href="https://github.com/eProsima/foonathan_memory_vendor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;foonathan/memory vendor package for Fast DDS.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>editorconfig/editorconfig-core-test</title>
-    <updated>2022-06-02T01:37:39Z</updated>
-    <id>tag:github.com,2022-06-02:/editorconfig/editorconfig-core-test</id>
-    <link href="https://github.com/editorconfig/editorconfig-core-test" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Testings for EditorConfig Core&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ethz-asl/gflags_catkin</title>
-    <updated>2022-06-02T01:37:39Z</updated>
-    <id>tag:github.com,2022-06-02:/ethz-asl/gflags_catkin</id>
-    <link href="https://github.com/ethz-asl/gflags_catkin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A catkin wrapper for Google gflags&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>steinbergmedia/vst3_cmake</title>
-    <updated>2022-06-02T01:37:39Z</updated>
-    <id>tag:github.com,2022-06-02:/steinbergmedia/vst3_cmake</id>
-    <link href="https://github.com/steinbergmedia/vst3_cmake" rel="alternate"></link>
+    <title>simonfxr/cmake-utils</title>
+    <updated>2022-06-03T01:35:39Z</updated>
+    <id>tag:github.com,2022-06-03:/simonfxr/cmake-utils</id>
+    <link href="https://github.com/simonfxr/cmake-utils" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ethz-asl/opencv3_catkin</title>
-    <updated>2022-06-02T01:37:39Z</updated>
-    <id>tag:github.com,2022-06-02:/ethz-asl/opencv3_catkin</id>
-    <link href="https://github.com/ethz-asl/opencv3_catkin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Catkin wrapper for opencv3&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>swift-nav/cmake</title>
+    <updated>2022-06-03T01:35:39Z</updated>
+    <id>tag:github.com,2022-06-03:/swift-nav/cmake</id>
+    <link href="https://github.com/swift-nav/cmake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Swift&#39;s commonly used CMake modules&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ethz-asl/glog_catkin</title>
-    <updated>2022-06-02T01:37:39Z</updated>
-    <id>tag:github.com,2022-06-02:/ethz-asl/glog_catkin</id>
-    <link href="https://github.com/ethz-asl/glog_catkin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A catkin wrapper for Google glog&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>steinbergmedia/vst3sdk</title>
+    <updated>2022-06-03T01:35:39Z</updated>
+    <id>tag:github.com,2022-06-03:/steinbergmedia/vst3sdk</id>
+    <link href="https://github.com/steinbergmedia/vst3sdk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;VST 3 Plug-In SDK&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>couchbase/tlm</title>
-    <updated>2022-06-02T01:37:39Z</updated>
-    <id>tag:github.com,2022-06-02:/couchbase/tlm</id>
-    <link href="https://github.com/couchbase/tlm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;top level makefile&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>friendlyanon/cmake-init</title>
+    <updated>2022-06-03T01:35:39Z</updated>
+    <id>tag:github.com,2022-06-03:/friendlyanon/cmake-init</id>
+    <link href="https://github.com/friendlyanon/cmake-init" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The missing CMake project initializer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CogRob/catkin_grpc</title>
-    <updated>2022-06-02T01:37:39Z</updated>
-    <id>tag:github.com,2022-06-02:/CogRob/catkin_grpc</id>
-    <link href="https://github.com/CogRob/catkin_grpc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Integrates gRPC into Catkin/ROS ecosystem.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ethz-asl/eigen_catkin</title>
-    <updated>2022-06-02T01:37:39Z</updated>
-    <id>tag:github.com,2022-06-02:/ethz-asl/eigen_catkin</id>
-    <link href="https://github.com/ethz-asl/eigen_catkin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Eigen convenience for catkin&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ethz-asl/catkin_boost_python_buildtool</title>
-    <updated>2022-06-02T01:37:39Z</updated>
-    <id>tag:github.com,2022-06-02:/ethz-asl/catkin_boost_python_buildtool</id>
-    <link href="https://github.com/ethz-asl/catkin_boost_python_buildtool" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;catkin &#39;buildtool&#39; for boost python c++ libraries&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JCSDA-internal/ufo-data</title>
-    <updated>2022-06-02T01:37:39Z</updated>
-    <id>tag:github.com,2022-06-02:/JCSDA-internal/ufo-data</id>
-    <link href="https://github.com/JCSDA-internal/ufo-data" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tier-1 test files for ufo repository&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>zeek/cmake</title>
-    <updated>2022-06-02T01:37:39Z</updated>
-    <id>tag:github.com,2022-06-02:/zeek/cmake</id>
-    <link href="https://github.com/zeek/cmake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CMake scripts used in Zeek&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Azure/c-testrunnerswitcher</title>
-    <updated>2022-06-02T01:37:39Z</updated>
-    <id>tag:github.com,2022-06-02:/Azure/c-testrunnerswitcher</id>
-    <link href="https://github.com/Azure/c-testrunnerswitcher" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;C test runner switcher repo to be broken off from azure-c-shared-utility so it can be reused in several of our IoT repos&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>astuff/astuff_sensor_msgs</title>
-    <updated>2022-06-02T01:37:39Z</updated>
-    <id>tag:github.com,2022-06-02:/astuff/astuff_sensor_msgs</id>
-    <link href="https://github.com/astuff/astuff_sensor_msgs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A set of messages specific to each sensor supported by AutonomouStuff.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>autowarefoundation/autoware_common</title>
-    <updated>2022-06-02T01:37:39Z</updated>
-    <id>tag:github.com,2022-06-02:/autowarefoundation/autoware_common</id>
-    <link href="https://github.com/autowarefoundation/autoware_common" rel="alternate"></link>
+    <title>rapyuta-robotics/UE_msgs</title>
+    <updated>2022-06-03T01:35:39Z</updated>
+    <id>tag:github.com,2022-06-03:/rapyuta-robotics/UE_msgs</id>
+    <link href="https://github.com/rapyuta-robotics/UE_msgs" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ethz-asl/nlopt</title>
-    <updated>2022-06-02T01:37:39Z</updated>
-    <id>tag:github.com,2022-06-02:/ethz-asl/nlopt</id>
-    <link href="https://github.com/ethz-asl/nlopt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This package integrates NL opt with Catkin&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>eve-autonomy/autoware_state_machine_msgs</title>
+    <updated>2022-06-03T01:35:39Z</updated>
+    <id>tag:github.com,2022-06-03:/eve-autonomy/autoware_state_machine_msgs</id>
+    <link href="https://github.com/eve-autonomy/autoware_state_machine_msgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>eve-autonomy/audio_driver_msgs</title>
+    <updated>2022-06-03T01:35:39Z</updated>
+    <id>tag:github.com,2022-06-03:/eve-autonomy/audio_driver_msgs</id>
+    <link href="https://github.com/eve-autonomy/audio_driver_msgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>boostorg/cmake</title>
+    <updated>2022-06-03T01:35:39Z</updated>
+    <id>tag:github.com,2022-06-03:/boostorg/cmake</id>
+    <link href="https://github.com/boostorg/cmake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CMake support infrastructure Boost submodule; experimental&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

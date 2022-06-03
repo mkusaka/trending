@@ -1,49 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:24:46Z</updated>
+  <updated>2022-06-03T02:23:33Z</updated>
   <subtitle>Weekly Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>HashLips/solidity_smart_contracts</title>
-    <updated>2022-06-02T02:24:46Z</updated>
-    <id>tag:github.com,2022-06-02:/HashLips/solidity_smart_contracts</id>
-    <link href="https://github.com/HashLips/solidity_smart_contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A list of smart contracts coded in solidity&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>code-423n4/2022-05-rubicon</title>
-    <updated>2022-06-02T02:24:46Z</updated>
-    <id>tag:github.com,2022-06-02:/code-423n4/2022-05-rubicon</id>
-    <link href="https://github.com/code-423n4/2022-05-rubicon" rel="alternate"></link>
+    <title>code-423n4/2022-05-velodrome</title>
+    <updated>2022-06-03T02:23:33Z</updated>
+    <id>tag:github.com,2022-06-03:/code-423n4/2022-05-velodrome</id>
+    <link href="https://github.com/code-423n4/2022-05-velodrome" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>w1nt3r-eth/hot-chain-svg</title>
-    <updated>2022-06-02T02:24:46Z</updated>
-    <id>tag:github.com,2022-06-02:/w1nt3r-eth/hot-chain-svg</id>
-    <link href="https://github.com/w1nt3r-eth/hot-chain-svg" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tintinweb/smart-contract-sanctuary-tron</title>
+    <updated>2022-06-03T02:23:33Z</updated>
+    <id>tag:github.com,2022-06-03:/tintinweb/smart-contract-sanctuary-tron</id>
+    <link href="https://github.com/tintinweb/smart-contract-sanctuary-tron" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[Tron] 🐦🌴🌴🌴🦕 A home for ethereum smart contracts. 🏠&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>safemoonprotocol/Safemoon.sol</title>
-    <updated>2022-06-02T02:24:46Z</updated>
-    <id>tag:github.com,2022-06-02:/safemoonprotocol/Safemoon.sol</id>
-    <link href="https://github.com/safemoonprotocol/Safemoon.sol" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;safemoon contract&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>crytic/building-secure-contracts</title>
-    <updated>2022-06-02T02:24:46Z</updated>
-    <id>tag:github.com,2022-06-02:/crytic/building-secure-contracts</id>
-    <link href="https://github.com/crytic/building-secure-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Guidelines and training material to write secure smart contracts&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>net2devcrypto/nftstaking</title>
-    <updated>2022-06-02T02:24:46Z</updated>
-    <id>tag:github.com,2022-06-02:/net2devcrypto/nftstaking</id>
-    <link href="https://github.com/net2devcrypto/nftstaking" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Stake your ERC721 NFTs and issue ERC20 Tokens as Rewards!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>smartcontractkit/documentation</title>
+    <updated>2022-06-03T02:23:33Z</updated>
+    <id>tag:github.com,2022-06-03:/smartcontractkit/documentation</id>
+    <link href="https://github.com/smartcontractkit/documentation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;https://docs.chain.link The Chainlink developer documentation website for Smart Contract Devs and Node Operators&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

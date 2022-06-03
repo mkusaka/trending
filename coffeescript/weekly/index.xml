@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:07:04Z</updated>
+  <updated>2022-06-03T02:04:59Z</updated>
   <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>m9/hubot-basecamp-pomodoro</title>
-    <updated>2022-06-02T02:07:04Z</updated>
-    <id>tag:github.com,2022-06-02:/m9/hubot-basecamp-pomodoro</id>
-    <link href="https://github.com/m9/hubot-basecamp-pomodoro" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Basecamp and Pomodoro integration for Github Hubot&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>morrisjs/morris.js</title>
+    <updated>2022-06-03T02:04:59Z</updated>
+    <id>tag:github.com,2022-06-03:/morrisjs/morris.js</id>
+    <link href="https://github.com/morrisjs/morris.js" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pretty time-series line graphs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>fbsamples/graph-api-webhooks-samples</title>
-    <updated>2022-06-02T02:07:04Z</updated>
-    <id>tag:github.com,2022-06-02:/fbsamples/graph-api-webhooks-samples</id>
-    <link href="https://github.com/fbsamples/graph-api-webhooks-samples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;These are sample clients for Facebook&#39;s Graph API Webhooks and Instagram&#39;s Real-time Photo Updates API.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dropbox/zxcvbn</title>
+    <updated>2022-06-03T02:04:59Z</updated>
+    <id>tag:github.com,2022-06-03:/dropbox/zxcvbn</id>
+    <link href="https://github.com/dropbox/zxcvbn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Low-Budget Password Strength Estimation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>opinsys/webmenu</title>
-    <updated>2022-06-02T02:07:04Z</updated>
-    <id>tag:github.com,2022-06-02:/opinsys/webmenu</id>
-    <link href="https://github.com/opinsys/webmenu" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>scottybarr/track-my-bus</title>
+    <updated>2022-06-03T02:04:59Z</updated>
+    <id>tag:github.com,2022-06-03:/scottybarr/track-my-bus</id>
+    <link href="https://github.com/scottybarr/track-my-bus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Backup bus tracker for lothian buses.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

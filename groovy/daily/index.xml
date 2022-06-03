@@ -1,105 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:43:08Z</updated>
+  <updated>2022-06-03T01:41:05Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cnumr/ecoCode</title>
-    <updated>2022-06-02T01:43:08Z</updated>
-    <id>tag:github.com,2022-06-02:/cnumr/ecoCode</id>
-    <link href="https://github.com/cnumr/ecoCode" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Reduce the environmental footprint of your software applications with this cutting-edge sonarQube plugin&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nextflow-io/nextflow</title>
-    <updated>2022-06-02T01:43:08Z</updated>
-    <id>tag:github.com,2022-06-02:/nextflow-io/nextflow</id>
-    <link href="https://github.com/nextflow-io/nextflow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A DSL for data-driven computational pipelines&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>okta/okta-sdk-java</title>
-    <updated>2022-06-02T01:43:08Z</updated>
-    <id>tag:github.com,2022-06-02:/okta/okta-sdk-java</id>
-    <link href="https://github.com/okta/okta-sdk-java" rel="alternate"></link>
+    <title>Sonal0409/Purdue_DevOps</title>
+    <updated>2022-06-03T01:41:05Z</updated>
+    <id>tag:github.com,2022-06-03:/Sonal0409/Purdue_DevOps</id>
+    <link href="https://github.com/Sonal0409/Purdue_DevOps" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>spinnaker/clouddriver</title>
-    <updated>2022-06-02T01:43:08Z</updated>
-    <id>tag:github.com,2022-06-02:/spinnaker/clouddriver</id>
-    <link href="https://github.com/spinnaker/clouddriver" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;read and write operations across cloud providers&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>elastic/apm-pipeline-library</title>
+    <updated>2022-06-03T01:41:05Z</updated>
+    <id>tag:github.com,2022-06-03:/elastic/apm-pipeline-library</id>
+    <link href="https://github.com/elastic/apm-pipeline-library" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jenkins pipeline shared library for the APM project&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jfrog/artifactory-user-plugins</title>
-    <updated>2022-06-02T01:43:08Z</updated>
-    <id>tag:github.com,2022-06-02:/jfrog/artifactory-user-plugins</id>
-    <link href="https://github.com/jfrog/artifactory-user-plugins" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sample Artifactory User Plugins&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>elastic/elasticsearch-groovy</title>
+    <updated>2022-06-03T01:41:05Z</updated>
+    <id>tag:github.com,2022-06-03:/elastic/elasticsearch-groovy</id>
+    <link href="https://github.com/elastic/elasticsearch-groovy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Elasticsearch Groovy client&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>elastic/package-storage</title>
-    <updated>2022-06-02T01:43:08Z</updated>
-    <id>tag:github.com,2022-06-02:/elastic/package-storage</id>
-    <link href="https://github.com/elastic/package-storage" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Package storage for packages served through the package registry service&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jenkinsci/JenkinsPipelineUnit</title>
+    <updated>2022-06-03T01:41:05Z</updated>
+    <id>tag:github.com,2022-06-03:/jenkinsci/JenkinsPipelineUnit</id>
+    <link href="https://github.com/jenkinsci/JenkinsPipelineUnit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Framework for unit testing Jenkins pipelines&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>node-gradle/gradle-node-plugin</title>
-    <updated>2022-06-02T01:43:08Z</updated>
-    <id>tag:github.com,2022-06-02:/node-gradle/gradle-node-plugin</id>
-    <link href="https://github.com/node-gradle/gradle-node-plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gradle plugin for integrating NodeJS in your build. 🚀&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>g0t4/course-jenkins-getting-started</title>
+    <updated>2022-06-03T01:41:05Z</updated>
+    <id>tag:github.com,2022-06-03:/g0t4/course-jenkins-getting-started</id>
+    <link href="https://github.com/g0t4/course-jenkins-getting-started" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jenkins Getting Started (jgsu) Course Materials - An update to my initial version of the course&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>fison67/mi_connector</title>
-    <updated>2022-06-02T01:43:08Z</updated>
-    <id>tag:github.com,2022-06-02:/fison67/mi_connector</id>
-    <link href="https://github.com/fison67/mi_connector" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Connector for Xiaomi Devices with Smartthings, Hubitat&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JetBrains/gradle-idea-ext-plugin</title>
+    <updated>2022-06-03T01:41:05Z</updated>
+    <id>tag:github.com,2022-06-03:/JetBrains/gradle-idea-ext-plugin</id>
+    <link href="https://github.com/JetBrains/gradle-idea-ext-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Plugin to store IJ settings in gradle script&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>PingCAP-QE/ci</title>
-    <updated>2022-06-02T01:43:08Z</updated>
-    <id>tag:github.com,2022-06-02:/PingCAP-QE/ci</id>
-    <link href="https://github.com/PingCAP-QE/ci" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Continue intergration tests&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mailru/jira-scripts</title>
-    <updated>2022-06-02T01:43:08Z</updated>
-    <id>tag:github.com,2022-06-02:/mailru/jira-scripts</id>
-    <link href="https://github.com/mailru/jira-scripts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jenkinsci/pipeline-model-definition-plugin</title>
-    <updated>2022-06-02T01:43:08Z</updated>
-    <id>tag:github.com,2022-06-02:/jenkinsci/pipeline-model-definition-plugin</id>
-    <link href="https://github.com/jenkinsci/pipeline-model-definition-plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ultraq/thymeleaf-layout-dialect</title>
-    <updated>2022-06-02T01:43:08Z</updated>
-    <id>tag:github.com,2022-06-02:/ultraq/thymeleaf-layout-dialect</id>
-    <link href="https://github.com/ultraq/thymeleaf-layout-dialect" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A dialect for Thymeleaf that lets you build layouts and reusable templates in order to improve code reuse&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>geerlingguy/ansible-role-jenkins</title>
-    <updated>2022-06-02T01:43:08Z</updated>
-    <id>tag:github.com,2022-06-02:/geerlingguy/ansible-role-jenkins</id>
-    <link href="https://github.com/geerlingguy/ansible-role-jenkins" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ansible Role - Jenkins CI&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>zeyangli/jenkinslibrary</title>
-    <updated>2022-06-02T01:43:08Z</updated>
-    <id>tag:github.com,2022-06-02:/zeyangli/jenkinslibrary</id>
-    <link href="https://github.com/zeyangli/jenkinslibrary" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Jenkins共享库&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>olxbr/gradle-plugins</title>
+    <updated>2022-06-03T01:41:05Z</updated>
+    <id>tag:github.com,2022-06-03:/olxbr/gradle-plugins</id>
+    <link href="https://github.com/olxbr/gradle-plugins" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gradle plugins that can be used for several projects&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

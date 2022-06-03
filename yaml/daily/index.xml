@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub YAML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:59:58Z</updated>
+  <updated>2022-06-03T01:57:50Z</updated>
   <subtitle>Daily Trending of YAML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>usnistgov/macos_security</title>
-    <updated>2022-06-02T01:59:58Z</updated>
-    <id>tag:github.com,2022-06-02:/usnistgov/macos_security</id>
-    <link href="https://github.com/usnistgov/macos_security" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;macOS Security Compliance Project&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>trinib/AdGuard-WireGuard-Unbound-Cloudflare</title>
+    <updated>2022-06-03T01:57:50Z</updated>
+    <id>tag:github.com,2022-06-03:/trinib/AdGuard-WireGuard-Unbound-Cloudflare</id>
+    <link href="https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The ultimate self-hosted network security guide ─ Protection🔒 | Privacy🔎 | Performance🚀 for your network 24/7🕛 Accessible anywhere🌏&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

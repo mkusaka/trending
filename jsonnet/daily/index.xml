@@ -1,35 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jsonnet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:45:10Z</updated>
+  <updated>2022-06-03T01:43:06Z</updated>
   <subtitle>Daily Trending of Jsonnet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>observatorium/observatorium</title>
-    <updated>2022-06-02T01:45:10Z</updated>
-    <id>tag:github.com,2022-06-02:/observatorium/observatorium</id>
-    <link href="https://github.com/observatorium/observatorium" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository contains the deployment configurations for the Observatorium instances&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>getoutreach/jsonnet-libs</title>
+    <updated>2022-06-03T01:43:06Z</updated>
+    <id>tag:github.com,2022-06-03:/getoutreach/jsonnet-libs</id>
+    <link href="https://github.com/getoutreach/jsonnet-libs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Libraries to help simplify Outreach manifests&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>grafana/grafonnet-lib</title>
-    <updated>2022-06-02T01:45:10Z</updated>
-    <id>tag:github.com,2022-06-02:/grafana/grafonnet-lib</id>
-    <link href="https://github.com/grafana/grafonnet-lib" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Jsonnet library for generating Grafana dashboard files.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>google/jsonnet</title>
-    <updated>2022-06-02T01:45:10Z</updated>
-    <id>tag:github.com,2022-06-02:/google/jsonnet</id>
-    <link href="https://github.com/google/jsonnet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Jsonnet - The data templating language&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>grafana/jsonnet-libs</title>
-    <updated>2022-06-02T01:45:10Z</updated>
-    <id>tag:github.com,2022-06-02:/grafana/jsonnet-libs</id>
-    <link href="https://github.com/grafana/jsonnet-libs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Grafana Labs&#39; Jsonnet libraries&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sambunhi/infra</title>
+    <updated>2022-06-03T01:43:06Z</updated>
+    <id>tag:github.com,2022-06-03:/sambunhi/infra</id>
+    <link href="https://github.com/sambunhi/infra" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

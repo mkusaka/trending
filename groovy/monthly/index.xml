@@ -1,42 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:41:17Z</updated>
+  <updated>2022-06-03T02:40:41Z</updated>
   <subtitle>Monthly Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mulesoft/mule-assembly-verifier-plugin</title>
-    <updated>2022-06-02T02:41:17Z</updated>
-    <id>tag:github.com,2022-06-02:/mulesoft/mule-assembly-verifier-plugin</id>
-    <link href="https://github.com/mulesoft/mule-assembly-verifier-plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Maven Assembly Verifier for Mule Build&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jenkinsci/pipeline-examples</title>
-    <updated>2022-06-02T02:41:17Z</updated>
-    <id>tag:github.com,2022-06-02:/jenkinsci/pipeline-examples</id>
-    <link href="https://github.com/jenkinsci/pipeline-examples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>geerlingguy/ansible-role-jenkins</title>
-    <updated>2022-06-02T02:41:17Z</updated>
-    <id>tag:github.com,2022-06-02:/geerlingguy/ansible-role-jenkins</id>
-    <link href="https://github.com/geerlingguy/ansible-role-jenkins" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ansible Role - Jenkins CI&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jenkinsci/pipeline-model-definition-plugin</title>
-    <updated>2022-06-02T02:41:17Z</updated>
-    <id>tag:github.com,2022-06-02:/jenkinsci/pipeline-model-definition-plugin</id>
-    <link href="https://github.com/jenkinsci/pipeline-model-definition-plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kezong/fat-aar-android</title>
-    <updated>2022-06-02T02:41:17Z</updated>
-    <id>tag:github.com,2022-06-02:/kezong/fat-aar-android</id>
-    <link href="https://github.com/kezong/fat-aar-android" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A gradle plugin that merge dependencies into the final aar file works with AGP 3.+&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>elastic/elasticsearch-groovy</title>
+    <updated>2022-06-03T02:40:41Z</updated>
+    <id>tag:github.com,2022-06-03:/elastic/elasticsearch-groovy</id>
+    <link href="https://github.com/elastic/elasticsearch-groovy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Elasticsearch Groovy client&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

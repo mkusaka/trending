@@ -1,49 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:12:51Z</updated>
+  <updated>2022-06-03T02:10:46Z</updated>
   <subtitle>Weekly Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>GoogleCloudPlatform/cloud-foundation-fabric</title>
-    <updated>2022-06-02T02:12:51Z</updated>
-    <id>tag:github.com,2022-06-02:/GoogleCloudPlatform/cloud-foundation-fabric</id>
-    <link href="https://github.com/GoogleCloudPlatform/cloud-foundation-fabric" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;End-to-end modular samples for Terraform on GCP.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ministryofjustice/cloud-platform-environments</title>
+    <updated>2022-06-03T02:10:46Z</updated>
+    <id>tag:github.com,2022-06-03:/ministryofjustice/cloud-platform-environments</id>
+    <link href="https://github.com/ministryofjustice/cloud-platform-environments" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Environment configuration for the Cloud Platform&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>openshift/okd</title>
-    <updated>2022-06-02T02:12:51Z</updated>
-    <id>tag:github.com,2022-06-02:/openshift/okd</id>
-    <link href="https://github.com/openshift/okd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The self-managing, auto-upgrading, Kubernetes distribution for everyone&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hashicorp/learn-terraform-github-actions</title>
+    <updated>2022-06-03T02:10:46Z</updated>
+    <id>tag:github.com,2022-06-03:/hashicorp/learn-terraform-github-actions</id>
+    <link href="https://github.com/hashicorp/learn-terraform-github-actions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>digitalocean/Kubernetes-Starter-Kit-Developers</title>
-    <updated>2022-06-02T02:12:51Z</updated>
-    <id>tag:github.com,2022-06-02:/digitalocean/Kubernetes-Starter-Kit-Developers</id>
-    <link href="https://github.com/digitalocean/Kubernetes-Starter-Kit-Developers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hands-on tutorial and Automation stack for an operations-ready DigitalOcean Kubernetes (DOKS) cluster.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cloudposse/terraform-aws-s3-bucket</title>
-    <updated>2022-06-02T02:12:51Z</updated>
-    <id>tag:github.com,2022-06-02:/cloudposse/terraform-aws-s3-bucket</id>
-    <link href="https://github.com/cloudposse/terraform-aws-s3-bucket" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module that creates an S3 bucket with an optional IAM user for external CI/CD systems&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cloudposse/terraform-aws-ecs-container-definition</title>
-    <updated>2022-06-02T02:12:51Z</updated>
-    <id>tag:github.com,2022-06-02:/cloudposse/terraform-aws-ecs-container-definition</id>
-    <link href="https://github.com/cloudposse/terraform-aws-ecs-container-definition" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>terraform-aws-modules/terraform-aws-ecs</title>
-    <updated>2022-06-02T02:12:51Z</updated>
-    <id>tag:github.com,2022-06-02:/terraform-aws-modules/terraform-aws-ecs</id>
-    <link href="https://github.com/terraform-aws-modules/terraform-aws-ecs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module which creates AWS ECS resources 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tetratelabs/terraform-eksblueprints-tetrate-istio-addon</title>
+    <updated>2022-06-03T02:10:46Z</updated>
+    <id>tag:github.com,2022-06-03:/tetratelabs/terraform-eksblueprints-tetrate-istio-addon</id>
+    <link href="https://github.com/tetratelabs/terraform-eksblueprints-tetrate-istio-addon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:25:26Z</updated>
+  <updated>2022-06-03T02:24:16Z</updated>
   <subtitle>Weekly Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>svelteuidev/svelteui</title>
-    <updated>2022-06-02T02:25:26Z</updated>
-    <id>tag:github.com,2022-06-02:/svelteuidev/svelteui</id>
-    <link href="https://github.com/svelteuidev/svelteui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SvelteUI Monorepo&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>iCrawl/icrawl</title>
+    <updated>2022-06-03T02:24:16Z</updated>
+    <id>tag:github.com,2022-06-03:/iCrawl/icrawl</id>
+    <link href="https://github.com/iCrawl/icrawl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:23:09Z</updated>
+  <updated>2022-06-03T02:21:49Z</updated>
   <subtitle>Weekly Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TheAlgorithms/Rust</title>
-    <updated>2022-06-02T02:23:09Z</updated>
-    <id>tag:github.com,2022-06-02:/TheAlgorithms/Rust</id>
-    <link href="https://github.com/TheAlgorithms/Rust" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;All Algorithms implemented in Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>solana-labs/solana-program-library</title>
+    <updated>2022-06-03T02:21:49Z</updated>
+    <id>tag:github.com,2022-06-03:/solana-labs/solana-program-library</id>
+    <link href="https://github.com/solana-labs/solana-program-library" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of Solana-maintained on-chain programs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>osohq/oso</title>
-    <updated>2022-06-02T02:23:09Z</updated>
-    <id>tag:github.com,2022-06-02:/osohq/oso</id>
-    <link href="https://github.com/osohq/oso" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Oso is a batteries-included framework for building authorization in your application.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rust-embedded/rust-raspberrypi-OS-tutorials</title>
+    <updated>2022-06-03T02:21:49Z</updated>
+    <id>tag:github.com,2022-06-03:/rust-embedded/rust-raspberrypi-OS-tutorials</id>
+    <link href="https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📚 Learn to write an embedded OS in Rust 🦀&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>flxzt/rnote</title>
-    <updated>2022-06-02T02:23:09Z</updated>
-    <id>tag:github.com,2022-06-02:/flxzt/rnote</id>
-    <link href="https://github.com/flxzt/rnote" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sketch and take handwritten notes.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>quickwit-oss/tantivy</title>
+    <updated>2022-06-03T02:21:49Z</updated>
+    <id>tag:github.com,2022-06-03:/quickwit-oss/tantivy</id>
+    <link href="https://github.com/quickwit-oss/tantivy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>launchbadge/sqlx</title>
+    <updated>2022-06-03T02:21:49Z</updated>
+    <id>tag:github.com,2022-06-03:/launchbadge/sqlx</id>
+    <link href="https://github.com/launchbadge/sqlx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>diesel-rs/diesel</title>
+    <updated>2022-06-03T02:21:49Z</updated>
+    <id>tag:github.com,2022-06-03:/diesel-rs/diesel</id>
+    <link href="https://github.com/diesel-rs/diesel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A safe, extensible ORM and Query Builder for Rust&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cloud-hypervisor/cloud-hypervisor</title>
+    <updated>2022-06-03T02:21:49Z</updated>
+    <id>tag:github.com,2022-06-03:/cloud-hypervisor/cloud-hypervisor</id>
+    <link href="https://github.com/cloud-hypervisor/cloud-hypervisor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

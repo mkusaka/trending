@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cython Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:38:47Z</updated>
+  <updated>2022-06-03T01:36:43Z</updated>
   <subtitle>Daily Trending of Cython in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Unidata/netcdf4-python</title>
-    <updated>2022-06-02T01:38:47Z</updated>
-    <id>tag:github.com,2022-06-02:/Unidata/netcdf4-python</id>
-    <link href="https://github.com/Unidata/netcdf4-python" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;netcdf4-python: python/numpy interface to the netCDF C library&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>macs3-project/MACS</title>
-    <updated>2022-06-02T01:38:47Z</updated>
-    <id>tag:github.com,2022-06-02:/macs3-project/MACS</id>
-    <link href="https://github.com/macs3-project/MACS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MACS -- Model-based Analysis of ChIP-Seq&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>discord/erlpack</title>
+    <updated>2022-06-03T01:36:43Z</updated>
+    <id>tag:github.com,2022-06-03:/discord/erlpack</id>
+    <link href="https://github.com/discord/erlpack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;High Performance Erlang Term Format Packer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

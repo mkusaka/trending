@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:52:14Z</updated>
+  <updated>2022-06-03T01:49:58Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>drivard/puppet-basic</title>
-    <updated>2022-06-02T01:52:14Z</updated>
-    <id>tag:github.com,2022-06-02:/drivard/puppet-basic</id>
-    <link href="https://github.com/drivard/puppet-basic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Puppet module to configure the basic settings of a server.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>elastic/puppet-logstashforwarder</title>
+    <updated>2022-06-03T01:49:58Z</updated>
+    <id>tag:github.com,2022-06-03:/elastic/puppet-logstashforwarder</id>
+    <link href="https://github.com/elastic/puppet-logstashforwarder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Puppet module for Logstash Forwarder&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>puppetlabs/puppetlabs-pe_databases</title>
-    <updated>2022-06-02T01:52:14Z</updated>
-    <id>tag:github.com,2022-06-02:/puppetlabs/puppetlabs-pe_databases</id>
-    <link href="https://github.com/puppetlabs/puppetlabs-pe_databases" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Puppet Module for Backing Up / Maintaining / Tuning Your Puppet Enterprise Databases&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tugberkugurlu/WebAPIDoodle.Bootstrap</title>
+    <updated>2022-06-03T01:49:58Z</updated>
+    <id>tag:github.com,2022-06-03:/tugberkugurlu/WebAPIDoodle.Bootstrap</id>
+    <link href="https://github.com/tugberkugurlu/WebAPIDoodle.Bootstrap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Source code of the several ASP.NET Web API samples. The source code is used for creating NuGet packages and it is not meant to be used directly.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>confluentinc/securing-kafka-blog</title>
+    <updated>2022-06-03T01:49:58Z</updated>
+    <id>tag:github.com,2022-06-03:/confluentinc/securing-kafka-blog</id>
+    <link href="https://github.com/confluentinc/securing-kafka-blog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Secure Kafka cluster (in a VM) for development and testing&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

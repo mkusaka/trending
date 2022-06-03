@@ -1,105 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:54:02Z</updated>
+  <updated>2022-06-03T01:51:48Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>subspace/subspace</title>
-    <updated>2022-06-02T01:54:02Z</updated>
-    <id>tag:github.com,2022-06-02:/subspace/subspace</id>
-    <link href="https://github.com/subspace/subspace" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Subspace Network reference implementation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>apache/arrow-datafusion</title>
+    <updated>2022-06-03T01:51:48Z</updated>
+    <id>tag:github.com,2022-06-03:/apache/arrow-datafusion</id>
+    <link href="https://github.com/apache/arrow-datafusion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Apache Arrow DataFusion SQL Query Engine&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>influxdata/influxdb_iox</title>
-    <updated>2022-06-02T01:54:02Z</updated>
-    <id>tag:github.com,2022-06-02:/influxdata/influxdb_iox</id>
-    <link href="https://github.com/influxdata/influxdb_iox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pronounced (influxdb eye-ox), short for iron oxide. This is the new core of InfluxDB written in Rust on top of Apache Arrow.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tikv/tikv</title>
+    <updated>2022-06-03T01:51:48Z</updated>
+    <id>tag:github.com,2022-06-03:/tikv/tikv</id>
+    <link href="https://github.com/tikv/tikv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Distributed transactional key-value database, originally created to complement TiDB&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cube-js/cube.js</title>
-    <updated>2022-06-02T01:54:02Z</updated>
-    <id>tag:github.com,2022-06-02:/cube-js/cube.js</id>
-    <link href="https://github.com/cube-js/cube.js" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📊 Cube — Headless Business Intelligence for Building Data Applications&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CleanCut/ultimate_rust_crash_course</title>
+    <updated>2022-06-03T01:51:48Z</updated>
+    <id>tag:github.com,2022-06-03:/CleanCut/ultimate_rust_crash_course</id>
+    <link href="https://github.com/CleanCut/ultimate_rust_crash_course" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rust Programming Fundamentals - one course to rule them all, one course to find them...&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rust-lang/cargo</title>
-    <updated>2022-06-02T01:54:02Z</updated>
-    <id>tag:github.com,2022-06-02:/rust-lang/cargo</id>
-    <link href="https://github.com/rust-lang/cargo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Rust package manager&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>facebook/relay</title>
+    <updated>2022-06-03T01:51:48Z</updated>
+    <id>tag:github.com,2022-06-03:/facebook/relay</id>
+    <link href="https://github.com/facebook/relay" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Relay is a JavaScript framework for building data-driven React applications.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bytecodealliance/wasmtime</title>
-    <updated>2022-06-02T01:54:02Z</updated>
-    <id>tag:github.com,2022-06-02:/bytecodealliance/wasmtime</id>
-    <link href="https://github.com/bytecodealliance/wasmtime" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Standalone JIT-style runtime for WebAssembly, using Cranelift&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bevyengine/bevy</title>
+    <updated>2022-06-03T01:51:48Z</updated>
+    <id>tag:github.com,2022-06-03:/bevyengine/bevy</id>
+    <link href="https://github.com/bevyengine/bevy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A refreshingly simple data-driven game engine built in Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Geal/nom</title>
-    <updated>2022-06-02T01:54:02Z</updated>
-    <id>tag:github.com,2022-06-02:/Geal/nom</id>
-    <link href="https://github.com/Geal/nom" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rust parser combinator framework&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sunface/rust-course</title>
+    <updated>2022-06-03T01:51:48Z</updated>
+    <id>tag:github.com,2022-06-03:/sunface/rust-course</id>
+    <link href="https://github.com/sunface/rust-course" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石&#34; — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程/书籍&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>indygreg/PyOxidizer</title>
-    <updated>2022-06-02T01:54:02Z</updated>
-    <id>tag:github.com,2022-06-02:/indygreg/PyOxidizer</id>
-    <link href="https://github.com/indygreg/PyOxidizer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A modern Python application packaging and distribution tool&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>stalwartlabs/mail-send</title>
+    <updated>2022-06-03T01:51:48Z</updated>
+    <id>tag:github.com,2022-06-03:/stalwartlabs/mail-send</id>
+    <link href="https://github.com/stalwartlabs/mail-send" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;E-mail delivery library for Rust with DKIM support&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rayon-rs/rayon</title>
-    <updated>2022-06-02T01:54:02Z</updated>
-    <id>tag:github.com,2022-06-02:/rayon-rs/rayon</id>
-    <link href="https://github.com/rayon-rs/rayon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rayon: A data parallelism library for Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cloudflare/quiche</title>
+    <updated>2022-06-03T01:51:48Z</updated>
+    <id>tag:github.com,2022-06-03:/cloudflare/quiche</id>
+    <link href="https://github.com/cloudflare/quiche" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🥧 Savoury implementation of the QUIC transport protocol and HTTP/3&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Peltoche/lsd</title>
-    <updated>2022-06-02T01:54:02Z</updated>
-    <id>tag:github.com,2022-06-02:/Peltoche/lsd</id>
-    <link href="https://github.com/Peltoche/lsd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The next gen ls command&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>benfred/py-spy</title>
+    <updated>2022-06-03T01:51:48Z</updated>
+    <id>tag:github.com,2022-06-03:/benfred/py-spy</id>
+    <link href="https://github.com/benfred/py-spy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sampling profiler for Python programs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>vi/websocat</title>
-    <updated>2022-06-02T01:54:02Z</updated>
-    <id>tag:github.com,2022-06-02:/vi/websocat</id>
-    <link href="https://github.com/vi/websocat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>extrawurst/gitui</title>
-    <updated>2022-06-02T01:54:02Z</updated>
-    <id>tag:github.com,2022-06-02:/extrawurst/gitui</id>
-    <link href="https://github.com/extrawurst/gitui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Blazing 💥 fast terminal-ui for git written in rust 🦀&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>linebender/druid</title>
-    <updated>2022-06-02T01:54:02Z</updated>
-    <id>tag:github.com,2022-06-02:/linebender/druid</id>
-    <link href="https://github.com/linebender/druid" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A data-first Rust-native UI design toolkit.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>near-examples/FT</title>
-    <updated>2022-06-02T01:54:02Z</updated>
-    <id>tag:github.com,2022-06-02:/near-examples/FT</id>
-    <link href="https://github.com/near-examples/FT" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Example implementations of money-like tokens, where one token is the same as any other, using the NEP-141 spec (similar to ERC-20)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>fdehau/tui-rs</title>
-    <updated>2022-06-02T01:54:02Z</updated>
-    <id>tag:github.com,2022-06-02:/fdehau/tui-rs</id>
-    <link href="https://github.com/fdehau/tui-rs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Build terminal user interfaces and dashboards using Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rust-lang/book</title>
+    <updated>2022-06-03T01:51:48Z</updated>
+    <id>tag:github.com,2022-06-03:/rust-lang/book</id>
+    <link href="https://github.com/rust-lang/book" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Rust Programming Language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

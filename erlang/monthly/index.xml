@@ -1,42 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:38:39Z</updated>
+  <updated>2022-06-03T02:37:55Z</updated>
   <subtitle>Monthly Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>erlang/rebar3</title>
-    <updated>2022-06-02T02:38:39Z</updated>
-    <id>tag:github.com,2022-06-02:/erlang/rebar3</id>
-    <link href="https://github.com/erlang/rebar3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Erlang build tool that makes it easy to compile and test Erlang applications and releases.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>okeuday/uuid</title>
-    <updated>2022-06-02T02:38:39Z</updated>
-    <id>tag:github.com,2022-06-02:/okeuday/uuid</id>
-    <link href="https://github.com/okeuday/uuid" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Erlang Native UUID Generation&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rabbitmq/rabbit-socks</title>
-    <updated>2022-06-02T02:38:39Z</updated>
-    <id>tag:github.com,2022-06-02:/rabbitmq/rabbit-socks</id>
-    <link href="https://github.com/rabbitmq/rabbit-socks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Websocket and Socket.IO support for RabbitMQ (deprecated -- see https://github.com/sockjs/sockjs-erlang instead)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>choptastic/qdate</title>
-    <updated>2022-06-02T02:38:39Z</updated>
-    <id>tag:github.com,2022-06-02:/choptastic/qdate</id>
-    <link href="https://github.com/choptastic/qdate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Erlang date, time, and timezone management: formatting, conversion, and date arithmetic&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>proper-testing/proper</title>
-    <updated>2022-06-02T02:38:39Z</updated>
-    <id>tag:github.com,2022-06-02:/proper-testing/proper</id>
-    <link href="https://github.com/proper-testing/proper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PropEr: a QuickCheck-inspired property-based testing tool for Erlang&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kivra/jsonformat</title>
+    <updated>2022-06-03T02:37:55Z</updated>
+    <id>tag:github.com,2022-06-03:/kivra/jsonformat</id>
+    <link href="https://github.com/kivra/jsonformat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Erlang Logger Json Formatter - Structured Logging of Maps to JSON&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

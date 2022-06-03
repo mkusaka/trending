@@ -1,35 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:53:19Z</updated>
+  <updated>2022-06-03T02:52:57Z</updated>
   <subtitle>Monthly Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>feenkcom/gtoolkit-visualizer</title>
-    <updated>2022-06-02T02:53:19Z</updated>
-    <id>tag:github.com,2022-06-02:/feenkcom/gtoolkit-visualizer</id>
-    <link href="https://github.com/feenkcom/gtoolkit-visualizer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A set of visualization engines.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/gt4jenkins</title>
-    <updated>2022-06-02T02:53:19Z</updated>
-    <id>tag:github.com,2022-06-02:/feenkcom/gt4jenkins</id>
-    <link href="https://github.com/feenkcom/gt4jenkins" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An elegant Jenkins client for Glamorous Toolkit.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/gt4famix3</title>
-    <updated>2022-06-02T02:53:19Z</updated>
-    <id>tag:github.com,2022-06-02:/feenkcom/gt4famix3</id>
-    <link href="https://github.com/feenkcom/gt4famix3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository holds the Glamorous Toolkit extensions for Famix3.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/lepiter</title>
-    <updated>2022-06-02T02:53:19Z</updated>
-    <id>tag:github.com,2022-06-02:/feenkcom/lepiter</id>
-    <link href="https://github.com/feenkcom/lepiter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pharo-contributions/OrderPreservingDictionary</title>
+    <updated>2022-06-03T02:52:57Z</updated>
+    <id>tag:github.com,2022-06-03:/pharo-contributions/OrderPreservingDictionary</id>
+    <link href="https://github.com/pharo-contributions/OrderPreservingDictionary" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a little preserving dictionary&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

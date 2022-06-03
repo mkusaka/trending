@@ -1,63 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:23:35Z</updated>
+  <updated>2022-06-03T02:22:17Z</updated>
   <subtitle>Weekly Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Prince-1501/Complete-DSA-Preparation</title>
-    <updated>2022-06-02T02:23:35Z</updated>
-    <id>tag:github.com,2022-06-02:/Prince-1501/Complete-DSA-Preparation</id>
-    <link href="https://github.com/Prince-1501/Complete-DSA-Preparation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is A complete DSA preparation Course. A DSA self-paced course for ultimate Interview and Placement Preparation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>flutter/website</title>
+    <updated>2022-06-03T02:22:17Z</updated>
+    <id>tag:github.com,2022-06-03:/flutter/website</id>
+    <link href="https://github.com/flutter/website" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Flutter documentation web site&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>luizdepra/hugo-coder</title>
-    <updated>2022-06-02T02:23:35Z</updated>
-    <id>tag:github.com,2022-06-02:/luizdepra/hugo-coder</id>
-    <link href="https://github.com/luizdepra/hugo-coder" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A minimalist blog theme for hugo.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alexgurr/react-coding-challenges</title>
+    <updated>2022-06-03T02:22:17Z</updated>
+    <id>tag:github.com,2022-06-03:/alexgurr/react-coding-challenges</id>
+    <link href="https://github.com/alexgurr/react-coding-challenges" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A series of ReactJS coding challenges with a variety of difficulties.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kitian616/jekyll-TeXt-theme</title>
-    <updated>2022-06-02T02:23:35Z</updated>
-    <id>tag:github.com,2022-06-02:/kitian616/jekyll-TeXt-theme</id>
-    <link href="https://github.com/kitian616/jekyll-TeXt-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>material-components/material-web</title>
+    <updated>2022-06-03T02:22:17Z</updated>
+    <id>tag:github.com,2022-06-03:/material-components/material-web</id>
+    <link href="https://github.com/material-components/material-web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Material Design Web Components&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mate-academy/Museum_2</title>
-    <updated>2022-06-02T02:23:35Z</updated>
-    <id>tag:github.com,2022-06-02:/mate-academy/Museum_2</id>
-    <link href="https://github.com/mate-academy/Museum_2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pin4eva/envo</title>
+    <updated>2022-06-03T02:22:17Z</updated>
+    <id>tag:github.com,2022-06-03:/pin4eva/envo</id>
+    <link href="https://github.com/pin4eva/envo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rivers State ICT (Techcreek) Codegaminator 10.0&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nostalgic-css/NES.css</title>
-    <updated>2022-06-02T02:23:35Z</updated>
-    <id>tag:github.com,2022-06-02:/nostalgic-css/NES.css</id>
-    <link href="https://github.com/nostalgic-css/NES.css" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;NES-style CSS Framework | ファミコン風CSSフレームワーク&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>liferay/clay</title>
-    <updated>2022-06-02T02:23:35Z</updated>
-    <id>tag:github.com,2022-06-02:/liferay/clay</id>
-    <link href="https://github.com/liferay/clay" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A web implementation of the Lexicon Experience Language&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pages-themes/minimal</title>
-    <updated>2022-06-02T02:23:35Z</updated>
-    <id>tag:github.com,2022-06-02:/pages-themes/minimal</id>
-    <link href="https://github.com/pages-themes/minimal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Minimal is a Jekyll theme for GitHub Pages&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mmistakes/so-simple-theme</title>
-    <updated>2022-06-02T02:23:35Z</updated>
-    <id>tag:github.com,2022-06-02:/mmistakes/so-simple-theme</id>
-    <link href="https://github.com/mmistakes/so-simple-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple Jekyll theme for words and pictures.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hmobius/hmobius.github.com</title>
+    <updated>2022-06-03T02:22:17Z</updated>
+    <id>tag:github.com,2022-06-03:/hmobius/hmobius.github.com</id>
+    <link href="https://github.com/hmobius/hmobius.github.com" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Homesite&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

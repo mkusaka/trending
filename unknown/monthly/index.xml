@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:31:33Z</updated>
+  <updated>2022-06-03T02:30:37Z</updated>
   <subtitle>Monthly Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>onceupon/Bash-Oneliner</title>
-    <updated>2022-06-02T02:31:33Z</updated>
-    <id>tag:github.com,2022-06-02:/onceupon/Bash-Oneliner</id>
-    <link href="https://github.com/onceupon/Bash-Oneliner" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>coderQuad/New-Grad-Positions-2023</title>
+    <updated>2022-06-03T02:30:37Z</updated>
+    <id>tag:github.com,2022-06-03:/coderQuad/New-Grad-Positions-2023</id>
+    <link href="https://github.com/coderQuad/New-Grad-Positions-2023" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of New Grad full time roles in SWE, Quant, and PM.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LaravelDaily/Laravel-Roadmap-Learning-Path</title>
-    <updated>2022-06-02T02:31:33Z</updated>
-    <id>tag:github.com,2022-06-02:/LaravelDaily/Laravel-Roadmap-Learning-Path</id>
-    <link href="https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>frontendbr/vagas</title>
+    <updated>2022-06-03T02:30:37Z</updated>
+    <id>tag:github.com,2022-06-03:/frontendbr/vagas</id>
+    <link href="https://github.com/frontendbr/vagas" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔬 Espaço para divulgação de vagas para front-enders.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>trickest/cve</title>
+    <updated>2022-06-03T02:30:37Z</updated>
+    <id>tag:github.com,2022-06-03:/trickest/cve</id>
+    <link href="https://github.com/trickest/cve" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gather and update all available and newest CVEs with their PoC.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

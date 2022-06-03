@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:20:00Z</updated>
+  <updated>2022-06-03T02:18:19Z</updated>
   <subtitle>Weekly Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>transmission-remote-gui/transgui</title>
-    <updated>2022-06-02T02:20:00Z</updated>
-    <id>tag:github.com,2022-06-02:/transmission-remote-gui/transgui</id>
-    <link href="https://github.com/transmission-remote-gui/transgui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MediaArea/MediaInfo</title>
+    <updated>2022-06-03T02:18:19Z</updated>
+    <id>tag:github.com,2022-06-03:/MediaArea/MediaInfo</id>
+    <link href="https://github.com/MediaArea/MediaInfo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Convenient unified display of the most relevant technical and tag data for video and audio files.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

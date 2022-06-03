@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub YARA Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:29:08Z</updated>
+  <updated>2022-06-03T02:28:03Z</updated>
   <subtitle>Weekly Trending of YARA in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sophoslabs/IoCs</title>
+    <updated>2022-06-03T02:28:03Z</updated>
+    <id>tag:github.com,2022-06-03:/sophoslabs/IoCs</id>
+    <link href="https://github.com/sophoslabs/IoCs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sophos-originated indicators-of-compromise from published reports&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

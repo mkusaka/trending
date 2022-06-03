@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Visual Basic .NET Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:58:50Z</updated>
+  <updated>2022-06-03T01:56:34Z</updated>
   <subtitle>Daily Trending of Visual Basic .NET in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>NYAN-x-CAT/Lime-RAT</title>
-    <updated>2022-06-02T01:58:50Z</updated>
-    <id>tag:github.com,2022-06-02:/NYAN-x-CAT/Lime-RAT</id>
-    <link href="https://github.com/NYAN-x-CAT/Lime-RAT" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;LimeRAT | Simple, yet powerful remote administration tool for Windows (RAT)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>OfficeDev/Office-IT-Pro-Deployment-Scripts</title>
-    <updated>2022-06-02T01:58:50Z</updated>
-    <id>tag:github.com,2022-06-02:/OfficeDev/Office-IT-Pro-Deployment-Scripts</id>
-    <link href="https://github.com/OfficeDev/Office-IT-Pro-Deployment-Scripts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of useful PowerShell scripts to make deploying Office 2016 and Office 365 ProPlus easier for IT Pros and administrators. If you have any feature requests or ideas for future scripts please add the idea to the issues list in this repository&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

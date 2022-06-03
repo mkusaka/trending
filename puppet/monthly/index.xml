@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:50:08Z</updated>
+  <updated>2022-06-03T02:49:41Z</updated>
   <subtitle>Monthly Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>elastic/puppet-logstashforwarder</title>
+    <updated>2022-06-03T02:49:41Z</updated>
+    <id>tag:github.com,2022-06-03:/elastic/puppet-logstashforwarder</id>
+    <link href="https://github.com/elastic/puppet-logstashforwarder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Puppet module for Logstash Forwarder&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

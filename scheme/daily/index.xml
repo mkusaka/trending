@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scheme Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:54:06Z</updated>
+  <updated>2022-06-03T01:51:55Z</updated>
   <subtitle>Daily Trending of Scheme in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>valvallow/tumblrand</title>
-    <updated>2022-06-02T01:54:06Z</updated>
-    <id>tag:github.com,2022-06-02:/valvallow/tumblrand</id>
-    <link href="https://github.com/valvallow/tumblrand" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;display random tumble&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cisco/ChezScheme</title>
+    <updated>2022-06-03T01:51:55Z</updated>
+    <id>tag:github.com,2022-06-03:/cisco/ChezScheme</id>
+    <link href="https://github.com/cisco/ChezScheme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Chez Scheme&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>racket/racket</title>
+    <updated>2022-06-03T01:51:55Z</updated>
+    <id>tag:github.com,2022-06-03:/racket/racket</id>
+    <link href="https://github.com/racket/racket" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Racket repository&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

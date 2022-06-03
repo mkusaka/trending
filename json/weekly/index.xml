@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub JSON Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:14:28Z</updated>
+  <updated>2022-06-03T02:12:25Z</updated>
   <subtitle>Weekly Trending of JSON in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>microsoft/Application-Insights-Workbooks</title>
-    <updated>2022-06-02T02:14:28Z</updated>
-    <id>tag:github.com,2022-06-02:/microsoft/Application-Insights-Workbooks</id>
-    <link href="https://github.com/microsoft/Application-Insights-Workbooks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Templates for Azure Monitor Workbooks&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

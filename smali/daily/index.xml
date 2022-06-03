@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smali Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:55:24Z</updated>
+  <updated>2022-06-03T01:53:10Z</updated>
   <subtitle>Daily Trending of Smali in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>AlexeySoshin/smali2java</title>
-    <updated>2022-06-02T01:55:24Z</updated>
-    <id>tag:github.com,2022-06-02:/AlexeySoshin/smali2java</id>
-    <link href="https://github.com/AlexeySoshin/smali2java" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Recreate Java code from Smali&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jonathandata1/pegasus_spyware</title>
-    <updated>2022-06-02T01:55:24Z</updated>
-    <id>tag:github.com,2022-06-02:/jonathandata1/pegasus_spyware</id>
-    <link href="https://github.com/jonathandata1/pegasus_spyware" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;decompiled pegasus_spyware&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>D3VL/L3MON</title>
-    <updated>2022-06-02T01:55:24Z</updated>
-    <id>tag:github.com,2022-06-02:/D3VL/L3MON</id>
-    <link href="https://github.com/D3VL/L3MON" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;L3MON - Remote Android Managment Suite&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

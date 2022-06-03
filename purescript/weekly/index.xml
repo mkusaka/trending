@@ -1,42 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PureScript Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:21:30Z</updated>
+  <updated>2022-06-03T02:20:07Z</updated>
   <subtitle>Weekly Trending of PureScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>purescript-contrib/purescript-unicode</title>
-    <updated>2022-06-02T02:21:30Z</updated>
-    <id>tag:github.com,2022-06-02:/purescript-contrib/purescript-unicode</id>
-    <link href="https://github.com/purescript-contrib/purescript-unicode" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Unicode character functions.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript/purescript-functors</title>
+    <updated>2022-06-03T02:20:07Z</updated>
+    <id>tag:github.com,2022-06-03:/purescript/purescript-functors</id>
+    <link href="https://github.com/purescript/purescript-functors" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Functor products, coproducts, and composition&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purescript-contrib/purescript-http-methods</title>
-    <updated>2022-06-02T02:21:30Z</updated>
-    <id>tag:github.com,2022-06-02:/purescript-contrib/purescript-http-methods</id>
-    <link href="https://github.com/purescript-contrib/purescript-http-methods" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;HTTP method type&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript/purescript-random</title>
+    <updated>2022-06-03T02:20:07Z</updated>
+    <id>tag:github.com,2022-06-03:/purescript/purescript-random</id>
+    <link href="https://github.com/purescript/purescript-random" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Random number generation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purescript-contrib/purescript-fork</title>
-    <updated>2022-06-02T02:21:30Z</updated>
-    <id>tag:github.com,2022-06-02:/purescript-contrib/purescript-fork</id>
-    <link href="https://github.com/purescript-contrib/purescript-fork" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An MTL-style class for monads that support forking&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript/purescript-psci-support</title>
+    <updated>2022-06-03T02:20:07Z</updated>
+    <id>tag:github.com,2022-06-03:/purescript/purescript-psci-support</id>
+    <link href="https://github.com/purescript/purescript-psci-support" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Support module for the PSCI interactive mode&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purescript-contrib/purescript-affjax</title>
-    <updated>2022-06-02T02:21:30Z</updated>
-    <id>tag:github.com,2022-06-02:/purescript-contrib/purescript-affjax</id>
-    <link href="https://github.com/purescript-contrib/purescript-affjax" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An asynchronous AJAX library built using Aff.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript-contrib/purescript-unsafe-reference</title>
+    <updated>2022-06-03T02:20:07Z</updated>
+    <id>tag:github.com,2022-06-03:/purescript-contrib/purescript-unsafe-reference</id>
+    <link href="https://github.com/purescript-contrib/purescript-unsafe-reference" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Highly unsafe functions for comparing values using the runtime&#39;s strict equality.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purescript-web/purescript-web-xhr</title>
-    <updated>2022-06-02T02:21:30Z</updated>
-    <id>tag:github.com,2022-06-02:/purescript-web/purescript-web-xhr</id>
-    <link href="https://github.com/purescript-web/purescript-web-xhr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Type definitions and low level interface implementations for the W3C XmlHttpRequest API&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sharkdp/insect</title>
+    <updated>2022-06-03T02:20:07Z</updated>
+    <id>tag:github.com,2022-06-03:/sharkdp/insect</id>
+    <link href="https://github.com/sharkdp/insect" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;High precision scientific calculator with support for physical units&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>felixSchl/purescript-pipes</title>
+    <updated>2022-06-03T02:20:07Z</updated>
+    <id>tag:github.com,2022-06-03:/felixSchl/purescript-pipes</id>
+    <link href="https://github.com/felixSchl/purescript-pipes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Purescript port of Pipes - http://hackage.haskell.org/package/pipes-4.1.9&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>garyb/purescript-debug</title>
+    <updated>2022-06-03T02:20:07Z</updated>
+    <id>tag:github.com,2022-06-03:/garyb/purescript-debug</id>
+    <link href="https://github.com/garyb/purescript-debug" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Console based debugging functions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

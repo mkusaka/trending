@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:51:22Z</updated>
+  <updated>2022-06-03T01:49:08Z</updated>
   <subtitle>Daily Trending of PLSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>UNRaf-PROGRAMACION/ejemplo-escenas-tiled</title>
-    <updated>2022-06-02T01:51:22Z</updated>
-    <id>tag:github.com,2022-06-02:/UNRaf-PROGRAMACION/ejemplo-escenas-tiled</id>
-    <link href="https://github.com/UNRaf-PROGRAMACION/ejemplo-escenas-tiled" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Basado en el repositorio ejemplo-escenas. Se crea el nivel con mapeditor de TILED.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>statickidz/TemarioDAW</title>
-    <updated>2022-06-02T01:51:22Z</updated>
-    <id>tag:github.com,2022-06-02:/statickidz/TemarioDAW</id>
-    <link href="https://github.com/statickidz/TemarioDAW" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Temario, apuntes y ejercicios para el módulo de Desarrollo de Aplicaciones Web (DAW)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>oracle-samples/db-sample-schemas</title>
-    <updated>2022-06-02T01:51:22Z</updated>
-    <id>tag:github.com,2022-06-02:/oracle-samples/db-sample-schemas</id>
-    <link href="https://github.com/oracle-samples/db-sample-schemas" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Oracle Database Sample Schemas&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

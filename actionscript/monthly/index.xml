@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:32:04Z</updated>
+  <updated>2022-06-03T02:31:05Z</updated>
   <subtitle>Monthly Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jhuckaby/webcamjs</title>
-    <updated>2022-06-02T02:32:04Z</updated>
-    <id>tag:github.com,2022-06-02:/jhuckaby/webcamjs</id>
-    <link href="https://github.com/jhuckaby/webcamjs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;HTML5 Webcam Image Capture Library with Flash Fallback&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

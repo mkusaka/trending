@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Blade Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:33:37Z</updated>
+  <updated>2022-06-03T02:32:35Z</updated>
   <subtitle>Monthly Trending of Blade in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>shopperlabs/framework</title>
-    <updated>2022-06-02T02:33:37Z</updated>
-    <id>tag:github.com,2022-06-02:/shopperlabs/framework</id>
-    <link href="https://github.com/shopperlabs/framework" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An eCommerce administration built with Laravel to create and manage online shop with multi-vendor.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

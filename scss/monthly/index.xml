@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:52:27Z</updated>
+  <updated>2022-06-03T02:52:03Z</updated>
   <subtitle>Monthly Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Prince-1501/Complete-DSA-Preparation</title>
-    <updated>2022-06-02T02:52:27Z</updated>
-    <id>tag:github.com,2022-06-02:/Prince-1501/Complete-DSA-Preparation</id>
-    <link href="https://github.com/Prince-1501/Complete-DSA-Preparation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is A complete DSA preparation Course. A DSA self-paced course for ultimate Interview and Placement Preparation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alexgurr/react-coding-challenges</title>
+    <updated>2022-06-03T02:52:03Z</updated>
+    <id>tag:github.com,2022-06-03:/alexgurr/react-coding-challenges</id>
+    <link href="https://github.com/alexgurr/react-coding-challenges" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A series of ReactJS coding challenges with a variety of difficulties.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sujaykundu777/devlopr-jekyll</title>
-    <updated>2022-06-02T02:52:27Z</updated>
-    <id>tag:github.com,2022-06-02:/sujaykundu777/devlopr-jekyll</id>
-    <link href="https://github.com/sujaykundu777/devlopr-jekyll" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Launch your Static Jekyll Site/Blog 🚀 in minutes built for developers.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mpa139/allanlab</title>
+    <updated>2022-06-03T02:52:03Z</updated>
+    <id>tag:github.com,2022-06-03:/mpa139/allanlab</id>
+    <link href="https://github.com/mpa139/allanlab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Allan Lab website&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

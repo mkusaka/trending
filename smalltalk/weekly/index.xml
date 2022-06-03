@@ -1,35 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:24:36Z</updated>
+  <updated>2022-06-03T02:23:18Z</updated>
   <subtitle>Weekly Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>feenkcom/gtoolkit-examples</title>
-    <updated>2022-06-02T02:24:36Z</updated>
-    <id>tag:github.com,2022-06-02:/feenkcom/gtoolkit-examples</id>
-    <link href="https://github.com/feenkcom/gtoolkit-examples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The engine for example-driven development in Pharo.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>feenkcom/gtoolkit-visualizer</title>
+    <updated>2022-06-03T02:23:18Z</updated>
+    <id>tag:github.com,2022-06-03:/feenkcom/gtoolkit-visualizer</id>
+    <link href="https://github.com/feenkcom/gtoolkit-visualizer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A set of visualization engines.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>feenkcom/gt4gemstone</title>
-    <updated>2022-06-02T02:24:36Z</updated>
-    <id>tag:github.com,2022-06-02:/feenkcom/gt4gemstone</id>
-    <link href="https://github.com/feenkcom/gt4gemstone" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Gtoolkit interface to GemStone&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>feenkcom/gtoolkit-gleam</title>
+    <updated>2022-06-03T02:23:18Z</updated>
+    <id>tag:github.com,2022-06-03:/feenkcom/gtoolkit-gleam</id>
+    <link href="https://github.com/feenkcom/gtoolkit-gleam" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;C wrapper around OpenGL bindings for Servo&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>feenkcom/gt4smacc</title>
-    <updated>2022-06-02T02:24:36Z</updated>
-    <id>tag:github.com,2022-06-02:/feenkcom/gt4smacc</id>
-    <link href="https://github.com/feenkcom/gt4smacc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The development environment for SmaCC based on the Glamorous Toolkit.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/gtoolkit-remote</title>
-    <updated>2022-06-02T02:24:36Z</updated>
-    <id>tag:github.com,2022-06-02:/feenkcom/gtoolkit-remote</id>
-    <link href="https://github.com/feenkcom/gtoolkit-remote" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The engine to work with remote systems (like remote a Pharo image).&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>feenkcom/gt4dockerengine</title>
+    <updated>2022-06-03T02:23:18Z</updated>
+    <id>tag:github.com,2022-06-03:/feenkcom/gt4dockerengine</id>
+    <link href="https://github.com/feenkcom/gt4dockerengine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Glamorous Toolkit extensions for Docker Engine&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

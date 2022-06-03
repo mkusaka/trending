@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vala Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:27:25Z</updated>
+  <updated>2022-06-03T02:26:20Z</updated>
   <subtitle>Weekly Trending of Vala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>linuxmint/timeshift</title>
-    <updated>2022-06-02T02:27:25Z</updated>
-    <id>tag:github.com,2022-06-02:/linuxmint/timeshift</id>
-    <link href="https://github.com/linuxmint/timeshift" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>alainm23/planner</title>
-    <updated>2022-06-02T02:27:25Z</updated>
-    <id>tag:github.com,2022-06-02:/alainm23/planner</id>
-    <link href="https://github.com/alainm23/planner" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Task manager with Todoist support designed for GNU/Linux 🚀&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cheesecakeufo/komorebi</title>
+    <updated>2022-06-03T02:26:20Z</updated>
+    <id>tag:github.com,2022-06-03:/cheesecakeufo/komorebi</id>
+    <link href="https://github.com/cheesecakeufo/komorebi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A beautiful and customizable wallpapers manager for Linux&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

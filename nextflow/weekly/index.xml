@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nextflow Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:18:14Z</updated>
+  <updated>2022-06-03T02:16:27Z</updated>
   <subtitle>Weekly Trending of Nextflow in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nf-core/sarek</title>
+    <updated>2022-06-03T02:16:27Z</updated>
+    <id>tag:github.com,2022-06-03:/nf-core/sarek</id>
+    <link href="https://github.com/nf-core/sarek" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Analysis pipeline to detect germline or somatic variants (pre-processing, variant calling and annotation) from WGS / targeted sequencing&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

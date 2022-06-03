@@ -1,105 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:35:45Z</updated>
+  <updated>2022-06-03T01:33:44Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AveYo/MediaCreationTool.bat</title>
-    <updated>2022-06-02T01:35:45Z</updated>
-    <id>tag:github.com,2022-06-02:/AveYo/MediaCreationTool.bat</id>
-    <link href="https://github.com/AveYo/MediaCreationTool.bat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>realpython/python-guide</title>
+    <updated>2022-06-03T01:33:44Z</updated>
+    <id>tag:github.com,2022-06-03:/realpython/python-guide</id>
+    <link href="https://github.com/realpython/python-guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Python best practices guidebook, written for humans.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>MMD1V1/Windows2019RDP-US</title>
-    <updated>2022-06-02T01:35:45Z</updated>
-    <id>tag:github.com,2022-06-02:/MMD1V1/Windows2019RDP-US</id>
-    <link href="https://github.com/MMD1V1/Windows2019RDP-US" rel="alternate"></link>
+    <title>FandyAhmadAzizi/FreeRdp-1</title>
+    <updated>2022-06-03T01:33:44Z</updated>
+    <id>tag:github.com,2022-06-03:/FandyAhmadAzizi/FreeRdp-1</id>
+    <link href="https://github.com/FandyAhmadAzizi/FreeRdp-1" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>arakurumi/Free-RDP</title>
-    <updated>2022-06-02T01:35:45Z</updated>
-    <id>tag:github.com,2022-06-02:/arakurumi/Free-RDP</id>
-    <link href="https://github.com/arakurumi/Free-RDP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;1 Hour Windows RDP Free, could be more if lucky. 😎&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>FQrabbit/SSTap-Rule</title>
+    <updated>2022-06-03T01:33:44Z</updated>
+    <id>tag:github.com,2022-06-03:/FQrabbit/SSTap-Rule</id>
+    <link href="https://github.com/FQrabbit/SSTap-Rule" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;支持更多游戏规则，让SSTap成为真正的“网游加速器”&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>devid14/vps</title>
-    <updated>2022-06-02T01:35:45Z</updated>
-    <id>tag:github.com,2022-06-02:/devid14/vps</id>
-    <link href="https://github.com/devid14/vps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;vps free 6 hour&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ros-planning/navigation.ros.org</title>
-    <updated>2022-06-02T01:35:45Z</updated>
-    <id>tag:github.com,2022-06-02:/ros-planning/navigation.ros.org</id>
-    <link href="https://github.com/ros-planning/navigation.ros.org" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;https://navigation.ros.org/&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kmammou/v-hacd-data</title>
-    <updated>2022-06-02T01:35:45Z</updated>
-    <id>tag:github.com,2022-06-02:/kmammou/v-hacd-data</id>
-    <link href="https://github.com/kmammou/v-hacd-data" rel="alternate"></link>
+    <title>pozzchea/FreeRDPW</title>
+    <updated>2022-06-03T01:33:44Z</updated>
+    <id>tag:github.com,2022-06-03:/pozzchea/FreeRDPW</id>
+    <link href="https://github.com/pozzchea/FreeRDPW" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>swagkarna/Defeat-Defender-V1.2</title>
-    <updated>2022-06-02T01:35:45Z</updated>
-    <id>tag:github.com,2022-06-02:/swagkarna/Defeat-Defender-V1.2</id>
-    <link href="https://github.com/swagkarna/Defeat-Defender-V1.2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Powerful batch script to dismantle complete windows defender protection and even bypass tamper protection ..Disable Windows-Defender Permanently....Hack windows. POC&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>R2Northstar/Northstar</title>
-    <updated>2022-06-02T01:35:45Z</updated>
-    <id>tag:github.com,2022-06-02:/R2Northstar/Northstar</id>
-    <link href="https://github.com/R2Northstar/Northstar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repo for packaged Northstar releases&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mariorossi43438/FreeRDP-Remastered-main</title>
-    <updated>2022-06-02T01:35:45Z</updated>
-    <id>tag:github.com,2022-06-02:/mariorossi43438/FreeRDP-Remastered-main</id>
-    <link href="https://github.com/mariorossi43438/FreeRDP-Remastered-main" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;infinite time&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>senananyan/freerdp1</title>
-    <updated>2022-06-02T01:35:45Z</updated>
-    <id>tag:github.com,2022-06-02:/senananyan/freerdp1</id>
-    <link href="https://github.com/senananyan/freerdp1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;freerdp&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ntrdnm1/gettovds</title>
-    <updated>2022-06-02T01:35:45Z</updated>
-    <id>tag:github.com,2022-06-02:/ntrdnm1/gettovds</id>
-    <link href="https://github.com/ntrdnm1/gettovds" rel="alternate"></link>
+    <title>nd-phuc/windows-rdp</title>
+    <updated>2022-06-03T01:33:44Z</updated>
+    <id>tag:github.com,2022-06-03:/nd-phuc/windows-rdp</id>
+    <link href="https://github.com/nd-phuc/windows-rdp" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>chawyehsu/dorado</title>
-    <updated>2022-06-02T01:35:45Z</updated>
-    <id>tag:github.com,2022-06-02:/chawyehsu/dorado</id>
-    <link href="https://github.com/chawyehsu/dorado" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🐟 Yet Another bucket for lovely Scoop&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Harchanel15/RDP-BULAN-APRIL-BY-HAR-CHANEL</title>
+    <updated>2022-06-03T01:33:44Z</updated>
+    <id>tag:github.com,2022-06-03:/Harchanel15/RDP-BULAN-APRIL-BY-HAR-CHANEL</id>
+    <link href="https://github.com/Harchanel15/RDP-BULAN-APRIL-BY-HAR-CHANEL" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gunakan sebaik mungkin dan jangan lupa subscribe Channel Har Chanel&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>awesome-windows11/windows11</title>
-    <updated>2022-06-02T01:35:45Z</updated>
-    <id>tag:github.com,2022-06-02:/awesome-windows11/windows11</id>
-    <link href="https://github.com/awesome-windows11/windows11" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Windows 11 Settings, Tweaks, Scripts&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>NightBOTDeveloper/freerdp1</title>
-    <updated>2022-06-02T01:35:45Z</updated>
-    <id>tag:github.com,2022-06-02:/NightBOTDeveloper/freerdp1</id>
-    <link href="https://github.com/NightBOTDeveloper/freerdp1" rel="alternate"></link>
+    <title>sachindu443/Temp</title>
+    <updated>2022-06-03T01:33:44Z</updated>
+    <id>tag:github.com,2022-06-03:/sachindu443/Temp</id>
+    <link href="https://github.com/sachindu443/Temp" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dangelochristiansen/Tech-To-Bangla</title>
+    <updated>2022-06-03T01:33:44Z</updated>
+    <id>tag:github.com,2022-06-03:/dangelochristiansen/Tech-To-Bangla</id>
+    <link href="https://github.com/dangelochristiansen/Tech-To-Bangla" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>NextronSystems/APTSimulator</title>
+    <updated>2022-06-03T01:33:44Z</updated>
+    <id>tag:github.com,2022-06-03:/NextronSystems/APTSimulator</id>
+    <link href="https://github.com/NextronSystems/APTSimulator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A toolset to make a system look as if it was the victim of an APT attack&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pannila/Windows2019RDP-Github-main</title>
+    <updated>2022-06-03T01:33:44Z</updated>
+    <id>tag:github.com,2022-06-03:/pannila/Windows2019RDP-Github-main</id>
+    <link href="https://github.com/pannila/Windows2019RDP-Github-main" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AyGemuy/RDP-WIN10</title>
+    <updated>2022-06-03T01:33:44Z</updated>
+    <id>tag:github.com,2022-06-03:/AyGemuy/RDP-WIN10</id>
+    <link href="https://github.com/AyGemuy/RDP-WIN10" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;6 JAM&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cationx/GitHub-Action-RDP</title>
+    <updated>2022-06-03T01:33:44Z</updated>
+    <id>tag:github.com,2022-06-03:/cationx/GitHub-Action-RDP</id>
+    <link href="https://github.com/cationx/GitHub-Action-RDP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Remote operational GitHub Actions VM for debugging, etc..&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

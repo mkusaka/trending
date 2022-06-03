@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Reason Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:22:10Z</updated>
+  <updated>2022-06-03T02:20:44Z</updated>
   <subtitle>Weekly Trending of Reason in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>onivim/oni2</title>
-    <updated>2022-06-02T02:22:10Z</updated>
-    <id>tag:github.com,2022-06-02:/onivim/oni2</id>
-    <link href="https://github.com/onivim/oni2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Native, lightweight modal code editor&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

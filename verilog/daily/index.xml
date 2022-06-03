@@ -1,42 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:58:39Z</updated>
+  <updated>2022-06-03T01:56:26Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>The-OpenROAD-Project/OpenROAD-flow-scripts</title>
-    <updated>2022-06-02T01:58:39Z</updated>
-    <id>tag:github.com,2022-06-02:/The-OpenROAD-Project/OpenROAD-flow-scripts</id>
-    <link href="https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts" rel="alternate"></link>
+    <title>IObundle/iob-lib</title>
+    <updated>2022-06-03T01:56:26Z</updated>
+    <id>tag:github.com,2022-06-03:/IObundle/iob-lib</id>
+    <link href="https://github.com/IObundle/iob-lib" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>efabless/caravel_user_project</title>
-    <updated>2022-06-02T01:58:39Z</updated>
-    <id>tag:github.com,2022-06-02:/efabless/caravel_user_project</id>
-    <link href="https://github.com/efabless/caravel_user_project" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;https://caravel-user-project.readthedocs.io&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ZiyangYE/General-Slow-DDR3-Interface</title>
+    <updated>2022-06-03T01:56:26Z</updated>
+    <id>tag:github.com,2022-06-03:/ZiyangYE/General-Slow-DDR3-Interface</id>
+    <link href="https://github.com/ZiyangYE/General-Slow-DDR3-Interface" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A general slow DDR3 interface. Very little resource consumption. Suits for all FPGAs with 1.5V IO voltage.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>IObundle/iob-cache</title>
-    <updated>2022-06-02T01:58:39Z</updated>
-    <id>tag:github.com,2022-06-02:/IObundle/iob-cache</id>
-    <link href="https://github.com/IObundle/iob-cache" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Verilog configurable cache&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>corundum/corundum</title>
+    <updated>2022-06-03T01:56:26Z</updated>
+    <id>tag:github.com,2022-06-03:/corundum/corundum</id>
+    <link href="https://github.com/corundum/corundum" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open source FPGA-based NIC and platform for in-network compute&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>IObundle/iob-axi</title>
-    <updated>2022-06-02T01:58:39Z</updated>
-    <id>tag:github.com,2022-06-02:/IObundle/iob-axi</id>
-    <link href="https://github.com/IObundle/iob-axi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>IObundle/iob-mem</title>
-    <updated>2022-06-02T01:58:39Z</updated>
-    <id>tag:github.com,2022-06-02:/IObundle/iob-mem</id>
-    <link href="https://github.com/IObundle/iob-mem" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Verilog behavioral description of various memories&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nvdla/hw</title>
+    <updated>2022-06-03T01:56:26Z</updated>
+    <id>tag:github.com,2022-06-03:/nvdla/hw</id>
+    <link href="https://github.com/nvdla/hw" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RTL, Cmodel, and testbench for NVDLA&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

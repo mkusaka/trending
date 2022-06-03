@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:49:29Z</updated>
+  <updated>2022-06-03T01:47:19Z</updated>
   <subtitle>Daily Trending of Objective-C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cedarbdd/cedar</title>
-    <updated>2022-06-02T01:49:29Z</updated>
-    <id>tag:github.com,2022-06-02:/cedarbdd/cedar</id>
-    <link href="https://github.com/cedarbdd/cedar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;BDD-style testing using Objective-C&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>OpenEmu/BSNES-Core</title>
+    <updated>2022-06-03T01:47:19Z</updated>
+    <id>tag:github.com,2022-06-03:/OpenEmu/BSNES-Core</id>
+    <link href="https://github.com/OpenEmu/BSNES-Core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenEmu Core plugin with BSNES to support SNES emulation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>facebook/FBRetainCycleDetector</title>
+    <updated>2022-06-03T01:47:19Z</updated>
+    <id>tag:github.com,2022-06-03:/facebook/FBRetainCycleDetector</id>
+    <link href="https://github.com/facebook/FBRetainCycleDetector" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;iOS library to help detecting retain cycles in runtime.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mapbox/mapbox-gl-native-ios</title>
+    <updated>2022-06-03T01:47:19Z</updated>
+    <id>tag:github.com,2022-06-03:/mapbox/mapbox-gl-native-ios</id>
+    <link href="https://github.com/mapbox/mapbox-gl-native-ios" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Interactive, thoroughly customizable maps for iOS powered by vector tiles and OpenGL&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

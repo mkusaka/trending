@@ -1,56 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:45:19Z</updated>
+  <updated>2022-06-03T02:44:49Z</updated>
   <subtitle>Monthly Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Naereen/badges</title>
-    <updated>2022-06-02T02:45:19Z</updated>
-    <id>tag:github.com,2022-06-02:/Naereen/badges</id>
-    <link href="https://github.com/Naereen/badges" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📝 Markdown code for lots of small badges 🎀 📌 (shields.io, forthebadge.com etc) 😎. Contributions are welcome! Please add yours!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>gobuffalo/gitgen</title>
-    <updated>2022-06-02T02:45:19Z</updated>
-    <id>tag:github.com,2022-06-02:/gobuffalo/gitgen</id>
-    <link href="https://github.com/gobuffalo/gitgen" rel="alternate"></link>
+    <title>marco-calautti/SigpatchesModuleWiiU</title>
+    <updated>2022-06-03T02:44:49Z</updated>
+    <id>tag:github.com,2022-06-03:/marco-calautti/SigpatchesModuleWiiU</id>
+    <link href="https://github.com/marco-calautti/SigpatchesModuleWiiU" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ChargePoint/buildroot</title>
-    <updated>2022-06-02T02:45:19Z</updated>
-    <id>tag:github.com,2022-06-02:/ChargePoint/buildroot</id>
-    <link href="https://github.com/ChargePoint/buildroot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ChargePoint internal mirror of buildroot. Upstream: git://git.busybox.net/buildroot&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>motioneye-project/motioneyeos</title>
+    <updated>2022-06-03T02:44:49Z</updated>
+    <id>tag:github.com,2022-06-03:/motioneye-project/motioneyeos</id>
+    <link href="https://github.com/motioneye-project/motioneyeos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Video Surveillance OS For Single-board Computers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SiftScience/sift-ios</title>
-    <updated>2022-06-02T02:45:19Z</updated>
-    <id>tag:github.com,2022-06-02:/SiftScience/sift-ios</id>
-    <link href="https://github.com/SiftScience/sift-ios" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sift iOS SDK&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>confluentinc/demos-docker-common</title>
-    <updated>2022-06-02T02:45:19Z</updated>
-    <id>tag:github.com,2022-06-02:/confluentinc/demos-docker-common</id>
-    <link href="https://github.com/confluentinc/demos-docker-common" rel="alternate"></link>
+    <title>RobinNagpal/kubernetes-tutorials</title>
+    <updated>2022-06-03T02:44:49Z</updated>
+    <id>tag:github.com,2022-06-03:/RobinNagpal/kubernetes-tutorials</id>
+    <link href="https://github.com/RobinNagpal/kubernetes-tutorials" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>AOSP-Krypton/vendor_qcom_opensource_bluetooth-commonsys-intf</title>
-    <updated>2022-06-02T02:45:19Z</updated>
-    <id>tag:github.com,2022-06-02:/AOSP-Krypton/vendor_qcom_opensource_bluetooth-commonsys-intf</id>
-    <link href="https://github.com/AOSP-Krypton/vendor_qcom_opensource_bluetooth-commonsys-intf" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>AOSP-Krypton/vendor_themes</title>
-    <updated>2022-06-02T02:45:19Z</updated>
-    <id>tag:github.com,2022-06-02:/AOSP-Krypton/vendor_themes</id>
-    <link href="https://github.com/AOSP-Krypton/vendor_themes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>upbound/build</title>
+    <updated>2022-06-03T02:44:49Z</updated>
+    <id>tag:github.com,2022-06-03:/upbound/build</id>
+    <link href="https://github.com/upbound/build" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Upbound build and CI scripts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

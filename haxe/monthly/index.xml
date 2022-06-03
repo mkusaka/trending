@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:41:39Z</updated>
+  <updated>2022-06-03T02:41:05Z</updated>
   <subtitle>Monthly Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>FuseIsHere813/VsDave</title>
+    <updated>2022-06-03T02:41:05Z</updated>
+    <id>tag:github.com,2022-06-03:/FuseIsHere813/VsDave</id>
+    <link href="https://github.com/FuseIsHere813/VsDave" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;thank you funkipedia for linking my forked copy of VsDave into here lol&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Powered by a heavily modified version of Kade Engine known as Dave Engine!&lt;/h2&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/KadeDev/Kade-Engine/raw/stable/assets/preload/images/KadeEngineLogo.png&#34; alt=&#34;Kade Engine Logo&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Dave&lt;/h2&gt; &#xA;&lt;p&gt;this is dave &lt;img src=&#34;https://cdn.discordapp.com/attachments/892140166309892136/905267141299802152/dorve_reale.png&#34; alt=&#34;Dave&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;say hi to dave&lt;/p&gt; &#xA;&lt;p&gt;please say hi to him&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>andrew-git/Lune</title>
+    <updated>2022-06-03T02:41:05Z</updated>
+    <id>tag:github.com,2022-06-03:/andrew-git/Lune</id>
+    <link href="https://github.com/andrew-git/Lune" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lune Game Engine&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Lune v0&lt;/h1&gt; &#xA;&lt;p&gt;Lune - haXe/NME Cross-Platform Game Engine&lt;/p&gt;</summary>
+  </entry>
 </feed>

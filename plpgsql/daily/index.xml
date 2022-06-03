@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:51:14Z</updated>
+  <updated>2022-06-03T01:49:00Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>supabase/pg_graphql</title>
-    <updated>2022-06-02T01:51:14Z</updated>
-    <id>tag:github.com,2022-06-02:/supabase/pg_graphql</id>
-    <link href="https://github.com/supabase/pg_graphql" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GraphQL support for PostgreSQL&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>FlipsideCrypto/ethereum-models</title>
+    <updated>2022-06-03T01:49:00Z</updated>
+    <id>tag:github.com,2022-06-03:/FlipsideCrypto/ethereum-models</id>
+    <link href="https://github.com/FlipsideCrypto/ethereum-models" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ethereum Facelift 2022&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

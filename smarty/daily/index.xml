@@ -1,49 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:55:35Z</updated>
+  <updated>2022-06-03T01:53:19Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>chvancooten/follina.py</title>
-    <updated>2022-06-02T01:55:35Z</updated>
-    <id>tag:github.com,2022-06-02:/chvancooten/follina.py</id>
-    <link href="https://github.com/chvancooten/follina.py" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;POC to replicate the full &#39;Follina&#39; Office RCE vulnerability for testing purposes&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DandelionSprout/adfilt</title>
+    <updated>2022-06-03T01:53:19Z</updated>
+    <id>tag:github.com,2022-06-03:/DandelionSprout/adfilt</id>
+    <link href="https://github.com/DandelionSprout/adfilt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rubyhan1314/Golang-100-Days</title>
-    <updated>2022-06-02T01:55:35Z</updated>
-    <id>tag:github.com,2022-06-02:/rubyhan1314/Golang-100-Days</id>
-    <link href="https://github.com/rubyhan1314/Golang-100-Days" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Golang - 100天从新手到大师&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yu-steven/openit</title>
+    <updated>2022-06-03T01:53:19Z</updated>
+    <id>tag:github.com,2022-06-03:/yu-steven/openit</id>
+    <link href="https://github.com/yu-steven/openit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Openit订阅致力于打造免费无感的翻墙环境&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>getoutreach/stencil-golang</title>
-    <updated>2022-06-02T01:55:35Z</updated>
-    <id>tag:github.com,2022-06-02:/getoutreach/stencil-golang</id>
-    <link href="https://github.com/getoutreach/stencil-golang" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Template repository for Golang applications&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>getoutreach/stencil-base</title>
-    <updated>2022-06-02T01:55:35Z</updated>
-    <id>tag:github.com,2022-06-02:/getoutreach/stencil-base</id>
-    <link href="https://github.com/getoutreach/stencil-base" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Base templates for a stencil backed service&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nsbno/terraform-grafana-service-dashboard</title>
-    <updated>2022-06-02T01:55:35Z</updated>
-    <id>tag:github.com,2022-06-02:/nsbno/terraform-grafana-service-dashboard</id>
-    <link href="https://github.com/nsbno/terraform-grafana-service-dashboard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Create and manage grafana dashboards for your service!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>truecharts/apps</title>
-    <updated>2022-06-02T01:55:35Z</updated>
-    <id>tag:github.com,2022-06-02:/truecharts/apps</id>
-    <link href="https://github.com/truecharts/apps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Community App Catalog for TrueNAS SCALE&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CircleCI-Public/circleci-runner-k8s</title>
+    <updated>2022-06-03T01:53:19Z</updated>
+    <id>tag:github.com,2022-06-03:/CircleCI-Public/circleci-runner-k8s</id>
+    <link href="https://github.com/CircleCI-Public/circleci-runner-k8s" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository with Helm charts to install CircleCI&#39;s runner on a Kubernetes cluster.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

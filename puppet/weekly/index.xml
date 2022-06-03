@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:21:17Z</updated>
+  <updated>2022-06-03T02:19:49Z</updated>
   <subtitle>Weekly Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>fibon/puppet-cq</title>
+    <updated>2022-06-03T02:19:49Z</updated>
+    <id>tag:github.com,2022-06-03:/fibon/puppet-cq</id>
+    <link href="https://github.com/fibon/puppet-cq" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Puppet module for Adobe CQ configuration&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wulff/puppet-php</title>
+    <updated>2022-06-03T02:19:49Z</updated>
+    <id>tag:github.com,2022-06-03:/wulff/puppet-php</id>
+    <link href="https://github.com/wulff/puppet-php" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>luishdez/puppet-httpd</title>
+    <updated>2022-06-03T02:19:49Z</updated>
+    <id>tag:github.com,2022-06-03:/luishdez/puppet-httpd</id>
+    <link href="https://github.com/luishdez/puppet-httpd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This puppet module provides an installation of apache and setup for its virtualhosts for CentOS/EL&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>puppetlabs-operations/puppet-puppet</title>
+    <updated>2022-06-03T02:19:49Z</updated>
+    <id>tag:github.com,2022-06-03:/puppetlabs-operations/puppet-puppet</id>
+    <link href="https://github.com/puppetlabs-operations/puppet-puppet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;100% free range, organic, pesticide free Puppet module for managing Puppet&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

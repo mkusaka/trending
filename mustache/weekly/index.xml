@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:17:53Z</updated>
+  <updated>2022-06-03T02:16:05Z</updated>
   <subtitle>Weekly Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jaegertracing/helm-charts</title>
-    <updated>2022-06-02T02:17:53Z</updated>
-    <id>tag:github.com,2022-06-02:/jaegertracing/helm-charts</id>
-    <link href="https://github.com/jaegertracing/helm-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helm Charts for Jaeger backend&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>falcosecurity/charts</title>
-    <updated>2022-06-02T02:17:53Z</updated>
-    <id>tag:github.com,2022-06-02:/falcosecurity/charts</id>
-    <link href="https://github.com/falcosecurity/charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Community managed Helm charts for running Falco with Kubernetes&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>temporalio/helm-charts</title>
+    <updated>2022-06-03T02:16:05Z</updated>
+    <id>tag:github.com,2022-06-03:/temporalio/helm-charts</id>
+    <link href="https://github.com/temporalio/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Temporal Helm charts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

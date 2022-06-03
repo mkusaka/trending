@@ -1,49 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:27:47Z</updated>
+  <updated>2022-06-03T02:26:41Z</updated>
   <subtitle>Weekly Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vim-scripts/butane.vim</title>
-    <updated>2022-06-02T02:27:47Z</updated>
-    <id>tag:github.com,2022-06-02:/vim-scripts/butane.vim</id>
-    <link href="https://github.com/vim-scripts/butane.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Light up your buffers.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chxuan/vimplus</title>
+    <updated>2022-06-03T02:26:41Z</updated>
+    <id>tag:github.com,2022-06-03:/chxuan/vimplus</id>
+    <link href="https://github.com/chxuan/vimplus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀An automatic configuration program for vim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dense-analysis/ale</title>
-    <updated>2022-06-02T02:27:47Z</updated>
-    <id>tag:github.com,2022-06-02:/dense-analysis/ale</id>
-    <link href="https://github.com/dense-analysis/ale" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tmhedberg/SimpylFold</title>
+    <updated>2022-06-03T02:26:41Z</updated>
+    <id>tag:github.com,2022-06-03:/tmhedberg/SimpylFold</id>
+    <link href="https://github.com/tmhedberg/SimpylFold" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;No-BS Python code folding for Vim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>glepnir/dashboard-nvim</title>
-    <updated>2022-06-02T02:27:47Z</updated>
-    <id>tag:github.com,2022-06-02:/glepnir/dashboard-nvim</id>
-    <link href="https://github.com/glepnir/dashboard-nvim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;vim dashboard&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>joshdick/onedark.vim</title>
+    <updated>2022-06-03T02:26:41Z</updated>
+    <id>tag:github.com,2022-06-03:/joshdick/onedark.vim</id>
+    <link href="https://github.com/joshdick/onedark.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A dark Vim/Neovim color scheme inspired by Atom&#39;s One Dark syntax theme.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>prabirshrestha/asyncomplete-lsp.vim</title>
-    <updated>2022-06-02T02:27:47Z</updated>
-    <id>tag:github.com,2022-06-02:/prabirshrestha/asyncomplete-lsp.vim</id>
-    <link href="https://github.com/prabirshrestha/asyncomplete-lsp.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yoroizukapsuke/vimrc</title>
+    <updated>2022-06-03T02:26:41Z</updated>
+    <id>tag:github.com,2022-06-03:/yoroizukapsuke/vimrc</id>
+    <link href="https://github.com/yoroizukapsuke/vimrc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;my vimrc&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>preservim/nerdcommenter</title>
-    <updated>2022-06-02T02:27:47Z</updated>
-    <id>tag:github.com,2022-06-02:/preservim/nerdcommenter</id>
-    <link href="https://github.com/preservim/nerdcommenter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim plugin for intensely nerdy commenting powers&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ayu-theme/ayu-vim</title>
+    <updated>2022-06-03T02:26:41Z</updated>
+    <id>tag:github.com,2022-06-03:/ayu-theme/ayu-vim</id>
+    <link href="https://github.com/ayu-theme/ayu-vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modern theme for modern VIMs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>derekwyatt/vim-scala</title>
-    <updated>2022-06-02T02:27:47Z</updated>
-    <id>tag:github.com,2022-06-02:/derekwyatt/vim-scala</id>
-    <link href="https://github.com/derekwyatt/vim-scala" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My work on integration of Scala into Vim - not a ton here, but useful for me.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>thoughtbot/vim-rspec</title>
+    <updated>2022-06-03T02:26:41Z</updated>
+    <id>tag:github.com,2022-06-03:/thoughtbot/vim-rspec</id>
+    <link href="https://github.com/thoughtbot/vim-rspec" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Run Rspec specs from Vim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>weirongxu/plantuml-previewer.vim</title>
+    <updated>2022-06-03T02:26:41Z</updated>
+    <id>tag:github.com,2022-06-03:/weirongxu/plantuml-previewer.vim</id>
+    <link href="https://github.com/weirongxu/plantuml-previewer.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim / Neovim plugin for preview PlantUML&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

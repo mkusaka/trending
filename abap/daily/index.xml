@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ABAP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:34:21Z</updated>
+  <updated>2022-06-03T01:32:23Z</updated>
   <subtitle>Daily Trending of ABAP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>abap2xlsx/abap2xlsx</title>
-    <updated>2022-06-02T01:34:21Z</updated>
-    <id>tag:github.com,2022-06-02:/abap2xlsx/abap2xlsx</id>
-    <link href="https://github.com/abap2xlsx/abap2xlsx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Generate your professional Excel spreadsheet from ABAP&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

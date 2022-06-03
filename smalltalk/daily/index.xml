@@ -1,147 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:55:39Z</updated>
+  <updated>2022-06-03T01:53:24Z</updated>
   <subtitle>Daily Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>the-tech-academy/developers</title>
-    <updated>2022-06-02T01:55:39Z</updated>
-    <id>tag:github.com,2022-06-02:/the-tech-academy/developers</id>
-    <link href="https://github.com/the-tech-academy/developers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pharo-contributions/Athens-SVG</title>
+    <updated>2022-06-03T01:53:24Z</updated>
+    <id>tag:github.com,2022-06-03:/pharo-contributions/Athens-SVG</id>
+    <link href="https://github.com/pharo-contributions/Athens-SVG" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SVG support for Athens framework in Pharo&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>feenkcom/pharo-telemetry</title>
-    <updated>2022-06-02T01:55:39Z</updated>
-    <id>tag:github.com,2022-06-02:/feenkcom/pharo-telemetry</id>
-    <link href="https://github.com/feenkcom/pharo-telemetry" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Performance telemetry collection infrastructure based on Beacon&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pharo-contributions/XML-XMLWriter</title>
+    <updated>2022-06-03T01:53:24Z</updated>
+    <id>tag:github.com,2022-06-03:/pharo-contributions/XML-XMLWriter</id>
+    <link href="https://github.com/pharo-contributions/XML-XMLWriter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This package provides a Seaside-like, block-based API for XML generation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>feenkcom/gtoolkit-vm-bindings</title>
-    <updated>2022-06-02T01:55:39Z</updated>
-    <id>tag:github.com,2022-06-02:/feenkcom/gtoolkit-vm-bindings</id>
-    <link href="https://github.com/feenkcom/gtoolkit-vm-bindings" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Image side code to communicate with the Glamorous Toolkit VM&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>svenvc/zinc</title>
+    <updated>2022-06-03T01:53:24Z</updated>
+    <id>tag:github.com,2022-06-03:/svenvc/zinc</id>
+    <link href="https://github.com/svenvc/zinc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Zinc HTTP Components is an open-source Smalltalk framework to deal with the HTTP networking protocol.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>feenkcom/XMLParser</title>
-    <updated>2022-06-02T01:55:39Z</updated>
-    <id>tag:github.com,2022-06-02:/feenkcom/XMLParser</id>
-    <link href="https://github.com/feenkcom/XMLParser" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>the-tech-academy-1/developers</title>
+    <updated>2022-06-03T01:53:24Z</updated>
+    <id>tag:github.com,2022-06-03:/the-tech-academy-1/developers</id>
+    <link href="https://github.com/the-tech-academy-1/developers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is the remote repository for the academy devs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>feenkcom/gtoolkit-filebrowser</title>
-    <updated>2022-06-02T01:55:39Z</updated>
-    <id>tag:github.com,2022-06-02:/feenkcom/gtoolkit-filebrowser</id>
-    <link href="https://github.com/feenkcom/gtoolkit-filebrowser" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A glamorous file browser&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>svenvc/zodiac</title>
+    <updated>2022-06-03T01:53:24Z</updated>
+    <id>tag:github.com,2022-06-03:/svenvc/zodiac</id>
+    <link href="https://github.com/svenvc/zodiac" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Zodiac is an open-source Smalltalk framework implementing TLS/SSL secure as well as regular socket streams.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>feenkcom/gt4pharo</title>
-    <updated>2022-06-02T01:55:39Z</updated>
-    <id>tag:github.com,2022-06-02:/feenkcom/gt4pharo</id>
-    <link href="https://github.com/feenkcom/gt4pharo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The development environment for Pharo based on the Glamorous Toolkit.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SeasideSt/Grease</title>
+    <updated>2022-06-03T01:53:24Z</updated>
+    <id>tag:github.com,2022-06-03:/SeasideSt/Grease</id>
+    <link href="https://github.com/SeasideSt/Grease" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Grease Portability Library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>feenkcom/gtoolkit-presenter</title>
-    <updated>2022-06-02T01:55:39Z</updated>
-    <id>tag:github.com,2022-06-02:/feenkcom/gtoolkit-presenter</id>
-    <link href="https://github.com/feenkcom/gtoolkit-presenter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The tool for live slide-based storytelling.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>smarr/SMark</title>
+    <updated>2022-06-03T01:53:24Z</updated>
+    <id>tag:github.com,2022-06-03:/smarr/SMark</id>
+    <link href="https://github.com/smarr/SMark" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Write Benchmarks like Tests&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>feenkcom/gt4gemstone</title>
-    <updated>2022-06-02T01:55:39Z</updated>
-    <id>tag:github.com,2022-06-02:/feenkcom/gt4gemstone</id>
-    <link href="https://github.com/feenkcom/gt4gemstone" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Gtoolkit interface to GemStone&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>feenkcom/gtoolkit-external-process</title>
+    <updated>2022-06-03T01:53:24Z</updated>
+    <id>tag:github.com,2022-06-03:/feenkcom/gtoolkit-external-process</id>
+    <link href="https://github.com/feenkcom/gtoolkit-external-process" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Pharo library for cross-platform running of external commands and getting their output.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>feenkcom/gtoolkit-clipboard</title>
-    <updated>2022-06-02T01:55:39Z</updated>
-    <id>tag:github.com,2022-06-02:/feenkcom/gtoolkit-clipboard</id>
-    <link href="https://github.com/feenkcom/gtoolkit-clipboard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Glamorous Toolkit bindings to Clipboard&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/gt4xmlsupport</title>
-    <updated>2022-06-02T01:55:39Z</updated>
-    <id>tag:github.com,2022-06-02:/feenkcom/gt4xmlsupport</id>
-    <link href="https://github.com/feenkcom/gt4xmlsupport" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Glamorous Toolkit for XMLSupport&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/gt4petitparser2</title>
-    <updated>2022-06-02T01:55:39Z</updated>
-    <id>tag:github.com,2022-06-02:/feenkcom/gt4petitparser2</id>
-    <link href="https://github.com/feenkcom/gt4petitparser2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Glamorous Toolkit for PetitParser2&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/gt4smacc</title>
-    <updated>2022-06-02T01:55:39Z</updated>
-    <id>tag:github.com,2022-06-02:/feenkcom/gt4smacc</id>
-    <link href="https://github.com/feenkcom/gt4smacc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The development environment for SmaCC based on the Glamorous Toolkit.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/gtoolkit-coder</title>
-    <updated>2022-06-02T01:55:39Z</updated>
-    <id>tag:github.com,2022-06-02:/feenkcom/gtoolkit-coder</id>
-    <link href="https://github.com/feenkcom/gtoolkit-coder" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The GT set of tools for writing Pharo code.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/lepiter</title>
-    <updated>2022-06-02T01:55:39Z</updated>
-    <id>tag:github.com,2022-06-02:/feenkcom/lepiter</id>
-    <link href="https://github.com/feenkcom/lepiter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/gt4jenkins</title>
-    <updated>2022-06-02T01:55:39Z</updated>
-    <id>tag:github.com,2022-06-02:/feenkcom/gt4jenkins</id>
-    <link href="https://github.com/feenkcom/gt4jenkins" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An elegant Jenkins client for Glamorous Toolkit.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/gtoolkit-visualizer</title>
-    <updated>2022-06-02T01:55:39Z</updated>
-    <id>tag:github.com,2022-06-02:/feenkcom/gtoolkit-visualizer</id>
-    <link href="https://github.com/feenkcom/gtoolkit-visualizer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A set of visualization engines.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/fenster</title>
-    <updated>2022-06-02T01:55:39Z</updated>
-    <id>tag:github.com,2022-06-02:/feenkcom/fenster</id>
-    <link href="https://github.com/feenkcom/fenster" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;I contain reusable components to help implement support of native windows&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/sparta</title>
-    <updated>2022-06-02T01:55:39Z</updated>
-    <id>tag:github.com,2022-06-02:/feenkcom/sparta</id>
-    <link href="https://github.com/feenkcom/sparta" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sparta is a canvas on top of Skia.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/gtoolkit-phlow</title>
-    <updated>2022-06-02T01:55:39Z</updated>
-    <id>tag:github.com,2022-06-02:/feenkcom/gtoolkit-phlow</id>
-    <link href="https://github.com/feenkcom/gtoolkit-phlow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The GT engine for scripting reactive browsers&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/gtoolkit-gleam</title>
-    <updated>2022-06-02T01:55:39Z</updated>
-    <id>tag:github.com,2022-06-02:/feenkcom/gtoolkit-gleam</id>
-    <link href="https://github.com/feenkcom/gtoolkit-gleam" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;C wrapper around OpenGL bindings for Servo&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>feenkcom/gt4famix3</title>
+    <updated>2022-06-03T01:53:24Z</updated>
+    <id>tag:github.com,2022-06-03:/feenkcom/gt4famix3</id>
+    <link href="https://github.com/feenkcom/gt4famix3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository holds the Glamorous Toolkit extensions for Famix3.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

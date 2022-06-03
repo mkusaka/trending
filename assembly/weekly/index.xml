@@ -1,35 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T02:04:45Z</updated>
+  <updated>2022-06-03T02:02:35Z</updated>
   <subtitle>Weekly Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>homebrew8088/8088-PC-Compatible</title>
-    <updated>2022-06-02T02:04:45Z</updated>
-    <id>tag:github.com,2022-06-02:/homebrew8088/8088-PC-Compatible</id>
-    <link href="https://github.com/homebrew8088/8088-PC-Compatible" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;8088 PC XT Compatible&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hackclub/some-assembly-required</title>
+    <updated>2022-06-03T02:02:35Z</updated>
+    <id>tag:github.com,2022-06-03:/hackclub/some-assembly-required</id>
+    <link href="https://github.com/hackclub/some-assembly-required" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A playful guide about talking to your computer.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>microsoft/MS-DOS</title>
-    <updated>2022-06-02T02:04:45Z</updated>
-    <id>tag:github.com,2022-06-02:/microsoft/MS-DOS</id>
-    <link href="https://github.com/microsoft/MS-DOS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The original sources of MS-DOS 1.25 and 2.0, for reference purposes&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>klezVirus/inceptor</title>
-    <updated>2022-06-02T02:04:45Z</updated>
-    <id>tag:github.com,2022-06-02:/klezVirus/inceptor</id>
-    <link href="https://github.com/klezVirus/inceptor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Template-Driven AV/EDR Evasion Framework&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pooler/cpuminer</title>
-    <updated>2022-06-02T02:04:45Z</updated>
-    <id>tag:github.com,2022-06-02:/pooler/cpuminer</id>
-    <link href="https://github.com/pooler/cpuminer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CPU miner for Litecoin and Bitcoin&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>android/renderscript-intrinsics-replacement-toolkit</title>
+    <updated>2022-06-03T02:02:35Z</updated>
+    <id>tag:github.com,2022-06-03:/android/renderscript-intrinsics-replacement-toolkit</id>
+    <link href="https://github.com/android/renderscript-intrinsics-replacement-toolkit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

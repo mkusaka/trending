@@ -1,105 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:47:14Z</updated>
+  <updated>2022-06-03T01:45:06Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>foostan/crkbd</title>
-    <updated>2022-06-02T01:47:14Z</updated>
-    <id>tag:github.com,2022-06-02:/foostan/crkbd</id>
-    <link href="https://github.com/foostan/crkbd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>motioneye-project/motioneyeos</title>
+    <updated>2022-06-03T01:45:06Z</updated>
+    <id>tag:github.com,2022-06-03:/motioneye-project/motioneyeos</id>
+    <link href="https://github.com/motioneye-project/motioneyeos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Video Surveillance OS For Single-board Computers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kubernetes/design-proposals-archive</title>
-    <updated>2022-06-02T01:47:14Z</updated>
-    <id>tag:github.com,2022-06-02:/kubernetes/design-proposals-archive</id>
-    <link href="https://github.com/kubernetes/design-proposals-archive" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Archive of Kubernetes Design Proposals&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>WICG/turtledove</title>
+    <updated>2022-06-03T01:45:06Z</updated>
+    <id>tag:github.com,2022-06-03:/WICG/turtledove</id>
+    <link href="https://github.com/WICG/turtledove" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TURTLEDOVE&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ninenines/erlang.mk</title>
-    <updated>2022-06-02T01:47:14Z</updated>
-    <id>tag:github.com,2022-06-02:/ninenines/erlang.mk</id>
-    <link href="https://github.com/ninenines/erlang.mk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A build tool for Erlang that just works.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Clever/discovery-go</title>
+    <updated>2022-06-03T01:45:06Z</updated>
+    <id>tag:github.com,2022-06-03:/Clever/discovery-go</id>
+    <link href="https://github.com/Clever/discovery-go" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Programmatically find services&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>inaka/elvis.mk</title>
-    <updated>2022-06-02T01:47:14Z</updated>
-    <id>tag:github.com,2022-06-02:/inaka/elvis.mk</id>
-    <link href="https://github.com/inaka/elvis.mk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;3rd party elrang.mk plug-in for Elvis&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Xilinx/Vitis_Accel_Examples</title>
+    <updated>2022-06-03T01:45:06Z</updated>
+    <id>tag:github.com,2022-06-03:/Xilinx/Vitis_Accel_Examples</id>
+    <link href="https://github.com/Xilinx/Vitis_Accel_Examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vitis_Accel_Examples&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>NVIDIA/nvidia-docker</title>
-    <updated>2022-06-02T01:47:14Z</updated>
-    <id>tag:github.com,2022-06-02:/NVIDIA/nvidia-docker</id>
-    <link href="https://github.com/NVIDIA/nvidia-docker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Build and run Docker containers leveraging NVIDIA GPUs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>upbound/build</title>
+    <updated>2022-06-03T01:45:06Z</updated>
+    <id>tag:github.com,2022-06-03:/upbound/build</id>
+    <link href="https://github.com/upbound/build" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Upbound build and CI scripts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>coolsnowwolf/packages</title>
-    <updated>2022-06-02T01:47:14Z</updated>
-    <id>tag:github.com,2022-06-02:/coolsnowwolf/packages</id>
-    <link href="https://github.com/coolsnowwolf/packages" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Community maintained packages for OpenWrt.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>container-storage-interface/spec</title>
-    <updated>2022-06-02T01:47:14Z</updated>
-    <id>tag:github.com,2022-06-02:/container-storage-interface/spec</id>
-    <link href="https://github.com/container-storage-interface/spec" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Container Storage Interface (CSI) Specification.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>open-telemetry/opentelemetry-proto</title>
-    <updated>2022-06-02T01:47:14Z</updated>
-    <id>tag:github.com,2022-06-02:/open-telemetry/opentelemetry-proto</id>
-    <link href="https://github.com/open-telemetry/opentelemetry-proto" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Protobuf definitions for the OpenTelemetry protocol (OTLP)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>PostgresApp/PostgresApp</title>
-    <updated>2022-06-02T01:47:14Z</updated>
-    <id>tag:github.com,2022-06-02:/PostgresApp/PostgresApp</id>
-    <link href="https://github.com/PostgresApp/PostgresApp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The easiest way to get started with PostgreSQL on the Mac&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>anncode1/Curso-de-Flutter-Avanzado-en-Platzi</title>
-    <updated>2022-06-02T01:47:14Z</updated>
-    <id>tag:github.com,2022-06-02:/anncode1/Curso-de-Flutter-Avanzado-en-Platzi</id>
-    <link href="https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi" rel="alternate"></link>
+    <title>mesosphere/kommander-applications</title>
+    <updated>2022-06-03T01:45:06Z</updated>
+    <id>tag:github.com,2022-06-03:/mesosphere/kommander-applications</id>
+    <link href="https://github.com/mesosphere/kommander-applications" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>redox-os/redox</title>
-    <updated>2022-06-02T01:47:14Z</updated>
-    <id>tag:github.com,2022-06-02:/redox-os/redox</id>
-    <link href="https://github.com/redox-os/redox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mirror of https://gitlab.redox-os.org/redox-os/redox&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>olxbr/make-snippets</title>
-    <updated>2022-06-02T01:47:14Z</updated>
-    <id>tag:github.com,2022-06-02:/olxbr/make-snippets</id>
-    <link href="https://github.com/olxbr/make-snippets" rel="alternate"></link>
+    <title>gobuffalo/gitgen</title>
+    <updated>2022-06-03T01:45:06Z</updated>
+    <id>tag:github.com,2022-06-03:/gobuffalo/gitgen</id>
+    <link href="https://github.com/gobuffalo/gitgen" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>counteractive/incident-response-plan-template</title>
-    <updated>2022-06-02T01:47:14Z</updated>
-    <id>tag:github.com,2022-06-02:/counteractive/incident-response-plan-template</id>
-    <link href="https://github.com/counteractive/incident-response-plan-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A concise, directive, specific, flexible, and free incident response plan template&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lightstep/lightstep-tracer-common</title>
-    <updated>2022-06-02T01:47:14Z</updated>
-    <id>tag:github.com,2022-06-02:/lightstep/lightstep-tracer-common</id>
-    <link href="https://github.com/lightstep/lightstep-tracer-common" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Files shared by most or all of the Lightstep tracer implementations&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

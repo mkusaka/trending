@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Blade Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-02T01:35:55Z</updated>
+  <updated>2022-06-03T01:33:58Z</updated>
   <subtitle>Daily Trending of Blade in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mkocansey/bladewind</title>
-    <updated>2022-06-02T01:35:55Z</updated>
-    <id>tag:github.com,2022-06-02:/mkocansey/bladewind</id>
-    <link href="https://github.com/mkocansey/bladewind" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Super simple but elegant Laravel blade-based UI components using TailwindCSS and vanilla Javascript&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wireui/wireui</title>
+    <updated>2022-06-03T01:33:58Z</updated>
+    <id>tag:github.com,2022-06-03:/wireui/wireui</id>
+    <link href="https://github.com/wireui/wireui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TallStack UI components&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
