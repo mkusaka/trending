@@ -1,70 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PureScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T01:50:12Z</updated>
+  <updated>2022-06-04T01:53:14Z</updated>
   <subtitle>Daily Trending of PureScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>purescript/purescript-functors</title>
-    <updated>2022-06-03T01:50:12Z</updated>
-    <id>tag:github.com,2022-06-03:/purescript/purescript-functors</id>
-    <link href="https://github.com/purescript/purescript-functors" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Functor products, coproducts, and composition&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript-contrib/purescript-argonaut-core</title>
+    <updated>2022-06-04T01:53:14Z</updated>
+    <id>tag:github.com,2022-06-04:/purescript-contrib/purescript-argonaut-core</id>
+    <link href="https://github.com/purescript-contrib/purescript-argonaut-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A fast, native representation for JSON, with serialization and folding&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purescript-contrib/purescript-profunctor-lenses</title>
-    <updated>2022-06-03T01:50:12Z</updated>
-    <id>tag:github.com,2022-06-03:/purescript-contrib/purescript-profunctor-lenses</id>
-    <link href="https://github.com/purescript-contrib/purescript-profunctor-lenses" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pure profunctor lenses&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>garyb/purescript-debug</title>
+    <updated>2022-06-04T01:53:14Z</updated>
+    <id>tag:github.com,2022-06-04:/garyb/purescript-debug</id>
+    <link href="https://github.com/garyb/purescript-debug" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Console based debugging functions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purescript/purescript-quickcheck</title>
-    <updated>2022-06-03T01:50:12Z</updated>
-    <id>tag:github.com,2022-06-03:/purescript/purescript-quickcheck</id>
-    <link href="https://github.com/purescript/purescript-quickcheck" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An implementation of QuickCheck in PureScript&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>purescript/purescript-ordered-collections</title>
-    <updated>2022-06-03T01:50:12Z</updated>
-    <id>tag:github.com,2022-06-03:/purescript/purescript-ordered-collections</id>
-    <link href="https://github.com/purescript/purescript-ordered-collections" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Purely functional map and set data structures&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>purescript/purescript-arrays</title>
-    <updated>2022-06-03T01:50:12Z</updated>
-    <id>tag:github.com,2022-06-03:/purescript/purescript-arrays</id>
-    <link href="https://github.com/purescript/purescript-arrays" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Array utility functions&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>purescript/purescript-tailrec</title>
-    <updated>2022-06-03T01:50:12Z</updated>
-    <id>tag:github.com,2022-06-03:/purescript/purescript-tailrec</id>
-    <link href="https://github.com/purescript/purescript-tailrec" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A type class which captures stack-safe monadic tail recursion&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>purescript/purescript-lists</title>
-    <updated>2022-06-03T01:50:12Z</updated>
-    <id>tag:github.com,2022-06-03:/purescript/purescript-lists</id>
-    <link href="https://github.com/purescript/purescript-lists" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Linked Lists&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>purescript/purescript-console</title>
-    <updated>2022-06-03T01:50:12Z</updated>
-    <id>tag:github.com,2022-06-03:/purescript/purescript-console</id>
-    <link href="https://github.com/purescript/purescript-console" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Console-related functions&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>purescript/purescript-transformers</title>
-    <updated>2022-06-03T01:50:12Z</updated>
-    <id>tag:github.com,2022-06-03:/purescript/purescript-transformers</id>
-    <link href="https://github.com/purescript/purescript-transformers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Monad and comonad transformers&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>natefaubion/purescript-variant</title>
+    <updated>2022-06-04T01:53:14Z</updated>
+    <id>tag:github.com,2022-06-04:/natefaubion/purescript-variant</id>
+    <link href="https://github.com/natefaubion/purescript-variant" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Polymorphic variants for PureScript&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

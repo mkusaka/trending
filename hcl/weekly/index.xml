@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:10:46Z</updated>
+  <updated>2022-06-04T02:13:36Z</updated>
   <subtitle>Weekly Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ministryofjustice/cloud-platform-environments</title>
-    <updated>2022-06-03T02:10:46Z</updated>
-    <id>tag:github.com,2022-06-03:/ministryofjustice/cloud-platform-environments</id>
-    <link href="https://github.com/ministryofjustice/cloud-platform-environments" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Environment configuration for the Cloud Platform&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>khuedoan/homelab</title>
+    <updated>2022-06-04T02:13:36Z</updated>
+    <id>tag:github.com,2022-06-04:/khuedoan/homelab</id>
+    <link href="https://github.com/khuedoan/homelab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hashicorp/learn-terraform-github-actions</title>
-    <updated>2022-06-03T02:10:46Z</updated>
-    <id>tag:github.com,2022-06-03:/hashicorp/learn-terraform-github-actions</id>
-    <link href="https://github.com/hashicorp/learn-terraform-github-actions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tetratelabs/terraform-eksblueprints-tetrate-istio-addon</title>
-    <updated>2022-06-03T02:10:46Z</updated>
-    <id>tag:github.com,2022-06-03:/tetratelabs/terraform-eksblueprints-tetrate-istio-addon</id>
-    <link href="https://github.com/tetratelabs/terraform-eksblueprints-tetrate-istio-addon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cn-terraform/terraform-aws-ecs-service-autoscaling</title>
+    <updated>2022-06-04T02:13:36Z</updated>
+    <id>tag:github.com,2022-06-04:/cn-terraform/terraform-aws-ecs-service-autoscaling</id>
+    <link href="https://github.com/cn-terraform/terraform-aws-ecs-service-autoscaling" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AWS ECS Service Autoscaling&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

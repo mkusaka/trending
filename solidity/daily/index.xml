@@ -1,91 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T01:53:34Z</updated>
+  <updated>2022-06-04T01:56:30Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>willitscale/learning-solidity</title>
-    <updated>2022-06-03T01:53:34Z</updated>
-    <id>tag:github.com,2022-06-03:/willitscale/learning-solidity</id>
-    <link href="https://github.com/willitscale/learning-solidity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The companion to the Youtube tutorials&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>johncpalmer/LevelNFT</title>
-    <updated>2022-06-03T01:53:34Z</updated>
-    <id>tag:github.com,2022-06-03:/johncpalmer/LevelNFT</id>
-    <link href="https://github.com/johncpalmer/LevelNFT" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;NFTs that can beat levels and earn score.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>net2devcrypto/web3vids</title>
-    <updated>2022-06-03T01:53:34Z</updated>
-    <id>tag:github.com,2022-06-03:/net2devcrypto/web3vids</id>
-    <link href="https://github.com/net2devcrypto/web3vids" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;YT Web3 Vids Referenced Files.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bertmiller/sMEV</title>
-    <updated>2022-06-03T01:53:34Z</updated>
-    <id>tag:github.com,2022-06-03:/bertmiller/sMEV</id>
-    <link href="https://github.com/bertmiller/sMEV" rel="alternate"></link>
+    <title>CoolCatsNFTPublic/SolidityInterviewTest</title>
+    <updated>2022-06-04T01:56:30Z</updated>
+    <id>tag:github.com,2022-06-04:/CoolCatsNFTPublic/SolidityInterviewTest</id>
+    <link href="https://github.com/CoolCatsNFTPublic/SolidityInterviewTest" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Uniswap/v2-periphery</title>
-    <updated>2022-06-03T01:53:34Z</updated>
-    <id>tag:github.com,2022-06-03:/Uniswap/v2-periphery</id>
-    <link href="https://github.com/Uniswap/v2-periphery" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎚 Peripheral smart contracts for interacting with Uniswap V2&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>thirdweb-dev/contracts</title>
-    <updated>2022-06-03T01:53:34Z</updated>
-    <id>tag:github.com,2022-06-03:/thirdweb-dev/contracts</id>
-    <link href="https://github.com/thirdweb-dev/contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of smart contracts deployable via thirdweb&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ExtropyIO/defi-bot</title>
-    <updated>2022-06-03T01:53:34Z</updated>
-    <id>tag:github.com,2022-06-03:/ExtropyIO/defi-bot</id>
-    <link href="https://github.com/ExtropyIO/defi-bot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tutorial for building DeFi arbitrage bots&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>axieinfinity/ronin-smart-contracts</title>
-    <updated>2022-06-03T01:53:34Z</updated>
-    <id>tag:github.com,2022-06-03:/axieinfinity/ronin-smart-contracts</id>
-    <link href="https://github.com/axieinfinity/ronin-smart-contracts" rel="alternate"></link>
+    <title>TRON-Developer-Hub/TRC20-Contract-Template</title>
+    <updated>2022-06-04T01:56:30Z</updated>
+    <id>tag:github.com,2022-06-04:/TRON-Developer-Hub/TRC20-Contract-Template</id>
+    <link href="https://github.com/TRON-Developer-Hub/TRC20-Contract-Template" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pedrobergamini/flashloaner-contract</title>
-    <updated>2022-06-03T01:53:34Z</updated>
-    <id>tag:github.com,2022-06-03:/pedrobergamini/flashloaner-contract</id>
-    <link href="https://github.com/pedrobergamini/flashloaner-contract" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Solidity smart contracts that operate arbitrages between Sushiswap and Uniswap&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>PatrickAlphaC/hardhat-security-fcc</title>
-    <updated>2022-06-03T01:53:34Z</updated>
-    <id>tag:github.com,2022-06-03:/PatrickAlphaC/hardhat-security-fcc</id>
-    <link href="https://github.com/PatrickAlphaC/hardhat-security-fcc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>PatrickAlphaC/hardhat-nft-fcc</title>
-    <updated>2022-06-03T01:53:34Z</updated>
-    <id>tag:github.com,2022-06-03:/PatrickAlphaC/hardhat-nft-fcc</id>
-    <link href="https://github.com/PatrickAlphaC/hardhat-nft-fcc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kjmczk/nextjs-nft-mint-dapp</title>
-    <updated>2022-06-03T01:53:34Z</updated>
-    <id>tag:github.com,2022-06-03:/kjmczk/nextjs-nft-mint-dapp</id>
-    <link href="https://github.com/kjmczk/nextjs-nft-mint-dapp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple, fast, and modern dApp for minting NFTs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ConsenSys/quorum-dev-quickstart</title>
+    <updated>2022-06-04T01:56:30Z</updated>
+    <id>tag:github.com,2022-06-04:/ConsenSys/quorum-dev-quickstart</id>
+    <link href="https://github.com/ConsenSys/quorum-dev-quickstart" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Quorum Developer Quickstart utility can be used to rapidly generate local Quorum blockchain networks for development and demo purposes using Besu, GoQuorum, and Codefi Orchestrate.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

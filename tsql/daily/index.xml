@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T01:55:36Z</updated>
+  <updated>2022-06-04T01:58:22Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cisagov/cset</title>
-    <updated>2022-06-03T01:55:36Z</updated>
-    <id>tag:github.com,2022-06-03:/cisagov/cset</id>
-    <link href="https://github.com/cisagov/cset" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cybersecurity Evaluation Tool&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>TdP-esami/2019-06-05-simulazione-JDK11</title>
-    <updated>2022-06-03T01:55:36Z</updated>
-    <id>tag:github.com,2022-06-03:/TdP-esami/2019-06-05-simulazione-JDK11</id>
-    <link href="https://github.com/TdP-esami/2019-06-05-simulazione-JDK11" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Conversione a JDK11 della simulazione d&#39;esame 2019-06-05&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>matesic-damir/MS-SQL-New-functions-syntaxes-tips-tricks</title>
-    <updated>2022-06-03T01:55:36Z</updated>
-    <id>tag:github.com,2022-06-03:/matesic-damir/MS-SQL-New-functions-syntaxes-tips-tricks</id>
-    <link href="https://github.com/matesic-damir/MS-SQL-New-functions-syntaxes-tips-tricks" rel="alternate"></link>
+    <title>mcflyamorim/GitHub_Cursos</title>
+    <updated>2022-06-04T01:58:22Z</updated>
+    <id>tag:github.com,2022-06-04:/mcflyamorim/GitHub_Cursos</id>
+    <link href="https://github.com/mcflyamorim/GitHub_Cursos" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

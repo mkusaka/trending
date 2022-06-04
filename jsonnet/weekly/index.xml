@@ -1,35 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jsonnet Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:12:41Z</updated>
+  <updated>2022-06-04T02:15:15Z</updated>
   <subtitle>Weekly Trending of Jsonnet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>alphagov/govuk-content-schemas</title>
-    <updated>2022-06-03T02:12:41Z</updated>
-    <id>tag:github.com,2022-06-03:/alphagov/govuk-content-schemas</id>
-    <link href="https://github.com/alphagov/govuk-content-schemas" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Definitions of the data formats used to represent content on GOV.UK&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>grafana/ksonnet</title>
-    <updated>2022-06-03T02:12:41Z</updated>
-    <id>tag:github.com,2022-06-03:/grafana/ksonnet</id>
-    <link href="https://github.com/grafana/ksonnet" rel="alternate"></link>
+    <title>netology-code/sysadm-homeworks</title>
+    <updated>2022-06-04T02:15:15Z</updated>
+    <id>tag:github.com,2022-06-04:/netology-code/sysadm-homeworks</id>
+    <link href="https://github.com/netology-code/sysadm-homeworks" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>grafana/tns</title>
-    <updated>2022-06-03T02:12:41Z</updated>
-    <id>tag:github.com,2022-06-03:/grafana/tns</id>
-    <link href="https://github.com/grafana/tns" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Observability Demo App&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>grafana/cortex-jsonnet</title>
-    <updated>2022-06-03T02:12:41Z</updated>
-    <id>tag:github.com,2022-06-03:/grafana/cortex-jsonnet</id>
-    <link href="https://github.com/grafana/cortex-jsonnet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Deprecated: see https://github.com/grafana/mimir/tree/main/operations/mimir instead&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>monitoringartist/grafana-aws-cloudwatch-dashboards</title>
+    <updated>2022-06-04T02:15:15Z</updated>
+    <id>tag:github.com,2022-06-04:/monitoringartist/grafana-aws-cloudwatch-dashboards</id>
+    <link href="https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;☁️ 30+ Grafana dashboards for AWS CloudWatch metrics: EC2, Lambda, S3, ELB, EMR, EBS, SNS, SES, SQS, RDS, EFS, ElastiCache, Billing, API Gateway, VPN, Step Functions, Route 53, CodeBuild, ...&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

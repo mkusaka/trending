@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Inno Setup Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T01:42:20Z</updated>
+  <updated>2022-06-04T01:44:25Z</updated>
   <subtitle>Daily Trending of Inno Setup in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mentebinaria/retoolkit</title>
-    <updated>2022-06-03T01:42:20Z</updated>
-    <id>tag:github.com,2022-06-03:/mentebinaria/retoolkit</id>
-    <link href="https://github.com/mentebinaria/retoolkit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Reverse Engineer&#39;s Toolkit&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ManlyMarco/KKS-HF_Patch</title>
+    <updated>2022-06-04T01:44:25Z</updated>
+    <id>tag:github.com,2022-06-04:/ManlyMarco/KKS-HF_Patch</id>
+    <link href="https://github.com/ManlyMarco/KKS-HF_Patch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Automatically translate, uncensor and update Koikatsu Sunshine!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:16:40Z</updated>
+  <updated>2022-06-04T02:19:05Z</updated>
   <subtitle>Weekly Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>LnL7/nix-darwin</title>
-    <updated>2022-06-03T02:16:40Z</updated>
-    <id>tag:github.com,2022-06-03:/LnL7/nix-darwin</id>
-    <link href="https://github.com/LnL7/nix-darwin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;nix modules for darwin&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>input-output-hk/haskell.nix</title>
+    <updated>2022-06-04T02:19:05Z</updated>
+    <id>tag:github.com,2022-06-04:/input-output-hk/haskell.nix</id>
+    <link href="https://github.com/input-output-hk/haskell.nix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Alternative Haskell Infrastructure for Nixpkgs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>numtide/flake-utils</title>
-    <updated>2022-06-03T02:16:40Z</updated>
-    <id>tag:github.com,2022-06-03:/numtide/flake-utils</id>
-    <link href="https://github.com/numtide/flake-utils" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pure Nix flake utility functions&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>NixOS/nixos-hardware</title>
-    <updated>2022-06-03T02:16:40Z</updated>
-    <id>tag:github.com,2022-06-03:/NixOS/nixos-hardware</id>
-    <link href="https://github.com/NixOS/nixos-hardware" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of NixOS modules covering hardware quirks.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nix-community/NixOS-WSL</title>
+    <updated>2022-06-04T02:19:05Z</updated>
+    <id>tag:github.com,2022-06-04:/nix-community/NixOS-WSL</id>
+    <link href="https://github.com/nix-community/NixOS-WSL" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NixOS on WSL(2) [maintainer=@nzbr]&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:26:51Z</updated>
+  <updated>2022-06-04T02:28:45Z</updated>
   <subtitle>Weekly Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>viandwi24/nuxt3-awesome-starter</title>
-    <updated>2022-06-03T02:26:51Z</updated>
-    <id>tag:github.com,2022-06-03:/viandwi24/nuxt3-awesome-starter</id>
-    <link href="https://github.com/viandwi24/nuxt3-awesome-starter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a Nuxt 3 template and boilerplate with a lot of useful features. Nuxt 3 + Tailwindcss v3&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dcloudio/hello-uniapp</title>
+    <updated>2022-06-04T02:28:45Z</updated>
+    <id>tag:github.com,2022-06-04:/dcloudio/hello-uniapp</id>
+    <link href="https://github.com/dcloudio/hello-uniapp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;uni-app框架演示示例&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>modrinth/knossos</title>
-    <updated>2022-06-03T02:26:51Z</updated>
-    <id>tag:github.com,2022-06-03:/modrinth/knossos</id>
-    <link href="https://github.com/modrinth/knossos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vue based frontend with SSR &amp; caching for UX, speed, and compatibility.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Lissy93/dashy</title>
+    <updated>2022-06-04T02:28:45Z</updated>
+    <id>tag:github.com,2022-06-04:/Lissy93/dashy</id>
+    <link href="https://github.com/Lissy93/dashy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>DataV-Team/DataV</title>
-    <updated>2022-06-03T02:26:51Z</updated>
-    <id>tag:github.com,2022-06-03:/DataV-Team/DataV</id>
-    <link href="https://github.com/DataV-Team/DataV" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>antfu/vitesse-nuxt3</title>
+    <updated>2022-06-04T02:28:45Z</updated>
+    <id>tag:github.com,2022-06-04:/antfu/vitesse-nuxt3</id>
+    <link href="https://github.com/antfu/vitesse-nuxt3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vitesse for Nuxt 3 🏔💚⚡️&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,49 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:21:49Z</updated>
+  <updated>2022-06-04T02:23:59Z</updated>
   <subtitle>Weekly Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>solana-labs/solana-program-library</title>
-    <updated>2022-06-03T02:21:49Z</updated>
-    <id>tag:github.com,2022-06-03:/solana-labs/solana-program-library</id>
-    <link href="https://github.com/solana-labs/solana-program-library" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of Solana-maintained on-chain programs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0x192/universal-android-debloater</title>
+    <updated>2022-06-04T02:23:59Z</updated>
+    <id>tag:github.com,2022-06-04:/0x192/universal-android-debloater</id>
+    <link href="https://github.com/0x192/universal-android-debloater" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rust-embedded/rust-raspberrypi-OS-tutorials</title>
-    <updated>2022-06-03T02:21:49Z</updated>
-    <id>tag:github.com,2022-06-03:/rust-embedded/rust-raspberrypi-OS-tutorials</id>
-    <link href="https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📚 Learn to write an embedded OS in Rust 🦀&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rustwasm/wasm-bindgen</title>
+    <updated>2022-06-04T02:23:59Z</updated>
+    <id>tag:github.com,2022-06-04:/rustwasm/wasm-bindgen</id>
+    <link href="https://github.com/rustwasm/wasm-bindgen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Facilitating high-level interactions between Wasm modules and JavaScript&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>quickwit-oss/tantivy</title>
-    <updated>2022-06-03T02:21:49Z</updated>
-    <id>tag:github.com,2022-06-03:/quickwit-oss/tantivy</id>
-    <link href="https://github.com/quickwit-oss/tantivy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>launchbadge/sqlx</title>
-    <updated>2022-06-03T02:21:49Z</updated>
-    <id>tag:github.com,2022-06-03:/launchbadge/sqlx</id>
-    <link href="https://github.com/launchbadge/sqlx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>diesel-rs/diesel</title>
-    <updated>2022-06-03T02:21:49Z</updated>
-    <id>tag:github.com,2022-06-03:/diesel-rs/diesel</id>
-    <link href="https://github.com/diesel-rs/diesel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A safe, extensible ORM and Query Builder for Rust&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cloud-hypervisor/cloud-hypervisor</title>
-    <updated>2022-06-03T02:21:49Z</updated>
-    <id>tag:github.com,2022-06-03:/cloud-hypervisor/cloud-hypervisor</id>
-    <link href="https://github.com/cloud-hypervisor/cloud-hypervisor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rust-lang/book</title>
+    <updated>2022-06-04T02:23:59Z</updated>
+    <id>tag:github.com,2022-06-04:/rust-lang/book</id>
+    <link href="https://github.com/rust-lang/book" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Rust Programming Language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

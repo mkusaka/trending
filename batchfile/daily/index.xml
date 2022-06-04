@@ -1,91 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T01:33:44Z</updated>
+  <updated>2022-06-04T01:34:28Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>realpython/python-guide</title>
-    <updated>2022-06-03T01:33:44Z</updated>
-    <id>tag:github.com,2022-06-03:/realpython/python-guide</id>
-    <link href="https://github.com/realpython/python-guide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Python best practices guidebook, written for humans.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lxgw/LxgwWenKai</title>
+    <updated>2022-06-04T01:34:28Z</updated>
+    <id>tag:github.com,2022-06-04:/lxgw/LxgwWenKai</id>
+    <link href="https://github.com/lxgw/LxgwWenKai" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An open-source Chinese font derived from Fontworks&#39; Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>FandyAhmadAzizi/FreeRdp-1</title>
-    <updated>2022-06-03T01:33:44Z</updated>
-    <id>tag:github.com,2022-06-03:/FandyAhmadAzizi/FreeRdp-1</id>
-    <link href="https://github.com/FandyAhmadAzizi/FreeRdp-1" rel="alternate"></link>
+    <title>redgans/RDPFREEs</title>
+    <updated>2022-06-04T01:34:28Z</updated>
+    <id>tag:github.com,2022-06-04:/redgans/RDPFREEs</id>
+    <link href="https://github.com/redgans/RDPFREEs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;fasdfafdafasfsdfsf&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mardiantsyah/FREERDPs</title>
+    <updated>2022-06-04T01:34:28Z</updated>
+    <id>tag:github.com,2022-06-04:/mardiantsyah/FREERDPs</id>
+    <link href="https://github.com/mardiantsyah/FREERDPs" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>FQrabbit/SSTap-Rule</title>
-    <updated>2022-06-03T01:33:44Z</updated>
-    <id>tag:github.com,2022-06-03:/FQrabbit/SSTap-Rule</id>
-    <link href="https://github.com/FQrabbit/SSTap-Rule" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;支持更多游戏规则，让SSTap成为真正的“网游加速器”&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pozzchea/FreeRDPW</title>
-    <updated>2022-06-03T01:33:44Z</updated>
-    <id>tag:github.com,2022-06-03:/pozzchea/FreeRDPW</id>
-    <link href="https://github.com/pozzchea/FreeRDPW" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nd-phuc/windows-rdp</title>
-    <updated>2022-06-03T01:33:44Z</updated>
-    <id>tag:github.com,2022-06-03:/nd-phuc/windows-rdp</id>
-    <link href="https://github.com/nd-phuc/windows-rdp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Harchanel15/RDP-BULAN-APRIL-BY-HAR-CHANEL</title>
-    <updated>2022-06-03T01:33:44Z</updated>
-    <id>tag:github.com,2022-06-03:/Harchanel15/RDP-BULAN-APRIL-BY-HAR-CHANEL</id>
-    <link href="https://github.com/Harchanel15/RDP-BULAN-APRIL-BY-HAR-CHANEL" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gunakan sebaik mungkin dan jangan lupa subscribe Channel Har Chanel&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sachindu443/Temp</title>
-    <updated>2022-06-03T01:33:44Z</updated>
-    <id>tag:github.com,2022-06-03:/sachindu443/Temp</id>
-    <link href="https://github.com/sachindu443/Temp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dangelochristiansen/Tech-To-Bangla</title>
-    <updated>2022-06-03T01:33:44Z</updated>
-    <id>tag:github.com,2022-06-03:/dangelochristiansen/Tech-To-Bangla</id>
-    <link href="https://github.com/dangelochristiansen/Tech-To-Bangla" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>NextronSystems/APTSimulator</title>
-    <updated>2022-06-03T01:33:44Z</updated>
-    <id>tag:github.com,2022-06-03:/NextronSystems/APTSimulator</id>
-    <link href="https://github.com/NextronSystems/APTSimulator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A toolset to make a system look as if it was the victim of an APT attack&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pannila/Windows2019RDP-Github-main</title>
-    <updated>2022-06-03T01:33:44Z</updated>
-    <id>tag:github.com,2022-06-03:/pannila/Windows2019RDP-Github-main</id>
-    <link href="https://github.com/pannila/Windows2019RDP-Github-main" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>AyGemuy/RDP-WIN10</title>
-    <updated>2022-06-03T01:33:44Z</updated>
-    <id>tag:github.com,2022-06-03:/AyGemuy/RDP-WIN10</id>
-    <link href="https://github.com/AyGemuy/RDP-WIN10" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;6 JAM&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cationx/GitHub-Action-RDP</title>
-    <updated>2022-06-03T01:33:44Z</updated>
-    <id>tag:github.com,2022-06-03:/cationx/GitHub-Action-RDP</id>
-    <link href="https://github.com/cationx/GitHub-Action-RDP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Remote operational GitHub Actions VM for debugging, etc..&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

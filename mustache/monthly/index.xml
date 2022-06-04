@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:46:12Z</updated>
+  <updated>2022-06-04T02:47:14Z</updated>
   <subtitle>Monthly Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>yugabyte/yugabyte-platform-gke-app</title>
-    <updated>2022-06-03T02:46:12Z</updated>
-    <id>tag:github.com,2022-06-03:/yugabyte/yugabyte-platform-gke-app</id>
-    <link href="https://github.com/yugabyte/yugabyte-platform-gke-app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Yugabyte Platform GKE App for GCP Marketplace&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yugabyte/yugabyte-platform-operator</title>
+    <updated>2022-06-04T02:47:14Z</updated>
+    <id>tag:github.com,2022-06-04:/yugabyte/yugabyte-platform-operator</id>
+    <link href="https://github.com/yugabyte/yugabyte-platform-operator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Operator for Yugabyte Platform makes it easy to deploy and upgrade Yugabyte platform on kubernetes environment&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>javahometech/node-app</title>
-    <updated>2022-06-03T02:46:12Z</updated>
-    <id>tag:github.com,2022-06-03:/javahometech/node-app</id>
-    <link href="https://github.com/javahometech/node-app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>VictoriaMetrics/helm-charts</title>
+    <updated>2022-06-04T02:47:14Z</updated>
+    <id>tag:github.com,2022-06-04:/VictoriaMetrics/helm-charts</id>
+    <link href="https://github.com/VictoriaMetrics/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm charts for VictoriaMetrics&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

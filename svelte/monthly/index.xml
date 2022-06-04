@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:53:47Z</updated>
+  <updated>2022-06-04T02:54:52Z</updated>
   <subtitle>Monthly Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>windmill-labs/windmill</title>
+    <updated>2022-06-04T02:54:52Z</updated>
+    <id>tag:github.com,2022-06-04:/windmill-labs/windmill</id>
+    <link href="https://github.com/windmill-labs/windmill" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Windmill is an OSS developer platform to quickly build production-grade multi-steps automations and internal apps from minimal Python and Typescript scripts.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

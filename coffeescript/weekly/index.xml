@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:04:59Z</updated>
+  <updated>2022-06-04T02:07:52Z</updated>
   <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>morrisjs/morris.js</title>
-    <updated>2022-06-03T02:04:59Z</updated>
-    <id>tag:github.com,2022-06-03:/morrisjs/morris.js</id>
-    <link href="https://github.com/morrisjs/morris.js" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pretty time-series line graphs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>antho1404/chat.js</title>
+    <updated>2022-06-04T02:07:52Z</updated>
+    <id>tag:github.com,2022-06-04:/antho1404/chat.js</id>
+    <link href="https://github.com/antho1404/chat.js" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A node.js chat&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dropbox/zxcvbn</title>
-    <updated>2022-06-03T02:04:59Z</updated>
-    <id>tag:github.com,2022-06-03:/dropbox/zxcvbn</id>
-    <link href="https://github.com/dropbox/zxcvbn" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Low-Budget Password Strength Estimation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jonstipe/datetime-local-polyfill</title>
+    <updated>2022-06-04T02:07:52Z</updated>
+    <id>tag:github.com,2022-06-04:/jonstipe/datetime-local-polyfill</id>
+    <link href="https://github.com/jonstipe/datetime-local-polyfill" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A polyfill for implementing the HTML5 &lt;input type=&#34;datetime-local&#34;&gt; element in browsers that do not currently support it.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>scottybarr/track-my-bus</title>
-    <updated>2022-06-03T02:04:59Z</updated>
-    <id>tag:github.com,2022-06-03:/scottybarr/track-my-bus</id>
-    <link href="https://github.com/scottybarr/track-my-bus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Backup bus tracker for lothian buses.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jonstipe/datetime-polyfill</title>
+    <updated>2022-06-04T02:07:52Z</updated>
+    <id>tag:github.com,2022-06-04:/jonstipe/datetime-polyfill</id>
+    <link href="https://github.com/jonstipe/datetime-polyfill" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A polyfill for implementing the HTML5 &lt;input type=&#34;datetime&#34;&gt; element in browsers that do not currently support it.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

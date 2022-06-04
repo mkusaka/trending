@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:53:07Z</updated>
+  <updated>2022-06-04T02:54:12Z</updated>
   <subtitle>Monthly Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fravoll/solidity-patterns</title>
-    <updated>2022-06-03T02:53:07Z</updated>
-    <id>tag:github.com,2022-06-03:/fravoll/solidity-patterns</id>
-    <link href="https://github.com/fravoll/solidity-patterns" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A compilation of patterns and best practices for the smart contract programming language Solidity&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>niclin/nic_meta</title>
-    <updated>2022-06-03T02:53:07Z</updated>
-    <id>tag:github.com,2022-06-03:/niclin/nic_meta</id>
-    <link href="https://github.com/niclin/nic_meta" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>makerdao/multicall</title>
+    <updated>2022-06-04T02:54:12Z</updated>
+    <id>tag:github.com,2022-06-04:/makerdao/multicall</id>
+    <link href="https://github.com/makerdao/multicall" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Multicall: Aggregate multiple constant function call results into one&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

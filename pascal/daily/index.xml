@@ -1,70 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T01:48:31Z</updated>
+  <updated>2022-06-04T01:51:35Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>red-prig/fpPS4</title>
-    <updated>2022-06-03T01:48:31Z</updated>
-    <id>tag:github.com,2022-06-03:/red-prig/fpPS4</id>
-    <link href="https://github.com/red-prig/fpPS4" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PS4 compatibility layer (emulator) on Free Pascal&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ElginDeveloperCommunity/Impressoras</title>
-    <updated>2022-06-03T01:48:31Z</updated>
-    <id>tag:github.com,2022-06-03:/ElginDeveloperCommunity/Impressoras</id>
-    <link href="https://github.com/ElginDeveloperCommunity/Impressoras" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jrsoftware/issrc</title>
-    <updated>2022-06-03T01:48:31Z</updated>
-    <id>tag:github.com,2022-06-03:/jrsoftware/issrc</id>
-    <link href="https://github.com/jrsoftware/issrc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Inno Setup is a free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>transmission-remote-gui/transgui</title>
-    <updated>2022-06-03T01:48:31Z</updated>
-    <id>tag:github.com,2022-06-03:/transmission-remote-gui/transgui</id>
-    <link href="https://github.com/transmission-remote-gui/transgui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>HashLoad/horse</title>
-    <updated>2022-06-03T01:48:31Z</updated>
-    <id>tag:github.com,2022-06-03:/HashLoad/horse</id>
-    <link href="https://github.com/HashLoad/horse" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fast, opinionated, minimalist web framework for Delphi&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>frones/ACBr</title>
-    <updated>2022-06-03T01:48:31Z</updated>
-    <id>tag:github.com,2022-06-03:/frones/ACBr</id>
-    <link href="https://github.com/frones/ACBr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Projeto ACBr - O branch master é um repositório espelho do SVN original (svn://svn.code.sf.net/p/acbr/code/trunk2), criado e mantido com git-svn.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pyscripter/python4delphi</title>
-    <updated>2022-06-03T01:48:31Z</updated>
-    <id>tag:github.com,2022-06-03:/pyscripter/python4delphi</id>
-    <link href="https://github.com/pyscripter/python4delphi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Free components that wrap up Python into Delphi and Lazarus (FPC)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>doublecmd/doublecmd</title>
-    <updated>2022-06-03T01:48:31Z</updated>
-    <id>tag:github.com,2022-06-03:/doublecmd/doublecmd</id>
-    <link href="https://github.com/doublecmd/doublecmd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Double Commander is a free cross platform open source file manager with two panels side by side.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>stascorp/rdpwrap</title>
-    <updated>2022-06-03T01:48:31Z</updated>
-    <id>tag:github.com,2022-06-03:/stascorp/rdpwrap</id>
-    <link href="https://github.com/stascorp/rdpwrap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RDP Wrapper Library&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

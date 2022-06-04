@@ -1,42 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:22:17Z</updated>
+  <updated>2022-06-04T02:24:26Z</updated>
   <subtitle>Weekly Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>flutter/website</title>
-    <updated>2022-06-03T02:22:17Z</updated>
-    <id>tag:github.com,2022-06-03:/flutter/website</id>
-    <link href="https://github.com/flutter/website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Flutter documentation web site&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>keyvanakbary/learning-notes</title>
+    <updated>2022-06-04T02:24:26Z</updated>
+    <id>tag:github.com,2022-06-04:/keyvanakbary/learning-notes</id>
+    <link href="https://github.com/keyvanakbary/learning-notes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Notes on books I read, talks I watch, articles I study, and papers I love&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>alexgurr/react-coding-challenges</title>
-    <updated>2022-06-03T02:22:17Z</updated>
-    <id>tag:github.com,2022-06-03:/alexgurr/react-coding-challenges</id>
-    <link href="https://github.com/alexgurr/react-coding-challenges" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A series of ReactJS coding challenges with a variety of difficulties.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>creativetimofficial/material-dashboard</title>
+    <updated>2022-06-04T02:24:26Z</updated>
+    <id>tag:github.com,2022-06-04:/creativetimofficial/material-dashboard</id>
+    <link href="https://github.com/creativetimofficial/material-dashboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Material Dashboard - Open Source Bootstrap 5 Material Design Admin&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>material-components/material-web</title>
-    <updated>2022-06-03T02:22:17Z</updated>
-    <id>tag:github.com,2022-06-03:/material-components/material-web</id>
-    <link href="https://github.com/material-components/material-web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Material Design Web Components&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pin4eva/envo</title>
-    <updated>2022-06-03T02:22:17Z</updated>
-    <id>tag:github.com,2022-06-03:/pin4eva/envo</id>
-    <link href="https://github.com/pin4eva/envo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rivers State ICT (Techcreek) Codegaminator 10.0&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hmobius/hmobius.github.com</title>
-    <updated>2022-06-03T02:22:17Z</updated>
-    <id>tag:github.com,2022-06-03:/hmobius/hmobius.github.com</id>
-    <link href="https://github.com/hmobius/hmobius.github.com" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Homesite&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ministryofjustice/moj-frontend</title>
+    <updated>2022-06-04T02:24:26Z</updated>
+    <id>tag:github.com,2022-06-04:/ministryofjustice/moj-frontend</id>
+    <link href="https://github.com/ministryofjustice/moj-frontend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The MOJ Pattern Library brings together components and patterns created by designers and developers at MOJ.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

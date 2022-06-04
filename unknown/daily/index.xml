@@ -1,126 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T01:32:01Z</updated>
+  <updated>2022-06-04T01:32:32Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>coderQuad/New-Grad-Positions-2023</title>
-    <updated>2022-06-03T01:32:01Z</updated>
-    <id>tag:github.com,2022-06-03:/coderQuad/New-Grad-Positions-2023</id>
-    <link href="https://github.com/coderQuad/New-Grad-Positions-2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of New Grad full time roles in SWE, Quant, and PM.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tmplink/ipv6</title>
+    <updated>2022-06-04T01:32:32Z</updated>
+    <id>tag:github.com,2022-06-04:/tmplink/ipv6</id>
+    <link href="https://github.com/tmplink/ipv6" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A document about ipv6.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>khangich/machine-learning-interview</title>
-    <updated>2022-06-03T01:32:01Z</updated>
-    <id>tag:github.com,2022-06-03:/khangich/machine-learning-interview</id>
-    <link href="https://github.com/khangich/machine-learning-interview" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>florinpop17/app-ideas</title>
+    <updated>2022-06-04T01:32:32Z</updated>
+    <id>tag:github.com,2022-06-04:/florinpop17/app-ideas</id>
+    <link href="https://github.com/florinpop17/app-ideas" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Collection of application ideas which can be used to improve your coding skills.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>DavidBrightSparc/Tenets-of-IT</title>
-    <updated>2022-06-03T01:32:01Z</updated>
-    <id>tag:github.com,2022-06-03:/DavidBrightSparc/Tenets-of-IT</id>
-    <link href="https://github.com/DavidBrightSparc/Tenets-of-IT" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Tenets of IT: an accumulation of IT advice, wisdom, and humour.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>byoungd/English-level-up-tips</title>
-    <updated>2022-06-03T01:32:01Z</updated>
-    <id>tag:github.com,2022-06-03:/byoungd/English-level-up-tips</id>
-    <link href="https://github.com/byoungd/English-level-up-tips" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An advanced guide to learn English which might benefit you a lot 🎉 . 可能是让你受益匪浅的英语进阶指南。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>formulahendry/955.WLB</title>
-    <updated>2022-06-03T01:32:01Z</updated>
-    <id>tag:github.com,2022-06-03:/formulahendry/955.WLB</id>
-    <link href="https://github.com/formulahendry/955.WLB" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Wechat-ggGitHub/Awesome-GitHub-Repo</title>
-    <updated>2022-06-03T01:32:01Z</updated>
-    <id>tag:github.com,2022-06-03:/Wechat-ggGitHub/Awesome-GitHub-Repo</id>
-    <link href="https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;收集整理 GitHub 上高质量、有趣的开源项目。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JMousqueton/PoC-CVE-2022-30190</title>
-    <updated>2022-06-03T01:32:01Z</updated>
-    <id>tag:github.com,2022-06-03:/JMousqueton/PoC-CVE-2022-30190</id>
-    <link href="https://github.com/JMousqueton/PoC-CVE-2022-30190" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>josejesusguzman/acordeon-az900-innovaccion</title>
-    <updated>2022-06-03T01:32:01Z</updated>
-    <id>tag:github.com,2022-06-03:/josejesusguzman/acordeon-az900-innovaccion</id>
-    <link href="https://github.com/josejesusguzman/acordeon-az900-innovaccion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Aquí podrás encontrar recursos clave y adicionales para tu paso por la certificación Microsoft Azure Fundamentals AZ-900&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>MuhammedKalkan/OpenLens</title>
-    <updated>2022-06-03T01:32:01Z</updated>
-    <id>tag:github.com,2022-06-03:/MuhammedKalkan/OpenLens</id>
-    <link href="https://github.com/MuhammedKalkan/OpenLens" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OpenLens Binary Build Repository&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>penberg/awesome-low-latency</title>
-    <updated>2022-06-03T01:32:01Z</updated>
-    <id>tag:github.com,2022-06-03:/penberg/awesome-low-latency</id>
-    <link href="https://github.com/penberg/awesome-low-latency" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>xream/scripts</title>
-    <updated>2022-06-03T01:32:01Z</updated>
-    <id>tag:github.com,2022-06-03:/xream/scripts</id>
-    <link href="https://github.com/xream/scripts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>amusi/CVPR2022-Papers-with-Code</title>
-    <updated>2022-06-03T01:32:01Z</updated>
-    <id>tag:github.com,2022-06-03:/amusi/CVPR2022-Papers-with-Code</id>
-    <link href="https://github.com/amusi/CVPR2022-Papers-with-Code" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CVPR 2022 论文和开源项目合集&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>okyyds/yyds</title>
-    <updated>2022-06-03T01:32:01Z</updated>
-    <id>tag:github.com,2022-06-03:/okyyds/yyds</id>
-    <link href="https://github.com/okyyds/yyds" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>brillout/awesome-react-components</title>
-    <updated>2022-06-03T01:32:01Z</updated>
-    <id>tag:github.com,2022-06-03:/brillout/awesome-react-components</id>
-    <link href="https://github.com/brillout/awesome-react-components" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Curated List of React Components &amp; Libraries.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cutenode/1x.engineer</title>
-    <updated>2022-06-03T01:32:01Z</updated>
-    <id>tag:github.com,2022-06-03:/cutenode/1x.engineer</id>
-    <link href="https://github.com/cutenode/1x.engineer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The official website of 1x Engineers around the world&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SharingSource/LogicStack-LeetCode</title>
-    <updated>2022-06-03T01:32:01Z</updated>
-    <id>tag:github.com,2022-06-03:/SharingSource/LogicStack-LeetCode</id>
-    <link href="https://github.com/SharingSource/LogicStack-LeetCode" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;公众号「宫水三叶的刷题日记」刷穿 LeetCode 系列文章源码&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mrcodedev/frontend-developer-resources</title>
-    <updated>2022-06-03T01:32:01Z</updated>
-    <id>tag:github.com,2022-06-03:/mrcodedev/frontend-developer-resources</id>
-    <link href="https://github.com/mrcodedev/frontend-developer-resources" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Recursos gratuitos para empezar a ser un Frontend Developer o ampliar conocimientos&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>codecrafters-io/build-your-own-x</title>
+    <updated>2022-06-04T01:32:32Z</updated>
+    <id>tag:github.com,2022-06-04:/codecrafters-io/build-your-own-x</id>
+    <link href="https://github.com/codecrafters-io/build-your-own-x" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Master programming by recreating your favorite technologies from scratch.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

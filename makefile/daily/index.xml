@@ -1,56 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T01:45:06Z</updated>
+  <updated>2022-06-04T01:47:51Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>motioneye-project/motioneyeos</title>
-    <updated>2022-06-03T01:45:06Z</updated>
-    <id>tag:github.com,2022-06-03:/motioneye-project/motioneyeos</id>
-    <link href="https://github.com/motioneye-project/motioneyeos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Video Surveillance OS For Single-board Computers&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jobbole/awesome-python-cn</title>
+    <updated>2022-06-04T01:47:51Z</updated>
+    <id>tag:github.com,2022-06-04:/jobbole/awesome-python-cn</id>
+    <link href="https://github.com/jobbole/awesome-python-cn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>WICG/turtledove</title>
-    <updated>2022-06-03T01:45:06Z</updated>
-    <id>tag:github.com,2022-06-03:/WICG/turtledove</id>
-    <link href="https://github.com/WICG/turtledove" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;TURTLEDOVE&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rochacbruno/python-project-template</title>
+    <updated>2022-06-04T01:47:51Z</updated>
+    <id>tag:github.com,2022-06-04:/rochacbruno/python-project-template</id>
+    <link href="https://github.com/rochacbruno/python-project-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DO NOT FORK, CLICK ON &#34;Use this template&#34; - A github template to start a Python Project - this uses github actions to generate your project based on the template.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Clever/discovery-go</title>
-    <updated>2022-06-03T01:45:06Z</updated>
-    <id>tag:github.com,2022-06-03:/Clever/discovery-go</id>
-    <link href="https://github.com/Clever/discovery-go" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Programmatically find services&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Xilinx/Vitis_Accel_Examples</title>
-    <updated>2022-06-03T01:45:06Z</updated>
-    <id>tag:github.com,2022-06-03:/Xilinx/Vitis_Accel_Examples</id>
-    <link href="https://github.com/Xilinx/Vitis_Accel_Examples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vitis_Accel_Examples&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>upbound/build</title>
-    <updated>2022-06-03T01:45:06Z</updated>
-    <id>tag:github.com,2022-06-03:/upbound/build</id>
-    <link href="https://github.com/upbound/build" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Upbound build and CI scripts&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mesosphere/kommander-applications</title>
-    <updated>2022-06-03T01:45:06Z</updated>
-    <id>tag:github.com,2022-06-03:/mesosphere/kommander-applications</id>
-    <link href="https://github.com/mesosphere/kommander-applications" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>gobuffalo/gitgen</title>
-    <updated>2022-06-03T01:45:06Z</updated>
-    <id>tag:github.com,2022-06-03:/gobuffalo/gitgen</id>
-    <link href="https://github.com/gobuffalo/gitgen" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>manna-harbour/miryoku</title>
+    <updated>2022-06-04T01:47:51Z</updated>
+    <id>tag:github.com,2022-06-04:/manna-harbour/miryoku</id>
+    <link href="https://github.com/manna-harbour/miryoku" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

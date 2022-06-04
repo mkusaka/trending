@@ -1,35 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T01:45:23Z</updated>
+  <updated>2022-06-04T01:48:11Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera</title>
-    <updated>2022-06-03T01:45:23Z</updated>
-    <id>tag:github.com,2022-06-03:/UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera</id>
-    <link href="https://github.com/UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Contains the Course Material and Assignment Solutions for the Machine Learning Course at Stanford University on Coursera.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>macs-lab/arb-adaptive-regulation-benchmark-lv2-training</title>
+    <updated>2022-06-04T01:48:11Z</updated>
+    <id>tag:github.com,2022-06-04:/macs-lab/arb-adaptive-regulation-benchmark-lv2-training</id>
+    <link href="https://github.com/macs-lab/arb-adaptive-regulation-benchmark-lv2-training" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Azure/ccodashboard</title>
-    <updated>2022-06-03T01:45:23Z</updated>
-    <id>tag:github.com,2022-06-03:/Azure/ccodashboard</id>
-    <link href="https://github.com/Azure/ccodashboard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Welcome to the Continuous Cloud Optimization Power BI Dashboard GitHub Project. In this repository you will find all the guidance and files needed to deploy the Dashboard in your environment to take benefit of a single pane of glass to get insights about your Azure resources and services.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>fangq/jsonlab</title>
-    <updated>2022-06-03T01:45:23Z</updated>
-    <id>tag:github.com,2022-06-03:/fangq/jsonlab</id>
-    <link href="https://github.com/fangq/jsonlab" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;JSONLab: compact, portable, robust JSON/binary-JSON encoder/decoder for MATLAB/Octave&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Linfeng-Tang/Image-Fusion</title>
-    <updated>2022-06-03T01:45:23Z</updated>
-    <id>tag:github.com,2022-06-03:/Linfeng-Tang/Image-Fusion</id>
-    <link href="https://github.com/Linfeng-Tang/Image-Fusion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Deep Learning-based Image Fusion: A Survey&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dawnlh/awesome-low-light-image-enhancement</title>
+    <updated>2022-06-04T01:48:11Z</updated>
+    <id>tag:github.com,2022-06-04:/dawnlh/awesome-low-light-image-enhancement</id>
+    <link href="https://github.com/dawnlh/awesome-low-light-image-enhancement" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a resouce list for low light image enhancement&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

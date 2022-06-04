@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:32:25Z</updated>
+  <updated>2022-06-04T02:34:04Z</updated>
   <subtitle>Monthly Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>eaaasun/CCStopper</title>
-    <updated>2022-06-03T02:32:25Z</updated>
-    <id>tag:github.com,2022-06-03:/eaaasun/CCStopper</id>
-    <link href="https://github.com/eaaasun/CCStopper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Kills Adobe&#39;s pesky background apps, and more!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kmammou/v-hacd-data</title>
-    <updated>2022-06-03T02:32:25Z</updated>
-    <id>tag:github.com,2022-06-03:/kmammou/v-hacd-data</id>
-    <link href="https://github.com/kmammou/v-hacd-data" rel="alternate"></link>
+    <title>wildan444/TechToBangla</title>
+    <updated>2022-06-04T02:34:04Z</updated>
+    <id>tag:github.com,2022-06-04:/wildan444/TechToBangla</id>
+    <link href="https://github.com/wildan444/TechToBangla" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kkkgo/KMS_VL_ALL</title>
-    <updated>2022-06-03T02:32:25Z</updated>
-    <id>tag:github.com,2022-06-03:/kkkgo/KMS_VL_ALL</id>
-    <link href="https://github.com/kkkgo/KMS_VL_ALL" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔑KMS_VL_ALL - Smart Activation Script&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

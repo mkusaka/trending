@@ -1,49 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:12:38Z</updated>
+  <updated>2022-06-04T02:15:18Z</updated>
   <subtitle>Weekly Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>RelationalAI/rai-sdk-julia</title>
-    <updated>2022-06-03T02:12:38Z</updated>
-    <id>tag:github.com,2022-06-03:/RelationalAI/rai-sdk-julia</id>
-    <link href="https://github.com/RelationalAI/rai-sdk-julia" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The RelationalAI Software Development Kit (SDK) for Julia.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaPlots/Plots.jl</title>
+    <updated>2022-06-04T02:15:18Z</updated>
+    <id>tag:github.com,2022-06-04:/JuliaPlots/Plots.jl</id>
+    <link href="https://github.com/JuliaPlots/Plots.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Powerful convenience for Julia visualizations and data analysis&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JuliaData/DataFrames.jl</title>
-    <updated>2022-06-03T02:12:38Z</updated>
-    <id>tag:github.com,2022-06-03:/JuliaData/DataFrames.jl</id>
-    <link href="https://github.com/JuliaData/DataFrames.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;In-memory tabular data in Julia&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>avik-pal/Lux.jl</title>
-    <updated>2022-06-03T02:12:38Z</updated>
-    <id>tag:github.com,2022-06-03:/avik-pal/Lux.jl</id>
-    <link href="https://github.com/avik-pal/Lux.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Explicitly Parameterized Neural Networks in Julia&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bcc-research/CFMMRouter.jl</title>
-    <updated>2022-06-03T02:12:38Z</updated>
-    <id>tag:github.com,2022-06-03:/bcc-research/CFMMRouter.jl</id>
-    <link href="https://github.com/bcc-research/CFMMRouter.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Convex optimization for fun and profit. (Now in Julia!)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaLang/Pkg.jl</title>
-    <updated>2022-06-03T02:12:38Z</updated>
-    <id>tag:github.com,2022-06-03:/JuliaLang/Pkg.jl</id>
-    <link href="https://github.com/JuliaLang/Pkg.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pkg - Package manager for the Julia programming language&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>QuEraComputing/Bloqade.jl</title>
-    <updated>2022-06-03T02:12:38Z</updated>
-    <id>tag:github.com,2022-06-03:/QuEraComputing/Bloqade.jl</id>
-    <link href="https://github.com/QuEraComputing/Bloqade.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Package for the quantum computation and quantum simulation based on the neutral-atom architecture.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaGPU/CUDA.jl</title>
+    <updated>2022-06-04T02:15:18Z</updated>
+    <id>tag:github.com,2022-06-04:/JuliaGPU/CUDA.jl</id>
+    <link href="https://github.com/JuliaGPU/CUDA.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CUDA programming in Julia.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

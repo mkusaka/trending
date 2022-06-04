@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T01:47:44Z</updated>
+  <updated>2022-06-04T01:50:45Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ocaml/merlin</title>
-    <updated>2022-06-03T01:47:44Z</updated>
-    <id>tag:github.com,2022-06-03:/ocaml/merlin</id>
-    <link href="https://github.com/ocaml/merlin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Context sensitive completion for OCaml in Vim and Emacs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rescript-lang/rescript-vscode</title>
-    <updated>2022-06-03T01:47:44Z</updated>
-    <id>tag:github.com,2022-06-03:/rescript-lang/rescript-vscode</id>
-    <link href="https://github.com/rescript-lang/rescript-vscode" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Official VSCode plugin for ReScript&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

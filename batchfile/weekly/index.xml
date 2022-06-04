@@ -1,35 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:02:54Z</updated>
+  <updated>2022-06-04T02:05:48Z</updated>
   <subtitle>Weekly Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>FandyAhmadAzizi/FreeRdp-1</title>
-    <updated>2022-06-03T02:02:54Z</updated>
-    <id>tag:github.com,2022-06-03:/FandyAhmadAzizi/FreeRdp-1</id>
-    <link href="https://github.com/FandyAhmadAzizi/FreeRdp-1" rel="alternate"></link>
+    <title>kkkgo/LTSC-Add-MicrosoftStore</title>
+    <updated>2022-06-04T02:05:48Z</updated>
+    <id>tag:github.com,2022-06-04:/kkkgo/LTSC-Add-MicrosoftStore</id>
+    <link href="https://github.com/kkkgo/LTSC-Add-MicrosoftStore" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Add Windows Store for LTSC&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>brochen218/freerdp</title>
+    <updated>2022-06-04T02:05:48Z</updated>
+    <id>tag:github.com,2022-06-04:/brochen218/freerdp</id>
+    <link href="https://github.com/brochen218/freerdp" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>yaiselcubilla/-Windows2019RDP-Github</title>
-    <updated>2022-06-03T02:02:54Z</updated>
-    <id>tag:github.com,2022-06-03:/yaiselcubilla/-Windows2019RDP-Github</id>
-    <link href="https://github.com/yaiselcubilla/-Windows2019RDP-Github" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>krenx1983/openctp</title>
-    <updated>2022-06-03T02:02:54Z</updated>
-    <id>tag:github.com,2022-06-03:/krenx1983/openctp</id>
-    <link href="https://github.com/krenx1983/openctp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CTP开放平台提供A股、港股、美股、期货、期权等全品种接入通道，通过提供中泰证券XTP、华鑫证券奇点、东方证券OST、东方财富证券EMT、盈透证券TWS等各通道的CTPAPI接口，CTP程序可以无缝对接各股票柜台。平台也提供了一套基于TTS交易系统的模拟环境，同样提供了CTPAPI兼容接口，可以替代Simnow，为CTP量化交易开发者提供7x24可用的模拟环境。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sksjed/free_rdp</title>
-    <updated>2022-06-03T02:02:54Z</updated>
-    <id>tag:github.com,2022-06-03:/sksjed/free_rdp</id>
-    <link href="https://github.com/sksjed/free_rdp" rel="alternate"></link>
+    <title>Dreeg/Creazione-.doc-con-numero-progressivo</title>
+    <updated>2022-06-04T02:05:48Z</updated>
+    <id>tag:github.com,2022-06-04:/Dreeg/Creazione-.doc-con-numero-progressivo</id>
+    <link href="https://github.com/Dreeg/Creazione-.doc-con-numero-progressivo" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

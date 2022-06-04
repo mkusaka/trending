@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Stylus Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:53:38Z</updated>
+  <updated>2022-06-04T02:54:43Z</updated>
   <subtitle>Monthly Trending of Stylus in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tistory-projects/tistory-skin-hELLO</title>
-    <updated>2022-06-03T02:53:38Z</updated>
-    <id>tag:github.com,2022-06-03:/tistory-projects/tistory-skin-hELLO</id>
-    <link href="https://github.com/tistory-projects/tistory-skin-hELLO" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;✨당신의 멋진 블로그에 걸맞는 최고의 티스토리 스킨&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>probberechts/hexo-theme-cactus</title>
-    <updated>2022-06-03T02:53:38Z</updated>
-    <id>tag:github.com,2022-06-03:/probberechts/hexo-theme-cactus</id>
-    <link href="https://github.com/probberechts/hexo-theme-cactus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌵 A responsive, clean and simple theme for Hexo.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

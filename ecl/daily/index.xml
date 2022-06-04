@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ECL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T01:37:52Z</updated>
+  <updated>2022-06-04T01:39:14Z</updated>
   <subtitle>Daily Trending of ECL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>HWatanuki/TrainingPRO3601</title>
+    <updated>2022-06-04T01:39:14Z</updated>
+    <id>tag:github.com,2022-06-04:/HWatanuki/TrainingPRO3601</id>
+    <link href="https://github.com/HWatanuki/TrainingPRO3601" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repositorio da turma de PRO3601-2022&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

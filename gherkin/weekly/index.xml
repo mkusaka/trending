@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Gherkin Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:09:32Z</updated>
+  <updated>2022-06-04T02:12:21Z</updated>
   <subtitle>Weekly Trending of Gherkin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>wiris/moodle-atto_wiris</title>
-    <updated>2022-06-03T02:09:32Z</updated>
-    <id>tag:github.com,2022-06-03:/wiris/moodle-atto_wiris</id>
-    <link href="https://github.com/wiris/moodle-atto_wiris" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Moodle Atto&#39;s editor plugin for MathType, the leading formula editor and equation writer for the web by Wiris&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

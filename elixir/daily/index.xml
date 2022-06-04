@@ -1,77 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T01:38:14Z</updated>
+  <updated>2022-06-04T01:39:40Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>elixir-ecto/postgrex</title>
-    <updated>2022-06-03T01:38:14Z</updated>
-    <id>tag:github.com,2022-06-03:/elixir-ecto/postgrex</id>
-    <link href="https://github.com/elixir-ecto/postgrex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PostgreSQL driver for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>elixir-lsp/elixir-ls</title>
+    <updated>2022-06-04T01:39:40Z</updated>
+    <id>tag:github.com,2022-06-04:/elixir-lsp/elixir-ls</id>
+    <link href="https://github.com/elixir-lsp/elixir-ls" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A frontend-independent IDE &#34;smartness&#34; server for Elixir. Implements the &#34;Language Server Protocol&#34; standard and provides debugger support via the &#34;Debug Adapter Protocol&#34;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nbw/qrusty</title>
-    <updated>2022-06-03T01:38:14Z</updated>
-    <id>tag:github.com,2022-06-03:/nbw/qrusty</id>
-    <link href="https://github.com/nbw/qrusty" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elixir QR Code library that leverages precompiled Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chaskiq/ex-marcel</title>
+    <updated>2022-06-04T01:39:40Z</updated>
+    <id>tag:github.com,2022-06-04:/chaskiq/ex-marcel</id>
+    <link href="https://github.com/chaskiq/ex-marcel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Find the mime type of files, examining file, filename and declared type&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>unrelentingtech/httpotion</title>
-    <updated>2022-06-03T01:38:14Z</updated>
-    <id>tag:github.com,2022-06-03:/unrelentingtech/httpotion</id>
-    <link href="https://github.com/unrelentingtech/httpotion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;(soft-deprecated) HTTP client for Elixir (use Tesla please)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>leo-technologies-llc/fusion_auth</title>
-    <updated>2022-06-03T01:38:14Z</updated>
-    <id>tag:github.com,2022-06-03:/leo-technologies-llc/fusion_auth</id>
-    <link href="https://github.com/leo-technologies-llc/fusion_auth" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The fusion_auth library provides an Elixir API for accessing the FusionAuth Developer APIs.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pepsico-ecommerce/spandex_console</title>
-    <updated>2022-06-03T01:38:14Z</updated>
-    <id>tag:github.com,2022-06-03:/pepsico-ecommerce/spandex_console</id>
-    <link href="https://github.com/pepsico-ecommerce/spandex_console" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Console adapter/logger for Spandex traces &amp; spans.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kafkaex/kafka_ex</title>
-    <updated>2022-06-03T01:38:14Z</updated>
-    <id>tag:github.com,2022-06-03:/kafkaex/kafka_ex</id>
-    <link href="https://github.com/kafkaex/kafka_ex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Kafka client library for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>papercups-io/papercups</title>
-    <updated>2022-06-03T01:38:14Z</updated>
-    <id>tag:github.com,2022-06-03:/papercups-io/papercups</id>
-    <link href="https://github.com/papercups-io/papercups" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open-source live customer chat&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>commanded/eventstore</title>
-    <updated>2022-06-03T01:38:14Z</updated>
-    <id>tag:github.com,2022-06-03:/commanded/eventstore</id>
-    <link href="https://github.com/commanded/eventstore" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Event store using PostgreSQL for persistence&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>thoughtbot/bamboo</title>
-    <updated>2022-06-03T01:38:14Z</updated>
-    <id>tag:github.com,2022-06-03:/thoughtbot/bamboo</id>
-    <link href="https://github.com/thoughtbot/bamboo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Testable, composable, and adapter based Elixir email library for devs that love piping.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>adriankumpf/teslamate</title>
-    <updated>2022-06-03T01:38:14Z</updated>
-    <id>tag:github.com,2022-06-03:/adriankumpf/teslamate</id>
-    <link href="https://github.com/adriankumpf/teslamate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A self-hosted data logger for your Tesla 🚘&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rrrene/credo</title>
+    <updated>2022-06-04T01:39:40Z</updated>
+    <id>tag:github.com,2022-06-04:/rrrene/credo</id>
+    <link href="https://github.com/rrrene/credo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A static code analysis tool for the Elixir language with a focus on code consistency and teaching.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

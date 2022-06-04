@@ -1,42 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:07:41Z</updated>
+  <updated>2022-06-04T02:10:31Z</updated>
   <subtitle>Weekly Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>elixir-desktop/desktop</title>
-    <updated>2022-06-03T02:07:41Z</updated>
-    <id>tag:github.com,2022-06-03:/elixir-desktop/desktop</id>
-    <link href="https://github.com/elixir-desktop/desktop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elixir library to write Windows, macOS, Linux, Android apps with OTP24 &amp; Phoenix.LiveView&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>papercups-io/papercups</title>
+    <updated>2022-06-04T02:10:31Z</updated>
+    <id>tag:github.com,2022-06-04:/papercups-io/papercups</id>
+    <link href="https://github.com/papercups-io/papercups" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open-source live customer chat&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>commanded/eventstore</title>
-    <updated>2022-06-03T02:07:41Z</updated>
-    <id>tag:github.com,2022-06-03:/commanded/eventstore</id>
-    <link href="https://github.com/commanded/eventstore" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Event store using PostgreSQL for persistence&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Financial-Times/k8s_traffic_plug</title>
+    <updated>2022-06-04T02:10:31Z</updated>
+    <id>tag:github.com,2022-06-04:/Financial-Times/k8s_traffic_plug</id>
+    <link href="https://github.com/Financial-Times/k8s_traffic_plug" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Traffic endpoint and graceful shutdown for Elixir Plug apps&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bitwalker/distillery</title>
-    <updated>2022-06-03T02:07:41Z</updated>
-    <id>tag:github.com,2022-06-03:/bitwalker/distillery</id>
-    <link href="https://github.com/bitwalker/distillery" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simplify deployments in Elixir with OTP releases!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dashbitco/broadway_kafka</title>
-    <updated>2022-06-03T02:07:41Z</updated>
-    <id>tag:github.com,2022-06-03:/dashbitco/broadway_kafka</id>
-    <link href="https://github.com/dashbitco/broadway_kafka" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Broadway connector for Kafka&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>primait/teleplug</title>
-    <updated>2022-06-03T02:07:41Z</updated>
-    <id>tag:github.com,2022-06-03:/primait/teleplug</id>
-    <link href="https://github.com/primait/teleplug" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>unrelentingtech/httpotion</title>
+    <updated>2022-06-04T02:10:31Z</updated>
+    <id>tag:github.com,2022-06-04:/unrelentingtech/httpotion</id>
+    <link href="https://github.com/unrelentingtech/httpotion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;(soft-deprecated) HTTP client for Elixir (use Tesla please)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

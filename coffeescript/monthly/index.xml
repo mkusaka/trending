@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:34:35Z</updated>
+  <updated>2022-06-04T02:36:03Z</updated>
   <subtitle>Monthly Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>do39/NODEJS1</title>
+    <updated>2022-06-04T02:36:03Z</updated>
+    <id>tag:github.com,2022-06-04:/do39/NODEJS1</id>
+    <link href="https://github.com/do39/NODEJS1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Clever/saml2</title>
+    <updated>2022-06-04T02:36:03Z</updated>
+    <id>tag:github.com,2022-06-04:/Clever/saml2</id>
+    <link href="https://github.com/Clever/saml2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Node module to abstract away the complexities of the SAML protocol behind an easy to use interface.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Starlark Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:23:59Z</updated>
+  <updated>2022-06-04T02:26:00Z</updated>
   <subtitle>Weekly Trending of Starlark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cncf/xds</title>
-    <updated>2022-06-03T02:23:59Z</updated>
-    <id>tag:github.com,2022-06-03:/cncf/xds</id>
-    <link href="https://github.com/cncf/xds" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;xDS API Working Group&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bazelbuild/rules_swift</title>
-    <updated>2022-06-03T02:23:59Z</updated>
-    <id>tag:github.com,2022-06-03:/bazelbuild/rules_swift</id>
-    <link href="https://github.com/bazelbuild/rules_swift" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bazel rules to build Swift on Apple and Linux platforms&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bazelbuild/rules_apple</title>
-    <updated>2022-06-03T02:23:59Z</updated>
-    <id>tag:github.com,2022-06-03:/bazelbuild/rules_apple</id>
-    <link href="https://github.com/bazelbuild/rules_apple" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bazel rules to build apps for Apple platforms.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

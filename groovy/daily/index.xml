@@ -1,56 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T01:41:05Z</updated>
+  <updated>2022-06-04T01:42:52Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Sonal0409/Purdue_DevOps</title>
-    <updated>2022-06-03T01:41:05Z</updated>
-    <id>tag:github.com,2022-06-03:/Sonal0409/Purdue_DevOps</id>
-    <link href="https://github.com/Sonal0409/Purdue_DevOps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gravitee-io/issues</title>
+    <updated>2022-06-04T01:42:52Z</updated>
+    <id>tag:github.com,2022-06-04:/gravitee-io/issues</id>
+    <link href="https://github.com/gravitee-io/issues" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gravitee.io - API Platform - Issues&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>elastic/apm-pipeline-library</title>
-    <updated>2022-06-03T01:41:05Z</updated>
-    <id>tag:github.com,2022-06-03:/elastic/apm-pipeline-library</id>
-    <link href="https://github.com/elastic/apm-pipeline-library" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Jenkins pipeline shared library for the APM project&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>macloujulian/jenkins.job.parametrizado</title>
+    <updated>2022-06-04T01:42:52Z</updated>
+    <id>tag:github.com,2022-06-04:/macloujulian/jenkins.job.parametrizado</id>
+    <link href="https://github.com/macloujulian/jenkins.job.parametrizado" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;El mismo Job parametrizado 1 pero alojado en este repositorio&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>elastic/elasticsearch-groovy</title>
-    <updated>2022-06-03T01:41:05Z</updated>
-    <id>tag:github.com,2022-06-03:/elastic/elasticsearch-groovy</id>
-    <link href="https://github.com/elastic/elasticsearch-groovy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elasticsearch Groovy client&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jenkinsci/JenkinsPipelineUnit</title>
-    <updated>2022-06-03T01:41:05Z</updated>
-    <id>tag:github.com,2022-06-03:/jenkinsci/JenkinsPipelineUnit</id>
-    <link href="https://github.com/jenkinsci/JenkinsPipelineUnit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Framework for unit testing Jenkins pipelines&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>g0t4/course-jenkins-getting-started</title>
-    <updated>2022-06-03T01:41:05Z</updated>
-    <id>tag:github.com,2022-06-03:/g0t4/course-jenkins-getting-started</id>
-    <link href="https://github.com/g0t4/course-jenkins-getting-started" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Jenkins Getting Started (jgsu) Course Materials - An update to my initial version of the course&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JetBrains/gradle-idea-ext-plugin</title>
-    <updated>2022-06-03T01:41:05Z</updated>
-    <id>tag:github.com,2022-06-03:/JetBrains/gradle-idea-ext-plugin</id>
-    <link href="https://github.com/JetBrains/gradle-idea-ext-plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Plugin to store IJ settings in gradle script&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>olxbr/gradle-plugins</title>
-    <updated>2022-06-03T01:41:05Z</updated>
-    <id>tag:github.com,2022-06-03:/olxbr/gradle-plugins</id>
-    <link href="https://github.com/olxbr/gradle-plugins" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gradle plugins that can be used for several projects&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>adnlos/alumno-curso</title>
+    <updated>2022-06-04T01:42:52Z</updated>
+    <id>tag:github.com,2022-06-04:/adnlos/alumno-curso</id>
+    <link href="https://github.com/adnlos/alumno-curso" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Proyecto roswell&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T01:35:57Z</updated>
+  <updated>2022-06-04T01:37:05Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>LinkFly/ql-libs-analizing</title>
-    <updated>2022-06-03T01:35:57Z</updated>
-    <id>tag:github.com,2022-06-03:/LinkFly/ql-libs-analizing</id>
-    <link href="https://github.com/LinkFly/ql-libs-analizing" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Library for the analisys of state opensource quicklisp libraries&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Library for analizing quicklisp-libraries state. See README_ru&lt;/p&gt;</summary>
+    <title>facts-db/cl-rollback</title>
+    <updated>2022-06-04T01:37:05Z</updated>
+    <id>tag:github.com,2022-06-04:/facts-db/cl-rollback</id>
+    <link href="https://github.com/facts-db/cl-rollback" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rollback functions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

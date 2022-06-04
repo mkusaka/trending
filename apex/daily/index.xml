@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Apex Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T01:33:02Z</updated>
+  <updated>2022-06-04T01:33:40Z</updated>
   <subtitle>Daily Trending of Apex in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>forcedotcom/sfdx-circleci</title>
-    <updated>2022-06-03T01:33:02Z</updated>
-    <id>tag:github.com,2022-06-03:/forcedotcom/sfdx-circleci</id>
-    <link href="https://github.com/forcedotcom/sfdx-circleci" rel="alternate"></link>
+    <title>vitapramdevputra/Falcons6Dev</title>
+    <updated>2022-06-04T01:33:40Z</updated>
+    <id>tag:github.com,2022-06-04:/vitapramdevputra/Falcons6Dev</id>
+    <link href="https://github.com/vitapramdevputra/Falcons6Dev" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>litify/f.orm</title>
-    <updated>2022-06-03T01:33:02Z</updated>
-    <id>tag:github.com,2022-06-03:/litify/f.orm</id>
-    <link href="https://github.com/litify/f.orm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;(yet another) Force.com ORM&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>forcedotcom/sfdx-bitbucket-org</title>
+    <updated>2022-06-04T01:33:40Z</updated>
+    <id>tag:github.com,2022-06-04:/forcedotcom/sfdx-bitbucket-org</id>
+    <link href="https://github.com/forcedotcom/sfdx-bitbucket-org" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bitbucket Pipelines examples with org development&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

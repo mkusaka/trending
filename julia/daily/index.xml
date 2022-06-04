@@ -1,91 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T01:43:10Z</updated>
+  <updated>2022-06-04T01:45:24Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fonsp/Pluto.jl</title>
-    <updated>2022-06-03T01:43:10Z</updated>
-    <id>tag:github.com,2022-06-03:/fonsp/Pluto.jl</id>
-    <link href="https://github.com/fonsp/Pluto.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎈 Simple reactive notebooks for Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaLang/IJulia.jl</title>
+    <updated>2022-06-04T01:45:24Z</updated>
+    <id>tag:github.com,2022-06-04:/JuliaLang/IJulia.jl</id>
+    <link href="https://github.com/JuliaLang/IJulia.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Julia kernel for Jupyter&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>GenieFramework/Genie.jl</title>
-    <updated>2022-06-03T01:43:10Z</updated>
-    <id>tag:github.com,2022-06-03:/GenieFramework/Genie.jl</id>
-    <link href="https://github.com/GenieFramework/Genie.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🧞The highly productive Julia web framework&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SciML/SciMLDocs</title>
+    <updated>2022-06-04T01:45:24Z</updated>
+    <id>tag:github.com,2022-06-04:/SciML/SciMLDocs</id>
+    <link href="https://github.com/SciML/SciMLDocs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>IsaacRudich/BipartiteMatching.jl</title>
-    <updated>2022-06-03T01:43:10Z</updated>
-    <id>tag:github.com,2022-06-03:/IsaacRudich/BipartiteMatching.jl</id>
-    <link href="https://github.com/IsaacRudich/BipartiteMatching.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fast and scalable max cardinality matching for bipartite graphs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SciML/Optimization.jl</title>
-    <updated>2022-06-03T01:43:10Z</updated>
-    <id>tag:github.com,2022-06-03:/SciML/Optimization.jl</id>
-    <link href="https://github.com/SciML/Optimization.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Local, global, and beyond optimization for scientific machine learning (SciML)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>CliMA/ClimaCore.jl</title>
-    <updated>2022-06-03T01:43:10Z</updated>
-    <id>tag:github.com,2022-06-03:/CliMA/ClimaCore.jl</id>
-    <link href="https://github.com/CliMA/ClimaCore.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CliMA model dycore&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>FedeClaudi/Term.jl</title>
-    <updated>2022-06-03T01:43:10Z</updated>
-    <id>tag:github.com,2022-06-03:/FedeClaudi/Term.jl</id>
-    <link href="https://github.com/FedeClaudi/Term.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Julia library for stylized terminal output&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SciML/Integrals.jl</title>
-    <updated>2022-06-03T01:43:10Z</updated>
-    <id>tag:github.com,2022-06-03:/SciML/Integrals.jl</id>
-    <link href="https://github.com/SciML/Integrals.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A common interface for quadrature and numerical integration for the SciML scientific machine learning organization&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaML/MLUtils.jl</title>
-    <updated>2022-06-03T01:43:10Z</updated>
-    <id>tag:github.com,2022-06-03:/JuliaML/MLUtils.jl</id>
-    <link href="https://github.com/JuliaML/MLUtils.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Utilities and abstractions for Machine Learning tasks&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaPy/PyCall.jl</title>
-    <updated>2022-06-03T01:43:10Z</updated>
-    <id>tag:github.com,2022-06-03:/JuliaPy/PyCall.jl</id>
-    <link href="https://github.com/JuliaPy/PyCall.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Package to call Python functions from the Julia language&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>aenarete/KiteSimulators.jl</title>
-    <updated>2022-06-03T01:43:10Z</updated>
-    <id>tag:github.com,2022-06-03:/aenarete/KiteSimulators.jl</id>
-    <link href="https://github.com/aenarete/KiteSimulators.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simulators for kite power systems&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>KristofferC/OhMyREPL.jl</title>
-    <updated>2022-06-03T01:43:10Z</updated>
-    <id>tag:github.com,2022-06-03:/KristofferC/OhMyREPL.jl</id>
-    <link href="https://github.com/KristofferC/OhMyREPL.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Syntax highlighting and other enhancements for the Julia REPL&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>QuEraComputing/Bloqade.jl</title>
-    <updated>2022-06-03T01:43:10Z</updated>
-    <id>tag:github.com,2022-06-03:/QuEraComputing/Bloqade.jl</id>
-    <link href="https://github.com/QuEraComputing/Bloqade.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Package for the quantum computation and quantum simulation based on the neutral-atom architecture.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SciML/NeuralPDE.jl</title>
+    <updated>2022-06-04T01:45:24Z</updated>
+    <id>tag:github.com,2022-06-04:/SciML/NeuralPDE.jl</id>
+    <link href="https://github.com/SciML/NeuralPDE.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Physics-Informed Neural Networks (PINN) and Deep BSDE Solvers of Differential Equations for Scientific Machine Learning (SciML) accelerated simulation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

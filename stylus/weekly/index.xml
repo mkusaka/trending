@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Stylus Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:24:08Z</updated>
+  <updated>2022-06-04T02:26:08Z</updated>
   <subtitle>Weekly Trending of Stylus in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>probberechts/hexo-theme-cactus</title>
-    <updated>2022-06-03T02:24:08Z</updated>
-    <id>tag:github.com,2022-06-03:/probberechts/hexo-theme-cactus</id>
-    <link href="https://github.com/probberechts/hexo-theme-cactus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌵 A responsive, clean and simple theme for Hexo.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

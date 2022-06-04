@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Classic ASP Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:04:28Z</updated>
+  <updated>2022-06-04T02:07:19Z</updated>
   <subtitle>Weekly Trending of Classic ASP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rayzorgod/GitWebsite</title>
-    <updated>2022-06-03T02:04:28Z</updated>
-    <id>tag:github.com,2022-06-03:/rayzorgod/GitWebsite</id>
-    <link href="https://github.com/rayzorgod/GitWebsite" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>RainerAtSpirit/DVWP-HTML5</title>
+    <updated>2022-06-04T02:07:19Z</updated>
+    <id>tag:github.com,2022-06-04:/RainerAtSpirit/DVWP-HTML5</id>
+    <link href="https://github.com/RainerAtSpirit/DVWP-HTML5" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SharePoint Data Form Web Part (DVWP) in a HTML5 world&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

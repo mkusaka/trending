@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pug Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T01:50:02Z</updated>
+  <updated>2022-06-04T01:53:04Z</updated>
   <subtitle>Daily Trending of Pug in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Azure/actions-workflow-samples</title>
-    <updated>2022-06-03T01:50:02Z</updated>
-    <id>tag:github.com,2022-06-03:/Azure/actions-workflow-samples</id>
-    <link href="https://github.com/Azure/actions-workflow-samples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Help developers to easily get started with GitHub Action workflows to deploy to Azure&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Einundzwanzig-Podcast/einundzwanzig.space</title>
+    <updated>2022-06-04T01:53:04Z</updated>
+    <id>tag:github.com,2022-06-04:/Einundzwanzig-Podcast/einundzwanzig.space</id>
+    <link href="https://github.com/Einundzwanzig-Podcast/einundzwanzig.space" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Einundzwanzig Podcast Website&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

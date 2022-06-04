@@ -1,42 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:14:42Z</updated>
+  <updated>2022-06-04T02:17:12Z</updated>
   <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>foostan/crkbd</title>
-    <updated>2022-06-03T02:14:42Z</updated>
-    <id>tag:github.com,2022-06-03:/foostan/crkbd</id>
-    <link href="https://github.com/foostan/crkbd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>emlid/code-quality</title>
+    <updated>2022-06-04T02:17:12Z</updated>
+    <id>tag:github.com,2022-06-04:/emlid/code-quality</id>
+    <link href="https://github.com/emlid/code-quality" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Emlid coding style&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>niudai/How-to-be-a-good-programmer</title>
-    <updated>2022-06-03T02:14:42Z</updated>
-    <id>tag:github.com,2022-06-03:/niudai/How-to-be-a-good-programmer</id>
-    <link href="https://github.com/niudai/How-to-be-a-good-programmer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;I&#39;m here to tell you some amazing stuff which teacher would never tell you.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>spdx/license-list-XML</title>
+    <updated>2022-06-04T02:17:12Z</updated>
+    <id>tag:github.com,2022-06-04:/spdx/license-list-XML</id>
+    <link href="https://github.com/spdx/license-list-XML" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is the repository for the master files that comprise the SPDX License List&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>motioneye-project/motioneyeos</title>
-    <updated>2022-06-03T02:14:42Z</updated>
-    <id>tag:github.com,2022-06-03:/motioneye-project/motioneyeos</id>
-    <link href="https://github.com/motioneye-project/motioneyeos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Video Surveillance OS For Single-board Computers&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>counteractive/incident-response-plan-template</title>
-    <updated>2022-06-03T02:14:42Z</updated>
-    <id>tag:github.com,2022-06-03:/counteractive/incident-response-plan-template</id>
-    <link href="https://github.com/counteractive/incident-response-plan-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A concise, directive, specific, flexible, and free incident response plan template&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>anncode1/Curso-de-Flutter-Avanzado-en-Platzi</title>
-    <updated>2022-06-03T02:14:42Z</updated>
-    <id>tag:github.com,2022-06-03:/anncode1/Curso-de-Flutter-Avanzado-en-Platzi</id>
-    <link href="https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>moul/http2curl</title>
+    <updated>2022-06-04T02:17:12Z</updated>
+    <id>tag:github.com,2022-06-04:/moul/http2curl</id>
+    <link href="https://github.com/moul/http2curl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📐 Convert Golang&#39;s http.Request to CURL command line&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

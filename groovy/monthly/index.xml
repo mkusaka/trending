@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:40:41Z</updated>
+  <updated>2022-06-04T02:41:46Z</updated>
   <subtitle>Monthly Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>elastic/elasticsearch-groovy</title>
-    <updated>2022-06-03T02:40:41Z</updated>
-    <id>tag:github.com,2022-06-03:/elastic/elasticsearch-groovy</id>
-    <link href="https://github.com/elastic/elasticsearch-groovy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elasticsearch Groovy client&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zeyangli/jenkinslibrary</title>
+    <updated>2022-06-04T02:41:46Z</updated>
+    <id>tag:github.com,2022-06-04:/zeyangli/jenkinslibrary</id>
+    <link href="https://github.com/zeyangli/jenkinslibrary" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jenkins共享库&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fison67/mi_connector</title>
+    <updated>2022-06-04T02:41:46Z</updated>
+    <id>tag:github.com,2022-06-04:/fison67/mi_connector</id>
+    <link href="https://github.com/fison67/mi_connector" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Connector for Xiaomi Devices with Smartthings, Hubitat&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

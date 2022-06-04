@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:56:36Z</updated>
+  <updated>2022-06-04T02:57:43Z</updated>
   <subtitle>Monthly Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>xugaoyi/vuepress-theme-vdoing</title>
-    <updated>2022-06-03T02:56:36Z</updated>
-    <id>tag:github.com,2022-06-03:/xugaoyi/vuepress-theme-vdoing</id>
-    <link href="https://github.com/xugaoyi/vuepress-theme-vdoing" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🚀一款简洁高效的VuePress知识管理&amp;博客(blog)主题&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>buefy/buefy</title>
+    <updated>2022-06-04T02:57:43Z</updated>
+    <id>tag:github.com,2022-06-04:/buefy/buefy</id>
+    <link href="https://github.com/buefy/buefy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lightweight UI components for Vue.js based on Bulma&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>DataV-Team/DataV</title>
+    <updated>2022-06-04T02:57:43Z</updated>
+    <id>tag:github.com,2022-06-04:/DataV-Team/DataV</id>
+    <link href="https://github.com/DataV-Team/DataV" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Armour/vue-typescript-admin-template</title>
+    <updated>2022-06-04T02:57:43Z</updated>
+    <id>tag:github.com,2022-06-04:/Armour/vue-typescript-admin-template</id>
+    <link href="https://github.com/Armour/vue-typescript-admin-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🖖 A vue-cli 3.0 + typescript minimal admin template&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

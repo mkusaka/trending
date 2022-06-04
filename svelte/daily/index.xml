@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T01:54:15Z</updated>
+  <updated>2022-06-04T01:57:12Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>svelteuidev/svelteui</title>
-    <updated>2022-06-03T01:54:15Z</updated>
-    <id>tag:github.com,2022-06-03:/svelteuidev/svelteui</id>
-    <link href="https://github.com/svelteuidev/svelteui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SvelteUI Monorepo&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>oslabs-beta/Svelvet</title>
+    <updated>2022-06-04T01:57:12Z</updated>
+    <id>tag:github.com,2022-06-04:/oslabs-beta/Svelvet</id>
+    <link href="https://github.com/oslabs-beta/Svelvet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A lightweight Svelte component library for building interactive node-based flow diagrams&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>oslabs-beta/Svetch</title>
-    <updated>2022-06-03T01:54:15Z</updated>
-    <id>tag:github.com,2022-06-03:/oslabs-beta/Svetch</id>
-    <link href="https://github.com/oslabs-beta/Svetch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>windmill-labs/windmill</title>
+    <updated>2022-06-04T01:57:12Z</updated>
+    <id>tag:github.com,2022-06-04:/windmill-labs/windmill</id>
+    <link href="https://github.com/windmill-labs/windmill" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Windmill is an OSS developer platform to quickly build production-grade multi-steps automations and internal apps from minimal Python and Typescript scripts.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ANovokmet/svelte-gantt</title>
+    <updated>2022-06-04T01:57:12Z</updated>
+    <id>tag:github.com,2022-06-04:/ANovokmet/svelte-gantt</id>
+    <link href="https://github.com/ANovokmet/svelte-gantt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📆 Interactive JavaScript Gantt chart/resource booking component&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

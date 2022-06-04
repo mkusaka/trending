@@ -1,35 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PureScript Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:49:56Z</updated>
+  <updated>2022-06-04T02:50:56Z</updated>
   <subtitle>Monthly Trending of PureScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sharkdp/insect</title>
-    <updated>2022-06-03T02:49:56Z</updated>
-    <id>tag:github.com,2022-06-03:/sharkdp/insect</id>
-    <link href="https://github.com/sharkdp/insect" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;High precision scientific calculator with support for physical units&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript/purescript-functions</title>
+    <updated>2022-06-04T02:50:56Z</updated>
+    <id>tag:github.com,2022-06-04:/purescript/purescript-functions</id>
+    <link href="https://github.com/purescript/purescript-functions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Function combinators and types for multi-argument functions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purescript/purescript-functors</title>
-    <updated>2022-06-03T02:49:56Z</updated>
-    <id>tag:github.com,2022-06-03:/purescript/purescript-functors</id>
-    <link href="https://github.com/purescript/purescript-functors" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Functor products, coproducts, and composition&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>purescript/purescript-maybe</title>
-    <updated>2022-06-03T02:49:56Z</updated>
-    <id>tag:github.com,2022-06-03:/purescript/purescript-maybe</id>
-    <link href="https://github.com/purescript/purescript-maybe" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Optional values&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>purescript/purescript-newtype</title>
-    <updated>2022-06-03T02:49:56Z</updated>
-    <id>tag:github.com,2022-06-03:/purescript/purescript-newtype</id>
-    <link href="https://github.com/purescript/purescript-newtype" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Type class and functions for working with newtypes&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript/purescript-invariant</title>
+    <updated>2022-06-04T02:50:56Z</updated>
+    <id>tag:github.com,2022-06-04:/purescript/purescript-invariant</id>
+    <link href="https://github.com/purescript/purescript-invariant" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Invariant functors&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

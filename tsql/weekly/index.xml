@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:25:35Z</updated>
+  <updated>2022-06-04T02:27:31Z</updated>
   <subtitle>Weekly Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TdP-esami/2020-07-14</title>
-    <updated>2022-06-03T02:25:35Z</updated>
-    <id>tag:github.com,2022-06-03:/TdP-esami/2020-07-14</id>
-    <link href="https://github.com/TdP-esami/2020-07-14" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tema d&#39;esame del 14/07/2020 (PremierLeague, simulazione)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cisagov/cset</title>
-    <updated>2022-06-03T02:25:35Z</updated>
-    <id>tag:github.com,2022-06-03:/cisagov/cset</id>
-    <link href="https://github.com/cisagov/cset" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cybersecurity Evaluation Tool&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TdP-esami/2020-06-29-M</title>
+    <updated>2022-06-04T02:27:31Z</updated>
+    <id>tag:github.com,2022-06-04:/TdP-esami/2020-06-29-M</id>
+    <link href="https://github.com/TdP-esami/2020-06-29-M" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tema d&#39;esame del 29/06/2020, turno Mattino&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

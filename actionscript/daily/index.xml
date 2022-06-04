@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T01:32:30Z</updated>
+  <updated>2022-06-04T01:33:05Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>prefuse/Flare</title>
-    <updated>2022-06-03T01:32:30Z</updated>
-    <id>tag:github.com,2022-06-03:/prefuse/Flare</id>
-    <link href="https://github.com/prefuse/Flare" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Flare is an ActionScript library for creating visualizations that run in the Adobe Flash Player. From basic charts and graphs to complex interactive graphics, the toolkit supports data management, visual encoding, animation, and interaction techniques.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>flashgame/FiCharts</title>
-    <updated>2022-06-03T01:32:30Z</updated>
-    <id>tag:github.com,2022-06-03:/flashgame/FiCharts</id>
-    <link href="https://github.com/flashgame/FiCharts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a Flash charts component based at as3 which can be used in web/Flash/Flex/AIR/etc. projects. It is beautiful and smart, easy to use, make data fly! you can find demo and documents at www.ficharts.com. hava any question mail to wallenEmail@gmail.com&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Gamua/Starling-Framework</title>
-    <updated>2022-06-03T01:32:30Z</updated>
-    <id>tag:github.com,2022-06-03:/Gamua/Starling-Framework</id>
-    <link href="https://github.com/Gamua/Starling-Framework" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Cross Platform Game Engine&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>neopoly/flash_asset_resolver</title>
+    <updated>2022-06-04T01:33:05Z</updated>
+    <id>tag:github.com,2022-06-04:/neopoly/flash_asset_resolver</id>
+    <link href="https://github.com/neopoly/flash_asset_resolver" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💀 DEPRECATED. Utilise rails manifest.json to resolve asset paths (and leave room to use other path resolver, too)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

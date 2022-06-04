@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Squirrel Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T01:53:47Z</updated>
+  <updated>2022-06-04T01:56:46Z</updated>
   <subtitle>Daily Trending of Squirrel in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>samisalreadytaken/csgo-benchmark</title>
-    <updated>2022-06-03T01:53:47Z</updated>
-    <id>tag:github.com,2022-06-03:/samisalreadytaken/csgo-benchmark</id>
-    <link href="https://github.com/samisalreadytaken/csgo-benchmark" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Benchmark CS:GO on any map&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,84 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:01:03Z</updated>
+  <updated>2022-06-04T02:04:04Z</updated>
   <subtitle>Weekly Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>khangich/machine-learning-interview</title>
-    <updated>2022-06-03T02:01:03Z</updated>
-    <id>tag:github.com,2022-06-03:/khangich/machine-learning-interview</id>
-    <link href="https://github.com/khangich/machine-learning-interview" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>randorisec/MobileHackingCheatSheet</title>
+    <updated>2022-06-04T02:04:04Z</updated>
+    <id>tag:github.com,2022-06-04:/randorisec/MobileHackingCheatSheet</id>
+    <link href="https://github.com/randorisec/MobileHackingCheatSheet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Basics on commands/tools/info on how to assess the security of mobile applications&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>coderQuad/New-Grad-Positions-2023</title>
-    <updated>2022-06-03T02:01:03Z</updated>
-    <id>tag:github.com,2022-06-03:/coderQuad/New-Grad-Positions-2023</id>
-    <link href="https://github.com/coderQuad/New-Grad-Positions-2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of New Grad full time roles in SWE, Quant, and PM.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>byoungd/English-level-up-tips</title>
+    <updated>2022-06-04T02:04:04Z</updated>
+    <id>tag:github.com,2022-06-04:/byoungd/English-level-up-tips</id>
+    <link href="https://github.com/byoungd/English-level-up-tips" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An advanced guide to learn English which might benefit you a lot 🎉 . 可能是让你受益匪浅的英语进阶指南。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ruanyf/weekly</title>
-    <updated>2022-06-03T02:01:03Z</updated>
-    <id>tag:github.com,2022-06-03:/ruanyf/weekly</id>
-    <link href="https://github.com/ruanyf/weekly" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;科技爱好者周刊，每周五发布&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>eryajf/Thanks-Mirror</title>
-    <updated>2022-06-03T02:01:03Z</updated>
-    <id>tag:github.com,2022-06-03:/eryajf/Thanks-Mirror</id>
-    <link href="https://github.com/eryajf/Thanks-Mirror" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。 走过路过，如觉不错，麻烦点个赞👆🌟&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jlevy/the-art-of-command-line</title>
-    <updated>2022-06-03T02:01:03Z</updated>
-    <id>tag:github.com,2022-06-03:/jlevy/the-art-of-command-line</id>
-    <link href="https://github.com/jlevy/the-art-of-command-line" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Master the command line, in one page&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters</title>
-    <updated>2022-06-03T02:01:03Z</updated>
-    <id>tag:github.com,2022-06-03:/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters</id>
-    <link href="https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A list of resources for those interested in getting started in bug bounties&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>MoienTajik/AspNetCore-Developer-Roadmap</title>
-    <updated>2022-06-03T02:01:03Z</updated>
-    <id>tag:github.com,2022-06-03:/MoienTajik/AspNetCore-Developer-Roadmap</id>
-    <link href="https://github.com/MoienTajik/AspNetCore-Developer-Roadmap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Roadmap to becoming an ASP.NET Core developer in 2022&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>zijie0/HumanSystemOptimization</title>
-    <updated>2022-06-03T02:01:03Z</updated>
-    <id>tag:github.com,2022-06-03:/zijie0/HumanSystemOptimization</id>
-    <link href="https://github.com/zijie0/HumanSystemOptimization" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;健康学习到150岁 - 人体系统调优不完全指南&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Tangent-Wei/crypto_info</title>
-    <updated>2022-06-03T02:01:03Z</updated>
-    <id>tag:github.com,2022-06-03:/Tangent-Wei/crypto_info</id>
-    <link href="https://github.com/Tangent-Wei/crypto_info" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;全网最全-币圈区块链各类常用工具与相关信息资料大全-虚拟加密货币-欧易币安-NFT-Defi-加密钱包-比特币-新手入门教程-crypto info -持续更新&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ossu/computer-science</title>
-    <updated>2022-06-03T02:01:03Z</updated>
-    <id>tag:github.com,2022-06-03:/ossu/computer-science</id>
-    <link href="https://github.com/ossu/computer-science" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎓 Path to a free self-taught education in Computer Science!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>formulahendry/955.WLB</title>
-    <updated>2022-06-03T02:01:03Z</updated>
-    <id>tag:github.com,2022-06-03:/formulahendry/955.WLB</id>
-    <link href="https://github.com/formulahendry/955.WLB" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>xlc520/MaoTV</title>
+    <updated>2022-06-04T02:04:04Z</updated>
+    <id>tag:github.com,2022-06-04:/xlc520/MaoTV</id>
+    <link href="https://github.com/xlc520/MaoTV" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;猫影视资源接口&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

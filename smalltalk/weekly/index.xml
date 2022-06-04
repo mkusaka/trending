@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:23:18Z</updated>
+  <updated>2022-06-04T02:25:21Z</updated>
   <subtitle>Weekly Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>feenkcom/gtoolkit-visualizer</title>
-    <updated>2022-06-03T02:23:18Z</updated>
-    <id>tag:github.com,2022-06-03:/feenkcom/gtoolkit-visualizer</id>
-    <link href="https://github.com/feenkcom/gtoolkit-visualizer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A set of visualization engines.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>moosetechnology/PetitParser</title>
+    <updated>2022-06-04T02:25:21Z</updated>
+    <id>tag:github.com,2022-06-04:/moosetechnology/PetitParser</id>
+    <link href="https://github.com/moosetechnology/PetitParser" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Petit Parser is a framework for building parsers.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>feenkcom/gtoolkit-gleam</title>
-    <updated>2022-06-03T02:23:18Z</updated>
-    <id>tag:github.com,2022-06-03:/feenkcom/gtoolkit-gleam</id>
-    <link href="https://github.com/feenkcom/gtoolkit-gleam" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;C wrapper around OpenGL bindings for Servo&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>svenvc/NeoCSV</title>
+    <updated>2022-06-04T02:25:21Z</updated>
+    <id>tag:github.com,2022-06-04:/svenvc/NeoCSV</id>
+    <link href="https://github.com/svenvc/NeoCSV" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NeoCSV is an elegant and efficient standalone Smalltalk framework to read and write CSV converting to or from Smalltalk objects.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>feenkcom/gt4dockerengine</title>
-    <updated>2022-06-03T02:23:18Z</updated>
-    <id>tag:github.com,2022-06-03:/feenkcom/gt4dockerengine</id>
-    <link href="https://github.com/feenkcom/gt4dockerengine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Glamorous Toolkit extensions for Docker Engine&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pharo-ide/Ghost</title>
+    <updated>2022-06-04T02:25:21Z</updated>
+    <id>tag:github.com,2022-06-04:/pharo-ide/Ghost</id>
+    <link href="https://github.com/pharo-ide/Ghost" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ghost is framework to implement unnatural smalltalk objects like proxies or prototypes&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,98 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T01:52:18Z</updated>
+  <updated>2022-06-04T01:55:25Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Tyh2001/fighting-design</title>
-    <updated>2022-06-03T01:52:18Z</updated>
-    <id>tag:github.com,2022-06-03:/Tyh2001/fighting-design</id>
-    <link href="https://github.com/Tyh2001/fighting-design" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎨 Fighting Design 是一款使用 TypeScript + Template 编写的 Vue3 轻量级组件库。（Fighting design is a Vue3 lightweight component library written with TypeScript + Template.）&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>compose-spec/compose-spec</title>
+    <updated>2022-06-04T01:55:25Z</updated>
+    <id>tag:github.com,2022-06-04:/compose-spec/compose-spec</id>
+    <link href="https://github.com/compose-spec/compose-spec" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Compose specification&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kathleenmariekelly/dreamprojecttemplate</title>
-    <updated>2022-06-03T01:52:18Z</updated>
-    <id>tag:github.com,2022-06-03:/kathleenmariekelly/dreamprojecttemplate</id>
-    <link href="https://github.com/kathleenmariekelly/dreamprojecttemplate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pin4eva/envo</title>
+    <updated>2022-06-04T01:55:25Z</updated>
+    <id>tag:github.com,2022-06-04:/pin4eva/envo</id>
+    <link href="https://github.com/pin4eva/envo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rivers State ICT (Techcreek) Codegaminator 10.0&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CapSens/light_admin</title>
-    <updated>2022-06-03T01:52:18Z</updated>
-    <id>tag:github.com,2022-06-03:/CapSens/light_admin</id>
-    <link href="https://github.com/CapSens/light_admin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple, minimal theme for activeadmin.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pages-themes/slate</title>
-    <updated>2022-06-03T01:52:18Z</updated>
-    <id>tag:github.com,2022-06-03:/pages-themes/slate</id>
-    <link href="https://github.com/pages-themes/slate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Slate is a Jekyll theme for GitHub Pages&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>shopizer-ecommerce/shopizer-admin</title>
-    <updated>2022-06-03T01:52:18Z</updated>
-    <id>tag:github.com,2022-06-03:/shopizer-ecommerce/shopizer-admin</id>
-    <link href="https://github.com/shopizer-ecommerce/shopizer-admin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ansohxxn/ansohxxn.github.io</title>
-    <updated>2022-06-03T01:52:18Z</updated>
-    <id>tag:github.com,2022-06-03:/ansohxxn/ansohxxn.github.io</id>
-    <link href="https://github.com/ansohxxn/ansohxxn.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌝 블로그 포스팅과 커스터마이징을 하는 공간입니다.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>snapshot-labs/snapshot-spaces</title>
-    <updated>2022-06-03T01:52:18Z</updated>
-    <id>tag:github.com,2022-06-03:/snapshot-labs/snapshot-spaces</id>
-    <link href="https://github.com/snapshot-labs/snapshot-spaces" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mate-academy/layout_miami</title>
-    <updated>2022-06-03T01:52:18Z</updated>
-    <id>tag:github.com,2022-06-03:/mate-academy/layout_miami</id>
-    <link href="https://github.com/mate-academy/layout_miami" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>flutter/website</title>
-    <updated>2022-06-03T01:52:18Z</updated>
-    <id>tag:github.com,2022-06-03:/flutter/website</id>
-    <link href="https://github.com/flutter/website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Flutter documentation web site&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>caraml-group/website</title>
-    <updated>2022-06-03T01:52:18Z</updated>
-    <id>tag:github.com,2022-06-03:/caraml-group/website</id>
-    <link href="https://github.com/caraml-group/website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Content for the CaRAML website&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rozniak/xfce-winxp-tc</title>
-    <updated>2022-06-03T01:52:18Z</updated>
-    <id>tag:github.com,2022-06-03:/rozniak/xfce-winxp-tc</id>
-    <link href="https://github.com/rozniak/xfce-winxp-tc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Windows XP stuff for XFCE&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Hacker0x01/hacker101</title>
-    <updated>2022-06-03T01:52:18Z</updated>
-    <id>tag:github.com,2022-06-03:/Hacker0x01/hacker101</id>
-    <link href="https://github.com/Hacker0x01/hacker101" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Source code for Hacker101.com - a free online web and mobile security class.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sujaykundu777/devlopr-jekyll</title>
-    <updated>2022-06-03T01:52:18Z</updated>
-    <id>tag:github.com,2022-06-03:/sujaykundu777/devlopr-jekyll</id>
-    <link href="https://github.com/sujaykundu777/devlopr-jekyll" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Launch your Static Jekyll Site/Blog 🚀 in minutes built for developers.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pages-themes/cayman</title>
+    <updated>2022-06-04T01:55:25Z</updated>
+    <id>tag:github.com,2022-06-04:/pages-themes/cayman</id>
+    <link href="https://github.com/pages-themes/cayman" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cayman is a Jekyll theme for GitHub Pages&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

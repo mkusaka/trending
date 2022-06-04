@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:04:38Z</updated>
+  <updated>2022-06-04T02:07:32Z</updated>
   <subtitle>Weekly Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>penpot/penpot</title>
-    <updated>2022-06-03T02:04:38Z</updated>
-    <id>tag:github.com,2022-06-03:/penpot/penpot</id>
-    <link href="https://github.com/penpot/penpot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Penpot - The Open-Source design &amp; prototyping platform&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>liquidz/build.edn</title>
+    <updated>2022-06-04T02:07:32Z</updated>
+    <id>tag:github.com,2022-06-04:/liquidz/build.edn</id>
+    <link href="https://github.com/liquidz/build.edn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Make your Clojure library build process easy.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>thheller/shadow-cljs</title>
+    <updated>2022-06-04T02:07:32Z</updated>
+    <id>tag:github.com,2022-06-04:/thheller/shadow-cljs</id>
+    <link href="https://github.com/thheller/shadow-cljs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ClojureScript compilation made easy&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>beulet/DrugsRUs</title>
+    <updated>2022-06-04T02:07:32Z</updated>
+    <id>tag:github.com,2022-06-04:/beulet/DrugsRUs</id>
+    <link href="https://github.com/beulet/DrugsRUs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A program that solves the 0 1 Knapsack problem in Clojure.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

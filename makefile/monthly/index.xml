@@ -1,35 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:44:49Z</updated>
+  <updated>2022-06-04T02:45:52Z</updated>
   <subtitle>Monthly Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>marco-calautti/SigpatchesModuleWiiU</title>
-    <updated>2022-06-03T02:44:49Z</updated>
-    <id>tag:github.com,2022-06-03:/marco-calautti/SigpatchesModuleWiiU</id>
-    <link href="https://github.com/marco-calautti/SigpatchesModuleWiiU" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>motioneye-project/motioneyeos</title>
-    <updated>2022-06-03T02:44:49Z</updated>
-    <id>tag:github.com,2022-06-03:/motioneye-project/motioneyeos</id>
-    <link href="https://github.com/motioneye-project/motioneyeos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Video Surveillance OS For Single-board Computers&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>RobinNagpal/kubernetes-tutorials</title>
-    <updated>2022-06-03T02:44:49Z</updated>
-    <id>tag:github.com,2022-06-03:/RobinNagpal/kubernetes-tutorials</id>
-    <link href="https://github.com/RobinNagpal/kubernetes-tutorials" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>upbound/build</title>
-    <updated>2022-06-03T02:44:49Z</updated>
-    <id>tag:github.com,2022-06-03:/upbound/build</id>
-    <link href="https://github.com/upbound/build" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Upbound build and CI scripts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kubernetes/design-proposals-archive</title>
+    <updated>2022-06-04T02:45:52Z</updated>
+    <id>tag:github.com,2022-06-04:/kubernetes/design-proposals-archive</id>
+    <link href="https://github.com/kubernetes/design-proposals-archive" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Archive of Kubernetes Design Proposals&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

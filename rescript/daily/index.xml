@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ReScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T01:51:10Z</updated>
+  <updated>2022-06-04T01:54:14Z</updated>
   <subtitle>Daily Trending of ReScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>purogamer/Fluent-for-Steam</title>
-    <updated>2022-06-03T01:51:10Z</updated>
-    <id>tag:github.com,2022-06-03:/purogamer/Fluent-for-Steam</id>
-    <link href="https://github.com/purogamer/Fluent-for-Steam" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple skin for steam to make it look like windows 11.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ordohereticus/open_fortress</title>
+    <updated>2022-06-04T01:54:14Z</updated>
+    <id>tag:github.com,2022-06-04:/ordohereticus/open_fortress</id>
+    <link href="https://github.com/ordohereticus/open_fortress" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An unofficial mirror of the Open Fortress SVN. Includes easy installation (No SVN checkout required, just clone or download the zip and rename it) 1.7 GB download&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SteamDatabase/GameTracking-CSGO</title>
+    <updated>2022-06-04T01:54:14Z</updated>
+    <id>tag:github.com,2022-06-04:/SteamDatabase/GameTracking-CSGO</id>
+    <link href="https://github.com/SteamDatabase/GameTracking-CSGO" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📥 Game Tracker: Counter-Strike: Global Offensive&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>GNUAspell/aspell</title>
+    <updated>2022-06-04T01:54:14Z</updated>
+    <id>tag:github.com,2022-06-04:/GNUAspell/aspell</id>
+    <link href="https://github.com/GNUAspell/aspell" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

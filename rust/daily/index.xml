@@ -1,77 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T01:51:48Z</updated>
+  <updated>2022-06-04T01:54:53Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>apache/arrow-datafusion</title>
-    <updated>2022-06-03T01:51:48Z</updated>
-    <id>tag:github.com,2022-06-03:/apache/arrow-datafusion</id>
-    <link href="https://github.com/apache/arrow-datafusion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Apache Arrow DataFusion SQL Query Engine&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>paritytech/polkadot</title>
+    <updated>2022-06-04T01:54:53Z</updated>
+    <id>tag:github.com,2022-06-04:/paritytech/polkadot</id>
+    <link href="https://github.com/paritytech/polkadot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Polkadot Node Implementation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tikv/tikv</title>
-    <updated>2022-06-03T01:51:48Z</updated>
-    <id>tag:github.com,2022-06-03:/tikv/tikv</id>
-    <link href="https://github.com/tikv/tikv" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Distributed transactional key-value database, originally created to complement TiDB&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CESSProject/cess</title>
+    <updated>2022-06-04T01:54:53Z</updated>
+    <id>tag:github.com,2022-06-04:/CESSProject/cess</id>
+    <link href="https://github.com/CESSProject/cess" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An implementation of the distributed storage network supported by CESS LAB.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CleanCut/ultimate_rust_crash_course</title>
-    <updated>2022-06-03T01:51:48Z</updated>
-    <id>tag:github.com,2022-06-03:/CleanCut/ultimate_rust_crash_course</id>
-    <link href="https://github.com/CleanCut/ultimate_rust_crash_course" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rust Programming Fundamentals - one course to rule them all, one course to find them...&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>facebook/relay</title>
-    <updated>2022-06-03T01:51:48Z</updated>
-    <id>tag:github.com,2022-06-03:/facebook/relay</id>
-    <link href="https://github.com/facebook/relay" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Relay is a JavaScript framework for building data-driven React applications.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bevyengine/bevy</title>
-    <updated>2022-06-03T01:51:48Z</updated>
-    <id>tag:github.com,2022-06-03:/bevyengine/bevy</id>
-    <link href="https://github.com/bevyengine/bevy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A refreshingly simple data-driven game engine built in Rust&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sunface/rust-course</title>
-    <updated>2022-06-03T01:51:48Z</updated>
-    <id>tag:github.com,2022-06-03:/sunface/rust-course</id>
-    <link href="https://github.com/sunface/rust-course" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石&#34; — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程/书籍&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>stalwartlabs/mail-send</title>
-    <updated>2022-06-03T01:51:48Z</updated>
-    <id>tag:github.com,2022-06-03:/stalwartlabs/mail-send</id>
-    <link href="https://github.com/stalwartlabs/mail-send" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;E-mail delivery library for Rust with DKIM support&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cloudflare/quiche</title>
-    <updated>2022-06-03T01:51:48Z</updated>
-    <id>tag:github.com,2022-06-03:/cloudflare/quiche</id>
-    <link href="https://github.com/cloudflare/quiche" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🥧 Savoury implementation of the QUIC transport protocol and HTTP/3&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>benfred/py-spy</title>
-    <updated>2022-06-03T01:51:48Z</updated>
-    <id>tag:github.com,2022-06-03:/benfred/py-spy</id>
-    <link href="https://github.com/benfred/py-spy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sampling profiler for Python programs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rust-lang/book</title>
-    <updated>2022-06-03T01:51:48Z</updated>
-    <id>tag:github.com,2022-06-03:/rust-lang/book</id>
-    <link href="https://github.com/rust-lang/book" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Rust Programming Language&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sharkdp/fd</title>
+    <updated>2022-06-04T01:54:53Z</updated>
+    <id>tag:github.com,2022-06-04:/sharkdp/fd</id>
+    <link href="https://github.com/sharkdp/fd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple, fast and user-friendly alternative to &#39;find&#39;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,70 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T01:35:47Z</updated>
+  <updated>2022-06-04T01:36:56Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>programmfabrik/easydb-library</title>
-    <updated>2022-06-03T01:35:47Z</updated>
-    <id>tag:github.com,2022-06-03:/programmfabrik/easydb-library</id>
-    <link href="https://github.com/programmfabrik/easydb-library" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Library to support Plugin Development for easydb&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hellodigit/bondjs</title>
+    <updated>2022-06-04T01:36:56Z</updated>
+    <id>tag:github.com,2022-06-04:/hellodigit/bondjs</id>
+    <link href="https://github.com/hellodigit/bondjs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Deprecated, use sinon&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>programmfabrik/easydb-custom-data-type-gn250</title>
-    <updated>2022-06-03T01:35:47Z</updated>
-    <id>tag:github.com,2022-06-03:/programmfabrik/easydb-custom-data-type-gn250</id>
-    <link href="https://github.com/programmfabrik/easydb-custom-data-type-gn250" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>qiao/difflib.js</title>
+    <updated>2022-06-04T01:36:56Z</updated>
+    <id>tag:github.com,2022-06-04:/qiao/difflib.js</id>
+    <link href="https://github.com/qiao/difflib.js" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Text diff library in JavaScript, ported from Python&#39;s difflib module.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>scottybarr/track-my-bus</title>
-    <updated>2022-06-03T01:35:47Z</updated>
-    <id>tag:github.com,2022-06-03:/scottybarr/track-my-bus</id>
-    <link href="https://github.com/scottybarr/track-my-bus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Backup bus tracker for lothian buses.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Clever/sentry-node</title>
-    <updated>2022-06-03T01:35:47Z</updated>
-    <id>tag:github.com,2022-06-03:/Clever/sentry-node</id>
-    <link href="https://github.com/Clever/sentry-node" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;simple node wrapper around the Sentry API&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Clever/node-redis-reservation</title>
-    <updated>2022-06-03T01:35:47Z</updated>
-    <id>tag:github.com,2022-06-03:/Clever/node-redis-reservation</id>
-    <link href="https://github.com/Clever/node-redis-reservation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Distributed locking mechanism built on redis.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>iron-io/iron_core_node</title>
-    <updated>2022-06-03T01:35:47Z</updated>
-    <id>tag:github.com,2022-06-03:/iron-io/iron_core_node</id>
-    <link href="https://github.com/iron-io/iron_core_node" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Glavin001/atom-beautify</title>
-    <updated>2022-06-03T01:35:47Z</updated>
-    <id>tag:github.com,2022-06-03:/Glavin001/atom-beautify</id>
-    <link href="https://github.com/Glavin001/atom-beautify" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📣 Help Wanted - Looking for Maintainer: https://github.com/Glavin001/atom-beautify/issues/2572 | 💄 Universal beautification package for Atom editor (⚠️ Currently migrating to https://github.com/Unibeautify/ and have very limited bandwidth for Atom-Beautify Issues. Thank you for your patience and understanding ❤️ )&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>FelisCatus/SwitchyOmega</title>
-    <updated>2022-06-03T01:35:47Z</updated>
-    <id>tag:github.com,2022-06-03:/FelisCatus/SwitchyOmega</id>
-    <link href="https://github.com/FelisCatus/SwitchyOmega" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Manage and switch between multiple proxies quickly &amp; easily.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Clever/ARCHIVED-json-schema-converter</title>
-    <updated>2022-06-03T01:35:47Z</updated>
-    <id>tag:github.com,2022-06-03:/Clever/ARCHIVED-json-schema-converter</id>
-    <link href="https://github.com/Clever/ARCHIVED-json-schema-converter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Utilities to translate your schema into anything, as long as &#39;anything&#39; is JSON Schema.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>atmos/camo</title>
+    <updated>2022-06-04T01:36:56Z</updated>
+    <id>tag:github.com,2022-06-04:/atmos/camo</id>
+    <link href="https://github.com/atmos/camo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔒 an http proxy to route images through SSL&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

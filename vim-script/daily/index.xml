@@ -1,126 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T01:56:38Z</updated>
+  <updated>2022-06-04T01:59:29Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AaronLasseigne/dotfiles</title>
-    <updated>2022-06-03T01:56:38Z</updated>
-    <id>tag:github.com,2022-06-03:/AaronLasseigne/dotfiles</id>
-    <link href="https://github.com/AaronLasseigne/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>voldikss/vim-floaterm</title>
+    <updated>2022-06-04T01:59:29Z</updated>
+    <id>tag:github.com,2022-06-04:/voldikss/vim-floaterm</id>
+    <link href="https://github.com/voldikss/vim-floaterm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌟 Terminal manager for (neo)vim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>vimwiki/vimwiki</title>
-    <updated>2022-06-03T01:56:38Z</updated>
-    <id>tag:github.com,2022-06-03:/vimwiki/vimwiki</id>
-    <link href="https://github.com/vimwiki/vimwiki" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Personal Wiki for Vim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vim-syntastic/syntastic</title>
+    <updated>2022-06-04T01:59:29Z</updated>
+    <id>tag:github.com,2022-06-04:/vim-syntastic/syntastic</id>
+    <link href="https://github.com/vim-syntastic/syntastic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Syntax checking hacks for vim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>preservim/vim-markdown</title>
-    <updated>2022-06-03T01:56:38Z</updated>
-    <id>tag:github.com,2022-06-03:/preservim/vim-markdown</id>
-    <link href="https://github.com/preservim/vim-markdown" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Markdown Vim Mode&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>puremourning/vimspector</title>
-    <updated>2022-06-03T01:56:38Z</updated>
-    <id>tag:github.com,2022-06-03:/puremourning/vimspector</id>
-    <link href="https://github.com/puremourning/vimspector" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;vimspector - A multi-language debugging system for Vim&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Shougo/context_filetype.vim</title>
-    <updated>2022-06-03T01:56:38Z</updated>
-    <id>tag:github.com,2022-06-03:/Shougo/context_filetype.vim</id>
-    <link href="https://github.com/Shougo/context_filetype.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Context filetype library for Vim script&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>MaxMEllon/vim-jsx-pretty</title>
-    <updated>2022-06-03T01:56:38Z</updated>
-    <id>tag:github.com,2022-06-03:/MaxMEllon/vim-jsx-pretty</id>
-    <link href="https://github.com/MaxMEllon/vim-jsx-pretty" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔦 [Vim script] JSX and TSX syntax pretty highlighting for vim.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Everblush/everblush.vim</title>
-    <updated>2022-06-03T01:56:38Z</updated>
-    <id>tag:github.com,2022-06-03:/Everblush/everblush.vim</id>
-    <link href="https://github.com/Everblush/everblush.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎨 A beautiful and dark vim colorscheme.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tpope/vim-surround</title>
-    <updated>2022-06-03T01:56:38Z</updated>
-    <id>tag:github.com,2022-06-03:/tpope/vim-surround</id>
-    <link href="https://github.com/tpope/vim-surround" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sainnhe/gruvbox-material</title>
-    <updated>2022-06-03T01:56:38Z</updated>
-    <id>tag:github.com,2022-06-03:/sainnhe/gruvbox-material</id>
-    <link href="https://github.com/sainnhe/gruvbox-material" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gruvbox with Material Palette&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sainnhe/sonokai</title>
-    <updated>2022-06-03T01:56:38Z</updated>
-    <id>tag:github.com,2022-06-03:/sainnhe/sonokai</id>
-    <link href="https://github.com/sainnhe/sonokai" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;High Contrast &amp; Vivid Color Scheme based on Monokai Pro&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tpope/vim-eunuch</title>
-    <updated>2022-06-03T01:56:38Z</updated>
-    <id>tag:github.com,2022-06-03:/tpope/vim-eunuch</id>
-    <link href="https://github.com/tpope/vim-eunuch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;eunuch.vim: Helpers for UNIX&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tpope/vim-repeat</title>
-    <updated>2022-06-03T01:56:38Z</updated>
-    <id>tag:github.com,2022-06-03:/tpope/vim-repeat</id>
-    <link href="https://github.com/tpope/vim-repeat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;repeat.vim: enable repeating supported plugin maps with &#34;.&#34;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>othree/html5.vim</title>
-    <updated>2022-06-03T01:56:38Z</updated>
-    <id>tag:github.com,2022-06-03:/othree/html5.vim</id>
-    <link href="https://github.com/othree/html5.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;HTML5 omnicomplete and syntax&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>python-mode/python-mode</title>
-    <updated>2022-06-03T01:56:38Z</updated>
-    <id>tag:github.com,2022-06-03:/python-mode/python-mode</id>
-    <link href="https://github.com/python-mode/python-mode" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>altercation/solarized</title>
-    <updated>2022-06-03T01:56:38Z</updated>
-    <id>tag:github.com,2022-06-03:/altercation/solarized</id>
-    <link href="https://github.com/altercation/solarized" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>chxuan/vimplus</title>
-    <updated>2022-06-03T01:56:38Z</updated>
-    <id>tag:github.com,2022-06-03:/chxuan/vimplus</id>
-    <link href="https://github.com/chxuan/vimplus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🚀An automatic configuration program for vim&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tmux-plugins/vim-tmux</title>
-    <updated>2022-06-03T01:56:38Z</updated>
-    <id>tag:github.com,2022-06-03:/tmux-plugins/vim-tmux</id>
-    <link href="https://github.com/tmux-plugins/vim-tmux" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;vim plugin for tmux.conf&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>easymotion/vim-easymotion</title>
+    <updated>2022-06-04T01:59:29Z</updated>
+    <id>tag:github.com,2022-06-04:/easymotion/vim-easymotion</id>
+    <link href="https://github.com/easymotion/vim-easymotion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim motions on speed!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

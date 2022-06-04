@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Less Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:13:39Z</updated>
+  <updated>2022-06-04T02:16:13Z</updated>
   <subtitle>Weekly Trending of Less in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>michaelmior/pylinks</title>
-    <updated>2022-06-03T02:13:39Z</updated>
-    <id>tag:github.com,2022-06-03:/michaelmior/pylinks</id>
-    <link href="https://github.com/michaelmior/pylinks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔗 Searchable database of external links in Python&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zdhxiong/mdui</title>
+    <updated>2022-06-04T02:16:13Z</updated>
+    <id>tag:github.com,2022-06-04:/zdhxiong/mdui</id>
+    <link href="https://github.com/zdhxiong/mdui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MDUI 是一个基于 Material Design 的前端框架。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

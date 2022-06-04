@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:10:30Z</updated>
+  <updated>2022-06-04T02:13:13Z</updated>
   <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mkdecisiondev/moqui-pac4j-authentication</title>
-    <updated>2022-06-03T02:10:30Z</updated>
-    <id>tag:github.com,2022-06-03:/mkdecisiondev/moqui-pac4j-authentication</id>
-    <link href="https://github.com/mkdecisiondev/moqui-pac4j-authentication" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Single Sign-on authentication support for Moqui&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fsarmiento/grails-exercises</title>
+    <updated>2022-06-04T02:13:13Z</updated>
+    <id>tag:github.com,2022-06-04:/fsarmiento/grails-exercises</id>
+    <link href="https://github.com/fsarmiento/grails-exercises" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learning grails&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fison67/LG-Connector</title>
+    <updated>2022-06-04T02:13:13Z</updated>
+    <id>tag:github.com,2022-06-04:/fison67/LG-Connector</id>
+    <link href="https://github.com/fison67/LG-Connector" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Connector for LG Devices with SmartThings&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>adhocteam/jenkins-library</title>
+    <updated>2022-06-04T02:13:13Z</updated>
+    <id>tag:github.com,2022-06-04:/adhocteam/jenkins-library</id>
+    <link href="https://github.com/adhocteam/jenkins-library" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Shared Jenkinsfiles snippets&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:26:26Z</updated>
+  <updated>2022-06-04T02:28:24Z</updated>
   <subtitle>Weekly Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>octoml/hw-widgets</title>
-    <updated>2022-06-03T02:26:26Z</updated>
-    <id>tag:github.com,2022-06-03:/octoml/hw-widgets</id>
-    <link href="https://github.com/octoml/hw-widgets" rel="alternate"></link>
+    <title>T-head-Semi/wujian100_open</title>
+    <updated>2022-06-04T02:28:24Z</updated>
+    <id>tag:github.com,2022-06-04:/T-head-Semi/wujian100_open</id>
+    <link href="https://github.com/T-head-Semi/wujian100_open" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;IC design and development should be faster，simpler and more reliable&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>IObundle/iob-mem</title>
+    <updated>2022-06-04T02:28:24Z</updated>
+    <id>tag:github.com,2022-06-04:/IObundle/iob-mem</id>
+    <link href="https://github.com/IObundle/iob-mem" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Verilog behavioral description of various memories&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>IObundle/iob-lib</title>
+    <updated>2022-06-04T02:28:24Z</updated>
+    <id>tag:github.com,2022-06-04:/IObundle/iob-lib</id>
+    <link href="https://github.com/IObundle/iob-lib" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ucb-bar/nvdla-wrapper</title>
-    <updated>2022-06-03T02:26:26Z</updated>
-    <id>tag:github.com,2022-06-03:/ucb-bar/nvdla-wrapper</id>
-    <link href="https://github.com/ucb-bar/nvdla-wrapper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Wraps the NVDLA project for Chipyard integration&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>corundum/corundum</title>
-    <updated>2022-06-03T02:26:26Z</updated>
-    <id>tag:github.com,2022-06-03:/corundum/corundum</id>
-    <link href="https://github.com/corundum/corundum" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open source FPGA-based NIC and platform for in-network compute&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

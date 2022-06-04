@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bluespec Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T01:34:07Z</updated>
+  <updated>2022-06-04T01:34:49Z</updated>
   <subtitle>Daily Trending of Bluespec in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>WangXuan95/BSV_Tutorial_cn</title>
-    <updated>2022-06-03T01:34:07Z</updated>
-    <id>tag:github.com,2022-06-03:/WangXuan95/BSV_Tutorial_cn</id>
-    <link href="https://github.com/WangXuan95/BSV_Tutorial_cn" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;爆肝6万字的 Bluespec SystemVerilog (BSV) 中文教程&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

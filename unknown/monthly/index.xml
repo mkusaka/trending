@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:30:37Z</updated>
+  <updated>2022-06-04T02:32:19Z</updated>
   <subtitle>Monthly Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>coderQuad/New-Grad-Positions-2023</title>
-    <updated>2022-06-03T02:30:37Z</updated>
-    <id>tag:github.com,2022-06-03:/coderQuad/New-Grad-Positions-2023</id>
-    <link href="https://github.com/coderQuad/New-Grad-Positions-2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of New Grad full time roles in SWE, Quant, and PM.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>frontendbr/vagas</title>
-    <updated>2022-06-03T02:30:37Z</updated>
-    <id>tag:github.com,2022-06-03:/frontendbr/vagas</id>
-    <link href="https://github.com/frontendbr/vagas" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔬 Espaço para divulgação de vagas para front-enders.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>trickest/cve</title>
-    <updated>2022-06-03T02:30:37Z</updated>
-    <id>tag:github.com,2022-06-03:/trickest/cve</id>
-    <link href="https://github.com/trickest/cve" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gather and update all available and newest CVEs with their PoC.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rwaldron/idiomatic.js</title>
+    <updated>2022-06-04T02:32:19Z</updated>
+    <id>tag:github.com,2022-06-04:/rwaldron/idiomatic.js</id>
+    <link href="https://github.com/rwaldron/idiomatic.js" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Principles of Writing Consistent, Idiomatic JavaScript&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cython Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T01:36:43Z</updated>
+  <updated>2022-06-04T01:37:54Z</updated>
   <subtitle>Daily Trending of Cython in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>discord/erlpack</title>
-    <updated>2022-06-03T01:36:43Z</updated>
-    <id>tag:github.com,2022-06-03:/discord/erlpack</id>
-    <link href="https://github.com/discord/erlpack" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;High Performance Erlang Term Format Packer&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

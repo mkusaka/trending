@@ -1,35 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Starlark Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T01:53:59Z</updated>
+  <updated>2022-06-04T01:56:56Z</updated>
   <subtitle>Daily Trending of Starlark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bazelbuild/rules_scala</title>
-    <updated>2022-06-03T01:53:59Z</updated>
-    <id>tag:github.com,2022-06-03:/bazelbuild/rules_scala</id>
-    <link href="https://github.com/bazelbuild/rules_scala" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Scala rules for Bazel&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bazelbuild/starlark</title>
+    <updated>2022-06-04T01:56:56Z</updated>
+    <id>tag:github.com,2022-06-04:/bazelbuild/starlark</id>
+    <link href="https://github.com/bazelbuild/starlark" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Starlark Language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bazelbuild/stardoc</title>
-    <updated>2022-06-03T01:53:59Z</updated>
-    <id>tag:github.com,2022-06-03:/bazelbuild/stardoc</id>
-    <link href="https://github.com/bazelbuild/stardoc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Stardoc: Starlark Documentation Generator&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bazel-ios/rules_ios</title>
+    <updated>2022-06-04T01:56:56Z</updated>
+    <id>tag:github.com,2022-06-04:/bazel-ios/rules_ios</id>
+    <link href="https://github.com/bazel-ios/rules_ios" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bazel rules for building iOS applications and frameworks&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bazelbuild/rules_cc</title>
-    <updated>2022-06-03T01:53:59Z</updated>
-    <id>tag:github.com,2022-06-03:/bazelbuild/rules_cc</id>
-    <link href="https://github.com/bazelbuild/rules_cc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;C++ Rules for Bazel&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>vaticle/typeql</title>
-    <updated>2022-06-03T01:53:59Z</updated>
-    <id>tag:github.com,2022-06-03:/vaticle/typeql</id>
-    <link href="https://github.com/vaticle/typeql" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;TypeQL: the query language of TypeDB - a strongly-typed database&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tweag/rules_sh</title>
+    <updated>2022-06-04T01:56:56Z</updated>
+    <id>tag:github.com,2022-06-04:/tweag/rules_sh</id>
+    <link href="https://github.com/tweag/rules_sh" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Shell rules for Bazel&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,49 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T01:33:27Z</updated>
+  <updated>2022-06-04T01:34:09Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kleiton0x00/Shelltropy</title>
-    <updated>2022-06-03T01:33:27Z</updated>
-    <id>tag:github.com,2022-06-03:/kleiton0x00/Shelltropy</id>
-    <link href="https://github.com/kleiton0x00/Shelltropy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A technique of hiding malicious shellcode via Shannon encoding.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lukechampine/blake3</title>
+    <updated>2022-06-04T01:34:09Z</updated>
+    <id>tag:github.com,2022-06-04:/lukechampine/blake3</id>
+    <link href="https://github.com/lukechampine/blake3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A pure-Go implementation of the BLAKE3 cryptographic hash function&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>H4ckerxx44/h</title>
-    <updated>2022-06-03T01:33:27Z</updated>
-    <id>tag:github.com,2022-06-03:/H4ckerxx44/h</id>
-    <link href="https://github.com/H4ckerxx44/h" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;h&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BLAKE3-team/BLAKE3</title>
+    <updated>2022-06-04T01:34:09Z</updated>
+    <id>tag:github.com,2022-06-04:/BLAKE3-team/BLAKE3</id>
+    <link href="https://github.com/BLAKE3-team/BLAKE3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;the official Rust and C implementations of the BLAKE3 cryptographic hash function&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>uraninite/win32-stuxnet</title>
-    <updated>2022-06-03T01:33:27Z</updated>
-    <id>tag:github.com,2022-06-03:/uraninite/win32-stuxnet</id>
-    <link href="https://github.com/uraninite/win32-stuxnet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Stuxnet is an extremely sophisticated computer worm that exploits multiple previously unknown Windows zero-day vulnerabilities to infect computers and spread. Its purpose was not just to infect PCs but to cause real-world physical effects. Specifically, it targets centrifuges used to produce the enriched uranium that powers nuclear weapons and r…&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>corkami/pics</title>
-    <updated>2022-06-03T01:33:27Z</updated>
-    <id>tag:github.com,2022-06-03:/corkami/pics</id>
-    <link href="https://github.com/corkami/pics" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Posters, drawings...&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hackclub/some-assembly-required</title>
-    <updated>2022-06-03T01:33:27Z</updated>
-    <id>tag:github.com,2022-06-03:/hackclub/some-assembly-required</id>
-    <link href="https://github.com/hackclub/some-assembly-required" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A playful guide about talking to your computer.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bitdump/BLHeli</title>
-    <updated>2022-06-03T01:33:27Z</updated>
-    <id>tag:github.com,2022-06-03:/bitdump/BLHeli</id>
-    <link href="https://github.com/bitdump/BLHeli" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;BLHeli for brushless ESC firmware&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ConsenSys/gnark-crypto</title>
+    <updated>2022-06-04T01:34:09Z</updated>
+    <id>tag:github.com,2022-06-04:/ConsenSys/gnark-crypto</id>
+    <link href="https://github.com/ConsenSys/gnark-crypto" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;gnark-crypto provides elliptic curve and pairing-based cryptography on BN, BLS12, BLS24 and BW6 curves. It also provides various algorithms (algebra, crypto) of particular interest to zero knowledge proof systems.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

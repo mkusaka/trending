@@ -1,70 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T01:35:39Z</updated>
+  <updated>2022-06-04T01:36:44Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>eProsima/foonathan_memory_vendor</title>
-    <updated>2022-06-03T01:35:39Z</updated>
-    <id>tag:github.com,2022-06-03:/eProsima/foonathan_memory_vendor</id>
-    <link href="https://github.com/eProsima/foonathan_memory_vendor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;foonathan/memory vendor package for Fast DDS.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>corrosion-rs/corrosion</title>
+    <updated>2022-06-04T01:36:44Z</updated>
+    <id>tag:github.com,2022-06-04:/corrosion-rs/corrosion</id>
+    <link href="https://github.com/corrosion-rs/corrosion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Marrying Rust and CMake - Easy Rust and C/C++ Integration!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>simonfxr/cmake-utils</title>
-    <updated>2022-06-03T01:35:39Z</updated>
-    <id>tag:github.com,2022-06-03:/simonfxr/cmake-utils</id>
-    <link href="https://github.com/simonfxr/cmake-utils" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>GEOS-ESM/ESMA_cmake</title>
+    <updated>2022-06-04T01:36:44Z</updated>
+    <id>tag:github.com,2022-06-04:/GEOS-ESM/ESMA_cmake</id>
+    <link href="https://github.com/GEOS-ESM/ESMA_cmake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Custom CMake macros for the GEOS Earth System Model&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>swift-nav/cmake</title>
-    <updated>2022-06-03T01:35:39Z</updated>
-    <id>tag:github.com,2022-06-03:/swift-nav/cmake</id>
-    <link href="https://github.com/swift-nav/cmake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Swift&#39;s commonly used CMake modules&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>steinbergmedia/vst3sdk</title>
-    <updated>2022-06-03T01:35:39Z</updated>
-    <id>tag:github.com,2022-06-03:/steinbergmedia/vst3sdk</id>
-    <link href="https://github.com/steinbergmedia/vst3sdk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;VST 3 Plug-In SDK&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>friendlyanon/cmake-init</title>
-    <updated>2022-06-03T01:35:39Z</updated>
-    <id>tag:github.com,2022-06-03:/friendlyanon/cmake-init</id>
-    <link href="https://github.com/friendlyanon/cmake-init" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The missing CMake project initializer&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rapyuta-robotics/UE_msgs</title>
-    <updated>2022-06-03T01:35:39Z</updated>
-    <id>tag:github.com,2022-06-03:/rapyuta-robotics/UE_msgs</id>
-    <link href="https://github.com/rapyuta-robotics/UE_msgs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>eve-autonomy/autoware_state_machine_msgs</title>
-    <updated>2022-06-03T01:35:39Z</updated>
-    <id>tag:github.com,2022-06-03:/eve-autonomy/autoware_state_machine_msgs</id>
-    <link href="https://github.com/eve-autonomy/autoware_state_machine_msgs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>eve-autonomy/audio_driver_msgs</title>
-    <updated>2022-06-03T01:35:39Z</updated>
-    <id>tag:github.com,2022-06-03:/eve-autonomy/audio_driver_msgs</id>
-    <link href="https://github.com/eve-autonomy/audio_driver_msgs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>boostorg/cmake</title>
-    <updated>2022-06-03T01:35:39Z</updated>
-    <id>tag:github.com,2022-06-03:/boostorg/cmake</id>
-    <link href="https://github.com/boostorg/cmake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CMake support infrastructure Boost submodule; experimental&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pingcap/tipb</title>
+    <updated>2022-06-04T01:36:44Z</updated>
+    <id>tag:github.com,2022-06-04:/pingcap/tipb</id>
+    <link href="https://github.com/pingcap/tipb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TiDB protobuf&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

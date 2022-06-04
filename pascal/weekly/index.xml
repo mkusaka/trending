@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:18:19Z</updated>
+  <updated>2022-06-04T02:20:39Z</updated>
   <subtitle>Weekly Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>MediaArea/MediaInfo</title>
-    <updated>2022-06-03T02:18:19Z</updated>
-    <id>tag:github.com,2022-06-03:/MediaArea/MediaInfo</id>
-    <link href="https://github.com/MediaArea/MediaInfo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Convenient unified display of the most relevant technical and tag data for video and audio files.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jackpato77/millenium</title>
+    <updated>2022-06-04T02:20:39Z</updated>
+    <id>tag:github.com,2022-06-04:/jackpato77/millenium</id>
+    <link href="https://github.com/jackpato77/millenium" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Glass factory ERP&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>oov/aviutl_rampreview</title>
+    <updated>2022-06-04T02:20:39Z</updated>
+    <id>tag:github.com,2022-06-04:/oov/aviutl_rampreview</id>
+    <link href="https://github.com/oov/aviutl_rampreview" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AviUtl用プラグイン「拡張編集RAMプレビュー」&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wppconnect-team/WPP4Delphi</title>
+    <updated>2022-06-04T02:20:39Z</updated>
+    <id>tag:github.com,2022-06-04:/wppconnect-team/WPP4Delphi</id>
+    <link href="https://github.com/wppconnect-team/WPP4Delphi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;WPP4Delphi is an open-source project with the aim of exporting functions from WhatsApp Web for Delphi, which can be used to support the creation of any interaction.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

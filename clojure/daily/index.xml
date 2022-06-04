@@ -1,70 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T01:35:29Z</updated>
+  <updated>2022-06-04T01:36:36Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>elastic/eui-cljs</title>
-    <updated>2022-06-03T01:35:29Z</updated>
-    <id>tag:github.com,2022-06-03:/elastic/eui-cljs</id>
-    <link href="https://github.com/elastic/eui-cljs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Clojurescript wrapper around the venerable Elastic UI Component library&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>elastic/es2unix</title>
-    <updated>2022-06-03T01:35:29Z</updated>
-    <id>tag:github.com,2022-06-03:/elastic/es2unix</id>
-    <link href="https://github.com/elastic/es2unix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Command-line ES&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>elastic/runbld</title>
-    <updated>2022-06-03T01:35:29Z</updated>
-    <id>tag:github.com,2022-06-03:/elastic/runbld</id>
-    <link href="https://github.com/elastic/runbld" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;It wraps!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>elastic/stream2es</title>
-    <updated>2022-06-03T01:35:29Z</updated>
-    <id>tag:github.com,2022-06-03:/elastic/stream2es</id>
-    <link href="https://github.com/elastic/stream2es" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Stream data into ES (Wikipedia, Twitter, stdin, or other ESes)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>elastic/puppet-crate</title>
-    <updated>2022-06-03T01:35:29Z</updated>
-    <id>tag:github.com,2022-06-03:/elastic/puppet-crate</id>
-    <link href="https://github.com/elastic/puppet-crate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bootstrap puppet manifests with pallet&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>technomancy/leiningen</title>
-    <updated>2022-06-03T01:35:29Z</updated>
-    <id>tag:github.com,2022-06-03:/technomancy/leiningen</id>
-    <link href="https://github.com/technomancy/leiningen" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Automate Clojure projects without setting your hair on fire.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ardoq/ardoq-swagger-addon</title>
-    <updated>2022-06-03T01:35:29Z</updated>
-    <id>tag:github.com,2022-06-03:/ardoq/ardoq-swagger-addon</id>
-    <link href="https://github.com/ardoq/ardoq-swagger-addon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Import Swagger api documentation to Ardoq&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ardoq/compojure-swagger</title>
-    <updated>2022-06-03T01:35:29Z</updated>
-    <id>tag:github.com,2022-06-03:/ardoq/compojure-swagger</id>
-    <link href="https://github.com/ardoq/compojure-swagger" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;swagger for your compojure routes&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ardoq/azure-api</title>
-    <updated>2022-06-03T01:35:29Z</updated>
-    <id>tag:github.com,2022-06-03:/ardoq/azure-api</id>
-    <link href="https://github.com/ardoq/azure-api" rel="alternate"></link>
+    <title>ribelo/praxis</title>
+    <updated>2022-06-04T01:36:36Z</updated>
+    <id>tag:github.com,2022-06-04:/ribelo/praxis</id>
+    <link href="https://github.com/ribelo/praxis" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zk/clojuredocs</title>
+    <updated>2022-06-04T01:36:36Z</updated>
+    <id>tag:github.com,2022-06-04:/zk/clojuredocs</id>
+    <link href="https://github.com/zk/clojuredocs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;clojuredocs.org web app&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>puppetlabs/puppetserver</title>
+    <updated>2022-06-04T01:36:36Z</updated>
+    <id>tag:github.com,2022-06-04:/puppetlabs/puppetserver</id>
+    <link href="https://github.com/puppetlabs/puppetserver" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Server automation framework and application&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

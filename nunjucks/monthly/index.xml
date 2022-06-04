@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nunjucks Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:46:58Z</updated>
+  <updated>2022-06-04T02:48:01Z</updated>
   <subtitle>Monthly Trending of Nunjucks in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>11ty/eleventy-base-blog</title>
+    <updated>2022-06-04T02:48:01Z</updated>
+    <id>tag:github.com,2022-06-04:/11ty/eleventy-base-blog</id>
+    <link href="https://github.com/11ty/eleventy-base-blog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A starter repository for a blog web site using the Eleventy static site generator.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

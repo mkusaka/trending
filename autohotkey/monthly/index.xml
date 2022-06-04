@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoHotkey Monthly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:32:12Z</updated>
+  <updated>2022-06-04T02:33:54Z</updated>
   <subtitle>Monthly Trending of AutoHotkey in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hui-Zz/RunAny</title>
+    <updated>2022-06-04T02:33:54Z</updated>
+    <id>tag:github.com,2022-06-04:/hui-Zz/RunAny</id>
+    <link href="https://github.com/hui-Zz/RunAny" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;【RunAny】一劳永逸的快速启动软件，拥有三键启动、一键直达、规则启动、批量搜索、全局热键、短语输出、热键映射、脚本插件等功能&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

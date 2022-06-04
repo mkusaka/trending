@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-03T02:18:50Z</updated>
+  <updated>2022-06-04T02:21:08Z</updated>
   <subtitle>Weekly Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>FlipsideCrypto/ethereum-models</title>
+    <updated>2022-06-04T02:21:08Z</updated>
+    <id>tag:github.com,2022-06-04:/FlipsideCrypto/ethereum-models</id>
+    <link href="https://github.com/FlipsideCrypto/ethereum-models" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ethereum Facelift 2022&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>anthonydb/practical-sql-2</title>
+    <updated>2022-06-04T02:21:08Z</updated>
+    <id>tag:github.com,2022-06-04:/anthonydb/practical-sql-2</id>
+    <link href="https://github.com/anthonydb/practical-sql-2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code and Data for the Second Edition of &#34;Practical SQL&#34; by Anthony DeBarros, published by No Starch Press (2022).&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>supabase/pg_graphql</title>
+    <updated>2022-06-04T02:21:08Z</updated>
+    <id>tag:github.com,2022-06-04:/supabase/pg_graphql</id>
+    <link href="https://github.com/supabase/pg_graphql" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GraphQL support for PostgreSQL&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
