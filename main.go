@@ -84,6 +84,7 @@ func run() error {
 				},
 			}
 
+			cnt := 1
 			for _, item := range parsedFeed.Items {
 				rr := Recent{
 					Logged:   *parsedFeed.PublishedParsed,
@@ -95,8 +96,11 @@ func run() error {
 					fmt.Printf("link: %s already posted\n", item.Link)
 					continue
 				}
-
+				if cnt > 3 {
+					continue
+				}
 				r = append(r, rr)
+				cnt += 1
 				feed.Items = append(feed.Items, &feeds.Item{
 					Title: item.Title,
 					Link: &feeds.Link{
