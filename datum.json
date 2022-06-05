@@ -46144,5 +46144,3185 @@
     "uri": "https://github.com/stashapp/CommunityScrapers",
     "period": "monthly",
     "language": "yaml"
+  },
+  {
+    "logged": "2022-06-04T01:30:35Z",
+    "uri": "https://github.com/PJLab-ADG/SensorsCalibration",
+    "period": "daily",
+    "language": "all"
+  },
+  {
+    "logged": "2022-06-04T01:30:35Z",
+    "uri": "https://github.com/elebumm/RedditVideoMakerBot",
+    "period": "daily",
+    "language": "all"
+  },
+  {
+    "logged": "2022-06-04T01:30:35Z",
+    "uri": "https://github.com/bradtraversy/50projects50days",
+    "period": "daily",
+    "language": "all"
+  },
+  {
+    "logged": "2022-06-04T01:32:32Z",
+    "uri": "https://github.com/tmplink/ipv6",
+    "period": "daily",
+    "language": "unknown"
+  },
+  {
+    "logged": "2022-06-04T01:32:32Z",
+    "uri": "https://github.com/florinpop17/app-ideas",
+    "period": "daily",
+    "language": "unknown"
+  },
+  {
+    "logged": "2022-06-04T01:32:32Z",
+    "uri": "https://github.com/codecrafters-io/build-your-own-x",
+    "period": "daily",
+    "language": "unknown"
+  },
+  {
+    "logged": "2022-06-04T01:30:24Z",
+    "uri": "https://github.com/datamallchain/dmchain_contract",
+    "period": "daily",
+    "language": "c++"
+  },
+  {
+    "logged": "2022-06-04T01:30:24Z",
+    "uri": "https://github.com/bitcoin/bitcoin",
+    "period": "daily",
+    "language": "c++"
+  },
+  {
+    "logged": "2022-06-04T01:30:24Z",
+    "uri": "https://github.com/openvinotoolkit/openvino",
+    "period": "daily",
+    "language": "c++"
+  },
+  {
+    "logged": "2022-06-04T01:30:16Z",
+    "uri": "https://github.com/Huxpro/huxpro.github.io",
+    "period": "daily",
+    "language": "html"
+  },
+  {
+    "logged": "2022-06-04T01:30:16Z",
+    "uri": "https://github.com/LAX1DUDE/eaglercraft",
+    "period": "daily",
+    "language": "html"
+  },
+  {
+    "logged": "2022-06-04T01:30:16Z",
+    "uri": "https://github.com/tabler/tabler",
+    "period": "daily",
+    "language": "html"
+  },
+  {
+    "logged": "2022-06-04T01:32:01Z",
+    "uri": "https://github.com/wenbochang888/house",
+    "period": "daily",
+    "language": "java"
+  },
+  {
+    "logged": "2022-06-04T01:32:01Z",
+    "uri": "https://github.com/M66B/FairEmail",
+    "period": "daily",
+    "language": "java"
+  },
+  {
+    "logged": "2022-06-04T01:32:01Z",
+    "uri": "https://github.com/android-hacker/VirtualXposed",
+    "period": "daily",
+    "language": "java"
+  },
+  {
+    "logged": "2022-06-04T01:31:08Z",
+    "uri": "https://github.com/WordPress/gutenberg",
+    "period": "daily",
+    "language": "javascript"
+  },
+  {
+    "logged": "2022-06-04T01:31:08Z",
+    "uri": "https://github.com/alyssaxuu/slashy",
+    "period": "daily",
+    "language": "javascript"
+  },
+  {
+    "logged": "2022-06-04T01:31:08Z",
+    "uri": "https://github.com/zukahai/Confess-Crush",
+    "period": "daily",
+    "language": "javascript"
+  },
+  {
+    "logged": "2022-06-04T01:31:50Z",
+    "uri": "https://github.com/WordPress/wordpress-develop",
+    "period": "daily",
+    "language": "php"
+  },
+  {
+    "logged": "2022-06-04T01:31:50Z",
+    "uri": "https://github.com/laravel/framework",
+    "period": "daily",
+    "language": "php"
+  },
+  {
+    "logged": "2022-06-04T01:31:50Z",
+    "uri": "https://github.com/matomo-org/matomo",
+    "period": "daily",
+    "language": "php"
+  },
+  {
+    "logged": "2022-06-04T01:31:40Z",
+    "uri": "https://github.com/shimohq/chinese-programmer-wrong-pronunciation",
+    "period": "daily",
+    "language": "python"
+  },
+  {
+    "logged": "2022-06-04T01:31:40Z",
+    "uri": "https://github.com/martandsingh/ApacheSpark",
+    "period": "daily",
+    "language": "python"
+  },
+  {
+    "logged": "2022-06-04T01:31:40Z",
+    "uri": "https://github.com/apprenticeharper/DeDRM_tools",
+    "period": "daily",
+    "language": "python"
+  },
+  {
+    "logged": "2022-06-04T01:32:36Z",
+    "uri": "https://github.com/tmuxinator/tmuxinator",
+    "period": "daily",
+    "language": "ruby"
+  },
+  {
+    "logged": "2022-06-04T01:32:36Z",
+    "uri": "https://github.com/kgiszczak/shale",
+    "period": "daily",
+    "language": "ruby"
+  },
+  {
+    "logged": "2022-06-04T01:32:36Z",
+    "uri": "https://github.com/kaminari/kaminari",
+    "period": "daily",
+    "language": "ruby"
+  },
+  {
+    "logged": "2022-06-04T01:32:27Z",
+    "uri": "https://github.com/nixel2007/autumn",
+    "period": "daily",
+    "language": "1c-enterprise"
+  },
+  {
+    "logged": "2022-06-04T01:32:59Z",
+    "uri": "https://github.com/SAP/code-pal-for-abap",
+    "period": "daily",
+    "language": "abap"
+  },
+  {
+    "logged": "2022-06-04T01:33:05Z",
+    "uri": "https://github.com/neopoly/flash_asset_resolver",
+    "period": "daily",
+    "language": "actionscript"
+  },
+  {
+    "logged": "2022-06-04T01:33:29Z",
+    "uri": "https://github.com/OXOIndustries/TiTS-Public",
+    "period": "daily",
+    "language": "angelscript"
+  },
+  {
+    "logged": "2022-06-04T01:33:40Z",
+    "uri": "https://github.com/vitapramdevputra/Falcons6Dev",
+    "period": "daily",
+    "language": "apex"
+  },
+  {
+    "logged": "2022-06-04T01:33:40Z",
+    "uri": "https://github.com/forcedotcom/sfdx-bitbucket-org",
+    "period": "daily",
+    "language": "apex"
+  },
+  {
+    "logged": "2022-06-04T01:33:50Z",
+    "uri": "https://github.com/CatDancer/arc",
+    "period": "daily",
+    "language": "arc"
+  },
+  {
+    "logged": "2022-06-04T01:34:09Z",
+    "uri": "https://github.com/lukechampine/blake3",
+    "period": "daily",
+    "language": "assembly"
+  },
+  {
+    "logged": "2022-06-04T01:34:09Z",
+    "uri": "https://github.com/BLAKE3-team/BLAKE3",
+    "period": "daily",
+    "language": "assembly"
+  },
+  {
+    "logged": "2022-06-04T01:34:09Z",
+    "uri": "https://github.com/ConsenSys/gnark-crypto",
+    "period": "daily",
+    "language": "assembly"
+  },
+  {
+    "logged": "2022-06-04T01:34:05Z",
+    "uri": "https://github.com/littlesticksdev/odyssey-theme",
+    "period": "daily",
+    "language": "astro"
+  },
+  {
+    "logged": "2022-06-04T01:34:18Z",
+    "uri": "https://github.com/TaranVH/2nd-keyboard",
+    "period": "daily",
+    "language": "autohotkey"
+  },
+  {
+    "logged": "2022-06-04T01:34:18Z",
+    "uri": "https://github.com/wo52616111/capslock-plus",
+    "period": "daily",
+    "language": "autohotkey"
+  },
+  {
+    "logged": "2022-06-04T01:34:16Z",
+    "uri": "https://github.com/Bioruebe/UniExtract2",
+    "period": "daily",
+    "language": "autoit"
+  },
+  {
+    "logged": "2022-06-04T01:34:28Z",
+    "uri": "https://github.com/lxgw/LxgwWenKai",
+    "period": "daily",
+    "language": "batchfile"
+  },
+  {
+    "logged": "2022-06-04T01:34:28Z",
+    "uri": "https://github.com/redgans/RDPFREEs",
+    "period": "daily",
+    "language": "batchfile"
+  },
+  {
+    "logged": "2022-06-04T01:34:28Z",
+    "uri": "https://github.com/mardiantsyah/FREERDPs",
+    "period": "daily",
+    "language": "batchfile"
+  },
+  {
+    "logged": "2022-06-04T01:35:31Z",
+    "uri": "https://github.com/jimgraygit/Onion",
+    "period": "daily",
+    "language": "c"
+  },
+  {
+    "logged": "2022-06-04T01:35:31Z",
+    "uri": "https://github.com/ValdikSS/GoodbyeDPI",
+    "period": "daily",
+    "language": "c"
+  },
+  {
+    "logged": "2022-06-04T01:35:31Z",
+    "uri": "https://github.com/stedolan/jq",
+    "period": "daily",
+    "language": "c"
+  },
+  {
+    "logged": "2022-06-04T01:35:16Z",
+    "uri": "https://github.com/OneXDeveloper/MapAssist",
+    "period": "daily",
+    "language": "c%23"
+  },
+  {
+    "logged": "2022-06-04T01:35:16Z",
+    "uri": "https://github.com/migueldeicaza/gui.cs",
+    "period": "daily",
+    "language": "c%23"
+  },
+  {
+    "logged": "2022-06-04T01:35:16Z",
+    "uri": "https://github.com/mxgmn/MarkovJunior",
+    "period": "daily",
+    "language": "c%23"
+  },
+  {
+    "logged": "2022-06-04T01:35:58Z",
+    "uri": "https://github.com/onlydustxyz/cairo-streams",
+    "period": "daily",
+    "language": "cairo"
+  },
+  {
+    "logged": "2022-06-04T01:36:02Z",
+    "uri": "https://github.com/chapel-lang/chapel",
+    "period": "daily",
+    "language": "chapel"
+  },
+  {
+    "logged": "2022-06-04T01:36:36Z",
+    "uri": "https://github.com/ribelo/praxis",
+    "period": "daily",
+    "language": "clojure"
+  },
+  {
+    "logged": "2022-06-04T01:36:36Z",
+    "uri": "https://github.com/zk/clojuredocs",
+    "period": "daily",
+    "language": "clojure"
+  },
+  {
+    "logged": "2022-06-04T01:36:36Z",
+    "uri": "https://github.com/puppetlabs/puppetserver",
+    "period": "daily",
+    "language": "clojure"
+  },
+  {
+    "logged": "2022-06-04T01:36:44Z",
+    "uri": "https://github.com/corrosion-rs/corrosion",
+    "period": "daily",
+    "language": "cmake"
+  },
+  {
+    "logged": "2022-06-04T01:36:44Z",
+    "uri": "https://github.com/GEOS-ESM/ESMA_cmake",
+    "period": "daily",
+    "language": "cmake"
+  },
+  {
+    "logged": "2022-06-04T01:36:44Z",
+    "uri": "https://github.com/pingcap/tipb",
+    "period": "daily",
+    "language": "cmake"
+  },
+  {
+    "logged": "2022-06-04T01:36:56Z",
+    "uri": "https://github.com/hellodigit/bondjs",
+    "period": "daily",
+    "language": "coffeescript"
+  },
+  {
+    "logged": "2022-06-04T01:36:56Z",
+    "uri": "https://github.com/qiao/difflib.js",
+    "period": "daily",
+    "language": "coffeescript"
+  },
+  {
+    "logged": "2022-06-04T01:36:56Z",
+    "uri": "https://github.com/atmos/camo",
+    "period": "daily",
+    "language": "coffeescript"
+  },
+  {
+    "logged": "2022-06-04T01:37:05Z",
+    "uri": "https://github.com/facts-db/cl-rollback",
+    "period": "daily",
+    "language": "common-lisp"
+  },
+  {
+    "logged": "2022-06-04T01:37:11Z",
+    "uri": "https://github.com/robbertkrebbers/compcert",
+    "period": "daily",
+    "language": "coq"
+  },
+  {
+    "logged": "2022-06-04T01:37:34Z",
+    "uri": "https://github.com/creativetimofficial/tailwind-starter-kit",
+    "period": "daily",
+    "language": "css"
+  },
+  {
+    "logged": "2022-06-04T01:37:34Z",
+    "uri": "https://github.com/sharu725/online-cv",
+    "period": "daily",
+    "language": "css"
+  },
+  {
+    "logged": "2022-06-04T01:37:34Z",
+    "uri": "https://github.com/appsecco/dvna",
+    "period": "daily",
+    "language": "css"
+  },
+  {
+    "logged": "2022-06-04T01:37:57Z",
+    "uri": "https://github.com/libmir/mir-algorithm",
+    "period": "daily",
+    "language": "d"
+  },
+  {
+    "logged": "2022-06-04T01:37:57Z",
+    "uri": "https://github.com/gnunn1/tilix",
+    "period": "daily",
+    "language": "d"
+  },
+  {
+    "logged": "2022-06-04T01:38:08Z",
+    "uri": "https://github.com/CarGuo/gsy_github_app_flutter",
+    "period": "daily",
+    "language": "dart"
+  },
+  {
+    "logged": "2022-06-04T01:38:08Z",
+    "uri": "https://github.com/honjow/FEhViewer",
+    "period": "daily",
+    "language": "dart"
+  },
+  {
+    "logged": "2022-06-04T01:38:08Z",
+    "uri": "https://github.com/pichillilorenzo/flutter_inappwebview",
+    "period": "daily",
+    "language": "dart"
+  },
+  {
+    "logged": "2022-06-04T01:38:47Z",
+    "uri": "https://github.com/emk/rust-musl-builder",
+    "period": "daily",
+    "language": "dockerfile"
+  },
+  {
+    "logged": "2022-06-04T01:38:47Z",
+    "uri": "https://github.com/openfaas/templates",
+    "period": "daily",
+    "language": "dockerfile"
+  },
+  {
+    "logged": "2022-06-04T01:38:47Z",
+    "uri": "https://github.com/odoo/docker",
+    "period": "daily",
+    "language": "dockerfile"
+  },
+  {
+    "logged": "2022-06-04T01:39:14Z",
+    "uri": "https://github.com/HWatanuki/TrainingPRO3601",
+    "period": "daily",
+    "language": "ecl"
+  },
+  {
+    "logged": "2022-06-04T01:39:35Z",
+    "uri": "https://github.com/kaienfr/Font",
+    "period": "daily",
+    "language": "eiffel"
+  },
+  {
+    "logged": "2022-06-04T01:39:40Z",
+    "uri": "https://github.com/elixir-lsp/elixir-ls",
+    "period": "daily",
+    "language": "elixir"
+  },
+  {
+    "logged": "2022-06-04T01:39:40Z",
+    "uri": "https://github.com/chaskiq/ex-marcel",
+    "period": "daily",
+    "language": "elixir"
+  },
+  {
+    "logged": "2022-06-04T01:39:40Z",
+    "uri": "https://github.com/rrrene/credo",
+    "period": "daily",
+    "language": "elixir"
+  },
+  {
+    "logged": "2022-06-04T01:39:33Z",
+    "uri": "https://github.com/dillonkearns/elm-pages",
+    "period": "daily",
+    "language": "elm"
+  },
+  {
+    "logged": "2022-06-04T01:39:51Z",
+    "uri": "https://github.com/mickeynp/ligature.el",
+    "period": "daily",
+    "language": "emacs-lisp"
+  },
+  {
+    "logged": "2022-06-04T01:39:51Z",
+    "uri": "https://github.com/SystemCrafters/rational-emacs",
+    "period": "daily",
+    "language": "emacs-lisp"
+  },
+  {
+    "logged": "2022-06-04T01:39:51Z",
+    "uri": "https://github.com/minad/corfu",
+    "period": "daily",
+    "language": "emacs-lisp"
+  },
+  {
+    "logged": "2022-06-04T01:40:21Z",
+    "uri": "https://github.com/sile/jsone",
+    "period": "daily",
+    "language": "erlang"
+  },
+  {
+    "logged": "2022-06-04T01:40:21Z",
+    "uri": "https://github.com/nomasystems/nqueue",
+    "period": "daily",
+    "language": "erlang"
+  },
+  {
+    "logged": "2022-06-04T01:40:21Z",
+    "uri": "https://github.com/nomasystems/nhooks",
+    "period": "daily",
+    "language": "erlang"
+  },
+  {
+    "logged": "2022-06-04T01:40:58Z",
+    "uri": "https://github.com/geoschem/GCHP",
+    "period": "daily",
+    "language": "fortran"
+  },
+  {
+    "logged": "2022-06-04T01:40:58Z",
+    "uri": "https://github.com/Goddard-Fortran-Ecosystem/pFUnit",
+    "period": "daily",
+    "language": "fortran"
+  },
+  {
+    "logged": "2022-06-04T01:40:58Z",
+    "uri": "https://github.com/PrincetonUniversity/i2mex",
+    "period": "daily",
+    "language": "fortran"
+  },
+  {
+    "logged": "2022-06-04T01:41:04Z",
+    "uri": "https://github.com/froide-kk/froide_business-management",
+    "period": "daily",
+    "language": "freemarker"
+  },
+  {
+    "logged": "2022-06-04T01:41:23Z",
+    "uri": "https://github.com/GDQuest/godot-demos",
+    "period": "daily",
+    "language": "gdscript"
+  },
+  {
+    "logged": "2022-06-04T01:42:08Z",
+    "uri": "https://github.com/dgrijalva/jwt-go",
+    "period": "daily",
+    "language": "go"
+  },
+  {
+    "logged": "2022-06-04T01:42:08Z",
+    "uri": "https://github.com/grpc/grpc-go",
+    "period": "daily",
+    "language": "go"
+  },
+  {
+    "logged": "2022-06-04T01:42:08Z",
+    "uri": "https://github.com/jackc/pgx",
+    "period": "daily",
+    "language": "go"
+  },
+  {
+    "logged": "2022-06-04T01:42:52Z",
+    "uri": "https://github.com/gravitee-io/issues",
+    "period": "daily",
+    "language": "groovy"
+  },
+  {
+    "logged": "2022-06-04T01:42:52Z",
+    "uri": "https://github.com/macloujulian/jenkins.job.parametrizado",
+    "period": "daily",
+    "language": "groovy"
+  },
+  {
+    "logged": "2022-06-04T01:42:52Z",
+    "uri": "https://github.com/adnlos/alumno-curso",
+    "period": "daily",
+    "language": "groovy"
+  },
+  {
+    "logged": "2022-06-04T01:43:21Z",
+    "uri": "https://github.com/erebe/wstunnel",
+    "period": "daily",
+    "language": "haskell"
+  },
+  {
+    "logged": "2022-06-04T01:43:21Z",
+    "uri": "https://github.com/jacobstanley/netcdf-win",
+    "period": "daily",
+    "language": "haskell"
+  },
+  {
+    "logged": "2022-06-04T01:43:21Z",
+    "uri": "https://github.com/haskell-beginners-2022/exercises",
+    "period": "daily",
+    "language": "haskell"
+  },
+  {
+    "logged": "2022-06-04T01:43:19Z",
+    "uri": "https://github.com/ninjamuffin99/Funkin",
+    "period": "daily",
+    "language": "haxe"
+  },
+  {
+    "logged": "2022-06-04T01:43:19Z",
+    "uri": "https://github.com/Theoyeah/Theoyeah-Engine",
+    "period": "daily",
+    "language": "haxe"
+  },
+  {
+    "logged": "2022-06-04T01:43:19Z",
+    "uri": "https://github.com/cloudposse/terraform-aws-elasticache-redis",
+    "period": "daily",
+    "language": "hcl"
+  },
+  {
+    "logged": "2022-06-04T01:43:19Z",
+    "uri": "https://github.com/terraform-google-modules/terraform-google-lb-http",
+    "period": "daily",
+    "language": "hcl"
+  },
+  {
+    "logged": "2022-06-04T01:43:19Z",
+    "uri": "https://github.com/terraform-aws-modules/terraform-aws-ecs",
+    "period": "daily",
+    "language": "hcl"
+  },
+  {
+    "logged": "2022-06-04T01:44:25Z",
+    "uri": "https://github.com/ManlyMarco/KKS-HF_Patch",
+    "period": "daily",
+    "language": "inno-setup"
+  },
+  {
+    "logged": "2022-06-04T01:45:24Z",
+    "uri": "https://github.com/JuliaLang/IJulia.jl",
+    "period": "daily",
+    "language": "julia"
+  },
+  {
+    "logged": "2022-06-04T01:45:24Z",
+    "uri": "https://github.com/SciML/SciMLDocs",
+    "period": "daily",
+    "language": "julia"
+  },
+  {
+    "logged": "2022-06-04T01:45:24Z",
+    "uri": "https://github.com/SciML/NeuralPDE.jl",
+    "period": "daily",
+    "language": "julia"
+  },
+  {
+    "logged": "2022-06-04T01:45:37Z",
+    "uri": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
+    "period": "daily",
+    "language": "jupyter-notebook"
+  },
+  {
+    "logged": "2022-06-04T01:45:37Z",
+    "uri": "https://github.com/openai/CLIP",
+    "period": "daily",
+    "language": "jupyter-notebook"
+  },
+  {
+    "logged": "2022-06-04T01:45:37Z",
+    "uri": "https://github.com/mrdbourke/tensorflow-deep-learning",
+    "period": "daily",
+    "language": "jupyter-notebook"
+  },
+  {
+    "logged": "2022-06-04T01:46:05Z",
+    "uri": "https://github.com/android/compose-samples",
+    "period": "daily",
+    "language": "kotlin"
+  },
+  {
+    "logged": "2022-06-04T01:46:05Z",
+    "uri": "https://github.com/jitsi/jitsi-videobridge",
+    "period": "daily",
+    "language": "kotlin"
+  },
+  {
+    "logged": "2022-06-04T01:46:05Z",
+    "uri": "https://github.com/Kr328/ClashForAndroid",
+    "period": "daily",
+    "language": "kotlin"
+  },
+  {
+    "logged": "2022-06-04T01:46:33Z",
+    "uri": "https://github.com/Faris999/indonesian-mo-formalization",
+    "period": "daily",
+    "language": "lean"
+  },
+  {
+    "logged": "2022-06-04T01:46:44Z",
+    "uri": "https://github.com/perfectsense/training",
+    "period": "daily",
+    "language": "less"
+  },
+  {
+    "logged": "2022-06-04T01:47:02Z",
+    "uri": "https://github.com/Shopify/starter-theme",
+    "period": "daily",
+    "language": "liquid"
+  },
+  {
+    "logged": "2022-06-04T01:47:31Z",
+    "uri": "https://github.com/scipag/vulscan",
+    "period": "daily",
+    "language": "lua"
+  },
+  {
+    "logged": "2022-06-04T01:47:31Z",
+    "uri": "https://github.com/mfussenegger/nvim-dap",
+    "period": "daily",
+    "language": "lua"
+  },
+  {
+    "logged": "2022-06-04T01:47:31Z",
+    "uri": "https://github.com/romgrk/barbar.nvim",
+    "period": "daily",
+    "language": "lua"
+  },
+  {
+    "logged": "2022-06-04T01:47:51Z",
+    "uri": "https://github.com/jobbole/awesome-python-cn",
+    "period": "daily",
+    "language": "makefile"
+  },
+  {
+    "logged": "2022-06-04T01:47:51Z",
+    "uri": "https://github.com/rochacbruno/python-project-template",
+    "period": "daily",
+    "language": "makefile"
+  },
+  {
+    "logged": "2022-06-04T01:47:51Z",
+    "uri": "https://github.com/manna-harbour/miryoku",
+    "period": "daily",
+    "language": "makefile"
+  },
+  {
+    "logged": "2022-06-04T01:48:01Z",
+    "uri": "https://github.com/vivian-dai/PicoCTF2021-Writeup",
+    "period": "daily",
+    "language": "markdown"
+  },
+  {
+    "logged": "2022-06-04T01:48:11Z",
+    "uri": "https://github.com/macs-lab/arb-adaptive-regulation-benchmark-lv2-training",
+    "period": "daily",
+    "language": "matlab"
+  },
+  {
+    "logged": "2022-06-04T01:48:11Z",
+    "uri": "https://github.com/dawnlh/awesome-low-light-image-enhancement",
+    "period": "daily",
+    "language": "matlab"
+  },
+  {
+    "logged": "2022-06-04T01:49:31Z",
+    "uri": "https://github.com/ESMValGroup/ESMValTool",
+    "period": "daily",
+    "language": "ncl"
+  },
+  {
+    "logged": "2022-06-04T01:49:58Z",
+    "uri": "https://github.com/numtide/flake-utils",
+    "period": "daily",
+    "language": "nix"
+  },
+  {
+    "logged": "2022-06-04T01:49:58Z",
+    "uri": "https://github.com/divnix/POP",
+    "period": "daily",
+    "language": "nix"
+  },
+  {
+    "logged": "2022-06-04T01:49:58Z",
+    "uri": "https://github.com/nix-community/emacs-overlay",
+    "period": "daily",
+    "language": "nix"
+  },
+  {
+    "logged": "2022-06-04T01:50:02Z",
+    "uri": "https://github.com/voicemxil/TS2-Starter-Pack",
+    "period": "daily",
+    "language": "nsis"
+  },
+  {
+    "logged": "2022-06-04T01:50:25Z",
+    "uri": "https://github.com/SVProgressHUD/SVProgressHUD",
+    "period": "daily",
+    "language": "objective-c"
+  },
+  {
+    "logged": "2022-06-04T01:50:25Z",
+    "uri": "https://github.com/react-native-async-storage/async-storage",
+    "period": "daily",
+    "language": "objective-c"
+  },
+  {
+    "logged": "2022-06-04T01:50:25Z",
+    "uri": "https://github.com/ccgus/fmdb",
+    "period": "daily",
+    "language": "objective-c"
+  },
+  {
+    "logged": "2022-06-04T01:50:21Z",
+    "uri": "https://github.com/textmate/textmate",
+    "period": "daily",
+    "language": "objective-c++"
+  },
+  {
+    "logged": "2022-06-04T01:50:21Z",
+    "uri": "https://github.com/rive-app/rive-ios",
+    "period": "daily",
+    "language": "objective-c++"
+  },
+  {
+    "logged": "2022-06-04T01:50:21Z",
+    "uri": "https://github.com/johnboiles/obs-mac-virtualcam",
+    "period": "daily",
+    "language": "objective-c++"
+  },
+  {
+    "logged": "2022-06-04T01:51:10Z",
+    "uri": "https://github.com/tecosaur/emacs-config",
+    "period": "daily",
+    "language": "org"
+  },
+  {
+    "logged": "2022-06-04T01:51:22Z",
+    "uri": "https://github.com/josedom24/curso_programacion",
+    "period": "daily",
+    "language": "papyrus"
+  },
+  {
+    "logged": "2022-06-04T01:51:46Z",
+    "uri": "https://github.com/holbertonschool/Betty",
+    "period": "daily",
+    "language": "perl"
+  },
+  {
+    "logged": "2022-06-04T01:51:46Z",
+    "uri": "https://github.com/Oreomeow/checkinpanel",
+    "period": "daily",
+    "language": "perl"
+  },
+  {
+    "logged": "2022-06-04T01:51:46Z",
+    "uri": "https://github.com/regru/API-CPanel",
+    "period": "daily",
+    "language": "perl"
+  },
+  {
+    "logged": "2022-06-04T01:52:09Z",
+    "uri": "https://github.com/anthonydb/practical-sql-2",
+    "period": "daily",
+    "language": "plpgsql"
+  },
+  {
+    "logged": "2022-06-04T01:52:09Z",
+    "uri": "https://github.com/soupowertuning/Script_SQLServer_Alerts",
+    "period": "daily",
+    "language": "plpgsql"
+  },
+  {
+    "logged": "2022-06-04T01:52:35Z",
+    "uri": "https://github.com/SNGWN/Burp-Suite",
+    "period": "daily",
+    "language": "powershell"
+  },
+  {
+    "logged": "2022-06-04T01:52:35Z",
+    "uri": "https://github.com/MicrosoftDocs/windows-powershell-docs",
+    "period": "daily",
+    "language": "powershell"
+  },
+  {
+    "logged": "2022-06-04T01:52:35Z",
+    "uri": "https://github.com/Yamato-Security/WELA",
+    "period": "daily",
+    "language": "powershell"
+  },
+  {
+    "logged": "2022-06-04T01:53:04Z",
+    "uri": "https://github.com/Einundzwanzig-Podcast/einundzwanzig.space",
+    "period": "daily",
+    "language": "pug"
+  },
+  {
+    "logged": "2022-06-04T01:53:00Z",
+    "uri": "https://github.com/doodles526/Atom-Group",
+    "period": "daily",
+    "language": "puppet"
+  },
+  {
+    "logged": "2022-06-04T01:53:00Z",
+    "uri": "https://github.com/chrisboulton/puppet-ssl",
+    "period": "daily",
+    "language": "puppet"
+  },
+  {
+    "logged": "2022-06-04T01:53:14Z",
+    "uri": "https://github.com/purescript-contrib/purescript-argonaut-core",
+    "period": "daily",
+    "language": "purescript"
+  },
+  {
+    "logged": "2022-06-04T01:53:14Z",
+    "uri": "https://github.com/garyb/purescript-debug",
+    "period": "daily",
+    "language": "purescript"
+  },
+  {
+    "logged": "2022-06-04T01:53:14Z",
+    "uri": "https://github.com/natefaubion/purescript-variant",
+    "period": "daily",
+    "language": "purescript"
+  },
+  {
+    "logged": "2022-06-04T01:53:32Z",
+    "uri": "https://github.com/Raymo111/Raymo111",
+    "period": "daily",
+    "language": "r"
+  },
+  {
+    "logged": "2022-06-04T01:53:32Z",
+    "uri": "https://github.com/hms-dbmi-cellenics/worker",
+    "period": "daily",
+    "language": "r"
+  },
+  {
+    "logged": "2022-06-04T01:53:32Z",
+    "uri": "https://github.com/hms-dbmi-cellenics/pipeline",
+    "period": "daily",
+    "language": "r"
+  },
+  {
+    "logged": "2022-06-04T01:53:45Z",
+    "uri": "https://github.com/commercetools/commercetools-docs-kit",
+    "period": "daily",
+    "language": "raml"
+  },
+  {
+    "logged": "2022-06-04T01:53:54Z",
+    "uri": "https://github.com/MinaProtocol/docs",
+    "period": "daily",
+    "language": "reason"
+  },
+  {
+    "logged": "2022-06-04T01:54:02Z",
+    "uri": "https://github.com/red/red",
+    "period": "daily",
+    "language": "red"
+  },
+  {
+    "logged": "2022-06-04T01:54:14Z",
+    "uri": "https://github.com/ordohereticus/open_fortress",
+    "period": "daily",
+    "language": "rescript"
+  },
+  {
+    "logged": "2022-06-04T01:54:14Z",
+    "uri": "https://github.com/SteamDatabase/GameTracking-CSGO",
+    "period": "daily",
+    "language": "rescript"
+  },
+  {
+    "logged": "2022-06-04T01:54:14Z",
+    "uri": "https://github.com/GNUAspell/aspell",
+    "period": "daily",
+    "language": "rescript"
+  },
+  {
+    "logged": "2022-06-04T01:54:19Z",
+    "uri": "https://github.com/Maradonna90/NewGAN-Manager",
+    "period": "daily",
+    "language": "rich-text-format"
+  },
+  {
+    "logged": "2022-06-04T01:54:35Z",
+    "uri": "https://github.com/gkjohnson/threejs-sandbox",
+    "period": "daily",
+    "language": "roff"
+  },
+  {
+    "logged": "2022-06-04T01:54:35Z",
+    "uri": "https://github.com/apisec-inc/documentation",
+    "period": "daily",
+    "language": "roff"
+  },
+  {
+    "logged": "2022-06-04T01:54:53Z",
+    "uri": "https://github.com/paritytech/polkadot",
+    "period": "daily",
+    "language": "rust"
+  },
+  {
+    "logged": "2022-06-04T01:54:53Z",
+    "uri": "https://github.com/CESSProject/cess",
+    "period": "daily",
+    "language": "rust"
+  },
+  {
+    "logged": "2022-06-04T01:54:53Z",
+    "uri": "https://github.com/sharkdp/fd",
+    "period": "daily",
+    "language": "rust"
+  },
+  {
+    "logged": "2022-06-04T01:55:04Z",
+    "uri": "https://github.com/typelevel/cats",
+    "period": "daily",
+    "language": "scala"
+  },
+  {
+    "logged": "2022-06-04T01:55:04Z",
+    "uri": "https://github.com/Azure/azure-cosmosdb-spark",
+    "period": "daily",
+    "language": "scala"
+  },
+  {
+    "logged": "2022-06-04T01:55:04Z",
+    "uri": "https://github.com/JohnSnowLabs/spark-nlp",
+    "period": "daily",
+    "language": "scala"
+  },
+  {
+    "logged": "2022-06-04T01:54:56Z",
+    "uri": "https://github.com/nvim-treesitter/nvim-treesitter-textobjects",
+    "period": "daily",
+    "language": "scheme"
+  },
+  {
+    "logged": "2022-06-04T01:54:56Z",
+    "uri": "https://github.com/SmiteshP/nvim-gps",
+    "period": "daily",
+    "language": "scheme"
+  },
+  {
+    "logged": "2022-06-04T01:54:56Z",
+    "uri": "https://github.com/RRethy/nvim-treesitter-textsubjects",
+    "period": "daily",
+    "language": "scheme"
+  },
+  {
+    "logged": "2022-06-04T01:55:25Z",
+    "uri": "https://github.com/compose-spec/compose-spec",
+    "period": "daily",
+    "language": "scss"
+  },
+  {
+    "logged": "2022-06-04T01:55:25Z",
+    "uri": "https://github.com/pin4eva/envo",
+    "period": "daily",
+    "language": "scss"
+  },
+  {
+    "logged": "2022-06-04T01:55:25Z",
+    "uri": "https://github.com/pages-themes/cayman",
+    "period": "daily",
+    "language": "scss"
+  },
+  {
+    "logged": "2022-06-04T01:55:36Z",
+    "uri": "https://github.com/tossp/redpill-tool-chain",
+    "period": "daily",
+    "language": "shell"
+  },
+  {
+    "logged": "2022-06-04T01:55:36Z",
+    "uri": "https://github.com/hq450/fancyss",
+    "period": "daily",
+    "language": "shell"
+  },
+  {
+    "logged": "2022-06-04T01:55:36Z",
+    "uri": "https://github.com/th33xitus/kiauh",
+    "period": "daily",
+    "language": "shell"
+  },
+  {
+    "logged": "2022-06-04T01:56:20Z",
+    "uri": "https://github.com/juliendelplanque/Iterators",
+    "period": "daily",
+    "language": "smalltalk"
+  },
+  {
+    "logged": "2022-06-04T01:56:20Z",
+    "uri": "https://github.com/feenkcom/gtoolkit-remote",
+    "period": "daily",
+    "language": "smalltalk"
+  },
+  {
+    "logged": "2022-06-04T01:56:20Z",
+    "uri": "https://github.com/feenkcom/gt4magritte",
+    "period": "daily",
+    "language": "smalltalk"
+  },
+  {
+    "logged": "2022-06-04T01:56:16Z",
+    "uri": "https://github.com/aws-samples/Load-testing-your-workload-running-on-Amazon-EKS-with-Locust",
+    "period": "daily",
+    "language": "smarty"
+  },
+  {
+    "logged": "2022-06-04T01:56:16Z",
+    "uri": "https://github.com/supabase-community/supabase-kubernetes",
+    "period": "daily",
+    "language": "smarty"
+  },
+  {
+    "logged": "2022-06-04T01:56:30Z",
+    "uri": "https://github.com/CoolCatsNFTPublic/SolidityInterviewTest",
+    "period": "daily",
+    "language": "solidity"
+  },
+  {
+    "logged": "2022-06-04T01:56:30Z",
+    "uri": "https://github.com/TRON-Developer-Hub/TRC20-Contract-Template",
+    "period": "daily",
+    "language": "solidity"
+  },
+  {
+    "logged": "2022-06-04T01:56:30Z",
+    "uri": "https://github.com/ConsenSys/quorum-dev-quickstart",
+    "period": "daily",
+    "language": "solidity"
+  },
+  {
+    "logged": "2022-06-04T01:56:26Z",
+    "uri": "https://github.com/kgns/weapons",
+    "period": "daily",
+    "language": "sourcepawn"
+  },
+  {
+    "logged": "2022-06-04T01:56:56Z",
+    "uri": "https://github.com/bazelbuild/starlark",
+    "period": "daily",
+    "language": "starlark"
+  },
+  {
+    "logged": "2022-06-04T01:56:56Z",
+    "uri": "https://github.com/bazel-ios/rules_ios",
+    "period": "daily",
+    "language": "starlark"
+  },
+  {
+    "logged": "2022-06-04T01:56:56Z",
+    "uri": "https://github.com/tweag/rules_sh",
+    "period": "daily",
+    "language": "starlark"
+  },
+  {
+    "logged": "2022-06-04T01:57:04Z",
+    "uri": "https://github.com/YunYouJun/hexo-theme-yun",
+    "period": "daily",
+    "language": "stylus"
+  },
+  {
+    "logged": "2022-06-04T01:57:12Z",
+    "uri": "https://github.com/oslabs-beta/Svelvet",
+    "period": "daily",
+    "language": "svelte"
+  },
+  {
+    "logged": "2022-06-04T01:57:12Z",
+    "uri": "https://github.com/windmill-labs/windmill",
+    "period": "daily",
+    "language": "svelte"
+  },
+  {
+    "logged": "2022-06-04T01:57:12Z",
+    "uri": "https://github.com/ANovokmet/svelte-gantt",
+    "period": "daily",
+    "language": "svelte"
+  },
+  {
+    "logged": "2022-06-04T01:57:17Z",
+    "uri": "https://github.com/tandpfun/skill-icons",
+    "period": "daily",
+    "language": "svg"
+  },
+  {
+    "logged": "2022-06-04T01:57:17Z",
+    "uri": "https://github.com/marmelroy/PhoneNumberKit",
+    "period": "daily",
+    "language": "swift"
+  },
+  {
+    "logged": "2022-06-04T01:57:17Z",
+    "uri": "https://github.com/AppPear/ChartView",
+    "period": "daily",
+    "language": "swift"
+  },
+  {
+    "logged": "2022-06-04T01:57:17Z",
+    "uri": "https://github.com/twostraws/CodeScanner",
+    "period": "daily",
+    "language": "swift"
+  },
+  {
+    "logged": "2022-06-04T01:57:36Z",
+    "uri": "https://github.com/macports/macports-base",
+    "period": "daily",
+    "language": "tcl"
+  },
+  {
+    "logged": "2022-06-04T01:57:51Z",
+    "uri": "https://github.com/zepinglee/gbt7714-bibtex-style",
+    "period": "daily",
+    "language": "tex"
+  },
+  {
+    "logged": "2022-06-04T01:57:51Z",
+    "uri": "https://github.com/jankapunkt/latexcv",
+    "period": "daily",
+    "language": "tex"
+  },
+  {
+    "logged": "2022-06-04T01:57:51Z",
+    "uri": "https://github.com/tuna/THU-Beamer-Theme",
+    "period": "daily",
+    "language": "tex"
+  },
+  {
+    "logged": "2022-06-04T01:58:22Z",
+    "uri": "https://github.com/mcflyamorim/GitHub_Cursos",
+    "period": "daily",
+    "language": "tsql"
+  },
+  {
+    "logged": "2022-06-04T01:58:30Z",
+    "uri": "https://github.com/PABD21/pse",
+    "period": "daily",
+    "language": "twig"
+  },
+  {
+    "logged": "2022-06-04T01:58:42Z",
+    "uri": "https://github.com/actions/upload-artifact",
+    "period": "daily",
+    "language": "typescript"
+  },
+  {
+    "logged": "2022-06-04T01:58:42Z",
+    "uri": "https://github.com/vitejs/vite",
+    "period": "daily",
+    "language": "typescript"
+  },
+  {
+    "logged": "2022-06-04T01:58:42Z",
+    "uri": "https://github.com/wbkd/react-flow",
+    "period": "daily",
+    "language": "typescript"
+  },
+  {
+    "logged": "2022-06-04T01:58:59Z",
+    "uri": "https://github.com/vlang/gitly",
+    "period": "daily",
+    "language": "v"
+  },
+  {
+    "logged": "2022-06-04T01:59:04Z",
+    "uri": "https://github.com/alainm23/planner",
+    "period": "daily",
+    "language": "vala"
+  },
+  {
+    "logged": "2022-06-04T01:59:08Z",
+    "uri": "https://github.com/Jonathan-LeRoux/IguanaTex",
+    "period": "daily",
+    "language": "vba"
+  },
+  {
+    "logged": "2022-06-04T01:59:18Z",
+    "uri": "https://github.com/The-OpenROAD-Project/OpenROAD",
+    "period": "daily",
+    "language": "verilog"
+  },
+  {
+    "logged": "2022-06-04T01:59:15Z",
+    "uri": "https://github.com/ViacheslavL/vhdl_examples",
+    "period": "daily",
+    "language": "vhdl"
+  },
+  {
+    "logged": "2022-06-04T01:59:15Z",
+    "uri": "https://github.com/MiSTer-devel/PSX_MiSTer",
+    "period": "daily",
+    "language": "vhdl"
+  },
+  {
+    "logged": "2022-06-04T01:59:29Z",
+    "uri": "https://github.com/voldikss/vim-floaterm",
+    "period": "daily",
+    "language": "vim-script"
+  },
+  {
+    "logged": "2022-06-04T01:59:29Z",
+    "uri": "https://github.com/vim-syntastic/syntastic",
+    "period": "daily",
+    "language": "vim-script"
+  },
+  {
+    "logged": "2022-06-04T01:59:29Z",
+    "uri": "https://github.com/easymotion/vim-easymotion",
+    "period": "daily",
+    "language": "vim-script"
+  },
+  {
+    "logged": "2022-06-04T01:59:25Z",
+    "uri": "https://github.com/feomike/Masters-Thesis",
+    "period": "daily",
+    "language": "visual-basic-.net"
+  },
+  {
+    "logged": "2022-06-04T01:59:39Z",
+    "uri": "https://github.com/staniel359/muffon",
+    "period": "daily",
+    "language": "vue"
+  },
+  {
+    "logged": "2022-06-04T01:59:39Z",
+    "uri": "https://github.com/Akryum/vue-virtual-scroller",
+    "period": "daily",
+    "language": "vue"
+  },
+  {
+    "logged": "2022-06-04T01:59:39Z",
+    "uri": "https://github.com/abhisheknaiidu/awesome-github-profile-readme",
+    "period": "daily",
+    "language": "vue"
+  },
+  {
+    "logged": "2022-06-04T02:00:36Z",
+    "uri": "https://github.com/cznic/y",
+    "period": "daily",
+    "language": "yacc"
+  },
+  {
+    "logged": "2022-06-04T02:00:50Z",
+    "uri": "https://github.com/archanchoudhury/MSDT_CVE-2022-30190",
+    "period": "daily",
+    "language": "yara"
+  },
+  {
+    "logged": "2022-06-04T02:00:50Z",
+    "uri": "https://github.com/ParrotSec/mimikatz",
+    "period": "daily",
+    "language": "yara"
+  },
+  {
+    "logged": "2022-06-04T02:00:57Z",
+    "uri": "https://github.com/PIPILAN/Parasites-Blood-Dawn",
+    "period": "daily",
+    "language": "zenscript"
+  },
+  {
+    "logged": "2022-06-04T02:01:43Z",
+    "uri": "https://github.com/lucidrains/imagen-pytorch",
+    "period": "weekly",
+    "language": "all"
+  },
+  {
+    "logged": "2022-06-04T02:01:43Z",
+    "uri": "https://github.com/facebook/flipper",
+    "period": "weekly",
+    "language": "all"
+  },
+  {
+    "logged": "2022-06-04T02:01:43Z",
+    "uri": "https://github.com/phyver/GameShell",
+    "period": "weekly",
+    "language": "all"
+  },
+  {
+    "logged": "2022-06-04T02:04:04Z",
+    "uri": "https://github.com/randorisec/MobileHackingCheatSheet",
+    "period": "weekly",
+    "language": "unknown"
+  },
+  {
+    "logged": "2022-06-04T02:04:04Z",
+    "uri": "https://github.com/byoungd/English-level-up-tips",
+    "period": "weekly",
+    "language": "unknown"
+  },
+  {
+    "logged": "2022-06-04T02:04:04Z",
+    "uri": "https://github.com/xlc520/MaoTV",
+    "period": "weekly",
+    "language": "unknown"
+  },
+  {
+    "logged": "2022-06-04T02:02:00Z",
+    "uri": "https://github.com/tdlib/td",
+    "period": "weekly",
+    "language": "c++"
+  },
+  {
+    "logged": "2022-06-04T02:02:00Z",
+    "uri": "https://github.com/google/re2",
+    "period": "weekly",
+    "language": "c++"
+  },
+  {
+    "logged": "2022-06-04T02:02:00Z",
+    "uri": "https://github.com/xournalpp/xournalpp",
+    "period": "weekly",
+    "language": "c++"
+  },
+  {
+    "logged": "2022-06-04T02:01:22Z",
+    "uri": "https://github.com/facebookresearch/fastText",
+    "period": "weekly",
+    "language": "html"
+  },
+  {
+    "logged": "2022-06-04T02:01:22Z",
+    "uri": "https://github.com/mattermost/focalboard",
+    "period": "weekly",
+    "language": "html"
+  },
+  {
+    "logged": "2022-06-04T02:03:04Z",
+    "uri": "https://github.com/catvod/CatVodTVSpider",
+    "period": "weekly",
+    "language": "java"
+  },
+  {
+    "logged": "2022-06-04T02:03:04Z",
+    "uri": "https://github.com/doocs/source-code-hunter",
+    "period": "weekly",
+    "language": "java"
+  },
+  {
+    "logged": "2022-06-04T02:03:04Z",
+    "uri": "https://github.com/termux/termux-app",
+    "period": "weekly",
+    "language": "java"
+  },
+  {
+    "logged": "2022-06-04T02:03:31Z",
+    "uri": "https://github.com/appium/appium",
+    "period": "weekly",
+    "language": "javascript"
+  },
+  {
+    "logged": "2022-06-04T02:03:31Z",
+    "uri": "https://github.com/lowlighter/metrics",
+    "period": "weekly",
+    "language": "javascript"
+  },
+  {
+    "logged": "2022-06-04T02:03:31Z",
+    "uri": "https://github.com/PipedreamHQ/pipedream",
+    "period": "weekly",
+    "language": "javascript"
+  },
+  {
+    "logged": "2022-06-04T02:02:55Z",
+    "uri": "https://github.com/moodle/moodle",
+    "period": "weekly",
+    "language": "php"
+  },
+  {
+    "logged": "2022-06-04T02:02:55Z",
+    "uri": "https://github.com/briannesbitt/Carbon",
+    "period": "weekly",
+    "language": "php"
+  },
+  {
+    "logged": "2022-06-04T02:02:55Z",
+    "uri": "https://github.com/nikic/PHP-Parser",
+    "period": "weekly",
+    "language": "php"
+  },
+  {
+    "logged": "2022-06-04T02:02:29Z",
+    "uri": "https://github.com/keras-team/keras",
+    "period": "weekly",
+    "language": "python"
+  },
+  {
+    "logged": "2022-06-04T02:02:29Z",
+    "uri": "https://github.com/acantril/learn-cantrill-io-labs",
+    "period": "weekly",
+    "language": "python"
+  },
+  {
+    "logged": "2022-06-04T02:02:29Z",
+    "uri": "https://github.com/apache/tvm",
+    "period": "weekly",
+    "language": "python"
+  },
+  {
+    "logged": "2022-06-04T02:04:04Z",
+    "uri": "https://github.com/elastic/elasticsearch-ruby",
+    "period": "weekly",
+    "language": "ruby"
+  },
+  {
+    "logged": "2022-06-04T02:04:04Z",
+    "uri": "https://github.com/fluent/fluentd-kubernetes-daemonset",
+    "period": "weekly",
+    "language": "ruby"
+  },
+  {
+    "logged": "2022-06-04T02:04:04Z",
+    "uri": "https://github.com/spree/spree",
+    "period": "weekly",
+    "language": "ruby"
+  },
+  {
+    "logged": "2022-06-04T02:04:29Z",
+    "uri": "https://github.com/roberttomczak/railsprojects",
+    "period": "weekly",
+    "language": "actionscript"
+  },
+  {
+    "logged": "2022-06-04T02:04:29Z",
+    "uri": "https://github.com/neopoly/flash_asset_resolver",
+    "period": "weekly",
+    "language": "actionscript"
+  },
+  {
+    "logged": "2022-06-04T02:05:02Z",
+    "uri": "https://github.com/david-jordan-appirio/citest",
+    "period": "weekly",
+    "language": "apex"
+  },
+  {
+    "logged": "2022-06-04T02:05:02Z",
+    "uri": "https://github.com/grafana/.github",
+    "period": "weekly",
+    "language": "apex"
+  },
+  {
+    "logged": "2022-06-04T02:07:19Z",
+    "uri": "https://github.com/RainerAtSpirit/DVWP-HTML5",
+    "period": "weekly",
+    "language": "classic-asp"
+  },
+  {
+    "logged": "2022-06-04T02:05:29Z",
+    "uri": "https://github.com/mbbarbosa/libsnark-supercop",
+    "period": "weekly",
+    "language": "assembly"
+  },
+  {
+    "logged": "2022-06-04T02:05:29Z",
+    "uri": "https://github.com/xiph/rav1e",
+    "period": "weekly",
+    "language": "assembly"
+  },
+  {
+    "logged": "2022-06-04T02:05:24Z",
+    "uri": "https://github.com/withastro/docs",
+    "period": "weekly",
+    "language": "astro"
+  },
+  {
+    "logged": "2022-06-04T02:05:37Z",
+    "uri": "https://github.com/Lexikos/AutoHotkey_L-Docs",
+    "period": "weekly",
+    "language": "autohotkey"
+  },
+  {
+    "logged": "2022-06-04T02:05:40Z",
+    "uri": "https://github.com/ballerina-platform/ballerina-lang",
+    "period": "weekly",
+    "language": "ballerina"
+  },
+  {
+    "logged": "2022-06-04T02:05:48Z",
+    "uri": "https://github.com/kkkgo/LTSC-Add-MicrosoftStore",
+    "period": "weekly",
+    "language": "batchfile"
+  },
+  {
+    "logged": "2022-06-04T02:05:48Z",
+    "uri": "https://github.com/brochen218/freerdp",
+    "period": "weekly",
+    "language": "batchfile"
+  },
+  {
+    "logged": "2022-06-04T02:05:48Z",
+    "uri": "https://github.com/Dreeg/Creazione-.doc-con-numero-progressivo",
+    "period": "weekly",
+    "language": "batchfile"
+  },
+  {
+    "logged": "2022-06-04T02:06:05Z",
+    "uri": "https://github.com/mkocansey/bladewind",
+    "period": "weekly",
+    "language": "blade"
+  },
+  {
+    "logged": "2022-06-04T02:06:35Z",
+    "uri": "https://github.com/greenplum-db/gpdb",
+    "period": "weekly",
+    "language": "c"
+  },
+  {
+    "logged": "2022-06-04T02:06:35Z",
+    "uri": "https://github.com/RfidResearchGroup/proxmark3",
+    "period": "weekly",
+    "language": "c"
+  },
+  {
+    "logged": "2022-06-04T02:06:35Z",
+    "uri": "https://github.com/taosdata/TDengine",
+    "period": "weekly",
+    "language": "c"
+  },
+  {
+    "logged": "2022-06-04T02:06:40Z",
+    "uri": "https://github.com/SubtitleEdit/subtitleedit",
+    "period": "weekly",
+    "language": "c%23"
+  },
+  {
+    "logged": "2022-06-04T02:06:40Z",
+    "uri": "https://github.com/lionsoul2014/ip2region",
+    "period": "weekly",
+    "language": "c%23"
+  },
+  {
+    "logged": "2022-06-04T02:06:40Z",
+    "uri": "https://github.com/mxgmn/WaveFunctionCollapse",
+    "period": "weekly",
+    "language": "c%23"
+  },
+  {
+    "logged": "2022-06-04T02:07:32Z",
+    "uri": "https://github.com/liquidz/build.edn",
+    "period": "weekly",
+    "language": "clojure"
+  },
+  {
+    "logged": "2022-06-04T02:07:32Z",
+    "uri": "https://github.com/thheller/shadow-cljs",
+    "period": "weekly",
+    "language": "clojure"
+  },
+  {
+    "logged": "2022-06-04T02:07:32Z",
+    "uri": "https://github.com/beulet/DrugsRUs",
+    "period": "weekly",
+    "language": "clojure"
+  },
+  {
+    "logged": "2022-06-04T02:07:42Z",
+    "uri": "https://github.com/rapyuta-robotics/UE_msgs",
+    "period": "weekly",
+    "language": "cmake"
+  },
+  {
+    "logged": "2022-06-04T02:07:42Z",
+    "uri": "https://github.com/ros2/orocos_kdl_vendor",
+    "period": "weekly",
+    "language": "cmake"
+  },
+  {
+    "logged": "2022-06-04T02:07:52Z",
+    "uri": "https://github.com/antho1404/chat.js",
+    "period": "weekly",
+    "language": "coffeescript"
+  },
+  {
+    "logged": "2022-06-04T02:07:52Z",
+    "uri": "https://github.com/jonstipe/datetime-local-polyfill",
+    "period": "weekly",
+    "language": "coffeescript"
+  },
+  {
+    "logged": "2022-06-04T02:07:52Z",
+    "uri": "https://github.com/jonstipe/datetime-polyfill",
+    "period": "weekly",
+    "language": "coffeescript"
+  },
+  {
+    "logged": "2022-06-04T02:08:02Z",
+    "uri": "https://github.com/google/lisp-koans",
+    "period": "weekly",
+    "language": "common-lisp"
+  },
+  {
+    "logged": "2022-06-04T02:08:19Z",
+    "uri": "https://github.com/Anyolite/anyolite",
+    "period": "weekly",
+    "language": "crystal"
+  },
+  {
+    "logged": "2022-06-04T02:08:29Z",
+    "uri": "https://github.com/primefaces/primereact",
+    "period": "weekly",
+    "language": "css"
+  },
+  {
+    "logged": "2022-06-04T02:08:29Z",
+    "uri": "https://github.com/BootstrapDash/star-admin2-free-admin-template",
+    "period": "weekly",
+    "language": "css"
+  },
+  {
+    "logged": "2022-06-04T02:08:29Z",
+    "uri": "https://github.com/microsoft/powercat-creator-kit",
+    "period": "weekly",
+    "language": "css"
+  },
+  {
+    "logged": "2022-06-04T02:08:46Z",
+    "uri": "https://github.com/bytedance/lightseq",
+    "period": "weekly",
+    "language": "cuda"
+  },
+  {
+    "logged": "2022-06-04T02:09:05Z",
+    "uri": "https://github.com/JideGuru/FlutterEbookApp",
+    "period": "weekly",
+    "language": "dart"
+  },
+  {
+    "logged": "2022-06-04T02:09:05Z",
+    "uri": "https://github.com/RivaanRanawat/flutter-amazon-clone-tutorial",
+    "period": "weekly",
+    "language": "dart"
+  },
+  {
+    "logged": "2022-06-04T02:09:05Z",
+    "uri": "https://github.com/honjow/FEhViewer",
+    "period": "weekly",
+    "language": "dart"
+  },
+  {
+    "logged": "2022-06-04T02:09:44Z",
+    "uri": "https://github.com/apache/apisix-docker",
+    "period": "weekly",
+    "language": "dockerfile"
+  },
+  {
+    "logged": "2022-06-04T02:09:44Z",
+    "uri": "https://github.com/MithunTechnologiesDevOps/metrics-server",
+    "period": "weekly",
+    "language": "dockerfile"
+  },
+  {
+    "logged": "2022-06-04T02:09:44Z",
+    "uri": "https://github.com/aws/aws-codebuild-docker-images",
+    "period": "weekly",
+    "language": "dockerfile"
+  },
+  {
+    "logged": "2022-06-04T02:10:31Z",
+    "uri": "https://github.com/papercups-io/papercups",
+    "period": "weekly",
+    "language": "elixir"
+  },
+  {
+    "logged": "2022-06-04T02:10:31Z",
+    "uri": "https://github.com/Financial-Times/k8s_traffic_plug",
+    "period": "weekly",
+    "language": "elixir"
+  },
+  {
+    "logged": "2022-06-04T02:10:31Z",
+    "uri": "https://github.com/unrelentingtech/httpotion",
+    "period": "weekly",
+    "language": "elixir"
+  },
+  {
+    "logged": "2022-06-04T02:10:41Z",
+    "uri": "https://github.com/emacs-lsp/lsp-mode",
+    "period": "weekly",
+    "language": "emacs-lisp"
+  },
+  {
+    "logged": "2022-06-04T02:10:41Z",
+    "uri": "https://github.com/dalanicolai/image-roll.el",
+    "period": "weekly",
+    "language": "emacs-lisp"
+  },
+  {
+    "logged": "2022-06-04T02:10:41Z",
+    "uri": "https://github.com/emacs-tree-sitter/tree-sitter-langs",
+    "period": "weekly",
+    "language": "emacs-lisp"
+  },
+  {
+    "logged": "2022-06-04T02:11:00Z",
+    "uri": "https://github.com/couchbase/geocouch",
+    "period": "weekly",
+    "language": "erlang"
+  },
+  {
+    "logged": "2022-06-04T02:11:00Z",
+    "uri": "https://github.com/couchbase/couchdb",
+    "period": "weekly",
+    "language": "erlang"
+  },
+  {
+    "logged": "2022-06-04T02:11:00Z",
+    "uri": "https://github.com/rabbitmq/rabbitmq-delayed-message-exchange",
+    "period": "weekly",
+    "language": "erlang"
+  },
+  {
+    "logged": "2022-06-04T02:11:16Z",
+    "uri": "https://github.com/shaunsingh/nyoom.nvim",
+    "period": "weekly",
+    "language": "fennel"
+  },
+  {
+    "logged": "2022-06-04T02:11:16Z",
+    "uri": "https://github.com/gpanders/editorconfig.nvim",
+    "period": "weekly",
+    "language": "fennel"
+  },
+  {
+    "logged": "2022-06-04T02:11:16Z",
+    "uri": "https://github.com/ggandor/leap.nvim",
+    "period": "weekly",
+    "language": "fennel"
+  },
+  {
+    "logged": "2022-06-04T02:11:33Z",
+    "uri": "https://github.com/starkiller-astro/weaklib",
+    "period": "weekly",
+    "language": "fortran"
+  },
+  {
+    "logged": "2022-06-04T02:11:33Z",
+    "uri": "https://github.com/endeve/thornado",
+    "period": "weekly",
+    "language": "fortran"
+  },
+  {
+    "logged": "2022-06-04T02:11:58Z",
+    "uri": "https://github.com/a-little-org-called-mario/a-little-game-called-mario",
+    "period": "weekly",
+    "language": "gdscript"
+  },
+  {
+    "logged": "2022-06-04T02:13:13Z",
+    "uri": "https://github.com/fsarmiento/grails-exercises",
+    "period": "weekly",
+    "language": "groovy"
+  },
+  {
+    "logged": "2022-06-04T02:13:13Z",
+    "uri": "https://github.com/fison67/LG-Connector",
+    "period": "weekly",
+    "language": "groovy"
+  },
+  {
+    "logged": "2022-06-04T02:13:13Z",
+    "uri": "https://github.com/adhocteam/jenkins-library",
+    "period": "weekly",
+    "language": "groovy"
+  },
+  {
+    "logged": "2022-06-04T02:13:21Z",
+    "uri": "https://github.com/hathora/hathora",
+    "period": "weekly",
+    "language": "handlebars"
+  },
+  {
+    "logged": "2022-06-04T02:13:21Z",
+    "uri": "https://github.com/wet-boew/wet-boew",
+    "period": "weekly",
+    "language": "handlebars"
+  },
+  {
+    "logged": "2022-06-04T02:13:37Z",
+    "uri": "https://github.com/jgm/pandoc",
+    "period": "weekly",
+    "language": "haskell"
+  },
+  {
+    "logged": "2022-06-04T02:13:37Z",
+    "uri": "https://github.com/PostgREST/postgrest",
+    "period": "weekly",
+    "language": "haskell"
+  },
+  {
+    "logged": "2022-06-04T02:13:36Z",
+    "uri": "https://github.com/andrew-git/Lune",
+    "period": "weekly",
+    "language": "haxe"
+  },
+  {
+    "logged": "2022-06-04T02:13:36Z",
+    "uri": "https://github.com/khuedoan/homelab",
+    "period": "weekly",
+    "language": "hcl"
+  },
+  {
+    "logged": "2022-06-04T02:13:36Z",
+    "uri": "https://github.com/cn-terraform/terraform-aws-ecs-service-autoscaling",
+    "period": "weekly",
+    "language": "hcl"
+  },
+  {
+    "logged": "2022-06-04T02:15:08Z",
+    "uri": "https://github.com/mdn/browser-compat-data",
+    "period": "weekly",
+    "language": "json"
+  },
+  {
+    "logged": "2022-06-04T02:15:15Z",
+    "uri": "https://github.com/netology-code/sysadm-homeworks",
+    "period": "weekly",
+    "language": "jsonnet"
+  },
+  {
+    "logged": "2022-06-04T02:15:15Z",
+    "uri": "https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards",
+    "period": "weekly",
+    "language": "jsonnet"
+  },
+  {
+    "logged": "2022-06-04T02:15:18Z",
+    "uri": "https://github.com/JuliaPlots/Plots.jl",
+    "period": "weekly",
+    "language": "julia"
+  },
+  {
+    "logged": "2022-06-04T02:15:18Z",
+    "uri": "https://github.com/JuliaGPU/CUDA.jl",
+    "period": "weekly",
+    "language": "julia"
+  },
+  {
+    "logged": "2022-06-04T02:15:28Z",
+    "uri": "https://github.com/Coding-with-Adam/Dash-by-Plotly",
+    "period": "weekly",
+    "language": "jupyter-notebook"
+  },
+  {
+    "logged": "2022-06-04T02:15:28Z",
+    "uri": "https://github.com/darkprinx/break-the-ice-with-python",
+    "period": "weekly",
+    "language": "jupyter-notebook"
+  },
+  {
+    "logged": "2022-06-04T02:15:28Z",
+    "uri": "https://github.com/tensorflow/examples",
+    "period": "weekly",
+    "language": "jupyter-notebook"
+  },
+  {
+    "logged": "2022-06-04T02:15:45Z",
+    "uri": "https://github.com/Kotlin/kotlinx.serialization",
+    "period": "weekly",
+    "language": "kotlin"
+  },
+  {
+    "logged": "2022-06-04T02:15:45Z",
+    "uri": "https://github.com/LagradOst/CloudStream-3",
+    "period": "weekly",
+    "language": "kotlin"
+  },
+  {
+    "logged": "2022-06-04T02:15:45Z",
+    "uri": "https://github.com/fankes/TSBattery",
+    "period": "weekly",
+    "language": "kotlin"
+  },
+  {
+    "logged": "2022-06-04T02:16:13Z",
+    "uri": "https://github.com/zdhxiong/mdui",
+    "period": "weekly",
+    "language": "less"
+  },
+  {
+    "logged": "2022-06-04T02:16:25Z",
+    "uri": "https://github.com/ag14spirit/Planning-Center-PCO-Services-Custom-Reports",
+    "period": "weekly",
+    "language": "liquid"
+  },
+  {
+    "logged": "2022-06-04T02:16:54Z",
+    "uri": "https://github.com/TimUntersberger/neogit",
+    "period": "weekly",
+    "language": "lua"
+  },
+  {
+    "logged": "2022-06-04T02:16:54Z",
+    "uri": "https://github.com/LunarVim/Neovim-from-scratch",
+    "period": "weekly",
+    "language": "lua"
+  },
+  {
+    "logged": "2022-06-04T02:16:54Z",
+    "uri": "https://github.com/neovim/nvim-lspconfig",
+    "period": "weekly",
+    "language": "lua"
+  },
+  {
+    "logged": "2022-06-04T02:17:12Z",
+    "uri": "https://github.com/emlid/code-quality",
+    "period": "weekly",
+    "language": "makefile"
+  },
+  {
+    "logged": "2022-06-04T02:17:12Z",
+    "uri": "https://github.com/spdx/license-list-XML",
+    "period": "weekly",
+    "language": "makefile"
+  },
+  {
+    "logged": "2022-06-04T02:17:12Z",
+    "uri": "https://github.com/moul/http2curl",
+    "period": "weekly",
+    "language": "makefile"
+  },
+  {
+    "logged": "2022-06-04T02:17:18Z",
+    "uri": "https://github.com/pantor/ruckig",
+    "period": "weekly",
+    "language": "mathematica"
+  },
+  {
+    "logged": "2022-06-04T02:17:30Z",
+    "uri": "https://github.com/UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera",
+    "period": "weekly",
+    "language": "matlab"
+  },
+  {
+    "logged": "2022-06-04T02:17:30Z",
+    "uri": "https://github.com/JimHokanson/matlab_web",
+    "period": "weekly",
+    "language": "matlab"
+  },
+  {
+    "logged": "2022-06-04T02:17:30Z",
+    "uri": "https://github.com/Azure/ccodashboard",
+    "period": "weekly",
+    "language": "matlab"
+  },
+  {
+    "logged": "2022-06-04T02:18:33Z",
+    "uri": "https://github.com/claytonjhamilton/claytonjhamilton",
+    "period": "weekly",
+    "language": "mustache"
+  },
+  {
+    "logged": "2022-06-04T02:18:33Z",
+    "uri": "https://github.com/acryldata/datahub-helm",
+    "period": "weekly",
+    "language": "mustache"
+  },
+  {
+    "logged": "2022-06-04T02:18:33Z",
+    "uri": "https://github.com/thmsgbrt/thmsgbrt",
+    "period": "weekly",
+    "language": "mustache"
+  },
+  {
+    "logged": "2022-06-04T02:18:29Z",
+    "uri": "https://github.com/STMicroelectronics/meta-st-stm32mp",
+    "period": "weekly",
+    "language": "nasl"
+  },
+  {
+    "logged": "2022-06-04T02:19:05Z",
+    "uri": "https://github.com/input-output-hk/haskell.nix",
+    "period": "weekly",
+    "language": "nix"
+  },
+  {
+    "logged": "2022-06-04T02:19:05Z",
+    "uri": "https://github.com/nix-community/NixOS-WSL",
+    "period": "weekly",
+    "language": "nix"
+  },
+  {
+    "logged": "2022-06-04T02:19:31Z",
+    "uri": "https://github.com/Cenmrev/V2RayX",
+    "period": "weekly",
+    "language": "objective-c"
+  },
+  {
+    "logged": "2022-06-04T02:19:31Z",
+    "uri": "https://github.com/amplitude/Amplitude-iOS",
+    "period": "weekly",
+    "language": "objective-c"
+  },
+  {
+    "logged": "2022-06-04T02:19:51Z",
+    "uri": "https://github.com/returntocorp/semgrep-interfaces",
+    "period": "weekly",
+    "language": "ocaml"
+  },
+  {
+    "logged": "2022-06-04T02:20:08Z",
+    "uri": "https://github.com/FrameworkComputer/Mainboard",
+    "period": "weekly",
+    "language": "openscad"
+  },
+  {
+    "logged": "2022-06-04T02:20:08Z",
+    "uri": "https://github.com/prusa3d/Original-Prusa-i3",
+    "period": "weekly",
+    "language": "openscad"
+  },
+  {
+    "logged": "2022-06-04T02:20:15Z",
+    "uri": "https://github.com/tecosaur/emacs-config",
+    "period": "weekly",
+    "language": "org"
+  },
+  {
+    "logged": "2022-06-04T02:20:39Z",
+    "uri": "https://github.com/jackpato77/millenium",
+    "period": "weekly",
+    "language": "pascal"
+  },
+  {
+    "logged": "2022-06-04T02:20:39Z",
+    "uri": "https://github.com/oov/aviutl_rampreview",
+    "period": "weekly",
+    "language": "pascal"
+  },
+  {
+    "logged": "2022-06-04T02:20:39Z",
+    "uri": "https://github.com/wppconnect-team/WPP4Delphi",
+    "period": "weekly",
+    "language": "pascal"
+  },
+  {
+    "logged": "2022-06-04T02:20:50Z",
+    "uri": "https://github.com/holbertonschool/Betty",
+    "period": "weekly",
+    "language": "perl"
+  },
+  {
+    "logged": "2022-06-04T02:20:50Z",
+    "uri": "https://github.com/centreon/centreon-plugins",
+    "period": "weekly",
+    "language": "perl"
+  },
+  {
+    "logged": "2022-06-04T02:20:50Z",
+    "uri": "https://github.com/rsnapshot/rsnapshot",
+    "period": "weekly",
+    "language": "perl"
+  },
+  {
+    "logged": "2022-06-04T02:21:08Z",
+    "uri": "https://github.com/FlipsideCrypto/ethereum-models",
+    "period": "weekly",
+    "language": "plpgsql"
+  },
+  {
+    "logged": "2022-06-04T02:21:08Z",
+    "uri": "https://github.com/anthonydb/practical-sql-2",
+    "period": "weekly",
+    "language": "plpgsql"
+  },
+  {
+    "logged": "2022-06-04T02:21:08Z",
+    "uri": "https://github.com/supabase/pg_graphql",
+    "period": "weekly",
+    "language": "plpgsql"
+  },
+  {
+    "logged": "2022-06-04T02:21:34Z",
+    "uri": "https://github.com/monoxgas/sRDI",
+    "period": "weekly",
+    "language": "powershell"
+  },
+  {
+    "logged": "2022-06-04T02:21:34Z",
+    "uri": "https://github.com/fdegoye/shakrdp",
+    "period": "weekly",
+    "language": "powershell"
+  },
+  {
+    "logged": "2022-06-04T02:21:34Z",
+    "uri": "https://github.com/dotnet/EntityFramework.Docs",
+    "period": "weekly",
+    "language": "powershell"
+  },
+  {
+    "logged": "2022-06-04T02:22:11Z",
+    "uri": "https://github.com/auth0-blog/auth0-express-pug-sample",
+    "period": "weekly",
+    "language": "pug"
+  },
+  {
+    "logged": "2022-06-04T02:22:08Z",
+    "uri": "https://github.com/davidwinter/puppet-nginx",
+    "period": "weekly",
+    "language": "puppet"
+  },
+  {
+    "logged": "2022-06-04T02:22:05Z",
+    "uri": "https://github.com/goldfish/LoH-LiveVideo",
+    "period": "weekly",
+    "language": "pure-data"
+  },
+  {
+    "logged": "2022-06-04T02:22:21Z",
+    "uri": "https://github.com/nwolverson/purescript-aff-promise",
+    "period": "weekly",
+    "language": "purescript"
+  },
+  {
+    "logged": "2022-06-04T02:22:21Z",
+    "uri": "https://github.com/natefaubion/purescript-variant",
+    "period": "weekly",
+    "language": "purescript"
+  },
+  {
+    "logged": "2022-06-04T02:22:21Z",
+    "uri": "https://github.com/purescript/purescript-ordered-collections",
+    "period": "weekly",
+    "language": "purescript"
+  },
+  {
+    "logged": "2022-06-04T02:22:40Z",
+    "uri": "https://github.com/STATWORX/blog",
+    "period": "weekly",
+    "language": "r"
+  },
+  {
+    "logged": "2022-06-04T02:22:40Z",
+    "uri": "https://github.com/plotly/plotly.R",
+    "period": "weekly",
+    "language": "r"
+  },
+  {
+    "logged": "2022-06-04T02:22:40Z",
+    "uri": "https://github.com/hadley/r4ds",
+    "period": "weekly",
+    "language": "r"
+  },
+  {
+    "logged": "2022-06-04T02:23:21Z",
+    "uri": "https://github.com/Jasbir96/Batches",
+    "period": "weekly",
+    "language": "rich-text-format"
+  },
+  {
+    "logged": "2022-06-04T02:23:21Z",
+    "uri": "https://github.com/phodal/github",
+    "period": "weekly",
+    "language": "rich-text-format"
+  },
+  {
+    "logged": "2022-06-04T02:23:41Z",
+    "uri": "https://github.com/moses-smt/mosesdecoder",
+    "period": "weekly",
+    "language": "roff"
+  },
+  {
+    "logged": "2022-06-04T02:23:59Z",
+    "uri": "https://github.com/0x192/universal-android-debloater",
+    "period": "weekly",
+    "language": "rust"
+  },
+  {
+    "logged": "2022-06-04T02:23:59Z",
+    "uri": "https://github.com/rustwasm/wasm-bindgen",
+    "period": "weekly",
+    "language": "rust"
+  },
+  {
+    "logged": "2022-06-04T02:23:59Z",
+    "uri": "https://github.com/rust-lang/book",
+    "period": "weekly",
+    "language": "rust"
+  },
+  {
+    "logged": "2022-06-04T02:24:03Z",
+    "uri": "https://github.com/readthedocs/sphinx_rtd_theme",
+    "period": "weekly",
+    "language": "sass"
+  },
+  {
+    "logged": "2022-06-04T02:24:10Z",
+    "uri": "https://github.com/microsoft/SynapseML",
+    "period": "weekly",
+    "language": "scala"
+  },
+  {
+    "logged": "2022-06-04T02:24:10Z",
+    "uri": "https://github.com/rtyley/bfg-repo-cleaner",
+    "period": "weekly",
+    "language": "scala"
+  },
+  {
+    "logged": "2022-06-04T02:24:10Z",
+    "uri": "https://github.com/apache/tvm-vta",
+    "period": "weekly",
+    "language": "scala"
+  },
+  {
+    "logged": "2022-06-04T02:24:26Z",
+    "uri": "https://github.com/keyvanakbary/learning-notes",
+    "period": "weekly",
+    "language": "scss"
+  },
+  {
+    "logged": "2022-06-04T02:24:26Z",
+    "uri": "https://github.com/creativetimofficial/material-dashboard",
+    "period": "weekly",
+    "language": "scss"
+  },
+  {
+    "logged": "2022-06-04T02:24:26Z",
+    "uri": "https://github.com/ministryofjustice/moj-frontend",
+    "period": "weekly",
+    "language": "scss"
+  },
+  {
+    "logged": "2022-06-04T02:24:32Z",
+    "uri": "https://github.com/candycat1992/Unity_Shaders_Book",
+    "period": "weekly",
+    "language": "shaderlab"
+  },
+  {
+    "logged": "2022-06-04T02:24:37Z",
+    "uri": "https://github.com/phyver/GameShell",
+    "period": "weekly",
+    "language": "shell"
+  },
+  {
+    "logged": "2022-06-04T02:24:37Z",
+    "uri": "https://github.com/getsentry/self-hosted",
+    "period": "weekly",
+    "language": "shell"
+  },
+  {
+    "logged": "2022-06-04T02:25:21Z",
+    "uri": "https://github.com/moosetechnology/PetitParser",
+    "period": "weekly",
+    "language": "smalltalk"
+  },
+  {
+    "logged": "2022-06-04T02:25:21Z",
+    "uri": "https://github.com/svenvc/NeoCSV",
+    "period": "weekly",
+    "language": "smalltalk"
+  },
+  {
+    "logged": "2022-06-04T02:25:21Z",
+    "uri": "https://github.com/pharo-ide/Ghost",
+    "period": "weekly",
+    "language": "smalltalk"
+  },
+  {
+    "logged": "2022-06-04T02:25:25Z",
+    "uri": "https://github.com/LiveRamp/privacy-manager-consent-state",
+    "period": "weekly",
+    "language": "smarty"
+  },
+  {
+    "logged": "2022-06-04T02:25:25Z",
+    "uri": "https://github.com/mediatis/gtm-event-dependency-manager",
+    "period": "weekly",
+    "language": "smarty"
+  },
+  {
+    "logged": "2022-06-04T02:25:25Z",
+    "uri": "https://github.com/solo-io/supergloo-helm",
+    "period": "weekly",
+    "language": "smarty"
+  },
+  {
+    "logged": "2022-06-04T02:25:35Z",
+    "uri": "https://github.com/foundry-rs/forge-std",
+    "period": "weekly",
+    "language": "solidity"
+  },
+  {
+    "logged": "2022-06-04T02:25:35Z",
+    "uri": "https://github.com/runtimeverification/verified-smart-contracts",
+    "period": "weekly",
+    "language": "solidity"
+  },
+  {
+    "logged": "2022-06-04T02:25:35Z",
+    "uri": "https://github.com/PatrickAlphaC/nft-mix",
+    "period": "weekly",
+    "language": "solidity"
+  },
+  {
+    "logged": "2022-06-04T02:25:56Z",
+    "uri": "https://github.com/composer/getcomposer.org",
+    "period": "weekly",
+    "language": "standard-ml"
+  },
+  {
+    "logged": "2022-06-04T02:25:56Z",
+    "uri": "https://github.com/mdsol/mauth-protocol-test-suite",
+    "period": "weekly",
+    "language": "standard-ml"
+  },
+  {
+    "logged": "2022-06-04T02:26:15Z",
+    "uri": "https://github.com/beromir/Servas",
+    "period": "weekly",
+    "language": "svelte"
+  },
+  {
+    "logged": "2022-06-04T02:26:15Z",
+    "uri": "https://github.com/EddieHubCommunity/good-first-issue-finder",
+    "period": "weekly",
+    "language": "svelte"
+  },
+  {
+    "logged": "2022-06-04T02:26:15Z",
+    "uri": "https://github.com/sveltejs/realworld",
+    "period": "weekly",
+    "language": "svelte"
+  },
+  {
+    "logged": "2022-06-04T02:26:21Z",
+    "uri": "https://github.com/Juanpe/SkeletonView",
+    "period": "weekly",
+    "language": "swift"
+  },
+  {
+    "logged": "2022-06-04T02:26:51Z",
+    "uri": "https://github.com/pulp-platform/axi_node",
+    "period": "weekly",
+    "language": "systemverilog"
+  },
+  {
+    "logged": "2022-06-04T02:26:51Z",
+    "uri": "https://github.com/pulp-platform/apb_node",
+    "period": "weekly",
+    "language": "systemverilog"
+  },
+  {
+    "logged": "2022-06-04T02:26:51Z",
+    "uri": "https://github.com/pulp-platform/apb_timer",
+    "period": "weekly",
+    "language": "systemverilog"
+  },
+  {
+    "logged": "2022-06-04T02:27:02Z",
+    "uri": "https://github.com/soulmachine/leetcode",
+    "period": "weekly",
+    "language": "tex"
+  },
+  {
+    "logged": "2022-06-04T02:27:02Z",
+    "uri": "https://github.com/jankapunkt/latexcv",
+    "period": "weekly",
+    "language": "tex"
+  },
+  {
+    "logged": "2022-06-04T02:27:02Z",
+    "uri": "https://github.com/latex3/latex2e",
+    "period": "weekly",
+    "language": "tex"
+  },
+  {
+    "logged": "2022-06-04T02:27:22Z",
+    "uri": "https://github.com/pingcap/tla-plus",
+    "period": "weekly",
+    "language": "tla"
+  },
+  {
+    "logged": "2022-06-04T02:27:31Z",
+    "uri": "https://github.com/TdP-esami/2020-06-29-M",
+    "period": "weekly",
+    "language": "tsql"
+  },
+  {
+    "logged": "2022-06-04T02:27:40Z",
+    "uri": "https://github.com/PABD21/pse",
+    "period": "weekly",
+    "language": "twig"
+  },
+  {
+    "logged": "2022-06-04T02:27:40Z",
+    "uri": "https://github.com/dative/mmisi-frontend",
+    "period": "weekly",
+    "language": "twig"
+  },
+  {
+    "logged": "2022-06-04T02:27:51Z",
+    "uri": "https://github.com/nativefier/nativefier",
+    "period": "weekly",
+    "language": "typescript"
+  },
+  {
+    "logged": "2022-06-04T02:27:51Z",
+    "uri": "https://github.com/mswjs/msw",
+    "period": "weekly",
+    "language": "typescript"
+  },
+  {
+    "logged": "2022-06-04T02:27:51Z",
+    "uri": "https://github.com/facebook/docusaurus",
+    "period": "weekly",
+    "language": "typescript"
+  },
+  {
+    "logged": "2022-06-04T02:28:11Z",
+    "uri": "https://github.com/lecepin/WeChatVideoDownloader",
+    "period": "weekly",
+    "language": "vbscript"
+  },
+  {
+    "logged": "2022-06-04T02:28:24Z",
+    "uri": "https://github.com/T-head-Semi/wujian100_open",
+    "period": "weekly",
+    "language": "verilog"
+  },
+  {
+    "logged": "2022-06-04T02:28:24Z",
+    "uri": "https://github.com/IObundle/iob-mem",
+    "period": "weekly",
+    "language": "verilog"
+  },
+  {
+    "logged": "2022-06-04T02:28:24Z",
+    "uri": "https://github.com/IObundle/iob-lib",
+    "period": "weekly",
+    "language": "verilog"
+  },
+  {
+    "logged": "2022-06-04T02:28:20Z",
+    "uri": "https://github.com/pulp-platform/apb_uart",
+    "period": "weekly",
+    "language": "vhdl"
+  },
+  {
+    "logged": "2022-06-04T02:28:35Z",
+    "uri": "https://github.com/sainnhe/everforest",
+    "period": "weekly",
+    "language": "vim-script"
+  },
+  {
+    "logged": "2022-06-04T02:28:35Z",
+    "uri": "https://github.com/easymotion/vim-easymotion",
+    "period": "weekly",
+    "language": "vim-script"
+  },
+  {
+    "logged": "2022-06-04T02:28:35Z",
+    "uri": "https://github.com/dhruvasagar/vim-table-mode",
+    "period": "weekly",
+    "language": "vim-script"
+  },
+  {
+    "logged": "2022-06-04T02:28:45Z",
+    "uri": "https://github.com/dcloudio/hello-uniapp",
+    "period": "weekly",
+    "language": "vue"
+  },
+  {
+    "logged": "2022-06-04T02:28:45Z",
+    "uri": "https://github.com/Lissy93/dashy",
+    "period": "weekly",
+    "language": "vue"
+  },
+  {
+    "logged": "2022-06-04T02:28:45Z",
+    "uri": "https://github.com/antfu/vitesse-nuxt3",
+    "period": "weekly",
+    "language": "vue"
+  },
+  {
+    "logged": "2022-06-04T02:29:46Z",
+    "uri": "https://github.com/OpenSCAP/openscap",
+    "period": "weekly",
+    "language": "xslt"
+  },
+  {
+    "logged": "2022-06-04T02:29:44Z",
+    "uri": "https://github.com/stashapp/CommunityScrapers",
+    "period": "weekly",
+    "language": "yaml"
+  },
+  {
+    "logged": "2022-06-04T02:29:53Z",
+    "uri": "https://github.com/project-chip/zap",
+    "period": "weekly",
+    "language": "zap"
+  },
+  {
+    "logged": "2022-06-04T02:30:38Z",
+    "uri": "https://github.com/education/GitHubGraduation-2022",
+    "period": "monthly",
+    "language": "all"
+  },
+  {
+    "logged": "2022-06-04T02:32:19Z",
+    "uri": "https://github.com/rwaldron/idiomatic.js",
+    "period": "monthly",
+    "language": "unknown"
+  },
+  {
+    "logged": "2022-06-04T02:30:32Z",
+    "uri": "https://github.com/tesseract-ocr/tesseract",
+    "period": "monthly",
+    "language": "c++"
+  },
+  {
+    "logged": "2022-06-04T02:30:32Z",
+    "uri": "https://github.com/ZLMediaKit/ZLMediaKit",
+    "period": "monthly",
+    "language": "c++"
+  },
+  {
+    "logged": "2022-06-04T02:30:32Z",
+    "uri": "https://github.com/carla-simulator/carla",
+    "period": "monthly",
+    "language": "c++"
+  },
+  {
+    "logged": "2022-06-04T02:30:27Z",
+    "uri": "https://github.com/rafaballerini/Formulario",
+    "period": "monthly",
+    "language": "html"
+  },
+  {
+    "logged": "2022-06-04T02:31:08Z",
+    "uri": "https://github.com/android/connectivity-samples",
+    "period": "monthly",
+    "language": "java"
+  },
+  {
+    "logged": "2022-06-04T02:31:08Z",
+    "uri": "https://github.com/reactor/reactor-netty",
+    "period": "monthly",
+    "language": "java"
+  },
+  {
+    "logged": "2022-06-04T02:31:08Z",
+    "uri": "https://github.com/YunaiV/SpringBoot-Labs",
+    "period": "monthly",
+    "language": "java"
+  },
+  {
+    "logged": "2022-06-04T02:31:22Z",
+    "uri": "https://github.com/NARKOZ/hacker-scripts",
+    "period": "monthly",
+    "language": "javascript"
+  },
+  {
+    "logged": "2022-06-04T02:31:22Z",
+    "uri": "https://github.com/terra-money/classic-core",
+    "period": "monthly",
+    "language": "javascript"
+  },
+  {
+    "logged": "2022-06-04T02:31:22Z",
+    "uri": "https://github.com/mrdoob/three.js",
+    "period": "monthly",
+    "language": "javascript"
+  },
+  {
+    "logged": "2022-06-04T02:31:59Z",
+    "uri": "https://github.com/barryvdh/laravel-debugbar",
+    "period": "monthly",
+    "language": "php"
+  },
+  {
+    "logged": "2022-06-04T02:31:59Z",
+    "uri": "https://github.com/hyperf/hyperf",
+    "period": "monthly",
+    "language": "php"
+  },
+  {
+    "logged": "2022-06-04T02:31:59Z",
+    "uri": "https://github.com/luolongfei/freenom",
+    "period": "monthly",
+    "language": "php"
+  },
+  {
+    "logged": "2022-06-04T02:31:40Z",
+    "uri": "https://github.com/iperov/DeepFaceLab",
+    "period": "monthly",
+    "language": "python"
+  },
+  {
+    "logged": "2022-06-04T02:31:40Z",
+    "uri": "https://github.com/deepfakes/faceswap",
+    "period": "monthly",
+    "language": "python"
+  },
+  {
+    "logged": "2022-06-04T02:31:40Z",
+    "uri": "https://github.com/PaddlePaddle/PaddleSpeech",
+    "period": "monthly",
+    "language": "python"
+  },
+  {
+    "logged": "2022-06-04T02:32:24Z",
+    "uri": "https://github.com/fluent/fluentd-kubernetes-daemonset",
+    "period": "monthly",
+    "language": "ruby"
+  },
+  {
+    "logged": "2022-06-04T02:32:24Z",
+    "uri": "https://github.com/forem/forem",
+    "period": "monthly",
+    "language": "ruby"
+  },
+  {
+    "logged": "2022-06-04T02:33:45Z",
+    "uri": "https://github.com/ConsenSys/gnark-crypto",
+    "period": "monthly",
+    "language": "assembly"
+  },
+  {
+    "logged": "2022-06-04T02:33:45Z",
+    "uri": "https://github.com/jthuraisamy/SysWhispers2",
+    "period": "monthly",
+    "language": "assembly"
+  },
+  {
+    "logged": "2022-06-04T02:33:54Z",
+    "uri": "https://github.com/hui-Zz/RunAny",
+    "period": "monthly",
+    "language": "autohotkey"
+  },
+  {
+    "logged": "2022-06-04T02:34:04Z",
+    "uri": "https://github.com/wildan444/TechToBangla",
+    "period": "monthly",
+    "language": "batchfile"
+  },
+  {
+    "logged": "2022-06-04T02:34:20Z",
+    "uri": "https://github.com/riscv/meta-riscv",
+    "period": "monthly",
+    "language": "bitbake"
+  },
+  {
+    "logged": "2022-06-04T02:34:55Z",
+    "uri": "https://github.com/Mbed-TLS/mbedtls",
+    "period": "monthly",
+    "language": "c"
+  },
+  {
+    "logged": "2022-06-04T02:34:55Z",
+    "uri": "https://github.com/0015/ThatProject",
+    "period": "monthly",
+    "language": "c"
+  },
+  {
+    "logged": "2022-06-04T02:34:55Z",
+    "uri": "https://github.com/haproxy/haproxy",
+    "period": "monthly",
+    "language": "c"
+  },
+  {
+    "logged": "2022-06-04T02:34:49Z",
+    "uri": "https://github.com/ChilliCream/hotchocolate",
+    "period": "monthly",
+    "language": "c%23"
+  },
+  {
+    "logged": "2022-06-04T02:34:49Z",
+    "uri": "https://github.com/GTA-ASM/SanAndreasUnity",
+    "period": "monthly",
+    "language": "c%23"
+  },
+  {
+    "logged": "2022-06-04T02:35:53Z",
+    "uri": "https://github.com/rapyuta-robotics/UE_msgs",
+    "period": "monthly",
+    "language": "cmake"
+  },
+  {
+    "logged": "2022-06-04T02:35:53Z",
+    "uri": "https://github.com/TartanLlama/tl-cmake",
+    "period": "monthly",
+    "language": "cmake"
+  },
+  {
+    "logged": "2022-06-04T02:35:53Z",
+    "uri": "https://github.com/mavlink/mavlink",
+    "period": "monthly",
+    "language": "cmake"
+  },
+  {
+    "logged": "2022-06-04T02:36:03Z",
+    "uri": "https://github.com/do39/NODEJS1",
+    "period": "monthly",
+    "language": "coffeescript"
+  },
+  {
+    "logged": "2022-06-04T02:36:03Z",
+    "uri": "https://github.com/Clever/saml2",
+    "period": "monthly",
+    "language": "coffeescript"
+  },
+  {
+    "logged": "2022-06-04T02:36:12Z",
+    "uri": "https://github.com/clasp-developers/clasp",
+    "period": "monthly",
+    "language": "common-lisp"
+  },
+  {
+    "logged": "2022-06-04T02:36:39Z",
+    "uri": "https://github.com/csstools/postcss-plugins",
+    "period": "monthly",
+    "language": "css"
+  },
+  {
+    "logged": "2022-06-04T02:36:51Z",
+    "uri": "https://github.com/NVlabs/instant-ngp",
+    "period": "monthly",
+    "language": "cuda"
+  },
+  {
+    "logged": "2022-06-04T02:37:11Z",
+    "uri": "https://github.com/pichillilorenzo/flutter_inappwebview",
+    "period": "monthly",
+    "language": "dart"
+  },
+  {
+    "logged": "2022-06-04T02:37:49Z",
+    "uri": "https://github.com/gd1214b/okteto-debain-desktop",
+    "period": "monthly",
+    "language": "dockerfile"
+  },
+  {
+    "logged": "2022-06-04T02:37:49Z",
+    "uri": "https://github.com/aws-amplify/amplify-hosting",
+    "period": "monthly",
+    "language": "dockerfile"
+  },
+  {
+    "logged": "2022-06-04T02:38:34Z",
+    "uri": "https://github.com/elixir-lsp/elixir_sense",
+    "period": "monthly",
+    "language": "elixir"
+  },
+  {
+    "logged": "2022-06-04T02:38:45Z",
+    "uri": "https://github.com/abo-abo/lispy",
+    "period": "monthly",
+    "language": "emacs-lisp"
+  },
+  {
+    "logged": "2022-06-04T02:38:45Z",
+    "uri": "https://github.com/emacscollective/packed",
+    "period": "monthly",
+    "language": "emacs-lisp"
+  },
+  {
+    "logged": "2022-06-04T02:39:11Z",
+    "uri": "https://github.com/epgsql/epgsql",
+    "period": "monthly",
+    "language": "erlang"
+  },
+  {
+    "logged": "2022-06-04T02:40:39Z",
+    "uri": "https://github.com/GDQuest/godot-shaders",
+    "period": "monthly",
+    "language": "glsl"
+  },
+  {
+    "logged": "2022-06-04T02:40:49Z",
+    "uri": "https://github.com/elastic/cloud-on-k8s",
+    "period": "monthly",
+    "language": "go"
+  },
+  {
+    "logged": "2022-06-04T02:40:49Z",
+    "uri": "https://github.com/labring/sealos",
+    "period": "monthly",
+    "language": "go"
+  },
+  {
+    "logged": "2022-06-04T02:41:46Z",
+    "uri": "https://github.com/zeyangli/jenkinslibrary",
+    "period": "monthly",
+    "language": "groovy"
+  },
+  {
+    "logged": "2022-06-04T02:41:46Z",
+    "uri": "https://github.com/fison67/mi_connector",
+    "period": "monthly",
+    "language": "groovy"
+  },
+  {
+    "logged": "2022-06-04T02:42:09Z",
+    "uri": "https://github.com/facebook/duckling",
+    "period": "monthly",
+    "language": "haskell"
+  },
+  {
+    "logged": "2022-06-04T02:42:09Z",
+    "uri": "https://github.com/jacobstanley/sudo4win",
+    "period": "monthly",
+    "language": "haskell"
+  },
+  {
+    "logged": "2022-06-04T02:42:09Z",
+    "uri": "https://github.com/input-output-hk/ouroboros-network",
+    "period": "monthly",
+    "language": "haskell"
+  },
+  {
+    "logged": "2022-06-04T02:42:08Z",
+    "uri": "https://github.com/Randomxdp/Psych-Engine-0.5.1-Android-Port",
+    "period": "monthly",
+    "language": "haxe"
+  },
+  {
+    "logged": "2022-06-04T02:42:04Z",
+    "uri": "https://github.com/openshift/okd",
+    "period": "monthly",
+    "language": "hcl"
+  },
+  {
+    "logged": "2022-06-04T02:42:04Z",
+    "uri": "https://github.com/terraform-aws-modules/terraform-aws-ec2-instance",
+    "period": "monthly",
+    "language": "hcl"
+  },
+  {
+    "logged": "2022-06-04T02:44:00Z",
+    "uri": "https://github.com/realpython/materials",
+    "period": "monthly",
+    "language": "jupyter-notebook"
+  },
+  {
+    "logged": "2022-06-04T02:44:00Z",
+    "uri": "https://github.com/microsoft/EconML",
+    "period": "monthly",
+    "language": "jupyter-notebook"
+  },
+  {
+    "logged": "2022-06-04T02:44:00Z",
+    "uri": "https://github.com/mahmoud/awesome-python-applications",
+    "period": "monthly",
+    "language": "jupyter-notebook"
+  },
+  {
+    "logged": "2022-06-04T02:44:21Z",
+    "uri": "https://github.com/square/okhttp",
+    "period": "monthly",
+    "language": "kotlin"
+  },
+  {
+    "logged": "2022-06-04T02:44:50Z",
+    "uri": "https://github.com/Tencent/weui-wxss",
+    "period": "monthly",
+    "language": "less"
+  },
+  {
+    "logged": "2022-06-04T02:45:32Z",
+    "uri": "https://github.com/CosmicNvim/CosmicNvim",
+    "period": "monthly",
+    "language": "lua"
+  },
+  {
+    "logged": "2022-06-04T02:45:52Z",
+    "uri": "https://github.com/kubernetes/design-proposals-archive",
+    "period": "monthly",
+    "language": "makefile"
+  },
+  {
+    "logged": "2022-06-04T02:47:14Z",
+    "uri": "https://github.com/yugabyte/yugabyte-platform-operator",
+    "period": "monthly",
+    "language": "mustache"
+  },
+  {
+    "logged": "2022-06-04T02:47:14Z",
+    "uri": "https://github.com/VictoriaMetrics/helm-charts",
+    "period": "monthly",
+    "language": "mustache"
+  },
+  {
+    "logged": "2022-06-04T02:48:01Z",
+    "uri": "https://github.com/11ty/eleventy-base-blog",
+    "period": "monthly",
+    "language": "nunjucks"
+  },
+  {
+    "logged": "2022-06-04T02:48:12Z",
+    "uri": "https://github.com/londonappbrewery/mi_card_flutter",
+    "period": "monthly",
+    "language": "objective-c"
+  },
+  {
+    "logged": "2022-06-04T02:49:32Z",
+    "uri": "https://github.com/jimsalterjrs/sanoid",
+    "period": "monthly",
+    "language": "perl"
+  },
+  {
+    "logged": "2022-06-04T02:49:32Z",
+    "uri": "https://github.com/maxmind/MaxMind-DB",
+    "period": "monthly",
+    "language": "perl"
+  },
+  {
+    "logged": "2022-06-04T02:50:19Z",
+    "uri": "https://github.com/MicrosoftDocs/architecture-center",
+    "period": "monthly",
+    "language": "powershell"
+  },
+  {
+    "logged": "2022-06-04T02:50:19Z",
+    "uri": "https://github.com/INotGreen/Gllloader",
+    "period": "monthly",
+    "language": "powershell"
+  },
+  {
+    "logged": "2022-06-04T02:50:56Z",
+    "uri": "https://github.com/purescript/purescript-functions",
+    "period": "monthly",
+    "language": "purescript"
+  },
+  {
+    "logged": "2022-06-04T02:50:56Z",
+    "uri": "https://github.com/purescript/purescript-invariant",
+    "period": "monthly",
+    "language": "purescript"
+  },
+  {
+    "logged": "2022-06-04T02:51:24Z",
+    "uri": "https://github.com/mulesoft/conformance-api-suite",
+    "period": "monthly",
+    "language": "raml"
+  },
+  {
+    "logged": "2022-06-04T02:51:59Z",
+    "uri": "https://github.com/phodal/github",
+    "period": "monthly",
+    "language": "rich-text-format"
+  },
+  {
+    "logged": "2022-06-04T02:52:34Z",
+    "uri": "https://github.com/sharkdp/fd",
+    "period": "monthly",
+    "language": "rust"
+  },
+  {
+    "logged": "2022-06-04T02:52:34Z",
+    "uri": "https://github.com/CleanCut/ultimate_rust_crash_course",
+    "period": "monthly",
+    "language": "rust"
+  },
+  {
+    "logged": "2022-06-04T02:52:34Z",
+    "uri": "https://github.com/ajeetdsouza/zoxide",
+    "period": "monthly",
+    "language": "rust"
+  },
+  {
+    "logged": "2022-06-04T02:52:45Z",
+    "uri": "https://github.com/digital-asset/daml",
+    "period": "monthly",
+    "language": "scala"
+  },
+  {
+    "logged": "2022-06-04T02:53:02Z",
+    "uri": "https://github.com/mdbootstrap/mdb-ui-kit",
+    "period": "monthly",
+    "language": "scss"
+  },
+  {
+    "logged": "2022-06-04T02:53:02Z",
+    "uri": "https://github.com/rstacruz/cheatsheets",
+    "period": "monthly",
+    "language": "scss"
+  },
+  {
+    "logged": "2022-06-04T02:54:12Z",
+    "uri": "https://github.com/makerdao/multicall",
+    "period": "monthly",
+    "language": "solidity"
+  },
+  {
+    "logged": "2022-06-04T02:54:07Z",
+    "uri": "https://github.com/splewis/csgo-practice-mode",
+    "period": "monthly",
+    "language": "sourcepawn"
+  },
+  {
+    "logged": "2022-06-04T02:54:37Z",
+    "uri": "https://github.com/cncf/udpa",
+    "period": "monthly",
+    "language": "starlark"
+  },
+  {
+    "logged": "2022-06-04T02:54:52Z",
+    "uri": "https://github.com/windmill-labs/windmill",
+    "period": "monthly",
+    "language": "svelte"
+  },
+  {
+    "logged": "2022-06-04T02:54:57Z",
+    "uri": "https://github.com/simonbs/Runestone",
+    "period": "monthly",
+    "language": "swift"
+  },
+  {
+    "logged": "2022-06-04T02:54:57Z",
+    "uri": "https://github.com/Alamofire/Alamofire",
+    "period": "monthly",
+    "language": "swift"
+  },
+  {
+    "logged": "2022-06-04T02:55:58Z",
+    "uri": "https://github.com/hithesis/hithesis",
+    "period": "monthly",
+    "language": "tex"
+  },
+  {
+    "logged": "2022-06-04T02:56:45Z",
+    "uri": "https://github.com/bluesky-social/adx",
+    "period": "monthly",
+    "language": "typescript"
+  },
+  {
+    "logged": "2022-06-04T02:56:45Z",
+    "uri": "https://github.com/changesets/changesets",
+    "period": "monthly",
+    "language": "typescript"
+  },
+  {
+    "logged": "2022-06-04T02:56:45Z",
+    "uri": "https://github.com/vuejs/vitepress",
+    "period": "monthly",
+    "language": "typescript"
+  },
+  {
+    "logged": "2022-06-04T02:57:22Z",
+    "uri": "https://github.com/bespoke-silicon-group/basejump_stl",
+    "period": "monthly",
+    "language": "verilog"
+  },
+  {
+    "logged": "2022-06-04T02:57:22Z",
+    "uri": "https://github.com/T-head-Semi/wujian100_open",
+    "period": "monthly",
+    "language": "verilog"
+  },
+  {
+    "logged": "2022-06-04T02:57:33Z",
+    "uri": "https://github.com/voldikss/vim-floaterm",
+    "period": "monthly",
+    "language": "vim-script"
+  },
+  {
+    "logged": "2022-06-04T02:57:43Z",
+    "uri": "https://github.com/buefy/buefy",
+    "period": "monthly",
+    "language": "vue"
+  },
+  {
+    "logged": "2022-06-04T02:57:43Z",
+    "uri": "https://github.com/DataV-Team/DataV",
+    "period": "monthly",
+    "language": "vue"
+  },
+  {
+    "logged": "2022-06-04T02:57:43Z",
+    "uri": "https://github.com/Armour/vue-typescript-admin-template",
+    "period": "monthly",
+    "language": "vue"
+  },
+  {
+    "logged": "2022-06-04T02:58:45Z",
+    "uri": "https://github.com/archimatetool/ArchiModels",
+    "period": "monthly",
+    "language": "xslt"
   }
 ]
